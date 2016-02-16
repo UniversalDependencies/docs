@@ -4,4 +4,4 @@ title: 'DET'
 shortdef: 'determiner'
 ---
 
-The English `DET` currently covers all case of PTB DT, PDT, WDT. (There probably should be some more subtlety in this interpretation, but at present there isn't).
+The English `DET` covers most cases of Penn Treebank DT, PDT, WDT. However, when a Penn Treebank word with one of these tags stands alone as a noun phrase rather than modifying another word, then it becomes `PRON`.

@@ -16,7 +16,7 @@ It is clear that we should decline .
 expl(clear, It)
 ~~~
 
-Some languages do not have expletives of the English sort, including most languages with free pro-drop (the ability to use zero anaphora rather than over pronouns). In languages with expletives of this sort, they can be positioned where normally a core argument appears: the subject and direct object (and even indirect object) slots, as in the examples below. Note that in the analysis of these examples, we treat the postposed subject or clausal argument as a regular core argument, and mark the expletive with `expl`.
+Some languages do not have expletives of the English sort, including most languages with free pro-drop (the ability to use zero anaphora rather than overt pronouns). In languages with expletives of this sort, they can be positioned where normally a core argument appears: the subject and direct object (and even indirect object) slots, as in the examples below. Note that in the analysis of these examples, we treat the postposed subject or clausal argument as a regular core argument, and mark the expletive with `expl`.
 
 ~~~ sdparse
 There is a ghost in the room
@@ -71,6 +71,18 @@ expl(izprati, mu)
 dobj(izprati, pismo)
 iobj(izprati, rabotnika)
 case(rabotnika, na)
+~~~
+
+The expletive relation is also used for reflexive pronouns (see the feature [u-feat/Reflex]())
+attached to inherently reflexive verbs, i.e. verbs that cannot occur without the reflexive
+pronoun and thus the pronoun does not play the role of a normal object
+(otherwise it would be possible to substitute it with an irreflexive pronoun or other nominal).
+A Czech example:
+
+~~~ sdparse
+Martin se bojí zvířat . \n Martin REFLEX fears animals .
+expl(bojí, se)
+expl(fears, REFLEX)
 ~~~
 
 Further general discussion of expletives can be found in Postal, P. M., and G. K. Pullum (1988) “Expletive Noun Phrases in Subcategorized Positions,” _Linguistic Inquiry_ 19(4): 635–670. The status of clitic doubling, and arguments for the lexical nominal being an argument with the clitic a kind of pronominal copy, appear inter alia in Boris Harizanov (2014) [Clitic doubling at the syntax-morphology interface: A-movement and morphological merger in Bulgarian](http://stanford.edu/~bharizan/pdfs/Harizanov_2014_NLLT.pdf). _Natural Language and Linguistic Theory_.

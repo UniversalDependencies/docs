@@ -413,18 +413,200 @@ collections:
   la-overview:
     output: true
 #
-# Turkish
+# Catalan
 #
-  tr-pos:
+  ca-pos:
     output: true
-    permalink: /tr/pos/:path.html
-  tr-feat:
+    permalink: /ca/pos/:path.html
+  ca-feat:
     output: true
-    permalink: /tr/feat/:path.html
-  tr-dep:
+    permalink: /ca/feat/:path.html
+  ca-dep:
     output: true
-    permalink: /tr/dep/:path.html
-  tr-overview:
+    permalink: /ca/dep/:path.html
+  ca-overview:
+    output: true
+#
+# Arabic
+#
+  ar-pos:
+    output: true
+    permalink: /ar/pos/:path.html
+  ar-feat:
+    output: true
+    permalink: /ar/feat/:path.html
+  ar-dep:
+    output: true
+    permalink: /ar/dep/:path.html
+  ar-overview:
+    output: true
+#
+# Estonian
+#
+  et-pos:
+    output: true
+    permalink: /et/pos/:path.html
+  et-feat:
+    output: true
+    permalink: /et/feat/:path.html
+  et-dep:
+    output: true
+    permalink: /et/dep/:path.html
+  et-overview:
+    output: true
+#
+# Portuguese
+#
+  pt-pos:
+    output: true
+    permalink: /pt/pos/:path.html
+  pt-feat:
+    output: true
+    permalink: /pt/feat/:path.html
+  pt-dep:
+    output: true
+    permalink: /pt/dep/:path.html
+  pt-overview:
+    output: true
+#
+# Dutch
+#
+  nl-pos:
+    output: true
+    permalink: /nl/pos/:path.html
+  nl-feat:
+    output: true
+    permalink: /nl/feat/:path.html
+  nl-dep:
+    output: true
+    permalink: /nl/dep/:path.html
+  nl-overview:
+    output: true
+#
+# Tamil
+#
+  ta-pos:
+    output: true
+    permalink: /ta/pos/:path.html
+  ta-feat:
+    output: true
+    permalink: /ta/feat/:path.html
+  ta-dep:
+    output: true
+    permalink: /ta/dep/:path.html
+  ta-overview:
+    output: true
+#
+# Polish
+#
+  pl-pos:
+    output: true
+    permalink: /pl/pos/:path.html
+  pl-feat:
+    output: true
+    permalink: /pl/feat/:path.html
+  pl-dep:
+    output: true
+    permalink: /pl/dep/:path.html
+  pl-overview:
+    output: true
+#
+# Norwegian
+#
+  no-pos:
+    output: true
+    permalink: /no/pos/:path.html
+  no-feat:
+    output: true
+    permalink: /no/feat/:path.html
+  no-dep:
+    output: true
+    permalink: /no/dep/:path.html
+  no-overview:
+    output: true
+#
+# Church Slavonic
+#
+  cu-pos:
+    output: true
+    permalink: /cu/pos/:path.html
+  cu-feat:
+    output: true
+    permalink: /cu/feat/:path.html
+  cu-dep:
+    output: true
+    permalink: /cu/dep/:path.html
+  cu-overview:
+    output: true
+#
+# Gothic
+#
+  got-pos:
+    output: true
+    permalink: /got/pos/:path.html
+  got-feat:
+    output: true
+    permalink: /got/feat/:path.html
+  got-dep:
+    output: true
+    permalink: /got/dep/:path.html
+  got-overview:
+    output: true
+#
+# Kazakh
+#
+  kk-pos:
+    output: true
+    permalink: /kk/pos/:path.html
+  kk-feat:
+    output: true
+    permalink: /kk/feat/:path.html
+  kk-dep:
+    output: true
+    permalink: /kk/dep/:path.html
+  kk-overview:
+    output: true
+#
+# Ukrainian
+#
+  uk-pos:
+    output: true
+    permalink: /uk/pos/:path.html
+  uk-feat:
+    output: true
+    permalink: /uk/feat/:path.html
+  uk-dep:
+    output: true
+    permalink: /uk/dep/:path.html
+  uk-overview:
+    output: true
+#
+# Galician
+#
+  gl-pos:
+    output: true
+    permalink: /gl/pos/:path.html
+  gl-feat:
+    output: true
+    permalink: /gl/feat/:path.html
+  gl-dep:
+    output: true
+    permalink: /gl/dep/:path.html
+  gl-overview:
+    output: true
+#
+# Russian
+#
+  ru-pos:
+    output: true
+    permalink: /ru/pos/:path.html
+  ru-feat:
+    output: true
+    permalink: /ru/feat/:path.html
+  ru-dep:
+    output: true
+    permalink: /ru/dep/:path.html
+  ru-overview:
     output: true
 #
 # Template
@@ -446,12 +628,18 @@ collections:
   tagset-conversion:
     output: true
     permalink: /tagset-conversion/:path.html
+#
+# Meeting materials
+#
+  2015-08-23-uppsala:
+    output: true
+    permalink: /2015-08-23-uppsala/:path.html
 
 excerpt_separator: "\n\n"
 
 # URL configuration
 
-home: "http://universaldependencies.github.io/docs/"
+home: "http://universaldependencies.org/"
 tracker: "https://github.com/universaldependencies/docs/issues"
 git_raw: "https://raw.githubusercontent.com/universaldependencies/docs/pages-source"
 git_edit: "https://github.com/universaldependencies/docs/edit/pages-source"

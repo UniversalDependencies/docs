@@ -18,7 +18,7 @@ Tagset <tt>sv::suc</tt>, total 155 tags.
 <table>
   <tr style="background:lightgray"><td>AB</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>inte, också, så, bara, nu</em></td></tr>
   <tr><td>AB|AN</td><td>=&gt;</td><td>ADV</td><td>Abbr=Yes</td><td><em>t.ex., ca, t_ex, bl.a., s_k</em></td></tr>
-  <tr style="background:lightgray"><td>AB|KOM</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp</td><td><em>mer, tidigare, mindre, vidare, mera</em></td></tr>
+  <tr style="background:lightgray"><td>AB|KOM</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em>mer, tidigare, mindre, vidare, mera</em></td></tr>
   <tr><td>AB|POS</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos</td><td><em>mycket, helt, ofta, länge, långt</em></td></tr>
   <tr style="background:lightgray"><td>AB|SMS</td><td>=&gt;</td><td>ADV</td><td>Hyph=Yes</td><td><em>över-, in-</em></td></tr>
   <tr><td>AB|SUV</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td><em>minst, mest, högst, främst, helst</em></td></tr>
@@ -49,9 +49,9 @@ Tagset <tt>sv::suc</tt>, total 155 tags.
   <tr style="background:lightgray"><td>IE</td><td>=&gt;</td><td>PART</td><td>VerbForm=Inf</td><td><em>att</em></td></tr>
   <tr><td>IN</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>Jo, ja, nej, fan, visst</em></td></tr>
   <tr style="background:lightgray"><td>JJ|AN</td><td>=&gt;</td><td>ADJ</td><td>Abbr=Yes</td><td><em>ev, S:t, Kungl, Kungl., Teol</em></td></tr>
-  <tr><td>JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp</td><td><em>äldres</em></td></tr>
-  <tr style="background:lightgray"><td>JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp</td><td><em>större, högre, mindre, bättre, äldre</em></td></tr>
-  <tr><td>JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|SMS</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp|Hyph=Yes</td><td><em></em></td></tr>
+  <tr><td>JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp</td><td><em>äldres</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp</td><td><em>större, högre, mindre, bättre, äldre</em></td></tr>
+  <tr><td>JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|SMS</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp|Hyph=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>JJ|POS|MAS|SIN|DEF|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>enskildes, sjukes, andres</em></td></tr>
   <tr><td>JJ|POS|MAS|SIN|DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>enskilde, sjuke, andre, unge, ene</em></td></tr>
   <tr style="background:lightgray"><td>JJ|POS|NEU|SIN|IND/DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Number=Sing</td><td><em>eget</em></td></tr>
@@ -77,7 +77,7 @@ Tagset <tt>sv::suc</tt>, total 155 tags.
   <tr style="background:lightgray"><td>KN</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>och, eller, som, än, men</em></td></tr>
   <tr><td>KN|AN</td><td>=&gt;</td><td>CONJ</td><td>Abbr=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>MAD</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Colo,Excl,Peri,Qest</td><td><em>., ?, :, !, ...</em></td></tr>
-  <tr><td>MID</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Colo,Comm,Dash,Semi</td><td><em>,, -, :, *, ;</em></td></tr>
+  <tr><td>MID</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Comm,Dash,Semi</td><td><em>,, -, :, *, ;</em></td></tr>
   <tr style="background:lightgray"><td>NN|-|-|-|-</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>godo, fjol, fullo, somras, måtto</em></td></tr>
   <tr><td>NN|AN</td><td>=&gt;</td><td>NOUN</td><td>Abbr=Yes</td><td><em>kr, %, s., dr, kap.</em></td></tr>
   <tr style="background:lightgray"><td>NN|NEU|-|-|-</td><td>=&gt;</td><td>NOUN</td><td>Gender=Neut</td><td><em></em></td></tr>
@@ -155,7 +155,7 @@ Tagset <tt>sv::suc</tt>, total 155 tags.
   <tr style="background:lightgray"><td>RO|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>RO|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|NumType=Ord</td><td><em>första, andra, tredje, fjärde, femte</em></td></tr>
   <tr style="background:lightgray"><td>SN</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>att, om, innan, eftersom, medan</em></td></tr>
-  <tr><td>UO</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>companionship, vice, versa, family, capita</em></td></tr>
+  <tr><td>UO</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>companionship, vice, versa, family, capita</em></td></tr>
   <tr style="background:lightgray"><td>VB|AN</td><td>=&gt;</td><td>VERB</td><td>Abbr=Yes</td><td><em>jfr</em></td></tr>
   <tr><td>VB|IMP|AKT</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|VerbForm=Fin|Voice=Act</td><td><em>se, Diskutera, låt, Läs, Gå</em></td></tr>
   <tr style="background:lightgray"><td>VB|IMP|SFO</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|VerbForm=Fin|Voice=Pass</td><td><em>tas</em></td></tr>

@@ -29,4 +29,4 @@ The following are not symbols:
 - _$, %, §, ©_
 - _+, −, ×, ÷, =, <, >_
 - :), ♥‿♥, 😝
-- _john.doe@universal.org, http://universaldependencies.github.io/docs/_
+- _john.doe@universal.org, http://universaldependencies.org/_

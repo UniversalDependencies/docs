@@ -7,7 +7,7 @@ shortdef: 'clausal modifier of noun'
 `acl` is used for finite and non-finite clauses that modify a noun, including cases of secondary predication. 
 Note that in French relative clauses get assigned a specific relation [acl:relcl](), a subtype of `acl`.
 
-Non-relative clausal dependents of nouns are limited to complement clauses with a subset of nouns like *fait (fact)*.  We analyze them as `acl` (parallel to the analysis of this class as "content clauses" in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant French subjunctives). 
+Non-relative clausal dependents of nouns are limited to complement clauses with a subset of nouns like *fait (fact)*.  We analyze them as `acl` (parallel to the analysis of this class as "content clauses" in Huddleston and Pullum 2002).
 
 ~~~ sdparse
 Comment est-ce que cela peut être réconcilié avec le fait que beaucoup de mariages cassent ? \n How can that be reconciled with the fact that many marriages break up?

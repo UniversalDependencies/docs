@@ -14,28 +14,30 @@ root(ROOT-1, Miluju)
 root(ROOT-7, I-love)
 ~~~
 
-In case of
-[ellipsis](http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis)
-there can be multiple _top nodes_ attached to the `ROOT` node.
-This happens with sentence-like segments that lack the main verb:
+Since release 1.2 of the Czech UD treebank,
+there is just one node with the `root` dependency relation in every
+tree. If the main predicate is not present (due to
+[ellipsis](http://universaldependencies.org/cs/overview/specific-syntax.html#ellipsis))
+and there are
+multiple orphaned dependents, the leftmost dependent is promoted to
+the head (root) position and the other orphans are attached to it.
+
+An example sentence-like segment that lacks the main verb:
 _A co na to [říká] MF?_
 “And what [does] MF [say] to it?”
-If there is just one orphaned noun phrase, it is promoted to the top position and its head is
-labeled `root`.
-However, if there are multiple orphans, each of them is attached to the root and we get multiple top nodes:
 
 ~~~ sdparse
 ROOT A co na to MF ? \n ROOT And what to it MF ?
 root(ROOT-1, A)
 root(ROOT-9, And)
-root(ROOT-1, co)
-root(ROOT-9, what)
-root(ROOT-1, to-5)
-root(ROOT-9, it)
+dobj(A, co)
+dobj(And, what)
+nmod(A, to-5)
+nmod(And, it)
 case(to-5, na)
 case(it, to-12)
-root(ROOT-1, MF-6)
-root(ROOT-9, MF-14)
-root(ROOT-1, ?-7)
-root(ROOT-9, ?-15)
+nsubj(A, MF-6)
+nsubj(And, MF-14)
+punct(A, ?-7)
+punct(And, ?-15)
 ~~~

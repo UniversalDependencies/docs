@@ -28,3 +28,10 @@ expl(apucat, o)
 Cine nu știe că Pământul se învârtește în jurul Soarelui ? \n Who not knows that Earth-the SE spins around Sun-the ?
 expl(știe, nu)
 ~~~
+
+- possession:
+
+~~~ sdparse
+Mi- am vândut mașina .
+expl:poss(vândut, Mi-)
+~~~

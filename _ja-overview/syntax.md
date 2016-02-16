@@ -13,11 +13,11 @@ involves several issues to be discussed.  For example, the definition
 of "clause" is not clear, while dependency labels rely on the
 definition of "clause", such as the distinction between "nsubj" and
 "csubj".  These issues are detailed in the section
-[Specific Constructions](http://universaldependencies.github.io/docs/ja/overview/specific-syntax.html),
+[Specific Constructions](http://universaldependencies.org/ja/overview/specific-syntax.html),
 while we still have unclear cases.
 
 In the following, we give a rough sketch of dependency labels with a
-couple of examples.  See the section [Japanese dependency relations](http://universaldependencies.github.io/docs/ja/dep/index.html)
+couple of examples.  See the section [Japanese dependency relations](http://universaldependencies.org/ja/dep/index.html)
 for the definition of each label.
 
 ## Core dependents of clausal predicates

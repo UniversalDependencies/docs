@@ -13,7 +13,7 @@ Also structures with a _supporting noun_
 considered appositional. Appositional structures and the closely
 related _appellation modifiers_ are discussed in detail in
 the document on
-[specific syntactic constructions in Finnish](http://universaldependencies.github.io/docs/fi/overview/specific-syntax.html).
+[specific syntactic constructions in Finnish](http://universaldependencies.org/fi/overview/specific-syntax.html).
 
 <!-- fname:appos1.pdf -->
 ~~~ sdparse

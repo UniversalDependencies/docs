@@ -16,10 +16,10 @@ Every language repository should contain the following five files (where `xx` is
 1. `xx-ud-train.conllu`
 2. `xx-ud-dev.conllu`
 3. `xx-ud-test.conllu`
-4. `README`
-5. `LICENSE`
+4. `README.txt` or `README.md`
+5. `LICENSE.txt`
 
-The first three files contain the treebank data split into a training, development and test set. These should be in `CONLL-U` format and conform to the universal guidelines. They need to be validated as described below. The `README` file contains basic documentation of the treebank (see below) and the `LICENSE` specifies under what license the treebank is made available.
+The first three files contain the treebank data split into a training, development and test set. These should be in `CONLL-U` format and conform to the universal guidelines. They need to be validated as described below. The `README.txt` file contains basic documentation of the treebank and machine-readable metadata for the UD main page (see below) and the `LICENSE.txt` specifies under what license the treebank is made available.
 
 The `README` file should minimally contain the following information:
 
@@ -27,6 +27,7 @@ The `README` file should minimally contain the following information:
 2. A description of how the data was split into training, development and test sets
 3. Basic statistics about number of sentences, tokens, etc.
 4. Acknowledgments and references that should be cited when using the treebank
+5. A machine-readable section with language metadata. This is described [here](
 
 Note that the basic statistics can be produced using the script `conllu-stats.py`available from the `tools` repository and run as follows:
 
@@ -44,7 +45,13 @@ Changelog
     * Corrected tokenization in sentences 123 and 456
 ```
 
+## Language metadata
+
+The readme file contains metadata used to generate the overview table on the UD main page: data source, license, genres, and documentation status. The format of this metadata is described [here](http://universaldependencies.org/language_metadata.html)
+
 ## Validation
+
+Automatic validation runs are available [here](http://universaldependencies.org/validation.html).
 
 The final data validation is an important step and each file released
 in the project is expected to validate as conforming to the basic
@@ -57,11 +64,11 @@ validation script in the tools repository.
 
 In general, you validate the data like so:
 
-    python validate.py --noecho --lang=xx [file.conllu]
+    python validate.py --lang=xx [file.conllu]
 
 for example for Finnish:
 
-    $ python validate.py --noecho --lang=fi ../UD_Finnish/fi-ud-dev.conllu 
+    $ python validate.py --lang=fi ../UD_Finnish/fi-ud-dev.conllu 
     *** PASSED ***
 
 Among other items, the script also validates the language-specific set
@@ -88,7 +95,7 @@ the repository:
 
 ## Language-specific guidelines
 
-Every treebank should be accompanied by a set of language-specific guidelines at http://universaldependencies.github.io/docs/. These guidelines should minimally specify the following:
+Every treebank should be accompanied by a set of language-specific guidelines at http://universaldependencies.org/. These guidelines should minimally specify the following:
 
 1. Tokenization: How was word segmentation performed? Does the treebank include multiword tokens?
 2. POS tags: What universal POS tags (if any) are not used?

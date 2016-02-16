@@ -199,7 +199,7 @@ Clausal core arguments are restricted to verbal and adjectival predicates. Nouns
 
 #### Functional control
 
-The label `xcomp` is used for predicates whose external argument is _controlled_ by an argument of a higher clause. This applies in multiple types of constructions: _raising_, _obligatory control_, _resultatives_ (obligatory and optional alike) and _obligatory depictives_.
+The label `xcomp` is used for predicates whose external argument is _controlled_ by an argument of a higher clause. This applies in multiple types of constructions (often referred to as "small clauses"): _raising_, _obligatory control_, _resultatives_ (obligatory and optional alike) and _obligatory depictives_.
 
 ~~~sdparse
 The cat seems to be in pain .
@@ -681,11 +681,11 @@ The difficulty of representing coordination, which is symmetrical, with an inher
 
 ~~~sdparse
 The elated bride and groom danced and sang songs .
-cc(bride, and)
+cc(bride, and-4)
 conj(bride, groom)
-cc(danced, and)
+cc(danced, and-7)
 conj(danced, sang)
-amod(bride, excited)
+amod(bride, elated)
 dobj(sang, songs)
 ~~~
 
@@ -738,10 +738,507 @@ In this sentence, *was* is also a `cop` dependent of *rough*, but that edge is n
 
 ### Unpronounced material
 
+#### VP ellipsis (and related)
+
+While auxiliaries are normally not analyzed as being heads, when a verb has been elided from VP ellipsis, the auxiliary inherits the head-status. This includes the _to_ nonfinite auxiliary.
+
+~~~sdparse
+Mary did n't leave , John did
+parataxis(leave, did-7)
+nsubj(did-7, John)
+~~~
+
+~~~sdparse
+So please update whatever you need to
+dobj(update, whatever)
+rcmod(whatever, need)
+xcomp(need, to)
+~~~
+
+Similarly, when a preposition is stranded in a passive construction, the preposition receives the `nmod` label on account of lacking a nominal head.
+
+~~~sdparse
+That matter was talked about in detail already
+nmod(talked, about)
+~~~
+
+#### Gapping / Stripping
+
+In 'gapping' constructions, where the head of a clause has been elided but two arguments that contrast with arguments in the antecedent clause remain, and 'stripping' constructions, where the head of a clause has been elided but one contrasting argument and one polarity adverbial such as _not_ or _only_ remain, the `remnant` relation is used between the remaining constituents and the words they contrast with:
+
+~~~sdparse
+it took another 20 mins to get our orders and a further 45 mins till our starters landed on our table.
+cc(took, and)
+remnant(mins-5, mins-14)
+remnant(get-7, landed-18)
+~~~
+
+~~~sdparse
+" Commander in Chief " does n't mean that he is the boss of the military , merely that he is the Administrator
+remnant(n't, merely)
+remnant(boss, Administrator)
+~~~
+
+~~~sdparse
+He 's not against gays in the bedroom , just at the altar
+remnant(not, just)
+remnant(bedroom, altar)
+~~~
+
+When an argument is 'sprouted'--present in the second clause with no antecedent--it depends on the head of the antecedent clause.
+
+~~~sdparse
+" Commander in Chief " means that he is the Administrator of the military , not the boss
+remnant(means, not)
+remnant(Administrator, boss)
+~~~
+
+#### Right-node raising
+
+In right-node raising constructions where the head of the left conjunct has been elided under identity with the head of the second conjunct, the right conjunct undergoes "promotion by head elision", and gains the label that would be assigned to the head if it had been present.
+
+~~~sdparse
+-ROOT- Iguazu is a big or a small country ?
+root(-ROOT-, big)
+cc(big, or)
+conj(big, country)
+~~~
+
+~~~sdparse
+-ROOT- I have never been and I will never be a government official
+root(-ROOT-, been)
+neg(been, never-4)
+aux(been, have)
+nsubj(been, I-2)
+cc(been, and)
+neg(official, never-9)
+aux(official, will)
+nsubj(official, I-7)
+conj(been, official)
+~~~
+
+#### Marginal disfluencies
+
+In informal language usage, nonstandard constructions and disfluencies sometimes arise. When this involves a gapping-like construction--with one or more contrasting arguments that depend on an absent head--the remnant relation should be used.
+
+~~~sdparse
+The letters were to different AMI publications -- one to the National Enquirer and another to The Sun
+cc(were, --)
+remnant(--, and)
+remnant(letters, one)
+remnant(publications, Enquirer)
+remnant(one, another)
+remnant(Enquirer, Sun)
+~~~
+
+If, however, the second clause is largely unparallel to the first clause, a different relation should be used (`conj` or `parataxis` if the smaller clause is not obviously modifying the larger one, `acl` or `advcl` otherwise)
+
+~~~sdparse
+Too bad you wo n't make the Compaq thing , but maybe next year
+conj(make, year)
+cc(make, but)
+~~~
+
+~~~sdparse
+31 -- Number of Bush administration employees ... ( includes four cabinet secretaries , the six most powerful ... )
+acl(Number, includes)
+~~~
+
 ### Resultatives and depictives
 
-### *Tough*-movement
+#### Resultatives
 
-### Comparatives
+Resultatives--predicate arguments of verbs that indicate how another argument of the verb has changed--are considered to be arguments, and therefore receive the `xcomp` relation instead of a modifier one.
+
+~~~sdparse
+-ROOT- He painted the barn red .
+root(-ROOT-, painted)
+dobj(painted, barn)
+xcomp(painted, red)
+~~~
+
+~~~sdparse
+-ROOT- He made them martyrs .
+root(-ROOT-, made)
+dobj(made, them)
+xcomp(made, martyrs)
+~~~
+
+~~~sdparse
+-ROOT- The terrorists stormed the church and took the priests hostage
+root(-ROOT-, stormed)
+conj(stormed, took)
+dobj(took, priests)
+xcomp(took, hostage)
+~~~
+
+#### Depictives
+
+[<!> May be subject to change]
+
+Depictives are generally subject-less modifiers of predicates--consequently, they should be analyzed using the `advmod` relation.
+<!---
+Should this be `advmod` or `advcl`?
+-->
+
+~~~sdparse
+I still remember him stuttering about " the general " , unable to remember Musharraf 's name
+advmod(stuttering, unable)
+~~~
+
+~~~sdparse
+You can rest assured that it 's not going to go away
+advmod(rest, assured)
+ccomp(assured, going)
+~~~
+
+~~~sdparse
+Find attached resume and cover letter
+advmod(Find, attached)
+dobj(Find, resume)
+~~~
+
+~~~sdparse
+Attached please find resume and cover letter
+advmod(find, Attached)
+dobj(find, resume)
+~~~
+
+~~~sdparse
+Elk in Yellowstone used to browse unmolested
+advmod(browse, unmolested)
+~~~
+
+### *Tough*-constructions
+
+#### Clauses with expletives
+In constructions without any dislocation, of the form _it is_ adj _to_ pred, the _it_ is an `expl`, meaning that the lower predicate must be a `csubj`.
+
+~~~sdparse
+-ROOT- It 's hard to make money in this economy
+root(-ROOT-, hard)
+expl(hard, It)
+cop(hard, 's)
+csubj(hard, make)
+~~~
+
+This construction can optionally occur with _for_ and a subject; in this case, there are two possible analyses. If the subject is interpreted as experiencing the adjective predicate in some way, then it analysed as an `nmod` on the higher predicate; otherwise, it is analyzed as being exclusively the subject of the lower clause, and the _for_ is analyzed as being a `mark`.
+
+~~~sdparse
+-ROOT- It was hard for me to solve this problem.
+root(-ROOT-, hard)
+expl(hard, It)
+nmod(hard, me)
+case(me, for)
+csubj(hard, solve)
+~~~
+
+~~~sdparse
+-ROOT- It was helpful for John to solve this problem for us.
+root(-ROOT-, helpful)
+expl(helpful, It)
+csubj(helpful, solve)
+nsubj(solve, John)
+mark(solve, for)
+~~~
+
+#### Fronting in _tough_-constructions
+
+When the subject is not an argument of the higher clause, then the lower clause can displace the expletive.
+
+~~~sdparse
+-ROOT- For John to solve this problem for us was helpful
+root(-ROOT-, helpful)
+csubj(helpful, solve)
+nsubj(solve, John)
+mark(solve, for)
+~~~
+
+When the subject _is_ an argument of the higher clause, the lower verb phrase (in its gerund form) or its object (in its nominative form) can be fronted, displacing the expletive and maintaining its `csubj` label. In the latter case, the clause is no longer a `csubj`, being instead analyzed as an `xcomp`.
+
+~~~sdparse
+-ROOT- Solving this problem was hard for me
+root(-ROOT-, hard)
+nmod(hard, me)
+case(me, for)
+csubj(hard, Solving)
+~~~
+
+~~~sdparse
+-ROOT- This problem was hard for me to solve
+root(-ROOT-, hard)
+nmod(hard, me)
+case(me, for)
+nsubj(hard, problem)
+xcomp(hard, solve)
+~~~
+
+### Dependency-introducing Adverbs
+
+#### Comparatives
+Canonical comparatives are introduced using a comparative adverb (such as _more_, _less_, or _as_) depending on an adjective, and either a clause or prepositional phrase marked with _than_, which also depends on the adjective. In the clausal case, this normally means that the comparing clause is headed by an auxiliary or copula that has been "promoted by head elision".
+
+~~~sdparse
+Natália is much more intelligent than me
+advmod(more, much)
+advmod(intelligent, more)
+nmod(intelligent, me)
+case(me, than)
+~~~
+
+~~~sdparse
+Natália is much more intelligent than I am
+advmod(more, much)
+advmod(intelligent, more)
+advcl(intelligent, am)
+mark(am, than)
+~~~
+
+In many cases, the initial comparative adverb has been dropped or incorporated into the adjective.
+
+~~~sdparse
+Natália is much smarter than I am
+advmod(smarter, much)
+advcl(smarter, am)
+mark(am, than)
+~~~
+
+When the quantity of a noun is being compared, the same rules apply. Normally modifiers of nouns are deemed `amod`s, but in this construction the comparative marker is an `advmod` in all cases.
+
+~~~sdparse
+Natália has more brains than me
+dobj(has, brains)
+advmod(brains, more)
+nmod(brains, me)
+case(me, than)
+~~~
+
+_More than_ and _less than_--when not used synonymously with _over_ and _under_ in quantity expressions--complicate matters slightly, since the comparative adverb is being used without the head that it modifies. We use a "promotion by head elision" solution, making the dependent into the head when the head is absent.
+
+~~~sdparse
+All my neighbors have more than I do
+dobj(have, more)
+mark(do, than)
+acl(more, do)
+~~~
+
+When predicates are compared to predicates or modifiers are compared to modifiers, the comparing phrase is always labeled as an `advcl`.
+
+~~~sdparse
+That question was far more hurtful than tactful
+advmod(more, far)
+advmod(hurtful, more)
+advcl(hurtful, tactful)
+mark(tactful, than)
+~~~
+
+~~~sdparse
+It 's more likely than not to be beneficial .
+advmod(likely, more)
+advcl(likely, not)
+mark(not, than)
+xcomp(likely, beneficial)
+~~~
+
+When a noun phrase is used to restrict the meaning of a comparative, it gets the `npmod` dependency label.
+
+~~~sdparse
+Natália is about three times more intelligent than me .
+advmod(three, about)
+nummod(times, three)
+npmod(more, times)
+advmod(intelligent, more)
+nmod(intelligent, me)
+case(me, than)
+~~~
+
+~~~sdparse
+Some birds are laying eggs four to seven days earlier than they did 25 years ago .
+nummod(days, four)
+nmod(four, seven)
+case(seven, to)
+npmod(earlier, days)
+advmod(laying, earlier)
+advcl(earlier, did)
+mark(did, than)
+~~~
+
+#### The more, the merrier
+In English there exists a very peculiar correlative construction exemplified in the sentences _the more, the merrier_ and _the faster, the better_. Even though both parts of the construction seem equal, suggesting a paratactic relationship between them, it is possible to have the second half be a standard finite clause while the first half remains unchanged, suggesting that the first is actually an adverbial clause depending on the second. For example, the sentence _The angrier he became, the funnier it got_ can be rephrased as _It got funnier the angrier he became_, suggesting the following structure:
+
+~~~sdparse
+The more , the merrier
+advcl(merrier, more)
+~~~
+
+The word _the_ in this construction is not serving its usual purpose as definite article (and in fact, historically the construction required it to be in the instrumental case, rather than in a case dictated by the grammatical function of the word it modified), so instead of labeling it `det` we choose to label it `mark`.
+
+~~~sdparse
+The more , the merrier
+advcl(merrier, more)
+mark(more, The)
+mark(merrier, the)
+~~~
+
+The comparative morpheme or adjective can be followed by a clause as well, such as "the more people that show up, the merrier the party will be". Because the word _that_ can intervene between the comparative word, the strcuture seems most consistent with a relative clause depending on the comparative, so we analyze it as such.
+
+~~~sdparse
+The angrier that he became , the funnier that it got .
+mark(angrier, The)
+relcl(angrier, became)
+advmod(became, that-3)
+nsubj(became, he)
+mark(funnier, the-7)
+relcl(funnier, that-9)
+aux(that-9, got)
+nsubj(that-9, it)
+~~~
+
+The sentence _so far, so good_ should receive the same kind of analysis.
+
+~~~sdparse
+So far , so good
+mark(far, So)
+mark(good, so)
+advcl(good, far)
+~~~
+
+#### Similar constructions
+A non-exhaustive list of constructions with analyses very similar to the analysis of standard comparatives.
+
+_X enough to/that..._
+
+~~~sdparse
+This drink is strong enough to knock out an elephant
+advmod(strong, enough)
+advcl(strong, knock)
+mark(knock, to)
+~~~
+
+~~~sdparse
+-ROOT- For now it was enough that he had learned his lesson .
+root(-ROOT-, enough)
+cop(enough, was)
+advcl(enough, learned)
+~~~
+
+_So many... that..._
+
+~~~sdparse
+-ROOT- There are so many things to do that you wo n't use your room for much more than sleeping .
+root(-ROOT-, things)
+amod(things, many)
+advmod(many, so)
+acl(things, do)
+acl(things, use)
+mark(use, that)
+~~~
+
+_Too X to..._
+
+~~~sdparse
+This problem was too hard to do .
+advmod(hard-5, too-4)
+advcl(hard-5, do-7)
+mark(do-7, to-6)
+~~~
+
+_Such... that..._
+
+~~~sdparse
+The stock would come public at such a ridiculously high price that it would be too hard for investors to make a profit
+advmod(price, such)
+acl(price, hard)
+mark(hard, that)
+~~~
 
 ### Free relatives
+
+#### Basic analysis
+In the canonical case, _wh_-clauses function as interrogative clauses or as adverbial clauses. In these cases, the head of the _wh_-clause is taken to be the verb, and the _wh_-word is assigned the label corresponding to its grammatical function in the _wh_-clause:
+
+~~~sdparse
+I need to know who you are planning to leave with .
+dobj(leave, who)
+case(who, with)
+ccomp(know, leave)
+~~~
+
+~~~sdparse
+When you leave , be sure to let me know .
+advmod(leave, When)
+advcl(sure, leave)
+~~~
+
+In free relative constructions, the _wh_-clause functions as an argument in the lower clause. In these cases, the _wh_-phrase is deemed the head of the construction, thereby receiving a dependency relation reflective of its function in the higher clause, and the rest of the _wh_-clause is an `rcmod` dependent on it.
+
+~~~sdparse
+I 'll have whatever she 's having .
+dobj(have, whatever)
+rcmod(whatever, having)
+~~~
+
+~~~sdparse
+I love how well everyone behaved .
+dobj(love, well)
+advmod(well, how)
+rcmod(well, behaved)
+~~~
+
+This analysis is also extended to cleft constructions.
+
+~~~sdparse
+-ROOT- John is who we want to help .
+root(-ROOT-, who)
+nsubj(who, John)
+rcmod(who, want)
+cop(who, is)
+~~~
+
+~~~sdparse
+-ROOT- It 's John who we want to help .
+expl(who, It)
+root(-ROOT-, who)
+nsubj(who, John)
+rcmod(who, want)
+cop(who, 's)
+~~~
+
+~~~sdparse
+-ROOT- What the committee hopes to learn is why all these events transpired .
+nsubj(why, What)
+rcmod(What, hopes)
+cop(why, is)
+rcmod(why, transpired)
+nsubj(transpired, events)
+root(-ROOT-, why)
+~~~
+
+The phrase _no matter_ is analyzed as taking a `dobj` complement in, e.g., _no matter the cost_. When it takes free relative object, that object is also analyzed according to the rules above.
+
+~~~sdparse
+No matter what progress we make as individuals, we will never achieve real health until ...
+neg(matter, No)
+npmod(achieve, matter)
+dobj(matter, progress)
+det(progress, what)
+rcmod(make, progress)
+~~~
+
+#### Cyclic cases
+In some cases, the _wh_-phrase would be analyzed as the head of the _wh_-clause. For example, in the sentence _I love how appreciative everyone was_, the word _appreciative_ would normally be a predicative head (since the verb _was_ is a copula and would receive the `cop` relation). Since _appreciative_ cannot be an `rcmod` dependent on itself, the auxiliary is promoted to the head of the relative clause and assigned the `rcmod` relation.
+
+~~~sdparse
+I love how appreciative everyone was .
+dobj(love, appreciative)
+rcmod(appreciative, was)
+advmod(how, appreciative)
+~~~
+
+~~~sdparse
+This is the key to how worthy the effort might be .
+nmod(key, worthy)
+case(worthy, to)
+advmod(worthy, how)
+rcmod(worthy, be)
+~~~

@@ -6,11 +6,14 @@ permalink: sl/overview/introduction.html
 
 # Introduction
 
-The Slovenian UD Treebank is based on the [ssj500k Dependency Treebank](http://eng.slovenscina.eu/tehnologije/ucni-korpus) (Krek et al. 2013), a representative balanced collection of sampled texts from the reference FidaPLUS corpus of written Slovenian (Arhar and Gorjanc 2007) that have been manually segmented, tokenized, lemmatized and morphosyntactically tagged in accordance with the [JOS annotation scheme](http://nl.ijs.si/jos/index-en.html) (Erjavec et al. 2010). One half of the ssj500k corpus also includes manually annotated dependency relations and this is what has been used as the basis of the Slovenian UD Treebank.
+The Slovenian UD Treebank is based on the [ssj500k Dependency Treebank](http://eng.slovenscina.eu/tehnologije/ucni-korpus) (Krek et al. 2013), a representative balanced collection of sampled texts from the reference FidaPLUS corpus of written Slovenian (Arhar and Gorjanc 2007) that have been manually segmented, tokenized, lemmatized and morphosyntactically tagged in accordance with the [JOS annotation scheme](http://nl.ijs.si/jos/index-en.html) (Erjavec et al. 2010). Additionnally, approximately one half of the ssj500k corpus (known as the ssj200k subcorpus) includes manually annotated dependency relations and this is what has been used as the basis of the Slovenian UD Treebank.
 
-The Slovenian UD Treebank thus includes 11.411 sentences with 235.864 tokens taken from a variety of text genres, such as fiction, non-fiction and periodicals, dating from 1990 to 2000. 
+The conversion from the ssj200k treebank to the Slovenian UD Treebank was completely automatic, based on a large set of rules on both morphosyntactic and syntactic layer, which include different lexical, morphological and dependency features. Due to the specifics of the original JOS syntactic annotation scheme, not all dependency relations from the original ssj200k treebank could be converted automatically, resulting in a slightly smaller size of the Slovenian UD treebank.
 
-The current version of the Slovene UD Treebank (not yet officially released) includes automatic conversions of POS categories, features and values from JOS to UD, which have also been described in the corresponding [Slovenian UD Guidelines](http://universaldependencies.github.io/docs/#language-sl). Further revisions of this work and syntactic mapping remains a work in progress.
+The current verison of the Slovenian UD Treebank thus contains 7,996 sentences with 140,418 tokens taken from various text types, e.g. fiction, non-fiction and periodicals, dating from 1990-2000. The original JOS annotations are included
+as part of the POSTAG (JOS morphosyntactic tags) and MISC (JOS dependency heads and labels) columns of the CONLLU format. Further revisions of this work, addition of new conversion rules and syntactic annotation guidelines remain a work in progress.
+
+The conversions and guidelines have been contributed by Kaja Dobrovoljc, Tomaž Erjavec and Simon Krek.
 
 ## Acknowledgments
 

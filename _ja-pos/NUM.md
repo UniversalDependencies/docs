@@ -10,7 +10,7 @@ A numeral is a word, functioning most typically as a determiner,
 adjective or pronoun, that expresses a number and a relation to the
 number, such as quantity, sequence, frequency or fraction.
 
-Cardinal numerals are convered by 'NUM',
+Cardinal numerals are convered by [NUM](),
 which are tagged with `noun(numeral)` / 名詞-数詞 in UniDic,
 including Kanji expressions
 (e.g. _<b>二十</b>_&nbsp;“20”, _<b>六万</b>_&nbsp;“60,000”).

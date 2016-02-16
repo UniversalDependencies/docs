@@ -471,9 +471,9 @@ of the two words.
 <!-- fname:nn_appellation.pdf -->
 ~~~ sdparse
 Professori Matti Tamminen pitää puheen . \n Professor Matti Tamminen gives a_speech .
-compound:nn(Tamminen-3, Professori-1)
-name(Tamminen-3, Matti-2)
-nsubj(pitää-4, Tamminen-3)
+compound:nn(Matti-2, Professori-1)
+name(Matti-2, Tamminen-3)
+nsubj(pitää-4, Matti-2)
 dobj(pitää-4, puheen-5)
 punct(pitää-4, .-6)
 ~~~
@@ -485,10 +485,10 @@ apposition structures the first word is considered the governor.
 <!-- fname:appos1.pdf -->
 ~~~ sdparse
 Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
-appos(Professori-1, Tamminen-4)
-punct(Tamminen-4, ,-2)
-punct(Tamminen-4, ,-5)
-name(Tamminen-4, Matti-3)
+appos(Professori-1, Matti-3)
+punct(Matti-3, ,-2)
+punct(Matti-3, ,-5)
+name(Matti-3, Tamminen-4)
 nsubj(luennoi-6, Professori-1)
 advmod(luennoi-6, tänään-7)
 punct(luennoi-6, .-8)
@@ -1586,8 +1586,8 @@ modifier).
 ~~~ sdparse
 Tunnettu näyttelijä John Travolta \n Well-known actor John Travolta
 amod/acl?(näyttelijä-2, Tunnettu-1)
-compound:nn(Travolta-4, näyttelijä-2)
-name(Travolta-4, John-3)
+compound:nn(John-3, näyttelijä-2)
+name(John-3, Travolta-4)
 ~~~
 
 Second, it affects whether certain structures should be marked as
@@ -1843,7 +1843,7 @@ nsubj:cop(puhe-6, elokuva-2)
 cop(puhe-6, on-3)
 punct(puhe-6, "-4)
 nmod:poss(puhe-6, Kuninkaan-5)
-name(puhe-6, Kuninkaan-5)
+name(Kuninkaan-5, puhe-6)
 punct(puhe-6, "-7)
 punct(puhe-6, .-8)
 ~~~
@@ -1896,8 +1896,8 @@ attached to the head of the addition.
 <!-- fname:punctappos.pdf -->
 ~~~ sdparse
 Matti Tamminen , professori \n Matti Tamminen , the_professor
-name(Tamminen-2, Matti-1)
-appos(Tamminen-2, professori-4)
+name(Matti-1, Tamminen-2)
+appos(Matti-1, professori-4)
 punct(professori-4, ,-3)
 ~~~
 

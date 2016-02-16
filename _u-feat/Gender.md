@@ -61,3 +61,17 @@ undecided cases, not for something that occurs systematically in the
 grammar. Language-specific extensions to these guidelines should
 determine whether the `Com` value is appropriate for a particular
 language.
+
+Note further that the `Com` value is not intended for cases where
+we just cannot derive the gender from the word itself (without seeing the context),
+while the language actually distinguishes `Masc` and `Fem`.
+For example, in Spanish, nouns distinguish two genders, masculine and feminine, and
+every noun can be classified as either `Masc` or `Fem`. Adjectives are supposed to
+agree with nouns in gender (and number), which they typically achieve by alternating _-o / -a._
+But then there are adjectives such as _grande_ or _feliz_ that have only one form for both genders.
+So we cannot tell whether they are masculine or feminine unless we see the context.
+Yet they are either masculine or feminine (feminine in _una ciudad grande,_ masculine in _un puerto grande)._
+Therefore in Spanish we should not tag _grande_ with `Gender=Com`.
+Instead, we should either drop the gender feature entirely
+(suggesting that this word does not inflect for gender)
+or tag individual instances of _grande_ as either masculine or feminine, depending on context.

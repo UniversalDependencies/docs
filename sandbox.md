@@ -226,4 +226,3 @@ det(Wurst,die)
 advmod(hat,nur)
 parataxis(hat,hat)
 ~~~
-

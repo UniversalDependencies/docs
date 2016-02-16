@@ -15,7 +15,7 @@ We follow [Loos et al. 2003](http://www-01.sil.org/linguistics/GlossaryOfLinguis
 
 * Complementizers, like [en] _that_ or _if_
 * Adverbial clause introducers, like [en] _when_, _since_, or _before_ (when introducing a clause not a nominal)
-* Relativizers, like [en] _that_ or [he] še. (Note that these words, which simply introduce a relative caluse, need to be distinguished from relative or resumptive pronouns, which have a nominal function within the relative clause.)
+* Relativizers, like [he] _še_. (Note that these words, which simply introduce a relative caluse, and normally don't inflect, need to be distinguished from relative or resumptive pronouns, which have a nominal function within the relative clause and which we analyze as [PRON]().)
 
 For _coordinating conjunctions,_ see [CONJ]().
 

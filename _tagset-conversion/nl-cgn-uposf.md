@@ -37,9 +37,9 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr style="background:lightgray"><td>ADJ(prenom,basis,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos|Position=Prenom</td><td><em></em></td></tr>
   <tr><td>ADJ(prenom,basis,met-e,stan)</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc,Nom|Degree=Pos|Position=Prenom</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ(prenom,basis,met-e,bijz)</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat,Gen|Degree=Pos|Position=Prenom</td><td><em></em></td></tr>
-  <tr><td>ADJ(prenom,comp,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp|Position=Prenom</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ(prenom,comp,met-e,stan)</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc,Nom|Degree=Comp|Position=Prenom</td><td><em></em></td></tr>
-  <tr><td>ADJ(prenom,comp,met-e,bijz)</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat,Gen|Degree=Comp|Position=Prenom</td><td><em></em></td></tr>
+  <tr><td>ADJ(prenom,comp,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp|Position=Prenom</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ(prenom,comp,met-e,stan)</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc,Nom|Degree=Cmp|Position=Prenom</td><td><em></em></td></tr>
+  <tr><td>ADJ(prenom,comp,met-e,bijz)</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat,Gen|Degree=Cmp|Position=Prenom</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ(prenom,sup,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup|Position=Prenom</td><td><em></em></td></tr>
   <tr><td>ADJ(prenom,sup,met-e,stan)</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc,Nom|Degree=Sup|Position=Prenom</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ(prenom,sup,met-e,bijz)</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat,Gen|Degree=Sup|Position=Prenom</td><td><em></em></td></tr>
@@ -48,20 +48,20 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr><td>ADJ(nom,basis,met-e,zonder-n,stan)</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc,Nom|Degree=Pos|Position=Nom</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ(nom,basis,met-e,zonder-n,bijz)</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat,Gen|Degree=Pos|Position=Nom</td><td><em></em></td></tr>
   <tr><td>ADJ(nom,basis,met-e,mv-n)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos|Number=Plur|Position=Nom</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ(nom,comp,zonder,zonder-n)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp|Position=Nom</td><td><em></em></td></tr>
-  <tr><td>ADJ(nom,comp,met-e,zonder-n,stan)</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc,Nom|Degree=Comp|Position=Nom</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ(nom,comp,met-e,zonder-n,bijz)</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat,Gen|Degree=Comp|Position=Nom</td><td><em></em></td></tr>
-  <tr><td>ADJ(nom,comp,met-e,mv-n)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp|Number=Plur|Position=Nom</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ(nom,comp,zonder,zonder-n)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp|Position=Nom</td><td><em></em></td></tr>
+  <tr><td>ADJ(nom,comp,met-e,zonder-n,stan)</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc,Nom|Degree=Cmp|Position=Nom</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ(nom,comp,met-e,zonder-n,bijz)</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat,Gen|Degree=Cmp|Position=Nom</td><td><em></em></td></tr>
+  <tr><td>ADJ(nom,comp,met-e,mv-n)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp|Number=Plur|Position=Nom</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ(nom,sup,zonder,zonder-n)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup|Position=Nom</td><td><em></em></td></tr>
   <tr><td>ADJ(nom,sup,met-e,zonder-n,stan)</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc,Nom|Degree=Sup|Position=Nom</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ(nom,sup,met-e,zonder-n,bijz)</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat,Gen|Degree=Sup|Position=Nom</td><td><em></em></td></tr>
   <tr><td>ADJ(nom,sup,met-e,mv-n)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup|Number=Plur|Position=Nom</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ(postnom,basis,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos|Position=Postnom</td><td><em></em></td></tr>
   <tr><td>ADJ(postnom,basis,met-s)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos|Position=Postnom</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ(postnom,comp,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp|Position=Postnom</td><td><em></em></td></tr>
-  <tr><td>ADJ(postnom,comp,met-s)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp|Position=Postnom</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ(postnom,comp,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp|Position=Postnom</td><td><em></em></td></tr>
+  <tr><td>ADJ(postnom,comp,met-s)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp|Position=Postnom</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ(vrij,basis,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos|Position=Free</td><td><em></em></td></tr>
-  <tr><td>ADJ(vrij,comp,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp|Position=Free</td><td><em></em></td></tr>
+  <tr><td>ADJ(vrij,comp,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp|Position=Free</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ(vrij,sup,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup|Position=Free</td><td><em></em></td></tr>
   <tr><td>ADJ(vrij,dim,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Dim|Position=Free</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>WW(pv,tgw,ev)</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp,Ind|Number=Sing|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
@@ -267,9 +267,9 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr style="background:lightgray"><td>VNW(onbep,grad,stan,prenom,zonder,agr,basis)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Pos|NumType=Card|Position=Prenom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
   <tr><td>VNW(onbep,grad,stan,prenom,met-e,agr,basis)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Pos|NumType=Card|Position=Prenom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(onbep,grad,stan,prenom,met-e,mv,basis)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Pos|Number=Plur|NumType=Card|Position=Prenom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
-  <tr><td>VNW(onbep,grad,stan,prenom,zonder,agr,comp)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Comp|NumType=Card|Position=Prenom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
+  <tr><td>VNW(onbep,grad,stan,prenom,zonder,agr,comp)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Cmp|NumType=Card|Position=Prenom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(onbep,grad,stan,prenom,met-e,agr,sup)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Sup|NumType=Card|Position=Prenom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
-  <tr><td>VNW(onbep,grad,stan,prenom,met-e,agr,comp)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Comp|NumType=Card|Position=Prenom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
+  <tr><td>VNW(onbep,grad,stan,prenom,met-e,agr,comp)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Cmp|NumType=Card|Position=Prenom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(onbep,det,stan,nom,met-e,mv-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number=Plur|Position=Nom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
   <tr><td>VNW(onbep,det,stan,nom,met-e,zonder-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Position=Nom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(onbep,det,stan,nom,zonder,zonder-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Position=Nom|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
@@ -283,7 +283,7 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr style="background:lightgray"><td>VNW(onbep,det,stan,vrij,zonder)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Position=Free|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
   <tr><td>VNW(onbep,grad,stan,vrij,zonder,basis)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Pos|NumType=Card|Position=Free|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(onbep,grad,stan,vrij,zonder,sup)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Sup|NumType=Card|Position=Free|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
-  <tr><td>VNW(onbep,grad,stan,vrij,zonder,comp)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Comp|NumType=Card|Position=Free|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
+  <tr><td>VNW(onbep,grad,stan,vrij,zonder,comp)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Degree=Cmp|NumType=Card|Position=Free|PronType=Ind,Neg,Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>LID(bep,stan,evon)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art</td><td><em></em></td></tr>
   <tr><td>LID(bep,stan,rest)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Art</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>LID(bep,gen,evmo)</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art</td><td><em></em></td></tr>
@@ -298,7 +298,7 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr><td>VZ(versm)</td><td>=&gt;</td><td>ADP</td><td>AdpType=Comprep</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VG(neven)</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>VG(onder)</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>BIJW()</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>BW()</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em></em></td></tr>
   <tr><td>TSW()</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>LET()</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em></em></td></tr>
   <tr><td>VNW(pers,pron,nomin,red,3m,ev,masc)</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>

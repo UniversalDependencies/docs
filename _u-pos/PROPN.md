@@ -24,6 +24,9 @@ _Thrall Manufacturing Company_.  This is certainly the practice for
 the English Penn Treebank tag set.
 
 Acronyms of proper nouns, such as _UN_ and _NATO_, should be tagged `PROPN`.
+Even if they contain numbers (as in various product names), they are tagged `PROPN` and not [SYM]():
+_130XE_, _DC10_, _DC-10_.
+However, if the token consists entirely of digits (like _7_ in _Windows 7_), it is tagged [NUM]().
 
 ### Examples
 

@@ -25,8 +25,8 @@
         root + 'lib/local/collections.js',
 
         // NOTE: non-local libraries
-        'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
-        'http://spyysalo.github.io/conllu.js/conllu.js'
+        'https://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'https://spyysalo.github.io/conllu.js/conllu.js'
     );
 
     var webFontURLs = [
@@ -34,6 +34,14 @@
         root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
         root + 'static/fonts/Liberation_Sans-Regular.ttf'
     ];
+
+    var setupAccordions = function() {
+        // standard jQuery UI "accordion" element initialization
+	$(".jquery-ui-accordion").accordion({
+	    collapsible: true,
+	    active: false
+	});
+    };
 
     var setupTabs = function() {
         // standard jQuery UI "tabs" element initialization
@@ -55,6 +63,7 @@
     head.ready(function() {
         // set up UI tabs on page
         setupTabs();
+        setupAccordions();
 
         // mark current collection (filled in by Jekyll)
         Collections.listing['_current'] = '{{ page.collection }}';

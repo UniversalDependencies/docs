@@ -9,6 +9,6 @@ for `acl`.
 
 
 ~~~ sdparse
-Comeremos cuando llegue Pedro . \n We will eat when Pedro arrives .
+comeremos cuando llegue Pedro . \n We will eat when Pedro arrives .
 advcl(comeremos, llegue)
 ~~~

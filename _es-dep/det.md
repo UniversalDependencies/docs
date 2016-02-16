@@ -10,5 +10,5 @@ for `det`.
 
 ~~~ sdparse
 Esta moneda está sucia . \n This coin is dirty .
-dep(moneda, esta)
+dep(moneda, está)
 ~~~

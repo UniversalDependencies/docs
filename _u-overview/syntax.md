@@ -12,7 +12,7 @@ The goal of the typed dependency relations is a set of broadly observed "univers
 The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance. We now try to lay down some general principles that should guide the use of universal 
 dependencies to achieve as much parallelism as possible (but not more) across languages. 
 (More specific guidelines can be found in the documentation of the specific 
-[dependency relations](http://universaldependencies.github.io/docs/u/dep/index.html).)
+[dependency relations](http://universaldependencies.org/u/dep/index.html).)
 
 The principles primarily apply to the _basic_ version of the universal dependencies, where dependencies are 
 assumed to form a rooted tree representing the backbone of the syntactic structure. In addition to the 

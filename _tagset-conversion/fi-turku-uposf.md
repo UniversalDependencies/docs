@@ -30,20 +30,20 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>ABBR|NOM|SG|TrunCo</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Nom|Hyph=Yes|Number=Sing</td><td><em>v-, o-</em></td></tr>
   <tr style="background:lightgray"><td>ABBR|PTV|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Par|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ABBR|digit</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|NumForm=Digit</td><td><em>7., 9., 10., 19., 27.</em></td></tr>
-  <tr style="background:lightgray"><td>ABBR|digit|ABL|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Abl|NumForm=Digit|Number=Sing</td><td><em>581:ltä, 955:ltä</em></td></tr>
-  <tr><td>ABBR|digit|ELA|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Ela|NumForm=Digit|Number=Sing</td><td><em>4:stä</em></td></tr>
-  <tr style="background:lightgray"><td>ABBR|digit|GEN|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Gen|NumForm=Digit|Number=Sing</td><td><em>13:n, 4004:n, 2:sen, 1:sen</em></td></tr>
-  <tr><td>ABBR|digit|ILL|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Ill|NumForm=Digit|Number=Sing</td><td><em>6:een</em></td></tr>
-  <tr style="background:lightgray"><td>ABBR|digit|INE|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Ine|NumForm=Digit|Number=Sing</td><td><em>1:ssä, 37:ssä</em></td></tr>
-  <tr><td>ABBR|digit|NOM|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Nom|NumForm=Digit|Number=Sing</td><td><em>2009, 000, 2, 5, 2007</em></td></tr>
-  <tr style="background:lightgray"><td>ABBR|digit|NOM|SG|TrunCo</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Nom|Hyph=Yes|NumForm=Digit|Number=Sing</td><td><em>1980-, 20-, 1970-, 2010-</em></td></tr>
-  <tr><td>ABBR|digit|PTV|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Par|NumForm=Digit|Number=Sing</td><td><em>50:tä, 25:ttä, 22:ta</em></td></tr>
-  <tr style="background:lightgray"><td>ABBR|roman|ABL|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Abl|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ABBR|roman|ALL|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=All|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ABBR|roman|GEN|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Gen|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ABBR|roman|INE|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Ine|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ABBR|roman|NOM|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Nom|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ABBR|roman|PTV|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Par|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ABBR|digit|ABL|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Abl|Number=Sing|NumForm=Digit</td><td><em>581:ltä, 955:ltä</em></td></tr>
+  <tr><td>ABBR|digit|ELA|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Ela|Number=Sing|NumForm=Digit</td><td><em>4:stä</em></td></tr>
+  <tr style="background:lightgray"><td>ABBR|digit|GEN|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Gen|Number=Sing|NumForm=Digit</td><td><em>13:n, 4004:n, 2:sen, 1:sen</em></td></tr>
+  <tr><td>ABBR|digit|ILL|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Ill|Number=Sing|NumForm=Digit</td><td><em>6:een</em></td></tr>
+  <tr style="background:lightgray"><td>ABBR|digit|INE|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Ine|Number=Sing|NumForm=Digit</td><td><em>1:ssä, 37:ssä</em></td></tr>
+  <tr><td>ABBR|digit|NOM|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Nom|Number=Sing|NumForm=Digit</td><td><em>2009, 000, 2, 5, 2007</em></td></tr>
+  <tr style="background:lightgray"><td>ABBR|digit|NOM|SG|TrunCo</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Nom|Hyph=Yes|Number=Sing|NumForm=Digit</td><td><em>1980-, 20-, 1970-, 2010-</em></td></tr>
+  <tr><td>ABBR|digit|PTV|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Par|Number=Sing|NumForm=Digit</td><td><em>50:tä, 25:ttä, 22:ta</em></td></tr>
+  <tr style="background:lightgray"><td>ABBR|roman|ABL|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Abl|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>ABBR|roman|ALL|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=All|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ABBR|roman|GEN|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Gen|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>ABBR|roman|INE|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Ine|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ABBR|roman|NOM|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Nom|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>ABBR|roman|PTV|SG</td><td>=&gt;</td><td>X</td><td>Abbr=Yes|Case=Par|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>AD-A</td><td>=&gt;</td><td>ADV</td><td>AdvType=Adadj</td><td><em>hyvin, aivan, liian, yhtä, melko</em></td></tr>
   <tr><td>AD-A|kin</td><td>=&gt;</td><td>ADV</td><td>AdvType=Adadj</td><td><em>hyvinkin</em></td></tr>
   <tr style="background:lightgray"><td>ADV</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>myös, mukaan, kanssa, niin, kuitenkin</em></td></tr>
@@ -58,10 +58,10 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>ADV|ALL|3</td><td>=&gt;</td><td>ADV</td><td>Case=All|Person[psor]=3|Poss=Yes</td><td><em>erilleen</em></td></tr>
   <tr style="background:lightgray"><td>ADV|ALL|kin</td><td>=&gt;</td><td>ADV</td><td>Case=All</td><td><em>muuallekin</em></td></tr>
   <tr><td>ADV|ALL|st-cllq</td><td>=&gt;</td><td>ADV</td><td>Case=All|Style=Coll</td><td><em>näytille</em></td></tr>
-  <tr style="background:lightgray"><td>ADV|CMP|ADE</td><td>=&gt;</td><td>ADV</td><td>Case=Ade|Degree=Comp</td><td><em>etäämmällä</em></td></tr>
-  <tr><td>ADV|CMP|ESS</td><td>=&gt;</td><td>ADV</td><td>Case=Ess|Degree=Comp</td><td><em>etelämpänä, lähempänä, kauempana</em></td></tr>
-  <tr style="background:lightgray"><td>ADV|CMP|ESS|kin</td><td>=&gt;</td><td>ADV</td><td>Case=Ess|Degree=Comp</td><td><em>etelämpänäkin</em></td></tr>
-  <tr><td>ADV|CMP|PTV</td><td>=&gt;</td><td>ADV</td><td>Case=Par|Degree=Comp</td><td><em>kauempaa</em></td></tr>
+  <tr style="background:lightgray"><td>ADV|CMP|ADE</td><td>=&gt;</td><td>ADV</td><td>Case=Ade|Degree=Cmp</td><td><em>etäämmällä</em></td></tr>
+  <tr><td>ADV|CMP|ESS</td><td>=&gt;</td><td>ADV</td><td>Case=Ess|Degree=Cmp</td><td><em>etelämpänä, lähempänä, kauempana</em></td></tr>
+  <tr style="background:lightgray"><td>ADV|CMP|ESS|kin</td><td>=&gt;</td><td>ADV</td><td>Case=Ess|Degree=Cmp</td><td><em>etelämpänäkin</em></td></tr>
+  <tr><td>ADV|CMP|PTV</td><td>=&gt;</td><td>ADV</td><td>Case=Par|Degree=Cmp</td><td><em>kauempaa</em></td></tr>
   <tr style="background:lightgray"><td>ADV|DN-ITTAIN</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>erittäin, osittain, perhekunnittain, ajoittain, asteittain</em></td></tr>
   <tr><td>ADV|DN-ITTAIN|DV-JA</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>pitäjittäin</em></td></tr>
   <tr style="background:lightgray"><td>ADV|ELA</td><td>=&gt;</td><td>ADV</td><td>Case=Ela</td><td><em>edestä</em></td></tr>
@@ -72,8 +72,8 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>ADV|INE|3</td><td>=&gt;</td><td>ADV</td><td>Case=Ine|Person[psor]=3|Poss=Yes</td><td><em>hallussaan</em></td></tr>
   <tr style="background:lightgray"><td>ADV|INTERR</td><td>=&gt;</td><td>ADV</td><td>PronType=Int</td><td><em>miten, kuinka, milloin</em></td></tr>
   <tr><td>ADV|MAN</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man</td><td><em>oikein, parhaiten, toisin, mieluiten, mieluusti</em></td></tr>
-  <tr style="background:lightgray"><td>ADV|MAN|CMP</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Comp</td><td><em>useammin, laajemmin, paremmin, määrätietoisemmin, liiemmin</em></td></tr>
-  <tr><td>ADV|MAN|CMP|DV-VAINEN</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Comp</td><td><em>päättäväisemmin</em></td></tr>
+  <tr style="background:lightgray"><td>ADV|MAN|CMP</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Cmp</td><td><em>useammin, laajemmin, paremmin, määrätietoisemmin, liiemmin</em></td></tr>
+  <tr><td>ADV|MAN|CMP|DV-VAINEN</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Cmp</td><td><em>päättäväisemmin</em></td></tr>
   <tr style="background:lightgray"><td>ADV|MAN|POS</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Pos</td><td><em>erityisesti, nopeasti, voimakkaasti, yleisesti, oikeasti</em></td></tr>
   <tr><td>ADV|MAN|POS|ACT|PCP1</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Pos|VerbForm=Part|Voice=Act</td><td><em>jatkuvasti, merkittävästi, riittävästi, kattavasti, toistuvasti</em></td></tr>
   <tr style="background:lightgray"><td>ADV|MAN|POS|ACT|PCP2</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Pos|VerbForm=Part|Voice=Act</td><td><em>hermostuneesti</em></td></tr>
@@ -93,203 +93,203 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>ADV|kAAn</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>myöskään, juurikaan, todellakaan, edelleenkään, niinkään</em></td></tr>
   <tr><td>ADV|kin</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>ainakin, muutenkin, myöskin, vastakin, aiemminkin</em></td></tr>
   <tr style="background:lightgray"><td>ADV|pA</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>vieläpä</em></td></tr>
-  <tr><td>ART|FORGN</td><td>=&gt;</td><td>DET</td><td>Foreign=Yes|PronType=Art</td><td><em>the</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABE|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABE|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABE|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABE|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABE|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABE|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABE|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABE|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABE|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABE|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABE|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABE|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABL|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABL|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABL|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABL|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABL|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABL|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Sing</td><td><em>pidemmältä, useammalta</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABL|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABL|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABL|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABL|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ABL|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ABL|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ADE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Plur</td><td><em>erikoisemmilla</em></td></tr>
-  <tr><td>A|CMP|ADE|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ADE|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ADE|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ADE|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ADE|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ADE|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ADE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Sing</td><td><em>helpommalla, useammalla, tyylikkäämmällä, korkeammalla</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ADE|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ADE|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ADE|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ADE|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ADE|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ADE|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Sing</td><td><em>perinteisemmälläkin</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ALL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Plur</td><td><em>lämpimämmille</em></td></tr>
-  <tr><td>A|CMP|ALL|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ALL|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ALL|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ALL|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ALL|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ALL|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ALL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Sing</td><td><em>paremmalle, vähemmälle</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ALL|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ALL|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ALL|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ALL|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ALL|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ALL|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|CMT|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|CMT|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|CMT|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|CMT|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|CMT|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|CMT|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|CMT|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|CMT|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|CMT|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|CMT|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|CMT|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|CMT|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|CMT|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|CMT|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ELA|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Plur</td><td><em>aikaisemmista, harvinaisemmista, ylemmistä</em></td></tr>
-  <tr><td>A|CMP|ELA|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ELA|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ELA|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ELA|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ELA|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ELA|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ELA|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Sing</td><td><em>aikaisemmasta, suuremmasta, useammasta, ylemmästä, vanhemmasta</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ELA|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ELA|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ELA|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ELA|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ELA|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ELA|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ESS|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ESS|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ESS|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ESS|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ESS|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ESS|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ESS|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ESS|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Sing</td><td><em>parempana, voimakkaampana, ylempänä</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ESS|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ESS|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ESS|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ESS|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ESS|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ESS|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|GEN|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Plur</td><td><em>pehmeämpien, heikompien, vanhempien</em></td></tr>
-  <tr><td>A|CMP|GEN|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|GEN|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|GEN|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|GEN|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|GEN|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|GEN|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|GEN|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Sing</td><td><em>vähemmän, suuremman, nuoremman, useamman, pahemman</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|GEN|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|GEN|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|GEN|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|GEN|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|GEN|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|GEN|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ILL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Plur</td><td><em>korkeampiin, pienempiin</em></td></tr>
-  <tr><td>A|CMP|ILL|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ILL|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ILL|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ILL|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ILL|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ILL|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ILL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Sing</td><td><em>laajempaan, useampaan, parempaan</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ILL|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ILL|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ILL|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ILL|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Sing</td><td><em>lapsiystävällisempään</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|ILL|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|ILL|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Plur</td><td><em>suuremmissa, laajemmissa, pienemmissä, klassisemmissa</em></td></tr>
-  <tr><td>A|CMP|INE|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INE|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INE|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INE|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INE|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INE|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing</td><td><em>varhaisemmassa, useammassa, sutjakkaammassa</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INE|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INE|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INE|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INE|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INE|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INE|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INS|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Plur</td><td><em>laaja-alaisemmin</em></td></tr>
-  <tr><td>A|CMP|INS|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INS|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INS|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INS|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INS|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INS|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INS|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INS|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INS|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INS|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INS|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|INS|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|INS|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|NOM|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur</td><td><em>paremmat, tummemmat, myöhemmät, tiiviimmät</em></td></tr>
-  <tr><td>A|CMP|NOM|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|NOM|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|NOM|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>varttuneemmat</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|NOM|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|NOM|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|NOM|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur</td><td><em>kovemmatkin</em></td></tr>
-  <tr><td>A|CMP|NOM|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Sing</td><td><em>pidempijaksoinen, vähempiarvoinen</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|NOM|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|NOM|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>mahtavampi</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|NOM|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|NOM|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|NOM|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|NOM|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|PTV|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Plur</td><td><em>pienempiä, nuorempia, pahempia, parempia, pidempiä</em></td></tr>
-  <tr><td>A|CMP|PTV|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|PTV|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|PTV|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|PTV|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|PTV|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>luotettavampia</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|PTV|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|PTV|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Sing</td><td><em>helpompaa, parempaa, kummempaa, aiempaa, tarkempaa</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|PTV|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|PTV|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>ärsyttävämpää</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|PTV|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|PTV|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Sing</td><td><em>rauhallisempaa</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|PTV|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|PTV|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Comp|Number=Sing</td><td><em>laajempaakin</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|TRA|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|TRA|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|TRA|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|TRA|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|TRA|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Plur</td><td><em>edullisemmiksi</em></td></tr>
-  <tr><td>A|CMP|TRA|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|TRA|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A|CMP|TRA|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Sing</td><td><em>helpommaksi</em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|TRA|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>A|CMP|TRA|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|TRA|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>A|CMP|TRA|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|CMP|TRA|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>A|CMP|TRA|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Sing</td><td><em>pidemmäksikin</em></td></tr>
+  <tr><td>ART|FORGN</td><td>=&gt;</td><td>DET</td><td>Foreign=Foreign|PronType=Art</td><td><em>the</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABE|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABE|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABE|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABE|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABE|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABE|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABE|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABE|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABE|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABE|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABE|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABE|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABL|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABL|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABL|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABL|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABL|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABL|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Sing</td><td><em>pidemmältä, useammalta</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABL|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABL|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABL|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABL|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ABL|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ABL|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ADE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Plur</td><td><em>erikoisemmilla</em></td></tr>
+  <tr><td>A|CMP|ADE|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ADE|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ADE|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ADE|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ADE|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ADE|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ADE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Sing</td><td><em>helpommalla, useammalla, tyylikkäämmällä, korkeammalla</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ADE|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ADE|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ADE|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ADE|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ADE|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ADE|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Sing</td><td><em>perinteisemmälläkin</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ALL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Plur</td><td><em>lämpimämmille</em></td></tr>
+  <tr><td>A|CMP|ALL|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ALL|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ALL|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ALL|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ALL|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ALL|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ALL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Sing</td><td><em>paremmalle, vähemmälle</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ALL|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ALL|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ALL|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ALL|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ALL|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ALL|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|CMT|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|CMT|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|CMT|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|CMT|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|CMT|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|CMT|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|CMT|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|CMT|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|CMT|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|CMT|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|CMT|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|CMT|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|CMT|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|CMT|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ELA|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Plur</td><td><em>aikaisemmista, harvinaisemmista, ylemmistä</em></td></tr>
+  <tr><td>A|CMP|ELA|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ELA|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ELA|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ELA|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ELA|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ELA|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ELA|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Sing</td><td><em>aikaisemmasta, suuremmasta, useammasta, ylemmästä, vanhemmasta</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ELA|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ELA|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ELA|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ELA|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ELA|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ELA|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ESS|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ESS|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ESS|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ESS|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ESS|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ESS|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ESS|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ESS|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Sing</td><td><em>parempana, voimakkaampana, ylempänä</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ESS|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ESS|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ESS|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ESS|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ESS|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ESS|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|GEN|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Plur</td><td><em>pehmeämpien, heikompien, vanhempien</em></td></tr>
+  <tr><td>A|CMP|GEN|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|GEN|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|GEN|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|GEN|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|GEN|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|GEN|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|GEN|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Sing</td><td><em>vähemmän, suuremman, nuoremman, useamman, pahemman</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|GEN|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|GEN|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|GEN|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|GEN|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|GEN|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|GEN|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ILL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Plur</td><td><em>korkeampiin, pienempiin</em></td></tr>
+  <tr><td>A|CMP|ILL|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ILL|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ILL|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ILL|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ILL|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ILL|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ILL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Sing</td><td><em>laajempaan, useampaan, parempaan</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ILL|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ILL|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ILL|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ILL|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Sing</td><td><em>lapsiystävällisempään</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|ILL|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|ILL|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Plur</td><td><em>suuremmissa, laajemmissa, pienemmissä, klassisemmissa</em></td></tr>
+  <tr><td>A|CMP|INE|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INE|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INE|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INE|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INE|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INE|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Sing</td><td><em>varhaisemmassa, useammassa, sutjakkaammassa</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INE|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INE|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INE|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INE|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INE|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INE|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INS|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Plur</td><td><em>laaja-alaisemmin</em></td></tr>
+  <tr><td>A|CMP|INS|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INS|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INS|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INS|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INS|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INS|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INS|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INS|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INS|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INS|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INS|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|INS|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|INS|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|NOM|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur</td><td><em>paremmat, tummemmat, myöhemmät, tiiviimmät</em></td></tr>
+  <tr><td>A|CMP|NOM|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|NOM|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|NOM|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>varttuneemmat</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|NOM|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|NOM|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|NOM|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur</td><td><em>kovemmatkin</em></td></tr>
+  <tr><td>A|CMP|NOM|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Sing</td><td><em>pidempijaksoinen, vähempiarvoinen</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|NOM|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|NOM|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>mahtavampi</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|NOM|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|NOM|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|NOM|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|NOM|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|PTV|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Plur</td><td><em>pienempiä, nuorempia, pahempia, parempia, pidempiä</em></td></tr>
+  <tr><td>A|CMP|PTV|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|PTV|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|PTV|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|PTV|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|PTV|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>luotettavampia</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|PTV|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|PTV|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Sing</td><td><em>helpompaa, parempaa, kummempaa, aiempaa, tarkempaa</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|PTV|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|PTV|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>ärsyttävämpää</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|PTV|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|PTV|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Sing</td><td><em>rauhallisempaa</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|PTV|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|PTV|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Cmp|Number=Sing</td><td><em>laajempaakin</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|TRA|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|TRA|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|TRA|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|TRA|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|TRA|PL|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Plur</td><td><em>edullisemmiksi</em></td></tr>
+  <tr><td>A|CMP|TRA|PL|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|TRA|PL|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A|CMP|TRA|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Sing</td><td><em>helpommaksi</em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|TRA|SG|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>A|CMP|TRA|SG|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|TRA|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>A|CMP|TRA|SG|DN-LLINEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|CMP|TRA|SG|PSS|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>A|CMP|TRA|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Sing</td><td><em>pidemmäksikin</em></td></tr>
   <tr style="background:lightgray"><td>A|COP|POS|ABE|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Pos|Number=Plur|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr><td>A|COP|POS|ABE|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Pos|Number=Sing|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A|COP|POS|ABL|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Pos|Number=Plur|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
@@ -318,7 +318,7 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>A|COP|POS|PTV|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A|COP|POS|TRA|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Plur|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr><td>A|COP|POS|TRA|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Sing|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|FORGN</td><td>=&gt;</td><td>ADJ</td><td>Foreign=Yes</td><td><em>dubia, frigidus, common</em></td></tr>
+  <tr style="background:lightgray"><td>A|FORGN</td><td>=&gt;</td><td>ADJ</td><td>Foreign=Foreign</td><td><em>dubia, frigidus, common</em></td></tr>
   <tr><td>A|INTERR|POS|ABE|PL</td><td>=&gt;</td><td>DET</td><td>Case=Abe|Degree=Pos|Number=Plur|PronType=Int</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A|INTERR|POS|ABE|SG</td><td>=&gt;</td><td>DET</td><td>Case=Abe|Degree=Pos|Number=Sing|PronType=Int</td><td><em></em></td></tr>
   <tr><td>A|INTERR|POS|ABL|PL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Degree=Pos|Number=Plur|PronType=Int</td><td><em></em></td></tr>
@@ -1469,34 +1469,34 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>A|SUP|TRA|SG|kin</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
   <tr><td>A|SUP|TRA|SG|st-cllq</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Sup|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A|TrunCo</td><td>=&gt;</td><td>ADJ</td><td>Hyph=Yes</td><td><em>perus-, keski-, ulko-, sisä-</em></td></tr>
-  <tr><td>A|digit|POS|ABE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|ABE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A|digit|POS|ABL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|ABL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A|digit|POS|ADE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|ADE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A|digit|POS|ALL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em>10-vuotiaille, 18-vuotiaille</em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|ALL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A|digit|POS|CMT|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|CMT|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A|digit|POS|ELA|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|ELA|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em>23-vuotiaasta</em></td></tr>
-  <tr><td>A|digit|POS|ESS|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|ESS|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em>18-vuotiaana, 21-vuotiaana, 45-vuotiaana, 17-vuotiaana, 7-vuotiaana</em></td></tr>
-  <tr><td>A|digit|POS|GEN|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em>18-vuotiaiden</em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|GEN|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em>5-kertaisen, 18-vuotiaan, 16-vuotiaan</em></td></tr>
-  <tr><td>A|digit|POS|ILL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|ILL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A|digit|POS|INE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|INE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A|digit|POS|INS|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|INS|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A|digit|POS|NOM|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em>21-vuotiaat, 1.2-litraiset</em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|NOM|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em>1.3-litrainen, 18-vuotias, 19-vuotias, 45-vuotias, 15-vuotias</em></td></tr>
-  <tr><td>A|digit|POS|PTV|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|PTV|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em>16-vuotiasta, 44-vuotiasta, 1.2-litraista</em></td></tr>
-  <tr><td>A|digit|POS|TRA|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|digit|POS|TRA|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A|digit|POS|ABE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|ABE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>A|digit|POS|ABL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|ABL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>A|digit|POS|ADE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|ADE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>A|digit|POS|ALL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em>10-vuotiaille, 18-vuotiaille</em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|ALL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>A|digit|POS|CMT|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|CMT|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>A|digit|POS|ELA|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|ELA|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em>23-vuotiaasta</em></td></tr>
+  <tr><td>A|digit|POS|ESS|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|ESS|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em>18-vuotiaana, 21-vuotiaana, 45-vuotiaana, 17-vuotiaana, 7-vuotiaana</em></td></tr>
+  <tr><td>A|digit|POS|GEN|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em>18-vuotiaiden</em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|GEN|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em>5-kertaisen, 18-vuotiaan, 16-vuotiaan</em></td></tr>
+  <tr><td>A|digit|POS|ILL|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|ILL|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>A|digit|POS|INE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|INE|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>A|digit|POS|INS|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|INS|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>A|digit|POS|NOM|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em>21-vuotiaat, 1.2-litraiset</em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|NOM|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em>1.3-litrainen, 18-vuotias, 19-vuotias, 45-vuotias, 15-vuotias</em></td></tr>
+  <tr><td>A|digit|POS|PTV|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|PTV|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em>16-vuotiasta, 44-vuotiasta, 1.2-litraista</em></td></tr>
+  <tr><td>A|digit|POS|TRA|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A|digit|POS|TRA|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
   <tr><td>C</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>saatikka</em></td></tr>
   <tr style="background:lightgray"><td>COP|POS|ELA|PL|ACT|PCP1</td><td>=&gt;</td><td>X</td><td>Case=Ela|Degree=Pos|Number=Plur|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em>olevista</em></td></tr>
   <tr><td>COP|POS|ELA|SG|ACT|PCP1</td><td>=&gt;</td><td>X</td><td>Case=Ela|Degree=Pos|Number=Sing|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em>olevasta</em></td></tr>
@@ -1520,7 +1520,7 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>C|COORD|SG3|NEGV</td><td>=&gt;</td><td>CONJ</td><td>Negative=Neg|Number=Sing|Person=3</td><td><em>muttei</em></td></tr>
   <tr style="background:lightgray"><td>C|COORD|SG3|NEGV|kA</td><td>=&gt;</td><td>CONJ</td><td>Negative=Neg|Number=Sing|Person=3</td><td><em>eikä</em></td></tr>
   <tr><td>C|COORD|st-arch</td><td>=&gt;</td><td>CONJ</td><td>Style=Arch</td><td><em>tahi</em></td></tr>
-  <tr style="background:lightgray"><td>C|FORGN</td><td>=&gt;</td><td>CONJ</td><td>Foreign=Yes</td><td><em>and</em></td></tr>
+  <tr style="background:lightgray"><td>C|FORGN</td><td>=&gt;</td><td>CONJ</td><td>Foreign=Foreign</td><td><em>and</em></td></tr>
   <tr><td>C|SUB</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>kun, sillä, jos, koska, vaikka</em></td></tr>
   <tr style="background:lightgray"><td>C|SUB|PL1|NEGV</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Neg|Number=Plur|Person=1</td><td><em>ettemme</em></td></tr>
   <tr><td>C|SUB|PL3|NEGV</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Neg|Number=Plur|Person=3</td><td><em>etteivät, elleivät</em></td></tr>
@@ -1530,7 +1530,7 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>C|SUB|SG3|NEGV|kO</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Neg|Number=Sing|Person=3</td><td><em>etteikö</em></td></tr>
   <tr style="background:lightgray"><td>C|SUB|kin</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>vaikkakin</em></td></tr>
   <tr><td>C|SUB|pA</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>vaikkapa</em></td></tr>
-  <tr style="background:lightgray"><td>FORGN</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>death, mater</em></td></tr>
+  <tr style="background:lightgray"><td>FORGN</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>death, mater</em></td></tr>
   <tr><td>INTJ</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>hip, hop, no, nam</em></td></tr>
   <tr style="background:lightgray"><td>INTJ|st-cllq</td><td>=&gt;</td><td>INTJ</td><td>Style=Coll</td><td><em></em></td></tr>
   <tr><td>NON-TWOL</td><td>=&gt;</td><td>X</td><td>_</td><td><em>*, ”, −, /, s.</em></td></tr>
@@ -1559,34 +1559,34 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>NUM|INS|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing</td><td><em></em></td></tr>
   <tr><td>NUM|NOM|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Plur</td><td><em>yhdet</em></td></tr>
   <tr style="background:lightgray"><td>NUM|NOM|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing</td><td><em>kaksi, yksi, kolme, neljä, viisi</em></td></tr>
-  <tr><td>NUM|ORD|ABE|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Abe|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|ABE|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Abe|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>NUM|ORD|ABL|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|ABL|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>NUM|ORD|ADE|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ade|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|ADE|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ade|NumType=Ord|Number=Sing</td><td><em>ensimmäisellä, neljännellä</em></td></tr>
-  <tr><td>NUM|ORD|ALL|PL</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|ALL|SG</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Ord|Number=Sing</td><td><em>yhdeksännelle, viidennelle, seitsemännelle, ensimmäiselle, kolmannelle</em></td></tr>
-  <tr><td>NUM|ORD|CMT|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|CMT|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>NUM|ORD|ELA|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ela|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|ELA|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ela|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>NUM|ORD|ESS|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ess|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|ESS|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ess|NumType=Ord|Number=Sing</td><td><em>ensimmäisenä, kolmantena, neljäntenä</em></td></tr>
-  <tr><td>NUM|ORD|GEN|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|GEN|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Ord|Number=Sing</td><td><em>ensimmäisen, kolmannen, neljännen, sadannen, viidennen</em></td></tr>
-  <tr><td>NUM|ORD|ILL|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ill|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|ILL|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ill|NumType=Ord|Number=Sing</td><td><em>ensimmäiseen, kolmanteen</em></td></tr>
-  <tr><td>NUM|ORD|INE|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|INE|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Ord|Number=Sing</td><td><em>ensimmäisessä, kolmannessa</em></td></tr>
-  <tr><td>NUM|ORD|INS|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|INS|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>NUM|ORD|NOM|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Ord|Number=Plur</td><td><em>ensimmäiset</em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|NOM|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Ord|Number=Sing</td><td><em>ensimmäinen, kolmas, seitsemäs, yhdeksäs, viides</em></td></tr>
-  <tr><td>NUM|ORD|PTV|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Par|NumType=Ord|Number=Plur</td><td><em>ensimmäisiä</em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|PTV|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Par|NumType=Ord|Number=Sing</td><td><em>ensimmäistä, kolmatta, kahdettatoista, viidettä</em></td></tr>
-  <tr><td>NUM|ORD|TRA|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Tra|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>NUM|ORD|TRA|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Tra|NumType=Ord|Number=Sing</td><td><em>neljänneksi, kolmanneksi, viidenneksi, ensimmäiseksi, kymmenenneksi</em></td></tr>
+  <tr><td>NUM|ORD|ABE|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Abe|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|ABE|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Abe|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>NUM|ORD|ABL|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|ABL|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>NUM|ORD|ADE|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ade|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|ADE|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ade|Number=Sing|NumType=Ord</td><td><em>ensimmäisellä, neljännellä</em></td></tr>
+  <tr><td>NUM|ORD|ALL|PL</td><td>=&gt;</td><td>NUM</td><td>Case=All|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|ALL|SG</td><td>=&gt;</td><td>NUM</td><td>Case=All|Number=Sing|NumType=Ord</td><td><em>yhdeksännelle, viidennelle, seitsemännelle, ensimmäiselle, kolmannelle</em></td></tr>
+  <tr><td>NUM|ORD|CMT|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Com|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|CMT|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Com|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>NUM|ORD|ELA|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ela|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|ELA|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ela|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>NUM|ORD|ESS|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ess|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|ESS|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ess|Number=Sing|NumType=Ord</td><td><em>ensimmäisenä, kolmantena, neljäntenä</em></td></tr>
+  <tr><td>NUM|ORD|GEN|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|GEN|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Sing|NumType=Ord</td><td><em>ensimmäisen, kolmannen, neljännen, sadannen, viidennen</em></td></tr>
+  <tr><td>NUM|ORD|ILL|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ill|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|ILL|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ill|Number=Sing|NumType=Ord</td><td><em>ensimmäiseen, kolmanteen</em></td></tr>
+  <tr><td>NUM|ORD|INE|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|INE|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Sing|NumType=Ord</td><td><em>ensimmäisessä, kolmannessa</em></td></tr>
+  <tr><td>NUM|ORD|INS|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|INS|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>NUM|ORD|NOM|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Plur|NumType=Ord</td><td><em>ensimmäiset</em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|NOM|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumType=Ord</td><td><em>ensimmäinen, kolmas, seitsemäs, yhdeksäs, viides</em></td></tr>
+  <tr><td>NUM|ORD|PTV|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Par|Number=Plur|NumType=Ord</td><td><em>ensimmäisiä</em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|PTV|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Par|Number=Sing|NumType=Ord</td><td><em>ensimmäistä, kolmatta, kahdettatoista, viidettä</em></td></tr>
+  <tr><td>NUM|ORD|TRA|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Tra|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUM|ORD|TRA|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Tra|Number=Sing|NumType=Ord</td><td><em>neljänneksi, kolmanneksi, viidenneksi, ensimmäiseksi, kymmenenneksi</em></td></tr>
   <tr><td>NUM|PTV|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Par|Number=Plur</td><td><em>tuhansia, satojatuhansia, satoja</em></td></tr>
   <tr style="background:lightgray"><td>NUM|PTV|SG</td><td>=&gt;</td><td>NUM</td><td>Case=Par|Number=Sing</td><td><em>miljoonaa, yhtätoista, sataa, neljää, miljardia</em></td></tr>
   <tr><td>NUM|TRA|PL</td><td>=&gt;</td><td>NUM</td><td>Case=Tra|Number=Plur</td><td><em></em></td></tr>
@@ -3304,64 +3304,64 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>N|ESS|SG|st-slang</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|Style=Slng</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>N|ESS|SG|st-slang|DV-JA</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|Style=Slng</td><td><em></em></td></tr>
   <tr><td>N|ESS|SG|st-vrnc</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|Style=Vrnc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN</td><td>=&gt;</td><td>NOUN</td><td>Foreign=Yes</td><td><em>case</em></td></tr>
-  <tr><td>N|FORGN|ABE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ABE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|ABL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ABL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|ADE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ADE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|ALL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ALL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|CMT|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|CMT|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|ELA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ELA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|ESS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ESS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Foreign=Yes|Number=Sing</td><td><em>livenä</em></td></tr>
-  <tr><td>N|FORGN|GEN|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|GEN|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Foreign=Yes|Number=Sing</td><td><em>clubin</em></td></tr>
-  <tr><td>N|FORGN|ILL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ILL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|INE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|INE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|INS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|INS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|NOM|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|NOM|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Foreign=Yes|Number=Sing</td><td><em>heavy, roll</em></td></tr>
-  <tr><td>N|FORGN|PROP</td><td>=&gt;</td><td>PROPN</td><td>Foreign=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ABE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Abe|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ABE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Abe|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ABL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ABL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ADE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ade|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ADE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ade|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ALL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ALL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|CMT|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|CMT|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ELA|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ela|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ELA|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ela|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ESS|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ess|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ESS|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ess|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|GEN|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|GEN|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ILL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ill|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ILL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ill|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|INE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|INE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|INS|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|INS|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|NOM|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|NOM|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|PTV|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Par|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|PTV|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Par|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|TRA|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Tra|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|TRA|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Tra|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PTV|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Foreign=Yes|Number=Plur</td><td><em>lakeja</em></td></tr>
-  <tr><td>N|FORGN|PTV|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|TRA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|TRA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN</td><td>=&gt;</td><td>NOUN</td><td>Foreign=Foreign</td><td><em>case</em></td></tr>
+  <tr><td>N|FORGN|ABE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ABE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|ABL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ABL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|ADE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ADE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|ALL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ALL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|CMT|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|CMT|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|ELA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ELA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|ESS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ESS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Foreign=Foreign|Number=Sing</td><td><em>livenä</em></td></tr>
+  <tr><td>N|FORGN|GEN|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|GEN|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Foreign=Foreign|Number=Sing</td><td><em>clubin</em></td></tr>
+  <tr><td>N|FORGN|ILL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ILL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|INE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|INE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|INS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|INS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|NOM|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|NOM|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Foreign=Foreign|Number=Sing</td><td><em>heavy, roll</em></td></tr>
+  <tr><td>N|FORGN|PROP</td><td>=&gt;</td><td>PROPN</td><td>Foreign=Foreign</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ABE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Abe|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ABE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Abe|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ABL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ABL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ADE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ade|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ADE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ade|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ALL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ALL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|CMT|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|CMT|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ELA|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ela|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ELA|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ela|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ESS|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ess|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ESS|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ess|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|GEN|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|GEN|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ILL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ill|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ILL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ill|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|INE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|INE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|INS|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|INS|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|NOM|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|NOM|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|PTV|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Par|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|PTV|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Par|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|TRA|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Tra|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|TRA|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Tra|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PTV|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Foreign=Foreign|Number=Plur</td><td><em>lakeja</em></td></tr>
+  <tr><td>N|FORGN|PTV|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|TRA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|TRA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>N|GEN|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur</td><td><em>lasten, ihmisten, naisten, aikojen, oppilaitosten</em></td></tr>
   <tr><td>N|GEN|PL|1PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>N|GEN|PL|1PL|DV-ILE|DV-U</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes</td><td><em></em></td></tr>
@@ -5323,118 +5323,118 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>N|TRA|SG|st-slang</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Sing|Style=Slng</td><td><em></em></td></tr>
   <tr><td>N|TRA|SG|st-slang|DV-JA</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Sing|Style=Slng</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>N|TRA|SG|st-vrnc</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Sing|Style=Vrnc</td><td><em></em></td></tr>
-  <tr><td>N|digit|ABE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ABE|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|ABE|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ABE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|ABE|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ABE|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|ABL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ABL|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|ABL|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ABL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumForm=Digit|Number=Sing</td><td><em>1400-luvulta, 1700-luvulta, 1930-luvulta, 1950-luvulta, 1600-luvulta</em></td></tr>
-  <tr><td>N|digit|ABL|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ABL|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|ADE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|NumForm=Digit|Number=Plur</td><td><em>2020-luvuilla, 1990-luvuilla, 1980-luvuilla</em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ADE|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|ADE|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ADE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|NumForm=Digit|Number=Sing</td><td><em>1970-luvulla, 1960-luvulla, 1800-luvulla, 1980-luvulla, 1990-luvulla</em></td></tr>
-  <tr><td>N|digit|ADE|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ADE|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|NumForm=Digit|Number=Sing</td><td><em>1970-luvullakin</em></td></tr>
-  <tr><td>N|digit|ALL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ALL|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|ALL|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ALL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumForm=Digit|Number=Sing</td><td><em>1950-luvulle, 1860-luvulle, 1800-luvulle, 1000-luvulle, 2000-luvulle</em></td></tr>
-  <tr><td>N|digit|ALL|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ALL|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|CMT|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|CMT|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|CMT|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|CMT|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|CMT|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|CMT|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|ELA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ELA|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|ELA|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ELA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|ELA|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ELA|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|ESS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ESS|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|ESS|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ESS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|ESS|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ESS|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|GEN|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|GEN|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|GEN|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|GEN|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumForm=Digit|Number=Sing</td><td><em>1900-luvun, 1500-luvun, 1980-luvun, 1800-luvun, 1970-luvun</em></td></tr>
-  <tr><td>N|digit|GEN|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|GEN|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|ILL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ILL|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|ILL|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ILL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|ILL|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|ILL|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|INE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|INE|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|INE|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|INE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumForm=Digit|Number=Sing</td><td><em>30-vuotisjuhlaseminaarissa</em></td></tr>
-  <tr><td>N|digit|INE|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|INE|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|INS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|INS|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|INS|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|INS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|INS|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|INS|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|NOM|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|NOM|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|NOM|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|NOM|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|NumForm=Digit|Number=Sing</td><td><em>200-luku</em></td></tr>
-  <tr><td>N|digit|NOM|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|NOM|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|PTV|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|PTV|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em>20-vuotiaan</em></td></tr>
-  <tr><td>N|digit|PTV|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|PTV|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|NumForm=Digit|Number=Sing</td><td><em>1-divisioonaa, 60-vuotispäivää, 1800-lukua, 1600-lukua</em></td></tr>
-  <tr><td>N|digit|PTV|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|PTV|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|TRA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|TRA|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|NumForm=Digit|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr><td>N|digit|TRA|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|NumForm=Digit|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|TRA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|digit|TRA|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|NumForm=Digit|Number=Sing|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|digit|TRA|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|NumForm=Digit|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|ABE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|ABE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|ABL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|ABL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|ADE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|ADE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|ALL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|ALL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|CMT|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|CMT|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|ELA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|ELA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|ESS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|ESS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|GEN|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|GEN|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|ILL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|ILL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|INE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|INE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|INS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|INS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|NOM|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|NOM|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|PTV|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|PTV|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|roman|TRA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|NumForm=Roman|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|roman|TRA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|NumForm=Roman|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|digit|ABE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ABE|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|ABE|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ABE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|ABE|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ABE|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|ABL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ABL|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|ABL|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ABL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing|NumForm=Digit</td><td><em>1400-luvulta, 1700-luvulta, 1930-luvulta, 1950-luvulta, 1600-luvulta</em></td></tr>
+  <tr><td>N|digit|ABL|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ABL|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|ADE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Plur|NumForm=Digit</td><td><em>2020-luvuilla, 1990-luvuilla, 1980-luvuilla</em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ADE|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|ADE|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ADE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Sing|NumForm=Digit</td><td><em>1970-luvulla, 1960-luvulla, 1800-luvulla, 1980-luvulla, 1990-luvulla</em></td></tr>
+  <tr><td>N|digit|ADE|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ADE|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Sing|NumForm=Digit</td><td><em>1970-luvullakin</em></td></tr>
+  <tr><td>N|digit|ALL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ALL|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|ALL|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ALL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|NumForm=Digit</td><td><em>1950-luvulle, 1860-luvulle, 1800-luvulle, 1000-luvulle, 2000-luvulle</em></td></tr>
+  <tr><td>N|digit|ALL|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ALL|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|CMT|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|CMT|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|CMT|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|CMT|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|CMT|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|CMT|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|ELA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ELA|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|ELA|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ELA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|ELA|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ELA|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|ESS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ESS|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|ESS|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ESS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|ESS|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ESS|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|GEN|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|GEN|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|GEN|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|GEN|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing|NumForm=Digit</td><td><em>1900-luvun, 1500-luvun, 1980-luvun, 1800-luvun, 1970-luvun</em></td></tr>
+  <tr><td>N|digit|GEN|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|GEN|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|ILL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ILL|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|ILL|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ILL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|ILL|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|ILL|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|INE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|INE|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|INE|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|INE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|NumForm=Digit</td><td><em>30-vuotisjuhlaseminaarissa</em></td></tr>
+  <tr><td>N|digit|INE|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|INE|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|INS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|INS|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|INS|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|INS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|INS|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|INS|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|NOM|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|NOM|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|NOM|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|NOM|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|NumForm=Digit</td><td><em>200-luku</em></td></tr>
+  <tr><td>N|digit|NOM|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|NOM|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|PTV|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|PTV|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em>20-vuotiaan</em></td></tr>
+  <tr><td>N|digit|PTV|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|PTV|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Number=Sing|NumForm=Digit</td><td><em>1-divisioonaa, 60-vuotispäivää, 1800-lukua, 1600-lukua</em></td></tr>
+  <tr><td>N|digit|PTV|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|PTV|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|TRA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|TRA|PL|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Plur|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr><td>N|digit|TRA|PL|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|TRA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|digit|TRA|SG|3</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Sing|NumForm=Digit|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|digit|TRA|SG|kin</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
+  <tr><td>N|roman|ABE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|ABE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|ABL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|ABL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|ADE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|ADE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|ALL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|ALL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|CMT|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|CMT|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|ELA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|ELA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|ESS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|ESS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|GEN|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|GEN|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|ILL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|ILL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|INE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|INE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|INS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|INS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|NOM|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|NOM|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|PTV|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|PTV|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
+  <tr><td>N|roman|TRA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Plur|NumForm=Roman</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|roman|TRA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Sing|NumForm=Roman</td><td><em></em></td></tr>
   <tr><td>POS|ABL|PL|ACT|PCP1</td><td>=&gt;</td><td>X</td><td>Case=Abl|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>pelottavilta</em></td></tr>
   <tr style="background:lightgray"><td>POS|ABL|SG|ACT|PCP1</td><td>=&gt;</td><td>X</td><td>Case=Abl|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>elävältä, yllättävältä</em></td></tr>
   <tr><td>POS|ABL|SG|ACT|PCP2</td><td>=&gt;</td><td>X</td><td>Case=Abl|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>allekirjoittaneelta</em></td></tr>
@@ -5596,7 +5596,7 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>PP</td><td>=&gt;</td><td>ADP</td><td>_</td><td><em>sitten, ennen, kohti, ilman, kautta</em></td></tr>
   <tr style="background:lightgray"><td>PP|3</td><td>=&gt;</td><td>ADP</td><td>Person[psor]=3|Poss=Yes</td><td><em>taaksensa</em></td></tr>
   <tr><td>PP|ADE|3</td><td>=&gt;</td><td>ADP</td><td>Case=Ade|Person[psor]=3|Poss=Yes</td><td><em>edellään</em></td></tr>
-  <tr style="background:lightgray"><td>PP|FORGN</td><td>=&gt;</td><td>ADP</td><td>Foreign=Yes</td><td><em>of, de, for, del</em></td></tr>
+  <tr style="background:lightgray"><td>PP|FORGN</td><td>=&gt;</td><td>ADP</td><td>Foreign=Foreign</td><td><em>of, de, for, del</em></td></tr>
   <tr><td>PP|kin</td><td>=&gt;</td><td>ADP</td><td>_</td><td><em>sittenkin</em></td></tr>
   <tr style="background:lightgray"><td>PRON|DEM|ABE|PL</td><td>=&gt;</td><td>PRON</td><td>Case=Abe|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>PRON|DEM|ABE|PL|hAn</td><td>=&gt;</td><td>PRON</td><td>Case=Abe|Number=Plur|PronType=Dem</td><td><em></em></td></tr>

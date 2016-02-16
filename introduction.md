@@ -6,15 +6,15 @@ title:  'Universal Dependencies'
 ## Introduction
 
 Universal Dependencies (UD) is a project that is developing cross-linguistically consistent treebank
-annotation for many languages, with the goal of facilitating multilingual parser development, 
+annotation for many languages, with the goal of facilitating multilingual parser development,
 cross-lingual learning, and parsing research from a language typology perspective. The annotation
-scheme is based on an evolution of (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google 
-universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for 
-morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a universal 
-inventory of categories and guidelines to facilitate consistent annotation of similar 
+scheme is based on an evolution of (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google
+universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for
+morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a universal
+inventory of categories and guidelines to facilitate consistent annotation of similar
 constructions across languages, while allowing language-specific extensions when necessary.
 
-## Current work
+## Current Work
 
 After extensive discussion, we have developed a somewhat extended universal part-of-speech tag set.
 This set makes some distinctions that were missing in the original proposal, but were perceived to
@@ -23,7 +23,7 @@ universal POS categories have substantive definitions and are not necessarily ju
 of categories in underlying language-particular treebanks. Hence, work to convert to UD POS tags often
 requires context-sensitive rules, or some hand correction.
 
-The UD morphological features aims to provide a stripped down basic set of feature which are most crucial for 
+The UD morphological features aim to provide a stripped down basic set of features which are most crucial for
 analysis and are widespread across languages.
 
 The dependency representation of UD evolves out of Stanford Dependencies (SD), which itself follows ideas
@@ -40,31 +40,37 @@ The goal of the new work was to simultaneously:
 
 The Stanford dependencies were originally developed in 2005 as a backend to the Stanford parser
 to help in Recognizing Textual Entailment systems,
-then eventually emerged as the de facto standard for dependency analysis of English, and have since 
+then eventually emerged as the de facto standard for dependency analysis of English, and have since
 been adapted to a number of different languages (Chang et al., 2009, Bosco et al., 2013, Haverinen et al., 2013,
 Seraji et al., 2013, Tsarfaty, 2013, Lipenkova and Souček 2014).
-The Google universal tag set grew out of the cross-linguistic error analysis based on the 
+The Google universal tag set grew out of the cross-linguistic error analysis based on the
 CoNLL-X shared task data by McDonald and Nivre (2007), was initially used for unsupervised
 part-of-speech tagging by Das and Petrov (2011), and has since been adopted as a widely used
 standard for mapping diverse tagsets to a common standard.
 The Interset (Zeman, 2008) started as a tool for conversion between morphosyntactic tagsets of multiple languages.
 It dates back to 2006 when it was used in the first experiments with cross-lingual delexicalized parser adaptation
-(Zeman and Resnik, 2008). It was later employed as the morphological layer in HamleDT (Zeman et al., 2014) – 
+(Zeman and Resnik, 2008). It was later employed as the morphological layer in HamleDT (Zeman et al., 2014) –
 a project that brings treebanks of many languages under a common annotation scheme.
 
 The first attempt to combine Stanford dependencies and Google universal tags into a universal
-annotation scheme was the Universal Dependency Treebank (UDT) project (McDonald et al., 2013), 
+annotation scheme was the Universal Dependency Treebank (UDT) project (McDonald et al., 2013),
 which released treebanks for 6 languages in 2013 and 11 languages in 2014, and the first proposal
-for incorporating morphology was made by Tsarfaty (2013). The second version of HamleDT (Rosa et al., 2014) 
-provided Stanford/Google annotation for 30 languages in 2014. This was followed by the development of 
+for incorporating morphology was made by Tsarfaty (2013). The second version of HamleDT (Rosa et al., 2014)
+provided Stanford/Google annotation for 30 languages in 2014. This was followed by the development of
 universal Stanford dependencies (USD) (de Marneffe et al., 2014).
 The new Universal Dependencies is the result of merging all these initiatives into a single coherent framework,
 based on universal Stanford dependencies, an extended version of the Google universal tagset, a revised
 subset of the Interset feature inventory, and a revised version of the CoNLL-X format (called CoNLL-U).
 
-## UD publications
+## Project Organization
 
-Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
+UD is an open collaboration with many project members. The administrative structure is kept at a minimum and currently consists of the following:
+
+* The project is coordinated by Joakim Nivre (aka chief cat herder).
+* Releases (including validation and documentation) are managed by Filip Ginter, Sampo Pyysalo and Dan Zeman.
+* Universal guidelines are managed by a small group of core members, currently consisting of Marie de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajic, Chris Manning, Ryan McDonald, Joakim Nivre, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty and Dan Zeman.
+* Language-specific guidelines and treebanks are maintained by each specific language team. 
+* Issues are raised on GitHub and resolved through discussion and voting. 
 
 ## Contributors
 
@@ -87,57 +93,73 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 ### Language-specific annotation, conversion and documentation
 
 * <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
+* <a href="index.html#language-grc">Ancient Greek</a>: Giuseppe G. A. Celano, Dag Haug, Dan Zeman
+* <a href="index.html#language-ar">Arabic</a>: Nizar Habash, Dan Zeman
+* <a href="index.html#language-hy">Armenian</a>: Dag Haug
 * <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
+* <a href="index.html#language-ca">Catalan</a>: Dan Zeman, Elena Pascual
 * <a href="index.html#language-zh">Chinese</a>: Rob Voigt
+* <a href="index.html#language-cu">Church Slavonic</a>: Dag Haug
 * <a href="index.html#language-hr">Croatian</a>: Željko Agić, Nikola Ljubešić
 * <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
 * <a href="index.html#language-da">Danish</a>: Barbara Plank, Héctor Martínez Alonso, Anders Trærup Johannsen
-* <a href="index.html#language-de">German</a>: Slav Petrov, Wolfgang Seeker
-* <a href="index.html#language-hi">Hindi</a>: Riyaz Ahmad
-* <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Christopher Manning
+* <a href="index.html#language-nl">Dutch</a>: Dan Zeman
+* <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Sebastian Schuster, Christopher Manning
+* <a href="index.html#language-et">Estonian</a>: Jan Štěpánek, Dan Zeman
 * <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, Filip Ginter, Hanna Nurmi, Juha Kuokkala, Jussi Piitulainen, Krister Lindén
-* <a href="index.html#language-fr">French</a>: Marie-Catherine de Marneffe, Ryan McDonald
+* <a href="index.html#language-fr">French</a>: Marie-Catherine de Marneffe, Bruno Guillaume, Ryan McDonald
+* <a href="index.html#language-de">German</a>: Slav Petrov, Wolfgang Seeker
+* <a href="index.html#language-got">Gothic</a>: Dag Haug
 * <a href="index.html#language-el">Greek</a>: Prokopis Prokopidis
 * <a href="index.html#language-he">Hebrew</a>: Yoav Goldberg, Reut Tsarfaty
+* <a href="index.html#language-hi">Hindi</a>: Riyaz Ahmad
 * <a href="index.html#language-hu">Hungarian</a>: Richárd Farkas, Veronika Vincze
-* <a href="index.html#language-ga">Irish</a>: Teresa Lynn, Jennifer Foster
 * <a href="index.html#language-id">Indonesian</a>: Ryan McDonald
+* <a href="index.html#language-ga">Irish</a>: Teresa Lynn, Jennifer Foster
 * <a href="index.html#language-it">Italian</a>: Maria Simi, Simonetta Montemagni, Alessandro Lenci, Cristina Bosco
 * <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka, Hiroshi Kanayama, Masayuki Asahara, Sumire Uematsu
+* <a href="index.html#language-kk">Kazakh</a>: Aibek Makazhanov, Francis Tyers, Jonathan Washington
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
+* <a href="index.html#language-la">Latin</a>: Giuseppe G. A. Celano, Dag Haug, Dan Zeman, Marco Passarotti
+* <a href="index.html#language-no">Norwegian</a>: Lilja Øvrelid
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Filip Ginter, Joakim Nivre
+* <a href="index.html#language-pl">Polish</a>: Dan Zeman
+* <a href="index.html#language-pt">Portuguese</a>: Dan Zeman
 * <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu, Catalina Maranduc
+* <a href="index.html#language-ru">Russian</a>: Olga Lyashevskaya
 * <a href="index.html#language-sl">Slovenian</a>: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek
-* <a href="index.html#language-es">Spanish</a>: Ryan McDonald
+* <a href="index.html#language-es">Spanish</a>: Ryan McDonald, Miguel Ballesteros, Elena Pascual, Héctor Martínez Alonso, Dan Zeman
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
+* <a href="index.html#language-pt">Tamil</a>: Loganathan Ramasamy, Dan Zeman
+* <a href="index.html#language-tr">Turkish</a>: Çağrı Çöltekin, Francis Tyers, Jonathan Washington
 
-## References
+## UD-Related Publications
 
-* Cristina Bosco, Simonetta Montemagni, Maria Simi. 2013. 
+* Cristina Bosco, Simonetta Montemagni, Maria Simi. 2013.
   [Converting Italian treebanks: Towards an Italian Stanford dependency treebank](http://medialab.di.unipi.it/downloads/ISDT/MIDT-STD2013_law.pdf),
   In *7th Linguistic Annotation Workshop and Interoperability with Discourse*.
 
-* Pi-Chuan Chang, Huihsin Tseng, Dan Jurafsky, and Christopher D. Manning. 2009. 
-  [Discriminative Reordering with Chinese Grammatical Relations Features](http://nlp.stanford.edu/pubs/ssst09-chang.pdf). 
-  In *Proceedings of the Third Workshop on Syntax and Structure in Statistical Translation*. 
+* Pi-Chuan Chang, Huihsin Tseng, Dan Jurafsky, and Christopher D. Manning. 2009.
+  [Discriminative Reordering with Chinese Grammatical Relations Features](http://nlp.stanford.edu/pubs/ssst09-chang.pdf).
+  In *Proceedings of the Third Workshop on Syntax and Structure in Statistical Translation*.
 
-* Dipanjan Das, and Slav Petrov. 2011. 
+* Dipanjan Das, and Slav Petrov. 2011.
   [Unsupervised part-of-speech tagging with bilingual graph-based projections](http://static.googleusercontent.com/media/research.google.com/sv//pubs/archive/37071.pdf)
   In *Proceedings of ACL*.
 
 * Katri Haverinen, Jenna Nyblom, Timo Viljanen, Veronika Laippala, Samuel Kohonen, Anna Missilä, Stina Ojala, Tapio Salakoski, and Filip Ginter. 2013.
   [Building the essential resources for Finnish: the Turku Dependency Treebank](http://dx.doi.org/10.1007/s10579-013-9244-1). Language Resources and Evaluation. Volume 48, Issue 3, pp 493-531.
 
-* Janna Lipenkova and Milan Souček. 2014. [Converting Russian Dependency Treebank to Stanford Typed 
+* Janna Lipenkova and Milan Souček. 2014. [Converting Russian Dependency Treebank to Stanford Typed
 Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics*, pp. 143-147.
 
-* Marie-Catherine de Marneffe, Bill MacCartney, and Christopher D. Manning. 2006. 
-  [Generating typed dependency parses from phrase structure parses](http://nlp.stanford.edu/pubs/LREC06_dependencies.pdf). 
-  In *Proceedings of LREC*. 
+* Marie-Catherine de Marneffe, Bill MacCartney, and Christopher D. Manning. 2006.
+  [Generating typed dependency parses from phrase structure parses](http://nlp.stanford.edu/pubs/LREC06_dependencies.pdf).
+  In *Proceedings of LREC*.
 
-* Marie-Catherine de Marneffe and Christopher D. Manning. 2008. 
-  [The Stanford typed dependencies representation](http://nlp.stanford.edu/pubs/dependencies-coling08.pdf). 
+* Marie-Catherine de Marneffe and Christopher D. Manning. 2008.
+  [The Stanford typed dependencies representation](http://nlp.stanford.edu/pubs/dependencies-coling08.pdf).
   In *COLING Workshop on Cross-framework and Cross-domain Parser Evaluation*.
 
 * Marie-Catherine de Marneffe, Timothy Dozat, Natalia Silveira, Katri
@@ -147,7 +169,7 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   In *Proceedings of LREC*.
 
 * Ryan McDonald, and Joakim Nivre. 2007.
-  [Characterizing the errors of data-driven dependency parsing models](http://www.aclweb.org/anthology/D/D07/D07-1013.pdf). 
+  [Characterizing the errors of data-driven dependency parsing models](http://www.aclweb.org/anthology/D/D07/D07-1013.pdf).
   In *Proceedings of EMNLP-CoNLL*.
 
 * Ryan McDonald, Joakim Nivre, Yvonne Quirmbach-Brundage, Yoav
@@ -170,7 +192,7 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   ([home page](http://ufal.mff.cuni.cz/hamledt))
 
 * Mojgan Seraji, Carina Jahani, Beáta Megyesi, and Joakim Nivre. 2013.
-  [A Persian treebank with Stanford typed dependencies](http://www.lrec-conf.org/proceedings/lrec2014/pdf/378_Paper.pdf). 
+  [A Persian treebank with Stanford typed dependencies](http://www.lrec-conf.org/proceedings/lrec2014/pdf/378_Paper.pdf).
   In *Proceedings of LREC*.
 
 * Reut Tsarfaty. 2013.
@@ -198,3 +220,5 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
 * Joakim Nivre. 2015. Towards a Universal Grammar for Natural Language Processing. *Computational Linguistics and Intelligent Text Processing*.
 
 * Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, and Filip Ginter. 2015. [Universal Dependencies for Finnish](http://www.aclweb.org/anthology/W/W15/W15-1821.pdf). In *Proceedings of Nodalida 2015*.
+
+* Daniel Zeman. 2015. [Slavic Languages in Universal Dependencies](http://ufal.mff.cuni.cz/biblio/?section=publication&id=-1745977273001647149&mode=view). In *Slovko 2015: Natural Language Processing, Corpus Linguistics, E-learning*. Bratislava, Slovakia. [PDF](http://ufal.mff.cuni.cz/biblio/servlet/File?timestamp=1441201812368&id=4326707699154676324&field=File)

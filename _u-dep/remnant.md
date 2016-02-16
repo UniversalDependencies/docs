@@ -70,6 +70,20 @@ remnant(silver-6, gold-10)
 
 Note in particular that (unlike for [conj]()), `remnant` uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.
 
+It is also possible that the incomplete part precedes the complete one in the sentence [de]:
+
+~~~ sdparse
+während 78 Prozent sich für Bush und vier Prozent für Clinton aussprachen \n while 78 percent REFL for Bush and four percent for Clinton spoke-out
+nsubj(aussprachen, Prozent-9)
+nsubj(spoke-out, percent-22)
+nmod(aussprachen, Clinton-11)
+nmod(spoke-out, Clinton-24)
+remnant(Prozent-9, Prozent-3)
+remnant(percent-22, percent-16)
+remnant(Clinton-11, Bush-6)
+remnant(Clinton-24, Bush-19)
+~~~
+
 The `remnant` relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the `remnant` relation is not used. In RNR, the verbs
 are coordinated and the object is a [dobj]() of the first verb:
 
