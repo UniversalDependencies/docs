@@ -43,7 +43,7 @@ ccomp(ordered, to-dig)
 Pro-drop languages have clauses where the subject is not present as a separate word,
 yet it is inherently present (and often deducible from the form of the verb)
 and it does not depend on arguments from a higher clause.
-Thus in neither of the following two Czech examples is there any overt subject,
+Thus in neither of the following two Russian examples is there any overt subject,
 yet only the second example contains an `xcomp`.
 
 ~~~ sdparse
