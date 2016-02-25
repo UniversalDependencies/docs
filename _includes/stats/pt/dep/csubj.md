@@ -2,16 +2,16 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Portuguese)
 
 This relation is universal.
 
-350 nodes (0%) are attached to their parents as `csubj`.
+330 nodes (0%) are attached to their parents as `csubj`.
 
-247 instances of `csubj` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.13142857142857.
+231 instances of `csubj` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.06969696969697.
 
-The following 15 pairs of parts of speech are connected with `csubj`: [pt-pos/ADJ]()-[pt-pos/VERB]() (148; 42% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (128; 37% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (44; 13% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (7; 2% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (5; 1% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (4; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (2; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `csubj`: [pt-pos/ADJ]()-[pt-pos/VERB]() (135; 41% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (128; 39% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (40; 12% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (5; 2% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (5; 2% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,8 +50,10 @@ The following 15 pairs of parts of speech are connected with `csubj`: [pt-pos/AD
 9	resort	resort	NOUN	n|M|S	Gender=Masc|Number=Sing	4	nmod	_	_
 10	local	local	ADJ	adj|M|S	Gender=Masc|Number=Sing	9	amod	_	_
 11	,	,	PUNCT	punc	_	9	punct	_	_
-12	Casa_de_Campo	Casa_de_Campo	PROPN	prop|M|S	Gender=Masc|Number=Sing	9	appos	_	_
-13	.	.	PUNCT	punc	_	4	punct	_	_
+12	Casa	Casa	PROPN	prop|M|S	_	9	appos	_	_
+13	de	de	ADP	ADP	AdpType=Prep|Gender=Masc|Number=Sing	14	case	_	_
+14	Campo	Campo	PROPN	PROPN	_	12	name	_	_
+15	.	.	PUNCT	punc	_	4	punct	_	_
 
 ~~~
 
@@ -72,6 +74,83 @@ The following 15 pairs of parts of speech are connected with `csubj`: [pt-pos/AD
 8	a	a	ADP	prp|<sam->	AdpType=Prep	10	case	_	_
 9	o	o	DET	art|<-sam>|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	teatro	teatro	NOUN	n|M|S	Gender=Masc|Number=Sing	7	nmod	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-BR)
+
+This relation is universal.
+
+658 nodes (0%) are attached to their parents as `csubj`.
+
+548 instances of `csubj` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.290273556231.
+
+The following 11 pairs of parts of speech are connected with `csubj`: [pt-pos/VERB]()-[pt-pos/VERB]() (343; 52% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (243; 37% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (37; 6% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (9; 1% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (8; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (6; 1% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (4; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (4; 1% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 csubj	color:blue
+1	É	_	VERB	VERB	_	0	root	_	_
+2	possível	_	ADJ	ADJ	_	1	xcomp:adj	_	_
+3	acabar	_	VERB	VERB	_	1	csubj	_	_
+4	com	_	ADP	ADP	_	6	case	_	_
+5	essa	_	DET	DET	_	6	det	_	_
+6	história	_	NOUN	NOUN	_	3	nmod	_	_
+7	.	_	PUNCT	.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 csubj	color:blue
+1	Outra	_	DET	DET	_	2	det	_	_
+2	dica	_	NOUN	NOUN	_	0	root	_	_
+3	é	_	VERB	VERB	_	2	cop	_	_
+4	prestar	_	VERB	VERB	_	2	csubj	_	_
+5	atenção	_	NOUN	NOUN	_	4	dobj	_	_
+6	ao	_	ADP	ADP	_	7	case	_	_
+7	tipo	_	NOUN	NOUN	_	4	nmod	_	_
+8	de	_	ADP	ADP	_	9	case	_	_
+9	tinta	_	NOUN	NOUN	_	7	nmod	_	_
+10	.	_	PUNCT	.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 9 csubj	color:blue
+1	"	_	PUNCT	.	_	2	punct	_	_
+2	O	_	PRON	PRON	_	0	root	_	_
+3	que	_	PRON	PRON	_	6	dobj	_	_
+4	nós	_	PRON	PRON	_	6	nsubj	_	_
+5	vamos	_	AUX	AUX	_	6	aux	_	_
+6	fazer	_	VERB	VERB	_	2	acl:relcl	_	_
+7	agora	_	ADV	ADV	_	6	advmod	_	_
+8	é	_	VERB	VERB	_	2	cop	_	_
+9	responder	_	VERB	VERB	_	2	csubj	_	_
+10	aos	_	ADP	ADP	_	11	case	_	_
+11	termos	_	NOUN	NOUN	_	9	nmod	_	_
+12	da	_	ADP	ADP	_	13	case	_	_
+13	ação	_	NOUN	NOUN	_	11	nmod	_	_
+14	.	_	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
