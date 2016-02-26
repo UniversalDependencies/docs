@@ -5,7 +5,6 @@ shortdef: 'compound'
 ---
 
 `compound` is one of the relations in UD for compounding.
-In Czech it is used only for compound numbers.
 The rightmost numeral is the head, the other numerals are attached as its modifiers.
 
 ~~~ sdparse
