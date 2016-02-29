@@ -735,6 +735,27 @@
     "lang_name": "Portuguese"
   }, 
   {
+    "lang_code": "pt", 
+    "contributors": [
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Portuguese-BR"
+  }, 
+  {
     "lang_code": "ro", 
     "contributors": [
       {

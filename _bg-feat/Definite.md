@@ -11,7 +11,7 @@ be marked on definite and indefinite [articles](u-pos/DET), or
 directly on [nouns](u-pos/NOUN), [adjectives](u-pos/ADJ) etc. 
 
 In Bulgarian there are definite and indefinite articles. The definite article is part of the word,
-in postposition (жена<b>та</b> / _zhena</b>ta</b>_ 'woman-the' (the woman))). The indefinite articles can be: the form един / _edin_ (one) or the zero marker.
+in postposition (жена<b>та</b> / _zhena<b>ta</b>_ 'woman-the' (the woman))). The indefinite articles can be: the form един / _edin_ (one) or the zero marker.
 
 However, when added to a nominal phrase, the articles become phrasal affixes, i.e. Bulgarian does not have agreement is definiteness. For example, хубава<b>та</b> висока руса жена / _hubavata visoka rusa zhena_ 'pretty-the tall blond woman' (the pretty tall blond woman).
 

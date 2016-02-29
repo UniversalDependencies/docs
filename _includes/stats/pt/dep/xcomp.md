@@ -2,16 +2,16 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Portuguese)
 
 This relation is universal.
 
-2814 nodes (1%) are attached to their parents as `xcomp`.
+2758 nodes (1%) are attached to their parents as `xcomp`.
 
-2803 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.03269367448472.
+2741 instances of `xcomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.13886874546773.
 
-The following 16 pairs of parts of speech are connected with `xcomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2321; 82% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (193; 7% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (175; 6% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (48; 2% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (17; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (17; 1% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (14; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (11; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (5; 0% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `xcomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2337; 85% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (184; 7% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (167; 6% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (17; 1% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (13; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (13; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (11; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -78,6 +78,83 @@ The following 16 pairs of parts of speech are connected with `xcomp`: [pt-pos/VE
 7	ser	ser	VERB	v-inf	VerbForm=Inf	8	cop	_	_
 8	sincero	sincero	ADJ	adj|M|S	Gender=Masc|Number=Sing	5	xcomp	_	_
 9	.	.	PUNCT	punc	_	3	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-BR)
+
+This relation is universal.
+There are 1 language-specific subtypes of `xcomp`: [xcomp:adj]().
+
+966 nodes (0%) are attached to their parents as `xcomp`.
+
+961 instances of `xcomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.74120082815735.
+
+The following 13 pairs of parts of speech are connected with `xcomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (761; 79% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (151; 16% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (37; 4% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/X]()-[pt-pos/VERB]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 xcomp	color:blue
+1	Quero	_	VERB	VERB	_	10	ccomp	_	_
+2	dar	_	VERB	VERB	_	1	xcomp	_	_
+3	o	_	DET	DET	_	4	det	_	_
+4	máximo	_	NOUN	NOUN	_	2	dobj	_	_
+5	e	_	CONJ	CONJ	_	2	cc	_	_
+6	sair	_	VERB	VERB	_	2	conj	_	_
+7	satisfeito	_	ADJ	ADJ	_	6	xcomp:adj	_	_
+8	'	_	PUNCT	.	_	1	punct	_	_
+9	,	_	PUNCT	.	_	10	punct	_	_
+10	afirmou	_	VERB	VERB	_	0	root	_	_
+11	.	_	PUNCT	.	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 xcomp	color:blue
+1	E	_	CONJ	CONJ	_	4	cc	_	_
+2	era	_	VERB	VERB	_	4	cop	_	_
+3	uma	_	DET	DET	_	4	det	_	_
+4	coisa	_	NOUN	NOUN	_	0	root	_	_
+5	que	_	PRON	PRON	_	7	nsubj	_	_
+6	nos	_	PRON	PRON	_	8	nsubj	_	_
+7	deixava	_	VERB	VERB	_	4	acl:relcl	_	_
+8	confortáveis	_	ADJ	ADJ	_	7	xcomp	_	_
+9	.	_	PUNCT	.	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 xcomp	color:blue
+1	Por	_	ADP	ADP	_	2	case	_	_
+2	isso	_	PRON	PRON	_	7	nmod	_	_
+3	,	_	PUNCT	.	_	2	punct	_	_
+4	administrar	_	VERB	VERB	_	7	csubj	_	_
+5	nem	_	ADV	ADV	_	7	neg	_	_
+6	sempre	_	ADV	ADV	_	7	advmod	_	_
+7	significa	_	VERB	VERB	_	0	root	_	_
+8	ser	_	VERB	VERB	_	9	cop	_	_
+9	estadista	_	NOUN	NOUN	_	7	xcomp	_	_
+10	.	_	PUNCT	.	_	7	punct	_	_
 
 ~~~
 

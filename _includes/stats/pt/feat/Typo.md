@@ -2,15 +2,15 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Portuguese)
 
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-38 tokens (0%) have a non-empty value of `Typo`.
-36 types (0%) occur at least once with a non-empty value of `Typo`.
-36 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 9 part-of-speech tags: [pt-pos/VERB]() (10; 0% instances), [pt-pos/NOUN]() (8; 0% instances), [pt-pos/ADJ]() (6; 0% instances), [pt-pos/ADP]() (4; 0% instances), [pt-pos/ADV]() (3; 0% instances), [pt-pos/DET]() (3; 0% instances), [pt-pos/PROPN]() (2; 0% instances), [pt-pos/NUM]() (1; 0% instances), [pt-pos/PRON]() (1; 0% instances).
+37 tokens (0%) have a non-empty value of `Typo`.
+34 types (0%) occur at least once with a non-empty value of `Typo`.
+34 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 8 part-of-speech tags: [pt-pos/VERB]() (10; 0% instances), [pt-pos/NOUN]() (8; 0% instances), [pt-pos/ADJ]() (6; 0% instances), [pt-pos/ADP]() (5; 0% instances), [pt-pos/ADV]() (3; 0% instances), [pt-pos/DET]() (3; 0% instances), [pt-pos/NUM]() (1; 0% instances), [pt-pos/PRON]() (1; 0% instances).
 
 ### `VERB`
 
@@ -20,7 +20,7 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (10; 100% of non-empty `Typo`): _abandonassse, amplida, claçando, comeu, consegui, indiferência, inugurada, pertência, reúne, çe_
+* `Yes` (10; 100% of non-empty `Typo`): <em>abandonassse, amplida, claçando, comeu, consegui, indiferência, inugurada, pertência, reúne, çe</em>
 
 `Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Typo`.
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (8; 100% of non-empty `Typo`): _definicão, descomprimento, dilomatas, meia-noite, mi, propietários, reprsentante, rodad_
+* `Yes` (8; 100% of non-empty `Typo`): <em>definicão, descomprimento, dilomatas, meia-noite, mi, propietários, reprsentante, rodad</em>
 
 ### `ADJ`
 
@@ -42,17 +42,17 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (6; 100% of non-empty `Typo`): _espacais, flutante, liquido, mlehor, supreendente, tradiciona_
+* `Yes` (6; 100% of non-empty `Typo`): <em>espacais, flutante, liquido, mlehor, supreendente, tradiciona</em>
 
 ### `ADP`
 
-4 [pt-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
+5 [pt-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (4; 100%).
+The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (5; 100%).
 
 `ADP` tokens may have the following values of `Typo`:
 
-* `Yes` (4; 100% of non-empty `Typo`): _a, com, de, em_relação_a_
+* `Yes` (5; 100% of non-empty `Typo`): <em>de, a, com, em</em>
 
 ### `ADV`
 
@@ -62,45 +62,35 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (3; 100% of non-empty `Typo`): _asim, excessivamnete, não_
+* `Yes` (3; 100% of non-empty `Typo`): <em>asim, excessivamnete, não</em>
 
 ### `DET`
 
 3 [pt-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 67%).
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (3; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 67%).
 
 `DET` tokens may have the following values of `Typo`:
 
-* `Yes` (3; 100% of non-empty `Typo`): _a, os_
-
-### `PROPN`
-
-2 [pt-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
-
-`PROPN` tokens may have the following values of `Typo`:
-
-* `Yes` (2; 100% of non-empty `Typo`): _Carlos_Menem, Água_de_Cheiro_
+* `Yes` (3; 100% of non-empty `Typo`): <em>a, os</em>
 
 ### `PRON`
 
 1 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): _que_
+* `Yes` (1; 100% of non-empty `Typo`): <em>que</em>
 
 ### `NUM`
 
 1 [pt-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): _miul_
+* `Yes` (1; 100% of non-empty `Typo`): <em>miul</em>
 
