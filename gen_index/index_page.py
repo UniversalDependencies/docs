@@ -150,7 +150,7 @@ def gen_table(args):
         corpus_data[u"lang_name"]=l
         corpus_data[u"langfam_code"]=lcodes[l].split("_")[0]
         corpus_data[u"langfam_name"]=l.split("-")[0]
-        print >> a_data, "<div>"
+        print >> a_data, '<div data-lc="%s">' % lcodes[l]
         print >> a_data, get_flag_span(l)
         print >> a_data, get_language_span(l)
         print >> a_data, get_token_count_span(corpus_data)
