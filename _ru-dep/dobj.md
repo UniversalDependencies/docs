@@ -33,6 +33,14 @@ dobj(разрешаю, вам)
 dobj(let, you)
 ~~~
 
+Instrumental example:
+
+~~~ sdparse
+Президент руководит страной . \n The President rules the country .
+dobj(руководит, страной)
+dobj(rules, country)
+~~~
+
 In general, if there is just one object, it should be labeled `dobj`,
 regardless of the morphological case or semantic role that it bears. If there are two or more
 objects, one of them should be `dobj` and the others should be
