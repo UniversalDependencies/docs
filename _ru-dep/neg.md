@@ -4,16 +4,16 @@ title: 'neg'
 shortdef: 'negation modifier'
 ---
 
-The negation modifier is the relation between the negation word _ne_ and the
+The negation modifier is the relation between the negation word _не_ and the
 word it modifies.
 
-Negation in Czech is most of the time expressed using a bound morpheme (the prefix _ne-_).
+Negation in Russian is most of the time expressed using a bound morpheme (the prefix _не-_).
 Occurrences of the morpheme as a separate word are rare in comparison to other languages,
 yet they exist.
 
 ~~~ sdparse
-Potřeboval čtyřnohého a ne dvounohého přítele . \n He-needed quadrupedal and not bipedal friend .
-neg(dvounohého, ne)
+Ему был нужен четвероногий , а не двуногий друг . \n He needed quadrupedal and not bipedal friend .
+neg(двуногий, не)
 neg(bipedal, not)
 ~~~
 
