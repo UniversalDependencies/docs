@@ -11,11 +11,3 @@ A clausal passive subject is a clausal syntactic subject of a passive clause.
 csubjpass(посоветовано, взвесил)
 csubjpass(recommended, weigh)
 ~~~
-
-Reflexive passive (the meaning is “You are not expected to come before nine o'clock.”)
-
-~~~ sdparse
-Предполагается, что вы придете до девяти. \n It-is expected itself , that you-will-come before nine .
-csubjpass(Предпологается, придете)
-csubjpass(It-is expected, you-will-come)
-~~~
