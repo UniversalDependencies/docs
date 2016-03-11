@@ -15,7 +15,7 @@ The relation is not used to attach adjectives to nouns within multi-word names o
 (e.g. _Владимир Путин_).
 
 ~~~ sdparse
-Президент Владимир Путин вчера посетил Минеральные Воды . \n President Vladimir Putin yesterday visited Mineralnye Vody.
+Президент Владимир Путин вчера посетил Минеральные Воды . \n President Vladimir Putin yesterday visited Mineralnye Vody .
 name(Владимир, Путин)
 name(Vladimir, Putin)
 nmod(Владимир, Президент)
