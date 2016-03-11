@@ -21,9 +21,9 @@ xcomp(Do-you-want, to-swim)
 ~~~
 
 ~~~ sdparse
-Начал я там работать вчера . \n Started I-have there to-work yesterday .
-xcomp(Начал, работать)
-xcomp(Started, to-work)
+Я начал там работать вчера . \n I have-started to-work there yesterday .
+xcomp(начал, работать)
+xcomp(started, to-work)
 ~~~
 
 Note that the above condition “without its own subject” does not mean that a 
@@ -47,13 +47,13 @@ Thus in neither of the following two Russian examples is there any overt subject
 yet only the second example contains an `xcomp`.
 
 ~~~ sdparse
-Пишу , потому что я это обещал . \n I-write , because I-have it promised .
+Пишу , потому что я это обещал . \n I-write , because I-have promised it .
 advcl(Пишу, обещал)
 advcl(I-write, promised)
 ~~~
 
 ~~~ sdparse
-Обещал я писать . \n Promised I-have to-write .
-xcomp(Обещал, писать)
-xcomp(Promised, to-write)
+Я обещал писать . \n I have-promised to-write .
+xcomp(обещал, писать)
+xcomp(have-promised, to-write)
 ~~~
