@@ -15,16 +15,10 @@ using the grammatical relations of standard sentences, such as when there is ove
 then it should be analyzed with these more standard relations, even if it is laid out as a list typographically.
 
 ~~~ sdparse
-Steve Jones tel.: 555-9814 e-mail: jones@abc.edf
-name(Steve-1, Jones-2)
-list(Steve-1, tel.:-3)
-list(Steve-1, e-mail:-5)
+Стив Джонс тел.: 555-9814 e-mail: jones@mail.ru
+name(Стив-1, Джонс-2)
+list(Стив-1, тел.:-3)
+list(Стив-1, e-mail:-5)
 appos(tel.:-3, 555-9814-4)
-appos(e-mail:-5, jones@abc.edf-6)
+appos(e-mail:-5, jones@mail.ru-6)
 ~~~
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The `list` relation is not used in the current conversion of the PDT data to UD.
