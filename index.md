@@ -75,3 +75,5 @@ make sure your data shows as validating in the [automatic validation runs](valid
 See [svalidation](svalidation.html) for any suspicious patterns in the data;
 there are direct links to our treebank search that you can use to browse the suspicious data points.
 Check the [list of contributors](contributors.html) is correct—this is gathered from the [metadata](language_metadata.html) in the readme.
+
+There is a separate [page about tools](tools.html) that are available for work with UD data.
