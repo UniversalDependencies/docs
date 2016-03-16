@@ -10541,3 +10541,791 @@ Search expression: `NOUN <case _`
 </div>
 
 
+# PRON or DET lacks the PronType feature
+
+All pronouns and determiners should be further categorized using the PronType feature. Other POS may or may not have this feature.
+
+Search expression: `(PRON|DET)&!PronType`
+
+<a href="http://universaldependencies.org/docs/u/feat/PronType.html">Link to documentation</a>
+
+<div id="accordion" class="jquery-ui-accordion">
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hit overview</span>
+<span class="widespan"> </span>
+</div>
+<div>
+Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Ancient_Greek</span>
+<span class="widespan">22175 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Ancient_Greek">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Ancient_Greek-PROIEL</span>
+<span class="widespan">1788 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Ancient_Greek-PROIEL">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Arabic</span>
+<span class="widespan">1207 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Arabic">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Basque</span>
+<span class="widespan">4305 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Basque">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Bulgarian</span>
+<span class="widespan">122 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Bulgarian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Croatian</span>
+<span class="widespan">1749 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Croatian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Danish</span>
+<span class="widespan">759 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Danish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">English</span>
+<span class="widespan">1479 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=English">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Estonian</span>
+<span class="widespan">11 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Estonian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Finnish</span>
+<span class="widespan">153 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Finnish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Finnish-FTB</span>
+<span class="widespan">1587 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Finnish-FTB">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">French</span>
+<span class="widespan">48396 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=French">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">German</span>
+<span class="widespan">32691 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=German">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Gothic</span>
+<span class="widespan">2906 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Gothic">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Greek</span>
+<span class="widespan">9465 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Greek">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hebrew</span>
+<span class="widespan">1139 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Hebrew">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hindi</span>
+<span class="widespan">100 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Hindi">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hungarian</span>
+<span class="widespan">28 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Hungarian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Indonesian</span>
+<span class="widespan">8360 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Indonesian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Irish</span>
+<span class="widespan">1037 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Irish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Italian</span>
+<span class="widespan">308 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Italian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Japanese-KTC</span>
+<span class="widespan">2132 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Japanese-KTC">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Latin</span>
+<span class="widespan">4036 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Latin">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Latin-ITT</span>
+<span class="widespan">2 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Latin-ITT">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Latin-PROIEL</span>
+<span class="widespan">2016 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Latin-PROIEL">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Norwegian</span>
+<span class="widespan">7709 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Norwegian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Old_Church_Slavonic</span>
+<span class="widespan">873 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Old_Church_Slavonic">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Persian</span>
+<span class="widespan">3549 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Persian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Portuguese</span>
+<span class="widespan">893 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Portuguese">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Slovenian</span>
+<span class="widespan">1281 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Slovenian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Swedish</span>
+<span class="widespan">10230 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Swedish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Tamil</span>
+<span class="widespan">120 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=Tamil">Go to search</a><p/>
+</div>
+</div>
+
+
+# NUM lacks the NumType feature
+
+All numerals should be further categorized using the NumType feature. Other POS may or may not have this feature.
+
+Search expression: `NUM&!NumType`
+
+<a href="http://universaldependencies.org/docs/u/feat/NumType.html">Link to documentation</a>
+
+<div id="accordion" class="jquery-ui-accordion">
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hit overview</span>
+<span class="widespan"> </span>
+</div>
+<div>
+Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Ancient_Greek</span>
+<span class="widespan">117 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Ancient_Greek">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Ancient_Greek-PROIEL</span>
+<span class="widespan">758 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Ancient_Greek-PROIEL">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Arabic</span>
+<span class="widespan">7756 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Arabic">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Basque</span>
+<span class="widespan">1558 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Basque">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Bulgarian</span>
+<span class="widespan">63 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Bulgarian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Croatian</span>
+<span class="widespan">42 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Croatian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Estonian</span>
+<span class="widespan">2 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Estonian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Finnish</span>
+<span class="widespan">207 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Finnish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Finnish-FTB</span>
+<span class="widespan">15 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Finnish-FTB">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">French</span>
+<span class="widespan">6548 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=French">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">German</span>
+<span class="widespan">4785 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=German">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Gothic</span>
+<span class="widespan">401 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Gothic">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Greek</span>
+<span class="widespan">946 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Greek">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hebrew</span>
+<span class="widespan">3309 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Hebrew">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hindi</span>
+<span class="widespan">16 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Hindi">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Indonesian</span>
+<span class="widespan">4386 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Indonesian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Irish</span>
+<span class="widespan">157 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Irish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Italian</span>
+<span class="widespan">21 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Italian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Japanese-KTC</span>
+<span class="widespan">10685 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Japanese-KTC">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Latin</span>
+<span class="widespan">246 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Latin">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Latin-ITT</span>
+<span class="widespan">399 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Latin-ITT">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Latin-PROIEL</span>
+<span class="widespan">832 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Latin-PROIEL">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Norwegian</span>
+<span class="widespan">1943 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Norwegian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Old_Church_Slavonic</span>
+<span class="widespan">673 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Old_Church_Slavonic">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Polish</span>
+<span class="widespan">851 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Polish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Portuguese</span>
+<span class="widespan">120 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Portuguese">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Swedish</span>
+<span class="widespan">1741 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Swedish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Tamil</span>
+<span class="widespan">149 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=Tamil">Go to search</a><p/>
+</div>
+</div>
+
+
+# VERB or AUX lacks the VerbForm feature
+
+All verbs should be further categorized using the VerbForm feature. Other POS may or may not have this feature.
+
+Search expression: `(VERB|AUX)&!VerbForm`
+
+<a href="http://universaldependencies.org/docs/u/feat/VerbForm.html">Link to documentation</a>
+
+<div id="accordion" class="jquery-ui-accordion">
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hit overview</span>
+<span class="widespan"> </span>
+</div>
+<div>
+Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Ancient_Greek</span>
+<span class="widespan">3 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Ancient_Greek">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Arabic</span>
+<span class="widespan">11480 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Arabic">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Basque</span>
+<span class="widespan">18188 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Basque">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Bulgarian</span>
+<span class="widespan">187 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Bulgarian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Croatian</span>
+<span class="widespan">8121 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Croatian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">English</span>
+<span class="widespan">2 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=English">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Estonian</span>
+<span class="widespan">28 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Estonian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Finnish</span>
+<span class="widespan">4 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Finnish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Finnish-FTB</span>
+<span class="widespan">14512 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Finnish-FTB">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">French</span>
+<span class="widespan">27525 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=French">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">German</span>
+<span class="widespan">19991 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=German">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Greek</span>
+<span class="widespan">6240 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Greek">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hebrew</span>
+<span class="widespan">9015 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Hebrew">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hindi</span>
+<span class="widespan">4349 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Hindi">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hungarian</span>
+<span class="widespan">29 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Hungarian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Indonesian</span>
+<span class="widespan">13258 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Indonesian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Irish</span>
+<span class="widespan">1911 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Irish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Italian</span>
+<span class="widespan">3 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Italian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Japanese-KTC</span>
+<span class="widespan">53751 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Japanese-KTC">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Latin</span>
+<span class="widespan">10 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Latin">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Latin-ITT</span>
+<span class="widespan">50 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Latin-ITT">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Latin-PROIEL</span>
+<span class="widespan">1 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Latin-PROIEL">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Norwegian</span>
+<span class="widespan">3 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Norwegian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Persian</span>
+<span class="widespan">14639 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Persian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Polish</span>
+<span class="widespan">480 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Polish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Romanian</span>
+<span class="widespan">251 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Romanian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Swedish</span>
+<span class="widespan">9 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=Swedish">Go to search</a><p/>
+</div>
+</div>
+
+
+# Finite verb is not a verb
+
+Only non-finite VerbForms are expected to appear with non-verb parts of speech (NOUN, ADJ, ADV).
+
+Search expression: `(VerbForm=Fin)&!(VERB|AUX)`
+
+<a href="http://universaldependencies.org/docs/u/feat/VerbForm.html">Link to documentation</a>
+
+<div id="accordion" class="jquery-ui-accordion">
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hit overview</span>
+<span class="widespan"> </span>
+</div>
+<div>
+Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Ancient_Greek</span>
+<span class="widespan">2 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21%28VERB%7CAUX%29&db=Ancient_Greek">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Bulgarian</span>
+<span class="widespan">1 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21%28VERB%7CAUX%29&db=Bulgarian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Dutch</span>
+<span class="widespan">21 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21%28VERB%7CAUX%29&db=Dutch">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hindi</span>
+<span class="widespan">6 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21%28VERB%7CAUX%29&db=Hindi">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Latin</span>
+<span class="widespan">1 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21%28VERB%7CAUX%29&db=Latin">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Tamil</span>
+<span class="widespan">1 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21%28VERB%7CAUX%29&db=Tamil">Go to search</a><p/>
+</div>
+</div>
+
+
+# Finite verb lacks the Mood feature
+
+All finite verb forms should be further categorized using the Mood feature.
+
+Search expression: `(VerbForm=Fin)&!Mood`
+
+<a href="http://universaldependencies.org/docs/u/feat/Mood.html">Link to documentation</a>
+
+<div id="accordion" class="jquery-ui-accordion">
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hit overview</span>
+<span class="widespan"> </span>
+</div>
+<div>
+Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Bulgarian</span>
+<span class="widespan">2381 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21Mood&db=Bulgarian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">English</span>
+<span class="widespan">2166 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21Mood&db=English">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Finnish</span>
+<span class="widespan">1864 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21Mood&db=Finnish">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Persian</span>
+<span class="widespan">312 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21Mood&db=Persian">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Portuguese</span>
+<span class="widespan">4 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21Mood&db=Portuguese">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">Spanish</span>
+<span class="widespan">683 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28VerbForm%3DFin%29%26%21Mood&db=Spanish">Go to search</a><p/>
+</div>
+</div>
+
+
