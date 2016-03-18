@@ -14,8 +14,7 @@ root(ROOT-1, Люблю)
 root(ROOT-7, I-love)
 ~~~
 
-Since release 1.2 of the Czech UD treebank,
-there is just one node with the `root` dependency relation in every
+There is just one node with the `root` dependency relation in every
 tree. If the main predicate is not present (due to
 [ellipsis](http://universaldependencies.org/cs/overview/specific-syntax.html#ellipsis))
 and there are
