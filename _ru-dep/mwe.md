@@ -10,7 +10,7 @@ In Czech it is used for multi-word prepositions.
 The leftmost word is the head and all the other words are attached as its `mwe` modifiers.
 
 ~~~ sdparse
-В отличие от тебя мне нечего стыдитьсяNa rozdíl od tebe já se nemám zač stydět . \n In contrast to you I myself have-not of-what to-be-ashamed .
+В отличие от тебя мне нечего стыдиться . \n In contrast to you I myself have-not of-what to-be-ashamed .
 mwe(В, отличие)
 mwe(В, от)
 case(тебя, В)
