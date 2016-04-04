@@ -77,7 +77,7 @@
 #      that are placed in the table. The first _ is always varied with POS
 -
   name: Acl not dependent on NOUN/PROPN
-  expr: "!NOUN&!PROPN >acl _"
+  expr: "!PRON&!NOUN&!PROPN >acl _"
   expr-pos: _ >acl _
   desc: Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.
   link: http://universaldependencies.org/u/dep/acl.html
