@@ -24,7 +24,7 @@ These fill a valency slot in the frame of the subordinate predicate,
 and are labeled according to their role in the frame, they are not `mark`:
 
 ~~~ sdparse
-Я буду рад знать , когда деньги поступят на нам счет . \n I would-like to- know , when money arrive at our account .
+Я бы хотел узнать , когда нам поступят деньги на счет . \n I would like to-know , when money arrive at our account .
 advmod(поступят, когда)
 advmod(arrive, when)
 ~~~
