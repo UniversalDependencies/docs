@@ -13,9 +13,16 @@ Pronominal quantifiers are tagged `DET` but their relation to their head is a su
 either [cs-dep/det:numgov]() or [cs-dep/det:nummod]().
 
 ~~~ sdparse
-Тот человек уже здесь. \n The man already is here .
+Тот человек уже здесь . \n The man already is here .
 det(человек, Тот)
 det(man, The)
+~~~
+
+
+~~~ sdparse
+Это моя ошибка . \n This is my mistake .
+det(ошибка, моя)
+det(mistake, my)
 ~~~
 
 ~~~ sdparse
