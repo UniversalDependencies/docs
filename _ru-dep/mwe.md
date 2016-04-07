@@ -10,7 +10,7 @@ In Czech it is used for multi-word prepositions.
 The leftmost word is the head and all the other words are attached as its `mwe` modifiers.
 
 ~~~ sdparse
-В отличие от тебя мне нечего стыдиться . \n In contrast to you I myself have-not of-what to-be-ashamed .
+В отличие от тебя , мне нечего стыдиться . \n In contrast to you I-have nothing to-be-ashamed .
 mwe(В, отличие)
 mwe(В, от)
 case(тебя, В)
@@ -23,22 +23,22 @@ Multi-word prepositions usually form a contiguous span of the sentence. In excep
 by emphasizers and other words:
 
 ~~~ sdparse
-ve srovnání například s úvěry \n in comparison for-example to loans
-mwe(ve, srovnání)
-mwe(ve, s)
-case(úvěry, ve)
-advmod:emph(úvěry, například)
+в сравнении , например , с долгом \n in comparison for-example to loans
+mwe(в, сравнении)
+mwe(в, с)
+case(долгом, с)
+advmod:emph(долгом, например)
 mwe(in, comparison)
 mwe(in, to)
-case(loans, in)
+case(loans, to)
 advmod:emph(loans, for-example)
 ~~~
 
-Another type of interruption is caused by a possessive determiner. For instance, _na základě něčeho_ “based on something”
-contains the multi-word preposition _na základě_ “based on”, lit. _on the-basis-of_. This expression is etymologically
-a combination of a proper preposition _na_ “on” and the noun _základ_ “basis”; the argument _něčeho_ “something” is in
-genitive. If the phrase _na základě_ were not analyzed as a multi-word expression, we would have a normal genitive
-modification between two nominals: _základ něčeho_ “basis of-something”. A genitive modifier can be substituted by
+Another type of interruption is caused by a possessive determiner. For instance, _на основе чего-то_ “based on something”
+contains the multi-word preposition _на основе_ “based on”, lit. _on the-basis-of_. This expression is etymologically
+a combination of a proper preposition _на_ “on” and the noun _основа_ “basis”; the argument _чего-то_ “something” is in
+genitive. If the phrase _на основе_ were not analyzed as a multi-word expression, we would have a normal genitive
+modification between two nominals: _основа чего-то_ “basis of-something”. A genitive modifier can be substituted by
 a possessive determiner, and this is possible even within the partially frozen multi-word preposition, as with the
 relative possessive determiner in the following example:
 
@@ -48,6 +48,6 @@ nmod(zřízen, jehož)
 nmod(created, whose)
 case(jehož, na)
 case(whose, on)
-mwe(na, základě)
+mwe(на, основе)
 mwe(on, basis)
 ~~~
