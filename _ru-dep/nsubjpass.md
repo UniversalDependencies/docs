@@ -9,8 +9,8 @@ subject of a passive clause.
 
 ~~~ sdparse
 Шварценберг был побеждён Земаном . \n Schwarzenberg was defeated by-Zeman .
-nsubjpass(поражён, Шварценберг-1)
-nsubjpass(defeated, Schwarzenberg-7)
+nsubjpass(поражён, Шварценберг)
+nsubjpass(defeated, Schwarzenberg)
 ~~~
 
 Reflexive passive (the meaning is “This will be solved tomorrow.”)
@@ -18,6 +18,6 @@ Reflexive passive (the meaning is “This will be solved tomorrow.”)
 ~~~ sdparse
 Это решится завтра . \n This will-be-solved tomorrow .
 nsubjpass(решится, Это)
-nsubjpass(solve, This)
+nsubjpass(will-be-solved, This)
 ~~~
 
