@@ -17,7 +17,7 @@ conj(old, wise)
 ~~~
 
 ~~~ sdparse
-У нас есть яблоки , груши, апельсины a бананы . \n We-have apples , pears , oranges and bananas .
+У нас есть яблоки , груши , апельсины a бананы . \n We have apples , pears , oranges and bananas .
 dobj(есть, яблоки)
 dobj(We-have, apples)
 conj(яблоки, груши)
@@ -28,22 +28,22 @@ conj(apples, oranges)
 conj(apples, bananas)
 cc(яблоки, и)
 cc(apples, and)
-punct(яблоки, ,-3)
 punct(яблоки, ,-5)
-punct(apples, ,-13)
-punct(apples, ,-15)
+punct(яблоки, ,-7)
+punct(apples, ,-16)
+punct(apples, ,-18)
 ~~~
 
 Coordinate clauses are treated the same way as coordination of other constituent types:
 
 ~~~ sdparse
-Он пришел домой , помылся и пошел в кровать . \n He-came home , showered himself and immediately went to bed .
+Он пришел домой , помылся и пошел в кровать . \n He came home , showered himself and immediately went to bed .
 conj(пришел, помылся)
-conj(пришел, šel)
+conj(пришел, пошел)
 conj(came, пошел)
 conj(came, went)
 punct(пришел, ,-4)
-punct(came, ,-14)
+punct(came, ,-15)
 cc(пришел, и)
 cc(came, and)
 ~~~
