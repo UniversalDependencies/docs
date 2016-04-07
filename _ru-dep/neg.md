@@ -20,8 +20,8 @@ neg(bipedal, not)
 Note that the negative determiners (pronouns) are attached as [det](), not `neg`:
 
 ~~~ sdparse
-Premiér není žádný hlupák . \n The-Prime-Minister is-not no fool .
-det(hlupák, žádný)
+Премьер не был никаким дураком . \n The-Prime-Minister was not no fool .
+det(дураком, никаким)
 det(fool, no)
 ~~~
 
