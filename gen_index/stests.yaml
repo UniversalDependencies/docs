@@ -165,9 +165,3 @@
   expr: "(VerbForm=Fin)&!Mood"
   desc: All finite verb forms should be further categorized using the Mood feature.
   link: http://universaldependencies.org/docs/u/feat/Mood.html
-
--
-  name: Dummy, will delete
-  expr: "NOUN <nsubj _"
-  desc: Dummy will delete.
-  link: http://universaldependencies.org/docs/u/feat/Mood.html
