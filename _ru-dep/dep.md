@@ -16,7 +16,7 @@ The current conversion software cannot produce the annotation conforming
 to the UD standard and using the [remnant]() relation.
 
 ~~~ sdparse
-K čemu ovšem , to nebylo jasné . \n For what however , that was-not clear .
-dep(jasné, čemu)
+А к чему - было не понятно . \n And for what, it was-not clear .
+dep(понятно, чему)
 dep(clear, what)
 ~~~
