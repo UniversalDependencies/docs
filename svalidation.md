@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated:  2016-04-09 22:19:34.359615 GMT+2
+Regenerated:  2016-04-09 22:29:43.024730 GMT+2
 
 # Aux chain
 
