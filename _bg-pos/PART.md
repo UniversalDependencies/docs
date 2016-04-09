@@ -16,7 +16,7 @@ or [auxiliary verbs](AUX)).  Particles may encode grammatical
 categories such as negation, mood, tense etc.  Particles are normally
 not inflected, although exceptions may occur.
 
-In the Bultreebank tagset the follwoing tags map to `PART`: Tn, Ti, Tx, Tm, Tv, Te and Tg.
+In the Bultreebank tagset the following tags map to `PART`: Tn, Ti, Tx, Tm, Tv, Te and Tg.
 (Note that `Ta` is considered `INTJ` in the universal tagset. The `Tn` particle _не_ / _ne_ "no" is also considered `INTJ`).
 
 

@@ -10,7 +10,7 @@ It is used for clausal complements where the subject of the complement clause is
 
 Note that this subtype represents a departure from the general UD
 taxonomy approach in differentiating between inherited subject and object
-(see [Syntax: General Principles](http://universaldependencies.github.io/docs/u/overview/syntax.html#clausal-dependents)).
+(see [Syntax: General Principles](http://universaldependencies.org/u/overview/syntax.html#clausal-dependents)).
 
 <!-- TODO The differences between types of verbal dependents, such as
 `xcomp:ds`, are thoroughly discussed in Section

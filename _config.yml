@@ -11,7 +11,7 @@ permalink:    date
 markdown_ext: md
 
 # testing for redirect-from
-baseurl: "/docs"
+baseurl: ""
 
 gems:
   - jekyll-redirect-from
@@ -581,6 +581,34 @@ collections:
   uk-overview:
     output: true
 #
+# Galician
+#
+  gl-pos:
+    output: true
+    permalink: /gl/pos/:path.html
+  gl-feat:
+    output: true
+    permalink: /gl/feat/:path.html
+  gl-dep:
+    output: true
+    permalink: /gl/dep/:path.html
+  gl-overview:
+    output: true
+#
+# Russian
+#
+  ru-pos:
+    output: true
+    permalink: /ru/pos/:path.html
+  ru-feat:
+    output: true
+    permalink: /ru/feat/:path.html
+  ru-dep:
+    output: true
+    permalink: /ru/dep/:path.html
+  ru-overview:
+    output: true
+#
 # Template
 #
   template-pos:
@@ -611,7 +639,7 @@ excerpt_separator: "\n\n"
 
 # URL configuration
 
-home: "http://universaldependencies.github.io/docs/"
+home: "http://universaldependencies.org/"
 tracker: "https://github.com/universaldependencies/docs/issues"
 git_raw: "https://raw.githubusercontent.com/universaldependencies/docs/pages-source"
 git_edit: "https://github.com/universaldependencies/docs/edit/pages-source"

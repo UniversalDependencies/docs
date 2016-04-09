@@ -68,6 +68,7 @@ categories={(u"Documentation status",u"stub"):"""<span class="widespan" style="c
             (u"Data available since",u"UD v1.0"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>""",
             (u"Data available since",u"UD v1.1"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>""",
             (u"Data available since",u"UD v1.2"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.2 (November 2015)"><i class="fa fa-check"></i></span></span>""",
+            (u"Data available since",u"UD v1.3"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Scheduled for release in UD version 1.3 (May 2016)"><i class="fa fa-hourglass-end"></i></span></span>""",
             (u"Data available since",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>"""}
 
 empty_wide_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{hint:}">?</span></span>"""
@@ -149,7 +150,7 @@ def gen_table(args):
         corpus_data[u"lang_name"]=l
         corpus_data[u"langfam_code"]=lcodes[l].split("_")[0]
         corpus_data[u"langfam_name"]=l.split("-")[0]
-        print >> a_data, "<div>"
+        print >> a_data, '<div data-lc="%s">' % lcodes[l]
         print >> a_data, get_flag_span(l)
         print >> a_data, get_language_span(l)
         print >> a_data, get_token_count_span(corpus_data)

@@ -256,6 +256,11 @@
     "lang_name": "English"
   }, 
   {
+    "lang_code": "en_esl", 
+    "contributors": [], 
+    "lang_name": "English-ESL"
+  }, 
+  {
     "lang_code": "et", 
     "contributors": [
       {
@@ -348,6 +353,17 @@
       }
     ], 
     "lang_name": "French"
+  }, 
+  {
+    "lang_code": "gl", 
+    "contributors": [
+      {
+        "full": "Xavier G\u00f3mez Guinovart", 
+        "last": "G\u00f3mez Guinovart", 
+        "first": "Xavier"
+      }
+    ], 
+    "lang_name": "Galician"
   }, 
   {
     "lang_code": "de", 
@@ -519,9 +535,45 @@
     "lang_name": "Italian"
   }, 
   {
-    "lang_code": "ja", 
-    "contributors": [], 
-    "lang_name": "Japanese"
+    "lang_code": "ja_ktc", 
+    "contributors": [
+      {
+        "full": "Masayuki Asahara", 
+        "last": "Asahara", 
+        "first": "Masayuki"
+      }, 
+      {
+        "full": "Hiroshi Kanayama", 
+        "last": "Kanayama", 
+        "first": "Hiroshi"
+      }, 
+      {
+        "full": "Yuji Matsumoto", 
+        "last": "Matsumoto", 
+        "first": "Yuji"
+      }, 
+      {
+        "full": "Yusuke Miyao", 
+        "last": "Miyao", 
+        "first": "Yusuke"
+      }, 
+      {
+        "full": "Shunsuke Mori", 
+        "last": "Mori", 
+        "first": "Shunsuke"
+      }, 
+      {
+        "full": "Takaaki Tanaka", 
+        "last": "Tanaka", 
+        "first": "Takaaki"
+      }, 
+      {
+        "full": "Sumire Uematsu", 
+        "last": "Uematsu", 
+        "first": "Sumire"
+      }
+    ], 
+    "lang_name": "Japanese-KTC"
   }, 
   {
     "lang_code": "kk", 
@@ -719,6 +771,47 @@
     "lang_name": "Romanian"
   }, 
   {
+    "lang_code": "ru", 
+    "contributors": [
+      {
+        "full": "Olga Lyashevskaya", 
+        "last": "Lyashevskaya", 
+        "first": "Olga"
+      }, 
+      {
+        "full": "Andrey Kutuzov", 
+        "last": "Kutuzov", 
+        "first": "Andrey"
+      }, 
+      {
+        "full": "Svetlana Toldova", 
+        "last": "Toldova", 
+        "first": "Svetlana"
+      }, 
+      {
+        "full": "Kira Droganova", 
+        "last": "Droganova", 
+        "first": "Kira"
+      }, 
+      {
+        "full": "Nina Mustafina", 
+        "last": "Mustafina", 
+        "first": "Nina"
+      }, 
+      {
+        "full": "Maria Alexeeva", 
+        "last": "Alexeeva", 
+        "first": "Maria"
+      }, 
+      {
+        "full": "Elena Shakurova", 
+        "last": "Shakurova", 
+        "first": "Elena"
+      }
+    ], 
+    "lang_name": "Russian"
+  }, 
+  {
     "lang_code": "sl", 
     "contributors": [
       {
@@ -779,6 +872,22 @@
       }
     ], 
     "lang_name": "Spanish"
+  }, 
+  {
+    "lang_code": "es", 
+    "contributors": [
+      {
+        "full": "H\u00e9ctor Mart\u00ednez Alonso", 
+        "last": "Mart\u00ednez Alonso", 
+        "first": "H\u00e9ctor"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Spanish-AnCora"
   }, 
   {
     "lang_code": "sv", 
@@ -847,5 +956,10 @@
       }
     ], 
     "lang_name": "Turkish"
+  }, 
+  {
+    "lang_code": "uk", 
+    "contributors": [], 
+    "lang_name": "Ukrainian"
   }
 ]

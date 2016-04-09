@@ -1,72 +1,167 @@
 -
   name: Aux chain
   expr: _ <aux (_ <aux _)
-  desc: Auxes should not form a chain, they should all depend on their head word.
+  desc: Auxiliary dependencies should not form a chain.
+  pos_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(left, will)\naux(left, have)"
+  neg_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(have, will)\naux(left, have)"
+  link: http://universaldependencies.org/u/dep/aux_.html
 
 -
-  name: Name to left
+  name: Name is right-headed
   expr: _ <name@R _
-  desc: Name should not go left since names are left-headed.
+  desc: Name dependencies should be left-headed, not right.
+  pos_ex: "Carl XVI Gustaf\nname(Carl, XVI)\nname(Carl, Gustaf)"
+  neg_ex: "Carl XVI Gustaf\nname(Gustaf, XVI)\nname(Gustaf, Carl)"
+  link: http://universaldependencies.org/u/dep/name.html
 
 -
-  name: MWE to left
+  name: MWE is right-headed
   expr: _ <mwe@R _
-  desc: Mwe should not go left since mwe's are left-headed.
+  desc: Multi-word expressions should be left-headed, not right.
+  pos_ex: "He cried because of you\nmwe(because, of)"
+  neg_ex: "He cried because of you\nmwe(of, because)"
+  link: http://universaldependencies.org/u/dep/mwe.html
 
 -
-  name: Conj to left
+  name: Conj is right-headed
   expr: _ <conj@R _
-  desc: Conj should not go left.
+  pos_ex: "Bill is big and honest\nconj(big, honest)"
+  neg_ex: "Bill is big and honest\nconj(honest, big)"
+  desc: Conjugation dependencies should be left-headed, not right.
+  link: http://universaldependencies.org/u/dep/conj.html
 
 -
-  name: Name to right
+  name: Name is left-headed
   expr: _ <name@L _
-  desc: This is the correct heading direction for name.
+  desc: Correct instances of name dependencies being left-headed.
+  link: http://universaldependencies.org/u/dep/name.html
 
 -
-  name: MWE to right
+  name: MWE is left-headed
   expr: _ <mwe@L _
-  desc: This is the correct heading direction for MWE.
+  desc: Correct instances of multi-word expressions being left-headed.
+  link: http://universaldependencies.org/u/dep/mwe.html
 
 -
-  name: Conj to right
+  name: Conj is left-headed
   expr: _ <conj@L _
-  desc: This is the correct heading direction for conj.
+  desc: Correct instances of conjugation dependencies being left-headed.
+  link: http://universaldependencies.org/u/dep/conj.html
+
 -
-  name: POS of expl
+  name: Parts of speech of expl
   expr: _ <expl _
-  desc: The parts of speech of expl.
+  desc: The parts of speech of words marked as being expletive dependencies.
+  link: http://universaldependencies.org/u/dep/expl.html
 
 -
   name: Dependents of expl
   expr: _ < (_ <expl _)
-  desc: The dependents of a word marked as having an expl dependency. This should be empty.
+  desc: The dependents of a word marked as being an expletive dependency. This should be empty.
+  link: http://universaldependencies.org/u/dep/expl.html
 
 -
   name: Heads of expl
   expr: _ >expl _
-  desc: The heads of an expl dependency relation.
-
--
-  name: POS of xcomp
-  expr: _ <xcomp _
-  desc: The parts of speech of xcomp.
-
--
-  name: Dependents of xcomp
-  expr: _ < (_ <xcomp _)
-  desc: The dependents of a word marked as having an xcomp dependency.
+  desc: Parts of speech of words which have an expletive dependency.
+  link: http://universaldependencies.org/u/dep/expl.html
 
 -
   name: Heads of xcomp
   expr: _ >xcomp _
-  desc: The heads of an xcomp dependency relation.
+  desc: Parts of speech of words which have an open clausal complement dependency.
+  link: http://universaldependencies.org/u/dep/xcomp.html
 
 #Note: in the following test expr is between double quotes because ! has a special meaning in yaml
 #      also, because expr is not simple (starting with _), expr-pos is given as a basis of the links
 #      that are placed in the table. The first _ is always varied with POS
 -
-  name: Acl not dependent on Noun/Propn
-  expr: "!NOUN&!PROPN >acl _"
+  name: Acl not dependent on NOUN/PROPN
+  expr: "!PRON&!NOUN&!PROPN >acl _"
   expr-pos: _ >acl _
-  desc: Acl relations not governed by a Noun/Propn
+  desc: Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.
+  link: http://universaldependencies.org/u/dep/acl.html
+
+-
+  name: Case not dependent on nmod
+  expr: "_ <case (_ <!nmod _)"
+  desc: If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
+  link: http://universaldependencies.org/u/dep/case.html
+
+-
+  name: Marked as NUM but not nummod or nmod
+  expr: "NUM (<!nummod&<!nmod) _"
+  expr-pos: "_ (<!nummod&<!nmod) _"
+  desc: If a word is marked as a numeral (POS), then it should be marked as being an nmod or nummod dependency.
+  link: http://universaldependencies.org/docs/u/pos/NUM.html
+
+-
+  name: Marked as nummod but not NUM
+  expr: "!NUM <nummod _"
+  expr-pos: _ <nummod _
+  desc: If a word is marked as a numeric modifier, it should be marked as a numeral (POS).
+  link: http://universaldependencies.org/docs/u/dep/nummod.html
+
+-
+  name: Marked as AUX but not aux or auxpass
+  expr: "AUX (<!aux&<!auxpass) _"
+  expr-pos: "_ (<!aux&<!auxpass) _"
+  desc: If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
+  link: http://universaldependencies.org/docs/u/pos/AUX_.html
+
+-
+  name: Marked as aux or auxpass but not AUX
+  expr: "!AUX (<aux|<auxpass) _"
+  expr-pos: _ (<aux|<auxpass) _
+  desc: If a word is marked as a (passive) auxiliary dependency, it should be marked as the auxiliary POS.
+  link: http://universaldependencies.org/docs/u/dep/aux_.html
+
+-
+  name: Heads of an advmod are nominal
+  expr: _ <advmod (NOUN|PROPN|NUM|PRON)
+  desc: The heads of an adverbial modifier should not be nominal (noun, proper noun, numeral, or pronoun)
+  link: http://universaldependencies.org/docs/u/dep/advmod.html
+
+-
+  name: Copulas are nominal
+  expr: (NOUN|PROPN|NUM|PRON) <cop _
+  expr-pos: _ <cop _
+  desc: Copulas should not be marked as nominal (noun, proper noun, numeral, or pronoun)
+  link: http://universaldependencies.org/docs/u/dep/cop.html
+
+-
+  name: NOUN and case
+  expr: NOUN <case _
+  expr-pos: _ <case _
+  desc: A word marked as a NOUN should not be a case dependency.
+  link: http://universaldependencies.org/docs/u/dep/case.html
+
+-
+  name: PRON or DET lacks the PronType feature
+  expr: "(PRON|DET)&!PronType"
+  desc: All pronouns and determiners should be further categorized using the PronType feature. Other POS may or may not have this feature.
+  link: http://universaldependencies.org/docs/u/feat/PronType.html
+
+-
+  name: NUM lacks the NumType feature
+  expr: "NUM&!NumType"
+  desc: All numerals should be further categorized using the NumType feature. Other POS may or may not have this feature.
+  link: http://universaldependencies.org/docs/u/feat/NumType.html
+
+-
+  name: VERB or AUX lacks the VerbForm feature
+  expr: "(VERB|AUX)&!VerbForm"
+  desc: All verbs should be further categorized using the VerbForm feature. Other POS may or may not have this feature.
+  link: http://universaldependencies.org/docs/u/feat/VerbForm.html
+
+-
+  name: Finite verb is not a verb
+  expr: "(VerbForm=Fin)&!(VERB|AUX)"
+  desc: Only non-finite VerbForms are expected to appear with non-verb parts of speech (NOUN, ADJ, ADV).
+  link: http://universaldependencies.org/docs/u/feat/VerbForm.html
+
+-
+  name: Finite verb lacks the Mood feature
+  expr: "(VerbForm=Fin)&!Mood"
+  desc: All finite verb forms should be further categorized using the Mood feature.
+  link: http://universaldependencies.org/docs/u/feat/Mood.html

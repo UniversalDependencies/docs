@@ -47,11 +47,11 @@ Changelog
 
 ## Language metadata
 
-The readme file contains metadata used to generate the overview table on the UD main page: data source, license, genres, and documentation status. The format of this metadata is described [here](http://universaldependencies.github.io/docs/language_metadata.html)
+The readme file contains metadata used to generate the overview table on the UD main page: data source, license, genres, and documentation status. The format of this metadata is described [here](http://universaldependencies.org/language_metadata.html)
 
 ## Validation
 
-Automatic validation runs are available [here](http://universaldependencies.github.io/docs/validation.html).
+Automatic validation runs are available [here](http://universaldependencies.org/validation.html).
 
 The final data validation is an important step and each file released
 in the project is expected to validate as conforming to the basic
@@ -95,7 +95,7 @@ the repository:
 
 ## Language-specific guidelines
 
-Every treebank should be accompanied by a set of language-specific guidelines at http://universaldependencies.github.io/docs/. These guidelines should minimally specify the following:
+Every treebank should be accompanied by a set of language-specific guidelines at http://universaldependencies.org/. These guidelines should minimally specify the following:
 
 1. Tokenization: How was word segmentation performed? Does the treebank include multiword tokens?
 2. POS tags: What universal POS tags (if any) are not used?

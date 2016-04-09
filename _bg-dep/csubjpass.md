@@ -23,6 +23,6 @@ Reflexive passive (the meaning is “It is costly for one on our Earth to be a h
 
 ~~~ sdparse
 Скъпо се плаща на тая земя да бъдеш човек . \n Costly REFL.pay at this land to be a-human .
-csubjpass(плаща, човек)
-csubjpass(REFL.pay, a-human)
+csubjpass(плаща, бъдеш)
+csubjpass(REFL.pay, be)
 ~~~

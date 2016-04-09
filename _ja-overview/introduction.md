@@ -36,10 +36,10 @@ Thus, we lose some information related to nested coordination, non-constituent c
 Therefore, we keep the coordinate structure information in a different layer of annotation from the bunsetsu-based dependency annotation.
 We also keep the surface case frame structures and the scope of negation in different layers.
 
-The Universal Dependency label set includes syntactic roles such as '[nsubj](http://universaldependencies.github.io/docs/ja/dep/nsubj.html)', '[dobj](http://universaldependencies.github.io/docs/ja/dep/dobj.html)', '[iobj](http://universaldependencies.github.io/docs/ja/dep/iobj.html)'.
+The Universal Dependency label set includes syntactic roles such as '[nsubj](http://universaldependencies.org/ja/dep/nsubj.html)', '[dobj](http://universaldependencies.org/ja/dep/dobj.html)', '[iobj](http://universaldependencies.org/ja/dep/iobj.html)'.
 These annotations are not provided under bunsetsu-based dependency annotation, and are instead served from predicate-argument relation annotations.
 
-Labels related to 'PASSIVE' such as '[nsubjpass](http://universaldependencies.github.io/docs/ja/dep/nsubjpass.html)', '[csubjpass](http://universaldependencies.github.io/docs/ja/dep/csubjpass.html)' and '[auxpass](http://universaldependencies.github.io/docs/ja/dep/auxpass.html)' are defined in the Universal Dependency label set.  Hopefully, the Japanese language has only two passive auxiliary verbs reru(れる) and rareru(られる). Though these morphemes are polysemous, 90% of them are passive.  We also featured annotation of the sense of these morphemes.
+Labels related to 'PASSIVE' such as '[nsubjpass](http://universaldependencies.org/ja/dep/nsubjpass.html)', '[csubjpass](http://universaldependencies.org/ja/dep/csubjpass.html)' and '[auxpass](http://universaldependencies.org/ja/dep/auxpass.html)' are defined in the Universal Dependency label set.  Hopefully, the Japanese language has only two passive auxiliary verbs reru(れる) and rareru(られる). Though these morphemes are polysemous, 90% of them are passive.  We also featured annotation of the sense of these morphemes.
 
 However, whereas the Universal Dependency label set handles 'PASSIVE', it does not handle 'CAUSATIVE'.
 The Japanese language has two causative auxiliary verbs seru(せる) and saseru(させる) which raise the issue of case alternation. 
@@ -48,7 +48,7 @@ The case alternation of causatives should be handled in the Universal Dependency
 The Universal Dependency label set discriminates whether the target is a clause or not.
 Unfortunately, the definition of 'clause' here is vague.
 We defined some heuristic rules to define clauses:
-for example, the difference between [acl](http://universaldependencies.github.io/docs/ja/dep/acl.html) (adjectival clause) and [amod](http://universaldependencies.github.io/docs/ja/dep/amod.html) (adjectival modifier) is defined by whether the adjective has any overt case or not.
+for example, the difference between [acl](http://universaldependencies.org/ja/dep/acl.html) (adjectival clause) and [amod](http://universaldependencies.org/ja/dep/amod.html) (adjectival modifier) is defined by whether the adjective has any overt case or not.
 Aside from these syntactic dependency annotations,
 
 # Background

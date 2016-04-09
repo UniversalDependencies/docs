@@ -19,7 +19,7 @@ This list does not replace the Github <a href="https://github.com/universaldepen
 
 5. Ellipsis.
   See the
-  <a href="http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis">Czech documentation</a>
+  <a href="http://universaldependencies.org/cs/overview/specific-syntax.html#ellipsis">Czech documentation</a>
   for an overview of possibilities. 
   A related issue is <a href="https://github.com/UniversalDependencies/docs/issues/164">#164</a> (multiple root trees).
   Questions: 

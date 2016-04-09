@@ -4,7 +4,7 @@ title: 'Tense'
 shortdef: 'tense'
 ---
 
-**This document is a work-in-progress proposal. See http://universaldependencies.github.io/docs for current/accepted specification** 
+**This document is a work-in-progress proposal. See http://universaldependencies.org for current/accepted specification** 
 
 Turkish has a complex tense/aspect/modality system.
 
