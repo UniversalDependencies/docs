@@ -9,7 +9,7 @@ that is not well edited.
 The head is in some sense the “main” part, often the second part.
 
 ~~~ sdparse
-Zastavil a z těžka oddychoval .
-goeswith(těžka, z)
+Он остановился чтобы о тдышаться .
+goeswith(тдышаться, о)
 ~~~
 

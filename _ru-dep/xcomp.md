@@ -15,7 +15,7 @@ adjuncts/modifiers, such as a purpose clause. The name `xcomp` is
 borrowed from Lexical-Functional Grammar.
 
 ~~~ sdparse
-Хочешь плавать ? \n Do-you-want yourself to-swim ?
+Хочешь плавать ? \n Do-you-want to-swim ?
 xcomp(Хочешь, плавать)
 xcomp(Do-you-want, to-swim)
 ~~~

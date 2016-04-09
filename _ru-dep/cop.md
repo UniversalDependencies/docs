@@ -5,7 +5,7 @@ shortdef: 'copula'
 ---
 
 A copula is the relation between the nominal predicate and
-the copular verb _<b>,быть</b>_ “to be” (or its variants _бывал, был_).
+the copular verb _<b>быть</b>_ “to be” (or its variants _бывал, был_).
 The verb _становиться_ “to become”, despite being counted among copular verbs by some authors,
 is not analyzed as `cop`.
 

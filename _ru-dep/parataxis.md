@@ -22,7 +22,7 @@ parataxis(ушёл, сказал)
 parataxis(left, said)
 ~~~
 
-there are paraphrases that convey essentially the same meaning but
+There are paraphrases that convey essentially the same meaning but
 with a different syntactic structure. When the reported speech is embedded in a subordinate clause (with or 
 without an overt complementizer _что_ “that”), the subordinate clause is a [ccomp]() of the speech verb. When the
 reported speech follows the speech verb and is separated by a colon, the reported speech forms a main clause
@@ -39,19 +39,19 @@ ccomp(said, left)
 ~~~
 
 ~~~ sdparse
-Вася сказал : „ Тот парень ушёл рано утром . “ \n Honza said : “ The guy left early in-the-morning . ”
+Вася сказал : " Тот парень ушёл рано утром . " \n Honza said : " The guy left early in-the-morning . "
 parataxis(сказал, ушёл)
 parataxis(said, left)
 ~~~
 
 ~~~ sdparse
-„ Тот парень ушёл рано утром, “ сказал Вася . \n “ The guy left early in-the-morning , ” said Honza .
+" Тот парень ушёл рано утром, " сказал Вася . \n " The guy left early in-the-morning , " said Honza .
 parataxis(ушёл, сказал)
 parataxis(left, said)
 ~~~
 
 ~~~ sdparse
-„ Тот парень , “ сказал Вася , „ ушёл рано утром . “ \n “ The guy , ” said Honza , “ left early in-the-morning . ”
+" Тот парень , " сказал Вася , " ушёл рано утром . " \n " The guy , " said Honza , " left early in-the-morning . "
 parataxis(ушёл, сказал)
 parataxis(left, said)
 ~~~
@@ -67,22 +67,6 @@ The `parataxis` relation should be used to connect the parts of a news article b
 There does not seem to be a better relation to use.
 
 ~~~ sdparse
-Washington ( CNN ) :
-parataxis(Washington, CNN)
+Вашингтон ( CNN ) :
+parataxis(Вашингтон, CNN)
 ~~~
-
-### Interjected clauses and phrases
-
-~~~ sdparse
-V posledních letech se srovnávání rozšiřuje , přinejmenším pokud jde o platy , na sousední státy . \n In recent years is comparison extended , at-least as concerns about salaries , to neighboring countries .
-parataxis(rozšiřuje, jde)
-parataxis(extended, concerns)
-~~~
-
-## Diffs
-
-### Prague Dependency Treebank
-
-At present the PDT data converted to UD use `parataxis` only for interjected parentheticals.
-The other examples above are analyzed differently (legacy PDT structure).
-

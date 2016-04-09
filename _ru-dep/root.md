@@ -22,21 +22,21 @@ multiple orphaned dependents, the leftmost dependent is promoted to
 the head (root) position and the other orphans are attached to it.
 
 An example sentence-like segment that lacks the main verb:
-_И что на это MF?_
-“And what [does] MF [say] to it?”
+_И что он на это ?_
+“And what [does] he [say] to it?”
 
 ~~~ sdparse
-ROOT И что на это MF ? \n ROOT And what to it MF ?
+ROOT И что он на это ? \n ROOT And what he to it ?
 root(ROOT-1, И)
 root(ROOT-9, And)
 dobj(И, что)
 dobj(And, what)
-nmod(И, это-5)
+nmod(И, это)
 nmod(And, it)
-case(это-5, на)
-case(it, to-12)
-nsubj(И, MF-6)
-nsubj(And, MF-14)
+case(это, на)
+case(it, to)
+nsubj(И, он)
+nsubj(And, he)
 punct(И, ?-7)
 punct(And, ?-15)
 ~~~

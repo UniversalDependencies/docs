@@ -34,14 +34,14 @@ conj(apples, oranges)
 conj(apples, bananas)
 cc(яблоки, и)
 cc(apples, and)
-punct(яблоки, ,-3)
-punct(яблоки, ,-5)
-punct(apples, ,-13)
+punct(яблоки, ,-4)
+punct(яблоки, ,-6)
 punct(apples, ,-15)
+punct(apples, ,-17)
 ~~~
 
 ~~~ sdparse
-Мужчина , которого ты вчера видел, пришёл снова . \n Man , whom you-have yesterday seen , came again .
+Мужчина , которого ты вчера видел , пришёл снова . \n Man , whom you-have yesterday seen , came again .
 punct(видел, ,-2)
 punct(seen, ,-13)
 punct(видел, ,-7)
@@ -51,13 +51,13 @@ punct(came, .-21)
 ~~~
 
 ~~~ sdparse
-Аббревиатура напр . означает „ например “ . \n The-abbreviation eg . means “ for-example ” .
+Аббревиатура напр . означает " например " . \n The-abbreviation eg . means " for-example " .
 punct(напр, .-3)
 punct(eg, .-12)
-punct(например, „-5)
-punct(for-example, “-14)
-punct(например, “-7)
-punct(for-example, ”-16)
+punct(например, "-5)
+punct(for-example, "-14)
+punct(например, "-7)
+punct(for-example, "-16)
 punct(означает, .-8)
 punct(means, .-17)
 ~~~

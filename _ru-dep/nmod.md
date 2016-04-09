@@ -11,28 +11,27 @@ on another noun (group “noun dependents”) or on a predicate (group
 `nmod` is a [noun](cs-pos/NOUN) (or noun phrase) functioning as a
 non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
-But when attaching to a noun, it usually corresponds to a non-agreeing attribute _(přívlastek neshodný)_
-in genitive. (See below for an example of an agreeing attribute, _přívlastek shodný_.)
+But when attaching to a noun, it usually corresponds to a non-agreeing attribute in genitive. 
 
 In Czech the `nmod` relation covers only those possessives that are expressed using the genitive [cs-feat/Case]().
 If a possessive adjective is used, the relation is labeled [amod]().
 
 ~~~ sdparse
-kancelář ředitele \n office of-the-director
-nmod(kancelář, ředitele)
-nmod(office, of-the-director)
+карта студента \n card of-the-student
+nmod(карта, директора)
+nmod(card, of-the-student)
 ~~~
 
 ~~~ sdparse
-ředitelova kancelář \n director's office
-amod(kancelář, ředitelova)
-amod(office, director's)
+студенческая карта \n student's card
+amod(карта, студенческая)
+amod(card, student's)
 ~~~
 
 ~~~ sdparse
-jeho kancelář \n his office
-det(kancelář, jeho)
-det(office, his)
+его карта \n his card
+det(карта, его)
+det(card, his)
 ~~~
 
 `nmod` is also used for temporal nominal modifiers:

@@ -14,8 +14,8 @@ of the copular verb, which can be an adjective or noun.
 
 ~~~ sdparse
 Ленинградскую симфонию написал Дмитрий Шостакович . \n Leningrad Symphony wrote Dmitri Shostakovich .
-nsubj(нписал, Шостакович-5)
-nsubj(wrote, Shostakovich-12)
+nsubj(написал, Шостакович)
+nsubj(wrote, Shostakovich)
 ~~~
 
 ~~~ sdparse
