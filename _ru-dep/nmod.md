@@ -37,9 +37,9 @@ det(card, his)
 `nmod` is also used for temporal nominal modifiers:
 
 ~~~ sdparse
-Potkal jsem ho minulý čtvrtek . \n Met I-have him last Thursday .
-nmod(Potkal, čtvrtek)
-nmod(Met, Thursday)
+Последний раз мы разговаривали зимой. \n Last time we have-talked in-winter .
+nmod(разговаривали, зимой)
+nmod(have-talked, in-winter)
 ~~~
 
 ## Agreeing attribute of a noun
@@ -50,19 +50,24 @@ A typical example is a title attached to a name of a person. The relation is sim
 that links the first and the last name, but it is not labeled `name` because the title is not part of the name:
 
 ~~~ sdparse
-český prezident Václav Havel
-amod(prezident, český)
-nmod(Havel, prezident)
-name(Havel, Václav)
+российский президент Владимир Владимироваич Путин \n russian president Vladimir Vladimirovich Putin
+amod(президент, российский)
+amod(president, russian)
+nmod(Владимир, президент)
+nmod(Vladimir, president)
+name(Владимир, Путин)
+name(Vladimir, Putin)
+name(Владимирович, Владимир)
+name(Vladimirovich, Vladimir)
 ~~~
 
 Note that the same thing can be also expressed using an [apposition](appos).
 In the case of apposition, the title follows the modified name and is separated by a punctuation symbol:
 
 ~~~ sdparse
-Václav Havel , český prezident
-name(Havel, Václav)
-punct(prezident, ,-3)
-amod(prezident, český)
-appos(Havel, prezident)
+Владимир Путин , российский президент
+name(Владимир, Путин)
+punct(президент, ,-3)
+amod(президент, российский)
+appos(Путин, президент)
 ~~~
