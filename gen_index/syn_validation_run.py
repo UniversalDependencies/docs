@@ -161,7 +161,7 @@ def main(tests,test_cache,languages):
     print >> out8, u"title:  'Universal Dependencies --- Syntactic validation'"
     print >> out8, u"---"
     print >> out8
-    print >> out8, u"Regenerated: ", datetime.datetime.now(), "GMT+2"
+    print >> out8, u'Regenerated <time class="timeago" datetime="%(zulu)sZ">%(zulu)s zulu</time>'%{'zulu':datetime.datetime.utcnow().replace(microsecond=0).isoformat()}
     print >> out8
 
     for t in tests:
