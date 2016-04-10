@@ -221,7 +221,7 @@ def main(tests,test_cache,languages):
             print >> out8, u"</div>"
             print >> out8, u"<div>"
             q=urllib.urlencode({"db":l,"search":t["expr"]})
-            print >> out8, '<a href="http://bionlp-www.utu.fi/dep_search/?%s">Go to search</a><p/>'%q
+            print >> out8, '<a href="http://bionlp-www.utu.fi/dep_search/?%s-dev">Go to search</a><p/>'%q
             print >> out8, u"</div>"
         print >> out8, u"</div>"
         print >> out8
