@@ -116,7 +116,7 @@ def gen_table(validation_cache):
         #     print >> a_data, u"""<span class="validationfail">%s branch</span>"""%cache["branch"]
         # else:
         #     print >> a_data, u"""<span class="validationpass">dev branch</span>"""
-        print >> a_data, u"""<span class="widespan">Updated <time class="timeago" datetime="%(time)sZ">%(time)s zulu</time></span>"""%{"time":cache["timestamp"]}
+        print >> a_data, u"""<span class="doublewidespan">Tested <time class="timeago" datetime="%(time)sZ">%(time)s zulu</time></span>"""%{"time":cache["timestamp"]}
         print >> a_data, u"</div>"
 
         print >> a_data, u"<div>"
