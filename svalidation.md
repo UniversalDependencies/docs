@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-11T13:06:33Z">2016-04-11T13:06:33 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-11T15:42:10Z">2016-04-11T15:42:10 zulu</time>
 
 # Aux chain
 
@@ -12236,7 +12236,7 @@ Search expression: `!NUM <nummod _`
 
 # Marked as AUX but not aux, auxpass, or cop
 
-If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
+If a word is marked as the auxiliary POS, it should be marked as either aux, auxpass, or copula dependency.
 
 Search expression: `AUX (<!aux&<!auxpass&<!cop) _`
 
