@@ -88,7 +88,7 @@
   name: Marked as AUX but not aux, auxpass, or cop
   expr: "AUX (<!aux&<!auxpass&<!cop) _"
   expr-pos: "_ (<!aux&<!auxpass&<!cop) _"
-  desc: If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
+  desc: If a word is marked as the auxiliary POS, it should be marked as either aux, auxpass, or copula dependency.
   link: http://universaldependencies.org/docs/u/pos/AUX_.html
 
 -
