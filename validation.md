@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-11T22:53:52Z">2016-04-11T22:53:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-11T22:57:36Z">2016-04-11T22:57:36 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -11,7 +11,7 @@ Regenerated: <time class="timeago" datetime="2016-04-11T22:53:52Z">2016-04-11T22
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
-<span class="validationfail">NO DATA</span>
+<span class="validationfail">EMPTY</span>
 <span class="doublewidespan">Tested <time class="timeago" datetime="2016-04-11T22:18:17.129153Z">2016-04-11T22:18:17.129153 zulu</time></span>
 </div>
 <div>
@@ -395,7 +395,7 @@ python ../../tools/validate.py --lang en ../../UD-dev-branches/UD_English/en-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
-<span class="validationfail">NO DATA</span>
+<span class="validationfail">EMPTY</span>
 <span class="doublewidespan">Tested <time class="timeago" datetime="2016-04-11T22:26:04.326922Z">2016-04-11T22:26:04.326922 zulu</time></span>
 </div>
 <div>
@@ -1190,7 +1190,7 @@ python ../../tools/validate.py --lang ja_ktc ../../UD-dev-branches/UD_Japanese-K
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
-<span class="validationfail">NO DATA</span>
+<span class="validationfail">EMPTY</span>
 <span class="doublewidespan">Tested <time class="timeago" datetime="2016-04-11T22:30:13.599604Z">2016-04-11T22:30:13.599604 zulu</time></span>
 </div>
 <div>
@@ -1201,7 +1201,7 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
-<span class="validationfail">NO DATA</span>
+<span class="validationfail">EMPTY</span>
 <span class="doublewidespan">Tested <time class="timeago" datetime="2016-04-11T22:30:13.606947Z">2016-04-11T22:30:13.606947 zulu</time></span>
 </div>
 <div>
@@ -1818,7 +1818,7 @@ python ../../tools/validate.py --lang ta ../../UD-dev-branches/UD_Tamil/ta-ud-tr
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
-<span class="validationfail">NO DATA</span>
+<span class="validationfail">EMPTY</span>
 <span class="doublewidespan">Tested <time class="timeago" datetime="2016-04-11T22:35:20.843331Z">2016-04-11T22:35:20.843331 zulu</time></span>
 </div>
 <div>
@@ -1829,7 +1829,7 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
-<span class="validationfail">NO DATA</span>
+<span class="validationfail">EMPTY</span>
 <span class="doublewidespan">Tested <time class="timeago" datetime="2016-04-11T22:35:20.852365Z">2016-04-11T22:35:20.852365 zulu</time></span>
 </div>
 <div>

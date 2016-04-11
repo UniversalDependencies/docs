@@ -109,7 +109,7 @@ def gen_table(validation_cache):
             print >> a_data, u"""<span class="validationpass">PASS</span>"""
         else:
             if cache["outp"]==u"No data":
-                print >> a_data, u"""<span class="validationfail">NO DATA</span>"""
+                print >> a_data, u"""<span class="validationfail">EMPTY</span>"""
             else:
                 print >> a_data, u"""<span class="validationfail">FAIL</span>"""
         # if cache["branch"]!=u"dev":
