@@ -85,10 +85,10 @@
   link: http://universaldependencies.org/docs/u/dep/nummod.html
 
 -
-  name: Marked as AUX but not aux, auxpass, or cop
-  expr: "AUX (<!aux&<!auxpass&<!cop) _"
-  expr-pos: "_ (<!aux&<!auxpass&<!cop) _"
-  desc: If a word is marked as the auxiliary POS, it should be marked as either aux, auxpass, or copula dependency.
+  name: Marked as AUX but not aux or auxpass
+  expr: "AUX (<!aux&<!auxpass) _"
+  expr-pos: "_ (<!aux&<!auxpass) _"
+  desc: If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
   link: http://universaldependencies.org/docs/u/pos/AUX_.html
 
 -
