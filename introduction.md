@@ -108,7 +108,7 @@ UD is an open collaboration with many project members. The administrative struct
 * <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Sebastian Schuster, Christopher Manning
 * <a href="index.html#language-et">Estonian</a>: Jan Štěpánek, Dan Zeman
 * <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, Filip Ginter, Hanna Nurmi, Juha Kuokkala, Jussi Piitulainen, Krister Lindén
-* <a href="index.html#language-fr">French</a>: Marie-Catherine de Marneffe, Bruno Guillaume, Ryan McDonald
+* <a href="index.html#language-fr">French</a>: Marie-Catherine de Marneffe, Bruno Guillaume, Ryan McDonald, Alane Suhr
 * <a href="index.html#language-de">German</a>: Slav Petrov, Wolfgang Seeker
 * <a href="index.html#language-got">Gothic</a>: Dag Haug
 * <a href="index.html#language-el">Greek</a>: Prokopis Prokopidis

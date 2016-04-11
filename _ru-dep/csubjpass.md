@@ -4,5 +4,10 @@ title: 'csubjpass'
 shortdef: 'clausal passive subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `csubjpass`.
+A clausal passive subject is a clausal syntactic subject of a passive clause.
+
+~~~ sdparse
+Мне было посоветовано , чтобы я все хорошо взвесил . \n It-has-been to-me recommended , that-I it very well weigh .
+csubjpass(посоветовано, взвесил)
+csubjpass(recommended, weigh)
+~~~

@@ -4,10 +4,10 @@
   desc: Auxiliary dependencies should not form a chain.
   pos_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(left, will)\naux(left, have)"
   neg_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(have, will)\naux(left, have)"
-  link: http://universaldependencies.org/u/dep/aux_.html 
+  link: http://universaldependencies.org/u/dep/aux_.html
 
 -
-  name: Name is right-headed 
+  name: Name is right-headed
   expr: _ <name@R _
   desc: Name dependencies should be left-headed, not right.
   pos_ex: "Carl XVI Gustaf\nname(Carl, XVI)\nname(Carl, Gustaf)"
@@ -15,7 +15,7 @@
   link: http://universaldependencies.org/u/dep/name.html
 
 -
-  name: MWE is right-headed 
+  name: MWE is right-headed
   expr: _ <mwe@R _
   desc: Multi-word expressions should be left-headed, not right.
   pos_ex: "He cried because of you\nmwe(because, of)"
@@ -23,29 +23,11 @@
   link: http://universaldependencies.org/u/dep/mwe.html
 
 -
-  name: Conj is right-headed 
+  name: Conj is right-headed
   expr: _ <conj@R _
   pos_ex: "Bill is big and honest\nconj(big, honest)"
   neg_ex: "Bill is big and honest\nconj(honest, big)"
   desc: Conjugation dependencies should be left-headed, not right.
-  link: http://universaldependencies.org/u/dep/conj.html
-
--
-  name: Name is left-headed
-  expr: _ <name@L _
-  desc: Correct instances of name dependencies being left-headed.
-  link: http://universaldependencies.org/u/dep/name.html
-
--
-  name: MWE is left-headed
-  expr: _ <mwe@L _
-  desc: Correct instances of multi-word expressions being left-headed.
-  link: http://universaldependencies.org/u/dep/mwe.html
-
--
-  name: Conj is left-headed
-  expr: _ <conj@L _
-  desc: Correct instances of conjugation dependencies being left-headed.
   link: http://universaldependencies.org/u/dep/conj.html
 
 -
@@ -55,7 +37,7 @@
   link: http://universaldependencies.org/u/dep/expl.html
 
 -
-  name: Dependents of expl 
+  name: Dependents of expl
   expr: _ < (_ <expl _)
   desc: The dependents of a word marked as being an expletive dependency. This should be empty.
   link: http://universaldependencies.org/u/dep/expl.html
@@ -77,9 +59,9 @@
 #      that are placed in the table. The first _ is always varied with POS
 -
   name: Acl not dependent on NOUN/PROPN
-  expr: "!NOUN&!PROPN >acl _"
+  expr: "!PRON&!NOUN&!PROPN >acl _"
   expr-pos: _ >acl _
-  desc: Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech. 
+  desc: Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.
   link: http://universaldependencies.org/u/dep/acl.html
 
 -
@@ -135,3 +117,33 @@
   expr-pos: _ <case _
   desc: A word marked as a NOUN should not be a case dependency.
   link: http://universaldependencies.org/docs/u/dep/case.html
+
+-
+  name: PRON or DET lacks the PronType feature
+  expr: "(PRON|DET)&!PronType"
+  desc: All pronouns and determiners should be further categorized using the PronType feature. Other POS may or may not have this feature.
+  link: http://universaldependencies.org/docs/u/feat/PronType.html
+
+-
+  name: NUM lacks the NumType feature
+  expr: "NUM&!NumType"
+  desc: All numerals should be further categorized using the NumType feature. Other POS may or may not have this feature.
+  link: http://universaldependencies.org/docs/u/feat/NumType.html
+
+-
+  name: VERB or AUX lacks the VerbForm feature
+  expr: "(VERB|AUX)&!VerbForm"
+  desc: All verbs should be further categorized using the VerbForm feature. Other POS may or may not have this feature.
+  link: http://universaldependencies.org/docs/u/feat/VerbForm.html
+
+-
+  name: Finite verb is not a verb
+  expr: "(VerbForm=Fin)&!(VERB|AUX)"
+  desc: Only non-finite VerbForms are expected to appear with non-verb parts of speech (NOUN, ADJ, ADV).
+  link: http://universaldependencies.org/docs/u/feat/VerbForm.html
+
+-
+  name: Finite verb lacks the Mood feature
+  expr: "(VerbForm=Fin)&!Mood"
+  desc: All finite verb forms should be further categorized using the Mood feature.
+  link: http://universaldependencies.org/docs/u/feat/Mood.html

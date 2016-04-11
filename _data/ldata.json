@@ -577,7 +577,23 @@
   }, 
   {
     "lang_code": "kk", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Aibek Makazhanov", 
+        "last": "Makazhanov", 
+        "first": "Aibek"
+      }, 
+      {
+        "full": "Jonathan North Washington", 
+        "last": "Washington", 
+        "first": "Jonathan North"
+      }, 
+      {
+        "full": "Francis Tyers", 
+        "last": "Tyers", 
+        "first": "Francis"
+      }
+    ], 
     "lang_name": "Kazakh"
   }, 
   {
@@ -615,8 +631,8 @@
         "first": "Daniel"
       }, 
       {
-        "full": "Berta Gonzales", 
-        "last": "Gonzales", 
+        "full": "Berta Gonz\u00e1les Saavedra", 
+        "last": "Gonz\u00e1les Saavedra", 
         "first": "Berta"
       }
     ], 
@@ -912,6 +928,31 @@
         "full": "\u00c7a\u011fr\u0131 \u00c7\u00f6ltekin", 
         "last": "\u00c7\u00f6ltekin", 
         "first": "\u00c7a\u011fr\u0131"
+      }, 
+      {
+        "full": "G\u00fcl\u015fen Cebiro\u011flu Eryi\u011fit", 
+        "last": "Cebiro\u011flu Eryi\u011fit", 
+        "first": "G\u00fcl\u015fen"
+      }, 
+      {
+        "full": "Memduh Gokirmak", 
+        "last": "Gokirmak", 
+        "first": "Memduh"
+      }, 
+      {
+        "full": "H\u00fcner Ka\u015f\u0131kara", 
+        "last": "Ka\u015f\u0131kara", 
+        "first": "H\u00fcner"
+      }, 
+      {
+        "full": "Umut Sulubacak", 
+        "last": "Sulubacak", 
+        "first": "Umut"
+      }, 
+      {
+        "full": "Francis Tyers", 
+        "last": "Tyers", 
+        "first": "Francis"
       }
     ], 
     "lang_name": "Turkish"
