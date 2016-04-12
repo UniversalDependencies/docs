@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-12T09:23:19Z">2016-04-12T09:23:19 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-12T09:40:28Z">2016-04-12T09:40:28 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -331,28 +331,73 @@ python ../../tools/validate.py --lang da ../../UD-dev-branches/UD_Danish/da-ud-t
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-11T22:25:15.733719Z">2016-04-11T22:25:15.733719 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-12T09:40:04Z">2016-04-12T09:40:04 zulu</time></span>
 </div>
 <div>
 <pre>
-python ../../tools/validate.py --lang nl ../../UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
-*** PASSED ***
+[Line                   163]: Unknown attribute-value pair NumForm=Digit
+[Line                   1061]: Unknown attribute-value pair NumForm=Digit
+[Line                   1526]: Unknown attribute-value pair NumForm=Digit
+[Line                   2768]: Unknown attribute-value pair AdpType=Preppron
+[Line                   3273]: Unknown attribute-value pair NumForm=Digit
+[Line                   3514]: Unknown attribute-value pair NumForm=Digit
+[Line                   5018]: Unknown attribute-value pair NumForm=Digit
+[Line                   7209]: Unknown attribute-value pair NumForm=Digit
+*** FAILED *** with 8 errors
+Morpho errors: 8
 
 
 ******************
 
-python ../../tools/validate.py --lang nl ../../UD-dev-branches/UD_Dutch/nl-ud-test.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 
-*** PASSED ***
+[Line                   2169]: Unknown attribute-value pair NumForm=Digit
+[Line                   2171]: Unknown attribute-value pair NumForm=Digit
+[Line                   2330]: Unknown attribute-value pair NumForm=Digit
+[Line                   2358]: Unknown attribute-value pair NumForm=Digit
+[Line                   2360]: Unknown attribute-value pair NumForm=Digit
+[Line                   2980]: Unknown attribute-value pair AdpType=Preppron
+[Line                   3184]: Unknown attribute-value pair NumForm=Digit
+[Line                   4109]: Unknown attribute-value pair NumForm=Digit
+[Line                   4111]: Unknown attribute-value pair NumForm=Digit
+[Line                   4580]: Unknown attribute-value pair NumForm=Digit
+[Line                   4582]: Unknown attribute-value pair NumForm=Digit
+[Line                   4638]: Unknown attribute-value pair NumForm=Digit
+[Line                   5133]: Unknown attribute-value pair NumForm=Digit
+[Line                   5135]: Unknown attribute-value pair NumForm=Digit
+*** FAILED *** with 14 errors
+Morpho errors: 14
 
 
 ******************
 
-python ../../tools/validate.py --lang nl ../../UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
-*** PASSED ***
+[Line                   2924]: Unknown attribute-value pair NumForm=Digit
+[Line                   2926]: Unknown attribute-value pair NumForm=Digit
+[Line                   5814]: Unknown attribute-value pair NumForm=Digit
+[Line                   8772]: Unknown attribute-value pair NumForm=Digit
+[Line                   9580]: Unknown attribute-value pair NumForm=Digit
+[Line                   10210]: Unknown attribute-value pair NumForm=Digit
+[Line                   11618]: Unknown attribute-value pair NumForm=Digit
+[Line                   11993]: Unknown attribute-value pair NumForm=Digit
+[Line                   11995]: Unknown attribute-value pair NumForm=Digit
+[Line                   13671]: Unknown attribute-value pair AdpType=Preppron
+[Line                   13796]: Unknown attribute-value pair AdpType=Preppron
+[Line                   14063]: Unknown attribute-value pair NumForm=Digit
+[Line                   14065]: Unknown attribute-value pair NumForm=Digit
+[Line                   14266]: Unknown attribute-value pair AdpType=Preppron
+[Line                   14301]: Unknown attribute-value pair AdpType=Preppron
+[Line                   15602]: Unknown attribute-value pair AdpType=Preppron
+[Line                   16825]: Unknown attribute-value pair NumForm=Digit
+[Line                   16971]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   17164]: Unknown attribute-value pair NumForm=Digit
+...suppressing further errors regarding Morpho
+*** FAILED *** with 575 errors
+Morpho errors: 575
 
 
 ******************
