@@ -35,7 +35,7 @@ def get_wide_span(l):
     return """<span class="widespan">{}</span>""".format(l.replace(u"_",u" "))
 
 def getzulutime():
-    return datetime.datetime.utcnow().isoformat()
+    return datetime.datetime.utcnow().replace(microsecond=0).isoformat()
 
 def run_validation(validation_cache,args):
     """Fills in the validation results to the cache"""
@@ -109,14 +109,14 @@ def gen_table(validation_cache):
             print >> a_data, u"""<span class="validationpass">PASS</span>"""
         else:
             if cache["outp"]==u"No data":
-                print >> a_data, u"""<span class="validationfail">NO DATA</span>"""
+                print >> a_data, u"""<span class="validationfail">EMPTY</span>"""
             else:
                 print >> a_data, u"""<span class="validationfail">FAIL</span>"""
-        if cache["branch"]!=u"dev":
-            print >> a_data, u"""<span class="validationfail">%s branch</span>"""%cache["branch"]
-        else:
-            print >> a_data, u"""<span class="validationpass">dev branch</span>"""
-        print >> a_data, u"""<span class="validationpass">Updated %s</span>"""%cache["timestamp"]
+        # if cache["branch"]!=u"dev":
+        #     print >> a_data, u"""<span class="validationfail">%s branch</span>"""%cache["branch"]
+        # else:
+        #     print >> a_data, u"""<span class="validationpass">dev branch</span>"""
+        print >> a_data, u"""<span class="doublewidespan">Tested <time class="timeago" datetime="%(time)sZ">%(time)s zulu</time></span>"""%{"time":cache["timestamp"]}
         print >> a_data, u"</div>"
 
         print >> a_data, u"<div>"
@@ -155,7 +155,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="%(time)sZ">%(time)s zulu</time>%s
+Regenerated: <time class="timeago" datetime="%(time)sZ">%(time)s zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 %(table)s
