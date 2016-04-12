@@ -5,9 +5,26 @@ title:  'Dataset release checklist'
 
 # Release checklist
 
-This checklist is meant to provide guidance for teams contributing treebank data for a new release of Universal Dependencies. It is created for release v1.2 but applies, unless otherwise noted, to any upcoming release.
+This checklist is meant to provide guidance for teams contributing treebank data for a new release of Universal Dependencies. It was created for release v1.2 and applies, unless otherwise noted, to any upcoming release.
 
-## Repository and files
+Contents:
+
+* [Executive summary](#executive-summary)
+* [Repository and files](#repository-and-files)
+  - [Language metadata](#language-metadata)
+  - [Repository branches](#repository-branches)
+* [Validation](#validation)
+  - [Data format and repository](#data-format-and-repository)
+  - [Syntax](#syntax)
+* [Language-specific guidelines](#language-specific-guidelines)
+
+# Executive summary
+
+* Make sure [your repository has the right files](#repository-and-files), [correct metadata](#language-metadata) in the README, and data being prepared for the next release [lives on the `dev` branch](#repository-branches)
+* Data format and repository [validation](#data-format-and-repository) must pass: [direct link](http://universaldependencies.org/validation.html) to the format validator output
+* [Syntax validation](#syntax) does not show major deviations: [direct link](http://universaldependencies.org/svalidation.html) to the syntax validator output
+
+# Repository and files
 
 Every language has its own GitHub repository called `UD_Language`, where `Language` is the name of the language. For example, the repository for Finnish is called `UD_Finnish`. Make sure to create the repository for your language if it does not already exist. 
 
@@ -49,9 +66,33 @@ Changelog
 
 The readme file contains metadata used to generate the overview table on the UD main page: data source, license, genres, and documentation status. The format of this metadata is described [here](http://universaldependencies.org/language_metadata.html)
 
-## Validation
+The table on the front page is automatically generated from special lines in the `README.txt` or `README.md` file for every language. This means that in order to add a new language, also its repository must be created, minimally with the readme file. Here is an example of the language metadata block from the [Finnish README file](https://github.com/UniversalDependencies/UD_Finnish/blob/master/README.txt) 
 
-Automatic validation runs are available [here](http://universaldependencies.org/validation.html).
+    Documentation status: complete
+    Data source: semi-automatic
+    Data available since: UD v1.0
+    License: CC BY-SA 4.0
+    Genre: blog wiki legal news fiction
+    Contributors: Ginter, Filip; Kanerva, Jenna; Laippala, Veronika; Missilä, Anna; Pyysalo, Sampo
+
+This block can be anywhere in the readme file. The properties are as follows:
+
+* `Documentation status` can be `complete`, `partial`, or `stub`.
+* `Data source` can be `automatic`, `semi-automatic`, or `manual`. Here, as a rough guidance, `manual` means that every word of every sentence has been manually checked, whereas `semi-automatic` means an automatic conversion with major manual checks of various types of constructions.
+* `Data available since` can be `UD v1.0`, `UD v1.1`, `UD v1.2`, and `UD v1.3`. As the current release is 1.2, new languages which will be included in 1.3 should set this property accordingly.
+* `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo, and `GNU` the GNU logo. To add any other license, please provide a suitable icon to ginter@cs.utu.fi and sampo.pyysalo@gmail.com.
+* `Genre`: this is simply a space-separated list of genres which gets mapped into symbols in the table. The possible genres are listed in [this file](https://github.com/UniversalDependencies/docs/blob/pages-source/gen_index/genre_symbols.json) in the repository. If you don't see yours, just edit the file on GitHub and add your genre, choosing one of the symbols from [the *FontAwesome* list](https://fortawesome.github.io/Font-Awesome/icons/). Please make sure you get the syntax right, since this is a machine-readable JSON file. It is also possible to not add the genre to the `genre_symbols.json` file, in which case the default symbol will be used automatically. The genre name will still remain visible in the mouse-over tooltip.
+* `Contributors`: the list of contributors to be included with the data release and in the LINDAT download page. This is a semi-colon separated list where every name is in the `Last, First` form and the readme file should be utf-8 encoded to make sure special characters are preserved correctly.
+
+## Repository branches
+
+While the official UD release is always through Lindat, many users of UD source their data from the GitHub language repositories. Therefore, the `master` branch of every language should contain the last, officially released version of the data for the given language. The development in between releases should happen on the `dev` branch of the repository.
+
+# Validation
+
+## Data format and repository
+
+Up-to-date automatic validation runs of the repositories are available [here](http://universaldependencies.org/validation.html). These are based on the `dev` branch of the data and use the `validate.py` script described below.
 
 The final data validation is an important step and each file released
 in the project is expected to validate as conforming to the basic
@@ -93,7 +134,13 @@ the repository:
     $ git commit -m "Adding language-specific data for xx."
     $ git push
 
-## Language-specific guidelines
+# Syntax
+
+For the `v1.3` release, we have created an additional number of tests which try to uncover possible logical inconsistencies in the treebank data. Automatic validation runs for this syntax validation are available [here](http://universaldependencies.org/svalidation.html). Unlike the data format and repository validation, this validation machinery is not streamlined enough to be distributed for offline use, therefore it is important to regularly push your data to the `dev` branch of the repository.
+
+The tests are specified in the file `gen_index/stests.yaml` and rely on the query language of the [SETS search interface](http://bionlp-www.utu.fi/dep_search).
+
+# Language-specific guidelines
 
 Every treebank should be accompanied by a set of language-specific guidelines at http://universaldependencies.org/. These guidelines should minimally specify the following:
 
