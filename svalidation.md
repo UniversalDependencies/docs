@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-12T19:25:08Z">2016-04-12T19:25:08 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-12T20:24:04Z">2016-04-12T20:24:04 zulu</time>
 
 # Aux chain
 
@@ -4687,7 +4687,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latin-ITT</span>
-<span class="widespan">5 hits</span>
+<span class="widespan">0 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=UD_Latin-ITT-dev">Go to search</a><p/>
@@ -7437,7 +7437,7 @@ Search expression: `_ <case (_ <!nmod _)`
 
 # NOUN and case
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. A word marked as a NOUN should not be a case dependency.
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> A word marked as a NOUN should not be a case dependency.
 
 Search expression: `NOUN <case _`
 
@@ -7928,7 +7928,7 @@ Search expression: `NOUN <case _`
 
 # Heads of an advmod are nominal
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. The heads of an adverbial modifier should not be nominal (noun, proper noun, numeral, or pronoun)
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The heads of an adverbial modifier should not be nominal (noun, proper noun, numeral, or pronoun)
 
 Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 
@@ -9171,7 +9171,7 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 
 # Copulas are nominal
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. Copulas should not be marked as nominal (noun, proper noun, numeral, or pronoun)
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Copulas should not be marked as nominal (noun, proper noun, numeral, or pronoun)
 
 Search expression: `(NOUN|PROPN|NUM|PRON) <cop _`
 
@@ -9803,7 +9803,7 @@ Search expression: `(NOUN|PROPN|NUM|PRON) <cop _`
 
 # Marked as NUM but not nummod, nmod or compound
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as a numeral (POS), then it should be marked as being a nummod, compound or nmod dependency.
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as a numeral (POS), then it should be marked as being a nummod, compound or nmod dependency.
 
 Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 
@@ -10294,7 +10294,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 
 # Marked as nummod but not NUM
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as a numeric modifier, it should be marked as a numeral (POS).
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as a numeric modifier, it should be marked as a numeral (POS).
 
 Search expression: `!NUM <nummod _`
 
@@ -11255,7 +11255,7 @@ Search expression: `!NUM <nummod _`
 
 # Marked as AUX but not aux or auxpass
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
 
 Search expression: `AUX (<!aux&<!auxpass) _`
 
@@ -11746,7 +11746,7 @@ Search expression: `AUX (<!aux&<!auxpass) _`
 
 # Marked as aux or auxpass but not AUX
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as a (passive) auxiliary dependency, it should be marked as the auxiliary POS.
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as a (passive) auxiliary dependency, it should be marked as the auxiliary POS.
 
 Search expression: `!AUX (<aux|<auxpass) _`
 
@@ -12942,7 +12942,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 
 # Parts of speech of expl
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. The parts of speech of words marked as being expletive dependencies.
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The parts of speech of words marked as being expletive dependencies.
 
 Search expression: `_ <expl _`
 
@@ -13762,7 +13762,7 @@ Search expression: `_ <expl _`
 
 # Dependents of expl
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. The dependents of a word marked as being an expletive dependency. This should be empty.
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The dependents of a word marked as being an expletive dependency. This should be empty.
 
 Search expression: `_ < (_ <expl _)`
 
@@ -14629,7 +14629,7 @@ Search expression: `_ < (_ <expl _)`
 
 # Heads of expl
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. Parts of speech of words which have an expletive dependency.
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Parts of speech of words which have an expletive dependency.
 
 Search expression: `_ >expl _`
 
@@ -15731,7 +15731,7 @@ Search expression: `_ >expl _`
 
 # Heads of xcomp
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. Parts of speech of words which have an open clausal complement dependency.
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Parts of speech of words which have an open clausal complement dependency.
 
 Search expression: `_ >xcomp _`
 
@@ -16925,9 +16925,9 @@ Search expression: `_ >xcomp _`
 </div>
 
 
-# Acl not dependent on NOUN/PROPN
+# Acl not dependent on NOUN/PROPN/PRON
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.
 
 Search expression: `!PRON&!NOUN&!PROPN >acl _`
 
