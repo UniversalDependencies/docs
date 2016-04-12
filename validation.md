@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-12T08:06:14Z">2016-04-12T08:06:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-12T08:23:07Z">2016-04-12T08:23:07 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1405,25 +1405,25 @@ python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/fa-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-11T22:32:10.495359Z">2016-04-11T22:32:10.495359 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-12T08:22:56Z">2016-04-12T08:22:56 zulu</time></span>
 </div>
 <div>
 <pre>
-python ../../tools/validate.py --lang pl ../../UD-dev-branches/UD_Polish/pl-ud-dev.conllu
+python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python ../../tools/validate.py --lang pl ../../UD-dev-branches/UD_Polish/pl-ud-test.conllu
+python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python ../../tools/validate.py --lang pl ../../UD-dev-branches/UD_Polish/pl-ud-train.conllu
+python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 
 *** PASSED ***
 
