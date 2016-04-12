@@ -69,7 +69,7 @@
 -
   name: Case not dependent on nmod
   expr: "_ <case (_ <!nmod _)"
-  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
   link: http://universaldependencies.org/u/dep/case.html
 
 -
