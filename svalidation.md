@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-12T08:22:13Z">2016-04-12T08:22:13 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-12T08:57:31Z">2016-04-12T08:57:31 zulu</time>
 
 # Aux chain
 
@@ -10184,7 +10184,7 @@ Search expression: `_ <case (_ <!nmod _)`
 </tr>
 <tr><td>UD_Norwegian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Norwegian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Norwegian-dev">6646</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Norwegian-dev">6618</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Norwegian-dev">&nbsp;</a></td>
@@ -10683,7 +10683,7 @@ Search expression: `_ <case (_ <!nmod _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Norwegian</span>
-<span class="widespan">6646 hits</span>
+<span class="widespan">6618 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Norwegian-dev">Go to search</a><p/>
@@ -10898,7 +10898,7 @@ Search expression: `NUM (<!nummod&<!nmod) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%29+_&db=UD_Latin-PROIEL-dev">396</a></td>
 </tr>
 <tr><td>UD_Norwegian</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%29+_&db=UD_Norwegian-dev">788</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%29+_&db=UD_Norwegian-dev">784</a></td>
 </tr>
 <tr><td>UD_Old_Church_Slavonic</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%29+_&db=UD_Old_Church_Slavonic-dev">328</a></td>
@@ -11174,7 +11174,7 @@ Search expression: `NUM (<!nummod&<!nmod) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Norwegian</span>
-<span class="widespan">788 hits</span>
+<span class="widespan">784 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%29+_&db=UD_Norwegian-dev">Go to search</a><p/>
