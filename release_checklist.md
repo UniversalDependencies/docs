@@ -88,8 +88,6 @@ This block can be anywhere in the readme file. The properties are as follows:
 
 While the official UD release is always through Lindat, many users of UD source their data from the GitHub language repositories. Therefore, the `master` branch of every language should contain the last, officially released version of the data for the given language. The development in between releases should happen on the `dev` branch of the repository.
 
-
-
 # Validation
 
 ## Data format and repository
