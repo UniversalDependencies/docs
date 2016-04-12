@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-12T06:45:08Z">2016-04-12T06:45:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-12T08:06:14Z">2016-04-12T08:06:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1245,25 +1245,25 @@ python ../../tools/validate.py --lang la ../../UD-dev-branches/UD_Latin/la-ud-tr
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITT</span>
 <span class="widespan">la itt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-11T22:30:19.650974Z">2016-04-11T22:30:19.650974 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-12T08:05:41Z">2016-04-12T08:05:41 zulu</time></span>
 </div>
 <div>
 <pre>
-python ../../tools/validate.py --lang la_itt ../../UD-dev-branches/UD_Latin-ITT/la_itt-ud-dev.conllu
+python tools/validate.py --lang la_itt UD-dev-branches/UD_Latin-ITT/la_itt-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python ../../tools/validate.py --lang la_itt ../../UD-dev-branches/UD_Latin-ITT/la_itt-ud-test.conllu
+python tools/validate.py --lang la_itt UD-dev-branches/UD_Latin-ITT/la_itt-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python ../../tools/validate.py --lang la_itt ../../UD-dev-branches/UD_Latin-ITT/la_itt-ud-train.conllu
+python tools/validate.py --lang la_itt UD-dev-branches/UD_Latin-ITT/la_itt-ud-train.conllu
 
 *** PASSED ***
 
