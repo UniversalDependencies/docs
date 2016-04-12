@@ -20,9 +20,9 @@ Contents:
 
 # Executive summary
 
-* Make sure [your repository has the right files](#repository-and-files), [correct metadata](#language-metadata) in the README, and data being prepared for the next release [lives on the `dev` branch](#repository-branches)
-* Make sure your data and repository pass the [format validation](#data-format-and-repository): [direct link](http://universaldependencies.org/validation.html) to the format validator output
-* Make sure your data does not show major deviations in the [content validation](#syntax): [direct link](http://universaldependencies.org/svalidation.html) to the content validator output
+* Make sure [your repository has the right files](#repository-and-files), [correct metadata](#language-metadata) in the README, and data being prepared for the next release [lives on the `dev` branch](#repository-branches).
+* Make sure your data and repository pass the [format validation](#data-format-and-repository): [direct link](http://universaldependencies.org/validation.html) to the format validator output.
+* Make sure your data does not show major deviations in the [content validation](#syntax): [direct link](http://universaldependencies.org/svalidation.html) to the content validator output.
 
 # Repository and files
 
