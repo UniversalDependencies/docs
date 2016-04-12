@@ -131,6 +131,17 @@
     "lang_name": "Catalan"
   }, 
   {
+    "lang_code": "zh", 
+    "contributors": [
+      {
+        "full": "Various at Google", 
+        "last": "Various at Google", 
+        "first": "?"
+      }
+    ], 
+    "lang_name": "Chinese"
+  }, 
+  {
     "lang_code": "hr", 
     "contributors": [
       {
@@ -735,6 +746,27 @@
     "lang_name": "Portuguese"
   }, 
   {
+    "lang_code": "pt_br", 
+    "contributors": [
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Portuguese-BR"
+  }, 
+  {
     "lang_code": "ro", 
     "contributors": [
       {
@@ -774,39 +806,9 @@
     "lang_code": "ru", 
     "contributors": [
       {
-        "full": "Olga Lyashevskaya", 
-        "last": "Lyashevskaya", 
-        "first": "Olga"
-      }, 
-      {
-        "full": "Andrey Kutuzov", 
-        "last": "Kutuzov", 
-        "first": "Andrey"
-      }, 
-      {
-        "full": "Svetlana Toldova", 
-        "last": "Toldova", 
-        "first": "Svetlana"
-      }, 
-      {
-        "full": "Kira Droganova", 
-        "last": "Droganova", 
-        "first": "Kira"
-      }, 
-      {
-        "full": "Nina Mustafina", 
-        "last": "Mustafina", 
-        "first": "Nina"
-      }, 
-      {
-        "full": "Maria Alexeeva", 
-        "last": "Alexeeva", 
-        "first": "Maria"
-      }, 
-      {
-        "full": "Elena Shakurova", 
-        "last": "Shakurova", 
-        "first": "Elena"
+        "full": "Various at Google", 
+        "last": "Various at Google", 
+        "first": "?"
       }
     ], 
     "lang_name": "Russian"
