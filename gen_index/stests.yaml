@@ -35,94 +35,6 @@
   link: http://universaldependencies.org/u/dep/conj.html
 
 -
-  name: Parts of speech of expl
-  expr: _ <expl _
-  desc: The parts of speech of words marked as being expletive dependencies.
-  link: http://universaldependencies.org/u/dep/expl.html
-
--
-  name: Dependents of expl
-  expr: _ < (_ <expl _)
-  desc: The dependents of a word marked as being an expletive dependency. This should be empty.
-  link: http://universaldependencies.org/u/dep/expl.html
-
--
-  name: Heads of expl
-  expr: _ >expl _
-  desc: Parts of speech of words which have an expletive dependency.
-  link: http://universaldependencies.org/u/dep/expl.html
-
--
-  name: Heads of xcomp
-  expr: _ >xcomp _
-  desc: Parts of speech of words which have an open clausal complement dependency.
-  link: http://universaldependencies.org/u/dep/xcomp.html
-
-#Note: in the following test expr is between double quotes because ! has a special meaning in yaml
-#      also, because expr is not simple (starting with _), expr-pos is given as a basis of the links
-#      that are placed in the table. The first _ is always varied with POS
--
-  name: Acl not dependent on NOUN/PROPN
-  expr: "!PRON&!NOUN&!PROPN >acl _"
-  expr-pos: _ >acl _
-  desc: Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.
-  link: http://universaldependencies.org/u/dep/acl.html
-
--
-  name: Case not dependent on nmod
-  expr: "_ <case (_ <!nmod _)"
-  desc: If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
-  link: http://universaldependencies.org/u/dep/case.html
-
--
-  name: Marked as NUM but not nummod, nmod or compound
-  expr: "NUM (<!nummod&<!nmod&<!compound) _"
-  expr-pos: "_ (<!nummod&<!nmod&<!compound) _"
-  desc: If a word is marked as a numeral (POS), then it should be marked as being a nummod, compound or nmod dependency.
-  link: http://universaldependencies.org/docs/u/pos/NUM.html
-
--
-  name: Marked as nummod but not NUM
-  expr: "!NUM <nummod _"
-  expr-pos: _ <nummod _
-  desc: If a word is marked as a numeric modifier, it should be marked as a numeral (POS).
-  link: http://universaldependencies.org/docs/u/dep/nummod.html
-
--
-  name: Marked as AUX but not aux or auxpass
-  expr: "AUX (<!aux&<!auxpass) _"
-  expr-pos: "_ (<!aux&<!auxpass) _"
-  desc: If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
-  link: http://universaldependencies.org/docs/u/pos/AUX_.html
-
--
-  name: Marked as aux or auxpass but not AUX
-  expr: "!AUX (<aux|<auxpass) _"
-  expr-pos: _ (<aux|<auxpass) _
-  desc: If a word is marked as a (passive) auxiliary dependency, it should be marked as the auxiliary POS.
-  link: http://universaldependencies.org/docs/u/dep/aux_.html
-
--
-  name: Heads of an advmod are nominal
-  expr: _ <advmod (NOUN|PROPN|NUM|PRON)
-  desc: The heads of an adverbial modifier should not be nominal (noun, proper noun, numeral, or pronoun)
-  link: http://universaldependencies.org/docs/u/dep/advmod.html
-
--
-  name: Copulas are nominal
-  expr: (NOUN|PROPN|NUM|PRON) <cop _
-  expr-pos: _ <cop _
-  desc: Copulas should not be marked as nominal (noun, proper noun, numeral, or pronoun)
-  link: http://universaldependencies.org/docs/u/dep/cop.html
-
--
-  name: NOUN and case
-  expr: NOUN <case _
-  expr-pos: _ <case _
-  desc: A word marked as a NOUN should not be a case dependency.
-  link: http://universaldependencies.org/docs/u/dep/case.html
-
--
   name: PRON or DET lacks the PronType feature
   expr: "(PRON|DET)&!PronType"
   desc: All pronouns and determiners should be further categorized using the PronType feature. Other POS may or may not have this feature.
@@ -153,3 +65,91 @@
   expr: "(VerbForm=Fin)&!Mood"
   desc: All finite verb forms should be further categorized using the Mood feature.
   link: http://universaldependencies.org/docs/u/feat/Mood.html
+
+-
+  name: Case not dependent on nmod
+  expr: "_ <case (_ <!nmod _)"
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
+  link: http://universaldependencies.org/u/dep/case.html
+
+-
+  name: NOUN and case
+  expr: NOUN <case _
+  expr-pos: _ <case _
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. A word marked as a NOUN should not be a case dependency.
+  link: http://universaldependencies.org/docs/u/dep/case.html
+
+-
+  name: Heads of an advmod are nominal
+  expr: _ <advmod (NOUN|PROPN|NUM|PRON)
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. The heads of an adverbial modifier should not be nominal (noun, proper noun, numeral, or pronoun)
+  link: http://universaldependencies.org/docs/u/dep/advmod.html
+
+-
+  name: Copulas are nominal
+  expr: (NOUN|PROPN|NUM|PRON) <cop _
+  expr-pos: _ <cop _
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. Copulas should not be marked as nominal (noun, proper noun, numeral, or pronoun)
+  link: http://universaldependencies.org/docs/u/dep/cop.html
+
+-
+  name: Marked as NUM but not nummod, nmod or compound
+  expr: "NUM (<!nummod&<!nmod&<!compound) _"
+  expr-pos: "_ (<!nummod&<!nmod&<!compound) _"
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as a numeral (POS), then it should be marked as being a nummod, compound or nmod dependency.
+  link: http://universaldependencies.org/docs/u/pos/NUM.html
+
+-
+  name: Marked as nummod but not NUM
+  expr: "!NUM <nummod _"
+  expr-pos: _ <nummod _
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as a numeric modifier, it should be marked as a numeral (POS).
+  link: http://universaldependencies.org/docs/u/dep/nummod.html
+
+-
+  name: Marked as AUX but not aux or auxpass
+  expr: "AUX (<!aux&<!auxpass) _"
+  expr-pos: "_ (<!aux&<!auxpass) _"
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
+  link: http://universaldependencies.org/docs/u/pos/AUX_.html
+
+-
+  name: Marked as aux or auxpass but not AUX
+  expr: "!AUX (<aux|<auxpass) _"
+  expr-pos: _ (<aux|<auxpass) _
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as a (passive) auxiliary dependency, it should be marked as the auxiliary POS.
+  link: http://universaldependencies.org/docs/u/dep/aux_.html
+
+-
+  name: Parts of speech of expl
+  expr: _ <expl _
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. The parts of speech of words marked as being expletive dependencies.
+  link: http://universaldependencies.org/u/dep/expl.html
+
+-
+  name: Dependents of expl
+  expr: _ < (_ <expl _)
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. The dependents of a word marked as being an expletive dependency. This should be empty.
+  link: http://universaldependencies.org/u/dep/expl.html
+
+-
+  name: Heads of expl
+  expr: _ >expl _
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. Parts of speech of words which have an expletive dependency.
+  link: http://universaldependencies.org/u/dep/expl.html
+
+-
+  name: Heads of xcomp
+  expr: _ >xcomp _
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. Parts of speech of words which have an open clausal complement dependency.
+  link: http://universaldependencies.org/u/dep/xcomp.html
+
+#Note: in the following test expr is between double quotes because ! has a special meaning in yaml
+#      also, because expr is not simple (starting with _), expr-pos is given as a basis of the links
+#      that are placed in the table. The first _ is always varied with POS
+-
+  name: Acl not dependent on NOUN/PROPN
+  expr: "!PRON&!NOUN&!PROPN >acl _"
+  expr-pos: _ >acl _
+  desc: DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.
+  link: http://universaldependencies.org/u/dep/acl.html
