@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-12T18:37:55Z">2016-04-12T18:37:55 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-12T19:25:08Z">2016-04-12T19:25:08 zulu</time>
 
 # Aux chain
 
@@ -6194,7 +6194,7 @@ Hits table not produced since the query does not start with the simple token spe
 
 # Case not dependent on nmod
 
-DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID. If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
 
 Search expression: `_ <case (_ <!nmod _)`
 
