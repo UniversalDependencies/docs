@@ -42,6 +42,13 @@
   link: http://universaldependencies.org/u/dep/punct.html
 
 -
+  name: PUNCT is attached as neither punct nor root
+  required_empty: true
+  expr: "PUNCT (<!punct&<!root) _"
+  desc: Nodes tagged PUNCT can only be attached using the punct relation (and exceptionally, if it is the only node in the sentence, also root).
+  link: http://universaldependencies.org/u/dep/punct.html
+
+-
   name: PRON or DET lacks the PronType feature
   expr: "(PRON|DET)&!PronType"
   desc: All pronouns and determiners should be further categorized using the PronType feature. Other POS may or may not have this feature.
