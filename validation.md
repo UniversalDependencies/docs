@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-13T14:56:15Z">2016-04-13T14:56:15 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-13T21:05:49Z">2016-04-13T21:05:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1450,7 +1450,7 @@ python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/fa-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T14:56:04Z">2016-04-13T14:56:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T21:05:38Z">2016-04-13T21:05:38 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1501,8 +1501,8 @@ python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 [Line                   6035]: Unknown UD DEPREL: det:numgov
 [Line                   6048]: Unknown UD DEPREL: det:numgov
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 99 errors
-Syntax errors: 99
+*** FAILED *** with 100 errors
+Syntax errors: 100
 
 
 ******************
