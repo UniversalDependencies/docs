@@ -74,7 +74,7 @@ UD is an open collaboration with many project members. The administrative struct
 
 [List of contributors](contributors.html)
 
-## UD-Related Publications
+## UD-related publications
 
 * Cristina Bosco, Simonetta Montemagni, Maria Simi. 2013.
   [Converting Italian treebanks: Towards an Italian Stanford dependency treebank](http://medialab.di.unipi.it/downloads/ISDT/MIDT-STD2013_law.pdf),
