@@ -14,7 +14,7 @@ morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a un
 inventory of categories and guidelines to facilitate consistent annotation of similar
 constructions across languages, while allowing language-specific extensions when necessary.
 
-## Current Work
+## Current work
 
 After extensive discussion, we have developed a somewhat extended universal part-of-speech tag set.
 This set makes some distinctions that were missing in the original proposal, but were perceived to
@@ -62,7 +62,7 @@ The new Universal Dependencies is the result of merging all these initiatives in
 based on universal Stanford dependencies, an extended version of the Google universal tagset, a revised
 subset of the Interset feature inventory, and a revised version of the CoNLL-X format (called CoNLL-U).
 
-## Project Organization
+## Project organization
 
 UD is an open collaboration with many project members. The administrative structure is kept at a minimum and currently consists of the following:
 
