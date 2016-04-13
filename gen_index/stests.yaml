@@ -74,6 +74,14 @@
   link: http://universaldependencies.org/u/dep/appos.html
 
 -
+  name: Copula is not VERB
+  required_empty: true
+  expr: (!VERB) <cop _
+  expr-pos: _ <cop _
+  desc: Copulas should always be main verbs. Not auxiliaries, not punctuation (dashes) and definitely not nominals.
+  link: http://universaldependencies.org/docs/u/dep/cop.html
+
+-
   name: Relation punct is used for node that is not PUNCT
   required_empty: true
   expr: "!PUNCT <punct _"
@@ -137,13 +145,6 @@
   expr: _ <advmod (NOUN|PROPN|NUM|PRON)
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The heads of an adverbial modifier should not be nominal (noun, proper noun, numeral, or pronoun)
   link: http://universaldependencies.org/docs/u/dep/advmod.html
-
--
-  name: Copulas are nominal
-  expr: (NOUN|PROPN|NUM|PRON) <cop _
-  expr-pos: _ <cop _
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Copulas should not be marked as nominal (noun, proper noun, numeral, or pronoun)
-  link: http://universaldependencies.org/docs/u/dep/cop.html
 
 -
   name: Marked as NUM but not nummod, nmod or compound
