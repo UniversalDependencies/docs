@@ -9,7 +9,7 @@ as a modifier not as a core complement. This includes things such as a temporal 
 clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
 
 ~~~ sdparse
-Если вы знаете , кто это сделал, вы должны сказать учителю . \n If you know , who it did , should you it tell teacher .
+Если вы знаете , кто это сделал, вы должны сказать учителю . \n If you know , who made this , you have to tell the-teacher .
 advcl(должны, знаете)
 advcl(should, know)
 ~~~
