@@ -1,7 +1,13 @@
 [
   {
     "lang_code": "am", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Binyam Ephrem", 
+        "last": "Ephrem", 
+        "first": "Binyam"
+      }
+    ], 
     "lang_name": "Amharic"
   }, 
   {
