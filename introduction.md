@@ -72,67 +72,7 @@ UD is an open collaboration with many project members. The administrative struct
 * Language-specific guidelines and treebanks are maintained by each specific language team. 
 * Issues are raised on GitHub and resolved through discussion and voting. 
 
-## Contributors
-
-<!-- alphabetical by surname -->
-* Jinho Choi
-* [Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~mcdm/)
-* Tim Dozat
-* [Filip Ginter](http://bionlp.utu.fi/)
-* [Yoav Goldberg](http://www.cs.biu.ac.il/~yogo/)
-* [Jan Hajič](http://ufal.mff.cuni.cz/jan-hajic/)
-* [Christopher Manning](http://nlp.stanford.edu/~manning/)
-* [Ryan McDonald](http://www.ryanmcd.com)
-* [Joakim Nivre](http://stp.lingfil.uu.se/~nivre/)
-* [Slav Petrov](http://www.petrovi.de/)
-* [Sampo Pyysalo](http://bionlp.utu.fi/)
-* Natalia Silveira
-* Reut Tsarfaty
-* [Dan Zeman](http://ufal.mff.cuni.cz/daniel-zeman/)
-
-### Language-specific annotation, conversion and documentation
-
-* <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
-* <a href="index.html#language-grc">Ancient Greek</a>: Giuseppe G. A. Celano, Dag Haug, Dan Zeman
-* <a href="index.html#language-ar">Arabic</a>: Nizar Habash, Dan Zeman
-* <a href="index.html#language-hy">Armenian</a>: Dag Haug
-* <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
-* <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
-* <a href="index.html#language-ca">Catalan</a>: Dan Zeman, Elena Pascual
-* <a href="index.html#language-zh">Chinese</a>: Rob Voigt
-* <a href="index.html#language-cu">Church Slavonic</a>: Dag Haug
-* <a href="index.html#language-hr">Croatian</a>: Željko Agić, Nikola Ljubešić
-* <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
-* <a href="index.html#language-da">Danish</a>: Barbara Plank, Héctor Martínez Alonso, Anders Trærup Johannsen
-* <a href="index.html#language-nl">Dutch</a>: Dan Zeman
-* <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Sebastian Schuster, Christopher Manning
-* <a href="index.html#language-et">Estonian</a>: Jan Štěpánek, Dan Zeman
-* <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, Filip Ginter, Hanna Nurmi, Juha Kuokkala, Jussi Piitulainen, Krister Lindén
-* <a href="index.html#language-fr">French</a>: Marie-Catherine de Marneffe, Bruno Guillaume, Ryan McDonald, Alane Suhr
-* <a href="index.html#language-de">German</a>: Slav Petrov, Wolfgang Seeker
-* <a href="index.html#language-got">Gothic</a>: Dag Haug
-* <a href="index.html#language-el">Greek</a>: Prokopis Prokopidis
-* <a href="index.html#language-he">Hebrew</a>: Yoav Goldberg, Reut Tsarfaty
-* <a href="index.html#language-hi">Hindi</a>: Riyaz Ahmad
-* <a href="index.html#language-hu">Hungarian</a>: Richárd Farkas, Veronika Vincze
-* <a href="index.html#language-id">Indonesian</a>: Ryan McDonald
-* <a href="index.html#language-ga">Irish</a>: Teresa Lynn, Jennifer Foster
-* <a href="index.html#language-it">Italian</a>: Maria Simi, Simonetta Montemagni, Alessandro Lenci, Cristina Bosco
-* <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka, Hiroshi Kanayama, Masayuki Asahara, Sumire Uematsu
-* <a href="index.html#language-kk">Kazakh</a>: Aibek Makazhanov, Francis Tyers, Jonathan Washington
-* <a href="index.html#language-ko">Korean</a>: Jinho Choi
-* <a href="index.html#language-la">Latin</a>: Giuseppe G. A. Celano, Dag Haug, Dan Zeman, Marco Passarotti
-* <a href="index.html#language-no">Norwegian</a>: Lilja Øvrelid
-* <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Filip Ginter, Joakim Nivre
-* <a href="index.html#language-pl">Polish</a>: Dan Zeman
-* <a href="index.html#language-pt">Portuguese</a>: Dan Zeman
-* <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu, Catalina Maranduc
-* <a href="index.html#language-ru">Russian</a>: Olga Lyashevskaya
-* <a href="index.html#language-sl">Slovenian</a>: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek
-* <a href="index.html#language-es">Spanish</a>: Ryan McDonald, Miguel Ballesteros, Elena Pascual, Héctor Martínez Alonso, Dan Zeman
-* <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
-* <a href="index.html#language-pt">Tamil</a>: Loganathan Ramasamy, Dan Zeman
-* <a href="index.html#language-tr">Turkish</a>: Çağrı Çöltekin, Francis Tyers, Jonathan Washington
+[List of contributors](contributors.html)
 
 ## UD-Related Publications
 
