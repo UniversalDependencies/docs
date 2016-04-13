@@ -5,7 +5,7 @@ title:  'UD Contributors'
 
 # Contributors
 
-## Universal Guidelines
+## Universal guidelines
 
 <!-- alphabetical by surname -->
 * [Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~mcdm/)
@@ -21,7 +21,7 @@ title:  'UD Contributors'
 * Reut Tsarfaty
 * [Dan Zeman](http://ufal.mff.cuni.cz/daniel-zeman/)
 
-## Language-Specific Guidelines and Treebanks 
+## Language-specific guidelines and treebanks 
 
 This is the list of UD contributors gathered from the repository README files. See [here](language_metadata.html) for instructions on how to list contributors for your language.
 
