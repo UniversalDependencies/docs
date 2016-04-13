@@ -4,23 +4,20 @@ title: 'appos'
 shortdef: 'appositional modifier'
 ---
 
-An appositional modifier of a noun is a nominal immediately following
-the first noun that serves to define or modify that noun. It includes
-parenthesized examples, as well as defining abbreviations in one of
-these structures.
+An appositional modifier of a noun is a nominal immediately following the first noun that serves to define or modify that noun. It includes parenthesized examples, as well as defining abbreviations in one of these structures.
 
 ~~~ sdparse
-Чарльз IV . , римский империтор и чешский король, властвовал в 14 веке . \n Charles IV . , Roman Emperor and Czech king , ruled in 14 th century .
-appos(Чарльз, император)
+Карл Четвертый , римский император и чешский король, царствовал в XIV веке . \n Charles IV , Roman Emperor and Czech king , ruled in 14th century .
+appos(Карл, император)
 appos(Charles, Emperor)
 conj(император, король)
 conj(Emperor, king)
 ~~~
 
 ~~~ sdparse
-Гражданская Демократическая Партия ( ODS ) \n Civic Democratic Party ( ODS )
-appos(Партия, ГДП)
-appos(Party, ODS)
+Польская Социалистическая Партия ( ППС ) \n Polish Socialist Party ( PSP )
+appos(Партия, ППС)
+appos(Party, PSP)
 ~~~
 
 There is a slight deviation from the [universal](u-dep/appos) standard in case of more than one appositive nominal.
@@ -29,7 +26,7 @@ then attached as `appos` to the modified noun.
 This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.
 
 ~~~ sdparse
-Пришел Михаил, мой брат и кузен Давида . \n Came Michal , my brother and David's cousin .
+Пришел Михаил, мой брат и кузен Давида . \n Came Michail , my brother and David's cousin .
 appos(Михаил, брат)
 appos(Michal, brother)
 conj(брат, кузен)
