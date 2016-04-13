@@ -1,6 +1,7 @@
 {
 "Finnish":"FI",
 "Swedish":"SE",
+"Swedish-LinES":"SE",
 "Finnish-FTB":"FI",
 "Czech":"CZ",
 "Amharic":"ET",
@@ -16,6 +17,7 @@
 "Dutch":"NL",
 "English":"US",
 "English-ESL":"US",
+"English-LinES":"US",
 "Estonian":"EE",
 "French":"FR",
 "Galician":"ES-GA",
@@ -44,6 +46,7 @@
 "Romanian":"RO",
 "Russian":"RU",
 "Slovenian":"SI",
+"Slovenian-SST":"SI",
 "Spanish":"ES",
 "Spanish-AnCora":"ES",
 "Tamil":"IN",
