@@ -22,9 +22,9 @@ The adjective is taken to modify the nominal of which it provides a secondary pr
 See [u-dep/xcomp]() for further discussion of resultatives and depictives.
 
 ~~~ sdparse
-Алена вошла в комнату грустой . \n Alena entered to room sad .
-acl(Алена, грустной)
-acl(Alena, sad)
+Алена вошла в комнату незамеченной . \n Alena entered to room unnoticed .
+acl(Алена, незамеченной)
+acl(Alena, unnoticed)
 ~~~
 
 ~~~ sdparse
