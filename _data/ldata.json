@@ -140,9 +140,14 @@
     "lang_code": "zh", 
     "contributors": [
       {
-        "full": "Various at Google", 
-        "last": "Various at Google", 
-        "first": "?"
+        "full": "Mo Shen", 
+        "last": "Shen", 
+        "first": "Mo"
+      }, 
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
       }
     ], 
     "lang_name": "Chinese"
@@ -276,6 +281,11 @@
     "lang_code": "en_esl", 
     "contributors": [], 
     "lang_name": "English-ESL"
+  }, 
+  {
+    "lang_code": "en_lines", 
+    "contributors": [], 
+    "lang_name": "English-LinES"
   }, 
   {
     "lang_code": "et", 
@@ -841,6 +851,11 @@
     "lang_name": "Slovenian"
   }, 
   {
+    "lang_code": "sl_sst", 
+    "contributors": [], 
+    "lang_name": "Slovenian-SST"
+  }, 
+  {
     "lang_code": "es", 
     "contributors": [
       {
@@ -912,6 +927,11 @@
       }
     ], 
     "lang_name": "Swedish"
+  }, 
+  {
+    "lang_code": "sv_lines", 
+    "contributors": [], 
+    "lang_name": "Swedish-LinES"
   }, 
   {
     "lang_code": "ta", 
