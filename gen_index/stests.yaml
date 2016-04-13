@@ -26,6 +26,27 @@
   link: http://universaldependencies.org/u/dep/mwe.html
 
 -
+  name: MWE chain
+  required_empty: true
+  expr: "_ <mwe (_ <mwe _)"
+  desc: MWE dependencies should not be chained. All dependents should be attached directly to the first one.
+  link: http://universaldependencies.org/u/dep/mwe.html
+
+-
+  name: Foreign is right-headed
+  required_empty: true
+  expr: _ <foreign@R _
+  desc: Foreign dependencies should be left-headed, not right.
+  link: http://universaldependencies.org/u/dep/foreign.html
+
+-
+  name: Foreign chain
+  required_empty: true
+  expr: "_ <foreign (_ <foreign _)"
+  desc: Foreign dependencies should not be chained. All dependents should be attached directly to the first one. If we wish to annotate real syntactic structure of foreign material, we must not use the foreign relation.
+  link: http://universaldependencies.org/u/dep/foreign.html
+
+-
   name: Conj is right-headed
   required_empty: true
   expr: _ <conj@R _
@@ -33,6 +54,24 @@
   neg_ex: "Bill is big and honest\nconj(honest, big)"
   desc: Conjugation dependencies should be left-headed, not right.
   link: http://universaldependencies.org/u/dep/conj.html
+
+-
+  name: Appos is right-headed
+  required_empty: true
+  expr: _ <appos@R _
+  pos_ex: "Sam , my brother , arrived\nappos(Sam, brother)"
+  neg_ex: "Sam , my brother , arrived\nappos(brother, Sam)"
+  desc: Apposition dependencies should be left-headed, not right.
+  link: http://universaldependencies.org/u/dep/appos.html
+
+-
+  name: Appos chain
+  required_empty: true
+  expr: "_ <appos (_ <appos _)"
+  pos_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(Sam, cousin)"
+  neg_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(brother, cousin)"
+  desc: Apposition dependencies should not be chained. Either all depend on the first one, or there is coordination of dependents.
+  link: http://universaldependencies.org/u/dep/appos.html
 
 -
   name: Relation punct is used for node that is not PUNCT
