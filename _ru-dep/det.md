@@ -8,9 +8,6 @@ The relation determiner (`det`) holds between a nominal head and its [determiner
 This relation is used for pronominal adjectival modifiers of noun phrases.
 Non-pronominal adjectives are tagged [ru-pos/ADJ]() and the relation is labeled [amod]().
 
-Pronominal quantifiers are tagged `DET` but their relation to their head is a subtype of the `det` relation:
-either [ru-dep/det:numgov]() or [ru-dep/det:nummod]().
-
 ~~~ sdparse
 Тот человек уже здесь . \n The man already is here .
 det(человек, Тот)
@@ -29,3 +26,8 @@ det(mistake, my)
 det(книга, Какая)
 det(book, Which)
 ~~~
+
+NB: The relation of the pronominal quantifiers сколько, столько to their head is a subtype of the `det` relation:
+either [ru-dep/det:numgov]() or [ru-dep/det:nummod]().
+
+
