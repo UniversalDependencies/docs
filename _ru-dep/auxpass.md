@@ -4,8 +4,7 @@ title: 'auxpass'
 shortdef: 'passive auxiliary'
 ---
 
-A passive auxiliary of a clause is a form of the [auxiliary verb](cs-pos/AUX) _быть_ “to be”
-used to construct the periphrastic passive voice (in any tense or in the infinitive).
+A passive auxiliary of a clause is a form of the [auxiliary verb](cs-pos/AUX) _быть_ “to be” used to construct the periphrastic passive voice (in the past or future tense, in the infinitive, imperative or conditional mood).
 
 ~~~ sdparse
 Кеннеди был убит . \n Kennedy was killed .
@@ -20,7 +19,7 @@ auxpass(killed, will-be)
 ~~~
 
 ~~~ sdparse
-Кеннеди не знал , что его судьба быть убитым . \n Kennedy did-not-anticipate that his fate is to-be killed .
+Кеннеди не знал , что ему суждено быть убитым . \n Kennedy did-not-anticipate that his fate is to-be killed .
 auxpass(убитым, быть)
 auxpass(killed, to-be)
 ~~~
