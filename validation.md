@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-13T11:23:01Z">2016-04-13T11:23:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-13T14:26:16Z">2016-04-13T14:26:16 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1449,28 +1449,60 @@ python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/fa-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-12T09:23:08Z">2016-04-12T09:23:08 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T14:26:05Z">2016-04-13T14:26:05 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-dev.conllu
 
-*** PASSED ***
+[Line                   716]: Unknown UD DEPREL: det:numgov
+[Line                   2120]: Unknown UD DEPREL: det:numgov
+[Line                   5931]: Unknown UD DEPREL: det:numgov
+[Line                   6172]: Unknown UD DEPREL: det:nummod
+[Line                   6372]: Unknown UD DEPREL: det:numgov
+[Line                   6431]: Unknown UD DEPREL: det:numgov
+[Line                   6615]: Unknown UD DEPREL: det:numgov
+*** FAILED *** with 7 errors
+Syntax errors: 7
 
 
 ******************
 
 python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-test.conllu
 
-*** PASSED ***
+[Line                   903]: Unknown UD DEPREL: det:numgov
+[Line                   2590]: Unknown UD DEPREL: det:numgov
+*** FAILED *** with 2 errors
+Syntax errors: 2
 
 
 ******************
 
 python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 
-*** PASSED ***
+[Line                   62]: Unknown UD DEPREL: det:numgov
+[Line                   63]: Unknown UD DEPREL: det:nummod
+[Line                   343]: Unknown UD DEPREL: det:numgov
+[Line                   1569]: Unknown UD DEPREL: det:numgov
+[Line                   1675]: Unknown UD DEPREL: det:numgov
+[Line                   2044]: Unknown UD DEPREL: det:numgov
+[Line                   3329]: Unknown UD DEPREL: det:numgov
+[Line                   3894]: Unknown UD DEPREL: det:numgov
+[Line                   3895]: Unknown UD DEPREL: det:nummod
+[Line                   4885]: Unknown UD DEPREL: det:numgov
+[Line                   4886]: Unknown UD DEPREL: det:nummod
+[Line                   5420]: Unknown UD DEPREL: det:numgov
+[Line                   5584]: Unknown UD DEPREL: det:numgov
+[Line                   5669]: Unknown UD DEPREL: det:numgov
+[Line                   5670]: Unknown UD DEPREL: det:nummod
+[Line                   5872]: Unknown UD DEPREL: det:numgov
+[Line                   5961]: Unknown UD DEPREL: det:numgov
+[Line                   6035]: Unknown UD DEPREL: det:numgov
+[Line                   6048]: Unknown UD DEPREL: det:numgov
+...suppressing further errors regarding Syntax
+*** FAILED *** with 99 errors
+Syntax errors: 99
 
 
 ******************
