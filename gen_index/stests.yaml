@@ -141,7 +141,7 @@
   link: http://universaldependencies.org/docs/u/dep/case.html
 
 -
-  name: Relation advmod used for node that is nod ADV
+  name: Relation advmod used for node that is not ADV
   expr: "(!ADV) <advmod _"
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Advmod is intended only for adverbs. Modifiers that are called adverbial in some traditional grammars, but are in fact prepositional or noun phrases, should be attached as nmod.
   link: http://universaldependencies.org/docs/u/dep/advmod.html
