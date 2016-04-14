@@ -22,6 +22,7 @@ If you would like to have your tool added to this page, please write the
   * [Treex](#treex)
   * [Tred](#tred)
   * [UDPipe](#udpipe)
+  * [DgAnnotator](#DgAnnotator)
 
 ## UD-maintained tools
 
