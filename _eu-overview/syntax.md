@@ -10,7 +10,7 @@ The syntactic annotation in the Basque UD treebank follows the general guideline
 
 - _acl:rel_ for relative clauses
 
-As for the advervial clauses, several types are distinguished, for example advcl:DENB (temporal advervial clause), advcl:BALD (conditional clase) etc.
+As for the advervial clauses, several types are distinguished, for example advcl:DENB (temporal adverbial clause), advcl:BALD (conditional clase) etc.
 
 The syntactic annotation has been automatically converted from the original Basque dependency Treebank annotation scheme. The following phenomena are known to deviate from the general guidelines and will be fixed in future versions:
 
