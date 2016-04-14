@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-14T01:44:39Z">2016-04-14T01:44:39 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-14T06:28:49Z">2016-04-14T06:28:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -546,7 +546,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-14T01:44:08Z">2016-04-14T01:44:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-14T06:28:17Z">2016-04-14T06:28:17 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -578,20 +578,10 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 [Line                   16496]: Column FORM is not allowed to contain whitespace: '80 000'
 [Tree number 896 on line 24740]: Non-tree structure. Words 40,41 are not reachable from the root 0.
 [Line                   25048]: Column FORM is not allowed to contain whitespace: '100 000'
-[Line                   43226]: The line has 9 columns, but 10 are expected.
-[Line                   43226]: Column ID is not allowed to contain whitespace: '7 m'
-Traceback (most recent call last):
-  File "tools/validate.py", line 492, in <module>
-    validate(inp,out,args,tagsets)
-  File "tools/validate.py", line 398, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 85, in trees
-    validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 100, in validate_cols
-    validate_whitespace(cols)
-  File "tools/validate.py", line 115, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+*** FAILED *** with 15734 errors
+Format errors: 5
+Morpho errors: 15728
+Syntax errors: 1
 
 
 ******************
