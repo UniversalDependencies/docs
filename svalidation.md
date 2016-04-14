@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-14T08:17:23Z">2016-04-14T08:17:23 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-14T11:30:21Z">2016-04-14T11:30:21 zulu</time>
 
 # Aux chain
 
@@ -15818,7 +15818,7 @@ Search expression: `NOUN <case _`
 </div>
 
 
-# Relation advmod used for node that is nod ADV
+# Relation advmod used for node that is not ADV
 
 <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Advmod is intended only for adverbs. Modifiers that are called adverbial in some traditional grammars, but are in fact prepositional or noun phrases, should be attached as nmod.
 
