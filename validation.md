@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-15T07:18:16Z">2016-04-15T07:18:16 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-15T09:51:59Z">2016-04-15T09:51:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -427,12 +427,66 @@ python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-15T02:27:57Z">2016-04-15T02:27:57 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-15T09:51:52Z">2016-04-15T09:51:52 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-dev.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.en_esl could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.en_esl
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.en_esl could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.en_esl It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-test.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.en_esl could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.en_esl
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.en_esl could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.en_esl It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-train.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.en_esl could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.en_esl
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.en_esl could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.en_esl It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+
 </pre>
 </div>
 <div>
