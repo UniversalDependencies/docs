@@ -28,7 +28,6 @@ Examples:
 - _<b>Одна</b> женщина спала, <b>две</b> женщины играли в карты._ “One woman slept, two women played cards.”
 - _<b>Одно</b> чудовище спало, <b>два</b> чудовища играли в карты._ “One monster slept, two monsters played.”
 
-In PDT, these numerals are attached to their counted nouns as `Atr` (attribute).
 It is straightforward to convert such dependencies to `nummod`:
 
 ~~~ sdparse
@@ -247,11 +246,11 @@ punct(31-16, st)
 House number in address is attached as `nummod` to the name of the street:
 
 ~~~ sdparse
-в здании Na poříčí 12 \n in the-building Na poříčí 12
-nmod(здании, poříčí-4)
-case(poříčí-4, Na-3)
-nummod(poříčí-4, 12-5)
-nmod(the-building, poříčí-10)
-case(poříčí-10, Na-9)
-nummod(poříčí-10, 12-11)
+в доме на Тверской 12 \n in the-house at Tverskaya 12
+nmod(доме, Тверской-4)
+case(Тверской-4, на-3)
+nummod(Тверской-4, 12-5)
+nmod(the-house, Tverskaya -10)
+case(Tverskaya-10, at-9)
+nummod(Tverskaya-10, 12-11)
 ~~~
