@@ -15,7 +15,7 @@ conj(Emperor, king)
 ~~~
 
 ~~~ sdparse
-Польская Социалистическая Партия ( ППС ) \n Polish Socialist Party ( PSP )
+Польская Социалистическая Партия ( ПСП ) \n Polish Socialist Party ( PSP )
 appos(Партия, ППС)
 appos(Party, PSP)
 ~~~
