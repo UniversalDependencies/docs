@@ -17,7 +17,7 @@ conj(old, wise)
 ~~~
 
 ~~~ sdparse
-У нас есть яблоки , груши , апельсины a бананы . \n We have apples , pears , oranges and bananas .
+У нас есть яблоки , груши , апельсины и бананы . \n We have apples , pears , oranges and bananas .
 dobj(есть, яблоки)
 dobj(We-have, apples)
 conj(яблоки, груши)
@@ -49,5 +49,3 @@ cc(came, and)
 ~~~
 
 See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
-Note that the present conversion procedure loses some annotations of shared modifiers and nested
-coordination.
