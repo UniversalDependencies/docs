@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-15T11:32:39Z">2016-04-15T11:32:39 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-15T12:05:02Z">2016-04-15T12:05:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -428,60 +428,90 @@ python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-15T09:51:52Z">2016-04-15T09:51:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-15T12:04:55Z">2016-04-15T12:04:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ESL/en_esl-ud-dev.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.en_esl could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.en_esl
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.en_esl could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.en_esl It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
-
-
-******************
-
-python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-test.conllu
-
-[Tree number 0 on line 0]: The language-specific file data/deprel.en_esl could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.en_esl
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.en_esl could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.en_esl It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+[Line                   57]: Unknown UD DEPREL: nmod:poss
+[Line                   68]: Unknown UD DEPREL: compound:prt
+[Line                   74]: Unknown UD DEPREL: nmod:poss
+[Line                   82]: Unknown UD DEPREL: nmod:poss
+[Line                   137]: Unknown UD DEPREL: compound:prt
+[Line                   139]: Unknown UD DEPREL: nmod:poss
+[Line                   170]: Unknown UD DEPREL: nmod:poss
+[Line                   260]: Unknown UD DEPREL: acl:relcl
+[Line                   277]: Unknown UD DEPREL: nmod:poss
+[Line                   300]: Unknown UD DEPREL: nmod:npmod
+[Line                   354]: Unknown UD DEPREL: nmod:poss
+[Line                   357]: Unknown UD DEPREL: nmod:poss
+[Line                   365]: Unknown UD DEPREL: nmod:poss
+[Line                   393]: Unknown UD DEPREL: nmod:poss
+[Line                   405]: Unknown UD DEPREL: acl:relcl
+[Line                   440]: Unknown UD DEPREL: acl:relcl
+[Line                   452]: Unknown UD DEPREL: acl:relcl
+[Line                   466]: Unknown UD DEPREL: nmod:poss
+[Line                   469]: Unknown UD DEPREL: nmod:poss
+...suppressing further errors regarding Syntax
+*** FAILED *** with 370 errors
+Syntax errors: 370
 
 
 ******************
 
-python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ESL/en_esl-ud-test.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.en_esl could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.en_esl
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+[Line                   29]: Unknown UD DEPREL: nmod:tmod
+[Line                   69]: Unknown UD DEPREL: nmod:poss
+[Line                   78]: Unknown UD DEPREL: nmod:poss
+[Line                   121]: Unknown UD DEPREL: nmod:poss
+[Line                   132]: Unknown UD DEPREL: det:predet
+[Line                   133]: Unknown UD DEPREL: nmod:poss
+[Line                   151]: Unknown UD DEPREL: nmod:poss
+[Line                   179]: Unknown UD DEPREL: nmod:poss
+[Line                   186]: Unknown UD DEPREL: nmod:poss
+[Line                   218]: Unknown UD DEPREL: nmod:poss
+[Line                   367]: Unknown UD DEPREL: nmod:poss
+[Line                   382]: Unknown UD DEPREL: nmod:poss
+[Line                   414]: Unknown UD DEPREL: acl:relcl
+[Line                   425]: Unknown UD DEPREL: acl:relcl
+[Line                   520]: Unknown UD DEPREL: nmod:poss
+[Line                   525]: Unknown UD DEPREL: nmod:tmod
+[Line                   529]: Unknown UD DEPREL: nmod:poss
+[Line                   536]: Unknown UD DEPREL: nmod:poss
+[Line                   568]: Unknown UD DEPREL: nmod:poss
+...suppressing further errors regarding Syntax
+*** FAILED *** with 433 errors
+Syntax errors: 433
 
 
-[Tree number 0 on line 0]: The language-specific file data/feat_val.en_esl could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.en_esl It's okay if the file is empty, but it must exist.
- 
+******************
 
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ESL/en_esl-ud-train.conllu
 
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+[Line                   67]: Unknown UD DEPREL: nmod:poss
+[Line                   103]: Unknown UD DEPREL: nmod:poss
+[Line                   110]: Unknown UD DEPREL: det:predet
+[Line                   125]: Unknown UD DEPREL: nmod:npmod
+[Line                   149]: Unknown UD DEPREL: nmod:npmod
+[Line                   168]: Unknown UD DEPREL: nmod:poss
+[Line                   187]: Unknown UD DEPREL: acl:relcl
+[Line                   197]: Unknown UD DEPREL: det:predet
+[Line                   328]: Unknown UD DEPREL: acl:relcl
+[Line                   368]: Unknown UD DEPREL: nmod:poss
+[Line                   373]: Unknown UD DEPREL: nmod:poss
+[Line                   384]: Unknown UD DEPREL: nmod:poss
+[Line                   390]: Unknown UD DEPREL: nmod:tmod
+[Line                   395]: Unknown UD DEPREL: nmod:poss
+[Line                   416]: Unknown UD DEPREL: nmod:npmod
+[Line                   437]: Unknown UD DEPREL: nmod:poss
+[Line                   466]: Unknown UD DEPREL: nmod:poss
+[Line                   502]: Unknown UD DEPREL: nmod:poss
+[Line                   505]: Unknown UD DEPREL: nmod:poss
+...suppressing further errors regarding Syntax
+*** FAILED *** with 3190 errors
+Syntax errors: 3190
 
 
 ******************
