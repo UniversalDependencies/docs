@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-16T21:20:58Z">2016-04-16T21:20:58 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-16T23:40:02Z">2016-04-16T23:40:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1197,7 +1197,7 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-16T10:12:27Z">2016-04-16T10:12:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-16T23:39:31Z">2016-04-16T23:39:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1207,18 +1207,24 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
 [Line                   457]: Unknown attribute-value pair PronType=Predet
 [Line                   1809]: Unknown attribute-value pair PronType=Predet
 [Line                   2035]: Unknown attribute-value pair PronType=Predet
+[Line                   3252]: Unknown attribute-value pair PronType=Ord
+[Line                   3431]: Unknown attribute-value pair PronType=Ord
 [Line                   3491]: Unknown attribute-value pair PronType=Predet
 [Line                   3840]: Unknown attribute-value pair PronType=Predet
 [Line                   4499]: Unknown attribute-value pair PronType=Predet
+[Line                   5803]: Unknown attribute-value pair PronType=Ord
+[Line                   5885]: Unknown attribute-value pair PronType=Ord
+[Line                   5922]: Unknown attribute-value pair PronType=Ord
 [Line                   6120]: Unknown attribute-value pair PronType=Predet
 [Line                   6629]: Unknown attribute-value pair PronType=Predet
 [Line                   7226]: Unknown attribute-value pair PronType=Predet
 [Line                   7755]: Unknown attribute-value pair PronType=Predet
+[Line                   9815]: Unknown attribute-value pair PronType=Ord
 [Line                   10518]: Unknown attribute-value pair PronType=Predet
 [Line                   11405]: Unknown attribute-value pair PronType=Predet
-[Line                   12976]: Unknown attribute-value pair PronType=Predet
-*** FAILED *** with 14 errors
-Morpho errors: 14
+...suppressing further errors regarding Morpho
+*** FAILED *** with 20 errors
+Morpho errors: 20
 
 
 ******************
@@ -1226,21 +1232,27 @@ Morpho errors: 14
 python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-test.conllu
 
 [Line                   708]: Unknown attribute-value pair PronType=Predet
+[Line                   1033]: Unknown attribute-value pair PronType=Ord
+[Line                   1039]: Unknown attribute-value pair PronType=Ord
+[Line                   1231]: Unknown attribute-value pair PronType=Ord
+[Line                   2812]: Unknown attribute-value pair PronType=Ord
+[Line                   2818]: Unknown attribute-value pair PronType=Ord
 [Line                   3288]: Unknown attribute-value pair PronType=Predet
 [Line                   3372]: Unknown attribute-value pair PronType=Predet
 [Line                   3830]: Unknown attribute-value pair PronType=Predet
+[Line                   4877]: Unknown attribute-value pair PronType=Ord
 [Line                   5583]: Unknown attribute-value pair PronType=Predet
 [Line                   7912]: Unknown attribute-value pair PronType=Predet
 [Line                   8265]: Unknown attribute-value pair PronType=Predet
 [Line                   8856]: Unknown attribute-value pair PronType=Predet
 [Line                   10060]: Unknown attribute-value pair PronType=Predet
 [Line                   10262]: Unknown attribute-value pair PronType=Predet
+[Line                   10536]: Unknown attribute-value pair PronType=Ord
 [Line                   10734]: Unknown attribute-value pair PronType=Predet
-[Line                   12688]: Unknown attribute-value pair PronType=Predet
-[Line                   12749]: Unknown attribute-value pair PronType=Predet
-[Line                   12880]: Unknown attribute-value pair PronType=Predet
-*** FAILED *** with 14 errors
-Morpho errors: 14
+[Line                   11840]: Unknown attribute-value pair PronType=Ord
+...suppressing further errors regarding Morpho
+*** FAILED *** with 22 errors
+Morpho errors: 22
 
 
 ******************
@@ -1251,6 +1263,7 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 [Line                   657]: Unknown attribute-value pair PronType=Predet
 [Line                   1628]: Unknown attribute-value pair PronType=Predet
 [Line                   2451]: Unknown attribute-value pair PronType=Predet
+[Line                   3715]: Unknown attribute-value pair PronType=Ord
 [Line                   4219]: Unknown attribute-value pair PronType=Predet
 [Line                   8131]: Unknown attribute-value pair PronType=Predet
 [Line                   8789]: Unknown attribute-value pair PronType=Predet
@@ -1260,15 +1273,14 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 [Line                   9937]: Unknown attribute-value pair PronType=Predet
 [Line                   10354]: Unknown attribute-value pair PronType=Predet
 [Line                   10961]: Unknown attribute-value pair PronType=Predet
+[Line                   12453]: Unknown attribute-value pair PronType=Ord
 [Line                   13109]: Unknown attribute-value pair PronType=Predet
 [Line                   14577]: Unknown attribute-value pair PronType=Predet
 [Line                   14722]: Unknown attribute-value pair PronType=Predet
 [Line                   14743]: Unknown attribute-value pair PronType=Predet
-[Line                   15506]: Unknown attribute-value pair PronType=Predet
-[Line                   15847]: Unknown attribute-value pair PronType=Predet
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 303 errors
-Morpho errors: 303
+*** FAILED *** with 423 errors
+Morpho errors: 423
 
 
 ******************
