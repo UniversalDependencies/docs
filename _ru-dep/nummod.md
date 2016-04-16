@@ -200,7 +200,7 @@ compound(thousand, 50-7)
 ~~~
 
 Note that the two numeral words in the above example are joined using the [compound]() relation.
-Also note that the [intensifier](advmod:emph) _nanejvýš_ is attached to the head of the phrase _(korun)_ and not to the number.
+Also note that the [intensifier](advmod:emph) _максимум_ is attached to the head of the phrase _(корон)_ and not to the number.
 
 Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
 and they are related to the whole phrase rather than directly to the head noun:
