@@ -10,15 +10,15 @@ The prototypical example is the recipient of ditransitive verbs of
 exchange:
 
 ~~~ sdparse
-Павел дал Петру две груши \n Pavel gave Petr two pears .
+Павел дал Петру две груши \n Pavel gave Peter two pears .
 iobj(дал, Петру)
-iobj(gave, Petr)
+iobj(gave, Peter)
 ~~~
 
 However, Russian allows other semantic roles as additional objects.
-The morphological [cs-feat/Case]() of the objects is dictated by verb valency.
+The morphological [ru-feat/Case]() of the objects is dictated by verb valency.
 
-In the following Russian example, the verb takes two argumentse. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (consider a similar sentence, _he gave my daughter a class of maths_).
+In the following Russian example, the verb takes two argumentse. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (cf. a similar sentence, _he gave my daughter a class of maths_).
 
 ~~~ sdparse
 Он преподает моей дочери математику. \n He teaches my daughter.Dat maths.Acc .
@@ -51,8 +51,8 @@ the simple ditransitive case:
 
 ~~~ sdparse
 Она сказала студентам, что сегодня вечером нужно учиться . \n She told students , that today evening they-needed to-study .
-iobj(говорит, студентам)
-ccomp(говорит, нужно)
+iobj(сказала, студентам)
+ccomp(сказала, нужно)
 iobj(told, students)
 ccomp(told, they-needed)
 ~~~
@@ -65,8 +65,5 @@ iobj(told, students)
 dobj(told, plan)
 ~~~
 
-If there are two or
-more objects, one of them should be [dobj]() and the others should be
-`iobj`. In such cases it is necessary to decide what is the
-most directly affected object _(patient)._
+If there are two or more objects, one of them should be [dobj]() and the others should be `iobj`. In such cases it is necessary to decide what is the most directly affected object _(patient)_, and the Accusative [ru-feat/Case]() has priority over the Dative, Instrumental, and Genitive cases.
 
