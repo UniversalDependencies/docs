@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-16T09:20:35Z">2016-04-16T09:20:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-16T09:22:32Z">2016-04-16T09:22:32 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1635,25 +1635,25 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train-google
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:48:39Z">2016-04-13T23:48:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-16T09:22:13Z">2016-04-16T09:22:13 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
 
 *** PASSED ***
 
