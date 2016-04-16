@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-16T16:24:17Z">2016-04-16T16:24:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-16T16:24:25Z">2016-04-16T16:24:25 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1718,24 +1718,19 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-16T09:20:32Z">2016-04-16T09:20:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-16T16:24:22Z">2016-04-16T16:24:22 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/spoken-sl-ud_final.conllu
-
-[Tree number 0 on line 0]: The language-specific file data/deprel.sl_sst could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.sl_sst
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/spoken-sl-ud_final.conllu
 
 [Tree number 0 on line 0]: The language-specific file data/feat_val.sl_sst could not be found. Feature=value pairs will not be checked.
 Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.sl_sst It's okay if the file is empty, but it must exist.
  
 
 
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+*** FAILED *** with 1 errors
+Language specific data missing errors: 1
 
 
 ******************
