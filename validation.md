@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-17T18:35:02Z">2016-04-17T18:35:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-17T22:26:12Z">2016-04-17T22:26:12 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1196,91 +1196,28 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-17T18:34:33Z">2016-04-17T18:34:33 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-17T22:25:43Z">2016-04-17T22:25:43 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
-[Line                   31]: Unknown attribute-value pair PronType=Predet
-[Line                   457]: Unknown attribute-value pair PronType=Predet
-[Line                   1809]: Unknown attribute-value pair PronType=Predet
-[Line                   2035]: Unknown attribute-value pair PronType=Predet
-[Line                   3252]: Unknown attribute-value pair PronType=Ord
-[Line                   3431]: Unknown attribute-value pair PronType=Ord
-[Line                   3491]: Unknown attribute-value pair PronType=Predet
-[Line                   3840]: Unknown attribute-value pair PronType=Predet
-[Line                   4499]: Unknown attribute-value pair PronType=Predet
-[Line                   5803]: Unknown attribute-value pair PronType=Ord
-[Line                   5885]: Unknown attribute-value pair PronType=Ord
-[Line                   5922]: Unknown attribute-value pair PronType=Ord
-[Line                   6120]: Unknown attribute-value pair PronType=Predet
-[Line                   6629]: Unknown attribute-value pair PronType=Predet
-[Line                   7226]: Unknown attribute-value pair PronType=Predet
-[Line                   7755]: Unknown attribute-value pair PronType=Predet
-[Line                   9815]: Unknown attribute-value pair PronType=Ord
-[Line                   10518]: Unknown attribute-value pair PronType=Predet
-[Line                   11405]: Unknown attribute-value pair PronType=Predet
-...suppressing further errors regarding Morpho
-*** FAILED *** with 20 errors
-Morpho errors: 20
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-test.conllu
 
-[Line                   708]: Unknown attribute-value pair PronType=Predet
-[Line                   1033]: Unknown attribute-value pair PronType=Ord
-[Line                   1039]: Unknown attribute-value pair PronType=Ord
-[Line                   1231]: Unknown attribute-value pair PronType=Ord
-[Line                   2812]: Unknown attribute-value pair PronType=Ord
-[Line                   2818]: Unknown attribute-value pair PronType=Ord
-[Line                   3288]: Unknown attribute-value pair PronType=Predet
-[Line                   3372]: Unknown attribute-value pair PronType=Predet
-[Line                   3830]: Unknown attribute-value pair PronType=Predet
-[Line                   4877]: Unknown attribute-value pair PronType=Ord
-[Line                   5583]: Unknown attribute-value pair PronType=Predet
-[Line                   7912]: Unknown attribute-value pair PronType=Predet
-[Line                   8265]: Unknown attribute-value pair PronType=Predet
-[Line                   8856]: Unknown attribute-value pair PronType=Predet
-[Line                   10060]: Unknown attribute-value pair PronType=Predet
-[Line                   10262]: Unknown attribute-value pair PronType=Predet
-[Line                   10536]: Unknown attribute-value pair PronType=Ord
-[Line                   10734]: Unknown attribute-value pair PronType=Predet
-[Line                   11840]: Unknown attribute-value pair PronType=Ord
-...suppressing further errors regarding Morpho
-*** FAILED *** with 22 errors
-Morpho errors: 22
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
 
-[Line                   508]: Unknown attribute-value pair PronType=Predet
-[Line                   657]: Unknown attribute-value pair PronType=Predet
-[Line                   1628]: Unknown attribute-value pair PronType=Predet
-[Line                   2451]: Unknown attribute-value pair PronType=Predet
-[Line                   3715]: Unknown attribute-value pair PronType=Ord
-[Line                   4219]: Unknown attribute-value pair PronType=Predet
-[Line                   8131]: Unknown attribute-value pair PronType=Predet
-[Line                   8789]: Unknown attribute-value pair PronType=Predet
-[Line                   9229]: Unknown attribute-value pair PronType=Predet
-[Line                   9600]: Unknown attribute-value pair PronType=Predet
-[Line                   9693]: Unknown attribute-value pair PronType=Predet
-[Line                   9937]: Unknown attribute-value pair PronType=Predet
-[Line                   10354]: Unknown attribute-value pair PronType=Predet
-[Line                   10961]: Unknown attribute-value pair PronType=Predet
-[Line                   12453]: Unknown attribute-value pair PronType=Ord
-[Line                   13109]: Unknown attribute-value pair PronType=Predet
-[Line                   14577]: Unknown attribute-value pair PronType=Predet
-[Line                   14722]: Unknown attribute-value pair PronType=Predet
-[Line                   14743]: Unknown attribute-value pair PronType=Predet
-...suppressing further errors regarding Morpho
-*** FAILED *** with 423 errors
-Morpho errors: 423
+*** PASSED ***
 
 
 ******************
