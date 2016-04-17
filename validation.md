@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-17T16:26:20Z">2016-04-17T16:26:20 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-17T17:27:08Z">2016-04-17T17:27:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1729,20 +1729,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-16T16:24:22Z">2016-04-16T16:24:22 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-17T17:27:05Z">2016-04-17T17:27:05 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/spoken-sl-ud_final.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/feat_val.sl_sst could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.sl_sst It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 1 errors
-Language specific data missing errors: 1
+*** PASSED ***
 
 
 ******************
