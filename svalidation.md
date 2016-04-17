@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-16T23:38:25Z">2016-04-16T23:38:25 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-17T16:25:13Z">2016-04-17T16:25:13 zulu</time>
 
 # Aux chain
 
@@ -6323,7 +6323,7 @@ conj(honest, big)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cconj%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cconj%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cconj%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cconj%40R+_&db=UD_English-ESL-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cconj%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cconj%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cconj%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Cconj%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
@@ -7121,7 +7121,7 @@ conj(honest, big)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English-ESL</span>
-<span class="widespan">1 hits</span>
+<span class="widespan">0 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cconj%40R+_&db=UD_English-ESL-dev">Go to search</a><p/>
@@ -10144,9 +10144,9 @@ Search expression: `(!VERB) <cop _`
 </tr>
 <tr><td>UD_English-ESL</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccop+_&db=UD_English-ESL-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccop+_&db=UD_English-ESL-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccop+_&db=UD_English-ESL-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccop+_&db=UD_English-ESL-dev">36</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccop+_&db=UD_English-ESL-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccop+_&db=UD_English-ESL-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccop+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccop+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Ccop+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccop+_&db=UD_English-ESL-dev">&nbsp;</a></td>
@@ -10876,7 +10876,7 @@ Search expression: `(!VERB) <cop _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English-ESL</span>
-<span class="widespan">38 hits</span>
+<span class="widespan">0 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21VERB%29+%3Ccop+_&db=UD_English-ESL-dev">Go to search</a><p/>
@@ -20024,7 +20024,7 @@ Search expression: `AUX (<!aux&<!auxpass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_English-dev">90</a></td>
 </tr>
 <tr><td>UD_English-ESL</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_English-ESL-dev">62</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_English-ESL-dev">26</a></td>
 </tr>
 <tr><td>UD_English-LinES</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_English-LinES-dev">&nbsp;</a></td>
@@ -20225,7 +20225,7 @@ Search expression: `AUX (<!aux&<!auxpass) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English-ESL</span>
-<span class="widespan">62 hits</span>
+<span class="widespan">26 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_English-ESL-dev">Go to search</a><p/>
@@ -20726,7 +20726,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%28%3Caux%7C%3Cauxpass%29+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%28%3Caux%7C%3Cauxpass%29+_&db=UD_English-ESL-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_English-ESL-dev">48</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_English-ESL-dev">49</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%28%3Caux%7C%3Cauxpass%29+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_English-LinES</td>
@@ -21446,7 +21446,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English-ESL</span>
-<span class="widespan">49 hits</span>
+<span class="widespan">50 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21AUX+%28%3Caux%7C%3Cauxpass%29+_&db=UD_English-ESL-dev">Go to search</a><p/>
