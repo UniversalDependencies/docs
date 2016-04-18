@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-18T15:57:32Z">2016-04-18T15:57:32 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-18T19:32:53Z">2016-04-18T19:32:53 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -567,7 +567,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-18T13:57:59Z">2016-04-18T13:57:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-18T19:32:22Z">2016-04-18T19:32:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -662,20 +662,24 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Tree number 594 on line 17089]: Non-tree structure. Words 15,16,17 are not reachable from the root 0.
 [Tree number 1037 on line 29519]: Non-tree structure. Words 8,9 are not reachable from the root 0.
 [Tree number 1147 on line 32675]: Non-tree structure. Words 5,6,7,8,9,10,11,12 are not reachable from the root 0.
-[Line                   96076]: Column FORM is not allowed to contain whitespace: '3 000'
-[Line                   179415]: Column FORM is not allowed to contain whitespace: '2 278'
-[Line                   179415]: Column LEMMA is not allowed to contain whitespace: '2 278'
-[Line                   179428]: Column FORM is not allowed to contain whitespace: ' 1 345'
-[Line                   179428]: Column LEMMA is not allowed to contain whitespace: '1 345'
-[Line                   179442]: Column FORM is not allowed to contain whitespace: '8 848'
-[Line                   179442]: Column LEMMA is not allowed to contain whitespace: '8 848'
-[Line                   179453]: Column FORM is not allowed to contain whitespace: '1 728'
-[Line                   179453]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Line                   275930]: Column FORM is not allowed to contain whitespace: '4 800'
-*** FAILED *** with 273115 errors
-Format errors: 10
-Morpho errors: 273100
-Syntax errors: 5
+[Line                   50476]: Column MISC is not allowed to contain whitespace: '_ '
+[Tree number 2517 on line 70769]: Non-tree structure. Words 5,6,7 are not reachable from the root 0.
+[Line                   74601]: Undefined ID in HEAD: 27
+[Tree number 2648 on line 74581]: Non-tree structure. Words 16 are not reachable from the root 0.
+[Line                   96078]: Column FORM is not allowed to contain whitespace: '3 000'
+[Line                   179417]: Column FORM is not allowed to contain whitespace: '2 278'
+[Line                   179417]: Column LEMMA is not allowed to contain whitespace: '2 278'
+[Line                   179430]: Column FORM is not allowed to contain whitespace: ' 1 345'
+[Line                   179430]: Column LEMMA is not allowed to contain whitespace: '1 345'
+[Line                   179444]: Column FORM is not allowed to contain whitespace: '8 848'
+[Line                   179444]: Column LEMMA is not allowed to contain whitespace: '8 848'
+[Line                   179455]: Column FORM is not allowed to contain whitespace: '1 728'
+[Line                   179455]: Column LEMMA is not allowed to contain whitespace: '1 728'
+[Line                   275932]: Column FORM is not allowed to contain whitespace: '4 800'
+*** FAILED *** with 273129 errors
+Format errors: 12
+Morpho errors: 273110
+Syntax errors: 7
 
 
 ******************
