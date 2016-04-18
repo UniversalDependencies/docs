@@ -17,7 +17,7 @@ for more details on the sources of the sentences.  The trees were automatically 
 Dependencies and then hand-corrected to Universal Dependencies.  All the dependency annotations
 have been single-annotated, a limited portion of them have been double-annotated, and subsequent correction has been done to improve consistency. Other aspects of the treebank, such as Universal POS and features, has mainly been done automatically, with very limited hand-correction.
 
-## Status of annotations
+## Source of annotations
 
 This table summarizes the origins and checking of the various columns of the CoNLL-U data.
 
