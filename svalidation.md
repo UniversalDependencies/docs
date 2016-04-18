@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-18T01:32:37Z">2016-04-18T01:32:37 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-18T13:56:35Z">2016-04-18T13:56:35 zulu</time>
 
 # Aux chain
 
@@ -14616,17 +14616,17 @@ Search expression: `_ <case (_ <!nmod _)`
 </tr>
 <tr><td>UD_French</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">3582</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">3584</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">13</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">56</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">54</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">53</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">10</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">26</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">13</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">12</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">1</a></td>
@@ -15700,7 +15700,7 @@ Search expression: `NOUN <case _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_Finnish-FTB-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_French</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_French-dev">118</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_French-dev">117</a></td>
 </tr>
 <tr><td>UD_Galician</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_Galician-dev">&nbsp;</a></td>
@@ -15931,7 +15931,7 @@ Search expression: `NOUN <case _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">118 hits</span>
+<span class="widespan">117 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_French-dev">Go to search</a><p/>
