@@ -31,7 +31,7 @@ This table summarizes the origins and checking of the various columns of the CoN
 | FEATS | Generated automatically by Stanford CoreNLP `UniversalDependenciesFeatureAnnotator`; limited human spot checking. |
 | HEAD | Automatic conversion of LDC2012T13 parse followed by complete single annotation; limited dual annotation; considerable adjudication. |
 | DEPREL | Automatic conversion of LDC2012T13 parse followed by complete single annotation; limited dual annotation; considerable adjudication. |
-| DEPS | &mdash; |
+| DEPS | &mdash; (currently unused) |
 | MISC | Information about token spacing generated automatically from original source files in LDC2012T13. |
 
 ## Acknowledgments
