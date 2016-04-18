@@ -14,7 +14,7 @@ This table summarizes the origins and checking of the various columns of the CoN
 
 | Column | Status |
 | ------ | ------ |
-| ID | Sentence segmentation from Talbanken; tokenization modified to SUC standard. |
+| ID | Sentence segmentation from Talbanken; tokenization modified to SUC standard for Swedish Treebank. |
 | FORM | Identical to Talbanken except for minor tokenization changes mentioned above. |
 | LEMMA | Produced automatically by the Swedish Language Bank using SALDO; fairly careful human checking. |
 | UPOSTAG | Converted automatically from XPOSTAG + original Talbanken tags; fairly careful human checking. |
