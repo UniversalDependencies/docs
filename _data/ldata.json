@@ -185,6 +185,22 @@
     "lang_name": "Czech"
   }, 
   {
+    "lang_code": "cs_cac", 
+    "contributors": [
+      {
+        "full": "Barbora Vidov\u00e1 Hladk\u00e1", 
+        "last": "Vidov\u00e1 Hladk\u00e1", 
+        "first": "Barbora"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Czech-CAC"
+  }, 
+  {
     "lang_code": "da", 
     "contributors": [
       {
@@ -279,7 +295,48 @@
   }, 
   {
     "lang_code": "en_esl", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Yevgeni Berzak", 
+        "last": "Berzak", 
+        "first": "Yevgeni"
+      }, 
+      {
+        "full": "Jessica Kenney", 
+        "last": "Kenney", 
+        "first": "Jessica"
+      }, 
+      {
+        "full": "Carolyn Spadine", 
+        "last": "Spadine", 
+        "first": "Carolyn"
+      }, 
+      {
+        "full": "Jing Xian Wang", 
+        "last": "Wang", 
+        "first": "Jing Xian"
+      }, 
+      {
+        "full": "Lucia Lam", 
+        "last": "Lam", 
+        "first": "Lucia"
+      }, 
+      {
+        "full": "Keiko Sophie Mori", 
+        "last": "Mori", 
+        "first": "Keiko Sophie"
+      }, 
+      {
+        "full": "Sebastian Garza", 
+        "last": "Garza", 
+        "first": "Sebastian"
+      }, 
+      {
+        "full": "Boris Katz", 
+        "last": "Katz", 
+        "first": "Boris"
+      }
+    ], 
     "lang_name": "English-ESL"
   }, 
   {
@@ -645,7 +702,7 @@
     "lang_name": "Latin"
   }, 
   {
-    "lang_code": "la_itt", 
+    "lang_code": "la_ittb", 
     "contributors": [
       {
         "full": "Marco Passarotti", 
@@ -663,7 +720,7 @@
         "first": "Berta"
       }
     ], 
-    "lang_name": "Latin-ITT"
+    "lang_name": "Latin-ITTB"
   }, 
   {
     "lang_code": "la_proiel", 
@@ -930,7 +987,13 @@
   }, 
   {
     "lang_code": "sv_lines", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Lars Ahrenberg", 
+        "last": "Ahrenberg", 
+        "first": "Lars"
+      }
+    ], 
     "lang_name": "Swedish-LinES"
   }, 
   {
