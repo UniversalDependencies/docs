@@ -28,7 +28,7 @@ This table summarizes the origins and checking of the various columns of the CoN
 
 ## Acknowledgments
 
-The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala University. We thank everyone who has been involved in previous conversion efforts at Växjö University and Uppsala University, including Bengt Dahlqvist, Sofia Gustafson-Capkova, Johan Hall, Anna Sågvall Hein, Beáta Megyesi, Jens Nilsson, and Filip Salomonsson. Special thanks also to Lars Borin and Markus Forsberg at Språkbanken for help with the lemmatization.
+The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala University. We thank everyone who has been involved in previous conversion efforts at Växjö University and Uppsala University, including Bengt Dahlqvist, Sofia Gustafson-Capkova, Johan Hall, Anna Sågvall Hein, Beáta Megyesi, Jens Nilsson, and Filip Salomonsson. Special thanks also to Lars Borin and Markus Forsberg at the Swedish Language Bank for help with the lemmatization.
 
 ## References
 
