@@ -81,7 +81,7 @@ _mít_ “to have” + neuter singular passive participle, e.g. _mít (něco) ud
 They can also apply to intransitive verbs: _mít vyhráno_ “to have won”.
 Sometimes the verb _mít_ shares the subject (actor) with the participle,
 but in other contexts such relation is not guaranteed: _mít (někde něco) napsáno_ “to have (something) written (somewhere)”.
-None of these constructions are considered a separate tense in the Czech grammar and the verb _mít_
+None of these constructions is considered a separate tense in the Czech grammar and the verb _mít_
 is not analyzed as auxiliary.
 
 ### References
