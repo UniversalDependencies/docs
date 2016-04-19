@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-19T20:41:05Z">2016-04-19T20:41:05 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-19T20:46:50Z">2016-04-19T20:46:50 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -632,7 +632,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-19T20:40:21Z">2016-04-19T20:40:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-19T20:46:20Z">2016-04-19T20:46:20 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -729,20 +729,21 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Tree number 1147 on line 32675]: Non-tree structure. Words 5,6,7,8,9,10,11,12 are not reachable from the root 0.
 [Tree number 2517 on line 70769]: Non-tree structure. Words 5,6,7 are not reachable from the root 0.
 [Tree number 2938 on line 83097]: Non-tree structure. Words 32,33,34,35,36,40,41,42,43,44,45 are not reachable from the root 0.
-[Line                   91719]: The line has 9 columns, but 10 are expected.
-[Line                   91719]: Column HEAD is not allowed to contain whitespace: '48 nmod'
-Traceback (most recent call last):
-  File "tools/validate.py", line 492, in <module>
-    validate(inp,out,args,tagsets)
-  File "tools/validate.py", line 398, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 85, in trees
-    validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 100, in validate_cols
-    validate_whitespace(cols)
-  File "tools/validate.py", line 115, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+[Tree number 3373 on line 94942]: Non-tree structure. Words 16,17,18 are not reachable from the root 0.
+[Line                   96084]: Column FORM is not allowed to contain whitespace: '3 000'
+[Line                   179424]: Column FORM is not allowed to contain whitespace: '2 278'
+[Line                   179424]: Column LEMMA is not allowed to contain whitespace: '2 278'
+[Line                   179437]: Column FORM is not allowed to contain whitespace: ' 1 345'
+[Line                   179437]: Column LEMMA is not allowed to contain whitespace: '1 345'
+[Line                   179451]: Column FORM is not allowed to contain whitespace: '8 848'
+[Line                   179451]: Column LEMMA is not allowed to contain whitespace: '8 848'
+[Line                   179462]: Column FORM is not allowed to contain whitespace: '1 728'
+[Line                   179462]: Column LEMMA is not allowed to contain whitespace: '1 728'
+[Line                   275939]: Column FORM is not allowed to contain whitespace: '4 800'
+*** FAILED *** with 273267 errors
+Format errors: 10
+Morpho errors: 273249
+Syntax errors: 8
 
 
 ******************
