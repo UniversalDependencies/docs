@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-19T20:46:50Z">2016-04-19T20:46:50 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-20T03:51:51Z">2016-04-20T03:51:51 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -632,7 +632,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-19T20:46:20Z">2016-04-19T20:46:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-20T03:51:20Z">2016-04-20T03:51:20 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -664,9 +664,9 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 [Line                   16496]: Column FORM is not allowed to contain whitespace: '80 000'
 [Tree number 896 on line 24740]: Non-tree structure. Words 40,41 are not reachable from the root 0.
 [Line                   25048]: Column FORM is not allowed to contain whitespace: '100 000'
-*** FAILED *** with 15748 errors
+*** FAILED *** with 15756 errors
 Format errors: 5
-Morpho errors: 15742
+Morpho errors: 15750
 Syntax errors: 1
 
 
@@ -727,23 +727,32 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Tree number 594 on line 17089]: Non-tree structure. Words 15,16,17 are not reachable from the root 0.
 [Tree number 1037 on line 29519]: Non-tree structure. Words 8,9 are not reachable from the root 0.
 [Tree number 1147 on line 32675]: Non-tree structure. Words 5,6,7,8,9,10,11,12 are not reachable from the root 0.
-[Tree number 2517 on line 70769]: Non-tree structure. Words 5,6,7 are not reachable from the root 0.
-[Tree number 2938 on line 83097]: Non-tree structure. Words 32,33,34,35,36,40,41,42,43,44,45 are not reachable from the root 0.
-[Tree number 3373 on line 94942]: Non-tree structure. Words 16,17,18 are not reachable from the root 0.
-[Line                   96084]: Column FORM is not allowed to contain whitespace: '3 000'
-[Line                   179424]: Column FORM is not allowed to contain whitespace: '2 278'
-[Line                   179424]: Column LEMMA is not allowed to contain whitespace: '2 278'
-[Line                   179437]: Column FORM is not allowed to contain whitespace: ' 1 345'
-[Line                   179437]: Column LEMMA is not allowed to contain whitespace: '1 345'
-[Line                   179451]: Column FORM is not allowed to contain whitespace: '8 848'
-[Line                   179451]: Column LEMMA is not allowed to contain whitespace: '8 848'
-[Line                   179462]: Column FORM is not allowed to contain whitespace: '1 728'
-[Line                   179462]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Line                   275939]: Column FORM is not allowed to contain whitespace: '4 800'
-*** FAILED *** with 273267 errors
-Format errors: 10
-Morpho errors: 273249
-Syntax errors: 8
+[Tree number 2517 on line 70768]: Non-tree structure. Words 5,6,7 are not reachable from the root 0.
+[Tree number 2938 on line 83096]: Non-tree structure. Words 32,33,34,35,36,40,41,42,43,44,45 are not reachable from the root 0.
+[Tree number 3373 on line 94941]: Non-tree structure. Words 16,17,18 are not reachable from the root 0.
+[Line                   96083]: Column FORM is not allowed to contain whitespace: '3 000'
+[Tree number 3890 on line 109129]: Non-tree structure. Words 11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43 are not reachable from the root 0.
+[Tree number 4069 on line 113773]: HEAD == ID for 18
+[Tree number 4069 on line 113773]: Non-tree structure. Words 18 are not reachable from the root 0.
+[Tree number 4971 on line 138994]: HEAD == ID for 14
+[Tree number 4971 on line 138994]: Non-tree structure. Words 14 are not reachable from the root 0.
+[Line                   179444]: Column FORM is not allowed to contain whitespace: '2 278'
+[Line                   179444]: Column LEMMA is not allowed to contain whitespace: '2 278'
+[Line                   179457]: Column FORM is not allowed to contain whitespace: ' 1 345'
+[Line                   179457]: Column LEMMA is not allowed to contain whitespace: '1 345'
+[Line                   179471]: Column FORM is not allowed to contain whitespace: '8 848'
+[Line                   179471]: Column LEMMA is not allowed to contain whitespace: '8 848'
+[Line                   179482]: Column FORM is not allowed to contain whitespace: '1 728'
+[Line                   179482]: Column LEMMA is not allowed to contain whitespace: '1 728'
+[Line                   257085]: Undefined ID in HEAD: 41
+[Tree number 9135 on line 257044]: Non-tree structure. Words 15 are not reachable from the root 0.
+[Line                   275959]: Column FORM is not allowed to contain whitespace: '4 800'
+[Tree number 14316 on line 403295]: HEAD == ID for 18
+[Tree number 14316 on line 403295]: Non-tree structure. Words 18 are not reachable from the root 0.
+*** FAILED *** with 273338 errors
+Format errors: 14
+Morpho errors: 273311
+Syntax errors: 13
 
 
 ******************
