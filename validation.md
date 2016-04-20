@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-20T18:23:56Z">2016-04-20T18:23:56 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-20T21:05:16Z">2016-04-20T21:05:16 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,7 +599,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-20T18:23:25Z">2016-04-20T18:23:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-20T21:04:45Z">2016-04-20T21:04:45 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -707,10 +707,10 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   179472]: Column LEMMA is not allowed to contain whitespace: '8 848'
 [Line                   179483]: Column FORM is not allowed to contain whitespace: '1 728'
 [Line                   179483]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Line                   275960]: Column FORM is not allowed to contain whitespace: '4 800'
-*** FAILED *** with 273874 errors
+[Line                   275958]: Column FORM is not allowed to contain whitespace: '4 800'
+*** FAILED *** with 274222 errors
 Format errors: 10
-Morpho errors: 273855
+Morpho errors: 274203
 Syntax errors: 9
 
 
