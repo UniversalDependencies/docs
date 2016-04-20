@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-20T07:24:33Z">2016-04-20T07:24:33 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-20T07:31:17Z">2016-04-20T07:31:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,7 +599,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-20T07:24:02Z">2016-04-20T07:24:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-20T07:30:46Z">2016-04-20T07:30:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -708,9 +708,9 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   179482]: Column FORM is not allowed to contain whitespace: '1 728'
 [Line                   179482]: Column LEMMA is not allowed to contain whitespace: '1 728'
 [Line                   275959]: Column FORM is not allowed to contain whitespace: '4 800'
-*** FAILED *** with 273330 errors
+*** FAILED *** with 273334 errors
 Format errors: 10
-Morpho errors: 273311
+Morpho errors: 273315
 Syntax errors: 9
 
 
