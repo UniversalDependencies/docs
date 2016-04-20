@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-20T05:08:42Z">2016-04-20T05:08:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-20T07:24:33Z">2016-04-20T07:24:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,7 +599,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-20T03:51:20Z">2016-04-20T03:51:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-20T07:24:02Z">2016-04-20T07:24:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -699,10 +699,6 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Tree number 3373 on line 94941]: Non-tree structure. Words 16,17,18 are not reachable from the root 0.
 [Line                   96083]: Column FORM is not allowed to contain whitespace: '3 000'
 [Tree number 3890 on line 109129]: Non-tree structure. Words 11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43 are not reachable from the root 0.
-[Tree number 4069 on line 113773]: HEAD == ID for 18
-[Tree number 4069 on line 113773]: Non-tree structure. Words 18 are not reachable from the root 0.
-[Tree number 4971 on line 138994]: HEAD == ID for 14
-[Tree number 4971 on line 138994]: Non-tree structure. Words 14 are not reachable from the root 0.
 [Line                   179444]: Column FORM is not allowed to contain whitespace: '2 278'
 [Line                   179444]: Column LEMMA is not allowed to contain whitespace: '2 278'
 [Line                   179457]: Column FORM is not allowed to contain whitespace: ' 1 345'
@@ -711,15 +707,11 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   179471]: Column LEMMA is not allowed to contain whitespace: '8 848'
 [Line                   179482]: Column FORM is not allowed to contain whitespace: '1 728'
 [Line                   179482]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Line                   257085]: Undefined ID in HEAD: 41
-[Tree number 9135 on line 257044]: Non-tree structure. Words 15 are not reachable from the root 0.
 [Line                   275959]: Column FORM is not allowed to contain whitespace: '4 800'
-[Tree number 14316 on line 403295]: HEAD == ID for 18
-[Tree number 14316 on line 403295]: Non-tree structure. Words 18 are not reachable from the root 0.
-*** FAILED *** with 273338 errors
-Format errors: 14
+*** FAILED *** with 273330 errors
+Format errors: 10
 Morpho errors: 273311
-Syntax errors: 13
+Syntax errors: 9
 
 
 ******************
