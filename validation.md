@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-20T03:51:51Z">2016-04-20T03:51:51 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-20T05:08:42Z">2016-04-20T05:08:42 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -331,61 +331,28 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-19T20:39:16Z">2016-04-19T20:39:16 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-20T05:07:34Z">2016-04-20T05:07:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.cs_cac could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.cs_cac
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.cs_cac could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.cs_cac It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-test.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.cs_cac could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.cs_cac
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.cs_cac could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.cs_cac It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.cs_cac could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.cs_cac
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.cs_cac could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.cs_cac It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+*** PASSED ***
 
 
 ******************
