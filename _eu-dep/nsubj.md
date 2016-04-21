@@ -51,6 +51,19 @@ nmod(tolesten-7, tokietatik-6)
 aux(tolesten-7, dira-8)
 ~~~
 
+~~~ sdparse
+Bi zati hauek markaturik dauden tokietatik tolesten dira .
+
+det(zati-2, Bi-1)
+nsubj(tolesten-7, zati-2)
+det(zati-2, hauek-3)
+acl(tokietatik-6, markaturik-4)
+cop(markaturik-4, dauden-5)
+nmod(tolesten-7, tokietatik-6)
+aux(tolesten-7, dira-8)
+~~~
+
+
 Example of a subject in a transitive sentence:
 
  ~~~ sdparse
