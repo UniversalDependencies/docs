@@ -17,12 +17,21 @@ The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a mor
 
 
 
+* English (example of an intransitive):
+
+These two parts fold by the places that are marked .
+
+* Basque:
+
+Bi zati hauek markaturik dauden tokietatik tolesten dira .
+
+*Two parts these-abs marked are-that places  aux-intrans-present .*
 
  
 Example of a subject in an intransitive sentence:
 
 ~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira . \n These two parts fold by the places that are marked .
+Bi zati hauek markaturik dauden tokietatik tolesten dira . \n two parts these that_are_marked by_the_places fold .
 
 det(zati-2, Bi-1)
 nsubj(tolesten-7, zati-2)
@@ -35,15 +44,6 @@ aux(tolesten-7, dira-8)
 
 
 
-* English (example of an intransitive):
-
-These two parts fold by the places that are marked .
-
-* Basque:
-
-Bi zati hauek markaturik dauden tokietatik tolesten dira .
-
-*Two parts these-abs marked are-that places  aux-intrans-present .*
 
 ~~~ sdparse
 Bi zati hauek markaturik dauden tokietatik tolesten dira .
