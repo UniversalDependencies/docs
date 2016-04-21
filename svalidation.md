@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-21T13:42:39Z">2016-04-21T13:42:39 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-21T13:55:58Z">2016-04-21T13:55:58 zulu</time>
 
 # Aux chain
 
@@ -13403,7 +13403,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Norwegian</span>
-<span class="widespan">1 hits</span>
+<span class="widespan">0 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21PUNCT+%3Cpunct+_&db=UD_Norwegian-dev">Go to search</a><p/>
@@ -14183,7 +14183,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Norwegian</span>
-<span class="widespan">48 hits</span>
+<span class="widespan">31 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=UD_Norwegian-dev">Go to search</a><p/>
@@ -21027,7 +21027,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Latin-PROIEL-dev">396</a></td>
 </tr>
 <tr><td>UD_Norwegian</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Norwegian-dev">463</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Norwegian-dev">475</a></td>
 </tr>
 <tr><td>UD_Old_Church_Slavonic</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Old_Church_Slavonic-dev">328</a></td>
@@ -21333,7 +21333,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Norwegian</span>
-<span class="widespan">463 hits</span>
+<span class="widespan">475 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Norwegian-dev">Go to search</a><p/>
