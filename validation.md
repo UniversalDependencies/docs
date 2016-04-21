@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-21T20:48:42Z">2016-04-21T20:48:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-21T21:59:59Z">2016-04-21T21:59:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,7 +599,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-21T14:54:04Z">2016-04-21T14:54:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-21T21:59:30Z">2016-04-21T21:59:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -689,22 +689,33 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 ...suppressing further errors regarding Morpho
 [Line                   9077]: Column FORM is not allowed to contain whitespace: '1 209'
 [Line                   96087]: Column FORM is not allowed to contain whitespace: '3 000'
-[Line                   179449]: Column FORM is not allowed to contain whitespace: '2 278'
-[Line                   179449]: Column LEMMA is not allowed to contain whitespace: '2 278'
-[Line                   179462]: Column FORM is not allowed to contain whitespace: ' 1 345'
-[Line                   179462]: Column LEMMA is not allowed to contain whitespace: '1 345'
-[Line                   179476]: Column FORM is not allowed to contain whitespace: '8 848'
-[Line                   179476]: Column LEMMA is not allowed to contain whitespace: '8 848'
-[Line                   179487]: Column FORM is not allowed to contain whitespace: '1 728'
-[Line                   179487]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Line                   275965]: Column FORM is not allowed to contain whitespace: '4 800'
-[Line                   289137]: Column FORM is not allowed to contain whitespace: '280 000'
-[Tree number 14484 on line 408154]: HEAD == ID for 56
-[Tree number 14484 on line 408154]: Non-tree structure. Words 56 are not reachable from the root 0.
-*** FAILED *** with 274861 errors
-Format errors: 13
-Morpho errors: 274847
-Syntax errors: 1
+[Line                   179434]: Column FORM is not allowed to contain whitespace: '2 278'
+[Line                   179434]: Column LEMMA is not allowed to contain whitespace: '2 278'
+[Line                   179447]: Column FORM is not allowed to contain whitespace: ' 1 345'
+[Line                   179447]: Column LEMMA is not allowed to contain whitespace: '1 345'
+[Line                   179461]: Column FORM is not allowed to contain whitespace: '8 848'
+[Line                   179461]: Column LEMMA is not allowed to contain whitespace: '8 848'
+[Line                   179472]: Column FORM is not allowed to contain whitespace: '1 728'
+[Line                   179472]: Column LEMMA is not allowed to contain whitespace: '1 728'
+[Line                   275950]: Column FORM is not allowed to contain whitespace: '4 800'
+[Line                   289122]: Column FORM is not allowed to contain whitespace: '280 000'
+[Tree number 12064 on line 338345]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
+[Tree number 12459 on line 349611]: Non-tree structure. Words 14,15,16,17,18 are not reachable from the root 0.
+[Tree number 13192 on line 371364]: Non-tree structure. Words 37,38,39 are not reachable from the root 0.
+[Line                   381503]: Empty value in column MISC
+[Line                   381505]: The line has 9 columns, but 10 are expected.
+Traceback (most recent call last):
+  File "tools/validate.py", line 492, in <module>
+    validate(inp,out,args,tagsets)
+  File "tools/validate.py", line 398, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 85, in trees
+    validate_cols(cols,tag_sets,args)
+  File "tools/validate.py", line 100, in validate_cols
+    validate_whitespace(cols)
+  File "tools/validate.py", line 115, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
 
 
 ******************
