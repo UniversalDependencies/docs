@@ -4,7 +4,7 @@ title: 'nsubj'
 shortdef: 'nominal subject'
 ---
 
-~~~ sdparse
+ ~~~ sdparse
 Eeva tuli töistä . \n Eeva came from_work .
 
 nsubj(tuli-2, Eeva-1)
@@ -51,7 +51,7 @@ nmod(tolesten-7, tokietatik-6)
 aux(tolesten-7, dira-8)
 ~~~
 
-~~~ sdparse
+ ~~~ sdparse
 Bi zati hauek markaturik dauden tokietatik tolesten dira .
 
 det(zati-2, Bi-1)
