@@ -29,7 +29,7 @@ Bi zati hauek markaturik dauden tokietatik tolesten dira .
 
  
 ~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira . \n two parts these that_are_marked by_the_places fold .
+Bi zati hauek markaturik dauden tokietatik tolesten dira . \n two parts these marked that_are by_the_places fold .
 
 det(zati-2, Bi-1)
 nsubj(tolesten-7, zati-2)
