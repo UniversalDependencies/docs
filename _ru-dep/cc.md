@@ -30,7 +30,7 @@ cc(left, And)
 ~~~
 
 ~~~ sdparse
-У нас есть яблоки , груши , апельсины a бананы . \n We have apples , pears , oranges and bananas .
+У нас есть яблоки , груши , апельсины и бананы . \n We have apples , pears , oranges and bananas .
 dobj(есть, яблоки)
 dobj(We-have, apples)
 conj(яблоки, груши)
