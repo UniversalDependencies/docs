@@ -17,13 +17,7 @@ The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a mor
 
 
 
-~~~ sdparse
-Eeva tuli töistä . \n Eeva came from_work .
 
-nsubj(tuli-2, Eeva-1)
-nmod(tuli-2, töistä-3)
-punct(tuli-2, .-4)
-~~~
  
 Example of a subject in an intransitive sentence:
 
