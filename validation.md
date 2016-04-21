@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-21T07:48:08Z">2016-04-21T07:48:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-21T08:19:52Z">2016-04-21T08:19:52 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,7 +599,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-21T07:47:37Z">2016-04-21T07:47:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-21T08:19:21Z">2016-04-21T08:19:21 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -630,9 +630,9 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 [Line                   16488]: Column FORM is not allowed to contain whitespace: '25 000'
 [Line                   16496]: Column FORM is not allowed to contain whitespace: '80 000'
 [Line                   25048]: Column FORM is not allowed to contain whitespace: '100 000'
-*** FAILED *** with 15755 errors
+*** FAILED *** with 15757 errors
 Format errors: 5
-Morpho errors: 15750
+Morpho errors: 15752
 
 
 ******************
@@ -659,8 +659,8 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 [Line                   22]: Spurious morphological feature: 'p=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   22]: Repeated features are disallowed: Person=1|p=y
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 3345 errors
-Morpho errors: 3345
+*** FAILED *** with 3347 errors
+Morpho errors: 3347
 
 
 ******************
@@ -687,19 +687,21 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   15]: Repeated features are disallowed: Person=3|p=y
 [Line                   16]: Spurious morphological feature: 'ind_pres_3s=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 ...suppressing further errors regarding Morpho
-[Line                   96083]: Column FORM is not allowed to contain whitespace: '3 000'
-[Line                   179445]: Column FORM is not allowed to contain whitespace: '2 278'
-[Line                   179445]: Column LEMMA is not allowed to contain whitespace: '2 278'
-[Line                   179458]: Column FORM is not allowed to contain whitespace: ' 1 345'
-[Line                   179458]: Column LEMMA is not allowed to contain whitespace: '1 345'
-[Line                   179472]: Column FORM is not allowed to contain whitespace: '8 848'
-[Line                   179472]: Column LEMMA is not allowed to contain whitespace: '8 848'
-[Line                   179483]: Column FORM is not allowed to contain whitespace: '1 728'
-[Line                   179483]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Line                   275960]: Column FORM is not allowed to contain whitespace: '4 800'
-*** FAILED *** with 274537 errors
-Format errors: 10
-Morpho errors: 274527
+[Line                   9077]: Column FORM is not allowed to contain whitespace: '1 209'
+[Line                   96086]: Column FORM is not allowed to contain whitespace: '3 000'
+[Line                   179448]: Column FORM is not allowed to contain whitespace: '2 278'
+[Line                   179448]: Column LEMMA is not allowed to contain whitespace: '2 278'
+[Line                   179461]: Column FORM is not allowed to contain whitespace: ' 1 345'
+[Line                   179461]: Column LEMMA is not allowed to contain whitespace: '1 345'
+[Line                   179475]: Column FORM is not allowed to contain whitespace: '8 848'
+[Line                   179475]: Column LEMMA is not allowed to contain whitespace: '8 848'
+[Line                   179486]: Column FORM is not allowed to contain whitespace: '1 728'
+[Line                   179486]: Column LEMMA is not allowed to contain whitespace: '1 728'
+[Line                   275964]: Column FORM is not allowed to contain whitespace: '4 800'
+[Line                   289136]: Column FORM is not allowed to contain whitespace: '280 000'
+*** FAILED *** with 274567 errors
+Format errors: 12
+Morpho errors: 274555
 
 
 ******************
