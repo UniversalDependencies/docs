@@ -74,12 +74,30 @@
   link: http://universaldependencies.org/u/dep/appos.html
 
 -
+  name: Non-passive subject with passive auxiliary
+  required_empty: true
+  expr: "_ >nsubj|>csubj _ >auxpass|>auxpass:refl _"
+  desc: A passive auxiliary implies that the subject is passive, too.
+  pos_ex: "The reconstruction was finished yesterday .\nnsubjpass(finished, reconstruction)\nauxpass(finished, was)"
+  neg_ex: "The reconstruction was finished yesterday .\nnsubj(finished, reconstruction)\nauxpass(finished, was)"
+  link: http://universaldependencies.org/docs/u/dep/nsubjpass.html
+
+-
   name: Copula is not VERB
   required_empty: true
   expr: (!VERB) <cop _
   expr-pos: _ <cop _
   desc: Copulas should always be main verbs. Not auxiliaries, not punctuation (dashes) and definitely not nominals.
   link: http://universaldependencies.org/docs/u/dep/cop.html
+
+-
+  name: PRON is mark
+  required_empty: true
+  expr: PRON <mark _
+  desc: Pronouns must not be attached using the mark relation. Relative pronouns must not be confused with subordinating conjunctions, even if the word is ambiguous.
+  pos_ex: "This is a fact that we cannot ignore . You know that we cannot ignore it .\ndobj(ignore-8, that-5)\nmark(ignore-15, that-12)"
+  neg_ex: "This is a fact that we cannot ignore .\nmark(ignore-8, that-5)"
+  link: http://universaldependencies.org/docs/u/dep/mark.html
 
 -
   name: Relation punct is used for node that is not PUNCT
