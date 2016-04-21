@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-21T03:13:38Z">2016-04-21T03:13:38 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-21T07:27:19Z">2016-04-21T07:27:19 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,7 +599,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-21T03:13:13Z">2016-04-21T03:13:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-21T07:26:48Z">2016-04-21T07:26:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -708,30 +708,10 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   179483]: Column FORM is not allowed to contain whitespace: '1 728'
 [Line                   179483]: Column LEMMA is not allowed to contain whitespace: '1 728'
 [Line                   275960]: Column FORM is not allowed to contain whitespace: '4 800'
-[Line                   323780]: The line has 11 columns, but 10 are expected.
-[Line                   323780]: Empty value in column UPOSTAG
-[Line                   323780]: Unknown UD DEPREL: 11
-[Line                   323780]: Malformed head:deprel pair 'amod'
-[Line                   323780]: Invalid DEPREL value 11
-[Line                   323780]: Failed for parse DEPS: amod
-[Line                   323801]: Undefined ID in HEAD: fs=y
-[Line                   323801]: Failed for parse DEPS: amod
-[Line                   323801]: Failed for parse DEPS: amod
-[Tree number 11538 on line 323769]: Non-integer head for word ID 12
-[Tree number 11538 on line 323769]: Non-tree structure. Words 12 are not reachable from the root 0.
-[Line                   324668]: The line has 9 columns, but 10 are expected.
-Traceback (most recent call last):
-  File "tools/validate.py", line 492, in <module>
-    validate(inp,out,args,tagsets)
-  File "tools/validate.py", line 398, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 85, in trees
-    validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 100, in validate_cols
-    validate_whitespace(cols)
-  File "tools/validate.py", line 115, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+*** FAILED *** with 274546 errors
+Format errors: 10
+Morpho errors: 274527
+Syntax errors: 9
 
 
 ******************
