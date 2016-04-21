@@ -17,7 +17,7 @@ Note that besides `aux` and `auxpass`, the verb _быть_ may also act as a [co
 and as the main verb.
 
 ~~~ sdparse
-Завтра я буду выступать в университете . \n Tomorrow I will give-a-talk at university .
+Завтра я буду выступать в университете . \n Tomorrow I will give-a-talk at the-university .
 aux(выступать, буду)
 aux(give-a-talk, will)
 ~~~
