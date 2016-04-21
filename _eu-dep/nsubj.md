@@ -29,6 +29,16 @@ nmod(tolesten-7, tokietatik-6)
 aux(tolesten-7, dira-8)
 ~~~
 
+
+~~~ sdparse
+Eeva tuli töistä . \n Eeva came from_work .
+
+nsubj(tuli-2, Eeva-1)
+nmod(tuli-2, töistä-3)
+punct(tuli-2, .-4)
+~~~
+
+
 * English (example of an intransitive):
 
 These two parts fold by the places that are marked .
