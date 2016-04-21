@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-21T07:27:19Z">2016-04-21T07:27:19 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-21T07:48:08Z">2016-04-21T07:48:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,7 +599,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-21T07:26:48Z">2016-04-21T07:26:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-21T07:47:37Z">2016-04-21T07:47:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -629,12 +629,10 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 [Line                   10942]: Column FORM is not allowed to contain whitespace: '3 872'
 [Line                   16488]: Column FORM is not allowed to contain whitespace: '25 000'
 [Line                   16496]: Column FORM is not allowed to contain whitespace: '80 000'
-[Tree number 896 on line 24740]: Non-tree structure. Words 40,41 are not reachable from the root 0.
 [Line                   25048]: Column FORM is not allowed to contain whitespace: '100 000'
-*** FAILED *** with 15756 errors
+*** FAILED *** with 15755 errors
 Format errors: 5
 Morpho errors: 15750
-Syntax errors: 1
 
 
 ******************
@@ -689,16 +687,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   15]: Repeated features are disallowed: Person=3|p=y
 [Line                   16]: Spurious morphological feature: 'ind_pres_3s=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 ...suppressing further errors regarding Morpho
-[Tree number 135 on line 3841]: Non-tree structure. Words 38,39,40 are not reachable from the root 0.
-[Tree number 531 on line 15230]: Non-tree structure. Words 35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74 are not reachable from the root 0.
-[Tree number 594 on line 17089]: Non-tree structure. Words 15,16,17 are not reachable from the root 0.
-[Tree number 1037 on line 29519]: Non-tree structure. Words 8,9 are not reachable from the root 0.
-[Tree number 1147 on line 32675]: Non-tree structure. Words 5,6,7,8,9,10,11,12 are not reachable from the root 0.
-[Tree number 2517 on line 70768]: Non-tree structure. Words 5,6,7 are not reachable from the root 0.
-[Tree number 2938 on line 83096]: Non-tree structure. Words 32,33,34,35,36,40,41,42,43,44,45 are not reachable from the root 0.
-[Tree number 3373 on line 94941]: Non-tree structure. Words 16,17,18 are not reachable from the root 0.
 [Line                   96083]: Column FORM is not allowed to contain whitespace: '3 000'
-[Tree number 3890 on line 109130]: Non-tree structure. Words 11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43 are not reachable from the root 0.
 [Line                   179445]: Column FORM is not allowed to contain whitespace: '2 278'
 [Line                   179445]: Column LEMMA is not allowed to contain whitespace: '2 278'
 [Line                   179458]: Column FORM is not allowed to contain whitespace: ' 1 345'
@@ -708,10 +697,9 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   179483]: Column FORM is not allowed to contain whitespace: '1 728'
 [Line                   179483]: Column LEMMA is not allowed to contain whitespace: '1 728'
 [Line                   275960]: Column FORM is not allowed to contain whitespace: '4 800'
-*** FAILED *** with 274546 errors
+*** FAILED *** with 274537 errors
 Format errors: 10
 Morpho errors: 274527
-Syntax errors: 9
 
 
 ******************
