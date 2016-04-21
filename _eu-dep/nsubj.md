@@ -15,7 +15,7 @@ punct(tuli-2, .-4)
 
 The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a morphologically ergative language, subjects of transitive verbs are marked with the ergative case, while subjects of intransitive verbs are marked with the absolutive case.
 
-
+Example of a subject in an intransitive sentence:
 
 * English (example of an intransitive):
 
@@ -28,8 +28,6 @@ Bi zati hauek markaturik dauden tokietatik tolesten dira .
 *Two parts these-abs marked are-that places  aux-intrans-present .*
 
  
-Example of a subject in an intransitive sentence:
-
 ~~~ sdparse
 Bi zati hauek markaturik dauden tokietatik tolesten dira . \n two parts these that_are_marked by_the_places fold .
 
