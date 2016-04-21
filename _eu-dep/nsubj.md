@@ -14,6 +14,16 @@ punct(tuli-2, .-4)
 
 
 The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a morphologically ergative language, subjects of transitive verbs are marked with the ergative case, while subjects of intransitive verbs are marked with the absolutive case.
+
+
+
+~~~ sdparse
+Eeva tuli töistä . \n Eeva came from_work .
+
+nsubj(tuli-2, Eeva-1)
+nmod(tuli-2, töistä-3)
+punct(tuli-2, .-4)
+~~~
  
 Example of a subject in an intransitive sentence:
 
@@ -29,14 +39,6 @@ nmod(tolesten-7, tokietatik-6)
 aux(tolesten-7, dira-8)
 ~~~
 
-
-~~~ sdparse
-Eeva tuli töistä . \n Eeva came from_work .
-
-nsubj(tuli-2, Eeva-1)
-nmod(tuli-2, töistä-3)
-punct(tuli-2, .-4)
-~~~
 
 
 * English (example of an intransitive):
