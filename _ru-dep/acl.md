@@ -12,7 +12,7 @@ that is modified, and the dependent is the head of the clause that
 modifies the noun.
 
 ~~~ sdparse
-мужчина , о котором я говорил \n man , about whom I-have talked
+мужчина , о котором я говорил \n man , about whom I have-talked
 acl(мужчина, говорил)
 acl(man, talked)
 ~~~
