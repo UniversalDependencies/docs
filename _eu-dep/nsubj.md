@@ -4,7 +4,7 @@ title: 'nsubj'
 shortdef: 'nominal subject'
 ---
 
- ~~~ sdparse
+~~~ sdparse
 Eeva tuli töistä . \n Eeva came from_work .
 
 nsubj(tuli-2, Eeva-1)
@@ -17,7 +17,7 @@ The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a mor
  
 Example of a subject in an intransitive sentence:
 
- ~~~ sdparse
+~~~ sdparse
 Bi zati hauek markaturik dauden tokietatik tolesten dira . \n These two parts fold by the places that are marked .
 
 det(zati-2, Bi-1)
