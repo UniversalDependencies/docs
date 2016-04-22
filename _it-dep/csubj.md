@@ -23,7 +23,7 @@ cop(facile, stato)
 
 ~~~ sdparse
 Sbarcare a l' aeroporto di Kinshasa è una vera e propria avventura
-csubj(avventura, sbarcare)
+csubj(avventura, Sbarcare)
 cop(avventura, è)
 ~~~
 
