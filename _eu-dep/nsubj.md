@@ -4,15 +4,6 @@ title: 'nsubj'
 shortdef: 'nominal subject'
 ---
 
-~~~ sdparse
-Eeva tuli töistä . \n Eeva came from_work .
-
-nsubj(tuli-2, Eeva-1)
-nmod(tuli-2, töistä-3)
-punct(tuli-2, .-4)
-~~~
-
-
 The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a morphologically ergative language, subjects of transitive verbs are marked with the ergative case, while subjects of intransitive verbs are marked with the absolutive case.
 
 Example of a subject in an intransitive sentence:
@@ -71,7 +62,7 @@ aux(tolesten-7, dira-8)
 Example of a subject in a transitive sentence:
 
 ~~~ sdparse
-Eztabaida handiak sortu ditu aldaketak . \n The change has caused huge discussions . 
+Eztabaida handiak sortu ditu aldaketak . \n The change has_caused huge discussions . 
 amod(Eztabaida-1, handiak-2)
 nobj(sortu-3, Eztabaida-1)
 aux(sortu-3, ditu-4)
