@@ -16,6 +16,23 @@ in November 2015. It is essentially the HamleDT conversion but the data is not
 identical to HamleDT 3.0 because the conversion procedure has been further
 improved.
 
+## Source of annotations
+
+This table summarizes the origins and checking of the various columns of the CoNLL-U data.
+
+| Column | Status |
+| ------ | ------ |
+| ID | Sentence segmentation and tokenization (including cutting off certain suffixes that constitute independent syntactic words) was automatically done and then hand-corrected. |
+| FORM | Identical to TamilTB form. |
+| LEMMA | Gold (preprocessed and then manually corrected). |
+| UPOSTAG | Converted automatically from XPOSTAG (via [Interset](https://ufal.mff.cuni.cz/interset)). |
+| XPOSTAG | Gold (preprocessed and then manually corrected). |
+| FEATS | Converted automatically from XPOSTAG (via Interset). |
+| HEAD | Original TamilTB annotation is manual (preprocessed by a rule-based parser and then manually corrected). Automatic conversion to UD; human checking of patterns revealed by automatic consistency tests. |
+| DEPREL | Original TamilTB annotation is manual (preprocessed by a rule-based parser and then manually corrected). Automatic conversion to UD; human checking of patterns revealed by automatic consistency tests. |
+| DEPS | &mdash; (currently unused) |
+| MISC | Information about token spacing restored using heuristics. Mapping between multi-word tokens and syntactic words verified against the source text. |
+
 ## Links
 
 * [TamilTB](http://ufal.mff.cuni.cz/~ramasamy/tamiltb/0.1/)
