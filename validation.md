@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-22T13:37:31Z">2016-04-22T13:37:31 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-22T13:47:22Z">2016-04-22T13:47:22 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -364,7 +364,7 @@ python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-tr
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-22T13:37:26Z">2016-04-22T13:37:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-22T13:47:17Z">2016-04-22T13:47:17 zulu</time></span>
 </div>
 <div>
 <pre>
