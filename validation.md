@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-22T02:05:57Z">2016-04-22T02:05:57 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-22T08:13:21Z">2016-04-22T08:13:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,7 +599,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-22T02:05:28Z">2016-04-22T02:05:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-22T08:12:50Z">2016-04-22T08:12:50 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -688,9 +688,6 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   16]: Spurious morphological feature: 'ind_pres_3s=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 ...suppressing further errors regarding Morpho
 [Line                   9077]: Column FORM is not allowed to contain whitespace: '1 209'
-[Tree number 2929 on line 82768]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,33.
-[Line                   82802]: Loop from 33
-[Tree number 2929 on line 82768]: Non-tree structure. Words 34 are not reachable from the root 0.
 [Line                   96089]: Column FORM is not allowed to contain whitespace: '3 000'
 [Line                   179438]: Column FORM is not allowed to contain whitespace: '2 278'
 [Line                   179438]: Column LEMMA is not allowed to contain whitespace: '2 278'
@@ -705,20 +702,12 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Tree number 12064 on line 338353]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
 [Tree number 12459 on line 349619]: Non-tree structure. Words 14,15,16,17,18 are not reachable from the root 0.
 [Tree number 13192 on line 371372]: Non-tree structure. Words 37,38,39 are not reachable from the root 0.
-[Line                   381511]: Empty value in column MISC
-[Line                   381513]: The line has 9 columns, but 10 are expected.
-Traceback (most recent call last):
-  File "tools/validate.py", line 492, in <module>
-    validate(inp,out,args,tagsets)
-  File "tools/validate.py", line 398, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 85, in trees
-    validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 100, in validate_cols
-    validate_whitespace(cols)
-  File "tools/validate.py", line 115, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+[Tree number 13539 on line 381490]: Non-tree structure. Words 21,22,23,24 are not reachable from the root 0.
+[Tree number 14107 on line 397656]: Non-tree structure. Words 8,9,10,12 are not reachable from the root 0.
+*** FAILED *** with 275472 errors
+Format errors: 12
+Morpho errors: 275455
+Syntax errors: 5
 
 
 ******************
