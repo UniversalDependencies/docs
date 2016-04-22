@@ -146,6 +146,12 @@
   link: http://universaldependencies.org/docs/u/feat/Mood.html
 
 -
+  name: Maximum one subject
+  expr: "_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubjpass|>csubjpass _"
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> No predicate can have more than one subject. Note that subordinate clauses do not head copulas for this reason.
+  link: http://universaldependencies.org/u/dep/nsubj.html
+
+-
   name: Case not dependent on nmod
   expr: "_ <case (_ <!nmod _)"
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
