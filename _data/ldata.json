@@ -188,8 +188,8 @@
     "lang_code": "cs_cac", 
     "contributors": [
       {
-        "full": "Barbora Vidov\u00e1 Hladk\u00e1", 
-        "last": "Vidov\u00e1 Hladk\u00e1", 
+        "full": "Barbora Hladk\u00e1", 
+        "last": "Hladk\u00e1", 
         "first": "Barbora"
       }, 
       {
@@ -199,6 +199,22 @@
       }
     ], 
     "lang_name": "Czech-CAC"
+  }, 
+  {
+    "lang_code": "cs_cltt", 
+    "contributors": [
+      {
+        "full": "Barbora Hladk\u00e1", 
+        "last": "Hladk\u00e1", 
+        "first": "Barbora"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Czech-CLTT"
   }, 
   {
     "lang_code": "da", 
