@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-22T19:56:17Z">2016-04-22T19:56:17 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-22T21:04:14Z">2016-04-22T21:04:14 zulu</time>
 
 # Aux chain
 
@@ -10986,7 +10986,7 @@ auxpass(finished, was)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_Italian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_Italian-dev">32</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_Italian-dev">1</a></td>
 </tr>
 <tr><td>UD_Japanese-KTC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
@@ -11340,7 +11340,7 @@ auxpass(finished, was)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">32 hits</span>
+<span class="widespan">1 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_Italian-dev">Go to search</a><p/>
@@ -15077,7 +15077,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">1 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=UD_Italian-dev">Go to search</a><p/>
@@ -16567,20 +16567,20 @@ Search expression: `_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubj
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Irish-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Italian</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">2</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">20</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Japanese-KTC</td>
@@ -17188,7 +17188,7 @@ Search expression: `_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubj
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">23 hits</span>
+<span class="widespan">3 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Italian-dev">Go to search</a><p/>
@@ -17945,7 +17945,7 @@ Search expression: `_ <case (_ <!nmod _)`
 </tr>
 <tr><td>UD_Italian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Italian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Italian-dev">2796</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Italian-dev">2795</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Italian-dev">49</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Italian-dev">&nbsp;</a></td>
@@ -18632,7 +18632,7 @@ Search expression: `_ <case (_ <!nmod _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">2846 hits</span>
+<span class="widespan">2845 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Italian-dev">Go to search</a><p/>
@@ -20351,7 +20351,7 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <tr><td>UD_Italian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">1795</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">1794</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">&nbsp;</a></td>
@@ -21037,7 +21037,7 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">1814 hits</span>
+<span class="widespan">1813 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">Go to search</a><p/>
@@ -22592,7 +22592,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Irish-dev">24</a></td>
 </tr>
 <tr><td>UD_Italian</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Italian-dev">357</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Italian-dev">355</a></td>
 </tr>
 <tr><td>UD_Japanese-KTC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Japanese-KTC-dev">128</a></td>
@@ -22880,7 +22880,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">357 hits</span>
+<span class="widespan">355 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Italian-dev">Go to search</a><p/>
@@ -25322,7 +25322,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Italian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Italian-dev">36</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Italian-dev">35</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Italian-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Japanese-KTC</td>
@@ -25947,7 +25947,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">36 hits</span>
+<span class="widespan">35 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21AUX+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Italian-dev">Go to search</a><p/>
@@ -30249,7 +30249,7 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Excomp+_&db=UD_Italian-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Excomp+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Excomp+_&db=UD_Italian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_Italian-dev">1911</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_Italian-dev">1913</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Excomp+_&db=UD_Italian-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Japanese-KTC</td>
@@ -30898,7 +30898,7 @@ Search expression: `_ >xcomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">1932 hits</span>
+<span class="widespan">1934 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Excomp+_&db=UD_Italian-dev">Go to search</a><p/>
