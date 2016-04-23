@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-22T22:04:22Z">2016-04-22T22:04:22 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-23T07:08:37Z">2016-04-23T07:08:37 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -631,7 +631,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-22T22:03:48Z">2016-04-22T22:03:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-23T07:08:02Z">2016-04-23T07:08:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -663,9 +663,9 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 [Line                   16496]: Column FORM is not allowed to contain whitespace: '80 000'
 [Line                   25050]: Column FORM is not allowed to contain whitespace: '100 000'
 [Line                   31810]: Column FORM is not allowed to contain whitespace: '80 000'
-*** FAILED *** with 15760 errors
+*** FAILED *** with 15763 errors
 Format errors: 6
-Morpho errors: 15754
+Morpho errors: 15757
 
 
 ******************
@@ -722,24 +722,24 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 ...suppressing further errors regarding Morpho
 [Line                   9077]: Column FORM is not allowed to contain whitespace: '1 209'
 [Line                   96091]: Column FORM is not allowed to contain whitespace: '3 000'
-[Line                   179440]: Column FORM is not allowed to contain whitespace: '2 278'
-[Line                   179440]: Column LEMMA is not allowed to contain whitespace: '2 278'
-[Line                   179453]: Column FORM is not allowed to contain whitespace: ' 1 345'
-[Line                   179453]: Column LEMMA is not allowed to contain whitespace: '1 345'
-[Line                   179467]: Column FORM is not allowed to contain whitespace: '8 848'
-[Line                   179467]: Column LEMMA is not allowed to contain whitespace: '8 848'
-[Line                   179478]: Column FORM is not allowed to contain whitespace: '1 728'
-[Line                   179478]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Line                   275961]: Column FORM is not allowed to contain whitespace: '4 800'
-[Line                   289133]: Column FORM is not allowed to contain whitespace: '280 000'
-[Tree number 12064 on line 338358]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
-[Tree number 12459 on line 349625]: Non-tree structure. Words 14,15,16,17,18 are not reachable from the root 0.
-[Tree number 13192 on line 371378]: Non-tree structure. Words 37,38,39 are not reachable from the root 0.
-[Tree number 13539 on line 381496]: Non-tree structure. Words 21,22,23,24 are not reachable from the root 0.
-[Tree number 14107 on line 397662]: Non-tree structure. Words 8,9,10,12 are not reachable from the root 0.
-*** FAILED *** with 275488 errors
+[Line                   179438]: Column FORM is not allowed to contain whitespace: '2 278'
+[Line                   179438]: Column LEMMA is not allowed to contain whitespace: '2 278'
+[Line                   179451]: Column FORM is not allowed to contain whitespace: ' 1 345'
+[Line                   179451]: Column LEMMA is not allowed to contain whitespace: '1 345'
+[Line                   179465]: Column FORM is not allowed to contain whitespace: '8 848'
+[Line                   179465]: Column LEMMA is not allowed to contain whitespace: '8 848'
+[Line                   179476]: Column FORM is not allowed to contain whitespace: '1 728'
+[Line                   179476]: Column LEMMA is not allowed to contain whitespace: '1 728'
+[Line                   275958]: Column FORM is not allowed to contain whitespace: '4 800'
+[Line                   289130]: Column FORM is not allowed to contain whitespace: '280 000'
+[Tree number 12064 on line 338355]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
+[Tree number 12459 on line 349622]: Non-tree structure. Words 14,15,16,17,18 are not reachable from the root 0.
+[Tree number 13192 on line 371375]: Non-tree structure. Words 37,38,39 are not reachable from the root 0.
+[Tree number 13539 on line 381493]: Non-tree structure. Words 21,22,23,24 are not reachable from the root 0.
+[Tree number 14107 on line 397659]: Non-tree structure. Words 8,9,10,12 are not reachable from the root 0.
+*** FAILED *** with 275506 errors
 Format errors: 12
-Morpho errors: 275471
+Morpho errors: 275489
 Syntax errors: 5
 
 
