@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-24T20:36:44Z">2016-04-24T20:36:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-24T21:03:33Z">2016-04-24T21:03:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -534,118 +534,28 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-24T20:36:43Z">2016-04-24T20:36:43 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-24T21:03:32Z">2016-04-24T21:03:32 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-dev.conllu
+python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-dev.conllu
 
-[Line                   24]: Unknown attribute-value pair NumForm=Word
-[Line                   35]: Unknown attribute-value pair NameType=Nat
-[Line                   44]: Unknown attribute-value pair NumForm=Word
-[Line                   103]: Unknown attribute-value pair NumForm=Word
-[Line                   219]: Unknown UD DEPREL: nummod:gov
-[Line                   267]: Unknown attribute-value pair PunctType=Peri
-[Line                   275]: Unknown attribute-value pair PunctType=Peri
-[Line                   285]: Unknown attribute-value pair PunctType=Peri
-[Line                   293]: Unknown attribute-value pair PunctType=Peri
-[Line                   302]: Unknown attribute-value pair PunctType=Peri
-[Line                   311]: Unknown attribute-value pair PunctType=Peri
-[Line                   320]: Unknown attribute-value pair NumForm=Word
-[Line                   321]: Unknown attribute-value pair NumForm=Word
-[Line                   325]: Unknown attribute-value pair PunctType=Peri
-[Line                   336]: Unknown attribute-value pair PunctType=Peri
-[Line                   347]: Unknown attribute-value pair PunctType=Peri
-[Line                   355]: Unknown attribute-value pair PunctType=Peri
-[Line                   360]: Unknown attribute-value pair NumForm=Word
-[Line                   360]: Unknown UD DEPREL: nummod:gov
-[Line                   361]: Unknown attribute-value pair NumForm=Word
-[Line                   367]: Unknown attribute-value pair PunctType=Peri
-...suppressing further errors regarding Morpho
-[Line                   385]: Unknown UD DEPREL: advmod:emph
-[Line                   746]: Unknown UD DEPREL: advmod:emph
-[Line                   983]: Unknown UD DEPREL: nummod:gov
-*** FAILED *** with 118 errors
-Morpho errors: 113
-Syntax errors: 5
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-test.conllu
+python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-test.conllu
 
-[Line                   50]: Unknown attribute-value pair NumForm=Word
-[Line                   224]: Unknown attribute-value pair NumForm=Word
-[Line                   287]: Unknown attribute-value pair PunctType=Peri
-[Line                   297]: Unknown attribute-value pair PunctType=Peri
-[Line                   310]: Unknown attribute-value pair PunctType=Peri
-[Line                   317]: Unknown attribute-value pair PunctType=Peri
-[Line                   326]: Unknown attribute-value pair PunctType=Peri
-[Line                   333]: Unknown attribute-value pair PunctType=Peri
-[Line                   343]: Unknown attribute-value pair PunctType=Peri
-[Line                   360]: Unknown attribute-value pair PunctType=Peri
-[Line                   371]: Unknown attribute-value pair PunctType=Peri
-[Line                   381]: Unknown attribute-value pair PunctType=Peri
-[Line                   394]: Unknown attribute-value pair PunctType=Peri
-[Line                   399]: Unknown attribute-value pair NumForm=Word
-[Line                   404]: Unknown attribute-value pair PunctType=Peri
-[Line                   411]: Unknown attribute-value pair NumForm=Word
-[Line                   418]: Unknown attribute-value pair PunctType=Peri
-[Line                   431]: Unknown attribute-value pair PunctType=Peri
-[Line                   442]: Unknown attribute-value pair PunctType=Peri
-...suppressing further errors regarding Morpho
-*** FAILED *** with 118 errors
-Morpho errors: 118
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-train.conllu
+python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
-[Line                   65]: Unknown attribute-value pair NumForm=Word
-[Line                   97]: Unknown attribute-value pair NumForm=Word
-[Line                   110]: Unknown attribute-value pair VerbType=Mod
-[Line                   300]: Unknown attribute-value pair NameType=Nat
-[Line                   309]: Unknown attribute-value pair NumForm=Word
-[Line                   347]: Unknown attribute-value pair NumForm=Word
-[Line                   360]: Unknown attribute-value pair NumForm=Word
-[Line                   360]: Unknown UD DEPREL: nummod:gov
-[Line                   581]: Unknown attribute-value pair NumForm=Word
-[Line                   772]: Unknown attribute-value pair NumForm=Word
-[Line                   958]: Unknown attribute-value pair NumForm=Word
-[Line                   1049]: Unknown attribute-value pair NumForm=Word
-[Line                   1101]: Unknown attribute-value pair NumForm=Word
-[Line                   1128]: Unknown attribute-value pair NumForm=Word
-[Line                   1142]: Unknown attribute-value pair NumForm=Word
-[Line                   1159]: Unknown attribute-value pair NumForm=Word
-[Line                   1210]: Unknown attribute-value pair NumForm=Word
-[Line                   1225]: Unknown attribute-value pair NumForm=Word
-[Line                   1370]: Unknown attribute-value pair NumForm=Word
-[Line                   1430]: Unknown attribute-value pair NumForm=Word
-...suppressing further errors regarding Morpho
-[Line                   1467]: Unknown UD DEPREL: nummod:gov
-[Line                   1487]: Unknown UD DEPREL: nummod:gov
-[Line                   2585]: Unknown UD DEPREL: advmod:emph
-[Line                   2634]: Unknown UD DEPREL: nummod:gov
-[Line                   2968]: Unknown UD DEPREL: nummod:gov
-[Line                   3081]: Unknown UD DEPREL: nummod:gov
-[Line                   3183]: Unknown UD DEPREL: nummod:gov
-[Line                   3295]: Unknown UD DEPREL: nummod:gov
-[Line                   4133]: Unknown UD DEPREL: nummod:gov
-[Line                   4492]: Unknown UD DEPREL: advmod:emph
-[Line                   4933]: Unknown UD DEPREL: advmod:emph
-[Line                   5222]: Unknown UD DEPREL: advmod:emph
-[Line                   5454]: Unknown UD DEPREL: nummod:gov
-[Line                   5458]: Unknown UD DEPREL: nummod:gov
-[Line                   7237]: Unknown UD DEPREL: advmod:emph
-[Line                   7253]: Unknown UD DEPREL: nummod:gov
-[Line                   7340]: Unknown UD DEPREL: nummod:gov
-[Line                   7587]: Unknown UD DEPREL: nummod:gov
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1019 errors
-Morpho errors: 999
-Syntax errors: 20
+*** PASSED ***
 
 
 ******************
