@@ -45,6 +45,7 @@ iobj(irakasten-13, guria-9)
 
 
 ***Ikasleei** esan zien arratsaldean ikasi behar zutela* 
+
 *She told **the students** that they needed to study this evening*
 
 ~~~ sdparse
