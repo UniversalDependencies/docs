@@ -21,6 +21,7 @@ dobj(errefusatu-4, Konstituzioa-3)
 aux(errefusatu-4, zuela-5)
 ccomp(oroitarazi-6,errefusatu-4)
 aux(oroitarazi-6, zuen-7)
+punct(.,  oroitarazi-6)	
 ~~~
 
 
