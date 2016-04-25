@@ -8,7 +8,7 @@ The direct object (`dobj`) of a verb is the noun phrase that denotes the entity 
 
 *Euskal	gizarteak **Konstituzioa-ABS** errefusatu zuela oroitarazi zuen*
 
-*Basque society   **Constitution-ABS**   refused   that     reminded*    (he/she - elided subject)
+*Basque society   **Constitution-ABS**   refused   that     reminded*     (elided subject)
 
 *He/she reminded that Basque society refused **the Constitution-ABS***
 
