@@ -8,9 +8,9 @@ A clausal complement of a verb (((or adjective))) is a dependent clause which is
 
 *Arazoa da ez **daudela** instituzioak arau horiek **betetzen** diren bermatzeko*
 
-*The problem is not there are **that** institutions those rules to guarantee whether are observed*
+*The problem is not there are **that** institutions those rules to guarantee **whether** are observed*
 
-*The problem is **that** there are not institutions to guarantee whether those rules are observed*
+*The problem is **that** there are not institutions to guarantee **whether** those rules are observed*
  
 ~~~ sdparse
 Arazoa da ez daudela instituzioak arau horiek betetzen diren bermatzeko \n The problem is that there are not institutions to guarantee whether those rules are observed
