@@ -32,7 +32,7 @@ appos(Sam-1, brother-4)
 appos(Sam-1, cousin-8)
 ~~~
 
-Note however that nested apposition cannot be completely excluded. It may occur in an interaction with coordination:
+Note however that nested apposition cannot be completely excluded. It may occur in combination with coordination:
 
 ~~~ sdparse
 You can choose between four subjects : language ( German or French ) , economy , technology and art .
