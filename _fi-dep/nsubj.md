@@ -18,4 +18,3 @@ nmod(tuli-2, töistä-3)
 punct(tuli-2, .-4)
 ~~~
 
-jj
