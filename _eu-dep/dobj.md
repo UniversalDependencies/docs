@@ -13,7 +13,7 @@ The direct object (`dobj`) of a verb is the noun phrase that denotes the entity 
 *He/she reminded that Basque society refused **the Constitution-ABS***.
 
 ~~~ sdparse
-Euskal	gizarteak Konstituzioa errefusatu zuela oroitarazi zuen .\n He reminded that Basque society refused the Constitution-ABS . 
+Euskal	gizarteak Konstituzioa errefusatu zuela oroitarazi zuen .\n He reminded that Basque society refused the Constitution-ABS 
 
 nmod(Euskal-1, gizarteak-2)
 nsubj(errefusatu-4, gizarteak-2)
