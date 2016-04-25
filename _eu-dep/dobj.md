@@ -11,7 +11,7 @@ Euskal	gizarteak Konstituzioa-ABS errefusatu zuela oroitarazi zuen .
 He reminded that Basque society refused the Constitution-ABS. 
  
 ~~~ sdparse
-Euskal	gizarteak Konstituzioa errefusatu zuela oroitarazi zuen .\n He reminded that Basque society refused the Constitution-ABS . 
+Euskal	gizarteak Konstituzioa errefusatu zuela oroitarazi zuen .\n He reminded that Basque_society refused the_Constitution-ABS . 
 
 nmod(Euskal-1, gizarteak-2)
 nsubj(errefusatu-4, gizarteak-2)
