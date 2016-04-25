@@ -13,7 +13,7 @@ non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 But when attaching to a noun, it usually corresponds to a non-agreeing attribute in genitive. 
 
-In Czech the `nmod` relation covers only those possessives that are expressed using the genitive [cs-feat/Case]().
+In Russian the `nmod` relation covers only those possessives that are expressed using the genitive.
 If a possessive adjective is used, the relation is labeled [amod]().
 
 ~~~ sdparse
