@@ -32,6 +32,20 @@ appos(Sam-1, brother-4)
 appos(Sam-1, cousin-8)
 ~~~
 
+Note however that nested apposition cannot be completely excluded. It may occur in an interaction with coordination:
+
+~~~ sdparse
+You can choose between four subjects : language ( German or French ) , economy , technology and art .
+appos(subjects, language)
+conj(language, economy)
+conj(language, technology)
+conj(language, art)
+cc(language, and)
+appos(language, German)
+conj(German, French)
+cc(German, or)
+~~~
+
 *appos* is also used to link key-value pairs in addresses, signatures, etc. (see also the [list]() label):
 
 ~~~ sdparse
