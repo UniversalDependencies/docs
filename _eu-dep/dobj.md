@@ -6,9 +6,9 @@ shortdef: 'direct object'
 
 The direct object (`dobj`) of a verb is the noun phrase that denotes the entity acted upon. Basque is a morphologically ergative language , and the direct object is always marked with the accusative case. 
 
-*Euskal	gizarteak *Konstituzioa-ABS* errefusatu zuela oroitarazi zuen*.
+*Euskal	gizarteak **Konstituzioa-ABS** errefusatu zuela oroitarazi zuen*.
 
-*Basque society    *Constitution-ABS*   refused   that     reminded*    (he/she - elided subject)
+*Basque society    **Constitution-ABS**   refused   that     reminded*    (he/she - elided subject)
 
 *"He/she reminded that Basque society refused the Constitution-ABS"*.
 
