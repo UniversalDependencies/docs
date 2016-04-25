@@ -4,13 +4,23 @@ title: 'ccomp'
 shortdef: 'clausal complement'
 ---
 
-A clausal complement of a verb (((or adjective))) (`ccomp`) is a dependent clause which is a core argument, that is, it functions like an object of the verb, (((or adjective))). Such clausal complements need to be finite (the relation that corresponds to non finite clausal complements is xcomp).
+A clausal complement of a verb (((or adjective))) is a dependent clause which is a core argument, that is, it functions like an object of the verb, (((or adjective))). Such clausal complements need to be finite (the relation that corresponds to non finite clausal complements is xcomp).
 
-Arazoa da ez daudela instituzioak arau horiek betetzen diren bermatzeko .
-The problem is that there are not institutions to guarantee whether those rules are observed . 
+*Djukanovicek aldaketa handia eman dio **bere ildo politikoari***
+*Djukanovic      a big change   has given  **to his political course***
+*Djukanovic has given a big change **to his political course-DAT***
+
+
+
+*Arazoa da ez **daudela** instituzioak arau horiek **betetzen** diren bermatzeko*
+
+*The problem is not there are that institutions those rules to guarantee whether are observed*
+
+*The problem is that there are not institutions to guarantee whether those rules are observed*
+ 
 
 ~~~ sdparse
-Arazoa da ez daudela instituzioak arau horiek betetzen diren bermatzeko .\n The problem is that there are not institutions to guarantee whether those rules are observed .
+Arazoa da ez daudela instituzioak arau horiek betetzen diren bermatzeko \n The problem is that there are not institutions to guarantee whether those rules are observed
 
 nsubj(da-2, Arazoa-1)
 neg(daudela-4, ez-3)
@@ -22,5 +32,4 @@ aux(betetzen-8, diren-9)
 ccomp(bermatzeko-10, betetzen-8)
 advcl(daudela-4,  bermatzeko-10)
 ~~~
-
 
