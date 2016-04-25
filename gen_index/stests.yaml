@@ -65,15 +65,6 @@
   link: http://universaldependencies.org/u/dep/appos.html
 
 -
-  name: Appos chain
-  required_empty: true
-  expr: "_ <appos (_ <appos _)"
-  pos_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(Sam, cousin)"
-  neg_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(brother, cousin)"
-  desc: Apposition dependencies should not be chained. Either all depend on the first one, or there is coordination of dependents.
-  link: http://universaldependencies.org/u/dep/appos.html
-
--
   name: Non-passive subject with passive auxiliary
   required_empty: true
   expr: "_ >nsubj|>csubj _ >auxpass|>auxpass:refl _"
@@ -163,6 +154,15 @@
   expr-pos: _ <case _
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> A word marked as a NOUN should not be a case dependency.
   link: http://universaldependencies.org/docs/u/dep/case.html
+
+-
+  name: Appos chain
+  required_empty: true
+  expr: "_ <appos (_ <appos _)"
+  pos_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(Sam, cousin)"
+  neg_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(brother, cousin)"
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Apposition dependencies should not be chained. Either all depend on the first one, or there is coordination of dependents.
+  link: http://universaldependencies.org/u/dep/appos.html
 
 -
   name: Relation advmod used for node that is not ADV
