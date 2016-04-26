@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T12:06:57Z">2016-04-26T12:06:57 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T12:09:43Z">2016-04-26T12:09:43 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,40 +599,28 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T12:03:41Z">2016-04-26T12:03:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T12:09:23Z">2016-04-26T12:09:23 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
-[Line                   3]: Unknown attribute-value pair Connegative=Yes
-[Line                   4]: Unknown attribute-value pair Style=Coll
-[Line                   5]: Unknown attribute-value pair Style=Coll
-[Line                   9]: Unknown attribute-value pair Style=Coll
-[Line                   15]: Unknown attribute-value pair Connegative=Yes
-[Line                   16]: Unknown attribute-value pair Style=Coll
-[Line                   17]: Unknown attribute-value pair Style=Coll
-[Line                   18]: Unknown attribute-value pair Style=Coll
-[Line                   24]: Unknown attribute-value pair Style=Coll
-[Line                   25]: Unknown attribute-value pair Style=Coll
-[Line                   29]: Unknown attribute-value pair Style=Coll
-[Line                   30]: Unknown attribute-value pair Style=Coll
-[Line                   35]: Unknown attribute-value pair Connegative=Yes
-[Line                   35]: Unknown attribute-value pair Style=Coll
-[Line                   38]: Unknown attribute-value pair Style=Coll
-[Line                   40]: Unknown attribute-value pair Style=Coll
-[Line                   41]: Unknown attribute-value pair Style=Coll
-[Line                   42]: Unknown attribute-value pair Style=Coll
-[Line                   43]: Unknown attribute-value pair Style=Coll
-...suppressing further errors regarding Morpho
 [Line                   204]: Unknown UD DEPREL: xcomp:ds
 [Line                   245]: Unknown UD DEPREL: nmod:own
+[Line                   335]: Unknown attribute-value pair PunctSide=Ini
+[Line                   340]: Unknown attribute-value pair PunctSide=Fin
+[Line                   476]: Unknown attribute-value pair PunctSide=Ini
+[Line                   478]: Unknown attribute-value pair PunctSide=Fin
 [Line                   536]: Unknown UD DEPREL: xcomp:ds
+[Line                   885]: Unknown attribute-value pair PunctSide=Ini
+[Line                   898]: Unknown attribute-value pair PunctSide=Fin
 [Line                   924]: Unknown UD DEPREL: compound:prt
 [Line                   1067]: Unknown UD DEPREL: xcomp:ds
 [Line                   1158]: Unknown UD DEPREL: compound:nn
 [Line                   1410]: Unknown UD DEPREL: compound:prt
+[Line                   1423]: Unknown attribute-value pair PunctSide=Ini
 [Line                   1432]: Unknown UD DEPREL: compound:prt
+[Line                   1435]: Unknown attribute-value pair PunctSide=Fin
 [Line                   1445]: Unknown UD DEPREL: compound:prt
 [Line                   1453]: Unknown UD DEPREL: nmod:own
 [Line                   1533]: Unknown UD DEPREL: compound:prt
@@ -645,38 +633,34 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 [Line                   1888]: Unknown UD DEPREL: xcomp:ds
 [Line                   2192]: Unknown UD DEPREL: nmod:own
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 1059 errors
-Morpho errors: 843
+[Line                   3379]: Unknown attribute-value pair PunctSide=Ini
+[Line                   3381]: Unknown attribute-value pair PunctSide=Fin
+[Line                   5687]: Unknown attribute-value pair PunctSide=Ini
+[Line                   5689]: Unknown attribute-value pair PunctSide=Fin
+[Line                   7144]: Unknown attribute-value pair PunctSide=Ini
+[Line                   7146]: Unknown UPOS tag: SYMBOL
+[Line                   7147]: Unknown attribute-value pair PunctSide=Fin
+[Line                   8407]: Unknown attribute-value pair PunctSide=Ini
+[Line                   8409]: Unknown attribute-value pair PunctSide=Fin
+[Line                   8599]: Unknown attribute-value pair PunctSide=Ini
+[Line                   8601]: Unknown attribute-value pair PunctSide=Fin
+...suppressing further errors regarding Morpho
+*** FAILED *** with 257 errors
+Morpho errors: 41
 Syntax errors: 216
 
 
 ******************
 
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
 
-[Line                   3]: Unknown attribute-value pair Style=Coll
-[Line                   4]: Unknown attribute-value pair Style=Coll
-[Line                   5]: Unknown attribute-value pair Style=Coll
-[Line                   11]: Unknown attribute-value pair Style=Coll
-[Line                   16]: Unknown attribute-value pair Style=Coll
-[Line                   17]: Unknown attribute-value pair Style=Coll
-[Line                   19]: Unknown attribute-value pair Connegative=Yes
-[Line                   23]: Unknown attribute-value pair Style=Coll
-[Line                   24]: Unknown attribute-value pair Style=Coll
-[Line                   30]: Unknown attribute-value pair Connegative=Yes
-[Line                   30]: Unknown attribute-value pair Style=Coll
-[Line                   33]: Unknown attribute-value pair Style=Coll
-[Line                   35]: Unknown attribute-value pair Style=Coll
-[Line                   36]: Unknown attribute-value pair Style=Coll
-[Line                   37]: Unknown attribute-value pair Style=Coll
-[Line                   38]: Unknown attribute-value pair Style=Coll
-[Line                   39]: Unknown attribute-value pair Style=Coll
-[Line                   40]: Unknown attribute-value pair Style=Coll
-[Line                   45]: Unknown attribute-value pair Style=Coll
-...suppressing further errors regarding Morpho
 [Line                   410]: Unknown UD DEPREL: nmod:gobj
 [Line                   560]: Unknown UD DEPREL: nmod:own
 [Line                   710]: Unknown UD DEPREL: xcomp:ds
+[Line                   835]: Unknown attribute-value pair PunctSide=Ini
+[Line                   850]: Unknown attribute-value pair PunctSide=Fin
+[Line                   939]: Unknown attribute-value pair PunctSide=Ini
+[Line                   947]: Unknown attribute-value pair PunctSide=Fin
 [Line                   971]: Unknown UD DEPREL: compound:nn
 [Line                   1028]: Unknown UD DEPREL: nmod:own
 [Line                   1233]: Unknown UD DEPREL: compound:prt
@@ -693,36 +677,32 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 [Line                   2037]: Unknown UD DEPREL: nmod:own
 [Line                   2076]: Unknown UD DEPREL: compound:prt
 [Line                   2082]: Unknown UD DEPREL: nmod:gsubj
+[Line                   2176]: Unknown attribute-value pair PunctSide=Ini
+[Line                   2178]: Unknown attribute-value pair PunctSide=Fin
+[Line                   2241]: Unknown attribute-value pair PunctSide=Ini
+[Line                   2246]: Unknown attribute-value pair PunctSide=Fin
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 917 errors
-Morpho errors: 704
+[Line                   3393]: Unknown UPOS tag: SYMBOL
+[Line                   5193]: Unknown attribute-value pair PunctSide=Ini
+[Line                   5203]: Unknown attribute-value pair PunctSide=Fin
+[Line                   5482]: Unknown attribute-value pair PunctSide=Ini
+[Line                   5484]: Unknown attribute-value pair PunctSide=Fin
+[Line                   5505]: Unknown attribute-value pair PunctSide=Ini
+[Line                   5507]: Unknown attribute-value pair PunctSide=Fin
+[Line                   5861]: Unknown attribute-value pair PunctSide=Ini
+[Line                   5865]: Unknown attribute-value pair PunctSide=Fin
+[Line                   10753]: Unknown attribute-value pair PunctSide=Ini
+[Line                   10755]: Unknown attribute-value pair PunctSide=Fin
+...suppressing further errors regarding Morpho
+*** FAILED *** with 252 errors
+Morpho errors: 39
 Syntax errors: 213
 
 
 ******************
 
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
-[Line                   5]: Unknown attribute-value pair Style=Coll
-[Line                   7]: Unknown attribute-value pair Style=Coll
-[Line                   17]: Unknown attribute-value pair Style=Coll
-[Line                   21]: Unknown attribute-value pair Style=Coll
-[Line                   22]: Unknown attribute-value pair Style=Coll
-[Line                   26]: Unknown attribute-value pair Style=Coll
-[Line                   30]: Unknown attribute-value pair Style=Coll
-[Line                   31]: Unknown attribute-value pair Style=Coll
-[Line                   33]: Unknown attribute-value pair Style=Coll
-[Line                   34]: Unknown attribute-value pair Style=Coll
-[Line                   37]: Unknown attribute-value pair Style=Coll
-[Line                   43]: Unknown attribute-value pair Style=Coll
-[Line                   46]: Unknown attribute-value pair Connegative=Yes
-[Line                   46]: Unknown attribute-value pair Style=Coll
-[Line                   50]: Unknown attribute-value pair Style=Coll
-[Line                   52]: Unknown attribute-value pair Connegative=Yes
-[Line                   53]: Unknown attribute-value pair Style=Coll
-[Line                   54]: Unknown attribute-value pair Style=Coll
-[Line                   55]: Unknown attribute-value pair Style=Coll
-...suppressing further errors regarding Morpho
 [Line                   96]: Unknown UD DEPREL: compound:prt
 [Line                   248]: Unknown UD DEPREL: nmod:own
 [Line                   269]: Unknown UD DEPREL: xcomp:ds
@@ -735,18 +715,38 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 [Line                   2021]: Unknown UD DEPREL: nmod:gobj
 [Line                   2100]: Unknown UD DEPREL: nmod:own
 [Line                   2159]: Unknown UD DEPREL: nmod:own
+[Line                   2498]: Unknown attribute-value pair PunctSide=Ini
+[Line                   2502]: Unknown attribute-value pair PunctSide=Fin
+[Line                   2543]: Unknown attribute-value pair PunctSide=Ini
+[Line                   2545]: Unknown attribute-value pair PunctSide=Fin
 [Line                   2552]: Unknown UD DEPREL: compound:nn
+[Line                   2576]: Unknown attribute-value pair PunctSide=Ini
+[Line                   2578]: Unknown attribute-value pair PunctSide=Fin
 [Line                   2588]: Unknown UD DEPREL: compound:nn
+[Line                   2641]: Unknown attribute-value pair PunctSide=Ini
+[Line                   2644]: Unknown attribute-value pair PunctSide=Fin
 [Line                   2663]: Unknown UD DEPREL: nmod:own
 [Line                   2674]: Unknown UD DEPREL: nmod:gobj
 [Line                   2810]: Unknown UD DEPREL: compound:nn
 [Line                   2816]: Unknown UD DEPREL: compound:nn
 [Line                   2838]: Unknown UD DEPREL: compound:nn
 ...suppressing further errors regarding Syntax
+[Line                   3496]: Unknown attribute-value pair PunctSide=Ini
+[Line                   3498]: Unknown attribute-value pair PunctSide=Fin
+[Line                   5411]: Unknown attribute-value pair PunctSide=Ini
+[Line                   5418]: Unknown attribute-value pair PunctSide=Fin
+[Line                   5520]: Unknown attribute-value pair PunctSide=Ini
+[Line                   5522]: Unknown attribute-value pair PunctSide=Fin
+[Line                   5548]: Unknown attribute-value pair PunctSide=Ini
+[Line                   5550]: Unknown attribute-value pair PunctSide=Fin
+[Line                   5553]: Unknown attribute-value pair PunctSide=Ini
+[Line                   5555]: Unknown attribute-value pair PunctSide=Fin
+[Line                   6467]: Unknown attribute-value pair PunctSide=Ini
+...suppressing further errors regarding Morpho
 [Tree number 2722 on line 25051]: HEAD == ID for 4
-*** FAILED *** with 7795 errors
+*** FAILED *** with 2073 errors
 Format errors: 1
-Morpho errors: 6120
+Morpho errors: 398
 Syntax errors: 1674
 
 
