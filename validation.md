@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T11:15:33Z">2016-04-26T11:15:33 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T11:23:39Z">2016-04-26T11:23:39 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -598,28 +598,58 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T11:15:15Z">2016-04-26T11:15:15 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T11:23:23Z">2016-04-26T11:23:23 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
-
-*** PASSED ***
-
-
-******************
-
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
-*** PASSED ***
+[Line                   5]: Unknown attribute-value pair Style=Coll
+[Line                   7]: Unknown attribute-value pair Style=Coll
+[Line                   17]: Unknown attribute-value pair Style=Coll
+[Line                   21]: Unknown attribute-value pair Style=Coll
+[Line                   22]: Unknown attribute-value pair Style=Coll
+[Line                   26]: Unknown attribute-value pair Style=Coll
+[Line                   30]: Unknown attribute-value pair Style=Coll
+[Line                   31]: Unknown attribute-value pair Style=Coll
+[Line                   33]: Unknown attribute-value pair Style=Coll
+[Line                   34]: Unknown attribute-value pair Style=Coll
+[Line                   37]: Unknown attribute-value pair Style=Coll
+[Line                   43]: Unknown attribute-value pair Style=Coll
+[Line                   46]: Unknown attribute-value pair Connegative=Yes
+[Line                   46]: Unknown attribute-value pair Style=Coll
+[Line                   50]: Unknown attribute-value pair Style=Coll
+[Line                   52]: Unknown attribute-value pair Connegative=Yes
+[Line                   53]: Unknown attribute-value pair Style=Coll
+[Line                   54]: Unknown attribute-value pair Style=Coll
+[Line                   55]: Unknown attribute-value pair Style=Coll
+[Line                   55]: Unknown UD DEPREL: :::advl
+[Line                   55]: Invalid DEPREL value :::advl
+...suppressing further errors regarding Morpho
+[Line                   80]: Unknown UD DEPREL: :::pun
+[Line                   80]: Invalid DEPREL value :::pun
+[Line                   83]: Unknown UD DEPREL: :::pun
+[Line                   83]: Invalid DEPREL value :::pun
+[Line                   86]: Unknown UD DEPREL: :::pun
+[Line                   86]: Invalid DEPREL value :::pun
+[Line                   88]: Unknown UD DEPREL: :::pun
+[Line                   88]: Invalid DEPREL value :::pun
+[Line                   93]: Unknown UD DEPREL: :::pun
+[Line                   93]: Invalid DEPREL value :::pun
+[Line                   96]: Unknown UD DEPREL: compound:prt
+[Line                   98]: Unknown UD DEPREL: :::pun
+[Line                   98]: Invalid DEPREL value :::pun
+[Line                   104]: Unknown UD DEPREL: :::pun
+[Line                   104]: Invalid DEPREL value :::pun
+[Line                   117]: Unknown UD DEPREL: :::pun
+[Line                   117]: Invalid DEPREL value :::pun
+...suppressing further errors regarding Syntax
+[Tree number 2722 on line 25051]: HEAD == ID for 4
+*** FAILED *** with 45365 errors
+Format errors: 1
+Morpho errors: 7762
+Syntax errors: 37602
 
 
 ******************
