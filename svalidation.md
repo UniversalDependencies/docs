@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-26T12:05:13Z">2016-04-26T12:05:13 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-26T12:56:22Z">2016-04-26T12:56:22 zulu</time>
 
 # Aux chain
 
@@ -12457,7 +12457,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Norwegian</span>
-<span class="widespan">81 hits</span>
+<span class="widespan">0 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21PUNCT+%3Cpunct+_&db=UD_Norwegian-dev">Go to search</a><p/>
