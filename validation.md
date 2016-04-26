@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T09:46:21Z">2016-04-26T09:46:21 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T09:47:40Z">2016-04-26T09:47:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1745,12 +1745,33 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T09:46:21Z">2016-04-26T09:46:21 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T09:47:37Z">2016-04-26T09:47:37 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
 </pre>
 </div>
 <div>
