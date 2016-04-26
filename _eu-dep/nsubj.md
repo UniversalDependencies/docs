@@ -8,11 +8,11 @@ The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a mor
 
 Example of a subject in an intransitive sentence:
 
-***Bi zati** hauek markaturik dauden tokietatik tolesten dira*
+***Bi zati hauek** markaturik dauden tokietatik tolesten dira*
 
-***Two parts** these-abs marked are-that places  aux-intrans-present .*
+***Two parts these-abs** marked are-that places  aux-intrans-present .*
 
-***These** two parts fold by the places that are marked*
+***These two parts** fold by the places that are marked*
 
 
 ~~~ sdparse
