@@ -17,6 +17,6 @@ nsubj(wrote, Shostakovich)
 ~~~ sdparse
 Автомобиль красный . \n Car is-red .
 nsubj(красный, Автомобиль)
-nsubj(red, Car)
+nsubj(is-red, Car)
 ~~~
 
