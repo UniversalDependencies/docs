@@ -18,10 +18,10 @@ iobj(gave, Peter)
 However, Russian allows other semantic roles as additional objects.
 The morphological [ru-feat/Case]() of the objects is dictated by verb valency.
 
-In the following Russian example, the verb takes two argumentse. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (cf. a similar sentence, _he gave my daughter a class of maths_).
+In the following Russian example, the verb takes two arguments. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (cf. a similar sentence, _he gave my daughter a class of maths_).
 
 ~~~ sdparse
-Он преподает моей дочери математику. \n He teaches my daughter.Dat maths.Acc .
+Он преподает моей дочери математику . \n He teaches my daughter.Dat maths.Acc .
 dobj(преподает, математику)
 iobj(преподает, дочери)
 dobj(teaches, maths.Acc)
@@ -40,7 +40,7 @@ dobj(teaches, maths)
 ~~~
 
 ~~~ sdparse
-Он преподает студентам . \n He teaches students.
+Он преподает студентам . \n He teaches students .
 dobj(преподает, студентам)
 dobj(teaches, students)
 ~~~
@@ -50,7 +50,7 @@ Then the clausal complement is regarded as a “clausal direct object” and an 
 the simple ditransitive case:
 
 ~~~ sdparse
-Она сказала студентам, что сегодня вечером нужно учиться . \n She told students , that today evening they-needed to-study .
+Она сказала студентам , что сегодня вечером нужно учиться . \n She told students , that today evening they-needed to-study .
 iobj(сказала, студентам)
 ccomp(сказала, нужно)
 iobj(told, students)
