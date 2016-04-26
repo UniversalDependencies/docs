@@ -35,15 +35,14 @@ adv(biltzea, lehenbailehen)
 ~~~ 
 
 
-*mentalki oso **irmo** ikusi ditut haiek*
+*mentalki **irmo** ikusi ditut haiek*
 
-*I have seen them mentally very **firm***
+*I have seen them mentally **firm***
 
 ~~~ sdparse
-mentalki oso irmo ikusi ditut haiek \n   I have seen them mentally very firm
+mentalki irmo ikusi ditut haiek \n   I have seen them mentally firm
 
 adv(ikusi, mentalki)
-adv(irmo, oso)
 xcomp(ikusi, irmo)
 aux(ikusi, ditut)
 dobj(ikusi, haiek)
