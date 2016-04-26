@@ -21,7 +21,7 @@ xcomp(Do-you-want, to-swim)
 ~~~
 
 ~~~ sdparse
-Я начал там работать вчера . \n I started to-work there yesterday .
+Я начал там работать вчера . \n I started there to-work yesterday .
 xcomp(начал, работать)
 xcomp(started, to-work)
 ~~~
