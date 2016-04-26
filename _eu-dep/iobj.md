@@ -26,19 +26,6 @@ iobj(eman, ildo)
 ~~~
 
 
-~~~ sdparse
-Djukanovicek aldaketa handia eman dio bere ildo politikoari \n Djukanovic has given a big change to his political course 
-
-nsubj(eman-8, Djukanovicek-5)
-dobj(eman-8, aldaketa-6)
-amod(aldaketa-6, handia-7)
-aux(eman-8, dio-9)
-nmod(ildo-11, bere-10)
-amod(ildo-11, politikoari-12)
-iobj(eman-8, ildo-11)
-~~~
-
-
 *Ahalegin haundia egin du **guri-DAT** geografia   irakasten* 
 
 *a great effort       has made **us-DAT**  geography  teaching*
@@ -56,17 +43,6 @@ dobj(irakasten, geografia)
 iobj(irakasten, guria)
 ~~~
 
-
-~~~ sdparse
-Ahalegin haundia egin du guri geografia pittin bat irakasten \n (he/she) has made a great effort teaching us-IOBJ a geography 
-
-amod(ahalegin-5, haundia-6)
-dobj(egin-7, ahalegin-5)
-aux(egin-7, du-8)
-advcl(egin-7, irakasten-13)
-dobj(irakasten-13, geografia-10)
-iobj(irakasten-13, guria-9)
-~~~
 
 
 ***Ikasleei-DAT**   esan zien arratsaldean  ikasi  behar zutela* 
