@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T09:22:04Z">2016-04-26T09:22:04 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T09:28:59Z">2016-04-26T09:28:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -631,7 +631,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T02:46:31Z">2016-04-26T02:46:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T09:28:25Z">2016-04-26T09:28:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -748,16 +748,14 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   289142]: Column FORM is not allowed to contain whitespace: '280 000'
 [Line                   289142]: Column LEMMA is not allowed to contain whitespace: '280 000'
 [Tree number 12064 on line 338367]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
-...suppressing further errors regarding Format
-[Tree number 12089 on line 338995]: Non-tree structure. Words 15 are not reachable from the root 0.
 [Tree number 12459 on line 349635]: Non-tree structure. Words 14,15,16,17,18 are not reachable from the root 0.
 [Tree number 13192 on line 371389]: Non-tree structure. Words 37,38,39 are not reachable from the root 0.
 [Tree number 13539 on line 381507]: Non-tree structure. Words 21,22,23,24 are not reachable from the root 0.
 [Tree number 14107 on line 397673]: Non-tree structure. Words 8,9,10,12 are not reachable from the root 0.
-*** FAILED *** with 276186 errors
-Format errors: 20
-Morpho errors: 276160
-Syntax errors: 6
+*** FAILED *** with 276183 errors
+Format errors: 19
+Morpho errors: 276159
+Syntax errors: 5
 
 
 ******************
