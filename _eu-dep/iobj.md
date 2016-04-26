@@ -41,12 +41,12 @@ iobj(eman-8, ildo-11)
 
 *Ahalegin haundia egin du **guri-DAT** geografia   irakasten* 
 
-*a great effort       has made **us_DAT**  geography  teaching*
+*a great effort       has made **us-DAT**  geography  teaching*
 
 *(He/she) has made a great effort teaching **us-DAT** geography*
 
 ~~~ sdparse
-Ahalegin haundia egin du guri-IOBJ geografia pittin bat irakasten \n (he/she) has made a great effort teaching us-IOBJ a geography 
+Ahalegin haundia egin du guri geografia pittin bat irakasten \n (he/she) has made a great effort teaching us-IOBJ a geography 
 
 amod(ahalegin, haundia)
 dobj(egin, ahalegin)
@@ -58,7 +58,7 @@ iobj(irakasten, guria)
 
 
 ~~~ sdparse
-Ahalegin haundia egin du guri-IOBJ geografia pittin bat irakasten \n (he/she) has made a great effort teaching us-IOBJ a geography 
+Ahalegin haundia egin du guri geografia pittin bat irakasten \n (he/she) has made a great effort teaching us-IOBJ a geography 
 
 amod(ahalegin-5, haundia-6)
 dobj(egin-7, ahalegin-5)
