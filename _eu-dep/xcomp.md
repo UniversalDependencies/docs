@@ -21,7 +21,6 @@ aux(erabaki, zuen)
 ~~~ sdparse
 
 
-
 *alkateek nahi dute lehenbailehen **biltzea***
 
 *mayors want **to meet** as soon as possible*
