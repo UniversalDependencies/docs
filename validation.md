@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T12:58:07Z">2016-04-26T12:58:07 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T13:10:29Z">2016-04-26T13:10:29 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,81 +599,56 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T12:25:48Z">2016-04-26T12:25:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T13:10:09Z">2016-04-26T13:10:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
-[Line                   7146]: Unknown UPOS tag: SYMBOL
-[Line                   11720]: Unknown UPOS tag: SYMBOL
-[Line                   11728]: Unknown UPOS tag: SYMBOL
 [Line                   12174]: Unknown UD DEPREL: subj
-[Line                   13229]: Unknown UPOS tag: SYMBOL
 [Line                   14215]: Unknown UD DEPREL: subj
 [Line                   17580]: Unknown UD DEPREL: subj
-*** FAILED *** with 7 errors
-Morpho errors: 4
+*** FAILED *** with 3 errors
 Syntax errors: 3
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
 
-[Line                   3393]: Unknown UPOS tag: SYMBOL
 [Line                   14366]: Unknown UD DEPREL: subj
 [Line                   14382]: Unknown UD DEPREL: subj
-*** FAILED *** with 3 errors
-Morpho errors: 1
+*** FAILED *** with 2 errors
 Syntax errors: 2
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
-[Line                   15505]: Unknown UPOS tag: SYMBOL
-[Line                   18529]: Unknown UPOS tag: SYMBOL
-[Line                   21292]: Unknown UPOS tag: SYMBOL
-[Line                   23207]: Unknown UPOS tag: SYMBOL
 [Tree number 2722 on line 25051]: HEAD == ID for 4
 [Tree number 2722 on line 25051]: Non-tree structure. Words 4 are not reachable from the root 0.
-[Line                   29979]: Unknown UPOS tag: SYMBOL
-[Line                   39771]: Unknown UPOS tag: SYMBOL
 [Line                   44980]: Unknown UD DEPREL: subj
 [Line                   46319]: Unknown UD DEPREL: subj
-[Line                   47401]: Unknown UPOS tag: SYMBOL
-[Line                   47772]: Unknown UPOS tag: SYMBOL
 [Line                   49104]: Unknown UD DEPREL: subj
-[Line                   54924]: Unknown UPOS tag: SYMBOL
 [Line                   57565]: Unknown UD DEPREL: subj
 [Line                   60785]: Unknown UD DEPREL: subj
-[Line                   64017]: Unknown UPOS tag: SYMBOL
 [Line                   71740]: Unknown UD DEPREL: subj
 [Line                   75369]: Unknown UD DEPREL: subj
-[Line                   78651]: Unknown UPOS tag: SYMBOL
 [Line                   84890]: Unknown UD DEPREL: subj
-[Line                   85009]: Unknown UPOS tag: SYMBOL
-[Line                   86922]: Unknown UPOS tag: SYMBOL
 [Line                   88379]: Unknown UD DEPREL: subj
 [Line                   89695]: Unknown UD DEPREL: subj
 [Line                   90385]: Unknown UD DEPREL: subj
 [Line                   93342]: Unknown UD DEPREL: subj
 [Line                   97432]: Unknown UD DEPREL: subj
-[Line                   101119]: Unknown UPOS tag: SYMBOL
 [Line                   102807]: Unknown UD DEPREL: subj
 [Line                   102812]: Unknown UD DEPREL: subj
-[Line                   104192]: Unknown UPOS tag: SYMBOL
-[Line                   104246]: Unknown UPOS tag: SYMBOL
 [Line                   108997]: Unknown UD DEPREL: subj
-[Line                   110693]: Unknown UPOS tag: SYMBOL
 [Line                   113898]: Unknown UD DEPREL: subj
 [Line                   114008]: Unknown UD DEPREL: subj
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 40 errors
+*** FAILED *** with 23 errors
 Format errors: 1
-Morpho errors: 17
 Syntax errors: 22
 
 
