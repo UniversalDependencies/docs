@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-25T16:06:17Z">2016-04-25T16:06:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T02:47:05Z">2016-04-26T02:47:05 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -631,7 +631,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-25T15:51:08Z">2016-04-25T15:51:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T02:46:31Z">2016-04-26T02:46:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -730,32 +730,34 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 ...suppressing further errors regarding Morpho
 [Line                   9081]: Column FORM is not allowed to contain whitespace: '1 209'
 [Line                   9081]: Column LEMMA is not allowed to contain whitespace: '1 209'
-[Line                   96093]: Column FORM is not allowed to contain whitespace: '3 000'
-[Line                   96093]: Column LEMMA is not allowed to contain whitespace: '3 000'
-[Line                   155214]: Column FORM is not allowed to contain whitespace: '3 135'
-[Line                   155214]: Column LEMMA is not allowed to contain whitespace: '3 135'
-[Line                   179444]: Column FORM is not allowed to contain whitespace: '2 278'
-[Line                   179444]: Column LEMMA is not allowed to contain whitespace: '2 278'
-[Line                   179457]: Column FORM is not allowed to contain whitespace: ' 1 345'
-[Line                   179457]: Column LEMMA is not allowed to contain whitespace: '1 345'
-[Line                   179471]: Column FORM is not allowed to contain whitespace: '8 848'
-[Line                   179471]: Column LEMMA is not allowed to contain whitespace: '8 848'
-[Line                   179482]: Column FORM is not allowed to contain whitespace: '1 728'
-[Line                   179482]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Line                   233571]: Column FORM is not allowed to contain whitespace: '5 000 000'
-[Line                   275968]: Column FORM is not allowed to contain whitespace: '4 800'
-[Line                   275968]: Column LEMMA is not allowed to contain whitespace: '4 800'
-[Line                   289140]: Column FORM is not allowed to contain whitespace: '280 000'
-[Line                   289140]: Column LEMMA is not allowed to contain whitespace: '280 000'
-[Tree number 12064 on line 338365]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
-[Tree number 12459 on line 349632]: Non-tree structure. Words 14,15,16,17,18 are not reachable from the root 0.
-[Tree number 13192 on line 371386]: Non-tree structure. Words 37,38,39 are not reachable from the root 0.
-[Tree number 13539 on line 381504]: Non-tree structure. Words 21,22,23,24 are not reachable from the root 0.
-[Tree number 14107 on line 397670]: Non-tree structure. Words 8,9,10,12 are not reachable from the root 0.
-*** FAILED *** with 275775 errors
-Format errors: 19
-Morpho errors: 275751
-Syntax errors: 5
+[Line                   96095]: Column FORM is not allowed to contain whitespace: '3 000'
+[Line                   96095]: Column LEMMA is not allowed to contain whitespace: '3 000'
+[Line                   155216]: Column FORM is not allowed to contain whitespace: '3 135'
+[Line                   155216]: Column LEMMA is not allowed to contain whitespace: '3 135'
+[Line                   179446]: Column FORM is not allowed to contain whitespace: '2 278'
+[Line                   179446]: Column LEMMA is not allowed to contain whitespace: '2 278'
+[Line                   179459]: Column FORM is not allowed to contain whitespace: ' 1 345'
+[Line                   179459]: Column LEMMA is not allowed to contain whitespace: '1 345'
+[Line                   179473]: Column FORM is not allowed to contain whitespace: '8 848'
+[Line                   179473]: Column LEMMA is not allowed to contain whitespace: '8 848'
+[Line                   179484]: Column FORM is not allowed to contain whitespace: '1 728'
+[Line                   179484]: Column LEMMA is not allowed to contain whitespace: '1 728'
+[Line                   233573]: Column FORM is not allowed to contain whitespace: '5 000 000'
+[Line                   275970]: Column FORM is not allowed to contain whitespace: '4 800'
+[Line                   275970]: Column LEMMA is not allowed to contain whitespace: '4 800'
+[Line                   289142]: Column FORM is not allowed to contain whitespace: '280 000'
+[Line                   289142]: Column LEMMA is not allowed to contain whitespace: '280 000'
+[Tree number 12064 on line 338367]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
+...suppressing further errors regarding Format
+[Tree number 12089 on line 338995]: Non-tree structure. Words 15 are not reachable from the root 0.
+[Tree number 12459 on line 349635]: Non-tree structure. Words 14,15,16,17,18 are not reachable from the root 0.
+[Tree number 13192 on line 371389]: Non-tree structure. Words 37,38,39 are not reachable from the root 0.
+[Tree number 13539 on line 381507]: Non-tree structure. Words 21,22,23,24 are not reachable from the root 0.
+[Tree number 14107 on line 397673]: Non-tree structure. Words 8,9,10,12 are not reachable from the root 0.
+*** FAILED *** with 276186 errors
+Format errors: 20
+Morpho errors: 276160
+Syntax errors: 6
 
 
 ******************
