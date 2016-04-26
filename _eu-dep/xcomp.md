@@ -9,7 +9,7 @@ These clauses are non-finite in Basque (although in some languages can be finite
 
 *atzo entrenamendua **uztea** erabaki zuen*
 
-*yesterday (he/she) decided **to leave** the training* 
+*yesterday decided **to leave** the training* 
 
 ~~~ sdparse
 atzo entrenamendua uztea erabaki zuen \n  yesterday (he/she) decided to leave the training
@@ -24,7 +24,7 @@ aux(erabaki-14, zuen-15)
 atzo entrenamendua uztea erabaki zuen \n  yesterday (he/she) decided to leave the training
 
 advmod(erabaki, atzo)
-dobj(uztea, entrenamendua-12)
+dobj(uztea, entrenamendua)
 xcomp(erabaki, uztea)
 aux(erabaki, zuen)
 ~~~ sdparse
@@ -65,6 +65,17 @@ aux(ikusi-6, ditut-7)
 dobj(ikusi-6, haiek-8)
 ~~~ 
 
+~~~ sdparse
+mentalki oso irmo ikusi ditut haiek \n   I have seen them mentally very firm
+
+adv(ikusi, mentalki)
+adv(irmo, oso)
+xcomp(ikusi, irmo)
+aux(ikusi, ditut)
+dobj(ikusi, haiek)
+~~~ 
+
+
 
 
 *Madrilera **ez joatea** erabaki zuen
@@ -84,7 +95,7 @@ aux(erabaki-11, zuen-12)
 Madrilera ez joatea erabaki zuen \n  (He/she) decided not to go to Madrid
 
 nmod(joatea, Madrilera)
-neg(joatea, ez-9)
+neg(joatea, ez)
 xcomp(erabaki, joatea)
 aux(erabaki, zuen)
 ~~~ 
