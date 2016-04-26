@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T02:47:05Z">2016-04-26T02:47:05 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T07:00:49Z">2016-04-26T07:00:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -87,7 +87,7 @@ python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROI
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-25T14:55:58Z">2016-04-25T14:55:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T07:00:11Z">2016-04-26T07:00:11 zulu</time></span>
 </div>
 <div>
 <pre>
