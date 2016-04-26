@@ -54,7 +54,7 @@ Gune ez hiritarretan bizi dira nagusiki \n  mainly live in non urban areas
 
 nmod(bizi_dira, Gune)
 neg(hiritarretan, ez)
-amod(Gune, hirritarretan)
+amod(Gune, hiritarretan)
 advmod(bizi_dira, nagusiki)
 ~~~
 
