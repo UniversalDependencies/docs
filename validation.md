@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T11:34:16Z">2016-04-26T11:34:16 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T12:04:01Z">2016-04-26T12:04:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,10 +599,108 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T11:23:23Z">2016-04-26T11:23:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T12:03:41Z">2016-04-26T12:03:41 zulu</time></span>
 </div>
 <div>
 <pre>
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
+
+[Line                   3]: Unknown attribute-value pair Connegative=Yes
+[Line                   4]: Unknown attribute-value pair Style=Coll
+[Line                   5]: Unknown attribute-value pair Style=Coll
+[Line                   9]: Unknown attribute-value pair Style=Coll
+[Line                   15]: Unknown attribute-value pair Connegative=Yes
+[Line                   16]: Unknown attribute-value pair Style=Coll
+[Line                   17]: Unknown attribute-value pair Style=Coll
+[Line                   18]: Unknown attribute-value pair Style=Coll
+[Line                   24]: Unknown attribute-value pair Style=Coll
+[Line                   25]: Unknown attribute-value pair Style=Coll
+[Line                   29]: Unknown attribute-value pair Style=Coll
+[Line                   30]: Unknown attribute-value pair Style=Coll
+[Line                   35]: Unknown attribute-value pair Connegative=Yes
+[Line                   35]: Unknown attribute-value pair Style=Coll
+[Line                   38]: Unknown attribute-value pair Style=Coll
+[Line                   40]: Unknown attribute-value pair Style=Coll
+[Line                   41]: Unknown attribute-value pair Style=Coll
+[Line                   42]: Unknown attribute-value pair Style=Coll
+[Line                   43]: Unknown attribute-value pair Style=Coll
+...suppressing further errors regarding Morpho
+[Line                   204]: Unknown UD DEPREL: xcomp:ds
+[Line                   245]: Unknown UD DEPREL: nmod:own
+[Line                   536]: Unknown UD DEPREL: xcomp:ds
+[Line                   924]: Unknown UD DEPREL: compound:prt
+[Line                   1067]: Unknown UD DEPREL: xcomp:ds
+[Line                   1158]: Unknown UD DEPREL: compound:nn
+[Line                   1410]: Unknown UD DEPREL: compound:prt
+[Line                   1432]: Unknown UD DEPREL: compound:prt
+[Line                   1445]: Unknown UD DEPREL: compound:prt
+[Line                   1453]: Unknown UD DEPREL: nmod:own
+[Line                   1533]: Unknown UD DEPREL: compound:prt
+[Line                   1546]: Unknown UD DEPREL: compound:prt
+[Line                   1566]: Unknown UD DEPREL: xcomp:ds
+[Line                   1666]: Unknown UD DEPREL: nmod:own
+[Line                   1795]: Unknown UD DEPREL: compound:prt
+[Line                   1827]: Unknown UD DEPREL: nmod:gobj
+[Line                   1871]: Unknown UD DEPREL: xcomp:ds
+[Line                   1888]: Unknown UD DEPREL: xcomp:ds
+[Line                   2192]: Unknown UD DEPREL: nmod:own
+...suppressing further errors regarding Syntax
+*** FAILED *** with 1059 errors
+Morpho errors: 843
+Syntax errors: 216
+
+
+******************
+
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
+
+[Line                   3]: Unknown attribute-value pair Style=Coll
+[Line                   4]: Unknown attribute-value pair Style=Coll
+[Line                   5]: Unknown attribute-value pair Style=Coll
+[Line                   11]: Unknown attribute-value pair Style=Coll
+[Line                   16]: Unknown attribute-value pair Style=Coll
+[Line                   17]: Unknown attribute-value pair Style=Coll
+[Line                   19]: Unknown attribute-value pair Connegative=Yes
+[Line                   23]: Unknown attribute-value pair Style=Coll
+[Line                   24]: Unknown attribute-value pair Style=Coll
+[Line                   30]: Unknown attribute-value pair Connegative=Yes
+[Line                   30]: Unknown attribute-value pair Style=Coll
+[Line                   33]: Unknown attribute-value pair Style=Coll
+[Line                   35]: Unknown attribute-value pair Style=Coll
+[Line                   36]: Unknown attribute-value pair Style=Coll
+[Line                   37]: Unknown attribute-value pair Style=Coll
+[Line                   38]: Unknown attribute-value pair Style=Coll
+[Line                   39]: Unknown attribute-value pair Style=Coll
+[Line                   40]: Unknown attribute-value pair Style=Coll
+[Line                   45]: Unknown attribute-value pair Style=Coll
+...suppressing further errors regarding Morpho
+[Line                   410]: Unknown UD DEPREL: nmod:gobj
+[Line                   560]: Unknown UD DEPREL: nmod:own
+[Line                   710]: Unknown UD DEPREL: xcomp:ds
+[Line                   971]: Unknown UD DEPREL: compound:nn
+[Line                   1028]: Unknown UD DEPREL: nmod:own
+[Line                   1233]: Unknown UD DEPREL: compound:prt
+[Line                   1306]: Unknown UD DEPREL: compound:prt
+[Line                   1352]: Unknown UD DEPREL: xcomp:ds
+[Line                   1484]: Unknown UD DEPREL: compound:prt
+[Line                   1653]: Unknown UD DEPREL: xcomp:ds
+[Line                   1805]: Unknown UD DEPREL: xcomp:ds
+[Line                   1821]: Unknown UD DEPREL: compound:nn
+[Line                   1840]: Unknown UD DEPREL: xcomp:ds
+[Line                   1863]: Unknown UD DEPREL: xcomp:ds
+[Line                   1878]: Unknown UD DEPREL: nmod:own
+[Line                   1918]: Unknown UD DEPREL: nmod:own
+[Line                   2037]: Unknown UD DEPREL: nmod:own
+[Line                   2076]: Unknown UD DEPREL: compound:prt
+[Line                   2082]: Unknown UD DEPREL: nmod:gsubj
+...suppressing further errors regarding Syntax
+*** FAILED *** with 917 errors
+Morpho errors: 704
+Syntax errors: 213
+
+
+******************
+
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
 [Line                   5]: Unknown attribute-value pair Style=Coll
@@ -624,32 +722,32 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 [Line                   53]: Unknown attribute-value pair Style=Coll
 [Line                   54]: Unknown attribute-value pair Style=Coll
 [Line                   55]: Unknown attribute-value pair Style=Coll
-[Line                   55]: Unknown UD DEPREL: :::advl
-[Line                   55]: Invalid DEPREL value :::advl
 ...suppressing further errors regarding Morpho
-[Line                   80]: Unknown UD DEPREL: :::pun
-[Line                   80]: Invalid DEPREL value :::pun
-[Line                   83]: Unknown UD DEPREL: :::pun
-[Line                   83]: Invalid DEPREL value :::pun
-[Line                   86]: Unknown UD DEPREL: :::pun
-[Line                   86]: Invalid DEPREL value :::pun
-[Line                   88]: Unknown UD DEPREL: :::pun
-[Line                   88]: Invalid DEPREL value :::pun
-[Line                   93]: Unknown UD DEPREL: :::pun
-[Line                   93]: Invalid DEPREL value :::pun
 [Line                   96]: Unknown UD DEPREL: compound:prt
-[Line                   98]: Unknown UD DEPREL: :::pun
-[Line                   98]: Invalid DEPREL value :::pun
-[Line                   104]: Unknown UD DEPREL: :::pun
-[Line                   104]: Invalid DEPREL value :::pun
-[Line                   117]: Unknown UD DEPREL: :::pun
-[Line                   117]: Invalid DEPREL value :::pun
+[Line                   248]: Unknown UD DEPREL: nmod:own
+[Line                   269]: Unknown UD DEPREL: xcomp:ds
+[Line                   397]: Unknown UD DEPREL: compound:prt
+[Line                   473]: Unknown UD DEPREL: xcomp:ds
+[Line                   479]: Unknown UD DEPREL: nmod:gobj
+[Line                   531]: Unknown UD DEPREL: nmod:own
+[Line                   763]: Unknown UD DEPREL: nmod:own
+[Line                   1606]: Unknown UD DEPREL: nmod:own
+[Line                   2021]: Unknown UD DEPREL: nmod:gobj
+[Line                   2100]: Unknown UD DEPREL: nmod:own
+[Line                   2159]: Unknown UD DEPREL: nmod:own
+[Line                   2552]: Unknown UD DEPREL: compound:nn
+[Line                   2588]: Unknown UD DEPREL: compound:nn
+[Line                   2663]: Unknown UD DEPREL: nmod:own
+[Line                   2674]: Unknown UD DEPREL: nmod:gobj
+[Line                   2810]: Unknown UD DEPREL: compound:nn
+[Line                   2816]: Unknown UD DEPREL: compound:nn
+[Line                   2838]: Unknown UD DEPREL: compound:nn
 ...suppressing further errors regarding Syntax
 [Tree number 2722 on line 25051]: HEAD == ID for 4
-*** FAILED *** with 45365 errors
+*** FAILED *** with 7795 errors
 Format errors: 1
-Morpho errors: 7762
-Syntax errors: 37602
+Morpho errors: 6120
+Syntax errors: 1674
 
 
 ******************
