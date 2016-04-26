@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T18:57:10Z">2016-04-26T18:57:10 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T20:23:16Z">2016-04-26T20:23:16 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -631,7 +631,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T18:56:35Z">2016-04-26T18:56:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T20:22:41Z">2016-04-26T20:22:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -657,7 +657,6 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 [Line                   66]: Repeated features are disallowed: ind_pres_3s=y
 [Line                   67]: Spurious morphological feature: 'fs=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 ...suppressing further errors regarding Morpho
-[Tree number 186 on line 5092]: Non-tree structure. Words 3,4,5,6,7,11 are not reachable from the root 0.
 [Line                   10935]: Column FORM is not allowed to contain whitespace: '2 865'
 [Line                   10935]: Column LEMMA is not allowed to contain whitespace: '2 865'
 [Line                   10942]: Column FORM is not allowed to contain whitespace: '3 872'
@@ -670,10 +669,9 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 [Line                   25050]: Column LEMMA is not allowed to contain whitespace: '100 000'
 [Line                   31809]: Column FORM is not allowed to contain whitespace: '80 000'
 [Line                   31809]: Column LEMMA is not allowed to contain whitespace: '80 000'
-*** FAILED *** with 15818 errors
+*** FAILED *** with 15817 errors
 Format errors: 12
 Morpho errors: 15805
-Syntax errors: 1
 
 
 ******************
@@ -742,22 +740,14 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   179473]: Column LEMMA is not allowed to contain whitespace: '8 848'
 [Line                   179484]: Column FORM is not allowed to contain whitespace: '1 728'
 [Line                   179484]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Line                   201695]: Undefined ID in HEAD: 78
-[Tree number 7179 on line 201675]: Non-tree structure. Words 12,13,14,15,16,17,18 are not reachable from the root 0.
 [Line                   233574]: Column FORM is not allowed to contain whitespace: '5 000 000'
 [Line                   275971]: Column FORM is not allowed to contain whitespace: '4 800'
 [Line                   275971]: Column LEMMA is not allowed to contain whitespace: '4 800'
 [Line                   289143]: Column FORM is not allowed to contain whitespace: '280 000'
-...suppressing further errors regarding Format
-[Tree number 12064 on line 338368]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
-[Tree number 12459 on line 349636]: Non-tree structure. Words 14,15,16,17,18 are not reachable from the root 0.
-[Tree number 13192 on line 371390]: Non-tree structure. Words 37,38,39 are not reachable from the root 0.
-[Tree number 13539 on line 381508]: Non-tree structure. Words 21,22,23,24 are not reachable from the root 0.
-[Tree number 14107 on line 397674]: Non-tree structure. Words 8,9,10,12 are not reachable from the root 0.
-*** FAILED *** with 276652 errors
-Format errors: 20
-Morpho errors: 276626
-Syntax errors: 6
+[Line                   289143]: Column LEMMA is not allowed to contain whitespace: '280 000'
+*** FAILED *** with 276644 errors
+Format errors: 19
+Morpho errors: 276625
 
 
 ******************
