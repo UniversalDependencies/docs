@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-26T09:26:52Z">2016-04-26T09:26:52 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-26T09:43:28Z">2016-04-26T09:43:28 zulu</time>
 
 # Aux chain
 
@@ -7315,8 +7315,8 @@ conj(honest, big)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cconj%40R+_&db=UD_Norwegian-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cconj%40R+_&db=UD_Norwegian-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
@@ -7325,7 +7325,7 @@ conj(honest, big)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cconj%40R+_&db=UD_Norwegian-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cconj%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Old_Church_Slavonic</td>
@@ -7879,7 +7879,7 @@ conj(honest, big)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Norwegian</span>
-<span class="widespan">3 hits</span>
+<span class="widespan">0 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cconj%40R+_&db=UD_Norwegian-dev">Go to search</a><p/>
