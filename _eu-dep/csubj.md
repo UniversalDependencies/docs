@@ -14,8 +14,8 @@ A clausal subject (`csubj`) is a clausal syntactic subject of a clause, i.e., th
 ~~~ sdparse
 Orain ezinezkoa da engainatzea \n it is now impossible to deceive 
 
-advmod(da-3, Orain-1)
-csubj(ezinezkoa-2,engainatzea-4)
+advmod(da, Orain)
+csubj(ezinezkoa,engainatzea)
 ~~~
 
 
@@ -29,9 +29,9 @@ csubj(ezinezkoa-2,engainatzea-4)
 ~~~ sdparse
 Hemen inor etxekotzat hartzea zail egiten da \n Here it is difficult to take someone as a relative 
 
-adv(egiten-6, Hemen-1)
-dobj(hartzea-4,inor-2)
-xcomp(hartzea-4,etxekotzat-3)
-xcomp(egiten-6, zail-5)
-aux(egiten-6, da-7)
+adv(egiten, Hemen)
+dobj(hartzea,inor)
+xcomp(hartzea,etxekotzat)
+xcomp(egiten, zail)
+aux(egiten, da)
 ~~~
