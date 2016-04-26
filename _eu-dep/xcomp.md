@@ -52,6 +52,7 @@ adv(biltzea, lehenbailehen)
 ~~~ 
 
 *mentalki oso **irmo** ikusi ditut haiek*
+
 *I have seen them mentally very **firm***
 
 ~~~ sdparse
@@ -67,6 +68,7 @@ dobj(ikusi-6, haiek-8)
 
 
 *Madrilera **ez joatea** erabaki zuen
+
 *(He/she) decided **not to go** to Madrid
 
 ~~~ sdparse
