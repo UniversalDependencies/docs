@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T14:47:27Z">2016-04-26T14:47:27 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T14:56:33Z">2016-04-26T14:56:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1820,28 +1820,69 @@ python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_a
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T14:41:51Z">2016-04-26T14:41:51 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T14:56:21Z">2016-04-26T14:56:21 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
 
-*** PASSED ***
+[Line                   373]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   2400]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   2403]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   3345]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   4386]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   6619]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+*** FAILED *** with 6 errors
+Morpho errors: 6
 
 
 ******************
 
 python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-test.conllu
 
-*** PASSED ***
+[Line                   104]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   3494]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   7991]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   11330]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   11422]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   13294]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   13812]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   15866]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   18283]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   18531]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   18557]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   20615]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+*** FAILED *** with 12 errors
+Morpho errors: 12
 
 
 ******************
 
 python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 
-*** PASSED ***
+[Line                   23]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   1726]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   3755]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   4239]: Spurious morphological feature: 'NumType=Card_'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   4239]: Repeated features are disallowed: Case=Nom|NumType=Card_
+[Line                   4456]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   6504]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   6564]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   6577]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   6593]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   7005]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   7400]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   8094]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   8373]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   8386]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+[Line                   8949]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   9520]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   9535]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Neut|NumType=Card|Number=Sing'
+[Line                   10816]: Morphological features must be sorted: 'Case=Nom|Definite=Ind|Gender=Com|NumType=Card|Number=Sing'
+...suppressing further errors regarding Morpho
+*** FAILED *** with 76 errors
+Morpho errors: 76
 
 
 ******************
