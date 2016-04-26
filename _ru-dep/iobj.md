@@ -10,7 +10,7 @@ The prototypical example is the recipient of ditransitive verbs of
 exchange:
 
 ~~~ sdparse
-Павел дал Петру две груши \n Pavel gave Peter two pears .
+Павел дал Петру две груши . \n Pavel gave Peter two pears .
 iobj(дал, Петру)
 iobj(gave, Peter)
 ~~~
