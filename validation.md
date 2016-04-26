@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T14:02:17Z">2016-04-26T14:02:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T14:17:31Z">2016-04-26T14:17:31 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,13 +599,15 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T13:32:59Z">2016-04-26T13:32:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T14:17:11Z">2016-04-26T14:17:11 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
-*** PASSED ***
+[Line                   12174]: Unknown UD DEPREL: clsubj
+*** FAILED *** with 1 errors
+Syntax errors: 1
 
 
 ******************
@@ -619,10 +621,8 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
-[Tree number 2722 on line 25051]: HEAD == ID for 4
-[Tree number 2722 on line 25051]: Non-tree structure. Words 4 are not reachable from the root 0.
-*** FAILED *** with 2 errors
-Format errors: 1
+[Line                   93342]: Unknown UD DEPREL: clsubj
+*** FAILED *** with 1 errors
 Syntax errors: 1
 
 
