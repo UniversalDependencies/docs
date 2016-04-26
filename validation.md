@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T13:10:29Z">2016-04-26T13:10:29 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T13:33:19Z">2016-04-26T13:33:19 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,27 +599,20 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T13:10:09Z">2016-04-26T13:10:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T13:32:59Z">2016-04-26T13:32:59 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
-[Line                   12174]: Unknown UD DEPREL: subj
-[Line                   14215]: Unknown UD DEPREL: subj
-[Line                   17580]: Unknown UD DEPREL: subj
-*** FAILED *** with 3 errors
-Syntax errors: 3
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
 
-[Line                   14366]: Unknown UD DEPREL: subj
-[Line                   14382]: Unknown UD DEPREL: subj
-*** FAILED *** with 2 errors
-Syntax errors: 2
+*** PASSED ***
 
 
 ******************
@@ -628,28 +621,9 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 
 [Tree number 2722 on line 25051]: HEAD == ID for 4
 [Tree number 2722 on line 25051]: Non-tree structure. Words 4 are not reachable from the root 0.
-[Line                   44980]: Unknown UD DEPREL: subj
-[Line                   46319]: Unknown UD DEPREL: subj
-[Line                   49104]: Unknown UD DEPREL: subj
-[Line                   57565]: Unknown UD DEPREL: subj
-[Line                   60785]: Unknown UD DEPREL: subj
-[Line                   71740]: Unknown UD DEPREL: subj
-[Line                   75369]: Unknown UD DEPREL: subj
-[Line                   84890]: Unknown UD DEPREL: subj
-[Line                   88379]: Unknown UD DEPREL: subj
-[Line                   89695]: Unknown UD DEPREL: subj
-[Line                   90385]: Unknown UD DEPREL: subj
-[Line                   93342]: Unknown UD DEPREL: subj
-[Line                   97432]: Unknown UD DEPREL: subj
-[Line                   102807]: Unknown UD DEPREL: subj
-[Line                   102812]: Unknown UD DEPREL: subj
-[Line                   108997]: Unknown UD DEPREL: subj
-[Line                   113898]: Unknown UD DEPREL: subj
-[Line                   114008]: Unknown UD DEPREL: subj
-...suppressing further errors regarding Syntax
-*** FAILED *** with 23 errors
+*** FAILED *** with 2 errors
 Format errors: 1
-Syntax errors: 22
+Syntax errors: 1
 
 
 ******************
