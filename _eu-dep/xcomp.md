@@ -51,9 +51,9 @@ dobj(ikusi, haiek)
 
 
 
-*Madrilera **ez joatea** erabaki zuen
+*Madrilera **ez joatea** erabaki zuen*
 
-*(He/she) decided **not to go** to Madrid
+*(He/she) decided **not to go** to Madrid*
 
 ~~~ sdparse
 Madrilera ez joatea erabaki zuen \n  decided not to go to Madrid
