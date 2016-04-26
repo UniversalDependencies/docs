@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T14:42:02Z">2016-04-26T14:42:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-26T14:47:27Z">2016-04-26T14:47:27 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -598,16 +598,14 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T14:17:11Z">2016-04-26T14:17:11 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T14:47:08Z">2016-04-26T14:47:08 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
-[Line                   12174]: Unknown UD DEPREL: clsubj
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
@@ -621,9 +619,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
-[Line                   93342]: Unknown UD DEPREL: clsubj
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
