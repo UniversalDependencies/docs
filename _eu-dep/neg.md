@@ -6,7 +6,8 @@ shortdef: 'negation modifier'
 
 The negation modifier (`neg`) is the relation between a negation word and the word it modifies. Modifiers labeled neg depend either on a noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).
 
-* Predicate negation
+* Predicate negation:
+
 ***ez** da inolako hazkunderik antzematen euskararen erabileran*
 
 ***not** is       any   growth       perceived any of the Basque in the use* 
@@ -24,11 +25,11 @@ nmod(erabileran, euskararen)
 nmod(antzematen, erabileran)
 ~~~
 
-*agian *ez* zela hain beharrezkoa*
+*agian **ez** zela hain beharrezkoa*
 
-*maybe *not* that_was so necessary*
+*maybe **not** that_was so necessary*
 
-*that maybe it was *not* so necessary*
+*that maybe it was **not** so necessary*
 
 ~~~ sdparse
 agian ez zela hain beharrezkoa \n  that maybe it was not so necessary
@@ -40,8 +41,9 @@ cop(zela, beharrezkoa)
 ~~~
 
 
-* Noun negation
-*Gune *ez* hiritarretan bizi dira nagusiki*
+* Noun negation:
+
+*Gune **ez** hiritarretan bizi dira nagusiki*
 
 ***non** urban areas (they) live mainly*
 
