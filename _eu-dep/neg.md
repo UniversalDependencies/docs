@@ -50,7 +50,7 @@ cop(zela, beharrezkoa)
 *(they) mainly live in **non** urban areas*
 
 ~~~ sdparse
-Gune ez hiritarretan bizi dira nagusiki \n  mainly live in non urban areas
+Gune ez hiritarretan bizi_dira nagusiki \n  mainly live in non urban areas
 
 nmod(bizi_dira, Gune)
 neg(hiritarretan, ez)
