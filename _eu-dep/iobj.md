@@ -16,6 +16,19 @@ As Basque is a language that distinguishes morphological cases, the indirect obj
 ~~~ sdparse
 Djukanovicek aldaketa handia eman dio bere ildo politikoari \n Djukanovic has given a big change to his political course 
 
+nsubj(eman, Djukanovicek)
+dobj(eman, aldaketa)
+amod(aldaketa, handia)
+aux(eman, dio)
+nmod(ildo, bere)
+amod(ildo, politikoari)
+iobj(eman, ildo)
+~~~
+
+
+~~~ sdparse
+Djukanovicek aldaketa handia eman dio bere ildo politikoari \n Djukanovic has given a big change to his political course 
+
 nsubj(eman-8, Djukanovicek-5)
 dobj(eman-8, aldaketa-6)
 amod(aldaketa-6, handia-7)
@@ -31,6 +44,18 @@ iobj(eman-8, ildo-11)
 *a great effort       has made **us_DAT**  geography  teaching*
 
 *(He/she) has made a great effort teaching **us-DAT** geography*
+
+~~~ sdparse
+Ahalegin haundia egin du guri-IOBJ geografia pittin bat irakasten \n (he/she) has made a great effort teaching us-IOBJ a geography 
+
+amod(ahalegin, haundia)
+dobj(egin, ahalegin)
+aux(egin, du)
+advcl(egin, irakasten)
+dobj(irakasten, geografia)
+iobj(irakasten, guria)
+~~~
+
 
 ~~~ sdparse
 Ahalegin haundia egin du guri-IOBJ geografia pittin bat irakasten \n (he/she) has made a great effort teaching us-IOBJ a geography 
