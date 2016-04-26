@@ -8,11 +8,11 @@ The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a mor
 
 Example of a subject in an intransitive sentence:
 
-***Bi zati hauek** markaturik dauden tokietatik tolesten dira*
+***Bi zati hauek-ABS** markaturik dauden tokietatik tolesten dira*
 
-***Two parts these-abs** marked are-that places  aux-intrans-present .*
+***Two parts these-ABS** marked are-that places  aux-intrans-present .*
 
-***These two parts** fold by the places that are marked*
+***These two parts-ABS** fold by the places that are marked*
 
 
 ~~~ sdparse
@@ -44,11 +44,11 @@ aux(tolesten, dira)
 
 Example of a subject in a transitive sentence:
 
-*Eztabaida handiak sortu ditu **aldaketak***
+*Eztabaida handiak sortu ditu **aldaketak-ERG***
 
-*Discussion huge-pl cause aux-trans-present **change-erg***
+*Discussion huge-pl cause aux-trans-present **change-ERG***
 
-***The change** has caused huge discussions* 
+***The change-ERG** has caused huge discussions* 
 
 
 ~~~ sdparse
@@ -73,11 +73,11 @@ nsubj(sortu, aldaketak)
 
 Being Basque a free word order language, arguments of the verb can appear in different orders with respect to the verb.
 
-***Aldaketak** eztabaida handiak sortu ditu*
+***Aldaketak-ERG** eztabaida handiak sortu ditu*
 
-***Change-erg** discussion huge-pl cause aux-trans-present*
+***Change-ERG** discussion huge-pl cause aux-trans-present*
 
-***The change** has caused huge discussions*
+***The change-ERG** has caused huge discussions*
 
 ~~~ sdparse
 Aldaketak eztabaida handiak sortu ditu \n The change has caused huge discussions
