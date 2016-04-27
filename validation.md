@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-27T08:51:52Z">2016-04-27T08:51:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-27T08:59:29Z">2016-04-27T08:59:29 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -599,25 +599,25 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T08:39:25Z">2016-04-27T08:39:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T08:59:09Z">2016-04-27T08:59:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
 *** PASSED ***
 
