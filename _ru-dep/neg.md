@@ -18,7 +18,7 @@ neg(eats, not)
 ~~~
 
 ~~~ sdparse
-Ему был нужен четвероногий , а не двуногий друг . \n He needed quadrupedal and not bipedal friend .
+Ему был нужен четвероногий , а не двуногий друг . \n To-him was needed quadrupedal , and not bipedal friend .
 neg(двуногий, не)
 neg(bipedal, not)
 ~~~
