@@ -45,21 +45,21 @@ nmod(talked, in-winter)
 
 ## Agreeing attribute of a noun
 
-`nmod` noun phrases attached to nouns are usually in the genitive [cs-feat/Case]() and follow the modified noun.
+`nmod` noun phrases attached to nouns are usually in the genitive [ru-feat/Case]() and follow the modified noun.
 However, there is also a different kind of `nmod` that precedes the modified noun and agrees with it in case and number.
 A typical example is a title attached to a name of a person. The relation is similar to the [name]() relation
 that links the first and the last name, but it is not labeled `name` because the title is not part of the name:
 
 ~~~ sdparse
-российский президент Владимир Владимироваич Путин \n russian president Vladimir Vladimirovich Putin
+российский президент Владимир Владимирович Путин \n Russian president Vladimir Vladimirovich Putin
 amod(президент, российский)
-amod(president, russian)
+amod(president, Russian)
 nmod(Владимир, президент)
 nmod(Vladimir, president)
 name(Владимир, Путин)
 name(Vladimir, Putin)
-name(Владимирович, Владимир)
-name(Vladimirovich, Vladimir)
+name(Владимир, Владимирович)
+name(Vladimir, Vladimirovich)
 ~~~
 
 Note that the same thing can be also expressed using an [apposition](appos).
