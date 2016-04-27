@@ -6,17 +6,13 @@ shortdef: 'nominal subject'
 
 The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a morphologically ergative language, subjects of transitive verbs are marked with the ergative case, while subjects of intransitive verbs are marked with the absolutive case.
 
-Example of a subject in an intransitive sentence:
+Example of a subject in an intransitive sentence (ABS case):
 
-***Bi zati hauek-ABS** markaturik dauden tokietatik tolesten dira*
-
-***Two parts these-ABS** marked are-that places  aux-intrans-present .*
-
-***These two parts-ABS** fold by the places that are marked*
-
+***Bi zati hauek** markaturik dauden tokietatik tolesten dira*
+***These two parts** are folded by the places that are marked*
 
 ~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira \n two parts these marked that_are by_the_places fold
+Bi zati hauek markaturik dauden tokietatik tolesten dira .\n two parts these marked that_are by_the_places are_folded .
 
 det(zati-2, Bi-1)
 nsubj(tolesten-7, zati-2)
@@ -25,6 +21,7 @@ acl(tokietatik-6, markaturik-4)
 cop(markaturik-4, dauden-5)
 nmod(tolesten-7, tokietatik-6)
 aux(tolesten-7, dira-8)
+punct(tolesten-7, .-9)
 ~~~
 
 
@@ -38,6 +35,7 @@ acl(tokietatik, markaturik)
 cop(markaturik, dauden)
 nmod(tolesten, tokietatik)
 aux(tolesten, dira)
+punct(tolesten-7, .-9)
 ~~~
 
 
