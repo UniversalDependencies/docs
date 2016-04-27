@@ -180,27 +180,26 @@ punct(I-remember, .-22)
 
 ## Additional remarks
 
-In the typical case, the million is in genitive, it is preceded by a smaller number,
+In the typical case, million is tagged as a [NOUN](ru-pos/NOUN) in genitive, it is preceded by a smaller number,
 and it is not followed by smaller numerals (as it is in _million five hundred thousand_).
-It is followed by the counted noun.
-Thus the following examples receive parallel analyses:
+It is followed by the counted noun and gets the following analysis:
 
 ~~~ sdparse
-50 миллионов корон \n 50 millions of-crowns
+50 миллионов крон \n 50 millions of-crowns
 nummod:gov(миллионов, 50-1)
 nummod:gov(millions, 50-5)
-nmod(миллионов, корон)
+nmod(миллионов, крон)
 nmod(millions, of-crowns)
 ~~~
 
-On the other hand the word _tisíc_ “thousand” may be a noun
+On the other hand the word _тысяча_ “thousand” may be a noun
 (_на площади были тысячи людей_ “there were thousands of people in the square”)
 or a numeral:
 
 ~~~ sdparse
-максимум 50 тысяч корон \n at-most 50 thousand crowns
-advmod:emph(корон, максимум)
-nummod:gov(корон, тысяч)
+максимум 50 тысяч крон \n at-most 50 thousand crowns
+advmod:emph(крон, максимум)
+nummod:gov(крон, тысяч)
 compound(тысяч, 50-2)
 advmod:emph(crowns, at-most)
 nummod:gov(crowns, thousand)
