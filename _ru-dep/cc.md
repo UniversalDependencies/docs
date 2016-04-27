@@ -11,7 +11,7 @@ the [coordinating conjunction](ru-pos/CONJ) delimiting another conjunct.
 We take the first conjunct as the head of the coordination.)
 
 ~~~ sdparse
-Он старый и мудрый мужчина. \n He is old and wise man .
+Он старый и мудрый мужчина. \n He-is old and wise man .
 cc(старый, и)
 cc(old, and)
 ~~~
