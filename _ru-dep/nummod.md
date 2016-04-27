@@ -207,7 +207,7 @@ compound(thousand, 50-7)
 ~~~
 
 Note that the two numeral words in the above example are joined using the [compound]() relation.
-Also note that the [intensifier](advmod:emph) _максимум_ is attached to the head of the phrase _(корон)_ and not to the number.
+Also note that the [intensifier](advmod:emph) _максимум_ is attached to the head of the phrase _(крон)_ and not to the number.
 
 Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
 and they are related to the whole phrase rather than directly to the head noun:
@@ -257,7 +257,7 @@ House number in address is attached as `nummod` to the name of the street:
 nmod(доме, Тверской-4)
 case(Тверской-4, на-3)
 nummod(Тверской-4, 12-5)
-nmod(the-house, Tverskaya -10)
-case(Tverskaya-10, at-9)
-nummod(Tverskaya-10, 12-11)
+nmod(the-house, Tverskaya)
+case(Tverskaya, at)
+nummod(Tverskaya, 12-11)
 ~~~
