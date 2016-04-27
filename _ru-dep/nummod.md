@@ -26,7 +26,7 @@ Examples:
 
 - _<b>Один</b> мужчина спал, <b>два</b> мужчины играли в карты._ “One man slept, two men played cards.”
 - _<b>Одна</b> женщина спала, <b>две</b> женщины играли в карты._ “One woman slept, two women played cards.”
-- _<b>Одно</b> чудовище спало, <b>два</b> чудовища играли в карты._ “One monster slept, two monsters played.”
+- _<b>Одно</b> чудовище спало, <b>два</b> чудовища играли в карты._ “One monster slept, two monsters played cards.”
 
 It is straightforward to convert such dependencies to `nummod`:
 
@@ -49,7 +49,8 @@ The whole phrase (numeral + counted noun) behaves as a noun phrase in neuter gen
 - _<b>Пять</b> мужчин играло в карты._ “Five men played cards.”
 - _Группа мужчин играла в карты._ “A group of men played cards.”
 
-This also can be mapped as `Atr`, but there are both advantages and drawbacks to this solution.
+One could argue that _пять мужчин_ is parallel to _группа мужчин_ and that _мужчин_ should be [nmod]() of _пять_.
+There are both advantages and drawbacks to such a solution.
 On the one hand, it reflects well the agreement in case, gender and number.
 On the other hand, it is confusing that there are two different analyses of counted noun constructions,
 depending on the numeric value.
@@ -57,7 +58,7 @@ depending on the numeric value.
 Moreover, the numeral does not govern the noun in all morphological cases.
 The following table shows the case of the whole phrase (numeral + noun; first column)
 and the consequences for the case of the parts (note that these numerals have only
-two distinct morphological forms, resulting in homonymy).
+three distinct morphological forms, resulting in homonymy).
 
 <table>
 <tr><th>Phrase Case</th><th>Example</th><th>Numeral Case</th><th>Noun Case</th></tr>
