@@ -19,6 +19,6 @@ then it should be analyzed with these more standard relations, even if it is lai
 name(Стив-1, Джонс-2)
 list(Стив-1, тел.:-3)
 list(Стив-1, e-mail:-5)
-appos(tel.:-3, 555-9814-4)
+appos(тел.:-3, 555-9814-4)
 appos(e-mail:-5, jones@mail.ru-6)
 ~~~
