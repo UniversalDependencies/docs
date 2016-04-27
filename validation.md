@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-27T20:43:34Z">2016-04-27T20:43:34 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-27T21:08:06Z">2016-04-27T21:08:06 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -534,8 +534,8 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T12:33:47Z">2016-04-27T12:33:47 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T21:07:52Z">2016-04-27T21:07:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -555,9 +555,7 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-test.conllu
 
 python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
-[Line                   28300]: Morphological features must be sorted: 'Case=Gen|Number=Sing|PronType=Prs|Poss=Yes'
-*** FAILED *** with 1 errors
-Morpho errors: 1
+*** PASSED ***
 
 
 ******************
