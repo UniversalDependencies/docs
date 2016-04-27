@@ -12,7 +12,7 @@ Prepositions in UD are treated as dependents of the noun they attach to. The rel
 case(пятницу.Acc, В)
 case(Friday, On)
 case(деревне.Dat, к)
-case(village, to)
+case(the-village, to)
 case(событии.Loc, o)
-case(event, about)
+case(the-event, about)
 ~~~
