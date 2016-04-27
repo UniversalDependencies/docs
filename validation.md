@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-27T01:22:18Z">2016-04-27T01:22:18 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-27T02:22:46Z">2016-04-27T02:22:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -631,7 +631,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T01:11:09Z">2016-04-27T01:11:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T02:22:10Z">2016-04-27T02:22:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -730,26 +730,26 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   9081]: Column LEMMA is not allowed to contain whitespace: '1 209'
 [Line                   96095]: Column FORM is not allowed to contain whitespace: '3 000'
 [Line                   96095]: Column LEMMA is not allowed to contain whitespace: '3 000'
-[Line                   155216]: Column FORM is not allowed to contain whitespace: '3 135'
-[Line                   155216]: Column LEMMA is not allowed to contain whitespace: '3 135'
-[Line                   179446]: Column FORM is not allowed to contain whitespace: '2 278'
-[Line                   179446]: Column LEMMA is not allowed to contain whitespace: '2 278'
-[Line                   179459]: Column FORM is not allowed to contain whitespace: ' 1 345'
-[Line                   179459]: Column LEMMA is not allowed to contain whitespace: '1 345'
-[Line                   179473]: Column FORM is not allowed to contain whitespace: '8 848'
-[Line                   179473]: Column LEMMA is not allowed to contain whitespace: '8 848'
-[Line                   179484]: Column FORM is not allowed to contain whitespace: '1 728'
-[Line                   179484]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Line                   215558]: Unknown UD DEPREL: comound
-[Line                   218731]: Empty value in column FEATS
-[Line                   233574]: Column FORM is not allowed to contain whitespace: '5 000 000'
-[Line                   275971]: Column FORM is not allowed to contain whitespace: '4 800'
-[Line                   275971]: Column LEMMA is not allowed to contain whitespace: '4 800'
-[Line                   289143]: Column FORM is not allowed to contain whitespace: '280 000'
+[Line                   155217]: Column FORM is not allowed to contain whitespace: '3 135'
+[Line                   155217]: Column LEMMA is not allowed to contain whitespace: '3 135'
+[Line                   179447]: Column FORM is not allowed to contain whitespace: '2 278'
+[Line                   179447]: Column LEMMA is not allowed to contain whitespace: '2 278'
+[Line                   179460]: Column FORM is not allowed to contain whitespace: ' 1 345'
+[Line                   179460]: Column LEMMA is not allowed to contain whitespace: '1 345'
+[Line                   179474]: Column FORM is not allowed to contain whitespace: '8 848'
+[Line                   179474]: Column LEMMA is not allowed to contain whitespace: '8 848'
+[Line                   179485]: Column FORM is not allowed to contain whitespace: '1 728'
+[Line                   179485]: Column LEMMA is not allowed to contain whitespace: '1 728'
+[Line                   215560]: Unknown UD DEPREL: comound
+[Line                   218733]: Empty value in column FEATS
+[Line                   233576]: Column FORM is not allowed to contain whitespace: '5 000 000'
+[Line                   275973]: Column FORM is not allowed to contain whitespace: '4 800'
+[Line                   275973]: Column LEMMA is not allowed to contain whitespace: '4 800'
+[Line                   289145]: Column FORM is not allowed to contain whitespace: '280 000'
 ...suppressing further errors regarding Format
-*** FAILED *** with 276730 errors
+*** FAILED *** with 276942 errors
 Format errors: 20
-Morpho errors: 276709
+Morpho errors: 276921
 Syntax errors: 1
 
 
