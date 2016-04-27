@@ -40,13 +40,13 @@ parataxis(said, left)
 ~~~
 
 ~~~ sdparse
-" Тот парень ушёл рано утром, " сказал Вася . \n " The guy left early in-the-morning , " said Honza .
+" Тот парень ушёл рано утром , " сказал Вася . \n " The guy left early in-the-morning , " said Vasya .
 parataxis(ушёл, сказал)
 parataxis(left, said)
 ~~~
 
 ~~~ sdparse
-" Тот парень , " -- сказал Вася , -- " ушёл рано утром . " \n " The guy , " -- said Vasya , -- " left early in-the-morning . "
+" Тот парень , " — сказал Вася , — " ушёл рано утром . " \n " The guy , " — said Vasya , — " left early in-the-morning . "
 parataxis(ушёл, сказал)
 parataxis(left, said)
 ~~~
