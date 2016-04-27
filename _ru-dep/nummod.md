@@ -98,75 +98,82 @@ There are four labels used:
 </table>
 
 ~~~ sdparse
-Три мужчина играли в-карты . \n Three men played cards .
+Три мужчины играли в карты . \n Three men played cards .
 nummod(мужчины, Три)
 nsubj(играли, мужчины)
-iobj(играли, в-карты)
-punct(играли, .-5)
+dobj(играли, карты)
+case(карты, в)
+punct(играли, .-6)
 nummod(men, Three)
 nsubj(played, men)
-iobj(played, cards)
-punct(played, .-11)
+dobj(played, cards)
+punct(played, .-12)
 ~~~
 
 ~~~ sdparse
-Пять мужчин играло в-карты . \n Five men played cards .
+Пять мужчин играло в карты . \n Five men played cards .
 nummod:gov(мужчин, Пять)
 nsubj(играло, мужчин)
-iobj(играло, в-карты)
-punct(играло, .-5)
+dobj(играло, карты)
+case(карты, в)
+punct(играло, .-6)
 nummod:gov(men, Five)
 nsubj(played, men)
-iobj(played, cards)
-punct(played, .-11)
+dobj(played, cards)
+punct(played, .-12)
 ~~~
 
 ~~~ sdparse
-Сколько мужчин играло в-карты ? \n How-many men played cards ?
+Сколько мужчин играло в карты ? \n How-many men played cards ?
 det:numgov(мужчин, Сколько)
 nsubj(играло, мужчин)
-iobj(играло, в-карты)
-punct(играло, ?-5)
+dobj(играло, карты)
+case(карты, в)
+punct(играло, ?-6)
 det:numgov(men, How-many)
 nsubj(played, men)
-iobj(played, cards)
-punct(played, ?-11)
+dobj(played, cards)
+punct(played, ?-12)
 ~~~
 
 ~~~ sdparse
-Играл я в-карты с пятью мужчинами Hrál jsem karty s pěti muži . \n Played I cards with five men .
+Играл я в карты с пятью мужчинами . \n Played I cards with five men .
 nsubj(Играл, я)
-iobj(Играл, в-карты)
+dobj(Играл, карты)
+case(карты, в)
 iobj(Играл, мужчинами)
 case(мужчинами, с)
 nummod(мужчинами, пятью)
-punct(Играл, .-7)
+punct(Играл, .-8)
 nsubj(Played, I)
-iobj(Played, cards)
+dobj(Played, cards)
 iobj(Played, men)
 case(men, with)
 nummod(men, five)
-punct(Played, .-15)
+punct(Played, .-16)
 ~~~
 
 ~~~ sdparse
-Не-помню , со сколькими мужчинами я играл в-карты . \n I-do-not-remember , with how-many men I played cards .
-ccomp(Не-помню, играл)
-punct(hrál, ,-2)
+Не помню , со сколькими мужчинами я играл в карты . \n Not I-remember , with how-many men I played cards .
+neg(помню, Не)
+ccomp(помню, играл)
+punct(играл, ,-3)
 nsubj(играл, я)
-iobj(играл, в-карты)
+dobj(играл, карты)
+case(карты, в)
 iobj(играл, мужчинами)
 case(мужчинами, с)
 det:nummod(мужчинами, сколькими)
-punct(Не-помню, .-9)
-ccomp(I-do-not-remember, played)
-punct(played, ,-12)
+punct(помню, .-11)
+neg(I-remember, Not)
+ccomp(I-remember, played)
+punct(played, ,-14)
 nsubj(played, I)
-iobj(played, cards)
+dobj(played, cards)
 iobj(played, men)
 case(men, with)
 det:nummod(men, how-many)
-punct(I-do-not-remember, .-19)
+punct(I-remember, .-21)
 ~~~
 
 
