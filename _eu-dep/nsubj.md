@@ -26,7 +26,6 @@ punct(tolesten-7, .-9)
 ~~~
 
 
-
 Example of a subject in a transitive sentence (ERG case):
 
 *Eztabaida handiak sortu ditu **aldaketak** .*
