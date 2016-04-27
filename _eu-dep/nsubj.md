@@ -8,8 +8,8 @@ The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a mor
 
 Example of a subject in an intransitive sentence (ABS case):
 
-***Bi zati hauek** markaturik dauden tokietatik tolesten dira*
-***These two parts** are folded by the places that are marked*
+*Bi **zati** hauek markaturik dauden tokietatik tolesten dira*
+*These two **parts** are folded by the places that are marked*
 
 ~~~ sdparse
 Bi zati hauek markaturik dauden tokietatik tolesten dira .\n two parts these marked that_are by_the_places are_folded .
@@ -26,7 +26,7 @@ punct(tolesten-7, .-9)
 
 
 ~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira \n two parts these marked that_are by_the_places fold
+Bi zati hauek markaturik dauden tokietatik tolesten dira .\n two parts these marked that_are by_the_places are_folded .
 
 det(zati, Bi)
 nsubj(tolesten, zati)
@@ -40,22 +40,21 @@ punct(tolesten-7, .-9)
 
 
 
-Example of a subject in a transitive sentence:
+Example of a subject in a transitive sentence (ERG case):
 
-*Eztabaida handiak sortu ditu **aldaketak-ERG***
+*Eztabaida handiak sortu ditu **aldaketak***
 
-*Discussion huge-pl cause aux-trans-present **change-ERG***
-
-***The change-ERG** has caused huge discussions* 
+*The **change** has caused huge discussions* 
 
 
 ~~~ sdparse
-Eztabaida handiak sortu ditu aldaketak \n The change has caused huge discussions 
+Eztabaida handiak sortu ditu aldaketak .\n Discussions huge has_caused the_change .  
 
 amod(Eztabaida-1, handiak-2)
 nobj(sortu-3, Eztabaida-1)
 aux(sortu-3, ditu-4)
 nsubj(sortu-3, aldaketak-5)
+punct(sortu-3, .-6)
 ~~~
 
 
