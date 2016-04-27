@@ -6,11 +6,11 @@ shortdef: 'multi-word expression'
 
 The multi-word expression (modifier) relation is one of the
 relations for compounding and it is intended for function words.
-In Czech it is used for multi-word prepositions.
+In Russian it is used for multi-word prepositions.
 The leftmost word is the head and all the other words are attached as its `mwe` modifiers.
 
 ~~~ sdparse
-В отличие от тебя , мне нечего стыдиться . \n In contrast to you I-have nothing to-be-ashamed .
+В отличие от тебя , мне нечего стыдиться . \n In contrast to you , I-have nothing to-be-ashamed .
 mwe(В, отличие)
 mwe(В, от)
 case(тебя, В)
@@ -23,13 +23,13 @@ Multi-word prepositions usually form a contiguous span of the sentence. In excep
 by emphasizers and other words:
 
 ~~~ sdparse
-в сравнении , например , с долгом \n in comparison for-example to loans
+в сравнении , например , с долгом \n in comparison , for-example , to loans
 mwe(в, сравнении)
 mwe(в, с)
-case(долгом, с)
+case(долгом, в)
 advmod:emph(долгом, например)
 mwe(in, comparison)
 mwe(in, to)
-case(loans, to)
+case(loans, in)
 advmod:emph(loans, for-example)
 ~~~
