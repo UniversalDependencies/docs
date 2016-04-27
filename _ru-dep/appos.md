@@ -26,7 +26,7 @@ then attached as `appos` to the modified noun.
 This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.
 
 ~~~ sdparse
-Пришел Михаил , мой брат и кузен Давида . \n Came Mikhail , my brother and David's cousin .
+Пришел Михаил , мой брат и кузен Давида . \n Came Mikhail , my brother and cousin of-David .
 appos(Михаил, брат)
 appos(Mikhail, brother)
 conj(брат, кузен)
@@ -34,7 +34,7 @@ conj(brother, cousin)
 ~~~
 
 ~~~ sdparse
-Михаил , мой брат , кузен Давида , придет завтра . \n Mikhail , my brother , David's cousin , will-come tomorrow .
+Михаил , мой брат , кузен Давида , придет завтра . \n Mikhail , my brother , cousin of-David , will-come tomorrow .
 appos(Михаил, брат)
 appos(Mikhail, brother)
 conj(брат, кузен)
