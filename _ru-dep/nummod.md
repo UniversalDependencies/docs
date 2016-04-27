@@ -4,7 +4,7 @@ title: 'nummod'
 shortdef: 'numeric modifier'
 ---
 
-A numeric modifier of a noun is any [number] phrase
+A numeric modifier of a noun is any [number](ru-pos/NUM) phrase
 that serves to modify the meaning of the noun with a quantity.
 
 ~~~ sdparse
@@ -24,14 +24,14 @@ _два_ also agrees in gender).
 They behave as if they modify the counted noun; they are similar to adjectives in this respect.
 Examples:
 
-- _<b>Один</b> мужчина спал,, <b>два</b> мужчины играли в карты._ “One man slept, two men played cards.”
+- _<b>Один</b> мужчина спал, <b>два</b> мужчины играли в карты._ “One man slept, two men played cards.”
 - _<b>Одна</b> женщина спала, <b>две</b> женщины играли в карты._ “One woman slept, two women played cards.”
 - _<b>Одно</b> чудовище спало, <b>два</b> чудовища играли в карты._ “One monster slept, two monsters played.”
 
 It is straightforward to convert such dependencies to `nummod`:
 
 ~~~ sdparse
-Одно чудовище спало . \n One kitten slept .
+Одно чудовище спало . \n One monster slept .
 nummod(чудовище, Одно)
 nsubj(спало, чудовище)
 punct(спало, .-4)
