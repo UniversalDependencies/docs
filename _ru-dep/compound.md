@@ -21,6 +21,6 @@ nummod:gov(рублей, тысяч)
 nummod:gov(rubles, thousand)
 compound(тысяч, пятьдесят)
 compound(thousand, fifty)
-compound(тысячь, пять)
+compound(тысяч, пять)
 compound(thousand, five)
 ~~~
