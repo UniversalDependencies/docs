@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-27T05:58:18Z">2016-04-27T05:58:18 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-27T08:23:29Z">2016-04-27T08:23:29 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -598,28 +598,91 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T14:47:08Z">2016-04-26T14:47:08 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T08:23:09Z">2016-04-27T08:23:09 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
-*** PASSED ***
+[Line                   7]: Unknown UD DEPREL: nsubj:cop
+[Line                   51]: Unknown UD DEPREL: nsubj:cop
+[Line                   109]: Unknown UD DEPREL: nsubj:cop
+[Line                   118]: Unknown UD DEPREL: nsubj:cop
+[Line                   195]: Unknown UD DEPREL: nsubj:cop
+[Line                   237]: Unknown UD DEPREL: nsubj:cop
+[Line                   279]: Unknown UD DEPREL: nsubj:cop
+[Line                   318]: Unknown UD DEPREL: nsubj:cop
+[Line                   371]: Unknown UD DEPREL: nsubj:cop
+[Line                   382]: Unknown UD DEPREL: nsubj:cop
+[Line                   398]: Unknown UD DEPREL: nsubj:cop
+[Line                   419]: Unknown UD DEPREL: nsubj:cop
+[Line                   442]: Unknown UD DEPREL: nsubj:cop
+[Line                   483]: Unknown UD DEPREL: nsubj:cop
+[Line                   502]: Unknown UD DEPREL: nsubj:cop
+[Line                   592]: Unknown UD DEPREL: nsubj:cop
+[Line                   625]: Unknown UD DEPREL: nsubj:cop
+[Line                   716]: Unknown UD DEPREL: nsubj:cop
+[Line                   976]: Unknown UD DEPREL: nsubj:cop
+...suppressing further errors regarding Syntax
+*** FAILED *** with 297 errors
+Syntax errors: 297
 
 
 ******************
 
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
 
-*** PASSED ***
+[Line                   67]: Unknown UD DEPREL: csubj:cop
+[Line                   86]: Unknown UD DEPREL: nsubj:cop
+[Line                   218]: Unknown UD DEPREL: csubj:cop
+[Line                   411]: Unknown UD DEPREL: nsubj:cop
+[Line                   428]: Unknown UD DEPREL: nsubj:cop
+[Line                   434]: Unknown UD DEPREL: nsubj:cop
+[Line                   463]: Unknown UD DEPREL: nsubj:cop
+[Line                   476]: Unknown UD DEPREL: csubj:cop
+[Line                   547]: Unknown UD DEPREL: nsubj:cop
+[Line                   829]: Unknown UD DEPREL: nsubj:cop
+[Line                   853]: Unknown UD DEPREL: nsubj:cop
+[Line                   942]: Unknown UD DEPREL: nsubj:cop
+[Line                   991]: Unknown UD DEPREL: nsubj:cop
+[Line                   1049]: Unknown UD DEPREL: nsubj:cop
+[Line                   1112]: Unknown UD DEPREL: nsubj:cop
+[Line                   1460]: Unknown UD DEPREL: nsubj:cop
+[Line                   1593]: Unknown UD DEPREL: nsubj:cop
+[Line                   1833]: Unknown UD DEPREL: csubj:cop
+[Line                   1929]: Unknown UD DEPREL: nsubj:cop
+...suppressing further errors regarding Syntax
+*** FAILED *** with 291 errors
+Syntax errors: 291
 
 
 ******************
 
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
-*** PASSED ***
+[Line                   232]: Unknown UD DEPREL: nsubj:cop
+[Line                   299]: Unknown UD DEPREL: nsubj:cop
+[Line                   359]: Unknown UD DEPREL: nsubj:cop
+[Line                   480]: Unknown UD DEPREL: nsubj:cop
+[Line                   495]: Unknown UD DEPREL: nsubj:cop
+[Line                   543]: Unknown UD DEPREL: nsubj:cop
+[Line                   595]: Unknown UD DEPREL: nsubj:cop
+[Line                   618]: Unknown UD DEPREL: nsubj:cop
+[Line                   630]: Unknown UD DEPREL: nsubj:cop
+[Line                   637]: Unknown UD DEPREL: nsubj:cop
+[Line                   693]: Unknown UD DEPREL: nsubj:cop
+[Line                   695]: Unknown UD DEPREL: nsubj:cop
+[Line                   705]: Unknown UD DEPREL: nsubj:cop
+[Line                   799]: Unknown UD DEPREL: nsubj:cop
+[Line                   1254]: Unknown UD DEPREL: nsubj:cop
+[Line                   1289]: Unknown UD DEPREL: csubj:cop
+[Line                   1346]: Unknown UD DEPREL: nsubj:cop
+[Line                   1496]: Unknown UD DEPREL: nsubj:cop
+[Line                   1643]: Unknown UD DEPREL: nsubj:cop
+...suppressing further errors regarding Syntax
+*** FAILED *** with 2382 errors
+Syntax errors: 2382
 
 
 ******************
