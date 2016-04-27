@@ -9,7 +9,7 @@ A nominal subject is a NP which is the syntactic subject of a clause; in Russian
 The governor of the `nsubj` relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun.
 
 ~~~ sdparse
-Ленинградскую симфонию написал Дмитрий Шостакович . \n Leningrad Symphony wrote Dmitri Shostakovich .
+Ленинградскую симфонию написал Шостакович . \n Leningrad Symphony wrote Shostakovich .
 nsubj(написал, Шостакович)
 nsubj(wrote, Shostakovich)
 ~~~
