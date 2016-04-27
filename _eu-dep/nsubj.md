@@ -22,6 +22,7 @@ acl(tokietatik-6, markaturik-4)
 cop(markaturik-4, dauden-5)
 nmod(tolesten-7, tokietatik-6)
 aux(tolesten-7, dira-8)
+
 punct(tolesten-7, .-9)
 ~~~
 
