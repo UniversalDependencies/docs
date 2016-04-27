@@ -8,8 +8,9 @@ The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a mor
 
 Example of a subject in an intransitive sentence (ABS case):
 
-***Bi zati hauek** markaturik dauden tokietatik tolesten dira*
-***These two parts** are folded by the places that are marked*
+*Bi **zati** hauek markaturik dauden tokietatik tolesten dira .*
+
+*These two **parts** are folded by the places that are marked .*
 
 ~~~ sdparse
 Bi zati hauek markaturik dauden tokietatik tolesten dira .\n two parts these marked that_are by_the_places are_folded .
@@ -25,73 +26,39 @@ punct(tolesten-7, .-9)
 ~~~
 
 
-~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira \n two parts these marked that_are by_the_places fold
+Example of a subject in a transitive sentence (ERG case):
 
-det(zati, Bi)
-nsubj(tolesten, zati)
-det(zati, hauek)
-acl(tokietatik, markaturik)
-cop(markaturik, dauden)
-nmod(tolesten, tokietatik)
-aux(tolesten, dira)
-punct(tolesten-7, .-9)
-~~~
+*Eztabaida handiak sortu ditu **aldaketak** .*
 
-
-
-Example of a subject in a transitive sentence:
-
-*Eztabaida handiak sortu ditu **aldaketak-ERG***
-
-*Discussion huge-pl cause aux-trans-present **change-ERG***
-
-***The change-ERG** has caused huge discussions* 
-
+*The **change** has caused huge discussions .* 
 
 ~~~ sdparse
-Eztabaida handiak sortu ditu aldaketak \n The change has caused huge discussions 
+Eztabaida handiak sortu ditu aldaketak .\n Discussions huge has_caused the_change .  
 
 amod(Eztabaida-1, handiak-2)
 nobj(sortu-3, Eztabaida-1)
 aux(sortu-3, ditu-4)
 nsubj(sortu-3, aldaketak-5)
+punct(sortu-3, .-6)
 ~~~
 
-
-~~~ sdparse
-Eztabaida handiak sortu ditu aldaketak \n The change has caused huge discussions 
-
-amod(Eztabaida, handiak)
-nobj(sortu, Eztabaida)
-aux(sortu, ditu)
-nsubj(sortu, aldaketak)
-~~~
 
 
 Being Basque a free word order language, arguments of the verb can appear in different orders with respect to the verb.
 
-***Aldaketak-ERG** eztabaida handiak sortu ditu*
+***Aldaketak** eztabaida handiak sortu ditu .*
 
-***Change-ERG** discussion huge-pl cause aux-trans-present*
-
-***The change-ERG** has caused huge discussions*
+*The **change** has caused huge discussions .*
 
 ~~~ sdparse
-Aldaketak eztabaida handiak sortu ditu \n The change has caused huge discussions
+Aldaketak eztabaida handiak sortu ditu .\n The_change has caused discussions huge .
 
 nsubj(sortu-4, Aldaketak-1)
 amod(eztabaida-2, handiak-3)
 nobj(sortu-4, eztabaida-2)
 aux(sortu-4, ditu-5)
+punct(sortu-4, .-6)
 ~~~
 
-~~~ sdparse
-Aldaketak eztabaida handiak sortu ditu \n The change has caused huge discussions
 
-nsubj(sortu, Aldaketak)
-amod(eztabaida, handiak)
-nobj(sortu, eztabaida)
-aux(sortu, ditu)
-~~~
 

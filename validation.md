@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-27T08:39:45Z">2016-04-27T08:39:45 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-27T12:01:40Z">2016-04-27T12:01:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -215,7 +215,7 @@ python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Chinese</span>
 <span class="widespan">zh</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:36:39Z">2016-04-13T23:36:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T08:51:44Z">2016-04-27T08:51:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -535,7 +535,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T14:18:54Z">2016-04-26T14:18:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T12:01:34Z">2016-04-27T12:01:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -599,25 +599,25 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T08:39:25Z">2016-04-27T08:39:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T11:42:31Z">2016-04-27T11:42:31 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
 *** PASSED ***
 
@@ -1674,7 +1674,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T10:51:39Z">2016-04-26T10:51:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T09:47:08Z">2016-04-27T09:47:08 zulu</time></span>
 </div>
 <div>
 <pre>
