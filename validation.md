@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-26T20:56:42Z">2016-04-26T20:56:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-27T01:11:44Z">2016-04-27T01:11:44 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -631,7 +631,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T20:22:41Z">2016-04-26T20:22:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T01:11:09Z">2016-04-27T01:11:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -740,14 +740,17 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   179473]: Column LEMMA is not allowed to contain whitespace: '8 848'
 [Line                   179484]: Column FORM is not allowed to contain whitespace: '1 728'
 [Line                   179484]: Column LEMMA is not allowed to contain whitespace: '1 728'
+[Line                   215558]: Unknown UD DEPREL: comound
+[Line                   218731]: Empty value in column FEATS
 [Line                   233574]: Column FORM is not allowed to contain whitespace: '5 000 000'
 [Line                   275971]: Column FORM is not allowed to contain whitespace: '4 800'
 [Line                   275971]: Column LEMMA is not allowed to contain whitespace: '4 800'
 [Line                   289143]: Column FORM is not allowed to contain whitespace: '280 000'
-[Line                   289143]: Column LEMMA is not allowed to contain whitespace: '280 000'
-*** FAILED *** with 276644 errors
-Format errors: 19
-Morpho errors: 276625
+...suppressing further errors regarding Format
+*** FAILED *** with 276730 errors
+Format errors: 20
+Morpho errors: 276709
+Syntax errors: 1
 
 
 ******************
