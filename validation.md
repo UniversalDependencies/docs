@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-27T15:33:51Z">2016-04-27T15:33:51 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-27T16:19:13Z">2016-04-27T16:19:13 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -633,7 +633,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T15:33:17Z">2016-04-27T15:33:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T16:18:38Z">2016-04-27T16:18:38 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -735,8 +735,6 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   96093]: Column LEMMA is not allowed to contain whitespace: '3 000'
 [Line                   155217]: Column FORM is not allowed to contain whitespace: '3 135'
 [Line                   155217]: Column LEMMA is not allowed to contain whitespace: '3 135'
-[Tree number 6078 on line 170330]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,38,29,30,31,32,33,34,35.
-[Tree number 6078 on line 170330]: Non-tree structure. Words 28 are not reachable from the root 0.
 [Line                   179456]: Column FORM is not allowed to contain whitespace: ' 1345'
 [Line                   179470]: Column FORM is not allowed to contain whitespace: '8 848'
 [Line                   179470]: Column LEMMA is not allowed to contain whitespace: '8 848'
@@ -748,10 +746,10 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Tree number 9843 on line 277045]: Non-tree structure. Words 8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27 are not reachable from the root 0.
 [Line                   289139]: Column FORM is not allowed to contain whitespace: '280 000'
 [Line                   289139]: Column LEMMA is not allowed to contain whitespace: '280 000'
-*** FAILED *** with 277315 errors
-Format errors: 17
+*** FAILED *** with 277313 errors
+Format errors: 16
 Morpho errors: 277295
-Syntax errors: 3
+Syntax errors: 2
 
 
 ******************
