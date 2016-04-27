@@ -72,7 +72,7 @@ nsubj(sortu, aldaketak)
 
 Being Basque a free word order language, arguments of the verb can appear in different orders with respect to the verb.
 
-***Aldaketak-ERG** eztabaida handiak sortu ditu*
+***Aldaketak** eztabaida handiak sortu ditu*
 
 ***Change-ERG** discussion huge-pl cause aux-trans-present*
 
