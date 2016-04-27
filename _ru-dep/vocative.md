@@ -10,6 +10,6 @@ In Russian, the addressee's name can also appear in the vocative [Case]() form.
 
 ~~~ sdparse
 Мужчина , Вы дурак ! \n Sir , you-are a-fool !
-vocative(Вы, Мужчина)
-vocative(you-are, Sir)
+vocative(дурак, Мужчина)
+vocative(a-fool, Sir)
 ~~~
