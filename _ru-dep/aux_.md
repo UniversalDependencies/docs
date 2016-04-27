@@ -7,11 +7,11 @@ shortdef: 'auxiliary'
 redirect_from: "ru/dep/aux.html"
 ---
 
-An auxiliary of a clause is a form of the [auxiliary verb](cs-pos/AUX) _,быть_ “to be”
-used to construct the periphrastic future tense, past tense or conditional.
+An auxiliary of a clause is a form of the [auxiliary verb](ru-pos/AUX) _быть_ “to be”
+used to construct the periphrastic future tense or conditional.
 
 Exception: Auxiliary verb used to construct the passive
-[voice](cs-feat/Voice) is not labeled `aux` but [auxpass]().
+[voice](ru-feat/Voice) is not labeled `aux` but [auxpass]().
 
 Note that besides `aux` and `auxpass`, the verb _быть_ may also act as a [copula](cop)
 and as the main verb.
@@ -23,10 +23,9 @@ aux(give-a-talk, will)
 ~~~
 
 ~~~ sdparse
-Если бы я пришел раньше, я бы не пропустил поезд. \n If I had come earlier, I wouldn't-have missed the train .
-aux(пришел, бы)
+Если бы я пришел раньше , я бы не пропустил поезд . \n If had I come earlier , I would not have-missed the-train .
+aux(пришел, бы-2)
 aux(come, had)
-aux(не пропустил, бы)
-aux(missed, wouldn't have)
+aux(пропустил, бы-8)
+aux(have-missed, would)
 ~~~
-
