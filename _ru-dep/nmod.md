@@ -15,11 +15,12 @@ But when attaching to a noun, it usually corresponds to a non-agreeing attribute
 
 In Russian the `nmod` relation covers only those possessives that are expressed using the genitive.
 If a possessive adjective is used, the relation is labeled [amod]().
+If a possessive determiner (pronoun) is used, the relation is labeled [det]().
 
 ~~~ sdparse
-карта студента \n card of-the-student
-nmod(карта, директора)
-nmod(card, of-the-student)
+карта студента \n card of-student
+nmod(карта, студента)
+nmod(card, of-student)
 ~~~
 
 ~~~ sdparse
@@ -37,9 +38,9 @@ det(card, his)
 `nmod` is also used for temporal nominal modifiers:
 
 ~~~ sdparse
-Последний раз мы разговаривали зимой. \n Last time we have-talked in-winter .
+Последний раз мы разговаривали зимой . \n Last time we talked in-winter .
 nmod(разговаривали, зимой)
-nmod(have-talked, in-winter)
+nmod(talked, in-winter)
 ~~~
 
 ## Agreeing attribute of a noun
