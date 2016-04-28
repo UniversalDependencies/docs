@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-28T08:36:39Z">2016-04-28T08:36:39 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-28T08:55:41Z">2016-04-28T08:55:41 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -631,88 +631,26 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T08:07:43Z">2016-04-28T08:07:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T08:55:01Z">2016-04-28T08:55:01 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 
-[Line                   18]: Spurious morphological feature: 'ind_pres_3p=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   18]: Repeated features are disallowed: ind_pres_3p=y
-[Line                   24]: Spurious morphological feature: 'ind_pres_3s=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   24]: Repeated features are disallowed: ind_pres_3s=y
-[Line                   35]: Spurious morphological feature: 'infinitif=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   35]: Repeated features are disallowed: infinitif=y
-[Line                   40]: Spurious morphological feature: 'ms=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   40]: Repeated features are disallowed: ms=y
-[Line                   56]: Spurious morphological feature: 'ind_pres_3s=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   56]: Repeated features are disallowed: ind_pres_3s=y
-[Line                   59]: Spurious morphological feature: 'fs=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   59]: Repeated features are disallowed: fs=y
-[Line                   63]: Spurious morphological feature: 'fs=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   63]: Repeated features are disallowed: fs=y
-[Line                   64]: Spurious morphological feature: 'fs=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   64]: Repeated features are disallowed: fs=y
-[Line                   66]: Spurious morphological feature: 'ind_pres_3s=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   66]: Repeated features are disallowed: ind_pres_3s=y
-[Line                   67]: Spurious morphological feature: 'fs=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-*** FAILED *** with 15805 errors
-Morpho errors: 15805
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
-[Line                   3]: Spurious morphological feature: 's=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3]: Repeated features are disallowed: Person=1|s=y
-[Line                   4]: Spurious morphological feature: 'ind_pres_1s=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   4]: Repeated features are disallowed: ind_pres_1s=y
-[Line                   7]: Morphological features must be sorted: 'Person=3|ms=y'
-[Line                   7]: Spurious morphological feature: 'ms=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   7]: Repeated features are disallowed: Person=3|ms=y
-[Line                   15]: Spurious morphological feature: 'mp=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   15]: Repeated features are disallowed: mp=y
-[Line                   17]: Morphological features must be sorted: 'Person=1|p=y'
-[Line                   17]: Spurious morphological feature: 'p=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   17]: Repeated features are disallowed: Person=1|p=y
-[Line                   18]: Spurious morphological feature: 'ind_pres_1p=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   18]: Repeated features are disallowed: ind_pres_1p=y
-[Line                   20]: Spurious morphological feature: 'part_pass_mp=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   20]: Repeated features are disallowed: part_pass_mp=y
-[Line                   22]: Morphological features must be sorted: 'Person=1|p=y'
-[Line                   22]: Spurious morphological feature: 'p=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   22]: Repeated features are disallowed: Person=1|p=y
-...suppressing further errors regarding Morpho
-*** FAILED *** with 3351 errors
-Morpho errors: 3351
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   4]: Spurious morphological feature: 'fp=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   4]: Repeated features are disallowed: fp=y
-[Line                   5]: Spurious morphological feature: 'fp=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   5]: Repeated features are disallowed: fp=y
-[Line                   6]: Spurious morphological feature: 'ind_pres_3p=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   6]: Repeated features are disallowed: ind_pres_3p=y
-[Line                   7]: Spurious morphological feature: 'part_pass_ms=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   7]: Repeated features are disallowed: part_pass_ms=y
-[Line                   9]: Spurious morphological feature: 'fp=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   9]: Repeated features are disallowed: fp=y
-[Line                   12]: Spurious morphological feature: 'ms=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   12]: Repeated features are disallowed: ms=y
-[Line                   14]: Morphological features must be sorted: 'Person=3|ms=y'
-[Line                   14]: Spurious morphological feature: 'ms=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   14]: Repeated features are disallowed: Person=3|ms=y
-[Line                   15]: Morphological features must be sorted: 'Person=3|p=y'
-[Line                   15]: Spurious morphological feature: 'p=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   15]: Repeated features are disallowed: Person=3|p=y
-[Line                   16]: Spurious morphological feature: 'ind_pres_3s=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
 [Tree number 5871 on line 164717]: Non-tree structure. Words 3,4 are not reachable from the root 0.
 [Tree number 7944 on line 223344]: Non-tree structure. Words 4,5,6 are not reachable from the root 0.
 [Tree number 7990 on line 224613]: Non-tree structure. Words 1,2,3,4,5,6 are not reachable from the root 0.
@@ -720,8 +658,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Tree number 10185 on line 286153]: Non-tree structure. Words 1,2,3,4,5,6,7,31 are not reachable from the root 0.
 [Tree number 10668 on line 299014]: Non-tree structure. Words 37,38 are not reachable from the root 0.
 [Tree number 11513 on line 323048]: Non-tree structure. Words 20,21,22 are not reachable from the root 0.
-*** FAILED *** with 277455 errors
-Morpho errors: 277448
+*** FAILED *** with 7 errors
 Syntax errors: 7
 
 
