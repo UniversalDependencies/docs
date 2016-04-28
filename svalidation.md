@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-28T20:13:18Z">2016-04-28T20:13:18 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-28T21:24:08Z">2016-04-28T21:24:08 zulu</time>
 
 # Aux chain
 
@@ -17744,7 +17744,7 @@ Search expression: `_ <case (_ <!nmod _)`
 </tr>
 <tr><td>UD_Latin-ITTB</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Latin-ITTB-dev">7617</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Latin-ITTB-dev">7618</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
@@ -18352,7 +18352,7 @@ Search expression: `_ <case (_ <!nmod _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latin-ITTB</span>
-<span class="widespan">7617 hits</span>
+<span class="widespan">7618 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Latin-ITTB-dev">Go to search</a><p/>
@@ -20669,7 +20669,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latin-ITTB</span>
-<span class="widespan">4389 hits</span>
+<span class="widespan">4264 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Latin-ITTB-dev">Go to search</a><p/>
@@ -21505,10 +21505,10 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </tr>
 <tr><td>UD_Latin-ITTB</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">379</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">1117</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">1116</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">3</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
@@ -22113,7 +22113,7 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latin-ITTB</span>
-<span class="widespan">1535 hits</span>
+<span class="widespan">1529 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latin-ITTB-dev">Go to search</a><p/>
@@ -27839,22 +27839,22 @@ Search expression: `_ < (_ <cc _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Latin-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Latin-ITTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">8</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">14</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">5</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">11</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">7</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">14</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">10</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">34</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">2</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">5</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">174</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">3</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">15</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">35</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Latin-PROIEL</td>
@@ -28448,7 +28448,7 @@ Search expression: `_ < (_ <cc _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latin-ITTB</span>
-<span class="widespan">224 hits</span>
+<span class="widespan">121 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3C+%28_+%3Ccc+_%29&db=UD_Latin-ITTB-dev">Go to search</a><p/>
