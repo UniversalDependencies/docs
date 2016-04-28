@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-28T18:14:47Z">2016-04-28T18:14:47 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-28T18:59:15Z">2016-04-28T18:59:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1569,8 +1569,8 @@ python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_a
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T18:14:31Z">2016-04-28T18:14:31 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T18:58:58Z">2016-04-28T18:58:58 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1590,7 +1590,9 @@ python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-test.conllu
 
 python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 
-*** PASSED ***
+[Tree number 4054 on line 64671]: Non-tree structure. Words 9,10,11,12,13,14,15,16,17,18,19,20,21 are not reachable from the root 0.
+*** FAILED *** with 1 errors
+Syntax errors: 1
 
 
 ******************
