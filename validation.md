@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-28T07:44:19Z">2016-04-28T07:44:19 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-28T08:08:17Z">2016-04-28T08:08:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -631,7 +631,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T04:15:50Z">2016-04-28T04:15:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T08:07:43Z">2016-04-28T08:07:43 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -657,20 +657,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 [Line                   66]: Repeated features are disallowed: ind_pres_3s=y
 [Line                   67]: Spurious morphological feature: 'fs=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 ...suppressing further errors regarding Morpho
-[Line                   10935]: Column FORM is not allowed to contain whitespace: '2 865'
-[Line                   10935]: Column LEMMA is not allowed to contain whitespace: '2 865'
-[Line                   10942]: Column FORM is not allowed to contain whitespace: '3 872'
-[Line                   10942]: Column LEMMA is not allowed to contain whitespace: '3 872'
-[Line                   16488]: Column FORM is not allowed to contain whitespace: '25 000'
-[Line                   16488]: Column LEMMA is not allowed to contain whitespace: '25 000'
-[Line                   16496]: Column FORM is not allowed to contain whitespace: '80 000'
-[Line                   16496]: Column LEMMA is not allowed to contain whitespace: '80 000'
-[Line                   25050]: Column FORM is not allowed to contain whitespace: '100 000'
-[Line                   25050]: Column LEMMA is not allowed to contain whitespace: '100 000'
-[Line                   31809]: Column FORM is not allowed to contain whitespace: '80 000'
-[Line                   31809]: Column LEMMA is not allowed to contain whitespace: '80 000'
-*** FAILED *** with 15817 errors
-Format errors: 12
+*** FAILED *** with 15805 errors
 Morpho errors: 15805
 
 
@@ -726,41 +713,16 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   15]: Repeated features are disallowed: Person=3|p=y
 [Line                   16]: Spurious morphological feature: 'ind_pres_3s=y'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 ...suppressing further errors regarding Morpho
-[Line                   9081]: Column FORM is not allowed to contain whitespace: '1 209'
-[Line                   9081]: Column LEMMA is not allowed to contain whitespace: '1 209'
-[Tree number 2407 on line 67763]: Non-tree structure. Words 31,32,33,34,35,36,37 are not reachable from the root 0.
-[Line                   96093]: Column FORM is not allowed to contain whitespace: '3 000'
-[Line                   96093]: Column LEMMA is not allowed to contain whitespace: '3 000'
-[Line                   155217]: Column FORM is not allowed to contain whitespace: '3 135'
-[Line                   155217]: Column LEMMA is not allowed to contain whitespace: '3 135'
-[Line                   164725]: Unknown UD DEPREL: obj
 [Tree number 5871 on line 164717]: Non-tree structure. Words 3,4 are not reachable from the root 0.
-[Line                   179458]: Column FORM is not allowed to contain whitespace: ' 1345'
-[Line                   179472]: Column FORM is not allowed to contain whitespace: '8 848'
-[Line                   179472]: Column LEMMA is not allowed to contain whitespace: '8 848'
-[Line                   179483]: Column FORM is not allowed to contain whitespace: '1 728'
-[Line                   179483]: Column LEMMA is not allowed to contain whitespace: '1 728'
-[Tree number 7267 on line 204169]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,23,24,25,26.
-[Line                   204198]: Loop from 23
-[Tree number 7267 on line 204169]: Non-tree structure. Words 27 are not reachable from the root 0.
 [Tree number 7944 on line 223344]: Non-tree structure. Words 4,5,6 are not reachable from the root 0.
 [Tree number 7990 on line 224613]: Non-tree structure. Words 1,2,3,4,5,6 are not reachable from the root 0.
-[Line                   233560]: Column FORM is not allowed to contain whitespace: '5 000 000'
 [Tree number 8744 on line 246063]: Non-tree structure. Words 11,12,13,14,15,16,17 are not reachable from the root 0.
-[Line                   275982]: Column FORM is not allowed to contain whitespace: '4 800'
-[Line                   275982]: Column LEMMA is not allowed to contain whitespace: '4 800'
-[Tree number 9843 on line 277056]: Non-tree structure. Words 8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27 are not reachable from the root 0.
 [Tree number 10185 on line 286153]: Non-tree structure. Words 1,2,3,4,5,6,7,31 are not reachable from the root 0.
-[Line                   289152]: Column FORM is not allowed to contain whitespace: '280 000'
-[Line                   289152]: Column LEMMA is not allowed to contain whitespace: '280 000'
 [Tree number 10668 on line 299014]: Non-tree structure. Words 37,38 are not reachable from the root 0.
 [Tree number 11513 on line 323048]: Non-tree structure. Words 20,21,22 are not reachable from the root 0.
-[Line                   324722]: Column MISC is not allowed to contain whitespace: '_ '
-[Line                   410231]: Missing empty line after the last tree.
-*** FAILED *** with 277415 errors
-Format errors: 19
-Morpho errors: 277384
-Syntax errors: 12
+*** FAILED *** with 277455 errors
+Morpho errors: 277448
+Syntax errors: 7
 
 
 ******************
