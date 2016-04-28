@@ -2,16 +2,35 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Portuguese)
 
 This relation is universal.
 
-132 nodes (0%) are attached to their parents as `compound`.
+767 nodes (0%) are attached to their parents as `compound`.
 
-104 instances of `compound` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3030303030303.
+663 instances of `compound` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.97392438070404.
 
-The following 2 pairs of parts of speech are connected with `compound`: [pt-pos/NUM]()-[pt-pos/NUM]() (130; 98% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (2; 2% instances).
+The following 8 pairs of parts of speech are connected with `compound`: [pt-pos/NOUN]()-[pt-pos/NOUN]() (613; 80% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (133; 17% instances), [pt-pos/NOUN]()-[pt-pos/CONJ]() (7; 1% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (7; 1% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 compound	color:blue
+1	Paulo	Paulo	PROPN	prop|M|S	_	8	nsubj	_	_
+2	Pereira	Pereira	PROPN	PROPN	_	1	name	_	_
+3	,	,	PUNCT	punc	_	1	punct	_	_
+4	vice-presidente	vice-presidente	NOUN	n|M|S	_	1	nmod	_	_
+5	do	do	ADP	ADP	AdpType=Prep|Gender=Masc|Number=Sing	6	case	_	_
+6	Ippar	Ippar	NOUN	NOUN	_	4	compound	_	_
+7	,	,	PUNCT	punc	_	1	punct	_	_
+8	acrescenta	acrescentar	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	:	:	PUNCT	punc	_	8	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -33,29 +52,36 @@ The following 2 pairs of parts of speech are connected with `compound`: [pt-pos/
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 15 compound	color:blue
-1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	Benfica	Benfica	PROPN	prop|M|S	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	já	já	ADV	adv	_	4	advmod	_	_
-4	conta	contar	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	,	,	PUNCT	punc	_	4	punct	_	_
-6	em	em	ADP	prp|<sam->	AdpType=Prep	8	case	_	_
-7	este	este	DET	pron-det|<-sam>|<dem>|M|S	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
-8	momento	momento	NOUN	n|M|S	Gender=Masc|Number=Sing	4	nmod	_	_
-9	,	,	PUNCT	punc	_	4	punct	_	_
-10	com	com	ADP	prp	AdpType=Prep	13	case	_	_
-11	setenta	setenta	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	12	compound	_	_
-12	mil	mil	NOUN	n|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	13	nmod	_	_
-13	sócios	sócio	NOUN	n|M|P	Gender=Masc|Number=Plur	4	dobj	_	_
-14	e	e	CONJ	conj-c|<co-prparg>	_	13	cc	_	_
-15	sete	sete	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	16	compound	_	_
-16	mil	mil	NOUN	n|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	17	nmod	_	_
-17	praticantes	praticante	NOUN	n|M/F|P	Number=Plur	13	conj	_	_
-18	.	.	PUNCT	punc	_	4	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 compound	color:blue
+1	Formada	formar	VERB	v-pcp|F|S	Gender=Fem|Number=Sing|VerbForm=Part	16	advcl	_	_
+2	por	por	ADP	prp	AdpType=Prep	3	case	_	_
+3	técnicos	técnico	NOUN	n|M|P	Gender=Masc|Number=Plur	1	dobj	_	_
+4	de	de	ADP	prp|<sam->	AdpType=Prep	6	case	_	_
+5	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Fazenda	fazenda	NOUN	n|<prop>|F|S	Gender=Fem|Number=Sing	3	cc	_	_
+7	e	e	CONJ	conj-c|<co-postnom>	_	6	cc	_	_
+8	de	de	ADP	prp|<sam->	AdpType=Prep	10	case	_	_
+9	as	o	DET	art|<-sam>|<artd>|F|P	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	Minas	Minas	NOUN	n|<prop>|F|P	_	6	conj	_	_
+11	e	e	CONJ	CONJ	Gender=Fem|Number=Plur	10	compound	_	_
+12	Energia	Energia	NOUN	NOUN	_	10	compound	_	_
+13	,	,	PUNCT	punc	_	16	punct	_	_
+14	a	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	comissão	comissão	NOUN	n|F|S	Gender=Fem|Number=Sing	16	nsubj	_	_
+16	tem	ter	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	prazo	prazo	NOUN	n|M|S	Gender=Masc|Number=Sing	16	dobj	_	_
+18	de	de	ADP	prp	AdpType=Prep	20	case	_	_
+19	60	60	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	20	nummod	_	_
+20	dias	dia	NOUN	n|M|P	Gender=Masc|Number=Plur	17	nmod	_	_
+21	para	para	ADP	prp	AdpType=Prep	22	mark	_	_
+22	conluir	conluir	VERB	v-inf	VerbForm=Inf	17	acl	_	_
+23	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	trabalho	trabalho	NOUN	n|M|S	Gender=Masc|Number=Sing	22	dobj	_	_
+25	.	.	PUNCT	punc	_	16	punct	_	_
 
 ~~~
 

@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Portuguese)
 
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
@@ -20,7 +20,7 @@ The most frequent other feature values with which `VERB` and `Hyph` co-occurred:
 
 `VERB` tokens may have the following values of `Hyph`:
 
-* `Yes` (609; 100% of non-empty `Hyph`): _trata-, encontra-, deve-, recorde-, disse-, fazer-, limitou-, pode-, queixa-, referindo-_
+* `Yes` (609; 100% of non-empty `Hyph`): <em>trata-, encontra-, deve-, recorde-, disse-, fazer-, limitou-, pode-, queixa-, referindo-</em>
 
 `Hyph` seems to be **lexical feature** of `VERB`. 100% lemmas (307) occur only with one value of `Hyph`.
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `PRON` and `Hyph` co-occurred:
 
 `PRON` tokens may have the following values of `Hyph`:
 
-* `Yes` (13; 100% of non-empty `Hyph`): _se-, lhe-, la-, me-_
+* `Yes` (13; 100% of non-empty `Hyph`): <em>se-, lhe-, la-, me-</em>
 
 ### `PROPN`
 
@@ -42,17 +42,17 @@ The most frequent other feature values with which `PROPN` and `Hyph` co-occurred
 
 `PROPN` tokens may have the following values of `Hyph`:
 
-* `Yes` (7; 100% of non-empty `Hyph`): _PSD-Porto, Barcelona-Narbonne, CDS-PP, EUA, Madrid-Sevilha, Valencia-Barcelona_
+* `Yes` (7; 100% of non-empty `Hyph`): <em>PSD-Porto, Barcelona-Narbonne, CDS-PP, EUA, Madrid-Sevilha, Valencia-Barcelona</em>
 
 ### `PART`
 
-5 [pt-pos/PART]() tokens (100% of all `PART` tokens) have a non-empty value of `Hyph`.
+5 [pt-pos/PART]() tokens (11% of all `PART` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `PART` and `Hyph` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 80%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 80%).
+The most frequent other feature values with which `PART` and `Hyph` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (5; 100%).
 
 `PART` tokens may have the following values of `Hyph`:
 
-* `Yes` (5; 100% of non-empty `Hyph`): _anti-, ex, ex-, pré-, pós_
+* `Yes` (5; 100% of non-empty `Hyph`): <em>anti-, ex, ex-, pré-, pós</em>
 
 ### `NOUN`
 
@@ -62,25 +62,25 @@ The most frequent other feature values with which `NOUN` and `Hyph` co-occurred:
 
 `NOUN` tokens may have the following values of `Hyph`:
 
-* `Yes` (4; 100% of non-empty `Hyph`): _clientes, lugares-comuns, média-alta, partido_
+* `Yes` (4; 100% of non-empty `Hyph`): <em>clientes, lugares-comuns, média-alta, partido</em>
 
 ### `AUX`
 
 2 [pt-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `AUX` and `Hyph` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Hyph` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Hyph`:
 
-* `Yes` (2; 100% of non-empty `Hyph`): _encaminhar-, mandar-_
+* `Yes` (2; 100% of non-empty `Hyph`): <em>encaminhar-, mandar-</em>
 
 ### `ADJ`
 
 1 [pt-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 
-* `Yes` (1; 100% of non-empty `Hyph`): _socialistas_
+* `Yes` (1; 100% of non-empty `Hyph`): <em>socialistas</em>
 

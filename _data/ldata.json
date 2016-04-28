@@ -1,7 +1,13 @@
 [
   {
     "lang_code": "am", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Binyam Ephrem", 
+        "last": "Ephrem", 
+        "first": "Binyam"
+      }
+    ], 
     "lang_name": "Amharic"
   }, 
   {
@@ -131,6 +137,22 @@
     "lang_name": "Catalan"
   }, 
   {
+    "lang_code": "zh", 
+    "contributors": [
+      {
+        "full": "Mo Shen", 
+        "last": "Shen", 
+        "first": "Mo"
+      }, 
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }
+    ], 
+    "lang_name": "Chinese"
+  }, 
+  {
     "lang_code": "hr", 
     "contributors": [
       {
@@ -161,6 +183,38 @@
       }
     ], 
     "lang_name": "Czech"
+  }, 
+  {
+    "lang_code": "cs_cac", 
+    "contributors": [
+      {
+        "full": "Barbora Hladk\u00e1", 
+        "last": "Hladk\u00e1", 
+        "first": "Barbora"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Czech-CAC"
+  }, 
+  {
+    "lang_code": "cs_cltt", 
+    "contributors": [
+      {
+        "full": "Barbora Hladk\u00e1", 
+        "last": "Hladk\u00e1", 
+        "first": "Barbora"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Czech-CLTT"
   }, 
   {
     "lang_code": "da", 
@@ -257,8 +311,54 @@
   }, 
   {
     "lang_code": "en_esl", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Yevgeni Berzak", 
+        "last": "Berzak", 
+        "first": "Yevgeni"
+      }, 
+      {
+        "full": "Jessica Kenney", 
+        "last": "Kenney", 
+        "first": "Jessica"
+      }, 
+      {
+        "full": "Carolyn Spadine", 
+        "last": "Spadine", 
+        "first": "Carolyn"
+      }, 
+      {
+        "full": "Jing Xian Wang", 
+        "last": "Wang", 
+        "first": "Jing Xian"
+      }, 
+      {
+        "full": "Lucia Lam", 
+        "last": "Lam", 
+        "first": "Lucia"
+      }, 
+      {
+        "full": "Keiko Sophie Mori", 
+        "last": "Mori", 
+        "first": "Keiko Sophie"
+      }, 
+      {
+        "full": "Sebastian Garza", 
+        "last": "Garza", 
+        "first": "Sebastian"
+      }, 
+      {
+        "full": "Boris Katz", 
+        "last": "Katz", 
+        "first": "Boris"
+      }
+    ], 
     "lang_name": "English-ESL"
+  }, 
+  {
+    "lang_code": "en_lines", 
+    "contributors": [], 
+    "lang_name": "English-LinES"
   }, 
   {
     "lang_code": "et", 
@@ -618,7 +718,7 @@
     "lang_name": "Latin"
   }, 
   {
-    "lang_code": "la_itt", 
+    "lang_code": "la_ittb", 
     "contributors": [
       {
         "full": "Marco Passarotti", 
@@ -631,12 +731,12 @@
         "first": "Daniel"
       }, 
       {
-        "full": "Berta Gonzales", 
-        "last": "Gonzales", 
+        "full": "Berta Gonz\u00e1les Saavedra", 
+        "last": "Gonz\u00e1les Saavedra", 
         "first": "Berta"
       }
     ], 
-    "lang_name": "Latin-ITT"
+    "lang_name": "Latin-ITTB"
   }, 
   {
     "lang_code": "la_proiel", 
@@ -735,6 +835,27 @@
     "lang_name": "Portuguese"
   }, 
   {
+    "lang_code": "pt_br", 
+    "contributors": [
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Portuguese-BR"
+  }, 
+  {
     "lang_code": "ro", 
     "contributors": [
       {
@@ -774,39 +895,9 @@
     "lang_code": "ru", 
     "contributors": [
       {
-        "full": "Olga Lyashevskaya", 
-        "last": "Lyashevskaya", 
-        "first": "Olga"
-      }, 
-      {
-        "full": "Andrey Kutuzov", 
-        "last": "Kutuzov", 
-        "first": "Andrey"
-      }, 
-      {
-        "full": "Svetlana Toldova", 
-        "last": "Toldova", 
-        "first": "Svetlana"
-      }, 
-      {
-        "full": "Kira Droganova", 
-        "last": "Droganova", 
-        "first": "Kira"
-      }, 
-      {
-        "full": "Nina Mustafina", 
-        "last": "Mustafina", 
-        "first": "Nina"
-      }, 
-      {
-        "full": "Maria Alexeeva", 
-        "last": "Alexeeva", 
-        "first": "Maria"
-      }, 
-      {
-        "full": "Elena Shakurova", 
-        "last": "Shakurova", 
-        "first": "Elena"
+        "full": "Various at Google", 
+        "last": "Various at Google", 
+        "first": "?"
       }
     ], 
     "lang_name": "Russian"
@@ -831,6 +922,11 @@
       }
     ], 
     "lang_name": "Slovenian"
+  }, 
+  {
+    "lang_code": "sl_sst", 
+    "contributors": [], 
+    "lang_name": "Slovenian-SST"
   }, 
   {
     "lang_code": "es", 
@@ -874,7 +970,7 @@
     "lang_name": "Spanish"
   }, 
   {
-    "lang_code": "es", 
+    "lang_code": "es_ancora", 
     "contributors": [
       {
         "full": "H\u00e9ctor Mart\u00ednez Alonso", 
@@ -904,6 +1000,17 @@
       }
     ], 
     "lang_name": "Swedish"
+  }, 
+  {
+    "lang_code": "sv_lines", 
+    "contributors": [
+      {
+        "full": "Lars Ahrenberg", 
+        "last": "Ahrenberg", 
+        "first": "Lars"
+      }
+    ], 
+    "lang_name": "Swedish-LinES"
   }, 
   {
     "lang_code": "ta", 

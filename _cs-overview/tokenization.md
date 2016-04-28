@@ -36,13 +36,23 @@ We say that there is a multi-word token consisting of several syntactic words, e
 * _proň_ = _pro něj_ = “for him”
 * _naň_ = _na něj_ = “on him”
 * _oň_ = _o něj_ = “about him”
-* _zaň_ = _za něj_ = “behind him”
-
-Note: There are analogically fused words containing a preposition and the interrogative pronoun _co_ “what”.
-In this case, the resulting token is an interrogative adverb and it is not split: _proč_ “why”, _nač, oč, zač_ “for what”.
+* _zaň_ = _za něj_ = “behind/for him”
 
 This category covers words that would be tagged by the PDT tag `P0-------------`.
 However, no such word occurs in the PDT 3.0 data.
+
+### Preposition + Interrogative/Relative Pronoun *co* in the Accusative
+
+* _nač_ = _na co_ = “on what”
+* _oč_ = _o co_ = “about what”
+* _zač_ = _za co_ = “behind/for what”
+
+This category covers words that would be tagged by the PDT tag `PY-------------`.
+No such word occurs in the PDT 3.0 data but there are a few occurrences in the CAC 2.0 data.
+
+Note: There is another analogically fused word, _proč_ “why”. In contrast to the above, _proč_ has grammaticalized
+into an interrogative/relative adverb. It is more frequent than the three fusions listed above but it is not used
+to replace a prepositional object. We do not split it into _pro co_.
 
 ### Participle, Pronoun or Subordinating Conjunction + the Auxiliary *být* in the 2nd Person Singular *(jsi)*
 

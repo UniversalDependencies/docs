@@ -72,7 +72,17 @@ The former focuses on the process while the latter emphasizes the result.
 
 Czech modal verbs are not considered auxiliary and they are tagged `VERB`,
 in accord with the annotation in the Prague Dependency Treebank.
-Their behavior is only slightly different from content verbs.
+Their behavior is only slightly different from other content verbs.
+
+### Constructions with _mít_ and passive participle
+
+There is a construction parallel to the perfect tenses of Germanic and Romance languages:
+_mít_ “to have” + neuter singular passive participle, e.g. _mít (něco) uděláno_ “to have (something) done”.
+They can also apply to intransitive verbs: _mít vyhráno_ “to have won”.
+Sometimes the verb _mít_ shares the subject (actor) with the participle,
+but in other contexts such relation is not guaranteed: _mít (někde něco) napsáno_ “to have (something) written (somewhere)”.
+None of these constructions is considered a separate tense in the Czech grammar and the verb _mít_
+is not analyzed as auxiliary.
 
 ### References
 

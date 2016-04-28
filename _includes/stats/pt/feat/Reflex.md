@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Portuguese)
 
 This feature is universal.
 It occurs with 1 different values: `Yes`.
@@ -14,14 +14,14 @@ The feature is used with 2 part-of-speech tags: [pt-pos/PRON]() (782; 0% instanc
 
 ### `PRON`
 
-782 [pt-pos/PRON]() tokens (11% of all `PRON` tokens) have a non-empty value of `Reflex`.
+782 [pt-pos/PRON]() tokens (10% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (782; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (717; 92%), <tt><a href="Person.html">Person</a>=3</tt> (690; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (531; 68%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (445; 57%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (782; 100% of non-empty `Reflex`): _se, me, nos, si, se-, seu, te, me-, no, s_
-* `EMPTY` (6324): _que, se, o, ele, o_que, isso, os, quem, lhe, a_
+* `Yes` (782; 100% of non-empty `Reflex`): <em>se, me, nos, si, se-, seu, te, me-, no, s</em>
+* `EMPTY` (6846): <em>que, se, a, o, ele, o_que, os, isso, quem, lhe</em>
 
 ### `DET`
 
@@ -31,6 +31,6 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (560; 100% of non-empty `Reflex`): _sua, seu, seus, suas_
-* `EMPTY` (32660): _o, a, os, as, um, uma, este, esta, sua, seu_
+* `Yes` (560; 100% of non-empty `Reflex`): <em>sua, seu, seus, suas</em>
+* `EMPTY` (32884): <em>o, a, os, as, um, uma, este, esta, sua, seu</em>
 

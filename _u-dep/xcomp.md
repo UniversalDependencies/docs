@@ -10,9 +10,8 @@ reference of the subject is necessarily determined by an argument
 external to the xcomp (normally by the object of the next higher
 clause, if there is one, or else by the subject of the next higher
 clause). This is often referred to as *obligatory control*. 
-These complements are always non-finite, and they are
-complements (arguments of the higher verb or adjective) rather than
-adjuncts/modifiers, such as a purpose clause. The name `xcomp` is
+These clauses tend to be non-finite in many languages, 
+but they can be finite as well. The name `xcomp` is
 borrowed from Lexical-Functional Grammar.
 
 ~~~ sdparse
