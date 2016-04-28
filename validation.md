@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-28T09:21:49Z">2016-04-28T09:21:49 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-28T09:25:08Z">2016-04-28T09:25:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -684,8 +684,8 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T08:55:01Z">2016-04-28T08:55:01 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T09:24:29Z">2016-04-28T09:24:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -705,15 +705,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Tree number 5871 on line 164717]: Non-tree structure. Words 3,4 are not reachable from the root 0.
-[Tree number 7944 on line 223344]: Non-tree structure. Words 4,5,6 are not reachable from the root 0.
-[Tree number 7990 on line 224613]: Non-tree structure. Words 1,2,3,4,5,6 are not reachable from the root 0.
-[Tree number 8744 on line 246063]: Non-tree structure. Words 11,12,13,14,15,16,17 are not reachable from the root 0.
-[Tree number 10185 on line 286153]: Non-tree structure. Words 1,2,3,4,5,6,7,31 are not reachable from the root 0.
-[Tree number 10668 on line 299014]: Non-tree structure. Words 37,38 are not reachable from the root 0.
-[Tree number 11513 on line 323048]: Non-tree structure. Words 20,21,22 are not reachable from the root 0.
-*** FAILED *** with 7 errors
-Syntax errors: 7
+*** PASSED ***
 
 
 ******************
