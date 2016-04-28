@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-28T10:22:38Z">2016-04-28T10:22:38 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-28T10:24:19Z">2016-04-28T10:24:19 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1603,7 +1603,7 @@ python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_a
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T21:49:37Z">2016-04-27T21:49:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T10:24:08Z">2016-04-28T10:24:08 zulu</time></span>
 </div>
 <div>
 <pre>
