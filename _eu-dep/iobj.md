@@ -7,58 +7,54 @@ shortdef: 'indirect object'
 The indirect object (`iobj`) of a verb is any nominal phrase that is a core argument of the verb but is not its subject or direct object. 
 As Basque is a language that distinguishes morphological cases, the indirect object is marked by the dative case. 
 
-*Djukanovicek aldaketa handia eman dio **bere ildo politikoari-DAT***
+*Djukanovicek aldaketa handia eman dio bere ildo **politikoari .***
 
-*Djukanovic      a big change   has given  **to his political course-DAT***
-
-*Djukanovic has given a big change **to his political course-DAT***
+*Djukanovic has given a big change to his political **course** .*
 
 ~~~ sdparse
-Djukanovicek aldaketa handia eman dio bere ildo politikoari \n Djukanovic has given a big change to his political course 
+Djukanovicek aldaketa handia eman dio bere ildo politikoari .\n Djukanovic change big_a has given his course political_to . \n Djukanovic change a_big has given his course to_political .
 
-nsubj(eman, Djukanovicek)
-dobj(eman, aldaketa)
-amod(aldaketa, handia)
-aux(eman, dio)
-nmod(ildo, bere)
-amod(ildo, politikoari)
-iobj(eman, ildo)
+nsubj(eman-4, Djukanovicek-1)
+dobj(eman-4, aldaketa-2)
+amod(aldaketa-2, handia-3)
+aux(eman-4, dio-5)
+nmod(ildo-7, bere-6)
+amod(ildo-7, politikoari-8)
+iobj(eman-4, ildo-7)
+punct(eman-4, .-9)
 ~~~
 
 
-*Ahalegin haundia egin du **guri-DAT** geografia   irakasten* 
+*Ahalegin haundia egin du **guri** geografia irakasten .* 
 
-*a great effort       has made **us-DAT**  geography  teaching*
-
-*(He/she) has made a great effort teaching **us-DAT** geography*
+*(He/she) has made a great effort teaching **us** geography .*
 
 ~~~ sdparse
-Ahalegin haundia egin du guri geografia pittin bat irakasten \n (he/she) has made a great effort teaching us-IOBJ a geography 
+Ahalegin haundia egin du guri geografia irakasten .\n  effort great_a has made us geography teaching . \n  effort a_great has made us geography teaching .
 
-amod(ahalegin, haundia)
-dobj(egin, ahalegin)
-aux(egin, du)
-advcl(egin, irakasten)
-dobj(irakasten, geografia)
-iobj(irakasten, guria)
+amod(Ahalegin-1, haundia-2)
+dobj(egin-3, Ahalegin-1)
+aux(egin-3, du-4)
+advcl(egin-3, irakasten-7)
+dobj(irakasten-7, geografia-6)
+iobj(irakasten-7, guri-5)
+punct(egin-3, .-8)
 ~~~
 
 
 
-***Ikasleei-DAT**   esan zien arratsaldean  ikasi  behar zutela* 
+***Ikasleei** esan zien arratsaldean ikasi behar zutela .* 
 
 ***the students-DAT** told   in the evening to study  needed that*
 
-*She told **the students-DAT** that they needed to study in the evening*
+*(He/she told **the students** that they needed to study in the evening .*
 
 ~~~ sdparse
-Ikasleei esan zien arratsaldean ikasi behar zutela \n She told the students that they needed to study this evening
-iobj(esan, Ikasleei)
-aux(esan, zien)
-nmod(esan, arratsaldean)
-xcomp(behar_zutela, ikasi)
-ccomp(esan, behar_zutela)
-
-iobj(told, students)
-ccomp(told, needed)
+Ikasleei esan zien arratsaldean ikasi behar zutela .\n the_students told in_the_evening to_study that_needed .\n the_students told evening_the_in study_to needed_that
+iobj(esan-2, Ikasleei-1)
+aux(esan-2, zien-3)
+nmod(esan-2, arratsaldean-4)
+xcomp(behar_zutela-6, ikasi-5)
+ccomp(esan-2, behar_zutela-6)
+punct(esan-2, .-8)
 ~~~
