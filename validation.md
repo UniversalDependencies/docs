@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-28T10:32:19Z">2016-04-28T10:32:19 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-28T10:42:58Z">2016-04-28T10:42:58 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -524,11 +524,11 @@ python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T09:21:43Z">2016-04-28T09:21:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T10:42:53Z">2016-04-28T10:42:53 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en-lines-ud-dev.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
 
 [Tree number 0 on line 0]: The language-specific file data/deprel.en_lines could not be found. Dependency relations will not be checked.
 Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.en_lines
@@ -546,7 +546,7 @@ Language specific data missing errors: 2
 
 ******************
 
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en-lines-ud-test.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-test.conllu
 
 [Tree number 0 on line 0]: The language-specific file data/deprel.en_lines could not be found. Dependency relations will not be checked.
 Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.en_lines
@@ -564,7 +564,7 @@ Language specific data missing errors: 2
 
 ******************
 
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en-lines-ud-train.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
 
 [Tree number 0 on line 0]: The language-specific file data/deprel.en_lines could not be found. Dependency relations will not be checked.
 Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.en_lines
