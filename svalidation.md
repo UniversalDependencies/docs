@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-27T21:48:36Z">2016-04-27T21:48:36 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-28T02:32:38Z">2016-04-28T02:32:38 zulu</time>
 
 # Aux chain
 
@@ -12021,7 +12021,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English</span>
-<span class="widespan">86 hits</span>
+<span class="widespan">85 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21PUNCT+%3Cpunct+_&db=UD_English-dev">Go to search</a><p/>
@@ -12815,7 +12815,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English</span>
-<span class="widespan">2831 hits</span>
+<span class="widespan">2832 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=UD_English-dev">Go to search</a><p/>
@@ -13609,7 +13609,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English</span>
-<span class="widespan">8 hits</span>
+<span class="widespan">6 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=UD_English-dev">Go to search</a><p/>
@@ -23264,7 +23264,7 @@ Search expression: `!NUM <nummod _`
 <tr><td>UD_English</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cnummod+_&db=UD_English-dev">5</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cnummod+_&db=UD_English-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cnummod+_&db=UD_English-dev">7</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cnummod+_&db=UD_English-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cnummod+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cnummod+_&db=UD_English-dev">8</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cnummod+_&db=UD_English-dev">52</a></td>
@@ -23937,7 +23937,7 @@ Search expression: `!NUM <nummod _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English</span>
-<span class="widespan">197 hits</span>
+<span class="widespan">196 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21NUM+%3Cnummod+_&db=UD_English-dev">Go to search</a><p/>
@@ -24277,7 +24277,7 @@ Search expression: `AUX (<!aux&<!auxpass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_Dutch-dev">4724</a></td>
 </tr>
 <tr><td>UD_English</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_English-dev">90</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_English-dev">88</a></td>
 </tr>
 <tr><td>UD_English-ESL</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_English-ESL-dev">26</a></td>
@@ -24501,7 +24501,7 @@ Search expression: `AUX (<!aux&<!auxpass) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English</span>
-<span class="widespan">90 hits</span>
+<span class="widespan">88 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_English-dev">Go to search</a><p/>
@@ -26322,7 +26322,7 @@ Search expression: `_ <expl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cexpl+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cexpl+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cexpl+_&db=UD_English-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cexpl+_&db=UD_English-dev">724</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cexpl+_&db=UD_English-dev">725</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cexpl+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cexpl+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cexpl+_&db=UD_English-dev">&nbsp;</a></td>
@@ -26949,7 +26949,7 @@ Search expression: `_ <expl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English</span>
-<span class="widespan">731 hits</span>
+<span class="widespan">732 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cexpl+_&db=UD_English-dev">Go to search</a><p/>
@@ -27437,7 +27437,7 @@ Search expression: `_ < (_ <expl _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3C+%28_+%3Cexpl+_%29&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3C+%28_+%3Cexpl+_%29&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3C+%28_+%3Cexpl+_%29&db=UD_English-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3C+%28_+%3Cexpl+_%29&db=UD_English-dev">2</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3C+%28_+%3Cexpl+_%29&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3C+%28_+%3Cexpl+_%29&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3C+%28_+%3Cexpl+_%29&db=UD_English-dev">&nbsp;</a></td>
 </tr>
@@ -28063,7 +28063,7 @@ Search expression: `_ < (_ <expl _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English</span>
-<span class="widespan">2 hits</span>
+<span class="widespan">0 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3C+%28_+%3Cexpl+_%29&db=UD_English-dev">Go to search</a><p/>
@@ -28605,7 +28605,7 @@ Search expression: `_ >expl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Eexpl+_&db=UD_English-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Eexpl+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Eexpl+_&db=UD_English-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Eexpl+_&db=UD_English-dev">35</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Eexpl+_&db=UD_English-dev">36</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Eexpl+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Eexpl+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Eexpl+_&db=UD_English-dev">&nbsp;</a></td>
@@ -29397,7 +29397,7 @@ Search expression: `_ >expl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English</span>
-<span class="widespan">730 hits</span>
+<span class="widespan">731 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Eexpl+_&db=UD_English-dev">Go to search</a><p/>
@@ -29947,7 +29947,7 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Excomp+_&db=UD_Dutch-dev">2</a></td>
 </tr>
 <tr><td>UD_English</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Excomp+_&db=UD_English-dev">245</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Excomp+_&db=UD_English-dev">244</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Excomp+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Excomp+_&db=UD_English-dev">5</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Excomp+_&db=UD_English-dev">6</a></td>
@@ -29961,7 +29961,7 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Excomp+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Excomp+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Excomp+_&db=UD_English-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_English-dev">3302</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_English-dev">3304</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Excomp+_&db=UD_English-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_English-ESL</td>
@@ -30786,7 +30786,7 @@ Search expression: `_ >xcomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English</span>
-<span class="widespan">3565 hits</span>
+<span class="widespan">3566 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Excomp+_&db=UD_English-dev">Go to search</a><p/>
