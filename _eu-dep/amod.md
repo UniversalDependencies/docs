@@ -4,33 +4,44 @@ title: 'amod'
 shortdef: 'adjectival modifier'
 ---
 
-Nouns may take adjectival modifiers, which are marked with the
-dependency type `amod`. Most of the adjectives appear after the noun they modify, though some of them may appear before.
+Nouns may take adjectival modifiers, which are marked with the dependency type `amod`. Most of the adjectives appear after the noun they modify, though some of them may appear before.
 
-* English: The change has caused huge discussions . 
-
-* Basque: Eztabaida handiak sortu ditu aldaketak .
-
-*Discussion huge-pl cause aux-trans-present change-erg.*
+*Epaiketa horrek kezka **handia** piztu du .* 
+*That trial has caused a **big** concern . *
 
 ~~~ sdparse
-Eztabaida handiak sortu ditu aldaketak .
+Epaiketa horrek kezka handia piztu du . \n trial that concern big_a has caused . \n trial that concern a_big has caused .
 
-amod(Eztabaida-1, handiak-2)
-nobj(sortu-3, Eztabaida-1)
-aux(sortu-3, ditu-4)
-nsubj(sortu-3, aldaketak-5)
+nsubj(piztu-5, Epaiketa-1)
+det(Epaiketa-1, horrek-2)
+amod(kezka-3, handia-4)
+dobj(piztu-5, kezka-3)
+aux(piztu-5, du-6)
+punct(piztu-5, .-7)
 ~~~
 
 
-* English: Derartu Tulu made the last 400 meters in one minute . 
-
-* Basque: Azkeneko 400 metroak minutu batean osatu zituen Derartu Tuluk .
-
-*Last 400 meters minute one make aux-trans-past Derartu Tulu-erg.*
+*Mutikoak heldu ditun dantzaldira atorra **urdin argi** batekin . *
+*The boys have arrived to the ball with a **light blue** shirt . *
 
 ~~~ sdparse
-Azkeneko 400 metroak minutu batean osatu zituen Derartu Tuluk .
+Mutikoak heldu ditun dantzaldira atorra urdin argi batekin . \n The_boys arrived have to_the_ball blue light shirt a_with. \n boys_the arrived have ball_the_to shirt blue light one_with
+
+nsubj(Mutikoak-1, heldu-2)
+aux(heldu-2, ditun-3)
+nmod(heldu-2, dantzaldira-4)
+nmod(heldu-2, atorra-5)
+amod(atorra-5, urdin-6)
+amod(urdin-6, argi-7)
+det(atorra-5, batekin-8)
+punct(heldu-2, .-9)
+~~~
+
+***Azkeneko** 400 metroak minutu batean osatu zituen Derartu Tuluk .*
+*Derartu Tulu made the **last** 400 meters in one minute .* 
+
+~~~ sdparse
+Azkeneko 400 metroak minutu batean osatu zituen Derartu Tuluk . \n last 400 meters_the minute one_in made aux-trans-past Derartu Tulu . \n last 400 the_meters minute in_one made aux-trans-past Derartu Tulu .
 
 amod(metroak-3, Azkeneko-1)
 nummod(metroak-3, 400-2)
@@ -40,4 +51,5 @@ nummod(minutu-4, batean-5)
 aux(osatu-6, zituen-7)
 name(Derartu-8, Tuluk-9)
 nsubj(osatu-6, Derartu-8)
+punct(osatu-6, .-10)
 ~~~
