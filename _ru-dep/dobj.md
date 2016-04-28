@@ -28,9 +28,9 @@ dobj(afraid, this)
 Dative example:
 
 ~~~ sdparse
-Я разрешаю вам идти . \n I let you go .
-dobj(разрешаю, вам)
-dobj(let, you)
+Но это не соответствует действительности . \n But this not corresponds to-reality .
+dobj(соответствует, действительности)
+dobj(corresponds, to-reality)
 ~~~
 
 Instrumental example:
