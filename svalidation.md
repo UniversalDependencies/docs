@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-28T10:03:23Z">2016-04-28T10:03:23 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-28T10:15:13Z">2016-04-28T10:15:13 zulu</time>
 
 # Aux chain
 
@@ -350,7 +350,7 @@ aux(left, have)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Caux+%28_+%3Caux+_%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Caux+%28_+%3Caux+_%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Caux+%28_+%3Caux+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Caux+%28_+%3Caux+_%29&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Caux+%28_+%3Caux+_%29&db=UD_Galician-dev">11</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Caux+%28_+%3Caux+_%29&db=UD_Galician-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_German</td>
@@ -966,7 +966,7 @@ aux(left, have)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">11 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Caux+%28_+%3Caux+_%29&db=UD_Galician-dev">Go to search</a><p/>
@@ -4432,7 +4432,7 @@ Search expression: `_ <foreign@R _`
 </div>
 <div>
 <table>
-<tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>CONJ</th><th>INTJ</th><th>NOUN</th><th>PART</th><th>PRON</th><th>PROPN</th><th>SCONJ</th><th>VERB</th><th>X</th> </tr>
+<tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>CONJ</th><th>INTJ</th><th>NOUN</th><th>NUM</th><th>PART</th><th>PRON</th><th>PROPN</th><th>SCONJ</th><th>VERB</th><th>X</th> </tr>
 <tr><td>UD_Amharic</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cforeign%40R+_&db=UD_Amharic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cforeign%40R+_&db=UD_Amharic-dev">&nbsp;</a></td>
@@ -4440,6 +4440,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Amharic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Amharic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Amharic-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Amharic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Amharic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Amharic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Amharic-dev">&nbsp;</a></td>
@@ -4454,6 +4455,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Ancient_Greek-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Ancient_Greek-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Ancient_Greek-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Ancient_Greek-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Ancient_Greek-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Ancient_Greek-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Ancient_Greek-dev">&nbsp;</a></td>
@@ -4468,6 +4470,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
@@ -4482,6 +4485,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
@@ -4496,6 +4500,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Basque-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Basque-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Basque-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Basque-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Basque-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Basque-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Basque-dev">&nbsp;</a></td>
@@ -4510,6 +4515,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
@@ -4524,6 +4530,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Catalan-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Catalan-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Catalan-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Catalan-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Catalan-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Catalan-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Catalan-dev">&nbsp;</a></td>
@@ -4538,6 +4545,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Chinese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Chinese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Chinese-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Chinese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Chinese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Chinese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Chinese-dev">&nbsp;</a></td>
@@ -4552,6 +4560,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Croatian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Croatian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Croatian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Croatian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Croatian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Croatian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Croatian-dev">3</a></td>
@@ -4566,6 +4575,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Czech-dev">40</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Czech-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Czech-dev">151</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Czech-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Czech-dev">21</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Czech-dev">51</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Czech-dev">261</a></td>
@@ -4580,6 +4590,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Czech-CAC-dev">16</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Czech-CAC-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Czech-CAC-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Czech-CAC-dev">2</a></td>
@@ -4594,6 +4605,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Czech-CLTT-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Czech-CLTT-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Czech-CLTT-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Czech-CLTT-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Czech-CLTT-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Czech-CLTT-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Czech-CLTT-dev">&nbsp;</a></td>
@@ -4608,6 +4620,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Danish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Danish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Danish-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Danish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Danish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Danish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Danish-dev">2</a></td>
@@ -4622,6 +4635,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Dutch-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Dutch-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Dutch-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Dutch-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Dutch-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Dutch-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Dutch-dev">&nbsp;</a></td>
@@ -4636,6 +4650,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_English-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_English-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_English-dev">&nbsp;</a></td>
@@ -4650,6 +4665,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_English-ESL-dev">&nbsp;</a></td>
@@ -4664,6 +4680,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_English-LinES-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_English-LinES-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_English-LinES-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_English-LinES-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_English-LinES-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_English-LinES-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_English-LinES-dev">&nbsp;</a></td>
@@ -4678,6 +4695,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Estonian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Estonian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Estonian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Estonian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Estonian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Estonian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Estonian-dev">&nbsp;</a></td>
@@ -4692,6 +4710,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Finnish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Finnish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Finnish-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Finnish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Finnish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Finnish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Finnish-dev">&nbsp;</a></td>
@@ -4706,6 +4725,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Finnish-FTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Finnish-FTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Finnish-FTB-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Finnish-FTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Finnish-FTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Finnish-FTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Finnish-FTB-dev">&nbsp;</a></td>
@@ -4720,6 +4740,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_French-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_French-dev">&nbsp;</a></td>
@@ -4728,17 +4749,18 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cforeign%40R+_&db=UD_French-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Galician</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cforeign%40R+_&db=UD_Galician-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Galician-dev">5</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Galician-dev">4</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Galician-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cforeign%40R+_&db=UD_Galician-dev">9</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cforeign%40R+_&db=UD_Galician-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_German</td>
@@ -4748,6 +4770,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_German-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_German-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_German-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_German-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_German-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_German-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_German-dev">&nbsp;</a></td>
@@ -4762,6 +4785,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Gothic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Gothic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Gothic-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Gothic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Gothic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Gothic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Gothic-dev">&nbsp;</a></td>
@@ -4776,6 +4800,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Greek-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Greek-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Greek-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Greek-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Greek-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Greek-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Greek-dev">&nbsp;</a></td>
@@ -4790,6 +4815,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Hebrew-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Hebrew-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Hebrew-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Hebrew-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Hebrew-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Hebrew-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Hebrew-dev">&nbsp;</a></td>
@@ -4804,6 +4830,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Hindi-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Hindi-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Hindi-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Hindi-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Hindi-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Hindi-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Hindi-dev">&nbsp;</a></td>
@@ -4818,6 +4845,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Hungarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Hungarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Hungarian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Hungarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Hungarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Hungarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Hungarian-dev">&nbsp;</a></td>
@@ -4832,6 +4860,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Indonesian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Indonesian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Indonesian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Indonesian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Indonesian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Indonesian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Indonesian-dev">&nbsp;</a></td>
@@ -4846,6 +4875,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Irish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Irish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Irish-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Irish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Irish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Irish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Irish-dev">&nbsp;</a></td>
@@ -4860,6 +4890,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Italian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Italian-dev">&nbsp;</a></td>
@@ -4874,6 +4905,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
@@ -4888,6 +4920,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
@@ -4902,6 +4935,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Korean-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Korean-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Korean-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Korean-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Korean-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Korean-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Korean-dev">&nbsp;</a></td>
@@ -4916,6 +4950,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Latin-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Latin-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Latin-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Latin-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Latin-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Latin-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Latin-dev">&nbsp;</a></td>
@@ -4930,6 +4965,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Latin-ITT-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Latin-ITT-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Latin-ITT-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Latin-ITT-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Latin-ITT-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Latin-ITT-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Latin-ITT-dev">&nbsp;</a></td>
@@ -4944,6 +4980,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
@@ -4958,6 +4995,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Latin-PROIEL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Latin-PROIEL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Latin-PROIEL-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Latin-PROIEL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Latin-PROIEL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Latin-PROIEL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Latin-PROIEL-dev">&nbsp;</a></td>
@@ -4972,6 +5010,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Norwegian-dev">&nbsp;</a></td>
@@ -4986,6 +5025,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Old_Church_Slavonic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Old_Church_Slavonic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Old_Church_Slavonic-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Old_Church_Slavonic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Old_Church_Slavonic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Old_Church_Slavonic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Old_Church_Slavonic-dev">&nbsp;</a></td>
@@ -5000,6 +5040,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Persian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Persian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Persian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Persian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Persian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Persian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Persian-dev">&nbsp;</a></td>
@@ -5014,6 +5055,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Polish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Polish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Polish-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Polish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Polish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Polish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Polish-dev">&nbsp;</a></td>
@@ -5028,6 +5070,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Portuguese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Portuguese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Portuguese-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Portuguese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Portuguese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Portuguese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Portuguese-dev">&nbsp;</a></td>
@@ -5042,6 +5085,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Portuguese-BR-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Portuguese-BR-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Portuguese-BR-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Portuguese-BR-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Portuguese-BR-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Portuguese-BR-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Portuguese-BR-dev">&nbsp;</a></td>
@@ -5056,6 +5100,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Romanian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Romanian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Romanian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Romanian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Romanian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Romanian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Romanian-dev">&nbsp;</a></td>
@@ -5070,6 +5115,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Russian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Russian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Russian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Russian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Russian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Russian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Russian-dev">&nbsp;</a></td>
@@ -5084,6 +5130,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Slovenian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Slovenian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Slovenian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Slovenian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Slovenian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Slovenian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Slovenian-dev">&nbsp;</a></td>
@@ -5098,6 +5145,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Slovenian-SST-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Slovenian-SST-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Slovenian-SST-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Slovenian-SST-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Slovenian-SST-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Slovenian-SST-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Slovenian-SST-dev">&nbsp;</a></td>
@@ -5112,6 +5160,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Spanish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Spanish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Spanish-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Spanish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Spanish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Spanish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Spanish-dev">&nbsp;</a></td>
@@ -5126,6 +5175,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Spanish-AnCora-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Spanish-AnCora-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Spanish-AnCora-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Spanish-AnCora-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Spanish-AnCora-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Spanish-AnCora-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Spanish-AnCora-dev">&nbsp;</a></td>
@@ -5140,6 +5190,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Swedish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Swedish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Swedish-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Swedish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Swedish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Swedish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Swedish-dev">&nbsp;</a></td>
@@ -5154,6 +5205,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
@@ -5168,6 +5220,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Tamil-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Tamil-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Tamil-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Tamil-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Tamil-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Tamil-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Tamil-dev">&nbsp;</a></td>
@@ -5182,6 +5235,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Turkish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Turkish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Turkish-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Turkish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Turkish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Turkish-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Turkish-dev">&nbsp;</a></td>
@@ -5196,6 +5250,7 @@ Search expression: `_ <foreign@R _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Ukrainian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Ukrainian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cforeign%40R+_&db=UD_Ukrainian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cforeign%40R+_&db=UD_Ukrainian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cforeign%40R+_&db=UD_Ukrainian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cforeign%40R+_&db=UD_Ukrainian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cforeign%40R+_&db=UD_Ukrainian-dev">&nbsp;</a></td>
@@ -5354,7 +5409,7 @@ Search expression: `_ <foreign@R _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">22 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cforeign%40R+_&db=UD_Galician-dev">Go to search</a><p/>
@@ -10582,20 +10637,20 @@ Search expression: `(!VERB) <cop _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ccop+_&db=UD_French-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Galician</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccop+_&db=UD_Galician-dev">818</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccop+_&db=UD_Galician-dev">168</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccop+_&db=UD_Galician-dev">17</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Ccop+_&db=UD_Galician-dev">6</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccop+_&db=UD_Galician-dev">586</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Ccop+_&db=UD_Galician-dev">10</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Ccop+_&db=UD_Galician-dev">69</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ccop+_&db=UD_Galician-dev">13</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Ccop+_&db=UD_Galician-dev">11</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Ccop+_&db=UD_Galician-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ccop+_&db=UD_Galician-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_German</td>
@@ -11310,7 +11365,7 @@ Search expression: `(!VERB) <cop _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">1699 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21VERB%29+%3Ccop+_&db=UD_Galician-dev">Go to search</a><p/>
@@ -12125,7 +12180,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">202 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21PUNCT+%3Cpunct+_&db=UD_Galician-dev">Go to search</a><p/>
@@ -12522,7 +12577,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">30 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%28%3C%21punct%26%3C%21root%29+_&db=UD_Galician-dev">Go to search</a><p/>
@@ -12919,7 +12974,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">29819 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=UD_Galician-dev">Go to search</a><p/>
@@ -13316,7 +13371,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">2360 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=UD_Galician-dev">Go to search</a><p/>
@@ -13713,7 +13768,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">14525 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=UD_Galician-dev">Go to search</a><p/>
@@ -15126,7 +15181,7 @@ Search expression: `_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubj
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Galician-dev">632</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Galician-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_German</td>
@@ -15824,7 +15879,7 @@ Search expression: `_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubj
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">632 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Galician-dev">Go to search</a><p/>
@@ -16472,22 +16527,22 @@ Search expression: `_ <case (_ <!nmod _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_French-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Galician</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">6</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">11101</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">1030</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">50</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">5</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">5</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">88</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">3</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">39</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">191</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_German</td>
@@ -17268,7 +17323,7 @@ Search expression: `_ <case (_ <!nmod _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">12521 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Galician-dev">Go to search</a><p/>
@@ -17580,7 +17635,7 @@ Search expression: `NOUN <case _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_French-dev">74</a></td>
 </tr>
 <tr><td>UD_Galician</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_Galician-dev">101</a></td>
 </tr>
 <tr><td>UD_German</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_German-dev">4</a></td>
@@ -17832,7 +17887,7 @@ Search expression: `NOUN <case _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">101 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_Galician-dev">Go to search</a><p/>
@@ -19585,7 +19640,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">548 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Galician-dev">Go to search</a><p/>
@@ -20235,14 +20290,14 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <tr><td>UD_Galician</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">195</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">9</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">&nbsp;</a></td>
@@ -21029,7 +21084,7 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">204 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Galician-dev">Go to search</a><p/>
@@ -22620,7 +22675,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_French-dev">659</a></td>
 </tr>
 <tr><td>UD_Galician</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Galician-dev">885</a></td>
 </tr>
 <tr><td>UD_German</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_German-dev">1026</a></td>
@@ -22872,7 +22927,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">885 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Galician-dev">Go to search</a><p/>
@@ -23425,7 +23480,7 @@ Search expression: `!NUM <nummod _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cnummod+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cnummod+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Cnummod+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cnummod+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cnummod+_&db=UD_Galician-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cnummod+_&db=UD_Galician-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_German</td>
@@ -24041,7 +24096,7 @@ Search expression: `!NUM <nummod _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">1 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21NUM+%3Cnummod+_&db=UD_Galician-dev">Go to search</a><p/>
@@ -25215,16 +25270,16 @@ Search expression: `!AUX (<aux|<auxpass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">5</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">10</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">1347</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_German</td>
@@ -25939,7 +25994,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">1363 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21AUX+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Galician-dev">Go to search</a><p/>

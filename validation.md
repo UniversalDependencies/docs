@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-28T10:09:16Z">2016-04-28T10:09:16 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-28T10:16:34Z">2016-04-28T10:16:34 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -716,217 +716,28 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-22T10:17:42Z">2016-04-22T10:17:42 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T10:16:25Z">2016-04-28T10:16:25 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician/gl-ud-dev.conllu
+python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-dev.conllu
 
-[Line                   1]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1]: Repeated features are disallowed: -
-[Line                   1]: Malformed head:deprel pair '-'
-[Line                   1]: Failed for parse DEPS: -
-[Line                   2]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   2]: Repeated features are disallowed: -
-[Line                   2]: Malformed head:deprel pair '-'
-[Line                   2]: Failed for parse DEPS: -
-[Line                   3]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3]: Repeated features are disallowed: -
-[Line                   3]: Malformed head:deprel pair '-'
-[Line                   3]: Failed for parse DEPS: -
-[Line                   4]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   4]: Repeated features are disallowed: -
-[Line                   4]: Malformed head:deprel pair '-'
-[Line                   4]: Failed for parse DEPS: -
-[Line                   5]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   5]: Repeated features are disallowed: -
-[Line                   5]: Malformed head:deprel pair '-'
-[Line                   5]: Failed for parse DEPS: -
-[Line                   6]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   6]: Repeated features are disallowed: -
-[Line                   6]: Malformed head:deprel pair '-'
-[Line                   6]: Failed for parse DEPS: -
-[Line                   7]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   7]: Repeated features are disallowed: -
-[Line                   7]: Malformed head:deprel pair '-'
-[Line                   7]: Failed for parse DEPS: -
-[Line                   8]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   8]: Repeated features are disallowed: -
-[Line                   8]: Malformed head:deprel pair '-'
-[Line                   8]: Failed for parse DEPS: -
-[Line                   9]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   9]: Repeated features are disallowed: -
-[Line                   9]: Malformed head:deprel pair '-'
-[Line                   9]: Failed for parse DEPS: -
-[Line                   10]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-[Line                   10]: Malformed head:deprel pair '-'
-...suppressing further errors regarding Syntax
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-[Line                   46]: Failed for parse DEPS: -
-...suppressing further errors regarding Format
-*** FAILED *** with 149748 errors
-Format errors: 30640
-Morpho errors: 59554
-Syntax errors: 59554
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician/gl-ud-test.conllu
+python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-test.conllu
 
-[Line                   1]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1]: Repeated features are disallowed: -
-[Line                   1]: Malformed head:deprel pair '-'
-[Line                   1]: Failed for parse DEPS: -
-[Line                   2]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   2]: Repeated features are disallowed: -
-[Line                   2]: Malformed head:deprel pair '-'
-[Line                   2]: Failed for parse DEPS: -
-[Line                   3]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3]: Repeated features are disallowed: -
-[Line                   3]: Malformed head:deprel pair '-'
-[Line                   3]: Failed for parse DEPS: -
-[Line                   4]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   4]: Repeated features are disallowed: -
-[Line                   4]: Malformed head:deprel pair '-'
-[Line                   4]: Failed for parse DEPS: -
-[Line                   5]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   5]: Repeated features are disallowed: -
-[Line                   5]: Malformed head:deprel pair '-'
-[Line                   5]: Failed for parse DEPS: -
-[Line                   6]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   6]: Repeated features are disallowed: -
-[Line                   6]: Malformed head:deprel pair '-'
-[Line                   6]: Failed for parse DEPS: -
-[Line                   7]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   7]: Repeated features are disallowed: -
-[Line                   7]: Malformed head:deprel pair '-'
-[Line                   7]: Failed for parse DEPS: -
-[Line                   8]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   8]: Repeated features are disallowed: -
-[Line                   8]: Malformed head:deprel pair '-'
-[Line                   8]: Failed for parse DEPS: -
-[Line                   9]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   9]: Repeated features are disallowed: -
-[Line                   9]: Malformed head:deprel pair '-'
-[Line                   9]: Failed for parse DEPS: -
-[Line                   10]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-[Line                   10]: Malformed head:deprel pair '-'
-...suppressing further errors regarding Syntax
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-[Line                   48]: Failed for parse DEPS: -
-...suppressing further errors regarding Format
-*** FAILED *** with 149594 errors
-Format errors: 30610
-Morpho errors: 59492
-Syntax errors: 59492
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician/gl-ud-train.conllu
+python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conllu
 
-[Line                   1]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1]: Repeated features are disallowed: -
-[Line                   1]: Malformed head:deprel pair '-'
-[Line                   1]: Failed for parse DEPS: -
-[Line                   2]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   2]: Repeated features are disallowed: -
-[Line                   2]: Malformed head:deprel pair '-'
-[Line                   2]: Failed for parse DEPS: -
-[Line                   3]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3]: Repeated features are disallowed: -
-[Line                   3]: Malformed head:deprel pair '-'
-[Line                   3]: Failed for parse DEPS: -
-[Line                   4]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   4]: Repeated features are disallowed: -
-[Line                   4]: Malformed head:deprel pair '-'
-[Line                   4]: Failed for parse DEPS: -
-[Line                   5]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   5]: Repeated features are disallowed: -
-[Line                   5]: Malformed head:deprel pair '-'
-[Line                   5]: Failed for parse DEPS: -
-[Line                   6]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   6]: Repeated features are disallowed: -
-[Line                   6]: Malformed head:deprel pair '-'
-[Line                   6]: Failed for parse DEPS: -
-[Line                   7]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   7]: Repeated features are disallowed: -
-[Line                   7]: Malformed head:deprel pair '-'
-[Line                   7]: Failed for parse DEPS: -
-[Line                   8]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   8]: Repeated features are disallowed: -
-[Line                   8]: Malformed head:deprel pair '-'
-[Line                   8]: Failed for parse DEPS: -
-[Line                   9]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   9]: Repeated features are disallowed: -
-[Line                   9]: Malformed head:deprel pair '-'
-[Line                   9]: Failed for parse DEPS: -
-[Line                   10]: Spurious morphological feature: '-'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-[Line                   10]: Malformed head:deprel pair '-'
-...suppressing further errors regarding Syntax
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-[Line                   43]: Failed for parse DEPS: -
-...suppressing further errors regarding Format
-*** FAILED *** with 398921 errors
-Format errors: 81605
-Morpho errors: 158658
-Syntax errors: 158658
+*** PASSED ***
 
 
 ******************
