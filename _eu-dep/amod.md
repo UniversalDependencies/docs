@@ -7,6 +7,7 @@ shortdef: 'adjectival modifier'
 Nouns may take adjectival modifiers, which are marked with the dependency type `amod`. Most of the adjectives appear after the noun they modify, though some of them may appear before.
 
 *Epaiketa horrek kezka **handia** piztu du .* 
+
 *That trial has caused a **big** concern . *
 
 ~~~ sdparse
@@ -22,6 +23,7 @@ punct(piztu-5, .-7)
 
 
 *Mutikoak heldu ditun dantzaldira atorra **urdin argi** batekin . *
+
 *The boys have arrived to the ball with a **light blue** shirt . *
 
 ~~~ sdparse
@@ -38,6 +40,7 @@ punct(heldu-2, .-9)
 ~~~
 
 ***Azkeneko** 400 metroak minutu batean osatu zituen Derartu Tuluk .*
+
 *Derartu Tulu made the **last** 400 meters in one minute .* 
 
 ~~~ sdparse
