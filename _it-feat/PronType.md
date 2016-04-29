@@ -88,4 +88,9 @@ We distinguish only negative adverbs such as: _non_, _nemmeno, _neppure_.
 * Indefinite pronouns: _uno_ "one", _tutti_ "everybody", _ognuno_ "each one", _chiunque_ "anybody", _qualcosa_ "something", _qualcuno_ "somebody"
 * indefinite determiners: _tutti_ "all", _qualche_ "some", _ogni_ "each", _alcuni_ "some", _diversi_ "several"
 
+### `Exc`: exclamative determiners. This value is language specific.
+
+#### Examples
+
+* _che_ disastro "what a disaster", _che_ catastrofe "what a catastrophe"
 
