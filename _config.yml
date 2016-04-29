@@ -609,6 +609,20 @@ collections:
   ru-overview:
     output: true
 #
+# Latvian
+#
+  lv-pos:
+    output: true
+    permalink: /lv/pos/:path.html
+  lv-feat:
+    output: true
+    permalink: /lv/feat/:path.html
+  lv-dep:
+    output: true
+    permalink: /lv/dep/:path.html
+  lv-overview:
+    output: true
+#
 # Template
 #
   template-pos:
