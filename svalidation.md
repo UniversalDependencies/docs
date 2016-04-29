@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-29T19:41:53Z">2016-04-29T19:41:53 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-29T19:52:51Z">2016-04-29T19:52:51 zulu</time>
 
 # Aux chain
 
@@ -7876,7 +7876,7 @@ appos(brother, Sam)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cappos%40R+_&db=UD_Czech-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Czech-CAC</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cappos%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cappos%40R+_&db=UD_Czech-CAC-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cappos%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cappos%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cappos%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
@@ -7889,7 +7889,7 @@ appos(brother, Sam)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cappos%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cappos%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Cappos%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cappos%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cappos%40R+_&db=UD_Czech-CAC-dev">4</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cappos%40R+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Czech-CLTT</td>
@@ -8714,7 +8714,7 @@ appos(brother, Sam)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech-CAC</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">10 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cappos%40R+_&db=UD_Czech-CAC-dev">Go to search</a><p/>
@@ -20439,7 +20439,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech-CAC</span>
-<span class="widespan">3258 hits</span>
+<span class="widespan">3248 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Czech-CAC-dev">Go to search</a><p/>
@@ -27321,8 +27321,8 @@ Search expression: `_ < (_ <cc _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">4</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">8</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">7</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">3</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">4</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
@@ -28218,7 +28218,7 @@ Search expression: `_ < (_ <cc _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech-CAC</span>
-<span class="widespan">281 hits</span>
+<span class="widespan">275 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">Go to search</a><p/>
