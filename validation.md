@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-29T20:10:47Z">2016-04-29T20:10:47 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-29T22:12:03Z">2016-04-29T22:12:03 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1308,6 +1308,38 @@ python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_pro
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
+<span class="widespan">lv</span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T22:11:17Z">2016-04-29T22:11:17 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian</span>
 <span class="widespan">no</span>
 <span class="validationpass">PASS</span>
@@ -1556,6 +1588,84 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 *** PASSED ***
+
+
+******************
+
+
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Russian-Syntagrus</span>
+<span class="widespan">ru syntagrus</span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T22:11:21Z">2016-04-29T22:11:21 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-model.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.ru_syntagrus could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.ru_syntagrus
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.ru_syntagrus could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.ru_syntagrus It's okay if the file is empty, but it must exist.
+ 
+
+
+[Line                   1]: Unknown UPOS tag: PUNC
+[Line                   1]: Invalid DEPREL value PUNC
+[Line                   4]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   4]: Repeated features are disallowed: ADP
+[Line                   5]: Invalid DEPREL value DEPREL
+[Line                   7]: Spurious morphological feature: 'PART'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   7]: Repeated features are disallowed: PART
+[Line                   7]: Invalid DEPREL value DEPREL
+[Line                   9]: Invalid DEPREL value DEPREL
+[Line                   14]: Invalid DEPREL value ROOT
+[Line                   18]: Invalid DEPREL value DEPREL
+[Line                   21]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   21]: Repeated features are disallowed: ADP
+[Line                   23]: Invalid DEPREL value DEPREL
+[Line                   25]: Invalid DEPREL value DEPREL
+[Line                   26]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   26]: Repeated features are disallowed: ADP
+[Line                   30]: DEPREL must be "root" if HEAD is 0
+[Line                   31]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   31]: Repeated features are disallowed: ADP
+[Line                   33]: Invalid DEPREL value DEPREL
+[Line                   34]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   34]: Repeated features are disallowed: ADP
+[Line                   35]: Invalid DEPREL value DEPREL
+[Line                   37]: Invalid DEPREL value DEPREL
+[Line                   39]: Invalid DEPREL value ROOT
+[Line                   42]: Invalid DEPREL value DEPREL
+[Line                   45]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   45]: Repeated features are disallowed: CONJ
+[Line                   45]: Invalid DEPREL value DEPREL
+[Line                   46]: Column FORM is not allowed to contain whitespace: 'по мере'
+[Line                   46]: Column LEMMA is not allowed to contain whitespace: 'ПО МЕРЕ'
+[Line                   46]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   46]: Repeated features are disallowed: ADP
+[Line                   47]: Invalid DEPREL value DEPREL
+[Line                   48]: Invalid DEPREL value DEPREL
+[Line                   49]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   49]: Repeated features are disallowed: ADP
+[Line                   52]: Invalid DEPREL value DEPREL
+[Line                   54]: Invalid DEPREL value DEPREL
+...suppressing further errors regarding Syntax
+...suppressing further errors regarding Morpho
+[Line                   159]: Column FORM is not allowed to contain whitespace: 'тем не менее'
+[Line                   159]: Column LEMMA is not allowed to contain whitespace: 'ТЕМ НЕ МЕНЕЕ'
+[Line                   173]: Column FORM is not allowed to contain whitespace: 'в качестве'
+[Line                   173]: Column LEMMA is not allowed to contain whitespace: 'В КАЧЕСТВЕ'
+*** FAILED *** with 194 errors
+Format errors: 6
+Language specific data missing errors: 2
+Morpho errors: 68
+Syntax errors: 118
 
 
 ******************
