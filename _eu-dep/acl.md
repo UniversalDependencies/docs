@@ -13,7 +13,7 @@ shortdef: 'clausal modifier of noun'
 *The coaches **who know** about football say that .* 
 
 ~~~ sdparse
-Hori diote futbolaz dakiten entrenatzaileek . \n that say football_about know_who coaches_the .
+Hori diote futbolaz dakiten entrenatzaileek . \n That say football_about know_who coaches_the .
 
 dobj(diote-2, Hori-1)
 nsubj(diote-2, entrenatzaileek-5)
