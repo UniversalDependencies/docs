@@ -8,53 +8,52 @@ The negation modifier (`neg`) is the relation between a negation word and the wo
 
 * Predicate negation:
 
-***ez** da inolako hazkunderik antzematen euskararen erabileran*
+***Ez** da inolako hazkunderik antzematen euskararen erabileran .*
 
-***not** is       any   growth       perceived any of the Basque in the use* 
-
-*it is **not** perceived any growth in the use of Basque*
+*It has **not** perceived any growth in the use of Basque .*
 
 ~~~ sdparse
-ez da inolako hazkunderik antzematen euskararen erabileran \n  it is not perceived any growth in the use of Basque
+Ez da inolako hazkunderik antzematen euskararen erabileran .\n  Not has any growth perceived Basque_of use_the_in .
 
-neg(antzematen, ez)
-aux(antzematen, da)
-amod(hazkunderik, inolako)
-nsubj(antzematen, hazkunderik)
-nmod(erabileran, euskararen)
-nmod(antzematen, erabileran)
+neg(antzematen-5, Ez-1)
+aux(antzematen-5, da-2)
+amod(hazkunderik-4, inolako-3)
+nsubj(antzematen-5, hazkunderik-4)
+nmod(erabileran-7, euskararen-6)
+nmod(antzematen-5, erabileran-7)
+punct(antzematen-5, .-8)
 ~~~
 
-*agian **ez** zela hain beharrezkoa*
+*Agian **ez** zela hain beharrezkoa .*
 
-*maybe **not** that_was so necessary*
-
-*that maybe it was **not** so necessary*
+*That maybe it was **not** so necessary .*
 
 ~~~ sdparse
-agian ez zela hain beharrezkoa \n  that maybe it was not so necessary
+Agian ez zela hain beharrezkoa .\n  Maybe not was_that so necessary .
 
-advmod(zela, agian)
-neg(zela, ez)
-adv(beharrezkoa, hain)
-cop(zela, beharrezkoa)
+advmod(zela-3, Agian-1)
+neg(zela-3, ez-2)
+adv(beharrezkoa-5, hain-4)
+cop(beharrezkoa-5, zela-3)
+punct(zela-3, .-6)
 ~~~
 
 
 * Noun negation:
 
-*Gune **ez** hiritarretan bizi dira nagusiki*
+*Gune **ez** hiritarretan bizi dira nagusiki .*
 
-***non** urban areas (they) live mainly*
+***non** urban areas (they) live mainly .*
 
-*(they) mainly live in **non** urban areas*
+*(they) mainly live in **non** urban areas .*
 
 ~~~ sdparse
-Gune ez hiritarretan bizi_dira nagusiki \n  mainly live in non urban areas
+Gune ez hiritarretan bizi_dira nagusiki .\n  Areas non_urban_in live imainly .
 
-nmod(bizi_dira, Gune)
-neg(hiritarretan, ez)
-amod(Gune, hiritarretan)
-advmod(bizi_dira, nagusiki)
+nmod(bizi_dira-4, Gune-1)
+neg(hiritarretan-3, ez-2)
+amod(Gune-1, hiritarretan-3)
+advmod(bizi_dira-4, nagusiki-5)
+punct(bizi_dira-4, .-6)
 ~~~
 
