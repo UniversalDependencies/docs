@@ -94,3 +94,13 @@ We distinguish only negative adverbs such as: _non_, _nemmeno, _neppure_.
 
 * _che_ disastro "what a disaster", _che_ catastrofe "what a catastrophe"
 
+### `Clit`: clitic pronouns. This value is language specific.
+
+Used for clitic pronouns, part of speech PRON/PC.
+
+#### Examples
+
+* _mi_ viene in mente "it comes to my mind"
+* capace di farl_lo_ "capable to do it"
+* _si_ convincono "they convince themselves"
+* _ci_ sono troppi ostacoli "there are too many obstacles"
