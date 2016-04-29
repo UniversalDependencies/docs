@@ -55,5 +55,6 @@ neg(hiritarretan-3, ez-2)
 amod(Gune-1, hiritarretan-3)
 advmod(bizi_dira-4, nagusiki-5)
 punct(bizi_dira-4, .-6)
+
 ~~~
 
