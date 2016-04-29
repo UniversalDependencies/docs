@@ -13,13 +13,14 @@ non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 But when attaching to a noun, it usually corresponds to a non-agreeing attribute in genitive. 
 
-In Czech the `nmod` relation covers only those possessives that are expressed using the genitive [cs-feat/Case]().
+In Russian the `nmod` relation covers only those possessives that are expressed using the genitive.
 If a possessive adjective is used, the relation is labeled [amod]().
+If a possessive determiner (pronoun) is used, the relation is labeled [det]().
 
 ~~~ sdparse
-карта студента \n card of-the-student
-nmod(карта, директора)
-nmod(card, of-the-student)
+карта студента \n card of-student
+nmod(карта, студента)
+nmod(card, of-student)
 ~~~
 
 ~~~ sdparse
@@ -37,28 +38,28 @@ det(card, his)
 `nmod` is also used for temporal nominal modifiers:
 
 ~~~ sdparse
-Последний раз мы разговаривали зимой. \n Last time we have-talked in-winter .
+Последний раз мы разговаривали зимой . \n Last time we talked in-winter .
 nmod(разговаривали, зимой)
-nmod(have-talked, in-winter)
+nmod(talked, in-winter)
 ~~~
 
 ## Agreeing attribute of a noun
 
-`nmod` noun phrases attached to nouns are usually in the genitive [cs-feat/Case]() and follow the modified noun.
+`nmod` noun phrases attached to nouns are usually in the genitive [ru-feat/Case]() and follow the modified noun.
 However, there is also a different kind of `nmod` that precedes the modified noun and agrees with it in case and number.
 A typical example is a title attached to a name of a person. The relation is similar to the [name]() relation
 that links the first and the last name, but it is not labeled `name` because the title is not part of the name:
 
 ~~~ sdparse
-российский президент Владимир Владимироваич Путин \n russian president Vladimir Vladimirovich Putin
+российский президент Владимир Владимирович Путин \n Russian president Vladimir Vladimirovich Putin
 amod(президент, российский)
-amod(president, russian)
+amod(president, Russian)
 nmod(Владимир, президент)
 nmod(Vladimir, president)
 name(Владимир, Путин)
 name(Vladimir, Putin)
-name(Владимирович, Владимир)
-name(Vladimirovich, Vladimir)
+name(Владимир, Владимирович)
+name(Vladimir, Vladimirovich)
 ~~~
 
 Note that the same thing can be also expressed using an [apposition](appos).

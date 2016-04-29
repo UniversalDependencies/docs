@@ -5,7 +5,6 @@ shortdef: 'punctuation'
 ---
 
 This is used for any piece of punctuation in a clause.
-See 
 
 ~~~ sdparse
 Иди домой ! \n Go home !

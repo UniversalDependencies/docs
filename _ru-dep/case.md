@@ -8,11 +8,13 @@ Russian uses a combination of oblique morphological cases and prepositions to ex
 Prepositions in UD are treated as dependents of the noun they attach to. The relation between the noun and the preposition is labeled `case`.
 
 ~~~ sdparse
-В пятницу.Acc по дороге к деревне.Dat мы разговаривали о событии.Loc . \n On Friday during-the-journey to the village we-have-talked about the event .
+В пятницу.Acc по дороге.Dat к деревне.Dat мы разговаривали o событии.Loc . \n On Friday during the-journey to the-village we talked about the-event .
 case(пятницу.Acc, В)
 case(Friday, On)
+case(дороге.Dat, по)
+case(the-journey, during)
 case(деревне.Dat, к)
-case(village, to)
+case(the-village, to)
 case(событии.Loc, o)
-case(event, about)
+case(the-event, about)
 ~~~

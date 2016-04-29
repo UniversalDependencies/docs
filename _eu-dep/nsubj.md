@@ -6,21 +6,14 @@ shortdef: 'nominal subject'
 
 The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a morphologically ergative language, subjects of transitive verbs are marked with the ergative case, while subjects of intransitive verbs are marked with the absolutive case.
 
-Example of a subject in an intransitive sentence:
+Example of a subject in an intransitive sentence (ABS case):
 
-* English (example of an intransitive):
+*Bi **zati** hauek markaturik dauden tokietatik tolesten dira .*
 
-These two parts fold by the places that are marked .
+*These two **parts** are folded by the sites that are marked .*
 
-* Basque:
-
-Bi zati hauek markaturik dauden tokietatik tolesten dira .
-
-*Two parts these-abs marked are-that places  aux-intrans-present .*
-
- 
 ~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira . \n two parts these marked that_are by_the_places fold .
+Bi zati hauek markaturik dauden tokietatik tolesten dira .\n Two parts these marked are_that sites_the_by folded are .
 
 det(zati-2, Bi-1)
 nsubj(tolesten-7, zati-2)
@@ -29,94 +22,43 @@ acl(tokietatik-6, markaturik-4)
 cop(markaturik-4, dauden-5)
 nmod(tolesten-7, tokietatik-6)
 aux(tolesten-7, dira-8)
+punct(tolesten-7, .-9)
 ~~~
 
 
+Example of a subject in a transitive sentence (ERG case):
 
+*Eztabaida handia sortu du **aldaketak** .*
 
-~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira .
-
-det(zati-2, Bi-1)
-nsubj(tolesten-7, zati-2)
-det(zati-2, hauek-3)
-acl(tokietatik-6, markaturik-4)
-cop(markaturik-4, dauden-5)
-nmod(tolesten-7, tokietatik-6)
-aux(tolesten-7, dira-8)
-~~~
+*The **change** has caused a huge discussion .* 
 
 ~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira .
+Eztabaida handia sortu du aldaketak .\n Discussion huge_a caused has change_the .  
 
-det(zati-2, Bi-1)
-nsubj(tolesten-7, zati-2)
-det(zati-2, hauek-3)
-acl(tokietatik-6, markaturik-4)
-cop(markaturik-4, dauden-5)
-nmod(tolesten-7, tokietatik-6)
-aux(tolesten-7, dira-8)
-~~~
-
-
-Example of a subject in a transitive sentence:
-
-~~~ sdparse
-Eztabaida handiak sortu ditu aldaketak . \n The change has caused huge discussions . 
-amod(Eztabaida-1, handiak-2)
+amod(Eztabaida-1, handia-2)
 nobj(sortu-3, Eztabaida-1)
-aux(sortu-3, ditu-4)
+aux(sortu-3, du-4)
 nsubj(sortu-3, aldaketak-5)
+punct(sortu-3, .-6)
 ~~~
 
 
-
-* English (example of a transitive):
-
-The change has caused huge discussions . 
-
-* Basque:
-
-Eztabaida handiak sortu ditu aldaketak .
-
-*Discussion huge-pl cause aux-trans-present change-erg.*
-
-~~~ sdparse
-Eztabaida handiak sortu ditu aldaketak .
-
-amod(Eztabaida-1, handiak-2)
-nobj(sortu-3, Eztabaida-1)
-aux(sortu-3, ditu-4)
-nsubj(sortu-3, aldaketak-5)
-~~~
 
 Being Basque a free word order language, arguments of the verb can appear in different orders with respect to the verb.
 
+***Aldaketak** eztabaida handia sortu du .*
+
+*The **change** has caused a huge discussion .*
+
 ~~~ sdparse
-Aldaketak eztabaida handiak sortu ditu . \n The change has caused huge discussions . 
+Aldaketak eztabaida handia sortu du .\n Change_the discussion huge_a caused has .
+
 nsubj(sortu-4, Aldaketak-1)
-amod(eztabaida-2, handiak-3)
+amod(eztabaida-2, handia-3)
 nobj(sortu-4, eztabaida-2)
-aux(sortu-4, ditu-5)
+aux(sortu-4, du-5)
+punct(sortu-4, .-6)
 ~~~
 
 
 
-* English (example of a transitive):
-
-The change has caused huge discussions . 
-
-* Basque:
-
-Aldaketak eztabaida handiak sortu ditu .
-
-*Change-erg discussion huge-pl cause aux-trans-present.*
-
-~~~ sdparse
-Aldaketak eztabaida handiak sortu ditu .
-
-nsubj(sortu-4, Aldaketak-1)
-amod(eztabaida-2, handiak-3)
-nobj(sortu-4, eztabaida-2)
-aux(sortu-4, ditu-5)
-~~~

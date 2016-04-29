@@ -43,9 +43,15 @@ Not used.
 
 ### `Range`: range of values
 
-Not used.
+Used for expressions such as:
+* 2/3 Sett.
+* 3/4 volte
 
 ### `Gen`: generic numeral, i.e. a numeral that is neither of the above
 
-Not used.
+Used for time expressions such as:
+* 23'
+* 1'13''
+* 1.00'16''
+
 

@@ -4,5 +4,10 @@ title: 'punct'
 shortdef: 'punctuation'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `punct`.
+This is used for any piece of punctuation in a clause. See
+[u-dep/punct]() for details.
+
+~~~ sdparse
+Kitabı okudum . \n I read the book
+punct(okudum, .)
+~~~

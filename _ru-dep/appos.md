@@ -7,7 +7,7 @@ shortdef: 'appositional modifier'
 An appositional modifier of a noun is a nominal immediately following the first noun that serves to define or modify that noun. It includes parenthesized examples, as well as defining abbreviations in one of these structures.
 
 ~~~ sdparse
-Карл Четвертый , римский император и чешский король, царствовал в XIV веке . \n Charles IV , Roman Emperor and Czech king , ruled in 14th century .
+Карл Четвертый , римский император и чешский король , царствовал в XIV веке . \n Charles IV , Roman Emperor and Czech king , ruled in 14th century .
 appos(Карл, император)
 appos(Charles, Emperor)
 conj(император, король)
@@ -16,7 +16,7 @@ conj(Emperor, king)
 
 ~~~ sdparse
 Польская Социалистическая Партия ( ПСП ) \n Polish Socialist Party ( PSP )
-appos(Партия, ППС)
+appos(Партия, ПСП)
 appos(Party, PSP)
 ~~~
 
@@ -26,17 +26,17 @@ then attached as `appos` to the modified noun.
 This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.
 
 ~~~ sdparse
-Пришел Михаил, мой брат и кузен Давида . \n Came Michail , my brother and David's cousin .
+Пришел Михаил , мой брат и кузен Давида . \n Came Mikhail , my brother and cousin of-David .
 appos(Михаил, брат)
-appos(Michal, brother)
+appos(Mikhail, brother)
 conj(брат, кузен)
 conj(brother, cousin)
 ~~~
 
 ~~~ sdparse
-Михаил, мой брат, кузен Давида, придет завтра . \n Michal , my brother , David's cousin , will-come tomorrow .
+Михаил , мой брат , кузен Давида , придет завтра . \n Mikhail , my brother , cousin of-David , will-come tomorrow .
 appos(Михаил, брат)
-appos(Michal, brother)
+appos(Mikhail, brother)
 conj(брат, кузен)
 conj(brother, cousin)
 ~~~
@@ -45,10 +45,10 @@ conj(brother, cousin)
 
 ~~~ sdparse
 Иван Петров , тел . : 8(495)-000-11-22 , e-mail : petrov@mail.ru
-name(Петров, Иван)
-list(Петров, тел)
-list(Петров, e-mail)
-appos(тел, 8(495)-000-11-22)
+name(Иван, Петров)
+list(Иван, тел)
+list(Иван, e-mail)
+appos(тел, 8(495)-000-11-22-7)
 appos(e-mail, petrov@mail.ru)
 ~~~
 

@@ -14,9 +14,11 @@ mark(speak, that)
 ~~~
 
 ~~~ sdparse
-Мы отправим товар , как только на наш счет поступят деньги . \n We will-dispatch goods, as-soon-as money arrive at our account .
-mark(поступят, как только)
-mark(arrive, as-soon-as)
+Мы отправим товар , как только на наш счет поступят деньги . \n We will-dispatch goods , as soon-as at our account arrive money .
+mark(поступят, как)
+mwe(как, только)
+mark(arrive, as)
+mwe(as, soon-as)
 ~~~
 
 Note that the subordinating conjunction should not be confused with relative pronouns and adverbs.
@@ -24,8 +26,7 @@ These fill a valency slot in the frame of the subordinate predicate,
 and are labeled according to their role in the frame, they are not `mark`:
 
 ~~~ sdparse
-Я бы хотел узнать , когда нам поступят деньги на счет . \n I would like to-know , when money arrive at our account .
+Я бы хотел узнать , когда нам поступят деньги на счет . \n I would like to-know , when us arrive money at account .
 advmod(поступят, когда)
 advmod(arrive, when)
 ~~~
-

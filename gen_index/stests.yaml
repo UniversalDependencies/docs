@@ -65,15 +65,6 @@
   link: http://universaldependencies.org/u/dep/appos.html
 
 -
-  name: Appos chain
-  required_empty: true
-  expr: "_ <appos (_ <appos _)"
-  pos_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(Sam, cousin)"
-  neg_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(brother, cousin)"
-  desc: Apposition dependencies should not be chained. Either all depend on the first one, or there is coordination of dependents.
-  link: http://universaldependencies.org/u/dep/appos.html
-
--
   name: Non-passive subject with passive auxiliary
   required_empty: true
   expr: "_ >nsubj|>csubj _ >auxpass|>auxpass:refl _"
@@ -152,6 +143,12 @@
   link: http://universaldependencies.org/u/dep/nsubj.html
 
 -
+  name: Maximum one direct object
+  expr: "_ >dobj|>ccomp|>xcomp _ >dobj|>ccomp|>xcomp _"
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> No predicate can have more than one direct object. Ccomp and xcomp count as direct objects.
+  link: http://universaldependencies.org/u/dep/dobj.html
+
+-
   name: Case not dependent on nmod
   expr: "_ <case (_ <!nmod _)"
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
@@ -163,6 +160,15 @@
   expr-pos: _ <case _
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> A word marked as a NOUN should not be a case dependency.
   link: http://universaldependencies.org/docs/u/dep/case.html
+
+-
+  name: Appos chain
+  required_empty: true
+  expr: "_ <appos (_ <appos _)"
+  pos_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(Sam, cousin)"
+  neg_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(brother, cousin)"
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Apposition dependencies should not be chained. Either all depend on the first one, or there is coordination of dependents.
+  link: http://universaldependencies.org/u/dep/appos.html
 
 -
   name: Relation advmod used for node that is not ADV
@@ -213,6 +219,12 @@
   expr-pos: _ (<aux|<auxpass) _
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as a (passive) auxiliary dependency, it should be marked as the auxiliary POS.
   link: http://universaldependencies.org/docs/u/dep/aux_.html
+
+-
+  name: Cc is not leaf
+  expr: _ < (_ <cc _)
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Coordinating conjunction should be attached to the first conjunct and it should not have its own dependents.
+  link: http://universaldependencies.org/docs/u/dep/cc.html
 
 -
   name: Parts of speech of expl

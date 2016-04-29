@@ -88,4 +88,40 @@ We distinguish only negative adverbs such as: _non_, _nemmeno, _neppure_.
 * Indefinite pronouns: _uno_ "one", _tutti_ "everybody", _ognuno_ "each one", _chiunque_ "anybody", _qualcosa_ "something", _qualcuno_ "somebody"
 * indefinite determiners: _tutti_ "all", _qualche_ "some", _ogni_ "each", _alcuni_ "some", _diversi_ "several"
 
+### `Exc`: exclamative determiners. This value is language specific.
+
+#### Examples
+
+* _che_ disastro "what a disaster", _che_ catastrofe "what a catastrophe"
+
+### `Clit`: clitic pronouns. This value is language specific.
+
+Used for clitic pronouns, part of speech PRON/PC.
+
+#### Examples
+
+* _mi_ viene in mente "it comes to my mind"
+* capace di farl _lo_ "capable to do it"
+* _si_ convincono "they convince themselves"
+* _ci_ sono troppi ostacoli "there are too many obstacles"
+
+### `Predet`: predeterminer. This value is language specific.
+
+It is always used along with _det:predet_ dependency relations.
+
+#### Examples
+
+* _tutta_ la giornata "all day"
+* _tutti_ gli esseri umani "all human beings"
+* _entrambi_ i prigionieri "both prisoners"
+
+### `Ord`: ordinal pronouns. This value is language specific.
+
+It is used to mark ordinal pronouns. Part of speech is PRON/NO. When ordinals are used as noun modifiers they are marked as [ADJ].
+
+#### Examples
+
+* Il _primo_ sostiene che ...  "the first asserts that ...
+* Un quarto d'ora "a quarter of an hour"
+* Valentina è _quinta_ "Valentina is fifth"
 

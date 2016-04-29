@@ -9,7 +9,7 @@ subject of a passive clause.
 
 ~~~ sdparse
 Шварценберг был побеждён Земаном . \n Schwarzenberg was defeated by-Zeman .
-nsubjpass(поражён, Шварценберг)
+nsubjpass(побеждён, Шварценберг)
 nsubjpass(defeated, Schwarzenberg)
 ~~~
 

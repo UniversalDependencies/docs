@@ -21,7 +21,7 @@ xcomp(Do-you-want, to-swim)
 ~~~
 
 ~~~ sdparse
-Я начал там работать вчера . \n I have-started to-work there yesterday .
+Я начал там работать вчера . \n I started there to-work yesterday .
 xcomp(начал, работать)
 xcomp(started, to-work)
 ~~~
@@ -47,7 +47,7 @@ Thus in neither of the following two Russian examples is there any overt subject
 yet only the second example contains an `xcomp`.
 
 ~~~ sdparse
-Пишу , потому что я это обещал . \n I-write , because I-have promised it .
+Пишу , потому что я это обещал . \n I-write , because that I-have it promised .
 advcl(Пишу, обещал)
 advcl(I-write, promised)
 ~~~

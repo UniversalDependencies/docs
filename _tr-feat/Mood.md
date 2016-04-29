@@ -4,7 +4,9 @@ title: 'Mood'
 shortdef: 'mood'
 ---
 
-`Mood` expresses the modality, speakers perspective, in finite verbs. Turkish verbs may carry a wide range of mood information. Different moods are indicated by a number of suffixes, which also interact with tense and aspect of the verb.
+`Mood` expresses the modality, a speaker's perspective, in finite verbs.
+Turkish verbs may carry a wide range of mood information.
+Different moods are indicated by a number of suffixes, which also interact with [tense](Tense) and [aspect](Aspect) of the verb.
 
 ### `Ind`: indicative
 
@@ -34,23 +36,14 @@ Turkish has a particular form of imperative, where the request is not an order, 
 * *eve gitsene* '(please) go home'
 * *eve gitsenize* '(you-PLU, please) go home'
 
-### `Nar`: narrative (**propsed change: currently listed as `Tense`**)
-
-Narrative, or evidential, is a mood that expresses speaker's perspective of not witnessing, or verifying the action. This is realized with the suffix *-mIş*. Without additional tense modifiers, it refers to a past (perfect) action. However, can be combined with other tense markers.
-
-#### Examples
-
-* *eve gitmiş*  '(evidently) she went home'
-* *eve gidecekmiş* '(evidently) she will go home'
-* *eve gidiyormuş* '(evidently) she is going home (now)'
-* *eve gitmeliymiş* '(evidently) she has to go home'
-* *eve gitmemişmiş* '(evidently) she had gone home (by the time I arrived)'
-
 ### `Cnd`: conditional
 
-This expresses conditionality. It is the primary means of forming conditionals in Turkish ('if ...'). The suffix responsible for this mood is *-sA*. The suffix is ambiguous between `Cnd` and `Des` (see below).
+This expresses conditionality.
+It is the primary means of forming conditionals in Turkish ('if ...').
+The suffix responsible for this mood is *-sA*.
+The suffix is ambiguous between `Cnd` and `Des` (see below).
 
-####
+#### Examples
 
 * *eve gittiyse* 'if she went home'
 * *eve gidiyorsa* 'if she is going home'
@@ -59,7 +52,11 @@ This expresses conditionality. It is the primary means of forming conditionals i
 
 ### `Des`: desiderative
 
-This mood expresses a wish. This mood shares the same form as the `Cnd` mood. It may be disambiguated by particles (*keşke*: desire, *eğer*: condition) or by the context. For example, desires do not work well fixed time references. In general it is difficult to automatically disambiguate between these two moods.
+This mood expresses a wish.
+It shares the same form as the `Cnd` mood.
+It may be disambiguated by particles (*keşke*: desire, *eğer*: condition) or by the context.
+For example, desires do not work well with fixed time references.
+In general it is difficult to automatically disambiguate between these two moods.
 
 #### Examples
 
@@ -68,7 +65,9 @@ This mood expresses a wish. This mood shares the same form as the `Cnd` mood. It
 
 ### `Opt`: optative
 
-Optative suffix (*-(y)A*) in Turkish typically combines with first person markers and expresses a suggestion. The use with second/third person markers express a wish, but it is rare. With third person singular agreement the imperative form may also express a wish or suggestion, and more common than *-(y)A* forms.
+Optative suffix (*-(y)A*) in Turkish typically combines with first person markers and expresses a suggestion.
+The use with second/third person markers express a wish, but it is rare.
+With third person singular agreement the imperative form may also express a wish or suggestion, and more common than *-(y)A* forms.
 
 #### Examples
 
@@ -79,7 +78,7 @@ Optative suffix (*-(y)A*) in Turkish typically combines with first person marker
 
 ### `Nec`: necessitative
 
-This expresses some sort of necessity (mush/shuld/have to in English). 
+This expresses some sort of necessity (mush/should/have to in English). 
 
 #### Examples
 
@@ -88,7 +87,10 @@ This expresses some sort of necessity (mush/shuld/have to in English).
 
 ### `Gen`: generalized modality (**new proposal, not in UD**)
 
-Turkish modal system includes a distinction between statements of direct experience (`Ind`) and statements with a more general or theoretical nature (Göksel & Kerslake, 2005, p.295). This mood is typically marked by the aorist marker on verbs, and  with *-DIr* suffix on nominal predicates.
+Turkish modal system includes a distinction between statements of direct experience (`Ind`) and statements with a more general or theoretical nature (Göksel & Kerslake, 2005, p.295).
+This mood is typically marked by the aorist marker on verbs, and with *-DIr* suffix on nominal predicates.
+
+(**NOTE:** this mood interacts with evidentiality.  One may consider the status of evidentiality expressed by this suffix to be "inferred". Hence, an alternative way of marking this could be `Evidential=Infer`, or something similar) 
 
 #### Examples
 
@@ -100,11 +102,16 @@ Turkish modal system includes a distinction between statements of direct experie
 
 ### `Abil`: abilitative or potentiality (**new proposal, not in UD**)
 
-The suffix *-Abil* may indicate ability or possibility. These moods are normally distinct, and the same verb may express both at the same time (see the last example sentence). However, it is also very difficult to disambiguate between these two moods.
-
-An option here is allowing two labels, and let the annotater decide for using one or both.
+The suffix *-Abil* may indicate ability or possibility.
+These moods are normally distinct, and the same verb may express both at the same time (see the last example below).
+However, it is also very difficult to disambiguate between these two moods.
 
 #### Examples
 * *eve gidebilir* 'she can go home' ('she is capable of going home', or 'she just may go home') 
 * *yağmur yağabilir* 'it may rain' 
 * *eve gidemeyebilir* 'she may not be able to go home' (it is possible that she is not capable of going home)
+
+### References
+- Aslı Göksel and Celia Kerslake. _Turkish: A Comprehensive Grammar_.
+  London: Routledge, 2005.
+

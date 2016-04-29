@@ -4,7 +4,7 @@ title: 'nummod'
 shortdef: 'numeric modifier'
 ---
 
-A numeric modifier of a noun is any [number] phrase
+A numeric modifier of a noun is any [number](ru-pos/NUM) phrase
 that serves to modify the meaning of the noun with a quantity.
 
 ~~~ sdparse
@@ -24,14 +24,14 @@ _два_ also agrees in gender).
 They behave as if they modify the counted noun; they are similar to adjectives in this respect.
 Examples:
 
-- _<b>Один</b> мужчина спал,, <b>два</b> мужчины играли в карты._ “One man slept, two men played cards.”
+- _<b>Один</b> мужчина спал, <b>два</b> мужчины играли в карты._ “One man slept, two men played cards.”
 - _<b>Одна</b> женщина спала, <b>две</b> женщины играли в карты._ “One woman slept, two women played cards.”
-- _<b>Одно</b> чудовище спало, <b>два</b> чудовища играли в карты._ “One monster slept, two monsters played.”
+- _<b>Одно</b> чудовище спало, <b>два</b> чудовища играли в карты._ “One monster slept, two monsters played cards.”
 
 It is straightforward to convert such dependencies to `nummod`:
 
 ~~~ sdparse
-Одно чудовище спало . \n One kitten slept .
+Одно чудовище спало . \n One monster slept .
 nummod(чудовище, Одно)
 nsubj(спало, чудовище)
 punct(спало, .-4)
@@ -49,7 +49,8 @@ The whole phrase (numeral + counted noun) behaves as a noun phrase in neuter gen
 - _<b>Пять</b> мужчин играло в карты._ “Five men played cards.”
 - _Группа мужчин играла в карты._ “A group of men played cards.”
 
-This also can be mapped as `Atr`, but there are both advantages and drawbacks to this solution.
+One could argue that _пять мужчин_ is parallel to _группа мужчин_ and that _мужчин_ should be [nmod]() of _пять_.
+There are both advantages and drawbacks to such a solution.
 On the one hand, it reflects well the agreement in case, gender and number.
 On the other hand, it is confusing that there are two different analyses of counted noun constructions,
 depending on the numeric value.
@@ -57,7 +58,7 @@ depending on the numeric value.
 Moreover, the numeral does not govern the noun in all morphological cases.
 The following table shows the case of the whole phrase (numeral + noun; first column)
 and the consequences for the case of the parts (note that these numerals have only
-two distinct morphological forms, resulting in homonymy).
+three distinct morphological forms, resulting in homonymy).
 
 <table>
 <tr><th>Phrase Case</th><th>Example</th><th>Numeral Case</th><th>Noun Case</th></tr>
@@ -97,102 +98,108 @@ There are four labels used:
 </table>
 
 ~~~ sdparse
-Три мужчина играли в-карты . \n Three men played cards .
+Три мужчины играли в карты . \n Three men played cards .
 nummod(мужчины, Три)
 nsubj(играли, мужчины)
-iobj(играли, в-карты)
-punct(играли, .-5)
+dobj(играли, карты)
+case(карты, в)
+punct(играли, .-6)
 nummod(men, Three)
 nsubj(played, men)
-iobj(played, cards)
-punct(played, .-11)
+dobj(played, cards)
+punct(played, .-12)
 ~~~
 
 ~~~ sdparse
-Пять мужчин играло в-карты . \n Five men played cards .
+Пять мужчин играло в карты . \n Five men played cards .
 nummod:gov(мужчин, Пять)
 nsubj(играло, мужчин)
-iobj(играло, в-карты)
-punct(играло, .-5)
+dobj(играло, карты)
+case(карты, в)
+punct(играло, .-6)
 nummod:gov(men, Five)
 nsubj(played, men)
-iobj(played, cards)
-punct(played, .-11)
+dobj(played, cards)
+punct(played, .-12)
 ~~~
 
 ~~~ sdparse
-Сколько мужчин играло в-карты ? \n How-many men played cards ?
+Сколько мужчин играло в карты ? \n How-many men played cards ?
 det:numgov(мужчин, Сколько)
 nsubj(играло, мужчин)
-iobj(играло, в-карты)
-punct(играло, ?-5)
+dobj(играло, карты)
+case(карты, в)
+punct(играло, ?-6)
 det:numgov(men, How-many)
 nsubj(played, men)
-iobj(played, cards)
-punct(played, ?-11)
+dobj(played, cards)
+punct(played, ?-12)
 ~~~
 
 ~~~ sdparse
-Играл я в-карты с пятью мужчинами Hrál jsem karty s pěti muži . \n Played I cards with five men .
+Играл я в карты с пятью мужчинами . \n Played I cards with five men .
 nsubj(Играл, я)
-iobj(Играл, в-карты)
+dobj(Играл, карты)
+case(карты, в)
 iobj(Играл, мужчинами)
 case(мужчинами, с)
 nummod(мужчинами, пятью)
-punct(Играл, .-7)
+punct(Играл, .-8)
 nsubj(Played, I)
-iobj(Played, cards)
+dobj(Played, cards)
 iobj(Played, men)
 case(men, with)
 nummod(men, five)
-punct(Played, .-15)
+punct(Played, .-16)
 ~~~
 
 ~~~ sdparse
-Не-помню , со сколькими мужчинами я играл в-карты . \n I-do-not-remember , with how-many men I played cards .
-ccomp(Не-помню, играл)
-punct(hrál, ,-2)
+Не помню , со сколькими мужчинами я играл в карты . \n Not I-remember , with how-many men I played cards .
+neg(помню, Не)
+ccomp(помню, играл)
+punct(играл, ,-3)
 nsubj(играл, я)
-iobj(играл, в-карты)
+dobj(играл, карты)
+case(карты, в)
 iobj(играл, мужчинами)
-case(мужчинами, с)
+case(мужчинами, со)
 det:nummod(мужчинами, сколькими)
-punct(Не-помню, .-9)
-ccomp(I-do-not-remember, played)
-punct(played, ,-12)
+punct(помню, .-11)
+neg(I-remember, Not)
+ccomp(I-remember, played)
+punct(played, ,-15)
 nsubj(played, I)
-iobj(played, cards)
+dobj(played, cards)
 iobj(played, men)
 case(men, with)
 det:nummod(men, how-many)
-punct(I-do-not-remember, .-19)
+punct(I-remember, .-22)
 ~~~
 
 
 
 ## Additional remarks
 
-In the typical case, the million is in genitive, it is preceded by a smaller number,
+In the typical case, million is tagged as a [NOUN](ru-pos/NOUN) in genitive, it is preceded by a smaller number,
 and it is not followed by smaller numerals (as it is in _million five hundred thousand_).
-It is followed by the counted noun.
-Thus the following examples receive parallel analyses:
+It is followed by the counted noun and gets the following analysis:
 
 ~~~ sdparse
-50 миллионов корон \n 50 millions of-crowns
+50 миллионов крон \n 50 millions of-crowns
 nummod:gov(миллионов, 50-1)
 nummod:gov(millions, 50-5)
-nmod(миллионов, корон)
+nmod(миллионов, крон)
 nmod(millions, of-crowns)
 ~~~
 
-On the other hand the word _tisíc_ “thousand” may be a noun
+On the other hand the word _тысяча_ “thousand” may be a noun
 (_на площади были тысячи людей_ “there were thousands of people in the square”)
 or a numeral:
 
 ~~~ sdparse
-максимум 50 тысяч корон \n at-most 50 thousand crowns
-advmod:emph(корон, максимум)
-nummod:gov(корон, тысяч)
+максимум 50 тысяч крон \n at-most 50 thousand crowns
+advmod:emph(крон, максимум)
+nummod:gov(крон, тысяч)
 compound(тысяч, 50-2)
 advmod:emph(crowns, at-most)
 nummod:gov(crowns, thousand)
@@ -200,7 +207,7 @@ compound(thousand, 50-7)
 ~~~
 
 Note that the two numeral words in the above example are joined using the [compound]() relation.
-Also note that the [intensifier](advmod:emph) _максимум_ is attached to the head of the phrase _(корон)_ and not to the number.
+Also note that the [intensifier](advmod:emph) _максимум_ is attached to the head of the phrase _(крон)_ and not to the number.
 
 Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
 and they are related to the whole phrase rather than directly to the head noun:
@@ -250,7 +257,7 @@ House number in address is attached as `nummod` to the name of the street:
 nmod(доме, Тверской-4)
 case(Тверской-4, на-3)
 nummod(Тверской-4, 12-5)
-nmod(the-house, Tverskaya -10)
-case(Tverskaya-10, at-9)
-nummod(Tverskaya-10, 12-11)
+nmod(the-house, Tverskaya)
+case(Tverskaya, at)
+nummod(Tverskaya, 12-11)
 ~~~

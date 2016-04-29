@@ -12,7 +12,13 @@ Occurrences of the morpheme as a separate word are rare in comparison to other l
 yet they exist.
 
 ~~~ sdparse
-Ему был нужен четвероногий , а не двуногий друг . \n He needed quadrupedal and not bipedal friend .
+Она не ест рыбу . \n She not eats fish .
+neg(ест, не)
+neg(eats, not)
+~~~
+
+~~~ sdparse
+Ему был нужен четвероногий , а не двуногий друг . \n To-him was needed quadrupedal , and not bipedal friend .
 neg(двуногий, не)
 neg(bipedal, not)
 ~~~
@@ -20,8 +26,7 @@ neg(bipedal, not)
 Note that the negative determiners (pronouns) are attached as [det](), not `neg`:
 
 ~~~ sdparse
-Премьер не был никаким дураком . \n The-Prime-Minister was not no fool .
+Премьер не был никаким дураком . \n The-Prime-Minister not was no fool .
 det(дураком, никаким)
 det(fool, no)
 ~~~
-

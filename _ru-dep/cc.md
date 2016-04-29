@@ -6,12 +6,12 @@ shortdef: 'coordinating conjunction'
 
 For more on coordination, see the [conj]() relation.
 A `cc` is the relation between the first conjunct and
-the [coordinating conjunction](cs-pos/CONJ) delimiting another conjunct.
+the [coordinating conjunction](ru-pos/CONJ) delimiting another conjunct.
 (Note: different dependency grammars have different treatments of coordination.
 We take the first conjunct as the head of the coordination.)
 
 ~~~ sdparse
-Он старый и мудрый мужчина. \n He is old and wise man .
+Он старый и мудрый мужчина. \n He-is old and wise man .
 cc(старый, и)
 cc(old, and)
 ~~~
@@ -24,15 +24,15 @@ We cannot attach a word to the first conjunct because it is in another sentence.
 Thus we attach it to the first conjunct available in the current sentence: its main predicate.)
 
 ~~~ sdparse
-И потом мы ушли . \n And then we-have left .
+И потом мы ушли . \n And then we left .
 cc(ушли, И)
 cc(left, And)
 ~~~
 
 ~~~ sdparse
-У нас есть яблоки , груши , апельсины и бананы . \n We have apples , pears , oranges and bananas .
-dobj(есть, яблоки)
-dobj(We-have, apples)
+У нас есть яблоки , груши , апельсины и бананы . \n By us are apples , pears , oranges and bananas .
+nsubj(есть, яблоки)
+nsubj(are, apples)
 conj(яблоки, груши)
 conj(яблоки, апельсины)
 conj(яблоки, бананы)
@@ -42,7 +42,7 @@ conj(apples, bananas)
 cc(яблоки, и)
 cc(apples, and)
 punct(яблоки, ,-5)
-punct(яблоки, ,-6)
-punct(apples, ,-16)
-punct(apples, ,-18)
+punct(яблоки, ,-7)
+punct(apples, ,-17)
+punct(apples, ,-19)
 ~~~

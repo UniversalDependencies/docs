@@ -4,5 +4,6 @@ title: 'iobj'
 shortdef: 'indirect object'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `iobj`.
+We do not use the dependency label `iobj`.
+
+TODO: link to argument/adjunct discussion.

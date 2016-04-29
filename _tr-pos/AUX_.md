@@ -7,5 +7,16 @@ shortdef: 'auxiliary verb'
 redirect_from: "tr/pos/AUX.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `AUX`.
+### Definition
+
+In Turkish the verbs _ol-_ and _bulun-_ and the question particle _mI_ (_mı/mi/mu/mü_) may function as auxiliary verbs.
+We (currently) use the `AUX` for the question particle.
+The verbs are marked as _ol-_ and _bulun-_ are always marked as `VERB`. 
+The dependency label indicates their use (auxiliary, copula or content verb).
+
+### Examples
+
+* _Okumuş bulunduk_ "We have happened to read (it)"
+* _Okuyor olacağım_ "I will be reading"
+* _Okumuş muydun_ "Have you read (it)?"
+* _Okuymuş olmaycak mıydın_ "Weren't you supposed to read (it)"

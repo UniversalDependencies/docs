@@ -4,16 +4,14 @@ title: 'dobj'
 shortdef: 'direct object'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `dobj`.
-The direct object of a verb is the noun phrase that denotes the entity acted upon.
+The direct object (`dobj`) of a verb is the noun phrase that denotes the entity acted upon. Basque is a morphologically ergative language , and the direct object is always marked with the absolutive case. 
 
-Euskal	gizarteak Konstituzioa errefusatu zuela oroitarazi zuen .
+*Euskal	gizarteak **Konstituzioa** errefusatu zuela oroitarazi zuen .*
 
-He reminded that Basque society refused the Constitution-ABS. 
- 
+*(He/she) reminded that Basque society refused the **Constitution** .*
+
 ~~~ sdparse
-Euskal	gizarteak Konstituzioa errefusatu zuela oroitarazi zuen .\n He reminded that Basque society refused the Constitution-ABS . 
+Euskal gizarteak Konstituzioa errefusatu zuela oroitarazi zuen .\n Basque society Constitution_the refused_that reminded . 
 
 nmod(Euskal-1, gizarteak-2)
 nsubj(errefusatu-4, gizarteak-2)
@@ -23,4 +21,4 @@ ccomp(oroitarazi-6,errefusatu-4)
 aux(oroitarazi-6, zuen-7)
 ~~~
 
-Basque is a morphologically ergative language , and the direct object is always marked with the accusative case. 
+

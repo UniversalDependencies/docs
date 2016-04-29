@@ -23,7 +23,7 @@ nsubj(positive, impression)
 Exception: if the modifying adjectival word is pronominal (i.e. tagged [ru-pos/DET]()), the relation is [det]() instead of `amod`.
 
 ~~~ sdparse
-Какие-то все эти ваши новые группы . \n Somewhat all these your new groups .
+все эти ваши новые группы \n all these your new groups
 amod(группы, новые)
 amod(groups, new)
 det(группы, ваши)
@@ -32,6 +32,4 @@ det(группы, эти)
 det(groups, these)
 det(группы, все)
 det(groups, all)
-det(группы, какие-то)
-det(groups, somewhat)
 ~~~

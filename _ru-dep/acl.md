@@ -14,7 +14,7 @@ modifies the noun.
 ~~~ sdparse
 мужчина , о котором я говорил \n man , about whom I have-talked
 acl(мужчина, говорил)
-acl(man, talked)
+acl(man, have-talked)
 ~~~
 
 This relation is also used for optional depictives.
