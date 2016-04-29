@@ -622,6 +622,23 @@ collections:
     permalink: /lv/dep/:path.html
   lv-overview:
     output: true
+
+#
+# Turkish
+#
+  tr-pos:
+    output: true
+    permalink: /tr/pos/:path.html
+  tr-feat:
+    output: true
+    permalink: /tr/feat/:path.html
+  tr-dep:
+    output: true
+    permalink: /tr/dep/:path.html
+  tr-overview:
+    output: true
+
+
 #
 # Template
 #
