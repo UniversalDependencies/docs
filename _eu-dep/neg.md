@@ -43,9 +43,7 @@ punct(zela-3, .-6)
 
 *Gune **ez** hiritarretan bizi dira nagusiki .*
 
-***non** urban areas (they) live mainly .*
-
-*(they) mainly live in **non** urban areas .*
+*(They) mainly live in **non** urban areas .*
 
 ~~~ sdparse
 Gune ez hiritarretan bizi_dira nagusiki .\n  Areas non_urban_in live imainly .
@@ -55,6 +53,5 @@ neg(hiritarretan-3, ez-2)
 amod(Gune-1, hiritarretan-3)
 advmod(bizi_dira-4, nagusiki-5)
 punct(bizi_dira-4, .-6)
-
 ~~~
 
