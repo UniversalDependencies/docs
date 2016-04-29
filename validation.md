@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-29T05:58:07Z">2016-04-29T05:58:07 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-29T06:46:13Z">2016-04-29T06:46:13 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -875,28 +875,164 @@ python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:44:31Z">2016-04-13T23:44:31 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T06:46:07Z">2016-04-29T06:46:07 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
 
-*** PASSED ***
+[Line                   3181]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3186]: Morphological features must be sorted: 'Case=Acc|NumType=Card|Number=Sing'
+[Line                   3198]: Morphological features must be sorted: 'Case=Ine|NumType=Card|Number=Sing'
+[Line                   3208]: Unknown UD DEPREL: nmod:mode
+[Line                   3213]: Unknown UD DEPREL: nmod:from
+[Line                   3240]: Unknown UD DEPREL: nmod:mode
+[Line                   3241]: Unknown UD DEPREL: ccomp:dobj
+[Line                   3254]: Morphological features must be sorted: 'Case=Nom|NumType=Ord|Number=Sing'
+[Line                   3255]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3258]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3259]: Unknown UD DEPREL: nmod:tlocy
+[Line                   3287]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3289]: Unknown UD DEPREL: nmod:from
+[Line                   3291]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3296]: Morphological features must be sorted: 'Case=Acc|NumType=Card|Number=Sing'
+[Line                   3305]: Unknown UD DEPREL: ccomp:dobj
+[Line                   3315]: Unknown UD DEPREL: ne:hu
+[Line                   3316]: Unknown UD DEPREL: ne:hu
+[Line                   3327]: Unknown UD DEPREL: ne:hu
+[Line                   3350]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3386]: Unknown UD DEPREL: ne:hu
+[Line                   3399]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3403]: Unknown UD DEPREL: ccomp:dobj
+[Line                   3417]: Unknown UD DEPREL: ccomp:dobj
+[Line                   3436]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3438]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3449]: Morphological features must be sorted: 'Case=Ine|NumType=Card|Number=Sing'
+[Line                   3460]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3467]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3485]: Unknown UD DEPREL: nmod:from
+[Line                   3508]: Morphological features must be sorted: 'Case=Acc|NumType=Card|Number=Sing'
+[Line                   3508]: Unknown UD DEPREL: nmod:mode
+[Line                   3510]: Unknown UD DEPREL: nmod:tfrom
+[Line                   3517]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3518]: Morphological features must be sorted: 'Case=Nom|NumType=Ord|Number=Sing'
+[Line                   3522]: Unknown UD DEPREL: ne:hu
+...suppressing further errors regarding Morpho
+[Line                   3542]: DEPREL must be "root" if HEAD is 0
+[Line                   3542]: DEPREL must be "root" if HEAD is 0
+...suppressing further errors regarding Syntax
+[Line                   4295]: Empty value in column HEAD
+[Line                   4316]: Undefined ID in HEAD: 
+[Tree number 160 on line 4295]: Non-integer head for word ID 1
+[Line                   4959]: Missing empty line after the last tree.
+*** FAILED *** with 202 errors
+Format errors: 4
+Morpho errors: 90
+Syntax errors: 108
 
 
 ******************
 
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-test.conllu
 
-*** PASSED ***
+[Line                   2869]: Unknown UD DEPREL: nmod:tfrom
+[Line                   2917]: Unknown UD DEPREL: nmod:mode
+[Line                   2921]: Unknown UD DEPREL: nmod:from
+[Line                   2942]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   2944]: Unknown UD DEPREL: ccomp:dobj
+[Line                   2952]: Unknown UD DEPREL: nmod:mode
+[Line                   2973]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   2975]: Unknown UD DEPREL: nmod:mode
+[Line                   2997]: Unknown UD DEPREL: nmod:mode
+[Line                   3002]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3003]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3014]: Morphological features must be sorted: 'Case=Nom|NumType=Ord|Number=Sing'
+[Line                   3022]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3023]: Morphological features must be sorted: 'Case=Acc|NumType=Card|Number=Sing'
+[Line                   3031]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3040]: Unknown UD DEPREL: ccomp:dobj
+[Line                   3048]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3052]: Unknown UD DEPREL: nmod:mode
+[Line                   3057]: Morphological features must be sorted: 'Case=Nom|NumType=Frac|Number=Sing'
+[Line                   3058]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3060]: Unknown UD DEPREL: ccomp:dobj
+[Line                   3073]: Unknown UD DEPREL: nmod:mode
+[Line                   3075]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3075]: Unknown UD DEPREL: nmod:tfrom
+[Line                   3090]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3107]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3130]: Unknown UD DEPREL: nmod:mode
+[Line                   3164]: Unknown UD DEPREL: nmod:mode
+[Line                   3172]: Unknown UD DEPREL: ne:hu
+[Line                   3174]: Unknown UD DEPREL: nmod:tlocy
+[Line                   3185]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3193]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3201]: Unknown UD DEPREL: nmod:mode
+[Line                   3219]: Unknown UD DEPREL: ne:hu
+[Line                   3247]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3259]: Unknown UD DEPREL: ne:hu
+...suppressing further errors regarding Syntax
+[Line                   3313]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3360]: Morphological features must be sorted: 'Case=Ine|NumType=Card|Number=Sing'
+...suppressing further errors regarding Morpho
+*** FAILED *** with 155 errors
+Morpho errors: 83
+Syntax errors: 72
 
 
 ******************
 
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
 
-*** PASSED ***
+[Line                   21802]: Morphological features must be sorted: 'Case=Nom|NumType=Ord|Number=Sing'
+[Line                   21816]: Unknown UD DEPREL: nmod:tlocy
+[Line                   21817]: Unknown UD DEPREL: ne:hu
+[Line                   21838]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   21839]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   21840]: Unknown UD DEPREL: ccomp:dobj
+[Line                   21850]: Unknown UD DEPREL: ne:hu
+[Line                   21857]: Unknown UD DEPREL: nmod:mode
+[Line                   21865]: Unknown UD DEPREL: nmod:mode
+[Line                   21867]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   21868]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   21893]: Unknown UD DEPREL: nmod:mode
+[Line                   21907]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   21908]: Morphological features must be sorted: 'Case=Acc|NumType=Card|Number=Sing'
+[Line                   21911]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   21936]: Unknown UD DEPREL: ne:hu
+[Line                   21973]: Unknown UD DEPREL: nmod:mode
+[Line                   21982]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   21985]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   22036]: Morphological features must be sorted: 'Case=Nom|NumType=Ord|Number=Sing'
+[Line                   22075]: Unknown UD DEPREL: ccomp:dobj
+[Line                   22095]: Unknown UD DEPREL: nmod:mode
+[Line                   22102]: Morphological features must be sorted: 'Case=Nom|NumType=Ord|Number=Sing'
+[Line                   22108]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   22111]: Morphological features must be sorted: 'Case=Ine|NumType=Card|Number=Sing'
+[Line                   22118]: Morphological features must be sorted: 'Case=Nom|NumType=Frac|Number=Sing'
+[Line                   22131]: Morphological features must be sorted: 'Case=Ins|NumType=Frac|Number=Sing'
+[Line                   22138]: Unknown UD DEPREL: nmod:mode
+[Line                   22141]: Unknown UD DEPREL: nmod:mode
+[Line                   22143]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   22152]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   22160]: Unknown UD DEPREL: nmod:mode
+[Line                   22164]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   22197]: Unknown UD DEPREL: nmod:mode
+...suppressing further errors regarding Morpho
+[Tree number 1044 on line 22159]: Non-tree structure. Words 18,19,20,21,22,23 are not reachable from the root 0.
+[Line                   22205]: Unknown UD DEPREL: nmod:mode
+[Line                   22258]: Unknown UD DEPREL: ccomp:dobj
+[Line                   22268]: Unknown UD DEPREL: nmod:mode
+...suppressing further errors regarding Syntax
+[Line                   28780]: Empty value in column HEAD
+[Line                   28816]: Undefined ID in HEAD: 
+[Tree number 1258 on line 28780]: Non-integer head for word ID 1
+[Tree number 1337 on line 31529]: HEAD == ID for 8
+*** FAILED *** with 1242 errors
+Format errors: 4
+Morpho errors: 538
+Syntax errors: 700
 
 
 ******************
