@@ -6,39 +6,26 @@ permalink: et/overview/introduction.html
 
 # Introduction
 
-The Estonian UD treebank is taken from [HamleDT 3.0](http://ufal.mff.cuni.cz/hamledt) and
-slightly modified (there are minor improvements in the conversion procedure). HamleDT in turn
-took the data from the website of the
-[Eesti keele puudepank](http://kodu.ut.ee/~kaili/Korpus/puud/).
+The Estonian UD treebank is based on the [Estonian Dependency Treebank] (https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank consists of 234 351 tokens (punctuation included) and covers 3 different genres, namely newspaper texts, fiction and scientific texts.
+The morphological and syntactic annotation of the Estonian UD treebank is created through automatic conversion of EDT data and as such, can contain errors. 
 
-This corpus is also called Arborest and it is an experimental VISL-style hybrid treebank.
-It resulted from experiments on creating an Estonian treebank semiautomatically
-from a sample of the Estonian text corpus, annotated (parsed and manually corrected)
-on the shallow-syntactic level. The annotation was based on the Constraint Grammar.
+Also, the previous release of Estonian UD Treebank which based on HamleDT 3.0 has been reannotated and included with the same tree identifiers to the treebank.
 
-An experimental phrase structure grammar module was then written by Eckhard Bick
-with the help from Heli Uibo and Kadri Muischnek,
-generating VISL-style phrase structure from CG-annotated text.
-149 trees were examined visually, using the Slanttree Treebank viewer 4,
-developed in the VISL project.
+In the current version of Estonian UD, there are some constructions which annotations do not conform the UD guidelines, namely:
 
-The experimental VISL-style Estonian Treebank can be searched at
-[http://corp.hum.sdu.dk/arborest.html](http://corp.hum.sdu.dk/arborest.html)
-and downloaded from
-[http://kodu.ut.ee/~kaili/Korpus/puud/](http://kodu.ut.ee/~kaili/Korpus/puud/).
-It is a rather small treebank, consisting of 1315 sentences (9491 tokens).
+1. Names are right-headed.
+It concerns person names (e.g. Mari Sepp) as only the rightmost token conjugates (e.g. allative Mari Sepale)
 
-## Estonian Dependency Treebank
+2. Apposition dependencies can be right-headed. 
+It concerns structures like kohvik Kultas 'cafe Kultas' as here only the rightmost tokens conjugates (e.g. inessive kohvik Kultases)
 
-[EDT](https://www.keeletehnoloogia.ee/et/ekt-projektid/vahendid-teksti-mitmekihiliseks-margendamiseks-rakendatuna-koondkorpusele/pakitud-soltuvuspuude-pank/view)
-is a new treebank released by the University of Tartu in 2014. Its authors are working on its
-conversion to Universal Dependencies. Once it is ready, it will probably replace the Arborest
-dataset here.
+3. A word can be marked as 'AUX' but not aux or auxpass.
+If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
+However, in current version of Estonian UD word ei 'not' as a part of negative form of a verb has auxiliry POS, but dependency relation label 'neg'.
 
 ## Acknowledgments
 
-We wish to thank the authors of the Arborest treebank for their effort and for making the
-data available to the research community.
+We wish to thank all of the contributors to the original EDT annotation effort, especially Eleri Aedmaa, Riin Kirt and Dage Särg. Also, we wish to thank the authors of the previous treebank version for their effort.
 
 ## References
 
@@ -47,10 +34,5 @@ data available to the research community.
   [Estonian Dependency Treebank and its annotation scheme](http://tlt13.sfs.uni-tuebingen.de/tlt13-proceedings.pdf).
   In: *Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT13),*
   pp. 285–291, ISBN 978-3-9809183-9-8, Tübingen, Germany.
-* Heli Uibo. 2004.
-  [Syntactically annotated corpora of Estonian](http://kodu.ut.ee/~heli_u/art/HLTBaltic04_Uibo.pdf).
-  In: *The First Baltic Conference “Human Language Technology – the Baltic Perspective”,*
-  pp. 45–48, Rīga, Latvia.
-* Eckhard Bick, Heli Uibo, Kaili Müürisep. 2004.
-  [Arborest – a VISL-Style Treebank Derived from an Estonian Constraint Grammar Corpus](http://beta.visl.sdu.dk/pdf/Bick_Uibo_Muurisep_TLT04.pdf).
-  In: *Proceedings of Treebanks and Linguistic Theories,* Tübingen, Germany.
+
+* Kadri Muischnek, Kaili Müürisep and Tiina Puolakainen 2016. *Estonian Dependency Treebank: from Constraint Grammar tagset to Universal Dependencies*. - Proceedings of LREC 2016.
