@@ -4,5 +4,9 @@ title: 'name'
 shortdef: 'name'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `name`.
+The dependency relation name is used for proper nouns constituted of multiple nominal elements. Note that names are right-headed in Estonian UD.
+
+~~~ sdparse
+Arvo Pärt
+name(Pärt-2, Arvo-1)
+~~~
