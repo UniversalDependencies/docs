@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-30T20:58:16Z">2016-04-30T20:58:16 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-30T21:03:43Z">2016-04-30T21:03:43 zulu</time>
 
 # Aux chain
 
@@ -9505,7 +9505,7 @@ auxpass(finished, was)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">38</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">1</a></td>
 </tr>
 <tr><td>UD_Galician</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_Galician-dev">&nbsp;</a></td>
@@ -9861,7 +9861,7 @@ auxpass(finished, was)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">38 hits</span>
+<span class="widespan">1 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">Go to search</a><p/>
@@ -12908,7 +12908,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">53942 hits</span>
+<span class="widespan">53943 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=UD_French-dev">Go to search</a><p/>
@@ -13730,7 +13730,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">90 hits</span>
+<span class="widespan">91 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=UD_French-dev">Go to search</a><p/>
@@ -15175,7 +15175,7 @@ Search expression: `_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubj
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_French-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_French-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_French-dev">106</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_French-dev">104</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_French-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Galician</td>
@@ -15917,7 +15917,7 @@ Search expression: `_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubj
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">134 hits</span>
+<span class="widespan">132 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_French-dev">Go to search</a><p/>
@@ -29867,7 +29867,7 @@ Search expression: `_ <expl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cexpl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cexpl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cexpl+_&db=UD_French-dev">161</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cexpl+_&db=UD_French-dev">352</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cexpl+_&db=UD_French-dev">353</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cexpl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cexpl+_&db=UD_French-dev">57</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cexpl+_&db=UD_French-dev">&nbsp;</a></td>
@@ -30484,7 +30484,7 @@ Search expression: `_ <expl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">621 hits</span>
+<span class="widespan">622 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cexpl+_&db=UD_French-dev">Go to search</a><p/>
@@ -32261,7 +32261,7 @@ Search expression: `_ >expl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Eexpl+_&db=UD_French-dev">26</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Eexpl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Eexpl+_&db=UD_French-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Eexpl+_&db=UD_French-dev">313</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Eexpl+_&db=UD_French-dev">314</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Eexpl+_&db=UD_French-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Galician</td>
@@ -33020,7 +33020,7 @@ Search expression: `_ >expl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">619 hits</span>
+<span class="widespan">620 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Eexpl+_&db=UD_French-dev">Go to search</a><p/>
@@ -33664,7 +33664,7 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Excomp+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Excomp+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Excomp+_&db=UD_French-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_French-dev">807</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_French-dev">808</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Excomp+_&db=UD_French-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Galician</td>
@@ -34459,7 +34459,7 @@ Search expression: `_ >xcomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">840 hits</span>
+<span class="widespan">841 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Excomp+_&db=UD_French-dev">Go to search</a><p/>
