@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-30T18:55:53Z">2016-04-30T18:55:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-30T19:19:40Z">2016-04-30T19:19:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -876,51 +876,35 @@ python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T07:12:09Z">2016-04-30T07:12:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T19:19:35Z">2016-04-30T19:19:35 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
 
-[Line                   4436]: DEPREL must be "root" if HEAD is 0
-[Line                   4436]: DEPREL must be "root" if HEAD is 0
-[Line                   4436]: DEPREL must be "root" if HEAD is 0
-[Tree number 163 on line 4399]: Multiple root words: [3, 1, 27, 6]
-[Line                   4709]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Plur'
-*** FAILED *** with 5 errors
-Morpho errors: 1
-Syntax errors: 4
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-test.conllu
 
-[Line                   4090]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Plur'
-*** FAILED *** with 1 errors
-Morpho errors: 1
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
 
-[Line                   27660]: Morphological features must be sorted: 'Case=Ine|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3'
-[Line                   27660]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   27660]: Repeated features are disallowed: Case=Ine|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3
-[Line                   27780]: Morphological features must be sorted: 'Case=Acc|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3'
+[Line                   27660]: Morphological features must be sorted: 'Case=Ine|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3'
+[Line                   27780]: Morphological features must be sorted: 'Case=Acc|NumType=Frac|Number=Sing||Number[psor]=Sing|Person[psor]=3'
 [Line                   27780]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   27780]: Repeated features are disallowed: Case=Acc|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3
-[Line                   28196]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3'
+[Line                   27780]: Repeated features are disallowed: Case=Acc|NumType=Frac|Number=Sing||Number[psor]=Sing|Person[psor]=3
+[Line                   28196]: Morphological features must be sorted: 'Case=Nom|NumType=Frac|Number=Sing||Number[psor]=Sing|Person[psor]=3'
 [Line                   28196]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   28196]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3
-[Line                   30190]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Plur'
-[Line                   30208]: Morphological features must be sorted: 'Case=Sub|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3'
-[Line                   30208]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   30208]: Repeated features are disallowed: Case=Sub|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3
-[Line                   32969]: Morphological features must be sorted: 'Case=Nom|NumType=Dist|Number=Sing'
-*** FAILED *** with 14 errors
-Morpho errors: 14
+[Line                   28196]: Repeated features are disallowed: Case=Nom|NumType=Frac|Number=Sing||Number[psor]=Sing|Person[psor]=3
+*** FAILED *** with 7 errors
+Morpho errors: 7
 
 
 ******************
