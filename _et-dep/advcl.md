@@ -14,6 +14,8 @@ advcl(jooksis-2, karjudes-3)
 punct(jooksis-2, .-4)
 ~~~
 
+He ran shouting.
+
 ~~~ sdparse
 Mulle pakuti süüa, kui õhtul koolist saabusin .
 nmod(pakuti-2, mulle-1)
@@ -26,6 +28,5 @@ advcl(pakuti-2, saabusin-8)
 punct(saabusin-8, .-9)
 ~~~
 
+I was offered something to eat, when I arrived from school in the evening
 
-This document is a placeholder for the language-specific documentation
-for `advcl`.
