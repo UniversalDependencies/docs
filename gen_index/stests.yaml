@@ -150,8 +150,8 @@
 
 -
   name: Case not dependent on nmod
-  expr: "_ <case (_ <!nmod _)"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
+  expr: "_ <case (_ (<!nmod&<!nmod:agent&<!conj) _)"
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as having a case dependency, its head should (usually) be marked as being a nominal modifier. (But note that in some languages case can modify also objects and other nominals.)
   link: http://universaldependencies.org/u/dep/case.html
 
 -
