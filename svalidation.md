@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-30T21:03:43Z">2016-04-30T21:03:43 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-30T21:09:24Z">2016-04-30T21:09:24 zulu</time>
 
 # Aux chain
 
@@ -9505,7 +9505,7 @@ auxpass(finished, was)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Galician</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_Galician-dev">&nbsp;</a></td>
@@ -9861,7 +9861,7 @@ auxpass(finished, was)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">1 hits</span>
+<span class="widespan">0 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ensubj%7C%3Ecsubj+_+%3Eauxpass%7C%3Eauxpass%3Arefl+_&db=UD_French-dev">Go to search</a><p/>
