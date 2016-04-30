@@ -4,5 +4,4 @@ title: 'acl'
 shortdef: 'clausal modifier of noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `acl`.
+The dependency relation  `acl` stands for finite and non-finite clauses that modify a nominal.
