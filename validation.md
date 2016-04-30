@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-30T06:30:38Z">2016-04-30T06:30:38 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-30T07:12:15Z">2016-04-30T07:12:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -876,152 +876,51 @@ python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T18:31:16Z">2016-04-29T18:31:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T07:12:09Z">2016-04-30T07:12:09 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
 
-[Line                   3181]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   3181]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3181]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   3186]: Morphological features must be sorted: 'Case=Acc|Number=Sing|NumType=Card|'
-[Line                   3186]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3186]: Repeated features are disallowed: Case=Acc|Number=Sing|NumType=Card|
-[Line                   3198]: Morphological features must be sorted: 'Case=Ine|Number=Sing|NumType=Card|'
-[Line                   3198]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3198]: Repeated features are disallowed: Case=Ine|Number=Sing|NumType=Card|
-[Line                   3254]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Ord|'
-[Line                   3254]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3254]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Ord|
-[Line                   3255]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   3255]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3255]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   3258]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   3258]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3258]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   3287]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-...suppressing further errors regarding Morpho
-[Line                   3315]: Unknown UD DEPREL: ne
-[Line                   3316]: Unknown UD DEPREL: ne
-[Line                   3327]: Unknown UD DEPREL: ne
-[Line                   3386]: Unknown UD DEPREL: ne
-[Line                   3522]: Unknown UD DEPREL: ne
-[Line                   3554]: Unknown UD DEPREL: ne
-[Line                   3602]: Unknown UD DEPREL: ne
-[Line                   3625]: Unknown UD DEPREL: ne
-[Line                   3647]: Unknown UD DEPREL: ne
-[Line                   3994]: Unknown UD DEPREL: ne
-[Line                   4227]: Unknown UD DEPREL: ne
-[Line                   4228]: Unknown UD DEPREL: ne
-[Line                   4237]: Unknown UD DEPREL: ne
-[Line                   4296]: Unknown UD DEPREL: ne
-[Line                   4317]: Unknown UD DEPREL: ne
-[Line                   4380]: Unknown UD DEPREL: ne
-[Line                   4403]: Unknown UD DEPREL: ne
-[Line                   4413]: Unknown UD DEPREL: ne
 [Line                   4436]: DEPREL must be "root" if HEAD is 0
-...suppressing further errors regarding Syntax
-*** FAILED *** with 299 errors
-Morpho errors: 268
-Syntax errors: 31
+[Line                   4436]: DEPREL must be "root" if HEAD is 0
+[Line                   4436]: DEPREL must be "root" if HEAD is 0
+[Tree number 163 on line 4399]: Multiple root words: [3, 1, 27, 6]
+[Line                   4709]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Plur'
+*** FAILED *** with 5 errors
+Morpho errors: 1
+Syntax errors: 4
 
 
 ******************
 
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-test.conllu
 
-[Line                   2942]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   2942]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   2942]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   2973]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   2973]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   2973]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   3002]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   3002]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3002]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   3003]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   3003]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3003]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   3014]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Ord|'
-[Line                   3014]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3014]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Ord|
-[Line                   3022]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   3022]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3022]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   3023]: Morphological features must be sorted: 'Case=Acc|Number=Sing|NumType=Card|'
-...suppressing further errors regarding Morpho
-[Line                   3172]: Unknown UD DEPREL: ne
-[Line                   3219]: Unknown UD DEPREL: ne
-[Line                   3259]: Unknown UD DEPREL: ne
-[Line                   3295]: Unknown UD DEPREL: ne
-[Line                   3369]: Unknown UD DEPREL: ne
-[Line                   3722]: Unknown UD DEPREL: ne
-[Line                   3798]: Unknown UD DEPREL: ne
-[Line                   3943]: Unknown UD DEPREL: ne
-[Line                   3957]: Unknown UD DEPREL: ne
-[Line                   3960]: Unknown UD DEPREL: ne
-[Line                   4012]: Unknown UD DEPREL: ne
-[Line                   4016]: Unknown UD DEPREL: ne
-[Line                   4020]: Unknown UD DEPREL: ne
-[Line                   4021]: Unknown UD DEPREL: ne
-[Line                   4124]: Unknown UD DEPREL: ne
-[Line                   4125]: Unknown UD DEPREL: ne
-[Line                   4126]: Unknown UD DEPREL: ne
-[Line                   4238]: Unknown UD DEPREL: ne
-[Line                   4265]: Unknown UD DEPREL: ne
-*** FAILED *** with 266 errors
-Morpho errors: 247
-Syntax errors: 19
+[Line                   4090]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Plur'
+*** FAILED *** with 1 errors
+Morpho errors: 1
 
 
 ******************
 
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
 
-[Line                   21802]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Ord|'
-[Line                   21802]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   21802]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Ord|
-[Line                   21817]: Unknown UD DEPREL: ne
-[Line                   21838]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   21838]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   21838]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   21839]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   21839]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   21839]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   21850]: Unknown UD DEPREL: ne
-[Line                   21867]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   21867]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   21867]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   21868]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   21868]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   21868]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   21907]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Card|'
-[Line                   21907]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   21907]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Card|
-[Line                   21908]: Morphological features must be sorted: 'Case=Acc|Number=Sing|NumType=Card|'
-...suppressing further errors regarding Morpho
-[Line                   21936]: Unknown UD DEPREL: ne
-[Line                   22298]: Unknown UD DEPREL: ne
-[Line                   22664]: Unknown UD DEPREL: ne
-[Line                   22690]: Unknown UD DEPREL: ne
-[Line                   22767]: Unknown UD DEPREL: ne
-[Line                   22771]: Unknown UD DEPREL: ne
-[Line                   22772]: Unknown UD DEPREL: ne
-[Line                   22868]: Unknown UD DEPREL: ne
-[Line                   23018]: Unknown UD DEPREL: ne
-[Line                   23067]: Unknown UD DEPREL: ne
-[Line                   23094]: Unknown UD DEPREL: ne
-[Line                   23101]: Unknown UD DEPREL: ne
-[Line                   23104]: Unknown UD DEPREL: ne
-[Line                   23107]: Unknown UD DEPREL: ne
-[Line                   23110]: Unknown UD DEPREL: ne
-[Line                   23137]: Unknown UD DEPREL: ne
-[Line                   23155]: Unknown UD DEPREL: ne
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1889 errors
-Morpho errors: 1610
-Syntax errors: 279
+[Line                   27660]: Morphological features must be sorted: 'Case=Ine|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3'
+[Line                   27660]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   27660]: Repeated features are disallowed: Case=Ine|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3
+[Line                   27780]: Morphological features must be sorted: 'Case=Acc|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3'
+[Line                   27780]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   27780]: Repeated features are disallowed: Case=Acc|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3
+[Line                   28196]: Morphological features must be sorted: 'Case=Nom|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3'
+[Line                   28196]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   28196]: Repeated features are disallowed: Case=Nom|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3
+[Line                   30190]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Plur'
+[Line                   30208]: Morphological features must be sorted: 'Case=Sub|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3'
+[Line                   30208]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   30208]: Repeated features are disallowed: Case=Sub|Number=Sing|NumType=Frac||Number[psor]=Sing|Person[psor]=3
+[Line                   32969]: Morphological features must be sorted: 'Case=Nom|NumType=Dist|Number=Sing'
+*** FAILED *** with 14 errors
+Morpho errors: 14
 
 
 ******************
