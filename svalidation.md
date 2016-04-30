@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-30T09:21:17Z">2016-04-30T09:21:17 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-30T11:33:07Z">2016-04-30T11:33:07 zulu</time>
 
 # Aux chain
 
@@ -4327,7 +4327,7 @@ Search expression: `_ <foreign@R _`
 </tr>
 <tr><td>UD_Czech</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cforeign%40R+_&db=UD_Czech-dev">1492</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cforeign%40R+_&db=UD_Czech-dev">197</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cforeign%40R+_&db=UD_Czech-dev">305</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cforeign%40R+_&db=UD_Czech-dev">31</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cforeign%40R+_&db=UD_Czech-dev">40</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cforeign%40R+_&db=UD_Czech-dev">1</a></td>
@@ -5112,7 +5112,7 @@ Search expression: `_ <foreign@R _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech</span>
-<span class="widespan">2312 hits</span>
+<span class="widespan">2420 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cforeign%40R+_&db=UD_Czech-dev">Go to search</a><p/>
@@ -17837,13 +17837,13 @@ Search expression: `_ <case (_ <!nmod _)`
 </tr>
 <tr><td>UD_Czech</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">32155</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">32156</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">53</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">62</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">61</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Czech-dev">&nbsp;</a></td>
@@ -19188,7 +19188,7 @@ Search expression: `NOUN <case _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_Croatian-dev">17</a></td>
 </tr>
 <tr><td>UD_Czech</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_Czech-dev">646</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_Czech-dev">645</a></td>
 </tr>
 <tr><td>UD_Czech-CAC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_Czech-CAC-dev">194</a></td>
@@ -19398,7 +19398,7 @@ Search expression: `NOUN <case _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech</span>
-<span class="widespan">646 hits</span>
+<span class="widespan">645 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccase+_&db=UD_Czech-dev">Go to search</a><p/>
