@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-04-30T16:20:04Z">2016-04-30T16:20:04 zulu</time>
+Regenerated <time class="timeago" datetime="2016-04-30T18:30:34Z">2016-04-30T18:30:34 zulu</time>
 
 # Aux chain
 
@@ -239,7 +239,7 @@ aux(left, have)
 </tr>
 <tr><td>UD_Kazakh</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Caux+%28_+%3Caux+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Caux+%28_+%3Caux+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Caux+%28_+%3Caux+_%29&db=UD_Kazakh-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Caux+%28_+%3Caux+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Caux+%28_+%3Caux+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 </tr>
@@ -615,7 +615,7 @@ aux(left, have)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">2 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Caux+%28_+%3Caux+_%29&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -1212,9 +1212,9 @@ name(Gustaf, Carl)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cname%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cname%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cname%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cname%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cname%40R+_&db=UD_Kazakh-dev">9</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cname%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cname%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cname%40R+_&db=UD_Kazakh-dev">21</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cname%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cname%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 </tr>
@@ -1734,7 +1734,7 @@ name(Gustaf, Carl)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">30 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cname%40R+_&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -7152,21 +7152,21 @@ conj(honest, big)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cconj%40R+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Kazakh</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cconj%40R+_&db=UD_Kazakh-dev">30</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cconj%40R+_&db=UD_Kazakh-dev">107</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cconj%40R+_&db=UD_Kazakh-dev">10</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cconj%40R+_&db=UD_Kazakh-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cconj%40R+_&db=UD_Kazakh-dev">46</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cconj%40R+_&db=UD_Kazakh-dev">48</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cconj%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Korean</td>
@@ -7829,7 +7829,7 @@ conj(honest, big)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">242 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cconj%40R+_&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -8584,11 +8584,11 @@ appos(brother, Sam)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cappos%40R+_&db=UD_Kazakh-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cappos%40R+_&db=UD_Kazakh-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Cappos%40R+_&db=UD_Kazakh-dev">&nbsp;</a></td>
@@ -9231,7 +9231,7 @@ appos(brother, Sam)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">7 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cappos%40R+_&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -12227,7 +12227,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">2 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21PUNCT+%3Cpunct+_&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -13049,7 +13049,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">217 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -13460,7 +13460,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">188 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -13871,7 +13871,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">884 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28VERB%7CAUX%29%26%21VerbForm&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -15436,7 +15436,7 @@ Search expression: `_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubj
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Kazakh-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Korean</td>
@@ -16058,7 +16058,7 @@ Search expression: `_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubj
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">1 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -16834,7 +16834,7 @@ Search expression: `_ >dobj|>ccomp|>xcomp _ >dobj|>ccomp|>xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Edobj%7C%3Eccomp%7C%3Excomp+_+%3Edobj%7C%3Eccomp%7C%3Excomp+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Edobj%7C%3Eccomp%7C%3Excomp+_+%3Edobj%7C%3Eccomp%7C%3Excomp+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Edobj%7C%3Eccomp%7C%3Excomp+_+%3Edobj%7C%3Eccomp%7C%3Excomp+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Edobj%7C%3Eccomp%7C%3Excomp+_+%3Edobj%7C%3Eccomp%7C%3Excomp+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Edobj%7C%3Eccomp%7C%3Excomp+_+%3Edobj%7C%3Eccomp%7C%3Excomp+_&db=UD_Kazakh-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Edobj%7C%3Eccomp%7C%3Excomp+_+%3Edobj%7C%3Eccomp%7C%3Excomp+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Korean</td>
@@ -17479,7 +17479,7 @@ Search expression: `_ >dobj|>ccomp|>xcomp _ >dobj|>ccomp|>xcomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">6 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Edobj%7C%3Eccomp%7C%3Excomp+_+%3Edobj%7C%3Eccomp%7C%3Excomp+_&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -18274,7 +18274,7 @@ Search expression: `_ <case (_ <!nmod _)`
 </tr>
 <tr><td>UD_Kazakh</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Kazakh-dev">15</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
@@ -18975,7 +18975,7 @@ Search expression: `_ <case (_ <!nmod _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">15 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ccase+%28_+%3C%21nmod+_%29&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -20317,7 +20317,7 @@ appos(brother, cousin)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cappos+%28_+%3Cappos+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cappos+%28_+%3Cappos+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cappos+%28_+%3Cappos+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cappos+%28_+%3Cappos+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cappos+%28_+%3Cappos+_%29&db=UD_Kazakh-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cappos+%28_+%3Cappos+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cappos+%28_+%3Cappos+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cappos+%28_+%3Cappos+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
@@ -20963,7 +20963,7 @@ appos(brother, cousin)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">1 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cappos+%28_+%3Cappos+_%29&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -21374,7 +21374,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">93 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -22168,16 +22168,16 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Kazakh</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">5</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">30</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">&nbsp;</a></td>
@@ -22870,7 +22870,7 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">37 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -24477,7 +24477,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Japanese-KTC-dev">128</a></td>
 </tr>
 <tr><td>UD_Kazakh</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Kazakh-dev">127</a></td>
 </tr>
 <tr><td>UD_Korean</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Korean-dev">&nbsp;</a></td>
@@ -24779,7 +24779,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">127 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -25418,7 +25418,7 @@ Search expression: `!NUM <nummod _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cnummod+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cnummod+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cnummod+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cnummod+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cnummod+_&db=UD_Kazakh-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cnummod+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cnummod+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cnummod+_&db=UD_Kazakh-dev">&nbsp;</a></td>
@@ -25990,7 +25990,7 @@ Search expression: `!NUM <nummod _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">6 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21NUM+%3Cnummod+_&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -27350,7 +27350,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Kazakh-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Korean</td>
@@ -28013,7 +28013,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">1 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21AUX+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -28814,12 +28814,12 @@ Search expression: `_ < (_ <cc _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">&nbsp;</a></td>
@@ -29490,7 +29490,7 @@ Search expression: `_ < (_ <cc _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">5 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3C+%28_+%3Ccc+_%29&db=UD_Kazakh-dev">Go to search</a><p/>
@@ -33956,7 +33956,7 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Excomp+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Excomp+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Excomp+_&db=UD_Kazakh-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_Kazakh-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_Kazakh-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Excomp+_&db=UD_Kazakh-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Korean</td>
@@ -34619,7 +34619,7 @@ Search expression: `_ >xcomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
-<span class="widespan">0 hits</span>
+<span class="widespan">2 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Excomp+_&db=UD_Kazakh-dev">Go to search</a><p/>

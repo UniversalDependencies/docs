@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-30T16:21:57Z">2016-04-30T16:21:57 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-30T18:31:38Z">2016-04-30T18:31:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1059,12 +1059,66 @@ python tools/validate.py --lang ja_ktc UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:45:33Z">2016-04-13T23:45:33 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T18:31:38Z">2016-04-30T18:31:38 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.kk could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.kk
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.kk could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.kk It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-test.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.kk could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.kk
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.kk could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.kk It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.kk could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.kk
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.kk could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.kk It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+
 </pre>
 </div>
 <div>
