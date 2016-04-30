@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-04-30T21:11:35Z">2016-04-30T21:11:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-04-30T21:15:06Z">2016-04-30T21:15:06 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -651,8 +651,8 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T21:10:54Z">2016-04-30T21:10:54 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T21:14:25Z">2016-04-30T21:14:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -672,10 +672,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   308689]: DEPREL must be "root" if HEAD is 0
-[Tree number 11008 on line 308668]: Multiple root words: [13, 15]
-*** FAILED *** with 2 errors
-Syntax errors: 2
+*** PASSED ***
 
 
 ******************
