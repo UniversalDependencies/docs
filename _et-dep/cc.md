@@ -4,5 +4,4 @@ title: 'cc'
 shortdef: 'coordinating conjunction'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `cc`.
+A `cc` is the relation between the first conjunct and the coordinating conjunction delimiting another conjunct.
