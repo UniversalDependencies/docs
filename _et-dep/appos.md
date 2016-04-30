@@ -4,5 +4,4 @@ title: 'appos'
 shortdef: 'appositional modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `appos`.
+An appositional modifier is a noun preceding or following the head noun that serves to define or modify that noun. Note that appositions can be both right- and left-headed in Estonian UD.
