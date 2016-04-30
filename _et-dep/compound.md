@@ -4,5 +4,16 @@ title: 'compound'
 shortdef: 'compound'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `compound`.
+The dependency relation compound is used for annotating numbers written with several words or several sequences of digits or combinations of them.
+
+~~~ sdparse
+60 000
+compound(60-1, 000-2)
+~~
+
+~~~sdparse
+kaks tuhat
+compound(kaks-1, tuhat-2)
+~~~
+
+two thousand
