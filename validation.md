@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-01T19:15:08Z">2016-05-01T19:15:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-01T19:31:18Z">2016-05-01T19:31:18 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1528,62 +1528,216 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Russian-Syntagrus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T12:31:42Z">2016-04-30T12:31:42 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T19:29:12Z">2016-05-01T19:29:12 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-model.conllu
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-dev.conllu
 
-[Line                   1]: Unknown UPOS tag: PUNC
-[Line                   1]: Unknown UD DEPREL: PUNC
-[Line                   1]: Invalid DEPREL value PUNC
-[Line                   4]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   4]: Repeated features are disallowed: ADP
-[Line                   5]: Unknown UD DEPREL: DEPREL
-[Line                   5]: Invalid DEPREL value DEPREL
-[Line                   7]: Spurious morphological feature: 'PART'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   7]: Repeated features are disallowed: PART
-[Line                   7]: Unknown UD DEPREL: DEPREL
-[Line                   7]: Invalid DEPREL value DEPREL
-[Line                   9]: Unknown UD DEPREL: DEPREL
-[Line                   9]: Invalid DEPREL value DEPREL
-[Line                   14]: Unknown UD DEPREL: ROOT
-[Line                   14]: Invalid DEPREL value ROOT
-[Line                   18]: Unknown UD DEPREL: DEPREL
-[Line                   18]: Invalid DEPREL value DEPREL
+[Line                   3]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   3]: Repeated features are disallowed: ADP
+[Line                   6]: Spurious morphological feature: 'PART'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   6]: Repeated features are disallowed: PART
+[Line                   12]: Unknown UD DEPREL: ROOT
+[Line                   12]: Invalid DEPREL value ROOT
+[Line                   19]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   19]: Repeated features are disallowed: ADP
+[Line                   24]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   24]: Repeated features are disallowed: ADP
+[Line                   28]: DEPREL must be "root" if HEAD is 0
+[Line                   29]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   29]: Repeated features are disallowed: ADP
+[Line                   32]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   32]: Repeated features are disallowed: ADP
+[Line                   37]: Unknown UD DEPREL: ROOT
+[Line                   37]: Invalid DEPREL value ROOT
+[Line                   43]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   43]: Repeated features are disallowed: CONJ
+[Line                   44]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   44]: Repeated features are disallowed: ADP
+[Line                   47]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   47]: Repeated features are disallowed: ADP
+[Line                   63]: DEPREL must be "root" if HEAD is 0
+[Line                   65]: Spurious morphological feature: 'Variant=brev'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+...suppressing further errors regarding Morpho
+[Line                   65]: Unknown UD DEPREL: ROOT
+[Line                   65]: Invalid DEPREL value ROOT
+[Line                   85]: DEPREL must be "root" if HEAD is 0
+[Line                   91]: Unknown UD DEPREL: ROOT
+[Line                   91]: Invalid DEPREL value ROOT
+[Line                   104]: DEPREL must be "root" if HEAD is 0
+[Line                   122]: Unknown UD DEPREL: ROOT
+[Line                   122]: Invalid DEPREL value ROOT
+[Line                   141]: DEPREL must be "root" if HEAD is 0
+[Line                   144]: Unknown UD DEPREL: ROOT
+[Line                   144]: Invalid DEPREL value ROOT
+[Line                   169]: DEPREL must be "root" if HEAD is 0
+[Line                   173]: Unknown UD DEPREL: ROOT
+...suppressing further errors regarding Syntax
+[Line                   1468]: Empty value in column FEATS
+[Line                   1576]: Empty value in column FEATS
+[Line                   2760]: Empty value in column FEATS
+[Line                   3129]: Empty value in column FEATS
+[Line                   3190]: Empty value in column FEATS
+[Line                   3418]: Empty value in column FEATS
+[Line                   3619]: Empty value in column FEATS
+[Line                   3852]: Empty value in column FEATS
+[Line                   4323]: Empty value in column FEATS
+[Line                   4423]: Empty value in column FEATS
+[Line                   4890]: Empty value in column FEATS
+[Line                   4899]: Empty value in column FEATS
+[Line                   5105]: Empty value in column FEATS
+[Line                   5269]: Empty value in column FEATS
+[Line                   5330]: Empty value in column FEATS
+[Line                   5462]: Empty value in column FEATS
+[Line                   5510]: Empty value in column FEATS
+[Line                   5869]: Empty value in column FEATS
+[Line                   5994]: Empty value in column FEATS
+...suppressing further errors regarding Format
+*** FAILED *** with 62379 errors
+Format errors: 164
+Morpho errors: 43754
+Syntax errors: 18461
+
+
+******************
+
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-test.conllu
+
+[Line                   1]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   1]: Repeated features are disallowed: ADP
+[Line                   9]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   9]: Repeated features are disallowed: ADP
+[Line                   11]: Unknown UD DEPREL: ROOT
+[Line                   11]: Invalid DEPREL value ROOT
+[Line                   12]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   12]: Repeated features are disallowed: ADP
+[Line                   14]: Unknown UD DEPREL: nummod:gov
+[Line                   16]: DEPREL must be "root" if HEAD is 0
+[Line                   18]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   18]: Repeated features are disallowed: ADP
+[Line                   20]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   20]: Repeated features are disallowed: ADP
+[Line                   25]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   25]: Repeated features are disallowed: CONJ
+[Line                   28]: Unknown UD DEPREL: ROOT
+[Line                   28]: Invalid DEPREL value ROOT
+[Line                   30]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   30]: Repeated features are disallowed: CONJ
+[Line                   34]: DEPREL must be "root" if HEAD is 0
+[Line                   35]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   35]: Repeated features are disallowed: ADP
+[Line                   41]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   41]: Repeated features are disallowed: CONJ
+[Line                   46]: Unknown UD DEPREL: ROOT
+[Line                   46]: Invalid DEPREL value ROOT
+[Line                   48]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+...suppressing further errors regarding Morpho
+[Line                   66]: DEPREL must be "root" if HEAD is 0
+[Line                   91]: Unknown UD DEPREL: ROOT
+[Line                   91]: Invalid DEPREL value ROOT
+[Line                   97]: DEPREL must be "root" if HEAD is 0
+[Line                   102]: Unknown UD DEPREL: ROOT
+[Line                   102]: Invalid DEPREL value ROOT
+[Line                   105]: DEPREL must be "root" if HEAD is 0
+[Line                   111]: Unknown UD DEPREL: ROOT
+[Line                   111]: Invalid DEPREL value ROOT
+[Line                   121]: DEPREL must be "root" if HEAD is 0
+...suppressing further errors regarding Syntax
+[Line                   147]: Empty value in column FEATS
+[Line                   377]: Empty value in column FEATS
+[Line                   432]: Empty value in column FEATS
+[Line                   661]: Empty value in column FEATS
+[Line                   1403]: Empty value in column FEATS
+[Line                   1995]: Empty value in column FEATS
+[Line                   2322]: Empty value in column FEATS
+[Line                   11352]: Column FORM is not allowed to contain whitespace: '3 000'
+[Line                   12006]: Column FORM is not allowed to contain whitespace: '22 000'
+[Line                   12531]: Empty value in column FEATS
+[Line                   12666]: Empty value in column FEATS
+[Line                   12916]: Empty value in column FEATS
+[Line                   13221]: Empty value in column FEATS
+[Line                   13428]: Empty value in column FEATS
+[Line                   13577]: Empty value in column FEATS
+[Line                   17991]: Empty value in column FEATS
+[Line                   18269]: Empty value in column FEATS
+[Line                   18406]: Empty value in column FEATS
+[Line                   19087]: Empty value in column FEATS
+...suppressing further errors regarding Format
+*** FAILED *** with 61962 errors
+Format errors: 136
+Morpho errors: 43958
+Syntax errors: 17868
+
+
+******************
+
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-train.conllu
+
+[Line                   1]: Unknown UD DEPREL: ROOT
+[Line                   1]: Invalid DEPREL value ROOT
+[Line                   3]: DEPREL must be "root" if HEAD is 0
+[Line                   11]: Unknown UD DEPREL: ROOT
+[Line                   11]: Invalid DEPREL value ROOT
+[Line                   15]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   15]: Repeated features are disallowed: ADP
 [Line                   21]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   21]: Repeated features are disallowed: ADP
-[Line                   23]: Unknown UD DEPREL: DEPREL
-[Line                   23]: Invalid DEPREL value DEPREL
-[Line                   25]: Unknown UD DEPREL: DEPREL
-[Line                   25]: Invalid DEPREL value DEPREL
-[Line                   26]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   26]: Repeated features are disallowed: ADP
-[Line                   30]: DEPREL must be "root" if HEAD is 0
-[Line                   31]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   31]: Repeated features are disallowed: ADP
-[Line                   33]: Unknown UD DEPREL: DEPREL
-[Line                   33]: Invalid DEPREL value DEPREL
-[Line                   34]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   34]: Repeated features are disallowed: ADP
-...suppressing further errors regarding Syntax
-[Line                   45]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   45]: Repeated features are disallowed: CONJ
-[Line                   46]: Column FORM is not allowed to contain whitespace: 'по мере'
-[Line                   46]: Column LEMMA is not allowed to contain whitespace: 'ПО МЕРЕ'
-[Line                   46]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   46]: Repeated features are disallowed: ADP
+[Line                   23]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   23]: Repeated features are disallowed: ADP
+[Line                   25]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   25]: Repeated features are disallowed: CONJ
+[Line                   27]: Spurious morphological feature: 'PART'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   27]: Repeated features are disallowed: PART
+[Line                   29]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   29]: Repeated features are disallowed: ADP
+[Line                   32]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   32]: Repeated features are disallowed: ADP
+[Line                   38]: DEPREL must be "root" if HEAD is 0
+[Line                   39]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   39]: Repeated features are disallowed: ADP
+[Line                   42]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   42]: Repeated features are disallowed: ADP
+[Line                   44]: Unknown UD DEPREL: ROOT
+[Line                   44]: Invalid DEPREL value ROOT
 [Line                   49]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   49]: Repeated features are disallowed: ADP
 ...suppressing further errors regarding Morpho
-[Line                   159]: Column FORM is not allowed to contain whitespace: 'тем не менее'
-[Line                   159]: Column LEMMA is not allowed to contain whitespace: 'ТЕМ НЕ МЕНЕЕ'
-[Line                   173]: Column FORM is not allowed to contain whitespace: 'в качестве'
-[Line                   173]: Column LEMMA is not allowed to contain whitespace: 'В КАЧЕСТВЕ'
-*** FAILED *** with 300 errors
-Format errors: 6
-Morpho errors: 68
-Syntax errors: 226
+[Line                   73]: DEPREL must be "root" if HEAD is 0
+[Line                   79]: Unknown UD DEPREL: ROOT
+[Line                   79]: Invalid DEPREL value ROOT
+[Line                   93]: DEPREL must be "root" if HEAD is 0
+[Line                   96]: Unknown UD DEPREL: ROOT
+[Line                   96]: Invalid DEPREL value ROOT
+[Line                   102]: DEPREL must be "root" if HEAD is 0
+[Line                   105]: Unknown UD DEPREL: ROOT
+[Line                   105]: Invalid DEPREL value ROOT
+[Line                   118]: DEPREL must be "root" if HEAD is 0
+[Line                   121]: Unknown UD DEPREL: ROOT
+...suppressing further errors regarding Syntax
+[Line                   5774]: Empty value in column FEATS
+[Line                   6111]: Empty value in column FEATS
+[Line                   6490]: Empty value in column FEATS
+[Line                   6781]: Empty value in column FEATS
+[Line                   7000]: Empty value in column FEATS
+[Line                   7375]: Empty value in column FEATS
+[Line                   7703]: Empty value in column FEATS
+[Line                   8078]: Empty value in column FEATS
+[Line                   8086]: Empty value in column FEATS
+[Line                   9795]: Empty value in column FEATS
+[Line                   10736]: Empty value in column FEATS
+[Line                   10856]: Empty value in column FEATS
+[Line                   11015]: Empty value in column FEATS
+[Line                   11189]: Empty value in column FEATS
+[Line                   11551]: Column FORM is not allowed to contain whitespace: ' '
+[Line                   11551]: Column LEMMA is not allowed to contain whitespace: ' '
+[Line                   11551]: Column XPOSTAG is not allowed to contain whitespace: ' '
+[Line                   19562]: Empty value in column FEATS
+[Line                   21072]: Empty value in column FEATS
+...suppressing further errors regarding Format
+*** FAILED *** with 482823 errors
+Format errors: 1058
+Morpho errors: 337533
+Syntax errors: 144232
 
 
 ******************
