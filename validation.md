@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-01T08:57:43Z">2016-05-01T08:57:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-01T09:56:50Z">2016-05-01T09:56:50 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -875,8 +875,8 @@ python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T19:19:35Z">2016-04-30T19:19:35 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T09:56:45Z">2016-05-01T09:56:45 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -896,15 +896,7 @@ python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-test.conll
 
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
 
-[Line                   27660]: Morphological features must be sorted: 'Case=Ine|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3'
-[Line                   27780]: Morphological features must be sorted: 'Case=Acc|NumType=Frac|Number=Sing||Number[psor]=Sing|Person[psor]=3'
-[Line                   27780]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   27780]: Repeated features are disallowed: Case=Acc|NumType=Frac|Number=Sing||Number[psor]=Sing|Person[psor]=3
-[Line                   28196]: Morphological features must be sorted: 'Case=Nom|NumType=Frac|Number=Sing||Number[psor]=Sing|Person[psor]=3'
-[Line                   28196]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   28196]: Repeated features are disallowed: Case=Nom|NumType=Frac|Number=Sing||Number[psor]=Sing|Person[psor]=3
-*** FAILED *** with 7 errors
-Morpho errors: 7
+*** PASSED ***
 
 
 ******************
