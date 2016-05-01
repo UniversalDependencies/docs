@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-01T21:13:55Z">2016-05-01T21:13:55 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-01T22:05:05Z">2016-05-01T22:05:05 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1495,14 +1495,161 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T05:21:42Z">2016-04-29T05:21:42 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T22:04:41Z">2016-05-01T22:04:41 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 *** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-dev.conllu
+
+[Line                   13]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   60]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   91]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   102]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   115]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   133]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   146]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   217]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   228]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   239]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   245]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   258]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   268]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   278]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   287]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   308]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   317]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   340]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+...suppressing further errors regarding Format
+[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 27, 28, 30, 33, 36, 39, 40]
+[Line                   10545]: Loop from 1
+[Line                   10545]: Loop from 1
+[Line                   10545]: Loop from 2
+[Line                   10545]: Loop from 1
+[Line                   10545]: Loop from 2
+[Line                   10545]: Loop from 3
+[Line                   10545]: Loop from 1
+[Line                   10545]: Loop from 2
+[Line                   10545]: Loop from 3
+[Line                   10545]: Loop from 4
+[Line                   10545]: Loop from 1
+[Line                   10545]: Loop from 2
+[Line                   10545]: Loop from 3
+[Line                   10545]: Loop from 4
+[Line                   10545]: Loop from 5
+[Line                   10545]: Loop from 1
+[Line                   10545]: Loop from 2
+[Line                   10545]: Loop from 3
+...suppressing further errors regarding Syntax
+*** FAILED *** with 1479 errors
+Format errors: 503
+Syntax errors: 976
+
+
+******************
+
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-test.conllu
+
+[Line                   16]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   48]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   65]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   80]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   95]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   112]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   141]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   157]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   182]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   225]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   247]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   257]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   270]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   343]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   351]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   393]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   404]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   419]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+...suppressing further errors regarding Format
+[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24, 25, 27, 29, 30, 46]
+[Line                   10071]: Loop from 1
+[Line                   10071]: Loop from 1
+[Line                   10071]: Loop from 2
+[Line                   10071]: Loop from 1
+[Line                   10071]: Loop from 2
+[Line                   10071]: Loop from 3
+[Line                   10071]: Loop from 1
+[Line                   10071]: Loop from 2
+[Line                   10071]: Loop from 3
+[Line                   10071]: Loop from 4
+[Line                   10071]: Loop from 1
+[Line                   10071]: Loop from 2
+[Line                   10071]: Loop from 3
+[Line                   10071]: Loop from 4
+[Line                   10071]: Loop from 5
+[Line                   10071]: Loop from 1
+[Line                   10071]: Loop from 2
+[Line                   10071]: Loop from 3
+...suppressing further errors regarding Syntax
+*** FAILED *** with 1500 errors
+Format errors: 500
+Syntax errors: 1000
+
+
+******************
+
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-train.conllu
+
+[Line                   26]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   52]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   77]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   89]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   105]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   125]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   164]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   174]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   188]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   228]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   255]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   262]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   272]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   303]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   330]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   338]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   349]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   376]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   414]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+...suppressing further errors regarding Format
+[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 39, 53, 73]
+[Line                   83800]: Loop from 1
+[Line                   83800]: Loop from 1
+[Line                   83800]: Loop from 2
+[Line                   83800]: Loop from 1
+[Line                   83800]: Loop from 2
+[Line                   83800]: Loop from 3
+[Line                   83800]: Loop from 1
+[Line                   83800]: Loop from 2
+[Line                   83800]: Loop from 3
+[Line                   83800]: Loop from 4
+[Line                   83800]: Loop from 1
+[Line                   83800]: Loop from 2
+[Line                   83800]: Loop from 3
+[Line                   83800]: Loop from 4
+[Line                   83800]: Loop from 5
+[Line                   83800]: Loop from 1
+[Line                   83800]: Loop from 2
+[Line                   83800]: Loop from 3
+...suppressing further errors regarding Syntax
+*** FAILED *** with 6265 errors
+Format errors: 4033
+Syntax errors: 2232
 
 
 ******************
