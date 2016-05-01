@@ -254,6 +254,17 @@
     "lang_name": "Dutch"
   }, 
   {
+    "lang_code": "nl_lassysmall", 
+    "contributors": [
+      {
+        "full": "Gosse, van Noord, Gertjan Bouma", 
+        "last": "Bouma", 
+        "first": "Gosse, van Noord, Gertjan"
+      }
+    ], 
+    "lang_name": "Dutch-LassySmall"
+  }, 
+  {
     "lang_code": "en", 
     "contributors": [
       {
@@ -357,7 +368,13 @@
   }, 
   {
     "lang_code": "en_lines", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Lars Ahrenberg", 
+        "last": "Ahrenberg", 
+        "first": "Lars"
+      }
+    ], 
     "lang_name": "English-LinES"
   }, 
   {
@@ -942,29 +959,9 @@
         "first": "Olga"
       }, 
       {
-        "full": "Svetlana Toldova", 
-        "last": "Toldova", 
-        "first": "Svetlana"
-      }, 
-      {
-        "full": "Andrey Kutuzov", 
-        "last": "Kutuzov", 
-        "first": "Andrey"
-      }, 
-      {
-        "full": "Nina Mustafina", 
-        "last": "Mustafina", 
-        "first": "Nina"
-      }, 
-      {
-        "full": "Maria Alexeeva", 
-        "last": "Alexeeva", 
-        "first": "Maria"
-      }, 
-      {
-        "full": "Elena Shakurova", 
-        "last": "Shakurova", 
-        "first": "Elena"
+        "full": "", 
+        "last": "", 
+        "first": "?"
       }
     ], 
     "lang_name": "Russian-Syntagrus"
@@ -992,7 +989,18 @@
   }, 
   {
     "lang_code": "sl_sst", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Kaja Dobrovoljc", 
+        "last": "Dobrovoljc", 
+        "first": "Kaja"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }
+    ], 
     "lang_name": "Slovenian-SST"
   }, 
   {
