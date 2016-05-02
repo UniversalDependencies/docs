@@ -179,7 +179,7 @@
 -
   name: Heads of an advmod are nominal
   expr: _ <advmod (NOUN|PROPN|NUM|PRON)
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The heads of an adverbial modifier should normally not be nominal (noun, proper noun, numeral, or pronoun). Exceptions occur in nominal clauses, where a nominal is the main predicate and can therefore take clause adverbials. Example: "This is probably an exception." 
+  desc: "<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The heads of an adverbial modifier should normally not be nominal (noun, proper noun, numeral, or pronoun). Exceptions occur in nominal clauses, where a nominal is the main predicate and can therefore take clause adverbials. Example: This is probably an exception."
   link: http://universaldependencies.org/docs/u/dep/advmod.html
 
 #Note: in the following test expr is between double quotes because ! has a special meaning in yaml
@@ -196,7 +196,7 @@
   name: Marked as NUM but not nummod, nmod or compound
   expr: "NUM (<!nummod&<!nmod&<!compound) _"
   expr-pos: "_ (<!nummod&<!nmod&<!compound) _"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as a numeral (POS), then it should be marked as being a nummod, compound or nmod dependency. Exceptions occur when the numeral is promoted to a higher function through ellipis. Example: "Take five!"
+  desc: "<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as a numeral (POS), then it should be marked as being a nummod, compound or nmod dependency. Exceptions occur when the numeral is promoted to a higher function through ellipis. Example: Take five!"
   link: http://universaldependencies.org/docs/u/pos/NUM.html
 
 -
