@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-02T12:29:32Z">2016-05-02T12:29:32 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-02T12:32:25Z">2016-05-02T12:32:25 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1143,7 +1143,7 @@ python tools/validate.py --lang la UD-dev-branches/UD_Latin/la-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T10:16:26Z">2016-05-02T10:16:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T12:31:51Z">2016-05-02T12:31:51 zulu</time></span>
 </div>
 <div>
 <pre>
