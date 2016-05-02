@@ -13,7 +13,7 @@ nmod is a noun (or noun phrase) functioning as a non-core (oblique) argument or 
 *A **small** plane was waiting **in the airport** **of Findel** .*
 
 ~~~ sdparse
-Hegazkin txiki bat zain zegoen Findeleko aireportuan . n\ Plane small_a waiting was Findel_of airport_the_in .
+Hegazkin txiki bat zain zegoen Findeleko aireportuan . \n Plane small_a waiting was Findel_of airport_the_in .
 
 nmod(Hegazkin-1, txiki-2)
 nummod(Hegazkin-1, bat-3)
@@ -48,7 +48,7 @@ punct(egin-2, .-7)
 *That will be our punishment .* 
 
 ~~~ sdparse
-Hori izango da gure zigorra . n\ That will be our punishment . 
+Hori izango da gure zigorra . \n That will be our punishment . 
 
 nsubj(zigorra-5, Hori-1)
 cop(zigorra-5, izango-2)
