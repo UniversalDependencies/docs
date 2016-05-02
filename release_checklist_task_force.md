@@ -43,6 +43,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   * .gitignore
   * .git
   * not-to-release
+* The training data in UD_Czech is split to four files because it is too large for Github. However, it can be one file in our release, so join the files again in the release copy. (NOTE: The split is currently described in README.txt. If the data is re-joined, the README.txt file should be updated, otherwise the users might get confused.)
 * Prepare two separate packages, the current contents of the repositories docs and tools, also without .git and .gitignore.
   Moreover, the docs repository should be separately checked out in two branches, pages-source and gh-pages.
   (NOTE: This has changed since UD 1.2. The generated pages are now in a separate repository, mirrored at the site universaldependencies.org.)
@@ -57,6 +58,3 @@ See [here](release_checklist.html) for the checklist for data contributors.
   At that moment the release is officially out and no changes to the data files are permitted (changes to metadata are possible if necessary,
   but this is done on demand only).
 * Update the title page of Universal Dependencies. Send out announcement to corpora@uib.no, ACL list etc.
-
-What about the split training data in Czech?
-We could actually merge it again for the release!
