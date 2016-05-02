@@ -100,4 +100,20 @@ nmod(dute-4, gurekin-5)
 punct(dute-4, .-6)
 ~~~
 
+
+***Zeintzu** proiektu dituzu epe laburrera ?* 
+
+***Which** projects do you have in the near future ?*
+
+~~~ sdparse
+Zeintzu proiektu dituzu epe laburrera ? \n Which projects do you have in the near future ?
+
+det(proiektu-2, Zeintzu-1)
+dobj(dituzu-3, proiektu-2)
+nmod(dituzu-3, epe-4)
+amod(epe-4, laburrera-5)
+punct(dituzu-3, ?-6)
+~~~
+
+
 * Possessive determiners, are not tagged with det but with nmod (see nmod section).  
