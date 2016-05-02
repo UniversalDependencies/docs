@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-02T08:24:40Z">2016-05-02T08:24:40 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-02T08:30:11Z">2016-05-02T08:30:11 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1495,18 +1495,11 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T00:25:21Z">2016-05-02T00:25:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:29:56Z">2016-05-02T08:29:56 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-dev.conllu
 
 [Line                   13]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
 [Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
@@ -1555,7 +1548,7 @@ Syntax errors: 976
 
 ******************
 
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-test.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 
 [Line                   16]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
 [Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
@@ -1604,7 +1597,7 @@ Syntax errors: 1000
 
 ******************
 
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-train.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 [Line                   16]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
 [Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
@@ -1649,20 +1642,6 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-train
 *** FAILED *** with 7492 errors
 Format errors: 5055
 Syntax errors: 2437
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
-
-*** PASSED ***
 
 
 ******************
