@@ -6,10 +6,11 @@ shortdef: 'determiner'
 
 The relation determiner (`det`) holds between a nominal head and its determiner. 
 
-Cardinal and ordinal numbers and quantifiers are considered det in Basque:
+* Cardinal and ordinal numbers and quantifiers are considered det in Basque:
 
-3.000 pezeta kostatzen da .
-It costs 3.000 pesetas . 
+***3.000** pezeta kostatzen da .*
+
+*It costs **3.000** pesetas .* 
 
 ~~~ sdparse
 3.000 pezeta kostatzen da . \n 3.000 pesetas costs . 
@@ -21,8 +22,9 @@ punct(kostatzen-3, .-5)
 ~~~
 
 
-Bost minutu jokatuta pozik egongo nintzateke . 
-I would be happy playing five minutes .
+***Bost** minutu jokatuta pozik egongo nintzateke .*
+
+*I would be happy playing **five** minutes .*
 
 ~~~ sdparse
 Bost minutu jokatuta pozik egongo nintzateke . \n Five minutes playing happy would be  .
@@ -36,22 +38,9 @@ punct(egongo-5, .-7)
 ~~~
 
 
-Partidutxoa egin zuten hamarreko bi taldetan . 
-They played a match in two groups of ten .
+***Lehen** partiduan hiru puntuak eskuratzea ez da ezinbestekoa .*
 
-~~~ sdparse
-Partidutxoa egin zuten hamarreko bi taldetan . \n Match_a played ten_of two match_in  .
-
-dobj(egin-2, Partidutxoa)
-aux(egin-2, zuten3-)
-nmod(taldetan-6, hamarreko-4)
-nummod(taldetan-6, bi-5)
-nmod(egin-2, taldetan-6)
-punct(egin-2, .-7)
-~~~
-
-Lehen partiduan hiru puntuak eskuratzea ez da ezinbestekoa .
-To get the three points in the first match is not essential . 
+*To get the three points in the **first** match is not essential .*
 
 ~~~ sdparse
 Lehen partiduan hiru puntuak eskuratzea ez da ezinbestekoa . \n First match_the_in three points_the     to_get not is essential . 
@@ -66,10 +55,11 @@ csubj(ezinbestekoa-8, eskuratzea-5)
 punct(ezinbestekoa-8, .-9)
 ~~~
 
-Indefinite quantifiers (such as few and many) are also tagged as det.
+* Indefinite quantifiers (such as few and many) are also tagged as det.
 
-Hortxe biltzen da mota guztietako jendea .
-All kind of people are met there .
+*Hortxe biltzen da mota **guztietako** jendea .*
+
+***All** kind of people are met there .*
 
 ~~~ sdparse
 Hortxe biltzen da mota guztietako jendea . \n There met are kind all_of people .
@@ -83,8 +73,9 @@ punct(biltzen-2, .-7)
 ~~~
 
 
-Aukera asko daude . 
-There are many options .
+*Aukera **asko** daude .*
+
+*There are **many** options .*
 
 ~~~ sdparse
 Aukera asko daude . \n Options many there_are .
@@ -95,8 +86,9 @@ punct(Aukera-1-2, .-4)
 ~~~
 
 
-Oso harreman gutxi dute gurekin . 
-They have very few relation with us .
+*Oso harreman **gutxi** dute gurekin .* 
+
+*They have very **few** relation with us .*
 
 ~~~ sdparse
 Oso harreman gutxi dute gurekin . n\ Very relation few have us_with .
