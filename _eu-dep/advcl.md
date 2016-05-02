@@ -5,8 +5,7 @@ shortdef: 'adverbial clause modifier'
 ---
 
 An adverbial clause modifier (`advcl`) is a clause which modifies a verb or other predicate (adjective, etc.),
-as a modifier, not as a core complement. This includes temporal clauses, consequences, conditional clauses, purpose clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
-
+as a modifier, not as a core complement. This includes temporal clauses, consequences, conditional clauses, purpose clause, etc. The dependent must be clausal (otherwise, it is an [advmod]()) and the dependent is the main predicate of the clause.
 
 *Askatasunean **oinarritutako** alternatiba bat ematea .* 
 
@@ -28,6 +27,7 @@ punct(ematea-5, .-6)
 
 *The first Basque writer-group **created** in Lapurdi .* 
 
+~~~ sdparse
 Lapurdin sorturiko lehenbiziko euskal idazle-taldea . \n  The first Basque writer-group created in Lapurdi . 
 
 nmod(sorturiko-2, Lapurdin-1)
