@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-02T08:43:33Z">2016-05-02T08:43:33 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-02T08:45:32Z">2016-05-02T08:45:32 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1495,153 +1495,78 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:29:56Z">2016-05-02T08:29:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:45:18Z">2016-05-02T08:45:18 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
-[Line                   13]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   60]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   91]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   102]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   115]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   133]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   146]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   217]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   228]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   239]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   245]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   258]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   268]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   278]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   287]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   308]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   317]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   340]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-...suppressing further errors regarding Format
-[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 27, 28, 30, 33, 36, 39, 40]
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-[Line                   10545]: Loop from 4
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-[Line                   10545]: Loop from 4
-[Line                   10545]: Loop from 5
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1479 errors
-Format errors: 503
-Syntax errors: 976
+[Tree number 488 on line 10282]: Words do not form a sequence. Got: 2,3,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18.
+[Line                   10300]: Undefined ID in HEAD: 1
+[Line                   10300]: Undefined ID in HEAD: 1
+[Tree number 488 on line 10282]: Non-tree structure. Words 1,4,5,6,7,8 are not reachable from the root 0.
+[Line                   10545]: Missing empty line after the last tree.
+*** FAILED *** with 5 errors
+Format errors: 4
+Syntax errors: 1
 
 
 ******************
 
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 
-[Line                   16]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   48]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   65]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   80]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   95]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   112]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   141]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   157]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   182]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   225]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   247]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   257]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   270]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   343]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   351]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   393]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   404]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   419]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-...suppressing further errors regarding Format
-[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24, 25, 27, 29, 30, 46]
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-[Line                   10071]: Loop from 4
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-[Line                   10071]: Loop from 4
-[Line                   10071]: Loop from 5
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1500 errors
-Format errors: 500
-Syntax errors: 1000
+[Line                   10071]: Missing empty line after the last tree.
+*** FAILED *** with 1 errors
+Format errors: 1
 
 
 ******************
 
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
-[Line                   16]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   48]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   65]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   80]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   95]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   112]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   141]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   157]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   182]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   225]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   247]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   257]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   270]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   343]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   351]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   393]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   404]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   419]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   10073]: Spurious empty line.
+[Tree number 987 on line 20355]: Words do not form a sequence. Got: 2,3,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18.
+[Line                   20373]: Undefined ID in HEAD: 1
+[Line                   20373]: Undefined ID in HEAD: 1
+[Tree number 987 on line 20355]: Non-tree structure. Words 1,4,5,6,7,8 are not reachable from the root 0.
+[Line                   20620]: Spurious empty line.
+[Tree number 1025 on line 21112]: HEAD == ID for 1
+[Tree number 1025 on line 21112]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
+[Tree number 1056 on line 21812]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,14,15,24,25,26,27,28,29.
+[Line                   21841]: Loop from 14
+[Line                   21841]: Loop from 15
+[Tree number 1056 on line 21812]: Non-tree structure. Words 22,23 are not reachable from the root 0.
+[Tree number 1109 on line 22743]: HEAD == ID for 1
+[Tree number 1109 on line 22743]: Non-tree structure. Words 1,2 are not reachable from the root 0.
+[Tree number 1135 on line 23347]: HEAD == ID for 1
+[Tree number 1135 on line 23347]: Non-tree structure. Words 1,2 are not reachable from the root 0.
+[Tree number 1280 on line 26371]: Non-tree structure. Words 22,23,24 are not reachable from the root 0.
+[Tree number 1934 on line 40027]: HEAD == ID for 17
+[Tree number 1934 on line 40027]: Non-tree structure. Words 17,18 are not reachable from the root 0.
+[Tree number 2369 on line 49074]: HEAD == ID for 2
+[Tree number 2369 on line 49074]: Non-tree structure. Words 2,3 are not reachable from the root 0.
+[Tree number 2420 on line 50149]: HEAD == ID for 13
+[Tree number 2420 on line 50149]: Non-tree structure. Words 12,13,14 are not reachable from the root 0.
+[Tree number 2788 on line 57774]: HEAD == ID for 10
+[Tree number 2788 on line 57774]: Non-tree structure. Words 10,11 are not reachable from the root 0.
+[Tree number 2791 on line 57824]: HEAD == ID for 3
+[Tree number 2791 on line 57824]: Non-tree structure. Words 3,4 are not reachable from the root 0.
+[Tree number 2992 on line 62076]: HEAD == ID for 3
+[Tree number 2992 on line 62076]: HEAD == ID for 11
+[Tree number 2992 on line 62076]: Non-tree structure. Words 3,4,11,12 are not reachable from the root 0.
+[Tree number 3012 on line 62426]: Non-tree structure. Words 3,4,5,6 are not reachable from the root 0.
+[Tree number 3171 on line 65797]: Non-tree structure. Words 8,9 are not reachable from the root 0.
+[Tree number 3234 on line 66965]: HEAD == ID for 4
+[Tree number 3234 on line 66965]: Non-tree structure. Words 4,5 are not reachable from the root 0.
+[Tree number 3403 on line 70573]: Words do not form a sequence. Got: 1,2,3,4,5,6,1,2,9,10,11,12,13.
+[Line                   70586]: Undefined ID in HEAD: 7
 ...suppressing further errors regarding Format
-[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 39, 40, 46, 53, 73]
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-[Line                   104420]: Loop from 4
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-[Line                   104420]: Loop from 4
-[Line                   104420]: Loop from 5
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
+[Line                   70586]: Loop from 2
+[Tree number 3403 on line 70573]: Non-tree structure. Words 5,6,7,8 are not reachable from the root 0.
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 7492 errors
-Format errors: 5055
-Syntax errors: 2437
+*** FAILED *** with 60 errors
+Format errors: 32
+Syntax errors: 28
 
 
 ******************
