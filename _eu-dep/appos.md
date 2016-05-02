@@ -27,7 +27,10 @@ punct(hil-3, .-9)
 *Azkenengo asanbladan, martxoaren 10ean **eginikoa**, adierazi zuten .*
 
 *They explained it in the last assembly, in **the one made** in the 10th march .*
- 
+
+~~~ sdparse
+Azkenengo asanbladan, martxoaren 10ean eginikoa, adierazi zuten . \n They explained it in the last assembly, in the one made in the 10th march .
+
 amod(asanbladan-2, Azkenengo-1)
 nmod(adierazi-6, asanbladan-2)
 nmod(10ean-4, martxoaren-3)
@@ -60,7 +63,6 @@ amod(iharduera-11, ekonomiko-12)
 amod(iharduera-11, nagusiak-13)
 punct(iharduera-11, .-14)
 ~~~
-
 
 
 *Francesco Casagrandre italiarrak Nazioarteko Txirrindularitza Elkarteko **(UCI)** lehen postuan jarraitzen du .*
