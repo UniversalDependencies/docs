@@ -144,8 +144,8 @@
 
 -
   name: Maximum one direct object
-  expr: "_ >dobj|>ccomp|>xcomp _ >dobj|>ccomp|>xcomp _"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> No predicate can have more than one direct object. Ccomp and xcomp count as direct objects.
+  expr: "_ >dobj|>ccomp _ >dobj|>ccomp _"
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> No predicate can have more than one direct object. Ccomp counts as direct object. (To certain extent xcomp does too, but dobj can co-occur with xcomp in cases of secondary predication, thus this test does not look at xcomp.)
   link: http://universaldependencies.org/u/dep/dobj.html
 
 -
