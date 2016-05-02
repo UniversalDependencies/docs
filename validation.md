@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-02T21:19:15Z">2016-05-02T21:19:15 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-02T21:36:07Z">2016-05-02T21:36:07 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1546,163 +1546,53 @@ Syntax errors: 28
 <span class="doublewidespan" style="padding-left:3em">UD Russian-Syntagrus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T21:17:14Z">2016-05-02T21:17:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T21:34:04Z">2016-05-02T21:34:04 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-dev.conllu
 
-[Line                   65]: Unknown attribute-value pair Variant=Brev
-[Line                   76]: Unknown attribute-value pair Variant=Brev
-[Line                   91]: Unknown attribute-value pair Variant=Brev
-[Line                   431]: Unknown attribute-value pair Variant=Brev
-[Line                   484]: Unknown UD DEPREL: nmod:agent
-[Line                   521]: Unknown attribute-value pair Variant=Brev
-[Line                   578]: Unknown attribute-value pair Variant=Brev
-[Line                   589]: Unknown attribute-value pair Variant=Brev
-[Line                   611]: Unknown attribute-value pair Variant=Brev
-[Line                   639]: Unknown attribute-value pair Variant=Brev
-[Line                   651]: Unknown attribute-value pair Variant=Brev
-[Line                   653]: Unknown attribute-value pair Variant=Brev
-[Line                   715]: Unknown attribute-value pair Variant=Brev
-[Line                   846]: Unknown attribute-value pair Variant=Brev
-[Line                   903]: Unknown attribute-value pair Variant=Brev
-[Line                   1009]: Unknown attribute-value pair Variant=Brev
-[Line                   1068]: Unknown attribute-value pair Variant=Brev
-[Line                   1069]: Unknown UD DEPREL: nmod:agent
-[Line                   1160]: Unknown attribute-value pair Variant=Brev
-[Line                   1376]: Unknown UD DEPREL: nmod:agent
-[Line                   1385]: Unknown attribute-value pair Variant=Brev
-[Line                   1444]: Unknown attribute-value pair Variant=Brev
-[Line                   1500]: Unknown UD DEPREL: nmod:agent
-[Line                   1799]: Unknown UD DEPREL: nmod:agent
-...suppressing further errors regarding Morpho
-[Line                   2216]: Unknown UD DEPREL: nmod:agent
-[Line                   2715]: Unknown UD DEPREL: nmod:agent
-[Line                   2919]: Unknown UD DEPREL: nmod:agent
-[Line                   2947]: Unknown UD DEPREL: nmod:agent
-[Line                   2960]: Unknown UD DEPREL: nmod:agent
-[Line                   3001]: Unknown UD DEPREL: nmod:agent
-[Line                   3023]: Unknown UD DEPREL: nmod:agent
-[Line                   3038]: Unknown UD DEPREL: nmod:agent
-[Line                   3570]: Unknown UD DEPREL: nmod:agent
-[Line                   3731]: Unknown UD DEPREL: nmod:agent
-[Line                   3827]: Unknown UD DEPREL: nummod:gov
-[Line                   3950]: Unknown UD DEPREL: nmod:agent
-[Line                   4554]: Unknown UD DEPREL: nmod:agent
-[Line                   5322]: Unknown UD DEPREL: nmod:agent
-...suppressing further errors regarding Syntax
+[Line                   11697]: Spurious morphological feature: 'НЕПРАВ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   11697]: Repeated features are disallowed: НЕПРАВ
+[Line                   24271]: Spurious morphological feature: 'МЕТА'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   24271]: Repeated features are disallowed: МЕТА
 [Line                   26079]: Column FORM is not allowed to contain whitespace: 'не то'
 [Line                   26083]: Column FORM is not allowed to contain whitespace: 'не то'
 [Line                   42284]: Column FORM is not allowed to contain whitespace: 'т. п.'
 [Line                   42924]: Column FORM is not allowed to contain whitespace: 'т. п.'
 [Line                   97584]: Column FORM is not allowed to contain whitespace: 'т. д'
-*** FAILED *** with 1744 errors
+*** FAILED *** with 9 errors
 Format errors: 5
-Morpho errors: 1437
-Syntax errors: 302
+Morpho errors: 4
 
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-test.conllu
 
-[Line                   14]: Unknown UD DEPREL: nummod:gov
-[Line                   182]: Unknown UD DEPREL: nummod:gov
-[Line                   211]: Unknown attribute-value pair Variant=Brev
-[Line                   241]: Unknown attribute-value pair Variant=Brev
-[Line                   244]: Unknown UD DEPREL: nummod:gov
-[Line                   359]: Unknown attribute-value pair Variant=Brev
-[Line                   384]: Unknown attribute-value pair Variant=Brev
-[Line                   453]: Unknown attribute-value pair Variant=Brev
-[Line                   595]: Unknown UD DEPREL: nummod:gov
-[Line                   602]: Unknown UD DEPREL: nummod:gov
-[Line                   637]: Unknown attribute-value pair Variant=Brev
-[Line                   709]: Unknown UD DEPREL: nmod:agent
-[Line                   713]: Unknown attribute-value pair Variant=Brev
-[Line                   760]: Unknown attribute-value pair Variant=Brev
-[Line                   834]: Unknown attribute-value pair Variant=Brev
-[Line                   886]: Unknown attribute-value pair Variant=Brev
-[Line                   888]: Unknown UD DEPREL: nummod:gov
-[Line                   897]: Unknown UD DEPREL: nummod:gov
-[Line                   957]: Unknown attribute-value pair Variant=Brev
-[Line                   985]: Unknown UD DEPREL: nummod:gov
-[Line                   1025]: Unknown attribute-value pair Variant=Brev
-[Line                   1062]: Unknown attribute-value pair Variant=Brev
-[Line                   1073]: Unknown attribute-value pair Variant=Brev
-[Line                   1098]: Unknown attribute-value pair Variant=Brev
-[Line                   1188]: Unknown attribute-value pair Variant=Brev
-[Line                   1202]: Unknown UD DEPREL: nummod:gov
-[Line                   1209]: Unknown UD DEPREL: nummod:gov
-[Line                   1253]: Unknown UD DEPREL: nummod:gov
-[Line                   1284]: Unknown UD DEPREL: nmod:agent
-[Line                   1358]: Unknown attribute-value pair Variant=Brev
-[Line                   1366]: Unknown UD DEPREL: nummod:gov
-[Line                   1370]: Unknown UD DEPREL: nummod:gov
-[Line                   1376]: Unknown UD DEPREL: nummod:gov
-[Line                   1379]: Unknown attribute-value pair Variant=Brev
-[Line                   1395]: Unknown UD DEPREL: nummod:gov
-[Line                   1420]: Unknown attribute-value pair Variant=Brev
-[Line                   1424]: Unknown UD DEPREL: nmod:agent
-[Line                   1543]: Unknown UD DEPREL: nmod:agent
-...suppressing further errors regarding Morpho
-...suppressing further errors regarding Syntax
 [Line                   11352]: Column FORM is not allowed to contain whitespace: '3 000'
 [Line                   12006]: Column FORM is not allowed to contain whitespace: '22 000'
+[Line                   34448]: Unknown UD DEPREL: предл
+[Line                   34448]: Invalid DEPREL value предл
+[Line                   34786]: Unknown UD DEPREL: предл
+[Line                   34786]: Invalid DEPREL value предл
 [Line                   77082]: Column FORM is not allowed to contain whitespace: 'т. п.'
-*** FAILED *** with 1793 errors
+*** FAILED *** with 7 errors
 Format errors: 3
-Morpho errors: 1436
-Syntax errors: 354
+Syntax errors: 4
 
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-train.conllu
 
-[Line                   96]: Unknown attribute-value pair Variant=Brev
-[Line                   483]: Unknown attribute-value pair Variant=Brev
-[Line                   551]: Unknown attribute-value pair Variant=Brev
-[Line                   579]: Unknown attribute-value pair Variant=Brev
-[Line                   588]: Unknown attribute-value pair Variant=Brev
-[Line                   649]: Unknown attribute-value pair Variant=Brev
-[Line                   660]: Unknown attribute-value pair Variant=Brev
-[Line                   717]: Unknown attribute-value pair Variant=Brev
-[Line                   829]: Unknown attribute-value pair Variant=Brev
-[Line                   880]: Unknown attribute-value pair Variant=Brev
-[Line                   913]: Unknown attribute-value pair Variant=Brev
-[Line                   1002]: Unknown attribute-value pair Variant=Brev
-[Line                   1110]: Unknown attribute-value pair Variant=Brev
-[Line                   1273]: Unknown attribute-value pair Variant=Brev
-[Line                   1275]: Unknown attribute-value pair Variant=Brev
-[Line                   1329]: Unknown attribute-value pair Variant=Brev
-[Line                   1364]: Unknown attribute-value pair Variant=Brev
-[Line                   1377]: Unknown attribute-value pair Variant=Brev
-[Line                   1426]: Unknown attribute-value pair Variant=Brev
-...suppressing further errors regarding Morpho
-[Line                   1605]: Unknown UD DEPREL: nummod:entity
-[Line                   3471]: Unknown UD DEPREL: nummod:entity
-[Line                   3472]: Unknown UD DEPREL: nummod:entity
-[Line                   4418]: Unknown UD DEPREL: nmod:agent
-[Line                   4500]: Unknown UD DEPREL: nmod:agent
-[Line                   5711]: Unknown UD DEPREL: nummod:entity
-[Line                   8145]: Unknown UD DEPREL: nmod:agent
-[Line                   8168]: Unknown UD DEPREL: nummod:entity
-[Line                   9274]: Unknown UD DEPREL: nmod:agent
-[Line                   9308]: Unknown UD DEPREL: nmod:agent
-[Line                   9499]: Unknown UD DEPREL: nmod:agent
-[Line                   9526]: Unknown UD DEPREL: nmod:agent
-[Line                   9580]: Unknown UD DEPREL: nmod:agent
-[Line                   9816]: Unknown UD DEPREL: nummod:entity
-[Line                   9949]: Unknown UD DEPREL: nummod:entity
-[Line                   9979]: Unknown UD DEPREL: nummod:entity
-[Line                   10094]: Unknown UD DEPREL: nmod:agent
-[Line                   11510]: Unknown UD DEPREL: nmod:agent
 [Line                   11551]: Column FORM is not allowed to contain whitespace: ' '
-[Line                   11678]: Unknown UD DEPREL: nmod:agent
-...suppressing further errors regarding Syntax
 [Line                   26296]: Column FORM is not allowed to contain whitespace: 'что -то'
+[Line                   27070]: Unknown UD DEPREL: сравнит
+[Line                   27070]: Invalid DEPREL value сравнит
 [Line                   29944]: Column FORM is not allowed to contain whitespace: 'по -английски'
+[Line                   30774]: Unknown UD DEPREL: сравнит
+[Line                   30774]: Invalid DEPREL value сравнит
 [Line                   35863]: Column FORM is not allowed to contain whitespace: ' '
 [Line                   36118]: Column FORM is not allowed to contain whitespace: ' '
 [Line                   36172]: Column FORM is not allowed to contain whitespace: ' '
@@ -1720,10 +1610,31 @@ python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagru
 [Line                   90227]: Column FORM is not allowed to contain whitespace: 'т. д.'
 [Line                   97591]: Column FORM is not allowed to contain whitespace: '20 000'
 ...suppressing further errors regarding Format
-*** FAILED *** with 13591 errors
+[Line                   195774]: Spurious morphological feature: 'МЕТА'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   195774]: Repeated features are disallowed: МЕТА
+[Line                   431156]: Unknown UD DEPREL: предл
+[Line                   431156]: Invalid DEPREL value предл
+[Line                   451799]: Unknown UD DEPREL: предл
+[Line                   451799]: Invalid DEPREL value предл
+[Line                   482688]: Spurious morphological feature: 'S'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   482688]: Repeated features are disallowed: S
+[Line                   482688]: Unknown UPOS tag: NID
+[Line                   484461]: Unknown UD DEPREL: предл
+[Line                   484461]: Invalid DEPREL value предл
+[Line                   514776]: Spurious morphological feature: 'МЕТА'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   514776]: Repeated features are disallowed: МЕТА
+[Line                   572451]: Spurious morphological feature: 'НЕСТАНД'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   572451]: Repeated features are disallowed: НЕСТАНД
+[Line                   738110]: Unknown UD DEPREL: дат-сент
+[Line                   738110]: Invalid DEPREL value дат-сент
+[Line                   739239]: Unknown UD DEPREL: дат-сент
+[Line                   739239]: Invalid DEPREL value дат-сент
+[Line                   855512]: Unknown UD DEPREL: предл
+[Line                   855512]: Invalid DEPREL value предл
+*** FAILED *** with 121 errors
 Format errors: 96
-Morpho errors: 10983
-Syntax errors: 2512
+Morpho errors: 9
+Syntax errors: 16
 
 
 ******************
