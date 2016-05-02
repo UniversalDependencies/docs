@@ -7,7 +7,7 @@ title:  'UD release checklist'
 
 This checklist describes the steps needed in order to release a new version of the UD data.
 It is meant for the maintenance task force rather than individual treebank teams.
-See [here](release_checklist) for the checklist for data contributors.
+See [here](release_checklist.html) for the checklist for data contributors.
 
 * Make sure that you have local clones of all UD_* repositories that should be released.
   This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
