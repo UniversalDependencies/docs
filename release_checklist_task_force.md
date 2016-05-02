@@ -50,7 +50,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   WARNING! Many subfolders of the gh-pages branch contain generated files AUX.html and aux.html (besides AUX_.html and aux_.html).
   These should _not_ be included in the package because that might prevent people from unpacking it in MS Windows
   (although some unpacking programs, like 7zip, will be able to overcome this by simply renaming the file to _aux.html before unpacking it).
-* Once the Lindat staff make the new license list available in their system, we can create a new Lindat item for the new version of UD.
+* Once the Lindat staff make the new license list available in their system, we can [create a new Lindat item](https://lindat.mff.cuni.cz/repository/xmlui/submit) for the new version of UD.
   Note that the Lindat staff may help to automate other tasks as well.
   For example, we have an extraordinarily long list of authors. Instead of typing them on the Lindat website one-by-one, they can batch-upload the list we send them.
   Once everything is ready and we submit the item, they will review it and assign the persistent URL (handle.net) to the item;
