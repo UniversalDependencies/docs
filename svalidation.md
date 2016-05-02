@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-05-02T08:42:49Z">2016-05-02T08:42:49 zulu</time>
+Regenerated <time class="timeago" datetime="2016-05-02T08:45:38Z">2016-05-02T08:45:38 zulu</time>
 
 # Aux chain
 
@@ -35482,9 +35482,6 @@ Search expression: `_ >xcomp _`
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Excomp+_&db=UD_Ukrainian-dev">Go to search</a><p/>
 </div>
-</div>
-
-
 </div>
 
 
