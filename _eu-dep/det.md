@@ -100,4 +100,4 @@ nmod(dute-4, gurekin-5)
 punct(dute-4, .-6)
 ~~~
 
-Possessive determiners, are not tagged with det but with nmod (see nmod section).  
+* Possessive determiners, are not tagged with det but with nmod (see nmod section).  
