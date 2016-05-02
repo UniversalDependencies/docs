@@ -156,13 +156,6 @@ def main(tests,test_cache,languages):
     """tests is the stuff you get from yaml
     test_cache is the test result dictionary"""
     
-    print >> out8, u"---"
-    print >> out8, u"layout: base"
-    print >> out8, u"title:  'Universal Dependencies --- Syntactic validation'"
-    print >> out8, u"---"
-    print >> out8
-    print >> out8, u'Regenerated <time class="timeago" datetime="%(zulu)sZ">%(zulu)s zulu</time>'%{'zulu':datetime.datetime.utcnow().replace(microsecond=0).isoformat()}
-    print >> out8
 
     for t in tests:
         #Make sure you have this test for every language
@@ -239,6 +232,16 @@ if __name__=="__main__":
     parser.add_argument('--tests', default=os.path.join(THISDIR,"stests.yaml"),help='Yaml file with the tests')
     args = parser.parse_args()
 
+    out8=codecs.getwriter("utf-8")(sys.stdout)
+    print >> out8, u"---"
+    print >> out8, u"layout: base"
+    print >> out8, u"title:  'Universal Dependencies --- Syntactic validation'"
+    print >> out8, u"---"
+    print >> out8
+    print >> out8, u'Regenerated <time class="timeago" datetime="%(zulu)sZ">%(zulu)s zulu</time>'%{'zulu':datetime.datetime.utcnow().replace(microsecond=0).isoformat()}
+    print >> out8
+
+
     try:
         languages=sorted(map(os.path.basename,glob.glob(os.path.join(args.ud_data,'UD_*'))))
         test_cache=load_test_cache(args.test_cache)
@@ -253,7 +256,7 @@ if __name__=="__main__":
                     del lang_results[lw]
         with codecs.open(args.tests,"r","utf-8") as t:
             tests=yaml.load(t)
-        out8=codecs.getwriter("utf-8")(sys.stdout)
+            
         main(tests,test_cache,languages)
         save_test_cache(test_cache,args.test_cache)
     except:
