@@ -45,7 +45,7 @@ punct(adierazi-8, .-10)
 *Agriculture and stockbreeding **(milk, meat and pork)** are the main autochthonous economic activities .* 
 
 ~~~ sdparse
-Nekazaritza eta abeltzaintza (esnea, haragia eta txerriak) dira bertako iharduera ekonomiko nagusiak .   n\  Agriculture and stockbreeding (milk, meat and pork) are autochthonous activities economic main_the .
+Nekazaritza eta abeltzaintza (esnea, haragia eta txerriak) dira bertako iharduera ekonomiko nagusiak . n\ Agriculture and stockbreeding (milk, meat and pork) are autochthonous activities economic main_the .
 
 nsubj(iharduera-13, Nekazaritza)
 cc(Nekazaritza-1, eta-2)
