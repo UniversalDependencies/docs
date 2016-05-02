@@ -9,7 +9,7 @@ An adverbial clause modifier is a clause which modifies a verb or other predicat
 
 ~~~ sdparse
 Ta jooksis karjudes .
-nsubj(jooksis-2, ta-1)
+nsubj(jooksis-2, Ta-1)
 advcl(jooksis-2, karjudes-3)
 punct(jooksis-2, .-4)
 ~~~
@@ -17,8 +17,8 @@ punct(jooksis-2, .-4)
 He ran shouting.
 
 ~~~ sdparse
-Mulle pakuti süüa, kui õhtul koolist saabusin .
-nmod(pakuti-2, mulle-1)
+Mulle pakuti süüa , kui õhtul koolist saabusin .
+nmod(pakuti-2, Mulle-1)
 xcomp(pakuti-2, süüa-3)
 punct(saabusin-8,-4)
 sconj(saabusin-8, kui-5)

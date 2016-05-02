@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-02T05:19:41Z">2016-05-02T05:19:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-02T09:01:57Z">2016-05-02T09:01:57 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -332,25 +332,25 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T19:54:45Z">2016-04-29T19:54:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:55:32Z">2016-05-02T08:55:32 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
 *** PASSED ***
 
@@ -364,25 +364,25 @@ python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-tr
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T10:25:31Z">2016-04-28T10:25:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:56:42Z">2016-05-02T08:56:42 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
 *** PASSED ***
 
@@ -457,6 +457,38 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
+<span class="widespan">nl lassysmall</span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:56:47Z">2016-05-02T08:56:47 zulu</time></span>
+</div>
+<div>
+<pre>
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationpass">PASS</span>
@@ -492,25 +524,25 @@ python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T02:56:42Z">2016-05-01T02:56:42 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:56:57Z">2016-05-02T08:56:57 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ESL/en_esl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ESL/en_esl-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ESL/en_esl-ud-train.conllu
 
 *** PASSED ***
 
@@ -524,25 +556,25 @@ python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T19:58:10Z">2016-04-30T19:58:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:57:03Z">2016-05-02T08:57:03 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
 
 *** PASSED ***
 
@@ -556,25 +588,25 @@ python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lin
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T16:21:27Z">2016-04-30T16:21:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:57:09Z">2016-05-02T08:57:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
 *** PASSED ***
 
@@ -588,7 +620,7 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:41:27Z">2016-04-13T23:41:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:43:10Z">2016-05-02T08:43:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -620,25 +652,25 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T08:49:16Z">2016-04-30T08:49:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:57:35Z">2016-05-02T08:57:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
 *** PASSED ***
 
@@ -684,25 +716,25 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T10:16:25Z">2016-04-28T10:16:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:57:55Z">2016-05-02T08:57:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician/gl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician/gl-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician/gl-ud-train.conllu
 
 *** PASSED ***
 
@@ -972,25 +1004,25 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T15:41:09Z">2016-04-30T15:41:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:58:04Z">2016-05-02T08:58:04 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
 
 *** PASSED ***
 
@@ -1036,25 +1068,25 @@ python tools/validate.py --lang ja_ktc UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T05:19:40Z">2016-05-02T05:19:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:58:34Z">2016-05-02T08:58:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
 
 *** PASSED ***
 
@@ -1143,25 +1175,25 @@ python tools/validate.py --lang la_itt UD-dev-branches/UD_Latin-ITT/la_itt-ud-tr
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T21:25:52Z">2016-04-28T21:25:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:58:34Z">2016-05-02T08:58:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
 
 *** PASSED ***
 
@@ -1207,25 +1239,25 @@ python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_pro
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T22:11:17Z">2016-04-29T22:11:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:59:08Z">2016-05-02T08:59:08 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 
 *** PASSED ***
 
@@ -1335,25 +1367,25 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-21T13:07:34Z">2016-04-21T13:07:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:59:10Z">2016-05-02T08:59:10 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-train.conllu
 
 *** PASSED ***
 
@@ -1463,174 +1495,78 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T00:25:21Z">2016-05-02T00:25:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:45:18Z">2016-05-02T08:45:18 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-dev.conllu
-
-[Line                   13]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   60]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   91]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   102]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   115]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   133]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   146]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   217]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   228]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   239]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   245]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   258]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   268]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   278]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   287]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   308]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   317]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   340]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-...suppressing further errors regarding Format
-[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 27, 28, 30, 33, 36, 39, 40]
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-[Line                   10545]: Loop from 4
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-[Line                   10545]: Loop from 4
-[Line                   10545]: Loop from 5
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1479 errors
-Format errors: 503
-Syntax errors: 976
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-test.conllu
-
-[Line                   16]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   48]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   65]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   80]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   95]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   112]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   141]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   157]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   182]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   225]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   247]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   257]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   270]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   343]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   351]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   393]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   404]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   419]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-...suppressing further errors regarding Format
-[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24, 25, 27, 29, 30, 46]
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-[Line                   10071]: Loop from 4
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-[Line                   10071]: Loop from 4
-[Line                   10071]: Loop from 5
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1500 errors
-Format errors: 500
-Syntax errors: 1000
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-train.conllu
-
-[Line                   16]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   48]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   65]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   80]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   95]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   112]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   141]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   157]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   182]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   225]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   247]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   257]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   270]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   343]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   351]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   393]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   404]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   419]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-...suppressing further errors regarding Format
-[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 39, 40, 46, 53, 73]
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-[Line                   104420]: Loop from 4
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-[Line                   104420]: Loop from 4
-[Line                   104420]: Loop from 5
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-...suppressing further errors regarding Syntax
-*** FAILED *** with 7492 errors
-Format errors: 5055
-Syntax errors: 2437
+[Tree number 488 on line 10282]: Words do not form a sequence. Got: 2,3,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18.
+[Line                   10300]: Undefined ID in HEAD: 1
+[Line                   10300]: Undefined ID in HEAD: 1
+[Tree number 488 on line 10282]: Non-tree structure. Words 1,4,5,6,7,8 are not reachable from the root 0.
+[Line                   10545]: Missing empty line after the last tree.
+*** FAILED *** with 5 errors
+Format errors: 4
+Syntax errors: 1
 
 
 ******************
 
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 
-*** PASSED ***
+[Line                   10071]: Missing empty line after the last tree.
+*** FAILED *** with 1 errors
+Format errors: 1
 
 
 ******************
 
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
-*** PASSED ***
+[Line                   10073]: Spurious empty line.
+[Tree number 987 on line 20355]: Words do not form a sequence. Got: 2,3,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18.
+[Line                   20373]: Undefined ID in HEAD: 1
+[Line                   20373]: Undefined ID in HEAD: 1
+[Tree number 987 on line 20355]: Non-tree structure. Words 1,4,5,6,7,8 are not reachable from the root 0.
+[Line                   20620]: Spurious empty line.
+[Tree number 1025 on line 21112]: HEAD == ID for 1
+[Tree number 1025 on line 21112]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
+[Tree number 1056 on line 21812]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,14,15,24,25,26,27,28,29.
+[Line                   21841]: Loop from 14
+[Line                   21841]: Loop from 15
+[Tree number 1056 on line 21812]: Non-tree structure. Words 22,23 are not reachable from the root 0.
+[Tree number 1109 on line 22743]: HEAD == ID for 1
+[Tree number 1109 on line 22743]: Non-tree structure. Words 1,2 are not reachable from the root 0.
+[Tree number 1135 on line 23347]: HEAD == ID for 1
+[Tree number 1135 on line 23347]: Non-tree structure. Words 1,2 are not reachable from the root 0.
+[Tree number 1280 on line 26371]: Non-tree structure. Words 22,23,24 are not reachable from the root 0.
+[Tree number 1934 on line 40027]: HEAD == ID for 17
+[Tree number 1934 on line 40027]: Non-tree structure. Words 17,18 are not reachable from the root 0.
+[Tree number 2369 on line 49074]: HEAD == ID for 2
+[Tree number 2369 on line 49074]: Non-tree structure. Words 2,3 are not reachable from the root 0.
+[Tree number 2420 on line 50149]: HEAD == ID for 13
+[Tree number 2420 on line 50149]: Non-tree structure. Words 12,13,14 are not reachable from the root 0.
+[Tree number 2788 on line 57774]: HEAD == ID for 10
+[Tree number 2788 on line 57774]: Non-tree structure. Words 10,11 are not reachable from the root 0.
+[Tree number 2791 on line 57824]: HEAD == ID for 3
+[Tree number 2791 on line 57824]: Non-tree structure. Words 3,4 are not reachable from the root 0.
+[Tree number 2992 on line 62076]: HEAD == ID for 3
+[Tree number 2992 on line 62076]: HEAD == ID for 11
+[Tree number 2992 on line 62076]: Non-tree structure. Words 3,4,11,12 are not reachable from the root 0.
+[Tree number 3012 on line 62426]: Non-tree structure. Words 3,4,5,6 are not reachable from the root 0.
+[Tree number 3171 on line 65797]: Non-tree structure. Words 8,9 are not reachable from the root 0.
+[Tree number 3234 on line 66965]: HEAD == ID for 4
+[Tree number 3234 on line 66965]: Non-tree structure. Words 4,5 are not reachable from the root 0.
+[Tree number 3403 on line 70573]: Words do not form a sequence. Got: 1,2,3,4,5,6,1,2,9,10,11,12,13.
+[Line                   70586]: Undefined ID in HEAD: 7
+...suppressing further errors regarding Format
+[Line                   70586]: Loop from 2
+[Tree number 3403 on line 70573]: Non-tree structure. Words 5,6,7,8 are not reachable from the root 0.
+...suppressing further errors regarding Syntax
+*** FAILED *** with 60 errors
+Format errors: 32
+Syntax errors: 28
 
 
 ******************
@@ -1642,11 +1578,11 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Russian-Syntagrus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T21:11:48Z">2016-05-01T21:11:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:59:22Z">2016-05-02T08:59:22 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-dev.conllu
 
 [Line                   3]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   3]: Repeated features are disallowed: ADP
@@ -1716,7 +1652,7 @@ Syntax errors: 18461
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-test.conllu
 
 [Line                   1]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   1]: Repeated features are disallowed: ADP
@@ -1786,7 +1722,7 @@ Syntax errors: 17868
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-train.conllu
 
 [Line                   1]: Unknown UD DEPREL: ROOT
 [Line                   1]: Invalid DEPREL value ROOT
@@ -1895,25 +1831,25 @@ python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T20:56:38Z">2016-04-26T20:56:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T09:01:29Z">2016-05-02T09:01:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
 *** PASSED ***
 
@@ -1990,30 +1926,28 @@ python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_a
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T19:15:24Z">2016-04-28T19:15:24 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T09:01:33Z">2016-05-02T09:01:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 
-[Tree number 4054 on line 64671]: Non-tree structure. Words 9,10,11,12,13,14,15,16,17,18,19,20,21 are not reachable from the root 0.
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
@@ -2025,25 +1959,25 @@ Syntax errors: 1
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T15:13:33Z">2016-04-29T15:13:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T09:01:44Z">2016-05-02T09:01:44 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
 
 *** PASSED ***
 
@@ -2089,25 +2023,25 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T19:35:58Z">2016-05-01T19:35:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T09:01:49Z">2016-05-02T09:01:49 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 
 *** PASSED ***
 
