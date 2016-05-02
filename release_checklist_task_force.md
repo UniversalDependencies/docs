@@ -11,12 +11,12 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 * Make sure that you have local clones of all UD_* repositories that should be released.
   This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
-* Make sure you have the most current content of all the repositories: `for i in UD_* ; do pushd $i ; git pull --no-edit ; popd ; done`.
+* Make sure you have the most current content of all the repositories: `for i in UD_* ; do pushd $i ; git pull --no-edit ; popd ; echo ; done`
 * NEW in UD 1.3: some languages have the new data in `dev` branch. After this release, all languages will have to use the `dev` branch.
   So we should create the branch in repositories that do not have it.
-  `for i in UD_* ; do pushd $i ; git pull --no-edit ; git checkout -b dev ; git checkout dev ; git push --set-upstream origin dev ; popd ; done`
+  `for i in UD_* ; do pushd $i ; git pull --no-edit ; git checkout -b dev ; git checkout dev ; git push --set-upstream origin dev ; popd ; echo ; done`
 * For all repositories we should make sure that the `dev` branch is checked out:
-  `for i in UD_* ; do pushd $i ; git checkout dev ; git pull --no-edit ; popd ; done`
+  `for i in UD_* ; do pushd $i ; git checkout dev ; git pull --no-edit ; popd ; echo ; done`
 * Make sure that all CoNLL-U files are formally valid (results of the validator are [available on-line](validation.html) but make sure that no repository is missing there).
 * Run `tools/check_files.pl` (if there are new languages, you may need to add their codes in the source code first).
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
