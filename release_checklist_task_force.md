@@ -22,7 +22,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
-  Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license).
+  Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
+  they can be reached at lindat-help@ufal.mff.cuni.cz).
 * Run `cat *.conllu | ../tools/conllu-stats.pl > stats.xml` in every UD_* repository to update the `stats.xml` statistics.
   Do not forget to `git commit` and `push`.
 * Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:
