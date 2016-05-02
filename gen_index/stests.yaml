@@ -151,7 +151,7 @@
 -
   name: Case not dependent on nmod
   expr: "_ <case (_ (<!nmod&<!nmod:agent&<!conj) _)"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as having a case dependency, its head should (usually) be marked as being a nominal modifier. (But note that in some languages case can modify also objects and other nominals.)
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as having a case dependency, its head should usually be marked as being a nominal modifier. But note that several legitimate exceptions occur, in particular, through coordination (where the head is labeled conj instead of nmod) and in nominal clauses (where the head is the main predicate of a clause). Also, in some languages case can modify also objects and other nominals.
   link: http://universaldependencies.org/u/dep/case.html
 
 -
@@ -167,7 +167,7 @@
   expr: "_ <appos (_ <appos _)"
   pos_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(Sam, cousin)"
   neg_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(brother, cousin)"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Apposition dependencies should not be chained. Either all depend on the first one, or there is coordination of dependents.
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Apposition dependencies should not be chained. Multiple appositions should all be attached to the head, or they should be coordinated (with the first apposition as the head). Legitimate exceptions do occur, however, in the rare case when an apposition has an apposition of its own, which does not apply to head of the first apposition. 
   link: http://universaldependencies.org/u/dep/appos.html
 
 -
@@ -179,7 +179,7 @@
 -
   name: Heads of an advmod are nominal
   expr: _ <advmod (NOUN|PROPN|NUM|PRON)
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The heads of an adverbial modifier should not be nominal (noun, proper noun, numeral, or pronoun)
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The heads of an adverbial modifier should normally not be nominal (noun, proper noun, numeral, or pronoun). Exceptions occur in nominal clauses, where a nominal is the main predicate and can therefore take clause adverbials. Example: "This is probably an exception." 
   link: http://universaldependencies.org/docs/u/dep/advmod.html
 
 #Note: in the following test expr is between double quotes because ! has a special meaning in yaml
@@ -196,7 +196,7 @@
   name: Marked as NUM but not nummod, nmod or compound
   expr: "NUM (<!nummod&<!nmod&<!compound) _"
   expr-pos: "_ (<!nummod&<!nmod&<!compound) _"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as a numeral (POS), then it should be marked as being a nummod, compound or nmod dependency.
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as a numeral (POS), then it should be marked as being a nummod, compound or nmod dependency. Exceptions occur when the numeral is promoted to a higher function through ellipis. Example: "Take five!"
   link: http://universaldependencies.org/docs/u/pos/NUM.html
 
 -
