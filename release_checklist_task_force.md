@@ -14,6 +14,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Make sure you have the most current content of all the repositories: `for i in UD_* ; do pushd $i ; git pull --no-edit ; popd ; done`.
 * NEW in UD 1.3: some languages have the new data in `dev` branch. After this release, all languages will have to use the `dev` branch.
   So we should create the branch in repositories that do not have it.
+  `for i in UD_* ; do pushd $i ; git pull --no-edit ; git checkout -b dev ; git checkout dev ; git push --set-upstream origin dev ; popd ; done`
   For all repositories we should make sure that the `dev` branch is checked out.
 * Make sure that all CoNLL-U files are formally valid (results of the validator are available on-line but make sure that no repository is missing there).
 * Run `check_files.pl` from the tools repository (if there are new languages, you may need to add their codes in the source code first).
