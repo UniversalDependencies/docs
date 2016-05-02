@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-02T07:37:50Z">2016-05-02T07:37:50 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-02T08:24:40Z">2016-05-02T08:24:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -447,6 +447,38 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 ******************
 
 python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
+<span class="widespan">nl lassysmall</span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:24:20Z">2016-05-02T08:24:20 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
 
 *** PASSED ***
 
@@ -1991,7 +2023,7 @@ python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_a
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T07:37:38Z">2016-05-02T07:37:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T08:24:29Z">2016-05-02T08:24:29 zulu</time></span>
 </div>
 <div>
 <pre>
