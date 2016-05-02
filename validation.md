@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-02T11:04:23Z">2016-05-02T11:04:23 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-02T11:09:21Z">2016-05-02T11:09:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -12,7 +12,7 @@ Regenerated: <time class="timeago" datetime="2016-05-02T11:04:23Z">2016-05-02T11
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T10:02:02Z">2016-05-02T10:02:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T11:09:21Z">2016-05-02T11:09:21 zulu</time></span>
 </div>
 <div>
 <pre>
