@@ -21,3 +21,18 @@ neg(dago-4, ez-3)
 advmod(dago-4, bakarrik-5)
 punct(dago-4, .-6)
 ~~~
+
+
+***Han** ez zen ezer mugitzen .*
+
+*Nothing was moved **there** .*
+
+~~~ sdparse
+Han ez zen ezer mugitzen . \n There was nothing moved . 
+
+advmod(mugitzen-5, Han-1)
+neg(mugitzen-5, ez-2)
+aux(mugitzen-5, zen-3)
+nsubj(mugitzen-5, ezer-4)
+punct(mugitzen-5, .-6)
+~~~
