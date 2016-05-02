@@ -26,17 +26,15 @@ punct(hil-3, .-9)
 
 *Azkenengo asanbladan, martxoaren 10ean **eginikoa**, adierazi zuten .*
 
-*They explained it in the last assembly, in **the one made** in the 10th march . *
+*They explained it in the last assembly, in **the one made** in the 10th march .*
  
 amod(asanbladan-2, Azkenengo-1)
-punct(asanbladan-2, ,-3)
-nmod(adierazi-8, asanbladan-2)
-nmod(10ean-5, martxoaren-4)
-nmod(eginikoa-6, 10ean-5)
-appos(asanbladan-2, eginikoa-6)
-punct(asanbladan-2, ,-7)
-aux(adierazi-8, zuten-9) 
-punct(adierazi-8, .-10)
+nmod(adierazi-6, asanbladan-2)
+nmod(10ean-4, martxoaren-3)
+nmod(eginikoa-5, 10ean-4)
+appos(asanbladan-2, eginikoa-5)
+aux(adierazi-6, zuten-7) 
+punct(adierazi-6, .-8)
 ~~~
 	
 
