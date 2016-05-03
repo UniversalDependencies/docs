@@ -257,9 +257,14 @@
     "lang_code": "nl_lassysmall", 
     "contributors": [
       {
-        "full": "Gosse, van Noord, Gertjan Bouma", 
+        "full": "Gosse Bouma", 
         "last": "Bouma", 
-        "first": "Gosse, van Noord, Gertjan"
+        "first": "Gosse"
+      }, 
+      {
+        "full": "Gertjan van Noord", 
+        "last": "van Noord", 
+        "first": "Gertjan"
       }
     ], 
     "lang_name": "Dutch-LassySmall"
@@ -447,7 +452,33 @@
   }, 
   {
     "lang_code": "fr", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Marie-Catherine de Marneffe", 
+        "last": "de Marneffe", 
+        "first": "Marie-Catherine"
+      }, 
+      {
+        "full": "Bruno Guillaume", 
+        "last": "Guillaume", 
+        "first": "Bruno"
+      }, 
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Alane Suhr", 
+        "last": "Suhr", 
+        "first": "Alane"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }
+    ], 
     "lang_name": "French"
   }, 
   {
@@ -917,9 +948,19 @@
     "lang_code": "ru", 
     "contributors": [
       {
-        "full": "Various at Google", 
-        "last": "Various at Google", 
-        "first": "?"
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Vitaly Nikolaev", 
+        "last": "Nikolaev", 
+        "first": "Vitaly"
+      }, 
+      {
+        "full": "Olga Lyashevskaya", 
+        "last": "Lyashevskaya", 
+        "first": "Olga"
       }
     ], 
     "lang_name": "Russian"
@@ -963,7 +1004,18 @@
   }, 
   {
     "lang_code": "sl_sst", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Kaja Dobrovoljc", 
+        "last": "Dobrovoljc", 
+        "first": "Kaja"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }
+    ], 
     "lang_name": "Slovenian-SST"
   }, 
   {
