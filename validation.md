@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-03T22:20:57Z">2016-05-03T22:20:57 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-03T23:44:05Z">2016-05-03T23:44:05 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1463,78 +1463,33 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T14:01:02Z">2016-05-02T14:01:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-03T23:43:53Z">2016-05-03T23:43:53 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
-[Tree number 488 on line 10282]: Words do not form a sequence. Got: 2,3,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18.
-[Line                   10300]: Undefined ID in HEAD: 1
-[Line                   10300]: Undefined ID in HEAD: 1
-[Tree number 488 on line 10282]: Non-tree structure. Words 1,4,5,6,7,8 are not reachable from the root 0.
-[Line                   10545]: Missing empty line after the last tree.
-*** FAILED *** with 5 errors
-Format errors: 4
-Syntax errors: 1
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
-
-[Line                   10071]: Missing empty line after the last tree.
+[Line                   7982]: The line has 13 columns, but 10 are expected.
 *** FAILED *** with 1 errors
 Format errors: 1
 
 
 ******************
 
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
-[Line                   10073]: Spurious empty line.
-[Tree number 987 on line 20355]: Words do not form a sequence. Got: 2,3,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18.
-[Line                   20373]: Undefined ID in HEAD: 1
-[Line                   20373]: Undefined ID in HEAD: 1
-[Tree number 987 on line 20355]: Non-tree structure. Words 1,4,5,6,7,8 are not reachable from the root 0.
-[Line                   20620]: Spurious empty line.
-[Tree number 1025 on line 21112]: HEAD == ID for 1
-[Tree number 1025 on line 21112]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
-[Tree number 1056 on line 21812]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,14,15,24,25,26,27,28,29.
-[Line                   21841]: Loop from 14
-[Line                   21841]: Loop from 15
-[Tree number 1056 on line 21812]: Non-tree structure. Words 22,23 are not reachable from the root 0.
-[Tree number 1109 on line 22743]: HEAD == ID for 1
-[Tree number 1109 on line 22743]: Non-tree structure. Words 1,2 are not reachable from the root 0.
-[Tree number 1135 on line 23347]: HEAD == ID for 1
-[Tree number 1135 on line 23347]: Non-tree structure. Words 1,2 are not reachable from the root 0.
-[Tree number 1280 on line 26371]: Non-tree structure. Words 22,23,24 are not reachable from the root 0.
-[Tree number 1934 on line 40027]: HEAD == ID for 17
-[Tree number 1934 on line 40027]: Non-tree structure. Words 17,18 are not reachable from the root 0.
-[Tree number 2369 on line 49074]: HEAD == ID for 2
-[Tree number 2369 on line 49074]: Non-tree structure. Words 2,3 are not reachable from the root 0.
-[Tree number 2420 on line 50149]: HEAD == ID for 13
-[Tree number 2420 on line 50149]: Non-tree structure. Words 12,13,14 are not reachable from the root 0.
-[Tree number 2788 on line 57774]: HEAD == ID for 10
-[Tree number 2788 on line 57774]: Non-tree structure. Words 10,11 are not reachable from the root 0.
-[Tree number 2791 on line 57824]: HEAD == ID for 3
-[Tree number 2791 on line 57824]: Non-tree structure. Words 3,4 are not reachable from the root 0.
-[Tree number 2992 on line 62076]: HEAD == ID for 3
-[Tree number 2992 on line 62076]: HEAD == ID for 11
-[Tree number 2992 on line 62076]: Non-tree structure. Words 3,4,11,12 are not reachable from the root 0.
-[Tree number 3012 on line 62426]: Non-tree structure. Words 3,4,5,6 are not reachable from the root 0.
-[Tree number 3171 on line 65797]: Non-tree structure. Words 8,9 are not reachable from the root 0.
-[Tree number 3234 on line 66965]: HEAD == ID for 4
-[Tree number 3234 on line 66965]: Non-tree structure. Words 4,5 are not reachable from the root 0.
-[Tree number 3403 on line 70573]: Words do not form a sequence. Got: 1,2,3,4,5,6,1,2,9,10,11,12,13.
-[Line                   70586]: Undefined ID in HEAD: 7
-...suppressing further errors regarding Format
-[Line                   70586]: Loop from 2
-[Tree number 3403 on line 70573]: Non-tree structure. Words 5,6,7,8 are not reachable from the root 0.
-...suppressing further errors regarding Syntax
-*** FAILED *** with 60 errors
-Format errors: 32
-Syntax errors: 28
+[Line                   48781]: The line has 13 columns, but 10 are expected.
+[Tree number 3448 on line 71802]: Non-tree structure. Words 9,10,11,12 are not reachable from the root 0.
+*** FAILED *** with 2 errors
+Format errors: 1
+Syntax errors: 1
 
 
 ******************
