@@ -4,5 +4,24 @@ title: 'compound'
 shortdef: 'compound'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `compound`.
+`compound` is one of the three relations in UD for compounding. It is used for noun compounds (e.g., *phone book*), but also for verb and adjective compounds as well as for “phrasal verb” constructions (e.g., *throw up*), which in Basque are expressions such as *gora egin* (*go up*), for example:
+
+*Kazetariak aztoratuta ibili ziren atzo **Euskadi Fundazioak** Derion duen egoitzaren atarian .*
+
+*Journalists were rowdy yesterday in the entrace of the officce that **Euskadi Foundation** has in Derio .* 
+
+~~~ sdparse
+Kazetariak aztoratuta ibili ziren atzo Euskadi Fundazioak Derion duen egoitzaren atarian .\n Journalists rowdy were yesterday Euskadi Foundation Derio_in has_that officce_of entrace_the_in . 
+
+nsubj(aztoratuta-2, Kazetariak-1)
+cop(aztoratuta-2, ibili-3)
+aux(ibili-3, ziren-4)
+advmod(ibili-3, atzo-5)
+compound(Fundazioak-7, Euskadi-6)
+nsubj(duen-9, Fundazioak-7)
+nmod(duen-9, Derion-8)
+acl(egoitzaren-10, duen-9)
+nmod(atarian-11, egoitzaren-10)
+nmo(ibili-3, atarian-11)
+punct(ibili-3, .-12)
+~~~
