@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-03T23:50:34Z">2016-05-03T23:50:34 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-03T23:56:48Z">2016-05-03T23:56:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1463,7 +1463,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-03T23:50:22Z">2016-05-03T23:50:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-03T23:56:37Z">2016-05-03T23:56:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1486,10 +1486,8 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 [Line                   48781]: The line has 13 columns, but 10 are expected.
-[Tree number 3448 on line 71802]: Non-tree structure. Words 9,10,11,12 are not reachable from the root 0.
-*** FAILED *** with 2 errors
+*** FAILED *** with 1 errors
 Format errors: 1
-Syntax errors: 1
 
 
 ******************
