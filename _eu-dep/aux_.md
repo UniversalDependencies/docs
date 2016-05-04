@@ -47,7 +47,7 @@ punct(tolesten-7, .-9)
 
 *Eztabaida handia sortu **du** aldaketak .*
 
-*The **change** has caused a huge discussion .* 
+*The change has caused a huge discussion .* 
 
 ~~~ sdparse
 Eztabaida handia sortu du aldaketak .\n Discussion huge_a caused has change_the .  
