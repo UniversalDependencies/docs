@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-03T23:56:48Z">2016-05-03T23:56:48 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-04T00:09:05Z">2016-05-04T00:09:05 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1462,16 +1462,14 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-03T23:56:37Z">2016-05-03T23:56:37 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-04T00:08:53Z">2016-05-04T00:08:53 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
-[Line                   7982]: The line has 13 columns, but 10 are expected.
-*** FAILED *** with 1 errors
-Format errors: 1
+*** PASSED ***
 
 
 ******************
@@ -1485,9 +1483,7 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
-[Line                   48781]: The line has 13 columns, but 10 are expected.
-*** FAILED *** with 1 errors
-Format errors: 1
+*** PASSED ***
 
 
 ******************
