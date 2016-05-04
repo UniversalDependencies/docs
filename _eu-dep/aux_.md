@@ -7,24 +7,30 @@ shortdef: 'auxiliary'
 redirect_from: "eu/dep/aux.html"
 ---
 
+---
+layout: relation
+title: 'aux'
+shortdef: 'auxiliary'
+# The filename "aux" is not allowed on Windows, so we redirect instead
+# (see https://github.com/UniversalDependencies/docs/issues/20)
+redirect_from: "eu/dep/aux.html"
+---
+
 The `aux` relation occurs between a verb and and auxiliary. In general, Basque verbs encode only aspect, while temporal and agreement features show up in the auxiliary, as well as transitivity.
  
- There are mainly two auxiliary lemmas *izan* corresponding to intransitives and *ukan* corresponding to transitives.
+ There are mainly two auxiliary lemmas *izan* (*to be*) corresponding to intransitives and *ukan* (*to have*) corresponding to transitives.
 
 Even if Basque word order is quite free, the auxiliary can only appear right after the verb in non-negative sentences, and right after the negation in negative sentences.
 
-* English (example of an intransitive):
 
-These two parts fold by the places that are marked .
+* Example of an auxiliary in an intransitive sentence (auxiliary lemma *izan*/*to be*):
 
-* Basque:
+*Bi zati hauek markaturik dauden tokietatik tolesten **dira** .*
 
-Bi zati hauek markaturik dauden tokietatik tolesten dira .
-
-*Two parts these marked are-that places  aux-intrans-present .*
+*These two parts fold by the places that are marked .*
 
 ~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira .
+Bi zati hauek markaturik dauden tokietatik tolesten dira .\n Two parts these marked are_that sites_the_by fold .
 
 det(zati-2, Bi-1)
 nsubj(tolesten-7, zati-2)
@@ -33,23 +39,22 @@ acl(tokietatik-6, markaturik-4)
 cop(markaturik-4, dauden-5)
 nmod(tolesten-7, tokietatik-6)
 aux(tolesten-7, dira-8)
+punct(tolesten-7, .-9)
 ~~~
 
-* English (example of a transitive):
 
-The change has caused huge discussions . 
+* Example of an auxiliary in a transitive sentence (auxiliary lemma *ukan*/*to have*):
 
-* Basque:
+*Eztabaida handia sortu du **aldaketak** .*
 
-Eztabaida handiak sortu ditu aldaketak .
-
-*Discussion huge-pl cause aux-trans-present change-erg.*
+*The **change** has caused a huge discussion .* 
 
 ~~~ sdparse
-Eztabaida handiak sortu ditu aldaketak .
+Eztabaida handia sortu du aldaketak .\n Discussion huge_a caused has change_the .  
 
-amod(Eztabaida-1, handiak-2)
+amod(Eztabaida-1, handia-2)
 nobj(sortu-3, Eztabaida-1)
-aux(sortu-3, ditu-4)
+aux(sortu-3, du-4)
 nsubj(sortu-3, aldaketak-5)
+punct(sortu-3, .-6)
 ~~~
