@@ -3,10 +3,6 @@ layout: relation
 title: 'cc'
 shortdef: 'coordinating conjunction'
 ---
-layout: relation
-title: 'cc'
-shortdef: 'coordinating conjunction'
----
 
 `cc` relation is used to annotate the relation between the conjunction complementizer and the head of the coordination structure.
 
