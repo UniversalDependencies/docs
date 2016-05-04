@@ -45,7 +45,7 @@ punct(tolesten-7, .-9)
 
 * Example of an auxiliary in a transitive sentence (auxiliary lemma *ukan*/*to have*):
 
-*Eztabaida handia sortu du **aldaketak** .*
+*Eztabaida handia sortu **du** aldaketak .*
 
 *The **change** has caused a huge discussion .* 
 
