@@ -10,10 +10,10 @@ Example of a subject in an intransitive sentence (ABS case):
 
 *Bi **zati** hauek markaturik dauden tokietatik tolesten dira .*
 
-*These two **parts** are folded by the sites that are marked .*
+*These two **parts** fold by the sites that are marked .*
 
 ~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira .\n Two parts these marked are_that sites_the_by folded are .
+Bi zati hauek markaturik dauden tokietatik tolesten dira .\n Two parts these marked are_that sites_the_by fold .
 
 det(zati-2, Bi-1)
 nsubj(tolesten-7, zati-2)
