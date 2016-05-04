@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-05-04T13:47:08Z">2016-05-04T13:47:08 zulu</time>
+Regenerated <time class="timeago" datetime="2016-05-04T14:07:04Z">2016-05-04T14:07:04 zulu</time>
 
 # Aux chain
 
@@ -34710,11 +34710,11 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Excomp+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Excomp+_&db=UD_Latin-ITTB-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Excomp+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Excomp+_&db=UD_Latin-ITTB-dev">202</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Excomp+_&db=UD_Latin-ITTB-dev">183</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Excomp+_&db=UD_Latin-ITTB-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Excomp+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Excomp+_&db=UD_Latin-ITTB-dev">87</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Excomp+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Excomp+_&db=UD_Latin-ITTB-dev">19</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Excomp+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Excomp+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Excomp+_&db=UD_Latin-ITTB-dev">&nbsp;</a></td>
