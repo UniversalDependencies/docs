@@ -94,10 +94,10 @@ punct(dituzu-3, ?-6)
 
 *Euroaren kotizazio **hau** azken lau asteetako altuena da .*
 
-***This** cotization of the euro is the highest one in the last four weeks .*
+***This** price of the euro is the highest one in the last four weeks .*
 
 ~~~ sdparse
-Euroaren kotizazio hau azken lau asteetako altuena da . \n Euro_the_of cotization this last four week_the_of highest_the is .*
+Euroaren kotizazio hau azken lau asteetako altuena da . \n Euro_the_of price this last four week_the_of highest_the is .*
 
 nmod(kotizazio-2, Euroaren-1)
 det(kotizazio-2, hau-3)
