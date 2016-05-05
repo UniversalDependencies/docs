@@ -4,46 +4,20 @@ title: 'det'
 shortdef: 'determiner'
 ---
 
-The relation determiner (`det`) holds between a nominal head and its determiner. 
+The relation determiner (`det`) holds between a nominal head and its
+[determiner]. 
+Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.
 
-* Cardinal and ordinal numbers and quantifiers are considered det in Basque:
+Note that cardinal numerals (one, five, hundred) are not tagged DET but nummod.
 
-***3.000** pezeta kostatzen da .*
-
-*It costs **3.000** pesetas .* 
-
-~~~ sdparse
-3.000 pezeta kostatzen da . \n 3.000 pesetas costs . 
-
-det(pezeta-2, 3.000-1)
-aux(kostatzen-3, da-4)
-dobj(kostatzen-3, pezeta-2)
-punct(kostatzen-3, .-5)
-~~~
-
-
-***Bost** minutu jokatuta pozik egongo nintzateke .*
-
-*I would be happy playing **five** minutes .*
-
-~~~ sdparse
-Bost minutu jokatuta pozik egongo nintzateke . \n Five minutes playing happy would be  .
-
-det(minutu-2, Bost-1)
-dobj(jokatuta-3, minutu-2)
-advcl(egongo-5, jokatuta-3)
-advmod(egongo-5, pozik-4)
-aux(egongo-5, nintzateke-6)
-punct(egongo-5, .-7)
-~~~
-
+* Ordinal numbers are considered det in Basque:
 
 ***Lehen** partiduan hiru puntuak eskuratzea ez da ezinbestekoa .*
 
 *To get the three points in the **first** match is not essential .*
 
 ~~~ sdparse
-Lehen partiduan hiru puntuak eskuratzea ez da ezinbestekoa . \n First match_the_in three points_the     to_get not is essential . 
+Lehen partiduan hiru puntuak eskuratzea ez da ezinbestekoa . \n First match_the_in three points_the to_get not is essential . 
 
 det(partiduan-2, Lehen-1)
 nmod(eskuratzea-5, partiduan-2)
@@ -55,7 +29,7 @@ csubj(ezinbestekoa-8, eskuratzea-5)
 punct(ezinbestekoa-8, .-9)
 ~~~
 
-* Indefinite quantifiers (such as few and many) are also tagged as det.
+* Quantifiers (such as *all*, *many*, *few*...) are also tagged as det:
 
 *Hortxe biltzen da mota **guztietako** jendea .*
 
@@ -100,6 +74,7 @@ nmod(dute-4, gurekin-5)
 punct(dute-4, .-6)
 ~~~
 
+* Interrogative determiners:
 
 ***Zeintzu** proiektu dituzu epe laburrera ?* 
 
@@ -113,6 +88,25 @@ dobj(dituzu-3, proiektu-2)
 nmod(dituzu-3, epe-4)
 amod(epe-4, laburrera-5)
 punct(dituzu-3, ?-6)
+~~~
+
+* Demonstrative determiners are also det:
+
+*Euroaren kotizazio **hau** azken lau asteetako altuena da .*
+
+***This** cotization of the euro is the highest one in the last four weeks .*
+
+~~~ sdparse
+Euroaren kotizazio hau azken lau asteetako altuena da . \n Euro_the_of cotization this last four week_the_of highest_the is .*
+
+nmod(kotizazio-2, Euroaren-1)
+det(kotizazio-2, hau-3)
+nsubj(altuena-7, kotizazio-2)
+det(lau-5, azken-4)
+nummod(asteetako-6, lau-5)
+nmod(altuena-7, asteetako-6)
+cop(altuena-7, da-8)
+punct(altuena-7, .-9)
 ~~~
 
 
