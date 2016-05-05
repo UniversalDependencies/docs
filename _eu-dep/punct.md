@@ -1,5 +1,4 @@
 ---
----
 layout: relation
 title: 'punct'
 shortdef: 'punctuation'
