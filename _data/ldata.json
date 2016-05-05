@@ -103,14 +103,14 @@
     "lang_code": "bg", 
     "contributors": [
       {
-        "full": "Petya Osenova", 
-        "last": "Osenova", 
-        "first": "Petya"
-      }, 
-      {
         "full": "Kiril Simov", 
         "last": "Simov", 
         "first": "Kiril"
+      }, 
+      {
+        "full": "Petya Osenova", 
+        "last": "Osenova", 
+        "first": "Petya"
       }
     ], 
     "lang_name": "Bulgarian"
