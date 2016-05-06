@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-05T11:29:41Z">2016-05-05T11:29:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-06T06:52:35Z">2016-05-06T06:52:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1495,25 +1495,25 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Russian-Syntagrus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-05T09:40:03Z">2016-05-05T09:40:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-06T06:50:35Z">2016-05-06T06:50:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-train.conllu
 
 *** PASSED ***
 
