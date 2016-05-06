@@ -266,6 +266,17 @@ advmod(järjestää-3, lopuksi-4)
 punct(järjestää-3, .-6)
 ~~~
 
+#### Diffs
+
+In FinnTreeBank (FI_FTB), in addition to copular clauses, also state clauses and result
+clauses [ISK § 891](http://scripta.kotus.fi/visk/sisallys.php?p=891) contain predicatives.
+This results in a larger group of verbs accepted as copular verbs,
+e.g. *tulla* “to become”, *muuttua* “to turn” and *tehdä* “to make”. (See
+[FinnTreeBank Annotation Manual: 16.9 Predicative](http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/sources/FinnTreeBankManual.pdf).)
+
+In FI_FTB, none of the adverbs can act as predicatives
+(e.g. *naimisissa* “married” or *raskaana* “pregnant”).
+
 ### Copulas and auxiliaries
 <!-- this section originally from TDT guidelines section 5.2.2 -->
 
