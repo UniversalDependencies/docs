@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-06T09:46:48Z">2016-05-06T09:46:48 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-06T09:48:02Z">2016-05-06T09:48:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1430,143 +1430,28 @@ python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-06T09:46:30Z">2016-05-06T09:46:30 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-06T09:47:44Z">2016-05-06T09:47:44 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Romanian/ro-ud-dev.conllu
 
-[Line                   1199]: Unknown UD DEPREL: ccomp:pmod
-[Line                   1283]: Unknown attribute-value pair NumForm=Digit
-[Line                   1780]: Unknown attribute-value pair NumForm=Digit
-[Line                   1824]: Unknown attribute-value pair NumForm=Digit
-[Line                   1826]: Unknown attribute-value pair NumForm=Digit
-[Line                   2598]: Unknown attribute-value pair NumForm=Digit
-[Line                   3728]: Unknown attribute-value pair NumForm=Digit
-[Line                   3770]: Unknown attribute-value pair NumForm=Digit
-[Line                   4621]: Unknown UD DEPREL: ccomp:pmod
-[Line                   4898]: Unknown UD DEPREL: ccomp:pmod
-[Line                   4915]: Unknown attribute-value pair NumForm=Digit
-[Line                   5204]: Unknown UD DEPREL: ccomp:pmod
-[Line                   5232]: Unknown UD DEPREL: ccomp:pmod
-[Line                   5801]: Unknown attribute-value pair NumForm=Digit
-[Line                   5874]: Unknown attribute-value pair NumForm=Digit
-[Line                   6698]: Unknown attribute-value pair NumForm=Digit
-[Line                   6798]: Unknown UD DEPREL: ccomp:pmod
-[Line                   7299]: Unknown UD DEPREL: ccomp:pmod
-[Line                   8016]: Unknown attribute-value pair NumForm=Digit
-[Line                   8017]: Unknown attribute-value pair NumForm=Digit
-[Line                   8848]: Unknown UD DEPREL: ccomp:pmod
-[Line                   9209]: Unknown UD DEPREL: ccomp:pmod
-[Line                   10127]: Unknown UD DEPREL: ccomp:pmod
-[Line                   10538]: Unknown attribute-value pair NumForm=Digit
-[Line                   11340]: Unknown attribute-value pair NumForm=Digit
-[Line                   11342]: Unknown attribute-value pair NumForm=Digit
-[Line                   11825]: Unknown UD DEPREL: ccomp:pmod
-[Line                   12134]: Unknown attribute-value pair NumForm=Digit
-[Line                   12135]: Unknown attribute-value pair NumForm=Digit
-[Line                   14322]: Unknown attribute-value pair NumForm=Digit
-...suppressing further errors regarding Morpho
-[Line                   16491]: Unknown UD DEPREL: ccomp:pmod
-[Line                   17748]: Unknown UD DEPREL: ccomp:pmod
-[Line                   17758]: Unknown UD DEPREL: ccomp:pmod
-*** FAILED *** with 38 errors
-Morpho errors: 24
-Syntax errors: 14
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Romanian/ro-ud-test.conllu
 
-[Line                   468]: Unknown UD DEPREL: ccomp:pmod
-[Line                   651]: Unknown attribute-value pair NumForm=Digit
-[Line                   1591]: Unknown attribute-value pair NumForm=Digit
-[Line                   1593]: Unknown attribute-value pair NumForm=Digit
-[Line                   2350]: Unknown attribute-value pair NumForm=Digit
-[Line                   2394]: Unknown attribute-value pair NumForm=Digit
-[Line                   2396]: Unknown attribute-value pair NumForm=Digit
-[Line                   2871]: Unknown attribute-value pair NumForm=Digit
-[Line                   2880]: Unknown attribute-value pair NumForm=Digit
-[Line                   3532]: Unknown attribute-value pair NumForm=Digit
-[Line                   3935]: Unknown attribute-value pair NumForm=Digit
-[Line                   4766]: Unknown UD DEPREL: ccomp:pmod
-[Line                   5438]: Unknown attribute-value pair NumForm=Digit
-[Line                   6583]: Unknown UD DEPREL: ccomp:pmod
-[Line                   7365]: Unknown UD DEPREL: ccomp:pmod
-[Line                   8577]: Unknown UD DEPREL: ccomp:pmod
-[Line                   8845]: Unknown attribute-value pair NumForm=Digit
-[Line                   9185]: Unknown UD DEPREL: ccomp:pmod
-[Line                   9222]: Unknown UD DEPREL: ccomp:pmod
-[Line                   9523]: Unknown UD DEPREL: ccomp:pmod
-[Line                   9881]: Unknown UD DEPREL: ccomp:pmod
-[Line                   11028]: Unknown UD DEPREL: ccomp:pmod
-[Line                   11456]: Unknown UD DEPREL: ccomp:pmod
-[Line                   11490]: Unknown attribute-value pair NumForm=Digit
-[Line                   11741]: Unknown UD DEPREL: ccomp:pmod
-[Line                   12784]: Unknown attribute-value pair NumForm=Digit
-[Line                   13177]: Unknown attribute-value pair NumForm=Digit
-[Line                   13188]: Unknown attribute-value pair NumForm=Digit
-[Line                   13413]: Unknown attribute-value pair NumForm=Digit
-[Line                   13416]: Unknown attribute-value pair NumForm=Digit
-[Line                   14053]: Unknown attribute-value pair NumForm=Digit
-...suppressing further errors regarding Morpho
-[Line                   16506]: Unknown UD DEPREL: ccomp:pmod
-[Line                   18684]: Unknown UD DEPREL: ccomp:pmod
-[Line                   18786]: Unknown UD DEPREL: ccomp:pmod
-*** FAILED *** with 39 errors
-Morpho errors: 24
-Syntax errors: 15
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Romanian/ro-ud-train.conllu
 
-[Line                   50]: Unknown attribute-value pair NumForm=Digit
-[Line                   52]: Unknown attribute-value pair NumForm=Digit
-[Line                   372]: Unknown attribute-value pair NumForm=Digit
-[Line                   578]: Unknown attribute-value pair NumForm=Digit
-[Line                   861]: Unknown attribute-value pair NumForm=Digit
-[Line                   983]: Unknown attribute-value pair NumForm=Digit
-[Line                   1008]: Unknown attribute-value pair NumForm=Digit
-[Line                   1033]: Unknown attribute-value pair NumForm=Digit
-[Line                   1118]: Unknown attribute-value pair NumForm=Digit
-[Line                   1169]: Unknown attribute-value pair NumForm=Digit
-[Line                   1171]: Unknown attribute-value pair NumForm=Digit
-[Line                   1274]: Unknown attribute-value pair NumForm=Digit
-[Line                   1275]: Unknown attribute-value pair NumForm=Digit
-[Line                   1304]: Unknown attribute-value pair NumForm=Digit
-[Line                   1305]: Unknown attribute-value pair NumForm=Digit
-[Line                   1437]: Unknown attribute-value pair NumForm=Digit
-[Line                   1446]: Unknown attribute-value pair NumForm=Digit
-[Line                   1503]: Unknown attribute-value pair NumForm=Digit
-[Line                   2030]: Unknown attribute-value pair NumForm=Digit
-...suppressing further errors regarding Morpho
-[Line                   15994]: Unknown UD DEPREL: ccomp:pmod
-[Line                   41864]: Unknown UD DEPREL: ccomp:pmod
-[Line                   44409]: Unknown UD DEPREL: ccomp:pmod
-[Line                   45844]: Unknown UD DEPREL: ccomp:pmod
-[Line                   46881]: Unknown UD DEPREL: ccomp:pmod
-[Line                   47004]: Unknown UD DEPREL: ccomp:pmod
-[Line                   48944]: Unknown UD DEPREL: ccomp:pmod
-[Line                   49044]: Unknown UD DEPREL: ccomp:pmod
-[Line                   49696]: Unknown UD DEPREL: ccomp:pmod
-[Line                   49773]: Unknown UD DEPREL: ccomp:pmod
-[Line                   50728]: Unknown UD DEPREL: ccomp:pmod
-[Line                   51284]: Unknown UD DEPREL: ccomp:pmod
-[Line                   51309]: Unknown UD DEPREL: ccomp:pmod
-[Line                   51908]: Unknown UD DEPREL: ccomp:pmod
-[Line                   52457]: Unknown UD DEPREL: ccomp:pmod
-[Line                   52944]: Unknown UD DEPREL: ccomp:pmod
-[Line                   53527]: Unknown UD DEPREL: ccomp:pmod
-[Line                   54630]: Unknown UD DEPREL: ccomp:pmod
-[Line                   54770]: Unknown UD DEPREL: ccomp:pmod
-...suppressing further errors regarding Syntax
-*** FAILED *** with 328 errors
-Morpho errors: 236
-Syntax errors: 92
+*** PASSED ***
 
 
 ******************
