@@ -12,3 +12,9 @@ error, etc.
 #### Examples
 
 * [fi] _Toyotä_ (for _Toyota_)
+
+### Diffs
+
+#### FinnTreeBank
+
+The language-specific feature Typo is not in use in the FI_FTB corpus.
