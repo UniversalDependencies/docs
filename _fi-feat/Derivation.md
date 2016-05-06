@@ -152,3 +152,9 @@ Produces noun.
 #### References
 
 * <TODO> (in Finnish)
+
+### Diffs
+
+#### FinnTreeBank
+
+The language-specific feature Derivation is not in use in FI_FTB.
