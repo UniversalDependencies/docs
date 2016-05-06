@@ -782,6 +782,11 @@ advmod(seisoo-7, tuolla-8)
 punct(seisoo-7, .-9)
 ~~~
 
+#### Diffs
+
+FinnTreeBank (FI_FTB) uses the universal [acl]() relation
+instead of the language-specific [acl:relcl]().
+
 ## Units, measures and amounts
 <!-- this section originally from TDT guidelines section 5.7 -->
 
