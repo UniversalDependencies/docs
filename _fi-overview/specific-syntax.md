@@ -1195,6 +1195,15 @@ nmod:poss(selästä-9, hevosen-8)
 punct(säikäytti-2, .-10)
 ~~~
 
+#### Diffs
+
+To prevent pure function words from having dependents when possible,
+the first of the three options has been chosen in FinnTreeBank (FTB_FI).
+The time adverbial modifies the main clause and the following subordinate
+clause modifies the adverbial. If the time adverbial could not stand on
+its own, a multi-part subordinating conjunction is considered
+(e.g. *ennen kuin* “before”).
+
 ## Subjects and objects of a noun
 <!-- this section originally from TDT guidelines section 5.11 -->
 
