@@ -11,7 +11,7 @@ of a specific individual, place, or object.
 Russian proper nouns are always written starting with an uppercase letter.
 
 Single-word named entities should be tagged `PROPN` even if they originate
-from a common noun _(Заяц)&nbsp;_ or an adjective _(Белая).&nbsp;_
+from a common noun _(Грязь)&nbsp;_ (illage) or an adjective _(Белая).&nbsp;_ (river)
 Even if they were originally adjectives and inflect according to adjectival
 paradigms, they behave syntactically as nouns. For instance, _Белая&nbsp;_
 (a river in Bashkortostan) is originally feminine form of the
