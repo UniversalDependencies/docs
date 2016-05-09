@@ -15,8 +15,7 @@ For _coordinating conjunctions,_ see [CONJ]().
 
 ### Examples
 
-- _že&nbsp;_ “that”
-- _aby&nbsp;_ “so that”
-- _zda&nbsp;_ “if”
-- _jako&nbsp;_ “as”
-- _než&nbsp;_ “than”
+- _что&nbsp;_ “that”
+- _если&nbsp;_ “if”
+- _как&nbsp;_ “as”
+- _чем&nbsp;_ “than”
