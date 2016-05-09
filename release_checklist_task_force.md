@@ -26,7 +26,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
   they can be reached at lindat-help@ufal.mff.cuni.cz).
 * Update statistics in the `stats.xml` file in each repository:
-  `for i in UD_* ; do pushd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git commit -a -m 'Updated statistics.' ; git push ; popd ; echo ; done`
+  `for i in UD_* ; do pushd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; popd ; echo ; done`
 * Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:
   This time the script is run for every language (not every treebank):
   `perl tools/conllu-stats.pl --detailed --data . --docs docs --lang pt`
