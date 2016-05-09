@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-09T20:37:26Z">2016-05-09T20:37:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-09T20:39:29Z">2016-05-09T20:39:29 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -844,7 +844,7 @@ python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T12:12:24Z">2016-05-02T12:12:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-09T20:39:11Z">2016-05-09T20:39:11 zulu</time></span>
 </div>
 <div>
 <pre>
