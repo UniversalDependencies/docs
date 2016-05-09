@@ -15,5 +15,5 @@ For _subordinating conjunctions,_ see [SCONJ]().
 ### Examples
 
 - _и&nbsp;_ “and”
-- _илиbo&nbsp;_ “or”
+- _или&nbsp;_ “or”
 - _но&nbsp;_ “but”
