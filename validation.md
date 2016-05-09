@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-09T20:40:55Z">2016-05-09T20:40:55 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-09T20:43:35Z">2016-05-09T20:43:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1004,7 +1004,7 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T12:22:51Z">2016-05-02T12:22:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-09T20:43:06Z">2016-05-09T20:43:06 zulu</time></span>
 </div>
 <div>
 <pre>
