@@ -6,7 +6,7 @@ shortdef: 'adposition'
 
 ### Definition
 
-Russian has mostly prepositions but not circumpositions and very seldom postpositions.
+Russian has only prepositions but not postpositionsand and circumpositions.
 They occur before a complement noun phrase
 (noun, pronoun)
 and they form a single structure with the complement to express its
