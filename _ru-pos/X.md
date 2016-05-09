@@ -18,9 +18,9 @@ part of speech.
 
 Even if foreign words are tagged `X`, this usage does not extend
 to ordinary loan words which should be assigned a normal
-part-of-speech. For example, in _Skotové nosí kilt&nbsp;_ “Scots wear kilts”,
-_kilt_ is an ordinary [NOUN]().
+part-of-speech. For example, in _Он надел килт&nbsp;_ “He put on kilt”,
+_килт_ is an ordinary [NOUN]().
 
 ### Examples
 
-- _A on pak akorát <b>xfgh pdl jklw</b>&nbsp;_ “And then he just <b>xfgh pdl jklw</b>”
+- _И потом он просто <b>xfgh pdl jklw</b>&nbsp;_ “And then he just <b>xfgh pdl jklw</b>”
