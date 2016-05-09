@@ -19,27 +19,6 @@ Most determiners are traditionally called pronouns; that is, an UD-conformant
 annotation of Russian must distinguish between substantive pronouns (UD tag [PRON]())
 and attributive pronouns (UD tag `DET`).
 
-### Conversion from the Prague Dependency Treebank
-
-Since the PDT tagset (like all other Czech tagsets) does not distinguish
-substantive and attributive pronouns, morphological tags alone are not enough
-to find the correct universal POS tag.
-Morphological rules could help, as the inflection patterns of some pronouns
-bear similarities to adjectival inflection; nevertheless, there will be other
-cases that cannot be solved this way.
-We have to examine the dependency tree.
-If a pronoun modifies a noun, it should be tagged `DET`.
-Otherwise it is `PRON`.
-As a result, all words that can be tagged `DET` can also be tagged `PRON`,
-but some words can only be tagged `PRON`.
-(We cannot recognize cases where the pronoun is in fact attributive, but the
-modified noun has been elided and is not represented in the tree.)
-
-For instance, _tohle&nbsp;_ “this” is either pronoun
-_(<b>Tohle</b> jsem viděl včera.&nbsp;_ “I saw <b>this</b> yesterday.”)
-or determiner
-_(<b>Tohle</b> auto jsem viděl včera.&nbsp;_ “I saw <b>this</b> car yesterday.”)
-
 ### Examples
 
 - possessive determiners: _мой, твой, его, её, наш, ваш, их&nbsp;_ “my, your, his, her, our, your, their”
