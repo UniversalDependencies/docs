@@ -20,7 +20,7 @@ as interjections under the UD standard.
 
 ### Examples
 
-- Sentence modality: _<b>пусть</b>>&nbsp;_ (“<b>May you</b> have an enjoyable stay!”)
+- Sentence modality: _<b>пусть</b>&nbsp;_ (“<b>May you</b> have an enjoyable stay!”)
 - _же&nbsp;_ “just, only” 
 - _аж&nbsp;_ “as late as, even, up to” 
   Use case: _Мне сегодня аж пять писем пришло.&nbsp;_ “Today I have recieved even five letters”
