@@ -1250,6 +1250,14 @@ nmod:gsubj(putoaminen-2, maljakon-1)
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=560> (in Finnish)
 
+### Diffs
+
+In the current release of FinnTreeBank (FI_FTB)
+only *minen*-derivations of nouns
+can take a genitive object or subject. The information about being
+a verb-derived nominal does not occur in the morphological tagging
+of these nouns.
+
 ## Numerical expressions
 <!-- this section originally from TDT guidelines section 5.12 -->
 
