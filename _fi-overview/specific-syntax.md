@@ -1375,6 +1375,16 @@ compound(kg-2, 2-1)
 compound(315-3, kg-2)
 ~~~
 
+### Diffs
+
+In FinnTreeBank (FI_FTB), the dependency type [`compound`]() is not
+used for numerical expressions. If any clear internal syntactic
+structure is not noticeable in a numerical expression, the
+rightmost token of the expression is considered the head of a
+chain consisting of [`nummod`]()- or [`nmod`]()-dependents.
+Respectively, numerical expressions with multiple units are
+annotated using a [`conj`]()-relation.
+
 ## Participial modifiers and predicatives
 <!-- this section originally from TDT guidelines section 5.13 -->
 
