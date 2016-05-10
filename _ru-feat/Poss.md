@@ -20,7 +20,7 @@ means that empty value has the `No` meaning.)
 
 #### Examples
 
-* possessive personal pronouns/determiners: _můj, tvůj, jeho, její, náš, váš, jejich&nbsp;_ “my, your, his, her, our, your, their”
-* possessive reflexive pronoun/determiner: _svůj&nbsp;_ “one's own”
-* possessive relative pronoun/determiner: _jehož&nbsp;_ “whose”
-* possessive adjectives: _otcův&nbsp;_ “father's”, _matčin&nbsp;_ “mother's”
+* possessive personal pronouns/determiners: _мой, твой, его, её, наш, ваш, их&nbsp;_ “my, your, his, her, our, your, their”
+* possessive reflexive pronoun/determiner: _свой&nbsp;_ “one's own”
+* possessive relative pronoun/determiner: _чей&nbsp;_ “whose”
+* possessive adjectives: _папин&nbsp;_ “father's”, _мамин&nbsp;_ “mother's”
