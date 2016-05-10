@@ -1450,6 +1450,15 @@ cop(rajalliset-5, ovat-4)
 punct(rajalliset-5, .-6)
 ~~~
 
+### Diffs
+
+As the passive verb -derived, idiomatic structures 
+*olla tehtävissä / tehtävillä* (“to be doable”) are
+considered [`root`]() (or other) + [`advcl`]()
+in FinnTreeBank (FI_FTB), the rule relating
+to certain passive structures does not
+apply to FinnTreeBank.
+
 ## Necessive structures and clausal subjects
 <!-- this section originally from TDT guidelines section 5.14 -->
 
