@@ -887,7 +887,7 @@ Contrary to the special cases desribed above, in FTB-corpus the amounts
 expressed using a nominal are treated similarly to the amounts expressed
 with a number or an adverb. This means that the semantic nucleus of the
 phrase is marked as the head in spite of its case (often the partitive
-or elative case) as in kuppi kahvia “a cup of coffee” or joku pojista
+or elative case) as in *kuppi kahvia* “a cup of coffee” or *joku pojista*
 “one of the boys”.
 
 ## Noun phrases without nouns
