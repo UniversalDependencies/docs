@@ -28,3 +28,10 @@ nsubj(palasi-7, hän-6)
 ~~~
 
 <!-- TODO Attaching punctuation correctly is described more closely in Section [punctspecial](#sec-punctspecial). -->
+
+###Diffs
+
+By the current release of FTB-corpus, the manual annotation of
+punctuation marks has not been completed. Instead the automatic
+annotation links the punctuation marks to the closest token
+available (usually the previous one).
