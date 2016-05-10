@@ -41,3 +41,8 @@ punct(kolahti-2, .-8)
 ###Turku Dependency Treebank
 
 The governor can also be a verb, when the dependent refers to the entire action described in the main sentence.
+
+###FinnTreeBank
+
+FI_FTB applies the universal relation [`acl`]() instead
+of the language-specific relation [`acl:relcl`]().
