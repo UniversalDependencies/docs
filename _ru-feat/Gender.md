@@ -4,8 +4,8 @@ title: 'Gender'
 shortdef: 'gender'
 ---
 
-Gender is a lexical feature of [nouns](cs-pos/NOUN) and inflectional feature
-of other parts of speech ([adjectives](cs-pos/ADJ), [verbs](cs-pos/VERB)) that mark agreement with
+Gender is a lexical feature of [nouns](ru-pos/NOUN) and inflectional feature
+of other parts of speech ([adjectives](ru-pos/ADJ), [verbs](ru-pos/VERB)) that mark agreement with
 nouns. There are three values of gender: masculine, feminine, and neuter.
 
 See also the related feature of [Animacy]().
@@ -17,12 +17,11 @@ grammatically masculine, without any relation to sex.
 
 #### Examples
 
-* _<b>pán</b>&nbsp;_ “gentleman”
-* _<b>hrad</b>&nbsp;_ “castle”
-* _<b>muž</b>&nbsp;_ “man”
-* _<b>stroj</b>&nbsp;_ “machine”
-* _<b>předseda</b>&nbsp;_ “chairman”
-* _<b>soudce</b>&nbsp;_ “judge”
+* _<b>мужчина</b>&nbsp;_ “man”
+* _<b>замок</b>&nbsp;_ “castle”
+* _<b>грузовик</b>&nbsp;_ “truck”
+* _<b>председатель</b>&nbsp;_ “chairman”
+* _<b>судья</b>&nbsp;_ “judge”
 
 ### `Fem`: feminine gender
 
@@ -31,22 +30,22 @@ grammatically feminine, without any relation to sex.
 
 #### Examples
 
-* _<b>žena</b>&nbsp;_ “woman”
-* _<b>růže</b>&nbsp;_ “rose”
-* _<b>píseň</b>&nbsp;_ “song”
-* _<b>kost</b>&nbsp;_ “bone”
+* _<b>женщина</b>&nbsp;_ “woman”
+* _<b>роза</b>&nbsp;_ “rose”
+* _<b>песня</b>&nbsp;_ “song”
+* _<b>кость</b>&nbsp;_ “bone”
 
 ### `Neut`: neuter gender
 
 This third gender is for nouns that are neither
 masculine nor feminine (grammatically).
-Nouns whose nominative suffix is _-o&nbsp;_ or _-í&nbsp;_
+Nouns whose nominative suffix is _-о&nbsp;_ or _-е&nbsp;_
 (including a large group of deverbative nouns denoting actions)
 are usually neuter.
 
 #### Examples
 
-* _<b>město</b>&nbsp;_ “city”
-* _<b>moře</b>&nbsp;_ “sea”
-* _<b>kuře</b>&nbsp;_ “chicken”
-* _<b>stavení</b>&nbsp;_ “building”
+* _<b>место</b>&nbsp;_ “place”
+* _<b>море</b>&nbsp;_ “sea”
+* _<b>мясо</b>&nbsp;_ “meat”
+* _<b>здание</b>&nbsp;_ “building”
