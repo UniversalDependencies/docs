@@ -15,7 +15,7 @@ happen, without adding any attitude of the speaker.
 
 #### Examples
 
-* _<b>Studuješ</b> na univerzitě.&nbsp;_ “<b>You study</b> at the university.”
+* _Ты <b>учишься</b> в университете.&nbsp;_ “<b>You study</b> at the university.”
 
 ### `Imp`: imperative
 
@@ -27,7 +27,7 @@ first person plural and second person plural.
 
 #### Examples
 
-* _<b>Studuj</b> na univerzitě!&nbsp;_ “<b>Study</b> at the university!”
+* _<b>Учись</b> в университете!&nbsp;_ “<b>Study</b> at the university!”
 
 ### `Cnd`: conditional
 
@@ -35,16 +35,15 @@ The conditional mood is used to express actions that would have taken
 place under some circumstances but they actually did not / do not
 happen.
 
-Czech has present conditional and past conditional, both formed periphrastically using
-the past participle of the content verb, and a special form of the [auxiliary verb](cs-pos/AUX)
-_být._ The special form is historically _aorist tense,_ but the tense does not exist
-in modern Czech, so the auxiliary form is better described by `Mood=Cnd`.
+Russian has present conditional and past conditional, both formed periphrastically using
+the past participle of the content verb, and a special form of the [auxiliary verb](ru-pos/AUX)
+_бы._ The special form is historically _aorist tense,_ but the tense does not exist
+in modern Russian, so the auxiliary form is better described by `Mood=Cnd`.
 
 The past participle of the content verb is not marked as conditional
 because it can also be used in past indicative.
 
 #### Examples
 
-* _Kdy<b>bych</b> byl chytrý, studoval <b>bych</b> na
-  univerzitě.&nbsp;_ “If I <b>were</b> smart I <b>would</b> study at the
+* _Если <b>бы</b> я был умным, учился <b>бы</b> в университете.&nbsp;_ “If I <b>were</b> smart I <b>would</b> study at the
   university.”
