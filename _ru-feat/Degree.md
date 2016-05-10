@@ -5,7 +5,7 @@ shortdef: 'degree of comparison'
 ---
 
 Degree of comparison is inflectional feature of some
-[adjectives](cs-pos/ADJ) and [adverbs](cs-pos/ADV).
+[adjectives](ru-pos/ADJ) and [adverbs](ru-pos/ADV).
 
 ### `Pos`: positive, first degree
 
@@ -16,7 +16,7 @@ compared, too.
 
 #### Examples
 
-* _<b>mladý</b> muž&nbsp;_ “<b>young</b> man”
+* _<b>умный</b> человек&nbsp;_ “<b>young</b> man”
 
 ### `Cmp`: comparative, second degree
 
@@ -25,7 +25,7 @@ object.
 
 #### Examples
 
-* _ten muž je <b>mladší</b> než já&nbsp;_ “the man is <b>younger</b> than me”
+* _этот человек <b>умнее</b> меня&nbsp;_ “the man is <b>younger</b> than me”
 
 ### `Sup`: superlative, third degree
 
@@ -34,4 +34,4 @@ objects within a set.
 
 #### Examples
 
-* _toto je <b>nejmladší</b> muž v našem týmu&nbsp;_ “this is the <b>youngest</b> man in our team”
+* _это <b>наиумнейший</b> человек в нашей команде&nbsp;_ “this is the <b>youngest</b> man in our team”
