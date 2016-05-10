@@ -15,3 +15,8 @@ repair. The disfluency is the dependent of the repair.
 
 `reparandum` is not annotated in TDT and is not used in
 the current version of the UD Finnish corpus.
+
+### FinnTreeBank
+
+The relation `reparandum` is used in FI_FTB
+for the clearest cases of speech repair.
