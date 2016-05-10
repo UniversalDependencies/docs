@@ -12,13 +12,13 @@ This feature typically applies to [pronouns](cs-pos/PRON),
 
 See also the [Poss]() feature that distinguishes normal personal
 pronouns from possessives. Note that `Prs` also includes reflexive
-personal/possessive pronouns (e.g. _se / svůj;_ see the
+personal/possessive pronouns (e.g. _себя / свой;_ see the
 [Reflex]() feature).
 
 #### Examples
 
-* _já, ty, on, ona, ono, my, vy, oni, ony, ona, se&nbsp;_ “I, you, he, she, it, we, you, they, they, they, oneself”
-* _můj, tvůj, jeho, její, náš, váš, jejich, svůj&nbsp;_ “my, your, his/its, her, our, your, their, one's own”
+* _я, ты, он, она, оно, мы, вы, они, себя&nbsp;_ “I, you, he, she, it, we, you, they, they, they, oneself”
+* _мой, твой, его, её, наш, ваш, их, свой&nbsp;_ “my, your, his/its, her, our, your, their, one's own”
 
 ### `Int`: interrogative pronoun, determiner, numeral or adverb
 
@@ -27,29 +27,17 @@ distinguished by the [Poss]() feature.
 
 #### Examples: 
 
-* _kdo&nbsp;_ “who”
-* _co&nbsp;_ “what”
-* _jaký&nbsp;_ “what kind of”
-* _který&nbsp;_ “which”
-* _čí&nbsp;_ “whose”
-* _kolik&nbsp;_ “how many”
-* _kolikátý&nbsp;_ “how-maniest” (ordinal number)
-* _kolikrát&nbsp;_ “how many times”
-* _kde&nbsp;_ “where”
-* _kam&nbsp;_ “where to”
-* _kdy&nbsp;_ “when”
-* _jak&nbsp;_ “how”
-* _proč&nbsp;_ “why”
-
-### `Rel`: relative pronoun, determiner, numeral or adverb
-
-Note that this class heavily overlaps with
-interrogatives, yet there are pronouns that are only relative.
-
-#### Examples: 
-
-* _jenž, což&nbsp;_ “which, that” (relative but not interrogative pronouns)
-* _jehož&nbsp;_ “whose” (possessive relative pronoun)
+* _кто&nbsp;_ “who”
+* _что&nbsp;_ “what”
+* _какой&nbsp;_ “what kind of”
+* _который&nbsp;_ “which”
+* _чей&nbsp;_ “whose”
+* _сколько&nbsp;_ “how many”
+* _где&nbsp;_ “where”
+* _куда&nbsp;_ “where to”
+* _когда&nbsp;_ “when”
+* _как&nbsp;_ “how”
+* _почему&nbsp;_ “why”
 
 ### `Dem`: demonstrative pronoun, determiner, numeral or adverb
 
@@ -57,55 +45,47 @@ These are to some extent parallel to interrogatives.
 
 #### Examples
 
-* _tento&nbsp;_ “this”
-* _tamten&nbsp;_ “that”
-* _takový&nbsp;_ “such”
-* _týž&nbsp;_ “same”
-* _tolik&nbsp;_ “so many”
-* _tolikátý&nbsp;_ “so-maniest” (ordinal number)
-* _tolikrát&nbsp;_ “so many times”
-* _tady&nbsp;_ “here”
-* _tam&nbsp;_ “there”
-* _teď&nbsp;_ “now”
-* _tehdy&nbsp;_ “then”
-* _tak&nbsp;_ “so”
+* _этот&nbsp;_ “this”
+* _тот&nbsp;_ “that”
+* _такой&nbsp;_ “such”
+* _такой же&nbsp;_ “same”
+* _столько&nbsp;_ “so many”
+* _здесь&nbsp;_ “here”
+* _там&nbsp;_ “there”
+* _так&nbsp;_ “so”
 
 ### `Tot`: total (collective) pronoun, determiner or adverb
 
 #### Examples
 
-* _každý&nbsp;_ “every, everybody, everyone, each”
-* _všechno&nbsp;_ “everything, all”
-* _všude&nbsp;_ “everywhere”
-* _vždy&nbsp;_ “always”
+* _каждый&nbsp;_ “every, everybody, everyone, each”
+* _всё&nbsp;_ “everything, all”
+* _везде&nbsp;_ “everywhere”
+* _всегда&nbsp;_ “always”
 
 ### `Neg`: negative pronoun, determiner or adverb
 
 #### Examples
 
-* _nikdo&nbsp;_ “nobody”
-* _nic&nbsp;_ “nothing”
-* _nijaký&nbsp;_ “no (kind)”
-* _ničí&nbsp;_ “no one's”
-* _žádný&nbsp;_ “no, none”
-* _nikde&nbsp;_ “nowhere”
-* _nikam&nbsp;_ “(to) nowhere”
-* _nikdy&nbsp;_ “never”
-* _nijak&nbsp;_ “no way” (lit. “no-how”)
+* _никто&nbsp;_ “nobody”
+* _ничто&nbsp;_ “nothing”
+* _никакой&nbsp;_ “no (kind)”
+* _ничей&nbsp;_ “no one's”
+* _нигде&nbsp;_ “nowhere”
+* _никуда&nbsp;_ “(to) nowhere”
+* _никогда&nbsp;_ “never”
+* _никак&nbsp;_ “no way” (lit. “no-how”)
 
 ### `Ind`: indefinite pronoun, determiner, numeral or adverb
 
 #### Examples
 
-* _někdo&nbsp;_ “somebody”; _kdokoli&nbsp;_ “anybody”; _málokdo&nbsp;_ “few people”; _leckdo&nbsp;_ “quite a few people”; _kdosi&nbsp;_ “somebody”
-* _něco&nbsp;_ “something”; _cokoli&nbsp;_ “anything”; _máloco&nbsp;_ “few things”; _lecco&nbsp;_ “quite a few things”; _cosi&nbsp;_ “something”
-* _nějaký&nbsp;_ “some kind of”; _jakýkoli&nbsp;_ “any kind of”; _lecjaký&nbsp;_ “just any”; _jakýsi&nbsp;_ “some, certain”
-* _některý&nbsp;_ “some”; _kterýkoli&nbsp;_ “any”; _málokterý&nbsp;_ “few”; _leckterý&nbsp;_ “quite a few”; _kterýsi&nbsp;_ “some”
-* _něčí&nbsp;_ “someone's”; _číkoli&nbsp;_ “anyone's”; _lecčí&nbsp;_ “of quite a few people”; _čísi&nbsp;_ “someone's”
-* _několik&nbsp;_ “several”; _málo&nbsp;_ “few”; _mnoho&nbsp;_ “many”
-* _několikátý&nbsp;_ “severalth” (indefinite ordinal numeral)
-* _několikrát&nbsp;_ “several times”
-* _někde&nbsp;_ “somewhere”; _kdekoli&nbsp;_ “anywhere”; _málokde&nbsp;_ “few places”; _leckde&nbsp;_ “quite a few places”; _kdesi&nbsp;_ “somewhere”
-* _někam&nbsp;_ “(to) somewhere”; _kamkoli&nbsp;_ “(to) anywhere”; _kamsi&nbsp;_ “(to) somewhere”
-* _někdy&nbsp;_ “sometimes”; _kdykoli&nbsp;_ “anytime”; _málokdy&nbsp;_ “few times”; _leckdy&nbsp;_ “quite a few times”; _kdysi&nbsp;_ “once (long ago)”
-* _nějak&nbsp;_ “somehow”; _jakkoli&nbsp;_ “anyhow”; _lecjak&nbsp;_ “quite a few ways”; _jaksi&nbsp;_ “somehow”
+* _кто-то&nbsp;_ “somebody”; _кто-нибудь&nbsp;_ “anybody”; _некто&nbsp;_ “somebody”
+* _кто-то&nbsp;_ “something”; _что-нибудь&nbsp;_ “anything”; _нечто&nbsp;_ “something”
+* _какой-то&nbsp;_ “some kind of”; _какой-то&nbsp;_ “any kind of”; _любой&nbsp;_ “just any”; _некий&nbsp;_ “some, certain”
+* _некоторый&nbsp;_ “some”;
+* _чей-то&nbsp;_ “someone's”; _чей-нибудь&nbsp;_ “anyone's”; 
+* _несколько&nbsp;_ “several”; _мало&nbsp;_ “few”; _много&nbsp;_ “many”
+* _где-то&nbsp;_ “somewhere”; _где-нибудь&nbsp;_ “anywhere”; 
+* _когда-то&nbsp;_ “sometimes”; _когда-нибудь&nbsp;_ “anytime”; _некогда&nbsp;_ “once (long ago)”
+* _как-то&nbsp;_ “somehow”; _как-нибудь&nbsp;_ “anyhow”.
