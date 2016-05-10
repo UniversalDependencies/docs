@@ -69,28 +69,24 @@ The following 9 pairs of parts of speech are connected with `parataxis`: [ga-pos
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 13 parataxis	color:blue
-1	Ní	is	VERB	Cop	Negative=Neg|Tense=Pres|VerbForm=Cop	2	cop	_	_
-2	cosúil	cosúil	ADJ	Adj	Degree=Pos	0	root	_	_
-3	go	go	PART	Vb	PartType=Cmpl	4	mark:prt	_	_
-4	raibh	bí	VERB	PastInd	Form=Ecl|Mood=Ind|Tense=Past	2	csubj:cop	_	_
-5	mórán	mórán	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	4	nsubj	_	_
-6	le_cois	le_cois	ADP	Cmpd	PrepForm=Cmpd	8	case	_	_
-7	dhá	dó	NUM	Num	NumType=Card	8	nummod	_	_
-8	scór	scór	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	5	nmod	_	_
-9	uilig	uile	DET	Det	_	8	det	_	_
-10	acu	ag	ADP	Prep	Number=Plur|Person=3	9	compound	_	_
-11	istigh	istigh	ADV	Dir	_	4	xcomp:pred	_	_
-12	-	-	PUNCT	Punct	_	13	punct	_	_
-13	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	2	parataxis	_	_
-14	100	100	NUM	Num	_	13	nsubj	_	_
-15	i	i	ADP	Simp	_	16	case	_	_
-16	nGaillimh	Gaillimh	PROPN	Noun	Case=Com|Form=Ecl|Gender=Fem|Number=Sing	13	nmod	_	_
-17	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 9 parataxis	color:blue
+1	Bricfeasta	bricfeasta	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	0	root	_	_
+2	Gaelach	gaelach	ADJ	Adj	Case=Com|Gender=Masc|Number=Sing	1	amod	_	_
+3	sa	i	ADP	Art	Number=Sing|PronType=Art	4	case	_	_
+4	bhialann	bialann	NOUN	Noun	Case=Com|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
+5	2.00-6.00	2.00-6.00	NUM	Num	_	4	nummod	_	_
+6	in	i	ADP	Simp	_	7	case	_	_
+7	BRICRIÚ	BRICRIÚ	PROPN	Noun	Case=Com|Gender=Masc|Number=Sing	1	nmod	_	_
+8	:	:	PUNCT	Punct	_	9	punct	_	_
+9	Beidh	bí	VERB	FutInd	Mood=Ind|Tense=Fut	1	parataxis	_	_
+10	mé	mé	PRON	Pers	Number=Sing|Person=1	9	nsubj	_	_
+11	díreach	díreach	ADJ	Adj	Degree=Pos	9	xcomp:pred	_	_
+12	leat	le	ADP	Prep	Number=Sing|Person=2	9	nmod:prep	_	_
+13	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

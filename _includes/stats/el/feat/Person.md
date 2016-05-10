@@ -39,15 +39,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-2775 [el-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
+2775 [el-pos/PRON]() tokens (23% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1652; 60%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2775; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1652; 60%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (273; 10% of non-empty `Person`): <em>μας, μου, εμείς, εμάς, εγώ, με, μένα, το, του, τους</em>
 * `2` (72; 3% of non-empty `Person`): <em>σας, εσείς, εσάς</em>
 * `3` (2430; 88% of non-empty `Person`): <em>που, τους, αυτό, του, αυτή, οποία, της, οποίο, το, αυτά</em>
+* `EMPTY` (9465): <em>την, το, της, η, του, των, ο, οι, τα, τη</em>
 
 <table>
   <tr><th>Paradigm <i>μου</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -72,6 +73,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (91; 70%),
 <tt>PRON --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (20; 69%),
 <tt>PRON --[<a href="../dep/cop.html">cop</a>]--> VERB</tt> (17; 94%),
-<tt>PRON --[<a href="../dep/det.html">det</a>]--> PRON</tt> (9; 100%),
-<tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> PRON</tt> (8; 80%).
+<tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> PRON</tt> (8; 80%),
+<tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (7; 70%).
 

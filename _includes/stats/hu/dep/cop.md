@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-111 nodes (0%) are attached to their parents as `cop`.
+169 nodes (0%) are attached to their parents as `cop`.
 
-84 instances of `cop` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.38738738738739.
+124 instances of `cop` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.43786982248521.
 
-The following 5 pairs of parts of speech are connected with `cop`: [hu-pos/ADJ]()-[hu-pos/VERB]() (60; 54% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (39; 35% instances), [hu-pos/PRON]()-[hu-pos/VERB]() (5; 5% instances), [hu-pos/PROPN]()-[hu-pos/VERB]() (4; 4% instances), [hu-pos/ADV]()-[hu-pos/VERB]() (3; 3% instances).
+The following 7 pairs of parts of speech are connected with `cop`: [hu-pos/ADJ]()-[hu-pos/VERB]() (78; 46% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (66; 39% instances), [hu-pos/PRON]()-[hu-pos/VERB]() (10; 6% instances), [hu-pos/PROPN]()-[hu-pos/VERB]() (6; 4% instances), [hu-pos/ADV]()-[hu-pos/VERB]() (5; 3% instances), [hu-pos/NUM]()-[hu-pos/VERB]() (3; 2% instances), [hu-pos/VERB]()-[hu-pos/VERB]() (1; 1% instances).
 
 
 ~~~ conllu

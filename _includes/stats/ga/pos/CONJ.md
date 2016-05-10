@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  <em>agus, nó, ná, is, no, ach, &, 's, Gus,
 
 The 10 most frequent ambiguous lemmas: <em>agus</em> ([CONJ]() 625, [SCONJ]() 18), <em>nó</em> ([CONJ]() 100, [SCONJ]() 1), <em>ná</em> ([CONJ]() 55, [PART]() 10, [SCONJ]() 8), <em>ach</em> ([SCONJ]() 132, [CONJ]() 3), <em>no</em> ([CONJ]() 2, [NOUN]() 1), <em>dá</em> ([SCONJ]() 21, [CONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>agus</em> ([CONJ]() 559, [SCONJ]() 11), <em>nó</em> ([CONJ]() 93, [SCONJ]() 1), <em>ná</em> ([CONJ]() 54, [SCONJ]() 8, [PART]() 8, [X]() 1), <em>is</em> ([VERB]() 69, [CONJ]() 40, [PART]() 30, [SCONJ]() 4), <em>no</em> ([CONJ]() 8, [NOUN]() 1), <em>ach</em> ([SCONJ]() 95, [CONJ]() 2), <em>dá</em> ([ADP]() 32, [SCONJ]() 13, [NUM]() 8, [CONJ]() 1)
+The 10 most frequent ambiguous types:  <em>agus</em> ([CONJ]() 559, [SCONJ]() 11), <em>nó</em> ([CONJ]() 93, [SCONJ]() 1), <em>ná</em> ([CONJ]() 54, [PART]() 8, [SCONJ]() 8, [X]() 1), <em>is</em> ([VERB]() 69, [CONJ]() 40, [PART]() 30, [SCONJ]() 4), <em>no</em> ([CONJ]() 8, [NOUN]() 1), <em>ach</em> ([SCONJ]() 95, [CONJ]() 2), <em>dá</em> ([ADP]() 32, [SCONJ]() 13, [NUM]() 8, [CONJ]() 1)
 
 
 * <em>agus</em>
@@ -24,8 +24,8 @@ The 10 most frequent ambiguous types:  <em>agus</em> ([CONJ]() 559, [SCONJ]() 11
   * [SCONJ]() 1: <em>Crothnófar Pól <b>nó</b> ba úrlabhraí maith é ar Raidió na Gaeltachta agus na meáin eile ag cosaint na n-oifigí poist tuaithe , gné am-tábhachtach de shaol sóisialta na ndaoine .</em>
 * <em>ná</em>
   * [CONJ]() 54: <em>Is fearr liom úlla <b>ná</b> oráistí .</em>
-  * [SCONJ]() 8: <em>An rud a bhí ar intinn agam a dhéanamh <b>ná</b> post a fháil agus freastal ar an ollscoil san oíche .</em>
   * [PART]() 8: <em>Cad ina thaobh <b>ná</b> haithneodh , <b>ná</b> fuil sé do mo mhúineadh ?</em>
+  * [SCONJ]() 8: <em>An rud a bhí ar intinn agam a dhéanamh <b>ná</b> post a fháil agus freastal ar an ollscoil san oíche .</em>
   * [X]() 1: <em>(5) Beidh cóip a thugann le tuisgint gur cóip í do clóbhuaileadh agus do foillsíodh ag an gComhairle no don Chomhairle fén alt so den chlár de dhochtúirí leighis a bheidh de thurus na huaire ar an gclár de dhochtúirí leighis is déanaí do clóbhuaileadh agus do foillsíodh amhlaidh , beidh an chóip sin ina fianaise in aon chúirt , go_dtí go gcruthófar a mhalairt , ar gach éinne go bhfuil a ainm iontrálta sa chlár san de dhochtúirí leighis do bheith cláruithe sa chlár fén Acht so agus dá réir agus ar éinne <b>ná</b> fuil a ainm iontrálta sa chlár san de dhochtúirí leighis do bheith gan bheith cláruithe amhlaidh .</em>
 * <em>is</em>
   * [VERB]() 69: <em>Cailín <b>is</b> ea í .</em>

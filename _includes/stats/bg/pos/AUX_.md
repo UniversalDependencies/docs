@@ -72,7 +72,7 @@ Examples: <em>е</em>
 
 `AUX` nodes are attached to their parents using 3 different relations: [bg-dep/aux]() (1608; 79% instances), [bg-dep/auxpass]() (420; 21% instances), [bg-dep/cop]() (3; 0% instances)
 
-Parents of `AUX` nodes belong to 2 different parts of speech: [VERB]() (2028; 100% instances), [ADJ]() (3; 0% instances)
+Parents of `AUX` nodes belong to 6 different parts of speech: [VERB]() (1980; 97% instances), [NOUN]() (27; 1% instances), [ADJ]() (13; 1% instances), [ADV]() (9; 0% instances), [PRON]() (1; 0% instances), [PROPN]() (1; 0% instances)
 
 2030 (100%) `AUX` nodes are leaves.
 

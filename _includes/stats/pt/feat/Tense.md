@@ -74,11 +74,11 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 `INTJ` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>viu</em>
-* `EMPTY` (45): <em>não, Rarará, Deus, é, Adeus, Ah, Ai, Alô, BINGO, Droga</em>
+* `EMPTY` (44): <em>não, Rarará, Deus, é, Adeus, Ah, Ai, Alô, BINGO, Droga</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (831; 71%),
-<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (20; 57%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (758; 66%),
+<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (2; 100%).
 

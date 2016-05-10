@@ -4,7 +4,7 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 2357 `ADJ` lemmas (12%), 3551 `ADJ` types (12%) and 10876 `ADJ` tokens (5%).
+There are 2356 `ADJ` lemmas (12%), 3550 `ADJ` types (12%) and 10876 `ADJ` tokens (5%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>grande, novo, primeiro, bom, último, próximo, político, pequeno, segundo, público</em>
@@ -13,12 +13,12 @@ The 10 most frequent `ADJ` types:  <em>grande, maior, primeiro, novo, primeira, 
 
 The 10 most frequent ambiguous lemmas: <em>novo</em> ([ADJ]() 288, [NOUN]() 15), <em>primeiro</em> ([ADJ]() 279, [ADV]() 13, [NOUN]() 1), <em>bom</em> ([ADJ]() 220, [NOUN]() 8), <em>último</em> ([ADJ]() 185, [NOUN]() 1), <em>próximo</em> ([ADJ]() 123, [ADV]() 1), <em>político</em> ([ADJ]() 114, [NOUN]() 15), <em>pequeno</em> ([ADJ]() 110, [NOUN]() 3), <em>segundo</em> ([ADP]() 194, [ADJ]() 104, [NOUN]() 11, [ADV]() 6), <em>público</em> ([ADJ]() 92, [NOUN]() 53), <em>português</em> ([ADJ]() 90, [NOUN]() 44, [PROPN]() 2)
 
-The 10 most frequent ambiguous types:  <em>primeiro</em> ([ADJ]() 129, [ADV]() 7), <em>novo</em> ([ADJ]() 105, [NOUN]() 14), <em>primeira</em> ([ADJ]() 108, [NOUN]() 22), <em>nova</em> ([ADJ]() 90, [NOUN]() 8), <em>melhor</em> ([ADJ]() 68, [ADV]() 16, [NOUN]() 2), <em>último</em> ([ADJ]() 57, [NOUN]() 1), <em>última</em> ([ADJ]() 56, [NOUN]() 2), <em>segundo</em> ([ADP]() 75, [ADJ]() 55, [ADV]() 4, [NOUN]() 4), <em>segunda</em> ([ADJ]() 48, [NOUN]() 5), <em>boa</em> ([ADJ]() 45, [NOUN]() 5)
+The 10 most frequent ambiguous types:  <em>primeiro</em> ([ADJ]() 129, [ADV]() 7), <em>novo</em> ([ADJ]() 105, [NOUN]() 14), <em>primeira</em> ([ADJ]() 108, [NOUN]() 22), <em>nova</em> ([ADJ]() 90, [NOUN]() 8), <em>melhor</em> ([ADJ]() 68, [ADV]() 16, [NOUN]() 2), <em>último</em> ([ADJ]() 57, [NOUN]() 1), <em>última</em> ([ADJ]() 56, [NOUN]() 2), <em>segundo</em> ([ADP]() 75, [ADJ]() 55, [NOUN]() 4, [ADV]() 4), <em>segunda</em> ([ADJ]() 48, [NOUN]() 5), <em>boa</em> ([ADJ]() 45, [NOUN]() 5)
 
 
 * <em>primeiro</em>
   * [ADJ]() 129: <em>O <b>primeiro</b> reutiliza a forma de a coluna --</em>
-  * [ADV]() 7: <em>O carro atravessou- se , <b>primeiro</b> para a direita e depois para a esquerda , o_que me levou a tirar o pé de o acelerador .</em>
+  * [ADV]() 7: <em>O carro atravessou- se , <b>primeiro</b> para a direita e depois para a esquerda , o que me levou a tirar o pé de o acelerador .</em>
 * <em>novo</em>
   * [ADJ]() 105: <em>Líderes de a Bósnia respondem hoje a o <b>novo</b> plano de paz internacional</em>
   * [NOUN]() 14: <em>de <b>novo</b> a polémica a a ribalta .</em>
@@ -41,18 +41,18 @@ The 10 most frequent ambiguous types:  <em>primeiro</em> ([ADJ]() 129, [ADV]() 7
 * <em>segundo</em>
   * [ADP]() 75: <em>O Brasil « nunca esteve em apuros » , <b>segundo</b> o técnico .</em>
   * [ADJ]() 55: <em>O <b>segundo</b> , com algum humor , intitulou a sua peça « O meu corpo » ;</em>
-  * [ADV]() 4: <em>A cimeira sindical ibérica já não deverá realizar- se este ano , <b>segundo</b> apurou o PÚBLICO .</em>
   * [NOUN]() 4: <em>Este futebol que apazigua os desejos e termina com as nostalgias foi lançado desde o primeiro <b>segundo</b> .</em>
+  * [ADV]() 4: <em>A cimeira sindical ibérica já não deverá realizar- se este ano , <b>segundo</b> apurou o PÚBLICO .</em>
 * <em>segunda</em>
   * [ADJ]() 48: <em>Mas , por o que fez em a <b>segunda</b> parte , o Barcelona mereceu ganhar .</em>
   * [NOUN]() 5: <em>Emissora : Série em seis episódios , exibidos de <b>segunda</b> a quinta , em a Cultura .</em>
 * <em>boa</em>
   * [ADJ]() 45: <em>António Guterres possui uma <b>boa</b> relação com o teatro .</em>
-  * [NOUN]() 5: <em>A direcção já mostrou <b>boa</b> vontade , mas a greve prossegue em todas_as delegações de o país .</em>
+  * [NOUN]() 5: <em>A direcção já mostrou <b>boa</b> vontade , mas a greve prossegue em todas as delegações de o país .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.506576 (the average of all parts of speech is 1.447246).
+The form / lemma ratio of `ADJ` is 1.506791 (the average of all parts of speech is 1.447797).
 
 The 1st highest number of forms (9) was observed with the lemma “bom”: <em>boa, boas, bom, bons, melhor, melhores, mlehor, óptima, ótimo</em>.
 
@@ -65,29 +65,29 @@ The 3rd highest number of forms (8) was observed with the lemma “alto”: <em>
 `ADJ` occurs with 11 feature-value pairs: `AdpType=Prep`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
 `ADJ` occurs with 33 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (3567 tokens).
+The most frequent feature combination is `Gender=Masc|Number=Sing` (3566 tokens).
 Examples: <em>novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 26 different relations: [pt-dep/amod]() (8375; 77% instances), [pt-dep/conj]() (528; 5% instances), [pt-dep/root]() (466; 4% instances), [pt-dep/cc]() (414; 4% instances), [pt-dep/advmod]() (200; 2% instances), [pt-dep/xcomp]() (167; 2% instances), [pt-dep/ccomp]() (141; 1% instances), [pt-dep/nsubj]() (135; 1% instances), [pt-dep/dobj]() (89; 1% instances), [pt-dep/acl]() (71; 1% instances), [pt-dep/mwe]() (64; 1% instances), [pt-dep/advcl]() (63; 1% instances), [pt-dep/case]() (38; 0% instances), [pt-dep/punct]() (36; 0% instances), [pt-dep/nmod]() (21; 0% instances), [pt-dep/appos]() (17; 0% instances), [pt-dep/name]() (15; 0% instances), [pt-dep/parataxis]() (10; 0% instances), [pt-dep/csubj]() (8; 0% instances), [pt-dep/iobj]() (5; 0% instances), [pt-dep/mark]() (5; 0% instances), [pt-dep/dep]() (3; 0% instances), [pt-dep/cop]() (2; 0% instances), [pt-dep/advmod:emph]() (1; 0% instances), [pt-dep/compound]() (1; 0% instances), [pt-dep/nummod]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 26 different relations: [pt-dep/amod]() (8701; 80% instances), [pt-dep/conj]() (532; 5% instances), [pt-dep/root]() (483; 4% instances), [pt-dep/advmod]() (221; 2% instances), [pt-dep/xcomp]() (176; 2% instances), [pt-dep/ccomp]() (173; 2% instances), [pt-dep/nsubj]() (132; 1% instances), [pt-dep/dobj]() (93; 1% instances), [pt-dep/acl]() (92; 1% instances), [pt-dep/advcl]() (69; 1% instances), [pt-dep/mwe]() (64; 1% instances), [pt-dep/case]() (38; 0% instances), [pt-dep/appos]() (23; 0% instances), [pt-dep/nmod]() (19; 0% instances), [pt-dep/name]() (15; 0% instances), [pt-dep/csubj]() (10; 0% instances), [pt-dep/parataxis]() (10; 0% instances), [pt-dep/nsubjpass]() (6; 0% instances), [pt-dep/iobj]() (5; 0% instances), [pt-dep/mark]() (5; 0% instances), [pt-dep/dep]() (3; 0% instances), [pt-dep/cop]() (2; 0% instances), [pt-dep/advmod:emph]() (1; 0% instances), [pt-dep/compound]() (1; 0% instances), [pt-dep/det]() (1; 0% instances), [pt-dep/nummod]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 13 different parts of speech: [NOUN]() (8576; 79% instances), [VERB]() (907; 8% instances), [ADJ]() (491; 5% instances), [ROOT]() (466; 4% instances), [PROPN]() (249; 2% instances), [ADP]() (68; 1% instances), [PRON]() (51; 0% instances), [ADV]() (31; 0% instances), [NUM]() (17; 0% instances), [SYM]() (14; 0% instances), [DET]() (4; 0% instances), [CONJ]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 13 different parts of speech: [NOUN]() (8580; 79% instances), [VERB]() (881; 8% instances), [ADJ]() (494; 5% instances), [ROOT]() (483; 4% instances), [PROPN]() (252; 2% instances), [ADP]() (62; 1% instances), [PRON]() (40; 0% instances), [ADV]() (29; 0% instances), [DET]() (20; 0% instances), [NUM]() (19; 0% instances), [SYM]() (14; 0% instances), [CONJ]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 
-8162 (75%) `ADJ` nodes are leaves.
+8161 (75%) `ADJ` nodes are leaves.
 
 898 (8%) `ADJ` nodes have one child.
 
-658 (6%) `ADJ` nodes have two children.
+635 (6%) `ADJ` nodes have two children.
 
-1158 (11%) `ADJ` nodes have three or more children.
+1182 (11%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 12.
 
-Children of `ADJ` nodes are attached using 24 different relations: [pt-dep/punct]() (1304; 17% instances), [pt-dep/advmod]() (966; 13% instances), [pt-dep/cop]() (936; 12% instances), [pt-dep/nmod]() (819; 11% instances), [pt-dep/cc]() (639; 8% instances), [pt-dep/conj]() (614; 8% instances), [pt-dep/det]() (542; 7% instances), [pt-dep/nsubj]() (503; 7% instances), [pt-dep/case]() (379; 5% instances), [pt-dep/advcl]() (234; 3% instances), [pt-dep/mark]() (152; 2% instances), [pt-dep/csubj]() (141; 2% instances), [pt-dep/acl]() (94; 1% instances), [pt-dep/neg]() (80; 1% instances), [pt-dep/mwe]() (60; 1% instances), [pt-dep/amod]() (54; 1% instances), [pt-dep/nummod]() (35; 0% instances), [pt-dep/name]() (27; 0% instances), [pt-dep/dobj]() (26; 0% instances), [pt-dep/appos]() (15; 0% instances), [pt-dep/dep]() (15; 0% instances), [pt-dep/compound]() (2; 0% instances), [pt-dep/ccomp]() (1; 0% instances), [pt-dep/parataxis]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 24 different relations: [pt-dep/punct]() (1338; 17% instances), [pt-dep/advmod]() (1002; 13% instances), [pt-dep/cop]() (988; 13% instances), [pt-dep/nmod]() (838; 11% instances), [pt-dep/conj]() (618; 8% instances), [pt-dep/nsubj]() (554; 7% instances), [pt-dep/cc]() (546; 7% instances), [pt-dep/det]() (544; 7% instances), [pt-dep/case]() (377; 5% instances), [pt-dep/advcl]() (252; 3% instances), [pt-dep/mark]() (162; 2% instances), [pt-dep/csubj]() (156; 2% instances), [pt-dep/acl]() (99; 1% instances), [pt-dep/neg]() (84; 1% instances), [pt-dep/mwe]() (60; 1% instances), [pt-dep/amod]() (59; 1% instances), [pt-dep/nummod]() (38; 0% instances), [pt-dep/dobj]() (29; 0% instances), [pt-dep/name]() (27; 0% instances), [pt-dep/dep]() (19; 0% instances), [pt-dep/appos]() (17; 0% instances), [pt-dep/compound]() (4; 0% instances), [pt-dep/ccomp]() (2; 0% instances), [pt-dep/parataxis]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 14 different parts of speech: [VERB]() (1515; 20% instances), [PUNCT]() (1297; 17% instances), [NOUN]() (1131; 15% instances), [ADV]() (969; 13% instances), [DET]() (573; 8% instances), [CONJ]() (530; 7% instances), [ADJ]() (491; 6% instances), [ADP]() (448; 6% instances), [PROPN]() (252; 3% instances), [PRON]() (214; 3% instances), [SCONJ]() (151; 2% instances), [NUM]() (56; 1% instances), [SYM]() (11; 0% instances), [PART]() (1; 0% instances)
+Children of `ADJ` nodes belong to 14 different parts of speech: [VERB]() (1569; 20% instances), [PUNCT]() (1338; 17% instances), [NOUN]() (1161; 15% instances), [ADV]() (978; 13% instances), [DET]() (608; 8% instances), [CONJ]() (534; 7% instances), [ADJ]() (494; 6% instances), [ADP]() (452; 6% instances), [PROPN]() (263; 3% instances), [PRON]() (185; 2% instances), [SCONJ]() (164; 2% instances), [NUM]() (56; 1% instances), [SYM]() (11; 0% instances), [PART]() (1; 0% instances)
 
 
 
@@ -104,7 +104,7 @@ The 10 most frequent `ADJ` types:  <em>maior, grande, primeiro, primeira, novo, 
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 57316, [ADP]() 51928, [PUNCT]() 42033, [PROPN]() 32948, [VERB]() 29700, [DET]() 26122, [ADJ]() 15107, [CONJ]() 10984, [ADV]() 9773, [NUM]() 8491, [PRON]() 7392, [AUX]() 5242, [PART]() 748, [X]() 539)
 
-The 10 most frequent ambiguous types:  <em>maior</em> ([ADJ]() 202, [NOUN]() 5, [PROPN]() 1), <em>primeiro</em> ([ADJ]() 165, [NOUN]() 21, [ADV]() 14), <em>primeira</em> ([ADJ]() 151, [NOUN]() 17, [NUM]() 1), <em>novo</em> ([ADJ]() 117, [PROPN]() 1, [NOUN]() 1), <em>última</em> ([ADJ]() 108, [NOUN]() 6), <em>segundo</em> ([ADP]() 122, [ADJ]() 102, [NOUN]() 14, [CONJ]() 7, [ADV]() 1), <em>mesmo</em> ([ADJ]() 101, [ADV]() 98, [PRON]() 14, [NOUN]() 10, [CONJ]() 2, [ADP]() 1), <em>segunda</em> ([PROPN]() 107, [ADJ]() 100, [NOUN]() 8), <em>próximo</em> ([ADJ]() 88, [ADV]() 21, [NOUN]() 2), <em>melhor</em> ([ADJ]() 82, [NOUN]() 18, [ADV]() 13)
+The 10 most frequent ambiguous types:  <em>maior</em> ([ADJ]() 202, [NOUN]() 5, [PROPN]() 1), <em>primeiro</em> ([ADJ]() 165, [NOUN]() 21, [ADV]() 14), <em>primeira</em> ([ADJ]() 151, [NOUN]() 17, [NUM]() 1), <em>novo</em> ([ADJ]() 117, [NOUN]() 1, [PROPN]() 1), <em>última</em> ([ADJ]() 108, [NOUN]() 6), <em>segundo</em> ([ADP]() 122, [ADJ]() 102, [NOUN]() 14, [CONJ]() 7, [ADV]() 1), <em>mesmo</em> ([ADJ]() 101, [ADV]() 98, [PRON]() 14, [NOUN]() 10, [CONJ]() 2, [ADP]() 1), <em>segunda</em> ([PROPN]() 107, [ADJ]() 100, [NOUN]() 8), <em>próximo</em> ([ADJ]() 88, [ADV]() 21, [NOUN]() 2), <em>melhor</em> ([ADJ]() 82, [NOUN]() 18, [ADV]() 13)
 
 
 * <em>maior</em>
@@ -121,8 +121,8 @@ The 10 most frequent ambiguous types:  <em>maior</em> ([ADJ]() 202, [NOUN]() 5, 
   * [NUM]() 1: <em>Trata - se das termoeléctricas Pecém I , Pecém II e Itaqui , sendo a <b>primeira</b> compartilhada em partes iguais por EDP e MPX , e as duas últimas de propriedade integral da empresa controlada por Eike .</em>
 * <em>novo</em>
   * [ADJ]() 117: <em>Com isso , as ações , de fato , ganharam <b>novo</b> ritmo .</em>
-  * [PROPN]() 1: <em>Já o candidato Carlos Amastha ( PP ) , coligação " Um <b>novo</b> caminho é possível " , grava programa eleitoral , faz reunião com coordenadores de campanha e se prepara para o debate .</em>
   * [NOUN]() 1: <em>Mas foi o trabalho atual que o impulsionou a pegar de <b>novo</b> nos cadernos .</em>
+  * [PROPN]() 1: <em>Já o candidato Carlos Amastha ( PP ) , coligação " Um <b>novo</b> caminho é possível " , grava programa eleitoral , faz reunião com coordenadores de campanha e se prepara para o debate .</em>
 * <em>última</em>
   * [ADJ]() 108: <em>Mas segundo informações do Extra , Nina dá sua <b>última</b> cartada :</em>
   * [NOUN]() 6: <em>Inclusive aquela <b>última</b> .</em>

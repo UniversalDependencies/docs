@@ -10,11 +10,11 @@ It occurs with 5 different values: `Acc`, `Dat`, `Gen`, `Nom`, `Voc`.
 33165 tokens (56%) have a non-empty value of `Case`.
 7475 types (67%) occur at least once with a non-empty value of `Case`.
 4028 lemmas (65%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: [el-pos/NOUN]() (14005; 24% instances), [el-pos/DET]() (9465; 16% instances), [el-pos/ADJ]() (4693; 8% instances), [el-pos/PRON]() (2775; 5% instances), [el-pos/ADP]() (1612; 3% instances), [el-pos/NUM]() (495; 1% instances), [el-pos/VERB]() (120; 0% instances).
+The feature is used with 6 part-of-speech tags: [el-pos/NOUN]() (14005; 24% instances), [el-pos/PRON]() (12240; 21% instances), [el-pos/ADJ]() (4693; 8% instances), [el-pos/ADP]() (1612; 3% instances), [el-pos/NUM]() (495; 1% instances), [el-pos/VERB]() (120; 0% instances).
 
 ### `NOUN`
 
-14005 [el-pos/NOUN]() tokens (92% of all `NOUN` tokens) have a non-empty value of `Case`.
+14005 [el-pos/NOUN]() tokens (90% of all `NOUN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (9927; 71%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (7597; 54%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Gen` (3856; 28% of non-empty `Case`): <em>επιτροπής, ένωσης, Κοινοβουλίου, Συμβουλίου, νησιού, πολιτών, Εξωτερικών, εργασίας, χώρας, κυβέρνησης</em>
 * `Nom` (3250; 23% of non-empty `Case`): <em>επιτροπή, Συμβούλιο, πρόεδρος, υπουργός, κοινοβούλιο, ένωση, μέλη, κυβέρνηση, ομάδα, πρόγραμμα</em>
 * `Voc` (60; 0% of non-empty `Case`): <em>κύριε, Πρόεδρε, κυρίες, κύριοι, κυρία, Επίτροπε, Αντιπρόεδρε, Προεδρεύοντα, βουλευτές, συνάδελφοι</em>
-* `EMPTY` (1252): <em>αλ, Κάστρο, σκορ, Αφγανιστάν, Ουάσιγκτον, Σαντόρουμ, Μιτ, Ομπάμα, Ρικ, Ρόμνεϊ</em>
+* `EMPTY` (1598): <em>ΗΠΑ, κ., ΕΕ, αλ, χλμ., Κάστρο, σκορ, Αφγανιστάν, Ουάσιγκτον, ΟΗΕ</em>
 
 <table>
   <tr><th>Paradigm <i>πρόεδρος</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
@@ -34,22 +34,22 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>Πρόεδρος</em></td><td><em>πρόεδρο</em></td><td></td><td></td></tr>
 </table>
 
-### `DET`
+### `PRON`
 
-9465 [el-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+12240 [el-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (9017; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (7192; 76%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (5108; 54%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (9465; 77%), <tt><a href="PronType.html">PronType</a>=Art</tt> (9465; 77%), <tt><a href="Definite.html">Definite</a>=Def</tt> (9017; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (8844; 72%).
 
-`DET` tokens may have the following values of `Case`:
+`PRON` tokens may have the following values of `Case`:
 
-* `Acc` (3790; 40% of non-empty `Case`): <em>την, το, τη, τις, τον, τα, τους, μια, ένα, μία</em>
+* `Acc` (4748; 39% of non-empty `Case`): <em>την, το, τη, τις, τον, τα, τους, που, αυτό, μια</em>
 * `Dat` (3; 0% of non-empty `Case`): <em>τω, τη</em>
-* `Gen` (2792; 29% of non-empty `Case`): <em>της, του, των, ενός, μιας, μίας, τις</em>
-* `Nom` (2880; 30% of non-empty `Case`): <em>η, ο, οι, το, τα, ένα, μια, ένας, μία, O</em>
+* `Gen` (3646; 30% of non-empty `Case`): <em>της, του, των, τους, μας, μου, σας, αυτής, αυτού, μιας</em>
+* `Nom` (3843; 31% of non-empty `Case`): <em>η, ο, οι, το, που, τα, αυτό, οποία, αυτή, ένα</em>
 
 <table>
   <tr><th>Paradigm <i>ο</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ο, το, O</em></td><td><em>τον, το</em></td><td></td><td><em>του</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ο, O, το</em></td><td><em>τον, το</em></td><td></td><td><em>του</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>οι</em></td><td><em>τους</em></td><td></td><td><em>των</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>η</em></td><td><em>την, τη</em></td><td><em>τη</em></td><td><em>της, τις</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>οι</em></td><td><em>τις</em></td><td></td><td><em>των</em></td></tr>
@@ -81,28 +81,6 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>ευρωπαϊκά</em></td><td><em>ευρωπαϊκά</em></td><td><em>ευρωπαϊκών</em></td></tr>
 </table>
 
-### `PRON`
-
-2775 [el-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (2430; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (1652; 60%).
-
-`PRON` tokens may have the following values of `Case`:
-
-* `Acc` (958; 35% of non-empty `Case`): <em>που, αυτό, αυτή, οποία, το, οποίο, αυτές, αυτά, μας, οποίες</em>
-* `Gen` (854; 31% of non-empty `Case`): <em>τους, μας, του, της, μου, σας, αυτής, αυτού, αυτών, άλλων</em>
-* `Nom` (963; 35% of non-empty `Case`): <em>που, αυτό, οποία, αυτή, οποίος, οποίο, εμείς, αυτά, αυτές, οποίες</em>
-
-<table>
-  <tr><th>Paradigm <i>που</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>που</em></td><td><em>που</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>που</em></td><td><em>που</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>που</em></td><td><em>που</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>που</em></td><td><em>που</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>που</em></td><td><em>που</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>που</em></td><td><em>που</em></td><td><em>που</em></td></tr>
-</table>
-
 ### `ADP`
 
 1612 [el-pos/ADP]() tokens (32% of all `ADP` tokens) have a non-empty value of `Case`.
@@ -118,7 +96,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 495 [el-pos/NUM]() tokens (52% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (277; 56%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (297; 60%), <tt><a href="Number.html">Number</a>=Plur</tt> (277; 56%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -138,7 +116,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 120 [el-pos/VERB]() tokens (2% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (120; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (120; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (120; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (120; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (74; 62%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (120; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (120; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (120; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (120; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (74; 62%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -156,14 +134,14 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (8017; 93%),
+<tt>NOUN --[<a href="../dep/det.html">det</a>]--> PRON</tt> (8339; 92%),
 <tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (3776; 98%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (952; 94%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (952; 91%),
 <tt>NOUN --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (346; 90%),
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> PRON</tt> (322; 97%),
-<tt>PRON --[<a href="../dep/det.html">det</a>]--> DET</tt> (307; 99%),
-<tt>ADJ --[<a href="../dep/det.html">det</a>]--> DET</tt> (204; 100%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (164; 87%),
+<tt>PRON --[<a href="../dep/det.html">det</a>]--> PRON</tt> (315; 98%),
+<tt>ADJ --[<a href="../dep/det.html">det</a>]--> PRON</tt> (206; 97%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (164; 85%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (130; 99%),
-<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (107; 56%).
+<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (107; 55%),
+<tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (100; 61%).
 

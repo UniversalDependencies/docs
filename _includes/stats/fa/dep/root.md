@@ -11,7 +11,7 @@ This relation is universal.
 5997 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 10.8465899616475.
 
-The following 9 pairs of parts of speech are connected with `root`: [fa-pos/ROOT]()-[fa-pos/VERB]() (3953; 66% instances), [fa-pos/ROOT]()-[fa-pos/NOUN]() (1069; 18% instances), [fa-pos/ROOT]()-[fa-pos/ADJ]() (818; 14% instances), [fa-pos/ROOT]()-[fa-pos/PRON]() (87; 1% instances), [fa-pos/ROOT]()-[fa-pos/ADV]() (48; 1% instances), [fa-pos/ROOT]()-[fa-pos/NUM]() (16; 0% instances), [fa-pos/ROOT]()-[fa-pos/INTJ]() (4; 0% instances), [fa-pos/ROOT]()-[fa-pos/CONJ]() (1; 0% instances), [fa-pos/ROOT]()-[fa-pos/DET]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: [fa-pos/ROOT]()-[fa-pos/VERB]() (3953; 66% instances), [fa-pos/ROOT]()-[fa-pos/NOUN]() (1069; 18% instances), [fa-pos/ROOT]()-[fa-pos/ADJ]() (819; 14% instances), [fa-pos/ROOT]()-[fa-pos/PRON]() (88; 1% instances), [fa-pos/ROOT]()-[fa-pos/ADV]() (47; 1% instances), [fa-pos/ROOT]()-[fa-pos/NUM]() (16; 0% instances), [fa-pos/ROOT]()-[fa-pos/INTJ]() (4; 0% instances), [fa-pos/ROOT]()-[fa-pos/CONJ]() (1; 0% instances).
 
 
 ~~~ conllu

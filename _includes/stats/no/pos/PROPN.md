@@ -4,7 +4,7 @@
 
 ## Treebank Statistics (UD_Norwegian)
 
-There are 4641 `PROPN` lemmas (19%), 5009 `PROPN` types (15%) and 18261 `PROPN` tokens (6%).
+There are 4640 `PROPN` lemmas (19%), 5008 `PROPN` types (15%) and 18260 `PROPN` tokens (6%).
 Out of 17 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 2 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Norge, Regjeringen, Obama, USA, Oslo, Jan, Cathrine, Stortinget, Svalbard, Den</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>Regjeringen</em> ([PROPN]() 168, [NOU
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.079293 (the average of all parts of speech is 1.382585).
+The form / lemma ratio of `PROPN` is 1.079310 (the average of all parts of speech is 1.382722).
 
 The 1st highest number of forms (3) was observed with the lemma “Demokratene”: <em>Demokratene, demokratenes, demokretane</em>.
 
@@ -66,17 +66,17 @@ The 3rd highest number of forms (3) was observed with the lemma “FN”: <em>FN
 `PROPN` occurs with 4 feature-value pairs: `Case=Gen`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`
 
 `PROPN` occurs with 8 feature combinations.
-The most frequent feature combination is `_` (14462 tokens).
+The most frequent feature combination is `_` (14461 tokens).
 Examples: <em>Norge, Obama, Regjeringen, Oslo, USA, Den, Svalbard, Mayen, Cathrine, Bertelsen</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 19 different relations: [no-dep/nmod]() (5178; 28% instances), [no-dep/nsubj]() (4683; 26% instances), [no-dep/name]() (4329; 24% instances), [no-dep/det]() (1235; 7% instances), [no-dep/conj]() (1152; 6% instances), [no-dep/dobj]() (570; 3% instances), [no-dep/root]() (520; 3% instances), [no-dep/nsubjpass]() (188; 1% instances), [no-dep/appos]() (121; 1% instances), [no-dep/parataxis]() (120; 1% instances), [no-dep/xcomp]() (57; 0% instances), [no-dep/iobj]() (48; 0% instances), [no-dep/remnant]() (32; 0% instances), [no-dep/advcl]() (10; 0% instances), [no-dep/acl]() (6; 0% instances), [no-dep/acl:relcl]() (5; 0% instances), [no-dep/ccomp]() (4; 0% instances), [no-dep/csubj]() (2; 0% instances), [no-dep/goeswith]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 21 different relations: [no-dep/nmod]() (5183; 28% instances), [no-dep/nsubj]() (4683; 26% instances), [no-dep/name]() (4215; 23% instances), [no-dep/det]() (1235; 7% instances), [no-dep/conj]() (1152; 6% instances), [no-dep/dobj]() (570; 3% instances), [no-dep/root]() (520; 3% instances), [no-dep/nsubjpass]() (188; 1% instances), [no-dep/parataxis]() (120; 1% instances), [no-dep/appos]() (115; 1% instances), [no-dep/compound]() (110; 1% instances), [no-dep/xcomp]() (57; 0% instances), [no-dep/iobj]() (48; 0% instances), [no-dep/remnant]() (32; 0% instances), [no-dep/advcl]() (10; 0% instances), [no-dep/acl]() (6; 0% instances), [no-dep/acl:relcl]() (5; 0% instances), [no-dep/ccomp]() (5; 0% instances), [no-dep/foreign]() (3; 0% instances), [no-dep/csubj]() (2; 0% instances), [no-dep/goeswith]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 13 different parts of speech: [VERB]() (6877; 38% instances), [PROPN]() (5865; 32% instances), [NOUN]() (4193; 23% instances), [ROOT]() (520; 3% instances), [ADJ]() (477; 3% instances), [DET]() (77; 0% instances), [PRON]() (75; 0% instances), [ADV]() (65; 0% instances), [NUM]() (49; 0% instances), [ADP]() (45; 0% instances), [INTJ]() (8; 0% instances), [X]() (6; 0% instances), [SYM]() (4; 0% instances)
+Parents of `PROPN` nodes belong to 13 different parts of speech: [VERB]() (6878; 38% instances), [PROPN]() (5865; 32% instances), [NOUN]() (4192; 23% instances), [ROOT]() (520; 3% instances), [ADJ]() (477; 3% instances), [DET]() (77; 0% instances), [PRON]() (75; 0% instances), [ADV]() (65; 0% instances), [NUM]() (49; 0% instances), [ADP]() (45; 0% instances), [INTJ]() (8; 0% instances), [X]() (5; 0% instances), [SYM]() (4; 0% instances)
 
-8972 (49%) `PROPN` nodes are leaves.
+8971 (49%) `PROPN` nodes are leaves.
 
 4310 (24%) `PROPN` nodes have one child.
 
@@ -86,7 +86,7 @@ Parents of `PROPN` nodes belong to 13 different parts of speech: [VERB]() (6877;
 
 The highest child degree of a `PROPN` node is 20.
 
-Children of `PROPN` nodes are attached using 28 different relations: [no-dep/case]() (5303; 27% instances), [no-dep/name]() (5158; 26% instances), [no-dep/punct]() (2872; 14% instances), [no-dep/appos]() (1758; 9% instances), [no-dep/conj]() (1235; 6% instances), [no-dep/nmod]() (980; 5% instances), [no-dep/cc]() (946; 5% instances), [no-dep/acl:relcl]() (314; 2% instances), [no-dep/det]() (256; 1% instances), [no-dep/amod]() (232; 1% instances), [no-dep/advmod]() (182; 1% instances), [no-dep/cop]() (161; 1% instances), [no-dep/foreign]() (154; 1% instances), [no-dep/acl]() (111; 1% instances), [no-dep/nsubj]() (98; 0% instances), [no-dep/expl]() (59; 0% instances), [no-dep/xcomp]() (35; 0% instances), [no-dep/parataxis]() (30; 0% instances), [no-dep/advcl]() (25; 0% instances), [no-dep/neg]() (19; 0% instances), [no-dep/mark]() (18; 0% instances), [no-dep/aux]() (11; 0% instances), [no-dep/nummod]() (3; 0% instances), [no-dep/csubj]() (2; 0% instances), [no-dep/remnant]() (2; 0% instances), [no-dep/discourse]() (1; 0% instances), [no-dep/dobj]() (1; 0% instances), [no-dep/goeswith]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 28 different relations: [no-dep/case]() (5271; 26% instances), [no-dep/name]() (5236; 26% instances), [no-dep/punct]() (2902; 15% instances), [no-dep/nmod]() (2407; 12% instances), [no-dep/conj]() (1234; 6% instances), [no-dep/cc]() (947; 5% instances), [no-dep/acl:relcl]() (314; 2% instances), [no-dep/advmod]() (259; 1% instances), [no-dep/appos]() (254; 1% instances), [no-dep/det]() (254; 1% instances), [no-dep/amod]() (232; 1% instances), [no-dep/cop]() (161; 1% instances), [no-dep/acl]() (111; 1% instances), [no-dep/nsubj]() (98; 0% instances), [no-dep/expl]() (59; 0% instances), [no-dep/mark]() (50; 0% instances), [no-dep/xcomp]() (35; 0% instances), [no-dep/parataxis]() (30; 0% instances), [no-dep/compound]() (29; 0% instances), [no-dep/advcl]() (25; 0% instances), [no-dep/nummod]() (22; 0% instances), [no-dep/neg]() (19; 0% instances), [no-dep/aux]() (10; 0% instances), [no-dep/csubj]() (2; 0% instances), [no-dep/remnant]() (2; 0% instances), [no-dep/discourse]() (1; 0% instances), [no-dep/dobj]() (1; 0% instances), [no-dep/goeswith]() (1; 0% instances)
 
-Children of `PROPN` nodes belong to 17 different parts of speech: [PROPN]() (5865; 29% instances), [ADP]() (5399; 27% instances), [PUNCT]() (2765; 14% instances), [NOUN]() (2728; 14% instances), [CONJ]() (990; 5% instances), [ADJ]() (527; 3% instances), [VERB]() (515; 3% instances), [NUM]() (244; 1% instances), [ADV]() (229; 1% instances), [DET]() (225; 1% instances), [SYM]() (163; 1% instances), [X]() (156; 1% instances), [PRON]() (128; 1% instances), [SCONJ]() (16; 0% instances), [AUX]() (11; 0% instances), [PART]() (5; 0% instances), [INTJ]() (1; 0% instances)
+Children of `PROPN` nodes belong to 17 different parts of speech: [PROPN]() (5865; 29% instances), [ADP]() (5399; 27% instances), [PUNCT]() (2902; 15% instances), [NOUN]() (2728; 14% instances), [CONJ]() (990; 5% instances), [ADJ]() (527; 3% instances), [VERB]() (515; 3% instances), [NUM]() (255; 1% instances), [ADV]() (229; 1% instances), [DET]() (214; 1% instances), [X]() (156; 1% instances), [PRON]() (128; 1% instances), [SYM]() (26; 0% instances), [SCONJ]() (16; 0% instances), [AUX]() (10; 0% instances), [PART]() (5; 0% instances), [INTJ]() (1; 0% instances)
 

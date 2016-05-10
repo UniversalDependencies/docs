@@ -7,7 +7,7 @@
 This relation is a language-specific subtype of [ccomp]().
 There are also 2 other language-specific subtypes of `ccomp`: [ccomp:obl](), [ccomp:pred]().
 
-209 nodes (1%) are attached to their parents as `ccomp:obj`.
+209 nodes (0%) are attached to their parents as `ccomp:obj`.
 
 169 instances of `ccomp:obj` (81%) are left-to-right (parent precedes child).
 Average distance between parent and child is 8.42583732057416.

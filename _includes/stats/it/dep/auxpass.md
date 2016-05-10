@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-2182 nodes (1%) are attached to their parents as `auxpass`.
+2180 nodes (1%) are attached to their parents as `auxpass`.
 
-2179 instances of `auxpass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16452795600367.
+2177 instances of `auxpass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16467889908257.
 
-The following 6 pairs of parts of speech are connected with `auxpass`: [it-pos/VERB]()-[it-pos/AUX]() (2151; 99% instances), [it-pos/VERB]()-[it-pos/VERB]() (18; 1% instances), [it-pos/ADJ]()-[it-pos/AUX]() (7; 0% instances), [it-pos/NOUN]()-[it-pos/AUX]() (4; 0% instances), [it-pos/PRON]()-[it-pos/AUX]() (1; 0% instances), [it-pos/X]()-[it-pos/AUX]() (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `auxpass`: [it-pos/VERB]()-[it-pos/AUX]() (2167; 99% instances), [it-pos/ADJ]()-[it-pos/AUX]() (7; 0% instances), [it-pos/NOUN]()-[it-pos/AUX]() (4; 0% instances), [it-pos/PRON]()-[it-pos/AUX]() (1; 0% instances), [it-pos/X]()-[it-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,22 +33,6 @@ The following 6 pairs of parts of speech are connected with `auxpass`: [it-pos/V
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 auxpass	color:blue
-1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	5	nsubjpass	_	_
-3	colloidale	colloidale	ADJ	A	Number=Sing	2	amod	_	_
-4	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	auxpass	_	_
-5	estrusa	estrusa	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-6	;	;	PUNCT	FC	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 8	bgColor:blue
@@ -63,6 +47,23 @@ The following 6 pairs of parts of speech are connected with `auxpass`: [it-pos/V
 7	molto	molto	ADV	B	_	8	advmod	_	_
 8	lunghe	lungo	ADJ	A	Gender=Fem|Number=Plur	1	advcl	_	_
 9	.	.	PUNCT	FS	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 auxpass	color:blue
+1	Quando	quando	ADV	B	_	3	advmod	_	_
+2	venne	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	auxpass	_	_
+3	fabbricato	fabbricato	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	asciugacapelli	asciugacapelli	NOUN	S	Gender=Masc	3	nsubjpass	_	_
+7	?	?	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

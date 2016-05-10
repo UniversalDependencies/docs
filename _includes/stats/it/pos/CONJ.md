@@ -4,16 +4,16 @@
 
 ## Treebank Statistics (UD_Italian)
 
-There are 34 `CONJ` lemmas (0%), 34 `CONJ` types (0%) and 7348 `CONJ` tokens (3%).
+There are 34 `CONJ` lemmas (0%), 33 `CONJ` types (0%) and 7348 `CONJ` tokens (3%).
 Out of 17 observed tags, the rank of `CONJ` is: 12 in number of lemmas, 13 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CONJ` lemmas: <em>e, o, ma, sia, né, ovvero, oppure, che, nonché, cioè</em>
 
 The 10 most frequent `CONJ` types:  <em>e, o, ma, ed, sia, né, ovvero, oppure, che, nè</em>
 
-The 10 most frequent ambiguous lemmas: <em>e</em> ([CONJ]() 5266, [NOUN]() 2, [ADP]() 1, [X]() 1), <em>o</em> ([CONJ]() 1035, [X]() 1), <em>sia</em> ([CONJ]() 59, [AUX]() 1), <em>ovvero</em> ([CONJ]() 35, [ADV]() 1), <em>oppure</em> ([CONJ]() 30, [ADV]() 1), <em>che</em> ([PRON]() 2148, [SCONJ]() 1234, [DET]() 247, [ADP]() 32, [CONJ]() 27), <em>cioè</em> ([CONJ]() 18, [ADV]() 12), <em>nè</em> ([CONJ]() 14, [ADV]() 1), <em>mentre</em> ([SCONJ]() 112, [CONJ]() 13), <em>eppure</em> ([CONJ]() 11, [ADV]() 9)
+The 10 most frequent ambiguous lemmas: <em>e</em> ([CONJ]() 5266, [NOUN]() 2, [X]() 1, [ADP]() 1), <em>o</em> ([CONJ]() 1035, [X]() 1), <em>sia</em> ([CONJ]() 59, [AUX]() 1), <em>ovvero</em> ([CONJ]() 35, [ADV]() 1), <em>oppure</em> ([CONJ]() 30, [ADV]() 1), <em>che</em> ([PRON]() 2130, [SCONJ]() 1250, [DET]() 248, [ADP]() 33, [CONJ]() 27), <em>cioè</em> ([CONJ]() 18, [ADV]() 12), <em>nè</em> ([CONJ]() 14, [ADV]() 1), <em>mentre</em> ([SCONJ]() 112, [CONJ]() 13), <em>eppure</em> ([CONJ]() 11, [ADV]() 9)
 
-The 10 most frequent ambiguous types:  <em>e</em> ([CONJ]() 4779, [NOUN]() 2, [ADP]() 1, [X]() 1), <em>o</em> ([CONJ]() 1007, [X]() 1), <em>sia</em> ([AUX]() 112, [VERB]() 93, [CONJ]() 57), <em>ovvero</em> ([CONJ]() 35, [ADV]() 1), <em>che</em> ([PRON]() 2125, [SCONJ]() 1226, [DET]() 94, [ADP]() 32, [CONJ]() 27), <em>nè</em> ([CONJ]() 27, [ADV]() 1), <em>cioè</em> ([CONJ]() 18, [ADV]() 11), <em>mentre</em> ([SCONJ]() 100, [CONJ]() 13), <em>quindi</em> ([ADV]() 74, [CONJ]() 4), <em>però</em> ([ADV]() 77, [CONJ]() 3)
+The 10 most frequent ambiguous types:  <em>e</em> ([CONJ]() 4779, [NOUN]() 2, [ADP]() 1, [X]() 1), <em>o</em> ([CONJ]() 1007, [X]() 1), <em>sia</em> ([AUX]() 112, [VERB]() 93, [CONJ]() 57), <em>ovvero</em> ([CONJ]() 35, [ADV]() 1), <em>che</em> ([PRON]() 2108, [SCONJ]() 1242, [DET]() 94, [ADP]() 33, [CONJ]() 27), <em>nè</em> ([CONJ]() 27, [ADV]() 1), <em>cioè</em> ([CONJ]() 18, [ADV]() 11), <em>mentre</em> ([SCONJ]() 100, [CONJ]() 13), <em>quindi</em> ([ADV]() 74, [CONJ]() 4), <em>però</em> ([ADV]() 77, [CONJ]() 3)
 
 
 * <em>e</em>
@@ -32,10 +32,10 @@ The 10 most frequent ambiguous types:  <em>e</em> ([CONJ]() 4779, [NOUN]() 2, [A
   * [CONJ]() 35: <em>l' " Incubatore " , <b>ovvero</b> uno spazio dedicato a il sostegno di gli editori giovanissimi :</em>
   * [ADV]() 1: <em>stesso casello , stessi km , stesso tempo , ma devo pagare 5.000 lire in più che a l' andata , <b>ovvero</b> L. 27.500 .</em>
 * <em>che</em>
-  * [PRON]() 2125: <em>Tutti gli esseri umani sanno di poter essere più di ciò <b>che</b> sono .</em>
-  * [SCONJ]() 1226: <em>" Mi pare <b>che</b> siano proposte serie e condivisibili " .</em>
+  * [PRON]() 2108: <em>Tutti gli esseri umani sanno di poter essere più di ciò <b>che</b> sono .</em>
+  * [SCONJ]() 1242: <em>" Mi pare <b>che</b> siano proposte serie e condivisibili " .</em>
   * [DET]() 94: <em>Di <b>che</b> cosa è fatto il Corian ?</em>
-  * [ADP]() 32: <em>" La cultura ha più <b>che</b> mai bisogno di il genio femminile " .</em>
+  * [ADP]() 33: <em>" La cultura ha più <b>che</b> mai bisogno di il genio femminile " .</em>
   * [CONJ]() 27: <em>Sia il secondo <b>che</b> il terzo problema rappresentano degli enormi errori di valutazione .</em>
 * <em>nè</em>
   * [CONJ]() 27: <em>Un artista versatile e irrealizzato fu Diefenbach , mai banale , <b>nè</b> oziosamente superfluo .</em>
@@ -55,11 +55,11 @@ The 10 most frequent ambiguous types:  <em>e</em> ([CONJ]() 4779, [NOUN]() 2, [A
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 1.000000 (the average of all parts of speech is 1.491677).
+The form / lemma ratio of `CONJ` is 0.970588 (the average of all parts of speech is 1.491496).
 
 The 1st highest number of forms (3) was observed with the lemma “e”: <em>e, ed, et</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “né”: <em>ne', nè, né</em>.
+The 2nd highest number of forms (2) was observed with the lemma “né”: <em>nè, né</em>.
 
 The 3rd highest number of forms (2) was observed with the lemma “o”: <em>o, od</em>.
 
@@ -68,9 +68,9 @@ The 3rd highest number of forms (2) was observed with the lemma “o”: <em>o, 
 
 ## Relations
 
-`CONJ` nodes are attached to their parents using 3 different relations: [it-dep/cc]() (7342; 100% instances), [it-dep/conj]() (3; 0% instances), [it-dep/mwe]() (3; 0% instances)
+`CONJ` nodes are attached to their parents using 3 different relations: [it-dep/cc]() (7344; 100% instances), [it-dep/mwe]() (3; 0% instances), [it-dep/conj]() (1; 0% instances)
 
-Parents of `CONJ` nodes belong to 16 different parts of speech: [NOUN]() (3307; 45% instances), [VERB]() (2289; 31% instances), [ADJ]() (856; 12% instances), [PROPN]() (533; 7% instances), [PRON]() (141; 2% instances), [NUM]() (121; 2% instances), [ADV]() (66; 1% instances), [CONJ]() (8; 0% instances), [DET]() (7; 0% instances), [SCONJ]() (6; 0% instances), [AUX]() (4; 0% instances), [X]() (3; 0% instances), [ADP]() (2; 0% instances), [INTJ]() (2; 0% instances), [SYM]() (2; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `CONJ` nodes belong to 15 different parts of speech: [NOUN]() (3303; 45% instances), [VERB]() (2286; 31% instances), [ADJ]() (846; 12% instances), [PROPN]() (532; 7% instances), [PRON]() (147; 2% instances), [NUM]() (122; 2% instances), [ADV]() (70; 1% instances), [DET]() (9; 0% instances), [CONJ]() (8; 0% instances), [SCONJ]() (7; 0% instances), [ADP]() (5; 0% instances), [AUX]() (5; 0% instances), [X]() (4; 0% instances), [INTJ]() (2; 0% instances), [SYM]() (2; 0% instances)
 
 7267 (99%) `CONJ` nodes are leaves.
 
@@ -82,7 +82,7 @@ Parents of `CONJ` nodes belong to 16 different parts of speech: [NOUN]() (3307; 
 
 The highest child degree of a `CONJ` node is 5.
 
-Children of `CONJ` nodes are attached using 9 different relations: [it-dep/punct]() (76; 67% instances), [it-dep/conj]() (13; 11% instances), [it-dep/cc]() (7; 6% instances), [it-dep/advmod]() (6; 5% instances), [it-dep/nmod]() (4; 4% instances), [it-dep/mwe]() (3; 3% instances), [it-dep/neg]() (3; 3% instances), [it-dep/advcl]() (1; 1% instances), [it-dep/amod]() (1; 1% instances)
+Children of `CONJ` nodes are attached using 9 different relations: [it-dep/punct]() (77; 68% instances), [it-dep/conj]() (13; 11% instances), [it-dep/cc]() (7; 6% instances), [it-dep/advmod]() (6; 5% instances), [it-dep/nmod]() (4; 4% instances), [it-dep/neg]() (3; 3% instances), [it-dep/mwe]() (2; 2% instances), [it-dep/advcl]() (1; 1% instances), [it-dep/amod]() (1; 1% instances)
 
-Children of `CONJ` nodes belong to 8 different parts of speech: [PUNCT]() (76; 67% instances), [ADV]() (11; 10% instances), [VERB]() (10; 9% instances), [CONJ]() (8; 7% instances), [NOUN]() (5; 4% instances), [PROPN]() (2; 2% instances), [ADJ]() (1; 1% instances), [SYM]() (1; 1% instances)
+Children of `CONJ` nodes belong to 7 different parts of speech: [PUNCT]() (77; 68% instances), [ADV]() (11; 10% instances), [VERB]() (10; 9% instances), [CONJ]() (8; 7% instances), [NOUN]() (5; 4% instances), [PROPN]() (2; 2% instances), [ADJ]() (1; 1% instances)
 

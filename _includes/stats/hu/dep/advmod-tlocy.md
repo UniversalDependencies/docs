@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [advmod]().
 There are also 7 other language-specific subtypes of `advmod`: [advmod:locy](), [advmod:mode](), [advmod:obl](), [advmod:que](), [advmod:tfrom](), [advmod:to](), [advmod:tto]().
 
-482 nodes (2%) are attached to their parents as `advmod:tlocy`.
+747 nodes (2%) are attached to their parents as `advmod:tlocy`.
 
-432 instances of `advmod:tlocy` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.16182572614108.
+680 instances of `advmod:tlocy` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.4578313253012.
 
-The following 10 pairs of parts of speech are connected with `advmod:tlocy`: [hu-pos/VERB]()-[hu-pos/ADV]() (389; 81% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (49; 10% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (23; 5% instances), [hu-pos/ADV]()-[hu-pos/ADV]() (13; 3% instances), [hu-pos/NUM]()-[hu-pos/ADV]() (2; 0% instances), [hu-pos/PRON]()-[hu-pos/ADV]() (2; 0% instances), [hu-pos/DET]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/NUM]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/SCONJ]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advmod:tlocy`: [hu-pos/VERB]()-[hu-pos/ADV]() (595; 80% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (85; 11% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (34; 5% instances), [hu-pos/ADV]()-[hu-pos/ADV]() (18; 2% instances), [hu-pos/NUM]()-[hu-pos/ADV]() (7; 1% instances), [hu-pos/PRON]()-[hu-pos/ADV]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/DET]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/NUM]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu

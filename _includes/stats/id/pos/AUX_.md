@@ -13,12 +13,12 @@ The 10 most frequent `AUX` types:  <em>rata</em>
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>rata</em> ([ADV]() 10, [ADJ]() 10, [NOUN]() 2, [AUX]() 1)
+The 10 most frequent ambiguous types:  <em>rata</em> ([ADJ]() 10, [ADV]() 10, [NOUN]() 2, [AUX]() 1)
 
 
 * <em>rata</em>
-  * [ADV]() 10: <em>Dalam 1 kampung rata - <b>rata</b> adalah orang yang memang satu keluarga .</em>
   * [ADJ]() 10: <em>Tack ! . Mayumi adalah satu - satunya teman Rin yang berdada <b>rata</b> .</em>
+  * [ADV]() 10: <em>Dalam 1 kampung rata - <b>rata</b> adalah orang yang memang satu keluarga .</em>
   * [NOUN]() 2: <em>Nikel Raney yang tersedia secara komersial memiliki luas permukaan <b>rata</b> - <b>rata</b> 100 m² per gram katalis .</em>
   * [AUX]() 1: <em>Dalam 1 kampung <b>rata</b> - rata adalah orang yang memang satu keluarga .</em>
 

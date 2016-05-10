@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [no-pos/PRON]() (18148; 6% insta
 
 18148 [no-pos/PRON]() tokens (76% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (18148; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (13846; 76%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (9114; 50%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (17412; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (13846; 76%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (9114; 50%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>PRON --[<a href="../dep/expl.html">expl</a>]--> PRON</tt> (71; 76%),
 <tt>PRON --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (45; 64%),
-<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (22; 92%),
+<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (20; 100%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (18; 58%),
 <tt>PRON --[<a href="../dep/remnant.html">remnant</a>]--> PRON</tt> (1; 100%).
 

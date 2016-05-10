@@ -99,7 +99,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 5961 [hr-pos/VERB]() tokens (82% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3149; 53%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3139; 53%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3139; 53%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3149; 53%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3139; 53%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3139; 53%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -139,7 +139,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>bih</em></td><td><em>bismo</em></td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sam, jesam</em></td><td><em>smo</em></td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>bi</em></td><td></td></tr>
-  <tr><td><tt><a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>ste, Jeste</em></td></tr>
+  <tr><td><tt><a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>Jeste, ste</em></td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>bi</em></td><td><em>bi</em></td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>je, bude, jest, jeste</em></td><td><em>su, budu, jesu, biti</em></td></tr>
 </table>

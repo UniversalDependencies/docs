@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: [compound:preverb]().
 
-31 nodes (0%) are attached to their parents as `compound`.
+147 nodes (0%) are attached to their parents as `compound`.
 
-31 instances of `compound` (100%) are right-to-left (child precedes parent).
+147 instances of `compound` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `compound`: [hu-pos/NUM]()-[hu-pos/NUM]() (28; 90% instances), [hu-pos/NOUN]()-[hu-pos/X]() (2; 6% instances), [hu-pos/ADJ]()-[hu-pos/NUM]() (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `compound`: [hu-pos/NUM]()-[hu-pos/NUM]() (144; 98% instances), [hu-pos/NOUN]()-[hu-pos/X]() (2; 1% instances), [hu-pos/ADJ]()-[hu-pos/NUM]() (1; 1% instances).
 
 
 ~~~ conllu

@@ -5,65 +5,64 @@
 ## Treebank Statistics (UD_Estonian)
 
 This relation is universal.
+There are 1 language-specific subtypes of `nmod`: [nmod:poss]().
 
-2345 nodes (25%) are attached to their parents as `nmod`.
+39977 nodes (17%) are attached to their parents as `nmod`.
 
-1465 instances of `nmod` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.03752665245203.
+25304 instances of `nmod` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.1205943417465.
 
-The following 30 pairs of parts of speech are connected with `nmod`: [et-pos/VERB]()-[et-pos/NOUN]() (1396; 60% instances), [et-pos/NOUN]()-[et-pos/NOUN]() (275; 12% instances), [et-pos/NOUN]()-[et-pos/PRON]() (139; 6% instances), [et-pos/NOUN]()-[et-pos/PROPN]() (106; 5% instances), [et-pos/VERB]()-[et-pos/PRON]() (99; 4% instances), [et-pos/VERB]()-[et-pos/PROPN]() (96; 4% instances), [et-pos/NUM]()-[et-pos/NOUN]() (54; 2% instances), [et-pos/ADJ]()-[et-pos/NOUN]() (46; 2% instances), [et-pos/PROPN]()-[et-pos/PROPN]() (31; 1% instances), [et-pos/PROPN]()-[et-pos/NOUN]() (26; 1% instances), [et-pos/PRON]()-[et-pos/NOUN]() (23; 1% instances), [et-pos/NOUN]()-[et-pos/ADV]() (13; 1% instances), [et-pos/ADV]()-[et-pos/NOUN]() (12; 1% instances), [et-pos/NUM]()-[et-pos/ADV]() (6; 0% instances), [et-pos/ADJ]()-[et-pos/PRON]() (2; 0% instances), [et-pos/NOUN]()-[et-pos/SCONJ]() (2; 0% instances), [et-pos/NOUN]()-[et-pos/X]() (2; 0% instances), [et-pos/NUM]()-[et-pos/PRON]() (2; 0% instances), [et-pos/NUM]()-[et-pos/X]() (2; 0% instances), [et-pos/PRON]()-[et-pos/PRON]() (2; 0% instances), [et-pos/SCONJ]()-[et-pos/NOUN]() (2; 0% instances), [et-pos/ADJ]()-[et-pos/ADJ]() (1; 0% instances), [et-pos/ADJ]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/ADV]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/AUX]()-[et-pos/NOUN]() (1; 0% instances), [et-pos/PRON]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/PROPN]()-[et-pos/ADV]() (1; 0% instances), [et-pos/PROPN]()-[et-pos/PRON]() (1; 0% instances), [et-pos/PROPN]()-[et-pos/X]() (1; 0% instances), [et-pos/SCONJ]()-[et-pos/PROPN]() (1; 0% instances).
+The following 67 pairs of parts of speech are connected with `nmod`: [et-pos/VERB]()-[et-pos/NOUN]() (15210; 38% instances), [et-pos/NOUN]()-[et-pos/NOUN]() (11279; 28% instances), [et-pos/NOUN]()-[et-pos/PROPN]() (3993; 10% instances), [et-pos/VERB]()-[et-pos/PRON]() (2450; 6% instances), [et-pos/ADJ]()-[et-pos/NOUN]() (2103; 5% instances), [et-pos/VERB]()-[et-pos/PROPN]() (1450; 4% instances), [et-pos/NOUN]()-[et-pos/PRON]() (835; 2% instances), [et-pos/PROPN]()-[et-pos/NOUN]() (455; 1% instances), [et-pos/ADJ]()-[et-pos/PROPN]() (308; 1% instances), [et-pos/ADJ]()-[et-pos/PRON]() (307; 1% instances), [et-pos/ADV]()-[et-pos/NOUN]() (267; 1% instances), [et-pos/PROPN]()-[et-pos/PROPN]() (262; 1% instances), [et-pos/NUM]()-[et-pos/NOUN]() (251; 1% instances), [et-pos/PRON]()-[et-pos/NOUN]() (127; 0% instances), [et-pos/ADV]()-[et-pos/PRON]() (103; 0% instances), [et-pos/NOUN]()-[et-pos/ADV]() (99; 0% instances), [et-pos/NOUN]()-[et-pos/ADJ]() (57; 0% instances), [et-pos/PRON]()-[et-pos/PRON]() (57; 0% instances), [et-pos/NUM]()-[et-pos/PROPN]() (38; 0% instances), [et-pos/PRON]()-[et-pos/PROPN]() (28; 0% instances), [et-pos/NOUN]()-[et-pos/SYM]() (26; 0% instances), [et-pos/ADV]()-[et-pos/PROPN]() (22; 0% instances), [et-pos/ADP]()-[et-pos/NOUN]() (18; 0% instances), [et-pos/VERB]()-[et-pos/ADV]() (17; 0% instances), [et-pos/NUM]()-[et-pos/PRON]() (16; 0% instances), [et-pos/ADJ]()-[et-pos/ADV]() (15; 0% instances), [et-pos/AUX]()-[et-pos/NOUN]() (15; 0% instances), [et-pos/PROPN]()-[et-pos/X]() (13; 0% instances), [et-pos/PROPN]()-[et-pos/PRON]() (12; 0% instances), [et-pos/PROPN]()-[et-pos/ADV]() (11; 0% instances), [et-pos/X]()-[et-pos/PROPN]() (11; 0% instances), [et-pos/VERB]()-[et-pos/X]() (10; 0% instances), [et-pos/NUM]()-[et-pos/ADV]() (9; 0% instances), [et-pos/NOUN]()-[et-pos/ADP]() (7; 0% instances), [et-pos/NOUN]()-[et-pos/X]() (7; 0% instances), [et-pos/SYM]()-[et-pos/NOUN]() (7; 0% instances), [et-pos/ADP]()-[et-pos/PRON]() (6; 0% instances), [et-pos/ADV]()-[et-pos/ADV]() (6; 0% instances), [et-pos/PROPN]()-[et-pos/SYM]() (6; 0% instances), [et-pos/VERB]()-[et-pos/ADJ]() (6; 0% instances), [et-pos/ADJ]()-[et-pos/SYM]() (5; 0% instances), [et-pos/PRON]()-[et-pos/ADV]() (5; 0% instances), [et-pos/SYM]()-[et-pos/PROPN]() (5; 0% instances), [et-pos/ADJ]()-[et-pos/ADJ]() (4; 0% instances), [et-pos/AUX]()-[et-pos/PRON]() (4; 0% instances), [et-pos/NOUN]()-[et-pos/VERB]() (4; 0% instances), [et-pos/VERB]()-[et-pos/SYM]() (4; 0% instances), [et-pos/X]()-[et-pos/NOUN]() (3; 0% instances), [et-pos/AUX]()-[et-pos/PROPN]() (2; 0% instances), [et-pos/INTJ]()-[et-pos/NOUN]() (2; 0% instances), [et-pos/NUM]()-[et-pos/ADJ]() (2; 0% instances), [et-pos/SCONJ]()-[et-pos/NOUN]() (2; 0% instances), [et-pos/SCONJ]()-[et-pos/PRON]() (2; 0% instances), [et-pos/ADJ]()-[et-pos/VERB]() (1; 0% instances), [et-pos/ADP]()-[et-pos/NUM]() (1; 0% instances), [et-pos/ADP]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/ADV]()-[et-pos/ADJ]() (1; 0% instances), [et-pos/AUX]()-[et-pos/X]() (1; 0% instances), [et-pos/INTJ]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/NOUN]()-[et-pos/NUM]() (1; 0% instances), [et-pos/NOUN]()-[et-pos/SCONJ]() (1; 0% instances), [et-pos/NUM]()-[et-pos/SYM]() (1; 0% instances), [et-pos/NUM]()-[et-pos/X]() (1; 0% instances), [et-pos/PRON]()-[et-pos/ADJ]() (1; 0% instances), [et-pos/PROPN]()-[et-pos/ADJ]() (1; 0% instances), [et-pos/PUNCT]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/VERB]()-[et-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 7 nmod	color:blue
-1	Lennarti-lood	Lennarti-lood	NOUN	n/com,pl,nom,%cap	Case=Nom|Number=Plur	2	nsubj	_	_
-2	on	ole+0	VERB	v/main,indic,pres,ps3,pl,ps,af	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	aga	aga+0	CONJ	conj-s/crd	_	2	mark	_	_
-4	nagu	nagu+0	SCONJ	conj-s/sub	_	7	mark	_	_
-5	pikantne	pikantne+0	ADJ	adj/pos,sg,nom	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
-6	prantsuse	prantsuse+0	ADJ	adj-nat/--	NameType=Nat	7	amod	_	_
-7	film	film+0	NOUN	n/com,sg,nom	Case=Nom|Number=Sing	2	nmod	_	_
-8	.	--	PUNCT	punc/--	_	2	punct	_	_
+# visual-style 2 5 nmod	color:blue
+1	Ning	ning	CONJ	J	_	2	cc	_	_
+2	kopsas	kopsama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	taas	taas	ADV	D	_	2	advmod	_	_
+4	Ramile	Ram	PROPN	S	Case=All|Number=Sing	2	nmod	_	_
+5	kepiga	kepp	NOUN	S	Case=Com|Number=Sing	2	nmod	_	_
+6	pähe	pea	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 7 nmod	color:blue
-1	66-aastane	66-aastane+0	ADJ	adj/pos,sg,nom	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
-2	Heino	Heino+0	PROPN	prop/prop,sg,nom,.cap	Case=Nom|Number=Sing	3	nsubj	_	_
-3	sisenes	sisene+s	VERB	v-fin/main,indic,impf,ps3,sg,ps,af,.FinV	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-4	Küütri	Küütri+0	PROPN	prop/prop,sg,gen,.cap,.?	Case=Gen|Number=Sing	5	nmod	_	_
-5	tänavas	tänav+s	NOUN	n/com,sg,in	Case=Ine|Number=Sing	3	nmod	_	_
-6	oma	oma+0	PRON	pron-poss/pos,det,refl,sg,gen	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	nmod	_	_
-7	kodumaja	kodu-maja+0	NOUN	n/com,sg,gen	Case=Gen|Number=Sing	8	nmod	_	_
-8	trepikotta	trepi-koda+0	NOUN	n/com,sg,adit	Case=Add|Number=Sing	3	nmod	_	_
-9	.	.	PUNCT	punc/Fst	PunctType=Peri	3	punct	_	_
+# visual-style 8 6 nmod	color:blue
+1	Tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+2	ees	ees	ADP	K	AdpType=Post	1	case	_	_
+3	seisis	seisma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	kääbus	kääbus	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+5	,	,	PUNCT	Z	_	8	punct	_	_
+6	seljas	selg	NOUN	S	Case=Ine|Number=Sing	8	nmod	_	_
+7	tilluke	tilluke	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
+8	raudrüü	raud_rüü	NOUN	S	Case=Nom|Number=Sing	3	advcl	_	_
+9	.	.	PUNCT	Z	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nmod	color:blue
-1	Teised	teine+d	PRON	pron/indef,pl,nom,%cap	Case=Nom|Number=Plur|PronType=Ind,Neg	2	nmod	_	_
-2	pakkujad	pakku=ja+d	NOUN	n/com,pl,nom,%ja	Case=Nom|Number=Plur	3	nsubj	_	_
-3	noolisid	nooli+sid	VERB	v/main,indic,impf,ps3,pl,ps,af	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-4	ainult	ainult+0	ADV	adv/--	_	3	advmod	_	_
-5	rahvusvahelist	rahvus_vahe=line+t	ADJ	adj/pos,sg,part	Case=Par|Degree=Pos|Number=Sing	6	amod	_	_
-6	sidet	side+t	NOUN	n/com,sg,part	Case=Par|Number=Sing	3	dobj	_	_
-7	.	--	PUNCT	punc/--	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nmod	color:blue
+1	Nii	nii	ADV	D	_	5	advmod	_	_
+2	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	4	det	_	_
+3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
+4	elu	elu	NOUN	S	Case=Nom|Number=Sing	5	nsubj	_	_
+5	käis	käima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	...	...	PUNCT	Z	_	5	punct	_	_
 
 ~~~
 

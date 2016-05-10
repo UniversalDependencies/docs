@@ -60,25 +60,32 @@ The following 10 pairs of parts of speech are connected with `aux:q`: [he-pos/VE
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 1 aux:q	color:blue
-1	האם	_	ADV	ADV	PronType=Int	15	aux:q	_	_
-2	מים	_	NOUN	NOUN	Gender=Masc|Number=Plur	15	nsubj:cop	_	_
-3	זורמים	_	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=1,2,3|VerbForm=Part	2	amod	_	_
-4	ב	_	ADP	ADP	_	5	case	_	_
-5	בית	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	2	nmod	_	_
-6	שימוש	_	NOUN	NOUN	Gender=Masc|Number=Sing	5	nmod:smixut	_	_
-7	או	_	CONJ	CONJ	_	5	cc	_	_
-8	ל	_	ADP	ADP	_	9	case	_	_
-9	שטיפת	_	NOUN	NOUN	Definite=Red|Gender=Fem|Number=Sing	5	conj	_	_
-10	שיניים	_	NOUN	NOUN	Gender=Fem|Number=Plur	9	nmod:smixut	_	_
-11	ב	_	ADP	ADP	_	13	case	_	_
-12	ה_	_	DET	DET	PronType=Art	13	det:def	_	_
-13	כיור	_	NOUN	NOUN	Gender=Masc|Number=Sing	9	nmod	_	_
-14	הם	_	VERB	VERB	Gender=Masc|Negative=Pos|Number=Plur|Person=3|VerbForm=Part|VerbType=Cop	15	cop	_	_
-15	מותרות	_	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	_
-16	?	_	PUNCT	PUNCT	_	15	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 aux:q	color:blue
+1	שמא	_	SCONJ	SCONJ	_	2	aux:q	_	_
+2	למדו	_	VERB	VERB	Gender=Fem,Masc|Number=Plur|Person=3|Tense=Past	0	root	_	_
+3	יובל	_	PROPN	PROPN	_	2	nsubj	_	_
+4	נאמן	_	PROPN	PROPN	_	3	name	_	_
+5	ו	_	CONJ	CONJ	_	3	cc	_	_
+6	גאולה	_	PROPN	PROPN	_	3	conj	_	_
+7	כהן	_	PROPN	PROPN	_	6	name	_	_
+8	לקח	_	NOUN	NOUN	Gender=Masc|Number=Sing	2	dobj	_	_
+9	מ	_	ADP	ADP	_	11	case	_	_
+10	ה	_	DET	DET	PronType=Art	11	det:def	_	_
+11	עובדה	_	NOUN	NOUN	Gender=Fem|Number=Sing	2	iobj	_	_
+12	ש	_	SCONJ	SCONJ	_	17	mark	_	_
+13	אנשי	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Plur	17	nsubj	_	_
+14	"	_	PUNCT	PUNCT	_	15	punct	_	_
+15	כך	_	PROPN	PROPN	_	13	nmod:smixut	_	_
+16	"	_	PUNCT	PUNCT	_	15	punct	_	_
+17	סילקו	_	VERB	VERB	Gender=Fem,Masc|HebBinyan=PIEL|Number=Plur|Person=3|Tense=Past	11	acl:relcl	_	_
+18	אותם	_	PART	PART	Case=Acc	19	case:acc	_	_
+19	הם_	_	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	dobj	_	_
+20	מ	_	ADP	ADP	_	22	case	_	_
+21	ה	_	DET	DET	PronType=Art	22	det:def	_	_
+22	לוויה	_	NOUN	NOUN	Gender=Fem|Number=Sing	17	nmod	_	_
+23	?	_	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

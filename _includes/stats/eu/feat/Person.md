@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: [eu-pos/ADP]() (28; 0% instances
 
 28 [eu-pos/ADP]() tokens (1% of all `ADP` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (28; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (28; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (17; 61%).
+The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (28; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (28; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (17; 61%).
 
 `ADP` tokens may have the following values of `Person`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 2 [eu-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=Abs</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (2; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Abs</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Person`:
 

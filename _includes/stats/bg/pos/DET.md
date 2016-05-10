@@ -70,21 +70,21 @@ Examples: <em>тази, такава, тая, онази, тeзи</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 11 different relations: [bg-dep/det]() (2017; 83% instances), [bg-dep/dobj]() (185; 8% instances), [bg-dep/nsubj]() (112; 5% instances), [bg-dep/nmod]() (45; 2% instances), [bg-dep/iobj]() (37; 2% instances), [bg-dep/conj]() (10; 0% instances), [bg-dep/root]() (10; 0% instances), [bg-dep/nsubjpass]() (9; 0% instances), [bg-dep/cop]() (6; 0% instances), [bg-dep/discourse]() (1; 0% instances), [bg-dep/vocative]() (1; 0% instances)
+`DET` nodes are attached to their parents using 11 different relations: [bg-dep/det]() (2017; 83% instances), [bg-dep/dobj]() (184; 8% instances), [bg-dep/nsubj]() (110; 5% instances), [bg-dep/nmod]() (45; 2% instances), [bg-dep/iobj]() (37; 2% instances), [bg-dep/root]() (13; 1% instances), [bg-dep/nsubjpass]() (12; 0% instances), [bg-dep/conj]() (11; 0% instances), [bg-dep/ccomp]() (2; 0% instances), [bg-dep/discourse]() (1; 0% instances), [bg-dep/vocative]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 8 different parts of speech: [NOUN]() (2030; 83% instances), [VERB]() (372; 15% instances), [PROPN]() (16; 1% instances), [ROOT]() (10; 0% instances), [PRON]() (2; 0% instances), [ADJ]() (1; 0% instances), [DET]() (1; 0% instances), [NUM]() (1; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: [NOUN]() (2043; 84% instances), [VERB]() (346; 14% instances), [PROPN]() (16; 1% instances), [ROOT]() (13; 1% instances), [ADJ]() (6; 0% instances), [PRON]() (4; 0% instances), [ADV]() (3; 0% instances), [DET]() (1; 0% instances), [NUM]() (1; 0% instances)
 
 2135 (88%) `DET` nodes are leaves.
 
-191 (8%) `DET` nodes have one child.
+189 (8%) `DET` nodes have one child.
 
-89 (4%) `DET` nodes have two children.
+85 (3%) `DET` nodes have two children.
 
-18 (1%) `DET` nodes have three or more children.
+24 (1%) `DET` nodes have three or more children.
 
-The highest child degree of a `DET` node is 4.
+The highest child degree of a `DET` node is 6.
 
-Children of `DET` nodes are attached using 13 different relations: [bg-dep/acl]() (118; 28% instances), [bg-dep/case]() (99; 23% instances), [bg-dep/nmod]() (87; 20% instances), [bg-dep/advmod]() (38; 9% instances), [bg-dep/punct]() (21; 5% instances), [bg-dep/mwe]() (17; 4% instances), [bg-dep/cc]() (15; 4% instances), [bg-dep/discourse]() (11; 3% instances), [bg-dep/conj]() (9; 2% instances), [bg-dep/neg]() (8; 2% instances), [bg-dep/amod]() (1; 0% instances), [bg-dep/expl]() (1; 0% instances), [bg-dep/nsubj]() (1; 0% instances)
+Children of `DET` nodes are attached using 16 different relations: [bg-dep/acl]() (118; 27% instances), [bg-dep/case]() (93; 21% instances), [bg-dep/nmod]() (88; 20% instances), [bg-dep/advmod]() (38; 9% instances), [bg-dep/punct]() (24; 5% instances), [bg-dep/mwe]() (17; 4% instances), [bg-dep/cc]() (15; 3% instances), [bg-dep/discourse]() (11; 2% instances), [bg-dep/conj]() (9; 2% instances), [bg-dep/neg]() (8; 2% instances), [bg-dep/nsubj]() (7; 2% instances), [bg-dep/cop]() (6; 1% instances), [bg-dep/det]() (6; 1% instances), [bg-dep/amod]() (1; 0% instances), [bg-dep/expl]() (1; 0% instances), [bg-dep/iobj]() (1; 0% instances)
 
-Children of `DET` nodes belong to 13 different parts of speech: [VERB]() (123; 29% instances), [ADP]() (93; 22% instances), [NOUN]() (68; 16% instances), [ADV]() (38; 9% instances), [PART]() (23; 5% instances), [CONJ]() (21; 5% instances), [PUNCT]() (21; 5% instances), [ADJ]() (16; 4% instances), [PRON]() (16; 4% instances), [PROPN]() (3; 1% instances), [INTJ]() (2; 0% instances), [DET]() (1; 0% instances), [NUM]() (1; 0% instances)
+Children of `DET` nodes belong to 13 different parts of speech: [VERB]() (122; 28% instances), [ADP]() (93; 21% instances), [NOUN]() (77; 17% instances), [ADV]() (40; 9% instances), [PUNCT]() (24; 5% instances), [PART]() (23; 5% instances), [CONJ]() (21; 5% instances), [ADJ]() (19; 4% instances), [PRON]() (17; 4% instances), [PROPN]() (3; 1% instances), [INTJ]() (2; 0% instances), [DET]() (1; 0% instances), [NUM]() (1; 0% instances)
 

@@ -4,90 +4,91 @@
 
 ## Treebank Statistics (UD_Romanian)
 
-There are 16 `AUX` lemmas (0%), 31 `AUX` types (1%) and 445 `AUX` tokens (4%).
-Out of 17 observed tags, the rank of `AUX` is: 11 in number of lemmas, 10 in number of types and 10 in number of tokens.
+There are 7 `AUX` lemmas (0%), 50 `AUX` types (0%) and 3694 `AUX` tokens (3%).
+Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 10 in number of types and 11 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>avea, fi, a, au, vrea, fost, este, sunt, era, ar</em>
+The 10 most frequent `AUX` lemmas: <em>avea, fi, vrea, a, -a, fiți, won</em>
 
-The 10 most frequent `AUX` types:  <em>a, au, fost, fi, este, ar, sunt, am, va, -a</em>
+The 10 most frequent `AUX` types:  <em>a, au, fi, fost, este, va, ar, sunt, am, vor</em>
 
-The 10 most frequent ambiguous lemmas: <em>avea</em> ([AUX]() 170, [VERB]() 22), <em>fi</em> ([VERB]() 87, [AUX]() 85), <em>a</em> ([AUX]() 84, [PART]() 39, [DET]() 34, [ADP]() 3, [NOUN]() 1), <em>au</em> ([AUX]() 26, [VERB]() 1), <em>vrea</em> ([AUX]() 22, [VERB]() 3, [NOUN]() 1), <em>fost</em> ([AUX]() 20, [VERB]() 16), <em>este</em> ([VERB]() 23, [AUX]() 12), <em>sunt</em> ([VERB]() 11, [AUX]() 8), <em>era</em> ([AUX]() 4, [VERB]() 2), <em>fiind</em> ([VERB]() 7, [AUX]() 3)
+The 10 most frequent ambiguous lemmas: <em>avea</em> ([AUX]() 2124, [VERB]() 453, [PART]() 6, [ADP]() 1, [NOUN]() 1), <em>fi</em> ([VERB]() 1648, [AUX]() 1170, [CONJ]() 1), <em>vrea</em> ([AUX]() 393, [VERB]() 33, [NOUN]() 1), <em>a</em> ([PART]() 621, [ADP]() 23, [AUX]() 4, [DET]() 2, [NOUN]() 1), <em>-a</em> ([DET]() 9, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([AUX]() 151, [DET]() 65, [PART]() 39, [ADP]() 3, [NOUN]() 1), <em>au</em> ([AUX]() 59, [VERB]() 1), <em>fost</em> ([AUX]() 43, [VERB]() 24), <em>fi</em> ([AUX]() 32, [VERB]() 14), <em>este</em> ([VERB]() 43, [AUX]() 23), <em>sunt</em> ([VERB]() 19, [AUX]() 18), <em>am</em> ([AUX]() 11, [VERB]() 2), <em>-a</em> ([AUX]() 9, [ADP]() 2, [DET]() 1), <em>ai</em> ([AUX]() 5, [DET]() 4, [VERB]() 1), <em>era</em> ([VERB]() 6, [AUX]() 6)
+The 10 most frequent ambiguous types:  <em>a</em> ([AUX]() 1083, [DET]() 979, [PART]() 608, [ADP]() 24, [NOUN]() 1), <em>au</em> ([AUX]() 496, [VERB]() 28), <em>fi</em> ([AUX]() 327, [VERB]() 126), <em>fost</em> ([AUX]() 267, [VERB]() 141, [ADJ]() 1), <em>este</em> ([VERB]() 393, [AUX]() 242), <em>sunt</em> ([VERB]() 202, [AUX]() 142), <em>am</em> ([AUX]() 110, [VERB]() 7), <em>vor</em> ([AUX]() 95, [VERB]() 8), <em>fiind</em> ([VERB]() 58, [AUX]() 40), <em>fie</em> ([VERB]() 94, [AUX]() 39, [CONJ]() 18, [ADV]() 2)
 
 
 * <em>a</em>
-  * [AUX]() 151: <em>Un om ca el nici doi ani n- <b>a</b> putut să stea în Butucani .</em>
-  * [DET]() 65: <em>Era o plăcere să asiști la o examinare <b>a</b> lui .</em>
-  * [PART]() 39: <em>Au început <b>a</b> se ispiti unul pe altul ce_fel_de lucruri poate fiecare .</em>
-  * [ADP]() 3: <em>Holul blocului mirosea <b>a</b> varză călită și <b>a</b> preșuri vechi .</em>
-  * [NOUN]() 1: <em>Acest top , aflat la <b>a</b> 1938 -a ediție , cuprinde un clasament general , respectiv un clasament pe domenii științifice , care reflectă pregătirea și performanța științifică a cadrelor didactice ale universităților .</em>
+  * [AUX]() 1083: <em>Sfântul Părinte Secund <b>a</b> aflat , <b>a</b> zâmbit și s- <b>a</b> supus .</em>
+  * [DET]() 979: <em>Somnul e asimilat morții , inerției , opririi sterpe <b>a</b> vieții .</em>
+  * [PART]() 608: <em>remarcabilă este aici insistența de <b>a</b> nu se interveni în text .</em>
+  * [ADP]() 24: <em>Duhnea <b>a</b> gin .</em>
+  * [NOUN]() 1: <em>În cadrul restaurantului se pot servi preparate din carne , cum ar fi pui <b>a</b> la " Shan Hai " , pui de " Gong Bao " sau delicioșii pui cu bambus și ciuperci .</em>
 * <em>au</em>
-  * [AUX]() 59: <em>Dintre domnitorii ce <b>au</b> avut un rol mai important , pot fi amintiți :</em>
-  * [VERB]() 1: <em>O importanță secundară o <b>au</b> industriile farmaceutică , a mașinilor grele și a aparatelor electrocasnice .</em>
-* <em>fost</em>
-  * [AUX]() 43: <em>Victor Ciorbea a <b>fost</b> numit prim- ministru .</em>
-  * [VERB]() 24: <em>Vaca poate niciodată n- a mai <b>fost</b> ca astăzi neastâmpărată .</em>
+  * [AUX]() 496: <em>În total , 123 de asociații de locatari <b>au</b> fost trase pe sfoară .</em>
+  * [VERB]() 28: <em>Probabil căprui , deși cei cu părul negru <b>au</b> uneori ochii albaștri .</em>
 * <em>fi</em>
-  * [AUX]() 32: <em>Dintre domnitorii ce au avut un rol mai important , pot <b>fi</b> amintiți :</em>
-  * [VERB]() 14: <em>Parcă putea <b>fi</b> vorba de iertare !</em>
+  * [AUX]() 327: <em>Un zgomot , de- ai <b>fi</b> zis că te afli într- un uriaș stup de albine .</em>
+  * [VERB]() 126: <em>Prea puternică - nu putea <b>fi</b> zdruncinată .</em>
+* <em>fost</em>
+  * [AUX]() 267: <em>În total , 123 de asociații de locatari au <b>fost</b> trase pe sfoară .</em>
+  * [VERB]() 141: <em>Conducătorii locali au <b>fost</b> și ei menținuți .</em>
+  * [ADJ]() 1: <em>Acest „ carnet al unui ieșean ” e completat de „ carnetul unui <b>fost</b> parizian ” , inclus în volumul Povestea celor necăjiți .</em>
 * <em>este</em>
-  * [VERB]() 43: <em>Poți tu să -mi spui , Atâta frumusețe unde <b>este</b> ?</em>
-  * [AUX]() 23: <em>2.1.2 . Subsistemul <b>este</b> montat solid în ținuta normală de drum .</em>
+  * [VERB]() 393: <em>remarcabilă <b>este</b> aici insistența de a nu se interveni în text .</em>
+  * [AUX]() 242: <em>Are 52 de ani , <b>este</b> căsătorit și are o fiică .</em>
 * <em>sunt</em>
-  * [VERB]() 19: <em>- Nu <b>sunt</b> de- adevăratelea bolnavă , m- a lămurit .</em>
-  * [AUX]() 18: <em>Astfel , originile românilor <b>sunt</b> disputate , existând mai multe teorii .</em>
+  * [VERB]() 202: <em><b>sunt</b> și câțiva care s- au preocupat de numele acestui fluviu .</em>
+  * [AUX]() 142: <em>De reținut că nu <b>sunt</b> vizați pensionarii din sistemul public de pensii .</em>
 * <em>am</em>
-  * [AUX]() 11: <em>Ți -am auzit de nume și nu <b>am</b> putut răbda să nu ne cunoaștem .</em>
-  * [VERB]() 2: <em>N- <b>am</b> soră să mă cate , maica -i slabă , nu mai poate .</em>
-* <em>-a</em>
-  * [AUX]() 9: <em>Ți <b>-a</b> trecut glonțul pe_la ureche , puteai să cazi tu în_locul lui .</em>
-  * [ADP]() 2: <em>Nu există examene între a 1938 -a și a 1938 <b>-a</b> ani .</em>
-  * [DET]() 1: <em>În sfârșit , cam la o săptămână după terminarea cursurilor clasei a IV <b>-a</b> , se anunță și examenul de admitere în cursul superior .</em>
-* <em>ai</em>
-  * [AUX]() 5: <em>Și tu <b>ai</b> fi făcut aceasta pentru mine , de m -aș fi aflat în starea voastră .</em>
-  * [DET]() 4: <em>care sunt unii dintre cei mai importanți parteneri comerciali <b>ai</b> României .</em>
-  * [VERB]() 1: <em>Tu poți să <b>ai</b> mai vrednici și mai mândri cai .</em>
-* <em>era</em>
-  * [VERB]() 6: <em>În iulie , Iașul <b>era</b> ocupat de forțele staliniste .</em>
-  * [AUX]() 6: <em>Va putea să fugă din turnul unde <b>era</b> închisă .</em>
+  * [AUX]() 110: <em>M- <b>am</b> străduit să fac să semene semnătura de adineauri cu cea de acum .</em>
+  * [VERB]() 7: <em>N- <b>am</b> soră să mă cate , maica -i slabă , nu mai poate .</em>
+* <em>vor</em>
+  * [AUX]() 95: <em>Pentru acest birou se <b>vor</b> încadra 40 până la 80 de lucrători .</em>
+  * [VERB]() 8: <em>De se <b>vor</b> afla de_față unii ca aceia , să -i prindeți și să -i legați .</em>
+* <em>fiind</em>
+  * [VERB]() 58: <em>Putea să -l aducă cu_sila înapoi , <b>fiind</b> minor .</em>
+  * [AUX]() 40: <em>Când enzima este blocată , virusul nu se reproduce normal , răspândirea infecției <b>fiind</b> încetinită .</em>
+* <em>fie</em>
+  * [VERB]() 94: <em>Trebuia să <b>fie</b> înapoi la Minister până la paisprezece-treizeci .</em>
+  * [AUX]() 39: <em>Se recomandă ca sistemul să <b>fie</b> armat înainte de începerea perfuziei .</em>
+  * [CONJ]() 18: <em>Fie că scria JOS FRATELE CEL MARE , <b>fie</b> că nu scria , era totuna .</em>
+  * [ADV]() 2: <em>La tele-ecran , <b>fie</b> pentru a celebra victoria , fie pentru a sugruma amintirea ciocolatei pierdute , izbucni deodată Oceania , ție -ți cânt .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.937500 (the average of all parts of speech is 1.157060).
+The form / lemma ratio of `AUX` is 7.142857 (the average of all parts of speech is 1.736999).
 
-The 1st highest number of forms (12) was observed with the lemma “avea”: <em>-a, -ai, -am, -ar, -aș, a, ai, am, ar, au, aș, ați</em>.
+The 1st highest number of forms (21) was observed with the lemma “fi”: <em>-i, Eram, e, era, erau, este, ești, fi, fie, fii, fiind, fim, fiu, fost, fu, fusese, fuseseră, nefiind, sunt, suntem, sunteți</em>.
 
-The 2nd highest number of forms (8) was observed with the lemma “fi”: <em>e, era, este, fi, fie, fost, fuseseră, sunt</em>.
+The 2nd highest number of forms (15) was observed with the lemma “avea”: <em>-a, -ai, -am, -ar, -au, -aș, Avea, a, a-, ai, am, ar, au, aș, ați</em>.
 
-The 3rd highest number of forms (8) was observed with the lemma “vrea”: <em>-i, -veți, o, va, vei, voi, vom, vor</em>.
+The 3rd highest number of forms (13) was observed with the lemma “vrea”: <em>-i, -or, -veți, o, oi, or, va, vei, veți, voi, vom, vor, îi</em>.
 
-`AUX` occurs with 7 features: [ro-feat/Number]() (389; 87% instances), [ro-feat/Person]() (369; 83% instances), [ro-feat/VerbForm]() (194; 44% instances), [ro-feat/Tense]() (148; 33% instances), [ro-feat/Mood]() (118; 27% instances), [ro-feat/Gender]() (43; 10% instances), [ro-feat/Variant]() (1; 0% instances)
+`AUX` occurs with 7 features: [ro-feat/Person]() (3055; 83% instances), [ro-feat/Number]() (3002; 81% instances), [ro-feat/VerbForm]() (1376; 37% instances), [ro-feat/Tense]() (1063; 29% instances), [ro-feat/Mood]() (737; 20% instances), [ro-feat/Gender]() (267; 7% instances), [ro-feat/Variant]() (28; 1% instances)
 
-`AUX` occurs with 16 feature-value pairs: `Gender=Masc`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Imp`, `Tense=Pqp`, `Tense=Pres`, `Variant=Short`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 18 feature-value pairs: `Gender=Masc`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `Variant=Short`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 19 feature combinations.
-The most frequent feature combination is `Number=Sing|Person=3` (161 tokens).
-Examples: <em>a, va, este, era, fi, fost</em>
+`AUX` occurs with 35 feature combinations.
+The most frequent feature combination is `Number=Sing|Person=3` (1339 tokens).
+Examples: <em>a, va, a-, o, -a</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 7 different relations: [ro-dep/aux]() (315; 71% instances), [ro-dep/auxpass]() (98; 22% instances), [ro-dep/cop]() (20; 4% instances), [ro-dep/det]() (5; 1% instances), [ro-dep/root]() (4; 1% instances), [ro-dep/mark]() (2; 0% instances), [ro-dep/dobj]() (1; 0% instances)
+`AUX` nodes are attached to their parents using 18 different relations: [ro-dep/aux]() (2574; 70% instances), [ro-dep/auxpass]() (897; 24% instances), [ro-dep/cop]() (132; 4% instances), [ro-dep/mark]() (31; 1% instances), [ro-dep/root]() (15; 0% instances), [ro-dep/det]() (11; 0% instances), [ro-dep/acl]() (10; 0% instances), [ro-dep/advcl]() (4; 0% instances), [ro-dep/ccomp]() (4; 0% instances), [ro-dep/conj]() (4; 0% instances), [ro-dep/mwe]() (3; 0% instances), [ro-dep/advmod]() (2; 0% instances), [ro-dep/nmod]() (2; 0% instances), [ro-dep/appos]() (1; 0% instances), [ro-dep/csubjpass]() (1; 0% instances), [ro-dep/dobj]() (1; 0% instances), [ro-dep/expl]() (1; 0% instances), [ro-dep/parataxis]() (1; 0% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: [VERB]() (411; 92% instances), [NOUN]() (16; 4% instances), [ADJ]() (8; 2% instances), [ROOT]() (4; 1% instances), [AUX]() (2; 0% instances), [NUM]() (2; 0% instances), [DET]() (1; 0% instances), [PROPN]() (1; 0% instances)
+Parents of `AUX` nodes belong to 11 different parts of speech: [VERB]() (3482; 94% instances), [ADJ]() (80; 2% instances), [NOUN]() (64; 2% instances), [ADV]() (28; 1% instances), [ROOT]() (15; 0% instances), [AUX]() (8; 0% instances), [PRON]() (7; 0% instances), [PROPN]() (4; 0% instances), [NUM]() (3; 0% instances), [DET]() (2; 0% instances), [SCONJ]() (1; 0% instances)
 
-435 (98%) `AUX` nodes are leaves.
+3634 (98%) `AUX` nodes are leaves.
 
-6 (1%) `AUX` nodes have one child.
+18 (0%) `AUX` nodes have one child.
 
-0 (0%) `AUX` nodes have two children.
+11 (0%) `AUX` nodes have two children.
 
-4 (1%) `AUX` nodes have three or more children.
+31 (1%) `AUX` nodes have three or more children.
 
-The highest child degree of a `AUX` node is 4.
+The highest child degree of a `AUX` node is 7.
 
-Children of `AUX` nodes are attached using 9 different relations: [ro-dep/aux]() (6; 29% instances), [ro-dep/punct]() (4; 19% instances), [ro-dep/dobj]() (3; 14% instances), [ro-dep/nsubj]() (3; 14% instances), [ro-dep/advmod]() (1; 5% instances), [ro-dep/neg]() (1; 5% instances), [ro-dep/nmod]() (1; 5% instances), [ro-dep/nmod:tmod]() (1; 5% instances), [ro-dep/remnant]() (1; 5% instances)
+Children of `AUX` nodes are attached using 19 different relations: [ro-dep/punct]() (32; 18% instances), [ro-dep/dobj]() (27; 15% instances), [ro-dep/nsubj]() (26; 15% instances), [ro-dep/mark]() (16; 9% instances), [ro-dep/aux]() (11; 6% instances), [ro-dep/mwe]() (11; 6% instances), [ro-dep/nmod]() (11; 6% instances), [ro-dep/neg]() (9; 5% instances), [ro-dep/advmod]() (6; 3% instances), [ro-dep/advcl]() (5; 3% instances), [ro-dep/ccomp]() (4; 2% instances), [ro-dep/conj]() (4; 2% instances), [ro-dep/cc]() (3; 2% instances), [ro-dep/nmod:pmod]() (3; 2% instances), [ro-dep/xcomp]() (3; 2% instances), [ro-dep/parataxis]() (2; 1% instances), [ro-dep/expl]() (1; 1% instances), [ro-dep/remnant]() (1; 1% instances), [ro-dep/vocative]() (1; 1% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: [NOUN]() (6; 29% instances), [PUNCT]() (5; 24% instances), [VERB]() (4; 19% instances), [AUX]() (2; 10% instances), [ADV]() (1; 5% instances), [NUM]() (1; 5% instances), [PART]() (1; 5% instances), [PROPN]() (1; 5% instances)
+Children of `AUX` nodes belong to 13 different parts of speech: [NOUN]() (57; 32% instances), [PUNCT]() (33; 19% instances), [VERB]() (23; 13% instances), [PART]() (16; 9% instances), [PRON]() (12; 7% instances), [AUX]() (8; 5% instances), [SCONJ]() (7; 4% instances), [ADV]() (6; 3% instances), [CONJ]() (6; 3% instances), [PROPN]() (3; 2% instances), [ADP]() (2; 1% instances), [NUM]() (2; 1% instances), [ADJ]() (1; 1% instances)
 

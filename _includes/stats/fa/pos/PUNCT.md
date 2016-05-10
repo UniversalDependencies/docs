@@ -4,14 +4,14 @@
 
 ## Treebank Statistics (UD_Persian)
 
-There are 1 `PUNCT` lemmas (7%), 18 `PUNCT` types (0%) and 13442 `PUNCT` tokens (9%).
-Out of 15 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 14 in number of types and 5 in number of tokens.
+There are 1 `PUNCT` lemmas (3%), 18 `PUNCT` types (0%) and 13442 `PUNCT` tokens (9%).
+Out of 15 observed tags, the rank of `PUNCT` is: 15 in number of lemmas, 14 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: _
 
 The 10 most frequent `PUNCT` types:  .، ،، :، ؛، ؟، (، )، !، -، …
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 57475, [ADP]() 17533, [VERB]() 16902, [ADJ]() 13589, [PUNCT]() 13442, [CONJ]() 8218, [PRON]() 5772, [SCONJ]() 5160, [ADV]() 4150, [DET]() 3561, [NUM]() 3406, [PART]() 2569, [AUX]() 772, [X]() 253, [INTJ]() 69)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 57224, [VERB]() 16929, [ADJ]() 13490, [PUNCT]() 13442, [ADP]() 11406, [PRON]() 5792, [ADV]() 4099, [DET]() 3558, [NUM]() 3409, [SCONJ]() 2428, [CONJ]() 2098, [AUX]() 742, [PART]() 490, [X]() 245, [INTJ]() 69)
 
 The 10 most frequent ambiguous types:  
 
@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 18.000000 (the average of all parts of speech is 1071.133333).
+The form / lemma ratio of `PUNCT` is 18.000000 (the average of all parts of speech is 412.051282).
 
 The 1st highest number of forms (18) was observed with the lemma “_”: !, ", (, ), *, -, ., /, :, =, [, ], «, », ،, ؛, ؟, ….
 
@@ -30,7 +30,7 @@ The 1st highest number of forms (18) was observed with the lemma “_”: !, ", 
 
 `PUNCT` nodes are attached to their parents using 2 different relations: [fa-dep/punct]() (13435; 100% instances), [fa-dep/conj]() (7; 0% instances)
 
-Parents of `PUNCT` nodes belong to 12 different parts of speech: [VERB]() (7800; 58% instances), [NOUN]() (3634; 27% instances), [ADJ]() (1590; 12% instances), [PRON]() (122; 1% instances), [NUM]() (116; 1% instances), [ADP]() (90; 1% instances), [ADV]() (75; 1% instances), [X]() (7; 0% instances), [INTJ]() (5; 0% instances), [AUX]() (1; 0% instances), [CONJ]() (1; 0% instances), [DET]() (1; 0% instances)
+Parents of `PUNCT` nodes belong to 11 different parts of speech: [VERB]() (7799; 58% instances), [NOUN]() (3639; 27% instances), [ADJ]() (1592; 12% instances), [PRON]() (123; 1% instances), [NUM]() (116; 1% instances), [ADP]() (88; 1% instances), [ADV]() (71; 1% instances), [X]() (7; 0% instances), [INTJ]() (5; 0% instances), [AUX]() (1; 0% instances), [CONJ]() (1; 0% instances)
 
 13439 (100%) `PUNCT` nodes are leaves.
 

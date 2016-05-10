@@ -7,10 +7,10 @@
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-43823 tokens (17%) have a non-empty value of `VerbForm`.
-4471 types (23%) occur at least once with a non-empty value of `VerbForm`.
-2145 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 6 part-of-speech tags: [en-pos/VERB]() (34072; 13% instances), [en-pos/AUX]() (9746; 4% instances), [en-pos/NOUN]() (2; 0% instances), [en-pos/ADJ]() (1; 0% instances), [en-pos/ADP]() (1; 0% instances), [en-pos/ADV]() (1; 0% instances).
+43822 tokens (17%) have a non-empty value of `VerbForm`.
+4469 types (23%) occur at least once with a non-empty value of `VerbForm`.
+2143 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 5 part-of-speech tags: [en-pos/VERB]() (34072; 13% instances), [en-pos/AUX]() (9746; 4% instances), [en-pos/NOUN]() (2; 0% instances), [en-pos/ADP]() (1; 0% instances), [en-pos/ADV]() (1; 0% instances).
 
 ### `VERB`
 
@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 * `Fin` (15990; 47% of non-empty `VerbForm`): <em>is, was, are, have, 's, had, were, said, has, 'm</em>
 * `Ger` (2861; 8% of non-empty `VerbForm`): <em>going, being, getting, looking, following, including, taking, having, using, doing</em>
-* `Inf` (9475; 28% of non-empty `VerbForm`): <em>be, have, get, know, do, go, make, take, see, like</em>
-* `Part` (5746; 17% of non-empty `VerbForm`): <em>been, going, had, attached, done, made, used, based, called, doing</em>
+* `Inf` (9474; 28% of non-empty `VerbForm`): <em>be, have, get, know, do, go, make, take, see, like</em>
+* `Part` (5747; 17% of non-empty `VerbForm`): <em>been, going, had, attached, done, made, used, based, called, doing</em>
 * `EMPTY` (6): <em>associates, cell, crossing, jack, rays, resource</em>
 
 <table>
@@ -52,7 +52,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `Ger` (102; 1% of non-empty `VerbForm`): <em>being, having, getting</em>
 * `Inf` (672; 7% of non-empty `VerbForm`): <em>be, have, do, get, of, am, 've</em>
 * `Part` (235; 2% of non-empty `VerbForm`): <em>been</em>
-* `EMPTY` (2): <em>nt</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -64,7 +63,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>is, 's, s</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>was</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>were</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>are, 'm, 're, r, m, re, ai</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>are, 'm, 're, m, r, re, ai</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>been</em></td><td></td></tr>
 </table>
 
@@ -78,7 +77,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 * `Ger` (1; 50% of non-empty `VerbForm`): <em>marrying</em>
 * `Inf` (1; 50% of non-empty `VerbForm`): <em>answers</em>
-* `EMPTY` (43788): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `EMPTY` (43786): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
 ### `ADV`
 
@@ -89,7 +88,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Inf` (1; 100% of non-empty `VerbForm`): <em>forward</em>
-* `EMPTY` (13041): <em>so, just, when, very, also, how, now, even, there, then</em>
+* `EMPTY` (13038): <em>so, just, when, very, also, how, now, even, there, then</em>
 
 ### `ADP`
 
@@ -98,30 +97,19 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADP` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1; 100% of non-empty `VerbForm`): <em>up</em>
-* `EMPTY` (21680): <em>of, in, to, for, on, with, at, from, by, as</em>
-
-### `ADJ`
-
-1 [en-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%).
-
-`ADJ` tokens may have the following values of `VerbForm`:
-
-* `Part` (1; 100% of non-empty `VerbForm`): <em>used</em>
-* `EMPTY` (15956): <em>good, great, other, best, new, many, more, last, same, few</em>
+* `EMPTY` (21679): <em>of, in, to, for, on, with, at, from, by, as</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2089; 72%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (352; 54%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2090; 72%),
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (354; 54%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (8; 67%),
 <tt>VERB --[<a href="../dep/list.html">list</a>]--> VERB</tt> (5; 56%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (5; 63%),
 <tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/compound:prt.html">compound:prt</a>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%).
 

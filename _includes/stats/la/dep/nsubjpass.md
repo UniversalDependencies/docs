@@ -81,66 +81,69 @@ The following 10 pairs of parts of speech are connected with `nsubjpass`: [la-po
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-5027 nodes (2%) are attached to their parents as `nsubjpass`.
+5858 nodes (2%) are attached to their parents as `nsubjpass`.
 
-3893 instances of `nsubjpass` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.7199124726477.
+4522 instances of `nsubjpass` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.7424035506999.
 
-The following 23 pairs of parts of speech are connected with `nsubjpass`: [la-pos/VERB]()-[la-pos/NOUN]() (2881; 57% instances), [la-pos/VERB]()-[la-pos/PRON]() (1438; 29% instances), [la-pos/VERB]()-[la-pos/ADJ]() (156; 3% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (144; 3% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (111; 2% instances), [la-pos/VERB]()-[la-pos/DET]() (81; 2% instances), [la-pos/ADJ]()-[la-pos/PRON]() (61; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (61; 1% instances), [la-pos/VERB]()-[la-pos/NUM]() (61; 1% instances), [la-pos/PRON]()-[la-pos/NOUN]() (8; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (7; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/DET]()-[la-pos/PRON]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/NUM]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/DET]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/DET]() (1; 0% instances), [la-pos/NUM]()-[la-pos/DET]() (1; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (1; 0% instances), [la-pos/VERB]()-[la-pos/VERB]() (1; 0% instances), [la-pos/VERB]()-[la-pos/X]() (1; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 nsubjpass	color:blue
-1	perfectum	perfectus	NOUN	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	nmod	_	_
-2	autem	autem	CONJ	O4	_	5	cc	_	_
-3	bonum	bonum	NOUN	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	nsubjpass	_	_
-4	non	non	ADV	O4	_	5	neg	_	_
-5	compatitur	compatior	VERB	L3|modJ|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-6	aliquod	aliqui	PRON	F1|grn1|casD|gen3|varA	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	7	nmod	_	_
-7	malum	malum	NOUN	B1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	dobj	_	_
-8	.	.	PUNCT	Punc	_	5	punct	_	_
-
-~~~
+The following 29 pairs of parts of speech are connected with `nsubjpass`: [la-pos/VERB]()-[la-pos/NOUN]() (3327; 57% instances), [la-pos/VERB]()-[la-pos/PRON]() (1797; 31% instances), [la-pos/VERB]()-[la-pos/ADJ]() (189; 3% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (111; 2% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (109; 2% instances), [la-pos/VERB]()-[la-pos/PROPN]() (106; 2% instances), [la-pos/VERB]()-[la-pos/NUM]() (64; 1% instances), [la-pos/ADJ]()-[la-pos/PRON]() (56; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (55; 1% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (6; 0% instances), [la-pos/PRON]()-[la-pos/NOUN]() (5; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (5; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (4; 0% instances), [la-pos/ADJ]()-[la-pos/PROPN]() (3; 0% instances), [la-pos/DET]()-[la-pos/PRON]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/NUM]() (2; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/DET]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/DET]() (1; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (1; 0% instances), [la-pos/NUM]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADP]() (1; 0% instances), [la-pos/VERB]()-[la-pos/X]() (1; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 nsubjpass	color:blue
-1	potest	possum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
-2	autem	autem	CONJ	O4	_	1	cc	_	_
-3	aliquis	aliquis	PRON	F1|grn1|casA|gen1|varA	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	1	nsubjpass	_	_
-4	malus	malus	ADJ	B1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
-5	honorem	honor	NOUN	C1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	dobj	_	_
-6	consequi	consequor	VERB	L3|modQ|tem1	Tense=Pres|VerbForm=Inf|Voice=Pass	1	xcomp	_	_
-7	.	.	PUNCT	Punc	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 1 nsubjpass	color:blue
-1	propria	proprius	ADJ	B1|grn1|casJ|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	6	nsubjpass	_	_
-2	enim	enim	ADV	O4	_	6	cc	_	_
-3	in	in	ADP	S4	AdpType=Prep	4	case	_	_
-4	communibus	communis	ADJ	C1|grn1|casO|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	6	advmod	_	_
-5	potentia	potentia	NOUN	A1|grn1|casF|gen2|vgr1	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	6	nmod	_	_
-6	continentur	contineo	VERB	K3|modJ|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-7	.	.	PUNCT	Punc	_	6	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nsubjpass	color:blue
+1	quis	qui	PRON	F1|grn1|casA|gen1|varA|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	2	nmod	_	_
+2	modus	modus	NOUN	B1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	sit	sum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	possibilis	possibilis	ADJ	C1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+5	divinae	divinus	ADJ	A1|grn1|casB|gen2|stAM	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	veritatis	veritas	NOUN	C1|grn1|casB|gen2|vgr1|stAC	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	nsubjpass	_	_
+7	manifestandae	manifesto	VERB	J2|modO|grp1|casB|gen2|stAC	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Gdv|Voice=Pass	2	acl	_	_
+8	.	.	PUNCT	Punc	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nsubjpass	color:blue
+1	quidam	quidam	PRON	F1|grn1|casJ|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|PronType=Ind	3	nsubjpass	_	_
+2	vero	verus	ADJ	B1|grn1|casG|vgr1|stRL	Case=Loc|Degree=Pos|Number=Sing	3	advmod	_	_
+3	impediuntur	impedio	VERB	M3|modJ|tem1|gen9|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	necessitate	necessitas	NOUN	C1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	3	nmod	_	_
+5	rei	res	NOUN	E1|grn1|casB|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	nmod	_	_
+6	familiaris	familiaris	ADJ	C1|grn1|casB|gen2|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	Punc	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 5 nsubjpass	color:blue
+1	unde	unde	ADV	O4|stRL	_	9	advmod	_	_
+2	et	et	CONJ	O4|stRL	_	9	cc	_	_
+3	in	in	ADP	S4|stRL	AdpType=Prep	4	case	_	_
+4	ea	is	PRON	F1|grn1|casF|gen2|stPV	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem,Prs	9	nmod	_	_
+5	plurima	multus	ADJ	B1|grn3|casJ|gen3|stPV	Case=Nom|Degree=Sup|Gender=Neut|Number=Plur	9	nsubjpass	_	_
+6	humanum	humanus	ADJ	B1|grn1|casD|gen1|stAN	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	sensum	sensus	NOUN	D1|grn1|casD|gen1|stAC	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	dobj	_	_
+8	excedentia	excedo	VERB	L2|modD|tem1|grp1|casJ|gen3|stAV	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
+9	proponuntur	propono	VERB	L3|modJ|tem1|gen9|stAE	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	.	.	PUNCT	Punc	_	9	punct	_	_
 
 ~~~
 

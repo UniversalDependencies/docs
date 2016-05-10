@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [hi-pos/AUX]() (10557; 3% instan
 
 10557 [hi-pos/AUX]() tokens (47% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (10557; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (10557; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (10557; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8634; 82%), <tt><a href="Person.html">Person</a>=3</tt> (8607; 82%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7578; 72%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (10557; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (10557; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (10557; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8634; 82%), <tt><a href="Person.html">Person</a>=3</tt> (8607; 82%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7578; 72%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 6023 [hi-pos/VERB]() tokens (16% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (6023; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6023; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (6023; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6023; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6011; 100%), <tt><a href="Person.html">Person</a>=3</tt> (5406; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (4978; 83%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3897; 65%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (6023; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6023; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (6023; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6023; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6011; 100%), <tt><a href="Person.html">Person</a>=3</tt> (5406; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (4978; 83%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3897; 65%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADP` and `Tense` co-occurred:
 
 1 [hi-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PROPN` and `Tense` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Tense`:
 

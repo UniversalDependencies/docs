@@ -9,7 +9,7 @@ This relation is universal.
 649 nodes (3%) are attached to their parents as `cc`.
 
 649 instances of `cc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.19414483821264.
+Average distance between parent and child is 5.19414483821263.
 
 The following 16 pairs of parts of speech are connected with `cc`: [ga-pos/NOUN]()-[ga-pos/CONJ]() (327; 50% instances), [ga-pos/VERB]()-[ga-pos/CONJ]() (176; 27% instances), [ga-pos/ADJ]()-[ga-pos/CONJ]() (32; 5% instances), [ga-pos/PROPN]()-[ga-pos/CONJ]() (32; 5% instances), [ga-pos/ADP]()-[ga-pos/CONJ]() (22; 3% instances), [ga-pos/PRON]()-[ga-pos/CONJ]() (19; 3% instances), [ga-pos/X]()-[ga-pos/CONJ]() (9; 1% instances), [ga-pos/NUM]()-[ga-pos/CONJ]() (8; 1% instances), [ga-pos/ADV]()-[ga-pos/CONJ]() (7; 1% instances), [ga-pos/SCONJ]()-[ga-pos/CONJ]() (6; 1% instances), [ga-pos/NOUN]()-[ga-pos/PUNCT]() (4; 1% instances), [ga-pos/VERB]()-[ga-pos/SCONJ]() (3; 0% instances), [ga-pos/ADJ]()-[ga-pos/PUNCT]() (1; 0% instances), [ga-pos/NOUN]()-[ga-pos/NOUN]() (1; 0% instances), [ga-pos/NOUN]()-[ga-pos/SCONJ]() (1; 0% instances), [ga-pos/PROPN]()-[ga-pos/NOUN]() (1; 0% instances).
 

@@ -46,7 +46,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 <table>
   <tr><th>Paradigm <i>தமிழர்</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களை, தமிழர்களைச்</td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களுக்க், தமிழர்களுக்கு, தமிழர்களுக்குத்</td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களுக்க், தமிழர்களுக்குத், தமிழர்களுக்கு</td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களின்</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Neut</tt></td><td></td><td>தமிழர்களிடம்</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut</tt></td><td>தமிழர்</td><td></td></tr>
@@ -100,7 +100,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-236 [ta-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+236 [ta-pos/PRON]() tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (222; 94%), <tt><a href="Person.html">Person</a>=3</tt> (196; 83%), <tt><a href="Gender.html">Gender</a>=Com</tt> (171; 72%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (166; 70%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (135; 57%), <tt><a href="Case.html">Case</a>=Nom</tt> (134; 57%).
 
@@ -108,6 +108,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (61; 26% of non-empty `Number`): அனைவரும், அவர்கள், அவர்களை, அவர்களுக்கு, அவர்களது, நாம், தங்கள், நாங்கள், அனைத்தும், நீங்கள்
 * `Sing` (175; 74% of non-empty `Number`): அவர், இது, தனது, அது, அதை, நான், அவரது, இதை, அதில், அவருக்கு
+* `EMPTY` (12): அதிகம், இந்த, மிகவும், முழுவதும், அந்தத், குறைவாகவே, கொஞ்சம், முழுக்
 
 <table>
   <tr><th>Paradigm <i>அவர்</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -124,7 +125,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 16 [ta-pos/NUM]() tokens (6% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (9; 56%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (9; 56%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (9; 56%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (9; 56%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -147,14 +148,14 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (537; 74%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (533; 74%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (501; 73%),
 <tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (177; 98%),
 <tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (139; 95%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (83; 53%),
 <tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (82; 87%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (79; 100%),
+<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (82; 100%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (82; 52%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (37; 74%),
-<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (19; 95%),
-<tt>NOUN --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (18; 58%).
+<tt>NOUN --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (20; 61%),
+<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (19; 95%).
 

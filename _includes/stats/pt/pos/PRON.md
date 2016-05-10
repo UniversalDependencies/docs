@@ -4,21 +4,21 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 87 `PRON` lemmas (0%), 148 `PRON` types (1%) and 7628 `PRON` tokens (3%).
-Out of 17 observed tags, the rank of `PRON` is: 7 in number of lemmas, 7 in number of types and 9 in number of tokens.
+There are 66 `PRON` lemmas (0%), 126 `PRON` types (0%) and 6697 `PRON` tokens (3%).
+Out of 17 observed tags, the rank of `PRON` is: 9 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>que, se, ele, o, a, eu, o_que, ela, isso, quem</em>
+The 10 most frequent `PRON` lemmas: <em>que, se, ele, o, eu, ela, isso, quem, eles, tudo</em>
 
-The 10 most frequent `PRON` types:  <em>que, se, a, o, ele, o_que, os, isso, quem, lhe</em>
+The 10 most frequent `PRON` types:  <em>que, se, ele, o, isso, quem, lhe, tudo, eles, a</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 2332, [SCONJ]() 1783, [ADV]() 90, [DET]() 20, [ADP]() 3, [X]() 1), <em>se</em> ([PRON]() 1428, [SCONJ]() 261, [NOUN]() 21), <em>o</em> ([DET]() 26191, [PRON]() 478, [ADP]() 3, [NOUN]() 1), <em>a</em> ([ADP]() 3569, [PRON]() 319, [DET]() 125, [PROPN]() 1, [ADV]() 1), <em>ela</em> ([PRON]() 170, [NOUN]() 1), <em>isso</em> ([PRON]() 162, [NOUN]() 1), <em>quem</em> ([PRON]() 142, [ADV]() 1), <em>tudo</em> ([PRON]() 93, [DET]() 3), <em>outro</em> ([DET]() 266, [PRON]() 85, [ADJ]() 20), <em>este</em> ([DET]() 579, [PRON]() 83)
+The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 2331, [SCONJ]() 1996, [ADV]() 90, [DET]() 20, [ADP]() 3, [X]() 1), <em>se</em> ([PRON]() 1428, [SCONJ]() 261, [NOUN]() 21), <em>o</em> ([DET]() 26843, [PRON]() 220, [ADP]() 3, [NOUN]() 1), <em>ela</em> ([PRON]() 170, [NOUN]() 1), <em>isso</em> ([PRON]() 166, [NOUN]() 1), <em>quem</em> ([PRON]() 142, [ADV]() 1), <em>tudo</em> ([PRON]() 114, [DET]() 3), <em>qual</em> ([PRON]() 94, [DET]() 8, [ADV]() 1, [INTJ]() 1), <em>outro</em> ([DET]() 266, [PRON]() 85, [ADJ]() 20), <em>este</em> ([DET]() 579, [PRON]() 83)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2327, [SCONJ]() 1775, [ADV]() 90, [DET]() 18, [ADP]() 3, [X]() 1), <em>se</em> ([PRON]() 1400, [SCONJ]() 172, [NOUN]() 21), <em>a</em> ([DET]() 9132, [ADP]() 3487, [PRON]() 389, [PROPN]() 1, [ADV]() 1), <em>o</em> ([DET]() 9674, [PRON]() 357, [NOUN]() 1), <em>os</em> ([DET]() 3079, [PRON]() 154), <em>isso</em> ([PRON]() 149, [NOUN]() 1), <em>quem</em> ([PRON]() 110, [ADV]() 1), <em>ela</em> ([PRON]() 79, [NOUN]() 1), <em>me</em> ([PRON]() 88, [NOUN]() 1, [INTJ]() 1), <em>tudo</em> ([PRON]() 77, [DET]() 3)
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2326, [SCONJ]() 1988, [ADV]() 90, [DET]() 18, [ADP]() 3, [X]() 1), <em>se</em> ([PRON]() 1400, [SCONJ]() 172, [NOUN]() 21), <em>o</em> ([DET]() 10021, [PRON]() 244, [NOUN]() 1), <em>isso</em> ([PRON]() 153, [NOUN]() 1), <em>quem</em> ([PRON]() 110, [ADV]() 1), <em>tudo</em> ([PRON]() 95, [DET]() 3), <em>a</em> ([DET]() 9385, [ADP]() 3577, [PRON]() 98, [PROPN]() 1, [ADV]() 1), <em>ela</em> ([PRON]() 79, [NOUN]() 1), <em>me</em> ([PRON]() 88, [NOUN]() 1, [INTJ]() 1), <em>os</em> ([DET]() 3231, [PRON]() 70)
 
 
 * <em>que</em>
-  * [PRON]() 2327: <em>Era uma época em <b>que</b> os cariocas imperavam em campo e fora de ele .</em>
-  * [SCONJ]() 1775: <em>Mas o orçamento de US$ 5 milhões insinua <b>que</b> a informação não é séria .</em>
+  * [PRON]() 2326: <em>Era uma época em <b>que</b> os cariocas imperavam em campo e fora de ele .</em>
+  * [SCONJ]() 1988: <em>Folha -- o <b>que</b> a mulher precisa hoje , em termos de roupas ?</em>
   * [ADV]() 90: <em>Mas é em a Republica Dominicana <b>que</b> o cruzeiro atinge seu ponto alto .</em>
   * [DET]() 18: <em>Os marginalizados de o sistema de ensino : <b>que</b> solução ?</em>
   * [ADP]() 3: <em>« Há <b>que</b> coordenar a acção de os diversos ministérios e municípios .</em>
@@ -27,25 +27,25 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2327, [SCONJ]() 17
   * [PRON]() 1400: <em>O deputado <b>se</b> aproximou .</em>
   * [SCONJ]() 172: <em>« Senão ele vai ser alvo fácil de as críticas <b>se</b> o time perder . »</em>
   * [NOUN]() 21: <em>Para eles fazerem publicidade privada , como <b>se</b> fosse um programa pago ?</em>
-* <em>a</em>
-  * [DET]() 9132: <em>Audiência em <b>a</b> Justiça de o Pará discute diploma</em>
-  * [ADP]() 3487: <em>Dallari orientou os produtores <b>a</b> negociarem com a indústria .</em>
-  * [PRON]() 389: <em>Gosto de levar <b>a</b> sério o meu papel de consultor encartado .</em>
-  * [PROPN]() 1: <em>Agora vou para Nova Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral da ONU ] o_que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar .</em>
-  * [ADV]() 1: <em>não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo_o processo nada tem <b>a</b> ver com Ciência , ao contrário de o que as máquinas de propaganda pretendem fazer crer .</em>
 * <em>o</em>
-  * [DET]() 9674: <em>Audiência em a Justiça de <b>o</b> Pará discute diploma</em>
-  * [PRON]() 357: <em>Após várias divergências com Fishel , Antinori <b>o</b> demitiu em 1990 .</em>
+  * [DET]() 10021: <em>Audiência em a Justiça de <b>o</b> Pará discute diploma</em>
+  * [PRON]() 244: <em>Após várias divergências com Fishel , Antinori <b>o</b> demitiu em 1990 .</em>
   * [NOUN]() 1: <em>« Pretendemos definir com <b>o</b> máximo rigor os custos médios de cada estudante , conforme a região onde se encontra , pois actualmente não existem dados concretos sobre o assunto » , esclareceu Miguel Rodrigues , que é também presidente da Associação Académica da Universidade de Aveiro .</em>
-* <em>os</em>
-  * [DET]() 3079: <em>De <b>os</b> fumantes , 18,1 milhões são homens e 12,5 milhões , mulheres .</em>
-  * [PRON]() 154: <em>Não sei em relação a <b>os</b> outros indiciados .</em>
 * <em>isso</em>
-  * [PRON]() 149: <em>É por <b>isso</b> que , explica , não tem pena de Hillary Clinton .</em>
+  * [PRON]() 153: <em>É por <b>isso</b> que , explica , não tem pena de Hillary Clinton .</em>
   * [NOUN]() 1: <em>É por <b>isso</b> que a exposição « Cassiano Branco e o Éden - Lisboa 1991 » resultou em a maior operação de mediatização de a arquitectura jamais vista em Portugal .</em>
 * <em>quem</em>
   * [PRON]() 110: <em>Saiba <b>quem</b> é Barrichello</em>
   * [ADV]() 1: <em>Em a disputa por o mercado de impressoras <b>quem</b> sai ganhando é o consumidor .</em>
+* <em>tudo</em>
+  * [PRON]() 95: <em>Está <b>tudo</b> em a sua cabeça .</em>
+  * [DET]() 3: <em>E eu sei que é <b>tudo</b> bofe mas parece <b>tudo</b> gay .</em>
+* <em>a</em>
+  * [DET]() 9385: <em>Audiência em <b>a</b> Justiça de o Pará discute diploma</em>
+  * [ADP]() 3577: <em>Dallari orientou os produtores <b>a</b> negociarem com a indústria .</em>
+  * [PRON]() 98: <em>Acabou a « America's Cup » de 1992 , viva <b>a</b> de 1995 .</em>
+  * [PROPN]() 1: <em>Agora vou para Nova Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral da ONU ] o que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar .</em>
+  * [ADV]() 1: <em>não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo o processo nada tem <b>a</b> ver com Ciência , ao contrário de o que as máquinas de propaganda pretendem fazer crer .</em>
 * <em>ela</em>
   * [PRON]() 79: <em>-- E <b>ela</b> disse para passar um cheque ...</em>
   * [NOUN]() 1: <em>Tão tchans quanto <b>ela</b> , seu marido Eurico é o dono de uma coleção de restaurantes estrelados em o Rio .</em>
@@ -53,13 +53,13 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2327, [SCONJ]() 17
   * [PRON]() 88: <em>Eu não <b>me</b> associo com moda .</em>
   * [NOUN]() 1: <em>Acho importante notar que a Bienal mudou a maneira de conseguir patrocínio cultural em o país , que antes era feito a a base de o « <b>me</b> dá um dinheiro aí » .</em>
   * [INTJ]() 1: <em>« Deus <b>me</b> livre .</em>
-* <em>tudo</em>
-  * [PRON]() 77: <em>Está <b>tudo</b> em a sua cabeça .</em>
-  * [DET]() 3: <em>E eu sei que é <b>tudo</b> bofe mas parece <b>tudo</b> gay .</em>
+* <em>os</em>
+  * [DET]() 3231: <em>De <b>os</b> fumantes , 18,1 milhões são homens e 12,5 milhões , mulheres .</em>
+  * [PRON]() 70: <em><b>os</b> que escolherem sábado podem começar mais cedo :</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.701149 (the average of all parts of speech is 1.447246).
+The form / lemma ratio of `PRON` is 1.909091 (the average of all parts of speech is 1.447797).
 
 The 1st highest number of forms (10) was observed with the lemma “ele”: <em>Ihe, ela, elas, ele, eles, lhe, lhe-, lo, no, o</em>.
 
@@ -67,34 +67,34 @@ The 2nd highest number of forms (7) was observed with the lemma “ela”: <em>a
 
 The 3rd highest number of forms (6) was observed with the lemma “se”: <em>s, se, se-, se-á, se-ão, si</em>.
 
-`PRON` occurs with 15 features: [pt-feat/PronType]() (7409; 97% instances), [pt-feat/Number]() (7138; 94% instances), [pt-feat/Gender]() (6764; 89% instances), [pt-feat/Person]() (2738; 36% instances), [pt-feat/Case]() (2726; 36% instances), [pt-feat/Reflex]() (782; 10% instances), [pt-feat/Definite]() (645; 8% instances), [pt-feat/NumType]() (591; 8% instances), [pt-feat/PrepCase]() (190; 2% instances), [pt-feat/Degree]() (127; 2% instances), [pt-feat/AdpType]() (108; 1% instances), [pt-feat/Poss]() (21; 0% instances), [pt-feat/Number[psor]]() (14; 0% instances), [pt-feat/Hyph]() (13; 0% instances), [pt-feat/Typo]() (1; 0% instances)
+`PRON` occurs with 14 features: [pt-feat/PronType]() (6482; 97% instances), [pt-feat/Number]() (6334; 95% instances), [pt-feat/Gender]() (5972; 89% instances), [pt-feat/Person]() (2747; 41% instances), [pt-feat/Case]() (2726; 41% instances), [pt-feat/Reflex]() (783; 12% instances), [pt-feat/NumType]() (463; 7% instances), [pt-feat/PrepCase]() (190; 3% instances), [pt-feat/Degree]() (123; 2% instances), [pt-feat/Definite]() (28; 0% instances), [pt-feat/Poss]() (23; 0% instances), [pt-feat/Number[psor]]() (16; 0% instances), [pt-feat/Hyph]() (13; 0% instances), [pt-feat/Typo]() (1; 0% instances)
 
-`PRON` occurs with 32 feature-value pairs: `AdpType=Prep`, `Case=Acc`, `Case=Acc,Dat`, `Case=Acc,Nom`, `Case=Dat`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PrepCase=Pre`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
+`PRON` occurs with 31 feature-value pairs: `Case=Acc`, `Case=Acc,Dat`, `Case=Acc,Nom`, `Case=Dat`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PrepCase=Pre`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Typo=Yes`
 
-`PRON` occurs with 182 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing|PronType=Rel` (1212 tokens).
-Examples: <em>que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo</em>
+`PRON` occurs with 176 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing|PronType=Rel` (1071 tokens).
+Examples: <em>que, quem, qual, quanto, Nada, cujo</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 24 different relations: [pt-dep/nsubj]() (3239; 42% instances), [pt-dep/dobj]() (2044; 27% instances), [pt-dep/nmod]() (845; 11% instances), [pt-dep/iobj]() (359; 5% instances), [pt-dep/advmod]() (291; 4% instances), [pt-dep/mwe]() (235; 3% instances), [pt-dep/root]() (128; 2% instances), [pt-dep/conj]() (111; 1% instances), [pt-dep/case]() (107; 1% instances), [pt-dep/mark]() (75; 1% instances), [pt-dep/cc]() (55; 1% instances), [pt-dep/auxpass:reflex]() (27; 0% instances), [pt-dep/dep]() (25; 0% instances), [pt-dep/xcomp]() (17; 0% instances), [pt-dep/ccomp]() (16; 0% instances), [pt-dep/parataxis]() (10; 0% instances), [pt-dep/acl]() (9; 0% instances), [pt-dep/advcl]() (9; 0% instances), [pt-dep/appos]() (9; 0% instances), [pt-dep/cop]() (8; 0% instances), [pt-dep/punct]() (5; 0% instances), [pt-dep/aux]() (2; 0% instances), [pt-dep/advmod:emph]() (1; 0% instances), [pt-dep/csubj]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 24 different relations: [pt-dep/nsubj]() (2971; 44% instances), [pt-dep/dobj]() (1964; 29% instances), [pt-dep/nmod]() (571; 9% instances), [pt-dep/iobj]() (386; 6% instances), [pt-dep/advmod]() (193; 3% instances), [pt-dep/nsubjpass]() (154; 2% instances), [pt-dep/root]() (120; 2% instances), [pt-dep/conj]() (103; 2% instances), [pt-dep/compound]() (86; 1% instances), [pt-dep/auxpass:reflex]() (27; 0% instances), [pt-dep/dep]() (25; 0% instances), [pt-dep/ccomp]() (18; 0% instances), [pt-dep/xcomp]() (13; 0% instances), [pt-dep/appos]() (11; 0% instances), [pt-dep/advcl]() (10; 0% instances), [pt-dep/parataxis]() (10; 0% instances), [pt-dep/acl]() (9; 0% instances), [pt-dep/mwe]() (8; 0% instances), [pt-dep/cop]() (6; 0% instances), [pt-dep/mark]() (4; 0% instances), [pt-dep/case]() (3; 0% instances), [pt-dep/aux]() (2; 0% instances), [pt-dep/cc]() (2; 0% instances), [pt-dep/csubj]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 16 different parts of speech: [VERB]() (6144; 81% instances), [NOUN]() (466; 6% instances), [ADV]() (254; 3% instances), [ADJ]() (214; 3% instances), [ROOT]() (128; 2% instances), [ADP]() (124; 2% instances), [NUM]() (121; 2% instances), [PRON]() (75; 1% instances), [PROPN]() (41; 1% instances), [SYM]() (28; 0% instances), [DET]() (14; 0% instances), [AUX]() (9; 0% instances), [CONJ]() (4; 0% instances), [SCONJ]() (4; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances)
+Parents of `PRON` nodes belong to 15 different parts of speech: [VERB]() (5659; 85% instances), [NOUN]() (361; 5% instances), [ADJ]() (185; 3% instances), [ROOT]() (120; 2% instances), [ADV]() (82; 1% instances), [DET]() (78; 1% instances), [PRON]() (78; 1% instances), [NUM]() (56; 1% instances), [PROPN]() (27; 0% instances), [ADP]() (21; 0% instances), [SYM]() (15; 0% instances), [AUX]() (9; 0% instances), [SCONJ]() (4; 0% instances), [CONJ]() (1; 0% instances), [INTJ]() (1; 0% instances)
 
-5985 (78%) `PRON` nodes are leaves.
+5336 (80%) `PRON` nodes are leaves.
 
-941 (12%) `PRON` nodes have one child.
+829 (12%) `PRON` nodes have one child.
 
-426 (6%) `PRON` nodes have two children.
+289 (4%) `PRON` nodes have two children.
 
-276 (4%) `PRON` nodes have three or more children.
+243 (4%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 12.
 
-Children of `PRON` nodes are attached using 25 different relations: [pt-dep/case]() (839; 28% instances), [pt-dep/mwe]() (392; 13% instances), [pt-dep/punct]() (354; 12% instances), [pt-dep/nmod]() (336; 11% instances), [pt-dep/acl]() (252; 8% instances), [pt-dep/cop]() (198; 7% instances), [pt-dep/cc]() (123; 4% instances), [pt-dep/nsubj]() (122; 4% instances), [pt-dep/det]() (121; 4% instances), [pt-dep/conj]() (74; 2% instances), [pt-dep/advmod]() (66; 2% instances), [pt-dep/amod]() (27; 1% instances), [pt-dep/advcl]() (25; 1% instances), [pt-dep/mark]() (25; 1% instances), [pt-dep/dobj]() (15; 0% instances), [pt-dep/neg]() (13; 0% instances), [pt-dep/appos]() (9; 0% instances), [pt-dep/dep]() (9; 0% instances), [pt-dep/nummod]() (8; 0% instances), [pt-dep/name]() (6; 0% instances), [pt-dep/ccomp]() (5; 0% instances), [pt-dep/advmod:emph]() (3; 0% instances), [pt-dep/csubj]() (3; 0% instances), [pt-dep/aux]() (1; 0% instances), [pt-dep/parataxis]() (1; 0% instances)
+Children of `PRON` nodes are attached using 25 different relations: [pt-dep/case]() (778; 31% instances), [pt-dep/punct]() (316; 13% instances), [pt-dep/nmod]() (295; 12% instances), [pt-dep/acl]() (255; 10% instances), [pt-dep/cop]() (187; 8% instances), [pt-dep/det]() (116; 5% instances), [pt-dep/nsubj]() (113; 5% instances), [pt-dep/advmod]() (99; 4% instances), [pt-dep/compound]() (82; 3% instances), [pt-dep/cc]() (52; 2% instances), [pt-dep/conj]() (51; 2% instances), [pt-dep/mark]() (32; 1% instances), [pt-dep/amod]() (25; 1% instances), [pt-dep/advcl]() (24; 1% instances), [pt-dep/neg]() (13; 1% instances), [pt-dep/appos]() (10; 0% instances), [pt-dep/dobj]() (10; 0% instances), [pt-dep/dep]() (9; 0% instances), [pt-dep/nummod]() (6; 0% instances), [pt-dep/advmod:emph]() (3; 0% instances), [pt-dep/ccomp]() (3; 0% instances), [pt-dep/csubj]() (3; 0% instances), [pt-dep/aux]() (1; 0% instances), [pt-dep/parataxis]() (1; 0% instances), [pt-dep/xcomp]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (933; 31% instances), [NOUN]() (606; 20% instances), [VERB]() (473; 16% instances), [PUNCT]() (348; 11% instances), [ADV]() (197; 7% instances), [DET]() (126; 4% instances), [PROPN]() (88; 3% instances), [CONJ]() (75; 2% instances), [PRON]() (75; 2% instances), [ADJ]() (51; 2% instances), [SCONJ]() (33; 1% instances), [NUM]() (15; 0% instances), [PART]() (5; 0% instances), [SYM]() (2; 0% instances)
+Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (772; 31% instances), [VERB]() (450; 18% instances), [NOUN]() (355; 14% instances), [PUNCT]() (316; 13% instances), [DET]() (173; 7% instances), [ADV]() (137; 6% instances), [PRON]() (78; 3% instances), [PROPN]() (71; 3% instances), [CONJ]() (49; 2% instances), [ADJ]() (40; 2% instances), [SCONJ]() (31; 1% instances), [NUM]() (11; 0% instances), [INTJ]() (1; 0% instances), [SYM]() (1; 0% instances)
 
 
 
@@ -111,7 +111,7 @@ The 10 most frequent `PRON` types:  <em>que, se, ele, isso, o, ela, um, eu, eles
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 57316, [ADP]() 51928, [PUNCT]() 42033, [PROPN]() 32948, [VERB]() 29700, [DET]() 26122, [ADJ]() 15107, [CONJ]() 10984, [ADV]() 9773, [NUM]() 8491, [PRON]() 7392, [AUX]() 5242, [PART]() 748, [X]() 539)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2970, [CONJ]() 2237, [ADP]() 113, [DET]() 7, [NOUN]() 3, [X]() 1), <em>se</em> ([PRON]() 755, [PART]() 392, [CONJ]() 186, [ADP]() 3, [PROPN]() 1), <em>o</em> ([DET]() 6544, [PRON]() 226, [ADP]() 1, [PROPN]() 1, [X]() 1), <em>ela</em> ([PRON]() 135, [NOUN]() 3), <em>um</em> ([DET]() 1704, [PRON]() 176, [NUM]() 121, [NOUN]() 1), <em>você</em> ([PRON]() 87, [PROPN]() 1), <em>uma</em> ([DET]() 1631, [NUM]() 89, [PRON]() 87), <em>qual</em> ([PRON]() 80, [DET]() 9), <em>me</em> ([PRON]() 71, [ADP]() 1, [NOUN]() 1), <em>nós</em> ([PRON]() 39, [NOUN]() 10)
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2970, [CONJ]() 2237, [ADP]() 113, [DET]() 7, [NOUN]() 3, [X]() 1), <em>se</em> ([PRON]() 755, [PART]() 392, [CONJ]() 186, [ADP]() 3, [PROPN]() 1), <em>o</em> ([DET]() 6544, [PRON]() 226, [X]() 1, [PROPN]() 1, [ADP]() 1), <em>ela</em> ([PRON]() 135, [NOUN]() 3), <em>um</em> ([DET]() 1704, [PRON]() 176, [NUM]() 121, [NOUN]() 1), <em>você</em> ([PRON]() 87, [PROPN]() 1), <em>uma</em> ([DET]() 1631, [NUM]() 89, [PRON]() 87), <em>qual</em> ([PRON]() 80, [DET]() 9), <em>me</em> ([PRON]() 71, [NOUN]() 1, [ADP]() 1), <em>nós</em> ([PRON]() 39, [NOUN]() 10)
 
 
 * <em>que</em>
@@ -130,9 +130,9 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2970, [CONJ]() 223
 * <em>o</em>
   * [DET]() 6544: <em>Na máxima do dia , <b>o</b> papel alcançou uma valorização de até 5,7 % .</em>
   * [PRON]() 226: <em>Dois anos depois , ele foi preso -- e eu nunca <b>o</b> vi novamente .</em>
-  * [ADP]() 1: <em>Como mostra minha defesa , as reuniões na Casa Civil com representantes de bancos e empresários são compatíveis com a função de ministro e em momento algum , como atestam os testemunhos , foram <b>o</b> fórum para discutir empréstimos .</em>
-  * [PROPN]() 1: <em>No entanto , em conjunto com a Paróquia de Aver - <b>o</b> - Mar , a paróquia encontra - se a esboçar uma igreja interparoquial de grandes dimensões , dado que a construção em altura domina o Agro - Velho .</em>
   * [X]() 1: <em>Aproveita ai muito os ultimos dias e vamos com certeza tomar variasss \ <b>o</b> / 2 semanas atrás</em>
+  * [PROPN]() 1: <em>No entanto , em conjunto com a Paróquia de Aver - <b>o</b> - Mar , a paróquia encontra - se a esboçar uma igreja interparoquial de grandes dimensões , dado que a construção em altura domina o Agro - Velho .</em>
+  * [ADP]() 1: <em>Como mostra minha defesa , as reuniões na Casa Civil com representantes de bancos e empresários são compatíveis com a função de ministro e em momento algum , como atestam os testemunhos , foram <b>o</b> fórum para discutir empréstimos .</em>
 * <em>ela</em>
   * [PRON]() 135: <em>Logo Maria descobre que <b>ela</b> está grávida .</em>
   * [NOUN]() 3: <em>Eu não desejo mal para <b>ela</b> , mas ela não precisa ter essa agressividade comigo .</em>
@@ -153,8 +153,8 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2970, [CONJ]() 223
   * [DET]() 9: <em>Zé -- O senhor foi contratado pelo DNER em <b>qual</b> função ?</em>
 * <em>me</em>
   * [PRON]() 71: <em>Não faria isso com um clube que <b>me</b> deu tanto .</em>
-  * [ADP]() 1: <em>A abertura interna pode seguir a tendência externa , porém <b>me</b> menor intensidade dada a atuação consistente do Banco Central na administração da moeda norte americana .</em>
   * [NOUN]() 1: <em>Grande destaque do atletismo brasileiro , Terezinha Guilhermina chega aos Jogos Paralímpicos de Londres como favorita ao pódio nas provas mais rápidas do esporte -- 100 <b>me</b> 200 m rasos .</em>
+  * [ADP]() 1: <em>A abertura interna pode seguir a tendência externa , porém <b>me</b> menor intensidade dada a atuação consistente do Banco Central na administração da moeda norte americana .</em>
 * <em>nós</em>
   * [PRON]() 39: <em>Logo em seguida , <b>nós</b> retomamos a bola .</em>
   * [NOUN]() 10: <em>Algoritmo bem útil para todos <b>nós</b> , mas colocado à prova por estudiosos .</em>

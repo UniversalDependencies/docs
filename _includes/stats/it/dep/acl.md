@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: [acl:relcl]().
 
-3518 nodes (1%) are attached to their parents as `acl`.
+3363 nodes (1%) are attached to their parents as `acl`.
 
-3416 instances of `acl` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.7640704945992.
+3272 instances of `acl` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.71840618495391.
 
-The following 11 pairs of parts of speech are connected with `acl`: [it-pos/NOUN]()-[it-pos/VERB]() (3064; 87% instances), [it-pos/PROPN]()-[it-pos/VERB]() (163; 5% instances), [it-pos/ADJ]()-[it-pos/VERB]() (148; 4% instances), [it-pos/PRON]()-[it-pos/VERB]() (115; 3% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (11; 0% instances), [it-pos/ADV]()-[it-pos/VERB]() (5; 0% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (5; 0% instances), [it-pos/NUM]()-[it-pos/VERB]() (3; 0% instances), [it-pos/NOUN]()-[it-pos/AUX]() (2; 0% instances), [it-pos/DET]()-[it-pos/VERB]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `acl`: [it-pos/NOUN]()-[it-pos/VERB]() (3071; 91% instances), [it-pos/PROPN]()-[it-pos/VERB]() (163; 5% instances), [it-pos/PRON]()-[it-pos/VERB]() (112; 3% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (11; 0% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (5; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,25 +46,19 @@ The following 11 pairs of parts of speech are connected with `acl`: [it-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 acl	color:blue
-1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-2	stato	essere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	cop	_	_
-3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	_
-5	di	di	ADP	E	_	7	case	_	_
-6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-7	Mayo	Mayo	PROPN	SP	_	4	nmod	_	_
-8	a	a	ADP	E	_	9	mark	_	_
-9	portar	portare	VERB	V	VerbForm=Inf	4	acl	_	_
-10	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Clit	9	dobj	_	_
-11	da	da	ADP	E	_	13	case	_	_
-12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
-13	Inghilterra	Inghilterra	PROPN	SP	_	9	nmod	_	_
-14	:	:	PUNCT	FC	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 acl	color:blue
+1	Ma	ma	CONJ	CC	_	4	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	4	neg	_	_
+3	gli	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Clit	4	iobj	_	_
+4	chiedete	chiedere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	4	dobj	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7	bere	bere	VERB	V	VerbForm=Inf	5	acl	_	_
+8	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 

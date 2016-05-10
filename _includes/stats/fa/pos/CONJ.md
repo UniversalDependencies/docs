@@ -4,24 +4,24 @@
 
 ## Treebank Statistics (UD_Persian)
 
-There are 1 `CONJ` lemmas (7%), 29 `CONJ` types (0%) and 8218 `CONJ` tokens (5%).
-Out of 15 observed tags, the rank of `CONJ` is: 5 in number of lemmas, 12 in number of types and 6 in number of tokens.
+There are 4 `CONJ` lemmas (10%), 29 `CONJ` types (0%) and 8218 `CONJ` tokens (5%).
+Out of 15 observed tags, the rank of `CONJ` is: 4 in number of lemmas, 12 in number of types and 6 in number of tokens.
 
-The 10 most frequent `CONJ` lemmas: _
+The 10 most frequent `CONJ` lemmas: و، _، که، یا
 
 The 10 most frequent `CONJ` types:  و، که، یا، اما، ولی، هم، بلکه، همچنین، نیز، بخصوص
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 57475, [ADP]() 17533, [VERB]() 16902, [ADJ]() 13589, [PUNCT]() 13442, [CONJ]() 8218, [PRON]() 5772, [SCONJ]() 5160, [ADV]() 4150, [DET]() 3561, [NUM]() 3406, [PART]() 2569, [AUX]() 772, [X]() 253, [INTJ]() 69)
+The 10 most frequent ambiguous lemmas: و ([CONJ]() 5555, [X]() 8, [NOUN]() 2, [SCONJ]() 2), _ ([NOUN]() 57224, [VERB]() 16929, [ADJ]() 13490, [PUNCT]() 13442, [ADP]() 11406, [PRON]() 5792, [ADV]() 4099, [DET]() 3558, [NUM]() 3409, [SCONJ]() 2428, [CONJ]() 2098, [AUX]() 742, [PART]() 490, [X]() 245, [INTJ]() 69), که ([SCONJ]() 2731, [CONJ]() 287, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  و ([CONJ]() 6956, [X]() 12, [NOUN]() 2, [PRON]() 2, [SCONJ]() 2), که ([SCONJ]() 3346, [CONJ]() 341, [ADV]() 2), اما ([CONJ]() 272, [SCONJ]() 2, [X]() 1), ولی ([CONJ]() 132, [SCONJ]() 2, [NOUN]() 1), هم ([SCONJ]() 461, [CONJ]() 61, [PRON]() 61), بلکه ([CONJ]() 50, [SCONJ]() 1), همچنین ([SCONJ]() 52, [CONJ]() 40), نیز ([SCONJ]() 292, [CONJ]() 21), بخصوص ([CONJ]() 6, [SCONJ]() 6), وقتی ([SCONJ]() 92, [CONJ]() 5, [NOUN]() 3)
+The 10 most frequent ambiguous types:  و ([CONJ]() 6956, [X]() 12, [NOUN]() 2, [SCONJ]() 2, [PRON]() 2), که ([SCONJ]() 3346, [CONJ]() 341, [ADV]() 2), اما ([CONJ]() 272, [SCONJ]() 2, [X]() 1), ولی ([CONJ]() 132, [SCONJ]() 2, [NOUN]() 1), هم ([SCONJ]() 461, [PRON]() 61, [CONJ]() 61), بلکه ([CONJ]() 50, [SCONJ]() 1), همچنین ([SCONJ]() 52, [CONJ]() 40), نیز ([SCONJ]() 292, [CONJ]() 21), بخصوص ([SCONJ]() 6, [CONJ]() 6), وقتی ([SCONJ]() 92, [CONJ]() 5, [NOUN]() 3)
 
 
 * و
   * [CONJ]() 6956: ادامه این وضعیت موج‌آفرینی <b>و</b> بحران‌سازی به صلاح کشور نیست .
   * [X]() 12: آیا تو ادعا نکردی که زیاد فرزند ابوسفیان است و حال آن که پیامبر ) ص ( فرمود : الولد للفراش <b>و</b> للعاهر الحجر .
   * [NOUN]() 2: به‌رغم کاهش ارزش سهام عمده بازار بورس فرانکفورت ، ارزش سهام شرکت بی ام <b>و</b> همچنان در حال افزایش است .
-  * [PRON]() 2: می‌گوید : خروشیدم و خواستم ز <b>و</b> چراغ !
   * [SCONJ]() 2: آقای صافی ، مدیر شبکه ، که دائما نظارت کامل داشتند <b>و</b> دارند .
+  * [PRON]() 2: می‌گوید : خروشیدم و خواستم ز <b>و</b> چراغ !
 * که
   * [SCONJ]() 3346: جبهه دوم خرداد از جناحها می‌خواهد <b>که</b> زمینه‌های تشنج را از بین ببرند .
   * [CONJ]() 341: گفت : بر من روزی نمی‌گذرد مگر آن <b>که</b> علی ) ع ( را یاد می‌کنم .
@@ -36,8 +36,8 @@ The 10 most frequent ambiguous types:  و ([CONJ]() 6956, [X]() 12, [NOUN]() 2, 
   * [NOUN]() 1: در ورزشگاه پوریای <b>ولی</b> تالش ، تیم سپاهان موفق شد در ضربات پنالتی با نتیجه ۵ بر ۴ در برابر تیم چوکای تالش به پیروزی برسد .
 * هم
   * [SCONJ]() 461: عبدالله‌بن‌زبیر <b>هم</b> مخالفت می‌کند .
-  * [CONJ]() 61: توس تشکیل می‌شده است از دو شهر طابران و نوقان که به <b>هم</b> متصل بوده‌اند .
   * [PRON]() 61: بچه‌ها بعضی با <b>هم</b> ، بعضی بازی‌کنان ، از مدرسه دور می‌شوند .
+  * [CONJ]() 61: توس تشکیل می‌شده است از دو شهر طابران و نوقان که به <b>هم</b> متصل بوده‌اند .
 * بلکه
   * [CONJ]() 50: تو حلیم نیستی <b>بلکه</b> تحلم می‌کنی ، خود ت را حلیم وانمود می‌کنی .
   * [SCONJ]() 1: یک عده هم کسانی هستند که مال آن رژیم نیستند ؛ اما از اول انقلاب ، <b>بلکه</b> بعضی پیش از انقلاب ، نشان دادند که به ادارهٔ کشور برطبق احکام اسلام از بن دندان عقیده‌یی ندارند ؛ آن‌ها اسم اسلام را می‌خواهند و اسم اسلام را دوست می‌دارند ؛ دشمن اسلام به آن معنا هم نیستند ؛ اما مطلقاً اعتقادی به فقه اسلامی ، به احکام اسلامی و به حاکمیت اسلامی ندارند ؛ معتقد به همان روشهای فردی‌ اند .
@@ -48,8 +48,8 @@ The 10 most frequent ambiguous types:  و ([CONJ]() 6956, [X]() 12, [NOUN]() 2, 
   * [SCONJ]() 292: از فحوای دیباچهٔ بیژن و منیژه <b>نیز</b> همین معنا می‌تراود .
   * [CONJ]() 21: و <b>نیز</b> تصویر کاملی از سلطنت معاویه ، که انسان کامل وارسته‌ای مثل حجر بن عدی را گردن می‌زند .
 * بخصوص
-  * [CONJ]() 6: و <b>بخصوص</b> گسترش روابط مطلوب بین ترکیه و ایران را در برابر غارتگری صهیونیست‌ها می‌طلبد .
   * [SCONJ]() 6: این گروه اعلام کرد : گرده گیاهان یک عامل تحریک‌کننده شناخته‌شده بروز آلرژیها <b>بخصوص</b> تب یونجه و آسم است .
+  * [CONJ]() 6: و <b>بخصوص</b> گسترش روابط مطلوب بین ترکیه و ایران را در برابر غارتگری صهیونیست‌ها می‌طلبد .
 * وقتی
   * [SCONJ]() 92: <b>وقتی</b> هنگام مرگ ابوبکر رسید ، او عمر را به عنوان جانشین خود برگزید .
   * [CONJ]() 5: نترس تا <b>وقتی</b> من این جا هستم آن‌ها به تو شلیک نمی‌کنند .
@@ -57,9 +57,13 @@ The 10 most frequent ambiguous types:  و ([CONJ]() 6956, [X]() 12, [NOUN]() 2, 
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 29.000000 (the average of all parts of speech is 1071.133333).
+The form / lemma ratio of `CONJ` is 7.250000 (the average of all parts of speech is 412.051282).
 
 The 1st highest number of forms (29) was observed with the lemma “_”: آن‌هم, آیا, الا, اما, اگر, این, بخصوص, بلکه, تا, ثانیاً, در‌نتیجه, زیرا, لذا, لکن, لیکن, منتهی, نیز, هم, همچنین, همچین, و, وقتی, ولی, وگرنه, چه, کمایینکه, که, گرچه, یا.
+
+The 2nd highest number of forms (1) was observed with the lemma “و”: و.
+
+The 3rd highest number of forms (1) was observed with the lemma “که”: که.
 
 `CONJ` does not occur with any features.
 
@@ -68,19 +72,17 @@ The 1st highest number of forms (29) was observed with the lemma “_”: آن�
 
 `CONJ` nodes are attached to their parents using 8 different relations: [fa-dep/cc]() (7653; 93% instances), [fa-dep/mwe]() (542; 7% instances), [fa-dep/advcl]() (13; 0% instances), [fa-dep/compound:lvc]() (3; 0% instances), [fa-dep/parataxis]() (3; 0% instances), [fa-dep/conj]() (2; 0% instances), [fa-dep/foreign]() (1; 0% instances), [fa-dep/root]() (1; 0% instances)
 
-Parents of `CONJ` nodes belong to 12 different parts of speech: [NOUN]() (4232; 51% instances), [VERB]() (2116; 26% instances), [ADJ]() (1112; 14% instances), [PRON]() (222; 3% instances), [CONJ]() (164; 2% instances), [ADP]() (132; 2% instances), [NUM]() (108; 1% instances), [ADV]() (106; 1% instances), [SCONJ]() (19; 0% instances), [DET]() (4; 0% instances), [X]() (2; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `CONJ` nodes belong to 12 different parts of speech: [NOUN]() (4233; 52% instances), [VERB]() (2116; 26% instances), [ADJ]() (1112; 14% instances), [PRON]() (223; 3% instances), [CONJ]() (164; 2% instances), [ADP]() (132; 2% instances), [NUM]() (108; 1% instances), [ADV]() (105; 1% instances), [SCONJ]() (19; 0% instances), [DET]() (3; 0% instances), [X]() (2; 0% instances), [ROOT]() (1; 0% instances)
 
 7979 (97%) `CONJ` nodes are leaves.
 
 237 (3%) `CONJ` nodes have one child.
 
-1 (0%) `CONJ` nodes have two children.
+2 (0%) `CONJ` nodes have two children.
 
-1 (0%) `CONJ` nodes have three or more children.
+The highest child degree of a `CONJ` node is 2.
 
-The highest child degree of a `CONJ` node is 3.
+Children of `CONJ` nodes are attached using 7 different relations: [fa-dep/mwe]() (217; 90% instances), [fa-dep/case]() (15; 6% instances), [fa-dep/cc]() (3; 1% instances), [fa-dep/advmod]() (2; 1% instances), [fa-dep/conj]() (2; 1% instances), [fa-dep/foreign]() (1; 0% instances), [fa-dep/punct]() (1; 0% instances)
 
-Children of `CONJ` nodes are attached using 8 different relations: [fa-dep/mwe]() (217; 90% instances), [fa-dep/case]() (15; 6% instances), [fa-dep/cc]() (3; 1% instances), [fa-dep/advmod]() (2; 1% instances), [fa-dep/conj]() (2; 1% instances), [fa-dep/foreign]() (1; 0% instances), [fa-dep/nmod]() (1; 0% instances), [fa-dep/punct]() (1; 0% instances)
-
-Children of `CONJ` nodes belong to 10 different parts of speech: [CONJ]() (164; 68% instances), [ADP]() (18; 7% instances), [PRON]() (18; 7% instances), [VERB]() (18; 7% instances), [NOUN]() (12; 5% instances), [ADV]() (6; 2% instances), [ADJ]() (3; 1% instances), [DET]() (1; 0% instances), [PUNCT]() (1; 0% instances), [X]() (1; 0% instances)
+Children of `CONJ` nodes belong to 10 different parts of speech: [CONJ]() (164; 68% instances), [ADP]() (18; 7% instances), [PRON]() (18; 7% instances), [VERB]() (18; 7% instances), [NOUN]() (11; 5% instances), [ADV]() (6; 2% instances), [ADJ]() (3; 1% instances), [DET]() (1; 0% instances), [PUNCT]() (1; 0% instances), [X]() (1; 0% instances)
 

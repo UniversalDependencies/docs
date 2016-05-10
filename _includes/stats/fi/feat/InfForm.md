@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [fi-pos/VERB]() (5005; 3% instan
 
 5005 [fi-pos/VERB]() tokens (16% of all `VERB` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (5005; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (5005; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5005; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (5005; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5005; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5005; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4941; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (4941; 99%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3011; 60%).
+The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5005; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5005; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (5005; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (5005; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5005; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (5005; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4941; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4941; 99%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3011; 60%).
 
 `VERB` tokens may have the following values of `InfForm`:
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `InfForm` co-occurr
 
 32 [fi-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `AUX` and `InfForm` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (32; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (32; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (32; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (32; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (32; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (32; 100%).
+The most frequent other feature values with which `AUX` and `InfForm` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (32; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (32; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (32; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (32; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (32; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (32; 100%).
 
 `AUX` tokens may have the following values of `InfForm`:
 
@@ -68,28 +68,29 @@ The 10 most frequent relations where parent and child node agree in `InfForm`:
 This feature is language-specific.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-5378 tokens (3%) have a non-empty value of `InfForm`.
-2080 types (5%) occur at least once with a non-empty value of `InfForm`.
-1142 lemmas (5%) occur at least once with a non-empty value of `InfForm`.
-The feature is used with 1 part-of-speech tags: [fi-pos/VERB]() (5378; 3% instances).
+5325 tokens (3%) have a non-empty value of `InfForm`.
+2067 types (5%) occur at least once with a non-empty value of `InfForm`.
+1140 lemmas (5%) occur at least once with a non-empty value of `InfForm`.
+The feature is used with 1 part-of-speech tags: [fi-pos/VERB]() (5325; 3% instances).
 
 ### `VERB`
 
-5378 [fi-pos/VERB]() tokens (14% of all `VERB` tokens) have a non-empty value of `InfForm`.
+5325 [fi-pos/VERB]() tokens (14% of all `VERB` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (5378; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5378; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5378; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (5378; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5378; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5378; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5340; 99%), <tt><a href="Case.html">Case</a>=Lat</tt> (3415; 63%).
+The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5325; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (5325; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5325; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5325; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (5325; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5325; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5287; 99%), <tt><a href="Case.html">Case</a>=Lat</tt> (3395; 64%).
 
 `VERB` tokens may have the following values of `InfForm`:
 
-* `1` (3543; 66% of non-empty `InfForm`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, pitää</em>
-* `2` (432; 8% of non-empty `InfForm`): <em>ollen, mennessä, ottaen, lukien, ollessa, tullen, tullessaan, katsoen, sanoen, yllättäen</em>
-* `3` (1403; 26% of non-empty `InfForm`): <em>tulemaan, olemaan, tekemään, katsomaan, nukkumaan, puhumaan, tekemättä, maksamaan, ottamaan, toimimaan</em>
+* `1` (3523; 66% of non-empty `InfForm`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</em>
+* `2` (422; 8% of non-empty `InfForm`): <em>ollen, ottaen, lukien, ollessa, tullen, tullessaan, katsoen, sanoen, yllättäen, käyttäen</em>
+* `3` (1380; 26% of non-empty `InfForm`): <em>tulemaan, olemaan, tekemään, katsomaan, nukkumaan, puhumaan, tekemättä, maksamaan, ottamaan, toimimaan</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ade|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>olemalla</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ela|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>olemasta</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ill|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>olemaan, oleen</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ill|<a href="Style.html">Style</a>=Coll|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>oleen</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ill|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>olemaan</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ine|<a href="Clitic.html">Clitic</a>=Kaan|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>ollessakaan</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ine|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=1|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>ollessani</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ine|<a href="Person[psor].html">Person[psor]</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>ollessaan</em></td><td></td></tr>
@@ -107,6 +108,5 @@ The most frequent other feature values with which `VERB` and `InfForm` co-occurr
 ## Relations with Agreement in `InfForm`
 
 The 10 most frequent relations where parent and child node agree in `InfForm`:
-<tt>VERB --[<a href="../dep/advcl:compar.html">advcl:compar</a>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (3; 100%).
+<tt>VERB --[<a href="../dep/mwe.html">mwe</a>]--> VERB</tt> (3; 100%).
 

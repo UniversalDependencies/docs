@@ -43,7 +43,7 @@ The following 11 pairs of parts of speech are connected with `cop`: [no-pos/ADJ]
 3	på	på	ADP	_	_	4	case	_	_
 4	vei	vei	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	til	til	ADP	_	_	8	case	_	_
-6	sin	sin	DET	_	Gender=Masc|Number=Sing|Poss=Yes	8	nmod	_	_
+6	sin	sin	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
 8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
 9	.	$.	PUNCT	_	_	4	punct	_	_

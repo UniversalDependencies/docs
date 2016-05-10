@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-4164 nodes (3%) are attached to their parents as `mark`.
+4165 nodes (3%) are attached to their parents as `mark`.
 
-4159 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.4978386167147.
+4160 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.50084033613445.
 
-The following 26 pairs of parts of speech are connected with `mark`: [fa-pos/VERB]()-[fa-pos/SCONJ]() (2661; 64% instances), [fa-pos/NOUN]()-[fa-pos/SCONJ]() (634; 15% instances), [fa-pos/ADJ]()-[fa-pos/SCONJ]() (599; 14% instances), [fa-pos/VERB]()-[fa-pos/ADP]() (111; 3% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (35; 1% instances), [fa-pos/NOUN]()-[fa-pos/ADP]() (25; 1% instances), [fa-pos/ADV]()-[fa-pos/SCONJ]() (21; 1% instances), [fa-pos/ADJ]()-[fa-pos/ADP]() (17; 0% instances), [fa-pos/VERB]()-[fa-pos/DET]() (10; 0% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (8; 0% instances), [fa-pos/NUM]()-[fa-pos/SCONJ]() (8; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADV]() (6; 0% instances), [fa-pos/PRON]()-[fa-pos/SCONJ]() (5; 0% instances), [fa-pos/VERB]()-[fa-pos/PRON]() (5; 0% instances), [fa-pos/ADJ]()-[fa-pos/DET]() (4; 0% instances), [fa-pos/NOUN]()-[fa-pos/DET]() (4; 0% instances), [fa-pos/AUX]()-[fa-pos/SCONJ]() (2; 0% instances), [fa-pos/ADJ]()-[fa-pos/PRON]() (1; 0% instances), [fa-pos/ADP]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/ADP]()-[fa-pos/SCONJ]() (1; 0% instances), [fa-pos/ADV]()-[fa-pos/ADP]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/PUNCT]()-[fa-pos/SCONJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `mark`: [fa-pos/VERB]()-[fa-pos/SCONJ]() (2661; 64% instances), [fa-pos/NOUN]()-[fa-pos/SCONJ]() (636; 15% instances), [fa-pos/ADJ]()-[fa-pos/SCONJ]() (600; 14% instances), [fa-pos/VERB]()-[fa-pos/ADP]() (111; 3% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (35; 1% instances), [fa-pos/NOUN]()-[fa-pos/ADP]() (25; 1% instances), [fa-pos/ADV]()-[fa-pos/SCONJ]() (19; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADP]() (17; 0% instances), [fa-pos/VERB]()-[fa-pos/DET]() (10; 0% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (8; 0% instances), [fa-pos/NUM]()-[fa-pos/SCONJ]() (8; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADV]() (6; 0% instances), [fa-pos/PRON]()-[fa-pos/SCONJ]() (5; 0% instances), [fa-pos/VERB]()-[fa-pos/PRON]() (5; 0% instances), [fa-pos/ADJ]()-[fa-pos/DET]() (4; 0% instances), [fa-pos/NOUN]()-[fa-pos/DET]() (4; 0% instances), [fa-pos/AUX]()-[fa-pos/SCONJ]() (2; 0% instances), [fa-pos/ADJ]()-[fa-pos/PRON]() (1; 0% instances), [fa-pos/ADP]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/ADP]()-[fa-pos/SCONJ]() (1; 0% instances), [fa-pos/ADV]()-[fa-pos/ADP]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/PUNCT]()-[fa-pos/SCONJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -75,9 +75,9 @@ The following 26 pairs of parts of speech are connected with `mark`: [fa-pos/VER
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 mark	color:blue
-1	در	_	ADP	P	_	3	case	_	_
-2	مورد	_	ADP	P	_	1	mwe	_	_
-3	عبدالله‌بن‌زبیر	_	NOUN	N_SING	Number=Sing	5	nmod	_	_
+1	در	_	ADP	P	_	2	case	_	_
+2	مورد	_	NOUN	N_SING	Number=Sing	5	nmod	_	_
+3	عبدالله‌بن‌زبیر	_	NOUN	N_SING	Number=Sing	2	nmod:poss	_	_
 4	سفارش	_	NOUN	N_SING	Number=Sing	5	compound:lvc	_	_
 5	می‌کند	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 6	که	_	SCONJ	CON	_	8	mark	_	_

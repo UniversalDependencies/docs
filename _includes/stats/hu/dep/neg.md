@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-299 nodes (1%) are attached to their parents as `neg`.
+429 nodes (1%) are attached to their parents as `neg`.
 
-282 instances of `neg` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49163879598662.
+407 instances of `neg` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4965034965035.
 
-The following 6 pairs of parts of speech are connected with `neg`: [hu-pos/VERB]()-[hu-pos/ADV]() (214; 72% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (35; 12% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (32; 11% instances), [hu-pos/PRON]()-[hu-pos/ADV]() (9; 3% instances), [hu-pos/ADV]()-[hu-pos/ADV]() (6; 2% instances), [hu-pos/DET]()-[hu-pos/ADV]() (3; 1% instances).
+The following 8 pairs of parts of speech are connected with `neg`: [hu-pos/VERB]()-[hu-pos/ADV]() (301; 70% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (56; 13% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (42; 10% instances), [hu-pos/PRON]()-[hu-pos/ADV]() (12; 3% instances), [hu-pos/ADV]()-[hu-pos/ADV]() (9; 2% instances), [hu-pos/AUX]()-[hu-pos/ADV]() (3; 1% instances), [hu-pos/DET]()-[hu-pos/ADV]() (3; 1% instances), [hu-pos/NUM]()-[hu-pos/ADV]() (3; 1% instances).
 
 
 ~~~ conllu

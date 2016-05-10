@@ -72,7 +72,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>era, fui, Soy</em></td><td><em>eran, serían</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>fue, Fui, ES</em></td><td><em>fueron, Son, fui</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>es</em></td><td><em>son</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>fuese</em></td><td><em>fueran, fuesen, fueron, Eran</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>fuese</em></td><td><em>fueran, fuesen, Eran, fueron</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sea</em></td><td><em>sean</em></td></tr>
 </table>
 
@@ -234,4 +234,225 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (2872; 74%),
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2103; 70%),
 <tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (1977; 87%).
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This feature is universal.
+It occurs with 2 different values: `Plur`, `Sing`.
+
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]().
+
+273296 tokens (49%) have a non-empty value of `Number`.
+26838 types (69%) occur at least once with a non-empty value of `Number`.
+14088 lemmas (54%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: [es-pos/NOUN]() (91787; 16% instances), [es-pos/DET]() (85467; 15% instances), [es-pos/ADJ]() (35658; 6% instances), [es-pos/VERB]() (34690; 6% instances), [es-pos/AUX]() (13711; 2% instances), [es-pos/PRON]() (8982; 2% instances), [es-pos/NUM]() (2866; 1% instances), [es-pos/ADP]() (76; 0% instances), [es-pos/ADV]() (59; 0% instances).
+
+### `NOUN`
+
+91787 [es-pos/NOUN]() tokens (91% of all `NOUN` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (46693; 51%).
+
+`NOUN` tokens may have the following values of `Number`:
+
+* `Plur` (27708; 30% of non-empty `Number`): <em>años, millones, personas, países, días, meses, elecciones, partidos, horas, puntos</em>
+* `Sing` (64079; 70% of non-empty `Number`): <em>presidente, equipo, partido, país, año, parte, ministro, mundo, grupo, portavoz</em>
+* `EMPTY` (8867): <em>pesetas, dólares, frente, respecto, vez, pese, año, partir, mayo, 1999</em>
+
+<table>
+  <tr><th>Paradigm <i>año</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>año</em></td><td><em>años</em></td></tr>
+</table>
+
+### `DET`
+
+85467 [es-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (73128; 86%), <tt><a href="Definite.html">Definite</a>=Def</tt> (63760; 75%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (46382; 54%).
+
+`DET` tokens may have the following values of `Number`:
+
+* `Plur` (18058; 21% of non-empty `Number`): <em>los, las, sus, todos, otros, estos, unos, todas, estas, otras</em>
+* `Sing` (67409; 79% of non-empty `Number`): <em>el, la, un, una, su, lo, este, esta, todo, esa</em>
+* `EMPTY` (66): <em>qué, Dios, EL, les, sabe</em>
+
+<table>
+  <tr><th>Paradigm <i>el</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><em>el</em></td><td><em>los</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td><em>la</em></td><td><em>las</em></td></tr>
+  <tr><td><tt></tt></td><td><em>lo</em></td><td></td></tr>
+</table>
+
+### `ADJ`
+
+35658 [es-pos/ADJ]() tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (29148; 82%).
+
+`ADJ` tokens may have the following values of `Number`:
+
+* `Plur` (10054; 28% of non-empty `Number`): <em>grandes, últimos, principales, internacionales, importantes, mayores, nuevas, sociales, mejores, nuevos</em>
+* `Sing` (25604; 72% of non-empty `Number`): <em>gran, mayor, pasado, mejor, general, primer, posible, primera, actual, electoral</em>
+* `EMPTY` (786): <em>ex, junto, nuevo, debido, gran, igual, mismo, próximo, otro, especial</em>
+
+<table>
+  <tr><th>Paradigm <i>primero</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><em>primer, primero</em></td><td><em>primeros</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td><em>primera</em></td><td><em>primeras</em></td></tr>
+</table>
+
+### `VERB`
+
+34690 [es-pos/VERB]() tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (30075; 87%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (30074; 87%), <tt><a href="Person.html">Person</a>=3</tt> (28203; 81%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (27292; 79%).
+
+`VERB` tokens may have the following values of `Number`:
+
+* `Plur` (7932; 23% of non-empty `Number`): <em>tienen, están, tenemos, estamos, tuvieron, estaban, hacen, dicen, quieren, existen</em>
+* `Sing` (26758; 77% of non-empty `Number`): <em>tiene, dijo, está, aseguró, explicó, afirmó, señaló, hizo, anunció, estaba</em>
+* `EMPTY` (11375): <em>hacer, dar, tener, ganar, estar, poner, ver, jugar, mantener, conseguir</em>
+
+<table>
+  <tr><th>Paradigm <i>tener</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>tenido</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>tendríamos</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tendría</em></td><td><em>tendrían</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tenga</em></td><td><em>tengan</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>tendremos</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>Tenía</em></td><td><em>teníamos</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tuve</em></td><td><em>tuvimos</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tengo</em></td><td><em>tenemos</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>Tenías</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tienes</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tendrá</em></td><td><em>tendrán</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tenía</em></td><td><em>tenían</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tuvo</em></td><td><em>tuvieron</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tiene</em></td><td><em>tienen</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>tengamos</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>tengáis</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tuviera, tuviese</em></td><td><em>tuvieran, tuviesen</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>tenga</em></td><td><em>tengan</em></td></tr>
+</table>
+
+### `AUX`
+
+13711 [es-pos/AUX]() tokens (87% of all `AUX` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (13084; 95%), <tt><a href="Person.html">Person</a>=3</tt> (12425; 91%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (11840; 86%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (9158; 67%).
+
+`AUX` tokens may have the following values of `Number`:
+
+* `Plur` (3063; 22% of non-empty `Number`): <em>han, son, fueron, pueden, habían, hemos, deben, eran, serán, están</em>
+* `Sing` (10648; 78% of non-empty `Number`): <em>es, ha, fue, había, hay, sido, puede, era, hace, será</em>
+* `EMPTY` (2012): <em>ser, haber, poder, siendo, estar, seguir, volver, hacer, decir, dejar</em>
+
+<table>
+  <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>sido</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sería</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>Serías</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sería</em></td><td><em>serían</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>Sé</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sea</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>seré</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>era</em></td><td><em>éramos</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>fui</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>soy</em></td><td><em>somos</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>eres</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>será</em></td><td><em>serán</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>era</em></td><td><em>eran</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>fue</em></td><td><em>fueron</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>es</em></td><td><em>son</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sea</em></td><td><em>seamos</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>seas</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>fuere</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>fuera, fuese</em></td><td><em>fueran, fuesen</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sea</em></td><td><em>sean</em></td></tr>
+</table>
+
+### `PRON`
+
+8982 [es-pos/PRON]() tokens (37% of all `PRON` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (6277; 70%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4667; 52%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4572; 51%).
+
+`PRON` tokens may have the following values of `Number`:
+
+* `Plur` (2407; 27% of non-empty `Number`): <em>nos, les, ellos, unos, los, otros, todos, las, nosotros, algunos</em>
+* `Sing` (6575; 73% of non-empty `Number`): <em>le, lo, me, uno, quien, la, todo, él, eso, nada</em>
+* `EMPTY` (15612): <em>que, se, donde, cómo, cuando, sí, lo, dónde, como, cuándo</em>
+
+<table>
+  <tr><th>Paradigm <i>él</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Prs</tt></td><td><em>lo, le, Les</em></td><td><em>los, les</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Prs</tt></td><td><em>la</em></td><td><em>las</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Prs</tt></td><td><em>le, se, les</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Prs</tt></td><td><em>le, se</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Prs</tt></td><td><em>él</em></td><td><em>ellos</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Prs</tt></td><td><em>ella</em></td><td><em>ellas, les</em></td></tr>
+  <tr><td><tt><a href="Person.html">Person</a>=1</tt></td><td><em>me</em></td><td></td></tr>
+  <tr><td><tt><a href="Person.html">Person</a>=2|<a href="PronType.html">PronType</a>=Prs</tt></td><td><em>la</em></td><td></td></tr>
+  <tr><td><tt><a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Prs</tt></td><td><em>ello</em></td><td><em>Les, se</em></td></tr>
+</table>
+
+### `NUM`
+
+2866 [es-pos/NUM]() tokens (33% of all `NUM` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (2865; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (2865; 100%).
+
+`NUM` tokens may have the following values of `Number`:
+
+* `Plur` (2736; 95% of non-empty `Number`): <em>dos, tres, cinco, cuatro, seis, ambos, siete, diez, ocho, nueve</em>
+* `Sing` (130; 5% of non-empty `Number`): <em>medio, media, un, doble, triple, uno, cero, una, cuádruple, décima</em>
+* `EMPTY` (5901): <em>ciento, 20, 30, 10, 12, 15, 2, 16, 24, 18</em>
+
+`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (48) occur only with one value of `Number`.
+
+### `ADP`
+
+76 [es-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Preppron</tt> (76; 100%).
+
+`ADP` tokens may have the following values of `Number`:
+
+* `Plur` (4; 5% of non-empty `Number`): <em>dels, als</em>
+* `Sing` (72; 95% of non-empty `Number`): <em>Al, da, Del, do, DEL, de, pelo</em>
+* `EMPTY` (87973): <em>de, en, a, por, con, para, entre, sobre, sin, desde</em>
+
+`Number` seems to be **lexical feature** of `ADP`. 100% lemmas (12) occur only with one value of `Number`.
+
+### `ADV`
+
+59 [es-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (59; 100%).
+
+`ADV` tokens may have the following values of `Number`:
+
+* `Plur` (1; 2% of non-empty `Number`): <em>tarde</em>
+* `Sing` (58; 98% of non-empty `Number`): <em>además, debajo, acerca, detrás, encima, después, dentro, lejos, alrededor, delante</em>
+* `EMPTY` (17833): <em>no, más, también, ya, hoy, ayer, muy, sólo, después, ahora</em>
+
+`Number` seems to be **lexical feature** of `ADV`. 100% lemmas (16) occur only with one value of `Number`.
+
+## Relations with Agreement in `Number`
+
+The 10 most frequent relations where parent and child node agree in `Number`:
+<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (64871; 97%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (26239; 96%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (13560; 55%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (10982; 84%),
+<tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (4757; 58%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (3681; 80%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2615; 72%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (2415; 66%),
+<tt>NOUN --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (1834; 82%),
+<tt>ADJ --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (1539; 88%).
 

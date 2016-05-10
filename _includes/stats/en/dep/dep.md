@@ -15,6 +15,21 @@ The following 8 pairs of parts of speech are connected with `dep`: [en-pos/NOUN]
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 dep	color:blue
+1	Category	category	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	:	_	1	punct	_	_
+3	Science	science	NOUN	NN	Number=Sing	1	appos	_	_
+4	>	>	PUNCT	,	_	3	punct	_	_
+5	Astronomy	astronomy	NOUN	NN	Number=Sing	4	dep	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 4	bgColor:blue
@@ -39,21 +54,6 @@ The following 8 pairs of parts of speech are connected with `dep`: [en-pos/NOUN]
 17	heures	heure	NOUN	NNS	Number=Plur	18	compound	_	_
 18	lenght	lenght	NOUN	NN	Number=Sing	4	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 dep	color:blue
-1	Category	category	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	:	_	1	punct	_	_
-3	Science	science	NOUN	NN	Number=Sing	1	appos	_	_
-4	>	>	PUNCT	,	_	3	punct	_	_
-5	Astronomy	astronomy	NOUN	NN	Number=Sing	4	dep	_	_
 
 ~~~
 

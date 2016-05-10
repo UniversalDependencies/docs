@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [bg-pos/PRON]() (46; 0% instance
 
 46 [bg-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (46; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (46; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (46; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (46; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (46; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (45; 98%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (46; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (46; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (46; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (46; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (46; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (45; 98%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 8 [bg-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (8; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (8; 100%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (8; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (8; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8; 100%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (8; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 1 [bg-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Animacy`:
 

@@ -7,57 +7,57 @@
 There are 1315 `ADJ` lemmas (17%), 2354 `ADJ` types (16%) and 4810 `ADJ` tokens (10%).
 Out of 12 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 3 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: _magnus1, suus1, omnis1, meus1, tuus1, alius2, noster1, publicus1, multus1, unus1_
+The 10 most frequent `ADJ` lemmas: <em>magnus1, suus1, omnis1, meus1, tuus1, alius2, noster1, publicus1, multus1, unus1</em>
 
-The 10 most frequent `ADJ` types:  _magna, omnes, omnia, sua, mea, omnis, suis, publicae, tua, suo_
+The 10 most frequent `ADJ` types:  <em>magna, omnes, omnia, sua, mea, omnis, suis, publicae, tua, suo</em>
 
-The 10 most frequent ambiguous lemmas: _magnus1_ ([ADJ]() 188, [ADV]() 17), _omnis1_ ([ADJ]() 169, [NOUN]() 14), _meus1_ ([ADJ]() 143, [NOUN]() 1, [X]() 1), _tuus1_ ([ADJ]() 107, [NOUN]() 1), _alius2_ ([ADJ]() 102, [NOUN]() 4, [PRON]() 2), _noster1_ ([ADJ]() 89, [PRON]() 1), _publicus1_ ([ADJ]() 75, [ADV]() 4, [NOUN]() 1), _multus1_ ([ADJ]() 72, [ADV]() 9, [NOUN]() 1), _unus1_ ([ADJ]() 64, [ADV]() 3, [X]() 1), _bonus1_ ([ADJ]() 60, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>magnus1</em> ([ADJ]() 188, [ADV]() 17), <em>omnis1</em> ([ADJ]() 169, [NOUN]() 14), <em>meus1</em> ([ADJ]() 143, [NOUN]() 1, [X]() 1), <em>tuus1</em> ([ADJ]() 107, [NOUN]() 1), <em>alius2</em> ([ADJ]() 102, [NOUN]() 4, [PRON]() 2), <em>noster1</em> ([ADJ]() 89, [PRON]() 1), <em>publicus1</em> ([ADJ]() 75, [ADV]() 4, [NOUN]() 1), <em>multus1</em> ([ADJ]() 72, [ADV]() 9, [NOUN]() 1), <em>unus1</em> ([ADJ]() 64, [ADV]() 3, [X]() 1), <em>bonus1</em> ([ADJ]() 60, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  _omnes_ ([ADJ]() 42, [NOUN]() 11), _omnia_ ([ADJ]() 35, [NOUN]() 26), _sua_ ([ADJ]() 36, [PRON]() 5, [NOUN]() 1), _mea_ ([ADJ]() 34, [PRON]() 6), _omnis_ ([ADJ]() 31, [NOUN]() 5), _suis_ ([ADJ]() 33, [PRON]() 7, [NOUN]() 1), _publicae_ ([ADJ]() 29, [NOUN]() 1), _tua_ ([ADJ]() 26, [PRON]() 4), _suo_ ([ADJ]() 25, [PRON]() 5), _multa_ ([ADJ]() 23, [NOUN]() 8)
+The 10 most frequent ambiguous types:  <em>omnes</em> ([ADJ]() 42, [NOUN]() 11), <em>omnia</em> ([ADJ]() 35, [NOUN]() 26), <em>sua</em> ([ADJ]() 36, [PRON]() 5, [NOUN]() 1), <em>mea</em> ([ADJ]() 34, [PRON]() 6), <em>omnis</em> ([ADJ]() 31, [NOUN]() 5), <em>suis</em> ([ADJ]() 33, [PRON]() 7, [NOUN]() 1), <em>publicae</em> ([ADJ]() 29, [NOUN]() 1), <em>tua</em> ([ADJ]() 26, [PRON]() 4), <em>suo</em> ([ADJ]() 25, [PRON]() 5), <em>multa</em> ([ADJ]() 23, [NOUN]() 8)
 
 
-* _omnes_
-  * [ADJ]() 42: _Ad summam , <b>omnes</b> illos in testamento meo manu mitto_
-  * [NOUN]() 11: _Sed ego quae mente agitavi , <b>omnes</b> iam antea divorsi audistis_
-* _omnia_
-  * [ADJ]() 35: _Mulieres si non essent , <b>omnia</b> pro luto haberemus_
-  * [NOUN]() 26: _Corcillum est quod homines facit , cetera quisquilia <b>omnia</b>_
-* _sua_
-  * [ADJ]() 36: _At ille circumminxit vestimenta <b>sua</b> , et subito lupus factus est_
-  * [PRON]() 5: _de mensa <b>sua</b> Dat ossa dominus ;_
-  * [NOUN]() 1: _arma per Italiam locis opportunis parare , pecuniam <b>sua</b> aut amicorum fide sumptam mutuam Faesulas ad Manlium quendam portare , qui postea princeps fuit belli faciundi_
-* _mea_
-  * [ADJ]() 34: _et vires facit , et cum <b>mea</b> re [ causal facio , non ploro_
-  * [PRON]() 6: _Ergo quid refert <b>mea</b> Cui serviam clitellas cum portem meas ?_
-* _omnis_
-  * [ADJ]() 31: _et <b>omnis</b> insula fugit et montes non sunt inventi_
-  * [NOUN]() 5: _eos atque alios <b>omnis</b> malum publicum alebat_
-* _suis_
-  * [ADJ]() 33: _eum <b>suis</b> consiliis multum officere_
-  * [PRON]() 7: _Haec significat fabula Dominum videre plurimum in rebus <b>suis</b> ._
-  * [NOUN]() 1: _Terrore offuso et perturbatis sensibus Derepit ad cubile setosae <b>suis</b> :_
-* _publicae_
-  * [ADJ]() 29: _non est saepius in uno homine summa salus periclitanda rei <b>publicae</b>_
-  * [NOUN]() 1: _denique , quotienscumque me petisti , per me tibi obstiti , quamquam videbam perniciem meam cum magna calamitate rei <b>publicae</b> esse coniunctam_
-* _tua_
-  * [ADJ]() 26: _nimium diu te imperatorem <b>tua</b> illa Manliana castra desiderant_
-  * [PRON]() 4: _non est hic mater <b>tua</b> ;_
-* _suo_
-  * [ADJ]() 25: _Consternata est etiam Scintilla que trepidantem sinu <b>suo</b> texit_
-  * [PRON]() 5: _Ambitio namque dissidens mortalium Aut gratiae subscribit aut odio <b>suo</b> ._
-* _multa_
-  * [ADJ]() 23: _Et <b>multa</b> alia sunt , quae statim vobis ostendam_
-  * [NOUN]() 8: _interea Romae <b>multa</b> simul moliri_
+* <em>omnes</em>
+  * [ADJ]() 42: <em>Ad summam , <b>omnes</b> illos in testamento meo manu mitto</em>
+  * [NOUN]() 11: <em>Sed ego quae mente agitavi , <b>omnes</b> iam antea divorsi audistis</em>
+* <em>omnia</em>
+  * [ADJ]() 35: <em>Mulieres si non essent , <b>omnia</b> pro luto haberemus</em>
+  * [NOUN]() 26: <em>Corcillum est quod homines facit , cetera quisquilia <b>omnia</b></em>
+* <em>sua</em>
+  * [ADJ]() 36: <em>At ille circumminxit vestimenta <b>sua</b> , et subito lupus factus est</em>
+  * [PRON]() 5: <em>de mensa <b>sua</b> Dat ossa dominus ;</em>
+  * [NOUN]() 1: <em>arma per Italiam locis opportunis parare , pecuniam <b>sua</b> aut amicorum fide sumptam mutuam Faesulas ad Manlium quendam portare , qui postea princeps fuit belli faciundi</em>
+* <em>mea</em>
+  * [ADJ]() 34: <em>et vires facit , et cum <b>mea</b> re [ causal facio , non ploro</em>
+  * [PRON]() 6: <em>Ergo quid refert <b>mea</b> Cui serviam clitellas cum portem meas ?</em>
+* <em>omnis</em>
+  * [ADJ]() 31: <em>et <b>omnis</b> insula fugit et montes non sunt inventi</em>
+  * [NOUN]() 5: <em>eos atque alios <b>omnis</b> malum publicum alebat</em>
+* <em>suis</em>
+  * [ADJ]() 33: <em>eum <b>suis</b> consiliis multum officere</em>
+  * [PRON]() 7: <em>Haec significat fabula Dominum videre plurimum in rebus <b>suis</b> .</em>
+  * [NOUN]() 1: <em>Terrore offuso et perturbatis sensibus Derepit ad cubile setosae <b>suis</b> :</em>
+* <em>publicae</em>
+  * [ADJ]() 29: <em>non est saepius in uno homine summa salus periclitanda rei <b>publicae</b></em>
+  * [NOUN]() 1: <em>denique , quotienscumque me petisti , per me tibi obstiti , quamquam videbam perniciem meam cum magna calamitate rei <b>publicae</b> esse coniunctam</em>
+* <em>tua</em>
+  * [ADJ]() 26: <em>nimium diu te imperatorem <b>tua</b> illa Manliana castra desiderant</em>
+  * [PRON]() 4: <em>non est hic mater <b>tua</b> ;</em>
+* <em>suo</em>
+  * [ADJ]() 25: <em>Consternata est etiam Scintilla que trepidantem sinu <b>suo</b> texit</em>
+  * [PRON]() 5: <em>Ambitio namque dissidens mortalium Aut gratiae subscribit aut odio <b>suo</b> .</em>
+* <em>multa</em>
+  * [ADJ]() 23: <em>Et <b>multa</b> alia sunt , quae statim vobis ostendam</em>
+  * [NOUN]() 8: <em>interea Romae <b>multa</b> simul moliri</em>
 
 ## Morphology
 
 The form / lemma ratio of `ADJ` is 1.790114 (the average of all parts of speech is 1.829408).
 
-The 1st highest number of forms (29) was observed with the lemma “magnus1”: _Maximo, magna, magnae, magnam, magnas, magne, magni, magnis, magno, magnorum, magnos, magnum, magnus, maior, maiora, maiore, maiorem, maiores, maioribus, maiorum, maius, maxime, maximus, maxuma, maxumam, maxumas, maxumis, maxumo, maxumum_
+The 1st highest number of forms (29) was observed with the lemma “magnus1”: <em>Maximo, magna, magnae, magnam, magnas, magne, magni, magnis, magno, magnorum, magnos, magnum, magnus, maior, maiora, maiore, maiorem, maiores, maioribus, maiorum, maius, maxime, maximus, maxuma, maxumam, maxumas, maxumis, maxumo, maxumum</em>.
 
-The 2nd highest number of forms (20) was observed with the lemma “bonus1”: _bona, bonae, bonam, boni, bonis, bono, bonorum, bonos, bonum, bonus, melior, meliora, meliorem, meliores, melius, optimum, optuma, optumo, optumum, optumus_
+The 2nd highest number of forms (20) was observed with the lemma “bonus1”: <em>bona, bonae, bonam, boni, bonis, bono, bonorum, bonos, bonum, bonus, melior, meliora, meliorem, meliores, melius, optimum, optuma, optumo, optumum, optumus</em>.
 
-The 3rd highest number of forms (18) was observed with the lemma “multus1”: _maxima, multa, multae, multarum, multas, multi, multis, multo, multorum, multos, multum, multus, plura, plures, plurima, plurimos, pluris, plus_
+The 3rd highest number of forms (18) was observed with the lemma “multus1”: <em>maxima, multa, multae, multarum, multas, multi, multis, multo, multorum, multos, multum, multus, plura, plures, plurima, plurimos, pluris, plus</em>.
 
 `ADJ` occurs with 4 features: [la-feat/Number]() (4807; 100% instances), [la-feat/Case]() (4806; 100% instances), [la-feat/Gender]() (4793; 100% instances), [la-feat/Degree]() (276; 6% instances)
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (18) was observed with the lemma “multus1”: 
 
 `ADJ` occurs with 95 feature combinations.
 The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (482 tokens).
-Examples: _alius, unus, solus, alter, magnus, meus, primus, noster, omnis, dignus_
+Examples: <em>alius, unus, solus, alter, magnus, meus, primus, noster, omnis, dignus</em>
 
 
 ## Relations
@@ -92,89 +92,89 @@ Children of `ADJ` nodes belong to 12 different parts of speech: [VERB]() (507; 2
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
-There are 717 `ADJ` lemmas (21%), 2379 `ADJ` types (19%) and 19700 `ADJ` tokens (8%).
-Out of 14 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
+There are 757 `ADJ` lemmas (21%), 2573 `ADJ` types (19%) and 22484 `ADJ` tokens (8%).
+Out of 15 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: _primus, divinus, naturalis, proprius, verus, possibilis, intelligibilis, solus, multus, diversus_
+The 10 most frequent `ADJ` lemmas: <em>divinus, primus, naturalis, verus, proprius, possibilis, solus, multus, intelligibilis, ulterior</em>
 
-The 10 most frequent `ADJ` types:  _vero, solum, impossibile, divina, primum, primo, amplius, prima, possibilis, prius_
+The 10 most frequent `ADJ` types:  <em>vero, divina, solum, impossibile, amplius, primum, primo, prima, possibilis, divinae</em>
 
-The 10 most frequent ambiguous lemmas: _parvus_ ([ADJ]() 147, [X]() 1), _fallo_ ([VERB]() 10, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>parvus</em> ([ADJ]() 180, [X]() 1), <em>potior</em> ([ADJ]() 23, [VERB]() 1), <em>fallo</em> ([VERB]() 10, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  _vero_ ([ADJ]() 372, [X]() 1), _primum_ ([ADJ]() 300, [NUM]() 1), _secundum_ ([ADP]() 1986, [ADJ]() 101), _minus_ ([ADJ]() 97, [X]() 1), _subsistens_ ([ADJ]() 82, [VERB]() 5), _bonum_ ([NOUN]() 469, [ADJ]() 77), _falsum_ ([ADJ]() 66, [VERB]() 1), _converso_ ([ADJ]() 46, [VERB]() 12), _bona_ ([ADJ]() 41, [NOUN]() 38), _tertio_ ([ADJ]() 41, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>vero</em> ([ADJ]() 434, [X]() 1), <em>primum</em> ([ADJ]() 316, [NUM]() 1), <em>minus</em> ([ADJ]() 116, [X]() 1), <em>secundum</em> ([ADP]() 2150, [ADJ]() 103), <em>subsistens</em> ([ADJ]() 82, [VERB]() 5), <em>bonum</em> ([NOUN]() 502, [ADJ]() 79), <em>falsum</em> ([ADJ]() 73, [VERB]() 1), <em>bona</em> ([NOUN]() 48, [ADJ]() 45), <em>converso</em> ([ADJ]() 45, [VERB]() 12), <em>tertio</em> ([ADJ]() 45, [NOUN]() 1)
 
 
-* _vero_
-  * [ADJ]() 372: _voluntatem <b>vero</b> intellectu per accidens et secundum quid ._
-  * [X]() 1: _cum <b>vero</b> intellectus iam ad formam veritatis pertingit , non cogitat , sed perfecte veritatem contemplatur ._
-* _primum_
-  * [ADJ]() 300: _et hoc est <b>primum</b> in quo differunt hae duae opiniones ._
-  * [NUM]() 1: _non est igitur unum <b>primum</b> et per se malorum principium : sed primum omnium principium est unum primum bonum , in cuius effectibus consequitur malum per accidens ._
-* _secundum_
-  * [ADP]() 1986: _voluntatem vero intellectu per accidens et <b>secundum</b> quid ._
-  * [ADJ]() 101: _et hoc est <b>secundum</b> in quo differt secunda opinio a prima ._
-* _minus_
-  * [ADJ]() 97: _si igitur honor non est summum bonum , multo <b>minus</b> gloria ._
-  * [X]() 1: _multo igitur <b>minus</b> per hoc quod intelligat aliquis quidditatem sensibilis substantiae , poterit intelligere quidditatem substantiae separatae ._
-* _subsistens_
-  * [ADJ]() 82: _unde impossibile est quod forma <b>subsistens</b> desinat esse ._
-  * [VERB]() 5: _substantiae autem intellectuali secundum suum genus convenit quod sit per se <b>subsistens</b> , cum habeat per se operationem : sicut superius est ostensum ._
-* _bonum_
-  * [NOUN]() 469: _felicitas est quoddam <b>bonum</b> hominis proprium :_
-  * [ADJ]() 77: _quod est propter alterum <b>bonum</b> et desiderabile , non est ultimus finis ._
-* _falsum_
-  * [ADJ]() 66: _hoc autem patet esse <b>falsum</b> :_
-  * [VERB]() 1: _ad quartum dicendum , quod ratio procederet , si formae universales superiorum non essent sufficientes ad cognitionem propriorum , quod <b>falsum</b> est :_
-* _converso_
-  * [ADJ]() 46: _creatura autem accipit a deo unde ei sit similis : non autem e <b>converso</b> ._
-  * [VERB]() 12: _secundum vero hanc secundam opinionem , est e <b>converso</b> :_
-* _bona_
-  * [ADJ]() 41: _vidit deus cuncta quae fecerat , et erant valde <b>bona</b> ._
-  * [NOUN]() 38: _haec <b>bona</b> sunt homini et aliis animalibus communia ._
-* _tertio_
-  * [ADJ]() 41: _<b>tertio</b> , autem , de ordine creaturarum in ipsum sicut in finem ._
-  * [NOUN]() 1: _<b>tertio</b> vero loco ponitur impressio formarum elementarium in materiam informem , non tempore , sed origine praecedentem ._
+* <em>vero</em>
+  * [ADJ]() 434: <em>hi <b>vero</b> neutrum recipiunt .</em>
+  * [X]() 1: <em>cum <b>vero</b> intellectus iam ad formam veritatis pertingit , non cogitat , sed perfecte veritatem contemplatur .</em>
+* <em>primum</em>
+  * [ADJ]() 316: <em>cum sit in quo <b>primum</b> maxime lumen intelligibile invenitur .</em>
+  * [NUM]() 1: <em>non est igitur unum <b>primum</b> et per se malorum principium : sed primum omnium principium est unum primum bonum , in cuius effectibus consequitur malum per accidens .</em>
+* <em>minus</em>
+  * [ADJ]() 116: <em>dissimilia autem , secundum quod causata habent <b>minus</b> suis causis .</em>
+  * [X]() 1: <em>multo igitur <b>minus</b> per hoc quod intelligat aliquis quidditatem sensibilis substantiae , poterit intelligere quidditatem substantiae separatae .</em>
+* <em>secundum</em>
+  * [ADP]() 2150: <em>unde <b>secundum</b> philosophum , sapientis est causas altissimas considerare .</em>
+  * [ADJ]() 103: <em><b>secundum</b> quod eos in hunc errorem promovit , est rationis defectus .</em>
+* <em>subsistens</em>
+  * [ADJ]() 82: <em>nam bonitas significat ut non <b>subsistens</b> , bonum autem ut concretum .</em>
+  * [VERB]() 5: <em>substantiae autem intellectuali secundum suum genus convenit quod sit per se <b>subsistens</b> , cum habeat per se operationem : sicut superius est ostensum .</em>
+* <em>bonum</em>
+  * [NOUN]() 502: <em>finis enim est <b>bonum</b> uniuscuiusque .</em>
+  * [ADJ]() 79: <em>id enim quo unumquodque <b>bonum</b> dicitur , est propria virtus eius :</em>
+* <em>falsum</em>
+  * [ADJ]() 73: <em>quia ex falso contingenti non sequitur <b>falsum</b> impossibile .</em>
+  * [VERB]() 1: <em>ad quartum dicendum , quod ratio procederet , si formae universales superiorum non essent sufficientes ad cognitionem propriorum , quod <b>falsum</b> est :</em>
+* <em>bona</em>
+  * [NOUN]() 48: <em>venerunt mihi omnia <b>bona</b> pariter cum illa .</em>
+  * [ADJ]() 45: <em>vidit deus cuncta quae fecerat , et erant valde <b>bona</b> .</em>
+* <em>converso</em>
+  * [ADJ]() 45: <em>creatura autem accipit a deo unde ei sit similis : non autem e <b>converso</b> .</em>
+  * [VERB]() 12: <em>deus igitur e <b>converso</b> relative ad creaturas dicetur .</em>
+* <em>tertio</em>
+  * [ADJ]() 45: <em><b>tertio</b> , autem , de ordine creaturarum in ipsum sicut in finem .</em>
+  * [NOUN]() 1: <em><b>tertio</b> vero loco ponitur impressio formarum elementarium in materiam informem , non tempore , sed origine praecedentem .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 3.317992 (the average of all parts of speech is 3.609102).
+The form / lemma ratio of `ADJ` is 3.398943 (the average of all parts of speech is 3.667841).
 
-The 1st highest number of forms (25) was observed with the lemma “magnus”: _magna, magnae, magnam, magnas, magnis, magno, magnum, magnus, maior, maiora, maiore, maiorem, maiores, maiori, maioris, maius, major, majorem, majoris, maxima, maximae, maximam, maxime, maximis, maximum_
+The 1st highest number of forms (25) was observed with the lemma “magnus”: <em>magna, magnae, magnam, magnas, magnis, magno, magnum, magnus, maior, maiora, maiore, maiorem, maiores, maiori, maioris, maius, major, majorem, majoris, maxima, maximae, maximam, maxime, maximis, maximum</em>.
 
-The 2nd highest number of forms (24) was observed with the lemma “multus”: _multa, multae, multam, multarum, multas, multi, multis, multo, multoque, multorum, multos, multum, plura, plures, pluribus, pluries, plurima, plurimae, plurimas, plurimi, plurimorum, plurimum, plurium, plus_
+The 2nd highest number of forms (24) was observed with the lemma “multus”: <em>multa, multae, multam, multarum, multas, multi, multis, multo, multoque, multorum, multos, multum, plura, plures, pluribus, pluries, plurima, plurimae, plurimas, plurimi, plurimorum, plurimum, plurium, plus</em>.
 
-The 3rd highest number of forms (21) was observed with the lemma “bonus”: _bona, bonae, bonam, bonas, boni, bonis, bono, bonos, bonum, bonus, melior, meliora, meliorem, meliori, melius, optima, optimam, optime, optimi, optimo, optimum_
+The 3rd highest number of forms (21) was observed with the lemma “bonus”: <em>bona, bonae, bonam, bonas, boni, bonis, bono, bonos, bonum, bonus, melior, meliora, meliorem, meliori, melius, optima, optimam, optime, optimi, optimo, optimum</em>.
 
-`ADJ` occurs with 5 features: [la-feat/Case]() (19543; 99% instances), [la-feat/Degree]() (19543; 99% instances), [la-feat/Number]() (19543; 99% instances), [la-feat/Gender]() (16348; 83% instances), [la-feat/NumType]() (1886; 10% instances)
+`ADJ` occurs with 5 features: [la-feat/Case]() (22317; 99% instances), [la-feat/Degree]() (22317; 99% instances), [la-feat/Number]() (22317; 99% instances), [la-feat/Gender]() (18690; 83% instances), [la-feat/NumType]() (2064; 9% instances)
 
 `ADJ` occurs with 17 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Dist`, `NumType=Ord`, `Number=Plur`, `Number=Sing`
 
-`ADJ` occurs with 152 feature combinations.
-The most frequent feature combination is `Case=Loc|Degree=Pos|Number=Sing` (2242 tokens).
-Examples: _vero, solum, similiter, simpliciter, naturaliter, proprie, multo, absolute, immediate, dupliciter_
+`ADJ` occurs with 158 feature combinations.
+The most frequent feature combination is `Case=Loc|Degree=Pos|Number=Sing` (2525 tokens).
+Examples: <em>vero, solum, similiter, naturaliter, simpliciter, proprie, immediate, multo, absolute, manifeste</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 22 different relations: [la-dep/amod]() (9653; 49% instances), [la-dep/advmod]() (2919; 15% instances), [la-dep/root]() (2081; 11% instances), [la-dep/conj]() (1252; 6% instances), [la-dep/dobj]() (624; 3% instances), [la-dep/advcl]() (512; 3% instances), [la-dep/nsubj]() (497; 3% instances), [la-dep/dep]() (437; 2% instances), [la-dep/acl]() (386; 2% instances), [la-dep/csubj]() (306; 2% instances), [la-dep/cc]() (288; 1% instances), [la-dep/xcomp]() (228; 1% instances), [la-dep/nsubjpass]() (162; 1% instances), [la-dep/advmod:emph]() (77; 0% instances), [la-dep/ccomp]() (70; 0% instances), [la-dep/parataxis]() (70; 0% instances), [la-dep/iobj]() (57; 0% instances), [la-dep/csubjpass]() (39; 0% instances), [la-dep/appos]() (30; 0% instances), [la-dep/cop]() (9; 0% instances), [la-dep/nmod]() (2; 0% instances), [la-dep/auxpass]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 24 different relations: [la-dep/amod]() (11062; 49% instances), [la-dep/advmod]() (3590; 16% instances), [la-dep/root]() (2283; 10% instances), [la-dep/conj]() (1586; 7% instances), [la-dep/dobj]() (708; 3% instances), [la-dep/advcl]() (562; 2% instances), [la-dep/nsubj]() (552; 2% instances), [la-dep/acl]() (426; 2% instances), [la-dep/dep]() (393; 2% instances), [la-dep/csubj]() (331; 1% instances), [la-dep/xcomp]() (271; 1% instances), [la-dep/nsubjpass]() (194; 1% instances), [la-dep/ccomp]() (172; 1% instances), [la-dep/advmod:emph]() (86; 0% instances), [la-dep/parataxis]() (67; 0% instances), [la-dep/iobj]() (66; 0% instances), [la-dep/csubjpass]() (48; 0% instances), [la-dep/appos]() (47; 0% instances), [la-dep/cc]() (30; 0% instances), [la-dep/cop]() (6; 0% instances), [la-dep/aux]() (1; 0% instances), [la-dep/auxpass]() (1; 0% instances), [la-dep/nmod]() (1; 0% instances), [la-dep/punct]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 14 different parts of speech: [NOUN]() (9898; 50% instances), [VERB]() (5165; 26% instances), [ROOT]() (2081; 11% instances), [ADJ]() (1458; 7% instances), [PRON]() (589; 3% instances), [CONJ]() (171; 1% instances), [ADV]() (162; 1% instances), [NUM]() (116; 1% instances), [DET]() (44; 0% instances), [PUNCT]() (5; 0% instances), [SCONJ]() (4; 0% instances), [X]() (3; 0% instances), [ADP]() (2; 0% instances), [AUX]() (2; 0% instances)
+Parents of `ADJ` nodes belong to 15 different parts of speech: [NOUN]() (11198; 50% instances), [VERB]() (6050; 27% instances), [ROOT]() (2283; 10% instances), [ADJ]() (1666; 7% instances), [PRON]() (710; 3% instances), [ADV]() (214; 1% instances), [PROPN]() (153; 1% instances), [NUM]() (129; 1% instances), [CONJ]() (65; 0% instances), [DET]() (7; 0% instances), [X]() (3; 0% instances), [ADP]() (2; 0% instances), [AUX]() (2; 0% instances), [PUNCT]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 
-12438 (63%) `ADJ` nodes are leaves.
+14263 (63%) `ADJ` nodes are leaves.
 
-2599 (13%) `ADJ` nodes have one child.
+3004 (13%) `ADJ` nodes have one child.
 
-1021 (5%) `ADJ` nodes have two children.
+1165 (5%) `ADJ` nodes have two children.
 
-3642 (18%) `ADJ` nodes have three or more children.
+4052 (18%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 21.
 
-Children of `ADJ` nodes are attached using 27 different relations: [la-dep/punct]() (3724; 17% instances), [la-dep/cop]() (3283; 15% instances), [la-dep/cc]() (2648; 12% instances), [la-dep/nsubj]() (1672; 8% instances), [la-dep/nmod]() (1530; 7% instances), [la-dep/case]() (1427; 6% instances), [la-dep/dep]() (1167; 5% instances), [la-dep/conj]() (1136; 5% instances), [la-dep/mark]() (966; 4% instances), [la-dep/advcl]() (807; 4% instances), [la-dep/csubj]() (709; 3% instances), [la-dep/dobj]() (635; 3% instances), [la-dep/neg]() (616; 3% instances), [la-dep/advmod:emph]() (433; 2% instances), [la-dep/advmod]() (408; 2% instances), [la-dep/acl]() (270; 1% instances), [la-dep/amod]() (215; 1% instances), [la-dep/nsubjpass]() (175; 1% instances), [la-dep/xcomp]() (58; 0% instances), [la-dep/ccomp]() (40; 0% instances), [la-dep/appos]() (37; 0% instances), [la-dep/csubjpass]() (26; 0% instances), [la-dep/parataxis]() (20; 0% instances), [la-dep/nummod]() (17; 0% instances), [la-dep/auxpass]() (8; 0% instances), [la-dep/aux]() (2; 0% instances), [la-dep/vocative]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 28 different relations: [la-dep/punct]() (4176; 17% instances), [la-dep/cop]() (3629; 15% instances), [la-dep/cc]() (1911; 8% instances), [la-dep/nsubj]() (1838; 7% instances), [la-dep/nmod]() (1709; 7% instances), [la-dep/case]() (1608; 7% instances), [la-dep/conj]() (1465; 6% instances), [la-dep/advmod]() (1346; 5% instances), [la-dep/mark]() (1210; 5% instances), [la-dep/dep]() (1136; 5% instances), [la-dep/advcl]() (890; 4% instances), [la-dep/csubj]() (827; 3% instances), [la-dep/dobj]() (720; 3% instances), [la-dep/neg]() (677; 3% instances), [la-dep/advmod:emph]() (512; 2% instances), [la-dep/acl]() (302; 1% instances), [la-dep/nsubjpass]() (172; 1% instances), [la-dep/amod]() (159; 1% instances), [la-dep/det]() (94; 0% instances), [la-dep/xcomp]() (63; 0% instances), [la-dep/appos]() (61; 0% instances), [la-dep/ccomp]() (48; 0% instances), [la-dep/csubjpass]() (23; 0% instances), [la-dep/parataxis]() (19; 0% instances), [la-dep/nummod]() (18; 0% instances), [la-dep/auxpass]() (9; 0% instances), [la-dep/vocative]() (2; 0% instances), [la-dep/aux]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 12 different parts of speech: [VERB]() (5660; 26% instances), [PUNCT]() (3723; 17% instances), [NOUN]() (3073; 14% instances), [ADV]() (2123; 10% instances), [CONJ]() (1668; 8% instances), [PRON]() (1602; 7% instances), [ADP]() (1535; 7% instances), [ADJ]() (1458; 7% instances), [SCONJ]() (990; 4% instances), [DET]() (126; 1% instances), [NUM]() (62; 0% instances), [AUX]() (10; 0% instances)
+Children of `ADJ` nodes belong to 14 different parts of speech: [VERB]() (6282; 26% instances), [PUNCT]() (4177; 17% instances), [NOUN]() (3300; 13% instances), [ADV]() (2402; 10% instances), [CONJ]() (1845; 7% instances), [PRON]() (1834; 7% instances), [ADJ]() (1666; 7% instances), [ADP]() (1609; 7% instances), [SCONJ]() (1182; 5% instances), [PROPN]() (151; 1% instances), [DET]() (95; 0% instances), [NUM]() (70; 0% instances), [AUX]() (10; 0% instances), [X]() (2; 0% instances)
 
 
 
@@ -185,56 +185,56 @@ Children of `ADJ` nodes belong to 12 different parts of speech: [VERB]() (5660; 
 There are 1078 `ADJ` lemmas (15%), 2894 `ADJ` types (12%) and 13812 `ADJ` tokens (8%).
 Out of 13 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: _ille, hic, is, magnus, multus, ipse, sanctus, bonus, iste, idem_
+The 10 most frequent `ADJ` lemmas: <em>ille, hic, is, magnus, multus, ipse, sanctus, bonus, iste, idem</em>
 
-The 10 most frequent `ADJ` types:  _haec, hoc, illi, illis, illum, his, ille, hic, illo, illa_
+The 10 most frequent `ADJ` types:  <em>haec, hoc, illi, illis, illum, his, ille, hic, illo, illa</em>
 
-The 10 most frequent ambiguous lemmas: _ille_ ([ADJ]() 2001, [DET]() 73), _hic_ ([ADJ]() 1804, [ADV]() 112, [DET]() 2), _is_ ([PRON]() 3798, [ADJ]() 582), _multus_ ([ADJ]() 479, [ADV]() 3), _ipse_ ([ADJ]() 461, [PRON]() 347, [DET]() 75), _iste_ ([ADJ]() 198, [DET]() 2), _idem_ ([ADJ]() 192, [ADV]() 1), _publicus_ ([ADJ]() 114, [NOUN]() 1), _Romanus_ ([ADJ]() 90, [NOUN]() 40), _medius_ ([ADJ]() 84, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>ille</em> ([ADJ]() 2001, [DET]() 73), <em>hic</em> ([ADJ]() 1804, [ADV]() 112, [DET]() 2), <em>is</em> ([PRON]() 3798, [ADJ]() 582), <em>multus</em> ([ADJ]() 479, [ADV]() 3), <em>ipse</em> ([ADJ]() 461, [PRON]() 347, [DET]() 75), <em>iste</em> ([ADJ]() 198, [DET]() 2), <em>idem</em> ([ADJ]() 192, [ADV]() 1), <em>publicus</em> ([ADJ]() 114, [NOUN]() 1), <em>Romanus</em> ([ADJ]() 90, [NOUN]() 40), <em>medius</em> ([ADJ]() 84, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  _hoc_ ([ADJ]() 391, [DET]() 1), _illi_ ([ADJ]() 373, [DET]() 10), _illis_ ([ADJ]() 351, [DET]() 5), _illum_ ([ADJ]() 275, [DET]() 11), _ille_ ([ADJ]() 230, [DET]() 21), _hic_ ([ADJ]() 189, [ADV]() 108), _illo_ ([ADJ]() 156, [ADV]() 4, [DET]() 1), _illa_ ([ADJ]() 141, [DET]() 9), _illos_ ([ADJ]() 136, [DET]() 4), _illud_ ([ADJ]() 115, [DET]() 2)
+The 10 most frequent ambiguous types:  <em>hoc</em> ([ADJ]() 391, [DET]() 1), <em>illi</em> ([ADJ]() 373, [DET]() 10), <em>illis</em> ([ADJ]() 351, [DET]() 5), <em>illum</em> ([ADJ]() 275, [DET]() 11), <em>ille</em> ([ADJ]() 230, [DET]() 21), <em>hic</em> ([ADJ]() 189, [ADV]() 108), <em>illo</em> ([ADJ]() 156, [ADV]() 4, [DET]() 1), <em>illa</em> ([ADJ]() 141, [DET]() 9), <em>illos</em> ([ADJ]() 136, [DET]() 4), <em>illud</em> ([ADJ]() 115, [DET]() 2)
 
 
-* _hoc_
-  * [ADJ]() 391: _verum <b>hoc</b> ridiculum est de magistro_
-  * [DET]() 1: _audivi ex Gavio <b>hoc</b> Firmano Romae esse hominem et fuisse adsiduum_
-* _illi_
-  * [ADJ]() 373: _<b>illi</b> domi remanent_
-  * [DET]() 10: _verumtamen vae <b>illi</b> homini per quem traditur_
-* _illis_
-  * [ADJ]() 351: _sed iam tempus est me ipsum a me amari quando ab <b>illis</b> nullo modo possum_
-  * [DET]() 5: _de ceteris autem <b>illis</b> ciuitatibus nichil aliud apparet nisi subuersio ruinarum quemadmodum in cinerem conuerse sunt_
-* _illum_
-  * [ADJ]() 275: _eos sibi responsum rettulisse <b>illum</b> non habere_
-  * [DET]() 11: _Ostenderunt etiam et <b>illum</b> locum ubi eis pluit manna et coturnices_
-* _ille_
-  * [ADJ]() 230: _instat hic nunc <b>ille</b> annus egregius_
-  * [DET]() 21: _domine recordati sumus quia seductor <b>ille</b> dixit adhuc vivens_
-* _hic_
-  * [ADJ]() 189: _noster autem status est <b>hic</b>_
-  * [ADV]() 108: _instat <b>hic</b> nunc ille annus egregius_
-* _illo_
-  * [ADJ]() 156: _hunc ego accepi in senatu ut soleo sed nihil est <b>illo</b> homine lentius_
-  * [ADV]() 4: _audiens autem quod Archelaus regnaret in Iudaea pro Herode patre suo timuit <b>illo</b> ire_
-  * [DET]() 1: _Heroum autem ciuitas quae fuit <b>illo</b> tempore id est ubi occurrit Ioseph patri suo Iacob uenienti sicut scriptum est in libro Genesis nunc est comes sed grandis quod nos dicimus uicus_
-* _illa_
-  * [ADJ]() 141: _nunc fit lepide <b>illa</b> ἔκχυσις radiorum_
-  * [DET]() 9: _Habebat autem de eo loco ad montem Dei forsitan quattuor milia totum per ualle <b>illa</b> quam dixi ingens_
-* _illos_
-  * [ADJ]() 136: _Quos sibi Caesar oblatos gavisus <b>illos</b> retineri iussit_
-  * [DET]() 4: _verumtamen inimicos meos <b>illos</b> qui noluerunt me regnare super se adducite huc_
-* _illud_
-  * [ADJ]() 115: _etiam <b>illud</b> scripseras eundem secundum comitia dixisse_
-  * [DET]() 2: _tenet anulum Salomonis et cornu <b>illud</b> de quo reges unguebantur_
+* <em>hoc</em>
+  * [ADJ]() 391: <em>verum <b>hoc</b> ridiculum est de magistro</em>
+  * [DET]() 1: <em>audivi ex Gavio <b>hoc</b> Firmano Romae esse hominem et fuisse adsiduum</em>
+* <em>illi</em>
+  * [ADJ]() 373: <em><b>illi</b> domi remanent</em>
+  * [DET]() 10: <em>verumtamen vae <b>illi</b> homini per quem traditur</em>
+* <em>illis</em>
+  * [ADJ]() 351: <em>sed iam tempus est me ipsum a me amari quando ab <b>illis</b> nullo modo possum</em>
+  * [DET]() 5: <em>de ceteris autem <b>illis</b> ciuitatibus nichil aliud apparet nisi subuersio ruinarum quemadmodum in cinerem conuerse sunt</em>
+* <em>illum</em>
+  * [ADJ]() 275: <em>eos sibi responsum rettulisse <b>illum</b> non habere</em>
+  * [DET]() 11: <em>Ostenderunt etiam et <b>illum</b> locum ubi eis pluit manna et coturnices</em>
+* <em>ille</em>
+  * [ADJ]() 230: <em>instat hic nunc <b>ille</b> annus egregius</em>
+  * [DET]() 21: <em>domine recordati sumus quia seductor <b>ille</b> dixit adhuc vivens</em>
+* <em>hic</em>
+  * [ADJ]() 189: <em>noster autem status est <b>hic</b></em>
+  * [ADV]() 108: <em>instat <b>hic</b> nunc ille annus egregius</em>
+* <em>illo</em>
+  * [ADJ]() 156: <em>hunc ego accepi in senatu ut soleo sed nihil est <b>illo</b> homine lentius</em>
+  * [ADV]() 4: <em>audiens autem quod Archelaus regnaret in Iudaea pro Herode patre suo timuit <b>illo</b> ire</em>
+  * [DET]() 1: <em>Heroum autem ciuitas quae fuit <b>illo</b> tempore id est ubi occurrit Ioseph patri suo Iacob uenienti sicut scriptum est in libro Genesis nunc est comes sed grandis quod nos dicimus uicus</em>
+* <em>illa</em>
+  * [ADJ]() 141: <em>nunc fit lepide <b>illa</b> ἔκχυσις radiorum</em>
+  * [DET]() 9: <em>Habebat autem de eo loco ad montem Dei forsitan quattuor milia totum per ualle <b>illa</b> quam dixi ingens</em>
+* <em>illos</em>
+  * [ADJ]() 136: <em>Quos sibi Caesar oblatos gavisus <b>illos</b> retineri iussit</em>
+  * [DET]() 4: <em>verumtamen inimicos meos <b>illos</b> qui noluerunt me regnare super se adducite huc</em>
+* <em>illud</em>
+  * [ADJ]() 115: <em>etiam <b>illud</b> scripseras eundem secundum comitia dixisse</em>
+  * [DET]() 2: <em>tenet anulum Salomonis et cornu <b>illud</b> de quo reges unguebantur</em>
 
 ## Morphology
 
 The form / lemma ratio of `ADJ` is 2.684601 (the average of all parts of speech is 3.304580).
 
-The 1st highest number of forms (30) was observed with the lemma “bonus”: _bona, bonae, bonam, bonarum, bonas, bone, boni, bonis, bono, bonorum, bonos, bonum, bonus, melior, meliore, meliorem, meliores, meliori, melioris, melius, optima, optimae, optimam, optime, optimi, optimis, optimo, optimorum, optimum, optimus_
+The 1st highest number of forms (30) was observed with the lemma “bonus”: <em>bona, bonae, bonam, bonarum, bonas, bone, boni, bonis, bono, bonorum, bonos, bonum, bonus, melior, meliore, meliorem, meliores, meliori, melioris, melius, optima, optimae, optimam, optime, optimi, optimis, optimo, optimorum, optimum, optimus</em>.
 
-The 2nd highest number of forms (30) was observed with the lemma “magnus”: _magna, magnae, magnam, magnas, magni, magnis, magno, magnorum, magnos, magnum, magnus, maior, maiora, maiore, maiorem, maiores, maiori, maioribus, maiorum, maius, maxima, maximae, maximam, maximas, maximi, maximis, maximo, maximos, maximum, maximus_
+The 2nd highest number of forms (30) was observed with the lemma “magnus”: <em>magna, magnae, magnam, magnas, magni, magnis, magno, magnorum, magnos, magnum, magnus, maior, maiora, maiore, maiorem, maiores, maiori, maioribus, maiorum, maius, maxima, maximae, maximam, maximas, maximi, maximis, maximo, maximos, maximum, maximus</em>.
 
-The 3rd highest number of forms (27) was observed with the lemma “multus”: _multa, multae, multam, multarum, multas, multe, multi, multis, multo, multorum, multos, multum, multus, plura, plures, pluribus, plurima, plurimae, plurimam, plurimas, plurimi, plurimis, plurimo, plurimos, plurimum, pluris, plus_
+The 3rd highest number of forms (27) was observed with the lemma “multus”: <em>multa, multae, multam, multarum, multas, multe, multi, multis, multo, multorum, multos, multum, multus, plura, plures, pluribus, plurima, plurimae, plurimam, plurimas, plurimi, plurimis, plurimo, plurimos, plurimum, pluris, plus</em>.
 
 `ADJ` occurs with 4 features: [la-feat/Case]() (13798; 100% instances), [la-feat/Number]() (13798; 100% instances), [la-feat/Gender]() (12640; 92% instances), [la-feat/Degree]() (7885; 57% instances)
 
@@ -242,7 +242,7 @@ The 3rd highest number of forms (27) was observed with the lemma “multus”: _
 
 `ADJ` occurs with 185 feature combinations.
 The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Masc|Number=Sing` (695 tokens).
-Examples: _sanctus, magnus, dignus, alter, solus, bonus, salvus, caecus, benedictus, beatus_
+Examples: <em>sanctus, magnus, dignus, alter, solus, bonus, salvus, caecus, benedictus, beatus</em>
 
 
 ## Relations

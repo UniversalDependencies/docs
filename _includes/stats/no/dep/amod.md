@@ -35,10 +35,10 @@ The following 7 pairs of parts of speech are connected with `amod`: [no-pos/NOUN
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
-1	Et	en	DET	_	Gender=Neut|Number=Sing	3	det	_	_
+1	Et	en	DET	_	Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 2	klarere	klar	ADJ	_	Degree=Cmp	3	amod	_	_
 3	Høyre	Høyre	PROPN	_	_	0	root	_	_
-4	|	$|	SYM	_	_	3	punct	_	_
+4	|	$|	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

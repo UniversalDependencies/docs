@@ -94,12 +94,12 @@ The most frequent other feature values with which `ADJ` and `Strength` co-occurr
 The 10 most frequent relations where parent and child node agree in `Strength`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (168; 89%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (82; 94%),
-<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (19; 86%),
 <tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (19; 79%),
+<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (19; 86%),
 <tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (6; 60%),
-<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (3; 100%),
-<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (2; 100%),
+<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (3; 75%),
 <tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/iobj.html">iobj</a>]--> VERB</tt> (2; 67%).
+<tt>ADJ --[<a href="../dep/iobj.html">iobj</a>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (2; 100%).
 

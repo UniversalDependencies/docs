@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-9163 nodes (6%) are attached to their parents as `amod`.
+9186 nodes (6%) are attached to their parents as `amod`.
 
-8553 instances of `amod` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.10225908545236.
+8575 instances of `amod` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.10505116481602.
 
-The following 14 pairs of parts of speech are connected with `amod`: [fa-pos/NOUN]()-[fa-pos/ADJ]() (8966; 98% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (104; 1% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (53; 1% instances), [fa-pos/NOUN]()-[fa-pos/NUM]() (8; 0% instances), [fa-pos/NUM]()-[fa-pos/ADJ]() (6; 0% instances), [fa-pos/PRON]()-[fa-pos/ADJ]() (6; 0% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (5; 0% instances), [fa-pos/ADV]()-[fa-pos/ADJ]() (4; 0% instances), [fa-pos/VERB]()-[fa-pos/ADJ]() (4; 0% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (3; 0% instances), [fa-pos/ADV]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/DET]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/INTJ]() (1; 0% instances), [fa-pos/X]()-[fa-pos/ADJ]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `amod`: [fa-pos/NOUN]()-[fa-pos/ADJ]() (8989; 98% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (103; 1% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (51; 1% instances), [fa-pos/NOUN]()-[fa-pos/NUM]() (8; 0% instances), [fa-pos/PRON]()-[fa-pos/ADJ]() (8; 0% instances), [fa-pos/NUM]()-[fa-pos/ADJ]() (6; 0% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (5; 0% instances), [fa-pos/ADV]()-[fa-pos/ADJ]() (4; 0% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (4; 0% instances), [fa-pos/VERB]()-[fa-pos/ADJ]() (4; 0% instances), [fa-pos/ADV]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/DET]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/INTJ]() (1; 0% instances), [fa-pos/X]()-[fa-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu

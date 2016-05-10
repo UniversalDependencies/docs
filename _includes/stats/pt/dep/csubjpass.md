@@ -2,6 +2,47 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Portuguese)
+
+This relation is universal.
+
+8 nodes (0%) are attached to their parents as `csubjpass`.
+
+7 instances of `csubjpass` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.125.
+
+The following 1 pairs of parts of speech are connected with `csubjpass`: [pt-pos/VERB]()-[pt-pos/VERB]() (8; 100% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 csubjpass	color:blue
+1	Cerca	cerca	ADV	adv	_	4	advmod	_	MWE=Cerca_de|MWEPOS=ADV
+2	de	de	ADP	ADP	AdpType=Prep	1	mwe	_	_
+3	30	30	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	4	nummod	_	_
+4	feridos	ferir	VERB	v-pcp|<n>|M|P	Gender=Masc|Number=Plur|VerbForm=Part	7	csubjpass	_	_
+5	leves	leve	ADJ	adj|M|P	Gender=Masc|Number=Plur	4	amod	_	_
+6	foram	ser	VERB	v-fin|PS/MQP|3P|IND	Mood=Ind|Number=Plur|Person=3|Tense=Imp,Pqp|VerbForm=Fin	7	auxpass	_	_
+7	atendidos	atender	VERB	v-pcp|M|P	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+8	em	em	ADP	prp|<sam->	AdpType=Prep	10	case	_	_
+9	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Santa	Santa	PROPN	prop|F|S	_	7	nmod	_	MWE=Santa_Casa|MWEPOS=PROPN
+11	Casa	Casa	PROPN	PROPN	_	10	name	_	_
+12	de	de	ADP	prp|<sam->	AdpType=Prep	14	case	_	_
+13	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	cidade	cidade	NOUN	n|F|S	Gender=Fem|Number=Sing	10	nmod	_	_
+15	.	.	PUNCT	punc	_	7	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Portuguese-BR)
 
 This relation is universal.

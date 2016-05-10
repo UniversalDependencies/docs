@@ -4,14 +4,14 @@
 
 ## Treebank Statistics (UD_Norwegian)
 
-There are 437 `X` lemmas (2%), 437 `X` types (1%) and 725 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 16 in number of tokens.
+There are 438 `X` lemmas (2%), 438 `X` types (1%) and 726 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>the, of, and, in, to, you, a, is, for, i</em>
 
 The 10 most frequent `X` types:  <em>the, of, and, in, to, you, a, is, for, i</em>
 
-The 10 most frequent ambiguous lemmas: <em>the</em> ([X]() 31, [DET]() 4), <em>of</em> ([X]() 25, [ADP]() 1), <em>and</em> ([X]() 20, [CONJ]() 1, [NOUN]() 1), <em>in</em> ([X]() 16, [ADJ]() 2), <em>to</em> ([NUM]() 356, [X]() 11), <em>you</em> ([X]() 9, [PRON]() 1), <em>a</em> ([X]() 8, [NOUN]() 7, [INTJ]() 1), <em>is</em> ([NOUN]() 13, [X]() 7, [VERB]() 1), <em>for</em> ([ADP]() 3710, [ADV]() 148, [CONJ]() 99, [X]() 7), <em>i</em> ([ADP]() 8631, [X]() 3, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>the</em> ([X]() 31, [DET]() 4), <em>of</em> ([X]() 25, [ADP]() 1), <em>and</em> ([X]() 20, [NOUN]() 1, [CONJ]() 1), <em>in</em> ([X]() 16, [ADJ]() 2), <em>to</em> ([NUM]() 356, [X]() 11), <em>you</em> ([X]() 9, [PRON]() 1), <em>a</em> ([X]() 8, [NOUN]() 7, [INTJ]() 1), <em>is</em> ([NOUN]() 13, [X]() 7, [VERB]() 1), <em>for</em> ([ADP]() 3710, [ADV]() 148, [CONJ]() 99, [X]() 7), <em>i</em> ([ADP]() 8631, [X]() 3, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>the</em> ([X]() 31, [DET]() 4), <em>of</em> ([X]() 25, [ADP]() 1), <em>and</em> ([X]() 20, [CONJ]() 1, [NOUN]() 1), <em>in</em> ([X]() 16, [ADJ]() 2), <em>to</em> ([NUM]() 331, [X]() 11), <em>you</em> ([X]() 9, [PRON]() 1), <em>a</em> ([X]() 8, [ADJ]() 5, [NOUN]() 2, [INTJ]() 1), <em>is</em> ([X]() 7, [NOUN]() 4, [VERB]() 1), <em>for</em> ([ADP]() 3543, [ADV]() 143, [CONJ]() 44, [X]() 7), <em>i</em> ([ADP]() 7853, [X]() 3)
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>the</em> ([X]() 31, [DET]() 4), <em>o
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.382585).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.382722).
 
 The 1st highest number of forms (1) was observed with the lemma “32”: <em>32</em>.
 
@@ -68,21 +68,21 @@ The 3rd highest number of forms (1) was observed with the lemma “Annan”: <em
 
 ## Relations
 
-`X` nodes are attached to their parents using 9 different relations: [no-dep/foreign]() (638; 88% instances), [no-dep/root]() (51; 7% instances), [no-dep/nmod]() (12; 2% instances), [no-dep/dobj]() (9; 1% instances), [no-dep/appos]() (5; 1% instances), [no-dep/xcomp]() (5; 1% instances), [no-dep/conj]() (2; 0% instances), [no-dep/nsubj]() (2; 0% instances), [no-dep/acl]() (1; 0% instances)
+`X` nodes are attached to their parents using 11 different relations: [no-dep/foreign]() (478; 66% instances), [no-dep/name]() (152; 21% instances), [no-dep/root]() (51; 7% instances), [no-dep/nmod]() (12; 2% instances), [no-dep/compound]() (9; 1% instances), [no-dep/dobj]() (9; 1% instances), [no-dep/appos]() (5; 1% instances), [no-dep/xcomp]() (5; 1% instances), [no-dep/conj]() (2; 0% instances), [no-dep/nsubj]() (2; 0% instances), [no-dep/acl]() (1; 0% instances)
 
-Parents of `X` nodes belong to 9 different parts of speech: [X]() (477; 66% instances), [PROPN]() (156; 22% instances), [ROOT]() (51; 7% instances), [VERB]() (20; 3% instances), [NOUN]() (17; 2% instances), [ADJ]() (1; 0% instances), [ADP]() (1; 0% instances), [DET]() (1; 0% instances), [PRON]() (1; 0% instances)
+Parents of `X` nodes belong to 9 different parts of speech: [X]() (478; 66% instances), [PROPN]() (156; 21% instances), [ROOT]() (51; 7% instances), [VERB]() (20; 3% instances), [NOUN]() (17; 2% instances), [ADJ]() (1; 0% instances), [ADP]() (1; 0% instances), [DET]() (1; 0% instances), [PRON]() (1; 0% instances)
 
-642 (89%) `X` nodes are leaves.
+641 (88%) `X` nodes are leaves.
 
-2 (0%) `X` nodes have one child.
+3 (0%) `X` nodes have one child.
 
-5 (1%) `X` nodes have two children.
+8 (1%) `X` nodes have two children.
 
-76 (10%) `X` nodes have three or more children.
+74 (10%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 46.
 
-Children of `X` nodes are attached using 14 different relations: [no-dep/foreign]() (477; 65% instances), [no-dep/punct]() (175; 24% instances), [no-dep/name]() (46; 6% instances), [no-dep/parataxis]() (12; 2% instances), [no-dep/case]() (11; 1% instances), [no-dep/appos]() (4; 1% instances), [no-dep/conj]() (3; 0% instances), [no-dep/advmod]() (2; 0% instances), [no-dep/cc]() (2; 0% instances), [no-dep/det]() (2; 0% instances), [no-dep/nmod]() (2; 0% instances), [no-dep/acl:relcl]() (1; 0% instances), [no-dep/amod]() (1; 0% instances), [no-dep/mark]() (1; 0% instances)
+Children of `X` nodes are attached using 13 different relations: [no-dep/foreign]() (481; 65% instances), [no-dep/punct]() (219; 30% instances), [no-dep/case]() (10; 1% instances), [no-dep/parataxis]() (10; 1% instances), [no-dep/advmod]() (3; 0% instances), [no-dep/appos]() (3; 0% instances), [no-dep/conj]() (3; 0% instances), [no-dep/cc]() (2; 0% instances), [no-dep/det]() (2; 0% instances), [no-dep/mark]() (2; 0% instances), [no-dep/nmod]() (2; 0% instances), [no-dep/acl:relcl]() (1; 0% instances), [no-dep/amod]() (1; 0% instances)
 
-Children of `X` nodes belong to 11 different parts of speech: [X]() (477; 65% instances), [PUNCT]() (218; 29% instances), [VERB]() (12; 2% instances), [ADP]() (11; 1% instances), [NOUN]() (7; 1% instances), [PROPN]() (6; 1% instances), [ADV]() (3; 0% instances), [CONJ]() (2; 0% instances), [ADJ]() (1; 0% instances), [SCONJ]() (1; 0% instances), [SYM]() (1; 0% instances)
+Children of `X` nodes belong to 10 different parts of speech: [X]() (478; 65% instances), [PUNCT]() (219; 30% instances), [VERB]() (12; 2% instances), [ADP]() (11; 1% instances), [NOUN]() (7; 1% instances), [PROPN]() (5; 1% instances), [ADV]() (3; 0% instances), [CONJ]() (2; 0% instances), [ADJ]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 

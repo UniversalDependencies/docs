@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [acl]().
 
-2935 nodes (1%) are attached to their parents as `acl:relcl`.
+2919 nodes (1%) are attached to their parents as `acl:relcl`.
 
-2928 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.38568994889267.
+2914 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.38917437478589.
 
-The following 24 pairs of parts of speech are connected with `acl:relcl`: [it-pos/NOUN]()-[it-pos/VERB]() (2122; 72% instances), [it-pos/PRON]()-[it-pos/VERB]() (423; 14% instances), [it-pos/PROPN]()-[it-pos/VERB]() (198; 7% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (53; 2% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (35; 1% instances), [it-pos/PRON]()-[it-pos/ADJ]() (18; 1% instances), [it-pos/ADJ]()-[it-pos/VERB]() (12; 0% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (12; 0% instances), [it-pos/ADV]()-[it-pos/VERB]() (10; 0% instances), [it-pos/VERB]()-[it-pos/VERB]() (8; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (7; 0% instances), [it-pos/PROPN]()-[it-pos/ADJ]() (7; 0% instances), [it-pos/NOUN]()-[it-pos/NUM]() (5; 0% instances), [it-pos/NUM]()-[it-pos/VERB]() (5; 0% instances), [it-pos/PRON]()-[it-pos/NOUN]() (4; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (3; 0% instances), [it-pos/VERB]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/NOUN]()-[it-pos/ADV]() (2; 0% instances), [it-pos/PRON]()-[it-pos/PRON]() (2; 0% instances), [it-pos/X]()-[it-pos/VERB]() (2; 0% instances), [it-pos/DET]()-[it-pos/VERB]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/AUX]() (1; 0% instances), [it-pos/SCONJ]()-[it-pos/VERB]() (1; 0% instances), [it-pos/SYM]()-[it-pos/VERB]() (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `acl:relcl`: [it-pos/NOUN]()-[it-pos/VERB]() (2111; 72% instances), [it-pos/PRON]()-[it-pos/VERB]() (426; 15% instances), [it-pos/PROPN]()-[it-pos/VERB]() (198; 7% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (53; 2% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (35; 1% instances), [it-pos/PRON]()-[it-pos/ADJ]() (18; 1% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (11; 0% instances), [it-pos/ADV]()-[it-pos/VERB]() (10; 0% instances), [it-pos/ADJ]()-[it-pos/VERB]() (8; 0% instances), [it-pos/PROPN]()-[it-pos/ADJ]() (8; 0% instances), [it-pos/VERB]()-[it-pos/VERB]() (8; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (7; 0% instances), [it-pos/NUM]()-[it-pos/VERB]() (5; 0% instances), [it-pos/NOUN]()-[it-pos/NUM]() (4; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (3; 0% instances), [it-pos/PRON]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/NOUN]()-[it-pos/ADV]() (2; 0% instances), [it-pos/PRON]()-[it-pos/PRON]() (2; 0% instances), [it-pos/VERB]()-[it-pos/NOUN]() (2; 0% instances), [it-pos/X]()-[it-pos/VERB]() (2; 0% instances), [it-pos/DET]()-[it-pos/VERB]() (1; 0% instances), [it-pos/SCONJ]()-[it-pos/VERB]() (1; 0% instances), [it-pos/SYM]()-[it-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 24 pairs of parts of speech are connected with `acl:relcl`: [it-po
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 acl:relcl	color:blue
-1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur	3	det:predet	_	_
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Predet	3	det:predet	_	_
 2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	esseri	essere	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
 4	umani	umano	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_

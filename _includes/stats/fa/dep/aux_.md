@@ -11,7 +11,7 @@ This relation is universal.
 1178 instances of `aux` (52%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.87232181897683.
 
-The following 10 pairs of parts of speech are connected with `aux`: [fa-pos/VERB]()-[fa-pos/VERB]() (1474; 64% instances), [fa-pos/VERB]()-[fa-pos/AUX]() (669; 29% instances), [fa-pos/ADJ]()-[fa-pos/AUX]() (48; 2% instances), [fa-pos/NOUN]()-[fa-pos/AUX]() (45; 2% instances), [fa-pos/ADJ]()-[fa-pos/VERB]() (22; 1% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (22; 1% instances), [fa-pos/ADV]()-[fa-pos/AUX]() (3; 0% instances), [fa-pos/ADV]()-[fa-pos/VERB]() (2; 0% instances), [fa-pos/DET]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/PRON]()-[fa-pos/AUX]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `aux`: [fa-pos/VERB]()-[fa-pos/VERB]() (1500; 66% instances), [fa-pos/VERB]()-[fa-pos/AUX]() (643; 28% instances), [fa-pos/ADJ]()-[fa-pos/AUX]() (45; 2% instances), [fa-pos/NOUN]()-[fa-pos/AUX]() (44; 2% instances), [fa-pos/ADJ]()-[fa-pos/VERB]() (25; 1% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (23; 1% instances), [fa-pos/ADV]()-[fa-pos/AUX]() (3; 0% instances), [fa-pos/ADV]()-[fa-pos/VERB]() (2; 0% instances), [fa-pos/DET]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/PRON]()-[fa-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu

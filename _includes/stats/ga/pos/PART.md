@@ -13,14 +13,14 @@ The 10 most frequent `PART` types:  <em>a, go, ní, d', nach, gur, is, Ó, do, n
 
 The 10 most frequent ambiguous lemmas: <em>a</em> ([PART]() 864, [DET]() 182, [X]() 4, [ADP]() 1), <em>go</em> ([PART]() 246, [ADP]() 39, [SCONJ]() 15), <em>do</em> ([ADP]() 255, [PART]() 77, [DET]() 19, [X]() 1), <em>ní</em> ([PART]() 62, [NOUN]() 5, [VERB]() 1), <em>nach</em> ([PART]() 58, [X]() 1), <em>is</em> ([VERB]() 379, [PART]() 32), <em>ó</em> ([ADP]() 127, [PART]() 31, [SCONJ]() 2, [INTJ]() 1), <em>i</em> ([ADP]() 731, [PART]() 19), <em>ar</em> ([ADP]() 637, [PART]() 17, [VERB]() 3), <em>ná</em> ([CONJ]() 55, [PART]() 10, [SCONJ]() 8)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([PART]() 855, [DET]() 187, [X]() 1, [ADP]() 1), <em>go</em> ([PART]() 240, [ADP]() 37, [SCONJ]() 15), <em>ní</em> ([PART]() 28, [VERB]() 18, [NOUN]() 2), <em>d'</em> ([PART]() 37, [ADP]() 35, [DET]() 1), <em>nach</em> ([PART]() 52, [VERB]() 21), <em>gur</em> ([VERB]() 48, [PART]() 39), <em>is</em> ([VERB]() 69, [CONJ]() 40, [PART]() 30, [SCONJ]() 4), <em>Ó</em> ([PART]() 30, [ADP]() 3, [INTJ]() 1), <em>do</em> ([ADP]() 70, [PART]() 18, [DET]() 17), <em>níor</em> ([PART]() 9, [VERB]() 3)
+The 10 most frequent ambiguous types:  <em>a</em> ([PART]() 855, [DET]() 187, [ADP]() 1, [X]() 1), <em>go</em> ([PART]() 240, [ADP]() 37, [SCONJ]() 15), <em>ní</em> ([PART]() 28, [VERB]() 18, [NOUN]() 2), <em>d'</em> ([PART]() 37, [ADP]() 35, [DET]() 1), <em>nach</em> ([PART]() 52, [VERB]() 21), <em>gur</em> ([VERB]() 48, [PART]() 39), <em>is</em> ([VERB]() 69, [CONJ]() 40, [PART]() 30, [SCONJ]() 4), <em>Ó</em> ([PART]() 30, [ADP]() 3, [INTJ]() 1), <em>do</em> ([ADP]() 70, [PART]() 18, [DET]() 17), <em>níor</em> ([PART]() 9, [VERB]() 3)
 
 
 * <em>a</em>
   * [PART]() 855: <em>Seo an fear <b>a</b> chonaic an bhean .</em>
   * [DET]() 187: <em>Fágann Mícheál na daltaí crom os_cionn <b>a</b> gcuid foghlama .</em>
-  * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
   * [ADP]() 1: <em>' Anonn leis de chéim mhall go_dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
+  * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
 * <em>go</em>
   * [PART]() 240: <em>Níor tháinig sé <b>go</b> fóill .</em>
   * [ADP]() 37: <em>Bhí sé ina bhall de Mhuintir Shíomóin ó 1976 <b>go</b> 1986 .</em>

@@ -7,22 +7,22 @@
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-30104 tokens (13%) have a non-empty value of `Definite`.
-22 types (0%) occur at least once with a non-empty value of `Definite`.
-20 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: [pt-pos/DET]() (29459; 13% instances), [pt-pos/PRON]() (645; 0% instances).
+31726 tokens (14%) have a non-empty value of `Definite`.
+51 types (0%) occur at least once with a non-empty value of `Definite`.
+44 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 3 part-of-speech tags: [pt-pos/DET]() (30409; 13% instances), [pt-pos/ADP]() (1289; 1% instances), [pt-pos/PRON]() (28; 0% instances).
 
 ### `DET`
 
-29459 [pt-pos/DET]() tokens (88% of all `DET` tokens) have a non-empty value of `Definite`.
+30409 [pt-pos/DET]() tokens (88% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (29291; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (23816; 81%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (15771; 54%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (30241; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (24550; 81%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (16361; 54%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (26349; 89% of non-empty `Definite`): <em>o, a, os, as, la, Los, El, L', Las, o(s)</em>
-* `Ind` (3110; 11% of non-empty `Definite`): <em>um, uma, o, un</em>
-* `EMPTY` (3985): <em>sua, seu, este, esta, seus, suas, esse, qualquer, outros, essa</em>
+* `Def` (27201; 89% of non-empty `Definite`): <em>o, a, os, as, la, Los, Les, El, L', Las</em>
+* `Ind` (3208; 11% of non-empty `Definite`): <em>um, uma, o, un</em>
+* `EMPTY` (4008): <em>sua, seu, este, esta, seus, suas, esse, todos, qualquer, outros</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -42,30 +42,34 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
   <tr><td><tt><a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><em>a</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `DET`. 95% lemmas (18) occur only with one value of `Definite`.
+### `ADP`
+
+1289 [pt-pos/ADP]() tokens (4% of all `ADP` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `ADP` and `Definite` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Preppron</tt> (1289; 100%).
+
+`ADP` tokens may have the following values of `Definite`:
+
+* `Def` (1289; 100% of non-empty `Definite`): <em>do, da, ao, dos, no, das, à, pelo, pela, na</em>
+* `EMPTY` (34430): <em>de, em, a, por, para, com, entre, sobre, sem, até</em>
+
+`Definite` seems to be **lexical feature** of `ADP`. 100% lemmas (24) occur only with one value of `Definite`.
 
 ### `PRON`
 
-645 [pt-pos/PRON]() tokens (8% of all `PRON` tokens) have a non-empty value of `Definite`.
+28 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (645; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (645; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (645; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (616; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (529; 82%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (366; 57%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (28; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (28; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (28; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (26; 93%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (22; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (17; 61%).
 
 `PRON` tokens may have the following values of `Definite`:
 
-* `Def` (567; 88% of non-empty `Definite`): <em>a, o, os, as, O_que, um</em>
-* `Ind` (78; 12% of non-empty `Definite`): <em>uma, um</em>
-* `EMPTY` (6983): <em>que, se, ele, o, o_que, isso, quem, lhe, eles, eu</em>
-
-<table>
-  <tr><th>Paradigm <i>um</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><em>um</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>um</em></td><td><em>um</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>uma</em></td><td></td></tr>
-</table>
+* `Def` (27; 96% of non-empty `Definite`): <em>o, os, a, as</em>
+* `Ind` (1; 4% of non-empty `Definite`): <em>um</em>
+* `EMPTY` (6669): <em>que, se, ele, o, isso, quem, lhe, tudo, eles, eu</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 100%),
-<tt>PRON --[<a href="../dep/mwe.html">mwe</a>]--> DET</tt> (2; 67%).
+<tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (4; 100%),
+<tt>DET --[<a href="../dep/advmod.html">advmod</a>]--> ADP</tt> (1; 100%).
 

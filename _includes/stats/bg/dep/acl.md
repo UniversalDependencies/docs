@@ -9,9 +9,9 @@ This relation is universal.
 1585 nodes (1%) are attached to their parents as `acl`.
 
 1571 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.06624605678233.
+Average distance between parent and child is 5.15709779179811.
 
-The following 11 pairs of parts of speech are connected with `acl`: [bg-pos/NOUN]()-[bg-pos/VERB]() (1367; 86% instances), [bg-pos/DET]()-[bg-pos/VERB]() (117; 7% instances), [bg-pos/PROPN]()-[bg-pos/VERB]() (58; 4% instances), [bg-pos/ADJ]()-[bg-pos/VERB]() (22; 1% instances), [bg-pos/PRON]()-[bg-pos/VERB]() (8; 1% instances), [bg-pos/NUM]()-[bg-pos/VERB]() (7; 0% instances), [bg-pos/ADV]()-[bg-pos/VERB]() (2; 0% instances), [bg-pos/CONJ]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/DET]()-[bg-pos/ADJ]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `acl`: [bg-pos/NOUN]()-[bg-pos/VERB]() (1280; 81% instances), [bg-pos/DET]()-[bg-pos/VERB]() (111; 7% instances), [bg-pos/NOUN]()-[bg-pos/NOUN]() (51; 3% instances), [bg-pos/PROPN]()-[bg-pos/VERB]() (49; 3% instances), [bg-pos/NOUN]()-[bg-pos/ADJ]() (27; 2% instances), [bg-pos/ADJ]()-[bg-pos/VERB]() (21; 1% instances), [bg-pos/PROPN]()-[bg-pos/NOUN]() (8; 1% instances), [bg-pos/NUM]()-[bg-pos/VERB]() (7; 0% instances), [bg-pos/PRON]()-[bg-pos/VERB]() (7; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (5; 0% instances), [bg-pos/DET]()-[bg-pos/ADJ]() (4; 0% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (3; 0% instances), [bg-pos/ADV]()-[bg-pos/VERB]() (2; 0% instances), [bg-pos/DET]()-[bg-pos/ADV]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/NOUN]() (1; 0% instances), [bg-pos/CONJ]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/DET]()-[bg-pos/NOUN]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/PROPN]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/PRON]()-[bg-pos/ADJ]() (1; 0% instances), [bg-pos/PROPN]()-[bg-pos/ADV]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,17 +40,17 @@ The following 11 pairs of parts of speech are connected with `acl`: [bg-pos/NOUN
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 acl	color:blue
-1	Следствието	следствие	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	9	nsubj	_	_
+1	Следствието	следствие	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	10	nsubj	_	_
 2	от	от	ADP	R	_	3	case	_	_
 3	това	този	DET	Pde-os-n	Gender=Neut|Number=Sing|PronType=Dem	1	nmod	_	_
 4	,	,	PUNCT	punct	_	7	punct	_	_
 5	че	че	SCONJ	Cs	_	7	mark	_	_
 6	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
-7	заминал	замина	VERB	Vpptcao-smi	Aspect=Perf|Definite=Ind|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	_
+7	заминал	замина	VERB	Vpptcao-smi	Aspect=Perf|Definite=Ind|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
-9	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10	очевидно	очевиден	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	9	cop	_	_
-11	.	.	PUNCT	punct	_	9	punct	_	_
+9	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	очевидно	очевиден	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+11	.	.	PUNCT	punct	_	10	punct	_	_
 
 ~~~
 
@@ -58,17 +58,21 @@ The following 11 pairs of parts of speech are connected with `acl`: [bg-pos/NOUN
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 acl	color:blue
-1	-	-	PUNCT	punct	_	4	punct	_	_
-2	А	а	CONJ	Cp	_	4	cc	_	_
-3	и	и	CONJ	Cp	_	4	cc	_	_
-4	Аксиния	аксиния	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
-5	,	,	PUNCT	punct	_	7	punct	_	_
-6	когато	когато	ADV	Prt	PronType=Rel	7	advmod	_	_
-7	порасне	порасна	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
-8	...	...	PUNCT	punct	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 acl	color:blue
+1	А	а	CONJ	Cp	_	11	cc	_	_
+2	beetle	beetle	NOUN	Nc	_	11	nsubj	_	_
+3	,	,	PUNCT	punct	_	7	punct	_	_
+4	което	който	PRON	Pre-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj	_	_
+5	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	истинският	истински	ADJ	Amsf	Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	бръмбар	бръмбар	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	acl	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+10	хапещо	хапя	ADJ	Vpitcar-sni	Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	amod	_	_
+11	насекомо	насекомо	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+12	.	.	PUNCT	punct	_	11	punct	_	_
 
 ~~~
 

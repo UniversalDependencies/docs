@@ -13,7 +13,7 @@ The 10 most frequent `ADJ` types:  <em>alle, mange, danske, store, flere, samme,
 
 The 10 most frequent ambiguous lemmas: <em>stor</em> ([ADJ]() 239, [ADV]() 5), <em>al</em> ([ADJ]() 233, [PROPN]() 1), <em>ny</em> ([ADJ]() 172, [NOUN]() 1, [X]() 1), <em>dansk</em> ([ADJ]() 170, [NOUN]() 6), <em>meget</em> ([ADV]() 120, [ADJ]() 114), <em>hel</em> ([ADJ]() 98, [X]() 3), <em>politisk</em> ([ADJ]() 33, [ADV]() 5), <em>få</em> ([VERB]() 386, [ADJ]() 32), <em>tidlig</em> ([ADJ]() 32, [ADV]() 1), <em>almindelig</em> ([ADJ]() 30, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>hele</em> ([ADJ]() 77, [NOUN]() 4), <em>ny</em> ([ADJ]() 55, [NOUN]() 1, [X]() 1), <em>alt</em> ([ADJ]() 54, [ADV]() 18, [NOUN]() 14), <em>mere</em> ([ADV]() 81, [ADJ]() 54), <em>dansk</em> ([ADJ]() 37, [NOUN]() 6), <em>meget</em> ([ADV]() 119, [ADJ]() 42), <em>bedre</em> ([ADJ]() 30, [ADV]() 5), <em>stort</em> ([ADJ]() 30, [ADV]() 7), <em>gode</em> ([ADJ]() 29, [NOUN]() 5), <em>tidligere</em> ([ADJ]() 28, [ADV]() 16)
+The 10 most frequent ambiguous types:  <em>hele</em> ([ADJ]() 77, [NOUN]() 4), <em>ny</em> ([ADJ]() 55, [X]() 1, [NOUN]() 1), <em>alt</em> ([ADJ]() 54, [ADV]() 18, [NOUN]() 14), <em>mere</em> ([ADV]() 81, [ADJ]() 54), <em>dansk</em> ([ADJ]() 37, [NOUN]() 6), <em>meget</em> ([ADV]() 119, [ADJ]() 42), <em>bedre</em> ([ADJ]() 30, [ADV]() 5), <em>stort</em> ([ADJ]() 30, [ADV]() 7), <em>gode</em> ([ADJ]() 29, [NOUN]() 5), <em>tidligere</em> ([ADJ]() 28, [ADV]() 16)
 
 
 * <em>hele</em>
@@ -21,8 +21,8 @@ The 10 most frequent ambiguous types:  <em>hele</em> ([ADJ]() 77, [NOUN]() 4), <
   * [NOUN]() 4: <em>Stenene er i det <b>hele</b> taget meget ømfindtlige .</em>
 * <em>ny</em>
   * [ADJ]() 55: <em>Det ligger ikke klart , hvornår han skal tiltræde den <b>ny</b> stilling .</em>
-  * [NOUN]() 1: <em>En sølvske , kniv eller gaffel i <b>ny</b> og næ - måske et askebæger med byvåben på midten - var spillernes belønning for at underholde .</em>
   * [X]() 1: <em>" Vi troede ledelsen ville lægge op til nye forhandlinger og <b>ny</b> en konstruktiv dialog .</em>
+  * [NOUN]() 1: <em>En sølvske , kniv eller gaffel i <b>ny</b> og næ - måske et askebæger med byvåben på midten - var spillernes belønning for at underholde .</em>
 * <em>alt</em>
   * [ADJ]() 54: <em>Og da <b>alt</b> var klar , gik maskinchefen hjem .</em>
   * [ADV]() 18: <em>Og jeg gik <b>alt</b> for vidt . "</em>

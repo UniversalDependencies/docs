@@ -43,8 +43,8 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (379; 71%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (202; 95%),
+<tt>VERB --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (377; 71%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (201; 95%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (151; 99%),
 <tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (26; 100%),
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (18; 100%),
@@ -52,5 +52,5 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (5; 100%),
 <tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (2; 67%),
-<tt>AUX --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (2; 100%).
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> AUX</tt> (2; 100%).
 

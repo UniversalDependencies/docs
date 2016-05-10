@@ -6,48 +6,33 @@
 
 This relation is universal.
 
-143 nodes (2%) are attached to their parents as `conj`.
+11008 nodes (5%) are attached to their parents as `conj`.
 
-143 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.39160839160839.
+11008 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.61200944767442.
 
-The following 19 pairs of parts of speech are connected with `conj`: [et-pos/NOUN]()-[et-pos/NOUN]() (48; 34% instances), [et-pos/VERB]()-[et-pos/VERB]() (40; 28% instances), [et-pos/PROPN]()-[et-pos/PROPN]() (17; 12% instances), [et-pos/ADJ]()-[et-pos/ADJ]() (11; 8% instances), [et-pos/ADV]()-[et-pos/ADV]() (5; 3% instances), [et-pos/ADJ]()-[et-pos/VERB]() (4; 3% instances), [et-pos/VERB]()-[et-pos/ADJ]() (4; 3% instances), [et-pos/NUM]()-[et-pos/NUM]() (2; 1% instances), [et-pos/VERB]()-[et-pos/PRON]() (2; 1% instances), [et-pos/ADJ]()-[et-pos/NOUN]() (1; 1% instances), [et-pos/ADV]()-[et-pos/VERB]() (1; 1% instances), [et-pos/NOUN]()-[et-pos/PRON]() (1; 1% instances), [et-pos/NOUN]()-[et-pos/PROPN]() (1; 1% instances), [et-pos/NOUN]()-[et-pos/VERB]() (1; 1% instances), [et-pos/PART]()-[et-pos/VERB]() (1; 1% instances), [et-pos/PRON]()-[et-pos/PRON]() (1; 1% instances), [et-pos/PROPN]()-[et-pos/NOUN]() (1; 1% instances), [et-pos/PROPN]()-[et-pos/NUM]() (1; 1% instances), [et-pos/VERB]()-[et-pos/X]() (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 conj	color:blue
-1	Siis	siis+0	ADV	adv/.cap	_	2	advmod	_	_
-2	roniti	roni+ti	VERB	v-fin/main,indic,impf,imps,af,.FinV,.Intr	Mood=Ind|Negative=Pos|Tense=Imp|VerbForm=Fin	0	root	_	_
-3	hirmu	hirm+0	NOUN	n/com,sg,gen	Case=Gen|Number=Sing	2	nmod	_	_
-4	ja	ja+0	CONJ	conj-c/crd	_	3	cc	_	_
-5	valuga	valu+ga	NOUN	n/com,sg,kom	Case=Com|Number=Sing	3	conj	_	_
-6	üksteisele	üks-teise+le	PRON	pron/rec,sg,all	Case=All|Number=Sing|PronType=Rcp	2	nmod	_	_
-7	kukile	kukile+0	ADV	adv/--	_	2	compound:prt	_	_
-8	...	.	PUNCT	punc/Fst	PunctType=Peri	2	punct	_	_
-
-~~~
+The following 63 pairs of parts of speech are connected with `conj`: [et-pos/VERB]()-[et-pos/VERB]() (3788; 34% instances), [et-pos/NOUN]()-[et-pos/NOUN]() (3533; 32% instances), [et-pos/PROPN]()-[et-pos/PROPN]() (844; 8% instances), [et-pos/ADJ]()-[et-pos/ADJ]() (766; 7% instances), [et-pos/ADJ]()-[et-pos/VERB]() (256; 2% instances), [et-pos/VERB]()-[et-pos/ADJ]() (250; 2% instances), [et-pos/VERB]()-[et-pos/NOUN]() (228; 2% instances), [et-pos/NOUN]()-[et-pos/VERB]() (177; 2% instances), [et-pos/ADV]()-[et-pos/ADV]() (138; 1% instances), [et-pos/NOUN]()-[et-pos/PROPN]() (119; 1% instances), [et-pos/PROPN]()-[et-pos/NOUN]() (107; 1% instances), [et-pos/ADJ]()-[et-pos/NOUN]() (90; 1% instances), [et-pos/NOUN]()-[et-pos/ADJ]() (86; 1% instances), [et-pos/NUM]()-[et-pos/NUM]() (73; 1% instances), [et-pos/PRON]()-[et-pos/PRON]() (54; 0% instances), [et-pos/VERB]()-[et-pos/ADV]() (52; 0% instances), [et-pos/PRON]()-[et-pos/NOUN]() (50; 0% instances), [et-pos/NOUN]()-[et-pos/PRON]() (49; 0% instances), [et-pos/ADV]()-[et-pos/NOUN]() (45; 0% instances), [et-pos/NUM]()-[et-pos/NOUN]() (32; 0% instances), [et-pos/NOUN]()-[et-pos/ADV]() (29; 0% instances), [et-pos/ADP]()-[et-pos/NOUN]() (24; 0% instances), [et-pos/PRON]()-[et-pos/VERB]() (22; 0% instances), [et-pos/VERB]()-[et-pos/PRON]() (20; 0% instances), [et-pos/NOUN]()-[et-pos/NUM]() (19; 0% instances), [et-pos/PRON]()-[et-pos/ADJ]() (17; 0% instances), [et-pos/NUM]()-[et-pos/ADJ]() (10; 0% instances), [et-pos/PROPN]()-[et-pos/PRON]() (10; 0% instances), [et-pos/VERB]()-[et-pos/NUM]() (10; 0% instances), [et-pos/ADV]()-[et-pos/ADJ]() (9; 0% instances), [et-pos/ADV]()-[et-pos/VERB]() (9; 0% instances), [et-pos/VERB]()-[et-pos/PROPN]() (9; 0% instances), [et-pos/PROPN]()-[et-pos/ADV]() (6; 0% instances), [et-pos/PROPN]()-[et-pos/VERB]() (6; 0% instances), [et-pos/ADJ]()-[et-pos/ADV]() (5; 0% instances), [et-pos/ADP]()-[et-pos/ADP]() (5; 0% instances), [et-pos/PRON]()-[et-pos/ADV]() (5; 0% instances), [et-pos/PRON]()-[et-pos/PROPN]() (5; 0% instances), [et-pos/NUM]()-[et-pos/ADV]() (4; 0% instances), [et-pos/NUM]()-[et-pos/PROPN]() (4; 0% instances), [et-pos/ADJ]()-[et-pos/PRON]() (3; 0% instances), [et-pos/ADJ]()-[et-pos/PROPN]() (3; 0% instances), [et-pos/ADP]()-[et-pos/ADV]() (3; 0% instances), [et-pos/ADP]()-[et-pos/VERB]() (3; 0% instances), [et-pos/ADV]()-[et-pos/NUM]() (3; 0% instances), [et-pos/ADV]()-[et-pos/PRON]() (3; 0% instances), [et-pos/NOUN]()-[et-pos/SYM]() (3; 0% instances), [et-pos/PROPN]()-[et-pos/ADJ]() (3; 0% instances), [et-pos/ADJ]()-[et-pos/NUM]() (2; 0% instances), [et-pos/AUX]()-[et-pos/NOUN]() (2; 0% instances), [et-pos/SCONJ]()-[et-pos/SCONJ]() (2; 0% instances), [et-pos/SYM]()-[et-pos/NOUN]() (2; 0% instances), [et-pos/ADJ]()-[et-pos/SYM]() (1; 0% instances), [et-pos/ADP]()-[et-pos/ADJ]() (1; 0% instances), [et-pos/ADV]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/AUX]()-[et-pos/VERB]() (1; 0% instances), [et-pos/INTJ]()-[et-pos/ADJ]() (1; 0% instances), [et-pos/NUM]()-[et-pos/PRON]() (1; 0% instances), [et-pos/PROPN]()-[et-pos/NUM]() (1; 0% instances), [et-pos/PROPN]()-[et-pos/SYM]() (1; 0% instances), [et-pos/SYM]()-[et-pos/ADJ]() (1; 0% instances), [et-pos/SYM]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/X]()-[et-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 conj	color:blue
-1	Oli	ole+i	VERB	v/main,indic,impf,ps3,sg,ps,af,%cap	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-2	külm	külm+0	ADJ	adj/pos,sg,nom	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
-3	selge	selge+0	ADJ	adj/pos,sg,nom	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
-4	aprillipäev	aprilli_päev+0	NOUN	n/com,sg,nom	Case=Nom|Number=Sing	1	nsubj	_	_
-5	,	--	PUNCT	punc/--	_	1	punct	_	_
-6	kellad	kell+d	NOUN	n/com,pl,nom	Case=Nom|Number=Plur	7	nsubj	_	_
-7	lõid	löö+id	VERB	v/main,indic,impf,ps3,pl,ps,af	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
-8	parajasti	parajasti+0	ADV	adv/--	_	7	advmod	_	_
-9	kolmteist	kolm_teist+0	NUM	num/card,sg,nom,l	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	7	advmod	_	_
-10	.	--	PUNCT	punc/--	_	1	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 10 conj	color:blue
+1	Siis	siis	ADV	D	_	2	advmod	_	_
+2	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	maja	maja	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+4	sinu	sina	PRON	P	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+5	päralt	päralt	ADP	K	AdpType=Post	4	case	_	_
+6	,	,	PUNCT	Z	_	2	punct	_	_
+7	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	10	dobj	_	_
+8	sa	sina	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+9	ju	ju	ADV	D	_	10	advmod	_	_
+10	ootad	ootama	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+11	pikisilmi	piki_silmi	ADV	D	_	10	advmod	_	_
+12	!	!	PUNCT	Z	_	2	punct	_	_
+13	"	"	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 
@@ -58,16 +43,32 @@ The following 19 pairs of parts of speech are connected with `conj`: [et-pos/NOU
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 conj	color:blue
-1	Ants	Ants+0	PROPN	prop/prop,sg,nom,.cap	Case=Nom|Number=Sing	4	nsubj	_	_
-2	ja	ja+0	CONJ	conj-c/crd	_	1	cc	_	_
-3	Valdek	Valdek+0	PROPN	prop/prop,sg,nom,.cap	Case=Nom|Number=Sing	1	conj	_	_
-4	sõudsid	sõud+sid	VERB	v-fin/main,indic,impf,ps3,pl,ps,af,.FinV	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-5	püstjate	püstjas+te	ADJ	adj/pos,pl,gen	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
-6	tõmmetega	tõmme+tega	NOUN	n/com,pl,kom	Case=Com|Number=Plur	4	nmod	_	_
-7	läbi	läbi+0	ADP	prp/pre,.gen	AdpType=Prep|Case=Gen	9	case	_	_
-8	tumeda	tume+0	ADJ	adj/pos,sg,gen	Case=Gen|Degree=Pos|Number=Sing	9	amod	_	_
-9	vee	vesi+0	NOUN	n/com,sg,gen	Case=Gen|Number=Sing	4	nmod	_	_
-10	.	.	PUNCT	punc/Fst	PunctType=Peri	4	punct	_	_
+1	Jumala	jumal	NOUN	S	Case=Gen|Number=Sing	0	root	_	_
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	tõe	tõde	NOUN	S	Case=Gen|Number=Sing	1	conj	_	_
+4	ja	ja	CONJ	J	_	1	cc	_	_
+5	õiguse	õigus	NOUN	S	Case=Gen|Number=Sing	1	conj	_	_
+6	nimel	nimel	ADP	K	AdpType=Post	1	case	_	_
+7	!	!	PUNCT	Z	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 conj	color:blue
+1	Mõtlen	mõtlema	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	siinkohal	siin_kohal	ADV	D	_	1	advmod	_	_
+3	eeskätt	ees_kätt	ADV	D	_	1	advmod	_	_
+4	läbikäimist	läbi_käimine	NOUN	S	Case=Par|Number=Sing	1	dobj	_	_
+5	Läti	Läti	PROPN	S	Case=Gen|Number=Sing	8	nmod	_	_
+6	ja	ja	CONJ	J	_	5	cc	_	_
+7	Soome	Soome	PROPN	S	Case=Gen|Number=Sing	5	conj	_	_
+8	kolleegidega	kolleeg	NOUN	S	Case=Com|Number=Plur	4	nmod	_	_
+9	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~
 

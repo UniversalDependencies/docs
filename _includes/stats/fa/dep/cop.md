@@ -9,9 +9,9 @@ This relation is universal.
 4665 nodes (3%) are attached to their parents as `cop`.
 
 4656 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41329046087889.
+Average distance between parent and child is 2.41157556270096.
 
-The following 8 pairs of parts of speech are connected with `cop`: [fa-pos/NOUN]()-[fa-pos/VERB]() (2240; 48% instances), [fa-pos/ADJ]()-[fa-pos/VERB]() (2123; 46% instances), [fa-pos/PRON]()-[fa-pos/VERB]() (130; 3% instances), [fa-pos/ADV]()-[fa-pos/VERB]() (106; 2% instances), [fa-pos/VERB]()-[fa-pos/VERB]() (33; 1% instances), [fa-pos/NUM]()-[fa-pos/VERB]() (29; 1% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (3; 0% instances), [fa-pos/DET]()-[fa-pos/VERB]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: [fa-pos/NOUN]()-[fa-pos/VERB]() (2241; 48% instances), [fa-pos/ADJ]()-[fa-pos/VERB]() (2128; 46% instances), [fa-pos/PRON]()-[fa-pos/VERB]() (131; 3% instances), [fa-pos/ADV]()-[fa-pos/VERB]() (100; 2% instances), [fa-pos/VERB]()-[fa-pos/VERB]() (33; 1% instances), [fa-pos/NUM]()-[fa-pos/VERB]() (29; 1% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (3; 0% instances).
 
 
 ~~~ conllu

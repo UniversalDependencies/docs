@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-151 nodes (1%) are attached to their parents as `parataxis`.
+179 nodes (0%) are attached to their parents as `parataxis`.
 
-113 instances of `parataxis` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.4635761589404.
+137 instances of `parataxis` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.74860335195531.
 
-The following 22 pairs of parts of speech are connected with `parataxis`: [hu-pos/VERB]()-[hu-pos/VERB]() (44; 29% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (26; 17% instances), [hu-pos/PROPN]()-[hu-pos/ADJ]() (17; 11% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (10; 7% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (8; 5% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (8; 5% instances), [hu-pos/NOUN]()-[hu-pos/PROPN]() (7; 5% instances), [hu-pos/NOUN]()-[hu-pos/NUM]() (5; 3% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (5; 3% instances), [hu-pos/ADJ]()-[hu-pos/VERB]() (4; 3% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (4; 3% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (2; 1% instances), [hu-pos/VERB]()-[hu-pos/PROPN]() (2; 1% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (1; 1% instances), [hu-pos/ADJ]()-[hu-pos/CONJ]() (1; 1% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (1; 1% instances), [hu-pos/ADV]()-[hu-pos/VERB]() (1; 1% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (1; 1% instances), [hu-pos/NOUN]()-[hu-pos/CONJ]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/CONJ]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/NUM]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (1; 1% instances).
+The following 27 pairs of parts of speech are connected with `parataxis`: [hu-pos/VERB]()-[hu-pos/VERB]() (46; 26% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (28; 16% instances), [hu-pos/PROPN]()-[hu-pos/ADJ]() (17; 9% instances), [hu-pos/NOUN]()-[hu-pos/PROPN]() (11; 6% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (10; 6% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (10; 6% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (9; 5% instances), [hu-pos/ADJ]()-[hu-pos/VERB]() (7; 4% instances), [hu-pos/VERB]()-[hu-pos/PROPN]() (7; 4% instances), [hu-pos/NOUN]()-[hu-pos/NUM]() (6; 3% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (5; 3% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (4; 2% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (4; 2% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (2; 1% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (1; 1% instances), [hu-pos/ADJ]()-[hu-pos/CONJ]() (1; 1% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (1; 1% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (1; 1% instances), [hu-pos/ADV]()-[hu-pos/VERB]() (1; 1% instances), [hu-pos/NOUN]()-[hu-pos/CONJ]() (1; 1% instances), [hu-pos/NOUN]()-[hu-pos/PUNCT]() (1; 1% instances), [hu-pos/NUM]()-[hu-pos/PRON]() (1; 1% instances), [hu-pos/PROPN]()-[hu-pos/PROPN]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/CONJ]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/NUM]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/PUNCT]() (1; 1% instances).
 
 
 ~~~ conllu

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-98 nodes (0%) are attached to their parents as `csubj`.
+10 nodes (0%) are attached to their parents as `csubj`.
 
-54 instances of `csubj` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.90816326530612.
+6 instances of `csubj` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.2.
 
-The following 5 pairs of parts of speech are connected with `csubj`: [pl-pos/VERB]()-[pl-pos/VERB]() (46; 47% instances), [pl-pos/NOUN]()-[pl-pos/VERB]() (35; 36% instances), [pl-pos/ADJ]()-[pl-pos/VERB]() (15; 15% instances), [pl-pos/AUX]()-[pl-pos/VERB]() (1; 1% instances), [pl-pos/NOUN]()-[pl-pos/NOUN]() (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `csubj`: [pl-pos/VERB]()-[pl-pos/VERB]() (6; 60% instances), [pl-pos/NOUN]()-[pl-pos/VERB]() (4; 40% instances).
 
 
 ~~~ conllu
@@ -35,34 +35,14 @@ The following 5 pairs of parts of speech are connected with `csubj`: [pl-pos/VER
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 csubj	color:blue
-1	Rozdawanie	rozdawać	VERB	ger:sg:nom:n:imperf:aff	Aspect=Imp|Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|VerbForm=Ger	5	csubj	_	_
-2	ulotek	ulotka	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	1	dobj	_	_
-3	NIE	nie	PART	qub:_	_	5	neg	_	_
-4	JEST	być	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	terroryzmem	terroryzm	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	_
-6	medialnym	medialny	ADJ	adj:sg:inst:m3:pos	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
-7	!	!	PUNCT	interp:_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 csubj	color:blue
-1	Użytkowanie	użytkować	VERB	ger:sg:nom:n:imperf:aff	Aspect=Imp|Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|VerbForm=Ger	7	csubj	_	_
-2	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Case=Acc|Variant=Short	3	case	_	_
-3	spółdzielnię	spółdzielnia	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	1	dobj	_	_
-4	wkładów	wkład	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	dobj	_	_
-5	gruntowych	gruntowy	ADJ	adj:pl:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
-6	jest	być	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	odpłatne	odpłatny	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
-8	.	.	PUNCT	interp:_	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 csubj	color:blue
+1	To	to	VERB	pred:_	_	4	csubj	_	_
+2	była	być	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	cop	_	_
+3	istna	istny	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	makabra	makabra	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	!	!	PUNCT	interp:_	_	4	punct	_	_
 
 ~~~
 

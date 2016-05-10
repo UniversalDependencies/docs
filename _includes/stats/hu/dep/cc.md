@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1140 nodes (4%) are attached to their parents as `cc`.
+1821 nodes (4%) are attached to their parents as `cc`.
 
-972 instances of `cc` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.95877192982456.
+1448 instances of `cc` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.0494233937397.
 
-The following 13 pairs of parts of speech are connected with `cc`: [hu-pos/VERB]()-[hu-pos/CONJ]() (440; 39% instances), [hu-pos/NOUN]()-[hu-pos/CONJ]() (406; 36% instances), [hu-pos/ADJ]()-[hu-pos/CONJ]() (127; 11% instances), [hu-pos/PROPN]()-[hu-pos/CONJ]() (80; 7% instances), [hu-pos/PRON]()-[hu-pos/CONJ]() (49; 4% instances), [hu-pos/ADV]()-[hu-pos/CONJ]() (21; 2% instances), [hu-pos/NUM]()-[hu-pos/CONJ]() (9; 1% instances), [hu-pos/DET]()-[hu-pos/CONJ]() (2; 0% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/AUX]()-[hu-pos/CONJ]() (1; 0% instances), [hu-pos/CONJ]()-[hu-pos/CONJ]() (1; 0% instances), [hu-pos/CONJ]()-[hu-pos/NOUN]() (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `cc`: [hu-pos/VERB]()-[hu-pos/CONJ]() (743; 41% instances), [hu-pos/NOUN]()-[hu-pos/CONJ]() (623; 34% instances), [hu-pos/ADJ]()-[hu-pos/CONJ]() (203; 11% instances), [hu-pos/PROPN]()-[hu-pos/CONJ]() (122; 7% instances), [hu-pos/PRON]()-[hu-pos/CONJ]() (65; 4% instances), [hu-pos/ADV]()-[hu-pos/CONJ]() (27; 1% instances), [hu-pos/NUM]()-[hu-pos/CONJ]() (22; 1% instances), [hu-pos/ADJ]()-[hu-pos/SCONJ]() (3; 0% instances), [hu-pos/DET]()-[hu-pos/CONJ]() (2; 0% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (2; 0% instances), [hu-pos/VERB]()-[hu-pos/SCONJ]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/AUX]()-[hu-pos/CONJ]() (1; 0% instances), [hu-pos/CONJ]()-[hu-pos/CONJ]() (1; 0% instances), [hu-pos/CONJ]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/NUM]()-[hu-pos/PUNCT]() (1; 0% instances), [hu-pos/PRON]()-[hu-pos/SCONJ]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu

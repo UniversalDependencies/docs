@@ -7,58 +7,65 @@
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: [compound:prt]().
 
-17 nodes (0%) are attached to their parents as `compound`.
+362 nodes (0%) are attached to their parents as `compound`.
 
-13 instances of `compound` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.47058823529412.
+352 instances of `compound` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.0414364640884.
 
-The following 5 pairs of parts of speech are connected with `compound`: [et-pos/NUM]()-[et-pos/NUM]() (7; 41% instances), [et-pos/VERB]()-[et-pos/VERB]() (7; 41% instances), [et-pos/ADV]()-[et-pos/VERB]() (1; 6% instances), [et-pos/AUX]()-[et-pos/VERB]() (1; 6% instances), [et-pos/VERB]()-[et-pos/AUX]() (1; 6% instances).
+The following 11 pairs of parts of speech are connected with `compound`: [et-pos/NUM]()-[et-pos/NUM]() (337; 93% instances), [et-pos/NOUN]()-[et-pos/NOUN]() (6; 2% instances), [et-pos/VERB]()-[et-pos/VERB]() (6; 2% instances), [et-pos/SYM]()-[et-pos/NUM]() (3; 1% instances), [et-pos/NOUN]()-[et-pos/NUM]() (2; 1% instances), [et-pos/NUM]()-[et-pos/SYM]() (2; 1% instances), [et-pos/PROPN]()-[et-pos/NOUN]() (2; 1% instances), [et-pos/AUX]()-[et-pos/VERB]() (1; 0% instances), [et-pos/NOUN]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/PROPN]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/VERB]()-[et-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 compound	color:blue
-1	Naised	naine+d	NOUN	n/com,pl,nom,.cap	Case=Nom|Number=Plur	2	nsubj	_	_
-2	tatsasid	tatsa+sid	VERB	v-fin/main,indic,impf,ps3,pl,ps,af,.FinV,.Intr	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-3	õnneks	õnn+ks	NOUN	n/com,sg,tr	Case=Tra|Number=Sing	2	nmod	_	_
-4	minema	mine+ma	VERB	v-inf/main,sup,ps,ill,.Intr,.ill,.all	Case=All|VerbForm=Sup	2	compound	_	_
-5	.	.	PUNCT	punc/Fst	PunctType=Peri	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 compound	color:blue
-1	Kogu	kogu+0	ADJ	adj/pos,%cap	Degree=Pos	2	amod	_	_
-2	projekt	projekt+0	NOUN	n/com,sg,nom	Case=Nom|Number=Sing	3	nsubj	_	_
-3	maksab	maks+b	VERB	v/main,indic,pres,ps3,sg,ps,af	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	200	200+0	NUM	num/card,x?,digit	NumForm=Digit|NumType=Card	6	nummod:gov	_	_
-5	miljoni	miljon+0	NUM	num/card,sg,gen,l	Case=Gen|Number=Sing|NumForm=Word|NumType=Card	4	compound	_	_
-6	krooni	kroon+0	NOUN	n/com,sg,gen	Case=Gen|Number=Sing	3	advmod	_	_
-7	ringis	ringis+0	ADP	prp/post,%gen	AdpType=Post	6	case	_	_
-8	.	--	PUNCT	punc/--	_	3	punct	_	_
+# visual-style 5 4 compound	color:blue
+1	Eelmine	eelmine	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
+2	rekord	rekord	NOUN	S	Case=Nom|Number=Sing	6	nsubj:cop	_	_
+3	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+4	64	64	NUM	N	NumForm=Digit|NumType=Card	5	compound	_	_
+5	000	000	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	6	nummod	_	_
+6	krooni	kroon	NOUN	S	Case=Par|Number=Sing	0	root	_	_
+7	.	.	PUNCT	Z	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 compound	color:blue
+1	Eesti	eesti	ADJ	G	_	2	amod	_	_
+2	sotsioloogia	sotsioloogia	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
+3	grand	grand	NOUN	S	Case=Nom|Number=Sing	4	compound	_	_
+4	old	old	NOUN	S	Case=Nom|Number=Sing	5	compound	_	_
+5	man	man	NOUN	S	Case=Nom|Number=Sing	6	nsubj	_	_
+6	väidab	väitma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	,	,	PUNCT	Z	_	11	punct	_	_
+8	et	et	SCONJ	J	_	11	mark	_	_
+9	tööga	töö	NOUN	S	Case=Com|Number=Sing	11	nmod	_	_
+10	pole	olema	VERB	V	Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	võimalik	võimalik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	6	ccomp	_	_
+12	rikkaks	rikas	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	13	amod	_	_
+13	saada	saama	VERB	V	VerbForm=Inf	11	csubj:cop	_	_
+14	.	.	PUNCT	Z	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 compound	color:blue
-1	Temast	tema+st	PRON	pron-pers/pers,ps3,sg,el,.cap	Case=Ela|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
-2	oli	ole+i	AUX	v-fin/aux,indic,impf,ps3,sg,ps,af,.FinV,.Intr	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	compound	_	_
-3	tilkunud	tilku+nud	VERB	v-pcp2/main,partic,past,ps,.Intr	Tense=Past|VerbForm=Part	0	root	_	_
-4	verd	veri+0	NOUN	n/com,sg,part	Case=Par|Number=Sing	3	nsubj	_	_
-5	.	.	PUNCT	punc/Fst	PunctType=Peri	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 compound	color:blue
+1	Uurijad	uurija	NOUN	S	Case=Nom|Number=Plur	2	nsubj	_	_
+2	sõitsid	sõit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	minema	mine	VERB	V	Case=All|VerbForm=Sup|Voice=Act	2	compound	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 

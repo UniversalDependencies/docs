@@ -8,8 +8,8 @@ This feature is language-specific.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 580 tokens (0%) have a non-empty value of `NumValue`.
-99 types (0%) occur at least once with a non-empty value of `NumValue`.
-1 lemmas (0) occur at least once with a non-empty value of `NumValue`.
+44 types (0%) occur at least once with a non-empty value of `NumValue`.
+10 lemmas (0%) occur at least once with a non-empty value of `NumValue`.
 The feature is used with 1 part-of-speech tags: [ar-pos/NUM]() (580; 0% instances).
 
 ### `NUM`
@@ -20,7 +20,9 @@ The most frequent other feature values with which `NUM` and `NumValue` co-occurr
 
 `NUM` tokens may have the following values of `NumValue`:
 
-* `1` (32; 6% of non-empty `NumValue`): وَاحِدٍ، وَاحِدٌ، وَاحِدًا، وَاحِدَةٍ، اَلوَاحِدِ، وَاحِدَةً، أَحَدَ، اَلوَاحِدَ، اَلوَاحِدَةِ
-* `2` (29; 5% of non-empty `NumValue`): عَشَرَ، عَشرَةَ
-* `3` (519; 89% of non-empty `NumValue`): ثَلَاثَةِ، اَلثَّلَاثَةِ، أَربَعَةِ، سِتَّةِ، ثَلَاثَةَ، ثَلَاثِ، اَلثَّلَاثِ، اَلأَربَعَةِ، أَربَعَةَ، خَمسِ
+* `1` (32; 6% of non-empty `NumValue`): واحد، واحدة، الواحد، واحداً، أحد، الواحدة، واحدا
+* `2` (29; 5% of non-empty `NumValue`): عشر، عشرة
+* `3` (519; 89% of non-empty `NumValue`): ثلاثة، خمسة، ثلاث، ستة، الثلاثة، اربعة، الثلاث، خمس، سبعة، أربعة
+
+`NumValue` seems to be **lexical feature** of `NUM`. 100% lemmas (10) occur only with one value of `NumValue`.
 

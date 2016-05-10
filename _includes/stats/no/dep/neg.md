@@ -26,7 +26,7 @@ The following 16 pairs of parts of speech are connected with `neg`: [no-pos/VERB
 4	å	å	PART	_	_	5	mark	_	_
 5	så	så	VERB	_	VerbForm=Inf	2	xcomp	_	_
 6	tvil	tvil	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	dobj	_	_
-7	om	om	ADP	_	_	10	case	_	_
+7	om	om	ADP	_	_	10	mark	_	_
 8	at	at	SCONJ	_	_	10	mark	_	_
 9	de	de	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
 10	tror	tro	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl	_	_
@@ -67,7 +67,7 @@ The following 16 pairs of parts of speech are connected with `neg`: [no-pos/VERB
 5	de	de	DET	_	Number=Plur|PronType=Dem	7	det	_	_
 6	slemme	slem	ADJ	_	Degree=Pos|Number=Plur	7	amod	_	_
 7	naturkreftene	naturkraft	NOUN	_	Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
-8	som	som	PRON	_	_	9	nsubj	_	_
+8	som	som	PRON	_	PronType=Rel	9	nsubj	_	_
 9	truer	true	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	Venezia	Venezia	PROPN	_	_	9	dobj	_	_
 11	.	$.	PUNCT	_	_	7	punct	_	_

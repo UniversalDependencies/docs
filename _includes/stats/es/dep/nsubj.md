@@ -83,3 +83,83 @@ The following 72 pairs of parts of speech are connected with `nsubj`: [es-pos/VE
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+29708 nodes (5%) are attached to their parents as `nsubj`.
+
+24736 instances of `nsubj` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.17890803823886.
+
+The following 55 pairs of parts of speech are connected with `nsubj`: [es-pos/VERB]()-[es-pos/NOUN]() (13043; 44% instances), [es-pos/VERB]()-[es-pos/PRON]() (6492; 22% instances), [es-pos/VERB]()-[es-pos/PROPN]() (5713; 19% instances), [es-pos/ADJ]()-[es-pos/NOUN]() (1153; 4% instances), [es-pos/NOUN]()-[es-pos/NOUN]() (817; 3% instances), [es-pos/NOUN]()-[es-pos/PRON]() (484; 2% instances), [es-pos/ADJ]()-[es-pos/PRON]() (308; 1% instances), [es-pos/NOUN]()-[es-pos/PROPN]() (306; 1% instances), [es-pos/VERB]()-[es-pos/ADJ]() (205; 1% instances), [es-pos/VERB]()-[es-pos/NUM]() (191; 1% instances), [es-pos/ADJ]()-[es-pos/PROPN]() (156; 1% instances), [es-pos/PRON]()-[es-pos/NOUN]() (102; 0% instances), [es-pos/AUX]()-[es-pos/NOUN]() (85; 0% instances), [es-pos/ADV]()-[es-pos/NOUN]() (69; 0% instances), [es-pos/PROPN]()-[es-pos/NOUN]() (64; 0% instances), [es-pos/PRON]()-[es-pos/PRON]() (48; 0% instances), [es-pos/AUX]()-[es-pos/PRON]() (43; 0% instances), [es-pos/DET]()-[es-pos/NOUN]() (42; 0% instances), [es-pos/PRON]()-[es-pos/PROPN]() (37; 0% instances), [es-pos/NOUN]()-[es-pos/ADJ]() (34; 0% instances), [es-pos/VERB]()-[es-pos/SYM]() (30; 0% instances), [es-pos/PROPN]()-[es-pos/PRON]() (29; 0% instances), [es-pos/DET]()-[es-pos/PROPN]() (27; 0% instances), [es-pos/NUM]()-[es-pos/NOUN]() (27; 0% instances), [es-pos/ADV]()-[es-pos/PRON]() (22; 0% instances), [es-pos/ADP]()-[es-pos/NOUN]() (20; 0% instances), [es-pos/NOUN]()-[es-pos/NUM]() (20; 0% instances), [es-pos/ADJ]()-[es-pos/NUM]() (16; 0% instances), [es-pos/ADJ]()-[es-pos/ADJ]() (15; 0% instances), [es-pos/ADP]()-[es-pos/PRON]() (9; 0% instances), [es-pos/ADV]()-[es-pos/PROPN]() (9; 0% instances), [es-pos/PROPN]()-[es-pos/PROPN]() (9; 0% instances), [es-pos/AUX]()-[es-pos/PROPN]() (8; 0% instances), [es-pos/NUM]()-[es-pos/PRON]() (8; 0% instances), [es-pos/ADP]()-[es-pos/PROPN]() (6; 0% instances), [es-pos/CONJ]()-[es-pos/NOUN]() (6; 0% instances), [es-pos/PROPN]()-[es-pos/ADJ]() (6; 0% instances), [es-pos/SYM]()-[es-pos/NOUN]() (6; 0% instances), [es-pos/AUX]()-[es-pos/ADJ]() (5; 0% instances), [es-pos/NOUN]()-[es-pos/SYM]() (5; 0% instances), [es-pos/DET]()-[es-pos/ADV]() (4; 0% instances), [es-pos/NUM]()-[es-pos/PROPN]() (4; 0% instances), [es-pos/VERB]()-[es-pos/ADV]() (4; 0% instances), [es-pos/PRON]()-[es-pos/ADJ]() (3; 0% instances), [es-pos/VERB]()-[es-pos/DET]() (3; 0% instances), [es-pos/AUX]()-[es-pos/NUM]() (2; 0% instances), [es-pos/DET]()-[es-pos/PRON]() (2; 0% instances), [es-pos/NOUN]()-[es-pos/DET]() (2; 0% instances), [es-pos/PROPN]()-[es-pos/NUM]() (2; 0% instances), [es-pos/SYM]()-[es-pos/PRON]() (2; 0% instances), [es-pos/ADJ]()-[es-pos/DET]() (1; 0% instances), [es-pos/ADJ]()-[es-pos/SYM]() (1; 0% instances), [es-pos/ADP]()-[es-pos/NUM]() (1; 0% instances), [es-pos/NUM]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/SCONJ]()-[es-pos/PRON]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 nsubj	color:blue
+1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	error	error	NOUN	NOUN	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	fue	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+4	haber	haber	AUX	AUX	VerbForm=Inf	6	aux	_	_
+5	lo	él	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	dobj	_	_
+6	comprado	comprar	VERB	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	en	en	ADP	ADP	AdpType=Prep	8	case	_	_
+8	rebajas	rebaja	NOUN	NOUN	Gender=Fem|Number=Plur	6	nmod	_	_
+9	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nsubj	color:blue
+1	-	-	PUNCT	PUNCT	PunctType=Dash	3	punct	_	_
+2	Ya	ya	ADV	ADV	_	3	advmod	_	_
+3	sé	saber	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+4	qué	qué	PRON	PRON	Number=Sing|PronType=Int	5	nsubj	_	_
+5	ocurre	ocurrir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	-	-	PUNCT	PUNCT	PunctType=Dash	3	punct	_	_
+7	explicó	explicar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	una	uno	PRON	PRON	Gender=Fem|Number=Sing|PronType=Ind	7	nsubj	_	_
+9	de	de	ADP	ADP	AdpType=Prep	11	case	_	_
+10	mis	mi	DET	DET	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	hijas	hija	NOUN	NOUN	Gender=Fem|Number=Plur	8	nmod	_	_
+12	-	-	PUNCT	PUNCT	PunctType=Dash	7	punct	_	_
+13	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 nsubj	color:blue
+1	-	-	PUNCT	PUNCT	PunctType=Dash	4	punct	_	_
+2	Quizá	quizá	ADV	ADV	_	4	advmod	_	_
+3	lo	él	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	dobj	_	_
+4	lamentemos	lamentar	VERB	VERB	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+5	más	más	ADV	ADV	_	6	advmod	_	_
+6	tarde	tarde	ADV	ADV	_	4	advmod	_	_
+7	-	-	PUNCT	PUNCT	PunctType=Dash	4	punct	_	_
+8	,	,	PUNCT	PUNCT	PunctType=Comm	4	punct	_	_
+9	reconocía	reconocer	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	Chechu	Chechu	PROPN	PROPN	_	9	nsubj	_	MWE=Chechu_Biriukov|MWEPOS=PROPN
+11	Biriukov	Biriukov	PROPN	PROPN	_	10	name	_	_
+12	...	...	PUNCT	PUNCT	PunctType=Comm	9	punct	_	_
+
+~~~
+
+

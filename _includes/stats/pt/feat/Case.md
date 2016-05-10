@@ -15,7 +15,7 @@ The feature is used with 1 part-of-speech tags: [pt-pos/PRON]() (2726; 1% instan
 
 ### `PRON`
 
-2726 [pt-pos/PRON]() tokens (36% of all `PRON` tokens) have a non-empty value of `Case`.
+2726 [pt-pos/PRON]() tokens (41% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2721; 100%), <tt><a href="Person.html">Person</a>=3</tt> (2400; 88%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1948; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (1730; 63%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1456; 53%).
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc,Nom` (71; 3% of non-empty `Case`): <em>ele, ela, eles, nós, elas, você</em>
 * `Dat` (227; 8% of non-empty `Case`): <em>lhe, me, lhes, nos, se, lhe-, nos*, Ihe, me-, no</em>
 * `Nom` (530; 19% of non-empty `Case`): <em>ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</em>
-* `EMPTY` (4902): <em>que, a, o, o_que, isso, quem, os, tudo, de, nada</em>
+* `EMPTY` (3971): <em>que, isso, quem, o, tudo, nada, isto, qual, a, os</em>
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>Acc,Dat</tt></th><th><tt>Acc,Nom</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>

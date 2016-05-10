@@ -74,56 +74,62 @@ The following 14 pairs of parts of speech are connected with `case`: [fi-pos/NOU
 
 This relation is universal.
 
-2688 nodes (2%) are attached to their parents as `case`.
+2699 nodes (2%) are attached to their parents as `case`.
 
-2365 instances of `case` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14471726190476.
+2375 instances of `case` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15968877361986.
 
-The following 10 pairs of parts of speech are connected with `case`: [fi-pos/NOUN]()-[fi-pos/ADP]() (1926; 72% instances), [fi-pos/PRON]()-[fi-pos/ADP]() (392; 15% instances), [fi-pos/PROPN]()-[fi-pos/ADP]() (227; 8% instances), [fi-pos/NUM]()-[fi-pos/ADP]() (63; 2% instances), [fi-pos/ADJ]()-[fi-pos/ADP]() (42; 2% instances), [fi-pos/VERB]()-[fi-pos/ADP]() (12; 0% instances), [fi-pos/ADV]()-[fi-pos/ADP]() (11; 0% instances), [fi-pos/DET]()-[fi-pos/ADP]() (10; 0% instances), [fi-pos/ADP]()-[fi-pos/ADP]() (3; 0% instances), [fi-pos/X]()-[fi-pos/ADP]() (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `case`: [fi-pos/NOUN]()-[fi-pos/ADP]() (1938; 72% instances), [fi-pos/PRON]()-[fi-pos/ADP]() (392; 15% instances), [fi-pos/PROPN]()-[fi-pos/ADP]() (227; 8% instances), [fi-pos/NUM]()-[fi-pos/ADP]() (59; 2% instances), [fi-pos/ADJ]()-[fi-pos/ADP]() (44; 2% instances), [fi-pos/VERB]()-[fi-pos/ADP]() (12; 0% instances), [fi-pos/ADV]()-[fi-pos/ADP]() (10; 0% instances), [fi-pos/DET]()-[fi-pos/ADP]() (10; 0% instances), [fi-pos/ADP]()-[fi-pos/ADP]() (3; 0% instances), [fi-pos/X]()-[fi-pos/X]() (2; 0% instances), [fi-pos/PART]()-[fi-pos/ADP]() (1; 0% instances), [fi-pos/X]()-[fi-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 case	color:blue
-1	Näen	nähdä	VERB	V,Act,Ind,Pres,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
-2	hyvin	hyvin	ADV	Adv	_	1	advmod	_	_
-3	ilman	ilman	ADP	Adp	_	4	case	_	_
-4	lasejakin	lasi	NOUN	N,Pl,Par,Kin	Case=Par|Clitic=Kin|Number=Plur	1	nmod	_	_
-5	.	.	PUNCT	Pun	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 case	color:blue
+1	Jussi	jussi	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	3	nsubj	_	Alt=name
+2	Vares	vares	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	1	name	_	_
+3	ilmestyi	ilmestyä	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Teikarin	teikari	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	5	nmod	_	_
+5	oven	ovi	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	3	nmod	_	_
+6	taakse	taakse	ADP	Adp	_	5	case	_	_
+7	iltapäivän	iltapäivä	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	8	nmod	_	_
+8	alkajaisiksi	alkajaisiksi	ADV	Adv	_	3	advmod	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 case	color:blue
+1	Muistatkos	muistaa	VERB	V,Act,Ind,Pres,Sg2,Ko,S	Clitic=Ko,S|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	sen	se	DET	Pron,Dem,Sg,Gen	Case=Gen|Number=Sing|PronType=Dem	3	det	_	_
+3	Maijan	maija	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	1	dobj	_	_
+4	,	,	PUNCT	Pun	_	3	punct	_	_
+5	joka	joka	PRON	Pron,Rel,Sg,Nom	Case=Nom|Number=Sing|PronType=Rel	6	nsubj	_	_
+6	asui	asua	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	_
+7	täällä	täällä	ADV	Adv,Dem	PronType=Dem	6	advmod	_	_
+8	ennen	ennen	ADP	Adp	_	9	case	_	_
+9	meitä	me	PRON	Pron,Pers,Pl1,Par	Case=Par|Number=Plur|Person=1|PronType=Prs	6	nmod	_	_
+10	?	?	PUNCT	Pun	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 case	color:blue
-1	Minun	minä	PRON	Pron,Pers,Sg1,Gen	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
-2	puolestani	puolesta	ADP	Adp,PxSg1	Number[psor]=Sing|Person[psor]=1	1	case	_	_
-3	saat	saada	VERB	V,Act,Ind,Pres,Sg2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	4	aux	_	_
-4	mennä	mennä	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
-5	jo	jo	ADV	Pcle	_	4	advmod	_	_
-6	.	.	PUNCT	Pun	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 case	color:blue
-1	Hän	hän	PRON	Pron,Pers,Sg3,Nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	tuli	tulla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-3	Maijan	maija	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	2	nmod	_	_
-4	sijasta	sijasta	ADP	Adp	_	3	case	_	_
-5	.	.	PUNCT	Pun	_	4	punct	_	_
+# visual-style 2 3 case	color:blue
+1	Pohjolan	pohjola	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	2	nmod	_	_
+2	Pariisin	pariisi	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	4	nmod	_	_
+3	kautta	kautta	ADP	Adp	_	2	case	_	_
+4	Mikkeliin	mikkeli	PROPN	N,Prop,Sg,Ill	Case=Ill|Number=Sing	0	root	_	_
 
 ~~~
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-484 nodes (0%) are attached to their parents as `appos`.
+586 nodes (0%) are attached to their parents as `appos`.
 
-482 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.6198347107438.
+583 instances of `appos` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.50170648464164.
 
-The following 29 pairs of parts of speech are connected with `appos`: [pt-pos/NOUN]()-[pt-pos/PROPN]() (284; 59% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (78; 16% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (38; 8% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (14; 3% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (9; 2% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (8; 2% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (6; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (5; 1% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (5; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (4; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (4; 1% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (3; 1% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (1; 0% instances).
+The following 32 pairs of parts of speech are connected with `appos`: [pt-pos/NOUN]()-[pt-pos/PROPN]() (317; 54% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (106; 18% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (39; 7% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (21; 4% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (13; 2% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (12; 2% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (11; 2% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (7; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (6; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (6; 1% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (5; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (5; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (4; 1% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (4; 1% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 29 pairs of parts of speech are connected with `appos`: [pt-pos/NO
 5	seu	seu	DET	pron-det|<poss|3S>|M|S	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	filho	filho	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 7	,	,	PUNCT	punc	_	6	punct	_	_
-8	Sérgio	Sérgio	PROPN	prop|M|S	_	6	appos	_	_
+8	Sérgio	Sérgio	PROPN	prop|M|S	_	6	appos	_	MWE=Sérgio_Fioravanti|MWEPOS=PROPN
 9	Fioravanti	Fioravanti	PROPN	PROPN	_	8	name	_	_
 10	.	.	PUNCT	punc	_	6	punct	_	_
 
@@ -49,25 +49,32 @@ The following 29 pairs of parts of speech are connected with `appos`: [pt-pos/NO
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 appos	color:blue
-1	Entre	entre	ADP	prp	AdpType=Prep	2	case	_	_
-2	eles	ele	PRON	pron-pers|M|3P|PIV	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	3	nmod	_	_
-3	está	estar	VERB	v-fin|<ink>|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	Rui	Rui	PROPN	prop|M|S	_	3	nsubj	_	_
-5	Marques	Marques	PROPN	PROPN	_	4	name	_	_
-6	,	,	PUNCT	punc	_	4	punct	_	_
-7	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	organizador	organizador	NOUN	n|M|S	Gender=Masc|Number=Sing	4	appos	_	_
-9	de	de	ADP	prp|<sam->	AdpType=Prep	11	case	_	_
-10	a	o	DET	art|<-sam>|F|S	Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	viagem	viagem	NOUN	n|F|S	Gender=Fem|Number=Sing	8	nmod	_	_
-12	de	de	ADP	prp|<sam->	AdpType=Prep	14	case	_	_
-13	o	o	DET	art|<-sam>|M|S	Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	Lusitânia-Expresso	Lusitânia-Expresso	PROPN	prop|M|S	Gender=Masc|Number=Sing	11	nmod	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 19 appos	color:blue
+1	Por	por	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
+2	as	o	DET	art|<-sam>|<artd>|P	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+3	rádios	rádio	NOUN	n|M|P	Gender=Masc|Number=Plur	7	nmod	_	_
+4	,	,	PUNCT	punc	_	7	punct	_	_
+5	entretanto	entretanto	ADV	adv|<kc>	_	7	advmod	_	_
+6	,	,	PUNCT	punc	_	7	punct	_	_
+7	roda	rodar	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	já	já	ADV	adv	_	7	advmod	_	_
+9	«	«	PUNCT	punc	_	19	punct	_	_
+10	Entre	Entre	ADP	prop|M/F|S	AdpType=Prep	19	case	_	MWE=Entre_o_Céu_e_o_Medo|MWEPOS=PROPN
+11	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Céu	Céu	PROPN	PROPN	_	7	nsubj	_	_
+13	e	e	CONJ	CONJ	_	12	cc	_	_
+14	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Medo	Medo	PROPN	PROPN	_	12	conj	_	_
+16	»	»	PUNCT	punc	_	19	punct	_	_
+17	,	,	PUNCT	punc	_	19	punct	_	_
+18	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	single	single	NOUN	n|M|S	Gender=Masc|Number=Sing	12	appos	_	_
+20	promocional	promocional	ADJ	adj|M|S	Gender=Masc|Number=Sing	19	amod	_	_
+21	.	.	PUNCT	punc	_	7	punct	_	_
 
 ~~~
 

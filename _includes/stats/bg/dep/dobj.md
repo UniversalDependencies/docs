@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-7537 nodes (5%) are attached to their parents as `dobj`.
+7530 nodes (5%) are attached to their parents as `dobj`.
 
-6059 instances of `dobj` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.76714873291761.
+6054 instances of `dobj` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.76693227091633.
 
-The following 14 pairs of parts of speech are connected with `dobj`: [bg-pos/VERB]()-[bg-pos/NOUN]() (5070; 67% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (1074; 14% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (328; 4% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (279; 4% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (209; 3% instances), [bg-pos/VERB]()-[bg-pos/DET]() (185; 2% instances), [bg-pos/VERB]()-[bg-pos/PUNCT]() (171; 2% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (157; 2% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (41; 1% instances), [bg-pos/PART]()-[bg-pos/NOUN]() (8; 0% instances), [bg-pos/PART]()-[bg-pos/VERB]() (6; 0% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (5; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `dobj`: [bg-pos/VERB]()-[bg-pos/NOUN]() (5068; 67% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (1073; 14% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (329; 4% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (279; 4% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (204; 3% instances), [bg-pos/VERB]()-[bg-pos/DET]() (184; 2% instances), [bg-pos/VERB]()-[bg-pos/PUNCT]() (171; 2% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (157; 2% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (41; 1% instances), [bg-pos/PART]()-[bg-pos/NOUN]() (8; 0% instances), [bg-pos/PART]()-[bg-pos/VERB]() (6; 0% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (5; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,16 +32,16 @@ The following 14 pairs of parts of speech are connected with `dobj`: [bg-pos/VER
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 dobj	color:blue
-1	Страх	страх	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	4	cop	_	_
-2	ли	ли	PART	Ti	_	1	discourse	_	_
-3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	dobj	_	_
-4	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	?	?	PUNCT	punct	_	4	punct	_	_
+# visual-style 3 2 dobj	color:blue
+1	Ще	ще	PART	Tx	_	3	aux	_	_
+2	ги	аз	PRON	Ppetap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	dobj	_	_
+3	защитава	защитавам	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	безплатно	безплатно	ADV	Dm	Degree=Pos	3	advmod	_	_
+5	.	.	PUNCT	punct	_	3	punct	_	_
 
 ~~~
 

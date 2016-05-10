@@ -5,45 +5,42 @@
 ## Treebank Statistics (UD_Romanian)
 
 This feature is universal.
-It occurs with 1 different values: `Card`.
+It occurs with 2 different values: `Card`, `Ord`.
 
-398 tokens (3%) have a non-empty value of `NumType`.
-128 types (3%) occur at least once with a non-empty value of `NumType`.
-128 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: [ro-pos/NUM]() (395; 3% instances), [ro-pos/DET]() (3; 0% instances).
+2523 tokens (2%) have a non-empty value of `NumType`.
+380 types (2%) occur at least once with a non-empty value of `NumType`.
+352 lemmas (3%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 1 part-of-speech tags: [ro-pos/NUM]() (2523; 2% instances).
 
 ### `NUM`
 
-395 [ro-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+2523 [ro-pos/NUM]() tokens (75% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (346; 88%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (339; 86%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (314; 79%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (260; 66%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (260; 66%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2008; 80%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1402; 56%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1389; 55%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (395; 100% of non-empty `NumType`): <em>1938, 1, 3, 2, două, primul, prima, trei, 4, 15</em>
+* `Card` (2137; 85% of non-empty `NumType`): <em>1, 2, 3, 4, 5, 6, două, 7, trei, 1999</em>
+* `Ord` (386; 15% of non-empty `NumType`): <em>primul, prima, doua, c, i, doilea, primele, ii, ultimul, dintâi</em>
+* `EMPTY` (847): <em>2, 4, 5, 3, 1, două, trei, 20, 10, 15</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (126) occur only with one value of `NumType`.
+<table>
+  <tr><th>Paradigm <i>1</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>1</em></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="NumForm.html">NumForm</a>=Word</tt></td><td></td><td><em>1</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="NumForm.html">NumForm</a>=Digit</tt></td><td><em>1, l</em></td><td></td></tr>
+</table>
 
-### `DET`
-
-3 [ro-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
-
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Position.html">Position</a>=EMPTY</tt> (3; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (3; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (3; 100%), <tt><a href="PronType.html">PronType</a>=Tot</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (3; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 67%).
-
-`DET` tokens may have the following values of `NumType`:
-
-* `Card` (3; 100% of non-empty `NumType`): <em>ambele, Amândoi</em>
-* `EMPTY` (605): <em>o, un, a, al, ale, lui, cele, unui, toate, -lea</em>
+`NumType` seems to be **lexical feature** of `NUM`. 95% lemmas (335) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (16; 100%),
-<tt>NUM --[<a href="../dep/goeswith.html">goeswith</a>]--> NUM</tt> (5; 100%),
-<tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (5; 100%),
-<tt>NUM --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (3; 100%),
+<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (143; 95%),
+<tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (19; 61%),
+<tt>NUM --[<a href="../dep/goeswith.html">goeswith</a>]--> NUM</tt> (10; 77%),
+<tt>NUM --[<a href="../dep/nmod.html">nmod</a>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<a href="../dep/remnant.html">remnant</a>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<a href="../dep/nmod.html">nmod</a>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<a href="../dep/parataxis.html">parataxis</a>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<a href="../dep/amod.html">amod</a>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<a href="../dep/cc.html">cc</a>]--> NUM</tt> (2; 100%),
+<tt>NUM --[<a href="../dep/list.html">list</a>]--> NUM</tt> (1; 100%).
 

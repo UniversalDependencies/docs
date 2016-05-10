@@ -4,58 +4,58 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 61 `DET` lemmas (0%), 119 `DET` types (0%) and 33444 `DET` tokens (15%).
+There are 61 `DET` lemmas (0%), 115 `DET` types (0%) and 34417 `DET` tokens (15%).
 Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 9 in number of types and 3 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>o, um, seu, este, outro, esse, algum, a, todo, muito</em>
+The 10 most frequent `DET` lemmas: <em>o, um, seu, este, a, outro, todo, esse, algum, muito</em>
 
 The 10 most frequent `DET` types:  <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
 
-The 10 most frequent ambiguous lemmas: <em>o</em> ([DET]() 26191, [PRON]() 478, [ADP]() 3, [NOUN]() 1), <em>um</em> ([DET]() 3138, [NUM]() 371, [PRON]() 52, [NOUN]() 1), <em>seu</em> ([DET]() 1079, [PRON]() 8), <em>este</em> ([DET]() 579, [PRON]() 83), <em>outro</em> ([DET]() 266, [PRON]() 85, [ADJ]() 20), <em>esse</em> ([DET]() 262, [PRON]() 31), <em>algum</em> ([DET]() 173, [PRON]() 30, [NOUN]() 1), <em>a</em> ([ADP]() 3569, [PRON]() 319, [DET]() 125, [PROPN]() 1, [ADV]() 1), <em>todo</em> ([DET]() 141, [PRON]() 57, [ADV]() 5, [NOUN]() 4), <em>muito</em> ([ADV]() 191, [DET]() 134, [PRON]() 72, [NOUN]() 3)
+The 10 most frequent ambiguous lemmas: <em>o</em> ([DET]() 26843, [PRON]() 220, [ADP]() 3, [NOUN]() 1), <em>um</em> ([DET]() 3202, [NUM]() 371, [PRON]() 7, [NOUN]() 1), <em>seu</em> ([DET]() 1079, [PRON]() 8), <em>este</em> ([DET]() 579, [PRON]() 83), <em>a</em> ([ADP]() 3676, [DET]() 315, [PRON]() 36, [ADV]() 1, [PROPN]() 1), <em>outro</em> ([DET]() 266, [PRON]() 85, [ADJ]() 20), <em>todo</em> ([DET]() 265, [PRON]() 63, [ADV]() 5, [NOUN]() 2), <em>esse</em> ([DET]() 262, [PRON]() 31), <em>algum</em> ([DET]() 174, [PRON]() 29, [NOUN]() 1), <em>muito</em> ([ADV]() 192, [DET]() 136, [PRON]() 70, [NOUN]() 3)
 
-The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 9674, [PRON]() 357, [NOUN]() 1), <em>a</em> ([DET]() 9132, [ADP]() 3487, [PRON]() 389, [PROPN]() 1, [ADV]() 1), <em>os</em> ([DET]() 3079, [PRON]() 154), <em>as</em> ([DET]() 2119, [PRON]() 54), <em>um</em> ([DET]() 1558, [NUM]() 233, [PRON]() 40), <em>uma</em> ([DET]() 1395, [NUM]() 136, [PRON]() 37), <em>sua</em> ([DET]() 433, [PRON]() 7), <em>seu</em> ([DET]() 352, [PRON]() 6), <em>este</em> ([DET]() 253, [PRON]() 28), <em>esta</em> ([DET]() 189, [PRON]() 17)
+The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 10021, [PRON]() 244, [NOUN]() 1), <em>a</em> ([DET]() 9385, [ADP]() 3577, [PRON]() 98, [PROPN]() 1, [ADV]() 1), <em>os</em> ([DET]() 3231, [PRON]() 70), <em>as</em> ([DET]() 2171, [PRON]() 40), <em>um</em> ([DET]() 1615, [NUM]() 233, [PRON]() 2), <em>uma</em> ([DET]() 1432, [NUM]() 136, [PRON]() 2), <em>sua</em> ([DET]() 433, [PRON]() 7), <em>seu</em> ([DET]() 353, [PRON]() 5), <em>este</em> ([DET]() 254, [PRON]() 27), <em>esta</em> ([DET]() 189, [PRON]() 17)
 
 
 * <em>o</em>
-  * [DET]() 9674: <em>Audiência em a Justiça de <b>o</b> Pará discute diploma</em>
-  * [PRON]() 357: <em>Após várias divergências com Fishel , Antinori <b>o</b> demitiu em 1990 .</em>
+  * [DET]() 10021: <em>Audiência em a Justiça de <b>o</b> Pará discute diploma</em>
+  * [PRON]() 244: <em>Após várias divergências com Fishel , Antinori <b>o</b> demitiu em 1990 .</em>
   * [NOUN]() 1: <em>« Pretendemos definir com <b>o</b> máximo rigor os custos médios de cada estudante , conforme a região onde se encontra , pois actualmente não existem dados concretos sobre o assunto » , esclareceu Miguel Rodrigues , que é também presidente da Associação Académica da Universidade de Aveiro .</em>
 * <em>a</em>
-  * [DET]() 9132: <em>Audiência em <b>a</b> Justiça de o Pará discute diploma</em>
-  * [ADP]() 3487: <em>Dallari orientou os produtores <b>a</b> negociarem com a indústria .</em>
-  * [PRON]() 389: <em>Gosto de levar <b>a</b> sério o meu papel de consultor encartado .</em>
-  * [PROPN]() 1: <em>Agora vou para Nova Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral da ONU ] o_que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar .</em>
-  * [ADV]() 1: <em>não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo_o processo nada tem <b>a</b> ver com Ciência , ao contrário de o que as máquinas de propaganda pretendem fazer crer .</em>
+  * [DET]() 9385: <em>Audiência em <b>a</b> Justiça de o Pará discute diploma</em>
+  * [ADP]() 3577: <em>Dallari orientou os produtores <b>a</b> negociarem com a indústria .</em>
+  * [PRON]() 98: <em>Acabou a « America's Cup » de 1992 , viva <b>a</b> de 1995 .</em>
+  * [PROPN]() 1: <em>Agora vou para Nova Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral da ONU ] o que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar .</em>
+  * [ADV]() 1: <em>não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo o processo nada tem <b>a</b> ver com Ciência , ao contrário de o que as máquinas de propaganda pretendem fazer crer .</em>
 * <em>os</em>
-  * [DET]() 3079: <em>De <b>os</b> fumantes , 18,1 milhões são homens e 12,5 milhões , mulheres .</em>
-  * [PRON]() 154: <em>Não sei em relação a <b>os</b> outros indiciados .</em>
+  * [DET]() 3231: <em>De <b>os</b> fumantes , 18,1 milhões são homens e 12,5 milhões , mulheres .</em>
+  * [PRON]() 70: <em><b>os</b> que escolherem sábado podem começar mais cedo :</em>
 * <em>as</em>
-  * [DET]() 2119: <em>Horário : em o dia 12 , de <b>as</b> 19h a o último cliente</em>
-  * [PRON]() 54: <em>São <b>as</b> que procuraram o cinema fora de o cenário ;</em>
+  * [DET]() 2171: <em>Horário : em o dia 12 , de <b>as</b> 19h a o último cliente</em>
+  * [PRON]() 40: <em>São <b>as</b> que procuraram o cinema fora de o cenário ;</em>
 * <em>um</em>
-  * [DET]() 1558: <em>« Foi <b>um</b> ato muito rigoroso .</em>
+  * [DET]() 1615: <em>« Foi <b>um</b> ato muito rigoroso .</em>
   * [NUM]() 233: <em>Cingapura acusa mais <b>um</b> americano</em>
-  * [PRON]() 40: <em>Por <b>um</b> lado , preenche lacunas históricas ;</em>
+  * [PRON]() 2: <em>mas existe em <b>um</b> outro , porque aí nunca assassinou a sua avó .</em>
 * <em>uma</em>
-  * [DET]() 1395: <em>Não houve acordo para <b>uma</b> trégua durante a Copa .</em>
+  * [DET]() 1432: <em>Não houve acordo para <b>uma</b> trégua durante a Copa .</em>
   * [NUM]() 136: <em>A dinâmica de o « debate » teve apenas <b>uma</b> utilidade :</em>
-  * [PRON]() 37: <em>Já se definiu <b>uma</b> vez como « moço de recados » de Deus .</em>
+  * [PRON]() 2: <em>A maior parte de as cerca de 260 pessoas desalojadas instalou então abrigos improvisados em <b>uma</b> de as ruas de a urbanização .</em>
 * <em>sua</em>
   * [DET]() 433: <em>O shopping West Plaza já começou <b>sua</b> promoção de Dia das Mães .</em>
   * [PRON]() 7: <em>Christian Fittipaldi , por <b>sua</b> vez , negocia com a Tyrrell .</em>
 * <em>seu</em>
-  * [DET]() 352: <em>Um de eles era <b>seu</b> filho , Sérgio Fioravanti .</em>
-  * [PRON]() 6: <em>O « kratos » não é de o povo ; é <b>seu</b> , se tanto , o ouvido , o olhar .</em>
+  * [DET]() 353: <em>Um de eles era <b>seu</b> filho , Sérgio Fioravanti .</em>
+  * [PRON]() 5: <em>O « kratos » não é de o povo ; é <b>seu</b> , se tanto , o ouvido , o olhar .</em>
 * <em>este</em>
-  * [DET]() 253: <em>« Alguma coisa se passa a a volta de <b>este</b> papel .</em>
-  * [PRON]() 28: <em>Mas <b>este</b> não é o cerne de a questão , o cerne de a questão é a Bósnia .</em>
+  * [DET]() 254: <em>« Alguma coisa se passa a a volta de <b>este</b> papel .</em>
+  * [PRON]() 27: <em>Mas <b>este</b> não é o cerne de a questão , o cerne de a questão é a Bósnia .</em>
 * <em>esta</em>
   * [DET]() 189: <em>Todos eles estarão <b>esta</b> noite em Minneapolis .</em>
   * [PRON]() 17: <em>é uma bonita palavra <b>esta</b> , saudade .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.950820 (the average of all parts of speech is 1.447246).
+The form / lemma ratio of `DET` is 1.885246 (the average of all parts of speech is 1.447797).
 
 The 1st highest number of forms (9) was observed with the lemma “meu”: <em>meu, meus, minha, minhas, nossos, seu, seus, sua, suas</em>.
 
@@ -63,34 +63,34 @@ The 2nd highest number of forms (5) was observed with the lemma “muito”: <em
 
 The 3rd highest number of forms (5) was observed with the lemma “o”: <em>a, as, o, o(s), os</em>.
 
-`DET` occurs with 11 features: [pt-feat/Number]() (33439; 100% instances), [pt-feat/PronType]() (32770; 98% instances), [pt-feat/Gender]() (32237; 96% instances), [pt-feat/Definite]() (29459; 88% instances), [pt-feat/Poss]() (1280; 4% instances), [pt-feat/Person]() (1278; 4% instances), [pt-feat/Number[psor]]() (1274; 4% instances), [pt-feat/NumType]() (1133; 3% instances), [pt-feat/Reflex]() (560; 2% instances), [pt-feat/Degree]() (408; 1% instances), [pt-feat/Typo]() (3; 0% instances)
+`DET` occurs with 11 features: [pt-feat/Number]() (34304; 100% instances), [pt-feat/PronType]() (33741; 98% instances), [pt-feat/Gender]() (33092; 96% instances), [pt-feat/Definite]() (30409; 88% instances), [pt-feat/Person]() (1283; 4% instances), [pt-feat/Poss]() (1283; 4% instances), [pt-feat/Number[psor]]() (1276; 4% instances), [pt-feat/NumType]() (1012; 3% instances), [pt-feat/Reflex]() (559; 2% instances), [pt-feat/Degree]() (411; 1% instances), [pt-feat/Typo]() (3; 0% instances)
 
-`DET` occurs with 23 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
+`DET` occurs with 24 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Typo=Yes`
 
-`DET` occurs with 91 feature combinations.
-The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (10667 tokens).
-Examples: <em>o, El, Os, a</em>
+`DET` occurs with 93 feature combinations.
+The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (11043 tokens).
+Examples: <em>o, El, Os, a, um</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 9 different relations: [pt-dep/det]() (33311; 100% instances), [pt-dep/mwe]() (93; 0% instances), [pt-dep/acl]() (14; 0% instances), [pt-dep/nmod]() (13; 0% instances), [pt-dep/cop]() (5; 0% instances), [pt-dep/advmod:emph]() (4; 0% instances), [pt-dep/name]() (2; 0% instances), [pt-dep/mark]() (1; 0% instances), [pt-dep/punct]() (1; 0% instances)
+`DET` nodes are attached to their parents using 20 different relations: [pt-dep/det]() (33690; 98% instances), [pt-dep/mwe]() (240; 1% instances), [pt-dep/nsubj]() (119; 0% instances), [pt-dep/advmod]() (97; 0% instances), [pt-dep/nmod]() (70; 0% instances), [pt-dep/dobj]() (60; 0% instances), [pt-dep/compound]() (51; 0% instances), [pt-dep/mark]() (24; 0% instances), [pt-dep/acl]() (14; 0% instances), [pt-dep/conj]() (9; 0% instances), [pt-dep/root]() (8; 0% instances), [pt-dep/case]() (6; 0% instances), [pt-dep/cop]() (6; 0% instances), [pt-dep/nsubjpass]() (6; 0% instances), [pt-dep/advmod:emph]() (5; 0% instances), [pt-dep/xcomp]() (4; 0% instances), [pt-dep/ccomp]() (3; 0% instances), [pt-dep/appos]() (2; 0% instances), [pt-dep/iobj]() (2; 0% instances), [pt-dep/name]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 5 different parts of speech: [NOUN]() (27808; 83% instances), [PROPN]() (4911; 15% instances), [ADJ]() (573; 2% instances), [PRON]() (126; 0% instances), [DET]() (26; 0% instances)
+Parents of `DET` nodes belong to 13 different parts of speech: [NOUN]() (27980; 81% instances), [PROPN]() (4917; 14% instances), [ADJ]() (608; 2% instances), [VERB]() (443; 1% instances), [PRON]() (173; 1% instances), [ADP]() (83; 0% instances), [ADV]() (75; 0% instances), [NUM]() (70; 0% instances), [DET]() (46; 0% instances), [SYM]() (10; 0% instances), [ROOT]() (8; 0% instances), [CONJ]() (3; 0% instances), [PART]() (1; 0% instances)
 
-33178 (99%) `DET` nodes are leaves.
+33760 (98%) `DET` nodes are leaves.
 
-113 (0%) `DET` nodes have one child.
+329 (1%) `DET` nodes have one child.
 
-93 (0%) `DET` nodes have two children.
+207 (1%) `DET` nodes have two children.
 
-60 (0%) `DET` nodes have three or more children.
+121 (0%) `DET` nodes have three or more children.
 
 The highest child degree of a `DET` node is 9.
 
-Children of `DET` nodes are attached using 22 different relations: [pt-dep/case]() (106; 19% instances), [pt-dep/name]() (98; 18% instances), [pt-dep/nmod]() (95; 17% instances), [pt-dep/punct]() (84; 15% instances), [pt-dep/acl]() (49; 9% instances), [pt-dep/det]() (26; 5% instances), [pt-dep/cop]() (21; 4% instances), [pt-dep/nsubj]() (14; 3% instances), [pt-dep/advmod]() (11; 2% instances), [pt-dep/mwe]() (10; 2% instances), [pt-dep/cc]() (8; 1% instances), [pt-dep/mark]() (8; 1% instances), [pt-dep/nummod]() (6; 1% instances), [pt-dep/amod]() (4; 1% instances), [pt-dep/advcl]() (3; 1% instances), [pt-dep/appos]() (2; 0% instances), [pt-dep/dobj]() (2; 0% instances), [pt-dep/neg]() (2; 0% instances), [pt-dep/advmod:emph]() (1; 0% instances), [pt-dep/ccomp]() (1; 0% instances), [pt-dep/conj]() (1; 0% instances), [pt-dep/dep]() (1; 0% instances)
+Children of `DET` nodes are attached using 24 different relations: [pt-dep/compound]() (260; 21% instances), [pt-dep/case]() (223; 18% instances), [pt-dep/mwe]() (151; 12% instances), [pt-dep/punct]() (122; 10% instances), [pt-dep/nmod]() (117; 10% instances), [pt-dep/acl]() (65; 5% instances), [pt-dep/name]() (44; 4% instances), [pt-dep/advmod]() (36; 3% instances), [pt-dep/det]() (33; 3% instances), [pt-dep/cop]() (31; 3% instances), [pt-dep/nsubj]() (26; 2% instances), [pt-dep/nummod]() (25; 2% instances), [pt-dep/conj]() (23; 2% instances), [pt-dep/cc]() (21; 2% instances), [pt-dep/amod]() (15; 1% instances), [pt-dep/mark]() (10; 1% instances), [pt-dep/advcl]() (5; 0% instances), [pt-dep/appos]() (5; 0% instances), [pt-dep/dobj]() (5; 0% instances), [pt-dep/ccomp]() (3; 0% instances), [pt-dep/dep]() (2; 0% instances), [pt-dep/neg]() (2; 0% instances), [pt-dep/advmod:emph]() (1; 0% instances), [pt-dep/xcomp]() (1; 0% instances)
 
-Children of `DET` nodes belong to 12 different parts of speech: [PROPN]() (114; 21% instances), [ADP]() (111; 20% instances), [PUNCT]() (86; 16% instances), [NOUN]() (76; 14% instances), [VERB]() (69; 12% instances), [ADV]() (34; 6% instances), [DET]() (26; 5% instances), [PRON]() (14; 3% instances), [SCONJ]() (7; 1% instances), [CONJ]() (6; 1% instances), [NUM]() (6; 1% instances), [ADJ]() (4; 1% instances)
+Children of `DET` nodes belong to 14 different parts of speech: [ADP]() (228; 19% instances), [SCONJ]() (220; 18% instances), [NOUN]() (213; 17% instances), [PUNCT]() (122; 10% instances), [VERB]() (97; 8% instances), [PROPN]() (83; 7% instances), [PRON]() (78; 6% instances), [ADV]() (63; 5% instances), [DET]() (46; 4% instances), [NUM]() (26; 2% instances), [CONJ]() (24; 2% instances), [ADJ]() (20; 2% instances), [PART]() (5; 0% instances), [SYM]() (1; 0% instances)
 
 
 
@@ -107,15 +107,15 @@ The 10 most frequent `DET` types:  <em>o, a, os, um, uma, as, sua, seu, seus, ca
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 57316, [ADP]() 51928, [PUNCT]() 42033, [PROPN]() 32948, [VERB]() 29700, [DET]() 26122, [ADJ]() 15107, [CONJ]() 10984, [ADV]() 9773, [NUM]() 8491, [PRON]() 7392, [AUX]() 5242, [PART]() 748, [X]() 539)
 
-The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 6544, [PRON]() 226, [ADP]() 1, [PROPN]() 1, [X]() 1), <em>a</em> ([DET]() 5338, [ADP]() 1658, [PRON]() 64, [VERB]() 5, [X]() 2, [CONJ]() 1, [PROPN]() 1), <em>os</em> ([DET]() 1765, [PRON]() 36, [PROPN]() 1, [X]() 1), <em>um</em> ([DET]() 1704, [PRON]() 176, [NUM]() 121, [NOUN]() 1), <em>uma</em> ([DET]() 1631, [NUM]() 89, [PRON]() 87), <em>as</em> ([DET]() 1097, [PRON]() 15, [ADP]() 13), <em>sua</em> ([DET]() 516, [PRON]() 2), <em>seu</em> ([DET]() 423, [PRON]() 1), <em>cada</em> ([DET]() 135, [PRON]() 2), <em>outros</em> ([DET]() 116, [PRON]() 40)
+The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 6544, [PRON]() 226, [X]() 1, [PROPN]() 1, [ADP]() 1), <em>a</em> ([DET]() 5338, [ADP]() 1658, [PRON]() 64, [VERB]() 5, [X]() 2, [CONJ]() 1, [PROPN]() 1), <em>os</em> ([DET]() 1765, [PRON]() 36, [PROPN]() 1, [X]() 1), <em>um</em> ([DET]() 1704, [PRON]() 176, [NUM]() 121, [NOUN]() 1), <em>uma</em> ([DET]() 1631, [NUM]() 89, [PRON]() 87), <em>as</em> ([DET]() 1097, [PRON]() 15, [ADP]() 13), <em>sua</em> ([DET]() 516, [PRON]() 2), <em>seu</em> ([DET]() 423, [PRON]() 1), <em>cada</em> ([DET]() 135, [PRON]() 2), <em>outros</em> ([DET]() 116, [PRON]() 40)
 
 
 * <em>o</em>
   * [DET]() 6544: <em>Na máxima do dia , <b>o</b> papel alcançou uma valorização de até 5,7 % .</em>
   * [PRON]() 226: <em>Dois anos depois , ele foi preso -- e eu nunca <b>o</b> vi novamente .</em>
-  * [ADP]() 1: <em>Como mostra minha defesa , as reuniões na Casa Civil com representantes de bancos e empresários são compatíveis com a função de ministro e em momento algum , como atestam os testemunhos , foram <b>o</b> fórum para discutir empréstimos .</em>
-  * [PROPN]() 1: <em>No entanto , em conjunto com a Paróquia de Aver - <b>o</b> - Mar , a paróquia encontra - se a esboçar uma igreja interparoquial de grandes dimensões , dado que a construção em altura domina o Agro - Velho .</em>
   * [X]() 1: <em>Aproveita ai muito os ultimos dias e vamos com certeza tomar variasss \ <b>o</b> / 2 semanas atrás</em>
+  * [PROPN]() 1: <em>No entanto , em conjunto com a Paróquia de Aver - <b>o</b> - Mar , a paróquia encontra - se a esboçar uma igreja interparoquial de grandes dimensões , dado que a construção em altura domina o Agro - Velho .</em>
+  * [ADP]() 1: <em>Como mostra minha defesa , as reuniões na Casa Civil com representantes de bancos e empresários são compatíveis com a função de ministro e em momento algum , como atestam os testemunhos , foram <b>o</b> fórum para discutir empréstimos .</em>
 * <em>a</em>
   * [DET]() 5338: <em>Ver também <b>a</b> lista de entidades que tenham emitido selos postais .</em>
   * [ADP]() 1658: <em>Sob a camisa , a barriga começava <b>a</b> despontar .</em>

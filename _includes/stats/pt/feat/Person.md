@@ -8,10 +8,10 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 Some words have combined values of the feature; 1 combinations have been observed: `1|3`.
 
-20191 tokens (9%) have a non-empty value of `Person`.
+20205 tokens (9%) have a non-empty value of `Person`.
 4600 types (18%) occur at least once with a non-empty value of `Person`.
-1344 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: [pt-pos/VERB]() (15821; 7% instances), [pt-pos/PRON]() (2738; 1% instances), [pt-pos/DET]() (1278; 1% instances), [pt-pos/AUX]() (353; 0% instances), [pt-pos/INTJ]() (1; 0% instances).
+1347 lemmas (7%) occur at least once with a non-empty value of `Person`.
+The feature is used with 5 part-of-speech tags: [pt-pos/VERB]() (15821; 7% instances), [pt-pos/PRON]() (2747; 1% instances), [pt-pos/DET]() (1283; 1% instances), [pt-pos/AUX]() (353; 0% instances), [pt-pos/INTJ]() (1; 0% instances).
 
 ### `VERB`
 
@@ -58,16 +58,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-2738 [pt-pos/PRON]() tokens (36% of all `PRON` tokens) have a non-empty value of `Person`.
+2747 [pt-pos/PRON]() tokens (41% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2733; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1958; 72%), <tt><a href="Case.html">Case</a>=Acc</tt> (1891; 69%), <tt><a href="Number.html">Number</a>=Sing</tt> (1738; 63%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1469; 54%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2742; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1966; 72%), <tt><a href="Case.html">Case</a>=Acc</tt> (1891; 69%), <tt><a href="Number.html">Number</a>=Sing</tt> (1746; 64%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1470; 54%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (320; 12% of non-empty `Person`): <em>eu, me, nos, nós, mim, meus, nos*, nossos, me-, meu</em>
+* `1` (322; 12% of non-empty `Person`): <em>eu, me, nos, nós, mim, meu, meus, nos*, nossos, me-</em>
 * `2` (9; 0% of non-empty `Person`): <em>te, ti, vos, vós</em>
-* `3` (2409; 88% of non-empty `Person`): <em>se, ele, lhe, o, eles, ela, a, elas, você, lo</em>
-* `EMPTY` (4890): <em>que, a, o, o_que, isso, quem, os, tudo, de, nada</em>
+* `3` (2416; 88% of non-empty `Person`): <em>se, ele, lhe, o, eles, ela, a, elas, você, lo</em>
+* `EMPTY` (3950): <em>que, isso, quem, o, tudo, nada, isto, qual, a, os</em>
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -89,20 +89,20 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>nós</em></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `PRON`. 94% lemmas (16) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 95% lemmas (18) occur only with one value of `Person`.
 
 ### `DET`
 
-1278 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
+1283 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1278; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1278; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (936; 73%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (645; 50%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1283; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1283; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (942; 73%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (645; 50%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (179; 14% of non-empty `Person`): <em>meu, nosso, nossa, minha, nossos, nossas, minhas, meus</em>
+* `1` (181; 14% of non-empty `Person`): <em>meu, nossa, nosso, minha, nossos, nossas, minhas, meus</em>
 * `2` (8; 1% of non-empty `Person`): <em>vossa, teu, vosso, seu</em>
-* `3` (1091; 85% of non-empty `Person`): <em>sua, seu, seus, suas</em>
-* `EMPTY` (32166): <em>o, a, os, as, um, uma, este, esta, esse, qualquer</em>
+* `3` (1094; 85% of non-empty `Person`): <em>sua, seu, seus, suas</em>
+* `EMPTY` (33134): <em>o, a, os, as, um, uma, este, esta, esse, todos</em>
 
 <table>
   <tr><th>Paradigm <i>seu</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -110,6 +110,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><em>seu</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td><em>seu</em></td><td><em>seu</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><em>seu</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>seu</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><em>seu</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><em>seus</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><em>seus</em></td></tr>
@@ -162,17 +163,18 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 `INTJ` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>viu</em>
-* `EMPTY` (45): <em>não, Rarará, Deus, é, Adeus, Ah, Ai, Alô, BINGO, Droga</em>
+* `EMPTY` (44): <em>não, Rarará, Deus, é, Adeus, Ah, Ai, Alô, BINGO, Droga</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1016; 84%),
-<tt>VERB --[<a href="../dep/iobj.html">iobj</a>]--> PRON</tt> (225; 64%),
-<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (24; 67%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (906; 77%),
+<tt>VERB --[<a href="../dep/iobj.html">iobj</a>]--> PRON</tt> (241; 64%),
+<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (21; 60%),
 <tt>VERB --[<a href="../dep/auxpass:reflex.html">auxpass:reflex</a>]--> PRON</tt> (21; 78%),
-<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (17; 85%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (17; 59%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (4; 67%),
-<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (3; 60%).
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (18; 60%),
+<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (17; 89%),
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (4; 80%),
+<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (3; 60%),
+<tt>DET --[<a href="../dep/compound.html">compound</a>]--> PRON</tt> (1; 100%).
 

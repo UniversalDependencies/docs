@@ -8,10 +8,10 @@ This relation is universal.
 
 5575 nodes (4%) are attached to their parents as `conj`.
 
-5574 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.0362331838565.
+5573 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.01668161434978.
 
-The following 44 pairs of parts of speech are connected with `conj`: [bg-pos/NOUN]()-[bg-pos/NOUN]() (2195; 39% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (2020; 36% instances), [bg-pos/PROPN]()-[bg-pos/PROPN]() (588; 11% instances), [bg-pos/ADJ]()-[bg-pos/ADJ]() (352; 6% instances), [bg-pos/PROPN]()-[bg-pos/NOUN]() (92; 2% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (60; 1% instances), [bg-pos/NOUN]()-[bg-pos/PROPN]() (41; 1% instances), [bg-pos/NUM]()-[bg-pos/NUM]() (39; 1% instances), [bg-pos/ADJ]()-[bg-pos/NOUN]() (25; 0% instances), [bg-pos/ADV]()-[bg-pos/NOUN]() (19; 0% instances), [bg-pos/PRON]()-[bg-pos/NOUN]() (16; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADJ]() (15; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (13; 0% instances), [bg-pos/PROPN]()-[bg-pos/ADJ]() (10; 0% instances), [bg-pos/NOUN]()-[bg-pos/VERB]() (9; 0% instances), [bg-pos/NUM]()-[bg-pos/ADJ]() (9; 0% instances), [bg-pos/DET]()-[bg-pos/ADJ]() (7; 0% instances), [bg-pos/NOUN]()-[bg-pos/DET]() (6; 0% instances), [bg-pos/PRON]()-[bg-pos/PRON]() (6; 0% instances), [bg-pos/ADP]()-[bg-pos/ADP]() (5; 0% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (5; 0% instances), [bg-pos/INTJ]()-[bg-pos/INTJ]() (4; 0% instances), [bg-pos/ADJ]()-[bg-pos/PROPN]() (3; 0% instances), [bg-pos/ADV]()-[bg-pos/ADJ]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/NUM]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (3; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/VERB]() (2; 0% instances), [bg-pos/CONJ]()-[bg-pos/VERB]() (2; 0% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (2; 0% instances), [bg-pos/PROPN]()-[bg-pos/PRON]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADP]() (1; 0% instances), [bg-pos/ADJ]()-[bg-pos/DET]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/DET]()-[bg-pos/DET]() (1; 0% instances), [bg-pos/DET]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/NUM]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/PRON]()-[bg-pos/ADV]() (1; 0% instances), [bg-pos/PRON]()-[bg-pos/DET]() (1; 0% instances), [bg-pos/PROPN]()-[bg-pos/DET]() (1; 0% instances).
+The following 51 pairs of parts of speech are connected with `conj`: [bg-pos/NOUN]()-[bg-pos/NOUN]() (2217; 40% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (1740; 31% instances), [bg-pos/PROPN]()-[bg-pos/PROPN]() (588; 11% instances), [bg-pos/ADJ]()-[bg-pos/ADJ]() (358; 6% instances), [bg-pos/PROPN]()-[bg-pos/NOUN]() (92; 2% instances), [bg-pos/NOUN]()-[bg-pos/VERB]() (82; 1% instances), [bg-pos/ADJ]()-[bg-pos/VERB]() (61; 1% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (61; 1% instances), [bg-pos/NOUN]()-[bg-pos/PROPN]() (41; 1% instances), [bg-pos/NUM]()-[bg-pos/NUM]() (39; 1% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (33; 1% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (31; 1% instances), [bg-pos/ADJ]()-[bg-pos/NOUN]() (29; 1% instances), [bg-pos/ADV]()-[bg-pos/NOUN]() (22; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADJ]() (21; 0% instances), [bg-pos/ADV]()-[bg-pos/VERB]() (17; 0% instances), [bg-pos/PRON]()-[bg-pos/NOUN]() (16; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (15; 0% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (15; 0% instances), [bg-pos/PROPN]()-[bg-pos/ADJ]() (10; 0% instances), [bg-pos/NUM]()-[bg-pos/ADJ]() (9; 0% instances), [bg-pos/DET]()-[bg-pos/ADJ]() (7; 0% instances), [bg-pos/NOUN]()-[bg-pos/DET]() (6; 0% instances), [bg-pos/PRON]()-[bg-pos/PRON]() (6; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (5; 0% instances), [bg-pos/ADP]()-[bg-pos/ADP]() (5; 0% instances), [bg-pos/ADV]()-[bg-pos/ADJ]() (5; 0% instances), [bg-pos/INTJ]()-[bg-pos/INTJ]() (4; 0% instances), [bg-pos/PROPN]()-[bg-pos/VERB]() (4; 0% instances), [bg-pos/ADJ]()-[bg-pos/PROPN]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/NUM]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (3; 0% instances), [bg-pos/PRON]()-[bg-pos/VERB]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (3; 0% instances), [bg-pos/CONJ]()-[bg-pos/VERB]() (2; 0% instances), [bg-pos/PROPN]()-[bg-pos/PRON]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADP]() (1; 0% instances), [bg-pos/ADJ]()-[bg-pos/DET]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/PROPN]() (1; 0% instances), [bg-pos/DET]()-[bg-pos/DET]() (1; 0% instances), [bg-pos/DET]()-[bg-pos/NOUN]() (1; 0% instances), [bg-pos/NUM]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/PRON]()-[bg-pos/ADV]() (1; 0% instances), [bg-pos/PRON]()-[bg-pos/DET]() (1; 0% instances), [bg-pos/PROPN]()-[bg-pos/DET]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/DET]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,16 +60,16 @@ The following 44 pairs of parts of speech are connected with `conj`: [bg-pos/NOU
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 conj	color:blue
-1	-	-	PUNCT	punct	_	4	punct	_	_
+1	-	-	PUNCT	punct	_	3	punct	_	_
 2	Най-интересната	интересен	ADJ	Afsd	Definite=Def|Degree=Sup|Gender=Fem|Number=Sing	3	amod	_	_
-3	двойка	двойка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	4	cop	_	_
-4	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	ЦСКА	цска	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	двойка	двойка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+4	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	ЦСКА	цска	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	_
 6	-	-	PUNCT	punct	_	5	punct	_	_
 7	"	"	PUNCT	punct	_	8	punct	_	_
 8	Нефтохимик	нефтохимик	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	5	conj	_	_
 9	"	"	PUNCT	punct	_	8	punct	_	_
-10	.	.	PUNCT	punct	_	4	punct	_	_
+10	.	.	PUNCT	punct	_	3	punct	_	_
 
 ~~~
 

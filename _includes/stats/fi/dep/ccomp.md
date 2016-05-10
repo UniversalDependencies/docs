@@ -79,48 +79,46 @@ The following 30 pairs of parts of speech are connected with `ccomp`: [fi-pos/VE
 
 This relation is universal.
 
-2530 nodes (2%) are attached to their parents as `ccomp`.
+1788 nodes (1%) are attached to their parents as `ccomp`.
 
-2248 instances of `ccomp` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.70513833992095.
+1517 instances of `ccomp` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.64485458612975.
 
-The following 12 pairs of parts of speech are connected with `ccomp`: [fi-pos/VERB]()-[fi-pos/VERB]() (2252; 89% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (119; 5% instances), [fi-pos/VERB]()-[fi-pos/NOUN]() (116; 5% instances), [fi-pos/VERB]()-[fi-pos/PRON]() (25; 1% instances), [fi-pos/NOUN]()-[fi-pos/VERB]() (6; 0% instances), [fi-pos/VERB]()-[fi-pos/ADV]() (3; 0% instances), [fi-pos/VERB]()-[fi-pos/PROPN]() (3; 0% instances), [fi-pos/PROPN]()-[fi-pos/VERB]() (2; 0% instances), [fi-pos/NOUN]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/PUNCT]()-[fi-pos/VERB]() (1; 0% instances), [fi-pos/VERB]()-[fi-pos/INTJ]() (1; 0% instances), [fi-pos/VERB]()-[fi-pos/NUM]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 8 ccomp	color:blue
-1	Saulista	sauli	PROPN	N,Prop,Sg,Ela	Case=Ela|Number=Sing	2	nmod	_	_
-2	huomattiin	huomata	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|Voice=Pass	0	root	_	_
-3	jo	jo	ADV	Pcle	_	4	advmod	_	_
-4	lapsena	lapsi	NOUN	N,Sg,Ess	Case=Ess|Number=Sing	2	nmod	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	_
-6	että	että	SCONJ	Pcle,CS	_	8	mark	_	_
-7	hänellä	hän	PRON	Pron,Pers,Sg3,Ade	Case=Ade|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-8	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	ccomp	_	_
-9	lahjoja	lahja	NOUN	N,Pl,Par	Case=Par|Number=Plur	8	dobj	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
-
-~~~
+The following 12 pairs of parts of speech are connected with `ccomp`: [fi-pos/VERB]()-[fi-pos/VERB]() (1532; 86% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (114; 6% instances), [fi-pos/VERB]()-[fi-pos/NOUN]() (103; 6% instances), [fi-pos/VERB]()-[fi-pos/PRON]() (24; 1% instances), [fi-pos/NOUN]()-[fi-pos/VERB]() (5; 0% instances), [fi-pos/VERB]()-[fi-pos/X]() (3; 0% instances), [fi-pos/VERB]()-[fi-pos/PROPN]() (2; 0% instances), [fi-pos/NOUN]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/PROPN]()-[fi-pos/VERB]() (1; 0% instances), [fi-pos/VERB]()-[fi-pos/ADV]() (1; 0% instances), [fi-pos/VERB]()-[fi-pos/INTJ]() (1; 0% instances), [fi-pos/VERB]()-[fi-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 ccomp	color:blue
-1	Silloin	silloin	ADV	Adv,Dem	PronType=Dem	2	advmod	_	_
-2	ajattelin	ajatella	VERB	V,Act,Ind,Past,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	_
-3	,	,	PUNCT	Pun	_	2	punct	_	_
-4	että	että	SCONJ	Pcle,CS	_	5	mark	_	_
-5	tällaistako	tällainen	ADJ	A,Dem,Sg,Par,Ko	Case=Par|Clitic=Ko|Number=Sing|PronType=Dem	2	ccomp	_	_
-6	tämä	tämä	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	5	nsubj	_	_
-7	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	cop	_	_
-8	.	.	PUNCT	Pun	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 ccomp	color:blue
+1	Aku	aku	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	2	nsubj	_	_
+2	meni	mennä	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	katsomaan	katsoa	VERB	V,Act,InfMa,Ill	Case=Ill|InfForm=3|VerbForm=Inf|Voice=Act	2	xcomp	_	Alt=xcomp
+4	ketä	kuka	PRON	Pron,Interr,Sg,Nom	Case=Nom|Number=Sing|PronType=Int|Style=Coll	5	nsubj	_	_
+5	piti	pitää	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+6	ääntä	ääni	NOUN	N,Sg,Par	Case=Par|Number=Sing	5	dobj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 ccomp	color:blue
+1	ei	ei	VERB	V,Neg,Act,Sg3	Negative=Neg|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	neg	_	_
+2	voi	voida	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	ajatellakhaa	ajatella	VERB	V,Act,InfA,Lat,Kaan	Case=Lat|Clitic=Kaan|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	0	root	_	_
+4	varhmaan	varmaan	PART	Pcle	Style=Coll	3	advmod	_	_
+5	että	että	SCONJ	Pcle,CS	_	9	mark	_	_
+6	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	9	nsubj:cop	_	_
+7	ikinä	ikinä	ADV	Adv	_	9	advmod	_	_
+8	olis	olla	VERB	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|Style=Coll|VerbForm=Fin|Voice=Act	9	cop	_	_
+9	vakinaisia	vakinainen	ADJ	A,Pl,Par	Case=Par|Number=Plur	3	ccomp	_	_
+10	.	.	PUNCT	Pun	_	9	punct	_	_
 
 ~~~
 
@@ -128,17 +126,20 @@ The following 12 pairs of parts of speech are connected with `ccomp`: [fi-pos/VE
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 ccomp	color:blue
-1	Tämän	tämä	PRON	Pron,Dem,Sg,Gen	Case=Gen|Number=Sing|PronType=Dem	4	nsubj	_	_
-2	täytyy	täytyä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	aux	_	_
-3	olla	olla	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	4	cop	_	_
-4	työtapaturma	työtapaturma	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	7	ccomp	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	_
-6	hän	hän	PRON	Pron,Pers,Sg3,Nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-7	harmitteli	harmitella	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-8	.	.	PUNCT	Pun	_	7	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 4 ccomp	color:blue
+1	Se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	7	expl	_	Alt=7_expl|Missed-Rel=phrm
+2	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	oma	oma	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	4	amod	_	_
+4	vika	vika	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	10	ccomp	_	_
+5	jos	jos	SCONJ	Pcle,CS	_	7	mark	_	_
+6	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	yksinäinen	yksinäinen	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	4	csubj:cop	_	_
+8	,	,	PUNCT	Pun	_	7	punct	_	_
+9	hän	hän	PRON	Pron,Pers,Sg3,Nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	sanoo	sanoa	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	.	.	PUNCT	Pun	_	10	punct	_	_
 
 ~~~
 

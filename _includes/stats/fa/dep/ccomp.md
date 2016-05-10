@@ -9,9 +9,9 @@ This relation is universal.
 4112 nodes (3%) are attached to their parents as `ccomp`.
 
 4102 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.733219844358.
+Average distance between parent and child is 10.7346789883268.
 
-The following 36 pairs of parts of speech are connected with `ccomp`: [fa-pos/VERB]()-[fa-pos/VERB]() (1938; 47% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (485; 12% instances), [fa-pos/VERB]()-[fa-pos/ADJ]() (448; 11% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (361; 9% instances), [fa-pos/ADJ]()-[fa-pos/VERB]() (311; 8% instances), [fa-pos/PRON]()-[fa-pos/VERB]() (87; 2% instances), [fa-pos/ADJ]()-[fa-pos/NOUN]() (81; 2% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (81; 2% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (77; 2% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (73; 2% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (33; 1% instances), [fa-pos/VERB]()-[fa-pos/PRON]() (22; 1% instances), [fa-pos/PRON]()-[fa-pos/ADJ]() (19; 0% instances), [fa-pos/ADV]()-[fa-pos/VERB]() (17; 0% instances), [fa-pos/VERB]()-[fa-pos/X]() (17; 0% instances), [fa-pos/PRON]()-[fa-pos/NOUN]() (14; 0% instances), [fa-pos/ADJ]()-[fa-pos/PRON]() (6; 0% instances), [fa-pos/NOUN]()-[fa-pos/PRON]() (5; 0% instances), [fa-pos/NUM]()-[fa-pos/VERB]() (5; 0% instances), [fa-pos/VERB]()-[fa-pos/NUM]() (5; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADV]() (3; 0% instances), [fa-pos/ADV]()-[fa-pos/ADJ]() (3; 0% instances), [fa-pos/NUM]()-[fa-pos/NOUN]() (3; 0% instances), [fa-pos/ADV]()-[fa-pos/NOUN]() (2; 0% instances), [fa-pos/DET]()-[fa-pos/VERB]() (2; 0% instances), [fa-pos/NOUN]()-[fa-pos/X]() (2; 0% instances), [fa-pos/NUM]()-[fa-pos/ADJ]() (2; 0% instances), [fa-pos/PRON]()-[fa-pos/NUM]() (2; 0% instances), [fa-pos/AUX]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/AUX]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/PART]() (1; 0% instances), [fa-pos/PRON]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/AUX]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/INTJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/SCONJ]() (1; 0% instances).
+The following 35 pairs of parts of speech are connected with `ccomp`: [fa-pos/VERB]()-[fa-pos/VERB]() (1938; 47% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (486; 12% instances), [fa-pos/VERB]()-[fa-pos/ADJ]() (448; 11% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (361; 9% instances), [fa-pos/ADJ]()-[fa-pos/VERB]() (312; 8% instances), [fa-pos/PRON]()-[fa-pos/VERB]() (88; 2% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (82; 2% instances), [fa-pos/ADJ]()-[fa-pos/NOUN]() (81; 2% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (77; 2% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (73; 2% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (32; 1% instances), [fa-pos/VERB]()-[fa-pos/PRON]() (22; 1% instances), [fa-pos/PRON]()-[fa-pos/ADJ]() (19; 0% instances), [fa-pos/VERB]()-[fa-pos/X]() (17; 0% instances), [fa-pos/ADV]()-[fa-pos/VERB]() (16; 0% instances), [fa-pos/PRON]()-[fa-pos/NOUN]() (14; 0% instances), [fa-pos/ADJ]()-[fa-pos/PRON]() (6; 0% instances), [fa-pos/NOUN]()-[fa-pos/PRON]() (5; 0% instances), [fa-pos/NUM]()-[fa-pos/VERB]() (5; 0% instances), [fa-pos/VERB]()-[fa-pos/NUM]() (5; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADV]() (3; 0% instances), [fa-pos/ADV]()-[fa-pos/ADJ]() (3; 0% instances), [fa-pos/NUM]()-[fa-pos/NOUN]() (3; 0% instances), [fa-pos/ADV]()-[fa-pos/NOUN]() (2; 0% instances), [fa-pos/NOUN]()-[fa-pos/X]() (2; 0% instances), [fa-pos/NUM]()-[fa-pos/ADJ]() (2; 0% instances), [fa-pos/PRON]()-[fa-pos/NUM]() (2; 0% instances), [fa-pos/AUX]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/AUX]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/DET]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/PART]() (1; 0% instances), [fa-pos/PRON]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/AUX]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/INTJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,9 +62,9 @@ The following 36 pairs of parts of speech are connected with `ccomp`: [fa-pos/VE
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 ccomp	color:blue
-1	در	_	ADP	P	_	3	case	_	_
-2	مورد	_	ADP	P	_	1	mwe	_	_
-3	عبدالله‌بن‌زبیر	_	NOUN	N_SING	Number=Sing	5	nmod	_	_
+1	در	_	ADP	P	_	2	case	_	_
+2	مورد	_	NOUN	N_SING	Number=Sing	5	nmod	_	_
+3	عبدالله‌بن‌زبیر	_	NOUN	N_SING	Number=Sing	2	nmod:poss	_	_
 4	سفارش	_	NOUN	N_SING	Number=Sing	5	compound:lvc	_	_
 5	می‌کند	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 6	که	_	SCONJ	CON	_	8	mark	_	_

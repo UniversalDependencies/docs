@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-315 nodes (0%) are attached to their parents as `csubj`.
+307 nodes (0%) are attached to their parents as `csubj`.
 
-254 instances of `csubj` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.94285714285714.
+248 instances of `csubj` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.90879478827362.
 
-The following 13 pairs of parts of speech are connected with `csubj`: [it-pos/ADJ]()-[it-pos/VERB]() (126; 40% instances), [it-pos/VERB]()-[it-pos/VERB]() (114; 36% instances), [it-pos/NOUN]()-[it-pos/VERB]() (39; 12% instances), [it-pos/ADV]()-[it-pos/VERB]() (12; 4% instances), [it-pos/VERB]()-[it-pos/ADJ]() (5; 2% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (4; 1% instances), [it-pos/VERB]()-[it-pos/NOUN]() (4; 1% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (3; 1% instances), [it-pos/ADJ]()-[it-pos/ADJ]() (2; 1% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (2; 1% instances), [it-pos/PRON]()-[it-pos/VERB]() (2; 1% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/AUX]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `csubj`: [it-pos/ADJ]()-[it-pos/VERB]() (126; 41% instances), [it-pos/VERB]()-[it-pos/VERB]() (110; 36% instances), [it-pos/NOUN]()-[it-pos/VERB]() (37; 12% instances), [it-pos/ADV]()-[it-pos/VERB]() (12; 4% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (4; 1% instances), [it-pos/VERB]()-[it-pos/ADJ]() (4; 1% instances), [it-pos/VERB]()-[it-pos/NOUN]() (4; 1% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (3; 1% instances), [it-pos/ADJ]()-[it-pos/ADJ]() (2; 1% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (2; 1% instances), [it-pos/PRON]()-[it-pos/VERB]() (2; 1% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu

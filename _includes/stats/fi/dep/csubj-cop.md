@@ -70,3 +70,78 @@ The following 8 pairs of parts of speech are connected with `csubj:cop`: [fi-pos
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Finnish-FTB)
+
+This relation is a language-specific subtype of [csubj]().
+
+231 nodes (0%) are attached to their parents as `csubj:cop`.
+
+198 instances of `csubj:cop` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.23809523809524.
+
+The following 15 pairs of parts of speech are connected with `csubj:cop`: [fi-pos/ADJ]()-[fi-pos/VERB]() (144; 62% instances), [fi-pos/NOUN]()-[fi-pos/VERB]() (58; 25% instances), [fi-pos/NOUN]()-[fi-pos/ADJ]() (6; 3% instances), [fi-pos/ADJ]()-[fi-pos/NOUN]() (5; 2% instances), [fi-pos/PRON]()-[fi-pos/VERB]() (4; 2% instances), [fi-pos/ADJ]()-[fi-pos/ADJ]() (3; 1% instances), [fi-pos/VERB]()-[fi-pos/VERB]() (3; 1% instances), [fi-pos/ADJ]()-[fi-pos/PRON]() (1; 0% instances), [fi-pos/ADJ]()-[fi-pos/PROPN]() (1; 0% instances), [fi-pos/ADJ]()-[fi-pos/X]() (1; 0% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/PROPN]()-[fi-pos/VERB]() (1; 0% instances), [fi-pos/VERB]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/X]()-[fi-pos/VERB]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 8 csubj:cop	color:blue
+1	Lopulta	lopulta	ADV	Adv	_	2	advmod	_	_
+2	olennaista	olennainen	ADJ	A,Sg,Par	Case=Par|Number=Sing	0	root	_	_
+3	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	enää	enää	PART	Pcle	_	2	advmod	_	_
+5	se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	8	expl	_	Alt=8_expl|Missed-Rel=phrm
+6	mitä	mikä	PRON	Pron,Rel,Par	Case=Par|PronType=Rel	8	dobj	_	_
+7	ex-professori	ex-professori	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	8	nsubj	_	_
+8	haluaa	haluta	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj:cop	_	_
+9	.	.	PUNCT	Pun	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 csubj:cop	color:blue
+1	Se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	8	expl	_	Alt=8_expl|Missed-Rel=phrm
+2	oli	olla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	paska	paska	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	4	amod	_	_
+4	homma	homma	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
+5	,	,	PUNCT	Pun	_	4	punct	_	_
+6	että	että	SCONJ	Pcle,CS	_	8	mark	_	_
+7	Jyrki	jyrki	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	8	nsubj	_	_
+8	loppu	loppua	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	csubj:cop	_	_
+9	.	.	PUNCT	Pun	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 csubj:cop	color:blue
+1	Se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	7	expl	_	Alt=7_expl|Missed-Rel=phrm
+2	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	oma	oma	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	4	amod	_	_
+4	vika	vika	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	10	ccomp	_	_
+5	jos	jos	SCONJ	Pcle,CS	_	7	mark	_	_
+6	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	yksinäinen	yksinäinen	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	4	csubj:cop	_	_
+8	,	,	PUNCT	Pun	_	7	punct	_	_
+9	hän	hän	PRON	Pron,Pers,Sg3,Nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	sanoo	sanoa	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	.	.	PUNCT	Pun	_	10	punct	_	_
+
+~~~
+
+

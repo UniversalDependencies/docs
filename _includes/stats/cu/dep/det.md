@@ -60,31 +60,19 @@ The following 6 pairs of parts of speech are connected with `det`: [cu-pos/VERB]
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 det	color:blue
-1	ꙇ	и	CONJ	C-	_	2	cc	_	_
-2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	народоу	народъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	_
-4	възлешти	възлещи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	_
-5	на	на	ADP	R-	_	6	case	_	_
-6	земи	землꙗ	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	iobj	_	_
-7	ꙇ	и	CONJ	C-	_	2	cc	_	_
-8	приемъ	приѩти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	14	advcl	_	_
-9	седмь	седмь	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	8	dobj	_	_
-10	тѫ	тъ	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
-11	хлѣбъ	хлѣбъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
-12	хвалѫ	хвала	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	dobj	_	_
-13	въздавъ	въздати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	conj	_	_
-14	прѣломи	прѣломити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
-15	ꙇ	и	CONJ	C-	_	2	cc	_	_
-16	даѣше	даꙗти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
-17	оученикомъ	оученикъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	16	iobj	_	_
-18	своимъ	свои	PRON	Pt	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	17	nmod	_	_
-19	да	да	SCONJ	G-	_	20	mark	_	_
-20	прѣдълагаѭтъ	прѣдълагати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 det	color:blue
+1	ꙇ҃с	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	же	же	ADV	Df	_	3	discourse	_	_
+3	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+5	еже	иже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	6	det	_	_
+6	аште	аще	SCONJ	G-	_	7	mark	_	_
+7	можеши	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	вѣровати	вѣровати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	_
 
 ~~~
 

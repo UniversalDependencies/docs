@@ -16,7 +16,7 @@ The feature is used with 5 part-of-speech tags: [ta-pos/VERB]() (405; 4% instanc
 
 405 [ta-pos/VERB]() tokens (35% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (405; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (404; 100%), <tt><a href="Person.html">Person</a>=3</tt> (385; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (333; 82%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (274; 68%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (274; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (274; 68%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (263; 65%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (241; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (405; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (404; 100%), <tt><a href="Person.html">Person</a>=3</tt> (385; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (333; 82%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (274; 68%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (274; 68%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (274; 68%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (263; 65%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (241; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 

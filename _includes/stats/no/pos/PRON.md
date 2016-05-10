@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>det</em> ([PRON]() 3781, [DET]() 931,
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.350000 (the average of all parts of speech is 1.382585).
+The form / lemma ratio of `PRON` is 1.350000 (the average of all parts of speech is 1.382722).
 
 The 1st highest number of forms (5) was observed with the lemma “jeg”: <em>Eg, jeg, meg, mig, mæ</em>.
 
@@ -63,18 +63,18 @@ The 2nd highest number of forms (3) was observed with the lemma “de”: <em>de
 
 The 3rd highest number of forms (3) was observed with the lemma “det”: <em>det, dét, et</em>.
 
-`PRON` occurs with 8 features: [no-feat/PronType]() (19261; 81% instances), [no-feat/Number]() (18821; 79% instances), [no-feat/Person]() (18148; 76% instances), [no-feat/Case]() (12386; 52% instances), [no-feat/Gender]() (10250; 43% instances), [no-feat/Animacy]() (9745; 41% instances), [no-feat/Reflex]() (1231; 5% instances), [no-feat/Poss]() (4; 0% instances)
+`PRON` occurs with 8 features: [no-feat/PronType]() (23860; 100% instances), [no-feat/Number]() (18821; 79% instances), [no-feat/Person]() (18148; 76% instances), [no-feat/Case]() (12386; 52% instances), [no-feat/Gender]() (10250; 43% instances), [no-feat/Animacy]() (9745; 41% instances), [no-feat/Reflex]() (1231; 5% instances), [no-feat/Poss]() (4; 0% instances)
 
-`PRON` occurs with 19 feature-value pairs: `Animacy=Anim`, `Case=Acc`, `Case=Gen`, `Case=Gen,Nom`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `Reflex=Yes`
+`PRON` occurs with 25 feature-value pairs: `Animacy=Anim`, `Case=Acc`, `Case=Gen`, `Case=Gen,Nom`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art,Prs`, `PronType=Ind,Prs`, `PronType=Int`, `PronType=Neg`, `PronType=Neg,Prs`, `PronType=Prs`, `PronType=Prs,Tot`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`
 
-`PRON` occurs with 29 feature combinations.
-The most frequent feature combination is `Gender=Neut|Number=Sing|Person=3|PronType=Prs` (6559 tokens).
-Examples: <em>det, dette, noe, alt, slikt, sånt, intet, dét, et</em>
+`PRON` occurs with 37 feature combinations.
+The most frequent feature combination is `Gender=Neut|Number=Sing|Person=3|PronType=Prs` (6239 tokens).
+Examples: <em>det, dette, alt, slikt, sånt, intet, dét, et</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 20 different relations: [no-dep/nsubj]() (14136; 59% instances), [no-dep/expl]() (3231; 14% instances), [no-dep/dobj]() (2914; 12% instances), [no-dep/nmod]() (1857; 8% instances), [no-dep/nsubjpass]() (628; 3% instances), [no-dep/iobj]() (482; 2% instances), [no-dep/root]() (242; 1% instances), [no-dep/conj]() (105; 0% instances), [no-dep/appos]() (95; 0% instances), [no-dep/xcomp]() (52; 0% instances), [no-dep/det]() (33; 0% instances), [no-dep/advcl]() (18; 0% instances), [no-dep/name]() (18; 0% instances), [no-dep/remnant]() (11; 0% instances), [no-dep/acl]() (8; 0% instances), [no-dep/ccomp]() (8; 0% instances), [no-dep/csubj]() (7; 0% instances), [no-dep/goeswith]() (6; 0% instances), [no-dep/parataxis]() (5; 0% instances), [no-dep/acl:relcl]() (4; 0% instances)
+`PRON` nodes are attached to their parents using 22 different relations: [no-dep/nsubj]() (14113; 59% instances), [no-dep/expl]() (3231; 14% instances), [no-dep/dobj]() (2914; 12% instances), [no-dep/nmod]() (1866; 8% instances), [no-dep/nsubjpass]() (628; 3% instances), [no-dep/iobj]() (482; 2% instances), [no-dep/root]() (242; 1% instances), [no-dep/conj]() (105; 0% instances), [no-dep/appos]() (86; 0% instances), [no-dep/xcomp]() (52; 0% instances), [no-dep/det]() (33; 0% instances), [no-dep/dislocated]() (23; 0% instances), [no-dep/advcl]() (18; 0% instances), [no-dep/remnant]() (11; 0% instances), [no-dep/compound]() (10; 0% instances), [no-dep/acl]() (8; 0% instances), [no-dep/ccomp]() (8; 0% instances), [no-dep/name]() (8; 0% instances), [no-dep/csubj]() (7; 0% instances), [no-dep/goeswith]() (6; 0% instances), [no-dep/parataxis]() (5; 0% instances), [no-dep/acl:relcl]() (4; 0% instances)
 
 Parents of `PRON` nodes belong to 11 different parts of speech: [VERB]() (18791; 79% instances), [ADJ]() (2091; 9% instances), [NOUN]() (1949; 8% instances), [PRON]() (263; 1% instances), [ROOT]() (242; 1% instances), [ADV]() (166; 1% instances), [PROPN]() (128; 1% instances), [DET]() (108; 0% instances), [ADP]() (73; 0% instances), [NUM]() (48; 0% instances), [CONJ]() (1; 0% instances)
 
@@ -88,7 +88,7 @@ Parents of `PRON` nodes belong to 11 different parts of speech: [VERB]() (18791;
 
 The highest child degree of a `PRON` node is 11.
 
-Children of `PRON` nodes are attached using 28 different relations: [no-dep/case]() (1836; 34% instances), [no-dep/acl:relcl]() (843; 16% instances), [no-dep/punct]() (587; 11% instances), [no-dep/nmod]() (281; 5% instances), [no-dep/cop]() (268; 5% instances), [no-dep/det]() (244; 5% instances), [no-dep/acl]() (190; 4% instances), [no-dep/cc]() (185; 3% instances), [no-dep/appos]() (160; 3% instances), [no-dep/conj]() (160; 3% instances), [no-dep/nsubj]() (160; 3% instances), [no-dep/advmod]() (138; 3% instances), [no-dep/expl]() (93; 2% instances), [no-dep/neg]() (44; 1% instances), [no-dep/mark]() (40; 1% instances), [no-dep/advcl]() (24; 0% instances), [no-dep/aux]() (21; 0% instances), [no-dep/amod]() (19; 0% instances), [no-dep/parataxis]() (18; 0% instances), [no-dep/discourse]() (10; 0% instances), [no-dep/xcomp]() (9; 0% instances), [no-dep/csubj]() (4; 0% instances), [no-dep/goeswith]() (4; 0% instances), [no-dep/remnant]() (4; 0% instances), [no-dep/name]() (3; 0% instances), [no-dep/dobj]() (2; 0% instances), [no-dep/ccomp]() (1; 0% instances), [no-dep/nummod]() (1; 0% instances)
+Children of `PRON` nodes are attached using 28 different relations: [no-dep/case]() (1790; 33% instances), [no-dep/acl:relcl]() (843; 16% instances), [no-dep/punct]() (587; 11% instances), [no-dep/cop]() (268; 5% instances), [no-dep/det]() (244; 5% instances), [no-dep/nmod]() (226; 4% instances), [no-dep/advmod]() (219; 4% instances), [no-dep/acl]() (190; 4% instances), [no-dep/cc]() (185; 3% instances), [no-dep/conj]() (160; 3% instances), [no-dep/nsubj]() (160; 3% instances), [no-dep/appos]() (134; 3% instances), [no-dep/expl]() (93; 2% instances), [no-dep/mark]() (86; 2% instances), [no-dep/neg]() (44; 1% instances), [no-dep/advcl]() (24; 0% instances), [no-dep/aux]() (21; 0% instances), [no-dep/amod]() (19; 0% instances), [no-dep/parataxis]() (18; 0% instances), [no-dep/discourse]() (10; 0% instances), [no-dep/xcomp]() (9; 0% instances), [no-dep/csubj]() (4; 0% instances), [no-dep/goeswith]() (4; 0% instances), [no-dep/remnant]() (4; 0% instances), [no-dep/name]() (3; 0% instances), [no-dep/dobj]() (2; 0% instances), [no-dep/ccomp]() (1; 0% instances), [no-dep/nummod]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 17 different parts of speech: [ADP]() (1852; 35% instances), [VERB]() (1159; 22% instances), [PUNCT]() (584; 11% instances), [NOUN]() (455; 9% instances), [PRON]() (263; 5% instances), [DET]() (258; 5% instances), [ADV]() (245; 5% instances), [ADJ]() (189; 4% instances), [CONJ]() (186; 3% instances), [PROPN]() (75; 1% instances), [SCONJ]() (29; 1% instances), [AUX]() (21; 0% instances), [PART]() (12; 0% instances), [INTJ]() (10; 0% instances), [NUM]() (7; 0% instances), [SYM]() (3; 0% instances), [X]() (1; 0% instances)
+Children of `PRON` nodes belong to 16 different parts of speech: [ADP]() (1852; 35% instances), [VERB]() (1159; 22% instances), [PUNCT]() (587; 11% instances), [NOUN]() (455; 9% instances), [PRON]() (263; 5% instances), [DET]() (258; 5% instances), [ADV]() (245; 5% instances), [ADJ]() (189; 4% instances), [CONJ]() (186; 3% instances), [PROPN]() (75; 1% instances), [SCONJ]() (29; 1% instances), [AUX]() (21; 0% instances), [PART]() (12; 0% instances), [INTJ]() (10; 0% instances), [NUM]() (7; 0% instances), [X]() (1; 0% instances)
 

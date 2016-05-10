@@ -15,22 +15,25 @@ The following 1 pairs of parts of speech are connected with `auxpass`: [ar-pos/V
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 auxpass	color:blue
-1	قِمَّةُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	4	nsubjpass	_	Translit=qimmatu
-2	أُوبِك	_	X	X---------	Foreign=Foreign	1	nmod	_	Translit=ʾūbik
-3	سَ	_	PART	F---------	_	4	auxpass	_	Translit=sa
-4	تُعقَدُ	_	VERB	VIIP-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tuʿqadu
-5	مِن	_	ADP	P---------	AdpType=Prep	6	case	_	Translit=min
-6	٢٦	_	NUM	Q---------	NumForm=Digit	4	advmod	_	Translit=26
-7	إِلَى	_	ADP	P---------	AdpType=Prep	8	case	_	Translit=ʾilā
-8	٢٨	_	NUM	Q---------	NumForm=Digit	4	advmod	_	Translit=28
-9	أَيلُولَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	8	nmod	_	Translit=ʾaylūla
-10	/	_	PUNCT	G---------	_	11	punct	_	Translit=/
-11	سِبتَمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	9	appos	_	Translit=sibtambira
+# visual-style 3 2 auxpass	color:blue
+1	و	وَ	CONJ	C---------	_	0	root	_	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
+2	قد	قَد	PART	F---------	_	3	auxpass	_	Vform=قَد|Gloss=indeed,has_/_have,may_/_might|Root=qad|Translit=qad|LTranslit=qad
+3	عين	عَيَّن	VERB	VP-P-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Pass	1	parataxis	_	Vform=عُيِّنَ|Gloss=appoint,assign|Root=`_y_n|Translit=ʿuyyina|LTranslit=ʿayyan
+4	رضا	رضا	X	U---------	_	5	nmod	_	Vform=رضا|Translit=rDA
+5	خاتمي	خاتمي	X	U---------	_	3	nsubjpass	_	Vform=خاتمي|Translit=xAtmy
+6	مديرا	مُدِير	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	3	dobj	_	Vform=مُدِيرًا|Gloss=director,manager,chief|Root=d_w_r|Translit=mudīran|LTranslit=mudīr
+7	ل	لِ	ADP	P---------	AdpType=Prep	8	case	_	Vform=لِ|Gloss=for,to|Root=l|Translit=li|LTranslit=li
+8	مكتب	مَكتَب	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	6	nmod	_	Vform=مَكتَبِ|Gloss=bureau,office,department|Root=k_t_b|Translit=maktabi|LTranslit=maktab
+9	الدراسات	دِرَاسَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	8	nmod	_	Vform=اَلدِّرَاسَاتِ|Gloss=study,research|Root=d_r_s|Translit=ad-dirāsāti|LTranslit=dirāsat
+10	و	وَ	CONJ	C---------	_	9	cc	_	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
+11	الأبحاث	بَحث	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	9	conj	_	Vform=اَلأَبحَاثِ|Gloss=search,examination,research|Root=b_.h__t|Translit=al-ʾabḥāṯi|LTranslit=baḥṯ
+12	في	فِي	ADP	P---------	AdpType=Prep	13	case	_	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
+13	المجلس	مَجلِس	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	8	nmod	_	SpaceAfter=No|Vform=اَلمَجلِسِ|Gloss=council,board,Majlis|Root=^g_l_s|Translit=al-maǧlisi|LTranslit=maǧlis
+14	.	.	PUNCT	G---------	_	1	punct	_	Vform=.|Translit=.
 
 ~~~
 

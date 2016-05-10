@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [expl]().
 
-629 nodes (0%) are attached to their parents as `expl:impers`.
+635 nodes (0%) are attached to their parents as `expl:impers`.
 
-629 instances of `expl:impers` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.37042925278219.
+634 instances of `expl:impers` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37007874015748.
 
-The following 3 pairs of parts of speech are connected with `expl:impers`: [it-pos/VERB]()-[it-pos/PRON]() (624; 99% instances), [it-pos/AUX]()-[it-pos/PRON]() (4; 1% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl:impers`: [it-pos/VERB]()-[it-pos/PRON]() (629; 99% instances), [it-pos/AUX]()-[it-pos/PRON]() (5; 1% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: [it-p
 2	stata	essere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	_
 3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
 4	che	che	PRON	PR	PronType=Rel	7	dobj	_	_
-5	ci	ci	PRON	PC	PronType=Clit	7	advmod	_	_
+5	ci	ci	PRON	PC	PronType=Clit	7	expl	_	_
 6	si	si	PRON	PC	Person=3|PronType=Clit	7	expl:impers	_	_
 7	attendeva	attendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
 8	:	:	PUNCT	FC	_	3	punct	_	_
@@ -44,9 +44,9 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: [it-p
 4	trovare	trovare	VERB	V	VerbForm=Inf	0	root	_	_
 5	a	a	ADP	E	_	8	case	_	_
 6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	"	"	PUNCT	FB	_	8	punct	_	_
+7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
 8	Chester	Chester	PROPN	SP	_	4	nmod	_	_
-9	Beatty	Beatty	PROPN	SP	_	8	name	_	_
+9	Beatty	Beatty	PROPN	SP	_	8	name	_	SpaceAfter=No
 10	"	"	PUNCT	FB	_	8	punct	_	_
 11	?	?	PUNCT	FS	_	4	punct	_	_
 

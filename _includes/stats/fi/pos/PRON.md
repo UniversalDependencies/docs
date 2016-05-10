@@ -95,57 +95,58 @@ Children of `PRON` nodes belong to 14 different parts of speech: [VERB]() (616; 
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 44 `PRON` lemmas (0%), 590 `PRON` types (1%) and 10640 `PRON` tokens (7%).
-Out of 14 observed tags, the rank of `PRON` is: 11 in number of lemmas, 7 in number of types and 5 in number of tokens.
+There are 44 `PRON` lemmas (0%), 588 `PRON` types (1%) and 10572 `PRON` tokens (7%).
+Out of 16 observed tags, the rank of `PRON` is: 12 in number of lemmas, 7 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>se, hän, minä, joka, sinä, mikä, me, ne, tämä, he</em>
 
 The 10 most frequent `PRON` types:  <em>se, hän, minä, sen, sitä, mitä, joka, mä, ne, sinä</em>
 
-The 10 most frequent ambiguous lemmas: <em>se</em> ([PRON]() 2322, [DET]() 564, [NOUN]() 2), <em>hän</em> ([PRON]() 1465, [DET]() 135), <em>minä</em> ([PRON]() 1408, [DET]() 84, [NOUN]() 2), <em>joka</em> ([PRON]() 735, [DET]() 116), <em>sinä</em> ([PRON]() 596, [DET]() 42), <em>mikä</em> ([PRON]() 569, [DET]() 153), <em>me</em> ([PRON]() 487, [DET]() 74, [X]() 1), <em>ne</em> ([PRON]() 397, [DET]() 148), <em>tämä</em> ([DET]() 483, [PRON]() 370), <em>he</em> ([PRON]() 323, [DET]() 47)
+The 10 most frequent ambiguous lemmas: <em>se</em> ([PRON]() 2295, [DET]() 560, [NOUN]() 2), <em>hän</em> ([PRON]() 1460, [DET]() 135), <em>minä</em> ([PRON]() 1402, [DET]() 84, [NOUN]() 2), <em>joka</em> ([PRON]() 732, [DET]() 114), <em>sinä</em> ([PRON]() 594, [DET]() 42), <em>mikä</em> ([PRON]() 564, [DET]() 153), <em>me</em> ([PRON]() 483, [DET]() 74, [X]() 1), <em>ne</em> ([PRON]() 394, [DET]() 148), <em>tämä</em> ([DET]() 482, [PRON]() 370), <em>he</em> ([PRON]() 323, [DET]() 46)
 
-The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 884, [DET]() 153), <em>minä</em> ([PRON]() 284, [DET]() 3), <em>sen</em> ([PRON]() 279, [DET]() 158, [ADV]() 3), <em>sitä</em> ([PRON]() 273, [DET]() 72, [ADV]() 23), <em>mitä</em> ([PRON]() 217, [ADV]() 20, [DET]() 20), <em>joka</em> ([PRON]() 271, [DET]() 62), <em>ne</em> ([PRON]() 162, [DET]() 41), <em>sinä</em> ([PRON]() 162, [DET]() 11), <em>siitä</em> ([PRON]() 174, [DET]() 23, [ADV]() 7), <em>me</em> ([PRON]() 124, [VERB]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 877, [DET]() 152), <em>minä</em> ([PRON]() 284, [DET]() 3), <em>sen</em> ([PRON]() 282, [DET]() 155, [PART]() 3), <em>sitä</em> ([PRON]() 265, [DET]() 72, [PART]() 30), <em>mitä</em> ([PRON]() 214, [DET]() 20, [PART]() 14, [ADV]() 6), <em>joka</em> ([PRON]() 269, [DET]() 62), <em>ne</em> ([PRON]() 161, [DET]() 42), <em>sinä</em> ([PRON]() 162, [DET]() 11), <em>siitä</em> ([PRON]() 171, [DET]() 23, [ADV]() 7), <em>me</em> ([PRON]() 123, [X]() 1, [VERB]() 1)
 
 
 * <em>se</em>
-  * [PRON]() 884: <em>Lopeta nyt , olkoon mikä on , mitä <b>se</b> meille kuuluu .</em>
-  * [DET]() 153: <em>Mä en mene sinne , koska huomennahan on <b>se</b> tarkastustilaisuus .</em>
+  * [PRON]() 877: <em>mitäs <b>se</b> kiäns viäräle kaistale</em>
+  * [DET]() 152: <em>Ja <b>se</b> ukko on joku osakas siälä .</em>
 * <em>minä</em>
-  * [PRON]() 284: <em>Vain <b>minä</b> unohdin sateenvarjoni eilen .</em>
+  * [PRON]() 284: <em>Koko ajomatkan me puhuimme lehtijutuista , tai <b>minä</b> puhuin .</em>
   * [DET]() 3: <em>Se räjähtää <b>minä</b> hetkenä hyvänsä .</em>
 * <em>sen</em>
-  * [PRON]() 279: <em>Hän kertokoon <b>sen</b> .</em>
-  * [DET]() 158: <em>Sait sä sitten tehtyä <b>sen</b> työn ajoissa ?</em>
-  * [ADV]() 3: <em>Olin pelastettu , <b>sen</b> kun seurasin rekkojen perävaloja</em>
+  * [PRON]() 282: <em>Hän kertokoon <b>sen</b> .</em>
+  * [DET]() 155: <em>rakastu <b>sen</b> talon tyttäree .</em>
+  * [PART]() 3: <em>Olin pelastettu , <b>sen</b> kun seurasin rekkojen perävaloja</em>
 * <em>sitä</em>
-  * [PRON]() 273: <em>Ootteko te jollain nyt putsaillu <b>sitä</b> .</em>
+  * [PRON]() 265: <em>Kyllä hevonen vetää , Huttunen syötti <b>sitä</b> näkkileivällä</em>
   * [DET]() 72: <em>iso lasi <b>sitä</b> samaa</em>
-  * [ADV]() 23: <em>Miten saisi tämän ihmisen tulemaan toistekin , ilkeäisiköhän <b>sitä</b> kysyä .</em>
+  * [PART]() 30: <em>Miten saisi tämän ihmisen tulemaan toistekin , ilkeäisiköhän <b>sitä</b> kysyä .</em>
 * <em>mitä</em>
-  * [PRON]() 217: <em>Lopeta nyt , olkoon mikä on , <b>mitä</b> se meille kuuluu .</em>
-  * [ADV]() 20: <em>Toisinaan kone saattaa hyväksyä <b>mitä</b> ihmeellisempiä pulloja</em>
+  * [PRON]() 214: <em>Harry oli kai onnettomin ihminen , <b>mitä</b> minä olen koskaan tuntenut .</em>
   * [DET]() 20: <em>olkoon joku Lipponen <b>mitä</b> mieltä tahansa .</em>
+  * [PART]() 14: <em>Se tulee vastaan <b>mitä</b> kummallisimmissa paikoissa .</em>
+  * [ADV]() 6: <em><b>mitä</b> se minua liikuttaa .</em>
 * <em>joka</em>
-  * [PRON]() 271: <em>Minun luokallani on eräs lapsi , <b>joka</b> asuu varuskunnan lähellä .</em>
+  * [PRON]() 269: <em>Muistatkos sen Maijan , <b>joka</b> asui täällä ennen meitä ?</em>
   * [DET]() 62: <em>On se Annillakkii oikeus suaha mies jolla <b>joka</b> paikka pelloo .</em>
 * <em>ne</em>
-  * [PRON]() 162: <em>noo <b>ne</b> o jottais semssi sukulaissi .</em>
-  * [DET]() 41: <em>Ja homma olis se että <b>ne</b> seinänjätteet pitäs kantaa sinne lavalle .</em>
+  * [PRON]() 161: <em>ei voi ajatellakhaa varhmaan että <b>ne</b> ikinä olis vakinaisia .</em>
+  * [DET]() 42: <em>Tehdäänkö <b>ne</b> kaupat vai ei ?</em>
 * <em>sinä</em>
-  * [PRON]() 162: <em>Meillä päämies olet <b>sinä</b> .</em>
+  * [PRON]() 162: <em>Ota <b>sinä</b> tämä niin minä otan tämän .</em>
   * [DET]() 11: <em>Hei <b>sinä</b> fiksu keski-ikäinen ulkoileva mies - Tuletko seurakseni .</em>
 * <em>siitä</em>
-  * [PRON]() 174: <em>Turhautuneisuus johtui <b>siitä</b> , ett eivät --</em>
-  * [DET]() 23: <em>Se nyt vielä puuttuisi , että alkaisin olla mustasukkainen <b>siitä</b> akasta .</em>
+  * [PRON]() 171: <em>Turhautuneisuus johtui <b>siitä</b> , ett eivät --</em>
+  * [DET]() 23: <em>se ei o ensimmäinen sikari ku <b>siitä</b> kourasta palaa</em>
   * [ADV]() 7: <em>Ai se lähtee <b>siitä</b></em>
 * <em>me</em>
-  * [PRON]() 124: <em><b>me</b> ei tiätäny</em>
-  * [VERB]() 1: <em>se oli pannus semmosia ehtoja ett ei semmosiin ehtoin kukaam <b>me</b></em>
+  * [PRON]() 123: <em>no sit yks toinen kaveri lähti armeijaan ja <b>me</b> oltiin sovittu .</em>
   * [X]() 1: <em>Why did you do this to <b>me</b> !? Colin valitti itkuisen humalaisella äänellä .</em>
+  * [VERB]() 1: <em>se oli pannus semmosia ehtoja ett ei semmosiin ehtoin kukaam <b>me</b></em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 13.409091 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `PRON` is 13.363636 (the average of all parts of speech is 2.044212).
 
 The 1st highest number of forms (51) was observed with the lemma “minä”: <em>Minähän, Minäkö, Minäpäs, Mullahan, Mäkin, m, m-, ma, mi, mie, miekii, minua, minulla, minullakin, minulle, minullekin, minulta, minultakin, minun, minunhan, minunkin, minussa, minussakin, minusta, minut, minuun, minä, minäki, minäkin, minäkä, minäkään, minäkös, minäpä, miul, miullaha, miäpäs, mua, mul, mull, mulla, mulle, mullekin, multa, mum, mun, must, musta, mut, mä, mää, määki</em>.
 
@@ -153,32 +154,32 @@ The 2nd highest number of forms (48) was observed with the lemma “se”: <em>S
 
 The 3rd highest number of forms (43) was observed with the lemma “itse”: <em>Iteki, ihtiisäj, ite, itse, itseemme, itseen, itseensä, itsekin, itsekään, itselle, itsellee, itselleen, itselleenkin, itsellekin, itselleni, itsellensä, itselläsikin, itsellään, itselläänkin, itseltään, itseni, itsenne, itsensä, itsensäkin, itsesi, itsestä, itsestämme, itsestäni, itsestänikään, itsestäsi, itsestään, itseä, itseämme, itseäni, itseänne, itseäsi, itseään, itte, itteeni, ittees, ittelläs, ittellää, ittenä</em>.
 
-`PRON` occurs with 9 features: [fi-feat/Case]() (10637; 100% instances), [fi-feat/Number]() (9930; 93% instances), [fi-feat/PronType]() (9431; 89% instances), [fi-feat/Person]() (4455; 42% instances), [fi-feat/Clitic]() (311; 3% instances), [fi-feat/Reflex]() (310; 3% instances), [fi-feat/Person[psor]]() (274; 3% instances), [fi-feat/Number[psor]]() (61; 1% instances), [fi-feat/Degree]() (16; 0% instances)
+`PRON` occurs with 10 features: [fi-feat/Case]() (10569; 100% instances), [fi-feat/PronType]() (10269; 97% instances), [fi-feat/Number]() (9867; 93% instances), [fi-feat/Person]() (4435; 42% instances), [fi-feat/Style]() (816; 8% instances), [fi-feat/Clitic]() (309; 3% instances), [fi-feat/Reflex]() (303; 3% instances), [fi-feat/Person[psor]]() (270; 3% instances), [fi-feat/Number[psor]]() (59; 1% instances), [fi-feat/Degree]() (15; 0% instances)
 
-`PRON` occurs with 42 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Han,Kin`, `Clitic=Han,Ko`, `Clitic=Kaan`, `Clitic=Kaan,Ko`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Clitic=Pa,S`, `Clitic=S`, `Degree=Cmp`, `Degree=Sup`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`
+`PRON` occurs with 44 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Han,Kin`, `Clitic=Han,Ko`, `Clitic=Kaan`, `Clitic=Kaan,Ko`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Clitic=Pa,S`, `Clitic=S`, `Degree=Cmp`, `Degree=Sup`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`, `Style=Coll`
 
-`PRON` occurs with 316 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|PronType=Dem` (1289 tokens).
-Examples: <em>se, tämä, tää, tuo, toi, s, se-, si, so, s´</em>
+`PRON` occurs with 389 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|PronType=Dem` (1235 tokens).
+Examples: <em>se, tämä, tuo, se-</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 15 different relations: [fi-dep/nsubj]() (5583; 52% instances), [fi-dep/nmod]() (2102; 20% instances), [fi-dep/dobj]() (1809; 17% instances), [fi-dep/dep]() (561; 5% instances), [fi-dep/conj]() (184; 2% instances), [fi-dep/root]() (166; 2% instances), [fi-dep/advmod]() (104; 1% instances), [fi-dep/advcl:compar]() (58; 1% instances), [fi-dep/ccomp]() (25; 0% instances), [fi-dep/vocative]() (25; 0% instances), [fi-dep/acl]() (9; 0% instances), [fi-dep/advcl]() (8; 0% instances), [fi-dep/mark:comparator]() (4; 0% instances), [fi-dep/cop]() (1; 0% instances), [fi-dep/csubj]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 22 different relations: [fi-dep/nsubj]() (4252; 40% instances), [fi-dep/nmod]() (2089; 20% instances), [fi-dep/dobj]() (1748; 17% instances), [fi-dep/nsubj:cop]() (887; 8% instances), [fi-dep/expl]() (447; 4% instances), [fi-dep/nmod:own]() (441; 4% instances), [fi-dep/conj]() (186; 2% instances), [fi-dep/root]() (165; 2% instances), [fi-dep/advmod]() (111; 1% instances), [fi-dep/advcl]() (68; 1% instances), [fi-dep/mwe]() (39; 0% instances), [fi-dep/nmod:gobj]() (28; 0% instances), [fi-dep/vocative]() (25; 0% instances), [fi-dep/ccomp]() (24; 0% instances), [fi-dep/mark]() (21; 0% instances), [fi-dep/dep]() (13; 0% instances), [fi-dep/acl]() (11; 0% instances), [fi-dep/nmod:gsubj]() (9; 0% instances), [fi-dep/det]() (4; 0% instances), [fi-dep/amod]() (2; 0% instances), [fi-dep/csubj:cop]() (1; 0% instances), [fi-dep/xcomp]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 13 different parts of speech: [VERB]() (8586; 81% instances), [NOUN]() (847; 8% instances), [ADJ]() (585; 5% instances), [PRON]() (278; 3% instances), [ROOT]() (166; 2% instances), [PROPN]() (61; 1% instances), [ADV]() (53; 0% instances), [DET]() (21; 0% instances), [NUM]() (18; 0% instances), [SCONJ]() (16; 0% instances), [X]() (5; 0% instances), [INTJ]() (3; 0% instances), [ADP]() (1; 0% instances)
+Parents of `PRON` nodes belong to 13 different parts of speech: [VERB]() (8544; 81% instances), [NOUN]() (836; 8% instances), [ADJ]() (596; 6% instances), [PRON]() (278; 3% instances), [ROOT]() (165; 2% instances), [PROPN]() (66; 1% instances), [ADV]() (32; 0% instances), [DET]() (18; 0% instances), [NUM]() (16; 0% instances), [ADP]() (9; 0% instances), [X]() (5; 0% instances), [PART]() (4; 0% instances), [INTJ]() (3; 0% instances)
 
-8490 (80%) `PRON` nodes are leaves.
+8397 (79%) `PRON` nodes are leaves.
 
-1642 (15%) `PRON` nodes have one child.
+1651 (16%) `PRON` nodes have one child.
 
-311 (3%) `PRON` nodes have two children.
+317 (3%) `PRON` nodes have two children.
 
-197 (2%) `PRON` nodes have three or more children.
+207 (2%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 10.
 
-Children of `PRON` nodes are attached using 21 different relations: [fi-dep/punct]() (1106; 37% instances), [fi-dep/case]() (392; 13% instances), [fi-dep/nmod]() (284; 9% instances), [fi-dep/advmod]() (258; 9% instances), [fi-dep/cop]() (163; 5% instances), [fi-dep/conj]() (127; 4% instances), [fi-dep/nsubj]() (124; 4% instances), [fi-dep/dep]() (99; 3% instances), [fi-dep/det]() (90; 3% instances), [fi-dep/acl]() (80; 3% instances), [fi-dep/cc]() (78; 3% instances), [fi-dep/mark]() (38; 1% instances), [fi-dep/advcl:compar]() (34; 1% instances), [fi-dep/mark:comparator]() (34; 1% instances), [fi-dep/amod]() (31; 1% instances), [fi-dep/neg]() (25; 1% instances), [fi-dep/advcl]() (17; 1% instances), [fi-dep/nummod]() (11; 0% instances), [fi-dep/aux]() (9; 0% instances), [fi-dep/csubj]() (5; 0% instances), [fi-dep/vocative]() (3; 0% instances)
+Children of `PRON` nodes are attached using 25 different relations: [fi-dep/punct]() (1102; 36% instances), [fi-dep/case]() (392; 13% instances), [fi-dep/nmod]() (279; 9% instances), [fi-dep/advmod]() (262; 9% instances), [fi-dep/cop]() (166; 5% instances), [fi-dep/conj]() (128; 4% instances), [fi-dep/nsubj:cop]() (124; 4% instances), [fi-dep/mwe]() (94; 3% instances), [fi-dep/det]() (92; 3% instances), [fi-dep/mark]() (89; 3% instances), [fi-dep/acl]() (84; 3% instances), [fi-dep/cc]() (77; 3% instances), [fi-dep/advcl]() (52; 2% instances), [fi-dep/amod]() (32; 1% instances), [fi-dep/neg]() (25; 1% instances), [fi-dep/discourse]() (14; 0% instances), [fi-dep/expl]() (11; 0% instances), [fi-dep/nummod]() (10; 0% instances), [fi-dep/aux]() (9; 0% instances), [fi-dep/dep]() (8; 0% instances), [fi-dep/csubj:cop]() (5; 0% instances), [fi-dep/vocative]() (4; 0% instances), [fi-dep/nsubj]() (3; 0% instances), [fi-dep/reparandum]() (2; 0% instances), [fi-dep/xcomp]() (2; 0% instances)
 
-Children of `PRON` nodes belong to 14 different parts of speech: [PUNCT]() (1106; 37% instances), [ADP]() (404; 13% instances), [VERB]() (312; 10% instances), [ADV]() (281; 9% instances), [PRON]() (278; 9% instances), [NOUN]() (259; 9% instances), [DET]() (90; 3% instances), [CONJ]() (81; 3% instances), [SCONJ]() (75; 2% instances), [PROPN]() (47; 2% instances), [ADJ]() (43; 1% instances), [NUM]() (16; 1% instances), [INTJ]() (14; 0% instances), [X]() (2; 0% instances)
+Children of `PRON` nodes belong to 15 different parts of speech: [PUNCT]() (1102; 36% instances), [ADP]() (396; 13% instances), [VERB]() (320; 10% instances), [PRON]() (278; 9% instances), [NOUN]() (277; 9% instances), [PART]() (190; 6% instances), [ADV]() (112; 4% instances), [DET]() (96; 3% instances), [SCONJ]() (93; 3% instances), [CONJ]() (78; 3% instances), [PROPN]() (49; 2% instances), [ADJ]() (46; 2% instances), [INTJ]() (14; 0% instances), [NUM]() (13; 0% instances), [X]() (2; 0% instances)
 

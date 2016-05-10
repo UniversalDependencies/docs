@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [amod]().
 There are also 3 other language-specific subtypes of `amod`: [amod:att](), [amod:attlvc](), [amod:obl]().
 
-214 nodes (1%) are attached to their parents as `amod:mode`.
+216 nodes (1%) are attached to their parents as `amod:mode`.
 
-199 instances of `amod:mode` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.04672897196262.
+201 instances of `amod:mode` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.08796296296296.
 
-The following 8 pairs of parts of speech are connected with `amod:mode`: [hu-pos/VERB]()-[hu-pos/ADJ]() (159; 74% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (41; 19% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (4; 2% instances), [hu-pos/ADV]()-[hu-pos/ADJ]() (3; 1% instances), [hu-pos/DET]()-[hu-pos/ADJ]() (3; 1% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (2; 1% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/ADJ]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `amod:mode`: [hu-pos/VERB]()-[hu-pos/ADJ]() (161; 75% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (41; 19% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (4; 2% instances), [hu-pos/ADV]()-[hu-pos/ADJ]() (3; 1% instances), [hu-pos/DET]()-[hu-pos/ADJ]() (3; 1% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (2; 1% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu

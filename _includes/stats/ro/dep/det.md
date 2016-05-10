@@ -6,73 +6,73 @@
 
 This relation is universal.
 
-546 nodes (5%) are attached to their parents as `det`.
+6610 nodes (5%) are attached to their parents as `det`.
 
-494 instances of `det` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17032967032967.
+6139 instances of `det` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15446293494705.
 
-The following 18 pairs of parts of speech are connected with `det`: [ro-pos/NOUN]()-[ro-pos/DET]() (420; 77% instances), [ro-pos/NUM]()-[ro-pos/DET]() (45; 8% instances), [ro-pos/PROPN]()-[ro-pos/DET]() (35; 6% instances), [ro-pos/ADJ]()-[ro-pos/DET]() (21; 4% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (9; 2% instances), [ro-pos/ADJ]()-[ro-pos/PRON]() (2; 0% instances), [ro-pos/NOUN]()-[ro-pos/AUX]() (2; 0% instances), [ro-pos/NUM]()-[ro-pos/ADP]() (2; 0% instances), [ro-pos/CONJ]()-[ro-pos/PRON]() (1; 0% instances), [ro-pos/DET]()-[ro-pos/AUX]() (1; 0% instances), [ro-pos/DET]()-[ro-pos/DET]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/AUX]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/PART]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/DET]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/AUX]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/PRON]() (1; 0% instances).
+The following 35 pairs of parts of speech are connected with `det`: [ro-pos/NOUN]()-[ro-pos/DET]() (5644; 85% instances), [ro-pos/PROPN]()-[ro-pos/DET]() (292; 4% instances), [ro-pos/ADJ]()-[ro-pos/DET]() (186; 3% instances), [ro-pos/NUM]()-[ro-pos/DET]() (176; 3% instances), [ro-pos/PRON]()-[ro-pos/DET]() (68; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADV]() (53; 1% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (44; 1% instances), [ro-pos/DET]()-[ro-pos/DET]() (39; 1% instances), [ro-pos/ADV]()-[ro-pos/DET]() (20; 0% instances), [ro-pos/ADJ]()-[ro-pos/PRON]() (14; 0% instances), [ro-pos/PRON]()-[ro-pos/PRON]() (12; 0% instances), [ro-pos/NUM]()-[ro-pos/PRON]() (10; 0% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (8; 0% instances), [ro-pos/NOUN]()-[ro-pos/AUX]() (6; 0% instances), [ro-pos/NOUN]()-[ro-pos/ADJ]() (5; 0% instances), [ro-pos/NOUN]()-[ro-pos/NUM]() (3; 0% instances), [ro-pos/VERB]()-[ro-pos/DET]() (3; 0% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (3; 0% instances), [ro-pos/DET]()-[ro-pos/AUX]() (2; 0% instances), [ro-pos/DET]()-[ro-pos/PART]() (2; 0% instances), [ro-pos/NOUN]()-[ro-pos/PART]() (2; 0% instances), [ro-pos/NUM]()-[ro-pos/VERB]() (2; 0% instances), [ro-pos/PRON]()-[ro-pos/VERB]() (2; 0% instances), [ro-pos/PROPN]()-[ro-pos/PRON]() (2; 0% instances), [ro-pos/SYM]()-[ro-pos/DET]() (2; 0% instances), [ro-pos/ADJ]()-[ro-pos/ADP]() (1; 0% instances), [ro-pos/ADJ]()-[ro-pos/AUX]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/DET]() (1; 0% instances), [ro-pos/CONJ]()-[ro-pos/PRON]() (1; 0% instances), [ro-pos/INTJ]()-[ro-pos/DET]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/AUX]() (1; 0% instances), [ro-pos/PART]()-[ro-pos/DET]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/AUX]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	Era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
-2	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
-3	plăcere	plăcere	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
-4	să	să	PART	Qs	Mood=Sub	5	mark	_	_
-5	asiști	asista	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	csubj	_	_
-6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
-7	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
-8	examinare	examinare	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nmod:pmod	_	_
-9	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
-10	lui	lui	DET	Ds3---s	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	_
-11	.	.	PUNCT	PERIOD	_	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 det	color:blue
+1	Târziu	târziu	ADV	Rgp	Degree=Pos	13	advmod	_	_
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
+3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+4	geamul	geam	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	_
+5	tău	tău	DET	Ds2ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	_
+6	,	,	PUNCT	COMMA	_	3	punct	_	_
+7	încet	încet	ADV	Rgp	Degree=Pos	13	advmod	_	_
+8	,	,	PUNCT	COMMA	_	7	punct	_	_
+9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
+10	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	_
+11	monedă	monedă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	_
+12	voi	vrea	AUX	Va--1s	Number=Sing|Person=1	13	aux	_	_
+13	suna	suna	VERB	Vmnp	Tense=Pres|VerbForm=Inf	0	root	_	_
+14	.	.	PUNCT	PERIOD	_	13	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	În	În	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	1938	1938	NUM	M	NumType=Card	10	nummod	_	_
-3	,	,	PUNCT	COMMA	_	2	punct	_	_
-4	regele	regele	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	_
-5	Carol	Carol	PROPN	Np	_	4	nmod	_	_
-6	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
-7	II	II	NUM	Mo-s-r	Number=Sing|NumForm=Roman|NumType=Card	5	nummod	_	AltTag=NUM-ADJ
-8	-lea	-lea	DET	Tfms-y	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Variant=Short	7	det	_	_
-9	își	își	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	10	expl:pv	_	_
-10	asumă	asumă	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-11	puteri	puteri	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	10	dobj	_	_
-12	dictatoriale	dictatoriale	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	11	amod	_	_
-13	.	.	PUNCT	PERIOD	_	10	punct	_	_
+# visual-style 6 7 det	color:blue
+1	E-	fi	VERB	Vmip3s----y	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Variant=Short|VerbForm=Fin	4	cop	_	_
+2	așa	așa	ADV	Rgp	Degree=Pos	4	advmod	_	_
+3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
+4	îndemânatic	îndemânatic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
+6	Tom	Tom	PROPN	Np	_	4	nsubj	_	_
+7	ăsta	ăsta	DET	Dd3msr---o	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Postnom|PronType=Dem	6	det	_	_
+8	...	...	PUNCT	HELLIP	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 det	color:blue
-1	Iași	Iași	PROPN	Np	_	4	nsubj	_	_
-2	este	este	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
-4	centru	centru	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-5	economic	economic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-6	important	important	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-7	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	_
-8	României	României	PROPN	Npfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	_
-9	.	.	PUNCT	PERIOD	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 det	color:blue
+1	Pătrunseseră	pătrunde	VERB	Vmil3p	Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin	0	root	_	_
+2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
+3	cea	cel	DET	Tdfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+4	mai	mai	ADV	Rp	_	5	advmod	_	_
+5	generoasă	generos	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	zonă	zonă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	_
+7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
+8	demolări	demolare	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	6	nmod	_	_
+9	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
+10	Europei	Europa	PROPN	Npfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
+11	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 ~~~
 

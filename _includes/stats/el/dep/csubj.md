@@ -20,7 +20,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: [el-pos/VE
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
-1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	det	_	_
+1	Οι	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	ολομέλειες	ολομέλεια	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
 3	πρέπει	πρέπει	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 4	να	να	PART	PART	_	5	aux	_	_
@@ -40,7 +40,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: [el-pos/VE
 2	ασφαλώς	ασφαλώς	ADV	ADV	_	3	advmod	_	_
 3	σαφές	σαφής	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 4	ότι	ότι	CONJ	CONJ	_	7	mark	_	_
-5	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	6	det	_	_
+5	το	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
 6	προεδρείο	προεδρείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
 7	κατέχει	κατέχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	csubj	_	_
 8	ηγετικό	ηγετικός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	_
@@ -60,7 +60,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: [el-pos/VE
 2	ότι	ότι	CONJ	CONJ	_	8	mark	_	_
 3	αυτή	αυτός	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
 4	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	8	cop	_	_
-5	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	det	_	_
+5	η	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 6	πλέον	πλέον	ADV	ADV	_	7	advmod	_	_
 7	ενδιαφέρουσα	ενδιαφέρων	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	_
 8	συζήτηση	συζήτηση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	csubj	_	_

@@ -67,7 +67,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 414 [ga-pos/ADJ]() tokens (35% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (414; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (414; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (325; 79%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (231; 56%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (414; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (414; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (325; 79%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (231; 56%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>mór</i></th><th><tt>Gen</tt></th><th><tt>Com</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>mhóir</em></td><td><em>mór, ró-mhór, mhór, ollmhór</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>mhóir</em></td><td><em>mór, ollmhór, ró-mhór, mhór</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>mhór</em></td></tr>
   <tr><td><tt><a href="NounType.html">NounType</a>=NotSlender|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>móra</em></td></tr>
   <tr><td><tt><a href="NounType.html">NounType</a>=Strong|<a href="Number.html">Number</a>=Plur</tt></td><td><em>móra</em></td><td></td></tr>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 234 [ga-pos/DET]() tokens (11% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (234; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (234; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (234; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (234; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (234; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (234; 100%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (234; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (234; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (234; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (234; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (234; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (234; 100%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 
 1 [ga-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 

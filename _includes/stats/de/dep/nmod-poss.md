@@ -60,26 +60,27 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: [de-pos
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 13 nmod:poss	color:blue
-1	Sein	_	DET	_	_	2	nmod:poss	_	_
-2	Debüt	_	NOUN	_	_	7	dobj	_	_
-3	in	_	ADP	_	_	6	case	_	_
-4	der	_	DET	_	_	6	det	_	_
-5	ersten	_	ADJ	_	_	6	amod	_	_
-6	Elf	_	NOUN	_	_	2	nmod	_	_
-7	gab	_	VERB	_	_	0	root	_	_
-8	er	_	PRON	_	_	7	nsubj	_	_
-9	schon	_	ADV	_	_	7	advmod	_	_
-10	zwei	_	NUM	_	_	11	nummod	_	_
-11	Wochen	_	NOUN	_	_	14	nmod	_	_
-12	nach	_	ADP	_	_	14	case	_	_
-13	seinem	_	DET	_	_	14	nmod:poss	_	_
-14	18	_	NUM	_	_	7	nmod	_	_
-15	.	_	PUNCT	_	_	7	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 nmod:poss	color:blue
+1	Fesselt	_	VERB	_	_	0	root	_	_
+2	er	_	PRON	_	_	1	nsubj	_	_
+3	dennoch	_	ADV	_	_	1	advmod	_	_
+4	viele	_	ADJ	_	_	5	amod	_	_
+5	Leser	_	NOUN	_	_	1	dobj	_	_
+6	,	_	PUNCT	_	_	1	punct	_	_
+7	dann	_	ADV	_	_	15	advmod	_	_
+8	durch	_	ADP	_	_	15	case	_	_
+9	seine	_	DET	_	_	10	nmod:poss	_	_
+10	knappe	_	ADJ	_	_	15	amod	_	_
+11	,	_	PUNCT	_	_	10	punct	_	_
+12	treffende	_	ADJ	_	_	10	conj	_	_
+13	und	_	CONJ	_	_	10	cc	_	_
+14	hintergründige	_	ADJ	_	_	10	conj	_	_
+15	Sprache	_	NOUN	_	_	1	nmod	_	_
+16	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

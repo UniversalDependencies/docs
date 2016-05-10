@@ -11,9 +11,9 @@ The 10 most frequent `SYM` lemmas: <em>:), %, &, :D, ;), +, 3.Rf3, >, 2.f4, E21<
 
 The 10 most frequent `SYM` types:  <em>:), %, &, :D, ;), +, 3.Rf3, >, 2.f4, E21</em>
 
-The 10 most frequent ambiguous lemmas: <em>:)</em> ([SYM]() 68, [PUNCT]() 1), <em>%</em> ([SYM]() 37, [NOUN]() 9), <em>&</em> ([SYM]() 21, [PROPN]() 1), <em>+</em> ([SYM]() 16, [PROPN]() 2), <em>°C</em> ([SYM]() 3, [NOUN]() 1), <em>A</em> ([NOUN]() 21, [PROPN]() 7, [SYM]() 1), <em>B</em> ([NOUN]() 3, [SYM]() 1, [PROPN]() 1), <em>K</em> ([SYM]() 1, [PROPN]() 1), <em>V</em> ([ADJ]() 10, [NOUN]() 1, [SYM]() 1), <em>×</em> ([PROPN]() 4, [SYM]() 1)
+The 10 most frequent ambiguous lemmas: <em>:)</em> ([SYM]() 68, [PUNCT]() 1), <em>%</em> ([SYM]() 37, [NOUN]() 9), <em>&</em> ([SYM]() 21, [PROPN]() 1), <em>+</em> ([SYM]() 16, [PROPN]() 2), <em>°C</em> ([SYM]() 3, [NOUN]() 1), <em>A</em> ([NOUN]() 21, [PROPN]() 7, [SYM]() 1), <em>B</em> ([NOUN]() 3, [PROPN]() 1, [SYM]() 1), <em>K</em> ([SYM]() 1, [PROPN]() 1), <em>V</em> ([ADJ]() 10, [NOUN]() 1, [SYM]() 1), <em>×</em> ([PROPN]() 4, [SYM]() 1)
 
-The 10 most frequent ambiguous types:  <em>:)</em> ([SYM]() 68, [PUNCT]() 1), <em>&</em> ([SYM]() 21, [PROPN]() 1), <em>+</em> ([SYM]() 16, [PROPN]() 2), <em>A</em> ([NOUN]() 9, [PROPN]() 7, [SYM]() 1), <em>B</em> ([NOUN]() 3, [SYM]() 1, [PROPN]() 1), <em>V</em> ([ADJ]() 7, [NOUN]() 1, [SYM]() 1), <em>×</em> ([PROPN]() 4, [SYM]() 1)
+The 10 most frequent ambiguous types:  <em>:)</em> ([SYM]() 68, [PUNCT]() 1), <em>&</em> ([SYM]() 21, [PROPN]() 1), <em>+</em> ([SYM]() 16, [PROPN]() 2), <em>A</em> ([NOUN]() 9, [PROPN]() 7, [SYM]() 1), <em>B</em> ([NOUN]() 3, [PROPN]() 1, [SYM]() 1), <em>V</em> ([ADJ]() 7, [NOUN]() 1, [SYM]() 1), <em>×</em> ([PROPN]() 4, [SYM]() 1)
 
 
 * <em>:)</em>
@@ -31,8 +31,8 @@ The 10 most frequent ambiguous types:  <em>:)</em> ([SYM]() 68, [PUNCT]() 1), <e
   * [SYM]() 1: <em>Näissä esimerkiksi ‘ А ’ saadaan ‘ <b>A</b> ’ -näppäimesta ja ‘ Б ’ ‘ B ’ -näppäimestä .</em>
 * <em>B</em>
   * [NOUN]() 3: <em>Luokka <b>B</b> :</em>
-  * [SYM]() 1: <em>Näissä esimerkiksi ‘ А ’ saadaan ‘ A ’ -näppäimesta ja ‘ Б ’ ‘ <b>B</b> ’ -näppäimestä .</em>
   * [PROPN]() 1: <em>Penttilä suunnitteli myös tiukan rationaalisia rakennuksia , muun muassa Helsingin Hanasaari <b>B</b> -voimalaitoksen , joka on saanut ammattipiireissä arvostusta alusta lähtien .</em>
+  * [SYM]() 1: <em>Näissä esimerkiksi ‘ А ’ saadaan ‘ A ’ -näppäimesta ja ‘ Б ’ ‘ <b>B</b> ’ -näppäimestä .</em>
 * <em>V</em>
   * [ADJ]() 7: <em>Hänen isänsä oli kuningas Mithridates <b>V</b> Euergetes .</em>
   * [NOUN]() 1: <em>Siitä kehittyivät kreikkalaisen kirjaimiston digamma ja ypsilon , myöhemmin latinalaisen kirjaimiston F , <b>V</b> ja Y sekä edelleen U ja W .</em>
@@ -79,4 +79,54 @@ The highest child degree of a `SYM` node is 13.
 Children of `SYM` nodes are attached using 19 different relations: [fi-dep/punct]() (152; 36% instances), [fi-dep/name]() (90; 21% instances), [fi-dep/nummod]() (51; 12% instances), [fi-dep/nmod]() (21; 5% instances), [fi-dep/nsubj:cop]() (18; 4% instances), [fi-dep/conj]() (17; 4% instances), [fi-dep/cop]() (15; 4% instances), [fi-dep/cc]() (13; 3% instances), [fi-dep/compound:nn]() (12; 3% instances), [fi-dep/advmod]() (11; 3% instances), [fi-dep/acl:relcl]() (5; 1% instances), [fi-dep/appos]() (5; 1% instances), [fi-dep/compound]() (4; 1% instances), [fi-dep/remnant]() (4; 1% instances), [fi-dep/mark]() (3; 1% instances), [fi-dep/acl]() (2; 0% instances), [fi-dep/amod]() (2; 0% instances), [fi-dep/advcl]() (1; 0% instances), [fi-dep/case]() (1; 0% instances)
 
 Children of `SYM` nodes belong to 12 different parts of speech: [PUNCT]() (152; 36% instances), [SYM]() (86; 20% instances), [NUM]() (69; 16% instances), [NOUN]() (57; 13% instances), [VERB]() (24; 6% instances), [CONJ]() (13; 3% instances), [ADV]() (12; 3% instances), [ADJ]() (5; 1% instances), [PRON]() (3; 1% instances), [PROPN]() (3; 1% instances), [SCONJ]() (2; 0% instances), [ADP]() (1; 0% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Finnish-FTB)
+
+There are 6 `SYM` lemmas (0%), 6 `SYM` types (0%) and 22 `SYM` tokens (0%).
+Out of 16 observed tags, the rank of `SYM` is: 16 in number of lemmas, 16 in number of types and 16 in number of tokens.
+
+The 10 most frequent `SYM` lemmas: <em>%, &, /, +, *, @</em>
+
+The 10 most frequent `SYM` types:  <em>%, &, /, +, *, @</em>
+
+The 10 most frequent ambiguous lemmas: 
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 2.044212).
+
+The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “*”: <em>*</em>.
+
+`SYM` does not occur with any features.
+
+
+## Relations
+
+`SYM` nodes are attached to their parents using 1 different relations: [fi-dep/dep]() (22; 100% instances)
+
+Parents of `SYM` nodes belong to 3 different parts of speech: [NOUN]() (11; 50% instances), [PROPN]() (7; 32% instances), [VERB]() (4; 18% instances)
+
+13 (59%) `SYM` nodes are leaves.
+
+7 (32%) `SYM` nodes have one child.
+
+2 (9%) `SYM` nodes have two children.
+
+The highest child degree of a `SYM` node is 2.
+
+Children of `SYM` nodes are attached using 2 different relations: [fi-dep/nummod]() (8; 73% instances), [fi-dep/punct]() (3; 27% instances)
+
+Children of `SYM` nodes belong to 2 different parts of speech: [NUM]() (8; 73% instances), [PUNCT]() (3; 27% instances)
 

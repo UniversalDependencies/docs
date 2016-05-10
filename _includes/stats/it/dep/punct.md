@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-31171 nodes (11%) are attached to their parents as `punct`.
+31211 nodes (12%) are attached to their parents as `punct`.
 
-28056 instances of `punct` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.2525424272561.
+28091 instances of `punct` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.25189836916472.
 
-The following 21 pairs of parts of speech are connected with `punct`: [it-pos/VERB]()-[it-pos/PUNCT]() (14273; 46% instances), [it-pos/NOUN]()-[it-pos/PUNCT]() (9023; 29% instances), [it-pos/PROPN]()-[it-pos/PUNCT]() (2615; 8% instances), [it-pos/ADJ]()-[it-pos/PUNCT]() (1601; 5% instances), [it-pos/NUM]()-[it-pos/PUNCT]() (1589; 5% instances), [it-pos/PRON]()-[it-pos/PUNCT]() (1103; 4% instances), [it-pos/ADV]()-[it-pos/PUNCT]() (566; 2% instances), [it-pos/CONJ]()-[it-pos/PUNCT]() (76; 0% instances), [it-pos/X]()-[it-pos/PUNCT]() (61; 0% instances), [it-pos/PUNCT]()-[it-pos/PUNCT]() (59; 0% instances), [it-pos/NUM]()-[it-pos/SYM]() (58; 0% instances), [it-pos/INTJ]()-[it-pos/PUNCT]() (51; 0% instances), [it-pos/AUX]()-[it-pos/PUNCT]() (46; 0% instances), [it-pos/SCONJ]()-[it-pos/PUNCT]() (15; 0% instances), [it-pos/PROPN]()-[it-pos/SYM]() (12; 0% instances), [it-pos/NOUN]()-[it-pos/SYM]() (10; 0% instances), [it-pos/DET]()-[it-pos/PUNCT]() (5; 0% instances), [it-pos/ADP]()-[it-pos/PUNCT]() (3; 0% instances), [it-pos/SYM]()-[it-pos/PUNCT]() (2; 0% instances), [it-pos/X]()-[it-pos/SYM]() (2; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: [it-pos/VERB]()-[it-pos/PUNCT]() (14283; 46% instances), [it-pos/NOUN]()-[it-pos/PUNCT]() (9049; 29% instances), [it-pos/PROPN]()-[it-pos/PUNCT]() (2634; 8% instances), [it-pos/NUM]()-[it-pos/PUNCT]() (1648; 5% instances), [it-pos/ADJ]()-[it-pos/PUNCT]() (1588; 5% instances), [it-pos/PRON]()-[it-pos/PUNCT]() (1128; 4% instances), [it-pos/ADV]()-[it-pos/PUNCT]() (563; 2% instances), [it-pos/CONJ]()-[it-pos/PUNCT]() (77; 0% instances), [it-pos/X]()-[it-pos/PUNCT]() (66; 0% instances), [it-pos/PUNCT]()-[it-pos/PUNCT]() (57; 0% instances), [it-pos/INTJ]()-[it-pos/PUNCT]() (51; 0% instances), [it-pos/AUX]()-[it-pos/PUNCT]() (42; 0% instances), [it-pos/SCONJ]()-[it-pos/PUNCT]() (15; 0% instances), [it-pos/DET]()-[it-pos/PUNCT]() (5; 0% instances), [it-pos/ADP]()-[it-pos/PUNCT]() (3; 0% instances), [it-pos/SYM]()-[it-pos/PUNCT]() (2; 0% instances).
 
 
 ~~~ conllu
@@ -20,7 +20,7 @@ The following 21 pairs of parts of speech are connected with `punct`: [it-pos/VE
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 14 punct	color:blue
-1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur	3	det:predet	_	_
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Predet	3	det:predet	_	_
 2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	esseri	essere	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
 4	umani	umano	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_

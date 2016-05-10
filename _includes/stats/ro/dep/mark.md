@@ -6,31 +6,54 @@
 
 This relation is universal.
 
-335 nodes (3%) are attached to their parents as `mark`.
+4164 nodes (3%) are attached to their parents as `mark`.
 
-329 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.3044776119403.
+4144 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.51368876080692.
 
-The following 17 pairs of parts of speech are connected with `mark`: [ro-pos/VERB]()-[ro-pos/PART]() (186; 56% instances), [ro-pos/VERB]()-[ro-pos/SCONJ]() (82; 24% instances), [ro-pos/ADV]()-[ro-pos/ADP]() (14; 4% instances), [ro-pos/VERB]()-[ro-pos/ADP]() (13; 4% instances), [ro-pos/VERB]()-[ro-pos/CONJ]() (10; 3% instances), [ro-pos/VERB]()-[ro-pos/ADV]() (9; 3% instances), [ro-pos/ADJ]()-[ro-pos/SCONJ]() (6; 2% instances), [ro-pos/ADV]()-[ro-pos/SCONJ]() (3; 1% instances), [ro-pos/ADJ]()-[ro-pos/ADP]() (2; 1% instances), [ro-pos/ADJ]()-[ro-pos/ADV]() (2; 1% instances), [ro-pos/VERB]()-[ro-pos/AUX]() (2; 1% instances), [ro-pos/ADJ]()-[ro-pos/PART]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/ADV]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/SCONJ]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/ADP]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/SCONJ]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/DET]() (1; 0% instances).
+The following 43 pairs of parts of speech are connected with `mark`: [ro-pos/VERB]()-[ro-pos/PART]() (2117; 51% instances), [ro-pos/VERB]()-[ro-pos/SCONJ]() (859; 21% instances), [ro-pos/VERB]()-[ro-pos/ADP]() (463; 11% instances), [ro-pos/VERB]()-[ro-pos/ADV]() (178; 4% instances), [ro-pos/VERB]()-[ro-pos/CONJ]() (86; 2% instances), [ro-pos/ADJ]()-[ro-pos/SCONJ]() (75; 2% instances), [ro-pos/ADJ]()-[ro-pos/PART]() (56; 1% instances), [ro-pos/NOUN]()-[ro-pos/SCONJ]() (42; 1% instances), [ro-pos/ADJ]()-[ro-pos/ADV]() (33; 1% instances), [ro-pos/ADJ]()-[ro-pos/CONJ]() (32; 1% instances), [ro-pos/VERB]()-[ro-pos/AUX]() (30; 1% instances), [ro-pos/ADV]()-[ro-pos/SCONJ]() (25; 1% instances), [ro-pos/ADV]()-[ro-pos/ADP]() (20; 0% instances), [ro-pos/NOUN]()-[ro-pos/PART]() (19; 0% instances), [ro-pos/ADJ]()-[ro-pos/ADP]() (18; 0% instances), [ro-pos/ADV]()-[ro-pos/ADV]() (14; 0% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (10; 0% instances), [ro-pos/NOUN]()-[ro-pos/ADV]() (9; 0% instances), [ro-pos/AUX]()-[ro-pos/SCONJ]() (7; 0% instances), [ro-pos/NOUN]()-[ro-pos/CONJ]() (7; 0% instances), [ro-pos/NUM]()-[ro-pos/DET]() (7; 0% instances), [ro-pos/ADV]()-[ro-pos/PART]() (6; 0% instances), [ro-pos/ADV]()-[ro-pos/CONJ]() (5; 0% instances), [ro-pos/AUX]()-[ro-pos/PART]() (5; 0% instances), [ro-pos/SCONJ]()-[ro-pos/VERB]() (5; 0% instances), [ro-pos/ADP]()-[ro-pos/PART]() (3; 0% instances), [ro-pos/ADP]()-[ro-pos/SCONJ]() (3; 0% instances), [ro-pos/AUX]()-[ro-pos/CONJ]() (3; 0% instances), [ro-pos/PRON]()-[ro-pos/SCONJ]() (3; 0% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (3; 0% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (3; 0% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (3; 0% instances), [ro-pos/DET]()-[ro-pos/ADV]() (2; 0% instances), [ro-pos/PRON]()-[ro-pos/ADV]() (2; 0% instances), [ro-pos/VERB]()-[ro-pos/DET]() (2; 0% instances), [ro-pos/VERB]()-[ro-pos/PUNCT]() (2; 0% instances), [ro-pos/AUX]()-[ro-pos/AUX]() (1; 0% instances), [ro-pos/DET]()-[ro-pos/CONJ]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/DET]() (1; 0% instances), [ro-pos/PART]()-[ro-pos/ADV]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/ADP]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 mark	color:blue
+1	Dacă	dacă	SCONJ	Csssp	Negative=Pos	4	mark	_	_
+2	n-	nu	PART	Qz-y	Negative=Neg|Variant=Short	4	neg	_	_
+3	ai	avea	AUX	Va--2s	Number=Sing|Person=2	4	aux	_	_
+4	avut	avea	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	11	advcl	_	_
+5	destulă	destulă	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	6	amod	_	_
+6	vreme	vreme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	dobj	_	_
+7	să	să	PART	Qs	Mood=Sub	9	mark	_	_
+8	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	9	dobj	_	_
+9	cunoști	cunoaște	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+10	,	,	PUNCT	COMMA	_	4	punct	_	_
+11	păcat	păcat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+12	!	!	PUNCT	EXCL	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 mark	color:blue
-1	Era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
-2	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
-3	plăcere	plăcere	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
-4	să	să	PART	Qs	Mood=Sub	5	mark	_	_
-5	asiști	asista	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	csubj	_	_
-6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
-7	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
-8	examinare	examinare	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nmod:pmod	_	_
-9	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
-10	lui	lui	DET	Ds3---s	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	_
-11	.	.	PUNCT	PERIOD	_	3	punct	_	_
+# visual-style 4 1 mark	color:blue
+1	Dacă	dacă	SCONJ	Csssp	Negative=Pos	4	mark	_	_
+2	n-	nu	PART	Qz-y	Negative=Neg|Variant=Short	4	neg	_	_
+3	ai	avea	AUX	Va--2s	Number=Sing|Person=2	4	aux	_	_
+4	avut	avea	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	11	advcl	_	_
+5	destulă	destulă	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	6	amod	_	_
+6	vreme	vreme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	dobj	_	_
+7	să	să	PART	Qs	Mood=Sub	9	mark	_	_
+8	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	9	dobj	_	_
+9	cunoști	cunoaște	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+10	,	,	PUNCT	COMMA	_	4	punct	_	_
+11	păcat	păcat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+12	!	!	PUNCT	EXCL	_	11	punct	_	_
 
 ~~~
 
@@ -41,37 +64,18 @@ The following 17 pairs of parts of speech are connected with `mark`: [ro-pos/VER
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 5 mark	color:blue
-1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pv	_	_
-2	înfurie	înfuria	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	mai	mai	ADV	Rp	_	4	advmod	_	_
-4	rău	rău	ADV	Rz	PronType=Neg	2	advmod	_	_
-5	că	că	SCONJ	Csssp	Negative=Pos	9	mark	_	_
-6	nu	nu	PART	Qz	Negative=Neg	8	neg	_	_
-7	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	9	expl:pv	_	_
-8	putea	putea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
-9	aduce_aminte	aduce_aminte	VERB	Vmnp	Tense=Pres|VerbForm=Inf	2	advcl	_	_
-10	.	.	PUNCT	PERIOD	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 mark	color:blue
-1	Am	avea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	putut	putea	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-3	să	să	PART	Qs	Mood=Sub	4	mark	_	_
-4	văd	vedea	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
-5	de	de	ADP	Sp	AdpType=Prep	6	mark	_	_
-6	aproape	aproape	ADV	Rgp	Degree=Pos	4	advmod	_	_
-7	zbuciumul	zbucium	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	dobj	_	_
-8	și	și	CONJ	Crssp	Negative=Pos	7	cc	_	_
-9	luptele	luptă	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	7	conj	_	_
-10	scriitorului	scriitor	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	_
-11	.	.	PUNCT	PERIOD	_	2	punct	_	_
+1	remarcabilă	remarcabil	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+2	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	aici	aici	ADV	Rgp	Degree=Pos	1	advmod	_	_
+4	insistența	insistență	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
+5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	mark	_	_
+6	a	a	PART	Qn	PartType=Inf	9	mark	_	_
+7	nu	nu	PART	Qz	Negative=Neg	9	neg	_	_
+8	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	9	expl:impers	_	_
+9	interveni	interveni	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
+10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
+11	text	text	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 ~~~
 

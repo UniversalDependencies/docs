@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-195 nodes (1%) are attached to their parents as `xcomp`.
+311 nodes (1%) are attached to their parents as `xcomp`.
 
-183 instances of `xcomp` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.86153846153846.
+281 instances of `xcomp` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.67845659163987.
 
-The following 6 pairs of parts of speech are connected with `xcomp`: [hu-pos/VERB]()-[hu-pos/VERB]() (167; 86% instances), [hu-pos/ADJ]()-[hu-pos/VERB]() (24; 12% instances), [hu-pos/AUX]()-[hu-pos/VERB]() (1; 1% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `xcomp`: [hu-pos/VERB]()-[hu-pos/VERB]() (266; 86% instances), [hu-pos/ADJ]()-[hu-pos/VERB]() (34; 11% instances), [hu-pos/AUX]()-[hu-pos/VERB]() (8; 3% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,29 +58,24 @@ The following 6 pairs of parts of speech are connected with `xcomp`: [hu-pos/VER
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 xcomp	color:blue
-1	Hazudik	hazudik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	aki	aki	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Rel	5	nsubj	_	_
-4	azt	az	PRON	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	5	dobj	_	_
-5	állítja	állít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	_
-6	,	,	PUNCT	_	_	5	punct	_	_
-7	hogy	hogy	SCONJ	_	_	9	mark	_	_
-8	nem	nem	ADV	_	PronType=Neg	9	neg	_	_
-9	akar	akar	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp:obj	_	_
-10	sikeres	sikeres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	9	xcomp	_	_
-11	lenni	lesz	VERB	_	VerbForm=Inf|Voice=Act	10	cop	_	_
-12	vagy	vagy	CONJ	_	_	5	cc	_	_
-13	hogy	hogy	SCONJ	_	_	16	mark	_	_
-14	számára	számára	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Prs	16	advmod:mode	_	_
-15	nem	nem	ADV	_	PronType=Neg	16	neg	_	_
-16	fontos	fontos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	5	conj	_	_
-17	,	,	PUNCT	_	_	16	punct	_	_
-18	hogy	hogy	SCONJ	_	_	22	mark	_	_
-19	minél	minél	ADV	_	_	20	advmod:mode	_	_
-20	több	több	DET	_	Definite=Ind|PronType=Ind	21	det	_	_
-21	visszajelzést	visszajelzés	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	22	dobj	_	_
-22	kapjon	kap	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	csubj	_	_
-23	.	.	PUNCT	_	_	1	punct	_	_
+1	Könnyen	könnyű	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	2	nmod	_	_
+2	lehet	lehet	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ugyanis	ugyanis	CONJ	_	_	2	cc	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	hogy	hogy	SCONJ	_	_	9	mark	_	_
+6	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	cég	cég	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+8	úgy	úgy	ADV	_	PronType=Dem	9	advmod:mode	_	_
+9	fog	fog	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	_
+10	taktikázni	taktikázik	VERB	_	VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	még	még	ADV	_	_	15	advmod:tlocy	_	_
+13	véletlenül	véletlenül	ADV	_	_	15	advmod:mode	_	_
+14	se	se	ADV	_	PronType=Neg	15	neg	_	_
+15	találjon	talál	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
+16	rájuk	rá	PRON	_	Case=Sub|Number=Plur|Person=3|PronType=Prs	15	nmod:obl	_	_
+17	vevőt	vevő	NOUN	_	Case=Acc|Number=Sing	15	dobj	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

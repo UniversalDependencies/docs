@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-737 nodes (0%) are attached to their parents as `compound`.
+778 nodes (0%) are attached to their parents as `compound`.
 
-669 instances of `compound` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.18588873812754.
+707 instances of `compound` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17609254498715.
 
-The following 5 pairs of parts of speech are connected with `compound`: [it-pos/NOUN]()-[it-pos/NOUN]() (579; 79% instances), [it-pos/NUM]()-[it-pos/NUM]() (150; 20% instances), [it-pos/NOUN]()-[it-pos/X]() (6; 1% instances), [it-pos/X]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/X]()-[it-pos/X]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `compound`: [it-pos/NOUN]()-[it-pos/NOUN]() (611; 79% instances), [it-pos/NUM]()-[it-pos/NUM]() (152; 20% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (6; 1% instances), [it-pos/NOUN]()-[it-pos/X]() (6; 1% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/X]()-[it-pos/NUM]() (1; 0% instances), [it-pos/X]()-[it-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `compound`: [it-pos/
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	non	non	ADV	BN	PronType=Neg	9	neg	_	_
 8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
-9	rinunciato	rinunciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	rinunciato	rinunciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 10	"	"	PUNCT	FB	_	9	punct	_	_
 11	.	.	PUNCT	FS	_	9	punct	_	_
 

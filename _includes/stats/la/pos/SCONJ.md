@@ -7,64 +7,64 @@
 There are 56 `SCONJ` lemmas (1%), 44 `SCONJ` types (0%) and 1205 `SCONJ` tokens (3%).
 Out of 12 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: _ut1, si1, cum1, quod1, ne1, ut, cum, quam1, ubi1, quia1_
+The 10 most frequent `SCONJ` lemmas: <em>ut1, si1, cum1, quod1, ne1, ut, cum, quam1, ubi1, quia1</em>
 
-The 10 most frequent `SCONJ` types:  _ut, si, cum, quod, ne, dum, quia, quam, ubi, nisi_
+The 10 most frequent `SCONJ` types:  <em>ut, si, cum, quod, ne, dum, quia, quam, ubi, nisi</em>
 
-The 10 most frequent ambiguous lemmas: _ut1_ ([SCONJ]() 185, [ADV]() 20, [CONJ]() 1), _si1_ ([SCONJ]() 171, [CONJ]() 1), _cum1_ ([SCONJ]() 128, [ADP]() 120, [CONJ]() 10), _quod1_ ([SCONJ]() 71, [CONJ]() 14), _ne1_ ([ADV]() 171, [SCONJ]() 69, [CONJ]() 33), _ut_ ([SCONJ]() 60, [CONJ]() 6), _cum_ ([SCONJ]() 56, [ADP]() 18), _quam1_ ([ADV]() 50, [SCONJ]() 48, [CONJ]() 1, [PRON]() 1), _ubi1_ ([SCONJ]() 47, [ADV]() 16, [CONJ]() 3), _quia1_ ([SCONJ]() 40, [CONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>ut1</em> ([SCONJ]() 185, [ADV]() 20, [CONJ]() 1), <em>si1</em> ([SCONJ]() 171, [CONJ]() 1), <em>cum1</em> ([SCONJ]() 128, [ADP]() 120, [CONJ]() 10), <em>quod1</em> ([SCONJ]() 71, [CONJ]() 14), <em>ne1</em> ([ADV]() 171, [SCONJ]() 69, [CONJ]() 33), <em>ut</em> ([SCONJ]() 60, [CONJ]() 6), <em>cum</em> ([SCONJ]() 56, [ADP]() 18), <em>quam1</em> ([ADV]() 50, [SCONJ]() 48, [PRON]() 1, [CONJ]() 1), <em>ubi1</em> ([SCONJ]() 47, [ADV]() 16, [CONJ]() 3), <em>quia1</em> ([SCONJ]() 40, [CONJ]() 1)
 
-The 10 most frequent ambiguous types:  _ut_ ([SCONJ]() 234, [ADV]() 15, [CONJ]() 6), _si_ ([SCONJ]() 190, [CONJ]() 1), _cum_ ([SCONJ]() 153, [ADP]() 135, [CONJ]() 9), _quod_ ([PRON]() 99, [SCONJ]() 71, [CONJ]() 12), _ne_ ([ADV]() 155, [SCONJ]() 66, [CONJ]() 54, [INTJ]() 4), _quia_ ([SCONJ]() 50, [CONJ]() 1), _quam_ ([ADV]() 73, [SCONJ]() 48, [PRON]() 46, [CONJ]() 1), _ubi_ ([SCONJ]() 47, [ADV]() 19, [CONJ]() 3), _nisi_ ([SCONJ]() 35, [CONJ]() 6), _postquam_ ([SCONJ]() 21, [ADV]() 2, [CONJ]() 1)
+The 10 most frequent ambiguous types:  <em>ut</em> ([SCONJ]() 234, [ADV]() 15, [CONJ]() 6), <em>si</em> ([SCONJ]() 190, [CONJ]() 1), <em>cum</em> ([SCONJ]() 153, [ADP]() 135, [CONJ]() 9), <em>quod</em> ([PRON]() 99, [SCONJ]() 71, [CONJ]() 12), <em>ne</em> ([ADV]() 155, [SCONJ]() 66, [CONJ]() 54, [INTJ]() 4), <em>quia</em> ([SCONJ]() 50, [CONJ]() 1), <em>quam</em> ([ADV]() 73, [SCONJ]() 48, [PRON]() 46, [CONJ]() 1), <em>ubi</em> ([SCONJ]() 47, [ADV]() 19, [CONJ]() 3), <em>nisi</em> ([SCONJ]() 35, [CONJ]() 6), <em>postquam</em> ([SCONJ]() 21, [ADV]() 2, [CONJ]() 1)
 
 
-* _ut_
-  * [SCONJ]() 234: _<b>ut</b> mentiar , nullius patrimonium tanti facio_
-  * [ADV]() 15: _Ferrum optimum daturus est , sine fuga , carnarium in medio , <b>ut</b> amphitheater videat_
-  * [CONJ]() 6: _Mutandum tibi propositum est <b>ut</b> vitae genus , Intrare si Musarum limen cogitas ._
-* _si_
-  * [SCONJ]() 190: _c Ne tamen derisit , etiam <b>si</b> fugit_
-  * [CONJ]() 1: _nisi vero <b>si</b> quis est qui Catilinae similis cum Catilina sentire non putet_
-* _cum_
-  * [SCONJ]() 153: _Et tu <b>cum</b> esses capo , cocococo , atque cor non habebas_
-  * [ADP]() 135: _Numquam est fidelis <b>cum</b> potente societas :_
-  * [CONJ]() 9: _Et puto , <b>cum</b> vicensimariis magnam mantissam habet_
-* _quod_
-  * [PRON]() 99: _<b>quod</b> semel destinavi , clavo tabulari fixum est_
-  * [SCONJ]() 71: _Ego , <b>quod</b> me sic vides , propter artificium meum diis gratias ago_
-  * [CONJ]() 12: _<b>quod</b> ego si verbo adsequi possem , istos ipsos eicerem qui haec loquuntur_
-* _ne_
-  * [ADV]() 155: _Ac <b>ne</b> sic quidem putidissimam eius iactationem licuit effugere_
-  * [SCONJ]() 66: _Itaque hilaria mera sint , etsi timeo istos scholasticos , <b>ne</b> me rideant_
-  * [CONJ]() 54: _nescio quid nunc taces c <b>ne</b> muttis_
-  * [INTJ]() 4: _<b>ne</b> Tu igitur demens , c ne te mea cura moratur_
-* _quia_
-  * [SCONJ]() 50: _Et <b>quia</b> bonam mentem habet , attuli illi Roma munus cultros Norico ferro_
-  * [CONJ]() 1: _an <b>quia</b> parva damus mutato signa colore , et non ulla meo clamat in ore fides_
-* _quam_
-  * [ADV]() 73: _Satius est rideri <b>quam</b> derideri_
-  * [SCONJ]() 48: _hosce ego non tam milites acris <b>quam</b> infitiatores lentos esse arbitror_
-  * [PRON]() 46: _Mox silentio facto scitis inquit <b>quam</b> fabulam agant_
-  * [CONJ]() 1: _<b>quam</b> diu mihi consuli designato , Catilina , insidiatus es , non publico me praesidio , sed privata diligentia defendi_
-* _ubi_
-  * [SCONJ]() 47: _Haec <b>ubi</b> dicta dedit , talem fabulam exorsus est_
-  * [ADV]() 19: _Humiles laborant <b>ubi</b> potentes dissident ._
-  * [CONJ]() 3: _que Quaesitis diu terris , <b>ubi</b> sistere possit , in mare lassatis volucris vaga decidit alis_
-* _nisi_
-  * [SCONJ]() 35: _Qui mori timore <b>nisi</b> ego_
-  * [CONJ]() 6: _itaque quamdiu vixerit , habebit stigmam , c ne illam <b>nisi</b> Orcus delebit_
-* _postquam_
-  * [SCONJ]() 21: _Qui <b>postquam</b> caede fessus est , asinum evocat Iubet que vocem premere ._
-  * [ADV]() 2: _Hoc facto putabat se solium Iovis tenere , utique <b>postquam</b> Caesar illi dixit_
-  * [CONJ]() 1: _<b>postquam</b> illos videt queri de avaritia magistratuum , accusare senatum , quod in eo auxili nihil esset , miseriis suis remedium mortem expectare , ' at ego ' inquit ' vobis , si modo viri esse voltis , rationem ostendam , qua tanta ista mala effugiatis_
+* <em>ut</em>
+  * [SCONJ]() 234: <em><b>ut</b> mentiar , nullius patrimonium tanti facio</em>
+  * [ADV]() 15: <em>Ferrum optimum daturus est , sine fuga , carnarium in medio , <b>ut</b> amphitheater videat</em>
+  * [CONJ]() 6: <em>Mutandum tibi propositum est <b>ut</b> vitae genus , Intrare si Musarum limen cogitas .</em>
+* <em>si</em>
+  * [SCONJ]() 190: <em>c Ne tamen derisit , etiam <b>si</b> fugit</em>
+  * [CONJ]() 1: <em>nisi vero <b>si</b> quis est qui Catilinae similis cum Catilina sentire non putet</em>
+* <em>cum</em>
+  * [SCONJ]() 153: <em>Et tu <b>cum</b> esses capo , cocococo , atque cor non habebas</em>
+  * [ADP]() 135: <em>Numquam est fidelis <b>cum</b> potente societas :</em>
+  * [CONJ]() 9: <em>Et puto , <b>cum</b> vicensimariis magnam mantissam habet</em>
+* <em>quod</em>
+  * [PRON]() 99: <em><b>quod</b> semel destinavi , clavo tabulari fixum est</em>
+  * [SCONJ]() 71: <em>Ego , <b>quod</b> me sic vides , propter artificium meum diis gratias ago</em>
+  * [CONJ]() 12: <em><b>quod</b> ego si verbo adsequi possem , istos ipsos eicerem qui haec loquuntur</em>
+* <em>ne</em>
+  * [ADV]() 155: <em>Ac <b>ne</b> sic quidem putidissimam eius iactationem licuit effugere</em>
+  * [SCONJ]() 66: <em>Itaque hilaria mera sint , etsi timeo istos scholasticos , <b>ne</b> me rideant</em>
+  * [CONJ]() 54: <em>nescio quid nunc taces c <b>ne</b> muttis</em>
+  * [INTJ]() 4: <em><b>ne</b> Tu igitur demens , c ne te mea cura moratur</em>
+* <em>quia</em>
+  * [SCONJ]() 50: <em>Et <b>quia</b> bonam mentem habet , attuli illi Roma munus cultros Norico ferro</em>
+  * [CONJ]() 1: <em>an <b>quia</b> parva damus mutato signa colore , et non ulla meo clamat in ore fides</em>
+* <em>quam</em>
+  * [ADV]() 73: <em>Satius est rideri <b>quam</b> derideri</em>
+  * [SCONJ]() 48: <em>hosce ego non tam milites acris <b>quam</b> infitiatores lentos esse arbitror</em>
+  * [PRON]() 46: <em>Mox silentio facto scitis inquit <b>quam</b> fabulam agant</em>
+  * [CONJ]() 1: <em><b>quam</b> diu mihi consuli designato , Catilina , insidiatus es , non publico me praesidio , sed privata diligentia defendi</em>
+* <em>ubi</em>
+  * [SCONJ]() 47: <em>Haec <b>ubi</b> dicta dedit , talem fabulam exorsus est</em>
+  * [ADV]() 19: <em>Humiles laborant <b>ubi</b> potentes dissident .</em>
+  * [CONJ]() 3: <em>que Quaesitis diu terris , <b>ubi</b> sistere possit , in mare lassatis volucris vaga decidit alis</em>
+* <em>nisi</em>
+  * [SCONJ]() 35: <em>Qui mori timore <b>nisi</b> ego</em>
+  * [CONJ]() 6: <em>itaque quamdiu vixerit , habebit stigmam , c ne illam <b>nisi</b> Orcus delebit</em>
+* <em>postquam</em>
+  * [SCONJ]() 21: <em>Qui <b>postquam</b> caede fessus est , asinum evocat Iubet que vocem premere .</em>
+  * [ADV]() 2: <em>Hoc facto putabat se solium Iovis tenere , utique <b>postquam</b> Caesar illi dixit</em>
+  * [CONJ]() 1: <em><b>postquam</b> illos videt queri de avaritia magistratuum , accusare senatum , quod in eo auxili nihil esset , miseriis suis remedium mortem expectare , ' at ego ' inquit ' vobis , si modo viri esse voltis , rationem ostendam , qua tanta ista mala effugiatis</em>
 
 ## Morphology
 
 The form / lemma ratio of `SCONJ` is 0.785714 (the average of all parts of speech is 1.829408).
 
-The 1st highest number of forms (3) was observed with the lemma “cum1”: _cum, cumque, quom_
+The 1st highest number of forms (3) was observed with the lemma “cum1”: <em>cum, cumque, quom</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “cum”: _cum, quon_
+The 2nd highest number of forms (2) was observed with the lemma “cum”: <em>cum, quon</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “donec1”: _done, donec_
+The 3rd highest number of forms (2) was observed with the lemma “donec1”: <em>done, donec</em>.
 
 `SCONJ` does not occur with any features.
 
@@ -93,94 +93,85 @@ Children of `SCONJ` nodes belong to 8 different parts of speech: [NOUN]() (32; 4
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
-There are 49 `SCONJ` lemmas (1%), 50 `SCONJ` types (0%) and 12968 `SCONJ` tokens (5%).
-Out of 14 observed tags, the rank of `SCONJ` is: 5 in number of lemmas, 9 in number of types and 9 in number of tokens.
+There are 53 `SCONJ` lemmas (1%), 55 `SCONJ` types (0%) and 15763 `SCONJ` tokens (5%).
+Out of 15 observed tags, the rank of `SCONJ` is: 7 in number of lemmas, 10 in number of types and 8 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: _quod, ut, sicut, quia, si, nisi, in+quantum, quam, quamvis, quando_
+The 10 most frequent `SCONJ` lemmas: <em>quod, ut, sicut, quia, cum, si, nisi, in+quantum, quam, quamvis</em>
 
-The 10 most frequent `SCONJ` types:  _quod, ut, sicut, quia, si, nisi, inquantum, quam, quamvis, quando_
+The 10 most frequent `SCONJ` types:  <em>quod, ut, sicut, quia, cum, si, nisi, inquantum, quam, quamvis</em>
 
-The 10 most frequent ambiguous lemmas: _quod_ ([SCONJ]() 4241, [PRON]() 2, [X]() 2, [ADV]() 1, [ADP]() 1), _ut_ ([SCONJ]() 2016, [ADV]() 1), _sicut_ ([SCONJ]() 1920, [ADP]() 1), _quia_ ([SCONJ]() 1204, [ADV]() 5), _si_ ([SCONJ]() 1108, [ADP]() 2), _in+quantum_ ([SCONJ]() 420, [ADV]() 3), _quam_ ([SCONJ]() 395, [CONJ]() 16, [ADP]() 1, [X]() 1), _quamvis_ ([SCONJ]() 144, [CONJ]() 1, [ADV]() 1), _licet_ ([SCONJ]() 102, [VERB]() 7), _quasi_ ([ADV]() 231, [SCONJ]() 36)
+The 10 most frequent ambiguous lemmas: <em>quod</em> ([SCONJ]() 4817, [PRON]() 4, [ADV]() 2, [X]() 2), <em>ut</em> ([SCONJ]() 2234, [ADV]() 2), <em>sicut</em> ([SCONJ]() 2152, [CONJ]() 1), <em>quia</em> ([SCONJ]() 1295, [ADV]() 5), <em>cum</em> ([SCONJ]() 1246, [ADP]() 207), <em>si</em> ([SCONJ]() 1237, [ADV]() 1), <em>in+quantum</em> ([SCONJ]() 471, [ADV]() 1), <em>quam</em> ([SCONJ]() 444, [CONJ]() 23, [X]() 1), <em>quamvis</em> ([SCONJ]() 153, [ADV]() 1), <em>licet</em> ([SCONJ]() 116, [VERB]() 7)
 
-The 10 most frequent ambiguous types:  _quod_ ([SCONJ]() 4248, [PRON]() 2005, [X]() 7, [ADV]() 1, [ADP]() 1), _ut_ ([SCONJ]() 2016, [ADV]() 1), _sicut_ ([SCONJ]() 1917, [ADP]() 1), _quia_ ([SCONJ]() 1204, [ADV]() 5), _si_ ([SCONJ]() 1108, [ADP]() 2), _inquantum_ ([SCONJ]() 423, [ADV]() 3), _quam_ ([SCONJ]() 395, [PRON]() 349, [CONJ]() 16, [ADP]() 1, [X]() 1), _quamvis_ ([SCONJ]() 144, [CONJ]() 1, [ADV]() 1), _licet_ ([SCONJ]() 103, [VERB]() 5), _quasi_ ([ADV]() 231, [SCONJ]() 36)
+The 10 most frequent ambiguous types:  <em>quod</em> ([SCONJ]() 4817, [PRON]() 2226, [X]() 7, [ADV]() 2), <em>ut</em> ([SCONJ]() 2234, [ADV]() 2), <em>sicut</em> ([SCONJ]() 2148, [CONJ]() 1), <em>quia</em> ([SCONJ]() 1295, [ADV]() 5), <em>cum</em> ([SCONJ]() 1246, [ADP]() 207), <em>si</em> ([SCONJ]() 1237, [ADV]() 1), <em>inquantum</em> ([SCONJ]() 474, [ADV]() 1), <em>quam</em> ([SCONJ]() 444, [PRON]() 385, [CONJ]() 23, [X]() 1), <em>quamvis</em> ([SCONJ]() 153, [ADV]() 1), <em>licet</em> ([SCONJ]() 117, [VERB]() 5)
 
 
-* _quod_
-  * [SCONJ]() 4248: _<b>quod</b> felicitas humana non consistit in delectationibus carnalibus ._
-  * [PRON]() 2005: _finis enim est melior eo <b>quod</b> est ad finem ._
-  * [X]() 7: _<b>quod</b> distinctio rerum non est a casu ._
-  * [ADV]() 1: _respondeo dicendum <b>quod</b> illud quo intellectus intelligit , comparatur ad intellectum intelligentem ut forma eius , quia forma est quo agens agit ._
-  * [ADP]() 1: _sed quia nihil potest in alterum transformari nisi secundum <b>quod</b> a sua forma quodammodo recedit , quia unius una est forma , ideo hanc divisionem penetrationis praecedit alia divisio , qua amans a seipso separatur in amatum tendens ;_
-* _ut_
-  * [SCONJ]() 2016: _finis ultimus cuiuslibet rei deus est , <b>ut</b> ex praemissis patet ._
-  * [ADV]() 1: _esse igitur actu boni rationem constituit : unde et per privationem actus a potentia consequitur malum , quod est bono oppositum , <b>ut</b> per philosophum patet , in ix metaphysicae ._
-* _sicut_
-  * [SCONJ]() 1917: _movet enim ipsum , <b>sicut</b> superius dictum est ._
-  * [ADP]() 1: _<b>sicut</b> enim animal , dum generatur , accipit a generante virtutem nutritivam , ita etiam virtutem generativam ._
-* _quia_
-  * [SCONJ]() 1204: _<b>quia</b> etiam artis cognitio practica est ._
-  * [ADV]() 5: _sunt enim debilium oculorum , <b>quia</b> parva luce moventur , ad multam autem confunduntur ._
-* _si_
-  * [SCONJ]() 1108: _<b>si</b> igitur honor non est summum bonum , multo minus gloria ._
-  * [ADP]() 2: _ei enim quod est ex aliquo aliquid fieri , contradictorium quod oportet dare <b>si</b> hoc non detur , est non ex aliquo fieri : non autem hoc quod est ex nihilo , nisi sub sensu primi ;_
-* _inquantum_
-  * [SCONJ]() 423: _habet tamen similitudinem cum terra , <b>inquantum</b> subsidet formis ;_
-  * [ADV]() 3: _per similitudinem tamen aliqua deo dare dicimur , <b>inquantum</b> nostra data deus acceptat ._
-* _quam_
-  * [SCONJ]() 395: _voluntas est superior <b>quam</b> appetitus sensitivus :_
-  * [PRON]() 349: _est enim huiusmodi cognitio per <b>quam</b> res cognoscitur in potentia tantum ;_
-  * [CONJ]() 16: _ostensum est enim supra quod tam ens actu , <b>quam</b> ens in potentia , est bonum ._
-  * [ADP]() 1: _magis igitur addit ad bonitatem universi multitudo specierum <b>quam</b> multitudo individuorum in una specie ._
-  * [X]() 1: _quod tam de corpore circulari <b>quam</b> de recto probatur in i caeli et mundi ._
-* _quamvis_
-  * [SCONJ]() 144: _sic autem statua est homogenea , <b>quamvis</b> non secundum formam artificialem ._
-  * [CONJ]() 1: _respondeo dicendum , quod dicta assignatio apostoli est recta et propria definitio fidei quantum ad ea quae exiguntur ad definitionem , <b>quamvis</b> non quantum ad modum definitionis , quam auctores , et etiam philosophi , neglexerunt , sicut etiam et formam syllogismi praetermittunt ponentes ea ex quibus syllogismus formari potest ._
-  * [ADV]() 1: _et quoniam praelatio secundum suam formam semper a deo est ( quod debitum obedientiae causat ) ; ideo talibus praelatis , <b>quamvis</b> indignis , obedire tenentur subditi ._
-* _licet_
-  * [SCONJ]() 103: _et hoc repraesentatur in corporalibus creaturis , <b>licet</b> per alium modum :_
-  * [VERB]() 5: _ergo non <b>licet</b> addere vel diminuere in forma ._
-* _quasi_
-  * [ADV]() 231: _unde et chiliastae ( <b>quasi</b> millenarii ) , sunt appellati ._
-  * [SCONJ]() 36: _<b>quasi</b> nihil possit facere omnipotens , aestimabant eum ;_
+* <em>quod</em>
+  * [SCONJ]() 4817: <em>unum est <b>quod</b> paucis hominibus dei cognitio inesset .</em>
+  * [PRON]() 2226: <em><b>quod</b> sit officium sapientis .</em>
+  * [X]() 7: <em><b>quod</b> distinctio rerum non est a casu .</em>
+  * [ADV]() 2: <em><b>quod</b> autem est malum , non habet causam in natura :</em>
+* <em>ut</em>
+  * [SCONJ]() 2234: <em>tum etiam propter multa quae praeexiguntur , <b>ut</b> dictum est .</em>
+  * [ADV]() 2: <em>esse igitur actu boni rationem constituit : unde et per privationem actus a potentia consequitur malum , quod est bono oppositum , <b>ut</b> per philosophum patet , in ix metaphysicae .</em>
+* <em>sicut</em>
+  * [SCONJ]() 2148: <em>sic enim est dispositio rerum in veritate <b>sicut</b> in esse .</em>
+  * [CONJ]() 1: <em>nihil igitur prohibet et horum providentiam esse , <b>sicut</b> incorruptibilium et universalium .</em>
+* <em>quia</em>
+  * [SCONJ]() 1295: <em><b>quia</b> vero non omnis veritatis manifestandae modus est idem ;</em>
+  * [ADV]() 5: <em>sunt enim debilium oculorum , <b>quia</b> parva luce moventur , ad multam autem confunduntur .</em>
+* <em>cum</em>
+  * [SCONJ]() 1246: <em><b>cum</b> sint effectus causae virtutem non aequantes .</em>
+  * [ADP]() 207: <em>quantum enim ad modum significandi , omne nomen <b>cum</b> defectu est .</em>
+* <em>si</em>
+  * [SCONJ]() 1237: <em><b>si</b> autem movetur , ergo ab alio movente movetur .</em>
+  * [ADV]() 1: <em>cum autem impossibile sit naturale desiderium esse inane , quod quidem esset <b>si</b> non esset possibile pervenire ad divinam substantiam intelligendam , quod naturaliter omnes mentes desiderant ; necesse est dicere quod possibile sit substantiam dei videri per intellectum , et a substantiis intellectualibus separatis , et ab animabus nostris .</em>
+* <em>inquantum</em>
+  * [SCONJ]() 474: <em>sed omne quod movetur , <b>inquantum</b> huiusmodi , est in potentia :</em>
+  * [ADV]() 1: <em>per similitudinem tamen aliqua deo dare dicimur , <b>inquantum</b> nostra data deus acceptat .</em>
+* <em>quam</em>
+  * [SCONJ]() 444: <em>cognoscit quidem angelus deum ex nobiliori effectu <b>quam</b> homo :</em>
+  * [PRON]() 385: <em><b>quam</b> etiam innuit commentator in ii physicorum .</em>
+  * [CONJ]() 23: <em>quod quidem apparet tam in scientiis speculativis <b>quam</b> in activis :</em>
+  * [X]() 1: <em>quod tam de corpore circulari <b>quam</b> de recto probatur in i caeli et mundi .</em>
+* <em>quamvis</em>
+  * [SCONJ]() 153: <em>sic autem statua est homogenea , <b>quamvis</b> non secundum formam artificialem .</em>
+  * [ADV]() 1: <em>et quoniam praelatio secundum suam formam semper a deo est ( quod debitum obedientiae causat ) ; ideo talibus praelatis , <b>quamvis</b> indignis , obedire tenentur subditi .</em>
+* <em>licet</em>
+  * [SCONJ]() 117: <em>et hoc repraesentatur in corporalibus creaturis , <b>licet</b> per alium modum :</em>
+  * [VERB]() 5: <em>ergo non <b>licet</b> addere vel diminuere in forma .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.020408 (the average of all parts of speech is 3.609102).
+The form / lemma ratio of `SCONJ` is 1.037736 (the average of all parts of speech is 3.667841).
 
-The 1st highest number of forms (2) was observed with the lemma “quandiu”: _quamdiu, quandiu_
+The 1st highest number of forms (2) was observed with the lemma “quandiu”: <em>quamdiu, quandiu</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “quantum”: _inquantum, quantum_
+The 2nd highest number of forms (2) was observed with the lemma “quantum”: <em>inquantum, quantum</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “sicut”: _sicut, sicuti_
+The 3rd highest number of forms (2) was observed with the lemma “sicut”: <em>sicut, sicuti</em>.
 
-`SCONJ` occurs with 1 features: [la-feat/PronType]() (7; 0% instances)
-
-`SCONJ` occurs with 1 feature-value pairs: `PronType=Rel`
-
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (12961 tokens).
-Examples: _quod, ut, sicut, quia, si, nisi, inquantum, quam, quamvis, quando_
+`SCONJ` does not occur with any features.
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: [la-dep/mark]() (11742; 91% instances), [la-dep/cc]() (1217; 9% instances), [la-dep/advmod:emph]() (7; 0% instances), [la-dep/nmod]() (1; 0% instances), [la-dep/xcomp]() (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 8 different relations: [la-dep/mark]() (15573; 99% instances), [la-dep/mwe]() (153; 1% instances), [la-dep/cc]() (16; 0% instances), [la-dep/advmod]() (9; 0% instances), [la-dep/advmod:emph]() (8; 0% instances), [la-dep/nmod]() (2; 0% instances), [la-dep/case]() (1; 0% instances), [la-dep/xcomp]() (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 10 different parts of speech: [VERB]() (8537; 66% instances), [NOUN]() (2873; 22% instances), [ADJ]() (990; 8% instances), [PRON]() (326; 3% instances), [ADV]() (121; 1% instances), [NUM]() (84; 1% instances), [CONJ]() (31; 0% instances), [DET]() (3; 0% instances), [ADP]() (2; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: [VERB]() (10465; 66% instances), [NOUN]() (3220; 20% instances), [ADJ]() (1182; 7% instances), [PRON]() (382; 2% instances), [ADV]() (336; 2% instances), [NUM]() (90; 1% instances), [PROPN]() (43; 0% instances), [SCONJ]() (22; 0% instances), [CONJ]() (19; 0% instances), [ADP]() (3; 0% instances), [PUNCT]() (1; 0% instances)
 
-12911 (100%) `SCONJ` nodes are leaves.
+15704 (100%) `SCONJ` nodes are leaves.
 
-48 (0%) `SCONJ` nodes have one child.
+50 (0%) `SCONJ` nodes have one child.
 
 9 (0%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 10 different relations: [la-dep/neg]() (29; 44% instances), [la-dep/punct]() (14; 21% instances), [la-dep/advcl]() (9; 14% instances), [la-dep/advmod:emph]() (4; 6% instances), [la-dep/advmod]() (3; 5% instances), [la-dep/dep]() (3; 5% instances), [la-dep/cc]() (1; 2% instances), [la-dep/ccomp]() (1; 2% instances), [la-dep/mark]() (1; 2% instances), [la-dep/nmod]() (1; 2% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: [la-dep/mwe]() (43; 63% instances), [la-dep/punct]() (15; 22% instances), [la-dep/advcl]() (10; 15% instances)
 
-Children of `SCONJ` nodes belong to 6 different parts of speech: [ADV]() (35; 53% instances), [PUNCT]() (14; 21% instances), [VERB]() (7; 11% instances), [NOUN]() (5; 8% instances), [ADJ]() (4; 6% instances), [SCONJ]() (1; 2% instances)
+Children of `SCONJ` nodes belong to 8 different parts of speech: [SCONJ]() (22; 32% instances), [ADV]() (17; 25% instances), [PUNCT]() (14; 21% instances), [VERB]() (10; 15% instances), [NOUN]() (2; 3% instances), [ADJ]() (1; 1% instances), [ADP]() (1; 1% instances), [PRON]() (1; 1% instances)
 
 
 
@@ -191,58 +182,58 @@ Children of `SCONJ` nodes belong to 6 different parts of speech: [ADV]() (35; 53
 There are 42 `SCONJ` lemmas (1%), 50 `SCONJ` types (0%) and 5319 `SCONJ` tokens (3%).
 Out of 13 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 10 in number of types and 9 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: _ut, cum, si, quia, quod, ne, quoniam, dum, nisi, donec_
+The 10 most frequent `SCONJ` lemmas: <em>ut, cum, si, quia, quod, ne, quoniam, dum, nisi, donec</em>
 
-The 10 most frequent `SCONJ` types:  _ut, cum, si, quia, quod, ne, quoniam, dum, nisi, donec_
+The 10 most frequent `SCONJ` types:  <em>ut, cum, si, quia, quod, ne, quoniam, dum, nisi, donec</em>
 
-The 10 most frequent ambiguous lemmas: _ut_ ([SCONJ]() 1359, [ADV]() 291), _cum_ ([SCONJ]() 992, [ADP]() 838, [ADV]() 47), _si_ ([SCONJ]() 859, [ADV]() 12), _quia_ ([SCONJ]() 675, [ADV]() 31), _ne_ ([ADV]() 715, [SCONJ]() 249), _quoniam_ ([SCONJ]() 220, [ADV]() 8), _dum_ ([SCONJ]() 67, [ADV]() 2), _nisi_ ([ADV]() 106, [SCONJ]() 65), _quin_ ([SCONJ]() 28, [ADV]() 8), _etsi_ ([SCONJ]() 24, [ADV]() 6)
+The 10 most frequent ambiguous lemmas: <em>ut</em> ([SCONJ]() 1359, [ADV]() 291), <em>cum</em> ([SCONJ]() 992, [ADP]() 838, [ADV]() 47), <em>si</em> ([SCONJ]() 859, [ADV]() 12), <em>quia</em> ([SCONJ]() 675, [ADV]() 31), <em>ne</em> ([ADV]() 715, [SCONJ]() 249), <em>quoniam</em> ([SCONJ]() 220, [ADV]() 8), <em>dum</em> ([SCONJ]() 67, [ADV]() 2), <em>nisi</em> ([ADV]() 106, [SCONJ]() 65), <em>quin</em> ([SCONJ]() 28, [ADV]() 8), <em>etsi</em> ([SCONJ]() 24, [ADV]() 6)
 
-The 10 most frequent ambiguous types:  _ut_ ([SCONJ]() 1308, [ADV]() 325), _cum_ ([SCONJ]() 938, [ADP]() 832, [ADV]() 45), _si_ ([SCONJ]() 844, [ADV]() 11), _quia_ ([SCONJ]() 675, [ADV]() 31), _quod_ ([PRON]() 550, [SCONJ]() 474, [ADV]() 19), _ne_ ([ADV]() 704, [SCONJ]() 249), _quoniam_ ([SCONJ]() 218, [ADV]() 8), _dum_ ([SCONJ]() 58, [ADV]() 2), _nisi_ ([ADV]() 106, [SCONJ]() 64), _uti_ ([SCONJ]() 50, [VERB]() 14, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>ut</em> ([SCONJ]() 1308, [ADV]() 325), <em>cum</em> ([SCONJ]() 938, [ADP]() 832, [ADV]() 45), <em>si</em> ([SCONJ]() 844, [ADV]() 11), <em>quia</em> ([SCONJ]() 675, [ADV]() 31), <em>quod</em> ([PRON]() 550, [SCONJ]() 474, [ADV]() 19), <em>ne</em> ([ADV]() 704, [SCONJ]() 249), <em>quoniam</em> ([SCONJ]() 218, [ADV]() 8), <em>dum</em> ([SCONJ]() 58, [ADV]() 2), <em>nisi</em> ([ADV]() 106, [SCONJ]() 64), <em>uti</em> ([SCONJ]() 50, [VERB]() 14, [ADV]() 1)
 
 
-* _ut_
-  * [SCONJ]() 1308: _metu territare non sine causa fieri <b>ut</b> Gallia omni nobilitate spoliaretur_
-  * [ADV]() 325: _hunc ego accepi in senatu <b>ut</b> soleo sed nihil est illo homine lentius_
-* _cum_
-  * [SCONJ]() 938: _qui potui non videre <b>cum</b> per emporium Puteolanorum iter facerem_
-  * [ADP]() 832: _velle sese de re publica et summis utriusque rebus <b>cum</b> eo agere_
-  * [ADV]() 45: _Eandem virtutem istam veniet tempus <b>cum</b> graviter gemes_
-* _si_
-  * [SCONJ]() 844: _<b>si</b> id non fecissent longe iis fraternum nomen populi Romani afuturum_
-  * [ADV]() 11: _Domine <b>si</b> percutimus in gladio_
-* _quia_
-  * [SCONJ]() 675: _et videntes eum supra mare ambulantem turbati sunt dicentes <b>quia</b>_
-  * [ADV]() 31: _etiam Pater <b>quia</b> sic placuit ante te_
-* _quod_
-  * [PRON]() 550: _Tum demum Liscus oratione Caesaris adductus <b>quod</b> antea tacuerat proponit_
-  * [SCONJ]() 474: _accedit eo <b>quod</b> mihi non ut quisque in Epirum proficiscitur_
-  * [ADV]() 19: _<b>quod</b> si opus esset omnes in abrogando uterentur_
-* _ne_
-  * [ADV]() 704: _si <b>ne</b> id quidem nummi potius reddantur quam ullus sit scrupulus_
-  * [SCONJ]() 249: _per eos <b>ne</b> causam diceret se eripuit_
-* _quoniam_
-  * [SCONJ]() 218: _si quid in te peccavi ac potius <b>quoniam</b> peccavi ignosce_
-  * [ADV]() 8: _<b>quoniam</b> si est ex hominibus consilium hoc aut opus dissolvetur_
-* _dum_
-  * [SCONJ]() 58: _factum est autem <b>dum</b> irent et ipse intravit in quoddam castellum_
-  * [ADV]() 2: _<b>dum</b> acta et rumores vel etiam si qua certa habes de Caesare exspecto_
-* _nisi_
-  * [ADV]() 106: _numquam ante arbitror te epistulam meam legisse <b>nisi</b> mea manu scriptam_
-  * [SCONJ]() 64: _<b>nisi</b> subsidium sibi submittatur sese diutius sustinere non posse_
-* _uti_
-  * [SCONJ]() 50: _qua ex re futurum <b>uti</b> totius Galliae animi a se averterentur_
-  * [VERB]() 14: _ne metu necesse sit iis <b>uti</b> vereor_
-  * [ADV]() 1: _alter <b>uti</b> dixit Isocrates in Ephoro et Theopompo frenis eget alter calcaribus_
+* <em>ut</em>
+  * [SCONJ]() 1308: <em>metu territare non sine causa fieri <b>ut</b> Gallia omni nobilitate spoliaretur</em>
+  * [ADV]() 325: <em>hunc ego accepi in senatu <b>ut</b> soleo sed nihil est illo homine lentius</em>
+* <em>cum</em>
+  * [SCONJ]() 938: <em>qui potui non videre <b>cum</b> per emporium Puteolanorum iter facerem</em>
+  * [ADP]() 832: <em>velle sese de re publica et summis utriusque rebus <b>cum</b> eo agere</em>
+  * [ADV]() 45: <em>Eandem virtutem istam veniet tempus <b>cum</b> graviter gemes</em>
+* <em>si</em>
+  * [SCONJ]() 844: <em><b>si</b> id non fecissent longe iis fraternum nomen populi Romani afuturum</em>
+  * [ADV]() 11: <em>Domine <b>si</b> percutimus in gladio</em>
+* <em>quia</em>
+  * [SCONJ]() 675: <em>et videntes eum supra mare ambulantem turbati sunt dicentes <b>quia</b></em>
+  * [ADV]() 31: <em>etiam Pater <b>quia</b> sic placuit ante te</em>
+* <em>quod</em>
+  * [PRON]() 550: <em>Tum demum Liscus oratione Caesaris adductus <b>quod</b> antea tacuerat proponit</em>
+  * [SCONJ]() 474: <em>accedit eo <b>quod</b> mihi non ut quisque in Epirum proficiscitur</em>
+  * [ADV]() 19: <em><b>quod</b> si opus esset omnes in abrogando uterentur</em>
+* <em>ne</em>
+  * [ADV]() 704: <em>si <b>ne</b> id quidem nummi potius reddantur quam ullus sit scrupulus</em>
+  * [SCONJ]() 249: <em>per eos <b>ne</b> causam diceret se eripuit</em>
+* <em>quoniam</em>
+  * [SCONJ]() 218: <em>si quid in te peccavi ac potius <b>quoniam</b> peccavi ignosce</em>
+  * [ADV]() 8: <em><b>quoniam</b> si est ex hominibus consilium hoc aut opus dissolvetur</em>
+* <em>dum</em>
+  * [SCONJ]() 58: <em>factum est autem <b>dum</b> irent et ipse intravit in quoddam castellum</em>
+  * [ADV]() 2: <em><b>dum</b> acta et rumores vel etiam si qua certa habes de Caesare exspecto</em>
+* <em>nisi</em>
+  * [ADV]() 106: <em>numquam ante arbitror te epistulam meam legisse <b>nisi</b> mea manu scriptam</em>
+  * [SCONJ]() 64: <em><b>nisi</b> subsidium sibi submittatur sese diutius sustinere non posse</em>
+* <em>uti</em>
+  * [SCONJ]() 50: <em>qua ex re futurum <b>uti</b> totius Galliae animi a se averterentur</em>
+  * [VERB]() 14: <em>ne metu necesse sit iis <b>uti</b> vereor</em>
+  * [ADV]() 1: <em>alter <b>uti</b> dixit Isocrates in Ephoro et Theopompo frenis eget alter calcaribus</em>
 
 ## Morphology
 
 The form / lemma ratio of `SCONJ` is 1.190476 (the average of all parts of speech is 3.304580).
 
-The 1st highest number of forms (3) was observed with the lemma “antequam”: _ante-quam, ante.quam, antequam_
+The 1st highest number of forms (3) was observed with the lemma “antequam”: <em>ante-quam, ante.quam, antequam</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “posteaquam”: _Postea-quam, postea.quam, posteaquam_
+The 2nd highest number of forms (3) was observed with the lemma “posteaquam”: <em>Postea-quam, postea.quam, posteaquam</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “cum”: _cum, quom_
+The 3rd highest number of forms (2) was observed with the lemma “cum”: <em>cum, quom</em>.
 
 `SCONJ` does not occur with any features.
 

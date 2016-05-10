@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>please</em> ([INTJ]() 141, [VERB]() 1
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.016667 (the average of all parts of speech is 1.173588).
+The form / lemma ratio of `INTJ` is 1.016667 (the average of all parts of speech is 1.173797).
 
 The 1st highest number of forms (2) was observed with the lemma “oops”: <em>OOPS, Oops</em>.
 
@@ -97,4 +97,132 @@ The highest child degree of a `INTJ` node is 11.
 Children of `INTJ` nodes are attached using 15 different relations: [en-dep/punct]() (151; 63% instances), [en-dep/vocative]() (25; 11% instances), [en-dep/discourse]() (24; 10% instances), [en-dep/cc]() (7; 3% instances), [en-dep/conj]() (6; 3% instances), [en-dep/advmod]() (5; 2% instances), [en-dep/nmod]() (5; 2% instances), [en-dep/mark]() (4; 2% instances), [en-dep/case]() (2; 1% instances), [en-dep/cop]() (2; 1% instances), [en-dep/nsubj]() (2; 1% instances), [en-dep/parataxis]() (2; 1% instances), [en-dep/amod]() (1; 0% instances), [en-dep/neg]() (1; 0% instances), [en-dep/nmod:poss]() (1; 0% instances)
 
 Children of `INTJ` nodes belong to 12 different parts of speech: [PUNCT]() (151; 63% instances), [INTJ]() (29; 12% instances), [PROPN]() (18; 8% instances), [NOUN]() (11; 5% instances), [ADV]() (7; 3% instances), [CONJ]() (7; 3% instances), [SCONJ]() (4; 2% instances), [VERB]() (4; 2% instances), [DET]() (3; 1% instances), [ADP]() (2; 1% instances), [ADJ]() (1; 0% instances), [PRON]() (1; 0% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_English-ESL)
+
+There are 1 `INTJ` lemmas (6%), 1 `INTJ` types (6%) and 80 `INTJ` tokens (0%).
+Out of 17 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 7 in number of types and 15 in number of tokens.
+
+The 10 most frequent `INTJ` lemmas: <em>_</em>
+
+The 10 most frequent `INTJ` types:  <em>_</em>
+
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+
+The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+
+
+* <em>_</em>
+  * [NOUN]() 15986: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ <b>_</b> _</em>
+  * [VERB]() 15080: <em>_ <b>_</b> _ _ _ _ <b>_</b> _ _ _ _ <b>_</b> _ <b>_</b> _ _</em>
+  * [DET]() 10562: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
+  * [PRON]() 9758: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [PUNCT]() 9580: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b></em>
+  * [ADP]() 8546: <em>_ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _</em>
+  * [ADJ]() 5857: <em>_ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [ADV]() 5704: <em>_ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _</em>
+  * [AUX]() 4533: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _</em>
+  * [PART]() 3531: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _</em>
+  * [CONJ]() 3198: <em>_ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * [SCONJ]() 2520: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * [PROPN]() 1795: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _</em>
+  * [NUM]() 844: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [INTJ]() 80: <em>_ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
+  * [X]() 68: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
+  * [SYM]() 39: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _</em>
+
+## Morphology
+
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.000000).
+
+The 1st highest number of forms (1) was observed with the lemma “_”: <em>_</em>.
+
+`INTJ` does not occur with any features.
+
+
+## Relations
+
+`INTJ` nodes are attached to their parents using 8 different relations: [en-dep/discourse]() (68; 85% instances), [en-dep/dobj]() (4; 5% instances), [en-dep/root]() (3; 4% instances), [en-dep/advmod]() (1; 1% instances), [en-dep/compound]() (1; 1% instances), [en-dep/conj]() (1; 1% instances), [en-dep/nmod]() (1; 1% instances), [en-dep/xcomp]() (1; 1% instances)
+
+Parents of `INTJ` nodes belong to 6 different parts of speech: [VERB]() (60; 75% instances), [NOUN]() (7; 9% instances), [ADJ]() (6; 8% instances), [ROOT]() (3; 4% instances), [ADV]() (2; 3% instances), [INTJ]() (2; 3% instances)
+
+71 (89%) `INTJ` nodes are leaves.
+
+2 (3%) `INTJ` nodes have one child.
+
+3 (4%) `INTJ` nodes have two children.
+
+4 (5%) `INTJ` nodes have three or more children.
+
+The highest child degree of a `INTJ` node is 5.
+
+Children of `INTJ` nodes are attached using 11 different relations: [en-dep/punct]() (11; 46% instances), [en-dep/case]() (2; 8% instances), [en-dep/cc]() (2; 8% instances), [en-dep/conj]() (2; 8% instances), [en-dep/amod]() (1; 4% instances), [en-dep/det]() (1; 4% instances), [en-dep/discourse]() (1; 4% instances), [en-dep/mark]() (1; 4% instances), [en-dep/mwe]() (1; 4% instances), [en-dep/nmod]() (1; 4% instances), [en-dep/vocative]() (1; 4% instances)
+
+Children of `INTJ` nodes belong to 11 different parts of speech: [PUNCT]() (11; 46% instances), [ADP]() (2; 8% instances), [CONJ]() (2; 8% instances), [INTJ]() (2; 8% instances), [ADJ]() (1; 4% instances), [DET]() (1; 4% instances), [NOUN]() (1; 4% instances), [PRON]() (1; 4% instances), [PROPN]() (1; 4% instances), [SCONJ]() (1; 4% instances), [VERB]() (1; 4% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_English-LinES)
+
+There are 1 `INTJ` lemmas (6%), 25 `INTJ` types (0%) and 159 `INTJ` tokens (0%).
+Out of 17 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 10 in number of types and 15 in number of tokens.
+
+The 10 most frequent `INTJ` lemmas: <em>_</em>
+
+The 10 most frequent `INTJ` types:  <em>yes, well, oh, no, please, ah, eh, Adieu, Yeah, good-by</em>
+
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14939, [VERB]() 11076, [PUNCT]() 10025, [ADP]() 8281, [DET]() 7865, [PRON]() 7793, [ADJ]() 5305, [ADV]() 4610, [AUX]() 3168, [PROPN]() 2792, [CONJ]() 2535, [PART]() 2131, [SCONJ]() 1512, [NUM]() 581, [INTJ]() 159, [X]() 43, [SYM]() 6)
+
+The 10 most frequent ambiguous types:  <em>well</em> ([ADV]() 39, [INTJ]() 8), <em>no</em> ([DET]() 100, [ADV]() 27, [PRON]() 10, [INTJ]() 9), <em>please</em> ([INTJ]() 6, [VERB]() 1), <em>boom</em> ([NOUN]() 1, [INTJ]() 1)
+
+
+* <em>well</em>
+  * [ADV]() 39: <em>Or you might <b>well</b> fall out of the wrong fireplace –</em>
+  * [INTJ]() 8: <em>I have been in some of them , and ... <b>well</b> , we wo n't talk about that .</em>
+* <em>no</em>
+  * [DET]() 100: <em>Returning to it next day , I found Faulkner guilty of <b>no</b> offense .</em>
+  * [ADV]() 27: <em>Surely <b>no</b> more than a minute or two .</em>
+  * [PRON]() 10: <em>Margot Wentz said , looking at <b>no</b> one , That one ca n't say .</em>
+  * [INTJ]() 9: <em>But <b>no</b> , that did not seem possible .</em>
+* <em>please</em>
+  * [INTJ]() 6: <em>No questions , <b>please</b> , the young man said at last .</em>
+  * [VERB]() 1: <em>Or was Mr Eichelberger simply an executive with a client to <b>please</b> and a job to do a pure professional ?</em>
+* <em>boom</em>
+  * [NOUN]() 1: <em>First two times up , Kingsman hits solo shots , he said . Boom , <b>boom</b> . Big mothers – all the way to the moon .</em>
+  * [INTJ]() 1: <em>You do n't need ideas , you do n't need to move out of your chair , you simply go on producing a noise out of the magic box to keep the natives quiet – and now , <b>boom</b> , it 's all gone , including the only incentive they ever had , their pension .</em>
+
+## Morphology
+
+The form / lemma ratio of `INTJ` is 25.000000 (the average of all parts of speech is 597.705882).
+
+The 1st highest number of forms (25) was observed with the lemma “_”: <em>Adieu, Ave, Blimey, Er, HURRAH, Heavens, Hey, MUUUUUUM, Ough, Shh, So-o-o, Yeah, ach, ah, boom, bye-bye, eh, good-by, hello, mmh, no, oh, please, well, yes</em>.
+
+`INTJ` does not occur with any features.
+
+
+## Relations
+
+`INTJ` nodes are attached to their parents using 8 different relations: [en-dep/discourse]() (111; 70% instances), [en-dep/parataxis]() (16; 10% instances), [en-dep/dobj]() (14; 9% instances), [en-dep/root]() (9; 6% instances), [en-dep/advmod]() (5; 3% instances), [en-dep/conj]() (2; 1% instances), [en-dep/amod]() (1; 1% instances), [en-dep/appos]() (1; 1% instances)
+
+Parents of `INTJ` nodes belong to 11 different parts of speech: [VERB]() (92; 58% instances), [NOUN]() (15; 9% instances), [ADJ]() (12; 8% instances), [AUX]() (10; 6% instances), [ROOT]() (9; 6% instances), [INTJ]() (5; 3% instances), [PRON]() (5; 3% instances), [ADV]() (4; 3% instances), [PROPN]() (4; 3% instances), [PUNCT]() (2; 1% instances), [ADP]() (1; 1% instances)
+
+65 (41%) `INTJ` nodes are leaves.
+
+80 (50%) `INTJ` nodes have one child.
+
+9 (6%) `INTJ` nodes have two children.
+
+5 (3%) `INTJ` nodes have three or more children.
+
+The highest child degree of a `INTJ` node is 4.
+
+Children of `INTJ` nodes are attached using 13 different relations: [en-dep/punct]() (95; 83% instances), [en-dep/advmod]() (4; 3% instances), [en-dep/parataxis]() (3; 3% instances), [en-dep/cc]() (2; 2% instances), [en-dep/discourse]() (2; 2% instances), [en-dep/vocative]() (2; 2% instances), [en-dep/advcl]() (1; 1% instances), [en-dep/amod]() (1; 1% instances), [en-dep/conj]() (1; 1% instances), [en-dep/det]() (1; 1% instances), [en-dep/dobj]() (1; 1% instances), [en-dep/nmod]() (1; 1% instances), [en-dep/nsubj]() (1; 1% instances)
+
+Children of `INTJ` nodes belong to 11 different parts of speech: [PUNCT]() (95; 83% instances), [INTJ]() (5; 4% instances), [NOUN]() (3; 3% instances), [PROPN]() (3; 3% instances), [CONJ]() (2; 2% instances), [VERB]() (2; 2% instances), [ADJ]() (1; 1% instances), [ADP]() (1; 1% instances), [ADV]() (1; 1% instances), [DET]() (1; 1% instances), [X]() (1; 1% instances)
 

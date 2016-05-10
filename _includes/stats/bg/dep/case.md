@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-23055 nodes (15%) are attached to their parents as `case`.
+21608 nodes (14%) are attached to their parents as `case`.
 
-21602 instances of `case` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.43543699848189.
+21602 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4637634209552.
 
-The following 13 pairs of parts of speech are connected with `case`: [bg-pos/NOUN]()-[bg-pos/ADP]() (17418; 76% instances), [bg-pos/PROPN]()-[bg-pos/ADP]() (2557; 11% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (1053; 5% instances), [bg-pos/PRON]()-[bg-pos/ADP]() (946; 4% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (386; 2% instances), [bg-pos/ADJ]()-[bg-pos/ADP]() (263; 1% instances), [bg-pos/NUM]()-[bg-pos/ADP]() (171; 1% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (135; 1% instances), [bg-pos/DET]()-[bg-pos/ADP]() (93; 0% instances), [bg-pos/ADV]()-[bg-pos/ADP]() (18; 0% instances), [bg-pos/NUM]()-[bg-pos/PRON]() (7; 0% instances), [bg-pos/DET]()-[bg-pos/PRON]() (6; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: [bg-pos/NOUN]()-[bg-pos/ADP]() (17421; 81% instances), [bg-pos/PROPN]()-[bg-pos/ADP]() (2557; 12% instances), [bg-pos/PRON]()-[bg-pos/ADP]() (946; 4% instances), [bg-pos/ADJ]()-[bg-pos/ADP]() (268; 1% instances), [bg-pos/NUM]()-[bg-pos/ADP]() (171; 1% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (125; 1% instances), [bg-pos/DET]()-[bg-pos/ADP]() (93; 0% instances), [bg-pos/ADV]()-[bg-pos/ADP]() (21; 0% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (6; 0% instances).
 
 
 ~~~ conllu
@@ -48,18 +48,18 @@ The following 13 pairs of parts of speech are connected with `case`: [bg-pos/NOU
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 case	color:blue
-1	Присъстващите	присъствам	ADJ	Vpiicar-p-d	Aspect=Imp|Definite=Def|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	nsubj	_	_
-2	на	на	ADP	R	_	3	case	_	_
-3	събранието	събрание	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	nmod	_	_
-4	сложиха	сложа-(се)	VERB	Vpptf-o3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	подписите	подпис	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	4	dobj	_	_
-6	си	свой	PRON	Psxto	Case=Nom|Poss=Yes|PronType=Prs|Reflex=Yes	5	case	_	_
-7	.	.	PUNCT	punct	_	4	punct	_	_
+# visual-style 5 4 case	color:blue
+1	Съвсем	съвсем	ADV	Dq	_	2	advmod	_	_
+2	загуби	загубя-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	власт	власт	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	dobj	_	_
+4	над	над	ADP	R	_	5	case	_	_
+5	себе	себе	PRON	Ppxla	Case=Acc|PronType=Prs|Reflex=Yes	3	nmod	_	_
+6	си	си	PART	T	_	5	mwe	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
 
 ~~~
 

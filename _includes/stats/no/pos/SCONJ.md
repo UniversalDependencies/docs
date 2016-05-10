@@ -13,13 +13,13 @@ The 10 most frequent `SCONJ` types:  <em>at, når, om, da, fordi, der, hvis, men
 
 The 10 most frequent ambiguous lemmas: <em>at</em> ([SCONJ]() 3769, [X]() 4), <em>når</em> ([SCONJ]() 499, [ADV]() 26), <em>om</em> ([ADP]() 1597, [SCONJ]() 473, [X]() 1), <em>da</em> ([SCONJ]() 335, [ADV]() 310, [X]() 1), <em>fordi</em> ([SCONJ]() 244, [X]() 1), <em>der</em> ([SCONJ]() 238, [ADV]() 222), <em>hvis</em> ([SCONJ]() 235, [PRON]() 4, [DET]() 1), <em>før</em> ([ADP]() 179, [SCONJ]() 175, [ADV]() 3), <em>siden</em> ([ADV]() 105, [SCONJ]() 68, [ADP]() 56), <em>enn</em> ([ADP]() 379, [SCONJ]() 48, [ADV]() 2)
 
-The 10 most frequent ambiguous types:  <em>at</em> ([SCONJ]() 3681, [ADP]() 4, [X]() 4, [DET]() 2), <em>når</em> ([SCONJ]() 364, [ADV]() 17, [VERB]() 8), <em>om</em> ([ADP]() 1572, [SCONJ]() 443, [X]() 1), <em>da</em> ([SCONJ]() 236, [ADV]() 208, [X]() 1), <em>fordi</em> ([SCONJ]() 224, [X]() 1), <em>der</em> ([SCONJ]() 233, [ADV]() 171, [PRON]() 1), <em>hvis</em> ([SCONJ]() 128, [PRON]() 4, [DET]() 1), <em>før</em> ([SCONJ]() 168, [ADP]() 159, [ADV]() 3), <em>siden</em> ([ADV]() 98, [SCONJ]() 53, [ADP]() 49, [NOUN]() 32), <em>enn</em> ([ADP]() 373, [SCONJ]() 46, [ADV]() 2)
+The 10 most frequent ambiguous types:  <em>at</em> ([SCONJ]() 3681, [X]() 4, [ADP]() 4, [DET]() 2), <em>når</em> ([SCONJ]() 364, [ADV]() 17, [VERB]() 8), <em>om</em> ([ADP]() 1572, [SCONJ]() 443, [X]() 1), <em>da</em> ([SCONJ]() 236, [ADV]() 208, [X]() 1), <em>fordi</em> ([SCONJ]() 224, [X]() 1), <em>der</em> ([SCONJ]() 233, [ADV]() 171, [PRON]() 1), <em>hvis</em> ([SCONJ]() 128, [PRON]() 4, [DET]() 1), <em>før</em> ([SCONJ]() 168, [ADP]() 159, [ADV]() 3), <em>siden</em> ([ADV]() 98, [SCONJ]() 53, [ADP]() 49, [NOUN]() 32), <em>enn</em> ([ADP]() 373, [SCONJ]() 46, [ADV]() 2)
 
 
 * <em>at</em>
   * [SCONJ]() 3681: <em>Dette uaktet <b>at</b> også han selv har underskrevet dommen .</em>
-  * [ADP]() 4: <em>I bunnen ligger den « vanlige » økningen i bruken av oljepenger som følger <b>at</b> den såkalte handlingsregelen :</em>
   * [X]() 4: <em>« It seemed like a great idea <b>at</b> the time . »</em>
+  * [ADP]() 4: <em>I bunnen ligger den « vanlige » økningen i bruken av oljepenger som følger <b>at</b> den såkalte handlingsregelen :</em>
   * [DET]() 2: <em>Statsminister Benjamin Netanyahu sier han er sjokkert etter <b>at</b> moskeangrep i Israel .</em>
 * <em>når</em>
   * [SCONJ]() 364: <em>Det er alltid så vanskelig <b>når</b> man går på puben og blir fristet .</em>
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>at</em> ([SCONJ]() 3681, [ADP]() 4, [
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.111111 (the average of all parts of speech is 1.382585).
+The form / lemma ratio of `SCONJ` is 1.111111 (the average of all parts of speech is 1.382722).
 
 The 1st highest number of forms (2) was observed with the lemma “at”: <em>at, av</em>.
 

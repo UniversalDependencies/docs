@@ -4,30 +4,26 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 25 `PUNCT` lemmas (0%), 25 `PUNCT` types (0%) and 29981 `PUNCT` tokens (13%).
+There are 24 `PUNCT` lemmas (0%), 24 `PUNCT` types (0%) and 29967 `PUNCT` tokens (13%).
 Out of 17 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 12 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., «, », ), (, --, :, ?, ;</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., «, », ), (, --, :, ?, ;</em>
 
-The 10 most frequent ambiguous lemmas: <em>,</em> ([PUNCT]() 13450, [PROPN]() 1), <em>&</em> ([PUNCT]() 14, [NOUN]() 1, [CONJ]() 1), <em>/</em> ([SYM]() 19, [PUNCT]() 9, [CONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>,</em> ([PUNCT]() 13450, [PROPN]() 1), <em>/</em> ([SYM]() 19, [PUNCT]() 9, [CONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>&</em> ([PUNCT]() 14, [NOUN]() 1, [CONJ]() 1), <em>/</em> ([SYM]() 19, [PUNCT]() 9, [CONJ]() 1)
+The 10 most frequent ambiguous types:  <em>/</em> ([SYM]() 19, [PUNCT]() 9, [CONJ]() 1)
 
 
-* <em>&</em>
-  * [PUNCT]() 14: <em>O projeto é de as empresas Xerox e Ernst <b>&</b> Rubican .</em>
-  * [NOUN]() 1: <em>Bill nunca se lhe dirigiu por o nome e despedia- se com um enigmático " <b>&</b> " , que em linguagem de correio electrónico significa « responda » .</em>
-  * [CONJ]() 1: <em>Em o dia em que Wilson inventar o tempo <b>&</b> o modo de combinar a tradição ( de que se tem aproximado progressivamente , como o mostra , de forma exemplar , o álbum « Blue Skies » ) com os novos sons que lhe adubaram a voz ( de o rap e hip-hop a a inquietação experimental vivida ao lado de Steve Coleman ) , uma nova porta se abrirá a o jazz vocal .</em>
 * <em>/</em>
   * [SYM]() 19: <em>Uma por a dupla BFE <b>/</b> Salomon Brothers e outra por o BPI em associação com a UBS ( Union des Banques Suisses ) .</em>
   * [PUNCT]() 9: <em>Um friso inenarrável de personagens marginais e <b>/</b> ou marginalizadas , com o pós-guerra em pano de fundo .</em>
-  * [CONJ]() 1: <em>Apesar de o grotesco de a situação , qualquer caloiro que procurasse saber de as diligências que necessita de efectuar para se inscrever em Ciências , deparava com uma longa lista de preceitos , intitulada « Aviso » e que explicava que todos_os colocados em a faculdade « em o ano lectivo de 1994 / 95 ( 1º ano <b>/</b> 1ª vez ) farão a sua matrícula por via postal ( correio registado ) » , a o_que se seguia uma listagem de os documentos a enviar .</em>
+  * [CONJ]() 1: <em>Apesar de o grotesco de a situação , qualquer caloiro que procurasse saber de as diligências que necessita de efectuar para se inscrever em Ciências , deparava com uma longa lista de preceitos , intitulada « Aviso » e que explicava que todos os colocados em a faculdade « em o ano lectivo de 1994 / 95 ( 1º ano <b>/</b> 1ª vez ) farão a sua matrícula por via postal ( correio registado ) » , a o que se seguia uma listagem de os documentos a enviar .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.447246).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.447797).
 
 The 1st highest number of forms (2) was observed with the lemma “--”: <em>-, --</em>.
 
@@ -35,22 +31,16 @@ The 2nd highest number of forms (1) was observed with the lemma “!”: <em>!</
 
 The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
-`PUNCT` occurs with 2 features: [pt-feat/Number]() (57; 0% instances), [pt-feat/Gender]() (56; 0% instances)
-
-`PUNCT` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
-
-`PUNCT` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (29924 tokens).
-Examples: <em>,, ., «, », ), (, --, :, ?, ;</em>
+`PUNCT` does not occur with any features.
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 3 different relations: [pt-dep/punct]() (29924; 100% instances), [pt-dep/name]() (54; 0% instances), [pt-dep/compound]() (3; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: [pt-dep/punct]() (29964; 100% instances), [pt-dep/compound]() (3; 0% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: [VERB]() (15349; 51% instances), [NOUN]() (8042; 27% instances), [PROPN]() (4237; 14% instances), [ADJ]() (1297; 4% instances), [PRON]() (348; 1% instances), [ADV]() (204; 1% instances), [NUM]() (180; 1% instances), [SYM]() (91; 0% instances), [DET]() (86; 0% instances), [ADP]() (63; 0% instances), [CONJ]() (34; 0% instances), [INTJ]() (23; 0% instances), [AUX]() (13; 0% instances), [SCONJ]() (13; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: [VERB]() (15231; 51% instances), [NOUN]() (8110; 27% instances), [PROPN]() (4241; 14% instances), [ADJ]() (1338; 4% instances), [PRON]() (316; 1% instances), [NUM]() (207; 1% instances), [ADV]() (202; 1% instances), [DET]() (122; 0% instances), [SYM]() (91; 0% instances), [ADP]() (31; 0% instances), [CONJ]() (29; 0% instances), [INTJ]() (22; 0% instances), [AUX]() (13; 0% instances), [SCONJ]() (13; 0% instances), [PUNCT]() (1; 0% instances)
 
-29980 (100%) `PUNCT` nodes are leaves.
+29966 (100%) `PUNCT` nodes are leaves.
 
 0 (0%) `PUNCT` nodes have one child.
 

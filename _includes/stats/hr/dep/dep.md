@@ -31,6 +31,28 @@ The following 5 pairs of parts of speech are connected with `dep`: [hr-pos/ADJ](
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 dep	color:blue
+1	Okvirni	okviran	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	zakon	zakon	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	provodit	provoditi	VERB	_	VerbForm=Inf	0	root	_	_
+4	će	htjeti	AUX	_	Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+5	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	3	compound	_	_
+6	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	3	dep	_	_
+7	u	u	ADP	_	Case=Loc	8	case	_	_
+8	fazama	faza	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	3	nmod	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	kaže	kazati	VERB	_	Number=Sing|Person=3|Tense=Pres	3	parataxis	_	_
+11	Diamantopoulou	Diamantopoulou	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 11	bgColor:blue
@@ -59,43 +81,6 @@ The following 5 pairs of parts of speech are connected with `dep`: [hr-pos/ADJ](
 21	to	taj	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	22	dobj	_	_
 22	odbili	odbiti	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	15	conj	_	_
 23	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 13 dep	color:blue
-1	Kampanja	kampanja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	4	aux	_	_
-3	službeno	službeno	ADV	_	Degree=Pos	4	advmod	_	_
-4	započela	započeti	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
-5	u	u	ADP	_	Case=Acc	6	case	_	_
-6	subotu	subota	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
-7	(	(	PUNCT	_	_	9	punct	_	_
-8	3.	3.	NUM	_	NumType=Ord	9	nummod	_	_
-9	studenog	studeni	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	parataxis	_	_
-10	)	)	PUNCT	_	_	9	punct	_	_
-11	,	,	PUNCT	_	_	15	punct	_	_
-12	kada	kada	ADV	_	Degree=Pos	15	mark	_	_
-13	kada	kada	ADV	_	Degree=Pos	15	dep	_	_
-14	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	15	aux	_	_
-15	istekao	isteći	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	advcl	_	_
-16	krajnji	krajnji	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
-17	rok	rok	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
-18	za	za	ADP	_	Case=Acc	20	case	_	_
-19	sve	sav	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	20	det	_	_
-20	kandidate	kandidat	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	17	nmod	_	_
-21	za	za	ADP	_	Case=Acc	22	case	_	_
-22	predaju	predaja	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	nmod	_	_
-23	lista	lista	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	22	nmod	_	_
-24	Državnom	državan	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	26	compound	_	_
-25	izbornom	izboran	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	26	compound	_	_
-26	povjerenstvu	povjerenstvo	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	22	nmod	_	_
-27	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

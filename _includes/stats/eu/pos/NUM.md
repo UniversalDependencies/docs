@@ -13,7 +13,7 @@ The 10 most frequent `NUM` types:  <em>bat, bi, azken, lehen, hiru, batean, biga
 
 The 10 most frequent ambiguous lemmas: <em>bat</em> ([NUM]() 1185, [ADP]() 30, [NOUN]() 5), <em>azken</em> ([NUM]() 270, [NOUN]() 3), <em>lehen</em> ([NUM]() 251, [ADV]() 29, [NOUN]() 1), <em>bigarren</em> ([NUM]() 106, [NOUN]() 2), <em>lau</em> ([NUM]() 91, [ADJ]() 3), <em>lehenengo</em> ([NUM]() 54, [ADV]() 3), <em>sei</em> ([NUM]() 52, [NOUN]() 1), <em>hirugarren</em> ([NUM]() 48, [NOUN]() 1), <em>5</em> ([NUM]() 18, [NOUN]() 1), <em>25</em> ([NUM]() 17, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>lehen</em> ([NUM]() 192, [ADV]() 23), <em>batean</em> ([NUM]() 150, [ADV]() 3), <em>lau</em> ([NUM]() 71, [ADJ]() 1), <em>lehenengo</em> ([NUM]() 38, [ADV]() 2), <em>batera</em> ([NUM]() 32, [ADP]() 30, [ADV]() 5, [VERB]() 1), <em>bana</em> ([NUM]() 14, [VERB]() 3), <em>lehendabiziko</em> ([NUM]() 6, [ADV]() 1, [ADJ]() 1), <em>aurrena</em> ([NUM]() 5, [ADV]() 5), <em>aurreneko</em> ([ADJ]() 9, [NUM]() 3), <em>azkenak</em> ([NUM]() 2, [NOUN]() 2)
+The 10 most frequent ambiguous types:  <em>lehen</em> ([NUM]() 192, [ADV]() 23), <em>batean</em> ([NUM]() 150, [ADV]() 3), <em>lau</em> ([NUM]() 71, [ADJ]() 1), <em>lehenengo</em> ([NUM]() 38, [ADV]() 2), <em>batera</em> ([NUM]() 32, [ADP]() 30, [ADV]() 5, [VERB]() 1), <em>bana</em> ([NUM]() 14, [VERB]() 3), <em>lehendabiziko</em> ([NUM]() 6, [ADJ]() 1, [ADV]() 1), <em>aurrena</em> ([ADV]() 5, [NUM]() 5), <em>aurreneko</em> ([ADJ]() 9, [NUM]() 3), <em>azkenak</em> ([NUM]() 2, [NOUN]() 2)
 
 
 * <em>lehen</em>
@@ -38,11 +38,11 @@ The 10 most frequent ambiguous types:  <em>lehen</em> ([NUM]() 192, [ADV]() 23),
   * [VERB]() 3: <em>Nahasturak metodo fisikoak erabiliz <b>bana</b> daitezkeen arren , ez da gauza bera gertatzen substantzia puruekin :</em>
 * <em>lehendabiziko</em>
   * [NUM]() 6: <em>Tour hartan bistaratu zitzaizkon <b>lehendabiziko</b> aldiz , mendian zituen benetako zailtasunak .</em>
-  * [ADV]() 1: <em>Gure <b>lehendabiziko</b> kontzertu ohorezkoari hasiera emateko zorian ginen .</em>
   * [ADJ]() 1: <em>Lehen bortzetan sartzea lortu zuen Once taldeko David Cañada espainiarrak , bere <b>lehendabiziko</b> Tourrean , Zulleren aitzinetik .</em>
+  * [ADV]() 1: <em>Gure <b>lehendabiziko</b> kontzertu ohorezkoari hasiera emateko zorian ginen .</em>
 * <em>aurrena</em>
-  * [NUM]() 5: <em>Orio izan zen <b>aurrena</b> erlojupekoari ekiten eta oriotarrek ez zuten tarterik utzi ezustekorako .</em>
   * [ADV]() 5: <em>Harper fitxatu zuen <b>aurrena</b> .</em>
+  * [NUM]() 5: <em>Orio izan zen <b>aurrena</b> erlojupekoari ekiten eta oriotarrek ez zuten tarterik utzi ezustekorako .</em>
 * <em>aurreneko</em>
   * [ADJ]() 9: <em>Kuerteni irabazi zion <b>aurreneko</b> saioan , eta Kafelnikovi atzo .</em>
   * [NUM]() 3: <em>1967an egin zuen Txinak <b>aurreneko</b> leherketa termonuklearra .</em>

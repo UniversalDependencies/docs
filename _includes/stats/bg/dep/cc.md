@@ -8,28 +8,31 @@ This relation is universal.
 
 4869 nodes (3%) are attached to their parents as `cc`.
 
-3825 instances of `cc` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.65619223659889.
+3826 instances of `cc` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.6241528034504.
 
-The following 20 pairs of parts of speech are connected with `cc`: [bg-pos/NOUN]()-[bg-pos/CONJ]() (2022; 42% instances), [bg-pos/VERB]()-[bg-pos/CONJ]() (1894; 39% instances), [bg-pos/PROPN]()-[bg-pos/CONJ]() (402; 8% instances), [bg-pos/ADJ]()-[bg-pos/CONJ]() (289; 6% instances), [bg-pos/ADV]()-[bg-pos/CONJ]() (77; 2% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (54; 1% instances), [bg-pos/PRON]()-[bg-pos/CONJ]() (49; 1% instances), [bg-pos/NUM]()-[bg-pos/CONJ]() (32; 1% instances), [bg-pos/DET]()-[bg-pos/CONJ]() (15; 0% instances), [bg-pos/PART]()-[bg-pos/CONJ]() (8; 0% instances), [bg-pos/ADP]()-[bg-pos/CONJ]() (6; 0% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (4; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/SCONJ]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (2; 0% instances), [bg-pos/CONJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/INTJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/ADV]() (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `cc`: [bg-pos/NOUN]()-[bg-pos/CONJ]() (2124; 44% instances), [bg-pos/VERB]()-[bg-pos/CONJ]() (1679; 34% instances), [bg-pos/PROPN]()-[bg-pos/CONJ]() (406; 8% instances), [bg-pos/ADJ]()-[bg-pos/CONJ]() (366; 8% instances), [bg-pos/ADV]()-[bg-pos/CONJ]() (105; 2% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (54; 1% instances), [bg-pos/PRON]()-[bg-pos/CONJ]() (53; 1% instances), [bg-pos/NUM]()-[bg-pos/CONJ]() (32; 1% instances), [bg-pos/DET]()-[bg-pos/CONJ]() (15; 0% instances), [bg-pos/PART]()-[bg-pos/CONJ]() (8; 0% instances), [bg-pos/ADP]()-[bg-pos/CONJ]() (6; 0% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (4; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/SCONJ]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/SCONJ]() (1; 0% instances), [bg-pos/CONJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/INTJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 cc	color:blue
-1	С	с	ADP	R	_	3	case	_	_
-2	техния	наш	DET	Pszl-s3mh	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
-3	живот	живот	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	8	iobj	_	_
-4	и	и	CONJ	Cp	_	3	cc	_	_
-5	творчество	творчество	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	3	conj	_	_
-6	вече	вече	ADV	Dt	_	8	advmod	_	_
-7	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	8	expl	_	_
-8	занимава	занимавам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9	историята	история	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	8	nsubj	_	_
-10	.	.	PUNCT	punct	_	8	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 9 cc	color:blue
+1	Дете	дете	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	бях	съм	VERB	Vxitf-t1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	стар	стар	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	_
+6	ли	ли	PART	Ti	_	5	discourse	_	_
+7	бях	съм	VERB	Vxitf-t1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	5	cop	_	_
+8	,	,	PUNCT	punct	_	9	punct	_	_
+9	или	или	CONJ	Cp	_	1	cc	_	_
+10	бях	съм	VERB	Vxitf-t1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	12	cop	_	_
+11	вече	вече	ADV	Dt	_	12	advmod	_	_
+12	мъртъв	мъртъв	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	_
+13	?	?	PUNCT	punct	_	1	punct	_	_
 
 ~~~
 
@@ -51,7 +54,7 @@ The following 20 pairs of parts of speech are connected with `cc`: [bg-pos/NOUN]
 9	че	че	SCONJ	Cs	_	12	mark	_	_
 10	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	12	expl	_	_
 11	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
-12	свършило	свърша-(се)	VERB	Vpptcao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	_
+12	свършило	свърша-(се)	VERB	Vpptcao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	ccomp	_	_
 13	.	.	PUNCT	punct	_	7	punct	_	_
 
 ~~~

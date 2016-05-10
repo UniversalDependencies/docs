@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `dislocated`: [fa-po
 2	چه	_	ADV	ADV_I	PronType=Int	3	det	_	_
 3	جوری	_	NOUN	N_SING	Number=Sing	1	ccomp	_	_
 4	است	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	3	cop	_	_
-5	که	_	SCONJ	CON	_	11	mark	_	_
+5	که	که	SCONJ	CON	_	11	mark	_	_
 6	تهیه‌کننده	_	NOUN	N_SING	Number=Sing	11	dislocated	_	_
 7	خود	_	PRON	PRO	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	nsubj	_	_
 8	ش	_	PRON	PRO	Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	_
@@ -70,7 +70,7 @@ The following 8 pairs of parts of speech are connected with `dislocated`: [fa-po
 2	همه	_	PRON	PRO	PronType=Tot	12	nsubj	_	_
 3	مورد	_	ADP	P	_	4	case	_	_
 4	توجه	_	NOUN	N_SING	Number=Sing	12	nmod	_	_
-5	و	_	CONJ	CON	_	4	cc	_	_
+5	و	و	CONJ	CON	_	4	cc	_	_
 6	التفات	_	NOUN	N_SING	Number=Sing	4	conj	_	_
 7	رهبر	_	NOUN	N_SING	Number=Sing	6	nmod:poss	_	_
 8	معظم	_	ADJ	ADJ	Degree=Pos	7	amod	_	_

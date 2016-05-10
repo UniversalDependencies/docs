@@ -9,9 +9,9 @@ This relation is universal.
 20045 nodes (6%) are attached to their parents as `root`.
 
 20045 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.72821152407084.
+Average distance between parent and child is 4.72726365677226.
 
-The following 14 pairs of parts of speech are connected with `root`: [no-pos/ROOT]()-[no-pos/VERB]() (13779; 69% instances), [no-pos/ROOT]()-[no-pos/NOUN]() (2919; 15% instances), [no-pos/ROOT]()-[no-pos/ADJ]() (2071; 10% instances), [no-pos/ROOT]()-[no-pos/PROPN]() (520; 3% instances), [no-pos/ROOT]()-[no-pos/PRON]() (242; 1% instances), [no-pos/ROOT]()-[no-pos/ADV]() (169; 1% instances), [no-pos/ROOT]()-[no-pos/ADP]() (79; 0% instances), [no-pos/ROOT]()-[no-pos/DET]() (76; 0% instances), [no-pos/ROOT]()-[no-pos/INTJ]() (75; 0% instances), [no-pos/ROOT]()-[no-pos/NUM]() (54; 0% instances), [no-pos/ROOT]()-[no-pos/X]() (51; 0% instances), [no-pos/ROOT]()-[no-pos/CONJ]() (5; 0% instances), [no-pos/ROOT]()-[no-pos/SYM]() (4; 0% instances), [no-pos/ROOT]()-[no-pos/PUNCT]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: [no-pos/ROOT]()-[no-pos/VERB]() (13780; 69% instances), [no-pos/ROOT]()-[no-pos/NOUN]() (2918; 15% instances), [no-pos/ROOT]()-[no-pos/ADJ]() (2071; 10% instances), [no-pos/ROOT]()-[no-pos/PROPN]() (520; 3% instances), [no-pos/ROOT]()-[no-pos/PRON]() (242; 1% instances), [no-pos/ROOT]()-[no-pos/ADV]() (169; 1% instances), [no-pos/ROOT]()-[no-pos/ADP]() (79; 0% instances), [no-pos/ROOT]()-[no-pos/DET]() (76; 0% instances), [no-pos/ROOT]()-[no-pos/INTJ]() (75; 0% instances), [no-pos/ROOT]()-[no-pos/NUM]() (54; 0% instances), [no-pos/ROOT]()-[no-pos/X]() (51; 0% instances), [no-pos/ROOT]()-[no-pos/CONJ]() (5; 0% instances), [no-pos/ROOT]()-[no-pos/SYM]() (4; 0% instances), [no-pos/ROOT]()-[no-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 14 pairs of parts of speech are connected with `root`: [no-pos/ROO
 3	på	på	ADP	_	_	4	case	_	_
 4	vei	vei	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	til	til	ADP	_	_	8	case	_	_
-6	sin	sin	DET	_	Gender=Masc|Number=Sing|Poss=Yes	8	nmod	_	_
+6	sin	sin	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
 8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
 9	.	$.	PUNCT	_	_	4	punct	_	_

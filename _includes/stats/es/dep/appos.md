@@ -74,3 +74,78 @@ The following 73 pairs of parts of speech are connected with `appos`: [es-pos/NO
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+7604 nodes (1%) are attached to their parents as `appos`.
+
+7539 instances of `appos` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.22225144660705.
+
+The following 53 pairs of parts of speech are connected with `appos`: [es-pos/NOUN]()-[es-pos/PROPN]() (3655; 48% instances), [es-pos/NOUN]()-[es-pos/NOUN]() (1875; 25% instances), [es-pos/PROPN]()-[es-pos/NOUN]() (1030; 14% instances), [es-pos/NOUN]()-[es-pos/NUM]() (284; 4% instances), [es-pos/NOUN]()-[es-pos/PRON]() (110; 1% instances), [es-pos/PROPN]()-[es-pos/NUM]() (90; 1% instances), [es-pos/NOUN]()-[es-pos/ADJ]() (71; 1% instances), [es-pos/NUM]()-[es-pos/NOUN]() (57; 1% instances), [es-pos/DET]()-[es-pos/NOUN]() (49; 1% instances), [es-pos/NUM]()-[es-pos/NUM]() (44; 1% instances), [es-pos/PRON]()-[es-pos/NOUN]() (42; 1% instances), [es-pos/NUM]()-[es-pos/PROPN]() (31; 0% instances), [es-pos/PROPN]()-[es-pos/PRON]() (26; 0% instances), [es-pos/PRON]()-[es-pos/PROPN]() (25; 0% instances), [es-pos/NOUN]()-[es-pos/SYM]() (24; 0% instances), [es-pos/DET]()-[es-pos/PROPN]() (22; 0% instances), [es-pos/NOUN]()-[es-pos/VERB]() (21; 0% instances), [es-pos/PROPN]()-[es-pos/PROPN]() (21; 0% instances), [es-pos/PRON]()-[es-pos/PRON]() (18; 0% instances), [es-pos/NOUN]()-[es-pos/ADV]() (12; 0% instances), [es-pos/PROPN]()-[es-pos/SYM]() (12; 0% instances), [es-pos/PROPN]()-[es-pos/ADJ]() (11; 0% instances), [es-pos/ADV]()-[es-pos/NOUN]() (6; 0% instances), [es-pos/NUM]()-[es-pos/PRON]() (6; 0% instances), [es-pos/PRON]()-[es-pos/ADJ]() (6; 0% instances), [es-pos/PROPN]()-[es-pos/VERB]() (6; 0% instances), [es-pos/SYM]()-[es-pos/NOUN]() (5; 0% instances), [es-pos/NUM]()-[es-pos/ADJ]() (4; 0% instances), [es-pos/PRON]()-[es-pos/VERB]() (4; 0% instances), [es-pos/DET]()-[es-pos/ADJ]() (3; 0% instances), [es-pos/NOUN]()-[es-pos/ADP]() (3; 0% instances), [es-pos/NOUN]()-[es-pos/CONJ]() (3; 0% instances), [es-pos/SYM]()-[es-pos/ADJ]() (3; 0% instances), [es-pos/SYM]()-[es-pos/SYM]() (3; 0% instances), [es-pos/ADV]()-[es-pos/PROPN]() (2; 0% instances), [es-pos/PRON]()-[es-pos/AUX]() (2; 0% instances), [es-pos/SYM]()-[es-pos/PRON]() (2; 0% instances), [es-pos/ADJ]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/ADJ]()-[es-pos/PRON]() (1; 0% instances), [es-pos/ADJ]()-[es-pos/PROPN]() (1; 0% instances), [es-pos/ADP]()-[es-pos/PROPN]() (1; 0% instances), [es-pos/ADV]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/ADV]()-[es-pos/PRON]() (1; 0% instances), [es-pos/CONJ]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/CONJ]()-[es-pos/PROPN]() (1; 0% instances), [es-pos/DET]()-[es-pos/NUM]() (1; 0% instances), [es-pos/DET]()-[es-pos/VERB]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/DET]() (1; 0% instances), [es-pos/NUM]()-[es-pos/SYM]() (1; 0% instances), [es-pos/PART]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/PRON]()-[es-pos/DET]() (1; 0% instances), [es-pos/PRON]()-[es-pos/NUM]() (1; 0% instances), [es-pos/SCONJ]()-[es-pos/PRON]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 appos	color:blue
+1	Lo	él	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	dobj	_	_
+2	remataron	rematar	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
+3	-	-	PUNCT	PUNCT	PunctType=Dash	2	punct	_	_
+4	,	,	PUNCT	PUNCT	PunctType=Comm	2	punct	_	_
+5	explica	explicar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	su	su	DET	DET	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	tía	tía	NOUN	NOUN	Gender=Fem|Number=Sing	5	nsubj	_	_
+8	Cristia	Cristia	PROPN	PROPN	_	7	appos	_	_
+9	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 appos	color:blue
+1	Eras	ser	VERB	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	ya	ya	ADV	ADV	_	4	advmod	_	_
+3	un	uno	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	fenómeno	fenómeno	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
+5	social	social	ADJ	ADJ	Number=Sing	4	amod	_	_
+6	,	,	PUNCT	PUNCT	PunctType=Comm	4	punct	_	_
+7	un	uno	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	tipo	tipo	NOUN	NOUN	Gender=Masc|Number=Sing	4	appos	_	_
+9	famoso	famoso	ADJ	ADJ	Gender=Masc|Number=Sing	8	amod	_	_
+10	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 appos	color:blue
+1	Zarrabeitia	Zarrabeitia	PROPN	PROPN	_	2	nsubj	_	_
+2	puso	poner	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	rebeldía	rebeldía	NOUN	NOUN	Gender=Fem|Number=Sing	2	dobj	_	_
+5	,	,	PUNCT	PUNCT	PunctType=Comm	2	punct	_	_
+6	y	y	CONJ	CONJ	_	2	cc	_	_
+7	Delgado	Delgado	PROPN	PROPN	_	2	conj	_	_
+8	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	gallardía	gallardía	NOUN	NOUN	Gender=Fem|Number=Sing	7	appos	_	_
+10	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
+
+~~~
+
+

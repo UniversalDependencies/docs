@@ -5,47 +5,14 @@
 ## Treebank Statistics (UD_Estonian)
 
 This relation is universal.
+There are 1 language-specific subtypes of `nsubj`: [nsubj:cop]().
 
-1191 nodes (13%) are attached to their parents as `nsubj`.
+17147 nodes (7%) are attached to their parents as `nsubj`.
 
-943 instances of `nsubj` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.59697732997481.
+10519 instances of `nsubj` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.27981571120313.
 
-The following 16 pairs of parts of speech are connected with `nsubj`: [et-pos/VERB]()-[et-pos/NOUN]() (631; 53% instances), [et-pos/VERB]()-[et-pos/PROPN]() (316; 27% instances), [et-pos/VERB]()-[et-pos/PRON]() (193; 16% instances), [et-pos/VERB]()-[et-pos/NUM]() (13; 1% instances), [et-pos/ADJ]()-[et-pos/NOUN]() (10; 1% instances), [et-pos/NOUN]()-[et-pos/PROPN]() (6; 1% instances), [et-pos/ADJ]()-[et-pos/PRON]() (4; 0% instances), [et-pos/NOUN]()-[et-pos/PRON]() (4; 0% instances), [et-pos/ADJ]()-[et-pos/PROPN]() (3; 0% instances), [et-pos/NOUN]()-[et-pos/NOUN]() (3; 0% instances), [et-pos/NUM]()-[et-pos/NOUN]() (2; 0% instances), [et-pos/VERB]()-[et-pos/ADJ]() (2; 0% instances), [et-pos/ADV]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/AUX]()-[et-pos/NOUN]() (1; 0% instances), [et-pos/PRON]()-[et-pos/NUM]() (1; 0% instances), [et-pos/PRON]()-[et-pos/PRON]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nsubj	color:blue
-1	Lennarti-lood	Lennarti-lood	NOUN	n/com,pl,nom,%cap	Case=Nom|Number=Plur	2	nsubj	_	_
-2	on	ole+0	VERB	v/main,indic,pres,ps3,pl,ps,af	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	aga	aga+0	CONJ	conj-s/crd	_	2	mark	_	_
-4	nagu	nagu+0	SCONJ	conj-s/sub	_	7	mark	_	_
-5	pikantne	pikantne+0	ADJ	adj/pos,sg,nom	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
-6	prantsuse	prantsuse+0	ADJ	adj-nat/--	NameType=Nat	7	amod	_	_
-7	film	film+0	NOUN	n/com,sg,nom	Case=Nom|Number=Sing	2	nmod	_	_
-8	.	--	PUNCT	punc/--	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 nsubj	color:blue
-1	Winston	Winston+0	PROPN	prop/prop,sg,nom,%cap	Case=Nom|Number=Sing	5	nsubj	_	_
-2	hakkas	hakka+s	AUX	v/main,indic,impf,ps3,sg,ps,af	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
-3	trepist	trepp+st	NOUN	n/com,sg,el	Case=Ela|Number=Sing	5	nmod	_	_
-4	üles	üles+0	ADV	adv/--	_	5	compound:prt	_	_
-5	minema	mine+ma	VERB	v/main,sup,ps,ill	Case=Ill|VerbForm=Sup	0	root	_	_
-6	.	--	PUNCT	punc/--	_	5	punct	_	_
-
-~~~
+The following 27 pairs of parts of speech are connected with `nsubj`: [et-pos/VERB]()-[et-pos/NOUN]() (9614; 56% instances), [et-pos/VERB]()-[et-pos/PRON]() (4539; 26% instances), [et-pos/VERB]()-[et-pos/PROPN]() (2668; 16% instances), [et-pos/VERB]()-[et-pos/ADJ]() (116; 1% instances), [et-pos/VERB]()-[et-pos/NUM]() (80; 0% instances), [et-pos/NOUN]()-[et-pos/NOUN]() (29; 0% instances), [et-pos/AUX]()-[et-pos/NOUN]() (23; 0% instances), [et-pos/ADJ]()-[et-pos/NOUN]() (21; 0% instances), [et-pos/NOUN]()-[et-pos/PROPN]() (10; 0% instances), [et-pos/VERB]()-[et-pos/SYM]() (9; 0% instances), [et-pos/AUX]()-[et-pos/PROPN]() (5; 0% instances), [et-pos/PRON]()-[et-pos/NOUN]() (5; 0% instances), [et-pos/VERB]()-[et-pos/ADV]() (5; 0% instances), [et-pos/ADV]()-[et-pos/NOUN]() (3; 0% instances), [et-pos/NOUN]()-[et-pos/PRON]() (3; 0% instances), [et-pos/PROPN]()-[et-pos/NOUN]() (3; 0% instances), [et-pos/ADJ]()-[et-pos/PROPN]() (2; 0% instances), [et-pos/AUX]()-[et-pos/PRON]() (2; 0% instances), [et-pos/VERB]()-[et-pos/X]() (2; 0% instances), [et-pos/ADJ]()-[et-pos/PRON]() (1; 0% instances), [et-pos/ADV]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/NOUN]()-[et-pos/ADJ]() (1; 0% instances), [et-pos/NOUN]()-[et-pos/SYM]() (1; 0% instances), [et-pos/NUM]()-[et-pos/NOUN]() (1; 0% instances), [et-pos/NUM]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/PROPN]()-[et-pos/PROPN]() (1; 0% instances), [et-pos/VERB]()-[et-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,14 +21,56 @@ The following 16 pairs of parts of speech are connected with `nsubj`: [et-pos/VE
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 nsubj	color:blue
-1	Muist	muist+0	PRON	pron-def/indef,.cap	Poss=Yes|PronType=Ind,Neg	3	dobj	_	_
-2	piima	piim+0	NOUN	n/com,sg,part	Case=Par|Number=Sing	1	nmod	_	_
-3	valas	vala+s	VERB	v-fin/main,indic,impf,ps3,sg,ps,af,.FinV,.NGP-P	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-4	ta	tema+0	PRON	pron-pers/pers,ps3,sg,nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-5	lauda	laut+0	NOUN	n/com,sg,gen	Case=Gen|Number=Sing	3	nmod	_	_
-6	taha	taha+0	ADP	pst/post,.gen	AdpType=Post|Case=Gen	5	case	_	_
-7	maha	maha+0	ADV	adv/--	_	3	compound:prt	_	_
-8	.	.	PUNCT	punc/Fst	PunctType=Peri	3	punct	_	_
+1	Tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+2	ees	ees	ADP	K	AdpType=Post	1	case	_	_
+3	seisis	seisma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	kääbus	kääbus	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+5	,	,	PUNCT	Z	_	8	punct	_	_
+6	seljas	selg	NOUN	S	Case=Ine|Number=Sing	8	nmod	_	_
+7	tilluke	tilluke	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
+8	raudrüü	raud_rüü	NOUN	S	Case=Nom|Number=Sing	3	advcl	_	_
+9	.	.	PUNCT	Z	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nsubj	color:blue
+1	"	"	PUNCT	Z	_	3	punct	_	_
+2	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	usun	uskuma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	,	,	PUNCT	Z	_	7	punct	_	_
+5	et	et	SCONJ	J	_	7	mark	_	_
+6	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	kohe-kohe	kohe-kohe	ADV	D	_	7	advmod	_	_
+9	ärkamas	ärkama	VERB	V	Case=Ine|VerbForm=Sup|Voice=Act	7	xcomp	_	_
+10	,	,	PUNCT	Z	_	14	punct	_	_
+11	kui	kui	SCONJ	J	_	14	mark	_	_
+12	mitte	mitte	ADV	D	Negative=Neg	14	advmod	_	_
+13	juba	juba	ADV	D	_	14	advmod	_	_
+14	ärganud	ärkama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	_
+15	.	.	PUNCT	Z	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nsubj	color:blue
+1	Ernesaks	Ernesaks	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	libistas	libistama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pilgu	pilk	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	üle	üle	ADP	K	AdpType=Post	5	case	_	_
+5	toa	tuba	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 

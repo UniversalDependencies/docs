@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>i</em> ([ADP]() 7853, [X]() 3), <em>p
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.054878 (the average of all parts of speech is 1.382585).
+The form / lemma ratio of `ADP` is 1.054878 (the average of all parts of speech is 1.382722).
 
 The 1st highest number of forms (4) was observed with the lemma “med”: <em>at, med, meg, men</em>.
 
@@ -70,9 +70,9 @@ The 3rd highest number of forms (2) was observed with the lemma “enn”: <em>e
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 16 different relations: [no-dep/case]() (37351; 92% instances), [no-dep/compound:prt]() (2541; 6% instances), [no-dep/nmod]() (450; 1% instances), [no-dep/name]() (101; 0% instances), [no-dep/conj]() (92; 0% instances), [no-dep/root]() (79; 0% instances), [no-dep/xcomp]() (51; 0% instances), [no-dep/advcl]() (25; 0% instances), [no-dep/acl:relcl]() (24; 0% instances), [no-dep/ccomp]() (11; 0% instances), [no-dep/goeswith]() (11; 0% instances), [no-dep/csubj]() (5; 0% instances), [no-dep/acl]() (4; 0% instances), [no-dep/appos]() (2; 0% instances), [no-dep/cc]() (2; 0% instances), [no-dep/remnant]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 18 different relations: [no-dep/case]() (32681; 80% instances), [no-dep/mark]() (4670; 11% instances), [no-dep/compound:prt]() (2541; 6% instances), [no-dep/nmod]() (450; 1% instances), [no-dep/conj]() (92; 0% instances), [no-dep/name]() (89; 0% instances), [no-dep/root]() (79; 0% instances), [no-dep/xcomp]() (51; 0% instances), [no-dep/advcl]() (25; 0% instances), [no-dep/acl:relcl]() (24; 0% instances), [no-dep/compound]() (12; 0% instances), [no-dep/ccomp]() (11; 0% instances), [no-dep/goeswith]() (11; 0% instances), [no-dep/csubj]() (5; 0% instances), [no-dep/acl]() (4; 0% instances), [no-dep/appos]() (2; 0% instances), [no-dep/cc]() (2; 0% instances), [no-dep/remnant]() (1; 0% instances)
 
-Parents of `ADP` nodes belong to 14 different parts of speech: [NOUN]() (24633; 60% instances), [VERB]() (6181; 15% instances), [PROPN]() (5399; 13% instances), [PRON]() (1852; 5% instances), [ADJ]() (1095; 3% instances), [NUM]() (802; 2% instances), [DET]() (316; 1% instances), [ADV]() (205; 1% instances), [ADP]() (169; 0% instances), [ROOT]() (79; 0% instances), [X]() (11; 0% instances), [SCONJ]() (3; 0% instances), [SYM]() (3; 0% instances), [INTJ]() (2; 0% instances)
+Parents of `ADP` nodes belong to 14 different parts of speech: [NOUN]() (24633; 60% instances), [VERB]() (6181; 15% instances), [PROPN]() (5399; 13% instances), [PRON]() (1852; 5% instances), [ADJ]() (1095; 3% instances), [NUM]() (803; 2% instances), [DET]() (315; 1% instances), [ADV]() (205; 1% instances), [ADP]() (169; 0% instances), [ROOT]() (79; 0% instances), [X]() (11; 0% instances), [SCONJ]() (3; 0% instances), [SYM]() (3; 0% instances), [INTJ]() (2; 0% instances)
 
 40253 (99%) `ADP` nodes are leaves.
 
@@ -84,7 +84,7 @@ Parents of `ADP` nodes belong to 14 different parts of speech: [NOUN]() (24633; 
 
 The highest child degree of a `ADP` node is 9.
 
-Children of `ADP` nodes are attached using 17 different relations: [no-dep/cop]() (161; 13% instances), [no-dep/advmod]() (157; 12% instances), [no-dep/punct]() (149; 12% instances), [no-dep/cc]() (141; 11% instances), [no-dep/conj]() (141; 11% instances), [no-dep/nsubj]() (137; 11% instances), [no-dep/nmod]() (121; 10% instances), [no-dep/case]() (102; 8% instances), [no-dep/mark]() (51; 4% instances), [no-dep/advcl]() (42; 3% instances), [no-dep/aux]() (32; 3% instances), [no-dep/neg]() (8; 1% instances), [no-dep/appos]() (6; 0% instances), [no-dep/expl]() (3; 0% instances), [no-dep/parataxis]() (3; 0% instances), [no-dep/xcomp]() (2; 0% instances), [no-dep/dobj]() (1; 0% instances)
+Children of `ADP` nodes are attached using 18 different relations: [no-dep/cop]() (161; 13% instances), [no-dep/advmod]() (157; 12% instances), [no-dep/punct]() (148; 12% instances), [no-dep/cc]() (141; 11% instances), [no-dep/conj]() (141; 11% instances), [no-dep/nsubj]() (137; 11% instances), [no-dep/nmod]() (121; 10% instances), [no-dep/case]() (88; 7% instances), [no-dep/mark]() (65; 5% instances), [no-dep/advcl]() (42; 3% instances), [no-dep/aux]() (32; 3% instances), [no-dep/neg]() (8; 1% instances), [no-dep/appos]() (6; 0% instances), [no-dep/expl]() (3; 0% instances), [no-dep/parataxis]() (3; 0% instances), [no-dep/xcomp]() (2; 0% instances), [no-dep/dobj]() (1; 0% instances), [no-dep/nummod]() (1; 0% instances)
 
-Children of `ADP` nodes belong to 16 different parts of speech: [VERB]() (236; 19% instances), [NOUN]() (175; 14% instances), [ADP]() (169; 13% instances), [PUNCT]() (147; 12% instances), [CONJ]() (141; 11% instances), [ADJ]() (90; 7% instances), [ADV]() (86; 7% instances), [PRON]() (73; 6% instances), [PROPN]() (45; 4% instances), [SCONJ]() (38; 3% instances), [AUX]() (32; 3% instances), [PART]() (13; 1% instances), [NUM]() (6; 0% instances), [DET]() (4; 0% instances), [SYM]() (1; 0% instances), [X]() (1; 0% instances)
+Children of `ADP` nodes belong to 15 different parts of speech: [VERB]() (236; 19% instances), [NOUN]() (175; 14% instances), [ADP]() (169; 13% instances), [PUNCT]() (148; 12% instances), [CONJ]() (141; 11% instances), [ADJ]() (90; 7% instances), [ADV]() (86; 7% instances), [PRON]() (73; 6% instances), [PROPN]() (45; 4% instances), [SCONJ]() (38; 3% instances), [AUX]() (32; 3% instances), [PART]() (13; 1% instances), [NUM]() (7; 1% instances), [DET]() (3; 0% instances), [X]() (1; 0% instances)
 

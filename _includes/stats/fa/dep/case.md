@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-19296 nodes (13%) are attached to their parents as `case`.
+19213 nodes (13%) are attached to their parents as `case`.
 
-16732 instances of `case` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42672056384743.
+16649 instances of `case` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41898714412117.
 
-The following 27 pairs of parts of speech are connected with `case`: [fa-pos/NOUN]()-[fa-pos/ADP]() (15008; 78% instances), [fa-pos/NOUN]()-[fa-pos/PART]() (2193; 11% instances), [fa-pos/PRON]()-[fa-pos/ADP]() (1037; 5% instances), [fa-pos/PRON]()-[fa-pos/PART]() (323; 2% instances), [fa-pos/ADV]()-[fa-pos/ADP]() (180; 1% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (171; 1% instances), [fa-pos/ADJ]()-[fa-pos/ADP]() (128; 1% instances), [fa-pos/NUM]()-[fa-pos/ADP]() (88; 0% instances), [fa-pos/VERB]()-[fa-pos/ADP]() (79; 0% instances), [fa-pos/ADJ]()-[fa-pos/PART]() (15; 0% instances), [fa-pos/CONJ]()-[fa-pos/ADP]() (15; 0% instances), [fa-pos/PRON]()-[fa-pos/ADV]() (12; 0% instances), [fa-pos/ADV]()-[fa-pos/PART]() (8; 0% instances), [fa-pos/NUM]()-[fa-pos/PART]() (8; 0% instances), [fa-pos/X]()-[fa-pos/ADP]() (7; 0% instances), [fa-pos/DET]()-[fa-pos/PART]() (5; 0% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (5; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADV]() (3; 0% instances), [fa-pos/PRON]()-[fa-pos/NOUN]() (2; 0% instances), [fa-pos/VERB]()-[fa-pos/PART]() (2; 0% instances), [fa-pos/ADP]()-[fa-pos/ADP]() (1; 0% instances), [fa-pos/ADP]()-[fa-pos/PART]() (1; 0% instances), [fa-pos/ADV]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/INTJ]()-[fa-pos/ADP]() (1; 0% instances), [fa-pos/SCONJ]()-[fa-pos/ADP]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/X]()-[fa-pos/PART]() (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `case`: [fa-pos/NOUN]()-[fa-pos/ADP]() (14950; 78% instances), [fa-pos/NOUN]()-[fa-pos/PART]() (2194; 11% instances), [fa-pos/PRON]()-[fa-pos/ADP]() (1025; 5% instances), [fa-pos/PRON]()-[fa-pos/PART]() (323; 2% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (171; 1% instances), [fa-pos/ADJ]()-[fa-pos/ADP]() (154; 1% instances), [fa-pos/ADV]()-[fa-pos/ADP]() (146; 1% instances), [fa-pos/NUM]()-[fa-pos/ADP]() (87; 0% instances), [fa-pos/VERB]()-[fa-pos/ADP]() (75; 0% instances), [fa-pos/CONJ]()-[fa-pos/ADP]() (15; 0% instances), [fa-pos/ADJ]()-[fa-pos/PART]() (14; 0% instances), [fa-pos/PRON]()-[fa-pos/ADV]() (12; 0% instances), [fa-pos/ADV]()-[fa-pos/PART]() (8; 0% instances), [fa-pos/NUM]()-[fa-pos/PART]() (8; 0% instances), [fa-pos/X]()-[fa-pos/ADP]() (7; 0% instances), [fa-pos/DET]()-[fa-pos/PART]() (5; 0% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (5; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADV]() (3; 0% instances), [fa-pos/PRON]()-[fa-pos/NOUN]() (2; 0% instances), [fa-pos/VERB]()-[fa-pos/PART]() (2; 0% instances), [fa-pos/ADP]()-[fa-pos/ADP]() (1; 0% instances), [fa-pos/ADP]()-[fa-pos/PART]() (1; 0% instances), [fa-pos/ADV]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/INTJ]()-[fa-pos/ADP]() (1; 0% instances), [fa-pos/SCONJ]()-[fa-pos/ADP]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/X]()-[fa-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu

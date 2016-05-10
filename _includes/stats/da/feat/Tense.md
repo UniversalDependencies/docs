@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/VERB]() (7852; 8% instan
 
 7852 [da-pos/VERB]() tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (6003; 76%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5858; 75%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5615; 72%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5615; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5342; 68%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (6003; 76%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5858; 75%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5615; 72%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5615; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5342; 68%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 4582 [da-pos/AUX]() tokens (93% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (4395; 96%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4395; 96%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4395; 96%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (4395; 96%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4395; 96%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4395; 96%).
 
 `AUX` tokens may have the following values of `Tense`:
 

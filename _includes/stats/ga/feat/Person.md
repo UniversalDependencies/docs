@@ -55,7 +55,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 244 [ga-pos/DET]() tokens (11% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (244; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (244; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (244; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (244; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (189; 77%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (244; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (244; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (244; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (244; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (189; 77%).
 
 `DET` tokens may have the following values of `Person`:
 

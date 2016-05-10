@@ -6,45 +6,29 @@
 
 This relation is universal.
 
-1511 nodes (16%) are attached to their parents as `punct`.
+39564 nodes (17%) are attached to their parents as `punct`.
 
-1452 instances of `punct` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.43547319655857.
+27390 instances of `punct` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.23523910625821.
 
-The following 9 pairs of parts of speech are connected with `punct`: [et-pos/VERB]()-[et-pos/PUNCT]() (1396; 92% instances), [et-pos/NOUN]()-[et-pos/PUNCT]() (71; 5% instances), [et-pos/ADJ]()-[et-pos/PUNCT]() (23; 2% instances), [et-pos/PROPN]()-[et-pos/PUNCT]() (11; 1% instances), [et-pos/NUM]()-[et-pos/PUNCT]() (3; 0% instances), [et-pos/PRON]()-[et-pos/PUNCT]() (3; 0% instances), [et-pos/ADV]()-[et-pos/PUNCT]() (2; 0% instances), [et-pos/AUX]()-[et-pos/PUNCT]() (1; 0% instances), [et-pos/PART]()-[et-pos/PUNCT]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 8 punct	color:blue
-1	Lennarti-lood	Lennarti-lood	NOUN	n/com,pl,nom,%cap	Case=Nom|Number=Plur	2	nsubj	_	_
-2	on	ole+0	VERB	v/main,indic,pres,ps3,pl,ps,af	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	aga	aga+0	CONJ	conj-s/crd	_	2	mark	_	_
-4	nagu	nagu+0	SCONJ	conj-s/sub	_	7	mark	_	_
-5	pikantne	pikantne+0	ADJ	adj/pos,sg,nom	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
-6	prantsuse	prantsuse+0	ADJ	adj-nat/--	NameType=Nat	7	amod	_	_
-7	film	film+0	NOUN	n/com,sg,nom	Case=Nom|Number=Sing	2	nmod	_	_
-8	.	--	PUNCT	punc/--	_	2	punct	_	_
-
-~~~
+The following 15 pairs of parts of speech are connected with `punct`: [et-pos/VERB]()-[et-pos/PUNCT]() (27671; 70% instances), [et-pos/NOUN]()-[et-pos/PUNCT]() (5774; 15% instances), [et-pos/ADJ]()-[et-pos/PUNCT]() (2795; 7% instances), [et-pos/PROPN]()-[et-pos/PUNCT]() (1348; 3% instances), [et-pos/ADV]()-[et-pos/PUNCT]() (732; 2% instances), [et-pos/PRON]()-[et-pos/PUNCT]() (484; 1% instances), [et-pos/NUM]()-[et-pos/PUNCT]() (440; 1% instances), [et-pos/INTJ]()-[et-pos/PUNCT]() (125; 0% instances), [et-pos/ADP]()-[et-pos/PUNCT]() (103; 0% instances), [et-pos/X]()-[et-pos/PUNCT]() (31; 0% instances), [et-pos/AUX]()-[et-pos/PUNCT]() (21; 0% instances), [et-pos/SYM]()-[et-pos/PUNCT]() (17; 0% instances), [et-pos/CONJ]()-[et-pos/PUNCT]() (15; 0% instances), [et-pos/SCONJ]()-[et-pos/PUNCT]() (6; 0% instances), [et-pos/PUNCT]()-[et-pos/PUNCT]() (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 punct	color:blue
-1	Vesi	vesi+0	NOUN	n/com,sg,nom,.cap	Case=Nom|Number=Sing	4	nsubj	_	_
-2	liigutas	liiguta+s	VERB	v-fin/main,indic,impf,ps3,sg,ps,af,.FinV,.Part	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
-3	tugevast	tugev+st	ADJ	adj/pos,sg,el	Case=Ela|Degree=Pos|Number=Sing	4	amod	_	_
-4	löögist	löök+st	NOUN	n/com,sg,el	Case=Ela|Number=Sing	0	root	_	_
-5	palli	pall+0	NOUN	n/com,sg,part	Case=Par|Number=Sing	4	dobj	_	_
-6	edasi	edasi+0	ADV	adv/--	_	2	compound:prt	_	_
-7	.	.	PUNCT	punc/Fst	PunctType=Peri	4	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 punct	color:blue
+1	Tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+2	ees	ees	ADP	K	AdpType=Post	1	case	_	_
+3	seisis	seisma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	kääbus	kääbus	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+5	,	,	PUNCT	Z	_	8	punct	_	_
+6	seljas	selg	NOUN	S	Case=Ine|Number=Sing	8	nmod	_	_
+7	tilluke	tilluke	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
+8	raudrüü	raud_rüü	NOUN	S	Case=Nom|Number=Sing	3	advcl	_	_
+9	.	.	PUNCT	Z	_	3	punct	_	_
 
 ~~~
 
@@ -52,14 +36,40 @@ The following 9 pairs of parts of speech are connected with `punct`: [et-pos/VER
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 punct	color:blue
-1	Klaasid	klaas+d	NOUN	n/com,pl,nom,.cap	Case=Nom|Number=Plur	4	nsubj	_	_
-2	on	ole+0	VERB	v-fin/main,indic,pres,ps3,pl,ps,af,.FinV,.Intr	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	täis	täis+0	ADV	adv/--	_	4	advmod	_	_
-4	valatud	vala=tud+0	ADJ	adj/pos,.tud,partic	Degree=Pos|VerbForm=Part	0	root	_	_
-5	.	.	PUNCT	punc/Fst	PunctType=Peri	4	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 punct	color:blue
+1	Tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+2	ees	ees	ADP	K	AdpType=Post	1	case	_	_
+3	seisis	seisma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	kääbus	kääbus	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+5	,	,	PUNCT	Z	_	8	punct	_	_
+6	seljas	selg	NOUN	S	Case=Ine|Number=Sing	8	nmod	_	_
+7	tilluke	tilluke	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
+8	raudrüü	raud_rüü	NOUN	S	Case=Nom|Number=Sing	3	advcl	_	_
+9	.	.	PUNCT	Z	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 punct	color:blue
+1	Noormees	noor_mees	NOUN	S	Case=Nom|Number=Sing	5	vocative	_	_
+2	,	,	PUNCT	Z	_	5	punct	_	_
+3	te	sina	PRON	P	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj:cop	_	_
+4	olete	olema	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	tugev	tugev	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
+6	ja	ja	CONJ	J	_	5	cc	_	_
+7	julge	julge	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	5	conj	_	_
+8	,	,	PUNCT	Z	_	5	punct	_	_
+9	tapke	tapma	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+10	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	dobj	_	_
+11	ära	ära	ADV	D	_	9	compound:prt	_	_
+12	!	!	PUNCT	Z	_	5	punct	_	_
 
 ~~~
 

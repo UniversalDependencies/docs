@@ -13,7 +13,7 @@ The 10 most frequent `NOUN` types:  <em>godine, eura, zemlje, poslova, predsjedn
 
 The 10 most frequent ambiguous lemmas: <em>dan</em> ([NOUN]() 62, [ADV]() 1), <em>film</em> ([NOUN]() 47, [PROPN]() 1), <em>rujan</em> ([NOUN]() 37, [ADJ]() 1), <em>skup</em> ([NOUN]() 23, [ADJ]() 5), <em>spor</em> ([NOUN]() 23, [ADJ]() 3), <em>dug</em> ([NOUN]() 17, [ADJ]() 14), <em>oko</em> ([ADV]() 69, [ADP]() 44, [NOUN]() 10, [X]() 1), <em>samit</em> ([NOUN]() 10, [PROPN]() 1), <em>TV</em> ([PROPN]() 9, [NOUN]() 8), <em>plus</em> ([NOUN]() 5, [PROPN]() 2)
 
-The 10 most frequent ambiguous types:  <em>vlada</em> ([NOUN]() 70, [VERB]() 1), <em>tjedna</em> ([NOUN]() 58, [ADJ]() 1), <em>prava</em> ([NOUN]() 56, [ADJ]() 2), <em>dana</em> ([NOUN]() 47, [ADJ]() 1), <em>strane</em> ([NOUN]() 44, [ADJ]() 6), <em>mora</em> ([VERB]() 50, [NOUN]() 16), <em>pomoći</em> ([VERB]() 24, [NOUN]() 15), <em>odnose</em> ([NOUN]() 13, [VERB]() 8), <em>prodaju</em> ([NOUN]() 12, [VERB]() 3), <em>druge</em> ([NOUN]() 11, [ADJ]() 11)
+The 10 most frequent ambiguous types:  <em>vlada</em> ([NOUN]() 70, [VERB]() 1), <em>tjedna</em> ([NOUN]() 58, [ADJ]() 1), <em>prava</em> ([NOUN]() 56, [ADJ]() 2), <em>dana</em> ([NOUN]() 47, [ADJ]() 1), <em>strane</em> ([NOUN]() 44, [ADJ]() 6), <em>mora</em> ([VERB]() 50, [NOUN]() 16), <em>pomoći</em> ([VERB]() 24, [NOUN]() 15), <em>odnose</em> ([NOUN]() 13, [VERB]() 8), <em>prodaju</em> ([NOUN]() 12, [VERB]() 3), <em>druge</em> ([ADJ]() 11, [NOUN]() 11)
 
 
 * <em>vlada</em>
@@ -44,8 +44,8 @@ The 10 most frequent ambiguous types:  <em>vlada</em> ([NOUN]() 70, [VERB]() 1),
   * [NOUN]() 12: <em>Za izravnu <b>prodaju</b> kao primarnu opciju odlučila se Bugarska .</em>
   * [VERB]() 3: <em>Međutim , to je uobičajeno u Srbiji , budući da vlada i čelništva kompanija koriste različite rupe u zakonu kako bi spriječili male dioničare da <b>prodaju</b> svoje dionice na burzi .</em>
 * <em>druge</em>
-  * [NOUN]() 11: <em>Također su pronađene mina , ručna granata , streljivo i <b>druge</b> vojne naprave .</em>
   * [ADJ]() 11: <em>Očekujete li gospodarske ili neke <b>druge</b> blokade ?</em>
+  * [NOUN]() 11: <em>Također su pronađene mina , ručna granata , streljivo i <b>druge</b> vojne naprave .</em>
 
 ## Morphology
 

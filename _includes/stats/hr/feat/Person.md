@@ -39,7 +39,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 2822 [hr-pos/VERB]() tokens (39% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2822; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2822; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2807; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1768; 63%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2822; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2822; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2807; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1768; 63%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -82,6 +82,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/cop.html">cop</a>]--> VERB</tt> (2; 67%),
 <tt>PRON --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (2; 67%),
 <tt>AUX --[<a href="../dep/remnant.html">remnant</a>]--> AUX</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (1; 100%).
 

@@ -8,21 +8,21 @@ This feature is universal.
 It occurs with 2 different values: `Cmp`, `Sup`.
 
 1377 tokens (1%) have a non-empty value of `Degree`.
-60 types (0%) occur at least once with a non-empty value of `Degree`.
-25 lemmas (0%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 4 part-of-speech tags: [pt-pos/ADV]() (489; 0% instances), [pt-pos/DET]() (408; 0% instances), [pt-pos/ADJ]() (353; 0% instances), [pt-pos/PRON]() (127; 0% instances).
+59 types (0%) occur at least once with a non-empty value of `Degree`.
+24 lemmas (0%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 4 part-of-speech tags: [pt-pos/ADV]() (490; 0% instances), [pt-pos/DET]() (411; 0% instances), [pt-pos/ADJ]() (353; 0% instances), [pt-pos/PRON]() (123; 0% instances).
 
 ### `ADV`
 
-489 [pt-pos/ADV]() tokens (5% of all `ADV` tokens) have a non-empty value of `Degree`.
+490 [pt-pos/ADV]() tokens (5% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=Ind,Neg,Tot</tt> (466; 95%), <tt><a href="NumType.html">NumType</a>=Card</tt> (466; 95%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (467; 95%), <tt><a href="PronType.html">PronType</a>=Ind,Neg,Tot</tt> (467; 95%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (480; 98% of non-empty `Degree`): <em>mais, menos, tão, tanto, melhor, assim, pior, superiormente</em>
+* `Cmp` (481; 98% of non-empty `Degree`): <em>mais, menos, tão, tanto, melhor, assim, pior, superiormente</em>
 * `Sup` (9; 2% of non-empty `Degree`): <em>melhor, Pior</em>
-* `EMPTY` (8416): <em>não, como, já, também, ontem, mais, ainda, quando, só, depois</em>
+* `EMPTY` (8421): <em>não, como, já, também, mais, ontem, ainda, quando, só, depois</em>
 
 <table>
   <tr><th>Paradigm <i>melhor</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -33,15 +33,15 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 ### `DET`
 
-408 [pt-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
+411 [pt-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (408; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (319; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (220; 54%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (219; 54%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (411; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (320; 78%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (221; 54%), <tt><a href="Number.html">Number</a>=Sing</tt> (220; 54%).
 
 `DET` tokens may have the following values of `Degree`:
 
-* `Cmp` (407; 100% of non-empty `Degree`): <em>outros, outras, outro, outra, mais, mesma, mesmo, menos, tal, tais</em>
+* `Cmp` (410; 100% of non-empty `Degree`): <em>outros, outras, outro, outra, mais, mesmo, mesma, menos, tal, tais</em>
 * `Sup` (1; 0% of non-empty `Degree`): <em>muitíssimo</em>
-* `EMPTY` (33036): <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
+* `EMPTY` (34006): <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
 
 ### `ADJ`
 
@@ -65,17 +65,17 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `PRON`
 
-127 [pt-pos/PRON]() tokens (2% of all `PRON` tokens) have a non-empty value of `Degree`.
+123 [pt-pos/PRON]() tokens (2% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (127; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (127; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (127; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (91; 72%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (76; 60%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (123; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (123; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (123; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (90; 73%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (74; 60%).
 
 `PRON` tokens may have the following values of `Degree`:
 
-* `Cmp` (127; 100% of non-empty `Degree`): <em>mais, outros, mesmo, outras, outro, outra, mesma, menos, tal, tanto</em>
-* `EMPTY` (7501): <em>que, se, a, o, ele, o_que, os, isso, quem, lhe</em>
+* `Cmp` (123; 100% of non-empty `Degree`): <em>mais, outros, mesmo, outras, outro, outra, mesma, tal, menos, tanto</em>
+* `EMPTY` (6574): <em>que, se, ele, o, isso, quem, lhe, tudo, eles, a</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (2; 67%).
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1; 100%).
 

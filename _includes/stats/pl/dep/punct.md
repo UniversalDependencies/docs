@@ -9,9 +9,9 @@ This relation is universal.
 13484 nodes (16%) are attached to their parents as `punct`.
 
 10795 instances of `punct` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.32134381489172.
+Average distance between parent and child is 5.31770987837437.
 
-The following 13 pairs of parts of speech are connected with `punct`: [pl-pos/VERB]()-[pl-pos/PUNCT]() (11090; 82% instances), [pl-pos/NOUN]()-[pl-pos/PUNCT]() (1275; 9% instances), [pl-pos/ADJ]()-[pl-pos/PUNCT]() (736; 5% instances), [pl-pos/X]()-[pl-pos/PUNCT]() (187; 1% instances), [pl-pos/ADV]()-[pl-pos/PUNCT]() (55; 0% instances), [pl-pos/PART]()-[pl-pos/PUNCT]() (42; 0% instances), [pl-pos/AUX]()-[pl-pos/PUNCT]() (37; 0% instances), [pl-pos/NUM]()-[pl-pos/PUNCT]() (37; 0% instances), [pl-pos/PRON]()-[pl-pos/PUNCT]() (16; 0% instances), [pl-pos/ADP]()-[pl-pos/PUNCT]() (5; 0% instances), [pl-pos/SCONJ]()-[pl-pos/VERB]() (2; 0% instances), [pl-pos/VERB]()-[pl-pos/ADJ]() (1; 0% instances), [pl-pos/VERB]()-[pl-pos/VERB]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: [pl-pos/VERB]()-[pl-pos/PUNCT]() (11061; 82% instances), [pl-pos/NOUN]()-[pl-pos/PUNCT]() (1109; 8% instances), [pl-pos/ADJ]()-[pl-pos/PUNCT]() (713; 5% instances), [pl-pos/X]()-[pl-pos/PUNCT]() (187; 1% instances), [pl-pos/PROPN]()-[pl-pos/PUNCT]() (157; 1% instances), [pl-pos/PRON]()-[pl-pos/PUNCT]() (79; 1% instances), [pl-pos/ADV]()-[pl-pos/PUNCT]() (55; 0% instances), [pl-pos/PART]()-[pl-pos/PUNCT]() (42; 0% instances), [pl-pos/AUX]()-[pl-pos/PUNCT]() (37; 0% instances), [pl-pos/NUM]()-[pl-pos/PUNCT]() (35; 0% instances), [pl-pos/ADP]()-[pl-pos/PUNCT]() (5; 0% instances), [pl-pos/SCONJ]()-[pl-pos/VERB]() (2; 0% instances), [pl-pos/VERB]()-[pl-pos/ADJ]() (1; 0% instances), [pl-pos/VERB]()-[pl-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

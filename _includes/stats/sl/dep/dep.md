@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `dep`: [sl-pos/VERB]
 # visual-style 9 1 dep	color:blue
 1	1470	1470	NUM	Mdc	NumForm=Digit|NumType=Card	9	dep	_	Dep=0|Rel=Root
 2	Ludvik	Ludvik	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Dep=9|Rel=Sb
-3	XI.	XI.	NUM	Mro	NumForm=Roman|NumType=Ord	2	nummod	_	SpaceAfter=No|Dep=2|Rel=Atr
+3	XI.	XI.	NUM	Mro	NumForm=Roman|NumType=Ord	2	nummod	_	Dep=2|Rel=Atr
 4	(	(	PUNCT	Z	_	5	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 5	142383	142383	NUM	Mdc	NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No|Dep=0|Rel=Root
 6	)	)	PUNCT	Z	_	5	punct	_	Dep=0|Rel=Root
@@ -49,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `dep`: [sl-pos/VERB]
 4	ki	ki	SCONJ	Cs	_	12	mark	_	Dep=5|Rel=Conj
 5	so	biti	VERB	Va-r3p-n	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	Dep=2|Rel=Atr
 6	za	za	ADP	Sa	Case=Acc	7	case	_	Dep=7|Rel=Atr
-7	Nuere	Nuer	PROPN	Npmpa	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No|Dep=5|Rel=Obj
+7	Nuere	Nuer	PROPN	Npmpa	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	Dep=5|Rel=Obj
 8	v	v	ADP	Sl	Case=Loc	10	case	_	Dep=10|Rel=Atr
 9	nekem	nek	DET	Pi-msl	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	10	det	_	Dep=10|Rel=Atr
 10	smislu	smisel	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	Dep=5|Rel=AdvM

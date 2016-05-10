@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `dobj`: [dobj:lvc]().
 
-1094 nodes (4%) are attached to their parents as `dobj`.
+1761 nodes (4%) are attached to their parents as `dobj`.
 
-602 instances of `dobj` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.02559414990859.
+992 instances of `dobj` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.13344690516752.
 
-The following 16 pairs of parts of speech are connected with `dobj`: [hu-pos/VERB]()-[hu-pos/NOUN]() (800; 73% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (158; 14% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (57; 5% instances), [hu-pos/VERB]()-[hu-pos/PROPN]() (39; 4% instances), [hu-pos/ADV]()-[hu-pos/NOUN]() (9; 1% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (7; 1% instances), [hu-pos/ADJ]()-[hu-pos/PRON]() (5; 0% instances), [hu-pos/VERB]()-[hu-pos/DET]() (5; 0% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (3; 0% instances), [hu-pos/VERB]()-[hu-pos/NUM]() (3; 0% instances), [hu-pos/ADV]()-[hu-pos/PRON]() (2; 0% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/ADJ]()-[hu-pos/DET]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/X]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `dobj`: [hu-pos/VERB]()-[hu-pos/NOUN]() (1277; 73% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (209; 12% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (118; 7% instances), [hu-pos/VERB]()-[hu-pos/PROPN]() (73; 4% instances), [hu-pos/ADV]()-[hu-pos/NOUN]() (21; 1% instances), [hu-pos/ADJ]()-[hu-pos/PRON]() (12; 1% instances), [hu-pos/NOUN]()-[hu-pos/PRON]() (11; 1% instances), [hu-pos/VERB]()-[hu-pos/NUM]() (10; 1% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (7; 0% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (7; 0% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (5; 0% instances), [hu-pos/VERB]()-[hu-pos/DET]() (5; 0% instances), [hu-pos/ADV]()-[hu-pos/PRON]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/ADJ]()-[hu-pos/DET]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu

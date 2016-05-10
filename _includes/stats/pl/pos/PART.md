@@ -4,16 +4,16 @@
 
 ## Treebank Statistics (UD_Polish)
 
-There are 67 `PART` lemmas (1%), 68 `PART` types (0%) and 2964 `PART` tokens (4%).
-Out of 13 observed tags, the rank of `PART` is: 6 in number of lemmas, 6 in number of types and 7 in number of tokens.
+There are 66 `PART` lemmas (0%), 67 `PART` types (0%) and 2797 `PART` tokens (3%).
+Out of 15 observed tags, the rank of `PART` is: 7 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>nie, już, by, czy, też, jeszcze, jednak, tylko, nawet, także</em>
+The 10 most frequent `PART` lemmas: <em>nie, już, czy, też, jeszcze, jednak, tylko, nawet, także, również</em>
 
-The 10 most frequent `PART` types:  <em>nie, już, by, czy, też, jeszcze, jednak, tylko, nawet, także</em>
+The 10 most frequent `PART` types:  <em>nie, już, czy, też, jeszcze, jednak, tylko, nawet, także, również</em>
 
-The 10 most frequent ambiguous lemmas: <em>nie</em> ([PART]() 1155, [CONJ]() 4), <em>już</em> ([PART]() 209, [ADV]() 3), <em>by</em> ([PART]() 167, [SCONJ]() 56), <em>czy</em> ([PART]() 155, [CONJ]() 19), <em>jeszcze</em> ([PART]() 121, [ADV]() 6), <em>jednak</em> ([PART]() 119, [CONJ]() 1), <em>tylko</em> ([PART]() 97, [CONJ]() 2), <em>i</em> ([CONJ]() 1357, [PART]() 35), <em>ponad</em> ([PART]() 27, [ADP]() 5), <em>aż</em> ([PART]() 26, [CONJ]() 2, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>nie</em> ([PART]() 1155, [CONJ]() 4), <em>już</em> ([PART]() 209, [ADV]() 3), <em>czy</em> ([PART]() 155, [CONJ]() 19), <em>jeszcze</em> ([PART]() 121, [ADV]() 6), <em>jednak</em> ([PART]() 119, [CONJ]() 1), <em>tylko</em> ([PART]() 97, [CONJ]() 2), <em>i</em> ([CONJ]() 1357, [PART]() 35), <em>ponad</em> ([PART]() 27, [ADP]() 5), <em>aż</em> ([PART]() 26, [CONJ]() 2, [SCONJ]() 1), <em>oczywiście</em> ([PART]() 24, [ADV]() 3)
 
-The 10 most frequent ambiguous types:  <em>nie</em> ([PART]() 879, [PRON]() 5, [CONJ]() 4), <em>już</em> ([PART]() 182, [ADV]() 3), <em>by</em> ([PART]() 167, [SCONJ]() 54), <em>czy</em> ([PART]() 37, [CONJ]() 19), <em>jeszcze</em> ([PART]() 105, [ADV]() 5), <em>jednak</em> ([PART]() 99, [CONJ]() 1), <em>tylko</em> ([PART]() 87, [CONJ]() 2), <em>może</em> ([VERB]() 70, [PART]() 23), <em>i</em> ([CONJ]() 1253, [PART]() 33), <em>ponad</em> ([PART]() 25, [ADP]() 5)
+The 10 most frequent ambiguous types:  <em>nie</em> ([PART]() 879, [PRON]() 5, [CONJ]() 4), <em>już</em> ([PART]() 182, [ADV]() 3), <em>czy</em> ([PART]() 37, [CONJ]() 19), <em>jeszcze</em> ([PART]() 105, [ADV]() 5), <em>jednak</em> ([PART]() 99, [CONJ]() 1), <em>tylko</em> ([PART]() 87, [CONJ]() 2), <em>może</em> ([VERB]() 70, [PART]() 23), <em>i</em> ([CONJ]() 1253, [PART]() 33), <em>ponad</em> ([PART]() 25, [ADP]() 5), <em>aż</em> ([PART]() 21, [CONJ]() 2)
 
 
 * <em>nie</em>
@@ -23,9 +23,6 @@ The 10 most frequent ambiguous types:  <em>nie</em> ([PART]() 879, [PRON]() 5, [
 * <em>już</em>
   * [PART]() 182: <em>Bogoria był <b>już</b> na środku placyku .</em>
   * [ADV]() 3: <em>Mówiła m ci <b>już</b> o nim .</em>
-* <em>by</em>
-  * [PART]() 167: <em>A zresztą , pewnie i tak zmarnowało <b>by</b> te pieniądze .</em>
-  * [SCONJ]() 54: <em>Pozwól , <b>by</b> inni dowiedzieli się , że potrzebujesz wsparcia .</em>
 * <em>czy</em>
   * [PART]() 37: <em>Sprawdźmy , <b>czy</b> istotnie potrafili by śmy to zrobić .</em>
   * [CONJ]() 19: <em>Wybrał by ś życie matki <b>czy</b> świni przy tej operacji przeszczepu wątroby ?</em>
@@ -47,10 +44,13 @@ The 10 most frequent ambiguous types:  <em>nie</em> ([PART]() 879, [PRON]() 5, [
 * <em>ponad</em>
   * [PART]() 25: <em>W 2000 roku sejneńscy mleczarze skupili <b>ponad</b> 23 mln litrów surowca .</em>
   * [ADP]() 5: <em>Dotychczas terapii poddano <b>ponad</b> stu pacjentów .</em>
+* <em>aż</em>
+  * [PART]() 21: <em>Wiem , iż pan trener Janas <b>aż</b> tak się nie boi .</em>
+  * [CONJ]() 2: <em>Tropił eś mnie bez ustanku , <b>aż</b> znalazł eś !</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.014925 (the average of all parts of speech is 1.847377).
+The form / lemma ratio of `PART` is 1.015152 (the average of all parts of speech is 1.801337).
 
 The 1st highest number of forms (2) was observed with the lemma “przynajmniej”: <em>przynajmniej, przynamniej</em>.
 
@@ -63,21 +63,21 @@ The 3rd highest number of forms (1) was observed with the lemma “ani”: <em>a
 
 ## Relations
 
-`PART` nodes are attached to their parents using 9 different relations: [pl-dep/advmod]() (1252; 42% instances), [pl-dep/neg]() (1149; 39% instances), [pl-dep/nmod]() (343; 12% instances), [pl-dep/aux]() (185; 6% instances), [pl-dep/case]() (26; 1% instances), [pl-dep/mark]() (4; 0% instances), [pl-dep/cc]() (3; 0% instances), [pl-dep/auxpass]() (1; 0% instances), [pl-dep/root]() (1; 0% instances)
+`PART` nodes are attached to their parents using 8 different relations: [pl-dep/advmod]() (1251; 45% instances), [pl-dep/neg]() (1149; 41% instances), [pl-dep/nmod]() (344; 12% instances), [pl-dep/case]() (26; 1% instances), [pl-dep/aux]() (19; 1% instances), [pl-dep/mark]() (4; 0% instances), [pl-dep/cc]() (3; 0% instances), [pl-dep/root]() (1; 0% instances)
 
-Parents of `PART` nodes belong to 12 different parts of speech: [VERB]() (2266; 76% instances), [NOUN]() (249; 8% instances), [ADJ]() (184; 6% instances), [ADV]() (108; 4% instances), [NUM]() (83; 3% instances), [AUX]() (52; 2% instances), [PRON]() (9; 0% instances), [ADP]() (7; 0% instances), [PART]() (3; 0% instances), [CONJ]() (1; 0% instances), [ROOT]() (1; 0% instances), [X]() (1; 0% instances)
+Parents of `PART` nodes belong to 14 different parts of speech: [VERB]() (2113; 76% instances), [NOUN]() (215; 8% instances), [ADJ]() (161; 6% instances), [ADV]() (107; 4% instances), [NUM]() (77; 3% instances), [AUX]() (46; 2% instances), [PRON]() (30; 1% instances), [DET]() (19; 1% instances), [PROPN]() (16; 1% instances), [ADP]() (7; 0% instances), [PART]() (3; 0% instances), [CONJ]() (1; 0% instances), [ROOT]() (1; 0% instances), [X]() (1; 0% instances)
 
-2773 (94%) `PART` nodes are leaves.
+2649 (95%) `PART` nodes are leaves.
 
-79 (3%) `PART` nodes have one child.
+36 (1%) `PART` nodes have one child.
 
-99 (3%) `PART` nodes have two children.
+99 (4%) `PART` nodes have two children.
 
 13 (0%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 6.
 
-Children of `PART` nodes are attached using 10 different relations: [pl-dep/case]() (107; 33% instances), [pl-dep/nmod]() (90; 28% instances), [pl-dep/aux]() (43; 13% instances), [pl-dep/punct]() (42; 13% instances), [pl-dep/advmod]() (20; 6% instances), [pl-dep/dobj]() (14; 4% instances), [pl-dep/advcl]() (3; 1% instances), [pl-dep/cc]() (1; 0% instances), [pl-dep/ccomp]() (1; 0% instances), [pl-dep/conj]() (1; 0% instances)
+Children of `PART` nodes are attached using 8 different relations: [pl-dep/case]() (107; 38% instances), [pl-dep/nmod]() (92; 33% instances), [pl-dep/punct]() (42; 15% instances), [pl-dep/advmod]() (21; 8% instances), [pl-dep/dobj]() (14; 5% instances), [pl-dep/cc]() (1; 0% instances), [pl-dep/ccomp]() (1; 0% instances), [pl-dep/conj]() (1; 0% instances)
 
-Children of `PART` nodes belong to 12 different parts of speech: [ADP]() (107; 33% instances), [NOUN]() (100; 31% instances), [AUX]() (43; 13% instances), [PUNCT]() (42; 13% instances), [NUM]() (13; 4% instances), [VERB]() (5; 2% instances), [ADJ]() (4; 1% instances), [PART]() (3; 1% instances), [ADV]() (2; 1% instances), [CONJ]() (1; 0% instances), [PRON]() (1; 0% instances), [X]() (1; 0% instances)
+Children of `PART` nodes belong to 12 different parts of speech: [ADP]() (107; 38% instances), [NOUN]() (101; 36% instances), [PUNCT]() (42; 15% instances), [PROPN]() (7; 3% instances), [NUM]() (6; 2% instances), [ADJ]() (4; 1% instances), [PART]() (3; 1% instances), [PRON]() (3; 1% instances), [ADV]() (2; 1% instances), [VERB]() (2; 1% instances), [CONJ]() (1; 0% instances), [X]() (1; 0% instances)
 

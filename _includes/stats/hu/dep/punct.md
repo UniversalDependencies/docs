@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3897 nodes (15%) are attached to their parents as `punct`.
+5801 nodes (14%) are attached to their parents as `punct`.
 
-3384 instances of `punct` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.46522966384398.
+5021 instances of `punct` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.00362006550595.
 
-The following 12 pairs of parts of speech are connected with `punct`: [hu-pos/VERB]()-[hu-pos/PUNCT]() (2494; 64% instances), [hu-pos/NOUN]()-[hu-pos/PUNCT]() (711; 18% instances), [hu-pos/ADJ]()-[hu-pos/PUNCT]() (370; 9% instances), [hu-pos/PROPN]()-[hu-pos/PUNCT]() (171; 4% instances), [hu-pos/ADV]()-[hu-pos/PUNCT]() (61; 2% instances), [hu-pos/PRON]()-[hu-pos/PUNCT]() (51; 1% instances), [hu-pos/NUM]()-[hu-pos/PUNCT]() (14; 0% instances), [hu-pos/CONJ]()-[hu-pos/PUNCT]() (7; 0% instances), [hu-pos/DET]()-[hu-pos/PUNCT]() (7; 0% instances), [hu-pos/INTJ]()-[hu-pos/PUNCT]() (6; 0% instances), [hu-pos/X]()-[hu-pos/PUNCT]() (4; 0% instances), [hu-pos/AUX]()-[hu-pos/PUNCT]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: [hu-pos/VERB]()-[hu-pos/PUNCT]() (3614; 62% instances), [hu-pos/NOUN]()-[hu-pos/PUNCT]() (1090; 19% instances), [hu-pos/ADJ]()-[hu-pos/PUNCT]() (547; 9% instances), [hu-pos/PROPN]()-[hu-pos/PUNCT]() (301; 5% instances), [hu-pos/ADV]()-[hu-pos/PUNCT]() (94; 2% instances), [hu-pos/PRON]()-[hu-pos/PUNCT]() (86; 1% instances), [hu-pos/NUM]()-[hu-pos/PUNCT]() (35; 1% instances), [hu-pos/CONJ]()-[hu-pos/PUNCT]() (8; 0% instances), [hu-pos/DET]()-[hu-pos/PUNCT]() (7; 0% instances), [hu-pos/INTJ]()-[hu-pos/PUNCT]() (6; 0% instances), [hu-pos/AUX]()-[hu-pos/PUNCT]() (5; 0% instances), [hu-pos/PUNCT]()-[hu-pos/PUNCT]() (4; 0% instances), [hu-pos/X]()-[hu-pos/PUNCT]() (4; 0% instances).
 
 
 ~~~ conllu

@@ -7,12 +7,12 @@
 This relation is universal.
 There are 2 language-specific subtypes of `det`: [det:poss](), [det:predet]().
 
-41578 nodes (15%) are attached to their parents as `det`.
+41588 nodes (15%) are attached to their parents as `det`.
 
-41564 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14868440040406.
+41574 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1489852842166.
 
-The following 11 pairs of parts of speech are connected with `det`: [it-pos/NOUN]()-[it-pos/DET]() (36540; 88% instances), [it-pos/PROPN]()-[it-pos/DET]() (3009; 7% instances), [it-pos/NUM]()-[it-pos/DET]() (838; 2% instances), [it-pos/PRON]()-[it-pos/DET]() (623; 1% instances), [it-pos/ADJ]()-[it-pos/DET]() (229; 1% instances), [it-pos/VERB]()-[it-pos/DET]() (153; 0% instances), [it-pos/SYM]()-[it-pos/DET]() (82; 0% instances), [it-pos/ADV]()-[it-pos/DET]() (58; 0% instances), [it-pos/ADP]()-[it-pos/DET]() (29; 0% instances), [it-pos/X]()-[it-pos/DET]() (11; 0% instances), [it-pos/PUNCT]()-[it-pos/DET]() (6; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: [it-pos/NOUN]()-[it-pos/DET]() (36550; 88% instances), [it-pos/PROPN]()-[it-pos/DET]() (3013; 7% instances), [it-pos/NUM]()-[it-pos/DET]() (836; 2% instances), [it-pos/PRON]()-[it-pos/DET]() (671; 2% instances), [it-pos/ADJ]()-[it-pos/DET]() (179; 0% instances), [it-pos/VERB]()-[it-pos/DET]() (153; 0% instances), [it-pos/SYM]()-[it-pos/DET]() (83; 0% instances), [it-pos/ADV]()-[it-pos/DET]() (57; 0% instances), [it-pos/ADP]()-[it-pos/DET]() (29; 0% instances), [it-pos/X]()-[it-pos/DET]() (11; 0% instances), [it-pos/PUNCT]()-[it-pos/DET]() (6; 0% instances).
 
 
 ~~~ conllu
@@ -21,7 +21,7 @@ The following 11 pairs of parts of speech are connected with `det`: [it-pos/NOUN
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur	3	det:predet	_	_
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Predet	3	det:predet	_	_
 2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	esseri	essere	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
 4	umani	umano	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
@@ -64,7 +64,7 @@ The following 11 pairs of parts of speech are connected with `det`: [it-pos/NOUN
 # visual-style 3 2 det	color:blue
 1	Da	da	ADP	E	_	3	case	_	_
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	'93	'93	NUM	N	NumType=Card	4	nummod	_	_
+3	'93	'93	NUM	N	NumType=Card	4	nmod	_	_
 4	dirige	dirigere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Festival	Festival	PROPN	SP	_	4	dobj	_	_

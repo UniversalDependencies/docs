@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-24 nodes (0%) are attached to their parents as `csubjpass`.
+23 nodes (0%) are attached to their parents as `csubjpass`.
 
-23 instances of `csubjpass` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.33333333333333.
+22 instances of `csubjpass` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.21739130434783.
 
-The following 5 pairs of parts of speech are connected with `csubjpass`: [it-pos/VERB]()-[it-pos/VERB]() (17; 71% instances), [it-pos/VERB]()-[it-pos/ADJ]() (4; 17% instances), [it-pos/ADJ]()-[it-pos/VERB]() (1; 4% instances), [it-pos/NOUN]()-[it-pos/VERB]() (1; 4% instances), [it-pos/VERB]()-[it-pos/NOUN]() (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `csubjpass`: [it-pos/VERB]()-[it-pos/VERB]() (16; 70% instances), [it-pos/VERB]()-[it-pos/ADJ]() (4; 17% instances), [it-pos/ADJ]()-[it-pos/VERB]() (1; 4% instances), [it-pos/NOUN]()-[it-pos/VERB]() (1; 4% instances), [it-pos/VERB]()-[it-pos/NOUN]() (1; 4% instances).
 
 
 ~~~ conllu
@@ -93,7 +93,7 @@ The following 5 pairs of parts of speech are connected with `csubjpass`: [it-pos
 19	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
 20	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	21	auxpass	_	_
 21	considerata	considerare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-22	interessante	interessante	ADJ	A	Number=Sing	21	xcomp	_	_
+22	interessante	interessante	ADJ	A	Number=Sing	21	xcomp	_	PRED
 23	da	da	ADP	E	_	25	case	_	_
 24	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 25	biografi	biografo	NOUN	S	Gender=Masc|Number=Plur	21	nmod	_	_

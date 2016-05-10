@@ -11,9 +11,9 @@ The 10 most frequent `ADV` lemmas: ஆகு, இன்று, மேலும�
 
 The 10 most frequent `ADV` types:  ஆக, இன்று, மேலும், ஆனால், பின்னர், இதனால், இதுகுறித்து, ஏற்கெனவே, இதுவரை, எனவே
 
-The 10 most frequent ambiguous lemmas: ஆகு ([PART]() 40, [ADP]() 37, [ADV]() 29, [ADJ]() 11, [AUX]() 5, [VERB]() 1), இன்று ([ADV]() 18, [NOUN]() 3), ஆனால் ([ADV]() 13, [VERB]() 2), பின்னர் ([ADV]() 11, [NOUN]() 1, [ADP]() 1), இது ([PRON]() 30, [ADV]() 9, [ADJ]() 4, [NOUN]() 3), தொடர் ([ADV]() 7, [ADP]() 3, [VERB]() 2, [NOUN]() 1), ஆக ([PART]() 59, [ADV]() 6, [ADP]() 3), இணை ([ADV]() 5, [VERB]() 3, [NOUN]() 1), சேர் ([ADP]() 7, [NOUN]() 5, [ADV]() 5, [ADJ]() 4, [VERB]() 1), முறை ([NOUN]() 8, [ADV]() 5)
+The 10 most frequent ambiguous lemmas: ஆகு ([PART]() 40, [ADP]() 37, [ADV]() 29, [ADJ]() 11, [AUX]() 5, [VERB]() 1), இன்று ([ADV]() 18, [NOUN]() 3), ஆனால் ([ADV]() 13, [VERB]() 2), பின்னர் ([ADV]() 11, [NOUN]() 1, [ADP]() 1), இது ([PRON]() 30, [ADV]() 9, [ADJ]() 4, [NOUN]() 3), தொடர் ([ADV]() 7, [ADP]() 3, [VERB]() 2, [NOUN]() 1), ஆக ([PART]() 59, [ADV]() 6, [ADP]() 3), இணை ([ADV]() 5, [VERB]() 3, [NOUN]() 1), சேர் ([ADP]() 7, [ADV]() 5, [NOUN]() 5, [ADJ]() 4, [VERB]() 1), முறை ([NOUN]() 8, [ADV]() 5)
 
-The 10 most frequent ambiguous types:  ஆக ([PART]() 64, [ADP]() 35, [ADV]() 31), இன்று ([ADV]() 18, [NOUN]() 3), ஆனால் ([ADV]() 13, [VERB]() 2), பின்னர் ([ADV]() 10, [NOUN]() 1, [ADP]() 1), தொடர்ந்து ([ADV]() 7, [ADP]() 3, [VERB]() 2), இணைந்து ([ADV]() 5, [VERB]() 1), சேர்ந்து ([ADV]() 5, [VERB]() 1), இதில் ([ADV]() 4, [NOUN]() 2), அதற்கு ([ADV]() 3, [PRON]() 1), ஆகக் ([PART]() 5, [ADV]() 3, [ADP]() 2)
+The 10 most frequent ambiguous types:  ஆக ([PART]() 64, [ADP]() 35, [ADV]() 31), இன்று ([ADV]() 18, [NOUN]() 3), ஆனால் ([ADV]() 13, [VERB]() 2), பின்னர் ([ADV]() 10, [ADP]() 1, [NOUN]() 1), தொடர்ந்து ([ADV]() 7, [ADP]() 3, [VERB]() 2), இணைந்து ([ADV]() 5, [VERB]() 1), சேர்ந்து ([ADV]() 5, [VERB]() 1), இதில் ([ADV]() 4, [NOUN]() 2), அதற்கு ([ADV]() 3, [PRON]() 1), ஆகக் ([PART]() 5, [ADV]() 3, [ADP]() 2)
 
 
 * ஆக
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  ஆக ([PART]() 64, [ADP]() 35, [ADV]() 
   * [VERB]() 2: ஆளும் ஐக்கிய ஜனதாதளம் - பாஜக கூட்டணிய் <b>ஆனால்</b> உம் சரி அல்லது ராஷ்ட்ரீய ஜனதாதளம் - லோக் ஜனசக்தி கூட்டணிய் <b>ஆனால்</b> உம் சரி இவை இரண்ட் உம் ஏ மத , ஜாதி அரசியலை முன்னிறுத்தி அரசியல் லாபம் அடைய முயல்கின்றன .
 * பின்னர்
   * [ADV]() 10: ஓய்வு பெற்ற <b>பின்னர்</b> செய்தியாளர்களிடம் அவர் கூறியத் ஆவது : .
-  * [NOUN]() 1: மேலும் , கட்சி கொறடாவின் உத்தரவை மீறி 11 பாஜக எமெலேக்கள் வாக்களித்த <b>பின்னர்</b> தான் அவர்களை தகுதி நீக்கம் செய்ய முடியும் .
   * [ADP]() 1: கடந்த ஆண்டு நடந்த போருக்குப் <b>பின்னர்</b> புலிகள் எந்தவிதத் தாக்குதலையும் நடத்தவ் இல்லை .
+  * [NOUN]() 1: மேலும் , கட்சி கொறடாவின் உத்தரவை மீறி 11 பாஜக எமெலேக்கள் வாக்களித்த <b>பின்னர்</b> தான் அவர்களை தகுதி நீக்கம் செய்ய முடியும் .
 * தொடர்ந்து
   * [ADV]() 7: ஆனால் <b>தொடர்ந்து</b> போராடுவோம் .
   * [ADP]() 3: அதனைத் <b>தொடர்ந்து</b> மற்ற பூஜை காலங்கள் நடைபெற்றது .
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  ஆக ([PART]() 64, [ADP]() 35, [ADV]() 
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.089041 (the average of all parts of speech is 1.559122).
+The form / lemma ratio of `ADV` is 1.089041 (the average of all parts of speech is 1.557992).
 
 The 1st highest number of forms (3) was observed with the lemma “ஆகு”: ஆக, ஆகக், ஆகப்.
 
@@ -66,21 +66,21 @@ The 3rd highest number of forms (2) was observed with the lemma “அங்க�
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 5 different relations: [ta-dep/advmod]() (371; 97% instances), [ta-dep/nmod]() (6; 2% instances), [ta-dep/mark]() (2; 1% instances), [ta-dep/advmod:emph]() (1; 0% instances), [ta-dep/case]() (1; 0% instances)
+`ADV` nodes are attached to their parents using 4 different relations: [ta-dep/advmod]() (377; 99% instances), [ta-dep/mark]() (2; 1% instances), [ta-dep/advmod:emph]() (1; 0% instances), [ta-dep/case]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 7 different parts of speech: [VERB]() (305; 80% instances), [ADJ]() (39; 10% instances), [NOUN]() (24; 6% instances), [ADV]() (5; 1% instances), [AUX]() (5; 1% instances), [PROPN]() (2; 1% instances), [NUM]() (1; 0% instances)
+Parents of `ADV` nodes belong to 7 different parts of speech: [VERB]() (304; 80% instances), [ADJ]() (39; 10% instances), [NOUN]() (25; 7% instances), [ADV]() (5; 1% instances), [AUX]() (5; 1% instances), [PROPN]() (2; 1% instances), [NUM]() (1; 0% instances)
 
-311 (82%) `ADV` nodes are leaves.
+310 (81%) `ADV` nodes are leaves.
 
 64 (17%) `ADV` nodes have one child.
 
 4 (1%) `ADV` nodes have two children.
 
-2 (1%) `ADV` nodes have three or more children.
+3 (1%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 5.
 
-Children of `ADV` nodes are attached using 9 different relations: [ta-dep/nmod]() (43; 53% instances), [ta-dep/amod]() (11; 14% instances), [ta-dep/advcl]() (9; 11% instances), [ta-dep/advmod]() (9; 11% instances), [ta-dep/nsubj]() (4; 5% instances), [ta-dep/dobj]() (2; 2% instances), [ta-dep/advmod:emph]() (1; 1% instances), [ta-dep/det]() (1; 1% instances), [ta-dep/nummod]() (1; 1% instances)
+Children of `ADV` nodes are attached using 11 different relations: [ta-dep/nmod]() (44; 52% instances), [ta-dep/amod]() (11; 13% instances), [ta-dep/advcl]() (9; 11% instances), [ta-dep/advmod]() (9; 11% instances), [ta-dep/nsubj]() (4; 5% instances), [ta-dep/dobj]() (3; 4% instances), [ta-dep/advmod:emph]() (1; 1% instances), [ta-dep/appos]() (1; 1% instances), [ta-dep/aux]() (1; 1% instances), [ta-dep/mark]() (1; 1% instances), [ta-dep/nummod]() (1; 1% instances)
 
-Children of `ADV` nodes belong to 9 different parts of speech: [NOUN]() (39; 48% instances), [ADJ]() (11; 14% instances), [VERB]() (9; 11% instances), [PRON]() (6; 7% instances), [ADV]() (5; 6% instances), [NUM]() (4; 5% instances), [PROPN]() (3; 4% instances), [DET]() (2; 2% instances), [PART]() (2; 2% instances)
+Children of `ADV` nodes belong to 9 different parts of speech: [NOUN]() (41; 48% instances), [ADJ]() (11; 13% instances), [VERB]() (9; 11% instances), [PRON]() (8; 9% instances), [ADV]() (5; 6% instances), [NUM]() (4; 5% instances), [PART]() (3; 4% instances), [PROPN]() (3; 4% instances), [AUX]() (1; 1% instances)
 

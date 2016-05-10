@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 6900 [fi-pos/VERB]() tokens (22% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6900; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6900; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (6900; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6900; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6900; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5183; 75%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4428; 64%), <tt><a href="PartForm.html">PartForm</a>=Past</tt> (4233; 61%), <tt><a href="Case.html">Case</a>=Nom</tt> (3841; 56%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (6900; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6900; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6900; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6900; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6900; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5183; 75%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4428; 64%), <tt><a href="PartForm.html">PartForm</a>=Past</tt> (4233; 61%), <tt><a href="Case.html">Case</a>=Nom</tt> (3841; 56%).
 
 `VERB` tokens may have the following values of `Degree`:
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 127 [fi-pos/AUX]() tokens (4% of all `AUX` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (127; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (127; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (127; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (127; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (110; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (110; 87%).
+The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (127; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (127; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (127; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (127; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (110; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (110; 87%).
 
 `AUX` tokens may have the following values of `Degree`:
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `AUX` and `Degree` co-occurred
 
 4 [fi-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (4; 100%).
 
 `PRON` tokens may have the following values of `Degree`:
 
@@ -165,8 +165,8 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<a href="../dep/nmod.html">nmod</a>]--> ADJ</tt> (8; 62%),
 <tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (4; 100%),
 <tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADJ</tt> (4; 100%),
-<tt>ADJ --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (3; 100%).
+<tt>ADJ --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> ADJ</tt> (3; 100%),
+<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (3; 75%).
 
 
 
@@ -177,22 +177,22 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 This feature is universal.
 It occurs with 2 different values: `Cmp`, `Sup`.
 
-1389 tokens (1%) have a non-empty value of `Degree`.
+1383 tokens (1%) have a non-empty value of `Degree`.
 720 types (2%) occur at least once with a non-empty value of `Degree`.
-379 lemmas (2%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 6 part-of-speech tags: [fi-pos/ADJ]() (881; 1% instances), [fi-pos/ADV]() (463; 0% instances), [fi-pos/DET]() (21; 0% instances), [fi-pos/PRON]() (16; 0% instances), [fi-pos/ADP]() (7; 0% instances), [fi-pos/VERB]() (1; 0% instances).
+381 lemmas (2%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 7 part-of-speech tags: [fi-pos/ADJ]() (870; 1% instances), [fi-pos/ADV]() (460; 0% instances), [fi-pos/DET]() (21; 0% instances), [fi-pos/PRON]() (15; 0% instances), [fi-pos/NOUN]() (9; 0% instances), [fi-pos/ADP]() (7; 0% instances), [fi-pos/VERB]() (1; 0% instances).
 
 ### `ADJ`
 
-881 [fi-pos/ADJ]() tokens (8% of all `ADJ` tokens) have a non-empty value of `Degree`.
+870 [fi-pos/ADJ]() tokens (8% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (680; 77%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (670; 77%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (446; 51% of non-empty `Degree`): <em>parempi, suurempi, vanhempi, mukavampi, parempaa, pienempiä, pitempi, aiempien, aikaisempaa, isompi</em>
-* `Sup` (435; 49% of non-empty `Degree`): <em>suurin, parasta, paras, mahdollisimman, parhaat, pahin, nopein, suurimman, suurimmat, tärkeintä</em>
-* `EMPTY` (9584): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, uutta, uuden, sellainen</em>
+* `Cmp` (440; 51% of non-empty `Degree`): <em>parempi, suurempi, vanhempi, mukavampi, parempaa, pienempiä, pitempi, aiempien, aikaisempaa, isompi</em>
+* `Sup` (430; 49% of non-empty `Degree`): <em>suurin, parasta, paras, mahdollisimman, parhaat, pahin, nopein, suurimman, suurimmat, tärkeintä</em>
+* `EMPTY` (9624): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
 
 <table>
   <tr><th>Paradigm <i>uusi</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -203,34 +203,34 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-463 [fi-pos/ADV]() tokens (3% of all `ADV` tokens) have a non-empty value of `Degree`.
+460 [fi-pos/ADV]() tokens (5% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (462; 100%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (446; 97%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (368; 79% of non-empty `Degree`): <em>enemmän, myöhemmin, paremmin, vähemmän, aikaisemmin, enempää, aiemmin, mieluummin, helpommin, ennemmin</em>
-* `Sup` (95; 21% of non-empty `Degree`): <em>eniten, parhaiten, useimmiten, vähiten, Pahiten, mieluimmin, mieluiten, ilmeisimmin, lähinnä, pahimmillaan</em>
-* `EMPTY` (15490): <em>niin, nyt, jo, myös, vielä, vain, sitten, kyllä, aina, ihan</em>
+* `Cmp` (366; 80% of non-empty `Degree`): <em>enemmän, myöhemmin, paremmin, vähemmän, aikaisemmin, enempää, aiemmin, mieluummin, helpommin, ennemmin</em>
+* `Sup` (94; 20% of non-empty `Degree`): <em>eniten, parhaiten, vähiten, Pahiten, useimmiten, mieluiten, ilmeisimmin, lähinnä, mieluimmin, pahimmillaan</em>
+* `EMPTY` (9744): <em>nyt, aina, paljon, siellä, täällä, hyvin, miten, niin, vähän, sitten</em>
 
 <table>
   <tr><th>Paradigm <i>mieluimmin</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
   <tr><td><tt></tt></td><td><em>mieluimmin</em></td><td><em>mieluimmin</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 99% lemmas (108) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 99% lemmas (107) occur only with one value of `Degree`.
 
 ### `DET`
 
 21 [fi-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (21; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (21; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (11; 52%), <tt><a href="Number.html">Number</a>=Plur</tt> (11; 52%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=Ind</tt> (21; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (11; 52%), <tt><a href="Number.html">Number</a>=Plur</tt> (11; 52%).
 
 `DET` tokens may have the following values of `Degree`:
 
 * `Cmp` (13; 62% of non-empty `Degree`): <em>useampi, useamman, useammat, Useampaa, harvemmalla, useammasta, useampia, useampiki, useampikin</em>
 * `Sup` (8; 38% of non-empty `Degree`): <em>useimmat, useimmilla, Useimmissa, Useimpien</em>
-* `EMPTY` (3861): <em>se, sen, hänen, kaikki, mitään, tämä, joka, sitä, joku, tällä</em>
+* `EMPTY` (4088): <em>se, sen, hänen, kaikki, mitään, tämä, joka, sitä, joku, tällä</em>
 
 <table>
   <tr><th>Paradigm <i>usea</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -239,7 +239,8 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><em>useamman</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>Useimpien</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ine|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>Useimmissa</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Sing</tt></td><td><em>useampiki, useampikin</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Sing</tt></td><td><em>useampikin</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll</tt></td><td><em>useampiki</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><em>useampi</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>useammat</em></td><td><em>useimmat</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number.html">Number</a>=Sing</tt></td><td><em>Useampaa</em></td><td></td></tr>
@@ -248,15 +249,15 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 ### `PRON`
 
-16 [fi-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
+15 [fi-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (16; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (16; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (13; 81%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (15; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (15; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (12; 80%).
 
 `PRON` tokens may have the following values of `Degree`:
 
-* `Cmp` (8; 50% of non-empty `Degree`): <em>useampia, useampien, harvemman, useammalle, useamman, useampiakin</em>
-* `Sup` (8; 50% of non-empty `Degree`): <em>useimmat, Useimmilla, useimpien</em>
-* `EMPTY` (10624): <em>se, hän, minä, sen, sitä, mitä, joka, mä, ne, sinä</em>
+* `Cmp` (8; 53% of non-empty `Degree`): <em>useampia, useampien, harvemman, useammalle, useamman, useampiakin</em>
+* `Sup` (7; 47% of non-empty `Degree`): <em>useimmat, Useimmilla, useimpien</em>
+* `EMPTY` (10557): <em>se, hän, minä, sen, sitä, mitä, joka, mä, ne, sinä</em>
 
 <table>
   <tr><th>Paradigm <i>usea</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -269,6 +270,18 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number.html">Number</a>=Plur</tt></td><td><em>useampia</em></td><td></td></tr>
 </table>
 
+### `NOUN`
+
+9 [fi-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (9; 100%).
+
+`NOUN` tokens may have the following values of `Degree`:
+
+* `Cmp` (6; 67% of non-empty `Degree`): <em>connerympään, demarimpaa, ihmeempää, kiireemmäksi, rokimpaa, turvemmassa</em>
+* `Sup` (3; 33% of non-empty `Degree`): <em>herkuin, ihmisintä, nikseimpänä</em>
+* `EMPTY` (37027): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
+
 ### `ADP`
 
 7 [fi-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Degree`.
@@ -277,23 +290,23 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 
 * `Cmp` (5; 71% of non-empty `Degree`): <em>lähempänä, lähemmäs, lähempää, pidemmälle</em>
 * `Sup` (2; 29% of non-empty `Degree`): <em>Lähimpänä, lähinnä</em>
-* `EMPTY` (2727): <em>kanssa, mukaan, jälkeen, ennen, asti, ilman, sitten, takia, kautta, vuoksi</em>
+* `EMPTY` (2724): <em>kanssa, mukaan, jälkeen, ennen, asti, ilman, sitten, takia, kautta, vuoksi</em>
 
 ### `VERB`
 
 1 [fi-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="PartForm.html">PartForm</a>=Pres</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Ess</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="PartForm.html">PartForm</a>=Pres</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Ess</tt> (1; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>korostavampana</em>
-* `EMPTY` (37775): <em>on, ei, oli, ole, ovat, en, olla, olisi, voi, ollut</em>
+* `EMPTY` (37599): <em>on, ei, oli, ole, ovat, en, olla, olisi, voi, ollut</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (32; 59%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (32; 60%),
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (10; 91%),
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1; 100%).
 

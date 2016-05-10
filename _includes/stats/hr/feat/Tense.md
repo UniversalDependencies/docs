@@ -35,7 +35,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td></td><td><em>bi</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>je, bude, jest, jeste</em></td><td><em>bi</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td><em>smo</em></td><td><em>bismo</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><em>ste, Jeste</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><em>Jeste, ste</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>su, budu, jesu, biti</em></td><td><em>bi</em></td></tr>
 </table>
 
@@ -72,6 +72,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/cop.html">cop</a>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 67%),
 <tt>AUX --[<a href="../dep/remnant.html">remnant</a>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%).
 

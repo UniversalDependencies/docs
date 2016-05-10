@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 84 [he-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (84; 100%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (84; 100%), <tt><a href="Person.html">Person</a>=1,2,3</tt> (84; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (84; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (84; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (61; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (44; 52%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (84; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (84; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (84; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (84; 100%), <tt><a href="Person.html">Person</a>=1,2,3</tt> (84; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (61; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (44; 52%).
 
 `VERB` tokens may have the following values of `Definite`:
 

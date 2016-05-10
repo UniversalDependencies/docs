@@ -21,7 +21,7 @@ The following 6 pairs of parts of speech are connected with `det:predet`: [it-po
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 det:predet	color:blue
-1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur	3	det:predet	_	_
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Predet	3	det:predet	_	_
 2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	esseri	essere	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
 4	umani	umano	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
@@ -46,7 +46,7 @@ The following 6 pairs of parts of speech are connected with `det:predet`: [it-po
 # visual-style 4	fgColor:white
 # visual-style 4 2 det:predet	color:blue
 1	Mica	mica	ADV	BN	PronType=Neg	6	neg	_	_
-2	tutta	tutto	DET	T	Gender=Fem|Number=Sing	4	det:predet	_	_
+2	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Predet	4	det:predet	_	_
 3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	America	America	PROPN	SP	_	6	nsubj	_	_
 5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -66,11 +66,11 @@ The following 6 pairs of parts of speech are connected with `det:predet`: [it-po
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 det:predet	color:blue
-1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur	3	det:predet	_	_
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Predet	3	det:predet	_	_
 2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	_
 4	erano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-5	di	di	ADP	E	_	7	case	_	_
+5	di	di	ADP	E	_	7	case	_	PRED
 6	diversa	diverso	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
 7	opinione	opinione	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
 8	e	e	CONJ	CC	_	4	cc	_	_

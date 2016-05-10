@@ -14,7 +14,7 @@ The feature is used with 1 part-of-speech tags: [ta-pos/PRON]() (236; 2% instanc
 
 ### `PRON`
 
-236 [ta-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+236 [ta-pos/PRON]() tokens (95% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (196; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (175; 74%), <tt><a href="Gender.html">Gender</a>=Com</tt> (171; 72%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (166; 70%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (135; 57%), <tt><a href="Case.html">Case</a>=Nom</tt> (134; 57%).
 
@@ -23,6 +23,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (8; 3% of non-empty `PronType`): யாரும், எதுவும், யாருக்கும், யாரையும்
 * `Int` (6; 3% of non-empty `PronType`): யார், எத்தகையது, ஏத், யாருடைய
 * `Prs` (222; 94% of non-empty `PronType`): அவர், இது, அனைவரும், அவர்கள், தனது, அது, அதை, நான், அவரது, அவர்களை
+* `EMPTY` (12): அதிகம், இந்த, மிகவும், முழுவதும், அந்தத், குறைவாகவே, கொஞ்சம், முழுக்
 
 <table>
   <tr><th>Paradigm <i>யார்</i></th><th><tt>Int</tt></th><th><tt>Ind</tt></th></tr>

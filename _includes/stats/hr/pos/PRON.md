@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: <em>sebe, koji, taj, svoj, što, ovaj, on, n
 
 The 10 most frequent `PRON` types:  <em>se, koji, što, to, koje, koja, svoje, ove, toga, kojima</em>
 
-The 10 most frequent ambiguous lemmas: <em>što</em> ([PRON]() 295, [PART]() 7, [SCONJ]() 7), <em>neki</em> ([PRON]() 100, [ADJ]() 1), <em>nešto</em> ([PRON]() 12, [ADV]() 2, [PART]() 1), <em>sve</em> ([PART]() 25, [PRON]() 2)
+The 10 most frequent ambiguous lemmas: <em>što</em> ([PRON]() 295, [SCONJ]() 7, [PART]() 7), <em>neki</em> ([PRON]() 100, [ADJ]() 1), <em>nešto</em> ([PRON]() 12, [ADV]() 2, [PART]() 1), <em>sve</em> ([PART]() 25, [PRON]() 2)
 
 The 10 most frequent ambiguous types:  <em>što</em> ([PRON]() 259, [SCONJ]() 7, [PART]() 6), <em>to</em> ([PRON]() 165, [PART]() 1), <em>te</em> ([CONJ]() 124, [PRON]() 31, [SCONJ]() 2), <em>tim</em> ([PRON]() 20, [NOUN]() 9), <em>je</em> ([AUX]() 2991, [PRON]() 15), <em>nešto</em> ([PRON]() 11, [ADV]() 2, [PART]() 1), <em>tu</em> ([PRON]() 11, [ADV]() 4), <em>sve</em> ([ADJ]() 67, [PART]() 20, [PRON]() 2)
 

@@ -11,7 +11,7 @@ This relation is universal.
 1144 instances of `neg` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.1053089643168.
 
-The following 4 pairs of parts of speech are connected with `neg`: [pl-pos/VERB]()-[pl-pos/PART]() (1037; 90% instances), [pl-pos/ADJ]()-[pl-pos/PART]() (39; 3% instances), [pl-pos/AUX]()-[pl-pos/PART]() (39; 3% instances), [pl-pos/NOUN]()-[pl-pos/PART]() (34; 3% instances).
+The following 6 pairs of parts of speech are connected with `neg`: [pl-pos/VERB]()-[pl-pos/PART]() (1036; 90% instances), [pl-pos/ADJ]()-[pl-pos/PART]() (39; 3% instances), [pl-pos/AUX]()-[pl-pos/PART]() (39; 3% instances), [pl-pos/NOUN]()-[pl-pos/PART]() (28; 2% instances), [pl-pos/PRON]()-[pl-pos/PART]() (4; 0% instances), [pl-pos/PROPN]()-[pl-pos/PART]() (3; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `neg`: [pl-pos/VERB]
 # visual-style 6 5 neg	color:blue
 1	Na	na	ADP	prep:acc	AdpType=Prep|Case=Acc	2	case	_	_
 2	siłę	siła	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
-3	nikogo	nikt	NOUN	subst:sg:gen:m1	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	dobj	_	_
+3	nikogo	nikt	PRON	subst:sg:gen:m1	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Neg	4	dobj	_	_
 4	zatrzymywać	zatrzymywać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf	0	root	_	_
 5	nie	nie	PART	qub:_	_	6	neg	_	_
 6	będziemy	być	AUX	bedzie:pl:pri:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	4	aux	_	_

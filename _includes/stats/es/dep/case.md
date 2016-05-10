@@ -72,3 +72,75 @@ The following 69 pairs of parts of speech are connected with `case`: [es-pos/NOU
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+76033 nodes (14%) are attached to their parents as `case`.
+
+74730 instances of `case` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75189720253048.
+
+The following 46 pairs of parts of speech are connected with `case`: [es-pos/NOUN]()-[es-pos/ADP]() (50629; 67% instances), [es-pos/PROPN]()-[es-pos/ADP]() (17476; 23% instances), [es-pos/PRON]()-[es-pos/ADP]() (2748; 4% instances), [es-pos/NUM]()-[es-pos/ADP]() (1748; 2% instances), [es-pos/ADV]()-[es-pos/ADP]() (1105; 1% instances), [es-pos/ADJ]()-[es-pos/ADP]() (830; 1% instances), [es-pos/DET]()-[es-pos/ADP]() (528; 1% instances), [es-pos/NOUN]()-[es-pos/NOUN]() (251; 0% instances), [es-pos/SYM]()-[es-pos/ADP]() (144; 0% instances), [es-pos/NOUN]()-[es-pos/ADJ]() (130; 0% instances), [es-pos/ADP]()-[es-pos/ADP]() (103; 0% instances), [es-pos/NOUN]()-[es-pos/ADV]() (102; 0% instances), [es-pos/PROPN]()-[es-pos/NOUN]() (37; 0% instances), [es-pos/NOUN]()-[es-pos/SCONJ]() (24; 0% instances), [es-pos/PROPN]()-[es-pos/ADJ]() (23; 0% instances), [es-pos/PRON]()-[es-pos/VERB]() (21; 0% instances), [es-pos/PROPN]()-[es-pos/ADV]() (17; 0% instances), [es-pos/PRON]()-[es-pos/NOUN]() (16; 0% instances), [es-pos/NUM]()-[es-pos/NOUN]() (15; 0% instances), [es-pos/CONJ]()-[es-pos/ADP]() (12; 0% instances), [es-pos/DET]()-[es-pos/VERB]() (10; 0% instances), [es-pos/NOUN]()-[es-pos/DET]() (9; 0% instances), [es-pos/PRON]()-[es-pos/ADJ]() (9; 0% instances), [es-pos/PROPN]()-[es-pos/SCONJ]() (6; 0% instances), [es-pos/ADJ]()-[es-pos/NOUN]() (4; 0% instances), [es-pos/ADJ]()-[es-pos/ADV]() (3; 0% instances), [es-pos/DET]()-[es-pos/AUX]() (3; 0% instances), [es-pos/INTJ]()-[es-pos/ADP]() (3; 0% instances), [es-pos/PART]()-[es-pos/ADP]() (3; 0% instances), [es-pos/PRON]()-[es-pos/ADV]() (3; 0% instances), [es-pos/ADP]()-[es-pos/ADV]() (2; 0% instances), [es-pos/ADV]()-[es-pos/ADV]() (2; 0% instances), [es-pos/DET]()-[es-pos/ADJ]() (2; 0% instances), [es-pos/NOUN]()-[es-pos/VERB]() (2; 0% instances), [es-pos/X]()-[es-pos/ADP]() (2; 0% instances), [es-pos/ADJ]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/ADP]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/ADP]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/ADP]()-[es-pos/VERB]() (1; 0% instances), [es-pos/ADV]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/NUM]()-[es-pos/ADV]() (1; 0% instances), [es-pos/PRON]()-[es-pos/AUX]() (1; 0% instances), [es-pos/PRON]()-[es-pos/NUM]() (1; 0% instances), [es-pos/SCONJ]()-[es-pos/ADP]() (1; 0% instances), [es-pos/SYM]()-[es-pos/ADV]() (1; 0% instances), [es-pos/SYM]()-[es-pos/NOUN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 case	color:blue
+1	Desde	desde	ADP	ADP	AdpType=Prep	2	case	_	_
+2	entonces	entonces	ADV	ADV	_	3	advmod	_	_
+3	entró	entrar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	ADP	AdpType=Prep	5	case	_	_
+5	silencio	silencio	NOUN	NOUN	Gender=Masc|Number=Sing	3	nmod	_	_
+6	absoluto	absoluto	ADJ	ADJ	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 case	color:blue
+1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	familia	familia	NOUN	NOUN	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	reposa	reposar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sobre	sobre	ADP	ADP	AdpType=Prep	6	case	_	_
+5	una	uno	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	manta	manta	NOUN	NOUN	Gender=Fem|Number=Sing	3	nmod	_	_
+7	en	en	ADP	ADP	AdpType=Prep	9	case	_	_
+8	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	campo	campo	NOUN	NOUN	Gender=Masc|Number=Sing	3	nmod	_	_
+10	de	de	ADP	ADP	AdpType=Prep	11	case	_	_
+11	Verulam	Verulam	PROPN	PROPN	_	9	nmod	_	_
+12	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 case	color:blue
+1	Todos	todo	PRON	PRON	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	_
+2	éramos	ser	AUX	AUX	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	poco	poco	PRON	PRON	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+5	de	de	ADP	ADP	AdpType=Prep	6	case	_	_
+6	ti	tú	PRON	PRON	Number=Sing|Person=2|PrepCase=Pre|PronType=Prs	4	nmod	_	_
+7	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+
+~~~
+
+

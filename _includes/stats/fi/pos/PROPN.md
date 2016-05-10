@@ -95,30 +95,36 @@ Children of `PROPN` nodes belong to 14 different parts of speech: [PROPN]() (336
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 3017 `PROPN` lemmas (14%), 3914 `PROPN` types (9%) and 6207 `PROPN` tokens (4%).
-Out of 14 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 4 in number of types and 7 in number of tokens.
+There are 3120 `PROPN` lemmas (14%), 4106 `PROPN` types (9%) and 6773 `PROPN` tokens (4%).
+Out of 16 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>suomi, helsinki, ruotsi, tampere, maija, eurooppa, mikko, venäjä, ranska, anna</em>
+The 10 most frequent `PROPN` lemmas: <em>suomi, helsinki, tampere, ruotsi, eurooppa, maija, mikko, venäjä, ranska, anna</em>
 
-The 10 most frequent `PROPN` types:  <em>Suomen, suomessa, Suomi, Maija, Mikko, Helsingin, Anna, Euroopan, Helsingissä, Suomeen</em>
+The 10 most frequent `PROPN` types:  <em>Suomen, suomessa, Suomi, Helsingin, Maija, Mikko, Euroopan, Anna, Helsingissä, Suomeen</em>
 
-The 10 most frequent ambiguous lemmas: <em>suomi</em> ([PROPN]() 331, [NOUN]() 27), <em>ruotsi</em> ([PROPN]() 61, [NOUN]() 4), <em>venäjä</em> ([PROPN]() 39, [NOUN]() 2), <em>ranska</em> ([PROPN]() 36, [NOUN]() 12), <em>saksa</em> ([PROPN]() 26, [NOUN]() 9), <em>matti</em> ([PROPN]() 21, [NOUN]() 2), <em>turku</em> ([PROPN]() 18, [NOUN]() 1), <em>englanti</em> ([PROPN]() 16, [NOUN]() 9), <em>norja</em> ([PROPN]() 16, [ADJ]() 1), <em>viro</em> ([PROPN]() 16, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>suomi</em> ([PROPN]() 337, [NOUN]() 26), <em>ruotsi</em> ([PROPN]() 61, [NOUN]() 4), <em>venäjä</em> ([PROPN]() 39, [NOUN]() 2), <em>ranska</em> ([PROPN]() 36, [NOUN]() 12), <em>saksa</em> ([PROPN]() 27, [NOUN]() 9), <em>turku</em> ([PROPN]() 24, [NOUN]() 1), <em>englanti</em> ([PROPN]() 16, [NOUN]() 9), <em>norja</em> ([PROPN]() 16, [ADJ]() 1), <em>viro</em> ([PROPN]() 16, [NOUN]() 1), <em>jussi</em> ([PROPN]() 14, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>Suomen</em> ([PROPN]() 125, [NOUN]() 2), <em>Anna</em> ([PROPN]() 28, [VERB]() 10), <em>Lahden</em> ([PROPN]() 4, [NOUN]() 1), <em>Nato</em> ([PROPN]() 4, [NOUN]() 1), <em>Hirvi</em> ([PROPN]() 2, [NOUN]() 1), <em>Huurre</em> ([PROPN]() 2, [NOUN]() 1), <em>Johan</em> ([ADV]() 3, [PROPN]() 2), <em>Maan</em> ([PROPN]() 2, [NOUN]() 1), <em>Sain</em> ([VERB]() 15, [PROPN]() 2), <em>Alan</em> ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>Suomen</em> ([PROPN]() 131, [NOUN]() 2), <em>Anna</em> ([PROPN]() 28, [VERB]() 10), <em>New</em> ([PROPN]() 8, [X]() 1), <em>Lahden</em> ([PROPN]() 5, [NOUN]() 1), <em>Sanomien</em> ([PROPN]() 4, [NOUN]() 3), <em>Alan</em> ([PROPN]() 2, [NOUN]() 1), <em>Hirvi</em> ([PROPN]() 2, [NOUN]() 1), <em>Huurre</em> ([PROPN]() 2, [NOUN]() 1), <em>Johan</em> ([PART]() 3, [PROPN]() 2), <em>Maan</em> ([PROPN]() 2, [NOUN]() 1)
 
 
 * <em>Suomen</em>
-  * [PROPN]() 125: <em>Oulussa on <b>Suomen</b> toiseksi suurin yliopisto .</em>
+  * [PROPN]() 131: <em>ketkä kaksi <b>Suomen</b> presidenttiä</em>
   * [NOUN]() 2: <em><b>Suomen</b> kielen laitos Lehtonen</em>
 * <em>Anna</em>
   * [PROPN]() 28: <em><b>Anna</b> ja Mikko ovat parhaat kaverukset</em>
-  * [VERB]() 10: <em><b>Anna</b> minä autan .</em>
+  * [VERB]() 10: <em><b>Anna</b> minä yritän</em>
+* <em>New</em>
+  * [PROPN]() 8: <em>Lontoo on Tokion ja <b>New</b> Yorkin aikavyöhykkeiden välissä .</em>
+  * [X]() 1: <em>Nykyisin hän lentää aina muutaman viikon väliajoin Bostonista Tokioon kahdeksi viikoksi johtamaan nuorta <b>New</b> Japan Philharmonic Orchestraa ja lisäksi johtaa aika ajoin Euroopassa .</em>
 * <em>Lahden</em>
-  * [PROPN]() 4: <em><b>Lahden</b> olympiahankkeen edustajat käyvät tänään Samaranchin juttusilla</em>
+  * [PROPN]() 5: <em><b>Lahden</b> olympiahankkeen edustajat käyvät tänään Samaranchin juttusilla</em>
   * [NOUN]() 1: <em><b>Lahden</b> alapuolisella jokiosuudella</em>
-* <em>Nato</em>
-  * [PROPN]() 4: <em>Euroopassa on vain yksi sotilaallinen voima ja se on <b>Nato</b> .</em>
-  * [NOUN]() 1: <em><b>Nato</b> , 50 , pommitti ihmisoikeusjulistusta .</em>
+* <em>Sanomien</em>
+  * [PROPN]() 4: <em>Hämäläinen sanoo lauantain Helsingin <b>Sanomien</b> haastattelussa , että --</em>
+  * [NOUN]() 3: <em><b>Sanomien</b> päätuote , Helsingin Sanomat</em>
+* <em>Alan</em>
+  * [PROPN]() 2: <em>Uusseelantilaisen <b>Alan</b> Duffin romaanin filmatisointi hajoavasta maoriperheestä Aucklandin slummeissa</em>
+  * [NOUN]() 1: <em><b>Alan</b> kannattavuus on heikko kaikissa EU:n jäsenmaissa .</em>
 * <em>Hirvi</em>
   * [PROPN]() 2: <em>Sen vuoksi kutsuttakoon häntä nimellä <b>Hirvi</b> .</em>
   * [NOUN]() 1: <em><b>Hirvi</b> kun ei valitettavasti lue liikennemerkkejä .</em>
@@ -126,21 +132,15 @@ The 10 most frequent ambiguous types:  <em>Suomen</em> ([PROPN]() 125, [NOUN]() 
   * [PROPN]() 2: <em>Minä jo vähän ihmettelin tiistaina kun <b>Huurre</b> ei avannut liikettään , Nurminen sanoi .</em>
   * [NOUN]() 1: <em><b>Huurre</b> asetteli sormenpäitään yhteen harkiten , ikään kuin olisi rakentanut monimutkaista palapeliä .</em>
 * <em>Johan</em>
-  * [ADV]() 3: <em><b>Johan</b> nyt jotakin .</em>
+  * [PART]() 3: <em><b>Johan</b> nyt jotakin .</em>
   * [PROPN]() 2: <em><b>Johan</b> se on taktisestikin aivan typerää että ne ovat siellä täällä .</em>
 * <em>Maan</em>
   * [PROPN]() 2: <em>Planeettojen kaasukehässä on happea <b>Maan</b> lisäksi vain Marsilla ja Venuksella .</em>
   * [NOUN]() 1: <em><b>Maan</b> paras kuulantyöntäjätär halajaa olympiakisoihin .</em>
-* <em>Sain</em>
-  * [VERB]() 15: <em><b>Sain</b> enemmän kuin uskalsin toivoakaan .</em>
-  * [PROPN]() 2: <em>Laskeuduimme kumiplantaasille , ja siitä jatkoimme Yoeune <b>Sain</b> kylään .</em>
-* <em>Alan</em>
-  * [NOUN]() 1: <em><b>Alan</b> kannattavuus on heikko kaikissa EU:n jäsenmaissa .</em>
-  * [PROPN]() 1: <em>Uusseelantilaisen <b>Alan</b> Duffin romaanin filmatisointi hajoavasta maoriperheestä Aucklandin slummeissa</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.297315 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `PROPN` is 1.316026 (the average of all parts of speech is 2.044212).
 
 The 1st highest number of forms (14) was observed with the lemma “suomi”: <em>Suomea, Suomeen, Suomella, Suomelle, Suomen, Suomenkin, Suomessakin, Suomessako, Suomesta, Suomestakin, Suomet, Suomi, Suomikin, suomessa</em>.
 
@@ -148,32 +148,32 @@ The 2nd highest number of forms (9) was observed with the lemma “ruotsi”: <e
 
 The 3rd highest number of forms (8) was observed with the lemma “tampere”: <em>Tampere, Tampereella, Tampereelle, Tampereelta, Tampereen, Tampereeseen, Tampereesta, Tamperetta</em>.
 
-`PROPN` occurs with 5 features: [fi-feat/Case]() (6207; 100% instances), [fi-feat/Number]() (6207; 100% instances), [fi-feat/Clitic]() (57; 1% instances), [fi-feat/Person[psor]]() (10; 0% instances), [fi-feat/Number[psor]]() (5; 0% instances)
+`PROPN` occurs with 7 features: [fi-feat/Case]() (6773; 100% instances), [fi-feat/Number]() (6773; 100% instances), [fi-feat/Abbr]() (201; 3% instances), [fi-feat/Clitic]() (57; 1% instances), [fi-feat/Style]() (34; 1% instances), [fi-feat/Person[psor]]() (10; 0% instances), [fi-feat/Number[psor]]() (5; 0% instances)
 
-`PROPN` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
+`PROPN` occurs with 25 feature-value pairs: `Abbr=Yes`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Style=Arch`, `Style=Coll`
 
-`PROPN` occurs with 51 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (2676 tokens).
-Examples: <em>Suomi, Maija, Mikko, Anna, Lasse, Pekka, Matti, Antti, Jussi, Liisa</em>
+`PROPN` occurs with 78 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing` (2987 tokens).
+Examples: <em>Suomi, Maija, Mikko, Anna, Lasse, Pekka, matti, Antti, Halonen, Lipponen</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 11 different relations: [fi-dep/nmod]() (3325; 54% instances), [fi-dep/nsubj]() (1893; 30% instances), [fi-dep/conj]() (388; 6% instances), [fi-dep/dobj]() (317; 5% instances), [fi-dep/root]() (171; 3% instances), [fi-dep/vocative]() (63; 1% instances), [fi-dep/advcl:compar]() (40; 1% instances), [fi-dep/advcl]() (4; 0% instances), [fi-dep/ccomp]() (3; 0% instances), [fi-dep/acl]() (2; 0% instances), [fi-dep/csubj]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 21 different relations: [fi-dep/nmod]() (3066; 45% instances), [fi-dep/nsubj]() (1627; 24% instances), [fi-dep/name]() (772; 11% instances), [fi-dep/conj]() (404; 6% instances), [fi-dep/dobj]() (309; 5% instances), [fi-dep/nsubj:cop]() (241; 4% instances), [fi-dep/root]() (161; 2% instances), [fi-dep/vocative]() (64; 1% instances), [fi-dep/nmod:own]() (44; 1% instances), [fi-dep/advcl]() (43; 1% instances), [fi-dep/compound:nn]() (12; 0% instances), [fi-dep/nmod:gsubj]() (8; 0% instances), [fi-dep/nmod:gobj]() (6; 0% instances), [fi-dep/nummod]() (5; 0% instances), [fi-dep/acl]() (2; 0% instances), [fi-dep/amod]() (2; 0% instances), [fi-dep/appos]() (2; 0% instances), [fi-dep/ccomp]() (2; 0% instances), [fi-dep/csubj:cop]() (1; 0% instances), [fi-dep/foreign]() (1; 0% instances), [fi-dep/goeswith]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 11 different parts of speech: [VERB]() (3122; 50% instances), [NOUN]() (1748; 28% instances), [PROPN]() (864; 14% instances), [ADJ]() (190; 3% instances), [ROOT]() (171; 3% instances), [PRON]() (47; 1% instances), [ADV]() (36; 1% instances), [NUM]() (13; 0% instances), [X]() (8; 0% instances), [DET]() (6; 0% instances), [INTJ]() (2; 0% instances)
+Parents of `PROPN` nodes belong to 11 different parts of speech: [VERB]() (3151; 47% instances), [NOUN]() (1879; 28% instances), [PROPN]() (1265; 19% instances), [ADJ]() (213; 3% instances), [ROOT]() (161; 2% instances), [PRON]() (49; 1% instances), [ADV]() (34; 1% instances), [X]() (9; 0% instances), [DET]() (7; 0% instances), [NUM]() (3; 0% instances), [INTJ]() (2; 0% instances)
 
-4056 (65%) `PROPN` nodes are leaves.
+4400 (65%) `PROPN` nodes are leaves.
 
-1220 (20%) `PROPN` nodes have one child.
+1353 (20%) `PROPN` nodes have one child.
 
-598 (10%) `PROPN` nodes have two children.
+637 (9%) `PROPN` nodes have two children.
 
-333 (5%) `PROPN` nodes have three or more children.
+383 (6%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 10.
 
-Children of `PROPN` nodes are attached using 20 different relations: [fi-dep/nmod]() (993; 27% instances), [fi-dep/punct]() (925; 25% instances), [fi-dep/conj]() (437; 12% instances), [fi-dep/cc]() (330; 9% instances), [fi-dep/case]() (227; 6% instances), [fi-dep/amod]() (200; 5% instances), [fi-dep/advmod]() (146; 4% instances), [fi-dep/det]() (89; 2% instances), [fi-dep/acl]() (63; 2% instances), [fi-dep/cop]() (63; 2% instances), [fi-dep/nsubj]() (55; 2% instances), [fi-dep/dep]() (49; 1% instances), [fi-dep/mark:comparator]() (36; 1% instances), [fi-dep/nummod]() (20; 1% instances), [fi-dep/mark]() (12; 0% instances), [fi-dep/aux]() (6; 0% instances), [fi-dep/neg]() (5; 0% instances), [fi-dep/ccomp]() (2; 0% instances), [fi-dep/advcl]() (1; 0% instances), [fi-dep/csubj]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 25 different relations: [fi-dep/punct]() (943; 23% instances), [fi-dep/name]() (809; 20% instances), [fi-dep/conj]() (449; 11% instances), [fi-dep/cc]() (333; 8% instances), [fi-dep/compound:nn]() (271; 7% instances), [fi-dep/nmod]() (260; 6% instances), [fi-dep/case]() (227; 6% instances), [fi-dep/advmod]() (147; 4% instances), [fi-dep/amod]() (143; 4% instances), [fi-dep/acl]() (136; 3% instances), [fi-dep/det]() (88; 2% instances), [fi-dep/mark]() (71; 2% instances), [fi-dep/cop]() (62; 2% instances), [fi-dep/nsubj:cop]() (53; 1% instances), [fi-dep/dep]() (23; 1% instances), [fi-dep/nummod]() (20; 0% instances), [fi-dep/aux]() (6; 0% instances), [fi-dep/neg]() (5; 0% instances), [fi-dep/nsubj]() (2; 0% instances), [fi-dep/advcl]() (1; 0% instances), [fi-dep/ccomp]() (1; 0% instances), [fi-dep/csubj:cop]() (1; 0% instances), [fi-dep/discourse]() (1; 0% instances), [fi-dep/foreign]() (1; 0% instances), [fi-dep/reparandum]() (1; 0% instances)
 
-Children of `PROPN` nodes belong to 14 different parts of speech: [PUNCT]() (925; 25% instances), [PROPN]() (864; 24% instances), [NOUN]() (538; 15% instances), [CONJ]() (331; 9% instances), [ADP]() (227; 6% instances), [VERB]() (216; 6% instances), [ADV]() (180; 5% instances), [ADJ]() (141; 4% instances), [DET]() (89; 2% instances), [PRON]() (61; 2% instances), [SCONJ]() (48; 1% instances), [NUM]() (21; 1% instances), [X]() (17; 0% instances), [INTJ]() (2; 0% instances)
+Children of `PROPN` nodes belong to 16 different parts of speech: [PROPN]() (1265; 31% instances), [PUNCT]() (943; 23% instances), [NOUN]() (476; 12% instances), [CONJ]() (334; 8% instances), [ADP]() (227; 6% instances), [VERB]() (215; 5% instances), [ADJ]() (151; 4% instances), [PART]() (95; 2% instances), [DET]() (89; 2% instances), [ADV]() (84; 2% instances), [PRON]() (66; 2% instances), [SCONJ]() (50; 1% instances), [NUM]() (32; 1% instances), [X]() (19; 0% instances), [SYM]() (7; 0% instances), [INTJ]() (1; 0% instances)
 

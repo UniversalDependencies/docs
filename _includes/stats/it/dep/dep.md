@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `dep`.
+8 nodes (0%) are attached to their parents as `dep`.
 
-5 instances of `dep` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.66666666666667.
+5 instances of `dep` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5.
 
-The following 4 pairs of parts of speech are connected with `dep`: [it-pos/VERB]()-[it-pos/ADP]() (3; 50% instances), [it-pos/NOUN]()-[it-pos/ADP]() (1; 17% instances), [it-pos/PROPN]()-[it-pos/ADP]() (1; 17% instances), [it-pos/VERB]()-[it-pos/ADV]() (1; 17% instances).
+The following 4 pairs of parts of speech are connected with `dep`: [it-pos/VERB]()-[it-pos/ADP]() (5; 63% instances), [it-pos/NOUN]()-[it-pos/ADP]() (1; 13% instances), [it-pos/PRON]()-[it-pos/ADP]() (1; 13% instances), [it-pos/PROPN]()-[it-pos/ADP]() (1; 13% instances).
 
 
 ~~~ conllu
@@ -48,81 +48,63 @@ The following 4 pairs of parts of speech are connected with `dep`: [it-pos/VERB]
 
 
 ~~~ conllu
-# visual-style 34	bgColor:blue
-# visual-style 34	fgColor:white
-# visual-style 33	bgColor:blue
-# visual-style 33	fgColor:white
-# visual-style 33 34 dep	color:blue
-1	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	calcolata	calcolare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-3	in	in	ADP	E	_	4	case	_	_
-4	media	medio	ADJ	A	Gender=Fem|Number=Sing	2	nmod	_	_
-5	a	a	ADP	E	_	7	case	_	_
-6	otto	otto	NUM	N	NumType=Card	7	nummod	_	_
-7	pagine	pagina	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
-8	a	a	ADP	E	_	10	case	_	_
-9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	minuto	minuto	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
-11	,	,	PUNCT	FF	_	2	punct	_	_
-12	ma	ma	CONJ	CC	_	2	cc	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 dep	color:blue
+1	Quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	8	nsubj	_	_
+2	di	di	ADP	E	_	1	dep	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+4	40	40	NUM	N	NumType=Card	5	compound	_	_
+5	enni	enni	X	X	_	2	nmod	_	_
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Clit	8	dobj	_	_
+8	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	come	come	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	erede	erede	NOUN	S	Number=Sing	8	nmod	_	_
+12	di	di	ADP	E	_	14	case	_	_
 13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	rendimento	rendimento	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
-15	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
-16	tale	tale	PRON	PD	Number=Sing|PronType=Dem	2	conj	_	_
-17	soltanto	soltanto	ADV	B	_	21	advmod	_	_
-18	se	se	SCONJ	CS	_	21	mark	_	_
-19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	stampa	stampa	NOUN	S	Gender=Fem|Number=Sing	21	nsubj	_	_
-21	riguarda	riguardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
-22	solo	solo	ADV	B	_	23	advmod	_	_
-23	testo	testo	NOUN	S	Gender=Masc|Number=Sing	21	dobj	_	_
-24	,	,	PUNCT	FF	_	2	punct	_	_
-25	mentre	mentre	SCONJ	CS	_	2	cc	_	_
-26	con	con	ADP	E	_	27	case	_	_
-27	interventi	intervento	NOUN	S	Gender=Masc|Number=Plur	33	nmod	_	_
-28	grafici	grafico	ADJ	A	Gender=Masc|Number=Plur	27	amod	_	_
-29	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
-30	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	33	nsubj	_	_
-31	di	di	ADP	E	_	32	case	_	_
-32	lavorazione	lavorazione	NOUN	S	Gender=Fem|Number=Sing	30	nmod	_	_
-33	aumenta	aumentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
-34	fino	fino	ADV	B	_	33	dep	_	_
-35	a	a	ADP	E	_	34	mwe	_	_
-36	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	34	mwe	_	_
-37	.	.	PUNCT	FS	_	2	punct	_	_
+14	Bauhaus	Bauhaus	PROPN	SP	_	11	nmod	_	_
+15	e	e	CONJ	CC	_	8	cc	_	_
+16	rifiuta	rifiutare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
+18	esperienza	esperienza	NOUN	S	Gender=Fem|Number=Sing	16	dobj	_	_
+19	postmoderna	postmoderno	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	_
+20	;	;	PUNCT	FC	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 22 dep	color:blue
-1	Conformemente	conformemente	ADV	B	_	15	advmod	_	_
-2	anche	anche	ADV	B	_	5	advmod	_	_
-3	a	a	ADP	E	_	5	case	_	_
-4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	raccomandazione	raccomandazione	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 16 dep	color:blue
+1	Di	di	ADP	E	_	2	case	_	_
+2	conseguenza	conseguenza	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	critici	critico	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
 6	di	di	ADP	E	_	8	case	_	_
 7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	valutatore	valutatore	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
-9	di	di	ADP	E	_	11	case	_	_
-10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	programma	programma	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
-12	Pericle	Pericle	PROPN	SP	_	11	nmod	_	_
-13	,	,	PUNCT	FF	_	1	punct	_	_
-14	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
-15	opportuno	opportuno	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
-16	estendere	estendere	VERB	V	VerbForm=Inf	15	csubj	_	_
-17	tale	tale	DET	DD	Number=Sing|PronType=Dem	18	det	_	_
-18	programma	programma	NOUN	S	Gender=Masc|Number=Sing	16	dobj	_	_
-19	vista	vedere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	acl	_	_
-20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-21	necessità	necessità	NOUN	S	Gender=Fem	19	nsubjpass	_	_
-22	di	di	ADP	E	_	21	dep	_	_
-23	:	:	PUNCT	FC	_	15	punct	_	_
+8	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	consideravano	considerare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	soprattutto	soprattutto	ADV	B	_	9	advmod	_	_
+11	Shakespeare	Shakespeare	PROPN	SP	_	9	dobj	_	_
+12	a	a	ADP	E	_	17	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+14	di	di	ADP	E	_	17	case	_	_
+15	sotto	sotto	ADV	B	_	14	mwe	_	_
+16	di	di	ADP	E	_	17	dep	_	_
+17	John	John	PROPN	SP	_	9	nmod	_	_
+18	Fletcher	Fletcher	PROPN	SP	_	17	name	_	_
+19	e	e	CONJ	CC	_	17	cc	_	_
+20	Ben	Ben	PROPN	SP	_	17	conj	_	_
+21	Jonson	Jonson	PROPN	SP	_	20	name	_	_
+22	.	.	PUNCT	FS	_	9	punct	_	_
 
 ~~~
 

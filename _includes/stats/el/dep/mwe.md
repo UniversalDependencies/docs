@@ -29,14 +29,14 @@ The following 1 pairs of parts of speech are connected with `mwe`: [el-pos/CONJ]
 7	και	και	CONJ	CONJ	_	8	cc	_	_
 8	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	9	case	_	_
 9	πεδίο	πεδίο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	16	nmod	_	_
-10	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Plur	12	det	_	_
+10	των	ο	PRON	PRON	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	det	_	_
 11	ξένων	ξένος	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Plur	12	amod	_	_
 12	γλωσσών	γλώσσα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
 13	,	,	PUNCT	PUNCT	_	16	punct	_	_
 14	θα	θα	PART	PART	_	16	aux	_	_
 15	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	16	cop	_	_
 16	απρόσκοπτη	απρόσκοπτος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-17	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	18	det	_	_
+17	η	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	πρόσβασή	πρόσβαση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
 19	τους	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nmod	_	_
 20	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	22	case	_	_

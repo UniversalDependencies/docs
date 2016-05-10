@@ -13,7 +13,7 @@ The 10 most frequent `X` types:  <em>jpg, an, www, anti, b, dkk, s, x, y, &amp;n
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>an</em> ([NUM]() 36, [DET]() 11, [PROPN]() 9, [X]() 3), <em>anti</em> ([NOUN]() 7, [ADJ]() 5, [X]() 2), <em>b</em> ([NOUN]() 2, [X]() 2, [PROPN]() 1), <em>s</em> ([X]() 2, [ADP]() 2, [NOUN]() 1), <em>x</em> ([PROPN]() 5, [X]() 2), <em>&amp;nbsp</em> ([NOUN]() 1, [X]() 1, [PUNCT]() 1), <em>d</em> ([ADP]() 2, [NOUN]() 1, [PROPN]() 1, [X]() 1), <em>di</em> ([ADP]() 2200, [VERB]() 11, [CONJ]() 8, [SCONJ]() 3, [PROPN]() 2, [X]() 1), <em>ke</em> ([ADP]() 356, [NUM]() 62, [DET]() 9, [VERB]() 1, [X]() 1), <em>org</em> ([NOUN]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>an</em> ([NUM]() 36, [DET]() 11, [PROPN]() 9, [X]() 3), <em>anti</em> ([NOUN]() 7, [ADJ]() 5, [X]() 2), <em>b</em> ([NOUN]() 2, [X]() 2, [PROPN]() 1), <em>s</em> ([X]() 2, [ADP]() 2, [NOUN]() 1), <em>x</em> ([PROPN]() 5, [X]() 2), <em>&amp;nbsp</em> ([X]() 1, [PUNCT]() 1, [NOUN]() 1), <em>d</em> ([ADP]() 2, [NOUN]() 1, [X]() 1, [PROPN]() 1), <em>di</em> ([ADP]() 2200, [VERB]() 11, [CONJ]() 8, [SCONJ]() 3, [PROPN]() 2, [X]() 1), <em>ke</em> ([ADP]() 356, [NUM]() 62, [DET]() 9, [VERB]() 1, [X]() 1), <em>org</em> ([NOUN]() 1, [X]() 1)
 
 
 * <em>an</em>
@@ -37,14 +37,14 @@ The 10 most frequent ambiguous types:  <em>an</em> ([NUM]() 36, [DET]() 11, [PRO
   * [PROPN]() 5: <em>MAJT memiliki koleksi Al Quran raksasa berukuran 145 <b>x</b> 95 cm² .</em>
   * [X]() 2: <em>Revisi standar selanjutnya 1 . <b>x</b> diperbolehkan 4 bit untuk menunjukkan 1024 atau 2048 byte per blok dan menghasilkan sampai 4 gigabyte penyimpanan memori .</em>
 * <em>&amp;nbsp</em>
-  * [NOUN]() 1: <em>Tenggelamnya RMS Titanic terjadi pada malam 14 April sampai pagi 15 April 1912 di Samudra Atlantik Utara , empat hari setelah berangkat dari Southampton dalam pelayaran perdananya menuju New York City . Kapal super terbesar yang beroperasi pada masa itu , Titanic , mengangkut sekitar 2.224 <b>&amp;nbsp</b> ; orang ketika menabrak gunung es pada pukul 23 : 40 ( waktu kapal ) pada hari Minggu , 14&amp;nbsp ; April 1912 .</em>
   * [X]() 1: <em>Kota ini memiliki luas wilayah 3.849 <b>&amp;nbsp</b> ; km² dan populasi 17.440 jiwa ( 2004 ) .</em>
   * [PUNCT]() 1: <em>Luas total area adalah 65.75 <b>&amp;nbsp</b> ; km² .</em>
+  * [NOUN]() 1: <em>Tenggelamnya RMS Titanic terjadi pada malam 14 April sampai pagi 15 April 1912 di Samudra Atlantik Utara , empat hari setelah berangkat dari Southampton dalam pelayaran perdananya menuju New York City . Kapal super terbesar yang beroperasi pada masa itu , Titanic , mengangkut sekitar 2.224 <b>&amp;nbsp</b> ; orang ketika menabrak gunung es pada pukul 23 : 40 ( waktu kapal ) pada hari Minggu , 14&amp;nbsp ; April 1912 .</em>
 * <em>d</em>
   * [ADP]() 2: <em>Kabupaten ini terkenal dengan hasil cengkehnya dimasa lalu era tahun 1970 s / <b>d</b> 1990 .</em>
   * [NOUN]() 1: <em>bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a , huruf b , huruf c , huruf <b>d</b> , dan huruf e , perlu membentuk Undang - Undang tentang Surat Berharga Syariah Negara ; Mengingat : Pasal 5 ayat ( 1 ) , Pasal 20 ayat ( 1 ) dan ayat ( 2 ) , Pasal 20A ayat ( 1 ) , Pasal 23 , dan Pasal 23C Undang - Undang Dasar Negara Republik Indonesia Tahun 1945 ; Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA MEMUTUSKAN : Menetapkan : UNDANG - UNDANG TENTANG SURAT BERHARGA SYARIAH NEGARA .</em>
-  * [PROPN]() 1: <em>Kota Cisterna <b>d</b> ' Asti memiliki luas sebesar 10.7 km² .</em>
   * [X]() 1: <em>Musim durian biasanya sekitar bulan Desember s / <b>d</b> bulan Januari .</em>
+  * [PROPN]() 1: <em>Kota Cisterna <b>d</b> ' Asti memiliki luas sebesar 10.7 km² .</em>
 * <em>di</em>
   * [ADP]() 2200: <em>Kebangkitan Kafirpun terjadi <b>di</b> sana selama beberapa tahun .</em>
   * [VERB]() 11: <em>Lima puluh tahun kemudian , dua pemukiman Tobelo <b>di</b> catat yaitu Tobelo - tia , dan Tobelo - tai .</em>

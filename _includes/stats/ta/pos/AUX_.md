@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Tamil)
 
 There are 28 `AUX` lemmas (1%), 130 `AUX` types (4%) and 627 `AUX` tokens (7%).
-Out of 14 observed tags, the rank of `AUX` is: 8 in number of lemmas, 6 in number of types and 7 in number of tokens.
+Out of 14 observed tags, the rank of `AUX` is: 9 in number of lemmas, 6 in number of types and 7 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: உள், படு, வேண்டு, இரு, வரு, கொள், இல், செய், விடு, வா
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  உள்ளது ([AUX]() 78, [VERB]() 
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.642857 (the average of all parts of speech is 1.559122).
+The form / lemma ratio of `AUX` is 4.642857 (the average of all parts of speech is 1.557992).
 
 The 1st highest number of forms (22) was observed with the lemma “படு”: பட, படக், படவ், படாது, படுகின்றன, படுகின்றனர், படுகிறது, படும், படுவார்கள், பட்ட, பட்டதற்கு, பட்டது, பட்டத், பட்டன, பட்டனர், பட்டார், பட்டால், பட்டு, பட்ட், ப்பட, ப்படும், ப்பட்ட்.
 
@@ -70,19 +70,19 @@ Examples: உள்ளது, ஆம், பெற்றுள்ளது
 
 `AUX` nodes are attached to their parents using 8 different relations: [ta-dep/aux]() (601; 96% instances), [ta-dep/root]() (13; 2% instances), [ta-dep/acl]() (4; 1% instances), [ta-dep/advcl]() (3; 0% instances), [ta-dep/parataxis]() (3; 0% instances), [ta-dep/ccomp]() (1; 0% instances), [ta-dep/csubj]() (1; 0% instances), [ta-dep/det]() (1; 0% instances)
 
-Parents of `AUX` nodes belong to 4 different parts of speech: [VERB]() (543; 87% instances), [NOUN]() (69; 11% instances), [ROOT]() (13; 2% instances), [AUX]() (2; 0% instances)
+Parents of `AUX` nodes belong to 6 different parts of speech: [VERB]() (540; 86% instances), [NOUN]() (70; 11% instances), [ROOT]() (13; 2% instances), [PROPN]() (2; 0% instances), [ADV]() (1; 0% instances), [AUX]() (1; 0% instances)
 
 605 (96%) `AUX` nodes are leaves.
 
 5 (1%) `AUX` nodes have one child.
 
-5 (1%) `AUX` nodes have two children.
+6 (1%) `AUX` nodes have two children.
 
-12 (2%) `AUX` nodes have three or more children.
+11 (2%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 6.
 
-Children of `AUX` nodes are attached using 11 different relations: [ta-dep/punct]() (18; 29% instances), [ta-dep/advcl]() (7; 11% instances), [ta-dep/nmod]() (6; 10% instances), [ta-dep/nsubj]() (6; 10% instances), [ta-dep/advmod]() (5; 8% instances), [ta-dep/dobj]() (5; 8% instances), [ta-dep/advmod:emph]() (4; 6% instances), [ta-dep/ccomp]() (4; 6% instances), [ta-dep/mark]() (4; 6% instances), [ta-dep/aux]() (2; 3% instances), [ta-dep/nsubjpass]() (1; 2% instances)
+Children of `AUX` nodes are attached using 11 different relations: [ta-dep/punct]() (18; 30% instances), [ta-dep/advcl]() (7; 11% instances), [ta-dep/nmod]() (6; 10% instances), [ta-dep/nsubj]() (6; 10% instances), [ta-dep/advmod]() (5; 8% instances), [ta-dep/dobj]() (5; 8% instances), [ta-dep/advmod:emph]() (4; 7% instances), [ta-dep/ccomp]() (4; 7% instances), [ta-dep/mark]() (4; 7% instances), [ta-dep/aux]() (1; 2% instances), [ta-dep/nsubjpass]() (1; 2% instances)
 
-Children of `AUX` nodes belong to 9 different parts of speech: [PUNCT]() (18; 29% instances), [NOUN]() (13; 21% instances), [VERB]() (11; 18% instances), [PART]() (7; 11% instances), [ADV]() (5; 8% instances), [PROPN]() (4; 6% instances), [AUX]() (2; 3% instances), [ADP]() (1; 2% instances), [PRON]() (1; 2% instances)
+Children of `AUX` nodes belong to 9 different parts of speech: [PUNCT]() (18; 30% instances), [NOUN]() (13; 21% instances), [VERB]() (11; 18% instances), [PART]() (7; 11% instances), [ADV]() (5; 8% instances), [PROPN]() (4; 7% instances), [ADP]() (1; 2% instances), [AUX]() (1; 2% instances), [PRON]() (1; 2% instances)
 

@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>българия, софия, иван,
 
 The 10 most frequent `PROPN` types:  <em>България, София, Иван, ЕС, Европа, СДС, Петър, Стоянов, Костов, Георги</em>
 
-The 10 most frequent ambiguous lemmas: <em>балкан</em> ([PROPN]() 34, [NOUN]() 2), <em>дпс</em> ([PROPN]() 25, [NOUN]() 2), <em>новинар</em> ([PROPN]() 20, [NOUN]() 1), <em>конституция</em> ([NOUN]() 19, [PROPN]() 19), <em>клинтън</em> ([PROPN]() 14, [NOUN]() 2), <em>дявол</em> ([PROPN]() 13, [NOUN]() 5), <em>надежда</em> ([NOUN]() 17, [PROPN]() 13), <em>христов</em> ([PROPN]() 13, [ADJ]() 1), <em>том</em> ([PROPN]() 12, [NOUN]() 4), <em>афп</em> ([PROPN]() 10, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>балкан</em> ([PROPN]() 34, [NOUN]() 2), <em>дпс</em> ([PROPN]() 25, [NOUN]() 2), <em>новинар</em> ([PROPN]() 20, [NOUN]() 1), <em>конституция</em> ([PROPN]() 19, [NOUN]() 19), <em>клинтън</em> ([PROPN]() 14, [NOUN]() 2), <em>дявол</em> ([PROPN]() 13, [NOUN]() 5), <em>надежда</em> ([NOUN]() 17, [PROPN]() 13), <em>христов</em> ([PROPN]() 13, [ADJ]() 1), <em>том</em> ([PROPN]() 12, [NOUN]() 4), <em>афп</em> ([PROPN]() 10, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>ДПС</em> ([PROPN]() 25, [NOUN]() 2), <em>Балканите</em> ([PROPN]() 21, [NOUN]() 1), <em>Новинар</em> ([PROPN]() 20, [NOUN]() 1), <em>Клинтън</em> ([PROPN]() 14, [NOUN]() 2), <em>Конституцията</em> ([PROPN]() 14, [NOUN]() 2), <em>АФП</em> ([PROPN]() 10, [NOUN]() 1), <em>ООН</em> ([PROPN]() 10, [NOUN]() 1), <em>Подкрепа</em> ([PROPN]() 9, [NOUN]() 1), <em>АЕЦ</em> ([PROPN]() 8, [NOUN]() 3), <em>Балкан</em> ([PROPN]() 7, [NOUN]() 1)
 
@@ -68,21 +68,21 @@ Examples: <em>Иван, ЕС, СДС, Костов, Петър, Георги, С
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 14 different relations: [bg-dep/nmod]() (4353; 52% instances), [bg-dep/nsubj]() (1414; 17% instances), [bg-dep/name]() (1267; 15% instances), [bg-dep/conj]() (632; 7% instances), [bg-dep/iobj]() (250; 3% instances), [bg-dep/root]() (190; 2% instances), [bg-dep/dobj]() (157; 2% instances), [bg-dep/nsubjpass]() (61; 1% instances), [bg-dep/discourse]() (53; 1% instances), [bg-dep/cop]() (34; 0% instances), [bg-dep/appos]() (11; 0% instances), [bg-dep/amod]() (3; 0% instances), [bg-dep/vocative]() (2; 0% instances), [bg-dep/xcomp]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 16 different relations: [bg-dep/nmod]() (4363; 52% instances), [bg-dep/nsubj]() (1408; 17% instances), [bg-dep/name]() (1267; 15% instances), [bg-dep/conj]() (635; 8% instances), [bg-dep/iobj]() (250; 3% instances), [bg-dep/root]() (212; 3% instances), [bg-dep/dobj]() (157; 2% instances), [bg-dep/nsubjpass]() (67; 1% instances), [bg-dep/discourse]() (53; 1% instances), [bg-dep/advcl]() (4; 0% instances), [bg-dep/ccomp]() (4; 0% instances), [bg-dep/amod]() (3; 0% instances), [bg-dep/vocative]() (2; 0% instances), [bg-dep/acl]() (1; 0% instances), [bg-dep/appos]() (1; 0% instances), [bg-dep/xcomp]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 10 different parts of speech: [NOUN]() (3316; 39% instances), [PROPN]() (2544; 30% instances), [VERB]() (2278; 27% instances), [ROOT]() (190; 2% instances), [ADJ]() (82; 1% instances), [ADV]() (11; 0% instances), [DET]() (3; 0% instances), [NUM]() (2; 0% instances), [PRON]() (1; 0% instances), [X]() (1; 0% instances)
+Parents of `PROPN` nodes belong to 10 different parts of speech: [NOUN]() (3414; 41% instances), [PROPN]() (2547; 30% instances), [VERB]() (2110; 25% instances), [ROOT]() (212; 3% instances), [ADJ]() (108; 1% instances), [ADV]() (25; 0% instances), [PRON]() (6; 0% instances), [DET]() (3; 0% instances), [NUM]() (2; 0% instances), [X]() (1; 0% instances)
 
-3576 (42%) `PROPN` nodes are leaves.
+3575 (42%) `PROPN` nodes are leaves.
 
-3046 (36%) `PROPN` nodes have one child.
+3029 (36%) `PROPN` nodes have one child.
 
-857 (10%) `PROPN` nodes have two children.
+851 (10%) `PROPN` nodes have two children.
 
-949 (11%) `PROPN` nodes have three or more children.
+973 (12%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 27.
 
-Children of `PROPN` nodes are attached using 13 different relations: [bg-dep/case]() (2557; 29% instances), [bg-dep/punct]() (2336; 27% instances), [bg-dep/name]() (1267; 14% instances), [bg-dep/nmod]() (1002; 11% instances), [bg-dep/conj]() (693; 8% instances), [bg-dep/cc]() (402; 5% instances), [bg-dep/amod]() (315; 4% instances), [bg-dep/acl]() (58; 1% instances), [bg-dep/nummod]() (41; 0% instances), [bg-dep/advmod]() (25; 0% instances), [bg-dep/discourse]() (23; 0% instances), [bg-dep/det]() (15; 0% instances), [bg-dep/appos]() (13; 0% instances)
+Children of `PROPN` nodes are attached using 19 different relations: [bg-dep/case]() (2557; 29% instances), [bg-dep/punct]() (2365; 27% instances), [bg-dep/name]() (1267; 14% instances), [bg-dep/nmod]() (1016; 11% instances), [bg-dep/conj]() (697; 8% instances), [bg-dep/cc]() (406; 5% instances), [bg-dep/amod]() (315; 4% instances), [bg-dep/acl]() (58; 1% instances), [bg-dep/nummod]() (41; 0% instances), [bg-dep/cop]() (34; 0% instances), [bg-dep/advmod]() (29; 0% instances), [bg-dep/nsubj]() (28; 0% instances), [bg-dep/discourse]() (23; 0% instances), [bg-dep/det]() (15; 0% instances), [bg-dep/aux]() (6; 0% instances), [bg-dep/advcl]() (2; 0% instances), [bg-dep/appos]() (2; 0% instances), [bg-dep/mark]() (2; 0% instances), [bg-dep/neg]() (2; 0% instances)
 
-Children of `PROPN` nodes belong to 13 different parts of speech: [ADP]() (2557; 29% instances), [PROPN]() (2544; 29% instances), [PUNCT]() (2336; 27% instances), [NOUN]() (435; 5% instances), [CONJ]() (402; 5% instances), [ADJ]() (325; 4% instances), [VERB]() (58; 1% instances), [NUM]() (41; 0% instances), [ADV]() (25; 0% instances), [DET]() (16; 0% instances), [PART]() (4; 0% instances), [INTJ]() (2; 0% instances), [PRON]() (2; 0% instances)
+Children of `PROPN` nodes belong to 15 different parts of speech: [ADP]() (2557; 29% instances), [PROPN]() (2547; 29% instances), [PUNCT]() (2365; 27% instances), [NOUN]() (465; 5% instances), [CONJ]() (406; 5% instances), [ADJ]() (326; 4% instances), [VERB]() (89; 1% instances), [NUM]() (41; 0% instances), [ADV]() (30; 0% instances), [DET]() (16; 0% instances), [PART]() (9; 0% instances), [PRON]() (7; 0% instances), [INTJ]() (4; 0% instances), [SCONJ]() (2; 0% instances), [AUX]() (1; 0% instances)
 

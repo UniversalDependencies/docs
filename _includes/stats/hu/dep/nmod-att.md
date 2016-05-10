@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [nmod]().
 There are also 3 other language-specific subtypes of `nmod`: [nmod:attlvc](), [nmod:obl](), [nmod:obllvc]().
 
-1455 nodes (5%) are attached to their parents as `nmod:att`.
+2510 nodes (6%) are attached to their parents as `nmod:att`.
 
-1434 instances of `nmod:att` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.91340206185567.
+2458 instances of `nmod:att` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.9394422310757.
 
-The following 20 pairs of parts of speech are connected with `nmod:att`: [hu-pos/NOUN]()-[hu-pos/NOUN]() (951; 65% instances), [hu-pos/NOUN]()-[hu-pos/PROPN]() (261; 18% instances), [hu-pos/NOUN]()-[hu-pos/PRON]() (63; 4% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (57; 4% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (37; 3% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (18; 1% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (12; 1% instances), [hu-pos/PROPN]()-[hu-pos/PROPN]() (10; 1% instances), [hu-pos/NOUN]()-[hu-pos/NUM]() (9; 1% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (9; 1% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (6; 0% instances), [hu-pos/NOUN]()-[hu-pos/X]() (4; 0% instances), [hu-pos/PRON]()-[hu-pos/PRON]() (4; 0% instances), [hu-pos/VERB]()-[hu-pos/PROPN]() (4; 0% instances), [hu-pos/PRON]()-[hu-pos/NOUN]() (3; 0% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (2; 0% instances), [hu-pos/NUM]()-[hu-pos/NOUN]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/PRON]() (1; 0% instances), [hu-pos/ADJ]()-[hu-pos/VERB]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/NOUN]() (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `nmod:att`: [hu-pos/NOUN]()-[hu-pos/NOUN]() (1627; 65% instances), [hu-pos/NOUN]()-[hu-pos/PROPN]() (468; 19% instances), [hu-pos/NOUN]()-[hu-pos/PRON]() (121; 5% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (111; 4% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (53; 2% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (27; 1% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (14; 1% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (14; 1% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (12; 0% instances), [hu-pos/PROPN]()-[hu-pos/PROPN]() (11; 0% instances), [hu-pos/NOUN]()-[hu-pos/NUM]() (10; 0% instances), [hu-pos/PRON]()-[hu-pos/NOUN]() (9; 0% instances), [hu-pos/NUM]()-[hu-pos/NOUN]() (8; 0% instances), [hu-pos/VERB]()-[hu-pos/PROPN]() (7; 0% instances), [hu-pos/ADJ]()-[hu-pos/PRON]() (4; 0% instances), [hu-pos/NOUN]()-[hu-pos/X]() (4; 0% instances), [hu-pos/PRON]()-[hu-pos/PRON]() (4; 0% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/VERB]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -20,8 +20,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (19248; 99% of non-empty `VerbForm`): <em>е, са, има, няма, може, трябва, беше, каза, могат, съобщи</em>
-* `Part` (128; 1% of non-empty `VerbForm`): <em>била, бил, били, било, останалите</em>
+* `Fin` (16611; 86% of non-empty `VerbForm`): <em>е, са, има, няма, може, трябва, беше, каза, могат, съобщи</em>
+* `Part` (2765; 14% of non-empty `VerbForm`): <em>била, бил, имало, били, било, направил, дал, трябвало, заминал, направено</em>
 * `EMPTY` (176): <em>е, каза, няма, откри, поздрави, посочи, беше, заяви, са, благодари</em>
 
 <table>
@@ -42,8 +42,6 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>са</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бяха</em></td><td></td></tr>
 </table>
-
-`VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (2776) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
@@ -90,30 +88,22 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Fin` (3; 0% of non-empty `VerbForm`): <em>запънало, открити, превърнало</em>
-* `Part` (1469; 100% of non-empty `VerbForm`): <em>миналата, следващата, въоръжените, останалите, свързани, миналия, управляващите, определени, цитиран, определен</em>
+* `Part` (1472; 100% of non-empty `VerbForm`): <em>миналата, следващата, въоръжените, останалите, свързани, миналия, управляващите, определени, цитиран, определен</em>
 * `EMPTY` (12117): <em>други, народното, българската, нова, другите, нови, европейската, последните, 2001, друг</em>
 
-<table>
-  <tr><th>Paradigm <i>открия-(се)</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>открит</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>открита</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>открити</em></td><td></td></tr>
-</table>
-
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (671) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (672) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (2961; 99%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1992; 99%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1481; 99%),
-<tt>VERB --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (1441; 91%),
-<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (423; 99%),
-<tt>VERB --[<a href="../dep/auxpass.html">auxpass</a>]--> AUX</tt> (383; 91%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (208; 100%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (117; 99%),
-<tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (55; 96%),
-<tt>VERB --[<a href="../dep/mwe.html">mwe</a>]--> VERB</tt> (28; 100%).
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1949; 78%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1531; 88%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1071; 83%),
+<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (217; 84%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (185; 82%),
+<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (168; 82%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (89; 83%),
+<tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (36; 60%),
+<tt>VERB --[<a href="../dep/mwe.html">mwe</a>]--> VERB</tt> (28; 100%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (3; 100%).
 

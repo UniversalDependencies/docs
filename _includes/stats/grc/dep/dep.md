@@ -57,6 +57,27 @@ The following 4 pairs of parts of speech are connected with `dep`: [grc-pos/NOUN
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 dep	color:blue
+1	ἄποινα	ἄποινα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
+2	δὲ	δέ	ADV	Df	_	6	discourse	_	_
+3	ἐστὶ	εἰμί#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+4	Πελοποννησίοισι	Πελοποννήσιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	6	dep	_	_
+5	δύο	δύο	NUM	Ma	_	6	nummod	_	_
+6	μνέαι	μνᾶ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+7	τεταγμέναι	τάσσω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+8	κατ’	κατά	ADP	R-	_	9	case	_	_
+9	ἄνδρα	ἀνήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	_
+10	αἰχμάλωτον	αἰχμάλωτος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+11	ἐκτίνειν	ἐκτίνω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	csubjpass	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 12	bgColor:blue
@@ -103,27 +124,6 @@ The following 4 pairs of parts of speech are connected with `dep`: [grc-pos/NOUN
 8	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	9	det	_	_
 9	ὑδάτων	ὕδωρ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
 10	ἐξηύηνε	ἐξαυαίνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 dep	color:blue
-1	ἄποινα	ἄποινα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
-2	δὲ	δέ	ADV	Df	_	6	discourse	_	_
-3	ἐστὶ	εἰμί#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
-4	Πελοποννησίοισι	Πελοποννήσιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	6	dep	_	_
-5	δύο	δύο	NUM	Ma	_	6	nummod	_	_
-6	μνέαι	μνᾶ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
-7	τεταγμέναι	τάσσω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
-8	κατ’	κατά	ADP	R-	_	9	case	_	_
-9	ἄνδρα	ἀνήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	_
-10	αἰχμάλωτον	αἰχμάλωτος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
-11	ἐκτίνειν	ἐκτίνω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	csubjpass	_	_
 
 ~~~
 

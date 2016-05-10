@@ -41,7 +41,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 24 [bg-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (24; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (24; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (24; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (24; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (24; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (24; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (24; 100%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (24; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (24; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (24; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (24; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (24; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (24; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (24; 100%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -49,6 +49,18 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `EMPTY` (13565): <em>други, народното, българската, нова, другите, европейската, последните, 2001, друг, цялата</em>
 
 `Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `Case`.
+
+### `DET`
+
+4 [bg-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 75%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (3; 75%).
+
+`DET` tokens may have the following values of `Case`:
+
+* `Acc` (1; 25% of non-empty `Case`): <em>никого</em>
+* `Nom` (3; 75% of non-empty `Case`): <em>единият</em>
+* `EMPTY` (2429): <em>тази, този, тези, това, всички, един, какво, една, всеки, всяка</em>
 
 ### `PROPN`
 
@@ -62,20 +74,10 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Voc` (3; 75% of non-empty `Case`): <em>Господи, Калине, Янке</em>
 * `EMPTY` (8424): <em>България, София, Иван, ЕС, Европа, СДС, Петър, Стоянов, Костов, Георги</em>
 
-### `DET`
-
-4 [bg-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 75%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (3; 75%).
-
-`DET` tokens may have the following values of `Case`:
-
-* `Acc` (1; 25% of non-empty `Case`): <em>никого</em>
-* `Nom` (3; 75% of non-empty `Case`): <em>единият</em>
-* `EMPTY` (2429): <em>тази, този, тези, това, всички, един, какво, една, всеки, всяка</em>
-
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (6; 100%).
+<tt>PRON --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (11; 69%),
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (6; 100%),
+<tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (1; 100%).
 

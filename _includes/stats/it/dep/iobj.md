@@ -8,8 +8,8 @@ This relation is universal.
 
 390 nodes (0%) are attached to their parents as `iobj`.
 
-306 instances of `iobj` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41025641025641.
+304 instances of `iobj` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40769230769231.
 
 The following 4 pairs of parts of speech are connected with `iobj`: [it-pos/VERB]()-[it-pos/PRON]() (382; 98% instances), [it-pos/ADJ]()-[it-pos/PRON]() (6; 2% instances), [it-pos/AUX]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (1; 0% instances).
 
@@ -20,7 +20,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: [it-pos/VERB
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 iobj	color:blue
-1	"	"	PUNCT	FB	_	3	punct	_	_
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
 2	Mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Clit	3	iobj	_	_
 3	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	che	che	SCONJ	CS	_	6	mark	_	_
@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: [it-pos/VERB
 6	proposte	proposta	NOUN	S	Gender=Fem|Number=Plur	3	csubj	_	_
 7	serie	serio	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
 8	e	e	CONJ	CC	_	7	cc	_	_
-9	condivisibili	condivisibile	ADJ	A	Number=Plur	7	conj	_	_
+9	condivisibili	condivisibile	ADJ	A	Number=Plur	7	conj	_	SpaceAfter=No
 10	"	"	PUNCT	FB	_	3	punct	_	_
 11	.	.	PUNCT	FS	_	3	punct	_	_
 

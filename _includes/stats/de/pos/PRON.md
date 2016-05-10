@@ -13,7 +13,7 @@ The 10 most frequent `PRON` types:  <em>er, sich, sie, es, die, ich, der, man, d
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 53291, [PUNCT]() 39056, [DET]() 37037, [ADP]() 32362, [PROPN]() 32323, [VERB]() 25041, [ADJ]() 21279, [PRON]() 15077, [ADV]() 14911, [CONJ]() 8938, [NUM]() 7632, [AUX]() 6913, [PART]() 2202, [SCONJ]() 1810, [X]() 370)
 
-The 10 most frequent ambiguous types:  <em>er</em> ([PRON]() 1654, [X]() 2, [PROPN]() 1), <em>sich</em> ([PRON]() 1629, [PROPN]() 1), <em>die</em> ([DET]() 5150, [PRON]() 961, [PROPN]() 11, [X]() 1), <em>der</em> ([DET]() 8483, [PRON]() 479, [PROPN]() 99, [ADP]() 1), <em>man</em> ([PRON]() 368, [NOUN]() 7), <em>diese</em> ([PRON]() 220, [DET]() 2, [PROPN]() 1), <em>das</em> ([DET]() 1664, [PRON]() 296, [SCONJ]() 15, [PROPN]() 3), <em>dieser</em> ([PRON]() 272, [DET]() 1), <em>wir</em> ([PRON]() 164, [NOUN]() 1, [PROPN]() 1, [AUX]() 1), <em>was</em> ([PRON]() 190, [VERB]() 8, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>er</em> ([PRON]() 1654, [X]() 2, [PROPN]() 1), <em>sich</em> ([PRON]() 1629, [PROPN]() 1), <em>die</em> ([DET]() 5150, [PRON]() 961, [PROPN]() 11, [X]() 1), <em>der</em> ([DET]() 8483, [PRON]() 479, [PROPN]() 99, [ADP]() 1), <em>man</em> ([PRON]() 368, [NOUN]() 7), <em>diese</em> ([PRON]() 220, [DET]() 2, [PROPN]() 1), <em>das</em> ([DET]() 1664, [PRON]() 296, [SCONJ]() 15, [PROPN]() 3), <em>dieser</em> ([PRON]() 272, [DET]() 1), <em>wir</em> ([PRON]() 164, [NOUN]() 1, [AUX]() 1, [PROPN]() 1), <em>was</em> ([PRON]() 190, [VERB]() 8, [ADV]() 1)
 
 
 * <em>er</em>
@@ -51,8 +51,8 @@ The 10 most frequent ambiguous types:  <em>er</em> ([PRON]() 1654, [X]() 2, [PRO
 * <em>wir</em>
   * [PRON]() 164: <em>In dem Sommer sehen <b>wir</b> uns bezüglich einer Markise wieder .</em>
   * [NOUN]() 1: <em>Das duale <b>wir</b> schließt dritte Personen aus .</em>
-  * [PROPN]() 1: <em>Der Jugendfilm It takes two -- London , <b>wir</b> kommen !</em>
   * [AUX]() 1: <em>Die Angebote des Essens sind auch gut und man <b>wir</b> immer über den Speiseplan der Woche informiert .</em>
+  * [PROPN]() 1: <em>Der Jugendfilm It takes two -- London , <b>wir</b> kommen !</em>
 * <em>was</em>
   * [PRON]() 190: <em>Jedesmal war ein anderer Arzt da , <b>was</b> ich etwas unpersönlich finde .</em>
   * [VERB]() 8: <em>Wir waren die letzten Panzerkutscher vor Feierabend , <b>was</b> sich als Nachteil heraus stellte .</em>

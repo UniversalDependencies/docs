@@ -44,7 +44,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>foi, foram</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>fora</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Typo.html">Typo</a>=Yes|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>çe</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>é, eis, Sou, é-</em></td><td></td><td></td><td><em>seja</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>é, eis, é-, Sou</em></td><td></td><td></td><td><em>seja</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td><em>seria</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>seremos</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>fomos</em></td><td></td><td></td><td></td></tr>
@@ -92,11 +92,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `INTJ` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>viu</em>
-* `EMPTY` (45): <em>não, Rarará, Deus, é, Adeus, Ah, Ai, Alô, BINGO, Droga</em>
+* `EMPTY` (44): <em>não, Rarará, Deus, é, Adeus, Ah, Ai, Alô, BINGO, Droga</em>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1033; 87%),
-<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (23; 64%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (931; 81%),
+<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (20; 57%),
+<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (2; 100%).
 

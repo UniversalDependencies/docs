@@ -10,11 +10,11 @@ It occurs with 2 different values: `Plur`, `Sing`.
 39405 tokens (67%) have a non-empty value of `Number`.
 10116 types (91%) occur at least once with a non-empty value of `Number`.
 4867 lemmas (79%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: [el-pos/NOUN]() (14005; 24% instances), [el-pos/DET]() (9465; 16% instances), [el-pos/VERB]() (6360; 11% instances), [el-pos/ADJ]() (4693; 8% instances), [el-pos/PRON]() (2775; 5% instances), [el-pos/ADP]() (1612; 3% instances), [el-pos/NUM]() (495; 1% instances).
+The feature is used with 6 part-of-speech tags: [el-pos/NOUN]() (14005; 24% instances), [el-pos/PRON]() (12240; 21% instances), [el-pos/VERB]() (6360; 11% instances), [el-pos/ADJ]() (4693; 8% instances), [el-pos/ADP]() (1612; 3% instances), [el-pos/NUM]() (495; 1% instances).
 
 ### `NOUN`
 
-14005 [el-pos/NOUN]() tokens (92% of all `NOUN` tokens) have a non-empty value of `Number`.
+14005 [el-pos/NOUN]() tokens (90% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (7597; 54%).
 
@@ -22,7 +22,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (4078; 29% of non-empty `Number`): <em>χώρες, μέλη, χρόνια, κράτη, αρχές, δυνάμεις, άτομα, ομάδες, πολιτών, Εξωτερικών</em>
 * `Sing` (9927; 71% of non-empty `Number`): <em>επιτροπή, κοινοβούλιο, Συμβούλιο, ένωση, επιτροπής, έκθεση, κυβέρνηση, Ελλάδα, χώρα, ευρώ</em>
-* `EMPTY` (1252): <em>αλ, Κάστρο, σκορ, Αφγανιστάν, Ουάσιγκτον, Σαντόρουμ, Μιτ, Ομπάμα, Ρικ, Ρόμνεϊ</em>
+* `EMPTY` (1598): <em>ΗΠΑ, κ., ΕΕ, αλ, χλμ., Κάστρο, σκορ, Αφγανιστάν, Ουάσιγκτον, ΟΗΕ</em>
 
 <table>
   <tr><th>Paradigm <i>επιτροπή</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -31,16 +31,16 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>επιτροπή</em></td><td></td></tr>
 </table>
 
-### `DET`
+### `PRON`
 
-9465 [el-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+12240 [el-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (9017; 95%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (5108; 54%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (9465; 77%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9465; 77%), <tt><a href="Definite.html">Definite</a>=Def</tt> (9017; 74%).
 
-`DET` tokens may have the following values of `Number`:
+`PRON` tokens may have the following values of `Number`:
 
-* `Plur` (2273; 24% of non-empty `Number`): <em>των, οι, τα, τις, τους</em>
-* `Sing` (7192; 76% of non-empty `Number`): <em>την, το, της, η, του, ο, τη, τον, μια, ένα</em>
+* `Plur` (3396; 28% of non-empty `Number`): <em>των, οι, τα, τους, τις, που, μας, σας, αυτά, αυτές</em>
+* `Sing` (8844; 72% of non-empty `Number`): <em>της, το, την, η, του, ο, τη, τον, που, αυτό</em>
 
 <table>
   <tr><th>Paradigm <i>ο</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -52,7 +52,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>του</em></td><td><em>των</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>της, τις</em></td><td><em>των</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>του</em></td><td><em>των</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>ο, το, O</em></td><td><em>οι</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>ο, O, το</em></td><td><em>οι</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>η</em></td><td><em>οι</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>το</em></td><td><em>τα</em></td></tr>
 </table>
@@ -104,26 +104,6 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>ευρωπαϊκό</em></td><td><em>ευρωπαϊκά</em></td></tr>
 </table>
 
-### `PRON`
-
-2775 [el-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (2430; 88%).
-
-`PRON` tokens may have the following values of `Number`:
-
-* `Plur` (1123; 40% of non-empty `Number`): <em>που, τους, μας, σας, αυτά, αυτές, οποίες, εμείς, άλλες, αυτών</em>
-* `Sing` (1652; 60% of non-empty `Number`): <em>που, αυτό, του, αυτή, της, οποία, οποίο, μου, το, κάθε</em>
-
-<table>
-  <tr><th>Paradigm <i>μου</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=1</tt></td><td><em>μου, του</em></td><td><em>μας, τους</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=2</tt></td><td></td><td><em>σας</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3</tt></td><td><em>του</em></td><td><em>τους</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Person.html">Person</a>=3</tt></td><td><em>της</em></td><td><em>τους</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Person.html">Person</a>=3</tt></td><td><em>του, σου</em></td><td><em>τους</em></td></tr>
-</table>
-
 ### `ADP`
 
 1612 [el-pos/ADP]() tokens (32% of all `ADP` tokens) have a non-empty value of `Number`.
@@ -147,7 +127,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 495 [el-pos/NUM]() tokens (52% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (262; 53%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (297; 60%), <tt><a href="Case.html">Case</a>=Acc</tt> (262; 53%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -172,14 +152,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (8027; 93%),
+<tt>NOUN --[<a href="../dep/det.html">det</a>]--> PRON</tt> (8354; 92%),
 <tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (3789; 98%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (3036; 58%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (1821; 86%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (788; 78%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (1821; 84%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (788; 76%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (646; 73%),
 <tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (615; 91%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (575; 67%),
-<tt>NOUN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (530; 76%),
+<tt>NOUN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (530; 75%),
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (420; 75%).
 

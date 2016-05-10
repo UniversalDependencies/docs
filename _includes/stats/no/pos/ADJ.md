@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>hele</em> ([ADJ]() 222, [NOUN]() 1), 
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.394714 (the average of all parts of speech is 1.382585).
+The form / lemma ratio of `ADJ` is 1.394714 (the average of all parts of speech is 1.382722).
 
 The 1st highest number of forms (9) was observed with the lemma “liten”: <em>lille, lite, liten, mindre, minst, minste, små, smått, vesle</em>.
 
@@ -59,20 +59,20 @@ The 2nd highest number of forms (8) was observed with the lemma “lang”: <em>
 
 The 3rd highest number of forms (7) was observed with the lemma “gammel”: <em>eldre, eldres, eldst, eldste, gamle, gammel, gammelt</em>.
 
-`ADJ` occurs with 6 features: [no-feat/Degree]() (24744; 92% instances), [no-feat/Number]() (22540; 84% instances), [no-feat/Definite]() (18059; 67% instances), [no-feat/Gender]() (7685; 29% instances), [no-feat/Case]() (38; 0% instances), [no-feat/VerbForm]() (1; 0% instances)
+`ADJ` occurs with 6 features: [no-feat/Degree]() (24744; 92% instances), [no-feat/Number]() (22540; 84% instances), [no-feat/Definite]() (18059; 67% instances), [no-feat/Gender]() (7685; 29% instances), [no-feat/VerbForm]() (1832; 7% instances), [no-feat/Case]() (38; 0% instances)
 
 `ADJ` occurs with 11 feature-value pairs: `Case=Gen`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `VerbForm=Part`
 
-`ADJ` occurs with 26 feature combinations.
+`ADJ` occurs with 29 feature combinations.
 The most frequent feature combination is `Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing` (7388 tokens).
 Examples: <em>mye, helt, godt, litt, langt, samtidig, veldig, mulig, svært, lite</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 22 different relations: [no-dep/amod]() (13907; 52% instances), [no-dep/advmod]() (5970; 22% instances), [no-dep/root]() (2071; 8% instances), [no-dep/conj]() (1346; 5% instances), [no-dep/xcomp]() (1282; 5% instances), [no-dep/nsubj]() (528; 2% instances), [no-dep/dobj]() (341; 1% instances), [no-dep/ccomp]() (278; 1% instances), [no-dep/acl:relcl]() (274; 1% instances), [no-dep/advcl]() (248; 1% instances), [no-dep/name]() (192; 1% instances), [no-dep/acl]() (113; 0% instances), [no-dep/appos]() (73; 0% instances), [no-dep/csubj]() (44; 0% instances), [no-dep/det]() (40; 0% instances), [no-dep/nsubjpass]() (40; 0% instances), [no-dep/remnant]() (37; 0% instances), [no-dep/iobj]() (12; 0% instances), [no-dep/parataxis]() (8; 0% instances), [no-dep/goeswith]() (3; 0% instances), [no-dep/discourse]() (1; 0% instances), [no-dep/nmod]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 24 different relations: [no-dep/amod]() (13907; 52% instances), [no-dep/advmod]() (5970; 22% instances), [no-dep/root]() (2071; 8% instances), [no-dep/conj]() (1345; 5% instances), [no-dep/xcomp]() (1282; 5% instances), [no-dep/nsubj]() (504; 2% instances), [no-dep/dobj]() (341; 1% instances), [no-dep/ccomp]() (279; 1% instances), [no-dep/acl:relcl]() (274; 1% instances), [no-dep/advcl]() (248; 1% instances), [no-dep/name]() (178; 1% instances), [no-dep/acl]() (113; 0% instances), [no-dep/appos]() (58; 0% instances), [no-dep/csubj]() (44; 0% instances), [no-dep/det]() (40; 0% instances), [no-dep/nsubjpass]() (40; 0% instances), [no-dep/remnant]() (37; 0% instances), [no-dep/dislocated]() (24; 0% instances), [no-dep/nmod]() (16; 0% instances), [no-dep/compound]() (14; 0% instances), [no-dep/iobj]() (12; 0% instances), [no-dep/parataxis]() (8; 0% instances), [no-dep/goeswith]() (3; 0% instances), [no-dep/discourse]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 14 different parts of speech: [NOUN]() (14482; 54% instances), [VERB]() (5846; 22% instances), [ADJ]() (3153; 12% instances), [ROOT]() (2071; 8% instances), [PROPN]() (527; 2% instances), [ADV]() (214; 1% instances), [PRON]() (189; 1% instances), [NUM]() (108; 0% instances), [ADP]() (90; 0% instances), [DET]() (90; 0% instances), [SCONJ]() (34; 0% instances), [INTJ]() (3; 0% instances), [CONJ]() (1; 0% instances), [X]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 14 different parts of speech: [NOUN]() (14482; 54% instances), [VERB]() (5847; 22% instances), [ADJ]() (3152; 12% instances), [ROOT]() (2071; 8% instances), [PROPN]() (527; 2% instances), [ADV]() (214; 1% instances), [PRON]() (189; 1% instances), [NUM]() (108; 0% instances), [ADP]() (90; 0% instances), [DET]() (90; 0% instances), [SCONJ]() (34; 0% instances), [INTJ]() (3; 0% instances), [CONJ]() (1; 0% instances), [X]() (1; 0% instances)
 
 18114 (68%) `ADJ` nodes are leaves.
 
@@ -84,7 +84,7 @@ Parents of `ADJ` nodes belong to 14 different parts of speech: [NOUN]() (14482; 
 
 The highest child degree of a `ADJ` node is 17.
 
-Children of `ADJ` nodes are attached using 28 different relations: [no-dep/advmod]() (3958; 16% instances), [no-dep/punct]() (3852; 16% instances), [no-dep/cop]() (3251; 13% instances), [no-dep/nsubj]() (2465; 10% instances), [no-dep/nmod]() (2444; 10% instances), [no-dep/cc]() (1472; 6% instances), [no-dep/conj]() (1443; 6% instances), [no-dep/case]() (971; 4% instances), [no-dep/advcl]() (837; 3% instances), [no-dep/det]() (796; 3% instances), [no-dep/mark]() (671; 3% instances), [no-dep/expl]() (613; 2% instances), [no-dep/csubj]() (555; 2% instances), [no-dep/neg]() (412; 2% instances), [no-dep/aux]() (362; 1% instances), [no-dep/parataxis]() (201; 1% instances), [no-dep/acl:relcl]() (140; 1% instances), [no-dep/amod]() (92; 0% instances), [no-dep/dobj]() (86; 0% instances), [no-dep/nummod]() (54; 0% instances), [no-dep/acl]() (53; 0% instances), [no-dep/appos]() (39; 0% instances), [no-dep/remnant]() (29; 0% instances), [no-dep/discourse]() (22; 0% instances), [no-dep/xcomp]() (13; 0% instances), [no-dep/name]() (9; 0% instances), [no-dep/ccomp]() (7; 0% instances), [no-dep/goeswith]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 29 different relations: [no-dep/advmod]() (3981; 16% instances), [no-dep/punct]() (3849; 15% instances), [no-dep/cop]() (3251; 13% instances), [no-dep/nsubj]() (2465; 10% instances), [no-dep/nmod]() (2422; 10% instances), [no-dep/cc]() (1472; 6% instances), [no-dep/conj]() (1443; 6% instances), [no-dep/mark]() (872; 4% instances), [no-dep/advcl]() (837; 3% instances), [no-dep/det]() (785; 3% instances), [no-dep/case]() (770; 3% instances), [no-dep/expl]() (613; 2% instances), [no-dep/csubj]() (555; 2% instances), [no-dep/neg]() (412; 2% instances), [no-dep/aux]() (361; 1% instances), [no-dep/parataxis]() (201; 1% instances), [no-dep/acl:relcl]() (140; 1% instances), [no-dep/amod]() (92; 0% instances), [no-dep/dobj]() (86; 0% instances), [no-dep/nummod]() (66; 0% instances), [no-dep/acl]() (53; 0% instances), [no-dep/appos]() (38; 0% instances), [no-dep/remnant]() (29; 0% instances), [no-dep/discourse]() (22; 0% instances), [no-dep/xcomp]() (13; 0% instances), [no-dep/ccomp]() (7; 0% instances), [no-dep/compound]() (6; 0% instances), [no-dep/name]() (5; 0% instances), [no-dep/goeswith]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 17 different parts of speech: [VERB]() (5267; 21% instances), [PUNCT]() (3766; 15% instances), [ADJ]() (3153; 13% instances), [NOUN]() (3063; 12% instances), [ADV]() (2387; 10% instances), [PRON]() (2091; 8% instances), [CONJ]() (1470; 6% instances), [ADP]() (1095; 4% instances), [DET]() (826; 3% instances), [SCONJ]() (587; 2% instances), [PROPN]() (477; 2% instances), [AUX]() (362; 1% instances), [NUM]() (109; 0% instances), [PART]() (86; 0% instances), [SYM]() (86; 0% instances), [INTJ]() (22; 0% instances), [X]() (1; 0% instances)
+Children of `ADJ` nodes belong to 17 different parts of speech: [VERB]() (5268; 21% instances), [PUNCT]() (3849; 15% instances), [ADJ]() (3152; 13% instances), [NOUN]() (3063; 12% instances), [ADV]() (2387; 10% instances), [PRON]() (2091; 8% instances), [CONJ]() (1470; 6% instances), [ADP]() (1095; 4% instances), [DET]() (826; 3% instances), [SCONJ]() (587; 2% instances), [PROPN]() (477; 2% instances), [AUX]() (361; 1% instances), [NUM]() (109; 0% instances), [PART]() (86; 0% instances), [INTJ]() (22; 0% instances), [SYM]() (3; 0% instances), [X]() (1; 0% instances)
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-963 nodes (1%) are attached to their parents as `advcl`.
+956 nodes (1%) are attached to their parents as `advcl`.
 
-772 instances of `advcl` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.77673935617861.
+768 instances of `advcl` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.80753138075314.
 
-The following 25 pairs of parts of speech are connected with `advcl`: [fa-pos/VERB]()-[fa-pos/VERB]() (312; 32% instances), [fa-pos/VERB]()-[fa-pos/ADJ]() (120; 12% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (107; 11% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (75; 8% instances), [fa-pos/ADJ]()-[fa-pos/VERB]() (71; 7% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (62; 6% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (53; 6% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (35; 4% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (30; 3% instances), [fa-pos/ADJ]()-[fa-pos/ADV]() (26; 3% instances), [fa-pos/ADJ]()-[fa-pos/NOUN]() (19; 2% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (15; 2% instances), [fa-pos/VERB]()-[fa-pos/CONJ]() (8; 1% instances), [fa-pos/PRON]()-[fa-pos/VERB]() (6; 1% instances), [fa-pos/ADJ]()-[fa-pos/CONJ]() (4; 0% instances), [fa-pos/ADV]()-[fa-pos/ADJ]() (4; 0% instances), [fa-pos/ADV]()-[fa-pos/NOUN]() (4; 0% instances), [fa-pos/ADP]()-[fa-pos/ADJ]() (3; 0% instances), [fa-pos/ADV]()-[fa-pos/VERB]() (2; 0% instances), [fa-pos/PRON]()-[fa-pos/ADJ]() (2; 0% instances), [fa-pos/ADJ]()-[fa-pos/NUM]() (1; 0% instances), [fa-pos/AUX]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/CONJ]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/NUM]() (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `advcl`: [fa-pos/VERB]()-[fa-pos/VERB]() (312; 33% instances), [fa-pos/VERB]()-[fa-pos/ADJ]() (132; 14% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (91; 10% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (75; 8% instances), [fa-pos/ADJ]()-[fa-pos/VERB]() (71; 7% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (64; 7% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (62; 6% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (34; 4% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (23; 2% instances), [fa-pos/ADJ]()-[fa-pos/ADV]() (21; 2% instances), [fa-pos/ADJ]()-[fa-pos/NOUN]() (19; 2% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (15; 2% instances), [fa-pos/VERB]()-[fa-pos/CONJ]() (8; 1% instances), [fa-pos/PRON]()-[fa-pos/VERB]() (6; 1% instances), [fa-pos/ADJ]()-[fa-pos/CONJ]() (4; 0% instances), [fa-pos/ADV]()-[fa-pos/NOUN]() (4; 0% instances), [fa-pos/ADV]()-[fa-pos/ADJ]() (3; 0% instances), [fa-pos/ADP]()-[fa-pos/ADJ]() (2; 0% instances), [fa-pos/ADV]()-[fa-pos/VERB]() (2; 0% instances), [fa-pos/PRON]()-[fa-pos/ADJ]() (2; 0% instances), [fa-pos/ADJ]()-[fa-pos/NUM]() (1; 0% instances), [fa-pos/AUX]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/CONJ]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/NUM]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu

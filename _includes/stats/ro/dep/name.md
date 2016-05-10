@@ -6,12 +6,57 @@
 
 This relation is universal.
 
-118 nodes (1%) are attached to their parents as `name`.
+1022 nodes (1%) are attached to their parents as `name`.
 
-117 instances of `name` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22881355932203.
+1020 instances of `name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17025440313112.
 
-The following 18 pairs of parts of speech are connected with `name`: [ro-pos/PROPN]()-[ro-pos/PROPN]() (53; 45% instances), [ro-pos/NOUN]()-[ro-pos/NOUN]() (10; 8% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (10; 8% instances), [ro-pos/PROPN]()-[ro-pos/NUM]() (9; 8% instances), [ro-pos/NOUN]()-[ro-pos/ADJ]() (8; 7% instances), [ro-pos/PROPN]()-[ro-pos/NOUN]() (7; 6% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (4; 3% instances), [ro-pos/ADP]()-[ro-pos/NOUN]() (3; 3% instances), [ro-pos/NOUN]()-[ro-pos/DET]() (3; 3% instances), [ro-pos/PROPN]()-[ro-pos/ADJ]() (3; 3% instances), [ro-pos/ADJ]()-[ro-pos/PROPN]() (1; 1% instances), [ro-pos/ADP]()-[ro-pos/DET]() (1; 1% instances), [ro-pos/ADP]()-[ro-pos/PROPN]() (1; 1% instances), [ro-pos/ADP]()-[ro-pos/PUNCT]() (1; 1% instances), [ro-pos/DET]()-[ro-pos/PROPN]() (1; 1% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (1; 1% instances), [ro-pos/PROPN]()-[ro-pos/PRON]() (1; 1% instances), [ro-pos/PROPN]()-[ro-pos/VERB]() (1; 1% instances).
+The following 31 pairs of parts of speech are connected with `name`: [ro-pos/PROPN]()-[ro-pos/PROPN]() (575; 56% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (166; 16% instances), [ro-pos/PROPN]()-[ro-pos/NOUN]() (73; 7% instances), [ro-pos/NOUN]()-[ro-pos/NOUN]() (52; 5% instances), [ro-pos/NOUN]()-[ro-pos/ADJ]() (33; 3% instances), [ro-pos/PROPN]()-[ro-pos/ADJ]() (28; 3% instances), [ro-pos/PROPN]()-[ro-pos/NUM]() (21; 2% instances), [ro-pos/ADJ]()-[ro-pos/PROPN]() (10; 1% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (8; 1% instances), [ro-pos/PROPN]()-[ro-pos/VERB]() (8; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (6; 1% instances), [ro-pos/ADP]()-[ro-pos/NOUN]() (5; 0% instances), [ro-pos/PROPN]()-[ro-pos/PRON]() (5; 0% instances), [ro-pos/NOUN]()-[ro-pos/NUM]() (4; 0% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (3; 0% instances), [ro-pos/ADP]()-[ro-pos/PROPN]() (3; 0% instances), [ro-pos/NOUN]()-[ro-pos/DET]() (3; 0% instances), [ro-pos/PROPN]()-[ro-pos/ADV]() (3; 0% instances), [ro-pos/DET]()-[ro-pos/PROPN]() (2; 0% instances), [ro-pos/PROPN]()-[ro-pos/ADP]() (2; 0% instances), [ro-pos/VERB]()-[ro-pos/PROPN]() (2; 0% instances), [ro-pos/ADJ]()-[ro-pos/NUM]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/DET]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/PUNCT]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/CONJ]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/INTJ]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 name	color:blue
+1	dintre	dintre	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+2	cele	cel	DET	Tdfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|PronType=Dem	4	det	_	_
+3	două	două	NUM	Mcfp-l	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	albume	album	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	8	nmod	_	_
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
+6	Pink	Pink	PROPN	Np	_	8	nsubj	_	_
+7	Floyd	Floyd	PROPN	Np	_	6	name	_	_
+8	execută	executa	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	"	"	PUNCT	DBLQ	_	10	punct	_	_
+10	See	See	PROPN	Np	_	8	dobj	_	_
+11	Emily	Emily	PROPN	Np	_	10	foreign	_	_
+12	Play	play	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	foreign	_	_
+13	"	"	PUNCT	DBLQ	_	10	punct	_	_
+14	.	.	PUNCT	PERIOD	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 name	color:blue
+1	Astfel	astfel	ADV	Rgp	Degree=Pos	6	advmod	_	_
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
+3	Al.	Al.	NOUN	Ed	_	6	nsubj	_	_
+4	Vlahuță	Vlahuță	PROPN	Np	_	3	name	_	_
+5	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	6	expl:pv	_	_
+6	oprește	opri	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	asupra	asupra	ADP	Spsg	AdpType=Prep|Case=Gen	8	case	_	_
+8	liricii	lirică	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
+9	Adei	Ada	PROPN	Npfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
+10	Negri	negru	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	9	name	_	_
+11	.	.	PUNCT	PERIOD	_	6	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -20,69 +65,22 @@ The following 18 pairs of parts of speech are connected with `name`: [ro-pos/PRO
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 name	color:blue
-1	Petre	Petre	PROPN	Np	_	4	nsubj	_	_
-2	Roman	Roman	PROPN	Np	_	1	name	_	_
-3	a	a	AUX	Va--3s	Number=Sing|Person=3	4	aux	_	_
-4	devenit	devenit	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-5	prim-	prim-	NUM	Moms-ln	Definite=Ind|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	6	amod	_	AltTag=NUM-ADJ
-6	ministru	ministru	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	4	xcomp	_	_
-7	.	.	PUNCT	PERIOD	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 18 name	color:blue
-1	Tot	tot	ADV	Rp	_	3	advmod	_	_
-2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
-3	1952	1952	NOUN	Etd	_	7	nmod	_	AltTag=NOUN-NUM
-4	,	,	PUNCT	COMMA	_	3	punct	_	_
-5	s-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	7	expl:pass	_	_
-6	a	avea	AUX	Va--3s	Number=Sing|Person=3	7	aux	_	_
-7	imprimat	imprima	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-8	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
-9	studiu	studiu	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nsubjpass	_	_
-10	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
-11	lui	lui	DET	Tf-so	Case=Gen|Definite=Def|Number=Sing|PronType=Art	12	det	_	_
-12	Ioan	Ioan	PROPN	Np	_	9	nmod	_	_
-13	Guția	Guția	PROPN	Np	_	12	name	_	_
-14	,	,	PUNCT	COMMA	_	15	punct	_	_
-15	Sentimentul	sentiment	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	_
-16	timpului	timp	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	name	_	_
-17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	name	_	_
-18	poezia	poezie	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	15	name	_	_
-19	lui	lui	DET	Tf-so	Case=Gen|Definite=Def|Number=Sing|PronType=Art	15	name	_	_
-20	Eminescu	Eminescu	PROPN	Np	_	15	name	_	_
-21	.	.	PUNCT	PERIOD	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 name	color:blue
-1	firește	firește	ADV	Rgp	Degree=Pos	4	advmod	_	_
-2	,	,	PUNCT	COMMA	_	1	punct	_	_
-3	gestul	gest	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	_
-4	stârnește	stârni	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	iritarea	iritare	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	dobj	_	_
-6	unor	un	DET	Ti-po	Case=Gen|Number=Plur|PronType=Ind	7	det	_	_
-7	comentatori	comentator	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	5	nmod	_	_
-8	mai	mai	ADV	Rp	_	9	advmod	_	_
-9	vigilenți	vigilent	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
-10	(	(	PUNCT	LPAR	_	11	punct	_	_
-11	M.	M.	NOUN	Ed	_	7	appos	_	AltTag=NOUN-NUM
-12	Schwartzfeld	Schwartzfeld	PROPN	Np	_	11	name	_	_
-13	ș.a.	ș.a.	NOUN	Ed	_	11	dep	_	AltTag=NOUN-NUM
-14	)	)	PUNCT	RPAR	_	11	punct	_	_
-15	.	.	PUNCT	PERIOD	_	4	punct	_	_
+1	Iosif	Iosif	PROPN	Np	_	4	nsubj	_	_
+2	B.	B.	NOUN	Ed	_	1	name	_	_
+3	a	avea	AUX	Va--3s	Number=Sing|Person=3	4	aux	_	_
+4	crescut	crește	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
+6	Casa	casă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	_
+7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
+8	copii	copie	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	6	nmod	_	_
+9	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
+10	Lugoj	Lugoj	PROPN	Np	_	6	nmod	_	_
+11	,	,	PUNCT	COMMA	_	6	punct	_	_
+12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	mark	_	_
+13	unde	unde	ADV	Rw	PronType=Int,Rel	12	mwe	_	_
+14	a	avea	AUX	Va--3s	Number=Sing|Person=3	15	aux	_	_
+15	fugit	fugi	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	_
+16	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~
 

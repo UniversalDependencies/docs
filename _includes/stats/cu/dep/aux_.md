@@ -55,21 +55,18 @@ The following 11 pairs of parts of speech are connected with `aux`: [cu-pos/VERB
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 aux	color:blue
-1	ни	ни	ADV	Df	_	2	neg	_	_
-2	съмѣ	съмѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	къто	къто	PRON	Px	Case=Nom|Number=Sing	2	nsubj	_	_
-4	отъ	отъ	ADP	R-	_	5	case	_	_
-5	дьне	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-6	того	тъ	ADJ	Pd	Case=Gen|Gender=Masc,Neut|Number=Sing	5	nmod	_	_
-7	въпросити	въпросити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	_
-8	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	aux	_	_
-9	къ	къ	ADP	R-	_	10	case	_	_
-10	томоу	тъ	ADJ	Pd	Case=Dat|Gender=Neut|Number=Sing	7	nmod	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 aux	color:blue
+1	привѣсте	привести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ми	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	ч҃лка	чловѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	aux	_	_
+4	сего	сь	ADJ	Pd	Case=Gen|Gender=Masc,Neut|Number=Sing	3	nmod	_	_
+5	ѣко	ꙗко#1	ADV	Df	_	6	advmod	_	_
+6	развращаѭща	развращати	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	xcomp	_	_
+7	люди	людиѥ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	dobj	_	_
 
 ~~~
 

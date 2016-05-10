@@ -74,3 +74,83 @@ The following 18 pairs of parts of speech are connected with `xcomp`: [es-pos/VE
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+2591 nodes (0%) are attached to their parents as `xcomp`.
+
+2468 instances of `xcomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.02199922809726.
+
+The following 17 pairs of parts of speech are connected with `xcomp`: [es-pos/VERB]()-[es-pos/VERB]() (2282; 88% instances), [es-pos/ADJ]()-[es-pos/VERB]() (147; 6% instances), [es-pos/VERB]()-[es-pos/NOUN]() (54; 2% instances), [es-pos/VERB]()-[es-pos/ADJ]() (45; 2% instances), [es-pos/ADP]()-[es-pos/VERB]() (13; 1% instances), [es-pos/ADV]()-[es-pos/VERB]() (13; 1% instances), [es-pos/CONJ]()-[es-pos/VERB]() (9; 0% instances), [es-pos/VERB]()-[es-pos/AUX]() (9; 0% instances), [es-pos/NOUN]()-[es-pos/VERB]() (5; 0% instances), [es-pos/AUX]()-[es-pos/VERB]() (3; 0% instances), [es-pos/ADV]()-[es-pos/NOUN]() (2; 0% instances), [es-pos/DET]()-[es-pos/VERB]() (2; 0% instances), [es-pos/VERB]()-[es-pos/ADV]() (2; 0% instances), [es-pos/VERB]()-[es-pos/PRON]() (2; 0% instances), [es-pos/ADJ]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/ADJ]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/PRON]()-[es-pos/AUX]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 xcomp	color:blue
+1	Y	y	CONJ	CONJ	_	11	advmod	_	_
+2	tú	tú	PRON	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+3	con	con	ADP	ADP	AdpType=Prep	5	case	_	_
+4	tus	tu	DET	DET	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	_
+5	caras	cara	NOUN	NOUN	Gender=Fem|Number=Plur	11	nmod	_	_
+6	y	y	CONJ	CONJ	_	5	cc	_	_
+7	tus	tu	DET	DET	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det	_	_
+8	nombres	nombre	NOUN	NOUN	Gender=Masc|Number=Plur	5	conj	_	_
+9	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
+10	nos	yo	PRON	PRON	Number=Plur|Person=1|PronType=Prs	11	iobj	_	_
+11	dejaste	dejar	VERB	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+12	tutear	tutear	VERB	VERB	VerbForm=Inf	11	xcomp	_	_
+13	te	tú	PRON	PRON	Number=Plur|Person=2|PronType=Prs	12	dobj	_	_
+14	.	.	PUNCT	PUNCT	PunctType=Peri	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 xcomp	color:blue
+1	Yo	yo	PRON	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	estoy	estar	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	dispuesto	dispuesto	ADJ	ADJ	Gender=Masc|Number=Sing|VerbForm=Part	9	ccomp	_	_
+4	a	a	ADP	ADP	AdpType=Prep	5	mark	_	_
+5	hacer	hacer	VERB	VERB	VerbForm=Inf	3	xcomp	_	_
+6	lo	él	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	dobj	_	_
+7	"	"	PUNCT	PUNCT	PunctType=Quot	3	punct	_	_
+8	,	,	PUNCT	PUNCT	PunctType=Comm	3	punct	_	_
+9	afirmó	afirmar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	Al	Al	ADP	ADP	AdpType=Preppron|Definite=Def|Gender=Masc|Number=Sing	11	case	_	MWE=Al_Gore|MWEPOS=PROPN
+11	Gore	Gore	PROPN	PROPN	_	9	nsubj	_	_
+12	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 xcomp	color:blue
+1	-	-	PUNCT	PUNCT	PunctType=Dash	4	punct	_	_
+2	-	-	PUNCT	PUNCT	PunctType=Dash	4	punct	_	_
+3	No	no	ADV	ADV	Negative=Neg	4	neg	_	_
+4	quería	querer	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	estar	estar	VERB	VERB	VerbForm=Inf	7	cop	_	_
+6	con	con	ADP	ADP	AdpType=Prep	7	case	_	_
+7	mujeres	mujer	NOUN	NOUN	Gender=Fem|Number=Plur	4	xcomp	_	_
+8	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+
+~~~
+
+

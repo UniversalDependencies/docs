@@ -65,10 +65,10 @@ The following 17 pairs of parts of speech are connected with `advcl`: [el-pos/VE
 9	έχουμε	έχω	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	10	aux	_	_
 10	προετοιμαστεί	προετοιμάζω	VERB	VERB	VerbForm=Inf|Voice=Pass	5	advcl	_	_
 11	για	για	ADP	ADP	_	13	case	_	_
-12	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	13	det	_	_
+12	τη	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	διεύρυνση	διεύρυνση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	10	dobj	_	_
 14	ως	ως	ADV	ADV	_	16	case	_	_
-15	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	16	det	_	_
+15	το	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_
 16	2004	2004	NOUN	NOUN	_	10	nmod	_	_
 17	.	.	PUNCT	PUNCT	_	5	punct	_	_
 

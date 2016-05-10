@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>di, pada, dari, dengan, untuk, dalam, ole
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>di</em> ([ADP]() 2200, [VERB]() 11, [CONJ]() 8, [SCONJ]() 3, [PROPN]() 2, [X]() 1), <em>dari</em> ([ADP]() 1129, [CONJ]() 1, [PROPN]() 1), <em>dengan</em> ([ADP]() 1121, [CONJ]() 1), <em>untuk</em> ([ADP]() 868, [PROPN]() 1), <em>dalam</em> ([ADP]() 715, [NOUN]() 10, [ADJ]() 5, [PROPN]() 1), <em>oleh</em> ([ADP]() 575, [CONJ]() 2), <em>sebagai</em> ([ADP]() 554, [VERB]() 1), <em>ke</em> ([ADP]() 356, [NUM]() 62, [DET]() 9, [VERB]() 1, [X]() 1), <em>seperti</em> ([ADP]() 204, [SCONJ]() 1), <em>secara</em> ([ADP]() 155, [ADV]() 5)
+The 10 most frequent ambiguous types:  <em>di</em> ([ADP]() 2200, [VERB]() 11, [CONJ]() 8, [SCONJ]() 3, [PROPN]() 2, [X]() 1), <em>dari</em> ([ADP]() 1129, [PROPN]() 1, [CONJ]() 1), <em>dengan</em> ([ADP]() 1121, [CONJ]() 1), <em>untuk</em> ([ADP]() 868, [PROPN]() 1), <em>dalam</em> ([ADP]() 715, [NOUN]() 10, [ADJ]() 5, [PROPN]() 1), <em>oleh</em> ([ADP]() 575, [CONJ]() 2), <em>sebagai</em> ([ADP]() 554, [VERB]() 1), <em>ke</em> ([ADP]() 356, [NUM]() 62, [DET]() 9, [VERB]() 1, [X]() 1), <em>seperti</em> ([ADP]() 204, [SCONJ]() 1), <em>secara</em> ([ADP]() 155, [ADV]() 5)
 
 
 * <em>di</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>di</em> ([ADP]() 2200, [VERB]() 11, [
   * [X]() 1: <em>Sehingga kopi yang <b>di</b> hasilkan dari racikan tersebut begitu nikmat dan istimewa .</em>
 * <em>dari</em>
   * [ADP]() 1129: <em>Film ini terdiri <b>dari</b> 6 musim dengan 137 episiode .</em>
-  * [CONJ]() 1: <em>Maka <b>dari</b> itu , Sia membiarkan jiwa Kikyou bersemayam dalam diri Sia . Dan beginilah akibatnya , Rin seringkali salah paham akibat kelakuan Sia yang tiba - tiba centil ini walaupun sebenarnya itu adalah ulah Kikyou .</em>
   * [PROPN]() 1: <em>Rexford ( Rex ) Phillips , alias “ Rexino Mondo , ” menulis , menyanyikan , membacakan serta memproduksi sebuah " buku audio " 210 menit berjudul Messenger From Pei ( Utusan <b>dari</b> Pei ) .</em>
+  * [CONJ]() 1: <em>Maka <b>dari</b> itu , Sia membiarkan jiwa Kikyou bersemayam dalam diri Sia . Dan beginilah akibatnya , Rin seringkali salah paham akibat kelakuan Sia yang tiba - tiba centil ini walaupun sebenarnya itu adalah ulah Kikyou .</em>
 * <em>dengan</em>
   * [ADP]() 1121: <em>Lalu bagaimana <b>dengan</b> kisah cinta Mutia dan Fadel ?</em>
   * [CONJ]() 1: <em>Device driver secara frekuentif melakukan akses pengingat langsung ( DMA ) , <b>dengan</b> demikian device driver bisa melakukan pennulisan dan relokasi atas ingatan fisik , termasuk pula struktur data kernel , oleh karena itu terhadap driver tersebut perlu diberikan kewenangan khusus ( trusted ) .</em>

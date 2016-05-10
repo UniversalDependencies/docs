@@ -5,39 +5,35 @@
 ## Treebank Statistics (UD_Greek)
 
 There are 295 `NUM` lemmas (5%), 331 `NUM` types (3%) and 946 `NUM` tokens (2%).
-Out of 11 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
+Out of 10 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>δύο, πρώτος, ένας, τρεις, δεύτερος, τρίτος, πέντε, 1, 15, Β'</em>
 
 The 10 most frequent `NUM` types:  <em>δύο, πρώτη, τρεις, πέντε, ένα, πρώτο, μία, 1, 15, Β'</em>
 
-The 10 most frequent ambiguous lemmas: <em>πρώτος</em> ([NUM]() 72, [ADJ]() 1), <em>ένας</em> ([DET]() 448, [NUM]() 52, [PRON]() 12), <em>δεύτερος</em> ([NUM]() 24, [ADV]() 6, [ADJ]() 1), <em>τρίτος</em> ([NUM]() 19, [ADV]() 2), <em>80</em> ([NUM]() 9, [NOUN]() 1), <em>2010</em> ([NUM]() 5, [NOUN]() 1), <em>2004</em> ([NOUN]() 6, [NUM]() 3), <em>διπλός</em> ([NUM]() 3, [ADJ]() 1), <em>1990</em> ([NUM]() 2, [NOUN]() 1), <em>1999</em> ([NOUN]() 4, [NUM]() 2)
+The 10 most frequent ambiguous lemmas: <em>πρώτος</em> ([NUM]() 72, [ADJ]() 1), <em>ένας</em> ([PRON]() 460, [NUM]() 52), <em>δεύτερος</em> ([NUM]() 24, [ADV]() 6, [ADJ]() 1), <em>τρίτος</em> ([NUM]() 19, [ADV]() 2), <em>80</em> ([NUM]() 9, [NOUN]() 1), <em>2010</em> ([NUM]() 5, [NOUN]() 1), <em>2004</em> ([NOUN]() 6, [NUM]() 3), <em>διπλός</em> ([NUM]() 3, [ADJ]() 1), <em>1990</em> ([NUM]() 2, [NOUN]() 1), <em>1999</em> ([NOUN]() 4, [NUM]() 2)
 
-The 10 most frequent ambiguous types:  <em>ένα</em> ([DET]() 140, [NUM]() 14, [PRON]() 3), <em>μία</em> ([DET]() 55, [NUM]() 14, [PRON]() 5), <em>80</em> ([NUM]() 9, [NOUN]() 1), <em>μια</em> ([DET]() 138, [NUM]() 8, [PRON]() 2), <em>έναν</em> ([DET]() 22, [NUM]() 6), <em>ένας</em> ([DET]() 27, [NUM]() 3, [PRON]() 1), <em>2010</em> ([NUM]() 5, [NOUN]() 1), <em>2004</em> ([NOUN]() 6, [NUM]() 3), <em>1990</em> ([NUM]() 2, [NOUN]() 1), <em>1999</em> ([NOUN]() 4, [NUM]() 2)
+The 10 most frequent ambiguous types:  <em>ένα</em> ([PRON]() 143, [NUM]() 14), <em>μία</em> ([PRON]() 60, [NUM]() 14), <em>80</em> ([NUM]() 9, [NOUN]() 1), <em>μια</em> ([PRON]() 140, [NUM]() 8), <em>έναν</em> ([PRON]() 22, [NUM]() 6), <em>ένας</em> ([PRON]() 28, [NUM]() 3), <em>2010</em> ([NUM]() 5, [NOUN]() 1), <em>2004</em> ([NOUN]() 6, [NUM]() 3), <em>1990</em> ([NUM]() 2, [NOUN]() 1), <em>1999</em> ([NOUN]() 4, [NUM]() 2)
 
 
 * <em>ένα</em>
-  * [DET]() 140: <em>Είναι <b>ένα</b> πλέγμα έργων το οποίο μεταξύ άλλων περιλαμβάνει :</em>
+  * [PRON]() 143: <em>Είναι <b>ένα</b> πλέγμα έργων το οποίο μεταξύ άλλων περιλαμβάνει :</em>
   * [NUM]() 14: <em>Διότι <b>ένα</b> από τα δύο :</em>
-  * [PRON]() 3: <em>το <b>ένα</b> το επισημάνατε , και είναι ότι πρέπει οι συζητήσεις μας να γίνουν πιο ζωντανές και ενδιαφέρουσες .</em>
 * <em>μία</em>
-  * [DET]() 55: <em>Κύριε Πρόεδρε , επιτρέψτε μου να κλείσω με <b>μία</b> παρατήρηση :</em>
+  * [PRON]() 60: <em>Κύριε Πρόεδρε , επιτρέψτε μου να κλείσω με <b>μία</b> παρατήρηση :</em>
   * [NUM]() 14: <em>Το γραφικό κυκλαδίτικο νησί της Σίφνου έχει 365 εκκλησίες , <b>μία</b> για κάθε ημέρα του χρόνου .</em>
-  * [PRON]() 5: <em>Η <b>μία</b> ημέρα , που αντιστοιχεί σε 0,05% εργάσιμου χρόνου για έναν εργαζόμενο , πιστεύουμε ότι δεν είναι υπερβολική .</em>
 * <em>80</em>
   * [NUM]() 9: <em>Απασχολεί <b>80</b> άτομα .</em>
   * [NOUN]() 1: <em>Κατά τη διάρκεια του πολέμου του Αφγανιστάν τη δεκαετία του ' <b>80</b> , εμείς , στη Δύση , υποστηρίξαμε τον ισλαμικό φονταμενταλισμό προκειμένου να καταπολεμήσουμε την εξάπλωση του κομμουνισμού .</em>
 * <em>μια</em>
-  * [DET]() 138: <em>Δώστε στον εαυτό σας <b>μια</b> καλύτερη επιλογή .</em>
+  * [PRON]() 140: <em>Δώστε στον εαυτό σας <b>μια</b> καλύτερη επιλογή .</em>
   * [NUM]() 8: <em>Ακόμα <b>μια</b> νίκη πέτυχε ο Μιτ Ρόμνεϊ</em>
-  * [PRON]() 2: <em>10 απ’ τις μεγαλύτερες φαρμακοβιομηχανίες του κόσμου , που συνήθως ανταγωνίζονται έντονα η <b>μια</b> την άλλη , συνεργάζονται τώρα με τις αμερικανικές αρχές σε μια ασυνήθιστη νέα προσπάθεια για την ανάπτυξη θεραπειών για ορισμένες απ’ τις σοβαρότατες ασθένειες .</em>
 * <em>έναν</em>
-  * [DET]() 22: <em>Πρόκειται για <b>έναν</b> πόλεμο χαμηλής έντασης , αλλά πρόκειται για πόλεμο .</em>
+  * [PRON]() 22: <em>Πρόκειται για <b>έναν</b> πόλεμο χαμηλής έντασης , αλλά πρόκειται για πόλεμο .</em>
   * [NUM]() 6: <em>Το Βίδο οφείλει την ονομασία του σε <b>έναν</b> από τους ιδιοκτήτες του , τον Guido Malipieri .</em>
 * <em>ένας</em>
-  * [DET]() 27: <em>Είναι <b>ένας</b> τομέας στον οποίο θέλουμε τις ΜΜΕ να είναι ανταγωνιστικές .</em>
+  * [PRON]() 28: <em>Είναι <b>ένας</b> τομέας στον οποίο θέλουμε τις ΜΜΕ να είναι ανταγωνιστικές .</em>
   * [NUM]() 3: <em>Ο βιότοπος των Κουκουναριών είναι <b>ένας</b> από τους τρεις σημαντικότερους της χώρας .</em>
-  * [PRON]() 1: <em>Σύμφωνα με έρευνες , στη Ρωσία ο <b>ένας</b> στους πέντε ανθρώπους κάτω των 20 ετών προτιμά να βάλει τέλος στη ζωή του - αριθμός τριπλάσιος απ' αυτόν που παρουσιάζουν οι ΗΠΑ .</em>
 * <em>2010</em>
   * [NUM]() 5: <em>Ένας από τους στόχους που θέτουμε είναι , απλώς , να μειώσουμε στο μισό τον αριθμό των θανατηφόρων δυστυχημάτων στους αυτοκινητοδρόμους μας μέχρι το <b>2010</b> ·</em>
   * [NOUN]() 1: <em>Καθορίσαμε ορισμένους επιμέρους στόχους , ορισμένες τιμές στόχους για το έτος <b>2010</b> , τις οποίες πρέπει να σεβαστούμε .</em>
@@ -53,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>ένα</em> ([DET]() 140, [NUM]() 14,
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.122034 (the average of all parts of speech is 1.776033).
+The form / lemma ratio of `NUM` is 1.122034 (the average of all parts of speech is 1.774112).
 
 The 1st highest number of forms (8) was observed with the lemma “πρώτος”: <em>πρώτες, πρώτη, πρώτης, πρώτο, πρώτοι, πρώτος, πρώτου, πρώτων</em>.
 
@@ -61,11 +57,11 @@ The 2nd highest number of forms (7) was observed with the lemma “τρίτος�
 
 The 3rd highest number of forms (5) was observed with the lemma “ένας”: <em>ένα, έναν, ένας, μία, μια</em>.
 
-`NUM` occurs with 3 features: [el-feat/Case]() (495; 52% instances), [el-feat/Gender]() (495; 52% instances), [el-feat/Number]() (495; 52% instances)
+`NUM` occurs with 4 features: [el-feat/Case]() (495; 52% instances), [el-feat/Gender]() (495; 52% instances), [el-feat/NumType]() (495; 52% instances), [el-feat/Number]() (495; 52% instances)
 
-`NUM` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`NUM` occurs with 12 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `NumType=Gen`, `NumType=Mult`, `NumType=Ord`, `Number=Plur`, `Number=Sing`
 
-`NUM` occurs with 19 feature combinations.
+`NUM` occurs with 37 feature combinations.
 The most frequent feature combination is `_` (451 tokens).
 Examples: <em>1, 15, 20, 3, 30, 80, 100, 16, 2, 10</em>
 
@@ -74,7 +70,7 @@ Examples: <em>1, 15, 20, 3, 30, 80, 100, 16, 2, 10</em>
 
 `NUM` nodes are attached to their parents using 17 different relations: [el-dep/nummod]() (401; 42% instances), [el-dep/nmod]() (376; 40% instances), [el-dep/nsubj]() (53; 6% instances), [el-dep/conj]() (38; 4% instances), [el-dep/dobj]() (19; 2% instances), [el-dep/remnant]() (16; 2% instances), [el-dep/advmod]() (8; 1% instances), [el-dep/root]() (8; 1% instances), [el-dep/appos]() (7; 1% instances), [el-dep/compound]() (7; 1% instances), [el-dep/iobj]() (3; 0% instances), [el-dep/acl:relcl]() (2; 0% instances), [el-dep/ccomp]() (2; 0% instances), [el-dep/det]() (2; 0% instances), [el-dep/xcomp]() (2; 0% instances), [el-dep/acl]() (1; 0% instances), [el-dep/advcl]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 10 different parts of speech: [NOUN]() (664; 70% instances), [VERB]() (150; 16% instances), [NUM]() (39; 4% instances), [PUNCT]() (37; 4% instances), [ADJ]() (34; 4% instances), [ADV]() (9; 1% instances), [ROOT]() (8; 1% instances), [ADP]() (2; 0% instances), [PRON]() (2; 0% instances), [DET]() (1; 0% instances)
+Parents of `NUM` nodes belong to 8 different parts of speech: [NOUN]() (701; 74% instances), [VERB]() (150; 16% instances), [NUM]() (39; 4% instances), [ADJ]() (34; 4% instances), [ADV]() (9; 1% instances), [ROOT]() (8; 1% instances), [PRON]() (3; 0% instances), [ADP]() (2; 0% instances)
 
 651 (69%) `NUM` nodes are leaves.
 
@@ -88,5 +84,5 @@ The highest child degree of a `NUM` node is 12.
 
 Children of `NUM` nodes are attached using 21 different relations: [el-dep/det]() (133; 24% instances), [el-dep/nmod]() (104; 19% instances), [el-dep/case]() (82; 15% instances), [el-dep/punct]() (64; 12% instances), [el-dep/advmod]() (49; 9% instances), [el-dep/conj]() (35; 6% instances), [el-dep/cc]() (22; 4% instances), [el-dep/cop]() (12; 2% instances), [el-dep/amod]() (10; 2% instances), [el-dep/nsubj]() (9; 2% instances), [el-dep/compound]() (7; 1% instances), [el-dep/acl:relcl]() (6; 1% instances), [el-dep/appos]() (4; 1% instances), [el-dep/remnant]() (4; 1% instances), [el-dep/acl]() (3; 1% instances), [el-dep/advcl]() (3; 1% instances), [el-dep/mark]() (3; 1% instances), [el-dep/aux]() (2; 0% instances), [el-dep/ccomp]() (1; 0% instances), [el-dep/csubj]() (1; 0% instances), [el-dep/nummod]() (1; 0% instances)
 
-Children of `NUM` nodes belong to 11 different parts of speech: [DET]() (128; 23% instances), [NOUN]() (108; 19% instances), [ADP]() (81; 15% instances), [PUNCT]() (67; 12% instances), [ADV]() (49; 9% instances), [NUM]() (39; 7% instances), [VERB]() (27; 5% instances), [CONJ]() (25; 5% instances), [PRON]() (17; 3% instances), [ADJ]() (11; 2% instances), [PART]() (3; 1% instances)
+Children of `NUM` nodes belong to 10 different parts of speech: [PRON]() (145; 26% instances), [NOUN]() (111; 20% instances), [ADP]() (81; 15% instances), [PUNCT]() (64; 12% instances), [ADV]() (49; 9% instances), [NUM]() (39; 7% instances), [VERB]() (27; 5% instances), [CONJ]() (25; 5% instances), [ADJ]() (11; 2% instances), [PART]() (3; 1% instances)
 

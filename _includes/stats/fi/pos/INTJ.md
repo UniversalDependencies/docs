@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>no, hei, voi, ai, joo, okei, tuota, kuul
 
 The 10 most frequent `INTJ` types:  <em>no, hei, voi, ai, joo, okei, kuule, ugh, jumalauta, kato</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> ([INTJ]() 44, [ADV]() 3), <em>voi</em> ([INTJ]() 9, [NOUN]() 5), <em>joo</em> ([INTJ]() 8, [ADV]() 1), <em>hip</em> ([INTJ]() 2, [NOUN]() 1, [PROPN]() 1), <em>hitto</em> ([INTJ]() 2, [NOUN]() 1), <em>mm</em> ([ADV]() 8, [INTJ]() 2), <em>niin</em> ([ADV]() 357, [CONJ]() 34, [SCONJ]() 4, [INTJ]() 2), <em>piru</em> ([INTJ]() 2, [NOUN]() 1), <em>Huom</em> ([NOUN]() 1, [INTJ]() 1), <em>että</em> ([SCONJ]() 1297, [CONJ]() 58, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>no</em> ([INTJ]() 44, [ADV]() 3), <em>voi</em> ([INTJ]() 9, [NOUN]() 5), <em>joo</em> ([INTJ]() 8, [ADV]() 1), <em>hip</em> ([INTJ]() 2, [NOUN]() 1, [PROPN]() 1), <em>hitto</em> ([INTJ]() 2, [NOUN]() 1), <em>mm</em> ([ADV]() 8, [INTJ]() 2), <em>niin</em> ([ADV]() 357, [CONJ]() 34, [SCONJ]() 4, [INTJ]() 2), <em>piru</em> ([INTJ]() 2, [NOUN]() 1), <em>Huom</em> ([INTJ]() 1, [NOUN]() 1), <em>että</em> ([SCONJ]() 1297, [CONJ]() 58, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>voi</em> ([AUX]() 335, [INTJ]() 3, [NOUN]() 2, [VERB]() 1), <em>ai</em> ([VERB]() 2, [INTJ]() 1), <em>kuule</em> ([VERB]() 6, [INTJ]() 4), <em>kato</em> ([INTJ]() 2, [VERB]() 1), <em>vie</em> ([INTJ]() 4, [VERB]() 3), <em>hip</em> ([INTJ]() 2, [NOUN]() 1, [PROPN]() 1), <em>niin</em> ([ADV]() 290, [CONJ]() 34, [INTJ]() 2, [SCONJ]() 2), <em>piru</em> ([INTJ]() 2, [NOUN]() 1), <em>tuota</em> ([PRON]() 8, [INTJ]() 2, [VERB]() 2), <em>Huom</em> ([NOUN]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>voi</em> ([AUX]() 335, [INTJ]() 3, [NOUN]() 2, [VERB]() 1), <em>ai</em> ([VERB]() 2, [INTJ]() 1), <em>kuule</em> ([VERB]() 6, [INTJ]() 4), <em>kato</em> ([INTJ]() 2, [VERB]() 1), <em>vie</em> ([INTJ]() 4, [VERB]() 3), <em>hip</em> ([INTJ]() 2, [PROPN]() 1, [NOUN]() 1), <em>niin</em> ([ADV]() 290, [CONJ]() 34, [SCONJ]() 2, [INTJ]() 2), <em>piru</em> ([INTJ]() 2, [NOUN]() 1), <em>tuota</em> ([PRON]() 8, [VERB]() 2, [INTJ]() 2), <em>Huom</em> ([NOUN]() 1, [INTJ]() 1)
 
 
 * <em>voi</em>
@@ -35,20 +35,20 @@ The 10 most frequent ambiguous types:  <em>voi</em> ([AUX]() 335, [INTJ]() 3, [N
   * [VERB]() 3: <em>Jos virta minun yli <b>vie</b> , viekööt .</em>
 * <em>hip</em>
   * [INTJ]() 2: <em>tänä päivänä hollantilaiset löysivät Manhattanin ( <b>hip</b> <b>hip</b> hurraa ! ) eli Nieuve Amsterdamin .</em>
-  * [NOUN]() 1: <em>Monkey Business jatkaa samalla linjalla kuin aiempi albumi Elephunk : funkahtavaa <b>hip</b> hopia maustettuna dance-vaikutteilla .</em>
   * [PROPN]() 1: <em>Joku Roti Records ( lyh. JRR ) on lappilainen <b>hip</b> hop -musiikkiin keskittynyt levy-yhtiö .</em>
+  * [NOUN]() 1: <em>Monkey Business jatkaa samalla linjalla kuin aiempi albumi Elephunk : funkahtavaa <b>hip</b> hopia maustettuna dance-vaikutteilla .</em>
 * <em>niin</em>
   * [ADV]() 290: <em>Ottakaa minut mukaan , <b>niin</b> saatte luotettavan turvamiehen .</em>
   * [CONJ]() 34: <em>Oman kanavansa saavat <b>niin</b> naiset sekä tv-sarjat että scifin harrastajat .</em>
-  * [INTJ]() 2: <em>Ai <b>niin</b> , meinasi julkinen painostus unohtua :</em>
   * [SCONJ]() 2: <em>Asianajajat tekevät sellaisia sopimuksia , että maksa viisi tonnia , <b>niin</b> järjestän sinut ulos .</em>
+  * [INTJ]() 2: <em>Ai <b>niin</b> , meinasi julkinen painostus unohtua :</em>
 * <em>piru</em>
   * [INTJ]() 2: <em>Hän ei ollut alati ulalla eikä iäti pihalla , hän oli <b>piru</b> vie ajatteleva ihmisolento .</em>
   * [NOUN]() 1: <em>Milloin niissä ilmestyy puhuva <b>piru</b> , milloin entinen opiskelutoveri , toinen taiteilija .</em>
 * <em>tuota</em>
   * [PRON]() 8: <em>Lähdin oitis etsimään <b>tuota</b> henkilöä .</em>
-  * [INTJ]() 2: <em>kato kun <b>tuota</b> mie olin talvella sairaalassa viikon ja <b>tuota</b> mie jo sitä maksoin yli kakssattoo ja nyt tul ´ se lasku nii ei sieltä o vähennetty vielä yhttään .</em>
   * [VERB]() 2: <em>Jos viejä ei <b>tuota</b> tai myy samankaltaista tuotetta viejämaassa , normaaliarvo määritetään muiden myyjien tai tuottajien hintojen perusteella .</em>
+  * [INTJ]() 2: <em>kato kun <b>tuota</b> mie olin talvella sairaalassa viikon ja <b>tuota</b> mie jo sitä maksoin yli kakssattoo ja nyt tul ´ se lasku nii ei sieltä o vähennetty vielä yhttään .</em>
 * <em>Huom</em>
   * [NOUN]() 1: <em><b>Huom</b> !</em>
   * [INTJ]() 1: <em><b>Huom</b> ! Vaativat javascriptin toimiakseen .</em>
@@ -98,41 +98,38 @@ Children of `INTJ` nodes belong to 7 different parts of speech: [PUNCT]() (106; 
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 79 `INTJ` lemmas (0%), 79 `INTJ` types (0%) and 366 `INTJ` tokens (0%).
-Out of 14 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 11 in number of types and 13 in number of tokens.
+There are 73 `INTJ` lemmas (0%), 73 `INTJ` types (0%) and 341 `INTJ` tokens (0%).
+Out of 16 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 12 in number of types and 14 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>no, voi, hei, joo, ai, jumalauta, saatana, okei, perkele, vittu</em>
+The 10 most frequent `INTJ` lemmas: <em>no, voi, hei, joo, ai, jumalauta, saatana, okei, heh, senkin</em>
 
-The 10 most frequent `INTJ` types:  <em>no, voi, hei, joo, ai, jumalauta, saatana, okei, perkele, vittu</em>
+The 10 most frequent `INTJ` types:  <em>no, voi, hei, joo, ai, jumalauta, saatana, okei, heh, senkin</em>
 
-The 10 most frequent ambiguous lemmas: <em>voi</em> ([INTJ]() 40, [NOUN]() 10), <em>saatana</em> ([INTJ]() 8, [NOUN]() 7), <em>perkele</em> ([NOUN]() 8, [INTJ]() 6), <em>vittu</em> ([NOUN]() 15, [INTJ]() 6), <em>helvetti</em> ([NOUN]() 19, [INTJ]() 4), <em>jaa</em> ([INTJ]() 2, [NOUN]() 1), <em>juu</em> ([INTJ]() 2, [NOUN]() 1), <em>terve</em> ([ADJ]() 12, [INTJ]() 2), <em>mm</em> ([ADV]() 2, [INTJ]() 1), <em>piru</em> ([NOUN]() 10, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>voi</em> ([INTJ]() 40, [NOUN]() 10), <em>saatana</em> ([INTJ]() 8, [NOUN]() 7), <em>moi</em> ([INTJ]() 4, [PROPN]() 1), <em>jaa</em> ([INTJ]() 2, [NOUN]() 1), <em>juu</em> ([INTJ]() 2, [NOUN]() 1), <em>terve</em> ([ADJ]() 12, [INTJ]() 2), <em>aa</em> ([NOUN]() 1, [INTJ]() 1), <em>mm</em> ([PART]() 2, [INTJ]() 1), <em>piru</em> ([NOUN]() 10, [INTJ]() 1), <em>saakeli</em> ([NOUN]() 3, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>voi</em> ([VERB]() 310, [INTJ]() 16), <em>vittu</em> ([NOUN]() 3, [INTJ]() 2), <em>senkin</em> ([INTJ]() 5, [DET]() 2), <em>helvetti</em> ([NOUN]() 2, [INTJ]() 1), <em>terve</em> ([ADJ]() 3, [INTJ]() 1), <em>Piru</em> ([NOUN]() 1, [INTJ]() 1), <em>mm</em> ([ADV]() 2, [INTJ]() 1), <em>sait</em> ([VERB]() 2, [INTJ]() 1), <em>viis</em> ([NUM]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>voi</em> ([VERB]() 308, [INTJ]() 16), <em>senkin</em> ([INTJ]() 5, [DET]() 2), <em>terve</em> ([ADJ]() 3, [INTJ]() 1), <em>Piru</em> ([NOUN]() 1, [INTJ]() 1), <em>aa</em> ([INTJ]() 1, [NOUN]() 1), <em>mm</em> ([PART]() 2, [INTJ]() 1), <em>sait</em> ([VERB]() 2, [INTJ]() 1), <em>viis</em> ([NUM]() 2, [INTJ]() 1)
 
 
 * <em>voi</em>
-  * [VERB]() 310: <em>Linja <b>voi</b> aueta odottaessa .</em>
-  * [INTJ]() 16: <em><b>voi</b> sentään</em>
-* <em>vittu</em>
-  * [NOUN]() 3: <em>voi <b>vittu</b> mikä jätkä</em>
-  * [INTJ]() 2: <em>Voi <b>vittu</b> mikä jätkä .</em>
+  * [VERB]() 308: <em>ei <b>voi</b> ajatellakhaa varhmaan että ne ikinä olis vakinaisia .</em>
+  * [INTJ]() 16: <em>Siis se oli mulle järkyttävä kokemus siis <b>voi</b> ei</em>
 * <em>senkin</em>
-  * [INTJ]() 5: <em><b>senkin</b> typerys</em>
+  * [INTJ]() 5: <em><b>senkin</b> pässi</em>
   * [DET]() 2: <em><b>senkin</b> tasoinen</em>
-* <em>helvetti</em>
-  * [NOUN]() 2: <em>Voi helvetin <b>helvetti</b> jos se kuoli</em>
-  * [INTJ]() 1: <em>Voi <b>helvetti</b> sun kanssas .</em>
 * <em>terve</em>
   * [ADJ]() 3: <em>Olemme onnekkaita , että Jemina on ollut <b>terve</b> .</em>
   * [INTJ]() 1: <em>Terve <b>terve</b></em>
 * <em>Piru</em>
   * [NOUN]() 1: <em><b>Piru</b> vie .</em>
   * [INTJ]() 1: <em><b>Piru</b> kun ei älytty kopata sitä kiinni !</em>
+* <em>aa</em>
+  * [INTJ]() 1: <em>Sanokaa <b>aa</b> .</em>
+  * [NOUN]() 1: <em>Mä ajattelin tehdä tietokoneella tämmösen <b>aa</b> nalosen se oli kai Naavan Sakarin idea mikä toimis lippuna ja ohjelmana saman tien ja täällä sitten lukee blaa blaa ja kahvitarjoilu .</em>
 * <em>mm</em>
-  * [ADV]() 2: <em>tässä on tähän hyvin kaunis sitaatti jonka kehotan , kehotan , tuota kaikkia , lukemaan , muistaakseni juuri tässä , tässä , <b>mm</b> , käsittelee tuota no joka tapauksessa se oli siis tämän , se on seikka , jota siis tämä Kaplan siteeraa ja siinä sanotaan että .</em>
+  * [PART]() 2: <em>tässä on tähän hyvin kaunis sitaatti jonka kehotan , kehotan , tuota kaikkia , lukemaan , muistaakseni juuri tässä , tässä , <b>mm</b> , käsittelee tuota no joka tapauksessa se oli siis tämän , se on seikka , jota siis tämä Kaplan siteeraa ja siinä sanotaan että .</em>
   * [INTJ]() 1: <em>mä en tarkota nyt vaan et et tuo jonku leivän vaan tota ni et niinku tekis jotain <b>mm</b> jotai ihan kunnon safkaa .</em>
 * <em>sait</em>
-  * [VERB]() 2: <em>Mistä <b>sait</b> tietää ?</em>
+  * [VERB]() 2: <em>Onpa mukava , että <b>sait</b> taas viran .</em>
   * [INTJ]() 1: <em>Suunnitelmia tehtiin toinen toisensa perään , suit <b>sait</b> .</em>
 * <em>viis</em>
   * [NUM]() 2: <em>Niin mä kysyisin tässä vielä Abdi Musselta joka olet Somaliasta tullut Suomeen <b>viis</b> vuotta sitten .</em>
@@ -140,7 +137,7 @@ The 10 most frequent ambiguous types:  <em>voi</em> ([VERB]() 310, [INTJ]() 16),
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.044212).
 
 The 1st highest number of forms (1) was observed with the lemma “aa”: <em>aa</em>.
 
@@ -148,26 +145,32 @@ The 2nd highest number of forms (1) was observed with the lemma “aaihjaihjaijj
 
 The 3rd highest number of forms (1) was observed with the lemma “ah”: <em>ah</em>.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: [fi-feat/Style]() (1; 0% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `Style=Coll`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (340 tokens).
+Examples: <em>no, voi, hei, joo, ai, jumalauta, saatana, okei, heh, senkin</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 5 different relations: [fi-dep/dep]() (307; 84% instances), [fi-dep/root]() (36; 10% instances), [fi-dep/conj]() (20; 5% instances), [fi-dep/advmod]() (2; 1% instances), [fi-dep/ccomp]() (1; 0% instances)
+`INTJ` nodes are attached to their parents using 5 different relations: [fi-dep/discourse]() (277; 81% instances), [fi-dep/root]() (37; 11% instances), [fi-dep/conj]() (22; 6% instances), [fi-dep/dep]() (4; 1% instances), [fi-dep/ccomp]() (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 9 different parts of speech: [VERB]() (185; 51% instances), [NOUN]() (40; 11% instances), [ROOT]() (36; 10% instances), [INTJ]() (31; 8% instances), [ADJ]() (20; 5% instances), [ADV]() (19; 5% instances), [SCONJ]() (19; 5% instances), [PRON]() (14; 4% instances), [PROPN]() (2; 1% instances)
+Parents of `INTJ` nodes belong to 10 different parts of speech: [VERB]() (170; 50% instances), [NOUN]() (37; 11% instances), [ROOT]() (37; 11% instances), [INTJ]() (27; 8% instances), [ADJ]() (19; 6% instances), [SCONJ]() (19; 6% instances), [PART]() (14; 4% instances), [PRON]() (14; 4% instances), [ADV]() (3; 1% instances), [PROPN]() (1; 0% instances)
 
-243 (66%) `INTJ` nodes are leaves.
+224 (66%) `INTJ` nodes are leaves.
 
-90 (25%) `INTJ` nodes have one child.
+84 (25%) `INTJ` nodes have one child.
 
-20 (5%) `INTJ` nodes have two children.
+19 (6%) `INTJ` nodes have two children.
 
-13 (4%) `INTJ` nodes have three or more children.
+14 (4%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 12 different relations: [fi-dep/punct]() (98; 56% instances), [fi-dep/conj]() (32; 18% instances), [fi-dep/dep]() (14; 8% instances), [fi-dep/advmod]() (6; 3% instances), [fi-dep/vocative]() (6; 3% instances), [fi-dep/nsubj]() (5; 3% instances), [fi-dep/cop]() (4; 2% instances), [fi-dep/mark]() (3; 2% instances), [fi-dep/amod]() (2; 1% instances), [fi-dep/cc]() (2; 1% instances), [fi-dep/advcl]() (1; 1% instances), [fi-dep/nmod]() (1; 1% instances)
+Children of `INTJ` nodes are attached using 13 different relations: [fi-dep/punct]() (97; 57% instances), [fi-dep/conj]() (33; 20% instances), [fi-dep/discourse]() (9; 5% instances), [fi-dep/advmod]() (5; 3% instances), [fi-dep/vocative]() (5; 3% instances), [fi-dep/cop]() (4; 2% instances), [fi-dep/mwe]() (4; 2% instances), [fi-dep/nsubj:cop]() (4; 2% instances), [fi-dep/mark]() (3; 2% instances), [fi-dep/cc]() (2; 1% instances), [fi-dep/advcl]() (1; 1% instances), [fi-dep/nmod]() (1; 1% instances), [fi-dep/nsubj]() (1; 1% instances)
 
-Children of `INTJ` nodes belong to 10 different parts of speech: [PUNCT]() (98; 56% instances), [INTJ]() (31; 18% instances), [VERB]() (17; 10% instances), [NOUN]() (8; 5% instances), [ADV]() (7; 4% instances), [ADJ]() (3; 2% instances), [PRON]() (3; 2% instances), [SCONJ]() (3; 2% instances), [CONJ]() (2; 1% instances), [PROPN]() (2; 1% instances)
+Children of `INTJ` nodes belong to 11 different parts of speech: [PUNCT]() (97; 57% instances), [INTJ]() (27; 16% instances), [VERB]() (17; 10% instances), [NOUN]() (10; 6% instances), [PART]() (4; 2% instances), [ADV]() (3; 2% instances), [PRON]() (3; 2% instances), [SCONJ]() (3; 2% instances), [CONJ]() (2; 1% instances), [PROPN]() (2; 1% instances), [ADJ]() (1; 1% instances)
 

@@ -11,7 +11,7 @@ The 10 most frequent `ADP` lemmas: <em>на, в, за, от, с, по, до, с�
 
 The 10 most frequent `ADP` types:  <em>на, в, за, от, с, по, до, след, като, през</em>
 
-The 10 most frequent ambiguous lemmas: <em>в</em> ([ADP]() 3331, [NOUN]() 2, [PROPN]() 2), <em>с</em> ([ADP]() 1463, [PROPN]() 1), <em>като</em> ([ADP]() 328, [SCONJ]() 192), <em>преди</em> ([ADP]() 165, [ADV]() 3), <em>под</em> ([ADP]() 84, [NOUN]() 5), <em>у</em> ([ADP]() 81, [PROPN]() 3), <em>зад</em> ([ADP]() 44, [NOUN]() 1), <em>край</em> ([NOUN]() 101, [ADP]() 39), <em>против</em> ([ADP]() 15, [ADV]() 1), <em>/</em> ([PUNCT]() 9, [ADP]() 2)
+The 10 most frequent ambiguous lemmas: <em>в</em> ([ADP]() 3331, [PROPN]() 2, [NOUN]() 2), <em>с</em> ([ADP]() 1463, [PROPN]() 1), <em>като</em> ([ADP]() 328, [SCONJ]() 192), <em>преди</em> ([ADP]() 165, [ADV]() 3), <em>под</em> ([ADP]() 84, [NOUN]() 5), <em>у</em> ([ADP]() 81, [PROPN]() 3), <em>зад</em> ([ADP]() 44, [NOUN]() 1), <em>край</em> ([NOUN]() 101, [ADP]() 39), <em>против</em> ([ADP]() 15, [ADV]() 1), <em>/</em> ([PUNCT]() 9, [ADP]() 2)
 
 The 10 most frequent ambiguous types:  <em>като</em> ([ADP]() 315, [SCONJ]() 162), <em>преди</em> ([ADP]() 125, [ADV]() 1), <em>под</em> ([ADP]() 77, [NOUN]() 1), <em>край</em> ([ADP]() 35, [NOUN]() 11), <em>:</em> ([PUNCT]() 219, [ADP]() 15), <em>против</em> ([ADP]() 15, [ADV]() 1), <em>/</em> ([PUNCT]() 9, [ADP]() 2, [CONJ]() 1), <em>-</em> ([PUNCT]() 955, [PROPN]() 4, [CONJ]() 2, [ADP]() 1), <em>плюс</em> ([CONJ]() 4, [ADP]() 1), <em>съобразно</em> ([ADV]() 2, [ADP]() 1)
 
@@ -65,13 +65,13 @@ The 3rd highest number of forms (1) was observed with the lemma “/”: <em>/</
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 9 different relations: [bg-dep/case]() (21601; 98% instances), [bg-dep/mark]() (260; 1% instances), [bg-dep/mwe]() (153; 1% instances), [bg-dep/nmod]() (57; 0% instances), [bg-dep/iobj]() (12; 0% instances), [bg-dep/conj]() (6; 0% instances), [bg-dep/cop]() (1; 0% instances), [bg-dep/dobj]() (1; 0% instances), [bg-dep/root]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 8 different relations: [bg-dep/case]() (21602; 98% instances), [bg-dep/mark]() (260; 1% instances), [bg-dep/mwe]() (153; 1% instances), [bg-dep/nmod]() (57; 0% instances), [bg-dep/iobj]() (12; 0% instances), [bg-dep/conj]() (6; 0% instances), [bg-dep/dobj]() (1; 0% instances), [bg-dep/root]() (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: [NOUN]() (17437; 79% instances), [PROPN]() (2557; 12% instances), [PRON]() (946; 4% instances), [VERB]() (449; 2% instances), [ADJ]() (264; 1% instances), [NUM]() (171; 1% instances), [ADP]() (155; 1% instances), [DET]() (93; 0% instances), [ADV]() (19; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: [NOUN]() (17445; 79% instances), [PROPN]() (2557; 12% instances), [PRON]() (946; 4% instances), [VERB]() (431; 2% instances), [ADJ]() (271; 1% instances), [NUM]() (171; 1% instances), [ADP]() (155; 1% instances), [DET]() (93; 0% instances), [ADV]() (22; 0% instances), [ROOT]() (1; 0% instances)
 
-21658 (98%) `ADP` nodes are leaves.
+21659 (98%) `ADP` nodes are leaves.
 
-340 (2%) `ADP` nodes have one child.
+339 (2%) `ADP` nodes have one child.
 
 92 (0%) `ADP` nodes have two children.
 
@@ -79,7 +79,7 @@ Parents of `ADP` nodes belong to 10 different parts of speech: [NOUN]() (17437; 
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 6 different relations: [bg-dep/mwe]() (439; 83% instances), [bg-dep/advmod]() (77; 15% instances), [bg-dep/cc]() (6; 1% instances), [bg-dep/conj]() (5; 1% instances), [bg-dep/punct]() (2; 0% instances), [bg-dep/neg]() (1; 0% instances)
+Children of `ADP` nodes are attached using 6 different relations: [bg-dep/mwe]() (439; 83% instances), [bg-dep/advmod]() (76; 14% instances), [bg-dep/cc]() (6; 1% instances), [bg-dep/conj]() (5; 1% instances), [bg-dep/punct]() (2; 0% instances), [bg-dep/neg]() (1; 0% instances)
 
-Children of `ADP` nodes belong to 8 different parts of speech: [PART]() (182; 34% instances), [ADP]() (155; 29% instances), [NOUN]() (92; 17% instances), [ADV]() (79; 15% instances), [SCONJ]() (13; 2% instances), [CONJ]() (6; 1% instances), [PUNCT]() (2; 0% instances), [INTJ]() (1; 0% instances)
+Children of `ADP` nodes belong to 8 different parts of speech: [PART]() (182; 34% instances), [ADP]() (155; 29% instances), [NOUN]() (92; 17% instances), [ADV]() (78; 15% instances), [SCONJ]() (13; 2% instances), [CONJ]() (6; 1% instances), [PUNCT]() (2; 0% instances), [INTJ]() (1; 0% instances)
 

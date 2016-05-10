@@ -69,21 +69,21 @@ Examples: <em>е, има, няма, може, трябва, става, иска
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 15 different relations: [bg-dep/root]() (10478; 54% instances), [bg-dep/ccomp]() (3056; 16% instances), [bg-dep/conj]() (2037; 10% instances), [bg-dep/acl]() (1584; 8% instances), [bg-dep/advcl]() (1509; 8% instances), [bg-dep/csubj]() (431; 2% instances), [bg-dep/dobj]() (215; 1% instances), [bg-dep/nmod]() (132; 1% instances), [bg-dep/csubjpass]() (57; 0% instances), [bg-dep/mwe]() (39; 0% instances), [bg-dep/det]() (6; 0% instances), [bg-dep/cop]() (3; 0% instances), [bg-dep/nsubj]() (3; 0% instances), [bg-dep/auxpass]() (1; 0% instances), [bg-dep/iobj]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 16 different relations: [bg-dep/root]() (9164; 47% instances), [bg-dep/ccomp]() (2560; 13% instances), [bg-dep/cop]() (1943; 10% instances), [bg-dep/conj]() (1911; 10% instances), [bg-dep/acl]() (1480; 8% instances), [bg-dep/advcl]() (1412; 7% instances), [bg-dep/csubj]() (379; 2% instances), [bg-dep/xcomp]() (260; 1% instances), [bg-dep/dobj]() (210; 1% instances), [bg-dep/nmod]() (123; 1% instances), [bg-dep/csubjpass]() (60; 0% instances), [bg-dep/mwe]() (39; 0% instances), [bg-dep/det]() (6; 0% instances), [bg-dep/nsubj]() (3; 0% instances), [bg-dep/auxpass]() (1; 0% instances), [bg-dep/iobj]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 11 different parts of speech: [ROOT]() (10478; 54% instances), [VERB]() (7396; 38% instances), [NOUN]() (1396; 7% instances), [DET]() (123; 1% instances), [PROPN]() (58; 0% instances), [PART]() (54; 0% instances), [ADJ]() (24; 0% instances), [PRON]() (9; 0% instances), [NUM]() (8; 0% instances), [ADV]() (3; 0% instances), [CONJ]() (3; 0% instances)
+Parents of `VERB` nodes belong to 11 different parts of speech: [ROOT]() (9164; 47% instances), [VERB]() (6447; 33% instances), [NOUN]() (2464; 13% instances), [ADJ]() (720; 4% instances), [ADV]() (407; 2% instances), [DET]() (122; 1% instances), [PROPN]() (89; 0% instances), [PRON]() (76; 0% instances), [PART]() (50; 0% instances), [NUM]() (10; 0% instances), [CONJ]() (3; 0% instances)
 
-144 (1%) `VERB` nodes are leaves.
+2084 (11%) `VERB` nodes are leaves.
 
-779 (4%) `VERB` nodes have one child.
+754 (4%) `VERB` nodes have one child.
 
-2795 (14%) `VERB` nodes have two children.
+2650 (14%) `VERB` nodes have two children.
 
-15834 (81%) `VERB` nodes have three or more children.
+14064 (72%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 13.
 
-Children of `VERB` nodes are attached using 26 different relations: [bg-dep/punct]() (15513; 21% instances), [bg-dep/nsubj]() (10638; 15% instances), [bg-dep/dobj]() (7515; 10% instances), [bg-dep/nmod]() (5881; 8% instances), [bg-dep/aux]() (5770; 8% instances), [bg-dep/advmod]() (3845; 5% instances), [bg-dep/iobj]() (3502; 5% instances), [bg-dep/expl]() (3437; 5% instances), [bg-dep/ccomp]() (3016; 4% instances), [bg-dep/conj]() (2035; 3% instances), [bg-dep/cop]() (1943; 3% instances), [bg-dep/cc]() (1904; 3% instances), [bg-dep/mark]() (1838; 3% instances), [bg-dep/advcl]() (1516; 2% instances), [bg-dep/neg]() (1343; 2% instances), [bg-dep/nsubjpass]() (914; 1% instances), [bg-dep/discourse]() (551; 1% instances), [bg-dep/csubj]() (431; 1% instances), [bg-dep/auxpass]() (421; 1% instances), [bg-dep/case]() (135; 0% instances), [bg-dep/csubjpass]() (57; 0% instances), [bg-dep/mwe]() (29; 0% instances), [bg-dep/amod]() (16; 0% instances), [bg-dep/xcomp]() (12; 0% instances), [bg-dep/vocative]() (6; 0% instances), [bg-dep/acl]() (1; 0% instances)
+Children of `VERB` nodes are attached using 26 different relations: [bg-dep/punct]() (13644; 21% instances), [bg-dep/nsubj]() (8864; 14% instances), [bg-dep/dobj]() (7507; 12% instances), [bg-dep/aux]() (5627; 9% instances), [bg-dep/nmod]() (5569; 9% instances), [bg-dep/advmod]() (3579; 6% instances), [bg-dep/iobj]() (3499; 5% instances), [bg-dep/expl]() (3421; 5% instances), [bg-dep/ccomp]() (2757; 4% instances), [bg-dep/conj]() (1829; 3% instances), [bg-dep/cc]() (1688; 3% instances), [bg-dep/mark]() (1620; 2% instances), [bg-dep/advcl]() (1380; 2% instances), [bg-dep/neg]() (1181; 2% instances), [bg-dep/nsubjpass]() (1158; 2% instances), [bg-dep/discourse]() (500; 1% instances), [bg-dep/auxpass]() (421; 1% instances), [bg-dep/xcomp]() (275; 0% instances), [bg-dep/csubj]() (251; 0% instances), [bg-dep/case]() (125; 0% instances), [bg-dep/csubjpass]() (74; 0% instances), [bg-dep/mwe]() (29; 0% instances), [bg-dep/amod]() (15; 0% instances), [bg-dep/vocative]() (6; 0% instances), [bg-dep/cop]() (3; 0% instances), [bg-dep/acl]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 16 different parts of speech: [NOUN]() (20421; 28% instances), [PUNCT]() (15684; 22% instances), [PRON]() (8252; 11% instances), [VERB]() (7396; 10% instances), [PART]() (4640; 6% instances), [ADV]() (4582; 6% instances), [PROPN]() (2278; 3% instances), [AUX]() (2028; 3% instances), [CONJ]() (1900; 3% instances), [SCONJ]() (1505; 2% instances), [INTJ]() (1409; 2% instances), [ADJ]() (1184; 2% instances), [ADP]() (449; 1% instances), [DET]() (372; 1% instances), [NUM]() (168; 0% instances), [X]() (1; 0% instances)
+Children of `VERB` nodes belong to 16 different parts of speech: [NOUN]() (18410; 28% instances), [PUNCT]() (13815; 21% instances), [PRON]() (7768; 12% instances), [VERB]() (6447; 10% instances), [PART]() (4507; 7% instances), [ADV]() (4082; 6% instances), [PROPN]() (2110; 3% instances), [AUX]() (1980; 3% instances), [CONJ]() (1683; 3% instances), [SCONJ]() (1304; 2% instances), [INTJ]() (1240; 2% instances), [ADJ]() (744; 1% instances), [ADP]() (431; 1% instances), [DET]() (346; 1% instances), [NUM]() (155; 0% instances), [X]() (1; 0% instances)
 

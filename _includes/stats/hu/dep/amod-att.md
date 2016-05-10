@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [amod]().
 There are also 3 other language-specific subtypes of `amod`: [amod:attlvc](), [amod:mode](), [amod:obl]().
 
-2593 nodes (10%) are attached to their parents as `amod:att`.
+5006 nodes (12%) are attached to their parents as `amod:att`.
 
-2593 instances of `amod:att` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.37254145777092.
+4995 instances of `amod:att` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40371554135038.
 
-The following 15 pairs of parts of speech are connected with `amod:att`: [hu-pos/NOUN]()-[hu-pos/ADJ]() (2441; 94% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (77; 3% instances), [hu-pos/PROPN]()-[hu-pos/ADJ]() (59; 2% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (3; 0% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (2; 0% instances), [hu-pos/NUM]()-[hu-pos/ADJ]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/ADJ]()-[hu-pos/NUM]() (1; 0% instances), [hu-pos/ADJ]()-[hu-pos/X]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/NUM]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/X]() (1; 0% instances), [hu-pos/NUM]()-[hu-pos/NUM]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/X]()-[hu-pos/ADJ]() (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `amod:att`: [hu-pos/NOUN]()-[hu-pos/ADJ]() (4191; 84% instances), [hu-pos/NOUN]()-[hu-pos/NUM]() (313; 6% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (161; 3% instances), [hu-pos/PROPN]()-[hu-pos/ADJ]() (133; 3% instances), [hu-pos/ADJ]()-[hu-pos/NUM]() (84; 2% instances), [hu-pos/NOUN]()-[hu-pos/PRON]() (79; 2% instances), [hu-pos/NUM]()-[hu-pos/NUM]() (15; 0% instances), [hu-pos/NUM]()-[hu-pos/ADJ]() (9; 0% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (3; 0% instances), [hu-pos/ADJ]()-[hu-pos/PRON]() (2; 0% instances), [hu-pos/ADV]()-[hu-pos/PRON]() (2; 0% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/ADJ]()-[hu-pos/X]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/X]() (1; 0% instances), [hu-pos/NUM]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/NUM]()-[hu-pos/PRON]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/SCONJ]()-[hu-pos/NUM]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/X]()-[hu-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,44 +37,53 @@ The following 15 pairs of parts of speech are connected with `amod:att`: [hu-pos
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 amod:att	color:blue
-1	Mindenkinek	mindenki	PRON	_	Case=Dat|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Tot	4	nmod:obl	_	_
-2	az	az	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	4	nsubj	_	_
-3	a	a	DET	_	Definite=Def|PronType=Art	4	det	_	_
-4	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	0	root	_	_
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	ha	ha	SCONJ	_	_	13	mark	_	_
-7	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	amod:att	_	_
-8	időben	idő	NOUN	_	Case=Ine|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	13	nmod:obl	_	_
-9	,	,	PUNCT	_	_	13	punct	_	_
-10	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	11	amod:att	_	_
-11	minőségű	minőségű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	12	amod:att	_	_
-12	pályákon	pálya	NOUN	_	Case=Sup|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None	13	nmod:obl	_	_
-13	zajlanak	zajlik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	_
-14	az	az	DET	_	Definite=Def|PronType=Art	15	det	_	_
-15	összecsapások	összecsapás	NOUN	_	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None	13	nsubj	_	_
-16	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 10 9 amod:att	color:blue
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	dolgok	dolog	NOUN	_	Case=Nom|Number=Plur	4	nmod:att	_	_
+3	pillanatnyi	pillanatnyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod:att	_	_
+4	állása	állás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	nmod	_	_
+5	szerint	szerint	ADP	_	_	4	case	_	_
+6	az	az	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	utóbbira	utóbbi	NOUN	_	Case=Sub|Number=Sing	8	nmod:obl	_	_
+8	mutatkozik	mutatkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	10	amod:att	_	_
+10	esély	esély	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 amod:att	color:blue
-1	Napok	nap	NOUN	_	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	nmod	_	_
-2	óta	óta	ADP	_	_	1	case	_	_
-3	hóvihar	hóvihar	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	nsubj	_	_
-4	tombol	tombol	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	egész	egész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	amod:att	_	_
-6	Európában	Európa	PROPN	_	Case=Ine|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	nmod:obl	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 5 4 amod:att	color:blue
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	bank	bank	NOUN	_	Case=Nom|Number=Sing	6	nmod:att	_	_
+3	idei	idei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+4	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	5	amod:att	_	_
+5	féléves	féléves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+6	mérlege	mérleg	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	_
+7	973	973	NUM	_	Case=Nom|Number=Sing|NumType=Card	8	compound	_	_
+8	millió	millió	NUM	_	Case=Nom|Number=Sing|NumType=Card	9	amod:att	_	_
+9	forint	forint	NOUN	_	Case=Nom|Number=Sing	10	nmod:att	_	_
+10	hiányt	hiány	NOUN	_	Case=Acc|Number=Sing	11	dobj	_	_
+11	mutatott	mutat	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	így	így	CONJ	_	_	11	cc	_	_
+14	4,2	4,2	NUM	_	Case=Nom|Number=Sing|NumType=Frac	15	compound	_	_
+15	milliárd	milliárd	NUM	_	Case=Nom|Number=Sing|NumType=Card	16	amod:att	_	_
+16	forint	forint	NOUN	_	Case=Nom|Number=Sing	11	conj	_	_
+17	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
+18	a	a	DET	_	Definite=Def|PronType=Art	20	det	_	_
+19	saját	saját	PRON	_	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	amod:att	_	_
+20	tőkéje	tőke	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	nsubj	_	_
+21	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 

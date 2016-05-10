@@ -20,13 +20,13 @@ The following 4 pairs of parts of speech are connected with `det:predet`: [fa-po
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 det:predet	color:blue
-1	از	_	ADP	P	_	4	case	_	_
+1	از	از	ADP	P	_	4	case	_	_
 2	سراسر	_	DET	DET	_	4	det:predet	_	_
 3	این	_	DET	DET	_	4	det	_	_
 4	سرزمین	_	NOUN	N_SING	Number=Sing	10	nmod	_	_
 5	بوی	_	NOUN	N_SING	Number=Sing	10	nsubj	_	_
 6	عشق	_	NOUN	N_SING	Number=Sing	5	nmod:poss	_	_
-7	و	_	CONJ	CON	_	6	cc	_	_
+7	و	و	CONJ	CON	_	6	cc	_	_
 8	لطف	_	NOUN	N_SING	Number=Sing	6	conj	_	_
 9	بر	_	ADP	PREV	_	10	compound:prt	_	_
 10	می‌خیزد	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	_

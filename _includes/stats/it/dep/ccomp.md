@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1384 nodes (1%) are attached to their parents as `ccomp`.
+1364 nodes (1%) are attached to their parents as `ccomp`.
 
-1360 instances of `ccomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.79118497109827.
+1341 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.86876832844575.
 
-The following 22 pairs of parts of speech are connected with `ccomp`: [it-pos/VERB]()-[it-pos/VERB]() (1062; 77% instances), [it-pos/VERB]()-[it-pos/ADJ]() (95; 7% instances), [it-pos/VERB]()-[it-pos/NOUN]() (60; 4% instances), [it-pos/ADJ]()-[it-pos/VERB]() (57; 4% instances), [it-pos/ADV]()-[it-pos/VERB]() (31; 2% instances), [it-pos/NOUN]()-[it-pos/VERB]() (29; 2% instances), [it-pos/VERB]()-[it-pos/PRON]() (15; 1% instances), [it-pos/PRON]()-[it-pos/VERB]() (5; 0% instances), [it-pos/PROPN]()-[it-pos/VERB]() (5; 0% instances), [it-pos/VERB]()-[it-pos/PROPN]() (5; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (4; 0% instances), [it-pos/ADV]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/AUX]()-[it-pos/VERB]() (3; 0% instances), [it-pos/ADJ]()-[it-pos/PRON]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/ADV]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/NUM]()-[it-pos/VERB]() (1; 0% instances), [it-pos/VERB]()-[it-pos/ADV]() (1; 0% instances), [it-pos/VERB]()-[it-pos/AUX]() (1; 0% instances), [it-pos/VERB]()-[it-pos/NUM]() (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `ccomp`: [it-pos/VERB]()-[it-pos/VERB]() (1071; 79% instances), [it-pos/VERB]()-[it-pos/ADJ]() (95; 7% instances), [it-pos/VERB]()-[it-pos/NOUN]() (62; 5% instances), [it-pos/ADJ]()-[it-pos/VERB]() (42; 3% instances), [it-pos/NOUN]()-[it-pos/VERB]() (29; 2% instances), [it-pos/ADV]()-[it-pos/VERB]() (23; 2% instances), [it-pos/VERB]()-[it-pos/PRON]() (15; 1% instances), [it-pos/PRON]()-[it-pos/VERB]() (5; 0% instances), [it-pos/PROPN]()-[it-pos/VERB]() (5; 0% instances), [it-pos/VERB]()-[it-pos/PROPN]() (5; 0% instances), [it-pos/ADV]()-[it-pos/NOUN]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances), [it-pos/ADV]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/AUX]()-[it-pos/VERB]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/NUM]()-[it-pos/VERB]() (1; 0% instances), [it-pos/VERB]()-[it-pos/ADV]() (1; 0% instances), [it-pos/VERB]()-[it-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,13 +60,13 @@ The following 22 pairs of parts of speech are connected with `ccomp`: [it-pos/VE
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 ccomp	color:blue
-1	"	"	PUNCT	FB	_	2	punct	_	_
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	Credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	che	che	SCONJ	CS	_	6	mark	_	_
 4	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	reazione	reazione	NOUN	S	Gender=Fem|Number=Sing	2	ccomp	_	_
-7	emotiva	emotivo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+7	emotiva	emotivo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
 8	"	"	PUNCT	FB	_	2	punct	_	_
 9	.	.	PUNCT	FS	_	2	punct	_	_
 

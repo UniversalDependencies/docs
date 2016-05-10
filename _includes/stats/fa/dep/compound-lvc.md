@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [compound]().
 There are also 1 other language-specific subtypes of `compound`: [compound:prt]().
 
-5418 nodes (4%) are attached to their parents as `compound:lvc`.
+5475 nodes (4%) are attached to their parents as `compound:lvc`.
 
-5409 instances of `compound:lvc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09043927648579.
+5466 instances of `compound:lvc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10301369863014.
 
-The following 16 pairs of parts of speech are connected with `compound:lvc`: [fa-pos/VERB]()-[fa-pos/NOUN]() (4470; 83% instances), [fa-pos/VERB]()-[fa-pos/ADJ]() (547; 10% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (207; 4% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (137; 3% instances), [fa-pos/ADJ]()-[fa-pos/NOUN]() (25; 0% instances), [fa-pos/VERB]()-[fa-pos/PRON]() (12; 0% instances), [fa-pos/NOUN]()-[fa-pos/PRON]() (5; 0% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (4; 0% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (2; 0% instances), [fa-pos/VERB]()-[fa-pos/ADP]() (2; 0% instances), [fa-pos/VERB]()-[fa-pos/CONJ]() (2; 0% instances), [fa-pos/ADP]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/ADP]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/CONJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/SCONJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/VERB]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `compound:lvc`: [fa-pos/VERB]()-[fa-pos/NOUN]() (4525; 83% instances), [fa-pos/VERB]()-[fa-pos/ADJ]() (548; 10% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (208; 4% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (137; 3% instances), [fa-pos/ADJ]()-[fa-pos/NOUN]() (25; 0% instances), [fa-pos/VERB]()-[fa-pos/PRON]() (12; 0% instances), [fa-pos/NOUN]()-[fa-pos/PRON]() (5; 0% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (4; 0% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (2; 0% instances), [fa-pos/VERB]()-[fa-pos/ADP]() (2; 0% instances), [fa-pos/VERB]()-[fa-pos/CONJ]() (2; 0% instances), [fa-pos/ADP]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/ADP]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/CONJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/SCONJ]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,8 +65,8 @@ The following 16 pairs of parts of speech are connected with `compound:lvc`: [fa
 4	بچه‌ها	_	NOUN	N_PL	Number=Plur	3	nmod:poss	_	_
 5	،	_	PUNCT	DELM	_	10	punct	_	_
 6	احمد	_	NOUN	N_SING	Number=Sing	10	dobj	_	_
-7	را	_	PART	CLITIC	_	6	case	_	_
-8	به	_	ADP	P	_	9	case	_	_
+7	را	را	PART	CLITIC	_	6	case	_	_
+8	به	به	ADP	P	_	9	case	_	_
 9	خود	_	PRON	PRO	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	nmod	_	_
 10	می‌آورد	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 11	.	_	PUNCT	DELM	_	10	punct	_	_

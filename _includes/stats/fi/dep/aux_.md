@@ -75,12 +75,12 @@ The following 9 pairs of parts of speech are connected with `aux`: [fi-pos/VERB]
 
 This relation is universal.
 
-5111 nodes (3%) are attached to their parents as `aux`.
+4693 nodes (3%) are attached to their parents as `aux`.
 
-5053 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57875171199374.
+4638 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.56658853611762.
 
-The following 11 pairs of parts of speech are connected with `aux`: [fi-pos/VERB]()-[fi-pos/VERB]() (4618; 90% instances), [fi-pos/ADJ]()-[fi-pos/VERB]() (152; 3% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (118; 2% instances), [fi-pos/NOUN]()-[fi-pos/VERB]() (116; 2% instances), [fi-pos/VERB]()-[fi-pos/NOUN]() (85; 2% instances), [fi-pos/PRON]()-[fi-pos/VERB]() (9; 0% instances), [fi-pos/PROPN]()-[fi-pos/VERB]() (6; 0% instances), [fi-pos/ADJ]()-[fi-pos/ADJ]() (2; 0% instances), [fi-pos/NUM]()-[fi-pos/VERB]() (2; 0% instances), [fi-pos/X]()-[fi-pos/VERB]() (2; 0% instances), [fi-pos/ADV]()-[fi-pos/VERB]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `aux`: [fi-pos/VERB]()-[fi-pos/VERB]() (4408; 94% instances), [fi-pos/ADJ]()-[fi-pos/VERB]() (150; 3% instances), [fi-pos/NOUN]()-[fi-pos/VERB]() (114; 2% instances), [fi-pos/PRON]()-[fi-pos/VERB]() (9; 0% instances), [fi-pos/PROPN]()-[fi-pos/VERB]() (6; 0% instances), [fi-pos/X]()-[fi-pos/VERB]() (2; 0% instances), [fi-pos/NUM]()-[fi-pos/VERB]() (1; 0% instances), [fi-pos/PUNCT]()-[fi-pos/VERB]() (1; 0% instances), [fi-pos/VERB]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/X]()-[fi-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -89,45 +89,45 @@ The following 11 pairs of parts of speech are connected with `aux`: [fi-pos/VERB
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 aux	color:blue
-1	x:n	x	NOUN	N,Abbr,Sg,Gen	Abbr=Yes|Case=Gen|Number=Sing	3	nsubj	_	_
-2	tarvii	tarvita	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	aux	_	Style=Dialectal
-3	toimia	toimia	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
+1	ei	ei	VERB	V,Neg,Act,Sg3	Negative=Neg|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	neg	_	_
+2	voi	voida	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	ajatellakhaa	ajatella	VERB	V,Act,InfA,Lat,Kaan	Case=Lat|Clitic=Kaan|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	0	root	_	_
+4	varhmaan	varmaan	PART	Pcle	Style=Coll	3	advmod	_	_
+5	että	että	SCONJ	Pcle,CS	_	9	mark	_	_
+6	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	9	nsubj:cop	_	_
+7	ikinä	ikinä	ADV	Adv	_	9	advmod	_	_
+8	olis	olla	VERB	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|Style=Coll|VerbForm=Fin|Voice=Act	9	cop	_	_
+9	vakinaisia	vakinainen	ADJ	A,Pl,Par	Case=Par|Number=Plur	3	ccomp	_	_
+10	.	.	PUNCT	Pun	_	9	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 aux	color:blue
-1	Luovan	luova	ADJ	A,Sg,Gen	Case=Gen|Number=Sing	2	amod	_	_
-2	tilanteen	tilanne	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	5	nsubj	_	_
-3	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	aux	_	_
-4	oltava	olla	VERB	V,Pass,PcpVa,Sg,Nom	Case=Nom|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	5	cop	_	_
-5	hauska	hauska	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
-6	.	.	PUNCT	Pun	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 aux	color:blue
-1	rakentamisessa	rakentaminen	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	4	nmod	_	_
-2	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	aux	_	_
-3	helppo	helppo	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	4	aux	_	Original-Deprel=modal
-4	fuskata	fuskata	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	_
-6	jos	jos	SCONJ	Pcle,CS	_	8	mark	_	_
-7	joku	joku	PRON	Pron,Qnt,Sg,Nom	Case=Nom|Number=Sing	8	nsubj	_	Finnish-PronType=Qnt
-8	haluaa	haluta	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	advcl	_	_
-9	fuskata	fuskata	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	8	ccomp	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+# visual-style 4 2 aux	color:blue
+1	Se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	4	nsubj:cop	_	_
+2	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+3	tullunna	tulla	VERB	V,Act,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|Style=Coll|VerbForm=Part|Voice=Act	4	cop	_	_
+4	harmmoopäeseks	harmaapäinen	ADJ	A,Sg,Tra	Case=Tra|Number=Sing|Style=Coll	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 aux	color:blue
+1	Hänestä	hän	PRON	Pron,Pers,Sg3,Ela	Case=Ela|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+2	voi	voida	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+3	tulla	tulla	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	4	cop	_	_
+4	sensaatio	sensaatio	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
+5	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~
 

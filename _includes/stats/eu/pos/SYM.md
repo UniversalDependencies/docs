@@ -13,15 +13,15 @@ The 10 most frequent `SYM` types:  <em>cm-ko, kg, kv, m, m., Kw, cm, km</em>
 
 The 10 most frequent ambiguous lemmas: <em>cm</em> ([SYM]() 5, [NOUN]() 1), <em>m</em> ([SYM]() 4, [NOUN]() 3)
 
-The 10 most frequent ambiguous types:  <em>kv</em> ([NOUN]() 1, [SYM]() 1), <em>cm</em> ([NOUN]() 1, [SYM]() 1)
+The 10 most frequent ambiguous types:  <em>kv</em> ([NOUN]() 1, [SYM]() 1), <em>cm</em> ([SYM]() 1, [NOUN]() 1)
 
 
 * <em>kv</em>
   * [NOUN]() 1: <em>Espediente horretan Urnietako San Juan T.Z.-ra joango den lurrazpiko elektrizitate-lineari ( 13,2 <b>kv</b> , zirkuito bakuna ) administrazioaren baimena emateko eta egiteko proiektua onartzeko eskatzen da .</em>
   * [SYM]() 1: <em>Aldai izeneko transformazio-zentroari , egitura trinkodun prefabrikatuari ( 13,2 <b>kv</b> ) Administrazioaren baimena ematea eta egiteko proiektua onartzea .</em>
 * <em>cm</em>
-  * [NOUN]() 1: <em>Landare-muturretik 50 <b>cm</b> ingurura , azala bueltan ebaki .</em>
   * [SYM]() 1: <em>Lorea duten landareak lorontzi txikietan eduki behar dira eta birlandatuz gero , diametroa 2 edo 3 <b>cm</b> handiagoa duen lorontzia aukeratu .</em>
+  * [NOUN]() 1: <em>Landare-muturretik 50 <b>cm</b> ingurura , azala bueltan ebaki .</em>
 
 ## Morphology
 

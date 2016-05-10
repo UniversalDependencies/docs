@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.559122).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.557992).
 
 The 1st highest number of forms (1) was observed with the lemma “"”: ".
 
@@ -38,21 +38,11 @@ Examples: .
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: [ta-dep/punct]() (999; 100% instances), [ta-dep/conj]() (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: [ta-dep/punct]() (1000; 100% instances)
 
-Parents of `PUNCT` nodes belong to 9 different parts of speech: [VERB]() (712; 71% instances), [NOUN]() (147; 15% instances), [PROPN]() (85; 9% instances), [AUX]() (18; 2% instances), [NUM]() (16; 2% instances), [ADJ]() (8; 1% instances), [PART]() (7; 1% instances), [PRON]() (6; 1% instances), [PUNCT]() (1; 0% instances)
+Parents of `PUNCT` nodes belong to 8 different parts of speech: [VERB]() (712; 71% instances), [NOUN]() (147; 15% instances), [PROPN]() (86; 9% instances), [AUX]() (18; 2% instances), [NUM]() (16; 2% instances), [ADJ]() (8; 1% instances), [PART]() (7; 1% instances), [PRON]() (6; 1% instances)
 
-999 (100%) `PUNCT` nodes are leaves.
+1000 (100%) `PUNCT` nodes are leaves.
 
-0 (0%) `PUNCT` nodes have one child.
-
-0 (0%) `PUNCT` nodes have two children.
-
-1 (0%) `PUNCT` nodes have three or more children.
-
-The highest child degree of a `PUNCT` node is 4.
-
-Children of `PUNCT` nodes are attached using 2 different relations: [ta-dep/nmod]() (3; 75% instances), [ta-dep/punct]() (1; 25% instances)
-
-Children of `PUNCT` nodes belong to 2 different parts of speech: [PROPN]() (3; 75% instances), [PUNCT]() (1; 25% instances)
+The highest child degree of a `PUNCT` node is 0.
 

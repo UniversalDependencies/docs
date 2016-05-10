@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>करते</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>करती</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>करते</td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>किए, किये, करा</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>किए, करा, किये</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>किए</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>करने</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td></td><td>करने</td></tr>
@@ -101,7 +101,7 @@ The most frequent other feature values with which `ADP` and `Polite` co-occurred
 
 11 [hi-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `ADJ` and `Polite` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (11; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (11; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (7; 64%).
+The most frequent other feature values with which `ADJ` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (11; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (11; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (7; 64%).
 
 `ADJ` tokens may have the following values of `Polite`:
 
@@ -124,7 +124,7 @@ The most frequent other feature values with which `PROPN` and `Polite` co-occurr
 
 2 [hi-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (2; 100%), <tt><a href="Person.html">Person</a>=3</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Polite`:
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 
 1 [hi-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Polite`:
 
@@ -147,6 +147,6 @@ The 10 most frequent relations where parent and child node agree in `Polite`:
 <tt>AUX --[<a href="../dep/auxpass.html">auxpass</a>]--> AUX</tt> (355; 92%),
 <tt>VERB --[<a href="../dep/auxpass.html">auxpass</a>]--> AUX</tt> (29; 97%),
 <tt>VERB --[<a href="../dep/mark.html">mark</a>]--> ADP</tt> (16; 94%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/punct.html">punct</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/punct.html">punct</a>]--> ADJ</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%).
 

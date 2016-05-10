@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [acl]().
 
-1426 nodes (1%) are attached to their parents as `acl:relcl`.
+1425 nodes (1%) are attached to their parents as `acl:relcl`.
 
-1425 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.88008415147265.
+1424 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.88771929824561.
 
-The following 23 pairs of parts of speech are connected with `acl:relcl`: [fa-pos/NOUN]()-[fa-pos/VERB]() (833; 58% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (218; 15% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (198; 14% instances), [fa-pos/PRON]()-[fa-pos/VERB]() (88; 6% instances), [fa-pos/PRON]()-[fa-pos/NOUN]() (31; 2% instances), [fa-pos/ADV]()-[fa-pos/VERB]() (12; 1% instances), [fa-pos/PRON]()-[fa-pos/ADJ]() (8; 1% instances), [fa-pos/VERB]()-[fa-pos/VERB]() (7; 0% instances), [fa-pos/ADV]()-[fa-pos/ADJ]() (6; 0% instances), [fa-pos/ADJ]()-[fa-pos/VERB]() (5; 0% instances), [fa-pos/ADV]()-[fa-pos/NOUN]() (3; 0% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (3; 0% instances), [fa-pos/ADJ]()-[fa-pos/NOUN]() (2; 0% instances), [fa-pos/NOUN]()-[fa-pos/NUM]() (2; 0% instances), [fa-pos/PRON]()-[fa-pos/ADV]() (2; 0% instances), [fa-pos/ADP]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/ADP]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/ADV]()-[fa-pos/AUX]() (1; 0% instances), [fa-pos/DET]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/AUX]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/PRON]()-[fa-pos/NUM]() (1; 0% instances), [fa-pos/X]()-[fa-pos/VERB]() (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `acl:relcl`: [fa-pos/NOUN]()-[fa-pos/VERB]() (832; 58% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (218; 15% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (199; 14% instances), [fa-pos/PRON]()-[fa-pos/VERB]() (88; 6% instances), [fa-pos/PRON]()-[fa-pos/NOUN]() (31; 2% instances), [fa-pos/ADV]()-[fa-pos/VERB]() (12; 1% instances), [fa-pos/PRON]()-[fa-pos/ADJ]() (9; 1% instances), [fa-pos/VERB]()-[fa-pos/VERB]() (7; 0% instances), [fa-pos/ADV]()-[fa-pos/ADJ]() (6; 0% instances), [fa-pos/ADJ]()-[fa-pos/VERB]() (5; 0% instances), [fa-pos/ADV]()-[fa-pos/NOUN]() (3; 0% instances), [fa-pos/ADJ]()-[fa-pos/NOUN]() (2; 0% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (2; 0% instances), [fa-pos/NOUN]()-[fa-pos/NUM]() (2; 0% instances), [fa-pos/ADP]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/ADP]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/ADV]()-[fa-pos/AUX]() (1; 0% instances), [fa-pos/DET]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/AUX]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/PRON]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/PRON]()-[fa-pos/NUM]() (1; 0% instances), [fa-pos/X]()-[fa-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: [fa-po
 3	،	_	PUNCT	DELM	_	2	punct	_	_
 4	هفت	_	NOUN	N_SING	Number=Sing	5	nummod	_	_
 5	ساعت	_	NOUN	N_SING	Number=Sing	2	nsubj	_	_
-6	که	_	SCONJ	CON	_	7	mark	_	_
+6	که	که	SCONJ	CON	_	7	mark	_	_
 7	چیزی	_	NOUN	N_SING	Number=Sing	5	acl:relcl	_	_
 8	نیست	_	VERB	V_PRS	Negative=Neg|Number=Sing|Person=3|Tense=Pres	7	cop	_	_
 9	.	_	PUNCT	DELM	_	2	punct	_	_
@@ -62,12 +62,12 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: [fa-po
 4	صدا	_	NOUN	N_SING	Number=Sing	3	nmod:poss	_	_
 5	سر	_	NOUN	N_SING	Number=Sing	6	compound:lvc	_	_
 6	برمی‌دارد	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-7	و	_	CONJ	CON	_	6	cc	_	_
+7	و	و	CONJ	CON	_	6	cc	_	_
 8	دست	_	NOUN	N_SING	Number=Sing	14	dobj	_	_
 9	پدر	_	NOUN	N_SING	Number=Sing	8	nmod:poss	_	_
-10	را	_	PART	CLITIC	_	8	case	_	_
-11	که	_	SCONJ	CON	_	12	mark	_	_
-12	دراز	_	ADJ	ADJ	Degree=Pos	8	acl:relcl	_	_
+10	را	را	PART	CLITIC	_	8	case	_	_
+11	که	که	SCONJ	CON	_	12	mark	_	_
+12	دراز	از	ADJ	ADJ	Degree=Pos	8	acl:relcl	_	_
 13	شده	_	VERB	V_PP	Number=Sing|Person=3|VerbForm=Part	12	cop	_	_
 14	می‌بیند	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	6	conj	_	_
 15	.	_	PUNCT	DELM	_	6	punct	_	_

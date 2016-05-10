@@ -4,8 +4,8 @@
 
 ## Treebank Statistics (UD_Norwegian)
 
-There are 24 `AUX` lemmas (0%), 52 `AUX` types (0%) and 9993 `AUX` tokens (3%).
-Out of 17 observed tags, the rank of `AUX` is: 13 in number of lemmas, 11 in number of types and 11 in number of tokens.
+There are 10 `AUX` lemmas (0%), 34 `AUX` types (0%) and 9964 `AUX` tokens (3%).
+Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 12 in number of types and 11 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>ha, kunne, ville, skulle, bli, være, måtte, få, burde, tørre</em>
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>har</em> ([AUX]() 2219, [VERB]() 1104
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.166667 (the average of all parts of speech is 1.382585).
+The form / lemma ratio of `AUX` is 3.400000 (the average of all parts of speech is 1.382722).
 
 The 1st highest number of forms (5) was observed with the lemma “bli”: <em>bilr, ble, bli, blir, blitt</em>.
 
@@ -61,22 +61,22 @@ The 2nd highest number of forms (5) was observed with the lemma “være”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “få”: <em>fikk, få, får, fått</em>.
 
-`AUX` occurs with 4 features: [no-feat/VerbForm]() (9993; 100% instances), [no-feat/Mood]() (9173; 92% instances), [no-feat/Tense]() (9171; 92% instances), [no-feat/Voice]() (8; 0% instances)
+`AUX` occurs with 3 features: [no-feat/VerbForm]() (9964; 100% instances), [no-feat/Mood]() (9153; 92% instances), [no-feat/Tense]() (9151; 92% instances)
 
-`AUX` occurs with 8 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Pass`
+`AUX` occurs with 7 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 7 feature combinations.
-The most frequent feature combination is `Mood=Ind|Tense=Pres|VerbForm=Fin` (7100 tokens).
-Examples: <em>har, kan, vil, skal, er, må, blir, bør, får, trenger</em>
+`AUX` occurs with 5 feature combinations.
+The most frequent feature combination is `Mood=Ind|Tense=Pres|VerbForm=Fin` (7088 tokens).
+Examples: <em>har, kan, vil, skal, er, må, blir, bør, får, tør</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 2 different relations: [no-dep/aux]() (8887; 89% instances), [no-dep/auxpass]() (1106; 11% instances)
+`AUX` nodes are attached to their parents using 2 different relations: [no-dep/aux]() (8858; 89% instances), [no-dep/auxpass]() (1106; 11% instances)
 
-Parents of `AUX` nodes belong to 9 different parts of speech: [VERB]() (9274; 93% instances), [ADJ]() (362; 4% instances), [NOUN]() (254; 3% instances), [ADP]() (32; 0% instances), [ADV]() (29; 0% instances), [PRON]() (21; 0% instances), [PROPN]() (11; 0% instances), [DET]() (8; 0% instances), [NUM]() (2; 0% instances)
+Parents of `AUX` nodes belong to 9 different parts of speech: [VERB]() (9249; 93% instances), [ADJ]() (361; 4% instances), [NOUN]() (252; 3% instances), [ADP]() (32; 0% instances), [ADV]() (29; 0% instances), [PRON]() (21; 0% instances), [PROPN]() (10; 0% instances), [DET]() (8; 0% instances), [NUM]() (2; 0% instances)
 
-9983 (100%) `AUX` nodes are leaves.
+9954 (100%) `AUX` nodes are leaves.
 
 2 (0%) `AUX` nodes have one child.
 

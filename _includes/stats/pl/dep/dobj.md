@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-7556 nodes (9%) are attached to their parents as `dobj`.
+7672 nodes (9%) are attached to their parents as `dobj`.
 
-6150 instances of `dobj` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.04605611434621.
+6251 instances of `dobj` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.04340458811262.
 
-The following 14 pairs of parts of speech are connected with `dobj`: [pl-pos/VERB]()-[pl-pos/NOUN]() (6278; 83% instances), [pl-pos/VERB]()-[pl-pos/PRON]() (852; 11% instances), [pl-pos/VERB]()-[pl-pos/NUM]() (261; 3% instances), [pl-pos/VERB]()-[pl-pos/ADJ]() (99; 1% instances), [pl-pos/AUX]()-[pl-pos/NOUN]() (15; 0% instances), [pl-pos/PART]()-[pl-pos/NOUN]() (14; 0% instances), [pl-pos/ADJ]()-[pl-pos/NOUN]() (13; 0% instances), [pl-pos/VERB]()-[pl-pos/X]() (8; 0% instances), [pl-pos/ADV]()-[pl-pos/NOUN]() (6; 0% instances), [pl-pos/ADJ]()-[pl-pos/PRON]() (4; 0% instances), [pl-pos/VERB]()-[pl-pos/ADP]() (3; 0% instances), [pl-pos/ADJ]()-[pl-pos/NUM]() (1; 0% instances), [pl-pos/ADV]()-[pl-pos/PRON]() (1; 0% instances), [pl-pos/NOUN]()-[pl-pos/PRON]() (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `dobj`: [pl-pos/VERB]()-[pl-pos/NOUN]() (5497; 72% instances), [pl-pos/VERB]()-[pl-pos/PRON]() (1251; 16% instances), [pl-pos/VERB]()-[pl-pos/PROPN]() (292; 4% instances), [pl-pos/NOUN]()-[pl-pos/NOUN]() (277; 4% instances), [pl-pos/VERB]()-[pl-pos/NUM]() (235; 3% instances), [pl-pos/NOUN]()-[pl-pos/PRON]() (26; 0% instances), [pl-pos/VERB]()-[pl-pos/ADJ]() (19; 0% instances), [pl-pos/ADJ]()-[pl-pos/NOUN]() (13; 0% instances), [pl-pos/AUX]()-[pl-pos/NOUN]() (13; 0% instances), [pl-pos/PART]()-[pl-pos/NOUN]() (11; 0% instances), [pl-pos/NOUN]()-[pl-pos/PROPN]() (8; 0% instances), [pl-pos/VERB]()-[pl-pos/X]() (7; 0% instances), [pl-pos/ADV]()-[pl-pos/NOUN]() (5; 0% instances), [pl-pos/ADJ]()-[pl-pos/PRON]() (4; 0% instances), [pl-pos/VERB]()-[pl-pos/ADP]() (3; 0% instances), [pl-pos/ADV]()-[pl-pos/PRON]() (2; 0% instances), [pl-pos/AUX]()-[pl-pos/PROPN]() (2; 0% instances), [pl-pos/NOUN]()-[pl-pos/NUM]() (2; 0% instances), [pl-pos/PART]()-[pl-pos/PRON]() (2; 0% instances), [pl-pos/ADJ]()-[pl-pos/NUM]() (1; 0% instances), [pl-pos/NOUN]()-[pl-pos/X]() (1; 0% instances), [pl-pos/PART]()-[pl-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,23 +48,18 @@ The following 14 pairs of parts of speech are connected with `dobj`: [pl-pos/VER
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 dobj	color:blue
-1	W	w	ADP	prep:loc:nwok	AdpType=Prep|Case=Loc|Variant=Short	2	case	_	_
-2	Lubuskiem	Lubuskie	NOUN	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	_
-3	dotyczy	dotyczyć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	to	to	NOUN	subst:sg:nom:n	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
-5	39	39	NUM	num:pl:gen:m3:congr	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	dobj	_	_
-6	tys	tysiąc	X	brev:pun	Abbr=Yes	5	case	_	_
-7	.	.	PUNCT	interp:_	_	6	punct	_	_
-8	ubezpieczonych	ubezpieczyć	VERB	ppas:pl:gen:f:perf:aff	Aspect=Perf|Case=Gen|Gender=Fem|Negative=Pos|Number=Plur|VerbForm=Part|Voice=Pass	9	acl	_	_
-9	kobiet	kobieta	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
-10	w	w	ADP	prep:loc:nwok	AdpType=Prep|Case=Loc|Variant=Short	11	case	_	_
-11	LRKCh	LRKCh	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
-12	.	.	PUNCT	interp:_	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 dobj	color:blue
+1	Ostatecznie	ostatecznie	ADV	adv:pos	Degree=Pos	2	advmod	_	_
+2	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	on	on	PRON	ppron3:sg:nom:m3:ter:akc:npraep	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	2	nsubj	_	_
+4	stanąć	stanąć	VERB	inf:perf	Aspect=Perf|VerbForm=Inf	2	xcomp	_	_
+5	w	w	ADP	prep:loc:nwok	AdpType=Prep|Case=Loc|Variant=Short	6	case	_	_
+6	Popielowie	Popielów	PROPN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	dobj	_	_
+7	.	.	PUNCT	interp:_	_	2	punct	_	_
 
 ~~~
 

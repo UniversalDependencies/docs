@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-256 nodes (1%) are attached to their parents as `advcl`.
+405 nodes (1%) are attached to their parents as `advcl`.
 
-173 instances of `advcl` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.76171875.
+277 instances of `advcl` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.97777777777778.
 
-The following 25 pairs of parts of speech are connected with `advcl`: [hu-pos/VERB]()-[hu-pos/VERB]() (153; 60% instances), [hu-pos/ADJ]()-[hu-pos/VERB]() (16; 6% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (16; 6% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (11; 4% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (9; 4% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (8; 3% instances), [hu-pos/ADV]()-[hu-pos/VERB]() (8; 3% instances), [hu-pos/DET]()-[hu-pos/NUM]() (7; 3% instances), [hu-pos/ADV]()-[hu-pos/NOUN]() (5; 2% instances), [hu-pos/DET]()-[hu-pos/NOUN]() (3; 1% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (2; 1% instances), [hu-pos/ADV]()-[hu-pos/PRON]() (2; 1% instances), [hu-pos/ADV]()-[hu-pos/PROPN]() (2; 1% instances), [hu-pos/NOUN]()-[hu-pos/NUM]() (2; 1% instances), [hu-pos/PRON]()-[hu-pos/VERB]() (2; 1% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/DET]()-[hu-pos/VERB]() (1; 0% instances), [hu-pos/INTJ]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/PRON]()-[hu-pos/PRON]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/VERB]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (1; 0% instances).
+The following 32 pairs of parts of speech are connected with `advcl`: [hu-pos/VERB]()-[hu-pos/VERB]() (250; 62% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (23; 6% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (23; 6% instances), [hu-pos/ADJ]()-[hu-pos/VERB]() (21; 5% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (14; 3% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (9; 2% instances), [hu-pos/ADV]()-[hu-pos/VERB]() (9; 2% instances), [hu-pos/DET]()-[hu-pos/NUM]() (7; 2% instances), [hu-pos/ADV]()-[hu-pos/NOUN]() (6; 1% instances), [hu-pos/PRON]()-[hu-pos/VERB]() (6; 1% instances), [hu-pos/AUX]()-[hu-pos/VERB]() (4; 1% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (3; 1% instances), [hu-pos/DET]()-[hu-pos/NOUN]() (3; 1% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (3; 1% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (2; 0% instances), [hu-pos/ADV]()-[hu-pos/PRON]() (2; 0% instances), [hu-pos/ADV]()-[hu-pos/PROPN]() (2; 0% instances), [hu-pos/NOUN]()-[hu-pos/NUM]() (2; 0% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (2; 0% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/NUM]() (1; 0% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/DET]()-[hu-pos/VERB]() (1; 0% instances), [hu-pos/INTJ]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/NUM]()-[hu-pos/NUM]() (1; 0% instances), [hu-pos/PRON]()-[hu-pos/AUX]() (1; 0% instances), [hu-pos/PRON]()-[hu-pos/PRON]() (1; 0% instances), [hu-pos/PRON]()-[hu-pos/PROPN]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,27 +38,22 @@ The following 25 pairs of parts of speech are connected with `advcl`: [hu-pos/VE
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 11 advcl	color:blue
-1	—	—	PUNCT	_	_	2	punct	_	_
-2	Vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	ccomp:obj	_	_
-3	gondok	gond	NOUN	_	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None	2	nsubj	_	_
-4	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
-5	tavaszi	tavaszi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	amod:att	_	_
-6	idény	idény	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	nmod:att	_	_
-7	időpontjaival	időpont	NOUN	_	Case=Ins|Number=Plur|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	2	nmod:obl	_	_
-8	,	,	PUNCT	_	_	2	punct	_	_
-9	mert	mert	SCONJ	_	_	11	mark	_	_
-10	nagyon	nagyon	ADV	_	_	11	advmod:mode	_	_
-11	sűrű	sűrű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	2	advcl	_	_
-12	a	a	DET	_	Definite=Def|PronType=Art	13	det	_	_
-13	versenynaptár	versenynaptár	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	11	nsubj	_	_
-14	—	—	PUNCT	_	_	2	punct	_	_
-15	mondta	mond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-16	.	.	PUNCT	_	_	15	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 5 advcl	color:blue
+1	"	"	PUNCT	_	_	5	punct	_	_
+2	Ő	ő	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Prs	5	nsubj	_	_
+3	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
+4	mi	mi	PRON	_	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person=1|Person[psor]=None|PronType=Prs	5	nmod:att	_	_
+5	emberünk	ember	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Plur|Person[psor]=1	9	advcl	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+7	"	"	PUNCT	_	_	5	punct	_	_
+8	—	—	PUNCT	_	_	9	punct	_	_
+9	lelkesedett	lelkesedik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	Rankovic	Rankovic	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	9	nsubj	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 
@@ -66,23 +61,20 @@ The following 25 pairs of parts of speech are connected with `advcl`: [hu-pos/VE
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 5 advcl	color:blue
-1	Ha	ha	SCONJ	_	_	5	mark	_	_
-2	a	a	DET	_	Definite=Def|PronType=Art	4	det	_	_
-3	magasabb	magas	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	amod:att	_	_
-4	rendűre	rendű	ADJ	_	Case=Sub|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	5	amod:obl	_	_
-5	irányul	irányul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
-6	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
-7	figyelmünk	figyelem	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Plur|Person[psor]=1	5	nsubj	_	_
-8	,	,	PUNCT	_	_	5	punct	_	_
-9	mi	mi	PRON	_	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person=1|Person[psor]=None|PronType=Prs	12	nsubj	_	_
-10	is	is	CONJ	_	_	9	cc	_	_
-11	magasabb	magas	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	12	amod:att	_	_
-12	rendűek	rendű	ADJ	_	Case=Nom|Degree=Pos|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None	0	root	_	_
-13	leszünk	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
-14	.	.	PUNCT	_	_	12	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 5 advcl	color:blue
+1	S	s	CONJ	_	_	10	cc	_	_
+2	miközben	miközben	ADV	_	PronType=Rel	5	advmod:mode	_	_
+3	Törökország	Törökország	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	ásványkincsekben	ásványkincs	NOUN	_	Case=Ine|Number=Plur	5	nmod:obl	_	_
+5	szegény	szegény	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	külkereskedelme	külkereskedelem	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	nsubj	_	_
+8	gyors	gyors	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	amod:att	_	_
+9	ütemben	ütem	NOUN	_	Case=Ine|Number=Sing	10	nmod:obl	_	_
+10	bővül	bővül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

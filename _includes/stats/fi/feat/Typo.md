@@ -28,7 +28,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 85 [fi-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (74; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (70; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (63; 74%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (57; 67%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (51; 60%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (51; 60%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (51; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (50; 59%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (74; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (70; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (63; 74%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (57; 67%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (51; 60%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (51; 60%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (51; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (50; 59%).
 
 `VERB` tokens may have the following values of `Typo`:
 
@@ -80,6 +80,16 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 * `Yes` (15; 100% of non-empty `Typo`): <em>minun, sen, Hedän, Kumpikin, Saman, Tosilla, Tämä, johon, jonka, jota</em>
 
+### `AUX`
+
+3 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 67%), <tt><a href="Person.html">Person</a>=3</tt> (2; 67%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 67%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2; 67%).
+
+`AUX` tokens may have the following values of `Typo`:
+
+* `Yes` (3; 100% of non-empty `Typo`): <em>lie, ovat, voisivat</em>
+
 ### `PUNCT`
 
 3 [fi-pos/PUNCT]() tokens (0% of all `PUNCT` tokens) have a non-empty value of `Typo`.
@@ -87,16 +97,6 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 `PUNCT` tokens may have the following values of `Typo`:
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>..</em>
-
-### `AUX`
-
-3 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2; 67%), <tt><a href="Person.html">Person</a>=3</tt> (2; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 67%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 67%).
-
-`AUX` tokens may have the following values of `Typo`:
-
-* `Yes` (3; 100% of non-empty `Typo`): <em>lie, ovat, voisivat</em>
 
 ### `CONJ`
 
@@ -110,19 +110,11 @@ The most frequent other feature values with which `AUX` and `Typo` co-occurred: 
 
 2 [fi-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (2; 100%).
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%).
 
 `NUM` tokens may have the following values of `Typo`:
 
 * `Yes` (2; 100% of non-empty `Typo`): <em>kahden, miljoona</em>
-
-### `INTJ`
-
-1 [fi-pos/INTJ]() tokens (1% of all `INTJ` tokens) have a non-empty value of `Typo`.
-
-`INTJ` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>joo.</em>
 
 ### `ADP`
 
@@ -134,12 +126,20 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>sekaan.</em>
 
+### `INTJ`
+
+1 [fi-pos/INTJ]() tokens (1% of all `INTJ` tokens) have a non-empty value of `Typo`.
+
+`INTJ` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>joo.</em>
+
 ## Relations with Agreement in `Typo`
 
 The 10 most frequent relations where parent and child node agree in `Typo`:
-<tt>VERB --[<a href="../dep/goeswith.html">goeswith</a>]--> VERB</tt> (1; 100%),
-<tt>PROPN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (1; 100%),
-<tt>ADV --[<a href="../dep/goeswith.html">goeswith</a>]--> ADV</tt> (1; 100%),
 <tt>PROPN --[<a href="../dep/goeswith.html">goeswith</a>]--> PROPN</tt> (1; 100%),
-<tt>NOUN --[<a href="../dep/goeswith.html">goeswith</a>]--> NOUN</tt> (1; 100%).
+<tt>PROPN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/goeswith.html">goeswith</a>]--> VERB</tt> (1; 100%),
+<tt>NOUN --[<a href="../dep/goeswith.html">goeswith</a>]--> NOUN</tt> (1; 100%),
+<tt>ADV --[<a href="../dep/goeswith.html">goeswith</a>]--> ADV</tt> (1; 100%).
 

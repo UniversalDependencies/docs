@@ -49,13 +49,13 @@ The following 5 pairs of parts of speech are connected with `neg`: [fa-pos/NOUN]
 5	قانون	_	NOUN	N_SING	Number=Sing	4	nmod:poss	_	_
 6	نه	_	ADV	ADV_NEG	Negative=Neg	7	neg	_	_
 7	تندتر	_	ADJ	ADJ_CMPR	Degree=Cmp	0	root	_	_
-8	و	_	CONJ	CON	_	7	cc	_	_
+8	و	و	CONJ	CON	_	7	cc	_	_
 9	نه	_	ADV	ADV_NEG	Negative=Neg	10	neg	_	_
 10	کندتر	_	ADJ	ADJ_CMPR	Degree=Cmp	7	conj	_	_
-11	و	_	CONJ	CON	_	10	cc	_	_
+11	و	و	CONJ	CON	_	10	cc	_	_
 12	نه	_	ADV	ADV_NEG	Negative=Neg	13	neg	_	_
 13	زیادتر	_	ADJ	ADJ_CMPR	Degree=Cmp	10	conj	_	_
-14	و	_	CONJ	CON	_	13	cc	_	_
+14	و	و	CONJ	CON	_	13	cc	_	_
 15	نه	_	ADV	ADV_NEG	Negative=Neg	16	neg	_	_
 16	کمتر	_	ADJ	ADJ_CMPR	Degree=Cmp	13	conj	_	_
 17	.	_	PUNCT	DELM	_	7	punct	_	_
@@ -71,15 +71,15 @@ The following 5 pairs of parts of speech are connected with `neg`: [fa-pos/NOUN]
 # visual-style 11 10 neg	color:blue
 1	همچنین	_	CONJ	CON	_	15	cc	_	_
 2	آنطور	_	ADV	ADV	_	15	nmod	_	_
-3	که	_	SCONJ	CON	_	4	mark	_	_
+3	که	که	SCONJ	CON	_	4	mark	_	_
 4	می‌بایست	_	AUX	V_AUX	VerbForm=Inf	2	acl:relcl	_	_
 5	مورد	_	ADP	P	_	6	case	_	_
 6	مطالعهٔ	_	NOUN	N_SING	Number=Sing	15	nmod	_	_
 7	علما	_	NOUN	N_PL	Number=Plur	6	nmod:poss	_	_
-8	و	_	CONJ	CON	_	7	cc	_	_
+8	و	و	CONJ	CON	_	7	cc	_	_
 9	فضل‌ا	_	NOUN	N_PL	Number=Plur	7	conj	_	_
 10	غیر	_	ADV	ADV_NEG	Negative=Neg	11	neg	_	_
-11	از	_	ADP	P	_	12	case	_	_
+11	از	از	ADP	P	_	12	case	_	_
 12	احمد	_	NOUN	N_SING	Number=Sing	15	nmod	_	_
 13	گلچین	_	NOUN	N_SING	Number=Sing	12	name	_	_
 14	قرار	_	NOUN	N_SING	Number=Sing	15	compound:lvc	_	_

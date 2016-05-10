@@ -8,10 +8,10 @@ This relation is universal.
 
 1424 nodes (1%) are attached to their parents as `neg`.
 
-1423 instances of `neg` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41994382022472.
+1420 instances of `neg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57724719101124.
 
-The following 14 pairs of parts of speech are connected with `neg`: [bg-pos/VERB]()-[bg-pos/INTJ]() (1341; 94% instances), [bg-pos/ADV]()-[bg-pos/INTJ]() (31; 2% instances), [bg-pos/NOUN]()-[bg-pos/INTJ]() (15; 1% instances), [bg-pos/NUM]()-[bg-pos/PART]() (10; 1% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (8; 1% instances), [bg-pos/DET]()-[bg-pos/PART]() (6; 0% instances), [bg-pos/PRON]()-[bg-pos/INTJ]() (3; 0% instances), [bg-pos/DET]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/NUM]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/ADP]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/PART]() (1; 0% instances), [bg-pos/SCONJ]()-[bg-pos/INTJ]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `neg`: [bg-pos/VERB]()-[bg-pos/INTJ]() (1180; 83% instances), [bg-pos/NOUN]()-[bg-pos/INTJ]() (75; 5% instances), [bg-pos/ADJ]()-[bg-pos/INTJ]() (65; 5% instances), [bg-pos/ADV]()-[bg-pos/INTJ]() (62; 4% instances), [bg-pos/NUM]()-[bg-pos/PART]() (10; 1% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (9; 1% instances), [bg-pos/PRON]()-[bg-pos/INTJ]() (7; 0% instances), [bg-pos/DET]()-[bg-pos/PART]() (6; 0% instances), [bg-pos/DET]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/NUM]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/PROPN]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/ADP]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/PART]() (1; 0% instances), [bg-pos/SCONJ]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,44 +31,46 @@ The following 14 pairs of parts of speech are connected with `neg`: [bg-pos/VERB
 9	че	че	SCONJ	Cs	_	12	mark	_	_
 10	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	12	expl	_	_
 11	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
-12	свършило	свърша-(се)	VERB	Vpptcao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	_
+12	свършило	свърша-(се)	VERB	Vpptcao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	ccomp	_	_
 13	.	.	PUNCT	punct	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 neg	color:blue
-1	В	в	ADP	R	_	6	case	_	_
-2	онова	този	DET	Pde-os-n	Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
-3	не	не	INTJ	Tn	_	4	neg	_	_
-4	толкова	толкова	ADV	Pdq	NumType=Card|PronType=Dem	5	advmod	_	_
-5	далечно	далечен	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
-6	време	време	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	8	nmod	_	_
-7	всичко	всеки	PRON	Pce-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	8	nsubj	_	_
-8	свършва	свършвам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9	дотук	там	ADV	Pdl	PronType=Dem	8	advmod	_	_
-10	.	.	PUNCT	punct	_	8	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 neg	color:blue
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
+2	не	не	INTJ	Tn	_	5	neg	_	_
+3	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+4	ли	ли	PART	Ti	_	5	discourse	_	_
+5	оценка	оценка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
+6	за	за	ADP	R	_	8	case	_	_
+7	българската	български	ADJ	Afsd	Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	администрация	администрация	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	nmod	_	_
+9	?	?	PUNCT	punct	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 neg	color:blue
-1	Не	не	INTJ	Tn	_	2	neg	_	_
-2	студентите	студент	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	_
-3	ли	ли	PART	Ti	_	2	discourse	_	_
-4	искат	искам	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	dobj	_	_
-6	?	?	PUNCT	punct	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 neg	color:blue
+1	Макар	макар	ADP	R	_	8	case	_	_
+2	че	че	SCONJ	Cs	_	8	mark	_	_
+3	нашият	наш	DET	Pszl-s1mf	Definite=Def|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	парламент	парламент	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	_
+5	не	не	INTJ	Tn	_	8	neg	_	_
+6	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+7	много	много	ADV	Md-pi	Definite=Ind|Number=Plur|NumType=Card	8	advmod	_	_
+8	обективен	обективен	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
 
 ~~~
 

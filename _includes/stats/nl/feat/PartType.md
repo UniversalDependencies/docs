@@ -26,11 +26,16 @@ The most frequent other feature values with which `ADP` and `PartType` co-occurr
 
 1504 [nl-pos/ADV]() tokens (11% of all `ADV` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `ADV` and `PartType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1504; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1504; 100%).
+The most frequent other feature values with which `ADV` and `PartType` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1504; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1504; 100%).
 
 `ADV` tokens may have the following values of `PartType`:
 
 * `Vbp` (1504; 100% of non-empty `PartType`): <em>op, uit, aan, voor, af, mee, in, van, over, toe</em>
 
 `PartType` seems to be **lexical feature** of `ADV`. 100% lemmas (44) occur only with one value of `PartType`.
+
+## Relations with Agreement in `PartType`
+
+The 10 most frequent relations where parent and child node agree in `PartType`:
+<tt>ADP --[<a href="../dep/cc.html">cc</a>]--> ADP</tt> (1; 100%).
 

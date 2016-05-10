@@ -20,21 +20,21 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (5847; 67% of non-empty `Aspect`): _ἦν, ἔφη, ἦσαν, προσέφη, προσηύδα, ἔφατ̓, ηὔδα, εἶχον, ἔφαθ̓, ἦεν_
-* `Perf` (2826; 33% of non-empty `Aspect`): _οἶδα, πεπνυμένος, οἶδ̓, ἔοικεν, οἶσθα, εἰδὼς, ἔοικε, εἰδέναι, εἰδώς, γεγονέναι_
-* `EMPTY` (36833): _εἶναι, ἔχει, ἐστιν, ἔχων, γενέσθαι, ἐστὶ, ἐστι, φησιν, χρὴ, ἔχειν_
+* `Imp` (5847; 67% of non-empty `Aspect`): <em>ἦν, ἔφη, ἦσαν, προσέφη, προσηύδα, ἔφατ̓, ηὔδα, εἶχον, ἔφαθ̓, ἦεν</em>
+* `Perf` (2826; 33% of non-empty `Aspect`): <em>οἶδα, πεπνυμένος, οἶδ̓, ἔοικεν, οἶσθα, εἰδὼς, ἔοικε, εἰδέναι, εἰδώς, γεγονέναι</em>
+* `EMPTY` (36833): <em>εἶναι, ἔχει, ἐστιν, ἔχων, γενέσθαι, ἐστὶ, ἐστι, φησιν, χρὴ, ἔχειν</em>
 
 <table>
   <tr><th>Paradigm <i>ἔχω</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>ἐσχηκότων</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>εἶχον, ἔχον</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid,Pass</tt></td><td><i>ἐχόμην</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>εἶχες, ἔχες</i></td><td><i>ἔσχηκας</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>εἶχε, εἶχεν, ἔχε, ἔχεν, ἔσχεθεν, ἔχ̓, εἶχέ, εἶχ̓, ἔχεσκεν, σχέθε, ἔχει</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid,Pass</tt></td><td><i>εἴχετ̓, εἴχετο, εἴχεθ̓, ἔχετο</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>εἴχομεν, ἔχομεν</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>εἶχον, ἔχον, ἔχεσκον, εἶχόν</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid,Pass</tt></td><td><i>εἴχοντο</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>ἐσχηκότων</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἶχον, ἔχον</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid,Pass</tt></td><td><em>ἐχόμην</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἶχες, ἔχες</em></td><td><em>ἔσχηκας</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἶχε, εἶχεν, ἔχε, ἔχεν, ἔσχεθεν, ἔχ̓, εἶχ̓, εἶχέ, ἔχει, ἔχεσκεν, σχέθε</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid,Pass</tt></td><td><em>εἴχετ̓, εἴχετο, ἔχετο, εἴχεθ̓</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἴχομεν, ἔχομεν</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἶχον, ἔχον, ἔχεσκον, εἶχόν</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid,Pass</tt></td><td><em>εἴχοντο</em></td><td></td></tr>
 </table>
 
 ### `CONJ`
@@ -43,8 +43,8 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 `CONJ` tokens may have the following values of `Aspect`:
 
-* `Imp` (1; 100% of non-empty `Aspect`): _κ-_
-* `EMPTY` (9005): _καὶ, δὲ, ἀλλ̓, ἢ, ἀλλὰ, δ̓, καί, μὴ, τε, ἠδὲ_
+* `Imp` (1; 100% of non-empty `Aspect`): <em>κ-</em>
+* `EMPTY` (9005): <em>καὶ, δὲ, ἀλλ̓, ἢ, ἀλλὰ, δ̓, καί, μὴ, τε, ἠδὲ</em>
 
 
 
@@ -68,21 +68,21 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (4019; 18% of non-empty `Aspect`): _ἦν, ἦσαν, ἔλεγον, εἶχον, ἔφη, ἔλεγεν, εἶχε, ἔλεγε, ἐγίνετο, ἐκέλευε_
-* `Perf` (18551; 82% of non-empty `Aspect`): _εἶπεν, ἐγένετο, γενέσθαι, ἀποκριθεὶς, εἶπαν, ἦλθεν, ἀπεκρίθη, ἐποίησεν, εἶπον, ἦλθον_
-* `EMPTY` (19834): _ἐστιν, εἶναι, λέγει, λέγω, λέγων, λέγοντες, ἐστὶ, ἔστιν, ἔχει, ἔσται_
+* `Imp` (4019; 18% of non-empty `Aspect`): <em>ἦν, ἦσαν, ἔλεγον, εἶχον, ἔφη, ἔλεγεν, εἶχε, ἔλεγε, ἐγίνετο, ἐκέλευε</em>
+* `Perf` (18551; 82% of non-empty `Aspect`): <em>εἶπεν, ἐγένετο, γενέσθαι, ἀποκριθεὶς, εἶπαν, ἦλθεν, ἀπεκρίθη, ἐποίησεν, εἶπον, ἦλθον</em>
+* `EMPTY` (19834): <em>ἐστιν, εἶναι, λέγει, λέγω, λέγων, λέγοντες, ἐστὶ, ἔστιν, ἔχει, ἔσται</em>
 
 <table>
   <tr><th>Paradigm <i>εἰμί#1</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid</tt></td><td><i>ἤμην</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>ἦς, ἔας</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid</tt></td><td><i>ἦσθα</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>ἦν, ἔσκε, ἣν</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>ἦμεν</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid</tt></td><td><i>ἤμεθα</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>ἦτε, ἔατε</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>ἦσαν, ἦσάν, ἔσκον</i></td><td></td></tr>
-  <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Mid</tt></td><td></td><td><i>ἔσεσθαι</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἤμην</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦς, ἔας</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἦσθα</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦν, ἔσκε, ἣν</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦμεν</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἤμεθα</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦτε, ἔατε</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦσαν, ἦσάν, ἔσκον</em></td><td></td></tr>
+  <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Mid</tt></td><td></td><td><em>ἔσεσθαι</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Aspect`

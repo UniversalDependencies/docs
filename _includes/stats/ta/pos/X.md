@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: என்
 
 The 10 most frequent `X` types:  என்பது
 
-The 10 most frequent ambiguous lemmas: என் ([PART]() 157, [VERB]() 16, [PRON]() 10, [NOUN]() 4, [ADJ]() 2, [X]() 1, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: என் ([PART]() 157, [VERB]() 16, [PRON]() 10, [NOUN]() 4, [ADJ]() 2, [AUX]() 1, [X]() 1)
 
 The 10 most frequent ambiguous types:  என்பது ([PART]() 7, [X]() 1)
 
@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  என்பது ([PART]() 7, [X]() 1)
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.559122).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.557992).
 
 The 1st highest number of forms (1) was observed with the lemma “என்”: என்பது.
 

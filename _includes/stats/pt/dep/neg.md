@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1248 nodes (1%) are attached to their parents as `neg`.
+1249 nodes (1%) are attached to their parents as `neg`.
 
 1238 instances of `neg` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.73798076923077.
+Average distance between parent and child is 1.7341873498799.
 
-The following 13 pairs of parts of speech are connected with `neg`: [pt-pos/VERB]()-[pt-pos/ADV]() (1071; 86% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (80; 6% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (63; 5% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (13; 1% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/INTJ]() (4; 0% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PART]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `neg`: [pt-pos/VERB]()-[pt-pos/ADV]() (1060; 85% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (84; 7% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (71; 6% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (13; 1% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/INTJ]() (3; 0% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/INTJ]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu

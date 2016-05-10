@@ -41,7 +41,7 @@ The following 14 pairs of parts of speech are connected with `acl`: [el-pos/NOUN
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 acl	color:blue
-1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	det	_	_
+1	Η	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Επιτροπή	επιτροπή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 3	παραμένει	παραμένω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	cop	_	_
 4	ανοιχτή	ανοιχτός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
@@ -51,7 +51,7 @@ The following 14 pairs of parts of speech are connected with `acl`: [el-pos/NOUN
 8	διατυπωθεί	διατυπώνω	VERB	VERB	VerbForm=Inf|Voice=Pass	4	acl	_	_
 9	ενδεχομένως	ενδεχομένως	ADV	ADV	_	8	advmod	_	_
 10	από	από	ADP	ADP	_	13	case	_	_
-11	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	13	det	_	_
+11	το	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
 12	κοινοβουλευτικό	κοινοβουλευτικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	13	amod	_	_
 13	Σώμα	σώμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	_
 14	.	.	PUNCT	PUNCT	_	4	punct	_	_

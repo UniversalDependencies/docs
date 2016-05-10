@@ -36,29 +36,34 @@ The following 1 pairs of parts of speech are connected with `csubjpass`: [la-pos
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-403 nodes (0%) are attached to their parents as `csubjpass`.
+588 nodes (0%) are attached to their parents as `csubjpass`.
 
-202 instances of `csubjpass` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.41191066997519.
+350 instances of `csubjpass` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.27040816326531.
 
-The following 17 pairs of parts of speech are connected with `csubjpass`: [la-pos/VERB]()-[la-pos/VERB]() (284; 70% instances), [la-pos/VERB]()-[la-pos/ADJ]() (36; 9% instances), [la-pos/VERB]()-[la-pos/NOUN]() (31; 8% instances), [la-pos/ADJ]()-[la-pos/VERB]() (22; 5% instances), [la-pos/NOUN]()-[la-pos/VERB]() (10; 2% instances), [la-pos/VERB]()-[la-pos/PRON]() (5; 1% instances), [la-pos/VERB]()-[la-pos/NUM]() (3; 1% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/VERB]()-[la-pos/ADV]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (1; 0% instances), [la-pos/DET]()-[la-pos/VERB]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/PRON]() (1; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (1; 0% instances), [la-pos/PRON]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/PRON]()-[la-pos/VERB]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `csubjpass`: [la-pos/VERB]()-[la-pos/VERB]() (424; 72% instances), [la-pos/VERB]()-[la-pos/NOUN]() (61; 10% instances), [la-pos/VERB]()-[la-pos/ADJ]() (45; 8% instances), [la-pos/ADJ]()-[la-pos/VERB]() (19; 3% instances), [la-pos/NOUN]()-[la-pos/VERB]() (10; 2% instances), [la-pos/VERB]()-[la-pos/PRON]() (10; 2% instances), [la-pos/VERB]()-[la-pos/NUM]() (3; 1% instances), [la-pos/VERB]()-[la-pos/PROPN]() (3; 1% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/PRON]()-[la-pos/VERB]() (2; 0% instances), [la-pos/VERB]()-[la-pos/ADV]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/PRON]() (1; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (1; 0% instances), [la-pos/PRON]()-[la-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 csubjpass	color:blue
-1	intelligere	intelligo	VERB	L3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	4	csubjpass	_	_
-2	aliquo	aliqui	PRON	F1|grn1|casF|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	1	nmod	_	_
-3	tripliciter	triplex	ADJ	C1|grn1|casG	Case=Loc|Degree=Pos|Number=Sing	4	advmod	_	_
-4	dicimur	dico	VERB	N3|modJ|tem1|gen7	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-5	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 4 5 csubjpass	color:blue
+1	unde	unde	ADV	O4|stRL	_	4	advmod	_	_
+2	nec	nec	CONJ	O4|stRL	_	3	advmod:emph	_	_
+3	ratione	ratio	NOUN	C1|grn1|casF|gen2|comH|vgr1|stAC	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	5	nmod	_	_
+4	videtur	video	VERB	K3|modJ|tem1|gen6|vgr1|stAC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	posse	possum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|VerbType=Mod|Voice=Act	4	csubjpass	_	_
+6	demonstrari	demonstro	VERB	J3|modQ|tem1|stAE	Tense=Pres|VerbForm=Inf|Voice=Pass	5	xcomp	_	_
+7	an	an	SCONJ	O4|stRL	_	9	mark	_	_
+8	deus	deus	PROPN	F1|grn1|casA|gen1|stNP	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	sit	sum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj	_	_
+10	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 
@@ -69,13 +74,13 @@ The following 17 pairs of parts of speech are connected with `csubjpass`: [la-po
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 csubjpass	color:blue
-1	ostensum	ostendo	VERB	L2|modM|tem4|grp1|casA|gen3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-2	autem	autem	CONJ	O4	_	1	cc	_	_
-3	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	auxpass	_	_
-4	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
-5	esse	sum	VERB	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	7	cop	_	_
-6	omnino	omnino	ADV	O4	_	7	advmod:emph	_	_
-7	immutabilem	immutabilis	ADJ	C1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	csubjpass	_	_
+1	ostensum	ostendo	VERB	L2|modM|tem4|grp1|casA|gen3|stAE	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	autem	autem	CONJ	O4|stRL	_	1	cc	_	_
+3	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	auxpass	_	_
+4	deum	deus	PROPN	F1|grn1|casD|gen1|stNP	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	7	cop	_	_
+6	primam	primus	ADJ	A1|grn1|casD|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
+7	causam	causa	NOUN	A1|grn1|casD|gen2|vgr1|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1	csubjpass	_	_
 8	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
@@ -87,13 +92,13 @@ The following 17 pairs of parts of speech are connected with `csubjpass`: [la-po
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 csubjpass	color:blue
-1	ostensum	ostendo	VERB	L2|modM|tem4|grp1|casA|gen3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-2	autem	autem	CONJ	O4	_	1	cc	_	_
-3	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	auxpass	_	_
-4	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
-5	esse	sum	VERB	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	7	cop	_	_
-6	primam	primus	ADJ	A1|grn1|casD|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
-7	causam	causa	NOUN	A1|grn1|casD|gen2|vgr1	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1	csubjpass	_	_
+1	ostensum	ostendo	VERB	L2|modM|tem4|grp1|casA|gen3|stAE	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	autem	autem	CONJ	O4|stRL	_	1	cc	_	_
+3	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	auxpass	_	_
+4	deum	deus	PROPN	F1|grn1|casD|gen1|stNP	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	7	cop	_	_
+6	omnino	omnino	ADV	O4|stRL	_	7	advmod:emph	_	_
+7	immutabilem	immutabilis	ADJ	C1|grn1|casD|gen1|stAN	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	csubjpass	_	_
 8	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~

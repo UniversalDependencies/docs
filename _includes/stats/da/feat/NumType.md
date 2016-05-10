@@ -26,7 +26,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/NUM]() (1491; 1% instanc
 
 149 [da-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (149; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (149; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (149; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (149; 100%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (149; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (149; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (149; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (149; 100%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -41,6 +41,6 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (8; 100%),
 <tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (8; 100%),
 <tt>NUM --[<a href="../dep/list.html">list</a>]--> NUM</tt> (7; 100%),
-<tt>NUM --[<a href="../dep/name.html">name</a>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<a href="../dep/appos.html">appos</a>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<a href="../dep/appos.html">appos</a>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<a href="../dep/name.html">name</a>]--> NUM</tt> (1; 100%).
 

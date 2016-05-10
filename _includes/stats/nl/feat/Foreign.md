@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [nl-pos/X]() (16; 0% instances),
 
 16 [nl-pos/X]() tokens (0% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (16; 100%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (16; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (16; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (16; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (16; 100%).
 
 `X` tokens may have the following values of `Foreign`:
 

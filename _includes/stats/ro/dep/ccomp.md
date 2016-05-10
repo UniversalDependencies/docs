@@ -5,103 +5,74 @@
 ## Treebank Statistics (UD_Romanian)
 
 This relation is universal.
+There are 1 language-specific subtypes of `ccomp`: [ccomp:pmod]().
 
-134 nodes (1%) are attached to their parents as `ccomp`.
+1589 nodes (1%) are attached to their parents as `ccomp`.
 
-134 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.75373134328358.
+1583 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.33417243549402.
 
-The following 5 pairs of parts of speech are connected with `ccomp`: [ro-pos/VERB]()-[ro-pos/VERB]() (129; 96% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (2; 1% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (1; 1% instances), [ro-pos/VERB]()-[ro-pos/ADV]() (1; 1% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `ccomp`: [ro-pos/VERB]()-[ro-pos/VERB]() (1384; 87% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (103; 6% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (36; 2% instances), [ro-pos/VERB]()-[ro-pos/ADV]() (13; 1% instances), [ro-pos/ADV]()-[ro-pos/VERB]() (12; 1% instances), [ro-pos/ADJ]()-[ro-pos/VERB]() (9; 1% instances), [ro-pos/INTJ]()-[ro-pos/VERB]() (6; 0% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (5; 0% instances), [ro-pos/AUX]()-[ro-pos/VERB]() (4; 0% instances), [ro-pos/VERB]()-[ro-pos/AUX]() (4; 0% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (3; 0% instances), [ro-pos/VERB]()-[ro-pos/ADP]() (3; 0% instances), [ro-pos/ADV]()-[ro-pos/ADJ]() (2; 0% instances), [ro-pos/PART]()-[ro-pos/VERB]() (2; 0% instances), [ro-pos/ADP]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 12 ccomp	color:blue
-1	Un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
-2	om	vrea	NOUN	Ncmsrn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	_
-3	ca	ca	ADV	Rc	_	4	case	_	_
-4	el	el	PRON	Pp3msr--------s	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nmod	_	_
-5	nici	nici	ADV	Rz	PronType=Neg	6	advmod	_	_
-6	doi	doi	NUM	Mcmp-l	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
-7	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	10	nmod	_	_
-8	n-	nu	PART	Qz	Negative=Neg	10	neg	_	_
-9	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
-10	putut	putea	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-11	să	să	PART	Qs	Mood=Sub	12	mark	_	_
-12	stea	sta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
-13	în	în	ADP	Sp	AdpType=Prep	14	case	_	_
-14	Butucani	Butucani	PROPN	Np	_	12	nmod	_	_
-15	.	.	PUNCT	PERIOD	_	10	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 ccomp	color:blue
+1	Aici	aici	ADV	Rgp	Degree=Pos	3	nmod	_	_
+2	n-	nu	PART	Qz-y	Negative=Neg|Variant=Short	3	neg	_	_
+3	avem	avea	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+5	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	nmod	_	_
+6	ne	noi	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	7	expl:pv	_	_
+7	teme	teme	VERB	Vmnp	Tense=Pres|VerbForm=Inf	3	ccomp	_	_
+8	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 16 ccomp	color:blue
-1	Și	și	CONJ	Crssp	Negative=Pos	10	cc	_	_
-2	cum	cum	ADV	Rw	PronType=Int,Rel	7	advmod	_	_
-3	războiul	război	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
-4	de-	de	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	5	case	_	_
-5	abia	abia	ADV	Rgp	Degree=Pos	7	advmod	_	_
-6	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	7	expl:pv	_	_
-7	terminase	termina	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	10	advcl	_	_
-8	,	,	PUNCT	COMMA	_	7	punct	_	_
-9	am	avea	AUX	Va--1	Person=1	10	aux	_	_
-10	socotit	socoti	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-11	că	că	SCONJ	Csssp	Negative=Pos	16	mark	_	_
-12	n-	nu	PART	Qz-y	Negative=Neg|Variant=Short	16	neg	_	_
-13	ar	avea	AUX	Va--3	Person=3	16	aux	_	_
-14	fi	fi	VERB	Vmnp	Tense=Pres|VerbForm=Inf	16	cop	_	_
-15	tocmai	tocmai	ADV	Rgp	Degree=Pos	16	advmod	_	_
-16	nepotrivit	nepotrivit	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	ccomp	_	_
-17	să	să	PART	Qs	Mood=Sub	18	mark	_	_
-18	povestesc	povesti	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	csubjpass	_	_
-19	"	"	PUNCT	DBLQ	_	20	punct	_	_
-20	Întoarcerea	întoarcere	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	18	dobj	_	_
-21	tatii	tată	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	nmod	_	_
-22	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
-23	războiu	războiu	NOUN	Ncmsrn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	21	nmod	_	_
-24	"	"	PUNCT	DBLQ	_	20	punct	_	_
-25	.	.	PUNCT	PERIOD	_	10	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 ccomp	color:blue
+1	Iar	iar	ADV	Rc	_	3	cc	_	_
+2	el	el	PRON	Pp3msr--------s	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	nsubj	_	_
+3	bănuia	bănui	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	că	că	SCONJ	Csssp	Negative=Pos	8	mark	_	_
+5	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+6	mult	mult	ADV	Rgp	Degree=Pos	8	advmod	_	_
+7	mai	mai	ADV	Rp	_	8	advmod	_	_
+8	veche	vechi	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	ccomp	_	_
+9	de-	de	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	10	case	_	_
+10	atâta	atâta	ADV	Rgp	Degree=Pos	8	advmod	_	_
+11	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 10 ccomp	color:blue
-1	Mi-	eu	PRON	Pp1-sd--y-----w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	5	iobj	_	_
-2	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
-3	însă	însă	CONJ	Ccssp	Negative=Pos	5	cc	_	_
-4	tare	tare	ADV	Rgp	Degree=Pos	5	advmod	_	_
-5	teamă	teamă	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
-6	c-	că	SCONJ	Cssspy	Negative=Pos|Variant=Short	10	mark	_	_
-7	am	avea	AUX	Va--1	Person=1	10	aux	_	_
-8	s-	să	PART	Qs	Mood=Sub	10	mark	_	_
-9	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	10	mwe	_	_
-10	scrântesc	scrânti	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
-11	și	și	CONJ	Crssp	Negative=Pos	5	cc	_	_
-12	așteptam	aștepta	VERB	Vmii1	Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin	5	conj	_	_
-13	plin	plin	ADV	Rgp	Degree=Pos	12	advmod	_	_
-14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
-15	emoție	emoție	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	_
-16	să	să	PART	Qs	Mood=Sub	18	mark	_	_
-17	-mi	eu	PRON	Pp1-sd--y-----w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	18	iobj	_	_
-18	vină	veni	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
-19	rândul	rând	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	_
-20	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
-21	ascultat	ascultat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	18	nmod	_	_
-22	.	.	PUNCT	PERIOD	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 ccomp	color:blue
+1	Când	când	ADV	Rw	PronType=Int,Rel	3	advmod	_	_
+2	am	avea	AUX	Va--1	Person=1	3	aux	_	_
+3	terminat	termina	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	10	advcl	_	_
+4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+5	transcris	transcris	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	ccomp	_	_
+6	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
+7	curat	curat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
+8	,	,	PUNCT	COMMA	_	3	punct	_	_
+9	a	avea	AUX	Va--3s	Number=Sing|Person=3	10	aux	_	_
+10	sosit	sosi	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+11	și	și	CONJ	Crssp	Negative=Pos	12	advmod	_	_
+12	tata	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	10	conj	_	_
+13	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
 ~~~
 

@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 
 150 [hr-pos/ADJ]() tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (150; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (150; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (99; 66%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (150; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (150; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (99; 66%).
 
 `ADJ` tokens may have the following values of `Poss`:
 

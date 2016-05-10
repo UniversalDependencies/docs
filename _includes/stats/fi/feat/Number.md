@@ -239,7 +239,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Ine|<a href="Degree.html">Degree</a>=Pos</tt></td><td><em>hyvässä</em></td><td><em>hyvissä</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos</tt></td><td><em>hyvä</em></td><td><em>hyvät</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Cmp</tt></td><td><em>parempi</em></td><td><em>paremmat</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup</tt></td><td><em>paras</em></td><td><em>parhaat, parhaimmat</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup</tt></td><td><em>paras</em></td><td><em>parhaimmat, parhaat</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Clitic.html">Clitic</a>=Kaan|<a href="Degree.html">Degree</a>=Cmp</tt></td><td><em>parempaakaan</em></td><td><em>parempiakaan</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Clitic.html">Clitic</a>=Kin|<a href="Degree.html">Degree</a>=Pos</tt></td><td><em>hyvääkin</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Clitic.html">Clitic</a>=Kin|<a href="Degree.html">Degree</a>=Cmp</tt></td><td><em>parempaakin</em></td><td></td></tr>
@@ -262,10 +262,10 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 * `EMPTY` (1447): <em>the, of, New, von, Mitro, Pirate, Te, and, de, on</em>
 
 <table>
-  <tr><th>Paradigm <i>Jumala</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>Jumalan</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>Jumala</em></td><td><em>Jumalat</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td><em>Jumalaansa</em></td><td></td></tr>
+  <tr><th>Paradigm <i>York</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>Yorkin</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ine</tt></td><td><em>Yorkissa</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>York</em></td><td><em>Yorket</em></td></tr>
 </table>
 
 `Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (3604) occur only with one value of `Number`.
@@ -383,19 +383,19 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]().
 
-97067 tokens (61%) have a non-empty value of `Number`.
-40365 types (92%) occur at least once with a non-empty value of `Number`.
-18599 lemmas (86%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: [fi-pos/NOUN]() (37250; 23% instances), [fi-pos/VERB]() (28486; 18% instances), [fi-pos/ADJ]() (10056; 6% instances), [fi-pos/PRON]() (9930; 6% instances), [fi-pos/PROPN]() (6207; 4% instances), [fi-pos/DET]() (3372; 2% instances), [fi-pos/NUM]() (1766; 1% instances).
+97145 tokens (61%) have a non-empty value of `Number`.
+40428 types (92%) occur at least once with a non-empty value of `Number`.
+18570 lemmas (86%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: [fi-pos/NOUN]() (36961; 23% instances), [fi-pos/VERB]() (28384; 18% instances), [fi-pos/ADJ]() (10056; 6% instances), [fi-pos/PRON]() (9867; 6% instances), [fi-pos/PROPN]() (6773; 4% instances), [fi-pos/DET]() (3600; 2% instances), [fi-pos/NUM]() (1504; 1% instances).
 
 ### `NOUN`
 
-37250 [fi-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+36961 [fi-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (8519; 23% of non-empty `Number`): <em>ihmiset, lapset, naiset, miehet, asioita, ihmisiä, asiat, ihmisten, naisten, lapsia</em>
-* `Sing` (28731; 77% of non-empty `Number`): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
+* `Plur` (8489; 23% of non-empty `Number`): <em>ihmiset, lapset, naiset, miehet, asioita, ihmisiä, asiat, ihmisten, naisten, lapsia</em>
+* `Sing` (28472; 77% of non-empty `Number`): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
 * `EMPTY` (75): <em>puolisoineen, vaimoineen, juurineen, kuulokkeineen, lapsineen, perheineen, päivineen, x:ineen, aitoineen, elimineen</em>
 
 <table>
@@ -405,26 +405,30 @@ The feature is used with 7 part-of-speech tags: [fi-pos/NOUN]() (37250; 23% inst
   <tr><td><tt><a href="Case.html">Case</a>=Ela</tt></td><td><em>vuodesta</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ess</tt></td><td><em>vuonna, vuotena</em></td><td><em>vuosina</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ess|<a href="Clitic.html">Clitic</a>=Kin</tt></td><td><em>vuonnakin</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>vuoden, vuuen</em></td><td><em>vuosien</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ill</tt></td><td><em>vuoteen</em></td><td><em>vuossin</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>vuoden</em></td><td><em>vuosien</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Style.html">Style</a>=Coll</tt></td><td><em>vuuen</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ill</tt></td><td><em>vuoteen</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ill|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td><em>vuossin</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ine</tt></td><td><em>vuodessa</em></td><td><em>vuosissa</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>vuosi, vuos</em></td><td><em>vuodet</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>vuosi</em></td><td><em>vuodet</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Person[psor].html">Person[psor]</a>=2</tt></td><td><em>vuotesi</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Par</tt></td><td><em>vuotta, vuatta</em></td><td><em>vuosia</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Style.html">Style</a>=Coll</tt></td><td><em>vuos</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Par</tt></td><td><em>vuotta</em></td><td><em>vuosia</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Style.html">Style</a>=Coll</tt></td><td><em>vuatta</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Tra</tt></td><td><em>vuodeksi</em></td><td><em>vuosiksi</em></td></tr>
 </table>
 
 ### `VERB`
 
-28486 [fi-pos/VERB]() tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
+28384 [fi-pos/VERB]() tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (28486; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (26654; 94%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (23385; 82%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (23385; 82%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (23385; 82%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (18225; 64%), <tt><a href="Person.html">Person</a>=3</tt> (18155; 64%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (28384; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (26530; 93%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (23259; 82%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (23259; 82%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (23259; 82%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (18134; 64%), <tt><a href="Person.html">Person</a>=3</tt> (18068; 64%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (4142; 15% of non-empty `Number`): <em>ovat, eivät, olivat, olemme, emme, olleet, olette, tulevat, ette, voivat</em>
-* `Sing` (24344; 85% of non-empty `Number`): <em>on, ei, oli, en, ollut, olisi, olen, voi, tulee, tuli</em>
-* `EMPTY` (9290): <em>ole, olla, tehdä, voi, mennä, tulla, saada, olisi, ollaan, saa</em>
+* `Plur` (4128; 15% of non-empty `Number`): <em>ovat, eivät, olivat, olemme, olleet, emme, olette, tulevat, ette, voivat</em>
+* `Sing` (24256; 85% of non-empty `Number`): <em>on, ei, oli, en, ollut, olisi, olen, voi, tulee, tuli</em>
+* `EMPTY` (9216): <em>ole, olla, tehdä, voi, mennä, tulla, saada, olisi, ollaan, saa</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -443,83 +447,108 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olleen</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="PartForm.html">PartForm</a>=Pres|<a href="Person[psor].html">Person[psor]</a>=1|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olevani</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="PartForm.html">PartForm</a>=Pres|<a href="Person[psor].html">Person[psor]</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olevansa</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olevan, olevat</em></td><td><em>olevien</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="PartForm.html">PartForm</a>=Pres|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olevat</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olevan</em></td><td><em>olevien</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>oltavan</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ill|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olevaan</em></td><td><em>oleviin</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ine|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olevassa</em></td><td><em>olevissa</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kaan|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollutkaan, ollukkaan</em></td><td><em>olleetkaan</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kin|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollukki</em></td><td><em>olleetkin</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Ko|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollukko</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollut, ollu, ollum, olluh, ollun, olluk, olluj, olluv</em></td><td><em>olleet</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kaan|<a href="PartForm.html">PartForm</a>=Past|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollukkaan</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kaan|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollutkaan</em></td><td><em>olleetkaan</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kin|<a href="PartForm.html">PartForm</a>=Past|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollukki</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kin|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olleetkin</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Ko|<a href="PartForm.html">PartForm</a>=Past|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollukko</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="PartForm.html">PartForm</a>=Past|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollu, ollum, olluj, olluh, olluk, ollun, olluv</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollut</em></td><td><em>olleet</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>oltu</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oleva</em></td><td><em>olevat</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>oltava</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="PartForm.html">PartForm</a>=Past|<a href="Person[psor].html">Person[psor]</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>oltuaan</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollutta</em></td><td><em>olleita</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olevaa</em></td><td><em>olevia</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han,Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olisikohan, Oiskohan</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han,Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Oletkohan</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han,Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olikohan</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han,Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Onkohan, onkoha</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olisihan</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olenhan</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olithan</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olihan</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onhan</em></td><td><em>ovathan</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Conneg.html">Conneg</a>=Yes|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollutkaan</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisikaan</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oletkaan</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olikaan</em></td><td><em>olivatkaan</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onkaan</em></td><td><em>ovatkaan</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Mood.html">Mood</a>=Pot|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>lieneekään</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisikin, oliskin</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=2|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olekin</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olkoonkin</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olinkin</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olenkin</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oletkin</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olikin, olikii</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onkin, onki</em></td><td><em>ovatkin</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olitkos</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Oletkos</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olikos</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onkos</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=1|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olisinko</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=2|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>Olisitteko</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisiko, oisko, olisko</em></td><td><em>olisivatko</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olinko</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olenko, oonko, olenk, Oonksmä, ooks</em></td><td><em>olemmeko</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olitko</em></td><td><em>Olitteks</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oletko, ootko, ootsä, Ookkonää, Ooksää, oleks, ook, oleksä</em></td><td><em>oletteko, Oottekste, ootteko</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oliko, oliks, olik</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onko, onks, onk</em></td><td><em>ovatko</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Pot|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Liekö, lieneekö</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olipas</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Onpas</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=2|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olisitpa</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olisipa</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=2|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olepa</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olkoonpa</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olinpa</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oletpa</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olipa</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onpa</em></td><td></td></tr>
-  <tr><td><tt><a href="Conneg.html">Conneg</a>=Yes|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollut, ollu</em></td><td><em>olleet</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=1|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisin, oisin, oisi</em></td><td><em>olisimme</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=2|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisit</em></td><td><em>olisitte</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisi, olis, ois, os, ois[olisi, lienisi</em></td><td><em>olisivat</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=1|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>Olkaamme</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=2|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ole, Oo, Ous</em></td><td><em>olkaa</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olkoon</em></td><td><em>olkoot</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olin, oli</em></td><td><em>olimme, Olimma</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olen, oon, Oommä, Oom, ole, on, oo, ool</em></td><td><em>olemme</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olit</em></td><td><em>olitte, olija</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olet, oot</em></td><td><em>olette, Ootte</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oli, ol, ol´, olii, olä</em></td><td><em>olivat</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>on, o, oj, om</em></td><td><em>ovat, oovat</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Person.html">Person</a>=2|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Ollos</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Pot|<a href="Person.html">Person</a>=1|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>lienen</em></td><td><em>lienemme</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Pot|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>lienee, lie</em></td><td><em>lienevät</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han,Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Oiskohan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han,Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olisikohan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han,Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Oletkohan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han,Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onkoha</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han,Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olikohan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han,Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Onkohan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olisihan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olenhan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olithan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olihan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Han|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onhan</em></td><td><em>ovathan</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Connegative.html">Connegative</a>=Yes|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollutkaan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisikaan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oletkaan</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olikaan</em></td><td><em>olivatkaan</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onkaan</em></td><td><em>ovatkaan</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Mood.html">Mood</a>=Pot|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>lieneekään</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oliskin</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisikin</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olekin</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olkoonkin</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olinkin</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olenkin</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oletkin</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olikii</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onki</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olikin</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onkin</em></td><td><em>ovatkin</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olitkos</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Oletkos</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olikos</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onkos</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olisinko</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>Olisitteko</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisko, oisko</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisiko</em></td><td><em>olisivatko</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oonko, ooks, Oonksmä, olenk</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olinko</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olenko</em></td><td><em>olemmeko</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>Olitteks</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ootko, ootsä, Ooksää, ook, oleksä, Ookkonää, oleks</em></td><td><em>ootteko, Oottekste</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olitko</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oletko</em></td><td><em>oletteko</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oliks, olik</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onks, onk</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oliko</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onko</em></td><td><em>ovatko</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Pot|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Liekö, lieneekö</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olipas</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa,S|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Onpas</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olisitpa</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olisipa</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olepa</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olkoonpa</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Olinpa</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oletpa</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olipa</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>onpa</em></td><td></td></tr>
+  <tr><td><tt><a href="Connegative.html">Connegative</a>=Yes|<a href="Mood.html">Mood</a>=Ind|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollu</em></td><td></td></tr>
+  <tr><td><tt><a href="Connegative.html">Connegative</a>=Yes|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollut</em></td><td><em>olleet</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=1|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oisin, oisi</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisin</em></td><td><em>olisimme</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisit</em></td><td><em>olisitte</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olis, ois, os</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olisi, lienisi</em></td><td><em>olisivat</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>Olkaamme</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=2|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Ous, Oo</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ole</em></td><td><em>olkaa</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olkoon</em></td><td><em>olkoot</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oli</em></td><td><em>Olimma</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oon, on, ool, oo, Oommä, Oom, ole</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olin</em></td><td><em>olimme</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olen</em></td><td><em>olemme</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olija</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oot</em></td><td><em>Ootte</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olit</em></td><td><em>olitte</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olet</em></td><td><em>olette</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ol, ol´, olii, olä</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>o, oj, om</em></td><td><em>oovat</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oli</em></td><td><em>olivat</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>on</em></td><td><em>ovat</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>Ollos</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Pot|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>lienen</em></td><td><em>lienemme</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Pot|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>lienee, lie</em></td><td><em>lienevät</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -528,9 +557,9 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (2492; 25% of non-empty `Number`): <em>uusia, suomalaiset, hyvät, hyviä, omat, omia, pienet, uudet, nuoret, suomalaisia</em>
-* `Sing` (7564; 75% of non-empty `Number`): <em>hyvä, hyvää, uusi, oma, uutta, uuden, sellainen, suuri, ainoa, oman</em>
-* `EMPTY` (409): <em>koko, viime, ensi, pikku, tosi, kelpo, ens, ihme, ainut, asiaankuuluvine</em>
+* `Plur` (2453; 24% of non-empty `Number`): <em>uusia, suomalaiset, hyvät, hyviä, omat, omia, pienet, uudet, nuoret, suomalaisia</em>
+* `Sing` (7603; 76% of non-empty `Number`): <em>hyvä, hyvää, uusi, oma, ensimmäinen, uutta, uuden, suuri, ainoa, oman</em>
+* `EMPTY` (438): <em>koko, viime, ensi, pikku, tosi, 1., 4., kelpo, ens, ihme</em>
 
 <table>
   <tr><th>Paradigm <i>hyvä</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -543,8 +572,9 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>hyvän</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ill</tt></td><td><em>hyvään</em></td><td><em>hyviin</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ine</tt></td><td><em>hyvässä</em></td><td><em>hyvissä</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>hyvä, hyä</em></td><td><em>hyvät</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>hyvä</em></td><td><em>hyvät</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kin</tt></td><td><em>hyväkin</em></td><td><em>hyvätkin</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Style.html">Style</a>=Coll</tt></td><td><em>hyä</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par</tt></td><td><em>hyvää</em></td><td><em>hyviä</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Clitic.html">Clitic</a>=Kin</tt></td><td><em>hyvääkin</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Tra</tt></td><td><em>hyväksi</em></td><td></td></tr>
@@ -552,15 +582,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-9930 [fi-pos/PRON]() tokens (93% of all `PRON` tokens) have a non-empty value of `Number`.
+9867 [fi-pos/PRON]() tokens (93% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (5475; 55%), <tt><a href="Case.html">Case</a>=Nom</tt> (5299; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (5432; 55%), <tt><a href="Case.html">Case</a>=Nom</tt> (5269; 53%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1931; 19% of non-empty `Number`): <em>ne, he, me, jotka, meillä, niitä, te, meidän, meitä, joita</em>
-* `Sing` (7999; 81% of non-empty `Number`): <em>se, hän, minä, sen, sitä, joka, mä, sinä, siitä, tämä</em>
-* `EMPTY` (710): <em>mitä, kaikki, mitään, mistä, minkä, missä, miltä, mihin, mitäs, millä</em>
+* `Plur` (1918; 19% of non-empty `Number`): <em>ne, he, me, meillä, jotka, niitä, te, meidän, meitä, joita</em>
+* `Sing` (7949; 81% of non-empty `Number`): <em>se, hän, minä, sen, sitä, joka, mä, sinä, siitä, tämä</em>
+* `EMPTY` (705): <em>mitä, kaikki, mitään, mistä, minkä, missä, miltä, mihin, mitäs, millä</em>
 
 <table>
   <tr><th>Paradigm <i>joka</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -579,12 +609,12 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-6207 [fi-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+6773 [fi-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (128; 2% of non-empty `Number`): <em>Yhdysvaltain, Helsingin_Sanomat, Pohjoismaiden, Yhdysvallat, Yhdysvalloissa, Yhdysvaltojen, Helsingin_Sanomien, Pohjoismaissa, Ahtisaarten, Calibroista</em>
-* `Sing` (6079; 98% of non-empty `Number`): <em>Suomen, suomessa, Suomi, Maija, Mikko, Helsingin, Anna, Euroopan, Helsingissä, Suomeen</em>
+* `Plur` (135; 2% of non-empty `Number`): <em>Yhdysvaltain, Sanomat, Yhdysvalloissa, Pohjoismaiden, Sanomien, Sanomissa, Yhdysvallat, Yhdysvaltojen, Pohjoismaissa, Ahtisaarten</em>
+* `Sing` (6638; 98% of non-empty `Number`): <em>Suomen, suomessa, Suomi, Helsingin, Maija, Mikko, Euroopan, Anna, Helsingissä, Suomeen</em>
 
 <table>
   <tr><th>Paradigm <i>yhdysvallat</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -595,45 +625,45 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>Yhdysvallat</em></td><td><em>Yhdysvallat</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (3002) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (3107) occur only with one value of `Number`.
 
 ### `DET`
 
-3372 [fi-pos/DET]() tokens (87% of all `DET` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2967; 88%).
+3600 [fi-pos/DET]() tokens (88% of all `DET` tokens) have a non-empty value of `Number`.
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (895; 27% of non-empty `Number`): <em>meidän, ne, heidän, niitä, nämä, niiden, muut, useita, näitä, monet</em>
-* `Sing` (2477; 73% of non-empty `Number`): <em>se, sen, hänen, tämä, sitä, joku, tällä, tässä, jotain, tämän</em>
-* `EMPTY` (510): <em>kaikki, mitään, joka, eri, mitä, missä, millä, minkä, missään, mihinkään</em>
+* `Plur` (952; 26% of non-empty `Number`): <em>meidän, ne, heidän, niitä, nämä, niiden, muut, useita, näitä, monet</em>
+* `Sing` (2648; 74% of non-empty `Number`): <em>se, sen, hänen, tämä, sitä, joku, tällä, tässä, jotain, tämän</em>
+* `EMPTY` (509): <em>kaikki, mitään, joka, eri, mitä, missä, millä, minkä, missään, mihinkään</em>
 
 <table>
   <tr><th>Paradigm <i>kaikki</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl</tt></td><td><em>kaikelta</em></td><td><em>kaikilta</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ade</tt></td><td><em>kaikella</em></td><td><em>kaikilla</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=All</tt></td><td><em>kaikelle</em></td><td><em>kaikille</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ela</tt></td><td><em>kaikesta</em></td><td><em>kaikista, kaikist</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ela</tt></td><td><em>kaikesta</em></td><td><em>kaikista</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ela|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td><em>kaikist</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>kaiken</em></td><td><em>kaikkien, kaikkein</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ill</tt></td><td></td><td><em>kaikkiin</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ine</tt></td><td><em>kaikessa</em></td><td><em>kaikissa</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins</tt></td><td></td><td><em>kaikin</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Par</tt></td><td><em>kaikkea</em></td><td><em>kaikkia, kaikkii</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Par</tt></td><td><em>kaikkea</em></td><td><em>kaikkia</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td><em>kaikkii</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Tra</tt></td><td><em>Kaikeksi</em></td><td></td></tr>
 </table>
 
 ### `NUM`
 
-1766 [fi-pos/NUM]() tokens (70% of all `NUM` tokens) have a non-empty value of `Number`.
+1504 [fi-pos/NUM]() tokens (67% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1493; 85%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1504; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (118; 7% of non-empty `Number`): <em>puolet, tuhansia, satoja, kymmeniä, ensimmäiset, kahdet, kaksin, toiset, kymmenien, miljoonien</em>
-* `Sing` (1648; 93% of non-empty `Number`): <em>kaksi, yksi, kolme, kymmenen, viisi, ensimmäinen, kahden, pari, yhden, neljä</em>
-* `EMPTY` (775): <em>10, 30, 20, 2000, 200, 50, 40, 12, 15, 1995</em>
+* `Plur` (99; 7% of non-empty `Number`): <em>puolet, tuhansia, satoja, kymmeniä, kahdet, kaksin, kymmenien, miljoonien, puolilta, kolmissakymmenissä</em>
+* `Sing` (1405; 93% of non-empty `Number`): <em>kaksi, yksi, kolme, kymmenen, viisi, kahden, pari, yhden, neljä, viiden</em>
+* `EMPTY` (748): <em>10, 30, 20, 2000, 200, 50, 40, 12, 15, 1995</em>
 
 <table>
   <tr><th>Paradigm <i>kaksi</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -647,22 +677,25 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Ine</tt></td><td><em>kahdessa</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins</tt></td><td></td><td><em>kaksin</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Clitic.html">Clitic</a>=Kin</tt></td><td><em>kaksikin</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>kaksi, kaks</em></td><td><em>kahdet</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>kaksi</em></td><td><em>kahdet</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Style.html">Style</a>=Coll</tt></td><td><em>kaks</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par</tt></td><td><em>kahta</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Tra</tt></td><td><em>kahdeksi</em></td><td></td></tr>
 </table>
 
+`Number` seems to be **lexical feature** of `NUM`. 90% lemmas (100) occur only with one value of `Number`.
+
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5372; 92%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (5346; 52%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (4884; 74%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (3474; 70%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (3440; 74%),
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (2630; 80%),
-<tt>ADJ --[<a href="../dep/cop.html">cop</a>]--> VERB</tt> (1465; 83%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1401; 84%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1384; 69%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (1382; 84%).
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5335; 92%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (5316; 52%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (5002; 73%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (3302; 69%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (3179; 75%),
+<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (2625; 80%),
+<tt>VERB --[<a href="../dep/aux.html">aux</a>]--> VERB</tt> (2028; 51%),
+<tt>ADJ --[<a href="../dep/cop.html">cop</a>]--> VERB</tt> (1568; 84%),
+<tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (1535; 72%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1387; 84%).
 

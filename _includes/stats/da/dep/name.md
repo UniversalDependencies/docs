@@ -56,22 +56,26 @@ The following 15 pairs of parts of speech are connected with `name`: [da-pos/PRO
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 name	color:blue
-1	Kikker	kikke	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	ud	ud	ADV	_	_	1	nmod:loc	_	_
-3	ad	ad	ADP	_	AdpType=Prep	4	case	_	_
-4	vinduet	vindue	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	2	nmod	_	_
-5	mod	mod	ADP	_	AdpType=Prep	10	case	_	_
-6	de	den	DET	_	Number=Plur|PronType=Dem	10	det	_	_
-7	snedækkede	snedækket	ADJ	_	Degree=Pos|Number=Plur	10	amod	_	_
-8	Hindu	hindu	PROPN	_	_	10	name	_	_
-9	Kush	Kush	PROPN	_	_	8	name	_	_
-10	bjerge	bjerg	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	1	nmod	_	_
-11	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 name	color:blue
+1	Fru	frue	X	_	Abbr=Yes	2	name	_	_
+2	Baumann	Baumann	PROPN	_	_	3	nsubj	_	_
+3	ryster	ryste	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	et	en	DET	_	Gender=Neut|Number=Sing|PronType=Ind	6	det	_	_
+5	nyt	ny	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	gab	gab	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	3	dobj	_	_
+7	af	af	ADP	_	AdpType=Prep	8	case	_	_
+8	sig	sig	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	nmod	_	_
+9	og	og	CONJ	_	_	3	cc	_	_
+10	sætter	sætte	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+11	sig	sig	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	10	dobj	_	_
+12	frem	frem	ADV	_	_	10	nmod:loc	_	_
+13	i	i	ADP	_	AdpType=Prep	14	case	_	_
+14	stolen	stol	NOUN	_	Definite=Def|Gender=Com|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

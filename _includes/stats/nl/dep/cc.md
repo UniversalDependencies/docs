@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-4204 nodes (2%) are attached to their parents as `cc`.
+4259 nodes (2%) are attached to their parents as `cc`.
 
-3962 instances of `cc` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.53306374881066.
+3984 instances of `cc` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.69405963841277.
 
-The following 86 pairs of parts of speech are connected with `cc`: [nl-pos/NOUN]()-[nl-pos/CONJ]() (1497; 36% instances), [nl-pos/VERB]()-[nl-pos/CONJ]() (889; 21% instances), [nl-pos/ADJ]()-[nl-pos/CONJ]() (396; 9% instances), [nl-pos/PROPN]()-[nl-pos/CONJ]() (358; 9% instances), [nl-pos/AUX]()-[nl-pos/CONJ]() (327; 8% instances), [nl-pos/X]()-[nl-pos/CONJ]() (223; 5% instances), [nl-pos/NUM]()-[nl-pos/CONJ]() (89; 2% instances), [nl-pos/ADV]()-[nl-pos/CONJ]() (54; 1% instances), [nl-pos/PRON]()-[nl-pos/CONJ]() (47; 1% instances), [nl-pos/NOUN]()-[nl-pos/NOUN]() (39; 1% instances), [nl-pos/NUM]()-[nl-pos/ADP]() (38; 1% instances), [nl-pos/NOUN]()-[nl-pos/SCONJ]() (22; 1% instances), [nl-pos/VERB]()-[nl-pos/ADV]() (17; 0% instances), [nl-pos/ADP]()-[nl-pos/CONJ]() (12; 0% instances), [nl-pos/PROPN]()-[nl-pos/PROPN]() (12; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADJ]() (10; 0% instances), [nl-pos/NOUN]()-[nl-pos/ADV]() (10; 0% instances), [nl-pos/VERB]()-[nl-pos/VERB]() (9; 0% instances), [nl-pos/DET]()-[nl-pos/CONJ]() (7; 0% instances), [nl-pos/NOUN]()-[nl-pos/VERB]() (7; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADP]() (6; 0% instances), [nl-pos/PROPN]()-[nl-pos/SCONJ]() (6; 0% instances), [nl-pos/ADJ]()-[nl-pos/SCONJ]() (5; 0% instances), [nl-pos/ADV]()-[nl-pos/ADV]() (5; 0% instances), [nl-pos/DET]()-[nl-pos/ADP]() (5; 0% instances), [nl-pos/NUM]()-[nl-pos/NUM]() (5; 0% instances), [nl-pos/VERB]()-[nl-pos/ADP]() (5; 0% instances), [nl-pos/VERB]()-[nl-pos/SCONJ]() (5; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADV]() (4; 0% instances), [nl-pos/AUX]()-[nl-pos/SCONJ]() (4; 0% instances), [nl-pos/NOUN]()-[nl-pos/X]() (4; 0% instances), [nl-pos/NUM]()-[nl-pos/X]() (4; 0% instances), [nl-pos/AUX]()-[nl-pos/ADV]() (3; 0% instances), [nl-pos/AUX]()-[nl-pos/VERB]() (3; 0% instances), [nl-pos/CONJ]()-[nl-pos/CONJ]() (3; 0% instances), [nl-pos/NOUN]()-[nl-pos/ADP]() (3; 0% instances), [nl-pos/SCONJ]()-[nl-pos/CONJ]() (3; 0% instances), [nl-pos/X]()-[nl-pos/X]() (3; 0% instances), [nl-pos/ADJ]()-[nl-pos/VERB]() (2; 0% instances), [nl-pos/ADP]()-[nl-pos/ADP]() (2; 0% instances), [nl-pos/ADV]()-[nl-pos/PRON]() (2; 0% instances), [nl-pos/ADV]()-[nl-pos/VERB]() (2; 0% instances), [nl-pos/AUX]()-[nl-pos/AUX]() (2; 0% instances), [nl-pos/NOUN]()-[nl-pos/PRON]() (2; 0% instances), [nl-pos/PRON]()-[nl-pos/ADP]() (2; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADP]() (2; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADV]() (2; 0% instances), [nl-pos/PROPN]()-[nl-pos/AUX]() (2; 0% instances), [nl-pos/PROPN]()-[nl-pos/NOUN]() (2; 0% instances), [nl-pos/VERB]()-[nl-pos/ADJ]() (2; 0% instances), [nl-pos/VERB]()-[nl-pos/NOUN]() (2; 0% instances), [nl-pos/VERB]()-[nl-pos/X]() (2; 0% instances), [nl-pos/X]()-[nl-pos/ADV]() (2; 0% instances), [nl-pos/X]()-[nl-pos/PROPN]() (2; 0% instances), [nl-pos/X]()-[nl-pos/VERB]() (2; 0% instances), [nl-pos/ADJ]()-[nl-pos/AUX]() (1; 0% instances), [nl-pos/ADJ]()-[nl-pos/NOUN]() (1; 0% instances), [nl-pos/ADP]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/ADP]()-[nl-pos/NUM]() (1; 0% instances), [nl-pos/ADP]()-[nl-pos/SCONJ]() (1; 0% instances), [nl-pos/ADV]()-[nl-pos/ADP]() (1; 0% instances), [nl-pos/AUX]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/AUX]()-[nl-pos/X]() (1; 0% instances), [nl-pos/CONJ]()-[nl-pos/NOUN]() (1; 0% instances), [nl-pos/INTJ]()-[nl-pos/CONJ]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/AUX]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/SYM]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/NOUN]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/PRON]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/SCONJ]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/VERB]() (1; 0% instances), [nl-pos/PRON]()-[nl-pos/PRON]() (1; 0% instances), [nl-pos/PRON]()-[nl-pos/SCONJ]() (1; 0% instances), [nl-pos/PRON]()-[nl-pos/VERB]() (1; 0% instances), [nl-pos/PRON]()-[nl-pos/X]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/SYM]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/VERB]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/X]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/AUX]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/PRON]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/SYM]() (1; 0% instances), [nl-pos/X]()-[nl-pos/ADP]() (1; 0% instances), [nl-pos/X]()-[nl-pos/AUX]() (1; 0% instances), [nl-pos/X]()-[nl-pos/SCONJ]() (1; 0% instances).
+The following 93 pairs of parts of speech are connected with `cc`: [nl-pos/NOUN]()-[nl-pos/CONJ]() (1493; 35% instances), [nl-pos/VERB]()-[nl-pos/CONJ]() (1036; 24% instances), [nl-pos/PROPN]()-[nl-pos/CONJ]() (558; 13% instances), [nl-pos/ADJ]()-[nl-pos/CONJ]() (397; 9% instances), [nl-pos/AUX]()-[nl-pos/CONJ]() (169; 4% instances), [nl-pos/NUM]()-[nl-pos/CONJ]() (89; 2% instances), [nl-pos/ADV]()-[nl-pos/CONJ]() (57; 1% instances), [nl-pos/PRON]()-[nl-pos/CONJ]() (41; 1% instances), [nl-pos/NOUN]()-[nl-pos/NOUN]() (40; 1% instances), [nl-pos/NUM]()-[nl-pos/ADP]() (37; 1% instances), [nl-pos/X]()-[nl-pos/CONJ]() (26; 1% instances), [nl-pos/NOUN]()-[nl-pos/ADV]() (24; 1% instances), [nl-pos/PROPN]()-[nl-pos/PROPN]() (23; 1% instances), [nl-pos/NOUN]()-[nl-pos/SCONJ]() (22; 1% instances), [nl-pos/VERB]()-[nl-pos/ADV]() (19; 0% instances), [nl-pos/DET]()-[nl-pos/CONJ]() (18; 0% instances), [nl-pos/ADP]()-[nl-pos/CONJ]() (12; 0% instances), [nl-pos/VERB]()-[nl-pos/VERB]() (11; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADJ]() (10; 0% instances), [nl-pos/SCONJ]()-[nl-pos/CONJ]() (9; 0% instances), [nl-pos/NOUN]()-[nl-pos/VERB]() (7; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADP]() (6; 0% instances), [nl-pos/ADJ]()-[nl-pos/SCONJ]() (6; 0% instances), [nl-pos/NOUN]()-[nl-pos/ADP]() (6; 0% instances), [nl-pos/NUM]()-[nl-pos/NUM]() (6; 0% instances), [nl-pos/PROPN]()-[nl-pos/SCONJ]() (6; 0% instances), [nl-pos/VERB]()-[nl-pos/SCONJ]() (6; 0% instances), [nl-pos/DET]()-[nl-pos/ADP]() (5; 0% instances), [nl-pos/NOUN]()-[nl-pos/PROPN]() (5; 0% instances), [nl-pos/VERB]()-[nl-pos/ADP]() (5; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADV]() (4; 0% instances), [nl-pos/ADV]()-[nl-pos/ADV]() (4; 0% instances), [nl-pos/NOUN]()-[nl-pos/X]() (4; 0% instances), [nl-pos/NUM]()-[nl-pos/PRON]() (4; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADV]() (4; 0% instances), [nl-pos/VERB]()-[nl-pos/X]() (4; 0% instances), [nl-pos/ADV]()-[nl-pos/ADP]() (3; 0% instances), [nl-pos/CONJ]()-[nl-pos/CONJ]() (3; 0% instances), [nl-pos/PRON]()-[nl-pos/X]() (3; 0% instances), [nl-pos/PROPN]()-[nl-pos/X]() (3; 0% instances), [nl-pos/VERB]()-[nl-pos/ADJ]() (3; 0% instances), [nl-pos/VERB]()-[nl-pos/PROPN]() (3; 0% instances), [nl-pos/X]()-[nl-pos/X]() (3; 0% instances), [nl-pos/ADJ]()-[nl-pos/VERB]() (2; 0% instances), [nl-pos/ADJ]()-[nl-pos/X]() (2; 0% instances), [nl-pos/ADP]()-[nl-pos/ADP]() (2; 0% instances), [nl-pos/ADV]()-[nl-pos/VERB]() (2; 0% instances), [nl-pos/AUX]()-[nl-pos/AUX]() (2; 0% instances), [nl-pos/AUX]()-[nl-pos/PRON]() (2; 0% instances), [nl-pos/AUX]()-[nl-pos/SCONJ]() (2; 0% instances), [nl-pos/NOUN]()-[nl-pos/PRON]() (2; 0% instances), [nl-pos/NUM]()-[nl-pos/ADJ]() (2; 0% instances), [nl-pos/PRON]()-[nl-pos/ADP]() (2; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADP]() (2; 0% instances), [nl-pos/PROPN]()-[nl-pos/NOUN]() (2; 0% instances), [nl-pos/PROPN]()-[nl-pos/VERB]() (2; 0% instances), [nl-pos/VERB]()-[nl-pos/NOUN]() (2; 0% instances), [nl-pos/X]()-[nl-pos/ADV]() (2; 0% instances), [nl-pos/ADJ]()-[nl-pos/AUX]() (1; 0% instances), [nl-pos/ADJ]()-[nl-pos/NOUN]() (1; 0% instances), [nl-pos/ADJ]()-[nl-pos/NUM]() (1; 0% instances), [nl-pos/ADP]()-[nl-pos/NUM]() (1; 0% instances), [nl-pos/ADP]()-[nl-pos/SCONJ]() (1; 0% instances), [nl-pos/AUX]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/AUX]()-[nl-pos/PROPN]() (1; 0% instances), [nl-pos/AUX]()-[nl-pos/VERB]() (1; 0% instances), [nl-pos/AUX]()-[nl-pos/X]() (1; 0% instances), [nl-pos/CONJ]()-[nl-pos/NOUN]() (1; 0% instances), [nl-pos/DET]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/INTJ]()-[nl-pos/CONJ]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/AUX]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/AUX]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/DET]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/NOUN]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/SCONJ]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/VERB]() (1; 0% instances), [nl-pos/PRON]()-[nl-pos/SCONJ]() (1; 0% instances), [nl-pos/PRON]()-[nl-pos/VERB]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/AUX]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/PRON]() (1; 0% instances), [nl-pos/PUNCT]()-[nl-pos/ADP]() (1; 0% instances), [nl-pos/SCONJ]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/SCONJ]()-[nl-pos/SCONJ]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/AUX]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/DET]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/PRON]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/SYM]() (1; 0% instances), [nl-pos/X]()-[nl-pos/AUX]() (1; 0% instances), [nl-pos/X]()-[nl-pos/PROPN]() (1; 0% instances), [nl-pos/X]()-[nl-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 86 pairs of parts of speech are connected with `cc`: [nl-pos/NOUN]
 # visual-style 6 7 cc	color:blue
 1	Sterry	Sterry	PROPN	N|eigen|ev|neut	Number=Sing	2	nsubj	_	_
 2	wist	weet	VERB	V|trans|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	_	_
-3	het	het	PRON	Art|bep|onzijd|neut	Definite=Def|Gender=Neut|PronType=Art	4	nmod	_	_
+3	het	het	DET	Art|bep|onzijd|neut	Definite=Def|Gender=Neut|PronType=Art	4	det	_	_
 4	preken	preek	VERB	V|trans|inf|subst	Subcat=Tran|VerbForm=Inf	12	xcomp	_	_
 5	28	28	NUM	Num|hoofd|bep|attr|onverv	Definite=Def|NumType=Card	6	nummod	_	_
 6	uur	uur	NOUN	N|soort|ev|neut	Number=Sing	12	nmod	_	_
@@ -31,7 +31,7 @@ The following 86 pairs of parts of speech are connected with `cc`: [nl-pos/NOUN]
 9	minuten	minuut	NOUN	N|soort|mv|neut	Number=Plur	6	conj	_	_
 10	vol	vol	ADJ	Adj|attr|stell|onverv	Degree=Pos	12	compound:prt	_	_
 11	te	te	ADP	Prep|voorinf	AdpType=Prep|PartType=Inf	12	mark	_	_
-12	houden	houd_vol	AUX	V|trans|inf	Subcat=Tran|VerbForm=Inf	2	aux	_	_
+12	houden	houd_vol	VERB	V|trans|inf	Subcat=Tran|VerbForm=Inf	2	xcomp	_	_
 13	.	.	PUNCT	Punc|punt	PunctType=Peri	2	punct	_	_
 
 ~~~
@@ -60,25 +60,88 @@ The following 86 pairs of parts of speech are connected with `cc`: [nl-pos/NOUN]
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 cc	color:blue
-1	De	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	2	det	_	_
-2	aanbieding	aanbieding	NOUN	N|soort|ev|neut	Number=Sing	7	nsubj	_	_
-3	van	van	ADP	Prep|voor	AdpType=Prep	4	case	_	_
-4	Parma	Parma	PROPN	N|eigen|ev|neut	Number=Sing	2	nmod	_	_
-5	is	ben	AUX	V|hulpofkopp|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux,Cop	7	cop	_	_
-6	heel	heel	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	7	advmod	_	_
-7	mooi	mooi	ADJ	Adj|attr|stell|onverv	Degree=Pos	0	root	_	_
-8	,	,	PUNCT	Punc|komma	PunctType=Comm	7	punct	_	_
-9	maar	maar	CONJ	Conj|neven	_	7	cc	_	_
-10	niet	niet	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	12	neg	_	_
-11	de	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	12	det	_	_
-12	enige	enige	ADJ	Adj|zelfst|stell|vervneut	Case=Nom|Degree=Pos	7	conj	_	_
-13	.	.	PUNCT	Punc|punt	PunctType=Peri	7	punct	_	_
-14	"	"	PUNCT	Punc|aanhaaldubb	PunctType=Quot	7	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 cc	color:blue
+1	Dat	dat	PRON	Pron|aanw|neut|zelfst	PronType=Dem	2	nsubj	_	_
+2	telt	tel	VERB	V|trans|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	voor	voor	ADP	Prep|voor	AdpType=Prep	4	case	_	_
+4	O.J.	O.J.	PROPN	N|eigen|ev|neut	Number=Sing	2	dobj	_	_
+5	en	en	CONJ	Conj|neven	_	4	cc	_	_
+6	de	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	7	det	_	_
+7	FBI	FBI	PROPN	N|eigen|ev|neut	Number=Sing	4	conj	_	_
+8	.	.	PUNCT	Punc|punt	PunctType=Peri	2	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Dutch-LassySmall)
+
+This relation is universal.
+
+2599 nodes (3%) are attached to their parents as `cc`.
+
+2523 instances of `cc` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.43593689880723.
+
+The following 39 pairs of parts of speech are connected with `cc`: [nl-pos/NOUN]()-[nl-pos/CONJ]() (977; 38% instances), [nl-pos/VERB]()-[nl-pos/CONJ]() (624; 24% instances), [nl-pos/PROPN]()-[nl-pos/CONJ]() (458; 18% instances), [nl-pos/ADJ]()-[nl-pos/CONJ]() (251; 10% instances), [nl-pos/X]()-[nl-pos/CONJ]() (65; 3% instances), [nl-pos/NUM]()-[nl-pos/CONJ]() (59; 2% instances), [nl-pos/SYM]()-[nl-pos/CONJ]() (25; 1% instances), [nl-pos/NOUN]()-[nl-pos/SCONJ]() (17; 1% instances), [nl-pos/DET]()-[nl-pos/CONJ]() (16; 1% instances), [nl-pos/NOUN]()-[nl-pos/ADV]() (16; 1% instances), [nl-pos/PROPN]()-[nl-pos/ADV]() (12; 0% instances), [nl-pos/PRON]()-[nl-pos/CONJ]() (11; 0% instances), [nl-pos/ADV]()-[nl-pos/CONJ]() (8; 0% instances), [nl-pos/PROPN]()-[nl-pos/SCONJ]() (8; 0% instances), [nl-pos/ADJ]()-[nl-pos/SCONJ]() (7; 0% instances), [nl-pos/NUM]()-[nl-pos/ADP]() (7; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADV]() (6; 0% instances), [nl-pos/ADP]()-[nl-pos/CONJ]() (3; 0% instances), [nl-pos/VERB]()-[nl-pos/SCONJ]() (3; 0% instances), [nl-pos/NOUN]()-[nl-pos/ADP]() (2; 0% instances), [nl-pos/NUM]()-[nl-pos/X]() (2; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADJ]() (2; 0% instances), [nl-pos/VERB]()-[nl-pos/ADV]() (2; 0% instances), [nl-pos/X]()-[nl-pos/ADV]() (2; 0% instances), [nl-pos/X]()-[nl-pos/SCONJ]() (2; 0% instances), [nl-pos/ADJ]()-[nl-pos/X]() (1; 0% instances), [nl-pos/AUX]()-[nl-pos/CONJ]() (1; 0% instances), [nl-pos/DET]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/NUM]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/X]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/SCONJ]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADP]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/X]() (1; 0% instances), [nl-pos/PUNCT]()-[nl-pos/CONJ]() (1; 0% instances), [nl-pos/SYM]()-[nl-pos/SCONJ]() (1; 0% instances), [nl-pos/X]()-[nl-pos/ADP]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 cc	color:blue
+1	Cultuuragenda	cultuuragenda	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
+2	en	en	CONJ	_	_	1	cc	_	_
+3	online	online	ADJ	_	Degree=Pos	4	amod	_	_
+4	stadsgids	stadsgids	NOUN	_	Gender=Com|Number=Sing	1	conj	_	_
+5	voor	voor	ADP	_	_	6	case	_	_
+6	Brussel	Brussel	PROPN	_	Gender=Neut|Number=Sing	1	nmod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 cc	color:blue
+1	De	de	DET	_	Definite=Def	2	det	_	_
+2	provincie	provincie	NOUN	_	Gender=Com|Number=Sing	3	nsubj	_	_
+3	behoort	behoren	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	tot	tot	ADP	_	_	5	case	_	_
+5	Wallonië	Wallonië	PROPN	_	Gender=Neut|Number=Sing	3	nmod	_	_
+6	en	en	CONJ	_	_	3	cc	_	_
+7	is	zijn	AUX	_	_	9	cop	_	_
+8	dus	dus	ADV	_	_	9	advmod	_	_
+9	Franstalig	Franstalig	ADJ	_	Degree=Pos	3	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 cc	color:blue
+1	1949	1949	NUM	_	_	0	root	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	Serse	Serse	PROPN	_	_	1	parataxis	_	_
+4	Coppi	Coppi	PROPN	_	_	3	name	_	_
+5	en	en	CONJ	_	_	3	cc	_	_
+6	André	André	PROPN	_	_	3	conj	_	_
+7	Mahe	Mahe	PROPN	_	_	6	name	_	_
 
 ~~~
 

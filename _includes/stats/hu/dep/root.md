@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1299 nodes (5%) are attached to their parents as `root`.
+1800 nodes (4%) are attached to their parents as `root`.
 
-1299 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.76982294072363.
+1800 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.40833333333333.
 
-The following 8 pairs of parts of speech are connected with `root`: [hu-pos/ROOT]()-[hu-pos/VERB]() (1060; 82% instances), [hu-pos/ROOT]()-[hu-pos/ADJ]() (103; 8% instances), [hu-pos/ROOT]()-[hu-pos/NOUN]() (95; 7% instances), [hu-pos/ROOT]()-[hu-pos/ADV]() (15; 1% instances), [hu-pos/ROOT]()-[hu-pos/PRON]() (14; 1% instances), [hu-pos/ROOT]()-[hu-pos/PROPN]() (7; 1% instances), [hu-pos/ROOT]()-[hu-pos/DET]() (3; 0% instances), [hu-pos/ROOT]()-[hu-pos/INTJ]() (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: [hu-pos/ROOT]()-[hu-pos/VERB]() (1463; 81% instances), [hu-pos/ROOT]()-[hu-pos/ADJ]() (146; 8% instances), [hu-pos/ROOT]()-[hu-pos/NOUN]() (131; 7% instances), [hu-pos/ROOT]()-[hu-pos/PRON]() (23; 1% instances), [hu-pos/ROOT]()-[hu-pos/ADV]() (18; 1% instances), [hu-pos/ROOT]()-[hu-pos/PROPN]() (11; 1% instances), [hu-pos/ROOT]()-[hu-pos/DET]() (3; 0% instances), [hu-pos/ROOT]()-[hu-pos/NUM]() (3; 0% instances), [hu-pos/ROOT]()-[hu-pos/INTJ]() (2; 0% instances).
 
 
 ~~~ conllu

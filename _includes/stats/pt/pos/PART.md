@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1205, [PART]() 35,
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.447246).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.447797).
 
 The 1st highest number of forms (1) was observed with the lemma “NÃO”: <em>NÃO</em>.
 
@@ -32,20 +32,20 @@ The 2nd highest number of forms (1) was observed with the lemma “anti-”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “ex”: <em>ex</em>.
 
-`PART` occurs with 4 features: [pt-feat/Negative]() (39; 89% instances), [pt-feat/Hyph]() (5; 11% instances), [pt-feat/Gender]() (2; 5% instances), [pt-feat/Number]() (2; 5% instances)
+`PART` occurs with 4 features: [pt-feat/Negative]() (39; 89% instances), [pt-feat/Hyph]() (5; 11% instances), [pt-feat/Gender]() (1; 2% instances), [pt-feat/Number]() (1; 2% instances)
 
 `PART` occurs with 4 feature-value pairs: `Gender=Masc`, `Hyph=Yes`, `Negative=Neg`, `Number=Sing`
 
-`PART` occurs with 4 feature combinations.
-The most frequent feature combination is `Negative=Neg` (38 tokens).
+`PART` occurs with 3 feature combinations.
+The most frequent feature combination is `Negative=Neg` (39 tokens).
 Examples: <em>não</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 5 different relations: [pt-dep/mwe]() (29; 66% instances), [pt-dep/cc]() (8; 18% instances), [pt-dep/nmod]() (4; 9% instances), [pt-dep/advmod]() (2; 5% instances), [pt-dep/neg]() (1; 2% instances)
+`PART` nodes are attached to their parents using 5 different relations: [pt-dep/mwe]() (29; 66% instances), [pt-dep/cc]() (7; 16% instances), [pt-dep/nmod]() (5; 11% instances), [pt-dep/advmod]() (2; 5% instances), [pt-dep/neg]() (1; 2% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: [ADV]() (24; 55% instances), [NOUN]() (6; 14% instances), [PRON]() (5; 11% instances), [VERB]() (4; 9% instances), [PROPN]() (2; 5% instances), [ADJ]() (1; 2% instances), [NUM]() (1; 2% instances), [SCONJ]() (1; 2% instances)
+Parents of `PART` nodes belong to 8 different parts of speech: [ADV]() (24; 55% instances), [NOUN]() (6; 14% instances), [DET]() (5; 11% instances), [VERB]() (4; 9% instances), [PROPN]() (2; 5% instances), [ADJ]() (1; 2% instances), [NUM]() (1; 2% instances), [SCONJ]() (1; 2% instances)
 
 34 (77%) `PART` nodes are leaves.
 
@@ -57,9 +57,9 @@ Parents of `PART` nodes belong to 8 different parts of speech: [ADV]() (24; 55% 
 
 The highest child degree of a `PART` node is 4.
 
-Children of `PART` nodes are attached using 5 different relations: [pt-dep/mwe]() (9; 64% instances), [pt-dep/cc]() (2; 14% instances), [pt-dep/case]() (1; 7% instances), [pt-dep/conj]() (1; 7% instances), [pt-dep/nmod]() (1; 7% instances)
+Children of `PART` nodes are attached using 6 different relations: [pt-dep/mwe]() (9; 64% instances), [pt-dep/case]() (1; 7% instances), [pt-dep/cc]() (1; 7% instances), [pt-dep/conj]() (1; 7% instances), [pt-dep/det]() (1; 7% instances), [pt-dep/nmod]() (1; 7% instances)
 
-Children of `PART` nodes belong to 4 different parts of speech: [NOUN]() (11; 79% instances), [ADP]() (1; 7% instances), [CONJ]() (1; 7% instances), [PRON]() (1; 7% instances)
+Children of `PART` nodes belong to 4 different parts of speech: [NOUN]() (11; 79% instances), [ADP]() (1; 7% instances), [CONJ]() (1; 7% instances), [DET]() (1; 7% instances)
 
 
 

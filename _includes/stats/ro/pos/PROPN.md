@@ -4,76 +4,88 @@
 
 ## Treebank Statistics (UD_Romanian)
 
-There are 319 `PROPN` lemmas (8%), 319 `PROPN` types (7%) and 462 `PROPN` tokens (4%).
-Out of 17 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 9 in number of tokens.
+There are 2053 `PROPN` lemmas (14%), 2096 `PROPN` types (8%) and 3894 `PROPN` tokens (3%).
+Out of 17 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 10 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>România, României, București, Iași, Nicolina, Moldova, Moldovei, Roman, Arghezi, Copou</em>
+The 10 most frequent `PROPN` lemmas: <em>Winston, România, Timișoara, București, CEE, O'Brien, 000, Paris, Timiș, Ion</em>
 
-The 10 most frequent `PROPN` types:  <em>România, României, București, Iași, Nicolina, Moldova, Moldovei, Roman, Arghezi, Copou</em>
+The 10 most frequent `PROPN` types:  <em>Winston, Timișoara, București, CEE, România, O'Brien, 000, Timiș, Ion, Paris</em>
 
-The 10 most frequent ambiguous lemmas: <em>Aurel</em> ([PROPN]() 1, [ADJ]() 1), <em>CV</em> ([NOUN]() 1, [PROPN]() 1), <em>Galata</em> ([NOUN]() 2, [PROPN]() 1), <em>durere</em> ([NOUN]() 1, [PROPN]() 1), <em>nou</em> ([ADJ]() 7, [PROPN]() 1), <em>om</em> ([NOUN]() 16, [PROPN]() 1), <em>problemă</em> ([NOUN]() 1, [PROPN]() 1), <em>scrimă</em> ([NOUN]() 2, [PROPN]() 1), <em>vechi</em> ([ADJ]() 6, [PROPN]() 1), <em>Șorogari</em> ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>000</em> ([PROPN]() 22, [NUM]() 7), <em>CE</em> ([NOUN]() 47, [PROPN]() 8), <em>1876</em> ([PROPN]() 2, [NOUN]() 1), <em>1878</em> ([PROPN]() 2, [NOUN]() 1), <em>2008</em> ([PROPN]() 2, [NOUN]() 2), <em>IV</em> ([NUM]() 7, [PROPN]() 2), <em>SIDA</em> ([PROPN]() 2, [NOUN]() 2), <em>dop</em> ([NOUN]() 4, [PROPN]() 2), <em>electric</em> ([ADJ]() 17, [PROPN]() 2), <em>internet</em> ([NOUN]() 3, [PROPN]() 2)
 
-The 10 most frequent ambiguous types:  <em>Aurel</em> ([PROPN]() 1, [ADJ]() 1), <em>CV</em> ([NOUN]() 1, [PROPN]() 1), <em>Galata</em> ([NOUN]() 2, [PROPN]() 1), <em>nou</em> ([ADJ]() 4, [PROPN]() 1), <em>oamenilor</em> ([NOUN]() 4, [PROPN]() 1), <em>vechi</em> ([ADJ]() 6, [PROPN]() 1), <em>Șorogari</em> ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>000</em> ([PROPN]() 22, [NUM]() 7), <em>CE</em> ([NOUN]() 47, [PRON]() 10, [PROPN]() 8, [DET]() 8), <em>Este</em> ([VERB]() 49, [PROPN]() 8, [AUX]() 6), <em>Dumnezeu</em> ([PROPN]() 7, [NOUN]() 1), <em>Totuși</em> ([ADV]() 32, [PROPN]() 3), <em>1876</em> ([PROPN]() 2, [NOUN]() 1), <em>1878</em> ([PROPN]() 2, [NOUN]() 1), <em>2008</em> ([NOUN]() 2, [PROPN]() 2), <em>IV</em> ([NUM]() 7, [PROPN]() 2), <em>Internet</em> ([NOUN]() 3, [PROPN]() 2)
 
 
-* <em>Aurel</em>
-  * [PROPN]() 1: <em>cele efectuate de Pimen R. Constantinescu din Canti de Leopardi ori acelea realizate de <b>Aurel</b> Tita din Stéphane Mallarmé și din Paul Valéry .</em>
-  * [ADJ]() 1: <em>Aviația militară română a luat ființă în anul 1938 datorită colaborării societății civile cu Ministerul de Război , iar primul avion militar de concepție și construcție românească , proiectat de inginerul aviator <b>Aurel</b> Vlaicu și realizat la Arsenalul Armatei , a zburat la 1938 iunie 1938 .</em>
-* <em>CV</em>
-  * [NOUN]() 1: <em>1.1 . CV -ul Europass se elaborează pornind de_la formatul european comun pentru curriculum vitae ( <b>CV</b> ) propus prin Recomandarea 2002/236/CE .</em>
-  * [PROPN]() 1: <em>1.1 . <b>CV</b> -ul Europass se elaborează pornind de_la formatul european comun pentru curriculum vitae ( CV ) propus prin Recomandarea 2002/236/CE .</em>
-* <em>Galata</em>
-  * [NOUN]() 2: <em>Principalele coline sunt Copou , Cetățuia , Tătărași și <b>Galata</b> .</em>
-  * [PROPN]() 1: <em>Prin extinderea lui , Iașul este legendara urbe a celor 1938 coline Cetățuia , <b>Galata</b> , Copou , Bucium-Păun , Șorogari , Repedea și Breazu , cu altitudini variind între 1938 m în Lunca Bahluiului și 1938 m pe Dealul Păun și Dealul Repedea .</em>
-* <em>nou</em>
-  * [ADJ]() 4: <em>Păstrăm în noi personaje diferite ; arborăm , dacă pot spune , după împrejurări , un exemplar <b>nou</b> .</em>
-  * [PROPN]() 1: <em>Din punct de vedere arhitectonic , Iașii de azi se prezintă ca un adevărat amestec de <b>nou</b> și vechi , de istorie și modernitate , de iarbă , beton și sticlă .</em>
-* <em>oamenilor</em>
-  * [NOUN]() 4: <em>în sate , în comune , în viața <b>oamenilor</b> .</em>
-  * [PROPN]() 1: <em>Cu toată osteneala noastră , nu puturăm dormi de multele zgomote ale <b>oamenilor</b> .</em>
-* <em>vechi</em>
-  * [ADJ]() 6: <em>Holul blocului mirosea a varză călită și a preșuri <b>vechi</b> .</em>
-  * [PROPN]() 1: <em>Din punct de vedere arhitectonic , Iașii de azi se prezintă ca un adevărat amestec de nou și <b>vechi</b> , de istorie și modernitate , de iarbă , beton și sticlă .</em>
-* <em>Șorogari</em>
-  * [NOUN]() 1: <em>Orașul mai este traversat de râul Nicolina și de pârâul <b>Șorogari</b> ( numit în evul mediu Cacaina , deoarece aici se aruncau gunoaiele ) ; la răsărit de oraș , curge pârâul Ciric , pe care sunt create artificial trei lacuri cu scop de agrement .</em>
-  * [PROPN]() 1: <em>Prin extinderea lui , Iașul este legendara urbe a celor 1938 coline Cetățuia , Galata , Copou , Bucium-Păun , <b>Șorogari</b> , Repedea și Breazu , cu altitudini variind între 1938 m în Lunca Bahluiului și 1938 m pe Dealul Păun și Dealul Repedea .</em>
+* <em>000</em>
+  * [PROPN]() 22: <em>Cred că pe vremea aceea liceul nostru număra peste 2 <b>000</b> de elevi .</em>
+  * [NUM]() 7: <em>În momentul de față , site -ul conține aproximativ 1 <b>000</b> de oferte de cazare , care pot fi selectate după zone turistice și după județe .</em>
+* <em>CE</em>
+  * [NOUN]() 47: <em>Decizia 2001 / 881 / <b>CE</b> ar trebui modificată în consecință .</em>
+  * [PRON]() 10: <em>Perioada prevăzută în art. 4 alin. ( 3 ) din Decizia 1999 / 468 / <b>CE</b> este de o lună .</em>
+  * [PROPN]() 8: <em>1 Înlocuit de la 1 ianuarie 2006 prin Regulamentul ( <b>CE</b> ) nr. 853/2004 și Regulamentul 854/2004 .</em>
+  * [DET]() 8: <em>( 8 ) Este necesar ca Regulamentul ( <b>CE</b> ) nr. 1148 / 2001 să se modifice în consecință .</em>
+* <em>Este</em>
+  * [VERB]() 49: <em><b>Este</b> funcționar în cadrul Pactului de Stabilitate , lucrând la Viena .</em>
+  * [PROPN]() 8: <em>( 8 ) <b>Este</b> necesar ca Regulamentul ( CE ) nr. 1148 / 2001 să se modifice în consecință .</em>
+  * [AUX]() 6: <em><b>Este</b> născut în 1962 , căsătorit , are un copil .</em>
+* <em>Dumnezeu</em>
+  * [PROPN]() 7: <em>Am rămas , acolo , bătut de <b>Dumnezeu</b> .</em>
+  * [NOUN]() 1: <em>În sfârșit , a dat <b>Dumnezeu</b> !</em>
+* <em>Totuși</em>
+  * [ADV]() 32: <em><b>Totuși</b> , îl urmă , cu inima de gheață .</em>
+  * [PROPN]() 3: <em>( 12 ) <b>Totuși</b> , ținând cont de informațiile disponibile , trebuie să se limiteze expunerea la estradiol 17β și să se autorizeze numai acele tratamente pentru care nu există alternative eficiente viabile .</em>
+* <em>1876</em>
+  * [PROPN]() 2: <em>Cu numărul 2 , din 26 ianuarie , I. L. Caragiale figurează ca girant responsabil și va păstra această însărcinare până la 12 ianuarie <b>1876</b> .</em>
+  * [NOUN]() 1: <em>Din anul 1870 , el era înlocuit cu Vincențiu Babeș , care va conduce gazeta până la începutul anului <b>1876</b> .</em>
+* <em>1878</em>
+  * [PROPN]() 2: <em>Procesul a fost judecat în februarie <b>1878</b> , iar împricinații eliberați .</em>
+  * [NOUN]() 1: <em>În <b>1878</b> , juriul felibrilor , de la Montpellier , îi decernează , la propunerea poetului Frédéric Mistral , un premiu pentru Cântecul gintei latine .</em>
+* <em>2008</em>
+  * [NOUN]() 2: <em>În <b>2008</b> , orașul va deveni Capitala Mondială a Designului , titlul fiind conferit la Copenhaga de International Council of Societies of Industrial Design .</em>
+  * [PROPN]() 2: <em>Protocolul studiului va fi terminat și depus la EMEA până în Iulie <b>2008</b> .</em>
+* <em>IV</em>
+  * [NUM]() 7: <em>( 5 ) Textul din anexa <b>IV</b> la prezentul protocol se adaugă la ASA și devine anexa <b>IV</b> ( d ) la acesta din urmă .</em>
+  * [PROPN]() 2: <em>Fiecare stat membru prezintă Comisiei , în fiecare an , informațiile cumulate conform anexei <b>IV</b> .</em>
+* <em>Internet</em>
+  * [NOUN]() 3: <em>Slovacia a început să publice pe <b>Internet</b> lista persoanelor care au făcut parte din fosta poliție secretă , în vremea regimului comunist , și dosarele acestora .</em>
+  * [PROPN]() 2: <em>Comisia păstrează toate informațiile referitoare la deciziile de import existente în baza sa de date , care sunt puse la dispoziția publicului pe <b>Internet</b> și oferă oricui informații la cerere .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.157060).
+The form / lemma ratio of `PROPN` is 1.020945 (the average of all parts of speech is 1.736999).
 
-The 1st highest number of forms (1) was observed with the lemma “AB4”: <em>AB4</em>.
+The 1st highest number of forms (3) was observed with the lemma “Banat”: <em>Banat, Banatul, Banatului</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “AG36”: <em>AG36</em>.
+The 2nd highest number of forms (3) was observed with the lemma “Carpați”: <em>Carpați, Carpații, Carpaților</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “AIEA”: <em>AIEA</em>.
+The 3rd highest number of forms (3) was observed with the lemma “Israel”: <em>Israel, Israelul, Israelului</em>.
 
-`PROPN` occurs with 4 features: [ro-feat/Definite]() (54; 12% instances), [ro-feat/Gender]() (54; 12% instances), [ro-feat/Number]() (54; 12% instances), [ro-feat/Case]() (53; 11% instances)
+`PROPN` occurs with 4 features: [ro-feat/Definite]() (155; 4% instances), [ro-feat/Gender]() (155; 4% instances), [ro-feat/Number]() (155; 4% instances), [ro-feat/Case]() (154; 4% instances)
 
-`PROPN` occurs with 8 feature-value pairs: `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`PROPN` occurs with 8 feature-value pairs: `Case=Acc,Nom`, `Case=Dat,Gen`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
-`PROPN` occurs with 9 feature combinations.
-The most frequent feature combination is `_` (408 tokens).
-Examples: <em>România, București, Iași, Nicolina, Moldova, Roman, Arghezi, Copou, Iliescu, Mircea</em>
+`PROPN` occurs with 10 feature combinations.
+The most frequent feature combination is `_` (3739 tokens).
+Examples: <em>Winston, Timișoara, București, CEE, România, O'Brien, 000, Timiș, Ion, Paris</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 22 different relations: [ro-dep/nmod]() (181; 39% instances), [ro-dep/nsubj]() (78; 17% instances), [ro-dep/name]() (66; 14% instances), [ro-dep/conj]() (56; 12% instances), [ro-dep/appos]() (15; 3% instances), [ro-dep/dobj]() (12; 3% instances), [ro-dep/iobj]() (11; 2% instances), [ro-dep/foreign]() (7; 2% instances), [ro-dep/nmod:agent]() (6; 1% instances), [ro-dep/remnant]() (6; 1% instances), [ro-dep/nmod:pmod]() (5; 1% instances), [ro-dep/root]() (4; 1% instances), [ro-dep/amod]() (3; 1% instances), [ro-dep/mwe]() (3; 1% instances), [ro-dep/nsubjpass]() (2; 0% instances), [ro-dep/acl]() (1; 0% instances), [ro-dep/advmod]() (1; 0% instances), [ro-dep/list]() (1; 0% instances), [ro-dep/nmod:tmod]() (1; 0% instances), [ro-dep/parataxis]() (1; 0% instances), [ro-dep/vocative]() (1; 0% instances), [ro-dep/xcomp]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 31 different relations: [ro-dep/nmod]() (1627; 42% instances), [ro-dep/name]() (758; 19% instances), [ro-dep/nsubj]() (528; 14% instances), [ro-dep/conj]() (291; 7% instances), [ro-dep/appos]() (163; 4% instances), [ro-dep/dobj]() (117; 3% instances), [ro-dep/nmod:pmod]() (61; 2% instances), [ro-dep/nsubjpass]() (56; 1% instances), [ro-dep/nmod:agent]() (54; 1% instances), [ro-dep/iobj]() (49; 1% instances), [ro-dep/goeswith]() (30; 1% instances), [ro-dep/foreign]() (25; 1% instances), [ro-dep/mwe]() (22; 1% instances), [ro-dep/parataxis]() (21; 1% instances), [ro-dep/xcomp]() (17; 0% instances), [ro-dep/root]() (15; 0% instances), [ro-dep/remnant]() (12; 0% instances), [ro-dep/amod]() (9; 0% instances), [ro-dep/cop]() (8; 0% instances), [ro-dep/nummod]() (7; 0% instances), [ro-dep/advmod]() (6; 0% instances), [ro-dep/case]() (4; 0% instances), [ro-dep/vocative]() (4; 0% instances), [ro-dep/acl]() (2; 0% instances), [ro-dep/advcl]() (2; 0% instances), [ro-dep/cc]() (1; 0% instances), [ro-dep/ccomp]() (1; 0% instances), [ro-dep/list]() (1; 0% instances), [ro-dep/mark]() (1; 0% instances), [ro-dep/nmod:tmod]() (1; 0% instances), [ro-dep/punct]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 12 different parts of speech: [NOUN]() (204; 44% instances), [VERB]() (117; 25% instances), [PROPN]() (110; 24% instances), [ADJ]() (17; 4% instances), [NUM]() (4; 1% instances), [ROOT]() (4; 1% instances), [ADP]() (1; 0% instances), [AUX]() (1; 0% instances), [CONJ]() (1; 0% instances), [DET]() (1; 0% instances), [PRON]() (1; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `PROPN` nodes belong to 14 different parts of speech: [NOUN]() (1691; 43% instances), [VERB]() (1116; 29% instances), [PROPN]() (892; 23% instances), [ADJ]() (93; 2% instances), [NUM]() (36; 1% instances), [ADV]() (16; 0% instances), [ROOT]() (15; 0% instances), [PRON]() (14; 0% instances), [ADP]() (7; 0% instances), [SYM]() (5; 0% instances), [AUX]() (3; 0% instances), [DET]() (3; 0% instances), [CONJ]() (2; 0% instances), [PUNCT]() (1; 0% instances)
 
-241 (52%) `PROPN` nodes are leaves.
+1897 (49%) `PROPN` nodes are leaves.
 
-135 (29%) `PROPN` nodes have one child.
+1144 (29%) `PROPN` nodes have one child.
 
-35 (8%) `PROPN` nodes have two children.
+422 (11%) `PROPN` nodes have two children.
 
-51 (11%) `PROPN` nodes have three or more children.
+431 (11%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 15.
+The highest child degree of a `PROPN` node is 17.
 
-Children of `PROPN` nodes are attached using 19 different relations: [ro-dep/punct]() (97; 22% instances), [ro-dep/case]() (86; 19% instances), [ro-dep/name]() (74; 16% instances), [ro-dep/conj]() (62; 14% instances), [ro-dep/det]() (37; 8% instances), [ro-dep/cc]() (27; 6% instances), [ro-dep/nmod]() (17; 4% instances), [ro-dep/appos]() (10; 2% instances), [ro-dep/foreign]() (8; 2% instances), [ro-dep/advmod]() (5; 1% instances), [ro-dep/amod]() (5; 1% instances), [ro-dep/remnant]() (5; 1% instances), [ro-dep/nummod]() (4; 1% instances), [ro-dep/list]() (3; 1% instances), [ro-dep/acl]() (2; 0% instances), [ro-dep/cop]() (2; 0% instances), [ro-dep/nsubj]() (2; 0% instances), [ro-dep/parataxis]() (2; 0% instances), [ro-dep/nmod:tmod]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 28 different relations: [ro-dep/case]() (899; 24% instances), [ro-dep/punct]() (796; 22% instances), [ro-dep/name]() (717; 19% instances), [ro-dep/conj]() (308; 8% instances), [ro-dep/det]() (294; 8% instances), [ro-dep/cc]() (160; 4% instances), [ro-dep/nmod]() (138; 4% instances), [ro-dep/appos]() (77; 2% instances), [ro-dep/acl]() (75; 2% instances), [ro-dep/amod]() (63; 2% instances), [ro-dep/advmod]() (39; 1% instances), [ro-dep/foreign]() (31; 1% instances), [ro-dep/parataxis]() (19; 1% instances), [ro-dep/nummod]() (15; 0% instances), [ro-dep/remnant]() (14; 0% instances), [ro-dep/mwe]() (8; 0% instances), [ro-dep/cop]() (7; 0% instances), [ro-dep/goeswith]() (6; 0% instances), [ro-dep/list]() (6; 0% instances), [ro-dep/nsubj]() (5; 0% instances), [ro-dep/aux]() (4; 0% instances), [ro-dep/iobj]() (2; 0% instances), [ro-dep/nmod:pmod]() (2; 0% instances), [ro-dep/advcl]() (1; 0% instances), [ro-dep/cc:preconj]() (1; 0% instances), [ro-dep/csubj]() (1; 0% instances), [ro-dep/dep]() (1; 0% instances), [ro-dep/dobj]() (1; 0% instances)
 
-Children of `PROPN` nodes belong to 14 different parts of speech: [PROPN]() (110; 24% instances), [PUNCT]() (94; 21% instances), [ADP]() (87; 19% instances), [NOUN]() (54; 12% instances), [DET]() (35; 8% instances), [CONJ]() (27; 6% instances), [NUM]() (13; 3% instances), [ADJ]() (9; 2% instances), [VERB]() (6; 1% instances), [ADV]() (5; 1% instances), [PRON]() (3; 1% instances), [SYM]() (3; 1% instances), [X]() (2; 0% instances), [AUX]() (1; 0% instances)
+Children of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (892; 24% instances), [ADP]() (891; 24% instances), [PUNCT]() (778; 21% instances), [NOUN]() (336; 9% instances), [DET]() (295; 8% instances), [CONJ]() (159; 4% instances), [VERB]() (100; 3% instances), [ADJ]() (91; 2% instances), [ADV]() (59; 2% instances), [NUM]() (53; 1% instances), [PRON]() (18; 0% instances), [SYM]() (12; 0% instances), [AUX]() (4; 0% instances), [INTJ]() (1; 0% instances), [X]() (1; 0% instances)
 

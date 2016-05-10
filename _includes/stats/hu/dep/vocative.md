@@ -52,7 +52,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: [hu-pos/
 30	Gyuri	Gyuri	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	31	appos	_	_
 31	fiam	fia	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=1	34	vocative	_	_
 32	,	,	PUNCT	_	_	34	punct	_	_
-33	ne	ne	ADV	_	PronType=Neg	34	neg	_	_
+33	name	ne	ADV	_	PronType=Neg	34	neg	_	_
 34	felejtsd	felejt	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	26	ccomp:obj	_	_
 35	el	el	ADV	_	_	34	compound:preverb	_	_
 36	,	,	PUNCT	_	_	34	punct	_	_

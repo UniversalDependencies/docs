@@ -13,14 +13,14 @@ The 10 most frequent `ADV` types:  <em>myös, niin, vain, nyt, jo, vielä, kuite
 
 The 10 most frequent ambiguous lemmas: <em>niin</em> ([ADV]() 357, [CONJ]() 34, [SCONJ]() 4, [INTJ]() 2), <em>sitten</em> ([ADV]() 217, [ADP]() 51), <em>itse</em> ([PRON]() 165, [ADV]() 119), <em>juuri</em> ([ADV]() 111, [NOUN]() 8), <em>lisäksi</em> ([ADV]() 88, [ADP]() 69), <em>taas</em> ([ADV]() 83, [SCONJ]() 4), <em>muassa</em> ([ADV]() 80, [ADP]() 1), <em>kuten</em> ([ADV]() 72, [SCONJ]() 33, [CONJ]() 4), <em>yli</em> ([ADV]() 71, [ADP]() 19), <em>ennen</em> ([ADP]() 96, [ADV]() 61)
 
-The 10 most frequent ambiguous types:  <em>niin</em> ([ADV]() 290, [CONJ]() 34, [INTJ]() 2, [SCONJ]() 2), <em>sitten</em> ([ADV]() 164, [ADP]() 51), <em>esimerkiksi</em> ([ADV]() 113, [NOUN]() 2), <em>näin</em> ([ADV]() 70, [VERB]() 13), <em>itse</em> ([ADV]() 84, [PRON]() 22), <em>enemmän</em> ([ADV]() 93, [ADJ]() 3), <em>lisäksi</em> ([ADP]() 68, [ADV]() 30), <em>taas</em> ([ADV]() 78, [SCONJ]() 4), <em>muassa</em> ([ADV]() 78, [ADP]() 1), <em>muun</em> ([ADV]() 72, [PRON]() 16)
+The 10 most frequent ambiguous types:  <em>niin</em> ([ADV]() 290, [CONJ]() 34, [SCONJ]() 2, [INTJ]() 2), <em>sitten</em> ([ADV]() 164, [ADP]() 51), <em>esimerkiksi</em> ([ADV]() 113, [NOUN]() 2), <em>näin</em> ([ADV]() 70, [VERB]() 13), <em>itse</em> ([ADV]() 84, [PRON]() 22), <em>enemmän</em> ([ADV]() 93, [ADJ]() 3), <em>lisäksi</em> ([ADP]() 68, [ADV]() 30), <em>taas</em> ([ADV]() 78, [SCONJ]() 4), <em>muassa</em> ([ADV]() 78, [ADP]() 1), <em>muun</em> ([ADV]() 72, [PRON]() 16)
 
 
 * <em>niin</em>
   * [ADV]() 290: <em>Ottakaa minut mukaan , <b>niin</b> saatte luotettavan turvamiehen .</em>
   * [CONJ]() 34: <em>Oman kanavansa saavat <b>niin</b> naiset sekä tv-sarjat että scifin harrastajat .</em>
-  * [INTJ]() 2: <em>Ai <b>niin</b> , meinasi julkinen painostus unohtua :</em>
   * [SCONJ]() 2: <em>Asianajajat tekevät sellaisia sopimuksia , että maksa viisi tonnia , <b>niin</b> järjestän sinut ulos .</em>
+  * [INTJ]() 2: <em>Ai <b>niin</b> , meinasi julkinen painostus unohtua :</em>
 * <em>sitten</em>
   * [ADV]() 164: <em>Yhteen aikaan jaksoinkin tehdä niitä , mutta <b>sitten</b> se vähän unohtui .</em>
   * [ADP]() 51: <em>He keskustelivat joku aika <b>sitten</b> ( kesällä ) arkiromantiikasta .</em>
@@ -94,87 +94,89 @@ Children of `ADV` nodes belong to 14 different parts of speech: [ADV]() (1181; 3
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 1554 `ADV` lemmas (7%), 1975 `ADV` types (4%) and 15953 `ADV` tokens (10%).
-Out of 14 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 4 in number of tokens.
+There are 1370 `ADV` lemmas (6%), 1699 `ADV` types (4%) and 10204 `ADV` tokens (6%).
+Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>niin, nyt, sitten, jo, myös, vielä, vain, kyllä, aina, ihan</em>
+The 10 most frequent `ADV` lemmas: <em>nyt, sitten, aina, siellä, paljon, täällä, hyvin, miten, vähän, niin</em>
 
-The 10 most frequent `ADV` types:  <em>niin, nyt, jo, myös, vielä, vain, sitten, kyllä, aina, ihan</em>
+The 10 most frequent `ADV` types:  <em>nyt, aina, paljon, siellä, täällä, hyvin, miten, niin, vähän, sitten</em>
 
-The 10 most frequent ambiguous lemmas: <em>sitten</em> ([ADV]() 394, [ADP]() 58), <em>jo</em> ([ADV]() 348, [PROPN]() 1), <em>juuri</em> ([ADV]() 99, [NOUN]() 8), <em>vaan</em> ([CONJ]() 126, [ADV]() 87), <em>kai</em> ([ADV]() 75, [PROPN]() 1), <em>ennen</em> ([ADP]() 81, [ADV]() 73), <em>mukaan</em> ([ADP]() 147, [ADV]() 73), <em>yli</em> ([ADV]() 73, [ADP]() 31), <em>vaikka</em> ([SCONJ]() 207, [ADV]() 72, [CONJ]() 4), <em>aika</em> ([NOUN]() 330, [ADV]() 64)
+The 10 most frequent ambiguous lemmas: <em>nyt</em> ([ADV]() 479, [PART]() 125), <em>sitten</em> ([ADV]() 260, [PART]() 133, [ADP]() 58), <em>aina</em> ([ADV]() 204, [PART]() 2), <em>niin</em> ([PART]() 635, [ADV]() 154), <em>siinä</em> ([ADV]() 90, [PART]() 5), <em>taas</em> ([ADV]() 83, [PART]() 32), <em>yli</em> ([ADV]() 75, [ADP]() 29), <em>ennen</em> ([ADP]() 81, [ADV]() 73), <em>mukaan</em> ([ADP]() 147, [ADV]() 73), <em>näin</em> ([ADV]() 63, [PART]() 28)
 
-The 10 most frequent ambiguous types:  <em>sitten</em> ([ADV]() 197, [ADP]() 57), <em>juuri</em> ([ADV]() 93, [VERB]() 1), <em>sit</em> ([ADV]() 80, [PRON]() 1), <em>tässä</em> ([ADV]() 62, [DET]() 47, [PRON]() 1), <em>siinä</em> ([PRON]() 72, [ADV]() 67, [DET]() 22), <em>näin</em> ([ADV]() 63, [VERB]() 9), <em>vaan</em> ([CONJ]() 126, [ADV]() 74), <em>yli</em> ([ADV]() 68, [ADP]() 31), <em>sitte</em> ([ADV]() 66, [ADP]() 1), <em>miksi</em> ([ADV]() 32, [PRON]() 2)
+The 10 most frequent ambiguous types:  <em>nyt</em> ([ADV]() 338, [PART]() 118), <em>aina</em> ([ADV]() 184, [PART]() 2), <em>niin</em> ([PART]() 454, [ADV]() 137), <em>sitten</em> ([ADV]() 99, [PART]() 98, [ADP]() 57), <em>sit</em> ([ADV]() 79, [PRON]() 1), <em>tässä</em> ([ADV]() 62, [DET]() 47, [PRON]() 1), <em>taas</em> ([ADV]() 76, [PART]() 32), <em>siinä</em> ([PRON]() 71, [ADV]() 62, [DET]() 23, [PART]() 4), <em>yli</em> ([ADV]() 70, [ADP]() 29), <em>miksi</em> ([ADV]() 32, [PRON]() 2)
 
 
+* <em>nyt</em>
+  * [ADV]() 338: <em>Kun asiakkaalta ennen kysyttiin montako tonnia tavaraa tarvitset , <b>nyt</b></em>
+  * [PART]() 118: <em>Johan <b>nyt</b> jotakin .</em>
+* <em>aina</em>
+  * [ADV]() 184: <em>Sipuli on täällä <b>aina</b> voissa paistettua .</em>
+  * [PART]() 2: <em>Olemme matkustaneet incognito Ranskan halki <b>aina</b> Nizzaan saakka .</em>
+* <em>niin</em>
+  * [PART]() 454: <em>Heti kun laulan hieman rokimpaa <b>niin</b> sen kuulee .</em>
+  * [ADV]() 137: <em>Sanoiko hän <b>niin</b> ?</em>
 * <em>sitten</em>
-  * [ADV]() 197: <em>Se on <b>sitten</b> hauska toi meidän äiti</em>
+  * [ADV]() 99: <em>Sait sä <b>sitten</b> tehtyä sen työn ajoissa ?</em>
+  * [PART]() 98: <em>Nyt olisikin <b>sitten</b> pitänyt olla ruista kaikilla pelloilla .</em>
   * [ADP]() 57: <em>Ajatus innosti minua tasan yhtä vähän kuin pari kuukautta <b>sitten</b> .</em>
-* <em>juuri</em>
-  * [ADV]() 93: <em>Johtaja oli sattunut olemaan <b>juuri</b> silloin paikalla .</em>
-  * [VERB]() 1: <em>Yksi näistä on Rankin tutkimuksen mukaan <b>juuri</b> aids-virus .</em>
 * <em>sit</em>
-  * [ADV]() 80: <em>Mä sanoin että no mitenkä sä oot sinne joutunut kerran <b>sit</b> kysyin .</em>
+  * [ADV]() 79: <em>no <b>sit</b> yks toinen kaveri lähti armeijaan ja me oltiin sovittu .</em>
   * [PRON]() 1: <em>Lohi oli niin iso , että ei puuram puntar ottan <b>sit</b> eteheh .</em>
 * <em>tässä</em>
   * [ADV]() 62: <em>Olkoot nämä <b>tässä</b> vähän aikaa .</em>
-  * [DET]() 47: <em>Suomi on <b>tässä</b> suhteessa yksi Euroopan kärkimaista .</em>
+  * [DET]() 47: <em>Äidin vatsalihakset treenaantuvat <b>tässä</b> liikkeessä .</em>
   * [PRON]() 1: <em>- Moonahan <b>tässä</b> asiantuntija on .</em>
+* <em>taas</em>
+  * [ADV]() 76: <em>Sitten hinnat romahtivat ja nyt ne näyttävät <b>taas</b> kipuavan .</em>
+  * [PART]() 32: <em>Minulla <b>taas</b> voi mennä kova karkki henkitorveen .</em>
 * <em>siinä</em>
-  * [PRON]() 72: <em>Miehellä on <b>siinä</b> nimi .</em>
-  * [ADV]() 67: <em>On <b>siinä</b> mulla kanssa ystävä</em>
-  * [DET]() 22: <em>Kai <b>siinä</b> väitteessä jotain perääkin on , tuskin se ilmasta on poimittu .</em>
-* <em>näin</em>
-  * [ADV]() 63: <em>Leikkaa <b>näin</b> kortin yläreunan lähelle saakka .</em>
-  * [VERB]() 9: <em>Loppumetreillä <b>näin</b> , että olin voittamassa .</em>
-* <em>vaan</em>
-  * [CONJ]() 126: <em>En minä sitä ostanut <b>vaan</b> tämän .</em>
-  * [ADV]() 74: <em>Älä <b>vaan</b> tätä ota , se sanoi ja naputti veitsellään lautasta .</em>
+  * [PRON]() 71: <em>ku <b>siinä</b> pitäs olla nyt eiku hetkinen .</em>
+  * [ADV]() 62: <em>mittee työ <b>siinä</b> seisotta</em>
+  * [DET]() 23: <em>Jos hinta putoaa , niin <b>siinä</b> tapauksessa minä ostan kirjan .</em>
+  * [PART]() 4: <em>Pääsen tulemaan <b>siinä</b> viiden maissa .</em>
 * <em>yli</em>
-  * [ADV]() 68: <em>Mut kello on viistoista <b>yli</b> .</em>
-  * [ADP]() 31: <em>Cardus syöksyi ajovirheen tehneen Kocinskin edellä maalilinjan <b>yli</b> .</em>
-* <em>sitte</em>
-  * [ADV]() 66: <em>Rämpytä nyt niitä valoja siinä <b>sitte</b> !</em>
-  * [ADP]() 1: <em>Ja sitte hänellä on sellanen kolleega kun Saara Moilanen Turtola joka suunnillee vuos <b>sitte</b> väitteliki tästä asiasta</em>
+  * [ADV]() 70: <em><b>yli</b> kuusi vuotta kestänyt Iranin ja Irakin välinen verinen sota</em>
+  * [ADP]() 29: <em>Cardus syöksyi ajovirheen tehneen Kocinskin edellä maalilinjan <b>yli</b> .</em>
 * <em>miksi</em>
   * [ADV]() 32: <em>Ja <b>miksi</b> olen kauttaaltaan jäässä ?</em>
   * [PRON]() 2: <em>Olen jo se , <b>miksi</b> halusin tulla .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.270914 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `ADV` is 1.240146 (the average of all parts of speech is 2.044212).
 
 The 1st highest number of forms (11) was observed with the lemma “siellä”: <em>Sielki, Siellähän, siel, siell, siellä, sielläkin, sielläkö, sielä, siäl, siälä, siäläh</em>.
 
-The 2nd highest number of forms (9) was observed with the lemma “kyllä”: <em>Kylläpä, kyl, kylhän, kyllä, kyllähän, kylläkin, kylläkään, kylläpäs, kylä</em>.
+The 2nd highest number of forms (9) was observed with the lemma “täällä”: <em>Täällähän, Täälläkin, tiällä, tääl, tääll, täällä, täälläkään, täälä, tääläk</em>.
 
-The 3rd highest number of forms (9) was observed with the lemma “täällä”: <em>Täällähän, Täälläkin, tiällä, tääl, tääll, täällä, täälläkään, täälä, tääläk</em>.
+The 3rd highest number of forms (8) was observed with the lemma “miksi”: <em>Miksikähän, Miksikö, Miksiköhän, Mix, miks, miksi, miksihän, miksipä</em>.
 
-`ADV` occurs with 6 features: [fi-feat/PronType]() (1988; 12% instances), [fi-feat/Degree]() (463; 3% instances), [fi-feat/Person[psor]]() (430; 3% instances), [fi-feat/Clitic]() (340; 2% instances), [fi-feat/Number[psor]]() (103; 1% instances), [fi-feat/Abbr]() (96; 1% instances)
+`ADV` occurs with 6 features: [fi-feat/PronType]() (2320; 23% instances), [fi-feat/Style]() (518; 5% instances), [fi-feat/Degree]() (460; 5% instances), [fi-feat/Person[psor]]() (430; 4% instances), [fi-feat/Clitic]() (220; 2% instances), [fi-feat/Number[psor]]() (103; 1% instances)
 
-`ADV` occurs with 23 feature-value pairs: `Abbr=Yes`, `Clitic=Han`, `Clitic=Han,Ka`, `Clitic=Han,Ko`, `Clitic=Ka`, `Clitic=Ka,S`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Clitic=Pa,S`, `Clitic=S`, `Degree=Cmp`, `Degree=Sup`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`
+`ADV` occurs with 23 feature-value pairs: `Clitic=Han`, `Clitic=Han,Ka`, `Clitic=Han,Ko`, `Clitic=Ka`, `Clitic=Ka,S`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Clitic=S`, `Degree=Cmp`, `Degree=Sup`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `Style=Coll`
 
-`ADV` occurs with 40 feature combinations.
-The most frequent feature combination is `_` (12744 tokens).
-Examples: <em>nyt, niin, jo, myös, vielä, vain, sitten, kyllä, aina, ihan</em>
+`ADV` occurs with 62 feature combinations.
+The most frequent feature combination is `_` (6632 tokens).
+Examples: <em>nyt, aina, paljon, hyvin, vähän, sitten, pois, liian, oikein, heti</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 7 different relations: [fi-dep/advmod]() (14402; 90% instances), [fi-dep/dep]() (1011; 6% instances), [fi-dep/compound]() (192; 1% instances), [fi-dep/conj]() (188; 1% instances), [fi-dep/root]() (132; 1% instances), [fi-dep/advcl:compar]() (25; 0% instances), [fi-dep/ccomp]() (3; 0% instances)
+`ADV` nodes are attached to their parents using 12 different relations: [fi-dep/advmod]() (9274; 91% instances), [fi-dep/mark]() (238; 2% instances), [fi-dep/compound:prt]() (191; 2% instances), [fi-dep/conj]() (163; 2% instances), [fi-dep/root]() (91; 1% instances), [fi-dep/mwe]() (86; 1% instances), [fi-dep/expl]() (74; 1% instances), [fi-dep/dep]() (40; 0% instances), [fi-dep/advcl]() (34; 0% instances), [fi-dep/nmod]() (9; 0% instances), [fi-dep/acl]() (3; 0% instances), [fi-dep/ccomp]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 15 different parts of speech: [VERB]() (10180; 64% instances), [NOUN]() (1776; 11% instances), [ADJ]() (1557; 10% instances), [ADV]() (1112; 7% instances), [NUM]() (359; 2% instances), [PRON]() (281; 2% instances), [SCONJ]() (205; 1% instances), [PROPN]() (180; 1% instances), [ROOT]() (132; 1% instances), [DET]() (109; 1% instances), [ADP]() (33; 0% instances), [CONJ]() (15; 0% instances), [INTJ]() (7; 0% instances), [X]() (6; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `ADV` nodes belong to 15 different parts of speech: [VERB]() (7595; 74% instances), [NOUN]() (883; 9% instances), [ADJ]() (762; 7% instances), [ADV]() (496; 5% instances), [PRON]() (112; 1% instances), [NUM]() (93; 1% instances), [ROOT]() (91; 1% instances), [PROPN]() (84; 1% instances), [DET]() (26; 0% instances), [PART]() (25; 0% instances), [ADP]() (23; 0% instances), [SCONJ]() (6; 0% instances), [X]() (4; 0% instances), [INTJ]() (3; 0% instances), [PUNCT]() (1; 0% instances)
 
-12320 (77%) `ADV` nodes are leaves.
+6902 (68%) `ADV` nodes are leaves.
 
-2868 (18%) `ADV` nodes have one child.
+2573 (25%) `ADV` nodes have one child.
 
-629 (4%) `ADV` nodes have two children.
+595 (6%) `ADV` nodes have two children.
 
-136 (1%) `ADV` nodes have three or more children.
+134 (1%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 10.
 
-Children of `ADV` nodes are attached using 20 different relations: [fi-dep/punct]() (2428; 53% instances), [fi-dep/advmod]() (856; 19% instances), [fi-dep/nmod]() (269; 6% instances), [fi-dep/conj]() (202; 4% instances), [fi-dep/dep]() (191; 4% instances), [fi-dep/advcl:compar]() (148; 3% instances), [fi-dep/cc]() (148; 3% instances), [fi-dep/acl]() (111; 2% instances), [fi-dep/amod]() (81; 2% instances), [fi-dep/det]() (47; 1% instances), [fi-dep/mark:comparator]() (25; 1% instances), [fi-dep/mark]() (24; 1% instances), [fi-dep/nummod]() (20; 0% instances), [fi-dep/case]() (11; 0% instances), [fi-dep/nsubj]() (10; 0% instances), [fi-dep/cop]() (9; 0% instances), [fi-dep/dobj]() (5; 0% instances), [fi-dep/vocative]() (5; 0% instances), [fi-dep/neg]() (3; 0% instances), [fi-dep/aux]() (1; 0% instances)
+Children of `ADV` nodes are attached using 21 different relations: [fi-dep/punct]() (2084; 49% instances), [fi-dep/advmod]() (826; 20% instances), [fi-dep/nmod]() (266; 6% instances), [fi-dep/mwe]() (230; 5% instances), [fi-dep/conj]() (174; 4% instances), [fi-dep/advcl]() (146; 3% instances), [fi-dep/cc]() (137; 3% instances), [fi-dep/acl]() (125; 3% instances), [fi-dep/amod]() (79; 2% instances), [fi-dep/mark]() (63; 1% instances), [fi-dep/det]() (42; 1% instances), [fi-dep/nummod]() (11; 0% instances), [fi-dep/case]() (10; 0% instances), [fi-dep/dep]() (5; 0% instances), [fi-dep/dobj]() (5; 0% instances), [fi-dep/cop]() (4; 0% instances), [fi-dep/neg]() (4; 0% instances), [fi-dep/discourse]() (3; 0% instances), [fi-dep/nsubj]() (3; 0% instances), [fi-dep/nsubj:cop]() (3; 0% instances), [fi-dep/vocative]() (2; 0% instances)
 
-Children of `ADV` nodes belong to 14 different parts of speech: [PUNCT]() (2428; 53% instances), [ADV]() (1112; 24% instances), [NOUN]() (363; 8% instances), [VERB]() (176; 4% instances), [CONJ]() (156; 3% instances), [ADJ]() (110; 2% instances), [SCONJ]() (61; 1% instances), [PRON]() (53; 1% instances), [DET]() (47; 1% instances), [PROPN]() (36; 1% instances), [NUM]() (21; 0% instances), [INTJ]() (19; 0% instances), [ADP]() (11; 0% instances), [X]() (1; 0% instances)
+Children of `ADV` nodes belong to 15 different parts of speech: [PUNCT]() (2084; 49% instances), [PART]() (524; 12% instances), [ADV]() (496; 12% instances), [NOUN]() (343; 8% instances), [SCONJ]() (201; 5% instances), [VERB]() (188; 4% instances), [CONJ]() (139; 3% instances), [ADJ]() (114; 3% instances), [DET]() (42; 1% instances), [PROPN]() (34; 1% instances), [PRON]() (32; 1% instances), [NUM]() (11; 0% instances), [ADP]() (10; 0% instances), [INTJ]() (3; 0% instances), [X]() (1; 0% instances)
 

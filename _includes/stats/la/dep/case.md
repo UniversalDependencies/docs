@@ -73,35 +73,16 @@ The following 19 pairs of parts of speech are connected with `case`: [la-pos/NOU
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-21531 nodes (8%) are attached to their parents as `case`.
+24197 nodes (8%) are attached to their parents as `case`.
 
-21094 instances of `case` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21253076958804.
+23769 instances of `case` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2186221432409.
 
-The following 14 pairs of parts of speech are connected with `case`: [la-pos/NOUN]()-[la-pos/ADP]() (14315; 66% instances), [la-pos/PRON]()-[la-pos/ADP]() (4728; 22% instances), [la-pos/ADJ]()-[la-pos/ADP]() (1423; 7% instances), [la-pos/ADV]()-[la-pos/ADP]() (434; 2% instances), [la-pos/NUM]()-[la-pos/ADP]() (375; 2% instances), [la-pos/X]()-[la-pos/ADP]() (121; 1% instances), [la-pos/DET]()-[la-pos/ADP]() (88; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (22; 0% instances), [la-pos/PRON]()-[la-pos/ADV]() (11; 0% instances), [la-pos/NUM]()-[la-pos/ADV]() (5; 0% instances), [la-pos/ADJ]()-[la-pos/ADV]() (4; 0% instances), [la-pos/ADP]()-[la-pos/ADP]() (2; 0% instances), [la-pos/CONJ]()-[la-pos/ADP]() (2; 0% instances), [la-pos/PRON]()-[la-pos/NOUN]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 case	color:blue
-1	voluntatem	voluntas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
-2	vero	verus	ADJ	B1|grn1|casG|vgr1	Case=Loc|Degree=Pos|Number=Sing	1	dep	_	_
-3	intellectu	intellectus	NOUN	D1|grn1|casF|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	1	dep	_	_
-4	per	per	ADP	S4	AdpType=Prep	5	case	_	_
-5	accidens	accidens	NOUN	C1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	dep	_	_
-6	et	et	CONJ	O4	_	1	cc	_	_
-7	secundum	secundum	ADP	S4	AdpType=Prep	8	case	_	_
-8	quid	quis	PRON	F1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind,Int	6	dep	_	_
-9	.	.	PUNCT	Punc	_	1	punct	_	_
-
-~~~
+The following 11 pairs of parts of speech are connected with `case`: [la-pos/NOUN]()-[la-pos/ADP]() (15260; 63% instances), [la-pos/PRON]()-[la-pos/ADP]() (5455; 23% instances), [la-pos/ADJ]()-[la-pos/ADP]() (1608; 7% instances), [la-pos/PROPN]()-[la-pos/ADP]() (767; 3% instances), [la-pos/ADV]()-[la-pos/ADP]() (538; 2% instances), [la-pos/NUM]()-[la-pos/ADP]() (429; 2% instances), [la-pos/X]()-[la-pos/ADP]() (134; 1% instances), [la-pos/ADP]()-[la-pos/ADP]() (2; 0% instances), [la-pos/CONJ]()-[la-pos/ADP]() (2; 0% instances), [la-pos/DET]()-[la-pos/ADP]() (1; 0% instances), [la-pos/PUNCT]()-[la-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -110,36 +91,57 @@ The following 14 pairs of parts of speech are connected with `case`: [la-pos/NOU
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 case	color:blue
-1	nam	nam	ADV	O4	_	7	advmod:emph	_	_
-2	primo	primus	ADJ	B1|grn1|casG	Case=Loc|Degree=Pos|Number=Sing|NumType=Ord	7	advmod	_	_
-3	et	et	CONJ	O4	_	2	cc	_	_
-4	per	per	ADP	S4	AdpType=Prep	5	case	_	_
-5	se	sui	PRON	F1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Prs|Reflex=Yes	2	nmod	_	_
-6	intellectus	intellectus	NOUN	D1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
-7	movet	moveo	VERB	K3|modA|tem1|gen6|vgr1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-8	voluntatem	voluntas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	dobj	_	_
-9	:	:	PUNCT	Punc	_	7	punct	_	_
+1	et	et	CONJ	O4|stRL	_	2	cc	_	_
+2	simile	similis	ADJ	C1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+3	apparet	appareo	VERB	K3|modA|tem1|gen6|stAC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	in	in	ADP	S4|stRL	AdpType=Prep	5	case	_	_
+5	arte	ars	NOUN	C1|grn1|casF|gen2|stAE	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	2	nmod	_	_
+6	gubernatoria	gubernatorius	ADJ	A1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+7	respectu	respectus	NOUN	D1|grn1|casF|gen1|stAC	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	2	nmod	_	_
+8	navifactivae	navifactivus	ADJ	A1|grn1|casB|gen2|vgr1|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+9	;	;	PUNCT	Punc	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 case	color:blue
-1	unde	unde	ADV	O4	_	4	cc	_	_
-2	et	et	CONJ	O4	_	3	advmod:emph	_	_
-3	magis	magis	ADV	O4	_	4	advmod	_	_
-4	gaudent	gaudeo	VERB	K3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	homines	homo	NOUN	C1|grn1|casJ|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	nsubj	_	_
-6	a	a	ADP	S4|vgr1	AdpType=Prep	7	case	_	_
-7	magnis	magnus	ADJ	B1|grn1|casO|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	10	dobj	_	_
-8	et	et	CONJ	O4	_	7	cc	_	_
-9	sapientibus	sapiens	ADJ	C1|grn1|casO|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	7	conj	_	_
-10	honorari	honoro	VERB	J3|modQ|tem1	Tense=Pres|VerbForm=Inf|Voice=Pass	4	xcomp	_	_
-11	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 case	color:blue
+1	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	autem	autem	CONJ	O4|stRL	_	1	cc	_	_
+3	in	in	ADP	S4|stRL	AdpType=Prep	4	case	_	_
+4	his	hic	PRON	F1|grn1|casO|gen3|vgr1|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur|PronType=Dem	1	nmod	_	_
+5	quae	qui	PRON	F1|grn1|casM|gen3|vgr1|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|PronType=Rel	8	dobj	_	_
+6	de	de	ADP	S4|stRL	AdpType=Prep	7	case	_	_
+7	deo	deus	PROPN	F1|grn1|casF|gen1|stNP	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	8	nmod	_	_
+8	confitemur	confiteor	VERB	K3|modJ|tem1|gen7|stAE	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl	_	_
+9	duplex	duplex	ADJ	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	veritatis	veritas	NOUN	C1|grn1|casB|gen2|vgr1|stAC	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	nmod	_	_
+11	modus	modus	NOUN	B1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	nsubj	_	_
+12	.	.	PUNCT	Punc	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 case	color:blue
+1	et	et	CONJ	O4|stRL	_	3	cc	_	_
+2	in	in	ADP	S4|stRL	AdpType=Prep	3	case	_	_
+3	militari	militaris	ADJ	C1|grn1|casF|gen2|stAM	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+4	respectu	respectus	NOUN	D1|grn1|casF|gen1|stAC	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	_
+5	equestris	equester	ADJ	C1|grn1|casB|gen2|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+6	et	et	CONJ	O4|stRL	_	5	cc	_	_
+7	omnis	omnis	DET	C1|grn1|casB|gen1|stPV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+8	bellici	bellicus	ADJ	B1|grn1|casB|gen1|stAM	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	apparatus	apparatus	NOUN	D1|grn1|casB|gen1|stRS	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	_
+10	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 

@@ -9,9 +9,9 @@ This relation is universal.
 22075 nodes (14%) are attached to their parents as `punct`.
 
 15338 instances of `punct` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.15175537938845.
+Average distance between parent and child is 6.11465458663647.
 
-The following 14 pairs of parts of speech are connected with `punct`: [bg-pos/VERB]()-[bg-pos/PUNCT]() (15513; 70% instances), [bg-pos/NOUN]()-[bg-pos/PUNCT]() (2455; 11% instances), [bg-pos/PROPN]()-[bg-pos/PUNCT]() (2336; 11% instances), [bg-pos/ADJ]()-[bg-pos/PUNCT]() (687; 3% instances), [bg-pos/CONJ]()-[bg-pos/PUNCT]() (582; 3% instances), [bg-pos/ADV]()-[bg-pos/PUNCT]() (217; 1% instances), [bg-pos/INTJ]()-[bg-pos/PUNCT]() (104; 0% instances), [bg-pos/PART]()-[bg-pos/PUNCT]() (70; 0% instances), [bg-pos/NUM]()-[bg-pos/PUNCT]() (44; 0% instances), [bg-pos/PRON]()-[bg-pos/PUNCT]() (38; 0% instances), [bg-pos/DET]()-[bg-pos/PUNCT]() (21; 0% instances), [bg-pos/SCONJ]()-[bg-pos/PUNCT]() (3; 0% instances), [bg-pos/X]()-[bg-pos/PUNCT]() (3; 0% instances), [bg-pos/ADP]()-[bg-pos/PUNCT]() (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: [bg-pos/VERB]()-[bg-pos/PUNCT]() (13644; 62% instances), [bg-pos/NOUN]()-[bg-pos/PUNCT]() (3441; 16% instances), [bg-pos/PROPN]()-[bg-pos/PUNCT]() (2365; 11% instances), [bg-pos/ADJ]()-[bg-pos/PUNCT]() (1228; 6% instances), [bg-pos/CONJ]()-[bg-pos/PUNCT]() (582; 3% instances), [bg-pos/ADV]()-[bg-pos/PUNCT]() (464; 2% instances), [bg-pos/INTJ]()-[bg-pos/PUNCT]() (104; 0% instances), [bg-pos/PRON]()-[bg-pos/PUNCT]() (101; 0% instances), [bg-pos/PART]()-[bg-pos/PUNCT]() (70; 0% instances), [bg-pos/NUM]()-[bg-pos/PUNCT]() (44; 0% instances), [bg-pos/DET]()-[bg-pos/PUNCT]() (24; 0% instances), [bg-pos/SCONJ]()-[bg-pos/PUNCT]() (3; 0% instances), [bg-pos/X]()-[bg-pos/PUNCT]() (3; 0% instances), [bg-pos/ADP]()-[bg-pos/PUNCT]() (2; 0% instances).
 
 
 ~~~ conllu
@@ -31,21 +31,16 @@ The following 14 pairs of parts of speech are connected with `punct`: [bg-pos/VE
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 punct	color:blue
-1	При	при	ADP	R	_	2	case	_	_
-2	стареца	старец	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	4	iobj	_	_
-3	бе	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
-4	останала	остана	VERB	Vppicao-sfi	Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	Христина	христина	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	_
-6	,	,	PUNCT	punct	_	9	punct	_	_
-7	хубавата	хубав	ADJ	Afsd	Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
-8	му	мой	PRON	Psot--3--m	Person=3|Poss=Yes|PronType=Prs	7	case	_	_
-9	внучка	внучка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	nmod	_	_
-10	.	.	PUNCT	punct	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 punct	color:blue
+1	Страх	страх	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	dobj	_	_
+4	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
 
 ~~~
 

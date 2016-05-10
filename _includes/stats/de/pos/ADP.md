@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>in, von, mit, zu, an, auf, für, als, nac
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 53291, [PUNCT]() 39056, [DET]() 37037, [ADP]() 32362, [PROPN]() 32323, [VERB]() 25041, [ADJ]() 21279, [PRON]() 15077, [ADV]() 14911, [CONJ]() 8938, [NUM]() 7632, [AUX]() 6913, [PART]() 2202, [SCONJ]() 1810, [X]() 370)
 
-The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 6818, [PROPN]() 36, [NOUN]() 2, [PRON]() 2), <em>von</em> ([ADP]() 3342, [PROPN]() 209), <em>mit</em> ([ADP]() 2187, [ADV]() 9, [PROPN]() 2, [PART]() 1), <em>zu</em> ([ADP]() 2121, [PART]() 1021, [ADV]() 61, [PROPN]() 24, [ADJ]() 1), <em>an</em> ([ADP]() 1814, [PROPN]() 24, [PART]() 8, [NOUN]() 1, [ADV]() 1, [DET]() 1), <em>auf</em> ([ADP]() 1606, [NOUN]() 1, [PART]() 1, [ADJ]() 1), <em>für</em> ([ADP]() 1467, [PROPN]() 64, [NOUN]() 3, [ADV]() 2, [ADJ]() 1), <em>als</em> ([ADP]() 1288, [CONJ]() 123, [SCONJ]() 86, [ADV]() 17, [PROPN]() 1, [PART]() 1), <em>nach</em> ([ADP]() 918, [ADV]() 11, [PROPN]() 1, [SCONJ]() 1), <em>aus</em> ([ADP]() 990, [PART]() 9, [ADV]() 4)
+The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 6818, [PROPN]() 36, [NOUN]() 2, [PRON]() 2), <em>von</em> ([ADP]() 3342, [PROPN]() 209), <em>mit</em> ([ADP]() 2187, [ADV]() 9, [PROPN]() 2, [PART]() 1), <em>zu</em> ([ADP]() 2121, [PART]() 1021, [ADV]() 61, [PROPN]() 24, [ADJ]() 1), <em>an</em> ([ADP]() 1814, [PROPN]() 24, [PART]() 8, [NOUN]() 1, [DET]() 1, [ADV]() 1), <em>auf</em> ([ADP]() 1606, [NOUN]() 1, [ADJ]() 1, [PART]() 1), <em>für</em> ([ADP]() 1467, [PROPN]() 64, [NOUN]() 3, [ADV]() 2, [ADJ]() 1), <em>als</em> ([ADP]() 1288, [CONJ]() 123, [SCONJ]() 86, [ADV]() 17, [PART]() 1, [PROPN]() 1), <em>nach</em> ([ADP]() 918, [ADV]() 11, [SCONJ]() 1, [PROPN]() 1), <em>aus</em> ([ADP]() 990, [PART]() 9, [ADV]() 4)
 
 
 * <em>in</em>
@@ -40,13 +40,13 @@ The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 6818, [PROPN]() 36, 
   * [PROPN]() 24: <em>Nie wieder in das " Hotel <b>an</b> dem Rathaus " !</em>
   * [PART]() 8: <em>Oktober 1908 eine Wahlreform in dem Königreich Preußen <b>an</b> .</em>
   * [NOUN]() 1: <em>Dabei werden die abzudichtenden Bauteile automatisiert <b>an</b> - und abtransportiert ( es ist auch ein umgekehrter Aufbau möglich , bei dem die Düse mit dem Dichtmaterial fest montiert ist und die Bauteile geführt werden ) .</em>
-  * [ADV]() 1: <em>Die Telekom stellt von sofort <b>an</b> alle ausländischen Ansagedienste wieder auf Handvermittlung um .</em>
   * [DET]() 1: <em>FDP werde sich <b>an</b> weiteren Verhandlungen über die Kostendeckung nicht beteiligen .</em>
+  * [ADV]() 1: <em>Die Telekom stellt von sofort <b>an</b> alle ausländischen Ansagedienste wieder auf Handvermittlung um .</em>
 * <em>auf</em>
   * [ADP]() 1606: <em>Ich freu mich <b>auf</b> meinen nächsten Besuch in dem Winter !</em>
   * [NOUN]() 1: <em>Dennoch konnte er in der darauffolgenden Spielzeit nicht den Abstieg des Teams von Celta de Vigo verhindern , mit dem er danach nochmals <b>auf</b> - und wieder abstieg .</em>
-  * [PART]() 1: <em>20 % der Fälle <b>auf</b> und geht mit einer mittleren Prothesenstandzeit von 3,2 Jahren einher .</em>
   * [ADJ]() 1: <em>Bis um vier <b>auf</b> ?</em>
+  * [PART]() 1: <em>20 % der Fälle <b>auf</b> und geht mit einer mittleren Prothesenstandzeit von 3,2 Jahren einher .</em>
 * <em>für</em>
   * [ADP]() 1467: <em>Es war <b>für</b> mich Ausgangspunkt zu einer Parfümkreation .</em>
   * [PROPN]() 64: <em>1985 übernahm er eine Rolle in dem Film Was <b>für</b> ein Genie .</em>
@@ -58,13 +58,13 @@ The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 6818, [PROPN]() 36, 
   * [CONJ]() 123: <em>Ganz anders <b>als</b> in Zepernick .</em>
   * [SCONJ]() 86: <em>Das Hotel sah aus <b>als</b> wäre es kurz davor abgerissen zu werden .</em>
   * [ADV]() 17: <em>Noch nie habe ich so schlechte Service gehabt <b>als</b> bei Biotopia .</em>
-  * [PROPN]() 1: <em>Die daraus entstandene Legende diente als Vorlage für das 1927 von dem lettischen Schriftsteller Jānis Rainis veröffentlichte Drama " Die Liebe ist stärker <b>als</b> der Tod " , diese ist in dem ganzen Land bekannt .</em>
   * [PART]() 1: <em>Hierbei variiert die Mächtigkeit der Gänge zwischen wenigen Millimetern bis zu mehr <b>als</b> 100 Metern .</em>
+  * [PROPN]() 1: <em>Die daraus entstandene Legende diente als Vorlage für das 1927 von dem lettischen Schriftsteller Jānis Rainis veröffentlichte Drama " Die Liebe ist stärker <b>als</b> der Tod " , diese ist in dem ganzen Land bekannt .</em>
 * <em>nach</em>
   * [ADP]() 918: <em>Kein Vergleich mit der Praxis in der ich jetzt bin <b>nach</b> meinem Umzug .</em>
   * [ADV]() 11: <em>Produziert wird <b>nach</b> wie vor in Würzburg .</em>
-  * [PROPN]() 1: <em>In dem Jahr darauf ( 1971 ) erschien die umfangreiche Erstveröffentlichung des Ökumenischen Verzeichnisses der biblischen Eigennamen <b>nach</b> den Loccumer Richtlinien ( ÖVBE ) .</em>
   * [SCONJ]() 1: <em>Meine Augen haben noch nach Stunden gebrannt <b>nach</b> dem ich die Wimpern gefärbt bekommen habe .</em>
+  * [PROPN]() 1: <em>In dem Jahr darauf ( 1971 ) erschien die umfangreiche Erstveröffentlichung des Ökumenischen Verzeichnisses der biblischen Eigennamen <b>nach</b> den Loccumer Richtlinien ( ÖVBE ) .</em>
 * <em>aus</em>
   * [ADP]() 990: <em>Ein Kompliment von hier <b>aus</b> nochmal an den Koch !</em>
   * [PART]() 9: <em>Fahrzeuge wie PKW oder LKW können direkt von dem Boden <b>aus</b> in den Laderaum fahren .</em>

@@ -9,7 +9,7 @@ This relation is universal.
 26 nodes (0%) are attached to their parents as `csubj`.
 
 26 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.61538461538462.
+Average distance between parent and child is 7.61538461538461.
 
 The following 7 pairs of parts of speech are connected with `csubj`: [id-pos/VERB]()-[id-pos/VERB]() (14; 54% instances), [id-pos/NOUN]()-[id-pos/VERB]() (5; 19% instances), [id-pos/NUM]()-[id-pos/VERB]() (2; 8% instances), [id-pos/VERB]()-[id-pos/PROPN]() (2; 8% instances), [id-pos/PROPN]()-[id-pos/PRON]() (1; 4% instances), [id-pos/PROPN]()-[id-pos/VERB]() (1; 4% instances), [id-pos/VERB]()-[id-pos/NOUN]() (1; 4% instances).
 

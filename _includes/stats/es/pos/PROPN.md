@@ -89,3 +89,86 @@ Children of `PROPN` nodes are attached using 30 different relations: [es-dep/cas
 
 Children of `PROPN` nodes belong to 16 different parts of speech: [PROPN]() (17745; 32% instances), [ADP]() (15741; 28% instances), [PUNCT]() (7263; 13% instances), [DET]() (6269; 11% instances), [CONJ]() (2013; 4% instances), [NOUN]() (2013; 4% instances), [NUM]() (1986; 4% instances), [VERB]() (947; 2% instances), [ADJ]() (541; 1% instances), [X]() (288; 1% instances), [ADV]() (282; 1% instances), [PRON]() (155; 0% instances), [SCONJ]() (36; 0% instances), [AUX]() (34; 0% instances), [SYM]() (33; 0% instances), [PART]() (2; 0% instances)
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+There are 10184 `PROPN` lemmas (35%), 10231 `PROPN` types (23%) and 42627 `PROPN` tokens (8%).
+Out of 17 observed tags, the rank of `PROPN` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
+
+The 10 most frequent `PROPN` lemmas: <em>gobierno, España, Madrid, Barcelona, José, PP, Estado, Juan, nacional, Estados</em>
+
+The 10 most frequent `PROPN` types:  <em>Gobierno, España, Madrid, Barcelona, José, PP, Estado, Juan, Nacional, Estados</em>
+
+The 10 most frequent ambiguous lemmas: <em>gobierno</em> ([NOUN]() 124, [PROPN]() 3), <em>nacional</em> ([ADJ]() 121, [PROPN]() 2), <em>liga</em> ([NOUN]() 29, [PROPN]() 1), <em>real</em> ([ADJ]() 52, [NOUN]() 12, [PROPN]() 1), <em>juegos</em> ([PROPN]() 4, [NOUN]() 2), <em>atlético</em> ([ADJ]() 5, [PROPN]() 1), <em>internet</em> ([NOUN]() 9, [PROPN]() 1), <em>universidad</em> ([NOUN]() 14, [PROPN]() 1), <em>cuba</em> ([NOUN]() 2, [PROPN]() 1), <em>defensa</em> ([NOUN]() 134, [PROPN]() 1)
+
+The 10 most frequent ambiguous types:  <em>Estados</em> ([PROPN]() 156, [NOUN]() 8), <em>Partido</em> ([PROPN]() 105, [NOUN]() 5), <em>juegos</em> ([NOUN]() 13, [PROPN]() 2), <em>Internacional</em> ([PROPN]() 59, [NOUN]() 1), <em>internet</em> ([NOUN]() 8, [PROPN]() 1), <em>Cuba</em> ([PROPN]() 56, [NOUN]() 1), <em>defensa</em> ([NOUN]() 119, [PROPN]() 1), <em>rey</em> ([NOUN]() 37, [PROPN]() 2), <em>General</em> ([PROPN]() 49, [ADJ]() 1), <em>civil</em> ([ADJ]() 53, [NOUN]() 1, [PROPN]() 1)
+
+
+* <em>Estados</em>
+  * [PROPN]() 156: <em>- - ¿ La propaganda política también mira demasiado a <b>Estados</b> Unidos ? .</em>
+  * [NOUN]() 8: <em>" <b>Estados</b> como Irán , Irak y Siria inspiran y financian una cultura de el asesinato político y de el atentado suicida " , declaró .</em>
+* <em>Partido</em>
+  * [PROPN]() 105: <em>Aceptar formar parte de un Gobierno de el <b>Partido</b> Popular es un compromiso con el proyecto político de este partido .</em>
+  * [NOUN]() 5: <em>Incidencias : <b>Partido</b> disputado en el Miniestadi de el FC Barcelona ante unos tres mil aficionados .</em>
+* <em>juegos</em>
+  * [NOUN]() 13: <em>A diferencia de otros <b>juegos</b> de ordenador , cuyo único objetivo es aniquilar a los invasores o sortear obstáculos .</em>
+  * [PROPN]() 2: <em>Tras regresar a el estilo de su primera película como director con La trama , que era una revisión de el tema de los timos , engaños y juegos de espejos de Casa de <b>juegos</b> , David Mamet opta con El caso Winslow por otro retorno , en este caso a el teatro , su primer lugar de nacimiento artístico .</em>
+* <em>Internacional</em>
+  * [PROPN]() 59: <em>Un total de 483 remeros participaron en la Primera Regata <b>Internacional</b> de Llaud Català que se disputó en aguas de el Port de Barcelona .</em>
+  * [NOUN]() 1: <em><b>Internacional</b> en 158 ocasiones y ganador con el Joventut de dos ligas , una copa de el Rey , un campeonato de Europa , dos copas Korac y siete ligas catalanas , ha de ser un presidente tan brillante como lo fue en su etapa de jugador .</em>
+* <em>internet</em>
+  * [NOUN]() 8: <em>Maragall lanza su campaña en <b>internet</b> .</em>
+  * [PROPN]() 1: <em>Desde su filial en España , Telia Iberia ofrecerá a las empresas sus servicios de conexión con <b>internet</b> , así como la venta a operadores privados de espacios para trasmisión de datos y voz .</em>
+* <em>Cuba</em>
+  * [PROPN]() 56: <em>IX Cumbre ( La Habana , <b>Cuba</b> , 1999 ) .</em>
+  * [NOUN]() 1: <em>Castro pasó acompañado de miles de cubanos sin dejar de mirar el edificio americano y bajo las consignas de <b>Cuba</b> sí , yanquis no en los actos de el Día de el Trabajo .</em>
+* <em>defensa</em>
+  * [NOUN]() 119: <em>Estamos en un momento dulce " , declaró el <b>defensa</b> brasileño .</em>
+  * [PROPN]() 1: <em>a el fin y a el cabo , eso hace más actual que nunca En <b>defensa</b> pròpia , los textos magníficos en los que Verdaguer se defiende de las injurias .</em>
+* <em>rey</em>
+  * [NOUN]() 37: <em>En definitiva , el <b>rey</b> que Marruecos necesita .</em>
+  * [PROPN]() 2: <em>Representaron dos obras , ambas en un mes de octubre : El burlador de Sevilla , de Tirso de Molina , y El <b>rey</b> Lear , de Shakespeare , con escenografía de Paco Nieva .</em>
+* <em>General</em>
+  * [PROPN]() 49: <em>Khamman presentó una denuncia contra el agente y prestó declaración ante la Inspección <b>General</b> de la Policía Nacional .</em>
+  * [ADJ]() 1: <em>Por su parte , el diputado <b>General</b> de Vizcaya , Josu Bergara , mostró su " preocupación por el impacto que la fusión pudiera tener en aspectos sensibles para este territorio , tales como la fiscalidad o el mantenimiento de el empleo existente " .</em>
+* <em>civil</em>
+  * [ADJ]() 53: <em>La guerra <b>civil</b> fue , desgraciadamente , de todos los españoles .</em>
+  * [NOUN]() 1: <em>Casada con un andaluz de Jaén , Joan Andreu , tiene una hija de 13 años y un primo guardia <b>civil</b> .</em>
+  * [PROPN]() 1: <em>Y en Los orígenes de la guerra <b>civil</b> española , de Pío Mora , dice el diputado de el PNV Manuel Eguileor : " El anhelo de la raza más vieja de la tierra se condensa maravillosamente en una sola palabra , palabra mágica , creada también por el genio inmortal de nuestro maestro Arana : ¡ Euzkadi ! " .</em>
+
+## Morphology
+
+The form / lemma ratio of `PROPN` is 1.004615 (the average of all parts of speech is 1.501056).
+
+The 1st highest number of forms (2) was observed with the lemma “Alavés”: <em>ALAVÉS, Alavés</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “Alou”: <em>Alou, L'Alou</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “Andalucía”: <em>ANDALUCÍA, Andalucía</em>.
+
+`PROPN` does not occur with any features.
+
+
+## Relations
+
+`PROPN` nodes are attached to their parents using 16 different relations: [es-dep/name]() (14375; 34% instances), [es-dep/nmod]() (12807; 30% instances), [es-dep/nsubj]() (6275; 15% instances), [es-dep/appos]() (3759; 9% instances), [es-dep/conj]() (2612; 6% instances), [es-dep/dobj]() (2262; 5% instances), [es-dep/iobj]() (255; 1% instances), [es-dep/root]() (175; 0% instances), [es-dep/dep]() (41; 0% instances), [es-dep/acl]() (19; 0% instances), [es-dep/ccomp]() (16; 0% instances), [es-dep/det]() (12; 0% instances), [es-dep/advcl]() (7; 0% instances), [es-dep/parataxis]() (7; 0% instances), [es-dep/csubj]() (4; 0% instances), [es-dep/cc]() (1; 0% instances)
+
+Parents of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (17042; 40% instances), [NOUN]() (12979; 30% instances), [VERB]() (10116; 24% instances), [ADJ]() (1426; 3% instances), [DET]() (251; 1% instances), [ADV]() (196; 0% instances), [ROOT]() (175; 0% instances), [NUM]() (142; 0% instances), [PRON]() (133; 0% instances), [AUX]() (97; 0% instances), [ADP]() (36; 0% instances), [SYM]() (14; 0% instances), [CONJ]() (12; 0% instances), [PUNCT]() (6; 0% instances), [PART]() (2; 0% instances)
+
+15236 (36%) `PROPN` nodes are leaves.
+
+11253 (26%) `PROPN` nodes have one child.
+
+8157 (19%) `PROPN` nodes have two children.
+
+7981 (19%) `PROPN` nodes have three or more children.
+
+The highest child degree of a `PROPN` node is 62.
+
+Children of `PROPN` nodes are attached using 22 different relations: [es-dep/case]() (17559; 30% instances), [es-dep/name]() (14193; 24% instances), [es-dep/det]() (9771; 17% instances), [es-dep/punct]() (7201; 12% instances), [es-dep/conj]() (2774; 5% instances), [es-dep/cc]() (2072; 4% instances), [es-dep/appos]() (1196; 2% instances), [es-dep/amod]() (1144; 2% instances), [es-dep/nmod]() (1038; 2% instances), [es-dep/acl]() (1000; 2% instances), [es-dep/mark]() (231; 0% instances), [es-dep/nummod]() (198; 0% instances), [es-dep/cop]() (145; 0% instances), [es-dep/advmod]() (118; 0% instances), [es-dep/nsubj]() (110; 0% instances), [es-dep/dep]() (22; 0% instances), [es-dep/neg]() (20; 0% instances), [es-dep/advcl]() (16; 0% instances), [es-dep/aux]() (12; 0% instances), [es-dep/parataxis]() (7; 0% instances), [es-dep/csubj]() (6; 0% instances), [es-dep/dobj]() (5; 0% instances)
+
+Children of `PROPN` nodes belong to 16 different parts of speech: [ADP]() (17519; 30% instances), [PROPN]() (17042; 29% instances), [DET]() (9792; 17% instances), [PUNCT]() (7202; 12% instances), [CONJ]() (2007; 3% instances), [NOUN]() (1991; 3% instances), [ADJ]() (1290; 2% instances), [VERB]() (950; 2% instances), [NUM]() (306; 1% instances), [SCONJ]() (260; 0% instances), [ADV]() (171; 0% instances), [AUX]() (150; 0% instances), [PRON]() (95; 0% instances), [SYM]() (45; 0% instances), [PART]() (14; 0% instances), [INTJ]() (4; 0% instances)
+

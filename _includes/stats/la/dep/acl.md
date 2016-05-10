@@ -73,73 +73,75 @@ The following 16 pairs of parts of speech are connected with `acl`: [la-pos/NOUN
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-9840 nodes (4%) are attached to their parents as `acl`.
+10993 nodes (4%) are attached to their parents as `acl`.
 
-9338 instances of `acl` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.58140243902439.
+10447 instances of `acl` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.59847175475302.
 
-The following 35 pairs of parts of speech are connected with `acl`: [la-pos/NOUN]()-[la-pos/VERB]() (5768; 59% instances), [la-pos/PRON]()-[la-pos/VERB]() (1989; 20% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (563; 6% instances), [la-pos/PRON]()-[la-pos/NOUN]() (237; 2% instances), [la-pos/ADJ]()-[la-pos/VERB]() (232; 2% instances), [la-pos/DET]()-[la-pos/VERB]() (194; 2% instances), [la-pos/PRON]()-[la-pos/ADJ]() (173; 2% instances), [la-pos/VERB]()-[la-pos/VERB]() (165; 2% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (162; 2% instances), [la-pos/NOUN]()-[la-pos/PRON]() (76; 1% instances), [la-pos/PRON]()-[la-pos/PRON]() (45; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (38; 0% instances), [la-pos/VERB]()-[la-pos/NOUN]() (32; 0% instances), [la-pos/CONJ]()-[la-pos/VERB]() (21; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (20; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (16; 0% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (16; 0% instances), [la-pos/PRON]()-[la-pos/NUM]() (13; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (10; 0% instances), [la-pos/DET]()-[la-pos/ADJ]() (10; 0% instances), [la-pos/NOUN]()-[la-pos/NUM]() (10; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (8; 0% instances), [la-pos/DET]()-[la-pos/NOUN]() (7; 0% instances), [la-pos/ADJ]()-[la-pos/PRON]() (6; 0% instances), [la-pos/PUNCT]()-[la-pos/VERB]() (5; 0% instances), [la-pos/CONJ]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/X]()-[la-pos/VERB]() (4; 0% instances), [la-pos/NOUN]()-[la-pos/DET]() (3; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (3; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (3; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (2; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (2; 0% instances), [la-pos/DET]()-[la-pos/PRON]() (1; 0% instances), [la-pos/NUM]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (1; 0% instances).
+The following 42 pairs of parts of speech are connected with `acl`: [la-pos/NOUN]()-[la-pos/VERB]() (6277; 57% instances), [la-pos/PRON]()-[la-pos/VERB]() (2526; 23% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (532; 5% instances), [la-pos/ADJ]()-[la-pos/VERB]() (261; 2% instances), [la-pos/PRON]()-[la-pos/NOUN]() (252; 2% instances), [la-pos/PRON]()-[la-pos/ADJ]() (199; 2% instances), [la-pos/VERB]()-[la-pos/VERB]() (188; 2% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (180; 2% instances), [la-pos/PROPN]()-[la-pos/VERB]() (156; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (79; 1% instances), [la-pos/PRON]()-[la-pos/PRON]() (47; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (46; 0% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (36; 0% instances), [la-pos/VERB]()-[la-pos/NOUN]() (30; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (24; 0% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (19; 0% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (17; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (16; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (13; 0% instances), [la-pos/PRON]()-[la-pos/NUM]() (13; 0% instances), [la-pos/NOUN]()-[la-pos/NUM]() (10; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (8; 0% instances), [la-pos/PUNCT]()-[la-pos/VERB]() (8; 0% instances), [la-pos/CONJ]()-[la-pos/VERB]() (7; 0% instances), [la-pos/ADJ]()-[la-pos/PRON]() (6; 0% instances), [la-pos/PRON]()-[la-pos/PROPN]() (5; 0% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (4; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (4; 0% instances), [la-pos/VERB]()-[la-pos/PROPN]() (4; 0% instances), [la-pos/X]()-[la-pos/VERB]() (4; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (3; 0% instances), [la-pos/CONJ]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/DET]() (2; 0% instances), [la-pos/PROPN]()-[la-pos/PROPN]() (2; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (2; 0% instances), [la-pos/ADP]()-[la-pos/PRON]() (1; 0% instances), [la-pos/NUM]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (1; 0% instances), [la-pos/NUM]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/PUNCT]()-[la-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 acl	color:blue
-1	delectationes	delectatio	NOUN	C1|grn1|casJ|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	5	nsubj	_	_
-2	autem	autem	CONJ	O4	_	5	cc	_	_
-3	praemissae	praemitto	VERB	L2|modM|tem4|grp1|casJ|gen2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	acl	_	_
-4	sunt	sum	VERB	N3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-5	communes	communis	ADJ	C1|grn1|casJ|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	_
-6	hominibus	homo	NOUN	C1|grn1|casL|gen1	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	5	dobj	_	_
-7	et	et	CONJ	O4	_	6	cc	_	_
-8	brutis	brutus	ADJ	B1|grn1|casL|gen1	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	6	conj	_	_
-9	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 acl	color:blue
+1	quis	qui	PRON	F1|grn1|casA|gen1|varA|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	2	nmod	_	_
+2	modus	modus	NOUN	B1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	sit	sum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	possibilis	possibilis	ADJ	C1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+5	divinae	divinus	ADJ	A1|grn1|casB|gen2|stAM	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	veritatis	veritas	NOUN	C1|grn1|casB|gen2|vgr1|stAC	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	nsubjpass	_	_
+7	manifestandae	manifesto	VERB	J2|modO|grp1|casB|gen2|stAC	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Gdv|Voice=Pass	2	acl	_	_
+8	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 9 acl	color:blue
-1	ultimus	ulterior	ADJ	B1|grn3|casA|gen1	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	2	amod	_	_
-2	finis	finis	NOUN	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-4	nobilissimum	nobilis	ADJ	B1|grn3|casA|gen3	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	0	root	_	_
-5	eorum	is	PRON	F1|grn1|casK|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|PronType=Dem,Prs	4	nmod	_	_
-6	quae	qui	PRON	F1|grn1|casJ|gen3|vgr1	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|PronType=Rel	9	nsubj	_	_
-7	ad	ad	ADP	S4	AdpType=Prep	8	case	_	_
-8	rem	res	NOUN	E1|grn1|casD|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	dobj	_	_
-9	pertinent	pertineo	VERB	K3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	_
-10	:	:	PUNCT	Punc	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 9 acl	color:blue
-1	quod	qui	PRON	F1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	_
-2	non	non	ADV	O4	_	3	neg	_	_
-3	congruit	congruo	VERB	L3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	felicitati	felicitas	NOUN	C1|grn1|casC|gen2	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	3	dobj	_	_
-5	,	,	PUNCT	Punc	_	9	punct	_	_
-6	quae	qui	PRON	F1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	9	nsubj	_	_
-7	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
-8	communis	communis	ADJ	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
-9	finis	finis	NOUN	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	acl	_	_
-10	.	.	PUNCT	Punc	_	3	punct	_	_
+# visual-style 4 8 acl	color:blue
+1	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	autem	autem	CONJ	O4|stRL	_	1	cc	_	_
+3	in	in	ADP	S4|stRL	AdpType=Prep	4	case	_	_
+4	his	hic	PRON	F1|grn1|casO|gen3|vgr1|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur|PronType=Dem	1	nmod	_	_
+5	quae	qui	PRON	F1|grn1|casM|gen3|vgr1|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|PronType=Rel	8	dobj	_	_
+6	de	de	ADP	S4|stRL	AdpType=Prep	7	case	_	_
+7	deo	deus	PROPN	F1|grn1|casF|gen1|stNP	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	8	nmod	_	_
+8	confitemur	confiteor	VERB	K3|modJ|tem1|gen7|stAE	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl	_	_
+9	duplex	duplex	ADJ	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	veritatis	veritas	NOUN	C1|grn1|casB|gen2|vgr1|stAC	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	nmod	_	_
+11	modus	modus	NOUN	B1|grn1|casA|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	nsubj	_	_
+12	.	.	PUNCT	Punc	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 10 acl	color:blue
+1	deus	deus	PROPN	F1|grn1|casA|gen1|stNP	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	igitur	igitur	ADV	O4|stRL	_	4	advmod	_	_
+3	non	non	ADV	O4|stRL	_	4	neg	_	_
+4	habet	habeo	VERB	K3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	essentiam	essentia	NOUN	A1|grn1|casD|gen2|vgr1|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	dobj	_	_
+6	quae	qui	PRON	F1|grn1|casA|gen2|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	10	nsubj	_	_
+7	non	non	ADV	O4|stRL	_	10	neg	_	_
+8	sit	sum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+9	suum	suus	DET	B1|grn1|casA|gen3|stPV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
+10	esse	esse	NOUN	G1|casA|gen3|stAV	Case=Nom|Gender=Neut|Number=Sing	5	acl	_	_
+11	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

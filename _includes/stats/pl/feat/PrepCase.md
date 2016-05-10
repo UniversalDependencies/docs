@@ -14,9 +14,9 @@ The feature is used with 2 part-of-speech tags: [pl-pos/PRON]() (1214; 1% instan
 
 ### `PRON`
 
-1214 [pl-pos/PRON]() tokens (34% of all `PRON` tokens) have a non-empty value of `PrepCase`.
+1214 [pl-pos/PRON]() tokens (24% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1214; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1214; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1214; 100%), <tt><a href="Variant.html">Variant</a>=Long</tt> (964; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (854; 70%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (760; 63%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (1214; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1214; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1214; 100%), <tt><a href="Variant.html">Variant</a>=Long</tt> (964; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (854; 70%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (760; 63%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
@@ -91,9 +91,9 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 ### `ADJ`
 
-37 [pl-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `PrepCase`.
+37 [pl-pos/ADJ]() tokens (1% of all `ADJ` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `ADJ` and `PrepCase` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (37; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (37; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (37; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (37; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (37; 100%).
+The most frequent other feature values with which `ADJ` and `PrepCase` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (37; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (37; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (37; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (37; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (37; 100%).
 
 `ADJ` tokens may have the following values of `PrepCase`:
 

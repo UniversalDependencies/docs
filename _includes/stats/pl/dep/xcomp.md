@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1121 nodes (1%) are attached to their parents as `xcomp`.
+1126 nodes (1%) are attached to their parents as `xcomp`.
 
-1091 instances of `xcomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.95896520963426.
+1094 instances of `xcomp` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.96003552397869.
 
-The following 11 pairs of parts of speech are connected with `xcomp`: [pl-pos/VERB]()-[pl-pos/VERB]() (978; 87% instances), [pl-pos/VERB]()-[pl-pos/ADJ]() (65; 6% instances), [pl-pos/ADJ]()-[pl-pos/VERB]() (42; 4% instances), [pl-pos/VERB]()-[pl-pos/NOUN]() (14; 1% instances), [pl-pos/ADV]()-[pl-pos/VERB]() (11; 1% instances), [pl-pos/ADJ]()-[pl-pos/ADJ]() (5; 0% instances), [pl-pos/AUX]()-[pl-pos/VERB]() (2; 0% instances), [pl-pos/ADJ]()-[pl-pos/ADV]() (1; 0% instances), [pl-pos/ADJ]()-[pl-pos/NOUN]() (1; 0% instances), [pl-pos/NOUN]()-[pl-pos/VERB]() (1; 0% instances), [pl-pos/VERB]()-[pl-pos/PRON]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `xcomp`: [pl-pos/VERB]()-[pl-pos/VERB]() (977; 87% instances), [pl-pos/VERB]()-[pl-pos/ADJ]() (57; 5% instances), [pl-pos/ADJ]()-[pl-pos/VERB]() (42; 4% instances), [pl-pos/VERB]()-[pl-pos/NOUN]() (15; 1% instances), [pl-pos/VERB]()-[pl-pos/PRON]() (14; 1% instances), [pl-pos/ADV]()-[pl-pos/VERB]() (11; 1% instances), [pl-pos/ADJ]()-[pl-pos/ADJ]() (5; 0% instances), [pl-pos/AUX]()-[pl-pos/VERB]() (2; 0% instances), [pl-pos/ADJ]()-[pl-pos/ADV]() (1; 0% instances), [pl-pos/ADJ]()-[pl-pos/NOUN]() (1; 0% instances), [pl-pos/NOUN]()-[pl-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,10 +38,10 @@ The following 11 pairs of parts of speech are connected with `xcomp`: [pl-pos/VE
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 xcomp	color:blue
-1	Wyrwał	wyrwać	VERB	praet:sg:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Wyrwał	wyrwać	VERB	praet:sg:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	rękę	ręka	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	1	dobj	_	_
 3	i	i	CONJ	conj:_	_	1	cc	_	_
-4	pomyślał	pomyśleć	VERB	praet:sg:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	1	conj	_	_
+4	pomyślał	pomyśleć	VERB	praet:sg:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	_
 5	,	,	PUNCT	interp:_	_	7	punct	_	_
 6	że	że	SCONJ	comp:_	_	7	case	_	_
 7	powinien	powinien	ADJ	winien:sg:m1:imperf	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing	4	xcomp	_	_
@@ -58,10 +58,10 @@ The following 11 pairs of parts of speech are connected with `xcomp`: [pl-pos/VE
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 xcomp	color:blue
-1	Wyrwał	wyrwać	VERB	praet:sg:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Wyrwał	wyrwać	VERB	praet:sg:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	rękę	ręka	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	1	dobj	_	_
 3	i	i	CONJ	conj:_	_	1	cc	_	_
-4	pomyślał	pomyśleć	VERB	praet:sg:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	1	conj	_	_
+4	pomyślał	pomyśleć	VERB	praet:sg:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	_
 5	,	,	PUNCT	interp:_	_	7	punct	_	_
 6	że	że	SCONJ	comp:_	_	7	case	_	_
 7	powinien	powinien	ADJ	winien:sg:m1:imperf	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing	4	xcomp	_	_

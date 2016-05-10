@@ -20,7 +20,7 @@ The following 33 pairs of parts of speech are connected with `remnant`: [no-pos/
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 remnant	color:blue
-1	En	en	DET	_	Gender=Masc|Number=Sing	2	det	_	_
+1	En	en	DET	_	Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	prins	prins	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	_
 3	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	født	føde	VERB	_	VerbForm=Part	0	root	_	_
@@ -29,7 +29,7 @@ The following 33 pairs of parts of speech are connected with `remnant`: [no-pos/
 7	klart	klar	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	xcomp	_	_
 8	til	til	ADP	_	_	9	case	_	_
 9	uken	uke	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	_
-10	|	$|	SYM	_	_	4	punct	_	_
+10	|	$|	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -42,12 +42,12 @@ The following 33 pairs of parts of speech are connected with `remnant`: [no-pos/
 # visual-style 2 7 remnant	color:blue
 1	Oregon	Oregon	PROPN	_	_	2	nsubj	_	_
 2	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	7	7	NUM	_	Number=Plur	2	dobj	_	_
+3	7	7	NUM	_	Number=Plur|NumType=Card	2	dobj	_	_
 4	,	$,	PUNCT	_	_	2	punct	_	_
 5	og	og	CONJ	_	_	7	cc	_	_
-6	staten	stat	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	7	appos	_	_
+6	staten	stat	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	_
 7	Washington	Washington	PROPN	_	_	2	remnant	_	_
-8	12	12	NUM	_	Number=Plur	9	nummod	_	_
+8	12	12	NUM	_	Number=Plur|NumType=Card	9	nummod	_	_
 9	valgmannstemmer	valgmannstemme	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	7	dobj	_	_
 10	.	$.	PUNCT	_	_	2	punct	_	_
 
@@ -60,13 +60,13 @@ The following 33 pairs of parts of speech are connected with `remnant`: [no-pos/
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 remnant	color:blue
-1	Tre	tre	NUM	_	Number=Plur	2	nummod	_	_
+1	Tre	tre	NUM	_	Number=Plur|NumType=Card	2	nummod	_	_
 2	prester	prest	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	5	nsubjpass	_	_
 3	var	være	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_
 4	blitt	bli	AUX	_	VerbForm=Part	5	auxpass	_	_
 5	drept	drepe	VERB	_	VerbForm=Part	0	root	_	_
 6	og	og	CONJ	_	_	9	cc	_	_
-7	en	en	DET	_	Gender=Masc|Number=Sing	8	det	_	_
+7	en	en	DET	_	Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	misjonærstasjon	misjonærstasjon	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	9	nsubj	_	_
 9	brent	brenne	VERB	_	VerbForm=Part	5	remnant	_	_
 10	ned	ned	ADP	_	_	9	compound:prt	_	_

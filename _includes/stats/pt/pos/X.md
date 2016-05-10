@@ -11,14 +11,14 @@ The 10 most frequent `X` lemmas: <em>???, que</em>
 
 The 10 most frequent `X` types:  <em>(<predicate>), que</em>
 
-The 10 most frequent ambiguous lemmas: <em>???</em> ([PROPN]() 2, [X]() 1), <em>que</em> ([PRON]() 2332, [SCONJ]() 1783, [ADV]() 90, [DET]() 20, [ADP]() 3, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>???</em> ([PROPN]() 2, [X]() 1), <em>que</em> ([PRON]() 2331, [SCONJ]() 1996, [ADV]() 90, [DET]() 20, [ADP]() 3, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2327, [SCONJ]() 1775, [ADV]() 90, [DET]() 18, [ADP]() 3, [X]() 1)
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2326, [SCONJ]() 1988, [ADV]() 90, [DET]() 18, [ADP]() 3, [X]() 1)
 
 
 * <em>que</em>
-  * [PRON]() 2327: <em>Era uma época em <b>que</b> os cariocas imperavam em campo e fora de ele .</em>
-  * [SCONJ]() 1775: <em>Mas o orçamento de US$ 5 milhões insinua <b>que</b> a informação não é séria .</em>
+  * [PRON]() 2326: <em>Era uma época em <b>que</b> os cariocas imperavam em campo e fora de ele .</em>
+  * [SCONJ]() 1988: <em>Folha -- o <b>que</b> a mulher precisa hoje , em termos de roupas ?</em>
   * [ADV]() 90: <em>Mas é em a Republica Dominicana <b>que</b> o cruzeiro atinge seu ponto alto .</em>
   * [DET]() 18: <em>Os marginalizados de o sistema de ensino : <b>que</b> solução ?</em>
   * [ADP]() 3: <em>« Há <b>que</b> coordenar a acção de os diversos ministérios e municípios .</em>
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2327, [SCONJ]() 17
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.447246).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.447797).
 
 The 1st highest number of forms (1) was observed with the lemma “???”: <em>(<predicate>)</em>.
 
@@ -68,7 +68,7 @@ The 10 most frequent `X` types:  <em>disso, dele, deles, delas, do, dela, +, com
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 57316, [ADP]() 51928, [PUNCT]() 42033, [PROPN]() 32948, [VERB]() 29700, [DET]() 26122, [ADJ]() 15107, [CONJ]() 10984, [ADV]() 9773, [NUM]() 8491, [PRON]() 7392, [AUX]() 5242, [PART]() 748, [X]() 539)
 
-The 10 most frequent ambiguous types:  <em>disso</em> ([X]() 67, [ADP]() 2), <em>dele</em> ([X]() 51, [ADP]() 1), <em>do</em> ([ADP]() 5171, [X]() 21, [CONJ]() 1), <em>+</em> ([X]() 13, [PUNCT]() 6, [PROPN]() 1), <em>e</em> ([CONJ]() 5901, [ADJ]() 14, [X]() 9, [AUX]() 2, [ADP]() 2, [DET]() 1), <em>no</em> ([ADP]() 2552, [X]() 8, [PRON]() 2, [NOUN]() 1), <em>pelo</em> ([ADP]() 635, [X]() 8, [NOUN]() 2), <em>dos</em> ([ADP]() 1227, [X]() 7), <em>ao</em> ([ADP]() 1026, [X]() 6, [PRON]() 1), <em>x</em> ([PUNCT]() 16, [X]() 6, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>disso</em> ([X]() 67, [ADP]() 2), <em>dele</em> ([X]() 51, [ADP]() 1), <em>do</em> ([ADP]() 5171, [X]() 21, [CONJ]() 1), <em>+</em> ([X]() 13, [PUNCT]() 6, [PROPN]() 1), <em>e</em> ([CONJ]() 5901, [ADJ]() 14, [X]() 9, [ADP]() 2, [AUX]() 2, [DET]() 1), <em>no</em> ([ADP]() 2552, [X]() 8, [PRON]() 2, [NOUN]() 1), <em>pelo</em> ([ADP]() 635, [X]() 8, [NOUN]() 2), <em>dos</em> ([ADP]() 1227, [X]() 7), <em>ao</em> ([ADP]() 1026, [X]() 6, [PRON]() 1), <em>x</em> ([PUNCT]() 16, [X]() 6, [NOUN]() 1)
 
 
 * <em>disso</em>
@@ -89,8 +89,8 @@ The 10 most frequent ambiguous types:  <em>disso</em> ([X]() 67, [ADP]() 2), <em
   * [CONJ]() 5901: <em>Dois anos depois , ele foi preso -- <b>e</b> eu nunca o vi novamente .</em>
   * [ADJ]() 14: <em>Não serão aceitos currículos por <b>e</b> - mail ou inscrições por telefone .</em>
   * [X]() 9: <em>Certifique - se de que inseriu sua principal conta de <b>e</b> - mail .</em>
-  * [AUX]() 2: <em>Morning Sun : nova música da banda Rock Mafia com a participação da cantora americana Miley Cyrus <b>e</b> liberada nesta quarta - feira ( 4 ) .</em>
   * [ADP]() 2: <em>Segundo ele , ritmos como este ajudam <b>e</b> reconhecer ea guardar informações na memória .</em>
+  * [AUX]() 2: <em>Morning Sun : nova música da banda Rock Mafia com a participação da cantora americana Miley Cyrus <b>e</b> liberada nesta quarta - feira ( 4 ) .</em>
   * [DET]() 1: <em>Com os rebentos a nascerem na base e a empurrarem <b>e</b> planta mãe para cima , esta pode chegar aos 50 cm de diâmetro e de altura .</em>
 * <em>no</em>
   * [ADP]() 2552: <em>" O salto dá um up <b>no</b> visual !</em>

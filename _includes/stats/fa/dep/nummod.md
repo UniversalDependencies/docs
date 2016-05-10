@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-2873 nodes (2%) are attached to their parents as `nummod`.
+2874 nodes (2%) are attached to their parents as `nummod`.
 
-2520 instances of `nummod` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33136094674556.
+2521 instances of `nummod` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3312456506611.
 
-The following 15 pairs of parts of speech are connected with `nummod`: [fa-pos/NOUN]()-[fa-pos/NUM]() (2369; 82% instances), [fa-pos/NUM]()-[fa-pos/NUM]() (214; 7% instances), [fa-pos/ADJ]()-[fa-pos/NUM]() (113; 4% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (78; 3% instances), [fa-pos/VERB]()-[fa-pos/NUM]() (36; 1% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (24; 1% instances), [fa-pos/ADP]()-[fa-pos/NUM]() (16; 1% instances), [fa-pos/DET]()-[fa-pos/NUM]() (13; 0% instances), [fa-pos/ADV]()-[fa-pos/NUM]() (4; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/PRON]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/PRON]()-[fa-pos/NUM]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/X]()-[fa-pos/NUM]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `nummod`: [fa-pos/NOUN]()-[fa-pos/NUM]() (2369; 82% instances), [fa-pos/NUM]()-[fa-pos/NUM]() (215; 7% instances), [fa-pos/ADJ]()-[fa-pos/NUM]() (113; 4% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (78; 3% instances), [fa-pos/VERB]()-[fa-pos/NUM]() (36; 1% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (24; 1% instances), [fa-pos/ADP]()-[fa-pos/NUM]() (16; 1% instances), [fa-pos/DET]()-[fa-pos/NUM]() (13; 0% instances), [fa-pos/ADV]()-[fa-pos/NUM]() (4; 0% instances), [fa-pos/PRON]()-[fa-pos/NUM]() (2; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/PRON]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/X]()-[fa-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,11 +45,11 @@ The following 15 pairs of parts of speech are connected with `nummod`: [fa-pos/N
 # visual-style 11	fgColor:white
 # visual-style 11 10 nummod	color:blue
 1	مزرعه‌ای	_	NOUN	N_SING	Number=Sing	0	root	_	_
-2	که	_	SCONJ	CON	_	5	mark	_	_
+2	که	که	SCONJ	CON	_	5	mark	_	_
 3	در	_	ADP	P	_	4	case	_	_
 4	عقیق	_	NOUN	N_SING	Number=Sing	5	nmod	_	_
 5	بود	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	1	acl:relcl	_	_
-6	و	_	CONJ	CON	_	5	cc	_	_
+6	و	و	CONJ	CON	_	5	cc	_	_
 7	درآمد	_	NOUN	N_SING	Number=Sing	12	nsubj	_	_
 8	آن	_	PRON	PRO	Number=Sing|PronType=Dem	7	nmod:poss	_	_
 9	سالی	_	NOUN	N_SING	Number=Sing	12	dobj	_	_

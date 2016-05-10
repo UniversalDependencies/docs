@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-5268 nodes (2%) are attached to their parents as `aux`.
+5271 nodes (2%) are attached to their parents as `aux`.
 
-5256 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4086940015186.
+5263 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41130715234301.
 
-The following 12 pairs of parts of speech are connected with `aux`: [it-pos/VERB]()-[it-pos/AUX]() (5033; 96% instances), [it-pos/NOUN]()-[it-pos/AUX]() (94; 2% instances), [it-pos/ADJ]()-[it-pos/AUX]() (88; 2% instances), [it-pos/PRON]()-[it-pos/AUX]() (25; 0% instances), [it-pos/VERB]()-[it-pos/VERB]() (16; 0% instances), [it-pos/PROPN]()-[it-pos/AUX]() (4; 0% instances), [it-pos/ADV]()-[it-pos/AUX]() (3; 0% instances), [it-pos/ADJ]()-[it-pos/VERB]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PUNCT]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/VERB]() (1; 0% instances), [it-pos/NUM]()-[it-pos/AUX]() (1; 0% instances), [it-pos/VERB]()-[it-pos/PUNCT]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: [it-pos/VERB]()-[it-pos/AUX]() (5055; 96% instances), [it-pos/NOUN]()-[it-pos/AUX]() (94; 2% instances), [it-pos/ADJ]()-[it-pos/AUX]() (89; 2% instances), [it-pos/PRON]()-[it-pos/AUX]() (25; 0% instances), [it-pos/PROPN]()-[it-pos/AUX]() (4; 0% instances), [it-pos/ADV]()-[it-pos/AUX]() (3; 0% instances), [it-pos/NUM]()-[it-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu

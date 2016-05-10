@@ -95,85 +95,86 @@ Children of `VERB` nodes belong to 15 different parts of speech: [NOUN]() (28749
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 2568 `VERB` lemmas (12%), 10492 `VERB` types (23%) and 37776 `VERB` tokens (24%).
-Out of 14 observed tags, the rank of `VERB` is: 3 in number of lemmas, 2 in number of types and 1 in number of tokens.
+There are 2563 `VERB` lemmas (12%), 10475 `VERB` types (23%) and 37600 `VERB` tokens (24%).
+Out of 16 observed tags, the rank of `VERB` is: 3 in number of lemmas, 2 in number of types and 1 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>olla, ei, tulla, saada, voida, tehdä, pitää, sanoa, mennä, ottaa</em>
 
 The 10 most frequent `VERB` types:  <em>on, ei, oli, ole, ovat, en, olla, olisi, voi, ollut</em>
 
-The 10 most frequent ambiguous lemmas: <em>päästä</em> ([VERB]() 160, [ADP]() 10), <em>istua</em> ([VERB]() 96, [NOUN]() 1), <em>menettää</em> ([VERB]() 25, [NOUN]() 1), <em>sujua</em> ([VERB]() 21, [NOUN]() 1), <em>koputtaa</em> ([VERB]() 6, [NOUN]() 1), <em>ajautua</em> ([VERB]() 5, [NOUN]() 1), <em>viritä</em> ([VERB]() 3, [NOUN]() 1), <em>tiedottaa</em> ([VERB]() 2, [NOUN]() 1), <em>siitä</em> ([ADV]() 7, [VERB]() 1), <em>viivästyä</em> ([NOUN]() 1, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>päästä</em> ([VERB]() 160, [ADP]() 10), <em>uskoa</em> ([VERB]() 112, [NOUN]() 1), <em>istua</em> ([VERB]() 95, [NOUN]() 1), <em>menettää</em> ([VERB]() 25, [NOUN]() 1), <em>sujua</em> ([VERB]() 21, [NOUN]() 1), <em>koputtaa</em> ([VERB]() 6, [NOUN]() 1), <em>ajautua</em> ([VERB]() 5, [NOUN]() 1), <em>viritä</em> ([VERB]() 3, [NOUN]() 1), <em>tiedottaa</em> ([VERB]() 2, [NOUN]() 1), <em>siitä</em> ([ADV]() 7, [VERB]() 1)
 
-The 10 most frequent ambiguous types:  <em>voi</em> ([VERB]() 310, [INTJ]() 16), <em>tuli</em> ([VERB]() 207, [NOUN]() 2), <em>et</em> ([SCONJ]() 157, [VERB]() 63), <em>kuuluu</em> ([VERB]() 54, [ADV]() 2), <em>sanoin</em> ([VERB]() 23, [NOUN]() 4), <em>tulen</em> ([VERB]() 18, [NOUN]() 2), <em>jää</em> ([VERB]() 33, [NOUN]() 5), <em>näin</em> ([ADV]() 63, [VERB]() 9), <em>toimia</em> ([VERB]() 32, [NOUN]() 1), <em>tulevat</em> ([VERB]() 30, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>voi</em> ([VERB]() 308, [INTJ]() 16), <em>tuli</em> ([VERB]() 205, [NOUN]() 2), <em>et</em> ([SCONJ]() 156, [VERB]() 63), <em>kuuluu</em> ([VERB]() 53, [PART]() 2), <em>sanoin</em> ([VERB]() 22, [NOUN]() 4), <em>tulen</em> ([VERB]() 18, [NOUN]() 2), <em>jää</em> ([VERB]() 33, [NOUN]() 5), <em>näin</em> ([ADV]() 40, [PART]() 23, [VERB]() 9), <em>toimia</em> ([VERB]() 32, [NOUN]() 1), <em>tulevat</em> ([VERB]() 30, [ADJ]() 1)
 
 
 * <em>voi</em>
-  * [VERB]() 310: <em>Linja <b>voi</b> aueta odottaessa .</em>
-  * [INTJ]() 16: <em><b>voi</b> sentään</em>
+  * [VERB]() 308: <em>ei <b>voi</b> ajatellakhaa varhmaan että ne ikinä olis vakinaisia .</em>
+  * [INTJ]() 16: <em>Siis se oli mulle järkyttävä kokemus siis <b>voi</b> ei</em>
 * <em>tuli</em>
-  * [VERB]() 207: <em>Yhtenä aamuna se <b>tuli</b> ihan peloissaan kouluun .</em>
+  * [VERB]() 205: <em>Yhtenä aamuna se <b>tuli</b> ihan peloissaan kouluun .</em>
   * [NOUN]() 2: <em>laittaa <b>tuli</b> palamaan</em>
 * <em>et</em>
-  * [SCONJ]() 157: <em>mut tiiäks <b>et</b> kuule ; pelkkä pesuki vaikuttaa kuluttaa hiusta</em>
-  * [VERB]() 63: <em>Sinä <b>et</b> ole yhtään hänen näköisensä !</em>
+  * [SCONJ]() 156: <em>mut tiiäks <b>et</b> kuule ; pelkkä pesuki vaikuttaa kuluttaa hiusta</em>
+  * [VERB]() 63: <em><b>et</b> kerro</em>
 * <em>kuuluu</em>
-  * [VERB]() 54: <em>Lopeta nyt , olkoon mikä on , mitä se meille <b>kuuluu</b> .</em>
-  * [ADV]() 2: <em>Miun muistiihan niit o olluh hyvi ankaroeta pappija <b>kuuluu</b> .</em>
+  * [VERB]() 53: <em>Mille maalle kreivistään kuulu Montecriston saari <b>kuuluu</b> ?</em>
+  * [PART]() 2: <em>Miun muistiihan niit o olluh hyvi ankaroeta pappija <b>kuuluu</b> .</em>
 * <em>sanoin</em>
-  * [VERB]() 23: <em>Mä <b>sanoin</b> että no mitenkä sä oot sinne joutunut kerran sit kysyin .</em>
+  * [VERB]() 22: <em>Mä <b>sanoin</b> että no mitenkä sä oot sinne joutunut kerran sit kysyin .</em>
   * [NOUN]() 4: <em>Sitä tunnetta ei voi kuvata <b>sanoin</b> .</em>
 * <em>tulen</em>
-  * [VERB]() 18: <em>Minä <b>tulen</b> tässä nyt siivoamaan .</em>
+  * [VERB]() 18: <em>Joka naissuhteen loppuessa <b>tulen</b> hulluksi .</em>
   * [NOUN]() 2: <em>Tenho ei nähnyt tähtiä <b>tulen</b> kirkkaudelta .</em>
 * <em>jää</em>
   * [VERB]() 33: <em>Jos niitä <b>jää</b> , voitte käydä kaivelemassa niitä roskalaatikosta .</em>
   * [NOUN]() 5: <em>Jo on <b>jää</b> sileää ja puhasta .</em>
 * <em>näin</em>
-  * [ADV]() 63: <em>Leikkaa <b>näin</b> kortin yläreunan lähelle saakka .</em>
+  * [ADV]() 40: <em>Leikkaa <b>näin</b> kortin yläreunan lähelle saakka .</em>
+  * [PART]() 23: <em>Mä oon vaan <b>näin</b> hyvissä ajoin liikkeellä .</em>
   * [VERB]() 9: <em>Loppumetreillä <b>näin</b> , että olin voittamassa .</em>
 * <em>toimia</em>
   * [VERB]() 32: <em>x:n tarvii <b>toimia</b></em>
   * [NOUN]() 1: <em>Syyria ei ole tuominnut Jordanian <b>toimia</b> Israelin kanssa .</em>
 * <em>tulevat</em>
-  * [VERB]() 30: <em>Asiat <b>tulevat</b> hoidetuiksi .</em>
+  * [VERB]() 30: <em>Valitettavasti he <b>tulevat</b> kyllä takaisin .</em>
   * [ADJ]() 1: <em>Aprillipäivän säästä pystyy kuulemma ennustamaan koko kevään <b>tulevat</b> ilmat .</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 4.085670 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `VERB` is 4.087007 (the average of all parts of speech is 2.044212).
 
-The 1st highest number of forms (214) was observed with the lemma “olla”: <em>Liekö, Oiskohan, Olenhan, Oletkohan, Oletkos, Olikos, Olimma, Olinpa, Olipas, Olisihan, Olisikohan, Olisinko, Olisipa, Olisitpa, Olisitteko, Olithan, Olitko, Olitkos, Olitteks, Olkaamme, Ollaanhan, Ollaas, Ollako, Ollaksesi, Ollos, Oltiinhan, Oltiinkin, Onkohan, Onpas, Ookkonää, Ooksää, Oom, Oommä, Oonksmä, Ootte, Oottekste, Ous, lie, liene, lienee, lieneekään, lieneekö, lienemme, lienen, lienevät, lienisi, o, ois, ois[olisi, oisi, oisin, oisko, oj, ol, ole, oleen, olekaan, olekin, oleks, oleksä, olemaan, olemalla, olemasta, olemme, olemmeko, olen, olenk, olenkin, olenko, olepa, olet, oletkaan, oletkin, oletko, oletpa, olette, oletteko, oleva, olevaa, olevaan, olevalle, olevan, olevana, olevani, olevankaan, olevansa, olevassa, olevat, olevia, olevien, oleviin, olevilla, olevilta, olevinaan, olevinasi, olevissa, olevista, oli, olihan, olii, olija, olik, olikaan, olikii, olikin, oliko, olikohan, oliks, olimme, olin, olinkin, olinko, olipa, olis, olisi, olisikaan, olisikin, olisiko, olisimme, olisin, olisit, olisitte, olisivat, olisivatko, oliskin, olisko, olit, olitte, olivat, olivatkaan, olkaa, olkoon, olkoonkin, olkoonpa, olkoot, olla, ollaa, ollaan, ollaanpas, ollakaan, ollakseen, ollapa, olleelta, olleen, olleeni, olleenkaan, olleensa, olleet, olleetkaan, olleetkin, olleilta, olleita, ollen, ollessa, ollessaan, ollessakaan, ollessani, ollu, olluh, olluj, olluk, ollukkaan, ollukki, ollukko, ollum, ollun, ollut, ollutkaan, ollutta, olluv, oltaessa, oltais, oltaisi, oltas, oltava, oltavan, oltii, oltiin, oltti, oltu, oltuaan, oltuk, ol´, olä, om, on, onhan, onk, onkaan, onki, onkin, onko, onkoha, onkos, onks, onpa, oo, ook, ookin, ooks, ool, oon, oonko, oot, ootko, ootsä, ootteko, oovat, os, ovat, ovathan, ovatkaan, ovatkin, ovatko</em>.
+The 1st highest number of forms (213) was observed with the lemma “olla”: <em>Liekö, Oiskohan, Olenhan, Oletkohan, Oletkos, Olikos, Olimma, Olinpa, Olipas, Olisihan, Olisikohan, Olisinko, Olisipa, Olisitpa, Olisitteko, Olithan, Olitko, Olitkos, Olitteks, Olkaamme, Ollaanhan, Ollaas, Ollako, Ollaksesi, Ollos, Oltiinhan, Oltiinkin, Onkohan, Onpas, Ookkonää, Ooksää, Oom, Oommä, Oonksmä, Ootte, Oottekste, Ous, lie, liene, lienee, lieneekään, lieneekö, lienemme, lienen, lienevät, lienisi, o, ois, oisi, oisin, oisko, oj, ol, ole, oleen, olekaan, olekin, oleks, oleksä, olemaan, olemalla, olemasta, olemme, olemmeko, olen, olenk, olenkin, olenko, olepa, olet, oletkaan, oletkin, oletko, oletpa, olette, oletteko, oleva, olevaa, olevaan, olevalle, olevan, olevana, olevani, olevankaan, olevansa, olevassa, olevat, olevia, olevien, oleviin, olevilla, olevilta, olevinaan, olevinasi, olevissa, olevista, oli, olihan, olii, olija, olik, olikaan, olikii, olikin, oliko, olikohan, oliks, olimme, olin, olinkin, olinko, olipa, olis, olisi, olisikaan, olisikin, olisiko, olisimme, olisin, olisit, olisitte, olisivat, olisivatko, oliskin, olisko, olit, olitte, olivat, olivatkaan, olkaa, olkoon, olkoonkin, olkoonpa, olkoot, olla, ollaa, ollaan, ollaanpas, ollakaan, ollakseen, ollapa, olleelta, olleen, olleeni, olleenkaan, olleensa, olleet, olleetkaan, olleetkin, olleilta, olleita, ollen, ollessa, ollessaan, ollessakaan, ollessani, ollu, olluh, olluj, olluk, ollukkaan, ollukki, ollukko, ollum, ollun, ollut, ollutkaan, ollutta, olluv, oltaessa, oltais, oltaisi, oltas, oltava, oltavan, oltii, oltiin, oltti, oltu, oltuaan, oltuk, ol´, olä, om, on, onhan, onk, onkaan, onki, onkin, onko, onkoha, onkos, onks, onpa, oo, ook, ookin, ooks, ool, oon, oonko, oot, ootko, ootsä, ootteko, oovat, os, ovat, ovathan, ovatkaan, ovatkin, ovatko</em>.
 
 The 2nd highest number of forms (102) was observed with the lemma “tulla”: <em>Tuleek, Tulehan, Tulenookohan, Tuletteko, Tulevathan, Tulevatko, Tulisiko, Tulkaapa, Tulkoon, Tullessani, Tuutteko, tul, tule, tulee, tuleekaan, tuleeko, tuleekohan, tuleeks, tuleen, tulekaan, tulekin, tulemaan, tulemasta, tulematta, tulemme, tulen, tulene, tulepa, tules, tulet, tuletko, tulette, tuleva, tulevan, tulevana, tulevansa, tulevasta, tulevat, tulevia, tuli, tuliki, tulikin, tuliko, tulimme, tulin, tulipas, tulis, tulisi, tulisiks, tulisimme, tulisin, tulisit, tulisivat, tulispa, tulit, tulitte, tulivat, tulkaa, tulkaahan, tulko, tulkoot, tulla, tullaan, tullakin, tullakseen, tullee, tulleen, tulleena, tulleensa, tulleessa, tulleet, tulleetkin, tulleilla, tulleille, tullen, tullesas, tullessa, tullessaan, tullessaankin, tullu, tullunna, tullut, tullutkaan, tullutkin, tulna, tultaessa, tultaisiinkin, tultava, tulthin, tultii, tultiin, tultti, tultu, tultua, tultuaan, tultuani, tulukaa, tul´, tuu, tuuhan, tuun, tuut</em>.
 
 The 3rd highest number of forms (94) was observed with the lemma “tehdä”: <em>Teetpä, Tehdäänkö, Teitkö, Tekeepä, Tekemämme, Tekipä, Tekisitkö, Tekisitte, tee, teemme, teen, teenkö, teet, teette, teettekö, tehden, tehdessään, tehdyissä, tehdyistä, tehdyksi, tehdylle, tehdyn, tehdyt, tehdä, tehdäkin, tehdäkseen, tehdään, teheny, tehkää, tehkääpä, tehköön, tehneelle, tehneen, tehneensä, tehneet, tehny, tehnyt, tehnyttä, tehr, tehrä, tehtiin, tehtiinhän, tehtiinpä, tehty, tehtyihin, tehtyjen, tehtyjä, tehtyk, tehtyä, tehtäis, tehtäisi, tehtäisiin, tehtäköön, tehtävissä, tehtävä, tehtävälle, tehtävän, tehä, teimme, tein, teit, tekee, tekeekö, tekemillä, tekemistä, tekemiä, tekemiämme, tekemiäni, tekemiään, tekemäisillään, tekemällä, tekemänsä, tekemäsi, tekemässä, tekemästä, tekemästään, tekemät, tekemättä, tekemää, tekemään, tekevä, tekevän, tekevänsä, tekevät, teki, tekikin, tekis, tekisi, tekisikin, tekisin, tekisit, tekisivät, tekivät, tekköö</em>.
 
-`VERB` occurs with 15 features: [fi-feat/Voice]() (37493; 99% instances), [fi-feat/Number]() (28486; 75% instances), [fi-feat/Mood]() (24238; 64% instances), [fi-feat/Person]() (22876; 61% instances), [fi-feat/Tense]() (21696; 57% instances), [fi-feat/VerbForm]() (10507; 28% instances), [fi-feat/Case]() (10482; 28% instances), [fi-feat/InfForm]() (5378; 14% instances), [fi-feat/PartForm]() (5104; 14% instances), [fi-feat/Negative]() (3153; 8% instances), [fi-feat/Conneg]() (2752; 7% instances), [fi-feat/Clitic]() (1684; 4% instances), [fi-feat/Person[psor]]() (511; 1% instances), [fi-feat/Number[psor]]() (149; 0% instances), [fi-feat/Degree]() (1; 0% instances)
+`VERB` occurs with 16 features: [fi-feat/VerbForm]() (37600; 100% instances), [fi-feat/Voice]() (37297; 99% instances), [fi-feat/Number]() (28384; 75% instances), [fi-feat/Mood]() (24104; 64% instances), [fi-feat/Person]() (22751; 61% instances), [fi-feat/Tense]() (21587; 57% instances), [fi-feat/Case]() (10453; 28% instances), [fi-feat/InfForm]() (5325; 14% instances), [fi-feat/PartForm]() (5128; 14% instances), [fi-feat/Negative]() (3138; 8% instances), [fi-feat/Connegative]() (2738; 7% instances), [fi-feat/Clitic]() (1673; 4% instances), [fi-feat/Style]() (1134; 3% instances), [fi-feat/Person[psor]]() (511; 1% instances), [fi-feat/Number[psor]]() (149; 0% instances), [fi-feat/Degree]() (1; 0% instances)
 
-`VERB` occurs with 58 feature-value pairs: `Case=Abe`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Lat`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Han,Ko`, `Clitic=Han,Pa`, `Clitic=Ka`, `Clitic=Kaan`, `Clitic=Kaan,Ko`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Clitic=Pa,S`, `Clitic=S`, `Conneg=Yes`, `Degree=Cmp`, `InfForm=1`, `InfForm=2`, `InfForm=3`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Opt`, `Mood=Pot`, `Negative=Neg`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `PartForm=Agt`, `PartForm=Neg`, `PartForm=Past`, `PartForm=Pres`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
+`VERB` occurs with 60 feature-value pairs: `Case=Abe`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Lat`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Han,Ko`, `Clitic=Han,Pa`, `Clitic=Ka`, `Clitic=Kaan`, `Clitic=Kaan,Ko`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Clitic=Pa,S`, `Clitic=S`, `Connegative=Yes`, `Degree=Cmp`, `InfForm=1`, `InfForm=2`, `InfForm=3`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Opt`, `Mood=Pot`, `Negative=Neg`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `PartForm=Agt`, `PartForm=Neg`, `PartForm=Past`, `PartForm=Pres`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Style=Coll`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`VERB` occurs with 401 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act` (7563 tokens).
+`VERB` occurs with 491 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (7478 tokens).
 Examples: <em>on, voi, tulee, pitää, saa, täytyy, sanoo, kuuluu, haluaa, tuntuu</em>
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 13 different relations: [fi-dep/root]() (14302; 38% instances), [fi-dep/aux]() (4906; 13% instances), [fi-dep/cop]() (3614; 10% instances), [fi-dep/advcl]() (3443; 9% instances), [fi-dep/neg]() (2898; 8% instances), [fi-dep/conj]() (2828; 7% instances), [fi-dep/ccomp]() (2261; 6% instances), [fi-dep/acl]() (1608; 4% instances), [fi-dep/amod]() (1233; 3% instances), [fi-dep/csubj]() (492; 1% instances), [fi-dep/advcl:compar]() (95; 0% instances), [fi-dep/dep]() (95; 0% instances), [fi-dep/vocative]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 23 different relations: [fi-dep/root]() (14082; 37% instances), [fi-dep/aux]() (4691; 12% instances), [fi-dep/cop]() (3787; 10% instances), [fi-dep/neg]() (2886; 8% instances), [fi-dep/acl]() (2818; 7% instances), [fi-dep/conj]() (2799; 7% instances), [fi-dep/advcl]() (2772; 7% instances), [fi-dep/ccomp]() (1538; 4% instances), [fi-dep/xcomp]() (1243; 3% instances), [fi-dep/xcomp:ds]() (366; 1% instances), [fi-dep/csubj]() (267; 1% instances), [fi-dep/csubj:cop]() (211; 1% instances), [fi-dep/dep]() (51; 0% instances), [fi-dep/mwe]() (37; 0% instances), [fi-dep/dobj]() (22; 0% instances), [fi-dep/advmod]() (9; 0% instances), [fi-dep/nsubj]() (9; 0% instances), [fi-dep/nmod]() (4; 0% instances), [fi-dep/nmod:own]() (4; 0% instances), [fi-dep/compound]() (1; 0% instances), [fi-dep/mark]() (1; 0% instances), [fi-dep/nmod:gsubj]() (1; 0% instances), [fi-dep/vocative]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 14 different parts of speech: [VERB]() (15472; 41% instances), [ROOT]() (14302; 38% instances), [NOUN]() (4211; 11% instances), [ADJ]() (2944; 8% instances), [PRON]() (312; 1% instances), [PROPN]() (216; 1% instances), [ADV]() (176; 0% instances), [NUM]() (77; 0% instances), [X]() (22; 0% instances), [INTJ]() (17; 0% instances), [DET]() (16; 0% instances), [SCONJ]() (9; 0% instances), [ADP]() (1; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `VERB` nodes belong to 15 different parts of speech: [VERB]() (15116; 40% instances), [ROOT]() (14082; 37% instances), [NOUN]() (4366; 12% instances), [ADJ]() (3181; 8% instances), [PRON]() (320; 1% instances), [PROPN]() (215; 1% instances), [ADV]() (188; 1% instances), [NUM]() (59; 0% instances), [X]() (22; 0% instances), [DET]() (17; 0% instances), [INTJ]() (17; 0% instances), [PART]() (13; 0% instances), [SCONJ]() (2; 0% instances), [ADP]() (1; 0% instances), [PUNCT]() (1; 0% instances)
 
-12397 (33%) `VERB` nodes are leaves.
+12365 (33%) `VERB` nodes are leaves.
 
-4369 (12%) `VERB` nodes have one child.
+4364 (12%) `VERB` nodes have one child.
 
-6670 (18%) `VERB` nodes have two children.
+6741 (18%) `VERB` nodes have two children.
 
-14340 (38%) `VERB` nodes have three or more children.
+14130 (38%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 17.
 
-Children of `VERB` nodes are attached using 24 different relations: [fi-dep/nmod]() (13811; 19% instances), [fi-dep/nsubj]() (13228; 18% instances), [fi-dep/advmod]() (9673; 13% instances), [fi-dep/dobj]() (9172; 12% instances), [fi-dep/aux]() (4821; 7% instances), [fi-dep/punct]() (4705; 6% instances), [fi-dep/advcl]() (3394; 5% instances), [fi-dep/mark]() (3032; 4% instances), [fi-dep/conj]() (2644; 4% instances), [fi-dep/ccomp]() (2520; 3% instances), [fi-dep/neg]() (2519; 3% instances), [fi-dep/cc]() (1972; 3% instances), [fi-dep/dep]() (1125; 2% instances), [fi-dep/compound]() (378; 1% instances), [fi-dep/csubj]() (279; 0% instances), [fi-dep/cop]() (171; 0% instances), [fi-dep/vocative]() (131; 0% instances), [fi-dep/mark:comparator]() (98; 0% instances), [fi-dep/amod]() (39; 0% instances), [fi-dep/det]() (39; 0% instances), [fi-dep/acl]() (36; 0% instances), [fi-dep/case]() (12; 0% instances), [fi-dep/advcl:compar]() (10; 0% instances), [fi-dep/nummod]() (6; 0% instances)
+Children of `VERB` nodes are attached using 31 different relations: [fi-dep/nmod]() (13761; 19% instances), [fi-dep/nsubj]() (12985; 18% instances), [fi-dep/advmod]() (9613; 13% instances), [fi-dep/dobj]() (8630; 12% instances), [fi-dep/punct]() (4677; 6% instances), [fi-dep/aux]() (4409; 6% instances), [fi-dep/mark]() (3382; 5% instances), [fi-dep/conj]() (2623; 4% instances), [fi-dep/advcl]() (2617; 4% instances), [fi-dep/neg]() (2488; 3% instances), [fi-dep/cc]() (1956; 3% instances), [fi-dep/ccomp]() (1781; 2% instances), [fi-dep/xcomp]() (1266; 2% instances), [fi-dep/nmod:own]() (562; 1% instances), [fi-dep/expl]() (447; 1% instances), [fi-dep/compound:prt]() (376; 1% instances), [fi-dep/csubj]() (267; 0% instances), [fi-dep/nsubj:cop]() (197; 0% instances), [fi-dep/discourse]() (187; 0% instances), [fi-dep/cop]() (170; 0% instances), [fi-dep/xcomp:ds]() (165; 0% instances), [fi-dep/vocative]() (132; 0% instances), [fi-dep/dep]() (73; 0% instances), [fi-dep/acl]() (35; 0% instances), [fi-dep/det]() (34; 0% instances), [fi-dep/amod]() (26; 0% instances), [fi-dep/mwe]() (17; 0% instances), [fi-dep/case]() (12; 0% instances), [fi-dep/nummod]() (6; 0% instances), [fi-dep/csubj:cop]() (4; 0% instances), [fi-dep/reparandum]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 14 different parts of speech: [NOUN]() (24335; 33% instances), [VERB]() (15472; 21% instances), [ADV]() (10180; 14% instances), [PRON]() (8586; 12% instances), [PUNCT]() (4705; 6% instances), [SCONJ]() (3186; 4% instances), [PROPN]() (3122; 4% instances), [CONJ]() (1994; 3% instances), [ADJ]() (1626; 2% instances), [NUM]() (338; 0% instances), [INTJ]() (185; 0% instances), [DET]() (39; 0% instances), [X]() (34; 0% instances), [ADP]() (13; 0% instances)
+Children of `VERB` nodes belong to 16 different parts of speech: [NOUN]() (24146; 33% instances), [VERB]() (15116; 21% instances), [PRON]() (8544; 12% instances), [ADV]() (7595; 10% instances), [PUNCT]() (4677; 6% instances), [PROPN]() (3151; 4% instances), [SCONJ]() (3012; 4% instances), [PART]() (2590; 4% instances), [CONJ]() (1974; 3% instances), [ADJ]() (1530; 2% instances), [NUM]() (308; 0% instances), [INTJ]() (170; 0% instances), [DET]() (35; 0% instances), [X]() (29; 0% instances), [ADP]() (18; 0% instances), [SYM]() (4; 0% instances)
 

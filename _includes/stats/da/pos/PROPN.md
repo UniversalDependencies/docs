@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>Danmark, København, Nielsen, Lars, Pou
 
 The 10 most frequent `PROPN` types:  <em>Danmark, København, Nielsen, Lars, Poul, Peter, Europa, Henrik, Hafnia, USA</em>
 
-The 10 most frequent ambiguous lemmas: <em>CD</em> ([PROPN]() 10, [NOUN]() 1), <em>K.</em> ([PROPN]() 6, [X]() 1), <em>Ducato</em> ([PROPN]() 5, [NOUN]() 1), <em>de</em> ([PRON]() 483, [PROPN]() 3, [X]() 1), <em>Citroën</em> ([PROPN]() 3, [NOUN]() 2), <em>ECU</em> ([NOUN]() 1, [PROPN]() 1), <em>PC</em> ([NOUN]() 2, [PROPN]() 1), <em>al</em> ([ADJ]() 233, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>CD</em> ([PROPN]() 10, [NOUN]() 1), <em>K.</em> ([PROPN]() 6, [X]() 1), <em>Ducato</em> ([PROPN]() 5, [NOUN]() 1), <em>de</em> ([PRON]() 483, [PROPN]() 3, [X]() 1), <em>Citroën</em> ([PROPN]() 3, [NOUN]() 2), <em>ECU</em> ([PROPN]() 1, [NOUN]() 1), <em>PC</em> ([NOUN]() 2, [PROPN]() 1), <em>al</em> ([ADJ]() 233, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>Per</em> ([PROPN]() 13, [ADP]() 1), <em>Hans</em> ([DET]() 15, [PROPN]() 10), <em>CD</em> ([PROPN]() 9, [NOUN]() 1), <em>K.</em> ([PROPN]() 6, [X]() 1), <em>Liv</em> ([PROPN]() 4, [NOUN]() 1), <em>de</em> ([DET]() 581, [PRON]() 323, [PROPN]() 3, [X]() 1), <em>Bank</em> ([NOUN]() 8, [PROPN]() 3), <em>IF</em> ([PROPN]() 3, [NOUN]() 1), <em>For</em> ([ADP]() 32, [CONJ]() 19, [PROPN]() 2), <em>Hotel</em> ([NOUN]() 3, [PROPN]() 2)
 

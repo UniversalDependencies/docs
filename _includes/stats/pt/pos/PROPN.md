@@ -4,14 +4,14 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 7118 `PROPN` lemmas (36%), 7134 `PROPN` types (25%) and 18481 `PROPN` tokens (8%).
+There are 7105 `PROPN` lemmas (36%), 7122 `PROPN` types (25%) and 18462 `PROPN` tokens (8%).
 Out of 17 observed tags, the rank of `PROPN` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Paulo, São, Portugal, Brasil, José, porto, Governo, nacional, Lisboa, EUA</em>
 
 The 10 most frequent `PROPN` types:  <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Nacional, Lisboa, EUA</em>
 
-The 10 most frequent ambiguous lemmas: <em>São</em> ([PROPN]() 140, [NOUN]() 1, [ADJ]() 1), <em>porto</em> ([NOUN]() 10, [PROPN]() 1), <em>nacional</em> ([ADJ]() 77, [PROPN]() 2, [NOUN]() 1), <em>Lisboa</em> ([PROPN]() 82, [NOUN]() 1), <em>rio</em> ([NOUN]() 17, [PROPN]() 1), <em>Pedro</em> ([PROPN]() 50, [NOUN]() 1), <em>Câmara</em> ([PROPN]() 47, [NOUN]() 16), <em>Manuel</em> ([PROPN]() 47, [NOUN]() 1), <em>the</em> ([PROPN]() 11, [NOUN]() 1), <em>ministério</em> ([NOUN]() 23, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>São</em> ([PROPN]() 140, [ADJ]() 1, [NOUN]() 1), <em>porto</em> ([NOUN]() 10, [PROPN]() 1), <em>nacional</em> ([ADJ]() 77, [PROPN]() 2, [NOUN]() 1), <em>Lisboa</em> ([PROPN]() 82, [NOUN]() 1), <em>rio</em> ([NOUN]() 17, [PROPN]() 1), <em>Pedro</em> ([PROPN]() 50, [NOUN]() 1), <em>Câmara</em> ([PROPN]() 47, [NOUN]() 16), <em>Manuel</em> ([PROPN]() 47, [NOUN]() 1), <em>the</em> ([PROPN]() 11, [NOUN]() 1), <em>ministério</em> ([NOUN]() 23, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>São</em> ([PROPN]() 139, [VERB]() 30, [ADJ]() 1, [NOUN]() 1), <em>Porto</em> ([PROPN]() 89, [NOUN]() 1), <em>Governo</em> ([PROPN]() 85, [NOUN]() 6), <em>Nacional</em> ([PROPN]() 84, [NOUN]() 5), <em>Lisboa</em> ([PROPN]() 83, [NOUN]() 1), <em>rio</em> ([NOUN]() 12, [PROPN]() 1), <em>Estados</em> ([PROPN]() 69, [NOUN]() 13), <em>Folha</em> ([PROPN]() 58, [NOUN]() 13), <em>Pedro</em> ([PROPN]() 50, [NOUN]() 1), <em>Banco</em> ([PROPN]() 47, [NOUN]() 3)
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>São</em> ([PROPN]() 139, [VERB]() 30
   * [PROPN]() 69: <em>Só depois surge Tonya Harding , campeã de os <b>Estados</b> Unidos .</em>
   * [NOUN]() 13: <em>Os <b>Estados</b> e municípios têm que destinar 25 % de esta receita .</em>
 * <em>Folha</em>
-  * [PROPN]() 58: <em><b>Folha</b> -- o_que a mulher precisa hoje , em termos de roupas ?</em>
+  * [PROPN]() 58: <em><b>Folha</b> -- o que a mulher precisa hoje , em termos de roupas ?</em>
   * [NOUN]() 13: <em>Morre ex-fotógrafo de a <b>Folha</b></em>
 * <em>Pedro</em>
   * [PROPN]() 50: <em><b>Pedro</b> Ivo , 63 , tel. 289-3609 )</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>São</em> ([PROPN]() 139, [VERB]() 30
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.002248 (the average of all parts of speech is 1.447246).
+The form / lemma ratio of `PROPN` is 1.002393 (the average of all parts of speech is 1.447797).
 
 The 1st highest number of forms (3) was observed with the lemma “Geral”: <em>Gerais, Geral, Greal</em>.
 
@@ -59,34 +59,34 @@ The 2nd highest number of forms (2) was observed with the lemma “Ana”: <em>A
 
 The 3rd highest number of forms (2) was observed with the lemma “André”: <em>Andr, André</em>.
 
-`PROPN` occurs with 4 features: [pt-feat/Number]() (6485; 35% instances), [pt-feat/Gender]() (6101; 33% instances), [pt-feat/Hyph]() (7; 0% instances), [pt-feat/NumType]() (1; 0% instances)
+`PROPN` occurs with 4 features: [pt-feat/Number]() (6487; 35% instances), [pt-feat/Gender]() (6103; 33% instances), [pt-feat/Hyph]() (7; 0% instances), [pt-feat/NumType]() (1; 0% instances)
 
 `PROPN` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 11 feature combinations.
-The most frequent feature combination is `_` (11996 tokens).
+The most frequent feature combination is `_` (11975 tokens).
 Examples: <em>Paulo, São, José, Nacional, João, Carlos, Estados, Unidos, Fernando, Silva</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 22 different relations: [pt-dep/name]() (7026; 38% instances), [pt-dep/nmod]() (5700; 31% instances), [pt-dep/nsubj]() (2247; 12% instances), [pt-dep/conj]() (1236; 7% instances), [pt-dep/dobj]() (764; 4% instances), [pt-dep/cc]() (649; 4% instances), [pt-dep/root]() (326; 2% instances), [pt-dep/appos]() (306; 2% instances), [pt-dep/iobj]() (100; 1% instances), [pt-dep/punct]() (64; 0% instances), [pt-dep/dep]() (15; 0% instances), [pt-dep/acl]() (13; 0% instances), [pt-dep/xcomp]() (13; 0% instances), [pt-dep/advcl]() (5; 0% instances), [pt-dep/advmod]() (5; 0% instances), [pt-dep/cop]() (3; 0% instances), [pt-dep/parataxis]() (3; 0% instances), [pt-dep/case]() (2; 0% instances), [pt-dep/aux]() (1; 0% instances), [pt-dep/ccomp]() (1; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/mark]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 22 different relations: [pt-dep/name]() (6891; 37% instances), [pt-dep/nmod]() (6098; 33% instances), [pt-dep/nsubj]() (2320; 13% instances), [pt-dep/conj]() (1378; 7% instances), [pt-dep/dobj]() (831; 5% instances), [pt-dep/appos]() (353; 2% instances), [pt-dep/root]() (336; 2% instances), [pt-dep/iobj]() (107; 1% instances), [pt-dep/nsubjpass]() (76; 0% instances), [pt-dep/acl]() (16; 0% instances), [pt-dep/xcomp]() (16; 0% instances), [pt-dep/dep]() (12; 0% instances), [pt-dep/advmod]() (9; 0% instances), [pt-dep/advcl]() (6; 0% instances), [pt-dep/parataxis]() (4; 0% instances), [pt-dep/case]() (2; 0% instances), [pt-dep/cop]() (2; 0% instances), [pt-dep/aux]() (1; 0% instances), [pt-dep/cc]() (1; 0% instances), [pt-dep/ccomp]() (1; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/mark]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (8552; 46% instances), [NOUN]() (4671; 25% instances), [VERB]() (4205; 23% instances), [ROOT]() (326; 2% instances), [ADJ]() (252; 1% instances), [ADV]() (116; 1% instances), [DET]() (114; 1% instances), [PRON]() (88; 0% instances), [NUM]() (65; 0% instances), [ADP]() (43; 0% instances), [CONJ]() (24; 0% instances), [SYM]() (10; 0% instances), [AUX]() (7; 0% instances), [SCONJ]() (6; 0% instances), [INTJ]() (2; 0% instances)
+Parents of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (8610; 47% instances), [NOUN]() (4677; 25% instances), [VERB]() (4170; 23% instances), [ROOT]() (336; 2% instances), [ADJ]() (263; 1% instances), [ADV]() (109; 1% instances), [NUM]() (88; 0% instances), [DET]() (83; 0% instances), [PRON]() (71; 0% instances), [ADP]() (23; 0% instances), [SYM]() (10; 0% instances), [CONJ]() (9; 0% instances), [AUX]() (7; 0% instances), [SCONJ]() (4; 0% instances), [INTJ]() (2; 0% instances)
 
-7082 (38%) `PROPN` nodes are leaves.
+7046 (38%) `PROPN` nodes are leaves.
 
-4747 (26%) `PROPN` nodes have one child.
+4553 (25%) `PROPN` nodes have one child.
 
-2873 (16%) `PROPN` nodes have two children.
+3023 (16%) `PROPN` nodes have two children.
 
-3779 (20%) `PROPN` nodes have three or more children.
+3840 (21%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 40.
 
-Children of `PROPN` nodes are attached using 22 different relations: [pt-dep/name]() (7112; 26% instances), [pt-dep/case]() (7076; 25% instances), [pt-dep/det]() (4905; 18% instances), [pt-dep/punct]() (4210; 15% instances), [pt-dep/nmod]() (1301; 5% instances), [pt-dep/conj]() (1251; 5% instances), [pt-dep/cc]() (792; 3% instances), [pt-dep/acl]() (442; 2% instances), [pt-dep/amod]() (194; 1% instances), [pt-dep/nummod]() (145; 1% instances), [pt-dep/cop]() (81; 0% instances), [pt-dep/parataxis]() (70; 0% instances), [pt-dep/appos]() (51; 0% instances), [pt-dep/nsubj]() (50; 0% instances), [pt-dep/advmod]() (24; 0% instances), [pt-dep/mark]() (23; 0% instances), [pt-dep/dep]() (17; 0% instances), [pt-dep/advcl]() (11; 0% instances), [pt-dep/advmod:emph]() (11; 0% instances), [pt-dep/dobj]() (9; 0% instances), [pt-dep/neg]() (5; 0% instances), [pt-dep/csubj]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 22 different relations: [pt-dep/case]() (7070; 25% instances), [pt-dep/name]() (6815; 24% instances), [pt-dep/det]() (4909; 18% instances), [pt-dep/punct]() (4241; 15% instances), [pt-dep/conj]() (1392; 5% instances), [pt-dep/nmod]() (1295; 5% instances), [pt-dep/cc]() (815; 3% instances), [pt-dep/acl]() (476; 2% instances), [pt-dep/nummod]() (222; 1% instances), [pt-dep/amod]() (203; 1% instances), [pt-dep/cop]() (97; 0% instances), [pt-dep/advmod]() (87; 0% instances), [pt-dep/parataxis]() (75; 0% instances), [pt-dep/appos]() (61; 0% instances), [pt-dep/nsubj]() (60; 0% instances), [pt-dep/mark]() (23; 0% instances), [pt-dep/dep]() (16; 0% instances), [pt-dep/advcl]() (12; 0% instances), [pt-dep/advmod:emph]() (12; 0% instances), [pt-dep/dobj]() (7; 0% instances), [pt-dep/neg]() (5; 0% instances), [pt-dep/csubj]() (1; 0% instances)
 
-Children of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (8552; 31% instances), [ADP]() (7027; 25% instances), [DET]() (4911; 18% instances), [PUNCT]() (4237; 15% instances), [NOUN]() (971; 3% instances), [CONJ]() (809; 3% instances), [VERB]() (601; 2% instances), [ADJ]() (249; 1% instances), [NUM]() (226; 1% instances), [ADV]() (130; 0% instances), [PRON]() (41; 0% instances), [SCONJ]() (13; 0% instances), [SYM]() (11; 0% instances), [PART]() (2; 0% instances), [INTJ]() (1; 0% instances)
+Children of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (8610; 31% instances), [ADP]() (7033; 25% instances), [DET]() (4917; 18% instances), [PUNCT]() (4241; 15% instances), [NOUN]() (985; 4% instances), [CONJ]() (819; 3% instances), [VERB]() (615; 2% instances), [ADJ]() (252; 1% instances), [NUM]() (236; 1% instances), [ADV]() (131; 0% instances), [PRON]() (27; 0% instances), [SCONJ]() (13; 0% instances), [SYM]() (12; 0% instances), [PART]() (2; 0% instances), [INTJ]() (1; 0% instances)
 
 
 

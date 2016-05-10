@@ -111,34 +111,35 @@ The following 4 pairs of parts of speech are connected with `appos`: [la-pos/NOU
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-271 nodes (0%) are attached to their parents as `appos`.
+419 nodes (0%) are attached to their parents as `appos`.
 
-271 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.7859778597786.
+418 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.13842482100239.
 
-The following 26 pairs of parts of speech are connected with `appos`: [la-pos/NOUN]()-[la-pos/NOUN]() (106; 39% instances), [la-pos/PRON]()-[la-pos/NOUN]() (35; 13% instances), [la-pos/NOUN]()-[la-pos/VERB]() (18; 7% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (16; 6% instances), [la-pos/NUM]()-[la-pos/NOUN]() (13; 5% instances), [la-pos/VERB]()-[la-pos/VERB]() (13; 5% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (12; 4% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (12; 4% instances), [la-pos/VERB]()-[la-pos/NOUN]() (11; 4% instances), [la-pos/ADJ]()-[la-pos/VERB]() (7; 3% instances), [la-pos/NOUN]()-[la-pos/NUM]() (4; 1% instances), [la-pos/PRON]()-[la-pos/VERB]() (3; 1% instances), [la-pos/ADJ]()-[la-pos/CONJ]() (2; 1% instances), [la-pos/DET]()-[la-pos/ADJ]() (2; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (2; 1% instances), [la-pos/NOUN]()-[la-pos/X]() (2; 1% instances), [la-pos/PRON]()-[la-pos/ADJ]() (2; 1% instances), [la-pos/PRON]()-[la-pos/PRON]() (2; 1% instances), [la-pos/X]()-[la-pos/NOUN]() (2; 1% instances), [la-pos/ADV]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (1; 0% instances), [la-pos/DET]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (1; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/X]()-[la-pos/VERB]() (1; 0% instances).
+The following 34 pairs of parts of speech are connected with `appos`: [la-pos/NOUN]()-[la-pos/NOUN]() (125; 30% instances), [la-pos/PRON]()-[la-pos/NOUN]() (51; 12% instances), [la-pos/NOUN]()-[la-pos/VERB]() (38; 9% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (33; 8% instances), [la-pos/VERB]()-[la-pos/VERB]() (22; 5% instances), [la-pos/VERB]()-[la-pos/NOUN]() (21; 5% instances), [la-pos/NUM]()-[la-pos/NOUN]() (19; 5% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (18; 4% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (17; 4% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (12; 3% instances), [la-pos/ADJ]()-[la-pos/VERB]() (9; 2% instances), [la-pos/PRON]()-[la-pos/VERB]() (9; 2% instances), [la-pos/PRON]()-[la-pos/ADJ]() (7; 2% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (5; 1% instances), [la-pos/NOUN]()-[la-pos/NUM]() (4; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (4; 1% instances), [la-pos/PRON]()-[la-pos/PROPN]() (3; 1% instances), [la-pos/VERB]()-[la-pos/ADJ]() (3; 1% instances), [la-pos/NOUN]()-[la-pos/X]() (2; 0% instances), [la-pos/PROPN]()-[la-pos/VERB]() (2; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/PRON]() (1; 0% instances), [la-pos/ADV]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/ADV]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (1; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (1; 0% instances), [la-pos/PRON]()-[la-pos/ADV]() (1; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (1; 0% instances), [la-pos/X]()-[la-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 9 appos	color:blue
-1	sed	sed	CONJ	O4|vgr1	_	3	cc	_	_
-2	omnium	omnis	DET	C1|grn1|casK|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|PronType=Ind	3	amod	_	_
-3	corporum	corpus	NOUN	C1|grn1|casK|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	0	root	_	_
-4	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-5	una	unus	NUM	F1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|NumType=Card	6	nummod	_	_
-6	forma	forma	NOUN	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nsubj	_	_
-7	,	,	PUNCT	Punc	_	9	punct	_	_
-8	scilicet	scilicet	ADV	O4	_	9	cc	_	_
-9	corporeitas	corporeitas	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	appos	_	_
-10	.	.	PUNCT	Punc	_	3	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 10 appos	color:blue
+1	secundo	secundus	ADJ	B1|grn1|casF|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|NumType=Ord	0	root	_	_
+2	,	,	PUNCT	Punc	_	4	punct	_	_
+3	ex	e	ADP	S4|vgr2|stRL	AdpType=Prep	4	case	_	_
+4	principio	principium	NOUN	B1|grn1|casF|gen3|stAN	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	1	dep	_	_
+5	operationis	operatio	NOUN	C1|grn1|casB|gen2|vgr1|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	nmod	_	_
+6	:	:	PUNCT	Punc	_	10	punct	_	_
+7	ut	ut	SCONJ	O4|vgr1|stRL	_	10	mark	_	_
+8	sit	sum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+9	altissimae	altus	NOUN	A1|grn3|casB|gen2|stAN	Case=Gen|Degree=Sup|Gender=Fem|Number=Sing	10	nmod	_	_
+10	potentiae	potentia	NOUN	A1|grn1|casB|gen2|vgr1|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	appos	_	_
+11	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 
@@ -149,44 +150,41 @@ The following 26 pairs of parts of speech are connected with `appos`: [la-pos/NO
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 appos	color:blue
-1	effudit	effundo	VERB	L3|modA|tem4|gen6	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	illam	ille	PRON	F1|grn1|casD|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	1	dobj	_	_
+1	effudit	effundo	VERB	L3|modA|tem4|gen6|stAV	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	illam	ille	PRON	F1|grn1|casD|gen2|stPD	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	1	dobj	_	_
 3	,	,	PUNCT	Punc	_	5	punct	_	_
-4	scilicet	scilicet	ADV	O4	_	5	cc	_	_
-5	sapientiam	sapientia	NOUN	A1|grn1|casD|gen2|vgr1	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	appos	_	_
+4	scilicet	scilicet	ADV	O4|stRL	_	5	cc	_	_
+5	sapientiam	sapientia	NOUN	A1|grn1|casD|gen2|vgr1|stAC	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	appos	_	_
 6	,	,	PUNCT	Punc	_	9	punct	_	_
-7	super	super	ADP	S4	AdpType=Prep	9	case	_	_
-8	omnia	omnis	DET	C1|grn1|casM|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|PronType=Ind	9	amod	_	_
-9	opera	opus	NOUN	B1|grn1|casM|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	1	nmod	_	_
-10	sua	suus	DET	B1|grn1|casM|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	9	amod	_	_
+7	super	super	ADP	S4|stRL	AdpType=Prep	9	case	_	_
+8	omnia	omnis	DET	C1|grn1|casM|gen3|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|PronType=Ind	9	det	_	_
+9	opera	opus	NOUN	B1|grn1|casM|gen3|stRS	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	1	nmod	_	_
+10	sua	suus	DET	B1|grn1|casM|gen3|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	9	det	_	_
 11	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 9 appos	color:blue
-1	forma	forma	NOUN	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	enim	enim	ADV	O4	_	4	cc	_	_
-3	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-4	finis	finis	NOUN	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-5	generationis	generatio	NOUN	C1|grn1|casB|gen2	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	nmod	_	_
-6	,	,	PUNCT	Punc	_	9	punct	_	_
-7	non	non	ADV	O4	_	9	neg	_	_
-8	ipsius	ipse	PRON	F1|grn1|casB|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem,Prs	9	nmod	_	_
-9	generati	genero	VERB	J2|modM|tem4|grp1|casB|gen3	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	appos	_	_
-10	,	,	PUNCT	Punc	_	12	punct	_	_
-11	ut	ut	SCONJ	O4|vgr1	_	12	mark	_	_
-12	dicit	dico	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
-13	commentator	commentator	NOUN	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	nsubj	_	_
-14	in	in	ADP	S4	AdpType=Prep	16	case	_	_
-15	2	_	NUM	G5	NumForm=Digit	16	nummod	_	_
-16	phys.	_	X	5	Abbr=Yes	12	advmod	_	_
-17	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 5 10 appos	color:blue
+1	primo	primus	ADJ	B1|grn1|casF|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|NumType=Ord	0	root	_	_
+2	,	,	PUNCT	Punc	_	5	punct	_	_
+3	ex	e	ADP	S4|vgr2|stRL	AdpType=Prep	5	case	_	_
+4	suo	suus	DET	B1|grn1|casF|gen3|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	_
+5	genere	genus	NOUN	C1|grn1|casF|gen3|stAN	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	1	dep	_	_
+6	:	:	PUNCT	Punc	_	10	punct	_	_
+7	ut	ut	SCONJ	O4|vgr1|stRL	_	10	mark	_	_
+8	scilicet	scilicet	ADV	O4|stRL	_	7	mwe	_	_
+9	sit	sum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	manens	maneo	VERB	K2|modD|tem1|grp1|casA|gen2|stAV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	appos	_	_
+11	in	in	ADP	S4|stRL	AdpType=Prep	13	mark	_	_
+12	ipso	ipse	PRON	F1|grn1|casF|gen3|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem,Prs	13	nmod	_	_
+13	operante	operor	VERB	J2|modM|tem1|grp1|casF|gen3|stAV	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	advcl	_	_
+14	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 

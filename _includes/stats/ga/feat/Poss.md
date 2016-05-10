@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [ga-pos/DET]() (244; 1% instance
 
 244 [ga-pos/DET]() tokens (11% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (244; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (244; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (244; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (189; 77%), <tt><a href="Person.html">Person</a>=3</tt> (182; 75%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (244; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (244; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (244; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (189; 77%), <tt><a href="Person.html">Person</a>=3</tt> (182; 75%).
 
 `DET` tokens may have the following values of `Poss`:
 

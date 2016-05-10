@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-5752 nodes (2%) are attached to their parents as `mark`.
+5782 nodes (2%) are attached to their parents as `mark`.
 
-5752 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.0432892906815.
+5782 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.04825319958492.
 
-The following 19 pairs of parts of speech are connected with `mark`: [it-pos/VERB]()-[it-pos/ADP]() (2866; 50% instances), [it-pos/VERB]()-[it-pos/SCONJ]() (2278; 40% instances), [it-pos/ADJ]()-[it-pos/SCONJ]() (225; 4% instances), [it-pos/NOUN]()-[it-pos/SCONJ]() (154; 3% instances), [it-pos/VERB]()-[it-pos/ADV]() (139; 2% instances), [it-pos/PRON]()-[it-pos/SCONJ]() (21; 0% instances), [it-pos/ADJ]()-[it-pos/ADP]() (18; 0% instances), [it-pos/NOUN]()-[it-pos/ADP]() (13; 0% instances), [it-pos/PROPN]()-[it-pos/SCONJ]() (11; 0% instances), [it-pos/ADV]()-[it-pos/SCONJ]() (6; 0% instances), [it-pos/AUX]()-[it-pos/SCONJ]() (5; 0% instances), [it-pos/PRON]()-[it-pos/ADP]() (5; 0% instances), [it-pos/ADJ]()-[it-pos/ADV]() (2; 0% instances), [it-pos/AUX]()-[it-pos/ADP]() (2; 0% instances), [it-pos/NOUN]()-[it-pos/ADV]() (2; 0% instances), [it-pos/NUM]()-[it-pos/SCONJ]() (2; 0% instances), [it-pos/ADV]()-[it-pos/ADP]() (1; 0% instances), [it-pos/ADV]()-[it-pos/ADV]() (1; 0% instances), [it-pos/PRON]()-[it-pos/ADV]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `mark`: [it-pos/VERB]()-[it-pos/ADP]() (2867; 50% instances), [it-pos/VERB]()-[it-pos/SCONJ]() (2302; 40% instances), [it-pos/ADJ]()-[it-pos/SCONJ]() (227; 4% instances), [it-pos/NOUN]()-[it-pos/SCONJ]() (155; 3% instances), [it-pos/VERB]()-[it-pos/ADV]() (138; 2% instances), [it-pos/ADJ]()-[it-pos/ADP]() (25; 0% instances), [it-pos/PRON]()-[it-pos/SCONJ]() (21; 0% instances), [it-pos/NOUN]()-[it-pos/ADP]() (14; 0% instances), [it-pos/PROPN]()-[it-pos/SCONJ]() (11; 0% instances), [it-pos/ADV]()-[it-pos/SCONJ]() (6; 0% instances), [it-pos/PRON]()-[it-pos/ADP]() (5; 0% instances), [it-pos/ADJ]()-[it-pos/ADV]() (4; 0% instances), [it-pos/NOUN]()-[it-pos/ADV]() (2; 0% instances), [it-pos/NUM]()-[it-pos/SCONJ]() (2; 0% instances), [it-pos/ADV]()-[it-pos/ADP]() (1; 0% instances), [it-pos/ADV]()-[it-pos/ADV]() (1; 0% instances), [it-pos/PRON]()-[it-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,12 +20,12 @@ The following 19 pairs of parts of speech are connected with `mark`: [it-pos/VER
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 mark	color:blue
-1	"	"	PUNCT	FB	_	5	punct	_	_
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
 2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Pivetti	Pivetti	PROPN	SP	_	5	nsubj	_	_
 4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-6	benissimo	bene	ADV	B	Degree=Abs	5	advmod	_	_
+6	benissimo	bene	ADV	B	Degree=Abs	5	advmod	_	PRED
 7	a	a	ADP	E	_	8	mark	_	_
 8	decidere	decidere	VERB	V	VerbForm=Inf	5	xcomp	_	_
 9	di	di	ADP	E	_	10	case	_	_

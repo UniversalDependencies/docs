@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` types:  <em>at, da, når, hvis, fordi, så, om, men
 
 The 10 most frequent ambiguous lemmas: <em>at</em> ([PART]() 1215, [SCONJ]() 957, [X]() 3), <em>da</em> ([SCONJ]() 136, [ADV]() 46), <em>hvis</em> ([SCONJ]() 121, [PRON]() 8), <em>så</em> ([ADV]() 380, [SCONJ]() 83, [ADJ]() 5, [VERB]() 1), <em>om</em> ([ADP]() 543, [SCONJ]() 67, [ADV]() 19), <em>før</em> ([SCONJ]() 29, [ADP]() 28, [ADV]() 15), <em>ligesom</em> ([SCONJ]() 18, [ADV]() 1), <em>inden</em> ([ADV]() 21, [ADP]() 18, [SCONJ]() 15), <em>indtil</em> ([SCONJ]() 14, [ADP]() 5), <em>siden</em> ([ADV]() 48, [ADP]() 31, [SCONJ]() 11)
 
-The 10 most frequent ambiguous types:  <em>at</em> ([PART]() 1209, [SCONJ]() 943, [X]() 3), <em>da</em> ([SCONJ]() 111, [ADV]() 43), <em>når</em> ([SCONJ]() 109, [VERB]() 4), <em>hvis</em> ([SCONJ]() 77, [PRON]() 8), <em>så</em> ([ADV]() 321, [SCONJ]() 75, [VERB]() 28, [ADJ]() 5), <em>om</em> ([ADP]() 537, [SCONJ]() 61, [ADV]() 19), <em>før</em> ([ADP]() 28, [SCONJ]() 28, [ADV]() 15), <em>ligesom</em> ([SCONJ]() 14, [ADV]() 1), <em>inden</em> ([ADV]() 20, [ADP]() 16, [SCONJ]() 12), <em>indtil</em> ([SCONJ]() 14, [ADP]() 5)
+The 10 most frequent ambiguous types:  <em>at</em> ([PART]() 1209, [SCONJ]() 943, [X]() 3), <em>da</em> ([SCONJ]() 111, [ADV]() 43), <em>når</em> ([SCONJ]() 109, [VERB]() 4), <em>hvis</em> ([SCONJ]() 77, [PRON]() 8), <em>så</em> ([ADV]() 321, [SCONJ]() 75, [VERB]() 28, [ADJ]() 5), <em>om</em> ([ADP]() 537, [SCONJ]() 61, [ADV]() 19), <em>før</em> ([SCONJ]() 28, [ADP]() 28, [ADV]() 15), <em>ligesom</em> ([SCONJ]() 14, [ADV]() 1), <em>inden</em> ([ADV]() 20, [ADP]() 16, [SCONJ]() 12), <em>indtil</em> ([SCONJ]() 14, [ADP]() 5)
 
 
 * <em>at</em>
@@ -39,8 +39,8 @@ The 10 most frequent ambiguous types:  <em>at</em> ([PART]() 1209, [SCONJ]() 943
   * [SCONJ]() 61: <em>Ved ikke <b>om</b> jeg sover , tænker eller blot sidder .</em>
   * [ADV]() 19: <em>" Ja , " siger han og vender sig <b>om</b> på siden .</em>
 * <em>før</em>
-  * [ADP]() 28: <em>Men <b>før</b> den tid var han inkarneret alkoholiker i over tyve år .</em>
   * [SCONJ]() 28: <em>Magneten skal stå langs ledningen <b>før</b> strømmen sluttes .</em>
+  * [ADP]() 28: <em>Men <b>før</b> den tid var han inkarneret alkoholiker i over tyve år .</em>
   * [ADV]() 15: <em>Jeg har aldrig mødt ham <b>før</b> , kun set ham spille i TV-kampe .</em>
 * <em>ligesom</em>
   * [SCONJ]() 14: <em>Og her er det <b>ligesom</b> med udregningen af husleje , vi tager det hele med .</em>
