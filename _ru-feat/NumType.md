@@ -5,9 +5,9 @@ shortdef: 'type of named entity'
 ---
 
 Classification of named entities (token-based, no nesting of entities etc.)
-The feature applies mainly to the [cs-pos/PROPN]() tag;
-in multi-word foreign names, [adjectives](cs-pos/ADJ) may also have this feature
-(they preserve the `ADJ` tag but at the same time they would not exist in Czech
+The feature applies mainly to the [ru-pos/PROPN]() tag;
+in multi-word foreign names, [adjectives](ru-pos/ADJ) may also have this feature
+(they preserve the `ADJ` tag but at the same time they would not exist in Russian
 otherwise than in the named entity).
 
 ### Conversion from the Prague Dependency Treebank
