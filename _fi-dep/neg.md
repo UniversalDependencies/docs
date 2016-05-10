@@ -16,3 +16,14 @@ neg(sanonut-3, ei-2)
 dobj(sanonut-3, mitään-4)
 punct(sanonut-3, .-5)
 ~~~
+
+### Diffs
+
+FinnTreeBank (FI_FTB) is tokenized differently:
+it treats *ettei* the same as *että ei* ("that not"),
+*miksei* as *miksi ei* ("why not") and so on,
+as if they were two separate words.
+Consequently, *ei* (“not”) represents a normal negation verb
+in these combinations and gets annotated `neg`.
+On the other hand, *eikä* (“and+not”) is treated as a single
+token with a clitic particle (and also marked as `neg`).
