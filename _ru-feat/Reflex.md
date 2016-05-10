@@ -4,31 +4,20 @@ title: 'Reflex'
 shortdef: 'reflexive'
 ---
 
-Boolean feature of [pronouns](cs-pos/PRON) or
-[determiners](cs-pos/DET). It tells whether the word is reflexive,
+Boolean feature of [pronouns](ru-pos/PRON) or
+[determiners](ru-pos/DET). It tells whether the word is reflexive,
 i.e. refers to the subject of its clause.
 
-In Czech, reflexive pronouns have various functions:
+In Russian, reflexive pronouns do not have various functions:
 
-- Reflexive object of a verb means that the object is the same entity as the subject:
-  _Jan <b>si</b> koupil auto&nbsp;_ = “Jan bought <b>himself</b> a car” vs.
-  _Jan mu koupil auto&nbsp;_ = “Jan bought him [someone else] a car”
-- Reflexive object of a verb in plural may also indicate a reciprocal action.
-  This usage of the reflexive pronoun is translated to English as “each other”.
-  Unlike e.g. German, Czech does not have a special reciprocal pronoun and the reflexive pronoun is used instead:
-  _Jan a Marie <b>se</b> milují&nbsp;_ = “Jan and Mary love <b>each other</b>”
-- Reflexive pronoun in a subjectless clause constitutes so-called reflexive passive:
-  _To <b>se</b> napíše zítra&nbsp;_ (reflexive passive, the verb is morphologically in active form) vs.
-  _To bude napsáno zítra&nbsp;_ (normal passive, with auxiliary finite verb and a passive participle)
-  “That will be written tomorrow”
-- Some verbs are mandatorily reflexive, i.e. they never occur without the reflexive pronoun.
-  The pronoun does not alter the meaning in any way, but without it the sentence would not be grammatical:
-  _Jan <b>se směje</b>&nbsp;_ “Jan laughs”
+Reflexive object of a verb means that the object is the same entity as the subject:
+_Ян купил <b>себе</b> машину&nbsp;_ = “Jan bought <b>himself</b> a car” vs.
+_Ян купил ему машину&nbsp;_ = “Jan bought him [someone else] a car”
 
 Reflexive possessives indicate that the subject of the clause is the possessor:
 
-- _Jan prodal <b>své</b> auto.&nbsp;_ “Jan sold <b>his</b> [own] car.”
-- _Jan prodal jeho auto.&nbsp;_ “Jan sold his [someone else's] car.”
+- _Ян продал <b>свою</b> машину.&nbsp;_ “Jan sold <b>his</b> [own] car.”
+- _Ян продал его машину.&nbsp;_ “Jan sold his [someone else's] car.”
 
 ### `Yes`: it is reflexive
 
@@ -38,5 +27,5 @@ column. (Which means that empty value has the `No` meaning.)
 
 #### Examples
 
-* reflexive personal pronouns: _se, si, sebe, sobě, sebou_ (occurs in various cases but not in nominative and vocative; does not distinguish [Number]())
-* reflexive possessive pronoun: _svůj_
+* reflexive personal pronouns: _себя, себе, себя, собой, себе_ (occurs in various cases but not in nominative; does not distinguish [Number]())
+* reflexive possessive pronoun: _свой_
