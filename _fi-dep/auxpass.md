@@ -32,5 +32,5 @@ punct(tehdä-3, .-5)
 
 ### Diffs
 
-FinnTreeBank (FI_FTB) does not use the [`auxpass`]() relation,
+FinnTreeBank (FI_FTB) does not use the `auxpass` relation,
 but uses [`aux`]() instead.
