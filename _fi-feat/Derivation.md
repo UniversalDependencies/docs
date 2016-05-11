@@ -139,7 +139,7 @@ Produces verb.
 
 #### References
 
-* <TODO> (in Finnish)
+* TODO (in Finnish)
 
 ### `Tar`: derivation with suffix -tar
 
@@ -151,7 +151,7 @@ Produces noun.
 
 #### References
 
-* <TODO> (in Finnish)
+* TODO (in Finnish)
 
 ### Diffs
 
