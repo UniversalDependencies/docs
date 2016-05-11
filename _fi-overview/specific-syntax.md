@@ -269,7 +269,7 @@ punct(järjestää-3, .-6)
 #### Diffs
 
 In FinnTreeBank (FI_FTB), in addition to copular clauses, also state clauses and result
-clauses [ISK § 891](http://scripta.kotus.fi/visk/sisallys.php?p=891) contain predicatives.
+clauses ([ISK § 891](http://scripta.kotus.fi/visk/sisallys.php?p=891)) contain predicatives.
 This results in a larger group of verbs accepted as copular verbs,
 e.g. *tulla* “to become”, *muuttua* “to turn” and *tehdä* “to make”. (See
 [FinnTreeBank Annotation Manual: 16.9 Predicative](http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/sources/FinnTreeBankManual.pdf).)
@@ -784,8 +784,8 @@ punct(seisoo-7, .-9)
 
 #### Diffs
 
-FinnTreeBank (FI_FTB) uses the universal [acl]() relation
-instead of the language-specific [acl:relcl]().
+FinnTreeBank (FI_FTB) uses the universal [`acl`](http://universaldependencies.org/u/dep/all.html#al-u-dep/acl) relation
+instead of the language-specific [`acl:relcl`]().
 
 ## Units, measures and amounts
 <!-- this section originally from TDT guidelines section 5.7 -->
@@ -883,7 +883,7 @@ punct(joku-3, .-5)
 
 #### Diffs
 
-Contrary to the special cases desribed above, in FTB-corpus the amounts
+Contrary to the special cases desribed above, in FI_FTB (FinnTreeBank) the amounts
 expressed using a nominal are treated similarly to the amounts expressed
 with a number or an adverb. This means that the semantic nucleus of the
 phrase is marked as the head in spite of its case (often the partitive
@@ -1452,7 +1452,7 @@ punct(rajalliset-5, .-6)
 
 ### Diffs
 
-As the passive verb -derived, idiomatic structures 
+As the passive-verb-derived, idiomatic structures 
 *olla tehtävissä / tehtävillä* (“to be doable”) are
 considered [`root`]() (or other) + [`advcl`]()
 in FinnTreeBank (FI_FTB), the rule relating
