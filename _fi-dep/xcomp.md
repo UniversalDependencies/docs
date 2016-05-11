@@ -45,8 +45,8 @@ Treebank.
 
 Secondary predication is not recognized in FinnTreeBank (FI_FTB).
 Therefore `xcomp` is always a non-finite verb
-(or a predicative of a non-finite copular clause) in FTB.
+(or a predicative of a non-finite copular clause) in FI_FTB.
 As the examples above represent types of result and state clauses
 ([ISK § 891](http://scripta.kotus.fi/visk/sisallys.php?p=891)),
-in FTB they have been annotated as predicatives
-(see chapter Copulas in [Specific constructions](http://universaldependencies.org/fi/overview/specific-syntax.html).
+in FI_FTB they have been annotated using predicatives
+(see chapter Copulas in [Specific constructions](http://universaldependencies.org/fi/overview/specific-syntax.html)).
