@@ -46,5 +46,5 @@ In FinnTreeBank (FI_FTB), a wide list of verbs which are
 modal or otherwise abstract by nature have been counted
 among the auxiliaries. Also a limited set of verbal
 compound constructions has been annotated using the
-relation [`aux`](). See the full lists at
+relation `aux`. See the full lists in
 [FTB Annotation Manual: 16.2 Auxiliary verb](http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/sources/FinnTreeBankManual.pdf).
