@@ -18,7 +18,7 @@ Coordination in the Basque UD annotation follows the general schema where the fi
 
 ***Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek** Europako Talde sendoena osatzen dute aditu gehienentzat .*
 
-***Zidane, Henry, Barthez, Deschamps, Blanc and the rest**form the most robust team of Europe according to most experts .*
+***Zidane, Henry, Barthez, Deschamps, Blanc and the rest** form the most robust team of Europe according to most experts .*
 
 ~~~ sdparse
 Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena osatzen dute aditu gehienentzat . \n Zidane, Henry, Barthez, Deschamps, Blanc and rest_the Europe_of team robust_the_most experts most_according_to .
