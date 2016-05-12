@@ -31,8 +31,7 @@ punct(ibili-3, .-12)
 ***In fact** something esle is needed in order to end with me .* 
 
 ~~~ sdparse
-Izan ere zerbait gehiago behar da nirekin bukatzeko .
-In fact something esle needed is me_with end_in_order_to  . 
+Izan ere zerbait gehiago behar da nirekin bukatzeko . \n In fact something esle needed is me_with end_in_order_to  . 
 
 compound(ere-2, Izan-1)
 nmod(da-6, ere-2)
