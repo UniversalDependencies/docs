@@ -22,7 +22,7 @@ case(Öö-1,jooksul-2)
 aux(murdnud-8,olid-3)
 nsubj(murdnud-8,hundid-4)
 nummod(lammast-6,kolm-5)
-dobj(murdnud8,lammast-6)
+dobj(murdnud-8,lammast-6)
 compound:prt(murdnud-8,maha-7)
 punct(murdnud-8,.-9)
 ~~~
