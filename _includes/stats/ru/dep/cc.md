@@ -79,63 +79,65 @@ The following 23 pairs of parts of speech are connected with `cc`: [ru-pos/NOUN]
 
 This relation is universal.
 
-11215 nodes (1%) are attached to their parents as `cc`.
+41123 nodes (4%) are attached to their parents as `cc`.
 
-9051 instances of `cc` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.67989300044583.
+32972 instances of `cc` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.48661333073949.
 
-The following 21 pairs of parts of speech are connected with `cc`: [ru-pos/VERB]()-[ru-pos/CONJ]() (5235; 47% instances), [ru-pos/NOUN]()-[ru-pos/CONJ]() (1493; 13% instances), [ru-pos/ADJ]()-[ru-pos/CONJ]() (1334; 12% instances), [ru-pos/ADV]()-[ru-pos/CONJ]() (873; 8% instances), [ru-pos/VERB]()-[ru-pos/SCONJ]() (855; 8% instances), [ru-pos/NOUN]()-[ru-pos/SCONJ]() (632; 6% instances), [ru-pos/ADJ]()-[ru-pos/SCONJ]() (326; 3% instances), [ru-pos/DET]()-[ru-pos/SCONJ]() (125; 1% instances), [ru-pos/ADV]()-[ru-pos/SCONJ]() (102; 1% instances), [ru-pos/PRON]()-[ru-pos/CONJ]() (102; 1% instances), [ru-pos/PRON]()-[ru-pos/SCONJ]() (76; 1% instances), [ru-pos/PART]()-[ru-pos/CONJ]() (24; 0% instances), [ru-pos/NUM]()-[ru-pos/CONJ]() (9; 0% instances), [ru-pos/SCONJ]()-[ru-pos/CONJ]() (7; 0% instances), [ru-pos/CONJ]()-[ru-pos/CONJ]() (6; 0% instances), [ru-pos/PART]()-[ru-pos/SCONJ]() (5; 0% instances), [ru-pos/DET]()-[ru-pos/CONJ]() (3; 0% instances), [ru-pos/SYM]()-[ru-pos/SCONJ]() (3; 0% instances), [ru-pos/NUM]()-[ru-pos/SCONJ]() (2; 0% instances), [ru-pos/SYM]()-[ru-pos/CONJ]() (2; 0% instances), [ru-pos/INTJ]()-[ru-pos/CONJ]() (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `cc`: [ru-pos/VERB]()-[ru-pos/CONJ]() (15661; 38% instances), [ru-pos/NOUN]()-[ru-pos/CONJ]() (15406; 37% instances), [ru-pos/ADJ]()-[ru-pos/CONJ]() (5228; 13% instances), [ru-pos/ADV]()-[ru-pos/CONJ]() (1750; 4% instances), [ru-pos/VERB]()-[ru-pos/SCONJ]() (836; 2% instances), [ru-pos/NOUN]()-[ru-pos/SCONJ]() (683; 2% instances), [ru-pos/ADJ]()-[ru-pos/SCONJ]() (456; 1% instances), [ru-pos/PRON]()-[ru-pos/CONJ]() (388; 1% instances), [ru-pos/SCONJ]()-[ru-pos/SCONJ]() (166; 0% instances), [ru-pos/ADV]()-[ru-pos/SCONJ]() (139; 0% instances), [ru-pos/NUM]()-[ru-pos/CONJ]() (131; 0% instances), [ru-pos/PRON]()-[ru-pos/SCONJ]() (79; 0% instances), [ru-pos/SCONJ]()-[ru-pos/CONJ]() (60; 0% instances), [ru-pos/PART]()-[ru-pos/CONJ]() (49; 0% instances), [ru-pos/CONJ]()-[ru-pos/CONJ]() (45; 0% instances), [ru-pos/SYM]()-[ru-pos/CONJ]() (29; 0% instances), [ru-pos/PART]()-[ru-pos/SCONJ]() (5; 0% instances), [ru-pos/CONJ]()-[ru-pos/SCONJ]() (4; 0% instances), [ru-pos/INTJ]()-[ru-pos/CONJ]() (3; 0% instances), [ru-pos/SYM]()-[ru-pos/SCONJ]() (3; 0% instances), [ru-pos/NUM]()-[ru-pos/SCONJ]() (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 cc	color:blue
-1	И	И	CONJ	_	_	4	cc	_	_
-2	скептики	СКЕПТИК	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
-3	не	НЕ	PART	_	_	4	neg	_	_
-4	молчат	МОЛЧАТЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 4 6 cc	color:blue
+1	Алгоритм	АЛГОРИТМ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	может	МОЧЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	быть	БЫТЬ	AUX	_	Aspect=Imp|VerbForm=Inf	4	auxpass	_	_
+4	записан	ЗАПИСЫВАТЬ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Brev|VerbForm=Part|Voice=Pass	2	xcomp	_	_
+5	словами	СЛОВО	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	4	dobj	_	_
+6	и	И	CONJ	_	_	4	cc	_	_
+7	изображён	ИЗОБРАЖАТЬ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Brev|VerbForm=Part|Voice=Pass	4	conj	_	_
+8	схематически	СХЕМАТИЧЕСКИ	ADV	_	Degree=Pos	7	advmod	_	_
+9	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 cc	color:blue
-1	И	И	CONJ	_	_	2	cc	_	_
-2	руки	РУКА	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
-3	,	,	PUNCT	,	_	2	punct	_	_
-4	и	И	CONJ	_	_	2	dep	_	_
-5	глаза	ГЛАЗ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	dep	_	_
-6	,	,	PUNCT	,	_	5	punct	_	_
-7	и	И	CONJ	_	_	5	dep	_	_
-8	даже	ДАЖЕ	PART	_	_	9	advmod	_	_
-9	уши	УХО	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	dep	_	_
-10	?	?	PUNCT	?	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 cc	color:blue
+1	Наличие	НАЛИЧИЕ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	исходных	ИСХОДНЫЙ	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	данных	ДАННЫЕ	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	1	nmod	_	_
+4	и	И	CONJ	_	_	3	cc	_	_
+5	некоторого	НЕКОТОРЫЙ	DET	_	Case=Gen|Gender=Masc|Number=Sing	6	det	_	_
+6	результата	РЕЗУЛЬТАТ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	conj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 cc	color:blue
-1	И	И	CONJ	_	_	7	cc	_	_
-2	на	НА	ADP	_	_	3	case	_	_
-3	него	ОН	PRON	_	_	7	dobj	_	_
-4	,	,	PUNCT	,	_	3	punct	_	_
-5	отца	ОТЕЦ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	appos	_	_
-6	,	,	PUNCT	,	_	5	punct	_	_
-7	похож	ПОХОЖИЙ	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Brev	0	root	_	_
-8	?	?	PUNCT	?	_	7	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 cc	color:blue
+1	История	ИСТОРИЯ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	-	-	PUNCT	-	_	1	punct	_	_
+3	памятные	ПАМЯТНЫЙ	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	даты	ДАТА	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	parataxis	_	_
+5	мирового	МИРОВОЙ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+6	и	И	CONJ	_	_	5	cc	_	_
+7	российского	РОССИЙСКИЙ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	_
+8	альпинизма	АЛЬПИНИЗМ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

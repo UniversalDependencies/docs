@@ -80,12 +80,12 @@ The following 10 pairs of parts of speech are connected with `nsubjpass`: [ru-po
 
 This relation is universal.
 
-7049 nodes (1%) are attached to their parents as `nsubjpass`.
+6958 nodes (1%) are attached to their parents as `nsubjpass`.
 
-4534 instances of `nsubjpass` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.01333522485459.
+4442 instances of `nsubjpass` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.98045415349238.
 
-The following 10 pairs of parts of speech are connected with `nsubjpass`: [ru-pos/VERB]()-[ru-pos/NOUN]() (5752; 82% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (536; 8% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (373; 5% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (172; 2% instances), [ru-pos/VERB]()-[ru-pos/SCONJ]() (91; 1% instances), [ru-pos/VERB]()-[ru-pos/ADV]() (90; 1% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (20; 0% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (13; 0% instances), [ru-pos/VERB]()-[ru-pos/CONJ]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/PART]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `nsubjpass`: [ru-pos/VERB]()-[ru-pos/NOUN]() (5750; 83% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (535; 8% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (373; 5% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (172; 2% instances), [ru-pos/VERB]()-[ru-pos/ADV]() (90; 1% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (20; 0% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (13; 0% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/ADV]()-[ru-pos/PRON]() (1; 0% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/CONJ]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -13,7 +13,7 @@ The 10 most frequent `PRON` types:  <em>его, он, их, её, она, они
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 26660, [PUNCT]() 18807, [ADJ]() 12528, [ADP]() 10735, [VERB]() 9436, [PROPN]() 7604, [CONJ]() 3168, [ADV]() 2142, [NUM]() 1900, [PRON]() 1763, [X]() 1700, [DET]() 1673, [SCONJ]() 624, [PART]() 491, [SYM]() 158)
 
-The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 250, [PRON]() 53, [DET]() 13, [ADP]() 12, [NOUN]() 1), <em>им</em> ([PRON]() 34, [ADJ]() 1), <em>я</em> ([ADJ]() 21, [PRON]() 10), <em>н.</em> ([PRON]() 15, [VERB]() 1), <em>кто</em> ([PRON]() 11, [NOUN]() 1), <em>чего</em> ([PRON]() 12, [DET]() 3), <em>своему</em> ([PRON]() 9, [ADV]() 2), <em>нам</em> ([PRON]() 7, [ADP]() 1), <em>чем</em> ([ADP]() 28, [PRON]() 5, [SCONJ]() 2, [DET]() 1, [CONJ]() 1), <em>I</em> ([ADJ]() 22, [PRON]() 2, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 250, [PRON]() 53, [DET]() 13, [ADP]() 12, [NOUN]() 1), <em>им</em> ([PRON]() 34, [ADJ]() 1), <em>я</em> ([ADJ]() 21, [PRON]() 10), <em>н.</em> ([PRON]() 15, [VERB]() 1), <em>кто</em> ([PRON]() 11, [NOUN]() 1), <em>чего</em> ([PRON]() 12, [DET]() 3), <em>своему</em> ([PRON]() 9, [ADV]() 2), <em>нам</em> ([PRON]() 7, [ADP]() 1), <em>чем</em> ([ADP]() 28, [PRON]() 5, [SCONJ]() 2, [CONJ]() 1, [DET]() 1), <em>I</em> ([ADJ]() 22, [PRON]() 2, [NOUN]() 1)
 
 
 * <em>что</em>
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 250, [PRON]() 
   * [ADP]() 28: <em>Саурон боролся с эльфами за власть над Средиземьем в течение более <b>чем</b> 1200 лет .</em>
   * [PRON]() 5: <em>Впрочем , этот роман длился недолго , а в своих воспоминаниях он написал : `` Я порвал с ней , когда узнал , о <b>чем</b> она болтает &#39;&#39; .</em>
   * [SCONJ]() 2: <em>Куда умнее , <b>чем</b> многие считают .</em>
-  * [DET]() 1: <em>Резерв может понадобиться для осуществления более длинных декомпрессионных остановок , <b>чем</b> было предусмотрено планом погружения , или для предоставления дополнительного времени для устранения последствий происшествий под водой .</em>
   * [CONJ]() 1: <em>Так как южное полушарие наклонено в сторону Солнца примерно в то же время , когда Земля находится ближе всего к Солнцу , то в течение года оно получает немного больше солнечной энергии , <b>чем</b> северное .</em>
+  * [DET]() 1: <em>Резерв может понадобиться для осуществления более длинных декомпрессионных остановок , <b>чем</b> было предусмотрено планом погружения , или для предоставления дополнительного времени для устранения последствий происшествий под водой .</em>
 * <em>I</em>
   * [ADJ]() 22: <em>Легион <b>I</b> Альпийский Юлиев ( ) -- позднеримский легион .</em>
   * [PRON]() 2: <em>Касательно <b>I</b> Am ... Sasha Fierce , отец , менеджер Бейонсе сказала : `` Мы думали нестандартно и придумали кое - что новое &#39;&#39; , а Бейонсе объяснила : `` Новая запись -- это двойной альбом , у него две обложки , как у журнала есть две обложки &#39;&#39; .</em>
@@ -104,7 +104,7 @@ The 10 most frequent `PRON` types:  <em>он, я, мы, они, что, его, 
 
 The 10 most frequent ambiguous lemmas: <em>ЧТО</em> ([SCONJ]() 6980, [PRON]() 2658, [PART]() 1)
 
-The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 6946, [PRON]() 1527, [NOUN]() 1), <em>его</em> ([PRON]() 1463, [DET]() 1319, [ADJ]() 76), <em>их</em> ([PRON]() 1171, [DET]() 800, [ADJ]() 33), <em>ее</em> ([PRON]() 774, [DET]() 521, [ADJ]() 35), <em>себе</em> ([PRON]() 555, [PART]() 7), <em>ничего</em> ([PRON]() 418, [ADV]() 16, [PART]() 3), <em>чем</em> ([CONJ]() 621, [PRON]() 316, [SCONJ]() 2), <em>её</em> ([PRON]() 22, [DET]() 16), <em>ком</em> ([PRON]() 4, [NOUN]() 3), <em>им.</em> ([NOUN]() 48, [PRON]() 2)
+The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 6946, [PRON]() 1527, [NOUN]() 1), <em>его</em> ([PRON]() 1463, [DET]() 1314, [ADJ]() 81), <em>их</em> ([PRON]() 1171, [DET]() 798, [ADJ]() 35), <em>ее</em> ([PRON]() 774, [DET]() 521, [ADJ]() 35), <em>себе</em> ([PRON]() 555, [PART]() 7), <em>ничего</em> ([PRON]() 418, [ADV]() 16, [PART]() 3), <em>чем</em> ([CONJ]() 621, [PRON]() 316, [SCONJ]() 2), <em>её</em> ([PRON]() 22, [DET]() 16), <em>ком</em> ([PRON]() 4, [NOUN]() 3), <em>им.</em> ([NOUN]() 48, [PRON]() 2)
 
 
 * <em>что</em>
@@ -113,12 +113,12 @@ The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 6946, [PRON]()
   * [NOUN]() 1: <em>А толстяк этот - он <b>что</b> , тоже мертвый ?</em>
 * <em>его</em>
   * [PRON]() 1463: <em>Эта чрезмерность предстоящего времени насторожила <b>его</b> .</em>
-  * [DET]() 1319: <em>Однако вопрос о <b>его</b> смысле длительное время вызывал ожесточённые споры .</em>
-  * [ADJ]() 76: <em>Сон <b>его</b> не был глубок в эту ночь , как всегда на новом месте .</em>
+  * [DET]() 1314: <em>Однако вопрос о <b>его</b> смысле длительное время вызывал ожесточённые споры .</em>
+  * [ADJ]() 81: <em>Сон <b>его</b> не был глубок в эту ночь , как всегда на новом месте .</em>
 * <em>их</em>
   * [PRON]() 1171: <em>И странно было , оглянувшись , увидеть , что <b>их</b> прошло уже так много .</em>
-  * [DET]() 800: <em>Что-то задержит на <b>их</b> лицах наш взгляд .</em>
-  * [ADJ]() 33: <em>- Тревога <b>их</b> обоснованная .</em>
+  * [DET]() 798: <em>Что-то задержит на <b>их</b> лицах наш взгляд .</em>
+  * [ADJ]() 35: <em>- Тревога <b>их</b> обоснованная .</em>
 * <em>ее</em>
   * [PRON]() 774: <em>Первым <b>ее</b> председателем стал Н. В. Крыленко .</em>
   * [DET]() 521: <em>Вот одно из <b>ее</b> писем племяннице мужа :</em>
@@ -146,7 +146,7 @@ The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 6946, [PRON]()
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.666667 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `PRON` is 4.666667 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (10) was observed with the lemma “ОНО”: <em>его, ему, им, им., него, нем, нему, ним, нём, оно</em>.
 
@@ -159,21 +159,21 @@ The 3rd highest number of forms (9) was observed with the lemma “ОНА”: <e
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 17 different relations: [ru-dep/nsubj]() (14202; 48% instances), [ru-dep/dobj]() (8116; 27% instances), [ru-dep/nmod]() (2871; 10% instances), [ru-dep/iobj]() (2807; 9% instances), [ru-dep/nsubjpass]() (536; 2% instances), [ru-dep/dep]() (447; 2% instances), [ru-dep/root]() (329; 1% instances), [ru-dep/nmod:agent]() (192; 1% instances), [ru-dep/parataxis]() (92; 0% instances), [ru-dep/advmod]() (62; 0% instances), [ru-dep/advcl]() (51; 0% instances), [ru-dep/amod]() (22; 0% instances), [ru-dep/appos]() (9; 0% instances), [ru-dep/name]() (9; 0% instances), [ru-dep/acl]() (7; 0% instances), [ru-dep/acl:relcl]() (7; 0% instances), [ru-dep/mwe]() (5; 0% instances)
+`PRON` nodes are attached to their parents using 18 different relations: [ru-dep/nsubj]() (14173; 48% instances), [ru-dep/dobj]() (8087; 27% instances), [ru-dep/nmod]() (5400; 18% instances), [ru-dep/nsubjpass]() (536; 2% instances), [ru-dep/root]() (330; 1% instances), [ru-dep/iobj]() (264; 1% instances), [ru-dep/conj]() (233; 1% instances), [ru-dep/dep]() (216; 1% instances), [ru-dep/nmod:agent]() (191; 1% instances), [ru-dep/parataxis]() (91; 0% instances), [ru-dep/mwe]() (78; 0% instances), [ru-dep/advmod]() (61; 0% instances), [ru-dep/advcl]() (52; 0% instances), [ru-dep/amod]() (22; 0% instances), [ru-dep/name]() (9; 0% instances), [ru-dep/appos]() (8; 0% instances), [ru-dep/acl:relcl]() (7; 0% instances), [ru-dep/acl]() (6; 0% instances)
 
-Parents of `PRON` nodes belong to 13 different parts of speech: [VERB]() (23714; 80% instances), [NOUN]() (2571; 9% instances), [ADJ]() (2297; 8% instances), [ADV]() (458; 2% instances), [ROOT]() (329; 1% instances), [CONJ]() (146; 0% instances), [PRON]() (135; 0% instances), [PART]() (43; 0% instances), [NUM]() (42; 0% instances), [DET]() (16; 0% instances), [SCONJ]() (7; 0% instances), [INTJ]() (3; 0% instances), [SYM]() (3; 0% instances)
+Parents of `PRON` nodes belong to 12 different parts of speech: [VERB]() (23675; 80% instances), [NOUN]() (2620; 9% instances), [ADJ]() (2329; 8% instances), [ADV]() (529; 2% instances), [ROOT]() (330; 1% instances), [PRON]() (164; 1% instances), [PART]() (48; 0% instances), [NUM]() (42; 0% instances), [CONJ]() (11; 0% instances), [SCONJ]() (10; 0% instances), [INTJ]() (3; 0% instances), [SYM]() (3; 0% instances)
 
-20746 (70%) `PRON` nodes are leaves.
+20810 (70%) `PRON` nodes are leaves.
 
-6841 (23%) `PRON` nodes have one child.
+6738 (23%) `PRON` nodes have one child.
 
-1389 (5%) `PRON` nodes have two children.
+1394 (5%) `PRON` nodes have two children.
 
-788 (3%) `PRON` nodes have three or more children.
+822 (3%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 11.
+The highest child degree of a `PRON` node is 13.
 
-Children of `PRON` nodes are attached using 23 different relations: [ru-dep/case]() (5319; 42% instances), [ru-dep/punct]() (3175; 25% instances), [ru-dep/advmod]() (1304; 10% instances), [ru-dep/amod]() (553; 4% instances), [ru-dep/nsubj]() (499; 4% instances), [ru-dep/dep]() (411; 3% instances), [ru-dep/nmod]() (241; 2% instances), [ru-dep/parataxis]() (222; 2% instances), [ru-dep/cc]() (178; 1% instances), [ru-dep/appos]() (142; 1% instances), [ru-dep/mwe]() (105; 1% instances), [ru-dep/neg]() (95; 1% instances), [ru-dep/acl]() (88; 1% instances), [ru-dep/cop]() (87; 1% instances), [ru-dep/mark]() (57; 0% instances), [ru-dep/advcl]() (27; 0% instances), [ru-dep/acl:relcl]() (15; 0% instances), [ru-dep/nummod]() (14; 0% instances), [ru-dep/iobj]() (9; 0% instances), [ru-dep/aux]() (5; 0% instances), [ru-dep/name]() (4; 0% instances), [ru-dep/dobj]() (1; 0% instances), [ru-dep/nummod:gov]() (1; 0% instances)
+Children of `PRON` nodes are attached using 24 different relations: [ru-dep/case]() (5319; 42% instances), [ru-dep/punct]() (3176; 25% instances), [ru-dep/advmod]() (1302; 10% instances), [ru-dep/nsubj]() (492; 4% instances), [ru-dep/amod]() (480; 4% instances), [ru-dep/cc]() (467; 4% instances), [ru-dep/conj]() (351; 3% instances), [ru-dep/nmod]() (248; 2% instances), [ru-dep/parataxis]() (222; 2% instances), [ru-dep/appos]() (142; 1% instances), [ru-dep/neg]() (95; 1% instances), [ru-dep/acl]() (88; 1% instances), [ru-dep/cop]() (87; 1% instances), [ru-dep/det]() (76; 1% instances), [ru-dep/mark]() (58; 0% instances), [ru-dep/mwe]() (32; 0% instances), [ru-dep/advcl]() (24; 0% instances), [ru-dep/acl:relcl]() (15; 0% instances), [ru-dep/nummod]() (14; 0% instances), [ru-dep/aux]() (5; 0% instances), [ru-dep/name]() (4; 0% instances), [ru-dep/dep]() (3; 0% instances), [ru-dep/dobj]() (1; 0% instances), [ru-dep/nummod:gov]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (5319; 42% instances), [PUNCT]() (3175; 25% instances), [PART]() (1069; 9% instances), [NOUN]() (956; 8% instances), [ADJ]() (595; 5% instances), [ADV]() (406; 3% instances), [CONJ]() (398; 3% instances), [VERB]() (191; 2% instances), [PRON]() (135; 1% instances), [SCONJ]() (129; 1% instances), [DET]() (86; 1% instances), [AUX]() (76; 1% instances), [NUM]() (14; 0% instances), [INTJ]() (3; 0% instances)
+Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (5319; 42% instances), [PUNCT]() (3176; 25% instances), [NOUN]() (1084; 9% instances), [PART]() (1064; 8% instances), [ADJ]() (592; 5% instances), [CONJ]() (407; 3% instances), [ADV]() (381; 3% instances), [VERB]() (220; 2% instances), [PRON]() (164; 1% instances), [SCONJ]() (126; 1% instances), [AUX]() (76; 1% instances), [DET]() (76; 1% instances), [NUM]() (14; 0% instances), [INTJ]() (3; 0% instances)
 

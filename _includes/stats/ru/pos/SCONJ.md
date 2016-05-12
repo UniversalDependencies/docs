@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` types:  <em>что, где, когда, чтобы,
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 26660, [PUNCT]() 18807, [ADJ]() 12528, [ADP]() 10735, [VERB]() 9436, [PROPN]() 7604, [CONJ]() 3168, [ADV]() 2142, [NUM]() 1900, [PRON]() 1763, [X]() 1700, [DET]() 1673, [SCONJ]() 624, [PART]() 491, [SYM]() 158)
 
-The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 250, [PRON]() 53, [DET]() 13, [ADP]() 12, [NOUN]() 1), <em>где</em> ([SCONJ]() 69, [ADV]() 25), <em>когда</em> ([SCONJ]() 46, [ADV]() 3), <em>как</em> ([ADP]() 175, [ADV]() 58, [SCONJ]() 30, [CONJ]() 4), <em>так</em> ([ADV]() 45, [SCONJ]() 27, [CONJ]() 8, [ADP]() 4), <em>хотя</em> ([SCONJ]() 21, [X]() 2, [CONJ]() 1), <em>если</em> ([SCONJ]() 15, [ADP]() 1), <em>поэтому</em> ([SCONJ]() 10, [ADP]() 1, [ADV]() 1), <em>пока</em> ([SCONJ]() 9, [ADV]() 5), <em>потому</em> ([ADV]() 9, [SCONJ]() 7, [ADP]() 3)
+The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 250, [PRON]() 53, [DET]() 13, [ADP]() 12, [NOUN]() 1), <em>где</em> ([SCONJ]() 69, [ADV]() 25), <em>когда</em> ([SCONJ]() 46, [ADV]() 3), <em>как</em> ([ADP]() 175, [ADV]() 58, [SCONJ]() 30, [CONJ]() 4), <em>так</em> ([ADV]() 45, [SCONJ]() 27, [CONJ]() 8, [ADP]() 4), <em>хотя</em> ([SCONJ]() 21, [X]() 2, [CONJ]() 1), <em>если</em> ([SCONJ]() 15, [ADP]() 1), <em>поэтому</em> ([SCONJ]() 10, [ADV]() 1, [ADP]() 1), <em>пока</em> ([SCONJ]() 9, [ADV]() 5), <em>потому</em> ([ADV]() 9, [SCONJ]() 7, [ADP]() 3)
 
 
 * <em>что</em>
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 250, [PRON]() 
   * [ADP]() 1: <em>Такова логика всякой революции , тем более <b>если</b> она происходит где - нибудь на Востоке -- брат вынужден воевать против брата , отец -- против сына .</em>
 * <em>поэтому</em>
   * [SCONJ]() 10: <em>Дождь является скорее исключением для Формулы - 1 , <b>поэтому</b> чаще всего используются шины для сухой трассы .</em>
-  * [ADP]() 1: <em>В определённый момент Зепп узнаёт , что он популярен лишь потому , что является высокопоставленным чиновником , красавчиком и везунчиком , и <b>поэтому</b> начинает уважать и ценить преданность Кифа .</em>
   * [ADV]() 1: <em>Отчасти , вероятно , <b>поэтому</b> Лилиенкрон поступил в военное училище .</em>
+  * [ADP]() 1: <em>В определённый момент Зепп узнаёт , что он популярен лишь потому , что является высокопоставленным чиновником , красавчиком и везунчиком , и <b>поэтому</b> начинает уважать и ценить преданность Кифа .</em>
 * <em>пока</em>
   * [SCONJ]() 9: <em>Он избил её металлическим прутом , <b>пока</b> она не потеряла сознание .</em>
   * [ADV]() 5: <em>Со временем эту функцию возьмет на себя плацента , которой <b>пока</b> нет .</em>
@@ -143,7 +143,7 @@ The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 6946, [PRON]()
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.166667 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `SCONJ` is 1.166667 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (2) was observed with the lemma “ЧТО”: <em>чем, что</em>.
 
@@ -156,21 +156,21 @@ The 3rd highest number of forms (1) was observed with the lemma “БУДТО”
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 15 different relations: [ru-dep/mark]() (10624; 69% instances), [ru-dep/cc]() (2126; 14% instances), [ru-dep/nsubj]() (1090; 7% instances), [ru-dep/parataxis]() (1040; 7% instances), [ru-dep/dep]() (270; 2% instances), [ru-dep/nsubjpass]() (91; 1% instances), [ru-dep/mwe]() (80; 1% instances), [ru-dep/nmod]() (72; 0% instances), [ru-dep/acl]() (28; 0% instances), [ru-dep/acl:relcl]() (24; 0% instances), [ru-dep/advmod]() (24; 0% instances), [ru-dep/name]() (11; 0% instances), [ru-dep/appos]() (10; 0% instances), [ru-dep/root]() (5; 0% instances), [ru-dep/advcl]() (3; 0% instances)
+`SCONJ` nodes are attached to their parents using 15 different relations: [ru-dep/mark]() (12668; 82% instances), [ru-dep/cc]() (2373; 15% instances), [ru-dep/parataxis]() (283; 2% instances), [ru-dep/mwe]() (89; 1% instances), [ru-dep/acl]() (24; 0% instances), [ru-dep/advmod]() (19; 0% instances), [ru-dep/name]() (11; 0% instances), [ru-dep/nmod]() (11; 0% instances), [ru-dep/root]() (5; 0% instances), [ru-dep/acl:relcl]() (3; 0% instances), [ru-dep/advcl]() (3; 0% instances), [ru-dep/conj]() (3; 0% instances), [ru-dep/nsubj]() (3; 0% instances), [ru-dep/dep]() (2; 0% instances), [ru-dep/appos]() (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: [VERB]() (10903; 70% instances), [NOUN]() (1773; 11% instances), [ADJ]() (1646; 11% instances), [ADV]() (533; 3% instances), [PART]() (304; 2% instances), [PRON]() (129; 1% instances), [DET]() (125; 1% instances), [CONJ]() (59; 0% instances), [NUM]() (10; 0% instances), [SYM]() (6; 0% instances), [ROOT]() (5; 0% instances), [SCONJ]() (5; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: [VERB]() (11134; 72% instances), [NOUN]() (1769; 11% instances), [ADJ]() (1696; 11% instances), [ADV]() (505; 3% instances), [SCONJ]() (169; 1% instances), [PRON]() (126; 1% instances), [PART]() (65; 0% instances), [CONJ]() (13; 0% instances), [NUM]() (10; 0% instances), [SYM]() (6; 0% instances), [ROOT]() (5; 0% instances)
 
-13942 (90%) `SCONJ` nodes are leaves.
+14196 (92%) `SCONJ` nodes are leaves.
 
-1423 (9%) `SCONJ` nodes have one child.
+1032 (7%) `SCONJ` nodes have one child.
 
-108 (1%) `SCONJ` nodes have two children.
+180 (1%) `SCONJ` nodes have two children.
 
-25 (0%) `SCONJ` nodes have three or more children.
+90 (1%) `SCONJ` nodes have three or more children.
 
-The highest child degree of a `SCONJ` node is 8.
+The highest child degree of a `SCONJ` node is 9.
 
-Children of `SCONJ` nodes are attached using 15 different relations: [ru-dep/dep]() (1057; 61% instances), [ru-dep/punct]() (519; 30% instances), [ru-dep/advmod]() (57; 3% instances), [ru-dep/advcl]() (31; 2% instances), [ru-dep/nsubj]() (20; 1% instances), [ru-dep/cop]() (11; 1% instances), [ru-dep/parataxis]() (8; 0% instances), [ru-dep/cc]() (7; 0% instances), [ru-dep/neg]() (6; 0% instances), [ru-dep/nmod]() (6; 0% instances), [ru-dep/mwe]() (4; 0% instances), [ru-dep/mark]() (3; 0% instances), [ru-dep/appos]() (1; 0% instances), [ru-dep/expl]() (1; 0% instances), [ru-dep/name]() (1; 0% instances)
+Children of `SCONJ` nodes are attached using 20 different relations: [ru-dep/punct]() (519; 30% instances), [ru-dep/dep]() (372; 22% instances), [ru-dep/advmod]() (326; 19% instances), [ru-dep/cc]() (226; 13% instances), [ru-dep/advcl]() (174; 10% instances), [ru-dep/nsubj]() (21; 1% instances), [ru-dep/parataxis]() (18; 1% instances), [ru-dep/cop]() (12; 1% instances), [ru-dep/mwe]() (12; 1% instances), [ru-dep/conj]() (9; 1% instances), [ru-dep/nmod]() (9; 1% instances), [ru-dep/neg]() (7; 0% instances), [ru-dep/mark]() (4; 0% instances), [ru-dep/appos]() (2; 0% instances), [ru-dep/acl]() (1; 0% instances), [ru-dep/amod]() (1; 0% instances), [ru-dep/aux]() (1; 0% instances), [ru-dep/dobj]() (1; 0% instances), [ru-dep/expl]() (1; 0% instances), [ru-dep/name]() (1; 0% instances)
 
-Children of `SCONJ` nodes belong to 10 different parts of speech: [VERB]() (675; 39% instances), [PUNCT]() (519; 30% instances), [NOUN]() (288; 17% instances), [ADJ]() (102; 6% instances), [PART]() (55; 3% instances), [ADV]() (47; 3% instances), [CONJ]() (24; 1% instances), [AUX]() (10; 1% instances), [PRON]() (7; 0% instances), [SCONJ]() (5; 0% instances)
+Children of `SCONJ` nodes belong to 10 different parts of speech: [PUNCT]() (519; 30% instances), [NOUN]() (299; 17% instances), [PART]() (299; 17% instances), [SCONJ]() (169; 10% instances), [VERB]() (141; 8% instances), [ADJ]() (118; 7% instances), [ADV]() (90; 5% instances), [CONJ]() (62; 4% instances), [AUX]() (10; 1% instances), [PRON]() (10; 1% instances)
 

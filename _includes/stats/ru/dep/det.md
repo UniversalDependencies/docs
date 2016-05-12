@@ -76,3 +76,77 @@ The following 19 pairs of parts of speech are connected with `det`: [ru-pos/NOUN
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Russian-Syntagrus)
+
+This relation is universal.
+
+21227 nodes (2%) are attached to their parents as `det`.
+
+21226 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30630800395722.
+
+The following 4 pairs of parts of speech are connected with `det`: [ru-pos/NOUN]()-[ru-pos/DET]() (21146; 100% instances), [ru-pos/PRON]()-[ru-pos/DET]() (76; 0% instances), [ru-pos/SYM]()-[ru-pos/DET]() (4; 0% instances), [ru-pos/PART]()-[ru-pos/DET]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	Разумеется	РАЗУМЕЕТСЯ	ADV	_	Degree=Pos	6	parataxis	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	эти	ЭТОТ	DET	_	Case=Acc|Number=Plur	4	det	_	_
+4	объяснения	ОБЪЯСНЕНИЕ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	dobj	_	_
+5	вряд_ли	ВРЯД_ЛИ	ADV	_	Degree=Pos	6	advmod	_	_
+6	можно	МОЖНО	ADV	_	Degree=Pos	0	root	_	_
+7	счесть	СЧИТАТЬ	VERB	_	Aspect=Perf|VerbForm=Inf	6	nsubj	_	_
+8	убедительными	УБЕДИТЕЛЬНЫЙ	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	dobj	_	_
+9	.	.	PUNCT	.	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	И	И	CONJ	_	_	5	cc	_	_
+2	все	ВЕСЬ	DET	_	Case=Nom|Number=Plur	3	det	_	_
+3	они	ОНИ	PRON	_	_	5	nsubj	_	_
+4	прекрасно	ПРЕКРАСНО	ADV	_	Degree=Pos	5	advmod	_	_
+5	понимают	ПОНИМАТЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	русский	РУССКИЙ	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	язык	ЯЗЫК	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	_
+8	.	.	PUNCT	.	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 det	color:blue
+1	(	(	PUNCT	(	_	2	punct	_	_
+2	В	В	ADP	_	_	3	case	_	_
+3	среднем	СРЕДНЕЕ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	advmod	_	_
+4	по	ПО	ADP	_	_	5	case	_	_
+5	стране	СТРАНА	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	dobj	_	_
+6	таких	ТАКОЙ	DET	_	Case=Gen|Number=Plur	9	det	_	_
+7	было	БЫТЬ	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
+8	7	7	NUM	_	_	9	nummod	_	_
+9	%	ПРОЦЕНТ-ЗНАК	SYM	_	_	0	root	_	_
+10	)	)	PUNCT	)	_	9	punct	_	_
+11	.	.	PUNCT	.	_	9	punct	_	_
+
+~~~
+
+

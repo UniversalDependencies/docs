@@ -87,12 +87,12 @@ The following 7 pairs of parts of speech are connected with `xcomp`: [ru-pos/VER
 
 This relation is universal.
 
-8390 nodes (1%) are attached to their parents as `xcomp`.
+8386 nodes (1%) are attached to their parents as `xcomp`.
 
-7942 instances of `xcomp` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.78724672228844.
+7939 instances of `xcomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.78487956117338.
 
-The following 1 pairs of parts of speech are connected with `xcomp`: [ru-pos/VERB]()-[ru-pos/VERB]() (8390; 100% instances).
+The following 1 pairs of parts of speech are connected with `xcomp`: [ru-pos/VERB]()-[ru-pos/VERB]() (8386; 100% instances).
 
 
 ~~~ conllu
@@ -106,8 +106,8 @@ The following 1 pairs of parts of speech are connected with `xcomp`: [ru-pos/VER
 3	быть	БЫТЬ	AUX	_	Aspect=Imp|VerbForm=Inf	4	auxpass	_	_
 4	записан	ЗАПИСЫВАТЬ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Brev|VerbForm=Part|Voice=Pass	2	xcomp	_	_
 5	словами	СЛОВО	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	4	dobj	_	_
-6	и	И	CONJ	_	_	4	dep	_	_
-7	изображён	ИЗОБРАЖАТЬ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Brev|VerbForm=Part|Voice=Pass	6	dep	_	_
+6	и	И	CONJ	_	_	4	cc	_	_
+7	изображён	ИЗОБРАЖАТЬ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Brev|VerbForm=Part|Voice=Pass	4	conj	_	_
 8	схематически	СХЕМАТИЧЕСКИ	ADV	_	Degree=Pos	7	advmod	_	_
 9	.	.	PUNCT	.	_	2	punct	_	_
 

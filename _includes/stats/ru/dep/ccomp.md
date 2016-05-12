@@ -92,12 +92,12 @@ The following 21 pairs of parts of speech are connected with `ccomp`: [ru-pos/VE
 
 This relation is universal.
 
-920 nodes (0%) are attached to their parents as `ccomp`.
+892 nodes (0%) are attached to their parents as `ccomp`.
 
-822 instances of `ccomp` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.18586956521739.
+793 instances of `ccomp` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.04820627802691.
 
-The following 1 pairs of parts of speech are connected with `ccomp`: [ru-pos/VERB]()-[ru-pos/VERB]() (920; 100% instances).
+The following 2 pairs of parts of speech are connected with `ccomp`: [ru-pos/VERB]()-[ru-pos/VERB]() (891; 100% instances), [ru-pos/VERB]()-[ru-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -117,6 +117,34 @@ The following 1 pairs of parts of speech are connected with `ccomp`: [ru-pos/VER
 9	девалось	ДЕВАТЬСЯ	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	_
 10	время	ВРЕМЯ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
 11	.	.	PUNCT	.	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 ccomp	color:blue
+1	Громко	ГРОМКО	ADV	_	Degree=Pos	3	advmod	_	_
+2	я	Я	PRON	_	_	3	nsubj	_	_
+3	кричу	КРИЧАТЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	:	:	PUNCT	:	_	6	punct	_	_
+5	"	"	PUNCT	"	_	6	punct	_	_
+6	Да	ДА	PART	_	_	3	ccomp	_	_
+7	здравствует	ЗДРАВСТВОВАТЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	mwe	_	_
+8	реконструкция	РЕКОНСТРУКЦИЯ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+9	человеческого	ЧЕЛОВЕЧЕСКИЙ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	материала	МАТЕРИАЛ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	dobj	_	_
+11	,	,	PUNCT	,	_	10	punct	_	_
+12	всеобъемлющая	ВСЕОБЪЕМЛЮЩИЙ	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	инженерия	ИНЖЕНЕРИЯ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	_
+14	нового	НОВЫЙ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	мира	МИР	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+16	"	"	PUNCT	"	_	15	punct	_	_
+17	"	"	PUNCT	"	_	15	punct	_	_
+18	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

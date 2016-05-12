@@ -85,9 +85,9 @@ This relation is universal.
 59130 nodes (6%) are attached to their parents as `root`.
 
 59130 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.77606967698292.
+Average distance between parent and child is 5.77214611872146.
 
-The following 10 pairs of parts of speech are connected with `root`: [ru-pos/ROOT]()-[ru-pos/VERB]() (42248; 71% instances), [ru-pos/ROOT]()-[ru-pos/NOUN]() (7497; 13% instances), [ru-pos/ROOT]()-[ru-pos/ADJ]() (6265; 11% instances), [ru-pos/ROOT]()-[ru-pos/ADV]() (2407; 4% instances), [ru-pos/ROOT]()-[ru-pos/PRON]() (329; 1% instances), [ru-pos/ROOT]()-[ru-pos/PART]() (242; 0% instances), [ru-pos/ROOT]()-[ru-pos/NUM]() (100; 0% instances), [ru-pos/ROOT]()-[ru-pos/INTJ]() (21; 0% instances), [ru-pos/ROOT]()-[ru-pos/SYM]() (16; 0% instances), [ru-pos/ROOT]()-[ru-pos/SCONJ]() (5; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: [ru-pos/ROOT]()-[ru-pos/VERB]() (42227; 71% instances), [ru-pos/ROOT]()-[ru-pos/NOUN]() (7492; 13% instances), [ru-pos/ROOT]()-[ru-pos/ADJ]() (6264; 11% instances), [ru-pos/ROOT]()-[ru-pos/ADV]() (2430; 4% instances), [ru-pos/ROOT]()-[ru-pos/PRON]() (330; 1% instances), [ru-pos/ROOT]()-[ru-pos/PART]() (245; 0% instances), [ru-pos/ROOT]()-[ru-pos/NUM]() (100; 0% instances), [ru-pos/ROOT]()-[ru-pos/INTJ]() (21; 0% instances), [ru-pos/ROOT]()-[ru-pos/SYM]() (16; 0% instances), [ru-pos/ROOT]()-[ru-pos/SCONJ]() (5; 0% instances).
 
 
 ~~~ conllu

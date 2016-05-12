@@ -59,6 +59,28 @@ The following 4 pairs of parts of speech are connected with `vocative`: [ru-pos/
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 vocative	color:blue
+1	``	_	PUNCT	``	_	3	punct	_	_
+2	Не	_	PART	NEG	_	3	neg	_	_
+3	думайте	_	VERB	VBC	Aspect=Imp|Mood=Imp|Number=Plur|Person=2	0	root	_	_
+4	,	_	PUNCT	,	_	5	punct	_	_
+5	товарищи	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Plur	3	vocative	_	_
+6	,	_	PUNCT	,	_	5	punct	_	_
+7	я	_	PRON	PRP	Case=Nom|Number=Sing|Person=1	8	nsubj	_	_
+8	бросаю	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	ccomp	_	_
+9	слова	_	NOUN	NN	Animacy=Inan|Case=Acc|Number=Plur	8	dobj	_	_
+10	на	_	ADP	IN	_	11	case	_	_
+11	ветер	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
+12	.	_	PUNCT	.	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 25	bgColor:blue
 # visual-style 25	fgColor:white
 # visual-style 23	bgColor:blue
@@ -94,28 +116,6 @@ The following 4 pairs of parts of speech are connected with `vocative`: [ru-pos/
 28	Maidens	_	NOUN	NN	Animacy=Anim|Case=Voc|Number=Plur	25	appos	_	_
 29	&#39;&#39;	_	PUNCT	&#39;&#39;	_	23	punct	_	_
 30	.	_	PUNCT	.	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 vocative	color:blue
-1	``	_	PUNCT	``	_	3	punct	_	_
-2	Не	_	PART	NEG	_	3	neg	_	_
-3	думайте	_	VERB	VBC	Aspect=Imp|Mood=Imp|Number=Plur|Person=2	0	root	_	_
-4	,	_	PUNCT	,	_	5	punct	_	_
-5	товарищи	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Plur	3	vocative	_	_
-6	,	_	PUNCT	,	_	5	punct	_	_
-7	я	_	PRON	PRP	Case=Nom|Number=Sing|Person=1	8	nsubj	_	_
-8	бросаю	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	ccomp	_	_
-9	слова	_	NOUN	NN	Animacy=Inan|Case=Acc|Number=Plur	8	dobj	_	_
-10	на	_	ADP	IN	_	11	case	_	_
-11	ветер	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
-12	.	_	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

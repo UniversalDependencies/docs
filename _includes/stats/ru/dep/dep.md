@@ -78,63 +78,68 @@ The following 19 pairs of parts of speech are connected with `dep`: [ru-pos/VERB
 
 This relation is universal.
 
-84128 nodes (8%) are attached to their parents as `dep`.
+4518 nodes (0%) are attached to their parents as `dep`.
 
-83680 instances of `dep` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.08685574362876.
+4377 instances of `dep` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.81961044710049.
 
-The following 96 pairs of parts of speech are connected with `dep`: [ru-pos/NOUN]()-[ru-pos/CONJ]() (13929; 17% instances), [ru-pos/CONJ]()-[ru-pos/NOUN]() (13625; 16% instances), [ru-pos/CONJ]()-[ru-pos/VERB]() (10659; 13% instances), [ru-pos/VERB]()-[ru-pos/CONJ]() (10411; 12% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (8920; 11% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (5844; 7% instances), [ru-pos/CONJ]()-[ru-pos/ADJ]() (3993; 5% instances), [ru-pos/ADJ]()-[ru-pos/CONJ]() (3774; 4% instances), [ru-pos/ADJ]()-[ru-pos/VERB]() (2168; 3% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (1886; 2% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (1445; 2% instances), [ru-pos/CONJ]()-[ru-pos/ADV]() (1213; 1% instances), [ru-pos/ADV]()-[ru-pos/CONJ]() (904; 1% instances), [ru-pos/SCONJ]()-[ru-pos/VERB]() (650; 1% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (328; 0% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (311; 0% instances), [ru-pos/PRON]()-[ru-pos/CONJ]() (273; 0% instances), [ru-pos/ADV]()-[ru-pos/ADV]() (268; 0% instances), [ru-pos/SCONJ]()-[ru-pos/NOUN]() (257; 0% instances), [ru-pos/VERB]()-[ru-pos/NOUN]() (242; 0% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (220; 0% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (210; 0% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (183; 0% instances), [ru-pos/ADV]()-[ru-pos/VERB]() (175; 0% instances), [ru-pos/DET]()-[ru-pos/CONJ]() (160; 0% instances), [ru-pos/VERB]()-[ru-pos/SCONJ]() (155; 0% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (146; 0% instances), [ru-pos/CONJ]()-[ru-pos/PRON]() (144; 0% instances), [ru-pos/CONJ]()-[ru-pos/NUM]() (119; 0% instances), [ru-pos/NOUN]()-[ru-pos/ADV]() (118; 0% instances), [ru-pos/NUM]()-[ru-pos/CONJ]() (118; 0% instances), [ru-pos/VERB]()-[ru-pos/ADV]() (107; 0% instances), [ru-pos/SCONJ]()-[ru-pos/ADJ]() (97; 0% instances), [ru-pos/NUM]()-[ru-pos/NOUN]() (92; 0% instances), [ru-pos/NUM]()-[ru-pos/NUM]() (87; 0% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (66; 0% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (64; 0% instances), [ru-pos/VERB]()-[ru-pos/PART]() (48; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADV]() (39; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (34; 0% instances), [ru-pos/PRON]()-[ru-pos/VERB]() (34; 0% instances), [ru-pos/CONJ]()-[ru-pos/SCONJ]() (33; 0% instances), [ru-pos/NOUN]()-[ru-pos/SCONJ]() (32; 0% instances), [ru-pos/SCONJ]()-[ru-pos/ADV]() (32; 0% instances), [ru-pos/PART]()-[ru-pos/VERB]() (29; 0% instances), [ru-pos/ADJ]()-[ru-pos/SCONJ]() (28; 0% instances), [ru-pos/CONJ]()-[ru-pos/CONJ]() (27; 0% instances), [ru-pos/ADJ]()-[ru-pos/PRON]() (26; 0% instances), [ru-pos/CONJ]()-[ru-pos/PART]() (26; 0% instances), [ru-pos/CONJ]()-[ru-pos/SYM]() (25; 0% instances), [ru-pos/SYM]()-[ru-pos/CONJ]() (25; 0% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (21; 0% instances), [ru-pos/PART]()-[ru-pos/CONJ]() (19; 0% instances), [ru-pos/SYM]()-[ru-pos/SYM]() (19; 0% instances), [ru-pos/ADV]()-[ru-pos/NUM]() (18; 0% instances), [ru-pos/SCONJ]()-[ru-pos/CONJ]() (17; 0% instances), [ru-pos/PART]()-[ru-pos/PART]() (16; 0% instances), [ru-pos/ADV]()-[ru-pos/PRON]() (15; 0% instances), [ru-pos/PRON]()-[ru-pos/PRON]() (15; 0% instances), [ru-pos/ADV]()-[ru-pos/SCONJ]() (14; 0% instances), [ru-pos/DET]()-[ru-pos/ADJ]() (13; 0% instances), [ru-pos/NUM]()-[ru-pos/SYM]() (13; 0% instances), [ru-pos/PART]()-[ru-pos/ADP]() (11; 0% instances), [ru-pos/PRON]()-[ru-pos/ADJ]() (11; 0% instances), [ru-pos/ADJ]()-[ru-pos/NUM]() (10; 0% instances), [ru-pos/NUM]()-[ru-pos/VERB]() (10; 0% instances), [ru-pos/SYM]()-[ru-pos/NOUN]() (10; 0% instances), [ru-pos/VERB]()-[ru-pos/INTJ]() (10; 0% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (9; 0% instances), [ru-pos/SYM]()-[ru-pos/NUM]() (7; 0% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (6; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (6; 0% instances), [ru-pos/PRON]()-[ru-pos/ADV]() (6; 0% instances), [ru-pos/PRON]()-[ru-pos/SCONJ]() (6; 0% instances), [ru-pos/PART]()-[ru-pos/ADJ]() (5; 0% instances), [ru-pos/INTJ]()-[ru-pos/CONJ]() (4; 0% instances), [ru-pos/NOUN]()-[ru-pos/INTJ]() (4; 0% instances), [ru-pos/CONJ]()-[ru-pos/INTJ]() (3; 0% instances), [ru-pos/SYM]()-[ru-pos/VERB]() (3; 0% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (3; 0% instances), [ru-pos/ADJ]()-[ru-pos/PART]() (2; 0% instances), [ru-pos/ADV]()-[ru-pos/PART]() (2; 0% instances), [ru-pos/DET]()-[ru-pos/PRON]() (2; 0% instances), [ru-pos/DET]()-[ru-pos/VERB]() (2; 0% instances), [ru-pos/INTJ]()-[ru-pos/INTJ]() (2; 0% instances), [ru-pos/NUM]()-[ru-pos/ADJ]() (2; 0% instances), [ru-pos/PART]()-[ru-pos/PRON]() (2; 0% instances), [ru-pos/SCONJ]()-[ru-pos/PRON]() (2; 0% instances), [ru-pos/SCONJ]()-[ru-pos/SCONJ]() (2; 0% instances), [ru-pos/ADJ]()-[ru-pos/SYM]() (1; 0% instances), [ru-pos/INTJ]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/INTJ]()-[ru-pos/ADP]() (1; 0% instances), [ru-pos/INTJ]()-[ru-pos/ADV]() (1; 0% instances), [ru-pos/INTJ]()-[ru-pos/VERB]() (1; 0% instances), [ru-pos/NUM]()-[ru-pos/ADV]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/ADV]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 dep	color:blue
-1	Наличие	НАЛИЧИЕ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-2	исходных	ИСХОДНЫЙ	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
-3	данных	ДАННЫЕ	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	1	nmod	_	_
-4	и	И	CONJ	_	_	3	dep	_	_
-5	некоторого	НЕКОТОРЫЙ	DET	_	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
-6	результата	РЕЗУЛЬТАТ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	dep	_	_
-7	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 dep	color:blue
-1	Наличие	НАЛИЧИЕ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-2	исходных	ИСХОДНЫЙ	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
-3	данных	ДАННЫЕ	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	1	nmod	_	_
-4	и	И	CONJ	_	_	3	dep	_	_
-5	некоторого	НЕКОТОРЫЙ	DET	_	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
-6	результата	РЕЗУЛЬТАТ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	dep	_	_
-7	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
+The following 36 pairs of parts of speech are connected with `dep`: [ru-pos/ADJ]()-[ru-pos/VERB]() (1622; 36% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (1573; 35% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (307; 7% instances), [ru-pos/SCONJ]()-[ru-pos/NOUN]() (246; 5% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (192; 4% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (179; 4% instances), [ru-pos/SCONJ]()-[ru-pos/ADJ]() (93; 2% instances), [ru-pos/CONJ]()-[ru-pos/ADJ]() (51; 1% instances), [ru-pos/ADV]()-[ru-pos/VERB]() (44; 1% instances), [ru-pos/VERB]()-[ru-pos/PART]() (36; 1% instances), [ru-pos/SCONJ]()-[ru-pos/ADV]() (31; 1% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (24; 1% instances), [ru-pos/ADJ]()-[ru-pos/PRON]() (19; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADV]() (18; 0% instances), [ru-pos/ADV]()-[ru-pos/NUM]() (17; 0% instances), [ru-pos/PART]()-[ru-pos/ADP]() (11; 0% instances), [ru-pos/VERB]()-[ru-pos/INTJ]() (10; 0% instances), [ru-pos/ADJ]()-[ru-pos/NUM]() (8; 0% instances), [ru-pos/VERB]()-[ru-pos/NOUN]() (5; 0% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (4; 0% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (4; 0% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (3; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (2; 0% instances), [ru-pos/ADV]()-[ru-pos/PART]() (2; 0% instances), [ru-pos/CONJ]()-[ru-pos/NOUN]() (2; 0% instances), [ru-pos/CONJ]()-[ru-pos/PART]() (2; 0% instances), [ru-pos/PART]()-[ru-pos/PRON]() (2; 0% instances), [ru-pos/SCONJ]()-[ru-pos/PRON]() (2; 0% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (2; 0% instances), [ru-pos/ADV]()-[ru-pos/ADV]() (1; 0% instances), [ru-pos/ADV]()-[ru-pos/PRON]() (1; 0% instances), [ru-pos/INTJ]()-[ru-pos/ADP]() (1; 0% instances), [ru-pos/NOUN]()-[ru-pos/SCONJ]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/SCONJ]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 dep	color:blue
-1	Алгоритм	АЛГОРИТМ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-2	может	МОЧЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	быть	БЫТЬ	AUX	_	Aspect=Imp|VerbForm=Inf	4	auxpass	_	_
-4	записан	ЗАПИСЫВАТЬ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Brev|VerbForm=Part|Voice=Pass	2	xcomp	_	_
-5	словами	СЛОВО	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	4	dobj	_	_
-6	и	И	CONJ	_	_	4	dep	_	_
-7	изображён	ИЗОБРАЖАТЬ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Brev|VerbForm=Part|Voice=Pass	6	dep	_	_
-8	схематически	СХЕМАТИЧЕСКИ	ADV	_	Degree=Pos	7	advmod	_	_
-9	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 dep	color:blue
+1	Он	ОН	PRON	_	_	2	nsubj	_	_
+2	знал	ЗНАТЬ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	это	ЭТО	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	dobj	_	_
+4	и	И	CONJ	_	_	2	cc	_	_
+5	должен	ДОЛЖЕН	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Brev	2	conj	_	_
+6	был	БЫТЬ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+7	искать	ИСКАТЬ	VERB	_	Aspect=Imp|VerbForm=Inf	5	dep	_	_
+8	свое	СВОЙ	DET	_	Case=Acc|Gender=Neut|Number=Sing	9	det	_	_
+9	место	МЕСТО	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	dobj	_	_
+10	в	В	ADP	_	_	12	case	_	_
+11	чужих	ЧУЖОЙ	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	12	amod	_	_
+12	домах	ДОМ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	nmod	_	_
+13	.	.	PUNCT	.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 dep	color:blue
+1	Возможность	ВОЗМОЖНОСТЬ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	проходить	ПРОХОДИТЬ	VERB	_	Aspect=Imp|VerbForm=Inf	1	dep	_	_
+3	маршрут	МАРШРУТ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	dobj	_	_
+4	в	В	ADP	_	_	7	case	_	_
+5	легкой	ЛЕГКИЙ	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+6	скальной	СКАЛЬНЫЙ	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	обуви	ОБУВЬ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	_
+8	;	;	PUNCT	;	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 dep	color:blue
+1	Потрясенный	ПОТРЯСАТЬ	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+2	увиденным	ВИДЕТЬ	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	dep	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	Ванье	ВАНЬЕ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	начал	НАЧИНАТЬ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	действовать	ДЕЙСТВОВАТЬ	VERB	_	Aspect=Imp|VerbForm=Inf	5	xcomp	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

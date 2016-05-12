@@ -85,7 +85,7 @@ The 10 most frequent ambiguous types:  <em>?</em> ([PUNCT]() 3014, [NOUN]() 1)
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -100,7 +100,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: [ru-dep/punct]() (188918; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: [NOUN]() (86582; 46% instances), [VERB]() (59448; 31% instances), [ADJ]() (19151; 10% instances), [ADV]() (12282; 7% instances), [PRON]() (3175; 2% instances), [NUM]() (2065; 1% instances), [PART]() (1929; 1% instances), [CONJ]() (1554; 1% instances), [ADP]() (1431; 1% instances), [SCONJ]() (519; 0% instances), [DET]() (327; 0% instances), [AUX]() (186; 0% instances), [SYM]() (153; 0% instances), [INTJ]() (115; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: [NOUN]() (86577; 46% instances), [VERB]() (59427; 31% instances), [ADJ]() (19185; 10% instances), [ADV]() (12305; 7% instances), [PRON]() (3176; 2% instances), [NUM]() (2065; 1% instances), [PART]() (1932; 1% instances), [CONJ]() (1554; 1% instances), [ADP]() (1431; 1% instances), [SCONJ]() (519; 0% instances), [DET]() (292; 0% instances), [AUX]() (186; 0% instances), [SYM]() (153; 0% instances), [INTJ]() (115; 0% instances), [PUNCT]() (1; 0% instances)
 
 188917 (100%) `PUNCT` nodes are leaves.
 

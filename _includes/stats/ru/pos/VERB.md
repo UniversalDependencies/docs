@@ -136,7 +136,7 @@ The 10 most frequent ambiguous types:  <em>есть</em> ([VERB]() 680, [AUX]() 
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 5.152822 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `VERB` is 5.152822 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (61) was observed with the lemma “ПРИНИМАТЬ”: <em>Примите, приемлем, приемлет, приемлют, примем, примет, примут, принимавший, принимавшим, принимавших, принимаем, принимаемого, принимаемы, принимаемые, принимаемый, принимаемых, принимает, принимал, принимала, принималась, принимали, принимались, принимало, принималось, принимать, приниматься, принимаю, принимают, принимаются, принимающего, принимающей, принимающем, принимающие, принимающий, принимающих, принимая, приняв, принявшего, принявшей, принявший, принявших, принял, приняла, приняли, приняло, принят, принята, принятая, принято, принятого, принятое, принятой, принятом, принятому, приняты, принятые, принятый, принятым, принятыми, принятых, принять</em>.
 
@@ -155,21 +155,21 @@ Examples: <em>может, нет, есть, является, говорит, с
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 21 different relations: [ru-dep/root]() (42248; 36% instances), [ru-dep/dep]() (21461; 18% instances), [ru-dep/advcl]() (13926; 12% instances), [ru-dep/amod]() (10455; 9% instances), [ru-dep/xcomp]() (8390; 7% instances), [ru-dep/parataxis]() (6525; 6% instances), [ru-dep/nsubj]() (5918; 5% instances), [ru-dep/acl:relcl]() (5739; 5% instances), [ru-dep/ccomp]() (920; 1% instances), [ru-dep/acl]() (805; 1% instances), [ru-dep/advmod]() (342; 0% instances), [ru-dep/nmod]() (272; 0% instances), [ru-dep/nsubjpass]() (172; 0% instances), [ru-dep/appos]() (66; 0% instances), [ru-dep/mwe]() (28; 0% instances), [ru-dep/neg]() (16; 0% instances), [ru-dep/iobj]() (3; 0% instances), [ru-dep/mark]() (2; 0% instances), [ru-dep/name]() (2; 0% instances), [ru-dep/auxpass]() (1; 0% instances), [ru-dep/nmod:agent]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 21 different relations: [ru-dep/root]() (42227; 36% instances), [ru-dep/conj]() (17176; 15% instances), [ru-dep/advcl]() (14047; 12% instances), [ru-dep/amod]() (10445; 9% instances), [ru-dep/xcomp]() (8386; 7% instances), [ru-dep/parataxis]() (7189; 6% instances), [ru-dep/nsubj]() (5918; 5% instances), [ru-dep/acl:relcl]() (5739; 5% instances), [ru-dep/dep]() (3547; 3% instances), [ru-dep/ccomp]() (891; 1% instances), [ru-dep/acl]() (793; 1% instances), [ru-dep/advmod]() (341; 0% instances), [ru-dep/nmod]() (274; 0% instances), [ru-dep/nsubjpass]() (172; 0% instances), [ru-dep/appos]() (66; 0% instances), [ru-dep/mwe]() (66; 0% instances), [ru-dep/neg]() (8; 0% instances), [ru-dep/mark]() (3; 0% instances), [ru-dep/name]() (2; 0% instances), [ru-dep/auxpass]() (1; 0% instances), [ru-dep/nmod:agent]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 13 different parts of speech: [ROOT]() (42248; 36% instances), [VERB]() (30588; 26% instances), [NOUN]() (22860; 19% instances), [CONJ]() (10698; 9% instances), [ADJ]() (6130; 5% instances), [ADV]() (3574; 3% instances), [SCONJ]() (675; 1% instances), [PRON]() (191; 0% instances), [DET]() (186; 0% instances), [PART]() (66; 0% instances), [NUM]() (49; 0% instances), [SYM]() (25; 0% instances), [INTJ]() (2; 0% instances)
+Parents of `VERB` nodes belong to 12 different parts of speech: [ROOT]() (42227; 36% instances), [VERB]() (40082; 34% instances), [NOUN]() (23387; 20% instances), [ADJ]() (7157; 6% instances), [ADV]() (3783; 3% instances), [PRON]() (220; 0% instances), [SCONJ]() (141; 0% instances), [CONJ]() (121; 0% instances), [PART]() (81; 0% instances), [NUM]() (64; 0% instances), [SYM]() (25; 0% instances), [INTJ]() (4; 0% instances)
 
-5120 (4%) `VERB` nodes are leaves.
+5278 (4%) `VERB` nodes are leaves.
 
-21378 (18%) `VERB` nodes have one child.
+21971 (19%) `VERB` nodes have one child.
 
-23303 (20%) `VERB` nodes have two children.
+22409 (19%) `VERB` nodes have two children.
 
-67491 (58%) `VERB` nodes have three or more children.
+67634 (58%) `VERB` nodes have three or more children.
 
-The highest child degree of a `VERB` node is 13.
+The highest child degree of a `VERB` node is 19.
 
-Children of `VERB` nodes are attached using 29 different relations: [ru-dep/punct]() (59448; 17% instances), [ru-dep/nsubj]() (56799; 16% instances), [ru-dep/dobj]() (53355; 15% instances), [ru-dep/nmod]() (39914; 12% instances), [ru-dep/advmod]() (32390; 9% instances), [ru-dep/dep]() (17551; 5% instances), [ru-dep/iobj]() (14578; 4% instances), [ru-dep/advcl]() (11609; 3% instances), [ru-dep/parataxis]() (10063; 3% instances), [ru-dep/mark]() (9454; 3% instances), [ru-dep/neg]() (8864; 3% instances), [ru-dep/xcomp]() (8390; 2% instances), [ru-dep/nsubjpass]() (7049; 2% instances), [ru-dep/cc]() (6090; 2% instances), [ru-dep/auxpass]() (2567; 1% instances), [ru-dep/aux]() (1975; 1% instances), [ru-dep/nmod:agent]() (1627; 0% instances), [ru-dep/amod]() (1021; 0% instances), [ru-dep/acl]() (937; 0% instances), [ru-dep/ccomp]() (920; 0% instances), [ru-dep/nummod:gov]() (94; 0% instances), [ru-dep/mwe]() (64; 0% instances), [ru-dep/cop]() (59; 0% instances), [ru-dep/appos]() (36; 0% instances), [ru-dep/expl]() (29; 0% instances), [ru-dep/acl:relcl]() (25; 0% instances), [ru-dep/nummod]() (23; 0% instances), [ru-dep/compound]() (11; 0% instances), [ru-dep/name]() (4; 0% instances)
+Children of `VERB` nodes are attached using 30 different relations: [ru-dep/punct]() (59427; 17% instances), [ru-dep/nsubj]() (55972; 16% instances), [ru-dep/dobj]() (53333; 15% instances), [ru-dep/nmod]() (52009; 15% instances), [ru-dep/advmod]() (32367; 9% instances), [ru-dep/conj]() (16502; 5% instances), [ru-dep/cc]() (16497; 5% instances), [ru-dep/mark]() (11497; 3% instances), [ru-dep/advcl]() (11384; 3% instances), [ru-dep/parataxis]() (9959; 3% instances), [ru-dep/neg]() (8852; 2% instances), [ru-dep/xcomp]() (8386; 2% instances), [ru-dep/nsubjpass]() (6955; 2% instances), [ru-dep/auxpass]() (2567; 1% instances), [ru-dep/iobj]() (2414; 1% instances), [ru-dep/aux]() (1974; 1% instances), [ru-dep/nmod:agent]() (1627; 0% instances), [ru-dep/amod]() (1021; 0% instances), [ru-dep/acl]() (914; 0% instances), [ru-dep/ccomp]() (892; 0% instances), [ru-dep/dep]() (731; 0% instances), [ru-dep/nummod:gov]() (94; 0% instances), [ru-dep/cop]() (58; 0% instances), [ru-dep/appos]() (30; 0% instances), [ru-dep/expl]() (29; 0% instances), [ru-dep/mwe]() (25; 0% instances), [ru-dep/nummod]() (23; 0% instances), [ru-dep/compound]() (11; 0% instances), [ru-dep/acl:relcl]() (5; 0% instances), [ru-dep/name]() (4; 0% instances)
 
-Children of `VERB` nodes belong to 14 different parts of speech: [NOUN]() (141370; 41% instances), [PUNCT]() (59448; 17% instances), [ADV]() (31585; 9% instances), [VERB]() (30588; 9% instances), [PRON]() (23714; 7% instances), [CONJ]() (16916; 5% instances), [PART]() (14321; 4% instances), [ADJ]() (11198; 3% instances), [SCONJ]() (10903; 3% instances), [AUX]() (3459; 1% instances), [NUM]() (824; 0% instances), [SYM]() (450; 0% instances), [ADP]() (142; 0% instances), [INTJ]() (28; 0% instances)
+Children of `VERB` nodes belong to 14 different parts of speech: [NOUN]() (141645; 40% instances), [PUNCT]() (59427; 17% instances), [VERB]() (40082; 11% instances), [ADV]() (31797; 9% instances), [PRON]() (23675; 7% instances), [CONJ]() (16974; 5% instances), [PART]() (14141; 4% instances), [ADJ]() (11774; 3% instances), [SCONJ]() (11134; 3% instances), [AUX]() (3459; 1% instances), [NUM]() (827; 0% instances), [SYM]() (453; 0% instances), [ADP]() (142; 0% instances), [INTJ]() (29; 0% instances)
 

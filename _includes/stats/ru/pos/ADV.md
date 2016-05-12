@@ -140,7 +140,7 @@ The 10 most frequent ambiguous types:  <em>так</em> ([ADV]() 1460, [PART]() 6
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.073721 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `ADV` is 1.073721 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (5) was observed with the lemma “СКОРО”: <em>поскорее, поскорей, скорее, скорей, скоро</em>.
 
@@ -159,21 +159,21 @@ Examples: <em>так, уже, еще, можно, более, как, очень
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 16 different relations: [ru-dep/advmod]() (43701; 79% instances), [ru-dep/parataxis]() (5020; 9% instances), [ru-dep/root]() (2407; 4% instances), [ru-dep/dep]() (1786; 3% instances), [ru-dep/nmod]() (571; 1% instances), [ru-dep/nsubj]() (482; 1% instances), [ru-dep/advcl]() (480; 1% instances), [ru-dep/mwe]() (224; 0% instances), [ru-dep/acl:relcl]() (221; 0% instances), [ru-dep/nsubjpass]() (90; 0% instances), [ru-dep/appos]() (24; 0% instances), [ru-dep/acl]() (21; 0% instances), [ru-dep/compound]() (6; 0% instances), [ru-dep/name]() (6; 0% instances), [ru-dep/nummod]() (2; 0% instances), [ru-dep/amod]() (1; 0% instances)
+`ADV` nodes are attached to their parents using 19 different relations: [ru-dep/advmod]() (43776; 80% instances), [ru-dep/parataxis]() (5016; 9% instances), [ru-dep/root]() (2430; 4% instances), [ru-dep/conj]() (1684; 3% instances), [ru-dep/nmod]() (574; 1% instances), [ru-dep/nsubj]() (512; 1% instances), [ru-dep/advcl]() (431; 1% instances), [ru-dep/acl:relcl]() (221; 0% instances), [ru-dep/mwe]() (144; 0% instances), [ru-dep/nsubjpass]() (90; 0% instances), [ru-dep/dep]() (50; 0% instances), [ru-dep/mark]() (29; 0% instances), [ru-dep/appos]() (24; 0% instances), [ru-dep/acl]() (18; 0% instances), [ru-dep/dobj]() (17; 0% instances), [ru-dep/amod]() (11; 0% instances), [ru-dep/name]() (7; 0% instances), [ru-dep/compound]() (6; 0% instances), [ru-dep/nummod]() (2; 0% instances)
 
-Parents of `ADV` nodes belong to 13 different parts of speech: [VERB]() (31585; 57% instances), [ADJ]() (8015; 15% instances), [NOUN]() (6189; 11% instances), [ADV]() (3923; 7% instances), [ROOT]() (2407; 4% instances), [CONJ]() (1228; 2% instances), [PART]() (629; 1% instances), [PRON]() (406; 1% instances), [NUM]() (371; 1% instances), [DET]() (186; 0% instances), [SYM]() (53; 0% instances), [SCONJ]() (47; 0% instances), [INTJ]() (3; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: [VERB]() (31797; 58% instances), [ADJ]() (8261; 15% instances), [NOUN]() (6456; 12% instances), [ADV]() (4480; 8% instances), [ROOT]() (2430; 4% instances), [PART]() (640; 1% instances), [NUM]() (384; 1% instances), [PRON]() (381; 1% instances), [SCONJ]() (90; 0% instances), [CONJ]() (63; 0% instances), [SYM]() (57; 0% instances), [INTJ]() (3; 0% instances)
 
 35085 (64%) `ADV` nodes are leaves.
 
-13213 (24%) `ADV` nodes have one child.
+12979 (24%) `ADV` nodes have one child.
 
-3454 (6%) `ADV` nodes have two children.
+3521 (6%) `ADV` nodes have two children.
 
-3290 (6%) `ADV` nodes have three or more children.
+3457 (6%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 10.
+The highest child degree of a `ADV` node is 13.
 
-Children of `ADV` nodes are attached using 24 different relations: [ru-dep/punct]() (12282; 38% instances), [ru-dep/advmod]() (5994; 19% instances), [ru-dep/nsubj]() (3188; 10% instances), [ru-dep/nmod]() (1822; 6% instances), [ru-dep/dep]() (1741; 5% instances), [ru-dep/dobj]() (1661; 5% instances), [ru-dep/neg]() (1038; 3% instances), [ru-dep/cc]() (975; 3% instances), [ru-dep/parataxis]() (933; 3% instances), [ru-dep/advcl]() (835; 3% instances), [ru-dep/cop]() (505; 2% instances), [ru-dep/mark]() (390; 1% instances), [ru-dep/mwe]() (367; 1% instances), [ru-dep/iobj]() (191; 1% instances), [ru-dep/acl:relcl]() (142; 0% instances), [ru-dep/acl]() (74; 0% instances), [ru-dep/aux]() (60; 0% instances), [ru-dep/name]() (41; 0% instances), [ru-dep/case]() (39; 0% instances), [ru-dep/appos]() (15; 0% instances), [ru-dep/nummod:gov]() (13; 0% instances), [ru-dep/amod]() (6; 0% instances), [ru-dep/nummod]() (3; 0% instances), [ru-dep/compound]() (2; 0% instances)
+Children of `ADV` nodes are attached using 26 different relations: [ru-dep/punct]() (12305; 37% instances), [ru-dep/advmod]() (6052; 18% instances), [ru-dep/nsubj]() (3179; 10% instances), [ru-dep/nmod]() (2012; 6% instances), [ru-dep/cc]() (1889; 6% instances), [ru-dep/dobj]() (1670; 5% instances), [ru-dep/conj]() (1570; 5% instances), [ru-dep/neg]() (1042; 3% instances), [ru-dep/parataxis]() (922; 3% instances), [ru-dep/advcl]() (829; 2% instances), [ru-dep/cop]() (505; 2% instances), [ru-dep/mwe]() (463; 1% instances), [ru-dep/mark]() (378; 1% instances), [ru-dep/acl:relcl]() (142; 0% instances), [ru-dep/acl]() (71; 0% instances), [ru-dep/dep]() (71; 0% instances), [ru-dep/aux]() (60; 0% instances), [ru-dep/name]() (41; 0% instances), [ru-dep/case]() (39; 0% instances), [ru-dep/iobj]() (24; 0% instances), [ru-dep/appos]() (15; 0% instances), [ru-dep/nummod:gov]() (13; 0% instances), [ru-dep/amod]() (8; 0% instances), [ru-dep/nummod]() (3; 0% instances), [ru-dep/compound]() (2; 0% instances), [ru-dep/nsubjpass]() (2; 0% instances)
 
-Children of `ADV` nodes belong to 14 different parts of speech: [PUNCT]() (12282; 38% instances), [NOUN]() (4900; 15% instances), [ADV]() (3923; 12% instances), [PART]() (3736; 12% instances), [VERB]() (3574; 11% instances), [CONJ]() (1866; 6% instances), [SCONJ]() (533; 2% instances), [AUX]() (499; 2% instances), [PRON]() (458; 1% instances), [ADJ]() (408; 1% instances), [SYM]() (51; 0% instances), [NUM]() (42; 0% instances), [ADP]() (39; 0% instances), [INTJ]() (6; 0% instances)
+Children of `ADV` nodes belong to 14 different parts of speech: [PUNCT]() (12305; 37% instances), [NOUN]() (5047; 15% instances), [ADV]() (4480; 13% instances), [VERB]() (3783; 11% instances), [PART]() (3732; 11% instances), [CONJ]() (1826; 5% instances), [PRON]() (529; 2% instances), [SCONJ]() (505; 2% instances), [AUX]() (499; 1% instances), [ADJ]() (461; 1% instances), [SYM]() (51; 0% instances), [NUM]() (42; 0% instances), [ADP]() (39; 0% instances), [INTJ]() (8; 0% instances)
 

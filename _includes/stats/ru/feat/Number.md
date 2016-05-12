@@ -158,7 +158,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 528847 tokens (51%) have a non-empty value of `Number`.
 109581 types (99%) occur at least once with a non-empty value of `Number`.
 35741 lemmas (90%) occur at least once with a non-empty value of `Number`.
-The feature is used with 5 part-of-speech tags: [ru-pos/NOUN]() (299480; 29% instances), [ru-pos/ADJ]() (111564; 11% instances), [ru-pos/VERB]() (91361; 9% instances), [ru-pos/DET]() (19297; 2% instances), [ru-pos/AUX]() (7145; 1% instances).
+The feature is used with 5 part-of-speech tags: [ru-pos/NOUN]() (299480; 29% instances), [ru-pos/ADJ]() (112445; 11% instances), [ru-pos/VERB]() (91361; 9% instances), [ru-pos/DET]() (18416; 2% instances), [ru-pos/AUX]() (7145; 1% instances).
 
 ### `NOUN`
 
@@ -174,7 +174,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>ГОД</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>год, г., г</em></td><td><em>годы, гг., г, г., гг</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>год, г., г</em></td><td><em>годы, гг., г, гг, г.</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>году, г, г.</em></td><td><em>годам</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>года, г., г</em></td><td><em>лет, годов, гг., г., гг, годах</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut</tt></td><td></td><td><em>лет</em></td></tr>
@@ -185,15 +185,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `ADJ`
 
-111564 [ru-pos/ADJ]() tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
+112445 [ru-pos/ADJ]() tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (111089; 100%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (111970; 100%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (36633; 33% of non-empty `Number`): <em>которые, которых, других, многие, должны, другие, новые, многих, последние, сами</em>
-* `Sing` (74931; 67% of non-empty `Number`): <em>который, один, которая, нужно, которой, другой, одной, сам, должен, которого</em>
-* `EMPTY` (1828): <em>лучше, его, выше, ниже, больше, хуже, легче, меньше, проще, социально</em>
+* `Plur` (36971; 33% of non-empty `Number`): <em>которые, которых, других, многие, должны, другие, новые, многих, последние, сами</em>
+* `Sing` (75474; 67% of non-empty `Number`): <em>который, один, которая, нужно, которой, другой, одной, сам, должен, которого</em>
+* `EMPTY` (1835): <em>лучше, его, выше, ниже, больше, хуже, легче, меньше, проще, социально</em>
 
 <table>
   <tr><th>Paradigm <i>КОТОРЫЙ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -262,13 +262,13 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `DET`
 
-19297 [ru-pos/DET]() tokens (87% of all `DET` tokens) have a non-empty value of `Number`.
+18416 [ru-pos/DET]() tokens (87% of all `DET` tokens) have a non-empty value of `Number`.
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (6305; 33% of non-empty `Number`): <em>все, эти, всех, свои, этих, своих, таких, такие, наши, тех</em>
-* `Sing` (12992; 67% of non-empty `Number`): <em>этот, этой, этого, этом, своей, свою, это, такой, эта, том</em>
-* `EMPTY` (2818): <em>его, их, ее, её</em>
+* `Plur` (5967; 32% of non-empty `Number`): <em>все, эти, всех, этих, свои, своих, таких, такие, наши, некоторые</em>
+* `Sing` (12449; 68% of non-empty `Number`): <em>этот, этой, этого, этом, своей, свою, это, эта, такой, нашей</em>
+* `EMPTY` (2811): <em>его, их, ее, её</em>
 
 <table>
   <tr><th>Paradigm <i>ЭТОТ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -302,7 +302,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 7145 [ru-pos/AUX]() tokens (91% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (7145; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7145; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7141; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7115; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5133; 72%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5133; 72%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7145; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7145; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7141; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7115; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5133; 72%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5133; 72%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -328,14 +328,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (80374; 99%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (36484; 94%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (31892; 62%),
-<tt>NOUN --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (19109; 64%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> DET</tt> (19068; 100%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (18666; 52%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (10271; 99%),
-<tt>NOUN --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (7232; 81%),
-<tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (6745; 94%),
-<tt>VERB --[<a href="../dep/nsubjpass.html">nsubjpass</a>]--> NOUN</tt> (5432; 94%).
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (81185; 99%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (36465; 94%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (33404; 62%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (23092; 50%),
+<tt>NOUN --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (19107; 64%),
+<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (18281; 86%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (17338; 81%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (10261; 99%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (9788; 80%),
+<tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (6745; 94%).
 

@@ -85,12 +85,12 @@ The following 23 pairs of parts of speech are connected with `dobj`: [ru-pos/VER
 
 This relation is universal.
 
-88696 nodes (9%) are attached to their parents as `dobj`.
+88674 nodes (9%) are attached to their parents as `dobj`.
 
-74823 instances of `dobj` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.09921529719491.
+74805 instances of `dobj` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.09660103299727.
 
-The following 23 pairs of parts of speech are connected with `dobj`: [ru-pos/VERB]()-[ru-pos/NOUN]() (43493; 49% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (29734; 34% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (6384; 7% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (3266; 4% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (1602; 2% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (1475; 2% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (1265; 1% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (464; 1% instances), [ru-pos/ADJ]()-[ru-pos/PRON]() (336; 0% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (212; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (206; 0% instances), [ru-pos/ADV]()-[ru-pos/PRON]() (119; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (64; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (37; 0% instances), [ru-pos/NOUN]()-[ru-pos/DET]() (12; 0% instances), [ru-pos/PART]()-[ru-pos/PRON]() (11; 0% instances), [ru-pos/ADJ]()-[ru-pos/SYM]() (5; 0% instances), [ru-pos/ADV]()-[ru-pos/SYM]() (3; 0% instances), [ru-pos/SYM]()-[ru-pos/NOUN]() (3; 0% instances), [ru-pos/INTJ]()-[ru-pos/NOUN]() (2; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/PRON]() (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `dobj`: [ru-pos/VERB]()-[ru-pos/NOUN]() (43481; 49% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (29732; 34% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (6359; 7% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (3265; 4% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (1600; 2% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (1484; 2% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (1262; 1% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (475; 1% instances), [ru-pos/ADJ]()-[ru-pos/PRON]() (334; 0% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (212; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (202; 0% instances), [ru-pos/ADV]()-[ru-pos/PRON]() (119; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (64; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (37; 0% instances), [ru-pos/VERB]()-[ru-pos/ADV]() (15; 0% instances), [ru-pos/PART]()-[ru-pos/PRON]() (12; 0% instances), [ru-pos/ADJ]()-[ru-pos/SYM]() (5; 0% instances), [ru-pos/ADV]()-[ru-pos/SYM]() (3; 0% instances), [ru-pos/SYM]()-[ru-pos/NOUN]() (3; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADV]() (2; 0% instances), [ru-pos/INTJ]()-[ru-pos/NOUN]() (2; 0% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (2; 0% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/PRON]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -101,7 +101,7 @@ The following 23 pairs of parts of speech are connected with `dobj`: [ru-pos/VER
 # visual-style 7 4 dobj	color:blue
 1	Разумеется	РАЗУМЕЕТСЯ	ADV	_	Degree=Pos	6	parataxis	_	_
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	эти	ЭТОТ	DET	_	Case=Acc|Number=Plur	4	amod	_	_
+3	эти	ЭТОТ	DET	_	Case=Acc|Number=Plur	4	det	_	_
 4	объяснения	ОБЪЯСНЕНИЕ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	dobj	_	_
 5	вряд_ли	ВРЯД_ЛИ	ADV	_	Degree=Pos	6	advmod	_	_
 6	можно	МОЖНО	ADV	_	Degree=Pos	0	root	_	_

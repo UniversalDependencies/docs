@@ -137,7 +137,7 @@ The 10 most frequent ambiguous types:  <em>в</em> ([ADP]() 25567, [NOUN]() 2), 
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.173077 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `ADP` is 1.173077 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (3) was observed with the lemma “О”: <em>о, об, обо</em>.
 
@@ -152,7 +152,7 @@ The 3rd highest number of forms (3) was observed with the lemma “С”: <em>c,
 
 `ADP` nodes are attached to their parents using 3 different relations: [ru-dep/case]() (95543; 100% instances), [ru-dep/mark]() (142; 0% instances), [ru-dep/dep]() (12; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: [NOUN]() (86175; 90% instances), [PRON]() (5319; 6% instances), [ADJ]() (3082; 3% instances), [NUM]() (563; 1% instances), [SYM]() (329; 0% instances), [VERB]() (142; 0% instances), [ADV]() (39; 0% instances), [DET]() (30; 0% instances), [PART]() (11; 0% instances), [CONJ]() (6; 0% instances), [INTJ]() (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: [NOUN]() (86175; 90% instances), [PRON]() (5319; 6% instances), [ADJ]() (3112; 3% instances), [NUM]() (563; 1% instances), [SYM]() (329; 0% instances), [VERB]() (142; 0% instances), [ADV]() (39; 0% instances), [PART]() (11; 0% instances), [CONJ]() (6; 0% instances), [INTJ]() (1; 0% instances)
 
 94422 (99%) `ADP` nodes are leaves.
 

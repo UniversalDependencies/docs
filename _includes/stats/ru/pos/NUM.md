@@ -141,7 +141,7 @@ The 10 most frequent ambiguous types:  <em>несколько</em> ([NUM]() 516,
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.071053 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `NUM` is 1.071053 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (8) was observed with the lemma “ОБА”: <em>оба, обе, обеим, обеими, обеих, обоим, обоими, обоих</em>.
 
@@ -160,21 +160,21 @@ Examples: <em>1, 10, 20, 2, 15, 5, 3, 30, 4, 50</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 19 different relations: [ru-dep/nummod]() (7514; 57% instances), [ru-dep/amod]() (2399; 18% instances), [ru-dep/compound]() (1115; 8% instances), [ru-dep/nmod]() (756; 6% instances), [ru-dep/dep]() (488; 4% instances), [ru-dep/nummod:entity]() (250; 2% instances), [ru-dep/appos]() (223; 2% instances), [ru-dep/parataxis]() (164; 1% instances), [ru-dep/nsubj]() (112; 1% instances), [ru-dep/root]() (100; 1% instances), [ru-dep/name]() (94; 1% instances), [ru-dep/mwe]() (20; 0% instances), [ru-dep/nsubjpass]() (20; 0% instances), [ru-dep/advcl]() (8; 0% instances), [ru-dep/acl]() (7; 0% instances), [ru-dep/advmod]() (5; 0% instances), [ru-dep/acl:relcl]() (2; 0% instances), [ru-dep/iobj]() (2; 0% instances), [ru-dep/nmod:agent]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 19 different relations: [ru-dep/nummod]() (7550; 57% instances), [ru-dep/amod]() (2411; 18% instances), [ru-dep/compound]() (1115; 8% instances), [ru-dep/nmod]() (759; 6% instances), [ru-dep/nummod:entity]() (250; 2% instances), [ru-dep/dep]() (228; 2% instances), [ru-dep/conj]() (225; 2% instances), [ru-dep/appos]() (223; 2% instances), [ru-dep/parataxis]() (165; 1% instances), [ru-dep/nsubj]() (112; 1% instances), [ru-dep/root]() (100; 1% instances), [ru-dep/name]() (94; 1% instances), [ru-dep/nsubjpass]() (20; 0% instances), [ru-dep/advcl]() (8; 0% instances), [ru-dep/acl]() (7; 0% instances), [ru-dep/advmod]() (5; 0% instances), [ru-dep/mwe]() (5; 0% instances), [ru-dep/acl:relcl]() (2; 0% instances), [ru-dep/nmod:agent]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 10 different parts of speech: [NOUN]() (10255; 77% instances), [NUM]() (986; 7% instances), [VERB]() (824; 6% instances), [SYM]() (764; 6% instances), [ADJ]() (174; 1% instances), [CONJ]() (120; 1% instances), [ROOT]() (100; 1% instances), [ADV]() (42; 0% instances), [PRON]() (14; 0% instances), [PART]() (1; 0% instances)
+Parents of `NUM` nodes belong to 10 different parts of speech: [NOUN]() (10299; 78% instances), [NUM]() (1061; 8% instances), [VERB]() (827; 6% instances), [SYM]() (763; 6% instances), [ADJ]() (170; 1% instances), [ROOT]() (100; 1% instances), [ADV]() (42; 0% instances), [PRON]() (14; 0% instances), [CONJ]() (3; 0% instances), [PART]() (1; 0% instances)
 
-9651 (73%) `NUM` nodes are leaves.
+9652 (73%) `NUM` nodes are leaves.
 
-1986 (15%) `NUM` nodes have one child.
+1953 (15%) `NUM` nodes have one child.
 
-1267 (10%) `NUM` nodes have two children.
+1271 (10%) `NUM` nodes have two children.
 
-376 (3%) `NUM` nodes have three or more children.
+404 (3%) `NUM` nodes have three or more children.
 
-The highest child degree of a `NUM` node is 9.
+The highest child degree of a `NUM` node is 18.
 
-Children of `NUM` nodes are attached using 21 different relations: [ru-dep/punct]() (2065; 36% instances), [ru-dep/nmod]() (882; 15% instances), [ru-dep/nummod]() (828; 14% instances), [ru-dep/case]() (564; 10% instances), [ru-dep/advmod]() (561; 10% instances), [ru-dep/dep]() (323; 6% instances), [ru-dep/amod]() (309; 5% instances), [ru-dep/nsubj]() (64; 1% instances), [ru-dep/parataxis]() (63; 1% instances), [ru-dep/compound]() (43; 1% instances), [ru-dep/neg]() (25; 0% instances), [ru-dep/cop]() (17; 0% instances), [ru-dep/cc]() (11; 0% instances), [ru-dep/iobj]() (10; 0% instances), [ru-dep/advcl]() (7; 0% instances), [ru-dep/appos]() (7; 0% instances), [ru-dep/acl:relcl]() (5; 0% instances), [ru-dep/mark]() (5; 0% instances), [ru-dep/mwe]() (5; 0% instances), [ru-dep/name]() (3; 0% instances), [ru-dep/nummod:gov]() (2; 0% instances)
+Children of `NUM` nodes are attached using 20 different relations: [ru-dep/punct]() (2065; 35% instances), [ru-dep/nmod]() (984; 17% instances), [ru-dep/nummod]() (862; 15% instances), [ru-dep/case]() (564; 9% instances), [ru-dep/advmod]() (561; 9% instances), [ru-dep/amod]() (309; 5% instances), [ru-dep/conj]() (200; 3% instances), [ru-dep/cc]() (133; 2% instances), [ru-dep/nsubj]() (63; 1% instances), [ru-dep/parataxis]() (62; 1% instances), [ru-dep/compound]() (43; 1% instances), [ru-dep/neg]() (25; 0% instances), [ru-dep/mwe]() (20; 0% instances), [ru-dep/cop]() (17; 0% instances), [ru-dep/mark]() (8; 0% instances), [ru-dep/appos]() (7; 0% instances), [ru-dep/acl:relcl]() (5; 0% instances), [ru-dep/advcl]() (5; 0% instances), [ru-dep/name]() (3; 0% instances), [ru-dep/nummod:gov]() (2; 0% instances)
 
-Children of `NUM` nodes belong to 13 different parts of speech: [PUNCT]() (2065; 36% instances), [NOUN]() (1003; 17% instances), [NUM]() (986; 17% instances), [ADP]() (563; 10% instances), [ADV]() (371; 6% instances), [ADJ]() (336; 6% instances), [PART]() (211; 4% instances), [CONJ]() (129; 2% instances), [VERB]() (49; 1% instances), [PRON]() (42; 1% instances), [AUX]() (17; 0% instances), [SYM]() (17; 0% instances), [SCONJ]() (10; 0% instances)
+Children of `NUM` nodes belong to 13 different parts of speech: [PUNCT]() (2065; 35% instances), [NUM]() (1061; 18% instances), [NOUN]() (1024; 17% instances), [ADP]() (563; 9% instances), [ADV]() (384; 6% instances), [ADJ]() (353; 6% instances), [PART]() (210; 4% instances), [CONJ]() (133; 2% instances), [VERB]() (64; 1% instances), [PRON]() (42; 1% instances), [AUX]() (17; 0% instances), [SYM]() (12; 0% instances), [SCONJ]() (10; 0% instances)
 

@@ -84,12 +84,12 @@ The following 24 pairs of parts of speech are connected with `amod`: [ru-pos/NOU
 
 This relation is universal.
 
-116239 nodes (11%) are attached to their parents as `amod`.
+97892 nodes (9%) are attached to their parents as `amod`.
 
-108225 instances of `amod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.37541616841163.
+89873 instances of `amod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39071629959547.
 
-The following 29 pairs of parts of speech are connected with `amod`: [ru-pos/NOUN]()-[ru-pos/ADJ]() (80824; 70% instances), [ru-pos/NOUN]()-[ru-pos/DET]() (19104; 16% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (10375; 9% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (2388; 2% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (1421; 1% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (1017; 1% instances), [ru-pos/PRON]()-[ru-pos/ADJ]() (463; 0% instances), [ru-pos/NUM]()-[ru-pos/ADJ]() (293; 0% instances), [ru-pos/DET]()-[ru-pos/ADJ]() (119; 0% instances), [ru-pos/PRON]()-[ru-pos/DET]() (82; 0% instances), [ru-pos/ADJ]()-[ru-pos/VERB]() (52; 0% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (22; 0% instances), [ru-pos/NUM]()-[ru-pos/VERB]() (15; 0% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (13; 0% instances), [ru-pos/SYM]()-[ru-pos/ADJ]() (9; 0% instances), [ru-pos/PRON]()-[ru-pos/VERB]() (8; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (6; 0% instances), [ru-pos/SYM]()-[ru-pos/NUM]() (6; 0% instances), [ru-pos/ADJ]()-[ru-pos/NUM]() (4; 0% instances), [ru-pos/PART]()-[ru-pos/ADJ]() (4; 0% instances), [ru-pos/SYM]()-[ru-pos/VERB]() (3; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADJ]() (2; 0% instances), [ru-pos/SYM]()-[ru-pos/DET]() (2; 0% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (2; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADV]() (1; 0% instances), [ru-pos/INTJ]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/NUM]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/PART]() (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `amod`: [ru-pos/NOUN]()-[ru-pos/ADJ]() (81638; 83% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (10365; 11% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (2400; 2% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (1541; 2% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (1017; 1% instances), [ru-pos/PRON]()-[ru-pos/ADJ]() (472; 0% instances), [ru-pos/NUM]()-[ru-pos/ADJ]() (293; 0% instances), [ru-pos/ADJ]()-[ru-pos/VERB]() (52; 0% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (22; 0% instances), [ru-pos/NUM]()-[ru-pos/VERB]() (15; 0% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (13; 0% instances), [ru-pos/NOUN]()-[ru-pos/ADV]() (10; 0% instances), [ru-pos/SYM]()-[ru-pos/ADJ]() (9; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (8; 0% instances), [ru-pos/PRON]()-[ru-pos/VERB]() (8; 0% instances), [ru-pos/SYM]()-[ru-pos/NUM]() (6; 0% instances), [ru-pos/PART]()-[ru-pos/ADJ]() (5; 0% instances), [ru-pos/ADJ]()-[ru-pos/NUM]() (4; 0% instances), [ru-pos/SYM]()-[ru-pos/VERB]() (3; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADJ]() (2; 0% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (2; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADV]() (1; 0% instances), [ru-pos/INTJ]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (1; 0% instances), [ru-pos/NUM]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -116,25 +116,6 @@ The following 29 pairs of parts of speech are connected with `amod`: [ru-pos/NOU
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 amod	color:blue
-1	Разумеется	РАЗУМЕЕТСЯ	ADV	_	Degree=Pos	6	parataxis	_	_
-2	,	,	PUNCT	,	_	1	punct	_	_
-3	эти	ЭТОТ	DET	_	Case=Acc|Number=Plur	4	amod	_	_
-4	объяснения	ОБЪЯСНЕНИЕ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	dobj	_	_
-5	вряд_ли	ВРЯД_ЛИ	ADV	_	Degree=Pos	6	advmod	_	_
-6	можно	МОЖНО	ADV	_	Degree=Pos	0	root	_	_
-7	счесть	СЧИТАТЬ	VERB	_	Aspect=Perf|VerbForm=Inf	6	nsubj	_	_
-8	убедительными	УБЕДИТЕЛЬНЫЙ	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	dobj	_	_
-9	.	.	PUNCT	.	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 amod	color:blue
@@ -145,6 +126,28 @@ The following 29 pairs of parts of speech are connected with `amod`: [ru-pos/NOU
 5	ТРИ	ТРИ	NUM	_	Animacy=Inan|Case=Acc	6	nummod	_	_
 6	ПОКОЛЕНИЯ	ПОКОЛЕНИЕ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
 7	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 amod	color:blue
+1	Всего	ВСЕГО	ADV	_	Degree=Pos	3	advmod	_	_
+2	-	-	PUNCT	-	_	1	punct	_	_
+3	440	440	NUM	_	_	4	amod	_	_
+4	человек	ЧЕЛОВЕК	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	из	ИЗ	ADP	_	_	7	case	_	_
+7	них	ОНИ	PRON	_	_	11	advmod	_	_
+8	-	-	PUNCT	-	_	7	punct	_	_
+9	160	160	NUM	_	_	11	nummod	_	_
+10	иностранных	ИНОСТРАННЫЙ	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	восходителей	ВОСХОДИТЕЛЬ	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	conj	_	_
+12	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

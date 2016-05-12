@@ -112,12 +112,12 @@ The following 2 pairs of parts of speech are connected with `name`: [ru-pos/PROP
 
 This relation is universal.
 
-5272 nodes (1%) are attached to their parents as `name`.
+5273 nodes (1%) are attached to their parents as `name`.
 
-5245 instances of `name` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02541729893778.
+5246 instances of `name` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0254124786649.
 
-The following 22 pairs of parts of speech are connected with `name`: [ru-pos/NOUN]()-[ru-pos/NOUN]() (5030; 95% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (93; 2% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (76; 1% instances), [ru-pos/ADV]()-[ru-pos/PART]() (31; 1% instances), [ru-pos/PART]()-[ru-pos/SCONJ]() (7; 0% instances), [ru-pos/ADV]()-[ru-pos/ADV]() (4; 0% instances), [ru-pos/ADV]()-[ru-pos/SCONJ]() (4; 0% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (3; 0% instances), [ru-pos/NUM]()-[ru-pos/NOUN]() (3; 0% instances), [ru-pos/PART]()-[ru-pos/PART]() (3; 0% instances), [ru-pos/PART]()-[ru-pos/PRON]() (3; 0% instances), [ru-pos/INTJ]()-[ru-pos/PRON]() (2; 0% instances), [ru-pos/PRON]()-[ru-pos/PART]() (2; 0% instances), [ru-pos/VERB]()-[ru-pos/ADV]() (2; 0% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (2; 0% instances), [ru-pos/ADJ]()-[ru-pos/PART]() (1; 0% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/ADV]()-[ru-pos/NUM]() (1; 0% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/PRON]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/ADJ]() (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `name`: [ru-pos/NOUN]()-[ru-pos/NOUN]() (5030; 95% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (93; 2% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (76; 1% instances), [ru-pos/ADV]()-[ru-pos/PART]() (31; 1% instances), [ru-pos/PART]()-[ru-pos/SCONJ]() (7; 0% instances), [ru-pos/ADV]()-[ru-pos/ADV]() (4; 0% instances), [ru-pos/ADV]()-[ru-pos/SCONJ]() (4; 0% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (3; 0% instances), [ru-pos/NUM]()-[ru-pos/NOUN]() (3; 0% instances), [ru-pos/PART]()-[ru-pos/PART]() (3; 0% instances), [ru-pos/PART]()-[ru-pos/PRON]() (3; 0% instances), [ru-pos/INTJ]()-[ru-pos/PRON]() (2; 0% instances), [ru-pos/PRON]()-[ru-pos/PART]() (2; 0% instances), [ru-pos/VERB]()-[ru-pos/ADV]() (2; 0% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (2; 0% instances), [ru-pos/ADJ]()-[ru-pos/PART]() (1; 0% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/ADV]()-[ru-pos/NUM]() (1; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADV]() (1; 0% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/PRON]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -154,7 +154,7 @@ The following 22 pairs of parts of speech are connected with `name`: [ru-pos/NOU
 7	немалую	НЕМАЛЫЙ	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
 8	пищу	ПИЩА	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	dobj	_	_
 9	ослабевшему	ОСЛАБЕВАТЬ	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	amod	_	_
-10	уму	УМ	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	_
+10	уму	УМ	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	_
 11	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -176,7 +176,7 @@ The following 22 pairs of parts of speech are connected with `name`: [ru-pos/NOU
 8	тяжелое	ТЯЖЕЛЫЙ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	немногим	НЕМНОГИЙ	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	11	nmod	_	_
-11	послевоенное	ПОСЛЕВОЕННЫЙ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	dep	_	_
+11	послевоенное	ПОСЛЕВОЕННЫЙ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	conj	_	_
 12	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~

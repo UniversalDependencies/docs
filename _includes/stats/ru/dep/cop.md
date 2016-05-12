@@ -77,9 +77,9 @@ This relation is universal.
 5083 nodes (0%) are attached to their parents as `cop`.
 
 3726 instances of `cop` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.86720440684635.
+Average distance between parent and child is 1.86700767263427.
 
-The following 18 pairs of parts of speech are connected with `cop`: [ru-pos/ADJ]()-[ru-pos/AUX]() (2242; 44% instances), [ru-pos/NOUN]()-[ru-pos/AUX]() (1583; 31% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (530; 10% instances), [ru-pos/ADV]()-[ru-pos/AUX]() (499; 10% instances), [ru-pos/PRON]()-[ru-pos/AUX]() (76; 1% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (37; 1% instances), [ru-pos/VERB]()-[ru-pos/NOUN]() (35; 1% instances), [ru-pos/VERB]()-[ru-pos/AUX]() (24; 0% instances), [ru-pos/NUM]()-[ru-pos/AUX]() (17; 0% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (11; 0% instances), [ru-pos/SCONJ]()-[ru-pos/AUX]() (10; 0% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (6; 0% instances), [ru-pos/SYM]()-[ru-pos/AUX]() (5; 0% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (4; 0% instances), [ru-pos/PART]()-[ru-pos/AUX]() (1; 0% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/NOUN]() (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `cop`: [ru-pos/ADJ]()-[ru-pos/AUX]() (2242; 44% instances), [ru-pos/NOUN]()-[ru-pos/AUX]() (1583; 31% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (530; 10% instances), [ru-pos/ADV]()-[ru-pos/AUX]() (499; 10% instances), [ru-pos/PRON]()-[ru-pos/AUX]() (76; 1% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (37; 1% instances), [ru-pos/VERB]()-[ru-pos/NOUN]() (34; 1% instances), [ru-pos/VERB]()-[ru-pos/AUX]() (24; 0% instances), [ru-pos/NUM]()-[ru-pos/AUX]() (17; 0% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (11; 0% instances), [ru-pos/SCONJ]()-[ru-pos/AUX]() (10; 0% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (6; 0% instances), [ru-pos/SYM]()-[ru-pos/AUX]() (5; 0% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (4; 0% instances), [ru-pos/SCONJ]()-[ru-pos/NOUN]() (2; 0% instances), [ru-pos/PART]()-[ru-pos/AUX]() (1; 0% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -151,12 +151,12 @@ The following 4 pairs of parts of speech are connected with `aux`: [ru-pos/VERB]
 
 This relation is universal.
 
-2243 nodes (0%) are attached to their parents as `aux`.
+2244 nodes (0%) are attached to their parents as `aux`.
 
 1449 instances of `aux` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.55639768167633.
+Average distance between parent and child is 1.55659536541889.
 
-The following 8 pairs of parts of speech are connected with `aux`: [ru-pos/VERB]()-[ru-pos/PART]() (1085; 48% instances), [ru-pos/VERB]()-[ru-pos/AUX]() (890; 40% instances), [ru-pos/ADJ]()-[ru-pos/PART]() (163; 7% instances), [ru-pos/ADV]()-[ru-pos/PART]() (60; 3% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (38; 2% instances), [ru-pos/PRON]()-[ru-pos/PART]() (5; 0% instances), [ru-pos/DET]()-[ru-pos/PART]() (1; 0% instances), [ru-pos/PART]()-[ru-pos/PART]() (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux`: [ru-pos/VERB]()-[ru-pos/PART]() (1084; 48% instances), [ru-pos/VERB]()-[ru-pos/AUX]() (890; 40% instances), [ru-pos/ADJ]()-[ru-pos/PART]() (163; 7% instances), [ru-pos/ADV]()-[ru-pos/PART]() (60; 3% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (38; 2% instances), [ru-pos/PRON]()-[ru-pos/PART]() (5; 0% instances), [ru-pos/PART]()-[ru-pos/PART]() (2; 0% instances), [ru-pos/DET]()-[ru-pos/PART]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -77,12 +77,12 @@ The following 19 pairs of parts of speech are connected with `nummod`: [ru-pos/N
 This relation is universal.
 There are 2 language-specific subtypes of `nummod`: [nummod:entity](), [nummod:gov]().
 
-8478 nodes (1%) are attached to their parents as `nummod`.
+8514 nodes (1%) are attached to their parents as `nummod`.
 
 7369 instances of `nummod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38888888888889.
+Average distance between parent and child is 1.39452666196852.
 
-The following 12 pairs of parts of speech are connected with `nummod`: [ru-pos/NOUN]()-[ru-pos/NUM]() (5906; 70% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (943; 11% instances), [ru-pos/NUM]()-[ru-pos/NUM]() (828; 10% instances), [ru-pos/SYM]()-[ru-pos/NUM]() (689; 8% instances), [ru-pos/ADJ]()-[ru-pos/NUM]() (53; 1% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (21; 0% instances), [ru-pos/PRON]()-[ru-pos/NUM]() (14; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (12; 0% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (5; 0% instances), [ru-pos/ADV]()-[ru-pos/NUM]() (3; 0% instances), [ru-pos/NOUN]()-[ru-pos/ADV]() (2; 0% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `nummod`: [ru-pos/NOUN]()-[ru-pos/NUM]() (5908; 69% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (943; 11% instances), [ru-pos/NUM]()-[ru-pos/NUM]() (862; 10% instances), [ru-pos/SYM]()-[ru-pos/NUM]() (689; 8% instances), [ru-pos/ADJ]()-[ru-pos/NUM]() (53; 1% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (21; 0% instances), [ru-pos/PRON]()-[ru-pos/NUM]() (14; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (12; 0% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (5; 0% instances), [ru-pos/ADV]()-[ru-pos/NUM]() (3; 0% instances), [ru-pos/NOUN]()-[ru-pos/ADV]() (2; 0% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (2; 0% instances).
 
 
 ~~~ conllu
@@ -101,7 +101,7 @@ The following 12 pairs of parts of speech are connected with `nummod`: [ru-pos/N
 8	-	-	PUNCT	-	_	7	punct	_	_
 9	160	160	NUM	_	_	11	nummod	_	_
 10	иностранных	ИНОСТРАННЫЙ	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
-11	восходителей	ВОСХОДИТЕЛЬ	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	dep	_	_
+11	восходителей	ВОСХОДИТЕЛЬ	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	conj	_	_
 12	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
@@ -130,7 +130,7 @@ The following 12 pairs of parts of speech are connected with `nummod`: [ru-pos/N
 # visual-style 7	fgColor:white
 # visual-style 7 9 nummod	color:blue
 1	А	А	CONJ	_	_	16	cc	_	_
-2	тем	ТОТ	NOUN	_	Animacy=Anim|Case=Dat|Number=Plur	16	iobj	_	_
+2	тем	ТОТ	NOUN	_	Animacy=Anim|Case=Dat|Number=Plur	16	nmod	_	_
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	кто	КТО	PRON	_	_	5	nsubj	_	_
 5	пришел	ПРИХОДИТЬ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_

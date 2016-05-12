@@ -89,9 +89,9 @@ This relation is universal.
 188918 nodes (18%) are attached to their parents as `punct`.
 
 172474 instances of `punct` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.38795138631576.
+Average distance between parent and child is 4.38917943234631.
 
-The following 15 pairs of parts of speech are connected with `punct`: [ru-pos/NOUN]()-[ru-pos/PUNCT]() (86582; 46% instances), [ru-pos/VERB]()-[ru-pos/PUNCT]() (59448; 31% instances), [ru-pos/ADJ]()-[ru-pos/PUNCT]() (19151; 10% instances), [ru-pos/ADV]()-[ru-pos/PUNCT]() (12282; 7% instances), [ru-pos/PRON]()-[ru-pos/PUNCT]() (3175; 2% instances), [ru-pos/NUM]()-[ru-pos/PUNCT]() (2065; 1% instances), [ru-pos/PART]()-[ru-pos/PUNCT]() (1929; 1% instances), [ru-pos/CONJ]()-[ru-pos/PUNCT]() (1554; 1% instances), [ru-pos/ADP]()-[ru-pos/PUNCT]() (1431; 1% instances), [ru-pos/SCONJ]()-[ru-pos/PUNCT]() (519; 0% instances), [ru-pos/DET]()-[ru-pos/PUNCT]() (327; 0% instances), [ru-pos/AUX]()-[ru-pos/PUNCT]() (186; 0% instances), [ru-pos/SYM]()-[ru-pos/PUNCT]() (153; 0% instances), [ru-pos/INTJ]()-[ru-pos/PUNCT]() (115; 0% instances), [ru-pos/PUNCT]()-[ru-pos/PUNCT]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: [ru-pos/NOUN]()-[ru-pos/PUNCT]() (86577; 46% instances), [ru-pos/VERB]()-[ru-pos/PUNCT]() (59427; 31% instances), [ru-pos/ADJ]()-[ru-pos/PUNCT]() (19185; 10% instances), [ru-pos/ADV]()-[ru-pos/PUNCT]() (12305; 7% instances), [ru-pos/PRON]()-[ru-pos/PUNCT]() (3176; 2% instances), [ru-pos/NUM]()-[ru-pos/PUNCT]() (2065; 1% instances), [ru-pos/PART]()-[ru-pos/PUNCT]() (1932; 1% instances), [ru-pos/CONJ]()-[ru-pos/PUNCT]() (1554; 1% instances), [ru-pos/ADP]()-[ru-pos/PUNCT]() (1431; 1% instances), [ru-pos/SCONJ]()-[ru-pos/PUNCT]() (519; 0% instances), [ru-pos/DET]()-[ru-pos/PUNCT]() (292; 0% instances), [ru-pos/AUX]()-[ru-pos/PUNCT]() (186; 0% instances), [ru-pos/SYM]()-[ru-pos/PUNCT]() (153; 0% instances), [ru-pos/INTJ]()-[ru-pos/PUNCT]() (115; 0% instances), [ru-pos/PUNCT]()-[ru-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu

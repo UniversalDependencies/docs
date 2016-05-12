@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 1 [ru-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
@@ -109,14 +109,14 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (6748; 71%),
-<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (4294; 84%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (2653; 81%),
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (583; 64%),
-<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (159; 67%),
-<tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (124; 69%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (11067; 88%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (6753; 71%),
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (2980; 79%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (560; 64%),
+<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (153; 67%),
+<tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (122; 69%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (21; 100%),
-<tt>VERB --[<a href="../dep/neg.html">neg</a>]--> VERB</tt> (10; 100%),
 <tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (4; 100%),
-<tt>VERB --[<a href="../dep/iobj.html">iobj</a>]--> VERB</tt> (2; 100%).
+<tt>VERB --[<a href="../dep/name.html">name</a>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (2; 100%).
 

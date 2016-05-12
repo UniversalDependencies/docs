@@ -148,15 +148,6 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Nom` (2; 100% of non-empty `Case`): <em>prius, Возможно</em>
 * `EMPTY` (2140): <em>более, как, так, только, вместе, затем, впервые, позже, здесь, менее</em>
 
-### `SYM`
-
-1 [ru-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Case`.
-
-`SYM` tokens may have the following values of `Case`:
-
-* `Gen` (1; 100% of non-empty `Case`): <em>cm</em>
-* `EMPTY` (157): <em>%, /, +, *, °, =, $, €, justjared.com</em>
-
 ### `SCONJ`
 
 1 [ru-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Case`.
@@ -165,6 +156,15 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 * `Nom` (1; 100% of non-empty `Case`): <em>что</em>
 * `EMPTY` (623): <em>что, где, когда, чтобы, как, так, хотя, если, поскольку, поэтому</em>
+
+### `SYM`
+
+1 [ru-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Case`.
+
+`SYM` tokens may have the following values of `Case`:
+
+* `Gen` (1; 100% of non-empty `Case`): <em>cm</em>
+* `EMPTY` (157): <em>%, /, +, *, °, =, $, €, justjared.com</em>
 
 ## Relations with Agreement in `Case`
 
@@ -192,7 +192,7 @@ It occurs with 8 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Pa
 437740 tokens (42%) have a non-empty value of `Case`.
 88702 types (81%) occur at least once with a non-empty value of `Case`.
 32646 lemmas (82%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: [ru-pos/NOUN]() (299470; 29% instances), [ru-pos/ADJ]() (102880; 10% instances), [ru-pos/DET]() (19297; 2% instances), [ru-pos/VERB]() (12127; 1% instances), [ru-pos/NUM]() (3962; 0% instances), [ru-pos/AUX]() (4; 0% instances).
+The feature is used with 6 part-of-speech tags: [ru-pos/NOUN]() (299470; 29% instances), [ru-pos/ADJ]() (103761; 10% instances), [ru-pos/DET]() (18416; 2% instances), [ru-pos/VERB]() (12127; 1% instances), [ru-pos/NUM]() (3962; 0% instances), [ru-pos/AUX]() (4; 0% instances).
 
 ### `NOUN`
 
@@ -220,19 +220,19 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-102880 [ru-pos/ADJ]() tokens (91% of all `ADJ` tokens) have a non-empty value of `Case`.
+103761 [ru-pos/ADJ]() tokens (91% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (102405; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (68054; 66%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (103286; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (68597; 66%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (17813; 17% of non-empty `Case`): <em>которые, которую, последние, один, который, новые, одну, первый, последнее, другие</em>
-* `Dat` (4409; 4% of non-empty `Case`): <em>которым, которому, другим, одному, которой, самому, новому, многим, одной, российским</em>
-* `Gen` (30810; 30% of non-empty `Case`): <em>которых, других, которого, одной, одного, нового, новых, российской, которой, самых</em>
-* `Ins` (10603; 10% of non-empty `Case`): <em>одним, самым, первым, другими, которыми, главным, одной, которым, большим, другим</em>
-* `Loc` (10210; 10% of non-empty `Case`): <em>самом, котором, которой, которых, одном, общем, других, одной, прошлом, многих</em>
-* `Nom` (29035; 28% of non-empty `Case`): <em>которые, который, один, которая, многие, сам, другие, одна, сами, которое</em>
-* `EMPTY` (10512): <em>нужно, должны, должен, должна, известно, необходимо, невозможно, должно, важно, лучше</em>
+* `Acc` (17985; 17% of non-empty `Case`): <em>которые, которую, последние, один, который, новые, одну, первый, последнее, другие</em>
+* `Dat` (4472; 4% of non-empty `Case`): <em>которым, которому, другим, одному, которой, самому, новому, многим, одной, российским</em>
+* `Gen` (31019; 30% of non-empty `Case`): <em>которых, других, которого, одной, одного, нового, новых, российской, которой, самых</em>
+* `Ins` (10693; 10% of non-empty `Case`): <em>одним, самым, первым, другими, которыми, главным, одной, которым, большим, таким</em>
+* `Loc` (10320; 10% of non-empty `Case`): <em>самом, котором, которой, которых, одном, общем, других, одной, прошлом, многих</em>
+* `Nom` (29272; 28% of non-empty `Case`): <em>которые, который, один, которая, многие, сам, другие, одна, сами, все</em>
+* `EMPTY` (10519): <em>нужно, должны, должен, должна, известно, необходимо, невозможно, должно, важно, лучше</em>
 
 <table>
   <tr><th>Paradigm <i>КОТОРЫЙ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -249,19 +249,19 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `DET`
 
-19297 [ru-pos/DET]() tokens (87% of all `DET` tokens) have a non-empty value of `Case`.
+18416 [ru-pos/DET]() tokens (87% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (12992; 67%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (12449; 68%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (5107; 26% of non-empty `Case`): <em>все, свою, свои, этот, эту, эти, свое, это, свой, то</em>
-* `Dat` (1061; 5% of non-empty `Case`): <em>этому, этой, всем, своей, своим, тому, своему, этим, всей, нашим</em>
-* `Gen` (4224; 22% of non-empty `Case`): <em>этого, этих, всех, этой, своего, своих, таких, такого, нашей, своей</em>
-* `Ins` (1472; 8% of non-empty `Case`): <em>таким, своим, своими, своей, этим, этой, тем, всеми, этими, теми</em>
-* `Loc` (2643; 14% of non-empty `Case`): <em>этом, том, этой, своем, всех, нашей, этих, своей, своих, таких</em>
-* `Nom` (4790; 25% of non-empty `Case`): <em>все, эти, эта, этот, это, такая, такие, наши, некоторые, такой</em>
-* `EMPTY` (2818): <em>его, их, ее, её</em>
+* `Acc` (4935; 27% of non-empty `Case`): <em>все, свою, свои, этот, эту, эти, свое, это, свой, то</em>
+* `Dat` (998; 5% of non-empty `Case`): <em>этому, этой, всем, своей, своим, своему, этим, всей, тому, нашим</em>
+* `Gen` (4015; 22% of non-empty `Case`): <em>этого, этих, этой, всех, своего, своих, нашей, такого, таких, своей</em>
+* `Ins` (1382; 8% of non-empty `Case`): <em>таким, своим, своими, своей, этим, этой, всеми, тем, этими, каждым</em>
+* `Loc` (2533; 14% of non-empty `Case`): <em>этом, том, этой, своем, нашей, всех, этих, своей, своих, таком</em>
+* `Nom` (4553; 25% of non-empty `Case`): <em>все, эти, эта, этот, это, такая, наши, некоторые, такие, наш</em>
+* `EMPTY` (2811): <em>его, их, ее, её</em>
 
 <table>
   <tr><th>Paradigm <i>ЭТОТ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -275,7 +275,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 12127 [ru-pos/VERB]() tokens (10% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (12127; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (12127; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (12127; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (7173; 59%), <tt><a href="Number.html">Number</a>=Sing</tt> (6870; 57%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (6415; 53%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6267; 52%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (12127; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (12127; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (12127; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (7173; 59%), <tt><a href="Number.html">Number</a>=Sing</tt> (6870; 57%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (6415; 53%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6267; 52%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -339,7 +339,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 4 [ru-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -356,14 +356,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (80698; 100%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> DET</tt> (19083; 100%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (10318; 99%),
-<tt>NOUN --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (8476; 95%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (81511; 100%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (20564; 96%),
+<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (18266; 86%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (10308; 99%),
 <tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (5794; 80%),
 <tt>NOUN --[<a href="../dep/name.html">name</a>]--> NOUN</tt> (5008; 100%),
-<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (3111; 64%),
-<tt>NOUN --[<a href="../dep/parataxis.html">parataxis</a>]--> NOUN</tt> (1652; 51%),
-<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1414; 100%),
-<tt>ADJ --[<a href="../dep/dep.html">dep</a>]--> ADJ</tt> (1250; 98%).
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (3777; 98%),
+<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (3109; 64%),
+<tt>NOUN --[<a href="../dep/parataxis.html">parataxis</a>]--> NOUN</tt> (1650; 50%),
+<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1533; 100%).
 

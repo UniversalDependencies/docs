@@ -91,12 +91,12 @@ The following 10 pairs of parts of speech are connected with `neg`: [ru-pos/VERB
 
 This relation is universal.
 
-13298 nodes (1%) are attached to their parents as `neg`.
+13290 nodes (1%) are attached to their parents as `neg`.
 
-13190 instances of `neg` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13453150849752.
+13181 instances of `neg` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13513920240783.
 
-The following 14 pairs of parts of speech are connected with `neg`: [ru-pos/VERB]()-[ru-pos/PART]() (8854; 67% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (1495; 11% instances), [ru-pos/ADV]()-[ru-pos/PART]() (1038; 8% instances), [ru-pos/ADJ]()-[ru-pos/PART]() (1009; 8% instances), [ru-pos/PART]()-[ru-pos/PART]() (661; 5% instances), [ru-pos/PRON]()-[ru-pos/PART]() (95; 1% instances), [ru-pos/DET]()-[ru-pos/PART]() (89; 1% instances), [ru-pos/NUM]()-[ru-pos/PART]() (25; 0% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (10; 0% instances), [ru-pos/CONJ]()-[ru-pos/PART]() (8; 0% instances), [ru-pos/SCONJ]()-[ru-pos/PART]() (6; 0% instances), [ru-pos/CONJ]()-[ru-pos/VERB]() (3; 0% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (3; 0% instances), [ru-pos/SYM]()-[ru-pos/PART]() (2; 0% instances).
+The following 15 pairs of parts of speech are connected with `neg`: [ru-pos/VERB]()-[ru-pos/PART]() (8850; 67% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (1495; 11% instances), [ru-pos/ADV]()-[ru-pos/PART]() (1042; 8% instances), [ru-pos/ADJ]()-[ru-pos/PART]() (1012; 8% instances), [ru-pos/PART]()-[ru-pos/PART]() (661; 5% instances), [ru-pos/PRON]()-[ru-pos/PART]() (95; 1% instances), [ru-pos/DET]()-[ru-pos/PART]() (86; 1% instances), [ru-pos/NUM]()-[ru-pos/PART]() (25; 0% instances), [ru-pos/CONJ]()-[ru-pos/PART]() (8; 0% instances), [ru-pos/SCONJ]()-[ru-pos/PART]() (6; 0% instances), [ru-pos/CONJ]()-[ru-pos/VERB]() (3; 0% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (2; 0% instances), [ru-pos/SYM]()-[ru-pos/PART]() (2; 0% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (2; 0% instances), [ru-pos/SCONJ]()-[ru-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

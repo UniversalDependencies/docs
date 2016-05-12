@@ -13,7 +13,7 @@ The 10 most frequent `ADJ` types:  <em>второй, й, 2008, 2010, х, дру�
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 26660, [PUNCT]() 18807, [ADJ]() 12528, [ADP]() 10735, [VERB]() 9436, [PROPN]() 7604, [CONJ]() 3168, [ADV]() 2142, [NUM]() 1900, [PRON]() 1763, [X]() 1700, [DET]() 1673, [SCONJ]() 624, [PART]() 491, [SYM]() 158)
 
-The 10 most frequent ambiguous types:  <em>2008</em> ([ADJ]() 41, [NUM]() 2, [X]() 1), <em>2010</em> ([ADJ]() 39, [NUM]() 1, [X]() 1), <em>х</em> ([ADJ]() 39, [NUM]() 5, [NOUN]() 1), <em>2012</em> ([ADJ]() 34, [NUM]() 1, [X]() 1), <em>1</em> ([NUM]() 43, [ADJ]() 33, [X]() 19), <em>2011</em> ([ADJ]() 33, [NUM]() 1), <em>2007</em> ([ADJ]() 32, [NUM]() 1), <em>12</em> ([ADJ]() 29, [NUM]() 17, [X]() 6), <em>II</em> ([ADJ]() 29, [NUM]() 4), <em>2005</em> ([ADJ]() 25, [NUM]() 4)
+The 10 most frequent ambiguous types:  <em>2008</em> ([ADJ]() 41, [NUM]() 2, [X]() 1), <em>2010</em> ([ADJ]() 39, [NUM]() 1, [X]() 1), <em>х</em> ([ADJ]() 39, [NUM]() 5, [NOUN]() 1), <em>2012</em> ([ADJ]() 34, [X]() 1, [NUM]() 1), <em>1</em> ([NUM]() 43, [ADJ]() 33, [X]() 19), <em>2011</em> ([ADJ]() 33, [NUM]() 1), <em>2007</em> ([ADJ]() 32, [NUM]() 1), <em>12</em> ([ADJ]() 29, [NUM]() 17, [X]() 6), <em>II</em> ([ADJ]() 29, [NUM]() 4), <em>2005</em> ([ADJ]() 25, [NUM]() 4)
 
 
 * <em>2008</em>
@@ -30,8 +30,8 @@ The 10 most frequent ambiguous types:  <em>2008</em> ([ADJ]() 41, [NUM]() 2, [X]
   * [NOUN]() 1: <em>Пожилую пару заменили звёзды `` серебряного экрана &#39;&#39; 1950 - <b>х</b> : Фред Астер и Дженифер Джонс .</em>
 * <em>2012</em>
   * [ADJ]() 34: <em>Первый эпизод вышел 4 августа <b>2012</b> .</em>
-  * [NUM]() 1: <em>На чемпионате мира <b>2012</b> Элене третий раз в карьере занимает 10 - е место .</em>
   * [X]() 1: <em>На Олипиаде - <b>2012</b> победил азербайджанского боксёра Солтана Мигитинова ( 24-11 ) , венгра Золтана Харчша ( 14-10 ) и британца Энтони Огого .</em>
+  * [NUM]() 1: <em>На чемпионате мира <b>2012</b> Элене третий раз в карьере занимает 10 - е место .</em>
 * <em>1</em>
   * [NUM]() 43: <em>На расстоянии в <b>1</b> км расположено село Поповка .</em>
   * [ADJ]() 33: <em><b>1</b> декабря 1923 произведен в лейтенанты 3 - го артиллерийского полка .</em>
@@ -94,52 +94,54 @@ Children of `ADJ` nodes belong to 15 different parts of speech: [PUNCT]() (1643;
 
 ## Treebank Statistics (UD_Russian-Syntagrus)
 
-There are 8596 `ADJ` lemmas (21%), 27251 `ADJ` types (24%) and 113392 `ADJ` tokens (11%).
+There are 8597 `ADJ` lemmas (21%), 27265 `ADJ` types (24%) and 114280 `ADJ` tokens (11%).
 Out of 15 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>КОТОРЫЙ, ОДИН, ДРУГОЙ, НОВЫЙ, САМЫЙ, ПЕРВЫЙ, САМ, ДОЛЖЕН, РОССИЙСКИЙ, БОЛЬШОЙ</em>
 
 The 10 most frequent `ADJ` types:  <em>которые, который, один, которых, которая, других, нужно, которой, другой, одной</em>
 
-The 10 most frequent ambiguous lemmas: <em>КОТОРЫЙ</em> ([ADJ]() 4823, [DET]() 78), <em>ОДИН</em> ([ADJ]() 2422, [NOUN]() 1), <em>ПЕРВЫЙ</em> ([ADJ]() 1287, [NOUN]() 1), <em>ТАКОЙ</em> ([DET]() 1979, [ADJ]() 509), <em>РУССКИЙ</em> ([ADJ]() 333, [NOUN]() 53), <em>ВОЕННЫЙ</em> ([ADJ]() 324, [NOUN]() 51), <em>ПРОСТОЙ</em> ([ADJ]() 322, [NOUN]() 2), <em>ВЕСЬ</em> ([DET]() 2689, [ADJ]() 301), <em>ТОТ</em> ([DET]() 1885, [NOUN]() 529, [ADJ]() 269), <em>ВЕЛИКИЙ</em> ([ADJ]() 211, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>КОТОРЫЙ</em> ([ADJ]() 4849, [DET]() 52), <em>ОДИН</em> ([ADJ]() 2422, [NOUN]() 1), <em>ПЕРВЫЙ</em> ([ADJ]() 1287, [NOUN]() 1), <em>ТАКОЙ</em> ([DET]() 1783, [ADJ]() 705), <em>ТОТ</em> ([DET]() 1462, [ADJ]() 692, [NOUN]() 529), <em>ВЕСЬ</em> ([DET]() 2596, [ADJ]() 394), <em>РУССКИЙ</em> ([ADJ]() 333, [NOUN]() 53), <em>ВОЕННЫЙ</em> ([ADJ]() 324, [NOUN]() 51), <em>ПРОСТОЙ</em> ([ADJ]() 322, [NOUN]() 2), <em>ЭТОТ</em> ([DET]() 4950, [ADJ]() 249, [NOUN]() 6)
 
-The 10 most frequent ambiguous types:  <em>которые</em> ([ADJ]() 1275, [DET]() 24), <em>который</em> ([ADJ]() 751, [DET]() 15), <em>которых</em> ([ADJ]() 552, [DET]() 8), <em>которая</em> ([ADJ]() 496, [DET]() 7), <em>которой</em> ([ADJ]() 429, [DET]() 3), <em>которого</em> ([ADJ]() 291, [DET]() 8), <em>первый</em> ([ADJ]() 217, [NOUN]() 1), <em>которое</em> ([ADJ]() 251, [DET]() 2), <em>которую</em> ([ADJ]() 238, [DET]() 1), <em>котором</em> ([ADJ]() 203, [DET]() 2)
+The 10 most frequent ambiguous types:  <em>которые</em> ([ADJ]() 1276, [DET]() 23), <em>который</em> ([ADJ]() 751, [DET]() 15), <em>которых</em> ([ADJ]() 557, [DET]() 3), <em>которая</em> ([ADJ]() 496, [DET]() 7), <em>которого</em> ([ADJ]() 297, [DET]() 2), <em>первый</em> ([ADJ]() 217, [NOUN]() 1), <em>которое</em> ([ADJ]() 251, [DET]() 2), <em>все</em> ([DET]() 904, [NOUN]() 850, [PART]() 333, [ADJ]() 213), <em>необходимо</em> ([ADJ]() 169, [ADV]() 2), <em>невозможно</em> ([ADJ]() 180, [ADV]() 4)
 
 
 * <em>которые</em>
-  * [ADJ]() 1275: <em>И надежды , <b>которые</b> связывали с внедрением , в целом себя оправдали .</em>
-  * [DET]() 24: <em>Только те места , <b>которые</b> есть в данном регионе .</em>
+  * [ADJ]() 1276: <em>И надежды , <b>которые</b> связывали с внедрением , в целом себя оправдали .</em>
+  * [DET]() 23: <em>Только те места , <b>которые</b> есть в данном регионе .</em>
 * <em>который</em>
   * [ADJ]() 751: <em>А нашего " XX съезда " , <b>который</b> бы все объяснил , пока не предвидится .</em>
   * [DET]() 15: <em>Монахов в <b>который</b> раз глянул на часы - так они и впрямь стояли !</em>
 * <em>которых</em>
-  * [ADJ]() 552: <em>Как же они жили с крыльями , на <b>которых</b> нельзя летать ?</em>
-  * [DET]() 8: <em>Частные реставрационные фирмы , <b>которых</b> появилось множество , не спасают ситуации .</em>
+  * [ADJ]() 557: <em>Как же они жили с крыльями , на <b>которых</b> нельзя летать ?</em>
+  * [DET]() 3: <em>Частные реставрационные фирмы , <b>которых</b> появилось множество , не спасают ситуации .</em>
 * <em>которая</em>
   * [ADJ]() 496: <em>Не та , <b>которая</b> доказывает нечто самоочевидное , пусть и убедительно .</em>
   * [DET]() 7: <em>Да , ситуация сложная , но такова традиция , <b>которая</b> и есть реальность .</em>
-* <em>которой</em>
-  * [ADJ]() 429: <em>Той работы , <b>которой</b> Бурдье оставался верен до самых последних дней …</em>
-  * [DET]() 3: <em>А вот Дмитрий Медведев сформировал свою команду , в <b>которой</b> советниками будут Рейман и Зурабов .</em>
 * <em>которого</em>
-  * [ADJ]() 291: <em>Труппа еврейского театра , для <b>которого</b> делал декорации Марк Шагал .</em>
-  * [DET]() 8: <em>Раскачивание же , для <b>которого</b> внешним толчком был город , все затухало .</em>
+  * [ADJ]() 297: <em>Раскачивание же , для <b>которого</b> внешним толчком был город , все затухало .</em>
+  * [DET]() 2: <em>Залог их успеха - хорошая школа , опыт , <b>которого</b> не было на Западе .</em>
 * <em>первый</em>
   * [ADJ]() 217: <em>В результате на <b>первый</b> план выходят системные интеграторы .</em>
   * [NOUN]() 1: <em>Несколько раньше В. Котов работал инструктором обкома партии и хорошо знал царившую там атмосферу : " Из кабинета " <b>первый</b> " не выходил до позднего вечера , часов приема не имел и практически никого не принимал .</em>
 * <em>которое</em>
   * [ADJ]() 251: <em>Рождение Платона было событием , <b>которое</b> просветило меня .</em>
   * [DET]() 2: <em>Скажем , если бы она жила 200 аттосекунд , то эксперимент должен был бы показать вот такое колебание энергии вылетевших электронов , <b>которое</b> более или менее в фазе относительно электрического импульса .</em>
-* <em>которую</em>
-  * [ADJ]() 238: <em>Сегодня очень популярна гипотеза , <b>которую</b> выдвинули американцы .</em>
-  * [DET]() 1: <em>Однако все названные причины коренятся в одной , главной , на <b>которую</b> хотелось бы обратить внимание .</em>
-* <em>котором</em>
-  * [ADJ]() 203: <em>Тут и объявляется старик пьяница , о <b>котором</b> мы помянули вскользь .</em>
-  * [DET]() 2: <em>Вот пересказ " сценария " , в <b>котором</b> главное действующее лицо - валиномицин .</em>
+* <em>все</em>
+  * [DET]() 904: <em>Почему я их не видел ни разу во <b>все</b> эти бурные годы ?</em>
+  * [NOUN]() 850: <em>Разумеется , в существование Атлантиды верят далеко не <b>все</b> .</em>
+  * [PART]() 333: <em>Раскачивание же , для которого внешним толчком был город , <b>все</b> затухало .</em>
+  * [ADJ]() 213: <em>Четыре окна открывались на <b>все</b> четыре стороны света .</em>
+* <em>необходимо</em>
+  * [ADJ]() 169: <em>Для получения значка <b>необходимо</b> было выполнить определенные требования .</em>
+  * [ADV]() 2: <em>Научный продукт - это товар , который <b>необходимо</b> реализовать на рынке .</em>
+* <em>невозможно</em>
+  * [ADJ]() 180: <em>Не заметить его было <b>невозможно</b> .</em>
+  * [ADV]() 4: <em>Но так ли важен этот дресс-код , что его <b>невозможно</b> поменять ни на йоту ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 3.170195 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `ADJ` is 3.171455 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (30) was observed with the lemma “ВАЖНЫЙ”: <em>важен, важна, важная, важнее, важней, важнейшая, важнейшего, важнейшее, важнейшей, важнейшем, важнейшие, важнейший, важнейшим, важнейшими, важнейших, важнейшую, важно, важного, важное, важной, важном, важному, важную, важны, важные, важный, важным, важными, важных, наиважнейших</em>.
 
@@ -147,32 +149,32 @@ The 2nd highest number of forms (30) was observed with the lemma “СИЛЬНЫ
 
 The 3rd highest number of forms (28) was observed with the lemma “БЛИЗКИЙ”: <em>Поближе, ближайшее, ближайшей, ближайшем, ближайшему, ближайшие, ближайший, ближайшим, ближайшими, ближайших, ближайшую, ближе, близка, близкая, близки, близкие, близкий, близким, близкими, близких, близко, близкого, близкое, близкой, близком, близкому, близкую, близок</em>.
 
-`ADJ` occurs with 6 features: [ru-feat/Degree]() (113392; 100% instances), [ru-feat/Number]() (111564; 98% instances), [ru-feat/Case]() (102880; 91% instances), [ru-feat/Gender]() (74931; 66% instances), [ru-feat/Animacy]() (10346; 9% instances), [ru-feat/Variant]() (8686; 8% instances)
+`ADJ` occurs with 6 features: [ru-feat/Degree]() (114280; 100% instances), [ru-feat/Number]() (112445; 98% instances), [ru-feat/Case]() (103761; 91% instances), [ru-feat/Gender]() (75474; 66% instances), [ru-feat/Animacy]() (10452; 9% instances), [ru-feat/Variant]() (8686; 8% instances)
 
 `ADJ` occurs with 17 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Variant=Brev`
 
 `ADJ` occurs with 60 feature combinations.
-The most frequent feature combination is `Case=Gen|Degree=Pos|Number=Plur` (12099 tokens).
+The most frequent feature combination is `Case=Gen|Degree=Pos|Number=Plur` (12203 tokens).
 Examples: <em>которых, других, новых, самых, многих, российских, разных, научных, различных, политических</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 20 different relations: [ru-dep/amod]() (84159; 74% instances), [ru-dep/root]() (6265; 6% instances), [ru-dep/dep]() (6075; 5% instances), [ru-dep/dobj]() (4001; 4% instances), [ru-dep/nsubj]() (3511; 3% instances), [ru-dep/nmod]() (2870; 3% instances), [ru-dep/advcl]() (1317; 1% instances), [ru-dep/parataxis]() (1148; 1% instances), [ru-dep/acl]() (1112; 1% instances), [ru-dep/nummod]() (957; 1% instances), [ru-dep/compound]() (567; 1% instances), [ru-dep/acl:relcl]() (515; 0% instances), [ru-dep/nsubjpass]() (373; 0% instances), [ru-dep/advmod]() (255; 0% instances), [ru-dep/appos]() (128; 0% instances), [ru-dep/mwe]() (53; 0% instances), [ru-dep/iobj]() (51; 0% instances), [ru-dep/nmod:agent]() (24; 0% instances), [ru-dep/nummod:entity]() (9; 0% instances), [ru-dep/name]() (2; 0% instances)
+`ADJ` nodes are attached to their parents using 20 different relations: [ru-dep/amod]() (84987; 74% instances), [ru-dep/root]() (6264; 5% instances), [ru-dep/conj]() (5909; 5% instances), [ru-dep/dobj]() (4006; 4% instances), [ru-dep/nsubj]() (3519; 3% instances), [ru-dep/nmod]() (2974; 3% instances), [ru-dep/advcl]() (1331; 1% instances), [ru-dep/parataxis]() (1149; 1% instances), [ru-dep/acl]() (1112; 1% instances), [ru-dep/nummod]() (957; 1% instances), [ru-dep/compound]() (567; 0% instances), [ru-dep/acl:relcl]() (515; 0% instances), [ru-dep/nsubjpass]() (373; 0% instances), [ru-dep/advmod]() (259; 0% instances), [ru-dep/dep]() (149; 0% instances), [ru-dep/appos]() (129; 0% instances), [ru-dep/mwe]() (44; 0% instances), [ru-dep/nmod:agent]() (25; 0% instances), [ru-dep/nummod:entity]() (9; 0% instances), [ru-dep/name]() (2; 0% instances)
 
-Parents of `ADJ` nodes belong to 13 different parts of speech: [NOUN]() (85555; 75% instances), [VERB]() (11198; 10% instances), [ROOT]() (6265; 6% instances), [ADJ]() (4707; 4% instances), [CONJ]() (4004; 4% instances), [PRON]() (595; 1% instances), [ADV]() (408; 0% instances), [NUM]() (336; 0% instances), [DET]() (169; 0% instances), [SCONJ]() (102; 0% instances), [SYM]() (36; 0% instances), [PART]() (15; 0% instances), [INTJ]() (2; 0% instances)
+Parents of `ADJ` nodes belong to 12 different parts of speech: [NOUN]() (86764; 76% instances), [VERB]() (11774; 10% instances), [ADJ]() (7789; 7% instances), [ROOT]() (6264; 5% instances), [PRON]() (592; 1% instances), [ADV]() (461; 0% instances), [NUM]() (353; 0% instances), [SCONJ]() (118; 0% instances), [CONJ]() (111; 0% instances), [SYM]() (38; 0% instances), [PART]() (14; 0% instances), [INTJ]() (2; 0% instances)
 
-81205 (72%) `ADJ` nodes are leaves.
+81393 (71%) `ADJ` nodes are leaves.
 
-15804 (14%) `ADJ` nodes have one child.
+15046 (13%) `ADJ` nodes have one child.
 
-6482 (6%) `ADJ` nodes have two children.
+7177 (6%) `ADJ` nodes have two children.
 
-9901 (9%) `ADJ` nodes have three or more children.
+10664 (9%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 11.
+The highest child degree of a `ADJ` node is 18.
 
-Children of `ADJ` nodes are attached using 27 different relations: [ru-dep/punct]() (19151; 28% instances), [ru-dep/advmod]() (9979; 14% instances), [ru-dep/nsubj]() (9152; 13% instances), [ru-dep/dep]() (7703; 11% instances), [ru-dep/nmod]() (4548; 7% instances), [ru-dep/case]() (3082; 4% instances), [ru-dep/parataxis]() (2482; 4% instances), [ru-dep/cop]() (2279; 3% instances), [ru-dep/dobj]() (2149; 3% instances), [ru-dep/cc]() (1660; 2% instances), [ru-dep/amod]() (1478; 2% instances), [ru-dep/advcl]() (1358; 2% instances), [ru-dep/mark]() (1134; 2% instances), [ru-dep/neg]() (1009; 1% instances), [ru-dep/compound]() (619; 1% instances), [ru-dep/iobj]() (502; 1% instances), [ru-dep/acl:relcl]() (224; 0% instances), [ru-dep/aux]() (163; 0% instances), [ru-dep/appos]() (111; 0% instances), [ru-dep/acl]() (68; 0% instances), [ru-dep/nummod]() (65; 0% instances), [ru-dep/mwe]() (48; 0% instances), [ru-dep/nummod:gov]() (14; 0% instances), [ru-dep/nmod:agent]() (9; 0% instances), [ru-dep/expl]() (2; 0% instances), [ru-dep/auxpass]() (1; 0% instances), [ru-dep/name]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 28 different relations: [ru-dep/punct]() (19185; 26% instances), [ru-dep/advmod]() (10385; 14% instances), [ru-dep/nsubj]() (8996; 12% instances), [ru-dep/conj]() (6250; 8% instances), [ru-dep/cc]() (5684; 8% instances), [ru-dep/nmod]() (5056; 7% instances), [ru-dep/case]() (3112; 4% instances), [ru-dep/parataxis]() (2462; 3% instances), [ru-dep/cop]() (2279; 3% instances), [ru-dep/dobj]() (2143; 3% instances), [ru-dep/dep]() (1649; 2% instances), [ru-dep/amod]() (1598; 2% instances), [ru-dep/advcl]() (1562; 2% instances), [ru-dep/mark]() (1349; 2% instances), [ru-dep/neg]() (1012; 1% instances), [ru-dep/compound]() (619; 1% instances), [ru-dep/acl:relcl]() (229; 0% instances), [ru-dep/aux]() (163; 0% instances), [ru-dep/appos]() (114; 0% instances), [ru-dep/acl]() (87; 0% instances), [ru-dep/nummod]() (65; 0% instances), [ru-dep/mwe]() (60; 0% instances), [ru-dep/iobj]() (28; 0% instances), [ru-dep/nummod:gov]() (14; 0% instances), [ru-dep/nmod:agent]() (9; 0% instances), [ru-dep/expl]() (2; 0% instances), [ru-dep/auxpass]() (1; 0% instances), [ru-dep/name]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 14 different parts of speech: [PUNCT]() (19151; 28% instances), [NOUN]() (12737; 18% instances), [ADV]() (8015; 12% instances), [VERB]() (6130; 9% instances), [CONJ]() (5307; 8% instances), [ADJ]() (4707; 7% instances), [PART]() (3468; 5% instances), [ADP]() (3082; 4% instances), [PRON]() (2297; 3% instances), [AUX]() (2243; 3% instances), [SCONJ]() (1646; 2% instances), [NUM]() (174; 0% instances), [SYM]() (30; 0% instances), [INTJ]() (4; 0% instances)
+Children of `ADJ` nodes belong to 14 different parts of speech: [PUNCT]() (19185; 26% instances), [NOUN]() (13147; 18% instances), [ADV]() (8261; 11% instances), [ADJ]() (7789; 11% instances), [VERB]() (7157; 10% instances), [CONJ]() (5423; 7% instances), [PART]() (3568; 5% instances), [ADP]() (3112; 4% instances), [PRON]() (2329; 3% instances), [AUX]() (2243; 3% instances), [SCONJ]() (1696; 2% instances), [NUM]() (170; 0% instances), [SYM]() (30; 0% instances), [INTJ]() (4; 0% instances)
 

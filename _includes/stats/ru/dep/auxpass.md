@@ -137,51 +137,53 @@ The following 5 pairs of parts of speech are connected with `auxpass`: [ru-pos/V
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 auxpass	color:blue
-1	Японцы	ЯПОНЕЦ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
-2	и	И	CONJ	_	_	1	dep	_	_
-3	китайцы	КИТАЕЦ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	dep	_	_
-4	будут	БЫТЬ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	auxpass	_	_
-5	вынуждены	ВЫНУЖДЕННЫЙ	ADJ	_	Degree=Pos|Number=Plur|Variant=Brev	0	root	_	_
-6	вкладывать	ВКЛАДЫВАТЬ	VERB	_	Aspect=Imp|VerbForm=Inf	5	dep	_	_
-7	деньги	ДЕНЬГИ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	dobj	_	_
-8	в	В	ADP	_	_	10	case	_	_
-9	российскую	РОССИЙСКИЙ	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
-10	промышленность	ПРОМЫШЛЕННОСТЬ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	iobj	_	_
-11	,	,	PUNCT	,	_	10	punct	_	_
-12	так_как	ТАК_КАК	CONJ	_	_	18	mark	_	_
-13	без	БЕЗ	ADP	_	_	15	case	_	_
-14	нашего	НАШ	DET	_	Case=Gen|Gender=Neut|Number=Sing	15	amod	_	_
-15	сырья	СЫРЬЕ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
-16	им	ОНИ	PRON	_	_	18	iobj	_	_
-17	не	НЕ	PART	_	_	18	neg	_	_
-18	жить	ЖИТЬ	VERB	_	Aspect=Imp|VerbForm=Inf	6	advcl	_	_
-19	,	,	PUNCT	,	_	18	punct	_	_
-20	но	НО	CONJ	_	_	5	dep	_	_
-21	сделают	ДЕЛАТЬ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	20	dep	_	_
-22	они	ОНИ	PRON	_	_	21	nsubj	_	_
-23	это	ЭТО	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	dobj	_	_
-24	,	,	PUNCT	,	_	23	punct	_	_
-25	только	ТОЛЬКО	PART	_	_	28	advcl	_	_
-26	если	ЕСЛИ	SCONJ	_	_	25	mark	_	_
-27	их	ОНИ	PRON	_	_	28	dobj	_	_
-28	вынудят	ВЫНУЖДАТЬ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	21	advcl	_	_
-29	:	:	PUNCT	:	_	28	punct	_	_
-30	хотите	ХОТЕТЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	37	acl	_	_
-31	топливо	ТОПЛИВО	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	30	dobj	_	_
-32	,	,	PUNCT	,	_	31	punct	_	_
-33	лес	ЛЕС	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	dep	_	_
-34	и	И	CONJ	_	_	33	dep	_	_
-35	металлы	МЕТАЛЛ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	34	dep	_	_
-36	-	-	PUNCT	-	_	35	punct	_	_
-37	перерабатывайте	ПЕРЕРАБАТЫВАТЬ	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	28	parataxis	_	_
-38	на	НА	ADP	_	_	39	case	_	_
-39	месте	МЕСТО	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	37	nmod	_	_
-40	.	.	PUNCT	.	_	5	punct	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 24 19 auxpass	color:blue
+1	Как	КАК	SCONJ	_	_	2	mark	_	_
+2	сообщает	СООБЩАТЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+3	корреспондент	КОРРЕСПОНДЕНТ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	Страны.Ru	СТРАНА.RU	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	dobj	_	_
+5	.	.	PUNCT	.	_	4	punct	_	_
+6	командующий	КОМАНДУЮЩИЙ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	подчеркнул	ПОДЧЕРКИВАТЬ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	,	,	PUNCT	,	_	7	punct	_	_
+9	что	ЧТО	SCONJ	_	_	18	mark	_	_
+10	"	"	PUNCT	"	_	11	punct	_	_
+11	впервые	ВПЕРВЫЕ	ADV	_	Degree=Pos	18	advmod	_	_
+12	за	ЗА	ADP	_	_	14	case	_	_
+13	пять	ПЯТЬ	NUM	_	Case=Acc	14	nummod	_	_
+14	лет	ГОД	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+15	на	НА	ADP	_	_	17	case	_	_
+16	сто	СТО	NUM	_	Case=Acc	17	nummod	_	_
+17	процентов	ПРОЦЕНТ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+18	выполнен	ВЫПОЛНЯТЬ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Brev|VerbForm=Part|Voice=Pass	7	advcl	_	_
+19	график	ГРАФИК	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	auxpass	_	_
+20	запусков	ЗАПУСК	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	dobj	_	_
+21	космических	КОСМИЧЕСКИЙ	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	аппаратов	АППАРАТ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	dobj	_	_
+23	,	,	PUNCT	,	_	22	punct	_	_
+24	утвержденный	УТВЕРЖДАТЬ	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	nsubjpass	_	_
+25	начальником	НАЧАЛЬНИК	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	24	nmod:agent	_	_
+26	Генерального	ГЕНЕРАЛЬНЫЙ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
+27	штаба	ШТАБ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	dobj	_	_
+28	Вооруженных	ВООРУЖАТЬ	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	29	amod	_	_
+29	Сил	СИЛА	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	dobj	_	_
+30	РФ	РФ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	_
+31	генералом	ГЕНЕРАЛ	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	25	appos	_	_
+32	армии	АРМИЯ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	dobj	_	_
+33	Анатолием	АНАТОЛИЙ	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	31	appos	_	_
+34	Квашниным	КВАШНИН	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	33	name	_	_
+35	,	,	PUNCT	,	_	34	punct	_	_
+36	в_первую_очередь	В_ПЕРВУЮ_ОЧЕРЕДЬ	ADV	_	Degree=Pos	38	advmod	_	_
+37	для	ДЛЯ	ADP	_	_	38	case	_	_
+38	обеспечения	ОБЕСПЕЧЕНИЕ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+39	безопасности	БЕЗОПАСНОСТЬ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	dobj	_	_
+40	страны	СТРАНА	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	_
+41	"	"	PUNCT	"	_	40	punct	_	_
+42	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 

@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  <em>и, а, также, но, или, одн
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 26660, [PUNCT]() 18807, [ADJ]() 12528, [ADP]() 10735, [VERB]() 9436, [PROPN]() 7604, [CONJ]() 3168, [ADV]() 2142, [NUM]() 1900, [PRON]() 1763, [X]() 1700, [DET]() 1673, [SCONJ]() 624, [PART]() 491, [SYM]() 158)
 
-The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 2241, [X]() 89, [PART]() 6, [NOUN]() 1), <em>а</em> ([CONJ]() 261, [X]() 4, [NOUN]() 1), <em>также</em> ([CONJ]() 161, [ADV]() 2, [X]() 1), <em>но</em> ([CONJ]() 145, [X]() 1), <em>или</em> ([CONJ]() 155, [ADJ]() 1), <em>однако</em> ([CONJ]() 31, [ADV]() 3, [X]() 1), <em>либо</em> ([CONJ]() 16, [X]() 7), <em>так</em> ([ADV]() 45, [SCONJ]() 27, [CONJ]() 8, [ADP]() 4), <em>тоже</em> ([CONJ]() 9, [ADV]() 1), <em>то</em> ([DET]() 63, [X]() 14, [ADV]() 11, [CONJ]() 7, [SCONJ]() 2, [ADP]() 2)
+The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 2241, [X]() 89, [PART]() 6, [NOUN]() 1), <em>а</em> ([CONJ]() 261, [X]() 4, [NOUN]() 1), <em>также</em> ([CONJ]() 161, [ADV]() 2, [X]() 1), <em>но</em> ([CONJ]() 145, [X]() 1), <em>или</em> ([CONJ]() 155, [ADJ]() 1), <em>однако</em> ([CONJ]() 31, [ADV]() 3, [X]() 1), <em>либо</em> ([CONJ]() 16, [X]() 7), <em>так</em> ([ADV]() 45, [SCONJ]() 27, [CONJ]() 8, [ADP]() 4), <em>тоже</em> ([CONJ]() 9, [ADV]() 1), <em>то</em> ([DET]() 63, [X]() 14, [ADV]() 11, [CONJ]() 7, [ADP]() 2, [SCONJ]() 2)
 
 
 * <em>и</em>
@@ -55,8 +55,8 @@ The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 2241, [X]() 89, [PA
   * [X]() 14: <em>Сенусерт I в какой - <b>то</b> степени поднял экономику страны , начав освоение Фаюма .</em>
   * [ADV]() 11: <em>Так как белые готовились к эвакуации , <b>то</b> их в расчёт вовсе не принимали .</em>
   * [CONJ]() 7: <em>Далее больше атаковали хозяева , но римлян выручали <b>то</b> Марко Баллотта , <b>то</b> его защитники .</em>
-  * [SCONJ]() 2: <em>Возможно , существует проход , который соединяет Темное Озеро с одной из подземных рек , протекающей в Скуллпорте , и если удастся обнаружить этот проход и открывающий его ключ , <b>то</b> это сильно поможет облегчить торговлю между Подземьем и поверхностью .</em>
   * [ADP]() 2: <em>Если налог перелагается , <b>то</b> это значит , что он выступает в роли особого ценообразующего фактора .</em>
+  * [SCONJ]() 2: <em>Возможно , существует проход , который соединяет Темное Озеро с одной из подземных рек , протекающей в Скуллпорте , и если удастся обнаружить этот проход и открывающий его ключ , <b>то</b> это сильно поможет облегчить торговлю между Подземьем и поверхностью .</em>
 
 ## Morphology
 
@@ -102,7 +102,7 @@ The 10 most frequent `CONJ` types:  <em>и, а, но, или, то, чем, ни
 
 The 10 most frequent ambiguous lemmas: <em>И</em> ([CONJ]() 23475, [PART]() 4339, [NOUN]() 2), <em>А</em> ([CONJ]() 5064, [NOUN]() 6, [INTJ]() 4, [PART]() 3), <em>НО</em> ([CONJ]() 4470, [NOUN]() 1), <em>ТО</em> ([NOUN]() 3241, [CONJ]() 1102, [PART]() 222), <em>НИ</em> ([CONJ]() 489, [PART]() 446, [NOUN]() 32), <em>ДА</em> ([PART]() 298, [CONJ]() 294), <em>ПОКА</em> ([ADV]() 351, [CONJ]() 194), <em>ПРИЧЕМ</em> ([CONJ]() 152, [ADV]() 60), <em>ВЕДЬ</em> ([PART]() 426, [CONJ]() 107), <em>ЗАТО</em> ([CONJ]() 96, [PART]() 24)
 
-The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 21363, [PART]() 4301), <em>а</em> ([CONJ]() 3355, [INTJ]() 2, [PART]() 1), <em>то</em> ([CONJ]() 1087, [NOUN]() 602, [PART]() 222, [DET]() 216, [ADJ]() 14), <em>чем</em> ([CONJ]() 621, [PRON]() 316, [SCONJ]() 2), <em>ни</em> ([CONJ]() 461, [PART]() 410), <em>да</em> ([CONJ]() 180, [PART]() 84), <em>пока</em> ([ADV]() 288, [CONJ]() 158), <em>причем</em> ([CONJ]() 87, [ADV]() 16), <em>ведь</em> ([PART]() 252, [CONJ]() 67), <em>зато</em> ([CONJ]() 32, [PART]() 20)
+The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 21363, [PART]() 4301), <em>а</em> ([CONJ]() 3355, [INTJ]() 2, [PART]() 1), <em>то</em> ([CONJ]() 1087, [NOUN]() 602, [PART]() 222, [DET]() 200, [ADJ]() 30), <em>чем</em> ([CONJ]() 621, [PRON]() 316, [SCONJ]() 2), <em>ни</em> ([CONJ]() 461, [PART]() 410), <em>да</em> ([CONJ]() 180, [PART]() 84), <em>пока</em> ([ADV]() 288, [CONJ]() 158), <em>причем</em> ([CONJ]() 87, [ADV]() 16), <em>ведь</em> ([PART]() 252, [CONJ]() 67), <em>зато</em> ([CONJ]() 32, [PART]() 20)
 
 
 * <em>и</em>
@@ -116,8 +116,8 @@ The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 21363, [PART]() 430
   * [CONJ]() 1087: <em>- Почему же ! - не <b>то</b> нападая , не <b>то</b> защищаясь , сказал отец .</em>
   * [NOUN]() 602: <em>" Всё , всё , всё ! " - радостно говорил он , обозначая <b>то</b> , что видел .</em>
   * [PART]() 222: <em>Знать - <b>то</b> мы , конечно , знаем .</em>
-  * [DET]() 216: <em>В <b>то</b> же время 65 членов МОК высказались против включения альпинизма .</em>
-  * [ADJ]() 14: <em>Выполняли они одно и <b>то</b> же задание .</em>
+  * [DET]() 200: <em>В <b>то</b> же время 65 членов МОК высказались против включения альпинизма .</em>
+  * [ADJ]() 30: <em>Мы будем в Москве почти в <b>то</b> же время , как_если_бы летели на том …</em>
 * <em>чем</em>
   * [CONJ]() 621: <em>" Как отец , но покрупнее , <b>чем</b> отец .</em>
   * [PRON]() 316: <em>В <b>чем</b> заключались " будущие вызовы " ?</em>
@@ -143,7 +143,7 @@ The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 21363, [PART]() 430
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 1.092308 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `CONJ` is 1.092308 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (2) was observed with the lemma “В_СЛУЧАЕ_ЕСЛИ”: <em>в_случае,_если, в_случае_если</em>.
 
@@ -156,21 +156,21 @@ The 3rd highest number of forms (2) was observed with the lemma “ОТТОГО_
 
 ## Relations
 
-`CONJ` nodes are attached to their parents using 13 different relations: [ru-dep/dep]() (29661; 73% instances), [ru-dep/cc]() (9089; 22% instances), [ru-dep/mark]() (1511; 4% instances), [ru-dep/parataxis]() (275; 1% instances), [ru-dep/advcl]() (23; 0% instances), [ru-dep/advmod]() (17; 0% instances), [ru-dep/acl]() (9; 0% instances), [ru-dep/mwe]() (9; 0% instances), [ru-dep/nmod]() (7; 0% instances), [ru-dep/appos]() (3; 0% instances), [ru-dep/nsubj]() (3; 0% instances), [ru-dep/acl:relcl]() (2; 0% instances), [ru-dep/nsubjpass]() (1; 0% instances)
+`CONJ` nodes are attached to their parents using 11 different relations: [ru-dep/cc]() (38750; 95% instances), [ru-dep/mark]() (1583; 4% instances), [ru-dep/parataxis]() (237; 1% instances), [ru-dep/advmod]() (14; 0% instances), [ru-dep/mwe]() (9; 0% instances), [ru-dep/advcl]() (6; 0% instances), [ru-dep/appos]() (4; 0% instances), [ru-dep/nsubj]() (3; 0% instances), [ru-dep/nmod]() (2; 0% instances), [ru-dep/acl:relcl]() (1; 0% instances), [ru-dep/nsubjpass]() (1; 0% instances)
 
-Parents of `CONJ` nodes belong to 12 different parts of speech: [VERB]() (16916; 42% instances), [NOUN]() (15675; 39% instances), [ADJ]() (5307; 13% instances), [ADV]() (1866; 5% instances), [PRON]() (398; 1% instances), [DET]() (164; 0% instances), [NUM]() (129; 0% instances), [PART]() (52; 0% instances), [CONJ]() (45; 0% instances), [SYM]() (29; 0% instances), [SCONJ]() (24; 0% instances), [INTJ]() (5; 0% instances)
+Parents of `CONJ` nodes belong to 11 different parts of speech: [VERB]() (16974; 42% instances), [NOUN]() (15648; 39% instances), [ADJ]() (5423; 13% instances), [ADV]() (1826; 4% instances), [PRON]() (407; 1% instances), [NUM]() (133; 0% instances), [SCONJ]() (62; 0% instances), [CONJ]() (53; 0% instances), [PART]() (50; 0% instances), [SYM]() (31; 0% instances), [INTJ]() (3; 0% instances)
 
-9907 (24%) `CONJ` nodes are leaves.
+38385 (95%) `CONJ` nodes are leaves.
 
-29363 (72%) `CONJ` nodes have one child.
+1937 (5%) `CONJ` nodes have one child.
 
-1288 (3%) `CONJ` nodes have two children.
+224 (1%) `CONJ` nodes have two children.
 
-52 (0%) `CONJ` nodes have three or more children.
+64 (0%) `CONJ` nodes have three or more children.
 
-The highest child degree of a `CONJ` node is 5.
+The highest child degree of a `CONJ` node is 8.
 
-Children of `CONJ` nodes are attached using 18 different relations: [ru-dep/dep]() (29867; 93% instances), [ru-dep/punct]() (1554; 5% instances), [ru-dep/advmod]() (514; 2% instances), [ru-dep/advcl]() (39; 0% instances), [ru-dep/nmod]() (27; 0% instances), [ru-dep/mark]() (26; 0% instances), [ru-dep/parataxis]() (23; 0% instances), [ru-dep/neg]() (11; 0% instances), [ru-dep/mwe]() (8; 0% instances), [ru-dep/nummod:gov]() (7; 0% instances), [ru-dep/case]() (6; 0% instances), [ru-dep/cc]() (6; 0% instances), [ru-dep/nsubj]() (5; 0% instances), [ru-dep/appos]() (4; 0% instances), [ru-dep/amod]() (2; 0% instances), [ru-dep/acl]() (1; 0% instances), [ru-dep/acl:relcl]() (1; 0% instances), [ru-dep/dobj]() (1; 0% instances)
+Children of `CONJ` nodes are attached using 18 different relations: [ru-dep/punct]() (1554; 60% instances), [ru-dep/advmod]() (530; 20% instances), [ru-dep/conj]() (276; 11% instances), [ru-dep/dep]() (73; 3% instances), [ru-dep/cc]() (49; 2% instances), [ru-dep/parataxis]() (28; 1% instances), [ru-dep/nmod]() (27; 1% instances), [ru-dep/advcl]() (16; 1% instances), [ru-dep/neg]() (11; 0% instances), [ru-dep/mark]() (9; 0% instances), [ru-dep/mwe]() (8; 0% instances), [ru-dep/nummod:gov]() (7; 0% instances), [ru-dep/case]() (6; 0% instances), [ru-dep/appos]() (3; 0% instances), [ru-dep/nsubj]() (3; 0% instances), [ru-dep/amod]() (2; 0% instances), [ru-dep/acl:relcl]() (1; 0% instances), [ru-dep/name]() (1; 0% instances)
 
-Children of `CONJ` nodes belong to 13 different parts of speech: [NOUN]() (13663; 43% instances), [VERB]() (10698; 33% instances), [ADJ]() (4004; 12% instances), [PUNCT]() (1554; 5% instances), [ADV]() (1228; 4% instances), [PART]() (551; 2% instances), [PRON]() (146; 0% instances), [NUM]() (120; 0% instances), [SCONJ]() (59; 0% instances), [CONJ]() (45; 0% instances), [SYM]() (25; 0% instances), [ADP]() (6; 0% instances), [INTJ]() (3; 0% instances)
+Children of `CONJ` nodes belong to 12 different parts of speech: [PUNCT]() (1554; 60% instances), [PART]() (537; 21% instances), [NOUN]() (131; 5% instances), [VERB]() (121; 5% instances), [ADJ]() (111; 4% instances), [ADV]() (63; 2% instances), [CONJ]() (53; 2% instances), [SCONJ]() (13; 0% instances), [PRON]() (11; 0% instances), [ADP]() (6; 0% instances), [NUM]() (3; 0% instances), [SYM]() (1; 0% instances)
 

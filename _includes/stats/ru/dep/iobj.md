@@ -81,70 +81,74 @@ The following 25 pairs of parts of speech are connected with `iobj`: [ru-pos/VER
 
 This relation is universal.
 
-17962 nodes (2%) are attached to their parents as `iobj`.
+2948 nodes (0%) are attached to their parents as `iobj`.
 
-14361 instances of `iobj` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.70409753924953.
+2474 instances of `iobj` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.2432157394844.
 
-The following 27 pairs of parts of speech are connected with `iobj`: [ru-pos/VERB]()-[ru-pos/NOUN]() (12160; 68% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (2517; 14% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (2347; 13% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (275; 2% instances), [ru-pos/ADJ]()-[ru-pos/PRON]() (220; 1% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (129; 1% instances), [ru-pos/ADV]()-[ru-pos/PRON]() (98; 1% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (83; 0% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (40; 0% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (28; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (9; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (7; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (7; 0% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (6; 0% instances), [ru-pos/NUM]()-[ru-pos/PRON]() (5; 0% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (5; 0% instances), [ru-pos/NUM]()-[ru-pos/NOUN]() (4; 0% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (4; 0% instances), [ru-pos/PART]()-[ru-pos/PRON]() (4; 0% instances), [ru-pos/PRON]()-[ru-pos/PRON]() (4; 0% instances), [ru-pos/NOUN]()-[ru-pos/DET]() (3; 0% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (2; 0% instances), [ru-pos/ADV]()-[ru-pos/SYM]() (1; 0% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (1; 0% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (1; 0% instances), [ru-pos/NUM]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 10 iobj	color:blue
-1	Именно	ИМЕННО	PART	_	_	4	advmod	_	_
-2	в	В	ADP	_	_	4	case	_	_
-3	таком	ТАКОЙ	DET	_	Case=Loc|Gender=Neut|Number=Sing	4	amod	_	_
-4	значении	ЗНАЧЕНИЕ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	nmod	_	_
-5	оно	ОНО	PRON	_	_	6	nsubj	_	_
-6	вошло	ВХОДИТЬ	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-7	во	В	ADP	_	_	10	case	_	_
-8	многие	МНОГИЕ	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
-9	европейские	ЕВРОПЕЙСКИЙ	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
-10	языки	ЯЗЫК	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	iobj	_	_
-11	.	.	PUNCT	.	_	6	punct	_	_
-
-~~~
+The following 10 pairs of parts of speech are connected with `iobj`: [ru-pos/VERB]()-[ru-pos/NOUN]() (2129; 72% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (468; 16% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (254; 9% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (31; 1% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (27; 1% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (23; 1% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (9; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (5; 0% instances), [ru-pos/ADJ]()-[ru-pos/PRON]() (1; 0% instances), [ru-pos/ADV]()-[ru-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 iobj	color:blue
-1	1811	1811	NUM	_	_	0	root	_	_
-2	-	-	PUNCT	-	_	1	punct	_	_
-3	Первое	ПЕРВЫЙ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
-4	восхождение	ВОСХОЖДЕНИЕ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	_
-5	на	НА	ADP	_	_	6	case	_	_
-6	вершину	ВЕРШИНА	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	iobj	_	_
-7	Юнгфрау	ЮНГФРАУ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
-8	в	В	ADP	_	_	10	case	_	_
-9	Бернских	БЕРНСКИЙ	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	10	amod	_	_
-10	Альпах	АЛЬПЫ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	nmod	_	_
-11	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 iobj	color:blue
+1	Например	НАПРИМЕР	ADV	_	Degree=Pos	6	parataxis	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	для	ДЛЯ	ADP	_	_	4	case	_	_
+4	описания	ОПИСАНИЕ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	iobj	_	_
+5	алгоритма	АЛГОРИТМ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	dobj	_	_
+6	применяются	ПРИМЕНЯТЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	блок-схемы	БЛОК-СХЕМА	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	nsubjpass	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 iobj	color:blue
-1	Лица	ЛИЦО	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	dobj	_	_
-2	он	ОН	PRON	_	_	7	nsubj	_	_
-3	ей	ОНА	PRON	_	_	7	iobj	_	_
-4	так	ТАК	ADV	_	Degree=Pos	7	advmod	_	_
-5	и	И	PART	_	_	4	mwe	_	_
-6	не	НЕ	PART	_	_	7	neg	_	_
-7	подобрал	ПОДБИРАТЬ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-8	.	.	PUNCT	.	_	7	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 iobj	color:blue
+1	-	-	PUNCT	-	_	2	punct	_	_
+2	серьезных	СЕРЬЕЗНЫЙ	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	задач	ЗАДАЧА	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nsubj	_	_
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	требующих	ТРЕБОВАТЬ	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
+6	возврата	ВОЗВРАТ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	dobj	_	_
+7	грузов	ГРУЗ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	dobj	_	_
+8	с	С	ADP	_	_	9	case	_	_
+9	орбиты	ОРБИТА	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	iobj	_	_
+10	,	,	PUNCT	,	_	9	punct	_	_
+11	-	-	PUNCT	-	_	9	punct	_	_
+12	нет	НЕТ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	;	;	PUNCT	;	_	12	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 iobj	color:blue
+1	-	-	PUNCT	-	_	2	punct	_	_
+2	Что	ЧТО	PRON	_	_	5	dobj	_	_
+3	для	ДЛЯ	ADP	_	_	4	case	_	_
+4	вас	ВЫ	PRON	_	_	5	iobj	_	_
+5	значит	ЗНАЧИТЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	название	НАЗВАНИЕ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+7	картины	КАРТИНА	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	-	-	PUNCT	-	_	10	punct	_	_
+9	"	"	PUNCT	"	_	10	punct	_	_
+10	Социальная	СОЦИАЛЬНЫЙ	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	сеть	СЕТЬ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	parataxis	_	_
+12	"	"	PUNCT	"	_	11	punct	_	_
+13	?	?	PUNCT	?	_	5	punct	_	_
 
 ~~~
 

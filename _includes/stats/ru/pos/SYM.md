@@ -65,7 +65,7 @@ The 10 most frequent `SYM` lemmas: <em>ПРОЦЕНТ-ЗНАК, ДОЛЛАР-З�
 
 The 10 most frequent `SYM` types:  <em>%, $, №, °, +, €, =, №№</em>
 
-The 10 most frequent ambiguous lemmas: <em>НОМЕР-ЗНАК</em> ([SYM]() 60, [NOUN]() 1), <em>ПЛЮС</em> ([ADP]() 31, [NOUN]() 21, [SYM]() 5, [ADV]() 5, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>НОМЕР-ЗНАК</em> ([SYM]() 60, [NOUN]() 1), <em>ПЛЮС</em> ([ADP]() 31, [NOUN]() 21, [ADV]() 5, [SYM]() 5, [PART]() 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -73,7 +73,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.142857 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `SYM` is 1.142857 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (2) was observed with the lemma “НОМЕР-ЗНАК”: <em>№, №№</em>.
 
@@ -86,21 +86,21 @@ The 3rd highest number of forms (1) was observed with the lemma “ДОЛЛАР-
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 15 different relations: [ru-dep/dobj]() (257; 30% instances), [ru-dep/nmod]() (216; 25% instances), [ru-dep/nsubj]() (120; 14% instances), [ru-dep/dep]() (67; 8% instances), [ru-dep/parataxis]() (65; 8% instances), [ru-dep/iobj]() (48; 6% instances), [ru-dep/nummod:entity]() (34; 4% instances), [ru-dep/root]() (16; 2% instances), [ru-dep/nsubjpass]() (13; 2% instances), [ru-dep/appos]() (5; 1% instances), [ru-dep/case]() (5; 1% instances), [ru-dep/advcl]() (2; 0% instances), [ru-dep/advmod]() (1; 0% instances), [ru-dep/mwe]() (1; 0% instances), [ru-dep/nmod:agent]() (1; 0% instances)
+`SYM` nodes are attached to their parents using 15 different relations: [ru-dep/dobj]() (257; 30% instances), [ru-dep/nmod]() (239; 28% instances), [ru-dep/nsubj]() (120; 14% instances), [ru-dep/parataxis]() (65; 8% instances), [ru-dep/conj]() (55; 6% instances), [ru-dep/iobj]() (37; 4% instances), [ru-dep/nummod:entity]() (34; 4% instances), [ru-dep/root]() (16; 2% instances), [ru-dep/nsubjpass]() (13; 2% instances), [ru-dep/appos]() (5; 1% instances), [ru-dep/case]() (5; 1% instances), [ru-dep/advcl]() (2; 0% instances), [ru-dep/advmod]() (1; 0% instances), [ru-dep/mwe]() (1; 0% instances), [ru-dep/nmod:agent]() (1; 0% instances)
 
-Parents of `SYM` nodes belong to 8 different parts of speech: [VERB]() (450; 53% instances), [NOUN]() (238; 28% instances), [ADV]() (51; 6% instances), [ADJ]() (30; 4% instances), [CONJ]() (25; 3% instances), [SYM]() (24; 3% instances), [NUM]() (17; 2% instances), [ROOT]() (16; 2% instances)
+Parents of `SYM` nodes belong to 8 different parts of speech: [VERB]() (453; 53% instances), [NOUN]() (251; 29% instances), [ADV]() (51; 6% instances), [SYM]() (37; 4% instances), [ADJ]() (30; 4% instances), [ROOT]() (16; 2% instances), [NUM]() (12; 1% instances), [CONJ]() (1; 0% instances)
 
 15 (2%) `SYM` nodes are leaves.
 
-145 (17%) `SYM` nodes have one child.
+150 (18%) `SYM` nodes have one child.
 
-413 (49%) `SYM` nodes have two children.
+410 (48%) `SYM` nodes have two children.
 
-278 (33%) `SYM` nodes have three or more children.
+276 (32%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 8.
 
-Children of `SYM` nodes are attached using 18 different relations: [ru-dep/nummod]() (689; 36% instances), [ru-dep/nmod]() (368; 19% instances), [ru-dep/case]() (329; 17% instances), [ru-dep/punct]() (153; 8% instances), [ru-dep/nummod:gov]() (76; 4% instances), [ru-dep/advmod]() (73; 4% instances), [ru-dep/dep]() (65; 3% instances), [ru-dep/nummod:entity]() (57; 3% instances), [ru-dep/parataxis]() (30; 2% instances), [ru-dep/nsubj]() (26; 1% instances), [ru-dep/amod]() (20; 1% instances), [ru-dep/cop]() (6; 0% instances), [ru-dep/appos]() (5; 0% instances), [ru-dep/cc]() (5; 0% instances), [ru-dep/dobj]() (4; 0% instances), [ru-dep/acl:relcl]() (3; 0% instances), [ru-dep/mark]() (2; 0% instances), [ru-dep/neg]() (2; 0% instances)
+Children of `SYM` nodes are attached using 19 different relations: [ru-dep/nummod]() (689; 36% instances), [ru-dep/nmod]() (373; 19% instances), [ru-dep/case]() (329; 17% instances), [ru-dep/punct]() (153; 8% instances), [ru-dep/nummod:gov]() (76; 4% instances), [ru-dep/advmod]() (73; 4% instances), [ru-dep/nummod:entity]() (57; 3% instances), [ru-dep/conj]() (55; 3% instances), [ru-dep/cc]() (32; 2% instances), [ru-dep/parataxis]() (30; 2% instances), [ru-dep/nsubj]() (24; 1% instances), [ru-dep/amod]() (18; 1% instances), [ru-dep/cop]() (6; 0% instances), [ru-dep/appos]() (5; 0% instances), [ru-dep/det]() (4; 0% instances), [ru-dep/dobj]() (4; 0% instances), [ru-dep/acl:relcl]() (3; 0% instances), [ru-dep/mark]() (2; 0% instances), [ru-dep/neg]() (2; 0% instances)
 
-Children of `SYM` nodes belong to 14 different parts of speech: [NUM]() (764; 40% instances), [NOUN]() (465; 24% instances), [ADP]() (329; 17% instances), [PUNCT]() (153; 8% instances), [ADV]() (53; 3% instances), [ADJ]() (36; 2% instances), [CONJ]() (29; 2% instances), [VERB]() (25; 1% instances), [SYM]() (24; 1% instances), [PART]() (17; 1% instances), [SCONJ]() (6; 0% instances), [AUX]() (5; 0% instances), [DET]() (4; 0% instances), [PRON]() (3; 0% instances)
+Children of `SYM` nodes belong to 14 different parts of speech: [NUM]() (763; 39% instances), [NOUN]() (467; 24% instances), [ADP]() (329; 17% instances), [PUNCT]() (153; 8% instances), [ADV]() (57; 3% instances), [ADJ]() (38; 2% instances), [SYM]() (37; 2% instances), [CONJ]() (31; 2% instances), [VERB]() (25; 1% instances), [PART]() (17; 1% instances), [SCONJ]() (6; 0% instances), [AUX]() (5; 0% instances), [DET]() (4; 0% instances), [PRON]() (3; 0% instances)
 

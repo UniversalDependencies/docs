@@ -83,12 +83,12 @@ The following 87 pairs of parts of speech are connected with `nmod`: [ru-pos/NOU
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: [nmod:agent]().
 
-104802 nodes (10%) are attached to their parents as `nmod`.
+117253 nodes (11%) are attached to their parents as `nmod`.
 
-79192 instances of `nmod` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.69683784660598.
+91406 instances of `nmod` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.7198536498.
 
-The following 67 pairs of parts of speech are connected with `nmod`: [ru-pos/NOUN]()-[ru-pos/NOUN]() (51670; 49% instances), [ru-pos/VERB]()-[ru-pos/NOUN]() (36014; 34% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (3661; 3% instances), [ru-pos/NOUN]()-[ru-pos/DET]() (2839; 3% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (1849; 2% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (1631; 2% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (1359; 1% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (1106; 1% instances), [ru-pos/NUM]()-[ru-pos/NOUN]() (806; 1% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (494; 0% instances), [ru-pos/ADJ]()-[ru-pos/PRON]() (450; 0% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (432; 0% instances), [ru-pos/NOUN]()-[ru-pos/ADV]() (410; 0% instances), [ru-pos/SYM]()-[ru-pos/NOUN]() (334; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (255; 0% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (219; 0% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (182; 0% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (160; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADV]() (137; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (85; 0% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (78; 0% instances), [ru-pos/ADV]()-[ru-pos/PRON]() (68; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (65; 0% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (62; 0% instances), [ru-pos/VERB]()-[ru-pos/SCONJ]() (53; 0% instances), [ru-pos/ADV]()-[ru-pos/SYM]() (43; 0% instances), [ru-pos/PRON]()-[ru-pos/PRON]() (37; 0% instances), [ru-pos/PRON]()-[ru-pos/ADJ]() (32; 0% instances), [ru-pos/NUM]()-[ru-pos/ADJ]() (28; 0% instances), [ru-pos/CONJ]()-[ru-pos/NOUN]() (26; 0% instances), [ru-pos/NUM]()-[ru-pos/NUM]() (23; 0% instances), [ru-pos/NUM]()-[ru-pos/PRON]() (21; 0% instances), [ru-pos/SYM]()-[ru-pos/ADJ]() (21; 0% instances), [ru-pos/ADJ]()-[ru-pos/NUM]() (16; 0% instances), [ru-pos/ADJ]()-[ru-pos/VERB]() (13; 0% instances), [ru-pos/ADV]()-[ru-pos/ADV]() (11; 0% instances), [ru-pos/DET]()-[ru-pos/PRON]() (11; 0% instances), [ru-pos/ADJ]()-[ru-pos/SCONJ]() (9; 0% instances), [ru-pos/NOUN]()-[ru-pos/SCONJ]() (9; 0% instances), [ru-pos/SYM]()-[ru-pos/VERB]() (8; 0% instances), [ru-pos/ADJ]()-[ru-pos/SYM]() (7; 0% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (7; 0% instances), [ru-pos/PRON]()-[ru-pos/ADV]() (7; 0% instances), [ru-pos/DET]()-[ru-pos/NOUN]() (6; 0% instances), [ru-pos/NOUN]()-[ru-pos/CONJ]() (5; 0% instances), [ru-pos/PART]()-[ru-pos/PART]() (4; 0% instances), [ru-pos/PRON]()-[ru-pos/VERB]() (4; 0% instances), [ru-pos/SCONJ]()-[ru-pos/NOUN]() (4; 0% instances), [ru-pos/ADV]()-[ru-pos/NUM]() (3; 0% instances), [ru-pos/NUM]()-[ru-pos/VERB]() (3; 0% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (3; 0% instances), [ru-pos/SYM]()-[ru-pos/SYM]() (3; 0% instances), [ru-pos/VERB]()-[ru-pos/ADV]() (3; 0% instances), [ru-pos/DET]()-[ru-pos/ADJ]() (2; 0% instances), [ru-pos/DET]()-[ru-pos/ADV]() (2; 0% instances), [ru-pos/ADV]()-[ru-pos/CONJ]() (1; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/NOUN]()-[ru-pos/INTJ]() (1; 0% instances), [ru-pos/NUM]()-[ru-pos/ADV]() (1; 0% instances), [ru-pos/PART]()-[ru-pos/PRON]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/SCONJ]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/PRON]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/NUM]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/PRON]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/CONJ]() (1; 0% instances), [ru-pos/VERB]()-[ru-pos/PART]() (1; 0% instances).
+The following 61 pairs of parts of speech are connected with `nmod`: [ru-pos/NOUN]()-[ru-pos/NOUN]() (53910; 46% instances), [ru-pos/VERB]()-[ru-pos/NOUN]() (46029; 39% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (3929; 3% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (3922; 3% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (1711; 1% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (1392; 1% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (1144; 1% instances), [ru-pos/NUM]()-[ru-pos/NOUN]() (895; 1% instances), [ru-pos/ADJ]()-[ru-pos/PRON]() (678; 1% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (550; 0% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (495; 0% instances), [ru-pos/NOUN]()-[ru-pos/ADV]() (410; 0% instances), [ru-pos/SYM]()-[ru-pos/NOUN]() (334; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (279; 0% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (221; 0% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (182; 0% instances), [ru-pos/ADV]()-[ru-pos/PRON]() (169; 0% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (164; 0% instances), [ru-pos/ADJ]()-[ru-pos/ADV]() (139; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (87; 0% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (87; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (75; 0% instances), [ru-pos/VERB]()-[ru-pos/VERB]() (64; 0% instances), [ru-pos/ADV]()-[ru-pos/SYM]() (43; 0% instances), [ru-pos/PRON]()-[ru-pos/PRON]() (40; 0% instances), [ru-pos/PRON]()-[ru-pos/ADJ]() (32; 0% instances), [ru-pos/NUM]()-[ru-pos/ADJ]() (29; 0% instances), [ru-pos/CONJ]()-[ru-pos/NOUN]() (26; 0% instances), [ru-pos/NUM]()-[ru-pos/PRON]() (26; 0% instances), [ru-pos/NUM]()-[ru-pos/NUM]() (23; 0% instances), [ru-pos/SYM]()-[ru-pos/ADJ]() (21; 0% instances), [ru-pos/ADJ]()-[ru-pos/NUM]() (16; 0% instances), [ru-pos/ADJ]()-[ru-pos/VERB]() (13; 0% instances), [ru-pos/ADV]()-[ru-pos/ADV]() (11; 0% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (8; 0% instances), [ru-pos/SYM]()-[ru-pos/SYM]() (8; 0% instances), [ru-pos/SYM]()-[ru-pos/VERB]() (8; 0% instances), [ru-pos/ADJ]()-[ru-pos/SYM]() (7; 0% instances), [ru-pos/NUM]()-[ru-pos/SYM]() (7; 0% instances), [ru-pos/PRON]()-[ru-pos/ADV]() (7; 0% instances), [ru-pos/SCONJ]()-[ru-pos/NOUN]() (7; 0% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (6; 0% instances), [ru-pos/PART]()-[ru-pos/PRON]() (6; 0% instances), [ru-pos/VERB]()-[ru-pos/ADV]() (6; 0% instances), [ru-pos/NOUN]()-[ru-pos/SCONJ]() (4; 0% instances), [ru-pos/PART]()-[ru-pos/PART]() (4; 0% instances), [ru-pos/PRON]()-[ru-pos/VERB]() (4; 0% instances), [ru-pos/VERB]()-[ru-pos/SCONJ]() (4; 0% instances), [ru-pos/ADV]()-[ru-pos/NUM]() (3; 0% instances), [ru-pos/NUM]()-[ru-pos/VERB]() (3; 0% instances), [ru-pos/VERB]()-[ru-pos/PART]() (3; 0% instances), [ru-pos/ADJ]()-[ru-pos/SCONJ]() (2; 0% instances), [ru-pos/NOUN]()-[ru-pos/CONJ]() (2; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/NOUN]()-[ru-pos/INTJ]() (1; 0% instances), [ru-pos/NUM]()-[ru-pos/ADV]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/SCONJ]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/PRON]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/NUM]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -130,24 +130,20 @@ The following 67 pairs of parts of speech are connected with `nmod`: [ru-pos/NOU
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nmod	color:blue
-1	Слово	СЛОВО	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
-2	"	"	PUNCT	"	_	3	punct	_	_
-3	алгоритм	АЛГОРИТМ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	dobj	_	_
-4	"	"	PUNCT	"	_	3	punct	_	_
-5	в	В	ADP	_	_	7	case	_	_
-6	наши	НАШ	DET	_	Case=Acc|Number=Plur	7	amod	_	_
-7	дни	ДЕНЬ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	nmod	_	_
-8	известно	ИЗВЕСТНЫЙ	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Brev	0	root	_	_
-9	,	,	PUNCT	,	_	8	punct	_	_
-10	вероятно	ВЕРОЯТНО	ADV	_	Degree=Pos	8	parataxis	_	_
-11	,	,	PUNCT	,	_	10	punct	_	_
-12	каждому	КАЖДЫЙ	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	dobj	_	_
-13	.	.	PUNCT	.	_	8	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 nmod	color:blue
+1	Поэтому	ПОЭТОМУ	ADV	_	Degree=Pos	6	advmod	_	_
+2	для	ДЛЯ	ADP	_	_	3	case	_	_
+3	них	ОНИ	PRON	_	_	6	nmod	_	_
+4	такая	ТАКОЙ	DET	_	Case=Nom|Gender=Fem|Number=Sing	5	det	_	_
+5	версия	ВЕРСИЯ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	выглядела	ВЫГЛЯДЕТЬ	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	вполне	ВПОЛНЕ	ADV	_	Degree=Pos	8	advmod	_	_
+8	реальной	РЕАЛЬНЫЙ	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	dobj	_	_
+9	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

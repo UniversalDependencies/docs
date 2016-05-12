@@ -82,7 +82,7 @@ This relation is universal.
 95386 instances of `case` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.46973249047599.
 
-The following 10 pairs of parts of speech are connected with `case`: [ru-pos/NOUN]()-[ru-pos/ADP]() (86175; 90% instances), [ru-pos/PRON]()-[ru-pos/ADP]() (5319; 6% instances), [ru-pos/ADJ]()-[ru-pos/ADP]() (3082; 3% instances), [ru-pos/NUM]()-[ru-pos/ADP]() (563; 1% instances), [ru-pos/SYM]()-[ru-pos/ADP]() (329; 0% instances), [ru-pos/ADV]()-[ru-pos/ADP]() (39; 0% instances), [ru-pos/DET]()-[ru-pos/ADP]() (30; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADP]() (6; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (4; 0% instances), [ru-pos/NUM]()-[ru-pos/SYM]() (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: [ru-pos/NOUN]()-[ru-pos/ADP]() (86175; 90% instances), [ru-pos/PRON]()-[ru-pos/ADP]() (5319; 6% instances), [ru-pos/ADJ]()-[ru-pos/ADP]() (3112; 3% instances), [ru-pos/NUM]()-[ru-pos/ADP]() (563; 1% instances), [ru-pos/SYM]()-[ru-pos/ADP]() (329; 0% instances), [ru-pos/ADV]()-[ru-pos/ADP]() (39; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADP]() (6; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (4; 0% instances), [ru-pos/NUM]()-[ru-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu

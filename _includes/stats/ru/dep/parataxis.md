@@ -78,34 +78,34 @@ The following 39 pairs of parts of speech are connected with `parataxis`: [ru-po
 
 This relation is universal.
 
-21334 nodes (2%) are attached to their parents as `parataxis`.
+21201 nodes (2%) are attached to their parents as `parataxis`.
 
-11860 instances of `parataxis` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.80903721758695.
+11866 instances of `parataxis` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.7990660817886.
 
-The following 89 pairs of parts of speech are connected with `parataxis`: [ru-pos/VERB]()-[ru-pos/VERB]() (3350; 16% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (3271; 15% instances), [ru-pos/VERB]()-[ru-pos/ADV]() (2959; 14% instances), [ru-pos/VERB]()-[ru-pos/NOUN]() (2203; 10% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (2026; 9% instances), [ru-pos/NOUN]()-[ru-pos/ADV]() (1049; 5% instances), [ru-pos/ADJ]()-[ru-pos/VERB]() (761; 4% instances), [ru-pos/VERB]()-[ru-pos/SCONJ]() (725; 3% instances), [ru-pos/ADJ]()-[ru-pos/ADV]() (665; 3% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (644; 3% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (520; 2% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (413; 2% instances), [ru-pos/ADV]()-[ru-pos/ADV]() (286; 1% instances), [ru-pos/ADV]()-[ru-pos/VERB]() (275; 1% instances), [ru-pos/VERB]()-[ru-pos/PART]() (254; 1% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (210; 1% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (157; 1% instances), [ru-pos/ADJ]()-[ru-pos/SCONJ]() (134; 1% instances), [ru-pos/NOUN]()-[ru-pos/SCONJ]() (134; 1% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (132; 1% instances), [ru-pos/NOUN]()-[ru-pos/CONJ]() (130; 1% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (98; 0% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (84; 0% instances), [ru-pos/VERB]()-[ru-pos/CONJ]() (83; 0% instances), [ru-pos/PRON]()-[ru-pos/VERB]() (55; 0% instances), [ru-pos/ADJ]()-[ru-pos/PART]() (50; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (43; 0% instances), [ru-pos/ADJ]()-[ru-pos/CONJ]() (42; 0% instances), [ru-pos/ADV]()-[ru-pos/PART]() (41; 0% instances), [ru-pos/ADV]()-[ru-pos/SCONJ]() (41; 0% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (40; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (37; 0% instances), [ru-pos/NUM]()-[ru-pos/NOUN]() (34; 0% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (28; 0% instances), [ru-pos/PART]()-[ru-pos/VERB]() (27; 0% instances), [ru-pos/PRON]()-[ru-pos/ADV]() (26; 0% instances), [ru-pos/PRON]()-[ru-pos/PART]() (21; 0% instances), [ru-pos/PART]()-[ru-pos/ADV]() (18; 0% instances), [ru-pos/VERB]()-[ru-pos/INTJ]() (17; 0% instances), [ru-pos/NOUN]()-[ru-pos/INTJ]() (16; 0% instances), [ru-pos/NUM]()-[ru-pos/VERB]() (14; 0% instances), [ru-pos/ADV]()-[ru-pos/CONJ]() (13; 0% instances), [ru-pos/ADV]()-[ru-pos/NUM]() (13; 0% instances), [ru-pos/CONJ]()-[ru-pos/PART]() (11; 0% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (10; 0% instances), [ru-pos/ADJ]()-[ru-pos/SYM]() (9; 0% instances), [ru-pos/ADV]()-[ru-pos/PRON]() (9; 0% instances), [ru-pos/SYM]()-[ru-pos/NOUN]() (9; 0% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (9; 0% instances), [ru-pos/ADJ]()-[ru-pos/NUM]() (8; 0% instances), [ru-pos/ADJ]()-[ru-pos/PRON]() (8; 0% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (8; 0% instances), [ru-pos/SYM]()-[ru-pos/VERB]() (8; 0% instances), [ru-pos/PART]()-[ru-pos/PART]() (7; 0% instances), [ru-pos/PRON]()-[ru-pos/ADJ]() (7; 0% instances), [ru-pos/PRON]()-[ru-pos/PRON]() (7; 0% instances), [ru-pos/NUM]()-[ru-pos/ADV]() (6; 0% instances), [ru-pos/ADV]()-[ru-pos/INTJ]() (5; 0% instances), [ru-pos/CONJ]()-[ru-pos/VERB]() (5; 0% instances), [ru-pos/PART]()-[ru-pos/INTJ]() (5; 0% instances), [ru-pos/SCONJ]()-[ru-pos/ADV]() (5; 0% instances), [ru-pos/SYM]()-[ru-pos/ADJ]() (5; 0% instances), [ru-pos/ADJ]()-[ru-pos/INTJ]() (4; 0% instances), [ru-pos/NUM]()-[ru-pos/ADJ]() (4; 0% instances), [ru-pos/PRON]()-[ru-pos/CONJ]() (4; 0% instances), [ru-pos/ADV]()-[ru-pos/SYM]() (3; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADV]() (3; 0% instances), [ru-pos/DET]()-[ru-pos/NOUN]() (3; 0% instances), [ru-pos/NUM]()-[ru-pos/SCONJ]() (3; 0% instances), [ru-pos/PRON]()-[ru-pos/INTJ]() (3; 0% instances), [ru-pos/SYM]()-[ru-pos/ADV]() (3; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADJ]() (2; 0% instances), [ru-pos/CONJ]()-[ru-pos/NOUN]() (2; 0% instances), [ru-pos/DET]()-[ru-pos/VERB]() (2; 0% instances), [ru-pos/NUM]()-[ru-pos/PART]() (2; 0% instances), [ru-pos/PART]()-[ru-pos/ADJ]() (2; 0% instances), [ru-pos/SYM]()-[ru-pos/CONJ]() (2; 0% instances), [ru-pos/DET]()-[ru-pos/ADJ]() (1; 0% instances), [ru-pos/DET]()-[ru-pos/CONJ]() (1; 0% instances), [ru-pos/INTJ]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/INTJ]()-[ru-pos/VERB]() (1; 0% instances), [ru-pos/PART]()-[ru-pos/SCONJ]() (1; 0% instances), [ru-pos/PRON]()-[ru-pos/SCONJ]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/PART]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/VERB]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/NUM]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/SCONJ]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/SYM]() (1; 0% instances).
+The following 83 pairs of parts of speech are connected with `parataxis`: [ru-pos/VERB]()-[ru-pos/VERB]() (3823; 18% instances), [ru-pos/NOUN]()-[ru-pos/NOUN]() (3269; 15% instances), [ru-pos/VERB]()-[ru-pos/ADV]() (2950; 14% instances), [ru-pos/VERB]()-[ru-pos/NOUN]() (2204; 10% instances), [ru-pos/NOUN]()-[ru-pos/VERB]() (2109; 10% instances), [ru-pos/NOUN]()-[ru-pos/ADV]() (1048; 5% instances), [ru-pos/ADJ]()-[ru-pos/VERB]() (835; 4% instances), [ru-pos/ADJ]()-[ru-pos/ADV]() (664; 3% instances), [ru-pos/ADJ]()-[ru-pos/NOUN]() (648; 3% instances), [ru-pos/NOUN]()-[ru-pos/ADJ]() (520; 2% instances), [ru-pos/VERB]()-[ru-pos/ADJ]() (413; 2% instances), [ru-pos/ADV]()-[ru-pos/VERB]() (301; 1% instances), [ru-pos/ADV]()-[ru-pos/ADV]() (287; 1% instances), [ru-pos/VERB]()-[ru-pos/PART]() (254; 1% instances), [ru-pos/ADV]()-[ru-pos/NOUN]() (209; 1% instances), [ru-pos/VERB]()-[ru-pos/SCONJ]() (174; 1% instances), [ru-pos/ADJ]()-[ru-pos/ADJ]() (159; 1% instances), [ru-pos/NOUN]()-[ru-pos/NUM]() (133; 1% instances), [ru-pos/NOUN]()-[ru-pos/CONJ]() (122; 1% instances), [ru-pos/PRON]()-[ru-pos/NOUN]() (98; 0% instances), [ru-pos/NOUN]()-[ru-pos/PART]() (84; 0% instances), [ru-pos/VERB]()-[ru-pos/CONJ]() (65; 0% instances), [ru-pos/PRON]()-[ru-pos/VERB]() (56; 0% instances), [ru-pos/NOUN]()-[ru-pos/SCONJ]() (55; 0% instances), [ru-pos/ADJ]()-[ru-pos/PART]() (50; 0% instances), [ru-pos/ADJ]()-[ru-pos/SCONJ]() (45; 0% instances), [ru-pos/NOUN]()-[ru-pos/SYM]() (43; 0% instances), [ru-pos/ADV]()-[ru-pos/PART]() (40; 0% instances), [ru-pos/VERB]()-[ru-pos/PRON]() (40; 0% instances), [ru-pos/ADV]()-[ru-pos/ADJ]() (37; 0% instances), [ru-pos/NUM]()-[ru-pos/NOUN]() (34; 0% instances), [ru-pos/ADJ]()-[ru-pos/CONJ]() (33; 0% instances), [ru-pos/NOUN]()-[ru-pos/PRON]() (28; 0% instances), [ru-pos/PART]()-[ru-pos/VERB]() (28; 0% instances), [ru-pos/PRON]()-[ru-pos/ADV]() (26; 0% instances), [ru-pos/PRON]()-[ru-pos/PART]() (21; 0% instances), [ru-pos/PART]()-[ru-pos/ADV]() (18; 0% instances), [ru-pos/NOUN]()-[ru-pos/INTJ]() (17; 0% instances), [ru-pos/VERB]()-[ru-pos/INTJ]() (17; 0% instances), [ru-pos/NUM]()-[ru-pos/VERB]() (15; 0% instances), [ru-pos/ADV]()-[ru-pos/NUM]() (13; 0% instances), [ru-pos/CONJ]()-[ru-pos/PART]() (12; 0% instances), [ru-pos/ADV]()-[ru-pos/CONJ]() (11; 0% instances), [ru-pos/SCONJ]()-[ru-pos/ADV]() (10; 0% instances), [ru-pos/VERB]()-[ru-pos/NUM]() (10; 0% instances), [ru-pos/ADJ]()-[ru-pos/SYM]() (9; 0% instances), [ru-pos/ADV]()-[ru-pos/PRON]() (9; 0% instances), [ru-pos/SYM]()-[ru-pos/NOUN]() (9; 0% instances), [ru-pos/VERB]()-[ru-pos/SYM]() (9; 0% instances), [ru-pos/ADJ]()-[ru-pos/NUM]() (8; 0% instances), [ru-pos/PART]()-[ru-pos/NOUN]() (8; 0% instances), [ru-pos/SYM]()-[ru-pos/VERB]() (8; 0% instances), [ru-pos/ADJ]()-[ru-pos/PRON]() (7; 0% instances), [ru-pos/ADV]()-[ru-pos/SCONJ]() (7; 0% instances), [ru-pos/CONJ]()-[ru-pos/VERB]() (7; 0% instances), [ru-pos/PART]()-[ru-pos/PART]() (7; 0% instances), [ru-pos/PRON]()-[ru-pos/ADJ]() (7; 0% instances), [ru-pos/PRON]()-[ru-pos/PRON]() (7; 0% instances), [ru-pos/NUM]()-[ru-pos/ADV]() (6; 0% instances), [ru-pos/SCONJ]()-[ru-pos/VERB]() (6; 0% instances), [ru-pos/ADV]()-[ru-pos/INTJ]() (5; 0% instances), [ru-pos/PART]()-[ru-pos/INTJ]() (5; 0% instances), [ru-pos/SYM]()-[ru-pos/ADJ]() (5; 0% instances), [ru-pos/ADJ]()-[ru-pos/INTJ]() (4; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADV]() (4; 0% instances), [ru-pos/NUM]()-[ru-pos/ADJ]() (4; 0% instances), [ru-pos/PRON]()-[ru-pos/CONJ]() (4; 0% instances), [ru-pos/ADV]()-[ru-pos/SYM]() (3; 0% instances), [ru-pos/CONJ]()-[ru-pos/NOUN]() (3; 0% instances), [ru-pos/PRON]()-[ru-pos/INTJ]() (3; 0% instances), [ru-pos/SYM]()-[ru-pos/ADV]() (3; 0% instances), [ru-pos/CONJ]()-[ru-pos/ADJ]() (2; 0% instances), [ru-pos/NUM]()-[ru-pos/PART]() (2; 0% instances), [ru-pos/PART]()-[ru-pos/ADJ]() (2; 0% instances), [ru-pos/SYM]()-[ru-pos/CONJ]() (2; 0% instances), [ru-pos/INTJ]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/INTJ]()-[ru-pos/VERB]() (1; 0% instances), [ru-pos/NUM]()-[ru-pos/SCONJ]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/NOUN]() (1; 0% instances), [ru-pos/SCONJ]()-[ru-pos/PART]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/NUM]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/SCONJ]() (1; 0% instances), [ru-pos/SYM]()-[ru-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 4 parataxis	color:blue
-1	Причину	ПРИЧИНА	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	dobj	_	_
-2	он	ОН	PRON	_	_	7	nsubj	_	_
-3	,	,	PUNCT	,	_	2	punct	_	_
-4	может	МОЧЬ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 parataxis	color:blue
+1	Ее	ЕЕ	DET	_	_	2	det	_	_
+2	уход	УХОД	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+3	под	ПОД	ADP	_	_	4	case	_	_
+4	воду	ВОДА	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
 5	,	,	PUNCT	,	_	4	punct	_	_
-6	и	И	PART	_	_	7	advmod	_	_
-7	чувствовал	ЧУВСТВОВАТЬ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-8	,	,	PUNCT	,	_	7	punct	_	_
-9	но	НО	CONJ	_	_	7	dep	_	_
-10	думать	ДУМАТЬ	VERB	_	Aspect=Imp|VerbForm=Inf	13	xcomp	_	_
-11	о	О	ADP	_	_	12	case	_	_
-12	ней	ОНА	PRON	_	_	10	nmod	_	_
-13	боялся	БОЯТЬСЯ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	dep	_	_
-14	.	.	PUNCT	.	_	7	punct	_	_
+6	как	КАК	SCONJ	_	_	7	mark	_	_
+7	полагал	ПОЛАГАТЬ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	_
+8	Жиров	ЖИРОВ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+9	,	,	PUNCT	,	_	8	punct	_	_
+10	происходил	ПРОИСХОДИТЬ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	в	В	ADP	_	_	13	case	_	_
+12	два	ДВА	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	13	nummod	_	_
+13	этапа	ЭТАП	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+14	.	.	PUNCT	.	_	10	punct	_	_
 
 ~~~
 
@@ -121,8 +121,8 @@ The following 89 pairs of parts of speech are connected with `parataxis`: [ru-po
 3	памятные	ПАМЯТНЫЙ	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
 4	даты	ДАТА	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	parataxis	_	_
 5	мирового	МИРОВОЙ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
-6	и	И	CONJ	_	_	5	dep	_	_
-7	российского	РОССИЙСКИЙ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	dep	_	_
+6	и	И	CONJ	_	_	5	cc	_	_
+7	российского	РОССИЙСКИЙ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	_
 8	альпинизма	АЛЬПИНИЗМ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 9	.	.	PUNCT	.	_	1	punct	_	_
 

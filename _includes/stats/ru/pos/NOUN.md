@@ -96,62 +96,62 @@ The 10 most frequent `NOUN` lemmas: <em>ЭТО, ГОД, ТО, ЧЕЛОВЕК, Р
 
 The 10 most frequent `NOUN` types:  <em>это, года, России, лет, все, время, того, году, том, этом</em>
 
-The 10 most frequent ambiguous lemmas: <em>ЭТО</em> ([NOUN]() 5742, [PART]() 54), <em>ТО</em> ([NOUN]() 3241, [CONJ]() 1102, [PART]() 222), <em>ВСЕ</em> ([NOUN]() 1676, [PART]() 358), <em>РАЗ</em> ([NOUN]() 680, [CONJ]() 37, [ADV]() 4), <em>УЧЕНЫЙ</em> ([NOUN]() 574, [ADJ]() 24), <em>ТОТ</em> ([DET]() 1885, [NOUN]() 529, [ADJ]() 269), <em>ПРАВО</em> ([NOUN]() 459, [ADV]() 4), <em>ЧТО-ТО</em> ([NOUN]() 321, [ADV]() 10), <em>ПРАВДА</em> ([ADV]() 182, [NOUN]() 116), <em>ГЛАВНОЕ</em> ([NOUN]() 104, [ADV]() 38)
+The 10 most frequent ambiguous lemmas: <em>ЭТО</em> ([NOUN]() 5742, [PART]() 54), <em>ТО</em> ([NOUN]() 3241, [CONJ]() 1102, [PART]() 222), <em>ВСЕ</em> ([NOUN]() 1676, [PART]() 358), <em>РАЗ</em> ([NOUN]() 680, [CONJ]() 37, [ADV]() 4), <em>УЧЕНЫЙ</em> ([NOUN]() 574, [ADJ]() 24), <em>ТОТ</em> ([DET]() 1462, [ADJ]() 692, [NOUN]() 529), <em>ПРАВО</em> ([NOUN]() 459, [ADV]() 4), <em>ЧТО-ТО</em> ([NOUN]() 321, [ADV]() 10), <em>ПРАВДА</em> ([ADV]() 182, [NOUN]() 116), <em>ГЛАВНОЕ</em> ([NOUN]() 104, [ADV]() 38)
 
-The 10 most frequent ambiguous types:  <em>это</em> ([NOUN]() 3180, [DET]() 353, [PART]() 38, [ADJ]() 26), <em>все</em> ([DET]() 958, [NOUN]() 850, [PART]() 333, [ADJ]() 159), <em>того</em> ([NOUN]() 931, [DET]() 132, [ADJ]() 18), <em>том</em> ([NOUN]() 872, [DET]() 362, [ADJ]() 8), <em>этом</em> ([NOUN]() 761, [DET]() 463, [ADJ]() 9), <em>то</em> ([CONJ]() 1087, [NOUN]() 602, [PART]() 222, [DET]() 216, [ADJ]() 14), <em>тем</em> ([NOUN]() 567, [DET]() 99, [CONJ]() 87, [ADJ]() 11), <em>раз</em> ([NOUN]() 521, [CONJ]() 27, [ADV]() 4), <em>этого</em> ([NOUN]() 511, [DET]() 469, [ADJ]() 10), <em>всего</em> ([NOUN]() 296, [PART]() 151, [DET]() 102, [ADV]() 46, [ADJ]() 12)
+The 10 most frequent ambiguous types:  <em>это</em> ([NOUN]() 3180, [DET]() 350, [PART]() 38, [ADJ]() 29), <em>все</em> ([DET]() 904, [NOUN]() 850, [PART]() 333, [ADJ]() 213), <em>того</em> ([NOUN]() 931, [DET]() 105, [ADJ]() 45), <em>том</em> ([NOUN]() 872, [DET]() 320, [ADJ]() 50), <em>этом</em> ([NOUN]() 761, [DET]() 461, [ADJ]() 11), <em>то</em> ([CONJ]() 1087, [NOUN]() 602, [PART]() 222, [DET]() 200, [ADJ]() 30), <em>тем</em> ([NOUN]() 567, [CONJ]() 87, [DET]() 65, [ADJ]() 45), <em>раз</em> ([NOUN]() 521, [CONJ]() 27, [ADV]() 4), <em>этого</em> ([NOUN]() 511, [DET]() 464, [ADJ]() 15), <em>всего</em> ([NOUN]() 296, [PART]() 151, [DET]() 101, [ADV]() 46, [ADJ]() 13)
 
 
 * <em>это</em>
   * [NOUN]() 3180: <em>Все <b>это</b> вместе взятое определило успех послевоенных высотных экспедиций .</em>
-  * [DET]() 353: <em>В России в <b>это</b> время частная торговля только зарождалась .</em>
+  * [DET]() 350: <em>В России в <b>это</b> время частная торговля только зарождалась .</em>
   * [PART]() 38: <em>Но <b>это</b> мы опять сильно забегаем .</em>
-  * [ADJ]() 26: <em>Все <b>это</b> нанесло огромный ущерб делу социализма .</em>
+  * [ADJ]() 29: <em>Все <b>это</b> нанесло огромный ущерб делу социализма .</em>
 * <em>все</em>
-  * [DET]() 958: <em>Почему я их не видел ни разу во <b>все</b> эти бурные годы ?</em>
+  * [DET]() 904: <em>Почему я их не видел ни разу во <b>все</b> эти бурные годы ?</em>
   * [NOUN]() 850: <em>Разумеется , в существование Атлантиды верят далеко не <b>все</b> .</em>
   * [PART]() 333: <em>Раскачивание же , для которого внешним толчком был город , <b>все</b> затухало .</em>
-  * [ADJ]() 159: <em>Четыре окна открывались на <b>все</b> четыре стороны света .</em>
+  * [ADJ]() 213: <em>Четыре окна открывались на <b>все</b> четыре стороны света .</em>
 * <em>того</em>
   * [NOUN]() 931: <em>Кроме <b>того</b> , сам Гибралтарский пролив был гораздо уже и длиннее .</em>
-  * [DET]() 132: <em>По финансовому состоянию <b>того</b> времени проект был нам явно не по силам .</em>
-  * [ADJ]() 18: <em>И <b>того</b> , и другого хотелось бы избежать .</em>
+  * [DET]() 105: <em>По финансовому состоянию <b>того</b> времени проект был нам явно не по силам .</em>
+  * [ADJ]() 45: <em>И <b>того</b> , и другого хотелось бы избежать .</em>
 * <em>том</em>
   * [NOUN]() 872: <em>Уж не говоря о <b>том</b> , что искусство само - действительность .</em>
-  * [DET]() 362: <em>В <b>том</b> же году 100 альпинистов Грузии совершили восхождение на Казбек .</em>
-  * [ADJ]() 8: <em>Мы будем в Москве почти в то же время , как_если_бы летели на <b>том</b> …</em>
+  * [DET]() 320: <em>В <b>том</b> же году 100 альпинистов Грузии совершили восхождение на Казбек .</em>
+  * [ADJ]() 50: <em>Мы будем в Москве почти в то же время , как_если_бы летели на <b>том</b> …</em>
 * <em>этом</em>
   * [NOUN]() 761: <em>Тогда об <b>этом</b> писали и наши газеты .</em>
-  * [DET]() 463: <em>Показательны в <b>этом</b> смысле восхождения на Ушбу .</em>
-  * [ADJ]() 9: <em>Но об <b>этом</b> важном " тоже " надо рассказывать отдельно .</em>
+  * [DET]() 461: <em>Показательны в <b>этом</b> смысле восхождения на Ушбу .</em>
+  * [ADJ]() 11: <em>Но об <b>этом</b> важном " тоже " надо рассказывать отдельно .</em>
 * <em>то</em>
   * [CONJ]() 1087: <em>- Почему же ! - не <b>то</b> нападая , не <b>то</b> защищаясь , сказал отец .</em>
   * [NOUN]() 602: <em>" Всё , всё , всё ! " - радостно говорил он , обозначая <b>то</b> , что видел .</em>
   * [PART]() 222: <em>Знать - <b>то</b> мы , конечно , знаем .</em>
-  * [DET]() 216: <em>В <b>то</b> же время 65 членов МОК высказались против включения альпинизма .</em>
-  * [ADJ]() 14: <em>Выполняли они одно и <b>то</b> же задание .</em>
+  * [DET]() 200: <em>В <b>то</b> же время 65 членов МОК высказались против включения альпинизма .</em>
+  * [ADJ]() 30: <em>Мы будем в Москве почти в <b>то</b> же время , как_если_бы летели на том …</em>
 * <em>тем</em>
   * [NOUN]() 567: <em>И уж , конечно , <b>тем</b> , кто не платит своих собственных долгов .</em>
-  * [DET]() 99: <em>В упряжке с <b>тем</b> же Рыжковым , к примеру .</em>
   * [CONJ]() 87: <em>Чем сложнее был маршрут , <b>тем</b> более спортивным считалось восхождение .</em>
-  * [ADJ]() 11: <em>А дистанция между <b>тем</b> и другим всего-то десятилетие .</em>
+  * [DET]() 65: <em>В упряжке с <b>тем</b> же Рыжковым , к примеру .</em>
+  * [ADJ]() 45: <em>А дистанция между <b>тем</b> и другим всего-то десятилетие .</em>
 * <em>раз</em>
   * [NOUN]() 521: <em>Подобное собрание проходило в России второй <b>раз</b> .</em>
   * [CONJ]() 27: <em>Но сейчас он хотел себе это позволить : <b>раз</b> оказались под рукой жетоны .</em>
   * [ADV]() 4: <em>Как-то <b>раз</b> договорилась о встрече с клиентом по_поводу консультации .</em>
 * <em>этого</em>
   * [NOUN]() 511: <em>Для <b>этого</b> есть внешний повод .</em>
-  * [DET]() 469: <em>Однако существующие термины не подходят для описания <b>этого</b> явления .</em>
-  * [ADJ]() 10: <em>Казалось бы , только за_счет <b>этого</b> наши ребята должны " выехать " .</em>
+  * [DET]() 464: <em>Однако существующие термины не подходят для описания <b>этого</b> явления .</em>
+  * [ADJ]() 15: <em>Казалось бы , только за_счет <b>этого</b> наши ребята должны " выехать " .</em>
 * <em>всего</em>
   * [NOUN]() 296: <em>Пряный огуречный запах больше <b>всего</b> запомнился : руки матери .</em>
   * [PART]() 151: <em>Дом - институт , институт - дом , только и <b>всего</b> перемещений .</em>
-  * [DET]() 102: <em>Это станет ясно из <b>всего</b> курса .</em>
+  * [DET]() 101: <em>Это станет ясно из <b>всего</b> курса .</em>
   * [ADV]() 46: <em>Ему <b>всего</b> 38 лет .</em>
-  * [ADJ]() 12: <em>Но почему <b>всего</b> ?</em>
+  * [ADJ]() 13: <em>Но почему <b>всего</b> ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.251629 (the average of all parts of speech is 2.787144).
+The form / lemma ratio of `NOUN` is 2.251629 (the average of all parts of speech is 2.787274).
 
 The 1st highest number of forms (15) was observed with the lemma “ТОННЕЛЬ”: <em>тоннеле, тоннелей, тоннели, тоннель, тоннелю, тоннеля, тоннелям, тоннелями, тоннелях, туннеле, туннелем, туннель, туннелю, туннеля, туннелями</em>.
 
@@ -170,21 +170,21 @@ Examples: <em>России, страны, жизни, экономики, вла
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 25 different relations: [ru-dep/nmod]() (94315; 31% instances), [ru-dep/dobj]() (76310; 25% instances), [ru-dep/nsubj]() (50576; 17% instances), [ru-dep/dep]() (23742; 8% instances), [ru-dep/iobj]() (15048; 5% instances), [ru-dep/root]() (7497; 3% instances), [ru-dep/appos]() (7409; 2% instances), [ru-dep/parataxis]() (6484; 2% instances), [ru-dep/nsubjpass]() (5752; 2% instances), [ru-dep/name]() (5111; 2% instances), [ru-dep/advmod]() (2310; 1% instances), [ru-dep/nmod:agent]() (1615; 1% instances), [ru-dep/nummod:gov]() (1004; 0% instances), [ru-dep/advcl]() (850; 0% instances), [ru-dep/cop]() (622; 0% instances), [ru-dep/mwe]() (385; 0% instances), [ru-dep/compound]() (241; 0% instances), [ru-dep/acl:relcl]() (138; 0% instances), [ru-dep/acl]() (111; 0% instances), [ru-dep/expl]() (32; 0% instances), [ru-dep/nummod:entity]() (16; 0% instances), [ru-dep/amod]() (14; 0% instances), [ru-dep/mark]() (10; 0% instances), [ru-dep/nummod]() (5; 0% instances), [ru-dep/auxpass]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 26 different relations: [ru-dep/nmod]() (107004; 36% instances), [ru-dep/dobj]() (76306; 25% instances), [ru-dep/nsubj]() (50575; 17% instances), [ru-dep/conj]() (23181; 8% instances), [ru-dep/root]() (7492; 3% instances), [ru-dep/appos]() (7409; 2% instances), [ru-dep/parataxis]() (6484; 2% instances), [ru-dep/nsubjpass]() (5752; 2% instances), [ru-dep/name]() (5111; 2% instances), [ru-dep/iobj]() (2647; 1% instances), [ru-dep/advmod]() (2315; 1% instances), [ru-dep/nmod:agent]() (1615; 1% instances), [ru-dep/nummod:gov]() (1004; 0% instances), [ru-dep/advcl]() (852; 0% instances), [ru-dep/cop]() (622; 0% instances), [ru-dep/mwe]() (397; 0% instances), [ru-dep/dep]() (260; 0% instances), [ru-dep/compound]() (241; 0% instances), [ru-dep/acl:relcl]() (138; 0% instances), [ru-dep/acl]() (111; 0% instances), [ru-dep/expl]() (32; 0% instances), [ru-dep/nummod:entity]() (16; 0% instances), [ru-dep/amod]() (14; 0% instances), [ru-dep/mark]() (14; 0% instances), [ru-dep/nummod]() (5; 0% instances), [ru-dep/auxpass]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 13 different parts of speech: [VERB]() (141370; 47% instances), [NOUN]() (116322; 39% instances), [CONJ]() (13663; 5% instances), [ADJ]() (12737; 4% instances), [ROOT]() (7497; 3% instances), [ADV]() (4900; 2% instances), [NUM]() (1003; 0% instances), [PRON]() (956; 0% instances), [SYM]() (465; 0% instances), [SCONJ]() (288; 0% instances), [PART]() (236; 0% instances), [DET]() (158; 0% instances), [INTJ]() (3; 0% instances)
+Parents of `NOUN` nodes belong to 12 different parts of speech: [VERB]() (141645; 47% instances), [NOUN]() (129007; 43% instances), [ADJ]() (13147; 4% instances), [ROOT]() (7492; 3% instances), [ADV]() (5047; 2% instances), [PRON]() (1084; 0% instances), [NUM]() (1024; 0% instances), [SYM]() (467; 0% instances), [SCONJ]() (299; 0% instances), [PART]() (251; 0% instances), [CONJ]() (131; 0% instances), [INTJ]() (4; 0% instances)
 
-54691 (18%) `NOUN` nodes are leaves.
+55580 (19%) `NOUN` nodes are leaves.
 
-104135 (35%) `NOUN` nodes have one child.
+103689 (35%) `NOUN` nodes have one child.
 
-87547 (29%) `NOUN` nodes have two children.
+83546 (28%) `NOUN` nodes have two children.
 
-53225 (18%) `NOUN` nodes have three or more children.
+56783 (19%) `NOUN` nodes have three or more children.
 
-The highest child degree of a `NOUN` node is 11.
+The highest child degree of a `NOUN` node is 20.
 
-Children of `NOUN` nodes are attached using 27 different relations: [ru-dep/amod]() (112726; 24% instances), [ru-dep/punct]() (86582; 19% instances), [ru-dep/case]() (86179; 19% instances), [ru-dep/nmod]() (56965; 12% instances), [ru-dep/dobj]() (31512; 7% instances), [ru-dep/dep]() (25132; 5% instances), [ru-dep/advmod]() (10086; 2% instances), [ru-dep/appos]() (7605; 2% instances), [ru-dep/parataxis]() (7433; 2% instances), [ru-dep/nummod]() (6856; 1% instances), [ru-dep/acl:relcl]() (6227; 1% instances), [ru-dep/nsubj]() (6186; 1% instances), [ru-dep/name]() (5127; 1% instances), [ru-dep/advcl]() (2766; 1% instances), [ru-dep/iobj]() (2664; 1% instances), [ru-dep/cc]() (2125; 0% instances), [ru-dep/cop]() (2117; 0% instances), [ru-dep/neg]() (1498; 0% instances), [ru-dep/compound]() (1254; 0% instances), [ru-dep/mark]() (960; 0% instances), [ru-dep/acl]() (929; 0% instances), [ru-dep/nummod:gov]() (797; 0% instances), [ru-dep/mwe]() (392; 0% instances), [ru-dep/nummod:entity]() (252; 0% instances), [ru-dep/nmod:agent]() (199; 0% instances), [ru-dep/aux]() (38; 0% instances), [ru-dep/expl]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 29 different relations: [ru-dep/amod]() (94449; 20% instances), [ru-dep/punct]() (86577; 18% instances), [ru-dep/case]() (86179; 18% instances), [ru-dep/nmod]() (56519; 12% instances), [ru-dep/dobj]() (31506; 7% instances), [ru-dep/conj]() (23228; 5% instances), [ru-dep/det]() (21146; 4% instances), [ru-dep/cc]() (16089; 3% instances), [ru-dep/advmod]() (10085; 2% instances), [ru-dep/appos]() (7604; 2% instances), [ru-dep/parataxis]() (7428; 2% instances), [ru-dep/nummod]() (6858; 1% instances), [ru-dep/acl:relcl]() (6226; 1% instances), [ru-dep/nsubj]() (6036; 1% instances), [ru-dep/name]() (5127; 1% instances), [ru-dep/advcl]() (2739; 1% instances), [ru-dep/cop]() (2117; 0% instances), [ru-dep/dep]() (1605; 0% instances), [ru-dep/neg]() (1497; 0% instances), [ru-dep/compound]() (1254; 0% instances), [ru-dep/mark]() (1123; 0% instances), [ru-dep/acl]() (909; 0% instances), [ru-dep/nummod:gov]() (797; 0% instances), [ru-dep/iobj]() (482; 0% instances), [ru-dep/mwe]() (379; 0% instances), [ru-dep/nummod:entity]() (252; 0% instances), [ru-dep/nmod:agent]() (199; 0% instances), [ru-dep/aux]() (38; 0% instances), [ru-dep/expl]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 15 different parts of speech: [NOUN]() (116322; 25% instances), [PUNCT]() (86582; 19% instances), [ADP]() (86175; 19% instances), [ADJ]() (85555; 18% instances), [VERB]() (22860; 5% instances), [DET]() (22025; 5% instances), [CONJ]() (15675; 3% instances), [NUM]() (10255; 2% instances), [PART]() (6782; 1% instances), [ADV]() (6189; 1% instances), [PRON]() (2571; 1% instances), [SCONJ]() (1773; 0% instances), [AUX]() (1583; 0% instances), [SYM]() (238; 0% instances), [INTJ]() (23; 0% instances)
+Children of `NOUN` nodes belong to 15 different parts of speech: [NOUN]() (129007; 27% instances), [ADJ]() (86764; 18% instances), [PUNCT]() (86577; 18% instances), [ADP]() (86175; 18% instances), [VERB]() (23387; 5% instances), [DET]() (21146; 4% instances), [CONJ]() (15648; 3% instances), [NUM]() (10299; 2% instances), [PART]() (6744; 1% instances), [ADV]() (6456; 1% instances), [PRON]() (2620; 1% instances), [SCONJ]() (1769; 0% instances), [AUX]() (1583; 0% instances), [SYM]() (251; 0% instances), [INTJ]() (23; 0% instances)
 
