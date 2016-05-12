@@ -25,7 +25,7 @@ punct(diote-2, .-6)
 
 * With a compound/periphrastic verb:
 
-*Hura da haurraren etorkizuna erabaki **dezakeen** bakarra . *
+*Hura da haurraren etorkizuna erabaki **dezakeen** bakarra .*
 
 *He/she is the only one **who can** decide the child's future .*
 
