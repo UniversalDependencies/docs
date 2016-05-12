@@ -4,6 +4,7 @@ title: 'nummod'
 shortdef: 'numeric modifier'
 ---
 
+
 A numeric modifier of a noun (`nummod`) is any number phrase that serves to modify the meaning of the noun with a quantity.
 
 *Urrezko domina irabazi zuen atletak **23** urte ditu .* 
@@ -11,7 +12,7 @@ A numeric modifier of a noun (`nummod`) is any number phrase that serves to modi
 *The athlete who won the gold medal is **23** years old .*
 
 ~~~ sdparse
-Urrezko domina irabazi zuen atletak 23 urte ditu . n\ Gold medal_the won_who athlete_the 23 years is .
+Urrezko domina irabazi zuen atletak 23 urte ditu . \n Gold medal_the won_who athlete_the 23 years is .
 
 nmod(domina-2, Urrezko-1)
 dobj(irabazi-3, domina-2)
@@ -29,7 +30,7 @@ punct(ditu-8, .-9)
 *We have got the **three** points .*
 
 ~~~ sdparse
-Hiru puntuak lortu ditugu . n\ Three points_the got have .
+Hiru puntuak lortu ditugu . \n Three points_the got have .
 
 nummod(puntuak-2, Hiru-1)
 dobj(lortu-3, puntuak-2)
@@ -43,7 +44,7 @@ punct(lortu-3, .-5)
 *They celebreated **one** party .*
 
 ~~~ sdparse
-Festa bat ospatu zuten . n\ Party one celebreated .
+Festa bat ospatu zuten . \n Party one celebreated .
 
 dobj(ospatu-3, Festa-1)
 nummod(Festa-1, bat-2)
@@ -57,8 +58,7 @@ punct(ospatu-3, .-5)
 *I will try to run **two** maratons .*
 
 ~~~ sdparse
-Saiatuko naiz bi maratoi egiten .
-I will try to run two maratons .
+Saiatuko naiz bi maratoi egiten . \n I will try to run two maratons .
 
 aux(Saiatuko-1, naiz-2)
 nummod(maratoi-4, bi-3)
