@@ -1,13 +1,3 @@
----
-layout: relation
-title: 'aux'
-shortdef: 'auxiliary'
-# The filename "aux" is not allowed on Windows, so we redirect instead
-# (see https://github.com/UniversalDependencies/docs/issues/20)
-redirect_from: "eu/dep/aux.html"
----
-
----
 layout: relation
 title: 'aux'
 shortdef: 'auxiliary'
@@ -27,7 +17,7 @@ Even if Basque word order is quite free, the auxiliary can only appear right aft
 
 *Bi zati hauek markaturik dauden tokietatik tolesten **dira** .*
 
-*These two parts fold by the places that are marked .*
+*These two parts fold by the places that **are** marked .*
 
 ~~~ sdparse
 Bi zati hauek markaturik dauden tokietatik tolesten dira .\n Two parts these marked are_that sites_the_by fold .
@@ -47,7 +37,7 @@ punct(tolesten-7, .-9)
 
 *Eztabaida handia sortu **du** aldaketak .*
 
-*The change has caused a huge discussion .* 
+*The change **has** caused a huge discussion .* 
 
 ~~~ sdparse
 Eztabaida handia sortu du aldaketak .\n Discussion huge_a caused has change_the .  
