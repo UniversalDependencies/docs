@@ -70,7 +70,7 @@ The following 6 pairs of parts of speech are connected with `cop`: [ru-pos/NOUN]
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is universal.
 

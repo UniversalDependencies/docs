@@ -72,7 +72,7 @@ The following 19 pairs of parts of speech are connected with `nummod`: [ru-pos/N
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is universal.
 There are 2 language-specific subtypes of `nummod`: [nummod:entity](), [nummod:gov]().

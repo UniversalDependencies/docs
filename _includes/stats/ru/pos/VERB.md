@@ -86,7 +86,7 @@ Children of `VERB` nodes belong to 15 different parts of speech: [NOUN]() (11579
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 There are 6007 `VERB` lemmas (15%), 30953 `VERB` types (28%) and 117292 `VERB` tokens (11%).
 Out of 15 observed tags, the rank of `VERB` is: 3 in number of lemmas, 2 in number of types and 3 in number of tokens.

@@ -71,7 +71,7 @@ Children of `PART` nodes belong to 3 different parts of speech: [ADV]() (15; 83%
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 There are 101 `PART` lemmas (0%), 106 `PART` types (0%) and 32599 `PART` tokens (3%).
 Out of 15 observed tags, the rank of `PART` is: 7 in number of lemmas, 8 in number of types and 8 in number of tokens.

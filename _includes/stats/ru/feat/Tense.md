@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 1 [ru-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
@@ -51,7 +51,7 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
@@ -106,7 +106,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 7164 [ru-pos/AUX]() tokens (91% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (7164; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7164; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7115; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7115; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (5305; 74%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5178; 72%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7164; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7164; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7115; 99%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7115; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (5305; 74%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5178; 72%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -141,6 +141,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (102; 57%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (20; 100%),
 <tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (3; 75%),
-<tt>VERB --[<a href="../dep/auxpass.html">auxpass</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/name.html">name</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/name.html">name</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/auxpass.html">auxpass</a>]--> VERB</tt> (1; 100%).
 

@@ -71,76 +71,37 @@ The following 6 pairs of parts of speech are connected with `expl`: [ru-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 54	bgColor:blue
-# visual-style 54	fgColor:white
-# visual-style 56	bgColor:blue
-# visual-style 56	fgColor:white
-# visual-style 56 54 expl	color:blue
-1	В	_	ADP	IN	_	2	case	_	_
-2	качестве	_	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	nmod	_	_
-3	cantus	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	firmus	_	ADJ	JJL	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
-5	использовались	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past	0	root	_	_
-6	различные	_	ADJ	JJL	Animacy=Inan|Case=Nom|Number=Plur	7	amod	_	_
-7	источники	_	NOUN	NN	Animacy=Inan|Case=Nom|Number=Plur	5	nsubj	_	_
-8	,	_	PUNCT	,	_	7	punct	_	_
-9	чаще	_	ADV	RBR	_	12	advmod	_	_
-10	всего	_	DET	DT	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	dobj	_	_
-11	известные	_	ADJ	JJL	Animacy=Inan|Case=Nom|Number=Plur	12	amod	_	_
-12	мелодии	_	NOUN	NN	Animacy=Inan|Case=Nom|Number=Plur	7	conj	_	_
-13	,	_	PUNCT	,	_	17	punct	_	_
-14	благодаря	_	ADP	IN	_	15	case	_	_
-15	чему	_	DET	DT	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	17	nmod	_	_
-16	принцип	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
-17	получил	_	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past	12	acl:relcl	_	_
-18	название	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	dobj	_	_
-19	cantus	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nmod	_	_
-20	prius	_	ADV	RB	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Person=3	21	advmod	_	_
-21	factus	_	ADJ	JJL	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Person=3	19	amod	_	_
-22	(	_	PUNCT	(	_	27	punct	_	_
-23	лат.	_	ADJ	JJ	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	27	amod	_	_
-24	``	_	PUNCT	``	_	27	punct	_	_
-25	прежде	_	ADV	RB	_	26	advmod	_	_
-26	созданный	_	VERB	VBNL	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Voice=Pass	27	acl	_	_
-27	напев	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	appos	_	_
-28	&#39;&#39;	_	PUNCT	&#39;&#39;	_	27	punct	_	_
-29	)	_	PUNCT	)	_	27	punct	_	_
-30	;	_	PUNCT	:	_	17	punct	_	_
-31	выражение	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	32	nsubj	_	_
-32	заимствовано	_	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Voice=Pass	17	parataxis	_	_
-33	из	_	ADP	IN	_	34	case	_	_
-34	трактата	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	_
-35	Анонима	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	34	appos	_	_
-36	IV	_	ADJ	JJL	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	amod	_	_
-37	:	_	PUNCT	:	_	32	punct	_	_
-38	cantus	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	32	parataxis	_	_
-39	vel	_	CONJ	CC	_	38	cc	_	_
-40	tenor	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	38	conj	_	_
-41	est	_	VERB	VBC	Aspect=Imp|Mood=Imp|Tense=Pres	38	aux	_	_
-42	primus	_	ADJ	JJL	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	43	amod	_	_
-43	cantus	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	41	dobj	_	_
-44	primo	_	ADV	RB	_	45	advmod	_	_
-45	procreatus	_	VERB	VBNL	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Voice=Pass	43	acl	_	_
-46	vel	_	CONJ	CC	_	45	cc	_	_
-47	factus	_	VERB	VBNL	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Voice=Pass	45	conj	_	_
-48	(	_	PUNCT	(	_	56	punct	_	_
-49	``	_	PUNCT	``	_	56	punct	_	_
-50	кантус	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	56	nsubj	_	_
-51	или	_	CONJ	CC	_	50	cc	_	_
-52	тенор	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	50	conj	_	_
-53	--	_	PUNCT	-	_	56	punct	_	_
-54	это	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	56	expl	_	_
-55	первичный	_	ADJ	JJL	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	56	amod	_	_
-56	напев	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	38	appos	_	_
-57	,	_	PUNCT	,	_	59	punct	_	_
-58	предварительно	_	ADV	RB	_	59	advmod	_	_
-59	созданный	_	VERB	VBNL	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Voice=Pass	56	acl	_	_
-60	,	_	PUNCT	,	_	59	punct	_	_
-61	или	_	CONJ	CC	_	59	cc	_	_
-62	сделанный	_	VERB	VBNL	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Voice=Pass	59	conj	_	_
-63	&#39;&#39;	_	PUNCT	&#39;&#39;	_	56	punct	_	_
-64	)	_	PUNCT	)	_	56	punct	_	_
-65	.	_	PUNCT	.	_	5	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 14 expl	color:blue
+1	Я	_	PRON	PRP	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	за	_	ADP	IN	_	0	root	_	_
+3	возрождение	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	_
+4	религиозной	_	ADJ	JJL	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	amod	_	_
+5	веры	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	,	_	PUNCT	,	_	11	punct	_	_
+7	потому	_	SCONJ	IN	_	11	mark	_	_
+8	что	_	ADP	IN	_	7	mwe	_	_
+9	это	_	DET	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+10	не	_	PART	NEG	_	11	neg	_	_
+11	привнесенное	_	VERB	VBNL	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Voice=Pass	2	advcl	_	_
+12	извне	_	ADV	RB	_	11	advmod	_	_
+13	,	_	PUNCT	,	_	11	punct	_	_
+14	это	_	DET	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	expl	_	_
+15	органичное	_	ADJ	JJL	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	parataxis	_	_
+16	состояние	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+17	человека	_	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	,	_	PUNCT	,	_	20	punct	_	_
+19	которое	_	DET	WDT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+20	сформировано	_	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Voice=Pass	16	acl:relcl	_	_
+21	в	_	ADP	IN	_	25	case	_	_
+22	течение	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	25	mwe	_	_
+23	сотен	_	NOUN	NN	Animacy=Inan|Case=Gen|Number=Plur	25	nummod	_	_
+24	тысяч	_	NOUN	NN	Animacy=Inan|Case=Gen|Number=Plur	23	nummod	_	_
+25	лет	_	NOUN	NN	Animacy=Inan|Case=Gen|Number=Plur	20	nmod	_	_
+26	.	_	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -149,7 +110,7 @@ The following 6 pairs of parts of speech are connected with `expl`: [ru-pos/NOUN
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is universal.
 

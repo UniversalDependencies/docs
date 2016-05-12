@@ -151,7 +151,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
@@ -215,7 +215,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 35570 [ru-pos/VERB]() tokens (30% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (35570; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (35570; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (32886; 92%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (28700; 81%), <tt><a href="Voice.html">Voice</a>=Act</tt> (27943; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (25093; 71%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (25093; 71%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (22400; 63%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (35570; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (35570; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (32886; 92%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (28700; 81%), <tt><a href="Voice.html">Voice</a>=Act</tt> (27943; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (25093; 71%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (25093; 71%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (22400; 63%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -259,7 +259,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 4022 [ru-pos/AUX]() tokens (51% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (4022; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4022; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4022; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4022; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4022; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4020; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4020; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (4022; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4022; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4022; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4022; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4022; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4020; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4020; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 

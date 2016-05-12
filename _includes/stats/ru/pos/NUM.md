@@ -94,7 +94,7 @@ Children of `NUM` nodes belong to 14 different parts of speech: [PUNCT]() (331; 
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 There are 1140 `NUM` lemmas (3%), 1221 `NUM` types (1%) and 13280 `NUM` tokens (1%).
 Out of 15 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 12 in number of tokens.

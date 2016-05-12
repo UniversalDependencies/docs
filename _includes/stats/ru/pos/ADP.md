@@ -87,7 +87,7 @@ Children of `ADP` nodes belong to 15 different parts of speech: [NOUN]() (414; 4
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 There are 104 `ADP` lemmas (0%), 122 `ADP` types (0%) and 95697 `ADP` tokens (9%).
 Out of 15 observed tags, the rank of `ADP` is: 6 in number of lemmas, 7 in number of types and 5 in number of tokens.

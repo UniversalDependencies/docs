@@ -87,7 +87,7 @@ Children of `NOUN` nodes belong to 15 different parts of speech: [NOUN]() (11856
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 There are 21945 `NOUN` lemmas (55%), 49412 `NOUN` types (44%) and 299598 `NOUN` tokens (29%).
 Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.

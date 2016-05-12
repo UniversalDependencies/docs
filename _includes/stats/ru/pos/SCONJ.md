@@ -92,7 +92,7 @@ Children of `SCONJ` nodes belong to 4 different parts of speech: [ADV]() (30; 64
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 There are 12 `SCONJ` lemmas (0%), 14 `SCONJ` types (0%) and 15498 `SCONJ` tokens (2%).
 Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 14 in number of types and 11 in number of tokens.

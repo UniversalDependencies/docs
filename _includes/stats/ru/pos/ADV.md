@@ -91,7 +91,7 @@ Children of `ADV` nodes belong to 15 different parts of speech: [PUNCT]() (226; 
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 There are 1994 `ADV` lemmas (5%), 2141 `ADV` types (2%) and 55042 `ADV` tokens (5%).
 Out of 15 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 6 in number of tokens.

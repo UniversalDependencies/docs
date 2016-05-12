@@ -56,7 +56,7 @@ Children of `SYM` nodes belong to 11 different parts of speech: [NUM]() (82; 40%
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 There are 7 `SYM` lemmas (0%), 8 `SYM` types (0%) and 851 `SYM` tokens (0%).
 Out of 15 observed tags, the rank of `SYM` is: 14 in number of lemmas, 15 in number of types and 14 in number of tokens.
@@ -65,7 +65,7 @@ The 10 most frequent `SYM` lemmas: <em>ПРОЦЕНТ-ЗНАК, ДОЛЛАР-З�
 
 The 10 most frequent `SYM` types:  <em>%, $, №, °, +, €, =, №№</em>
 
-The 10 most frequent ambiguous lemmas: <em>НОМЕР-ЗНАК</em> ([SYM]() 60, [NOUN]() 1), <em>ПЛЮС</em> ([ADP]() 31, [NOUN]() 21, [ADV]() 5, [SYM]() 5, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>НОМЕР-ЗНАК</em> ([SYM]() 60, [NOUN]() 1), <em>ПЛЮС</em> ([ADP]() 31, [NOUN]() 21, [SYM]() 5, [ADV]() 5, [PART]() 1)
 
 The 10 most frequent ambiguous types:  
 

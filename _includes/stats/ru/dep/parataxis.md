@@ -74,7 +74,7 @@ The following 39 pairs of parts of speech are connected with `parataxis`: [ru-po
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is universal.
 

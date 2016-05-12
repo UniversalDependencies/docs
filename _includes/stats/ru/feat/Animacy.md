@@ -115,15 +115,6 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 * `Inan` (2; 100% of non-empty `Animacy`): <em>prius, Возможно</em>
 * `EMPTY` (2140): <em>более, как, так, только, вместе, затем, впервые, позже, здесь, менее</em>
 
-### `SCONJ`
-
-1 [ru-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Animacy`.
-
-`SCONJ` tokens may have the following values of `Animacy`:
-
-* `Inan` (1; 100% of non-empty `Animacy`): <em>что</em>
-* `EMPTY` (623): <em>что, где, когда, чтобы, как, так, хотя, если, поскольку, поэтому</em>
-
 ### `SYM`
 
 1 [ru-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Animacy`.
@@ -132,6 +123,15 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 * `Inan` (1; 100% of non-empty `Animacy`): <em>cm</em>
 * `EMPTY` (157): <em>%, /, +, *, °, =, $, €, justjared.com</em>
+
+### `SCONJ`
+
+1 [ru-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Animacy`.
+
+`SCONJ` tokens may have the following values of `Animacy`:
+
+* `Inan` (1; 100% of non-empty `Animacy`): <em>что</em>
+* `EMPTY` (623): <em>что, где, когда, чтобы, как, так, хотя, если, поскольку, поэтому</em>
 
 ## Relations with Agreement in `Animacy`
 
@@ -151,7 +151,7 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
@@ -195,7 +195,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 10452 [ru-pos/ADJ]() tokens (9% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (10451; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (10393; 99%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5923; 57%), <tt><a href="Number.html">Number</a>=Plur</tt> (5923; 57%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (10451; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (10393; 99%), <tt><a href="Number.html">Number</a>=Plur</tt> (5923; 57%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5923; 57%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -216,7 +216,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 1291 [ru-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1291; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1291; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1291; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1291; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (778; 60%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (778; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (718; 56%), <tt><a href="Voice.html">Voice</a>=Act</tt> (668; 52%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (652; 51%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1291; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1291; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1291; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1291; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (778; 60%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (778; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (718; 56%), <tt><a href="Voice.html">Voice</a>=Act</tt> (668; 52%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (652; 51%).
 
 `VERB` tokens may have the following values of `Animacy`:
 

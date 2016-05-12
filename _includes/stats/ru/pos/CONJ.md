@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  <em>и, а, также, но, или, одн
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 26660, [PUNCT]() 18807, [ADJ]() 12528, [ADP]() 10735, [VERB]() 9436, [PROPN]() 7604, [CONJ]() 3168, [ADV]() 2142, [NUM]() 1900, [PRON]() 1763, [X]() 1700, [DET]() 1673, [SCONJ]() 624, [PART]() 491, [SYM]() 158)
 
-The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 2241, [X]() 89, [PART]() 6, [NOUN]() 1), <em>а</em> ([CONJ]() 261, [X]() 4, [NOUN]() 1), <em>также</em> ([CONJ]() 161, [ADV]() 2, [X]() 1), <em>но</em> ([CONJ]() 145, [X]() 1), <em>или</em> ([CONJ]() 155, [ADJ]() 1), <em>однако</em> ([CONJ]() 31, [ADV]() 3, [X]() 1), <em>либо</em> ([CONJ]() 16, [X]() 7), <em>так</em> ([ADV]() 45, [SCONJ]() 27, [CONJ]() 8, [ADP]() 4), <em>тоже</em> ([CONJ]() 9, [ADV]() 1), <em>то</em> ([DET]() 63, [X]() 14, [ADV]() 11, [CONJ]() 7, [ADP]() 2, [SCONJ]() 2)
+The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 2241, [X]() 89, [PART]() 6, [NOUN]() 1), <em>а</em> ([CONJ]() 261, [X]() 4, [NOUN]() 1), <em>также</em> ([CONJ]() 161, [ADV]() 2, [X]() 1), <em>но</em> ([CONJ]() 145, [X]() 1), <em>или</em> ([CONJ]() 155, [ADJ]() 1), <em>однако</em> ([CONJ]() 31, [ADV]() 3, [X]() 1), <em>либо</em> ([CONJ]() 16, [X]() 7), <em>так</em> ([ADV]() 45, [SCONJ]() 27, [CONJ]() 8, [ADP]() 4), <em>тоже</em> ([CONJ]() 9, [ADV]() 1), <em>то</em> ([DET]() 63, [X]() 14, [ADV]() 11, [CONJ]() 7, [SCONJ]() 2, [ADP]() 2)
 
 
 * <em>и</em>
@@ -55,8 +55,8 @@ The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 2241, [X]() 89, [PA
   * [X]() 14: <em>Сенусерт I в какой - <b>то</b> степени поднял экономику страны , начав освоение Фаюма .</em>
   * [ADV]() 11: <em>Так как белые готовились к эвакуации , <b>то</b> их в расчёт вовсе не принимали .</em>
   * [CONJ]() 7: <em>Далее больше атаковали хозяева , но римлян выручали <b>то</b> Марко Баллотта , <b>то</b> его защитники .</em>
-  * [ADP]() 2: <em>Если налог перелагается , <b>то</b> это значит , что он выступает в роли особого ценообразующего фактора .</em>
   * [SCONJ]() 2: <em>Возможно , существует проход , который соединяет Темное Озеро с одной из подземных рек , протекающей в Скуллпорте , и если удастся обнаружить этот проход и открывающий его ключ , <b>то</b> это сильно поможет облегчить торговлю между Подземьем и поверхностью .</em>
+  * [ADP]() 2: <em>Если налог перелагается , <b>то</b> это значит , что он выступает в роли особого ценообразующего фактора .</em>
 
 ## Morphology
 
@@ -91,7 +91,7 @@ Children of `CONJ` nodes belong to 9 different parts of speech: [CONJ]() (83; 64
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 There are 65 `CONJ` lemmas (0%), 71 `CONJ` types (0%) and 40610 `CONJ` tokens (4%).
 Out of 15 observed tags, the rank of `CONJ` is: 8 in number of lemmas, 9 in number of types and 7 in number of tokens.

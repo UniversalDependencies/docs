@@ -76,7 +76,7 @@ The following 10 pairs of parts of speech are connected with `nsubjpass`: [ru-po
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is universal.
 

@@ -38,7 +38,7 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
@@ -52,7 +52,7 @@ The feature is used with 2 part-of-speech tags: [ru-pos/VERB]() (74078; 7% insta
 
 74078 [ru-pos/VERB]() tokens (63% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (74078; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (74078; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (71066; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (49281; 67%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (48985; 66%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (47137; 64%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (74078; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (74078; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (71066; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (49281; 67%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (48985; 66%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (47137; 64%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 7141 [ru-pos/AUX]() tokens (90% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7141; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7141; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7141; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5326; 75%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5129; 72%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5129; 72%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (7141; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7141; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7141; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5326; 75%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5129; 72%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5129; 72%).
 
 `AUX` tokens may have the following values of `Mood`:
 

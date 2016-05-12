@@ -78,7 +78,7 @@ The following 40 pairs of parts of speech are connected with `advmod`: [ru-pos/V
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is universal.
 

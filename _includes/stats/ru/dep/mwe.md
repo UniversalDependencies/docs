@@ -83,7 +83,7 @@ The following 43 pairs of parts of speech are connected with `mwe`: [ru-pos/CONJ
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is universal.
 

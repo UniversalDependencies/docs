@@ -82,7 +82,7 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: [ru-po
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is a language-specific subtype of [acl]().
 

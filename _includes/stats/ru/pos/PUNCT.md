@@ -65,7 +65,7 @@ Children of `PUNCT` nodes belong to 9 different parts of speech: [PUNCT]() (18; 
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 There are 17 `PUNCT` lemmas (0%), 17 `PUNCT` types (0%) and 188918 `PUNCT` tokens (18%).
 Out of 15 observed tags, the rank of `PUNCT` is: 11 in number of lemmas, 13 in number of types and 2 in number of tokens.

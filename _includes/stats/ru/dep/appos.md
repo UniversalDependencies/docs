@@ -77,7 +77,7 @@ The following 49 pairs of parts of speech are connected with `appos`: [ru-pos/NO
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is universal.
 

@@ -150,7 +150,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
@@ -174,7 +174,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>ГОД</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>год, г., г</em></td><td><em>годы, гг., г, гг, г.</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>год, г., г</em></td><td><em>годы, гг., г, г., гг</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>году, г, г.</em></td><td><em>годам</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>года, г., г</em></td><td><em>лет, годов, гг., г., гг, годах</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut</tt></td><td></td><td><em>лет</em></td></tr>
@@ -302,7 +302,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 7145 [ru-pos/AUX]() tokens (91% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7145; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7145; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7141; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7115; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5133; 72%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5133; 72%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (7145; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7145; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7141; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7115; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5133; 72%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5133; 72%).
 
 `AUX` tokens may have the following values of `Number`:
 

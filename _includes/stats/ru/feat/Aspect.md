@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 1 [ru-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
@@ -45,14 +45,14 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (14; 64%),
 <tt>VERB --[<a href="../dep/discourse.html">discourse</a>]--> VERB</tt> (4; 67%),
 <tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (2; 67%).
+<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (2; 67%).
 
 
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.

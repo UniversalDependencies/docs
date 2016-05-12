@@ -108,7 +108,7 @@ The following 2 pairs of parts of speech are connected with `name`: [ru-pos/PROP
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is universal.
 

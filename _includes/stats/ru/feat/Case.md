@@ -148,15 +148,6 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Nom` (2; 100% of non-empty `Case`): <em>prius, Возможно</em>
 * `EMPTY` (2140): <em>более, как, так, только, вместе, затем, впервые, позже, здесь, менее</em>
 
-### `SCONJ`
-
-1 [ru-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Case`.
-
-`SCONJ` tokens may have the following values of `Case`:
-
-* `Nom` (1; 100% of non-empty `Case`): <em>что</em>
-* `EMPTY` (623): <em>что, где, когда, чтобы, как, так, хотя, если, поскольку, поэтому</em>
-
 ### `SYM`
 
 1 [ru-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Case`.
@@ -165,6 +156,15 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 * `Gen` (1; 100% of non-empty `Case`): <em>cm</em>
 * `EMPTY` (157): <em>%, /, +, *, °, =, $, €, justjared.com</em>
+
+### `SCONJ`
+
+1 [ru-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Case`.
+
+`SCONJ` tokens may have the following values of `Case`:
+
+* `Nom` (1; 100% of non-empty `Case`): <em>что</em>
+* `EMPTY` (623): <em>что, где, когда, чтобы, как, так, хотя, если, поскольку, поэтому</em>
 
 ## Relations with Agreement in `Case`
 
@@ -184,7 +184,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This feature is universal.
 It occurs with 8 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Par`, `Voc`.
@@ -339,7 +339,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 4 [ru-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 

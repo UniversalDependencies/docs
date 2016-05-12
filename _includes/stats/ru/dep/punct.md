@@ -82,7 +82,7 @@ The following 30 pairs of parts of speech are connected with `punct`: [ru-pos/VE
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Russian-Syntagrus)
+## Treebank Statistics (UD_Russian-SynTagRus)
 
 This relation is universal.
 
