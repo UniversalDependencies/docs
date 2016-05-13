@@ -36,7 +36,12 @@ See [here](release_checklist.html) for the checklist for data contributors.
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.
   (But we currently do not have means to enforce it. If someone commits to `master`, we will have to remove the commits from the history manually, using `git revert`.)<br />
   <code>for i in UD_* ; do pushd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; popd ; echo ; done</code>
-* <code>mkdir release-1.3<br />
+* Create the release folder, copy there the repositories that contain .conllu data (skip empty repositories!) and erase files
+  that should not be released (`.gitignore`, `.git`, `not-to-release`). The training data in UD_Czech is split to four files
+  because it is too large for Github. However, it can be one file in our release, so join the files again in the release copy.
+  (NOTE: The split is currently described in README.txt. If the data is re-joined, the README.txt file should be updated,
+  otherwise the users might get confused.)<br />
+  <code>mkdir release-1.3<br />
   cd release-1.3<br />
   mkdir ud-treebanks-v1.3<br />
   mkdir ud-documentation-v1.3<br />
@@ -48,11 +53,6 @@ See [here](release_checklist.html) for the checklist for data contributors.
   rm UD_Czech/cs-ud-train-*.conllu<br />
   rm -rf UD_*/.git* UD_*/not-to-release<br />
   cd ../..</code>
-* Before releasing, create a copy of each UD_* repository, and remove the following files and subfolders:
-  * .gitignore
-  * .git
-  * not-to-release
-* The training data in UD_Czech is split to four files because it is too large for Github. However, it can be one file in our release, so join the files again in the release copy. (NOTE: The split is currently described in README.txt. If the data is re-joined, the README.txt file should be updated, otherwise the users might get confused.)
 * Prepare two separate packages, the current contents of the repositories docs and tools, also without .git and .gitignore.
   Moreover, the docs repository should be separately checked out in two branches, pages-source and gh-pages.
   (NOTE: This has changed since UD 1.2. The generated pages are now in a separate repository, mirrored at the site universaldependencies.org.)
