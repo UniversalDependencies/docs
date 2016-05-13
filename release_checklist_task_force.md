@@ -92,9 +92,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Update the title page of Universal Dependencies. Send out announcement to corpora@uib.no, ACL list etc.
 * Upload the data to the search engines (SETS, PML-TQ, Kontext etc.)
 
-<small><code>
+<small><pre>
 path=$(pwd)
 cd /net/data
 tar xzf $path/release-1.3/ud-treebanks-v1.3.tgz
 mv ud-treebanks-v1.3 universal-dependencies-1.3
-</code></small>
+</pre></small>
