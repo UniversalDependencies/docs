@@ -52,7 +52,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
   cat UD_Czech/cs-ud-train-*.conllu > UD_Czech/cs-ud-train.conllu<br />
   rm UD_Czech/cs-ud-train-*.conllu<br />
   rm -rf UD_*/.git* UD_*/not-to-release<br />
-  cd ../..</code>
+  cd ..<br />
+  tar czf ud-treebanks-v1.3.tgz ud-treebanks-v1.3<br />
+  cd ..</code>
 * Prepare two separate packages, the current contents of the repositories docs and tools, also without .git and .gitignore.
   Moreover, the docs repository should be separately checked out in two branches, pages-source and gh-pages.
   (NOTE: This has changed since UD 1.2. The generated pages are now in a separate repository, mirrored at the site universaldependencies.org.)
