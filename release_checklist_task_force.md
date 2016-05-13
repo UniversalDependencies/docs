@@ -38,9 +38,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in UD_* ; do pushd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; popd ; echo ; done</code>
 * Create the release folder, copy there the repositories that contain .conllu data (skip empty repositories!) and erase files
   that should not be released (`.gitignore`, `.git`, `not-to-release`). The training data in UD_Czech is split to four files
-  because it is too large for Github. However, it can be one file in our release, so join the files again in the release copy.
-  (NOTE: The split is currently described in README.txt. If the data is re-joined, the README.txt file should be updated,
-  otherwise the users might get confused.)<br />
+  because it is too large for Github. However, it can be one file in our release, so join the files again in the release
+  copy.<br />
   <code>mkdir release-1.3<br />
   cd release-1.3<br />
   mkdir ud-treebanks-v1.3<br />
