@@ -36,12 +36,6 @@ See [here](release_checklist.html) for the checklist for data contributors.
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.
   (But we currently do not have means to enforce it. If someone commits to `master`, we will have to remove the commits from the history manually, using `git revert`.)<br />
   <code>for i in UD_* ; do pushd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; popd ; echo ; done</code>
-* Tag the current commit in all repositories with the tag of the current release (`git tag r1.3` for UD 1.3).
-  Push the tag to Github: `git push origin --tags`.
-  You may even tag a particular commit retroactively: `git tag -a r1.3 9fceb02`.
-  If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
-  this is how you remove the tag from where it is now: `git tag -d r1.3`.
-  And this is how you remove it from Github: `git push origin :refs/tags/r1.3`.
 * Before releasing, create a copy of each UD_* repository, and remove the following files and subfolders:
   * .gitignore
   * .git
@@ -53,6 +47,13 @@ See [here](release_checklist.html) for the checklist for data contributors.
   WARNING! Many subfolders of the gh-pages branch contain generated files AUX.html and aux.html (besides AUX_.html and aux_.html).
   These should _not_ be included in the package because that might prevent people from unpacking it in MS Windows
   (although some unpacking programs, like 7zip, will be able to overcome this by simply renaming the file to _aux.html before unpacking it).
+* Tag the current commit in all repositories with the tag of the current release (`git tag r1.3` for UD 1.3).
+  Push the tag to Github: `git push origin --tags`.
+  You may even tag a particular commit retroactively: `git tag -a r1.3 9fceb02`.
+  If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
+  this is how you remove the tag from where it is now: `git tag -d r1.3`.
+  And this is how you remove it from Github: `git push origin :refs/tags/r1.3`.<br />
+  <code>for i in UD_* docs tools ; do pushd $i ; git tag r1.3 ; git push --tags ; popd ; echo ; done</code>
 * Once the Lindat staff make the new license list available in their system, we can [create a new Lindat item](https://lindat.mff.cuni.cz/repository/xmlui/submit) for the new version of UD.
   Note that the Lindat staff may help to automate other tasks as well.
   For example, we have an extraordinarily long list of authors. Instead of typing them on the Lindat website one-by-one, they can batch-upload the list we send them.
