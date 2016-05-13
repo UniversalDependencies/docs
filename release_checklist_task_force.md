@@ -13,29 +13,29 @@ See [here](release_checklist.html) for the checklist for data contributors.
   This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
 * Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it):<br />
   <code>for i in UD_* ; do pushd $i ; git pull --no-edit ; popd ; echo ; done</code>
-* NEW in UD 1.3: some languages have the new data in `dev` branch. After this release, all languages will have to use the `dev` branch.
-  So we should create the branch in repositories that do not have it.
-  `for i in UD_* ; do pushd $i ; git pull --no-edit ; git checkout -b dev ; git checkout dev ; git push --set-upstream origin dev ; popd ; echo ; done`
-* For all repositories we should make sure that the `dev` branch is checked out:
-  `for i in UD_* ; do pushd $i ; git checkout dev ; git pull --no-edit ; popd ; echo ; done`
-* Make sure that all CoNLL-U files are formally valid (results of the validator are [available on-line](validation.html) but make sure that no repository is missing there).
-  `for i in UD_* ; do pushd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do echo $j ; x=$(echo $j | perl -pe 'chomp; s/-ud.*//') ; ../tools/validate.py --lang $x $j ; done ; fi ; popd ; done`
+* NEW in UD 1.3: some languages have the new data in `dev` branch. After this release, all languages will have to use the
+  `dev` branch. So we should create the branch in repositories that do not have it.<br />
+  <code>for i in UD_* ; do pushd $i ; git pull --no-edit ; git checkout -b dev ; git checkout dev ; git push --set-upstream origin dev ; popd ; echo ; done</code>
+* For all repositories we should make sure that the `dev` branch is checked out:<br />
+  <code>for i in UD_* ; do pushd $i ; git checkout dev ; git pull --no-edit ; popd ; echo ; done</code>
+* Make sure that all CoNLL-U files are formally valid (results of the validator are [available on-line](validation.html) but make sure that no repository is missing there).<br />
+  <code>for i in UD_* ; do pushd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do echo $j ; x=$(echo $j | perl -pe 'chomp; s/-ud.*//') ; ../tools/validate.py --lang $x $j ; done ; fi ; popd ; done</code>
 * Run `tools/check_files.pl` (if there are new languages, you may need to add their codes in the source code first).
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
   Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
   they can be reached at lindat-help@ufal.mff.cuni.cz).
-* Update statistics in the `stats.xml` file in each repository:
-  `for i in UD_* ; do pushd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; popd ; echo ; done`
+* Update statistics in the `stats.xml` file in each repository:<br />
+  <code>for i in UD_* ; do pushd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; popd ; echo ; done</code>
 * Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:
-  This time the script is run for every language (not every treebank):
-  `for l in grc ar eu bg ca zh hr cs da nl en et fi fr gl de got el he hi hu id ga it kk la lv no cu fa pl pt ro ru sl es sv ta tr ; do perl tools/conllu-stats.pl --detailed --data . --docs docs --lang $l ; done`
+  This time the script is run for every language (not every treebank):<br />
+  <code>for l in grc ar eu bg ca zh hr cs da nl en et fi fr gl de got el he hi hu id ga it kk la lv no cu fa pl pt ro ru sl es sv ta tr ; do perl tools/conllu-stats.pl --detailed --data . --docs docs --lang $l ; done</code>
 * Merge the `dev` branch into `master` in every UD_* repository.
   The `master` branch should not be touched the next six months and it should have exactly the contents that was officially
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.
-  (But we currently do not have means to enforce it. If someone commits to `master`, we will have to remove the commits from the history manually, using `git revert`.)
-  `for i in UD_* ; do pushd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; popd ; echo ; done`
+  (But we currently do not have means to enforce it. If someone commits to `master`, we will have to remove the commits from the history manually, using `git revert`.)<br />
+  <code>for i in UD_* ; do pushd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; popd ; echo ; done</code>
 * Tag the current commit in all repositories with the tag of the current release (`git tag r1.3` for UD 1.3).
   Push the tag to Github: `git push origin --tags`.
   You may even tag a particular commit retroactively: `git tag -a r1.3 9fceb02`.
