@@ -155,13 +155,17 @@ def save_test_cache(d,f_name):
 def main(tests,test_cache,languages):
     """tests is the stuff you get from yaml
     test_cache is the test result dictionary"""
-    
 
     for t in tests:
         #Make sure you have this test for every language
         for l in languages:
             if l not in test_cache.get(t["expr"],{}):
                 test_cache.setdefault(t["expr"],{})[l]=run_test(l,t["expr"])
+        #Forget languages you don't need
+        todel=set(test_cache[t["expr"]])-set(languages)
+        for l in todel:
+            print >> sys.stderr, "Deleting", l
+            del test_cache[t["expr"]][l]
         #remember: test_cache: {testexpression -> {language -> stats}}
         print >> out8, "#", t["name"]
         print >> out8
