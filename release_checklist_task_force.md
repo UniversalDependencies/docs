@@ -42,10 +42,11 @@ See [here](release_checklist.html) for the checklist for data contributors.
   mkdir ud-documentation-v1.3<br />
   mkdir ud-tools-v1.3<br />
   cd ud-treebanks-v1.3<br />
-  cp -r ../../UD_* .<br />
-  rm -rf UD_*/.git* UD_*/not-to-release<br />
+  for i in ../../UD_* ; do if [ -f $i/*-ud-train.conllu ] ; then echo $i ; cp -r $i . ; fi ; done<br />
+  cp -r ../../UD_Czech .<br />
   cat UD_Czech/cs-ud-train-*.conllu > UD_Czech/cs-ud-train.conllu<br />
   rm UD_Czech/cs-ud-train-*.conllu<br />
+  rm -rf UD_*/.git* UD_*/not-to-release<br />
   cd ../..</code>
 * Before releasing, create a copy of each UD_* repository, and remove the following files and subfolders:
   * .gitignore
