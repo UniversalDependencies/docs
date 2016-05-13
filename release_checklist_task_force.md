@@ -11,7 +11,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 * Make sure that you have local clones of all UD_* repositories that should be released.
   This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
-* Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it): `for i in UD_* ; do pushd $i ; git pull --no-edit ; popd ; echo ; done`
+* Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it):<br />
+  `for i in UD_* ; do pushd $i ; git pull --no-edit ; popd ; echo ; done`
 * NEW in UD 1.3: some languages have the new data in `dev` branch. After this release, all languages will have to use the `dev` branch.
   So we should create the branch in repositories that do not have it.
   `for i in UD_* ; do pushd $i ; git pull --no-edit ; git checkout -b dev ; git checkout dev ; git push --set-upstream origin dev ; popd ; echo ; done`
