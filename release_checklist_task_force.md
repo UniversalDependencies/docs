@@ -36,6 +36,15 @@ See [here](release_checklist.html) for the checklist for data contributors.
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.
   (But we currently do not have means to enforce it. If someone commits to `master`, we will have to remove the commits from the history manually, using `git revert`.)<br />
   <code>for i in UD_* ; do pushd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; popd ; echo ; done</code>
+* <code>mkdir release-1.3<br />
+  cd release-1.3<br />
+  mkdir ud-treebanks-v1.3<br />
+  mkdir ud-documentation-v1.3<br />
+  mkdir ud-tools-v1.3<br />
+  cd ud-treebanks-v1.3<br />
+  cp -r ../../UD_* .<br />
+  rm -rf UD_*/.git* UD_*/not-to-release<br />
+  cd ../..</code>
 * Before releasing, create a copy of each UD_* repository, and remove the following files and subfolders:
   * .gitignore
   * .git
