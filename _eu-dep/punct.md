@@ -12,7 +12,7 @@ Two kinds of punctuations can be distinguished:
 * Punctuation acting as a conjunction in coordinations
 * The rest of the punctuation marks
 
-1. Punctuation in coordination
+* Punctuation in coordination
 
 Coordination in the Basque UD annotation follows the general schema where the first element of the conjunction is the head, and each conjunct, conjunction complementizer or puntuation mark acting as a conjunction should be attached to the first conjunct:
 
@@ -44,7 +44,7 @@ punct(osatzen-15, .-19)
 ~~~ 
 
 
-2. The rest of the punctuation marks
+* The rest of the punctuation marks
 
 Full stop is linked to the head of the sentence. 
 
