@@ -43,7 +43,6 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>mkdir release-1.3<br />
   cd release-1.3<br />
   mkdir ud-treebanks-v1.3<br />
-  mkdir ud-documentation-v1.3<br />
   cd ud-treebanks-v1.3<br />
   for i in ../../UD_* ; do if [ -f $i/*-ud-train.conllu ] ; then echo $i ; cp -r $i . ; fi ; done<br />
   cp -r ../../UD_Czech .<br />
@@ -60,6 +59,14 @@ See [here](release_checklist.html) for the checklist for data contributors.
   cp -r ../tools/* ud-tools-v1.3<br />
   rm -rf ud-tools-v1.3/.git* ud-tools-v1.3/not-to-release<br />
   tar czf ud-tools-v1.3.tgz ud-tools-v1.3<br />
+  cd ..</code>
+* Prepare the current content of the docs repository as a separate package, also without `.git` and `.gitignore`. Note that this is archiving of the MarkDown _source code_ of the documentation. See below for archiving the corresponding HTML.<br />
+  <code>pushd docs ; git checkout pages-source ; git pull --no-edit ; popd<br />
+  cd release-1.3<br />
+  mkdir ud-documentation-v1.3<br />
+  cp -r ../docs/* ud-documentation-v1.3<br />
+  rm -rf ud-documentation-v1.3/.git* ud-documentation-v1.3/not-to-release<br />
+  tar czf ud-documentation-v1.3.tgz ud-documentation-v1.3<br />
   cd ..</code>
 * Prepare two separate packages, the current contents of the repositories docs and tools, also without .git and .gitignore.
   Moreover, the docs repository should be separately checked out in two branches, pages-source and gh-pages.
