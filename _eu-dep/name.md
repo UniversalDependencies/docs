@@ -13,7 +13,7 @@ In general, names are annotated in a flat, head-initial structure, in which all 
 ***Scottie Pippene** attacked to the competition among polemics .* 
 
 ~~~ sdparse
-Scottie Pippenek polemika artean ekin zion norgehiagokari . /n  Scottie Pippene polemic among attacked competition_the_to . 
+Scottie Pippenek polemika artean ekin zion norgehiagokari . \n Scottie Pippene polemic among attacked competition_the_to . 
 
 nsubj(ekin-5, Scottie-1)
 name(Scottie-1, Pippenek-2)
