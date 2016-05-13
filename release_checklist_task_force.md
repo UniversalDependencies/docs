@@ -44,6 +44,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   cd ud-treebanks-v1.3<br />
   cp -r ../../UD_* .<br />
   rm -rf UD_*/.git* UD_*/not-to-release<br />
+  cat UD_Czech/cs-ud-train-*.conllu > UD_Czech/cs-ud-train.conllu<br />
+  rm UD_Czech/cs-ud-train-*.conllu<br />
   cd ../..</code>
 * Before releasing, create a copy of each UD_* repository, and remove the following files and subfolders:
   * .gitignore
