@@ -60,20 +60,21 @@ See [here](release_checklist.html) for the checklist for data contributors.
   rm -rf ud-tools-v1.3/.git* ud-tools-v1.3/not-to-release<br />
   tar czf ud-tools-v1.3.tgz ud-tools-v1.3<br />
   cd ..</code>
-* Prepare the current content of the docs repository as a separate package, also without `.git` and `.gitignore`. Note that this is archiving of the MarkDown _source code_ of the documentation. See below for archiving the corresponding HTML.<br />
+* Prepare the current content of the docs repository as a separate package, also without `.git` and `.gitignore`. Note that this is archiving the MarkDown _source code_ of the documentation. See below for archiving the corresponding HTML.<br />
   <code>pushd docs ; git checkout pages-source ; git pull --no-edit ; popd<br />
   cd release-1.3<br />
-  mkdir ud-documentation-v1.3<br />
-  cp -r ../docs/* ud-documentation-v1.3<br />
-  rm -rf ud-documentation-v1.3/.git* ud-documentation-v1.3/not-to-release<br />
+  mkdir -p ud-documentation-v1.3/markdown-source<br />
+  cp -r ../docs/* ud-documentation-v1.3/markdown-source<br />
+  rm -rf ud-documentation-v1.3/markdown-source/.git* ud-documentation-v1.3/markdown-source/not-to-release<br />
+  cd ..</code>
+* The surface form of documentation (i.e. the web content visible to the reader) is automatically generated in a separate Github repository. Before downloading the content of this repository, the Jekyll builder should be switched to _local_. That will hopefully make the generated pages more suitable for off-line viewing without a web server (relative addresses in hyperlinks etc.) WARNING! Many folders contain generated files `AUX.html` and `aux.html` (besides `AUX_.html` and `aux_.html`). These should _not_ be included in the package because that might prevent people from unpacking it in MS Windows (although some unpacking programs, like 7zip, will be able to overcome this by simply renaming the file to `_aux.html` before unpacking it).<br />
+  <code>git clone git@github.com:UniversalDependencies/universaldependencies.github.io.git<br />
+  cd release-1.3<br />
+  mkdir -p ud-documentation-v1.3/html<br />
+  cp -r ../universaldependencies.github.io/* ud-documentation-v1.3/html<br />
+  rm -rf ud-documentation-v1.3/html/.git* ud-documentation-v1.3/html/not-to-release<br />
   tar czf ud-documentation-v1.3.tgz ud-documentation-v1.3<br />
   cd ..</code>
-* Prepare two separate packages, the current contents of the repositories docs and tools, also without .git and .gitignore.
-  Moreover, the docs repository should be separately checked out in two branches, pages-source and gh-pages.
-  (NOTE: This has changed since UD 1.2. The generated pages are now in a separate repository, mirrored at the site universaldependencies.org.)
-  WARNING! Many subfolders of the gh-pages branch contain generated files AUX.html and aux.html (besides AUX_.html and aux_.html).
-  These should _not_ be included in the package because that might prevent people from unpacking it in MS Windows
-  (although some unpacking programs, like 7zip, will be able to overcome this by simply renaming the file to _aux.html before unpacking it).
 * Tag the current commit in all repositories with the tag of the current release (`git tag r1.3` for UD 1.3).
   Push the tag to Github: `git push origin --tags`.
   You may even tag a particular commit retroactively: `git tag -a r1.3 9fceb02`.
