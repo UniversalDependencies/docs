@@ -67,12 +67,13 @@ See [here](release_checklist.html) for the checklist for data contributors.
   cp -r ../docs/* ud-documentation-v1.3/markdown-source<br />
   rm -rf ud-documentation-v1.3/markdown-source/.git* ud-documentation-v1.3/markdown-source/not-to-release<br />
   cd ..</code>
-* The surface form of documentation (i.e. the web content visible to the reader) is automatically generated in a separate Github repository. Before downloading the content of this repository, the Jekyll builder should be switched to _local_. That will hopefully make the generated pages more suitable for off-line viewing without a web server (relative addresses in hyperlinks etc.) WARNING! Many folders contain generated files `AUX.html` and `aux.html` (besides `AUX_.html` and `aux_.html`). These should _not_ be included in the package because that might prevent people from unpacking it in MS Windows (although some unpacking programs, like 7zip, will be able to overcome this by simply renaming the file to `_aux.html` before unpacking it).<br />
+* The surface form of documentation (i.e. the web content visible to the reader) is automatically generated in a separate Github repository. WARNING! Many folders contain generated files `AUX.html` and `aux.html` (besides `AUX_.html` and `aux_.html`). These should _not_ be included in the package because that might prevent people from unpacking it in MS Windows (although some unpacking programs, like 7zip, will be able to overcome this by simply renaming the file to `_aux.html` before unpacking it). Note furthermore that we currently cannot force Jekyll (the page generator) to make all hyperlinks relative in order for the pages to work well offline. Many hyperlinks will be broken when viewing the pages, and the user will have to open individual pages from the file manager instead. However, it may still be useful to provide the HTML rendering, especially because of the embedded tree visualizations.<br />
   <code>git clone git@github.com:UniversalDependencies/universaldependencies.github.io.git<br />
   cd release-1.3<br />
   mkdir -p ud-documentation-v1.3/html<br />
   cp -r ../universaldependencies.github.io/* ud-documentation-v1.3/html<br />
   rm -rf ud-documentation-v1.3/html/.git* ud-documentation-v1.3/html/not-to-release<br />
+  rm -f ud-documentation-v1.3/html/*/*/{AUX,aux}.html<br />
   tar czf ud-documentation-v1.3.tgz ud-documentation-v1.3<br />
   cd ..</code>
 * Tag the current commit in all repositories with the tag of the current release (`git tag r1.3` for UD 1.3).
