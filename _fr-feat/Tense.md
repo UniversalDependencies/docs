@@ -4,5 +4,4 @@ title: 'Tense'
 shortdef: 'tense'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Tense`.
+`Tense` should only occur on verbs in French, with one of the four following values: Past, Pres, Fut or Imp.
