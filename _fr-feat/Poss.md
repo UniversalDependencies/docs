@@ -4,5 +4,4 @@ title: 'Poss'
 shortdef: 'possessive'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Poss`.
+`Poss` is not yet annotated for French.
