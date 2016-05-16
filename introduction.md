@@ -120,6 +120,8 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   In *Proceedings of ACL*.
   ([home page](https://code.google.com/p/uni-dep-tb/))
 
+* Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Christopher D. Manning, Ryan McDonald, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty, Daniel Zeman. 2016. Universal Dependencies v1: A Multilingual Treebank Collection. In *Proceedings of LREC*.
+
 * Slav Petrov, Dipanjan Das, and Ryan McDonald. 2012. [A universal
   part-of-speech tagset](http://www.petrovi.de/data/universal.pdf).
   In *Proceedings of LREC*.
