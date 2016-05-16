@@ -44,7 +44,8 @@ so that we can avoid problems with conflicting versions.
 
 The data is released through LINDAT/CLARIN.
 
-* Version 1.2 treebanks <a href="http://hdl.handle.net/11234/1-1548">http://hdl.handle.net/11234/1-1548</a>. Released Nov 15, 2015.
+* Version 1.3 treebanks <a href="http://hdl.handle.net/11234/1-1699">http://hdl.handle.net/11234/1-1699</a>. Released May 15, 2016.
+* Version 1.2 treebanks are archived at http://hdl.handle.net/11234/1-1548. Released Nov 15, 2015.
 * Version 1.1 treebanks are archived at http://hdl.handle.net/11234/LRT-1478. Released May 15, 2015.
 * Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. Released Jan 15, 2015.
 * The next release (v1.3) is scheduled for May 15, 2016. We intend to have regular treebank releases every six months.
