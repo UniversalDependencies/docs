@@ -9,11 +9,13 @@ permalink: lv/overview/introduction.html
 Latvian UD Treebank is based on newswire section of the Latvian Treebank. Latvian Treebank was created 2010-2014 in the University of Latvia, Institute of Mathematics and Computer Science. Latvian Treebank is annotated according to an in-house hybrid annotation model and then automatically transformed to UD.
 
 Annotations in Latvian Treebank:
+
 * POS tag - semi-automatic;
 * Lemmas - semi-automatic;
 * Syntax - fully manual;
 
 Annotations in Latvian UD Treebank:
+
 1. ID: Word index, currently no ranges used.
 2. FORM: Word form from Latvian Treebank - "words with spaces" are splitted automatically, otherwise used as-is.
 3. LEMMA: Lemma from Latvian Treebank - for "words with spaces" are splitted automatically, otherwise used as-is.
