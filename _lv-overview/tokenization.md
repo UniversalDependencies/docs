@@ -10,7 +10,7 @@ Tokenization is obtained from Latvian Treebank tokenization by splitting "words 
 
 * Whitespace always is a token boundry.
 * Numbers containing commas, periods or colons are single tokens, e.g. *13:30*, *3,14*, *1.0.1*.
-* Common abrievations are single tokens, e.g. *u.c.*, "u.tml.*, "utt.", "utjp.".
+* Common abrievations are single tokens, e.g. *u.c.*, *u.tml.*, *utt.*, *utjp.*.
 * URLs and URL-based names are single tokens, e.g. *Firmas.lv*, *http://ailab.lv/*.
 * Cardinal numbers are single tokens, e.g. *1.*, *80-tie*.
 * All other cases of punctuation forms token boundry.
