@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADV` and `AdpType` co-occurre
 
 56 [hi-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `NOUN` and `AdpType` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (54; 96%), <tt><a href="Person.html">Person</a>=3</tt> (54; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (54; 96%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (53; 95%).
+The most frequent other feature values with which `NOUN` and `AdpType` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (54; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (54; 96%), <tt><a href="Person.html">Person</a>=3</tt> (54; 96%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (53; 95%).
 
 `NOUN` tokens may have the following values of `AdpType`:
 
@@ -60,5 +60,5 @@ The 10 most frequent relations where parent and child node agree in `AdpType`:
 <tt>ADV --[<a href="../dep/case.html">case</a>]--> NOUN</tt> (6; 100%),
 <tt>ADV --[<a href="../dep/cc.html">cc</a>]--> NOUN</tt> (5; 100%),
 <tt>ADP --[<a href="../dep/case.html">case</a>]--> NOUN</tt> (4; 100%),
-<tt>ADV --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (2; 100%).
+<tt>ADP --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (2; 100%).
 

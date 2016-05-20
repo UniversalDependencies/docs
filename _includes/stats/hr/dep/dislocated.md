@@ -57,31 +57,6 @@ The following 3 pairs of parts of speech are connected with `dislocated`: [hr-po
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 1 dislocated	color:blue
-1	Ili	ili	CONJ	_	_	12	dislocated	_	_
-2	,	,	PUNCT	_	_	3	punct	_	_
-3	kazao	kazati	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	12	parataxis	_	_
-4	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	3	aux	_	_
-5	Traykov	Traykov	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-6	u	u	ADP	_	Case=Loc	7	case	_	_
-7	intervjuu	intervju	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
-8	sofijskoj	sofijski	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
-9	Novoj	nov	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	compound	_	_
-10	TV	TV	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	7	dobj	_	_
-11	,	,	PUNCT	_	_	3	punct	_	_
-12	pronaći	pronaći	VERB	_	VerbForm=Inf	0	root	_	_
-13	drugi	drugi	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
-14	put	put	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	dobj	_	_
-15	.	.	PUNCT	_	_	12	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 6	bgColor:blue
@@ -104,6 +79,31 @@ The following 3 pairs of parts of speech are connected with `dislocated`: [hr-po
 15	potencijalni	potencijalan	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
 16	distributer	distributer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nmod	_	_
 17	.	.	PUNCT	_	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 1 dislocated	color:blue
+1	Ili	ili	CONJ	_	_	12	dislocated	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	kazao	kazati	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	12	parataxis	_	_
+4	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+5	Traykov	Traykov	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	u	u	ADP	_	Case=Loc	7	case	_	_
+7	intervjuu	intervju	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
+8	sofijskoj	sofijski	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+9	Novoj	nov	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	compound	_	_
+10	TV	TV	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	7	dobj	_	_
+11	,	,	PUNCT	_	_	3	punct	_	_
+12	pronaći	pronaći	VERB	_	VerbForm=Inf	0	root	_	_
+13	drugi	drugi	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	put	put	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	dobj	_	_
+15	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

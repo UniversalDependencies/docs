@@ -73,16 +73,16 @@ The following 24 pairs of parts of speech are connected with `cc`: [la-pos/VERB]
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-22588 nodes (9%) are attached to their parents as `cc`.
+15510 nodes (5%) are attached to their parents as `cc`.
 
-13391 instances of `cc` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.50376306003188.
+9160 instances of `cc` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.17195357833656.
 
-The following 50 pairs of parts of speech are connected with `cc`: [la-pos/VERB]()-[la-pos/CONJ]() (6451; 29% instances), [la-pos/VERB]()-[la-pos/ADV]() (5877; 26% instances), [la-pos/NOUN]()-[la-pos/CONJ]() (3912; 17% instances), [la-pos/ADJ]()-[la-pos/CONJ]() (1622; 7% instances), [la-pos/NOUN]()-[la-pos/ADV]() (1005; 4% instances), [la-pos/ADJ]()-[la-pos/ADV]() (866; 4% instances), [la-pos/VERB]()-[la-pos/SCONJ]() (569; 3% instances), [la-pos/NOUN]()-[la-pos/SCONJ]() (475; 2% instances), [la-pos/PRON]()-[la-pos/CONJ]() (350; 2% instances), [la-pos/VERB]()-[la-pos/ADJ]() (226; 1% instances), [la-pos/ADV]()-[la-pos/CONJ]() (199; 1% instances), [la-pos/CONJ]()-[la-pos/CONJ]() (175; 1% instances), [la-pos/PRON]()-[la-pos/ADV]() (157; 1% instances), [la-pos/NUM]()-[la-pos/CONJ]() (144; 1% instances), [la-pos/ADJ]()-[la-pos/SCONJ]() (129; 1% instances), [la-pos/ADV]()-[la-pos/ADP]() (62; 0% instances), [la-pos/PRON]()-[la-pos/SCONJ]() (34; 0% instances), [la-pos/CONJ]()-[la-pos/ADV]() (32; 0% instances), [la-pos/NUM]()-[la-pos/ADV]() (31; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (28; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (27; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (23; 0% instances), [la-pos/VERB]()-[la-pos/ADP]() (23; 0% instances), [la-pos/X]()-[la-pos/CONJ]() (23; 0% instances), [la-pos/NOUN]()-[la-pos/ADP]() (22; 0% instances), [la-pos/ADV]()-[la-pos/ADV]() (21; 0% instances), [la-pos/DET]()-[la-pos/CONJ]() (21; 0% instances), [la-pos/PRON]()-[la-pos/ADJ]() (10; 0% instances), [la-pos/VERB]()-[la-pos/X]() (9; 0% instances), [la-pos/NOUN]()-[la-pos/PRON]() (8; 0% instances), [la-pos/PUNCT]()-[la-pos/CONJ]() (8; 0% instances), [la-pos/ADJ]()-[la-pos/ADP]() (6; 0% instances), [la-pos/ADP]()-[la-pos/CONJ]() (6; 0% instances), [la-pos/NOUN]()-[la-pos/VERB]() (6; 0% instances), [la-pos/ADV]()-[la-pos/SCONJ]() (5; 0% instances), [la-pos/NUM]()-[la-pos/SCONJ]() (4; 0% instances), [la-pos/X]()-[la-pos/ADV]() (4; 0% instances), [la-pos/DET]()-[la-pos/ADV]() (3; 0% instances), [la-pos/ADJ]()-[la-pos/PRON]() (2; 0% instances), [la-pos/AUX]()-[la-pos/CONJ]() (2; 0% instances), [la-pos/VERB]()-[la-pos/VERB]() (2; 0% instances), [la-pos/ADV]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/CONJ]()-[la-pos/VERB]() (1; 0% instances), [la-pos/DET]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (1; 0% instances), [la-pos/PRON]()-[la-pos/ADP]() (1; 0% instances), [la-pos/PUNCT]()-[la-pos/ADV]() (1; 0% instances), [la-pos/SCONJ]()-[la-pos/ADV]() (1; 0% instances), [la-pos/VERB]()-[la-pos/NOUN]() (1; 0% instances).
+The following 40 pairs of parts of speech are connected with `cc`: [la-pos/VERB]()-[la-pos/CONJ]() (6660; 43% instances), [la-pos/NOUN]()-[la-pos/CONJ]() (4505; 29% instances), [la-pos/ADJ]()-[la-pos/CONJ]() (1790; 12% instances), [la-pos/PRON]()-[la-pos/CONJ]() (563; 4% instances), [la-pos/VERB]()-[la-pos/ADV]() (538; 3% instances), [la-pos/ADV]()-[la-pos/CONJ]() (479; 3% instances), [la-pos/NOUN]()-[la-pos/ADV]() (338; 2% instances), [la-pos/NUM]()-[la-pos/CONJ]() (152; 1% instances), [la-pos/PROPN]()-[la-pos/CONJ]() (138; 1% instances), [la-pos/ADJ]()-[la-pos/ADV]() (116; 1% instances), [la-pos/PRON]()-[la-pos/ADV]() (48; 0% instances), [la-pos/X]()-[la-pos/CONJ]() (30; 0% instances), [la-pos/ADV]()-[la-pos/ADV]() (20; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (19; 0% instances), [la-pos/PROPN]()-[la-pos/ADV]() (18; 0% instances), [la-pos/DET]()-[la-pos/CONJ]() (12; 0% instances), [la-pos/CONJ]()-[la-pos/CONJ]() (11; 0% instances), [la-pos/VERB]()-[la-pos/SCONJ]() (10; 0% instances), [la-pos/NOUN]()-[la-pos/PRON]() (7; 0% instances), [la-pos/CONJ]()-[la-pos/ADV]() (6; 0% instances), [la-pos/ADP]()-[la-pos/CONJ]() (5; 0% instances), [la-pos/PRON]()-[la-pos/ADJ]() (5; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (5; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/NUM]()-[la-pos/ADV]() (4; 0% instances), [la-pos/NOUN]()-[la-pos/SCONJ]() (3; 0% instances), [la-pos/NOUN]()-[la-pos/VERB]() (3; 0% instances), [la-pos/PUNCT]()-[la-pos/CONJ]() (3; 0% instances), [la-pos/AUX]()-[la-pos/CONJ]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (2; 0% instances), [la-pos/PRON]()-[la-pos/SCONJ]() (2; 0% instances), [la-pos/PRON]()-[la-pos/VERB]() (2; 0% instances), [la-pos/VERB]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/ADP]()-[la-pos/ADV]() (1; 0% instances), [la-pos/DET]()-[la-pos/ADV]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/VERB]()-[la-pos/X]() (1; 0% instances), [la-pos/X]()-[la-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -91,14 +91,35 @@ The following 50 pairs of parts of speech are connected with `cc`: [la-pos/VERB]
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 cc	color:blue
-1	et	et	CONJ	O4	_	7	cc	_	_
-2	in	in	ADP	S4	AdpType=Prep	3	case	_	_
-3	hoc	hic	PRON	F1|grn1|casF|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	7	nmod	_	_
-4	ipso	ipse	PRON	F1|grn1|casF|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem,Prs	3	nmod	_	_
-5	intellectus	intellectus	NOUN	D1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
-6	voluntatem	voluntas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	dobj	_	_
-7	praecedit	praecedo	VERB	L3|modA|tem1|gen6|vgr1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-8	:	:	PUNCT	Punc	_	7	punct	_	_
+1	et	et	CONJ	O4|stRL	_	7	cc	_	_
+2	circa	circa	ADP	S4|stRL	AdpType=Prep	4	case	_	_
+3	eius	is	PRON	F1|grn1|casB|gen2|vgr2|stPV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem,Prs	4	nmod	_	_
+4	considerationem	consideratio	NOUN	C1|grn1|casD|gen2|vgr1|stAC	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nmod	_	_
+5	principaliter	principalis	ADJ	C1|grn1|casG|stAN	Case=Loc|Degree=Pos|Number=Sing	7	advmod	_	_
+6	sapientiam	sapientia	NOUN	A1|grn1|casD|gen2|vgr1|stAC	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	insistere	insisto	VERB	L3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+8	.	.	PUNCT	Punc	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 cc	color:blue
+1	prope	prope	ADP	S4|stRL	AdpType=Prep	2	advmod	_	_
+2	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	verbum	verbum	NOUN	B1|grn1|casA|gen3|vgr1|stAE	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	nsubj	_	_
+4	in	in	ADP	S4|stRL	AdpType=Prep	5	case	_	_
+5	corde	cor	NOUN	C1|grn1|casF|gen3|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	2	nmod	_	_
+6	tuo	tuus	DET	B1|grn1|casF|gen3|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	_
+7	et	et	CONJ	O4|stRL	_	5	cc	_	_
+8	in	in	ADP	S4|stRL	AdpType=Prep	9	case	_	_
+9	ore	os	NOUN	C1|grn1|casF|gen3|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	5	conj	_	_
+10	tuo	tuus	DET	B1|grn1|casF|gen3|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	_
+11	:	:	PUNCT	Punc	_	2	punct	_	_
 
 ~~~
 
@@ -109,33 +130,15 @@ The following 50 pairs of parts of speech are connected with `cc`: [la-pos/VERB]
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cc	color:blue
-1	unde	unde	ADV	O4	_	2	cc	_	_
-2	apparet	appareo	VERB	K3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	intellectum	intellectus	NOUN	D1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	nsubj	_	_
-4	simpliciter	simplex	ADJ	C1|grn1|casG	Case=Loc|Degree=Pos|Number=Sing	6	advmod	_	_
-5	esse	sum	VERB	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	6	cop	_	_
-6	altiorem	altus	NOUN	C1|grn2|casD|gen1	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	2	csubj	_	_
-7	voluntate	voluntas	NOUN	C1|grn1|casF|gen2|vgr1	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	6	nmod	_	_
-8	:	:	PUNCT	Punc	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 cc	color:blue
-1	voluntatem	voluntas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
-2	vero	verus	ADJ	B1|grn1|casG|vgr1	Case=Loc|Degree=Pos|Number=Sing	1	dep	_	_
-3	intellectu	intellectus	NOUN	D1|grn1|casF|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	1	dep	_	_
-4	per	per	ADP	S4	AdpType=Prep	5	case	_	_
-5	accidens	accidens	NOUN	C1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	dep	_	_
-6	et	et	CONJ	O4	_	1	cc	_	_
-7	secundum	secundum	ADP	S4	AdpType=Prep	8	case	_	_
-8	quid	quis	PRON	F1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind,Int	6	dep	_	_
-9	.	.	PUNCT	Punc	_	1	punct	_	_
+1	et	et	CONJ	O4|stRL	_	2	cc	_	_
+2	simile	similis	ADJ	C1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+3	apparet	appareo	VERB	K3|modA|tem1|gen6|stAC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	in	in	ADP	S4|stRL	AdpType=Prep	5	case	_	_
+5	arte	ars	NOUN	C1|grn1|casF|gen2|stAE	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	2	nmod	_	_
+6	gubernatoria	gubernatorius	ADJ	A1|grn1|casF|gen2|stAN	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+7	respectu	respectus	NOUN	D1|grn1|casF|gen1|stAC	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	2	nmod	_	_
+8	navifactivae	navifactivus	ADJ	A1|grn1|casB|gen2|vgr1|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+9	;	;	PUNCT	Punc	_	2	punct	_	_
 
 ~~~
 

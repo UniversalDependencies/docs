@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-2810 nodes (1%) are attached to their parents as `advcl`.
+2956 nodes (1%) are attached to their parents as `advcl`.
 
-2111 instances of `advcl` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.1711743772242.
+2226 instances of `advcl` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.35385656292287.
 
-The following 31 pairs of parts of speech are connected with `advcl`: [pt-pos/VERB]()-[pt-pos/VERB]() (2140; 76% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (215; 8% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (122; 4% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (108; 4% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (48; 2% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (46; 2% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (23; 1% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (21; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (10; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (10; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (9; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (7; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (7; 0% instances), [pt-pos/CONJ]()-[pt-pos/VERB]() (6; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (5; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `advcl`: [pt-pos/VERB]()-[pt-pos/VERB]() (2236; 76% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (230; 8% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (124; 4% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (117; 4% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (53; 2% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (51; 2% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (22; 1% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (22; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (11; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (11; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (11; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (9; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (8; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (7; 0% instances), [pt-pos/CONJ]()-[pt-pos/VERB]() (6; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (6; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (5; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (5; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,16 +54,16 @@ The following 31 pairs of parts of speech are connected with `advcl`: [pt-pos/VE
 # visual-style 6	fgColor:white
 # visual-style 6 8 advcl	color:blue
 1	A	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	energia	energia	NOUN	n|F|S	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	energia	energia	NOUN	n|F|S	Gender=Fem|Number=Sing	5	nsubjpass	_	_
 3	nuclear	nuclear	ADJ	adj|F|S	Gender=Fem|Number=Sing	2	amod	_	_
-4	é	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	usada	usar	VERB	v-pcp|F|S	Gender=Fem|Number=Sing|VerbForm=Part	4	ccomp	_	_
+4	é	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	auxpass	_	_
+5	usada	usar	VERB	v-pcp|F|S	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 6	só	só	ADV	adv	_	5	advmod	_	_
 7	para	para	ADP	prp	AdpType=Prep	6	case	_	_
 8	movimentar	movimentar	VERB	v-inf	VerbForm=Inf	6	advcl	_	_
 9	a	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	embarcação	embarcação	NOUN	n|F|S	Gender=Fem|Number=Sing	8	dobj	_	_
-11	.	.	PUNCT	punc	_	4	punct	_	_
+11	.	.	PUNCT	punc	_	5	punct	_	_
 
 ~~~
 

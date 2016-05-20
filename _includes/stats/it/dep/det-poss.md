@@ -21,12 +21,12 @@ The following 5 pairs of parts of speech are connected with `det:poss`: [it-pos/
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 det:poss	color:blue
-1	"	"	PUNCT	FB	_	5	punct	_	_
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
 2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Pivetti	Pivetti	PROPN	SP	_	5	nsubj	_	_
 4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-6	benissimo	bene	ADV	B	Degree=Abs	5	advmod	_	_
+6	benissimo	bene	ADV	B	Degree=Abs	5	advmod	_	PRED
 7	a	a	ADP	E	_	8	mark	_	_
 8	decidere	decidere	VERB	V	VerbForm=Inf	5	xcomp	_	_
 9	di	di	ADP	E	_	10	case	_	_

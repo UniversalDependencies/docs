@@ -81,64 +81,55 @@ The following 43 pairs of parts of speech are connected with `advmod`: [fi-pos/V
 
 This relation is universal.
 
-14531 nodes (9%) are attached to their parents as `advmod`.
+14553 nodes (9%) are attached to their parents as `advmod`.
 
-8888 instances of `advmod` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72775445599064.
+8936 instances of `advmod` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.72610458324744.
 
-The following 22 pairs of parts of speech are connected with `advmod`: [fi-pos/VERB]()-[fi-pos/ADV]() (9560; 66% instances), [fi-pos/NOUN]()-[fi-pos/ADV]() (1598; 11% instances), [fi-pos/ADJ]()-[fi-pos/ADV]() (1484; 10% instances), [fi-pos/ADV]()-[fi-pos/ADV]() (855; 6% instances), [fi-pos/NUM]()-[fi-pos/ADV]() (348; 2% instances), [fi-pos/PRON]()-[fi-pos/ADV]() (256; 2% instances), [fi-pos/PROPN]()-[fi-pos/ADV]() (146; 1% instances), [fi-pos/DET]()-[fi-pos/ADV]() (102; 1% instances), [fi-pos/VERB]()-[fi-pos/PRON]() (95; 1% instances), [fi-pos/ADP]()-[fi-pos/ADV]() (33; 0% instances), [fi-pos/VERB]()-[fi-pos/CONJ]() (18; 0% instances), [fi-pos/SCONJ]()-[fi-pos/ADV]() (8; 0% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (7; 0% instances), [fi-pos/INTJ]()-[fi-pos/ADV]() (6; 0% instances), [fi-pos/X]()-[fi-pos/ADV]() (5; 0% instances), [fi-pos/NOUN]()-[fi-pos/CONJ]() (4; 0% instances), [fi-pos/ADJ]()-[fi-pos/PRON]() (1; 0% instances), [fi-pos/ADV]()-[fi-pos/INTJ]() (1; 0% instances), [fi-pos/NOUN]()-[fi-pos/INTJ]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/CONJ]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/PRON]() (1; 0% instances), [fi-pos/PUNCT]()-[fi-pos/ADV]() (1; 0% instances).
+The following 47 pairs of parts of speech are connected with `advmod`: [fi-pos/VERB]()-[fi-pos/ADV]() (7129; 49% instances), [fi-pos/VERB]()-[fi-pos/PART]() (2324; 16% instances), [fi-pos/NOUN]()-[fi-pos/PART]() (834; 6% instances), [fi-pos/ADJ]()-[fi-pos/PART]() (820; 6% instances), [fi-pos/NOUN]()-[fi-pos/ADV]() (794; 5% instances), [fi-pos/ADJ]()-[fi-pos/ADV]() (715; 5% instances), [fi-pos/ADV]()-[fi-pos/PART]() (500; 3% instances), [fi-pos/ADV]()-[fi-pos/ADV]() (326; 2% instances), [fi-pos/NUM]()-[fi-pos/PART]() (238; 2% instances), [fi-pos/PRON]()-[fi-pos/PART]() (169; 1% instances), [fi-pos/VERB]()-[fi-pos/PRON]() (101; 1% instances), [fi-pos/NUM]()-[fi-pos/ADV]() (91; 1% instances), [fi-pos/PRON]()-[fi-pos/ADV]() (89; 1% instances), [fi-pos/DET]()-[fi-pos/PART]() (85; 1% instances), [fi-pos/PROPN]()-[fi-pos/PART]() (81; 1% instances), [fi-pos/PROPN]()-[fi-pos/ADV]() (65; 0% instances), [fi-pos/ADP]()-[fi-pos/ADV]() (23; 0% instances), [fi-pos/DET]()-[fi-pos/ADV]() (23; 0% instances), [fi-pos/VERB]()-[fi-pos/SCONJ]() (20; 0% instances), [fi-pos/PART]()-[fi-pos/PART]() (18; 0% instances), [fi-pos/VERB]()-[fi-pos/CONJ]() (18; 0% instances), [fi-pos/VERB]()-[fi-pos/NOUN]() (13; 0% instances), [fi-pos/PART]()-[fi-pos/ADV]() (11; 0% instances), [fi-pos/ADP]()-[fi-pos/PART]() (10; 0% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (7; 0% instances), [fi-pos/SCONJ]()-[fi-pos/PART]() (5; 0% instances), [fi-pos/X]()-[fi-pos/X]() (5; 0% instances), [fi-pos/NOUN]()-[fi-pos/CONJ]() (4; 0% instances), [fi-pos/VERB]()-[fi-pos/VERB]() (4; 0% instances), [fi-pos/X]()-[fi-pos/ADV]() (4; 0% instances), [fi-pos/INTJ]()-[fi-pos/PART]() (3; 0% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (3; 0% instances), [fi-pos/NOUN]()-[fi-pos/VERB]() (3; 0% instances), [fi-pos/INTJ]()-[fi-pos/ADV]() (2; 0% instances), [fi-pos/NOUN]()-[fi-pos/SCONJ]() (2; 0% instances), [fi-pos/PRON]()-[fi-pos/VERB]() (2; 0% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (2; 0% instances), [fi-pos/ADJ]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/ADJ]()-[fi-pos/PRON]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/CONJ]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/PRON]() (1; 0% instances), [fi-pos/PROPN]()-[fi-pos/PRON]() (1; 0% instances), [fi-pos/PUNCT]()-[fi-pos/ADV]() (1; 0% instances), [fi-pos/SCONJ]()-[fi-pos/ADV]() (1; 0% instances), [fi-pos/VERB]()-[fi-pos/NUM]() (1; 0% instances), [fi-pos/VERB]()-[fi-pos/X]() (1; 0% instances), [fi-pos/X]()-[fi-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 advmod	color:blue
-1	Dora	dora	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	4	nsubj	_	_
-2	puolestaan	puolestaan	ADV	Pcle	_	4	advmod	_	_
-3	ei	ei	VERB	V,Neg,Act,Sg3	Negative=Neg|Number=Sing|Person=3|Voice=Act	4	neg	_	_
-4	huolestunut	huolestua	VERB	V,Act,Ind,Past,Sg,ConNeg	Conneg=Yes|Mood=Ind|Number=Sing|Tense=Past|Voice=Act	0	root	_	_
-5	.	.	PUNCT	Pun	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advmod	color:blue
+1	eivät	ei	VERB	V,Neg,Act,Pl3	Negative=Neg|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	3	neg	_	_
+2	ennee	ennen	ADV	Adv	Style=Coll	3	advmod	_	_
+3	keittäneet	keittää	VERB	V,Act,Ind,Past,Pl,ConNeg	Connegative=Yes|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 advmod	color:blue
-1	Saulista	sauli	PROPN	N,Prop,Sg,Ela	Case=Ela|Number=Sing	2	nmod	_	_
-2	huomattiin	huomata	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|Voice=Pass	0	root	_	_
-3	jo	jo	ADV	Pcle	_	4	advmod	_	_
-4	lapsena	lapsi	NOUN	N,Sg,Ess	Case=Ess|Number=Sing	2	nmod	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	_
-6	että	että	SCONJ	Pcle,CS	_	8	mark	_	_
-7	hänellä	hän	PRON	Pron,Pers,Sg3,Ade	Case=Ade|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-8	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	ccomp	_	_
-9	lahjoja	lahja	NOUN	N,Pl,Par	Case=Par|Number=Plur	8	dobj	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 advmod	color:blue
+1	ei	ei	VERB	V,Neg,Act,Sg3	Negative=Neg|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	neg	_	_
+2	voi	voida	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	ajatellakhaa	ajatella	VERB	V,Act,InfA,Lat,Kaan	Case=Lat|Clitic=Kaan|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	0	root	_	_
+4	varhmaan	varmaan	PART	Pcle	Style=Coll	3	advmod	_	_
+5	että	että	SCONJ	Pcle,CS	_	9	mark	_	_
+6	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	9	nsubj:cop	_	_
+7	ikinä	ikinä	ADV	Adv	_	9	advmod	_	_
+8	olis	olla	VERB	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|Style=Coll|VerbForm=Fin|Voice=Act	9	cop	_	_
+9	vakinaisia	vakinainen	ADJ	A,Pl,Par	Case=Par|Number=Plur	3	ccomp	_	_
 10	.	.	PUNCT	Pun	_	9	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 advmod	color:blue
-1	Buckler	buckler	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	3	nsubj	_	_
-2	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	_
-3	vaalea	vaalea	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
-4	,	,	PUNCT	Pun	_	3	punct	_	FTB-rel=phrm
-5	makeahko	makeahko	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	3	conj	_	_
-6	,	,	PUNCT	Pun	_	3	punct	_	FTB-rel=phrm
-7	lievästi	lievästi	ADV	Adv	_	8	advmod	_	_
-8	vierremäinen	vierremäinen	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	3	conj	_	_
-9	.	.	PUNCT	Pun	_	8	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod	color:blue
+1	vieläk	vielä	PART	Pcle	Style=Coll	2	advmod	_	_
+2	kilometrin	kilometri	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	0	root	_	_
 
 ~~~
 

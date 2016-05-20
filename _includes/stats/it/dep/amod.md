@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-14679 nodes (5%) are attached to their parents as `amod`.
+14684 nodes (5%) are attached to their parents as `amod`.
 
-9999 instances of `amod` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.27154438313237.
+9998 instances of `amod` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26995369109235.
 
-The following 12 pairs of parts of speech are connected with `amod`: [it-pos/NOUN]()-[it-pos/ADJ]() (13869; 94% instances), [it-pos/PROPN]()-[it-pos/ADJ]() (407; 3% instances), [it-pos/VERB]()-[it-pos/ADJ]() (160; 1% instances), [it-pos/PRON]()-[it-pos/ADJ]() (141; 1% instances), [it-pos/ADJ]()-[it-pos/ADJ]() (62; 0% instances), [it-pos/NUM]()-[it-pos/ADJ]() (21; 0% instances), [it-pos/ADV]()-[it-pos/ADJ]() (9; 0% instances), [it-pos/SYM]()-[it-pos/ADJ]() (4; 0% instances), [it-pos/X]()-[it-pos/ADJ]() (3; 0% instances), [it-pos/ADP]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/CONJ]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/PUNCT]()-[it-pos/ADJ]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `amod`: [it-pos/NOUN]()-[it-pos/ADJ]() (13871; 94% instances), [it-pos/PROPN]()-[it-pos/ADJ]() (410; 3% instances), [it-pos/VERB]()-[it-pos/ADJ]() (158; 1% instances), [it-pos/PRON]()-[it-pos/ADJ]() (143; 1% instances), [it-pos/ADJ]()-[it-pos/ADJ]() (61; 0% instances), [it-pos/NUM]()-[it-pos/ADJ]() (21; 0% instances), [it-pos/ADV]()-[it-pos/ADJ]() (10; 0% instances), [it-pos/SYM]()-[it-pos/ADJ]() (4; 0% instances), [it-pos/X]()-[it-pos/ADJ]() (3; 0% instances), [it-pos/ADP]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/CONJ]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/PUNCT]()-[it-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,7 +20,7 @@ The following 12 pairs of parts of speech are connected with `amod`: [it-pos/NOU
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 amod	color:blue
-1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur	3	det:predet	_	_
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Predet	3	det:predet	_	_
 2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	esseri	essere	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
 4	umani	umano	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_

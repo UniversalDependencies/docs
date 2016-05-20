@@ -16,7 +16,7 @@ The feature is used with 6 part-of-speech tags: [ga-pos/NOUN]() (766; 3% instanc
 
 766 [ga-pos/NOUN]() tokens (12% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (766; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (766; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (766; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (746; 97%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (446; 58%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (766; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (766; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (766; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (746; 97%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (446; 58%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 149 [ga-pos/ADJ]() tokens (13% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (149; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (149; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (149; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (149; 100%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (149; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (149; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (149; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (149; 100%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 

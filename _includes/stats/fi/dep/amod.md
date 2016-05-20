@@ -9,7 +9,7 @@ This relation is universal.
 8865 nodes (5%) are attached to their parents as `amod`.
 
 8853 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2595600676819.
+Average distance between parent and child is 1.25956006768189.
 
 The following 26 pairs of parts of speech are connected with `amod`: [fi-pos/NOUN]()-[fi-pos/ADJ]() (8338; 94% instances), [fi-pos/ADJ]()-[fi-pos/ADJ]() (205; 2% instances), [fi-pos/PROPN]()-[fi-pos/ADJ]() (164; 2% instances), [fi-pos/NOUN]()-[fi-pos/VERB]() (29; 0% instances), [fi-pos/ADV]()-[fi-pos/ADJ]() (22; 0% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (19; 0% instances), [fi-pos/X]()-[fi-pos/ADJ]() (17; 0% instances), [fi-pos/NUM]()-[fi-pos/ADJ]() (12; 0% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (12; 0% instances), [fi-pos/NOUN]()-[fi-pos/ADV]() (10; 0% instances), [fi-pos/PRON]()-[fi-pos/ADJ]() (8; 0% instances), [fi-pos/ADV]()-[fi-pos/ADV]() (5; 0% instances), [fi-pos/ADJ]()-[fi-pos/ADV]() (4; 0% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (4; 0% instances), [fi-pos/NOUN]()-[fi-pos/PROPN]() (2; 0% instances), [fi-pos/NOUN]()-[fi-pos/X]() (2; 0% instances), [fi-pos/PROPN]()-[fi-pos/PROPN]() (2; 0% instances), [fi-pos/SYM]()-[fi-pos/ADJ]() (2; 0% instances), [fi-pos/ADJ]()-[fi-pos/VERB]() (1; 0% instances), [fi-pos/ADP]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/INTJ]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/NOUN]()-[fi-pos/NUM]() (1; 0% instances), [fi-pos/NOUN]()-[fi-pos/SYM]() (1; 0% instances), [fi-pos/NUM]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/ADV]() (1; 0% instances), [fi-pos/PROPN]()-[fi-pos/ADV]() (1; 0% instances).
 
@@ -76,12 +76,27 @@ The following 26 pairs of parts of speech are connected with `amod`: [fi-pos/NOU
 
 This relation is universal.
 
-7879 nodes (5%) are attached to their parents as `amod`.
+6894 nodes (4%) are attached to their parents as `amod`.
 
-7785 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18111435461353.
+6793 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17130838410212.
 
-The following 19 pairs of parts of speech are connected with `amod`: [fi-pos/NOUN]()-[fi-pos/ADJ]() (5830; 74% instances), [fi-pos/NOUN]()-[fi-pos/VERB]() (1108; 14% instances), [fi-pos/ADJ]()-[fi-pos/ADJ]() (467; 6% instances), [fi-pos/PROPN]()-[fi-pos/ADJ]() (130; 2% instances), [fi-pos/ADV]()-[fi-pos/ADJ]() (79; 1% instances), [fi-pos/PROPN]()-[fi-pos/VERB]() (70; 1% instances), [fi-pos/NUM]()-[fi-pos/ADJ]() (61; 1% instances), [fi-pos/ADJ]()-[fi-pos/VERB]() (40; 1% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (35; 0% instances), [fi-pos/PRON]()-[fi-pos/ADJ]() (31; 0% instances), [fi-pos/NUM]()-[fi-pos/VERB]() (7; 0% instances), [fi-pos/X]()-[fi-pos/ADJ]() (7; 0% instances), [fi-pos/VERB]()-[fi-pos/VERB]() (4; 0% instances), [fi-pos/ADV]()-[fi-pos/VERB]() (2; 0% instances), [fi-pos/DET]()-[fi-pos/ADJ]() (2; 0% instances), [fi-pos/INTJ]()-[fi-pos/ADJ]() (2; 0% instances), [fi-pos/X]()-[fi-pos/VERB]() (2; 0% instances), [fi-pos/ADP]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `amod`: [fi-pos/NOUN]()-[fi-pos/ADJ]() (5813; 84% instances), [fi-pos/ADJ]()-[fi-pos/ADJ]() (454; 7% instances), [fi-pos/NOUN]()-[fi-pos/DET]() (204; 3% instances), [fi-pos/PROPN]()-[fi-pos/ADJ]() (137; 2% instances), [fi-pos/ADV]()-[fi-pos/ADJ]() (79; 1% instances), [fi-pos/NUM]()-[fi-pos/ADJ]() (72; 1% instances), [fi-pos/PRON]()-[fi-pos/ADJ]() (32; 0% instances), [fi-pos/ADJ]()-[fi-pos/DET]() (31; 0% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (25; 0% instances), [fi-pos/X]()-[fi-pos/X]() (21; 0% instances), [fi-pos/X]()-[fi-pos/ADJ]() (6; 0% instances), [fi-pos/PROPN]()-[fi-pos/X]() (5; 0% instances), [fi-pos/DET]()-[fi-pos/ADJ]() (4; 0% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (2; 0% instances), [fi-pos/NOUN]()-[fi-pos/PROPN]() (2; 0% instances), [fi-pos/PART]()-[fi-pos/ADJ]() (2; 0% instances), [fi-pos/ADP]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/NOUN]()-[fi-pos/NUM]() (1; 0% instances), [fi-pos/NUM]()-[fi-pos/DET]() (1; 0% instances), [fi-pos/PROPN]()-[fi-pos/DET]() (1; 0% instances), [fi-pos/VERB]()-[fi-pos/DET]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 amod	color:blue
+1	aurinko	aurinko	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nsubj	_	_
+2	armas	armas	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	1	amod	_	_
+3	,	,	PUNCT	Pun	_	2	punct	_	_
+4	kuivas	kuivata	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	satehen	sade	NOUN	N,Sg,Gen	Case=Gen|Number=Sing|Style=Coll	4	dobj	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -90,42 +105,29 @@ The following 19 pairs of parts of speech are connected with `amod`: [fi-pos/NOU
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 amod	color:blue
-1	Kuoron	kuoro	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	2	nmod	_	_
-2	polyfonia	polyfonia	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	3	nsubj	_	_
-3	piirtyy	piirtyä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-4	äärimmäisen	äärimmäinen	ADJ	A,Sg,Gen	Case=Gen|Number=Sing	5	amod	_	_
-5	tarkoin	tarkka	ADJ	A,Pl,Ins	Case=Ins|Number=Plur	6	amod	_	_
-6	ääriviivoin	ääriviiva	NOUN	N,Pl,Ins	Case=Ins|Number=Plur	3	nmod	_	_
+1	Vanhojen	vanha	ADJ	A,Pl,Gen	Case=Gen|Number=Plur	2	amod	_	_
+2	dna-näytteiden	dna-näyte	NOUN	N,Pl,Gen	Case=Gen|Number=Plur	3	dobj	_	_
+3	käsittely	käsittely	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	6	nsubj:cop	_	_
+4	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	äärimmäisen	äärimmäinen	ADJ	A,Sg,Gen	Case=Gen|Number=Sing	6	amod	_	_
+6	vaikeata	vaikea	ADJ	A,Sg,Par	Case=Par|Number=Sing	0	root	_	_
 7	.	.	PUNCT	Pun	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 amod	color:blue
-1	nukahtamaisillaan	nukahtaa	VERB	V,Act,InfMaisilla,Px3	Person[psor]=3|VerbForm=Inf|Voice=Act	2	advcl	_	FTB1-InfForm=Maisilla
-2	oleva	olla	VERB	V,Act,PcpVa,Sg,Nom	Case=Nom|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
-3	kuski	kuski	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 amod	color:blue
-1	Kuoron	kuoro	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	2	nmod	_	_
-2	polyfonia	polyfonia	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	3	nsubj	_	_
-3	piirtyy	piirtyä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-4	äärimmäisen	äärimmäinen	ADJ	A,Sg,Gen	Case=Gen|Number=Sing	5	amod	_	_
-5	tarkoin	tarkka	ADJ	A,Pl,Ins	Case=Ins|Number=Plur	6	amod	_	_
-6	ääriviivoin	ääriviiva	NOUN	N,Pl,Ins	Case=Ins|Number=Plur	3	nmod	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 amod	color:blue
+1	noo	noo	INTJ	Pcle,Interj	_	6	discourse	_	Alt=6_discourse
+2	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	6	nsubj:cop	_	_
+3	o	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+4	jottais	jokin	DET	Pron,Qnt,Sg,Par	Case=Par|Number=Sing|PronType=Ind|Style=Coll	6	det	_	_
+5	semssi	semmoinen	DET	A,Dem,Pl,Par	Case=Par|Number=Plur|PronType=Dem|Style=Coll	6	amod	_	Alt=DET
+6	sukulaissi	sukulainen	NOUN	N,Pl,Par	Case=Par|Number=Plur|Style=Coll	0	root	_	_
 7	.	.	PUNCT	Pun	_	6	punct	_	_
 
 ~~~

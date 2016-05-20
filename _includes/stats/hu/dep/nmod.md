@@ -7,12 +7,12 @@
 This relation is universal.
 There are 4 language-specific subtypes of `nmod`: [nmod:att](), [nmod:attlvc](), [nmod:obl](), [nmod:obllvc]().
 
-421 nodes (2%) are attached to their parents as `nmod`.
+890 nodes (2%) are attached to their parents as `nmod`.
 
-344 instances of `nmod` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.31828978622328.
+753 instances of `nmod` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.06741573033708.
 
-The following 19 pairs of parts of speech are connected with `nmod`: [hu-pos/VERB]()-[hu-pos/NOUN]() (264; 63% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (54; 13% instances), [hu-pos/VERB]()-[hu-pos/PROPN]() (23; 5% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (18; 4% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (14; 3% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (11; 3% instances), [hu-pos/VERB]()-[hu-pos/DET]() (6; 1% instances), [hu-pos/NOUN]()-[hu-pos/PROPN]() (5; 1% instances), [hu-pos/ADV]()-[hu-pos/NOUN]() (4; 1% instances), [hu-pos/NOUN]()-[hu-pos/DET]() (4; 1% instances), [hu-pos/NOUN]()-[hu-pos/PRON]() (4; 1% instances), [hu-pos/PRON]()-[hu-pos/PROPN]() (3; 1% instances), [hu-pos/VERB]()-[hu-pos/NUM]() (3; 1% instances), [hu-pos/NOUN]()-[hu-pos/NUM]() (2; 0% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (2; 0% instances), [hu-pos/ADJ]()-[hu-pos/PRON]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/PRON]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/VERB]() (1; 0% instances), [hu-pos/X]()-[hu-pos/X]() (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `nmod`: [hu-pos/VERB]()-[hu-pos/NOUN]() (461; 52% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (112; 13% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (86; 10% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (30; 3% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (29; 3% instances), [hu-pos/VERB]()-[hu-pos/PROPN]() (29; 3% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (28; 3% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (25; 3% instances), [hu-pos/VERB]()-[hu-pos/NUM]() (13; 1% instances), [hu-pos/ADJ]()-[hu-pos/PRON]() (10; 1% instances), [hu-pos/ADV]()-[hu-pos/NOUN]() (10; 1% instances), [hu-pos/NOUN]()-[hu-pos/PRON]() (8; 1% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (7; 1% instances), [hu-pos/NOUN]()-[hu-pos/PROPN]() (7; 1% instances), [hu-pos/VERB]()-[hu-pos/DET]() (6; 1% instances), [hu-pos/NOUN]()-[hu-pos/DET]() (4; 0% instances), [hu-pos/NUM]()-[hu-pos/NOUN]() (4; 0% instances), [hu-pos/ADJ]()-[hu-pos/NUM]() (3; 0% instances), [hu-pos/PRON]()-[hu-pos/PROPN]() (3; 0% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (2; 0% instances), [hu-pos/NOUN]()-[hu-pos/NUM]() (2; 0% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (2; 0% instances), [hu-pos/ADV]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/NUM]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/PRON]() (1; 0% instances), [hu-pos/PRON]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/PRON]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/PROPN]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/VERB]() (1; 0% instances), [hu-pos/X]()-[hu-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,26 +57,25 @@ The following 19 pairs of parts of speech are connected with `nmod`: [hu-pos/VER
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 nmod	color:blue
-1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	Valencia	Valencia	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	nmod	_	_
-3	ellen	ellen	ADP	_	_	2	case	_	_
-4	jobban	jól	ADV	_	_	6	advmod:mode	_	_
-5	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-6	koncentrálunk	koncentrál	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	xcomp	_	_
-7	,	,	PUNCT	_	_	5	punct	_	_
-8	s	s	CONJ	_	_	5	cc	_	_
-9	akkor	akkor	ADV	_	PronType=Dem	11	advmod:tlocy	_	_
-10	nem	nem	ADV	_	PronType=Neg	11	neg	_	_
-11	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
-12	semmi	semmi	DET	_	Definite=Ind|PronType=Neg	13	det	_	_
-13	probléma	probléma	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	11	nsubj	_	_
-14	.	.	PUNCT	_	_	5	punct	_	_
-15	"	"	PUNCT	_	_	5	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 nmod	color:blue
+1	Ha	ha	SCONJ	_	_	4	mark	_	_
+2	nem	nem	ADV	_	PronType=Neg	4	neg	_	_
+3	is	is	ADV	_	_	4	advmod:mode	_	_
+4	szűnt	szűnik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+5	meg	meg	PART	_	_	4	compound:preverb	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	de	de	CONJ	_	_	9	cc	_	_
+8	látványosan	látványos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	9	nmod	_	_
+9	apadt	apad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	a	a	DET	_	Definite=Def|PronType=Art	12	det	_	_
+11	költségvetési	költségvetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	amod:att	_	_
+12	hiány	hiány	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+13	is	is	CONJ	_	_	9	cc	_	_
+14	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

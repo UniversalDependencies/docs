@@ -122,7 +122,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>kojih</em></td><td><em>kojih</em></td><td><em>kojih</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing</tt></td><td><em>kojim</em></td><td><em>kojom</em></td><td><em>kojim</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Plur</tt></td><td><em>kojima</em></td><td><em>kojima</em></td><td><em>kojima</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>kojem, kom, kojemu</em></td><td><em>kojoj</em></td><td><em>kojem, kojemu</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>kojem, kojemu, kom</em></td><td><em>kojoj</em></td><td><em>kojem, kojemu</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>kojima</em></td><td><em>kojima</em></td><td><em>kojima</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><em>koji</em></td><td><em>koja</em></td><td><em>koje</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>koji</em></td><td><em>koje</em></td><td><em>koja</em></td></tr>
@@ -132,7 +132,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 3139 [hr-pos/VERB]() tokens (43% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3139; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3139; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3139; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2402; 77%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3139; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3139; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3139; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2402; 77%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 309 [hr-pos/AUX]() tokens (5% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (309; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (309; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (309; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (258; 83%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (309; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (309; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (309; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (258; 83%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -205,5 +205,5 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<a href="../dep/det.html">det</a>]--> PRON</tt> (615; 99%),
 <tt>NOUN --[<a href="../dep/compound.html">compound</a>]--> ADJ</tt> (496; 99%),
 <tt>ADJ --[<a href="../dep/nsubjpass.html">nsubjpass</a>]--> NOUN</tt> (364; 89%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (345; 71%).
+<tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> ADJ</tt> (345; 86%).
 

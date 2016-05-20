@@ -39,7 +39,7 @@ The following 22 pairs of parts of speech are connected with `parataxis`: [it-po
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 5 parataxis	color:blue
-1	"	"	PUNCT	FB	_	10	punct	_	_
+1	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
 2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	religione	religione	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
 4	-	-	PUNCT	FB	_	5	punct	_	_
@@ -49,7 +49,7 @@ The following 22 pairs of parts of speech are connected with `parataxis`: [it-po
 8	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-11	privato	privato	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+11	privato	privato	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
 12	"	"	PUNCT	FB	_	5	punct	_	_
 13	.	.	PUNCT	FS	_	10	punct	_	_
 

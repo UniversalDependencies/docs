@@ -13,7 +13,7 @@ The 10 most frequent `NOUN` types:  <em>år, dag, prosent, gang, tid, folk, verd
 
 The 10 most frequent ambiguous lemmas: <em>land</em> ([NOUN]() 387, [X]() 1), <em>tid</em> ([NOUN]() 362, [X]() 1), <em>del</em> ([NOUN]() 251, [X]() 3, [PROPN]() 1), <em>mann</em> ([NOUN]() 198, [X]() 1), <em>problem</em> ([NOUN]() 163, [X]() 1), <em>krone</em> ([NOUN]() 114, [VERB]() 2), <em>ord</em> ([NOUN]() 107, [PROPN]() 1), <em>by</em> ([NOUN]() 102, [VERB]() 14, [X]() 1), <em>person</em> ([NOUN]() 102, [X]() 1), <em>fall</em> ([NOUN]() 100, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>tid</em> ([NOUN]() 204, [X]() 1), <em>land</em> ([NOUN]() 175, [X]() 1), <em>del</em> ([NOUN]() 169, [X]() 3, [PROPN]() 1), <em>landet</em> ([NOUN]() 131, [VERB]() 8), <em>kroner</em> ([NOUN]() 110, [VERB]() 1), <em>fall</em> ([NOUN]() 92, [X]() 1), <em>bruk</em> ([NOUN]() 67, [VERB]() 1, [X]() 1), <em>leder</em> ([NOUN]() 68, [VERB]() 30), <em>mann</em> ([NOUN]() 67, [PRON]() 1, [X]() 1), <em>rekke</em> ([NOUN]() 64, [VERB]() 3)
+The 10 most frequent ambiguous types:  <em>tid</em> ([NOUN]() 204, [X]() 1), <em>land</em> ([NOUN]() 175, [X]() 1), <em>del</em> ([NOUN]() 169, [X]() 3, [PROPN]() 1), <em>landet</em> ([NOUN]() 131, [VERB]() 8), <em>kroner</em> ([NOUN]() 110, [VERB]() 1), <em>fall</em> ([NOUN]() 92, [X]() 1), <em>bruk</em> ([NOUN]() 67, [VERB]() 1, [X]() 1), <em>leder</em> ([NOUN]() 68, [VERB]() 30), <em>mann</em> ([NOUN]() 67, [X]() 1, [PRON]() 1), <em>rekke</em> ([NOUN]() 64, [VERB]() 3)
 
 
 * <em>tid</em>
@@ -44,15 +44,15 @@ The 10 most frequent ambiguous types:  <em>tid</em> ([NOUN]() 204, [X]() 1), <em
   * [VERB]() 30: <em>Og den som stemmer Høyre har ingen innflytelse over hvem som <b>leder</b> SV .</em>
 * <em>mann</em>
   * [NOUN]() 67: <em>Med få unntak var Borten ingen handlingens <b>mann</b> .</em>
-  * [PRON]() 1: <em>Som oftest skjer det uten personskader og derfor avventer <b>mann</b> med å varsle AMK , til man har info , sier avdelingsdirektøren .</em>
   * [X]() 1: <em>« Ein sjeldan <b>mann</b> er gått bort .</em>
+  * [PRON]() 1: <em>Som oftest skjer det uten personskader og derfor avventer <b>mann</b> med å varsle AMK , til man har info , sier avdelingsdirektøren .</em>
 * <em>rekke</em>
   * [NOUN]() 64: <em>Jeg blir tillagt en <b>rekke</b> egenskaper i lys av dette .</em>
   * [VERB]() 3: <em>Bare fordi de dro akkurat litt for sent fra det solrike fjellet til å <b>rekke</b> middagslaging hjemme .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.407254 (the average of all parts of speech is 1.382585).
+The form / lemma ratio of `NOUN` is 1.407254 (the average of all parts of speech is 1.382722).
 
 The 1st highest number of forms (9) was observed with the lemma “tid”: <em>tid, tida, tidas, tiden, tidene, tidenes, tider, tiders, tids</em>.
 
@@ -71,9 +71,9 @@ Examples: <em>dag, gang, verden, del, grunn, plass, vei, måte, politikk, grad</
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 20 different relations: [no-dep/nmod]() (23232; 41% instances), [no-dep/dobj]() (9929; 17% instances), [no-dep/nsubj]() (8872; 15% instances), [no-dep/conj]() (4568; 8% instances), [no-dep/root]() (2919; 5% instances), [no-dep/appos]() (2070; 4% instances), [no-dep/det]() (1807; 3% instances), [no-dep/xcomp]() (1152; 2% instances), [no-dep/nsubjpass]() (974; 2% instances), [no-dep/name]() (530; 1% instances), [no-dep/acl]() (250; 0% instances), [no-dep/ccomp]() (195; 0% instances), [no-dep/advcl]() (194; 0% instances), [no-dep/acl:relcl]() (166; 0% instances), [no-dep/iobj]() (145; 0% instances), [no-dep/remnant]() (138; 0% instances), [no-dep/parataxis]() (73; 0% instances), [no-dep/csubj]() (35; 0% instances), [no-dep/goeswith]() (2; 0% instances), [no-dep/discourse]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 23 different relations: [no-dep/nmod]() (24762; 43% instances), [no-dep/dobj]() (9929; 17% instances), [no-dep/nsubj]() (8808; 15% instances), [no-dep/conj]() (4567; 8% instances), [no-dep/root]() (2918; 5% instances), [no-dep/det]() (1657; 3% instances), [no-dep/xcomp]() (1152; 2% instances), [no-dep/nsubjpass]() (974; 2% instances), [no-dep/appos]() (540; 1% instances), [no-dep/name]() (475; 1% instances), [no-dep/acl]() (250; 0% instances), [no-dep/ccomp]() (197; 0% instances), [no-dep/advcl]() (194; 0% instances), [no-dep/acl:relcl]() (166; 0% instances), [no-dep/nummod]() (150; 0% instances), [no-dep/iobj]() (145; 0% instances), [no-dep/remnant]() (138; 0% instances), [no-dep/parataxis]() (73; 0% instances), [no-dep/dislocated]() (64; 0% instances), [no-dep/compound]() (55; 0% instances), [no-dep/csubj]() (35; 0% instances), [no-dep/goeswith]() (2; 0% instances), [no-dep/discourse]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 15 different parts of speech: [VERB]() (31628; 55% instances), [NOUN]() (15396; 27% instances), [ADJ]() (3063; 5% instances), [ROOT]() (2919; 5% instances), [PROPN]() (2728; 5% instances), [PRON]() (455; 1% instances), [NUM]() (306; 1% instances), [DET]() (292; 1% instances), [ADV]() (269; 0% instances), [ADP]() (175; 0% instances), [X]() (7; 0% instances), [SCONJ]() (6; 0% instances), [INTJ]() (5; 0% instances), [AUX]() (2; 0% instances), [CONJ]() (1; 0% instances)
+Parents of `NOUN` nodes belong to 15 different parts of speech: [VERB]() (31629; 55% instances), [NOUN]() (15396; 27% instances), [ADJ]() (3063; 5% instances), [ROOT]() (2918; 5% instances), [PROPN]() (2728; 5% instances), [PRON]() (455; 1% instances), [NUM]() (306; 1% instances), [DET]() (292; 1% instances), [ADV]() (269; 0% instances), [ADP]() (175; 0% instances), [X]() (7; 0% instances), [SCONJ]() (6; 0% instances), [INTJ]() (5; 0% instances), [AUX]() (2; 0% instances), [CONJ]() (1; 0% instances)
 
 12317 (22%) `NOUN` nodes are leaves.
 
@@ -85,7 +85,7 @@ Parents of `NOUN` nodes belong to 15 different parts of speech: [VERB]() (31628;
 
 The highest child degree of a `NOUN` node is 20.
 
-Children of `NOUN` nodes are attached using 29 different relations: [no-dep/case]() (24355; 25% instances), [no-dep/det]() (15129; 15% instances), [no-dep/nmod]() (14428; 15% instances), [no-dep/amod]() (13520; 14% instances), [no-dep/punct]() (7966; 8% instances), [no-dep/conj]() (4550; 5% instances), [no-dep/cc]() (3802; 4% instances), [no-dep/acl:relcl]() (2952; 3% instances), [no-dep/cop]() (2644; 3% instances), [no-dep/nummod]() (2009; 2% instances), [no-dep/nsubj]() (1986; 2% instances), [no-dep/acl]() (1399; 1% instances), [no-dep/advmod]() (1264; 1% instances), [no-dep/mark]() (544; 1% instances), [no-dep/expl]() (495; 0% instances), [no-dep/appos]() (458; 0% instances), [no-dep/neg]() (416; 0% instances), [no-dep/name]() (316; 0% instances), [no-dep/aux]() (254; 0% instances), [no-dep/parataxis]() (231; 0% instances), [no-dep/advcl]() (197; 0% instances), [no-dep/csubj]() (169; 0% instances), [no-dep/xcomp]() (159; 0% instances), [no-dep/remnant]() (43; 0% instances), [no-dep/discourse]() (18; 0% instances), [no-dep/dobj]() (11; 0% instances), [no-dep/foreign]() (7; 0% instances), [no-dep/goeswith]() (2; 0% instances), [no-dep/ccomp]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 29 different relations: [no-dep/case]() (23274; 23% instances), [no-dep/det]() (14852; 15% instances), [no-dep/nmod]() (14005; 14% instances), [no-dep/amod]() (13520; 14% instances), [no-dep/punct]() (7958; 8% instances), [no-dep/conj]() (4549; 5% instances), [no-dep/cc]() (3802; 4% instances), [no-dep/acl:relcl]() (2952; 3% instances), [no-dep/cop]() (2644; 3% instances), [no-dep/nummod]() (2340; 2% instances), [no-dep/nsubj]() (1986; 2% instances), [no-dep/advmod]() (1690; 2% instances), [no-dep/mark]() (1625; 2% instances), [no-dep/acl]() (1399; 1% instances), [no-dep/expl]() (495; 0% instances), [no-dep/appos]() (455; 0% instances), [no-dep/neg]() (416; 0% instances), [no-dep/compound]() (266; 0% instances), [no-dep/aux]() (252; 0% instances), [no-dep/parataxis]() (226; 0% instances), [no-dep/advcl]() (197; 0% instances), [no-dep/csubj]() (169; 0% instances), [no-dep/xcomp]() (159; 0% instances), [no-dep/remnant]() (43; 0% instances), [no-dep/discourse]() (18; 0% instances), [no-dep/name]() (17; 0% instances), [no-dep/dobj]() (11; 0% instances), [no-dep/goeswith]() (2; 0% instances), [no-dep/ccomp]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 17 different parts of speech: [ADP]() (24633; 25% instances), [NOUN]() (15396; 16% instances), [ADJ]() (14482; 15% instances), [DET]() (14405; 15% instances), [PUNCT]() (7515; 8% instances), [VERB]() (7360; 7% instances), [PROPN]() (4193; 4% instances), [CONJ]() (3808; 4% instances), [NUM]() (2736; 3% instances), [PRON]() (1949; 2% instances), [ADV]() (1536; 2% instances), [SYM]() (478; 0% instances), [SCONJ]() (466; 0% instances), [AUX]() (254; 0% instances), [PART]() (79; 0% instances), [INTJ]() (18; 0% instances), [X]() (17; 0% instances)
+Children of `NOUN` nodes belong to 17 different parts of speech: [ADP]() (24633; 25% instances), [NOUN]() (15396; 16% instances), [ADJ]() (14482; 15% instances), [DET]() (14402; 15% instances), [PUNCT]() (7958; 8% instances), [VERB]() (7361; 7% instances), [PROPN]() (4192; 4% instances), [CONJ]() (3808; 4% instances), [NUM]() (2739; 3% instances), [PRON]() (1949; 2% instances), [ADV]() (1536; 2% instances), [SCONJ]() (466; 0% instances), [AUX]() (252; 0% instances), [PART]() (79; 0% instances), [SYM]() (35; 0% instances), [INTJ]() (18; 0% instances), [X]() (17; 0% instances)
 

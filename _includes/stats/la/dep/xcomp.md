@@ -77,54 +77,50 @@ The following 27 pairs of parts of speech are connected with `xcomp`: [la-pos/VE
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-3293 nodes (1%) are attached to their parents as `xcomp`.
+3675 nodes (1%) are attached to their parents as `xcomp`.
 
-2428 instances of `xcomp` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.60036440935317.
+2671 instances of `xcomp` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.54884353741497.
 
-The following 24 pairs of parts of speech are connected with `xcomp`: [la-pos/VERB]()-[la-pos/VERB]() (2362; 72% instances), [la-pos/VERB]()-[la-pos/NOUN]() (357; 11% instances), [la-pos/VERB]()-[la-pos/ADJ]() (176; 5% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (125; 4% instances), [la-pos/PRON]()-[la-pos/NOUN]() (49; 1% instances), [la-pos/ADJ]()-[la-pos/VERB]() (48; 1% instances), [la-pos/VERB]()-[la-pos/PRON]() (39; 1% instances), [la-pos/NOUN]()-[la-pos/VERB]() (36; 1% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (28; 1% instances), [la-pos/PRON]()-[la-pos/ADJ]() (20; 1% instances), [la-pos/PRON]()-[la-pos/VERB]() (14; 0% instances), [la-pos/NOUN]()-[la-pos/PRON]() (10; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (8; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (4; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (3; 0% instances), [la-pos/NOUN]()-[la-pos/DET]() (2; 0% instances), [la-pos/VERB]()-[la-pos/DET]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/PRON]() (1; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (1; 0% instances), [la-pos/DET]()-[la-pos/PRON]() (1; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/VERB]()-[la-pos/SCONJ]() (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `xcomp`: [la-pos/VERB]()-[la-pos/VERB]() (2670; 73% instances), [la-pos/VERB]()-[la-pos/NOUN]() (367; 10% instances), [la-pos/VERB]()-[la-pos/ADJ]() (206; 6% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (121; 3% instances), [la-pos/ADJ]()-[la-pos/VERB]() (50; 1% instances), [la-pos/PRON]()-[la-pos/NOUN]() (48; 1% instances), [la-pos/VERB]()-[la-pos/PRON]() (47; 1% instances), [la-pos/NOUN]()-[la-pos/VERB]() (37; 1% instances), [la-pos/PRON]()-[la-pos/ADJ]() (24; 1% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (23; 1% instances), [la-pos/PRON]()-[la-pos/VERB]() (14; 0% instances), [la-pos/NOUN]()-[la-pos/PRON]() (12; 0% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (12; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (8; 0% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (7; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (6; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (5; 0% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (4; 0% instances), [la-pos/PROPN]()-[la-pos/VERB]() (3; 0% instances), [la-pos/VERB]()-[la-pos/PROPN]() (3; 0% instances), [la-pos/ADJ]()-[la-pos/PRON]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (1; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (1; 0% instances), [la-pos/CONJ]()-[la-pos/VERB]() (1; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (1; 0% instances), [la-pos/VERB]()-[la-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 10 xcomp	color:blue
-1	unde	unde	ADV	O4	_	4	cc	_	_
-2	et	et	CONJ	O4	_	3	advmod:emph	_	_
-3	magis	magis	ADV	O4	_	4	advmod	_	_
-4	gaudent	gaudeo	VERB	K3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	homines	homo	NOUN	C1|grn1|casJ|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	nsubj	_	_
-6	a	a	ADP	S4|vgr1	AdpType=Prep	7	case	_	_
-7	magnis	magnus	ADJ	B1|grn1|casO|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	10	dobj	_	_
-8	et	et	CONJ	O4	_	7	cc	_	_
-9	sapientibus	sapiens	ADJ	C1|grn1|casO|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	7	conj	_	_
-10	honorari	honoro	VERB	J3|modQ|tem1	Tense=Pres|VerbForm=Inf|Voice=Pass	4	xcomp	_	_
-11	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 xcomp	color:blue
+1	non	non	ADV	O4|stRL	_	6	neg	_	_
+2	igitur	igitur	ADV	O4|stRL	_	6	advmod	_	_
+3	a	a	ADP	S4|vgr1|stRL	AdpType=Prep	4	case	_	_
+4	deo	deus	PROPN	F1|grn1|casF|gen1|stNP	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	5	dobj	_	_
+5	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+6	potest	possum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
+7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 8 xcomp	color:blue
-1	non	non	ADV	O4	_	2	neg	_	_
-2	potest	possum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
-3	igitur	igitur	ADV	O4	_	2	cc	_	_
-4	talis	talis	PRON	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Ind	5	nmod	_	_
-5	gloria	gloria	NOUN	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	nsubj	_	_
-6	esse	sum	VERB	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	8	cop	_	_
-7	summum	summus	ADJ	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
-8	bonum	bonum	NOUN	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	xcomp	_	_
-9	.	.	PUNCT	Punc	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 xcomp	color:blue
+1	cum	cum	SCONJ	S4|vgr1|stRL	_	6	mark	_	_
+2	multi	multus	ADJ	B1|grn1|casJ|gen1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	nsubj	_	_
+3	antiquorum	antiquus	ADJ	B1|grn1|casK|gen1|stAN	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
+4	mundum	mundus	NOUN	B1|grn1|casD|gen1|stRS	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	xcomp	_	_
+5	istum	iste	PRON	F1|grn1|casD|gen1|stPD	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	4	nmod	_	_
+6	dixerint	dico	VERB	N3|modB|tem4|gen9|stAE	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	deum	deus	PROPN	F1|grn1|casD|gen1|stNP	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
+8	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	4	cop	_	_
+9	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 
@@ -132,19 +128,19 @@ The following 24 pairs of parts of speech are connected with `xcomp`: [la-pos/VE
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 xcomp	color:blue
-1	non	non	ADV	O4	_	4	neg	_	_
-2	enim	enim	ADV	O4	_	4	cc	_	_
-3	bruta	brutus	ADJ	B1|grn1|casJ|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	nsubj	_	_
-4	possunt	possum	VERB	N3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
-5	dici	dico	VERB	N3|modQ|tem1	Tense=Pres|VerbForm=Inf|Voice=Pass	6	cop	_	_
-6	felicia	felix	ADJ	C1|grn1|casJ|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	xcomp	_	_
-7	,	,	PUNCT	Punc	_	9	punct	_	_
-8	nisi	nisi	SCONJ	O4	_	9	mark	_	_
-9	abusive	abusivus	ADJ	B1|grn1|casG|vgr1	Case=Loc|Degree=Pos|Number=Sing	4	dep	_	_
-10	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 xcomp	color:blue
+1	in	in	ADP	S4|stRL	AdpType=Prep	2	case	_	_
+2	tantum	tantum	ADV	O4|stRL	_	8	advmod:emph	_	_
+3	ut	ut	SCONJ	O4|vgr1|stRL	_	8	mark	_	_
+4	nec	nec	CONJ	O4|stRL	_	8	advmod:emph	_	_
+5	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	6	cop	_	_
+6	falsa	falsus	ADJ	A1|grn1|casM|gen3|stAC	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	9	xcomp	_	_
+7	sit	sum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+8	possibile	possibilis	ADJ	C1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+9	cogitare	cogito	VERB	J3|modH|tem1|stAC	Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj	_	_
+10	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
 

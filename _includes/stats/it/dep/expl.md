@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `expl`: [expl:impers]().
 
-1997 nodes (1%) are attached to their parents as `expl`.
+2030 nodes (1%) are attached to their parents as `expl`.
 
-1517 instances of `expl` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21532298447672.
+1558 instances of `expl` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21625615763547.
 
-The following 7 pairs of parts of speech are connected with `expl`: [it-pos/VERB]()-[it-pos/PRON]() (1983; 99% instances), [it-pos/ADV]()-[it-pos/PRON]() (5; 0% instances), [it-pos/AUX]()-[it-pos/PRON]() (3; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (2; 0% instances), [it-pos/PRON]()-[it-pos/PRON]() (2; 0% instances), [it-pos/ADP]()-[it-pos/PRON]() (1; 0% instances), [it-pos/VERB]()-[it-pos/SCONJ]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `expl`: [it-pos/VERB]()-[it-pos/PRON]() (2016; 99% instances), [it-pos/ADV]()-[it-pos/PRON]() (5; 0% instances), [it-pos/AUX]()-[it-pos/PRON]() (3; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (2; 0% instances), [it-pos/PRON]()-[it-pos/PRON]() (2; 0% instances), [it-pos/ADP]()-[it-pos/PRON]() (1; 0% instances), [it-pos/VERB]()-[it-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu

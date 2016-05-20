@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1991 nodes (1%) are attached to their parents as `xcomp`.
+1931 nodes (1%) are attached to their parents as `xcomp`.
 
-1969 instances of `xcomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41888498242089.
+1909 instances of `xcomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.43138270326256.
 
-The following 23 pairs of parts of speech are connected with `xcomp`: [it-pos/VERB]()-[it-pos/VERB]() (1148; 58% instances), [it-pos/VERB]()-[it-pos/ADJ]() (409; 21% instances), [it-pos/VERB]()-[it-pos/NOUN]() (276; 14% instances), [it-pos/VERB]()-[it-pos/PROPN]() (57; 3% instances), [it-pos/ADJ]()-[it-pos/VERB]() (50; 3% instances), [it-pos/VERB]()-[it-pos/PRON]() (23; 1% instances), [it-pos/ADV]()-[it-pos/ADJ]() (4; 0% instances), [it-pos/VERB]()-[it-pos/SYM]() (3; 0% instances), [it-pos/ADV]()-[it-pos/NOUN]() (2; 0% instances), [it-pos/AUX]()-[it-pos/VERB]() (2; 0% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (2; 0% instances), [it-pos/PRON]()-[it-pos/ADJ]() (2; 0% instances), [it-pos/VERB]()-[it-pos/NUM]() (2; 0% instances), [it-pos/VERB]()-[it-pos/X]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/NUM]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/PRON]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/PRON]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/PROPN]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/PROPN]()-[it-pos/PRON]() (1; 0% instances), [it-pos/PUNCT]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/VERB]()-[it-pos/ADV]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `xcomp`: [it-pos/VERB]()-[it-pos/VERB]() (1153; 60% instances), [it-pos/VERB]()-[it-pos/ADJ]() (407; 21% instances), [it-pos/VERB]()-[it-pos/NOUN]() (278; 14% instances), [it-pos/VERB]()-[it-pos/PROPN]() (57; 3% instances), [it-pos/VERB]()-[it-pos/PRON]() (25; 1% instances), [it-pos/VERB]()-[it-pos/SYM]() (3; 0% instances), [it-pos/ADJ]()-[it-pos/VERB]() (2; 0% instances), [it-pos/VERB]()-[it-pos/NUM]() (2; 0% instances), [it-pos/VERB]()-[it-pos/X]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/VERB]()-[it-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,12 +20,12 @@ The following 23 pairs of parts of speech are connected with `xcomp`: [it-pos/VE
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 xcomp	color:blue
-1	"	"	PUNCT	FB	_	5	punct	_	_
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
 2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Pivetti	Pivetti	PROPN	SP	_	5	nsubj	_	_
 4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-6	benissimo	bene	ADV	B	Degree=Abs	5	advmod	_	_
+6	benissimo	bene	ADV	B	Degree=Abs	5	advmod	_	PRED
 7	a	a	ADP	E	_	8	mark	_	_
 8	decidere	decidere	VERB	V	VerbForm=Inf	5	xcomp	_	_
 9	di	di	ADP	E	_	10	case	_	_
@@ -48,7 +48,7 @@ The following 23 pairs of parts of speech are connected with `xcomp`: [it-pos/VE
 4	che	che	SCONJ	CS	_	6	mark	_	_
 5	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	auxpass	_	_
 6	reso	rendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
-7	disponibile	disponibile	ADJ	A	Number=Sing	6	xcomp	_	_
+7	disponibile	disponibile	ADJ	A	Number=Sing	6	xcomp	_	PRED
 8	anche	anche	ADV	B	_	6	advmod	_	_
 9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	canale	canale	NOUN	S	Gender=Masc|Number=Sing	6	nsubjpass	_	_
@@ -66,8 +66,8 @@ The following 23 pairs of parts of speech are connected with `xcomp`: [it-pos/VE
 # visual-style 2 3 xcomp	color:blue
 1	Così	così	ADV	B	_	2	advmod	_	_
 2	diventa	diventare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	first	first	NOUN	S	_	2	xcomp	_	_
-4	lady	lady	NOUN	S	_	3	mwe	_	_
+3	first	first	NOUN	S	_	2	xcomp	_	PRED
+4	lady	lady	NOUN	S	_	3	compound	_	_
 5	.	.	PUNCT	FS	_	2	punct	_	_
 
 ~~~

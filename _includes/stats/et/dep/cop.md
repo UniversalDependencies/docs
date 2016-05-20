@@ -6,41 +6,32 @@
 
 This relation is universal.
 
-40 nodes (0%) are attached to their parents as `cop`.
+3458 nodes (1%) are attached to their parents as `cop`.
 
-36 instances of `cop` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.075.
+2983 instances of `cop` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.34297281665703.
 
-The following 5 pairs of parts of speech are connected with `cop`: [et-pos/ADJ]()-[et-pos/VERB]() (21; 53% instances), [et-pos/NOUN]()-[et-pos/VERB]() (13; 33% instances), [et-pos/NUM]()-[et-pos/VERB]() (2; 5% instances), [et-pos/PRON]()-[et-pos/VERB]() (2; 5% instances), [et-pos/VERB]()-[et-pos/VERB]() (2; 5% instances).
+The following 9 pairs of parts of speech are connected with `cop`: [et-pos/ADJ]()-[et-pos/VERB]() (2050; 59% instances), [et-pos/NOUN]()-[et-pos/VERB]() (1160; 34% instances), [et-pos/PRON]()-[et-pos/VERB]() (147; 4% instances), [et-pos/NUM]()-[et-pos/VERB]() (41; 1% instances), [et-pos/PROPN]()-[et-pos/VERB]() (37; 1% instances), [et-pos/VERB]()-[et-pos/VERB]() (12; 0% instances), [et-pos/ADV]()-[et-pos/VERB]() (8; 0% instances), [et-pos/SYM]()-[et-pos/VERB]() (2; 0% instances), [et-pos/X]()-[et-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 cop	color:blue
-1	Klaasid	klaas+d	NOUN	n/com,pl,nom,.cap	Case=Nom|Number=Plur	4	nsubj	_	_
-2	on	ole+0	VERB	v-fin/main,indic,pres,ps3,pl,ps,af,.FinV,.Intr	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	täis	täis+0	ADV	adv/--	_	4	advmod	_	_
-4	valatud	vala=tud+0	ADJ	adj/pos,.tud,partic	Degree=Pos|VerbForm=Part	0	root	_	_
-5	.	.	PUNCT	punc/Fst	PunctType=Peri	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 cop	color:blue
-1	Telia	Telia+0	PROPN	prop/prop,sg,nom,%cap	Case=Nom|Number=Sing	5	nsubj	_	_
-2	on	ole+0	VERB	v/main,indic,pres,ps3,sg,ps,af	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-3	Eesti	Eesti+0	PROPN	prop/prop,sg,gen,%cap	Case=Gen|Number=Sing	4	nmod	_	_
-4	Telefoni	telefon+0	NOUN	n/com,sg,gen,%cap	Case=Gen|Number=Sing	5	nmod	_	_
-5	osanik	osanik+0	NOUN	n/com,sg,nom	Case=Nom|Number=Sing	0	root	_	_
-6	.	--	PUNCT	punc/--	_	5	punct	_	_
+# visual-style 5 4 cop	color:blue
+1	Noormees	noor_mees	NOUN	S	Case=Nom|Number=Sing	5	vocative	_	_
+2	,	,	PUNCT	Z	_	5	punct	_	_
+3	te	sina	PRON	P	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj:cop	_	_
+4	olete	olema	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	tugev	tugev	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
+6	ja	ja	CONJ	J	_	5	cc	_	_
+7	julge	julge	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	5	conj	_	_
+8	,	,	PUNCT	Z	_	5	punct	_	_
+9	tapke	tapma	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+10	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	dobj	_	_
+11	ära	ära	ADV	D	_	9	compound:prt	_	_
+12	!	!	PUNCT	Z	_	5	punct	_	_
 
 ~~~
 
@@ -48,21 +39,35 @@ The following 5 pairs of parts of speech are connected with `cop`: [et-pos/ADJ](
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 cop	color:blue
+1	Hullud	hull	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	ideed	idee	NOUN	S	Case=Nom|Number=Plur	6	nsubj:cop	_	_
+3	olid	olema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+4	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	5	det	_	_
+5	rahva	rahvas	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
+6	stiihia	stiihia	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
+7	.	.	PUNCT	Z	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 cop	color:blue
-1	Paltsi	Palts+0	PROPN	prop/prop,sg,gen,%cap	Case=Gen|Number=Sing	2	nmod	_	_
-2	vasallid	vasall+d	NOUN	n/com,pl,nom	Case=Nom|Number=Plur	4	nsubj	_	_
-3	on	ole+0	VERB	v/main,indic,pres,ps3,pl,ps,af	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	neli	neli+0	NUM	num/card,sg,nom,l	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	0	root	_	_
-5	firmat	firma+t	NOUN	n/com,sg,part	Case=Par|Number=Sing	4	nmod	_	_
-6	,	--	PUNCT	punc/--	_	5	punct	_	_
-7	kelle	kes+0	PRON	pron/rel,sg,gen	Case=Gen|Number=Sing|PronType=Rel	8	nmod	_	_
-8	nimesid	nimi+sid	NOUN	n/com,pl,part	Case=Par|Number=Plur	10	dobj	_	_
-9	ta	tema+0	PRON	pron/pers,ps3,sg,nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-10	avaldamast	avalda+mast	VERB	v/main,sup,ps,el	Case=Ela|VerbForm=Sup	11	advcl	_	_
-11	keeldub	keeldu+b	VERB	v/main,indic,pres,ps3,sg,ps,af	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
-12	.	--	PUNCT	punc/--	_	4	punct	_	_
+# visual-style 4 7 cop	color:blue
+1	Ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	2	neg	_	_
+2	taipa	taipama	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	,	,	PUNCT	Z	_	2	punct	_	_
+4	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	2	ccomp	_	_
+5	neil	tema	PRON	P	Case=Ade|Number=Plur|Person=3|PronType=Prs	4	nmod	_	_
+6	viga	viga	NOUN	S	Case=Nom|Number=Sing	4	nsubj:cop	_	_
+7	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+8	.	.	PUNCT	Z	_	2	punct	_	_
+9	"	"	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 

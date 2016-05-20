@@ -16,7 +16,7 @@ The feature is used with 7 part-of-speech tags: [ga-pos/DET]() (1836; 8% instanc
 
 1836 [ga-pos/DET]() tokens (86% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1836; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1836; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1602; 87%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1601; 87%), <tt><a href="Definite.html">Definite</a>=Def</tt> (1447; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (1253; 68%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1836; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1836; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1602; 87%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1601; 87%), <tt><a href="Definite.html">Definite</a>=Def</tt> (1447; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (1253; 68%).
 
 `DET` tokens may have the following values of `PronType`:
 

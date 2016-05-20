@@ -77,68 +77,67 @@ The following 33 pairs of parts of speech are connected with `nmod`: [la-pos/VER
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-34176 nodes (13%) are attached to their parents as `nmod`.
+37913 nodes (13%) are attached to their parents as `nmod`.
 
-18740 instances of `nmod` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.06109550561798.
+20505 instances of `nmod` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.06156199720413.
 
-The following 42 pairs of parts of speech are connected with `nmod`: [la-pos/NOUN]()-[la-pos/NOUN]() (9784; 29% instances), [la-pos/VERB]()-[la-pos/NOUN]() (9240; 27% instances), [la-pos/NOUN]()-[la-pos/PRON]() (7488; 22% instances), [la-pos/VERB]()-[la-pos/PRON]() (3498; 10% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (915; 3% instances), [la-pos/ADJ]()-[la-pos/PRON]() (601; 2% instances), [la-pos/CONJ]()-[la-pos/NOUN]() (580; 2% instances), [la-pos/PRON]()-[la-pos/NOUN]() (402; 1% instances), [la-pos/PRON]()-[la-pos/PRON]() (366; 1% instances), [la-pos/ADV]()-[la-pos/NOUN]() (236; 1% instances), [la-pos/NUM]()-[la-pos/NOUN]() (227; 1% instances), [la-pos/CONJ]()-[la-pos/PRON]() (154; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (144; 0% instances), [la-pos/NUM]()-[la-pos/X]() (107; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (84; 0% instances), [la-pos/ADV]()-[la-pos/PRON]() (79; 0% instances), [la-pos/X]()-[la-pos/X]() (58; 0% instances), [la-pos/PRON]()-[la-pos/ADV]() (46; 0% instances), [la-pos/PUNCT]()-[la-pos/NOUN]() (44; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (25; 0% instances), [la-pos/DET]()-[la-pos/PRON]() (16; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (16; 0% instances), [la-pos/ADJ]()-[la-pos/ADV]() (13; 0% instances), [la-pos/PUNCT]()-[la-pos/PRON]() (9; 0% instances), [la-pos/ADP]()-[la-pos/NOUN]() (8; 0% instances), [la-pos/DET]()-[la-pos/ADV]() (7; 0% instances), [la-pos/ADP]()-[la-pos/PRON]() (5; 0% instances), [la-pos/PRON]()-[la-pos/X]() (5; 0% instances), [la-pos/NOUN]()-[la-pos/ADP]() (4; 0% instances), [la-pos/CONJ]()-[la-pos/ADV]() (2; 0% instances), [la-pos/X]()-[la-pos/PRON]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/VERB]() (1; 0% instances), [la-pos/AUX]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/CONJ]()-[la-pos/X]() (1; 0% instances), [la-pos/DET]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/SCONJ]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADP]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADV]() (1; 0% instances), [la-pos/VERB]()-[la-pos/X]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 nmod	color:blue
-1	unde	unde	ADV	O4	_	2	cc	_	_
-2	apparet	appareo	VERB	K3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	intellectum	intellectus	NOUN	D1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	nsubj	_	_
-4	simpliciter	simplex	ADJ	C1|grn1|casG	Case=Loc|Degree=Pos|Number=Sing	6	advmod	_	_
-5	esse	sum	VERB	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	6	cop	_	_
-6	altiorem	altus	NOUN	C1|grn2|casD|gen1	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	2	csubj	_	_
-7	voluntate	voluntas	NOUN	C1|grn1|casF|gen2|vgr1	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	6	nmod	_	_
-8	:	:	PUNCT	Punc	_	2	punct	_	_
-
-~~~
+The following 42 pairs of parts of speech are connected with `nmod`: [la-pos/VERB]()-[la-pos/NOUN]() (10217; 27% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (10177; 27% instances), [la-pos/NOUN]()-[la-pos/PRON]() (8481; 22% instances), [la-pos/VERB]()-[la-pos/PRON]() (4228; 11% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (1010; 3% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (740; 2% instances), [la-pos/ADJ]()-[la-pos/PRON]() (662; 2% instances), [la-pos/PRON]()-[la-pos/PRON]() (417; 1% instances), [la-pos/PRON]()-[la-pos/NOUN]() (412; 1% instances), [la-pos/VERB]()-[la-pos/PROPN]() (376; 1% instances), [la-pos/ADV]()-[la-pos/NOUN]() (252; 1% instances), [la-pos/NUM]()-[la-pos/NOUN]() (223; 1% instances), [la-pos/NUM]()-[la-pos/X]() (129; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (90; 0% instances), [la-pos/ADV]()-[la-pos/PRON]() (86; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (75; 0% instances), [la-pos/X]()-[la-pos/X]() (72; 0% instances), [la-pos/NUM]()-[la-pos/PROPN]() (41; 0% instances), [la-pos/PRON]()-[la-pos/PROPN]() (38; 0% instances), [la-pos/ADJ]()-[la-pos/PROPN]() (37; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (25; 0% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (24; 0% instances), [la-pos/CONJ]()-[la-pos/NOUN]() (21; 0% instances), [la-pos/PROPN]()-[la-pos/PROPN]() (20; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (14; 0% instances), [la-pos/ADP]()-[la-pos/NOUN]() (6; 0% instances), [la-pos/DET]()-[la-pos/PRON]() (6; 0% instances), [la-pos/NOUN]()-[la-pos/ADP]() (6; 0% instances), [la-pos/PRON]()-[la-pos/X]() (5; 0% instances), [la-pos/X]()-[la-pos/PRON]() (5; 0% instances), [la-pos/ADP]()-[la-pos/PRON]() (4; 0% instances), [la-pos/CONJ]()-[la-pos/PRON]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/SCONJ]() (2; 0% instances), [la-pos/PUNCT]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/AUX]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/CONJ]() (1; 0% instances), [la-pos/PRON]()-[la-pos/CONJ]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/X]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADP]() (1; 0% instances), [la-pos/VERB]()-[la-pos/X]() (1; 0% instances), [la-pos/X]()-[la-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 nmod	color:blue
-1	non	non	ADV	O4	_	7	neg	_	_
-2	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-3	igitur	igitur	ADV	O4	_	7	cc	_	_
-4	in	in	ADP	S4	AdpType=Prep	6	case	_	_
-5	talibus	talis	PRON	C1|grn1|casO|gen2	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur|PronType=Ind	6	nmod	_	_
-6	delectationibus	delectatio	NOUN	C1|grn1|casO|gen2|vgr1	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur	7	nmod	_	_
-7	ponenda	pono	VERB	L2|modO|grp1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Gdv|Voice=Pass	0	root	_	_
-8	felicitas	felicitas	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	nsubj	_	_
-9	.	.	PUNCT	Punc	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 nmod	color:blue
-1	felicitas	felicitas	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-3	quoddam	quidam	PRON	F1|grn1|casA|gen3|varA	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	4	nmod	_	_
-4	bonum	bonum	NOUN	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
-5	hominis	homo	NOUN	C1|grn1|casB|gen1	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	dobj	_	_
-6	proprium	proprius	ADJ	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
-7	:	:	PUNCT	Punc	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 nmod	color:blue
+1	et	et	CONJ	O4|stRL	_	7	cc	_	_
+2	circa	circa	ADP	S4|stRL	AdpType=Prep	4	case	_	_
+3	eius	is	PRON	F1|grn1|casB|gen2|vgr2|stPV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem,Prs	4	nmod	_	_
+4	considerationem	consideratio	NOUN	C1|grn1|casD|gen2|vgr1|stAC	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nmod	_	_
+5	principaliter	principalis	ADJ	C1|grn1|casG|stAN	Case=Loc|Degree=Pos|Number=Sing	7	advmod	_	_
+6	sapientiam	sapientia	NOUN	A1|grn1|casD|gen2|vgr1|stAC	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	insistere	insisto	VERB	L3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+8	.	.	PUNCT	Punc	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 nmod	color:blue
+1	oportet	oportet	VERB	K3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	igitur	igitur	ADV	O4|stRL	_	1	advmod	_	_
+3	ultimum	ulterior	ADJ	B1|grn3|casD|gen1|stAN	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	4	amod	_	_
+4	finem	finis	NOUN	C1|grn1|casD|gen1|stRS	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	universi	universus	ADJ	B1|grn1|casB|gen1|stAN	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+6	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	7	cop	_	_
+7	bonum	bonum	NOUN	B1|grn1|casD|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	csubj	_	_
+8	intellectus	intellectus	NOUN	D1|grn1|casB|gen1|stAC	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	nmod	_	_
+9	.	.	PUNCT	Punc	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 nmod	color:blue
+1	finis	finis	NOUN	C1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	enim	enim	ADV	O4|stRL	_	4	advmod	_	_
+3	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	bonum	bonum	NOUN	B1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+5	uniuscuiusque	unusquisque	PRON	F1|grn1|casB|gen3|vgr1|stPV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	4	nmod	_	_
+6	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

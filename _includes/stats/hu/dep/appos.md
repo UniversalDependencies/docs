@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-188 nodes (1%) are attached to their parents as `appos`.
+286 nodes (1%) are attached to their parents as `appos`.
 
-146 instances of `appos` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.80851063829787.
+244 instances of `appos` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.16433566433566.
 
-The following 8 pairs of parts of speech are connected with `appos`: [hu-pos/NOUN]()-[hu-pos/PROPN]() (90; 48% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (51; 27% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (31; 16% instances), [hu-pos/PROPN]()-[hu-pos/PROPN]() (12; 6% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (1; 1% instances), [hu-pos/ADV]()-[hu-pos/PROPN]() (1; 1% instances), [hu-pos/PRON]()-[hu-pos/PROPN]() (1; 1% instances), [hu-pos/PROPN]()-[hu-pos/VERB]() (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `appos`: [hu-pos/NOUN]()-[hu-pos/PROPN]() (130; 45% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (76; 27% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (51; 18% instances), [hu-pos/PROPN]()-[hu-pos/PROPN]() (22; 8% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (2; 1% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/PROPN]() (1; 0% instances), [hu-pos/NUM]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/PRON]()-[hu-pos/PROPN]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

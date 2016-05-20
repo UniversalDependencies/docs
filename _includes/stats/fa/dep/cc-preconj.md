@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `cc:preconj`: [fa-po
 2	اسلام	_	NOUN	N_SING	Number=Sing	6	nmod	_	_
 3	همان	_	DET	DET	_	6	mark	_	_
 4	طور	_	NOUN	N_SING	Number=Sing	3	mwe	_	_
-5	که	_	CONJ	CON	_	4	mwe	_	_
+5	که	که	CONJ	CON	_	4	mwe	_	_
 6	گفته	_	VERB	V_PP	Number=Sing|Person=3|VerbForm=Part	10	advcl	_	_
 7	شد	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	6	auxpass	_	_
 8	هم	_	SCONJ	CON	_	10	cc:preconj	_	_
@@ -36,7 +36,7 @@ The following 8 pairs of parts of speech are connected with `cc:preconj`: [fa-po
 14	هم	_	SCONJ	CON	_	16	cc:preconj	_	_
 15	تولی	_	NOUN	N_SING	Number=Sing	16	nsubj	_	_
 16	است	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	10	conj	_	_
-17	و	_	CONJ	CON	_	16	cc	_	_
+17	و	و	CONJ	CON	_	16	cc	_	_
 18	هم	_	CONJ	CON	_	17	mwe	_	_
 19	تبری	_	NOUN	N_SING	Number=Sing	16	conj	_	_
 20	.	_	PUNCT	DELM	_	10	punct	_	_
@@ -52,10 +52,10 @@ The following 8 pairs of parts of speech are connected with `cc:preconj`: [fa-po
 # visual-style 16 15 cc:preconj	color:blue
 1	او	_	PRON	PRO	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	حافظ	_	NOUN	N_SING	Number=Sing	0	root	_	_
-3	و	_	CONJ	CON	_	2	cc	_	_
+3	و	و	CONJ	CON	_	2	cc	_	_
 4	نگهدارندهٔ	_	NOUN	N_SING	Number=Sing	2	conj	_	_
 5	ضابطه	_	NOUN	N_SING	Number=Sing	4	nmod:poss	_	_
-6	و	_	CONJ	CON	_	5	cc	_	_
+6	و	و	CONJ	CON	_	5	cc	_	_
 7	قانون	_	NOUN	N_SING	Number=Sing	5	conj	_	_
 8	بود	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	2	cop	_	_
 9	؛	_	PUNCT	DELM	_	2	punct	_	_
@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `cc:preconj`: [fa-po
 17	خود	_	PRON	PRO	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	nmod	_	_
 18	ش	_	PRON	PRO	Number=Sing|Person=3|PronType=Prs	17	nmod:poss	_	_
 19	،	_	PUNCT	DELM	_	17	punct	_	_
-20	و	_	CONJ	CON	_	17	cc	_	_
+20	و	و	CONJ	CON	_	17	cc	_	_
 21	چه	_	SCONJ	CON	_	22	advmod	_	_
 22	توسط	_	ADP	P	_	23	case	_	_
 23	دیگران	_	PRON	PRO	PronType=Ind	17	conj	_	_
@@ -90,7 +90,7 @@ The following 8 pairs of parts of speech are connected with `cc:preconj`: [fa-po
 4	میخانه	_	NOUN	N_SING	Number=Sing	0	root	_	_
 5	ما	_	PRON	PRO	Number=Plur|Person=1|PronType=Prs	4	nmod:poss	_	_
 6	یی	_	VERB	V_PRS	_	4	cop	_	_
-7	و	_	CONJ	CON	_	4	cc	_	_
+7	و	و	CONJ	CON	_	4	cc	_	_
 8	هم	_	CONJ	CON	_	7	mwe	_	_
 9	باده	_	NOUN	N_SING	Number=Sing	4	conj	_	_
 10	ما	_	PRON	PRO	Number=Plur|Person=1|PronType=Prs	9	nmod:poss	_	_

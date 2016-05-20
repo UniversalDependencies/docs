@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-158 nodes (0%) are attached to their parents as `name`.
+157 nodes (0%) are attached to their parents as `name`.
 
-158 instances of `name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08227848101266.
+157 instances of `name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0828025477707.
 
-The following 3 pairs of parts of speech are connected with `name`: [sv-pos/PROPN]()-[sv-pos/PROPN]() (156; 99% instances), [sv-pos/PROPN]()-[sv-pos/ADJ]() (1; 1% instances), [sv-pos/PROPN]()-[sv-pos/PUNCT]() (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `name`: [sv-pos/PROPN]()-[sv-pos/PROPN]() (156; 99% instances), [sv-pos/PROPN]()-[sv-pos/ADJ]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -20,7 +20,7 @@ The following 3 pairs of parts of speech are connected with `name`: [sv-pos/PROP
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 name	color:blue
-1	8.	8.	NUM	RG|NOM	Case=Nom	3	nummod	_	_
+1	8.	8.	NUM	RG|NOM	Case=Nom|NumType=Card	3	nummod	_	_
 2	Ur	ur	ADP	PP	_	3	case	_	_
 3	A.	A.	PROPN	PM|NOM	Case=Nom	0	root	_	_
 4	I.	I.	PROPN	PM|NOM	Case=Nom	3	name	_	_
@@ -48,12 +48,12 @@ The following 3 pairs of parts of speech are connected with `name`: [sv-pos/PROP
 4	Napoleon	Napoleon	PROPN	PM|NOM	Case=Nom	2	conj	_	_
 5	III	III	ADJ	RO|NOM	Case=Nom	4	name	_	_
 6	skapade	skapa	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	_
-7	det	en	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing	9	det	_	_
+7	det	en	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
 8	nutida	nutida	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	9	amod	_	_
 9	Paris	Paris	PROPN	PM|GEN	Case=Gen	10	nmod:poss	_	_
 10	centrum	centrum	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	dobj	_	_
 11	strävade	sträva	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-12	de	de	PRON	PN|UTR/NEU|PLU|DEF|SUB	Case=Nom|Definite=Def|Number=Plur	11	nsubj	_	_
+12	de	de	PRON	PN|UTR/NEU|PLU|DEF|SUB	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	11	nsubj	_	_
 13	att	att	PART	IE	_	14	mark	_	_
 14	skapa	skapa	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	11	advcl	_	_
 15	intryck	intryck	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	14	dobj	_	_
@@ -83,52 +83,108 @@ The following 3 pairs of parts of speech are connected with `name`: [sv-pos/PROP
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Swedish-LinES)
+
+This relation is universal.
+
+326 nodes (0%) are attached to their parents as `name`.
+
+326 instances of `name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.02760736196319.
+
+The following 3 pairs of parts of speech are connected with `name`: [sv-pos/PROPN]()-[sv-pos/PROPN]() (323; 99% instances), [sv-pos/PROPN]()-[sv-pos/NOUN]() (2; 1% instances), [sv-pos/ADJ]()-[sv-pos/PROPN]() (1; 0% instances).
+
+
 ~~~ conllu
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 28 29 name	color:blue
-1	Citaten	citat	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	3	nsubj	_	_
-2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-3	hämtade	hämta	ADJ	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
-4	ur	ur	ADP	PP	_	9	case	_	_
-5	Svenska	Svenska	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	amod	_	_
-6	Dagbladets	Dagbladet	NOUN	NN|NEU|SIN|DEF|GEN	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	7	nmod:poss	_	_
-7	debatt	debatt	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	nmod	_	_
-8	'	'	PUNCT	PAD	_	9	punct	_	_
-9	Hemmafru	hemmafru	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	nmod	_	_
-10	i	i	ADP	PP	_	11	case	_	_
-11	skatteskruv	skatteskruv	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	nmod	_	_
-12	'	'	PUNCT	PAD	_	9	punct	_	_
-13	(	(	PUNCT	PAD	_	3	punct	_	_
-14	vänstra	vänster	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	15	det	_	_
-15	spalten	spalt	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	appos	_	_
-16	,	,	PUNCT	MID	_	15	punct	_	_
-17	rak	rak	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	18	amod	_	_
-18	stil	stil	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	15	nmod	_	_
-19	)	)	PUNCT	PAD	_	3	punct	_	_
-20	och	och	CONJ	KN	_	3	cc	_	_
-21	Kajsa	Kajsa	PROPN	PM|NOM	Case=Nom	3	conj	_	_
-22	Ohrlander	Ohrlander	PROPN	PM|NOM	Case=Nom	21	name	_	_
-23	:	:	PUNCT	MID	_	21	punct	_	_
-24	Kvinnor	kvinna	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	21	nmod	_	_
-25	som	som	CONJ	KN	_	26	mark	_	_
-26	slavar	slav	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	24	acl	_	_
-27	,	,	PUNCT	MID	_	24	punct	_	_
-28	Aldus	Aldus	PROPN	PM|NOM	Case=Nom	24	nmod	_	_
-29	/	/	PUNCT	MID	_	28	name	_	_
-30	Bonniers	Bonniers	PROPN	PM|NOM	Case=Nom	28	name	_	_
-31	,	,	PUNCT	MID	_	24	punct	_	_
-32	13:75	13:75	NUM	RG|NOM	Case=Nom	24	nummod	_	_
-33	(	(	PUNCT	PAD	_	21	punct	_	_
-34	högra	höger	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	35	det	_	_
-35	spalten	spalt	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	21	appos	_	_
-36	,	,	PUNCT	MID	_	35	punct	_	_
-37	kursiv	kursiv	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	38	amod	_	_
-38	stil	stil	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	35	nmod	_	_
-39	)	)	PUNCT	PAD	_	21	punct	_	_
-40	.	.	PUNCT	MAD	_	3	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 name	color:blue
+1	Då	_	ADV	_	_	6	advmod	_	_
+2	har	_	AUX	PRES-AUX	_	6	aux	_	_
+3	ni	_	PRON	PERS-P2PL-NOM	_	6	nsubj	_	_
+4	nog	_	ADV	_	_	6	advmod	_	_
+5	tyvärr	_	ADV	_	_	6	advmod	_	_
+6	kommit	_	VERB	SUP-ACT	_	0	root	_	_
+7	till	_	ADP	_	_	9	case	_	_
+8	fel	_	ADJ	POS-IND	_	9	det	_	_
+9	Paul	_	PROPN	SG-NOM	_	6	nmod	_	_
+10	Auster	_	PROPN	SG-NOM	_	9	name	_	_
+11	.	_	PUNCT	Period	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 24 name	color:blue
+1	Det	_	DET	SG-DEF	_	2	det	_	_
+2	hus	_	NOUN	IND-NOM	_	6	nsubj	_	_
+3	Auster	_	PROPN	SG-NOM	_	4	nsubj	_	_
+4	bodde	_	VERB	PAST-ACT	_	2	acl:relcl	_	_
+5	i	_	ADP	_	_	4	advmod	_	_
+6	låg	_	VERB	PAST-ACT	_	0	root	_	_
+7	mitt	_	ADV	_	_	11	advmod	_	_
+8	på	_	ADP	_	_	11	case	_	_
+9	ett	_	DET	SG-IND	_	11	det	_	_
+10	långt	_	ADJ	POS-SG-IND	_	11	amod	_	_
+11	kvarter	_	NOUN	IND-NOM	_	6	nmod	_	_
+12	som	_	SCONJ	REL	_	13	mark	_	_
+13	sträckte	_	VERB	PAST-ACT	_	11	acl:relcl	_	_
+14	sig	_	PRON	RFL-ACC	_	13	dobj	_	_
+15	mellan	_	ADP	_	_	19	case	_	_
+16	116:e	_	ADJ	ORD	_	19	amod	_	_
+17	och	_	CONJ	_	_	16	cc	_	_
+18	119:e	_	ADJ	ORD	_	16	conj	_	_
+19	gatan	_	NOUN	SG-DEF-NOM	_	13	nmod	_	_
+20	strax	_	ADV	_	_	21	advmod	_	_
+21	söder	_	NOUN	SG-IND-NOM	_	19	nmod	_	_
+22	om	_	ADP	_	_	23	case	_	_
+23	Riverside	_	PROPN	SG-NOM	_	21	nmod	_	_
+24	Church	_	NOUN	SG-FGN	_	23	name	_	_
+25	och	_	CONJ	_	_	23	cc	_	_
+26	Grants	_	PROPN	SG-GEN	_	27	nmod:poss	_	_
+27	grav	_	NOUN	SG-IND-NOM	_	23	conj	_	_
+28	.	_	PUNCT	Period	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 19 name	color:blue
+1	Sökvägarna	_	NOUN	PL-DEF-NOM	_	4	nsubjpass	_	_
+2	till	_	ADP	_	_	3	case	_	_
+3	filerna	_	NOUN	PL-DEF-NOM	_	1	nmod	_	_
+4	anges	_	VERB	PRES-PASS	_	0	root	_	_
+5	i	_	ADP	_	_	7	case	_	_
+6	dialogrutan	_	NOUN	SG-DEF-NOM	_	7	nmod	_	_
+7	Referenser	_	NOUN	PL-IND-NOM	_	4	nmod	_	_
+8	,	_	PUNCT	Comma	_	4	punct	_	_
+9	som	_	SCONJ	REL	_	11	mark	_	_
+10	du	_	PRON	PERS-P2SG-NOM	_	11	nsubj	_	_
+11	öppnar	_	VERB	PRES-ACT	_	7	acl:relcl	_	_
+12	med	_	ADP	_	_	14	case	_	_
+13	kommandot	_	NOUN	SG-DEF-NOM	_	14	nmod	_	_
+14	Referenser	_	NOUN	PL-IND-NOM	_	11	nmod	_	_
+15	på	_	ADP	_	_	16	case	_	_
+16	Verktyg-menyn	_	NOUN	SG-DEF-NOM	_	14	nmod	_	_
+17	i	_	ADP	_	_	20	case	_	_
+18	Visual	_	ADJ	POS-FGN	_	20	compound	_	_
+19	Basic	_	PROPN	SG-NOM	_	18	name	_	_
+20	Editor	_	NOUN	SG-NOM-FGN	_	16	nmod	_	_
+21	.	_	PUNCT	Period	_	4	punct	_	_
 
 ~~~
 

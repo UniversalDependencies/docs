@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `det`: [det:predet]().
 
-3968 nodes (3%) are attached to their parents as `det`.
+3964 nodes (3%) are attached to their parents as `det`.
 
-3968 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.03377016129032.
+3964 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.03380423814329.
 
-The following 23 pairs of parts of speech are connected with `det`: [fa-pos/NOUN]()-[fa-pos/DET]() (3387; 85% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (207; 5% instances), [fa-pos/NOUN]()-[fa-pos/PRON]() (134; 3% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (104; 3% instances), [fa-pos/ADV]()-[fa-pos/DET]() (24; 1% instances), [fa-pos/NOUN]()-[fa-pos/INTJ]() (24; 1% instances), [fa-pos/NUM]()-[fa-pos/DET]() (22; 1% instances), [fa-pos/ADJ]()-[fa-pos/DET]() (20; 1% instances), [fa-pos/PRON]()-[fa-pos/DET]() (12; 0% instances), [fa-pos/PRON]()-[fa-pos/PRON]() (12; 0% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (4; 0% instances), [fa-pos/VERB]()-[fa-pos/DET]() (3; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADV]() (2; 0% instances), [fa-pos/ADV]()-[fa-pos/PRON]() (2; 0% instances), [fa-pos/SCONJ]()-[fa-pos/PRON]() (2; 0% instances), [fa-pos/X]()-[fa-pos/INTJ]() (2; 0% instances), [fa-pos/ADV]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/ADV]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/DET]()-[fa-pos/DET]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/NUM]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `det`: [fa-pos/NOUN]()-[fa-pos/DET]() (3380; 85% instances), [fa-pos/NOUN]()-[fa-pos/ADV]() (203; 5% instances), [fa-pos/NOUN]()-[fa-pos/PRON]() (134; 3% instances), [fa-pos/NOUN]()-[fa-pos/NOUN]() (101; 3% instances), [fa-pos/NOUN]()-[fa-pos/INTJ]() (24; 1% instances), [fa-pos/ADV]()-[fa-pos/DET]() (23; 1% instances), [fa-pos/NUM]()-[fa-pos/DET]() (22; 1% instances), [fa-pos/PRON]()-[fa-pos/DET]() (20; 1% instances), [fa-pos/ADJ]()-[fa-pos/DET]() (19; 0% instances), [fa-pos/PRON]()-[fa-pos/PRON]() (12; 0% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (4; 0% instances), [fa-pos/PRON]()-[fa-pos/ADV]() (4; 0% instances), [fa-pos/VERB]()-[fa-pos/DET]() (3; 0% instances), [fa-pos/ADJ]()-[fa-pos/ADV]() (2; 0% instances), [fa-pos/ADV]()-[fa-pos/PRON]() (2; 0% instances), [fa-pos/SCONJ]()-[fa-pos/PRON]() (2; 0% instances), [fa-pos/X]()-[fa-pos/INTJ]() (2; 0% instances), [fa-pos/ADV]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/ADV]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/DET]()-[fa-pos/DET]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/NUM]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/ADV]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu

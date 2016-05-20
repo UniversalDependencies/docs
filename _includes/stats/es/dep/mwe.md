@@ -77,3 +77,81 @@ The following 61 pairs of parts of speech are connected with `mwe`: [es-pos/ADV]
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+8729 nodes (2%) are attached to their parents as `mwe`.
+
+8725 instances of `mwe` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.46133577729408.
+
+The following 55 pairs of parts of speech are connected with `mwe`: [es-pos/ADP]()-[es-pos/NOUN]() (3059; 35% instances), [es-pos/ADP]()-[es-pos/ADP]() (1494; 17% instances), [es-pos/ADP]()-[es-pos/DET]() (861; 10% instances), [es-pos/NOUN]()-[es-pos/ADP]() (434; 5% instances), [es-pos/ADV]()-[es-pos/SCONJ]() (390; 4% instances), [es-pos/ADV]()-[es-pos/ADP]() (233; 3% instances), [es-pos/CONJ]()-[es-pos/SCONJ]() (226; 3% instances), [es-pos/ADP]()-[es-pos/ADV]() (207; 2% instances), [es-pos/ADP]()-[es-pos/SCONJ]() (195; 2% instances), [es-pos/ADJ]()-[es-pos/ADP]() (194; 2% instances), [es-pos/ADP]()-[es-pos/ADJ]() (152; 2% instances), [es-pos/ADP]()-[es-pos/PRON]() (152; 2% instances), [es-pos/NOUN]()-[es-pos/SCONJ]() (146; 2% instances), [es-pos/NOUN]()-[es-pos/NOUN]() (136; 2% instances), [es-pos/NOUN]()-[es-pos/DET]() (93; 1% instances), [es-pos/CONJ]()-[es-pos/NOUN]() (88; 1% instances), [es-pos/PART]()-[es-pos/ADV]() (72; 1% instances), [es-pos/NOUN]()-[es-pos/ADV]() (70; 1% instances), [es-pos/PART]()-[es-pos/NOUN]() (67; 1% instances), [es-pos/ADV]()-[es-pos/DET]() (47; 1% instances), [es-pos/ADV]()-[es-pos/ADV]() (43; 0% instances), [es-pos/DET]()-[es-pos/NOUN]() (38; 0% instances), [es-pos/DET]()-[es-pos/ADV]() (37; 0% instances), [es-pos/SCONJ]()-[es-pos/NOUN]() (37; 0% instances), [es-pos/ADJ]()-[es-pos/DET]() (35; 0% instances), [es-pos/SCONJ]()-[es-pos/ADV]() (31; 0% instances), [es-pos/SCONJ]()-[es-pos/ADP]() (23; 0% instances), [es-pos/ADP]()-[es-pos/CONJ]() (20; 0% instances), [es-pos/DET]()-[es-pos/SCONJ]() (18; 0% instances), [es-pos/NOUN]()-[es-pos/CONJ]() (17; 0% instances), [es-pos/CONJ]()-[es-pos/ADV]() (15; 0% instances), [es-pos/ADJ]()-[es-pos/SCONJ]() (13; 0% instances), [es-pos/ADV]()-[es-pos/NOUN]() (13; 0% instances), [es-pos/DET]()-[es-pos/ADJ]() (12; 0% instances), [es-pos/ADP]()-[es-pos/NUM]() (10; 0% instances), [es-pos/ADV]()-[es-pos/CONJ]() (8; 0% instances), [es-pos/NOUN]()-[es-pos/VERB]() (8; 0% instances), [es-pos/DET]()-[es-pos/ADP]() (6; 0% instances), [es-pos/ADJ]()-[es-pos/NOUN]() (3; 0% instances), [es-pos/ADV]()-[es-pos/ADJ]() (3; 0% instances), [es-pos/PRON]()-[es-pos/DET]() (3; 0% instances), [es-pos/PRON]()-[es-pos/NOUN]() (3; 0% instances), [es-pos/SCONJ]()-[es-pos/SCONJ]() (3; 0% instances), [es-pos/DET]()-[es-pos/DET]() (2; 0% instances), [es-pos/PART]()-[es-pos/DET]() (2; 0% instances), [es-pos/ADP]()-[es-pos/PUNCT]() (1; 0% instances), [es-pos/ADV]()-[es-pos/PART]() (1; 0% instances), [es-pos/ADV]()-[es-pos/PRON]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/NUM]() (1; 0% instances), [es-pos/NUM]()-[es-pos/ADP]() (1; 0% instances), [es-pos/PART]()-[es-pos/SCONJ]() (1; 0% instances), [es-pos/SCONJ]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/SCONJ]()-[es-pos/CONJ]() (1; 0% instances), [es-pos/SCONJ]()-[es-pos/DET]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 mwe	color:blue
+1	Juego	juego	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
+2	diversión	diversión	NOUN	NOUN	Gender=Fem|Number=Sing	1	nmod	_	_
+3	,	,	PUNCT	PUNCT	PunctType=Comm	1	punct	_	_
+4	lucidez	lucidez	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	_
+5	,	,	PUNCT	PUNCT	PunctType=Comm	1	punct	_	_
+6	espectáculo	espectáculo	NOUN	NOUN	Gender=Masc|Number=Sing	1	conj	_	_
+7	a	a	ADP	ADP	AdpType=Prep	6	advmod	_	MWE=al_fin|MWEPOS=ADV
+8	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	mwe	_	_
+9	fin	fin	NOUN	NOUN	_	7	mwe	_	_
+10	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 mwe	color:blue
+1	Estabas	estar	VERB	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	5	cop	_	_
+2	arriba	arriba	ADV	ADV	_	5	dobj	_	_
+3	con	con	ADP	ADP	AdpType=Prep	5	case	_	_
+4	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	gozo	gozo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
+6	puesto	puesto	ADJ	ADJ	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	_	_
+7	y	y	CONJ	CONJ	_	5	cc	_	_
+8	a	a	ADP	ADP	AdpType=Prep	11	mark	_	MWE=a_punto_de|MWEPOS=ADP
+9	punto	punto	NOUN	NOUN	_	8	mwe	_	_
+10	de	de	ADP	ADP	AdpType=Prep	8	mwe	_	_
+11	ganar	ganar	VERB	VERB	VerbForm=Inf	5	conj	_	_
+12	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 mwe	color:blue
+1	Juego	juego	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
+2	diversión	diversión	NOUN	NOUN	Gender=Fem|Number=Sing	1	nmod	_	_
+3	,	,	PUNCT	PUNCT	PunctType=Comm	1	punct	_	_
+4	lucidez	lucidez	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	_
+5	,	,	PUNCT	PUNCT	PunctType=Comm	1	punct	_	_
+6	espectáculo	espectáculo	NOUN	NOUN	Gender=Masc|Number=Sing	1	conj	_	_
+7	a	a	ADP	ADP	AdpType=Prep	6	advmod	_	MWE=al_fin|MWEPOS=ADV
+8	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	mwe	_	_
+9	fin	fin	NOUN	NOUN	_	7	mwe	_	_
+10	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
+
+~~~
+
+

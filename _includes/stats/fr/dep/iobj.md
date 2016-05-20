@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-920 nodes (0%) are attached to their parents as `iobj`.
+893 nodes (0%) are attached to their parents as `iobj`.
 
-911 instances of `iobj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8554347826087.
+887 instances of `iobj` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.7939529675252.
 
-The following 7 pairs of parts of speech are connected with `iobj`: [fr-pos/VERB]()-[fr-pos/PRON]() (835; 91% instances), [fr-pos/NOUN]()-[fr-pos/PRON]() (49; 5% instances), [fr-pos/ADJ]()-[fr-pos/PRON]() (24; 3% instances), [fr-pos/PRON]()-[fr-pos/PRON]() (6; 1% instances), [fr-pos/VERB]()-[fr-pos/ADP]() (4; 0% instances), [fr-pos/ADV]()-[fr-pos/PRON]() (1; 0% instances), [fr-pos/PROPN]()-[fr-pos/PRON]() (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: [fr-pos/VERB]()-[fr-pos/PRON]() (814; 91% instances), [fr-pos/NOUN]()-[fr-pos/PRON]() (45; 5% instances), [fr-pos/ADJ]()-[fr-pos/PRON]() (26; 3% instances), [fr-pos/PRON]()-[fr-pos/PRON]() (6; 1% instances), [fr-pos/ADV]()-[fr-pos/PRON]() (1; 0% instances), [fr-pos/PROPN]()-[fr-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,18 +20,18 @@ The following 7 pairs of parts of speech are connected with `iobj`: [fr-pos/VERB
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 iobj	color:blue
-1	Elle	_	PRON	_	_	3	nsubj	_	_
-2	y	_	PRON	_	_	3	iobj	_	_
-3	incarnera	_	VERB	_	_	0	root	_	_
-4	la	_	DET	_	_	5	det	_	_
-5	Poussette	_	PROPN	_	_	3	dobj	_	_
-6	de	_	ADP	_	_	7	case	_	_
-7	Manon	_	PROPN	_	_	5	nmod	_	_
-8	peu	_	ADV	_	_	9	mwe	_	_
-9	de	_	DET	_	_	10	det	_	_
-10	temps	_	NOUN	_	_	3	nmod	_	_
-11	après	_	ADP	_	_	10	advmod	_	_
-12	.	_	PUNCT	_	_	3	punct	_	_
+1	Elle	elle	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	y	y	PRON	_	_	3	iobj	_	_
+3	incarnera	incarner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing	5	det	_	_
+5	Poussette	Poussette	PROPN	_	_	3	dobj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Manon	Manon	PROPN	_	_	5	nmod	_	_
+8	peu	peu	ADV	_	_	10	det	_	_
+9	de	un	DET	_	Definite=Ind|PronType=Dem	8	mwe	_	_
+10	temps	temps	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+11	après	après	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -42,17 +42,17 @@ The following 7 pairs of parts of speech are connected with `iobj`: [fr-pos/VERB
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 iobj	color:blue
-1	Le	_	DET	_	_	2	det	_	_
-2	roi	_	NOUN	_	_	8	nsubj	_	_
-3	Mutesa	_	PROPN	_	_	2	appos	_	_
-4	II	_	NUM	_	_	3	nummod	_	_
-5	en	_	PRON	_	_	8	iobj	_	_
-6	devient	_	VERB	_	_	8	cop	_	_
-7	le	_	DET	_	_	8	det	_	_
-8	président	_	NOUN	_	_	0	root	_	_
-9	à	_	ADP	_	_	10	case	_	_
-10	vie	_	NOUN	_	_	8	nmod	_	_
-11	.	_	PUNCT	_	_	8	punct	_	_
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing	2	det	_	_
+2	roi	roi	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	Mutesa	Mutesa	PROPN	_	_	2	appos	_	_
+4	II	II	NUM	_	_	3	nummod	_	_
+5	en	en	PRON	_	Person=3	8	iobj	_	_
+6	devient	devenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing	8	det	_	_
+8	président	président	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	à	à	ADP	_	_	10	case	_	_
+10	vie	vie	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
@@ -63,13 +63,13 @@ The following 7 pairs of parts of speech are connected with `iobj`: [fr-pos/VERB
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 iobj	color:blue
-1	Le	_	DET	_	_	2	det	_	_
-2	coût	_	NOUN	_	_	6	nsubj	_	_
-3	en	_	PRON	_	_	6	iobj	_	_
-4	est	_	VERB	_	_	6	cop	_	_
-5	moins	_	ADV	_	_	6	advmod	_	_
-6	difficile	_	ADJ	_	_	0	root	_	_
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing	2	det	_	_
+2	coût	coût	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	en	en	PRON	_	Person=3	6	iobj	_	_
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	moins	moins	ADV	_	_	6	advmod	_	_
+6	difficile	difficile	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

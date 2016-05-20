@@ -49,21 +49,21 @@ The following 14 pairs of parts of speech are connected with `cc:preconj`: [fi-p
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 cc:preconj	color:blue
-1	Mitä	mitä	CONJ	C	_	3	cc:preconj	_	_
-2	harvempi	harva	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	3	nsubj	_	_
-3	tietäisi	tietää	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
-4	satulalaukuissa	satula#laukku	NOUN	N	Case=Ine|Number=Plur	5	nmod	_	_
-5	olevasta	olla	VERB	V	Case=Ela|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	6	acl	_	_
-6	kullasta	kulta	NOUN	N	Case=Ela|Number=Sing	3	nmod	_	SpaceAfter=No
-7	,	,	PUNCT	Punct	_	3	punct	_	_
-8	sen	sen	ADV	Adv	_	3	cc	_	_
-9	parempi	hyvä	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	3	conj	_	SpaceAfter=No
-10	.	.	PUNCT	Punct	_	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 cc:preconj	color:blue
+1	Me	minä	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	olemme	olla	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	2	dobj	_	_
+4	velkaa	velka	NOUN	N	Case=Par|Number=Sing	2	nmod	_	_
+5	sekä	sekä	CONJ	C	_	6	cc:preconj	_	_
+6	Turkille	Turkki	PROPN	N	Case=All|Number=Sing	2	nmod	_	_
+7	että	että	CONJ	C	_	6	cc	_	_
+8	omille	oma	ADJ	A	Case=All|Degree=Pos|Number=Plur	9	amod	_	_
+9	kansalaisillemme	kansa#lainen	NOUN	N	Case=All|Number=Plur|Number[psor]=Plur|Person[psor]=1	6	conj	2:nmod	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	2	punct	_	_
 
 ~~~
 

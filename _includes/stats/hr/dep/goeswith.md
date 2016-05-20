@@ -64,11 +64,11 @@ The following 10 pairs of parts of speech are connected with `goeswith`: [hr-pos
 
 
 ~~~ conllu
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
 # visual-style 26	bgColor:blue
 # visual-style 26	fgColor:white
-# visual-style 26 27 goeswith	color:blue
+# visual-style 28	bgColor:blue
+# visual-style 28	fgColor:white
+# visual-style 28 26 goeswith	color:blue
 1	Nedavna	nedavan	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	_
 2	ispitivanja	ispitivanje	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	_
 3	javnosti	javnost	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_

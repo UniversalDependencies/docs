@@ -103,14 +103,14 @@
     "lang_code": "bg", 
     "contributors": [
       {
-        "full": "Petya Osenova", 
-        "last": "Osenova", 
-        "first": "Petya"
-      }, 
-      {
         "full": "Kiril Simov", 
         "last": "Simov", 
         "first": "Kiril"
+      }, 
+      {
+        "full": "Petya Osenova", 
+        "last": "Osenova", 
+        "first": "Petya"
       }
     ], 
     "lang_name": "Bulgarian"
@@ -257,9 +257,14 @@
     "lang_code": "nl_lassysmall", 
     "contributors": [
       {
-        "full": "Gosse, van Noord, Gertjan Bouma", 
+        "full": "Gosse Bouma", 
         "last": "Bouma", 
-        "first": "Gosse, van Noord, Gertjan"
+        "first": "Gosse"
+      }, 
+      {
+        "full": "Gertjan van Noord", 
+        "last": "van Noord", 
+        "first": "Gertjan"
       }
     ], 
     "lang_name": "Dutch-LassySmall"
@@ -381,14 +386,19 @@
     "lang_code": "et", 
     "contributors": [
       {
-        "full": "Jan \u0160t\u011bp\u00e1nek", 
-        "last": "\u0160t\u011bp\u00e1nek", 
-        "first": "Jan"
+        "full": "Kadri Muischnek", 
+        "last": "Muischnek", 
+        "first": "Kadri"
       }, 
       {
-        "full": "Daniel Zeman", 
-        "last": "Zeman", 
-        "first": "Daniel"
+        "full": "Kaili M\u00fc\u00fcrisep", 
+        "last": "M\u00fc\u00fcrisep", 
+        "first": "Kaili"
+      }, 
+      {
+        "full": "Tiina Puolakainen", 
+        "last": "Puolakainen", 
+        "first": "Tiina"
       }
     ], 
     "lang_name": "Estonian"
@@ -938,9 +948,19 @@
     "lang_code": "ru", 
     "contributors": [
       {
-        "full": "Various at Google", 
-        "last": "Various at Google", 
-        "first": "?"
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Vitaly Nikolaev", 
+        "last": "Nikolaev", 
+        "first": "Vitaly"
+      }, 
+      {
+        "full": "Olga Lyashevskaya", 
+        "last": "Lyashevskaya", 
+        "first": "Olga"
       }
     ], 
     "lang_name": "Russian"
@@ -959,12 +979,22 @@
         "first": "Olga"
       }, 
       {
-        "full": "", 
-        "last": "", 
-        "first": "?"
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Lena Shakurova", 
+        "last": "Shakurova", 
+        "first": "Lena"
+      }, 
+      {
+        "full": "Nina Mustafina", 
+        "last": "Mustafina", 
+        "first": "Nina"
       }
     ], 
-    "lang_name": "Russian-Syntagrus"
+    "lang_name": "Russian-SynTagRus"
   }, 
   {
     "lang_code": "sl", 

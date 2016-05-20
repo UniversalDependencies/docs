@@ -96,35 +96,44 @@ Children of `X` nodes belong to 12 different parts of speech: [PUNCT]() (127; 35
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 272 `X` lemmas (1%), 271 `X` types (1%) and 306 `X` tokens (0%).
-Out of 14 observed tags, the rank of `X` is: 8 in number of lemmas, 10 in number of types and 14 in number of tokens.
+There are 270 `X` lemmas (1%), 269 `X` types (1%) and 304 `X` tokens (0%).
+Out of 16 observed tags, the rank of `X` is: 8 in number of lemmas, 11 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>the, 70-, ala-, in, keng-, maa-, sosiaali-, 50-, aquis, beat</em>
+The 10 most frequent `X` lemmas: <em>70-, in, sosiaali-, the, ala-, kauppa-, keng-, maa-, 50-, aquis</em>
 
-The 10 most frequent `X` types:  <em>the, 70-, ala-, in, keng-, maa-, sosiaali-, 50-, Lilla, Pretty</em>
+The 10 most frequent `X` types:  <em>70-, in, sosiaali-, the, Kauppa-, ala-, keng-, maa-, 50-, Lilla</em>
 
-The 10 most frequent ambiguous lemmas: <em>blues</em> ([PROPN]() 1, [X]() 1), <em>dementia</em> ([NOUN]() 1, [X]() 1), <em>home</em> ([NOUN]() 3, [X]() 1), <em>is</em> ([NOUN]() 2, [X]() 1), <em>me</em> ([PRON]() 487, [DET]() 74, [X]() 1), <em>termi</em> ([NOUN]() 4, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>the</em> ([X]() 4, [PROPN]() 1), <em>out</em> ([X]() 2, [NOUN]() 2), <em>home</em> ([NOUN]() 3, [X]() 1), <em>is</em> ([PROPN]() 2, [X]() 1), <em>made</em> ([NOUN]() 1, [X]() 1), <em>me</em> ([PRON]() 483, [DET]() 74, [X]() 1), <em>new</em> ([PROPN]() 8, [X]() 1), <em>partners</em> ([PROPN]() 1, [X]() 1), <em>queen</em> ([PROPN]() 1, [X]() 1), <em>ride</em> ([X]() 1, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>m-</em> ([PRON]() 1, [X]() 1), <em>me</em> ([PRON]() 124, [VERB]() 1, [X]() 1), <em>se-</em> ([PRON]() 1, [X]() 1), <em>termi</em> ([NOUN]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>out</em> ([NOUN]() 1, [X]() 1), <em>New</em> ([PROPN]() 8, [X]() 1), <em>Ride</em> ([PROPN]() 1, [X]() 1), <em>m-</em> ([PRON]() 1, [X]() 1), <em>me</em> ([PRON]() 123, [X]() 1, [VERB]() 1), <em>se-</em> ([PRON]() 1, [X]() 1), <em>termi</em> ([NOUN]() 2, [X]() 1)
 
 
+* <em>out</em>
+  * [NOUN]() 1: <em>Aini toivoi , että työterveysasema olisi koonnut burn <b>out</b> -ryhmän , missä olisi voinut jakaa kokemuksia toisten kansa .</em>
+  * [X]() 1: <em>Kuten tunnettua yleensä vasta Microsoft pystyy muuttamaan seuraavan lauseen imperfektiin : the cash is <b>out</b> there .</em>
+* <em>New</em>
+  * [PROPN]() 8: <em>Lontoo on Tokion ja <b>New</b> Yorkin aikavyöhykkeiden välissä .</em>
+  * [X]() 1: <em>Nykyisin hän lentää aina muutaman viikon väliajoin Bostonista Tokioon kahdeksi viikoksi johtamaan nuorta <b>New</b> Japan Philharmonic Orchestraa ja lisäksi johtaa aika ajoin Euroopassa .</em>
+* <em>Ride</em>
+  * [PROPN]() 1: <em>Hiukan eilistä lämpimämmällä säällä vauhtihirmu olisi varmasti hätyytellyt <b>Ride</b> The Nightin nimissä olevaa SE:tä 14,4 .</em>
+  * [X]() 1: <em>Express <b>Ride</b> vain mennä hutkutteli loppumatkan .</em>
 * <em>m-</em>
   * [PRON]() 1: <em>Toi ihmettelee välillä että <b>m-</b> nukun selkä häneem päin</em>
   * [X]() 1: <em>siin poika sit meinas , <b>m-</b> pudotti hattunsa päästä ja ... katso taakse siinä niinku ... kaatu ... ajoi siin semmoseen ... suureen kiveen ja kaatu pyörällääm siinä ja ...</em>
 * <em>me</em>
-  * [PRON]() 124: <em><b>me</b> ei tiätäny</em>
-  * [VERB]() 1: <em>se oli pannus semmosia ehtoja ett ei semmosiin ehtoin kukaam <b>me</b></em>
+  * [PRON]() 123: <em>no sit yks toinen kaveri lähti armeijaan ja <b>me</b> oltiin sovittu .</em>
   * [X]() 1: <em>Why did you do this to <b>me</b> !? Colin valitti itkuisen humalaisella äänellä .</em>
+  * [VERB]() 1: <em>se oli pannus semmosia ehtoja ett ei semmosiin ehtoin kukaam <b>me</b></em>
 * <em>se-</em>
   * [PRON]() 1: <em>Onko <b>se-</b> ku se täällä Pieksämäellä on ni onko se sit ihan täällä kokonaan ett ei se tuu yökskään kottiin ,</em>
   * [X]() 1: <em>ko se on <b>se-</b> semmonen ujo ollu</em>
 * <em>termi</em>
-  * [NOUN]() 2: <em>" Täältä löytyy tämmöinenkin <b>termi</b> kuin lukihäiriö . "</em>
+  * [NOUN]() 2: <em>PC-kortti on selvästi parempi <b>termi</b> kuin PCMCIA .</em>
   * [X]() 1: <em>Muuten asialliseen kiuasartikkeliinne oli tullut ikävä , joskin yleinen asia- ( <b>termi</b> ) virhe .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 0.996324 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `X` is 0.996296 (the average of all parts of speech is 2.044212).
 
 The 1st highest number of forms (1) was observed with the lemma “10-”: <em>10-</em>.
 
@@ -137,21 +146,21 @@ The 3rd highest number of forms (1) was observed with the lemma “150-”: <em>
 
 ## Relations
 
-`X` nodes are attached to their parents using 4 different relations: [fi-dep/conj]() (148; 48% instances), [fi-dep/dep]() (142; 46% instances), [fi-dep/root]() (15; 5% instances), [fi-dep/vocative]() (1; 0% instances)
+`X` nodes are attached to their parents using 21 different relations: [fi-dep/conj]() (149; 49% instances), [fi-dep/amod]() (26; 9% instances), [fi-dep/dep]() (24; 8% instances), [fi-dep/nmod]() (23; 8% instances), [fi-dep/reparandum]() (17; 6% instances), [fi-dep/root]() (15; 5% instances), [fi-dep/nsubj]() (13; 4% instances), [fi-dep/advmod]() (6; 2% instances), [fi-dep/foreign]() (6; 2% instances), [fi-dep/dobj]() (4; 1% instances), [fi-dep/nsubj:cop]() (4; 1% instances), [fi-dep/ccomp]() (3; 1% instances), [fi-dep/compound:nn]() (3; 1% instances), [fi-dep/name]() (3; 1% instances), [fi-dep/case]() (2; 1% instances), [fi-dep/acl]() (1; 0% instances), [fi-dep/aux]() (1; 0% instances), [fi-dep/cc]() (1; 0% instances), [fi-dep/compound:prt]() (1; 0% instances), [fi-dep/csubj:cop]() (1; 0% instances), [fi-dep/vocative]() (1; 0% instances)
 
-Parents of `X` nodes belong to 9 different parts of speech: [NOUN]() (148; 48% instances), [X]() (65; 21% instances), [VERB]() (34; 11% instances), [ADJ]() (23; 8% instances), [PROPN]() (17; 6% instances), [ROOT]() (15; 5% instances), [PRON]() (2; 1% instances), [ADV]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `X` nodes belong to 10 different parts of speech: [NOUN]() (151; 50% instances), [X]() (64; 21% instances), [VERB]() (29; 10% instances), [ADJ]() (21; 7% instances), [PROPN]() (19; 6% instances), [ROOT]() (15; 5% instances), [PRON]() (2; 1% instances), [ADV]() (1; 0% instances), [DET]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 
-214 (70%) `X` nodes are leaves.
+223 (73%) `X` nodes are leaves.
 
-55 (18%) `X` nodes have one child.
+48 (16%) `X` nodes have one child.
 
-19 (6%) `X` nodes have two children.
+14 (5%) `X` nodes have two children.
 
-18 (6%) `X` nodes have three or more children.
+19 (6%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 7.
 
-Children of `X` nodes are attached using 17 different relations: [fi-dep/dep]() (61; 35% instances), [fi-dep/punct]() (37; 21% instances), [fi-dep/nmod]() (17; 10% instances), [fi-dep/conj]() (10; 6% instances), [fi-dep/amod]() (9; 5% instances), [fi-dep/nsubj]() (8; 5% instances), [fi-dep/cop]() (7; 4% instances), [fi-dep/advmod]() (5; 3% instances), [fi-dep/cc]() (5; 3% instances), [fi-dep/acl]() (4; 2% instances), [fi-dep/aux]() (2; 1% instances), [fi-dep/case]() (2; 1% instances), [fi-dep/vocative]() (2; 1% instances), [fi-dep/csubj]() (1; 1% instances), [fi-dep/det]() (1; 1% instances), [fi-dep/mark]() (1; 1% instances), [fi-dep/neg]() (1; 1% instances)
+Children of `X` nodes are attached using 23 different relations: [fi-dep/punct]() (34; 21% instances), [fi-dep/amod]() (27; 17% instances), [fi-dep/nmod]() (19; 12% instances), [fi-dep/advmod]() (10; 6% instances), [fi-dep/conj]() (10; 6% instances), [fi-dep/dep]() (8; 5% instances), [fi-dep/cop]() (7; 4% instances), [fi-dep/acl]() (6; 4% instances), [fi-dep/foreign]() (6; 4% instances), [fi-dep/nsubj:cop]() (6; 4% instances), [fi-dep/cc]() (5; 3% instances), [fi-dep/nsubj]() (5; 3% instances), [fi-dep/aux]() (3; 2% instances), [fi-dep/case]() (3; 2% instances), [fi-dep/name]() (2; 1% instances), [fi-dep/vocative]() (2; 1% instances), [fi-dep/compound:nn]() (1; 1% instances), [fi-dep/compound:prt]() (1; 1% instances), [fi-dep/csubj:cop]() (1; 1% instances), [fi-dep/det]() (1; 1% instances), [fi-dep/dobj]() (1; 1% instances), [fi-dep/mark]() (1; 1% instances), [fi-dep/neg]() (1; 1% instances)
 
-Children of `X` nodes belong to 12 different parts of speech: [X]() (65; 38% instances), [PUNCT]() (37; 21% instances), [VERB]() (22; 13% instances), [NOUN]() (14; 8% instances), [PROPN]() (8; 5% instances), [ADJ]() (7; 4% instances), [ADV]() (6; 3% instances), [CONJ]() (5; 3% instances), [PRON]() (5; 3% instances), [ADP]() (2; 1% instances), [DET]() (1; 1% instances), [SCONJ]() (1; 1% instances)
+Children of `X` nodes belong to 13 different parts of speech: [X]() (64; 40% instances), [PUNCT]() (34; 21% instances), [VERB]() (22; 14% instances), [PROPN]() (9; 6% instances), [NOUN]() (8; 5% instances), [ADJ]() (6; 4% instances), [PRON]() (5; 3% instances), [ADV]() (4; 3% instances), [CONJ]() (4; 3% instances), [ADP]() (1; 1% instances), [DET]() (1; 1% instances), [PART]() (1; 1% instances), [SCONJ]() (1; 1% instances)
 

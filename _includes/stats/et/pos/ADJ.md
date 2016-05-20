@@ -4,83 +4,85 @@
 
 ## Treebank Statistics (UD_Estonian)
 
-There are 374 `ADJ` lemmas (10%), 386 `ADJ` types (10%) and 480 `ADJ` tokens (5%).
-Out of 15 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
+There are 4591 `ADJ` lemmas (16%), 8193 `ADJ` types (16%) and 19421 `ADJ` tokens (8%).
+Out of 15 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>suur+0, viimane+0, tugev+0, kogu+0, noor+0, parem+0, suur+st, valge+d, hingetu+ks, must+0</em>
+The 10 most frequent `ADJ` lemmas: <em>suur, uus, suurem, selline, esimene, mõni, iga, sama, hea, viimane</em>
 
-The 10 most frequent `ADJ` types:  <em>suur, tugev, kogu, suurest, valged, viimase, hingetuks, musta, noor, raske</em>
+The 10 most frequent `ADJ` types:  <em>kogu, suur, hea, sama, iga, võimalik, suurem, eesti, selline, uue</em>
 
-The 10 most frequent ambiguous lemmas: <em>kogu+0</em> ([ADJ]() 6, [NOUN]() 1), <em>teine+0</em> ([ADJ]() 4, [PRON]() 3, [NUM]() 2), <em>kolmas+t</em> ([NUM]() 3, [ADJ]() 2), <em>külm+0</em> ([ADJ]() 2, [NOUN]() 1), <em>alasti+0</em> ([ADV]() 1, [ADJ]() 1), <em>haige+0</em> ([NOUN]() 5, [ADJ]() 1), <em>noor+d</em> ([NOUN]() 1, [ADJ]() 1), <em>tundmatu+0</em> ([NOUN]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>suur</em> ([ADJ]() 389, [NOUN]() 3), <em>esimene</em> ([ADJ]() 256, [PRON]() 48), <em>mõni</em> ([ADJ]() 235, [PRON]() 9), <em>iga</em> ([ADJ]() 234, [PRON]() 7), <em>sama</em> ([ADJ]() 227, [PRON]() 5), <em>hea</em> ([ADJ]() 223, [NOUN]() 20), <em>viimane</em> ([ADJ]() 206, [NOUN]() 8), <em>mingi</em> ([ADJ]() 197, [PRON]() 3), <em>kogu</em> ([ADJ]() 152, [NOUN]() 19), <em>väike</em> ([ADJ]() 131, [NOUN]() 4)
 
-The 10 most frequent ambiguous types:  <em>teise</em> ([PRON]() 3, [ADJ]() 3, [NUM]() 1), <em>kolmandat</em> ([NUM]() 3, [ADJ]() 2), <em>Noored</em> ([NOUN]() 1, [ADJ]() 1), <em>haige</em> ([NOUN]() 3, [ADJ]() 1), <em>külma</em> ([NOUN]() 1, [ADJ]() 1), <em>lõppenud</em> ([VERB]() 1, [ADJ]() 1), <em>teine</em> ([NUM]() 1, [ADJ]() 1), <em>tõusnud</em> ([VERB]() 2, [ADJ]() 1), <em>ühest</em> ([PRON]() 2, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>kogu</em> ([ADJ]() 130, [NOUN]() 9), <em>hea</em> ([ADJ]() 109, [NOUN]() 11), <em>sama</em> ([ADJ]() 99, [PRON]() 1), <em>iga</em> ([ADJ]() 81, [PRON]() 3), <em>esimene</em> ([ADJ]() 55, [PRON]() 9), <em>igal</em> ([ADJ]() 51, [PRON]() 1), <em>mingi</em> ([ADJ]() 58, [PRON]() 1), <em>samal</em> ([ADJ]() 41, [PRON]() 1), <em>vana</em> ([ADJ]() 47, [NOUN]() 6), <em>viimane</em> ([ADJ]() 32, [NOUN]() 2)
 
 
-* <em>teise</em>
-  * [PRON]() 3: <em>Relvile tõusnud sõdurid tormasid kahuripaugu eest <b>teise</b> kohta .</em>
-  * [ADJ]() 3: <em>Mr Woyczewski tormab kui nool vibust <b>teise</b> korteri ukse juurde .</em>
-  * [NUM]() 1: <em>Sõjakirve kaevas juuli alguses välja Telia , kes investeerib 28 miljonit krooni Tallinna suuruselt <b>teise</b> kaabelTV firmasse Starman .</em>
-* <em>kolmandat</em>
-  * [NUM]() 3: <em>Teisipäeval aga selgus , et <b>kolmandat</b> kandidaati polegi .</em>
-  * [ADJ]() 2: <em>Seejärel ujusin Vaikses ookeanis <b>kolmandat</b> korda elus .</em>
-* <em>Noored</em>
-  * [NOUN]() 1: <em><b>Noored</b> tantsisid viimase valsi .</em>
-  * [ADJ]() 1: <em><b>Noored</b> isamaalased ja eakad maasaadikud võtsid presidendimängu liiga tõsiselt ja kogenud Savisaar mängis nad lihtsalt üle .</em>
-* <em>haige</em>
-  * [NOUN]() 3: <em>Peeter talutas <b>haige</b> kabinetist mööda koridori kööki sööma .</em>
-  * [ADJ]() 1: <em>Arst läks <b>haige</b> hamba kallale .</em>
-* <em>külma</em>
-  * [NOUN]() 1: <em>Aknatagusest vaatepildist õhkus isegi läbi klaasi <b>külma</b> .</em>
-  * [ADJ]() 1: <em>Valasin end tõrdust <b>külma</b> veega üle .</em>
-* <em>lõppenud</em>
-  * [VERB]() 1: <em>Aga Lennart eksis , kui arvas , et võitlus on <b>lõppenud</b> .</em>
-  * [ADJ]() 1: <em>Tal olid väga heledad juuksed ja loomu poolest jumekas nägu , mille naha oli kehv seep , nürid žiletid ja äsja <b>lõppenud</b> talve külmad karedaks muutnud .</em>
-* <em>teine</em>
-  * [NUM]() 1: <em>All kõnnitee kohal laperdas <b>teine</b> nurgast rebenenud plakat hooti tuule käes vaheldumisi varjates ja näidates ainsat sõna ingsots .</em>
-  * [ADJ]() 1: <em>Esimene jalg liikus tal veidi kiiremini ja sügavamalt kui <b>teine</b> .</em>
-* <em>tõusnud</em>
-  * [VERB]() 2: <em>Merepind on <b>tõusnud</b> 20 cm .</em>
-  * [ADJ]() 1: <em>Relvile <b>tõusnud</b> sõdurid tormasid kahuripaugu eest teise kohta .</em>
-* <em>ühest</em>
-  * [PRON]() 2: <em>Tuul loobib pilve <b>ühest</b> kohast teise .</em>
-  * [ADJ]() 1: <em>Kumb mees on parem - sel iginaiselikul dilemmal ei ole eestlaste jaoks <b>ühest</b> vastust .</em>
+* <em>kogu</em>
+  * [ADJ]() 130: <em>See on otsustav valik - koerale <b>kogu</b> eluks .</em>
+  * [NOUN]() 9: <em>Tume <b>kogu</b> tuli kapi taha ja istus korralikult üles tehtud kõrvalvoodile .</em>
+* <em>hea</em>
+  * [ADJ]() 109: <em>Eiko toob Grandi tugevaima küljena välja <b>hea</b> maa-ala otsimise .</em>
+  * [NOUN]() 11: <em>Sinu jaoks <b>hea</b> ?</em>
+* <em>sama</em>
+  * [ADJ]() 99: <em>Saapapael oli siidine ja tüdruku nahk oli <b>sama</b> sile .</em>
+  * [PRON]() 1: <em>" Neid kahte vaadates meenub kulunud tsitaat " Viimsest reliikviast " : mitu korda ma pean üht ja <b>sama</b> meest ... "</em>
+* <em>iga</em>
+  * [ADJ]() 81: <em>Mistõttu peaks kasvatusruumi <b>iga</b> nädal pisut tuulutama .</em>
+  * [PRON]() 3: <em>Kui Lennart esineb , on <b>iga</b> fraasi taga seitse vihjet .</em>
+* <em>esimene</em>
+  * [ADJ]() 55: <em>" See on meil <b>esimene</b> taoline õppus , eks me vigadest õpigi . "</em>
+  * [PRON]() 9: <em>Seepärast käis see <b>esimene</b> vasikas korra aia taga ära .</em>
+* <em>igal</em>
+  * [ADJ]() 51: <em>Läbi aknaklaasi nägin , et <b>igal</b> pool poodides olid järjekorrad .</em>
+  * [PRON]() 1: <em>Me liikusime Helenega täiesti vabalt <b>igal</b> pool .</em>
+* <em>mingi</em>
+  * [ADJ]() 58: <em>Küllap oli neil <b>mingi</b> eeskuju . "</em>
+  * [PRON]() 1: <em>Jalgade vahel liigutas ennast <b>mingi</b> ligane olend .</em>
+* <em>samal</em>
+  * [ADJ]() 41: <em>Aga <b>samal</b> momendil toodi meile hotellitoa võti ning anti tagasi passid .</em>
+  * [PRON]() 1: <em>Täpselt <b>samal</b> kellaajal nagu alati väljus Miili ka täna tühja kotiga majast .</em>
+* <em>vana</em>
+  * [ADJ]() 47: <em>Tema <b>vana</b> koha hõivab senine finantsdirektor Erkki Raasuke .</em>
+  * [NOUN]() 6: <em>" Ikka müüri lõhkumiseks , " vastas <b>vana</b> rahulikult .</em>
+* <em>viimane</em>
+  * [ADJ]() 32: <em>Nina tilgub nagu <b>viimane</b> kosk .</em>
+  * [NOUN]() 2: <em>Nii , et <b>viimane</b> peab automaati oma kehaga kaitsma ja katma võõraste pilkude eest .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.032086 (the average of all parts of speech is 1.041949).
+The form / lemma ratio of `ADJ` is 1.784579 (the average of all parts of speech is 1.839644).
 
-The 1st highest number of forms (2) was observed with the lemma “aastane+0”: <em>aastane, aastase</em>.
+The 1st highest number of forms (22) was observed with the lemma “mõni”: <em>mõnd, mõnda, mõndagi, mõne, mõned, mõnede, mõnedele, mõnedes, mõnedki, mõnegi, mõneks, mõnel, mõnele, mõnelegi, mõnelgi, mõnelt, mõnes, mõneski, mõnesse, mõnest, mõni, mõnigi</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “endine+0”: <em>endine, endise</em>.
+The 2nd highest number of forms (21) was observed with the lemma “väike”: <em>Väikegi, Väikestele, väike, väike-, väikese, väikesed, väikeseid, väikeseks, väikesel, väikesele, väikeses, väikesesse, väikesest, väikesi, väikest, väikeste, väikestel, väikestesse, väiksed, väikseid, väikses</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “esimene+0”: <em>Esimene, esimese</em>.
+The 3rd highest number of forms (18) was observed with the lemma “selline”: <em>selline, sellise, sellised, selliseid, selliseidki, selliseks, sellisel, sellisena, sellises, sellisest, sellist, selliste, sellistega, sellistel, sellistele, sellistelt, sellistes, sellistest</em>.
 
-`ADJ` occurs with 7 features: [et-feat/Degree]() (456; 95% instances), [et-feat/Case]() (423; 88% instances), [et-feat/Number]() (423; 88% instances), [et-feat/VerbForm]() (62; 13% instances), [et-feat/NumType]() (18; 4% instances), [et-feat/NumForm]() (17; 4% instances), [et-feat/NameType]() (2; 0% instances)
+`ADJ` occurs with 11 features: [et-feat/Case]() (16950; 87% instances), [et-feat/Number]() (16900; 87% instances), [et-feat/Degree]() (16252; 84% instances), [et-feat/VerbForm]() (3510; 18% instances), [et-feat/Voice]() (3507; 18% instances), [et-feat/Tense]() (3396; 17% instances), [et-feat/NumType]() (1187; 6% instances), [et-feat/NumForm]() (1106; 6% instances), [et-feat/PronType]() (1021; 5% instances), [et-feat/Abbr]() (41; 0% instances), [et-feat/Hyph]() (11; 0% instances)
 
-`ADJ` occurs with 20 feature-value pairs: `Case=Abl`, `Case=Add`, `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Degree=Cmp`, `Degree=Pos`, `NameType=Nat`, `NumForm=Word`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `VerbForm=Part`
+`ADJ` occurs with 37 feature-value pairs: `Abbr=Yes`, `Case=Abe`, `Case=Abl`, `Case=Add`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Ter`, `Case=Tra`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Hyph=Yes`, `NumForm=Digit`, `NumForm=Letter`, `NumForm=Roman`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Int,Rel`, `PronType=Rel`, `Tense=Past`, `Tense=Pres`, `VerbForm=Part`, `VerbForm=Sup`, `Voice=Act`, `Voice=Pass`
 
-`ADJ` occurs with 46 feature combinations.
-The most frequent feature combination is `Case=Nom|Degree=Pos|Number=Sing` (94 tokens).
-Examples: <em>suur, tugev, noor, viimane, väike, Pikk, aastane, halb, hall, raske</em>
+`ADJ` occurs with 269 feature combinations.
+The most frequent feature combination is `Case=Nom|Degree=Pos|Number=Sing` (3634 tokens).
+Examples: <em>suur, võimalik, hea, uus, raske, viimane, oluline, väike, selge, kindel</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 8 different relations: [et-dep/amod]() (406; 85% instances), [et-dep/advmod]() (39; 8% instances), [et-dep/conj]() (15; 3% instances), [et-dep/root]() (13; 3% instances), [et-dep/acl]() (2; 0% instances), [et-dep/advcl]() (2; 0% instances), [et-dep/nsubj]() (2; 0% instances), [et-dep/nmod]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 19 different relations: [et-dep/amod]() (12728; 66% instances), [et-dep/acl]() (2783; 14% instances), [et-dep/root]() (1343; 7% instances), [et-dep/conj]() (1144; 6% instances), [et-dep/xcomp]() (449; 2% instances), [et-dep/dep]() (267; 1% instances), [et-dep/ccomp]() (122; 1% instances), [et-dep/nsubj]() (117; 1% instances), [et-dep/parataxis]() (97; 0% instances), [et-dep/acl:relcl]() (95; 0% instances), [et-dep/dobj]() (87; 0% instances), [et-dep/nmod]() (72; 0% instances), [et-dep/advcl]() (39; 0% instances), [et-dep/nsubj:cop]() (36; 0% instances), [et-dep/advmod:quant]() (14; 0% instances), [et-dep/csubj]() (14; 0% instances), [et-dep/list]() (9; 0% instances), [et-dep/cc:preconj]() (4; 0% instances), [et-dep/name]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 7 different parts of speech: [NOUN]() (389; 81% instances), [VERB]() (43; 9% instances), [PROPN]() (18; 4% instances), [ADJ]() (14; 3% instances), [ROOT]() (13; 3% instances), [PRON]() (2; 0% instances), [ADV]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 13 different parts of speech: [NOUN]() (14628; 75% instances), [VERB]() (1692; 9% instances), [ROOT]() (1343; 7% instances), [ADJ]() (1018; 5% instances), [PROPN]() (389; 2% instances), [PRON]() (149; 1% instances), [NUM]() (109; 1% instances), [ADV]() (81; 0% instances), [SYM]() (7; 0% instances), [AUX]() (2; 0% instances), [ADP]() (1; 0% instances), [INTJ]() (1; 0% instances), [X]() (1; 0% instances)
 
-383 (80%) `ADJ` nodes are leaves.
+13111 (68%) `ADJ` nodes are leaves.
 
-55 (11%) `ADJ` nodes have one child.
+3020 (16%) `ADJ` nodes have one child.
 
-18 (4%) `ADJ` nodes have two children.
+962 (5%) `ADJ` nodes have two children.
 
-24 (5%) `ADJ` nodes have three or more children.
+2328 (12%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 7.
+The highest child degree of a `ADJ` node is 15.
 
-Children of `ADJ` nodes are attached using 12 different relations: [et-dep/nmod]() (50; 25% instances), [et-dep/advmod]() (41; 21% instances), [et-dep/punct]() (23; 12% instances), [et-dep/cop]() (21; 11% instances), [et-dep/nsubj]() (17; 9% instances), [et-dep/conj]() (16; 8% instances), [et-dep/cc]() (13; 7% instances), [et-dep/advcl]() (6; 3% instances), [et-dep/csubj]() (4; 2% instances), [et-dep/mark]() (4; 2% instances), [et-dep/case]() (2; 1% instances), [et-dep/aux]() (1; 1% instances)
+Children of `ADJ` nodes are attached using 29 different relations: [et-dep/punct]() (2795; 17% instances), [et-dep/advmod]() (2793; 17% instances), [et-dep/nmod]() (2743; 17% instances), [et-dep/cop]() (2050; 12% instances), [et-dep/nsubj:cop]() (1598; 10% instances), [et-dep/conj]() (1126; 7% instances), [et-dep/cc]() (909; 5% instances), [et-dep/mark]() (453; 3% instances), [et-dep/advcl]() (358; 2% instances), [et-dep/dobj]() (348; 2% instances), [et-dep/csubj:cop]() (274; 2% instances), [et-dep/dep]() (221; 1% instances), [et-dep/parataxis]() (198; 1% instances), [et-dep/amod]() (144; 1% instances), [et-dep/xcomp]() (119; 1% instances), [et-dep/nummod]() (68; 0% instances), [et-dep/case]() (63; 0% instances), [et-dep/csubj]() (63; 0% instances), [et-dep/compound:prt]() (58; 0% instances), [et-dep/det]() (38; 0% instances), [et-dep/cc:preconj]() (35; 0% instances), [et-dep/acl:relcl]() (30; 0% instances), [et-dep/nsubj]() (24; 0% instances), [et-dep/discourse]() (14; 0% instances), [et-dep/appos]() (7; 0% instances), [et-dep/advmod:quant]() (6; 0% instances), [et-dep/list]() (6; 0% instances), [et-dep/vocative]() (6; 0% instances), [et-dep/aux]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 12 different parts of speech: [NOUN]() (58; 29% instances), [ADV]() (35; 18% instances), [VERB]() (35; 18% instances), [PUNCT]() (23; 12% instances), [ADJ]() (14; 7% instances), [CONJ]() (9; 5% instances), [PRON]() (7; 4% instances), [SCONJ]() (7; 4% instances), [PROPN]() (4; 2% instances), [NUM]() (3; 2% instances), [ADP]() (2; 1% instances), [AUX]() (1; 1% instances)
+Children of `ADJ` nodes belong to 15 different parts of speech: [NOUN]() (3797; 23% instances), [VERB]() (3268; 20% instances), [ADV]() (3004; 18% instances), [PUNCT]() (2795; 17% instances), [ADJ]() (1018; 6% instances), [CONJ]() (903; 5% instances), [PRON]() (768; 5% instances), [PROPN]() (448; 3% instances), [SCONJ]() (377; 2% instances), [NUM]() (82; 0% instances), [ADP]() (63; 0% instances), [INTJ]() (14; 0% instances), [SYM]() (8; 0% instances), [X]() (2; 0% instances), [AUX]() (1; 0% instances)
 

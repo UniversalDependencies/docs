@@ -50,10 +50,10 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: [fa-
 4	برای	_	ADP	P	_	6	case	_	_
 5	این	_	DET	DET	_	6	det	_	_
 6	واحدها	_	NOUN	N_PL	Number=Plur	3	nmod	_	_
-7	را	_	PART	CLITIC	_	2	case	_	_
+7	را	را	PART	CLITIC	_	2	case	_	_
 8	شش	_	NUM	NUM	NumType=Card	9	nummod	_	_
 9	هزار	_	NUM	NUM	NumType=Card	12	nummod	_	_
-10	و	_	CONJ	CON	_	9	cc	_	_
+10	و	و	CONJ	CON	_	9	cc	_	_
 11	۶۵۰	_	NUM	NUM	NumType=Card	9	conj	_	_
 12	میلیارد	_	NOUN	N_SING	Number=Sing	13	compound	_	_
 13	ریال	_	NOUN	N_SING	Number=Sing	16	nmod	_	_
@@ -78,11 +78,11 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: [fa-
 5	این	_	DET	DET	_	7	det:predet	_	_
 6	تعداد	_	NOUN	N_SING	Number=Sing	7	det	_	_
 7	بیننده	_	NOUN	N_SING	Number=Sing	4	nmod:poss	_	_
-8	و	_	CONJ	CON	_	7	cc	_	_
+8	و	و	CONJ	CON	_	7	cc	_	_
 9	متقاضی	_	NOUN	N_SING	Number=Sing	7	conj	_	_
 10	برای	_	ADP	P	_	11	case	_	_
 11	فیلم‌های	_	NOUN	N_PL	Number=Plur	9	nmod	_	_
-12	به	_	ADP	P	_	13	case	_	_
+12	به	به	ADP	P	_	13	case	_	_
 13	نمایش	_	NOUN	N_SING	Number=Sing	15	compound:lvc	_	_
 14	در‌	_	ADP	PREV	_	15	compound:prt	_	_
 15	آمده	_	ADJ	ADJ_INO	Number=Sing|Person=3|VerbForm=Part	11	amod	_	_
@@ -92,7 +92,7 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: [fa-
 19	سینمایی	_	ADJ	ADJ	Degree=Pos	18	amod	_	_
 20	،	_	PUNCT	DELM	_	21	punct	_	_
 21	کم‌سابقه	_	ADJ	ADJ	Degree=Pos	2	ccomp	_	_
-22	و	_	CONJ	CON	_	21	cc	_	_
+22	و	و	CONJ	CON	_	21	cc	_	_
 23	نشان‌دهنده	_	NOUN	N_SING	Number=Sing	21	conj	_	_
 24	پویایی	_	NOUN	N_SING	Number=Sing	23	nmod:poss	_	_
 25	سینمای	_	NOUN	N_SING	Number=Sing	24	nmod:poss	_	_

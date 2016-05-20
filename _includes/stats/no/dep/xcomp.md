@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-4009 nodes (1%) are attached to their parents as `xcomp`.
+4015 nodes (1%) are attached to their parents as `xcomp`.
 
-3936 instances of `xcomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.95759541032677.
+3942 instances of `xcomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.95566625155666.
 
-The following 37 pairs of parts of speech are connected with `xcomp`: [no-pos/VERB]()-[no-pos/VERB]() (1283; 32% instances), [no-pos/VERB]()-[no-pos/ADJ]() (1235; 31% instances), [no-pos/VERB]()-[no-pos/NOUN]() (1018; 25% instances), [no-pos/NOUN]()-[no-pos/NOUN]() (98; 2% instances), [no-pos/VERB]()-[no-pos/ADV]() (61; 2% instances), [no-pos/VERB]()-[no-pos/PROPN]() (54; 1% instances), [no-pos/VERB]()-[no-pos/PRON]() (46; 1% instances), [no-pos/VERB]()-[no-pos/ADP]() (40; 1% instances), [no-pos/NOUN]()-[no-pos/ADJ]() (35; 1% instances), [no-pos/VERB]()-[no-pos/NUM]() (27; 1% instances), [no-pos/PROPN]()-[no-pos/NOUN]() (22; 1% instances), [no-pos/VERB]()-[no-pos/DET]() (15; 0% instances), [no-pos/NOUN]()-[no-pos/ADP]() (9; 0% instances), [no-pos/PROPN]()-[no-pos/ADJ]() (6; 0% instances), [no-pos/PROPN]()-[no-pos/NUM]() (6; 0% instances), [no-pos/ADJ]()-[no-pos/NOUN]() (5; 0% instances), [no-pos/ADJ]()-[no-pos/VERB]() (5; 0% instances), [no-pos/NOUN]()-[no-pos/PRON]() (5; 0% instances), [no-pos/NOUN]()-[no-pos/VERB]() (5; 0% instances), [no-pos/VERB]()-[no-pos/X]() (5; 0% instances), [no-pos/PRON]()-[no-pos/NOUN]() (4; 0% instances), [no-pos/NOUN]()-[no-pos/PROPN]() (3; 0% instances), [no-pos/NUM]()-[no-pos/NOUN]() (3; 0% instances), [no-pos/PRON]()-[no-pos/ADJ]() (3; 0% instances), [no-pos/ADJ]()-[no-pos/ADJ]() (2; 0% instances), [no-pos/NOUN]()-[no-pos/ADV]() (2; 0% instances), [no-pos/NOUN]()-[no-pos/DET]() (2; 0% instances), [no-pos/ADJ]()-[no-pos/PRON]() (1; 0% instances), [no-pos/ADP]()-[no-pos/NOUN]() (1; 0% instances), [no-pos/ADP]()-[no-pos/VERB]() (1; 0% instances), [no-pos/ADV]()-[no-pos/ADJ]() (1; 0% instances), [no-pos/ADV]()-[no-pos/DET]() (1; 0% instances), [no-pos/ADV]()-[no-pos/NOUN]() (1; 0% instances), [no-pos/NUM]()-[no-pos/ADP]() (1; 0% instances), [no-pos/PRON]()-[no-pos/ADP]() (1; 0% instances), [no-pos/PRON]()-[no-pos/VERB]() (1; 0% instances), [no-pos/PROPN]()-[no-pos/DET]() (1; 0% instances).
+The following 37 pairs of parts of speech are connected with `xcomp`: [no-pos/VERB]()-[no-pos/VERB]() (1289; 32% instances), [no-pos/VERB]()-[no-pos/ADJ]() (1235; 31% instances), [no-pos/VERB]()-[no-pos/NOUN]() (1018; 25% instances), [no-pos/NOUN]()-[no-pos/NOUN]() (98; 2% instances), [no-pos/VERB]()-[no-pos/ADV]() (61; 2% instances), [no-pos/VERB]()-[no-pos/PROPN]() (54; 1% instances), [no-pos/VERB]()-[no-pos/PRON]() (46; 1% instances), [no-pos/VERB]()-[no-pos/ADP]() (40; 1% instances), [no-pos/NOUN]()-[no-pos/ADJ]() (35; 1% instances), [no-pos/VERB]()-[no-pos/NUM]() (28; 1% instances), [no-pos/PROPN]()-[no-pos/NOUN]() (22; 1% instances), [no-pos/VERB]()-[no-pos/DET]() (14; 0% instances), [no-pos/NOUN]()-[no-pos/ADP]() (9; 0% instances), [no-pos/PROPN]()-[no-pos/ADJ]() (6; 0% instances), [no-pos/PROPN]()-[no-pos/NUM]() (6; 0% instances), [no-pos/ADJ]()-[no-pos/NOUN]() (5; 0% instances), [no-pos/ADJ]()-[no-pos/VERB]() (5; 0% instances), [no-pos/NOUN]()-[no-pos/PRON]() (5; 0% instances), [no-pos/NOUN]()-[no-pos/VERB]() (5; 0% instances), [no-pos/VERB]()-[no-pos/X]() (5; 0% instances), [no-pos/PRON]()-[no-pos/NOUN]() (4; 0% instances), [no-pos/NOUN]()-[no-pos/PROPN]() (3; 0% instances), [no-pos/NUM]()-[no-pos/NOUN]() (3; 0% instances), [no-pos/PRON]()-[no-pos/ADJ]() (3; 0% instances), [no-pos/ADJ]()-[no-pos/ADJ]() (2; 0% instances), [no-pos/NOUN]()-[no-pos/ADV]() (2; 0% instances), [no-pos/NOUN]()-[no-pos/DET]() (2; 0% instances), [no-pos/ADJ]()-[no-pos/PRON]() (1; 0% instances), [no-pos/ADP]()-[no-pos/NOUN]() (1; 0% instances), [no-pos/ADP]()-[no-pos/VERB]() (1; 0% instances), [no-pos/ADV]()-[no-pos/ADJ]() (1; 0% instances), [no-pos/ADV]()-[no-pos/DET]() (1; 0% instances), [no-pos/ADV]()-[no-pos/NOUN]() (1; 0% instances), [no-pos/NUM]()-[no-pos/ADP]() (1; 0% instances), [no-pos/PRON]()-[no-pos/ADP]() (1; 0% instances), [no-pos/PRON]()-[no-pos/VERB]() (1; 0% instances), [no-pos/PROPN]()-[no-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 37 pairs of parts of speech are connected with `xcomp`: [no-pos/VE
 4	å	å	PART	_	_	5	mark	_	_
 5	så	så	VERB	_	VerbForm=Inf	2	xcomp	_	_
 6	tvil	tvil	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	dobj	_	_
-7	om	om	ADP	_	_	10	case	_	_
+7	om	om	ADP	_	_	10	mark	_	_
 8	at	at	SCONJ	_	_	10	mark	_	_
 9	de	de	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
 10	tror	tro	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl	_	_

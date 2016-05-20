@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-2758 nodes (1%) are attached to their parents as `xcomp`.
+2841 nodes (1%) are attached to their parents as `xcomp`.
 
-2741 instances of `xcomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.13886874546773.
+2824 instances of `xcomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.18021823301654.
 
-The following 15 pairs of parts of speech are connected with `xcomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2337; 85% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (184; 7% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (167; 6% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (17; 1% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (13; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (13; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (11; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `xcomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2397; 84% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (196; 7% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (175; 6% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (16; 1% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (13; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (11; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (10; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -69,15 +69,15 @@ The following 15 pairs of parts of speech are connected with `xcomp`: [pt-pos/VE
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 xcomp	color:blue
-1	É	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+1	É	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	prp	AdpType=Prep	3	mark	_	_
-3	crer	crer	VERB	v-inf	VerbForm=Inf	0	root	_	_
+3	crer	crer	VERB	v-inf	VerbForm=Inf	1	ccomp	_	_
 4	que	que	SCONJ	conj-s	_	5	mark	_	_
 5	estivesse	estar	VERB	v-fin|IMPF|3S|SUBJ	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
 6	a	a	ADP	prp	AdpType=Prep	8	mark	_	_
 7	ser	ser	VERB	v-inf	VerbForm=Inf	8	cop	_	_
 8	sincero	sincero	ADJ	adj|M|S	Gender=Masc|Number=Sing	5	xcomp	_	_
-9	.	.	PUNCT	punc	_	3	punct	_	_
+9	.	.	PUNCT	punc	_	1	punct	_	_
 
 ~~~
 

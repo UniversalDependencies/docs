@@ -42,18 +42,18 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 1 [no-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>mine</em>
-* `EMPTY` (16489): <em>en, et, den, de, det, andre, sin, alle, denne, noen</em>
+* `EMPTY` (16472): <em>en, et, den, de, det, andre, sin, alle, denne, noen</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (1084; 54%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (730; 82%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (729; 82%),
 <tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (50; 54%),
 <tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (30; 67%),
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> ADJ</tt> (21; 60%),
@@ -61,5 +61,5 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (4; 57%),
 <tt>ADJ --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<a href="../dep/dobj.html">dobj</a>]--> ADJ</tt> (2; 67%),
-<tt>ADJ --[<a href="../dep/ccomp.html">ccomp</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/det.html">det</a>]--> ADJ</tt> (1; 100%).
 

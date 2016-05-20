@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [eu-pos/VERB]() (13428; 11% inst
 
 13428 [eu-pos/VERB]() tokens (62% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (13428; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (13428; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (13428; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (12051; 90%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (13428; 100%), <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (13428; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (13428; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (12051; 90%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

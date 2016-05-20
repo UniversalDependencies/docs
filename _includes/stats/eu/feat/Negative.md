@@ -26,7 +26,7 @@ The feature is used with 3 part-of-speech tags: [eu-pos/PART]() (1456; 1% instan
 
 178 [eu-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (178; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (178; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (178; 100%), <tt><a href="Aspect.html">Aspect</a>=Prog</tt> (178; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (165; 93%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (138; 78%).
+The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Prog</tt> (178; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (178; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (178; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (178; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (165; 93%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (138; 78%).
 
 `VERB` tokens may have the following values of `Negative`:
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Negative` co-occur
 
 10 [eu-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `AUX` and `Negative` co-occurred: <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (10; 100%), <tt><a href="Number[dat].html">Number[dat]</a>=EMPTY</tt> (10; 100%), <tt><a href="Person[dat].html">Person[dat]</a>=EMPTY</tt> (10; 100%), <tt><a href="Person[erg].html">Person[erg]</a>=3</tt> (9; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (8; 80%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (7; 70%), <tt><a href="Number[erg].html">Number[erg]</a>=Sing</tt> (6; 60%).
+The most frequent other feature values with which `AUX` and `Negative` co-occurred: <tt><a href="Number[dat].html">Number[dat]</a>=EMPTY</tt> (10; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (10; 100%), <tt><a href="Person[dat].html">Person[dat]</a>=EMPTY</tt> (10; 100%), <tt><a href="Person[erg].html">Person[erg]</a>=3</tt> (9; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (8; 80%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (7; 70%), <tt><a href="Number[erg].html">Number[erg]</a>=Sing</tt> (6; 60%).
 
 `AUX` tokens may have the following values of `Negative`:
 

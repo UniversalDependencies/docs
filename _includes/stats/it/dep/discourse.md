@@ -20,7 +20,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: [it-po
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 discourse	color:blue
-1	"	"	PUNCT	FB	_	7	punct	_	_
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
 2	Grazie	grazie	INTJ	I	_	7	discourse	_	_
 3	Italia	Italia	PROPN	SP	_	2	vocative	_	_
 4	,	,	PUNCT	FF	_	2	punct	_	_
@@ -28,7 +28,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: [it-po
 6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
-9	oro	oro	NOUN	S	Gender=Masc|Number=Sing	7	dobj	_	_
+9	oro	oro	NOUN	S	Gender=Masc|Number=Sing	7	dobj	_	SpaceAfter=No
 10	"	"	PUNCT	FB	_	7	punct	_	_
 11	.	.	PUNCT	FS	_	7	punct	_	_
 
@@ -61,7 +61,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: [it-po
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 discourse	color:blue
-1	"	"	PUNCT	FB	_	2	punct	_	_
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	Ma	ma	CONJ	CC	_	7	cc	_	_
 3	no	no	INTJ	I	_	7	discourse	_	_
 4	,	,	PUNCT	FF	_	3	punct	_	_

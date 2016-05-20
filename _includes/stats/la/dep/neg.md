@@ -69,68 +69,70 @@ The following 10 pairs of parts of speech are connected with `neg`: [la-pos/VERB
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-5672 nodes (2%) are attached to their parents as `neg`.
+6056 nodes (2%) are attached to their parents as `neg`.
 
-5453 instances of `neg` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.99118476727786.
+5851 instances of `neg` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.80663804491413.
 
-The following 11 pairs of parts of speech are connected with `neg`: [la-pos/VERB]()-[la-pos/ADV]() (3639; 64% instances), [la-pos/NOUN]()-[la-pos/ADV]() (725; 13% instances), [la-pos/ADJ]()-[la-pos/ADV]() (616; 11% instances), [la-pos/CONJ]()-[la-pos/ADV]() (261; 5% instances), [la-pos/PRON]()-[la-pos/ADV]() (161; 3% instances), [la-pos/ADV]()-[la-pos/ADV]() (145; 3% instances), [la-pos/PUNCT]()-[la-pos/ADV]() (39; 1% instances), [la-pos/NUM]()-[la-pos/ADV]() (37; 1% instances), [la-pos/SCONJ]()-[la-pos/ADV]() (29; 1% instances), [la-pos/DET]()-[la-pos/ADV]() (19; 0% instances), [la-pos/ADP]()-[la-pos/ADV]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `neg`: [la-pos/VERB]()-[la-pos/ADV]() (4234; 70% instances), [la-pos/NOUN]()-[la-pos/ADV]() (759; 13% instances), [la-pos/ADJ]()-[la-pos/ADV]() (677; 11% instances), [la-pos/PRON]()-[la-pos/ADV]() (172; 3% instances), [la-pos/ADV]()-[la-pos/ADV]() (146; 2% instances), [la-pos/NUM]()-[la-pos/ADV]() (37; 1% instances), [la-pos/DET]()-[la-pos/ADV]() (15; 0% instances), [la-pos/CONJ]()-[la-pos/ADV]() (7; 0% instances), [la-pos/PROPN]()-[la-pos/ADV]() (6; 0% instances), [la-pos/PUNCT]()-[la-pos/ADV]() (3; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 1 neg	color:blue
-1	non	non	ADV	O4	_	6	neg	_	_
-2	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
-3	igitur	igitur	ADV	O4	_	6	cc	_	_
-4	in	in	ADP	S4	AdpType=Prep	5	case	_	_
-5	his	hic	PRON	F1|grn1|casO|gen2|vgr1	Case=Abl|Degree=Pos|Gender=Fem|Number=Plur|PronType=Dem	6	nmod	_	_
-6	ponenda	pono	VERB	L2|modO|grp1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Gdv|Voice=Pass	0	root	_	_
-7	felicitas	felicitas	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	nsubj	_	_
-8	.	.	PUNCT	Punc	_	6	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 neg	color:blue
+1	quod	qui	PRON	F1|grn1|casA|gen3|stRL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj	_	_
+2	quidem	quidem	ADV	O4|stRL	_	7	advmod	_	_
+3	nobis	ego	PRON	F1|grn1|casL|gen1|stPD	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|PronType=Prs	7	dobj	_	_
+4	circa	circa	ADP	S4|stRL	AdpType=Prep	5	case	_	_
+5	deum	deus	PROPN	F1|grn1|casD|gen1|stNP	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	nmod	_	_
+6	non	non	ADV	O4|stRL	_	7	neg	_	_
+7	accidit	accido^cado	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 1 neg	color:blue
-1	non	non	ADV	O4	_	8	neg	_	_
-2	sunt	sum	VERB	N3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
-3	igitur	igitur	ADV	O4	_	8	cc	_	_
-4	hae	hic	PRON	F1|grn1|casJ|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|PronType=Dem	5	nmod	_	_
-5	delectationes	delectatio	NOUN	C1|grn1|casJ|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	8	nsubj	_	_
-6	secundum	secundum	ADP	S4	AdpType=Prep	7	case	_	_
-7	se	sui	PRON	F1|grn1|casM|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|PronType=Prs|Reflex=Yes	8	nmod	_	_
-8	bonum	bonum	NOUN	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
-9	hominis	homo	NOUN	C1|grn1|casB|gen1	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	nmod	_	_
-10	.	.	PUNCT	Punc	_	8	punct	_	_
+# visual-style 8 6 neg	color:blue
+1	secundum	secundum	ADP	S4|stRL	AdpType=Prep	2	case	_	_
+2	platonem	plato	PROPN	C1|grn1|casD|gen1|stNP	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	nmod	_	_
+3	autem	autem	CONJ	O4|stRL	_	8	cc	_	_
+4	movens	moveo	VERB	K2	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	csubj	_	_
+5	seipsum	seipse	PRON	F1|grn1|casD|gen3|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Prs|Reflex=Yes	4	dobj	_	_
+6	non	non	ADV	O4|stRL	_	8	neg	_	_
+7	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+8	corpus	corpus	NOUN	C1|grn1|casA|gen3|stRS	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+9	:	:	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 neg	color:blue
-1	aliter	alius	PRON	F1|grn1|casG	Case=Loc|Degree=Pos|Number=Sing|PronType=Ind	5	nmod	_	_
-2	enim	enim	ADV	O4	_	5	cc	_	_
-3	non	non	ADV	O4	_	5	neg	_	_
-4	essent	sum	VERB	N3|modB|tem2|gen9	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	5	cop	_	_
-5	laudabiles	laudabilis	ADJ	C1|grn1|casJ|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	_
-6	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 neg	color:blue
+1	si	si	SCONJ	O4|stRL	_	3	mark	_	_
+2	per	per	ADP	S4|stRL	AdpType=Prep	3	case	_	_
+3	accidens	accidens	NOUN	C1|grn1|casD|gen3|stAV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	dep	_	_
+4	,	,	PUNCT	Punc	_	3	punct	_	_
+5	ergo	ergo	ADV	O4|stRL	_	8	advmod	_	_
+6	non	non	ADV	O4|stRL	_	8	neg	_	_
+7	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+8	necessaria	necessarius	ADJ	A1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+9	:	:	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
 

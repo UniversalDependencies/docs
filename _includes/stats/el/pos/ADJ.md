@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Greek)
 
 There are 1154 `ADJ` lemmas (18%), 2277 `ADJ` types (20%) and 4693 `ADJ` tokens (8%).
-Out of 11 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 6 in number of tokens.
+Out of 10 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>ευρωπαϊκός, πολύς, όλος, μεγάλος, νέος, σημαντικός, πολιτικός, εθνικός, ίδιος, οικονομικός</em>
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>σημαντικό</em> ([ADJ]() 34, 
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.973137 (the average of all parts of speech is 1.776033).
+The form / lemma ratio of `ADJ` is 1.973137 (the average of all parts of speech is 1.774112).
 
 The 1st highest number of forms (19) was observed with the lemma “μεγάλος”: <em>μέγιστη, μέγιστης, μείζονα, μείζονες, μεγάλα, μεγάλες, μεγάλη, μεγάλης, μεγάλο, μεγάλος, μεγάλου, μεγάλους, μεγάλων, μεγαλύτερα, μεγαλύτερες, μεγαλύτερη, μεγαλύτερης, μεγαλύτερο, μεγαλύτερου</em>.
 
@@ -70,7 +70,7 @@ Examples: <em>ευρωπαϊκή, νέα, μεγάλη, κοινή, ίδια, σ
 
 `ADJ` nodes are attached to their parents using 16 different relations: [el-dep/amod]() (3936; 84% instances), [el-dep/conj]() (199; 4% instances), [el-dep/root]() (167; 4% instances), [el-dep/nsubj]() (92; 2% instances), [el-dep/ccomp]() (70; 1% instances), [el-dep/dobj]() (46; 1% instances), [el-dep/acl:relcl]() (38; 1% instances), [el-dep/advcl]() (37; 1% instances), [el-dep/advmod]() (29; 1% instances), [el-dep/remnant]() (23; 0% instances), [el-dep/csubj]() (19; 0% instances), [el-dep/acl]() (9; 0% instances), [el-dep/appos]() (9; 0% instances), [el-dep/xcomp]() (9; 0% instances), [el-dep/iobj]() (7; 0% instances), [el-dep/dep]() (3; 0% instances)
 
-Parents of `ADJ` nodes belong to 10 different parts of speech: [NOUN]() (3963; 84% instances), [VERB]() (312; 7% instances), [ADJ]() (196; 4% instances), [ROOT]() (167; 4% instances), [PRON]() (22; 0% instances), [ADV]() (11; 0% instances), [NUM]() (11; 0% instances), [CONJ]() (4; 0% instances), [PUNCT]() (4; 0% instances), [ADP]() (3; 0% instances)
+Parents of `ADJ` nodes belong to 9 different parts of speech: [NOUN]() (3967; 85% instances), [VERB]() (312; 7% instances), [ADJ]() (196; 4% instances), [ROOT]() (167; 4% instances), [PRON]() (22; 0% instances), [ADV]() (11; 0% instances), [NUM]() (11; 0% instances), [CONJ]() (4; 0% instances), [ADP]() (3; 0% instances)
 
 3747 (80%) `ADJ` nodes are leaves.
 
@@ -84,5 +84,5 @@ The highest child degree of a `ADJ` node is 10.
 
 Children of `ADJ` nodes are attached using 25 different relations: [el-dep/cop]() (377; 14% instances), [el-dep/punct]() (369; 14% instances), [el-dep/nmod]() (324; 12% instances), [el-dep/advmod]() (273; 10% instances), [el-dep/nsubj]() (247; 9% instances), [el-dep/det]() (212; 8% instances), [el-dep/conj]() (169; 6% instances), [el-dep/cc]() (151; 6% instances), [el-dep/mark]() (93; 3% instances), [el-dep/aux]() (77; 3% instances), [el-dep/case]() (72; 3% instances), [el-dep/csubj]() (51; 2% instances), [el-dep/amod]() (49; 2% instances), [el-dep/advcl]() (48; 2% instances), [el-dep/dobj]() (37; 1% instances), [el-dep/neg]() (36; 1% instances), [el-dep/acl]() (27; 1% instances), [el-dep/remnant]() (20; 1% instances), [el-dep/nummod]() (13; 0% instances), [el-dep/appos]() (12; 0% instances), [el-dep/acl:relcl]() (9; 0% instances), [el-dep/ccomp]() (6; 0% instances), [el-dep/dep]() (4; 0% instances), [el-dep/xcomp]() (3; 0% instances), [el-dep/iobj]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 11 different parts of speech: [NOUN]() (543; 20% instances), [VERB]() (513; 19% instances), [PUNCT]() (376; 14% instances), [ADV]() (278; 10% instances), [CONJ]() (242; 9% instances), [DET]() (205; 8% instances), [ADJ]() (196; 7% instances), [PART]() (115; 4% instances), [PRON]() (105; 4% instances), [ADP]() (73; 3% instances), [NUM]() (34; 1% instances)
+Children of `ADJ` nodes belong to 10 different parts of speech: [NOUN]() (550; 21% instances), [VERB]() (513; 19% instances), [PUNCT]() (369; 14% instances), [PRON]() (310; 12% instances), [ADV]() (278; 10% instances), [CONJ]() (242; 9% instances), [ADJ]() (196; 7% instances), [PART]() (115; 4% instances), [ADP]() (73; 3% instances), [NUM]() (34; 1% instances)
 

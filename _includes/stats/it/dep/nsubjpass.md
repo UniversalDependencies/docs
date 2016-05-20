@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1906 nodes (1%) are attached to their parents as `nsubjpass`.
+1929 nodes (1%) are attached to their parents as `nsubjpass`.
 
-1335 instances of `nsubjpass` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.96379853095488.
+1341 instances of `nsubjpass` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.9419388284085.
 
-The following 17 pairs of parts of speech are connected with `nsubjpass`: [it-pos/VERB]()-[it-pos/NOUN]() (1486; 78% instances), [it-pos/VERB]()-[it-pos/PRON]() (243; 13% instances), [it-pos/VERB]()-[it-pos/PROPN]() (136; 7% instances), [it-pos/VERB]()-[it-pos/NUM]() (9; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (8; 0% instances), [it-pos/VERB]()-[it-pos/ADJ]() (7; 0% instances), [it-pos/AUX]()-[it-pos/NOUN]() (4; 0% instances), [it-pos/ADJ]()-[it-pos/PROPN]() (2; 0% instances), [it-pos/VERB]()-[it-pos/SYM]() (2; 0% instances), [it-pos/VERB]()-[it-pos/VERB]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances), [it-pos/AUX]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/PRON]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/X]()-[it-pos/NOUN]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `nsubjpass`: [it-pos/VERB]()-[it-pos/NOUN]() (1502; 78% instances), [it-pos/VERB]()-[it-pos/PRON]() (247; 13% instances), [it-pos/VERB]()-[it-pos/PROPN]() (142; 7% instances), [it-pos/VERB]()-[it-pos/NUM]() (9; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (8; 0% instances), [it-pos/AUX]()-[it-pos/NOUN]() (4; 0% instances), [it-pos/VERB]()-[it-pos/ADJ]() (4; 0% instances), [it-pos/ADJ]()-[it-pos/PROPN]() (2; 0% instances), [it-pos/VERB]()-[it-pos/SYM]() (2; 0% instances), [it-pos/VERB]()-[it-pos/VERB]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances), [it-pos/AUX]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/PRON]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/X]()-[it-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu

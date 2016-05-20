@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-6956 nodes (8%) are attached to their parents as `amod`.
+6019 nodes (7%) are attached to their parents as `amod`.
 
-5001 instances of `amod` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12363427257044.
+4161 instances of `amod` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11380628011298.
 
-The following 6 pairs of parts of speech are connected with `amod`: [pl-pos/NOUN]()-[pl-pos/ADJ]() (6897; 99% instances), [pl-pos/NUM]()-[pl-pos/ADJ]() (27; 0% instances), [pl-pos/PRON]()-[pl-pos/ADJ]() (14; 0% instances), [pl-pos/X]()-[pl-pos/ADJ]() (13; 0% instances), [pl-pos/PUNCT]()-[pl-pos/ADJ]() (3; 0% instances), [pl-pos/ADP]()-[pl-pos/ADJ]() (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `amod`: [pl-pos/NOUN]()-[pl-pos/ADJ]() (5745; 95% instances), [pl-pos/PROPN]()-[pl-pos/ADJ]() (186; 3% instances), [pl-pos/PRON]()-[pl-pos/ADJ]() (28; 0% instances), [pl-pos/NOUN]()-[pl-pos/PRON]() (22; 0% instances), [pl-pos/NUM]()-[pl-pos/ADJ]() (18; 0% instances), [pl-pos/X]()-[pl-pos/ADJ]() (13; 0% instances), [pl-pos/PUNCT]()-[pl-pos/ADJ]() (3; 0% instances), [pl-pos/ADP]()-[pl-pos/ADJ]() (2; 0% instances), [pl-pos/NUM]()-[pl-pos/PRON]() (1; 0% instances), [pl-pos/PRON]()-[pl-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,20 +32,21 @@ The following 6 pairs of parts of speech are connected with `amod`: [pl-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 amod	color:blue
-1	-	-	PUNCT	interp:_	_	3	punct	_	_
-2	Czy	czy	PART	qub:_	_	3	advmod	_	_
-3	znasz	znać	VERB	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	dziesięciu	dziesięć	NUM	num:pl:acc:m1:rec	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	3	dobj	_	_
-5	sprawiedliwych	sprawiedliwy	ADJ	adj:pl:gen:m1:pos	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
-6	w	w	ADP	prep:loc:nwok	AdpType=Prep|Case=Loc|Variant=Short	8	case	_	_
-7	tym	ten	ADJ	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
-8	grodzie	gród	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
-9	?	?	PUNCT	interp:_	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 amod	color:blue
+1	Na	na	ADP	prep:loc	AdpType=Prep|Case=Loc	3	case	_	_
+2	Dużym	Duży	ADJ	adj:sg:loc:n:pos	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	Skrzycznem	Skrzyczne	PROPN	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing	6	dobj	_	_
+4	w	w	ADP	prep:loc:nwok	AdpType=Prep|Case=Loc|Variant=Short	5	case	_	_
+5	Szczyrku	Szczyrk	PROPN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
+6	leży	leżeć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	60	60	NUM	num:pl:nom:m3:rec	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+8	cm	centymetr	X	brev:npun	Abbr=Yes	7	nmod	_	_
+9	śniegu	śnieg	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	interp:_	_	6	punct	_	_
 
 ~~~
 
@@ -63,7 +64,7 @@ The following 6 pairs of parts of speech are connected with `amod`: [pl-pos/NOUN
 5	samego	sam	ADJ	adj:sg:gen:m1:pos	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
 6	siebie	siebie	PRON	siebie:gen	Case=Gen|PronType=Prs|Reflex=Yes	8	dobj	_	_
 7	nie	nie	PART	qub:_	_	8	neg	_	_
-8	posłuchał	posłuchać	VERB	praet:sg:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+8	posłuchał	posłuchać	VERB	praet:sg:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	_
 9	.	.	PUNCT	interp:_	_	1	punct	_	_
 
 ~~~

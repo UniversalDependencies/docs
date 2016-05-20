@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [bg-pos/VERB]() (19376; 12% inst
 
 19376 [bg-pos/VERB]() tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (19248; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (18025; 93%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (16611; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (16458; 85%), <tt><a href="Person.html">Person</a>=3</tt> (13729; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (13660; 70%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (11733; 61%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (18025; 93%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (16611; 86%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16611; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (16458; 85%), <tt><a href="Person.html">Person</a>=3</tt> (13729; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (13660; 70%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (11733; 61%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 1472 [bg-pos/ADJ]() tokens (11% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1469; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1113; 76%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (953; 65%), <tt><a href="Number.html">Number</a>=Sing</tt> (839; 57%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (808; 55%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1472; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1113; 76%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (953; 65%), <tt><a href="Number.html">Number</a>=Sing</tt> (839; 57%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (808; 55%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
@@ -76,8 +76,8 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1560; 78%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (876; 58%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (68; 58%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1351; 78%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (736; 57%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (63; 59%),
 <tt>VERB --[<a href="../dep/mwe.html">mwe</a>]--> VERB</tt> (28; 100%).
 

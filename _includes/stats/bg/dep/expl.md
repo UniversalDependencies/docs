@@ -9,9 +9,9 @@ This relation is universal.
 3505 nodes (2%) are attached to their parents as `expl`.
 
 3027 instances of `expl` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.04650499286733.
+Average distance between parent and child is 1.05335235378031.
 
-The following 7 pairs of parts of speech are connected with `expl`: [bg-pos/VERB]()-[bg-pos/PRON]() (3437; 98% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (57; 2% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (6; 0% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (2; 0% instances), [bg-pos/DET]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/PRON]()-[bg-pos/PRON]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `expl`: [bg-pos/VERB]()-[bg-pos/PRON]() (3421; 98% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (58; 2% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (14; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (9; 0% instances), [bg-pos/DET]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/PRON]()-[bg-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,19 +52,24 @@ The following 7 pairs of parts of speech are connected with `expl`: [bg-pos/VERB
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 expl	color:blue
-1	Увеличавайки	увеличавам-(се)	ADV	Vpitg	_	5	advmod	_	_
-2	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	_
-3	,	,	PUNCT	punct	_	1	punct	_	_
-4	количеството	количество	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	5	nsubj	_	_
-5	става	ставам	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-6	по-голямо	голям	ADJ	Ansi	Definite=Ind|Degree=Cmp|Gender=Neut|Number=Sing	7	amod	_	_
-7	количество	количество	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	5	dobj	_	_
-8	.	.	PUNCT	punct	_	5	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 expl	color:blue
+1	Ако	ако	SCONJ	Cs	_	2	mark	_	_
+2	мисли	мисля	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+3	,	,	PUNCT	punct	_	6	punct	_	_
+4	че	че	SCONJ	Cs	_	6	mark	_	_
+5	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	най-добрият	добър	ADJ	Amsf	Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	2	ccomp	_	_
+7	,	,	PUNCT	punct	_	2	punct	_	_
+8	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	nsubj	_	_
+9	си	се	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	12	expl	_	_
+10	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
+11	негов	мой	DET	Psol-s3mim	Definite=Ind|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	проблем	проблем	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+13	.	.	PUNCT	punct	_	12	punct	_	_
 
 ~~~
 

@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  <em>ja, tai, mutta, sekä, eli, vaan, että,
 
 The 10 most frequent ambiguous lemmas: <em>ja</em> ([CONJ]() 5240, [ADV]() 8), <em>tai</em> ([CONJ]() 646, [ADV]() 1), <em>mutta</em> ([CONJ]() 578, [ADV]() 2, [SCONJ]() 1), <em>eli</em> ([CONJ]() 123, [ADV]() 1), <em>vaan</em> ([CONJ]() 108, [ADV]() 37), <em>että</em> ([SCONJ]() 1297, [CONJ]() 58, [INTJ]() 1), <em>vai</em> ([CONJ]() 52, [ADV]() 2), <em>kuin</em> ([SCONJ]() 428, [ADV]() 49, [CONJ]() 48), <em>niin</em> ([ADV]() 357, [CONJ]() 34, [SCONJ]() 4, [INTJ]() 2), <em>mitä</em> ([ADV]() 14, [CONJ]() 7, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>ja</em> ([CONJ]() 5154, [ADV]() 8), <em>mutta</em> ([CONJ]() 501, [ADV]() 1), <em>eli</em> ([CONJ]() 113, [VERB]() 6), <em>vaan</em> ([CONJ]() 103, [ADV]() 31), <em>että</em> ([SCONJ]() 1239, [CONJ]() 58, [INTJ]() 1), <em>vai</em> ([CONJ]() 44, [ADV]() 2), <em>kuin</em> ([SCONJ]() 426, [ADV]() 47, [CONJ]() 46), <em>niin</em> ([ADV]() 290, [CONJ]() 34, [INTJ]() 2, [SCONJ]() 2), <em>mut</em> ([CONJ]() 2, [PRON]() 1), <em>mitä</em> ([PRON]() 177, [ADV]() 12, [CONJ]() 4, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>ja</em> ([CONJ]() 5154, [ADV]() 8), <em>mutta</em> ([CONJ]() 501, [ADV]() 1), <em>eli</em> ([CONJ]() 113, [VERB]() 6), <em>vaan</em> ([CONJ]() 103, [ADV]() 31), <em>että</em> ([SCONJ]() 1239, [CONJ]() 58, [INTJ]() 1), <em>vai</em> ([CONJ]() 44, [ADV]() 2), <em>kuin</em> ([SCONJ]() 426, [ADV]() 47, [CONJ]() 46), <em>niin</em> ([ADV]() 290, [CONJ]() 34, [SCONJ]() 2, [INTJ]() 2), <em>mut</em> ([CONJ]() 2, [PRON]() 1), <em>mitä</em> ([PRON]() 177, [ADV]() 12, [CONJ]() 4, [SCONJ]() 1)
 
 
 * <em>ja</em>
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  <em>ja</em> ([CONJ]() 5154, [ADV]() 8), <
 * <em>niin</em>
   * [ADV]() 290: <em>Ottakaa minut mukaan , <b>niin</b> saatte luotettavan turvamiehen .</em>
   * [CONJ]() 34: <em>Oman kanavansa saavat <b>niin</b> naiset sekä tv-sarjat että scifin harrastajat .</em>
-  * [INTJ]() 2: <em>Ai <b>niin</b> , meinasi julkinen painostus unohtua :</em>
   * [SCONJ]() 2: <em>Asianajajat tekevät sellaisia sopimuksia , että maksa viisi tonnia , <b>niin</b> järjestän sinut ulos .</em>
+  * [INTJ]() 2: <em>Ai <b>niin</b> , meinasi julkinen painostus unohtua :</em>
 * <em>mut</em>
   * [CONJ]() 2: <em>" Ei se paljon lohduta , <b>mut</b> ... " , hän sanoo melkein varovasti .</em>
   * [PRON]() 1: <em>Laura heitti <b>mut</b> kentälle , ei ollut lopulta mitään ongelmia , näin sen Leijona-koneen laskeutuvan mutta valitettavasti itse Pasi Nurmisen mahtavaa laskeutumista en todistanut , terminaali oli väärässä suunnassa .</em>
@@ -98,46 +98,46 @@ Children of `CONJ` nodes belong to 5 different parts of speech: [PUNCT]() (19; 4
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 22 `CONJ` lemmas (0%), 25 `CONJ` types (0%) and 4824 `CONJ` tokens (3%).
-Out of 14 observed tags, the rank of `CONJ` is: 12 in number of lemmas, 13 in number of types and 8 in number of tokens.
+There are 21 `CONJ` lemmas (0%), 24 `CONJ` types (0%) and 4776 `CONJ` tokens (3%).
+Out of 16 observed tags, the rank of `CONJ` is: 13 in number of lemmas, 14 in number of types and 9 in number of tokens.
 
-The 10 most frequent `CONJ` lemmas: <em>ja, mutta, tai, vai, vaan, sekä, kuin, eli, että, joko</em>
+The 10 most frequent `CONJ` lemmas: <em>ja, mutta, tai, vai, vaan, sekä, eli, että, joko, kuin</em>
 
-The 10 most frequent `CONJ` types:  <em>ja, mutta, tai, vai, vaan, sekä, kuin, eli, että, mut</em>
+The 10 most frequent `CONJ` types:  <em>ja, mutta, tai, vai, vaan, sekä, eli, että, mut, joko</em>
 
-The 10 most frequent ambiguous lemmas: <em>ja</em> ([CONJ]() 3231, [ADV]() 6), <em>mutta</em> ([CONJ]() 605, [SCONJ]() 1), <em>vaan</em> ([CONJ]() 126, [ADV]() 87), <em>kuin</em> ([SCONJ]() 614, [CONJ]() 59), <em>eli</em> ([CONJ]() 55, [ADV]() 12), <em>että</em> ([SCONJ]() 1779, [CONJ]() 38, [ADV]() 3), <em>elikkä</em> ([CONJ]() 4, [ADV]() 4), <em>joskaan</em> ([CONJ]() 4, [SCONJ]() 1), <em>vaikka</em> ([SCONJ]() 207, [ADV]() 72, [CONJ]() 4), <em>joskin</em> ([SCONJ]() 5, [CONJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>ja</em> ([CONJ]() 3230, [PART]() 2), <em>mutta</em> ([CONJ]() 604, [SCONJ]() 1), <em>vaan</em> ([CONJ]() 126, [PART]() 86), <em>eli</em> ([CONJ]() 55, [PART]() 12), <em>että</em> ([SCONJ]() 1772, [CONJ]() 38, [PART]() 3), <em>kuin</em> ([SCONJ]() 647, [CONJ]() 23), <em>elikkä</em> ([CONJ]() 4, [PART]() 4), <em>joskaan</em> ([CONJ]() 4, [SCONJ]() 1), <em>vaikka</em> ([SCONJ]() 204, [PART]() 73, [CONJ]() 4), <em>joskin</em> ([SCONJ]() 5, [CONJ]() 2)
 
-The 10 most frequent ambiguous types:  <em>ja</em> ([CONJ]() 3085, [ADV]() 2), <em>vaan</em> ([CONJ]() 126, [ADV]() 74), <em>kuin</em> ([SCONJ]() 584, [CONJ]() 59), <em>eli</em> ([CONJ]() 55, [VERB]() 5), <em>että</em> ([SCONJ]() 1410, [CONJ]() 38, [VERB]() 2), <em>mut</em> ([CONJ]() 21, [PRON]() 3), <em>elikkä</em> ([CONJ]() 4, [ADV]() 1), <em>joskaan</em> ([CONJ]() 4, [SCONJ]() 1), <em>vaikka</em> ([SCONJ]() 137, [ADV]() 64, [CONJ]() 3), <em>joskin</em> ([SCONJ]() 5, [CONJ]() 2)
+The 10 most frequent ambiguous types:  <em>ja</em> ([CONJ]() 3080, [PART]() 2), <em>vaan</em> ([CONJ]() 126, [PART]() 73), <em>eli</em> ([CONJ]() 55, [VERB]() 5), <em>että</em> ([SCONJ]() 1404, [CONJ]() 38, [VERB]() 2), <em>mut</em> ([CONJ]() 21, [PRON]() 3), <em>kuin</em> ([SCONJ]() 615, [CONJ]() 23), <em>elikkä</em> ([CONJ]() 4, [PART]() 1), <em>joskaan</em> ([CONJ]() 4, [SCONJ]() 1), <em>vaikka</em> ([SCONJ]() 134, [PART]() 65, [CONJ]() 3), <em>joskin</em> ([SCONJ]() 5, [CONJ]() 2)
 
 
 * <em>ja</em>
-  * [CONJ]() 3085: <em>" Sitä lihoo liikaa , jos vain lukee <b>ja</b> syö suklaata . "</em>
-  * [ADV]() 2: <em>Minä tykkään <b>ja</b> et se on väärin</em>
+  * [CONJ]() 3080: <em>Viime vuoden luku oli 2_400 <b>ja</b> tänä vuonna luku nousee noin 2:aan .</em>
+  * [PART]() 2: <em>Minä tykkään <b>ja</b> et se on väärin</em>
 * <em>vaan</em>
-  * [CONJ]() 126: <em>En minä sitä ostanut <b>vaan</b> tämän .</em>
-  * [ADV]() 74: <em>Älä <b>vaan</b> tätä ota , se sanoi ja naputti veitsellään lautasta .</em>
-* <em>kuin</em>
-  * [SCONJ]() 584: <em>toimikunta on kokoonpanoltaan hieman laajempi <b>kuin</b> edeltäjänsä .</em>
-  * [CONJ]() 59: <em>niin x <b>kuin</b> ykin</em>
+  * [CONJ]() 126: <em>Siellä tehdään ohjelmia , joita ei katsella <b>vaan</b> katsotaan .</em>
+  * [PART]() 73: <em>Mä oon <b>vaan</b> näin hyvissä ajoin liikkeellä .</em>
 * <em>eli</em>
   * [CONJ]() 55: <em>Laktoosi-intoleranssi ei aiheuta mitään seurauksia <b>eli</b> jälkitauteja .</em>
-  * [VERB]() 5: <em>Naimisiin ei saanut mennä uudestaan , jos edellinen puoliso <b>eli</b> .</em>
+  * [VERB]() 5: <em>Ystävätär oli isäntyttö ja <b>eli</b> elämäänsä isän kannustus taskussaan .</em>
 * <em>että</em>
-  * [SCONJ]() 1410: <em>Saulista huomattiin jo lapsena , <b>että</b> hänellä on lahjoja .</em>
+  * [SCONJ]() 1404: <em>ei voi ajatellakhaa varhmaan <b>että</b> ne ikinä olis vakinaisia .</em>
   * [CONJ]() 38: <em>Sekä työnantaja <b>että</b> työntekijät ovat tyytyväisiä tehtyihin sopimuksiin .</em>
   * [VERB]() 2: <em>Minkä perkeleen takia työ <b>että</b> oo eronna ?</em>
 * <em>mut</em>
-  * [CONJ]() 21: <em><b>mut</b> tiiäks et kuule ; pelkkä pesuki vaikuttaa kuluttaa hiusta</em>
+  * [CONJ]() 21: <em>No <b>mut</b> mä voin mennä kauppaan ku mä tuun .</em>
   * [PRON]() 3: <em>Suostuisit sä tapaamaan <b>mut</b> ?</em>
+* <em>kuin</em>
+  * [SCONJ]() 615: <em>Tekotimantista tulee pian yhtä kestävä kimaltelija <b>kuin</b> kuvan aidosta .</em>
+  * [CONJ]() 23: <em>niin x <b>kuin</b> ykin</em>
 * <em>elikkä</em>
   * [CONJ]() 4: <em>just kohta ool lähössä <b>elikkä</b> viide minuutin päästä .</em>
-  * [ADV]() 1: <em><b>elikkä</b> tuota Täs on nyt mä kattelin ihan , ihan noiden teiän kooditusten : kooditusten perusteella ja , ja tota Totesin sitte et ku siin nyt mitään ihmeellistä hommaa hommaa tosiaan ei olis niin , niin tota - kyllä ne samat ehdot ihan ihan sitte ku Rakestaki että tota , että enempäähän me ei ei pystytä siinä tarjoomaan koska .</em>
+  * [PART]() 1: <em><b>elikkä</b> tuota Täs on nyt mä kattelin ihan , ihan noiden teiän kooditusten : kooditusten perusteella ja , ja tota Totesin sitte et ku siin nyt mitään ihmeellistä hommaa hommaa tosiaan ei olis niin , niin tota - kyllä ne samat ehdot ihan ihan sitte ku Rakestaki että tota , että enempäähän me ei ei pystytä siinä tarjoomaan koska .</em>
 * <em>joskaan</em>
   * [CONJ]() 4: <em>verhoilu on pirteä , <b>joskaan</b> ei välttämättä jokaisen makuun .</em>
   * [SCONJ]() 1: <em>Juhantalo aloitti kampanjansa virallisesti Hyvissä Herroissa , <b>joskaan</b> en nähnyt jaksoa .</em>
 * <em>vaikka</em>
-  * [SCONJ]() 137: <em>Ei väliä , <b>vaikka</b> taitoni ovatkin tässä ajassa jo ruostuneet pahasti</em>
-  * [ADV]() 64: <em>Ei se mitään , jos auto seisoo liikennevaloissa <b>vaikka</b> kaksi minuuttia .</em>
+  * [SCONJ]() 134: <em>Alta mennään <b>vaikka</b> niskat katkeis .</em>
+  * [PART]() 65: <em>Muistan <b>vaikka</b> mitä mutta en kerro</em>
   * [CONJ]() 3: <em>Tapahtuma oli merkittävä , <b>vaikka</b> ei mitenkään vallankumouksellinen .</em>
 * <em>joskin</em>
   * [SCONJ]() 5: <em>Kieli oli väline , <b>joskin</b> tärkeä sellainen .</em>
@@ -145,7 +145,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> ([CONJ]() 3085, [ADV]() 2), <
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 1.136364 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `CONJ` is 1.142857 (the average of all parts of speech is 2.044212).
 
 The 1st highest number of forms (3) was observed with the lemma “mutta”: <em>mut, mutt, mutta</em>.
 
@@ -153,18 +153,24 @@ The 2nd highest number of forms (2) was observed with the lemma “vaikka”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “eli”: <em>eli</em>.
 
-`CONJ` does not occur with any features.
+`CONJ` occurs with 1 features: [fi-feat/Style]() (49; 1% instances)
+
+`CONJ` occurs with 1 feature-value pairs: `Style=Coll`
+
+`CONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (4727 tokens).
+Examples: <em>ja, mutta, tai, vai, vaan, sekä, eli, että, joko, kuin</em>
 
 
 ## Relations
 
-`CONJ` nodes are attached to their parents using 5 different relations: [fi-dep/cc]() (4756; 99% instances), [fi-dep/advmod]() (23; 0% instances), [fi-dep/dep]() (17; 0% instances), [fi-dep/mark:comparator]() (15; 0% instances), [fi-dep/conj]() (13; 0% instances)
+`CONJ` nodes are attached to their parents using 4 different relations: [fi-dep/cc]() (4726; 99% instances), [fi-dep/advmod]() (23; 0% instances), [fi-dep/mwe]() (14; 0% instances), [fi-dep/conj]() (13; 0% instances)
 
-Parents of `CONJ` nodes belong to 13 different parts of speech: [VERB]() (1994; 41% instances), [NOUN]() (1634; 34% instances), [ADJ]() (522; 11% instances), [PROPN]() (331; 7% instances), [ADV]() (156; 3% instances), [PRON]() (81; 2% instances), [NUM]() (59; 1% instances), [CONJ]() (12; 0% instances), [ADP]() (11; 0% instances), [SCONJ]() (10; 0% instances), [DET]() (7; 0% instances), [X]() (5; 0% instances), [INTJ]() (2; 0% instances)
+Parents of `CONJ` nodes belong to 14 different parts of speech: [VERB]() (1974; 41% instances), [NOUN]() (1606; 34% instances), [ADJ]() (533; 11% instances), [PROPN]() (334; 7% instances), [ADV]() (139; 3% instances), [PRON]() (78; 2% instances), [NUM]() (51; 1% instances), [PART]() (15; 0% instances), [CONJ]() (12; 0% instances), [ADP]() (11; 0% instances), [SCONJ]() (10; 0% instances), [DET]() (7; 0% instances), [X]() (4; 0% instances), [INTJ]() (2; 0% instances)
 
-4704 (98%) `CONJ` nodes are leaves.
+4680 (98%) `CONJ` nodes are leaves.
 
-118 (2%) `CONJ` nodes have one child.
+94 (2%) `CONJ` nodes have one child.
 
 1 (0%) `CONJ` nodes have two children.
 
@@ -172,7 +178,7 @@ Parents of `CONJ` nodes belong to 13 different parts of speech: [VERB]() (1994; 
 
 The highest child degree of a `CONJ` node is 3.
 
-Children of `CONJ` nodes are attached using 3 different relations: [fi-dep/punct]() (88; 72% instances), [fi-dep/dep]() (23; 19% instances), [fi-dep/conj]() (12; 10% instances)
+Children of `CONJ` nodes are attached using 2 different relations: [fi-dep/punct]() (87; 88% instances), [fi-dep/conj]() (12; 12% instances)
 
-Children of `CONJ` nodes belong to 5 different parts of speech: [PUNCT]() (88; 72% instances), [ADV]() (15; 12% instances), [CONJ]() (12; 10% instances), [NOUN]() (7; 6% instances), [NUM]() (1; 1% instances)
+Children of `CONJ` nodes belong to 2 different parts of speech: [PUNCT]() (87; 88% instances), [CONJ]() (12; 12% instances)
 

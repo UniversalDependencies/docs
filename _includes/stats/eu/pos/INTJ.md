@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>beno, alde, a, dzast, ea, hara, kaixo, t
 
 The 10 most frequent `INTJ` types:  <em>beno, alde, Kaixo, Tira, a, dzast, ea, hara, Bof, Eskerrak</em>
 
-The 10 most frequent ambiguous lemmas: <em>alde</em> ([NOUN]() 104, [ADP]() 70, [INTJ]() 4), <em>a</em> ([NOUN]() 5, [INTJ]() 2), <em>ea</em> ([X]() 8, [INTJ]() 2), <em>hara</em> ([ADV]() 7, [INTJ]() 2), <em>tira</em> ([NOUN]() 2, [INTJ]() 2), <em>arren</em> ([CONJ]() 90, [NOUN]() 1, [INTJ]() 1), <em>tik-tak</em> ([NOUN]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>alde</em> ([NOUN]() 104, [ADP]() 70, [INTJ]() 4), <em>a</em> ([NOUN]() 5, [INTJ]() 2), <em>ea</em> ([X]() 8, [INTJ]() 2), <em>hara</em> ([ADV]() 7, [INTJ]() 2), <em>tira</em> ([NOUN]() 2, [INTJ]() 2), <em>arren</em> ([CONJ]() 90, [NOUN]() 1, [INTJ]() 1), <em>tik-tak</em> ([INTJ]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>alde</em> ([NOUN]() 27, [ADP]() 24, [INTJ]() 4), <em>ea</em> ([X]() 8, [INTJ]() 2, [CONJ]() 1), <em>hara</em> ([ADV]() 6, [INTJ]() 1), <em>Jesus</em> ([PROPN]() 5, [INTJ]() 1), <em>arren</em> ([CONJ]() 90, [NOUN]() 1, [INTJ]() 1), <em>ene</em> ([PRON]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>alde</em> ([NOUN]() 27, [ADP]() 24, [INTJ]() 4), <em>ea</em> ([X]() 8, [INTJ]() 2, [CONJ]() 1), <em>hara</em> ([ADV]() 6, [INTJ]() 1), <em>Jesus</em> ([PROPN]() 5, [INTJ]() 1), <em>arren</em> ([CONJ]() 90, [INTJ]() 1, [NOUN]() 1), <em>ene</em> ([PRON]() 2, [INTJ]() 1)
 
 
 * <em>alde</em>
@@ -32,8 +32,8 @@ The 10 most frequent ambiguous types:  <em>alde</em> ([NOUN]() 27, [ADP]() 24, [
   * [INTJ]() 1: <em>- <b>Jesus</b> ene , nirekin akabatuko du mutiko honek !</em>
 * <em>arren</em>
   * [CONJ]() 90: <em>Aurten hasi da jokatzen , iaztik den <b>arren</b> .</em>
-  * [NOUN]() 1: <em>Markagailua txukundu <b>arren</b> , ordea , galiziarrek ez zuten partiduan eskainitako itxura kaskarra hobetu .</em>
   * [INTJ]() 1: <em>hari buruzkoak jakiteko , egon , <b>arren</b> , adi .</em>
+  * [NOUN]() 1: <em>Markagailua txukundu <b>arren</b> , ordea , galiziarrek ez zuten partiduan eskainitako itxura kaskarra hobetu .</em>
 * <em>ene</em>
   * [PRON]() 2: <em>Arin , buelta erdia eman eta sabela zulatu diot <b>ene</b> atzeko guardari .</em>
   * [INTJ]() 1: <em>- Jesus <b>ene</b> , nirekin akabatuko du mutiko honek !</em>

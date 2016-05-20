@@ -17,7 +17,7 @@ The feature is used with 6 part-of-speech tags: [no-pos/PRON]() (12386; 4% insta
 
 12386 [no-pos/PRON]() tokens (52% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (11155; 90%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (9516; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9243; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (7221; 58%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (12381; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (9516; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9243; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (7221; 58%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 `PROPN` tokens may have the following values of `Case`:
 
 * `Gen` (1214; 100% of non-empty `Case`): <em>Norges, Regjeringens, Cathrines, FNs, USAs, Obamas, Høyres, Bertelsens, Europas, Hannahs</em>
-* `EMPTY` (17047): <em>Norge, Obama, Regjeringen, Jan, Oslo, USA, Den, Svalbard, Mayen, Stortinget</em>
+* `EMPTY` (17046): <em>Norge, Obama, Regjeringen, Jan, Oslo, USA, Den, Svalbard, Mayen, Stortinget</em>
 
 `Case` seems to be **lexical feature** of `PROPN`. 100% lemmas (461) occur only with one value of `Case`.
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 `DET` tokens may have the following values of `Case`:
 
 * `Gen` (47; 100% of non-empty `Case`): <em>andres, dens, dets, alles, ens, annens, hvis</em>
-* `EMPTY` (16443): <em>en, et, den, de, det, andre, sin, alle, denne, noen</em>
+* `EMPTY` (16426): <em>en, et, den, de, det, andre, sin, alle, denne, noen</em>
 
 ### `ADJ`
 
@@ -86,17 +86,18 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 3 [no-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (3; 100%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (3; 100%).
 
 `NUM` tokens may have the following values of `Case`:
 
 * `Gen` (3; 100% of non-empty `Case`): <em>2, 2011s, 2s</em>
-* `EMPTY` (3942): <em>to, tre, fire, eneste, ett, 2, fem, ti, 20, seks</em>
+* `EMPTY` (3959): <em>to, tre, fire, eneste, ett, 2, fem, ti, 20, seks</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (15; 83%),
 <tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (12; 57%),
-<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (9; 82%).
+<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (9; 100%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (1; 100%).
 

@@ -41,26 +41,26 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 12359 [no-pos/DET]() tokens (75% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (12359; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (10811; 87%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (8702; 70%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (12359; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (10811; 87%), <tt><a href="PronType.html">PronType</a>=Art</tt> (6182; 50%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (496; 4% of non-empty `Gender`): <em>den, vår, hans, ei, noen, all, denne, hver, egen, annen</em>
 * `Masc` (7470; 60% of non-empty `Gender`): <em>en, den, sin, denne, min, ingen, annen, hans, hver, egen</em>
 * `Neut` (4393; 36% of non-empty `Gender`): <em>et, det, noe, annet, sitt, dette, hvert, mitt, vårt, eget</em>
-* `EMPTY` (4131): <em>de, andre, alle, sine, noen, selv, disse, samme, våre, slike</em>
+* `EMPTY` (4114): <em>de, andre, alle, sine, noen, selv, disse, samme, våre, slike</em>
 
 <table>
   <tr><th>Paradigm <i>en</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>ens</em></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>en</em></td><td><em>ei</em></td><td><em>et, er, at, ett</em></td></tr>
+  <tr><td><tt></tt></td><td><em>en</em></td><td><em>ei</em></td><td><em>et, at, er, ett</em></td></tr>
 </table>
 
 ### `PRON`
 
 10250 [no-pos/PRON]() tokens (43% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (10250; 100%), <tt><a href="Person.html">Person</a>=3</tt> (10250; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (10250; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7107; 69%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7107; 69%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (10250; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (10250; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (9839; 96%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7107; 69%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7107; 69%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Fem` (523; 19% of non-empty `Gender`): <em>Kristin, Marit, Hanne, Hanna, Märtha, Gro, Ingrid, Maria, Marie, Anne</em>
 * `Masc` (1931; 72% of non-empty `Gender`): <em>Jan, Espen, Martin, Olav, Erik, Øyvind, Per, Kjell, Aftenposten, Sverre</em>
 * `Neut` (235; 9% of non-empty `Gender`): <em>Stortinget, Dagbladet, Fremskrittspartiet, Senterpartiet, Stortingets, Sørlandet, Internett, Barentshavet, Norden, Vestlandet</em>
-* `EMPTY` (15572): <em>Norge, Obama, Regjeringen, Oslo, USA, Den, Svalbard, Mayen, Cathrine, Bertelsen</em>
+* `EMPTY` (15571): <em>Norge, Obama, Regjeringen, Oslo, USA, Den, Svalbard, Mayen, Cathrine, Bertelsen</em>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (364) occur only with one value of `Gender`.
 
@@ -108,14 +108,14 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 164 [no-pos/NUM]() tokens (4% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (164; 100%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (164; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (164; 100%).
 
 `NUM` tokens may have the following values of `Gender`:
 
 * `Fem` (5; 3% of non-empty `Gender`): <em>halvannen, annenhver</em>
 * `Masc` (66; 40% of non-empty `Gender`): <em>én, halvannen, annenhver, Èn</em>
 * `Neut` (93; 57% of non-empty `Gender`): <em>ett, halvannet, mangt, annethvert</em>
-* `EMPTY` (3781): <em>to, tre, fire, eneste, 2, fem, ti, 20, seks, 1</em>
+* `EMPTY` (3798): <em>to, tre, fire, eneste, 2, fem, ti, 20, seks, 1</em>
 
 <table>
   <tr><th>Paradigm <i>halvannen</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

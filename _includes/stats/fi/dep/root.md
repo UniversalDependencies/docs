@@ -82,12 +82,12 @@ The following 14 pairs of parts of speech are connected with `root`: [fi-pos/ROO
 
 This relation is universal.
 
-18792 nodes (12%) are attached to their parents as `root`.
+18723 nodes (12%) are attached to their parents as `root`.
 
-18792 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5240527884206.
+18723 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.52037600811836.
 
-The following 10 pairs of parts of speech are connected with `root`: [fi-pos/ROOT]()-[fi-pos/VERB]() (14302; 76% instances), [fi-pos/ROOT]()-[fi-pos/NOUN]() (2428; 13% instances), [fi-pos/ROOT]()-[fi-pos/ADJ]() (1484; 8% instances), [fi-pos/ROOT]()-[fi-pos/PROPN]() (171; 1% instances), [fi-pos/ROOT]()-[fi-pos/PRON]() (166; 1% instances), [fi-pos/ROOT]()-[fi-pos/ADV]() (132; 1% instances), [fi-pos/ROOT]()-[fi-pos/NUM]() (50; 0% instances), [fi-pos/ROOT]()-[fi-pos/INTJ]() (36; 0% instances), [fi-pos/ROOT]()-[fi-pos/X]() (15; 0% instances), [fi-pos/ROOT]()-[fi-pos/SCONJ]() (8; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: [fi-pos/ROOT]()-[fi-pos/VERB]() (14082; 75% instances), [fi-pos/ROOT]()-[fi-pos/NOUN]() (2510; 13% instances), [fi-pos/ROOT]()-[fi-pos/ADJ]() (1577; 8% instances), [fi-pos/ROOT]()-[fi-pos/PRON]() (165; 1% instances), [fi-pos/ROOT]()-[fi-pos/PROPN]() (161; 1% instances), [fi-pos/ROOT]()-[fi-pos/ADV]() (91; 0% instances), [fi-pos/ROOT]()-[fi-pos/PART]() (42; 0% instances), [fi-pos/ROOT]()-[fi-pos/INTJ]() (37; 0% instances), [fi-pos/ROOT]()-[fi-pos/NUM]() (36; 0% instances), [fi-pos/ROOT]()-[fi-pos/X]() (15; 0% instances), [fi-pos/ROOT]()-[fi-pos/SCONJ]() (7; 0% instances).
 
 
 ~~~ conllu
@@ -96,41 +96,50 @@ The following 10 pairs of parts of speech are connected with `root`: [fi-pos/ROO
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	x:n	x	NOUN	N,Abbr,Sg,Gen	Abbr=Yes|Case=Gen|Number=Sing	3	nsubj	_	_
-2	tarvii	tarvita	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	aux	_	Style=Dialectal
-3	toimia	toimia	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
+1	ei	ei	VERB	V,Neg,Act,Sg3	Negative=Neg|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	neg	_	_
+2	voi	voida	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	ajatellakhaa	ajatella	VERB	V,Act,InfA,Lat,Kaan	Case=Lat|Clitic=Kaan|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	0	root	_	_
+4	varhmaan	varmaan	PART	Pcle	Style=Coll	3	advmod	_	_
+5	että	että	SCONJ	Pcle,CS	_	9	mark	_	_
+6	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	9	nsubj:cop	_	_
+7	ikinä	ikinä	ADV	Adv	_	9	advmod	_	_
+8	olis	olla	VERB	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|Style=Coll|VerbForm=Fin|Voice=Act	9	cop	_	_
+9	vakinaisia	vakinainen	ADJ	A,Pl,Par	Case=Par|Number=Plur	3	ccomp	_	_
+10	.	.	PUNCT	Pun	_	9	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	nukahtamaisillaan	nukahtaa	VERB	V,Act,InfMaisilla,Px3	Person[psor]=3|VerbForm=Inf|Voice=Act	2	advcl	_	FTB1-InfForm=Maisilla
-2	oleva	olla	VERB	V,Act,PcpVa,Sg,Nom	Case=Nom|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
-3	kuski	kuski	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
+# visual-style 0 6 root	color:blue
+1	noo	noo	INTJ	Pcle,Interj	_	6	discourse	_	Alt=6_discourse
+2	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	6	nsubj:cop	_	_
+3	o	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+4	jottais	jokin	DET	Pron,Qnt,Sg,Par	Case=Par|Number=Sing|PronType=Ind|Style=Coll	6	det	_	_
+5	semssi	semmoinen	DET	A,Dem,Pl,Par	Case=Par|Number=Plur|PronType=Dem|Style=Coll	6	amod	_	Alt=DET
+6	sukulaissi	sukulainen	NOUN	N,Pl,Par	Case=Par|Number=Plur|Style=Coll	0	root	_	_
+7	.	.	PUNCT	Pun	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	Buckler	buckler	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	3	nsubj	_	_
-2	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	_
-3	vaalea	vaalea	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
-4	,	,	PUNCT	Pun	_	3	punct	_	FTB-rel=phrm
-5	makeahko	makeahko	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	3	conj	_	_
-6	,	,	PUNCT	Pun	_	3	punct	_	FTB-rel=phrm
-7	lievästi	lievästi	ADV	Adv	_	8	advmod	_	_
-8	vierremäinen	vierremäinen	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	3	conj	_	_
-9	.	.	PUNCT	Pun	_	8	punct	_	_
+# visual-style 0 6 root	color:blue
+1	Vanhojen	vanha	ADJ	A,Pl,Gen	Case=Gen|Number=Plur	2	amod	_	_
+2	dna-näytteiden	dna-näyte	NOUN	N,Pl,Gen	Case=Gen|Number=Plur	3	dobj	_	_
+3	käsittely	käsittely	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	6	nsubj:cop	_	_
+4	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	äärimmäisen	äärimmäinen	ADJ	A,Sg,Gen	Case=Gen|Number=Sing	6	amod	_	_
+6	vaikeata	vaikea	ADJ	A,Sg,Par	Case=Par|Number=Sing	0	root	_	_
+7	.	.	PUNCT	Pun	_	6	punct	_	_
 
 ~~~
 

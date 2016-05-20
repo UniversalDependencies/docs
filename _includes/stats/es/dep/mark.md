@@ -82,3 +82,76 @@ The following 55 pairs of parts of speech are connected with `mark`: [es-pos/VER
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+19427 nodes (3%) are attached to their parents as `mark`.
+
+19330 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.72054357337726.
+
+The following 51 pairs of parts of speech are connected with `mark`: [es-pos/VERB]()-[es-pos/ADP]() (7722; 40% instances), [es-pos/VERB]()-[es-pos/SCONJ]() (7257; 37% instances), [es-pos/NOUN]()-[es-pos/SCONJ]() (1722; 9% instances), [es-pos/ADJ]()-[es-pos/SCONJ]() (888; 5% instances), [es-pos/AUX]()-[es-pos/SCONJ]() (264; 1% instances), [es-pos/VERB]()-[es-pos/ADV]() (221; 1% instances), [es-pos/PROPN]()-[es-pos/SCONJ]() (218; 1% instances), [es-pos/NOUN]()-[es-pos/ADP]() (178; 1% instances), [es-pos/ADJ]()-[es-pos/ADP]() (155; 1% instances), [es-pos/PRON]()-[es-pos/SCONJ]() (143; 1% instances), [es-pos/VERB]()-[es-pos/NOUN]() (125; 1% instances), [es-pos/ADV]()-[es-pos/SCONJ]() (112; 1% instances), [es-pos/AUX]()-[es-pos/ADP]() (83; 0% instances), [es-pos/DET]()-[es-pos/SCONJ]() (73; 0% instances), [es-pos/ADJ]()-[es-pos/ADV]() (26; 0% instances), [es-pos/NOUN]()-[es-pos/ADV]() (24; 0% instances), [es-pos/VERB]()-[es-pos/CONJ]() (23; 0% instances), [es-pos/ADP]()-[es-pos/SCONJ]() (20; 0% instances), [es-pos/DET]()-[es-pos/ADP]() (19; 0% instances), [es-pos/VERB]()-[es-pos/DET]() (17; 0% instances), [es-pos/VERB]()-[es-pos/ADJ]() (15; 0% instances), [es-pos/ADJ]()-[es-pos/NOUN]() (14; 0% instances), [es-pos/ADV]()-[es-pos/ADP]() (14; 0% instances), [es-pos/NUM]()-[es-pos/SCONJ]() (14; 0% instances), [es-pos/PRON]()-[es-pos/ADP]() (13; 0% instances), [es-pos/NOUN]()-[es-pos/NOUN]() (12; 0% instances), [es-pos/PROPN]()-[es-pos/ADP]() (10; 0% instances), [es-pos/AUX]()-[es-pos/ADV]() (5; 0% instances), [es-pos/AUX]()-[es-pos/NOUN]() (5; 0% instances), [es-pos/CONJ]()-[es-pos/ADP]() (4; 0% instances), [es-pos/PRON]()-[es-pos/ADV]() (3; 0% instances), [es-pos/SYM]()-[es-pos/SCONJ]() (3; 0% instances), [es-pos/VERB]()-[es-pos/PRON]() (3; 0% instances), [es-pos/ADJ]()-[es-pos/ADJ]() (2; 0% instances), [es-pos/ADJ]()-[es-pos/CONJ]() (2; 0% instances), [es-pos/SCONJ]()-[es-pos/ADP]() (2; 0% instances), [es-pos/SCONJ]()-[es-pos/SCONJ]() (2; 0% instances), [es-pos/ADP]()-[es-pos/ADP]() (1; 0% instances), [es-pos/AUX]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/CONJ]() (1; 0% instances), [es-pos/NUM]()-[es-pos/ADV]() (1; 0% instances), [es-pos/NUM]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/PRON]()-[es-pos/VERB]() (1; 0% instances), [es-pos/PROPN]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/PROPN]()-[es-pos/ADV]() (1; 0% instances), [es-pos/PROPN]()-[es-pos/CONJ]() (1; 0% instances), [es-pos/SCONJ]()-[es-pos/ADV]() (1; 0% instances), [es-pos/SYM]()-[es-pos/ADV]() (1; 0% instances), [es-pos/VERB]()-[es-pos/PART]() (1; 0% instances), [es-pos/X]()-[es-pos/SCONJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 mark	color:blue
+1	De	de	ADP	ADP	AdpType=Prep	6	mark	_	MWE=De_ahí_que|MWEPOS=SCONJ
+2	ahí	ahí	ADV	ADV	_	1	mwe	_	_
+3	que	que	SCONJ	SCONJ	_	1	mwe	_	_
+4	Clifford	Clifford	PROPN	PROPN	_	6	nsubj	_	MWE=Clifford_Luyk|MWEPOS=PROPN
+5	Luyk	Luyk	PROPN	PROPN	_	4	name	_	_
+6	presentase	presentar	VERB	VERB	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	alineaciones	alineación	NOUN	NOUN	Gender=Fem|Number=Plur	6	dobj	_	_
+8	clásicas	clásico	ADJ	ADJ	Gender=Fem|Number=Plur	7	amod	_	_
+9	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 mark	color:blue
+1	Cuando	cuando	SCONJ	SCONJ	_	4	mark	_	_
+2	alguien	alguien	PRON	PRON	Number=Sing|PronType=Ind	4	nsubj	_	_
+3	se	él	PRON	PRON	Person=3	4	dobj	_	_
+4	asomaba	asomar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+5	se	él	PRON	PRON	Person=3	6	dobj	_	_
+6	quedaba	quedar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	enganchado	enganchado	ADJ	ADJ	Gender=Masc|Number=Sing|VerbForm=Part	6	dobj	_	_
+8	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 mark	color:blue
+1	Delgado	Delgado	PROPN	PROPN	_	2	nsubj	_	_
+2	vive	vivir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	ADP	AdpType=Prep	4	case	_	_
+4	algo	algo	PRON	PRON	Number=Sing|PronType=Ind	2	nmod	_	_
+5	más	más	ADV	ADV	_	4	advmod	_	_
+6	que	que	SCONJ	SCONJ	_	7	mark	_	_
+7	dignidad	dignidad	NOUN	NOUN	Gender=Fem|Number=Sing	4	nmod	_	_
+8	su	su	DET	DET	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	declive	declive	NOUN	NOUN	Gender=Masc|Number=Sing	2	dobj	_	_
+10	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
+
+~~~
+
+

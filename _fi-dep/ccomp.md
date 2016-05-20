@@ -43,3 +43,15 @@ nsubj(suututti-9, Se-1)
 dobj(suututti-9, äitiä-10)
 punct(suututti-9, .-11)
 ~~~
+
+### Diffs
+
+In FinnTreeBank (FI_FTB), if a clausal complement modifies
+a word other than a verb, the reason is most likely
+a verb-derived noun
+(eg. *ei käy __kieltäminen__, etteikö olisi mennyt*(`ccomp`)
+“no denying that ∅ wouldn't have gone”).
+Clauses modifying regular nouns get marked as `acl`:
+*semmonen __kampaus__ et se kestää*(`ccomp`)
+lit. “the kind of hairstyle that it lasts”
+(according to [Universal dependency relations: acl](http://universaldependencies.org/u/dep/all.html#al-u-dep/acl)). 

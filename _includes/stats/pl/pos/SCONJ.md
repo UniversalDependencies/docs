@@ -5,15 +5,15 @@
 ## Treebank Statistics (UD_Polish)
 
 There are 25 `SCONJ` lemmas (0%), 26 `SCONJ` types (0%) and 1113 `SCONJ` tokens (1%).
-Out of 13 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 12 in number of types and 11 in number of tokens.
+Out of 15 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 14 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>że, bo, gdy, aby, by, żeby, jeśli, gdyby, choć, jeżeli</em>
 
 The 10 most frequent `SCONJ` types:  <em>że, bo, gdy, aby, by, żeby, jeśli, gdyby, choć, jeżeli</em>
 
-The 10 most frequent ambiguous lemmas: <em>że</em> ([SCONJ]() 601, [PART]() 3), <em>gdy</em> ([SCONJ]() 63, [ADV]() 1), <em>by</em> ([PART]() 167, [SCONJ]() 56), <em>choć</em> ([SCONJ]() 21, [PART]() 3), <em>jakby</em> ([SCONJ]() 14, [PART]() 11), <em>kiedy</em> ([ADV]() 29, [SCONJ]() 14), <em>chociaż</em> ([PART]() 5, [SCONJ]() 4), <em>aż</em> ([PART]() 26, [CONJ]() 2, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>że</em> ([SCONJ]() 601, [PART]() 3), <em>gdy</em> ([SCONJ]() 63, [ADV]() 1), <em>choć</em> ([SCONJ]() 21, [PART]() 3), <em>jakby</em> ([SCONJ]() 14, [PART]() 11), <em>kiedy</em> ([ADV]() 29, [SCONJ]() 14), <em>chociaż</em> ([PART]() 5, [SCONJ]() 4), <em>aż</em> ([PART]() 26, [CONJ]() 2, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>że</em> ([SCONJ]() 587, [PART]() 3), <em>gdy</em> ([SCONJ]() 33, [ADV]() 1), <em>by</em> ([PART]() 167, [SCONJ]() 54), <em>choć</em> ([SCONJ]() 14, [PART]() 3), <em>jakby</em> ([SCONJ]() 12, [PART]() 9), <em>kiedy</em> ([ADV]() 13, [SCONJ]() 8), <em>ze</em> ([ADP]() 129, [SCONJ]() 10), <em>nim</em> ([PRON]() 47, [SCONJ]() 4), <em>chociaż</em> ([PART]() 5, [SCONJ]() 4), <em>Aż</em> ([PART]() 5, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>że</em> ([SCONJ]() 587, [PART]() 3), <em>gdy</em> ([SCONJ]() 33, [ADV]() 1), <em>by</em> ([AUX]() 167, [SCONJ]() 54), <em>choć</em> ([SCONJ]() 14, [PART]() 3), <em>jakby</em> ([SCONJ]() 12, [PART]() 9), <em>kiedy</em> ([ADV]() 13, [SCONJ]() 8), <em>ze</em> ([ADP]() 129, [SCONJ]() 10), <em>nim</em> ([PRON]() 47, [SCONJ]() 4), <em>chociaż</em> ([PART]() 5, [SCONJ]() 4), <em>Aż</em> ([PART]() 5, [SCONJ]() 1)
 
 
 * <em>że</em>
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  <em>że</em> ([SCONJ]() 587, [PART]() 3),
   * [SCONJ]() 33: <em>Nie lubię , <b>gdy</b> ktoś jest natarczywy .</em>
   * [ADV]() 1: <em>Śledztwo przeciwko świadkowi koronnemu zostanie umorzone dopiero , <b>gdy</b> bez zarzutu wypełni swoją rolę .</em>
 * <em>by</em>
-  * [PART]() 167: <em>A zresztą , pewnie i tak zmarnowało <b>by</b> te pieniądze .</em>
+  * [AUX]() 167: <em>A zresztą , pewnie i tak zmarnowało <b>by</b> te pieniądze .</em>
   * [SCONJ]() 54: <em>Pozwól , <b>by</b> inni dowiedzieli się , że potrzebujesz wsparcia .</em>
 * <em>choć</em>
   * [SCONJ]() 14: <em>Wydało jej się to dziwne , <b>choć</b> teoretycznie było możliwe .</em>
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>że</em> ([SCONJ]() 587, [PART]() 3),
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.040000 (the average of all parts of speech is 1.847377).
+The form / lemma ratio of `SCONJ` is 1.040000 (the average of all parts of speech is 1.801337).
 
 The 1st highest number of forms (2) was observed with the lemma “by”: <em>bo, by</em>.
 
@@ -62,9 +62,9 @@ The 3rd highest number of forms (1) was observed with the lemma “aby”: <em>a
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: [pl-dep/mark]() (1009; 91% instances), [pl-dep/case]() (95; 9% instances), [pl-dep/mwe]() (6; 1% instances), [pl-dep/conj]() (2; 0% instances), [pl-dep/nmod]() (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: [pl-dep/mark]() (1008; 91% instances), [pl-dep/case]() (96; 9% instances), [pl-dep/mwe]() (6; 1% instances), [pl-dep/conj]() (2; 0% instances), [pl-dep/nmod]() (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: [VERB]() (969; 87% instances), [ADJ]() (75; 7% instances), [NOUN]() (49; 4% instances), [AUX]() (8; 1% instances), [ADP]() (6; 1% instances), [ADV]() (4; 0% instances), [NUM]() (1; 0% instances), [PRON]() (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: [VERB]() (968; 87% instances), [ADJ]() (75; 7% instances), [NOUN]() (47; 4% instances), [AUX]() (8; 1% instances), [ADP]() (6; 1% instances), [ADV]() (4; 0% instances), [PRON]() (3; 0% instances), [PROPN]() (2; 0% instances)
 
 1110 (100%) `SCONJ` nodes are leaves.
 

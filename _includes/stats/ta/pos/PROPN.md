@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  சர்வதேச ([PROPN]() 11, [ADJ
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.226040 (the average of all parts of speech is 1.559122).
+The form / lemma ratio of `PROPN` is 1.226040 (the average of all parts of speech is 1.557992).
 
 The 1st highest number of forms (11) was observed with the lemma “இந்தியா”: இந்திய, இந்தியத், இந்தியப், இந்தியா, இந்தியாவின், இந்தியாவில், இந்தியாவுக்கு, இந்தியாவுக்குச், இந்தியாவுக்க், இந்தியாவைச், இந்தியாவ்.
 
@@ -59,21 +59,21 @@ Examples: இந்தியா, இலங்கை, அதிமுக, பா�
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 6 different relations: [ta-dep/nmod]() (1033; 75% instances), [ta-dep/nsubj]() (186; 14% instances), [ta-dep/conj]() (84; 6% instances), [ta-dep/dobj]() (60; 4% instances), [ta-dep/iobj]() (5; 0% instances), [ta-dep/root]() (2; 0% instances)
+`PROPN` nodes are attached to their parents using 7 different relations: [ta-dep/nmod]() (1029; 75% instances), [ta-dep/nsubj]() (186; 14% instances), [ta-dep/conj]() (87; 6% instances), [ta-dep/dobj]() (60; 4% instances), [ta-dep/iobj]() (5; 0% instances), [ta-dep/root]() (2; 0% instances), [ta-dep/appos]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 11 different parts of speech: [NOUN]() (721; 53% instances), [VERB]() (293; 21% instances), [PROPN]() (260; 19% instances), [ADJ]() (71; 5% instances), [PART]() (9; 1% instances), [AUX]() (4; 0% instances), [ADV]() (3; 0% instances), [NUM]() (3; 0% instances), [PUNCT]() (3; 0% instances), [ROOT]() (2; 0% instances), [PRON]() (1; 0% instances)
+Parents of `PROPN` nodes belong to 10 different parts of speech: [NOUN]() (722; 53% instances), [VERB]() (290; 21% instances), [PROPN]() (264; 19% instances), [ADJ]() (71; 5% instances), [PART]() (10; 1% instances), [AUX]() (4; 0% instances), [ADV]() (3; 0% instances), [NUM]() (3; 0% instances), [ROOT]() (2; 0% instances), [PRON]() (1; 0% instances)
 
-1025 (75%) `PROPN` nodes are leaves.
+1022 (75%) `PROPN` nodes are leaves.
 
 174 (13%) `PROPN` nodes have one child.
 
-91 (7%) `PROPN` nodes have two children.
+92 (7%) `PROPN` nodes have two children.
 
-80 (6%) `PROPN` nodes have three or more children.
+82 (6%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 11.
 
-Children of `PROPN` nodes are attached using 13 different relations: [ta-dep/nmod]() (350; 50% instances), [ta-dep/conj]() (96; 14% instances), [ta-dep/punct]() (84; 12% instances), [ta-dep/amod]() (58; 8% instances), [ta-dep/case]() (58; 8% instances), [ta-dep/cc]() (19; 3% instances), [ta-dep/advmod:emph]() (13; 2% instances), [ta-dep/nummod]() (13; 2% instances), [ta-dep/det]() (4; 1% instances), [ta-dep/advcl]() (2; 0% instances), [ta-dep/nsubj]() (2; 0% instances), [ta-dep/advmod]() (1; 0% instances), [ta-dep/dobj]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 16 different relations: [ta-dep/nmod]() (343; 48% instances), [ta-dep/conj]() (98; 14% instances), [ta-dep/punct]() (86; 12% instances), [ta-dep/amod]() (58; 8% instances), [ta-dep/case]() (58; 8% instances), [ta-dep/cc]() (26; 4% instances), [ta-dep/advmod:emph]() (14; 2% instances), [ta-dep/nummod]() (13; 2% instances), [ta-dep/det]() (4; 1% instances), [ta-dep/appos]() (3; 0% instances), [ta-dep/dobj]() (3; 0% instances), [ta-dep/nsubj]() (3; 0% instances), [ta-dep/advcl]() (2; 0% instances), [ta-dep/advmod]() (2; 0% instances), [ta-dep/aux]() (2; 0% instances), [ta-dep/mark]() (2; 0% instances)
 
-Children of `PROPN` nodes belong to 12 different parts of speech: [PROPN]() (260; 37% instances), [NOUN]() (164; 23% instances), [PUNCT]() (85; 12% instances), [ADJ]() (58; 8% instances), [ADP]() (58; 8% instances), [PART]() (39; 6% instances), [CONJ]() (14; 2% instances), [NUM]() (13; 2% instances), [DET]() (4; 1% instances), [ADV]() (2; 0% instances), [PRON]() (2; 0% instances), [VERB]() (2; 0% instances)
+Children of `PROPN` nodes belong to 13 different parts of speech: [PROPN]() (264; 37% instances), [NOUN]() (170; 24% instances), [PUNCT]() (86; 12% instances), [ADJ]() (58; 8% instances), [ADP]() (58; 8% instances), [PART]() (41; 6% instances), [CONJ]() (14; 2% instances), [NUM]() (13; 2% instances), [DET]() (4; 1% instances), [VERB]() (3; 0% instances), [ADV]() (2; 0% instances), [AUX]() (2; 0% instances), [PRON]() (2; 0% instances)
 

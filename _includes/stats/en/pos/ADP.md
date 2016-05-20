@@ -4,24 +4,24 @@
 
 ## Treebank Statistics (UD_English)
 
-There are 138 `ADP` lemmas (1%), 138 `ADP` types (1%) and 21681 `ADP` tokens (9%).
-Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 4 in number of tokens.
+There are 137 `ADP` lemmas (1%), 137 `ADP` types (1%) and 21680 `ADP` tokens (9%).
+Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>of, in, to, for, on, with, at, from, by, as</em>
 
 The 10 most frequent `ADP` types:  <em>of, in, to, for, on, with, at, from, by, as</em>
 
-The 10 most frequent ambiguous lemmas: <em>of</em> ([ADP]() 4163, [SCONJ]() 165, [ADV]() 48, [AUX]() 3, [CONJ]() 1), <em>in</em> ([ADP]() 3579, [ADV]() 137, [SCONJ]() 102, [NOUN]() 9, [X]() 3, [PROPN]() 2, [VERB]() 1, [ADJ]() 1), <em>to</em> ([PART]() 3987, [ADP]() 2207, [SCONJ]() 85, [ADV]() 12, [NOUN]() 2, [VERB]() 1), <em>for</em> ([ADP]() 2088, [SCONJ]() 186, [CONJ]() 8, [X]() 4, [ADV]() 2), <em>on</em> ([ADP]() 1458, [SCONJ]() 75, [ADV]() 61, [ADJ]() 4, [NOUN]() 3, [X]() 1, [NUM]() 1, [PROPN]() 1), <em>with</em> ([ADP]() 1441, [SCONJ]() 84, [ADV]() 3, [X]() 2, [AUX]() 1), <em>at</em> ([ADP]() 883, [ADV]() 104, [SCONJ]() 19, [CONJ]() 1), <em>from</em> ([ADP]() 780, [SCONJ]() 45), <em>by</em> ([ADP]() 703, [SCONJ]() 68, [ADV]() 11, [VERB]() 1), <em>as</em> ([ADP]() 472, [SCONJ]() 425, [ADV]() 234, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: <em>of</em> ([ADP]() 4163, [SCONJ]() 165, [ADV]() 48, [AUX]() 3, [CONJ]() 1), <em>in</em> ([ADP]() 3579, [ADV]() 137, [SCONJ]() 102, [NOUN]() 9, [X]() 3, [PROPN]() 2, [VERB]() 1, [ADJ]() 1), <em>to</em> ([PART]() 3987, [ADP]() 2207, [SCONJ]() 85, [ADV]() 12, [NOUN]() 2, [VERB]() 1), <em>for</em> ([ADP]() 2088, [SCONJ]() 186, [CONJ]() 8, [X]() 4, [ADV]() 2), <em>on</em> ([ADP]() 1458, [SCONJ]() 75, [ADV]() 61, [ADJ]() 4, [NOUN]() 3, [PROPN]() 1, [NUM]() 1, [X]() 1), <em>with</em> ([ADP]() 1441, [SCONJ]() 84, [ADV]() 3, [X]() 2, [AUX]() 1), <em>at</em> ([ADP]() 883, [ADV]() 104, [SCONJ]() 19, [CONJ]() 1), <em>from</em> ([ADP]() 780, [SCONJ]() 45), <em>by</em> ([ADP]() 703, [SCONJ]() 68, [ADV]() 11, [VERB]() 1), <em>as</em> ([ADP]() 472, [SCONJ]() 425, [ADV]() 234, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>of</em> ([ADP]() 4134, [SCONJ]() 163, [ADV]() 39, [CONJ]() 1, [AUX]() 1), <em>in</em> ([ADP]() 3340, [ADV]() 136, [SCONJ]() 100, [NOUN]() 8, [X]() 2, [PROPN]() 2, [VERB]() 1, [ADJ]() 1), <em>to</em> ([PART]() 3942, [ADP]() 2181, [SCONJ]() 83, [ADV]() 12, [NOUN]() 2, [VERB]() 1), <em>for</em> ([ADP]() 2025, [SCONJ]() 185, [CONJ]() 7, [X]() 3, [ADV]() 2), <em>on</em> ([ADP]() 1389, [SCONJ]() 74, [ADV]() 59, [ADJ]() 4, [NOUN]() 3, [X]() 1, [NUM]() 1, [PROPN]() 1), <em>with</em> ([ADP]() 1407, [SCONJ]() 72, [ADV]() 3, [X]() 2, [AUX]() 1), <em>at</em> ([ADP]() 829, [ADV]() 94, [SCONJ]() 19, [CONJ]() 1), <em>from</em> ([ADP]() 746, [SCONJ]() 42), <em>by</em> ([ADP]() 654, [SCONJ]() 64, [ADV]() 10, [VERB]() 1), <em>as</em> ([ADP]() 424, [SCONJ]() 367, [ADV]() 222, [AUX]() 1)
+The 10 most frequent ambiguous types:  <em>of</em> ([ADP]() 4134, [SCONJ]() 163, [ADV]() 39, [AUX]() 1, [CONJ]() 1), <em>in</em> ([ADP]() 3340, [ADV]() 136, [SCONJ]() 100, [NOUN]() 8, [X]() 2, [PROPN]() 2, [VERB]() 1, [ADJ]() 1), <em>to</em> ([PART]() 3942, [ADP]() 2181, [SCONJ]() 83, [ADV]() 12, [NOUN]() 2, [VERB]() 1), <em>for</em> ([ADP]() 2025, [SCONJ]() 185, [CONJ]() 7, [X]() 3, [ADV]() 2), <em>on</em> ([ADP]() 1389, [SCONJ]() 74, [ADV]() 59, [ADJ]() 4, [NOUN]() 3, [NUM]() 1, [PROPN]() 1, [X]() 1), <em>with</em> ([ADP]() 1407, [SCONJ]() 72, [ADV]() 3, [X]() 2, [AUX]() 1), <em>at</em> ([ADP]() 829, [ADV]() 94, [SCONJ]() 19, [CONJ]() 1), <em>from</em> ([ADP]() 746, [SCONJ]() 42), <em>by</em> ([ADP]() 654, [SCONJ]() 64, [ADV]() 10, [VERB]() 1), <em>as</em> ([ADP]() 424, [SCONJ]() 367, [ADV]() 222, [AUX]() 1)
 
 
 * <em>of</em>
   * [ADP]() 4134: <em>When they saw a cartoon <b>of</b> their prophet , people had to die .</em>
   * [SCONJ]() 163: <em>I was thinking <b>of</b> converting it to a hover vehicle .</em>
   * [ADV]() 39: <em>To pander to the mythical " Arab street " , <b>of</b> course .</em>
-  * [CONJ]() 1: <em>I have to say that the baby does not scream after her <b>of</b> anything ... he / she sleeps .</em>
   * [AUX]() 1: <em>On the other hand though , if I 'm a client he should really <b>of</b> called back by now because you do n't leave a customer hanging .</em>
+  * [CONJ]() 1: <em>I have to say that the baby does not scream after her <b>of</b> anything ... he / she sleeps .</em>
 * <em>in</em>
   * [ADP]() 3340: <em>The hymn talks about serving something greater than yourself <b>in</b> life .</em>
   * [ADV]() 136: <em>Bryan , you 're <b>in</b> , right ?</em>
@@ -50,9 +50,9 @@ The 10 most frequent ambiguous types:  <em>of</em> ([ADP]() 4134, [SCONJ]() 163,
   * [ADV]() 59: <em>We 've moved <b>on</b> .</em>
   * [ADJ]() 4: <em>spot <b>on</b></em>
   * [NOUN]() 3: <em>I 'm still trying to find out what it will take to move gas <b>on</b> and ENA tabs agreement .</em>
-  * [X]() 1: <em>Additional resources are being allocated and the situation is being closely monitored ( both for quarter end signoff and <b>on</b> going operations ) .</em>
   * [NUM]() 1: <em>When she was spayed the vet had a hard time because she only has one uterine horn and he said this could mean she only has <b>on</b> kidney .</em>
   * [PROPN]() 1: <em>Thanks Run <b>on</b> !</em>
+  * [X]() 1: <em>Additional resources are being allocated and the situation is being closely monitored ( both for quarter end signoff and <b>on</b> going operations ) .</em>
 * <em>with</em>
   * [ADP]() 1407: <em>Do not hesitate to call us <b>with</b> any questions .</em>
   * [SCONJ]() 72: <em>I just got your email and I certainly concur <b>with</b> Jeff making the call .</em>
@@ -80,7 +80,7 @@ The 10 most frequent ambiguous types:  <em>of</em> ([ADP]() 4134, [SCONJ]() 163,
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.173588).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.173797).
 
 The 1st highest number of forms (1) was observed with the lemma “2”: <em>2</em>.
 
@@ -93,27 +93,178 @@ The 3rd highest number of forms (1) was observed with the lemma “@”: <em>@</
 `ADP` occurs with 4 feature-value pairs: `Mood=Ind`, `Number=Sing`, `Tense=Pres`, `VerbForm=Fin`
 
 `ADP` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (21679 tokens).
+The most frequent feature combination is `_` (21678 tokens).
 Examples: <em>of, in, to, for, on, with, at, from, by, as</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 20 different relations: [en-dep/case]() (19999; 92% instances), [en-dep/compound:prt]() (890; 4% instances), [en-dep/mwe]() (316; 1% instances), [en-dep/nmod]() (278; 1% instances), [en-dep/mark]() (94; 0% instances), [en-dep/advmod]() (33; 0% instances), [en-dep/compound]() (24; 0% instances), [en-dep/acl:relcl]() (15; 0% instances), [en-dep/conj]() (15; 0% instances), [en-dep/acl]() (3; 0% instances), [en-dep/cc]() (3; 0% instances), [en-dep/reparandum]() (3; 0% instances), [en-dep/aux]() (1; 0% instances), [en-dep/ccomp]() (1; 0% instances), [en-dep/csubj]() (1; 0% instances), [en-dep/dep]() (1; 0% instances), [en-dep/det]() (1; 0% instances), [en-dep/dobj]() (1; 0% instances), [en-dep/nsubj]() (1; 0% instances), [en-dep/xcomp]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 20 different relations: [en-dep/case]() (19999; 92% instances), [en-dep/compound:prt]() (890; 4% instances), [en-dep/mwe]() (316; 1% instances), [en-dep/nmod]() (278; 1% instances), [en-dep/mark]() (94; 0% instances), [en-dep/advmod]() (33; 0% instances), [en-dep/compound]() (24; 0% instances), [en-dep/acl:relcl]() (15; 0% instances), [en-dep/conj]() (15; 0% instances), [en-dep/cc]() (3; 0% instances), [en-dep/reparandum]() (3; 0% instances), [en-dep/acl]() (2; 0% instances), [en-dep/aux]() (1; 0% instances), [en-dep/ccomp]() (1; 0% instances), [en-dep/csubj]() (1; 0% instances), [en-dep/dep]() (1; 0% instances), [en-dep/det]() (1; 0% instances), [en-dep/dobj]() (1; 0% instances), [en-dep/nsubj]() (1; 0% instances), [en-dep/xcomp]() (1; 0% instances)
 
-Parents of `ADP` nodes belong to 14 different parts of speech: [NOUN]() (13912; 64% instances), [PROPN]() (3930; 18% instances), [VERB]() (1231; 6% instances), [PRON]() (1135; 5% instances), [NUM]() (481; 2% instances), [ADJ]() (358; 2% instances), [ADV]() (177; 1% instances), [DET]() (174; 1% instances), [ADP]() (154; 1% instances), [SYM]() (81; 0% instances), [X]() (44; 0% instances), [INTJ]() (2; 0% instances), [CONJ]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `ADP` nodes belong to 14 different parts of speech: [NOUN]() (13911; 64% instances), [PROPN]() (3930; 18% instances), [VERB]() (1231; 6% instances), [PRON]() (1207; 6% instances), [NUM]() (481; 2% instances), [ADJ]() (358; 2% instances), [ADV]() (177; 1% instances), [ADP]() (154; 1% instances), [DET]() (102; 0% instances), [SYM]() (81; 0% instances), [X]() (44; 0% instances), [INTJ]() (2; 0% instances), [CONJ]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 
 21440 (99%) `ADP` nodes are leaves.
 
 210 (1%) `ADP` nodes have one child.
 
-17 (0%) `ADP` nodes have two children.
+16 (0%) `ADP` nodes have two children.
 
 14 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 18 different relations: [en-dep/mwe]() (194; 66% instances), [en-dep/cop]() (17; 6% instances), [en-dep/nsubj]() (16; 5% instances), [en-dep/punct]() (12; 4% instances), [en-dep/advmod]() (9; 3% instances), [en-dep/nmod]() (8; 3% instances), [en-dep/aux]() (7; 2% instances), [en-dep/goeswith]() (6; 2% instances), [en-dep/conj]() (5; 2% instances), [en-dep/advcl]() (4; 1% instances), [en-dep/cc]() (4; 1% instances), [en-dep/mark]() (3; 1% instances), [en-dep/case]() (2; 1% instances), [en-dep/acl]() (1; 0% instances), [en-dep/appos]() (1; 0% instances), [en-dep/discourse]() (1; 0% instances), [en-dep/dobj]() (1; 0% instances), [en-dep/parataxis]() (1; 0% instances)
+Children of `ADP` nodes are attached using 18 different relations: [en-dep/mwe]() (194; 67% instances), [en-dep/cop]() (17; 6% instances), [en-dep/nsubj]() (16; 6% instances), [en-dep/punct]() (12; 4% instances), [en-dep/advmod]() (9; 3% instances), [en-dep/nmod]() (8; 3% instances), [en-dep/aux]() (7; 2% instances), [en-dep/goeswith]() (6; 2% instances), [en-dep/conj]() (5; 2% instances), [en-dep/cc]() (4; 1% instances), [en-dep/advcl]() (3; 1% instances), [en-dep/case]() (2; 1% instances), [en-dep/mark]() (2; 1% instances), [en-dep/acl]() (1; 0% instances), [en-dep/appos]() (1; 0% instances), [en-dep/discourse]() (1; 0% instances), [en-dep/dobj]() (1; 0% instances), [en-dep/parataxis]() (1; 0% instances)
 
-Children of `ADP` nodes belong to 14 different parts of speech: [ADP]() (154; 53% instances), [NOUN]() (46; 16% instances), [VERB]() (24; 8% instances), [SCONJ]() (14; 5% instances), [PUNCT]() (12; 4% instances), [PRON]() (11; 4% instances), [ADV]() (8; 3% instances), [AUX]() (7; 2% instances), [X]() (7; 2% instances), [CONJ]() (4; 1% instances), [PART]() (2; 1% instances), [INTJ]() (1; 0% instances), [PROPN]() (1; 0% instances), [SYM]() (1; 0% instances)
+Children of `ADP` nodes belong to 14 different parts of speech: [ADP]() (154; 53% instances), [NOUN]() (46; 16% instances), [VERB]() (23; 8% instances), [SCONJ]() (14; 5% instances), [PUNCT]() (12; 4% instances), [PRON]() (11; 4% instances), [ADV]() (8; 3% instances), [AUX]() (7; 2% instances), [X]() (7; 2% instances), [CONJ]() (4; 1% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances), [PROPN]() (1; 0% instances), [SYM]() (1; 0% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_English-ESL)
+
+There are 1 `ADP` lemmas (6%), 1 `ADP` types (6%) and 8546 `ADP` tokens (9%).
+Out of 17 observed tags, the rank of `ADP` is: 2 in number of lemmas, 2 in number of types and 6 in number of tokens.
+
+The 10 most frequent `ADP` lemmas: <em>_</em>
+
+The 10 most frequent `ADP` types:  <em>_</em>
+
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+
+The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+
+
+* <em>_</em>
+  * [NOUN]() 15986: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ <b>_</b> _</em>
+  * [VERB]() 15080: <em>_ <b>_</b> _ _ _ _ <b>_</b> _ _ _ _ <b>_</b> _ <b>_</b> _ _</em>
+  * [DET]() 10562: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
+  * [PRON]() 9758: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [PUNCT]() 9580: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b></em>
+  * [ADP]() 8546: <em>_ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _</em>
+  * [ADJ]() 5857: <em>_ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [ADV]() 5704: <em>_ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _</em>
+  * [AUX]() 4533: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _</em>
+  * [PART]() 3531: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _</em>
+  * [CONJ]() 3198: <em>_ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * [SCONJ]() 2520: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * [PROPN]() 1795: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _</em>
+  * [NUM]() 844: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [INTJ]() 80: <em>_ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
+  * [X]() 68: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
+  * [SYM]() 39: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _</em>
+
+## Morphology
+
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.000000).
+
+The 1st highest number of forms (1) was observed with the lemma “_”: <em>_</em>.
+
+`ADP` does not occur with any features.
+
+
+## Relations
+
+`ADP` nodes are attached to their parents using 10 different relations: [en-dep/case]() (8043; 94% instances), [en-dep/mwe]() (212; 2% instances), [en-dep/compound:prt]() (172; 2% instances), [en-dep/nmod]() (68; 1% instances), [en-dep/mark]() (34; 0% instances), [en-dep/conj]() (10; 0% instances), [en-dep/det]() (3; 0% instances), [en-dep/cc]() (2; 0% instances), [en-dep/dobj]() (1; 0% instances), [en-dep/root]() (1; 0% instances)
+
+Parents of `ADP` nodes belong to 16 different parts of speech: [NOUN]() (6091; 71% instances), [PRON]() (694; 8% instances), [PROPN]() (687; 8% instances), [VERB]() (305; 4% instances), [DET]() (287; 3% instances), [NUM]() (159; 2% instances), [ADP]() (103; 1% instances), [ADJ]() (102; 1% instances), [ADV]() (102; 1% instances), [SYM]() (7; 0% instances), [SCONJ]() (3; 0% instances), [INTJ]() (2; 0% instances), [AUX]() (1; 0% instances), [PUNCT]() (1; 0% instances), [ROOT]() (1; 0% instances), [X]() (1; 0% instances)
+
+8402 (98%) `ADP` nodes are leaves.
+
+131 (2%) `ADP` nodes have one child.
+
+12 (0%) `ADP` nodes have two children.
+
+1 (0%) `ADP` nodes have three or more children.
+
+The highest child degree of a `ADP` node is 7.
+
+Children of `ADP` nodes are attached using 17 different relations: [en-dep/mwe]() (124; 77% instances), [en-dep/advmod]() (7; 4% instances), [en-dep/cc]() (7; 4% instances), [en-dep/conj]() (6; 4% instances), [en-dep/case]() (2; 1% instances), [en-dep/compound]() (2; 1% instances), [en-dep/cop]() (2; 1% instances), [en-dep/nsubj]() (2; 1% instances), [en-dep/punct]() (2; 1% instances), [en-dep/acl:relcl]() (1; 1% instances), [en-dep/compound:prt]() (1; 1% instances), [en-dep/det]() (1; 1% instances), [en-dep/neg]() (1; 1% instances), [en-dep/nmod]() (1; 1% instances), [en-dep/nmod:npmod]() (1; 1% instances), [en-dep/nmod:tmod]() (1; 1% instances), [en-dep/parataxis]() (1; 1% instances)
+
+Children of `ADP` nodes belong to 8 different parts of speech: [ADP]() (103; 64% instances), [NOUN]() (33; 20% instances), [ADV]() (8; 5% instances), [CONJ]() (7; 4% instances), [VERB]() (6; 4% instances), [DET]() (2; 1% instances), [PUNCT]() (2; 1% instances), [PART]() (1; 1% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_English-LinES)
+
+There are 1 `ADP` lemmas (6%), 70 `ADP` types (1%) and 8281 `ADP` tokens (10%).
+Out of 17 observed tags, the rank of `ADP` is: 2 in number of lemmas, 8 in number of types and 4 in number of tokens.
+
+The 10 most frequent `ADP` lemmas: <em>_</em>
+
+The 10 most frequent `ADP` types:  <em>of, in, to, for, with, on, at, from, by, as</em>
+
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14939, [VERB]() 11076, [PUNCT]() 10025, [ADP]() 8281, [DET]() 7865, [PRON]() 7793, [ADJ]() 5305, [ADV]() 4610, [AUX]() 3168, [PROPN]() 2792, [CONJ]() 2535, [PART]() 2131, [SCONJ]() 1512, [NUM]() 581, [INTJ]() 159, [X]() 43, [SYM]() 6)
+
+The 10 most frequent ambiguous types:  <em>of</em> ([ADP]() 1957, [ADV]() 25), <em>in</em> ([ADP]() 1131, [ADV]() 44, [PART]() 3, [ADJ]() 1), <em>to</em> ([PART]() 1135, [ADP]() 832), <em>for</em> ([ADP]() 513, [SCONJ]() 17, [ADV]() 6, [CONJ]() 1), <em>with</em> ([ADP]() 515, [SCONJ]() 7), <em>on</em> ([ADP]() 473, [ADV]() 53), <em>at</em> ([ADP]() 339, [ADV]() 46), <em>by</em> ([ADP]() 274, [ADV]() 5, [SCONJ]() 1), <em>as</em> ([ADP]() 219, [SCONJ]() 176, [ADV]() 73, [CONJ]() 8), <em>like</em> ([ADP]() 140, [VERB]() 40)
+
+
+* <em>of</em>
+  * [ADP]() 1957: <em>Conditional filters are independent <b>of</b> each other .</em>
+  * [ADV]() 25: <em>There were , <b>of</b> course , certain extreme measures that they could take .</em>
+* <em>in</em>
+  * [ADP]() 1131: <em>Open the page <b>in</b> Access 2002 Design view .</em>
+  * [ADV]() 44: <em>You could depend on your criminal soldiers to bring <b>in</b> provisions .</em>
+  * [PART]() 3: <em>For electoral reasons and <b>in</b> order to appeal to the masses , the subject has been brought up again .</em>
+  * [ADJ]() 1: <em>What is most needed in this , as well as in other areas , is a serious <b>in</b> depth analysis of the problems .</em>
+* <em>to</em>
+  * [PART]() 1135: <em>Select the line you want <b>to</b> copy and press CTRL – C .</em>
+  * [ADP]() 832: <em>Linking a page <b>to</b> a connection file</em>
+* <em>for</em>
+  * [ADP]() 513: <em>The current Windows NT user must be an Administrator <b>for</b> the computer .</em>
+  * [SCONJ]() 17: <em>I am all <b>for</b> thought being given to this and for seeking solutions .</em>
+  * [ADV]() 6: <em>What , <b>for</b> instance , is ' appropriate after-sales service ' ?</em>
+  * [CONJ]() 1: <em>In the immutability of their surroundings the foreign shores , the foreign faces , the changing immensity of life , glide past , veiled not by a sense of mystery but by a slightly disdainful ignorance ; <b>for</b> there is nothing mysterious to a seaman unless it be the sea itself , which is the mistress of his existence and as inscrutable as Destiny .</em>
+* <em>with</em>
+  * [ADP]() 515: <em>Chart <b>with</b> collapsed field</em>
+  * [SCONJ]() 7: <em>In the bathroom , <b>with</b> the water running in the sink , he decided to shave as well .</em>
+* <em>on</em>
+  * [ADP]() 473: <em>Such controls will be left unbound <b>on</b> a page .</em>
+  * [ADV]() 53: <em>Worse yet , what is going <b>on</b> will not let us alone .</em>
+* <em>at</em>
+  * [ADP]() 339: <em>He sat there dumbly in his seat , looking back <b>at</b> Stillman .</em>
+  * [ADV]() 46: <em>All right , said Quinn <b>at</b> last .</em>
+* <em>by</em>
+  * [ADP]() 274: <em>A nigger was being beaten near <b>by</b> .</em>
+  * [ADV]() 5: <em>By and <b>by</b> I open a paperback and try to lose myself in mere politics .</em>
+  * [SCONJ]() 1: <em>There is currently no simple way for the system administrator to create new logon accounts to the locally installed SQL Server database except <b>by</b> using SQL Tools or Transact-SQL ( TSQL ) commands .</em>
+* <em>as</em>
+  * [ADP]() 219: <em>The converted data will be displayed <b>as</b> Mom 's Boston Crab Meat .</em>
+  * [SCONJ]() 176: <em>As soon <b>as</b> they leave they are forgotten .</em>
+  * [ADV]() 73: <em>" Just <b>as</b> particular about music as other people are about seasonings .</em>
+  * [CONJ]() 8: <em>What is most needed in this , <b>as</b> well as in other areas , is a serious in depth analysis of the problems .</em>
+* <em>like</em>
+  * [ADP]() 140: <em>Stepping out , I feel a bit numb , <b>like</b> a wasp in autumn .</em>
+  * [VERB]() 40: <em>You 'd <b>like</b> more action ?</em>
+
+## Morphology
+
+The form / lemma ratio of `ADP` is 70.000000 (the average of all parts of speech is 597.705882).
+
+The 1st highest number of forms (70) was observed with the lemma “_”: <em>Besides, Notwithstanding, Thanks, about, above, according, across, after, against, ago, along, alongside, amidst, among, amongst, around, as, at, because, before, behind, below, beneath, beside, between, beyond, but, by, despite, down, during, except, for, from, in, inside, instead, into, like, near, next, of, off, on, onto, opposite, out, outside, over, past, prior, regardless, round, since, than, through, throughout, till, to, toward, towards, under, underneath, until, up, upon, via, with, within, without</em>.
+
+`ADP` does not occur with any features.
+
+
+## Relations
+
+`ADP` nodes are attached to their parents using 13 different relations: [en-dep/case]() (7920; 96% instances), [en-dep/mwe]() (141; 2% instances), [en-dep/advmod]() (91; 1% instances), [en-dep/mark]() (37; 0% instances), [en-dep/nmod]() (37; 0% instances), [en-dep/acl]() (30; 0% instances), [en-dep/compound:prt]() (8; 0% instances), [en-dep/conj]() (6; 0% instances), [en-dep/amod]() (5; 0% instances), [en-dep/root]() (3; 0% instances), [en-dep/ccomp]() (1; 0% instances), [en-dep/dislocated]() (1; 0% instances), [en-dep/dobj]() (1; 0% instances)
+
+Parents of `ADP` nodes belong to 18 different parts of speech: [NOUN]() (6019; 73% instances), [PRON]() (738; 9% instances), [PROPN]() (574; 7% instances), [VERB]() (479; 6% instances), [ADJ]() (152; 2% instances), [ADV]() (99; 1% instances), [NUM]() (91; 1% instances), [ADP]() (85; 1% instances), [AUX]() (13; 0% instances), [CONJ]() (10; 0% instances), [DET]() (5; 0% instances), [PART]() (5; 0% instances), [ROOT]() (3; 0% instances), [SYM]() (3; 0% instances), [X]() (2; 0% instances), [INTJ]() (1; 0% instances), [PUNCT]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+
+8006 (97%) `ADP` nodes are leaves.
+
+237 (3%) `ADP` nodes have one child.
+
+29 (0%) `ADP` nodes have two children.
+
+9 (0%) `ADP` nodes have three or more children.
+
+The highest child degree of a `ADP` node is 6.
+
+Children of `ADP` nodes are attached using 21 different relations: [en-dep/mwe]() (111; 34% instances), [en-dep/punct]() (62; 19% instances), [en-dep/nmod]() (46; 14% instances), [en-dep/advmod]() (26; 8% instances), [en-dep/case]() (12; 4% instances), [en-dep/conj]() (12; 4% instances), [en-dep/cc]() (9; 3% instances), [en-dep/advcl]() (8; 2% instances), [en-dep/appos]() (8; 2% instances), [en-dep/nsubj]() (7; 2% instances), [en-dep/acl]() (5; 2% instances), [en-dep/mark]() (5; 2% instances), [en-dep/cop]() (4; 1% instances), [en-dep/compound]() (3; 1% instances), [en-dep/det]() (3; 1% instances), [en-dep/amod]() (2; 1% instances), [en-dep/dobj]() (2; 1% instances), [en-dep/parataxis]() (2; 1% instances), [en-dep/aux]() (1; 0% instances), [en-dep/csubj]() (1; 0% instances), [en-dep/nummod]() (1; 0% instances)
+
+Children of `ADP` nodes belong to 14 different parts of speech: [ADP]() (85; 26% instances), [PUNCT]() (62; 19% instances), [NOUN]() (61; 18% instances), [SCONJ]() (34; 10% instances), [ADV]() (30; 9% instances), [VERB]() (22; 7% instances), [PRON]() (10; 3% instances), [CONJ]() (9; 3% instances), [PROPN]() (6; 2% instances), [ADJ]() (5; 2% instances), [DET]() (3; 1% instances), [AUX]() (1; 0% instances), [INTJ]() (1; 0% instances), [NUM]() (1; 0% instances)
 

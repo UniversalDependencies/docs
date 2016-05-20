@@ -4,8 +4,8 @@
 
 ## Treebank Statistics (UD_Norwegian)
 
-There are 55 `DET` lemmas (0%), 93 `DET` types (0%) and 16490 `DET` tokens (5%).
-Out of 17 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 8 in number of tokens.
+There are 46 `DET` lemmas (0%), 84 `DET` types (0%) and 16473 `DET` tokens (5%).
+Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 9 in number of types and 8 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>en, den, de, det, sin, annen, noen, all, denne, min</em>
 
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 3932, [PRON]() 68, [
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.690909 (the average of all parts of speech is 1.382585).
+The form / lemma ratio of `DET` is 1.826087 (the average of all parts of speech is 1.382722).
 
 The 1st highest number of forms (7) was observed with the lemma “en”: <em>at, ei, en, ens, er, et, ett</em>.
 
@@ -65,24 +65,24 @@ The 2nd highest number of forms (5) was observed with the lemma “annen”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “all”: <em>all, alle, alles, alt</em>.
 
-`DET` occurs with 7 features: [no-feat/Number]() (15916; 97% instances), [no-feat/Gender]() (12359; 75% instances), [no-feat/PronType]() (6161; 37% instances), [no-feat/Poss]() (2095; 13% instances), [no-feat/Definite]() (884; 5% instances), [no-feat/Case]() (47; 0% instances), [no-feat/Degree]() (1; 0% instances)
+`DET` occurs with 7 features: [no-feat/PronType]() (16473; 100% instances), [no-feat/Number]() (15916; 97% instances), [no-feat/Gender]() (12359; 75% instances), [no-feat/Poss]() (2095; 13% instances), [no-feat/Definite]() (884; 5% instances), [no-feat/Case]() (47; 0% instances), [no-feat/Degree]() (1; 0% instances)
 
-`DET` occurs with 13 feature-value pairs: `Case=Gen`, `Definite=Def`, `Definite=Ind`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Dem`, `PronType=Int`, `PronType=Rcp`
+`DET` occurs with 19 feature-value pairs: `Case=Gen`, `Definite=Def`, `Definite=Ind`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Dem,Ind`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rcp`, `PronType=Tot`
 
-`DET` occurs with 35 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (4551 tokens).
-Examples: <em>en, ingen, hver, noen, all, enhver, noe</em>
+`DET` occurs with 50 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing|PronType=Art` (4216 tokens).
+Examples: <em>en</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 20 different relations: [no-dep/det]() (13411; 81% instances), [no-dep/nmod]() (2398; 15% instances), [no-dep/neg]() (182; 1% instances), [no-dep/nsubj]() (141; 1% instances), [no-dep/dobj]() (91; 1% instances), [no-dep/conj]() (78; 0% instances), [no-dep/root]() (76; 0% instances), [no-dep/appos]() (24; 0% instances), [no-dep/name]() (22; 0% instances), [no-dep/xcomp]() (19; 0% instances), [no-dep/nsubjpass]() (15; 0% instances), [no-dep/acl:relcl]() (8; 0% instances), [no-dep/ccomp]() (6; 0% instances), [no-dep/acl]() (4; 0% instances), [no-dep/goeswith]() (4; 0% instances), [no-dep/iobj]() (4; 0% instances), [no-dep/remnant]() (3; 0% instances), [no-dep/advcl]() (2; 0% instances), [no-dep/expl]() (1; 0% instances), [no-dep/punct]() (1; 0% instances)
+`DET` nodes are attached to their parents using 21 different relations: [no-dep/det]() (13412; 81% instances), [no-dep/nmod]() (2397; 15% instances), [no-dep/neg]() (182; 1% instances), [no-dep/nsubj]() (138; 1% instances), [no-dep/dobj]() (91; 1% instances), [no-dep/conj]() (77; 0% instances), [no-dep/root]() (76; 0% instances), [no-dep/appos]() (21; 0% instances), [no-dep/xcomp]() (18; 0% instances), [no-dep/nsubjpass]() (15; 0% instances), [no-dep/name]() (9; 0% instances), [no-dep/acl:relcl]() (8; 0% instances), [no-dep/ccomp]() (6; 0% instances), [no-dep/acl]() (4; 0% instances), [no-dep/goeswith]() (4; 0% instances), [no-dep/iobj]() (4; 0% instances), [no-dep/dislocated]() (3; 0% instances), [no-dep/remnant]() (3; 0% instances), [no-dep/advcl]() (2; 0% instances), [no-dep/compound]() (2; 0% instances), [no-dep/expl]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: [NOUN]() (14405; 87% instances), [ADJ]() (826; 5% instances), [VERB]() (407; 2% instances), [PRON]() (258; 2% instances), [PROPN]() (225; 1% instances), [DET]() (201; 1% instances), [NUM]() (79; 0% instances), [ROOT]() (76; 0% instances), [ADV]() (6; 0% instances), [ADP]() (4; 0% instances), [SCONJ]() (3; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: [NOUN]() (14402; 87% instances), [ADJ]() (826; 5% instances), [VERB]() (405; 2% instances), [PRON]() (258; 2% instances), [PROPN]() (214; 1% instances), [DET]() (201; 1% instances), [NUM]() (79; 0% instances), [ROOT]() (76; 0% instances), [ADV]() (6; 0% instances), [ADP]() (3; 0% instances), [SCONJ]() (3; 0% instances)
 
-15570 (94%) `DET` nodes are leaves.
+15554 (94%) `DET` nodes are leaves.
 
-592 (4%) `DET` nodes have one child.
+591 (4%) `DET` nodes have one child.
 
 184 (1%) `DET` nodes have two children.
 
@@ -90,7 +90,7 @@ Parents of `DET` nodes belong to 11 different parts of speech: [NOUN]() (14405; 
 
 The highest child degree of a `DET` node is 9.
 
-Children of `DET` nodes are attached using 24 different relations: [no-dep/nmod]() (380; 23% instances), [no-dep/case]() (303; 19% instances), [no-dep/det]() (159; 10% instances), [no-dep/advmod]() (153; 9% instances), [no-dep/punct]() (150; 9% instances), [no-dep/cop]() (99; 6% instances), [no-dep/nsubj]() (90; 6% instances), [no-dep/conj]() (57; 4% instances), [no-dep/cc]() (54; 3% instances), [no-dep/advcl]() (39; 2% instances), [no-dep/acl:relcl]() (36; 2% instances), [no-dep/amod]() (35; 2% instances), [no-dep/neg]() (13; 1% instances), [no-dep/expl]() (10; 1% instances), [no-dep/acl]() (8; 0% instances), [no-dep/aux]() (8; 0% instances), [no-dep/mark]() (8; 0% instances), [no-dep/appos]() (5; 0% instances), [no-dep/nummod]() (4; 0% instances), [no-dep/csubj]() (3; 0% instances), [no-dep/parataxis]() (3; 0% instances), [no-dep/dobj]() (2; 0% instances), [no-dep/name]() (2; 0% instances), [no-dep/remnant]() (1; 0% instances)
+Children of `DET` nodes are attached using 24 different relations: [no-dep/nmod]() (374; 23% instances), [no-dep/case]() (291; 18% instances), [no-dep/advmod]() (159; 10% instances), [no-dep/det]() (158; 10% instances), [no-dep/punct]() (150; 9% instances), [no-dep/cop]() (99; 6% instances), [no-dep/nsubj]() (90; 6% instances), [no-dep/conj]() (57; 4% instances), [no-dep/cc]() (54; 3% instances), [no-dep/advcl]() (39; 2% instances), [no-dep/acl:relcl]() (36; 2% instances), [no-dep/amod]() (35; 2% instances), [no-dep/mark]() (19; 1% instances), [no-dep/neg]() (13; 1% instances), [no-dep/expl]() (10; 1% instances), [no-dep/acl]() (8; 0% instances), [no-dep/aux]() (8; 0% instances), [no-dep/appos]() (5; 0% instances), [no-dep/nummod]() (5; 0% instances), [no-dep/csubj]() (3; 0% instances), [no-dep/parataxis]() (3; 0% instances), [no-dep/dobj]() (2; 0% instances), [no-dep/name]() (2; 0% instances), [no-dep/remnant]() (1; 0% instances)
 
-Children of `DET` nodes belong to 14 different parts of speech: [ADP]() (316; 19% instances), [NOUN]() (292; 18% instances), [DET]() (201; 12% instances), [VERB]() (185; 11% instances), [PUNCT]() (150; 9% instances), [ADV]() (123; 8% instances), [PRON]() (108; 7% instances), [ADJ]() (90; 6% instances), [PROPN]() (77; 5% instances), [CONJ]() (54; 3% instances), [NUM]() (9; 1% instances), [AUX]() (8; 0% instances), [SCONJ]() (8; 0% instances), [X]() (1; 0% instances)
+Children of `DET` nodes belong to 14 different parts of speech: [ADP]() (315; 19% instances), [NOUN]() (292; 18% instances), [DET]() (201; 12% instances), [VERB]() (185; 11% instances), [PUNCT]() (150; 9% instances), [ADV]() (123; 8% instances), [PRON]() (108; 7% instances), [ADJ]() (90; 6% instances), [PROPN]() (77; 5% instances), [CONJ]() (54; 3% instances), [NUM]() (9; 1% instances), [AUX]() (8; 0% instances), [SCONJ]() (8; 0% instances), [X]() (1; 0% instances)
 

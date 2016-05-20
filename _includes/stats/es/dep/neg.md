@@ -78,3 +78,69 @@ The following 19 pairs of parts of speech are connected with `neg`: [es-pos/VERB
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+3521 nodes (1%) are attached to their parents as `neg`.
+
+3465 instances of `neg` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.87049133768816.
+
+The following 14 pairs of parts of speech are connected with `neg`: [es-pos/VERB]()-[es-pos/ADV]() (2623; 74% instances), [es-pos/ADJ]()-[es-pos/ADV]() (358; 10% instances), [es-pos/NOUN]()-[es-pos/ADV]() (247; 7% instances), [es-pos/AUX]()-[es-pos/ADV]() (154; 4% instances), [es-pos/PRON]()-[es-pos/ADV]() (58; 2% instances), [es-pos/ADV]()-[es-pos/ADV]() (34; 1% instances), [es-pos/ADP]()-[es-pos/ADV]() (14; 0% instances), [es-pos/PROPN]()-[es-pos/ADV]() (12; 0% instances), [es-pos/PROPN]()-[es-pos/PART]() (8; 0% instances), [es-pos/DET]()-[es-pos/ADV]() (7; 0% instances), [es-pos/NOUN]()-[es-pos/PART]() (3; 0% instances), [es-pos/CONJ]()-[es-pos/ADV]() (1; 0% instances), [es-pos/NUM]()-[es-pos/ADV]() (1; 0% instances), [es-pos/SYM]()-[es-pos/ADV]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 neg	color:blue
+1	No	no	ADV	ADV	Negative=Neg	2	neg	_	_
+2	pudiste	poder	VERB	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	PUNCT	PunctType=Comm	2	punct	_	_
+4	pero	pero	CONJ	CONJ	_	2	cc	_	_
+5	nos	yo	PRON	PRON	Number=Plur|Person=1|PronType=Prs	6	dobj	_	_
+6	dio	dar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+7	igual	igual	ADV	ADV	_	6	advmod	_	_
+8	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 neg	color:blue
+1	Y	y	CONJ	CONJ	_	4	advmod	_	_
+2	no	no	ADV	ADV	Negative=Neg	4	neg	_	_
+3	es	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	raro	raro	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 neg	color:blue
+1	-	-	PUNCT	PUNCT	PunctType=Dash	4	punct	_	_
+2	No	no	ADV	ADV	Negative=Neg	4	neg	_	_
+3	,	,	PUNCT	PUNCT	PunctType=Comm	4	punct	_	_
+4	hombre	hombre	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	PUNCT	PunctType=Comm	4	punct	_	_
+6	no	no	ADV	ADV	Negative=Neg	4	neg	_	_
+7	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+
+~~~
+
+

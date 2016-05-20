@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1869 nodes (1%) are attached to their parents as `neg`.
+1870 nodes (1%) are attached to their parents as `neg`.
 
-1843 instances of `neg` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.9266987693954.
+1844 instances of `neg` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.9144385026738.
 
-The following 11 pairs of parts of speech are connected with `neg`: [it-pos/VERB]()-[it-pos/ADV]() (1403; 75% instances), [it-pos/ADJ]()-[it-pos/ADV]() (194; 10% instances), [it-pos/NOUN]()-[it-pos/ADV]() (148; 8% instances), [it-pos/ADV]()-[it-pos/ADV]() (73; 4% instances), [it-pos/PRON]()-[it-pos/ADV]() (28; 1% instances), [it-pos/PROPN]()-[it-pos/ADV]() (11; 1% instances), [it-pos/AUX]()-[it-pos/ADV]() (6; 0% instances), [it-pos/CONJ]()-[it-pos/ADV]() (3; 0% instances), [it-pos/NUM]()-[it-pos/ADV]() (1; 0% instances), [it-pos/PUNCT]()-[it-pos/ADV]() (1; 0% instances), [it-pos/SCONJ]()-[it-pos/ADV]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `neg`: [it-pos/VERB]()-[it-pos/ADV]() (1403; 75% instances), [it-pos/ADJ]()-[it-pos/ADV]() (194; 10% instances), [it-pos/NOUN]()-[it-pos/ADV]() (148; 8% instances), [it-pos/ADV]()-[it-pos/ADV]() (74; 4% instances), [it-pos/PRON]()-[it-pos/ADV]() (28; 1% instances), [it-pos/PROPN]()-[it-pos/ADV]() (11; 1% instances), [it-pos/AUX]()-[it-pos/ADV]() (7; 0% instances), [it-pos/CONJ]()-[it-pos/ADV]() (3; 0% instances), [it-pos/NUM]()-[it-pos/ADV]() (1; 0% instances), [it-pos/SCONJ]()-[it-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 11 pairs of parts of speech are connected with `neg`: [it-pos/VERB
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	non	non	ADV	BN	PronType=Neg	9	neg	_	_
 8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
-9	rinunciato	rinunciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	rinunciato	rinunciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 10	"	"	PUNCT	FB	_	9	punct	_	_
 11	.	.	PUNCT	FS	_	9	punct	_	_
 

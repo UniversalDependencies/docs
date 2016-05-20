@@ -39,6 +39,6 @@ The most frequent other feature values with which `X` and `Voice` co-occurred: <
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<a href="../dep/csubj:cleft.html">csubj:cleft</a>]--> VERB</tt> (1; 100%),
-<tt>X --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%).
+<tt>X --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/csubj:cleft.html">csubj:cleft</a>]--> VERB</tt> (1; 100%).
 

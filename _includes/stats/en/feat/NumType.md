@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (221; 100% of non-empty `NumType`): <em>first, second, third, 5th, fourth, 19th, 2nd, 1st, 20th, 21st</em>
-* `EMPTY` (15736): <em>good, great, other, best, new, many, more, last, same, few</em>
+* `EMPTY` (15738): <em>good, great, other, best, new, many, more, last, same, few</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (22) occur only with one value of `NumType`.
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (77; 99% of non-empty `NumType`): <em>once, twice</em>
 * `Ord` (1; 1% of non-empty `NumType`): <em>first</em>
-* `EMPTY` (12964): <em>so, just, when, very, also, how, now, even, there, then</em>
+* `EMPTY` (12961): <em>so, just, when, very, also, how, now, even, there, then</em>
 
 ## Relations with Agreement in `NumType`
 
@@ -60,5 +60,5 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<a href="../dep/appos.html">appos</a>]--> NUM</tt> (5; 100%),
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (2; 100%),
 <tt>NUM --[<a href="../dep/case.html">case</a>]--> NUM</tt> (2; 100%),
-<tt>ADV --[<a href="../dep/parataxis.html">parataxis</a>]--> ADV</tt> (1; 100%).
+<tt>NUM --[<a href="../dep/advmod.html">advmod</a>]--> NUM</tt> (1; 100%).
 

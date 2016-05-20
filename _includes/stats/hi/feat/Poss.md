@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADP` and `Poss` co-occurred: 
 
 2 [hi-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `VERB` and `Poss` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Acc,Gen</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Poss` co-occurred: <tt><a href="Case.html">Case</a>=Acc,Gen</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Poss`:
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `VERB` and `Poss` co-occurred:
 
 1 [hi-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADV` and `Poss` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (1; 100%), <tt><a href="AdvType.html">AdvType</a>=Deg</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc,Gen</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Poss` co-occurred: <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (1; 100%), <tt><a href="AdvType.html">AdvType</a>=Deg</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc,Gen</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `Poss`:
 

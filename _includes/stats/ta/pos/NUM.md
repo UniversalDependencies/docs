@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  ஆறு ([PART]() 7, [NUM]() 1), ஒர
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.079646 (the average of all parts of speech is 1.559122).
+The form / lemma ratio of `NUM` is 1.079646 (the average of all parts of speech is 1.557992).
 
 The 1st highest number of forms (5) was observed with the lemma “ஒன்று”: ஒன்றில், ஒன்று, ஒன்றுக்கு, ஒன்றை, ஒன்ற்.
 
@@ -58,7 +58,7 @@ Parents of `NUM` nodes belong to 8 different parts of speech: [NOUN]() (163; 65%
 
 The highest child degree of a `NUM` node is 8.
 
-Children of `NUM` nodes are attached using 11 different relations: [ta-dep/nummod]() (30; 34% instances), [ta-dep/nmod]() (17; 19% instances), [ta-dep/punct]() (16; 18% instances), [ta-dep/advmod:emph]() (5; 6% instances), [ta-dep/amod]() (5; 6% instances), [ta-dep/case]() (5; 6% instances), [ta-dep/conj]() (5; 6% instances), [ta-dep/compound]() (2; 2% instances), [ta-dep/det]() (2; 2% instances), [ta-dep/acl]() (1; 1% instances), [ta-dep/cc]() (1; 1% instances)
+Children of `NUM` nodes are attached using 11 different relations: [ta-dep/nummod]() (30; 34% instances), [ta-dep/nmod]() (18; 20% instances), [ta-dep/punct]() (16; 18% instances), [ta-dep/advmod:emph]() (5; 6% instances), [ta-dep/amod]() (5; 6% instances), [ta-dep/case]() (5; 6% instances), [ta-dep/conj]() (5; 6% instances), [ta-dep/compound]() (2; 2% instances), [ta-dep/acl]() (1; 1% instances), [ta-dep/advmod]() (1; 1% instances), [ta-dep/cc]() (1; 1% instances)
 
-Children of `NUM` nodes belong to 12 different parts of speech: [NUM]() (36; 40% instances), [PUNCT]() (16; 18% instances), [NOUN]() (11; 12% instances), [ADJ]() (6; 7% instances), [PART]() (6; 7% instances), [ADP]() (4; 4% instances), [PROPN]() (3; 3% instances), [DET]() (2; 2% instances), [VERB]() (2; 2% instances), [ADV]() (1; 1% instances), [CONJ]() (1; 1% instances), [PRON]() (1; 1% instances)
+Children of `NUM` nodes belong to 11 different parts of speech: [NUM]() (36; 40% instances), [PUNCT]() (16; 18% instances), [NOUN]() (11; 12% instances), [ADJ]() (6; 7% instances), [PART]() (6; 7% instances), [ADP]() (4; 4% instances), [PRON]() (3; 3% instances), [PROPN]() (3; 3% instances), [VERB]() (2; 2% instances), [ADV]() (1; 1% instances), [CONJ]() (1; 1% instances)
 

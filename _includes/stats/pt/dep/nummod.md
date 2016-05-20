@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3256 nodes (1%) are attached to their parents as `nummod`.
+3395 nodes (2%) are attached to their parents as `nummod`.
 
-2418 instances of `nummod` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46068796068796.
+2430 instances of `nummod` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.53578792341679.
 
-The following 12 pairs of parts of speech are connected with `nummod`: [pt-pos/NOUN]()-[pt-pos/NUM]() (2569; 79% instances), [pt-pos/SYM]()-[pt-pos/NUM]() (318; 10% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (145; 4% instances), [pt-pos/ADP]()-[pt-pos/NUM]() (134; 4% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (35; 1% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (21; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (15; 0% instances), [pt-pos/PRON]()-[pt-pos/NUM]() (8; 0% instances), [pt-pos/DET]()-[pt-pos/NUM]() (6; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `nummod`: [pt-pos/NOUN]()-[pt-pos/NUM]() (2736; 81% instances), [pt-pos/SYM]()-[pt-pos/NUM]() (318; 9% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (222; 7% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (38; 1% instances), [pt-pos/DET]()-[pt-pos/NUM]() (25; 1% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (22; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (15; 0% instances), [pt-pos/PRON]()-[pt-pos/NUM]() (6; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/ADP]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/CONJ]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 12 pairs of parts of speech are connected with `nummod`: [pt-pos/N
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 nummod	color:blue
-1	Pedro	Pedro	PROPN	prop|M|S	_	0	root	_	_
+1	Pedro	Pedro	PROPN	prop|M|S	_	0	root	_	MWE=Pedro_Ivo|MWEPOS=PROPN
 2	Ivo	Ivo	PROPN	PROPN	_	1	name	_	_
 3	,	,	PUNCT	punc	_	1	punct	_	_
 4	63	63	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_

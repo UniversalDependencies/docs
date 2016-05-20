@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 10 [da-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (10; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (10; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (7; 70%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 60%), <tt><a href="Number.html">Number</a>=Plur</tt> (6; 60%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (10; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (10; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (10; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (7; 70%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 60%), <tt><a href="Number.html">Number</a>=Plur</tt> (6; 60%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 1 [da-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 

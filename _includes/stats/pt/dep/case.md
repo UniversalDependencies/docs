@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-31454 nodes (14%) are attached to their parents as `case`.
+31509 nodes (14%) are attached to their parents as `case`.
 
-31138 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.7663572200674.
+31062 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.76892316481005.
 
-The following 49 pairs of parts of speech are connected with `case`: [pt-pos/NOUN]()-[pt-pos/ADP]() (21269; 68% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (7009; 22% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (797; 3% instances), [pt-pos/NUM]()-[pt-pos/ADP]() (703; 2% instances), [pt-pos/ADV]()-[pt-pos/ADP]() (433; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (365; 1% instances), [pt-pos/SYM]()-[pt-pos/ADP]() (198; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (186; 1% instances), [pt-pos/DET]()-[pt-pos/ADP]() (103; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (98; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (70; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (30; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (26; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (23; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (18; 0% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (14; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (13; 0% instances), [pt-pos/ADP]()-[pt-pos/ADP]() (12; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (12; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (6; 0% instances), [pt-pos/PROPN]()-[pt-pos/SCONJ]() (6; 0% instances), [pt-pos/CONJ]()-[pt-pos/ADP]() (5; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (5; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/SYM]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/INTJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/X]()-[pt-pos/ADP]() (1; 0% instances).
+The following 47 pairs of parts of speech are connected with `case`: [pt-pos/NOUN]()-[pt-pos/ADP]() (21204; 67% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (7014; 22% instances), [pt-pos/NUM]()-[pt-pos/ADP]() (829; 3% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (749; 2% instances), [pt-pos/ADV]()-[pt-pos/ADP]() (444; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (364; 1% instances), [pt-pos/DET]()-[pt-pos/ADP]() (210; 1% instances), [pt-pos/SYM]()-[pt-pos/ADP]() (200; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (188; 1% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (99; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (30; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (26; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (22; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (18; 0% instances), [pt-pos/ADP]()-[pt-pos/ADP]() (14; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (11; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (9; 0% instances), [pt-pos/CONJ]()-[pt-pos/ADP]() (7; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (6; 0% instances), [pt-pos/PROPN]()-[pt-pos/SCONJ]() (6; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/INTJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/X]()-[pt-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,16 +58,12 @@ The following 49 pairs of parts of speech are connected with `case`: [pt-pos/NOU
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 case	color:blue
-1	Um	um	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	6	nsubj	_	_
-2	de	de	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
-3	eles	eles	PRON	pron-pers|<-sam>|M|3P|NOM/PIV	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	1	nmod	_	_
-4	era	ser	VERB	v-fin|IMPF|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
-5	seu	seu	DET	pron-det|<poss|3S>|M|S	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
-6	filho	filho	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
-7	,	,	PUNCT	punc	_	6	punct	_	_
-8	Sérgio	Sérgio	PROPN	prop|M|S	_	6	appos	_	_
-9	Fioravanti	Fioravanti	PROPN	PROPN	_	8	name	_	_
-10	.	.	PUNCT	punc	_	6	punct	_	_
+1	Venceu	vencer	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	por	por	ADP	prp	AdpType=Prep	3	case	_	_
+3	1	1	NUM	num|M|S	Gender=Masc|Number=Sing	1	advmod	_	_
+4	a	a	ADP	prp	AdpType=Prep	5	case	_	_
+5	0	0	NUM	num|M|S	Gender=Masc|Number=Sing	3	nummod	_	_
+6	.	.	PUNCT	punc	_	1	punct	_	_
 
 ~~~
 

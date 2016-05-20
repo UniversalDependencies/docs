@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `auxpass`: [fa-pos/V
 5	تلفن	_	NOUN	N_SING	Number=Sing	4	nmod:poss	_	_
 6	همراه	_	NOUN	N_SING	Number=Sing	5	name	_	_
 7	،	_	PUNCT	DELM	_	16	punct	_	_
-8	از	_	ADP	P	_	9	case	_	_
+8	از	از	ADP	P	_	9	case	_	_
 9	رونق	_	NOUN	N_SING	Number=Sing	16	nmod	_	_
 10	بازار	_	NOUN	N_SING	Number=Sing	9	nmod:poss	_	_
 11	سکه	_	NOUN	N_SING	Number=Sing	10	nmod:poss	_	_

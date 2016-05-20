@@ -9,7 +9,7 @@ This relation is universal.
 381 nodes (0%) are attached to their parents as `discourse`.
 
 328 instances of `discourse` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.14435695538058.
+Average distance between parent and child is 3.13910761154856.
 
 The following 19 pairs of parts of speech are connected with `discourse`: [cs-pos/VERB]()-[cs-pos/PRON]() (250; 66% instances), [cs-pos/VERB]()-[cs-pos/ADV]() (29; 8% instances), [cs-pos/NOUN]()-[cs-pos/PRON]() (25; 7% instances), [cs-pos/PRON]()-[cs-pos/PRON]() (23; 6% instances), [cs-pos/ADJ]()-[cs-pos/PRON]() (18; 5% instances), [cs-pos/VERB]()-[cs-pos/CONJ]() (11; 3% instances), [cs-pos/VERB]()-[cs-pos/PART]() (4; 1% instances), [cs-pos/VERB]()-[cs-pos/SCONJ]() (4; 1% instances), [cs-pos/ADJ]()-[cs-pos/ADV]() (2; 1% instances), [cs-pos/ADJ]()-[cs-pos/CONJ]() (2; 1% instances), [cs-pos/NOUN]()-[cs-pos/ADV]() (2; 1% instances), [cs-pos/NOUN]()-[cs-pos/CONJ]() (2; 1% instances), [cs-pos/NOUN]()-[cs-pos/SCONJ]() (2; 1% instances), [cs-pos/NUM]()-[cs-pos/PRON]() (2; 1% instances), [cs-pos/ADV]()-[cs-pos/PRON]() (1; 0% instances), [cs-pos/NOUN]()-[cs-pos/INTJ]() (1; 0% instances), [cs-pos/NUM]()-[cs-pos/ADV]() (1; 0% instances), [cs-pos/NUM]()-[cs-pos/CONJ]() (1; 0% instances), [cs-pos/VERB]()-[cs-pos/NOUN]() (1; 0% instances).
 
@@ -65,6 +65,75 @@ The following 19 pairs of parts of speech are connected with `discourse`: [cs-po
 4	nedisciplinovanost	disciplinovanost	NOUN	NNFS1-----N----	Case=Nom|Gender=Fem|Negative=Neg|Number=Sing	0	root	_	LDeriv=disciplinovaný
 5	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	_	LId=po-1
 6	siréně	siréna	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Negative=Pos|Number=Sing	4	nmod	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Czech-CAC)
+
+This relation is universal.
+
+105 nodes (0%) are attached to their parents as `discourse`.
+
+97 instances of `discourse` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.97142857142857.
+
+The following 13 pairs of parts of speech are connected with `discourse`: [cs-pos/VERB]()-[cs-pos/PRON]() (59; 56% instances), [cs-pos/ADJ]()-[cs-pos/PRON]() (9; 9% instances), [cs-pos/NOUN]()-[cs-pos/PRON]() (9; 9% instances), [cs-pos/VERB]()-[cs-pos/ADV]() (9; 9% instances), [cs-pos/PRON]()-[cs-pos/PRON]() (5; 5% instances), [cs-pos/VERB]()-[cs-pos/PART]() (5; 5% instances), [cs-pos/VERB]()-[cs-pos/SCONJ]() (3; 3% instances), [cs-pos/ADJ]()-[cs-pos/ADV]() (1; 1% instances), [cs-pos/ADJ]()-[cs-pos/PART]() (1; 1% instances), [cs-pos/ADJ]()-[cs-pos/SCONJ]() (1; 1% instances), [cs-pos/NOUN]()-[cs-pos/ADV]() (1; 1% instances), [cs-pos/NUM]()-[cs-pos/PRON]() (1; 1% instances), [cs-pos/VERB]()-[cs-pos/CONJ]() (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 discourse	color:blue
+1	Na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	LId=na-1
+2	balkóně	balkón	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Negative=Pos|Number=Sing	6	nmod	_	_
+3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl	_	LGloss=(zvr._zájmeno/částice)
+4	nám	já	PRON	PP-P3--1-------	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	discourse	_	_
+5	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	nmod	_	LId=on-1
+6	sejde	sejít	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Negative=Pos	6	nsubj	_	_
+8	než	než	SCONJ	J,-------------	_	9	mark	_	LId=než-2
+9	desítka	desítka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 discourse	color:blue
+1	To	ten	PRON	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	discourse	_	_
+2	už	už	ADV	Db-------------	_	4	advmod	_	_
+3	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	lepší	dobrý	ADJ	AANS1----2A----	Case=Nom|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing	0	root	_	_
+5	dát	dát	VERB	Vf--------A----	Negative=Pos|VerbForm=Inf	4	csubj	_	_
+6	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	LGloss=(zvr._zájmeno/částice)
+7	frťana	frťan_,h	NOUN	NNIS4-----A---1	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Sing	5	dobj	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 discourse	color:blue
+1	Kolik	kolik	PRON	C?--4----------	Case=Acc|NumType=Card|PronType=Int,Rel	4	nsubjpass	_	_
+2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	auxpass:reflex	_	LGloss=(zvr._zájmeno/částice)
+3	tak	tak	ADV	Db-------------	_	4	discourse	_	LId=tak-3
+4	dává	dávat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LDeriv=dát
+5	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 

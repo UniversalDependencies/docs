@@ -77,55 +77,47 @@ The following 9 pairs of parts of speech are connected with `iobj`: [la-pos/VERB
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-848 nodes (0%) are attached to their parents as `iobj`.
+996 nodes (0%) are attached to their parents as `iobj`.
 
-445 instances of `iobj` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.39858490566038.
+535 instances of `iobj` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.43172690763052.
 
-The following 5 pairs of parts of speech are connected with `iobj`: [la-pos/VERB]()-[la-pos/NOUN]() (503; 59% instances), [la-pos/VERB]()-[la-pos/PRON]() (273; 32% instances), [la-pos/VERB]()-[la-pos/ADJ]() (57; 7% instances), [la-pos/VERB]()-[la-pos/NUM]() (8; 1% instances), [la-pos/VERB]()-[la-pos/DET]() (7; 1% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: [la-pos/VERB]()-[la-pos/NOUN]() (558; 56% instances), [la-pos/VERB]()-[la-pos/PRON]() (324; 33% instances), [la-pos/VERB]()-[la-pos/ADJ]() (66; 7% instances), [la-pos/VERB]()-[la-pos/PROPN]() (40; 4% instances), [la-pos/VERB]()-[la-pos/NUM]() (8; 1% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 iobj	color:blue
-1	non	non	ADV	O4	_	3	neg	_	_
-2	ergo	ergo	ADV	O4	_	3	cc	_	_
-3	unitur	unio	VERB	M3|modJ|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-4	corpori	corpus	NOUN	C1|grn1|casC|gen3	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	3	iobj	_	_
-5	ut	ut	SCONJ	O4|vgr1	_	6	cc	_	_
-6	forma	forma	NOUN	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	xcomp	_	_
-7	.	.	PUNCT	Punc	_	3	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 iobj	color:blue
+1	huic	hic	PRON	F1|grn1|casC|gen2|stPV	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	3	nmod	_	_
+2	etiam	etiam	ADV	O4|vgr1|stRL	_	5	advmod:emph	_	_
+3	veritati	veritas	NOUN	C1|grn1|casC|gen2|vgr1|stAC	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	iobj	_	_
+4	sacra	sacer	ADJ	A1|grn1|casA|gen2|stAM	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	scriptura	scriptura	PROPN	A1|grn1|casA|gen2|stNP	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	nsubj	_	_
+6	testimonium	testimonium	NOUN	B1|grn1|casD|gen3|stAE	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	dobj	_	_
+7	perhibet	perhibeo	VERB	K3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 iobj	color:blue
-1	ad	ad	ADP	S4	AdpType=Prep	2	case	_	_
-2	hoc	hic	PRON	F1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	8	nmod	_	_
-3	autem	autem	CONJ	O4	_	8	cc	_	_
-4	quod	quod	SCONJ	O4	_	5	mark	_	_
-5	moveat	moveo	VERB	K3|modB|tem1|gen6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	_
-6	,	,	PUNCT	Punc	_	2	punct	_	_
-7	non	non	ADV	O4	_	8	neg	_	_
-8	oportet	oportet	VERB	K3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9	quod	quod	SCONJ	O4	_	10	mark	_	_
-10	uniatur	unio	VERB	M3|modK|tem1|gen6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	csubj	_	_
-11	ei	is	PRON	F1|grn1|casC|gen1	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem,Prs	10	iobj	_	_
-12	ut	ut	SCONJ	O4|vgr1	_	13	cc	_	_
-13	forma	forma	NOUN	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	xcomp	_	_
-14	;	;	PUNCT	Punc	_	8	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 iobj	color:blue
+1	et	et	CONJ	O4|stRL	_	3	cc	_	_
+2	hoc	hic	PRON	F1|grn1|casA|gen3|stPV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	3	iobj	_	_
+3	dicimus	dico	VERB	N3|modA|tem1|gen7|stAE	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	deum	deus	PROPN	F1|grn1|casD|gen1|stNP	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	dobj	_	_
+5	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 
@@ -136,14 +128,14 @@ The following 5 pairs of parts of speech are connected with `iobj`: [la-pos/VERB
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 iobj	color:blue
-1	quod	quod	SCONJ	O4	_	8	mark	_	_
-2	divina	divinus	ADJ	A1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
-3	voluntas	voluntas	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	nsubj	_	_
-4	ad	ad	ADP	S4	AdpType=Prep	5	case	_	_
+1	quod	quod	SCONJ	O4|stRL	_	8	mark	_	_
+2	divina	divinus	ADJ	A1|grn1|casA|gen2|vgr1|stAM	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	voluntas	voluntas	NOUN	C1|grn1|casA|gen2|vgr1|stAM	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	nsubj	_	_
+4	ad	ad	ADP	S4|stRL	AdpType=Prep	5	case	_	_
 5	singula	singulus	ADJ	B1|grn1|casM|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|NumType=Dist	8	iobj	_	_
-6	bonorum	bonum	NOUN	B1|grn1|casK|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	5	nmod	_	_
-7	se	sui	PRON	F1|grn1|casD|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Prs|Reflex=Yes	8	dobj	_	_
-8	extendit	extendo	VERB	L3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	bonorum	bonum	NOUN	B1|grn1|casK|gen3|stAN	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	5	nmod	_	_
+7	se	sui	PRON	F1|grn1|casD|gen2|stPV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Prs|Reflex=Yes	8	dobj	_	_
+8	extendit	extendo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~

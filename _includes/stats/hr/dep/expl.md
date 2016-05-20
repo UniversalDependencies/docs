@@ -15,44 +15,6 @@ The following 2 pairs of parts of speech are connected with `expl`: [hr-pos/VERB
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 expl	color:blue
-1	Štednja	štednja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
-2	kućanstava	kućanstvo	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
-3	u	u	ADP	_	Case=Loc	4	case	_	_
-4	bankama	banka	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	1	nmod	_	_
-5	u	u	ADP	_	Case=Loc	6	case	_	_
-6	Bosni	Bosna	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	_
-7	i	i	CONJ	_	_	6	name	_	_
-8	Hercegovini	Hercegovina	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	6	name	_	_
-9	(	(	PUNCT	_	_	10	punct	_	_
-10	BiH	BiH	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	6	appos	_	_
-11	)	)	PUNCT	_	_	10	punct	_	_
-12	dosegnula	dosegnuti	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
-13	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	12	aux	_	_
-14	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	12	expl	_	_
-15	2,4	2,4	NUM	_	NumType=Card	16	compound	_	_
-16	milijuna	milijun	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	nummod	_	_
-17	eura	euro	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	12	dobj	_	_
-18	u	u	ADP	_	Case=Loc	19	case	_	_
-19	rujnu	rujan	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	_
-20	,	,	PUNCT	_	_	21	punct	_	_
-21	pokazuju	pokazivati	VERB	_	Number=Plur|Person=3|Tense=Pres	12	parataxis	_	_
-22	podatci	podatak	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	_
-23	Agencije	agencija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
-24	za	za	ADP	_	Case=Acc	25	compound	_	_
-25	osiguranje	osiguranje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	compound	_	_
-26	uloga	ulog	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	25	compound	_	_
-27	BiH	BiH	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	23	compound	_	_
-28	.	.	PUNCT	_	_	12	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 25	bgColor:blue
 # visual-style 25	fgColor:white
 # visual-style 29	bgColor:blue
@@ -98,6 +60,44 @@ The following 2 pairs of parts of speech are connected with `expl`: [hr-pos/VERB
 38	u	u	ADP	_	Case=Loc	39	case	_	_
 39	KFOR-u	KFOR	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	37	nmod	_	_
 40	.	.	PUNCT	_	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 14 expl	color:blue
+1	Štednja	štednja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+2	kućanstava	kućanstvo	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+3	u	u	ADP	_	Case=Loc	4	case	_	_
+4	bankama	banka	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	1	nmod	_	_
+5	u	u	ADP	_	Case=Loc	6	case	_	_
+6	Bosni	Bosna	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	_
+7	i	i	CONJ	_	_	6	name	_	_
+8	Hercegovini	Hercegovina	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	6	name	_	_
+9	(	(	PUNCT	_	_	10	punct	_	_
+10	BiH	BiH	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	6	appos	_	_
+11	)	)	PUNCT	_	_	10	punct	_	_
+12	dosegnula	dosegnuti	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+13	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	12	aux	_	_
+14	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	12	expl	_	_
+15	2,4	2,4	NUM	_	NumType=Card	16	compound	_	_
+16	milijuna	milijun	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	nummod	_	_
+17	eura	euro	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	12	dobj	_	_
+18	u	u	ADP	_	Case=Loc	19	case	_	_
+19	rujnu	rujan	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	_
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	pokazuju	pokazivati	VERB	_	Number=Plur|Person=3|Tense=Pres	12	parataxis	_	_
+22	podatci	podatak	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	_
+23	Agencije	agencija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	za	za	ADP	_	Case=Acc	25	compound	_	_
+25	osiguranje	osiguranje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	compound	_	_
+26	uloga	ulog	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	25	compound	_	_
+27	BiH	BiH	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	23	compound	_	_
+28	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

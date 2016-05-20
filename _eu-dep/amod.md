@@ -8,10 +8,10 @@ Nouns may take adjectival modifiers, which are marked with the dependency type `
 
 *Epaiketa horrek kezka **handia** piztu du .* 
 
-*That trial has caused a **big** concern . *
+*That trial has caused a **big** concern .*
 
 ~~~ sdparse
-Epaiketa horrek kezka handia piztu du . \n trial that concern big_a has caused . \n trial that concern a_big has caused .
+Epaiketa horrek kezka handia piztu du . \n Trial that concern big_a caused has .
 
 nsubj(piztu-5, Epaiketa-1)
 det(Epaiketa-1, horrek-2)
@@ -22,12 +22,12 @@ punct(piztu-5, .-7)
 ~~~
 
 
-*Mutikoak heldu ditun dantzaldira atorra **urdin argi** batekin . *
+*Mutikoak heldu ditun dantzaldira atorra **urdin argi** batekin .*
 
-*The boys have arrived to the ball with a **light blue** shirt . *
+*The boys have arrived to the ball with a **light blue** shirt .*
 
 ~~~ sdparse
-Mutikoak heldu ditun dantzaldira atorra urdin argi batekin . \n The_boys arrived have to_the_ball blue light shirt a_with. \n boys_the arrived have ball_the_to shirt blue light one_with
+Mutikoak heldu ditun dantzaldira atorra urdin argi batekin . \n Boys_the arrived have ball_the_to shirt blue light one_with .
 
 nsubj(Mutikoak-1, heldu-2)
 aux(heldu-2, ditun-3)
@@ -44,7 +44,7 @@ punct(heldu-2, .-9)
 *Derartu Tulu made the **last** 400 meters in one minute .* 
 
 ~~~ sdparse
-Azkeneko 400 metroak minutu batean osatu zituen Derartu Tuluk . \n last 400 meters_the minute one_in made aux-trans-past Derartu Tulu . \n last 400 the_meters minute in_one made aux-trans-past Derartu Tulu .
+Azkeneko 400 metroak minutu batean osatu zituen Derartu Tuluk . \n Last 400 meters_the minute one_in made Derartu Tulu .
 
 amod(metroak-3, Azkeneko-1)
 nummod(metroak-3, 400-2)

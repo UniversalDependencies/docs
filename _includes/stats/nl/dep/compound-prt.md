@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [compound]().
 
-1927 nodes (1%) are attached to their parents as `compound:prt`.
+1933 nodes (1%) are attached to their parents as `compound:prt`.
 
-1106 instances of `compound:prt` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.22781525687597.
+1107 instances of `compound:prt` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.47025349198138.
 
-The following 27 pairs of parts of speech are connected with `compound:prt`: [nl-pos/VERB]()-[nl-pos/ADV]() (783; 41% instances), [nl-pos/AUX]()-[nl-pos/ADV]() (271; 14% instances), [nl-pos/AUX]()-[nl-pos/X]() (197; 10% instances), [nl-pos/VERB]()-[nl-pos/X]() (187; 10% instances), [nl-pos/VERB]()-[nl-pos/NOUN]() (134; 7% instances), [nl-pos/VERB]()-[nl-pos/ADJ]() (110; 6% instances), [nl-pos/AUX]()-[nl-pos/NOUN]() (58; 3% instances), [nl-pos/AUX]()-[nl-pos/ADJ]() (57; 3% instances), [nl-pos/VERB]()-[nl-pos/ADP]() (44; 2% instances), [nl-pos/ADJ]()-[nl-pos/ADV]() (25; 1% instances), [nl-pos/AUX]()-[nl-pos/ADP]() (16; 1% instances), [nl-pos/NOUN]()-[nl-pos/ADV]() (12; 1% instances), [nl-pos/VERB]()-[nl-pos/SCONJ]() (7; 0% instances), [nl-pos/NOUN]()-[nl-pos/ADJ]() (5; 0% instances), [nl-pos/NOUN]()-[nl-pos/X]() (4; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADV]() (3; 0% instances), [nl-pos/ADJ]()-[nl-pos/X]() (2; 0% instances), [nl-pos/AUX]()-[nl-pos/SCONJ]() (2; 0% instances), [nl-pos/PRON]()-[nl-pos/X]() (2; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADP]() (1; 0% instances), [nl-pos/ADV]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/ADV]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/ADP]() (1; 0% instances), [nl-pos/PRON]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADP]() (1; 0% instances), [nl-pos/SCONJ]()-[nl-pos/ADJ]() (1; 0% instances).
+The following 34 pairs of parts of speech are connected with `compound:prt`: [nl-pos/VERB]()-[nl-pos/ADV]() (1001; 52% instances), [nl-pos/VERB]()-[nl-pos/X]() (171; 9% instances), [nl-pos/VERB]()-[nl-pos/NOUN]() (167; 9% instances), [nl-pos/VERB]()-[nl-pos/ADJ]() (155; 8% instances), [nl-pos/VERB]()-[nl-pos/ADP]() (139; 7% instances), [nl-pos/AUX]()-[nl-pos/X]() (68; 4% instances), [nl-pos/AUX]()-[nl-pos/ADP]() (50; 3% instances), [nl-pos/NOUN]()-[nl-pos/ADV]() (27; 1% instances), [nl-pos/ADJ]()-[nl-pos/ADV]() (25; 1% instances), [nl-pos/AUX]()-[nl-pos/ADV]() (25; 1% instances), [nl-pos/PROPN]()-[nl-pos/ADV]() (16; 1% instances), [nl-pos/VERB]()-[nl-pos/PRON]() (15; 1% instances), [nl-pos/AUX]()-[nl-pos/ADJ]() (11; 1% instances), [nl-pos/AUX]()-[nl-pos/NOUN]() (10; 1% instances), [nl-pos/NOUN]()-[nl-pos/NOUN]() (10; 1% instances), [nl-pos/VERB]()-[nl-pos/SCONJ]() (8; 0% instances), [nl-pos/NOUN]()-[nl-pos/ADJ]() (6; 0% instances), [nl-pos/NOUN]()-[nl-pos/X]() (6; 0% instances), [nl-pos/AUX]()-[nl-pos/PRON]() (4; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADP]() (2; 0% instances), [nl-pos/ADJ]()-[nl-pos/NOUN]() (2; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADP]() (2; 0% instances), [nl-pos/PROPN]()-[nl-pos/NOUN]() (2; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/ADJ]()-[nl-pos/X]() (1; 0% instances), [nl-pos/ADV]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/ADV]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/ADP]() (1; 0% instances), [nl-pos/NUM]()-[nl-pos/NOUN]() (1; 0% instances), [nl-pos/PRON]()-[nl-pos/X]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/PROPN]()-[nl-pos/SCONJ]() (1; 0% instances), [nl-pos/SCONJ]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/X]()-[nl-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,41 +35,39 @@ The following 27 pairs of parts of speech are connected with `compound:prt`: [nl
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 10 compound:prt	color:blue
-1	Het	het	PRON	Pron|onbep|neut|zelfst	PronType=Ind	2	nsubj	_	_
-2	hoorde	hoor	VERB	V|trans|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	_	_
-3	bij	bij	ADP	Prep|voor	AdpType=Prep	6	case	_	_
-4	de	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	6	det	_	_
-5	warme	warm	ADJ	Adj|attr|stell|vervneut	Case=Nom|Degree=Pos	6	amod	_	_
-6	zomerdag	zomerdag	NOUN	N|soort|ev|neut	Number=Sing	2	nmod	_	_
-7	die	die	PRON	Pron|betr|neut|zelfst	PronType=Rel	11	mark	_	_
-8	ze	ze	PRON	Pron|per|3|evofmv|nom	Case=Nom|Number=Plur,Sing|Person=3|PronType=Prs	12	nsubj	_	_
-9	ginds	ginds	ADV	Adv|gew|aanw	PronType=Dem	12	advmod	_	_
-10	achter	achter	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	12	compound:prt	_	_
-11	had	heb	VERB	V|hulp|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|VerbType=Mod	6	acl	_	_
-12	gelaten	laat	AUX	V|trans|verldw|onverv	Subcat=Tran|Tense=Past|VerbForm=Part	11	aux	_	_
-13	.	.	PUNCT	Punc|punt	PunctType=Peri	2	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 9 compound:prt	color:blue
+1	je	je	PRON	Pron|onbep|neut|zelfst	PronType=Ind	2	nsubj	_	_
+2	moet	moet	VERB	V|hulp|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
+3	dan	dan	ADV	Adv|gew|aanw	PronType=Dem	13	advmod	_	_
+4	wel	wel	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	13	advmod	_	_
+5	wat	wat	PRON	Pron|onbep|neut|attr	PronType=Ind	6	nmod	_	_
+6	regen	regen	NOUN	N|soort|ev|neut	Number=Sing	13	dobj	_	_
+7	en	en	CONJ	Conj|neven	_	6	cc	_	_
+8	zo	zo	ADV	Adv|gew|aanw	PronType=Dem	6	conj	_	_
+9	op	op	X	Prep_Art_N	Number=Sing	13	compound:prt	_	MWE=op_de_koop|MWEPOS=X
+10	de	de	ADP	ADP	AdpType=Prep	9	compound	_	_
+11	koop	koop	X	X	Number=Sing	9	compound	_	_
+12	toe	toe	ADV	Adv|deelv	PartType=Vbp	13	compound:prt	_	_
+13	nemen	neem_toe	VERB	V|trans|inf	Subcat=Tran|VerbForm=Inf	2	xcomp	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 compound:prt	color:blue
-1	Ook	ook	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	3	nmod	_	_
-2	die	die	PRON	Pron|aanw|neut|attr	PronType=Dem	3	nmod	_	_
-3	voorsprong	voorsprong	NOUN	N|soort|ev|neut	Number=Sing	4	nsubj	_	_
-4	werd	word	AUX	V|hulpofkopp|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|VerbType=Aux,Cop	0	root	_	_
-5	uit_handen	uit_handen	X	Prep_N|voor_soort|mv|neut	Number=Plur	6	compound:prt	_	_
-6	gegeven	geef	AUX	V|trans|verldw|onverv	Subcat=Tran|Tense=Past|VerbForm=Part	4	aux	_	_
-7	.	.	PUNCT	Punc|punt	PunctType=Peri	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 compound:prt	color:blue
+1	het	het	PRON	Pron|per|3|ev|nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vond	vind_plaats	VERB	V|trans|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	_	_
+3	plaats	plaats	NOUN	N|soort|ev|neut	Number=Sing	2	compound:prt	_	_
+4	in	in	ADP	Prep|voor	AdpType=Prep	5	case	_	_
+5	Amsterdam	Amsterdam	PROPN	N|eigen|ev|neut	Number=Sing	2	nmod	_	_
 
 ~~~
 

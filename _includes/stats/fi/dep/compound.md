@@ -74,60 +74,40 @@ The following 16 pairs of parts of speech are connected with `compound`: [fi-pos
 ## Treebank Statistics (UD_Finnish-FTB)
 
 This relation is universal.
+There are 2 language-specific subtypes of `compound`: [compound:nn](), [compound:prt]().
 
-381 nodes (0%) are attached to their parents as `compound`.
+1 nodes (0%) are attached to their parents as `compound`.
 
-356 instances of `compound` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.67191601049869.
+1 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `compound`: [fi-pos/VERB]()-[fi-pos/ADV]() (192; 50% instances), [fi-pos/VERB]()-[fi-pos/NOUN]() (178; 47% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (8; 2% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (3; 1% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 compound	color:blue
-1	Nyt	nyt	ADV	Adv	_	3	advmod	_	_
-2	täytyy	täytyä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	aux	_	_
-3	pukea	pukea	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
-4	päälle	päälle	ADV	Adv	_	3	compound	_	_
-5	.	.	PUNCT	Pun	_	4	punct	_	_
-
-~~~
+The following 1 pairs of parts of speech are connected with `compound`: [fi-pos/NOUN]()-[fi-pos/VERB]() (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 compound	color:blue
-1	Kilpailuun	kilpailu	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	2	nmod	_	_
-2	otti	ottaa	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-3	osaa	osa	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	compound	_	_
-4	kaikkiaan	kaikkiaan	ADV	Pcle	_	5	advmod	_	_
-5	52	52	NUM	Num,Card	NumType=Card	6	nummod	_	_
-6	ehdotusta	ehdotus	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	nsubj	_	_
-7	.	.	PUNCT	Pun	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 6 compound	color:blue
-1	On	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	aux	_	_
-2	hyvä	hyvä	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	3	aux	_	Original-Deprel=modal
-3	ottaa	ottaa	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
-4	edeltä	edeltä	ADV	Adv	_	3	advmod	_	_
-5	käsin	käsin	ADP	Adp	_	4	case	_	_
-6	selvää	selvä	ADJ	A,Sg,Par	Case=Par|Number=Sing	3	compound	_	_
-7	kustannuksista	kustannus	NOUN	N,Pl,Ela	Case=Ela|Number=Plur	3	nmod	_	_
+# visual-style 3 2 compound	color:blue
+1	Sata-Häme	sata-häme	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	2	nsubj	_	_
+2	soi	soida	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	compound	_	Alt=compound|Missed-Rel=attr
+3	-tapahtuman	-tapahtuma	NOUN	N,Sg,Gen,Suffix	Case=Gen|Number=Sing	4	nmod	_	Missed-POSITION=SUFFIX
+4	järjestäjät	järjestäjä	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	5	nsubj	_	_
+5	saivat	saada	VERB	V,Act,Ind,Past,Pl3	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ylimääräisiä	ylimääräinen	ADJ	A,Pl,Par	Case=Par|Number=Plur	7	amod	_	_
+7	sydämentykytyksiä	sydämentykytys	NOUN	N,Pl,Par	Case=Par|Number=Plur	5	dobj	_	_
+8	seuratessaan	seurata	VERB	V,Act,InfE,Ine,Px3	Case=Ine|InfForm=2|Person[psor]=3|VerbForm=Inf|Voice=Act	5	advcl	_	_
+9	puhelimitse	puhelimitse	ADV	Adv	_	8	advmod	_	_
+10	texmex-kuningas	texmex-kuningas	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	11	compound:nn	_	Alt=compound:nn
+11	Flaco	flaco	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	15	nmod	_	Alt=name
+12	Jimenezin	jimenez	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	11	name	_	_
+13	ja	ja	CONJ	Pcle,CC	_	11	cc	_	_
+14	orkesterinsa	orkesteri	NOUN	N,Sg,Gen,Px3	Case=Gen|Number=Sing|Person[psor]=3	11	conj	_	_
+15	matkaa	matka	NOUN	N,Sg,Par	Case=Par|Number=Sing	8	dobj	_	_
+16	kohti	kohti	ADP	Adp	_	17	case	_	_
+17	Ikaalisia	ikaalinen	PROPN	N,Prop,Pl,Par	Case=Par|Number=Plur	15	nmod	_	_
+18	.	.	PUNCT	Pun	_	17	punct	_	_
 
 ~~~
 

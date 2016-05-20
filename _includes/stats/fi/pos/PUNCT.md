@@ -65,25 +65,22 @@ Children of `PUNCT` nodes belong to 6 different parts of speech: [NUM]() (37; 47
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 18 `PUNCT` lemmas (0%), 18 `PUNCT` types (0%) and 22666 `PUNCT` tokens (14%).
-Out of 14 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 14 in number of types and 3 in number of tokens.
+There are 17 `PUNCT` lemmas (0%), 17 `PUNCT` types (0%) and 22565 `PUNCT` tokens (14%).
+Out of 16 observed tags, the rank of `PUNCT` is: 15 in number of lemmas, 15 in number of types and 3 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ?, ", !, -, :, ..., --, ;</em>
 
 The 10 most frequent `PUNCT` types:  <em>., ,, ?, ", !, -, :, ..., --, ;</em>
 
-The 10 most frequent ambiguous lemmas: <em>/</em> ([ADV]() 3, [PUNCT]() 1)
+The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>/</em> ([ADV]() 3, [PUNCT]() 1)
+The 10 most frequent ambiguous types:  
 
 
-* <em>/</em>
-  * [ADV]() 3: <em>tarvittaessa esiinnostettava kangas <b>/</b> vinyylikatto .</em>
-  * [PUNCT]() 1: <em>GVLK:n kaksikko Kim_Tiilikainen <b>/</b> Janne_Ojala pisti kampoihin urheasti .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.044212).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -91,22 +88,30 @@ The 2nd highest number of forms (1) was observed with the lemma “!!”: <em>!!
 
 The 3rd highest number of forms (1) was observed with the lemma “!!!”: <em>!!!</em>.
 
-`PUNCT` does not occur with any features.
+`PUNCT` occurs with 1 features: [fi-feat/PunctSide]() (456; 2% instances)
+
+`PUNCT` occurs with 2 feature-value pairs: `PunctSide=Fin`, `PunctSide=Ini`
+
+`PUNCT` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (22109 tokens).
+Examples: <em>., ,, ?, !, -, :, ..., --, ;, ´</em>
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: [fi-dep/punct]() (22664; 100% instances), [fi-dep/conj]() (2; 0% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: [fi-dep/punct]() (22565; 100% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: [NOUN]() (9992; 44% instances), [VERB]() (4705; 21% instances), [ADV]() (2428; 11% instances), [ADJ]() (1823; 8% instances), [PRON]() (1106; 5% instances), [PROPN]() (925; 4% instances), [ADP]() (858; 4% instances), [NUM]() (293; 1% instances), [PUNCT]() (209; 1% instances), [INTJ]() (98; 0% instances), [CONJ]() (88; 0% instances), [SCONJ]() (81; 0% instances), [X]() (37; 0% instances), [DET]() (23; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: [NOUN]() (9942; 44% instances), [VERB]() (4677; 21% instances), [ADV]() (2084; 9% instances), [ADJ]() (1820; 8% instances), [PRON]() (1102; 5% instances), [PROPN]() (943; 4% instances), [ADP]() (858; 4% instances), [PART]() (329; 1% instances), [NUM]() (275; 1% instances), [PUNCT]() (207; 1% instances), [INTJ]() (97; 0% instances), [CONJ]() (87; 0% instances), [SCONJ]() (80; 0% instances), [X]() (34; 0% instances), [DET]() (27; 0% instances), [SYM]() (3; 0% instances)
 
-22454 (99%) `PUNCT` nodes are leaves.
+22355 (99%) `PUNCT` nodes are leaves.
 
-212 (1%) `PUNCT` nodes have one child.
+209 (1%) `PUNCT` nodes have one child.
 
-The highest child degree of a `PUNCT` node is 1.
+1 (0%) `PUNCT` nodes have two children.
 
-Children of `PUNCT` nodes are attached using 4 different relations: [fi-dep/punct]() (209; 99% instances), [fi-dep/advmod]() (1; 0% instances), [fi-dep/ccomp]() (1; 0% instances), [fi-dep/nmod]() (1; 0% instances)
+The highest child degree of a `PUNCT` node is 2.
 
-Children of `PUNCT` nodes belong to 4 different parts of speech: [PUNCT]() (209; 99% instances), [ADV]() (1; 0% instances), [NOUN]() (1; 0% instances), [VERB]() (1; 0% instances)
+Children of `PUNCT` nodes are attached using 5 different relations: [fi-dep/punct]() (207; 98% instances), [fi-dep/advmod]() (1; 0% instances), [fi-dep/aux]() (1; 0% instances), [fi-dep/mark]() (1; 0% instances), [fi-dep/nmod]() (1; 0% instances)
+
+Children of `PUNCT` nodes belong to 5 different parts of speech: [PUNCT]() (207; 98% instances), [ADV]() (1; 0% instances), [NOUN]() (1; 0% instances), [PART]() (1; 0% instances), [VERB]() (1; 0% instances)
 

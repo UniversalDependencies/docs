@@ -9,18 +9,18 @@ It occurs with 2 different values: `Pos`, `Sup`.
 
 9516 tokens (11%) have a non-empty value of `Degree`.
 4977 types (21%) occur at least once with a non-empty value of `Degree`.
-2647 lemmas (21%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: [pl-pos/ADJ]() (8171; 10% instances), [pl-pos/ADV]() (1345; 2% instances).
+2647 lemmas (20%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 4 part-of-speech tags: [pl-pos/ADJ]() (6742; 8% instances), [pl-pos/ADV]() (1345; 2% instances), [pl-pos/DET]() (955; 1% instances), [pl-pos/PRON]() (474; 1% instances).
 
 ### `ADJ`
 
-8171 [pl-pos/ADJ]() tokens (97% of all `ADJ` tokens) have a non-empty value of `Degree`.
+6742 [pl-pos/ADJ]() tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5708; 70%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4358; 53%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4754; 71%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3652; 54%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Pos` (8035; 98% of non-empty `Degree`): <em>ten, tej, tym, które, tego, który, te, która, tych, którzy</em>
+* `Pos` (6606; 98% of non-empty `Degree`): <em>swoje, swoich, cały, pierwszy, różnych, innych, nowego, nowe, sam, swoim</em>
 * `Sup` (136; 2% of non-empty `Degree`): <em>najbliższym, najbliższych, największe, najbliższy, najważniejsze, największego, największym, najlepsze, najlepszym, największy</em>
 * `EMPTY` (262): <em>prostu, powinien, powinna, powinno, powinny, dalsze, dalszych, powinni, dawna, starsza</em>
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>nowe</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 98% lemmas (2216) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 98% lemmas (2200) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -79,12 +79,40 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (371) occur only with one value of `Degree`.
 
+### `DET`
+
+955 [pl-pos/DET]() tokens (91% of all `DET` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem</tt> (682; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (661; 69%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (486; 51%).
+
+`DET` tokens may have the following values of `Degree`:
+
+* `Pos` (955; 100% of non-empty `Degree`): <em>tej, ten, tym, tego, te, tych, to, wszystkie, ta, wszystkich</em>
+* `EMPTY` (98): <em>kilka, kilku, kilkanaście, kilkadziesiąt, kilkuset, kilkunastu, kilkaset, kilkoma, kilkudziesięciu</em>
+
+`Degree` seems to be **lexical feature** of `DET`. 100% lemmas (16) occur only with one value of `Degree`.
+
+### `PRON`
+
+474 [pl-pos/PRON]() tokens (9% of all `PRON` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (474; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (474; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (474; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (474; 100%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (395; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (293; 62%), <tt><a href="Case.html">Case</a>=Nom</tt> (285; 60%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (254; 54%).
+
+`PRON` tokens may have the following values of `Degree`:
+
+* `Pos` (474; 100% of non-empty `Degree`): <em>które, który, która, którzy, których, którym, której, którego, którą, każdy</em>
+* `EMPTY` (4549): <em>się, to, jego, go, ich, jej, mnie, co, mu, sobie</em>
+
+`Degree` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Degree`.
+
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (178; 97%),
-<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADV</tt> (137; 52%),
-<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (21; 91%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> ADJ</tt> (5; 63%),
-<tt>ADJ --[<a href="../dep/nmod.html">nmod</a>]--> ADV</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (176; 97%),
+<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADV</tt> (132; 51%),
+<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> PRON</tt> (13; 93%),
+<tt>DET --[<a href="../dep/advmod.html">advmod</a>]--> ADV</tt> (6; 75%),
+<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (4; 80%),
+<tt>DET --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (2; 100%),
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (2; 100%).
 

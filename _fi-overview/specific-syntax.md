@@ -266,6 +266,17 @@ advmod(järjestää-3, lopuksi-4)
 punct(järjestää-3, .-6)
 ~~~
 
+#### Diffs
+
+In FinnTreeBank (FI_FTB), in addition to copular clauses, also state clauses and result
+clauses ([ISK § 891](http://scripta.kotus.fi/visk/sisallys.php?p=891)) contain predicatives.
+This results in a larger group of verbs accepted as copular verbs,
+e.g. *tulla* “to become”, *muuttua* “to turn” and *tehdä* “to make”. (See
+[FinnTreeBank Annotation Manual: 16.9 Predicative](http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/sources/FinnTreeBankManual.pdf).)
+
+In FI_FTB, none of the adverbs can act as predicatives
+(e.g. *naimisissa* “married” or *raskaana* “pregnant”).
+
 ### Copulas and auxiliaries
 <!-- this section originally from TDT guidelines section 5.2.2 -->
 
@@ -771,6 +782,11 @@ advmod(seisoo-7, tuolla-8)
 punct(seisoo-7, .-9)
 ~~~
 
+#### Diffs
+
+FinnTreeBank (FI_FTB) uses the universal [`acl`](http://universaldependencies.org/u/dep/all.html#al-u-dep/acl) relation
+instead of the language-specific [`acl:relcl`]().
+
 ## Units, measures and amounts
 <!-- this section originally from TDT guidelines section 5.7 -->
 
@@ -864,6 +880,15 @@ cop(joku-3, oli-2)
 nmod(joku-3, pojista-4)
 punct(joku-3, .-5)
 ~~~
+
+#### Diffs
+
+Contrary to the special cases desribed above, in FI_FTB (FinnTreeBank) the amounts
+expressed using a nominal are treated similarly to the amounts expressed
+with a number or an adverb. This means that the semantic nucleus of the
+phrase is marked as the head in spite of its case (often the partitive
+or elative case) as in *kuppi kahvia* “a cup of coffee” or *joku pojista*
+“one of the boys”.
 
 ## Noun phrases without nouns
 <!-- this section originally from TDT guidelines section 5.8 -->
@@ -1170,6 +1195,15 @@ nmod:poss(selästä-9, hevosen-8)
 punct(säikäytti-2, .-10)
 ~~~
 
+#### Diffs
+
+To prevent pure function words from having dependents when possible,
+the first of the three options has been chosen in FinnTreeBank (FTB_FI).
+The time adverbial modifies the main clause and the following subordinate
+clause modifies the adverbial. If the time adverbial could not stand on
+its own, a multi-part subordinating conjunction is considered
+(e.g. *ennen kuin* “before”).
+
 ## Subjects and objects of a noun
 <!-- this section originally from TDT guidelines section 5.11 -->
 
@@ -1215,6 +1249,14 @@ nmod:gsubj(putoaminen-2, maljakon-1)
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=560> (in Finnish)
+
+### Diffs
+
+In the current release of FinnTreeBank (FI_FTB)
+only *minen*-derivations of nouns
+can take a genitive object or subject. The information about being
+a verb-derived nominal does not occur in the morphological tagging
+of these nouns.
 
 ## Numerical expressions
 <!-- this section originally from TDT guidelines section 5.12 -->
@@ -1333,6 +1375,16 @@ compound(kg-2, 2-1)
 compound(315-3, kg-2)
 ~~~
 
+### Diffs
+
+In FinnTreeBank (FI_FTB), the dependency type [`compound`]() is not
+used for numerical expressions. If any clear internal syntactic
+structure is not noticeable in a numerical expression, the
+rightmost token of the expression is considered the head of a
+chain consisting of [`nummod`]()- or [`nmod`]()-dependents.
+Respectively, numerical expressions with multiple units are
+annotated using a [`conj`]()-relation.
+
 ## Participial modifiers and predicatives
 <!-- this section originally from TDT guidelines section 5.13 -->
 
@@ -1397,6 +1449,15 @@ nsubj:cop(rajalliset-5, resurssit-3)
 cop(rajalliset-5, ovat-4)
 punct(rajalliset-5, .-6)
 ~~~
+
+### Diffs
+
+As the passive-verb-derived, idiomatic structures 
+*olla tehtävissä / tehtävillä* (“to be doable”) are
+considered [`root`]() (or other) + [`advcl`]()
+in FinnTreeBank (FI_FTB), the rule relating
+to certain passive structures does not
+apply to FinnTreeBank.
 
 ## Necessive structures and clausal subjects
 <!-- this section originally from TDT guidelines section 5.14 -->

@@ -40,11 +40,11 @@ The following 3 pairs of parts of speech are connected with `csubjpass`: [id-pos
 
 
 ~~~ conllu
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
 # visual-style 34	bgColor:blue
 # visual-style 34	fgColor:white
-# visual-style 34 32 csubjpass	color:blue
+# visual-style 34 30 csubjpass	color:blue
 1	Setelah	_	ADV	_	_	2	advmod	_	_
 2	sempat	_	VERB	_	_	13	advcl	_	_
 3	tertunda	_	VERB	_	_	2	xcomp	_	_
@@ -98,11 +98,11 @@ The following 3 pairs of parts of speech are connected with `csubjpass`: [id-pos
 
 
 ~~~ conllu
-# visual-style 30	bgColor:blue
-# visual-style 30	fgColor:white
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
 # visual-style 34	bgColor:blue
 # visual-style 34	fgColor:white
-# visual-style 34 30 csubjpass	color:blue
+# visual-style 34 32 csubjpass	color:blue
 1	Setelah	_	ADV	_	_	2	advmod	_	_
 2	sempat	_	VERB	_	_	13	advcl	_	_
 3	tertunda	_	VERB	_	_	2	xcomp	_	_

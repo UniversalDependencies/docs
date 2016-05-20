@@ -11,28 +11,28 @@ The 10 most frequent `INTJ` lemmas: <em>sì, no, ah, grazie, ahimè, oh, vabbè,
 
 The 10 most frequent `INTJ` types:  <em>sì, no, ah, Grazie, ahimè, Vabbè, oh, Amen, Ciao, Ecco</em>
 
-The 10 most frequent ambiguous lemmas: <em>sì</em> ([INTJ]() 16, [ADV]() 14), <em>no</em> ([INTJ]() 15, [ADV]() 13, [NOUN]() 1, [X]() 1, [PROPN]() 1), <em>grazie</em> ([NOUN]() 41, [INTJ]() 5, [ADV]() 1, [ADP]() 1), <em>oh</em> ([INTJ]() 2, [ADV]() 1), <em>chissà</em> ([ADV]() 6, [INTJ]() 1), <em>ecco</em> ([ADV]() 32, [INTJ]() 1), <em>già</em> ([ADV]() 156, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>sì</em> ([INTJ]() 16, [ADV]() 14), <em>no</em> ([INTJ]() 15, [ADV]() 11, [NOUN]() 3, [PROPN]() 1, [X]() 1), <em>grazie</em> ([NOUN]() 41, [INTJ]() 5, [ADV]() 1, [ADP]() 1), <em>oh</em> ([INTJ]() 2, [ADV]() 1), <em>chissà</em> ([ADV]() 6, [INTJ]() 1), <em>ecco</em> ([ADV]() 32, [INTJ]() 1), <em>già</em> ([ADV]() 156, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>sì</em> ([ADV]() 11, [INTJ]() 4), <em>no</em> ([ADV]() 13, [INTJ]() 6, [NOUN]() 1, [X]() 1, [PROPN]() 1), <em>Grazie</em> ([NOUN]() 6, [INTJ]() 5, [ADV]() 1, [PROPN]() 1), <em>oh</em> ([ADV]() 1, [INTJ]() 1), <em>Ecco</em> ([ADV]() 14, [INTJ]() 1), <em>Già</em> ([ADV]() 8, [INTJ]() 1), <em>chissà</em> ([ADV]() 6, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>sì</em> ([ADV]() 11, [INTJ]() 4), <em>no</em> ([ADV]() 11, [INTJ]() 6, [NOUN]() 3, [PROPN]() 1, [X]() 1), <em>Grazie</em> ([NOUN]() 6, [INTJ]() 5, [ADV]() 1, [PROPN]() 1), <em>oh</em> ([INTJ]() 1, [ADV]() 1), <em>Ecco</em> ([ADV]() 14, [INTJ]() 1), <em>Già</em> ([ADV]() 8, [INTJ]() 1), <em>chissà</em> ([ADV]() 6, [INTJ]() 1)
 
 
 * <em>sì</em>
   * [ADV]() 11: <em>" Credo proprio di <b>sì</b> .</em>
   * [INTJ]() 4: <em>" Gli straordinari , eh <b>sì</b> gli straordinari !</em>
 * <em>no</em>
-  * [ADV]() 13: <em>Loro <b>no</b> .</em>
+  * [ADV]() 11: <em>Loro <b>no</b> .</em>
   * [INTJ]() 6: <em>" Ma <b>no</b> , non è così - replica Ante - .</em>
-  * [NOUN]() 1: <em>Chi ha il maggior numero di <b>no</b> hitters in il campionato di baseball professionistico ?</em>
-  * [X]() 1: <em>La parola consiste testualmente di i tre morfemi giapponesi yama ' montagna ' , <b>no</b> suffisso genitivo , te ' mano ' , quindi " mano di la montagna " .</em>
+  * [NOUN]() 3: <em>Chi ha il maggior numero di <b>no</b> hitters in il campionato di baseball professionistico ?</em>
   * [PROPN]() 1: <em>Yamanote - sen è scritto ufficialmente senza kana " <b>no</b> " ( の o ノ ) , rendendo la sua pronuncia ambigua .</em>
+  * [X]() 1: <em>La parola consiste testualmente di i tre morfemi giapponesi yama ' montagna ' , <b>no</b> suffisso genitivo , te ' mano ' , quindi " mano di la montagna " .</em>
 * <em>Grazie</em>
   * [NOUN]() 6: <em><b>Grazie</b> a una tecnica particolare ogni lastra è un pezzo unico , ricavato da blocchi assemblati con diversi tipi di marmo .</em>
   * [INTJ]() 5: <em>" <b>Grazie</b> Italia , ti ho dato l' oro " .</em>
   * [ADV]() 1: <em><b>Grazie</b> !</em>
   * [PROPN]() 1: <em>è inoltre di detto autore la tavola conservata presso la chiesa di Santa Maria di le <b>Grazie</b> di Città di Castello , in cui sono sicuramente presenti influenze pierfrancescane .</em>
 * <em>oh</em>
-  * [ADV]() 1: <em>La frase in corsivo , parodia di il verso " <b>oh</b> , cuore di tigre nascosto in corpo di donna " da la III parte di l' Enrico VI di Shakespeare , insieme a il gioco di parole di l' originale " Shake - scene " ( macchinista di scena ) , identificano Shakespeare come l' obbiettivo di Greene .</em>
   * [INTJ]() 1: <em>" Gianni , <b>oh</b> ... Gianni " .</em>
+  * [ADV]() 1: <em>La frase in corsivo , parodia di il verso " <b>oh</b> , cuore di tigre nascosto in corpo di donna " da la III parte di l' Enrico VI di Shakespeare , insieme a il gioco di parole di l' originale " Shake - scene " ( macchinista di scena ) , identificano Shakespeare come l' obbiettivo di Greene .</em>
 * <em>Ecco</em>
   * [ADV]() 14: <em><b>Ecco</b> l' arringa di Tiziana Maiolo .</em>
   * [INTJ]() 1: <em>" <b>Ecco</b> , se la mia impresa ha avuto un significato , è proprio quello di dimostrare a tutti i cardiopatici , e a i " trapiantati " in particolare , che la vita continua e può essere estremamente attiva , intensa , seducente , anche per chi è reduce da un infarto .</em>
@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>sì</em> ([ADV]() 11, [INTJ]() 4), <e
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.491677).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.491496).
 
 The 1st highest number of forms (1) was observed with the lemma “ah”: <em>ah</em>.
 

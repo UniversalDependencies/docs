@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-798 nodes (0%) are attached to their parents as `appos`.
+790 nodes (0%) are attached to their parents as `appos`.
 
-789 instances of `appos` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.02255639097744.
+790 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.03670886075949.
 
-The following 21 pairs of parts of speech are connected with `appos`: [it-pos/PROPN]()-[it-pos/NOUN]() (263; 33% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (242; 30% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (170; 21% instances), [it-pos/PRON]()-[it-pos/NOUN]() (32; 4% instances), [it-pos/PROPN]()-[it-pos/PROPN]() (19; 2% instances), [it-pos/PRON]()-[it-pos/PROPN]() (17; 2% instances), [it-pos/PROPN]()-[it-pos/PRON]() (15; 2% instances), [it-pos/NOUN]()-[it-pos/PRON]() (11; 1% instances), [it-pos/VERB]()-[it-pos/NOUN]() (7; 1% instances), [it-pos/X]()-[it-pos/NOUN]() (4; 1% instances), [it-pos/NUM]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/PROPN]()-[it-pos/X]() (3; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/PROPN]() (2; 0% instances), [it-pos/VERB]()-[it-pos/PRON]() (2; 0% instances), [it-pos/DET]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/NUM]()-[it-pos/PRON]() (1; 0% instances), [it-pos/PRON]()-[it-pos/PRON]() (1; 0% instances), [it-pos/PRON]()-[it-pos/X]() (1; 0% instances), [it-pos/VERB]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/VERB]()-[it-pos/VERB]() (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `appos`: [it-pos/PROPN]()-[it-pos/NOUN]() (259; 33% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (244; 31% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (171; 22% instances), [it-pos/PRON]()-[it-pos/NOUN]() (29; 4% instances), [it-pos/PROPN]()-[it-pos/PROPN]() (18; 2% instances), [it-pos/PRON]()-[it-pos/PROPN]() (16; 2% instances), [it-pos/PROPN]()-[it-pos/PRON]() (15; 2% instances), [it-pos/NOUN]()-[it-pos/PRON]() (10; 1% instances), [it-pos/VERB]()-[it-pos/NOUN]() (6; 1% instances), [it-pos/X]()-[it-pos/NOUN]() (5; 1% instances), [it-pos/NUM]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/PROPN]()-[it-pos/X]() (3; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/PROPN]() (2; 0% instances), [it-pos/VERB]()-[it-pos/PRON]() (2; 0% instances), [it-pos/DET]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/NUM]()-[it-pos/PRON]() (1; 0% instances), [it-pos/PRON]()-[it-pos/X]() (1; 0% instances), [it-pos/VERB]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/VERB]()-[it-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

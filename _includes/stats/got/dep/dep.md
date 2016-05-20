@@ -15,26 +15,6 @@ The following 3 pairs of parts of speech are connected with `dep`: [got-pos/VERB
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 dep	color:blue
-1	ƕe	ƕe	ADV	Du	PronType=Int	2	dep	_	_
-2	galeikom	gáleikon	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	þiudangardja	þiudangardi	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	dobj	_	_
-4	gudis	guþ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
-5	aiþþau	aiþþau	CONJ	C-	_	2	cc	_	_
-6	in	in	ADP	R-	_	8	case	_	_
-7	ƕileikai	ƕileiks	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	8	amod	_	_
-8	gajukon	gajuko	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	iobj	_	_
-9	gabairam	ga-bairan	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
-10	þo	sa	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	9	dobj	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
@@ -65,6 +45,26 @@ The following 3 pairs of parts of speech are connected with `dep`: [got-pos/VERB
 23	jah	jah	CONJ	C-	_	22	cc	_	_
 24	ubilaim	ubils	ADJ	A-	Case=Dat|Degree=Pos|Number=Plur|Strength=Strong	22	conj	_	_
 25	mannam	manna#2	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	20	iobj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 dep	color:blue
+1	ƕe	ƕe	ADV	Du	PronType=Int	2	dep	_	_
+2	galeikom	gáleikon	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	þiudangardja	þiudangardi	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	dobj	_	_
+4	gudis	guþ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	aiþþau	aiþþau	CONJ	C-	_	2	cc	_	_
+6	in	in	ADP	R-	_	8	case	_	_
+7	ƕileikai	ƕileiks	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	8	amod	_	_
+8	gajukon	gajuko	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	iobj	_	_
+9	gabairam	ga-bairan	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+10	þo	sa	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	9	dobj	_	_
 
 ~~~
 

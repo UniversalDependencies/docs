@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-02T07:37:50Z">2016-05-02T07:37:50 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-18T14:37:46Z">2016-05-18T14:37:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -12,7 +12,7 @@ Regenerated: <time class="timeago" datetime="2016-05-02T07:37:50Z">2016-05-02T07
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:33:36Z">2016-04-13T23:33:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:38:33Z">2016-05-13T07:38:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -23,7 +23,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:33:36Z">2016-04-13T23:33:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:38:33Z">2016-05-13T07:38:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -55,7 +55,7 @@ python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-trai
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:34:05Z">2016-04-13T23:34:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:39:02Z">2016-05-13T07:39:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -87,7 +87,7 @@ python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROI
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T10:30:32Z">2016-04-28T10:30:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:39:30Z">2016-05-13T07:39:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -119,7 +119,7 @@ python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Basque</span>
 <span class="widespan">eu</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:35:07Z">2016-04-13T23:35:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:40:09Z">2016-05-13T07:40:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -151,7 +151,7 @@ python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:35:20Z">2016-04-13T23:35:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:40:22Z">2016-05-13T07:40:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -183,7 +183,7 @@ python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:35:39Z">2016-04-13T23:35:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:40:41Z">2016-05-13T07:40:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -215,7 +215,7 @@ python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Chinese</span>
 <span class="widespan">zh</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-27T08:51:44Z">2016-04-27T08:51:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:41:40Z">2016-05-13T07:41:40 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -247,7 +247,7 @@ python tools/validate.py --lang zh UD-dev-branches/UD_Chinese/zh-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:36:48Z">2016-04-13T23:36:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:41:49Z">2016-05-13T07:41:49 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -279,7 +279,7 @@ python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T11:35:39Z">2016-04-30T11:35:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T14:38:02Z">2016-05-13T14:38:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -332,7 +332,7 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T19:54:45Z">2016-04-29T19:54:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:45:28Z">2016-05-13T07:45:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -364,7 +364,7 @@ python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-tr
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T10:25:31Z">2016-04-28T10:25:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:46:36Z">2016-05-13T07:46:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -396,7 +396,7 @@ python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:40:27Z">2016-04-13T23:40:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:46:41Z">2016-05-13T07:46:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -428,7 +428,7 @@ python tools/validate.py --lang da UD-dev-branches/UD_Danish/da-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T14:33:25Z">2016-04-28T14:33:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:46:52Z">2016-05-13T07:46:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -457,10 +457,42 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
+<span class="widespan">nl lassysmall</span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:47:16Z">2016-05-13T07:47:16 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T15:06:44Z">2016-04-28T15:06:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:47:25Z">2016-05-13T07:47:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -492,7 +524,7 @@ python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T02:56:42Z">2016-05-01T02:56:42 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:47:50Z">2016-05-13T07:47:50 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -524,7 +556,7 @@ python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T19:58:10Z">2016-04-30T19:58:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:47:56Z">2016-05-13T07:47:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -556,7 +588,7 @@ python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lin
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T16:21:27Z">2016-04-30T16:21:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:48:01Z">2016-05-13T07:48:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -588,7 +620,7 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:41:27Z">2016-04-13T23:41:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:48:28Z">2016-05-13T07:48:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -620,7 +652,7 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T08:49:16Z">2016-04-30T08:49:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:48:49Z">2016-05-13T07:48:49 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -652,7 +684,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T21:14:25Z">2016-04-30T21:14:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:49:09Z">2016-05-13T07:49:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -684,7 +716,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T10:16:25Z">2016-04-28T10:16:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:49:49Z">2016-05-13T07:49:49 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -716,7 +748,7 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:42:53Z">2016-04-13T23:42:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:49:58Z">2016-05-13T07:49:58 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -748,7 +780,7 @@ python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:43:12Z">2016-04-13T23:43:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:50:17Z">2016-05-13T07:50:17 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -780,7 +812,7 @@ python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T16:42:08Z">2016-05-01T16:42:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-18T14:37:38Z">2016-05-18T14:37:38 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -812,7 +844,7 @@ python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:43:26Z">2016-04-13T23:43:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:50:32Z">2016-05-13T07:50:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -844,7 +876,7 @@ python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:43:44Z">2016-04-13T23:43:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:50:50Z">2016-05-13T07:50:50 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -876,7 +908,7 @@ python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T09:56:45Z">2016-05-01T09:56:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:51:37Z">2016-05-13T07:51:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -908,7 +940,7 @@ python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian</span>
 <span class="widespan">id</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:44:35Z">2016-04-13T23:44:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:51:43Z">2016-05-13T07:51:43 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -940,7 +972,7 @@ python tools/validate.py --lang id UD-dev-branches/UD_Indonesian/id-ud-train.con
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:44:43Z">2016-04-13T23:44:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:51:51Z">2016-05-13T07:51:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -972,7 +1004,7 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-30T15:41:09Z">2016-04-30T15:41:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:51:54Z">2016-05-13T07:51:54 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1004,7 +1036,7 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-KTC</span>
 <span class="widespan">ja ktc</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:45:15Z">2016-04-13T23:45:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:52:23Z">2016-05-13T07:52:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1036,7 +1068,7 @@ python tools/validate.py --lang ja_ktc UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T05:19:40Z">2016-05-02T05:19:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:52:41Z">2016-05-13T07:52:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1068,7 +1100,7 @@ python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:45:33Z">2016-04-13T23:45:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:52:41Z">2016-05-13T07:52:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1079,7 +1111,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Latin</span>
 <span class="widespan">la</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:45:33Z">2016-04-13T23:45:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:52:42Z">2016-05-13T07:52:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1108,42 +1140,10 @@ python tools/validate.py --lang la UD-dev-branches/UD_Latin/la-ud-train.conllu
 </pre>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD Latin-ITT</span>
-<span class="widespan">la itt</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:45:39Z">2016-04-13T23:45:39 zulu</time></span>
-</div>
-<div>
-<pre>
-python tools/validate.py --lang la_itt UD-dev-branches/UD_Latin-ITT/la_itt-ud-dev.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang la_itt UD-dev-branches/UD_Latin-ITT/la_itt-ud-test.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang la_itt UD-dev-branches/UD_Latin-ITT/la_itt-ud-train.conllu
-
-*** PASSED ***
-
-
-******************
-
-
-</pre>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T21:25:52Z">2016-04-28T21:25:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:52:48Z">2016-05-13T07:52:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1175,7 +1175,7 @@ python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:46:12Z">2016-04-13T23:46:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:53:25Z">2016-05-13T07:53:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1207,7 +1207,7 @@ python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_pro
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T22:11:17Z">2016-04-29T22:11:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:53:47Z">2016-05-13T07:53:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1239,7 +1239,7 @@ python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian</span>
 <span class="widespan">no</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T12:57:34Z">2016-04-26T12:57:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T13:04:29Z">2016-05-13T13:04:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1271,7 +1271,7 @@ python tools/validate.py --lang no UD-dev-branches/UD_Norwegian/no-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:47:07Z">2016-04-13T23:47:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:54:22Z">2016-05-13T07:54:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1303,7 +1303,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-23T19:24:41Z">2016-04-23T19:24:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:54:30Z">2016-05-13T07:54:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1335,7 +1335,7 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-21T13:07:34Z">2016-04-21T13:07:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:54:44Z">2016-05-13T07:54:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1367,7 +1367,7 @@ python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T02:59:30Z">2016-05-01T02:59:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:54:55Z">2016-05-13T07:54:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1399,7 +1399,7 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.con
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-BR</span>
 <span class="widespan">pt br</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:48:06Z">2016-04-13T23:48:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:55:20Z">2016-05-13T07:55:20 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1431,7 +1431,7 @@ python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:48:25Z">2016-04-13T23:48:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:55:40Z">2016-05-13T07:55:40 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1462,161 +1462,14 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T00:25:21Z">2016-05-02T00:25:21 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:55:58Z">2016-05-13T07:55:58 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 *** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-dev.conllu
-
-[Line                   13]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   60]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   91]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   102]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   115]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   133]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   146]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   217]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   228]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   239]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   245]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   258]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   268]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   278]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   287]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   308]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   317]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   340]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-...suppressing further errors regarding Format
-[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 27, 28, 30, 33, 36, 39, 40]
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-[Line                   10545]: Loop from 4
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-[Line                   10545]: Loop from 4
-[Line                   10545]: Loop from 5
-[Line                   10545]: Loop from 1
-[Line                   10545]: Loop from 2
-[Line                   10545]: Loop from 3
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1479 errors
-Format errors: 503
-Syntax errors: 976
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-test.conllu
-
-[Line                   16]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   48]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   65]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   80]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   95]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   112]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   141]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   157]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   182]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   225]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   247]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   257]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   270]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   343]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   351]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   393]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   404]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   419]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-...suppressing further errors regarding Format
-[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24, 25, 27, 29, 30, 46]
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-[Line                   10071]: Loop from 4
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-[Line                   10071]: Loop from 4
-[Line                   10071]: Loop from 5
-[Line                   10071]: Loop from 1
-[Line                   10071]: Loop from 2
-[Line                   10071]: Loop from 3
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1500 errors
-Format errors: 500
-Syntax errors: 1000
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-google-train.conllu
-
-[Line                   16]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   31]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   48]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   65]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   80]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   95]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   112]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   141]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   157]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   182]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   225]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   247]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   257]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   270]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   343]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   351]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   393]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   404]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   419]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-...suppressing further errors regarding Format
-[Tree number 1 on line 1]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 39, 40, 46, 53, 73]
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-[Line                   104420]: Loop from 4
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-[Line                   104420]: Loop from 4
-[Line                   104420]: Loop from 5
-[Line                   104420]: Loop from 1
-[Line                   104420]: Loop from 2
-[Line                   104420]: Loop from 3
-...suppressing further errors regarding Syntax
-*** FAILED *** with 7492 errors
-Format errors: 5055
-Syntax errors: 2437
 
 
 ******************
@@ -1639,219 +1492,30 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 </pre>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD Russian-Syntagrus</span>
+<span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T21:11:48Z">2016-05-01T21:11:48 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:56:09Z">2016-05-13T07:56:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-dev.conllu
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
-[Line                   3]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3]: Repeated features are disallowed: ADP
-[Line                   6]: Spurious morphological feature: 'PART'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   6]: Repeated features are disallowed: PART
-[Line                   12]: Unknown UD DEPREL: ROOT
-[Line                   12]: Invalid DEPREL value ROOT
-[Line                   19]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   19]: Repeated features are disallowed: ADP
-[Line                   24]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   24]: Repeated features are disallowed: ADP
-[Line                   28]: DEPREL must be "root" if HEAD is 0
-[Line                   29]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   29]: Repeated features are disallowed: ADP
-[Line                   32]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   32]: Repeated features are disallowed: ADP
-[Line                   37]: Unknown UD DEPREL: ROOT
-[Line                   37]: Invalid DEPREL value ROOT
-[Line                   43]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   43]: Repeated features are disallowed: CONJ
-[Line                   44]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   44]: Repeated features are disallowed: ADP
-[Line                   47]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   47]: Repeated features are disallowed: ADP
-[Line                   63]: DEPREL must be "root" if HEAD is 0
-[Line                   65]: Spurious morphological feature: 'Variant=brev'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-[Line                   65]: Unknown UD DEPREL: ROOT
-[Line                   65]: Invalid DEPREL value ROOT
-[Line                   85]: DEPREL must be "root" if HEAD is 0
-[Line                   91]: Unknown UD DEPREL: ROOT
-[Line                   91]: Invalid DEPREL value ROOT
-[Line                   104]: DEPREL must be "root" if HEAD is 0
-[Line                   122]: Unknown UD DEPREL: ROOT
-[Line                   122]: Invalid DEPREL value ROOT
-[Line                   141]: DEPREL must be "root" if HEAD is 0
-[Line                   144]: Unknown UD DEPREL: ROOT
-[Line                   144]: Invalid DEPREL value ROOT
-[Line                   169]: DEPREL must be "root" if HEAD is 0
-[Line                   173]: Unknown UD DEPREL: ROOT
-...suppressing further errors regarding Syntax
-[Line                   1468]: Empty value in column FEATS
-[Line                   1576]: Empty value in column FEATS
-[Line                   2760]: Empty value in column FEATS
-[Line                   3129]: Empty value in column FEATS
-[Line                   3190]: Empty value in column FEATS
-[Line                   3418]: Empty value in column FEATS
-[Line                   3619]: Empty value in column FEATS
-[Line                   3852]: Empty value in column FEATS
-[Line                   4323]: Empty value in column FEATS
-[Line                   4423]: Empty value in column FEATS
-[Line                   4890]: Empty value in column FEATS
-[Line                   4899]: Empty value in column FEATS
-[Line                   5105]: Empty value in column FEATS
-[Line                   5269]: Empty value in column FEATS
-[Line                   5330]: Empty value in column FEATS
-[Line                   5462]: Empty value in column FEATS
-[Line                   5510]: Empty value in column FEATS
-[Line                   5869]: Empty value in column FEATS
-[Line                   5994]: Empty value in column FEATS
-...suppressing further errors regarding Format
-*** FAILED *** with 62379 errors
-Format errors: 164
-Morpho errors: 43754
-Syntax errors: 18461
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-test.conllu
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-test.conllu
 
-[Line                   1]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1]: Repeated features are disallowed: ADP
-[Line                   9]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   9]: Repeated features are disallowed: ADP
-[Line                   11]: Unknown UD DEPREL: ROOT
-[Line                   11]: Invalid DEPREL value ROOT
-[Line                   12]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   12]: Repeated features are disallowed: ADP
-[Line                   14]: Unknown UD DEPREL: nummod:gov
-[Line                   16]: DEPREL must be "root" if HEAD is 0
-[Line                   18]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   18]: Repeated features are disallowed: ADP
-[Line                   20]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   20]: Repeated features are disallowed: ADP
-[Line                   25]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   25]: Repeated features are disallowed: CONJ
-[Line                   28]: Unknown UD DEPREL: ROOT
-[Line                   28]: Invalid DEPREL value ROOT
-[Line                   30]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   30]: Repeated features are disallowed: CONJ
-[Line                   34]: DEPREL must be "root" if HEAD is 0
-[Line                   35]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   35]: Repeated features are disallowed: ADP
-[Line                   41]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   41]: Repeated features are disallowed: CONJ
-[Line                   46]: Unknown UD DEPREL: ROOT
-[Line                   46]: Invalid DEPREL value ROOT
-[Line                   48]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-[Line                   66]: DEPREL must be "root" if HEAD is 0
-[Line                   91]: Unknown UD DEPREL: ROOT
-[Line                   91]: Invalid DEPREL value ROOT
-[Line                   97]: DEPREL must be "root" if HEAD is 0
-[Line                   102]: Unknown UD DEPREL: ROOT
-[Line                   102]: Invalid DEPREL value ROOT
-[Line                   105]: DEPREL must be "root" if HEAD is 0
-[Line                   111]: Unknown UD DEPREL: ROOT
-[Line                   111]: Invalid DEPREL value ROOT
-[Line                   121]: DEPREL must be "root" if HEAD is 0
-...suppressing further errors regarding Syntax
-[Line                   147]: Empty value in column FEATS
-[Line                   377]: Empty value in column FEATS
-[Line                   432]: Empty value in column FEATS
-[Line                   661]: Empty value in column FEATS
-[Line                   1403]: Empty value in column FEATS
-[Line                   1995]: Empty value in column FEATS
-[Line                   2322]: Empty value in column FEATS
-[Line                   11352]: Column FORM is not allowed to contain whitespace: '3 000'
-[Line                   12006]: Column FORM is not allowed to contain whitespace: '22 000'
-[Line                   12531]: Empty value in column FEATS
-[Line                   12666]: Empty value in column FEATS
-[Line                   12916]: Empty value in column FEATS
-[Line                   13221]: Empty value in column FEATS
-[Line                   13428]: Empty value in column FEATS
-[Line                   13577]: Empty value in column FEATS
-[Line                   17991]: Empty value in column FEATS
-[Line                   18269]: Empty value in column FEATS
-[Line                   18406]: Empty value in column FEATS
-[Line                   19087]: Empty value in column FEATS
-...suppressing further errors regarding Format
-*** FAILED *** with 61962 errors
-Format errors: 136
-Morpho errors: 43958
-Syntax errors: 17868
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-Syntagrus/ru_syntagrus-ud-train.conllu
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
 
-[Line                   1]: Unknown UD DEPREL: ROOT
-[Line                   1]: Invalid DEPREL value ROOT
-[Line                   3]: DEPREL must be "root" if HEAD is 0
-[Line                   11]: Unknown UD DEPREL: ROOT
-[Line                   11]: Invalid DEPREL value ROOT
-[Line                   15]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   15]: Repeated features are disallowed: ADP
-[Line                   21]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   21]: Repeated features are disallowed: ADP
-[Line                   23]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   23]: Repeated features are disallowed: ADP
-[Line                   25]: Spurious morphological feature: 'CONJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   25]: Repeated features are disallowed: CONJ
-[Line                   27]: Spurious morphological feature: 'PART'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   27]: Repeated features are disallowed: PART
-[Line                   29]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   29]: Repeated features are disallowed: ADP
-[Line                   32]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   32]: Repeated features are disallowed: ADP
-[Line                   38]: DEPREL must be "root" if HEAD is 0
-[Line                   39]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   39]: Repeated features are disallowed: ADP
-[Line                   42]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   42]: Repeated features are disallowed: ADP
-[Line                   44]: Unknown UD DEPREL: ROOT
-[Line                   44]: Invalid DEPREL value ROOT
-[Line                   49]: Spurious morphological feature: 'ADP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-[Line                   73]: DEPREL must be "root" if HEAD is 0
-[Line                   79]: Unknown UD DEPREL: ROOT
-[Line                   79]: Invalid DEPREL value ROOT
-[Line                   93]: DEPREL must be "root" if HEAD is 0
-[Line                   96]: Unknown UD DEPREL: ROOT
-[Line                   96]: Invalid DEPREL value ROOT
-[Line                   102]: DEPREL must be "root" if HEAD is 0
-[Line                   105]: Unknown UD DEPREL: ROOT
-[Line                   105]: Invalid DEPREL value ROOT
-[Line                   118]: DEPREL must be "root" if HEAD is 0
-[Line                   121]: Unknown UD DEPREL: ROOT
-...suppressing further errors regarding Syntax
-[Line                   5774]: Empty value in column FEATS
-[Line                   6111]: Empty value in column FEATS
-[Line                   6490]: Empty value in column FEATS
-[Line                   6781]: Empty value in column FEATS
-[Line                   7000]: Empty value in column FEATS
-[Line                   7375]: Empty value in column FEATS
-[Line                   7703]: Empty value in column FEATS
-[Line                   8078]: Empty value in column FEATS
-[Line                   8086]: Empty value in column FEATS
-[Line                   9795]: Empty value in column FEATS
-[Line                   10736]: Empty value in column FEATS
-[Line                   10856]: Empty value in column FEATS
-[Line                   11015]: Empty value in column FEATS
-[Line                   11189]: Empty value in column FEATS
-[Line                   11551]: Column FORM is not allowed to contain whitespace: ' '
-[Line                   11551]: Column LEMMA is not allowed to contain whitespace: ' '
-[Line                   11551]: Column XPOSTAG is not allowed to contain whitespace: ' '
-[Line                   19562]: Empty value in column FEATS
-[Line                   21072]: Empty value in column FEATS
-...suppressing further errors regarding Format
-*** FAILED *** with 482823 errors
-Format errors: 1058
-Morpho errors: 337533
-Syntax errors: 144232
+*** PASSED ***
 
 
 ******************
@@ -1863,7 +1527,7 @@ Syntax errors: 144232
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T20:55:01Z">2016-04-26T20:55:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:58:07Z">2016-05-13T07:58:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1895,7 +1559,7 @@ python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-26T20:56:38Z">2016-04-26T20:56:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:58:24Z">2016-05-13T07:58:24 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1927,7 +1591,7 @@ python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-u
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:48:57Z">2016-04-13T23:48:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T07:58:28Z">2016-05-13T07:58:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1959,7 +1623,7 @@ python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:49:43Z">2016-04-13T23:49:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-18T13:58:38Z">2016-05-18T13:58:38 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1991,7 +1655,7 @@ python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_a
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-02T07:37:38Z">2016-05-02T07:37:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T08:00:16Z">2016-05-13T08:00:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2023,7 +1687,7 @@ python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-29T15:13:33Z">2016-04-29T15:13:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T08:00:27Z">2016-05-13T08:00:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2055,7 +1719,7 @@ python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lin
 <span class="doublewidespan" style="padding-left:3em">UD Tamil</span>
 <span class="widespan">ta</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-28T10:32:18Z">2016-04-28T10:32:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T08:00:32Z">2016-05-13T08:00:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2087,7 +1751,7 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-01T19:35:58Z">2016-05-01T19:35:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T08:00:34Z">2016-05-13T08:00:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2119,7 +1783,7 @@ python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-04-13T23:50:58Z">2016-04-13T23:50:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T08:00:42Z">2016-05-13T08:00:42 zulu</time></span>
 </div>
 <div>
 <pre>

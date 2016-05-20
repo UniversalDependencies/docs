@@ -18,7 +18,7 @@ The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1120, [NOUN]() 30, 
 
 * <em>é</em>
   * [VERB]() 1120: <em>Conforto <b>é</b> fundamental .</em>
-  * [NOUN]() 30: <em>O_que <b>é</b> que acham que mudou desde os anos de apogeu de o conjunto ?</em>
+  * [NOUN]() 30: <em>O que <b>é</b> que acham que mudou desde os anos de apogeu de o conjunto ?</em>
   * [ADV]() 15: <em>Mas <b>é</b> em a Republica Dominicana que o cruzeiro atinge seu ponto alto .</em>
   * [PROPN]() 3: <em>De a série Soluções , o « PC <b>é</b> mais que uma máquina de escrever » é o lançamento de a Ariadne ( 132 págs . )</em>
   * [INTJ]() 1: <em>Pois <b>é</b> , Palmeiras e Corinthians fazem hoje a finalíssima de o Brasileiro .</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1120, [NOUN]() 30, 
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 3.892983 (the average of all parts of speech is 1.447246).
+The form / lemma ratio of `VERB` is 3.892983 (the average of all parts of speech is 1.447797).
 
 The 1st highest number of forms (40) was observed with the lemma “ter”: <em>Tendo-, te-, tem, tem-, temos, tendo, tenha, tenham, tenhamos, tenho, ter, ter-, terei, terem, teremos, teria, teriam, termos, terá, terão, teve, tida, tidas, tido, tinha, tinha-, tinham, tinham-, tive, tivemos, tiver, tivera, tiveram, tivermos, tivesse, tivessem, tivéssemos, tê-, têm, tínhamos</em>.
 
@@ -74,23 +74,23 @@ Examples: <em>é, tem, está, há, vai, diz, pode, deve, faz, continua</em>
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 18 different relations: [pt-dep/root]() (6966; 27% instances), [pt-dep/acl]() (5119; 20% instances), [pt-dep/ccomp]() (2831; 11% instances), [pt-dep/cop]() (2824; 11% instances), [pt-dep/advcl]() (2667; 10% instances), [pt-dep/xcomp]() (2354; 9% instances), [pt-dep/conj]() (1794; 7% instances), [pt-dep/cc]() (654; 3% instances), [pt-dep/csubj]() (315; 1% instances), [pt-dep/parataxis]() (135; 1% instances), [pt-dep/dep]() (95; 0% instances), [pt-dep/punct]() (52; 0% instances), [pt-dep/appos]() (17; 0% instances), [pt-dep/advmod]() (8; 0% instances), [pt-dep/case]() (7; 0% instances), [pt-dep/nmod]() (6; 0% instances), [pt-dep/mark]() (2; 0% instances), [pt-dep/nummod]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 20 different relations: [pt-dep/root]() (6906; 27% instances), [pt-dep/acl]() (5383; 21% instances), [pt-dep/cop]() (2818; 11% instances), [pt-dep/advcl]() (2794; 11% instances), [pt-dep/xcomp]() (2415; 9% instances), [pt-dep/conj]() (1788; 7% instances), [pt-dep/ccomp]() (1589; 6% instances), [pt-dep/auxpass]() (1113; 4% instances), [pt-dep/aux]() (416; 2% instances), [pt-dep/csubj]() (325; 1% instances), [pt-dep/parataxis]() (149; 1% instances), [pt-dep/dep]() (96; 0% instances), [pt-dep/appos]() (24; 0% instances), [pt-dep/csubjpass]() (8; 0% instances), [pt-dep/case]() (7; 0% instances), [pt-dep/advmod]() (6; 0% instances), [pt-dep/cc]() (4; 0% instances), [pt-dep/nmod]() (3; 0% instances), [pt-dep/mark]() (2; 0% instances), [pt-dep/nummod]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 14 different parts of speech: [VERB]() (9834; 38% instances), [ROOT]() (6966; 27% instances), [NOUN]() (6015; 23% instances), [ADJ]() (1515; 6% instances), [PROPN]() (601; 2% instances), [PRON]() (473; 2% instances), [ADV]() (177; 1% instances), [NUM]() (93; 0% instances), [DET]() (69; 0% instances), [SYM]() (40; 0% instances), [ADP]() (25; 0% instances), [SCONJ]() (19; 0% instances), [AUX]() (10; 0% instances), [CONJ]() (10; 0% instances)
+Parents of `VERB` nodes belong to 14 different parts of speech: [VERB]() (9781; 38% instances), [ROOT]() (6906; 27% instances), [NOUN]() (6048; 23% instances), [ADJ]() (1569; 6% instances), [PROPN]() (615; 2% instances), [PRON]() (450; 2% instances), [ADV]() (177; 1% instances), [DET]() (97; 0% instances), [NUM]() (96; 0% instances), [SYM]() (41; 0% instances), [ADP]() (24; 0% instances), [SCONJ]() (23; 0% instances), [AUX]() (10; 0% instances), [CONJ]() (10; 0% instances)
 
-4007 (16%) `VERB` nodes are leaves.
+5394 (21%) `VERB` nodes are leaves.
 
-3812 (15%) `VERB` nodes have one child.
+3197 (12%) `VERB` nodes have one child.
 
-5498 (21%) `VERB` nodes have two children.
+4728 (18%) `VERB` nodes have two children.
 
-12530 (48%) `VERB` nodes have three or more children.
+12528 (48%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 19.
 
-Children of `VERB` nodes are attached using 25 different relations: [pt-dep/punct]() (15510; 22% instances), [pt-dep/dobj]() (10695; 15% instances), [pt-dep/nsubj]() (10136; 14% instances), [pt-dep/nmod]() (7064; 10% instances), [pt-dep/advmod]() (5330; 8% instances), [pt-dep/mark]() (4735; 7% instances), [pt-dep/cc]() (3691; 5% instances), [pt-dep/ccomp]() (3140; 4% instances), [pt-dep/xcomp]() (2740; 4% instances), [pt-dep/advcl]() (2248; 3% instances), [pt-dep/conj]() (1713; 2% instances), [pt-dep/neg]() (1075; 2% instances), [pt-dep/iobj]() (913; 1% instances), [pt-dep/cop]() (498; 1% instances), [pt-dep/aux]() (397; 1% instances), [pt-dep/csubj]() (136; 0% instances), [pt-dep/dep]() (84; 0% instances), [pt-dep/parataxis]() (38; 0% instances), [pt-dep/auxpass:reflex]() (27; 0% instances), [pt-dep/advmod:emph]() (21; 0% instances), [pt-dep/amod]() (18; 0% instances), [pt-dep/nummod]() (15; 0% instances), [pt-dep/acl]() (8; 0% instances), [pt-dep/appos]() (4; 0% instances), [pt-dep/mwe]() (1; 0% instances)
+Children of `VERB` nodes are attached using 29 different relations: [pt-dep/punct]() (15231; 22% instances), [pt-dep/dobj]() (11192; 16% instances), [pt-dep/nsubj]() (9448; 14% instances), [pt-dep/nmod]() (7231; 10% instances), [pt-dep/advmod]() (5418; 8% instances), [pt-dep/mark]() (4634; 7% instances), [pt-dep/xcomp]() (2821; 4% instances), [pt-dep/advcl]() (2357; 3% instances), [pt-dep/cc]() (1957; 3% instances), [pt-dep/ccomp]() (1956; 3% instances), [pt-dep/conj]() (1709; 2% instances), [pt-dep/auxpass]() (1114; 2% instances), [pt-dep/neg]() (1063; 2% instances), [pt-dep/iobj]() (994; 1% instances), [pt-dep/nsubjpass]() (929; 1% instances), [pt-dep/aux]() (846; 1% instances), [pt-dep/cop]() (366; 1% instances), [pt-dep/det]() (151; 0% instances), [pt-dep/csubj]() (129; 0% instances), [pt-dep/dep]() (80; 0% instances), [pt-dep/parataxis]() (41; 0% instances), [pt-dep/auxpass:reflex]() (27; 0% instances), [pt-dep/amod]() (19; 0% instances), [pt-dep/advmod:emph]() (18; 0% instances), [pt-dep/nummod]() (15; 0% instances), [pt-dep/acl]() (8; 0% instances), [pt-dep/csubjpass]() (8; 0% instances), [pt-dep/appos]() (7; 0% instances), [pt-dep/mwe]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 16 different parts of speech: [NOUN]() (20352; 29% instances), [PUNCT]() (15349; 22% instances), [VERB]() (9834; 14% instances), [PRON]() (6144; 9% instances), [ADV]() (5517; 8% instances), [PROPN]() (4205; 6% instances), [ADP]() (3349; 5% instances), [CONJ]() (1762; 3% instances), [SCONJ]() (1720; 2% instances), [ADJ]() (907; 1% instances), [NUM]() (461; 1% instances), [AUX]() (423; 1% instances), [SYM]() (188; 0% instances), [INTJ]() (20; 0% instances), [PART]() (4; 0% instances), [X]() (2; 0% instances)
+Children of `VERB` nodes belong to 17 different parts of speech: [NOUN]() (20245; 29% instances), [PUNCT]() (15231; 22% instances), [VERB]() (9781; 14% instances), [PRON]() (5659; 8% instances), [ADV]() (5480; 8% instances), [PROPN]() (4170; 6% instances), [ADP]() (3320; 5% instances), [CONJ]() (1756; 3% instances), [SCONJ]() (1701; 2% instances), [ADJ]() (881; 1% instances), [NUM]() (464; 1% instances), [DET]() (443; 1% instances), [AUX]() (427; 1% instances), [SYM]() (187; 0% instances), [INTJ]() (19; 0% instances), [PART]() (4; 0% instances), [X]() (2; 0% instances)
 
 
 
@@ -107,20 +107,20 @@ The 10 most frequent `VERB` types:  <em>é, foi, tem, disse, está, são, há, s
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 57316, [ADP]() 51928, [PUNCT]() 42033, [PROPN]() 32948, [VERB]() 29700, [DET]() 26122, [ADJ]() 15107, [CONJ]() 10984, [ADV]() 9773, [NUM]() 8491, [PRON]() 7392, [AUX]() 5242, [PART]() 748, [X]() 539)
 
-The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1536, [AUX]() 233, [PROPN]() 1, [PART]() 1, [ADV]() 1), <em>foi</em> ([AUX]() 755, [VERB]() 430, [PART]() 1, [PROPN]() 1), <em>tem</em> ([VERB]() 343, [AUX]() 87), <em>está</em> ([VERB]() 309, [AUX]() 112), <em>são</em> ([VERB]() 243, [AUX]() 94, [ADJ]() 5), <em>há</em> ([VERB]() 211, [AUX]() 2), <em>ser</em> ([AUX]() 361, [VERB]() 215, [NOUN]() 7, [PROPN]() 2), <em>era</em> ([VERB]() 167, [AUX]() 44, [NOUN]() 6), <em>fazer</em> ([VERB]() 163, [NOUN]() 1), <em>estão</em> ([VERB]() 163, [AUX]() 68)
+The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1536, [AUX]() 233, [ADV]() 1, [PROPN]() 1, [PART]() 1), <em>foi</em> ([AUX]() 755, [VERB]() 430, [PROPN]() 1, [PART]() 1), <em>tem</em> ([VERB]() 343, [AUX]() 87), <em>está</em> ([VERB]() 309, [AUX]() 112), <em>são</em> ([VERB]() 243, [AUX]() 94, [ADJ]() 5), <em>há</em> ([VERB]() 211, [AUX]() 2), <em>ser</em> ([AUX]() 361, [VERB]() 215, [NOUN]() 7, [PROPN]() 2), <em>era</em> ([VERB]() 167, [AUX]() 44, [NOUN]() 6), <em>fazer</em> ([VERB]() 163, [NOUN]() 1), <em>estão</em> ([VERB]() 163, [AUX]() 68)
 
 
 * <em>é</em>
   * [VERB]() 1536: <em>A Nina <b>é</b> a chance de ele ser feliz .</em>
   * [AUX]() 233: <em>A confusão de identidade <b>é</b> levada com destreza pela diretora .</em>
+  * [ADV]() 1: <em>Eu não me detenho muito nas análises a respeito de 2010 porque <b>é</b> muito pouco tempo .</em>
   * [PROPN]() 1: <em>Já o candidato Carlos Amastha ( PP ) , coligação " Um novo caminho <b>é</b> possível " , grava programa eleitoral , faz reunião com coordenadores de campanha e se prepara para o debate .</em>
   * [PART]() 1: <em>Pois <b>é</b> , o ronco dos motores é alto com qualquer tempo .</em>
-  * [ADV]() 1: <em>Eu não me detenho muito nas análises a respeito de 2010 porque <b>é</b> muito pouco tempo .</em>
 * <em>foi</em>
   * [AUX]() 755: <em>Dois anos depois , ele <b>foi</b> preso -- e eu nunca o vi novamente .</em>
   * [VERB]() 430: <em>Você <b>foi</b> a única coisa boa que eu fiz na vida .</em>
-  * [PART]() 1: <em>Para Renato , a melhora dentro das quatro linhas <b>foi</b> fruto dos treinamentos , não sendo a hora de se empolgar para a sequência de trabalho aparecer naturalmente .</em>
   * [PROPN]() 1: <em>" Eu adoro Detalhes , Emoções e tem aquela que não é dele , mas que ninguém cantou como ele que é ' Você <b>foi</b> o maior dos meus casos , de todos os abraços ... ' .</em>
+  * [PART]() 1: <em>Para Renato , a melhora dentro das quatro linhas <b>foi</b> fruto dos treinamentos , não sendo a hora de se empolgar para a sequência de trabalho aparecer naturalmente .</em>
 * <em>tem</em>
   * [VERB]() 343: <em>Ou seja , a Justiça , futuramente , decidirá quem <b>tem</b> razão .</em>
   * [AUX]() 87: <em>O ano de 2012 <b>tem</b> sido especial para a baiana Emanuelle Araújo .</em>

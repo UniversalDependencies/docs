@@ -40,7 +40,7 @@ The 3rd highest number of forms (1) was observed with the lemma “докато�
 
 `SCONJ` nodes are attached to their parents using 4 different relations: [bg-dep/mark]() (1498; 93% instances), [bg-dep/mwe]() (101; 6% instances), [bg-dep/discourse]() (4; 0% instances), [bg-dep/cc]() (3; 0% instances)
 
-Parents of `SCONJ` nodes belong to 4 different parts of speech: [VERB]() (1505; 94% instances), [ADV]() (79; 5% instances), [ADP]() (13; 1% instances), [SCONJ]() (9; 1% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: [VERB]() (1304; 81% instances), [ADV]() (108; 7% instances), [NOUN]() (88; 5% instances), [ADJ]() (77; 5% instances), [ADP]() (13; 1% instances), [SCONJ]() (9; 1% instances), [PRON]() (5; 0% instances), [PROPN]() (2; 0% instances)
 
 1593 (99%) `SCONJ` nodes are leaves.
 

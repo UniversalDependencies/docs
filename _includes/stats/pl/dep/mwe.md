@@ -20,7 +20,7 @@ The following 4 pairs of parts of speech are connected with `mwe`: [pl-pos/ADV](
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 mwe	color:blue
-1	Namierzyli	namierzyć	VERB	praet:pl:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Namierzyli	namierzyć	VERB	praet:pl:m1:perf	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	ich	on	PRON	ppron3:pl:acc:m1:ter:akc:npraep	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	1	dobj	_	_
 3	razem	razem	ADV	adv:_	_	5	case	_	_
 4	z	z	ADP	prep:inst:nwok	AdpType=Prep|Case=Ins|Variant=Short	3	mwe	_	_
@@ -36,7 +36,7 @@ The following 4 pairs of parts of speech are connected with `mwe`: [pl-pos/ADV](
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 mwe	color:blue
-1	Tego	to	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	3	dobj	_	_
+1	Tego	to	PRON	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	dobj	_	_
 2	nie	nie	PART	qub:_	_	3	neg	_	_
 3	wiemy	wiedzieć	VERB	fin:pl:pri:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	na	na	ADP	prep:acc	AdpType=Prep|Case=Acc	3	advmod	_	_
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `mwe`: [pl-pos/ADV](
 9	zacytowane	zacytować	VERB	ppas:sg:nom:n:perf:aff	Aspect=Perf|Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|VerbForm=Part|Voice=Pass	11	acl	_	_
 10	wyżej	wysoko	ADV	adv:com	_	9	advmod	_	_
 11	zdanie	zdanie	NOUN	subst:sg:nom:n	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
-12	stało	stać	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	14	cop	_	_
+12	stało	stać	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	14	cop	_	_
 13	się	się	PRON	qub:_	PronType=Prs|Reflex=Yes	14	expl	_	_
 14	znakiem	znak	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	advcl	_	_
 15	rozpoznawczym	rozpoznawczy	ADJ	adj:sg:inst:m3:pos	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_

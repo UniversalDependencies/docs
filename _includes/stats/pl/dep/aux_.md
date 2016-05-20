@@ -8,10 +8,10 @@ This relation is universal.
 
 1084 nodes (1%) are attached to their parents as `aux`.
 
-827 instances of `aux` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14944649446494.
+804 instances of `aux` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19741697416974.
 
-The following 10 pairs of parts of speech are connected with `aux`: [pl-pos/VERB]()-[pl-pos/AUX]() (813; 75% instances), [pl-pos/VERB]()-[pl-pos/PART]() (167; 15% instances), [pl-pos/PART]()-[pl-pos/AUX]() (43; 4% instances), [pl-pos/NOUN]()-[pl-pos/AUX]() (19; 2% instances), [pl-pos/ADJ]()-[pl-pos/AUX]() (14; 1% instances), [pl-pos/AUX]()-[pl-pos/AUX]() (10; 1% instances), [pl-pos/ADJ]()-[pl-pos/PART]() (9; 1% instances), [pl-pos/AUX]()-[pl-pos/PART]() (6; 1% instances), [pl-pos/NOUN]()-[pl-pos/PART]() (2; 0% instances), [pl-pos/ADV]()-[pl-pos/PART]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: [pl-pos/VERB]()-[pl-pos/AUX]() (1017; 94% instances), [pl-pos/ADJ]()-[pl-pos/AUX]() (24; 2% instances), [pl-pos/VERB]()-[pl-pos/PART]() (19; 2% instances), [pl-pos/NOUN]()-[pl-pos/AUX]() (18; 2% instances), [pl-pos/PRON]()-[pl-pos/AUX]() (3; 0% instances), [pl-pos/AUX]()-[pl-pos/AUX]() (2; 0% instances), [pl-pos/ADV]()-[pl-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,42 +30,36 @@ The following 10 pairs of parts of speech are connected with `aux`: [pl-pos/VERB
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 8 aux	color:blue
-1	A	a	CONJ	conj:_	_	7	advmod	_	_
-2	zresztą	zresztą	PART	qub:_	_	7	advmod	_	_
-3	,	,	PUNCT	interp:_	_	2	punct	_	_
-4	pewnie	pewnie	ADV	adv:pos	Degree=Pos	5	nmod	_	_
-5	i	i	CONJ	conj:_	_	7	advmod	_	_
-6	tak	tak	ADV	adv:_	_	5	case	_	_
-7	zmarnowało	zmarnować	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
-8	by	by	PART	qub:_	_	7	aux	_	_
-9	te	ten	ADJ	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
-10	pieniądze	pieniądz	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	dobj	_	_
-11	.	.	PUNCT	interp:_	_	7	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 aux	color:blue
+1	W	w	ADP	prep:acc:nwok	AdpType=Prep|Case=Acc|Variant=Short	3	case	_	_
+2	jaki	jaki	DET	adj:sg:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Int,Rel	3	det	_	_
+3	sposób	sposób	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	_
+4	tak	tak	ADV	adv:_	_	5	advmod	_	_
+5	szybko	szybko	ADV	adv:pos	Degree=Pos	10	advmod	_	_
+6	stała	stać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	cop	_	_
+7	ś	być	AUX	aglt:sg:sec:imperf:nwok	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Variant=Short|VerbForm=Fin	10	aux	_	_
+8	się	się	PRON	qub:_	PronType=Prs|Reflex=Yes	10	expl	_	_
+9	tak	tak	ADV	adv:_	_	10	advmod	_	_
+10	popularna	popularny	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+11	?	?	PUNCT	interp:_	_	10	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 aux	color:blue
-1	Sprawdźmy	sprawdzić	VERB	impt:pl:pri:perf	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
-2	,	,	PUNCT	interp:_	_	5	punct	_	_
-3	czy	czy	PART	qub:_	_	5	advmod	_	_
-4	istotnie	istotnie	ADV	adv:pos	Degree=Pos	5	advmod	_	_
-5	potrafili	potrafić	VERB	praet:pl:m1:imperf	Animacy=Anim|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	1	ccomp	_	_
-6	by	by	PART	qub:_	_	5	aux	_	_
-7	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Variant=Short|VerbForm=Fin	6	aux	_	_
-8	to	to	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	9	dobj	_	_
-9	zrobić	zrobić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf	5	xcomp	_	_
-10	.	.	PUNCT	interp:_	_	1	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 aux	color:blue
+1	Niech	niech	PART	qub:_	_	3	aux	_	_
+2	tak	tak	ADV	adv:_	_	3	advmod	_	_
+3	myśli	myśleć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	!	!	PUNCT	interp:_	_	3	punct	_	_
 
 ~~~
 

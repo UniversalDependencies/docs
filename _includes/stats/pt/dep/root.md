@@ -9,9 +9,9 @@ This relation is universal.
 9359 nodes (4%) are attached to their parents as `root`.
 
 9359 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.67977348007266.
+Average distance between parent and child is 7.74131851693557.
 
-The following 12 pairs of parts of speech are connected with `root`: [pt-pos/ROOT]()-[pt-pos/VERB]() (6966; 74% instances), [pt-pos/ROOT]()-[pt-pos/NOUN]() (1318; 14% instances), [pt-pos/ROOT]()-[pt-pos/ADJ]() (466; 5% instances), [pt-pos/ROOT]()-[pt-pos/PROPN]() (326; 3% instances), [pt-pos/ROOT]()-[pt-pos/PRON]() (128; 1% instances), [pt-pos/ROOT]()-[pt-pos/ADV]() (49; 1% instances), [pt-pos/ROOT]()-[pt-pos/NUM]() (44; 0% instances), [pt-pos/ROOT]()-[pt-pos/SYM]() (23; 0% instances), [pt-pos/ROOT]()-[pt-pos/CONJ]() (14; 0% instances), [pt-pos/ROOT]()-[pt-pos/INTJ]() (13; 0% instances), [pt-pos/ROOT]()-[pt-pos/ADP]() (10; 0% instances), [pt-pos/ROOT]()-[pt-pos/SCONJ]() (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: [pt-pos/ROOT]()-[pt-pos/VERB]() (6906; 74% instances), [pt-pos/ROOT]()-[pt-pos/NOUN]() (1349; 14% instances), [pt-pos/ROOT]()-[pt-pos/ADJ]() (483; 5% instances), [pt-pos/ROOT]()-[pt-pos/PROPN]() (336; 4% instances), [pt-pos/ROOT]()-[pt-pos/PRON]() (120; 1% instances), [pt-pos/ROOT]()-[pt-pos/ADV]() (50; 1% instances), [pt-pos/ROOT]()-[pt-pos/NUM]() (46; 0% instances), [pt-pos/ROOT]()-[pt-pos/SYM]() (23; 0% instances), [pt-pos/ROOT]()-[pt-pos/CONJ]() (14; 0% instances), [pt-pos/ROOT]()-[pt-pos/INTJ]() (12; 0% instances), [pt-pos/ROOT]()-[pt-pos/ADP]() (10; 0% instances), [pt-pos/ROOT]()-[pt-pos/DET]() (8; 0% instances), [pt-pos/ROOT]()-[pt-pos/SCONJ]() (2; 0% instances).
 
 
 ~~~ conllu

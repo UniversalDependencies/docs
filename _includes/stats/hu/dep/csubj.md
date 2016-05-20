@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-104 nodes (0%) are attached to their parents as `csubj`.
+152 nodes (0%) are attached to their parents as `csubj`.
 
-94 instances of `csubj` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.48076923076923.
+138 instances of `csubj` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.19078947368421.
 
-The following 11 pairs of parts of speech are connected with `csubj`: [hu-pos/VERB]()-[hu-pos/VERB]() (39; 38% instances), [hu-pos/ADJ]()-[hu-pos/VERB]() (31; 30% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (24; 23% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (2; 2% instances), [hu-pos/PRON]()-[hu-pos/VERB]() (2; 2% instances), [hu-pos/DET]()-[hu-pos/VERB]() (1; 1% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (1; 1% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `csubj`: [hu-pos/VERB]()-[hu-pos/VERB]() (55; 36% instances), [hu-pos/ADJ]()-[hu-pos/VERB]() (48; 32% instances), [hu-pos/NOUN]()-[hu-pos/VERB]() (29; 19% instances), [hu-pos/PRON]()-[hu-pos/VERB]() (4; 3% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (3; 2% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (3; 2% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (2; 1% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (2; 1% instances), [hu-pos/DET]()-[hu-pos/VERB]() (1; 1% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (1; 1% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/AUX]() (1; 1% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (1; 1% instances).
 
 
 ~~~ conllu

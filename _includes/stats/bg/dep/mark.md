@@ -9,9 +9,9 @@ This relation is universal.
 1838 nodes (1%) are attached to their parents as `mark`.
 
 1838 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.2829162132753.
+Average distance between parent and child is 3.45538628944505.
 
-The following 5 pairs of parts of speech are connected with `mark`: [bg-pos/VERB]()-[bg-pos/SCONJ]() (1498; 82% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (260; 14% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (73; 4% instances), [bg-pos/VERB]()-[bg-pos/PART]() (4; 0% instances), [bg-pos/VERB]()-[bg-pos/CONJ]() (3; 0% instances).
+The following 16 pairs of parts of speech are connected with `mark`: [bg-pos/VERB]()-[bg-pos/SCONJ]() (1298; 71% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (256; 14% instances), [bg-pos/NOUN]()-[bg-pos/SCONJ]() (88; 5% instances), [bg-pos/ADJ]()-[bg-pos/SCONJ]() (76; 4% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (60; 3% instances), [bg-pos/ADV]()-[bg-pos/SCONJ]() (29; 2% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (7; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (5; 0% instances), [bg-pos/PRON]()-[bg-pos/SCONJ]() (5; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (4; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADP]() (3; 0% instances), [bg-pos/PROPN]()-[bg-pos/SCONJ]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/CONJ]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADP]() (1; 0% instances), [bg-pos/ADJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,17 +58,16 @@ The following 5 pairs of parts of speech are connected with `mark`: [bg-pos/VERB
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 mark	color:blue
-1	Няма	нямам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	пострадали	пострадам	ADJ	Vppicao-p-i	Aspect=Perf|Definite=Ind|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	1	dobj	_	_
+1	-	-	PUNCT	punct	_	2	punct	_	_
+2	Излиза	излизам	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	,	,	PUNCT	punct	_	7	punct	_	_
-4	тъй	така	ADV	Pdm	PronType=Dem	7	mark	_	_
-5	като	като	SCONJ	Cs	_	4	mwe	_	_
-6	шофьорът	шофьор	NOUN	Ncmsf	Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
-7	бил	съм	VERB	Vxitcat-smi	Aspect=Imp|Definite=Ind|Gender=Masc|Mood=Ind|Number=Sing|VerbForm=Part|Voice=Act	1	advcl	_	_
-8	в	в	ADP	R	_	10	case	_	_
-9	близкото	близък	ADJ	Ansd	Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
-10	кафене	кафене	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	7	cop	_	_
-11	.	.	PUNCT	punct	_	1	punct	_	_
+4	че	че	SCONJ	Cs	_	7	mark	_	_
+5	сте	съм	VERB	Vxitf-r2p	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	голям	голям	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	враг	враг	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	ccomp	_	_
+8	на	на	ADP	R	_	9	case	_	_
+9	синдикатите	синдикат	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	_
+10	...	...	PUNCT	punct	_	2	punct	_	_
 
 ~~~
 

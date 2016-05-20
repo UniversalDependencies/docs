@@ -9,9 +9,9 @@ This relation is universal.
 12677 nodes (5%) are attached to their parents as `root`.
 
 12677 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.60889800425968.
+Average distance between parent and child is 6.59493571034156.
 
-The following 12 pairs of parts of speech are connected with `root`: [it-pos/ROOT]()-[it-pos/VERB]() (8808; 69% instances), [it-pos/ROOT]()-[it-pos/NOUN]() (2093; 17% instances), [it-pos/ROOT]()-[it-pos/ADJ]() (696; 5% instances), [it-pos/ROOT]()-[it-pos/PRON]() (680; 5% instances), [it-pos/ROOT]()-[it-pos/PROPN]() (222; 2% instances), [it-pos/ROOT]()-[it-pos/NUM]() (86; 1% instances), [it-pos/ROOT]()-[it-pos/ADV]() (71; 1% instances), [it-pos/ROOT]()-[it-pos/AUX]() (6; 0% instances), [it-pos/ROOT]()-[it-pos/INTJ]() (6; 0% instances), [it-pos/ROOT]()-[it-pos/PUNCT]() (3; 0% instances), [it-pos/ROOT]()-[it-pos/SCONJ]() (3; 0% instances), [it-pos/ROOT]()-[it-pos/X]() (3; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: [it-pos/ROOT]()-[it-pos/VERB]() (8809; 69% instances), [it-pos/ROOT]()-[it-pos/NOUN]() (2092; 17% instances), [it-pos/ROOT]()-[it-pos/PRON]() (691; 5% instances), [it-pos/ROOT]()-[it-pos/ADJ]() (689; 5% instances), [it-pos/ROOT]()-[it-pos/PROPN]() (221; 2% instances), [it-pos/ROOT]()-[it-pos/NUM]() (86; 1% instances), [it-pos/ROOT]()-[it-pos/ADV]() (72; 1% instances), [it-pos/ROOT]()-[it-pos/INTJ]() (6; 0% instances), [it-pos/ROOT]()-[it-pos/AUX]() (4; 0% instances), [it-pos/ROOT]()-[it-pos/SCONJ]() (3; 0% instances), [it-pos/ROOT]()-[it-pos/X]() (3; 0% instances), [it-pos/ROOT]()-[it-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,19 +54,19 @@ The following 12 pairs of parts of speech are connected with `root`: [it-pos/ROO
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 2 root	color:blue
-1	È	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
-3	,	,	PUNCT	FF	_	2	punct	_	_
-4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubjpass	_	_
-5	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
-6	essere	essere	AUX	VA	VerbForm=Inf	7	auxpass	_	_
-7	sostituiti	sostituire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	parataxis	_	_
-8	.	.	PUNCT	FS	_	2	punct	_	_
+# visual-style 0 3 root	color:blue
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	stata	essere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	_
+3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	7	dobj	_	_
+5	ci	ci	PRON	PC	PronType=Clit	7	expl	_	_
+6	si	si	PRON	PC	Person=3|PronType=Clit	7	expl:impers	_	_
+7	attendeva	attendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+8	:	:	PUNCT	FC	_	3	punct	_	_
 
 ~~~
 

@@ -120,7 +120,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 186 [da-pos/AUX]() tokens (4% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part,Trans</tt> (186; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (186; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (186; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (186; 100%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (186; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part,Trans</tt> (186; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (186; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (186; 100%).
 
 `AUX` tokens may have the following values of `Number`:
 

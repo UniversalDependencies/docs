@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [compound]().
 
-329 nodes (1%) are attached to their parents as `compound:preverb`.
+478 nodes (1%) are attached to their parents as `compound:preverb`.
 
-276 instances of `compound:preverb` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17021276595745.
+401 instances of `compound:preverb` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16945606694561.
 
-The following 9 pairs of parts of speech are connected with `compound:preverb`: [hu-pos/VERB]()-[hu-pos/ADV]() (235; 71% instances), [hu-pos/VERB]()-[hu-pos/PART]() (63; 19% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (9; 3% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (8; 2% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (7; 2% instances), [hu-pos/ADV]()-[hu-pos/ADV]() (4; 1% instances), [hu-pos/ADJ]()-[hu-pos/PART]() (1; 0% instances), [hu-pos/ADV]()-[hu-pos/PART]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `compound:preverb`: [hu-pos/VERB]()-[hu-pos/ADV]() (333; 70% instances), [hu-pos/VERB]()-[hu-pos/PART]() (103; 22% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (14; 3% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (9; 2% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (8; 2% instances), [hu-pos/ADV]()-[hu-pos/ADV]() (4; 1% instances), [hu-pos/ADJ]()-[hu-pos/PART]() (3; 1% instances), [hu-pos/ADV]()-[hu-pos/PART]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADP]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -66,7 +66,7 @@ The following 9 pairs of parts of speech are connected with `compound:preverb`: 
 9	hogy	hogy	SCONJ	_	_	13	mark	_	_
 10	később	későn	ADV	_	_	13	advmod:tlocy	_	_
 11	bele	ő	PRON	_	Case=Ill|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Prs	13	compound:preverb	_	_
-12	ne	ne	ADV	_	PronType=Neg	13	neg	_	_
+12	name	ne	ADV	_	PronType=Neg	13	neg	_	_
 13	szédüljön	szédül	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
 14	az	az	DET	_	Definite=Def|PronType=Art	15	det	_	_
 15	ember	ember	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	13	nsubj	_	_

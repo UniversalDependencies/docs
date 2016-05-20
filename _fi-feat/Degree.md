@@ -34,3 +34,9 @@ things within a set.
 
 * [fi] _<b>paras</b> tulos_ "_<b>best</b> result_"
 * [fi] _<b>nopeimmin</b> kasvavat_ "_<b>fastest</b> grow_"
+
+### Diff
+
+#### FinnTreeBank
+
+The FI_FTB corpus applies the degree of comparison only when it is noticeable in the word form (that is, in comparative or superlative). Positive (Pos) is not used, as not all adjectives, adverbs and verb participles can appear in the other degrees of comparison at all.

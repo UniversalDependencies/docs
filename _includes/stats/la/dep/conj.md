@@ -73,75 +73,73 @@ The following 41 pairs of parts of speech are connected with `conj`: [la-pos/VER
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-7761 nodes (3%) are attached to their parents as `conj`.
+10474 nodes (4%) are attached to their parents as `conj`.
 
-7761 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.20268006700168.
+10474 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.76188657628413.
 
-The following 53 pairs of parts of speech are connected with `conj`: [la-pos/NOUN]()-[la-pos/NOUN]() (2704; 35% instances), [la-pos/VERB]()-[la-pos/VERB]() (1751; 23% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (674; 9% instances), [la-pos/VERB]()-[la-pos/NOUN]() (451; 6% instances), [la-pos/VERB]()-[la-pos/ADJ]() (293; 4% instances), [la-pos/NOUN]()-[la-pos/VERB]() (245; 3% instances), [la-pos/ADJ]()-[la-pos/VERB]() (231; 3% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (173; 2% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (171; 2% instances), [la-pos/VERB]()-[la-pos/ADV]() (152; 2% instances), [la-pos/PRON]()-[la-pos/PRON]() (131; 2% instances), [la-pos/NOUN]()-[la-pos/PRON]() (108; 1% instances), [la-pos/VERB]()-[la-pos/PRON]() (87; 1% instances), [la-pos/PRON]()-[la-pos/NOUN]() (66; 1% instances), [la-pos/NOUN]()-[la-pos/ADV]() (61; 1% instances), [la-pos/ADV]()-[la-pos/ADJ]() (59; 1% instances), [la-pos/NUM]()-[la-pos/PRON]() (43; 1% instances), [la-pos/PRON]()-[la-pos/VERB]() (38; 0% instances), [la-pos/ADV]()-[la-pos/NOUN]() (33; 0% instances), [la-pos/NUM]()-[la-pos/ADJ]() (30; 0% instances), [la-pos/ADV]()-[la-pos/ADV]() (26; 0% instances), [la-pos/ADJ]()-[la-pos/ADV]() (24; 0% instances), [la-pos/X]()-[la-pos/X]() (23; 0% instances), [la-pos/ADJ]()-[la-pos/PRON]() (22; 0% instances), [la-pos/NUM]()-[la-pos/NUM]() (19; 0% instances), [la-pos/PRON]()-[la-pos/ADJ]() (19; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (15; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (12; 0% instances), [la-pos/PRON]()-[la-pos/ADV]() (11; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (10; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (9; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (9; 0% instances), [la-pos/ADV]()-[la-pos/PRON]() (7; 0% instances), [la-pos/NOUN]()-[la-pos/DET]() (7; 0% instances), [la-pos/DET]()-[la-pos/ADJ]() (6; 0% instances), [la-pos/DET]()-[la-pos/PRON]() (6; 0% instances), [la-pos/VERB]()-[la-pos/DET]() (5; 0% instances), [la-pos/NUM]()-[la-pos/X]() (4; 0% instances), [la-pos/ADJ]()-[la-pos/DET]() (3; 0% instances), [la-pos/DET]()-[la-pos/DET]() (3; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (3; 0% instances), [la-pos/AUX]()-[la-pos/AUX]() (2; 0% instances), [la-pos/DET]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/NUM]() (2; 0% instances), [la-pos/PRON]()-[la-pos/DET]() (2; 0% instances), [la-pos/PRON]()-[la-pos/NUM]() (2; 0% instances), [la-pos/ADP]()-[la-pos/ADP]() (1; 0% instances), [la-pos/ADV]()-[la-pos/DET]() (1; 0% instances), [la-pos/ADV]()-[la-pos/NUM]() (1; 0% instances), [la-pos/DET]()-[la-pos/VERB]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADP]() (1; 0% instances), [la-pos/X]()-[la-pos/NUM]() (1; 0% instances), [la-pos/X]()-[la-pos/VERB]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 10 conj	color:blue
-1	quoniam	quoniam	SCONJ	O4	_	4	mark	_	_
-2	haec	hic	PRON	F1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
-3	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-4	pars	pars	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
-5	nostra	noster	DET	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	amod	_	_
-6	,	,	PUNCT	Punc	_	4	punct	_	_
-7	et	et	CONJ	O4	_	4	cc	_	_
-8	haec	hic	PRON	F1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	10	nsubj	_	_
-9	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
-10	sors	sors	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	conj	_	_
-11	nostra	noster	DET	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	amod	_	_
-12	.	.	PUNCT	Punc	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 conj	color:blue
-1	quinimmo	quinimmo	ADV	O4|vgr1	_	8	advmod	_	_
-2	carentes	careo	VERB	K2|modD|tem1|grp1|casJ|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	csubj	_	_
-3	ea	is	PRON	F1|grn1|casF|gen2	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem,Prs	2	dobj	_	_
-4	et	et	CONJ	O4	_	2	cc	_	_
-5	in	in	ADP	S4	AdpType=Prep	6	case	_	_
-6	ipsam	ipse	PRON	F1|grn1|casD|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem,Prs	7	dobj	_	_
-7	tendentes	tendo	VERB	L2|modD|tem1|grp1|casJ|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	conj	_	_
-8	laudantur	laudo	VERB	J3|modJ|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-9	.	.	PUNCT	Punc	_	8	punct	_	_
-
-~~~
+The following 64 pairs of parts of speech are connected with `conj`: [la-pos/NOUN]()-[la-pos/NOUN]() (3144; 30% instances), [la-pos/VERB]()-[la-pos/VERB]() (2155; 21% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (790; 8% instances), [la-pos/VERB]()-[la-pos/NOUN]() (734; 7% instances), [la-pos/VERB]()-[la-pos/ADJ]() (400; 4% instances), [la-pos/NOUN]()-[la-pos/VERB]() (343; 3% instances), [la-pos/ADJ]()-[la-pos/VERB]() (302; 3% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (263; 3% instances), [la-pos/ADV]()-[la-pos/NOUN]() (221; 2% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (215; 2% instances), [la-pos/PRON]()-[la-pos/PRON]() (203; 2% instances), [la-pos/VERB]()-[la-pos/ADV]() (184; 2% instances), [la-pos/VERB]()-[la-pos/PRON]() (166; 2% instances), [la-pos/NOUN]()-[la-pos/PRON]() (161; 2% instances), [la-pos/NOUN]()-[la-pos/ADV]() (158; 2% instances), [la-pos/PRON]()-[la-pos/NOUN]() (142; 1% instances), [la-pos/ADV]()-[la-pos/ADJ]() (93; 1% instances), [la-pos/ADV]()-[la-pos/VERB]() (83; 1% instances), [la-pos/PRON]()-[la-pos/VERB]() (71; 1% instances), [la-pos/ADJ]()-[la-pos/PRON]() (61; 1% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (61; 1% instances), [la-pos/ADV]()-[la-pos/PRON]() (48; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (45; 0% instances), [la-pos/PRON]()-[la-pos/ADV]() (41; 0% instances), [la-pos/PRON]()-[la-pos/ADJ]() (40; 0% instances), [la-pos/ADJ]()-[la-pos/ADV]() (34; 0% instances), [la-pos/ADV]()-[la-pos/ADV]() (32; 0% instances), [la-pos/NUM]()-[la-pos/ADJ]() (32; 0% instances), [la-pos/NUM]()-[la-pos/NUM]() (26; 0% instances), [la-pos/X]()-[la-pos/X]() (26; 0% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (24; 0% instances), [la-pos/PROPN]()-[la-pos/PROPN]() (24; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (15; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (14; 0% instances), [la-pos/VERB]()-[la-pos/PROPN]() (14; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (12; 0% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (11; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (10; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (8; 0% instances), [la-pos/PROPN]()-[la-pos/VERB]() (8; 0% instances), [la-pos/ADJ]()-[la-pos/PROPN]() (5; 0% instances), [la-pos/DET]()-[la-pos/ADJ]() (5; 0% instances), [la-pos/DET]()-[la-pos/PRON]() (5; 0% instances), [la-pos/NUM]()-[la-pos/X]() (5; 0% instances), [la-pos/ADV]()-[la-pos/NUM]() (4; 0% instances), [la-pos/NOUN]()-[la-pos/NUM]() (4; 0% instances), [la-pos/ADV]()-[la-pos/PROPN]() (3; 0% instances), [la-pos/CONJ]()-[la-pos/VERB]() (3; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (3; 0% instances), [la-pos/PRON]()-[la-pos/NUM]() (3; 0% instances), [la-pos/PROPN]()-[la-pos/ADV]() (3; 0% instances), [la-pos/ADP]()-[la-pos/ADP]() (2; 0% instances), [la-pos/ADP]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/AUX]()-[la-pos/AUX]() (2; 0% instances), [la-pos/VERB]()-[la-pos/ADP]() (2; 0% instances), [la-pos/ADP]()-[la-pos/VERB]() (1; 0% instances), [la-pos/DET]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/ADP]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/NUM]() (1; 0% instances), [la-pos/VERB]()-[la-pos/PUNCT]() (1; 0% instances), [la-pos/VERB]()-[la-pos/X]() (1; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/X]()-[la-pos/NUM]() (1; 0% instances), [la-pos/X]()-[la-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 conj	color:blue
-1	unde	unde	ADV	O4	_	4	cc	_	_
-2	et	et	CONJ	O4	_	3	advmod:emph	_	_
-3	magis	magis	ADV	O4	_	4	advmod	_	_
-4	gaudent	gaudeo	VERB	K3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	homines	homo	NOUN	C1|grn1|casJ|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	nsubj	_	_
-6	a	a	ADP	S4|vgr1	AdpType=Prep	7	case	_	_
-7	magnis	magnus	ADJ	B1|grn1|casO|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	10	dobj	_	_
-8	et	et	CONJ	O4	_	7	cc	_	_
-9	sapientibus	sapiens	ADJ	C1|grn1|casO|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	7	conj	_	_
-10	honorari	honoro	VERB	J3|modQ|tem1	Tense=Pres|VerbForm=Inf|Voice=Pass	4	xcomp	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 9 conj	color:blue
+1	prope	prope	ADP	S4|stRL	AdpType=Prep	2	advmod	_	_
+2	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	verbum	verbum	NOUN	B1|grn1|casA|gen3|vgr1|stAE	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	nsubj	_	_
+4	in	in	ADP	S4|stRL	AdpType=Prep	5	case	_	_
+5	corde	cor	NOUN	C1|grn1|casF|gen3|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	2	nmod	_	_
+6	tuo	tuus	DET	B1|grn1|casF|gen3|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	_
+7	et	et	CONJ	O4|stRL	_	5	cc	_	_
+8	in	in	ADP	S4|stRL	AdpType=Prep	9	case	_	_
+9	ore	os	NOUN	C1|grn1|casF|gen3|stRS	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	5	conj	_	_
+10	tuo	tuus	DET	B1|grn1|casF|gen3|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	_
+11	:	:	PUNCT	Punc	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 conj	color:blue
+1	haec	hic	PRON	F1|grn1|casM|gen3|vgr1|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|PronType=Dem	2	dobj	_	_
+2	credendo	credo	VERB	L2|modE|grp1|casF|stAC	Case=Abl|Degree=Pos|Number=Sing|VerbForm=Ger|Voice=Act	3	advcl	_	_
+3	incipe	incipio	VERB	L3|modC|tem1|gen5|stAV	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	,	,	PUNCT	Punc	_	3	punct	_	_
+5	procurre	procurro	VERB	L3|modC|tem1|gen5|stAV	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	,	,	PUNCT	Punc	_	3	punct	_	_
+7	persiste	persisto	VERB	L3|modC|tem1|gen5|stAV	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+8	:	:	PUNCT	Punc	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 conj	color:blue
+1	nec	nec	CONJ	O4|stRL	_	4	cc	_	_
+2	iterum	iterum	ADV	O4|stRL	_	4	advmod	_	_
+3	quae	qui	PRON	F1|grn1|casJ|gen3|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|PronType=Rel	4	nsubjpass	_	_
+4	moventur	moveo	VERB	K3|modJ|tem1|gen9|vgr1|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	per	per	ADP	S4|stRL	AdpType=Prep	6	case	_	_
+6	naturam	natura	NOUN	A1|grn1|casD|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	nmod	_	_
+7	ut	ut	SCONJ	O4|vgr1|stRL	_	8	mark	_	_
+8	gravia	gravis	ADJ	C1|grn1|casJ|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	dep	_	_
+9	et	et	CONJ	O4|stRL	_	8	cc	_	_
+10	levia	levis	ADJ	C1|grn1|casJ|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	8	conj	_	_
 11	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~

@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: <em>baino, de, ohi, del, ea, el, ezta, la, gehi
 
 The 10 most frequent `X` types:  <em>baino, de, ohi, del, ea, el, ezta, la, gehi, Enfin</em>
 
-The 10 most frequent ambiguous lemmas: <em>baino</em> ([X]() 84, [CONJ]() 5), <em>ohi</em> ([ADJ]() 43, [X]() 11), <em>ea</em> ([X]() 8, [INTJ]() 2), <em>ezta</em> ([X]() 4, [CONJ]() 3), <em>la</em> ([NOUN]() 2, [X]() 2), <em>gehi</em> ([NOUN]() 5, [X]() 2), <em>Las</em> ([PROPN]() 4, [X]() 1), <em>non</em> ([ADV]() 16, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>baino</em> ([X]() 84, [CONJ]() 5), <em>ohi</em> ([ADJ]() 43, [X]() 11), <em>ea</em> ([X]() 8, [INTJ]() 2), <em>ezta</em> ([X]() 4, [CONJ]() 3), <em>la</em> ([X]() 2, [NOUN]() 2), <em>gehi</em> ([NOUN]() 5, [X]() 2), <em>Las</em> ([PROPN]() 4, [X]() 1), <em>non</em> ([ADV]() 16, [X]() 1)
 
 The 10 most frequent ambiguous types:  <em>baino</em> ([X]() 84, [CONJ]() 5), <em>ohi</em> ([X]() 10, [ADJ]() 7), <em>ea</em> ([X]() 8, [INTJ]() 2, [CONJ]() 1), <em>ezta</em> ([X]() 4, [CONJ]() 3), <em>la</em> ([X]() 2, [NOUN]() 1), <em>Las</em> ([PROPN]() 4, [X]() 1), <em>non</em> ([ADV]() 13, [X]() 1)
 

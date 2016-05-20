@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-682 nodes (3%) are attached to their parents as `name`.
+1006 nodes (2%) are attached to their parents as `name`.
 
-682 instances of `name` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.00293255131965.
+1006 instances of `name` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.00397614314115.
 
-The following 12 pairs of parts of speech are connected with `name`: [hu-pos/PROPN]()-[hu-pos/PROPN]() (643; 94% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (20; 3% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (6; 1% instances), [hu-pos/NOUN]()-[hu-pos/PROPN]() (5; 1% instances), [hu-pos/ADJ]()-[hu-pos/DET]() (1; 0% instances), [hu-pos/DET]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/DET]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/X]() (1; 0% instances), [hu-pos/X]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/X]()-[hu-pos/PROPN]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `name`: [hu-pos/PROPN]()-[hu-pos/PROPN]() (937; 93% instances), [hu-pos/ADJ]()-[hu-pos/PROPN]() (23; 2% instances), [hu-pos/CONJ]()-[hu-pos/PROPN]() (13; 1% instances), [hu-pos/PROPN]()-[hu-pos/CONJ]() (13; 1% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (6; 1% instances), [hu-pos/NOUN]()-[hu-pos/PROPN]() (5; 0% instances), [hu-pos/ADJ]()-[hu-pos/DET]() (1; 0% instances), [hu-pos/DET]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/DET]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/X]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/ADJ]() (1; 0% instances), [hu-pos/X]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/X]()-[hu-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,23 +60,26 @@ The following 12 pairs of parts of speech are connected with `name`: [hu-pos/PRO
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 name	color:blue
-1	Dr.	dr.	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	2	name	_	_
-2	Zacher	Zacher	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	3	name	_	_
-3	Gábor	Gábor	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	nmod:att	_	_
-4	főorvos	főorvos	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	nsubj	_	_
-5	arról	az	PRON	_	Case=Del|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	6	nmod:obl	_	_
-6	tájékoztatott	tájékozódik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	hogy	hogy	SCONJ	_	_	11	mark	_	_
-9	megerősített	megerősített	ADJ	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPast	10	amod:att	_	_
-10	ügyeletet	ügyelet	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	11	dobj:lvc	_	_
-11	tartanak	tart	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp:obl	_	_
-12	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 name	color:blue
+1	1997	1997	NUM	_	Case=Nom|Number=Sing|NumType=Card	2	amod:att	_	_
+2	decembere	december	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	nmod	_	_
+3	óta	óta	ADP	_	_	2	case	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
+5	London	London	PROPN	_	Case=Nom|Number=Sing	6	name	_	_
+6	Bróker	Bróker	PROPN	_	Case=Nom|Number=Sing	7	name	_	_
+7	Rt.	Rt.	PROPN	_	Case=Nom|Number=Sing	8	nmod:att	_	_
+8	tulajdonosa	tulajdonos	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	nsubj	_	_
+9	a	a	DET	_	Definite=Def|PronType=Art	14	det	_	_
+10	Portofinó	Portofinó	PROPN	_	Case=Nom|Number=Sing	11	name	_	_
+11	Építő	Építő	PROPN	_	Case=Nom|Number=Sing	12	name	_	_
+12	és	és	CONJ	_	_	13	name	_	_
+13	Szolgáltató	Szolgáltató	PROPN	_	Case=Nom|Number=Sing	14	name	_	_
+14	Kft	Kft	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~
 

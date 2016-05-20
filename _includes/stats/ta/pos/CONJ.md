@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 1.000000 (the average of all parts of speech is 1.559122).
+The form / lemma ratio of `CONJ` is 1.000000 (the average of all parts of speech is 1.557992).
 
 The 1st highest number of forms (1) was observed with the lemma “அல்லது”: அல்லது.
 
@@ -30,7 +30,7 @@ The 2nd highest number of forms (1) was observed with the lemma “மற்ற�
 
 ## Relations
 
-`CONJ` nodes are attached to their parents using 2 different relations: [ta-dep/cc]() (43; 93% instances), [ta-dep/nmod]() (3; 7% instances)
+`CONJ` nodes are attached to their parents using 1 different relations: [ta-dep/cc]() (46; 100% instances)
 
 Parents of `CONJ` nodes belong to 4 different parts of speech: [NOUN]() (29; 63% instances), [PROPN]() (14; 30% instances), [VERB]() (2; 4% instances), [NUM]() (1; 2% instances)
 

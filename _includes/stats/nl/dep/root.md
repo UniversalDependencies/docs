@@ -9,9 +9,9 @@ This relation is universal.
 13735 nodes (7%) are attached to their parents as `root`.
 
 13735 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.31488896978522.
+Average distance between parent and child is 4.65882781215872.
 
-The following 15 pairs of parts of speech are connected with `root`: [nl-pos/ROOT]()-[nl-pos/VERB]() (7918; 58% instances), [nl-pos/ROOT]()-[nl-pos/AUX]() (1899; 14% instances), [nl-pos/ROOT]()-[nl-pos/NOUN]() (1651; 12% instances), [nl-pos/ROOT]()-[nl-pos/ADJ]() (996; 7% instances), [nl-pos/ROOT]()-[nl-pos/CONJ]() (319; 2% instances), [nl-pos/ROOT]()-[nl-pos/PRON]() (300; 2% instances), [nl-pos/ROOT]()-[nl-pos/X]() (177; 1% instances), [nl-pos/ROOT]()-[nl-pos/ADV]() (170; 1% instances), [nl-pos/ROOT]()-[nl-pos/PROPN]() (156; 1% instances), [nl-pos/ROOT]()-[nl-pos/INTJ]() (53; 0% instances), [nl-pos/ROOT]()-[nl-pos/NUM]() (53; 0% instances), [nl-pos/ROOT]()-[nl-pos/SYM]() (25; 0% instances), [nl-pos/ROOT]()-[nl-pos/SCONJ]() (11; 0% instances), [nl-pos/ROOT]()-[nl-pos/PUNCT]() (4; 0% instances), [nl-pos/ROOT]()-[nl-pos/ADP]() (3; 0% instances).
+The following 16 pairs of parts of speech are connected with `root`: [nl-pos/ROOT]()-[nl-pos/VERB]() (7237; 53% instances), [nl-pos/ROOT]()-[nl-pos/AUX]() (1938; 14% instances), [nl-pos/ROOT]()-[nl-pos/NOUN]() (1907; 14% instances), [nl-pos/ROOT]()-[nl-pos/ADJ]() (941; 7% instances), [nl-pos/ROOT]()-[nl-pos/PRON]() (636; 5% instances), [nl-pos/ROOT]()-[nl-pos/CONJ]() (319; 2% instances), [nl-pos/ROOT]()-[nl-pos/PROPN]() (230; 2% instances), [nl-pos/ROOT]()-[nl-pos/ADV]() (228; 2% instances), [nl-pos/ROOT]()-[nl-pos/X]() (101; 1% instances), [nl-pos/ROOT]()-[nl-pos/NUM]() (56; 0% instances), [nl-pos/ROOT]()-[nl-pos/INTJ]() (53; 0% instances), [nl-pos/ROOT]()-[nl-pos/SCONJ]() (25; 0% instances), [nl-pos/ROOT]()-[nl-pos/SYM]() (25; 0% instances), [nl-pos/ROOT]()-[nl-pos/ADP]() (20; 0% instances), [nl-pos/ROOT]()-[nl-pos/DET]() (15; 0% instances), [nl-pos/ROOT]()-[nl-pos/PUNCT]() (4; 0% instances).
 
 
 ~~~ conllu
@@ -67,6 +67,71 @@ The following 15 pairs of parts of speech are connected with `root`: [nl-pos/ROO
 5	lap	lap	NOUN	N|soort|ev|neut	Number=Sing	0	root	_	_
 6	vlees	vlees	NOUN	N|soort|ev|neut	Number=Sing	5	nmod	_	_
 7	.	.	PUNCT	Punc|punt	PunctType=Peri	5	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Dutch-LassySmall)
+
+This relation is universal.
+
+7341 nodes (7%) are attached to their parents as `root`.
+
+7341 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.22571856695273.
+
+The following 14 pairs of parts of speech are connected with `root`: [nl-pos/ROOT]()-[nl-pos/VERB]() (3161; 43% instances), [nl-pos/ROOT]()-[nl-pos/NOUN]() (1817; 25% instances), [nl-pos/ROOT]()-[nl-pos/PROPN]() (1229; 17% instances), [nl-pos/ROOT]()-[nl-pos/NUM]() (543; 7% instances), [nl-pos/ROOT]()-[nl-pos/ADJ]() (345; 5% instances), [nl-pos/ROOT]()-[nl-pos/DET]() (61; 1% instances), [nl-pos/ROOT]()-[nl-pos/X]() (55; 1% instances), [nl-pos/ROOT]()-[nl-pos/SYM]() (45; 1% instances), [nl-pos/ROOT]()-[nl-pos/PRON]() (41; 1% instances), [nl-pos/ROOT]()-[nl-pos/PUNCT]() (15; 0% instances), [nl-pos/ROOT]()-[nl-pos/ADV]() (12; 0% instances), [nl-pos/ROOT]()-[nl-pos/ADP]() (10; 0% instances), [nl-pos/ROOT]()-[nl-pos/SCONJ]() (6; 0% instances), [nl-pos/ROOT]()-[nl-pos/INTJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 4 root	color:blue
+1	De	de	DET	_	Definite=Def	2	det	_	_
+2	gemeente	gemeente	NOUN	_	Gender=Com|Number=Sing	4	nsubj	_	_
+3	Nazareth	Nazareth	PROPN	_	Gender=Neut|Number=Sing	2	appos	_	_
+4	grenst	grenzen	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	aan	aan	ADP	_	_	7	case	_	_
+6	volgende	volgen	VERB	_	VerbForm=Part	7	advmod	_	_
+7	gemeenten	gemeente	NOUN	_	Number=Plur	4	nmod	_	_
+8	en	en	CONJ	_	_	7	cc	_	_
+9	deelgemeenten	deelgemeente	NOUN	_	Number=Plur	7	conj	_	_
+10	:	:	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 2 root	color:blue
+1	Plechtige	plechtig	ADJ	_	Degree=Pos	2	amod	_	_
+2	aankondiging	aankondiging	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
+3	van	van	ADP	_	_	5	case	_	_
+4	de	de	DET	_	Definite=Def	5	det	_	_
+5	dood	dood	NOUN	_	Gender=Com|Number=Sing	2	nmod	_	_
+6	des	de	DET	_	Definite=Def	7	det	_	_
+7	Konings	koning	NOUN	_	Number=Sing	5	nmod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 1 root	color:blue
+1	Dirk	Dirk	PROPN	_	_	0	root	_	_
+2	Frimout	Frimout	PROPN	_	_	1	name	_	_
 
 ~~~
 

@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [amod]().
 There are also 3 other language-specific subtypes of `amod`: [amod:att](), [amod:attlvc](), [amod:mode]().
 
-57 nodes (0%) are attached to their parents as `amod:obl`.
+61 nodes (0%) are attached to their parents as `amod:obl`.
 
-48 instances of `amod:obl` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36842105263158.
+52 instances of `amod:obl` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45901639344262.
 
-The following 6 pairs of parts of speech are connected with `amod:obl`: [hu-pos/VERB]()-[hu-pos/ADJ]() (37; 65% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (14; 25% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (3; 5% instances), [hu-pos/ADJ]()-[hu-pos/NUM]() (1; 2% instances), [hu-pos/ADV]()-[hu-pos/ADJ]() (1; 2% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `amod:obl`: [hu-pos/VERB]()-[hu-pos/ADJ]() (37; 61% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (15; 25% instances), [hu-pos/ADV]()-[hu-pos/ADJ]() (3; 5% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (3; 5% instances), [hu-pos/ADJ]()-[hu-pos/NUM]() (1; 2% instances), [hu-pos/NUM]()-[hu-pos/ADJ]() (1; 2% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (1; 2% instances).
 
 
 ~~~ conllu
@@ -60,18 +60,30 @@ The following 6 pairs of parts of speech are connected with `amod:obl`: [hu-pos/
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 amod:obl	color:blue
-1	Az	az	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	üresség	üresség	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	nmod:att	_	_
-3	láthatóvá	látható	ADJ	_	Case=Tra|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPres	4	amod:obl	_	_
-4	tétele	tétel	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	_
-5	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
-6	forma	forma	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 amod:obl	color:blue
+1	Mindezt	mindez	PRON	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	6	dobj	_	_
+2	a	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+3	levél	levél	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	nmod:att	_	_
+4	írója	író	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	_
+5	zárójelbe	zárójel	NOUN	_	Case=Ill|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	nmod:obl	_	_
+6	teszi	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	s	s	CONJ	_	_	6	cc	_	_
+9	rövidre	rövid	ADJ	_	Case=Sub|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	10	amod:obl	_	_
+10	zárva	zárva	ADV	_	VerbForm=Trans	18	xcomp	_	_
+11	feljelentését	feljelentés	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	10	dobj	_	_
+12	,	,	PUNCT	_	_	18	punct	_	_
+13	a	a	DET	_	Definite=Def|PronType=Art	15	det	_	_
+14	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	15	amod:att	_	_
+15	társadalmat	társadalom	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	18	dobj	_	_
+16	két	két	NUM	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	17	nummod	_	_
+17	osztályra	osztály	NOUN	_	Case=Sub|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	18	nmod:obl	_	_
+18	bontja	bont	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+19	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

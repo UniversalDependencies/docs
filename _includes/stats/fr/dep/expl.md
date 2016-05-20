@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-865 nodes (0%) are attached to their parents as `expl`.
+622 nodes (0%) are attached to their parents as `expl`.
 
-626 instances of `expl` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32485549132948.
+541 instances of `expl` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41800643086817.
 
-The following 27 pairs of parts of speech are connected with `expl`: [fr-pos/VERB]()-[fr-pos/PRON]() (263; 30% instances), [fr-pos/NUM]()-[fr-pos/ADP]() (141; 16% instances), [fr-pos/PRON]()-[fr-pos/DET]() (141; 16% instances), [fr-pos/NOUN]()-[fr-pos/ADP]() (87; 10% instances), [fr-pos/PRON]()-[fr-pos/PRON]() (54; 6% instances), [fr-pos/VERB]()-[fr-pos/SCONJ]() (46; 5% instances), [fr-pos/PROPN]()-[fr-pos/ADP]() (37; 4% instances), [fr-pos/PRON]()-[fr-pos/INTJ]() (20; 2% instances), [fr-pos/NOUN]()-[fr-pos/PRON]() (19; 2% instances), [fr-pos/ADJ]()-[fr-pos/ADP]() (11; 1% instances), [fr-pos/ADJ]()-[fr-pos/PRON]() (8; 1% instances), [fr-pos/NOUN]()-[fr-pos/SCONJ]() (7; 1% instances), [fr-pos/VERB]()-[fr-pos/PART]() (5; 1% instances), [fr-pos/ADJ]()-[fr-pos/SCONJ]() (3; 0% instances), [fr-pos/ADV]()-[fr-pos/PRON]() (3; 0% instances), [fr-pos/SYM]()-[fr-pos/ADP]() (3; 0% instances), [fr-pos/VERB]()-[fr-pos/ADP]() (3; 0% instances), [fr-pos/VERB]()-[fr-pos/ADV]() (3; 0% instances), [fr-pos/PROPN]()-[fr-pos/PRON]() (2; 0% instances), [fr-pos/X]()-[fr-pos/ADP]() (2; 0% instances), [fr-pos/ADV]()-[fr-pos/ADP]() (1; 0% instances), [fr-pos/ADV]()-[fr-pos/SCONJ]() (1; 0% instances), [fr-pos/DET]()-[fr-pos/ADP]() (1; 0% instances), [fr-pos/DET]()-[fr-pos/DET]() (1; 0% instances), [fr-pos/PRON]()-[fr-pos/ADP]() (1; 0% instances), [fr-pos/PRON]()-[fr-pos/PART]() (1; 0% instances), [fr-pos/SCONJ]()-[fr-pos/ADP]() (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `expl`: [fr-pos/VERB]()-[fr-pos/PRON]() (267; 43% instances), [fr-pos/PRON]()-[fr-pos/PART]() (161; 26% instances), [fr-pos/PRON]()-[fr-pos/PRON]() (54; 9% instances), [fr-pos/VERB]()-[fr-pos/SCONJ]() (46; 7% instances), [fr-pos/PROPN]()-[fr-pos/ADP]() (24; 4% instances), [fr-pos/NOUN]()-[fr-pos/PRON]() (18; 3% instances), [fr-pos/NOUN]()-[fr-pos/ADP]() (11; 2% instances), [fr-pos/ADJ]()-[fr-pos/ADP]() (10; 2% instances), [fr-pos/ADJ]()-[fr-pos/PRON]() (8; 1% instances), [fr-pos/NOUN]()-[fr-pos/SCONJ]() (7; 1% instances), [fr-pos/ADJ]()-[fr-pos/SCONJ]() (3; 0% instances), [fr-pos/ADV]()-[fr-pos/PRON]() (3; 0% instances), [fr-pos/VERB]()-[fr-pos/ADP]() (3; 0% instances), [fr-pos/PROPN]()-[fr-pos/PRON]() (2; 0% instances), [fr-pos/ADV]()-[fr-pos/ADP]() (1; 0% instances), [fr-pos/ADV]()-[fr-pos/SCONJ]() (1; 0% instances), [fr-pos/NUM]()-[fr-pos/ADP]() (1; 0% instances), [fr-pos/NUM]()-[fr-pos/PRON]() (1; 0% instances), [fr-pos/PRON]()-[fr-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,17 +20,17 @@ The following 27 pairs of parts of speech are connected with `expl`: [fr-pos/VER
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 expl	color:blue
-1	Il	_	PRON	_	_	6	nsubj	_	_
-2	n'	_	PART	_	_	6	neg	_	_
-3	est	_	VERB	_	_	6	cop	_	_
-4	pas	_	ADV	_	_	6	neg	_	_
-5	aussi	_	ADV	_	_	6	advmod	_	_
-6	anxieux	_	ADJ	_	_	0	root	_	_
-7	qu'	_	SCONJ	_	_	10	mark	_	_
-8	il	_	PRON	_	_	10	nsubj	_	_
-9	y	_	PRON	_	_	10	expl	_	_
-10	paraît	_	VERB	_	_	6	advcl	_	_
-11	.	_	PUNCT	_	_	6	punct	_	_
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+2	n'	ne	PART	_	_	6	neg	_	_
+3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	pas	pas	ADV	_	_	6	neg	_	_
+5	aussi	aussi	ADV	_	_	6	advmod	_	_
+6	anxieux	anxieux	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	qu'	que	SCONJ	_	_	10	mark	_	_
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	y	y	PRON	_	_	10	expl	_	_
+10	paraît	paraître	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -41,42 +41,36 @@ The following 27 pairs of parts of speech are connected with `expl`: [fr-pos/VER
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 expl	color:blue
-1	C'	_	PRON	_	_	4	nsubj	_	_
-2	est	_	VERB	_	_	4	cop	_	_
-3	l'	_	DET	_	_	4	expl	_	_
-4	une	_	PRON	_	_	0	root	_	_
-5	de	_	ADP	_	_	8	case	_	_
-6	les	_	DET	_	_	8	det	_	_
-7	trois	_	NUM	_	_	8	nummod	_	_
-8	banlieues	_	NOUN	_	_	4	nmod	_	_
-9	où	_	PRON	_	_	12	nmod	_	_
-10	ce	_	DET	_	_	11	det	_	_
-11	trafic	_	NOUN	_	_	12	nsubj	_	_
-12	domine	_	VERB	_	_	8	acl:relcl	_	_
-13	.	_	PUNCT	_	_	4	punct	_	_
+1	C'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	l'	l'	PART	_	_	4	expl	_	_
+4	une	un	PRON	_	Gender=Fem|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	8	case	_	_
+6	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur	8	det	_	_
+7	trois	trois	NUM	_	_	8	nummod	_	_
+8	banlieues	banlieue	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+9	où	où	PRON	_	PronType=Rel	12	nmod	_	_
+10	ce	ce	DET	_	Gender=Masc|Number=Sing	11	det	_	_
+11	trafic	trafic	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+12	domine	dominer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 expl	color:blue
-1	Le	_	DET	_	_	2	det	_	_
-2	budget	_	NOUN	_	_	12	nsubj	_	_
-3	de	_	ADP	_	_	5	case	_	_
-4	l'	_	DET	_	_	5	det	_	_
-5	édition	_	NOUN	_	_	2	nmod	_	_
-6	2012	_	NUM	_	_	5	nmod	_	_
-7	est	_	VERB	_	_	12	cop	_	_
-8	de	_	ADP	_	_	12	case	_	_
-9	25,6	_	NUM	_	_	10	nummod	_	_
-10	millions	_	NUM	_	_	12	nummod	_	_
-11	d'	_	ADP	_	_	10	expl	_	_
-12	euros	_	NOUN	_	_	0	root	_	_
-13	;	_	PUNCT	_	_	12	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 expl	color:blue
+1	Qu'	que	PRON	_	_	0	root	_	_
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	-ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	1	expl	_	_
+4	qui	qui	PRON	_	_	3	mwe	_	_
+5	va	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	augmenter	augmenter	VERB	_	VerbForm=Inf	3	acl:relcl	_	_
+7	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

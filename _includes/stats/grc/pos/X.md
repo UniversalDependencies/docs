@@ -7,50 +7,50 @@
 There are 10 `X` lemmas (0%), 12 `X` types (0%) and 21 `X` tokens (0%).
 Out of 13 observed tags, the rank of `X` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
-The 10 most frequent `X` lemmas: _", οὐδέ, Πηληι, μηδέ, Δηί, Τυδει, προν, ἆρα, Ἀι, Ἀλύβας_
+The 10 most frequent `X` lemmas: <em>", οὐδέ, Πηληι, μηδέ, Δηί, Τυδει, προν, ἆρα, Ἀι, Ἀλύβας</em>
 
-The 10 most frequent `X` types:  _", δέ, δ̓, Δηΐφοβος, Πηληϊάδαο, Πηληϊάδεω, Τυδεΐδης, δὲ, σ̓, ἆρά_
+The 10 most frequent `X` types:  <em>", δέ, δ̓, Δηΐφοβος, Πηληϊάδαο, Πηληϊάδεω, Τυδεΐδης, δὲ, σ̓, ἆρά</em>
 
-The 10 most frequent ambiguous lemmas: _"_ ([PUNCT]() 625, [X]() 6), _οὐδέ_ ([ADV]() 292, [CONJ]() 77, [X]() 5), _μηδέ_ ([ADV]() 93, [CONJ]() 19, [X]() 2), _προν_ ([PRON]() 1, [X]() 1), _ἆρα_ ([ADV]() 51, [PRON]() 9, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>"</em> ([PUNCT]() 625, [X]() 6), <em>οὐδέ</em> ([ADV]() 292, [CONJ]() 77, [X]() 5), <em>μηδέ</em> ([ADV]() 93, [CONJ]() 19, [X]() 2), <em>προν</em> ([PRON]() 1, [X]() 1), <em>ἆρα</em> ([ADV]() 51, [PRON]() 9, [X]() 1)
 
-The 10 most frequent ambiguous types:  _"_ ([PUNCT]() 625, [X]() 6), _δέ_ ([ADV]() 792, [CONJ]() 33, [X]() 4), _δ̓_ ([ADV]() 4234, [CONJ]() 235, [X]() 2), _δὲ_ ([ADV]() 3835, [CONJ]() 844, [X]() 1), _σ̓_ ([PRON]() 145, [X]() 1, [ADJ]() 1), _ἆρά_ ([ADV]() 2, [X]() 1), _Ἄϊδόσδε_ ([ADV]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>"</em> ([PUNCT]() 625, [X]() 6), <em>δέ</em> ([ADV]() 792, [CONJ]() 33, [X]() 4), <em>δ̓</em> ([ADV]() 4234, [CONJ]() 235, [X]() 2), <em>δὲ</em> ([ADV]() 3835, [CONJ]() 844, [X]() 1), <em>σ̓</em> ([PRON]() 145, [ADJ]() 1, [X]() 1), <em>ἆρά</em> ([ADV]() 2, [X]() 1), <em>Ἄϊδόσδε</em> ([ADV]() 2, [X]() 1)
 
 
-* _"_
-  * [PUNCT]() 625: _χρυσοῖς δὲ φωνεῖ γράμμασιν <b>"</b> πρήσω πόλιν ._
-  * [X]() 6: _<b>"</b> τίς πόθεν εἰς ἀνδρῶν ;_
-* _δέ_
-  * [ADV]() 792: _κραιπνοφόροι <b>δέ</b> μ̓ ἔπεμψαν αὖραι ·_
-  * [CONJ]() 33: _ἀφορμῆς δὲ δέομαι , καταθήσω <b>δέ</b> σοι ἐννέ̓ ὀβολοὺς τῆς μνᾶς τόκους ._
-  * [X]() 4: _οὐ <b>δέ</b> τί σε χρὴ νηπιάας ὀχέειν , ἐπεὶ οὐκέτι τηλίκος ἐσσι ._
-* _δ̓_
-  * [ADV]() 4234: _αἰθὴρ <b>δ̓</b> ἐλαφραῖς πτερύγων ῥιπαῖς ὑποσυρίζει ._
-  * [CONJ]() 235: _ἐπειδὴ δὲ καλῶς αὐτῷ εἶχεν , ἐκεῖνος μὲν ἀπιὼν ᾤχετο , ἐγὼ <b>δ̓</b> ἐκάθευδον ._
-  * [X]() 2: _οὐ <b>δ̓</b> ἄῤ ἔτι δὴν Τηλέμαχος παρέμιμνεν , ἐπεὶ θεοῦ ἔκλυεν αὐδήν ._
-* _δὲ_
-  * [ADV]() 3835: _νεοχμοῖς <b>δὲ</b> δὴ νόμοις Ζεὺς ἀθέτως κρατύνει ._
-  * [CONJ]() 844: _τούτων ἕκαστον ἀνὰ τετρακισχιλίους πεζούς , ἱππεῖς <b>δὲ</b> τριακοσίους ._
-  * [X]() 1: _μή τις ἔτι πρόφρων ἀγανὸς καὶ ἤπιος ἔστω σκηπτοῦχος βασιλεύς , μη <b>δὲ</b> φρεσὶν αἴσιμα εἰδώς , ἀλλ̓ αἰεὶ χαλεπός τ̓ εἴη καὶ αἴσυλα ῥέζοι ·_
-* _σ̓_
-  * [PRON]() 145: _καὶ νῦν ἐγὼ μὲν εἶμι καὶ πειράσομαι ἐὰν δύνωμαι τῶνδέ <b>σ̓</b> ἐκλῦσαι πόνων ._
-  * [X]() 1: _ἀλλ̓ ἦ <b>σ̓</b> ἐπίανέν τις ἄπτερος φάτις ;_
-  * [ADJ]() 1: _ἐγὼ δ̓ οὐ μή ποτε τἄμ̓ , ὡς ἂν εἴπω μὴ τὰ <b>σ̓</b> , ἐκφήνω κακά ._
-* _ἆρά_
-  * [ADV]() 2: _<b>ἆρά</b> σοι δοκεῖ χωρεῖν ἂν εἰς πᾶν ἔργον αἰσχύνης ἄτερ ;_
-  * [X]() 1: _Ὀρέστης <b>ἆρά</b> που βλέπει φάος , ὅπως κατελθὼν δεῦρο πρευμενεῖ τύχῃ ἀμφοῖν γένηται τοῖνδε παγκρατὴς φονεύς ;_
-* _Ἄϊδόσδε_
-  * [ADV]() 2: _ἐκ δέ μοι αὐχὴν ἀστραγάλων ἐάγη , ψυχὴ δ̓ <b>Ἄϊδόσδε</b> κατῆλθε ._
-  * [X]() 1: _ἐκ δέ οἱ αὐχὴν ἀστραγάλων ἐάγη , ψυχὴ δ̓ <b>Ἄϊδόσδε</b> κατῆλθεν ._
+* <em>"</em>
+  * [PUNCT]() 625: <em>χρυσοῖς δὲ φωνεῖ γράμμασιν <b>"</b> πρήσω πόλιν .</em>
+  * [X]() 6: <em><b>"</b> τίς πόθεν εἰς ἀνδρῶν ;</em>
+* <em>δέ</em>
+  * [ADV]() 792: <em>κραιπνοφόροι <b>δέ</b> μ̓ ἔπεμψαν αὖραι ·</em>
+  * [CONJ]() 33: <em>ἀφορμῆς δὲ δέομαι , καταθήσω <b>δέ</b> σοι ἐννέ̓ ὀβολοὺς τῆς μνᾶς τόκους .</em>
+  * [X]() 4: <em>οὐ <b>δέ</b> τί σε χρὴ νηπιάας ὀχέειν , ἐπεὶ οὐκέτι τηλίκος ἐσσι .</em>
+* <em>δ̓</em>
+  * [ADV]() 4234: <em>αἰθὴρ <b>δ̓</b> ἐλαφραῖς πτερύγων ῥιπαῖς ὑποσυρίζει .</em>
+  * [CONJ]() 235: <em>ἐπειδὴ δὲ καλῶς αὐτῷ εἶχεν , ἐκεῖνος μὲν ἀπιὼν ᾤχετο , ἐγὼ <b>δ̓</b> ἐκάθευδον .</em>
+  * [X]() 2: <em>οὐ <b>δ̓</b> ἄῤ ἔτι δὴν Τηλέμαχος παρέμιμνεν , ἐπεὶ θεοῦ ἔκλυεν αὐδήν .</em>
+* <em>δὲ</em>
+  * [ADV]() 3835: <em>νεοχμοῖς <b>δὲ</b> δὴ νόμοις Ζεὺς ἀθέτως κρατύνει .</em>
+  * [CONJ]() 844: <em>τούτων ἕκαστον ἀνὰ τετρακισχιλίους πεζούς , ἱππεῖς <b>δὲ</b> τριακοσίους .</em>
+  * [X]() 1: <em>μή τις ἔτι πρόφρων ἀγανὸς καὶ ἤπιος ἔστω σκηπτοῦχος βασιλεύς , μη <b>δὲ</b> φρεσὶν αἴσιμα εἰδώς , ἀλλ̓ αἰεὶ χαλεπός τ̓ εἴη καὶ αἴσυλα ῥέζοι ·</em>
+* <em>σ̓</em>
+  * [PRON]() 145: <em>καὶ νῦν ἐγὼ μὲν εἶμι καὶ πειράσομαι ἐὰν δύνωμαι τῶνδέ <b>σ̓</b> ἐκλῦσαι πόνων .</em>
+  * [ADJ]() 1: <em>ἐγὼ δ̓ οὐ μή ποτε τἄμ̓ , ὡς ἂν εἴπω μὴ τὰ <b>σ̓</b> , ἐκφήνω κακά .</em>
+  * [X]() 1: <em>ἀλλ̓ ἦ <b>σ̓</b> ἐπίανέν τις ἄπτερος φάτις ;</em>
+* <em>ἆρά</em>
+  * [ADV]() 2: <em><b>ἆρά</b> σοι δοκεῖ χωρεῖν ἂν εἰς πᾶν ἔργον αἰσχύνης ἄτερ ;</em>
+  * [X]() 1: <em>Ὀρέστης <b>ἆρά</b> που βλέπει φάος , ὅπως κατελθὼν δεῦρο πρευμενεῖ τύχῃ ἀμφοῖν γένηται τοῖνδε παγκρατὴς φονεύς ;</em>
+* <em>Ἄϊδόσδε</em>
+  * [ADV]() 2: <em>ἐκ δέ μοι αὐχὴν ἀστραγάλων ἐάγη , ψυχὴ δ̓ <b>Ἄϊδόσδε</b> κατῆλθε .</em>
+  * [X]() 1: <em>ἐκ δέ οἱ αὐχὴν ἀστραγάλων ἐάγη , ψυχὴ δ̓ <b>Ἄϊδόσδε</b> κατῆλθεν .</em>
 
 ## Morphology
 
 The form / lemma ratio of `X` is 1.200000 (the average of all parts of speech is 3.041201).
 
-The 1st highest number of forms (2) was observed with the lemma “Πηληι”: _Πηληϊάδαο, Πηληϊάδεω_
+The 1st highest number of forms (2) was observed with the lemma “Πηληι”: <em>Πηληϊάδαο, Πηληϊάδεω</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “μηδέ”: _δ̓, δὲ_
+The 2nd highest number of forms (2) was observed with the lemma “μηδέ”: <em>δ̓, δὲ</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “οὐδέ”: _δ̓, δέ_
+The 3rd highest number of forms (2) was observed with the lemma “οὐδέ”: <em>δ̓, δέ</em>.
 
 `X` does not occur with any features.
 
@@ -84,9 +84,9 @@ Children of `X` nodes belong to 5 different parts of speech: [VERB]() (4; 50% in
 There are 13 `X` lemmas (0%), 14 `X` types (0%) and 19 `X` tokens (0%).
 Out of 13 observed tags, the rank of `X` is: 10 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
-The 10 most frequent `X` lemmas: _ἑλωΐ, Σαβαώθ, λεμά, σαβαχθάνι, κορβᾶν, κούμ, μαρὰν, σάν, σπάκα, ταλιθά_
+The 10 most frequent `X` lemmas: <em>ἑλωΐ, Σαβαώθ, λεμά, σαβαχθάνι, κορβᾶν, κούμ, μαρὰν, σάν, σπάκα, ταλιθά</em>
 
-The 10 most frequent `X` types:  _λεμὰ, σαβαχθανεί, σαβαὼθ, ἑλωῒ, ἡλεὶ, κορβᾶν, κούμ, μαρὰν, σπάκα, σὰν_
+The 10 most frequent `X` types:  <em>λεμὰ, σαβαχθανεί, σαβαὼθ, ἑλωῒ, ἡλεὶ, κορβᾶν, κούμ, μαρὰν, σπάκα, σὰν</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -98,11 +98,11 @@ The 10 most frequent ambiguous types:
 
 The form / lemma ratio of `X` is 1.076923 (the average of all parts of speech is 3.412038).
 
-The 1st highest number of forms (2) was observed with the lemma “ἑλωΐ”: _ἑλωῒ, ἡλεὶ_
+The 1st highest number of forms (2) was observed with the lemma “ἑλωΐ”: <em>ἑλωῒ, ἡλεὶ</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Σαβαώθ”: _σαβαὼθ_
+The 2nd highest number of forms (1) was observed with the lemma “Σαβαώθ”: <em>σαβαὼθ</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “κορβᾶν”: _κορβᾶν_
+The 3rd highest number of forms (1) was observed with the lemma “κορβᾶν”: <em>κορβᾶν</em>.
 
 `X` does not occur with any features.
 

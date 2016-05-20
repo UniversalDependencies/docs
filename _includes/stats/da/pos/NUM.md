@@ -13,7 +13,7 @@ The 10 most frequent `NUM` types:  <em>to, tre, fire, 20, fem, seks, 10, otte, 1
 
 The 10 most frequent ambiguous lemmas: <em>3</em> ([NUM]() 14, [ADJ]() 1), <em>I</em> ([PRON]() 19, [NUM]() 3, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>3</em> ([NUM]() 14, [ADJ]() 1), <em>I</em> ([ADP]() 216, [PRON]() 14, [NUM]() 3, [X]() 1), <em>VI</em> ([NUM]() 1, [PRON]() 1)
+The 10 most frequent ambiguous types:  <em>3</em> ([NUM]() 14, [ADJ]() 1), <em>I</em> ([ADP]() 216, [PRON]() 14, [NUM]() 3, [X]() 1), <em>VI</em> ([PRON]() 1, [NUM]() 1)
 
 
 * <em>3</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>3</em> ([NUM]() 14, [ADJ]() 1), <em>I
   * [NUM]() 3: <em>Kapitel <b>I</b></em>
   * [X]() 1: <em><b>I</b> følge det svenske nyhedsbureaus udsendte medarbejder har branden og de mange op-pløjede brandbælter skabt store sår i terrænet , så det ligner " et spøgelsesagtigt , hærget landskab . "</em>
 * <em>VI</em>
-  * [NUM]() 1: <em>Træsnits-vurderingerne spænder fra 500 kr. for et usigneret til 4.000 for et arbejde af Toyokuni <b>VI</b> .</em>
   * [PRON]() 1: <em><b>VI</b> citerer en sidste opsang : " ROCKMUSIK i Danmark defineres ved det navn , som på et givet tidspunkt via sit blikfang , sit privatliv og sin popularitet kan sælge flest aviser og trække flest seere til skærmen .</em>
+  * [NUM]() 1: <em>Træsnits-vurderingerne spænder fra 500 kr. for et usigneret til 4.000 for et arbejde af Toyokuni <b>VI</b> .</em>
 
 ## Morphology
 

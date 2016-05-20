@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [hr-pos/ADJ]() (443; 1% instance
 
 443 [hr-pos/ADJ]() tokens (4% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (443; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (443; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (443; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (424; 96%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (423; 95%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (443; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (443; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (443; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (424; 96%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (423; 95%).
 
 `ADJ` tokens may have the following values of `Definite`:
 

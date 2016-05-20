@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [sv-pos/DET]() (703; 1% instance
 
 703 [sv-pos/DET]() tokens (12% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (703; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (365; 52%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (703; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (674; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (365; 52%).
 
 `DET` tokens may have the following values of `Poss`:
 

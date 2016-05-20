@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-8376 nodes (4%) are attached to their parents as `amod`.
+8702 nodes (4%) are attached to their parents as `amod`.
 
-5872 instances of `amod` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22445081184336.
+6156 instances of `amod` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25132153527925.
 
-The following 11 pairs of parts of speech are connected with `amod`: [pt-pos/NOUN]()-[pt-pos/ADJ]() (8047; 96% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (194; 2% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (54; 1% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (27; 0% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (18; 0% instances), [pt-pos/SYM]()-[pt-pos/ADJ]() (11; 0% instances), [pt-pos/ADP]()-[pt-pos/ADJ]() (9; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (9; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `amod`: [pt-pos/NOUN]()-[pt-pos/ADJ]() (8351; 96% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (203; 2% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (59; 1% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (25; 0% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (19; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (14; 0% instances), [pt-pos/SYM]()-[pt-pos/ADJ]() (13; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (11; 0% instances), [pt-pos/ADP]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu

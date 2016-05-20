@@ -63,7 +63,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 477 [ga-pos/PRON]() tokens (51% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (477; 100%), <tt><a href="Person.html">Person</a>=3</tt> (477; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (472; 99%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (477; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (477; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (472; 99%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADP` and `Gender` co-occurred
 
 369 [ga-pos/DET]() tokens (17% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (369; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (235; 64%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (235; 64%), <tt><a href="PronType.html">PronType</a>=Art</tt> (235; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (235; 64%), <tt><a href="Case.html">Case</a>=Gen</tt> (234; 63%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (369; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (235; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (235; 64%), <tt><a href="Definite.html">Definite</a>=Def</tt> (235; 64%), <tt><a href="PronType.html">PronType</a>=Art</tt> (235; 64%), <tt><a href="Case.html">Case</a>=Gen</tt> (234; 63%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 347 [ga-pos/ADJ]() tokens (30% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (347; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (347; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (328; 95%), <tt><a href="Case.html">Case</a>=Com</tt> (319; 92%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (347; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (347; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (328; 95%), <tt><a href="Case.html">Case</a>=Com</tt> (319; 92%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -120,7 +120,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>mór</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Com</tt></td><td><em>mór, ró-mhór, mhór, ollmhór</em></td><td><em>mhór</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Com</tt></td><td><em>mór, ollmhór, mhór, ró-mhór</em></td><td><em>mhór</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>mhóir</em></td><td></td></tr>
 </table>
 
@@ -140,7 +140,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 
 3 [ga-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (3; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 67%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Cop</tt> (2; 67%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (3; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Cop</tt> (2; 67%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 67%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 67%).
 
 `VERB` tokens may have the following values of `Gender`:
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-22317 nodes (11%) are attached to their parents as `punct`.
+22338 nodes (11%) are attached to their parents as `punct`.
 
-19449 instances of `punct` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.10821346955236.
+19457 instances of `punct` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.46557435759692.
 
-The following 16 pairs of parts of speech are connected with `punct`: [nl-pos/VERB]()-[nl-pos/PUNCT]() (10281; 46% instances), [nl-pos/NOUN]()-[nl-pos/PUNCT]() (4500; 20% instances), [nl-pos/AUX]()-[nl-pos/PUNCT]() (3082; 14% instances), [nl-pos/ADJ]()-[nl-pos/PUNCT]() (1452; 7% instances), [nl-pos/X]()-[nl-pos/PUNCT]() (940; 4% instances), [nl-pos/PROPN]()-[nl-pos/PUNCT]() (610; 3% instances), [nl-pos/CONJ]()-[nl-pos/PUNCT]() (418; 2% instances), [nl-pos/PRON]()-[nl-pos/PUNCT]() (402; 2% instances), [nl-pos/ADV]()-[nl-pos/PUNCT]() (281; 1% instances), [nl-pos/INTJ]()-[nl-pos/PUNCT]() (134; 1% instances), [nl-pos/NUM]()-[nl-pos/PUNCT]() (129; 1% instances), [nl-pos/SCONJ]()-[nl-pos/PUNCT]() (43; 0% instances), [nl-pos/SYM]()-[nl-pos/PUNCT]() (29; 0% instances), [nl-pos/DET]()-[nl-pos/PUNCT]() (9; 0% instances), [nl-pos/PUNCT]()-[nl-pos/PUNCT]() (4; 0% instances), [nl-pos/ADP]()-[nl-pos/PUNCT]() (3; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: [nl-pos/VERB]()-[nl-pos/PUNCT]() (10057; 45% instances), [nl-pos/NOUN]()-[nl-pos/PUNCT]() (4781; 21% instances), [nl-pos/AUX]()-[nl-pos/PUNCT]() (2616; 12% instances), [nl-pos/ADJ]()-[nl-pos/PUNCT]() (1406; 6% instances), [nl-pos/PROPN]()-[nl-pos/PUNCT]() (1278; 6% instances), [nl-pos/PRON]()-[nl-pos/PUNCT]() (747; 3% instances), [nl-pos/CONJ]()-[nl-pos/PUNCT]() (418; 2% instances), [nl-pos/ADV]()-[nl-pos/PUNCT]() (341; 2% instances), [nl-pos/X]()-[nl-pos/PUNCT]() (261; 1% instances), [nl-pos/NUM]()-[nl-pos/PUNCT]() (136; 1% instances), [nl-pos/INTJ]()-[nl-pos/PUNCT]() (134; 1% instances), [nl-pos/SCONJ]()-[nl-pos/PUNCT]() (55; 0% instances), [nl-pos/DET]()-[nl-pos/PUNCT]() (38; 0% instances), [nl-pos/ADP]()-[nl-pos/PUNCT]() (36; 0% instances), [nl-pos/SYM]()-[nl-pos/PUNCT]() (29; 0% instances), [nl-pos/PUNCT]()-[nl-pos/PUNCT]() (5; 0% instances).
 
 
 ~~~ conllu
@@ -67,6 +67,67 @@ The following 16 pairs of parts of speech are connected with `punct`: [nl-pos/VE
 8	ik	ik	PRON	Pron|per|1|ev|nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	dacht	denk	VERB	V|intrans|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin	5	advcl	_	_
 10	.	.	PUNCT	Punc|punt	PunctType=Peri	3	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Dutch-LassySmall)
+
+This relation is universal.
+
+14664 nodes (15%) are attached to their parents as `punct`.
+
+12827 instances of `punct` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.5775368248773.
+
+The following 14 pairs of parts of speech are connected with `punct`: [nl-pos/VERB]()-[nl-pos/PUNCT]() (7664; 52% instances), [nl-pos/NOUN]()-[nl-pos/PUNCT]() (2601; 18% instances), [nl-pos/PROPN]()-[nl-pos/PUNCT]() (1998; 14% instances), [nl-pos/NUM]()-[nl-pos/PUNCT]() (1124; 8% instances), [nl-pos/ADJ]()-[nl-pos/PUNCT]() (746; 5% instances), [nl-pos/DET]()-[nl-pos/PUNCT]() (196; 1% instances), [nl-pos/X]()-[nl-pos/PUNCT]() (114; 1% instances), [nl-pos/PRON]()-[nl-pos/PUNCT]() (81; 1% instances), [nl-pos/SYM]()-[nl-pos/PUNCT]() (51; 0% instances), [nl-pos/ADP]()-[nl-pos/PUNCT]() (45; 0% instances), [nl-pos/ADV]()-[nl-pos/PUNCT]() (30; 0% instances), [nl-pos/SCONJ]()-[nl-pos/PUNCT]() (8; 0% instances), [nl-pos/PUNCT]()-[nl-pos/PUNCT]() (5; 0% instances), [nl-pos/INTJ]()-[nl-pos/PUNCT]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 punct	color:blue
+1	Zij	zij	PRON	_	Case=Nom|Person=3|PronType=Prs	2	nsubj	_	_
+2	kregen	krijgen	VERB	_	Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vier	vier	NUM	_	_	4	nummod	_	_
+4	kinderen	kind	NOUN	_	Number=Plur	2	dobj	_	_
+5	:	:	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 punct	color:blue
+1	Website	website	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://www.speelgoedmuseum.be	http://www.speelgoedmuseum.be	SYM	_	_	1	parataxis	_	_
+4	/	/	PUNCT	_	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 punct	color:blue
+1	Allez	Allez	PROPN	_	_	0	root	_	_
+2	Allez	Allez	PROPN	_	_	1	name	_	_
+3	Zimbabwe	Zimbabwe	PROPN	_	_	1	name	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	reeks	reeks	NOUN	_	Gender=Com|Number=Sing	1	appos	_	_
+6	3	3	NUM	_	_	5	appos	_	_
 
 ~~~
 

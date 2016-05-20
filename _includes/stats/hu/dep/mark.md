@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-468 nodes (2%) are attached to their parents as `mark`.
+745 nodes (2%) are attached to their parents as `mark`.
 
-462 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.28418803418803.
+732 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.67785234899329.
 
-The following 11 pairs of parts of speech are connected with `mark`: [hu-pos/VERB]()-[hu-pos/SCONJ]() (375; 80% instances), [hu-pos/NOUN]()-[hu-pos/SCONJ]() (37; 8% instances), [hu-pos/ADJ]()-[hu-pos/SCONJ]() (26; 6% instances), [hu-pos/NUM]()-[hu-pos/SCONJ]() (9; 2% instances), [hu-pos/ADV]()-[hu-pos/SCONJ]() (7; 1% instances), [hu-pos/PRON]()-[hu-pos/SCONJ]() (7; 1% instances), [hu-pos/PROPN]()-[hu-pos/SCONJ]() (3; 1% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/DET]()-[hu-pos/SCONJ]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `mark`: [hu-pos/VERB]()-[hu-pos/SCONJ]() (585; 79% instances), [hu-pos/NOUN]()-[hu-pos/SCONJ]() (61; 8% instances), [hu-pos/ADJ]()-[hu-pos/SCONJ]() (47; 6% instances), [hu-pos/NUM]()-[hu-pos/SCONJ]() (20; 3% instances), [hu-pos/PRON]()-[hu-pos/SCONJ]() (11; 1% instances), [hu-pos/ADV]()-[hu-pos/SCONJ]() (9; 1% instances), [hu-pos/PROPN]()-[hu-pos/SCONJ]() (5; 1% instances), [hu-pos/AUX]()-[hu-pos/SCONJ]() (3; 0% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/DET]()-[hu-pos/SCONJ]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/ADV]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu

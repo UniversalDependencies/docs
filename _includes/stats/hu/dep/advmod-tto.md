@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [advmod]().
 There are also 7 other language-specific subtypes of `advmod`: [advmod:locy](), [advmod:mode](), [advmod:obl](), [advmod:que](), [advmod:tfrom](), [advmod:tlocy](), [advmod:to]().
 
-27 nodes (0%) are attached to their parents as `advmod:tto`.
+37 nodes (0%) are attached to their parents as `advmod:tto`.
 
-26 instances of `advmod:tto` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.44444444444444.
+36 instances of `advmod:tto` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.43243243243243.
 
-The following 3 pairs of parts of speech are connected with `advmod:tto`: [hu-pos/VERB]()-[hu-pos/ADV]() (23; 85% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (3; 11% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `advmod:tto`: [hu-pos/VERB]()-[hu-pos/ADV]() (31; 84% instances), [hu-pos/ADJ]()-[hu-pos/ADV]() (5; 14% instances), [hu-pos/VERB]()-[hu-pos/PRON]() (1; 3% instances).
 
 
 ~~~ conllu

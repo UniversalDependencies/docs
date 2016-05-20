@@ -4,5 +4,4 @@ title: 'Number'
 shortdef: 'number'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Number`.
+`Number` in French is either singular or plular. It occurs with nouns, adjectives, pronouns, determiners and verbs. It also occurs with some `NUM` which are abberviations for hours such as 00h30. 

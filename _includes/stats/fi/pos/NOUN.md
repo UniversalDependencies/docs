@@ -93,53 +93,53 @@ Children of `NOUN` nodes belong to 15 different parts of speech: [NOUN]() (15726
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 11241 `NOUN` lemmas (51%), 20643 `NOUN` types (46%) and 37325 `NOUN` tokens (23%).
-Out of 14 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 2 in number of tokens.
+There are 11138 `NOUN` lemmas (51%), 20510 `NOUN` types (46%) and 37036 `NOUN` tokens (23%).
+Out of 16 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 2 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: <em>vuosi, asia, mies, aika, lapsi, ihminen, päivä, työ, nainen, äiti</em>
+The 10 most frequent `NOUN` lemmas: <em>vuosi, asia, mies, aika, lapsi, ihminen, päivä, työ, nainen, auto</em>
 
 The 10 most frequent `NOUN` types:  <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
 
-The 10 most frequent ambiguous lemmas: <em>aika</em> ([NOUN]() 330, [ADV]() 64), <em>ihminen</em> ([NOUN]() 265, [ADJ]() 1), <em>kerta</em> ([NOUN]() 163, [ADV]() 2), <em>maa</em> ([NOUN]() 155, [PROPN]() 3), <em>loppu</em> ([NOUN]() 62, [ADV]() 1, [ADJ]() 1), <em>puoli</em> ([NUM]() 81, [NOUN]() 50), <em>raja</em> ([NOUN]() 30, [PROPN]() 1), <em>kansalainen</em> ([NOUN]() 29, [ADJ]() 1), <em>ihme</em> ([NOUN]() 27, [ADJ]() 3), <em>suomi</em> ([PROPN]() 331, [NOUN]() 27)
+The 10 most frequent ambiguous lemmas: <em>aika</em> ([NOUN]() 328, [PART]() 64), <em>äiti</em> ([NOUN]() 180, [PROPN]() 1), <em>kerta</em> ([NOUN]() 162, [PART]() 2), <em>maa</em> ([NOUN]() 154, [PROPN]() 3), <em>maailma</em> ([NOUN]() 95, [PROPN]() 2), <em>loppu</em> ([NOUN]() 62, [ADV]() 1, [ADJ]() 1), <em>lehti</em> ([NOUN]() 57, [PROPN]() 2), <em>puoli</em> ([NUM]() 89, [NOUN]() 42), <em>pankki</em> ([NOUN]() 35, [PROPN]() 5), <em>raja</em> ([NOUN]() 30, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>aikaa</em> ([NOUN]() 95, [ADP]() 1), <em>kertaa</em> ([NOUN]() 68, [VERB]() 1), <em>kerran</em> ([NOUN]() 52, [ADV]() 11), <em>ajan</em> ([NOUN]() 51, [ADP]() 22, [VERB]() 1), <em>aikaan</em> ([NOUN]() 44, [ADP]() 6), <em>aika</em> ([ADV]() 63, [NOUN]() 37), <em>työ</em> ([NOUN]() 28, [PRON]() 5), <em>tavalla</em> ([NOUN]() 34, [ADP]() 1), <em>tapauksessa</em> ([NOUN]() 30, [ADP]() 1), <em>vuosi</em> ([NOUN]() 22, [VERB]() 2)
+The 10 most frequent ambiguous types:  <em>aikaa</em> ([NOUN]() 94, [ADP]() 1), <em>kertaa</em> ([NOUN]() 68, [VERB]() 1), <em>kerran</em> ([NOUN]() 52, [PART]() 11), <em>ajan</em> ([NOUN]() 51, [ADP]() 21, [VERB]() 1), <em>aikaan</em> ([NOUN]() 44, [ADP]() 6), <em>aika</em> ([PART]() 63, [NOUN]() 36), <em>työ</em> ([NOUN]() 28, [PRON]() 5), <em>tavalla</em> ([NOUN]() 33, [ADP]() 1), <em>tapauksessa</em> ([NOUN]() 30, [ADP]() 1), <em>vuosi</em> ([NOUN]() 22, [VERB]() 2)
 
 
 * <em>aikaa</em>
-  * [NOUN]() 95: <em>Olkoot nämä tässä vähän <b>aikaa</b> .</em>
+  * [NOUN]() 94: <em>Olkoot nämä tässä vähän <b>aikaa</b> .</em>
   * [ADP]() 1: <em>Mutta mä en sit tiedä kosk mä tuun , kai mä tuun sit joskus kymmene yhdentoista <b>aikaa</b> .</em>
 * <em>kertaa</em>
-  * [NOUN]() 68: <em>olettaen , että lämmitin on kytketty 125 <b>kertaa</b></em>
+  * [NOUN]() 68: <em>Kaudella 1986 Prost nousi McLarenistaan GP-voittajana neljä <b>kertaa</b> .</em>
   * [VERB]() 1: <em>Hän vain <b>kertaa</b> tapahtumia , jotka niin monasti on käyty läpi kaikissa tiedotusvälineissä .</em>
 * <em>kerran</em>
   * [NOUN]() 52: <em>Mutta se tapahtui vasta sen jälkeen kun Orvo joutui lusimaan eka <b>kerran</b> .</em>
-  * [ADV]() 11: <em>Mä sanoin että no mitenkä sä oot sinne joutunut <b>kerran</b> sit kysyin .</em>
+  * [PART]() 11: <em>Mä sanoin että no mitenkä sä oot sinne joutunut <b>kerran</b> sit kysyin .</em>
 * <em>ajan</em>
   * [NOUN]() 51: <em>Juoppoja ja <b>ajan</b> tuhlareita</em>
-  * [ADP]() 22: <em>hetken <b>ajan</b> hän oli melkein onnellinen .</em>
+  * [ADP]() 21: <em>hetken <b>ajan</b> hän oli melkein onnellinen .</em>
   * [VERB]() 1: <em>Minä <b>ajan</b> toista kautta takaisin .</em>
 * <em>aikaan</em>
-  * [NOUN]() 44: <em>Näin saataisiin <b>aikaan</b> aitoa kilpailua kuntien palveluntuotantoon .</em>
+  * [NOUN]() 44: <em>Ihmiskunta on saanut <b>aikaan</b> yhtä ja toista mistä kannattaa nauttia .</em>
   * [ADP]() 6: <em>Hän oli perillä viiden <b>aikaan</b> .</em>
 * <em>aika</em>
-  * [ADV]() 63: <em>Se eilinen tulee olemaan riesana vielä <b>aika</b> pitkään .</em>
-  * [NOUN]() 37: <em>Siinä <b>aika</b> hurahtaa ihan varkain .</em>
+  * [PART]() 63: <em><b>aika</b> hyvällä juoksemisellani</em>
+  * [NOUN]() 36: <em>Siinä <b>aika</b> hurahtaa ihan varkain .</em>
 * <em>työ</em>
   * [NOUN]() 28: <em>arkinen <b>työ</b> oli jäänyt vähän hunningolle .</em>
-  * [PRON]() 5: <em>Minkä perkeleen takia <b>työ</b> että oo eronna ?</em>
+  * [PRON]() 5: <em>mittee <b>työ</b> siinä seisotta</em>
 * <em>tavalla</em>
-  * [NOUN]() 34: <em>Sillä <b>tavalla</b> et me oltas saatu tästä selko .</em>
+  * [NOUN]() 33: <em>Sillä <b>tavalla</b> et me oltas saatu tästä selko .</em>
   * [ADP]() 1: <em>Hän on hallinnut alaa yksinvaltiaan <b>tavalla</b> .</em>
 * <em>tapauksessa</em>
-  * [NOUN]() 30: <em>EU:n ulkoministerit yhä neuvottomia Algerian <b>tapauksessa</b></em>
+  * [NOUN]() 30: <em>Kummassakin <b>tapauksessa</b> uhrit olivat 16-vuotiaita .</em>
   * [ADP]() 1: <em>Järjestelyt eivät toimi lapsiperheiden <b>tapauksessa</b> .</em>
 * <em>vuosi</em>
-  * [NOUN]() 22: <em>On tämä ollut uskomaton <b>vuosi</b> .</em>
+  * [NOUN]() 22: <em>Vauvapandan ensimmäinen <b>vuosi</b></em>
   * [VERB]() 2: <em>Rentoneeko tää meininki täällä <b>vuosi</b> vuodelta ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.836402 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `NOUN` is 1.841444 (the average of all parts of speech is 2.044212).
 
 The 1st highest number of forms (37) was observed with the lemma “lapsi”: <em>Lapsella, Lapsestakin, Lapsiinhan, lapselle, lapselleen, lapsen, lapsena, lapseni, lapsenne, lapsensa, lapsessa, lapsesta, lapset, lapsetkin, lapsi, lapsia, lapsijakkiihan, lapsikaan, lapsikin, lapsil, lapsilla, lapsillakin, lapsille, lapsilleen, lapsillenne, lapsillensa, lapsilta, lapsina, lapsineen, lapsineni, lapsissa, lapsista, lapsistaan, lasta, lastani, lasten, lastensa</em>.
 
@@ -147,32 +147,32 @@ The 2nd highest number of forms (33) was observed with the lemma “käsi”: <e
 
 The 3rd highest number of forms (30) was observed with the lemma “mies”: <em>Miehenkin, Mieshän, mieheen, mieheksi, miehelle, miehellä, mieheltä, mieheltään, miehen, mieheni, miehensä, miehenä, miehes, miehestä, miehet, miehetkin, miehiksi, miehille, miehillä, miehiltä, miehinä, miehistä, miehiä, mies, mieskin, miesten, miestä, miestäsi, miestään, miäs</em>.
 
-`NOUN` occurs with 6 features: [fi-feat/Case]() (37325; 100% instances), [fi-feat/Number]() (37250; 100% instances), [fi-feat/Person[psor]]() (2135; 6% instances), [fi-feat/Number[psor]]() (678; 2% instances), [fi-feat/Abbr]() (406; 1% instances), [fi-feat/Clitic]() (357; 1% instances)
+`NOUN` occurs with 8 features: [fi-feat/Case]() (37036; 100% instances), [fi-feat/Number]() (36961; 100% instances), [fi-feat/Person[psor]]() (2129; 6% instances), [fi-feat/Number[psor]]() (675; 2% instances), [fi-feat/Clitic]() (354; 1% instances), [fi-feat/Style]() (291; 1% instances), [fi-feat/Abbr]() (196; 1% instances), [fi-feat/Degree]() (9; 0% instances)
 
-`NOUN` occurs with 31 feature-value pairs: `Abbr=Yes`, `Case=Abe`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Han,Kin`, `Clitic=Kaan`, `Clitic=Kaan,Ko`, `Clitic=Kin`, `Clitic=Kin,Ko`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
+`NOUN` occurs with 35 feature-value pairs: `Abbr=Yes`, `Case=Abe`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Han,Kin`, `Clitic=Kaan`, `Clitic=Kaan,Ko`, `Clitic=Kin`, `Clitic=Kin,Ko`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Degree=Cmp`, `Degree=Sup`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Style=Arch`, `Style=Coll`
 
-`NOUN` occurs with 202 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (8561 tokens).
+`NOUN` occurs with 247 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing` (8523 tokens).
 Examples: <em>mies, asia, äiti, osa, lapsi, nainen, kello, isä, tyttö, presidentti</em>
 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 16 different relations: [fi-dep/nmod]() (16793; 45% instances), [fi-dep/nsubj]() (8141; 22% instances), [fi-dep/dobj]() (7101; 19% instances), [fi-dep/root]() (2428; 7% instances), [fi-dep/conj]() (1960; 5% instances), [fi-dep/advcl:compar]() (206; 1% instances), [fi-dep/compound]() (181; 0% instances), [fi-dep/ccomp]() (116; 0% instances), [fi-dep/aux]() (85; 0% instances), [fi-dep/advcl]() (78; 0% instances), [fi-dep/dep]() (77; 0% instances), [fi-dep/acl]() (67; 0% instances), [fi-dep/vocative]() (67; 0% instances), [fi-dep/csubj]() (15; 0% instances), [fi-dep/cop]() (9; 0% instances), [fi-dep/amod]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 26 different relations: [fi-dep/nmod]() (16150; 44% instances), [fi-dep/nsubj]() (6866; 19% instances), [fi-dep/dobj]() (6371; 17% instances), [fi-dep/root]() (2510; 7% instances), [fi-dep/conj]() (1940; 5% instances), [fi-dep/nsubj:cop]() (1557; 4% instances), [fi-dep/compound:nn]() (346; 1% instances), [fi-dep/advcl]() (289; 1% instances), [fi-dep/nmod:gobj]() (225; 1% instances), [fi-dep/compound:prt]() (181; 0% instances), [fi-dep/ccomp]() (103; 0% instances), [fi-dep/nmod:own]() (98; 0% instances), [fi-dep/nmod:gsubj]() (82; 0% instances), [fi-dep/acl]() (75; 0% instances), [fi-dep/vocative]() (67; 0% instances), [fi-dep/mwe]() (66; 0% instances), [fi-dep/name]() (22; 0% instances), [fi-dep/discourse]() (19; 0% instances), [fi-dep/advmod]() (17; 0% instances), [fi-dep/dep]() (17; 0% instances), [fi-dep/xcomp]() (12; 0% instances), [fi-dep/csubj:cop]() (8; 0% instances), [fi-dep/csubj]() (7; 0% instances), [fi-dep/goeswith]() (5; 0% instances), [fi-dep/cop]() (2; 0% instances), [fi-dep/aux]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 15 different parts of speech: [VERB]() (24335; 65% instances), [NOUN]() (7565; 20% instances), [ROOT]() (2428; 7% instances), [ADJ]() (1644; 4% instances), [PROPN]() (538; 1% instances), [ADV]() (363; 1% instances), [PRON]() (259; 1% instances), [NUM]() (126; 0% instances), [ADP]() (18; 0% instances), [DET]() (18; 0% instances), [X]() (14; 0% instances), [INTJ]() (8; 0% instances), [CONJ]() (7; 0% instances), [PUNCT]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `NOUN` nodes belong to 14 different parts of speech: [VERB]() (24146; 65% instances), [NOUN]() (7431; 20% instances), [ROOT]() (2510; 7% instances), [ADJ]() (1681; 5% instances), [PROPN]() (476; 1% instances), [ADV]() (343; 1% instances), [PRON]() (277; 1% instances), [NUM]() (108; 0% instances), [ADP]() (20; 0% instances), [DET]() (18; 0% instances), [INTJ]() (10; 0% instances), [X]() (8; 0% instances), [PART]() (7; 0% instances), [PUNCT]() (1; 0% instances)
 
-13714 (37%) `NOUN` nodes are leaves.
+13411 (36%) `NOUN` nodes are leaves.
 
-13009 (35%) `NOUN` nodes have one child.
+12948 (35%) `NOUN` nodes have one child.
 
-6863 (18%) `NOUN` nodes have two children.
+6907 (19%) `NOUN` nodes have two children.
 
-3739 (10%) `NOUN` nodes have three or more children.
+3770 (10%) `NOUN` nodes have three or more children.
 
 The highest child degree of a `NOUN` node is 16.
 
-Children of `NOUN` nodes are attached using 24 different relations: [fi-dep/punct]() (9992; 24% instances), [fi-dep/amod]() (6939; 17% instances), [fi-dep/nmod]() (6808; 16% instances), [fi-dep/det]() (3274; 8% instances), [fi-dep/conj]() (2179; 5% instances), [fi-dep/case]() (1926; 5% instances), [fi-dep/nummod]() (1757; 4% instances), [fi-dep/cc]() (1615; 4% instances), [fi-dep/advmod]() (1610; 4% instances), [fi-dep/cop]() (1391; 3% instances), [fi-dep/nsubj]() (1188; 3% instances), [fi-dep/acl]() (1137; 3% instances), [fi-dep/dep]() (389; 1% instances), [fi-dep/mark]() (290; 1% instances), [fi-dep/dobj]() (279; 1% instances), [fi-dep/mark:comparator]() (183; 0% instances), [fi-dep/neg]() (181; 0% instances), [fi-dep/aux]() (116; 0% instances), [fi-dep/advcl]() (93; 0% instances), [fi-dep/csubj]() (69; 0% instances), [fi-dep/ccomp]() (7; 0% instances), [fi-dep/vocative]() (7; 0% instances), [fi-dep/advcl:compar]() (5; 0% instances), [fi-dep/compound]() (3; 0% instances)
+Children of `NOUN` nodes are attached using 36 different relations: [fi-dep/punct]() (9942; 24% instances), [fi-dep/nmod]() (6702; 16% instances), [fi-dep/amod]() (6022; 14% instances), [fi-dep/det]() (3279; 8% instances), [fi-dep/acl]() (2236; 5% instances), [fi-dep/conj]() (2160; 5% instances), [fi-dep/case]() (1938; 5% instances), [fi-dep/advmod]() (1647; 4% instances), [fi-dep/cc]() (1595; 4% instances), [fi-dep/nummod]() (1552; 4% instances), [fi-dep/cop]() (1464; 4% instances), [fi-dep/nsubj:cop]() (1063; 3% instances), [fi-dep/mark]() (565; 1% instances), [fi-dep/nmod:gobj]() (264; 1% instances), [fi-dep/neg]() (189; 0% instances), [fi-dep/dep]() (126; 0% instances), [fi-dep/aux]() (114; 0% instances), [fi-dep/advcl]() (113; 0% instances), [fi-dep/nmod:gsubj]() (101; 0% instances), [fi-dep/xcomp:ds]() (84; 0% instances), [fi-dep/mwe]() (76; 0% instances), [fi-dep/compound:nn]() (72; 0% instances), [fi-dep/csubj:cop]() (65; 0% instances), [fi-dep/discourse]() (38; 0% instances), [fi-dep/expl]() (30; 0% instances), [fi-dep/dobj]() (22; 0% instances), [fi-dep/nmod:own]() (22; 0% instances), [fi-dep/nsubj]() (20; 0% instances), [fi-dep/reparandum]() (9; 0% instances), [fi-dep/vocative]() (8; 0% instances), [fi-dep/ccomp]() (6; 0% instances), [fi-dep/goeswith]() (5; 0% instances), [fi-dep/csubj]() (4; 0% instances), [fi-dep/compound:prt]() (3; 0% instances), [fi-dep/appos]() (2; 0% instances), [fi-dep/compound]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 14 different parts of speech: [PUNCT]() (9992; 24% instances), [NOUN]() (7565; 18% instances), [ADJ]() (5998; 14% instances), [VERB]() (4211; 10% instances), [DET]() (3274; 8% instances), [ADP]() (1941; 5% instances), [NUM]() (1796; 4% instances), [ADV]() (1776; 4% instances), [PROPN]() (1748; 4% instances), [CONJ]() (1634; 4% instances), [PRON]() (847; 2% instances), [SCONJ]() (468; 1% instances), [X]() (148; 0% instances), [INTJ]() (40; 0% instances)
+Children of `NOUN` nodes belong to 16 different parts of speech: [PUNCT]() (9942; 24% instances), [NOUN]() (7431; 18% instances), [ADJ]() (5992; 14% instances), [VERB]() (4366; 11% instances), [DET]() (3475; 8% instances), [ADP]() (1947; 5% instances), [PROPN]() (1879; 5% instances), [CONJ]() (1606; 4% instances), [NUM]() (1580; 4% instances), [PART]() (935; 2% instances), [ADV]() (883; 2% instances), [PRON]() (836; 2% instances), [SCONJ]() (468; 1% instances), [X]() (151; 0% instances), [INTJ]() (37; 0% instances), [SYM]() (11; 0% instances)
 

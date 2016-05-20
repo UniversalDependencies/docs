@@ -7,28 +7,28 @@
 There are 16 `PUNCT` lemmas (0%), 16 `PUNCT` types (0%) and 30470 `PUNCT` tokens (12%).
 Out of 13 observed tags, the rank of `PUNCT` is: 10 in number of lemmas, 12 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: _,, ., ·, ;, ", ̓, -, ], ;", [_
+The 10 most frequent `PUNCT` lemmas: <em>,, ., ·, ;, ", ̓, -, ], ;", [</em>
 
-The 10 most frequent `PUNCT` types:  _,, ., ·, ;, ", ̓, -, ], ;", [_
+The 10 most frequent `PUNCT` types:  <em>,, ., ·, ;, ", ̓, -, ], ;", [</em>
 
-The 10 most frequent ambiguous lemmas: _"_ ([PUNCT]() 625, [X]() 6)
+The 10 most frequent ambiguous lemmas: <em>"</em> ([PUNCT]() 625, [X]() 6)
 
-The 10 most frequent ambiguous types:  _"_ ([PUNCT]() 625, [X]() 6)
+The 10 most frequent ambiguous types:  <em>"</em> ([PUNCT]() 625, [X]() 6)
 
 
-* _"_
-  * [PUNCT]() 625: _χρυσοῖς δὲ φωνεῖ γράμμασιν <b>"</b> πρήσω πόλιν ._
-  * [X]() 6: _<b>"</b> τίς πόθεν εἰς ἀνδρῶν ;_
+* <em>"</em>
+  * [PUNCT]() 625: <em>χρυσοῖς δὲ φωνεῖ γράμμασιν <b>"</b> πρήσω πόλιν .</em>
+  * [X]() 6: <em><b>"</b> τίς πόθεν εἰς ἀνδρῶν ;</em>
 
 ## Morphology
 
 The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 3.041201).
 
-The 1st highest number of forms (1) was observed with the lemma “"”: _"_
+The 1st highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “,”: _,_
+The 2nd highest number of forms (1) was observed with the lemma “,”: <em>,</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “-”: _-_
+The 3rd highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 
 `PUNCT` does not occur with any features.
 

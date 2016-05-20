@@ -84,3 +84,77 @@ The following 32 pairs of parts of speech are connected with `compound`: [es-pos
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+2514 nodes (0%) are attached to their parents as `compound`.
+
+2514 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.85600636435959.
+
+The following 44 pairs of parts of speech are connected with `compound`: [es-pos/NUM]()-[es-pos/NUM]() (630; 25% instances), [es-pos/NOUN]()-[es-pos/NOUN]() (489; 19% instances), [es-pos/NUM]()-[es-pos/NOUN]() (459; 18% instances), [es-pos/VERB]()-[es-pos/NOUN]() (452; 18% instances), [es-pos/NOUN]()-[es-pos/NUM]() (264; 11% instances), [es-pos/DET]()-[es-pos/DET]() (38; 2% instances), [es-pos/NUM]()-[es-pos/ADP]() (19; 1% instances), [es-pos/VERB]()-[es-pos/VERB]() (19; 1% instances), [es-pos/ADJ]()-[es-pos/NOUN]() (16; 1% instances), [es-pos/NUM]()-[es-pos/CONJ]() (14; 1% instances), [es-pos/NOUN]()-[es-pos/PUNCT]() (13; 1% instances), [es-pos/ADP]()-[es-pos/NOUN]() (12; 0% instances), [es-pos/VERB]()-[es-pos/ADP]() (12; 0% instances), [es-pos/AUX]()-[es-pos/NOUN]() (10; 0% instances), [es-pos/DET]()-[es-pos/NOUN]() (9; 0% instances), [es-pos/ADV]()-[es-pos/NOUN]() (8; 0% instances), [es-pos/ADJ]()-[es-pos/NUM]() (6; 0% instances), [es-pos/VERB]()-[es-pos/DET]() (6; 0% instances), [es-pos/DET]()-[es-pos/VERB]() (3; 0% instances), [es-pos/NUM]()-[es-pos/PUNCT]() (3; 0% instances), [es-pos/SCONJ]()-[es-pos/NOUN]() (3; 0% instances), [es-pos/ADP]()-[es-pos/ADV]() (2; 0% instances), [es-pos/ADP]()-[es-pos/AUX]() (2; 0% instances), [es-pos/ADP]()-[es-pos/PRON]() (2; 0% instances), [es-pos/AUX]()-[es-pos/AUX]() (2; 0% instances), [es-pos/DET]()-[es-pos/PRON]() (2; 0% instances), [es-pos/NOUN]()-[es-pos/CONJ]() (2; 0% instances), [es-pos/ADJ]()-[es-pos/PUNCT]() (1; 0% instances), [es-pos/ADP]()-[es-pos/ADP]() (1; 0% instances), [es-pos/ADV]()-[es-pos/ADV]() (1; 0% instances), [es-pos/ADV]()-[es-pos/PUNCT]() (1; 0% instances), [es-pos/AUX]()-[es-pos/ADP]() (1; 0% instances), [es-pos/AUX]()-[es-pos/DET]() (1; 0% instances), [es-pos/DET]()-[es-pos/PUNCT]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/ADP]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/ADV]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/PART]() (1; 0% instances), [es-pos/NUM]()-[es-pos/ADV]() (1; 0% instances), [es-pos/NUM]()-[es-pos/DET]() (1; 0% instances), [es-pos/PART]()-[es-pos/ADV]() (1; 0% instances), [es-pos/PRON]()-[es-pos/PRON]() (1; 0% instances), [es-pos/SCONJ]()-[es-pos/PRON]() (1; 0% instances), [es-pos/VERB]()-[es-pos/NUM]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 compound	color:blue
+1	-	-	PUNCT	PUNCT	PunctType=Dash	3	punct	_	_
+2	-	-	PUNCT	PUNCT	PunctType=Dash	3	punct	_	_
+3	Habitación	habitación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
+4	trescientos	trescientos	NUM	NUM	NumForm=Digit	3	appos	_	MWE=trescientos_doce|MWEPOS=NUM
+5	doce	doce	NUM	NUM	NumType=Card	4	compound	_	_
+6	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 compound	color:blue
+1	"	"	PUNCT	PUNCT	PunctType=Quot	11	punct	_	_
+2	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	contra	contra	NOUN	NOUN	_	11	nsubj	_	MWE=contra_reloj|MWEPOS=NOUN
+4	reloj	reloj	NOUN	NOUN	_	3	compound	_	_
+5	de	de	ADP	ADP	AdpType=Prep	8	case	_	_
+6	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	último	último	ADJ	ADJ	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
+8	día	día	NOUN	NOUN	Gender=Masc|Number=Sing	3	nmod	_	_
+9	también	también	ADV	ADV	_	11	advmod	_	_
+10	será	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	cop	_	_
+11	bonita	bonito	ADJ	ADJ	Gender=Fem|Number=Sing	14	ccomp	_	_
+12	"	"	PUNCT	PUNCT	PunctType=Quot	11	punct	_	_
+13	,	,	PUNCT	PUNCT	PunctType=Comm	11	punct	_	_
+14	dijo	decir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	.	.	PUNCT	PUNCT	PunctType=Peri	14	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 compound	color:blue
+1	Son	ser	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	las	el	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	cinco	cinco	NUM	NUM	NumType=Card	1	nsubj	_	MWE=cinco_de_la_mañana|MWEPOS=NOUN
+4	de	de	ADP	ADP	AdpType=Prep	6	case	_	_
+5	la	la	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	mañana	mañana	NOUN	NOUN	_	3	compound	_	_
+7	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
+
+~~~
+
+

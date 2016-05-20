@@ -36,23 +36,6 @@ The following 7 pairs of parts of speech are connected with `vocative`: [ga-pos/
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 vocative	color:blue
-1	'	'	PUNCT	Punct	_	2	punct	_	_
-2	Slán	slán	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	0	root	_	_
-3	leat	le	ADP	Prep	Number=Sing|Person=2	2	nmod:prep	_	_
-4	,	,	PUNCT	Punct	_	2	punct	_	_
-5	a	a	PART	Voc	PartType=Voc	6	case:voc	_	_
-6	Dhoráid	Dhoráid	PROPN	Noun	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	_
-7	!	!	PUNCT	!	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 5	bgColor:blue
@@ -68,6 +51,23 @@ The following 7 pairs of parts of speech are connected with `vocative`: [ga-pos/
 8	a	a	PART	Voc	PartType=Voc	9	case:voc	_	_
 9	bhithiúnaigh	bithiúnach	NOUN	Noun	Case=Voc|Form=Len|Gender=Masc|Number=Sing	5	vocative	_	_
 10	!	!	PUNCT	!	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 vocative	color:blue
+1	'	'	PUNCT	Punct	_	2	punct	_	_
+2	Slán	slán	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	0	root	_	_
+3	leat	le	ADP	Prep	Number=Sing|Person=2	2	nmod:prep	_	_
+4	,	,	PUNCT	Punct	_	2	punct	_	_
+5	a	a	PART	Voc	PartType=Voc	6	case:voc	_	_
+6	Dhoráid	Dhoráid	PROPN	Noun	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	_
+7	!	!	PUNCT	!	_	2	punct	_	_
 
 ~~~
 

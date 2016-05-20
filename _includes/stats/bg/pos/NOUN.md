@@ -69,21 +69,21 @@ Examples: <em>път, съвет, човек, министър, ден, начи
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 12 different relations: [bg-dep/nmod]() (15847; 46% instances), [bg-dep/nsubj]() (6282; 18% instances), [bg-dep/dobj]() (5078; 15% instances), [bg-dep/iobj]() (2439; 7% instances), [bg-dep/conj]() (2352; 7% instances), [bg-dep/cop]() (1005; 3% instances), [bg-dep/nsubjpass]() (702; 2% instances), [bg-dep/root]() (307; 1% instances), [bg-dep/mwe]() (93; 0% instances), [bg-dep/appos]() (34; 0% instances), [bg-dep/xcomp]() (7; 0% instances), [bg-dep/vocative]() (3; 0% instances)
+`NOUN` nodes are attached to their parents using 17 different relations: [bg-dep/nmod]() (15867; 46% instances), [bg-dep/nsubj]() (6086; 18% instances), [bg-dep/dobj]() (5076; 15% instances), [bg-dep/iobj]() (2439; 7% instances), [bg-dep/conj]() (2408; 7% instances), [bg-dep/root]() (1008; 3% instances), [bg-dep/nsubjpass]() (900; 3% instances), [bg-dep/ccomp]() (118; 0% instances), [bg-dep/mwe]() (93; 0% instances), [bg-dep/acl]() (61; 0% instances), [bg-dep/advcl]() (40; 0% instances), [bg-dep/appos]() (12; 0% instances), [bg-dep/csubj]() (12; 0% instances), [bg-dep/csubjpass]() (11; 0% instances), [bg-dep/xcomp]() (10; 0% instances), [bg-dep/vocative]() (7; 0% instances), [bg-dep/discourse]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 12 different parts of speech: [VERB]() (20421; 60% instances), [NOUN]() (11863; 35% instances), [ADJ]() (623; 2% instances), [PROPN]() (435; 1% instances), [ROOT]() (307; 1% instances), [ADV]() (233; 1% instances), [ADP]() (92; 0% instances), [NUM]() (69; 0% instances), [DET]() (68; 0% instances), [PRON]() (27; 0% instances), [PART]() (8; 0% instances), [INTJ]() (3; 0% instances)
+Parents of `NOUN` nodes belong to 12 different parts of speech: [VERB]() (18410; 54% instances), [NOUN]() (12563; 37% instances), [ADJ]() (1057; 3% instances), [ROOT]() (1008; 3% instances), [PROPN]() (465; 1% instances), [ADV]() (327; 1% instances), [ADP]() (92; 0% instances), [DET]() (77; 0% instances), [NUM]() (71; 0% instances), [PRON]() (66; 0% instances), [PART]() (10; 0% instances), [INTJ]() (3; 0% instances)
 
-4845 (14%) `NOUN` nodes are leaves.
+4745 (14%) `NOUN` nodes are leaves.
 
-11942 (35%) `NOUN` nodes have one child.
+11520 (34%) `NOUN` nodes have one child.
 
-11293 (33%) `NOUN` nodes have two children.
+10990 (32%) `NOUN` nodes have two children.
 
-6069 (18%) `NOUN` nodes have three or more children.
+6894 (20%) `NOUN` nodes have three or more children.
 
 The highest child degree of a `NOUN` node is 21.
 
-Children of `NOUN` nodes are attached using 16 different relations: [bg-dep/case]() (18471; 33% instances), [bg-dep/nmod]() (13316; 24% instances), [bg-dep/amod]() (11526; 21% instances), [bg-dep/punct]() (2455; 4% instances), [bg-dep/conj]() (2284; 4% instances), [bg-dep/cc]() (2078; 4% instances), [bg-dep/det]() (2008; 4% instances), [bg-dep/nummod]() (1679; 3% instances), [bg-dep/acl]() (1367; 2% instances), [bg-dep/advmod]() (771; 1% instances), [bg-dep/discourse]() (72; 0% instances), [bg-dep/appos]() (27; 0% instances), [bg-dep/neg]() (23; 0% instances), [bg-dep/iobj]() (5; 0% instances), [bg-dep/mwe]() (3; 0% instances), [bg-dep/expl]() (2; 0% instances)
+Children of `NOUN` nodes are attached using 24 different relations: [bg-dep/case]() (17421; 29% instances), [bg-dep/nmod]() (13475; 23% instances), [bg-dep/amod]() (11527; 19% instances), [bg-dep/punct]() (3441; 6% instances), [bg-dep/det]() (3061; 5% instances), [bg-dep/conj]() (2388; 4% instances), [bg-dep/cc]() (2180; 4% instances), [bg-dep/nummod]() (1679; 3% instances), [bg-dep/acl]() (1367; 2% instances), [bg-dep/cop]() (1005; 2% instances), [bg-dep/advmod]() (888; 1% instances), [bg-dep/nsubj]() (870; 1% instances), [bg-dep/mark]() (98; 0% instances), [bg-dep/discourse]() (90; 0% instances), [bg-dep/neg]() (84; 0% instances), [bg-dep/aux]() (68; 0% instances), [bg-dep/advcl]() (54; 0% instances), [bg-dep/csubj]() (31; 0% instances), [bg-dep/expl]() (14; 0% instances), [bg-dep/iobj]() (7; 0% instances), [bg-dep/appos]() (6; 0% instances), [bg-dep/vocative]() (4; 0% instances), [bg-dep/mwe]() (3; 0% instances), [bg-dep/dobj]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 13 different parts of speech: [ADP]() (17437; 31% instances), [NOUN]() (11863; 21% instances), [ADJ]() (11661; 21% instances), [PROPN]() (3316; 6% instances), [PUNCT]() (2455; 4% instances), [DET]() (2030; 4% instances), [CONJ]() (2023; 4% instances), [NUM]() (1761; 3% instances), [VERB]() (1396; 2% instances), [PRON]() (1228; 2% instances), [ADV]() (844; 2% instances), [PART]() (54; 0% instances), [INTJ]() (19; 0% instances)
+Children of `NOUN` nodes belong to 15 different parts of speech: [ADP]() (17445; 29% instances), [NOUN]() (12563; 21% instances), [ADJ]() (11703; 20% instances), [PUNCT]() (3441; 6% instances), [PROPN]() (3414; 6% instances), [VERB]() (2464; 4% instances), [CONJ]() (2126; 4% instances), [DET]() (2043; 3% instances), [NUM]() (1769; 3% instances), [PRON]() (1497; 3% instances), [ADV]() (990; 2% instances), [PART]() (112; 0% instances), [SCONJ]() (88; 0% instances), [INTJ]() (80; 0% instances), [AUX]() (27; 0% instances)
 

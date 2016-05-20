@@ -50,11 +50,11 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><a href="Case.html">Case</a>=Acc,Ins|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>इससे</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc,Ins|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>इससे</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc,Ins|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>इनसे</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>इस, इसका</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>इसका, इस</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>इन</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>इसकी</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>इस, इसी, यह, इसे, जो, इसमें</td><td>इस</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>इन, इन्हीं, इन्‍हीं, इनके</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>इस, इसी, यह, इसमें, जो, इसे</td><td>इस</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>इन, इन्हीं, इनके, इन्‍हीं</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>यह</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>यही</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td>यह</td><td></td></tr>
@@ -112,6 +112,6 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<a href="../dep/case.html">case</a>]--> DET</tt> (5; 71%),
 <tt>PRON --[<a href="../dep/punct.html">punct</a>]--> PRON</tt> (5; 100%),
 <tt>PRON --[<a href="../dep/mark.html">mark</a>]--> PRON</tt> (4; 100%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 100%),
-<tt>DET --[<a href="../dep/nmod.html">nmod</a>]--> DET</tt> (3; 100%).
+<tt>DET --[<a href="../dep/nmod.html">nmod</a>]--> DET</tt> (3; 100%),
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 100%).
 

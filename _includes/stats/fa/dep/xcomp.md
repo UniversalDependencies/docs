@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-492 nodes (0%) are attached to their parents as `xcomp`.
+454 nodes (0%) are attached to their parents as `xcomp`.
 
-465 instances of `xcomp` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.66666666666667.
+430 instances of `xcomp` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.38986784140969.
 
-The following 13 pairs of parts of speech are connected with `xcomp`: [fa-pos/VERB]()-[fa-pos/ADJ]() (276; 56% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (102; 21% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (52; 11% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (38; 8% instances), [fa-pos/VERB]()-[fa-pos/VERB]() (9; 2% instances), [fa-pos/ADV]()-[fa-pos/ADJ]() (4; 1% instances), [fa-pos/VERB]()-[fa-pos/NUM]() (3; 1% instances), [fa-pos/PRON]()-[fa-pos/ADJ]() (2; 0% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (2; 0% instances), [fa-pos/ADJ]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/ADP]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/PRON]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `xcomp`: [fa-pos/VERB]()-[fa-pos/ADJ]() (252; 56% instances), [fa-pos/VERB]()-[fa-pos/NOUN]() (102; 22% instances), [fa-pos/NOUN]()-[fa-pos/ADJ]() (44; 10% instances), [fa-pos/ADJ]()-[fa-pos/ADJ]() (34; 7% instances), [fa-pos/VERB]()-[fa-pos/VERB]() (9; 2% instances), [fa-pos/VERB]()-[fa-pos/NUM]() (3; 1% instances), [fa-pos/ADV]()-[fa-pos/ADJ]() (2; 0% instances), [fa-pos/PRON]()-[fa-pos/ADJ]() (2; 0% instances), [fa-pos/VERB]()-[fa-pos/ADV]() (2; 0% instances), [fa-pos/ADJ]()-[fa-pos/NOUN]() (1; 0% instances), [fa-pos/NOUN]()-[fa-pos/VERB]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/ADP]() (1; 0% instances), [fa-pos/VERB]()-[fa-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu

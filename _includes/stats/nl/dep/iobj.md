@@ -6,12 +6,49 @@
 
 This relation is universal.
 
-34 nodes (0%) are attached to their parents as `iobj`.
+574 nodes (0%) are attached to their parents as `iobj`.
 
-24 instances of `iobj` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.08823529411765.
+492 instances of `iobj` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.34146341463415.
 
-The following 7 pairs of parts of speech are connected with `iobj`: [nl-pos/VERB]()-[nl-pos/NOUN]() (16; 47% instances), [nl-pos/AUX]()-[nl-pos/NOUN]() (7; 21% instances), [nl-pos/VERB]()-[nl-pos/PRON]() (5; 15% instances), [nl-pos/AUX]()-[nl-pos/PRON]() (2; 6% instances), [nl-pos/AUX]()-[nl-pos/X]() (2; 6% instances), [nl-pos/AUX]()-[nl-pos/PROPN]() (1; 3% instances), [nl-pos/VERB]()-[nl-pos/SCONJ]() (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `iobj`: [nl-pos/VERB]()-[nl-pos/PRON]() (401; 70% instances), [nl-pos/VERB]()-[nl-pos/NOUN]() (98; 17% instances), [nl-pos/VERB]()-[nl-pos/PROPN]() (33; 6% instances), [nl-pos/AUX]()-[nl-pos/PRON]() (20; 3% instances), [nl-pos/AUX]()-[nl-pos/NOUN]() (13; 2% instances), [nl-pos/AUX]()-[nl-pos/PROPN]() (2; 0% instances), [nl-pos/VERB]()-[nl-pos/ADV]() (2; 0% instances), [nl-pos/VERB]()-[nl-pos/DET]() (2; 0% instances), [nl-pos/AUX]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/ADP]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 iobj	color:blue
+1	wat	wat	PRON	Pron|vrag|neut|attr	PronType=Int	2	iobj	_	_
+2	wil	wil	VERB	V|hulp|ott|2|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
+3	jij	jij	PRON	Pron|per|2|ev|nom	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	later	laat	ADJ	Adj|adv|vergr|onverv	Degree=Cmp|Variant=Short	5	advmod	_	_
+5	worden	word	AUX	V|hulpofkopp|inf	VerbForm=Inf|VerbType=Aux,Cop	2	xcomp	_	_
+6	?	?	PUNCT	Punc|vraag	PunctType=Qest	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 iobj	color:blue
+1	Hoe	hoe	ADV	Adv|gew|betr	PronType=Rel	2	mark	_	_
+2	heet	heet	AUX	V|hulpofkopp|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux,Cop	0	root	_	_
+3	een	een	DET	Art|onbep|zijdofonzijd|neut	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
+4	spier	spier	NOUN	N|soort|ev|neut	Number=Sing	2	nsubj	_	_
+5	die	die	PRON	Pron|betr|neut|zelfst	PronType=Rel	9	iobj	_	_
+6	de	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	7	det	_	_
+7	armen	arm	NOUN	N|soort|mv|neut	Number=Plur	9	iobj	_	_
+8	opzij	opzij	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	10	advmod	_	_
+9	doet	doe	VERB	V|hulp|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	4	acl	_	_
+10	gaan	ga	VERB	V|intrans|inf	Subcat=Intr|VerbForm=Inf	9	xcomp	_	_
+11	?	?	PUNCT	Punc|vraag	PunctType=Qest	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -20,67 +57,94 @@ The following 7 pairs of parts of speech are connected with `iobj`: [nl-pos/VERB
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 iobj	color:blue
-1	Van	van	ADP	Prep|voor	AdpType=Prep	3	case	_	_
-2	welk	welk	PRON	Pron|vrag|neut|zelfst	PronType=Int	3	nmod	_	_
-3	metaal	metaal	NOUN	N|soort|ev|neut	Number=Sing	4	iobj	_	_
-4	maakt	maak	VERB	V|trans|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	men	men	PRON	Pron|onbep|neut|zelfst	PronType=Ind	4	nsubj	_	_
-6	gloeidraden	draad	VERB	V|trans|inf	Subcat=Tran|VerbForm=Inf	4	xcomp	_	_
-7	voor	voor	ADP	Prep|voor	AdpType=Prep	8	case	_	_
-8	lampen	lamp	NOUN	N|soort|mv|neut	Number=Plur	6	nmod	_	_
-9	?	?	PUNCT	Punc|vraag	PunctType=Qest	4	punct	_	_
+1	ik	ik	PRON	Pron|per|1|ev|nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	heb	heb	AUX	V|hulp|ott|1|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	Robbert	Robbert	PROPN	N|eigen|ev|neut	Number=Sing	4	iobj	_	_
+4	beloofd	beloof	VERB	V|trans|verldw|onverv	Subcat=Tran|Tense=Past|VerbForm=Part	0	root	_	_
+5	te	te	ADP	Prep|voorinf	AdpType=Prep|PartType=Inf	6	mark	_	_
+6	vertrekken	vertrek	VERB	V|intrans|inf	Subcat=Intr|VerbForm=Inf	4	xcomp	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Dutch-LassySmall)
+
+This relation is universal.
+
+109 nodes (0%) are attached to their parents as `iobj`.
+
+63 instances of `iobj` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.15596330275229.
+
+The following 8 pairs of parts of speech are connected with `iobj`: [nl-pos/VERB]()-[nl-pos/NOUN]() (52; 48% instances), [nl-pos/VERB]()-[nl-pos/PROPN]() (27; 25% instances), [nl-pos/VERB]()-[nl-pos/PRON]() (24; 22% instances), [nl-pos/VERB]()-[nl-pos/ADJ]() (2; 2% instances), [nl-pos/ADJ]()-[nl-pos/NOUN]() (1; 1% instances), [nl-pos/ADJ]()-[nl-pos/PRON]() (1; 1% instances), [nl-pos/VERB]()-[nl-pos/ADV]() (1; 1% instances), [nl-pos/VERB]()-[nl-pos/VERB]() (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 10 iobj	color:blue
+1	"	"	PUNCT	_	_	13	punct	_	_
+2	Het	het	DET	_	Definite=Def	3	det	_	_
+3	succes	succes	NOUN	_	Gender=Neut|Number=Sing	13	nsubj	_	_
+4	was	zijn	AUX	_	_	13	aux	_	_
+5	(	(	PUNCT	_	_	13	punct	_	_
+6	...	...	PUNCT	_	_	13	punct	_	_
+7	)	)	PUNCT	_	_	13	punct	_	_
+8	aan	aan	ADP	_	_	10	case	_	_
+9	drie	drie	NUM	_	_	10	nummod	_	_
+10	factoren	factor	NOUN	_	Number=Plur	13	iobj	_	_
+11	toe	toe	PART	_	_	13	compound	_	_
+12	te	te	PART	_	_	13	mark	_	_
+13	schrijven	schrijven	VERB	_	VerbForm=Inf	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 2 iobj	color:blue
-1	Kleinere	kleinere	ADJ	Adj|attr|vergr|vervneut	Case=Nom|Degree=Cmp	2	amod	_	_
-2	bedrijven	bedrijf	NOUN	N|soort|mv|neut	Number=Plur	15	iobj	_	_
-3	,	,	PUNCT	Punc|komma	PunctType=Comm	2	punct	_	_
-4	die	die	PRON	Pron|betr|neut|zelfst	PronType=Rel	10	mark	_	_
-5	niet	niet	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	10	neg	_	_
-6	over	over	ADP	Prep|voor	AdpType=Prep	8	case	_	_
-7	profesioneel	profesioneel	ADJ	Adj|attr|stell|onverv	Degree=Pos	8	amod	_	_
-8	personeel	personeel	NOUN	N|soort|ev|neut	Number=Sing	10	dobj	_	_
-9	daarvoor	daarvoor	ADV	Adv|pron|aanw	PronType=Dem	8	nmod	_	_
-10	beschikken	beschik	VERB	V|intrans|ott|1of2of3|mv	Aspect=Imp|Mood=Ind|Number=Plur|Subcat=Intr|Tense=Pres|VerbForm=Fin	2	acl	_	_
-11	,	,	PUNCT	Punc|komma	PunctType=Comm	12	punct	_	_
-12	willen	wil	VERB	V|hulp|ott|1of2of3|mv	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-13	wij	wij	PRON	Pron|per|1|mv|nom	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	_
-14	graag	graag	ADJ	Adj|adv|stell|onverv	Degree=Pos|Variant=Short	15	advmod	_	_
-15	helpen	help	AUX	V|trans|inf	Subcat=Tran|VerbForm=Inf	12	aux	_	_
-16	met	met	ADP	Prep|voor	AdpType=Prep	18	case	_	_
-17	het	het	DET	Art|bep|onzijd|neut	Definite=Def|Gender=Neut|PronType=Art	18	det	_	_
-18	rendabel	rendabel	ADJ	Adj|attr|stell|onverv	Degree=Pos	15	xcomp	_	_
-19	maken	maak	VERB	V|trans|inf|subst	Subcat=Tran|VerbForm=Inf	18	cop	_	_
-20	van	van	ADP	Prep|voor	AdpType=Prep	22	case	_	_
-21	hun	hun	PRON	Pron|bez|3|mv|neut|attr	Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	nmod	_	_
-22	ideeen	ideeën	NOUN	N|soort|mv|neut	Number=Plur	18	nmod	_	_
-23	"	"	PUNCT	Punc|aanhaaldubb	PunctType=Quot	12	punct	_	_
-24	.	.	PUNCT	Punc|punt	PunctType=Peri	12	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 iobj	color:blue
+1	Ook	ook	ADV	_	_	3	advmod	_	_
+2	op	op	ADP	_	_	3	case	_	_
+3	privévlak	privévlak	NOUN	_	Gender=Neut|Number=Sing	4	nmod	_	_
+4	gaat	gaan	VERB	_	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	het	het	PRON	_	Person=3|PronType=Prs	4	nsubj	_	_
+6	Kim	Kim	PROPN	_	Gender=Com|Number=Sing	4	iobj	_	_
+7	niet	niet	ADV	_	_	4	neg	_	_
+8	voor	voor	ADP	_	_	4	compound	_	_
+9	de	de	DET	_	Definite=Def	8	mwe	_	_
+10	wind	wind	NOUN	_	Gender=Com|Number=Sing	8	mwe	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 iobj	color:blue
-1	geef	geef	VERB	V|trans|imp	Mood=Imp|Subcat=Tran|VerbForm=Fin	0	root	_	_
-2	het	het	PRON	Pron|per|3|ev|datofacc	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
-3	aan	aan	ADP	Prep|voor	AdpType=Prep	7	mark	_	_
-4	wie	wie	PRON	Pron|betr|neut|zelfst	PronType=Rel	7	nsubj	_	_
-5	het	het	PRON	Pron|onbep|neut|zelfst	PronType=Ind	6	dobj	_	_
-6	verdiend	verdiend	AUX	V|trans|verldw|onverv	Subcat=Tran|Tense=Past|VerbForm=Part	7	aux	_	_
-7	heeft	heb	VERB	V|hulp|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	1	ccomp	_	_
-8	.	.	PUNCT	Punc|punt	PunctType=Peri	1	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 3 iobj	color:blue
+1	Postuum	postuum	ADJ	_	Degree=Pos	10	advcl	_	_
+2	werd	worden	AUX	_	_	10	auxpass	_	_
+3	hem	hem	PRON	_	Case=Acc|Person=3|PronType=Prs	10	iobj	_	_
+4	ook	ook	ADV	_	_	10	advmod	_	_
+5	de	de	DET	_	Definite=Def	6	det	_	_
+6	Staatsprijs	staatsprijs	NOUN	_	Gender=Com|Number=Sing	10	nsubj	_	_
+7	voor	voor	ADP	_	_	9	case	_	_
+8	de	de	DET	_	Definite=Def	9	det	_	_
+9	literatuur	literatuur	NOUN	_	Gender=Com|Number=Sing	6	nmod	_	_
+10	toegekend	toekennen	VERB	_	VerbForm=Part	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

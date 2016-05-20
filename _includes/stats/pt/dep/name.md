@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-7299 nodes (3%) are attached to their parents as `name`.
+6919 nodes (3%) are attached to their parents as `name`.
 
-7299 instances of `name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.86724208795725.
+6919 instances of `name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.6600664835959.
 
-The following 25 pairs of parts of speech are connected with `name`: [pt-pos/PROPN]()-[pt-pos/PROPN]() (6858; 94% instances), [pt-pos/PROPN]()-[pt-pos/CONJ]() (113; 2% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (89; 1% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (69; 1% instances), [pt-pos/PROPN]()-[pt-pos/PUNCT]() (48; 1% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (26; 0% instances), [pt-pos/CONJ]()-[pt-pos/PROPN]() (19; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (15; 0% instances), [pt-pos/ADP]()-[pt-pos/PROPN]() (11; 0% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (11; 0% instances), [pt-pos/DET]()-[pt-pos/CONJ]() (6; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (5; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (5; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/ADP]()-[pt-pos/CONJ]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/PUNCT]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/ADP]()-[pt-pos/PUNCT]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/CONJ]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/CONJ]()-[pt-pos/PUNCT]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/CONJ]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `name`: [pt-pos/PROPN]()-[pt-pos/PROPN]() (6787; 98% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (44; 1% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (27; 0% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (25; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (15; 0% instances), [pt-pos/CONJ]()-[pt-pos/PROPN]() (8; 0% instances), [pt-pos/PROPN]()-[pt-pos/CONJ]() (6; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,31 +27,9 @@ The following 25 pairs of parts of speech are connected with `name`: [pt-pos/PRO
 5	seu	seu	DET	pron-det|<poss|3S>|M|S	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	filho	filho	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 7	,	,	PUNCT	punc	_	6	punct	_	_
-8	Sérgio	Sérgio	PROPN	prop|M|S	_	6	appos	_	_
+8	Sérgio	Sérgio	PROPN	prop|M|S	_	6	appos	_	MWE=Sérgio_Fioravanti|MWEPOS=PROPN
 9	Fioravanti	Fioravanti	PROPN	PROPN	_	8	name	_	_
 10	.	.	PUNCT	punc	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 name	color:blue
-1	Ecologistas	ecologista	NOUN	n|M/F|P	Number=Plur	2	nsubj	_	_
-2	falam	falar	VERB	v-fin|PR|3P|IND	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	em	em	ADP	prp	AdpType=Prep	4	case	_	_
-4	mercado	mercado	NOUN	n|M|S	_	2	dobj	_	_
-5	negro	negro	NOUN	NOUN	_	4	compound	_	_
-6	em	em	ADP	prp|<sam->	AdpType=Prep	8	case	_	_
-7	a	o	DET	art|<-sam>|<artd>|S	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
-8	região	região	NOUN	n|F|S	Gender=Fem|Number=Sing	4	nmod	_	_
-9	de	de	ADP	prp	AdpType=Prep	10	case	_	_
-10	Castilla	Castilla	PROPN	prop|F|S	_	8	nmod	_	_
-11	y	y	CONJ	CONJ	Gender=Fem|Number=Sing	10	name	_	_
-12	Léon	Léon	PROPN	PROPN	_	10	name	_	_
 
 ~~~
 
@@ -63,14 +41,30 @@ The following 25 pairs of parts of speech are connected with `name`: [pt-pos/PRO
 # visual-style 2	fgColor:white
 # visual-style 2 5 name	color:blue
 1	«	«	PUNCT	punc	_	2	punct	_	_
-2	A	A	DET	prop|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	A	A	DET	prop|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	MWE=A_Feira_de_Sorotchinetz|MWEPOS=PROPN
 3	Feira	Feira	PROPN	PROPN	_	0	root	_	_
-4	de	de	ADP	ADP	AdpType=Prep|Gender=Fem|Number=Sing	5	case	_	_
+4	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
 5	Sorotchinetz	Sorotchinetz	PROPN	PROPN	_	2	name	_	_
 6	»	»	PUNCT	punc	_	2	punct	_	_
 7	,	,	PUNCT	punc	_	2	punct	_	_
-8	Nicolau	Nicolau	PROPN	prop|M|S	_	2	nmod	_	_
+8	Nicolau	Nicolau	PROPN	prop|M|S	_	2	nmod	_	MWE=Nicolau_Gogol|MWEPOS=PROPN
 9	Gogol	Gogol	PROPN	PROPN	_	8	name	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 name	color:blue
+1	Grande	Grande	ADJ	prop|M|S	Gender=Masc|Number=Sing	0	root	_	MWE=Grande_Prémio_de_Itália_de_motociclismo|MWEPOS=PROPN
+2	Prémio	Prémio	PROPN	PROPN	_	1	name	_	_
+3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
+4	Itália	Itália	PROPN	PROPN	_	1	name	_	_
+5	de	de	ADP	ADP	AdpType=Prep	6	case	_	_
+6	motociclismo	motociclismo	PROPN	PROPN	_	1	name	_	_
 
 ~~~
 

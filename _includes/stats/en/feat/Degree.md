@@ -7,21 +7,21 @@
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-16693 tokens (7%) have a non-empty value of `Degree`.
+16696 tokens (7%) have a non-empty value of `Degree`.
 2907 types (15%) occur at least once with a non-empty value of `Degree`.
 2442 lemmas (15%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 5 part-of-speech tags: [en-pos/ADJ]() (15944; 6% instances), [en-pos/ADV]() (744; 0% instances), [en-pos/PROPN]() (3; 0% instances), [en-pos/INTJ]() (1; 0% instances), [en-pos/NOUN]() (1; 0% instances).
+The feature is used with 5 part-of-speech tags: [en-pos/ADJ]() (15947; 6% instances), [en-pos/ADV]() (744; 0% instances), [en-pos/PROPN]() (3; 0% instances), [en-pos/INTJ]() (1; 0% instances), [en-pos/NOUN]() (1; 0% instances).
 
 ### `ADJ`
 
-15944 [en-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
+15947 [en-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (596; 4% of non-empty `Degree`): <em>more, better, less, larger, bigger, earlier, older, smaller, higher, worse</em>
-* `Pos` (14799; 93% of non-empty `Degree`): <em>good, great, other, new, many, last, same, few, sure, little</em>
+* `Pos` (14802; 93% of non-empty `Degree`): <em>good, great, other, new, many, last, same, few, sure, little</em>
 * `Sup` (549; 3% of non-empty `Degree`): <em>best, most, worst, cheapest, largest, latest, easiest, highest, oldest, biggest</em>
-* `EMPTY` (13): <em>fake, such, Every, Global, Pakistani, criminal, enough, female, middle, real</em>
+* `EMPTY` (12): <em>fake, such, Every, Global, Pakistani, criminal, enough, female, middle, real</em>
 
 <table>
   <tr><th>Paradigm <i>less</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (156; 21% of non-empty `Degree`): <em>later, better, longer, less, earlier, sooner, further, closer, higher, faster</em>
 * `Pos` (490; 66% of non-empty `Degree`): <em>well, far, soon, long, hard, early, late, close, little, high</em>
 * `Sup` (98; 13% of non-empty `Degree`): <em>least, best, worst, highest, longest</em>
-* `EMPTY` (12298): <em>so, just, when, very, also, how, now, even, there, then</em>
+* `EMPTY` (12295): <em>so, just, when, very, also, how, now, even, there, then</em>
 
 `Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (37) occur only with one value of `Degree`.
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Pos` (3; 100% of non-empty `Degree`): <em>Central, Modern, english</em>
-* `EMPTY` (16896): <em>bush, US, al, Iraq, enron, united, Iran, New, China, states</em>
+* `EMPTY` (16897): <em>bush, US, al, Iraq, enron, united, Iran, New, China, states</em>
 
 ### `NOUN`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>equivalant</em>
-* `EMPTY` (43789): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `EMPTY` (43787): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
 ### `INTJ`
 

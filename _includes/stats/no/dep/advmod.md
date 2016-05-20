@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-14976 nodes (5%) are attached to their parents as `advmod`.
+15591 nodes (5%) are attached to their parents as `advmod`.
 
-10497 instances of `advmod` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.93956997863248.
+10840 instances of `advmod` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.92303251876082.
 
-The following 25 pairs of parts of speech are connected with `advmod`: [no-pos/VERB]()-[no-pos/ADV]() (5132; 34% instances), [no-pos/VERB]()-[no-pos/ADJ]() (3070; 20% instances), [no-pos/ADJ]()-[no-pos/ADJ]() (2015; 13% instances), [no-pos/ADJ]()-[no-pos/ADV]() (1943; 13% instances), [no-pos/NOUN]()-[no-pos/ADV]() (839; 6% instances), [no-pos/NOUN]()-[no-pos/ADJ]() (425; 3% instances), [no-pos/SCONJ]()-[no-pos/ADV]() (254; 2% instances), [no-pos/ADV]()-[no-pos/ADV]() (232; 2% instances), [no-pos/NUM]()-[no-pos/ADV]() (176; 1% instances), [no-pos/PROPN]()-[no-pos/ADV]() (131; 1% instances), [no-pos/ADV]()-[no-pos/ADJ]() (126; 1% instances), [no-pos/DET]()-[no-pos/ADV]() (106; 1% instances), [no-pos/PRON]()-[no-pos/ADV]() (104; 1% instances), [no-pos/NUM]()-[no-pos/ADJ]() (85; 1% instances), [no-pos/ADP]()-[no-pos/ADJ]() (79; 1% instances), [no-pos/ADP]()-[no-pos/ADV]() (78; 1% instances), [no-pos/PROPN]()-[no-pos/ADJ]() (51; 0% instances), [no-pos/DET]()-[no-pos/ADJ]() (47; 0% instances), [no-pos/PRON]()-[no-pos/ADJ]() (34; 0% instances), [no-pos/SCONJ]()-[no-pos/ADJ]() (34; 0% instances), [no-pos/INTJ]()-[no-pos/ADV]() (8; 0% instances), [no-pos/INTJ]()-[no-pos/ADJ]() (3; 0% instances), [no-pos/X]()-[no-pos/ADV]() (2; 0% instances), [no-pos/CONJ]()-[no-pos/ADJ]() (1; 0% instances), [no-pos/CONJ]()-[no-pos/ADV]() (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `advmod`: [no-pos/VERB]()-[no-pos/ADV]() (5132; 33% instances), [no-pos/VERB]()-[no-pos/ADJ]() (3070; 20% instances), [no-pos/ADJ]()-[no-pos/ADJ]() (2015; 13% instances), [no-pos/ADJ]()-[no-pos/ADV]() (1966; 13% instances), [no-pos/NOUN]()-[no-pos/ADV]() (1265; 8% instances), [no-pos/NOUN]()-[no-pos/ADJ]() (425; 3% instances), [no-pos/SCONJ]()-[no-pos/ADV]() (254; 2% instances), [no-pos/ADV]()-[no-pos/ADV]() (232; 1% instances), [no-pos/PROPN]()-[no-pos/ADV]() (208; 1% instances), [no-pos/PRON]()-[no-pos/ADV]() (185; 1% instances), [no-pos/NUM]()-[no-pos/ADV]() (177; 1% instances), [no-pos/ADV]()-[no-pos/ADJ]() (126; 1% instances), [no-pos/DET]()-[no-pos/ADV]() (112; 1% instances), [no-pos/NUM]()-[no-pos/ADJ]() (85; 1% instances), [no-pos/ADP]()-[no-pos/ADJ]() (79; 1% instances), [no-pos/ADP]()-[no-pos/ADV]() (78; 1% instances), [no-pos/PROPN]()-[no-pos/ADJ]() (51; 0% instances), [no-pos/DET]()-[no-pos/ADJ]() (47; 0% instances), [no-pos/PRON]()-[no-pos/ADJ]() (34; 0% instances), [no-pos/SCONJ]()-[no-pos/ADJ]() (34; 0% instances), [no-pos/INTJ]()-[no-pos/ADV]() (8; 0% instances), [no-pos/INTJ]()-[no-pos/ADJ]() (3; 0% instances), [no-pos/X]()-[no-pos/ADV]() (3; 0% instances), [no-pos/CONJ]()-[no-pos/ADJ]() (1; 0% instances), [no-pos/CONJ]()-[no-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu

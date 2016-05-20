@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: <em>_</em>
 
 The 10 most frequent `X` types:  <em>бир, дакика</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 2, [X]() 2)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([X]() 2, [NOUN]() 2)
 
 The 10 most frequent ambiguous types:  
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-29 nodes (0%) are attached to their parents as `ccomp`.
+1204 nodes (1%) are attached to their parents as `ccomp`.
 
-19 instances of `ccomp` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.86206896551724.
+1189 instances of `ccomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.54235880398671.
 
-The following 2 pairs of parts of speech are connected with `ccomp`: [et-pos/VERB]()-[et-pos/VERB]() (28; 97% instances), [et-pos/VERB]()-[et-pos/PRON]() (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `ccomp`: [et-pos/VERB]()-[et-pos/VERB]() (981; 81% instances), [et-pos/VERB]()-[et-pos/ADJ]() (122; 10% instances), [et-pos/VERB]()-[et-pos/NOUN]() (79; 7% instances), [et-pos/VERB]()-[et-pos/PRON]() (16; 1% instances), [et-pos/VERB]()-[et-pos/PROPN]() (5; 0% instances), [et-pos/NOUN]()-[et-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,40 +20,55 @@ The following 2 pairs of parts of speech are connected with `ccomp`: [et-pos/VER
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 ccomp	color:blue
-1	Siis	siis+0	ADV	adv/%cap	_	3	advmod	_	_
-2	ta	tema+0	PRON	pron/pers,ps3,sg,nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	küsis	küsi+s	VERB	v/main,indic,impf,ps3,sg,ps,af	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-4	,	--	PUNCT	punc/--	_	3	punct	_	_
-5	kas	kas+0	ADV	adv/--	_	7	advmod	_	_
-6	ei	ei+0	AUX	v/aux,neg	Negative=Neg	7	neg	_	_
-7	saaks	saa+ks	VERB	v/main,cond,pres,ps,neg	Mood=Cnd|Negative=Neg|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-8	tund	tund+0	NOUN	n/com,sg,nom	Case=Nom|Number=Sing	7	dobj	_	_
-9	aega	aeg+0	NOUN	n/com,sg,part	Case=Par|Number=Sing	8	nmod	_	_
-10	.	--	PUNCT	punc/--	_	3	punct	_	_
+1	"	"	PUNCT	Z	_	3	punct	_	_
+2	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	usun	uskuma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	,	,	PUNCT	Z	_	7	punct	_	_
+5	et	et	SCONJ	J	_	7	mark	_	_
+6	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	kohe-kohe	kohe-kohe	ADV	D	_	7	advmod	_	_
+9	ärkamas	ärkama	VERB	V	Case=Ine|VerbForm=Sup|Voice=Act	7	xcomp	_	_
+10	,	,	PUNCT	Z	_	14	punct	_	_
+11	kui	kui	SCONJ	J	_	14	mark	_	_
+12	mitte	mitte	ADV	D	Negative=Neg	14	advmod	_	_
+13	juba	juba	ADV	D	_	14	advmod	_	_
+14	ärganud	ärkama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	_
+15	.	.	PUNCT	Z	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 9 ccomp	color:blue
-1	müüja	müüja+0	NOUN	n/com,sg,nom	Case=Nom|Number=Sing	3	nsubj	_	_
-2	nigu	nigu+0	PART	b/--	_	3	cc	_	_
-3	ütles	ütle+s	VERB	v-fin/main,indic,impf,ps3,sg,ps,af,.FinV,.NGP-P	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-4	ka	ka+0	ADV	adv/--	_	3	advmod	_	_
-5	et	et+0	SCONJ	conj-s/sub	_	9	mark	_	_
-6	noh	noh+0	PART	b/--	_	9	cc	_	_
-7	nelisada	neli-sada+0	NUM	num/card,sg,nom,l	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	9	nsubj	_	_
-8	on	ole+0	VERB	v-fin/main,indic,pres,ps3,sg,ps,af,.FinV,.Intr	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-9	siuke	siuke+0	PRON	pron-dem/dem,sg,nom	Case=Nom|Number=Sing|PronType=Dem	3	ccomp	_	_
-10	nagu	nagu+0	SCONJ	conj-s/sub	_	12	mark	_	_
-11	ta	tema+0	PRON	pron-pers/pers,ps3,sg,nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-12	on	ole+0	VERB	v-fin/main,indic,pres,ps3,sg,ps,af,.FinV,.Intr	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
-13	et	et+0	SCONJ	conj-c/sub	_	9	mark	_	_
-14	,	--	PUNCT	punc/--	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 8 ccomp	color:blue
+1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	arvan	arvama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	,	,	PUNCT	Z	_	8	punct	_	_
+4	et	et	SCONJ	J	_	8	mark	_	_
+5	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	8	nsubj:cop	_	_
+6	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+7	Eestile	Eesti	PROPN	S	Case=All|Number=Sing	8	nmod	_	_
+8	kasulik	kasulik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	ccomp	_	_
+9	.	.	PUNCT	Z	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 ccomp	color:blue
+1	Öeldakse	ütlema	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	,	,	PUNCT	Z	_	4	punct	_	_
+3	et	et	SCONJ	J	_	4	mark	_	_
+4	kusepeatus	kuse_peatus	NOUN	S	Case=Nom|Number=Sing	1	ccomp	_	_
+5	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~
 

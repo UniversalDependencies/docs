@@ -6,71 +6,76 @@
 
 This relation is universal.
 
-237 nodes (2%) are attached to their parents as `iobj`.
+1246 nodes (1%) are attached to their parents as `iobj`.
 
-153 instances of `iobj` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.09282700421941.
+671 instances of `iobj` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.01765650080257.
 
-The following 16 pairs of parts of speech are connected with `iobj`: [ro-pos/VERB]()-[ro-pos/NOUN]() (129; 54% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (61; 26% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (15; 6% instances), [ro-pos/VERB]()-[ro-pos/PROPN]() (8; 3% instances), [ro-pos/NOUN]()-[ro-pos/NOUN]() (4; 2% instances), [ro-pos/VERB]()-[ro-pos/NUM]() (4; 2% instances), [ro-pos/ADJ]()-[ro-pos/PRON]() (3; 1% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (3; 1% instances), [ro-pos/ADJ]()-[ro-pos/PROPN]() (2; 1% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (2; 1% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/PRON]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `iobj`: [ro-pos/VERB]()-[ro-pos/PRON]() (557; 45% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (460; 37% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (124; 10% instances), [ro-pos/VERB]()-[ro-pos/PROPN]() (45; 4% instances), [ro-pos/ADJ]()-[ro-pos/PRON]() (14; 1% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (11; 1% instances), [ro-pos/NOUN]()-[ro-pos/NOUN]() (6; 0% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (6; 0% instances), [ro-pos/ADJ]()-[ro-pos/PROPN]() (4; 0% instances), [ro-pos/ADV]()-[ro-pos/NOUN]() (4; 0% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (2; 0% instances), [ro-pos/ADJ]()-[ro-pos/ADP]() (2; 0% instances), [ro-pos/ADV]()-[ro-pos/PRON]() (2; 0% instances), [ro-pos/PROPN]()-[ro-pos/NOUN]() (2; 0% instances), [ro-pos/ADJ]()-[ro-pos/DET]() (1; 0% instances), [ro-pos/ADJ]()-[ro-pos/NUM]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/PRON]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/CONJ]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/DET]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/SYM]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 iobj	color:blue
-1	Contribuie	contribui	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	cât	cât	ADV	Rw	PronType=Int,Rel	3	advmod	_	_
-3	poți	putea	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
-4	la	la	ADP	Sp	AdpType=Prep	5	case	_	_
-5	măreția	măreție	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	iobj	_	_
-6	omului	om	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	_
-7	.	.	PUNCT	PERIOD	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 4 iobj	color:blue
-1	Așa	așa	ADV	Rgp	Degree=Pos	2	advmod	_	_
-2	bine	bine	ADV	Rgp	Degree=Pos	11	advmod	_	_
-3	ce	ce	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	6	dobj	_	_
-4	v	v	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	6	iobj	_	_
-5	-am	avea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
-6	tălmăcit	tălmăci	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl	_	_
-7	,	,	PUNCT	COMMA	_	2	punct	_	_
-8	și	și	ADV	Rgp	Degree=Pos	10	advmod	_	_
-9	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
-10	copil	copil	NOUN	Ncmsrn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	_
-11	putea	putea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-12	să	să	PART	Qs	Mood=Sub	13	mark	_	_
-13	înțeleagă	înțelege	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	11	csubj	_	_
-14	.	.	PUNCT	PERIOD	_	11	punct	_	_
+# visual-style 6 5 iobj	color:blue
+1	Ăsta	ăsta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	6	nsubj	_	_
+5	vă	voi	PRON	Pp2-pd--------w	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Weak	6	iobj	_	_
+6	trebuie	trebui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
+7	,	,	PUNCT	COMMA	_	1	punct	_	_
+8	nu	nu	PART	Qz	Negative=Neg	9	neg	_	_
+9	eu	eu	PRON	Pp1-sn--------s	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	1	conj	_	_
+10	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 7 iobj	color:blue
-1	Armata	Armata	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	Românǎ	Românǎ	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	_
-3	este	este	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	formată	formată	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
-5	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
-6	trei	trei	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
-7	categorii	categorii	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	4	iobj	_	_
-8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
-9	arme	arme	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	7	nmod	_	_
-10	:	:	PUNCT	COLON	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 iobj	color:blue
+1	Somnul	somn	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	asimilat	asimila	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	morții	moarte	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	3	iobj	_	_
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
+6	inerției	inerție	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	4	conj	_	_
+7	,	,	PUNCT	COMMA	_	5	punct	_	_
+8	opririi	oprire	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	4	conj	_	_
+9	sterpe	sterp	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+10	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	_
+11	vieții	viață	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
+12	.	.	PUNCT	PERIOD	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 iobj	color:blue
+1	Aici	aici	ADV	Rgp	Degree=Pos	6	advmod	_	_
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
+3	însă	însă	CONJ	Ccssp	Negative=Pos	6	advmod	_	_
+4	,	,	PUNCT	COMMA	_	3	punct	_	_
+5	vom	vrea	AUX	Va--1p	Number=Plur|Person=1	6	aux	_	_
+6	risca	risca	VERB	Vmnp	Tense=Pres|VerbForm=Inf	0	root	_	_
+7	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+8	judecată	judecată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	dobj	_	_
+9	personală	personal	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+10	,	,	PUNCT	COMMA	_	11	punct	_	_
+11	contrară	contrar	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	conj	_	_
+12	opiniei	opinie	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	11	iobj	_	_
+13	admise	admis	ADJ	Afpfson	Case=Dat,Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+14	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 ~~~
 

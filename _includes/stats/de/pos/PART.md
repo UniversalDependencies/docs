@@ -13,7 +13,7 @@ The 10 most frequent `PART` types:  <em>nicht, zu, aus, an, ja, nein, 's, Hallo,
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 53291, [PUNCT]() 39056, [DET]() 37037, [ADP]() 32362, [PROPN]() 32323, [VERB]() 25041, [ADJ]() 21279, [PRON]() 15077, [ADV]() 14911, [CONJ]() 8938, [NUM]() 7632, [AUX]() 6913, [PART]() 2202, [SCONJ]() 1810, [X]() 370)
 
-The 10 most frequent ambiguous types:  <em>nicht</em> ([PART]() 1088, [ADV]() 2, [PRON]() 1, [PROPN]() 1), <em>zu</em> ([ADP]() 2121, [PART]() 1021, [ADV]() 61, [PROPN]() 24, [ADJ]() 1), <em>aus</em> ([ADP]() 990, [PART]() 9, [ADV]() 4), <em>an</em> ([ADP]() 1814, [PROPN]() 24, [PART]() 8, [NOUN]() 1, [ADV]() 1, [DET]() 1), <em>ja</em> ([ADV]() 20, [PART]() 4), <em>'s</em> ([PROPN]() 32, [PART]() 4, [PRON]() 3, [X]() 2, [DET]() 2, [PUNCT]() 1), <em>Hallo</em> ([PART]() 4, [X]() 1), <em>hin</em> ([ADV]() 44, [PART]() 4, [NOUN]() 3, [ADP]() 3), <em>to</em> ([PROPN]() 5, [PART]() 4), <em>her</em> ([ADV]() 16, [PART]() 3)
+The 10 most frequent ambiguous types:  <em>nicht</em> ([PART]() 1088, [ADV]() 2, [PRON]() 1, [PROPN]() 1), <em>zu</em> ([ADP]() 2121, [PART]() 1021, [ADV]() 61, [PROPN]() 24, [ADJ]() 1), <em>aus</em> ([ADP]() 990, [PART]() 9, [ADV]() 4), <em>an</em> ([ADP]() 1814, [PROPN]() 24, [PART]() 8, [NOUN]() 1, [DET]() 1, [ADV]() 1), <em>ja</em> ([ADV]() 20, [PART]() 4), <em>'s</em> ([PROPN]() 32, [PART]() 4, [PRON]() 3, [X]() 2, [DET]() 2, [PUNCT]() 1), <em>Hallo</em> ([PART]() 4, [X]() 1), <em>hin</em> ([ADV]() 44, [PART]() 4, [NOUN]() 3, [ADP]() 3), <em>to</em> ([PROPN]() 5, [PART]() 4), <em>her</em> ([ADV]() 16, [PART]() 3)
 
 
 * <em>nicht</em>
@@ -36,8 +36,8 @@ The 10 most frequent ambiguous types:  <em>nicht</em> ([PART]() 1088, [ADV]() 2,
   * [PROPN]() 24: <em>Nie wieder in das " Hotel <b>an</b> dem Rathaus " !</em>
   * [PART]() 8: <em>Oktober 1908 eine Wahlreform in dem Königreich Preußen <b>an</b> .</em>
   * [NOUN]() 1: <em>Dabei werden die abzudichtenden Bauteile automatisiert <b>an</b> - und abtransportiert ( es ist auch ein umgekehrter Aufbau möglich , bei dem die Düse mit dem Dichtmaterial fest montiert ist und die Bauteile geführt werden ) .</em>
-  * [ADV]() 1: <em>Die Telekom stellt von sofort <b>an</b> alle ausländischen Ansagedienste wieder auf Handvermittlung um .</em>
   * [DET]() 1: <em>FDP werde sich <b>an</b> weiteren Verhandlungen über die Kostendeckung nicht beteiligen .</em>
+  * [ADV]() 1: <em>Die Telekom stellt von sofort <b>an</b> alle ausländischen Ansagedienste wieder auf Handvermittlung um .</em>
 * <em>ja</em>
   * [ADV]() 20: <em>Bei über 150 T € ist es auch <b>ja</b> nicht so schwer .</em>
   * [PART]() 4: <em>Ist <b>ja</b> wohl ein Witz .</em>

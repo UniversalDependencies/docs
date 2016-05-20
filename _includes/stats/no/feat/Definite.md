@@ -62,9 +62,9 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (367; 42% of non-empty `Definite`): <em>samme, neste, forrige, selve, andre, selveste, the</em>
+* `Def` (367; 42% of non-empty `Definite`): <em>samme, neste, forrige, andre, selve, selveste, the</em>
 * `Ind` (517; 58% of non-empty `Definite`): <em>annet, annen, egen, eget, annens</em>
-* `EMPTY` (15606): <em>en, et, den, de, det, andre, sin, alle, denne, noen</em>
+* `EMPTY` (15589): <em>en, et, den, de, det, andre, sin, alle, denne, noen</em>
 
 <table>
   <tr><th>Paradigm <i>annen</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -79,23 +79,23 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 137 [no-pos/NUM]() tokens (3% of all `NUM` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (96; 70%).
+The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (137; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (96; 70%).
 
 `NUM` tokens may have the following values of `Definite`:
 
 * `Def` (137; 100% of non-empty `Definite`): <em>eneste, ene</em>
-* `EMPTY` (3808): <em>to, tre, fire, ett, 2, fem, ti, 20, seks, én</em>
+* `EMPTY` (3825): <em>to, tre, fire, ett, 2, fem, ti, 20, seks, én</em>
 
 ### `VERB`
 
 1 [no-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>overrasket</em>
-* `EMPTY` (40538): <em>er, var, har, sier, være, blir, vært, kommer, går, ha</em>
+* `EMPTY` (40567): <em>er, var, har, sier, være, blir, vært, kommer, går, ha</em>
 
 ## Relations with Agreement in `Definite`
 
@@ -105,9 +105,9 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (1026; 54%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (564; 87%),
 <tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (173; 56%),
+<tt>NOUN --[<a href="../dep/nummod.html">nummod</a>]--> NOUN</tt> (125; 88%),
 <tt>NOUN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> ADJ</tt> (104; 54%),
 <tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> NOUN</tt> (67; 56%),
 <tt>NOUN --[<a href="../dep/xcomp.html">xcomp</a>]--> NOUN</tt> (50; 51%),
-<tt>NOUN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> NOUN</tt> (45; 56%),
-<tt>DET --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (29; 66%).
+<tt>NOUN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> NOUN</tt> (45; 56%).
 

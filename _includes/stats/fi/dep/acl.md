@@ -75,68 +75,64 @@ The following 12 pairs of parts of speech are connected with `acl`: [fi-pos/NOUN
 
 This relation is universal.
 
-1746 nodes (1%) are attached to their parents as `acl`.
+2979 nodes (2%) are attached to their parents as `acl`.
 
-1728 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.91695303550974.
+1738 instances of `acl` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.82477341389728.
 
-The following 26 pairs of parts of speech are connected with `acl`: [fi-pos/NOUN]()-[fi-pos/VERB]() (1037; 59% instances), [fi-pos/ADJ]()-[fi-pos/VERB]() (284; 16% instances), [fi-pos/ADV]()-[fi-pos/VERB]() (106; 6% instances), [fi-pos/PRON]()-[fi-pos/VERB]() (78; 4% instances), [fi-pos/PROPN]()-[fi-pos/VERB]() (54; 3% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (47; 3% instances), [fi-pos/NOUN]()-[fi-pos/ADJ]() (45; 3% instances), [fi-pos/VERB]()-[fi-pos/VERB]() (32; 2% instances), [fi-pos/NUM]()-[fi-pos/VERB]() (11; 1% instances), [fi-pos/ADJ]()-[fi-pos/NOUN]() (9; 1% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (6; 0% instances), [fi-pos/PROPN]()-[fi-pos/NOUN]() (5; 0% instances), [fi-pos/ADJ]()-[fi-pos/ADJ]() (4; 0% instances), [fi-pos/PROPN]()-[fi-pos/ADJ]() (4; 0% instances), [fi-pos/X]()-[fi-pos/VERB]() (4; 0% instances), [fi-pos/ADJ]()-[fi-pos/PRON]() (3; 0% instances), [fi-pos/ADV]()-[fi-pos/ADJ]() (3; 0% instances), [fi-pos/ADV]()-[fi-pos/NOUN]() (2; 0% instances), [fi-pos/DET]()-[fi-pos/VERB]() (2; 0% instances), [fi-pos/NOUN]()-[fi-pos/PROPN]() (2; 0% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (2; 0% instances), [fi-pos/VERB]()-[fi-pos/NOUN]() (2; 0% instances), [fi-pos/NUM]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/NUM]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/NOUN]() (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `acl`: [fi-pos/NOUN]()-[fi-pos/VERB]() (2125; 71% instances), [fi-pos/ADJ]()-[fi-pos/VERB]() (319; 11% instances), [fi-pos/PROPN]()-[fi-pos/VERB]() (127; 4% instances), [fi-pos/ADV]()-[fi-pos/VERB]() (114; 4% instances), [fi-pos/PRON]()-[fi-pos/VERB]() (81; 3% instances), [fi-pos/NOUN]()-[fi-pos/ADJ]() (49; 2% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (49; 2% instances), [fi-pos/VERB]()-[fi-pos/VERB]() (30; 1% instances), [fi-pos/ADJ]()-[fi-pos/NOUN]() (11; 0% instances), [fi-pos/NUM]()-[fi-pos/VERB]() (11; 0% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (7; 0% instances), [fi-pos/ADV]()-[fi-pos/ADJ]() (6; 0% instances), [fi-pos/X]()-[fi-pos/VERB]() (6; 0% instances), [fi-pos/ADJ]()-[fi-pos/ADJ]() (5; 0% instances), [fi-pos/ADV]()-[fi-pos/NOUN]() (5; 0% instances), [fi-pos/PROPN]()-[fi-pos/NOUN]() (5; 0% instances), [fi-pos/PROPN]()-[fi-pos/ADJ]() (4; 0% instances), [fi-pos/ADJ]()-[fi-pos/PRON]() (3; 0% instances), [fi-pos/NOUN]()-[fi-pos/ADV]() (3; 0% instances), [fi-pos/PART]()-[fi-pos/VERB]() (3; 0% instances), [fi-pos/VERB]()-[fi-pos/NOUN]() (3; 0% instances), [fi-pos/DET]()-[fi-pos/VERB]() (2; 0% instances), [fi-pos/NOUN]()-[fi-pos/PROPN]() (2; 0% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (2; 0% instances), [fi-pos/ADJ]()-[fi-pos/SCONJ]() (1; 0% instances), [fi-pos/NOUN]()-[fi-pos/X]() (1; 0% instances), [fi-pos/NUM]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/NUM]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 8 acl	color:blue
-1	Minun	minä	DET	Pron,Pers,Sg1,Gen	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	det	_	_
-2	luokallani	luokka	NOUN	N,Sg,Ade,PxSg1	Case=Ade|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nmod	_	_
-3	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-4	eräs	eräs	DET	Pron,Qnt,Sg,Nom	Case=Nom|Number=Sing	5	det	_	_
-5	lapsi	lapsi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	3	nsubj	_	_
-6	,	,	PUNCT	Pun	_	5	punct	_	_
-7	joka	joka	PRON	Pron,Rel,Sg,Nom	Case=Nom|Number=Sing|PronType=Rel	8	nsubj	_	_
-8	asuu	asua	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	acl	_	_
-9	varuskunnan	varuskunta	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	8	nmod	_	_
-10	lähellä	lähellä	ADP	Adp	_	9	case	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 acl	color:blue
+1	On	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	1	expl	_	Alt=1_expl|Missed-Rel=phrm
+3	Annillakkii	anni	PROPN	N,Prop,Sg,Ade	Case=Ade|Number=Sing|Style=Coll	1	nmod:own	_	Alt=nmod:own
+4	oikeus	oikeus	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	1	nsubj	_	_
+5	suaha	saada	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	4	acl	_	_
+6	mies	mies	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	dobj	_	_
+7	jolla	joka	PRON	Pron,Rel,Sg,Ade	Case=Ade|Number=Sing|PronType=Rel	10	nmod	_	_
+8	joka	joka	DET	Pron,Qnt	PronType=Ind	9	det	_	_
+9	paikka	paikka	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	10	nsubj	_	_
+10	pelloo	pelata	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	_
 11	.	.	PUNCT	Pun	_	10	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 acl	color:blue
-1	Tottakai	tottakai	ADV	Pcle	_	3	advmod	_	_
-2	olen	olla	VERB	V,Act,Ind,Pres,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	3	cop	_	_
-3	valmis	valmis	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
-4	tekemään	tehdä	VERB	V,Act,InfMa,Ill	Case=Ill|InfForm=3|VerbForm=Inf|Voice=Act	3	acl	_	_
-5	kaikenlaisia	kaikenlainen	ADJ	A,Qnt,Pl,Par	Case=Par|Number=Plur	6	amod	_	_
-6	töitä	työ	NOUN	N,Pl,Par	Case=Par|Number=Plur	4	dobj	_	_
-7	.	.	PUNCT	Pun	_	6	punct	_	_
+# visual-style 3 2 acl	color:blue
+1	rippikoulua	rippikoulu	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	dobj	_	_
+2	käymätön	käydä	VERB	V,PcpNeg,Sg,Nom	Case=Nom|Number=Sing|PartForm=Neg|VerbForm=Part	3	acl	_	_
+3	nuori	nuori	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 acl	color:blue
-1	Ei	ei	VERB	V,Neg,Act,Sg3	Negative=Neg|Number=Sing|Person=3|Voice=Act	0	root	_	_
-2	sinne	sinne	ADV	Adv,Dem	PronType=Dem	1	advmod	_	_
-3	mistä	mistä	ADV	Adv,Rel	PronType=Rel	4	advmod	_	_
-4	tulemme	tulla	VERB	V,Act,Ind,Pres,Pl1	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	2	acl	_	_
-5	eikä	ei	VERB	V,Neg,Act,Sg3,Ka	Clitic=Ka|Negative=Neg|Number=Sing|Person=3|Voice=Act	6	neg	_	_
-6	sieltä	sieltä	ADV	Adv,Dem	PronType=Dem	2	conj	_	_
-7	mihin	mihin	ADV	Adv,Rel	PronType=Rel	9	advmod	_	_
-8	olemme	olla	VERB	V,Act,Ind,Pres,Pl1	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	6	acl	_	_
-9	menossa	meno	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	8	nmod	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 acl	color:blue
+1	Muistatkos	muistaa	VERB	V,Act,Ind,Pres,Sg2,Ko,S	Clitic=Ko,S|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	sen	se	DET	Pron,Dem,Sg,Gen	Case=Gen|Number=Sing|PronType=Dem	3	det	_	_
+3	Maijan	maija	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	1	dobj	_	_
+4	,	,	PUNCT	Pun	_	3	punct	_	_
+5	joka	joka	PRON	Pron,Rel,Sg,Nom	Case=Nom|Number=Sing|PronType=Rel	6	nsubj	_	_
+6	asui	asua	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	_
+7	täällä	täällä	ADV	Adv,Dem	PronType=Dem	6	advmod	_	_
+8	ennen	ennen	ADP	Adp	_	9	case	_	_
+9	meitä	me	PRON	Pron,Pers,Pl1,Par	Case=Par|Number=Plur|Person=1|PronType=Prs	6	nmod	_	_
+10	?	?	PUNCT	Pun	_	9	punct	_	_
 
 ~~~
 

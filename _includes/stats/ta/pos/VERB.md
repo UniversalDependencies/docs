@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  என்றார் ([VERB]() 15, [AUX]
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.238710 (the average of all parts of speech is 1.559122).
+The form / lemma ratio of `VERB` is 2.238710 (the average of all parts of speech is 1.557992).
 
 The 1st highest number of forms (13) was observed with the lemma “செய்”: செய்கிறோம், செய்தது, செய்தத், செய்து, செய்த், செய்ய, செய்யப், செய்யப்படவ், செய்யப்படாமல், செய்யப்படுவத், செய்யும், செய்வார், செய்வோம்.
 
@@ -68,21 +68,21 @@ Examples: தெரிவித்த், செய்து, கொண்டு
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 11 different relations: [ta-dep/root]() (538; 46% instances), [ta-dep/advcl]() (357; 30% instances), [ta-dep/ccomp]() (167; 14% instances), [ta-dep/xcomp]() (33; 3% instances), [ta-dep/acl]() (31; 3% instances), [ta-dep/conj]() (19; 2% instances), [ta-dep/compound]() (11; 1% instances), [ta-dep/csubj]() (10; 1% instances), [ta-dep/case]() (2; 0% instances), [ta-dep/parataxis]() (2; 0% instances), [ta-dep/cop]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 12 different relations: [ta-dep/root]() (538; 46% instances), [ta-dep/advcl]() (354; 30% instances), [ta-dep/ccomp]() (165; 14% instances), [ta-dep/xcomp]() (32; 3% instances), [ta-dep/acl]() (31; 3% instances), [ta-dep/conj]() (19; 2% instances), [ta-dep/compound]() (11; 1% instances), [ta-dep/csubj]() (10; 1% instances), [ta-dep/cc]() (6; 1% instances), [ta-dep/case]() (2; 0% instances), [ta-dep/parataxis]() (2; 0% instances), [ta-dep/cop]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 10 different parts of speech: [ROOT]() (538; 46% instances), [VERB]() (425; 36% instances), [ADJ]() (93; 8% instances), [NOUN]() (66; 6% instances), [PART]() (24; 2% instances), [AUX]() (11; 1% instances), [ADV]() (9; 1% instances), [NUM]() (2; 0% instances), [PROPN]() (2; 0% instances), [PRON]() (1; 0% instances)
+Parents of `VERB` nodes belong to 10 different parts of speech: [ROOT]() (538; 46% instances), [VERB]() (424; 36% instances), [ADJ]() (93; 8% instances), [NOUN]() (67; 6% instances), [PART]() (23; 2% instances), [AUX]() (11; 1% instances), [ADV]() (9; 1% instances), [PROPN]() (3; 0% instances), [NUM]() (2; 0% instances), [PRON]() (1; 0% instances)
 
-57 (5%) `VERB` nodes are leaves.
+63 (5%) `VERB` nodes are leaves.
 
 157 (13%) `VERB` nodes have one child.
 
-147 (13%) `VERB` nodes have two children.
+146 (12%) `VERB` nodes have two children.
 
-810 (69%) `VERB` nodes have three or more children.
+805 (69%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 15.
 
-Children of `VERB` nodes are attached using 20 different relations: [ta-dep/punct]() (712; 17% instances), [ta-dep/nmod]() (642; 16% instances), [ta-dep/nsubj]() (573; 14% instances), [ta-dep/aux]() (537; 13% instances), [ta-dep/dobj]() (513; 13% instances), [ta-dep/advmod]() (338; 8% instances), [ta-dep/advcl]() (215; 5% instances), [ta-dep/mark]() (208; 5% instances), [ta-dep/ccomp]() (153; 4% instances), [ta-dep/advmod:emph]() (50; 1% instances), [ta-dep/iobj]() (37; 1% instances), [ta-dep/amod]() (35; 1% instances), [ta-dep/xcomp]() (26; 1% instances), [ta-dep/conj]() (20; 0% instances), [ta-dep/compound]() (11; 0% instances), [ta-dep/cc]() (7; 0% instances), [ta-dep/csubj]() (6; 0% instances), [ta-dep/parataxis]() (3; 0% instances), [ta-dep/compound:prt]() (1; 0% instances), [ta-dep/nummod]() (1; 0% instances)
+Children of `VERB` nodes are attached using 21 different relations: [ta-dep/punct]() (712; 18% instances), [ta-dep/nmod]() (628; 15% instances), [ta-dep/nsubj]() (571; 14% instances), [ta-dep/aux]() (534; 13% instances), [ta-dep/dobj]() (497; 12% instances), [ta-dep/advmod]() (337; 8% instances), [ta-dep/advcl]() (214; 5% instances), [ta-dep/mark]() (204; 5% instances), [ta-dep/ccomp]() (153; 4% instances), [ta-dep/advmod:emph]() (61; 2% instances), [ta-dep/iobj]() (37; 1% instances), [ta-dep/amod]() (31; 1% instances), [ta-dep/xcomp]() (26; 1% instances), [ta-dep/conj]() (20; 0% instances), [ta-dep/cc]() (17; 0% instances), [ta-dep/compound]() (11; 0% instances), [ta-dep/csubj]() (6; 0% instances), [ta-dep/parataxis]() (3; 0% instances), [ta-dep/appos]() (1; 0% instances), [ta-dep/compound:prt]() (1; 0% instances), [ta-dep/nummod]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 14 different parts of speech: [NOUN]() (1286; 31% instances), [PUNCT]() (712; 17% instances), [AUX]() (543; 13% instances), [VERB]() (425; 10% instances), [ADV]() (305; 7% instances), [PROPN]() (293; 7% instances), [PART]() (282; 7% instances), [PRON]() (153; 4% instances), [ADJ]() (38; 1% instances), [ADP]() (22; 1% instances), [NUM]() (19; 0% instances), [DET]() (7; 0% instances), [CONJ]() (2; 0% instances), [X]() (1; 0% instances)
+Children of `VERB` nodes belong to 13 different parts of speech: [NOUN]() (1277; 31% instances), [PUNCT]() (712; 18% instances), [AUX]() (540; 13% instances), [VERB]() (424; 10% instances), [ADV]() (304; 7% instances), [PROPN]() (290; 7% instances), [PART]() (278; 7% instances), [PRON]() (159; 4% instances), [ADJ]() (37; 1% instances), [ADP]() (22; 1% instances), [NUM]() (19; 0% instances), [CONJ]() (2; 0% instances), [X]() (1; 0% instances)
 

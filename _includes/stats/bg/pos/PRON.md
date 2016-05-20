@@ -72,21 +72,21 @@ Examples: <em>се, себе, с...</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 13 different relations: [bg-dep/expl]() (3505; 35% instances), [bg-dep/nsubj]() (2509; 25% instances), [bg-dep/case]() (1454; 14% instances), [bg-dep/dobj]() (1082; 11% instances), [bg-dep/iobj]() (698; 7% instances), [bg-dep/nmod]() (621; 6% instances), [bg-dep/nsubjpass]() (118; 1% instances), [bg-dep/cop]() (61; 1% instances), [bg-dep/root]() (21; 0% instances), [bg-dep/conj]() (10; 0% instances), [bg-dep/discourse]() (10; 0% instances), [bg-dep/mwe]() (4; 0% instances), [bg-dep/advcl]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 17 different relations: [bg-dep/expl]() (3505; 35% instances), [bg-dep/nsubj]() (2477; 25% instances), [bg-dep/det]() (1448; 14% instances), [bg-dep/dobj]() (1082; 11% instances), [bg-dep/iobj]() (698; 7% instances), [bg-dep/nmod]() (621; 6% instances), [bg-dep/nsubjpass]() (150; 1% instances), [bg-dep/root]() (60; 1% instances), [bg-dep/conj]() (12; 0% instances), [bg-dep/ccomp]() (11; 0% instances), [bg-dep/discourse]() (10; 0% instances), [bg-dep/case]() (6; 0% instances), [bg-dep/advcl]() (5; 0% instances), [bg-dep/mwe]() (4; 0% instances), [bg-dep/acl]() (3; 0% instances), [bg-dep/csubj]() (1; 0% instances), [bg-dep/csubjpass]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 12 different parts of speech: [VERB]() (8252; 82% instances), [NOUN]() (1228; 12% instances), [ADJ]() (513; 5% instances), [ADV]() (32; 0% instances), [ROOT]() (21; 0% instances), [DET]() (16; 0% instances), [NUM]() (15; 0% instances), [PRON]() (7; 0% instances), [PART]() (5; 0% instances), [INTJ]() (2; 0% instances), [PROPN]() (2; 0% instances), [AUX]() (1; 0% instances)
+Parents of `PRON` nodes belong to 12 different parts of speech: [VERB]() (7768; 77% instances), [NOUN]() (1497; 15% instances), [ADJ]() (628; 6% instances), [ADV]() (68; 1% instances), [ROOT]() (60; 1% instances), [PRON]() (25; 0% instances), [DET]() (17; 0% instances), [NUM]() (15; 0% instances), [PROPN]() (7; 0% instances), [PART]() (6; 0% instances), [INTJ]() (2; 0% instances), [AUX]() (1; 0% instances)
 
-9054 (90%) `PRON` nodes are leaves.
+9018 (89%) `PRON` nodes are leaves.
 
-949 (9%) `PRON` nodes have one child.
+928 (9%) `PRON` nodes have one child.
 
-67 (1%) `PRON` nodes have two children.
+70 (1%) `PRON` nodes have two children.
 
-24 (0%) `PRON` nodes have three or more children.
+78 (1%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 6.
+The highest child degree of a `PRON` node is 11.
 
-Children of `PRON` nodes are attached using 14 different relations: [bg-dep/case]() (946; 81% instances), [bg-dep/cc]() (49; 4% instances), [bg-dep/mwe]() (45; 4% instances), [bg-dep/punct]() (38; 3% instances), [bg-dep/advmod]() (29; 2% instances), [bg-dep/conj]() (24; 2% instances), [bg-dep/nmod]() (10; 1% instances), [bg-dep/acl]() (8; 1% instances), [bg-dep/amod]() (3; 0% instances), [bg-dep/appos]() (3; 0% instances), [bg-dep/neg]() (3; 0% instances), [bg-dep/nummod]() (3; 0% instances), [bg-dep/discourse]() (2; 0% instances), [bg-dep/expl]() (1; 0% instances)
+Children of `PRON` nodes are attached using 19 different relations: [bg-dep/case]() (946; 68% instances), [bg-dep/punct]() (101; 7% instances), [bg-dep/cop]() (61; 4% instances), [bg-dep/nsubj]() (56; 4% instances), [bg-dep/cc]() (53; 4% instances), [bg-dep/mwe]() (45; 3% instances), [bg-dep/advmod]() (38; 3% instances), [bg-dep/conj]() (27; 2% instances), [bg-dep/nmod]() (20; 1% instances), [bg-dep/acl]() (8; 1% instances), [bg-dep/aux]() (8; 1% instances), [bg-dep/neg]() (7; 1% instances), [bg-dep/mark]() (5; 0% instances), [bg-dep/advcl]() (4; 0% instances), [bg-dep/amod]() (3; 0% instances), [bg-dep/appos]() (3; 0% instances), [bg-dep/nummod]() (3; 0% instances), [bg-dep/discourse]() (2; 0% instances), [bg-dep/expl]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 13 different parts of speech: [ADP]() (946; 81% instances), [CONJ]() (50; 4% instances), [PART]() (45; 4% instances), [PUNCT]() (38; 3% instances), [ADV]() (30; 3% instances), [NOUN]() (27; 2% instances), [VERB]() (9; 1% instances), [PRON]() (7; 1% instances), [ADJ]() (3; 0% instances), [INTJ]() (3; 0% instances), [NUM]() (3; 0% instances), [DET]() (2; 0% instances), [PROPN]() (1; 0% instances)
+Children of `PRON` nodes belong to 15 different parts of speech: [ADP]() (946; 68% instances), [PUNCT]() (101; 7% instances), [VERB]() (76; 5% instances), [NOUN]() (66; 5% instances), [CONJ]() (54; 4% instances), [PART]() (52; 4% instances), [ADV]() (40; 3% instances), [PRON]() (25; 2% instances), [INTJ]() (7; 1% instances), [PROPN]() (6; 0% instances), [ADJ]() (5; 0% instances), [SCONJ]() (5; 0% instances), [DET]() (4; 0% instances), [NUM]() (3; 0% instances), [AUX]() (1; 0% instances)
 

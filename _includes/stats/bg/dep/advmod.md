@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-5619 nodes (4%) are attached to their parents as `advmod`.
+5618 nodes (4%) are attached to their parents as `advmod`.
 
-4216 instances of `advmod` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.06602598327104.
+4234 instances of `advmod` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.11747953008188.
 
-The following 12 pairs of parts of speech are connected with `advmod`: [bg-pos/VERB]()-[bg-pos/ADV]() (3845; 68% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (771; 14% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (480; 9% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (311; 6% instances), [bg-pos/ADP]()-[bg-pos/ADV]() (77; 1% instances), [bg-pos/DET]()-[bg-pos/ADV]() (38; 1% instances), [bg-pos/NUM]()-[bg-pos/ADV]() (35; 1% instances), [bg-pos/PRON]()-[bg-pos/ADV]() (29; 1% instances), [bg-pos/PROPN]()-[bg-pos/ADV]() (25; 0% instances), [bg-pos/CONJ]()-[bg-pos/ADV]() (5; 0% instances), [bg-pos/INTJ]()-[bg-pos/ADV]() (2; 0% instances), [bg-pos/PART]()-[bg-pos/ADV]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advmod`: [bg-pos/VERB]()-[bg-pos/ADV]() (3579; 64% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (888; 16% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (568; 10% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (359; 6% instances), [bg-pos/ADP]()-[bg-pos/ADV]() (76; 1% instances), [bg-pos/DET]()-[bg-pos/ADV]() (38; 1% instances), [bg-pos/PRON]()-[bg-pos/ADV]() (38; 1% instances), [bg-pos/NUM]()-[bg-pos/ADV]() (35; 1% instances), [bg-pos/PROPN]()-[bg-pos/ADV]() (29; 1% instances), [bg-pos/CONJ]()-[bg-pos/ADV]() (5; 0% instances), [bg-pos/INTJ]()-[bg-pos/ADV]() (2; 0% instances), [bg-pos/PART]()-[bg-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,21 +47,24 @@ The following 12 pairs of parts of speech are connected with `advmod`: [bg-pos/V
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	В	в	ADP	R	_	6	case	_	_
-2	онова	този	DET	Pde-os-n	Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
-3	не	не	INTJ	Tn	_	4	neg	_	_
-4	толкова	толкова	ADV	Pdq	NumType=Card|PronType=Dem	5	advmod	_	_
-5	далечно	далечен	ADJ	Ansi	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
-6	време	време	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	8	nmod	_	_
-7	всичко	всеки	PRON	Pce-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	8	nsubj	_	_
-8	свършва	свършвам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9	дотук	там	ADV	Pdl	PronType=Dem	8	advmod	_	_
-10	.	.	PUNCT	punct	_	8	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 advmod	color:blue
+1	Дете	дете	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	бях	съм	VERB	Vxitf-t1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	стар	стар	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	_
+6	ли	ли	PART	Ti	_	5	discourse	_	_
+7	бях	съм	VERB	Vxitf-t1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	5	cop	_	_
+8	,	,	PUNCT	punct	_	9	punct	_	_
+9	или	или	CONJ	Cp	_	1	cc	_	_
+10	бях	съм	VERB	Vxitf-t1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	12	cop	_	_
+11	вече	вече	ADV	Dt	_	12	advmod	_	_
+12	мъртъв	мъртъв	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	_
+13	?	?	PUNCT	punct	_	1	punct	_	_
 
 ~~~
 

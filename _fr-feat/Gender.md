@@ -4,5 +4,4 @@ title: 'Gender'
 shortdef: 'gender'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Gender`.
+The possible values for `Gender` in French is masculine or feminine. It occurs with nouns, adjectives, past participles, determiners and pronouns. Words from other languages can have a neutral gender.

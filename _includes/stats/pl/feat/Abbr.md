@@ -25,7 +25,7 @@ The feature is used with 1 part-of-speech tags: [pl-pos/X]() (273; 0% instances)
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (3; 100%),
 <tt>X --[<a href="../dep/nmod.html">nmod</a>]--> X</tt> (3; 100%),
+<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (3; 100%),
 <tt>X --[<a href="../dep/case.html">case</a>]--> X</tt> (1; 100%).
 

@@ -222,3 +222,7 @@ UD Finnish follows ISK in not recognizing the lative case.
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=120> (esp. *Huom 1*; in Finnish)
+
+#### Diff
+
+FinnTreeBank (FI_FTB) marks the base form of the first infinitive as lative in contrast to translative. 

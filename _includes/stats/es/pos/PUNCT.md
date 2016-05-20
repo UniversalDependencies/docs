@@ -11,7 +11,7 @@ The 10 most frequent `PUNCT` lemmas: <em>,, ., ", (, ), -, :, ;, ', /</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ", (, ), -, :, ;, ', /</em>
 
-The 10 most frequent ambiguous lemmas: <em>,</em> ([PUNCT]() 21258, [X]() 1), <em>"</em> ([PUNCT]() 2719, [X]() 5), <em>)</em> ([PUNCT]() 2403, [X]() 1), <em>-</em> ([PUNCT]() 1073, [X]() 1), <em>;</em> ([PUNCT]() 288, [X]() 2), <em>'</em> ([PUNCT]() 207, [X]() 2), <em>/</em> ([PUNCT]() 194, [SYM]() 22), <em>»</em> ([PUNCT]() 167, [ADJ]() 2), <em>--</em> ([PUNCT]() 156, [X]() 1), <em>[</em> ([PUNCT]() 17, [X]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>,</em> ([PUNCT]() 21258, [X]() 1), <em>"</em> ([PUNCT]() 2719, [X]() 5), <em>)</em> ([PUNCT]() 2403, [X]() 1), <em>-</em> ([PUNCT]() 1073, [X]() 1), <em>;</em> ([PUNCT]() 288, [X]() 2), <em>'</em> ([PUNCT]() 207, [X]() 2), <em>/</em> ([PUNCT]() 194, [SYM]() 22), <em>»</em> ([PUNCT]() 167, [ADJ]() 2), <em>--</em> ([PUNCT]() 156, [X]() 1), <em>[</em> ([PUNCT]() 17, [PROPN]() 1, [X]() 1)
 
 The 10 most frequent ambiguous types:  <em>,</em> ([PUNCT]() 21258, [X]() 1), <em>"</em> ([PUNCT]() 2719, [X]() 5), <em>)</em> ([PUNCT]() 2403, [X]() 1), <em>-</em> ([PUNCT]() 1073, [X]() 1), <em>;</em> ([PUNCT]() 288, [X]() 2), <em>'</em> ([PUNCT]() 207, [X]() 2), <em>/</em> ([PUNCT]() 194, [SYM]() 22), <em>»</em> ([PUNCT]() 167, [ADJ]() 2), <em>--</em> ([PUNCT]() 156, [X]() 1), <em>[</em> ([PUNCT]() 17, [X]() 1, [PROPN]() 1)
 
@@ -80,4 +80,68 @@ The highest child degree of a `PUNCT` node is 6.
 Children of `PUNCT` nodes are attached using 12 different relations: [es-dep/punct]() (12; 50% instances), [es-dep/cop]() (2; 8% instances), [es-dep/acl:relcl]() (1; 4% instances), [es-dep/advmod]() (1; 4% instances), [es-dep/appos]() (1; 4% instances), [es-dep/case]() (1; 4% instances), [es-dep/cc]() (1; 4% instances), [es-dep/dep]() (1; 4% instances), [es-dep/det]() (1; 4% instances), [es-dep/nmod]() (1; 4% instances), [es-dep/nsubj]() (1; 4% instances), [es-dep/nummod]() (1; 4% instances)
 
 Children of `PUNCT` nodes belong to 10 different parts of speech: [PUNCT]() (12; 50% instances), [ADP]() (2; 8% instances), [NOUN]() (2; 8% instances), [VERB]() (2; 8% instances), [ADV]() (1; 4% instances), [CONJ]() (1; 4% instances), [DET]() (1; 4% instances), [PRON]() (1; 4% instances), [PROPN]() (1; 4% instances), [SYM]() (1; 4% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+There are 18 `PUNCT` lemmas (0%), 19 `PUNCT` types (0%) and 65501 `PUNCT` tokens (12%).
+Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 4 in number of tokens.
+
+The 10 most frequent `PUNCT` lemmas: <em>,, ., ", -, (, ), :, ?, ;, ¿</em>
+
+The 10 most frequent `PUNCT` types:  <em>,, ., ", -, (, ), :, ?, ;, ¿</em>
+
+The 10 most frequent ambiguous lemmas: <em>'</em> ([SYM]() 100, [PUNCT]() 8), <em>/</em> ([PUNCT]() 8, [SYM]() 4)
+
+The 10 most frequent ambiguous types:  <em>'</em> ([SYM]() 100, [PUNCT]() 8), <em>/</em> ([PUNCT]() 8, [SYM]() 4)
+
+
+* <em>'</em>
+  * [SYM]() 100: <em><b>'</b> - Cómo no nos habremos dado cuenta ? <b>'</b> , me dijo - .</em>
+  * [PUNCT]() 8: <em>" En serio , no sabía que Riazor fuera un <b>'</b> campo maldito <b>'</b> para el Madrid .</em>
+* <em>/</em>
+  * [PUNCT]() 8: <em>EFE EMM <b>/</b> jad jla <b>/</b> rt .</em>
+  * [SYM]() 4: <em>El Olympique sorprende a el Chelsea con un gol de Pires ( 1-0 ) Roma <b>/</b> Marsella .</em>
+
+## Morphology
+
+The form / lemma ratio of `PUNCT` is 1.055556 (the average of all parts of speech is 1.501056).
+
+The 1st highest number of forms (2) was observed with the lemma “etcétera”: <em>etc, etcétera</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
+
+`PUNCT` occurs with 2 features: [es-feat/PunctType]() (65415; 100% instances), [es-feat/PunctSide]() (4417; 7% instances)
+
+`PUNCT` occurs with 11 feature-value pairs: `PunctSide=Fin`, `PunctSide=Ini`, `PunctType=Brck`, `PunctType=Colo`, `PunctType=Comm`, `PunctType=Dash`, `PunctType=Excl`, `PunctType=Peri`, `PunctType=Qest`, `PunctType=Quot`, `PunctType=Semi`
+
+`PUNCT` occurs with 13 feature combinations.
+The most frequent feature combination is `PunctType=Comm` (30306 tokens).
+Examples: <em>,, ..., etcétera, etc</em>
+
+
+## Relations
+
+`PUNCT` nodes are attached to their parents using 6 different relations: [es-dep/punct]() (65465; 100% instances), [es-dep/compound]() (19; 0% instances), [es-dep/root]() (12; 0% instances), [es-dep/conj]() (2; 0% instances), [es-dep/nmod]() (2; 0% instances), [es-dep/mwe]() (1; 0% instances)
+
+Parents of `PUNCT` nodes belong to 17 different parts of speech: [VERB]() (29429; 45% instances), [NOUN]() (16292; 25% instances), [PROPN]() (7202; 11% instances), [ADJ]() (5406; 8% instances), [ADV]() (1925; 3% instances), [ADP]() (1290; 2% instances), [NUM]() (959; 1% instances), [PRON]() (955; 1% instances), [AUX]() (870; 1% instances), [CONJ]() (446; 1% instances), [DET]() (213; 0% instances), [INTJ]() (136; 0% instances), [SYM]() (111; 0% instances), [SCONJ]() (110; 0% instances), [PART]() (78; 0% instances), [PUNCT]() (67; 0% instances), [ROOT]() (12; 0% instances)
+
+65466 (100%) `PUNCT` nodes are leaves.
+
+0 (0%) `PUNCT` nodes have one child.
+
+2 (0%) `PUNCT` nodes have two children.
+
+33 (0%) `PUNCT` nodes have three or more children.
+
+The highest child degree of a `PUNCT` node is 9.
+
+Children of `PUNCT` nodes are attached using 7 different relations: [es-dep/punct]() (67; 38% instances), [es-dep/cc]() (51; 29% instances), [es-dep/conj]() (51; 29% instances), [es-dep/nmod]() (3; 2% instances), [es-dep/name]() (2; 1% instances), [es-dep/acl]() (1; 1% instances), [es-dep/det]() (1; 1% instances)
+
+Children of `PUNCT` nodes belong to 14 different parts of speech: [PUNCT]() (67; 38% instances), [CONJ]() (43; 24% instances), [NOUN]() (18; 10% instances), [VERB]() (17; 10% instances), [ADJ]() (6; 3% instances), [PROPN]() (6; 3% instances), [ADP]() (5; 3% instances), [ADV]() (4; 2% instances), [AUX]() (3; 2% instances), [PRON]() (2; 1% instances), [SYM]() (2; 1% instances), [DET]() (1; 1% instances), [PART]() (1; 1% instances), [SCONJ]() (1; 1% instances)
 

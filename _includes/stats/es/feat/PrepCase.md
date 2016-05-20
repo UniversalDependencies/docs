@@ -37,7 +37,7 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 2 [es-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `DET` and `PrepCase` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `PrepCase` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%).
 
 `DET` tokens may have the following values of `PrepCase`:
 
@@ -48,4 +48,28 @@ The most frequent other feature values with which `DET` and `PrepCase` co-occurr
 The 10 most frequent relations where parent and child node agree in `PrepCase`:
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (8; 67%),
 <tt>PRON --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (1; 100%).
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This feature is language-specific.
+It occurs with 1 different values: `Pre`.
+
+129 tokens (0%) have a non-empty value of `PrepCase`.
+7 types (0%) occur at least once with a non-empty value of `PrepCase`.
+5 lemmas (0%) occur at least once with a non-empty value of `PrepCase`.
+The feature is used with 1 part-of-speech tags: [es-pos/PRON]() (129; 0% instances).
+
+### `PRON`
+
+129 [es-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `PrepCase`.
+
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (129; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (129; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (129; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (74; 57%).
+
+`PRON` tokens may have the following values of `PrepCase`:
+
+* `Pre` (129; 100% of non-empty `PrepCase`): <em>mí, sí, ti, conmigo, consigo, contigo, mi</em>
 

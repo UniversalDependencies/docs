@@ -6,30 +6,29 @@
 
 This relation is universal.
 
-3156 nodes (1%) are attached to their parents as `ccomp`.
+1977 nodes (1%) are attached to their parents as `ccomp`.
 
-2854 instances of `ccomp` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.30766793409379.
+1611 instances of `ccomp` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.33940313606474.
 
-The following 17 pairs of parts of speech are connected with `ccomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2816; 89% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (150; 5% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (141; 4% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (16; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (7; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (5; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (3; 0% instances), [pt-pos/CONJ]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `ccomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (1569; 79% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (179; 9% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (173; 9% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (18; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (7; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/CONJ]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 7 ccomp	color:blue
-1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	bombeiro	bombeiro	NOUN	n|M|S	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	suspeita	suspeitar	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	que	que	SCONJ	conj-s	_	7	mark	_	_
-5	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	golfinho	golfinho	NOUN	n|M|S	Gender=Masc|Number=Sing	7	nsubj	_	_
-7	tenha	ter	VERB	v-fin|PR|3S|SUBJ	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-8	morrido	morrer	VERB	v-pcp	VerbForm=Part	7	ccomp	_	_
-9	afogado	afogar	VERB	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	_
-10	.	.	PUNCT	punc	_	3	punct	_	_
+# visual-style 3 4 ccomp	color:blue
+1	A	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	solução	solução	NOUN	n|F|S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	foi	ser	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	negociar	negociar	VERB	v-inf	VerbForm=Inf	3	ccomp	_	_
+5	diretamente	diretamente	ADV	adv	_	4	advmod	_	_
+6	com	com	ADP	prp	AdpType=Prep	8	case	_	_
+7	os	o	DET	art|<artd>|M|P	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	jogadores	jogador	NOUN	n|M|P	Gender=Masc|Number=Plur	4	dobj	_	_
+9	.	.	PUNCT	punc	_	3	punct	_	_
 
 ~~~
 
@@ -56,20 +55,25 @@ The following 17 pairs of parts of speech are connected with `ccomp`: [pt-pos/VE
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 ccomp	color:blue
-1	Achei	achar	VERB	v-fin|PS|1S|IND	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-2	que	que	SCONJ	conj-s	_	4	mark	_	_
-3	era	ser	VERB	v-fin|IMPF|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
-4	importante	importante	ADJ	adj|M|S	Gender=Masc|Number=Sing	1	ccomp	_	_
-5	assumir	assumir	VERB	v-inf	VerbForm=Inf	4	csubj	_	_
-6	uma	um	DET	art|<arti>|F|S	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	postura	postura	NOUN	n|F|S	Gender=Fem|Number=Sing	5	dobj	_	_
-8	pessoal	pessoal	ADJ	adj|F|S	Gender=Fem|Number=Sing	7	amod	_	_
-9	.	.	PUNCT	punc	_	1	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 8 ccomp	color:blue
+1	Enganei-	enganar	VERB	v-fin|PS|1S|IND	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	me	eu	PRON	pron-pers|<refl>|M/F|1S|ACC	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	1	dobj	_	_
+3	:	:	PUNCT	punc	_	1	punct	_	_
+4	não	não	ADV	adv	_	8	neg	_	_
+5	serie	seriar	VERB	v-fin|COND|3S	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	8	cop	_	_
+6	nem	nem	CONJ	conj-c|<co-vfin>|<co-fmc>	_	8	cc	_	_
+7	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	primeiro	primeiro	ADJ	adj|<n>|<NUM-ord>|M|S	Gender=Masc|Number=Sing|NumType=Ord	13	ccomp	_	_
+9	nem	nem	CONJ	conj-c|<co-sc>	_	8	cc	_	_
+10	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	último	último	ADJ	adj|<n>|<NUM-ord>|M|S	Gender=Masc|Number=Sing|NumType=Ord	8	conj	_	_
+12	,	,	PUNCT	punc	_	13	punct	_	_
+13	espero	esperar	VERB	v-fin|PR|1S|IND	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+14	..	..	PUNCT	punc	_	1	punct	_	_
 
 ~~~
 

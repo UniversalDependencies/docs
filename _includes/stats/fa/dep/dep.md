@@ -47,7 +47,7 @@ The following 28 pairs of parts of speech are connected with `dep`: [fa-pos/NOUN
 1	حسینی	_	NOUN	N_SING	Number=Sing	0	root	_	_
 2	:	_	PUNCT	DELM	_	1	punct	_	_
 3	خجالت	_	NOUN	N_SING	Number=Sing	4	compound:lvc	_	_
-4	نمی‌کشیم	_	VERB	V_Pres	Negative=Neg|Number=Plur|Person=1|Tense=Pres	1	parataxis	_	_
+4	نمی‌کشیم	_	VERB	V_PRS	Negative=Neg|Number=Plur|Person=1|Tense=Pres	1	parataxis	_	_
 5	خانم	_	NOUN	N_SING	Number=Sing	4	dep	_	_
 6	.	_	PUNCT	DELM	_	1	punct	_	_
 
@@ -63,14 +63,14 @@ The following 28 pairs of parts of speech are connected with `dep`: [fa-pos/NOUN
 1	گفت	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	_
 2	:	_	PUNCT	DELM	_	1	punct	_	_
 3	میدانی	_	VERB	V_PRS	Number=Sing|Person=2|Tense=Pres	1	ccomp	_	_
-4	که	_	SCONJ	CON	_	16	mark	_	_
+4	که	که	SCONJ	CON	_	16	mark	_	_
 5	در	_	ADP	P	_	6	case	_	_
 6	اثر	_	NOUN	N_SING	Number=Sing	16	nmod	_	_
 7	اختلاف	_	NOUN	N_SING	Number=Sing	6	nmod:poss	_	_
-8	و	_	CONJ	CON	_	7	cc	_	_
+8	و	و	CONJ	CON	_	7	cc	_	_
 9	فتنه	_	NOUN	N_SING	Number=Sing	7	conj	_	_
 10	چه‌ها	_	NOUN	N_PL	Number=Plur	16	nsubj	_	_
-11	که	_	SCONJ	CON	_	16	dep	_	_
+11	که	که	SCONJ	CON	_	16	dep	_	_
 12	بر	_	ADP	P	_	13	case	_	_
 13	سر	_	NOUN	N_SING	Number=Sing	16	nmod	_	_
 14	این	_	DET	DET	_	15	det	_	_

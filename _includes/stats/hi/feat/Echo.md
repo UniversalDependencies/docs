@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADJ` and `Echo` co-occurred: 
 
 42 [hi-pos/ADV]() tokens (1% of all `ADV` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `ADV` and `Echo` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (42; 100%), <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (42; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (42; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (42; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (42; 100%), <tt><a href="AdvType.html">AdvType</a>=EMPTY</tt> (42; 100%).
+The most frequent other feature values with which `ADV` and `Echo` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (42; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (42; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (42; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (42; 100%), <tt><a href="AdvType.html">AdvType</a>=EMPTY</tt> (42; 100%), <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (42; 100%).
 
 `ADV` tokens may have the following values of `Echo`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `NUM` and `Echo` co-occurred: 
 
 12 [hi-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `PRON` and `Echo` co-occurred: <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (12; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (12; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (12; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (12; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (11; 92%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 58%).
+The most frequent other feature values with which `PRON` and `Echo` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (12; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (12; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (12; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (12; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (11; 92%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 58%).
 
 `PRON` tokens may have the following values of `Echo`:
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Echo` co-occurred:
 
 8 [hi-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `VERB` and `Echo` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (8; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7; 88%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (6; 75%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 75%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 63%).
+The most frequent other feature values with which `VERB` and `Echo` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (8; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (8; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7; 88%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (6; 75%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6; 75%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 63%).
 
 `VERB` tokens may have the following values of `Echo`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `VERB` and `Echo` co-occurred:
 
 1 [hi-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `DET` and `Echo` co-occurred: <tt><a href="PronType.html">PronType</a>=Ind</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Echo` co-occurred: <tt><a href="PronType.html">PronType</a>=Ind</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Echo`:
 

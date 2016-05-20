@@ -93,3 +93,65 @@ Children of `X` nodes are attached using 27 different relations: [es-dep/punct](
 
 Children of `X` nodes belong to 15 different parts of speech: [PUNCT]() (670; 27% instances), [X]() (400; 16% instances), [ADP]() (359; 14% instances), [NUM]() (223; 9% instances), [DET]() (222; 9% instances), [NOUN]() (202; 8% instances), [PROPN]() (93; 4% instances), [VERB]() (77; 3% instances), [ADJ]() (75; 3% instances), [CONJ]() (72; 3% instances), [SYM]() (63; 3% instances), [ADV]() (22; 1% instances), [PRON]() (16; 1% instances), [SCONJ]() (10; 0% instances), [AUX]() (5; 0% instances)
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+There are 2 `X` lemmas (0%), 2 `X` types (0%) and 2 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 16 in number of lemmas, 16 in number of types and 17 in number of tokens.
+
+The 10 most frequent `X` lemmas: <em>tanto, uno</em>
+
+The 10 most frequent `X` types:  <em>tanto, uno</em>
+
+The 10 most frequent ambiguous lemmas: <em>tanto</em> ([ADV]() 364, [NOUN]() 121, [DET]() 70, [PRON]() 6, [X]() 1), <em>uno</em> ([DET]() 9472, [PRON]() 739, [NOUN]() 12, [NUM]() 6, [X]() 1)
+
+The 10 most frequent ambiguous types:  <em>tanto</em> ([ADV]() 128, [NOUN]() 110, [DET]() 17, [X]() 1, [PRON]() 1), <em>uno</em> ([PRON]() 328, [NOUN]() 11, [NUM]() 5, [DET]() 2, [X]() 1)
+
+
+* <em>tanto</em>
+  * [ADV]() 128: <em>Las cosas no han cambiado <b>tanto</b> , brodel ( hermano ) .</em>
+  * [NOUN]() 110: <em>Por <b>tanto</b> , difícilmente pudieron existir antes que éstas .</em>
+  * [DET]() 17: <em>¿ Por qué <b>tanto</b> tiempo ? - - .</em>
+  * [X]() 1: <em>" Tengo que sentir me a el cien por cien , porque si estoy a un <b>tanto</b> por ciento inferior será perjudicial para mí y para el equipo " , explicó el central , que pasará una prueba física .</em>
+  * [PRON]() 1: <em>a el mismo tiempo , se dan cita miles de especialistas en distintas materias : los abogados alemanes celebran su encuentro anual , otro <b>tanto</b> sucede con los médicos , y expertos internacionales preparan a partir de el viernes la cumbre de líderes reformistas .</em>
+* <em>uno</em>
+  * [PRON]() 328: <em>Ocupamos <b>uno</b> de los primeros lugares en cuanto a número de desempleados .</em>
+  * [NOUN]() 11: <em>La federación , en un comunicado , recuerda que Colombia iniciará su retención el <b>uno</b> de octubre , fecha en la que comienza su cosecha de café .</em>
+  * [NUM]() 5: <em>Tampoco parece decidido si jugará con <b>uno</b> o dos puntas , hecho que también condiciona la formación .</em>
+  * [DET]() 2: <em>Cierto es que las grandes obras literarias de humor tienen siempre algo de desconcertante , de equívoco , que propicia su desvirtuamiento en <b>uno</b> u otro sentido .</em>
+  * [X]() 1: <em>El objetivo es lograr una sustancial bajada de entre 20 y 30 puntos en el índice de inflación que ronda el 80 por ciento anual y procurar un crecimiento económico de el <b>uno</b> por ciento a el finalizar el año , cifra que supondrá un salto de el -7,5 por ciento de 1999 .</em>
+
+## Morphology
+
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.501056).
+
+The 1st highest number of forms (1) was observed with the lemma “tanto”: <em>tanto</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “uno”: <em>uno</em>.
+
+`X` does not occur with any features.
+
+
+## Relations
+
+`X` nodes are attached to their parents using 2 different relations: [es-dep/advcl]() (1; 50% instances), [es-dep/nummod]() (1; 50% instances)
+
+Parents of `X` nodes belong to 2 different parts of speech: [ADJ]() (1; 50% instances), [NOUN]() (1; 50% instances)
+
+0 (0%) `X` nodes are leaves.
+
+0 (0%) `X` nodes have one child.
+
+0 (0%) `X` nodes have two children.
+
+2 (100%) `X` nodes have three or more children.
+
+The highest child degree of a `X` node is 6.
+
+Children of `X` nodes are attached using 6 different relations: [es-dep/case]() (2; 22% instances), [es-dep/det]() (2; 22% instances), [es-dep/nmod]() (2; 22% instances), [es-dep/amod]() (1; 11% instances), [es-dep/cop]() (1; 11% instances), [es-dep/mark]() (1; 11% instances)
+
+Children of `X` nodes belong to 6 different parts of speech: [ADP]() (2; 22% instances), [DET]() (2; 22% instances), [NUM]() (2; 22% instances), [ADJ]() (1; 11% instances), [SCONJ]() (1; 11% instances), [VERB]() (1; 11% instances)
+

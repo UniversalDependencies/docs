@@ -75,55 +75,16 @@ The following 33 pairs of parts of speech are connected with `amod`: [la-pos/NOU
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-12518 nodes (5%) are attached to their parents as `amod`.
+11155 nodes (4%) are attached to their parents as `amod`.
 
-6342 instances of `amod` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17239175587154.
+6403 instances of `amod` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18395338413268.
 
-The following 17 pairs of parts of speech are connected with `amod`: [la-pos/NOUN]()-[la-pos/ADJ]() (8990; 72% instances), [la-pos/NOUN]()-[la-pos/DET]() (2557; 20% instances), [la-pos/PRON]()-[la-pos/ADJ]() (250; 2% instances), [la-pos/VERB]()-[la-pos/ADJ]() (186; 1% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (130; 1% instances), [la-pos/PRON]()-[la-pos/DET]() (115; 1% instances), [la-pos/VERB]()-[la-pos/DET]() (101; 1% instances), [la-pos/ADJ]()-[la-pos/DET]() (85; 1% instances), [la-pos/NUM]()-[la-pos/ADJ]() (59; 0% instances), [la-pos/DET]()-[la-pos/ADJ]() (24; 0% instances), [la-pos/CONJ]()-[la-pos/ADJ]() (8; 0% instances), [la-pos/NUM]()-[la-pos/DET]() (4; 0% instances), [la-pos/ADV]()-[la-pos/ADJ]() (3; 0% instances), [la-pos/ADV]()-[la-pos/DET]() (2; 0% instances), [la-pos/X]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/PUNCT]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/X]()-[la-pos/DET]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 amod	color:blue
-1	voluntas	voluntas	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nsubj	_	_
-2	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-3	superior	superus	ADJ	C1|grn2|casA|gen2	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	0	root	_	_
-4	quam	quam	SCONJ	O4	_	5	mark	_	_
-5	appetitus	appetitus	NOUN	D1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	dep	_	_
-6	sensitivus	sensitivus	ADJ	B1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
-7	:	:	PUNCT	Punc	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 amod	color:blue
-1	quoniam	quoniam	SCONJ	O4	_	4	mark	_	_
-2	haec	hic	PRON	F1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
-3	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-4	pars	pars	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
-5	nostra	noster	DET	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	amod	_	_
-6	,	,	PUNCT	Punc	_	4	punct	_	_
-7	et	et	CONJ	O4	_	4	cc	_	_
-8	haec	hic	PRON	F1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	10	nsubj	_	_
-9	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
-10	sors	sors	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	conj	_	_
-11	nostra	noster	DET	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	amod	_	_
-12	.	.	PUNCT	Punc	_	4	punct	_	_
-
-~~~
+The following 15 pairs of parts of speech are connected with `amod`: [la-pos/NOUN]()-[la-pos/ADJ]() (10207; 92% instances), [la-pos/PRON]()-[la-pos/ADJ]() (304; 3% instances), [la-pos/VERB]()-[la-pos/ADJ]() (205; 2% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (151; 1% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (114; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (77; 1% instances), [la-pos/NUM]()-[la-pos/ADJ]() (68; 1% instances), [la-pos/ADJ]()-[la-pos/PRON]() (8; 0% instances), [la-pos/CONJ]()-[la-pos/ADJ]() (7; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (4; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (4; 0% instances), [la-pos/ADV]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/X]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/DET]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/PUNCT]()-[la-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -132,13 +93,50 @@ The following 17 pairs of parts of speech are connected with `amod`: [la-pos/NOU
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 amod	color:blue
-1	potest	possum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
-2	autem	autem	CONJ	O4	_	1	cc	_	_
-3	aliquis	aliquis	PRON	F1|grn1|casA|gen1|varA	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	1	nsubjpass	_	_
-4	malus	malus	ADJ	B1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
-5	honorem	honor	NOUN	C1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	dobj	_	_
-6	consequi	consequor	VERB	L3|modQ|tem1	Tense=Pres|VerbForm=Inf|Voice=Pass	1	xcomp	_	_
-7	.	.	PUNCT	Punc	_	1	punct	_	_
+1	quod	qui	PRON	F1|grn1|casA|gen3|stRL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	0	root	_	_
+2	sit	sum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	officium	officium	NOUN	B1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	nsubj	_	_
+4	sapientis	sapiens	ADJ	C1|grn1|casB|gen1|stAC	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+5	.	.	PUNCT	Punc	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 amod	color:blue
+1	uno	unus	NUM	F1|grn1|casF|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|NumType=Card	2	nummod	_	_
+2	modo	modus	NOUN	B1|grn1|casF|gen1|stRL	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+3	,	,	PUNCT	Punc	_	10	punct	_	_
+4	ita	ita	ADV	O4|stRL	_	10	mark	_	_
+5	quod	quod	SCONJ	O4|stRL	_	4	mwe	_	_
+6	illud	ille	PRON	F1|grn1|casA|gen3|stPD	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	_
+7	primum	primus	ADJ	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|NumType=Ord	6	amod	_	_
+8	sit	sum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+9	penitus	penitus	ADV	O4|stRL	_	10	advmod	_	_
+10	immobile	immobilis	ADJ	C1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	dep	_	_
+11	.	.	PUNCT	Punc	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 amod	color:blue
+1	aut	aut	CONJ	O4|stRL	_	2	cc	_	_
+2	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	devenire	devenio	VERB	M3|modH|tem1|vgr1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	2	csubj	_	_
+4	ad	ad	ADP	S4|stRL	AdpType=Prep	6	mark	_	_
+5	aliquod	aliqui	PRON	F1|grn1|casD|gen3|varA|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	6	nmod	_	_
+6	movens	moveo	VERB	K2	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	ccomp	_	_
+7	immobile	immobilis	ADJ	C1|grn1|casD|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	Punc	_	2	punct	_	_
 
 ~~~
 

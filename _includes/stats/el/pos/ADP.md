@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Greek)
 
 There are 43 `ADP` lemmas (1%), 60 `ADP` types (1%) and 5105 `ADP` tokens (9%).
-Out of 11 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 5 in number of tokens.
+Out of 10 observed tags, the rank of `ADP` is: 6 in number of lemmas, 7 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>στου, για, με, από, σε, κατά, προς, μεταξύ, μέχρι, μετά</em>
 
@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>με</em> ([ADP]() 688, [PRON]() 2), 
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.395349 (the average of all parts of speech is 1.776033).
+The form / lemma ratio of `ADP` is 1.395349 (the average of all parts of speech is 1.774112).
 
 The 1st highest number of forms (8) was observed with the lemma “στου”: <em>στ', στα, στη, στην, στις, στο, στον, στους</em>.
 
@@ -68,7 +68,7 @@ Examples: <em>για, με, από, σε, κατά, προς, μεταξύ, μέ
 
 `ADP` nodes are attached to their parents using 4 different relations: [el-dep/case]() (5002; 98% instances), [el-dep/mark]() (92; 2% instances), [el-dep/conj]() (6; 0% instances), [el-dep/root]() (5; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: [NOUN]() (4221; 83% instances), [PRON]() (256; 5% instances), [CONJ]() (186; 4% instances), [VERB]() (141; 3% instances), [ADV]() (98; 2% instances), [NUM]() (81; 2% instances), [ADJ]() (73; 1% instances), [PUNCT]() (39; 1% instances), [ROOT]() (5; 0% instances), [ADP]() (4; 0% instances), [PART]() (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: [NOUN]() (4260; 83% instances), [PRON]() (256; 5% instances), [CONJ]() (186; 4% instances), [VERB]() (141; 3% instances), [ADV]() (98; 2% instances), [NUM]() (81; 2% instances), [ADJ]() (73; 1% instances), [ROOT]() (5; 0% instances), [ADP]() (4; 0% instances), [PART]() (1; 0% instances)
 
 5008 (98%) `ADP` nodes are leaves.
 
@@ -82,5 +82,5 @@ The highest child degree of a `ADP` node is 5.
 
 Children of `ADP` nodes are attached using 9 different relations: [el-dep/cc]() (42; 33% instances), [el-dep/punct]() (27; 21% instances), [el-dep/nmod]() (25; 20% instances), [el-dep/advmod]() (14; 11% instances), [el-dep/appos]() (12; 9% instances), [el-dep/conj]() (4; 3% instances), [el-dep/dep]() (2; 2% instances), [el-dep/amod]() (1; 1% instances), [el-dep/remnant]() (1; 1% instances)
 
-Children of `ADP` nodes belong to 9 different parts of speech: [CONJ]() (42; 33% instances), [NOUN]() (33; 26% instances), [PUNCT]() (28; 22% instances), [ADV]() (13; 10% instances), [ADP]() (4; 3% instances), [ADJ]() (3; 2% instances), [NUM]() (2; 2% instances), [PRON]() (2; 2% instances), [PART]() (1; 1% instances)
+Children of `ADP` nodes belong to 9 different parts of speech: [CONJ]() (42; 33% instances), [NOUN]() (34; 27% instances), [PUNCT]() (27; 21% instances), [ADV]() (13; 10% instances), [ADP]() (4; 3% instances), [ADJ]() (3; 2% instances), [NUM]() (2; 2% instances), [PRON]() (2; 2% instances), [PART]() (1; 1% instances)
 

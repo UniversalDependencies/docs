@@ -29,3 +29,8 @@ aux(tehdä-3, voidaan-2)
 dobj(tehdä-3, muutoksia-4)
 punct(tehdä-3, .-5)
 ~~~
+
+### Diffs
+
+FinnTreeBank (FI_FTB) does not use the `auxpass` relation,
+but uses [`aux`]() instead.

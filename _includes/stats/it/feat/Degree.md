@@ -22,7 +22,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Abs` (81; 20% of non-empty `Degree`): <em>altissimo, gravissimo, altissima, bellissimo, chiarissimo, durissima, giovanissimi, grandissima, lunghissimo, ultimissimo</em>
 * `Cmp` (325; 80% of non-empty `Degree`): <em>maggiore, maggior, inferiore, migliore, superiore, minore, maggiori, migliori, superiori, miglior</em>
-* `EMPTY` (16979): <em>primo, prima, grande, presente, altri, altro, stesso, comune, nuovo, stessa</em>
+* `EMPTY` (16940): <em>primo, prima, grande, presente, altri, altro, stesso, comune, nuovo, stessa</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (61) occur only with one value of `Degree`.
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Abs` (15; 100% of non-empty `Degree`): <em>benissimo, moltissimo, fortissimo, lontanissimo, malissimo</em>
-* `EMPTY` (10469): <em>non, più, anche, dove, come, quando, solo, sempre, ancora, prima</em>
+* `EMPTY` (10470): <em>non, più, anche, dove, come, quando, solo, sempre, ancora, prima</em>
 
 ### `NOUN`
 
@@ -47,29 +47,29 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 * `Abs` (2; 20% of non-empty `Degree`): <em>Carissimi, finalissima</em>
 * `Cmp` (8; 80% of non-empty `Degree`): <em>minori, maggiore, minore, peggiore, superiori</em>
-* `EMPTY` (53618): <em>anni, presidente, parte, fondo, diritto, legge, proprietario, anno, caso, art.</em>
+* `EMPTY` (53641): <em>anni, presidente, parte, fondo, diritto, legge, proprietario, anno, caso, art.</em>
 
 ### `DET`
 
 6 [it-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (6; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (6; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (5; 83%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (6; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (5; 83%).
 
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (6; 100% of non-empty `Degree`): <em>pochissimi, moltissimi, numerosissimi</em>
-* `EMPTY` (43695): <em>il, la, l', i, le, un, una, gli, lo, quale</em>
+* `EMPTY` (43703): <em>il, la, l', i, le, un, una, gli, lo, quale</em>
 
 ### `PRON`
 
 2 [it-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=Ind</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Degree`:
 
 * `Abs` (2; 100% of non-empty `Degree`): <em>pochissimi, tantissimi</em>
-* `EMPTY` (10832): <em>si, che, chi, cui, ci, lo, ne, qual, quanto, mi</em>
+* `EMPTY` (10861): <em>si, che, chi, cui, ci, lo, ne, qual, quanto, mi</em>
 
 ### `PROPN`
 
@@ -78,5 +78,5 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Abs` (1; 100% of non-empty `Degree`): <em>Altissimo</em>
-* `EMPTY` (13400): <em>Shakespeare, Balzac, Italia, stati, Europa, San, Uniti, Albania, Marco, Roma</em>
+* `EMPTY` (13344): <em>Shakespeare, Balzac, Italia, stati, Europa, San, Uniti, Albania, Marco, Roma</em>
 

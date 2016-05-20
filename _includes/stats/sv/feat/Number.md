@@ -7,22 +7,22 @@
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-39251 tokens (41%) have a non-empty value of `Number`.
-11227 types (74%) occur at least once with a non-empty value of `Number`.
-7384 lemmas (72%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: [sv-pos/NOUN]() (22428; 23% instances), [sv-pos/ADJ]() (6813; 7% instances), [sv-pos/DET]() (5392; 6% instances), [sv-pos/PRON]() (4477; 5% instances), [sv-pos/NUM]() (92; 0% instances), [sv-pos/VERB]() (49; 0% instances).
+39253 tokens (41%) have a non-empty value of `Number`.
+11229 types (74%) occur at least once with a non-empty value of `Number`.
+7386 lemmas (72%) occur at least once with a non-empty value of `Number`.
+The feature is used with 6 part-of-speech tags: [sv-pos/NOUN]() (22430; 23% instances), [sv-pos/ADJ]() (6813; 7% instances), [sv-pos/DET]() (5392; 6% instances), [sv-pos/PRON]() (4477; 5% instances), [sv-pos/NUM]() (92; 0% instances), [sv-pos/VERB]() (49; 0% instances).
 
 ### `NOUN`
 
-22428 [sv-pos/NOUN]() tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+22430 [sv-pos/NOUN]() tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (21443; 96%), <tt><a href="Gender.html">Gender</a>=Com</tt> (15646; 70%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (14738; 66%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (21444; 96%), <tt><a href="Gender.html">Gender</a>=Com</tt> (15646; 70%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (14738; 66%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (7072; 32% of non-empty `Number`): <em>barn, år, barnen, procent, människor, kvinnor, miljoner, kronor, fall, länder</em>
-* `Sing` (15356; 68% of non-empty `Number`): <em>del, äktenskapet, år, tid, samhället, familjen, arbete, barn, sätt, äktenskap</em>
-* `EMPTY` (556): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, sid</em>
+* `Sing` (15358; 68% of non-empty `Number`): <em>del, äktenskapet, år, tid, samhället, familjen, arbete, barn, sätt, äktenskap</em>
+* `EMPTY` (555): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, sid</em>
 
 <table>
   <tr><th>Paradigm <i>barn</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 5392 [sv-pos/DET]() tokens (95% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4853; 90%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2814; 52%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4853; 90%), <tt><a href="PronType.html">PronType</a>=Art</tt> (3844; 71%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2814; 52%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -67,9 +67,9 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>en</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def</tt></td><td></td><td><em>de, Dom</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Com</tt></td><td><em>den</em></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>det</em></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def</tt></td><td></td><td><em>de, Dom</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Com</tt></td><td><em>en</em></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>ett</em></td><td></td></tr>
 </table>
@@ -78,26 +78,29 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 4477 [sv-pos/PRON]() tokens (75% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (4278; 96%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3178; 71%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2244; 50%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (3178; 71%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3031; 68%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2244; 50%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (1189; 27% of non-empty `Number`): <em>de, vi, dem, oss, andra, många, alla, varandra, dessa, vilka</em>
 * `Sing` (3288; 73% of non-empty `Number`): <em>det, man, den, du, detta, vad, han, jag, hon, en</em>
-* `EMPTY` (1498): <em>som, sig, sej</em>
+* `EMPTY` (1491): <em>som, sig, sej</em>
 
 <table>
   <tr><th>Paradigm <i>den</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt></tt></td><td></td><td><em>den</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Com</tt></td><td><em>den</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Neut</tt></td><td><em>det</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Com|<a href="PronType.html">PronType</a>=Prs</tt></td><td><em>den</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>Det</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="PronType.html">PronType</a>=Ind</tt></td><td><em>det</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="PronType.html">PronType</a>=Prs</tt></td><td><em>det</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="PronType.html">PronType</a>=Tot</tt></td><td><em>det</em></td><td></td></tr>
+  <tr><td><tt><a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td><em>den</em></td></tr>
 </table>
 
 ### `NUM`
 
 92 [sv-pos/NUM]() tokens (5% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (92; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (92; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (92; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -108,13 +111,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 49 [sv-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (49; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (49; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (49; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (49; 100%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (49; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (49; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (49; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (49; 100%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (22; 45% of non-empty `Number`): <em>påverkade, tvungna, anpassade, bedövade, diciplinerade, emanciperade, fjärrundersökta, frusterade, färdigräknade, fördelade</em>
 * `Sing` (27; 55% of non-empty `Number`): <em>vald, vänd, hörselskadad, accepterad, förbjudet, förstärkt, förändrad, ifylld, komplicerad, likställd</em>
-* `EMPTY` (9920): <em>har, finns, är, blir, få, får, ha, gäller, ger, går</em>
+* `EMPTY` (11537): <em>är, har, finns, vara, blir, få, får, var, ha, gäller</em>
 
 <table>
   <tr><th>Paradigm <i>välja</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -127,14 +130,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (4428; 97%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (3653; 82%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (1721; 54%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1482; 76%),
+<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (4429; 97%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (3656; 82%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (1724; 54%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1577; 76%),
 <tt>NOUN --[<a href="../dep/det.html">det</a>]--> ADJ</tt> (974; 74%),
 <tt>NOUN --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> NOUN</tt> (587; 64%),
 <tt>NOUN --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> DET</tt> (506; 76%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (372; 77%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (260; 80%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (370; 76%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (261; 80%),
 <tt>ADJ --[<a href="../dep/det.html">det</a>]--> DET</tt> (194; 69%).
 

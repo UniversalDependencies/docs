@@ -73,72 +73,71 @@ The following 22 pairs of parts of speech are connected with `mark`: [la-pos/VER
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-14344 nodes (6%) are attached to their parents as `mark`.
+17479 nodes (6%) are attached to their parents as `mark`.
 
-14303 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.58247350808701.
+17312 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.49819783740489.
 
-The following 24 pairs of parts of speech are connected with `mark`: [la-pos/VERB]()-[la-pos/SCONJ]() (7966; 56% instances), [la-pos/NOUN]()-[la-pos/SCONJ]() (2393; 17% instances), [la-pos/VERB]()-[la-pos/ADP]() (2212; 15% instances), [la-pos/ADJ]()-[la-pos/SCONJ]() (861; 6% instances), [la-pos/PRON]()-[la-pos/SCONJ]() (290; 2% instances), [la-pos/NOUN]()-[la-pos/ADP]() (221; 2% instances), [la-pos/ADV]()-[la-pos/SCONJ]() (116; 1% instances), [la-pos/ADJ]()-[la-pos/ADP]() (105; 1% instances), [la-pos/NUM]()-[la-pos/SCONJ]() (80; 1% instances), [la-pos/CONJ]()-[la-pos/SCONJ]() (31; 0% instances), [la-pos/PRON]()-[la-pos/ADP]() (25; 0% instances), [la-pos/NOUN]()-[la-pos/VERB]() (9; 0% instances), [la-pos/NUM]()-[la-pos/ADP]() (8; 0% instances), [la-pos/ADP]()-[la-pos/PRON]() (4; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (4; 0% instances), [la-pos/VERB]()-[la-pos/X]() (4; 0% instances), [la-pos/VERB]()-[la-pos/ADV]() (3; 0% instances), [la-pos/VERB]()-[la-pos/VERB]() (3; 0% instances), [la-pos/ADP]()-[la-pos/SCONJ]() (2; 0% instances), [la-pos/DET]()-[la-pos/SCONJ]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (2; 0% instances), [la-pos/ADV]()-[la-pos/ADP]() (1; 0% instances), [la-pos/ADV]()-[la-pos/X]() (1; 0% instances), [la-pos/SCONJ]()-[la-pos/SCONJ]() (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `mark`: [la-pos/VERB]()-[la-pos/SCONJ]() (10442; 60% instances), [la-pos/NOUN]()-[la-pos/SCONJ]() (3211; 18% instances), [la-pos/VERB]()-[la-pos/ADP]() (1631; 9% instances), [la-pos/ADJ]()-[la-pos/SCONJ]() (1179; 7% instances), [la-pos/PRON]()-[la-pos/SCONJ]() (378; 2% instances), [la-pos/ADV]()-[la-pos/SCONJ]() (227; 1% instances), [la-pos/VERB]()-[la-pos/ADV]() (117; 1% instances), [la-pos/NUM]()-[la-pos/SCONJ]() (90; 1% instances), [la-pos/NOUN]()-[la-pos/ADV]() (53; 0% instances), [la-pos/PROPN]()-[la-pos/SCONJ]() (43; 0% instances), [la-pos/ADJ]()-[la-pos/ADV]() (26; 0% instances), [la-pos/VERB]()-[la-pos/CONJ]() (15; 0% instances), [la-pos/ADV]()-[la-pos/ADV]() (12; 0% instances), [la-pos/NOUN]()-[la-pos/VERB]() (9; 0% instances), [la-pos/PRON]()-[la-pos/ADV]() (7; 0% instances), [la-pos/VERB]()-[la-pos/VERB]() (7; 0% instances), [la-pos/ADJ]()-[la-pos/CONJ]() (5; 0% instances), [la-pos/ADP]()-[la-pos/PRON]() (5; 0% instances), [la-pos/NOUN]()-[la-pos/CONJ]() (4; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (4; 0% instances), [la-pos/VERB]()-[la-pos/X]() (4; 0% instances), [la-pos/ADP]()-[la-pos/SCONJ]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (2; 0% instances), [la-pos/NUM]()-[la-pos/ADV]() (2; 0% instances), [la-pos/ADV]()-[la-pos/X]() (1; 0% instances), [la-pos/CONJ]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/PRON]()-[la-pos/CONJ]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 mark	color:blue
-1	movet	moveo	VERB	K3|modA|tem1|gen6|vgr1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	enim	enim	ADV	O4	_	1	cc	_	_
-3	ipsum	ipse	PRON	F1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem,Prs	1	dobj	_	_
-4	,	,	PUNCT	Punc	_	7	punct	_	_
-5	sicut	sicut	SCONJ	O4|vgr1	_	7	mark	_	_
-6	superius	superus	ADJ	C1|grn2|casG	Case=Loc|Degree=Cmp|Number=Sing	7	advmod	_	_
-7	dictum	dico	VERB	N2|modM|tem4|grp1|casA|gen3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	_
-8	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	auxpass	_	_
-9	.	.	PUNCT	Punc	_	1	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 mark	color:blue
+1	cum	cum	SCONJ	S4|vgr1|stRL	_	2	mark	_	_
+2	sint	sum	VERB	N3|modB|tem1|gen9|stAV	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	effectus	effectus	NOUN	D1|grn1|casJ|gen1|stAN	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	nsubj	_	_
+4	causae	causa	NOUN	A1|grn1|casB|gen2|vgr1|stAN	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	nmod	_	_
+5	virtutem	virtus	NOUN	C1|grn1|casD|gen2|vgr1|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	dobj	_	_
+6	non	non	ADV	O4|stRL	_	7	neg	_	_
+7	aequantes	aequo	VERB	J2|modD|tem1|grp1|casJ|gen1|stAV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
+8	.	.	PUNCT	Punc	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 mark	color:blue
-1	voluntas	voluntas	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nsubj	_	_
-2	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-3	superior	superus	ADJ	C1|grn2|casA|gen2	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	0	root	_	_
-4	quam	quam	SCONJ	O4	_	5	mark	_	_
-5	appetitus	appetitus	NOUN	D1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	dep	_	_
-6	sensitivus	sensitivus	ADJ	B1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
-7	:	:	PUNCT	Punc	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 9 mark	color:blue
-1	finis	finis	NOUN	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-2	ultimus	ulterior	ADJ	B1|grn3|casA|gen1	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	1	amod	_	_
-3	cuiuslibet	quilibet	PRON	F1|grn1|casB|gen2|vgr2	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|PronType=Ind	4	nmod	_	_
-4	rei	res	NOUN	E1|grn1|casB|gen2	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1	nmod	_	_
-5	deus	deus	NOUN	F1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	nsubj	_	_
-6	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
-7	,	,	PUNCT	Punc	_	11	punct	_	_
-8	ut	ut	SCONJ	O4|vgr1	_	11	mark	_	_
-9	ex	e	ADP	S4|vgr2	AdpType=Prep	10	mark	_	_
-10	praemissis	praemitto	VERB	L2|modM|tem4|grp1|casO|gen3	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	_
-11	patet	pateo	VERB	K3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
-12	.	.	PUNCT	Punc	_	1	punct	_	_
+# visual-style 10 8 mark	color:blue
+1	sic	sic	ADV	O4|stRL	_	3	advmod	_	_
+2	enim	enim	ADV	O4|stRL	_	3	advmod	_	_
+3	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	dispositio	dispositio	NOUN	C1|grn1|casA|gen2|stAN	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nsubj	_	_
+5	rerum	res	NOUN	E1|grn1|casK|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	4	nmod	_	_
+6	in	in	ADP	S4|stRL	AdpType=Prep	7	case	_	_
+7	veritate	veritas	NOUN	C1|grn1|casF|gen2|vgr1|stAC	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	3	nmod	_	_
+8	sicut	sicut	SCONJ	O4|vgr1|stRL	_	10	mark	_	_
+9	in	in	ADP	S4|stRL	AdpType=Prep	10	case	_	_
+10	esse	esse	NOUN	G1|casF|gen3|stAV	Case=Abl|Gender=Neut|Number=Sing	3	dep	_	_
+11	.	.	PUNCT	Punc	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 mark	color:blue
+1	et	et	CONJ	O4|stRL	_	7	cc	_	_
+2	sic	sic	ADV	O4|stRL	_	7	advmod	_	_
+3	ad	ad	ADP	S4|stRL	AdpType=Prep	5	mark	_	_
+4	ea	is	PRON	F1|grn1|casM|gen3|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|PronType=Dem,Prs	5	nsubjpass	_	_
+5	solvenda	solvo	VERB	L2|modO|grp1|casM|gen3|stAV	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Gdv|Voice=Pass	7	ccomp	_	_
+6	locus	locus	NOUN	B1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	nsubjpass	_	_
+7	relinquitur	relinquo	VERB	L3|modJ|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 

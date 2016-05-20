@@ -55,42 +55,33 @@ The following 9 pairs of parts of speech are connected with `dislocated`: [he-po
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 24 18 dislocated	color:blue
-1	ב	_	ADP	ADP	_	3	case	_	_
-2	ה_	_	DET	DET	PronType=Art	3	det:def	_	_
-3	המלצה	_	NOUN	NOUN	Gender=Fem|Number=Sing	14	nmod	_	_
-4	,	_	PUNCT	PUNCT	_	3	punct	_	_
-5	ש	_	SCONJ	SCONJ	_	6	mark	_	_
-6	נוסחה	_	VERB	VERB	Gender=Fem|HebBinyan=PUAL|Number=Sing|Person=3|Tense=Past	3	acl:relcl	_	_
-7	ב	_	ADP	ADP	_	8	case	_	_
-8	שיתוף	_	NOUN	NOUN	Gender=Masc|Number=Sing	6	nmod	_	_
-9	עם	_	ADP	ADP	_	10	case	_	_
-10	משרד	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	8	nmod	_	_
-11	ה	_	DET	DET	PronType=Art	12	det:def	_	_
-12	חוץ	_	NOUN	NOUN	Gender=Masc|Number=Sing	10	nmod:smixut	_	_
-13	,	_	PUNCT	PUNCT	_	14	punct	_	_
-14	נאמר	_	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past	0	root	_	_
-15	כי	_	SCONJ	SCONJ	_	24	mark	_	_
-16	כל	_	DET	DET	Definite=Red	18	det	_	_
-17	ה	_	SCONJ	SCONJ	_	18	mark	_	_
-18	מתכוון	_	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|Number=Sing|Person=1,2,3|VerbForm=Part	24	dislocated	_	_
-19	לצאת	_	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf	18	xcomp	_	_
-20	ל	_	ADP	ADP	_	21	case	_	_
-21	טיול	_	NOUN	NOUN	Gender=Masc|Number=Sing	19	nmod	_	_
-22	ב	_	ADP	ADP	_	23	case	_	_
-23	מצרים	_	PROPN	PROPN	_	21	nmod	_	_
-24	ראוי	_	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	14	advcl	_	_
-25	ש	_	SCONJ	SCONJ	_	26	mark	_	_
-26	ישקול	_	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Fut	24	advcl	_	_
-27	שוב	_	ADV	ADV	_	26	advmod	_	_
-28	את	_	PART	PART	Case=Acc	29	case:acc	_	_
-29	כוונתו	_	NOUN	NOUN	Gender=Fem|Number=Sing	26	dobj	_	_
-30	הוא_	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nmod:poss	_	_
-31	.	_	PUNCT	PUNCT	_	14	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 1 dislocated	color:blue
+1	מה	_	ADV	ADV	PronType=Int	12	dislocated	_	_
+2	ש	_	SCONJ	SCONJ	_	3	mark	_	_
+3	הספיק	_	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|Number=Sing|Person=3|Tense=Past	1	acl:relcl	_	_
+4	ל	_	ADP	ADP	_	5	case	_	_
+5	הישגים	_	NOUN	NOUN	Gender=Masc|Number=Plur	3	nmod	_	_
+6	גדולים	_	ADJ	ADJ	Gender=Masc|Number=Plur	5	amod	_	_
+7	לפני	_	ADP	ADP	_	9	case	_	_
+8	0203	_	NUM	NUM	_	9	nummod	_	_
+9	שנה	_	NOUN	NOUN	Gender=Fem|Number=Sing	3	nmod	_	_
+10	,	_	PUNCT	PUNCT	_	12	punct	_	_
+11	לא	_	ADV	ADV	Negative=Neg	12	advmod	_	_
+12	די	_	ADV	ADV	_	0	root	_	_
+13	בו	_	ADP	ADP	_	14	case	_	_
+14	הוא_	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	advmod	_	_
+15	כיום	_	ADV	ADV	_	12	advmod	_	_
+16	אף	_	CONJ	CONJ	_	12	advmod	_	_
+17	לא	_	ADV	ADV	HebSource=ConvUncertainHead|Negative=Neg	16	dep	_	_
+18	ל	_	ADP	ADP	_	19	case	_	_
+19	הצלחה	_	NOUN	NOUN	Gender=Fem|HebSource=ConvUncertainHead|Number=Sing	16	dep	_	_
+20	ישראלית	_	ADJ	ADJ	Gender=Fem|Number=Sing	19	amod	_	_
+21	צנועה	_	ADJ	ADJ	Gender=Fem|Number=Sing	19	amod	_	_
+22	.	_	PUNCT	PUNCT	_	12	punct	_	_
 
 ~~~
 

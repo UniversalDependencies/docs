@@ -71,3 +71,75 @@ The following 51 pairs of parts of speech are connected with `amod`: [es-pos/NOU
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+29514 nodes (5%) are attached to their parents as `amod`.
+
+21305 instances of `amod` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.39564274581555.
+
+The following 16 pairs of parts of speech are connected with `amod`: [es-pos/NOUN]()-[es-pos/ADJ]() (27336; 93% instances), [es-pos/PROPN]()-[es-pos/ADJ]() (1144; 4% instances), [es-pos/ADJ]()-[es-pos/ADJ]() (282; 1% instances), [es-pos/PRON]()-[es-pos/ADJ]() (227; 1% instances), [es-pos/NUM]()-[es-pos/ADJ]() (220; 1% instances), [es-pos/VERB]()-[es-pos/ADJ]() (152; 1% instances), [es-pos/DET]()-[es-pos/ADJ]() (86; 0% instances), [es-pos/SCONJ]()-[es-pos/ADJ]() (24; 0% instances), [es-pos/ADV]()-[es-pos/ADJ]() (20; 0% instances), [es-pos/SYM]()-[es-pos/ADJ]() (11; 0% instances), [es-pos/AUX]()-[es-pos/ADJ]() (6; 0% instances), [es-pos/ADP]()-[es-pos/ADJ]() (2; 0% instances), [es-pos/ADJ]()-[es-pos/ADP]() (1; 0% instances), [es-pos/ADJ]()-[es-pos/CONJ]() (1; 0% instances), [es-pos/CONJ]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/X]()-[es-pos/ADJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 amod	color:blue
+1	Desde	desde	ADP	ADP	AdpType=Prep	2	case	_	_
+2	entonces	entonces	ADV	ADV	_	3	advmod	_	_
+3	entró	entrar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	ADP	AdpType=Prep	5	case	_	_
+5	silencio	silencio	NOUN	NOUN	Gender=Masc|Number=Sing	3	nmod	_	_
+6	absoluto	absoluto	ADJ	ADJ	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 amod	color:blue
+1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	secretario	secretario	NOUN	NOUN	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	general	general	ADJ	ADJ	Number=Sing	2	amod	_	_
+4	de	de	ADP	ADP	AdpType=Prep	6	case	_	_
+5	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	PP	PP	PROPN	PROPN	_	2	nmod	_	_
+7	gallego	gallego	ADJ	ADJ	Gender=Masc|Number=Sing	6	amod	_	_
+8	dimite	dimitir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	oficialmente	oficialmente	ADV	ADV	_	8	advmod	_	_
+10	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 amod	color:blue
+1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	penalti	penalti	NOUN	NOUN	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	fue	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+4	justo	justo	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	PUNCT	PunctType=Comm	4	punct	_	_
+6	inesperado	inesperado	ADJ	ADJ	Gender=Masc|Number=Sing	4	amod	_	_
+7	y	y	CONJ	CONJ	_	4	cc	_	_
+8	atemorizador	atemorizador	ADJ	ADJ	Gender=Masc|Number=Sing	4	conj	_	_
+9	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+
+~~~
+
+

@@ -71,16 +71,16 @@ The following 38 pairs of parts of speech are connected with `nsubj`: [la-pos/VE
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Latin-ITT)
+## Treebank Statistics (UD_Latin-ITTB)
 
 This relation is universal.
 
-17137 nodes (7%) are attached to their parents as `nsubj`.
+18921 nodes (6%) are attached to their parents as `nsubj`.
 
-14198 instances of `nsubj` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.24969364532882.
+15635 instances of `nsubj` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.21478780191322.
 
-The following 41 pairs of parts of speech are connected with `nsubj`: [la-pos/VERB]()-[la-pos/NOUN]() (7599; 44% instances), [la-pos/VERB]()-[la-pos/PRON]() (3745; 22% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (1805; 11% instances), [la-pos/NOUN]()-[la-pos/PRON]() (1026; 6% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (948; 6% instances), [la-pos/ADJ]()-[la-pos/PRON]() (640; 4% instances), [la-pos/VERB]()-[la-pos/ADJ]() (367; 2% instances), [la-pos/PRON]()-[la-pos/NOUN]() (357; 2% instances), [la-pos/VERB]()-[la-pos/DET]() (126; 1% instances), [la-pos/NUM]()-[la-pos/NOUN]() (91; 1% instances), [la-pos/PRON]()-[la-pos/PRON]() (77; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (75; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (57; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (56; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (23; 0% instances), [la-pos/ADV]()-[la-pos/NOUN]() (20; 0% instances), [la-pos/ADJ]()-[la-pos/DET]() (19; 0% instances), [la-pos/NOUN]()-[la-pos/NUM]() (16; 0% instances), [la-pos/NOUN]()-[la-pos/DET]() (14; 0% instances), [la-pos/PRON]()-[la-pos/ADJ]() (13; 0% instances), [la-pos/CONJ]()-[la-pos/NOUN]() (10; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (8; 0% instances), [la-pos/DET]()-[la-pos/PRON]() (5; 0% instances), [la-pos/NUM]()-[la-pos/DET]() (5; 0% instances), [la-pos/VERB]()-[la-pos/ADV]() (5; 0% instances), [la-pos/ADV]()-[la-pos/ADJ]() (3; 0% instances), [la-pos/ADV]()-[la-pos/PRON]() (3; 0% instances), [la-pos/CONJ]()-[la-pos/PRON]() (3; 0% instances), [la-pos/PUNCT]()-[la-pos/NOUN]() (3; 0% instances), [la-pos/VERB]()-[la-pos/X]() (3; 0% instances), [la-pos/X]()-[la-pos/PRON]() (3; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (2; 0% instances), [la-pos/VERB]()-[la-pos/ADP]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/VERB]() (1; 0% instances), [la-pos/AUX]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/DET]()-[la-pos/DET]() (1; 0% instances), [la-pos/DET]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NUM]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/PRON]()-[la-pos/NUM]() (1; 0% instances), [la-pos/PUNCT]()-[la-pos/PRON]() (1; 0% instances), [la-pos/VERB]()-[la-pos/VERB]() (1; 0% instances).
+The following 43 pairs of parts of speech are connected with `nsubj`: [la-pos/VERB]()-[la-pos/NOUN]() (7295; 39% instances), [la-pos/VERB]()-[la-pos/PRON]() (4349; 23% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (1669; 9% instances), [la-pos/VERB]()-[la-pos/PROPN]() (1158; 6% instances), [la-pos/NOUN]()-[la-pos/PRON]() (1057; 6% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (984; 5% instances), [la-pos/ADJ]()-[la-pos/PRON]() (721; 4% instances), [la-pos/VERB]()-[la-pos/ADJ]() (411; 2% instances), [la-pos/PRON]()-[la-pos/NOUN]() (375; 2% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (239; 1% instances), [la-pos/NUM]()-[la-pos/NOUN]() (88; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (86; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (84; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (60; 0% instances), [la-pos/ADJ]()-[la-pos/PROPN]() (60; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (59; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (49; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (28; 0% instances), [la-pos/PRON]()-[la-pos/PROPN]() (26; 0% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (22; 0% instances), [la-pos/ADV]()-[la-pos/NOUN]() (18; 0% instances), [la-pos/NOUN]()-[la-pos/NUM]() (15; 0% instances), [la-pos/PRON]()-[la-pos/ADJ]() (13; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (11; 0% instances), [la-pos/NUM]()-[la-pos/PROPN]() (5; 0% instances), [la-pos/VERB]()-[la-pos/ADV]() (5; 0% instances), [la-pos/ADV]()-[la-pos/ADJ]() (3; 0% instances), [la-pos/ADV]()-[la-pos/PRON]() (3; 0% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (3; 0% instances), [la-pos/PUNCT]()-[la-pos/NOUN]() (3; 0% instances), [la-pos/VERB]()-[la-pos/X]() (3; 0% instances), [la-pos/X]()-[la-pos/PRON]() (3; 0% instances), [la-pos/ADV]()-[la-pos/PROPN]() (2; 0% instances), [la-pos/CONJ]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/CONJ]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/CONJ]()-[la-pos/PRON]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/ADV]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/VERB]() (1; 0% instances), [la-pos/AUX]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NUM]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/PRON]()-[la-pos/NUM]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -89,53 +89,45 @@ The following 41 pairs of parts of speech are connected with `nsubj`: [la-pos/VE
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nsubj	color:blue
-1	nam	nam	ADV	O4	_	7	advmod:emph	_	_
-2	primo	primus	ADJ	B1|grn1|casG	Case=Loc|Degree=Pos|Number=Sing|NumType=Ord	7	advmod	_	_
-3	et	et	CONJ	O4	_	2	cc	_	_
-4	per	per	ADP	S4	AdpType=Prep	5	case	_	_
-5	se	sui	PRON	F1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Prs|Reflex=Yes	2	nmod	_	_
-6	intellectus	intellectus	NOUN	D1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
-7	movet	moveo	VERB	K3|modA|tem1|gen6|vgr1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-8	voluntatem	voluntas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	dobj	_	_
-9	:	:	PUNCT	Punc	_	7	punct	_	_
+1	et	et	CONJ	O4|stRL	_	7	cc	_	_
+2	circa	circa	ADP	S4|stRL	AdpType=Prep	4	case	_	_
+3	eius	is	PRON	F1|grn1|casB|gen2|vgr2|stPV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem,Prs	4	nmod	_	_
+4	considerationem	consideratio	NOUN	C1|grn1|casD|gen2|vgr1|stAC	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nmod	_	_
+5	principaliter	principalis	ADJ	C1|grn1|casG|stAN	Case=Loc|Degree=Pos|Number=Sing	7	advmod	_	_
+6	sapientiam	sapientia	NOUN	A1|grn1|casD|gen2|vgr1|stAC	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	insistere	insisto	VERB	L3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+8	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 nsubj	color:blue
-1	ultimus	ulterior	ADJ	B1|grn3|casA|gen1	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	2	amod	_	_
-2	finis	finis	NOUN	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-4	nobilissimum	nobilis	ADJ	B1|grn3|casA|gen3	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	0	root	_	_
-5	eorum	is	PRON	F1|grn1|casK|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|PronType=Dem,Prs	4	nmod	_	_
-6	quae	qui	PRON	F1|grn1|casJ|gen3|vgr1	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|PronType=Rel	9	nsubj	_	_
-7	ad	ad	ADP	S4	AdpType=Prep	8	case	_	_
-8	rem	res	NOUN	E1|grn1|casD|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	dobj	_	_
-9	pertinent	pertineo	VERB	K3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	_
-10	:	:	PUNCT	Punc	_	4	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 nsubj	color:blue
+1	hi	hic	PRON	F1|grn1|casJ|gen1|vgr1|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|PronType=Dem	4	nsubj	_	_
+2	vero	verus	ADJ	B1|grn1|casG|vgr1|stRL	Case=Loc|Degree=Pos|Number=Sing	4	advmod	_	_
+3	neutrum	neuter	PRON	F1|grn1|casD|gen3|stPV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	4	dobj	_	_
+4	recipiunt	recipio	VERB	L3|modA|tem1|gen9|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 nsubj	color:blue
-1	unde	unde	ADV	O4	_	2	cc	_	_
-2	apparet	appareo	VERB	K3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	intellectum	intellectus	NOUN	D1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	nsubj	_	_
-4	simpliciter	simplex	ADJ	C1|grn1|casG	Case=Loc|Degree=Pos|Number=Sing	6	advmod	_	_
-5	esse	sum	VERB	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	6	cop	_	_
-6	altiorem	altus	NOUN	C1|grn2|casD|gen1	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	2	csubj	_	_
-7	voluntate	voluntas	NOUN	C1|grn1|casF|gen2|vgr1	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	6	nmod	_	_
-8	:	:	PUNCT	Punc	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 nsubj	color:blue
+1	finis	finis	NOUN	C1|grn1|casA|gen1|stRS	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	enim	enim	ADV	O4|stRL	_	4	advmod	_	_
+3	est	sum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	bonum	bonum	NOUN	B1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+5	uniuscuiusque	unusquisque	PRON	F1|grn1|casB|gen3|vgr1|stPV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	4	nmod	_	_
+6	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

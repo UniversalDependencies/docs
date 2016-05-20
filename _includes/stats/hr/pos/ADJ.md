@@ -13,7 +13,7 @@ The 10 most frequent `ADJ` types:  <em>sve, vanjskih, novi, glavni, drugi, proš
 
 The 10 most frequent ambiguous lemmas: <em>politički</em> ([ADJ]() 140, [ADV]() 6), <em>gospodarski</em> ([ADJ]() 80, [ADV]() 2), <em>demokratski</em> ([ADJ]() 56, [ADV]() 2), <em>svjetski</em> ([ADJ]() 56, [ADV]() 3), <em>održati</em> ([ADJ]() 46, [VERB]() 19, [ADV]() 1), <em>zajednički</em> ([ADJ]() 38, [ADV]() 3), <em>etnički</em> ([ADJ]() 34, [ADV]() 4), <em>financijski</em> ([ADJ]() 29, [ADV]() 4), <em>usmjeriti</em> ([ADJ]() 23, [VERB]() 5), <em>objaviti</em> ([VERB]() 27, [ADJ]() 21)
 
-The 10 most frequent ambiguous types:  <em>sve</em> ([ADJ]() 67, [PART]() 20, [PRON]() 2), <em>politički</em> ([ADJ]() 17, [ADV]() 5), <em>gospodarski</em> ([ADJ]() 13, [ADV]() 2), <em>potrebno</em> ([ADJ]() 11, [ADV]() 2), <em>druga</em> ([ADJ]() 7, [NOUN]() 2), <em>druge</em> ([NOUN]() 11, [ADJ]() 11), <em>drugo</em> ([ADJ]() 10, [ADV]() 1), <em>ostali</em> ([ADJ]() 9, [VERB]() 2), <em>moguće</em> ([ADJ]() 10, [ADV]() 8), <em>ostale</em> ([ADJ]() 9, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>sve</em> ([ADJ]() 67, [PART]() 20, [PRON]() 2), <em>politički</em> ([ADJ]() 17, [ADV]() 5), <em>gospodarski</em> ([ADJ]() 13, [ADV]() 2), <em>potrebno</em> ([ADJ]() 11, [ADV]() 2), <em>druga</em> ([ADJ]() 7, [NOUN]() 2), <em>druge</em> ([ADJ]() 11, [NOUN]() 11), <em>drugo</em> ([ADJ]() 10, [ADV]() 1), <em>ostali</em> ([ADJ]() 9, [VERB]() 2), <em>moguće</em> ([ADJ]() 10, [ADV]() 8), <em>ostale</em> ([ADJ]() 9, [VERB]() 1)
 
 
 * <em>sve</em>
@@ -33,8 +33,8 @@ The 10 most frequent ambiguous types:  <em>sve</em> ([ADJ]() 67, [PART]() 20, [P
   * [ADJ]() 7: <em>Svaka <b>druga</b> akcija te vrste bit će gledana sa sumnjom od strane ostalih građana , zaključuje Stroe .</em>
   * [NOUN]() 2: <em>S druge strane , <b>druga</b> po veličini albanska dnevna novina Gazeta Shqiptare opisuje Liponenova stajališta kao « lažnu uzbunu » .</em>
 * <em>druge</em>
-  * [NOUN]() 11: <em>Također su pronađene mina , ručna granata , streljivo i <b>druge</b> vojne naprave .</em>
   * [ADJ]() 11: <em>Očekujete li gospodarske ili neke <b>druge</b> blokade ?</em>
+  * [NOUN]() 11: <em>Također su pronađene mina , ručna granata , streljivo i <b>druge</b> vojne naprave .</em>
 * <em>drugo</em>
   * [ADJ]() 10: <em>Sve <b>drugo</b> su nagađanja .</em>
   * [ADV]() 1: <em>" Prvo , da se snimi dobar film koji će izazvati toplinu u srcima gledatelja , a <b>drugo</b> da se snimi po standardima koji će mu donijeti opis pravog europskog filma " .</em>

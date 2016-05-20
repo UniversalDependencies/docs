@@ -24,7 +24,7 @@ punct(ezinezkoa-2, .-5)
 *Here it is difficult **to take** someone as relative .*
 
 ~~~ sdparse
-Hemen inor etxekotzat hartzea zail egiten da .\n Here someone relative_as to_take difficult is .*
+Hemen inor etxekotzat hartzea zail egiten da .\n Here someone relative_as to_take difficult is .
 
 adv(egiten-6, Hemen-1)
 dobj(hartzea-4,inor-2)

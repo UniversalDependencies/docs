@@ -11,7 +11,7 @@ The 10 most frequent `PART` lemmas: <em>ne, li, sve, i, što, bilo, god, više, 
 
 The 10 most frequent `PART` types:  <em>ne, li, sve, i, što, bilo, god, više, da, Neka</em>
 
-The 10 most frequent ambiguous lemmas: <em>sve</em> ([PART]() 25, [PRON]() 2), <em>i</em> ([CONJ]() 2271, [PART]() 7, [SCONJ]() 1), <em>što</em> ([PRON]() 295, [PART]() 7, [SCONJ]() 7), <em>bilo</em> ([PART]() 4, [CONJ]() 1), <em>više</em> ([ADP]() 14, [PART]() 4, [ADV]() 3), <em>da</em> ([SCONJ]() 527, [PART]() 2, [X]() 1), <em>nešto</em> ([PRON]() 12, [ADV]() 2, [PART]() 1), <em>pak</em> ([CONJ]() 1, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>sve</em> ([PART]() 25, [PRON]() 2), <em>i</em> ([CONJ]() 2271, [PART]() 7, [SCONJ]() 1), <em>što</em> ([PRON]() 295, [SCONJ]() 7, [PART]() 7), <em>bilo</em> ([PART]() 4, [CONJ]() 1), <em>više</em> ([ADP]() 14, [PART]() 4, [ADV]() 3), <em>da</em> ([SCONJ]() 527, [PART]() 2, [X]() 1), <em>nešto</em> ([PRON]() 12, [ADV]() 2, [PART]() 1), <em>pak</em> ([CONJ]() 1, [PART]() 1)
 
 The 10 most frequent ambiguous types:  <em>sve</em> ([ADJ]() 67, [PART]() 20, [PRON]() 2), <em>i</em> ([CONJ]() 2265, [PART]() 7, [SCONJ]() 1), <em>što</em> ([PRON]() 259, [SCONJ]() 7, [PART]() 6), <em>bilo</em> ([AUX]() 94, [PART]() 4, [CONJ]() 1), <em>više</em> ([ADV]() 75, [ADP]() 13, [PART]() 4, [ADJ]() 2), <em>da</em> ([SCONJ]() 521, [X]() 1, [PART]() 1), <em>nešto</em> ([PRON]() 11, [ADV]() 2, [PART]() 1), <em>pak</em> ([CONJ]() 1, [PART]() 1), <em>to</em> ([PRON]() 165, [PART]() 1)
 

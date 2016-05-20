@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  உள்ள ([ADJ]() 50, [ADP]() 5), ம
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.164122 (the average of all parts of speech is 1.559122).
+The form / lemma ratio of `ADJ` is 1.164122 (the average of all parts of speech is 1.557992).
 
 The 1st highest number of forms (4) was observed with the lemma “இரு”: இருக்கின்ற, இருக்கிற, இருக்கும், இருந்த.
 
@@ -70,7 +70,7 @@ Examples: மத்திய, ஒரு, கடந்த, புதிய, ச�
 
 `ADJ` nodes are attached to their parents using 7 different relations: [ta-dep/amod]() (667; 98% instances), [ta-dep/advmod]() (8; 1% instances), [ta-dep/conj]() (3; 0% instances), [ta-dep/aux]() (1; 0% instances), [ta-dep/dobj]() (1; 0% instances), [ta-dep/iobj]() (1; 0% instances), [ta-dep/mark]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 7 different parts of speech: [NOUN]() (558; 82% instances), [PROPN]() (58; 9% instances), [VERB]() (38; 6% instances), [ADV]() (11; 2% instances), [ADJ]() (6; 1% instances), [NUM]() (6; 1% instances), [PRON]() (5; 1% instances)
+Parents of `ADJ` nodes belong to 7 different parts of speech: [NOUN]() (559; 82% instances), [PROPN]() (58; 9% instances), [VERB]() (37; 5% instances), [ADV]() (11; 2% instances), [ADJ]() (6; 1% instances), [NUM]() (6; 1% instances), [PRON]() (5; 1% instances)
 
 332 (49%) `ADJ` nodes are leaves.
 
@@ -82,7 +82,7 @@ Parents of `ADJ` nodes belong to 7 different parts of speech: [NOUN]() (558; 82%
 
 The highest child degree of a `ADJ` node is 6.
 
-Children of `ADJ` nodes are attached using 12 different relations: [ta-dep/nmod]() (187; 37% instances), [ta-dep/dobj]() (94; 19% instances), [ta-dep/advcl]() (85; 17% instances), [ta-dep/advmod]() (48; 10% instances), [ta-dep/mark]() (32; 6% instances), [ta-dep/nsubj]() (21; 4% instances), [ta-dep/amod]() (9; 2% instances), [ta-dep/punct]() (8; 2% instances), [ta-dep/nummod]() (7; 1% instances), [ta-dep/ccomp]() (5; 1% instances), [ta-dep/conj]() (3; 1% instances), [ta-dep/xcomp]() (3; 1% instances)
+Children of `ADJ` nodes are attached using 13 different relations: [ta-dep/nmod]() (187; 37% instances), [ta-dep/dobj]() (94; 19% instances), [ta-dep/advcl]() (85; 17% instances), [ta-dep/advmod]() (48; 10% instances), [ta-dep/mark]() (32; 6% instances), [ta-dep/nsubj]() (21; 4% instances), [ta-dep/punct]() (8; 2% instances), [ta-dep/det]() (7; 1% instances), [ta-dep/nummod]() (7; 1% instances), [ta-dep/ccomp]() (5; 1% instances), [ta-dep/conj]() (3; 1% instances), [ta-dep/xcomp]() (3; 1% instances), [ta-dep/amod]() (2; 0% instances)
 
 Children of `ADJ` nodes belong to 11 different parts of speech: [NOUN]() (223; 44% instances), [VERB]() (93; 19% instances), [PROPN]() (71; 14% instances), [ADV]() (39; 8% instances), [PART]() (32; 6% instances), [NUM]() (12; 2% instances), [PRON]() (9; 2% instances), [PUNCT]() (8; 2% instances), [DET]() (7; 1% instances), [ADJ]() (6; 1% instances), [ADP]() (2; 0% instances)
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-38248 nodes (14%) are attached to their parents as `case`.
+38276 nodes (14%) are attached to their parents as `case`.
 
-38246 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75721606358502.
+38274 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75702790260215.
 
-The following 23 pairs of parts of speech are connected with `case`: [it-pos/NOUN]()-[it-pos/ADP]() (29644; 78% instances), [it-pos/PROPN]()-[it-pos/ADP]() (5067; 13% instances), [it-pos/PRON]()-[it-pos/ADP]() (1632; 4% instances), [it-pos/NUM]()-[it-pos/ADP]() (770; 2% instances), [it-pos/NOUN]()-[it-pos/ADV]() (265; 1% instances), [it-pos/ADV]()-[it-pos/ADP]() (255; 1% instances), [it-pos/ADJ]()-[it-pos/ADP]() (207; 1% instances), [it-pos/VERB]()-[it-pos/ADP]() (118; 0% instances), [it-pos/SYM]()-[it-pos/ADP]() (54; 0% instances), [it-pos/PROPN]()-[it-pos/ADV]() (41; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (35; 0% instances), [it-pos/PRON]()-[it-pos/ADV]() (30; 0% instances), [it-pos/SCONJ]()-[it-pos/ADP]() (30; 0% instances), [it-pos/ADP]()-[it-pos/ADP]() (27; 0% instances), [it-pos/NUM]()-[it-pos/ADV]() (20; 0% instances), [it-pos/ADV]()-[it-pos/ADV]() (17; 0% instances), [it-pos/X]()-[it-pos/ADP]() (14; 0% instances), [it-pos/SCONJ]()-[it-pos/ADV]() (9; 0% instances), [it-pos/ADJ]()-[it-pos/ADV]() (6; 0% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/PUNCT]()-[it-pos/VERB]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/VERB]()-[it-pos/ADV]() (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `case`: [it-pos/NOUN]()-[it-pos/ADP]() (29677; 78% instances), [it-pos/PROPN]()-[it-pos/ADP]() (5074; 13% instances), [it-pos/PRON]()-[it-pos/ADP]() (1629; 4% instances), [it-pos/NUM]()-[it-pos/ADP]() (768; 2% instances), [it-pos/NOUN]()-[it-pos/ADV]() (265; 1% instances), [it-pos/ADV]()-[it-pos/ADP]() (252; 1% instances), [it-pos/ADJ]()-[it-pos/ADP]() (202; 1% instances), [it-pos/VERB]()-[it-pos/ADP]() (117; 0% instances), [it-pos/SYM]()-[it-pos/ADP]() (57; 0% instances), [it-pos/PROPN]()-[it-pos/ADV]() (41; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (35; 0% instances), [it-pos/PRON]()-[it-pos/ADV]() (31; 0% instances), [it-pos/SCONJ]()-[it-pos/ADP]() (30; 0% instances), [it-pos/ADP]()-[it-pos/ADP]() (27; 0% instances), [it-pos/NUM]()-[it-pos/ADV]() (20; 0% instances), [it-pos/ADV]()-[it-pos/ADV]() (17; 0% instances), [it-pos/X]()-[it-pos/ADP]() (14; 0% instances), [it-pos/SCONJ]()-[it-pos/ADV]() (9; 0% instances), [it-pos/ADJ]()-[it-pos/ADV]() (5; 0% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/PUNCT]()-[it-pos/VERB]() (1; 0% instances), [it-pos/VERB]()-[it-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,7 +55,7 @@ The following 23 pairs of parts of speech are connected with `case`: [it-pos/NOU
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 case	color:blue
-1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur	3	det:predet	_	_
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Predet	3	det:predet	_	_
 2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	esseri	essere	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
 4	umani	umano	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_

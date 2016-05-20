@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>1</em> ([NUM]() 176, [PROPN]() 1), <e
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.009132 (the average of all parts of speech is 1.491677).
+The form / lemma ratio of `NUM` is 1.009132 (the average of all parts of speech is 1.491496).
 
 The 1st highest number of forms (3) was observed with the lemma “cinquanta”: <em>cinquant', cinquanta, cinquant’</em>.
 
@@ -62,32 +62,32 @@ The 2nd highest number of forms (3) was observed with the lemma “uno”: <em>u
 
 The 3rd highest number of forms (2) was observed with the lemma “quaranta”: <em>quarant', quaranta</em>.
 
-`NUM` occurs with 1 features: [it-feat/NumType]() (4588; 100% instances)
+`NUM` occurs with 1 features: [it-feat/NumType]() (4609; 100% instances)
 
-`NUM` occurs with 1 feature-value pairs: `NumType=Card`
+`NUM` occurs with 3 feature-value pairs: `NumType=Card`, `NumType=Gen`, `NumType=Range`
 
-`NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `NumType=Card` (4588 tokens).
+`NUM` occurs with 3 feature combinations.
+The most frequent feature combination is `NumType=Card` (4584 tokens).
 Examples: <em>due, 1, 2, tre, 3, cinque, mila, quattro, 4, 20</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 14 different relations: [it-dep/nummod]() (4015; 87% instances), [it-dep/conj]() (164; 4% instances), [it-dep/compound]() (150; 3% instances), [it-dep/root]() (86; 2% instances), [it-dep/dobj]() (57; 1% instances), [it-dep/name]() (56; 1% instances), [it-dep/nsubj]() (42; 1% instances), [it-dep/mwe]() (19; 0% instances), [it-dep/nsubjpass]() (9; 0% instances), [it-dep/acl:relcl]() (5; 0% instances), [it-dep/advcl]() (2; 0% instances), [it-dep/xcomp]() (2; 0% instances), [it-dep/ccomp]() (1; 0% instances), [it-dep/foreign]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 15 different relations: [it-dep/nummod]() (3455; 75% instances), [it-dep/nmod]() (561; 12% instances), [it-dep/conj]() (163; 4% instances), [it-dep/compound]() (153; 3% instances), [it-dep/root]() (86; 2% instances), [it-dep/dobj]() (57; 1% instances), [it-dep/name]() (56; 1% instances), [it-dep/nsubj]() (42; 1% instances), [it-dep/mwe]() (17; 0% instances), [it-dep/nsubjpass]() (9; 0% instances), [it-dep/acl:relcl]() (4; 0% instances), [it-dep/advcl]() (2; 0% instances), [it-dep/xcomp]() (2; 0% instances), [it-dep/ccomp]() (1; 0% instances), [it-dep/foreign]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 13 different parts of speech: [NOUN]() (2823; 61% instances), [VERB]() (932; 20% instances), [NUM]() (339; 7% instances), [PROPN]() (241; 5% instances), [ROOT]() (86; 2% instances), [SYM]() (84; 2% instances), [ADJ]() (59; 1% instances), [PRON]() (24; 1% instances), [ADV]() (14; 0% instances), [PUNCT]() (3; 0% instances), [X]() (2; 0% instances), [AUX]() (1; 0% instances), [DET]() (1; 0% instances)
+Parents of `NUM` nodes belong to 13 different parts of speech: [NOUN]() (2822; 61% instances), [VERB]() (932; 20% instances), [NUM]() (340; 7% instances), [PROPN]() (241; 5% instances), [ROOT]() (86; 2% instances), [SYM]() (84; 2% instances), [ADJ]() (54; 1% instances), [PRON]() (28; 1% instances), [ADV]() (14; 0% instances), [PUNCT]() (3; 0% instances), [X]() (3; 0% instances), [AUX]() (1; 0% instances), [DET]() (1; 0% instances)
 
 2484 (54%) `NUM` nodes are leaves.
 
 677 (15%) `NUM` nodes have one child.
 
-1064 (23%) `NUM` nodes have two children.
+1065 (23%) `NUM` nodes have two children.
 
-384 (8%) `NUM` nodes have three or more children.
+383 (8%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 22.
 
-Children of `NUM` nodes are attached using 26 different relations: [it-dep/punct]() (1647; 38% instances), [it-dep/det]() (838; 19% instances), [it-dep/case]() (790; 18% instances), [it-dep/nmod]() (296; 7% instances), [it-dep/conj]() (210; 5% instances), [it-dep/compound]() (150; 3% instances), [it-dep/advmod]() (128; 3% instances), [it-dep/cc]() (121; 3% instances), [it-dep/nummod]() (34; 1% instances), [it-dep/mwe]() (27; 1% instances), [it-dep/amod]() (21; 0% instances), [it-dep/cop]() (19; 0% instances), [it-dep/nsubj]() (17; 0% instances), [it-dep/advcl]() (8; 0% instances), [it-dep/acl:relcl]() (5; 0% instances), [it-dep/appos]() (4; 0% instances), [it-dep/acl]() (3; 0% instances), [it-dep/dobj]() (3; 0% instances), [it-dep/parataxis]() (3; 0% instances), [it-dep/mark]() (2; 0% instances), [it-dep/aux]() (1; 0% instances), [it-dep/ccomp]() (1; 0% instances), [it-dep/det:poss]() (1; 0% instances), [it-dep/det:predet]() (1; 0% instances), [it-dep/neg]() (1; 0% instances), [it-dep/xcomp]() (1; 0% instances)
+Children of `NUM` nodes are attached using 24 different relations: [it-dep/punct]() (1648; 38% instances), [it-dep/det]() (836; 19% instances), [it-dep/case]() (788; 18% instances), [it-dep/nmod]() (299; 7% instances), [it-dep/conj]() (210; 5% instances), [it-dep/compound]() (152; 4% instances), [it-dep/advmod]() (128; 3% instances), [it-dep/cc]() (122; 3% instances), [it-dep/nummod]() (34; 1% instances), [it-dep/mwe]() (24; 1% instances), [it-dep/amod]() (21; 0% instances), [it-dep/cop]() (19; 0% instances), [it-dep/nsubj]() (17; 0% instances), [it-dep/advcl]() (11; 0% instances), [it-dep/acl:relcl]() (5; 0% instances), [it-dep/appos]() (4; 0% instances), [it-dep/dobj]() (3; 0% instances), [it-dep/parataxis]() (3; 0% instances), [it-dep/mark]() (2; 0% instances), [it-dep/aux]() (1; 0% instances), [it-dep/ccomp]() (1; 0% instances), [it-dep/det:poss]() (1; 0% instances), [it-dep/det:predet]() (1; 0% instances), [it-dep/neg]() (1; 0% instances)
 
-Children of `NUM` nodes belong to 15 different parts of speech: [PUNCT]() (1589; 37% instances), [DET]() (842; 19% instances), [ADP]() (770; 18% instances), [NUM]() (339; 8% instances), [NOUN]() (317; 7% instances), [ADV]() (150; 3% instances), [CONJ]() (121; 3% instances), [ADJ]() (65; 2% instances), [SYM]() (60; 1% instances), [VERB]() (40; 1% instances), [PROPN]() (15; 0% instances), [PRON]() (13; 0% instances), [X]() (8; 0% instances), [SCONJ]() (2; 0% instances), [AUX]() (1; 0% instances)
+Children of `NUM` nodes belong to 15 different parts of speech: [PUNCT]() (1648; 38% instances), [DET]() (841; 19% instances), [ADP]() (768; 18% instances), [NUM]() (340; 8% instances), [NOUN]() (317; 7% instances), [ADV]() (150; 3% instances), [CONJ]() (122; 3% instances), [ADJ]() (65; 2% instances), [VERB]() (40; 1% instances), [PROPN]() (15; 0% instances), [PRON]() (13; 0% instances), [X]() (7; 0% instances), [SCONJ]() (2; 0% instances), [SYM]() (2; 0% instances), [AUX]() (1; 0% instances)
 

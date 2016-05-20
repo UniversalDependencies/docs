@@ -9,9 +9,9 @@ This relation is universal.
 8227 nodes (10%) are attached to their parents as `root`.
 
 8227 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.53749848061262.
+Average distance between parent and child is 3.5377415825939.
 
-The following 8 pairs of parts of speech are connected with `root`: [pl-pos/ROOT]()-[pl-pos/VERB]() (7501; 91% instances), [pl-pos/ROOT]()-[pl-pos/ADJ]() (354; 4% instances), [pl-pos/ROOT]()-[pl-pos/NOUN]() (331; 4% instances), [pl-pos/ROOT]()-[pl-pos/AUX]() (22; 0% instances), [pl-pos/ROOT]()-[pl-pos/ADV]() (13; 0% instances), [pl-pos/ROOT]()-[pl-pos/NUM]() (4; 0% instances), [pl-pos/ROOT]()-[pl-pos/PART]() (1; 0% instances), [pl-pos/ROOT]()-[pl-pos/PRON]() (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: [pl-pos/ROOT]()-[pl-pos/VERB]() (7499; 91% instances), [pl-pos/ROOT]()-[pl-pos/ADJ]() (342; 4% instances), [pl-pos/ROOT]()-[pl-pos/NOUN]() (306; 4% instances), [pl-pos/ROOT]()-[pl-pos/PRON]() (34; 0% instances), [pl-pos/ROOT]()-[pl-pos/AUX]() (22; 0% instances), [pl-pos/ROOT]()-[pl-pos/ADV]() (13; 0% instances), [pl-pos/ROOT]()-[pl-pos/PROPN]() (7; 0% instances), [pl-pos/ROOT]()-[pl-pos/NUM]() (3; 0% instances), [pl-pos/ROOT]()-[pl-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu

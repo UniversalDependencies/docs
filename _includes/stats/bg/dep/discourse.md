@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-702 nodes (0%) are attached to their parents as `discourse`.
+703 nodes (0%) are attached to their parents as `discourse`.
 
-371 instances of `discourse` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.34188034188034.
+365 instances of `discourse` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.40967283072546.
 
-The following 27 pairs of parts of speech are connected with `discourse`: [bg-pos/VERB]()-[bg-pos/PART]() (457; 65% instances), [bg-pos/VERB]()-[bg-pos/INTJ]() (65; 9% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (44; 6% instances), [bg-pos/ADV]()-[bg-pos/PART]() (25; 4% instances), [bg-pos/NOUN]()-[bg-pos/PROPN]() (20; 3% instances), [bg-pos/PROPN]()-[bg-pos/PROPN]() (17; 2% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (14; 2% instances), [bg-pos/DET]()-[bg-pos/PART]() (11; 2% instances), [bg-pos/CONJ]()-[bg-pos/PART]() (9; 1% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (7; 1% instances), [bg-pos/ADJ]()-[bg-pos/PART]() (5; 1% instances), [bg-pos/NOUN]()-[bg-pos/INTJ]() (4; 1% instances), [bg-pos/PROPN]()-[bg-pos/PART]() (4; 1% instances), [bg-pos/VERB]()-[bg-pos/SCONJ]() (4; 1% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (2; 0% instances), [bg-pos/PRON]()-[bg-pos/PART]() (2; 0% instances), [bg-pos/PROPN]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/PROPN]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/NUM]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/DET]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/X]() (1; 0% instances), [bg-pos/X]()-[bg-pos/PROPN]() (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `discourse`: [bg-pos/VERB]()-[bg-pos/PART]() (422; 60% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (58; 8% instances), [bg-pos/VERB]()-[bg-pos/INTJ]() (57; 8% instances), [bg-pos/ADV]()-[bg-pos/PART]() (32; 5% instances), [bg-pos/NOUN]()-[bg-pos/PROPN]() (22; 3% instances), [bg-pos/ADJ]()-[bg-pos/PART]() (19; 3% instances), [bg-pos/PROPN]()-[bg-pos/PROPN]() (17; 2% instances), [bg-pos/DET]()-[bg-pos/PART]() (11; 2% instances), [bg-pos/CONJ]()-[bg-pos/PART]() (9; 1% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (7; 1% instances), [bg-pos/ADJ]()-[bg-pos/INTJ]() (6; 1% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (6; 1% instances), [bg-pos/NOUN]()-[bg-pos/INTJ]() (5; 1% instances), [bg-pos/ADV]()-[bg-pos/PROPN]() (4; 1% instances), [bg-pos/PROPN]()-[bg-pos/PART]() (4; 1% instances), [bg-pos/VERB]()-[bg-pos/SCONJ]() (4; 1% instances), [bg-pos/ADJ]()-[bg-pos/PROPN]() (3; 0% instances), [bg-pos/ADV]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (2; 0% instances), [bg-pos/PRON]()-[bg-pos/PART]() (2; 0% instances), [bg-pos/PROPN]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/NOUN]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/NUM]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/DET]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/X]() (1; 0% instances), [bg-pos/X]()-[bg-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,6 +35,21 @@ The following 27 pairs of parts of speech are connected with `discourse`: [bg-po
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 discourse	color:blue
+1	Страх	страх	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	ли	ли	PART	Ti	_	1	discourse	_	_
+3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	dobj	_	_
+4	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+5	?	?	PUNCT	punct	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 7	bgColor:blue
@@ -46,23 +61,8 @@ The following 27 pairs of parts of speech are connected with `discourse`: [bg-po
 4	на	на	ADP	R	_	5	case	_	_
 5	съседите	съсед	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	3	nmod	_	_
 6	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
-7	изчезнало	изчезна	VERB	Vppicao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	изчезнало	изчезна	VERB	Vppicao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 discourse	color:blue
-1	Страх	страх	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	4	cop	_	_
-2	ли	ли	PART	Ti	_	1	discourse	_	_
-3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	dobj	_	_
-4	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	?	?	PUNCT	punct	_	4	punct	_	_
 
 ~~~
 

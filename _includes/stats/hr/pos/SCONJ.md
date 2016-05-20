@@ -11,7 +11,7 @@ The 10 most frequent `SCONJ` lemmas: <em>kako, da, kao, dok, jer, ako, iako, neg
 
 The 10 most frequent `SCONJ` types:  <em>kako, da, kao, dok, jer, ako, iako, nego, ukoliko, ali</em>
 
-The 10 most frequent ambiguous lemmas: <em>kako</em> ([SCONJ]() 752, [ADV]() 85), <em>da</em> ([SCONJ]() 527, [PART]() 2, [X]() 1), <em>ako</em> ([SCONJ]() 48, [CONJ]() 10), <em>nego</em> ([SCONJ]() 34, [CONJ]() 4), <em>ali</em> ([CONJ]() 96, [SCONJ]() 24), <em>no</em> ([SCONJ]() 18, [CONJ]() 5), <em>kada</em> ([ADV]() 95, [SCONJ]() 17), <em>a</em> ([CONJ]() 196, [SCONJ]() 14), <em>što</em> ([PRON]() 295, [PART]() 7, [SCONJ]() 7), <em>nakon</em> ([ADP]() 178, [SCONJ]() 5)
+The 10 most frequent ambiguous lemmas: <em>kako</em> ([SCONJ]() 752, [ADV]() 85), <em>da</em> ([SCONJ]() 527, [PART]() 2, [X]() 1), <em>ako</em> ([SCONJ]() 48, [CONJ]() 10), <em>nego</em> ([SCONJ]() 34, [CONJ]() 4), <em>ali</em> ([CONJ]() 96, [SCONJ]() 24), <em>no</em> ([SCONJ]() 18, [CONJ]() 5), <em>kada</em> ([ADV]() 95, [SCONJ]() 17), <em>a</em> ([CONJ]() 196, [SCONJ]() 14), <em>što</em> ([PRON]() 295, [SCONJ]() 7, [PART]() 7), <em>nakon</em> ([ADP]() 178, [SCONJ]() 5)
 
 The 10 most frequent ambiguous types:  <em>kako</em> ([SCONJ]() 747, [ADV]() 82), <em>da</em> ([SCONJ]() 521, [X]() 1, [PART]() 1), <em>ako</em> ([SCONJ]() 24, [CONJ]() 10), <em>nego</em> ([SCONJ]() 34, [CONJ]() 4), <em>ali</em> ([CONJ]() 93, [SCONJ]() 23), <em>no</em> ([SCONJ]() 17, [CONJ]() 4), <em>kada</em> ([ADV]() 80, [SCONJ]() 10), <em>a</em> ([CONJ]() 192, [SCONJ]() 14), <em>što</em> ([PRON]() 259, [SCONJ]() 7, [PART]() 6), <em>nakon</em> ([ADP]() 148, [SCONJ]() 5)
 

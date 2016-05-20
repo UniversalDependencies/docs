@@ -4,30 +4,29 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 65 `ADP` lemmas (0%), 62 `ADP` types (0%) and 35492 `ADP` tokens (16%).
-Out of 17 observed tags, the rank of `ADP` is: 9 in number of lemmas, 10 in number of types and 2 in number of tokens.
+There are 66 `ADP` lemmas (0%), 62 `ADP` types (0%) and 35719 `ADP` tokens (16%).
+Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 10 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, em, a, por, para, com, do, da, entre, sobre</em>
 
 The 10 most frequent `ADP` types:  <em>de, em, a, por, para, com, do, da, entre, sobre</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 16608, [PRON]() 73, [ADV]() 1), <em>a</em> ([ADP]() 3569, [PRON]() 319, [DET]() 125, [PROPN]() 1, [ADV]() 1), <em>por</em> ([ADP]() 2128, [ADV]() 1, [SCONJ]() 1), <em>do</em> ([ADP]() 387, [NOUN]() 1), <em>até</em> ([ADP]() 194, [ADV]() 58, [NOUN]() 7), <em>segundo</em> ([ADP]() 194, [ADJ]() 104, [NOUN]() 11, [ADV]() 6), <em>contra</em> ([ADP]() 134, [ADV]() 3, [NOUN]() 3, [PROPN]() 1), <em>desde</em> ([ADP]() 90, [NOUN]() 32), <em>após</em> ([ADP]() 83, [ADV]() 1), <em>como</em> ([ADV]() 565, [ADP]() 80, [SCONJ]() 63)
+The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 16688, [ADV]() 1), <em>a</em> ([ADP]() 3676, [DET]() 315, [PRON]() 36, [ADV]() 1, [PROPN]() 1), <em>por</em> ([ADP]() 2129, [SCONJ]() 1, [ADV]() 1), <em>até</em> ([ADP]() 194, [ADV]() 58, [NOUN]() 7), <em>segundo</em> ([ADP]() 194, [ADJ]() 104, [NOUN]() 11, [ADV]() 6), <em>contra</em> ([ADP]() 134, [NOUN]() 3, [ADV]() 3, [PROPN]() 1), <em>desde</em> ([ADP]() 90, [NOUN]() 32), <em>após</em> ([ADP]() 83, [ADV]() 1), <em>como</em> ([ADV]() 565, [ADP]() 80, [SCONJ]() 63), <em>há</em> ([ADP]() 33, [NOUN]() 4)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 16475, [PRON]() 73, [ADV]() 1), <em>a</em> ([DET]() 9132, [ADP]() 3487, [PRON]() 389, [PROPN]() 1, [ADV]() 1), <em>por</em> ([ADP]() 2028, [SCONJ]() 1, [ADV]() 1), <em>entre</em> ([ADP]() 331, [VERB]() 1), <em>até</em> ([ADP]() 174, [ADV]() 50, [NOUN]() 7), <em>segundo</em> ([ADP]() 75, [ADJ]() 55, [ADV]() 4, [NOUN]() 4), <em>contra</em> ([ADP]() 131, [ADV]() 3, [NOUN]() 2, [PROPN]() 1), <em>no</em> ([ADP]() 63, [PRON]() 3), <em>desde</em> ([ADP]() 76, [NOUN]() 24), <em>após</em> ([ADP]() 72, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 16555, [ADV]() 1), <em>a</em> ([DET]() 9385, [ADP]() 3577, [PRON]() 98, [PROPN]() 1, [ADV]() 1), <em>por</em> ([ADP]() 2029, [SCONJ]() 1, [ADV]() 1), <em>entre</em> ([ADP]() 331, [VERB]() 1), <em>até</em> ([ADP]() 174, [ADV]() 50, [NOUN]() 7), <em>segundo</em> ([ADP]() 75, [ADJ]() 55, [NOUN]() 4, [ADV]() 4), <em>contra</em> ([ADP]() 131, [ADV]() 3, [NOUN]() 2, [PROPN]() 1), <em>no</em> ([ADP]() 63, [PRON]() 3), <em>desde</em> ([ADP]() 76, [NOUN]() 24), <em>após</em> ([ADP]() 72, [ADV]() 1)
 
 
 * <em>de</em>
-  * [ADP]() 16475: <em>Audiência em a Justiça <b>de</b> o Pará discute diploma</em>
-  * [PRON]() 73: <em>Mais <b>de</b> mil professores de a Fenprof em manifestação</em>
+  * [ADP]() 16555: <em>Audiência em a Justiça <b>de</b> o Pará discute diploma</em>
   * [ADV]() 1: <em>Em declarações a o PÚBLICO , Francisco Costa , membro de a comissão de ligação de o Hospital , um órgão de contacto entre os hospitais e as Testemunhas de Jeová , disse conhecer o documento , que , em o essencial , reitera uma prática utilizada anteriormente por a direcção de o hospital , a a excepção <b>de</b> o que se passava com o tratamento de crianças .</em>
 * <em>a</em>
-  * [DET]() 9132: <em>Audiência em <b>a</b> Justiça de o Pará discute diploma</em>
-  * [ADP]() 3487: <em>Dallari orientou os produtores <b>a</b> negociarem com a indústria .</em>
-  * [PRON]() 389: <em>Gosto de levar <b>a</b> sério o meu papel de consultor encartado .</em>
-  * [PROPN]() 1: <em>Agora vou para Nova Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral da ONU ] o_que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar .</em>
-  * [ADV]() 1: <em>não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo_o processo nada tem <b>a</b> ver com Ciência , ao contrário de o que as máquinas de propaganda pretendem fazer crer .</em>
+  * [DET]() 9385: <em>Audiência em <b>a</b> Justiça de o Pará discute diploma</em>
+  * [ADP]() 3577: <em>Dallari orientou os produtores <b>a</b> negociarem com a indústria .</em>
+  * [PRON]() 98: <em>Acabou a « America's Cup » de 1992 , viva <b>a</b> de 1995 .</em>
+  * [PROPN]() 1: <em>Agora vou para Nova Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral da ONU ] o que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar .</em>
+  * [ADV]() 1: <em>não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo o processo nada tem <b>a</b> ver com Ciência , ao contrário de o que as máquinas de propaganda pretendem fazer crer .</em>
 * <em>por</em>
-  * [ADP]() 2028: <em>O homem fuma entre 11 e 20 cigarros <b>por</b> dia e a mulher , entre 5 e 10 .</em>
+  * [ADP]() 2029: <em>O homem fuma entre 11 e 20 cigarros <b>por</b> dia e a mulher , entre 5 e 10 .</em>
   * [SCONJ]() 1: <em>A praça , <b>por</b> ser tombada , deveria ficar como era antes de a obra .</em>
   * [ADV]() 1: <em>se Guímaro era corrupto , quem eram os corruptores e <b>por</b> que motivo não foram igualmente presentes a o juiz de o Tribunal de Instrução Criminal ?</em>
 * <em>entre</em>
@@ -40,8 +39,8 @@ The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 16475, [PRON]() 73, 
 * <em>segundo</em>
   * [ADP]() 75: <em>O Brasil « nunca esteve em apuros » , <b>segundo</b> o técnico .</em>
   * [ADJ]() 55: <em>O <b>segundo</b> , com algum humor , intitulou a sua peça « O meu corpo » ;</em>
-  * [ADV]() 4: <em>A cimeira sindical ibérica já não deverá realizar- se este ano , <b>segundo</b> apurou o PÚBLICO .</em>
   * [NOUN]() 4: <em>Este futebol que apazigua os desejos e termina com as nostalgias foi lançado desde o primeiro <b>segundo</b> .</em>
+  * [ADV]() 4: <em>A cimeira sindical ibérica já não deverá realizar- se este ano , <b>segundo</b> apurou o PÚBLICO .</em>
 * <em>contra</em>
   * [ADP]() 131: <em>Partidos <b>contra</b> Plano Estratégico</em>
   * [ADV]() 3: <em>Votar <b>contra</b> seria perigoso porque o plano tem apoio popular .</em>
@@ -59,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 16475, [PRON]() 73, 
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.953846 (the average of all parts of speech is 1.447246).
+The form / lemma ratio of `ADP` is 0.939394 (the average of all parts of speech is 1.447797).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, e</em>.
 
@@ -67,34 +66,34 @@ The 2nd highest number of forms (2) was observed with the lemma “de”: <em>d'
 
 The 3rd highest number of forms (2) was observed with the lemma “em”: <em>em, peixes</em>.
 
-`ADP` occurs with 5 features: [pt-feat/AdpType]() (35492; 100% instances), [pt-feat/Number]() (2039; 6% instances), [pt-feat/Gender]() (2019; 6% instances), [pt-feat/PronType]() (162; 0% instances), [pt-feat/Typo]() (5; 0% instances)
+`ADP` occurs with 6 features: [pt-feat/AdpType]() (35719; 100% instances), [pt-feat/Gender]() (1290; 4% instances), [pt-feat/Number]() (1290; 4% instances), [pt-feat/Definite]() (1289; 4% instances), [pt-feat/PronType]() (141; 0% instances), [pt-feat/Typo]() (3; 0% instances)
 
-`ADP` occurs with 8 feature-value pairs: `AdpType=Prep`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
+`ADP` occurs with 9 feature-value pairs: `AdpType=Prep`, `AdpType=Preppron`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PronType=Rel`, `Typo=Yes`
 
-`ADP` occurs with 10 feature combinations.
-The most frequent feature combination is `AdpType=Prep` (33287 tokens).
-Examples: <em>de, em, a, por, para, com, entre, sobre, do, sem</em>
+`ADP` occurs with 8 feature combinations.
+The most frequent feature combination is `AdpType=Prep` (34285 tokens).
+Examples: <em>de, em, a, por, para, com, entre, sobre, sem, até</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 19 different relations: [pt-dep/case]() (30898; 87% instances), [pt-dep/mark]() (2920; 8% instances), [pt-dep/mwe]() (855; 2% instances), [pt-dep/advmod]() (553; 2% instances), [pt-dep/nmod]() (191; 1% instances), [pt-dep/cop]() (16; 0% instances), [pt-dep/cc]() (15; 0% instances), [pt-dep/root]() (10; 0% instances), [pt-dep/conj]() (8; 0% instances), [pt-dep/dobj]() (7; 0% instances), [pt-dep/dep]() (5; 0% instances), [pt-dep/advmod:emph]() (3; 0% instances), [pt-dep/name]() (3; 0% instances), [pt-dep/xcomp]() (3; 0% instances), [pt-dep/acl]() (1; 0% instances), [pt-dep/amod]() (1; 0% instances), [pt-dep/ccomp]() (1; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/nsubj]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 22 different relations: [pt-dep/case]() (31039; 87% instances), [pt-dep/mark]() (2887; 8% instances), [pt-dep/mwe]() (926; 3% instances), [pt-dep/advmod]() (712; 2% instances), [pt-dep/nmod]() (83; 0% instances), [pt-dep/cop]() (15; 0% instances), [pt-dep/root]() (10; 0% instances), [pt-dep/conj]() (9; 0% instances), [pt-dep/dobj]() (7; 0% instances), [pt-dep/det]() (6; 0% instances), [pt-dep/dep]() (5; 0% instances), [pt-dep/xcomp]() (4; 0% instances), [pt-dep/advmod:emph]() (3; 0% instances), [pt-dep/name]() (3; 0% instances), [pt-dep/cc]() (2; 0% instances), [pt-dep/compound]() (2; 0% instances), [pt-dep/acl]() (1; 0% instances), [pt-dep/amod]() (1; 0% instances), [pt-dep/aux]() (1; 0% instances), [pt-dep/ccomp]() (1; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/nsubj]() (1; 0% instances)
 
-Parents of `ADP` nodes belong to 17 different parts of speech: [NOUN]() (21556; 61% instances), [PROPN]() (7027; 20% instances), [VERB]() (3349; 9% instances), [PRON]() (933; 3% instances), [ADV]() (804; 2% instances), [NUM]() (710; 2% instances), [ADJ]() (448; 1% instances), [ADP]() (319; 1% instances), [SYM]() (200; 1% instances), [DET]() (111; 0% instances), [AUX]() (11; 0% instances), [ROOT]() (10; 0% instances), [CONJ]() (8; 0% instances), [SCONJ]() (3; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances), [X]() (1; 0% instances)
+Parents of `ADP` nodes belong to 17 different parts of speech: [NOUN]() (21518; 60% instances), [PROPN]() (7033; 20% instances), [VERB]() (3320; 9% instances), [ADV]() (891; 2% instances), [NUM]() (839; 2% instances), [PRON]() (772; 2% instances), [ADJ]() (452; 1% instances), [ADP]() (425; 1% instances), [DET]() (228; 1% instances), [SYM]() (203; 1% instances), [AUX]() (11; 0% instances), [CONJ]() (11; 0% instances), [ROOT]() (10; 0% instances), [SCONJ]() (3; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances), [X]() (1; 0% instances)
 
-34160 (96%) `ADP` nodes are leaves.
+34391 (96%) `ADP` nodes are leaves.
 
-638 (2%) `ADP` nodes have one child.
+597 (2%) `ADP` nodes have one child.
 
-600 (2%) `ADP` nodes have two children.
+662 (2%) `ADP` nodes have two children.
 
-94 (0%) `ADP` nodes have three or more children.
+69 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 9.
 
-Children of `ADP` nodes are attached using 22 different relations: [pt-dep/mwe]() (1652; 75% instances), [pt-dep/nmod]() (157; 7% instances), [pt-dep/nummod]() (134; 6% instances), [pt-dep/punct]() (61; 3% instances), [pt-dep/nsubj]() (42; 2% instances), [pt-dep/cc]() (27; 1% instances), [pt-dep/advmod]() (26; 1% instances), [pt-dep/conj]() (16; 1% instances), [pt-dep/name]() (16; 1% instances), [pt-dep/case]() (13; 1% instances), [pt-dep/amod]() (9; 0% instances), [pt-dep/dep]() (9; 0% instances), [pt-dep/cop]() (8; 0% instances), [pt-dep/dobj]() (7; 0% instances), [pt-dep/acl]() (5; 0% instances), [pt-dep/advcl]() (4; 0% instances), [pt-dep/mark]() (4; 0% instances), [pt-dep/neg]() (2; 0% instances), [pt-dep/advmod:emph]() (1; 0% instances), [pt-dep/appos]() (1; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/xcomp]() (1; 0% instances)
+Children of `ADP` nodes are attached using 22 different relations: [pt-dep/mwe]() (1903; 87% instances), [pt-dep/nmod]() (84; 4% instances), [pt-dep/nsubj]() (42; 2% instances), [pt-dep/punct]() (31; 1% instances), [pt-dep/advmod]() (27; 1% instances), [pt-dep/conj]() (17; 1% instances), [pt-dep/cc]() (16; 1% instances), [pt-dep/case]() (15; 1% instances), [pt-dep/dep]() (9; 0% instances), [pt-dep/dobj]() (9; 0% instances), [pt-dep/cop]() (8; 0% instances), [pt-dep/acl]() (4; 0% instances), [pt-dep/advcl]() (4; 0% instances), [pt-dep/mark]() (4; 0% instances), [pt-dep/amod]() (3; 0% instances), [pt-dep/nummod]() (3; 0% instances), [pt-dep/neg]() (2; 0% instances), [pt-dep/advmod:emph]() (1; 0% instances), [pt-dep/ccomp]() (1; 0% instances), [pt-dep/compound]() (1; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/xcomp]() (1; 0% instances)
 
-Children of `ADP` nodes belong to 13 different parts of speech: [NOUN]() (1167; 53% instances), [ADP]() (319; 15% instances), [NUM]() (140; 6% instances), [SCONJ]() (138; 6% instances), [PRON]() (124; 6% instances), [ADV]() (81; 4% instances), [ADJ]() (68; 3% instances), [PUNCT]() (63; 3% instances), [PROPN]() (43; 2% instances), [VERB]() (25; 1% instances), [CONJ]() (23; 1% instances), [SYM]() (4; 0% instances), [AUX]() (1; 0% instances)
+Children of `ADP` nodes belong to 14 different parts of speech: [NOUN]() (1232; 56% instances), [ADP]() (425; 19% instances), [SCONJ]() (138; 6% instances), [ADV]() (116; 5% instances), [DET]() (83; 4% instances), [ADJ]() (62; 3% instances), [PUNCT]() (31; 1% instances), [VERB]() (24; 1% instances), [PROPN]() (23; 1% instances), [PRON]() (21; 1% instances), [CONJ]() (17; 1% instances), [NUM]() (9; 0% instances), [SYM]() (4; 0% instances), [AUX]() (1; 0% instances)
 
 
 
@@ -111,15 +110,15 @@ The 10 most frequent `ADP` types:  <em>de, do, da, em, para, no, com, na, a, por
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 57316, [ADP]() 51928, [PUNCT]() 42033, [PROPN]() 32948, [VERB]() 29700, [DET]() 26122, [ADJ]() 15107, [CONJ]() 10984, [ADV]() 9773, [NUM]() 8491, [PRON]() 7392, [AUX]() 5242, [PART]() 748, [X]() 539)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 12760, [CONJ]() 2, [DET]() 1, [PRON]() 1, [PROPN]() 1, [VERB]() 1), <em>do</em> ([ADP]() 5171, [X]() 21, [CONJ]() 1), <em>da</em> ([ADP]() 4056, [X]() 4, [PROPN]() 1), <em>em</em> ([ADP]() 3411, [ADV]() 1), <em>para</em> ([ADP]() 2973, [AUX]() 2, [PART]() 1, [NOUN]() 1, [VERB]() 1), <em>no</em> ([ADP]() 2552, [X]() 8, [PRON]() 2, [NOUN]() 1), <em>na</em> ([ADP]() 2161, [NOUN]() 3, [X]() 2), <em>a</em> ([DET]() 5338, [ADP]() 1658, [PRON]() 64, [VERB]() 5, [X]() 2, [CONJ]() 1, [PROPN]() 1), <em>por</em> ([ADP]() 1381, [X]() 1, [VERB]() 1), <em>dos</em> ([ADP]() 1227, [X]() 7)
+The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 12760, [CONJ]() 2, [PROPN]() 1, [PRON]() 1, [DET]() 1, [VERB]() 1), <em>do</em> ([ADP]() 5171, [X]() 21, [CONJ]() 1), <em>da</em> ([ADP]() 4056, [X]() 4, [PROPN]() 1), <em>em</em> ([ADP]() 3411, [ADV]() 1), <em>para</em> ([ADP]() 2973, [AUX]() 2, [VERB]() 1, [PART]() 1, [NOUN]() 1), <em>no</em> ([ADP]() 2552, [X]() 8, [PRON]() 2, [NOUN]() 1), <em>na</em> ([ADP]() 2161, [NOUN]() 3, [X]() 2), <em>a</em> ([DET]() 5338, [ADP]() 1658, [PRON]() 64, [VERB]() 5, [X]() 2, [CONJ]() 1, [PROPN]() 1), <em>por</em> ([ADP]() 1381, [X]() 1, [VERB]() 1), <em>dos</em> ([ADP]() 1227, [X]() 7)
 
 
 * <em>de</em>
   * [ADP]() 12760: <em>Ver também a lista <b>de</b> entidades que tenham emitido selos postais .</em>
   * [CONJ]() 2: <em>O Biscoito da Teixeira é feito à base de farinha , açúcar , limão , sal e fermento , e o respectivo segredo de família , depois <b>de</b> misturados , os ingredientes são levados a cozer em forno de lenha .</em>
-  * [DET]() 1: <em>O modo protegido ( 16 bits e 32 bits ) : Em computação , <b>de</b> modo protegido , também chamado de modo de endereço virtual protegido , é um modo operacional de x86 compatível com unidades de processamento central ( CPU ) .</em>
-  * [PRON]() 1: <em>Sobre o aumento no número de cadeiras na Câmara Municipal de Colombo , o petista afirmou que a mudança segue determinação do Congresso Nacional , que , por meio da implantação da emenda 58 , redefiniu o número de vereadores <b>de</b> cada município deve ter , tendo por base a proporcionalidade com a faixa populacional .</em>
   * [PROPN]() 1: <em>" Ao contrário do que foi publicado nesta quarta - feira , 9 de janeiro , pelo jornal O Estado de São Paulo , a Secretaria <b>de</b> Comunicação do Ministério Público Federal informa que o procurador - geral da República ainda não iniciou a análise do depoimento de Marcos Valério , pois aguardava o término do julgamento da AP [ Ação Penal ] 470 [ o processo do mensalão ] " , diz trecho da nota .</em>
+  * [PRON]() 1: <em>Sobre o aumento no número de cadeiras na Câmara Municipal de Colombo , o petista afirmou que a mudança segue determinação do Congresso Nacional , que , por meio da implantação da emenda 58 , redefiniu o número de vereadores <b>de</b> cada município deve ter , tendo por base a proporcionalidade com a faixa populacional .</em>
+  * [DET]() 1: <em>O modo protegido ( 16 bits e 32 bits ) : Em computação , <b>de</b> modo protegido , também chamado de modo de endereço virtual protegido , é um modo operacional de x86 compatível com unidades de processamento central ( CPU ) .</em>
   * [VERB]() 1: <em>A nomeação do catarinense Ary Joel Lanzarin para presidir o BNB pegou de surpresa os integrantes da bancada cearense no Congresso Nacional , que não escondem a preocupação com o fato de Ary Abreu desconhecer a realidade nordestina e <b>de</b> até o momento , ter dirigido o setor de micros e pequenas empresas do Banco do Brasil .</em>
 * <em>do</em>
   * [ADP]() 5171: <em>O couro <b>do</b> peixe sempre rende " , conta .</em>
@@ -135,9 +134,9 @@ The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 12760, [CONJ]() 2, [
 * <em>para</em>
   * [ADP]() 2973: <em>Na quarta faz um trabalho com bola , especial <b>para</b> ele adquirir o ritmo .</em>
   * [AUX]() 2: <em>Olívia não <b>para</b> de passar várias lições no quadro negro .</em>
+  * [VERB]() 1: <em>Entre os desafios mais simples , é preciso apertar o botão vermelho por 100 , 400 e até 5 mil vezes , mas não <b>para</b> por aí .</em>
   * [PART]() 1: <em>Jogo futsal , e nas paralimpíadas vou representar Sergipe no <b>para</b> - atletismo .</em>
   * [NOUN]() 1: <em>A primeira opção será a escolha daqueles que passam o dia no anda e <b>para</b> das cidades , enquanto a segunda está ali para conquistar os que adoram " cambiar " .</em>
-  * [VERB]() 1: <em>Entre os desafios mais simples , é preciso apertar o botão vermelho por 100 , 400 e até 5 mil vezes , mas não <b>para</b> por aí .</em>
 * <em>no</em>
   * [ADP]() 2552: <em>" O salto dá um up <b>no</b> visual !</em>
   * [X]() 8: <em>Pelo menos <b>no</b> que se refere aos Emirados Árabes , o ministro reconheceu que as relações bilaterais foram prejudicadas .</em>

@@ -6,109 +6,78 @@
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `goeswith`.
+201 nodes (0%) are attached to their parents as `goeswith`.
 
-7 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+195 instances of `goeswith` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04477611940298.
 
-The following 3 pairs of parts of speech are connected with `goeswith`: [ro-pos/NUM]()-[ro-pos/NUM]() (5; 71% instances), [ro-pos/NUM]()-[ro-pos/PRON]() (1; 14% instances), [ro-pos/X]()-[ro-pos/PUNCT]() (1; 14% instances).
+The following 27 pairs of parts of speech are connected with `goeswith`: [ro-pos/NUM]()-[ro-pos/SYM]() (51; 25% instances), [ro-pos/NUM]()-[ro-pos/NUM]() (32; 16% instances), [ro-pos/SYM]()-[ro-pos/NUM]() (32; 16% instances), [ro-pos/NUM]()-[ro-pos/PROPN]() (21; 10% instances), [ro-pos/SYM]()-[ro-pos/NOUN]() (16; 8% instances), [ro-pos/PUNCT]()-[ro-pos/NUM]() (12; 6% instances), [ro-pos/SYM]()-[ro-pos/PROPN]() (5; 2% instances), [ro-pos/NOUN]()-[ro-pos/NUM]() (4; 2% instances), [ro-pos/NUM]()-[ro-pos/PUNCT]() (4; 2% instances), [ro-pos/PROPN]()-[ro-pos/PROPN]() (4; 2% instances), [ro-pos/ADP]()-[ro-pos/NOUN]() (2; 1% instances), [ro-pos/NUM]()-[ro-pos/NOUN]() (2; 1% instances), [ro-pos/SYM]()-[ro-pos/PRON]() (2; 1% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/DET]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/PUNCT]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/ADP]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/PRON]() (1; 0% instances), [ro-pos/PART]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/NUM]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/NUM]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/SYM]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 goeswith	color:blue
+1	Decizia	decizie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubjpass	_	_
+2	2001	2001	NUM	Mc	NumType=Card	1	nummod	_	_
+3	/	/	SYM	SLASH	AdpType=Prep	2	goeswith	_	_
+4	881	881	NUM	Mc	NumType=Card	3	goeswith	_	_
+5	/	/	SYM	SLASH	AdpType=Prep	4	goeswith	_	_
+6	CE	CE	NOUN	Yn	Abbr=Yes	5	goeswith	_	_
+7	ar	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	trebui	trebui	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	modificată	modificat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	csubj	_	_
+10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	advmod	_	_
+11	consecință	consecință	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	mwe	_	_
+12	.	.	PUNCT	PERIOD	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 11 goeswith	color:blue
-1	6	6	NUM	Mc	NumType=Card	4	parataxis	_	_
-2	.	.	PUNCT	PERIOD	_	1	punct	_	_
-3	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pass	_	_
-4	diluează	dilua	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	concentratul	concentrat	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubjpass	_	_
-6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
-7	iepure	iepure	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
-8	antișoarece	antișoarece	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
-9	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
-10	1/5	1/5	NUM	Mc	NumType=Card	4	nmod	_	_
-11	000	000	NUM	Mc	NumType=Card	10	goeswith	_	_
-12	într-	întru	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	14	case	_	_
-13	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
-14	tampon	tampon	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
-15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
-16	blocare	blocare	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	14	nmod	_	_
-17	și	și	CONJ	Crssp	Negative=Pos	4	cc	_	_
-18	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	19	expl:pass	_	_
-19	adaugă	adăuga	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
-20	50	50	NUM	Mc	NumType=Card	21	nummod	_	_
-21	µl	µl	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	19	nsubjpass	_	_
-22	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
-23	toate	tot	DET	Di3fpr	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	24	det	_	_
-24	godeurile	godeu	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	19	nmod	_	_
-25	plăcii	placă	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	24	nmod	_	_
-26	.	.	PUNCT	PERIOD	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 goeswith	color:blue
-1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pass	_	_
-2	anexează	anexa	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	:	:	PUNCT	COLON	_	2	punct	_	_
-4	Documentul	document	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubjpass	_	_
-5	SANCO	SANCO	PROPN	Np	_	4	nmod	_	_
-6	/	/	SYM	SLASH	AdpType=Prep	5	punct	_	AltTag=SYM-ADP
-7	10366/2004	10366/2004	NUM	Mc	NumType=Card	5	nmod	_	_
-8	Rev	Rev	X	Y	Abbr=Yes	5	nmod	_	_
-9	.	.	PUNCT	PERIOD	_	8	goeswith	_	_
-10	17	17	NUM	Mc	NumType=Card	8	nmod	_	_
-11	-	-	PUNCT	DASH	_	12	punct	_	_
-12	aprobat	aproba	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
-14	unanimitate	unanimitate	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	12	nmod	_	_
-15	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
-16	15	15	NUM	Mc	NumType=Card	17	nummod	_	_
-17	iulie	iulie	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	nmod	_	_
-18	2004	2004	NUM	Mc	NumType=Card	17	nmod	_	_
-19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
-20	Comitetul	comitet	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	12	nmod:agent	_	_
-21	permanent	permanent	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-22	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	_
-23	lanțul	lanț	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	20	nmod	_	_
-24	alimentar	alimentar	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
-25	și	și	CONJ	Crssp	Negative=Pos	23	cc	_	_
-26	sănătatea_animală	sănătatea_animalelor	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	23	conj	_	_
-27	.	.	PUNCT	PERIOD	_	2	punct	_	_
+# visual-style 9 10 goeswith	color:blue
+1	Una	unul	PRON	Pi3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
+2	dintre	dintre	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
+3	păgubite	păgubită	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	1	nmod	_	_
+4	a	avea	AUX	Va--3s	Number=Sing|Person=3	5	aux	_	_
+5	reușit	reuși	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+6	să	să	PART	Qs	Mood=Sub	7	mark	_	_
+7	recupereze	recupera	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+8	circa	circa	ADV	Rgp	Degree=Pos	9	advmod	_	_
+9	460	460	NUM	Eni	_	12	nummod	_	_
+10	milioane	milion	NUM	Mcfprln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	9	goeswith	_	_
+11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
+12	lei	leu	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	7	dobj	_	_
+13	vechi	vechi	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	12	amod	_	_
+14	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 goeswith	color:blue
-1	Statele	stat	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	4	nsubj	_	_
-2	membre	membră	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	1	nmod	_	_
-3	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pv	_	_
-4	asigură	asigura	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	că	că	SCONJ	Csssp	Negative=Pos	15	mark	_	_
-6	testele	test	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	15	nsubjpass	_	_
-7	și	și	CONJ	Crssp	Negative=Pos	6	cc	_	_
-8	procesele	proces	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	conj	_	_
-9	menționate	menționa	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	6	acl	_	_
-10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
-11	anexele	anexă	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	9	nmod	_	_
-12	II	II	NUM	Mo-s-r	Number=Sing|NumForm=Roman|NumType=Card	11	nmod	_	AltTag=NUM-ADJ
-13	-V	tu	PRON	Pp2-pa--y-----w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak|Variant=Short	12	goeswith	_	_
-14	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	auxpass	_	_
-15	validate	valida	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	4	ccomp	_	_
-16	.	.	PUNCT	PERIOD	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 goeswith	color:blue
+1	Decizia	decizie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubjpass	_	_
+2	2001	2001	NUM	Mc	NumType=Card	1	nummod	_	_
+3	/	/	SYM	SLASH	AdpType=Prep	2	goeswith	_	_
+4	881	881	NUM	Mc	NumType=Card	3	goeswith	_	_
+5	/	/	SYM	SLASH	AdpType=Prep	4	goeswith	_	_
+6	CE	CE	NOUN	Yn	Abbr=Yes	5	goeswith	_	_
+7	ar	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	trebui	trebui	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	modificată	modificat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	csubj	_	_
+10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	advmod	_	_
+11	consecință	consecință	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	mwe	_	_
+12	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
 ~~~
 

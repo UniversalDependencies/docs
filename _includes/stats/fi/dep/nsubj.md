@@ -77,46 +77,14 @@ The following 21 pairs of parts of speech are connected with `nsubj`: [fi-pos/VE
 ## Treebank Statistics (UD_Finnish-FTB)
 
 This relation is universal.
+There are 1 language-specific subtypes of `nsubj`: [nsubj:cop]().
 
-15930 nodes (10%) are attached to their parents as `nsubj`.
+13033 nodes (8%) are attached to their parents as `nsubj`.
 
-13664 instances of `nsubj` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.00539861895794.
+10560 instances of `nsubj` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.7716565641065.
 
-The following 35 pairs of parts of speech are connected with `nsubj`: [fi-pos/VERB]()-[fi-pos/NOUN]() (6644; 42% instances), [fi-pos/VERB]()-[fi-pos/PRON]() (4672; 29% instances), [fi-pos/VERB]()-[fi-pos/PROPN]() (1644; 10% instances), [fi-pos/ADJ]()-[fi-pos/NOUN]() (789; 5% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (573; 4% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (440; 3% instances), [fi-pos/ADJ]()-[fi-pos/PRON]() (378; 2% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (237; 1% instances), [fi-pos/NOUN]()-[fi-pos/PROPN]() (154; 1% instances), [fi-pos/ADJ]()-[fi-pos/PROPN]() (82; 1% instances), [fi-pos/PRON]()-[fi-pos/PRON]() (62; 0% instances), [fi-pos/PRON]()-[fi-pos/NOUN]() (60; 0% instances), [fi-pos/PROPN]()-[fi-pos/NOUN]() (32; 0% instances), [fi-pos/VERB]()-[fi-pos/NUM]() (31; 0% instances), [fi-pos/NUM]()-[fi-pos/NOUN]() (30; 0% instances), [fi-pos/ADJ]()-[fi-pos/ADJ]() (20; 0% instances), [fi-pos/PROPN]()-[fi-pos/PRON]() (15; 0% instances), [fi-pos/NOUN]()-[fi-pos/ADJ]() (14; 0% instances), [fi-pos/NUM]()-[fi-pos/PRON]() (8; 0% instances), [fi-pos/NOUN]()-[fi-pos/NUM]() (7; 0% instances), [fi-pos/PROPN]()-[fi-pos/PROPN]() (7; 0% instances), [fi-pos/ADV]()-[fi-pos/NOUN]() (6; 0% instances), [fi-pos/X]()-[fi-pos/NOUN]() (4; 0% instances), [fi-pos/ADV]()-[fi-pos/PRON]() (3; 0% instances), [fi-pos/INTJ]()-[fi-pos/NOUN]() (3; 0% instances), [fi-pos/NUM]()-[fi-pos/PROPN]() (3; 0% instances), [fi-pos/X]()-[fi-pos/PRON]() (3; 0% instances), [fi-pos/INTJ]()-[fi-pos/PRON]() (2; 0% instances), [fi-pos/ADJ]()-[fi-pos/NUM]() (1; 0% instances), [fi-pos/ADV]()-[fi-pos/PROPN]() (1; 0% instances), [fi-pos/NUM]()-[fi-pos/NUM]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/PROPN]() (1; 0% instances), [fi-pos/PROPN]()-[fi-pos/NUM]() (1; 0% instances), [fi-pos/X]()-[fi-pos/PROPN]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 nsubj	color:blue
-1	x:n	x	NOUN	N,Abbr,Sg,Gen	Abbr=Yes|Case=Gen|Number=Sing	3	nsubj	_	_
-2	tarvii	tarvita	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	aux	_	Style=Dialectal
-3	toimia	toimia	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nsubj	color:blue
-1	Saulista	sauli	PROPN	N,Prop,Sg,Ela	Case=Ela|Number=Sing	2	nmod	_	_
-2	huomattiin	huomata	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|Voice=Pass	0	root	_	_
-3	jo	jo	ADV	Pcle	_	4	advmod	_	_
-4	lapsena	lapsi	NOUN	N,Sg,Ess	Case=Ess|Number=Sing	2	nmod	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	_
-6	että	että	SCONJ	Pcle,CS	_	8	mark	_	_
-7	hänellä	hän	PRON	Pron,Pers,Sg3,Ade	Case=Ade|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-8	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	ccomp	_	_
-9	lahjoja	lahja	NOUN	N,Pl,Par	Case=Par|Number=Plur	8	dobj	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
-
-~~~
+The following 24 pairs of parts of speech are connected with `nsubj`: [fi-pos/VERB]()-[fi-pos/NOUN]() (6846; 53% instances), [fi-pos/VERB]()-[fi-pos/PRON]() (4236; 33% instances), [fi-pos/VERB]()-[fi-pos/PROPN]() (1620; 12% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (241; 2% instances), [fi-pos/VERB]()-[fi-pos/NUM]() (24; 0% instances), [fi-pos/ADJ]()-[fi-pos/NOUN]() (9; 0% instances), [fi-pos/VERB]()-[fi-pos/VERB]() (9; 0% instances), [fi-pos/VERB]()-[fi-pos/X]() (9; 0% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (8; 0% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (7; 0% instances), [fi-pos/ADJ]()-[fi-pos/PRON]() (4; 0% instances), [fi-pos/NOUN]()-[fi-pos/PROPN]() (4; 0% instances), [fi-pos/X]()-[fi-pos/X]() (3; 0% instances), [fi-pos/ADV]()-[fi-pos/NOUN]() (2; 0% instances), [fi-pos/PRON]()-[fi-pos/PRON]() (2; 0% instances), [fi-pos/ADJ]()-[fi-pos/PROPN]() (1; 0% instances), [fi-pos/ADV]()-[fi-pos/PROPN]() (1; 0% instances), [fi-pos/INTJ]()-[fi-pos/PRON]() (1; 0% instances), [fi-pos/NOUN]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/PRON]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/PROPN]()-[fi-pos/NOUN]() (1; 0% instances), [fi-pos/PROPN]()-[fi-pos/X]() (1; 0% instances), [fi-pos/X]()-[fi-pos/PRON]() (1; 0% instances), [fi-pos/X]()-[fi-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -125,10 +93,38 @@ The following 35 pairs of parts of speech are connected with `nsubj`: [fi-pos/VE
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj	color:blue
-1	Dora	dora	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	4	nsubj	_	_
-2	puolestaan	puolestaan	ADV	Pcle	_	4	advmod	_	_
-3	ei	ei	VERB	V,Neg,Act,Sg3	Negative=Neg|Number=Sing|Person=3|Voice=Act	4	neg	_	_
-4	huolestunut	huolestua	VERB	V,Act,Ind,Past,Sg,ConNeg	Conneg=Yes|Mood=Ind|Number=Sing|Tense=Past|Voice=Act	0	root	_	_
+1	aurinko	aurinko	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nsubj	_	_
+2	armas	armas	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	1	amod	_	_
+3	,	,	PUNCT	Pun	_	2	punct	_	_
+4	kuivas	kuivata	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	satehen	sade	NOUN	N,Sg,Gen	Case=Gen|Number=Sing|Style=Coll	4	dobj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nsubj	color:blue
+1	Ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	2	nsubj	_	_
+2	meni	mennä	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	uimaa	uida	VERB	V,Act,InfMa,Ill	Case=Ill|InfForm=3|Style=Coll|VerbForm=Inf|Voice=Act	2	xcomp	_	Alt=xcomp
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nsubj	color:blue
+1	Pekka	pekka	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	2	nsubj	_	_
+2	antaa	antaa	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	lisää	lisää	ADV	Adv	_	4	advmod	_	_
+4	ruokaa	ruoka	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	dobj	_	_
 5	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~

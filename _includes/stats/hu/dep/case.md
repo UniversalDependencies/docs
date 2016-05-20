@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-479 nodes (2%) are attached to their parents as `case`.
+799 nodes (2%) are attached to their parents as `case`.
 
-477 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.29436325678497.
+797 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.37922403003755.
 
-The following 12 pairs of parts of speech are connected with `case`: [hu-pos/NOUN]()-[hu-pos/ADP]() (376; 78% instances), [hu-pos/PROPN]()-[hu-pos/ADP]() (45; 9% instances), [hu-pos/PRON]()-[hu-pos/ADP]() (32; 7% instances), [hu-pos/DET]()-[hu-pos/ADP]() (11; 2% instances), [hu-pos/NUM]()-[hu-pos/ADP]() (6; 1% instances), [hu-pos/ADJ]()-[hu-pos/ADP]() (3; 1% instances), [hu-pos/ADV]()-[hu-pos/ADP]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/X]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADP]() (1; 0% instances), [hu-pos/X]()-[hu-pos/X]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `case`: [hu-pos/NOUN]()-[hu-pos/ADP]() (641; 80% instances), [hu-pos/PROPN]()-[hu-pos/ADP]() (72; 9% instances), [hu-pos/PRON]()-[hu-pos/ADP]() (48; 6% instances), [hu-pos/NUM]()-[hu-pos/ADP]() (15; 2% instances), [hu-pos/DET]()-[hu-pos/ADP]() (11; 1% instances), [hu-pos/ADJ]()-[hu-pos/ADP]() (6; 1% instances), [hu-pos/ADV]()-[hu-pos/ADP]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/PROPN]()-[hu-pos/X]() (1; 0% instances), [hu-pos/VERB]()-[hu-pos/ADP]() (1; 0% instances), [hu-pos/X]()-[hu-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,24 +51,23 @@ The following 12 pairs of parts of speech are connected with `case`: [hu-pos/NOU
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 case	color:blue
-1	Ázsiában	Ázsia	PROPN	_	Case=Ine|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	nmod:obl	_	_
-2	ezzel	ez	PRON	_	Case=Ins|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	7	nmod:obl	_	_
-3	szemben	szemben	ADP	_	_	2	case	_	_
-4	mind	mind	ADV	_	PronType=Tot	6	advmod:mode	_	_
-5	több	több	DET	_	Definite=Ind|PronType=Ind	6	det	_	_
-6	sikerrel	siker	NOUN	_	Case=Ins|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	nmod:obl	_	_
-7	veszik	vesz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-8	fel	fel	ADV	_	Degree=Pos	7	compound:preverb	_	_
-9	az	az	DET	_	Definite=Def|PronType=Art	10	det	_	_
-10	AIDS-szel	AIDS	NOUN	_	Case=Ins|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	11	nmod:obl	_	_
-11	szembeni	szembeni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	12	amod:att	_	_
-12	küzdelmet	küzdelem	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	dobj	_	_
-13	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 case	color:blue
+1	Ezzel	ez	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	10	advmod:mode	_	_
+2	szemben	szemben	ADP	_	_	1	case	_	_
+3	például	például	ADV	_	_	10	advmod:mode	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
+5	jövedéki	jövedéki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+6	adó	adó	NOUN	_	Case=Nom|Number=Sing	9	nmod:att	_	_
+7	7	7	NUM	_	Case=Nom|Number=Sing|NumType=Card	8	amod:att	_	_
+8	százalékos	százalékos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	amod:att	_	_
+9	növelésére	növelés	NOUN	_	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	nmod:obl	_	_
+10	tesz	tesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	javaslatot	javaslat	NOUN	_	Case=Acc|Number=Sing	10	dobj	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

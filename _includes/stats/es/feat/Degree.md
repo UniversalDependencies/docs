@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 11 [es-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (11; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (11; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (11; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (11; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (11; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (10; 91%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (10; 91%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (11; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (11; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (11; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (11; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (11; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (10; 91%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (10; 91%).
 
 `PRON` tokens may have the following values of `Degree`:
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 
 3 [es-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (3; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (3; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (3; 100%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (3; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (3; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (3; 100%).
 
 `DET` tokens may have the following values of `Degree`:
 

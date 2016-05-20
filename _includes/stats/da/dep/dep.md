@@ -61,50 +61,33 @@ The following 7 pairs of parts of speech are connected with `dep`: [da-pos/VERB]
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 36	bgColor:blue
-# visual-style 36	fgColor:white
-# visual-style 36 4 dep	color:blue
-1	"	"	PUNCT	_	_	4	punct	_	_
-2	Det	det	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-3	var	være	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
-4	Beatles	Beatles	PROPN	_	_	36	dep	_	_
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	der	der	PRON	_	PartType=Inf	7	nsubj	_	_
-7	satte	sætte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
-8	mig	jeg	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs	7	dobj	_	_
-9	i	i	ADP	_	AdpType=Prep	7	compound:prt	_	_
-10	gang	gang	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	9	mwe	_	_
-11	i	i	ADP	_	AdpType=Prep	12	case	_	_
-12	rockmusikken	rockmusik	NOUN	_	Definite=Def|Gender=Com|Number=Sing	7	nmod	_	_
-13	,	,	PUNCT	_	_	7	punct	_	_
-14	og	og	CONJ	_	_	4	cc	_	_
-15	jeg	jeg	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
-16	syntes	synes	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
-17	stadigvæk	stadigvæk	ADV	_	_	16	advmod	_	_
-18	i	i	ADP	_	AdpType=Prep	16	advmod	_	_
-19	dag	dag	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	18	mwe	_	_
-20	,	,	PUNCT	_	_	28	punct	_	_
-21	at	at	SCONJ	_	_	28	mark	_	_
-22	Beatles'	Beatles	PROPN	_	Case=Gen	24	nmod:poss	_	_
-23	samlede	samle	VERB	_	Definite=Def|Number=Sing|Tense=Past|VerbForm=Part	24	amod	_	_
-24	produktion	produktion	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	28	nsubj	_	_
-25	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	28	cop	_	_
-26	det	den	DET	_	Gender=Neut|Number=Sing|PronType=Dem	28	det	_	_
-27	bedste	god	ADJ	_	Definite=Def|Degree=Sup	28	amod	_	_
-28	musik	musik	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	16	ccomp	_	_
-29	,	,	PUNCT	_	_	33	punct	_	_
-30	der	der	PRON	_	PartType=Inf	33	nsubjpass	_	_
-31	nogensinde	nogensinde	ADV	_	_	33	advmod	_	_
-32	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	33	auxpass	_	_
-33	lavet	lave	VERB	_	Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part,Trans	28	acl:relcl	_	_
-34	,	,	PUNCT	_	_	33	punct	_	_
-35	"	"	PUNCT	_	_	4	punct	_	_
-36	siger	sige	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-37	Nils	Nils	PROPN	_	_	36	nsubj	_	_
-38	Lofgren	Lofgren	PROPN	_	_	37	name	_	_
-39	.	.	PUNCT	_	_	36	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 dep	color:blue
+1	Præcis	præcis	ADV	_	_	0	root	_	_
+2	som	som	ADP	_	PartType=Inf	1	case	_	_
+3	Morten	Morten	PROPN	_	_	8	nsubj	_	_
+4	Olsen	Olsen	PROPN	_	_	3	name	_	_
+5	før	før	SCONJ	_	_	8	mark	_	_
+6	hver	hver	PRON	_	Gender=Com|Number=Sing|PronType=Ind	5	mark	_	_
+7	Superliga-kamp	superliga-kamp	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	5	dep	_	_
+8	våger	våge	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+9	og	og	CONJ	_	_	8	cc	_	_
+10	vogter	vogte	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+11	over	over	ADP	_	AdpType=Prep	13	case	_	_
+12	sin	sin	DET	_	Gender=Com|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	_
+13	startopstilling	startopstilling	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	8	nmod	_	_
+14	til	til	ADP	_	AdpType=Prep	16	mark	_	_
+15	almindelig	almindelig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	16	amod	_	_
+16	undren	undre	VERB	_	Definite=Ind|Gender=Com|Number=Sing|VerbForm=Ger	8	advcl	_	_
+17	og	og	CONJ	_	_	16	cc	_	_
+18	irritation	irritation	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	16	conj	_	_
+19	for	for	ADP	_	AdpType=Prep	21	case	_	_
+20	Brøndbys	Brøndby	PROPN	_	Case=Gen	21	nmod:poss	_	_
+21	tilskuer-kunder	tilskuer-kunde	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	16	nmod	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

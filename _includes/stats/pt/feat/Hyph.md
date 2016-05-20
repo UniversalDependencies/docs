@@ -68,7 +68,7 @@ The most frequent other feature values with which `NOUN` and `Hyph` co-occurred:
 
 2 [pt-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `AUX` and `Hyph` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Hyph` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Hyph`:
 

@@ -76,42 +76,46 @@ The following 14 pairs of parts of speech are connected with `det`: [fi-pos/NOUN
 
 This relation is universal.
 
-3882 nodes (2%) are attached to their parents as `det`.
+3868 nodes (2%) are attached to their parents as `det`.
 
-3874 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27923750643998.
+3868 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28050672182006.
 
-The following 10 pairs of parts of speech are connected with `det`: [fi-pos/NOUN]()-[fi-pos/DET]() (3274; 84% instances), [fi-pos/ADJ]()-[fi-pos/DET]() (228; 6% instances), [fi-pos/PRON]()-[fi-pos/DET]() (90; 2% instances), [fi-pos/PROPN]()-[fi-pos/DET]() (89; 2% instances), [fi-pos/NUM]()-[fi-pos/DET]() (78; 2% instances), [fi-pos/ADV]()-[fi-pos/DET]() (47; 1% instances), [fi-pos/VERB]()-[fi-pos/DET]() (39; 1% instances), [fi-pos/DET]()-[fi-pos/DET]() (35; 1% instances), [fi-pos/ADP]()-[fi-pos/DET]() (1; 0% instances), [fi-pos/X]()-[fi-pos/DET]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: [fi-pos/NOUN]()-[fi-pos/DET]() (3271; 85% instances), [fi-pos/ADJ]()-[fi-pos/DET]() (228; 6% instances), [fi-pos/PRON]()-[fi-pos/DET]() (92; 2% instances), [fi-pos/PROPN]()-[fi-pos/DET]() (88; 2% instances), [fi-pos/NUM]()-[fi-pos/DET]() (67; 2% instances), [fi-pos/ADV]()-[fi-pos/DET]() (42; 1% instances), [fi-pos/DET]()-[fi-pos/DET]() (36; 1% instances), [fi-pos/VERB]()-[fi-pos/DET]() (34; 1% instances), [fi-pos/NOUN]()-[fi-pos/ADP]() (4; 0% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (4; 0% instances), [fi-pos/ADJ]()-[fi-pos/ADP]() (1; 0% instances), [fi-pos/X]()-[fi-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 det	color:blue
-1	Mieleeni	mieli	NOUN	N,Sg,Ill,PxSg1	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nmod	_	_
-2	juolahti	juolahtaa	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-3	eräs	eräs	DET	Pron,Qnt,Sg,Nom	Case=Nom|Number=Sing	4	det	_	_
-4	koe	koe	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	2	nsubj	_	_
-5	.	.	PUNCT	Pun	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 det	color:blue
+1	noo	noo	INTJ	Pcle,Interj	_	6	discourse	_	Alt=6_discourse
+2	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	6	nsubj:cop	_	_
+3	o	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+4	jottais	jokin	DET	Pron,Qnt,Sg,Par	Case=Par|Number=Sing|PronType=Ind|Style=Coll	6	det	_	_
+5	semssi	semmoinen	DET	A,Dem,Pl,Par	Case=Par|Number=Plur|PronType=Dem|Style=Coll	6	amod	_	Alt=DET
+6	sukulaissi	sukulainen	NOUN	N,Pl,Par	Case=Par|Number=Plur|Style=Coll	0	root	_	_
+7	.	.	PUNCT	Pun	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	Sinä	sinä	PRON	Pron,Pers,Sg2,Nom	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-2	et	ei	VERB	V,Neg,Act,Sg2	Negative=Neg|Number=Sing|Person=2|Voice=Act	6	neg	_	_
-3	ole	olla	VERB	V,Act,Ind,Pres,ConNeg	Conneg=Yes|Mood=Ind|Tense=Pres|Voice=Act	6	cop	_	_
-4	yhtään	yhtään	ADV	Adv	_	6	advmod	_	_
-5	hänen	hän	DET	Pron,Pers,Sg3,Gen	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	det	_	_
-6	näköisensä	näköinen	ADJ	A,Sg,Nom,Px3	Case=Nom|Number=Sing|Person[psor]=3	0	root	_	_
-7	!	!	PUNCT	Pun	_	6	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	Kaikki	kaikki	DET	Pron,Qnt,Nom	Case=Nom|PronType=Ind	2	det	_	_
+2	suomalaiset	suomalainen	ADJ	A,Pl,Nom	Case=Nom|Number=Plur	5	nsubj	_	_
+3	eivät	ei	VERB	V,Neg,Act,Pl3	Negative=Neg|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	5	neg	_	_
+4	edes	edes	PART	Pcle	_	5	advmod	_	_
+5	halua	haluta	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	maalle	maa	NOUN	N,Sg,All	Case=All|Number=Sing	5	nmod	_	_
+7	hyttysten	hyttynen	NOUN	N,Pl,Gen	Case=Gen|Number=Plur	8	nsubj	_	_
+8	syötäviksi	syödä	VERB	V,Pass,PcpVa,Pl,Tra	Case=Tra|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Pass	5	advcl	_	_
+9	.	.	PUNCT	Pun	_	8	punct	_	_
 
 ~~~
 
@@ -125,7 +129,7 @@ The following 10 pairs of parts of speech are connected with `det`: [fi-pos/NOUN
 1	iso	iso	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	2	amod	_	_
 2	lasi	lasi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nmod	_	_
 3	sitä	se	DET	Pron,Dem,Sg,Par	Case=Par|Number=Sing|PronType=Dem	4	det	_	_
-4	samaa	sama	PRON	Pron,Qnt,Sg,Par	Case=Par|Number=Sing	0	root	_	Finnish-PronType=Qnt
+4	samaa	sama	PRON	Pron,Qnt,Sg,Par	Case=Par|Number=Sing|PronType=Ind	0	root	_	FTB-PronType=Qnt
 
 ~~~
 

@@ -41,7 +41,7 @@ The following 4 pairs of parts of speech are connected with `neg`: [sl-pos/VERB]
 # visual-style 9 6 neg	color:blue
 1	Bojim	bati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Dep=0|Rel=Root
 2	pa	pa	CONJ	Cc	_	1	advmod	_	Dep=0|Rel=Root
-3	se	se	PRON	Px------y	PronType=Prs|Variant=Short	1	expl	_	SpaceAfter=No|Dep=1|Rel=PPart
+3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	1	expl	_	SpaceAfter=No|Dep=1|Rel=PPart
 4	,	,	PUNCT	Z	_	9	punct	_	Dep=0|Rel=Root
 5	da	da	SCONJ	Cs	_	9	mark	_	Dep=7|Rel=Conj
 6	ne	ne	PART	Q	_	9	neg	_	Dep=7|Rel=PPart
@@ -70,6 +70,64 @@ The following 4 pairs of parts of speech are connected with `neg`: [sl-pos/VERB]
 9	ne	ne	PART	Q	_	10	neg	_	Dep=10|Rel=PPart
 10	policisti	policist	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No|Dep=5|Rel=Coord
 11	.	.	PUNCT	Z	_	4	punct	_	Dep=0|Rel=Root
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Slovenian-SST)
+
+This relation is universal.
+
+283 nodes (1%) are attached to their parents as `neg`.
+
+282 instances of `neg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25795053003534.
+
+The following 8 pairs of parts of speech are connected with `neg`: [sl-pos/VERB]()-[sl-pos/PART]() (253; 89% instances), [sl-pos/NOUN]()-[sl-pos/PART]() (9; 3% instances), [sl-pos/ADV]()-[sl-pos/PART]() (7; 2% instances), [sl-pos/ADJ]()-[sl-pos/PART]() (6; 2% instances), [sl-pos/X]()-[sl-pos/PART]() (3; 1% instances), [sl-pos/PART]()-[sl-pos/PART]() (2; 1% instances), [sl-pos/PROPN]()-[sl-pos/PART]() (2; 1% instances), [sl-pos/AUX]()-[sl-pos/PART]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 neg	color:blue
+1	ja	ja	PART	Q	_	3	discourse	_	word=ja|msd=L
+2	ne	ne	PART	Q	_	3	neg	_	word=ne|msd=L
+3	moreš	moči	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	word=moreš|msd=Ggnsde
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 neg	color:blue
+1	eem	eem	INTJ	I	_	2	discourse:filler	_	word=eem|msd=M
+2	proseminar	proseminar	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	word=proseminar|msd=Sometn
+3	ne	ne	PART	Q	_	4	neg	_	word=ne|msd=L
+4	proseminar	proseminar	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	parataxis	_	word=proseminar|msd=Sometn
+5	seminar	seminar	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	parataxis	_	word=seminar|msd=Sometn
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 neg	color:blue
+1	eee	eee	INTJ	I	_	4	discourse:filler	_	word=eee|msd=M
+2	pozimi	pozimi	ADV	Rgp	Degree=Pos	4	advmod	_	word=pazim|msd=Rsn
+3	ne	ne	PART	Q	_	4	neg	_	word=ne|msd=L
+4	tako	tako	ADV	Rgp	Degree=Pos	0	root	_	word=taku|msd=Rsn
 
 ~~~
 

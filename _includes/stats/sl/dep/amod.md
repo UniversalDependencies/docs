@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-11764 nodes (8%) are attached to their parents as `amod`.
+11766 nodes (8%) are attached to their parents as `amod`.
 
-11485 instances of `amod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25918055083305.
+11486 instances of `amod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25930647628761.
 
-The following 9 pairs of parts of speech are connected with `amod`: [sl-pos/NOUN]()-[sl-pos/ADJ]() (11415; 97% instances), [sl-pos/PROPN]()-[sl-pos/ADJ]() (247; 2% instances), [sl-pos/PRON]()-[sl-pos/ADJ]() (55; 0% instances), [sl-pos/ADJ]()-[sl-pos/ADJ]() (25; 0% instances), [sl-pos/X]()-[sl-pos/ADJ]() (9; 0% instances), [sl-pos/NUM]()-[sl-pos/ADJ]() (6; 0% instances), [sl-pos/NOUN]()-[sl-pos/X]() (5; 0% instances), [sl-pos/INTJ]()-[sl-pos/ADJ]() (1; 0% instances), [sl-pos/PROPN]()-[sl-pos/X]() (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `amod`: [sl-pos/NOUN]()-[sl-pos/ADJ]() (11417; 97% instances), [sl-pos/PROPN]()-[sl-pos/ADJ]() (247; 2% instances), [sl-pos/PRON]()-[sl-pos/ADJ]() (55; 0% instances), [sl-pos/ADJ]()-[sl-pos/ADJ]() (25; 0% instances), [sl-pos/X]()-[sl-pos/ADJ]() (9; 0% instances), [sl-pos/NUM]()-[sl-pos/ADJ]() (6; 0% instances), [sl-pos/NOUN]()-[sl-pos/X]() (5; 0% instances), [sl-pos/INTJ]()-[sl-pos/ADJ]() (1; 0% instances), [sl-pos/PROPN]()-[sl-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -66,6 +66,67 @@ The following 9 pairs of parts of speech are connected with `amod`: [sl-pos/NOUN
 5	ne	ne	PART	Q	_	6	neg	_	Dep=6|Rel=PPart
 6	zmoremo	zmoči	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
 7	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Slovenian-SST)
+
+This relation is universal.
+
+1000 nodes (3%) are attached to their parents as `amod`.
+
+950 instances of `amod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.199.
+
+The following 12 pairs of parts of speech are connected with `amod`: [sl-pos/NOUN]()-[sl-pos/ADJ]() (948; 95% instances), [sl-pos/PROPN]()-[sl-pos/ADJ]() (22; 2% instances), [sl-pos/PRON]()-[sl-pos/ADJ]() (13; 1% instances), [sl-pos/NOUN]()-[sl-pos/ADV]() (4; 0% instances), [sl-pos/NUM]()-[sl-pos/ADJ]() (4; 0% instances), [sl-pos/NOUN]()-[sl-pos/PROPN]() (2; 0% instances), [sl-pos/X]()-[sl-pos/ADJ]() (2; 0% instances), [sl-pos/ADJ]()-[sl-pos/ADJ]() (1; 0% instances), [sl-pos/DET]()-[sl-pos/ADJ]() (1; 0% instances), [sl-pos/INTJ]()-[sl-pos/ADJ]() (1; 0% instances), [sl-pos/NOUN]()-[sl-pos/X]() (1; 0% instances), [sl-pos/PRON]()-[sl-pos/PRON]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 amod	color:blue
+1	ker	ker	SCONJ	Cs	_	2	mark	_	word=k|msd=Vd
+2	imaš	imeti	VERB	Vmpr2s-n	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	word=maš|msd=Ggnsde-n
+3	študentsko	študentski	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	word=študentsko|msd=Ppnzet
+4	vizo	viza	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	2	dobj	_	word=vizo|msd=Sozet
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 amod	color:blue
+1	mini	mini	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	word=mini|msd=Ppnmeid
+2	lesi	Lassie	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	word=lesi|msd=Slmei
+3	se	se	PRON	Px------y	PronType=Prs|Variant=Short	5	expl	_	word=se|msd=Zp------k
+4	mu	on	PRON	Pp3msd--y	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	5	dobj	_	word=mu|msd=Zotmed--k
+5	reče	reči	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=reče|msd=Ggdste
+6	tudi	tudi	PART	Q	_	5	advmod	_	word=tudi|msd=L
+7	…	…	PUNCT	Z	_	5	punct	_	word=…|msd=U
+8	ja	ja	PART	Q	_	5	discourse	_	word=ja|msd=L
+9	ja	ja	PART	Q	_	5	discourse	_	word=ja|msd=L
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 amod	color:blue
+1	nič	nič	PRON	Pz-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	word=nč|msd=Zl-sei
+2	posebnega	poseben	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1	amod	_	word=posebenga|msd=Ppnser
 
 ~~~
 

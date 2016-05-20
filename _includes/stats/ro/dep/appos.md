@@ -6,36 +6,30 @@
 
 This relation is universal.
 
-81 nodes (1%) are attached to their parents as `appos`.
+737 nodes (1%) are attached to their parents as `appos`.
 
-81 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.53086419753086.
+709 instances of `appos` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.23473541383989.
 
-The following 12 pairs of parts of speech are connected with `appos`: [ro-pos/NOUN]()-[ro-pos/NOUN]() (41; 51% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (15; 19% instances), [ro-pos/PROPN]()-[ro-pos/NOUN]() (9; 11% instances), [ro-pos/NOUN]()-[ro-pos/NUM]() (5; 6% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (2; 2% instances), [ro-pos/PRON]()-[ro-pos/NOUN]() (2; 2% instances), [ro-pos/PRON]()-[ro-pos/PRON]() (2; 2% instances), [ro-pos/NOUN]()-[ro-pos/ADJ]() (1; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (1; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADV]() (1; 1% instances), [ro-pos/PRON]()-[ro-pos/NUM]() (1; 1% instances), [ro-pos/PROPN]()-[ro-pos/ADJ]() (1; 1% instances).
+The following 38 pairs of parts of speech are connected with `appos`: [ro-pos/NOUN]()-[ro-pos/NOUN]() (343; 47% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (150; 20% instances), [ro-pos/PROPN]()-[ro-pos/NOUN]() (62; 8% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (28; 4% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (25; 3% instances), [ro-pos/NOUN]()-[ro-pos/NUM]() (15; 2% instances), [ro-pos/PRON]()-[ro-pos/NOUN]() (14; 2% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (9; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADJ]() (8; 1% instances), [ro-pos/PRON]()-[ro-pos/PRON]() (8; 1% instances), [ro-pos/PROPN]()-[ro-pos/PROPN]() (8; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADV]() (7; 1% instances), [ro-pos/ADV]()-[ro-pos/NOUN]() (6; 1% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (6; 1% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (5; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (5; 1% instances), [ro-pos/PRON]()-[ro-pos/VERB]() (4; 1% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (4; 1% instances), [ro-pos/NUM]()-[ro-pos/NOUN]() (3; 0% instances), [ro-pos/PROPN]()-[ro-pos/ADJ]() (3; 0% instances), [ro-pos/PROPN]()-[ro-pos/VERB]() (3; 0% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (2; 0% instances), [ro-pos/ADV]()-[ro-pos/PROPN]() (2; 0% instances), [ro-pos/NOUN]()-[ro-pos/DET]() (2; 0% instances), [ro-pos/PRON]()-[ro-pos/PROPN]() (2; 0% instances), [ro-pos/ADJ]()-[ro-pos/PROPN]() (1; 0% instances), [ro-pos/ADJ]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/ADP]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/AUX]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/SYM]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/NUM]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/ADP]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/PRON]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 appos	color:blue
-1	Are	avea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
-3	soră	soră	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	dobj	_	_
-4	,	,	PUNCT	COMMA	_	6	punct	_	_
-5	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
-6	soră	soră	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	appos	_	_
-7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
-8	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	12	iobj	_	_
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
-10	mică	mic	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	advcl	_	_
-11	a	avea	AUX	Va--3s	Number=Sing|Person=3	12	aux	_	_
-12	învățat	învăța	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	_
-13	-o	el	PRON	Pp3fsa--y-----w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	12	expl	_	_
-14	să	să	PART	Qs	Mood=Sub	15	mark	_	_
-15	fure	fura	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
-16	.	.	PUNCT	PERIOD	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 appos	color:blue
+1	Era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	doamna	doamnă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+3	Parsons	Parsons	PROPN	Np	_	2	nmod	_	_
+4	,	,	PUNCT	COMMA	_	5	punct	_	_
+5	soția	soție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	appos	_	_
+6	unui	un	DET	Timso	Case=Dat,Gen|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	vecin	vecin	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
+8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+9	palier	palier	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 ~~~
 
@@ -52,7 +46,7 @@ The following 12 pairs of parts of speech are connected with `appos`: [ro-pos/NO
 4	rog	ruga	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
 5	,	,	PUNCT	COMMA	_	4	punct	_	_
 6	pe	pe	ADP	Sp	AdpType=Prep	7	case	_	_
-7	duduca	duducă	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	15	dobj	_	_
+7	duduca	duducă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	dobj	_	_
 8	Luluța	Luluța	PROPN	Np	_	7	appos	_	_
 9	nu	nu	PART	Qz	Negative=Neg	10	neg	_	_
 10	știți	ști	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -67,30 +61,26 @@ The following 12 pairs of parts of speech are connected with `appos`: [ro-pos/NO
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 9 appos	color:blue
-1	Orașul	Orașul	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	se	se	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	3	expl:pv	_	_
-3	află	află	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
-5	râul	râul	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
-6	Bahlui	Bahlui	PROPN	Np	_	5	nmod	_	_
-7	,	,	PUNCT	COMMA	_	9	punct	_	_
-8	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
-9	afluent	afluent	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	appos	_	_
-10	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	_
-11	Jijiei	Jijiei	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
-12	,	,	PUNCT	COMMA	_	15	punct	_	_
-13	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	15	nsubj	_	_
-14	se	se	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	15	expl:pv	_	_
-15	varsă	varsă	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
-16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
-17	râul	râul	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	_
-18	Prut	Prut	PROPN	Np	_	17	nmod	_	_
-19	.	.	PUNCT	PERIOD	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 appos	color:blue
+1	4	4	NUM	Mc	NumType=Card	3	parataxis	_	_
+2	.	.	PUNCT	PERIOD	_	1	punct	_	_
+3	NAUMOV	NAUMOV	PROPN	Np	_	0	root	_	_
+4	,	,	PUNCT	COMMA	_	5	punct	_	_
+5	VLADIMIR	VLADIMIR	PROPN	Np	_	3	name	_	_
+6	Vladimïrovici	Vladimïrovici	PROPN	Np	_	3	name	_	_
+7	,	,	PUNCT	COMMA	_	5	punct	_	_
+8	Ministru	ministru	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	appos	_	_
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
+10	Interne	internă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	8	nmod	_	_
+11	,	,	PUNCT	COMMA	_	12	punct	_	_
+12	născut	naște	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
+14	1956	1956	NUM	Mc	NumType=Card	12	nmod:tmod	_	_
+15	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 ~~~
 

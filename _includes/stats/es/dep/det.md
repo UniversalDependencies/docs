@@ -85,3 +85,80 @@ The following 41 pairs of parts of speech are connected with `det`: [es-pos/NOUN
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+84266 nodes (15%) are attached to their parents as `det`.
+
+83127 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16980751429995.
+
+The following 34 pairs of parts of speech are connected with `det`: [es-pos/NOUN]()-[es-pos/DET]() (66662; 79% instances), [es-pos/PROPN]()-[es-pos/DET]() (9771; 12% instances), [es-pos/VERB]()-[es-pos/DET]() (1597; 2% instances), [es-pos/NUM]()-[es-pos/DET]() (1593; 2% instances), [es-pos/PRON]()-[es-pos/DET]() (1469; 2% instances), [es-pos/ADJ]()-[es-pos/DET]() (1354; 2% instances), [es-pos/DET]()-[es-pos/DET]() (1311; 2% instances), [es-pos/SYM]()-[es-pos/DET]() (317; 0% instances), [es-pos/ADV]()-[es-pos/DET]() (74; 0% instances), [es-pos/AUX]()-[es-pos/DET]() (23; 0% instances), [es-pos/AUX]()-[es-pos/NOUN]() (18; 0% instances), [es-pos/ADP]()-[es-pos/DET]() (15; 0% instances), [es-pos/AUX]()-[es-pos/PROPN]() (11; 0% instances), [es-pos/AUX]()-[es-pos/VERB]() (8; 0% instances), [es-pos/PRON]()-[es-pos/ADV]() (6; 0% instances), [es-pos/CONJ]()-[es-pos/DET]() (5; 0% instances), [es-pos/NOUN]()-[es-pos/NUM]() (5; 0% instances), [es-pos/PRON]()-[es-pos/NUM]() (5; 0% instances), [es-pos/VERB]()-[es-pos/NOUN]() (3; 0% instances), [es-pos/NOUN]()-[es-pos/NOUN]() (2; 0% instances), [es-pos/NOUN]()-[es-pos/PRON]() (2; 0% instances), [es-pos/PRON]()-[es-pos/PRON]() (2; 0% instances), [es-pos/X]()-[es-pos/DET]() (2; 0% instances), [es-pos/ADJ]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/ADJ]()-[es-pos/PRON]() (1; 0% instances), [es-pos/AUX]()-[es-pos/PRON]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/VERB]() (1; 0% instances), [es-pos/NUM]()-[es-pos/PRON]() (1; 0% instances), [es-pos/PART]()-[es-pos/DET]() (1; 0% instances), [es-pos/PRON]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/PRON]()-[es-pos/PROPN]() (1; 0% instances), [es-pos/PRON]()-[es-pos/VERB]() (1; 0% instances), [es-pos/PUNCT]()-[es-pos/DET]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	error	error	NOUN	NOUN	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	fue	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+4	haber	haber	AUX	AUX	VerbForm=Inf	6	aux	_	_
+5	lo	él	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	dobj	_	_
+6	comprado	comprar	VERB	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	en	en	ADP	ADP	AdpType=Prep	8	case	_	_
+8	rebajas	rebaja	NOUN	NOUN	Gender=Fem|Number=Plur	6	nmod	_	_
+9	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 det	color:blue
+1	Para	para	ADP	ADP	AdpType=Prep	2	mark	_	_
+2	abreviar	abreviar	VERB	VERB	VerbForm=Inf	6	advcl	_	_
+3	,	,	PUNCT	PUNCT	PunctType=Comm	2	punct	_	_
+4	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Real	Real	PROPN	PROPN	_	6	nsubj	_	_
+6	marcó	marcar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	-	-	PUNCT	PUNCT	PunctType=Dash	8	punct	_	_
+8	de	de	ADP	ADP	AdpType=Prep	6	advmod	_	MWE=de_churro|MWEPOS=ADV
+9	churro	churro	NOUN	NOUN	_	8	mwe	_	_
+10	-	-	PUNCT	PUNCT	PunctType=Dash	8	punct	_	_
+11	y	y	CONJ	CONJ	_	8	cc	_	_
+12	de	de	ADP	ADP	AdpType=Prep	13	case	_	_
+13	penalti	penalti	NOUN	NOUN	Gender=Masc|Number=Sing	8	conj	_	_
+14	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 det	color:blue
+1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+2	que	que	PRON	PRON	PronType=Rel	4	nsubj	_	_
+3	nos	yo	PRON	PRON	Number=Plur|Person=1|PronType=Prs	4	dobj	_	_
+4	niega	negar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	csubj	_	_
+5	nos	yo	PRON	PRON	Number=Plur|Person=1|PronType=Prs	6	dobj	_	_
+6	afirma	afirmar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	condicionalmente	condicionalmente	ADV	ADV	_	6	advmod	_	_
+8	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
+
+~~~
+
+

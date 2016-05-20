@@ -8,78 +8,89 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-1365 tokens (11%) have a non-empty value of `PronType`.
-229 types (5%) occur at least once with a non-empty value of `PronType`.
-129 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: [ro-pos/PRON]() (682; 6% instances), [ro-pos/DET]() (608; 5% instances), [ro-pos/ADV]() (75; 1% instances).
+16690 tokens (11%) have a non-empty value of `PronType`.
+429 types (2%) occur at least once with a non-empty value of `PronType`.
+108 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: [ro-pos/PRON]() (8202; 6% instances), [ro-pos/DET]() (7534; 5% instances), [ro-pos/ADV]() (929; 1% instances), [ro-pos/NUM]() (25; 0% instances).
 
 ### `PRON`
 
-682 [ro-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+8202 [ro-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (593; 87%), <tt><a href="Person.html">Person</a>=3</tt> (574; 84%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (496; 73%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (481; 71%), <tt><a href="Strength.html">Strength</a>=Weak</tt> (379; 56%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (342; 50%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (7333; 89%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (6957; 85%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5909; 72%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (5640; 69%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4478; 55%), <tt><a href="Strength.html">Strength</a>=Weak</tt> (4302; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (40; 6% of non-empty `PronType`): <em>aceasta, cea, cei, acesta, acesteia, cele, ăsta, acestora, cel, celor</em>
-* `Ind` (54; 8% of non-empty `PronType`): <em>fiecare, multe, una, unii, altul, ceva, mulți, tot, unul, alții</em>
-* `Int,Rel` (140; 21% of non-empty `PronType`): <em>care, ce, cine, cui, căreia, cărora, căruia, ce-, ceea_ce, celor_ce</em>
-* `Neg` (6; 1% of non-empty `PronType`): <em>nimeni, nimic</em>
-* `Prs` (442; 65% of non-empty `PronType`): <em>se, s-, își, îl, -l, el, mă, -i, -și, îi</em>
+* `Dem` (600; 7% of non-empty `PronType`): <em>ceea, aceasta, acestea, acesta, acestuia, cei, cel, aceea, acestora, cele</em>
+* `Ind` (537; 7% of non-empty `PronType`): <em>unul, toate, una, ceva, totul, tot, fiecare, altul, toți, cineva</em>
+* `Int,Rel` (1857; 23% of non-empty `PronType`): <em>care, ce, cine, cărora, ce-, căruia, căreia, cât, câte, cari</em>
+* `Neg` (51; 1% of non-empty `PronType`): <em>nimic, nimeni, nimica, Niciunul, niciuna, nime</em>
+* `Prs` (5157; 63% of non-empty `PronType`): <em>se, s-, el, își, le, o, îi, îl, -l, -i</em>
+* `EMPTY` (2): <em>cari</em>
 
-<table>
-  <tr><th>Paradigm <i>cele</i></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>cele</em></td><td><em>cele</em></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>cele</em></td></tr>
-</table>
-
-`PronType` seems to be **lexical feature** of `PRON`. 98% lemmas (64) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (65) occur only with one value of `PronType`.
 
 ### `DET`
 
-608 [ro-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+7534 [ro-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Position.html">Position</a>=EMPTY</tt> (532; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (457; 75%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (437; 72%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (415; 68%), <tt><a href="Case.html">Case</a>=Nom</tt> (339; 56%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (319; 52%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Position.html">Position</a>=EMPTY</tt> (6382; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (5679; 75%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (5204; 69%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5179; 69%), <tt><a href="Case.html">Case</a>=Acc,Nom</tt> (4135; 55%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (3888; 52%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (33; 5% of non-empty `PronType`): <em>lui, -lea, -ul, -a, -ului</em>
-* `Dem` (80; 13% of non-empty `PronType`): <em>cele, acest, cel, această, aceste, cea, aceea, cei, acel, acele</em>
-* `Emp` (3; 0% of non-empty `PronType`): <em>însuși, însăși</em>
-* `Ind` (291; 48% of non-empty `PronType`): <em>o, un, unui, toate, alte, unei, multe, toată, unele, orice</em>
-* `Int,Rel` (3; 0% of non-empty `PronType`): <em>care, ce, ce_fel_de</em>
-* `Neg` (2; 0% of non-empty `PronType`): <em>nici_un, nicio</em>
-* `Prs` (193; 32% of non-empty `PronType`): <em>a, al, ale, sale, său, ei, ai, lor, mele, lui</em>
-* `Tot` (3; 0% of non-empty `PronType`): <em>ambele, Amândoi</em>
+* `Art` (240; 3% of non-empty `PronType`): <em>lui, -ul, -lea, -a, -ului, -urilor, -ilor</em>
+* `Dem` (1083; 14% of non-empty `PronType`): <em>acest, cel, această, aceste, cele, cea, același, cei, acestor, acestei</em>
+* `Emp` (37; 0% of non-empty `PronType`): <em>însuși, însăși, însumi, înșiși, însele, înseși</em>
+* `Ind` (3738; 50% of non-empty `PronType`): <em>o, un, unui, unei, unor, orice, toate, fiecare, alte, multe</em>
+* `Int,Rel` (83; 1% of non-empty `PronType`): <em>ce, căror, care, cărui, cărei, cât, câte, ce_fel_de, câtă, câți</em>
+* `Neg` (23; 0% of non-empty `PronType`): <em>niciun, nicio, nici_un, niciunui</em>
+* `Prs` (2330; 31% of non-empty `PronType`): <em>a, al, ale, lui, lor, ai, său, sale, ei, sa</em>
 
 <table>
   <tr><th>Paradigm <i>lui</i></th><th><tt>Prs</tt></th><th><tt>Art</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>lui</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat,Gen|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>lui</em></td></tr>
   <tr><td><tt><a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Poss.html">Poss</a>=Yes</tt></td><td><em>lor</em></td><td></td></tr>
-  <tr><td><tt><a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Poss.html">Poss</a>=Yes</tt></td><td><em>ei, lui</em></td><td></td></tr>
+  <tr><td><tt><a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Poss.html">Poss</a>=Yes</tt></td><td><em>lui, ei</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 97% lemmas (77) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 96% lemmas (52) occur only with one value of `PronType`.
 
 ### `ADV`
 
-75 [ro-pos/ADV]() tokens (15% of all `ADV` tokens) have a non-empty value of `PronType`.
+929 [ro-pos/ADV]() tokens (15% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (75; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (929; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Int,Rel` (64; 85% of non-empty `PronType`): <em>când, cum, cât, unde, oare, După_ce, Pe_cât, câte</em>
-* `Neg` (11; 15% of non-empty `PronType`): <em>nici, parcă, rău</em>
-* `EMPTY` (414): <em>mai, ca, astfel, iar, și, atât, doar, încă, acum, aici</em>
+* `Int,Rel` (734; 79% of non-empty `PronType`): <em>când, cum, unde, cât, precum, câte, oare, După_ce, Pe_cât, ce</em>
+* `Neg` (195; 21% of non-empty `PronType`): <em>nici, niciodată, nicăieri, nicicând, parcă, rău</em>
+* `EMPTY` (5475): <em>mai, ca, iar, numai, astfel, decât, chiar, mult, înainte, puțin</em>
 
-`PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `PronType`.
+
+### `NUM`
+
+25 [ro-pos/NUM]() tokens (1% of all `NUM` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `NUM` and `PronType` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (25; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (25; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (25; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (15; 60%).
+
+`NUM` tokens may have the following values of `PronType`:
+
+* `Tot` (25; 100% of non-empty `PronType`): <em>ambele, amândoi, ambelor, ambii, amândouă, tustrei</em>
+* `EMPTY` (3345): <em>1, 2, 3, 4, două, trei, 5, 6, doi, primul</em>
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<a href="../dep/remnant.html">remnant</a>]--> PRON</tt> (3; 100%),
-<tt>DET --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%),
-<tt>DET --[<a href="../dep/det.html">det</a>]--> DET</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (12; 67%),
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (9; 100%),
+<tt>PRON --[<a href="../dep/mwe.html">mwe</a>]--> DET</tt> (5; 100%),
+<tt>PRON --[<a href="../dep/remnant.html">remnant</a>]--> PRON</tt> (5; 100%),
+<tt>DET --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 75%),
+<tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (3; 100%),
+<tt>PRON --[<a href="../dep/dobj.html">dobj</a>]--> PRON</tt> (1; 100%),
+<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (1; 100%),
+<tt>DET --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (1; 100%).
 

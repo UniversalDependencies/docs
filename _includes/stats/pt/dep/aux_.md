@@ -6,32 +6,52 @@
 
 This relation is universal.
 
-401 nodes (0%) are attached to their parents as `aux`.
+848 nodes (0%) are attached to their parents as `aux`.
 
-398 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32668329177057.
+815 instances of `aux` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.69811320754717.
 
-The following 6 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]()-[pt-pos/AUX]() (394; 98% instances), [pt-pos/AUX]()-[pt-pos/AUX]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/AUX]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]()-[pt-pos/AUX]() (426; 50% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (416; 49% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/AUX]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 aux	color:blue
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 aux	color:blue
 1	Em	em	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
 2	o	o	DET	art|<-sam>|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	projeto	projeto	NOUN	n|M|S	Gender=Masc|Number=Sing	5	nmod	_	_
 4	não	não	ADV	adv	_	5	neg	_	_
 5	há	haver	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	definição	definição	NOUN	n|F|S	Gender=Fem|Number=Sing	5	dobj	_	_
-7	de	de	ADP	prp	AdpType=Prep	10	mark	_	_
-8	quantos	quanto	PRON	pron-det|<interr>|M|S	Gender=Masc|Number=Sing|PronType=Int	10	nsubj	_	_
-9	podem	poder	AUX	v-fin|PR|3P|IND	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
-10	ser	ser	VERB	v-inf	VerbForm=Inf	6	acl	_	_
-11	construídos	construir	VERB	v-pcp|M|P	Gender=Masc|Number=Plur|VerbForm=Part	10	ccomp	_	_
+7	de	de	ADP	prp	AdpType=Prep	11	mark	_	_
+8	quantos	quanto	PRON	pron-det|<interr>|M|S	Gender=Masc|Number=Sing|PronType=Int	11	nsubjpass	_	_
+9	podem	poder	AUX	v-fin|PR|3P|IND	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	ser	ser	VERB	v-inf	VerbForm=Inf	11	auxpass	_	_
+11	construídos	construir	VERB	v-pcp|M|P	Gender=Masc|Number=Plur|VerbForm=Part	6	acl	_	_
 12	.	.	PUNCT	punc	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 aux	color:blue
+1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	bombeiro	bombeiro	NOUN	n|M|S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	suspeita	suspeitar	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	conj-s	_	8	mark	_	_
+5	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	golfinho	golfinho	NOUN	n|M|S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	tenha	ter	VERB	v-fin|PR|3S|SUBJ	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	morrido	morrer	VERB	v-pcp	VerbForm=Part	3	ccomp	_	_
+9	afogado	afogar	VERB	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	_
+10	.	.	PUNCT	punc	_	3	punct	_	_
 
 ~~~
 
@@ -59,7 +79,7 @@ The following 6 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 15	,	,	PUNCT	punc	_	14	punct	_	_
 16	que	que	PRON	pron-indp|<rel>|M|S	Gender=Masc|Number=Sing|PronType=Rel	17	aux	_	_
 17	está	estar	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	_
-18	perto	perto	NOUN	prp	_	20	mark	_	_
+18	perto	perto	NOUN	prp	_	20	mark	_	MWE=perto_de|MWEPOS=ADP
 19	de	de	ADP	ADP	AdpType=Prep	18	mwe	_	_
 20	atingir	atingir	VERB	v-inf	VerbForm=Inf	17	advcl	_	_
 21	a	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
@@ -71,64 +91,6 @@ The following 6 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 27	este	este	DET	pron-det|<dem>|M|S	Gender=Masc|Number=Sing|PronType=Dem	28	det	_	_
 28	ano	ano	NOUN	n|M|S	Gender=Masc|Number=Sing	26	nmod	_	_
 29	.	.	PUNCT	punc	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 31 32 aux	color:blue
-1	Protegido	proteger	VERB	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	10	advcl	_	_
-2	em	em	ADP	prp	AdpType=Prep	3	case	_	_
-3	Portugal	Portugal	PROPN	prop|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
-4	,	,	PUNCT	punc	_	7	punct	_	_
-5	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	lobo	lobo	NOUN	n|M|S	Gender=Masc|Number=Sing	7	nsubj	_	_
-7	é	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	considerado	considerar	VERB	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	10	cop	_	_
-9	uma	um	DET	art|<arti>|F|S	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	espécie	espécie	NOUN	n|F|S	Gender=Fem|Number=Sing	7	ccomp	_	_
-11	cinegética	cinegético	ADJ	adj|F|S	Gender=Fem|Number=Sing	10	amod	_	_
-12	em	em	ADP	prp|<sam->	AdpType=Prep	14	case	_	_
-13	o	o	DET	art|<-sam>|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	lado	lado	NOUN	n|M|S	Gender=Masc|Number=Sing	10	nmod	_	_
-15	de	de	ADP	prp	AdpType=Prep	16	case	_	_
-16	lá	lá	ADV	adv	_	14	nmod	_	_
-17	de	de	ADP	prp|<sam->	AdpType=Prep	19	case	_	_
-18	a	o	DET	art|<-sam>|<artd>|S	Definite=Def|Number=Sing|PronType=Art	19	det	_	_
-19	fronteira	fronteira	NOUN	n|F|S	Gender=Fem|Number=Sing	14	nmod	_	_
-20	,	,	PUNCT	punc	_	19	punct	_	_
-21	onde	onde	ADV	adv|<rel>|<ks>	PronType=Rel	31	advmod	_	_
-22	,	,	PUNCT	punc	_	29	punct	_	_
-23	desde	desde	NOUN	prp	_	26	case	_	_
-24	há	há	NOUN	NOUN	_	23	mwe	_	_
-25	dois	dois	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	26	nummod	_	_
-26	anos	ano	NOUN	n|M|P	Gender=Masc|Number=Plur	31	nmod	_	_
-27	,	,	PUNCT	punc	_	29	punct	_	_
-28	tem	ter	AUX	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
-29	vindo	vir	VERB	v-pcp	VerbForm=Part	19	acl	_	_
-30	a	a	ADP	prp	AdpType=Prep	31	mark	_	_
-31	ser	ser	AUX	v-inf	VerbForm=Inf	29	cc	_	_
-32	leiloado	leiloar	AUX	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	31	aux	_	_
-33	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
-34	seu	seu	DET	pron-det|<poss|3S>|M|S	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
-35	abate	abate	NOUN	n|M|S	Gender=Masc|Number=Sing	31	nsubj	_	_
-36	e	e	CONJ	conj-c	_	31	cc	_	_
-37	a	a	ADP	prp	AdpType=Prep	38	mark	_	_
-38	prosperar	prosperar	AUX	v-inf	VerbForm=Inf	31	conj	_	_
-39	um	um	DET	art|<arti>|M|S	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
-40	mercado	mercado	NOUN	n|M|S	_	38	nsubj	_	_
-41	negro	negro	NOUN	NOUN	_	40	compound	_	_
-42	em	em	ADP	prp|<sam->	AdpType=Prep	47	case	_	_
-43	torno	torno	NOUN	NOUN	_	42	mwe	_	_
-44	de	de	ADP	ADP	AdpType=Prep	42	mwe	_	_
-45	os	o	DET	art|<-sam>|<artd>|M|P	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	47	det	_	_
-46	seus	seu	DET	pron-det|<poss|3S>|<si>|M|P	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	47	det	_	_
-47	restos	resto	NOUN	n|M|P	Gender=Masc|Number=Plur	38	nmod	_	_
-48	.	.	PUNCT	punc	_	7	punct	_	_
 
 ~~~
 

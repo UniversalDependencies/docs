@@ -67,3 +67,46 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (9; 64%),
 <tt>PRON --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (1; 100%).
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This feature is universal.
+It occurs with 3 different values: `Acc`, `Dat`, `Nom`.
+
+2744 tokens (0%) have a non-empty value of `Case`.
+18 types (0%) occur at least once with a non-empty value of `Case`.
+4 lemmas (0%) occur at least once with a non-empty value of `Case`.
+The feature is used with 1 part-of-speech tags: [es-pos/PRON]() (2744; 0% instances).
+
+### `PRON`
+
+2744 [es-pos/PRON]() tokens (11% of all `PRON` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2744; 100%), <tt><a href="Person.html">Person</a>=3</tt> (2589; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (2181; 79%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1516; 55%).
+
+`PRON` tokens may have the following values of `Case`:
+
+* `Acc` (1395; 51% of non-empty `Case`): <em>lo, la, los, le, las, les, se, Nos</em>
+* `Dat` (1194; 44% of non-empty `Case`): <em>le, les, se</em>
+* `Nom` (155; 6% of non-empty `Case`): <em>yo, tú</em>
+* `EMPTY` (21850): <em>que, se, me, donde, nos, uno, quien, todo, él, eso</em>
+
+<table>
+  <tr><th>Paradigm <i>él</i></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>lo, le, Les</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>los, les</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>la</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>las</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>le, se, les</em></td><td><em>le, se</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>les</em></td><td><em>les</em></td></tr>
+  <tr><td><tt></tt></td><td><em>lo</em></td><td></td></tr>
+</table>
+
+## Relations with Agreement in `Case`
+
+The 10 most frequent relations where parent and child node agree in `Case`:
+<tt>PRON --[<a href="../dep/det.html">det</a>]--> PRON</tt> (1; 100%).
+

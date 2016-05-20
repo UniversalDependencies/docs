@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>i, til, på, af, med, for, om, som, fra, 
 
 The 10 most frequent ambiguous lemmas: <em>i</em> ([ADP]() 2838, [ADV]() 10, [X]() 1), <em>til</em> ([ADP]() 1278, [ADV]() 32, [SCONJ]() 9), <em>på</em> ([ADP]() 1266, [ADV]() 15), <em>af</em> ([ADP]() 1265, [ADV]() 29, [X]() 2), <em>med</em> ([ADP]() 1045, [ADV]() 82, [X]() 3), <em>for</em> ([ADP]() 986, [ADV]() 66, [CONJ]() 53, [X]() 1), <em>om</em> ([ADP]() 543, [SCONJ]() 67, [ADV]() 19), <em>som</em> ([ADP]() 530, [PRON]() 262, [ADV]() 15), <em>fra</em> ([ADP]() 404, [ADV]() 9, [SCONJ]() 2), <em>ved</em> ([ADP]() 238, [ADV]() 8)
 
-The 10 most frequent ambiguous types:  <em>i</em> ([ADP]() 2622, [ADV]() 10, [X]() 1), <em>til</em> ([ADP]() 1258, [ADV]() 32, [SCONJ]() 9), <em>på</em> ([ADP]() 1207, [ADV]() 15), <em>af</em> ([ADP]() 1251, [ADV]() 29, [X]() 2), <em>med</em> ([ADP]() 1008, [ADV]() 80, [X]() 3), <em>for</em> ([ADP]() 953, [ADV]() 65, [CONJ]() 34, [VERB]() 1, [X]() 1), <em>om</em> ([ADP]() 537, [SCONJ]() 61, [ADV]() 19), <em>som</em> ([ADP]() 498, [PRON]() 262, [ADV]() 14), <em>fra</em> ([ADP]() 394, [ADV]() 9, [SCONJ]() 1), <em>ved</em> ([ADP]() 223, [VERB]() 47, [ADV]() 8)
+The 10 most frequent ambiguous types:  <em>i</em> ([ADP]() 2622, [ADV]() 10, [X]() 1), <em>til</em> ([ADP]() 1258, [ADV]() 32, [SCONJ]() 9), <em>på</em> ([ADP]() 1207, [ADV]() 15), <em>af</em> ([ADP]() 1251, [ADV]() 29, [X]() 2), <em>med</em> ([ADP]() 1008, [ADV]() 80, [X]() 3), <em>for</em> ([ADP]() 953, [ADV]() 65, [CONJ]() 34, [X]() 1, [VERB]() 1), <em>om</em> ([ADP]() 537, [SCONJ]() 61, [ADV]() 19), <em>som</em> ([ADP]() 498, [PRON]() 262, [ADV]() 14), <em>fra</em> ([ADP]() 394, [ADV]() 9, [SCONJ]() 1), <em>ved</em> ([ADP]() 223, [VERB]() 47, [ADV]() 8)
 
 
 * <em>i</em>
@@ -39,8 +39,8 @@ The 10 most frequent ambiguous types:  <em>i</em> ([ADP]() 2622, [ADV]() 10, [X]
   * [ADP]() 953: <em>" Vi fralægger os ethvert ansvar <b>for</b> mordene .</em>
   * [ADV]() 65: <em>" Vort samfund er <b>for</b> godt til folk som dig .</em>
   * [CONJ]() 34: <em>Og det håber vi så på , <b>for</b> vi vil jo så gerne have et , helst to børn .</em>
-  * [VERB]() 1: <em>En let rødme <b>for</b> op i den unge kvindes kinder .</em>
   * [X]() 1: <em>Samtidig foreslår man at skære værnepligt-tiden ned med ca. én måned , samtidig med , at der på kort sigt ( frem til 1996 ) nyinvesteres i materiel for <b>for</b> ca. 5 mia. kr. .</em>
+  * [VERB]() 1: <em>En let rødme <b>for</b> op i den unge kvindes kinder .</em>
 * <em>om</em>
   * [ADP]() 537: <em>Så kan vi tale <b>om</b> en konference bagefter . "</em>
   * [SCONJ]() 61: <em>Ved ikke <b>om</b> jeg sover , tænker eller blot sidder .</em>

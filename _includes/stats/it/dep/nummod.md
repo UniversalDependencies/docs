@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-4053 nodes (1%) are attached to their parents as `nummod`.
+3488 nodes (1%) are attached to their parents as `nummod`.
 
-2163 instances of `nummod` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.35282506785097.
+2011 instances of `nummod` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.97993119266055.
 
-The following 22 pairs of parts of speech are connected with `nummod`: [it-pos/NOUN]()-[it-pos/NUM]() (2792; 69% instances), [it-pos/VERB]()-[it-pos/NUM]() (826; 20% instances), [it-pos/PROPN]()-[it-pos/NUM]() (182; 4% instances), [it-pos/SYM]()-[it-pos/NUM]() (84; 2% instances), [it-pos/ADJ]()-[it-pos/NUM]() (57; 1% instances), [it-pos/NUM]()-[it-pos/NUM]() (33; 1% instances), [it-pos/NOUN]()-[it-pos/X]() (24; 1% instances), [it-pos/PRON]()-[it-pos/NUM]() (22; 1% instances), [it-pos/ADV]()-[it-pos/NUM]() (14; 0% instances), [it-pos/VERB]()-[it-pos/X]() (5; 0% instances), [it-pos/PUNCT]()-[it-pos/NUM]() (2; 0% instances), [it-pos/X]()-[it-pos/X]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/AUX]()-[it-pos/NUM]() (1; 0% instances), [it-pos/DET]()-[it-pos/NUM]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/SYM]() (1; 0% instances), [it-pos/NUM]()-[it-pos/X]() (1; 0% instances), [it-pos/PROPN]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/PUNCT]()-[it-pos/SYM]() (1; 0% instances), [it-pos/X]()-[it-pos/NUM]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `nummod`: [it-pos/NOUN]()-[it-pos/NUM]() (2604; 75% instances), [it-pos/VERB]()-[it-pos/NUM]() (494; 14% instances), [it-pos/PROPN]()-[it-pos/NUM]() (165; 5% instances), [it-pos/SYM]()-[it-pos/NUM]() (84; 2% instances), [it-pos/ADJ]()-[it-pos/NUM]() (41; 1% instances), [it-pos/NUM]()-[it-pos/NUM]() (33; 1% instances), [it-pos/NOUN]()-[it-pos/X]() (24; 1% instances), [it-pos/PRON]()-[it-pos/NUM]() (18; 1% instances), [it-pos/ADV]()-[it-pos/NUM]() (11; 0% instances), [it-pos/VERB]()-[it-pos/X]() (5; 0% instances), [it-pos/PUNCT]()-[it-pos/NUM]() (2; 0% instances), [it-pos/X]()-[it-pos/X]() (2; 0% instances), [it-pos/AUX]()-[it-pos/NUM]() (1; 0% instances), [it-pos/DET]()-[it-pos/NUM]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/SYM]() (1; 0% instances), [it-pos/NUM]()-[it-pos/X]() (1; 0% instances), [it-pos/X]()-[it-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,20 +33,22 @@ The following 22 pairs of parts of speech are connected with `nummod`: [it-pos/N
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nummod	color:blue
-1	Da	da	ADP	E	_	3	case	_	_
-2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	'93	'93	NUM	N	NumType=Card	4	nummod	_	_
-4	dirige	dirigere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	Festival	Festival	PROPN	SP	_	4	dobj	_	_
-7	di	di	ADP	E	_	8	case	_	_
-8	Taormina	Taormina	PROPN	SP	_	6	nmod	_	_
-9	.	.	PUNCT	FS	_	4	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 9 nummod	color:blue
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	_
+2	usufruttuario	usufruttuario	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	inoltre	inoltre	ADV	B	_	5	advmod	_	_
+5	dare	dare	VERB	V	VerbForm=Inf	0	root	_	_
+6	idonea	idoneo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	garanzia	garanzia	NOUN	S	Gender=Fem|Number=Sing	5	dobj	_	_
+8	(	(	PUNCT	FB	_	9	punct	_	_
+9	1179	1179	NUM	N	NumType=Card	5	nummod	_	_
+10	)	)	PUNCT	FB	_	9	punct	_	_
+11	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
 

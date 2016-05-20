@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3393 nodes (13%) are attached to their parents as `det`.
+5247 nodes (12%) are attached to their parents as `det`.
 
-3392 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.74182139699381.
+5245 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.80026681913474.
 
-The following 11 pairs of parts of speech are connected with `det`: [hu-pos/NOUN]()-[hu-pos/DET]() (2945; 87% instances), [hu-pos/PROPN]()-[hu-pos/DET]() (334; 10% instances), [hu-pos/ADJ]()-[hu-pos/DET]() (71; 2% instances), [hu-pos/ADV]()-[hu-pos/DET]() (13; 0% instances), [hu-pos/PRON]()-[hu-pos/DET]() (11; 0% instances), [hu-pos/NUM]()-[hu-pos/DET]() (9; 0% instances), [hu-pos/VERB]()-[hu-pos/DET]() (4; 0% instances), [hu-pos/X]()-[hu-pos/DET]() (3; 0% instances), [hu-pos/ADP]()-[hu-pos/DET]() (1; 0% instances), [hu-pos/DET]()-[hu-pos/DET]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/PRON]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `det`: [hu-pos/NOUN]()-[hu-pos/DET]() (4434; 85% instances), [hu-pos/PROPN]()-[hu-pos/DET]() (615; 12% instances), [hu-pos/ADJ]()-[hu-pos/DET]() (101; 2% instances), [hu-pos/ADV]()-[hu-pos/DET]() (30; 1% instances), [hu-pos/NOUN]()-[hu-pos/PRON]() (24; 0% instances), [hu-pos/NUM]()-[hu-pos/DET]() (19; 0% instances), [hu-pos/PRON]()-[hu-pos/DET]() (12; 0% instances), [hu-pos/VERB]()-[hu-pos/DET]() (4; 0% instances), [hu-pos/X]()-[hu-pos/DET]() (3; 0% instances), [hu-pos/ADJ]()-[hu-pos/NOUN]() (1; 0% instances), [hu-pos/ADJ]()-[hu-pos/PRON]() (1; 0% instances), [hu-pos/ADP]()-[hu-pos/DET]() (1; 0% instances), [hu-pos/DET]()-[hu-pos/DET]() (1; 0% instances), [hu-pos/NOUN]()-[hu-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu

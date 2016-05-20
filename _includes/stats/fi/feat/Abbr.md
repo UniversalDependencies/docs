@@ -50,7 +50,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 25 [fi-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (25; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (25; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (25; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (25; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (25; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (25; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (25; 100%), <tt><a href="PartForm.html">PartForm</a>=Past</tt> (25; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (25; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (24; 96%).
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (25; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (25; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (25; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (25; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (25; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (25; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (25; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (25; 100%), <tt><a href="PartForm.html">PartForm</a>=Past</tt> (25; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (24; 96%).
 
 `VERB` tokens may have the following values of `Abbr`:
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 
 11 [fi-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (8; 73%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8; 73%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8; 73%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (8; 73%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (8; 73%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8; 73%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 2 [fi-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NUM` and `Abbr` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `NUM` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (2; 100%).
 
 `NUM` tokens may have the following values of `Abbr`:
 
@@ -88,8 +88,8 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>NOUN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<a href="../dep/name.html">name</a>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<a href="../dep/compound.html">compound</a>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<a href="../dep/compound.html">compound</a>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<a href="../dep/name.html">name</a>]--> NOUN</tt> (1; 100%).
 
 
 
@@ -100,34 +100,44 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-503 tokens (0%) have a non-empty value of `Abbr`.
-261 types (1%) occur at least once with a non-empty value of `Abbr`.
-195 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 3 part-of-speech tags: [fi-pos/NOUN]() (406; 0% instances), [fi-pos/ADV]() (96; 0% instances), [fi-pos/ADJ]() (1; 0% instances).
+484 tokens (0%) have a non-empty value of `Abbr`.
+256 types (1%) occur at least once with a non-empty value of `Abbr`.
+190 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 4 part-of-speech tags: [fi-pos/PROPN]() (201; 0% instances), [fi-pos/NOUN]() (196; 0% instances), [fi-pos/PART]() (86; 0% instances), [fi-pos/ADJ]() (1; 0% instances).
+
+### `PROPN`
+
+201 [fi-pos/PROPN]() tokens (3% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (200; 100%).
+
+`PROPN` tokens may have the following values of `Abbr`:
+
+* `Yes` (201; 100% of non-empty `Abbr`): <em>EU:n, NN:n, EU, EU:hun, SAK, YK:n, SAK:n, SDP:n, TBK, USA:n</em>
+
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (104) occur only with one value of `Abbr`.
 
 ### `NOUN`
 
-406 [fi-pos/NOUN]() tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+196 [fi-pos/NOUN]() tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (403; 99%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (194; 99%), <tt><a href="Case.html">Case</a>=Nom</tt> (125; 64%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (406; 100% of non-empty `Abbr`): <em>x, x:n, EU:n, y, klo, %, A, NN:n, EU, mk</em>
+* `Yes` (196; 100% of non-empty `Abbr`): <em>x, x:n, y, klo, A, mk, A:n, Oy:n, B, B:n</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (158) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (53) occur only with one value of `Abbr`.
 
-### `ADV`
+### `PART`
 
-96 [fi-pos/ADV]() tokens (1% of all `ADV` tokens) have a non-empty value of `Abbr`.
+86 [fi-pos/PART]() tokens (2% of all `PART` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (96; 100%).
+`PART` tokens may have the following values of `Abbr`:
 
-`ADV` tokens may have the following values of `Abbr`:
+* `Yes` (86; 100% of non-empty `Abbr`): <em>mm., ns., esim., n., OK, jne, km/h, 70,00%, em., mk/kg</em>
 
-* `Yes` (96; 100% of non-empty `Abbr`): <em>mm., ns., esim., n., &, +, /, OK, jne, km/h</em>
-
-`Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (37) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `PART`. 100% lemmas (34) occur only with one value of `Abbr`.
 
 ### `ADJ`
 
@@ -142,6 +152,6 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (19; 70%),
-<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (14; 100%),
+<tt>PART --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1; 100%).
 

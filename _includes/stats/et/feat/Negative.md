@@ -5,57 +5,50 @@
 ## Treebank Statistics (UD_Estonian)
 
 This feature is universal.
-It occurs with 2 different values: `Neg`, `Pos`.
+It occurs with 1 different values: `Neg`.
 
-1472 tokens (16%) have a non-empty value of `Negative`.
-537 types (14%) occur at least once with a non-empty value of `Negative`.
-498 lemmas (14%) occur at least once with a non-empty value of `Negative`.
-The feature is used with 2 part-of-speech tags: [et-pos/VERB]() (1378; 15% instances), [et-pos/AUX]() (94; 1% instances).
-
-### `VERB`
-
-1378 [et-pos/VERB]() tokens (87% of all `VERB` tokens) have a non-empty value of `Negative`.
-
-The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1377; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1367; 99%), <tt><a href="Person.html">Person</a>=3</tt> (1129; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (1099; 80%), <tt><a href="Tense.html">Tense</a>=Imp</tt> (1042; 76%).
-
-`VERB` tokens may have the following values of `Negative`:
-
-* `Neg` (26; 2% of non-empty `Negative`): <em>ole, pole, saa, tea, aimagi, jää, kutsutud, lahku, lahkunud, mahu</em>
-* `Pos` (1352; 98% of non-empty `Negative`): <em>liigutas, on, tõukas, viskus, liikus, tatsas, oli, prantsatas, sõidutas, tilkus</em>
-* `EMPTY` (212): <em>minema, vaatama, liikunud, otsima, sisenenud, puhkama, võtma, avama, jahtuma, kuivama</em>
-
-<table>
-  <tr><th>Paradigm <i>ole+0</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>on</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>on</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>ole, pole</em></td></tr>
-</table>
-
-`Negative` seems to be **lexical feature** of `VERB`. 100% lemmas (486) occur only with one value of `Negative`.
+3495 tokens (1%) have a non-empty value of `Negative`.
+28 types (0%) occur at least once with a non-empty value of `Negative`.
+10 lemmas (0%) occur at least once with a non-empty value of `Negative`.
+The feature is used with 4 part-of-speech tags: [et-pos/AUX]() (2447; 1% instances), [et-pos/VERB]() (552; 0% instances), [et-pos/ADV]() (358; 0% instances), [et-pos/CONJ]() (138; 0% instances).
 
 ### `AUX`
 
-94 [et-pos/AUX]() tokens (98% of all `AUX` tokens) have a non-empty value of `Negative`.
+2447 [et-pos/AUX]() tokens (39% of all `AUX` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `AUX` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (67; 71%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (62; 66%), <tt><a href="Person.html">Person</a>=3</tt> (55; 59%), <tt><a href="Number.html">Number</a>=Sing</tt> (52; 55%).
+The most frequent other feature values with which `AUX` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2447; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2419; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2419; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2271; 93%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2183; 89%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2183; 89%).
 
 `AUX` tokens may have the following values of `Negative`:
 
-* `Neg` (33; 35% of non-empty `Negative`): <em>ei, ole, peaks, pole, saa, saaks, tohtinud</em>
-* `Pos` (61; 65% of non-empty `Negative`): <em>oli, on, olid, pidi, olin, võib, sai, asub, hakkas, jääb</em>
-* `EMPTY` (2): <em>hakata, kirjutatud</em>
+* `Neg` (2447; 100% of non-empty `Negative`): <em>ei, pole, poleks, ära, polnud, ärge, polegi, polevat, ärgem, polekski</em>
+* `EMPTY` (3847): <em>on, oli, võib, peaks, peab, saab, oleks, saa, võiks, olid</em>
 
-<table>
-  <tr><th>Paradigm <i>ole+0</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>on</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>on</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>pole, ole</em></td></tr>
-</table>
+### `VERB`
 
-## Relations with Agreement in `Negative`
+552 [et-pos/VERB]() tokens (2% of all `VERB` tokens) have a non-empty value of `Negative`.
 
-The 10 most frequent relations where parent and child node agree in `Negative`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (26; 76%),
-<tt>VERB --[<a href="../dep/neg.html">neg</a>]--> AUX</tt> (22; 81%),
-<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (3; 60%).
+The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (552; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (551; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (551; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (551; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (529; 96%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (455; 82%).
+
+`VERB` tokens may have the following values of `Negative`:
+
+* `Neg` (552; 100% of non-empty `Negative`): <em>pole, polnud, poleks, polegi, polnudki, polekski, polevat, palutud, sure, tule</em>
+* `EMPTY` (32905): <em>on, oli, tuleb, ole, olnud, teha, ütles, olid, olla, oleks</em>
+
+### `ADV`
+
+358 [et-pos/ADV]() tokens (2% of all `ADV` tokens) have a non-empty value of `Negative`.
+
+`ADV` tokens may have the following values of `Negative`:
+
+* `Neg` (358; 100% of non-empty `Negative`): <em>mitte, ega</em>
+* `EMPTY` (23325): <em>ka, siis, nii, kas, juba, välja, veel, ära, kus, aga</em>
+
+### `CONJ`
+
+138 [et-pos/CONJ]() tokens (2% of all `CONJ` tokens) have a non-empty value of `Negative`.
+
+`CONJ` tokens may have the following values of `Negative`:
+
+* `Neg` (138; 100% of non-empty `Negative`): <em>ega</em>
+* `EMPTY` (8272): <em>ja, ning, aga, või, kuid, kui, vaid, ehk, ent, kuni</em>
 

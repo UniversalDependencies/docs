@@ -94,53 +94,55 @@ Children of `ADJ` nodes belong to 15 different parts of speech: [VERB]() (2313; 
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 2279 `ADJ` lemmas (10%), 5195 `ADJ` types (12%) and 10465 `ADJ` tokens (7%).
-Out of 14 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 3 in number of types and 6 in number of tokens.
+There are 2312 `ADJ` lemmas (11%), 5232 `ADJ` types (12%) and 10494 `ADJ` tokens (7%).
+Out of 16 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>hyvä, oma, uusi, suuri, koko, suomalainen, pieni, sellainen, vanha, nuori</em>
+The 10 most frequent `ADJ` lemmas: <em>hyvä, oma, uusi, suuri, koko, suomalainen, pieni, vanha, ensimmäinen, nuori</em>
 
-The 10 most frequent `ADJ` types:  <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, uutta, uuden, sellainen</em>
+The 10 most frequent `ADJ` types:  <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
 
-The 10 most frequent ambiguous lemmas: <em>hyvä</em> ([ADJ]() 333, [NOUN]() 1), <em>koko</em> ([ADJ]() 193, [NOUN]() 12), <em>turha</em> ([ADJ]() 31, [NOUN]() 1), <em>vapaa</em> ([ADJ]() 25, [NOUN]() 5), <em>vieras</em> ([NOUN]() 27, [ADJ]() 17), <em>tuttu</em> ([ADJ]() 16, [NOUN]() 10), <em>terve</em> ([ADJ]() 12, [INTJ]() 2), <em>pyhä</em> ([ADJ]() 11, [NOUN]() 2), <em>suora</em> ([ADJ]() 11, [NOUN]() 1), <em>kiltti</em> ([ADJ]() 9, [NOUN]() 5)
+The 10 most frequent ambiguous lemmas: <em>hyvä</em> ([ADJ]() 333, [NOUN]() 1), <em>koko</em> ([ADJ]() 192, [NOUN]() 12), <em>nuori</em> ([ADJ]() 130, [PROPN]() 1), <em>sellainen</em> ([DET]() 84, [ADJ]() 71), <em>toinen</em> ([PRON]() 180, [DET]() 97, [ADJ]() 67), <em>punainen</em> ([ADJ]() 31, [PROPN]() 3), <em>turha</em> ([ADJ]() 31, [NOUN]() 1), <em>vapaa</em> ([ADJ]() 25, [NOUN]() 5), <em>semmoinen</em> ([DET]() 68, [ADJ]() 24), <em>tuttu</em> ([ADJ]() 17, [NOUN]() 9)
 
-The 10 most frequent ambiguous types:  <em>koko</em> ([ADJ]() 174, [NOUN]() 1), <em>ensi</em> ([ADJ]() 61, [ADV]() 1), <em>riittävän</em> ([ADJ]() 11, [VERB]() 2), <em>halvalla</em> ([ADJ]() 9, [ADV]() 1), <em>kiinnostunut</em> ([ADJ]() 9, [VERB]() 1), <em>kovaa</em> ([ADJ]() 9, [ADV]() 3), <em>musta</em> ([ADJ]() 6, [PRON]() 3), <em>omista</em> ([ADJ]() 8, [VERB]() 1), <em>pitkää</em> ([ADJ]() 8, [ADV]() 1), <em>tosi</em> ([ADV]() 28, [ADJ]() 8, [NOUN]() 4)
+The 10 most frequent ambiguous types:  <em>koko</em> ([ADJ]() 173, [NOUN]() 1), <em>ensi</em> ([ADJ]() 61, [ADV]() 1), <em>sellainen</em> ([ADJ]() 21, [DET]() 19), <em>sellaista</em> ([ADJ]() 19, [DET]() 8), <em>toinen</em> ([PRON]() 38, [DET]() 19, [ADJ]() 10), <em>toisen</em> ([DET]() 12, [ADJ]() 8, [PRON]() 3), <em>toista</em> ([ADJ]() 13, [PRON]() 7, [DET]() 5), <em>riittävän</em> ([ADJ]() 10, [VERB]() 2), <em>halvalla</em> ([ADJ]() 9, [ADV]() 1), <em>kovaa</em> ([ADJ]() 9, [ADV]() 3)
 
 
 * <em>koko</em>
-  * [ADJ]() 174: <em>Ne ovat stressattuja kaikki siellä , <b>koko</b> hoitohenkilökunta .</em>
+  * [ADJ]() 173: <em>Mieleni olisi tehnyt rynnätä pois <b>koko</b> salista</em>
   * [NOUN]() 1: <em>Vaikka perheiden <b>koko</b> on jatkuvasti pienentynyt , valtaosa väestönkasvusta ( 95 prosenttia ) tapahtuu kehitysmaissa .</em>
 * <em>ensi</em>
-  * [ADJ]() 61: <em>Tapaaminen <b>ensi</b> viikolla jännittää minua vähän .</em>
+  * [ADJ]() 61: <em>hirsi tupsahti <b>ensi</b> laittamalla sijoilleen .</em>
   * [ADV]() 1: <em>Mä oli sillai <b>ensi</b> mä meinasi et mä en ota mu s mä olin vaa et no kiitos ,</em>
+* <em>sellainen</em>
+  * [ADJ]() 21: <em>Kieli oli väline , joskin tärkeä <b>sellainen</b> .</em>
+  * [DET]() 19: <em>Se oli poika , <b>sellainen</b> minun ikäiseni ja kokoiseni .</em>
+* <em>sellaista</em>
+  * [ADJ]() 19: <em>ynnä muuta <b>sellaista</b></em>
+  * [DET]() 8: <em>Avauserä oli <b>sellaista</b> leikkimistä .</em>
+* <em>toinen</em>
+  * [PRON]() 38: <em>Kun katsoo suomalaisen flamencon tilannetta , asia on tyystin <b>toinen</b> .</em>
+  * [DET]() 19: <em>no sit yks <b>toinen</b> kaveri lähti armeijaan ja me oltiin sovittu .</em>
+  * [ADJ]() 10: <em>Seminaarin <b>toinen</b> päivä sujui yllätyksittä .</em>
+* <em>toisen</em>
+  * [DET]() 12: <em>hän on jo joutunut harjoituttamaan orkesterilla <b>toisen</b> teoksen .</em>
+  * [ADJ]() 8: <em>Juha Mieto hiihti Suomen joukkueessa <b>toisen</b> osuuden .</em>
+  * [PRON]() 3: <em><b>toisen</b> pääl ei voi nukkuu ollenkaa ku se pitää nii kauheeta metelii</em>
+* <em>toista</em>
+  * [ADJ]() 13: <em><b>toista</b> metriä leveä</em>
+  * [PRON]() 7: <em>Ihmiskunta on saanut aikaan yhtä ja <b>toista</b> mistä kannattaa nauttia .</em>
+  * [DET]() 5: <em>Minä ajan <b>toista</b> kautta takaisin .</em>
 * <em>riittävän</em>
-  * [ADJ]() 11: <em>Pitäkää sitä <b>riittävän</b> kosteana .</em>
+  * [ADJ]() 10: <em>Pitäkää sitä <b>riittävän</b> kosteana .</em>
   * [VERB]() 2: <em>asema on testinkin mukaan ihan <b>riittävän</b> nopea lukemaan CD-levyjä .</em>
 * <em>halvalla</em>
-  * [ADJ]() 9: <em>Sain kirjan <b>halvalla</b></em>
+  * [ADJ]() 9: <em>Tanskassa saa sikailla <b>halvalla</b></em>
   * [ADV]() 1: <em>Lipton Cocton on selvästi hyvin <b>halvalla</b> tehty .</em>
-* <em>kiinnostunut</em>
-  * [ADJ]() 9: <em>Kuoleman jälkeisistä asioista en ole pätkääkään <b>kiinnostunut</b> .</em>
-  * [VERB]() 1: <em>Eihän sitä voi pilana pitää , jos joku on tosimielellä <b>kiinnostunut</b> ostamaan liikennelaitoksemme .</em>
 * <em>kovaa</em>
-  * [ADJ]() 9: <em>Kilpailu eri lajien kesken on kuitenkin äärettömän <b>kovaa</b> .</em>
+  * [ADJ]() 9: <em>Meno on niin <b>kovaa</b> että silmissäni hyppii .</em>
   * [ADV]() 3: <em>Sanotko niin <b>kovaa</b> , että kaikki kuulee .</em>
-* <em>musta</em>
-  * [ADJ]() 6: <em>Kuljettajalla oli <b>musta</b> puolipitkä nahkatakki .</em>
-  * [PRON]() 3: <em>Kyllä <b>musta</b> on hyvä tunnustaa väriä .</em>
-* <em>omista</em>
-  * [ADJ]() 8: <em>Hänen pitäisi huolehtia <b>omista</b> asioistaan .</em>
-  * [VERB]() 1: <em>Mä just mietin et pitäskö ostaa uutta talvitakkia ku mä en oikeestaan <b>omista</b> mut sit mä vaan totesin et enhä mä tarvii</em>
-* <em>pitkää</em>
-  * [ADJ]() 8: <em>Lakosta odotetaan <b>pitkää</b> ja katkeraa .</em>
-  * [ADV]() 1: <em>Jos sää soitat ni anna puhelimen soida <b>pitkää</b> .</em>
-* <em>tosi</em>
-  * [ADV]() 28: <em>Lapset ovat tykänneet tästä <b>tosi</b> paljon .</em>
-  * [ADJ]() 8: <em>Iso custom-pyörä <b>tosi</b> miehelle !</em>
-  * [NOUN]() 4: <em>Saksan pelko oli <b>tosi</b> , ja vakoojia oltiin näkevinään kaikkialla .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.279509 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `ADJ` is 2.262976 (the average of all parts of speech is 2.044212).
 
 The 1st highest number of forms (42) was observed with the lemma “suuri”: <em>Suuriko, Suurimpia, suureen, suureks, suureksi, suurella, suurelle, suurelta, suuremmalla, suuremman, suuremmat, suuremmilla, suuremmitta, suurempaa, suurempana, suurempi, suurempia, suurempiakin, suurempiin, suuren, suurena, suuressa, suuresta, suuret, suuri, suuria, suuriakin, suuriin, suuriksi, suurille, suurimmaksi, suurimmalla, suurimman, suurimmat, suurimmista, suurimpien, suurin, suurinta, suurissa, suurista, suurta, suurten</em>.
 
@@ -148,32 +150,32 @@ The 2nd highest number of forms (37) was observed with the lemma “pieni”: <e
 
 The 3rd highest number of forms (36) was observed with the lemma “oma”: <em>Omapa, oma, omaa, omaan, omakseen, omaksesi, omaksi, omalla, omalle, omalta, oman, omana, omani, omansa, omassa, omasta, omat, omatkin, omia, omiaan, omiani, omien, omii, omiin, omiini, omilla, omille, omilleen, omimmassa, omin, omine, omis, omissa, omista, omistaki, ommoo</em>.
 
-`ADJ` occurs with 8 features: [fi-feat/Case]() (10066; 96% instances), [fi-feat/Number]() (10056; 96% instances), [fi-feat/Degree]() (881; 8% instances), [fi-feat/PronType]() (447; 4% instances), [fi-feat/Clitic]() (114; 1% instances), [fi-feat/Person[psor]]() (58; 1% instances), [fi-feat/Number[psor]]() (27; 0% instances), [fi-feat/Abbr]() (1; 0% instances)
+`ADJ` occurs with 10 features: [fi-feat/Case]() (10066; 96% instances), [fi-feat/Number]() (10056; 96% instances), [fi-feat/Degree]() (870; 8% instances), [fi-feat/NumType]() (300; 3% instances), [fi-feat/PronType]() (292; 3% instances), [fi-feat/Style]() (204; 2% instances), [fi-feat/Clitic]() (110; 1% instances), [fi-feat/Person[psor]]() (58; 1% instances), [fi-feat/Number[psor]]() (27; 0% instances), [fi-feat/Abbr]() (1; 0% instances)
 
-`ADJ` occurs with 33 feature-value pairs: `Abbr=Yes`, `Case=Abe`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Pa`, `Clitic=S`, `Degree=Cmp`, `Degree=Sup`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`
+`ADJ` occurs with 36 feature-value pairs: `Abbr=Yes`, `Case=Abe`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Pa`, `Clitic=S`, `Degree=Cmp`, `Degree=Sup`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `Style=Coll`
 
-`ADJ` occurs with 184 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (2817 tokens).
+`ADJ` occurs with 254 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing` (2767 tokens).
 Examples: <em>hyvä, uusi, oma, suuri, ainoa, pieni, vaikea, vanha, iso, nuori</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 16 different relations: [fi-dep/amod]() (6645; 63% instances), [fi-dep/root]() (1484; 14% instances), [fi-dep/nmod]() (721; 7% instances), [fi-dep/conj]() (628; 6% instances), [fi-dep/nsubj]() (272; 3% instances), [fi-dep/dobj]() (207; 2% instances), [fi-dep/advcl]() (123; 1% instances), [fi-dep/aux]() (120; 1% instances), [fi-dep/ccomp]() (120; 1% instances), [fi-dep/acl]() (60; 1% instances), [fi-dep/advcl:compar]() (54; 1% instances), [fi-dep/csubj]() (15; 0% instances), [fi-dep/compound]() (8; 0% instances), [fi-dep/dep]() (6; 0% instances), [fi-dep/cop]() (1; 0% instances), [fi-dep/vocative]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 25 different relations: [fi-dep/amod]() (6625; 63% instances), [fi-dep/root]() (1577; 15% instances), [fi-dep/nmod]() (732; 7% instances), [fi-dep/conj]() (648; 6% instances), [fi-dep/nsubj]() (242; 2% instances), [fi-dep/dobj]() (186; 2% instances), [fi-dep/advcl]() (182; 2% instances), [fi-dep/ccomp]() (115; 1% instances), [fi-dep/acl]() (68; 1% instances), [fi-dep/nsubj:cop]() (42; 0% instances), [fi-dep/nmod:own]() (14; 0% instances), [fi-dep/xcomp]() (12; 0% instances), [fi-dep/csubj:cop]() (9; 0% instances), [fi-dep/mwe]() (8; 0% instances), [fi-dep/compound:prt]() (7; 0% instances), [fi-dep/csubj]() (7; 0% instances), [fi-dep/nmod:gobj]() (5; 0% instances), [fi-dep/expl]() (3; 0% instances), [fi-dep/name]() (3; 0% instances), [fi-dep/advmod]() (2; 0% instances), [fi-dep/dep]() (2; 0% instances), [fi-dep/xcomp:ds]() (2; 0% instances), [fi-dep/goeswith]() (1; 0% instances), [fi-dep/nmod:gsubj]() (1; 0% instances), [fi-dep/vocative]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 12 different parts of speech: [NOUN]() (5998; 57% instances), [VERB]() (1626; 16% instances), [ROOT]() (1484; 14% instances), [ADJ]() (981; 9% instances), [PROPN]() (141; 1% instances), [ADV]() (110; 1% instances), [NUM]() (66; 1% instances), [PRON]() (43; 0% instances), [X]() (7; 0% instances), [DET]() (5; 0% instances), [INTJ]() (3; 0% instances), [ADP]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 13 different parts of speech: [NOUN]() (5992; 57% instances), [ROOT]() (1577; 15% instances), [VERB]() (1530; 15% instances), [ADJ]() (990; 9% instances), [PROPN]() (151; 1% instances), [ADV]() (114; 1% instances), [NUM]() (75; 1% instances), [PRON]() (46; 0% instances), [DET]() (7; 0% instances), [X]() (6; 0% instances), [PART]() (3; 0% instances), [ADP]() (2; 0% instances), [INTJ]() (1; 0% instances)
 
-6225 (59%) `ADJ` nodes are leaves.
+6080 (58%) `ADJ` nodes are leaves.
 
-1759 (17%) `ADJ` nodes have one child.
+1807 (17%) `ADJ` nodes have one child.
 
-678 (6%) `ADJ` nodes have two children.
+737 (7%) `ADJ` nodes have two children.
 
-1803 (17%) `ADJ` nodes have three or more children.
+1870 (18%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 11.
 
-Children of `ADJ` nodes are attached using 22 different relations: [fi-dep/punct]() (1821; 17% instances), [fi-dep/cop]() (1774; 16% instances), [fi-dep/advmod]() (1485; 14% instances), [fi-dep/nsubj]() (1270; 12% instances), [fi-dep/nmod]() (911; 8% instances), [fi-dep/conj]() (706; 6% instances), [fi-dep/cc]() (520; 5% instances), [fi-dep/amod]() (507; 5% instances), [fi-dep/acl]() (300; 3% instances), [fi-dep/advcl:compar]() (246; 2% instances), [fi-dep/det]() (228; 2% instances), [fi-dep/mark]() (212; 2% instances), [fi-dep/csubj]() (170; 2% instances), [fi-dep/neg]() (158; 1% instances), [fi-dep/aux]() (154; 1% instances), [fi-dep/advcl]() (150; 1% instances), [fi-dep/dep]() (129; 1% instances), [fi-dep/nummod]() (62; 1% instances), [fi-dep/case]() (42; 0% instances), [fi-dep/mark:comparator]() (21; 0% instances), [fi-dep/vocative]() (4; 0% instances), [fi-dep/dobj]() (2; 0% instances)
+Children of `ADJ` nodes are attached using 30 different relations: [fi-dep/cop]() (1875; 17% instances), [fi-dep/punct]() (1820; 16% instances), [fi-dep/advmod]() (1537; 14% instances), [fi-dep/nsubj:cop]() (1252; 11% instances), [fi-dep/nmod]() (961; 9% instances), [fi-dep/conj]() (723; 6% instances), [fi-dep/cc]() (533; 5% instances), [fi-dep/amod]() (485; 4% instances), [fi-dep/advcl]() (419; 4% instances), [fi-dep/acl]() (339; 3% instances), [fi-dep/mark]() (281; 2% instances), [fi-dep/det]() (229; 2% instances), [fi-dep/neg]() (168; 1% instances), [fi-dep/csubj:cop]() (155; 1% instances), [fi-dep/aux]() (150; 1% instances), [fi-dep/xcomp:ds]() (119; 1% instances), [fi-dep/case]() (44; 0% instances), [fi-dep/nummod]() (44; 0% instances), [fi-dep/expl]() (35; 0% instances), [fi-dep/discourse]() (23; 0% instances), [fi-dep/dep]() (22; 0% instances), [fi-dep/nmod:own]() (18; 0% instances), [fi-dep/nsubj]() (14; 0% instances), [fi-dep/csubj]() (11; 0% instances), [fi-dep/compound:nn]() (4; 0% instances), [fi-dep/vocative]() (4; 0% instances), [fi-dep/dobj]() (2; 0% instances), [fi-dep/goeswith]() (2; 0% instances), [fi-dep/mwe]() (2; 0% instances), [fi-dep/reparandum]() (2; 0% instances)
 
-Children of `ADJ` nodes belong to 14 different parts of speech: [VERB]() (2944; 27% instances), [PUNCT]() (1823; 17% instances), [NOUN]() (1644; 15% instances), [ADV]() (1557; 14% instances), [ADJ]() (981; 9% instances), [PRON]() (585; 5% instances), [CONJ]() (522; 5% instances), [SCONJ]() (244; 2% instances), [DET]() (228; 2% instances), [PROPN]() (190; 2% instances), [NUM]() (68; 1% instances), [ADP]() (43; 0% instances), [X]() (23; 0% instances), [INTJ]() (20; 0% instances)
+Children of `ADJ` nodes belong to 15 different parts of speech: [VERB]() (3181; 28% instances), [PUNCT]() (1820; 16% instances), [NOUN]() (1681; 15% instances), [ADJ]() (990; 9% instances), [PART]() (849; 8% instances), [ADV]() (762; 7% instances), [PRON]() (596; 5% instances), [CONJ]() (533; 5% instances), [DET]() (259; 2% instances), [SCONJ]() (252; 2% instances), [PROPN]() (213; 2% instances), [NUM]() (50; 0% instances), [ADP]() (47; 0% instances), [X]() (21; 0% instances), [INTJ]() (19; 0% instances)
 

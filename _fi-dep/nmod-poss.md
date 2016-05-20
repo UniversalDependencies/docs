@@ -29,3 +29,9 @@ punct(on-2, .-6)
 nmod:poss(moottori-5, litran-4)
 nummod(litran-4, kahden-3)
 ~~~
+
+###Diffs
+
+FinnTreeBank (FI_FTB) applies
+the universal relation [`nmod`](http://universaldependencies.org/u/dep/all.html#al-u-dep/nmod)
+instead of the language-specific `nmod:poss`.

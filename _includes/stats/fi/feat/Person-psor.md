@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 487 [fi-pos/VERB]() tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (487; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (487; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (487; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (431; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (419; 86%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (278; 57%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (274; 56%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (274; 56%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (487; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (487; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (487; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (431; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (419; 86%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (278; 57%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (274; 56%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (274; 56%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 
@@ -166,7 +166,7 @@ The most frequent other feature values with which `ADJ` and `Person[psor]` co-oc
 
 9 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (9; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (9; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (9; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5; 56%).
+The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (9; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (9; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5; 56%).
 
 `AUX` tokens may have the following values of `Person[psor]`:
 
@@ -209,16 +209,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Person](), [Person[psor]]().
 
-3487 tokens (2%) have a non-empty value of `Person[psor]`.
-2495 types (6%) occur at least once with a non-empty value of `Person[psor]`.
-1538 lemmas (7%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 9 part-of-speech tags: [fi-pos/NOUN]() (2135; 1% instances), [fi-pos/VERB]() (511; 0% instances), [fi-pos/ADV]() (430; 0% instances), [fi-pos/PRON]() (274; 0% instances), [fi-pos/ADJ]() (58; 0% instances), [fi-pos/ADP]() (54; 0% instances), [fi-pos/DET]() (14; 0% instances), [fi-pos/PROPN]() (10; 0% instances), [fi-pos/NUM]() (1; 0% instances).
+3477 tokens (2%) have a non-empty value of `Person[psor]`.
+2494 types (6%) occur at least once with a non-empty value of `Person[psor]`.
+1537 lemmas (7%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 9 part-of-speech tags: [fi-pos/NOUN]() (2129; 1% instances), [fi-pos/VERB]() (511; 0% instances), [fi-pos/ADV]() (430; 0% instances), [fi-pos/PRON]() (270; 0% instances), [fi-pos/ADJ]() (58; 0% instances), [fi-pos/ADP]() (54; 0% instances), [fi-pos/DET]() (14; 0% instances), [fi-pos/PROPN]() (10; 0% instances), [fi-pos/NUM]() (1; 0% instances).
 
 ### `NOUN`
 
-2135 [fi-pos/NOUN]() tokens (6% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+2129 [fi-pos/NOUN]() tokens (6% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1546; 72%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1541; 72%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -238,7 +238,7 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 511 [fi-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (511; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (511; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (511; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (393; 77%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (279; 55%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (257; 50%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (257; 50%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (257; 50%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (511; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (511; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (511; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (393; 77%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (279; 55%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (257; 50%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (257; 50%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (257; 50%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 
@@ -260,7 +260,7 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 
 ### `ADV`
 
-430 [fi-pos/ADV]() tokens (3% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
+430 [fi-pos/ADV]() tokens (4% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (430; 100%).
 
@@ -276,9 +276,9 @@ The most frequent other feature values with which `ADV` and `Person[psor]` co-oc
 
 ### `PRON`
 
-274 [fi-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
+270 [fi-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (274; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (225; 82%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (196; 72%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (270; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (221; 82%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (192; 71%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
@@ -288,11 +288,13 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>itseltään</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ade|<a href="Clitic.html">Clitic</a>=Kin|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2</tt></td><td></td><td><em>itselläsikin</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ade|<a href="Clitic.html">Clitic</a>=Kin|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>itselläänkin</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ade|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2</tt></td><td></td><td><em>ittelläs</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ade|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>ittellää, itsellään</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ade|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td><em>ittelläs</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ade|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>itsellään</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ade|<a href="Person[psor].html">Person[psor]</a>=3|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td><em>ittellää</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=All|<a href="Clitic.html">Clitic</a>=Kin|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>itselleenkin</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=All|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=1</tt></td><td><em>itselleni</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=All|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>itselleen, itsellensä, itsellee</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=All|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>itselleen, itsellensä</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=All|<a href="Person[psor].html">Person[psor]</a>=3|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td><em>itsellee</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ela|<a href="Clitic.html">Clitic</a>=Kaan|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=1</tt></td><td><em>itsestänikään</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ela|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person[psor].html">Person[psor]</a>=1</tt></td><td><em>itsestämme</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ela|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=1</tt></td><td><em>itsestäni</em></td><td></td><td></td></tr>
@@ -309,9 +311,12 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>itsensä</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person[psor].html">Person[psor]</a>=1</tt></td><td><em>itseämme</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person[psor].html">Person[psor]</a>=2</tt></td><td></td><td><em>itseänne</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=1</tt></td><td><em>itseäni, itteeni</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2</tt></td><td></td><td><em>itseäsi, ittees</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>itseään, ihtiisäj</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=1</tt></td><td><em>itseäni</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=1|<a href="Style.html">Style</a>=Coll</tt></td><td><em>itteeni</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2</tt></td><td></td><td><em>itseäsi</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td><em>ittees</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>itseään</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Person[psor].html">Person[psor]</a>=3|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td><em>ihtiisäj</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -354,7 +359,7 @@ The most frequent other feature values with which `ADJ` and `Person[psor]` co-oc
 
 14 [fi-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (14; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (13; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (9; 64%), <tt><a href="PronType.html">PronType</a>=Rcp</tt> (8; 57%).
+The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="Case.html">Case</a>=Gen</tt> (13; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (9; 64%), <tt><a href="PronType.html">PronType</a>=Rcp</tt> (8; 57%).
 
 `DET` tokens may have the following values of `Person[psor]`:
 
@@ -380,6 +385,6 @@ The most frequent other feature values with which `NUM` and `Person[psor]` co-oc
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (48; 65%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (12; 60%).
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (49; 64%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (12; 57%).
 

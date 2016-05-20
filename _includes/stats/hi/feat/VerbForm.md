@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td>करते</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Pol</tt></td><td></td><td></td><td>करते</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Pol|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करते</td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करता, करवाता, करते</td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करता, करते, करवाता</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करता, करते</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>करते</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करते</td><td></td></tr>
@@ -50,7 +50,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करती</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>करती</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करती</td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करती, करतीं</td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करतीं, करती</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td>करते</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td>करते</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Pol|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करते</td><td></td></tr>
@@ -61,8 +61,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc</tt></td><td></td><td></td><td>किया, किए</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td>किए, किया, किये</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td>किए, किये</td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Pol|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किए, किये, करा</td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किया, करा, किए, करवाया, कर</td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Pol|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किए, करा, किये</td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किया, करा, करवाया, किए, कर</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>किया, करवाया, करा, कराया</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किया, करवाया, करा, किये</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>किया, करा, करवाया</td><td></td></tr>
@@ -96,11 +96,11 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किया, की</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>किया, की</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किया, करा, कर, की</td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>किया, करा, की</td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>किया, की, करा</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>किए, की, करा</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करा</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td>किए</td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किया, करा</td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करा, किया</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>किए</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किए</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>किए</td><td></td></tr>
@@ -193,11 +193,11 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>जाती, जातीं</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td>जाती</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf</tt></td><td></td><td></td><td>गए</td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td>गया, गए, जाया, जाए, जाये, गयी, गये</td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td>गया, गए, जाया, जाए, गयी, जाये, गये</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Polite.html">Polite</a>=Pol</tt></td><td></td><td></td><td>गए</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td>गया, गए, जाया, गये</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Pol</tt></td><td></td><td></td><td>गए, गये</td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>गए, गये, जाने, गईं</td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>गए, गये, गईं, जाने</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td>गए, गये</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Fem</tt></td><td></td><td></td><td>गई</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td>गई, गयी, गया, गईं</td><td></td></tr>
@@ -216,7 +216,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Pol|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएंगे</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएगा, जायेगा</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएगा, जाएंगे</td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएंगे, जाएँगे, जाएगें, जाएँगीं, जायेंगे</td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएंगे, जाएँगे, जाएँगीं, जायेंगे, जाएगें</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएंगें</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing</tt></td><td>जाए, गए</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>जाए, जाय</td><td></td><td></td><td></td></tr>
@@ -230,11 +230,11 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Pol|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएंगी</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएगी</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएगी</td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएंगी, जाएंगीं, जायेंगी, जाएँगी, जाएगी</td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td>जाएंगी, जाएंगीं, जाएँगी, जायेंगी, जाएगी</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>जानी</td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td>जानी</td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub</tt></td><td>जाए, जाय</td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Polite.html">Polite</a>=Pol</tt></td><td>जाएँ, जाएं</td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Polite.html">Polite</a>=Pol</tt></td><td>जाएं, जाएँ</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>जाए, जाये</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Pol</tt></td><td>जाएं</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>जाएं, जाए, जाएँ</td><td></td><td></td><td></td></tr>
@@ -244,7 +244,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 5 [hi-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADP` and `VerbForm` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Post</tt> (5; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 80%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 80%).
+The most frequent other feature values with which `ADP` and `VerbForm` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Post</tt> (5; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 80%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 80%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 80%).
 
 `ADP` tokens may have the following values of `VerbForm`:
 
@@ -256,7 +256,7 @@ The most frequent other feature values with which `ADP` and `VerbForm` co-occurr
 
 4 [hi-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `PROPN` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `PROPN` and `VerbForm` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%).
 
 `PROPN` tokens may have the following values of `VerbForm`:
 
@@ -268,7 +268,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 
 3 [hi-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 67%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 67%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 67%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 67%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 67%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
@@ -276,27 +276,16 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Part` (2; 67% of non-empty `VerbForm`): बजे
 * `EMPTY` (78152): सरकार, पुलिस, लोगों, मामले, पार्टी, बात, राज्य, चुनाव, तरह, देश
 
-### `ADV`
+### `ADJ`
 
-1 [hi-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `VerbForm`.
+1 [hi-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADV` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="AdvType.html">AdvType</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
 
-`ADV` tokens may have the following values of `VerbForm`:
+`ADJ` tokens may have the following values of `VerbForm`:
 
-* `Trans` (1; 100% of non-empty `VerbForm`): खिलखिलाकर
-* `EMPTY` (3298): बाद, पहले, सबसे, फिर, वहीं, आगे, जल्द, साथ, लगातार, दौरान
-
-### `PRON`
-
-1 [hi-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `PRON` and `VerbForm` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%).
-
-`PRON` tokens may have the following values of `VerbForm`:
-
-* `Fin` (1; 100% of non-empty `VerbForm`): जिनमें
-* `EMPTY` (14701): उन्होंने, इसके, यह, अपने, वह, कोई, उनके, उन्हें, अब, अपनी
+* `Trans` (1; 100% of non-empty `VerbForm`): खड़ा
+* `EMPTY` (20645): शामिल, अन्य, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित, पूरी, वरिष्ठ
 
 ### `X`
 
@@ -309,16 +298,16 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 * `Part` (1; 100% of non-empty `VerbForm`): बुझे
 * `EMPTY` (147): पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, अलग, आउट, आफ, इंटरसेप्ट
 
-### `ADJ`
+### `ADV`
 
-1 [hi-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+1 [hi-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (1; 100%), <tt><a href="AdvType.html">AdvType</a>=EMPTY</tt> (1; 100%).
 
-`ADJ` tokens may have the following values of `VerbForm`:
+`ADV` tokens may have the following values of `VerbForm`:
 
-* `Trans` (1; 100% of non-empty `VerbForm`): खड़ा
-* `EMPTY` (20645): शामिल, अन्य, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित, पूरी, वरिष्ठ
+* `Trans` (1; 100% of non-empty `VerbForm`): खिलखिलाकर
+* `EMPTY` (3298): बाद, पहले, सबसे, फिर, वहीं, आगे, जल्द, साथ, लगातार, दौरान
 
 ### `PUNCT`
 
@@ -328,6 +317,17 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 * `Fin` (1; 100% of non-empty `VerbForm`): ।
 * `EMPTY` (23454): ।, ,, -, ., ', (, ), -JOIN, ?, '1
+
+### `PRON`
+
+1 [hi-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `PRON` and `VerbForm` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%).
+
+`PRON` tokens may have the following values of `VerbForm`:
+
+* `Fin` (1; 100% of non-empty `VerbForm`): जिनमें
+* `EMPTY` (14701): उन्होंने, इसके, यह, अपने, वह, कोई, उनके, उन्हें, अब, अपनी
 
 ## Relations with Agreement in `VerbForm`
 

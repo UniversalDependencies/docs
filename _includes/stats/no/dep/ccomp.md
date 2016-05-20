@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-2215 nodes (1%) are attached to their parents as `ccomp`.
+2239 nodes (1%) are attached to their parents as `ccomp`.
 
-2202 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.60180586907449.
+2226 instances of `ccomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.56185797230907.
 
-The following 15 pairs of parts of speech are connected with `ccomp`: [no-pos/VERB]()-[no-pos/VERB]() (1694; 76% instances), [no-pos/VERB]()-[no-pos/ADJ]() (277; 13% instances), [no-pos/VERB]()-[no-pos/NOUN]() (193; 9% instances), [no-pos/VERB]()-[no-pos/ADP]() (11; 0% instances), [no-pos/VERB]()-[no-pos/ADV]() (11; 0% instances), [no-pos/VERB]()-[no-pos/PRON]() (8; 0% instances), [no-pos/VERB]()-[no-pos/DET]() (6; 0% instances), [no-pos/ADJ]()-[no-pos/VERB]() (5; 0% instances), [no-pos/VERB]()-[no-pos/PROPN]() (4; 0% instances), [no-pos/ADJ]()-[no-pos/ADJ]() (1; 0% instances), [no-pos/ADJ]()-[no-pos/NOUN]() (1; 0% instances), [no-pos/ADV]()-[no-pos/NOUN]() (1; 0% instances), [no-pos/ADV]()-[no-pos/VERB]() (1; 0% instances), [no-pos/NOUN]()-[no-pos/VERB]() (1; 0% instances), [no-pos/PRON]()-[no-pos/VERB]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `ccomp`: [no-pos/VERB]()-[no-pos/VERB]() (1714; 77% instances), [no-pos/VERB]()-[no-pos/ADJ]() (278; 12% instances), [no-pos/VERB]()-[no-pos/NOUN]() (195; 9% instances), [no-pos/VERB]()-[no-pos/ADP]() (11; 0% instances), [no-pos/VERB]()-[no-pos/ADV]() (11; 0% instances), [no-pos/VERB]()-[no-pos/PRON]() (8; 0% instances), [no-pos/VERB]()-[no-pos/DET]() (6; 0% instances), [no-pos/ADJ]()-[no-pos/VERB]() (5; 0% instances), [no-pos/VERB]()-[no-pos/PROPN]() (5; 0% instances), [no-pos/ADJ]()-[no-pos/ADJ]() (1; 0% instances), [no-pos/ADJ]()-[no-pos/NOUN]() (1; 0% instances), [no-pos/ADV]()-[no-pos/NOUN]() (1; 0% instances), [no-pos/ADV]()-[no-pos/VERB]() (1; 0% instances), [no-pos/NOUN]()-[no-pos/VERB]() (1; 0% instances), [no-pos/PRON]()-[no-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,7 +60,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: [no-pos/VE
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 ccomp	color:blue
-1	Noen	noen	PRON	_	Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Noen	noen	PRON	_	Gender=Fem,Masc|Number=Sing|Person=3|PronType=Ind,Prs	2	nsubj	_	_
 2	trodde	tro	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 4	var	være	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	_

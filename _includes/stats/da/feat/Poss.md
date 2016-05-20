@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 14 [da-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (14; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (14; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (14; 100%), <tt><a href="Person.html">Person</a>=3</tt> (10; 71%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9; 64%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (14; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (14; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (14; 100%), <tt><a href="Person.html">Person</a>=3</tt> (10; 71%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9; 64%).
 
 `PRON` tokens may have the following values of `Poss`:
 

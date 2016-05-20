@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-330 nodes (0%) are attached to their parents as `csubj`.
+342 nodes (0%) are attached to their parents as `csubj`.
 
-231 instances of `csubj` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.06969696969697.
+240 instances of `csubj` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.24269005847953.
 
-The following 16 pairs of parts of speech are connected with `csubj`: [pt-pos/ADJ]()-[pt-pos/VERB]() (135; 41% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (128; 39% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (40; 12% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (5; 2% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (5; 2% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `csubj`: [pt-pos/ADJ]()-[pt-pos/VERB]() (148; 43% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (121; 35% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (44; 13% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (7; 2% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (5; 1% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,8 +50,8 @@ The following 16 pairs of parts of speech are connected with `csubj`: [pt-pos/AD
 9	resort	resort	NOUN	n|M|S	Gender=Masc|Number=Sing	4	nmod	_	_
 10	local	local	ADJ	adj|M|S	Gender=Masc|Number=Sing	9	amod	_	_
 11	,	,	PUNCT	punc	_	9	punct	_	_
-12	Casa	Casa	PROPN	prop|M|S	_	9	appos	_	_
-13	de	de	ADP	ADP	AdpType=Prep|Gender=Masc|Number=Sing	14	case	_	_
+12	Casa	Casa	PROPN	prop|M|S	_	9	appos	_	MWE=Casa_de_Campo|MWEPOS=PROPN
+13	de	de	ADP	ADP	AdpType=Prep	14	case	_	_
 14	Campo	Campo	PROPN	PROPN	_	12	name	_	_
 15	.	.	PUNCT	punc	_	4	punct	_	_
 

@@ -70,7 +70,7 @@ The 3rd highest number of forms (1) was observed with the lemma “et”: <em>et
 
 `CONJ` nodes are attached to their parents using 6 different relations: [bg-dep/cc]() (4796; 99% instances), [bg-dep/mwe]() (55; 1% instances), [bg-dep/mark]() (3; 0% instances), [bg-dep/discourse]() (2; 0% instances), [bg-dep/nsubj]() (2; 0% instances), [bg-dep/root]() (2; 0% instances)
 
-Parents of `CONJ` nodes belong to 13 different parts of speech: [NOUN]() (2023; 42% instances), [VERB]() (1900; 39% instances), [PROPN]() (402; 8% instances), [ADJ]() (289; 6% instances), [ADV]() (125; 3% instances), [PRON]() (50; 1% instances), [NUM]() (32; 1% instances), [DET]() (21; 0% instances), [PART]() (8; 0% instances), [ADP]() (6; 0% instances), [ROOT]() (2; 0% instances), [CONJ]() (1; 0% instances), [INTJ]() (1; 0% instances)
+Parents of `CONJ` nodes belong to 13 different parts of speech: [NOUN]() (2126; 44% instances), [VERB]() (1683; 35% instances), [PROPN]() (406; 8% instances), [ADJ]() (367; 8% instances), [ADV]() (153; 3% instances), [PRON]() (54; 1% instances), [NUM]() (32; 1% instances), [DET]() (21; 0% instances), [PART]() (8; 0% instances), [ADP]() (6; 0% instances), [ROOT]() (2; 0% instances), [CONJ]() (1; 0% instances), [INTJ]() (1; 0% instances)
 
 4269 (88%) `CONJ` nodes are leaves.
 

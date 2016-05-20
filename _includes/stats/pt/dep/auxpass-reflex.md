@@ -23,9 +23,9 @@ The following 1 pairs of parts of speech are connected with `auxpass:reflex`: [p
 1	Silêncio	silêncio	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 2	sepulcral	sepulcral	ADJ	adj|M|S	Gender=Masc|Number=Sing	1	amod	_	_
 3	,	,	PUNCT	punc	_	1	punct	_	_
-4	só	só	ADV	adv	_	6	nmod	_	_
+4	só	só	ADV	adv	_	6	advmod	_	_
 5	os	o	DET	art|<artd>|M|P	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-6	pássaros	pássaro	NOUN	n|M|P	Gender=Masc|Number=Plur	8	nsubj	_	_
+6	pássaros	pássaro	NOUN	n|M|P	Gender=Masc|Number=Plur	8	nsubjpass	_	_
 7	se	se	PRON	pron-pers|M|3P|ACC	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	auxpass:reflex	_	_
 8	ouvem	ouvir	VERB	v-fin|PR|3P|IND	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
 9	.	.	PUNCT	punc	_	1	punct	_	_

@@ -99,55 +99,55 @@ Children of `SCONJ` nodes belong to 4 different parts of speech: [ADV]() (121; 7
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 18 `SCONJ` lemmas (0%), 37 `SCONJ` types (0%) and 4144 `SCONJ` tokens (3%).
-Out of 14 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 12 in number of types and 9 in number of tokens.
+There are 18 `SCONJ` lemmas (0%), 37 `SCONJ` types (0%) and 4168 `SCONJ` tokens (3%).
+Out of 16 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>että, kun, kuin, jos, vaikka, koska, sillä, jotta, kunnes, kunhan</em>
 
 The 10 most frequent `SCONJ` types:  <em>että, kun, kuin, jos, ett, vaikka, et, koska, ku, sillä</em>
 
-The 10 most frequent ambiguous lemmas: <em>että</em> ([SCONJ]() 1779, [CONJ]() 38, [ADV]() 3), <em>kun</em> ([SCONJ]() 719, [ADV]() 4), <em>kuin</em> ([SCONJ]() 614, [CONJ]() 59), <em>vaikka</em> ([SCONJ]() 207, [ADV]() 72, [CONJ]() 4), <em>koska</em> ([SCONJ]() 120, [ADV]() 13), <em>kunhan</em> ([SCONJ]() 14, [ADV]() 1), <em>joskin</em> ([SCONJ]() 5, [CONJ]() 2), <em>joskaan</em> ([CONJ]() 4, [SCONJ]() 1), <em>mutta</em> ([CONJ]() 605, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>että</em> ([SCONJ]() 1772, [CONJ]() 38, [PART]() 3), <em>kun</em> ([SCONJ]() 716, [PART]() 4), <em>kuin</em> ([SCONJ]() 647, [CONJ]() 23), <em>jos</em> ([SCONJ]() 554, [PART]() 1), <em>vaikka</em> ([SCONJ]() 204, [PART]() 73, [CONJ]() 4), <em>koska</em> ([SCONJ]() 119, [ADV]() 9, [PART]() 4), <em>kunhan</em> ([SCONJ]() 14, [PART]() 1), <em>joskin</em> ([SCONJ]() 5, [CONJ]() 2), <em>joskaan</em> ([CONJ]() 4, [SCONJ]() 1), <em>mutta</em> ([CONJ]() 604, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>että</em> ([SCONJ]() 1410, [CONJ]() 38, [VERB]() 2), <em>kun</em> ([SCONJ]() 495, [ADV]() 4), <em>kuin</em> ([SCONJ]() 584, [CONJ]() 59), <em>vaikka</em> ([SCONJ]() 137, [ADV]() 64, [CONJ]() 3), <em>et</em> ([SCONJ]() 157, [VERB]() 63), <em>koska</em> ([SCONJ]() 100, [ADV]() 3), <em>sillä</em> ([PRON]() 61, [SCONJ]() 41, [DET]() 35), <em>vaikk</em> ([SCONJ]() 14, [CONJ]() 1), <em>joskin</em> ([SCONJ]() 5, [CONJ]() 2), <em>ette</em> ([VERB]() 25, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>että</em> ([SCONJ]() 1404, [CONJ]() 38, [VERB]() 2), <em>kun</em> ([SCONJ]() 494, [PART]() 4), <em>kuin</em> ([SCONJ]() 615, [CONJ]() 23), <em>jos</em> ([SCONJ]() 294, [PART]() 1), <em>vaikka</em> ([SCONJ]() 134, [PART]() 65, [CONJ]() 3), <em>et</em> ([SCONJ]() 156, [VERB]() 63), <em>koska</em> ([SCONJ]() 100, [ADV]() 3), <em>sillä</em> ([SCONJ]() 52, [PRON]() 50, [DET]() 34), <em>vaikk</em> ([SCONJ]() 14, [CONJ]() 1), <em>joskin</em> ([SCONJ]() 5, [CONJ]() 2)
 
 
 * <em>että</em>
-  * [SCONJ]() 1410: <em>Saulista huomattiin jo lapsena , <b>että</b> hänellä on lahjoja .</em>
+  * [SCONJ]() 1404: <em>ei voi ajatellakhaa varhmaan <b>että</b> ne ikinä olis vakinaisia .</em>
   * [CONJ]() 38: <em>Sekä työnantaja <b>että</b> työntekijät ovat tyytyväisiä tehtyihin sopimuksiin .</em>
   * [VERB]() 2: <em>Minkä perkeleen takia työ <b>että</b> oo eronna ?</em>
 * <em>kun</em>
-  * [SCONJ]() 495: <em>Usein tämä tietysti kismittää , <b>kun</b> asiat eivät ota sujuakseen .</em>
-  * [ADV]() 4: <em>Olin pelastettu , sen <b>kun</b> seurasin rekkojen perävaloja</em>
+  * [SCONJ]() 494: <em>Heti <b>kun</b> laulan hieman rokimpaa niin sen kuulee .</em>
+  * [PART]() 4: <em>Olin pelastettu , sen <b>kun</b> seurasin rekkojen perävaloja</em>
 * <em>kuin</em>
-  * [SCONJ]() 584: <em>toimikunta on kokoonpanoltaan hieman laajempi <b>kuin</b> edeltäjänsä .</em>
-  * [CONJ]() 59: <em>niin x <b>kuin</b> ykin</em>
+  * [SCONJ]() 615: <em>Tekotimantista tulee pian yhtä kestävä kimaltelija <b>kuin</b> kuvan aidosta .</em>
+  * [CONJ]() 23: <em>niin x <b>kuin</b> ykin</em>
+* <em>jos</em>
+  * [SCONJ]() 294: <em>Edistyt <b>jos</b> kuljet aikaa nopeammin ja taannut <b>jos</b> hitaammin .</em>
+  * [PART]() 1: <em>Hallissa on kaupan <b>jos</b> mitä .</em>
 * <em>vaikka</em>
-  * [SCONJ]() 137: <em>Ei väliä , <b>vaikka</b> taitoni ovatkin tässä ajassa jo ruostuneet pahasti</em>
-  * [ADV]() 64: <em>Ei se mitään , jos auto seisoo liikennevaloissa <b>vaikka</b> kaksi minuuttia .</em>
+  * [SCONJ]() 134: <em>Alta mennään <b>vaikka</b> niskat katkeis .</em>
+  * [PART]() 65: <em>Muistan <b>vaikka</b> mitä mutta en kerro</em>
   * [CONJ]() 3: <em>Tapahtuma oli merkittävä , <b>vaikka</b> ei mitenkään vallankumouksellinen .</em>
 * <em>et</em>
-  * [SCONJ]() 157: <em>mut tiiäks <b>et</b> kuule ; pelkkä pesuki vaikuttaa kuluttaa hiusta</em>
-  * [VERB]() 63: <em>Sinä <b>et</b> ole yhtään hänen näköisensä !</em>
+  * [SCONJ]() 156: <em>mut tiiäks <b>et</b> kuule ; pelkkä pesuki vaikuttaa kuluttaa hiusta</em>
+  * [VERB]() 63: <em><b>et</b> kerro</em>
 * <em>koska</em>
   * [SCONJ]() 100: <em>No niin , Sini , kyläläiset pitivät teistä , <b>koska</b> osaatte käyttäytyä .</em>
   * [ADV]() 3: <em>Siirrymme uuteen vuosituhanteen teknistieteellisen kehityksen kukoistaessa , mutta <b>koska</b> se kaikki alkoi ?</em>
 * <em>sillä</em>
-  * [PRON]() 61: <em>Menestystä ja tasoa mitattiin <b>sillä</b> , tuliko rahaa vai ei .</em>
-  * [SCONJ]() 41: <em>Hätkähdin , <b>sillä</b> puhelimenhan piti olla mykkä .</em>
-  * [DET]() 35: <em><b>sillä</b> aikaa kun</em>
+  * [SCONJ]() 52: <em>-- <b>sillä</b> lupia ei ole haettu eikä niitä ole pyytämättä myönnetty .</em>
+  * [PRON]() 50: <em>Menestystä ja tasoa mitattiin <b>sillä</b> , tuliko rahaa vai ei .</em>
+  * [DET]() 34: <em><b>sillä</b> aikaa kun</em>
 * <em>vaikk</em>
   * [SCONJ]() 14: <em>Minä sanon tämän Kalle sinulle , <b>vaikk</b> et sinä tätä ymmärrä .</em>
   * [CONJ]() 1: <em>Monet ehdotukset olivat hyviä , <b>vaikk</b> eivät yleensä uusia .</em>
 * <em>joskin</em>
   * [SCONJ]() 5: <em>Kieli oli väline , <b>joskin</b> tärkeä sellainen .</em>
   * [CONJ]() 2: <em>Muuten asialliseen kiuasartikkeliinne oli tullut ikävä , <b>joskin</b> yleinen asia- ( termi ) virhe .</em>
-* <em>ette</em>
-  * [VERB]() 25: <em><b>ette</b> kerro</em>
-  * [SCONJ]() 1: <em>kyl se on kuule niin kauhia outoo <b>ette</b> Janne o toises pääs .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.055556 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `SCONJ` is 2.055556 (the average of all parts of speech is 2.044212).
 
 The 1st highest number of forms (8) was observed with the lemma “kun”: <em>ko, kon, ku, kun, kunn, kup, kus, k´</em>.
 
@@ -155,26 +155,32 @@ The 2nd highest number of forms (4) was observed with the lemma “että”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “jos”: <em>ell, joll, jos, joss</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: [fi-feat/Style]() (507; 12% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `Style=Coll`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (3661 tokens).
+Examples: <em>että, kuin, kun, jos, vaikka, koska, sillä, jotta, ell, joll</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: [fi-dep/mark]() (3623; 87% instances), [fi-dep/mark:comparator]() (372; 9% instances), [fi-dep/dep]() (106; 3% instances), [fi-dep/conj]() (35; 1% instances), [fi-dep/root]() (8; 0% instances)
+`SCONJ` nodes are attached to their parents using 8 different relations: [fi-dep/mark]() (3845; 92% instances), [fi-dep/mwe]() (223; 5% instances), [fi-dep/conj]() (35; 1% instances), [fi-dep/dep]() (23; 1% instances), [fi-dep/advmod]() (22; 1% instances), [fi-dep/discourse]() (12; 0% instances), [fi-dep/root]() (7; 0% instances), [fi-dep/acl]() (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: [VERB]() (3186; 77% instances), [NOUN]() (468; 11% instances), [ADJ]() (244; 6% instances), [PRON]() (75; 2% instances), [ADV]() (61; 1% instances), [PROPN]() (48; 1% instances), [SCONJ]() (36; 1% instances), [NUM]() (13; 0% instances), [ROOT]() (8; 0% instances), [INTJ]() (3; 0% instances), [ADP]() (1; 0% instances), [X]() (1; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: [VERB]() (3012; 72% instances), [NOUN]() (468; 11% instances), [ADJ]() (252; 6% instances), [ADV]() (201; 5% instances), [PRON]() (93; 2% instances), [PROPN]() (50; 1% instances), [SCONJ]() (36; 1% instances), [PART]() (34; 1% instances), [NUM]() (11; 0% instances), [ROOT]() (7; 0% instances), [INTJ]() (3; 0% instances), [X]() (1; 0% instances)
 
-3790 (91%) `SCONJ` nodes are leaves.
+4025 (97%) `SCONJ` nodes are leaves.
 
-332 (8%) `SCONJ` nodes have one child.
+122 (3%) `SCONJ` nodes have one child.
 
-21 (1%) `SCONJ` nodes have two children.
+20 (0%) `SCONJ` nodes have two children.
 
 1 (0%) `SCONJ` nodes have three or more children.
 
 The highest child degree of a `SCONJ` node is 4.
 
-Children of `SCONJ` nodes are attached using 6 different relations: [fi-dep/dep]() (243; 64% instances), [fi-dep/punct]() (81; 21% instances), [fi-dep/conj]() (35; 9% instances), [fi-dep/cc]() (10; 3% instances), [fi-dep/advmod]() (8; 2% instances), [fi-dep/mark]() (1; 0% instances)
+Children of `SCONJ` nodes are attached using 8 different relations: [fi-dep/punct]() (80; 48% instances), [fi-dep/conj]() (35; 21% instances), [fi-dep/discourse]() (19; 11% instances), [fi-dep/mwe]() (14; 8% instances), [fi-dep/cc]() (10; 6% instances), [fi-dep/advmod]() (6; 4% instances), [fi-dep/mark]() (1; 1% instances), [fi-dep/reparandum]() (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 9 different parts of speech: [ADV]() (205; 54% instances), [PUNCT]() (81; 21% instances), [SCONJ]() (36; 10% instances), [INTJ]() (19; 5% instances), [PRON]() (16; 4% instances), [CONJ]() (10; 3% instances), [VERB]() (9; 2% instances), [NOUN]() (1; 0% instances), [X]() (1; 0% instances)
+Children of `SCONJ` nodes belong to 8 different parts of speech: [PUNCT]() (80; 48% instances), [SCONJ]() (36; 22% instances), [INTJ]() (19; 11% instances), [PART]() (12; 7% instances), [CONJ]() (10; 6% instances), [ADV]() (6; 4% instances), [VERB]() (2; 1% instances), [X]() (1; 1% instances)
 

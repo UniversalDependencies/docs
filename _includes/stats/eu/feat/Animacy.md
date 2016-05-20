@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADP` and `Animacy` co-occurre
 
 95 [eu-pos/PROPN]() tokens (1% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (95; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (95; 100%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (95; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (95; 100%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 5 [eu-pos/SYM]() tokens (33% of all `SYM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `SYM` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Abs</tt> (5; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (5; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%).
+The most frequent other feature values with which `SYM` and `Animacy` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (5; 100%), <tt><a href="Case.html">Case</a>=Abs</tt> (5; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%).
 
 `SYM` tokens may have the following values of `Animacy`:
 

@@ -77,52 +77,30 @@ The following 30 pairs of parts of speech are connected with `cc`: [fi-pos/NOUN]
 
 This relation is universal.
 
-4756 nodes (3%) are attached to their parents as `cc`.
+4727 nodes (3%) are attached to their parents as `cc`.
 
-4104 instances of `cc` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.87552565180824.
+4076 instances of `cc` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.89485931880685.
 
-The following 12 pairs of parts of speech are connected with `cc`: [fi-pos/VERB]()-[fi-pos/CONJ]() (1972; 41% instances), [fi-pos/NOUN]()-[fi-pos/CONJ]() (1615; 34% instances), [fi-pos/ADJ]()-[fi-pos/CONJ]() (520; 11% instances), [fi-pos/PROPN]()-[fi-pos/CONJ]() (330; 7% instances), [fi-pos/ADV]()-[fi-pos/CONJ]() (148; 3% instances), [fi-pos/PRON]()-[fi-pos/CONJ]() (78; 2% instances), [fi-pos/NUM]()-[fi-pos/CONJ]() (58; 1% instances), [fi-pos/ADP]()-[fi-pos/CONJ]() (11; 0% instances), [fi-pos/SCONJ]()-[fi-pos/CONJ]() (10; 0% instances), [fi-pos/DET]()-[fi-pos/CONJ]() (7; 0% instances), [fi-pos/X]()-[fi-pos/CONJ]() (5; 0% instances), [fi-pos/INTJ]()-[fi-pos/CONJ]() (2; 0% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 cc	color:blue
-1	"	"	PUNCT	Pun,Quo,Ini	_	2	punct	_	Missed-POSITION=INITIAL|Missed-SUBCAT=QUOTATION
-2	Sitä	se	PRON	Pron,Dem,Sg,Par	Case=Par|Number=Sing|PronType=Dem	3	nmod	_	_
-3	lihoo	lihoa	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-4	liikaa	liikaa	ADV	Adv	_	3	advmod	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	_
-6	jos	jos	SCONJ	Pcle,CS	_	8	mark	_	_
-7	vain	vain	ADV	Pcle	_	8	advmod	_	_
-8	lukee	lukea	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	advcl	_	_
-9	ja	ja	CONJ	Pcle,CC	_	8	cc	_	_
-10	syö	syödä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	conj	_	_
-11	suklaata	suklaa	NOUN	N,Sg,Par	Case=Par|Number=Sing	10	dobj	_	_
-12	.	.	PUNCT	Pun	_	11	punct	_	_
-13	"	"	PUNCT	Pun,Quo,Fin	_	12	punct	_	Missed-POSITION=FINAL|Missed-SUBCAT=QUOTATION
-
-~~~
+The following 14 pairs of parts of speech are connected with `cc`: [fi-pos/VERB]()-[fi-pos/CONJ]() (1956; 41% instances), [fi-pos/NOUN]()-[fi-pos/CONJ]() (1595; 34% instances), [fi-pos/ADJ]()-[fi-pos/CONJ]() (533; 11% instances), [fi-pos/PROPN]()-[fi-pos/CONJ]() (333; 7% instances), [fi-pos/ADV]()-[fi-pos/CONJ]() (137; 3% instances), [fi-pos/PRON]()-[fi-pos/CONJ]() (77; 2% instances), [fi-pos/NUM]()-[fi-pos/CONJ]() (50; 1% instances), [fi-pos/ADP]()-[fi-pos/CONJ]() (11; 0% instances), [fi-pos/PART]()-[fi-pos/CONJ]() (11; 0% instances), [fi-pos/SCONJ]()-[fi-pos/CONJ]() (10; 0% instances), [fi-pos/DET]()-[fi-pos/CONJ]() (7; 0% instances), [fi-pos/X]()-[fi-pos/CONJ]() (4; 0% instances), [fi-pos/INTJ]()-[fi-pos/CONJ]() (2; 0% instances), [fi-pos/X]()-[fi-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 cc	color:blue
-1	On	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	aux	_	_
-2	joku	joku	DET	Pron,Qnt,Sg,Nom	Case=Nom|Number=Sing	4	det	_	_
-3	hemmetin	hemmetti	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	4	nmod	_	_
-4	lonkka	lonkka	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	8	nsubj	_	_
-5	tai	tai	CONJ	Pcle,CC	_	4	cc	_	_
-6	joku	joku	PRON	Pron,Qnt,Sg,Nom	Case=Nom|Number=Sing	4	conj	_	Finnish-PronType=Qnt
-7	vähä	vähän	ADV	Adv	_	8	advmod	_	Style=Dialectal
-8	vaivannu	vaivata	VERB	V,Act,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	Style=Dialectal
-9	.	.	PUNCT	Pun	_	8	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 cc	color:blue
+1	Riki	riki	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	3	nsubj	_	_
+2	alkoi	alkaa	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	kantaa	kantaa	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
+4	laukkuja	laukku	NOUN	N,Pl,Par	Case=Par|Number=Plur	3	dobj	_	_
+5	hissiin	hissi	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	3	nmod	_	_
+6	ja	ja	CONJ	Pcle,CC	_	3	cc	_	_
+7	mahdutti	mahduttaa	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+8	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	7	dobj	_	_
+9	autoonsa	auto	NOUN	N,Sg,Ill,Px3	Case=Ill|Number=Sing|Person[psor]=3	7	nmod	_	_
+10	.	.	PUNCT	Pun	_	9	punct	_	_
 
 ~~~
 
@@ -133,10 +111,30 @@ The following 12 pairs of parts of speech are connected with `cc`: [fi-pos/VERB]
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 cc	color:blue
-1	yritteliäälle	yritteliäs	ADJ	A,Sg,All	Case=All|Number=Sing	4	amod	_	_
+1	Juoppoja	juoppo	NOUN	N,Pl,Par	Case=Par|Number=Plur	0	root	_	_
 2	ja	ja	CONJ	Pcle,CC	_	1	cc	_	_
-3	voimakkaalle	voimakas	ADJ	A,Sg,All	Case=All|Number=Sing	1	conj	_	_
-4	Pallo-Pojille	pallo-poika	PROPN	N,Prop,Pl,All	Case=All|Number=Plur	0	root	_	_
+3	ajan	aika	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	4	nmod	_	_
+4	tuhlareita	tuhlari	NOUN	N,Pl,Par	Case=Par|Number=Plur	1	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 cc	color:blue
+1	Duuman	duuma	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	2	nmod	_	_
+2	kuohunta	kuohunta	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nsubj:cop	_	_
+3	olisi	olla	VERB	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	kiusallista	kiusallinen	ADJ	A,Sg,Par	Case=Par|Number=Sing	0	root	_	_
+5	,	,	PUNCT	Pun	_	4	punct	_	_
+6	mutta	mutta	CONJ	Pcle,CC	_	4	cc	_	_
+7	ei	ei	VERB	V,Neg,Act,Sg3	Negative=Neg|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	9	cop	_	_
+8	vielä	vielä	PART	Pcle	_	9	advmod	_	_
+9	vaarallista	vaarallinen	ADJ	A,Sg,Par	Case=Par|Number=Sing	4	conj	_	_
+10	.	.	PUNCT	Pun	_	9	punct	_	_
 
 ~~~
 

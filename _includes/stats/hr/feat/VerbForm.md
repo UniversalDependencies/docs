@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 597 [hr-pos/AUX]() tokens (10% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (597; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (597; 100%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (597; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (597; 100%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -89,8 +89,8 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (4; 80%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%),
 <tt>ADJ --[<a href="../dep/csubj.html">csubj</a>]--> ADJ</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/nsubj.html">nsubj</a>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<a href="../dep/dobj.html">dobj</a>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/auxpass.html">auxpass</a>]--> ADJ</tt> (1; 100%).
 

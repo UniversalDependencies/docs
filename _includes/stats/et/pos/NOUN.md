@@ -4,86 +4,88 @@
 
 ## Treebank Statistics (UD_Estonian)
 
-There are 1796 `NOUN` lemmas (49%), 1897 `NOUN` types (49%) and 3029 `NOUN` tokens (32%).
+There are 14039 `NOUN` lemmas (50%), 26541 `NOUN` types (52%) and 60337 `NOUN` tokens (26%).
 Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: <em>mees+0, tuul+0, tuba+0, naine+0, kodu+0, laud+0, linn+0, uks+0, mets+0, poiss+0</em>
+The 10 most frequent `NOUN` lemmas: <em>aasta, inimene, aeg, riik, mees, töö, sisse_tulek, eba_võrdsus, kord, asi</em>
 
-The 10 most frequent `NOUN` types:  <em>mees, tuul, linna, metsa, vett, laua, mehe, koju, ukse, naine</em>
+The 10 most frequent `NOUN` types:  <em>aasta, aastal, sissetulekute, raha, aastat, krooni, korda, osa, mees, ajal</em>
 
-The 10 most frequent ambiguous lemmas: <em>haige+0</em> ([NOUN]() 5, [ADJ]() 1), <em>jõul+0</em> ([NOUN]() 1, [ADP]() 1), <em>kogu+0</em> ([ADJ]() 6, [NOUN]() 1), <em>kohalt+0</em> ([ADP]() 4, [NOUN]() 1), <em>kohta+0</em> ([ADP]() 2, [NOUN]() 1), <em>käest+0</em> ([ADP]() 3, [NOUN]() 1, [ADV]() 1), <em>külm+0</em> ([ADJ]() 2, [NOUN]() 1), <em>noor+d</em> ([NOUN]() 1, [ADJ]() 1), <em>risti+0</em> ([NOUN]() 1, [ADV]() 1), <em>tundmatu+0</em> ([NOUN]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>kord</em> ([NOUN]() 256, [ADV]() 44), <em>pea</em> ([NOUN]() 118, [ADV]() 20), <em>koer</em> ([NOUN]() 72, [ADJ]() 2), <em>noor</em> ([ADJ]() 75, [NOUN]() 62), <em>pool</em> ([NUM]() 98, [NOUN]() 49, [ADV]() 20, [ADP]() 17), <em>vahe</em> ([NOUN]() 42, [ADP]() 1), <em>vara</em> ([NOUN]() 42, [ADV]() 7), <em>paik</em> ([NOUN]() 39, [ADP]() 1), <em>jõud</em> ([NOUN]() 33, [VERB]() 4), <em>laul</em> ([NOUN]() 32, [VERB]() 2)
 
-The 10 most frequent ambiguous types:  <em>haige</em> ([NOUN]() 3, [ADJ]() 1), <em>õue</em> ([NOUN]() 5, [ADV]() 1), <em>ajal</em> ([NOUN]() 2, [ADP]() 1), <em>kuue</em> ([NOUN]() 3, [NUM]() 1), <em>käest</em> ([NOUN]() 3, [ADP]() 3, [ADV]() 1), <em>Kadrioru</em> ([PROPN]() 4, [NOUN]() 1), <em>Kogu</em> ([ADJ]() 2, [NOUN]() 1), <em>Noored</em> ([NOUN]() 1, [ADJ]() 1), <em>Savisaar</em> ([PROPN]() 10, [NOUN]() 1), <em>Tuli</em> ([NOUN]() 1, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>krooni</em> ([NOUN]() 168, [VERB]() 1), <em>ajal</em> ([NOUN]() 133, [ADP]() 54), <em>tee</em> ([NOUN]() 49, [VERB]() 24), <em>aja</em> ([NOUN]() 51, [VERB]() 2), <em>kätte</em> ([NOUN]() 50, [ADP]() 20, [ADV]() 10), <em>elus</em> ([NOUN]() 41, [ADJ]() 13), <em>pea</em> ([NOUN]() 36, [AUX]() 29, [ADV]() 16, [VERB]() 12), <em>teed</em> ([NOUN]() 38, [VERB]() 12), <em>käsi</em> ([NOUN]() 32, [VERB]() 2), <em>korral</em> ([ADP]() 54, [NOUN]() 29)
 
 
-* <em>haige</em>
-  * [NOUN]() 3: <em>Peeter talutas <b>haige</b> kabinetist mööda koridori kööki sööma .</em>
-  * [ADJ]() 1: <em>Arst läks <b>haige</b> hamba kallale .</em>
-* <em>õue</em>
-  * [NOUN]() 5: <em>Mees kandis vee kaevust üle <b>õue</b> kööki .</em>
-  * [ADV]() 1: <em>Ta tatsas <b>õue</b> .</em>
+* <em>krooni</em>
+  * [NOUN]() 168: <em>Eelmine rekord oli 64 000 <b>krooni</b> .</em>
+  * [VERB]() 1: <em>Kuigi ametiühingud korraldavad sageli suuremaid protestiaktsioone , ei <b>krooni</b> neid tavaliselt otsene edu .</em>
 * <em>ajal</em>
-  * [NOUN]() 2: <em>Samal <b>ajal</b> sõudis Muraka Peeter piki rooäärt oma mõrra poole .</em>
-  * [ADP]() 1: <em>Sõja <b>ajal</b> liigutas tugev tuul puid .</em>
-* <em>kuue</em>
-  * [NOUN]() 3: <em>Vanamees komberdas kõige taga aeda <b>kuue</b> järele .</em>
-  * [NUM]() 1: <em>Eesmärk - viia telekaabel <b>kuue</b> kuuga 50_000 Tallinna kodusse .</em>
-* <em>käest</em>
-  * [NOUN]() 3: <em>Bronka <b>käest</b> tilgub verd .</em>
-  * [ADP]() 3: <em>Varandus läks hooldaja <b>käest</b> lapsele .</em>
-  * [ADV]() 1: <em>Nüüd väidavad Telia vastased , et Eesti Telekom on <b>käest</b> antud võileivahinnaga .</em>
-* <em>Kadrioru</em>
-  * [PROPN]() 4: <em>Algul oli selle vastu <b>Kadrioru</b> ajutrust .</em>
-  * [NOUN]() 1: <em><b>Kadrioru</b> ja Toompea vahel käis naljakas võidujooks , mille võitsid Savisaar ja Meri .</em>
-* <em>Kogu</em>
-  * [ADJ]() 2: <em><b>Kogu</b> projekt maksab 200 miljoni krooni ringis .</em>
-  * [NOUN]() 1: <em><b>Kogu</b> liikus ähmases valguses üle hoovi .</em>
-* <em>Noored</em>
-  * [NOUN]() 1: <em><b>Noored</b> tantsisid viimase valsi .</em>
-  * [ADJ]() 1: <em><b>Noored</b> isamaalased ja eakad maasaadikud võtsid presidendimängu liiga tõsiselt ja kogenud Savisaar mängis nad lihtsalt üle .</em>
-* <em>Savisaar</em>
-  * [PROPN]() 10: <em>Nüüd sihib <b>Savisaar</b> erakorralisi valimisi .</em>
-  * [NOUN]() 1: <em>Lindiskandaalist toibunud <b>Savisaar</b> on soojade suveilmadega tublisti kosunud ja oma varasema vormi taastanud .</em>
-* <em>Tuli</em>
-  * [NOUN]() 1: <em><b>Tuli</b> levis laboratooriumist tõmbetoru mööda pööningule .</em>
-  * [VERB]() 1: <em><b>Tuli</b> ka paremaid aegu .</em>
+  * [NOUN]() 133: <em>Muidu pidas ta ennast viimasel <b>ajal</b> pool-impoks .</em>
+  * [ADP]() 54: <em>" Tead sa , viimati puristasin ma niimoodi vist Andropovi <b>ajal</b> ! "</em>
+* <em>tee</em>
+  * [NOUN]() 49: <em>Otsustasin <b>tee</b> kasuks .</em>
+  * [VERB]() 24: <em>Mine <b>tee</b> sest lugu , soovitas tuttav .</em>
+* <em>aja</em>
+  * [NOUN]() 51: <em>Üks vabaduse vorme on võimalus oma <b>aja</b> moehullust eirata .</em>
+  * [VERB]() 2: <em>Aga soe suitsuräim ei <b>aja</b> praegu kellelgi suud vett jooksma .</em>
+* <em>kätte</em>
+  * [NOUN]() 50: <em>Ma ei kavatsenud sel moel <b>kätte</b> maksta .</em>
+  * [ADP]() 20: <em>Peeter andis riidetüki korvist koera <b>kätte</b> .</em>
+  * [ADV]() 10: <em>Suure rebimise peale saavad Valja ja kasvataja kammid <b>kätte</b> .</em>
+* <em>elus</em>
+  * [NOUN]() 41: <em>Millist rolli mängib teie <b>elus</b> televisioon ?</em>
+  * [ADJ]() 13: <em>Oleks tema veel <b>elus</b> !</em>
+* <em>pea</em>
+  * [NOUN]() 36: <em>Vana mehe <b>pea</b> oli rinnale langenud , ta magas .</em>
+  * [AUX]() 29: <em>" Siin ei <b>pea</b> ma maksma ühiselamukoha eest .</em>
+  * [ADV]() 16: <em>Oleme ju üsna <b>pea</b> Euroopa Liidu liikmesriigid .</em>
+  * [VERB]() 12: <em>Ise ei <b>pea</b> õieti viisigi .</em>
+* <em>teed</em>
+  * [NOUN]() 38: <em>Ja pakub <b>teed</b> .</em>
+  * [VERB]() 12: <em>Ja mis sa nendega <b>teed</b> , kuigi tomatiäritsemine pole ilus tegu .</em>
+* <em>käsi</em>
+  * [NOUN]() 32: <em>Teatri direktor Aleksandr Iljin laiutab <b>käsi</b> .</em>
+  * [VERB]() 2: <em>Eestis on praegu paljude arvates haruldane olukord : Moskva enam ei <b>käsi</b> ja Brüssel veel ei <b>käsi</b> , kuidas oleks vaja elada ning mõelda , arvata ja öelda .</em>
+* <em>korral</em>
+  * [ADP]() 54: <em>Nõudluse <b>korral</b> ei loe , kes kust pärit on .</em>
+  * [NOUN]() 29: <em>Ning veel mäletan , et seda oli tõesti vähe , mida tol <b>korral</b> mäletasin .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.056236 (the average of all parts of speech is 1.041949).
+The form / lemma ratio of `NOUN` is 1.890519 (the average of all parts of speech is 1.839644).
 
-The 1st highest number of forms (4) was observed with the lemma “aeg+0”: <em>aeg, aega, aja, ajal</em>.
+The 1st highest number of forms (22) was observed with the lemma “riik”: <em>riigi, riigi-, riigid, riigiga, riigiks, riigil, riigile, riigilt, riigina, riigini, riigis, riigist, riik, riike, riiki, riikide, riikidega, riikidel, riikidele, riikides, riikidesse, riikidest</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “jalg+0”: <em>jala, jalg, jalga</em>.
+The 2nd highest number of forms (21) was observed with the lemma “aasta”: <em>aasta, aastad, aastaga, aastaid, aastail, aastaks, aastal, aastale, aastalgi, aastani, aastas, aastasse, aastast, aastat, aastate, aastatega, aastateks, aastatel, aastateni, aastatest, aastatki</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “jõgi+0”: <em>Jõgi, jõe, jõge</em>.
+The 3rd highest number of forms (19) was observed with the lemma “inimene”: <em>inimene, inimese, inimesed, inimesega, inimesel, inimesele, inimeselt, inimesesse, inimesest, inimesi, inimest, inimeste, inimestega, inimestel, inimestele, inimestelt, inimestes, inimestesse, inimestest</em>.
 
-`NOUN` occurs with 2 features: [et-feat/Case]() (3006; 99% instances), [et-feat/Number]() (3006; 99% instances)
+`NOUN` occurs with 10 features: [et-feat/Number]() (59475; 99% instances), [et-feat/Case]() (59466; 99% instances), [et-feat/Abbr]() (1100; 2% instances), [et-feat/Hyph]() (203; 0% instances), [et-feat/VerbForm]() (128; 0% instances), [et-feat/Tense]() (124; 0% instances), [et-feat/Voice]() (124; 0% instances), [et-feat/PronType]() (5; 0% instances), [et-feat/NumForm]() (3; 0% instances), [et-feat/Person]() (1; 0% instances)
 
-`NOUN` occurs with 17 feature-value pairs: `Case=Abe`, `Case=Abl`, `Case=Add`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Ter`, `Case=Tra`, `Number=Plur`, `Number=Sing`
+`NOUN` occurs with 29 feature-value pairs: `Abbr=Yes`, `Case=Abe`, `Case=Abl`, `Case=Add`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Ter`, `Case=Tra`, `Hyph=Yes`, `NumForm=Letter`, `NumForm=Roman`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Prs`, `PronType=Tot`, `Tense=Past`, `Tense=Pres`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`NOUN` occurs with 28 feature combinations.
-The most frequent feature combination is `Case=Gen|Number=Sing` (738 tokens).
-Examples: <em>laua, mehe, metsa, ukse, tee, akna, Telefoni, maja, toa, kella</em>
+`NOUN` occurs with 99 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing` (12416 tokens).
+Examples: <em>mees, inimene, naine, asi, riik, aeg, osa, president, enamik, ebavõrdsus</em>
 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 11 different relations: [et-dep/nmod]() (1835; 61% instances), [et-dep/nsubj]() (647; 21% instances), [et-dep/dobj]() (462; 15% instances), [et-dep/conj]() (50; 2% instances), [et-dep/root]() (19; 1% instances), [et-dep/advmod]() (11; 0% instances), [et-dep/acl]() (1; 0% instances), [et-dep/advcl]() (1; 0% instances), [et-dep/compound:prt]() (1; 0% instances), [et-dep/dep]() (1; 0% instances), [et-dep/iobj]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 25 different relations: [et-dep/nmod]() (29739; 49% instances), [et-dep/nsubj]() (9699; 16% instances), [et-dep/dobj]() (9471; 16% instances), [et-dep/conj]() (4113; 7% instances), [et-dep/root]() (1819; 3% instances), [et-dep/nsubj:cop]() (1779; 3% instances), [et-dep/appos]() (1401; 2% instances), [et-dep/xcomp]() (679; 1% instances), [et-dep/advcl]() (534; 1% instances), [et-dep/parataxis]() (334; 1% instances), [et-dep/advmod:quant]() (286; 0% instances), [et-dep/dep]() (153; 0% instances), [et-dep/ccomp]() (79; 0% instances), [et-dep/vocative]() (62; 0% instances), [et-dep/acl:relcl]() (51; 0% instances), [et-dep/foreign]() (38; 0% instances), [et-dep/acl]() (32; 0% instances), [et-dep/amod]() (19; 0% instances), [et-dep/list]() (19; 0% instances), [et-dep/compound]() (8; 0% instances), [et-dep/name]() (8; 0% instances), [et-dep/csubj]() (6; 0% instances), [et-dep/cc:preconj]() (4; 0% instances), [et-dep/cc]() (3; 0% instances), [et-dep/compound:prt]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 10 different parts of speech: [VERB]() (2500; 83% instances), [NOUN]() (328; 11% instances), [ADJ]() (58; 2% instances), [NUM]() (56; 2% instances), [PROPN]() (27; 1% instances), [PRON]() (23; 1% instances), [ROOT]() (19; 1% instances), [ADV]() (14; 0% instances), [AUX]() (2; 0% instances), [SCONJ]() (2; 0% instances)
+Parents of `NOUN` nodes belong to 15 different parts of speech: [VERB]() (35580; 59% instances), [NOUN]() (16341; 27% instances), [ADJ]() (3797; 6% instances), [ROOT]() (1819; 3% instances), [PROPN]() (1592; 3% instances), [ADV]() (399; 1% instances), [NUM]() (343; 1% instances), [PRON]() (332; 1% instances), [AUX]() (56; 0% instances), [ADP]() (45; 0% instances), [SYM]() (17; 0% instances), [X]() (8; 0% instances), [CONJ]() (4; 0% instances), [INTJ]() (2; 0% instances), [SCONJ]() (2; 0% instances)
 
-1758 (58%) `NOUN` nodes are leaves.
+22927 (38%) `NOUN` nodes are leaves.
 
-979 (32%) `NOUN` nodes have one child.
+23637 (39%) `NOUN` nodes have one child.
 
-198 (7%) `NOUN` nodes have two children.
+8248 (14%) `NOUN` nodes have two children.
 
-94 (3%) `NOUN` nodes have three or more children.
+5525 (9%) `NOUN` nodes have three or more children.
 
-The highest child degree of a `NOUN` node is 9.
+The highest child degree of a `NOUN` node is 26.
 
-Children of `NOUN` nodes are attached using 18 different relations: [et-dep/nmod]() (537; 31% instances), [et-dep/case]() (498; 29% instances), [et-dep/amod]() (388; 23% instances), [et-dep/punct]() (71; 4% instances), [et-dep/conj]() (51; 3% instances), [et-dep/cc]() (49; 3% instances), [et-dep/acl]() (32; 2% instances), [et-dep/nummod]() (29; 2% instances), [et-dep/nummod:gov]() (15; 1% instances), [et-dep/cop]() (13; 1% instances), [et-dep/mark]() (13; 1% instances), [et-dep/nsubj]() (13; 1% instances), [et-dep/advmod:emph]() (4; 0% instances), [et-dep/advmod]() (3; 0% instances), [et-dep/advcl]() (1; 0% instances), [et-dep/csubj]() (1; 0% instances), [et-dep/dep]() (1; 0% instances), [et-dep/dobj]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 34 different relations: [et-dep/nmod]() (16309; 26% instances), [et-dep/amod]() (11848; 19% instances), [et-dep/punct]() (5774; 9% instances), [et-dep/conj]() (4015; 6% instances), [et-dep/case]() (3999; 6% instances), [et-dep/acl]() (3001; 5% instances), [et-dep/cc]() (2952; 5% instances), [et-dep/det]() (2889; 5% instances), [et-dep/advmod]() (2596; 4% instances), [et-dep/nummod]() (2542; 4% instances), [et-dep/acl:relcl]() (1330; 2% instances), [et-dep/cop]() (1160; 2% instances), [et-dep/nsubj:cop]() (1094; 2% instances), [et-dep/nmod:poss]() (843; 1% instances), [et-dep/mark]() (665; 1% instances), [et-dep/advmod:quant]() (655; 1% instances), [et-dep/appos]() (419; 1% instances), [et-dep/parataxis]() (337; 1% instances), [et-dep/advcl]() (191; 0% instances), [et-dep/cc:preconj]() (126; 0% instances), [et-dep/dep]() (66; 0% instances), [et-dep/xcomp]() (45; 0% instances), [et-dep/nsubj]() (44; 0% instances), [et-dep/csubj:cop]() (35; 0% instances), [et-dep/discourse]() (31; 0% instances), [et-dep/foreign]() (31; 0% instances), [et-dep/dobj]() (30; 0% instances), [et-dep/compound:prt]() (11; 0% instances), [et-dep/name]() (10; 0% instances), [et-dep/compound]() (9; 0% instances), [et-dep/vocative]() (7; 0% instances), [et-dep/list]() (6; 0% instances), [et-dep/aux]() (2; 0% instances), [et-dep/ccomp]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 13 different parts of speech: [ADP]() (498; 29% instances), [ADJ]() (389; 23% instances), [NOUN]() (328; 19% instances), [PRON]() (144; 8% instances), [PROPN]() (113; 7% instances), [PUNCT]() (71; 4% instances), [VERB]() (47; 3% instances), [NUM]() (44; 3% instances), [CONJ]() (42; 2% instances), [ADV]() (23; 1% instances), [SCONJ]() (17; 1% instances), [PART]() (2; 0% instances), [X]() (2; 0% instances)
+Children of `NOUN` nodes belong to 15 different parts of speech: [NOUN]() (16341; 26% instances), [ADJ]() (14628; 23% instances), [PUNCT]() (5774; 9% instances), [PRON]() (5173; 8% instances), [PROPN]() (4403; 7% instances), [ADP]() (4018; 6% instances), [VERB]() (3313; 5% instances), [ADV]() (3165; 5% instances), [CONJ]() (2947; 5% instances), [NUM]() (2584; 4% instances), [SCONJ]() (640; 1% instances), [SYM]() (36; 0% instances), [INTJ]() (31; 0% instances), [X]() (18; 0% instances), [AUX]() (2; 0% instances)
 

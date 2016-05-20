@@ -83,3 +83,82 @@ The following 24 pairs of parts of speech are connected with `iobj`: [es-pos/VER
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+1771 nodes (0%) are attached to their parents as `iobj`.
+
+927 instances of `iobj` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.53359683794466.
+
+The following 12 pairs of parts of speech are connected with `iobj`: [es-pos/VERB]()-[es-pos/PRON]() (826; 47% instances), [es-pos/VERB]()-[es-pos/NOUN]() (511; 29% instances), [es-pos/VERB]()-[es-pos/PROPN]() (255; 14% instances), [es-pos/VERB]()-[es-pos/ADJ]() (152; 9% instances), [es-pos/VERB]()-[es-pos/ADV]() (10; 1% instances), [es-pos/VERB]()-[es-pos/ADP]() (4; 0% instances), [es-pos/VERB]()-[es-pos/NUM]() (4; 0% instances), [es-pos/AUX]()-[es-pos/NOUN]() (3; 0% instances), [es-pos/AUX]()-[es-pos/ADJ]() (2; 0% instances), [es-pos/AUX]()-[es-pos/PRON]() (2; 0% instances), [es-pos/VERB]()-[es-pos/SCONJ]() (1; 0% instances), [es-pos/VERB]()-[es-pos/SYM]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 iobj	color:blue
+1	Y	y	CONJ	CONJ	_	11	advmod	_	_
+2	tú	tú	PRON	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+3	con	con	ADP	ADP	AdpType=Prep	5	case	_	_
+4	tus	tu	DET	DET	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	_
+5	caras	cara	NOUN	NOUN	Gender=Fem|Number=Plur	11	nmod	_	_
+6	y	y	CONJ	CONJ	_	5	cc	_	_
+7	tus	tu	DET	DET	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det	_	_
+8	nombres	nombre	NOUN	NOUN	Gender=Masc|Number=Plur	5	conj	_	_
+9	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
+10	nos	yo	PRON	PRON	Number=Plur|Person=1|PronType=Prs	11	iobj	_	_
+11	dejaste	dejar	VERB	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+12	tutear	tutear	VERB	VERB	VerbForm=Inf	11	xcomp	_	_
+13	te	tú	PRON	PRON	Number=Plur|Person=2|PronType=Prs	12	dobj	_	_
+14	.	.	PUNCT	PUNCT	PunctType=Peri	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 iobj	color:blue
+1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	placa	placa	NOUN	NOUN	Gender=Fem|Number=Sing	4	iobj	_	_
+3	la	él	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	dobj	_	_
+4	forman	formar	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	cuatro	cuatro	NUM	NUM	Number=Plur|NumType=Card	6	nummod	_	_
+6	plafones	plafón	NOUN	NOUN	Gender=Masc|Number=Plur	4	nsubj	_	_
+7	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 10 iobj	color:blue
+1	Lo	él	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	dobj	_	_
+2	anuncian	anunciar	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	ADP	AdpType=Prep	5	case	_	_
+4	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	tele	tele	NOUN	NOUN	Gender=Fem|Number=Sing	2	nmod	_	_
+6	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
+7	en	en	ADP	ADP	AdpType=Prep	9	case	_	_
+8	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	prensa	prensa	NOUN	NOUN	Gender=Fem|Number=Sing	5	conj	_	_
+10	Ford	Ford	PROPN	PROPN	_	2	iobj	_	MWE=Ford_Mondeo|MWEPOS=PROPN
+11	Mondeo	Mondeo	PROPN	PROPN	_	10	name	_	_
+12	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
+
+~~~
+
+

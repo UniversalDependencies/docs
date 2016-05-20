@@ -14,15 +14,15 @@ The feature is used with 1 part-of-speech tags: [en-pos/PRON]() (14945; 6% insta
 
 ### `PRON`
 
-14945 [en-pos/PRON]() tokens (70% of all `PRON` tokens) have a non-empty value of `Case`.
+14945 [en-pos/PRON]() tokens (67% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (14945; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (14945; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (10947; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (9104; 61%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (14945; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (14945; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (10947; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (9104; 61%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (3171; 21% of non-empty `Case`): <em>me, it, you, them, him, us, her, yourself, myself, themselves</em>
 * `Nom` (11774; 79% of non-empty `Case`): <em>i, you, it, they, we, he, she</em>
-* `EMPTY` (6283): <em>my, your, this, what, their, there, his, our, who, that</em>
+* `EMPTY` (7332): <em>my, that, your, this, what, their, there, his, our, who</em>
 
 <table>
   <tr><th>Paradigm <i>I</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

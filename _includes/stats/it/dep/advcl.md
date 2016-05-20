@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3307 nodes (1%) are attached to their parents as `advcl`.
+3557 nodes (1%) are attached to their parents as `advcl`.
 
-2365 instances of `advcl` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.42576353190203.
+2598 instances of `advcl` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.00309249367444.
 
-The following 41 pairs of parts of speech are connected with `advcl`: [it-pos/VERB]()-[it-pos/VERB]() (2608; 79% instances), [it-pos/NOUN]()-[it-pos/VERB]() (260; 8% instances), [it-pos/ADJ]()-[it-pos/VERB]() (103; 3% instances), [it-pos/VERB]()-[it-pos/ADJ]() (93; 3% instances), [it-pos/VERB]()-[it-pos/NOUN]() (44; 1% instances), [it-pos/PRON]()-[it-pos/VERB]() (34; 1% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (27; 1% instances), [it-pos/ADV]()-[it-pos/VERB]() (17; 1% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (15; 0% instances), [it-pos/ADJ]()-[it-pos/ADJ]() (13; 0% instances), [it-pos/PROPN]()-[it-pos/VERB]() (13; 0% instances), [it-pos/PRON]()-[it-pos/NOUN]() (12; 0% instances), [it-pos/AUX]()-[it-pos/VERB]() (6; 0% instances), [it-pos/VERB]()-[it-pos/PRON]() (6; 0% instances), [it-pos/NUM]()-[it-pos/VERB]() (5; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (4; 0% instances), [it-pos/INTJ]()-[it-pos/VERB]() (4; 0% instances), [it-pos/VERB]()-[it-pos/PROPN]() (4; 0% instances), [it-pos/ADJ]()-[it-pos/PROPN]() (3; 0% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/PUNCT]()-[it-pos/VERB]() (3; 0% instances), [it-pos/VERB]()-[it-pos/AUX]() (3; 0% instances), [it-pos/ADJ]()-[it-pos/PRON]() (2; 0% instances), [it-pos/ADV]()-[it-pos/ADJ]() (2; 0% instances), [it-pos/DET]()-[it-pos/VERB]() (2; 0% instances), [it-pos/NOUN]()-[it-pos/AUX]() (2; 0% instances), [it-pos/NUM]()-[it-pos/ADJ]() (2; 0% instances), [it-pos/PRON]()-[it-pos/ADJ]() (2; 0% instances), [it-pos/PROPN]()-[it-pos/PRON]() (2; 0% instances), [it-pos/VERB]()-[it-pos/ADV]() (2; 0% instances), [it-pos/ADV]()-[it-pos/ADV]() (1; 0% instances), [it-pos/ADV]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/CONJ]()-[it-pos/VERB]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/NUM]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/NUM]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/PRON]()-[it-pos/PRON]() (1; 0% instances), [it-pos/PUNCT]()-[it-pos/NUM]() (1; 0% instances), [it-pos/SCONJ]()-[it-pos/VERB]() (1; 0% instances), [it-pos/SYM]()-[it-pos/VERB]() (1; 0% instances).
+The following 39 pairs of parts of speech are connected with `advcl`: [it-pos/VERB]()-[it-pos/VERB]() (2612; 73% instances), [it-pos/ADJ]()-[it-pos/VERB]() (304; 9% instances), [it-pos/NOUN]()-[it-pos/VERB]() (270; 8% instances), [it-pos/VERB]()-[it-pos/ADJ]() (102; 3% instances), [it-pos/PRON]()-[it-pos/VERB]() (46; 1% instances), [it-pos/VERB]()-[it-pos/NOUN]() (46; 1% instances), [it-pos/ADV]()-[it-pos/VERB]() (29; 1% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (27; 1% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (15; 0% instances), [it-pos/ADJ]()-[it-pos/ADJ]() (13; 0% instances), [it-pos/PROPN]()-[it-pos/VERB]() (13; 0% instances), [it-pos/PRON]()-[it-pos/NOUN]() (12; 0% instances), [it-pos/NUM]()-[it-pos/VERB]() (8; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (6; 0% instances), [it-pos/VERB]()-[it-pos/PRON]() (6; 0% instances), [it-pos/AUX]()-[it-pos/VERB]() (4; 0% instances), [it-pos/INTJ]()-[it-pos/VERB]() (4; 0% instances), [it-pos/VERB]()-[it-pos/PROPN]() (4; 0% instances), [it-pos/ADJ]()-[it-pos/PRON]() (3; 0% instances), [it-pos/ADJ]()-[it-pos/PROPN]() (3; 0% instances), [it-pos/DET]()-[it-pos/VERB]() (3; 0% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/PUNCT]()-[it-pos/VERB]() (3; 0% instances), [it-pos/ADV]()-[it-pos/ADJ]() (2; 0% instances), [it-pos/NUM]()-[it-pos/ADJ]() (2; 0% instances), [it-pos/PRON]()-[it-pos/ADJ]() (2; 0% instances), [it-pos/PROPN]()-[it-pos/PRON]() (2; 0% instances), [it-pos/VERB]()-[it-pos/ADV]() (2; 0% instances), [it-pos/ADV]()-[it-pos/ADV]() (1; 0% instances), [it-pos/ADV]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/CONJ]()-[it-pos/VERB]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/NUM]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/NUM]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/PRON]()-[it-pos/PRON]() (1; 0% instances), [it-pos/PUNCT]()-[it-pos/NUM]() (1; 0% instances), [it-pos/SCONJ]()-[it-pos/VERB]() (1; 0% instances), [it-pos/SYM]()-[it-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,6 +39,28 @@ The following 41 pairs of parts of speech are connected with `advcl`: [it-pos/VE
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 advcl	color:blue
+1	Ma	ma	CONJ	CC	_	2	cc	_	_
+2	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	pronto	pronto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	tendere	tendere	VERB	V	VerbForm=Inf	7	advcl	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	mano	mano	NOUN	S	Gender=Fem|Number=Sing	9	dobj	_	_
+12	:	:	PUNCT	FC	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
@@ -51,28 +73,6 @@ The following 41 pairs of parts of speech are connected with `advcl`: [it-pos/VE
 5	]	]	PUNCT	FB	_	3	punct	_	_
 6	)	)	PUNCT	FB	_	1	punct	_	_
 7	.	.	PUNCT	FS	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 5 advcl	color:blue
-1	Eppure	eppure	ADV	B	_	11	advmod	_	_
-2	,	,	PUNCT	FF	_	1	punct	_	_
-3	a	a	ADP	E	_	5	mark	_	_
-4	ben	bene	ADV	B	_	5	advmod	_	_
-5	guardare	guardare	VERB	V	VerbForm=Inf	11	advcl	_	_
-6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-7	"	"	PUNCT	FB	_	8	punct	_	_
-8	rimproveri	rimprovero	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
-9	"	"	PUNCT	FB	_	8	punct	_	_
-10	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-11	numerosi	numeroso	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
-12	.	.	PUNCT	FS	_	11	punct	_	_
 
 ~~~
 

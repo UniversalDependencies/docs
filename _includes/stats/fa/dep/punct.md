@@ -8,10 +8,10 @@ This relation is universal.
 
 13439 nodes (9%) are attached to their parents as `punct`.
 
-10498 instances of `punct` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.10834139444899.
+10499 instances of `punct` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.10796934295707.
 
-The following 14 pairs of parts of speech are connected with `punct`: [fa-pos/VERB]()-[fa-pos/PUNCT]() (7800; 58% instances), [fa-pos/NOUN]()-[fa-pos/PUNCT]() (3628; 27% instances), [fa-pos/ADJ]()-[fa-pos/PUNCT]() (1589; 12% instances), [fa-pos/PRON]()-[fa-pos/PUNCT]() (122; 1% instances), [fa-pos/NUM]()-[fa-pos/PUNCT]() (116; 1% instances), [fa-pos/ADP]()-[fa-pos/PUNCT]() (90; 1% instances), [fa-pos/ADV]()-[fa-pos/PUNCT]() (75; 1% instances), [fa-pos/X]()-[fa-pos/PUNCT]() (7; 0% instances), [fa-pos/INTJ]()-[fa-pos/PUNCT]() (5; 0% instances), [fa-pos/VERB]()-[fa-pos/VERB]() (3; 0% instances), [fa-pos/AUX]()-[fa-pos/PUNCT]() (1; 0% instances), [fa-pos/CONJ]()-[fa-pos/PUNCT]() (1; 0% instances), [fa-pos/DET]()-[fa-pos/PUNCT]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/VERB]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: [fa-pos/VERB]()-[fa-pos/PUNCT]() (7799; 58% instances), [fa-pos/NOUN]()-[fa-pos/PUNCT]() (3633; 27% instances), [fa-pos/ADJ]()-[fa-pos/PUNCT]() (1591; 12% instances), [fa-pos/PRON]()-[fa-pos/PUNCT]() (123; 1% instances), [fa-pos/NUM]()-[fa-pos/PUNCT]() (116; 1% instances), [fa-pos/ADP]()-[fa-pos/PUNCT]() (88; 1% instances), [fa-pos/ADV]()-[fa-pos/PUNCT]() (71; 1% instances), [fa-pos/X]()-[fa-pos/PUNCT]() (7; 0% instances), [fa-pos/INTJ]()-[fa-pos/PUNCT]() (5; 0% instances), [fa-pos/VERB]()-[fa-pos/VERB]() (3; 0% instances), [fa-pos/AUX]()-[fa-pos/PUNCT]() (1; 0% instances), [fa-pos/CONJ]()-[fa-pos/PUNCT]() (1; 0% instances), [fa-pos/NUM]()-[fa-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

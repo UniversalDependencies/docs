@@ -58,10 +58,10 @@ The following 12 pairs of parts of speech are connected with `expl`: [no-pos/VER
 3	nok	nok	ADV	_	_	8	advmod	_	_
 4	heller	heller	ADV	_	_	8	advmod	_	_
 5	Frps	Frp	PROPN	_	Case=Gen	8	det	_	_
-6	økte	øke	ADJ	_	Definite=Def|Number=Sing	8	amod	_	_
+6	økte	øke	ADJ	_	Definite=Def|Number=Sing|VerbForm=Part	8	amod	_	_
 7	politiske	politisk	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	8	amod	_	_
 8	kjøttvekt	kjøttvekt	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
-9	som	som	PRON	_	_	10	nsubj	_	_
+9	som	som	PRON	_	PronType=Rel	10	nsubj	_	_
 10	slår	slå	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 11	ut	ut	ADP	_	_	10	compound:prt	_	_
 12	.	$.	PUNCT	_	_	8	punct	_	_

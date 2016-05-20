@@ -58,7 +58,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Polite.html">Polite</a>=Pol|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td>करते</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Polite.html">Polite</a>=Pol|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>करते</td><td>करते</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td>करते</td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td>करता</td><td></td><td>करता, करवाता, करते</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td>करता</td><td></td><td>करता, करते, करवाता</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td>करते</td><td></td><td>करते</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Polite.html">Polite</a>=Pol|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करती</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करती</td></tr>
@@ -66,10 +66,10 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Polite.html">Polite</a>=Pol|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>करते</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td>करते</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td>किए</td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Polite.html">Polite</a>=Pol|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किए, किये, करा</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Polite.html">Polite</a>=Pol|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किए, करा, किये</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td>किए, किये</td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किया, करा, किए, करवाया, कर</td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>किया, करवाया, करा, कराया</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किया, करा, करवाया, किए, कर</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>किया, कराया, करवाया, करा</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Polite.html">Polite</a>=Pol|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किए</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td>किए</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>किए, करा, किये, किया</td></tr>
@@ -223,7 +223,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>यही, यह</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>इसी, यह</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>यह, इस, यही, ये, इसी</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>ये, यही, यह, इन</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>ये, यही, इन, यह</td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `DET`. 92% lemmas (12) occur only with one value of `Person`.
@@ -262,7 +262,7 @@ The most frequent other feature values with which `ADP` and `Person` co-occurred
 
 1371 [hi-pos/ADV]() tokens (42% of all `ADV` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADV` and `Person` co-occurred: <tt><a href="AdvType.html">AdvType</a>=EMPTY</tt> (1371; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1368; 100%), <tt><a href="AdpType.html">AdpType</a>=Post</tt> (1368; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1323; 96%), <tt><a href="Case.html">Case</a>=Nom</tt> (1132; 83%).
+The most frequent other feature values with which `ADV` and `Person` co-occurred: <tt><a href="AdvType.html">AdvType</a>=EMPTY</tt> (1371; 100%), <tt><a href="AdpType.html">AdpType</a>=Post</tt> (1368; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1368; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1323; 96%), <tt><a href="Case.html">Case</a>=Nom</tt> (1132; 83%).
 
 `ADV` tokens may have the following values of `Person`:
 
@@ -284,17 +284,6 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 `Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (144) occur only with one value of `Person`.
 
-### `X`
-
-2 [hi-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (2; 100%).
-
-`X` tokens may have the following values of `Person`:
-
-* `3` (2; 100% of non-empty `Person`): दर्जन, साथ
-* `EMPTY` (146): पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, अलग, आउट, आफ, इंटरसेप्ट
-
 ### `PART`
 
 2 [hi-pos/PART]() tokens (0% of all `PART` tokens) have a non-empty value of `Person`.
@@ -306,6 +295,26 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 * `3` (2; 100% of non-empty `Person`): भी
 * `EMPTY` (7007): भी, नहीं, ही, न, तो, करीब, से, भर, लगभग, सिर्फ
 
+### `X`
+
+2 [hi-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (2; 100%).
+
+`X` tokens may have the following values of `Person`:
+
+* `3` (2; 100% of non-empty `Person`): दर्जन, साथ
+* `EMPTY` (146): पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, अलग, आउट, आफ, इंटरसेप्ट
+
+### `CONJ`
+
+1 [hi-pos/CONJ]() tokens (0% of all `CONJ` tokens) have a non-empty value of `Person`.
+
+`CONJ` tokens may have the following values of `Person`:
+
+* `3` (1; 100% of non-empty `Person`): और
+* `EMPTY` (6426): और, व, लेकिन, जबकि, तथा, या, पर, एवं, अथवा, मगर
+
 ### `NUM`
 
 1 [hi-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Person`.
@@ -316,15 +325,6 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 
 * `3` (1; 100% of non-empty `Person`): पौन
 * `EMPTY` (6739): एक, दो, दोनों, तीन, करोड़, चार, लाख, हजार, पांच, छह
-
-### `CONJ`
-
-1 [hi-pos/CONJ]() tokens (0% of all `CONJ` tokens) have a non-empty value of `Person`.
-
-`CONJ` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): और
-* `EMPTY` (6426): और, व, लेकिन, जबकि, तथा, या, पर, एवं, अथवा, मगर
 
 ## Relations with Agreement in `Person`
 

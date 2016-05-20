@@ -4,86 +4,86 @@
 
 ## Treebank Statistics (UD_Estonian)
 
-There are 24 `AUX` lemmas (1%), 26 `AUX` types (1%) and 96 `AUX` tokens (1%).
-Out of 15 observed tags, the rank of `AUX` is: 9 in number of lemmas, 9 in number of types and 11 in number of tokens.
+There are 16 `AUX` lemmas (0%), 121 `AUX` types (0%) and 6294 `AUX` tokens (3%).
+Out of 15 observed tags, the rank of `AUX` is: 13 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>ei+0, ole+i, ole+0, ole+id, pida+i, ole+in, või+b, pida+ks, saa+i, saa+ks</em>
+The 10 most frequent `AUX` lemmas: <em>olema, ei, võima, pidama, saama, tohtima, ole, ära, saa, näima</em>
 
-The 10 most frequent `AUX` types:  <em>ei, oli, on, olid, pidi, olin, võib, peaks, saaks, sai</em>
+The 10 most frequent `AUX` types:  <em>ei, on, oli, võib, pole, peaks, peab, saab, oleks, saa</em>
 
-The 10 most frequent ambiguous lemmas: <em>ei+0</em> ([AUX]() 27, [ADV]() 1, [PART]() 1), <em>ole+i</em> ([VERB]() 21, [AUX]() 20), <em>ole+0</em> ([VERB]() 49, [AUX]() 13), <em>ole+id</em> ([AUX]() 6, [VERB]() 1), <em>pida+i</em> ([AUX]() 4, [VERB]() 1), <em>saa+i</em> ([VERB]() 2, [AUX]() 2), <em>saa+ks</em> ([AUX]() 2, [VERB]() 1), <em>hakka+ta</em> ([VERB]() 1, [AUX]() 1), <em>ole+d</em> ([VERB]() 1, [AUX]() 1), <em>ole+gi</em> ([VERB]() 1, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: <em>olema</em> ([VERB]() 6427, [AUX]() 2444), <em>ei</em> ([AUX]() 2211, [ADV]() 97, [NOUN]() 3), <em>võima</em> ([AUX]() 582, [VERB]() 13), <em>pidama</em> ([AUX]() 525, [VERB]() 239), <em>saama</em> ([VERB]() 783, [AUX]() 360), <em>ole</em> ([VERB]() 65, [AUX]() 44), <em>ära</em> ([ADV]() 296, [AUX]() 34), <em>saa</em> ([VERB]() 9, [AUX]() 9), <em>näima</em> ([VERB]() 19, [AUX]() 8), <em>pida</em> ([AUX]() 6, [VERB]() 5)
 
-The 10 most frequent ambiguous types:  <em>ei</em> ([AUX]() 26, [PART]() 1), <em>oli</em> ([VERB]() 20, [AUX]() 20), <em>on</em> ([VERB]() 44, [AUX]() 11), <em>olid</em> ([AUX]() 6, [VERB]() 2), <em>pidi</em> ([AUX]() 4, [ADP]() 2, [VERB]() 1), <em>saaks</em> ([AUX]() 2, [VERB]() 1), <em>sai</em> ([VERB]() 2, [AUX]() 2), <em>hakata</em> ([VERB]() 1, [AUX]() 1), <em>ole</em> ([VERB]() 3, [AUX]() 1), <em>oleks</em> ([VERB]() 1, [AUX]() 1)
+The 10 most frequent ambiguous types:  <em>ei</em> ([AUX]() 2128, [ADV]() 46, [NOUN]() 2), <em>on</em> ([VERB]() 3459, [AUX]() 1397), <em>oli</em> ([VERB]() 825, [AUX]() 309), <em>võib</em> ([AUX]() 287, [VERB]() 2), <em>pole</em> ([VERB]() 383, [AUX]() 174), <em>peaks</em> ([AUX]() 159, [VERB]() 6), <em>peab</em> ([AUX]() 125, [VERB]() 29), <em>saab</em> ([VERB]() 134, [AUX]() 122), <em>oleks</em> ([VERB]() 150, [AUX]() 119), <em>saa</em> ([AUX]() 114, [VERB]() 57)
 
 
 * <em>ei</em>
-  * [AUX]() 26: <em>Enne 2000.-2001. aastat <b>ei</b> peaks riik kaalumagi 51 protsendi müüki .</em>
-  * [PART]() 1: <em><b>ei</b> , Marel ei ole .</em>
-* <em>oli</em>
-  * [VERB]() 20: <em>Algul <b>oli</b> selle vastu Kadrioru ajutrust .</em>
-  * [AUX]() 20: <em>Ta <b>oli</b> seejärel otsustavalt mehe rinnale viskunud .</em>
+  * [AUX]() 2128: <em>Ta <b>ei</b> osanud lukke muukida või uksi lõhkuda .</em>
+  * [ADV]() 46: <em>Praegu pole <b>ei</b> õiguslikku ega julgeoleku ohtu .</em>
+  * [NOUN]() 2: <em>Shveitslased ütlesid rahvaküsitlusel kindla " <b>ei</b> " ettepanekule kehtestada asulates piirkiiruseks 30 km/h .</em>
 * <em>on</em>
-  * [VERB]() 44: <em>Lennarti-lood <b>on</b> aga nagu pikantne prantsuse film .</em>
-  * [AUX]() 11: <em>Aga Lennart eksis , kui arvas , et võitlus <b>on</b> lõppenud .</em>
-* <em>olid</em>
-  * [AUX]() 6: <em>Kui tulijad majja sisenenud <b>olid</b> .</em>
-  * [VERB]() 2: <em>Winston keeras nuppu ja hääl jäi veidi vaiksemaks , kuigi sõnad <b>olid</b> endiselt selged .</em>
-* <em>pidi</em>
-  * [AUX]() 4: <em>Järgmine hetk <b>pidi</b> peaaegu toolilt maha prantsatama .</em>
-  * [ADP]() 2: <em>TV-kaableid <b>pidi</b> saab ka telefonisignaale edastada .</em>
-  * [VERB]() 1: <em>see on ta <b>pidi</b> see mis sealt külje pealt eest laetav , noh sa tead</em>
-* <em>saaks</em>
-  * [AUX]() 2: <em>Nii on suurel keskmehel võimalik endale tänuvõlglasi tekitada , kellelt <b>saaks</b> hiljem riigikogus ühtteist välja pressida .</em>
-  * [VERB]() 1: <em>Siis ta küsis , kas ei <b>saaks</b> tund aega .</em>
-* <em>sai</em>
-  * [VERB]() 2: <em>Tema meelest <b>sai</b> riik Telia tulekuga siinsele kaabel-tv turule miljardeid kroone kahju .</em>
-  * [AUX]() 2: <em>Seda riistapuud ( mille nimi oli teleekraan ) <b>sai</b> küll vaiksemaks keerata , aga võimatu oli seda täiesti välja lülitada .</em>
-* <em>hakata</em>
-  * [VERB]() 1: <em>Isamaaliidu piinlikuks osaks jäi selgitada , kust tuli neile pähe mõte rahva soosikute Lennart Meri ja Arnold Rüütli kõrvale kedagi kolmandat otsima <b>hakata</b> .</em>
-  * [AUX]() 1: <em>Nende eesmärk oli saada Eesti Kaabeltelevisooni Ettevõtete Liidu nimi ja selle sildi all avalikkust Telia kasuks mõjutama <b>hakata</b> .</em>
-* <em>ole</em>
-  * [VERB]() 3: <em>Palts kinnitab , et isiklikult ei <b>ole</b> tal Kerni vastu midagi .</em>
-  * [AUX]() 1: <em>Lennart ei <b>ole</b> kunagi Arnoldile halastanud .</em>
+  * [VERB]() 3459: <em>" Ma usun , et ta <b>on</b> kohe-kohe ärkamas , kui mitte juba ärganud .</em>
+  * [AUX]() 1397: <em>Tundus , et pisikesed elukad narmaste vahel <b>on</b> paigale tardunud .</em>
+* <em>oli</em>
+  * [VERB]() 825: <em>Selle üle <b>oli</b> tal eriti suur rõõm .</em>
+  * [AUX]() 309: <em>Vana mehe pea <b>oli</b> rinnale langenud , ta magas .</em>
+* <em>võib</em>
+  * [AUX]() 287: <em>Samuti <b>võib</b> osutuda , et olen jälle peol ja kallim sosistab :</em>
+  * [VERB]() 2: <em>Kaua <b>võib</b> ! "</em>
+* <em>pole</em>
+  * [VERB]() 383: <em>" See <b>pole</b> Leemet !</em>
+  * [AUX]() 174: <em>Neis <b>pole</b> käinud sa , ei iialgi saa käia .</em>
+* <em>peaks</em>
+  * [AUX]() 159: <em>Mistõttu <b>peaks</b> kasvatusruumi iga nädal pisut tuulutama .</em>
+  * [VERB]() 6: <em>Lahkuma peavad need , kelle töö ei ole olnud nii tulemuslik kui <b>peaks</b> .</em>
+* <em>peab</em>
+  * [AUX]() 125: <em>Kella kaheks <b>peab</b> asi aetud olema !</em>
+  * [VERB]() 29: <em>Samas <b>peab</b> ta riigi tähelepanu ikkagi väikeseks .</em>
+* <em>saab</em>
+  * [VERB]() 134: <em>Nüüd hakkas see etapp lõppema : mereäärne villa <b>saab</b> augustis valmis .</em>
+  * [AUX]() 122: <em>Jõuan liiga hilja , helin lakkab enne kui toru tõstetud <b>saab</b> .</em>
 * <em>oleks</em>
-  * [VERB]() 1: <em>' Kui Eesti <b>oleks</b> Euroopa Liidu liige , siis ei saaks Telia kaabliärisse minna , ' kuulutab Palts jättes mulje jõuetust vihast .</em>
-  * [AUX]() 1: <em>Muidu <b>oleks</b> nad ju akna manu tormanud aisakellasid kuulama .</em>
+  * [VERB]() 150: <em>Aga parem <b>oleks</b> , kui oleksid hoopis pirukad .</em>
+  * [AUX]() 119: <em>Isa jäi tõsiseks ja <b>oleks</b> äärepealt peatusest mööda põrutanud .</em>
+* <em>saa</em>
+  * [AUX]() 114: <em>Neis pole käinud sa , ei iialgi <b>saa</b> käia .</em>
+  * [VERB]() 57: <em>Mingil ajal ärkan üles ega <b>saa</b> millestki aru .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.083333 (the average of all parts of speech is 1.041949).
+The form / lemma ratio of `AUX` is 7.562500 (the average of all parts of speech is 1.839644).
 
-The 1st highest number of forms (3) was observed with the lemma “ole+0”: <em>ole, on, pole</em>.
+The 1st highest number of forms (32) was observed with the lemma “olema”: <em>oldi, ole, oled, olegi, oleks, oleksid, oleksime, oleksin, olekski, olema, oleme, olen, olete, olevat, olgu, oli, olid, oligi, olime, olin, olla, ollakse, olles, olnud, on, ongi, pole, polegi, poleks, polekski, polevat, polnud</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “asu+b”: <em>asub</em>.
+The 2nd highest number of forms (24) was observed with the lemma “saama”: <em>saa, saab, saabki, saad, saada, saagi, saaks, saaksid, saaksime, saaksite, saama, saame, saan, saand, saanud, saanudki, saanuks, saate, saavad, saavat, sai, said, saime, sain</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “ei+0”: <em>ei</em>.
+The 3rd highest number of forms (23) was observed with the lemma “pidama”: <em>pea, peab, peabki, pead, peagi, peaks, peaksid, peaksime, peaksin, peakski, peame, pean, peate, peavad, pidada, pidanud, pidanuks, pidavat, pidi, pidid, pidigi, pidime, pidin</em>.
 
-`AUX` occurs with 6 features: [et-feat/Negative]() (94; 98% instances), [et-feat/VerbForm]() (69; 72% instances), [et-feat/Tense]() (68; 71% instances), [et-feat/Mood]() (67; 70% instances), [et-feat/Number]() (60; 63% instances), [et-feat/Person]() (60; 63% instances)
+`AUX` occurs with 9 features: [et-feat/VerbForm]() (6294; 100% instances), [et-feat/Mood]() (6222; 99% instances), [et-feat/Voice]() (4066; 65% instances), [et-feat/Tense]() (4057; 64% instances), [et-feat/Number]() (3046; 48% instances), [et-feat/Person]() (3046; 48% instances), [et-feat/Negative]() (2447; 39% instances), [et-feat/Connegative]() (341; 5% instances), [et-feat/Case]() (9; 0% instances)
 
-`AUX` occurs with 15 feature-value pairs: `Mood=Cnd`, `Mood=Ind`, `Negative=Neg`, `Negative=Pos`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 22 feature-value pairs: `Case=Ill`, `Connegative=Yes`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Qot`, `Negative=Neg`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Sup`, `Voice=Act`, `Voice=Pass`
 
-`AUX` occurs with 14 feature combinations.
-The most frequent feature combination is `Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin` (27 tokens).
-Examples: <em>oli, pidi, sai, hakkas</em>
+`AUX` occurs with 50 feature combinations.
+The most frequent feature combination is `Mood=Ind|Negative=Neg|VerbForm=Fin` (2070 tokens).
+Examples: <em>ei</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: [et-dep/aux]() (67; 70% instances), [et-dep/neg]() (27; 28% instances), [et-dep/compound]() (1; 1% instances), [et-dep/root]() (1; 1% instances)
+`AUX` nodes are attached to their parents using 5 different relations: [et-dep/aux]() (4041; 64% instances), [et-dep/neg]() (2245; 36% instances), [et-dep/auxpass]() (6; 0% instances), [et-dep/compound]() (1; 0% instances), [et-dep/root]() (1; 0% instances)
 
-Parents of `AUX` nodes belong to 3 different parts of speech: [VERB]() (94; 98% instances), [ADJ]() (1; 1% instances), [ROOT]() (1; 1% instances)
+Parents of `AUX` nodes belong to 5 different parts of speech: [VERB]() (5989; 95% instances), [AUX]() (301; 5% instances), [NOUN]() (2; 0% instances), [ADJ]() (1; 0% instances), [ROOT]() (1; 0% instances)
 
-95 (99%) `AUX` nodes are leaves.
+5901 (94%) `AUX` nodes are leaves.
 
-0 (0%) `AUX` nodes have one child.
+356 (6%) `AUX` nodes have one child.
 
-0 (0%) `AUX` nodes have two children.
+28 (0%) `AUX` nodes have two children.
 
-1 (1%) `AUX` nodes have three or more children.
+9 (0%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 4.
 
-Children of `AUX` nodes are attached using 4 different relations: [et-dep/compound]() (1; 25% instances), [et-dep/nmod]() (1; 25% instances), [et-dep/nsubj]() (1; 25% instances), [et-dep/punct]() (1; 25% instances)
+Children of `AUX` nodes are attached using 16 different relations: [et-dep/neg]() (301; 68% instances), [et-dep/nsubj]() (30; 7% instances), [et-dep/nmod]() (22; 5% instances), [et-dep/mark]() (21; 5% instances), [et-dep/punct]() (21; 5% instances), [et-dep/dobj]() (18; 4% instances), [et-dep/advmod]() (14; 3% instances), [et-dep/cc]() (4; 1% instances), [et-dep/conj]() (3; 1% instances), [et-dep/advcl]() (2; 0% instances), [et-dep/amod]() (1; 0% instances), [et-dep/compound]() (1; 0% instances), [et-dep/compound:prt]() (1; 0% instances), [et-dep/csubj]() (1; 0% instances), [et-dep/parataxis]() (1; 0% instances), [et-dep/xcomp]() (1; 0% instances)
 
-Children of `AUX` nodes belong to 3 different parts of speech: [NOUN]() (2; 50% instances), [PUNCT]() (1; 25% instances), [VERB]() (1; 25% instances)
+Children of `AUX` nodes belong to 12 different parts of speech: [AUX]() (301; 68% instances), [NOUN]() (56; 13% instances), [PUNCT]() (21; 5% instances), [SCONJ]() (20; 5% instances), [ADV]() (17; 4% instances), [PROPN]() (8; 2% instances), [PRON]() (7; 2% instances), [CONJ]() (4; 1% instances), [VERB]() (4; 1% instances), [ADJ]() (2; 0% instances), [NUM]() (1; 0% instances), [X]() (1; 0% instances)
 

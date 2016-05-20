@@ -72,3 +72,63 @@ The following 15 pairs of parts of speech are connected with `root`: [es-pos/ROO
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+17680 nodes (3%) are attached to their parents as `root`.
+
+17680 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.60226244343891.
+
+The following 16 pairs of parts of speech are connected with `root`: [es-pos/ROOT]()-[es-pos/VERB]() (14266; 81% instances), [es-pos/ROOT]()-[es-pos/NOUN]() (1508; 9% instances), [es-pos/ROOT]()-[es-pos/ADJ]() (915; 5% instances), [es-pos/ROOT]()-[es-pos/AUX]() (273; 2% instances), [es-pos/ROOT]()-[es-pos/PROPN]() (175; 1% instances), [es-pos/ROOT]()-[es-pos/PRON]() (157; 1% instances), [es-pos/ROOT]()-[es-pos/CONJ]() (134; 1% instances), [es-pos/ROOT]()-[es-pos/ADV]() (126; 1% instances), [es-pos/ROOT]()-[es-pos/ADP]() (44; 0% instances), [es-pos/ROOT]()-[es-pos/NUM]() (27; 0% instances), [es-pos/ROOT]()-[es-pos/INTJ]() (23; 0% instances), [es-pos/ROOT]()-[es-pos/PUNCT]() (12; 0% instances), [es-pos/ROOT]()-[es-pos/DET]() (8; 0% instances), [es-pos/ROOT]()-[es-pos/SCONJ]() (6; 0% instances), [es-pos/ROOT]()-[es-pos/SYM]() (4; 0% instances), [es-pos/ROOT]()-[es-pos/PART]() (2; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	Desde	desde	ADP	ADP	AdpType=Prep	2	case	_	_
+2	entonces	entonces	ADV	ADV	_	3	advmod	_	_
+3	entró	entrar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	ADP	AdpType=Prep	5	case	_	_
+5	silencio	silencio	NOUN	NOUN	Gender=Masc|Number=Sing	3	nmod	_	_
+6	absoluto	absoluto	ADJ	ADJ	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	Sí	sí	ADV	ADV	_	3	advmod	_	_
+2	,	,	PUNCT	PUNCT	PunctType=Comm	1	punct	_	_
+3	señor	señor	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 2 root	color:blue
+1	Eran	ser	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	idénticos	idéntico	ADJ	ADJ	Gender=Masc|Number=Plur	0	root	_	_
+3	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
+
+~~~
+
+

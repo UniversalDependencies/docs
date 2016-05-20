@@ -23,8 +23,8 @@ The following 7 pairs of parts of speech are connected with `iobj`: [no-pos/VERB
 1	Berntsen	Berntsen	PROPN	_	_	3	nsubj	_	_
 2	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	påtatt	påta	VERB	_	VerbForm=Part	0	root	_	_
-4	seg	seg	PRON	_	Case=Acc|Reflex=Yes	3	iobj	_	_
-5	en	en	DET	_	Gender=Masc|Number=Sing	10	det	_	_
+4	seg	seg	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	iobj	_	_
+5	en	en	DET	_	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 6	både	både	CONJ	_	_	7	cc	_	_
 7	viktig	viktig	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	10	amod	_	_
 8	og	og	CONJ	_	_	7	cc	_	_

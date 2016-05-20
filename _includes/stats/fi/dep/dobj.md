@@ -74,32 +74,12 @@ The following 15 pairs of parts of speech are connected with `dobj`: [fi-pos/VER
 
 This relation is universal.
 
-9458 nodes (6%) are attached to their parents as `dobj`.
+8660 nodes (5%) are attached to their parents as `dobj`.
 
-6545 instances of `dobj` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.90854303235356.
+6055 instances of `dobj` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.91928406466513.
 
-The following 12 pairs of parts of speech are connected with `dobj`: [fi-pos/VERB]()-[fi-pos/NOUN]() (6863; 73% instances), [fi-pos/VERB]()-[fi-pos/PRON]() (1774; 19% instances), [fi-pos/VERB]()-[fi-pos/PROPN]() (309; 3% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (232; 2% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (202; 2% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (35; 0% instances), [fi-pos/VERB]()-[fi-pos/NUM]() (24; 0% instances), [fi-pos/NOUN]()-[fi-pos/PROPN]() (8; 0% instances), [fi-pos/ADV]()-[fi-pos/NOUN]() (4; 0% instances), [fi-pos/NOUN]()-[fi-pos/ADJ]() (4; 0% instances), [fi-pos/ADJ]()-[fi-pos/NOUN]() (2; 0% instances), [fi-pos/ADV]()-[fi-pos/ADJ]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 dobj	color:blue
-1	Saulista	sauli	PROPN	N,Prop,Sg,Ela	Case=Ela|Number=Sing	2	nmod	_	_
-2	huomattiin	huomata	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|Voice=Pass	0	root	_	_
-3	jo	jo	ADV	Pcle	_	4	advmod	_	_
-4	lapsena	lapsi	NOUN	N,Sg,Ess	Case=Ess|Number=Sing	2	nmod	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	_
-6	että	että	SCONJ	Pcle,CS	_	8	mark	_	_
-7	hänellä	hän	PRON	Pron,Pers,Sg3,Ade	Case=Ade|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-8	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	ccomp	_	_
-9	lahjoja	lahja	NOUN	N,Pl,Par	Case=Par|Number=Plur	8	dobj	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
-
-~~~
+The following 14 pairs of parts of speech are connected with `dobj`: [fi-pos/VERB]()-[fi-pos/NOUN]() (6349; 73% instances), [fi-pos/VERB]()-[fi-pos/PRON]() (1743; 20% instances), [fi-pos/VERB]()-[fi-pos/PROPN]() (308; 4% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (185; 2% instances), [fi-pos/VERB]()-[fi-pos/VERB]() (22; 0% instances), [fi-pos/VERB]()-[fi-pos/NUM]() (20; 0% instances), [fi-pos/NOUN]()-[fi-pos/NOUN]() (16; 0% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (5; 0% instances), [fi-pos/ADV]()-[fi-pos/NOUN]() (4; 0% instances), [fi-pos/VERB]()-[fi-pos/X]() (3; 0% instances), [fi-pos/ADJ]()-[fi-pos/NOUN]() (2; 0% instances), [fi-pos/ADV]()-[fi-pos/ADJ]() (1; 0% instances), [fi-pos/NOUN]()-[fi-pos/PROPN]() (1; 0% instances), [fi-pos/X]()-[fi-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -108,33 +88,42 @@ The following 12 pairs of parts of speech are connected with `dobj`: [fi-pos/VER
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 dobj	color:blue
-1	Tapaaminen	tapaaminen	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nsubj	_	_
-2	ensi	ensi	ADJ	A	_	3	amod	_	_
-3	viikolla	viikko	NOUN	N,Sg,Ade	Case=Ade|Number=Sing	1	nmod	_	_
-4	jännittää	jännittää	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-5	minua	minä	PRON	Pron,Pers,Sg1,Par	Case=Par|Number=Sing|Person=1|PronType=Prs	4	dobj	_	_
-6	vähän	vähän	ADV	Adv	_	4	advmod	_	_
-7	.	.	PUNCT	Pun	_	6	punct	_	_
+1	aurinko	aurinko	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nsubj	_	_
+2	armas	armas	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	1	amod	_	_
+3	,	,	PUNCT	Pun	_	2	punct	_	_
+4	kuivas	kuivata	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	satehen	sade	NOUN	N,Sg,Gen	Case=Gen|Number=Sing|Style=Coll	4	dobj	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 dobj	color:blue
-1	Kyllä	kyllä	ADV	Pcle	_	4	advmod	_	_
-2	se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	7	dep	_	Missed-Deprel=phrm
-3	olin	olla	VERB	V,Act,Ind,Past,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	4	cop	_	_
-4	minä	minä	PRON	Pron,Pers,Sg1,Nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	_
-6	joka	joka	PRON	Pron,Rel,Sg,Nom	Case=Nom|Number=Sing|PronType=Rel	7	nsubj	_	_
-7	opetin	opettaa	VERB	V,Act,Ind,Past,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	4	csubj	_	_
-8	Linnan	linna	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	7	dobj	_	_
-9	kiroilemaan	kiroilla	VERB	V,Act,InfMa,Ill	Case=Ill|InfForm=3|VerbForm=Inf|Voice=Act	7	advcl	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 dobj	color:blue
+1	Hän	hän	PRON	Pron,Pers,Sg3,Nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	kertokoon	kertoa	VERB	V,Act,Imprt,Sg3	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+3	sen	se	PRON	Pron,Dem,Sg,Gen	Case=Gen|Number=Sing|PronType=Dem	2	dobj	_	_
+4	.	.	PUNCT	Pun	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 dobj	color:blue
+1	Merjaa	merja	PROPN	N,Prop,Sg,Par	Case=Par|Number=Sing	2	dobj	_	_
+2	kiukutti	kiukuttaa	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Lassen	lasse	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	4	nmod	_	_
+4	hyväluontoisuus	hyväluontoisuus	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	2	nsubj	_	_
+5	ja	ja	CONJ	Pcle,CC	_	4	cc	_	_
+6	typeryys	typeryys	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	Pun	_	6	punct	_	_
 
 ~~~
 

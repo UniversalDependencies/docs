@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-914 nodes (0%) are attached to their parents as `iobj`.
+995 nodes (0%) are attached to their parents as `iobj`.
 
-676 instances of `iobj` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.72866520787746.
+739 instances of `iobj` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.78492462311558.
 
-The following 8 pairs of parts of speech are connected with `iobj`: [pt-pos/VERB]()-[pt-pos/NOUN]() (442; 48% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (359; 39% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (100; 11% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (5; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `iobj`: [pt-pos/VERB]()-[pt-pos/NOUN]() (486; 49% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (386; 39% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (107; 11% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (5; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -67,8 +67,8 @@ The following 8 pairs of parts of speech are connected with `iobj`: [pt-pos/VERB
 5	hoje	hoje	ADV	adv	_	4	advmod	_	_
 6	pronta	pronto	ADJ	adj|F|S	Gender=Fem|Number=Sing	4	xcomp	_	_
 7	a	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	Lei	Lei	PROPN	prop|F|S	_	4	iobj	_	_
-9	da	da	ADP	ADP	AdpType=Prep|Gender=Fem|Number=Sing	10	case	_	_
+8	Lei	Lei	PROPN	prop|F|S	_	4	iobj	_	MWE=Lei_da_Greve|MWEPOS=PROPN
+9	da	da	ADP	ADP	AdpType=Preppron|Definite=Def|Gender=Fem|Number=Sing	10	case	_	_
 10	Greve	Greve	PROPN	PROPN	_	8	name	_	_
 11	.	.	PUNCT	punc	_	3	punct	_	_
 

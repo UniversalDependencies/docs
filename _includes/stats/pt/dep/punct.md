@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-30269 nodes (13%) are attached to their parents as `punct`.
+29964 nodes (13%) are attached to their parents as `punct`.
 
-23760 instances of `punct` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.0282136839671.
+23496 instances of `punct` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.06277533039648.
 
-The following 46 pairs of parts of speech are connected with `punct`: [pt-pos/VERB]()-[pt-pos/PUNCT]() (15349; 51% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (8039; 27% instances), [pt-pos/PROPN]()-[pt-pos/PUNCT]() (4189; 14% instances), [pt-pos/ADJ]()-[pt-pos/PUNCT]() (1297; 4% instances), [pt-pos/PRON]()-[pt-pos/PUNCT]() (348; 1% instances), [pt-pos/ADV]()-[pt-pos/PUNCT]() (204; 1% instances), [pt-pos/NUM]()-[pt-pos/PUNCT]() (180; 1% instances), [pt-pos/SYM]()-[pt-pos/PUNCT]() (91; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (88; 0% instances), [pt-pos/DET]()-[pt-pos/PUNCT]() (83; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (65; 0% instances), [pt-pos/ADP]()-[pt-pos/PUNCT]() (61; 0% instances), [pt-pos/CONJ]()-[pt-pos/PUNCT]() (33; 0% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (32; 0% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (26; 0% instances), [pt-pos/INTJ]()-[pt-pos/PUNCT]() (23; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (19; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (19; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (17; 0% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (14; 0% instances), [pt-pos/AUX]()-[pt-pos/PUNCT]() (13; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PUNCT]() (13; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (9; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (9; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (6; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/PUNCT]()-[pt-pos/PUNCT]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/AUX]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: [pt-pos/VERB]()-[pt-pos/PUNCT]() (15231; 51% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (8107; 27% instances), [pt-pos/PROPN]()-[pt-pos/PUNCT]() (4241; 14% instances), [pt-pos/ADJ]()-[pt-pos/PUNCT]() (1338; 4% instances), [pt-pos/PRON]()-[pt-pos/PUNCT]() (316; 1% instances), [pt-pos/NUM]()-[pt-pos/PUNCT]() (207; 1% instances), [pt-pos/ADV]()-[pt-pos/PUNCT]() (202; 1% instances), [pt-pos/DET]()-[pt-pos/PUNCT]() (122; 0% instances), [pt-pos/SYM]()-[pt-pos/PUNCT]() (91; 0% instances), [pt-pos/ADP]()-[pt-pos/PUNCT]() (31; 0% instances), [pt-pos/CONJ]()-[pt-pos/PUNCT]() (29; 0% instances), [pt-pos/INTJ]()-[pt-pos/PUNCT]() (22; 0% instances), [pt-pos/AUX]()-[pt-pos/PUNCT]() (13; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PUNCT]() (13; 0% instances), [pt-pos/PUNCT]()-[pt-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 46 pairs of parts of speech are connected with `punct`: [pt-pos/VE
 5	seu	seu	DET	pron-det|<poss|3S>|M|S	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	filho	filho	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 7	,	,	PUNCT	punc	_	6	punct	_	_
-8	Sérgio	Sérgio	PROPN	prop|M|S	_	6	appos	_	_
+8	Sérgio	Sérgio	PROPN	prop|M|S	_	6	appos	_	MWE=Sérgio_Fioravanti|MWEPOS=PROPN
 9	Fioravanti	Fioravanti	PROPN	PROPN	_	8	name	_	_
 10	.	.	PUNCT	punc	_	6	punct	_	_
 
@@ -60,7 +60,7 @@ The following 46 pairs of parts of speech are connected with `punct`: [pt-pos/VE
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 punct	color:blue
-1	Pedro	Pedro	PROPN	prop|M|S	_	0	root	_	_
+1	Pedro	Pedro	PROPN	prop|M|S	_	0	root	_	MWE=Pedro_Ivo|MWEPOS=PROPN
 2	Ivo	Ivo	PROPN	PROPN	_	1	name	_	_
 3	,	,	PUNCT	punc	_	1	punct	_	_
 4	63	63	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_

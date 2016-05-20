@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` types:  <em>dass, da, wenn, als, daß, nachdem, wei
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 53291, [PUNCT]() 39056, [DET]() 37037, [ADP]() 32362, [PROPN]() 32323, [VERB]() 25041, [ADJ]() 21279, [PRON]() 15077, [ADV]() 14911, [CONJ]() 8938, [NUM]() 7632, [AUX]() 6913, [PART]() 2202, [SCONJ]() 1810, [X]() 370)
 
-The 10 most frequent ambiguous types:  <em>dass</em> ([SCONJ]() 505, [CONJ]() 8, [PRON]() 7, [PROPN]() 2, [DET]() 1), <em>da</em> ([SCONJ]() 127, [ADV]() 39, [PROPN]() 4), <em>wenn</em> ([SCONJ]() 118, [CONJ]() 4), <em>als</em> ([ADP]() 1288, [CONJ]() 123, [SCONJ]() 86, [ADV]() 17, [PROPN]() 1, [PART]() 1), <em>daß</em> ([SCONJ]() 112, [CONJ]() 9, [PRON]() 1, [PROPN]() 1), <em>weil</em> ([SCONJ]() 76, [CONJ]() 1), <em>während</em> ([ADP]() 91, [SCONJ]() 42), <em>ob</em> ([SCONJ]() 46, [CONJ]() 3, [ADV]() 1, [ADP]() 1, [PROPN]() 1), <em>wie</em> ([ADP]() 234, [CONJ]() 103, [ADV]() 50, [SCONJ]() 45, [PRON]() 5, [X]() 2, [PART]() 2), <em>wobei</em> ([SCONJ]() 47, [ADV]() 5, [CONJ]() 2, [PRON]() 1)
+The 10 most frequent ambiguous types:  <em>dass</em> ([SCONJ]() 505, [CONJ]() 8, [PRON]() 7, [PROPN]() 2, [DET]() 1), <em>da</em> ([SCONJ]() 127, [ADV]() 39, [PROPN]() 4), <em>wenn</em> ([SCONJ]() 118, [CONJ]() 4), <em>als</em> ([ADP]() 1288, [CONJ]() 123, [SCONJ]() 86, [ADV]() 17, [PART]() 1, [PROPN]() 1), <em>daß</em> ([SCONJ]() 112, [CONJ]() 9, [PRON]() 1, [PROPN]() 1), <em>weil</em> ([SCONJ]() 76, [CONJ]() 1), <em>während</em> ([ADP]() 91, [SCONJ]() 42), <em>ob</em> ([SCONJ]() 46, [CONJ]() 3, [PROPN]() 1, [ADP]() 1, [ADV]() 1), <em>wie</em> ([ADP]() 234, [CONJ]() 103, [ADV]() 50, [SCONJ]() 45, [PRON]() 5, [PART]() 2, [X]() 2), <em>wobei</em> ([SCONJ]() 47, [ADV]() 5, [CONJ]() 2, [PRON]() 1)
 
 
 * <em>dass</em>
@@ -34,8 +34,8 @@ The 10 most frequent ambiguous types:  <em>dass</em> ([SCONJ]() 505, [CONJ]() 8,
   * [CONJ]() 123: <em>Ganz anders <b>als</b> in Zepernick .</em>
   * [SCONJ]() 86: <em>Das Hotel sah aus <b>als</b> wäre es kurz davor abgerissen zu werden .</em>
   * [ADV]() 17: <em>Noch nie habe ich so schlechte Service gehabt <b>als</b> bei Biotopia .</em>
-  * [PROPN]() 1: <em>Die daraus entstandene Legende diente als Vorlage für das 1927 von dem lettischen Schriftsteller Jānis Rainis veröffentlichte Drama " Die Liebe ist stärker <b>als</b> der Tod " , diese ist in dem ganzen Land bekannt .</em>
   * [PART]() 1: <em>Hierbei variiert die Mächtigkeit der Gänge zwischen wenigen Millimetern bis zu mehr <b>als</b> 100 Metern .</em>
+  * [PROPN]() 1: <em>Die daraus entstandene Legende diente als Vorlage für das 1927 von dem lettischen Schriftsteller Jānis Rainis veröffentlichte Drama " Die Liebe ist stärker <b>als</b> der Tod " , diese ist in dem ganzen Land bekannt .</em>
 * <em>daß</em>
   * [SCONJ]() 112: <em>Die Polizei glaubt , <b>daß</b> etwa 30 Selbstmordkommandos in der Stadt sind .</em>
   * [CONJ]() 9: <em>Es war zu dem Verhängnis geworden , <b>daß</b> er eine offensichtlich pflichtwidrige Kreditgewährung mit unterzeichnet hat .</em>
@@ -50,17 +50,17 @@ The 10 most frequent ambiguous types:  <em>dass</em> ([SCONJ]() 505, [CONJ]() 8,
 * <em>ob</em>
   * [SCONJ]() 46: <em>Ich habe heute morgen Oskar gefragt , <b>ob</b> er bereit ist zu kandidieren .</em>
   * [CONJ]() 3: <em>Egal <b>ob</b> mit oder ohne Termin , die Wartezeiten sind kurz und das Resultat stets gut !</em>
-  * [ADV]() 1: <em>Wo Metriorhynchus sich paarte , <b>ob</b> in dem Meer oder an Land , ob er Eier legte oder lebendgebärend war , ist in dem Unterschied zu den Verhältnissen bei anderen Meeresreptilien des Mesozoikums , wie den Plesiosauriern oder den Ichthyosaurier , gegenwärtig noch unbekannt .</em>
-  * [ADP]() 1: <em>Vernon Reids Gitarre , <b>ob</b> elektrisch oder akustisch , bringt Biss und eine nervöse Qualität hinzu , vor allem seine E - Gitarre in Dark Prince , ein Titel , in dem Buster Williams ' eindringlicher Bass pochend in Lenny Whites feinfühligen Rahmen mit den Becken schwimmt , was eine fühlbare Spannung in dem Titel schafft .</em>
   * [PROPN]() 1: <em>August 1990 in Zagorje <b>ob</b> Savi ) ist ein slowenischer Skispringer .</em>
+  * [ADP]() 1: <em>Vernon Reids Gitarre , <b>ob</b> elektrisch oder akustisch , bringt Biss und eine nervöse Qualität hinzu , vor allem seine E - Gitarre in Dark Prince , ein Titel , in dem Buster Williams ' eindringlicher Bass pochend in Lenny Whites feinfühligen Rahmen mit den Becken schwimmt , was eine fühlbare Spannung in dem Titel schafft .</em>
+  * [ADV]() 1: <em>Wo Metriorhynchus sich paarte , <b>ob</b> in dem Meer oder an Land , ob er Eier legte oder lebendgebärend war , ist in dem Unterschied zu den Verhältnissen bei anderen Meeresreptilien des Mesozoikums , wie den Plesiosauriern oder den Ichthyosaurier , gegenwärtig noch unbekannt .</em>
 * <em>wie</em>
   * [ADP]() 234: <em>Die Hinterflügel weisen dieselbe Zeichnung <b>wie</b> die Vorderflügel auf .</em>
   * [CONJ]() 103: <em>Sie hingen zu dem Schluss hin <b>wie</b> ein nasser Sack an mir .</em>
   * [ADV]() 50: <em>Die Ausstattung ist ok und so <b>wie</b> man sich eine Wohnung vorstellt .</em>
   * [SCONJ]() 45: <em>B &amp; S ist ein Car - Audio - Spezialist <b>wie</b> man ihn nur hier findet !</em>
   * [PRON]() 5: <em>Wahrscheinlich wussten sie , <b>wie</b> man Feuer macht , sie hatten Behausungen und Kleidung .</em>
-  * [X]() 2: <em>Rospigliosi in den Kardinalsstand erhoben worden , <b>wie</b> auch Benedikt XIV .</em>
   * [PART]() 2: <em>Nicht <b>wie</b> das typische asiatische Essen , was man für europäer zubereitet . :-)</em>
+  * [X]() 2: <em>Rospigliosi in den Kardinalsstand erhoben worden , <b>wie</b> auch Benedikt XIV .</em>
 * <em>wobei</em>
   * [SCONJ]() 47: <em>Ab 1972 spielte er noch 121 mal für den Würzburger FV <b>wobei</b> er 10 Tore erzielte .</em>
   * [ADV]() 5: <em>25 Weingüter bewirtschaften eine Rebfläche von 290 ha , <b>wobei</b> der Elbling einen Anteil von 75 % hat .</em>

@@ -46,7 +46,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Imp` (108; 2% of non-empty `Mood`): <em>do, be, get</em>
 * `Ind` (4577; 98% of non-empty `Mood`): <em>have, do, is, was, are, has, did, were, had, does</em>
-* `EMPTY` (5063): <em>will, can, would, be, could, should, been, may, 'll, have</em>
+* `EMPTY` (5061): <em>will, can, would, be, could, should, been, may, 'll, have</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -67,13 +67,13 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `ADP` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>up</em>
-* `EMPTY` (21680): <em>of, in, to, for, on, with, at, from, by, as</em>
+* `EMPTY` (21679): <em>of, in, to, for, on, with, at, from, by, as</em>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1018; 60%),
-<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/compound:prt.html">compound:prt</a>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (1; 100%).
 

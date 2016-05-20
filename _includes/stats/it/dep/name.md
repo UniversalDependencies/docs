@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3270 nodes (1%) are attached to their parents as `name`.
+3202 nodes (1%) are attached to their parents as `name`.
 
-3270 instances of `name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14403669724771.
+3202 instances of `name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.13429106808245.
 
-The following 7 pairs of parts of speech are connected with `name`: [it-pos/PROPN]()-[it-pos/PROPN]() (3174; 97% instances), [it-pos/PROPN]()-[it-pos/NUM]() (56; 2% instances), [it-pos/PROPN]()-[it-pos/PUNCT]() (16; 0% instances), [it-pos/PROPN]()-[it-pos/SYM]() (11; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (6; 0% instances), [it-pos/PROPN]()-[it-pos/PART]() (4; 0% instances), [it-pos/PUNCT]()-[it-pos/PROPN]() (3; 0% instances).
+The following 8 pairs of parts of speech are connected with `name`: [it-pos/PROPN]()-[it-pos/PROPN]() (3115; 97% instances), [it-pos/PROPN]()-[it-pos/NUM]() (56; 2% instances), [it-pos/PROPN]()-[it-pos/ADJ]() (9; 0% instances), [it-pos/PROPN]()-[it-pos/SYM]() (8; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (6; 0% instances), [it-pos/PROPN]()-[it-pos/PART]() (4; 0% instances), [it-pos/PUNCT]()-[it-pos/PROPN]() (3; 0% instances), [it-pos/ADP]()-[it-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,26 +50,23 @@ The following 7 pairs of parts of speech are connected with `name`: [it-pos/PROP
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 11 12 name	color:blue
-1	(	(	PUNCT	FB	_	2	punct	_	_
-2	applausi	applauso	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
-3	da	da	ADP	E	_	5	case	_	_
-4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	banchi	banco	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
-6	di	di	ADP	E	_	8	case	_	_
-7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
-9	di	di	ADP	E	_	11	case	_	_
-10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	PPE	PPE	PROPN	SP	_	8	nmod	_	_
-12	-	-	PUNCT	FF	_	11	name	_	_
-13	DE	DE	PROPN	SP	_	11	name	_	_
-14	)	)	PUNCT	FB	_	2	punct	_	_
-15	.	.	PUNCT	FS	_	2	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 name	color:blue
+1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Procollagen	Procollagen	PROPN	SP	_	0	root	_	_
+3	Anti	anti	ADJ	A	_	5	amod	_	_
+4	-	-	PUNCT	FF	_	3	punct	_	_
+5	Cellulite	Cellulite	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6	Body	Body	NOUN	S	_	2	nmod	_	_
+7	Complex	Complex	NOUN	S	_	6	compound	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	2	punct	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Ultima	Ultima	PROPN	SP	_	2	nmod	_	_
+11	II	II	ADJ	NO	Number=Sing|NumType=Ord	10	name	_	_
+12	.	.	PUNCT	FS	_	2	punct	_	_
 
 ~~~
 

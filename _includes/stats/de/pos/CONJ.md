@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  <em>und, oder, sowie, aber, als, sondern, wi
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 53291, [PUNCT]() 39056, [DET]() 37037, [ADP]() 32362, [PROPN]() 32323, [VERB]() 25041, [ADJ]() 21279, [PRON]() 15077, [ADV]() 14911, [CONJ]() 8938, [NUM]() 7632, [AUX]() 6913, [PART]() 2202, [SCONJ]() 1810, [X]() 370)
 
-The 10 most frequent ambiguous types:  <em>und</em> ([CONJ]() 7222, [PROPN]() 75), <em>oder</em> ([CONJ]() 581, [PROPN]() 2), <em>sowie</em> ([CONJ]() 258, [SCONJ]() 1), <em>aber</em> ([ADV]() 223, [CONJ]() 178, [SCONJ]() 1, [ADJ]() 1), <em>als</em> ([ADP]() 1288, [CONJ]() 123, [SCONJ]() 86, [ADV]() 17, [PROPN]() 1, [PART]() 1), <em>sondern</em> ([CONJ]() 121, [ADV]() 2), <em>wie</em> ([ADP]() 234, [CONJ]() 103, [ADV]() 50, [SCONJ]() 45, [PRON]() 5, [X]() 2, [PART]() 2), <em>doch</em> ([ADV]() 39, [CONJ]() 20, [SCONJ]() 3), <em>jedoch</em> ([ADV]() 230, [CONJ]() 19, [SCONJ]() 2), <em>noch</em> ([ADV]() 492, [CONJ]() 17)
+The 10 most frequent ambiguous types:  <em>und</em> ([CONJ]() 7222, [PROPN]() 75), <em>oder</em> ([CONJ]() 581, [PROPN]() 2), <em>sowie</em> ([CONJ]() 258, [SCONJ]() 1), <em>aber</em> ([ADV]() 223, [CONJ]() 178, [SCONJ]() 1, [ADJ]() 1), <em>als</em> ([ADP]() 1288, [CONJ]() 123, [SCONJ]() 86, [ADV]() 17, [PART]() 1, [PROPN]() 1), <em>sondern</em> ([CONJ]() 121, [ADV]() 2), <em>wie</em> ([ADP]() 234, [CONJ]() 103, [ADV]() 50, [SCONJ]() 45, [PRON]() 5, [PART]() 2, [X]() 2), <em>doch</em> ([ADV]() 39, [CONJ]() 20, [SCONJ]() 3), <em>jedoch</em> ([ADV]() 230, [CONJ]() 19, [SCONJ]() 2), <em>noch</em> ([ADV]() 492, [CONJ]() 17)
 
 
 * <em>und</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>und</em> ([CONJ]() 7222, [PROPN]() 75
   * [CONJ]() 123: <em>Ganz anders <b>als</b> in Zepernick .</em>
   * [SCONJ]() 86: <em>Das Hotel sah aus <b>als</b> wäre es kurz davor abgerissen zu werden .</em>
   * [ADV]() 17: <em>Noch nie habe ich so schlechte Service gehabt <b>als</b> bei Biotopia .</em>
-  * [PROPN]() 1: <em>Die daraus entstandene Legende diente als Vorlage für das 1927 von dem lettischen Schriftsteller Jānis Rainis veröffentlichte Drama " Die Liebe ist stärker <b>als</b> der Tod " , diese ist in dem ganzen Land bekannt .</em>
   * [PART]() 1: <em>Hierbei variiert die Mächtigkeit der Gänge zwischen wenigen Millimetern bis zu mehr <b>als</b> 100 Metern .</em>
+  * [PROPN]() 1: <em>Die daraus entstandene Legende diente als Vorlage für das 1927 von dem lettischen Schriftsteller Jānis Rainis veröffentlichte Drama " Die Liebe ist stärker <b>als</b> der Tod " , diese ist in dem ganzen Land bekannt .</em>
 * <em>sondern</em>
   * [CONJ]() 121: <em>So profitiert nicht nur die Agentur , <b>sondern</b> in erster Linie der Kunde .</em>
   * [ADV]() 2: <em>Diese Form der Dehiszenz tritt jedoch nicht eigenständig auf , <b>sondern</b> stets in Kombination mit einer Septizidie oder eine Lokulizidie .</em>
@@ -46,8 +46,8 @@ The 10 most frequent ambiguous types:  <em>und</em> ([CONJ]() 7222, [PROPN]() 75
   * [ADV]() 50: <em>Die Ausstattung ist ok und so <b>wie</b> man sich eine Wohnung vorstellt .</em>
   * [SCONJ]() 45: <em>B &amp; S ist ein Car - Audio - Spezialist <b>wie</b> man ihn nur hier findet !</em>
   * [PRON]() 5: <em>Wahrscheinlich wussten sie , <b>wie</b> man Feuer macht , sie hatten Behausungen und Kleidung .</em>
-  * [X]() 2: <em>Rospigliosi in den Kardinalsstand erhoben worden , <b>wie</b> auch Benedikt XIV .</em>
   * [PART]() 2: <em>Nicht <b>wie</b> das typische asiatische Essen , was man für europäer zubereitet . :-)</em>
+  * [X]() 2: <em>Rospigliosi in den Kardinalsstand erhoben worden , <b>wie</b> auch Benedikt XIV .</em>
 * <em>doch</em>
   * [ADV]() 39: <em>Das fand ich <b>doch</b> sehr häftig !</em>
   * [CONJ]() 20: <em>Jim versucht verzweifelt Alicias Vater zu retten , <b>doch</b> er scheitert .</em>

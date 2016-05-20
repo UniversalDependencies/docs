@@ -76,3 +76,81 @@ The following 22 pairs of parts of speech are connected with `csubj`: [es-pos/VE
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Spanish-AnCora)
+
+This relation is universal.
+
+1197 nodes (0%) are attached to their parents as `csubj`.
+
+810 instances of `csubj` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.19883040935673.
+
+The following 32 pairs of parts of speech are connected with `csubj`: [es-pos/VERB]()-[es-pos/VERB]() (553; 46% instances), [es-pos/ADJ]()-[es-pos/VERB]() (327; 27% instances), [es-pos/NOUN]()-[es-pos/VERB]() (109; 9% instances), [es-pos/VERB]()-[es-pos/ADJ]() (33; 3% instances), [es-pos/VERB]()-[es-pos/NOUN]() (32; 3% instances), [es-pos/AUX]()-[es-pos/VERB]() (22; 2% instances), [es-pos/VERB]()-[es-pos/AUX]() (22; 2% instances), [es-pos/PRON]()-[es-pos/VERB]() (16; 1% instances), [es-pos/ADV]()-[es-pos/VERB]() (14; 1% instances), [es-pos/ADJ]()-[es-pos/ADJ]() (12; 1% instances), [es-pos/ADJ]()-[es-pos/AUX]() (10; 1% instances), [es-pos/PROPN]()-[es-pos/VERB]() (6; 1% instances), [es-pos/ADJ]()-[es-pos/NOUN]() (5; 0% instances), [es-pos/CONJ]()-[es-pos/VERB]() (5; 0% instances), [es-pos/VERB]()-[es-pos/PRON]() (4; 0% instances), [es-pos/VERB]()-[es-pos/PROPN]() (4; 0% instances), [es-pos/ADJ]()-[es-pos/PRON]() (3; 0% instances), [es-pos/NOUN]()-[es-pos/NOUN]() (3; 0% instances), [es-pos/VERB]()-[es-pos/ADV]() (3; 0% instances), [es-pos/NOUN]()-[es-pos/AUX]() (2; 0% instances), [es-pos/ADP]()-[es-pos/VERB]() (1; 0% instances), [es-pos/ADV]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/ADV]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/AUX]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/AUX]()-[es-pos/AUX]() (1; 0% instances), [es-pos/CONJ]()-[es-pos/AUX]() (1; 0% instances), [es-pos/DET]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/DET]()-[es-pos/VERB]() (1; 0% instances), [es-pos/NOUN]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/PRON]()-[es-pos/ADJ]() (1; 0% instances), [es-pos/PRON]()-[es-pos/NOUN]() (1; 0% instances), [es-pos/VERB]()-[es-pos/NUM]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 11 csubj	color:blue
+1	Hasta	hasta	ADP	ADP	AdpType=Prep	5	mark	_	_
+2	que	que	SCONJ	SCONJ	_	5	mark	_	_
+3	no	no	ADV	ADV	Negative=Neg	5	neg	_	_
+4	se	él	PRON	PRON	Person=3	5	dobj	_	_
+5	acaba	acabar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+6	no	no	ADV	ADV	Negative=Neg	8	neg	_	_
+7	se	se	PRON	PRON	_	8	dobj	_	_
+8	sabe	saber	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	dónde	dónde	PRON	PRON	PronType=Int	11	nmod	_	_
+10	puede	poder	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	llegar	llegar	VERB	VERB	VerbForm=Inf	8	csubj	_	_
+12	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 csubj	color:blue
+1	"	"	PUNCT	PUNCT	PunctType=Quot	3	punct	_	_
+2	Sería	ser	AUX	AUX	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	cop	_	_
+3	bonito	bonito	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
+4	jugar	jugar	VERB	VERB	VerbForm=Inf	3	csubj	_	_
+5	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	final	final	NOUN	NOUN	Gender=Fem|Number=Sing	4	dobj	_	_
+7	contra	contra	ADP	ADP	AdpType=Prep	9	case	_	_
+8	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Barcelona	Barcelona	PROPN	PROPN	_	4	nmod	_	_
+10	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 4 csubj	color:blue
+1	Lo	el	DET	DET	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+2	que	que	PRON	PRON	PronType=Rel	4	nsubj	_	_
+3	se	él	PRON	PRON	Person=3	4	dobj	_	_
+4	deteriora	deteriorar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	csubj	_	_
+5	con	con	ADP	ADP	AdpType=Prep	6	case	_	_
+6	estrépito	estrépito	NOUN	NOUN	Gender=Masc|Number=Sing	4	nmod	_	_
+7	es	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mayoría	mayoría	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
+10	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	_
+
+~~~
+
+

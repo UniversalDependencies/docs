@@ -61,30 +61,30 @@ The 3rd highest number of forms (17) was observed with the lemma “висок�
 
 `ADJ` occurs with 10 features: [bg-feat/Number]() (13351; 98% instances), [bg-feat/Definite]() (13292; 98% instances), [bg-feat/Degree]() (11557; 85% instances), [bg-feat/Gender]() (9449; 70% instances), [bg-feat/Aspect]() (1472; 11% instances), [bg-feat/VerbForm]() (1472; 11% instances), [bg-feat/Voice]() (1472; 11% instances), [bg-feat/NumType]() (895; 7% instances), [bg-feat/Tense]() (519; 4% instances), [bg-feat/Case]() (24; 0% instances)
 
-`ADJ` occurs with 20 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Voc`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
+`ADJ` occurs with 19 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Voc`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Tense=Past`, `Tense=Pres`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`ADJ` occurs with 130 feature combinations.
+`ADJ` occurs with 128 feature combinations.
 The most frequent feature combination is `Definite=Ind|Degree=Pos|Number=Plur` (1788 tokens).
 Examples: <em>други, нови, различни, големи, български, добри, народни, подобни, финансови, военни</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 11 different relations: [bg-dep/amod]() (11869; 87% instances), [bg-dep/cop]() (574; 4% instances), [bg-dep/conj]() (399; 3% instances), [bg-dep/dobj]() (328; 2% instances), [bg-dep/nmod]() (187; 1% instances), [bg-dep/nsubj]() (153; 1% instances), [bg-dep/iobj]() (54; 0% instances), [bg-dep/root]() (14; 0% instances), [bg-dep/nsubjpass]() (6; 0% instances), [bg-dep/xcomp]() (4; 0% instances), [bg-dep/acl]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 14 different relations: [bg-dep/amod]() (11869; 87% instances), [bg-dep/conj]() (443; 3% instances), [bg-dep/root]() (381; 3% instances), [bg-dep/dobj]() (329; 2% instances), [bg-dep/nmod]() (191; 1% instances), [bg-dep/nsubj]() (149; 1% instances), [bg-dep/ccomp]() (77; 1% instances), [bg-dep/iobj]() (54; 0% instances), [bg-dep/advcl]() (34; 0% instances), [bg-dep/acl]() (32; 0% instances), [bg-dep/csubj]() (14; 0% instances), [bg-dep/nsubjpass]() (10; 0% instances), [bg-dep/xcomp]() (4; 0% instances), [bg-dep/csubjpass]() (2; 0% instances)
 
-Parents of `ADJ` nodes belong to 10 different parts of speech: [NOUN]() (11661; 86% instances), [VERB]() (1184; 9% instances), [ADJ]() (356; 3% instances), [PROPN]() (325; 2% instances), [NUM]() (23; 0% instances), [DET]() (16; 0% instances), [ROOT]() (14; 0% instances), [ADV]() (6; 0% instances), [PRON]() (3; 0% instances), [PART]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 10 different parts of speech: [NOUN]() (11703; 86% instances), [VERB]() (744; 5% instances), [ROOT]() (381; 3% instances), [ADJ]() (371; 3% instances), [PROPN]() (326; 2% instances), [NUM]() (24; 0% instances), [DET]() (19; 0% instances), [ADV]() (14; 0% instances), [PRON]() (5; 0% instances), [PART]() (2; 0% instances)
 
-11518 (85%) `ADJ` nodes are leaves.
+11202 (82%) `ADJ` nodes are leaves.
 
-1259 (9%) `ADJ` nodes have one child.
+1069 (8%) `ADJ` nodes have one child.
 
-527 (4%) `ADJ` nodes have two children.
+508 (4%) `ADJ` nodes have two children.
 
-285 (2%) `ADJ` nodes have three or more children.
+810 (6%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 9.
+The highest child degree of a `ADJ` node is 11.
 
-Children of `ADJ` nodes are attached using 15 different relations: [bg-dep/nmod]() (734; 22% instances), [bg-dep/punct]() (687; 21% instances), [bg-dep/case]() (649; 19% instances), [bg-dep/advmod]() (480; 14% instances), [bg-dep/conj]() (386; 12% instances), [bg-dep/cc]() (292; 9% instances), [bg-dep/expl]() (57; 2% instances), [bg-dep/acl]() (22; 1% instances), [bg-dep/iobj]() (7; 0% instances), [bg-dep/discourse]() (6; 0% instances), [bg-dep/dobj]() (5; 0% instances), [bg-dep/cop]() (3; 0% instances), [bg-dep/nsubj]() (3; 0% instances), [bg-dep/amod]() (1; 0% instances), [bg-dep/neg]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 20 different relations: [bg-dep/punct]() (1228; 22% instances), [bg-dep/nmod]() (844; 15% instances), [bg-dep/cop]() (577; 10% instances), [bg-dep/advmod]() (568; 10% instances), [bg-dep/nsubj]() (479; 9% instances), [bg-dep/conj]() (458; 8% instances), [bg-dep/det]() (380; 7% instances), [bg-dep/cc]() (370; 7% instances), [bg-dep/case]() (274; 5% instances), [bg-dep/mark]() (83; 1% instances), [bg-dep/neg]() (65; 1% instances), [bg-dep/expl]() (58; 1% instances), [bg-dep/advcl]() (52; 1% instances), [bg-dep/aux]() (43; 1% instances), [bg-dep/discourse]() (28; 1% instances), [bg-dep/acl]() (22; 0% instances), [bg-dep/csubj]() (18; 0% instances), [bg-dep/iobj]() (7; 0% instances), [bg-dep/dobj]() (5; 0% instances), [bg-dep/amod]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 13 different parts of speech: [PUNCT]() (687; 21% instances), [NOUN]() (623; 19% instances), [PRON]() (513; 15% instances), [ADV]() (485; 15% instances), [ADJ]() (356; 11% instances), [CONJ]() (289; 9% instances), [ADP]() (264; 8% instances), [PROPN]() (82; 2% instances), [VERB]() (24; 1% instances), [PART]() (5; 0% instances), [AUX]() (3; 0% instances), [DET]() (1; 0% instances), [INTJ]() (1; 0% instances)
+Children of `ADJ` nodes belong to 15 different parts of speech: [PUNCT]() (1228; 22% instances), [NOUN]() (1057; 19% instances), [VERB]() (720; 13% instances), [PRON]() (628; 11% instances), [ADV]() (588; 11% instances), [ADJ]() (371; 7% instances), [CONJ]() (367; 7% instances), [ADP]() (271; 5% instances), [PROPN]() (108; 2% instances), [SCONJ]() (77; 1% instances), [INTJ]() (71; 1% instances), [PART]() (52; 1% instances), [AUX]() (13; 0% instances), [DET]() (6; 0% instances), [NUM]() (3; 0% instances)
 

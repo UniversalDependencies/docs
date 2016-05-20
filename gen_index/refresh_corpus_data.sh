@@ -1,6 +1,6 @@
 #Where's the UD data?
-UD_DATA=$HOME/UD
-UD_TOOLS=$HOME/UD/tools
+UD_DATA=$HOME/UD_PROJHOOK/UD-dev-branches
+UD_TOOLS=$HOME/UD_PROJHOOK/tools
 
 rm -rf _corpus_data
 mkdir _corpus_data

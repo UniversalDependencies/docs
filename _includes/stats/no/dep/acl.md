@@ -27,7 +27,7 @@ The following 34 pairs of parts of speech are connected with `acl`: [no-pos/NOUN
 4	å	å	PART	_	_	5	mark	_	_
 5	så	så	VERB	_	VerbForm=Inf	2	xcomp	_	_
 6	tvil	tvil	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	dobj	_	_
-7	om	om	ADP	_	_	10	case	_	_
+7	om	om	ADP	_	_	10	mark	_	_
 8	at	at	SCONJ	_	_	10	mark	_	_
 9	de	de	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
 10	tror	tro	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl	_	_
@@ -51,7 +51,7 @@ The following 34 pairs of parts of speech are connected with `acl`: [no-pos/NOUN
 3	filmatisert	filmatisere	VERB	_	VerbForm=Part	0	root	_	_
 4	og	og	CONJ	_	_	3	cc	_	_
 5	vist	vise	VERB	_	VerbForm=Part	3	conj	_	_
-6	som	som	ADP	_	_	7	case	_	_
+6	som	som	ADP	_	_	7	mark	_	_
 7	serie	serie	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	acl	_	_
 8	på	på	ADP	_	_	9	case	_	_
 9	NRK	NRK	PROPN	_	_	5	nmod	_	_
@@ -72,12 +72,12 @@ The following 34 pairs of parts of speech are connected with `acl`: [no-pos/NOUN
 1	Han	han	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	i	i	ADP	_	_	5	case	_	_
-4	alle	all	DET	_	Number=Plur	5	det	_	_
+4	alle	all	DET	_	Number=Plur|PronType=Tot	5	det	_	_
 5	fall	fall	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	nmod	_	_
-6	min	min	DET	_	Gender=Masc|Number=Sing|Poss=Yes	7	nmod	_	_
+6	min	min	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	nmod	_	_
 7	respekt	respekt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	dobj	_	_
 8	,	$,	PUNCT	_	_	7	punct	_	_
-9	som	som	ADP	_	_	10	case	_	_
+9	som	som	ADP	_	_	10	mark	_	_
 10	menneske	menneske	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	1	acl	_	_
 11	.	$.	PUNCT	_	_	2	punct	_	_
 

@@ -8,10 +8,10 @@ This relation is universal.
 
 3515 nodes (2%) are attached to their parents as `iobj`.
 
-2873 instances of `iobj` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.59317211948791.
+2874 instances of `iobj` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.59459459459459.
 
-The following 12 pairs of parts of speech are connected with `iobj`: [bg-pos/VERB]()-[bg-pos/NOUN]() (2439; 69% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (685; 19% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (250; 7% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (54; 2% instances), [bg-pos/VERB]()-[bg-pos/DET]() (37; 1% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (21; 1% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (12; 0% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (7; 0% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (5; 0% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `iobj`: [bg-pos/VERB]()-[bg-pos/NOUN]() (2439; 69% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (682; 19% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (250; 7% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (54; 2% instances), [bg-pos/VERB]()-[bg-pos/DET]() (37; 1% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (21; 1% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (12; 0% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (7; 0% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (7; 0% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/DET]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 12 pairs of parts of speech are connected with `iobj`: [bg-pos/VER
 2	помня	помня	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	да	да	PART	Tx	_	5	aux	_	_
 4	съм	съм	AUX	Vxitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
-5	ходил	ходя-(си)	VERB	Vpitcao-smi	Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+5	ходил	ходя-(си)	VERB	Vpitcao-smi	Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	ccomp	_	_
 6	у	у	ADP	R	_	7	case	_	_
 7	тях	аз	PRON	Ppelap3	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	iobj	_	_
 8	.	.	PUNCT	punct	_	2	punct	_	_

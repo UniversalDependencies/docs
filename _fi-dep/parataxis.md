@@ -59,3 +59,11 @@ punct(Tulen-1, .-8)
 ### Turku Dependency Treebank
 
 If the clauses are separated by a comma and there is no coordinating conjunction, TDT does not use `parataxis` but `conj`.
+
+### FinnTreeBank
+
+FI_FTB does not apply the `parataxis` relation.
+Instead, the phenomena of implicit coordination,
+parenthetical clauses, interjected clauses and direct speech
+have been described using some other, most applicable
+relation available (usually [`conj`]() or [`dobj`]()).

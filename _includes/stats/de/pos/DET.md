@@ -13,7 +13,7 @@ The 10 most frequent `DET` types:  <em>der, die, dem, den, das, des, eine, ein, 
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 53291, [PUNCT]() 39056, [DET]() 37037, [ADP]() 32362, [PROPN]() 32323, [VERB]() 25041, [ADJ]() 21279, [PRON]() 15077, [ADV]() 14911, [CONJ]() 8938, [NUM]() 7632, [AUX]() 6913, [PART]() 2202, [SCONJ]() 1810, [X]() 370)
 
-The 10 most frequent ambiguous types:  <em>der</em> ([DET]() 8483, [PRON]() 479, [PROPN]() 99, [ADP]() 1), <em>die</em> ([DET]() 5150, [PRON]() 961, [PROPN]() 11, [X]() 1), <em>dem</em> ([DET]() 5984, [PRON]() 159, [PROPN]() 8, [X]() 1), <em>den</em> ([DET]() 2755, [PRON]() 45, [PROPN]() 10, [AUX]() 1, [SCONJ]() 1), <em>das</em> ([DET]() 1664, [PRON]() 296, [SCONJ]() 15, [PROPN]() 3), <em>des</em> ([DET]() 2082, [PROPN]() 42, [PRON]() 1), <em>eine</em> ([DET]() 1526, [PRON]() 35, [NUM]() 16, [NOUN]() 1, [PROPN]() 1), <em>ein</em> ([DET]() 1382, [ADV]() 143, [NUM]() 28, [NOUN]() 2, [PRON]() 1, [PROPN]() 1), <em>einer</em> ([DET]() 688, [PRON]() 53, [NUM]() 12), <em>einen</em> ([DET]() 571, [PRON]() 29, [NUM]() 5, [NOUN]() 2, [ADJ]() 2, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>der</em> ([DET]() 8483, [PRON]() 479, [PROPN]() 99, [ADP]() 1), <em>die</em> ([DET]() 5150, [PRON]() 961, [PROPN]() 11, [X]() 1), <em>dem</em> ([DET]() 5984, [PRON]() 159, [PROPN]() 8, [X]() 1), <em>den</em> ([DET]() 2755, [PRON]() 45, [PROPN]() 10, [SCONJ]() 1, [AUX]() 1), <em>das</em> ([DET]() 1664, [PRON]() 296, [SCONJ]() 15, [PROPN]() 3), <em>des</em> ([DET]() 2082, [PROPN]() 42, [PRON]() 1), <em>eine</em> ([DET]() 1526, [PRON]() 35, [NUM]() 16, [PROPN]() 1, [NOUN]() 1), <em>ein</em> ([DET]() 1382, [ADV]() 143, [NUM]() 28, [NOUN]() 2, [PROPN]() 1, [PRON]() 1), <em>einer</em> ([DET]() 688, [PRON]() 53, [NUM]() 12), <em>einen</em> ([DET]() 571, [PRON]() 29, [NUM]() 5, [NOUN]() 2, [ADJ]() 2, [PROPN]() 1)
 
 
 * <em>der</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>der</em> ([DET]() 8483, [PRON]() 479,
   * [DET]() 2755: <em>Nach einem viertel Jahr hielt ich ein duftendes Wunder in <b>den</b> Händen .</em>
   * [PRON]() 45: <em>Ist einer der besten Restaurationsbetriebe <b>den</b> ich finden konnte .</em>
   * [PROPN]() 10: <em>Kliers bekanntestes Werk ist die Monographie " Volkstümliche Musikinstrumente in <b>den</b> Alpen " , Kassel 1956 .</em>
-  * [AUX]() 1: <em>Die großen Ist - Wert - Anzeigen wer - <b>den</b> durch eine Balkenanzeige unterstützt , die zusätzlich farblich das Erreichen des Toleranzfensters anzeigt .</em>
   * [SCONJ]() 1: <em>Ich gehe nicht gerne zu dem Zahnarzt , <b>den</b> ich weiß vorher schon , daß es weh tut .</em>
+  * [AUX]() 1: <em>Die großen Ist - Wert - Anzeigen wer - <b>den</b> durch eine Balkenanzeige unterstützt , die zusätzlich farblich das Erreichen des Toleranzfensters anzeigt .</em>
 * <em>das</em>
   * [DET]() 1664: <em>Für <b>das</b> Geld eine einzige Enttäuschung -- nie wieder !</em>
   * [PRON]() 296: <em>Wahrscheinlich waren <b>das</b> die besten Arbeitsjahre überhaupt .</em>
@@ -50,15 +50,15 @@ The 10 most frequent ambiguous types:  <em>der</em> ([DET]() 8483, [PRON]() 479,
   * [DET]() 1526: <em>Für das Geld <b>eine</b> einzige Enttäuschung -- nie wieder !</em>
   * [PRON]() 35: <em>Noch <b>eine</b> von den gemütlichen Tavernen in Oostende sehr zu empfehlen .</em>
   * [NUM]() 16: <em>Der Reaktor muß für etwa <b>eine</b> Woche abgestellt werden .</em>
-  * [NOUN]() 1: <em>Sie ist heute noch <b>eine</b> der 10 von der Stadt Memmingen verwalteten Stiftungen und widmet sich vor allem der ambulanten Krankenpflege über die Evangelische Diakoniestiftung .</em>
   * [PROPN]() 1: <em>In dem Jahr 2008 hat der Kongress eine neue Städtecharta , die Europäische Städtecharta II - Manifest für <b>eine</b> neue Urbanität , vorgelegt .</em>
+  * [NOUN]() 1: <em>Sie ist heute noch <b>eine</b> der 10 von der Stadt Memmingen verwalteten Stiftungen und widmet sich vor allem der ambulanten Krankenpflege über die Evangelische Diakoniestiftung .</em>
 * <em>ein</em>
   * [DET]() 1382: <em>Manasse ist <b>ein</b> einzigartiger Parfümeur .</em>
   * [ADV]() 143: <em>Die Großbauern streichen viel <b>ein</b> , die kleinen bekommen wenig .</em>
   * [NUM]() 28: <em>Die Zahl liegt um rund 78 500 höher als <b>ein</b> Jahr zuvor .</em>
   * [NOUN]() 2: <em>Die Behaarung besteht aus <b>ein</b> - oder vielzelligen und nichtdrüsigen oder aber mit einem <b>ein</b> - oder mehrzelligen Drüsenkopf versehenen Trichomen .</em>
-  * [PRON]() 1: <em>Ich hatte <b>ein</b> paar Geschäftsfreunde zu dem Essen eingeladen .</em>
   * [PROPN]() 1: <em>Andere Arten von Quantoren sind Anzahlquantoren wie " <b>ein</b> " oder " zwei " , die sich auf Existenz - beziehungsweise Allquantor zurückführen lassen , und Quantoren wie " manche " , " einige " oder " viele " , die auf Grund ihrer Unbestimmtheit in der klassischen Logik nicht verwendet werden .</em>
+  * [PRON]() 1: <em>Ich hatte <b>ein</b> paar Geschäftsfreunde zu dem Essen eingeladen .</em>
 * <em>einer</em>
   * [DET]() 688: <em>Es war für mich Ausgangspunkt zu <b>einer</b> Parfümkreation .</em>
   * [PRON]() 53: <em>Für mich <b>einer</b> der besten Burger Läden in Hamburg !</em>

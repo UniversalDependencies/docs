@@ -92,91 +92,89 @@ Children of `NUM` nodes belong to 14 different parts of speech: [PUNCT]() (849; 
 
 ## Treebank Statistics (UD_Finnish-FTB)
 
-There are 522 `NUM` lemmas (2%), 794 `NUM` types (2%) and 2541 `NUM` tokens (2%).
-Out of 14 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.
+There are 489 `NUM` lemmas (2%), 703 `NUM` types (2%) and 2252 `NUM` tokens (1%).
+Out of 16 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 13 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>kaksi, yksi, kolme, ensimmäinen, viisi, puoli, kymmenen, neljä, toinen, pari</em>
+The 10 most frequent `NUM` lemmas: <em>kaksi, yksi, kolme, viisi, puoli, kymmenen, neljä, pari, miljoona, sata</em>
 
-The 10 most frequent `NUM` types:  <em>kaksi, yksi, kolme, kymmenen, viisi, ensimmäinen, kahden, pari, yhden, neljä</em>
+The 10 most frequent `NUM` types:  <em>kaksi, yksi, kolme, kymmenen, viisi, kahden, pari, yhden, neljä, viiden</em>
 
-The 10 most frequent ambiguous lemmas: <em>yksi</em> ([NUM]() 244, [DET]() 31, [PRON]() 8), <em>viisi</em> ([NUM]() 126, [NOUN]() 1), <em>puoli</em> ([NUM]() 81, [NOUN]() 50), <em>toinen</em> ([PRON]() 180, [DET]() 99, [NUM]() 68), <em>pari</em> ([NUM]() 63, [NOUN]() 9), <em>kuusi</em> ([NUM]() 34, [PROPN]() 2, [NOUN]() 1), <em>nolla</em> ([NOUN]() 4, [NUM]() 3)
+The 10 most frequent ambiguous lemmas: <em>yksi</em> ([NUM]() 241, [DET]() 31, [PRON]() 8), <em>viisi</em> ([NUM]() 126, [NOUN]() 1), <em>puoli</em> ([NUM]() 89, [NOUN]() 42), <em>pari</em> ([NUM]() 63, [NOUN]() 9), <em>kuusi</em> ([NUM]() 34, [PROPN]() 2, [NOUN]() 1), <em>11</em> ([NUM]() 5, [ADJ]() 1), <em>nolla</em> ([NUM]() 5, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>yksi</em> ([NUM]() 86, [PRON]() 1, [DET]() 1), <em>pari</em> ([NUM]() 39, [NOUN]() 5), <em>yhden</em> ([NUM]() 41, [DET]() 5), <em>puoli</em> ([NUM]() 26, [NOUN]() 9), <em>yks</em> ([NUM]() 19, [DET]() 8), <em>puolet</em> ([NUM]() 17, [ADV]() 1), <em>toinen</em> ([PRON]() 38, [DET]() 19, [NUM]() 10), <em>yhtä</em> ([ADV]() 51, [NUM]() 15, [DET]() 7, [PRON]() 3), <em>toisen</em> ([DET]() 12, [NUM]() 8, [PRON]() 3), <em>toista</em> ([NUM]() 13, [PRON]() 7, [DET]() 5)
+The 10 most frequent ambiguous types:  <em>yksi</em> ([NUM]() 86, [DET]() 1, [PRON]() 1), <em>pari</em> ([NUM]() 39, [NOUN]() 5), <em>yhden</em> ([NUM]() 41, [DET]() 5), <em>puoli</em> ([NUM]() 29, [NOUN]() 6), <em>yks</em> ([NUM]() 18, [DET]() 8), <em>puolet</em> ([NUM]() 17, [ADV]() 1), <em>yhtä</em> ([ADV]() 50, [NUM]() 14, [DET]() 7, [PRON]() 3), <em>puolen</em> ([NUM]() 6, [ADV]() 3, [NOUN]() 1), <em>sataa</em> ([VERB]() 12, [NUM]() 10), <em>yhteen</em> ([ADV]() 9, [NUM]() 7)
 
 
 * <em>yksi</em>
-  * [NUM]() 86: <em>Suomi on tässä suhteessa <b>yksi</b> Euroopan kärkimaista .</em>
-  * [PRON]() 1: <em>Kekkosen voiman päivinä <b>yksi</b> jos toinenkin selvästi pelkäsi esiintyä avoimesti .</em>
+  * [NUM]() 86: <em>Minua hitsaa <b>yksi</b> juttu</em>
   * [DET]() 1: <em>Susanna Lahtisen oppilaat ovat esikoululaisia Luxemburgissa - <b>yksi</b> heistä on hänen oma nelivuotias Saimansa .</em>
+  * [PRON]() 1: <em>Kekkosen voiman päivinä <b>yksi</b> jos toinenkin selvästi pelkäsi esiintyä avoimesti .</em>
 * <em>pari</em>
   * [NUM]() 39: <em>Istuin koneen ääressä koko aamun , paitsi <b>pari</b> kertaa kävin kahvilla .</em>
-  * [NOUN]() 5: <em>On siinä meillä harvinainen <b>pari</b> .</em>
+  * [NOUN]() 5: <em>Susanna ja Petri ovat nyt lopullisesti <b>pari</b> .</em>
 * <em>yhden</em>
   * [NUM]() 41: <em>Jatkamme täällä tuonne <b>yhden</b> tienoille .</em>
   * [DET]() 5: <em>Sinä päästit sen <b>yhden</b> tyypin karkuun .</em>
 * <em>puoli</em>
-  * [NUM]() 26: <em>Olemme liian köyhiä uhrataksemme <b>puoli</b> miljoonaa .</em>
-  * [NOUN]() 9: <em>Tämä <b>puoli</b> ylöspäin .</em>
+  * [NUM]() 29: <em>Ja onko muka <b>puoli</b> miljoonaa liikaa uhrattavaksi Pirkanmaan matkailuun ?</em>
+  * [NOUN]() 6: <em>Tämä <b>puoli</b> ylöspäin .</em>
 * <em>yks</em>
-  * [NUM]() 19: <em>no sit <b>yks</b> toinen kaveri lähti armeijaan ja me oltiin sovittu .</em>
+  * [NUM]() 18: <em>no sit <b>yks</b> toinen kaveri lähti armeijaan ja me oltiin sovittu .</em>
   * [DET]() 8: <em>Kuule mul on <b>yks</b> junailuasia mielessä</em>
 * <em>puolet</em>
   * [NUM]() 17: <em>Siellä tapahtuu <b>puolet</b> Euroopan rakennustuotannosta .</em>
   * [ADV]() 1: <em>Ja me maksettiin sulle <b>puolet</b> käteen ennakkoa kuten aina ennenkin .</em>
-* <em>toinen</em>
-  * [PRON]() 38: <em>Kun katsoo suomalaisen flamencon tilannetta , asia on tyystin <b>toinen</b> .</em>
-  * [DET]() 19: <em>no sit yks <b>toinen</b> kaveri lähti armeijaan ja me oltiin sovittu .</em>
-  * [NUM]() 10: <em>Seminaarin <b>toinen</b> päivä sujui yllätyksittä .</em>
 * <em>yhtä</em>
-  * [ADV]() 51: <em>aivan <b>yhtä</b> paljon heidän hermoilleen käy se , kun meillä menee hyvin .</em>
-  * [NUM]() 15: <em>Talon emäntä huomasi palon hieman ennen <b>yhtä</b> yöllä .</em>
+  * [ADV]() 50: <em>Tekotimantista tulee pian <b>yhtä</b> kestävä kimaltelija kuin kuvan aidosta .</em>
+  * [NUM]() 14: <em>herättelimme sitä <b>yhtä</b> kännikalaa .</em>
   * [DET]() 7: <em>Se lupasi paljastaa minulle <b>yhtä</b> sun toista mielenkiintoista .</em>
   * [PRON]() 3: <em>Ihmiskunta on saanut aikaan <b>yhtä</b> ja toista mistä kannattaa nauttia .</em>
-* <em>toisen</em>
-  * [DET]() 12: <em>hän on jo joutunut harjoituttamaan orkesterilla <b>toisen</b> teoksen .</em>
-  * [NUM]() 8: <em>Juha Mieto hiihti Suomen joukkueessa <b>toisen</b> osuuden .</em>
-  * [PRON]() 3: <em><b>toisen</b> pääl ei voi nukkuu ollenkaa ku se pitää nii kauheeta metelii</em>
-* <em>toista</em>
-  * [NUM]() 13: <em>Ekovihreät rp. , johon kuuluu alun <b>toista</b> sataa jäsentä .</em>
-  * [PRON]() 7: <em>Ihmiskunta on saanut aikaan yhtä ja <b>toista</b> mistä kannattaa nauttia .</em>
-  * [DET]() 5: <em>Minä ajan <b>toista</b> kautta takaisin .</em>
+* <em>puolen</em>
+  * [NUM]() 6: <em>Taukopaikka työllistää <b>puolen</b> sataa ihmistä .</em>
+  * [ADV]() 3: <em>toiselta <b>puolen</b></em>
+  * [NOUN]() 1: <em>Hän puhalteli savua pöydän toiselle <b>puolen</b> , kohti sohvaa .</em>
+* <em>sataa</em>
+  * [VERB]() 12: <em>Jään kotiin , jos <b>sataa</b> .</em>
+  * [NUM]() 10: <em>Taukopaikka työllistää puolen <b>sataa</b> ihmistä .</em>
+* <em>yhteen</em>
+  * [ADV]() 9: <em>Wigwamin esikoisalbumin <b>yhteen</b> niitatut pahvit mieleen tuovasti</em>
+  * [NUM]() 7: <em>Maila <b>yhteen</b> käteen !</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.521073 (the average of all parts of speech is 2.041153).
+The form / lemma ratio of `NUM` is 1.437628 (the average of all parts of speech is 2.044212).
 
-The 1st highest number of forms (23) was observed with the lemma “ensimmäinen”: <em>Ensimmäistäkään, eka, ekana, ekasta, ensimmäine, ensimmäinen, ensimmäisee, ensimmäiseen, ensimmäisel, ensimmäisellä, ensimmäiseltä, ensimmäisen, ensimmäisenä, ensimmäisessä, ensimmäisestä, ensimmäiset, ensimmäisiltä, ensimmäisinä, ensimmäisiä, ensimmäisten, ensimmäistä, ensmeiseks, ensmäine</em>.
+The 1st highest number of forms (21) was observed with the lemma “yksi”: <em>yhdeksi, yhdelle, yhdellä, yhden, yhdenkin, yhdessä, yhdestä, yhdet, yhen, yhteen, yhtenä, yhtenäkään, yhtä, yks, yksi, yksikin, yksikään, yksille, yksip, yksissä, yksiä</em>.
 
-The 2nd highest number of forms (21) was observed with the lemma “yksi”: <em>yhdeksi, yhdelle, yhdellä, yhden, yhdenkin, yhdessä, yhdestä, yhdet, yhen, yhteen, yhtenä, yhtenäkään, yhtä, yks, yksi, yksikin, yksikään, yksille, yksip, yksissä, yksiä</em>.
+The 2nd highest number of forms (16) was observed with the lemma “kaksi”: <em>kahdeksi, kahdella, kahdelle, kahdelta, kahden, kahdessa, kahdesta, kahdet, kahta, kahteen, kahtena, kaks, kaksi, kaksikin, kaksin, kaksine</em>.
 
-The 3rd highest number of forms (16) was observed with the lemma “kaksi”: <em>kahdeksi, kahdella, kahdelle, kahdelta, kahden, kahdessa, kahdesta, kahdet, kahta, kahteen, kahtena, kaks, kaksi, kaksikin, kaksin, kaksine</em>.
+The 3rd highest number of forms (16) was observed with the lemma “viisi”: <em>viide, viideksi, viidelle, viidellä, viideltä, viiden, viidessä, viidestä, viidet, viis, viisi, viisikin, viiteen, viitenä, viittä, viittäkään</em>.
 
-`NUM` occurs with 6 features: [fi-feat/NumType]() (2511; 99% instances), [fi-feat/Case]() (1769; 70% instances), [fi-feat/Number]() (1766; 70% instances), [fi-feat/Clitic]() (24; 1% instances), [fi-feat/Number[psor]]() (1; 0% instances), [fi-feat/Person[psor]]() (1; 0% instances)
+`NUM` occurs with 7 features: [fi-feat/NumType]() (2222; 99% instances), [fi-feat/Case]() (1507; 67% instances), [fi-feat/Number]() (1504; 67% instances), [fi-feat/Style]() (80; 4% instances), [fi-feat/Clitic]() (21; 1% instances), [fi-feat/Number[psor]]() (1; 0% instances), [fi-feat/Person[psor]]() (1; 0% instances)
 
-`NUM` occurs with 21 feature-value pairs: `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Kaan`, `Clitic=Kin`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=1`
+`NUM` occurs with 21 feature-value pairs: `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Kaan`, `Clitic=Kin`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=1`, `Style=Coll`
 
-`NUM` occurs with 51 feature combinations.
-The most frequent feature combination is `NumType=Card` (711 tokens).
+`NUM` occurs with 38 feature combinations.
+The most frequent feature combination is `NumType=Card` (715 tokens).
 Examples: <em>kaksi, yksi, kolme, kymmenen, 10, viisi, kahden, pari, yhden, neljä</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 11 different relations: [fi-dep/nummod]() (2017; 79% instances), [fi-dep/nmod]() (285; 11% instances), [fi-dep/conj]() (111; 4% instances), [fi-dep/root]() (50; 2% instances), [fi-dep/nsubj]() (41; 2% instances), [fi-dep/dobj]() (24; 1% instances), [fi-dep/dep]() (5; 0% instances), [fi-dep/advcl]() (3; 0% instances), [fi-dep/advcl:compar]() (3; 0% instances), [fi-dep/ccomp]() (1; 0% instances), [fi-dep/csubj]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 15 different relations: [fi-dep/nummod]() (1778; 79% instances), [fi-dep/nmod]() (265; 12% instances), [fi-dep/conj]() (98; 4% instances), [fi-dep/root]() (36; 2% instances), [fi-dep/nsubj]() (24; 1% instances), [fi-dep/dobj]() (20; 1% instances), [fi-dep/name]() (11; 0% instances), [fi-dep/nsubj:cop]() (8; 0% instances), [fi-dep/advcl]() (5; 0% instances), [fi-dep/dep]() (2; 0% instances), [fi-dep/advmod]() (1; 0% instances), [fi-dep/amod]() (1; 0% instances), [fi-dep/ccomp]() (1; 0% instances), [fi-dep/csubj]() (1; 0% instances), [fi-dep/nmod:own]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: [NOUN]() (1796; 71% instances), [VERB]() (338; 13% instances), [NUM]() (218; 9% instances), [ADJ]() (68; 3% instances), [ROOT]() (50; 2% instances), [ADV]() (21; 1% instances), [PROPN]() (21; 1% instances), [PRON]() (16; 1% instances), [DET]() (10; 0% instances), [ADP]() (2; 0% instances), [CONJ]() (1; 0% instances)
+Parents of `NUM` nodes belong to 11 different parts of speech: [NOUN]() (1580; 70% instances), [VERB]() (308; 14% instances), [NUM]() (195; 9% instances), [ADJ]() (50; 2% instances), [ROOT]() (36; 2% instances), [PROPN]() (32; 1% instances), [PRON]() (13; 1% instances), [ADV]() (11; 0% instances), [DET]() (10; 0% instances), [PART]() (9; 0% instances), [SYM]() (8; 0% instances)
 
-1601 (63%) `NUM` nodes are leaves.
+1379 (61%) `NUM` nodes are leaves.
 
-673 (26%) `NUM` nodes have one child.
+635 (28%) `NUM` nodes have one child.
 
-176 (7%) `NUM` nodes have two children.
+163 (7%) `NUM` nodes have two children.
 
-91 (4%) `NUM` nodes have three or more children.
+75 (3%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 14.
 
-Children of `NUM` nodes are attached using 18 different relations: [fi-dep/advmod]() (348; 25% instances), [fi-dep/punct]() (293; 21% instances), [fi-dep/nummod]() (130; 9% instances), [fi-dep/conj]() (106; 8% instances), [fi-dep/nmod]() (103; 7% instances), [fi-dep/det]() (78; 6% instances), [fi-dep/amod]() (68; 5% instances), [fi-dep/case]() (63; 5% instances), [fi-dep/cc]() (58; 4% instances), [fi-dep/cop]() (43; 3% instances), [fi-dep/nsubj]() (42; 3% instances), [fi-dep/dep]() (16; 1% instances), [fi-dep/acl]() (13; 1% instances), [fi-dep/mark]() (9; 1% instances), [fi-dep/neg]() (6; 0% instances), [fi-dep/advcl]() (3; 0% instances), [fi-dep/mark:comparator]() (3; 0% instances), [fi-dep/aux]() (2; 0% instances)
+Children of `NUM` nodes are attached using 20 different relations: [fi-dep/advmod]() (329; 26% instances), [fi-dep/punct]() (275; 22% instances), [fi-dep/nummod]() (114; 9% instances), [fi-dep/conj]() (94; 7% instances), [fi-dep/amod]() (73; 6% instances), [fi-dep/nmod]() (68; 5% instances), [fi-dep/det]() (67; 5% instances), [fi-dep/case]() (59; 5% instances), [fi-dep/cc]() (50; 4% instances), [fi-dep/cop]() (34; 3% instances), [fi-dep/nsubj:cop]() (34; 3% instances), [fi-dep/acl]() (13; 1% instances), [fi-dep/compound:nn]() (13; 1% instances), [fi-dep/dep]() (12; 1% instances), [fi-dep/mark]() (12; 1% instances), [fi-dep/neg]() (6; 0% instances), [fi-dep/mwe]() (4; 0% instances), [fi-dep/advcl]() (3; 0% instances), [fi-dep/aux]() (1; 0% instances), [fi-dep/expl]() (1; 0% instances)
 
-Children of `NUM` nodes belong to 12 different parts of speech: [ADV]() (359; 26% instances), [PUNCT]() (293; 21% instances), [NUM]() (218; 16% instances), [NOUN]() (126; 9% instances), [DET]() (78; 6% instances), [VERB]() (77; 6% instances), [ADJ]() (66; 5% instances), [ADP]() (64; 5% instances), [CONJ]() (59; 4% instances), [PRON]() (18; 1% instances), [PROPN]() (13; 1% instances), [SCONJ]() (13; 1% instances)
+Children of `NUM` nodes belong to 13 different parts of speech: [PUNCT]() (275; 22% instances), [PART]() (248; 20% instances), [NUM]() (195; 15% instances), [NOUN]() (108; 9% instances), [ADV]() (93; 7% instances), [ADJ]() (75; 6% instances), [DET]() (68; 5% instances), [ADP]() (60; 5% instances), [VERB]() (59; 5% instances), [CONJ]() (51; 4% instances), [PRON]() (16; 1% instances), [SCONJ]() (11; 1% instances), [PROPN]() (3; 0% instances)
 

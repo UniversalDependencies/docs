@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  <em>eta, ere, baina, edo, berriz, arren, ord
 
 The 10 most frequent ambiguous lemmas: <em>berriz</em> ([CONJ]() 100, [ADV]() 28), <em>arren</em> ([CONJ]() 90, [NOUN]() 1, [INTJ]() 1), <em>gainera</em> ([CONJ]() 80, [ADV]() 16, [ADP]() 9), <em>zein</em> ([DET]() 46, [CONJ]() 35, [ADV]() 1), <em>orduan</em> ([ADV]() 29, [CONJ]() 16), <em>alta</em> ([CONJ]() 14, [NOUN]() 1), <em>ezik</em> ([CONJ]() 13, [ADV]() 1), <em>ostera</em> ([CONJ]() 12, [ADV]() 4), <em>alegia</em> ([CONJ]() 11, [NOUN]() 4), <em>hots</em> ([NOUN]() 8, [CONJ]() 7)
 
-The 10 most frequent ambiguous types:  <em>baina</em> ([CONJ]() 444, [VERB]() 1), <em>berriz</em> ([CONJ]() 100, [ADV]() 27, [ADJ]() 1), <em>arren</em> ([CONJ]() 90, [NOUN]() 1, [INTJ]() 1), <em>gainera</em> ([CONJ]() 36, [ADP]() 9, [ADV]() 5, [NOUN]() 2), <em>beraz</em> ([CONJ]() 29, [DET]() 1), <em>aldiz</em> ([CONJ]() 39, [NOUN]() 39), <em>zein</em> ([CONJ]() 35, [DET]() 32), <em>orduan</em> ([ADV]() 21, [NOUN]() 7, [CONJ]() 6), <em>alta</em> ([NOUN]() 1, [CONJ]() 1), <em>ezik</em> ([CONJ]() 13, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>baina</em> ([CONJ]() 444, [VERB]() 1), <em>berriz</em> ([CONJ]() 100, [ADV]() 27, [ADJ]() 1), <em>arren</em> ([CONJ]() 90, [INTJ]() 1, [NOUN]() 1), <em>gainera</em> ([CONJ]() 36, [ADP]() 9, [ADV]() 5, [NOUN]() 2), <em>beraz</em> ([CONJ]() 29, [DET]() 1), <em>aldiz</em> ([CONJ]() 39, [NOUN]() 39), <em>zein</em> ([CONJ]() 35, [DET]() 32), <em>orduan</em> ([ADV]() 21, [NOUN]() 7, [CONJ]() 6), <em>alta</em> ([NOUN]() 1, [CONJ]() 1), <em>ezik</em> ([CONJ]() 13, [ADV]() 1)
 
 
 * <em>baina</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>baina</em> ([CONJ]() 444, [VERB]() 1)
   * [ADJ]() 1: <em>Lur zaharraren eta lorontzi berriaren arteko tartea lur <b>berriz</b> osatu eta ongi zanpatu .</em>
 * <em>arren</em>
   * [CONJ]() 90: <em>Aurten hasi da jokatzen , iaztik den <b>arren</b> .</em>
-  * [NOUN]() 1: <em>Markagailua txukundu <b>arren</b> , ordea , galiziarrek ez zuten partiduan eskainitako itxura kaskarra hobetu .</em>
   * [INTJ]() 1: <em>hari buruzkoak jakiteko , egon , <b>arren</b> , adi .</em>
+  * [NOUN]() 1: <em>Markagailua txukundu <b>arren</b> , ordea , galiziarrek ez zuten partiduan eskainitako itxura kaskarra hobetu .</em>
 * <em>gainera</em>
   * [CONJ]() 36: <em>Azken minutuetan <b>gainera</b> , partidua gogortu egin zen .</em>
   * [ADP]() 9: <em>Parke eta erreserba naturalez <b>gainera</b> , hiru erreserba integral daude :</em>

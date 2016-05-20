@@ -38,7 +38,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 26 [he-pos/NUM]() tokens (1% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (26; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (26; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (26; 100%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (26; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (26; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (26; 100%).
 
 `NUM` tokens may have the following values of `Case`:
 

@@ -57,7 +57,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>му, нему</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>й</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>му</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ми, мен, мене</em></td><td><em>ти, ви</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ми, мене, мен</em></td><td><em>ти, ви</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td><em>ни</em></td><td><em>ви</em></td><td><em>им, тям</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>той</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>тя</em></td></tr>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 1889 [bg-pos/AUX]() tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1889; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1787; 95%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1787; 95%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1641; 87%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1384; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (1285; 68%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1889; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1787; 95%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1787; 95%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1641; 87%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1384; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (1285; 68%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 378 [bg-pos/DET]() tokens (16% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (378; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (378; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (276; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (248; 66%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (378; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (378; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (276; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (248; 66%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -107,7 +107,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 <table>
   <tr><th>Paradigm <i>мой</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>моя, Моят</em></td><td></td><td><em>неговия, нейният, неговият, нейния</em></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>Моят, моя</em></td><td></td><td><em>неговия, нейният, неговият, нейния</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>моята</em></td><td></td><td><em>неговата, нейната</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>моето</em></td><td></td><td><em>неговото, нейното</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>моите</em></td><td><em>твоите</em></td><td><em>нейните, неговите</em></td></tr>
@@ -120,14 +120,14 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1884; 64%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1425; 79%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (927; 65%),
-<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (264; 63%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (120; 58%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (77; 71%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1522; 62%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1234; 80%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (986; 51%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (784; 65%),
+<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (213; 83%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (136; 62%),
+<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (115; 57%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (67; 68%),
 <tt>VERB --[<a href="../dep/mwe.html">mwe</a>]--> VERB</tt> (28; 100%),
-<tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (27; 54%),
-<tt>PRON --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (6; 75%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (2; 67%).
+<tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (27; 51%).
 

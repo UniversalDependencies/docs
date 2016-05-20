@@ -5,15 +5,15 @@
 ## Treebank Statistics (UD_Polish)
 
 There are 25 `CONJ` lemmas (0%), 26 `CONJ` types (0%) and 2117 `CONJ` tokens (3%).
-Out of 13 observed tags, the rank of `CONJ` is: 9 in number of lemmas, 11 in number of types and 9 in number of tokens.
+Out of 15 observed tags, the rank of `CONJ` is: 11 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CONJ` lemmas: <em>i, a, ale, więc, oraz, ani, lub, czy, albo, to</em>
 
 The 10 most frequent `CONJ` types:  <em>i, a, ale, więc, oraz, ani, lub, czy, albo, to</em>
 
-The 10 most frequent ambiguous lemmas: <em>i</em> ([CONJ]() 1357, [PART]() 35), <em>a</em> ([CONJ]() 267, [ADV]() 1), <em>ani</em> ([CONJ]() 21, [PART]() 6), <em>czy</em> ([PART]() 155, [CONJ]() 19), <em>to</em> ([NOUN]() 424, [VERB]() 266, [CONJ]() 16), <em>jak</em> ([ADV]() 97, [ADP]() 33, [CONJ]() 6), <em>nie</em> ([PART]() 1155, [CONJ]() 4), <em>aż</em> ([PART]() 26, [CONJ]() 2, [SCONJ]() 1), <em>tylko</em> ([PART]() 97, [CONJ]() 2), <em>jednak</em> ([PART]() 119, [CONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>i</em> ([CONJ]() 1357, [PART]() 35), <em>a</em> ([CONJ]() 267, [ADV]() 1), <em>ani</em> ([CONJ]() 21, [PART]() 6), <em>czy</em> ([PART]() 155, [CONJ]() 19), <em>to</em> ([PRON]() 424, [VERB]() 266, [CONJ]() 16), <em>jak</em> ([ADV]() 97, [ADP]() 33, [CONJ]() 6), <em>nie</em> ([PART]() 1155, [CONJ]() 4), <em>aż</em> ([PART]() 26, [CONJ]() 2, [SCONJ]() 1), <em>tylko</em> ([PART]() 97, [CONJ]() 2), <em>jednak</em> ([PART]() 119, [CONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>i</em> ([CONJ]() 1253, [PART]() 33), <em>a</em> ([CONJ]() 165, [ADV]() 1), <em>ani</em> ([CONJ]() 19, [PART]() 5), <em>czy</em> ([PART]() 37, [CONJ]() 19), <em>to</em> ([NOUN]() 226, [VERB]() 173, [ADJ]() 28, [CONJ]() 16), <em>jak</em> ([ADV]() 52, [ADP]() 32, [CONJ]() 6), <em>nie</em> ([PART]() 879, [PRON]() 5, [CONJ]() 4), <em>bądź</em> ([CONJ]() 3, [VERB]() 2), <em>aż</em> ([PART]() 21, [CONJ]() 2), <em>tylko</em> ([PART]() 87, [CONJ]() 2)
+The 10 most frequent ambiguous types:  <em>i</em> ([CONJ]() 1253, [PART]() 33), <em>a</em> ([CONJ]() 165, [ADV]() 1), <em>ani</em> ([CONJ]() 19, [PART]() 5), <em>czy</em> ([PART]() 37, [CONJ]() 19), <em>to</em> ([PRON]() 226, [VERB]() 173, [DET]() 28, [CONJ]() 16), <em>jak</em> ([ADV]() 52, [ADP]() 32, [CONJ]() 6), <em>nie</em> ([PART]() 879, [PRON]() 5, [CONJ]() 4), <em>bądź</em> ([CONJ]() 3, [VERB]() 2), <em>aż</em> ([PART]() 21, [CONJ]() 2), <em>tylko</em> ([PART]() 87, [CONJ]() 2)
 
 
 * <em>i</em>
@@ -29,9 +29,9 @@ The 10 most frequent ambiguous types:  <em>i</em> ([CONJ]() 1253, [PART]() 33), 
   * [PART]() 37: <em>Sprawdźmy , <b>czy</b> istotnie potrafili by śmy to zrobić .</em>
   * [CONJ]() 19: <em>Wybrał by ś życie matki <b>czy</b> świni przy tej operacji przeszczepu wątroby ?</em>
 * <em>to</em>
-  * [NOUN]() 226: <em>W Lubuskiem dotyczy <b>to</b> 39 tys . ubezpieczonych kobiet w LRKCh .</em>
+  * [PRON]() 226: <em>W Lubuskiem dotyczy <b>to</b> 39 tys . ubezpieczonych kobiet w LRKCh .</em>
   * [VERB]() 173: <em>Opisane tu postawy <b>to</b> wady ludzkie znane od pokoleń .</em>
-  * [ADJ]() 28: <em>Głupi gówniarz , mogł em przecież zadać sobie <b>to</b> pytanie .</em>
+  * [DET]() 28: <em>Głupi gówniarz , mogł em przecież zadać sobie <b>to</b> pytanie .</em>
   * [CONJ]() 16: <em>Jeżeli nie masz , <b>to</b> by ś na pewno ukrywał , gdyby ś miał .</em>
 * <em>jak</em>
   * [ADV]() 52: <em>Nie wiem , naprawdę nie wiem , <b>jak</b> się zachowają .</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>i</em> ([CONJ]() 1253, [PART]() 33), 
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 1.040000 (the average of all parts of speech is 1.847377).
+The form / lemma ratio of `CONJ` is 1.040000 (the average of all parts of speech is 1.801337).
 
 The 1st highest number of forms (2) was observed with the lemma “więc”: <em>Wiec, więc</em>.
 
@@ -66,9 +66,9 @@ The 3rd highest number of forms (1) was observed with the lemma “albo”: <em>
 
 ## Relations
 
-`CONJ` nodes are attached to their parents using 6 different relations: [pl-dep/cc]() (1701; 80% instances), [pl-dep/advmod]() (408; 19% instances), [pl-dep/case]() (5; 0% instances), [pl-dep/mark]() (1; 0% instances), [pl-dep/mwe]() (1; 0% instances), [pl-dep/nmod]() (1; 0% instances)
+`CONJ` nodes are attached to their parents using 6 different relations: [pl-dep/cc]() (1701; 80% instances), [pl-dep/advmod]() (407; 19% instances), [pl-dep/case]() (5; 0% instances), [pl-dep/nmod]() (2; 0% instances), [pl-dep/mark]() (1; 0% instances), [pl-dep/mwe]() (1; 0% instances)
 
-Parents of `CONJ` nodes belong to 10 different parts of speech: [VERB]() (1203; 57% instances), [NOUN]() (712; 34% instances), [ADJ]() (167; 8% instances), [NUM]() (18; 1% instances), [PRON]() (7; 0% instances), [CONJ]() (4; 0% instances), [ADV]() (2; 0% instances), [AUX]() (2; 0% instances), [PART]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `CONJ` nodes belong to 11 different parts of speech: [VERB]() (1173; 55% instances), [NOUN]() (646; 31% instances), [ADJ]() (164; 8% instances), [PROPN]() (90; 4% instances), [NUM]() (18; 1% instances), [PRON]() (16; 1% instances), [CONJ]() (4; 0% instances), [ADV]() (2; 0% instances), [AUX]() (2; 0% instances), [PART]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 
 2107 (100%) `CONJ` nodes are leaves.
 
@@ -78,7 +78,7 @@ Parents of `CONJ` nodes belong to 10 different parts of speech: [VERB]() (1203; 
 
 The highest child degree of a `CONJ` node is 2.
 
-Children of `CONJ` nodes are attached using 2 different relations: [pl-dep/case]() (10; 91% instances), [pl-dep/nmod]() (1; 9% instances)
+Children of `CONJ` nodes are attached using 2 different relations: [pl-dep/case]() (10; 91% instances), [pl-dep/advmod]() (1; 9% instances)
 
 Children of `CONJ` nodes belong to 3 different parts of speech: [ADV]() (6; 55% instances), [CONJ]() (4; 36% instances), [PART]() (1; 9% instances)
 

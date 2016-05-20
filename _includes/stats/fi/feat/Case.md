@@ -150,7 +150,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 8898 [fi-pos/VERB]() tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8898; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8898; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8898; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (7114; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6904; 78%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (6904; 78%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (6895; 77%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6361; 71%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (8898; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8898; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8898; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (7114; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6904; 78%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (6904; 78%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (6895; 77%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6361; 71%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -235,7 +235,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 132 [fi-pos/AUX]() tokens (4% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (132; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (132; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (132; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (127; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (115; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (115; 87%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (132; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (132; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (132; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (127; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (115; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (115; 87%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -290,40 +290,41 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 This feature is universal.
 It occurs with 16 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Lat`, `Nom`, `Par`, `Tra`.
 
-80239 tokens (50%) have a non-empty value of `Case`.
-37611 types (86%) occur at least once with a non-empty value of `Case`.
-18194 lemmas (84%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: [fi-pos/NOUN]() (37325; 23% instances), [fi-pos/PRON]() (10637; 7% instances), [fi-pos/VERB]() (10482; 7% instances), [fi-pos/ADJ]() (10066; 6% instances), [fi-pos/PROPN]() (6207; 4% instances), [fi-pos/DET]() (3753; 2% instances), [fi-pos/NUM]() (1769; 1% instances).
+80384 tokens (50%) have a non-empty value of `Case`.
+37673 types (86%) occur at least once with a non-empty value of `Case`.
+18172 lemmas (84%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: [fi-pos/NOUN]() (37036; 23% instances), [fi-pos/PRON]() (10569; 7% instances), [fi-pos/VERB]() (10453; 7% instances), [fi-pos/ADJ]() (10066; 6% instances), [fi-pos/PROPN]() (6773; 4% instances), [fi-pos/DET]() (3980; 2% instances), [fi-pos/NUM]() (1507; 1% instances).
 
 ### `NOUN`
 
-37325 [fi-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+37036 [fi-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (28731; 77%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (28472; 77%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abe` (55; 0% of non-empty `Case`): <em>ongelmitta, syyttä, luvatta, huomiotta, aiheetta, mutkitta, rahatta, rajoituksetta, tauotta, Sanoitta</em>
-* `Abl` (384; 1% of non-empty `Case`): <em>mieheltä, puolelta, vuodelta, 1900-luvulta, ajalta, ulkomailta, asemalta, kadulta, mereltä, paikalta</em>
-* `Ade` (1616; 4% of non-empty `Case`): <em>tavalla, hetkellä, aamulla, illalla, vuokralla, kesällä, viikolla, alueella, pöydällä, pihalla</em>
-* `All` (917; 2% of non-empty `Case`): <em>lapselle, maalle, ihmiselle, äidille, kahville, lapsille, paikalle, pihalle, ulkomaille, asialle</em>
+* `Abl` (374; 1% of non-empty `Case`): <em>mieheltä, vuodelta, 1900-luvulta, ajalta, ulkomailta, asemalta, kadulta, mereltä, paikalta, puolelta</em>
+* `Ade` (1606; 4% of non-empty `Case`): <em>tavalla, hetkellä, aamulla, illalla, vuokralla, kesällä, viikolla, alueella, pöydällä, pihalla</em>
+* `All` (902; 2% of non-empty `Case`): <em>lapselle, maalle, ihmiselle, kahville, lapsille, paikalle, pihalle, ulkomaille, äidille, asialle</em>
 * `Com` (75; 0% of non-empty `Case`): <em>puolisoineen, vaimoineen, juurineen, kuulokkeineen, lapsineen, perheineen, päivineen, x:ineen, aitoineen, elimineen</em>
-* `Ela` (2002; 5% of non-empty `Case`): <em>asiasta, vuodesta, asioista, ihmisistä, lapsista, ovesta, koulusta, päästä, syystä, työstä</em>
-* `Ess` (820; 2% of non-empty `Case`): <em>vuonna, päivänä, maanantaina, lauantaina, lapsena, sunnuntaina, torstaina, aikoina, keskiviikkona, vuosina</em>
-* `Gen` (7523; 20% of non-empty `Case`): <em>vuoden, kerran, ajan, miehen, auton, päivän, kirjan, talon, asian, ihmisen</em>
-* `Ill` (2214; 6% of non-empty `Case`): <em>kotiin, aikaan, asiaan, suuntaan, mieleen, loppuun, maahan, päähän, töihin, huomioon</em>
-* `Ine` (2254; 6% of non-empty `Case`): <em>tapauksessa, kunnossa, asiassa, vuodessa, maailmassa, tulossa, vaiheessa, päivässä, alussa, kaupungissa</em>
-* `Ins` (150; 0% of non-empty `Case`): <em>määrin, käsin, osin, tavoin, ajoin, kohdin, mielin, päin, päivin, ehdoin</em>
-* `Nom` (11926; 32% of non-empty `Case`): <em>mies, asia, äiti, osa, lapsi, nainen, kello, ihmiset, isä, tyttö</em>
-* `Par` (6940; 19% of non-empty `Case`): <em>vuotta, aikaa, kertaa, markkaa, rahaa, asiaa, kahvia, prosenttia, päivää, työtä</em>
-* `Tra` (449; 1% of non-empty `Case`): <em>vuodeksi, nimekseen, sääliksi, malliksi, mieheksi, nimeksi, viikoksi, hyödyksi, ihmiseksi, kesäksi</em>
+* `Ela` (1980; 5% of non-empty `Case`): <em>asiasta, vuodesta, asioista, ihmisistä, lapsista, ovesta, päästä, syystä, työstä, autosta</em>
+* `Ess` (817; 2% of non-empty `Case`): <em>vuonna, päivänä, maanantaina, lauantaina, lapsena, sunnuntaina, torstaina, aikoina, vuosina, iltana</em>
+* `Gen` (7430; 20% of non-empty `Case`): <em>vuoden, kerran, ajan, miehen, auton, päivän, kirjan, talon, asian, ihmisen</em>
+* `Ill` (2201; 6% of non-empty `Case`): <em>kotiin, aikaan, asiaan, suuntaan, mieleen, loppuun, maahan, päähän, töihin, huomioon</em>
+* `Ine` (2256; 6% of non-empty `Case`): <em>tapauksessa, kunnossa, asiassa, vuodessa, maailmassa, tulossa, vaiheessa, päivässä, alussa, kaupungissa</em>
+* `Ins` (148; 0% of non-empty `Case`): <em>määrin, käsin, osin, tavoin, ajoin, kohdin, mielin, päin, päivin, ehdoin</em>
+* `Nom` (11824; 32% of non-empty `Case`): <em>mies, asia, äiti, osa, lapsi, nainen, kello, ihmiset, isä, tyttö</em>
+* `Par` (6920; 19% of non-empty `Case`): <em>vuotta, aikaa, kertaa, markkaa, rahaa, asiaa, kahvia, prosenttia, päivää, työtä</em>
+* `Tra` (448; 1% of non-empty `Case`): <em>vuodeksi, nimekseen, sääliksi, malliksi, nimeksi, viikoksi, hyödyksi, ihmiseksi, kesäksi, mieheksi</em>
 
 <table>
   <tr><th>Paradigm <i>päivä</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Number.html">Number</a>=Sing</tt></td><td><em>päiväkään</em></td><td><em>päivänkään</em></td><td></td><td><em>päivääkään</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>päivänkin</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>päivälläkin</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td></td><td><em>päivänäkö</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>päivä</em></td><td><em>päivän, päivänä</em></td><td></td><td><em>päivää</em></td><td><em>päivänä</em></td><td><em>päiväksi</em></td><td></td><td><em>päivässä, päiväs</em></td><td><em>päivään, päivää</em></td><td><em>päivästä</em></td><td><em>päivällä</em></td><td><em>päivälle</em></td><td><em>päivältä</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>päivä</em></td><td><em>päivän</em></td><td></td><td><em>päivää</em></td><td><em>päivänä</em></td><td><em>päiväksi</em></td><td></td><td><em>päivässä</em></td><td><em>päivään</em></td><td><em>päivästä</em></td><td><em>päivällä</em></td><td><em>päivälle</em></td><td><em>päivältä</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td><em>päivänä</em></td><td></td><td></td><td></td><td></td><td></td><td><em>päiväs</em></td><td><em>päivää</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>päivät</em></td><td><em>päivien</em></td><td><em>päivin</em></td><td><em>päiviä</em></td><td><em>päivinä</em></td><td></td><td></td><td></td><td></td><td></td><td><em>päivillä</em></td><td><em>päiville</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td><em>päivänsä</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>päivillään</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>päivineen</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -331,25 +332,25 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-10637 [fi-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+10569 [fi-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (7999; 75%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6182; 58%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (7949; 75%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6134; 58%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (138; 1% of non-empty `Case`): <em>siltä, minulta, miltä, meiltä, häneltä, teiltä, heiltä, joltakulta, Miltähän, jolta</em>
-* `Acc` (150; 1% of non-empty `Case`): <em>hänet, minut, sinut, heidät, meidät, teidät, kenet, mut, sinutkin, sut</em>
-* `Ade` (661; 6% of non-empty `Case`): <em>minulla, meillä, sillä, hänellä, jolla, sinulla, heillä, mulla, teillä, joilla</em>
-* `All` (419; 4% of non-empty `Case`): <em>minulle, hänelle, meille, sinulle, sulle, sille, itselleen, heille, mulle, niille</em>
-* `Ela` (587; 6% of non-empty `Case`): <em>siitä, tästä, minusta, mistä, hänestä, josta, niistä, sinusta, joista, meistä</em>
+* `Abl` (136; 1% of non-empty `Case`): <em>siltä, minulta, miltä, meiltä, häneltä, heiltä, teiltä, joltakulta, Miltähän, jolta</em>
+* `Acc` (149; 1% of non-empty `Case`): <em>hänet, minut, sinut, heidät, meidät, teidät, kenet, mut, sinutkin, sut</em>
+* `Ade` (647; 6% of non-empty `Case`): <em>minulla, meillä, hänellä, sillä, jolla, sinulla, heillä, teillä, mulla, joilla</em>
+* `All` (418; 4% of non-empty `Case`): <em>minulle, hänelle, meille, sinulle, sulle, sille, itselleen, heille, mulle, niille</em>
+* `Ela` (583; 6% of non-empty `Case`): <em>siitä, tästä, minusta, mistä, hänestä, josta, niistä, joista, meistä, sinusta</em>
 * `Ess` (7; 0% of non-empty `Case`): <em>Sinuna, ittenä, jona, muutamana, samana, teinä</em>
-* `Gen` (1095; 10% of non-empty `Case`): <em>sen, hänen, minun, itsensä, jonka, meidän, tämän, kaiken, sinun, heidän</em>
-* `Ill` (243; 2% of non-empty `Case`): <em>siihen, tähän, johon, mihin, toiseen, niihin, mihinkään, joihin, itseensä, minuun</em>
-* `Ine` (236; 2% of non-empty `Case`): <em>siinä, jossa, missä, joissa, niissä, siinäpä, minussa, kaikessa, mis, näis</em>
+* `Gen` (1094; 10% of non-empty `Case`): <em>sen, hänen, minun, itsensä, jonka, meidän, tämän, kaiken, sinun, heidän</em>
+* `Ill` (243; 2% of non-empty `Case`): <em>siihen, tähän, johon, toiseen, mihin, niihin, joihin, itseensä, mihinkään, minuun</em>
+* `Ine` (234; 2% of non-empty `Case`): <em>siinä, jossa, missä, joissa, niissä, siinäpä, minussa, kaikessa, mis, näis</em>
 * `Ins` (4; 0% of non-empty `Case`): <em>samoin, toisin</em>
-* `Nom` (5440; 51% of non-empty `Case`): <em>se, hän, minä, kaikki, joka, mä, ne, sinä, he, me</em>
-* `Par` (1648; 15% of non-empty `Case`): <em>mitä, sitä, mitään, minua, häntä, niitä, jota, tätä, itseään, jotain</em>
-* `Tra` (9; 0% of non-empty `Case`): <em>miksi, miksikään, joksi, muuksi, samaksi, siksi, toiseksi</em>
+* `Nom` (5409; 51% of non-empty `Case`): <em>se, hän, minä, joka, mä, ne, sinä, he, me, kaikki</em>
+* `Par` (1636; 15% of non-empty `Case`): <em>sitä, mitä, minua, häntä, mitään, niitä, jota, tätä, jotain, meitä</em>
+* `Tra` (9; 0% of non-empty `Case`): <em>miksi, joksi, miksikään, muuksi, samaksi, siksi, toiseksi</em>
 * `EMPTY` (3): <em>joka, eri</em>
 
 <table>
@@ -360,40 +361,41 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `VERB`
 
-10482 [fi-pos/VERB]() tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
+10453 [fi-pos/VERB]() tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10482; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (10482; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10482; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (8612; 82%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5381; 51%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (5378; 51%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (5378; 51%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (10453; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10453; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (10453; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (8561; 82%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5328; 51%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (5325; 51%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (5325; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abe` (165; 2% of non-empty `Case`): <em>tekemättä, ottamatta, huomaamatta, juomatta, käyttämättä, maksamatta, sanomatta, tulematta, puhumattakaan, puuttumatta</em>
-* `Abl` (21; 0% of non-empty `Case`): <em>tulehtuneelta, hämmentyneeltä, uskomattomalta, vapauttavalta, asuneilta, hakevalta, iljettävältä, istuvalta, jäsennellyltä, loukkaantuneelta</em>
-* `Ade` (139; 1% of non-empty `Case`): <em>ostamalla, painamalla, antamalla, kaatamalla, myymällä, sanomalla, alentamalla, edellyttämällä, haukkumalla, jakamalla</em>
+* `Abe` (164; 2% of non-empty `Case`): <em>tekemättä, ottamatta, huomaamatta, juomatta, käyttämättä, maksamatta, sanomatta, tulematta, puuttumatta, pyytämättä</em>
+* `Abl` (20; 0% of non-empty `Case`): <em>tulehtuneelta, hämmentyneeltä, uskomattomalta, vapauttavalta, asuneilta, hakevalta, istuvalta, jäsennellyltä, loukkaantuneelta, merkityltä</em>
+* `Ade` (143; 1% of non-empty `Case`): <em>ostamalla, painamalla, saatavilla, antamalla, kaatamalla, myymällä, sanomalla, alentamalla, edellyttämällä, haukkumalla</em>
 * `All` (48; 0% of non-empty `Case`): <em>olevalle, sovitulle, tehdylle, tehtävälle, Syömälakkoilleelle, arvaamattomalle, hoidettavalle, hypnotisoidulle, hävinneelle, irtisanomilleen</em>
 * `Com` (3; 0% of non-empty `Case`): <em>esiintyvine, kiiluvine, lisääntyvine</em>
-* `Ela` (132; 1% of non-empty `Case`): <em>näkemästä, aiheuttamasta, puhumasta, tehdyistä, tulevasta, harkitsevista, jätetyistä, katsomasta, käymästä, lähtemästä</em>
+* `Ela` (131; 1% of non-empty `Case`): <em>näkemästä, aiheuttamasta, puhumasta, tehdyistä, tulevasta, harkitsevista, jätetyistä, katsomasta, käymästä, lähtemästä</em>
 * `Ess` (170; 2% of non-empty `Case`): <em>verrattuna, seuraavana, katsottuna, suhteutettuna, kuolleena, mitattuna, olevinaan, pidätettynä, elävänä, katottuna</em>
-* `Gen` (680; 6% of non-empty `Case`): <em>olevan, olevansa, olleen, tulevan, tulleen, kuluvan, kadonneen, näkevän, olevani, pitävän</em>
-* `Ill` (930; 9% of non-empty `Case`): <em>tulemaan, olemaan, tekemään, katsomaan, nukkumaan, puhumaan, maksamaan, ottamaan, toimimaan, lähtemään</em>
-* `Ine` (518; 5% of non-empty `Case`): <em>mennessä, ollessa, saamassa, syömässä, tullessaan, katsomassa, uimassa, hakemassa, korjattavissa, käymässä</em>
-* `Ins` (205; 2% of non-empty `Case`): <em>ollen, ottaen, lukien, tullen, katsoen, sanoen, yllättäen, käyttäen, istuen, katsellen</em>
-* `Lat` (3415; 33% of non-empty `Case`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, pitää</em>
-* `Nom` (3253; 31% of non-empty `Case`): <em>ollut, saanut, tullut, oleva, olleet, tehty, ollu, käynyt, sanonut, tehnyt</em>
-* `Par` (462; 4% of non-empty `Case`): <em>olevia, olevaa, tultua, tehtyä, jääneitä, levättyään, aiheuttamaa, annettavaa, katsottavaa, kuultuaan</em>
+* `Gen` (675; 6% of non-empty `Case`): <em>olevan, olevansa, olleen, tulevan, tulleen, kuluvan, kadonneen, näkevän, olevani, pitävän</em>
+* `Ill` (928; 9% of non-empty `Case`): <em>tulemaan, olemaan, tekemään, katsomaan, nukkumaan, puhumaan, maksamaan, ottamaan, toimimaan, lähtemään</em>
+* `Ine` (512; 5% of non-empty `Case`): <em>ollessa, saamassa, syömässä, tullessaan, katsomassa, uimassa, hakemassa, korjattavissa, käymässä, nähtävissä</em>
+* `Ins` (202; 2% of non-empty `Case`): <em>ollen, ottaen, lukien, tullen, katsoen, sanoen, yllättäen, käyttäen, istuen, katsellen</em>
+* `Lat` (3395; 32% of non-empty `Case`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</em>
+* `Nom` (3262; 31% of non-empty `Case`): <em>ollut, saanut, tullut, oleva, olleet, tehty, ollu, käynyt, sanonut, tehnyt</em>
+* `Par` (459; 4% of non-empty `Case`): <em>olevia, olevaa, tehtyä, tultua, jääneitä, levättyään, aiheuttamaa, annettavaa, katsottavaa, kuultuaan</em>
 * `Tra` (341; 3% of non-empty `Case`): <em>valituksi, päästäkseen, hoidetuksi, luullakseni, muistaakseni, nähdäkseen, kuulusteltavaksi, kuuluvaksi, käsittääkseni, saadakseen</em>
-* `EMPTY` (27294): <em>on, ei, oli, ole, ovat, en, olisi, voi, olen, tulee</em>
+* `EMPTY` (27147): <em>on, ei, oli, ole, ovat, en, olisi, voi, olen, tulee</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Lat</tt></th></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="InfForm.html">InfForm</a>=1|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>ollakaan</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="InfForm.html">InfForm</a>=2|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>ollessakaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollutkaan, ollukkaan</em></td><td><em>olleenkaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollukkaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollutkaan</em></td><td><em>olleenkaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olevankaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kaan|<a href="Number.html">Number</a>=Plur|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olleetkaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollukki</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollukki</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Plur|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olleetkin</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="InfForm.html">InfForm</a>=1|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>Ollako</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollukko</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollukko</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="InfForm.html">InfForm</a>=1|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>ollapa</em></td></tr>
   <tr><td><tt><a href="InfForm.html">InfForm</a>=1|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td></td><td><em>Ollaksesi</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="InfForm.html">InfForm</a>=1|<a href="Person[psor].html">Person[psor]</a>=3|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td></td><td><em>ollakseen</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -402,15 +404,18 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><a href="InfForm.html">InfForm</a>=2|<a href="Person[psor].html">Person[psor]</a>=3|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>ollessaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="InfForm.html">InfForm</a>=2|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>ollen</em></td><td></td><td></td><td></td><td><em>ollessa</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="InfForm.html">InfForm</a>=2|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>oltaessa</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="InfForm.html">InfForm</a>=3|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>olemaan, oleen</em></td><td><em>olemasta</em></td><td><em>olemalla</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="InfForm.html">InfForm</a>=3|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>oleen</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="InfForm.html">InfForm</a>=3|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>olemaan</em></td><td><em>olemasta</em></td><td><em>olemalla</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Person[psor].html">Person[psor]</a>=1|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olleeni</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="PartForm.html">PartForm</a>=Pres|<a href="Person[psor].html">Person[psor]</a>=1|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olevani</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Person[psor].html">Person[psor]</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olleensa</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Person[psor].html">Person[psor]</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td></td><td><em>oltuaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollut, ollu, ollum, olluh, ollun, olluk, olluj, olluv</em></td><td><em>olleen</em></td><td></td><td><em>ollutta</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>olleelta</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollu, ollum, olluk, olluh, ollun, olluv, olluj</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollut</em></td><td><em>olleen</em></td><td></td><td><em>ollutta</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>olleelta</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>oltu</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Pres|<a href="Person[psor].html">Person[psor]</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olevansa</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oleva</em></td><td><em>olevan, olevat</em></td><td></td><td><em>olevaa</em></td><td><em>olevana</em></td><td></td><td><em>olevassa</em></td><td><em>olevaan</em></td><td></td><td></td><td><em>olevalle</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Pres|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olevat</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>oleva</em></td><td><em>olevan</em></td><td></td><td><em>olevaa</em></td><td><em>olevana</em></td><td></td><td><em>olevassa</em></td><td><em>olevaan</em></td><td></td><td></td><td><em>olevalle</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>oltava</em></td><td><em>oltavan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="PartForm.html">PartForm</a>=Pres|<a href="Person[psor].html">Person[psor]</a>=2|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td><em>olevinasi</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>olleet</em></td><td></td><td></td><td><em>olleita</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>olleilta</em></td><td></td></tr>
@@ -422,126 +427,133 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 10066 [fi-pos/ADJ]() tokens (96% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (7564; 75%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (7603; 76%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Abe` (4; 0% of non-empty `Case`): <em>pitemmittä, pahemmitta, suuremmitta</em>
-* `Abl` (133; 1% of non-empty `Case`): <em>hyvältä, oudolta, upealta, mukavalta, suomalaisilta, oikealta, omalta, selvältä, tutulta, uudelta</em>
-* `Ade` (279; 3% of non-empty `Case`): <em>omalla, halvalla, hyvällä, pienellä, suomalaisilla, kovalla, omilla, suurella, pienillä, helpolla</em>
-* `All` (204; 2% of non-empty `Case`): <em>hyvälle, suomalaisille, kauniille, omalle, uudelle, pienelle, poliittisille, suomalaiselle, vieraalle, ahtaalle</em>
+* `Abl` (137; 1% of non-empty `Case`): <em>hyvältä, oudolta, upealta, mukavalta, suomalaisilta, oikealta, omalta, selvältä, tutulta, uudelta</em>
+* `Ade` (302; 3% of non-empty `Case`): <em>omalla, ensimmäisellä, halvalla, hyvällä, pienellä, suomalaisilla, kovalla, omilla, suurella, toisella</em>
+* `All` (201; 2% of non-empty `Case`): <em>hyvälle, suomalaisille, kauniille, omalle, uudelle, pienelle, poliittisille, suomalaiselle, vieraalle, ahtaalle</em>
 * `Com` (10; 0% of non-empty `Case`): <em>asiaankuuluvine, kiiltävine, mustine, omine, pitkine, sinisine, turhine, uusine, valkoisine, ystävällisine</em>
-* `Ela` (330; 3% of non-empty `Case`): <em>omasta, suomalaisista, omista, sellaisesta, uudesta, törkeästä, ammattimaisesta, edellisestä, erilaisesta, erilaisista</em>
-* `Ess` (353; 4% of non-empty `Case`): <em>nuorena, pienenä, kuumana, tärkeänä, valmiina, vapaana, väsyneenä, hyvänä, puhtaana, sairaana</em>
-* `Gen` (1260; 13% of non-empty `Case`): <em>uuden, oman, pienen, suomalaisen, erityisen, mahdollisimman, suomalaisten, hyvän, nuorten, vanhan</em>
-* `Ill` (329; 3% of non-empty `Case`): <em>uuteen, hyvään, uusiin, semmoseen, pitkään, suuriin, väärään, entiseen, varsinaiseen, isoon</em>
-* `Ine` (304; 3% of non-empty `Case`): <em>omassa, hyvässä, hyvissä, vanhassa, pienessä, suuressa, nykyisessä, tällaisissa, uudessa, korkeassa</em>
-* `Ins` (33; 0% of non-empty `Case`): <em>omin, selvin, taitavin, vähin, aistinvaraisin, halvoin, juhlallisin, jyrkin, järeämmin, kiiluvin</em>
-* `Nom` (4108; 41% of non-empty `Case`): <em>hyvä, uusi, oma, sellainen, suuri, ainoa, pieni, vaikea, vanha, parempi</em>
-* `Par` (2392; 24% of non-empty `Case`): <em>hyvää, uutta, uusia, omaa, sellaista, mahdollista, hauskaa, mukavaa, hyviä, parasta</em>
-* `Tra` (327; 3% of non-empty `Case`): <em>valmiiksi, hyväksi, kuuluisaksi, hulluksi, tyhjäksi, kuuluisiksi, kyseenalaiseksi, parhaaksi, alttiiksi, helpoksi</em>
-* `EMPTY` (399): <em>koko, viime, ensi, pikku, tosi, kelpo, ens, ihme, ainut, ekoeko</em>
+* `Ela` (321; 3% of non-empty `Case`): <em>omasta, suomalaisista, omista, uudesta, törkeästä, edellisestä, erilaisesta, erilaisista, hyvästä, kuluvasta</em>
+* `Ess` (368; 4% of non-empty `Case`): <em>ensimmäisenä, nuorena, pienenä, kuumana, tärkeänä, valmiina, vapaana, väsyneenä, hyvänä, puhtaana</em>
+* `Gen` (1279; 13% of non-empty `Case`): <em>uuden, oman, pienen, suomalaisen, ensimmäisen, erityisen, mahdollisimman, suomalaisten, hyvän, nuorten</em>
+* `Ill` (317; 3% of non-empty `Case`): <em>uuteen, hyvään, uusiin, pitkään, suuriin, väärään, entiseen, varsinaiseen, ensimmäiseen, isoon</em>
+* `Ine` (294; 3% of non-empty `Case`): <em>omassa, hyvässä, hyvissä, vanhassa, pienessä, suuressa, ensimmäisessä, nykyisessä, uudessa, korkeassa</em>
+* `Ins` (34; 0% of non-empty `Case`): <em>omin, selvin, taitavin, vähin, aistinvaraisin, halvoin, herkin, juhlallisin, jyrkin, järeämmin</em>
+* `Nom` (4104; 41% of non-empty `Case`): <em>hyvä, uusi, oma, ensimmäinen, suuri, ainoa, pieni, vaikea, vanha, parempi</em>
+* `Par` (2360; 23% of non-empty `Case`): <em>hyvää, uutta, uusia, omaa, mahdollista, hauskaa, mukavaa, hyviä, parasta, sellaista</em>
+* `Tra` (335; 3% of non-empty `Case`): <em>valmiiksi, hyväksi, kuuluisaksi, toiseksi, hulluksi, tyhjäksi, kuuluisiksi, kyseenalaiseksi, parhaaksi, alttiiksi</em>
+* `EMPTY` (428): <em>koko, viime, ensi, pikku, tosi, 1., 4., kelpo, ens, ihme</em>
 
 <table>
   <tr><th>Paradigm <i>oma</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omine</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Plur</tt></td><td><em>omatkin</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omistaki</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Plur</tt></td><td><em>omatkin</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omistaki</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Number.html">Number</a>=Sing</tt></td><td><em>Omapa</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omimmassa</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>oma</em></td><td><em>oman</em></td><td></td><td><em>omaa, ommoo</em></td><td><em>omana</em></td><td><em>omaksi</em></td><td></td><td><em>omassa</em></td><td><em>omaan</em></td><td><em>omasta</em></td><td><em>omalla</em></td><td><em>omalle</em></td><td><em>omalta</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>oma</em></td><td><em>oman</em></td><td></td><td><em>omaa</em></td><td><em>omana</em></td><td><em>omaksi</em></td><td></td><td><em>omassa</em></td><td><em>omaan</em></td><td><em>omasta</em></td><td><em>omalla</em></td><td><em>omalle</em></td><td><em>omalta</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=1</tt></td><td><em>omani</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2</tt></td><td></td><td></td><td></td><td></td><td></td><td><em>omaksesi</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td></td><td></td><td></td><td><em>omakseen</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>omat</em></td><td><em>omien</em></td><td><em>omin</em></td><td><em>omia, omii</em></td><td></td><td></td><td></td><td><em>omissa, omis</em></td><td><em>omiin</em></td><td><em>omista</em></td><td><em>omilla</em></td><td><em>omille</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td></td><td><em>ommoo</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>omat</em></td><td><em>omien</em></td><td><em>omin</em></td><td><em>omia</em></td><td></td><td></td><td></td><td><em>omissa</em></td><td><em>omiin</em></td><td><em>omista</em></td><td><em>omilla</em></td><td><em>omille</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=1</tt></td><td><em>omani</em></td><td></td><td></td><td><em>omiani</em></td><td></td><td></td><td></td><td></td><td><em>omiini</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td><em>omansa</em></td><td></td><td></td><td><em>omiaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omilleen</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td></td><td><em>omii</em></td><td></td><td></td><td></td><td><em>omis</em></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PROPN`
 
-6207 [fi-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+6773 [fi-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (6079; 98%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (6638; 98%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Abl` (86; 1% of non-empty `Case`): <em>Rovaniemeltä, Venäjältä, Ahtisaarelta, Europaeukselta, Jämsänkoskelta, Länsirannalta, Nokialta, Pohjanmaalta, Tampereelta, Utulta</em>
-* `Ade` (203; 3% of non-empty `Case`): <em>Tampereella, Hannalla, Rovaniemellä, Suomella, Vantaalla, Venäjällä, Ahvenanmaalla, Filippiineillä, Imatralla, Kaisulla</em>
-* `All` (170; 3% of non-empty `Case`): <em>Tampereelle, Rovaniemelle, Suomelle, Eilalle, Liisalle, Matille, Soilille, Bulevardille, Paula_Koivuniemelle, Rantaselle</em>
-* `Ela` (208; 3% of non-empty `Case`): <em>Porvoosta, Suomesta, Jyväskylästä, Helsingistä, Virosta, Brysselistä, Englannista, Euroopasta, Maijasta, Pekasta</em>
+* `Abl` (91; 1% of non-empty `Case`): <em>Rovaniemeltä, Venäjältä, Ahtisaarelta, Europaeukselta, Jämsänkoskelta, Länsirannalta, Nokialta, Pohjanmaalta, Tampereelta, Utulta</em>
+* `Ade` (207; 3% of non-empty `Case`): <em>Tampereella, Hannalla, Rovaniemellä, Suomella, Vantaalla, Venäjällä, Ahvenanmaalla, Filippiineillä, Imatralla, Kaisulla</em>
+* `All` (176; 3% of non-empty `Case`): <em>Tampereelle, Rovaniemelle, Suomelle, Eilalle, Liisalle, Matille, Soilille, BBC:lle, Bulevardille, Koivuniemelle</em>
+* `Ela` (213; 3% of non-empty `Case`): <em>Porvoosta, Suomesta, Jyväskylästä, Helsingistä, Virosta, Brysselistä, Englannista, Euroopasta, Maijasta, Pekasta</em>
 * `Ess` (4; 0% of non-empty `Case`): <em>Aatuna, Buddhana, bodhisattvana</em>
-* `Gen` (1837; 30% of non-empty `Case`): <em>Suomen, Helsingin, Euroopan, Ruotsin, Venäjän, Tampereen, Ranskan, Nokian, Yhdysvaltain, maijan</em>
-* `Ill` (233; 4% of non-empty `Case`): <em>Suomeen, Helsinkiin, Ruotsiin, Moskovaan, Englantiin, Kuusamoon, Turkkiin, Anneliin, Kuopioon, Pariisiin</em>
-* `Ine` (475; 8% of non-empty `Case`): <em>suomessa, Helsingissä, Ruotsissa, Euroopassa, Kuopiossa, Saksassa, Pariisissa, Turussa, Kanadassa, Amerikassa</em>
-* `Nom` (2737; 44% of non-empty `Case`): <em>Suomi, Maija, Mikko, Anna, Lasse, Pekka, Matti, Antti, Jussi, Liisa</em>
-* `Par` (248; 4% of non-empty `Case`): <em>Suomea, Helsinkiä, Pekkaa, Ahtisaarta, Dianaa, Elinaa, Eurooppaa, Mikkoa, Akselia, Doraa</em>
+* `Gen` (1984; 29% of non-empty `Case`): <em>Suomen, Helsingin, Euroopan, Ruotsin, Tampereen, Venäjän, Ranskan, EU:n, Turun, Nokian</em>
+* `Ill` (240; 4% of non-empty `Case`): <em>Suomeen, Helsinkiin, Ruotsiin, Moskovaan, EU:hun, Englantiin, Kuusamoon, Turkkiin, Anneliin, Kuopioon</em>
+* `Ine` (477; 7% of non-empty `Case`): <em>suomessa, Helsingissä, Ruotsissa, Euroopassa, Kuopiossa, Saksassa, Pariisissa, Turussa, Kanadassa, Amerikassa</em>
+* `Nom` (3123; 46% of non-empty `Case`): <em>Suomi, Maija, Mikko, Anna, Lasse, Pekka, matti, Antti, Halonen, Lipponen</em>
+* `Par` (252; 4% of non-empty `Case`): <em>Suomea, Helsinkiä, Pekkaa, Ahtisaarta, Dianaa, Elinaa, Eurooppaa, Koivistoa, Mikkoa, Akselia</em>
 * `Tra` (6; 0% of non-empty `Case`): <em>Chopiniksi, Muumipeikoksi, Pikku-Myyksi, Schumanniksi, Siniksi, Tuomelaksi</em>
 
 <table>
   <tr><th>Paradigm <i>suomi</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Par</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin</tt></td><td><em>Suomikin</em></td><td><em>Suomenkin</em></td><td></td><td><em>Suomessakin</em></td><td></td><td><em>Suomestakin</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko</tt></td><td></td><td></td><td></td><td><em>Suomessako</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>Suomi</em></td><td><em>Suomen, Suomet</em></td><td><em>Suomea</em></td><td><em>suomessa</em></td><td><em>Suomeen</em></td><td><em>Suomesta</em></td><td><em>Suomella</em></td><td><em>Suomelle</em></td></tr>
+  <tr><td><tt></tt></td><td><em>Suomi</em></td><td><em>Suomen</em></td><td><em>Suomea</em></td><td><em>suomessa</em></td><td><em>Suomeen</em></td><td><em>Suomesta</em></td><td><em>Suomella</em></td><td><em>Suomelle</em></td></tr>
+  <tr><td><tt><a href="Style.html">Style</a>=Coll</tt></td><td></td><td><em>Suomet</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `DET`
 
-3753 [fi-pos/DET]() tokens (97% of all `DET` tokens) have a non-empty value of `Case`.
+3980 [fi-pos/DET]() tokens (97% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (3348; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (2477; 66%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2648; 67%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Abe` (2; 0% of non-empty `Case`): <em>muitta</em>
-* `Abl` (42; 1% of non-empty `Case`): <em>kaikilta, muilta, tältä, näiltä, siltä, eräiltä, joltakin, miltä, monelta, samalta</em>
-* `Ade` (239; 6% of non-empty `Case`): <em>tällä, sillä, samalla, näillä, toisella, millä, kaikilla, millään, tuolla, jokaisella</em>
-* `All` (75; 2% of non-empty `Case`): <em>kaikille, sille, toiselle, jokaiselle, niille, monelle, tälle, mille, millekään, joillekin</em>
+* `Abl` (43; 1% of non-empty `Case`): <em>kaikilta, muilta, tältä, näiltä, siltä, eräiltä, joltakin, miltä, monelta, samalta</em>
+* `Ade` (242; 6% of non-empty `Case`): <em>tällä, sillä, samalla, näillä, toisella, millä, kaikilla, tuolla, jokaisella, monella</em>
+* `All` (78; 2% of non-empty `Case`): <em>kaikille, sille, toiselle, jokaiselle, niille, monelle, tälle, joillekin, meille, mille</em>
 * `Com` (4; 0% of non-empty `Case`): <em>kaikkine, niine</em>
-* `Ela` (168; 4% of non-empty `Case`): <em>tästä, siitä, kaikista, muista, näistä, mistään, jostakin, mistä, niistä, samasta</em>
-* `Ess` (93; 2% of non-empty `Case`): <em>tänä, minään, sinä, jonakin, samana, jokaisena, näinä, eräänä, muina, tänäkin</em>
-* `Gen` (989; 26% of non-empty `Case`): <em>sen, hänen, tämän, meidän, minun, heidän, niiden, muutaman, jonka, mun</em>
-* `Ill` (145; 4% of non-empty `Case`): <em>tähän, siihen, samaan, mihinkään, johonkin, mihin, toiseen, näihin, kaikkiin, moneen</em>
-* `Ine` (240; 6% of non-empty `Case`): <em>tässä, siinä, missä, missään, kaikissa, samassa, näissä, jossain, monessa, kaikessa</em>
+* `Ela` (180; 5% of non-empty `Case`): <em>tästä, siitä, muista, näistä, kaikista, jostakin, mistä, niistä, samasta, sellaisesta</em>
+* `Ess` (95; 2% of non-empty `Case`): <em>tänä, sinä, jonakin, samana, jokaisena, minään, näinä, eräänä, muina, tänäkin</em>
+* `Gen` (1005; 25% of non-empty `Case`): <em>sen, hänen, tämän, meidän, minun, heidän, muutaman, niiden, mun, jonka</em>
+* `Ill` (161; 4% of non-empty `Case`): <em>tähän, siihen, samaan, mihinkään, johonkin, semmoseen, toiseen, mihin, näihin, kaikkiin</em>
+* `Ine` (256; 6% of non-empty `Case`): <em>tässä, siinä, missä, kaikissa, samassa, missään, näissä, jossain, monessa, kaikessa</em>
 * `Ins` (10; 0% of non-empty `Case`): <em>kaikin, monin, muin, molemmin, samoin</em>
-* `Nom` (1076; 29% of non-empty `Case`): <em>kaikki, se, tämä, joku, ne, tuo, mikä, tää, toinen, nämä</em>
-* `Par` (665; 18% of non-empty `Case`): <em>mitään, sitä, jotain, mitä, tätä, monta, niitä, useita, näitä, jotakin</em>
+* `Nom` (1172; 29% of non-empty `Case`): <em>se, kaikki, tämä, joku, ne, tuo, mikä, tää, nämä, mikään</em>
+* `Par` (727; 18% of non-empty `Case`): <em>mitään, sitä, jotain, mitä, tätä, monta, niitä, useita, näitä, jotakin</em>
 * `Tra` (5; 0% of non-empty `Case`): <em>täksi, Kaikeksi, moneksi, samaksi</em>
 * `EMPTY` (129): <em>joka, eri</em>
 
 <table>
   <tr><th>Paradigm <i>kaikki</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Tra</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>kaikki, kaikkis</em></td><td></td><td></td><td></td><td></td><td><em>kaikkine</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>kaiken</em></td><td></td><td><em>kaikkea</em></td><td><em>Kaikeksi</em></td><td></td><td><em>kaikessa</em></td><td></td><td><em>kaikesta</em></td><td><em>kaikella</em></td><td><em>kaikelle</em></td><td><em>kaikelta</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>kaikkien, kaikkein</em></td><td><em>kaikin</em></td><td><em>kaikkia, kaikkii</em></td><td></td><td></td><td><em>kaikissa</em></td><td><em>kaikkiin</em></td><td><em>kaikista, kaikist</em></td><td><em>kaikilla</em></td><td><em>kaikille</em></td><td><em>kaikilta</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>kaikkien, kaikkein</em></td><td><em>kaikin</em></td><td><em>kaikkia</em></td><td></td><td></td><td><em>kaikissa</em></td><td><em>kaikkiin</em></td><td><em>kaikista</em></td><td><em>kaikilla</em></td><td><em>kaikille</em></td><td><em>kaikilta</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td></td><td><em>kaikkii</em></td><td></td><td></td><td></td><td></td><td><em>kaikist</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>kaikki</em></td><td></td><td></td><td></td><td></td><td><em>kaikkine</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Style.html">Style</a>=Coll</tt></td><td><em>kaikkis</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `NUM`
 
-1769 [fi-pos/NUM]() tokens (70% of all `NUM` tokens) have a non-empty value of `Case`.
+1507 [fi-pos/NUM]() tokens (67% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1648; 93%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1496; 85%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1507; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1405; 93%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Abl` (33; 2% of non-empty `Case`): <em>kolmelta, kuudelta, puolilta, viideltä, kahdeksalta, kymmeneltä, aamuviideltä, ensimmäiseltä, ensimmäisiltä, kahdelta</em>
-* `Ade` (74; 4% of non-empty `Case`): <em>ensimmäisellä, yhdellä, kolmella, toisella, kahdella, puolella, viidellä, kahdeksalla, kuudennella, miljardilla</em>
-* `All` (25; 1% of non-empty `Case`): <em>kahdelle, viidelle, puolelle, miljoonalle, toiselle, yksille, 40:lle, kahdeksalle, kuudelle, kymmenkunnalle</em>
+* `Abl` (34; 2% of non-empty `Case`): <em>kolmelta, kuudelta, puolelta, puolilta, viideltä, kahdeksalta, kymmeneltä, aamuviideltä, kahdelta, kaheksalta</em>
+* `Ade` (46; 3% of non-empty `Case`): <em>yhdellä, kolmella, kahdella, puolella, viidellä, kahdeksalla, miljardilla, neljällä, tuhannella, 12:lla</em>
+* `All` (24; 2% of non-empty `Case`): <em>kahdelle, viidelle, puolelle, miljoonalle, yksille, 40:lle, 95:lle, kahdeksalle, kuudelle, kymmenkunnalle</em>
 * `Com` (3; 0% of non-empty `Case`): <em>kaksine, kolmine, satoine</em>
-* `Ela` (58; 3% of non-empty `Case`): <em>kahdesta, kolmesta, yhdestä, neljästä, viidestä, toisesta, 300-400:sta, 31:stä, 32:sta, 761:stä</em>
-* `Ess` (32; 2% of non-empty `Case`): <em>ensimmäisenä, yhtenä, toisena, kahtena, kolmantena, ekana, ensimmäisinä, miljoonina, parina, seitsemäntenä</em>
-* `Gen` (352; 20% of non-empty `Case`): <em>kahden, yhden, viiden, kolmen, ensimmäisen, kymmenen, miljoonan, neljän, parin, toisen</em>
-* `Ill` (85; 5% of non-empty `Case`): <em>kolmeen, yhteen, kahteen, viiteen, puoleen, ensimmäiseen, neljään, kuutee, kuuteen, miljoonaan</em>
-* `Ine` (51; 3% of non-empty `Case`): <em>kahdessa, yhdessä, viidessä, ensimmäisessä, kolmessa, kolmannessa, kolmissakymmenissä, neljässä, puolessa, 13:ssa</em>
+* `Ela` (51; 3% of non-empty `Case`): <em>kahdesta, kolmesta, yhdestä, neljästä, viidestä, 300-400:sta, 31:stä, 32:sta, 761:stä, iltakuudesta</em>
+* `Ess` (13; 1% of non-empty `Case`): <em>yhtenä, kahtena, miljoonina, parina, viitenä, viitenätoista, yhtenäkään</em>
+* `Gen` (311; 21% of non-empty `Case`): <em>kahden, yhden, viiden, kolmen, kymmenen, miljoonan, neljän, parin, puolen, sadan</em>
+* `Ill` (79; 5% of non-empty `Case`): <em>kolmeen, yhteen, kahteen, viiteen, puoleen, neljään, kuutee, kuuteen, miljoonaan, pariin</em>
+* `Ine` (43; 3% of non-empty `Case`): <em>kahdessa, yhdessä, viidessä, kolmessa, kolmissakymmenissä, neljässä, puolessa, 13:ssa, 27:ssä, 29:ssä</em>
 * `Ins` (6; 0% of non-empty `Case`): <em>kaksin, kolmin, kymmenin</em>
-* `Nom` (847; 48% of non-empty `Case`): <em>kaksi, yksi, kolme, viisi, ensimmäinen, pari, neljä, kymmenen, puoli, yks</em>
-* `Par` (179; 10% of non-empty `Case`): <em>miljoonaa, yhtä, tuhansia, toista, kahta, miljardia, satoja, kymmeniä, ensimmäistä, sataa</em>
-* `Tra` (24; 1% of non-empty `Case`): <em>toiseksi, kahdeksi, kolmanneksi, viideksi, aamukuudeksi, ensmeiseks, kuudeks, neljänneksi, pariksi, sadaksi</em>
-* `EMPTY` (772): <em>10, 30, 20, 2000, 200, 50, 40, 12, 15, 1995</em>
+* `Nom` (739; 49% of non-empty `Case`): <em>kaksi, yksi, kolme, viisi, pari, neljä, kymmenen, puoli, yks, puolet</em>
+* `Par` (146; 10% of non-empty `Case`): <em>miljoonaa, yhtä, tuhansia, satoja, kahta, miljardia, kymmeniä, sataa, viittä, tuhatta</em>
+* `Tra` (12; 1% of non-empty `Case`): <em>kahdeksi, viideksi, aamukuudeksi, kuudeks, pariksi, sadaksi, seittemäks, yhdeksi</em>
+* `EMPTY` (745): <em>10, 30, 20, 2000, 200, 50, 40, 12, 15, 1995</em>
 
 <table>
   <tr><th>Paradigm <i>kaksi</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Sing</tt></td><td><em>kaksikin</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>kaksi, kaks</em></td><td><em>kahden</em></td><td></td><td><em>kahta</em></td><td><em>kahtena</em></td><td><em>kahdeksi</em></td><td></td><td><em>kahdessa</em></td><td><em>kahteen</em></td><td><em>kahdesta</em></td><td><em>kahdella</em></td><td><em>kahdelle</em></td><td><em>kahdelta</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>kaksi</em></td><td><em>kahden</em></td><td></td><td><em>kahta</em></td><td><em>kahtena</em></td><td><em>kahdeksi</em></td><td></td><td><em>kahdessa</em></td><td><em>kahteen</em></td><td><em>kahdesta</em></td><td><em>kahdella</em></td><td><em>kahdelle</em></td><td><em>kahdelta</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll</tt></td><td><em>kaks</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>kahdet</em></td><td></td><td><em>kaksin</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt></tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>kaksine</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
@@ -549,14 +561,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5288; 91%),
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (2548; 78%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1523; 91%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (1070; 97%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (468; 59%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (416; 97%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (317; 94%),
-<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (309; 66%),
-<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (300; 58%),
-<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (295; 51%).
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5256; 90%),
+<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (2551; 78%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1507; 91%),
+<tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (1124; 53%),
+<tt>ADJ --[<a href="../dep/nsubj:cop.html">nsubj:cop</a>]--> NOUN</tt> (465; 59%),
+<tt>PROPN --[<a href="../dep/name.html">name</a>]--> PROPN</tt> (462; 60%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (432; 97%),
+<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (326; 93%),
+<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (289; 64%),
+<tt>NOUN --[<a href="../dep/nsubj:cop.html">nsubj:cop</a>]--> NOUN</tt> (279; 56%).
 
