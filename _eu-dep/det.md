@@ -65,7 +65,7 @@ punct(Aukera-1-2, .-4)
 *They have very **few** relation with us .*
 
 ~~~ sdparse
-Oso harreman gutxi dute gurekin . n\ Very relation few have us_with .
+Oso harreman gutxi dute gurekin . \n Very relation few have us_with .
 
 advmod(harreman-2, Oso-1)
 det(harreman-2, gutxi-3)
