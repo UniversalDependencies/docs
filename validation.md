@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-05-18T14:37:46Z">2016-05-18T14:37:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-05-26T07:34:34Z">2016-05-26T07:34:34 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -241,6 +241,17 @@ python tools/validate.py --lang zh UD-dev-branches/UD_Chinese/zh-ud-train.conllu
 ******************
 
 
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
+<span class="widespan">cop</span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-26T07:33:34Z">2016-05-26T07:33:34 zulu</time></span>
+</div>
+<div>
+<pre>
+No data
 </pre>
 </div>
 <div>
@@ -1784,6 +1795,17 @@ python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 <span class="widespan">uk</span>
 <span class="validationfail">EMPTY</span>
 <span class="doublewidespan"> <time class="timeago" datetime="2016-05-13T08:00:42Z">2016-05-13T08:00:42 zulu</time></span>
+</div>
+<div>
+<pre>
+No data
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
+<span class="widespan">vi</span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-05-26T07:34:34Z">2016-05-26T07:34:34 zulu</time></span>
 </div>
 <div>
 <pre>
