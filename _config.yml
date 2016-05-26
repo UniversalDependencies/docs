@@ -654,6 +654,20 @@ collections:
   cop-overview:
     output: true
 #
+# Vietnamese
+#
+  vi-pos:
+    output: true
+    permalink: /vi/pos/:path.html
+  vi-feat:
+    output: true
+    permalink: /vi/feat/:path.html
+  vi-dep:
+    output: true
+    permalink: /vi/dep/:path.html
+  vi-overview:
+    output: true
+#
 # Template
 #
   template-pos:
