@@ -59,7 +59,7 @@ Based on the group reports, issues can be sorted into two groups:
 
 5. Core arguments: we need to sort out the exact criteria for distinguishing different core arguments, including the distinction between [u-dep/dobj]() and [u-dep/iobj](), the use of the [u-dep/expl]() relation, and the treatment of pro-drop, clitic doubling, and dislocation.
 
-6. Enhanced dependencies: we need guidelines for the enhanced dependencies, which can potentially play a role in resolving all the previous long-term issues.
+6. Enhanced dependencies:  we need guidelines for the enhanced dependencies, which can potentially play a role in resolving all the previous long-term issues.
 
 
 

@@ -4,5 +4,4 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Case`.
+`Case` only appears for French in rare cases, where a phrase is borrowed from Latin or another case-marked language.

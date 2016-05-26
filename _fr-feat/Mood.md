@@ -4,5 +4,9 @@ title: 'Mood'
 shortdef: 'mood'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Mood`.
+`Mood` has the four following possible values for French, on finite verb forms:
+
+- Ind: indicative
+- Imp: imperative
+- Cnd: conditional
+- Sub: subjunctive

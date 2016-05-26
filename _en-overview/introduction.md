@@ -6,9 +6,15 @@ permalink: en/overview/introduction.html
 
 # Introduction
 
+There are now 3 English treebanks in UD. The descriptions here are biased towards the original UD\_English treebank, but this should be improved over time.
+
+# English Web Treebank (UD\_English)
+
 This is a gold standard Universal Dependencies corpus for English,
 built over the source texts of the Linguistic Data Consortium English Web Treebank
 [LDC2012T13](https://catalog.ldc.upenn.edu/LDC2012T13).
+
+Links: [Github repository](https://github.com/UniversalDependencies/UD_English); [Current readme](https://github.com/UniversalDependencies/UD_English/blob/master/README.txt).
 
 The corpus comprises 254,830 words and 16,622 sentences, taken from five genres of web media:
 weblogs, newsgroups, emails, reviews, and Yahoo! answers. See 
@@ -56,7 +62,31 @@ Natalia Silveira.
 The construction of the Universal Dependencies English Web Treebank was partially funded
 by a gift from Google, Inc., which we gratefully acknowledge.
 
-## References
+
+# Treebank of Learner English (TLE) (UD\_English-ESL)
+
+Manual POS tag and dependency annotations for 5,124 English as a Second
+Language (ESL) sentences. The sentences are drawn from the Cambridge Learner
+Corpus First Certificate in English (FCE) dataset. 
+
+Links: [Github repository](https://github.com/UniversalDependencies/UD_English-ESL); [Current readme](https://github.com/UniversalDependencies/UD_English-ESL/blob/master/README.txt).
+
+# LinES Parallel Treebank 1.0 (UD\_English-LinES)
+
+This treebank is the English half of the LinES Parallel Treebank 1.0
+with the original dependency annotation first automatically converted
+into Universal Dependencies and then partially reviewed. LinES
+contains segments from seven different sources, three of which are
+part of the Linköping Translation Corpus Corpus (Merkel, 1999). The
+treebank was first developed in the project 'Micro- and macro-level
+analysis of translations' funded by the Swedish Research Council
+(Ahrenberg, 2007).
+
+Links: [Github repository](https://github.com/UniversalDependencies/UD_English-LinES); [Current readme](https://github.com/UniversalDependencies/UD_English-LinES/blob/master/README.txt).
+
+
+
+# References
 
 English Web Treebank [LDC2012T13](https://catalog.ldc.upenn.edu/LDC2012T13).
 

@@ -21,7 +21,7 @@ amod(hazkunderik-4, inolako-3)
 nsubj(antzematen-5, hazkunderik-4)
 nmod(erabileran-7, euskararen-6)
 nmod(antzematen-5, erabileran-7)
-punct(antzematen-5, .-8)
+punct(antzematen-5, .-6)
 ~~~
 
 *Agian **ez** zela hain beharrezkoa .*

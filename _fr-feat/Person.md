@@ -4,5 +4,4 @@ title: 'Person'
 shortdef: 'person'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Person`.
+`Person` is marked for verbs and pronouns in French, as first (1), second (2), or third (3) person.

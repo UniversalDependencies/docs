@@ -4,5 +4,5 @@ title: 'Animacy'
 shortdef: 'animacy'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Animacy`.
+The French treebank doesn't contain information about `Animacy`.
+

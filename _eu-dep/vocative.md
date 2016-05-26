@@ -14,6 +14,7 @@ The `vocative` relation is used to mark dialogue participant addressed in text (
 Ganix, etorri! \n Ganix, come!
 
 vocative(etorri-3, Ganix-1)
+punct(etorri-3, ,-2)
 punct(etorri-3, !-4)
 ~~~
 
@@ -26,6 +27,7 @@ punct(etorri-3, !-4)
 Nora zoaz, Kurt ? \n Where you_are_going, Kurt ?
 
 vocative(zoaz-2, Kurt-4)
+punct(zoaz-2, ,-3)
 advmod(zoaz-2, Nora-1)
 punct(zoaz-2, ?-5)
 ~~~

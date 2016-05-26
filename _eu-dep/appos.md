@@ -73,7 +73,7 @@ punct(iharduera-11, .-14)
 Francesco Casagrandre italiarrak Nazioarteko Txirrindularitza Elkarteko (UCI) lehen postuan jarraitzen du . n\ Francesco Casagrandre italian_the Internationale_the_of Cycliste Union (UCI) first position_the_in continues .  
 
 nmod(italiarrak-3, Francesco-1)
-name(Francesco-1,  Casagrandre-2)
+name(Francesco-1, Casagrandre-2)
 nsubj(jarraitzen-9, italiarrak-3)
 amod(lehen-8, Nazioarteko-4)
 name(Nazioarteko-4, Txirrindularitza-5)
