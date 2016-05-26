@@ -7,6 +7,7 @@
 "Bulgarian":"bg",
 "Catalan":"ca",
 "Chinese":"zh",
+"Coptic":"cop",
 "Croatian":"hr",
 "Czech":"cs",
 "Czech-CAC":"cs_cac",
@@ -57,5 +58,6 @@
 "Swedish-LinES":"sv_lines",
 "Tamil":"ta",
 "Turkish":"tr",
-"Ukrainian":"uk"
+"Ukrainian":"uk",
+"Vietnamese":"vi"
 }
