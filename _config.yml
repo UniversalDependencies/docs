@@ -640,6 +640,20 @@ collections:
 
 
 #
+# Coptic
+#
+  cop-pos:
+    output: true
+    permalink: /cop/pos/:path.html
+  cop-feat:
+    output: true
+    permalink: /cop/feat/:path.html
+  cop-dep:
+    output: true
+    permalink: /cop/dep/:path.html
+  cop-overview:
+    output: true
+#
 # Template
 #
   template-pos:
