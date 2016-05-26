@@ -153,6 +153,11 @@
     "lang_name": "Chinese"
   }, 
   {
+    "lang_code": "cop", 
+    "contributors": [], 
+    "lang_name": "Coptic"
+  }, 
+  {
     "lang_code": "hr", 
     "contributors": [
       {
@@ -1173,5 +1178,10 @@
     "lang_code": "uk", 
     "contributors": [], 
     "lang_name": "Ukrainian"
+  }, 
+  {
+    "lang_code": "vi", 
+    "contributors": [], 
+    "lang_name": "Vietnamese"
   }
 ]
