@@ -12,3 +12,7 @@ objects. It occurs only when there is a `dobj` or `ccomp` in the clause.
 She gave me a raise
 iobj(gave, me)
 ~~~
+
+Note that prepositional phrases are not considered core arguments in English,
+hence in _she gave it to me_, the _to me_ part is attached as [nmod]() although
+semantically it corresponds to the dative.
