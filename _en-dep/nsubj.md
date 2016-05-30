@@ -14,7 +14,7 @@ or it may be a pronoun or relative pronoun, or in ellipsis contexts, other thing
 The `nsubj` role is only applied to semantic arguments of a predicate.
 When there is an empty argument in a grammatical subject position (sometimes called a pleonastic or expletive),
 it is labeled as [expl](). If there is then a displaced subject
-in the clause, as in the English existential _there_ construction, it will be labeled as `nsubj`.)
+in the clause, as in the English existential _there_ construction, it will be labeled as `nsubj`.
 The governor of the `nsubj` relation might not always be a verb: when
 the verb is a copular verb, the root of the clause is the complement
 of the copular verb, which can be an adjective or noun, including a noun marked by a preposition,
