@@ -20,6 +20,10 @@ the verb is a copular verb, the root of the clause is the complement
 of the copular verb, which can be an adjective or noun, including a noun marked by a preposition,
 as in the examples below.
 
+In English, the `nsubj` normally precedes the predicate that it depends on, but this need not be the case, 
+both for the displaced subjects of expletive constructions and in other cases of stylistic inversion, such
+as the example headed by the predicate _come_ below.
+
 ~~~ sdparse
 Clinton defeated Dole
 nsubj(defeated, Clinton)
@@ -55,4 +59,9 @@ nsubj(is, ghost)
 These links present the many viewpoints that existed .
 acl:relcl(viewpoints, existed)
 nsubj(existed, that)
+~~~
+
+~~~sdparse
+From China comes news of a new super-small mobile phone .
+nsubj(comes, news)
 ~~~
