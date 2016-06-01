@@ -137,6 +137,9 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   [A Persian treebank with Stanford typed dependencies](http://www.lrec-conf.org/proceedings/lrec2014/pdf/378_Paper.pdf).
   In *Proceedings of LREC*.
 
+* Pavel Straňák, Jan Štěpánek. 2010.
+  [Representing Layered and Structured Data in the CoNLL-ST Format](http://ufal.mff.cuni.cz/biblio/index.jsp?section=publication&id=5199616322962363209&mode=view). In *Proceedings of ICGL 2010*.
+
 * Reut Tsarfaty. 2013.
   [A unified morpho-syntactic scheme of Stanford dependencies](http://www.tsarfaty.com/pdfs/acl13.pdf).
   In *Proceedings of ACL*.
