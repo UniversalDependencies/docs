@@ -100,7 +100,7 @@
 -
   name: Relation det is used for node that is neither DET nor PRON
   required_empty: true
-  expr: !DET&!PRON <det _
+  expr: "!DET&!PRON <det _"
   desc: The det relation is primarily intended for determiners, i.e. words tagged DET. Pronouns are tolerated at least until the borderline between the two classes is better investigated and defined.
   link: http://universaldependencies.org/docs/u/dep/det.html
 
@@ -205,7 +205,7 @@
 
 -
   name: Heads of an advmod are nominal
-  expr: _ <advmod (NOUN|PROPN|NUM|PRON)
+  expr: "_ <advmod (NOUN|PROPN|NUM|PRON)"
   desc: "<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The heads of an adverbial modifier should normally not be nominal (noun, proper noun, numeral, or pronoun). Exceptions occur in nominal clauses, where a nominal is the main predicate and can therefore take clause adverbials. Example: This is probably an exception."
   link: http://universaldependencies.org/docs/u/dep/advmod.html
 
@@ -261,7 +261,7 @@
 
 -
   name: Marked as neg but not PART or ADV
-  expr: !PART&!ADV <neg _
+  expr: "!PART&!ADV <neg _"
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The neg relation is used to attach negating particles (sometimes also tagged as adverbs; but we probably want to choose just one tag), such as English <i>not</i>, to the predicate or phrase they negate. It is not used for negative determiners such as English <i>no</i> in <i>there is no chance</i>, which should be attached as det.
   link: http://universaldependencies.org/docs/u/dep/neg.html
 
