@@ -100,7 +100,7 @@
 -
   name: Relation det is used for node that is neither DET nor PRON
   required_empty: true
-  expr: "!DET&!PRON <det _"
+  expr: "(!DET&!PRON) <det _"
   desc: The det relation is primarily intended for determiners, i.e. words tagged DET. Pronouns are tolerated at least until the borderline between the two classes is better investigated and defined.
   link: http://universaldependencies.org/docs/u/dep/det.html
 
