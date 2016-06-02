@@ -74,6 +74,13 @@
   link: http://universaldependencies.org/docs/u/dep/nsubjpass.html
 
 -
+  name: Passive subject of a NOUN
+  required_empty: true
+  expr: "_ <nsubjpass NOUN"
+  desc: Nouns may have subjects in copula-like constructions. Copula-like constructions may be passive if the predicate is passive participle. But a combination of the two cases seems too much.
+  link: http://universaldependencies.org/docs/u/dep/nsubjpass.html
+
+-
   name: Copula is not VERB
   required_empty: true
   expr: (!VERB) <cop _
@@ -89,6 +96,13 @@
   pos_ex: "This is a fact that we cannot ignore . You know that we cannot ignore it .\ndobj(ignore-8, that-5)\nmark(ignore-15, that-12)"
   neg_ex: "This is a fact that we cannot ignore .\nmark(ignore-8, that-5)"
   link: http://universaldependencies.org/docs/u/dep/mark.html
+
+-
+  name: Relation det is used for node that is neither DET nor PRON
+  required_empty: true
+  expr: !DET&!PRON <det _
+  desc: The det relation is primarily intended for determiners, i.e. words tagged DET. Pronouns are tolerated at least until the borderline between the two classes is better investigated and defined.
+  link: http://universaldependencies.org/docs/u/dep/det.html
 
 -
   name: Relation punct is used for node that is not PUNCT
@@ -137,6 +151,13 @@
   link: http://universaldependencies.org/docs/u/feat/Mood.html
 
 -
+  name: Degree feature used with a word that is neither adjective nor adverb
+  required_empty: true
+  expr: "Degree&!ADJ&!ADV"
+  desc: The Degree feature is normally associated with (a subset of) adjectives and adverbs. Other tags than ADJ and ADV are probably wrong.
+  link: http://universaldependencies.org/u/feat/Degree.html
+
+-
   name: Maximum one subject
   expr: "_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubjpass|>csubjpass _"
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> No predicate can have more than one subject. Note that subordinate clauses do not head copulas for this reason.
@@ -162,12 +183,18 @@
   link: http://universaldependencies.org/docs/u/dep/case.html
 
 -
+  name: ADP is not leaf
+  expr: "ADP >!conj&>!cc&>!punct&>!mwe&>!foreign _"
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> By default adposition is a leaf node attached to a nominal as case. Exceptions where adpositions are not leaves involve technical relations such as mwe and conj.
+  link: http://universaldependencies.org/docs/u/dep/case.html
+
+-
   name: Appos chain
   required_empty: true
   expr: "_ <appos (_ <appos _)"
   pos_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(Sam, cousin)"
   neg_ex: "Sam , my brother , John 's cousin , arrived\nappos(Sam, brother)\nappos(brother, cousin)"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Apposition dependencies should not be chained. Multiple appositions should all be attached to the head, or they should be coordinated (with the first apposition as the head). Legitimate exceptions do occur, however, in the rare case when an apposition has an apposition of its own, which does not apply to head of the first apposition. 
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Apposition dependencies should not be chained. Multiple appositions should all be attached to the head, or they should be coordinated (with the first apposition as the head). Legitimate exceptions do occur, however, in the rare case when an apposition has an apposition of its own, which does not apply to head of the first apposition.
   link: http://universaldependencies.org/u/dep/appos.html
 
 -
@@ -221,10 +248,22 @@
   link: http://universaldependencies.org/docs/u/dep/aux_.html
 
 -
+  name: Marked as cc but not CONJ, SYM or ADV
+  expr: "!CONJ&!SYM&!ADV <cc _"
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The relation cc is for coordinating conjunctions, hence the most expected POS tag is CONJ. Symbols such as + may occasionally replace conjunctions, and in some languages some adverbs may take this syntactic function too. However, most other tags are suspicious at least.
+  link: http://universaldependencies.org/docs/u/dep/cc.html
+
+-
   name: Cc is not leaf
   expr: _ < (_ <cc _)
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Coordinating conjunction should be attached to the first conjunct and it should not have its own dependents.
   link: http://universaldependencies.org/docs/u/dep/cc.html
+
+-
+  name: Marked as neg but not PART or ADV
+  expr: !PART&!ADV <neg _
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The neg relation is used to attach negating particles (sometimes also tagged as adverbs; but we probably want to choose just one tag), such as English <i>not</i>, to the predicate or phrase they negate. It is not used for negative determiners such as English <i>no</i> in <i>there is no chance</i>, which should be attached as det.
+  link: http://universaldependencies.org/docs/u/dep/neg.html
 
 -
   name: Parts of speech of expl
