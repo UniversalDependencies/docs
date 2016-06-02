@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-06-02T20:49:12Z">2016-06-02T20:49:12 zulu</time>
+Regenerated <time class="timeago" datetime="2016-06-02T21:01:36Z">2016-06-02T21:01:36 zulu</time>
 
 # Aux chain
 
@@ -13683,7 +13683,7 @@ Hits table not produced since the query does not start with the simple token spe
 
 The det relation is primarily intended for determiners, i.e. words tagged DET. Pronouns are tolerated at least until the borderline between the two classes is better investigated and defined.
 
-Search expression: `!DET&!PRON <det _`
+Search expression: `(!DET&!PRON) <det _`
 
 <a href="http://universaldependencies.org/docs/u/dep/det.html">Link to documentation</a>
 
@@ -13700,413 +13700,413 @@ Hits table not produced since the query does not start with the simple token spe
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Amharic-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Amharic-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Ancient_Greek</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Ancient_Greek-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Ancient_Greek-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Ancient_Greek-PROIEL</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Ancient_Greek-PROIEL-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Ancient_Greek-PROIEL-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Arabic-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Arabic-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Basque</span>
 <span class="widespan">869 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Basque-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Basque-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
 <span class="widespan">6 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Bulgarian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Bulgarian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
 <span class="widespan">62 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Catalan-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Catalan-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Chinese</span>
 <span class="widespan">2996 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Chinese-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Chinese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Coptic</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Coptic-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Coptic-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Croatian</span>
 <span class="widespan">228 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Croatian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Croatian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Czech-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Czech-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech-CAC</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Czech-CAC-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Czech-CAC-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech-CLTT</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Czech-CLTT-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Czech-CLTT-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Danish</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Danish-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Danish-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Dutch</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Dutch-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Dutch-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Dutch-LassySmall</span>
 <span class="widespan">167 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Dutch-LassySmall-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Dutch-LassySmall-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English</span>
 <span class="widespan">9 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_English-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_English-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English-ESL</span>
 <span class="widespan">14 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_English-ESL-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_English-ESL-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_English-LinES</span>
 <span class="widespan">128 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_English-LinES-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_English-LinES-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Estonian</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Estonian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Estonian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Finnish</span>
 <span class="widespan">35 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Finnish-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Finnish-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Finnish-FTB</span>
 <span class="widespan">5 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Finnish-FTB-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Finnish-FTB-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
 <span class="widespan">347 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_French-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_French-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Galician</span>
 <span class="widespan">1198 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Galician-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Galician-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_German</span>
 <span class="widespan">7386 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_German-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_German-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Gothic</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Gothic-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Gothic-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Greek</span>
 <span class="widespan">2 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Greek-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Greek-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Hebrew</span>
 <span class="widespan">821 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Hebrew-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Hebrew-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Hindi</span>
 <span class="widespan">39 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Hindi-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Hindi-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Hungarian</span>
 <span class="widespan">2 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Hungarian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Hungarian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Indonesian</span>
 <span class="widespan">596 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Indonesian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Indonesian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Irish</span>
 <span class="widespan">28 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Irish-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Irish-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Italian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Italian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Japanese-KTC-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Japanese-KTC-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Kazakh</span>
 <span class="widespan">1 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Kazakh-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Kazakh-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Korean</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Korean-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Korean-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latin</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Latin-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Latin-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latin-ITTB</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Latin-ITTB-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Latin-ITTB-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latin-PROIEL</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Latin-PROIEL-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Latin-PROIEL-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latvian</span>
 <span class="widespan">9 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Latvian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Latvian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Norwegian</span>
 <span class="widespan">2934 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Norwegian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Norwegian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Old_Church_Slavonic</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Old_Church_Slavonic-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Old_Church_Slavonic-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Persian</span>
 <span class="widespan">346 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Persian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Persian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Polish</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Polish-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Polish-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Portuguese</span>
 <span class="widespan">7 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Portuguese-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Portuguese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Portuguese-BR</span>
 <span class="widespan">178 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Portuguese-BR-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Portuguese-BR-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Romanian</span>
 <span class="widespan">91 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Romanian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Romanian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Russian</span>
 <span class="widespan">47 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Russian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Russian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Russian-SynTagRus</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Russian-SynTagRus-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Russian-SynTagRus-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Slovenian</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Slovenian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Slovenian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Slovenian-SST</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Slovenian-SST-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Slovenian-SST-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Spanish</span>
 <span class="widespan">57 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Spanish-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Spanish-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Spanish-AnCora</span>
 <span class="widespan">64 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Spanish-AnCora-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Spanish-AnCora-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Swedish</span>
 <span class="widespan">1384 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Swedish-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Swedish-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Swedish-LinES</span>
 <span class="widespan">265 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Swedish-LinES-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Swedish-LinES-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Tamil</span>
 <span class="widespan">1 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Tamil-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Tamil-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Turkish</span>
 <span class="widespan">1124 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Turkish-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Turkish-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Ukrainian</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Ukrainian-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Ukrainian-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Vietnamese</span>
 <span class="widespan">0 hits</span>
 </div>
 <div>
-<a href="http://bionlp-www.utu.fi/dep_search/?search=%21DET%26%21PRON+%3Cdet+_&db=UD_Vietnamese-dev">Go to search</a><p/>
+<a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Vietnamese-dev">Go to search</a><p/>
 </div>
 </div>
 
