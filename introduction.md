@@ -94,6 +94,12 @@ UD is an open collaboration with many project members. The administrative struct
 * Janna Lipenkova and Milan Souček. 2014. [Converting Russian Dependency Treebank to Stanford Typed
 Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics*, pp. 143-147.
 
+* Marie-Catherine de Marneffe, Timothy Dozat, Natalia Silveira, Katri
+  Haverinen, Filip Ginter, Joakim Nivre, and Christopher Manning. 2014.
+  [Universal Stanford Dependencies: A cross-linguistic
+  typology](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf).
+  In *Proceedings of LREC*.
+
 * Marie-Catherine de Marneffe, Bill MacCartney, and Christopher D. Manning. 2006.
   [Generating typed dependency parses from phrase structure parses](http://nlp.stanford.edu/pubs/LREC06_dependencies.pdf).
   In *Proceedings of LREC*.
@@ -101,12 +107,6 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
 * Marie-Catherine de Marneffe and Christopher D. Manning. 2008.
   [The Stanford typed dependencies representation](http://nlp.stanford.edu/pubs/dependencies-coling08.pdf).
   In *COLING Workshop on Cross-framework and Cross-domain Parser Evaluation*.
-
-* Marie-Catherine de Marneffe, Timothy Dozat, Natalia Silveira, Katri
-  Haverinen, Filip Ginter, Joakim Nivre, and Christopher Manning. 2014.
-  [Universal Stanford Dependencies: A cross-linguistic
-  typology](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf).
-  In *Proceedings of LREC*.
 
 * Ryan McDonald, and Joakim Nivre. 2007.
   [Characterizing the errors of data-driven dependency parsing models](http://www.aclweb.org/anthology/D/D07/D07-1013.pdf).
@@ -120,12 +120,19 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   In *Proceedings of ACL*.
   ([home page](https://code.google.com/p/uni-dep-tb/))
 
+* Joakim Nivre. 2014. [Universal Dependencies for Swedish](http://www2.lingfil.uu.se/SLTC2014/abstracts/sltc2014_submission_7.pdf).
+  In [*SLTC 2014*](http://www2.lingfil.uu.se/SLTC2014/).
+
+* Joakim Nivre. 2015. Towards a Universal Grammar for Natural Language Processing. *Computational Linguistics and Intelligent Text Processing*.
+
 * Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Christopher D. Manning, Ryan McDonald, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty, Daniel Zeman. 2016. [Universal Dependencies v1: A Multilingual Treebank Collection](http://www.lrec-conf.org/proceedings/lrec2016/pdf/348_Paper.pdf). In *Proceedings of LREC*.
 
 * Slav Petrov, Dipanjan Das, and Ryan McDonald. 2012. [A universal
   part-of-speech tagset](http://www.petrovi.de/data/universal.pdf).
   In *Proceedings of LREC*.
   ([home page](https://code.google.com/p/universal-pos-tags/))
+
+* Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, and Filip Ginter. 2015. [Universal Dependencies for Finnish](http://www.aclweb.org/anthology/W/W15/W15-1821.pdf). In *Proceedings of Nodalida 2015*.
 
 * Rudolf Rosa, Jan Mašek, David Mareček, Martin Popel, Daniel Zeman, Zdeněk Žabokrtský. 2014.
   [HamleDT 2.0: Thirty Dependency Treebanks
@@ -149,9 +156,7 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   In *Proceedings of LREC*.
   ([home page](http://ufal.mff.cuni.cz/interset))
 
-* Daniel Zeman, and Philip Resnik. 2008. [Cross-Language Parser Adaptation between Related
-  Languages](http://ufal.mff.cuni.cz/~zeman/publikace/2008-01/padapt-hyderabad-05c-postfinal.pdf).
-  In *Proceedings of IJCNLP 2008 Workshop on NLP for Less Privileged Languages*
+* Daniel Zeman. 2015. [Slavic Languages in Universal Dependencies](http://ufal.mff.cuni.cz/biblio/?section=publication&id=-1745977273001647149&mode=view). In *Slovko 2015: Natural Language Processing, Corpus Linguistics, E-learning*. Bratislava, Slovakia. [PDF](http://ufal.mff.cuni.cz/biblio/servlet/File?timestamp=1441201812368&id=4326707699154676324&field=File)
 
 * Daniel Zeman, Ondřej Dušek, David Mareček, Martin Popel, Loganathan Ramasamy,
   Jan Štěpánek, Zdeněk Žabokrtský, and Jan Hajič. 2014.
@@ -159,11 +164,6 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   In *Language Resources and Evaluation,* DOI 10.1007/s10579-014-9275-2.
   (Extended version of [paper from LREC 2012](http://www.lrec-conf.org/proceedings/lrec2012/pdf/429_Paper.pdf).)
 
-* Joakim Nivre. 2014. [Universal Dependencies for Swedish](http://www2.lingfil.uu.se/SLTC2014/abstracts/sltc2014_submission_7.pdf).
-  In [*SLTC 2014*](http://www2.lingfil.uu.se/SLTC2014/).
-
-* Joakim Nivre. 2015. Towards a Universal Grammar for Natural Language Processing. *Computational Linguistics and Intelligent Text Processing*.
-
-* Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, and Filip Ginter. 2015. [Universal Dependencies for Finnish](http://www.aclweb.org/anthology/W/W15/W15-1821.pdf). In *Proceedings of Nodalida 2015*.
-
-* Daniel Zeman. 2015. [Slavic Languages in Universal Dependencies](http://ufal.mff.cuni.cz/biblio/?section=publication&id=-1745977273001647149&mode=view). In *Slovko 2015: Natural Language Processing, Corpus Linguistics, E-learning*. Bratislava, Slovakia. [PDF](http://ufal.mff.cuni.cz/biblio/servlet/File?timestamp=1441201812368&id=4326707699154676324&field=File)
+* Daniel Zeman, and Philip Resnik. 2008. [Cross-Language Parser Adaptation between Related
+  Languages](http://ufal.mff.cuni.cz/~zeman/publikace/2008-01/padapt-hyderabad-05c-postfinal.pdf).
+  In *Proceedings of IJCNLP 2008 Workshop on NLP for Less Privileged Languages*
