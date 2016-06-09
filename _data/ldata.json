@@ -154,7 +154,13 @@
   }, 
   {
     "lang_code": "cop", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Amir Zeldes", 
+        "last": "Zeldes", 
+        "first": "Amir"
+      }
+    ], 
     "lang_name": "Coptic"
   }, 
   {
