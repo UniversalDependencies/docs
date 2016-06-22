@@ -16,7 +16,7 @@ However, there is a number of constructions which have non canonical case patter
 
 ### Constructions with Dative subject
 
-The constructions are instantiated by an infinitive verb (usually under negation) or a predicative, the first argument of which is in the Dative case and not in the canonical Nominative case. The Dative argument is attached to the predicate as [ru-dep/iobj]().
+The constructions are instantiated by an infinitive verb (usually under negation) or a predicative, the first argument of which is in the Dative case and not in the canonical Nominative case. The Dative argument is labeled [ru-dep/iobj]().
 
 ~~~ sdparse
 Роботу не угнаться за собакой . \n Robot.Dat cannot-keep-pace.Inf with dog .
@@ -53,6 +53,8 @@ The “lesser degree” comparison (expressed periphrastically) is marked the sa
 
 ~~~ sdparse
 Миша умнее брата . \n Misha is-smarter than-his-brother .
+nmod(умнее, брата)
+nmod(is-smarter, than-his-brother)
 ~~~
 
 ~~~ sdparse
@@ -65,4 +67,7 @@ case(his-brother, than)
 
 ## Noun phrases with quantifiers
 
-TBA
+See [ru-dep/nummod:gov]() for the numerals governing the case of the noun: _пять мужчин_.
+See [ru-dep/nummod]() for the paucal numerals governing the case of the noun: _два мужчины_.
+See [ru-dep/det:numgov]() for the pronominal quantifiers governing the case of the noun: _много мужчин_.
+See [ru-dep/det:nummod]() for the pronominal quantifiers agreeing in case with the noun: _со многими мужчинами_.
