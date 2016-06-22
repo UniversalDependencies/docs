@@ -128,3 +128,10 @@ parataxis(confirmed, let)
 
 In the second example, we treat the second half as the head of the dependency
 because the first half feels like a whole clause interjection, not like the main clause of the utterance.
+
+### Tag questions
+
+~~~ sdparse
+It 's not me , is it ?
+parataxis(me, is)
+~~~
