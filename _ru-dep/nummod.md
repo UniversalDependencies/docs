@@ -40,22 +40,7 @@ nsubj(slept, monster)
 punct(slept, .-9)
 ~~~
 
-Larger cardinals behave differently.
-They require that the counted noun be in the genitive case; this indicates that they actually govern the noun.
-Such constructions are parallel to nouns modified by other noun phrases in genitive.
-The whole phrase (numeral + counted noun) behaves as a noun phrase in neuter gender and singular number
-(which is important for subject-verb agreement).
-
-- _<b>Пять</b> мужчин играло в карты._ “Five men played cards.”
-- _Группа мужчин играла в карты._ “A group of men played cards.”
-
-One could argue that _пять мужчин_ is parallel to _группа мужчин_ and that _мужчин_ should be [nmod]() of _пять_.
-There are both advantages and drawbacks to such a solution.
-On the one hand, it reflects well the agreement in case, gender and number.
-On the other hand, it is confusing that there are two different analyses of counted noun constructions,
-depending on the numeric value.
-
-Moreover, the numeral does not govern the noun in all morphological cases.
+The numeral does not govern the noun in all morphological cases.
 The following table shows the case of the whole phrase (numeral + noun; first column)
 and the consequences for the case of the parts (note that these numerals have only
 three distinct morphological forms, resulting in homonymy).
@@ -99,12 +84,12 @@ There are four labels used:
 
 ~~~ sdparse
 Три мужчины играли в карты . \n Three men played cards .
-nummod(мужчины, Три)
+nummod:gov(мужчины, Три)
 nsubj(играли, мужчины)
 dobj(играли, карты)
 case(карты, в)
 punct(играли, .-6)
-nummod(men, Three)
+nummod:gov(men, Three)
 nsubj(played, men)
 dobj(played, cards)
 punct(played, .-12)
