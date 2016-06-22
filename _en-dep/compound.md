@@ -29,3 +29,8 @@ compound(thousand, four)
 I lost $ 3.2 billion
 compound(billion, 3.2)
 ~~~
+
+~~~ sdparse
+Does he go oink oink ?
+compound(oink-2, oink-1)
+~~~
