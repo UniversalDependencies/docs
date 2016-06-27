@@ -31,7 +31,7 @@ Some quick links:
    Relevant reports from the Uppsala meeting includes:
    [copula](../2015-08-23-uppsala/copula.html),
    [clitics](../2015-08-23-uppsala/clitics.html).
-1. **[Functional labels.](functional_dependents.html)**
+1. **[Functional labels.](function_dependents.html)**
    Crosslinguistic guidelines for the use of the functional labels such as `aux`, `det`, `cop`.
    There is currently a lot of variation around this.
    Representing lexical heads promotes crosslinguistic parallelism, but only if we can agree on what lexical heads *are*.
