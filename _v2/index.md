@@ -31,7 +31,7 @@ Some quick links:
    Relevant reports from the Uppsala meeting includes:
    [copula](../2015-08-23-uppsala/copula.html),
    [clitics](../2015-08-23-uppsala/clitics.html).
-1. **Functional labels.**
+1. **[Functional labels.](functional_dependents.html)**
    Crosslinguistic guidelines for the use of the functional labels such as `aux`, `det`, `cop`.
    There is currently a lot of variation around this.
    Representing lexical heads promotes crosslinguistic parallelism, but only if we can agree on what lexical heads *are*.
@@ -52,7 +52,7 @@ Some quick links:
    what we should put in its place.
    See the report from the Uppsala meeting here: [ellipsis](../2015-08-23-uppsala/ellipsis.html).
    Conceivably, the enhanced dependencies could be put to use here as well.
-1. **Part-of-speech tags and their relation to syntax.** To what extent should the part-of-speech tag be
+1. **[Part-of-speech tags and their relation to syntax.](form_vs_function.html)** To what extent should the part-of-speech tag be
    predictable from the syntactic relation and vice versa? For example, does “det” imply “DET” (rather than “PRON”)
    or does “DET” imply “det” (or both or neither)? Coming up with a more consistent set of principles for making
    these decisions will be important to achieve (better) cross-language consistency.
