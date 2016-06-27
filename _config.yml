@@ -668,6 +668,20 @@ collections:
   vi-overview:
     output: true
 #
+# Uralic
+#
+  urj-pos:
+    output: true
+    permalink: /urj/pos/:path.html
+  urj-feat:
+    output: true
+    permalink: /urj/feat/:path.html
+  urj-dep:
+    output: true
+    permalink: /urj/dep/:path.html
+  urj-overview:
+    output: true
+#
 # Template
 #
   template-pos:
