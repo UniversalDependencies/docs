@@ -707,6 +707,9 @@ collections:
   2015-08-23-uppsala:
     output: true
     permalink: /2015-08-23-uppsala/:path.html
+  v2:
+    output: true
+    permalink: /v2/:path.html
 
 excerpt_separator: "\n\n"
 
