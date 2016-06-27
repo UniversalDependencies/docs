@@ -66,6 +66,7 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 
 See also the [list of open issues](issues.html)
 and what was decided about them at the [Uppsala meeting](uppsala.html).
+New: preparing [v2](v2/index.html).
 
 # Contribute
 
