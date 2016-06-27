@@ -22,7 +22,7 @@ Some quick links:
 
 ## The main issues
 
-1. **Core dependents.**
+1. **[Core dependents.](core_dependents.html)**
    The distinction between core dependents and the rest is fundamental to the whole taxonomy.
    Having specific and cross-linguistically consistent guidelines for core dependents is therefore
    crucial for putting the whole enterprise on a solid footing. This involves clarifying the
@@ -35,20 +35,20 @@ Some quick links:
    Crosslinguistic guidelines for the use of the functional labels such as `aux`, `det`, `cop`.
    There is currently a lot of variation around this.
    Representing lexical heads promotes crosslinguistic parallelism, but only if we can agree on what lexical heads *are*.
-1. **Tokenization** (or perhaps better, word segmentation).
+1. **[Tokenization](tokenization.html)** (or perhaps better, word segmentation).
    We need to be able to handle the whole spectrum from multitoken words in Vietnamese to multiword
    tokens in Turkish. Ideally, we should also set up more substantial criteria for when to split
    tokens into words and vice versa. On this issue, there is a relevant
    [paper dealing with the Turkish case](http://coltekin.net/cagri/tmp/ig-paper.pdf).
    See also the report from the Uppsala meeting: [tokenization](../2015-08-23-uppsala/tokenization.html).
-1. **Enhanced dependencies.**
+1. **[Enhanced dependencies.](enhanced.html)**
    Having a first version of the guidelines for enhanced dependencies is important not just for its own sake,
    but also because it has implications for the basic dependencies. Basically, if we know that something
    can be captured in the enhanced dependencies, we don’t need to clutter the basic dependencies with
    this information. Examples of constructions that can benefit from this are control verbs and light verb
    constructions. Report from Uppsala meeting: [future](../2015-08-23-uppsala/future.html).
-1. **Ellipsis.**
-   I think there is a consensus that we should get rid of the remnant relation, but it is still unclear
+1. **[Ellipsis.](ellipsis.html)**
+   There seems to be a consensus that we should get rid of the remnant relation, but it is still unclear
    what we should put in its place.
    See the report from the Uppsala meeting here: [ellipsis](../2015-08-23-uppsala/ellipsis.html).
    Conceivably, the enhanced dependencies could be put to use here as well.
