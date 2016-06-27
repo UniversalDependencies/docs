@@ -20,6 +20,8 @@ Some quick links:
 * [Issue tracker, universal v2 filter](https://github.com/UniversalDependencies/docs/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20milestone%3A%22universal%20v2%22)
 * [Uppsala meeting](../uppsala.html)
 
+## The main issues
+
 1. **Core dependents.**
    The distinction between core dependents and the rest is fundamental to the whole taxonomy.
    Having specific and cross-linguistically consistent guidelines for core dependents is therefore
