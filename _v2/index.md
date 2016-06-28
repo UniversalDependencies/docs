@@ -46,7 +46,7 @@ Some quick links:
    but also because it has implications for the basic dependencies. If we know that something
    can be captured in the enhanced dependencies, we don’t need to clutter the basic dependencies with
    this information. Examples of constructions that can benefit from this are control verbs and light verb
-   constructions. Report from Uppsala meeting: [future](../2015-08-23-uppsala/future.html).
+   constructions. In this connection, it would also be relevant to discuss what language-specific subtypes can and cannot be used for. We seem to have a lot of inconsistencies here. Report from Uppsala meeting: [future](../2015-08-23-uppsala/future.html).
 1. **[Ellipsis.](ellipsis.html)**
    There seems to be a consensus that we should get rid of the remnant relation, but it is still unclear
    what we should put in its place.
@@ -56,3 +56,4 @@ Some quick links:
    predictable from the syntactic relation and vice versa? For example, does “det” imply “DET” (rather than “PRON”)
    or does “DET” imply “det” (or both or neither)? Coming up with a more consistent set of principles for making
    these decisions will be important to achieve (better) cross-language consistency.
+
