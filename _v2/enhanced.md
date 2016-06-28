@@ -9,4 +9,4 @@ Having a first version of the guidelines for enhanced dependencies is important 
 but also because it has implications for the basic dependencies. Basically, if we know that something
 can be captured in the enhanced dependencies, we don’t need to clutter the basic dependencies with
 this information. Examples of constructions that can benefit from this are control verbs and light verb
-constructions. Report from Uppsala meeting: [future](../2015-08-23-uppsala/future.html).
+constructions. In this connection, it would also be relevant to discuss what language-specific subtypes can and cannot be used for. We seem to have a lot of inconsistencies here. Report from Uppsala meeting: [future](../2015-08-23-uppsala/future.html).
