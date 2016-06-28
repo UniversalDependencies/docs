@@ -26,4 +26,4 @@ Of form and function, the latter is more portable across languages (most similar
 
 ## List of form-function issues
 
-* If a word is mentioned rather than used, we keep its original part of speech. Thus if [en] _yes_ is normally interjection (`INTJ`), and it appears in a sentence like “We are waiting for his ‘yes’ on the matter”, it is still tagged `INTJ` and not `NOUN`. This rule is part of UD v1 and it clearly prefers <span style='background:red'>form</span> to function.
+* If a word is mentioned rather than used, we keep its original part of speech. Thus if [en] _yes_ is normally interjection (`INTJ`), and it appears in a sentence like “We are waiting for his ‘yes’ on the matter”, it is still tagged `INTJ` and not `NOUN`. This rule is part of UD v1 and it clearly prefers <span style='background-color:lightred'>form</span> to function.
