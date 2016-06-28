@@ -53,7 +53,7 @@ Pronominal words are [pronouns](/u/pos/PRON.html), [determiners](/u/pos/DET.html
 * Non-possessive personal, reflexive or reciprocal pronouns are always tagged `PRON`.
 * Possessives vary across languages. In some languages the above tests put them in the `DET` category. In others, they are more like a normal personal pronoun in a specific case (often the genitive), or a personal pronoun with an adposition; they are tagged `PRON`.
 * When in doubt, the category should be based on what the traditional grammar of the language says.
-* Ideally, language-specific documentation should list pronominal words and their category. These are all closed classes.
+* Ideally, language-specific documentation should list pronominal words and their category. These are all closed classes so it should not be difficult.
 
 ## Morphological features
 
