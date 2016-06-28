@@ -23,3 +23,7 @@ Of form and function, the latter is more portable across languages (most similar
 **Extreme 2: Form rules!** If we take this literally, there are no homonyms, no ambiguity. Probably good news for taggers but less so for users. If a word has two completely different functions (and maybe its translation to other languages differs according to function), then we have a genuine ambiguity. Without it, we could not even distinguish content and function words—a distinction that is central in Universal Dependencies.
 
 **The result?** It should be now apparent that we need both. How much of each we need, that is yet to be determined. Maybe there is no good, quantifiable way of defining this borderline. But we should at least intuitively try to make the ratio similar in all decisions we make. Hence it might be helpful to compile a list of word-classification issues where we had to balance form with function.
+
+## List of form-function issues
+
+* If a word is mentioned rather than used, we keep its original part of speech. Thus if [en] _yes_ is normally interjection (`INTJ`), and it appears in a sentence like “We are waiting for his ‘yes’ on the matter”, it is still tagged `INTJ` and not `NOUN`. This rule is part of UD v1 and it clearly prefers <span style='background:red'>form</span> to function.
