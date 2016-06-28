@@ -41,7 +41,7 @@ Of form and function, the latter is more portable across languages (most similar
 
 ## Revised guidelines for pronominal words
 
-Pronominal words are pronouns, determiners (articles and pronominal adjectives), pronominal adverbs _(where, when, how)_, and in traditional grammars of some languages also pronominal numerals _(how much)_.
+Pronominal words are [pronouns](/u/pos/PRON.html), [determiners](/u/pos/DET.html) (articles and pronominal adjectives), pronominal [adverbs](/u/pos/ADV.html) _(where, when, how)_, and in traditional grammars of some languages also pronominal [numerals](/u/pos/NUM.html) _(how much)_.
 
 * In most cases it is straightforward to determine whether a word is pronominal (see also the [PronType](/u/feat/PronType.html) feature) but the borderline between indefinite determiners and adjectives is slightly fuzzy. Related languages should synchronize the lists of words they treat as pronominal. The rest of these guidelines demarcate borders within the pronominal group.
 * Pronominal adverbs are tagged `ADV`. Their pronominality is encoded using the `PronType` feature.
