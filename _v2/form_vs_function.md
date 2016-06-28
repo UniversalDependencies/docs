@@ -52,5 +52,5 @@ Pronominal words are pronouns, determiners (articles and pronominal adjectives),
   * Their inflection is similar to that of adjectives, and distinct from nouns. They agree with the nouns they modify. Especially the ability to inflect for gender is typical for adjectives and determiners. (Gender of nouns is determined lexically and determiners may be required by the grammar to agree with their nouns in gender; therefore they need to inflect for gender.)
 * Non-possessive personal, reflexive or reciprocal pronouns are always tagged `PRON`.
 * Possessives vary across languages. In some languages the above tests put them in the `DET` category. In others, they are more like a normal personal pronoun in a specific case (often the genitive), or a personal pronoun with an adposition; they are tagged `PRON`.
-* When in doubt, the category should be based on the traditional grammar of the language.
+* When in doubt, the category should be based on what the traditional grammar of the language says.
 * Ideally, language-specific documentation should list pronominal words and their category. These are all closed classes.
