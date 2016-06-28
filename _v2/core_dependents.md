@@ -33,7 +33,7 @@ nsubj(chased, dog)
 dobj:prom(chased, dog)
 nmod(chased, room)
 </div>
-I am unsure what relations should be used for the "deep" relations, so I just put "dobj:prom" (for "promoted dobj") and "nsubj:dem" (for "demoted subject" for now). Similarly, causatives could be treated like this (Japanese example, copied from WALS online):
+I am unsure what relations should be used for the "deep" relations, so I just put "dobj:prom" (for "promoted dobj") and "nsubj:dem" (for "demoted nsubj" for now). Similarly, causatives could be treated like this (Japanese example, copied from WALS online):
 <div id="s2" class="sd-parse">
 Kanako ga Ziroo o ikaseta . \n Kanako made Ziro go .
 nsubj(ikaseta, Kanako)
