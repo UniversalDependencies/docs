@@ -45,9 +45,3 @@ punct(won, .)
 ~~~
 
 Enhanced representation:
-
-~~~sdparse
-Mary won gold and Jane silver .
-conj>EN1>nsubj(won, Jane)
-conj>EN1>dobj(won, silver)
-~~~
