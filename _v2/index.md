@@ -59,6 +59,6 @@ Some quick links:
 
 ## Proposed revisions
 
-* Remove [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from the list of universal relations. [Discussion](core_dependents.html).
-* Require language-specific subtypes to be used for true syntactic subtypes, not cross-classification of syntax/semantics.  [Discussion](enhanced_dependencies.html)
+1. Remove [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from the list of universal relations. [Discussion](core_dependents.html).
+1. Require language-specific subtypes to be used for true syntactic subtypes, not cross-classification of syntax/semantics.  [Discussion](enhanced_dependencies.html)
 
