@@ -56,9 +56,11 @@ Some quick links:
    predictable from the syntactic relation and vice versa? For example, does “det” imply “DET” (rather than “PRON”)
    or does “DET” imply “det” (or both or neither)? Coming up with a more consistent set of principles for making
    these decisions will be important to achieve (better) cross-language consistency.
+1. **[Features.](features.html)** Check the [language-specific features](/ext-feat-index.html) and values defined so far in our treebanks. Add new values to existing features where necessary. Do we need entire new features as well? Evidentiality perhaps?
 
 ## Proposed revisions
 
 1. Remove [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from the list of universal relations. [Discussion](core_dependents.html)
-1. Require language-specific subtypes to be used for true syntactic subtypes, not cross-classification of syntax/semantics.  [Discussion](enhanced_dependencies.html)
-
+1. Require language-specific subtypes to be used for true syntactic subtypes, not cross-classification of syntax/semantics.  [Discussion](enhanced.html)
+1. Remove [u-dep/remnant]() from universal relations. Use promotion + enhanced representation to annotate ellipsis. [Discussion](ellipsis.html)
+1. New general principles for form vs. function in POS assignment, and new proposal for categorizing the pronominal words. [Discussion](form_vs_function.html)
