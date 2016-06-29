@@ -17,10 +17,11 @@ Dan's proposal:
 * Ignore elided nodes if they would be **leaves.** This is what we already do in UD v1. Unspecified subjects in pro-drop languages may serve as an example.
 * If the elided node has **just one dependent,** which is not elided (we call it _orphan_), the dependent is promoted to the position of the elided node. The relation between the orphan and the parent of the elided node is that of the elided node. Dependents of the orphan, if any, keep their relations. We already do this in UD v1 and there is a number of examples in the [Uppsala report on ellipsis](/2015-08-23-uppsala/ellipsis.html#promotion-of-a-dependent-to-the-head-position).
 * If there are **two or more orphans,** one of them is selected and promoted to the position of the elided node. Its relation to the parent is that of the elided node. The other orphans are attached to the promoted orphan and the relation type describes their relation to the elided node. The following rules specify which orphan is promoted.
-  * A predicate in coordination is elided (this is the most prominent case, for which we used the `remnant` relation in UD v1). We look for candidates in this order of precedence: 1. `aux`, (`auxpass`), `cop`; 2. `xcomp`; 3. `dobj`; 4. `iobj`; 5. `nmod`; 6. `advmod`; 7. `nsubj`, (`nsubjpass`); 8. `ccomp`; 9. `csubj`, (`csubjpass`).
-  * A noun is elided. We look for candidates in this order of precedence: 1. `amod`; 2. `nummod`; 3. `det`; 4. `nmod`.
+  * If a predicate in coordination is elided (this is the most prominent case, for which we used the `remnant` relation in UD v1), we look for candidates in this order of precedence: 1. `aux`, (`auxpass`), `cop`; 2. `xcomp`; 3. `dobj`; 4. `iobj`; 5. `nmod`; 6. `advmod`; 7. `nsubj`, (`nsubjpass`); 8. `ccomp`; 9. `csubj`, (`csubjpass`).
+  * If a nominal is elided, we look for candidates in this order of precedence: 1. `amod`; 2. `nummod`; 3. `det`; 4. `nmod`; 5. `case`.
   * Language-specific documentation may modify or extend these priority lists.
   * If the above rules are not sufficient to find a single candidate, the leftmost candidate is selected (logical left-to-right ordering, disregarding the writing system).
+* The [remnant](/u/dep/remnant.html) relation is no longer used in UD v2.
 
 ## Enhanced representation
 
