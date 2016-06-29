@@ -49,6 +49,10 @@ Enhanced representation:
 
 ~~~sdparse
 Mary won gold and Jane silver .
+nsubj(won, Mary)
+dobj(won, gold)
+cc(won,and)
 conj>EN1>nsubj(won, Jane)
 conj>EN1>dobj(won, silver)
+punct(won, .)
 ~~~
