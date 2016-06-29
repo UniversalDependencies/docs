@@ -56,3 +56,16 @@ conj>EN1>nsubj(won, Jane)
 conj>EN1>dobj(won, silver)
 punct(won, .)
 ~~~
+
+It is possible to encode a path containing more than one elided node. Since the nodes on the same path have the same order in terms of the first orphan, we add a rule that such nodes are numbered top-down. Example:
+
+~~~sdparse
+Mary wants to buy a book and Jenny a skirt .
+nsubj(wants, Mary)
+xcomp(wants, buy)
+dobj(buy, book)
+nsubj(buy, Mary)
+conj>EN1>nsubj(wants, Jenny)
+conj>EN1>xcomp>EN2>nsubj(wants, Jenny)
+conj>EN1>xcomp>EN2>dobj(wants, skirt)
+~~~
