@@ -25,6 +25,8 @@ Dan's proposal:
 
 ## Enhanced representation
 
+(Note that there is a [separate page](enhanced.html) devoted to the specification of enhanced dependencies. This section discusses only the part needed for ellipsis.)
+
 The enhanced dependencies encode the hypothetical tree before ellision. They bear enough information to reconstruct elided material as NULL nodes, if the user so wishes. (But they do not encode the part of speech and word form of the elided node, although it may be known in some situations.)
 
 Elided nodes are indexed within a sentence with integers starting at 1, to distinguish possible multiple reconstructed nodes in one sentence. The full reference to the elided node is `EN`+index, e.g. `EN1`. The ordering of the indices corresponds to the order of the orphans. If there are elided nodes A and B, the ID numbers of the orphans of A are 3 and 5, and the IDs of the orphans of B are 4 and 9, then node A is referred to as `EN1` and node B as `EN2`. That's because the first A's orphan appears before the first B's orphan.
