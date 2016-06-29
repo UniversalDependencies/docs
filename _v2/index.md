@@ -34,7 +34,7 @@ Some quick links:
 1. **[Functional labels.](function_dependents.html)**
    Cross-linguistic guidelines for the use of the functional labels such as `aux`, `det`, `cop`.
    There is currently a lot of variation around this.
-   Representing lexical heads promotes crosslinguistic parallelism, but only if we can agree on what lexical heads *are*.
+   Representing lexical heads promotes cross-linguistic parallelism, but only if we can agree on what lexical heads *are*.
 1. **[Tokenization](tokenization.html)** (or perhaps better, word segmentation).
    We need to be able to handle the whole spectrum from multitoken words in Vietnamese to multiword
    tokens in Turkish. Ideally, we should also set up more substantial criteria for when to split
@@ -57,3 +57,6 @@ Some quick links:
    or does “DET” imply “det” (or both or neither)? Coming up with a more consistent set of principles for making
    these decisions will be important to achieve (better) cross-language consistency.
 
+## Proposed revisions
+
+* Omit 
