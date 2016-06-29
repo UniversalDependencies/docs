@@ -20,3 +20,5 @@ nmod(photo, cathedral)
 lvc(photo, took)
 arg(photo, cathedral)
 </div>
+
+* Dan: Additional enhanced dependencies are proposed to cover [ellipsis](ellipsis.html), see the discussion there.
