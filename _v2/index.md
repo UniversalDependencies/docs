@@ -57,6 +57,7 @@ Some quick links:
    or does “DET” imply “det” (or both or neither)? Coming up with a more consistent set of principles for making
    these decisions will be important to achieve (better) cross-language consistency.
 1. **[Features.](features.html)** Check the [language-specific features](/ext-feat-index.html) and values defined so far in our treebanks. Add new values to existing features where necessary. Do we need entire new features as well? Evidentiality perhaps?
+1. **[CoNLL-U.](conllu.html)** The definition of the CoNLL-U format may have to be revised in the light of decisions about tokenization (see above). In addition, we should standardize comments for sentence ids, etc.
 
 ## Proposed revisions
 
