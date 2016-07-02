@@ -15,3 +15,10 @@ det(man, The)
 Which book do you prefer ?
 det(book, Which)
 ~~~
+
+~~~ sdparse
+You 've all won !
+nsubj(won, You)
+det(You, all)
+aux(won, 've)
+~~~
