@@ -28,6 +28,8 @@ case(children, to)
 ~~~ sdparse
 some of the toys
 nmod(some, toys)
+case(toys, of)
+det(toys, the)
 ~~~
 
 The `nmod` relation holds between the noun/predicate modified by the
