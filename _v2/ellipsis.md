@@ -10,7 +10,7 @@ what we should put in its place.
 See the report from the Uppsala meeting here: [ellipsis](../2015-08-23-uppsala/ellipsis.html).
 Conceivably, the enhanced dependencies could be put to use here as well.
 
-Dan's proposal:
+**Dan's proposal:**
 
 ## Basic representation
 
