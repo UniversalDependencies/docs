@@ -18,7 +18,8 @@ They shut the station down
 compound:prt(shut, down)
 ~~~
 
-This relation excludes literal uses of particles, however—see [advmod]():
+This relation excludes literal/directional uses of prepositions/particles, such as _up_, _down_, _in_, _out_, etc.
+These would typically become an ADV with the relation [advmod]():
 
 ~~~ sdparse
 The dentist pulled out the tooth
