@@ -4,8 +4,9 @@ title:  'amod'
 shortdef : 'adjectival modifier'
 ---
 
-An adjectival modifier of an NP is any adjectival phrase that serves
-to modify the meaning of the NP.
+An adjectival modifier of a nominal is any adjective or adjectival phrase that serves
+to modify the meaning of the nominal. This includes always or sometimes postposed 
+modifiers, such as _else_ and _nice_ in the examples below.
 
 ~~~ sdparse
 Sam eats red meat
