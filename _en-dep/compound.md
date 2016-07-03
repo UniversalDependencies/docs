@@ -69,9 +69,9 @@ Does he go oink oink ?
 compound(oink-5, oink-4)
 ~~~
 
- - phrasal verbs
+ - idiomatic phrasal verbs are analyzed as a language-specific subrelation of *compound*
  
 ~~~ sdparse
 She just made up the answer .
-compound(make, up)
+compound:prt(made, up)
 ~~~
