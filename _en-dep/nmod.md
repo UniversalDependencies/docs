@@ -28,7 +28,7 @@ case(children, to)
 ~~~ sdparse
 some of the toys
 nmod(some, toys)
-
+~~~
 
 The `nmod` relation holds between the noun/predicate modified by the
 prepositional complement and the noun introduced by the preposition.
