@@ -21,3 +21,14 @@ amod(loan, dollar)
 Sam took out  a $ 3 million loan
 amod(loan, $)
 ~~~
+
+~~~ sdparse
+Anything else for me ?
+amod(Anything, else)
+~~~
+
+~~~ sdparse
+We can go somewhere nice .
+amod(somewhere, nice)
+~~~
+
