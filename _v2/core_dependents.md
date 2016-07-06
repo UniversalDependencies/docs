@@ -28,6 +28,48 @@ If there is no good, exact and cross-linguistically applicable rule (and I would
 
 So why do I insist that prepositions are crucial? Because for a language like Swedish it gives an almost razor sharp distinction. By contrast, if we try to draw the distinction between complements and adjuncts (where prepositional phrases can be either), it is hopelessly muddled. For example, take a sentence like "she slipped on the sidewalk". Can you say "what did she slip on?", or do you have to say "where did she slip?" I suppose the latter is more natural in most cases, but the former definitely seems possible. So is "on the sidewalk" dobj or nmod? I would say it is clearly nmod and this falls out naturally with the ban on prepositions. So before giving up this idea, I would like to know whether there is any way of making this work for other languages too, not necessarily by banning prepositions in all languages but by looking for corresponding clues in other languages.
 
+**Joakim's thought on an alternative proposal:**
+The UD taxonomy, as I understand it, rests on the distinction between _core arguments_ and _obliques_,
+which is commonly assumed in linguistic typology to be more surface oriented and therefore easier to
+maintain than the distinction between _arguments_ and _adjuncts_. It starts from the assumption that all
+languages have some prototypical way of encoding the arguments of intransitive and transitive verbs, often
+referred to as S (for the subject of an intransitive verb), A (for the subject/agent of a transitive verb)
+and O or P (for the object/patient of a transitive verb). Exactly what this prototypical encoding is has
+to be established specifically for each language but it often involves some combination of case-marking
+(nominative-accusative or ergative-absolutive) and/or indexing on the verb (agreement) and/or linear
+position in the clause (typically relative to the verb). To this may be added the possibility to undergo
+certain grammatical transformations, such as relativization and passivization. The notion of core argument
+is then reserved for dependents of the verb that exhibit all or most of this prototypical encoding.
+
+All other dependents of the verb are said to be oblique, which again may entail different things for
+different languages. In English, it means having a prepositional marker and/or occurring in a different
+position relative to the verb than core arguments. For example, "on her" in "I called on her" is oblique
+because it has a preposition, but "this morning" in "this morning I called on her" is oblique because
+it is not in subject position nor in object position and because it cannot be passivized. For case
+languages, obliques may either be accompanied by adpositions or occur in cases that are not prototypical
+for core arguments (often referred to as oblique cases). Exactly which cases are regarded as oblique can
+again vary between languages, and typical borderline cases are dative, partitive and (less common)
+genitive. Crucially, however, obliques can be arguments as well as adjuncts, as illustrated by the
+earlier English examples.
+
+One issue that needs to be discussed is under what circumstances subjects can occur with oblique encoding.
+In Turkish subordinate clauses, for example, the verb is nominalized and the subject occurs in genitive
+instead of nominative. This is a completely regular grammatical process of complementation, and it occurs
+regardless of which verb is involved, so it seems well motivated to say that the genitive nominal is
+still the subject. By contrast, many languages express possession with a form of the verb "to be", the
+thing owned in nominative and the possessor in an oblique case like dative. That is, instead of saying
+"X has Y", they say "Y is to X". In this case, there is no reason to say that the dative nominal is the
+subject, just because the corresponding nominal would be the subject in other languages. After all, it is
+precisely this kind of systematic difference between languages that we want to be able to study.
+
+Finally, if we are going to (continue to) use this as the basis for the UD taxonomy, then we should
+probably require that the language-specific documentation describes how the core-oblique distinction
+has been applied for a given language and preferably also lists the prototypical encoding properties of
+core arguments. For example, in a language like Spanish, prepositions are used in the prototypical
+encoding of direct objects but only for animate objects with specific reference ("buscan una secretaria" vs.
+"buscan a una de las secretarias").
+
+
 ## Valency-changing operations
 
 **Joakim's proposal:** The current guidelines distinguish [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from [u-dep/nsubj](), [u-dep/csubj]() and [u-dep/aux]() to capture the fact that the subject of a passive has a different role than the subject of the corresponding active verb. While I can clearly see the usefulness of this convention for many IE-type practical applications, it seems to go against the general spirit in UD of annotating syntactic functions rather than semantic roles. A possible counterargument would be that passive is a grammaticalized process and therefore part of syntax, but the counter-counterargument to this is that the same should then be true of causative, antipassive, etc. in many languages. First of all, I don't think we want a proliferation of grammatical relations like "dobjcaus", etc. Secondly, I think the lexicalist stance in UD actually speaks in favor of a lexicalist account of these operations (as in LFG, for example). My proposal is therefore that we get rid of [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() and instead treat all valency-changing operations as derivations (which we have agreed to do for Turkish causatives, for example). If we want to capture the grammatically regular shifts in valency, we can do so (optionally) in the enhanced dependencies. See examples for passive in English and causative in Japanese below. (I am unsure what relations should be used for the "deep" relations, so I just put "dobj:prom" [for "promoted dobj"] and "nsubj:dem" [for "demoted nsubj" for now].) An alternative approach would be to make [u-dep/nsubjpass]() a language-specific subtype (thus, "nsubj:pass"). In this way, treebanks that don't make this distinction (and I think we have a significant number) would be legitimate, and languages that don't have a passive wouldn't have to worry about it. Languages that have a grammaticalized causative could conceivable add "dobj:caus", etc. This is in many ways a simpler solution, but I am afraid we would be overloading the language-specific relations with too many distinctions.
