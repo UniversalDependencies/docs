@@ -29,6 +29,15 @@ VerbForm value Fin.
 
 * [fi] _juoksen_ "I run"
 
+~~~ conllu
+# sentence-text: Rajoitukset ovat  seuraavanlaiset:
+1       Rajoitukset     rajoitus        NOUN    N       Case=Nom|Number=Plur    3       nsubj:cop       _       _
+2       ovat    olla    VERB    V       Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 3       cop
+     _       _
+3       seuraavanlaiset seuraavanlainen ADJ     A       Case=Nom|Degree=Pos|Number=Plur 0       root    _       SpaceAfter=No
+
+~~~
+
 ### `Inf`: Infinitive
 
 Infinitive is a form of verb most typically used in syntactic expressions, 
@@ -43,6 +52,27 @@ finite form.
 
 * [fi] _juosta_ "to run", _nähdäkseni_ "in order for me to see", _kuollessa_
   "while dying", _syömättä_ "without having eaten"
+
+~~~ conllu
+# sentence-text: Uudet käyttäjät pystyvät käyttämään tilejään niin kuin nytkin ensimmäiset 6 kuukautta.
+1       Uudet   uusi    ADJ     A       Case=Nom|Degree=Pos|Number=Plur 2       amod    _       _
+2       käyttäjät       käyttäjä        NOUN    N       Case=Nom|Number=Plur    3       nsubj   4:nsubj _
+3       pystyvät        pystyä  VERB    V       Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 0
+       root    _       _
+4       käyttämään      käyttää VERB    V       Case=Ill|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act   3       xcomp
+   _       _
+5       tilejään        tili    NOUN    N       Case=Par|Number=Plur|Person[psor]=3     4       dobj    _       _
+6       niin    niin    ADV     Adv     _       4       advmod  _       _
+7       kuin    kuin    SCONJ   C       _       8       mark    _       _
+8       nytkin  nyt     ADV     Adv     Clitic=Kin      6       advcl   _       _
+9       ensimmäiset     ensimmäinen     ADJ     Num     Case=Nom|Number=Plur|NumType=Ord        11      nummod  _
+       _
+10      6       6       NUM     Num     NumType=Card    11      nummod  _       _
+11      kuukautta       kuu#kausi       NOUN    N       Case=Par|Number=Sing    4       nmod    _       SpaceAfter=No
+12      .       .       PUNCT   Punct   _       3       punct   _       _
+
+~̃~~
+
 
 ### `Part`: Participle
 
@@ -59,3 +89,20 @@ literally yesterday ran+pl+ade man+pl+ade"
 
 * [fi] _juossut_ "ran", _näkevä_ "seeing", _syömäni_ "that I ate", 
   _kuolematon_ "immortal, lit. undieable"
+
+~~~ conllu
+# sentence-text: Spotify ilmoitti tänään lisäävänsä rajoituksia Spotify Free- ja Open-tileille.
+1       Spotify Spotify PROPN   N       Case=Nom|Number=Sing    2       nsubj   4:nsubj _
+2       ilmoitti        ilmoittaa       VERB    V       Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Ac
+t 0       root    _       _
+3       tänään  tänään  ADV     Adv     _       2       advmod  _       _
+4       lisäävänsä      lisätä  VERB    V       Case=Gen|Degree=Pos|Number=Sing|PartForm=Pres|Person[psor]=3|VerbForm=Part|Voice=Act    2       xcomp   _       _
+5       rajoituksia     rajoitus        NOUN    N       Case=Par|Number=Plur    4       dobj    _       _
+6       Spotify Spotify PROPN   N       Case=Nom|Number=Sing    10      compound:nn     _       _
+7       Free-   Free-   X       Foreign Foreign=Foreign 6       name    _       _
+8       ja      ja      CONJ    C       _       7       cc      _       _
+9       Open    Open    X       Foreign Foreign=Foreign 7       conj    6:name  SpaceAfter=No
+10      -tileille       tili    NOUN    N       Case=All|Number=Plur    4       nmod    _       SpaceAfter=No
+11      .       .       PUNCT   Punct   _       2       punct   _       _
+~~~
+
