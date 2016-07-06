@@ -28,7 +28,7 @@ If there is no good, exact and cross-linguistically applicable rule (and I would
 
 So why do I insist that prepositions are crucial? Because for a language like Swedish it gives an almost razor sharp distinction. By contrast, if we try to draw the distinction between complements and adjuncts (where prepositional phrases can be either), it is hopelessly muddled. For example, take a sentence like "she slipped on the sidewalk". Can you say "what did she slip on?", or do you have to say "where did she slip?" I suppose the latter is more natural in most cases, but the former definitely seems possible. So is "on the sidewalk" dobj or nmod? I would say it is clearly nmod and this falls out naturally with the ban on prepositions. So before giving up this idea, I would like to know whether there is any way of making this work for other languages too, not necessarily by banning prepositions in all languages but by looking for corresponding clues in other languages.
 
-**Joakim's thought on an alternative proposal:**
+**Joakim's thoughts on an alternative proposal:**
 The UD taxonomy, as I understand it, rests on the distinction between _core arguments_ and _obliques_,
 which is commonly assumed in linguistic typology to be more surface oriented and therefore easier to
 maintain than the distinction between _arguments_ and _adjuncts_. It starts from the assumption that all
