@@ -1191,6 +1191,11 @@
     "lang_name": "Turkish"
   }, 
   {
+    "lang_code": "uk", 
+    "contributors": [], 
+    "lang_name": "Ukrainian"
+  }, 
+  {
     "lang_code": "ug", 
     "contributors": [
       {
@@ -1199,12 +1204,7 @@
         "first": "Marhaba"
       }
     ], 
-    "lang_name": "Uighur"
-  }, 
-  {
-    "lang_code": "uk", 
-    "contributors": [], 
-    "lang_name": "Ukrainian"
+    "lang_name": "Uyghur"
   }, 
   {
     "lang_code": "vi", 
