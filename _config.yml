@@ -682,6 +682,20 @@ collections:
   urj-overview:
     output: true
 #
+# Uighur
+#
+  ug-pos:
+    output: true
+    permalink: /ug/pos/:path.html
+  ug-feat:
+    output: true
+    permalink: /ug/feat/:path.html
+  ug-dep:
+    output: true
+    permalink: /ug/dep/:path.html
+  ug-overview:
+    output: true
+#
 # Template
 #
   template-pos:
