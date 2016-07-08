@@ -894,6 +894,16 @@
         "full": "David Mare\u010dek", 
         "last": "Mare\u010dek", 
         "first": "David"
+      }, 
+      {
+        "full": "Natalia Silveira", 
+        "last": "Silveira", 
+        "first": "Natalia"
+      }, 
+      {
+        "full": "Andr\u00e9 Martins", 
+        "last": "Martins", 
+        "first": "Andr\u00e9"
       }
     ], 
     "lang_name": "Portuguese"
@@ -1179,6 +1189,17 @@
       }
     ], 
     "lang_name": "Turkish"
+  }, 
+  {
+    "lang_code": "ug", 
+    "contributors": [
+      {
+        "full": "Marhaba Eli", 
+        "last": "Eli", 
+        "first": "Marhaba"
+      }
+    ], 
+    "lang_name": "Uighur"
   }, 
   {
     "lang_code": "uk", 
