@@ -15,11 +15,11 @@ We use `acl` for:
 Verbal adjectives that modify nouns:
 
 ~~~ sdparse
-Тез   жүгіретін   спортшылар   көрдін . \n Fast running athletes saw-I .
+Тез   жүгіретін   спортшылар   көрдім . \n Fast running athletes saw-I .
 acl(спортшылар-3, жүгіретін-2)
 advmod(жүгіретін-2, Тез-1)
-obj(көрдін-4, спортшылар-3)
-punct(көрдін-4, .-5)
+obj(көрдім-4, спортшылар-3)
+punct(көрдім-4, .-5)
 ~~~
 
 This relation may be tagged with `acl:relcl` in the future, as it is the way
