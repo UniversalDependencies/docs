@@ -95,12 +95,6 @@ conj>dobj(like, coffee)
 
 Note that we need a new separator since either or both of the two concatenated relations can be a subtype.
 
-~~~sdparse
-the man who I liked and the man who you
-acl:relcl>dobj(man, who)
-acl:relcl>nsubj(man, you)
-~~~
-
 If we adopt a scheme like this, then more information could be added in the enhanced representation (for example,
 explicit null nodes), but the basic dependency representation would be informative enough so that parser developments
 could experiment with different strategies for dealing with ellipsis (including inferring null nodes). We avoid the
