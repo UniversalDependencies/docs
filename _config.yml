@@ -696,6 +696,20 @@ collections:
   ug-overview:
     output: true
 #
+# Buryat
+#
+  bxr-pos:
+    output: true
+    permalink: /bxr/pos/:path.html
+  bxr-feat:
+    output: true
+    permalink: /bxr/feat/:path.html
+  bxr-dep:
+    output: true
+    permalink: /bxr/dep/:path.html
+  bxr-overview:
+    output: true
+#
 # Template
 #
   template-pos:
