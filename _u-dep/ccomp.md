@@ -11,6 +11,12 @@ adjective.
 ~~~ sdparse
 He says that you like to swim
 ccomp(says, like)
+mark(like, that)
+~~~
+
+~~~ sdparse
+He says you like to swim
+ccomp(says, like)
 ~~~
 
 Such clausal complements may be finite or nonfinite. However, if the
@@ -21,6 +27,7 @@ the appropriate relation is [xcomp]().
 ~~~ sdparse
 The boss said to start digging
 ccomp(said, start)
+mark(start, to)
 ~~~
 
 ~~~ sdparse

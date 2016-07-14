@@ -71,3 +71,32 @@ conj>EN1>nsubj(wants, Jenny)
 conj>EN1>xcomp>EN2>nsubj(wants, Jenny)
 conj>EN1>xcomp>EN2>dobj(wants, skirt)
 ~~~
+
+**Joakim's modified proposal:** I think we should continue to use promotion for the "simple" cases
+of ellipsis, but I don't think we should generalize it to cases of predicate ellipsis where an argument
+or modifier needs to be promoted, because this gives rise to too many "unnatural" dependencies.
+Hence, I propose we limit promotion to the following cases of head ellipsis:
+
+1. Nominals: If the head nominal is ellided, we promote dependents in the following order: amod > det > nummod > nmod > case.
+2. Clauses: If the main predicate is ellided, we promote only if there is an aux or cop (or possibly advmod).
+3. Modifiers: If the head of a modifier phrase is ellided, we promote if there is an advmod (or equivalent).
+
+In cases where promotion cannot be used, we instead attach orphans to their natural grandparent with a composite label:
+headrel>orphanrel. For example:
+
+~~~sdparse
+I like tea and you coffee
+nsubj(like, I)
+dobj(like, tea)
+cc(like, and)
+conj>nsubj(like, you)
+conj>dobj(like, coffee)
+~~~
+
+Note that we need a new separator since either or both of the two concatenated relations can be a subtype.
+
+If we adopt a scheme like this, then more information could be added in the enhanced representation (for example,
+explicit null nodes), but the basic dependency representation would be informative enough so that parser developments
+could experiment with different strategies for dealing with ellipsis (including inferring null nodes). We avoid the
+occurrence of strange dependencies (such as "you" being the subject of "coffee") at the cost of a slightly more complex
+basic representation (the addition of label paths). All in all, this strikes me as a reasonably compromise.
