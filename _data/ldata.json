@@ -116,6 +116,22 @@
     "lang_name": "Bulgarian"
   }, 
   {
+    "lang_code": "bxr", 
+    "contributors": [
+      {
+        "full": "Elena Badmaeva", 
+        "last": "Badmaeva", 
+        "first": "Elena"
+      }, 
+      {
+        "full": "Francis Tyers", 
+        "last": "Tyers", 
+        "first": "Francis"
+      }
+    ], 
+    "lang_name": "Buryat"
+  }, 
+  {
     "lang_code": "ca", 
     "contributors": [
       {
@@ -1168,8 +1184,8 @@
         "first": "G\u00fcl\u015fen"
       }, 
       {
-        "full": "Memduh Gokirmak", 
-        "last": "Gokirmak", 
+        "full": "Memduh G\u00f6k\u0131rmak", 
+        "last": "G\u00f6k\u0131rmak", 
         "first": "Memduh"
       }, 
       {
