@@ -50,7 +50,7 @@ case(Sweden-4, of-3)
 
 
 
-If a name contains function words in another language than English, we also use the `name` relation.
+If a name contains a function word in another language than English, we also use the `name` relation.
 
 ~~~ sdparse
 Río de la Plata
