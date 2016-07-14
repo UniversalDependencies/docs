@@ -62,7 +62,7 @@ name(Río-1, Plata-4)
 ~~~ sdparse
 Ludwig van Beethoven
 name(Ludwig, van)
-name(Beethoven, van)
+name(Ludwig, Beethoven)
 
 ~~~
 
