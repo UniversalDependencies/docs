@@ -10,33 +10,33 @@ Using mostly English examples, but also data from Irish, Turkish, Italian, Portu
 No one objects to the be-dependent analysis for:
 
 ~~~ sdparse
-1) This is fun.
+1) This is fun .
 cop(fun, is)
 nsubj(fun, This)
 ~~~ 
 
 ~~~ sdparse
-2) This is a joke.
+2) This is a joke .
 cop(joke, is)
 nsubj(joke, This)
 ~~~ 
 
 There are some intermediary examples where the be-dependent analysis elicits mixed responses:
 
-(3) This book is on the table
+(3) This book is on the table.
 (4) The meeting is today.
 
 However, everyone is very uncomfortable with the be-dependent analysis for examples such as the following:
 
 ~~~ sdparse
-(5) The meeting is in the blue room today.
+(5) The meeting is in the blue room today .
 cop(room, is)
 nsubj(room, meeting)
 advmod(room, today)
 ~~~ 
 
 ~~~ sdparse
-(6) The meeting is today in the blue room.
+(6) The meeting is today in the blue room .
 cop(today, is)
 nsubj(today, meeting)
 nmod(today, room)
@@ -125,12 +125,12 @@ conj(unemployed, economy)
 
 However, clearly conjunction is very liberal here, as shown in (11):
 
-(11) Millions are unemployed or expecting to be fired .
+(11) Millions are unemployed or expecting to be fired.
 
 So this seems to imply that the coordination in (10) does not mean that is has the same function with relation to unemployed and in the informal economy, since clearly in (11) it is a linking verb to unemployed and a progressive auxiliary to expecting.
 
 Finally, we briefly touched on the problem of which verbs should be copulas. Example (12) seems to suggest that more verbs that be (in English) are copulas. (In the English treebank, we follow Huddleston and Pulum in considering only be a copula).
 
-(12) Bill never was and will not become happy
+(12) Bill never was and will not become happy.
 
 We noticed that languages with a ser/estar distinction currently diverge in whether they treat both as a copula or not. Although the decision is clearly language-specific, we should make sure that everyone is following the same guidelines. To ensure that, we should probably create some guidelines!
