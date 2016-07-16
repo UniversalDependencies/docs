@@ -88,7 +88,7 @@ This aligns nicely with another analysis already implemented in the English tree
 root(ROOT, is)
 nsubj(is, This)
 advcl(is, know)
-~~~ sdparse
+~~~
 
 These distinctions align with distinctions that are signaled in Irish at the lexical level.
 
