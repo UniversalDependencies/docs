@@ -1034,6 +1034,22 @@
     "lang_name": "Russian-SynTagRus"
   }, 
   {
+    "lang_code": "sa", 
+    "contributors": [
+      {
+        "full": "Puneet Dwivedi", 
+        "last": "Dwivedi", 
+        "first": "Puneet"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Sanskrit"
+  }, 
+  {
     "lang_code": "sl", 
     "contributors": [
       {
