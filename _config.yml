@@ -710,6 +710,20 @@ collections:
   bxr-overview:
     output: true
 #
+# Sanskrit
+#
+  sa-pos:
+    output: true
+    permalink: /sa/pos/:path.html
+  sa-feat:
+    output: true
+    permalink: /sa/feat/:path.html
+  sa-dep:
+    output: true
+    permalink: /sa/dep/:path.html
+  sa-overview:
+    output: true
+#
 # Template
 #
   template-pos:
