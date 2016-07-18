@@ -10,3 +10,5 @@ A coordination is the relation between an element of a conjunct and the coordina
 And then we left .
 cc(left, And)
 ~~~
+
+See also: [`conj`](conj.html)
