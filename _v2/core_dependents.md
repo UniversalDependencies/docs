@@ -72,6 +72,7 @@ encoding of direct objects but only for animate objects with specific reference 
 
 **Dan's comment:** Some people would say that indirect objects are not core arguments (John Sylak-Glassman, draft 2 of UniMorph). That seems a bit more consistent to me. We would distinguish just the S, A, P roles and everything else. We would have `[nc]subj` (=S+A) and `dobj` (=P) but not `iobj` – that would be just `nmod`, or alternatively, in languages where it makes sense, `nmod:iobj`.
 
+**Nathan:** For English, the only clear-cut syntactic distinctions (it seems to me) are whether the argument is marked with a preposition or not, and if not, whether it occurs in subject/object position or is adverbial. So I'm fine with the current nominal argument distinctions of `nsubj`, `dobj`, `iobj` (core); `nmod`, `nmod:tmod` (oblique); and  `expl` (not a true argument). It doesn't bother me that an argument that is core in one language can be oblique in a paraphrase or translation (this seems inevitable). In languages with case, are there any cases that are considered borderline between core and oblique?
 
 ## Valency-changing operations
 
