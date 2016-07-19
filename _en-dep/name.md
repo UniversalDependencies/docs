@@ -38,25 +38,8 @@ compound(Service-4, Conservation-3)
 ~~~
 
 In addition, regular syntactic relations are used:
-(i) for a modifying determiner or
-(ii) to connect together the words of a description or name which involve embedded prepositional phrases, sentences, etc.
-
-~~~ sdparse
-Le Japon
-det(Japon-2, Le-1)
-~~~
-
-~~~ sdparse
-Ludwig van Beethoven
-case(Beethoven, van)
-~~~
-
-~~~ sdparse
-Miguel de Cervantes y Saavedra
-conj(Cervantes, Saavedra)
-cc(Cervantes, y)
-case(Cervantes, de)
-~~~
+(i) for a modifying English determiner or
+(ii) to connect together the words of a description or name which involve English embedded prepositional phrases, sentences, etc.
 
 ~~~ sdparse
 The king of Sweden
@@ -65,9 +48,33 @@ nmod(king-2, Sweden-4)
 case(Sweden-4, of-3)
 ~~~
 
+
+
+If a name contains a function word in another language than English, we also use the `name` relation.
+
 ~~~ sdparse
 Río de la Plata
-case(Plata-4, de-2)
-det(Plata-4, la-3)
-nmod(Río-1, Plata-4)
+name(Río-1, de-2)
+name(Río-1, la-3)
+name(Río-1, Plata-4)
+~~~
+
+~~~ sdparse
+Ludwig van Beethoven
+name(Ludwig, van)
+name(Ludwig, Beethoven)
+
+~~~
+
+~~~ sdparse
+Miguel de Cervantes y Saavedra
+name(Miguel, de)
+name(Miguel, Cervantes)
+name(Miguel, y)
+name(Miguel, Saavedra)
+~~~
+
+~~~ sdparse
+San Francisco
+name(San, Francisco)
 ~~~

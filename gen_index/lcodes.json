@@ -5,6 +5,7 @@
 "Arabic":"ar",
 "Basque":"eu",
 "Bulgarian":"bg",
+"Buryat":"bxr",
 "Catalan":"ca",
 "Chinese":"zh",
 "Coptic":"cop",
@@ -50,6 +51,7 @@
 "Romanian":"ro",
 "Russian":"ru",
 "Russian-SynTagRus":"ru_syntagrus",
+"Sanskrit":"sa",
 "Slovenian":"sl",
 "Slovenian-SST":"sl_sst",
 "Spanish":"es",
@@ -59,5 +61,6 @@
 "Tamil":"ta",
 "Turkish":"tr",
 "Ukrainian":"uk",
+"Uyghur":"ug",
 "Vietnamese":"vi"
 }

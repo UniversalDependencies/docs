@@ -116,6 +116,22 @@
     "lang_name": "Bulgarian"
   }, 
   {
+    "lang_code": "bxr", 
+    "contributors": [
+      {
+        "full": "Elena Badmaeva", 
+        "last": "Badmaeva", 
+        "first": "Elena"
+      }, 
+      {
+        "full": "Francis Tyers", 
+        "last": "Tyers", 
+        "first": "Francis"
+      }
+    ], 
+    "lang_name": "Buryat"
+  }, 
+  {
     "lang_code": "ca", 
     "contributors": [
       {
@@ -894,6 +910,16 @@
         "full": "David Mare\u010dek", 
         "last": "Mare\u010dek", 
         "first": "David"
+      }, 
+      {
+        "full": "Natalia Silveira", 
+        "last": "Silveira", 
+        "first": "Natalia"
+      }, 
+      {
+        "full": "Andr\u00e9 Martins", 
+        "last": "Martins", 
+        "first": "Andr\u00e9"
       }
     ], 
     "lang_name": "Portuguese"
@@ -1006,6 +1032,22 @@
       }
     ], 
     "lang_name": "Russian-SynTagRus"
+  }, 
+  {
+    "lang_code": "sa", 
+    "contributors": [
+      {
+        "full": "Puneet Dwivedi", 
+        "last": "Dwivedi", 
+        "first": "Puneet"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Sanskrit"
   }, 
   {
     "lang_code": "sl", 
@@ -1158,8 +1200,8 @@
         "first": "G\u00fcl\u015fen"
       }, 
       {
-        "full": "Memduh Gokirmak", 
-        "last": "Gokirmak", 
+        "full": "Memduh G\u00f6k\u0131rmak", 
+        "last": "G\u00f6k\u0131rmak", 
         "first": "Memduh"
       }, 
       {
@@ -1184,6 +1226,17 @@
     "lang_code": "uk", 
     "contributors": [], 
     "lang_name": "Ukrainian"
+  }, 
+  {
+    "lang_code": "ug", 
+    "contributors": [
+      {
+        "full": "Marhaba Eli", 
+        "last": "Eli", 
+        "first": "Marhaba"
+      }
+    ], 
+    "lang_name": "Uyghur"
   }, 
   {
     "lang_code": "vi", 

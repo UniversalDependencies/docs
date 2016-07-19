@@ -682,6 +682,48 @@ collections:
   urj-overview:
     output: true
 #
+# Uyghur
+#
+  ug-pos:
+    output: true
+    permalink: /ug/pos/:path.html
+  ug-feat:
+    output: true
+    permalink: /ug/feat/:path.html
+  ug-dep:
+    output: true
+    permalink: /ug/dep/:path.html
+  ug-overview:
+    output: true
+#
+# Buryat
+#
+  bxr-pos:
+    output: true
+    permalink: /bxr/pos/:path.html
+  bxr-feat:
+    output: true
+    permalink: /bxr/feat/:path.html
+  bxr-dep:
+    output: true
+    permalink: /bxr/dep/:path.html
+  bxr-overview:
+    output: true
+#
+# Sanskrit
+#
+  sa-pos:
+    output: true
+    permalink: /sa/pos/:path.html
+  sa-feat:
+    output: true
+    permalink: /sa/feat/:path.html
+  sa-dep:
+    output: true
+    permalink: /sa/dep/:path.html
+  sa-overview:
+    output: true
+#
 # Template
 #
   template-pos:
