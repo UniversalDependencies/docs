@@ -751,7 +751,7 @@ nsubj(did-7, John)
 ~~~sdparse
 So please update whatever you need to
 dobj(update, whatever)
-rcmod(whatever, need)
+acl:relcl(whatever, need)
 xcomp(need, to)
 ~~~
 
@@ -1170,19 +1170,19 @@ advmod(leave, When)
 advcl(sure, leave)
 ~~~
 
-In free relative constructions, the _wh_-clause functions as an argument in the lower clause. In these cases, the _wh_-phrase is deemed the head of the construction, thereby receiving a dependency relation reflective of its function in the higher clause, and the rest of the _wh_-clause is an `rcmod` dependent on it.
+In free relative constructions, the _wh_-clause functions as an argument in the higher clause. In these cases, the _wh_-phrase is deemed the head of the construction, thereby receiving a dependency relation reflective of its function in the higher clause, and the rest of the _wh_-clause is an `acl:relcl` dependent on it.
 
 ~~~sdparse
 I 'll have whatever she 's having .
 dobj(have, whatever)
-rcmod(whatever, having)
+acl:relcl(whatever, having)
 ~~~
 
 ~~~sdparse
 I love how well everyone behaved .
 dobj(love, well)
 advmod(well, how)
-rcmod(well, behaved)
+acl:relcl(well, behaved)
 ~~~
 
 This analysis is also extended to cleft constructions.
@@ -1191,7 +1191,7 @@ This analysis is also extended to cleft constructions.
 -ROOT- John is who we want to help .
 root(-ROOT-, who)
 nsubj(who, John)
-rcmod(who, want)
+acl:relcl(who, want)
 cop(who, is)
 ~~~
 
@@ -1200,16 +1200,16 @@ cop(who, is)
 expl(who, It)
 root(-ROOT-, who)
 nsubj(who, John)
-rcmod(who, want)
+acl:relcl(who, want)
 cop(who, 's)
 ~~~
 
 ~~~sdparse
 -ROOT- What the committee hopes to learn is why all these events transpired .
 nsubj(why, What)
-rcmod(What, hopes)
+acl:relcl(What, hopes)
 cop(why, is)
-rcmod(why, transpired)
+acl:relcl(why, transpired)
 nsubj(transpired, events)
 root(-ROOT-, why)
 ~~~
@@ -1222,16 +1222,16 @@ neg(matter, No)
 npmod(achieve, matter)
 dobj(matter, progress)
 det(progress, what)
-rcmod(make, progress)
+acl:relcl(make, progress)
 ~~~
 
 #### Cyclic cases
-In some cases, the _wh_-phrase would be analyzed as the head of the _wh_-clause. For example, in the sentence _I love how appreciative everyone was_, the word _appreciative_ would normally be a predicative head (since the verb _was_ is a copula and would receive the `cop` relation). Since _appreciative_ cannot be an `rcmod` dependent on itself, the auxiliary is promoted to the head of the relative clause and assigned the `rcmod` relation.
+In some cases, the _wh_-phrase would be analyzed as the head of the _wh_-clause. For example, in the sentence _I love how appreciative everyone was_, the word _appreciative_ would normally be a predicative head (since the verb _was_ is a copula and would receive the `cop` relation). Since _appreciative_ cannot be an `acl:relcl` dependent on itself, the auxiliary is promoted to the head of the relative clause and assigned the `acl:relcl` relation.
 
 ~~~sdparse
 I love how appreciative everyone was .
 dobj(love, appreciative)
-rcmod(appreciative, was)
+acl:relcl(appreciative, was)
 advmod(how, appreciative)
 ~~~
 
@@ -1240,5 +1240,5 @@ This is the key to how worthy the effort might be .
 nmod(key, worthy)
 case(worthy, to)
 advmod(worthy, how)
-rcmod(worthy, be)
+acl:relcl(worthy, be)
 ~~~
