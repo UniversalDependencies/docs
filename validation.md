@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-07-22T00:28:18Z">2016-07-22T00:28:18 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-07-25T14:29:35Z">2016-07-25T14:29:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1480,11 +1480,18 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-07-21T21:18:49Z">2016-07-21T21:18:49 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-07-25T14:29:12Z">2016-07-25T14:29:12 zulu</time></span>
 </div>
 <div>
 <pre>
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev-lemma.conllu
+
+*** PASSED ***
+
+
+******************
+
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 *** PASSED ***
@@ -1492,7 +1499,23 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 ******************
 
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test-lemma.conllu
+
+[Line                   9371]: Column LEMMA is not allowed to contain whitespace: '1/2 '
+*** FAILED *** with 1 errors
+Format errors: 1
+
+
+******************
+
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train-lemma.conllu
 
 *** PASSED ***
 
