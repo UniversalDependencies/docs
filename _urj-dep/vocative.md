@@ -24,7 +24,12 @@ vocative(Mine-1, Ronald-4)
 compound-prt(Mine-1, ära-2)
 ~~~
 
-
+~~~ sdparse
+Te nyisd ki az ablakot , Sam ! \n You open out the window , Sam !
+vocative(nyisd-2, Sam-7)
+det(ablakot-5, az-4)
+nsubj(nyisd-2, Te-1)
+~~~ 
 
 ## Discussion 
 
