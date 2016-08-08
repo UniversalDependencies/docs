@@ -27,3 +27,4 @@ The guy , John said , left early in the morning
 parataxis(left, said)
 ~~~
 
+See also: [language-general documentation of `parataxis`](/u/dep/parataxis.html)

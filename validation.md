@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-07-13T21:12:11Z">2016-07-13T21:12:11 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-08-03T03:44:53Z">2016-08-03T03:44:53 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -258,7 +258,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-26T08:59:15Z">2016-05-26T08:59:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-07-21T21:33:46Z">2016-07-21T21:33:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -503,7 +503,7 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-26T09:05:00Z">2016-05-26T09:05:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-08-03T03:44:28Z">2016-08-03T03:44:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -599,7 +599,7 @@ python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lin
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-26T09:05:38Z">2016-05-26T09:05:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-07-21T21:31:35Z">2016-07-21T21:31:35 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -663,7 +663,7 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-26T09:06:28Z">2016-05-26T09:06:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-07-21T21:28:56Z">2016-07-21T21:28:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -695,7 +695,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-26T09:06:48Z">2016-05-26T09:06:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-07-25T21:02:29Z">2016-07-25T21:02:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1154,7 +1154,7 @@ python tools/validate.py --lang la UD-dev-branches/UD_Latin/la-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-26T09:10:34Z">2016-05-26T09:10:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-07-21T21:26:11Z">2016-07-21T21:26:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1378,7 +1378,7 @@ python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-06-17T06:00:54Z">2016-06-17T06:00:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-07-21T21:22:33Z">2016-07-21T21:22:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1480,11 +1480,18 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-26T09:13:48Z">2016-05-26T09:13:48 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-07-25T14:29:12Z">2016-07-25T14:29:12 zulu</time></span>
 </div>
 <div>
 <pre>
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev-lemma.conllu
+
+*** PASSED ***
+
+
+******************
+
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 *** PASSED ***
@@ -1492,7 +1499,23 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 ******************
 
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test-lemma.conllu
+
+[Line                   9371]: Column LEMMA is not allowed to contain whitespace: '1/2 '
+*** FAILED *** with 1 errors
+Format errors: 1
+
+
+******************
+
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train-lemma.conllu
 
 *** PASSED ***
 
