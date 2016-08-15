@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-08-03T03:43:03Z">2016-08-03T03:43:03 zulu</time>
+Regenerated <time class="timeago" datetime="2016-08-15T07:39:36Z">2016-08-15T07:39:36 zulu</time>
 
 # Aux chain
 
@@ -15733,7 +15733,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Portuguese</span>
-<span class="widespan">119 hits</span>
+<span class="widespan">0 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=NUM%26%21NumType&db=UD_Portuguese-dev">Go to search</a><p/>
@@ -21354,7 +21354,7 @@ Search expression: `_ <case (_ (<!nmod&<!nmod:agent&<!conj) _)`
 </tr>
 <tr><td>UD_Portuguese</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Portuguese-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Portuguese-dev">7054</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Portuguese-dev">7029</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Portuguese-dev">34</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Portuguese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Portuguese-dev">&nbsp;</a></td>
@@ -21949,7 +21949,7 @@ Search expression: `_ <case (_ (<!nmod&<!nmod:agent&<!conj) _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Portuguese</span>
-<span class="widespan">7131 hits</span>
+<span class="widespan">7106 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Portuguese-dev">Go to search</a><p/>

@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-08-03T03:44:53Z">2016-08-03T03:44:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-08-15T07:41:28Z">2016-08-15T07:41:28 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1377,8 +1377,8 @@ python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-07-21T21:22:33Z">2016-07-21T21:22:33 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-08-15T07:41:02Z">2016-08-15T07:41:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1398,14 +1398,7 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-test.conl
 
 python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
-[Line                   62321]: Range overlaps with others: 13-14
-[Line                   119751]: Range overlaps with others: 27-28
-[Line                   170651]: DEPREL must be "root" if HEAD is 0
-[Line                   170651]: DEPREL must be "root" if HEAD is 0
-[Tree number 5237 on line 170630]: Multiple root words: [1, 2]
-*** FAILED *** with 5 errors
-Format errors: 2
-Syntax errors: 3
+*** PASSED ***
 
 
 ******************
