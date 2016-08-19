@@ -23,8 +23,8 @@ punct(onena-4, .-6)
 Balea maskota izan zen. \n Whale_the mascot_the was . 
 
 nsubj(maskota-2, Balea-1)
-cop(izan-3, maskota-2)
-aux(zen-4, maskota-2)
+cop(maskota-2, izan-3)
+aux(maskota-2, zen-4)
 punct(maskota-2, .-5)
 ~~~
 
