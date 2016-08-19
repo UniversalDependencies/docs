@@ -15,7 +15,7 @@ Eizagirre izan zen onena Galarretan . \n Eizagirre was one_best_the Galarreta_in
 
 nsubj(onena-4, Eizagirre-1)
 cop(onena-4, izan-2)
-aux(izan-2, zen-3)
+aux(onena-4, zen-3)
 nmod(izan-2, Galarretan-5)
 punct(onena-4, .-6)
 ~~~
