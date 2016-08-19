@@ -46,16 +46,6 @@ mwe(argi-6, garbi-8)
 punct(sendoago-3, .-9)
 ~~~
 
-~~~ sdparse
-Noizean behin berak sortutako produktuak ematen zizkien . \n Hakkinen than stronger is, as clear as water .
 
-haos(behin-2, Noizean-1)
-ncmod(ematen-6, behin-2)
-ncsubj(sortutako-4, berak-3)
-xmod(produktuak-5, sortutako-4)
-ncobj(ematen-6, produktuak-5)
-auxmod(ematen-6, zizkien-7)
-punct(zizkien-7, .-8)
-~~~
 
 
