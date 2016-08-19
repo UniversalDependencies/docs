@@ -19,14 +19,6 @@ aux(onena-4, zen-3)
 nmod(onena-4, Galarretan-5)
 punct(onena-4, .-6)
 ~~~
-~~~ sdparse
-Balea maskota izan zen. \n Whale_the mascot_the was . 
-
-nsubj(maskota-2, Balea-1)
-cop(maskota-2, izan-3)
-aux(maskota-2, zen-4)
-punct(maskota-2, .-5)
-~~~
 
 *Beti ito beldur **nabil** .*
 
