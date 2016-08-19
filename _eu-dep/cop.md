@@ -20,6 +20,16 @@ nmod(onena-4, Galarretan-5)
 punct(onena-4, .-6)
 ~~~
 
+~~~ sdparse
+Eizagirre izan zen onena Galarretan . \n Eizagirre was one_best_the Galarreta_in . 
+
+ncsubj(izan-2, Eizagirre-1)
+auxmod(izan-2, zen-3)
+ncpred(izan-2, onena-4)
+ncmod(izan-2, Galarretan-5)
+punt(Galarretan-5, .-6)
+~~~
+
 *Beti ito beldur **nabil** .*
 
 *I **am** always scared to drown .* 
