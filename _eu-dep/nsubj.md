@@ -36,7 +36,7 @@ Example of a subject in a transitive sentence (ERG case):
 Eztabaida handia sortu du aldaketak .\n Discussion huge_a caused has change_the .  
 
 amod(Eztabaida-1, handia-2)
-nobj(sortu-3, Eztabaida-1)
+dobj(sortu-3, Eztabaida-1)
 aux(sortu-3, du-4)
 nsubj(sortu-3, aldaketak-5)
 punct(sortu-3, .-6)
@@ -55,10 +55,20 @@ Aldaketak eztabaida handia sortu du .\n Change_the discussion huge_a caused has 
 
 nsubj(sortu-4, Aldaketak-1)
 amod(eztabaida-2, handia-3)
-nobj(sortu-4, eztabaida-2)
+dobj(sortu-4, eztabaida-2)
 aux(sortu-4, du-5)
 punct(sortu-4, .-6)
 ~~~
 
+~~~ sdparse
+Azkenean, Koxtape eta Hondarribia sailkatu ziren .\n Change_the discussion huge_a caused has .
 
+advmod(sailkatu-6, Azkenean-1)
+punct(sailkatu-6, ,-2)
+nsubj(sailkatu-6, Koxtape-3)
+cc(Koxtape-3, eta-4)
+conj(Koxtape-3, Hondarribia-5)
+aux(sailkatu-6, ziren-7)
+punct(sailkatu-6, .-8)
+~~~
 
