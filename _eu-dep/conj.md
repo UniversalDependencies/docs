@@ -36,15 +36,3 @@ det(aditu-17, gehienentzat-18)
 punct(osatzen-15, .-19)
 ~~~ 
 
-~~~ sdparse
-Azkenean, Koxtape eta Hondarribia sailkatu ziren . \n Zidane, Henry, Barthez, Deschamps, Blanc and rest_the Europe_of team robust_the_most experts most_according_to .
-
-Azkenean , Koxtape eta Hondarribia sailkatu ziren .
-advmod(sailkatu-6, Azkenean-1)
-punct(sailkatu-6, ,-2)
-nsubj(sailkatu-6, Koxtape-3)
-cc(Koxtape-3, eta-4)
-conj(Koxtape-3, Hondarribia-5)
-aux(sailkatu-6, ziren-7)
-punct(sailkatu-6, .-1)
-~~~
