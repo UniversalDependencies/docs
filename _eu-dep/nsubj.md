@@ -60,15 +60,4 @@ aux(sortu-4, du-5)
 punct(sortu-4, .-6)
 ~~~
 
-~~~ sdparse
-Azkenean, Koxtape eta Hondarribia sailkatu ziren .\n Change_the discussion huge_a caused has .
-
-ncmod(sailkatu-6, Azkenean-1)
-punct(Azkenean-1, ,-2)
-nsubj(eta-4, Hondarribia-5)
-lot(eta-4, Koxtape-3)
-lot(Keta-4, Hondarribia-5)
-aux(sailkatu-6, ziren-7)
-punct(ziren-7, .-8)
-~~~
 
