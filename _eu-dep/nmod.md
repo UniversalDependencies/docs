@@ -60,10 +60,10 @@ punct(zigorra-5, .-6)
 ~~~ sdparse
 Azkenean Koxtape eta Hondarribia sailkatu ziren . \n That will be our punishment . 
 
-advmod(sailkatu-5, Azkenean-1)
-nsubj(sailkatu-5, Koxtape-2)
-cc(Koxtape-2, eta-3)
-conj(Koxtape-2, Hondarribia-4)
-aux(sailkatu-5, ziren-6)
-punct(sailkatu-5, .-7)
+ncmod(sailkatu-5, Azkenean-1)
+lot(eta-3, Koxtape-2)
+lot(eta-3, Hondarribia-4)
+ncsubj(sailkatu-5, eta-3)
+auxmod(sailkatu-5, ziren-6)
+punct(ziren-6, .-7)
 ~~~
