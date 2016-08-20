@@ -58,13 +58,12 @@ punct(zigorra-5, .-6)
 ~~~
 
 ~~~ sdparse
-Azkenean, Koxtape eta Hondarribia sailkatu ziren . \n That will be our punishment . 
+Azkenean Koxtape eta Hondarribia sailkatu ziren . \n That will be our punishment . 
 
-advmod(sailkatu-6, Azkenean-1)
-punct(sailkatu-6, ,-2)
-nsubj(sailkatu-6, Koxtape-3)
-cc(Koxtape-3, eta-4)
-conj(Koxtape-3, Hondarribia-5)
-aux(sailkatu-6, ziren-7)
-punct(sailkatu-6, .-8)
+advmod(sailkatu-5, Azkenean-1)
+nsubj(sailkatu-5, Koxtape-2)
+cc(Koxtape-2, eta-3)
+conj(Koxtape-2, Hondarribia-4)
+aux(sailkatu-5, ziren-6)
+punct(sailkatu-5, .-7)
 ~~~
