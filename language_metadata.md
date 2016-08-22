@@ -13,6 +13,7 @@ The table on the front page is automatically generated from special lines in the
     License: CC BY-SA 4.0
     Genre: blog wiki legal news fiction
     Contributors: Ginter, Filip; Kanerva, Jenna; Laippala, Veronika; Missilä, Anna; Pyysalo, Sampo
+    Contact: email1@example.com, email2@example.com
 
 This block can be anywhere in the readme file. The properties are as follows:
 
@@ -22,6 +23,7 @@ This block can be anywhere in the readme file. The properties are as follows:
 * `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo, and `GNU` the GNU logo. To add any other license, please provide a suitable icon to ginter@cs.utu.fi and sampo.pyysalo@gmail.com.
 * `Genre`: this is simply a space-separated list of genres which gets mapped into symbols in the table. The possible genres are listed in [this file](https://github.com/UniversalDependencies/docs/blob/pages-source/gen_index/genre_symbols.json) in the repository. If you don't see yours, just edit the file on GitHub and add your genre, choosing one of the symbols from [the *FontAwesome* list](https://fortawesome.github.io/Font-Awesome/icons/). Please make sure you get the syntax right, since this is a machine-readable JSON file. It is also possible to not add the genre to the `genre_symbols.json` file, in which case the default symbol will be used automatically. The genre name will still remain visible in the mouse-over tooltip.
 * `Contributors`: the list of contributors to be included with the data release and in the LINDAT download page. This is a semi-colon separated list where every name is in the `Last, First` form and the readme file should be utf-8 encoded to make sure special characters are preserved correctly.
+* `Contact`: e-mail address(es) of contact person(s) for the treebank (typically a subset of the contributors). The address may be used for inquiries about the treebank, such as questions that are not answered in documentation and/or issue trackers. More importantly, it may be used by people who want to contribute to the treebank and need to coordinate with the maintainers, and by the UD release task force to discuss issues that need to be fixed before the release. Warning: the addresses listed here may be exposed to spamming robots.
 
 # Adding a new language into the documentation
 
