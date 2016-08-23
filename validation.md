@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-08-23T14:32:02Z">2016-08-23T14:32:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-08-23T14:35:38Z">2016-08-23T14:35:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1625,7 +1625,7 @@ python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-u
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-05-26T09:16:22Z">2016-05-26T09:16:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-08-23T14:34:53Z">2016-08-23T14:34:53 zulu</time></span>
 </div>
 <div>
 <pre>
