@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-08-25T20:37:39Z">2016-08-25T20:37:39 zulu</time>
+Regenerated <time class="timeago" datetime="2016-08-25T20:47:16Z">2016-08-25T20:47:16 zulu</time>
 
 # Aux chain
 
@@ -13688,7 +13688,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_German</span>
-<span class="widespan">7401 hits</span>
+<span class="widespan">7409 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_German-dev">Go to search</a><p/>
@@ -14984,7 +14984,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_German</span>
-<span class="widespan">202 hits</span>
+<span class="widespan">186 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%28PRON%7CDET%29%26%21PronType&db=UD_German-dev">Go to search</a><p/>
@@ -26781,7 +26781,7 @@ Search expression: `!PRON&!NOUN&!PROPN >acl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Eacl+_&db=UD_German-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Eacl+_&db=UD_German-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Eacl+_&db=UD_German-dev">233</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Eacl+_&db=UD_German-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Eacl+_&db=UD_German-dev">1</a></td>
 </tr>
 <tr><td>UD_Gothic</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Eacl+_&db=UD_Gothic-dev">128</a></td>
@@ -27499,7 +27499,7 @@ Search expression: `!PRON&!NOUN&!PROPN >acl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_German</span>
-<span class="widespan">299 hits</span>
+<span class="widespan">300 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=%21PRON%26%21NOUN%26%21PROPN+%3Eacl+_&db=UD_German-dev">Go to search</a><p/>
