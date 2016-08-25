@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-08-24T13:09:07Z">2016-08-24T13:09:07 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-08-25T08:53:11Z">2016-08-25T08:53:11 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -758,28 +758,91 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-08-23T13:22:03Z">2016-08-23T13:22:03 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-08-25T08:52:47Z">2016-08-25T08:52:47 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-dev.conllu
 
-*** PASSED ***
+[Line                   14]: Unknown attribute-value pair Gender[psor]=Masc
+[Line                   14]: Unknown attribute-value pair Gender[psor]=Neut
+[Line                   14]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   297]: Unknown attribute-value pair Gender[psor]=Masc
+[Line                   297]: Unknown attribute-value pair Gender[psor]=Neut
+[Line                   297]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   396]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   454]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   489]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   553]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   605]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   665]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   679]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   734]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   759]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   766]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   777]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   897]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   906]: Unknown attribute-value pair Gender[psor]=Masc
+...suppressing further errors regarding Morpho
+*** FAILED *** with 165 errors
+Morpho errors: 165
 
 
 ******************
 
 python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-test.conllu
 
-*** PASSED ***
+[Line                   197]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   200]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   227]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   581]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   599]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   697]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   1034]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   1130]: Unknown attribute-value pair Gender[psor]=Masc
+[Line                   1130]: Unknown attribute-value pair Gender[psor]=Neut
+[Line                   1130]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2003]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2222]: Unknown attribute-value pair Gender[psor]=Masc
+[Line                   2222]: Unknown attribute-value pair Gender[psor]=Neut
+[Line                   2222]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2312]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2321]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2452]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2700]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   2763]: Unknown attribute-value pair Number[psor]=Sing
+...suppressing further errors regarding Morpho
+*** FAILED *** with 192 errors
+Morpho errors: 192
 
 
 ******************
 
 python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 
-*** PASSED ***
+[Line                   215]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   236]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   302]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   353]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   464]: Unknown attribute-value pair Gender[psor]=Masc
+[Line                   464]: Unknown attribute-value pair Gender[psor]=Neut
+[Line                   464]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   525]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   579]: Unknown attribute-value pair Gender[psor]=Masc
+[Line                   579]: Unknown attribute-value pair Gender[psor]=Neut
+[Line                   579]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   1050]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   1394]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   1420]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   1735]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   1754]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   1788]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   1845]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2070]: Unknown attribute-value pair Number[psor]=Sing
+...suppressing further errors regarding Morpho
+*** FAILED *** with 4203 errors
+Morpho errors: 4203
 
 
 ******************
