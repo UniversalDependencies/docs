@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-08-25T18:58:21Z">2016-08-25T18:58:21 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-08-25T19:10:36Z">2016-08-25T19:10:36 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -759,7 +759,7 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-08-25T18:57:56Z">2016-08-25T18:57:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-08-25T19:10:12Z">2016-08-25T19:10:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -793,6 +793,7 @@ Morpho errors: 165
 
 python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-test.conllu
 
+[Line                   20]: Unknown attribute-value pair Number[psor]=Sing
 [Line                   197]: Unknown attribute-value pair Number[psor]=Sing
 [Line                   200]: Unknown attribute-value pair Number[psor]=Sing
 [Line                   227]: Unknown attribute-value pair Number[psor]=Plur
@@ -811,10 +812,9 @@ python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-test.conllu
 [Line                   2321]: Unknown attribute-value pair Number[psor]=Sing
 [Line                   2452]: Unknown attribute-value pair Number[psor]=Sing
 [Line                   2700]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   2763]: Unknown attribute-value pair Number[psor]=Sing
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 192 errors
-Morpho errors: 192
+*** FAILED *** with 193 errors
+Morpho errors: 193
 
 
 ******************
@@ -841,8 +841,8 @@ python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 [Line                   1845]: Unknown attribute-value pair Number[psor]=Sing
 [Line                   2070]: Unknown attribute-value pair Number[psor]=Sing
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 4203 errors
-Morpho errors: 4203
+*** FAILED *** with 4208 errors
+Morpho errors: 4208
 
 
 ******************
