@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-08-29T09:17:40Z">2016-08-29T09:17:40 zulu</time>
+Regenerated <time class="timeago" datetime="2016-08-30T09:17:37Z">2016-08-30T09:17:37 zulu</time>
 
 # Aux chain
 
