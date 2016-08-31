@@ -103,6 +103,8 @@ def hit_table(langs,q):
     print >> out8, '<table>'
     print >> out8, u'<tr><th/>',u"".join(u"<th>"+p+u"</th>" for p in allpos), u"</tr>"
     for l in sorted(langs):
+        if not any(langs[l].poshits.get(p) for p in allpos):
+            continue
         print >> out8, u'<tr><td>%s</td>'%l
         for p in allpos:
             print >> out8, u'<td>%s</td>'%(searchlink(l,q.replace(u"_",p,1),langs[l].poshits.get(p,u"&nbsp;")))
@@ -212,6 +214,8 @@ def main(tests,test_cache,languages):
             print >> out8, u"Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links"
         print >> out8, u'</div>'
         for l in languages:
+            if test_cache[t["expr"]][l].hits == 0:
+                continue
             print >> out8, u"<div>"
             print >> out8, u'<span class="doublewidespan" style="padding-left:3em">%s</span>'%l
             print >> out8, u'<span class="widespan">%d hits</span>'%test_cache[t["expr"]][l].hits
