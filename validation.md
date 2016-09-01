@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-01T10:26:58Z">2016-09-01T10:26:58 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-01T10:30:53Z">2016-09-01T10:30:53 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2013,37 +2013,14 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-01T10:26:57Z">2016-09-01T10:26:57 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-01T10:30:53Z">2016-09-01T10:30:53 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-sample.conllu
+python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-sample.conllu
 
-[Line                   2]: Unknown UD DEPREL: OBJ
-[Line                   2]: Invalid DEPREL value OBJ
-[Line                   3]: Unknown UD DEPREL: ADV
-[Line                   3]: Invalid DEPREL value ADV
-[Line                   4]: Unknown UD DEPREL: CL
-[Line                   4]: Invalid DEPREL value CL
-[Line                   5]: Unknown UD DEPREL: COORD
-[Line                   5]: Invalid DEPREL value COORD
-[Line                   6]: Unknown UD DEPREL: COORD
-[Line                   6]: Invalid DEPREL value COORD
-[Line                   7]: Unknown UD DEPREL: CONJ
-[Line                   7]: Invalid DEPREL value CONJ
-[Line                   8]: Unknown UD DEPREL: ATT
-[Line                   8]: Invalid DEPREL value ATT
-[Line                   9]: Unknown UD DEPREL: CLAS
-[Line                   9]: Invalid DEPREL value CLAS
-[Line                   10]: Unknown UD DEPREL: COORD
-[Line                   10]: Invalid DEPREL value COORD
-[Line                   11]: Unknown UD DEPREL: void
-...suppressing further errors regarding Syntax
-[Line                   115]: Only the unix-style LF line terminator is allowed
-*** FAILED *** with 212 errors
-Format errors: 1
-Syntax errors: 211
+*** PASSED ***
 
 
 ******************
