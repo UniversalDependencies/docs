@@ -8,7 +8,7 @@ layout: base
 
 <!-- "automatic stats" -->
 {% capture langdir %}{{ page.path | split:"/" | first | split:"-" | first | replace_first:'_',''}}{% endcapture %}
-{% capture basename %}{% if page.title == 'aux' %}aux_{% else %}{{page.title}}{% endif %}{% endcapture %}
+{% capture basename %}{% if page.title == 'aux' %}aux_{% else %}{{page.title | replace_first:':','-'}}{% endif %}{% endcapture %}
 {% capture statspath %}stats/{{langdir}}/dep/{{basename}}.md{% endcapture %}
 {% capture statsexist %}{% file_exists _includes/{{statspath}} %}{% endcapture %}
 {% if statsexist  == "true" %}
