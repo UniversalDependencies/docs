@@ -45,7 +45,7 @@ nmod(today, room)
 
 (Note that the English treebank currently implements the be-dependent analysis for all of the sentences above.)
 
-It seems arbitrary to promote one of today or in the blue room to predicate over the other, when they both seem to be modifiers. Both can be dropped (although, not both at the same time). We feel that rather than act as a linking verb, be here is has an existential sense, and is synonymous with happens. Notably, be does not have the clear "equals sign" interpretation of 1-2. We already acknowledge an existential sense of be, which receives a be-root analysis, in sentences such as:
+It seems arbitrary to promote one of today or in the blue room to predicate over the other, when they both seem to be modifiers. Both can be dropped (although, not both at the same time). We feel that rather than act as a linking verb, _be_ here is has an existential sense, and is synonymous with _happens_. Notably, _be_ does not have the clear "equals sign" interpretation of 1-2. We already acknowledge an existential sense of _be_, which receives a be-root analysis, in sentences such as:
 
 ~~~ sdparse
 (7) ROOT There is a meeting today in the blue room .
@@ -92,9 +92,9 @@ advcl(is, know)
 
 These distinctions align with distinctions that are signaled in Irish at the lexical level.
 
-We should note, however, that they diverge from Russian, where a uniform copula structure with an ellided linking verb can be used to translate 1-5.
+We should note, however, that they diverge from Russian, where a uniform copula structure with an ellided linking verb can be used to translate 1-5. (This parallelism argument was one of the main original arguments for doing English the way it was done.)
 
-It seems that keeping a parallel between Russian and Irish may not be possible, so a parallelism argument for English can 
+It seems that keeping a parallel between Russian and Irish may not be possible, so a parallelism argument for English is somewhat weakened. 
 
 Then there is the representational issue of subject predicates with clausal form. Currently in the English treebank, the following analysis is implemented for (9).
 
@@ -105,7 +105,7 @@ csubj(is, reading)
 ccomp(is, eating)
 ~~~
 
-This is clearly an implementation hack, overloading the ccomp relation. There is no doubt that be here is the linking be, with the "=" meaning. However, adopting the be-dependent analysis would leave reading with two subjects. This will be a problem whenever the subject predicate has an internal subject. The proposal here is to adopt a language-specific label proposed in the Finnish treebank for the higher-level subject. This allows the two subjects to be distinguished, while preserving the be-dependent analysis.
+This is clearly an implementation hack, overloading the `ccomp` relation. There is no doubt that _be_ here is the linking be, with the "=" meaning. However, adopting the be-dependent analysis would leave _eating_ with two subjects. This will be a problem whenever the subject predicate has an internal subject. The proposal here is to adopt a language-specific label proposed in the Finnish treebank for the higher-level subject. This allows the two subjects to be distinguished, while preserving the be-dependent analysis.
 
 ~~~ sdparse
 (9) ROOT My reading a book is her eating cake .
@@ -114,7 +114,7 @@ nsubj(eating, her)
 csubj:cop(eating, reading)
 ~~~
 
-We noticed that be making representation distinctions between existential and linking be, we lose the parallel between the conjuncts in (X). The be-dependent analysis allows us to give the sentence a simple analysis:
+We noticed that by making representation distinctions between existential and linking _be_, we lose the parallel between the conjuncts in (X). The be-dependent analysis allows us to give the sentence a simple analysis:
 
 ~~~ sdparse
 (10) ROOT Millions are unemployed or in the informal economy .
@@ -129,7 +129,7 @@ However, clearly conjunction is very liberal here, as shown in (11):
 
 So this seems to imply that the coordination in (10) does not mean that is has the same function with relation to unemployed and in the informal economy, since clearly in (11) it is a linking verb to unemployed and a progressive auxiliary to expecting.
 
-Finally, we briefly touched on the problem of which verbs should be copulas. Example (12) seems to suggest that more verbs that be (in English) are copulas. (In the English treebank, we follow Huddleston and Pulum in considering only be a copula).
+Finally, we briefly touched on the problem of which verbs should be copulas. Example (12) seems to suggest that more verbs that be (in English) are copulas. (In the English treebank, we follow Huddleston and Pullum in considering only be a copula).
 
 (12) Bill never was and will not become happy.
 
