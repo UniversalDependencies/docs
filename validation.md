@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-01T14:40:14Z">2016-09-01T14:40:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-05T20:25:30Z">2016-09-05T20:25:30 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2014,11 +2014,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-01T10:30:53Z">2016-09-01T10:30:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-05T20:25:29Z">2016-09-05T20:25:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-sample.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-sample.conllu
 
 *** PASSED ***
 
