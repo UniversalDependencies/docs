@@ -752,6 +752,9 @@ collections:
   v2:
     output: true
     permalink: /v2/:path.html
+  2016-09-05--06-prague:
+    output: true
+    permalink: /2016-09-05--06-prague/:path.html
 
 excerpt_separator: "\n\n"
 
