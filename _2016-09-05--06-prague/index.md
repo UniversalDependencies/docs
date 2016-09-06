@@ -21,7 +21,7 @@ Per-issue reports and proposals:
 7. Language-specific subtypes (Joakim)
 8. Multiword expressions (Marie)
 9. Enhanced dependencies (Sebastian)
-10. Part-of-speech tags (Dan)
+10. [Part-of-speech tags](postags.html) (Dan)
 11. Features (Dan)
 12. Semantic categories (Marie)
 13. CoNLL-U format (Filip)
