@@ -18,27 +18,23 @@ Labels of language-specific relations explictly encode the core UD relation that
 - `acl:part`:
 [Portuguese](pt-dep/acl:part)
 - `acl:relcl`:
+[Chinese](zh-dep/acl:relcl),
 [Danish](da-dep/acl:relcl),
-[Greek](el-dep/acl:relcl),
 [English](en-dep/acl:relcl),
-[English](en-dep/acl:relcl),
-[English](en-dep/acl:relcl),
-[Spanish](es-dep/acl:relcl),
 [Estonian](et-dep/acl:relcl),
-[Persian](fa-dep/acl:relcl),
 [Finnish](fi-dep/acl:relcl),
 [French](fr-dep/acl:relcl),
-[Irish](ga-dep/acl:relcl),
+[Greek](el-dep/acl:relcl),
 [Hebrew](he-dep/acl:relcl),
 [Hindi](hi-dep/acl:relcl),
+[Irish](ga-dep/acl:relcl),
 [Italian](it-dep/acl:relcl),
 [Norwegian](no-dep/acl:relcl),
+[Persian](fa-dep/acl:relcl),
 [Portuguese](pt-dep/acl:relcl),
 [Russian](ru-dep/acl:relcl),
-[Russian](ru-dep/acl:relcl),
-[Swedish](sv-dep/acl:relcl),
-[Swedish](sv-dep/acl:relcl),
-[Chinese](zh-dep/acl:relcl)
+[Spanish](es-dep/acl:relcl),
+[Swedish](sv-dep/acl:relcl)
 
 
 
@@ -54,14 +50,9 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 ## advmod
 - `advmod:emph`:
+[Ancient Greek](grc-dep/advmod:emph),
 [Arabic](ar-dep/advmod:emph),
 [Czech](cs-dep/advmod:emph),
-[Czech](cs-dep/advmod:emph),
-[Czech](cs-dep/advmod:emph),
-[](grc-dep/advmod:emph),
-[](grc-dep/advmod:emph),
-[Latin](la-dep/advmod:emph),
-[Latin](la-dep/advmod:emph),
 [Latin](la-dep/advmod:emph),
 [Portuguese](pt-dep/advmod:emph),
 [Tamil](ta-dep/advmod:emph),
@@ -119,12 +110,9 @@ Labels of language-specific relations explictly encode the core UD relation that
 - `auxpass:reflex`:
 [Catalan](ca-dep/auxpass:reflex),
 [Czech](cs-dep/auxpass:reflex),
-[Czech](cs-dep/auxpass:reflex),
-[Czech](cs-dep/auxpass:reflex),
-[Spanish](es-dep/auxpass:reflex),
 [Latin](la-dep/auxpass:reflex),
-[Latin](la-dep/auxpass:reflex),
-[Portuguese](pt-dep/auxpass:reflex)
+[Portuguese](pt-dep/auxpass:reflex),
+[Spanish](es-dep/auxpass:reflex)
 
 
 
@@ -149,15 +137,11 @@ Labels of language-specific relations explictly encode the core UD relation that
 ## cc
 - `cc:preconj`:
 [English](en-dep/cc:preconj),
-[English](en-dep/cc:preconj),
-[English](en-dep/cc:preconj),
 [Estonian](et-dep/cc:preconj),
-[Persian](fa-dep/cc:preconj),
 [Finnish](fi-dep/cc:preconj),
+[Persian](fa-dep/cc:preconj),
 [Romanian](ro-dep/cc:preconj),
 [Russian](ru-dep/cc:preconj),
-[Russian](ru-dep/cc:preconj),
-[Slovenian](sl-dep/cc:preconj),
 [Slovenian](sl-dep/cc:preconj)
 
 
@@ -179,24 +163,18 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Persian](fa-dep/compound:lvc),
 [Turkish](tr-dep/compound:lvc)
 - `compound:nn`:
-[Finnish](fi-dep/compound:nn),
 [Finnish](fi-dep/compound:nn)
 - `compound:preverb`:
 [Hungarian](hu-dep/compound:preverb)
 - `compound:prt`:
 [Danish](da-dep/compound:prt),
-[English](en-dep/compound:prt),
-[English](en-dep/compound:prt),
+[Dutch](nl-dep/compound:prt),
 [English](en-dep/compound:prt),
 [Estonian](et-dep/compound:prt),
-[Persian](fa-dep/compound:prt),
-[Finnish](fi-dep/compound:prt),
 [Finnish](fi-dep/compound:prt),
 [Irish](ga-dep/compound:prt),
-[Dutch](nl-dep/compound:prt),
-[Dutch](nl-dep/compound:prt),
 [Norwegian](no-dep/compound:prt),
-[Swedish](sv-dep/compound:prt),
+[Persian](fa-dep/compound:prt),
 [Swedish](sv-dep/compound:prt),
 [Tamil](ta-dep/compound:prt)
 - `compound:redup`:
@@ -210,7 +188,6 @@ Labels of language-specific relations explictly encode the core UD relation that
 - `conj:extend`:
 [Slovenian](sl-dep/conj:extend)
 - `conj:preconj`:
-[Russian](ru-dep/conj:preconj),
 [Russian](ru-dep/conj:preconj)
 
 
@@ -221,7 +198,6 @@ Labels of language-specific relations explictly encode the core UD relation that
 - `csubj:cop`:
 [Estonian](et-dep/csubj:cop),
 [Finnish](fi-dep/csubj:cop),
-[Finnish](fi-dep/csubj:cop),
 [Irish](ga-dep/csubj:cop)
 
 
@@ -231,14 +207,9 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Hebrew](he-dep/det:def)
 - `det:numgov`:
 [Czech](cs-dep/det:numgov),
-[Czech](cs-dep/det:numgov),
-[Czech](cs-dep/det:numgov),
 [Polish](pl-dep/det:numgov)
 - `det:nummod`:
 [Czech](cs-dep/det:nummod),
-[Czech](cs-dep/det:nummod),
-[Czech](cs-dep/det:nummod),
-[Dutch](nl-dep/det:nummod),
 [Dutch](nl-dep/det:nummod),
 [Polish](pl-dep/det:nummod)
 - `det:poss`:
@@ -246,11 +217,8 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Portuguese](pt-dep/det:poss)
 - `det:predet`:
 [English](en-dep/det:predet),
-[English](en-dep/det:predet),
-[English](en-dep/det:predet),
-[Persian](fa-dep/det:predet),
 [Italian](it-dep/det:predet),
-[Russian](ru-dep/det:predet),
+[Persian](fa-dep/det:predet),
 [Russian](ru-dep/det:predet)
 - `det:quant`:
 [Hebrew](he-dep/det:quant)
@@ -302,7 +270,6 @@ Labels of language-specific relations explictly encode the core UD relation that
 - `nmod:agent`:
 [Romanian](ro-dep/nmod:agent),
 [Russian](ru-dep/nmod:agent),
-[Swedish](sv-dep/nmod:agent),
 [Swedish](sv-dep/nmod:agent)
 - `nmod:att`:
 [Hungarian](hu-dep/nmod:att)
@@ -314,11 +281,8 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Uyghur](ug-dep/nmod:cmp)
 - `nmod:gobj`:
 [Finnish](fi-dep/nmod:gobj),
-[Finnish](fi-dep/nmod:gobj),
-[Russian](ru-dep/nmod:gobj),
 [Russian](ru-dep/nmod:gobj)
 - `nmod:gsubj`:
-[Finnish](fi-dep/nmod:gsubj),
 [Finnish](fi-dep/nmod:gsubj)
 - `nmod:ins`:
 [Uyghur](ug-dep/nmod:ins)
@@ -326,8 +290,6 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Danish](da-dep/nmod:loc),
 [Uyghur](ug-dep/nmod:loc)
 - `nmod:npmod`:
-[English](en-dep/nmod:npmod),
-[English](en-dep/nmod:npmod),
 [English](en-dep/nmod:npmod)
 - `nmod:obl`:
 [Hungarian](hu-dep/nmod:obl)
@@ -335,25 +297,21 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Hungarian](hu-dep/nmod:obllvc)
 - `nmod:own`:
 [Buryat](bxr-dep/nmod:own),
-[Finnish](fi-dep/nmod:own),
 [Finnish](fi-dep/nmod:own)
 - `nmod:pmod`:
 [Romanian](ro-dep/nmod:pmod)
 - `nmod:poss`:
 [Danish](da-dep/nmod:poss),
-[German](de-dep/nmod:poss),
 [English](en-dep/nmod:poss),
-[English](en-dep/nmod:poss),
-[English](en-dep/nmod:poss),
-[Spanish](es-dep/nmod:poss),
 [Estonian](et-dep/nmod:poss),
-[Persian](fa-dep/nmod:poss),
 [Finnish](fi-dep/nmod:poss),
 [French](fr-dep/nmod:poss),
-[Irish](ga-dep/nmod:poss),
+[German](de-dep/nmod:poss),
 [Hebrew](he-dep/nmod:poss),
+[Irish](ga-dep/nmod:poss),
 [Kazakh](kk-dep/nmod:poss),
-[Swedish](sv-dep/nmod:poss),
+[Persian](fa-dep/nmod:poss),
+[Spanish](es-dep/nmod:poss),
 [Swedish](sv-dep/nmod:poss),
 [Turkish](tr-dep/nmod:poss),
 [Uyghur](ug-dep/nmod:poss)
@@ -362,23 +320,19 @@ Labels of language-specific relations explictly encode the core UD relation that
 - `nmod:smixut`:
 [Hebrew](he-dep/nmod:smixut)
 - `nmod:tmod`:
+[Chinese](zh-dep/nmod:tmod),
 [Danish](da-dep/nmod:tmod),
 [English](en-dep/nmod:tmod),
-[English](en-dep/nmod:tmod),
-[English](en-dep/nmod:tmod),
-[Irish](ga-dep/nmod:tmod),
 [Hebrew](he-dep/nmod:tmod),
+[Irish](ga-dep/nmod:tmod),
 [Romanian](ro-dep/nmod:tmod),
-[Russian](ru-dep/nmod:tmod),
-[Russian](ru-dep/nmod:tmod),
-[Chinese](zh-dep/nmod:tmod)
+[Russian](ru-dep/nmod:tmod)
 
 
 
 ## nsubj
 - `nsubj:cop`:
 [Estonian](et-dep/nsubj:cop),
-[Finnish](fi-dep/nsubj:cop),
 [Finnish](fi-dep/nsubj:cop),
 [Hebrew](he-dep/nsubj:cop)
 - `nsubj:lvc`:
@@ -392,8 +346,6 @@ Labels of language-specific relations explictly encode the core UD relation that
 - `nummod:entity`:
 [Russian](ru-dep/nummod:entity)
 - `nummod:gov`:
-[Czech](cs-dep/nummod:gov),
-[Czech](cs-dep/nummod:gov),
 [Czech](cs-dep/nummod:gov),
 [Russian](ru-dep/nummod:gov)
 
@@ -411,7 +363,6 @@ Labels of language-specific relations explictly encode the core UD relation that
 - `xcomp:adj`:
 [Portuguese](pt-dep/xcomp:adj)
 - `xcomp:ds`:
-[Finnish](fi-dep/xcomp:ds),
 [Finnish](fi-dep/xcomp:ds)
 - `xcomp:pred`:
 [Irish](ga-dep/xcomp:pred)
