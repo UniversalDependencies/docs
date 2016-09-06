@@ -8,7 +8,7 @@ title:  'Prague Meeting'
 _(Marie-Catherine de Marneffe, Filip Ginter, Jan Hajič, Joakim Nivre, Sebastian Schuster, Fran Tyers, Dan Zeman)_
 
 We discussed changes that should be incorporated in the upcoming version 2 of the UD guidelines.
-Before the meeting, ideas were collected [here](../v2/index.html).
+Prior to the meeting, ideas were collected [here](../v2/index.html).
 
 Per-issue reports and proposals:
 
