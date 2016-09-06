@@ -7,25 +7,25 @@ title:  'Uppsala Meeting'
 
 ## Group reports
 
-### 1. [Coordination and names](2015-08-23-uppsala/coordination.html) (#1, #9)
+### 1. [Coordination and names](coordination.html) (#1, #9)
 
-### 2. [Copula and cleft sentences](2015-08-23-uppsala/copula.html) (#2, #3)
+### 2. [Copula and cleft sentences](copula.html) (#2, #3)
 
-### 3. [Determiners and pronouns](2015-08-23-uppsala/determiners.html) (#4)
+### 3. [Determiners and pronouns](determiners.html) (#4)
 
-### 4. [Ellipsis](2015-08-23-uppsala/ellipsis.html) (#5)
+### 4. [Ellipsis](ellipsis.html) (#5)
 
-### 5. [MWE including LVC and MW abbr](2015-08-23-uppsala/mwe.html) (#6, #7, #8)
+### 5. [MWE including LVC and MW abbr](mwe.html) (#6, #7, #8)
 
-### 6. [Particles and adpositions](2015-08-23-uppsala/particles.html) (#10, #16)
+### 6. [Particles and adpositions](particles.html) (#10, #16)
 
-### 7. [Tokenization](2015-08-23-uppsala/tokenization.html) (#11)
+### 7. [Tokenization](tokenization.html) (#11)
 
-### 8. [Clitics and reflexive pronouns](2015-08-23-uppsala/clitics.html) (#12, #17)
+### 8. [Clitics and reflexive pronouns](clitics.html) (#12, #17)
 
-### 9. [Conversion best practice and tools](2015-08-23-uppsala/conversion.html) (#13, #15)
+### 9. [Conversion best practice and tools](conversion.html) (#13, #15)
 
-### 10. [Future of UD: enhanced + semantics](2015-08-23-uppsala/future.html) (#14)
+### 10. [Future of UD: enhanced + semantics](future.html) (#14)
 
 ## Future work
 
@@ -60,6 +60,3 @@ Based on the group reports, issues can be sorted into two groups:
 5. Core arguments: we need to sort out the exact criteria for distinguishing different core arguments, including the distinction between [u-dep/dobj]() and [u-dep/iobj](), the use of the [u-dep/expl]() relation, and the treatment of pro-drop, clitic doubling, and dislocation.
 
 6. Enhanced dependencies:  we need guidelines for the enhanced dependencies, which can potentially play a role in resolving all the previous long-term issues.
-
-
-
