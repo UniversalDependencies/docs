@@ -65,7 +65,7 @@ If you want to receive news about Universal Dependencies, you can subscribe to
 the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 
 See also the [list of open issues](issues.html)
-and what was decided about them at the [Uppsala meeting](uppsala.html).
+and what was decided about them at the [Uppsala meeting](2015-08-23-uppsala/index.html).
 New: preparing [v2](v2/index.html).
 
 # Contribute
