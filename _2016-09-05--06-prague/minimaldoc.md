@@ -37,3 +37,9 @@ and ideally also links to such pages in languages where they already exist and c
   * Is it possible to fuse two or more syntactic words into one multiword token on the surface?
     If so, describe all types of such fusions.
     Note that punctuation written adjacent to a word does not constitute a fusion.
+* Morphology and part of speech:
+  * All language-specific features and values should be documented, especially if this is the only language
+    where they are used. This has higher priority then documenting the universal features with native examples.
+* Syntax:
+  * All subtypes of dependency relations should be documented, especially if this is the only language
+    where they are used. This has higher priority then documenting the universal relations with native examples.
