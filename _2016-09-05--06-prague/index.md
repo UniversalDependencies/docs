@@ -25,4 +25,4 @@ Per-issue reports and proposals:
 11. [Features](features.html) (Dan)
 12. [Semantic categories](semantic-categories.html) (Marie)
 13. [CoNLL-U format](conll-u.html) (Filip)
-14. Minimal requirements for language-specific documentation (Dan)
+14. [Minimal requirements for language-specific documentation](minimaldoc.html) (Dan)
