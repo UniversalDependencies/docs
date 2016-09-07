@@ -106,7 +106,7 @@ There are many pairs of categories with unclear border zones, although not all o
 Some pairs are less problematic than others because some categories are functionally more compatible than others.
 It is acceptable if `PRON` and `DET` are pre-categorized and distinguished mostly by word list or morphology,
 because they can be seen as two subcategories of a broader category of nominals; if a word is classified as `DET`
-but it occurs in place of a noun phrase, it can be explained by ellipsis and it we do not have to switch the tag
+but it occurs in place of a noun phrase, it can be explained by ellipsis and we do not have to switch the tag
 to `PRON` in such contexts. However, some categories are not compatible and if a word occurs in both, it has to
 be taken as two separate lemmas; consequently it has to be disambiguated according to sentence context.
 A good example is [en] _that_ and [es] _que_ which can be both a relative pronoun and a subordinating conjunction
