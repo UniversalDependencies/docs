@@ -5,8 +5,13 @@ title:  'POS tags'
 
 # Part-of-speech tags in UD v2
 
-Tentative conclusion for part-of-speech tags:
-We recommend keeping PROPN and PART.
+For related discussion see
+
+* [Current guidelines for POS tags](../u/pos/index.html)
+* [Form vs. function in POS tags](../v2/form_vs_function.html)
+* [Issue 259](http://github.com/UniversalDependencies/docs/issues/159) (`PRON` vs. `DET`) and the [Uppsala report on determiners](../2015-08-23-uppsala/determiners.html)
+* [Issue 237](http://github.com/UniversalDependencies/docs/issues/237) (`ADV` vs. `CONJ`)
+* [Issue 275](http://github.com/UniversalDependencies/docs/issues/275) (copula `VERB` vs. `AUX`)
 
 ## Rename CONJ to CCONJ
 
@@ -29,6 +34,25 @@ We decided to keep the tag in v2 because
 2. the reasons above do not seem strong enough to remove it;
 3. we are not going to have named entity annotation in UD v2.
 
+## Keep PART but minimize its usage
+
+We considered removing `PART` because it is a very small category, which is defined mostly negatively (it is particle if it is not anything else). We decided to keep it because
+1. we would have to take the current particles one-by-one in each language and decide where to put them;
+2. in some instances it would still be hard to find a suitable category;
+3. which may actually lead to creation of several new and even smaller categories.
+
+However, the lists of particles in individual languages should be reviewed anyways. Language-specific documentation must list all particles in the language, and ideally also explain why they are particles.
+
+Note that the current guidelines say that [en] _not_, [de] _nicht_ etc. are negative particles (but negative determiners like _no_, or negative auxiliary verbs like [cs] _není_ are not particles). This is the only positive part of the current `PART` definition at the language-universal level, because such words were traditionally tagged as adverbs in some languages, and they could be adverbs in the other languages too, had we decided to remove `PART`.
+
+## Remove AUX
+
+For justification see below.
+
+Removing the tag means changing it to `VERB` in data, removing all the `AUX` pages from the documentation, and also remove references to it from other parts of the documentation (probably from `VERB`, `aux` and `auxpass`; quite likely also from elsewhere).
+
+(NB: If this proposal is not approved by the core group, we should consider re-classifying copula verbs as auxiliaries.)
+
 ## Borderline between categories
 
 We should move away from completely functional guidelines for part-of-speech tags that make the tag completely predictable from the syntactic function.
@@ -48,7 +72,12 @@ We have identified two such extremes in the v1 guidelines:
     The functional approach is not banned though, if there is no better way (reportedly Turkic languages).
     See below for more details.
   * Main verbs vs. auxiliary verbs. In many languages, (some of) the auxiliary verbs may also
-    be used as main verbs. Their form usually does not differ, so the `AUX` tag can only be
+    be used as main verbs. Their paradigm may be defective but the forms they have usually do
+    not distinguish auxiliary usage from full-verb usage, so the `AUX` tag can only be
     inferred from the syntactic relation `aux`.
     There is no reasonable solution similar to the `PRON`/`DET` proposal, therefore we propose
-    remove the `AUX` tag from v2.
+    to remove the `AUX` tag from v2.
+    If it is desirable to keep the morphological distinction in a treebank
+    (e.g. because a verb is _only_ auxiliary in a language, and it differs morphologically from normal verbs),
+    the language-specific feature `VerbType=Aux` (or `Mod` or `Cop`) can be used, but there will be no dedicated POS tag.
+
