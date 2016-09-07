@@ -9,7 +9,8 @@ For related discussion see
 
 * [Current guidelines for POS tags](../u/pos/index.html)
 * [Form vs. function in POS tags](../v2/form_vs_function.html)
-* [Issue 259](http://github.com/UniversalDependencies/docs/issues/159) (`PRON` vs. `DET`) and the [Uppsala report on determiners](../2015-08-23-uppsala/determiners.html)
+* [Issue 159](http://github.com/UniversalDependencies/docs/issues/159) (`PRON` vs. `DET`) and the [Uppsala report on determiners](../2015-08-23-uppsala/determiners.html)
+* [Issue 178](http://github.com/UniversalDependencies/docs/issues/178#issuecomment-212822810) (question particles)
 * [Issue 237](http://github.com/UniversalDependencies/docs/issues/237) (`ADV` vs. `CONJ`)
 * [Issue 275](http://github.com/UniversalDependencies/docs/issues/275) (copula `VERB` vs. `AUX`)
 
