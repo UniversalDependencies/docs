@@ -15,7 +15,7 @@ The `nmod` relation is further specified by the [Case](tr-feat/Case) feature or 
 
 We also use the following language-specific subtypes for nmod:
 
-- [nomd:cau](nmod-cau): nominal modifier of a causative predicate that
+- [nmod:cau](): nominal modifier of a causative predicate that
   markes the _causee_.
 - [nmod:comp](nmod-comp): a comparative nominal modifier
 - [nmod:pass](nmod-pass): nominal modifier of a passive predicate that
