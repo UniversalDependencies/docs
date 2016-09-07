@@ -40,6 +40,8 @@ and ideally also links to such pages in languages where they already exist and c
 * Morphology and part of speech:
   * All language-specific features and values should be documented, especially if this is the only language
     where they are used. This has higher priority then documenting the universal features with native examples.
+  * If the language uses the [PART](/u/pos/PART.html) category (particles), all particles must be listed
+    and for each it must be explained why it is a particle and why it cannot be anything else.
 * Syntax:
   * All subtypes of dependency relations should be documented, especially if this is the only language
     where they are used. This has higher priority then documenting the universal relations with native examples.
