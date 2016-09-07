@@ -14,6 +14,7 @@ For related discussion see
 * [Issue 178](http://github.com/UniversalDependencies/docs/issues/178#issuecomment-212822810) (question particles)
 * [Issue 237](http://github.com/UniversalDependencies/docs/issues/237) (`ADV` vs. `CONJ`)
 * [Issue 275](http://github.com/UniversalDependencies/docs/issues/275) (copula `VERB` vs. `AUX`)
+* [List of open issues with the POS label](http://github.com/UniversalDependencies/docs/issues?q=is%3Aissue%20is%3Aopen%20label%3APOS)
 
 ## Rename CONJ to CCONJ
 
