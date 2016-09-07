@@ -25,3 +25,4 @@ Per-issue reports and proposals:
 11. Features (Dan)
 12. Semantic categories (Marie)
 13. CoNLL-U format (Filip)
+14. Minimal requirements for language-specific documentation (Dan)
