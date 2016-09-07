@@ -114,7 +114,7 @@ A good example is [en] _that_ and [es] _que_ which can be both a relative pronou
 act as a core argument of a predicate, while complementizer cannot. So we have to distinguish the two functions,
 although historically the complementizer may actually come from a grammaticalized pronoun.
 
-It would be useful if the proposal for UD v2 also includes a list of category pairs that are considered incompatible
+It would be useful if the proposal for UD v2 also included a list of category pairs that are considered incompatible
 but we did not discuss this in detail in Prague.
 
 ## Proposed principles for UD v2
