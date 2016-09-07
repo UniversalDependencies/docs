@@ -57,6 +57,8 @@ and ideally also links to such pages in languages where they already exist and c
   * Does the language have words that share properties of verbs and other parts of speech (participles, gerunds, converbs)?
     Is their tag `VERB`, or are they treated as derived `ADJ`, `NOUN` or `ADV`?
     If their tag is not `VERB`, are they still recognizable by `VerbForm` and other verbal features?
+  * How are the pronominal words delimited and partitioned?
+    All pronouns, determiners (pronominal adjectives), pronominal quantifiers and pronominal adverbs should be listed and assigned a category. If it is necessary to leave a subset of these words to be disambiguated by context (function), it should be mentioned explicitly and explained.
   * If the language uses the [PART](/u/pos/PART.html) category (particles), all particles must be listed
     and for each it must be explained why it is a particle and why it cannot be anything else.
 * Syntax:
