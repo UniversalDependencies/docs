@@ -22,6 +22,17 @@ The list below could become the first version of such summary but it is currentl
 It should also contain references to documentation pages where the answers should appear,
 and ideally also links to such pages in languages where they already exist and can serve as example.
 
+* Introduction:
+  * We have just one documentation section per language, but sometimes we have several treebanks per language.
+    If this is the case, each such treebank should be mentioned in the introductory page, and a hyperlink to
+    the README file in the corresponding data repository should be provided.
+  * Is this treebank automatically converted from a non-UD treebank (and if so, have all sentences been manually checked or not),
+    or was it annotated natively in UD?
+  * POS tags and dependency relations should be annotated manually at least in the original (pre-conversion) treebank.
+    Features and lemmas are not obligatory, and they may be also predicted automatically, if manual annotation is not available.
+    The introduction and the README file must clearly state what parts of the annotation are
+    manual and native UD / manual non-UD, then automatically converted / automatically predicted, no or incomplete manual checking.
+    The same information should also be repeated in morphology overview (for lemmas, POS tags and features) and in syntax overview (for dependency relations). We may even consider making this mandatory metadata in the README.
 * Word segmentation:
   * Does the writing system use spaces to separate words?
     (If not, then it should not contain multi-word tokens and it probably does not contain the
