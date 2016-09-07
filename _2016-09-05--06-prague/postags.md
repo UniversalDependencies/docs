@@ -7,6 +7,7 @@ title:  'POS tags'
 
 For related discussion see
 
+* [Morphology overview page](../u/overview/morphology.html) has a section on POS tags
 * [Current guidelines for POS tags](../u/pos/index.html)
 * [Form vs. function in POS tags](../v2/form_vs_function.html)
 * [Issue 159](http://github.com/UniversalDependencies/docs/issues/159) (`PRON` vs. `DET`) and the [Uppsala report on determiners](../2015-08-23-uppsala/determiners.html)
