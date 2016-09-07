@@ -16,6 +16,19 @@ That will hopefully reduce the confusion that we observed in v1:
 people have assumed that the `CONJ` tag would correspond to the `conj` relation,
 while in fact it usually went with the relation `cc` and practically never with `conj`.
 
+## Keep PROPN
+
+We considered removing `PROPN` as a separate POS tag because
+1. the motivation to have it is weak in some languages (no grammatical implications except for capital letters);
+2. the possibility to say that a language does not have `PROPN` does not really solve anything – these languages indeed have the category and typically will want to use it if it exists, to increase cross-linguistic parallelism;
+3. disambiguation from `NOUN` is hard in many languages;
+4. it would be better to have phrase-level named entity annotation, which would include non-noun words (adjectives) and nesting.
+
+We decided to keep the tag in v2 because
+1. the category has been traditionally distinguished in a significant number of languages and tagsets, and people do not want to lose it there;
+2. the reasons above do not seem strong enough to remove it;
+3. we are not going to have named entity annotation in UD v2.
+
 ## Borderline between categories
 
 We should move away from completely functional guidelines for part-of-speech tags that make the tag completely predictable from the syntactic function.
