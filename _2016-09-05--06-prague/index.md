@@ -14,7 +14,7 @@ Per-issue reports and proposals:
 
 1. Core dependents (Joakim)
 2. Ellipsis (Sebastian)
-3. Functional relations, especially copula (Fran)
+3. [Functional relations, especially copula](functional.html) (Fran)
 4. [Word segmentation](segmentation.html) (Fran)
 5. [Coordination](coordination.html) (Marie)
 6. Sentence mood (Joakim)
