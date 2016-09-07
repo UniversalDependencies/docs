@@ -44,7 +44,7 @@ We considered removing `PART` because it is a very small category, which is defi
 
 However, the lists of particles in individual languages should be reviewed anyways. Language-specific documentation must list all particles in the language, and ideally also explain why they are particles.
 
-Note that the current guidelines say that [en] _not_, [de] _nicht_ etc. are negative particles (but negative determiners like _no_, or negative auxiliary verbs like [cs] _není_ are not particles). This is the only positive part of the current `PART` definition at the language-universal level, because such words were traditionally tagged as adverbs in some languages, and they could be adverbs in the other languages too, had we decided to remove `PART`.
+Note that the current guidelines say that [en] _not_, [de] _nicht_ etc. are negative particles (but negative determiners like [en] _no_, or negative auxiliary verbs like [cs] _není_ are not particles). This is the only positive part of the current `PART` definition at the language-universal level, because such words were traditionally tagged as adverbs in some languages, and they could be adverbs in the other languages too, had we decided to remove `PART`.
 
 ## Remove AUX
 
