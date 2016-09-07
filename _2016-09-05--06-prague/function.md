@@ -13,10 +13,15 @@ title:  'Function words in UD v2'
 
 <!-- Some languages have very many copula verbs -->
 
+* Languages are inconsistent with how they treat copula constructions. Some languages are very permissive with copula verbs (e.g. French has over 50 finite verbs with the `cop` relation).
+
+<!-- Lasai nago | pozik nago -->
+
 ### Principles
 
 * For copulas, we should be maximally restrictive with respect to which verbs can be copulas (only one verb in most languages) but maximally permissive when it comes to treating this verb as cop. Basically, the copula verb should never be the root, except through promotion (“he is not happy, but she is”). 
-** For languages where more copulas are used (e.g. Spanish, Basque, Catalan, Turkish, Kazakh), these are permitted.
+** That is: Any situation where we link a subject to "more information" should be considered copula 
+** For languages where more copulas are used (e.g. Spanish, Basque, Catalan, Turkish, Kazakh), these are permitted, but only the copulas that are equivalent to English 'be'. That is, English "become" and Swedish "ble" are out.
 * We need to give more detailed guidelines for choosing the predicate in copula sentences when it is not one of the obvious cases (noun, adjective). Idea: use obliqueness hierarchy.
 * We may want to add the subtype `nsubj:cop` to avoid having to flip dependencies when the predicate is a clause. It may also be used more generally to signal that the subject in copula constructions is special.
 
@@ -57,6 +62,11 @@ Spanish (and other Romance):
 Ella és estudiant .
 ~~~
 
+Basque:
+~~~ sdparse 
+Ainhoa ikaslea da .
+~~~
+
 It also improves intra-language consistency, as can be seen if we put the example 
 into the past tense. In both Russian and Turkish the structure remains the same, but 
 would be different if we had the copula verb as the head.
@@ -90,8 +100,37 @@ Note also that in Turkish (and other Turkic languages) the copula verb can alter
 between tenses, here the future is expressed with ol- instead of i-:
 
 ~~~ sdparse
-O öğrenci olacak . \n She student will.be
+O öğrenci olacak . \n She student will.be .
 ~~~
+
+There may be other alternations, for example between state and essence:
+
+Spanish:
+~~~ sdparse 
+Ella es buena . \n She is good .
+~~~ 
+
+~~~ sdparse
+Ella está buena . \n She is attractive .
+~~~
+
+Or: 
+
+Basque:
+~~~ sdparse 
+Ni ikaslea naiz . \n I student am .
+~~~
+
+~~~ sdparse 
+Ni pozik nago . \n I happy am .
+~~~
+
+A similar thing can happen in Swedish:
+
+~~~ sdparse
+Men jag är bara 21 och du blev 23 . \n But I am only 21 and you were 23 .
+~~~
+<!-- FMT: Check, is 'blev' here "were" or "had become" -->
 
 #### Predication with attributive-like NPs
 
@@ -108,16 +147,21 @@ Spanish:
 Esa canción está de puta madre . 
 ~~~
 
-#### Adverbials, time and location
+#### Adverbials: time and location
 
-Having the copula as a head is slightly less accepted for constructions where there is some kind of compositional prepositional phrase or adverbial.
+Having the copula as a head was slightly less accepted for constructions where there is some kind of compositional prepositional phrase or adverbial.
 
 Issues with this analysis are:
 * Which adverbial should become the head in expressions with more than one adverbial ?
+** Should we make a technical decision and simply choose the first (or last?)
 
 ~~~ sdparse 
 She is here . 
 ~~~ 
+
+~~~ sdparse 
+Hemen dago .
+~~~
  
 ~~~ sdparse
 She is in Prague with her friends . 
@@ -179,10 +223,6 @@ Det var i förrgår när jag stod och väntade på dig .
 Dom ställena du gick till, det är dit jag brukar gå .
 ~~~
 
-~~~ sdparse
-Men jag är bara 21 och du blev 23 . 
-~~~
-
 #### Existential constructions 
 
 Currently, existential constructions have a special structure in English:
@@ -202,6 +242,8 @@ We suggest replacing this with:
 ~~~ sdparse
 Была книга в столе .
 ~~~
+
+However, this quickly becomes awkward:
 
 ~~~ sdparse
 For the last few years there have been problems with the programme .
@@ -239,8 +281,6 @@ There is also no problem for Romance languages where a different structure is us
 Hay un libro en la mesa . 
 ~~~
 
-
-
 #### Clausal arguments
 
 ~~~ sdparse 
@@ -267,7 +307,7 @@ Två viktiga ting är att säga om svårigheter i äktenskap .
 En nödvändig förutsättning är att männen är helt med på saken
 ~~~
 
-#### Copula verbs as an "auxiliary"
+#### Ambiguities with auxiliary verbs
 
 The following uses should not be considered copula.
 
@@ -313,6 +353,6 @@ Let there be light !
 I have been to Prague .
 ~~~
 
-## Other constructions 
+## Other functional relations
 
 * The other functional relations are less problematic, but more detailed guidelines will be useful.
