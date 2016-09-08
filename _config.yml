@@ -738,6 +738,20 @@ collections:
   ur-overview:
     output: true
 #
+# Faroese
+#
+  fo-pos:
+    output: true
+    permalink: /fo/pos/:path.html
+  fo-feat:
+    output: true
+    permalink: /fo/feat/:path.html
+  fo-dep:
+    output: true
+    permalink: /fo/dep/:path.html
+  fo-overview:
+    output: true
+#
 # Template
 #
   template-pos:
