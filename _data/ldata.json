@@ -431,6 +431,11 @@
     "lang_name": "Estonian"
   }, 
   {
+    "lang_code": "fo", 
+    "contributors": [], 
+    "lang_name": "Faroese"
+  }, 
+  {
     "lang_code": "fi", 
     "contributors": [
       {
