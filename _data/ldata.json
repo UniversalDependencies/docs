@@ -1200,8 +1200,8 @@
         "first": "G\u00fcl\u015fen"
       }, 
       {
-        "full": "Memduh G\u00f6k\u0131rmak", 
-        "last": "G\u00f6k\u0131rmak", 
+        "full": "Memduh Gokirmak", 
+        "last": "Gokirmak", 
         "first": "Memduh"
       }, 
       {
@@ -1226,6 +1226,11 @@
     "lang_code": "uk", 
     "contributors": [], 
     "lang_name": "Ukrainian"
+  }, 
+  {
+    "lang_code": "ur", 
+    "contributors": [], 
+    "lang_name": "Urdu"
   }, 
   {
     "lang_code": "ug", 
