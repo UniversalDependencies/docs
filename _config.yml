@@ -724,6 +724,20 @@ collections:
   sa-overview:
     output: true
 #
+# Urdu
+#
+  ur-pos:
+    output: true
+    permalink: /ur/pos/:path.html
+  ur-feat:
+    output: true
+    permalink: /ur/feat/:path.html
+  ur-dep:
+    output: true
+    permalink: /ur/dep/:path.html
+  ur-overview:
+    output: true
+#
 # Template
 #
   template-pos:
