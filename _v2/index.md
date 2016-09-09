@@ -18,7 +18,7 @@ Deadlines:
 Some quick links:
 
 * [Issue tracker, universal v2 filter](https://github.com/UniversalDependencies/docs/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20milestone%3A%22universal%20v2%22)
-* [Uppsala meeting](../uppsala.html)
+* [Uppsala meeting](../2015-08-23-uppsala/)
 
 ## The main issues
 
