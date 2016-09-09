@@ -432,7 +432,13 @@
   }, 
   {
     "lang_code": "fo", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
     "lang_name": "Faroese"
   }, 
   {
@@ -546,6 +552,11 @@
         "full": "Joakim Nivre", 
         "last": "Nivre", 
         "first": "Joakim"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
       }
     ], 
     "lang_name": "German"
@@ -1205,8 +1216,8 @@
         "first": "G\u00fcl\u015fen"
       }, 
       {
-        "full": "Memduh Gokirmak", 
-        "last": "Gokirmak", 
+        "full": "Memduh G\u00f6k\u0131rmak", 
+        "last": "G\u00f6k\u0131rmak", 
         "first": "Memduh"
       }, 
       {
@@ -1234,7 +1245,13 @@
   }, 
   {
     "lang_code": "ur", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Riyaz Ahmad Bhat", 
+        "last": "Bhat", 
+        "first": "Riyaz Ahmad"
+      }
+    ], 
     "lang_name": "Urdu"
   }, 
   {
