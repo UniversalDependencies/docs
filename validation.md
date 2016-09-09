@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-09T06:18:26Z">2016-09-09T06:18:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-09T09:10:49Z">2016-09-09T09:10:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -427,46 +427,46 @@ python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-08-29T12:51:33Z">2016-08-29T12:51:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T09:09:23Z">2016-09-09T09:09:23 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python ../../tools/validate.py --lang cs ../../UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-test.conllu
+python ../../tools/validate.py --lang cs ../../UD-dev-branches/UD_Czech/cs-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python ../../tools/validate.py --lang cs ../../UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python ../../tools/validate.py --lang cs ../../UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python ../../tools/validate.py --lang cs ../../UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python ../../tools/validate.py --lang cs ../../UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
 *** PASSED ***
 
