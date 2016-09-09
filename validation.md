@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-09T09:15:01Z">2016-09-09T09:15:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-09T14:23:01Z">2016-09-09T14:23:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -768,7 +768,7 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T06:18:20Z">2016-09-09T06:18:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T14:22:55Z">2016-09-09T14:22:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -796,6 +796,76 @@ python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-tagged.conll
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 3547 errors
 Syntax errors: 3547
+
+
+******************
+
+python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-wiki.conllu
+
+[Line                   1]: Unknown UD DEPREL: nsubj:cop
+[Line                   9]: Unknown UD DEPREL: nsubj:cop
+[Tree number 3 on line 17]: HEAD == ID for 1
+[Tree number 3 on line 17]: HEAD == ID for 7
+[Tree number 3 on line 17]: Non-tree structure. Words 1,7 are not reachable from the root 0.
+[Tree number 4 on line 25]: HEAD == ID for 1
+[Tree number 4 on line 25]: HEAD == ID for 2
+[Tree number 4 on line 25]: HEAD == ID for 3
+[Tree number 4 on line 25]: HEAD == ID for 5
+[Tree number 4 on line 25]: HEAD == ID for 6
+[Tree number 4 on line 25]: HEAD == ID for 7
+[Tree number 4 on line 25]: HEAD == ID for 8
+[Tree number 4 on line 25]: HEAD == ID for 9
+[Tree number 4 on line 25]: HEAD == ID for 10
+[Tree number 4 on line 25]: HEAD == ID for 11
+[Tree number 4 on line 25]: HEAD == ID for 13
+[Tree number 4 on line 25]: HEAD == ID for 14
+[Tree number 4 on line 25]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14 are not reachable from the root 0.
+[Line                   44]: Unknown UPOS tag: CCONJ
+[Tree number 5 on line 40]: HEAD == ID for 4
+[Tree number 5 on line 40]: HEAD == ID for 5
+[Tree number 5 on line 40]: HEAD == ID for 7
+[Tree number 5 on line 40]: HEAD == ID for 8
+[Tree number 5 on line 40]: Non-tree structure. Words 3,4,5,6,7,8 are not reachable from the root 0.
+[Tree number 6 on line 49]: HEAD == ID for 2
+...suppressing further errors regarding Format
+[Tree number 6 on line 49]: Non-tree structure. Words 1,2,6,7,8,9,10,11,12,13 are not reachable from the root 0.
+[Line                   65]: Unknown UPOS tag: CCONJ
+[Tree number 7 on line 63]: Non-tree structure. Words 3,6,7,8 are not reachable from the root 0.
+[Tree number 8 on line 72]: Non-tree structure. Words 4 are not reachable from the root 0.
+[Line                   84]: Unknown UPOS tag: CCONJ
+[Tree number 9 on line 77]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12 are not reachable from the root 0.
+[Tree number 10 on line 90]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
+[Tree number 11 on line 99]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 are not reachable from the root 0.
+[Line                   117]: Unknown UPOS tag: CCONJ
+[Tree number 12 on line 115]: Non-tree structure. Words 1,2,3,4,5,6,7 are not reachable from the root 0.
+[Line                   124]: Unknown UPOS tag: CCONJ
+[Tree number 13 on line 123]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10 are not reachable from the root 0.
+[Tree number 14 on line 134]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11 are not reachable from the root 0.
+[Line                   149]: Unknown UPOS tag: CCONJ
+[Tree number 15 on line 146]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9 are not reachable from the root 0.
+[Tree number 16 on line 156]: Non-tree structure. Words 1,2,5,6,9 are not reachable from the root 0.
+[Tree number 17 on line 166]: Non-tree structure. Words 1,2,3,4,5,6 are not reachable from the root 0.
+[Line                   179]: Unknown UPOS tag: CCONJ
+[Tree number 18 on line 173]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 are not reachable from the root 0.
+[Line                   190]: Unknown UPOS tag: CCONJ
+[Tree number 19 on line 189]: Non-tree structure. Words 2,6 are not reachable from the root 0.
+...suppressing further errors regarding Syntax
+[Line                   227]: Unknown UPOS tag: CCONJ
+[Line                   242]: Unknown UPOS tag: CCONJ
+[Line                   246]: Unknown UPOS tag: CCONJ
+[Line                   254]: Unknown UPOS tag: CCONJ
+[Line                   260]: Unknown UPOS tag: CCONJ
+[Line                   270]: Unknown UPOS tag: CCONJ
+[Line                   392]: Unknown UPOS tag: CCONJ
+[Line                   499]: Unknown UPOS tag: CCONJ
+[Line                   503]: Unknown UPOS tag: CCONJ
+[Line                   514]: Unknown UPOS tag: CCONJ
+[Line                   525]: Unknown UPOS tag: CCONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 10878 errors
+Format errors: 9071
+Morpho errors: 388
+Syntax errors: 1419
 
 
 ******************
