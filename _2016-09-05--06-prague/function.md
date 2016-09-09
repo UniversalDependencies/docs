@@ -7,6 +7,12 @@ title:  'Function words in UD v2'
 
 <!-- Background -->
 
+## References 
+
+#  https://github.com/UniversalDependencies/docs/issues/329
+# http://universaldependencies.org/2015-08-23-uppsala/copula.html
+# https://github.com/UniversalDependencies/docs/issues/256
+
 ## Copula constructions 
 
 ### Status quo
@@ -140,6 +146,10 @@ of non-compositional attributive-like meaning:
 English:
 ~~~ sdparse
 She is in great shape . 
+~~~
+
+~~~ sdparse
+She is really on the ball with this .
 ~~~
 
 Spanish:
@@ -279,6 +289,18 @@ There is also no problem for Romance languages where a different structure is us
 
 ~~~ sdparse
 Hay un libro en la mesa . 
+~~~
+
+And Serbo-Croatian: 
+
+~~~ sdparse 
+Međutim , ima i dobrih vesti . \n But, have too good news .
+~~~
+
+This also goes for Scandinavian languages:
+
+~~~ sdparse
+Hur många invandrare finns det i Sverige ?
 ~~~
 
 #### Clausal arguments
