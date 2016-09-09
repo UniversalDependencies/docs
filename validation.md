@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-09T14:09:41Z">2016-09-09T14:09:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-09T14:23:01Z">2016-09-09T14:23:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -768,7 +768,7 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T14:09:35Z">2016-09-09T14:09:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T14:22:55Z">2016-09-09T14:22:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -862,10 +862,10 @@ python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-wiki.conllu
 [Line                   514]: Unknown UPOS tag: CCONJ
 [Line                   525]: Unknown UPOS tag: CCONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 10915 errors
-Format errors: 9106
+*** FAILED *** with 10878 errors
+Format errors: 9071
 Morpho errors: 388
-Syntax errors: 1421
+Syntax errors: 1419
 
 
 ******************
