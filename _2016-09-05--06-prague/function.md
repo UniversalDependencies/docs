@@ -60,7 +60,7 @@ O öğrenci . \n She student .
 
 Finnish (and Balto-Finnic, Samic):
 ~~~ sdparse
-Se on opiskelija . 
+Se on opiskelija . \n She is student .
 ~~~
 
 Spanish (and other Romance):
@@ -70,7 +70,7 @@ Ella és estudiant .
 
 Basque:
 ~~~ sdparse 
-Ainhoa ikaslea da .
+Ainhoa ikaslea da . \n Ainhoa student.ART is .
 ~~~
 
 It also improves intra-language consistency, as can be seen if we put the example 
@@ -84,22 +84,22 @@ She was a student .
 
 Russian:
 ~~~ sdparse
-Она была студент .
+Она была студент . \n She was student .
 ~~~ 
 
 Turkish (and Turkic):
 ~~~ sdparse
-O öğrenci -di .
+O öğrenci -di . \n She student was .
 ~~~ 
 
 Finnish (and Balto-Finnic, Samic):
 ~~~ sdparse
-Se oli opiskelija . 
+Se oli opiskelija . \n She was student .
 ~~~
 
 Spanish (and other Romance):
 ~~~ sdparse
-Ella fue estudiante .
+Ella fue estudiante . \n She was student .
 ~~~
 
 Note also that in Turkish (and other Turkic languages) the copula verb can alternate 
@@ -131,6 +131,25 @@ Ni ikaslea naiz . \n I student am .
 Ni pozik nago . \n I happy am .
 ~~~
 
+In Irish, there is a distinction between the copula and the existential verb:
+
+<!-- Wikipedia 
+Both the existential verb and the copula may take a nominal predicate, but the two constructions have slightly different meanings:  -->
+
+~~~ sdparse 
+Is dochtúir é Seán \n COP doctor he Seán 
+~~~
+
+<!--
+sounds more permanent: it represents something absolute about Seán; it is a permanent characteristic of Seán that he is a doctor. That is known as an individual-level predicate. In the sentence: -->
+
+~~~ sdparse 
+Tá Seán ina dhochtúir \n EXIST Sean in.his doctor  
+~~~ 
+<!-- one says rather that Seán performs the job of a doctor, he is a doctor at the moment, or he has become a doctor. That is known as a stage-level predicate. -->
+
+Currently in the Irish treebank only "is"-style copulas get `cop`, "tá"-style are verb rooted with `xcomp:pred`
+
 A similar thing can happen in Swedish:
 
 ~~~ sdparse
@@ -157,6 +176,11 @@ Spanish:
 Esa canción está de puta madre . 
 ~~~
 
+Irish: 
+~~~ sdparse 
+Tá sí ar meisce . \n EXIST she in drunkenness .
+~~~ 
+
 #### Adverbials: time and location
 
 Having the copula as a head was slightly less accepted for constructions where there is some kind of compositional prepositional phrase or adverbial.
@@ -170,7 +194,7 @@ She is here .
 ~~~ 
 
 ~~~ sdparse 
-Hemen dago .
+Hemen dago . \n Here she.is
 ~~~
  
 ~~~ sdparse
@@ -182,11 +206,11 @@ I am on my way .
 ~~~
 
 ~~~ sdparse
-Она в Праге с друзьями .
+Она в Праге с друзьями . \n She in Prague with friends .
 ~~~
 
 ~~~ sdparse
-O arkadaşıla Pragada .
+O arkadaşıla Pragada . \n She with.her.friends in.Prague .
 ~~~
 
 ~~~ sdparse
@@ -194,7 +218,7 @@ Se on Pragassa kaverinkaa .
 ~~~
 
 ~~~ sdparse
-Ella és a Praga amb els amics . 
+Ella és a Praga amb els amics . \n She is in Prague with the friends . 
 ~~~
 
 ~~~ sdparse
@@ -202,19 +226,23 @@ She was in Prague with her friends .
 ~~~
 
 ~~~ sdparse
-Она была в Праге с друзьями .
+Tá sí i bPrág le cairde . \n EXIST her in Prague with friends .
 ~~~
 
 ~~~ sdparse
-O arkadaşıla Pragada -dı .
+Она была в Праге с друзьями . \n She was in Prague with friends .
 ~~~
 
 ~~~ sdparse
-Ella estava a Praga amb els amics . 
+O arkadaşıla Pragada -dı . \n She with.her.friends in.Prague was .
 ~~~
 
 ~~~ sdparse
-Se oli Pragassa kaverinkaa . 
+Ella estava a Praga amb els amics . \n She was in Prague with the friends .
+~~~
+
+~~~ sdparse
+Se oli Pragassa kaverinkaa . \n She was in.Prague with.friends .
 ~~~
 
 ~~~ sdparse
@@ -226,11 +254,11 @@ She walked in and was out of there in 10 minutes .
 ~~~
 
 ~~~ sdparse 
-Det var i förrgår när jag stod och väntade på dig .
+Det var i förrgår när jag stod och väntade på dig . \n It was last year when I stood and waited for you .
 ~~~
 
 ~~~ sdparse 
-Dom ställena du gick till, det är dit jag brukar gå .
+Dom ställena du gick till , det är dit jag brukar gå . \n The places you went to , it is to.there i usually go .
 ~~~
 
 #### Existential constructions 
@@ -241,16 +269,18 @@ Currently, existential constructions have a special structure in English:
 There is a book on the table .
 ~~~
 
-We suggest replacing this with:
-
 ....
 
 ~~~ sdparse
-Есть книга в столе .
+Есть книга в столе . \n There.is book on table .
 ~~~
 
 ~~~ sdparse
-Была книга в столе .
+Была книга в столе . \n Was book on table .
+~~~
+
+~~~ sdparse
+C' è un libro sopra il tavolo . \n There is a book on the table .
 ~~~
 
 However, this quickly becomes awkward:
@@ -275,20 +305,28 @@ What has there been with the programme for the last few years ?
 There is a lot to learn about Chernobyl . 
 ~~~
 
+~~~ sdparse
+Tá leabhar ann . \n EXIST book in.it .
+~~~
+
+~~~ sdparse
+Tá leabhar ar an mbord . \n EXIST book on the table .
+~~~ 
+
 There is no problem however for Turkic languages, where existential constructions are similar to simple predication with an adjective like var "existing", and yok "not.existing" .
 
 ~~~ sdparse
-Masada kitap var . 
+Masada kitap var . \n On.table book existing .
 ~~~
 
 ~~~ sdparse
-Masada kitap var -dı . 
+Masada kitap var -dı . \n On.table book existing was .
 ~~~
 
-There is also no problem for Romance languages where a different structure is used:
+There is also no problem for Western Romance languages where a different structure is used:
 
 ~~~ sdparse
-Hay un libro en la mesa . 
+Hay un libro en la mesa . \n There.is a book on the table .
 ~~~
 
 And Serbo-Croatian: 
@@ -300,7 +338,7 @@ Međutim , ima i dobrih vesti . \n But, have too good news .
 This also goes for Scandinavian languages:
 
 ~~~ sdparse
-Hur många invandrare finns det i Sverige ?
+Hur många invandrare finns det i Sverige ? \n How many immigrants are there in Sweden ?
 ~~~
 
 #### Clausal arguments
@@ -318,15 +356,23 @@ The main thing is that the device works .
 ~~~
 
 ~~~ sdparse
-Трудно быть богом . 
+Is é an príomhrud ná go bhfeidhmíonn an gléas . \n COP it the main.thing that PART works the device .
+~~~
+
+~~~ sdparse
+Трудно быть богом . \n Hard to.be god 
+~~~
+
+~~~ sdparse
+Tá sé deacair a bheith i do Dhia .
 ~~~
 
 ~~~ sdparse 
-Två viktiga ting är att säga om svårigheter i äktenskap .
+Två viktiga ting är att säga om svårigheter i äktenskap . \n Two important things are to say about difficulties in marriage .
 ~~~
 
 ~~~ sdparse 
-En nödvändig förutsättning är att männen är helt med på saken
+En nödvändig förutsättning är att männen är helt med på saken . \n An important precondition is that the.man is totally onboard about the.thing .
 ~~~
 
 #### Ambiguities with auxiliary verbs
@@ -346,11 +392,11 @@ The following criteria are considered .
 ~~~
 
 ~~~
-El consumo de carne humano es considerado aceptable .
+El consumo de carne humano es considerado aceptable . \n The consumption of flesh human is considered acceptable .
 ~~~
 
 ~~~
-Det är skrivet till mig själv .
+Det är skrivet till mig själv . \n It is written to my self .
 ~~~
 
 #### Other types 
