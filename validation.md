@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-09T09:10:49Z">2016-09-09T09:10:49 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-09T09:15:01Z">2016-09-09T09:15:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1720,61 +1720,28 @@ python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-08-29T13:30:35Z">2016-08-29T13:30:35 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T09:15:00Z">2016-09-09T09:15:00 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
+python ../../tools/validate.py --lang sa ../../UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.sa could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.sa
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.sa could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.sa It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-test.conllu
+python ../../tools/validate.py --lang sa ../../UD-dev-branches/UD_Sanskrit/sa-ud-test.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.sa could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.sa
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.sa could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.sa It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
+python ../../tools/validate.py --lang sa ../../UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.sa could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.sa
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.sa could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.sa It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+*** PASSED ***
 
 
 ******************
