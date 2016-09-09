@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-09T06:04:41Z">2016-09-09T06:04:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-09T06:09:16Z">2016-09-09T06:09:16 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -768,11 +768,11 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T06:04:35Z">2016-09-09T06:04:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T06:09:10Z">2016-09-09T06:09:10 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Faroese/fo-ud-tagged.conllu
+python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-tagged.conllu
 
 [Tree number 1 on line 2]: Multiple root words: [1, 2, 3, 4]
 [Tree number 2 on line 7]: Multiple root words: [1, 2]
