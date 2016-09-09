@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-09T06:03:10Z">2016-09-09T06:03:10 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-09T06:04:41Z">2016-09-09T06:04:41 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -768,7 +768,7 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T06:03:05Z">2016-09-09T06:03:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T06:04:35Z">2016-09-09T06:04:35 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -781,41 +781,20 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 [Tree number 5 on line 79]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
 [Tree number 6 on line 117]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]
 [Tree number 7 on line 191]: Multiple root words: [1, 2, 3]
-[Line                   202]: Unknown attribute-value pair Voice=Mid
 [Tree number 8 on line 195]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
 [Tree number 9 on line 228]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97]
 [Tree number 10 on line 326]: Multiple root words: [1, 2, 3]
 [Tree number 11 on line 330]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132]
 [Tree number 12 on line 463]: Multiple root words: [1, 2]
-[Line                   540]: Unknown attribute-value pair Voice=Mid
 [Tree number 13 on line 466]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86]
 [Tree number 15 on line 555]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
 [Tree number 16 on line 592]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
-[Line                   699]: Unknown attribute-value pair Voice=Mid
 [Tree number 17 on line 649]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]
 [Tree number 18 on line 722]: Multiple root words: [1, 2, 3]
 [Tree number 19 on line 726]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53]
 [Tree number 20 on line 780]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
 ...suppressing further errors regarding Syntax
-[Line                   827]: Unknown attribute-value pair Voice=Mid
-[Line                   894]: Unknown attribute-value pair Voice=Mid
-[Line                   1180]: Unknown attribute-value pair Voice=Mid
-[Line                   1361]: Unknown attribute-value pair Voice=Mid
-[Line                   1368]: Unknown attribute-value pair Voice=Mid
-[Line                   1397]: Unknown attribute-value pair Voice=Mid
-[Line                   2038]: Unknown attribute-value pair Voice=Mid
-[Line                   2056]: Unknown attribute-value pair Voice=Mid
-[Line                   2091]: Unknown attribute-value pair Voice=Mid
-[Line                   2155]: Unknown attribute-value pair Voice=Mid
-[Line                   2253]: Unknown attribute-value pair Voice=Mid
-[Line                   2288]: Unknown attribute-value pair Voice=Mid
-[Line                   2432]: Unknown attribute-value pair Voice=Mid
-[Line                   2746]: Unknown attribute-value pair Voice=Mid
-[Line                   2807]: Unknown attribute-value pair Voice=Mid
-[Line                   2847]: Unknown attribute-value pair Voice=Mid
-...suppressing further errors regarding Morpho
-*** FAILED *** with 4265 errors
-Morpho errors: 718
+*** FAILED *** with 3547 errors
 Syntax errors: 3547
 
 
