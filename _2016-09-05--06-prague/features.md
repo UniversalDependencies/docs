@@ -11,6 +11,7 @@ title:  'Features in UD v2'
 * Yoav has argued that `Definite=Red` is a rather weird way of marking of what is otherwise called the construct state. Any better solution?
 * `Negative` either rename to `Polarity` (and keep values `Pos` and `Neg`), or keep the name but use only one value `Yes`. Positive polarity is rarely marked morphologically, isn't it? So `Negative=Pos` probably just marks words that can take the negative morpheme but do not have it. This value is currently used in 13 treebanks.
 * TO DISCUSS: Is there a better solution than `NumType=Gen`? What is `NumType=Pers` in Irish? (Defined but not used.)
+* TO DISCUSS: `VerbForm=Trans`: Transgressive is a term that comes from Slavic languages and even there it is rare (Czech and Sorbian; other Slavic languages have the form too, but do not call it transgressive). English literature on Slavic languages sometimes uses the term _gerund_ but it is absolutely confusing and unsuitable because it is similar neither in form nor in function to the form we mark `VerbForm=Ger` in English and Spanish (and BTW these are also quite different from each other, but at least Spanish has the term _gerundio_ as its own, not only as English translation). More neutral terms are adverbial participle or _converb_, so I would suggest to rename it to `VerbForm=Conv`.
 
 ## Adding new values to existing features
 
@@ -22,6 +23,12 @@ title:  'Features in UD v2'
 * TO DISCUSS: `Number=Count` in Bulgarian.
 * TO DISCUSS: `PronType=Clit` (it), Emp (ro), Exc (it), Ord (it), Predet (it)
 * TO DISCUSS: `Tense`: do we really need a value for aorist? The term is used in Slavic grammars but we can use the normal `Past` for it there, and I am afraid that if aorist is a universally available value, it won't be clear how it differs from simple past. However, grc and tr seem to have both `Aor` and `Past`. Turkish has `AorPast` and `FutPast` in addition.
+* TO DISCUSS: `VerbForm=Cop` in Irish. Copula?
+* `VerbForm=Gdv` (gerundive, not gerund) in Latin and Ancient Greek.
+* TO DISCUSS: `VerbForm=PartFut|PartPast|PartPres` in Hungarian. Couldn't these be two features, `VerbForm=Part` and `Tense=Fut`?
+* TO DISCUSS: `VerbForm=Stem` currently only one occurrence in Swedish. Verb stems also occur regularly in Hindi but they have the function of adverbial participles (converbs, transgressives) there.
+* TO DISCUSS: `Voice=Auto` (ga), CauPass (tr)
+* `Voice=Mid` middle voice, currently used in fo, grc, grc_proiel, sa.
 
 ## Adding new features
 
@@ -71,6 +78,8 @@ Ideally a mapping of the features that exist in both systems.
 * `Subcat` used only in Dutch
 * `Typo=Yes` could be useful in all treebanks but we first need a general guideline for handling typos. Should the form in FORM be original, or fixed? And should we have a MISC attribute with the fixed or original form? See also [issue 330](https://github.com/UniversalDependencies/docs/issues/330).
 * `Variant`; what is `Variant=Brev` in Russian?
+* `VerbType=Aux|Mod|Cop|Main`; currently used in Hebrew, Dutch and Latin; it has to be seen how much such a feature will be demanded if we remove the `AUX` tag.
+* `Xtra=Junk` used in Hebrew
 
 ### All layered features
 
