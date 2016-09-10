@@ -9,6 +9,7 @@ title:  'Features in UD v2'
 
 * `Aspect`: values `Pro` and `Prog` are highly confusing. Rename Pro?
 * Yoav has argued that `Definite=Red` is a rather weird way of marking of what is otherwise called the construct state. Any better solution?
+* `Negative` either rename to `Polarity` (and keep values `Pos` and `Neg`), or keep the name but use only one value `Yes`. Positive polarity is rarely marked morphologically, isn't it? So `Negative=Pos` probably just marks words that can take the negative morpheme but do not have it. This value is currently used in 13 treebanks.
 
 ## Adding new values to existing features
 
@@ -16,6 +17,7 @@ title:  'Features in UD v2'
 * TO DISCUSS: Chinese "cases" Advb, Comp, Rel
 * What is `Case=Equ` in Turkish? It is [not documented](../tr/feat/Case.html), yet it occurs in the data.
 * TO DISCUSS: `Definite=2` in Hungarian. Description: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite). Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am watching a film”) and a second person object (_nézlek téged_ “I am watching you”). So `Definite=2` is actually not about definiteness proper, maybe it should be `Person[obj]`. Perhaps we should leave this value specific to Hungarian.
+* TO DISCUSS: `Mood`: Abil (tr), AbilCnd (tr), AbilDes (tr), AbilGen (tr), AbilGenNec (tr), AbilImp (tr), AbilNec (tr), AbilPrs (defined for tr but not used), Gen (tr), Gen-Nec (defined but not used; hyphen!!!), GenNec (tr), Int (ga), Inter (zh), Prs (tr)
 
 ## Adding new features
 
@@ -41,3 +43,16 @@ Ideally a mapping of the features that exist in both systems.
 * `Derivation` specific to Finnish
 * `Dialect` used only in Irish
 * `Echo=Rdp` (reduplicative), used in Hindi and Turkish
+* `Form` specific to Irish
+* `HebBinyan` specific to Hebrew (but I believe it could be converted to aspect and voice)
+* `HebExistential` specific to Hebrew
+* `HebSource` debugging feature
+* `Hyph=Yes` used only in a few treebanks
+* `InfForm` specific to Finnish
+* `NameType` used only in Czech
+
+### All layered features
+
+We may want to standardize some of the layers but they seem to be de-facto standardized anyway.
+
+* `Gender[dat], [erg], [psor]`
