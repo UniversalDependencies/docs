@@ -21,6 +21,7 @@ title:  'Features in UD v2'
 * TO DISCUSS: `Mood`: Abil (tr), AbilCnd (tr), AbilDes (tr), AbilGen (tr), AbilGenNec (tr), AbilImp (tr), AbilNec (tr), AbilPrs (defined for tr but not used), Gen (tr), Gen-Nec (defined but not used; hyphen!!!), GenNec (tr), Int (ga), Inter (zh), Prs (tr)
 * TO DISCUSS: `Number=Count` in Bulgarian.
 * TO DISCUSS: `PronType=Clit` (it), Emp (ro), Exc (it), Ord (it), Predet (it)
+* TO DISCUSS: `Tense`: do we really need a value for aorist? The term is used in Slavic grammars but we can use the normal `Past` for it there, and I am afraid that if aorist is a universally available value, it won't be clear how it differs from simple past. However, grc and tr seem to have both `Aor` and `Past`. Turkish has `AorPast` and `FutPast` in addition.
 
 ## Adding new features
 
@@ -68,6 +69,8 @@ Ideally a mapping of the features that exist in both systems.
 * `PunctType` used in ca, es_ancora, nl, ta; not consistent
 * `Style` used in Czech, Danish and Finnish
 * `Subcat` used only in Dutch
+* `Typo=Yes` could be useful in all treebanks but we first need a general guideline for handling typos. Should the form in FORM be original, or fixed? And should we have a MISC attribute with the fixed or original form? See also [issue 330](https://github.com/UniversalDependencies/docs/issues/330).
+* `Variant`; what is `Variant=Brev` in Russian?
 
 ### All layered features
 
