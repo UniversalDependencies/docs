@@ -9,6 +9,7 @@ title:  'Function words in UD v2'
 
 ## References 
 
+# http://universaldependencies.org/u/dep/cop.html
 #  https://github.com/UniversalDependencies/docs/issues/329
 # http://universaldependencies.org/2015-08-23-uppsala/copula.html
 # https://github.com/UniversalDependencies/docs/issues/256
