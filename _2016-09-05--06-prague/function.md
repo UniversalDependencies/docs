@@ -25,11 +25,11 @@ title:  'Function words in UD v2'
 
 ### Principles
 
-* For copulas, we should be maximally restrictive with respect to which verbs can be copulas (only one verb in most languages) but maximally permissive when it comes to treating this verb as cop. Basically, the copula verb should never be the root, except through promotion (“he is not happy, but she is”). 
+* For copulas, we should be maximally restrictive with respect to which words can be copulas (only one word in most languages) but maximally permissive when it comes to treating this word as a copula. Basically, the copula should never be the root, except through promotion (“he is not happy, but she is”). 
 ** That is: Any situation where we link a subject to "more information" should be considered copula 
-** For languages where more copulas are used (e.g. Spanish, Basque, Catalan, Turkish, Kazakh), these are permitted, but only the copulas that are equivalent to English 'be'. That is, English "become" and Swedish "ble" are out.
+** For languages where more copulas are used (e.g. Spanish, Basque, Catalan, Turkish, Kazakh), these are permitted, but only the copulas that are equivalent to English 'be'. That is, English "become" and Swedish "bli" are out.
 * We need to give more detailed guidelines for choosing the predicate in copula sentences when it is not one of the obvious cases (noun, adjective). Idea: use obliqueness hierarchy.
-* We may want to add the subtype `nsubj:cop` to avoid having to flip dependencies when the predicate is a clause. It may also be used more generally to signal that the subject in copula constructions is special.
+* We should add the subtype `nsubj:cop` to avoid having to flip dependencies when the predicate is a clause. It should also be used more generally to signal that the subject in copula constructions is special.
 
 <!-- Fran: -->
 
@@ -319,12 +319,27 @@ nsubj(is, book)
 
 ....
 
+In some languages, there can be ambiguities between something being a "bare" copula and an existential copula, 
+
+Finnish:
+~~~ sdparse
+Kirja on pöytässä . \n Book on table .
+~~~ 
+
+Could mean either "(The) book is on (the) table." or "There is (a) book on (the) table."
+
 ~~~ sdparse
 Есть книга в столе . \n There.is book on table .
 ~~~
 
+It can sometimes be disambiguated by the case of the predicate:
+
 ~~~ sdparse
-Была книга в столе . \n Was book on table .
+Был студент в факультете . \n There.was student in faculty .
+~~~
+
+~~~ sdparse
+Был студентом в факультете . \n Was as.student in faculty .
 ~~~
 
 ~~~ sdparse
@@ -478,6 +493,7 @@ Två viktiga ting är att säga om svårigheter i äktenskap . \n Two important 
 
 ~~~ sdparse 
 En nödvändig förutsättning är att männen är helt med på saken . \n An important precondition is that the.man is totally onboard about the.thing .
+
 ~~~
 
 #### Ambiguities with auxiliary verbs
