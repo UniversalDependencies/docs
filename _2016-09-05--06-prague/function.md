@@ -23,7 +23,7 @@ title:  'Function words in UD v2'
 
 <!-- Lasai nago | pozik nago -->
 
-### Principles
+### From the meeting
 
 * For copulas, we should be maximally restrictive with respect to which words can be copulas (only one word in most languages) but maximally permissive when it comes to treating this word as a copula. Basically, the copula should never be the root, except through promotion (“he is not happy, but she is”). 
 ** That is: Any situation where we link a subject to "more information" should be considered copula 
@@ -36,6 +36,20 @@ title:  'Function words in UD v2'
 * We may want to be able to distinguish `nmod` when it attaches to clauses and when it attaches to nominals (e.g. "I am a teacher this morning", "I am a teacher in the university.")
 
 ### Examples and recommendation
+
+Copulas are often used for: 
+
+* Simple predication
+** This includes nominals (nouns, adjectives) and also nominal like/more fixed PPs (in shape)
+* Indicating location in time or space of something
+* Existential constructions, indicating that something exists
+
+Recommendation:
+
+* Use the `cop` relation for predication and location, this maximises similarity between languages 
+** All subjects of in these constructions should receive `nsubj:cop`
+* Use copula as `root` for existential structures "There is a book on the table"
+** The subject should be a simple `nsubj`
 
 #### Simple predication
 
