@@ -24,6 +24,7 @@ title:  'Features in UD v2'
 * `Abbr=Yes` (abbreviation) is not language-specific and is currently used in 12 treebanks: ar, cs, cs_cac, cs_cltt, da, et, fi, fi_ftb, fo, la_ittb, pl, ro.
 * `Evidentiality` currently used only in Turkish but it seems like this is an important feature in non Indo-European languages.
 * `Foreign` is not language-specific and is currently used in 13 treebanks: ar, cs, cs_cac, da, de, es, et, fi, fo, hi, nl, sl, sl_sst. The values should be discussed though.
+* TO DISCUSS: `NumForm=Digit|Roman|Word`. Used in 12 treebanks: ar, ca, cs, cs_cac, es_ancora, et, la_ittb, nl, pt, ro, sl, ta. Inconsistency in Estonian: `NumForm=Letter` instead of `Word`.
 
 ## Comparison with UniMorph
 
@@ -50,6 +51,7 @@ Ideally a mapping of the features that exist in both systems.
 * `Hyph=Yes` used only in a few treebanks
 * `InfForm` specific to Finnish
 * `NameType` used only in Czech
+* `NounType` specific to Irish
 
 ### All layered features
 
