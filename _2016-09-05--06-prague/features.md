@@ -20,6 +20,7 @@ title:  'Features in UD v2'
 * TO DISCUSS: `Definite=2` in Hungarian. Description: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite). Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am watching a film”) and a second person object (_nézlek téged_ “I am watching you”). So `Definite=2` is actually not about definiteness proper, maybe it should be `Person[obj]`. Perhaps we should leave this value specific to Hungarian.
 * TO DISCUSS: `Mood`: Abil (tr), AbilCnd (tr), AbilDes (tr), AbilGen (tr), AbilGenNec (tr), AbilImp (tr), AbilNec (tr), AbilPrs (defined for tr but not used), Gen (tr), Gen-Nec (defined but not used; hyphen!!!), GenNec (tr), Int (ga), Inter (zh), Prs (tr)
 * TO DISCUSS: `Number=Count` in Bulgarian.
+* TO DISCUSS: `PronType=Clit` (it), Emp (ro), Exc (it), Ord (it), Predet (it)
 
 ## Adding new features
 
@@ -29,6 +30,7 @@ title:  'Features in UD v2'
 * TO DISCUSS: `NumForm=Digit|Roman|Word`. Used in 12 treebanks: ar, ca, cs, cs_cac, es_ancora, et, la_ittb, nl, pt, ro, sl, ta. Inconsistency in Estonian: `NumForm=Letter` instead of `Word`.
 * TO DISCUSS: `PartType`: is it particle or participle? Currently used in ga, da, nl, ro.
 * TO DISCUSS: `Polite` is used in 9 treebanks: ca, da, de, es, es_ancora, eu, hi, sa, ta. Turkish has `Register` which may be the same thing.
+* TO DISCUSS: `Strength` (of adjectives): cu, got, ro. In cu, it is used for the long vs. short Slavic adjectives, for which elsewhere `Variant=Short|Long` is used.
 
 ## Comparison with UniMorph
 
@@ -62,6 +64,10 @@ Ideally a mapping of the features that exist in both systems.
 * `Prefix=Yes` specific to Hebrew
 * `PrepCase` used in Catalan, Czech, Polish, Portuguese, Spanish
 * `PrepForm` specific to Irish (maybe it could be renamed to `AdpType`, which is used elsewhere)
+* `PunctSide` used in ca, es_ancora, fi_ftb, nl
+* `PunctType` used in ca, es_ancora, nl, ta; not consistent
+* `Style` used in Czech, Danish and Finnish
+* `Subcat` used only in Dutch
 
 ### All layered features
 
