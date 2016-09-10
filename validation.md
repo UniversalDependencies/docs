@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-09T20:42:26Z">2016-09-09T20:42:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-10T20:15:05Z">2016-09-10T20:15:05 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -768,10 +768,29 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-09T16:37:54Z">2016-09-09T16:37:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-10T20:14:58Z">2016-09-10T20:14:58 zulu</time></span>
 </div>
 <div>
 <pre>
+python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-dev.conllu
+
+[Line                   10]: Unknown UD DEPREL: obj
+[Line                   18]: Unknown UD DEPREL: obj
+[Line                   27]: Unknown UPOS tag: CCONJ
+[Line                   41]: Column FORM is not allowed to contain whitespace: '40 %'
+[Line                   41]: Column LEMMA is not allowed to contain whitespace: '40 %'
+[Line                   55]: Unknown UD DEPREL: obj
+[Line                   57]: DEPREL can only be "root" if HEAD is 0
+[Tree number 7 on line 48]: HEAD == ID for 9
+[Tree number 7 on line 48]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9 are not reachable from the root 0.
+*** FAILED *** with 9 errors
+Format errors: 3
+Morpho errors: 1
+Syntax errors: 5
+
+
+******************
+
 python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-tagged.conllu
 
 [Tree number 1 on line 2]: Multiple root words: [1, 2, 3, 4]
