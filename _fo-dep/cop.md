@@ -21,7 +21,7 @@ Prepositional phrases are annotated similarly, the only difference being that
 the nominal predicate has an additional case marker.
 
 ~~~ sdparse
-Hon er frá Føroyum \n She is from the.Faroes .
+Hon er frá Føroyum . \n She is from the.Faroes .
 case(Føroyum, frá)
 cop(Føroyum, er)
 nsubj(Føroyum, Hon)
