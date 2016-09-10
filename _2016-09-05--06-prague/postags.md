@@ -117,6 +117,9 @@ although historically the complementizer may actually come from a grammaticalize
 It would be useful if the proposal for UD v2 also included a list of category pairs that are considered incompatible
 but we did not discuss this in detail in Prague.
 
+Furthermore, we should encourage authors of language-specific documentation to document all border cases,
+but this is not really a change of guidelines.
+
 ## Proposed principles for UD v2
 
 This text could be added to the [morphology overview page](../u/overview/morphology.html), section on POS tags:
