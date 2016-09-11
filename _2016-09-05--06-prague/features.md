@@ -46,9 +46,10 @@ Ideally a mapping of the features that exist in both systems.
 
 General differences:
 
-* We need fully qualified feature+value pair to get a unique string, e.g. `Degree=Sup` is something else than `Mood=Sup` or `Case=Sup`. They distinguish "dimensions" (our features) but their values are globally unique even without dimension name.
-* They build upon the Leipzig Glossing Rules and their labels can be applied, if needed, to words, morphemes or phrases. We focus on individual words and don't mark some complex forms that can be expressed only periphrastically.
+* We work "bottom-up". We wait for a feature to appear in a language (or source treebank), then we think about where to put it in the schema. They work "top-down". They surveyed literature on language typology and collected all features that could possibly occur in any natural language.
 * Their schema "is responsible for capturing only the meanings of overt inflectional morphemes, which considerably limits the semantic space that must be formally described by the UniMorph Schema features." In contrast, we also include some features that are not inflectional but they provide a more fine-grained partitioning of the part-of-speech space, e.g. `PronType`.
+* They build upon the Leipzig Glossing Rules and their labels can be applied, if needed, to words, morphemes or phrases. We focus on individual words and don't mark some complex forms that can be expressed only periphrastically.
+* We need fully qualified feature+value pair to get a unique string, e.g. `Degree=Sup` is something else than `Mood=Sup` or `Case=Sup`. They distinguish "dimensions" (our features) but their values are globally unique even without dimension name.
 
 ### UniMorph dimensions (draft v2)
 
