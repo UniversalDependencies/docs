@@ -33,22 +33,37 @@ The criteria for drawing the core-oblique distinction will thus have to be estab
 * Valency-changing operations: Passivization can be used to establish that French does not have core indirect objects: "Le cadeau a été donné à la fille" vs. "*La fille a été donnée le cadeau".
 * Agreement: If verbs show morphosyntactic agreement at all in a language, this is usually restricted to core arguments (predominantly subjects but also objects in some languages).
 
-## Objects
+## Merge direct and indirect objects
 
 Some languages allow extended transitive clauses with a third participant encoded as a core argument, usually with some kind of benefactive or recipient role, as in the English double-object construction: "Mary gave John a book". Other languages do not allow extended transitive clauses but can still express the same semantic content with the help of an oblique modifier, as in French: "Marie a donné un livre à Jean". The indirect object relation (_iobj_) in UD has always been intended to cover the first case only, that is, it applies to the third core argument in an extended transitive clause. It was never intended to apply to the recipient role of a three-place predicate no matter how expressed, because syntactic relations should never be identified with specific semantic roles. This is why we have also insisted that the alternative syntactic structure associated with a three-place predicate like "give" in English does _not_ have an indirect object, because only two of the participants are realized as core arguments: "Mary gave a book to John".
 
 In line with our overall decision to keep the core-oblique distinction, we should also continue to make a distinction between true indirect objects (realized as core arguments) and oblique modifiers realizing a similar semantic role. However, because not all languages allow extended transitives, we think it will be more correct (and less confusing) to make this distinction using language-specific subtypes. We therefore recommend that the (current) universal relations _dobj_ and _iobj_ are replaced by a single universal relation _obj_ (for object). In languages with extended transitives, this relation will have two language-specific subtypes _obj:dir_ (for direct object) and _obj:ind_ (for indirect object).
 
-## Valency-changing operations
+## Remove special relations for passive subjects
 
 The current guidelines distinguish [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from [u-dep/nsubj](), [u-dep/csubj]() and [u-dep/aux]() to capture the fact that the subject of a passive has a different role than the subject of the corresponding active verb. While this is useful for many NLP applications of UD, it seems to go against the general spirit in UD of annotating syntactic functions rather than semantic roles. A possible counterargument is that passive is a grammaticalized process and therefore part of syntax, but it seems we should then treat other valency-changing operations like causative and antipassive in the same way. Not only would this lead to a proliferation of grammatical relations, it would also go against the lexicalist stance in UD, which seems to favor a lexicalist analysis of these operations (as in LFG, for example). 
 
 Our proposal is therefore that we get rid of the core argument relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() and instead encode information about valency-changing operations only on the predicate. If the valency-changing operation is encoded morphologically (either as inflection or as derivation), it can be encoded using a morphological feature like Voice=Pass or Voice=Caus. If it is encoded periphrastically, this option is not directly applicable and we therefore
 propose to preserve the information encoded in the [u-dep/auxpass]() relation, but to make it a language-specific option, hence _aux:pass_. This also opens up for relations like _aux:caus_ for languages that has a periphrastic causative construction. 
 
-## Splitting the nmod relation
+## Split the nmod relation into anom and advnom
 
-Copy from old email thread.
+One of the cornerstones of the UD taxonomy of syntactic relations is the distinction between three main types of linguistic structures: clauses, nominals and modifier words. These structures can in turn be used to modify either predicates or nominals and for modifier words and clauses we use different syntactic relations for these two cases:
+
+* [u-dep/amod]()/[u-dep/acl]() is used for a modifier/clause that attaches to a nominal
+* [u-dep/advmod]()/[u-dep/advcl]() is used for a modifier/clause dependent to a predicate (or adjective or adverb)
+
+But in the case of nominals, the [u-dep/nmod]() has to double duty and cover both adnominal and adverbial uses of 
+nominals. This is problematic especially in nominal clauses, where the category of the head does not disambiguate 
+between the two uses. We therefore propose that the [u-dep/nmod]() relation is replaced by two relations called 
+_anom_ and _advnom_ to complete the following naming schema:
+
+* aX = an X modifying a nominal
+* advX = and X modifying a predicate (or adjective or adverb=
+
+* Ycl = a clause with function Y
+* Ynom = a nominal with function Y
+* Ymod = a modifier word with function Y
 
 ## To discuss
 
