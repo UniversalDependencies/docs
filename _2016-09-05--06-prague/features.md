@@ -13,7 +13,7 @@ title:  'Features in UD v2'
 * TO DISCUSS: Is there a better solution than `NumType=Gen`? What is `NumType=Pers` in Irish? (Defined but not used.)
 * TO DISCUSS: `VerbForm=Trans`: Transgressive is a term that comes from Slavic languages and even there it is rare (Czech and Sorbian; other Slavic languages have the form too, but do not call it transgressive). English literature on Slavic languages sometimes uses the term _gerund_ but it is absolutely confusing and unsuitable because it is similar neither in form nor in function to the form we mark `VerbForm=Ger` in English and Spanish (and BTW these are also quite different from each other, but at least Spanish has the term _gerundio_ as its own, not only as English translation). More neutral terms are adverbial participle or _converb_, so I would suggest to rename it to `VerbForm=Conv`.
 
-## Adding new values to existing features
+## Adding/removing values to/from existing features
 
 * TO DISCUSS: `Aspect`: DurPerf (tr), DurPerfProg (tr), DurProg (tr), Freq (hu), ProgRapid (tr), Rapid (tr), Res (cu)
 * TO DISCUSS: Chinese "cases" Advb, Comp, Rel
@@ -29,6 +29,8 @@ title:  'Features in UD v2'
 * TO DISCUSS: `VerbForm=Stem` currently only one occurrence in Swedish. Verb stems also occur regularly in Hindi but they have the function of adverbial participles (converbs, transgressives) there.
 * TO DISCUSS: `Voice=Auto` (ga), CauPass (tr)
 * `Voice=Mid` middle voice, currently used in fo, grc, grc_proiel, sa.
+* Remove `Tense=Nar`. It has not been used anywhere yet. In Turkish, for which it was intended, the renarrative past is encoded as
+  `Evidentiality=Nfh|Tense=Past`. And we are proposing to adopt evidentiality as a new universal feature.
 
 ## Adding new features
 
@@ -101,7 +103,7 @@ General differences:
   * Do they have
     temporal `Case=Tem` (hu);
     distributive `Case=Dis` (hu)?
-  * We should add `Case=Equ` to the universal features. We already use it in Turkish
+  * We should add `Case=Equ` to the universal features. We already use it in Turkish.
     Similarly, we should add `Case=Cmp` for comparative ("than X"), occurring in Dravidian and Northeast-Caucasian languages.
     `Case=Prp` for proprietive ("having X"), a positive counterpart of abessive, occurring in Australian languages.
     `Case=Avr` for aversive ("fearing X").
@@ -132,6 +134,25 @@ General differences:
     This feature sometimes overlaps with distance and sometimes is explicitly separated.
   * `Visibility`, values: `VIS` (visible), `NVIS` (not visible).
   * `Verticality`, values: `ABV` (above the level plane of the speaker), `EVEN` (at the same level), `BEL` (below the level of the speaker).
+* `Evidentiality`, values: `FH` (firsthand), `DRCT` (direct), `SEN` (sensory), `VISU` (visual), `NVSEN` (non-visual sensory), `AUD` (auditory),
+  `NFH` (non-firsthand), `QUOT` (quotative), `RPRT` (reported), `HRSY` (hearsay), `INFER` (inferred), `ASSUM` (assumed).
+  UD v1 does not have this feature, although we have `Mood=Qot` (et, lv) and `Tense=Nar` (re-narrative past tense; the value was intended
+  for Turkish but in the end it was not used there, and language-specific `Evidentiality=Nfh` was introduced instead.
+  We propose to make `Evidentiality` a universal feature in UD v2. Maybe we can just adopt the values used in UniMorph.
+  We will have to check how it interacts with the quotative mood in Estonian and Latvian.
+* `Finiteness`, values: `FIN` (finite), `NFIN` (nonfinite). We have `VerbForm=Fin` for finite, any other verbform is nonfinite.
+* `Gender and Noun Class`, values: `MASC` (masculine), `FEM` (feminine), `NEUT` (neuter), `BANTU1-23` (noun classes in Bantu languages),
+  `NAKH1-8` (noun classes in Nakh-Daghestanian languages). We have `Gender=Masc`, `Fem`, `Neut` for the three genders;
+  in addition, we have `Gender=Com` for the common gender in Scandinavian languages, which only distinguish _neutrum_ (`Neut`) and _utrum_ (`Com`).
+  At present we do not cover any Bantu or Nakh-Daghestanian language.
+* `Information Structure`, values: `TOP` (topic), `FOC` (focus).
+  We do not have a feature for information structure but there are not many languages where it is marked via overt affixal morphology.
+* `Interrogativity`, values: `DECL` (declarative), `INT` (interrogative). Used for verbs.
+  We do not have a feature for this. `PronType=Int` could be possibly abused to encode verbs with interrogative morpheme,
+  but it would be much better not to mix the feature with pronominal types; we also don't mix `Negative=Neg` with `PronType=Neg`.
+* Language-specific features `LGSPEC1`, `LGSPEC2` etc. UniMorph uses them to distinguish alternating forms whose selection is not
+  tied to meaning. For example, genitive of German _Buch_ is either _Buchs_ or _Buches_. One form will be `LGSPEC1` and the other
+  `LGSPEC2`. We do not have anything similar in UD.
 
 ## Stuff to check
 
