@@ -28,11 +28,11 @@ All other dependents of the verb are said to be oblique, which again may entail 
 
 The criteria for drawing the core-oblique distinction will thus have to be established specifically for each language and should be described in the language-specific documentation. The universal guidelines should help by providing general guidance on the kind of criteria and test that can be applicable. Here is a list to start with:
 
-* Personal pronouns: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replace by the personal pronoun "it" in "this morning I called on her" (only by a pronominal adverb like "then").
-* Interrogative pronoun: A similar test can be applied by turning a sentence into a wh-question. The question corresponding to "She went to Paris" is "Where did she go?" not "What did she go?".
+* Pronominalization: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replace by the personal pronoun "it" in "this morning I called on her" (only by a pronominal adverb like "then").
+* Interrogatives: A similar test can be applied by turning a sentence into a wh-question. The question corresponding to "She went to Paris" is "Where did she go?" not "What did she go?".
 * Relativization: Languages that use relative clauses often restrict relativization to core arguments.
 * Valency-changing operations: Passivization can be used to establish that French does not have core indirect objects: "Le cadeau a été donné à la fille" vs. "*La fille a été donnée le cadeau".
-* Agreement: If verbs show morphosyntactic agreement at all in a language, this is usually restricted to core arguments (predominatly subjects but also objects in some languages).
+* Agreement: If verbs show morphosyntactic agreement at all in a language, this is usually restricted to core arguments (predominantly subjects but also objects in some languages).
 
 ## Objects
 
