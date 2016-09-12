@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-12T14:08:48Z">2016-09-12T14:08:48 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-12T14:10:58Z">2016-09-12T14:10:58 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2120,34 +2120,22 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-12T14:08:48Z">2016-09-12T14:08:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-12T14:10:58Z">2016-09-12T14:10:58 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-sample.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-sample.conllu
 
-[Line                   12]: Unknown UD DEPREL: compound:redup
-[Line                   21]: Unknown UD DEPREL: compound:redup
-[Line                   75]: Unknown UD DEPREL: nmod:tmod
-[Line                   77]: Unknown UD DEPREL: nmod:part
-[Line                   78]: Unknown UD DEPREL: nmod:tmod
 [Line                   123]: Unknown UD DEPREL: adv:emp
-[Line                   131]: Unknown UD DEPREL: advcl:cond
-[Line                   152]: Unknown UD DEPREL: nmod:tmod
-[Line                   187]: Unknown UD DEPREL: nmod:part
-[Line                   234]: Unknown UD DEPREL: nmod:cau
 [Line                   282]: Unknown UD DEPREL: xxxxxxx
-[Line                   284]: Unknown UD DEPREL: compound:redup
 [Line                   344]: DEPREL can only be "root" if HEAD is 0
 [Line                   346]: Unknown UD DEPREL: coord
-[Line                   437]: Unknown UD DEPREL: nmod:tmod
-[Line                   499]: Unknown UD DEPREL: compound:redup
-[Line                   515]: Unknown UD DEPREL: compound:redup
 [Line                   520]: Unknown UD DEPREL: compound:nmod
-[Line                   526]: Unknown UD DEPREL: nmod:cau
-...suppressing further errors regarding Syntax
-*** FAILED *** with 73 errors
-Syntax errors: 73
+[Line                   984]: Unknown UD DEPREL: nobj
+[Line                   1056]: Unknown UD DEPREL: ccop
+[Line                   1285]: Unknown UD DEPREL: ccop
+*** FAILED *** with 8 errors
+Syntax errors: 8
 
 
 ******************
