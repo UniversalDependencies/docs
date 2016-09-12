@@ -298,9 +298,9 @@ The illative case expresses direction into something.
 
 #### Examples
 
-* [hu]_ház_ "house"; _<b>házb</b><b>a</b>_ "into the house"
-* [fi] _talo_ "house"; _<b>talo</b><b>on</b>_ "into the house"
-* [et] _maja_ "house"; _<b>majas</b><b>se / majja</b>_ "into the house"
+* [hu] _ház_ "house"; _<b>házba</b>_ "into the house"
+* [fi] _talo_ "house"; _<b>taloon</b>_ "into the house"
+* [et] _maja_ "house"; _<b>majasse</b>_ "into the house"
 
 ### `Ela`: elative
 
@@ -308,7 +308,7 @@ The elative case expresses direction out of something.
 
 #### Examples
 
-* [hu]_ház_ "house"; _<b>házból</b>_ "from the house"
+* [hu] _ház_ "house"; _<b>házból</b>_ "from the house"
 * [fi] _talo_ "house"; _<b>talos</b><b>t</b><b>a</b>_ "from the house"
 * [et] _maja_ "house"; _<b>majas</b><b>t</b>_ "from the house"
 
@@ -316,9 +316,14 @@ The elative case expresses direction out of something.
 
 Distinguished by some scholars in Estonian, not recognized by
 traditional grammar, exists in the Multext-East Estonian tagset and in
-the Eesti keele puudepank.  Reportedly same or similar meaning as
-illative. Forms of this case exist only in singular and not for all
-nouns.
+the Eesti keele puudepank. It has the meaning of illative, and
+some grammars will thus consider the additive just an alternative
+form of illative.
+Forms of this case exist only in singular and not for all nouns.
+
+#### Examples
+
+* [et] _riik_ "government"; _riigisse_ "to the government" (singular illative); _<b>riiki</b>_ "to the government" (singular additive)
 
 ### `Ade`: adessive
 
@@ -330,7 +335,7 @@ ablative (from something).
 
 * [hu] _pénztár_ "cash desk"; _<b>pénztárnál</b>_ "at the cash desk"
 * [fi] _pöytä_ "table"; _<b>pöydällä</b>_ "on the table"
-* [et] _laud_ "table";_<b>laual</b>_ "on the table"
+* [et] _laud_ "table"; _<b>laual</b>_ "on the table"
 
 Note that adessive is used to express location on the surface of
 something in Finnish and Estonian, but does not carry this meaning in
@@ -353,8 +358,8 @@ Prototypical meaning: direction from some point.
 #### Examples
 
 * [hu] _a <b>barátomtól</b> jövök_ "I'm coming <b>from my friend</b>"
-* [fi] _pöydältä_ "from the table"; _katolta_ "from the roof";
-  _rannalta_ "from the beach"
+* [fi] _<b>pöydältä</b>_ "from the table"; _<b>katolta</b>_ "from the roof";
+  _<b>rannalta</b>_ "from the beach"
 
 ### `Sup`: superessive
 
@@ -431,7 +436,7 @@ _adlativo terminal_).
   six o'clock"
 * [eu] _erdi_ "half"; _<b>erdiraino</b>_ "up to the half"
 
-### `Cau`: causative / motivative
+### `Cau`: causative / motivative / purposive
 
 Noun in this case is the cause of something. In Hungarian it also
 seems to be used frequently with currency ("to buy something _for_ the
