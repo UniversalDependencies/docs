@@ -93,6 +93,20 @@ General differences:
   * Do they have
     temporal `Case=Tem` (hu);
     distributive `Case=Dis` (hu)?
+  * We should add `Case=Equ` to the universal features. We already use it in Turkish
+    Similarly, we should add `Case=Cmp` for comparative ("than X"), occurring in Dravidian and Northeast-Caucasian languages.
+    `Case=Prp` for proprietive ("having X"), a positive counterpart of abessive, occurring in Australian languages.
+    `Case=Avr` for aversive ("fearing X").
+    As for the local cases, there are too many possible combinations and we should probably wait until the need for one of them arises.
+* `Comparison`, values: `CMPR` (comparative), `SPRL` (superlative), `AB` (absolute for superlatives), `RL` (relative for superlatives), `EQT` (equative).
+  We have `Degree=Cmp` for comparative, `Degree=Sup` for relative superlative (`SPRL+RL`) and `Degree=Abs` for absolute superlative (`SPRL+AB`).
+  We also have `Degree=Pos` (positive) that denotes the basic degree, i.e. adjective that is not compared.
+  This comes from traditional grammars of various languages, although it would be possible to tag such adjectives by omitting the `Degree` feature.
+  We could not distinguish adjectives that cannot take the comparative/superlative morphemes, but in fact we avoid that distinction with most features.
+  On the other hand, we do not have the equative degree (note that it marks the adjective and it is distinct from the equative case, which marks
+  the standard of comparison). One of the examples in UniMorph is Estonian _<b>pikkune</b> (pikkus+ne)_ "as tall as".
+  UD Estonian contains 6 occurrences of _pikkune_ but it does not define equative as a language-specific feature; it uses simply `Degree=Pos` here.
+  We may want to define the value `Degree=Equ` and see if anyone uses it.
 
 ## Stuff to check
 
