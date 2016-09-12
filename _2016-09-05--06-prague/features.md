@@ -56,7 +56,7 @@ General differences:
 * `Aktionsart`, values: `STAT` (stative), `DYN` (dynamic), `TEL` (telic), `ATEL` (atelic), `PCT` (punctual), `DUR` (durative), `ACH` (achievement), `ACCMP` (accomplishment), `SEMEL` (semelfactive), `ACTY` (activity). Aktionsart is a feature that we don't have in UD but it is closely related to our [Aspect](../u/feat/Aspect.html). Aspect in Slavic languages is treated as a lexical feature, change of aspect is considered a derivation. Perfective verbs in Slavic languages correspond to telic verbs in UniMorph, imperfective verbs correspond to atelic verbs and statives. However, aktionsart could be defined for other languages including English, while aspect is not marked in UD English.
 * `Animacy`, values: `ANIM` (animate), `INAN` (inanimate), `HUM` (human), `NHUM` (non-human). In UD we don't have human but we do have the other three. We treat animacy as a scale of either two values (animate, inanimate), or three values (animate, non-human, inanimate). In the latter case (which so far appears only in UD Polish), the animate value is interpreted as human-only, while in other languages it includes animals. We could add the human value but note that this is not the only feature where a value has shifting semantic contents. For example, `Number=Plur` normally means "more than one", but in languages with dual it means "more than two".
 * `Argument Marking` for head-marking languages. UniMorph uses templatic features `ARG`+`Case`+`Person`+`Number`, e.g. `ARGNO1S` means that the nominative argument of the current verb is 1st person singular. Available cases are nominative, accusative, absolutive, ergative, dative, benefactive. We mostly only need to annotate agreement of the verb with its subject, i.e. the nominative argument, and we use the `Person` and `Number` features of the verb for this. So far only Basque needs more, as the verbs may agree there with up to three arguments (absolutive, ergative and dative). We use the layered features, i.e. `Person[abs]`, `Person[erg]`, `Person[dat]`, `Number[abs]` etc.
-* `Aspect`, values: `IPFV` (imperfective), `PFV` (perfective), `PRF` (perfect), `PROG` (progressive), `PROSP` (prospective), `ITER` (iterative), `HAB` (habitual). Their aspect + aktionsart is not compatible with our aspect, although we have a few values in common (perfect/ive, imperfective, progressive, prospective). We also mix aspect with tense by allowing `Tense=Imp` or `Pqp`.
+* `Aspect`, values: `IPFV` (imperfective), `PFV` (perfective), `PRF` (perfect), `PROG` (progressive), `PROSP` (prospective), `ITER` (iterative), `HAB` (habitual). Their aspect + aktionsart is not compatible with our aspect, although we have a few values in common (perfect/ive, imperfective, progressive, prospective). We also mix aspect with tense by allowing the value `Tense=Imp`.
 * `Case`
   * Core case: can be defined in terms of three "meta-arguments," S (subject), A (agent), and P (patient). Values:
     `NOM` (nominative; `Case=Nom`), `ACC` (accusative; `Case=Acc`), `ERG` (ergative; `Case=Erg`), `ABS` (absolutive; `Case=Abs`), `NOMS` (nominative, subject only).
@@ -64,9 +64,14 @@ General differences:
   * Non-core, non-local case: `DAT` (dative; `Case=Dat`), `BEN` (benefactive; `Case=Ben`), `PRP` (purposive),
     `GEN` (genitive; `Case=Gen`), `REL` (relative), `PRT` (partitive; `Case=Par`),
     `INS` (instrumental; `Case=Ins`), `COM` (comitative; `Case=Com`), `VOC` (vocative; `Case=Voc`),
-    `COMPV` (comparative), `EQTV` (equative), `PRIV` (privative), `PROPR` (proprietive),
-    `AVR` (aversive), `FRML` (formal), `TRANS` (translative; `Case=Tra`), `BYWAY` (essive modal).
-    We currently lack values of 9 cases in this category, although equative seems to already occur in our Turkish data (if it is what `Case=Equ` refers to).
+    `COMPV` (comparative), `EQTV` (equative), `PRIV` (privative; `Case=Abe`), `PROPR` (proprietive),
+    `AVR` (aversive), `FRML` (essive formal; `Case=Ess`), `TRANS` (translative; `Case=Tra`), `BYWAY` (essive modal).
+    We currently lack values of 8 cases in this category, although equative seems to already occur in our Turkish data (if it is what `Case=Equ` refers to).
+    Our causative (`Case=Cau`, see below) might actually be UniMorph's purposive.
+    Our abessive (`Case=Abe`) is their privative; we use the term from Uralic languages, they from Australia.
+    Our essive/prolative (`Case=Ess`, used in [hu, et, fi, eu]) is their essive formal.
+    Their essive modal (`BYWAY`) comes from Hungarian and "marks the notion of 'by way of' a location;" I suspect that we subsume it within instrumental.
+    Their relative (`REL`) "marks possessor and A role", hence it looks like a merger of genitive and accusative.
   * Local / place: `INTER` ("among"), `AT` ("at"), `POST` ("behind"), `IN` ("in"), `CIRC` ("near"), `ANTE` ("near, in front of"), `APUD` ("next to"),
     `ON` ("on"), `ONHR` ("on" horizontal), `ONVR` ("on" vertical), `SUB` ("under").
   * Local / distance: `REM` (distal), `PROX` (proximate).
@@ -81,9 +86,10 @@ General differences:
     inessive (`Case=Ine`; `IN+ESS`); illative (`Case=Ill`; `IN+ALL`); elative (`Case=Ela`; `IN+ABL`);
     adessive (`Case=Ade`; `ON/AT+ESS`); allative (`Case=All`; `ON/AT+ALL`); ablative (`Case=Abl`; `ON/AT+ABL`);
     superessive (`Case=Sup`; `ON/ONVR+ESS`); sublative (`Case=Sub`; `ON+ALL`); delative (`Case=Del`; `ON/ONVR+ABL`);
-    lative (`Case=Lat`; `ALL`, i.e. it says it's motion towards something, without distinguishing on/at/in/under).
-  * Do they have abessive `Case=Abe`; additive `Case=Add`; temporal `Case=Tem`; terminative / terminal allative (`Case=Ter`);
-    causative `Case=Cau`?
+    lative (`Case=Lat`; `ALL`, i.e. it says it's motion towards something, without distinguishing on/at/in/under);
+    terminative (`Case=Ter`; `ALL+TERM`, i.e. it specifies motion up to some point, also called terminal allative).
+  * Do they have additive `Case=Add`; temporal `Case=Tem`;
+    causative `Case=Cau`; distributive `Case=Dis`?
 
 ## Stuff to check
 
