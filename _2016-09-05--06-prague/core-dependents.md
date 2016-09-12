@@ -23,28 +23,93 @@ The core-oblique distinction is generally accepted in language typology as being
 
 The starting point is the assumption that all languages have some prototypical way of encoding the arguments of intransitive and transitive verbs, often referred to as S (for the subject of an intransitive verb), A (for the subject/agent of a transitive verb) and O or P (for the object/patient of a transitive verb). Exactly what this prototypical encoding is has to be established specifically for each language but it often involves some combination of case-marking (nominative-accusative or ergative-absolutive) and/or indexing on the verb (agreement) and/or linear position in the clause (typically relative to the verb). To this may be added the possibility to undergo certain grammatical transformations, such as relativization and passivization. The notion of core argument is then reserved for dependents of the verb that exhibit all or most of this prototypical encoding.
 
-All other dependents of the verb are said to be oblique, which again may entail different things for different languages. In English, it means having a prepositional marker and/or occurring in a different position relative to the verb than core arguments. For example, “on her” in “I called on her” is oblique because it has a preposition, but “this morning” in “this morning I called on her” is oblique because it is not in subject position nor in object position and because it cannot be passivized. For case languages, obliques may either be accompanied by adpositions or occur in cases that are not prototypical for core arguments (often referred to as oblique cases). Exactly which cases are regarded as oblique can again vary between languages, and typical borderline cases are dative, partitive and (less common) genitive. Crucially, however, obliques can be arguments as well as adjuncts, as illustrated by the earlier English examples. Note also that a specific linguistic property, such as the presence of an adpositional marker, cannot be considered as a universally valid criterion for obliqueness. In a language like Spanish, for example, prepositions are used in the prototypical encoding of direct objects but only for animate objects with specific reference (“buscan una secretaria” vs. “buscan a una de las secretarias”).
+All other dependents of the verb are said to be oblique, which again may entail different things for different languages. In English, it means having a prepositional marker and/or occurring in a different position relative to the verb than core arguments. For example:
+
+<div id="s1" class="sd-parse">
+this morning I called on her
+nsubj(called, I)
+nmod(called, her)
+case(her, on)
+nmod(called, morning)
+det(morning, this)
+</div>
+
+Here “on her” is oblique because it has a preposition and “this morning” is oblique because it is neither in subject position nor in object position and because it cannot be passivized. For case languages, obliques may either be accompanied by adpositions or occur in cases that are not prototypical for core arguments (often referred to as oblique cases). Exactly which cases are regarded as oblique can again vary between languages, and typical borderline cases are dative, partitive and (less common) genitive. Crucially, however, obliques can be arguments as well as adjuncts, as illustrated by "on her" (argument) and "this morning" (adjunct) above. Note also that a specific linguistic property, such as the presence of an adpositional marker, cannot be considered as a universally valid criterion for obliqueness. In a language like Spanish, for example, prepositions are used in the prototypical encoding of direct objects but only for animate objects with specific reference. For example:
+
+<div id="s2" class="sd-parse">
+buscan una secretaria \n they seek a secretary
+dobj(buscan, secretaria)
+det(secretaria, una)
+</div>
+<div id="s3" class="sd-parse">
+buscan a una de las secretarias \n they seek one of the secretaries
+dobj(buscan, una)
+case(una, a)
+nmod(una, secretarias)
+det(secretarias, las)
+case(secretarias, de)
+</div>
 
 The criteria for drawing the core-oblique distinction will thus have to be established specifically for each language and should be described in the language-specific documentation. The universal guidelines should help by providing general guidance on the kind of criteria and test that can be applicable. Here is a list to start with:
 
-* Pronominalization: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replace by the personal pronoun "it" in "this morning I called on her" (only by a pronominal adverb like "then").
-* Interrogatives: A similar test can be applied by turning a sentence into a wh-question. The question corresponding to "She went to Paris" is "Where did she go?" not "What did she go?".
+* Personal pronouns: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replaced by the personal pronoun "it" above (only by a pronominal adverb like "then"). 
+* Interrogatives: The question corresponding to "she went to Paris" is "where did she go?" not "what did she go?". 
 * Relativization: Languages that use relative clauses often restrict relativization to core arguments.
-* Valency-changing operations: Passivization can be used to establish that French does not have core indirect objects: "Le cadeau a été donné à la fille" vs. "*La fille a été donnée le cadeau".
-* Agreement: If verbs show morphosyntactic agreement at all in a language, this is usually restricted to core arguments (predominantly subjects but also objects in some languages).
+* Passivization: In many languages, only core arguments can be passivized.
+* Agreement: Morphosyntactic agreement on verbs is usually restricted to core arguments (predominantly subjects but also objects in some languages).
 
 ## Merge direct and indirect objects
 
-Some languages allow extended transitive clauses with a third participant encoded as a core argument, usually with some kind of benefactive or recipient role, as in the English double-object construction: "Mary gave John a book". Other languages do not allow extended transitive clauses but can still express the same semantic content with the help of an oblique modifier, as in French: "Marie a donné un livre à Jean". The indirect object relation (_iobj_) in UD has always been intended to cover the first case only, that is, it applies to the third core argument in an extended transitive clause. It was never intended to apply to the recipient role of a three-place predicate no matter how expressed, because syntactic relations should never be identified with specific semantic roles. This is why we have also insisted that the alternative syntactic structure associated with a three-place predicate like "give" in English does _not_ have an indirect object, because only two of the participants are realized as core arguments: "Mary gave a book to John".
+Some languages allow extended transitive clauses with a third participant encoded as a core argument, usually with some kind of benefactive or recipient role, as in the English double-object construction: 
 
-In line with our overall decision to keep the core-oblique distinction, we should also continue to make a distinction between true indirect objects (realized as core arguments) and oblique modifiers realizing a similar semantic role. However, because not all languages allow extended transitives, we think it will be more correct (and less confusing) to make this distinction using language-specific subtypes. We therefore recommend that the (current) universal relations _dobj_ and _iobj_ are replaced by a single universal relation _obj_ (for object). In languages with extended transitives, this relation will have two language-specific subtypes _obj:dir_ (for direct object) and _obj:ind_ (for indirect object).
+<div id="s4" class="sd-parse">
+Mary gave John a book
+nsubj(gave, Mary)
+dobj(gave, book)
+det(book, a)
+iobj(gave, John)
+</div>
+
+Other languages do not allow extended transitive clauses but can still express the same semantic content with the help of an oblique modifier, as in French: 
+
+<div id="s5" class="sd-parse">
+Marie a donné un livre à Jean 
+nsubj(donné, Marie)
+aux(donné, a)
+dobj(donné, livre)
+det(livre, u)
+nmod(donné, Jean)
+case(Jean, à)
+</div>
+
+The indirect object relation ([u-dep/iobj]()) in UD has always been intended to cover the first case only, that is, it applies to the third core argument in an extended transitive clause. It was never intended to apply to the recipient role of a three-place predicate no matter how expressed, because syntactic relations should never be identified with specific semantic roles. This is why we have also insisted that the alternative syntactic structure associated with a three-place predicate like "give" in English does _not_ have an indirect object, because only two of the participants are realized as core arguments: 
+
+<div id="s6" class="sd-parse">
+Mary gave a book to John
+nsubj(gave, Mary)
+dobj(gave, book)
+det(book, a)
+nmod(gave, John)
+case(John, to)
+</div>
+
+In line with our overall decision to keep the core-oblique distinction, we should also continue to make a distinction between true indirect objects (realized as core arguments) and oblique modifiers realizing a similar semantic role. However, because not all languages allow extended transitives, we think it will be more correct (and less confusing) to make this distinction using language-specific subtypes. We therefore recommend that the (current) universal relations [u-dep/dobj]() and [u-dep/iobj]() are replaced by a single universal relation **obj** (for object). In languages with extended transitives, this relation will have two language-specific subtypes **obj:dir** (for direct object) and **obj:ind** (for indirect object).
 
 ## Remove special relations for passive subjects
 
 The current guidelines distinguish [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from [u-dep/nsubj](), [u-dep/csubj]() and [u-dep/aux]() to capture the fact that the subject of a passive has a different role than the subject of the corresponding active verb. While this is useful for many NLP applications of UD, it seems to go against the general spirit in UD of annotating syntactic functions rather than semantic roles. A possible counterargument is that passive is a grammaticalized process and therefore part of syntax, but it seems we should then treat other valency-changing operations like causative and antipassive in the same way. Not only would this lead to a proliferation of grammatical relations, it would also go against the lexicalist stance in UD, which seems to favor a lexicalist analysis of these operations (as in LFG, for example). 
 
 Our proposal is therefore that we get rid of the core argument relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() and instead encode information about valency-changing operations only on the predicate. If the valency-changing operation is encoded morphologically (either as inflection or as derivation), it can be encoded using a morphological feature like Voice=Pass or Voice=Caus. If it is encoded periphrastically, this option is not directly applicable and we therefore
-propose to preserve the information encoded in the [u-dep/auxpass]() relation, but to make it a language-specific option, hence _aux:pass_. This also opens up for relations like _aux:caus_ for languages that has a periphrastic causative construction. 
+propose to preserve the information encoded in the [u-dep/auxpass]() relation, but to make it a language-specific option, hence **aux:pass**. This also opens up for relations like **aux:caus** for languages that has a periphrastic causative construction. 
+
+<div id="s7" class="sd-parse">
+she was invited to the party
+nsubj(invited, she)
+aux:pass(invited, was)
+nmod(invited, party)
+det(party, the)
+case(party, to)
+</div>
 
 ## Split the nmod relation into anom and advnom
 
