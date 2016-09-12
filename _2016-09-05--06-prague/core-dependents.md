@@ -171,9 +171,5 @@ We therefore propose that the [u-dep/nmod]() relation is split into two relation
 ## To discuss
 
 * Non-canonical subjects: One issue that needs to be discussed is under what circumstances subjects can occur with oblique encoding. In Turkish subordinate clauses, for example, the verb is nominalized and the subject occurs in genitive instead of nominative. This is a completely regular grammatical process of complementation, and it occurs regardless of which verb is involved, so it seems well motivated to say that the genitive nominal is still the subject. By contrast, many languages express possession with a form of the verb “to be”, the thing owned in nominative and the possessor in an oblique case like dative. That is, instead of saying “X has Y”, they say “Y is to X”. In this case, there is no reason to say that the dative nominal is the subject, just because the corresponding nominal would be the subject in other languages. After all, it is precisely this kind of systematic difference between languages that we want to be able to study.
-* Expletives:
-* Clitics:
-* Pro-drop:
-* Clefts:
-* Copula constructions: cross-ref
+* Expletives: When should the [u-dep/expl]() relation be used? Is it reserved for pleonastic subjects or can it also be used for non-referential pronouns in inherent reflexives? What about clitics? 
 
