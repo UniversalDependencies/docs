@@ -41,7 +41,10 @@ In line with our overall decision to keep the core-oblique distinction, we shoul
 
 ## Valency-changing operations
 
-Copy from old proposal.
+The current guidelines distinguish [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from [u-dep/nsubj](), [u-dep/csubj]() and [u-dep/aux]() to capture the fact that the subject of a passive has a different role than the subject of the corresponding active verb. While this is useful for many NLP applications of UD, it seems to go against the general spirit in UD of annotating syntactic functions rather than semantic roles. A possible counterargument is that passive is a grammaticalized process and therefore part of syntax, but it seems we should then treat other valency-changing operations like causative and antipassive in the same way. Not only would this lead to a proliferation of grammatical relations, it would also go against the lexicalist stance in UD, which seems to favor a lexicalist analysis of these operations (as in LFG, for example). 
+
+Our proposal is therefore that we get rid of the core argument relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() and instead encode information about valency-changing operations only on the predicate. If the valency-changing operation is encoded morphologically (either as inflection or as derivation), it can be encoded using a morphological feature like Voice=Pass or Voice=Caus. If it is encoded periphrastically, this option is not directly applicable and we therefore
+propose to preserve the information encoded in the [u-dep/auxpass]() relation, but to make it a language-specific option, hence _aux:pass_. This also opens up for relations like _aux:caus_ for languages that has a periphrastic causative construction. 
 
 ## Splitting the nmod relation
 
