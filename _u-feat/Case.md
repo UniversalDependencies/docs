@@ -358,8 +358,8 @@ Prototypical meaning: direction from some point.
 #### Examples
 
 * [hu] _a <b>barátomtól</b> jövök_ "I'm coming <b>from my friend</b>"
-* [fi] _pöydältä_ "from the table"; _katolta_ "from the roof";
-  _rannalta_ "from the beach"
+* [fi] _<b>pöydältä</b>_ "from the table"; _<b>katolta</b>_ "from the roof";
+  _<b>rannalta</b>_ "from the beach"
 
 ### `Sup`: superessive
 
