@@ -102,7 +102,7 @@ The current guidelines distinguish [u-dep/nsubjpass](), [u-dep/csubjpass](), and
 Our proposal is therefore that we get rid of the core argument relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() and instead encode information about valency-changing operations only on the predicate. If the valency-changing operation is encoded morphologically (either as inflection or as derivation), it can be encoded using a morphological feature like Voice=Pass or Voice=Caus. If it is encoded periphrastically, this option is not directly applicable and we therefore
 propose to preserve the information encoded in the [u-dep/auxpass]() relation, but to make it a language-specific option, hence **aux:pass**. This also opens up for relations like **aux:caus** for languages that has a periphrastic causative construction. 
 
-<div id="s7" class="sd-parse">
+<div id="s8" class="sd-parse">
 she was invited to the party
 nsubj(invited, she)
 aux:pass(invited, was)
@@ -113,22 +113,60 @@ case(party, to)
 
 ## Split the nmod relation into anom and advnom
 
-One of the cornerstones of the UD taxonomy of syntactic relations is the distinction between three main types of linguistic structures: clauses, nominals and modifier words. These structures can in turn be used to modify either predicates or nominals and for modifier words and clauses we use different syntactic relations for these two cases:
+One of the cornerstones of the UD taxonomy of syntactic relations is the distinction between three main types of linguistic structures: clauses, nominals and modifier words. These structures can in turn be used to modify either predicates or nominals. For modifier words and clauses we use different syntactic relations for these two cases:
 
 * [u-dep/amod]()/[u-dep/acl]() is used for a modifier/clause that attaches to a nominal
 * [u-dep/advmod]()/[u-dep/advcl]() is used for a modifier/clause dependent to a predicate (or adjective or adverb)
 
 But in the case of nominals, the [u-dep/nmod]() has to double duty and cover both adnominal and adverbial uses of 
-nominals. This is problematic especially in nominal clauses, where the category of the head does not disambiguate 
-between the two uses. We therefore propose that the [u-dep/nmod]() relation is replaced by two relations called 
-_anom_ and _advnom_ to complete the following naming schema:
+nominals. Compare the following examples:
 
-* aX = an X modifying a nominal
-* advX = an X modifying a predicate (or adjective or adverb)
+<div id="s9" class="sd-parse">
+amod(car, red)
+</div>
 
-* Ycl = a clause with function Y
-* Ynom = a nominal with function Y
-* Ymod = a modifier word with function Y
+<div id="s10" class="sd-parse">
+the car that is red
+acl(car, red)
+</div>
+
+<div id="s11" class="sd-parse">
+the car in the street
+nmod(car, street)
+</div>
+
+<div id="s12" class="sd-parse">
+they ran quickly 
+advmod(ran, quickly)
+</div>
+
+<div id="s13" class="sd-parse">
+they ran when the bell sounded 
+advcl(ran, sounded)
+</div>
+
+<div id="s14" class="sd-parse">
+they ran to the forest 
+nmod(ran, forest)
+</div>
+
+This is problematic especially in nominal clauses, where the category of the head does not disambiguate 
+between the two uses. 
+
+<div id="s15" class="sd-parse">
+she is a doctor of medicine  
+nmod(doctor, medicine)
+</div>
+
+<div id="s16" class="sd-parse">
+she is a doctor at the hospital  
+nmod(doctor, hospital)
+</div>
+
+We therefore propose that the [u-dep/nmod]() relation is split into two relations, one for adnominal and one for adverbial modification. We propose the names **anom** for the former and **advnom** for the latter. In this way, all modifier relations will satisfy the following pattern:
+
+* Adnominal modifiers are named aX, where X is cl (clause), nom (nominal) or modifier word (mod).
+* Adverbial modifiers are named advX, where X is cl (clause), nom (nominal) or modifier word (mod).
 
 ## To discuss
 
