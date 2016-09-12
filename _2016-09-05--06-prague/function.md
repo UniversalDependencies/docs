@@ -275,7 +275,7 @@ O arkadaşıla Praga'da . \n She with.her.friends in.Prague .
 ~~~
 
 ~~~ sdparse
-Se on Pragassa kaverinkaa . 
+Se on Prahassa kaverinkaa . 
 ~~~
 
 ~~~ sdparse
@@ -303,7 +303,7 @@ Ella estava a Praga amb els amics . \n She was in Prague with the friends .
 ~~~
 
 ~~~ sdparse
-Se oli Pragassa kaverinkaa . \n She was in.Prague with.friends .
+Se oli Prahassa kaverinkaa . \n She was in.Prague with.friends .
 ~~~
 
 ~~~ sdparse
@@ -338,7 +338,7 @@ In some languages, there can be ambiguities between something being a "bare" cop
 
 Finnish:
 ~~~ sdparse
-Kirja on pöytässä . \n Book on table .
+Kirja on pöydällä . \n Book on table .
 ~~~ 
 
 Could mean either "(The) book is on (the) table." or "There is (a) book on (the) table."
@@ -365,22 +365,21 @@ However, this quickly becomes awkward:
 
 ~~~ sdparse
 For the last few years there have been problems with the programme .
-~~~
-
-~~~ sdparse 
-How long have there been problems with the programme ? 
-~~~
-
-~~~ sdparse
-Have there been problems with the programme for the last few years ? 
-~~~
-
-~~~ sdparse
-What has there been with the programme for the last few years ? 
+case(years, For)
+expl(been, there)
+aux(been, have)
+nmod(been, years)
+nsubj(been, problems)
+case(with, programme)
+nmod(been, programme)
 ~~~
 
 ~~~ sdparse
 There is a lot to learn about Chernobyl . 
+case(Chernobyl, case)
+nmod(learn, Chernobyl)
+mark(learn, to)
+expl(is, There)
 ~~~
 
 ~~~ sdparse
@@ -528,6 +527,11 @@ aux:pass(considered, are)
 ~~~ sdparse
 Книга была прочитанно . 
 aux:pass(прочитанно, была)
+~~~
+
+~~~ sdparse
+Se oli nähnyt kirjan . \n She has seen book .
+aux(nähnyt, oli)
 ~~~
 
 ~~~ sdparse
