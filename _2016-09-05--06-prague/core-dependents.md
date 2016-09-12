@@ -18,9 +18,8 @@ Below we discuss and motivate each of these proposals in turn. We also list some
 
 The core-oblique distinction is generally accepted in language typology as being both more relevant and easier to apply cross-linguistically than the argument-adjunct distinction. See, for example:
 
-* Avery D. Andrews. 2007, ‘The major functions of the noun phrase’, in Timothy Shopen (ed.), Language Typology and Syntactic Description: Clause Structure (2nd ed), Cambridge University Press, Cambridge, United Kingdom, pp. 132-223. (1st edition, 1985.) http://s3.amazonaws.com/academia.edu.documents/1371104/3fssigyoao1m6zee.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1473093407&Signature=s0ASGfswVey9XwxWo%2BgZmNHR%2F4w%3D&response-content-disposition=inline%3B%20filename%3DThe_Major_Functions_of_the_NP.pdf
-* Sandra A. Thompson. 1997. Discourse Motivations for the Core-Oblique Distinction as a Language Universal. In Directions in Functional Linguistics edited by Akio Kamio.
-* Wayan Arka: http://users.ox.ac.uk/~cpgl0015/Arka_Core_oblique_distinction_and_core_index_in_some_Austronesian_languages.pdf
+* Avery D. Andrews. 2007. The Major Functions of the Noun Phrase. In Timothy Shopen (ed.) Language Typology and Syntactic Description: Clause Structure (2nd ed), Cambridge University Press, Cambridge, United Kingdom, pp. 132-223. (1st edition, 1985.) 
+* Sandra A. Thompson. 1997. Discourse Motivations for the Core-Oblique Distinction as a Language Universal. In Akio Kamio (ed.) Directions in Functional Linguistics. Benjamins, Amsterdam, the Netherlands, pp. 59-82.
 
 The starting point is the assumption that all languages have some prototypical way of encoding the arguments of intransitive and transitive verbs, often referred to as S (for the subject of an intransitive verb), A (for the subject/agent of a transitive verb) and O or P (for the object/patient of a transitive verb). Exactly what this prototypical encoding is has to be established specifically for each language but it often involves some combination of case-marking (nominative-accusative or ergative-absolutive) and/or indexing on the verb (agreement) and/or linear position in the clause (typically relative to the verb). To this may be added the possibility to undergo certain grammatical transformations, such as relativization and passivization. The notion of core argument is then reserved for dependents of the verb that exhibit all or most of this prototypical encoding.
 
@@ -36,15 +35,24 @@ The criteria for drawing the core-oblique distinction will thus have to be estab
 
 ## Objects
 
-The problem of indirect objects (extended transitives). Keep distinction but make it non-universal.
+Some languages allow extended transitive clauses with a third participant encoded as a core argument, usually with some kind of benefactive or recipient role, as in the English double-object construction: "Mary gave John a book". Other languages do not allow extended transitive clauses but can still express the same semantic content with the help of an oblique modifier, as in French: "Marie a donné un livre à Jean". The indirect object relation (_iobj_) in UD has always been intended to cover the first case only, that is, it applies to the third core argument in an extended transitive clause. It was never intended to apply to the recipient role of a three-place predicate no matter how expressed, because syntactic relations should never be identified with specific semantic roles. This is why we have also insisted that the alternative syntactic structure associated with a three-place predicate like "give" in English does _not_ have an indirect object, because only two of the participants are realized as core arguments: "Mary gave a book to John".
+
+In line with our overall decision to keep the core-oblique distinction, we should also continue to make a distinction between true indirect objects (realized as core arguments) and oblique modifiers realizing a similar semantic role. However, because not all languages allow extended transitives, we think it will be more correct (and less confusing) to make this distinction using language-specific subtypes. We therefore recommend that the (current) universal relations _dobj_ and _iobj_ are replaced by a single universal relation _obj_ (for object). In languages with extended transitives, this relation will have two language-specific subtypes _obj:dir_ (for direct object) and _obj:ind_ (for indirect object).
 
 ## Valency-changing operations
 
-Get rid of -pass, etc.
+Copy from old proposal.
 
 ## Splitting the nmod relation
+
+Copy from old email thread.
 
 ## To discuss
 
 * Non-canonical subjects: One issue that needs to be discussed is under what circumstances subjects can occur with oblique encoding. In Turkish subordinate clauses, for example, the verb is nominalized and the subject occurs in genitive instead of nominative. This is a completely regular grammatical process of complementation, and it occurs regardless of which verb is involved, so it seems well motivated to say that the genitive nominal is still the subject. By contrast, many languages express possession with a form of the verb “to be”, the thing owned in nominative and the possessor in an oblique case like dative. That is, instead of saying “X has Y”, they say “Y is to X”. In this case, there is no reason to say that the dative nominal is the subject, just because the corresponding nominal would be the subject in other languages. After all, it is precisely this kind of systematic difference between languages that we want to be able to study.
+* Expletives:
+* Clitics:
+* Pro-drop:
+* Clefts:
+* Copula constructions: cross-ref
 
