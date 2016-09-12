@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-12T13:19:49Z">2016-09-12T13:19:49 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-12T13:39:33Z">2016-09-12T13:39:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2120,7 +2120,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-12T13:19:48Z">2016-09-12T13:19:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-12T13:39:33Z">2016-09-12T13:39:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2148,34 +2148,6 @@ python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-sample.conllu
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 95 errors
 Syntax errors: 95
-
-
-******************
-
-python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
-
-[Line                   23]: Unknown UD DEPREL: nmod:cau
-[Line                   44]: Unknown UD DEPREL: nmod:cau
-[Line                   128]: Unknown UD DEPREL: nmod:cau
-[Line                   159]: Unknown UD DEPREL: nmod:cau
-[Line                   234]: Unknown UD DEPREL: nmod:cau
-[Line                   252]: Unknown UD DEPREL: nmod:cau
-[Line                   258]: Unknown UD DEPREL: nmod:cau
-[Line                   260]: Unknown UD DEPREL: nmod:cau
-[Line                   349]: Unknown UD DEPREL: nmod:cau
-[Line                   366]: Unknown UD DEPREL: nmod:cau
-[Line                   374]: Unknown UD DEPREL: nmod:cau
-[Line                   466]: Unknown UD DEPREL: nmod:cau
-[Line                   481]: Unknown UD DEPREL: nmod:cau
-[Line                   526]: Unknown UD DEPREL: nmod:cau
-[Line                   552]: Unknown UD DEPREL: nmod:cau
-[Line                   763]: Unknown UD DEPREL: nmod:cau
-[Line                   784]: Unknown UD DEPREL: nmod:cau
-[Line                   791]: Unknown UD DEPREL: nmod:cau
-[Line                   867]: Unknown UD DEPREL: nmod:cau
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1621 errors
-Syntax errors: 1621
 
 
 ******************
