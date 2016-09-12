@@ -23,12 +23,37 @@ The core-oblique distinction is generally accepted in language typology as being
 
 The starting point is the assumption that all languages have some prototypical way of encoding the arguments of intransitive and transitive verbs, often referred to as S (for the subject of an intransitive verb), A (for the subject/agent of a transitive verb) and O or P (for the object/patient of a transitive verb). Exactly what this prototypical encoding is has to be established specifically for each language but it often involves some combination of case-marking (nominative-accusative or ergative-absolutive) and/or indexing on the verb (agreement) and/or linear position in the clause (typically relative to the verb). To this may be added the possibility to undergo certain grammatical transformations, such as relativization and passivization. The notion of core argument is then reserved for dependents of the verb that exhibit all or most of this prototypical encoding.
 
-All other dependents of the verb are said to be oblique, which again may entail different things for different languages. In English, it means having a prepositional marker and/or occurring in a different position relative to the verb than core arguments. For example, “on her” in “I called on her” is oblique because it has a preposition, but “this morning” in “this morning I called on her” is oblique because it is not in subject position nor in object position and because it cannot be passivized. For case languages, obliques may either be accompanied by adpositions or occur in cases that are not prototypical for core arguments (often referred to as oblique cases). Exactly which cases are regarded as oblique can again vary between languages, and typical borderline cases are dative, partitive and (less common) genitive. Crucially, however, obliques can be arguments as well as adjuncts, as illustrated by the earlier English examples. Note also that a specific linguistic property, such as the presence of an adpositional marker, cannot be considered as a universally valid criterion for obliqueness. In a language like Spanish, for example, prepositions are used in the prototypical encoding of direct objects but only for animate objects with specific reference (“buscan una secretaria” vs. “buscan a una de las secretarias”).
+All other dependents of the verb are said to be oblique, which again may entail different things for different languages. In English, it means having a prepositional marker and/or occurring in a different position relative to the verb than core arguments. For example:
+
+<div id="s1" class="sd-parse">
+this morning I called on her
+nsubj(called, I)
+nmod(called, her)
+case(her, on)
+nmod(called, morning)
+det(morning, this)
+</div>
+
+Here “on her” is oblique because it has a preposition and “this morning” is oblique because it is neither in subject position nor in object position and because it cannot be passivized. For case languages, obliques may either be accompanied by adpositions or occur in cases that are not prototypical for core arguments (often referred to as oblique cases). Exactly which cases are regarded as oblique can again vary between languages, and typical borderline cases are dative, partitive and (less common) genitive. Crucially, however, obliques can be arguments as well as adjuncts, as illustrated by "on her" (argument) and "this morning" (adjunct) above. Note also that a specific linguistic property, such as the presence of an adpositional marker, cannot be considered as a universally valid criterion for obliqueness. In a language like Spanish, for example, prepositions are used in the prototypical encoding of direct objects but only for animate objects with specific reference. For example:
+
+<div id="s2" class="sd-parse">
+buscan una secretaria \n they seek a secretary
+dobj(buscan, secretaria)
+det(secretaria, una)
+</div>
+<div id="s3" class="sd-parse">
+buscan a una de las secretarias \n they seek one of the secretaries
+dobj(buscan, una)
+case(una, a)
+nmod(una, secretarias)
+det(secretarias, las)
+case(secretarias, de)
+</div>
 
 The criteria for drawing the core-oblique distinction will thus have to be established specifically for each language and should be described in the language-specific documentation. The universal guidelines should help by providing general guidance on the kind of criteria and test that can be applicable. Here is a list to start with:
 
-* Pronominalization: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replace by the personal pronoun "it" in "this morning I called on her" (only by a pronominal adverb like "then").
-* Interrogatives: A similar test can be applied by turning a sentence into a wh-question. The question corresponding to "She went to Paris" is "Where did she go?" not "What did she go?".
+* Personal pronouns: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replaces by the personal pronoun "it" above (only by a pronominal adverb like "then"). 
+* Interrogatives: The question corresponding to "she went to Paris" is "where did she go?" not "what did she go?". 
 * Relativization: Languages that use relative clauses often restrict relativization to core arguments.
 * Valency-changing operations: Passivization can be used to establish that French does not have core indirect objects: "Le cadeau a été donné à la fille" vs. "*La fille a été donnée le cadeau".
 * Agreement: If verbs show morphosyntactic agreement at all in a language, this is usually restricted to core arguments (predominantly subjects but also objects in some languages).
