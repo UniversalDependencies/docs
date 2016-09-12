@@ -52,11 +52,11 @@ case(secretarias, de)
 
 The criteria for drawing the core-oblique distinction will thus have to be established specifically for each language and should be described in the language-specific documentation. The universal guidelines should help by providing general guidance on the kind of criteria and test that can be applicable. Here is a list to start with:
 
-* Personal pronouns: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replaces by the personal pronoun "it" above (only by a pronominal adverb like "then"). 
+* Personal pronouns: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replaced by the personal pronoun "it" above (only by a pronominal adverb like "then"). 
 * Interrogatives: The question corresponding to "she went to Paris" is "where did she go?" not "what did she go?". 
 * Relativization: Languages that use relative clauses often restrict relativization to core arguments.
-* Valency-changing operations: Passivization can be used to establish that French does not have core indirect objects: "Le cadeau a été donné à la fille" vs. "*La fille a été donnée le cadeau".
-* Agreement: If verbs show morphosyntactic agreement at all in a language, this is usually restricted to core arguments (predominantly subjects but also objects in some languages).
+* Passivization: In many languages, only core arguments can be passivized.
+* Agreement: Morphosyntactic agreement on verbs is usually restricted to core arguments (predominantly subjects but also objects in some languages).
 
 ## Merge direct and indirect objects
 
