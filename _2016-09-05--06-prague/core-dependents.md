@@ -73,7 +73,7 @@ iobj(gave, John)
 Other languages do not allow extended transitive clauses but can still express the same semantic content with the help of an oblique modifier, as in French: 
 
 <div id="s5" class="sd-parse">
-Marie a donné un livre à Jean 
+Marie a donné un livre à Jean
 nsubj(donné, Marie)
 aux(donné, a)
 dobj(donné, livre)
@@ -122,6 +122,7 @@ But in the case of nominals, the [u-dep/nmod]() has to double duty and cover bot
 nominals. Compare the following examples:
 
 <div id="s9" class="sd-parse">
+the red car
 amod(car, red)
 </div>
 
