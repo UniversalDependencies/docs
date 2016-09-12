@@ -57,6 +57,33 @@ General differences:
 * `Animacy`, values: `ANIM` (animate), `INAN` (inanimate), `HUM` (human), `NHUM` (non-human). In UD we don't have human but we do have the other three. We treat animacy as a scale of either two values (animate, inanimate), or three values (animate, non-human, inanimate). In the latter case (which so far appears only in UD Polish), the animate value is interpreted as human-only, while in other languages it includes animals. We could add the human value but note that this is not the only feature where a value has shifting semantic contents. For example, `Number=Plur` normally means "more than one", but in languages with dual it means "more than two".
 * `Argument Marking` for head-marking languages. UniMorph uses templatic features `ARG`+`Case`+`Person`+`Number`, e.g. `ARGNO1S` means that the nominative argument of the current verb is 1st person singular. Available cases are nominative, accusative, absolutive, ergative, dative, benefactive. We mostly only need to annotate agreement of the verb with its subject, i.e. the nominative argument, and we use the `Person` and `Number` features of the verb for this. So far only Basque needs more, as the verbs may agree there with up to three arguments (absolutive, ergative and dative). We use the layered features, i.e. `Person[abs]`, `Person[erg]`, `Person[dat]`, `Number[abs]` etc.
 * `Aspect`, values: `IPFV` (imperfective), `PFV` (perfective), `PRF` (perfect), `PROG` (progressive), `PROSP` (prospective), `ITER` (iterative), `HAB` (habitual). Their aspect + aktionsart is not compatible with our aspect, although we have a few values in common (perfect/ive, imperfective, progressive, prospective). We also mix aspect with tense by allowing the value `Tense=Imp`.
+* `Case`
+  * Core case: can be defined in terms of three "meta-arguments," S (subject), A (agent), and P (patient). Values:
+    `NOM` (nominative; `Case=Nom`), `ACC` (accusative; `Case=Acc`), `ERG` (ergative; `Case=Erg`), `ABS` (absolutive; `Case=Abs`), `NOMS` (nominative, subject only).
+    We have all these values, except that we do not distinguish `NOMS` from `NOM`.
+  * Non-core, non-local case: `DAT` (dative; `Case=Dat`), `BEN` (benefactive; `Case=Ben`), `PRP` (purposive),
+    `GEN` (genitive; `Case=Gen`), `REL` (relative), `PRT` (partitive; `Case=Par`),
+    `INS` (instrumental; `Case=Ins`), `COM` (comitative; `Case=Com`), `VOC` (vocative; `Case=Voc`),
+    `COMPV` (comparative), `EQTV` (equative), `PRIV` (privative), `PROPR` (proprietive),
+    `AVR` (aversive), `FRML` (formal), `TRANS` (translative; `Case=Tra`), `BYWAY` (essive modal).
+    We currently lack values of 9 cases in this category, although equative seems to already occur in our Turkish data (if it is what `Case=Equ` refers to).
+  * Local / place: `INTER` ("among"), `AT` ("at"), `POST` ("behind"), `IN` ("in"), `CIRC` ("near"), `ANTE` ("near, in front of"), `APUD` ("next to"),
+    `ON` ("on"), `ONHR` ("on" horizontal), `ONVR` ("on" vertical), `SUB` ("under").
+  * Local / distance: `REM` (distal), `PROX` (proximate).
+  * Local / motion: `ESS` (essive), `ALL` (allative), `ABL` (ablative).
+  * Local / aspect: `APPRX` (approximative), `TERM` (terminative), `PROL` (prolative/translative), `VERS` (versative).
+  * UD has `Case=Loc`, which is used in a number of Indo-European languages (especially Slavic) but also in Basque, Turkish and others.
+    It has mostly a locative meaning, where the placement and direction are not precisely specified. It can also have a non-locative meaning.
+    There does not seem to be a direct counterpart of the locative case in UniMorph.
+  * The UniMorph draft accounts for compositionality of locative morphemes in some languages: "from [the place] between us" could be encoded as _we_ + `INTER` + `ABL`.
+    In contrast, we use established terms for some of the combinations but definitely cannot encode all possible combinations in all languages.
+    Our local cases are:
+    inessive (`Case=Ine`; `IN+ESS`); illative (`Case=Ill`; `IN+ALL`); elative (`Case=Ela`; `IN+ABL`);
+    adessive (`Case=Ade`; `ON/AT+ESS`); allative (`Case=All`; `ON/AT+ALL`); ablative (`Case=Abl`; `ON/AT+ABL`);
+    superessive (`Case=Sup`; `ON/ONVR+ESS`); sublative (`Case=Sub`; `ON+ALL`); delative (`Case=Del`; `ON/ONVR+ABL`);
+    lative (`Case=Lat`; `ALL`, i.e. it says it's motion towards something, without distinguishing on/at/in/under).
+  * Do they have abessive `Case=Abe`; additive `Case=Add`; temporal `Case=Tem`; terminative / terminal allative (`Case=Ter`);
+    causative `Case=Cau`?
 
 ## Stuff to check
 
