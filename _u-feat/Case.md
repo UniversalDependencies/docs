@@ -436,7 +436,7 @@ _adlativo terminal_).
   six o'clock"
 * [eu] _erdi_ "half"; _<b>erdiraino</b>_ "up to the half"
 
-### `Cau`: causative / motivative
+### `Cau`: causative / motivative / purposive
 
 Noun in this case is the cause of something. In Hungarian it also
 seems to be used frequently with currency ("to buy something _for_ the
