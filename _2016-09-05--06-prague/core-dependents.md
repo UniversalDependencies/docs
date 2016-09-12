@@ -8,9 +8,9 @@ title:  'Core Dependents in UD v2'
 The distinction between core arguments and oblique modifiers is at the heart of the UD taxonomy of syntactic relations but has been criticized because it is hard to apply cross-linguistically. For v2 we propose:
 
 * Keep the core-oblique distinction and work out more detailed guidelines for how to apply it in different languages
-* Replace the relations _dobj_ and _iobj_ by a single relation _obj_ (with language-specific subtypes _obj:dir_ and _obj:ind_)
-* Remove the relations _nsubjpass_ and _csubjpass_ (and replace _auxpass_ by (optional) _aux:pass_)
-* Split the modifier relation _nmod_ into two new relations _anom_ and _advnom_
+* Replace the relations [u-dep/dobj]() and [u-dep/iobj]() by a single relation **obj** (with language-specific subtypes **obj:dir** and **obj:ind**)
+* Remove the relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() (and replace [u-dep/auxpass]() by an optional **aux:pass**)
+* Split the modifier relation [u-dep/nmod]() into two new relations **anom** and **advnom**
 
 Below we discuss and motivate each of these proposals in turn. We also list some remaining issues that need to be discussed in this area.
 
@@ -59,7 +59,7 @@ between the two uses. We therefore propose that the [u-dep/nmod]() relation is r
 _anom_ and _advnom_ to complete the following naming schema:
 
 * aX = an X modifying a nominal
-* advX = and X modifying a predicate (or adjective or adverb=
+* advX = an X modifying a predicate (or adjective or adverb)
 
 * Ycl = a clause with function Y
 * Ynom = a nominal with function Y
