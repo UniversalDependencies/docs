@@ -46,10 +46,18 @@ Ideally a mapping of the features that exist in both systems.
 
 General differences:
 
-* We work "bottom-up". We wait for a feature to appear in a language (or source treebank), then we think about where to put it in the schema. They work "top-down". They surveyed literature on language typology and collected all features that could possibly occur in any natural language.
-* Their schema "is responsible for capturing only the meanings of overt inflectional morphemes, which considerably limits the semantic space that must be formally described by the UniMorph Schema features." In contrast, we also include some features that are not inflectional but they provide a more fine-grained partitioning of the part-of-speech space, e.g. `PronType`.
-* They build upon the Leipzig Glossing Rules and their labels can be applied, if needed, to words, morphemes or phrases. We focus on individual words and don't mark some complex forms that can be expressed only periphrastically.
-* We need fully qualified feature+value pair to get a unique string, e.g. `Degree=Sup` is something else than `Mood=Sup` or `Case=Sup`. They distinguish "dimensions" (our features) but their values are globally unique even without dimension name.
+* We work "bottom-up". We wait for a feature to appear in a language (or source treebank), then we think about where to put it in the schema.
+  They work "top-down". They surveyed literature on language typology and collected all features that could possibly occur in any natural language.
+* Their schema "is responsible for capturing only the meanings of overt inflectional morphemes, which considerably limits the semantic space
+  that must be formally described by the UniMorph Schema features."
+  In contrast, we also include some features that are not inflectional but they provide a more fine-grained partitioning of the part-of-speech space, e.g. `PronType`.
+* They build upon the Leipzig Glossing Rules and their labels can be applied, if needed, to words, morphemes or phrases.
+  We focus on individual words and don't mark some complex forms that can be expressed only periphrastically.
+* We need fully qualified feature+value pair to get a unique string, e.g. `Degree=Sup` is something else than `Mood=Sup` or `Case=Sup`.
+  They distinguish "dimensions" (our features) but their values are globally unique even without dimension name.
+  They also have templatic features (combined of several atoms), and they often rely on feature (value) combinations.
+  We have combined values too (e.g. `Gender=Masc,Neut`) but for us it expresses disjunction, used when we cannot select just one of the values.
+  They have disjunction too, but they also mark conjunction of features, or elaboration, e.g. `IN+ABL`.
 
 ### UniMorph dimensions (draft v2)
 
@@ -107,6 +115,23 @@ General differences:
   the standard of comparison). One of the examples in UniMorph is Estonian _<b>pikkune</b> (pikkus+ne)_ "as tall as".
   UD Estonian contains 6 occurrences of _pikkune_ but it does not define equative as a language-specific feature; it uses simply `Degree=Pos` here.
   We may want to define the value `Degree=Equ` and see if anyone uses it.
+* `Definiteness`, values: `DEF` (definite), `INDF` (indefinite), `SPEC` (specific), `NSPEC` (non-specific).
+  The last two are elaboration of indefinite. Specific indefinite: _a certain stick_; non-specific indefinite: _any stick but still only one, not many_.
+  We have `Definite=Def` and `Definite=Ind`.
+  If we include the distinction of specificity, it will be just one value cutting off the current `Ind`, maybe `Definite=Spec`.
+  On the other hand, we have two peculiar values coming from the Prague Arabic Dependency Treebank.
+  `Definite=Red` (reduced) is used for noun that is modified by another noun in genitive and has neither definite nor indefinite morpheme.
+  This is also called the _construct state_ and appears in other Semitic languages, e.g. Hebrew.
+  `Definite=Com` (complex) is used in _improper annexation / false iḍāfa_ (related to the construct state but more complex) in Arabic.
+* `Deixis` subclassifies demonstrative pronouns, which in some languages are also used instead of 3rd person pronouns.
+  We have only `PronType=Dem` (or `Prs`) but we do not distinguish the other dimensions at present.
+  At least distance would make sense for the languages we already have in UD, but the original tagsets did not care about it.
+  * `Distance`, values: `PROX` (proximate), `MED` (medial), `REMT` (remote).
+  * `Reference Point`, values: `REF1` (speaker), `REF2` (addressee), `NOREF` (distal, i.e. neither speaker nor addressee),
+    `PHOR` (phoric, i.e. either anaphoric or cataphoric; previously mentioned or to be disambiguated).
+    This feature sometimes overlaps with distance and sometimes is explicitly separated.
+  * `Visibility`, values: `VIS` (visible), `NVIS` (not visible).
+  * `Verticality`, values: `ABV` (above the level plane of the speaker), `EVEN` (at the same level), `BEL` (below the level of the speaker).
 
 ## Stuff to check
 
