@@ -77,7 +77,7 @@ Marie a donné un livre à Jean
 nsubj(donné, Marie)
 aux(donné, a)
 dobj(donné, livre)
-det(livre, le)
+det(livre, un)
 nmod(donné, Jean)
 case(Jean, à)
 </div>
