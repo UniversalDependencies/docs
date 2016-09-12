@@ -61,13 +61,13 @@ General differences:
   * Core case: can be defined in terms of three "meta-arguments," S (subject), A (agent), and P (patient). Values:
     `NOM` (nominative; `Case=Nom`), `ACC` (accusative; `Case=Acc`), `ERG` (ergative; `Case=Erg`), `ABS` (absolutive; `Case=Abs`), `NOMS` (nominative, subject only).
     We have all these values, except that we do not distinguish `NOMS` from `NOM`.
-  * Non-core, non-local case: `DAT` (dative; `Case=Dat`), `BEN` (benefactive; `Case=Ben`), `PRP` (purposive),
+  * Non-core, non-local case: `DAT` (dative; `Case=Dat`), `BEN` (benefactive; `Case=Ben`), `PRP` (purposive; `Case=Cau`),
     `GEN` (genitive; `Case=Gen`), `REL` (relative), `PRT` (partitive; `Case=Par`),
     `INS` (instrumental; `Case=Ins`), `COM` (comitative; `Case=Com`), `VOC` (vocative; `Case=Voc`),
     `COMPV` (comparative), `EQTV` (equative), `PRIV` (privative; `Case=Abe`), `PROPR` (proprietive),
     `AVR` (aversive), `FRML` (essive formal; `Case=Ess`), `TRANS` (translative; `Case=Tra`), `BYWAY` (essive modal).
-    We currently lack values of 8 cases in this category, although equative seems to already occur in our Turkish data (if it is what `Case=Equ` refers to).
-    Our causative (`Case=Cau`, see below) might actually be UniMorph's purposive.
+    We currently lack values of 6 cases in this category, although equative seems to already occur in our Turkish data (if it is what `Case=Equ` refers to).
+    Our causative (`Case=Cau`) might be (or overlap with) UniMorph's purposive.
     Our abessive (`Case=Abe`) is their privative; we use the term from Uralic languages, they from Australia.
     Our essive/prolative (`Case=Ess`, used in [hu, et, fi, eu]) is their essive formal.
     Their essive modal (`BYWAY`) comes from Hungarian and "marks the notion of 'by way of' a location;" I suspect that we subsume it within instrumental.
@@ -88,8 +88,11 @@ General differences:
     superessive (`Case=Sup`; `ON/ONVR+ESS`); sublative (`Case=Sub`; `ON+ALL`); delative (`Case=Del`; `ON/ONVR+ABL`);
     lative (`Case=Lat`; `ALL`, i.e. it says it's motion towards something, without distinguishing on/at/in/under);
     terminative (`Case=Ter`; `ALL+TERM`, i.e. it specifies motion up to some point, also called terminal allative).
-  * Do they have additive `Case=Add`; temporal `Case=Tem`;
-    causative `Case=Cau`; distributive `Case=Dis`?
+  * They do not have additive `Case=Add` because they encode atomic meaning and additive is equal in meaning to illative.
+    It is questionable whether we want to keep it in UD but I would keep it because it is actively used in UD Estonian, so there apparently is some demand.
+  * Do they have
+    temporal `Case=Tem` (hu);
+    distributive `Case=Dis` (hu)?
 
 ## Stuff to check
 
