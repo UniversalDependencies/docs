@@ -12,7 +12,9 @@ Whereas the morphological annotation layers allows an arbitrary number of featur
 
 # Syntactic subtypes
 
-Of the language-specific subtypes in current use, the following appears to capture real syntactic subtypes:
+The following (existing) subtypes are plausible candidates for proper syntactic subtypes:
 
-
+* acl:relcl - a relative clause is a special type of [u-dep/acl](), normally with a characteristic syntactic structure (with relativization of a major clause participant)
+* advcl:compar - a comparative clause is a special type of [u-dep/advcl](), which again has a characteristic syntactic structure (introduced by a marker such as "as" or "than") and furthermore puts syntactic constraints on the matrix clause (a function word such as "as" or "more" that correlates with the marker); other possible subtypes of [u-dep/advcl]() could come from the traditional subclassification of adverbial clauses as conditional, temporal, consecutive, and so on.
+* 
 # Syntactic features
