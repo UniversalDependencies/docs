@@ -19,8 +19,8 @@ happen, without adding any attitude of the speaker.
   university."
 * [de] _<b>Du studierst</b> an der Universität._ "<b>You study</b> at
   the university."
-* [tr] *eve gidiyor* "she is going home"
-* [tr] *eve gitti* "she went home"
+* [tr] *eve <b>gidiyor</b>* "she is going home"
+* [tr] *eve <b>gitti</b>* "she went home"
 
 ### `Imp`: imperative
 
@@ -31,9 +31,9 @@ action of the verb.
 
 * [cs] _<b>Studuj</b> na univerzitě!_ "<b>Study</b> at the university!"
 * [de] _<b>Studiere</b> an der Universität!_ "<b>Study</b> at the university!"
-* [tr] *eve git* "go home!"
-* [tr] *eve gidin* "go home!" (plural)
-* [tr] *eve gitsin* "[let him] go home!" (3rd person imperative)
+* [tr] *eve <b>git</b>* "go home!"
+* [tr] *eve <b>gidin</b>* "go home!" (plural)
+* [tr] *eve <b>gitsin</b>* "[let him] go home!" (3rd person imperative)
 
 ### `Cnd`: conditional
 
@@ -52,15 +52,21 @@ tenses (past and present).
   analytically form the conditional mood, however, it will only be
   tagged as participle because it can also be used to form past tense
   indicative.)
-* [tr] *eve gittiyse* "if she went home"
-* [tr] *eve gidiyorsa* "if she is going home"
-* [tr] *eve giderse* "if she goes home"
-* [tr] *eve gidecekdiyse* "if she was going to go home"
+* [tr] *eve <b>gittiyse</b>* "if she went home"
+* [tr] *eve <b>gidiyorsa</b>* "if she is going home"
+* [tr] *eve <b>giderse</b>* "if she goes home"
+* [tr] *eve <b>gidecekdiyse</b>* "if she was going to go home"
 
 ### `Pot`: potential
 
-The action of the verb is likely but not certain. Used e.g. in
-Finnish.
+The action of the verb is possible but not certain.
+This mood corresponds to the modal verbs _can, might, be able to_.
+Used e.g. in Finnish.
+
+#### Examples
+
+* [tr] *eve <b>gidebilir</b>* "she can go home"
+* [tr] *eve <b>gidemeyebilir</b>* "she may not be able to go home"
 
 ### `Sub`: subjunctive / conjunctive
 
@@ -76,8 +82,9 @@ conditional meaning.
 
 ### `Jus`: jussive
 
-The jussive mood expresses the desire that the action happens. Used
-e.g. in Arabic.
+The jussive mood expresses the desire that the action happens; it is thus close to both imperative and optative.
+Unlike in desiderative, it is the speaker, not the subject who wishes that it happens.
+Used e.g. in Arabic.
 
 ### `Qot`: quotative
 
@@ -90,7 +97,7 @@ In Turkish it also expresses suggestions.
 
 #### Examples
 
-* [tr] *eve gidelim* 'let's go home'
+* [tr] *eve <b>gidelim</b>* 'let's go home'
 
 ### `Des`: desiderative
 
@@ -104,5 +111,5 @@ have to": "He <b>must</b><b> come</b>."
 
 #### Examples
 
-* [tr] *eve gitmeli* 'she should go home'
-* [tr] *eve gitmeliydi* 'she should have gone home'
+* [tr] *eve <b>gitmeli</b>* 'she should go home'
+* [tr] *eve <b>gitmeliydi</b>* 'she should have gone home'
