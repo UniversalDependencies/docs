@@ -15,6 +15,11 @@ appos(Sam-1, brother-4)
 ~~~
 
 ~~~ sdparse
+Hoa , vợ tôi , đã 30 tuổi. \n Hoa , my wife , is 30 years old .
+appos(Hoa-1, vợ-3)
+~~~
+
+~~~ sdparse
 Bill ( John 's cousin )
 appos(Bill-1, cousin-5)
 ~~~
