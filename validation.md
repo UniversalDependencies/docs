@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-13T14:46:32Z">2016-09-13T14:46:32 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-13T20:13:13Z">2016-09-13T20:13:13 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2066,25 +2066,25 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-13T09:14:31Z">2016-09-13T09:14:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-13T20:13:09Z">2016-09-13T20:13:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 
 *** PASSED ***
 
