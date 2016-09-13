@@ -19,6 +19,8 @@ happen, without adding any attitude of the speaker.
   university."
 * [de] _<b>Du studierst</b> an der Universität._ "<b>You study</b> at
   the university."
+* [tr] *eve gidiyor* "she is going home"
+* [tr] *eve gitti* "she went home"
 
 ### `Imp`: imperative
 
@@ -29,6 +31,9 @@ action of the verb.
 
 * [cs] _<b>Studuj</b> na univerzitě!_ "<b>Study</b> at the university!"
 * [de] _<b>Studiere</b> an der Universität!_ "<b>Study</b> at the university!"
+* [tr] *eve git* "go home!"
+* [tr] *eve gidin* "go home!" (plural)
+* [tr] *eve gitsin* "[let him] go home!" (3rd person imperative)
 
 ### `Cnd`: conditional
 
@@ -47,6 +52,10 @@ tenses (past and present).
   analytically form the conditional mood, however, it will only be
   tagged as participle because it can also be used to form past tense
   indicative.)
+* [tr] *eve gittiyse* "if she went home"
+* [tr] *eve gidiyorsa* "if she is going home"
+* [tr] *eve giderse* "if she goes home"
+* [tr] *eve gidecekdiyse* "if she was going to go home"
 
 ### `Pot`: potential
 
@@ -76,8 +85,12 @@ The quotative mood is used e.g. in Estonian to denote direct speech.
 
 ### `Opt`: optative
 
-Used e.g. in Turkish in exclamations like "May you have a long life!"
-or "If only I were rich!"
+Expresses exclamations like "May you have a long life!" or "If only I were rich!"
+In Turkish it also expresses suggestions.
+
+#### Examples
+
+* [tr] *eve gidelim* 'let's go home'
 
 ### `Des`: desiderative
 
@@ -86,5 +99,10 @@ The desiderative mood corresponds to the modal verb "want to": "He
 
 ### `Nec`: necessitative
 
-The necessitative mood corresponds to the modal verbs "must, should,
-have to": "He <b>must</b><b> come</b>." Used e.g. in Turkish.
+The necessitative mood expresses necessity and corresponds to the modal verbs "must, should,
+have to": "He <b>must</b><b> come</b>."
+
+#### Examples
+
+* [tr] *eve gitmeli* 'she should go home'
+* [tr] *eve gitmeliydi* 'she should have gone home'
