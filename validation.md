@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-13T14:46:32Z">2016-09-13T14:46:32 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-13T20:32:27Z">2016-09-13T20:32:27 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2066,25 +2066,25 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-13T09:14:31Z">2016-09-13T09:14:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-13T20:13:09Z">2016-09-13T20:13:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 
 *** PASSED ***
 
@@ -2120,16 +2120,25 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-13T09:14:55Z">2016-09-13T09:14:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-13T20:32:27Z">2016-09-13T20:32:27 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-sample.conllu
 
-[Line                   123]: Unknown UD DEPREL: adv:emph
-[Line                   520]: Unknown UD DEPREL: compound:nmod
-*** FAILED *** with 2 errors
-Syntax errors: 2
+[Line                   123]: Unknown UD DEPREL: advmod:emp
+[Line                   344]: DEPREL must be "root" if HEAD is 0
+[Line                   2692]: Unknown UD DEPREL: aux:
+[Line                   2692]: Invalid DEPREL value aux:
+[Line                   2694]: DEPREL must be "root" if HEAD is 0
+[Line                   2998]: Unknown UD DEPREL: raparandum
+[Line                   3240]: DEPREL must be "root" if HEAD is 0
+[Line                   3280]: Unknown UD DEPREL: mmod
+[Line                   3612]: Unknown UD DEPREL: compund
+[Line                   4075]: Unknown UD DEPREL: nmod:comp
+[Line                   4599]: DEPREL must be "root" if HEAD is 0
+*** FAILED *** with 11 errors
+Syntax errors: 11
 
 
 ******************
