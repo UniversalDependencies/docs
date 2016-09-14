@@ -78,7 +78,7 @@ dobj(saw-7, two-8)
 
 ### Clauses
 
-If the main predicate is elided, we promote only if there is an `aux` or `cop` (or possibly `advmod` and `mark` in the form of infinitival markers).
+If the main predicate is elided, we promote only if there is an `aux` or `cop` (or possibly `advmod` or `mark` in the form of infinitival markers).
 
 Example:
 
@@ -88,7 +88,7 @@ Sue likes pasta and Peter does , too .
 nsubj(likes-2, Sue-1)
 dobj(likes-2, pasta-3)
 conj(likes-2, does-6)
-nsubj(does-6, Peter-9)
+nsubj(does-6, Peter-5)
 advmod(does-6, too-8)
 ~~~
 
