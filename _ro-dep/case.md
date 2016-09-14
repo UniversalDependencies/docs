@@ -23,7 +23,7 @@ Plecăm devreme pentru a nu întârzia . \n Leave-we early for to not be_late .
 mark(întârzia, pentru)
 ~~~
 
-Prepositions linking numerals to their nominal heads are dependents of the numerals. Thus, we have a uniform analysis of the numerals as nummods 
+Prepositions linking numerals to their nominal heads are dependents of the numerals. 
 
 ~~~ sdparse
 30 de copii \n 30 of children
