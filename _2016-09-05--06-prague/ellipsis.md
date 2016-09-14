@@ -93,7 +93,7 @@ advmod(does-6, too-8)
 ~~~
 
 
-__To discuss:__
+### To discuss:
 
 Should we also promote adverbial modifiers as in the following example? 
 
@@ -217,7 +217,7 @@ conj>nmod(left, good)
 
 In the first example, the node _E5.1_ is added for the elided predicate _like_. In the second example, we add one node for the elided matrix verb _wants_ (_E8.1_) and one node for the elided embedded verb _buy_ (_E8.2_). As the elided marker _to_ does not have any dependents, we do not add a null node for it. 
 
-__To discuss:__
+### To discuss:
 
 Should we also have a link between the null nodes and their corresponding surface forms in the sentence (e.g., linking _E5.1_ to _like_ in the first example)? 
 
