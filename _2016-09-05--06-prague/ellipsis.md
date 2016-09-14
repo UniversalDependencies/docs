@@ -34,7 +34,7 @@ Additional issues of the `remnant` analysis are:
 
 ## Head ellipsis in UD v2
 
-In the following cases of head ellipsis, a modifier of the elided head is being promoted.
+In the following cases of head ellipsis, we promote a modifier of the elided head.
 
 ### Nominals
 
@@ -95,7 +95,9 @@ advmod(does-6, too-8)
 
 __To discuss:__
 
-Should we also promote adverbial modifiers as in the following example? (__Sebastian__: I think we should not because of the weird `nsubj` relation between the subject and the adverb, and instead treat such examples the same way we treat predicate ellipsis.)
+Should we also promote adverbial modifiers as in the following example? 
+
+__Sebastian__: I think we should not because of the weird `nsubj` relation between the subject and the adverb, and instead treat such examples the same way we treat predicate ellipsis.
 
 ~~~ sdparse
 Sue needs a good friend , and probably Peter , too . 
@@ -108,7 +110,9 @@ nsubj(too-11, Peter-9)
 ~~~
 
 
-Should we also promote infinitival markers as in the following example? (__Sebastian__: I think we should.)
+Should we also promote infinitival markers as in the following example? 
+
+__Sebastian__: I think we should.
 
 ~~~ sdparse
 They will do it if they want to .
@@ -198,7 +202,7 @@ dobj(buy-4, book-6)
 conj(wants-2, E8.1-9)
 nsubj(E8.1-9, Jenny-8)
 xcomp(E8.1-9, E8.2-10)
-dobj(wants-2, CD-12)
+dobj(E8.2-10, CD-12)
 ~~~ 
 
 ~~~ sdparse
@@ -215,7 +219,9 @@ In the first example, the node _E5.1_ is added for the elided predicate _like_. 
 
 __To discuss:__
 
-Should we also have a link between the null nodes and their corresponding surface forms in the sentence (e.g., linking _E5.1_ to _like_ in the first example)? (__Sebastian__: I think we should have this information somewhere. If the maintainers of a treebank actually go through all examples of predicate ellipsis to add null nodes, then it wouldn't be much more work to specify the corresponding surface form in the sentence and this information could potentially be very useful.)
+Should we also have a link between the null nodes and their corresponding surface forms in the sentence (e.g., linking _E5.1_ to _like_ in the first example)? 
+
+__Sebastian__: I think we should have this information somewhere. If the maintainers of a treebank actually go through all examples of predicate ellipsis to add null nodes, then it wouldn't be much more work to specify the corresponding surface form in the sentence and this information could potentially be very useful.
 
 
 
