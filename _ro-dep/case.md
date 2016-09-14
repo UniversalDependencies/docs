@@ -47,6 +47,6 @@ case(incredibil, de)
 
 ~~~ sdparse
 incredibil de bine \n incredibly of well
-advmod(well, incredibil)
+advmod(bine, incredibil)
 case(incredibil, de)
 ~~~
