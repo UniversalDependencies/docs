@@ -22,7 +22,7 @@ They had left the company , many for good .
 nsubj(left, They)
 dobj(left, company)
 remnant(They, many)
-nmod(good, many)
+nmod(many, good)
 ~~~
 
 In this example, _for good_ is modifying the elided _left_ of the second clause. However, as no similar modifier exists in the first clause, _for good_ cannot be attached with a _remnant_ relation and no reasonable analysis of this sentence is possible. In practice, annotators attached the extra modifier to the subject of the second clause, which incorrectly suggests that _for good_ is modifying the subject _many_.
@@ -43,7 +43,7 @@ If the head nominal is elided, we promote dependents in the following order: `am
 Examples:
 
 ~~~ sdparse
-Er kauft sich ein grünes Auto und sie kauft sich ein rotes .\nHe buys himself a green car and she buys herself a red .
+Er kauft sich ein grünes Auto und sie kauft sich ein rotes . \nHe buys himself a green car and she buys herself a red .
 
 nsubj(kauft-2, Er-1)
 det(Auto-6, ein-4)
@@ -129,7 +129,42 @@ If the head of a modifier phrase is elided, we promote if there is an `advmod` (
 
 ## Predicate ellipsis in Basic UD v2
 
+In more complicated cases where a predicate is elided but no `aux` or `cop` is present, we attach orphans to their grandparent with a composite relation of the form `headrel>orphanrel`.
 
+Example:
+
+~~~ sdparse
+I like tea and you coffee .
+
+nsubj(like-2, I-1)
+dobj(like-2, tea-3)
+conj>nsubj(like-2, you-5)
+conj>dobj(like-2, coffee-6)
+~~~ 
+
+If the grandparent is also elided, the relation is composed of all three relations and the orphan is attached to its great-grandparent. 
+
+Example:
+~~~ sdparse
+Mary wants to buy a book and Jenny a CD .
+
+nsubj(wants-2, Mary-1)
+xcomp(wants-2, buy-4)
+dobj(buy-4, book-6)
+conj>nsubj(wants-2, Jenny-8)
+conj>xcomp>dobj(wants-2, CD-10)
+~~~ 
+
+Unlike the analysis using the `remnant` relation, this proposal also allows us to analyze sentences in which the second clause contains additional modifiers.
+
+~~~ sdparse
+They had left the company , many for good .
+
+nsubj(left, They)
+dobj(left, company)
+conj>nsubj(left, many)
+conj>nmod(left, good)
+~~~
 
 ## Predicate ellipsis in Enhanced UD v2
 
