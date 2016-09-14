@@ -241,6 +241,16 @@ General differences:
   * Moreover, we cover two present-aspect combinations that may have separate morphological forms and sometimes cannot be represented by `Tense` + `Aspect` because there
     is also the lexical aspect (as in Bulgarian). We would have to redesign our scheme and add aktionsart, or use two layered aspects on one word to solve this.
     The combinations are `Tense=Imp` (imperfect tense) and `Tense=Pqp` (pluperfect).
+* `Valency`, values: `IMPRS` (impersonal), `INTR` (intransitive), `TR` (transitive), `DITR` (ditransitive), `REFL` (reflexive), `RECP` (reciprocal), `CAUS` (causative), `APPL` (applicative).
+  At present we do not have a valency feature in UD. We only have a suggestion for a language-specific feature, with only two values,
+  `Subcat=Intr` and `Subcat=Tran`, which are currently used only in UD Dutch.
+  We do account for causativity and reciprocality in the `Voice` feature.
+  We also have a boolean feature `Reflex=Yes` but most of the time we use it to mark reflexive pronouns.
+  The `Valency` feature in UniMorph captures number of arguments (arity) of the verb: e.g. the causative morpheme adds one participant (the person who is forced to do the thing).
+  The `Voice` feature in UD is more about switching roles of the participants. Obviously, the two features must interact with each other.
+* `Voice`, values: `ACT` (active, `Voice=Act`), `MID` (middle, `Voice=Mid`), `PASS` (passive, `Voice=Pass`),
+  `ANTIP` (antipassive), `DIR` (direct), `INV` (inverse),
+  `AGFOC` (agent focus), `PFOC` (patient focus), `LFOC` (location focus), `BFOC` (beneficiary focus), `ACFOC` (accompanier focus), `IFOC` (instrument focus), `CFOC` (conveyed focus).
 
 ## Stuff to check
 
