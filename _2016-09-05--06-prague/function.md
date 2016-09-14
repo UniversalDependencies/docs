@@ -7,6 +7,8 @@ title:  'Function words in UD v2'
 
 Treatment of copula constructions in the treebanks of UD v1.x is very diverse (see Table on the _status quo_ below). The main point of departure for UD v2.0 is that differences between languages in copula constructions should be motivated by real syntactic differences, not by differences in traditional grammars.
 
+<!-- TL;DR we can't make a perfect scheme, but hopefully treebanks released under v2.0 will be more consistent both crosslinguistically and in-language than v1.x -->
+
 ## General guidelines and overview
 
 If a language (e.g. Irish) has its own clear guidelines, they are in the spirit of UD, and they don't conflict, then we see no 
