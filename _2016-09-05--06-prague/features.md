@@ -231,6 +231,9 @@ General differences:
   In addition, they define simple `PSSD` (possessive but without marking features of the possessor), and also
   `ALN` for alienable and `NALN` for inalienable possession. Alienable means that the ownership can change ("my house") while inalienable means
   that it cannot change ("my back").
+* `Switch Reference`, values: `SS` (same subject), `DS` (different subject), `SSADV`, `DSADV`.
+  When there are two verbs in a row, switch-reference is morphological marking of whether they have or do not have the same subject.
+  We do not have this feature in UD.
 
 ## Stuff to check
 
