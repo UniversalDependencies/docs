@@ -17,11 +17,11 @@ The `remnant` relation turned out to be a non-optimal way for analyzing complex 
 The [current analysis](http://universaldependencies.org/u/dep/remnant.html) of elliptical constructions using the `remnant` relation does not work well when the second clause contains additional modifiers of the elided predicate.
 
 ~~~ sdparse
-They had left the company , many for good.
+They had left the company , many for good .
 
 nsubj(left, They)
 dobj(left, company)
-remnant(they, many)
+remnant(They, many)
 nmod(good, many)
 ~~~
 
