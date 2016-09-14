@@ -7,7 +7,8 @@ title:  'Features in UD v2'
 
 ## Renaming existing features and/or values
 
-* `Aspect`: values `Pro` and `Prog` are highly confusing. Rename Pro?
+* [u-feat/Aspect](): values `Pro` (prospective, used in Basque) and `Prog` (progressive, used in Basque, Turkish and Chinese) are highly confusing.
+  I propose to change the prospective value to `Aspect=Prosp`, following the label used in UniMorph.
 * Yoav has argued that `Definite=Red` is a rather weird way of marking of what is otherwise called the construct state. Any better solution?
 * `Negative` either rename to `Polarity` (and keep values `Pos` and `Neg`), or keep the name but use only one value `Yes`. Positive polarity is rarely marked morphologically, isn't it? So `Negative=Pos` probably just marks words that can take the negative morpheme but do not have it. This value is currently used in 13 treebanks.
 * TO DISCUSS: Is there a better solution than `NumType=Gen`? What is `NumType=Pers` in Irish? (Defined but not used.)
