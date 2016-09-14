@@ -18,7 +18,8 @@ However, if there are no clear guidelines, then we should follow the following p
   * This is also extended to "existential" constructions in English, with the verb as head, "There" as `expl` and the thing existing as `nsubj`.
 
 * If the copula is not present, then we have two options, the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." root>nsubj(Она) + root>nmod(деревне) The alternative is to have a new language-specific category of nsubj which would indicate that this is a specific kind of subject, or that we have some missing matter. "Она в деревне." root(деревне) + nsubj:loc(деревне,Она)
-* In languages where the copula is a verb, for verbs other than the prototypical copula (e.g. be), the argument should be `xcomp`.
+* In languages where the copula is a verb, for verbs that are sometimes called "copula" (e.g. {eng} become, {swe} bli, {spa} estar) other than the prototypical copula (e.g. {eng} be, {swe} vara, {spa} ser), the nominal complement should be `xcomp`.
+
 * We should have a way of distinguishing `nmod` when it attaches to clauses and nominals, see [core dependents](core-dependents.html)
 
 
@@ -748,18 +749,27 @@ cop(öğrenci, -yim)
 
 (3)
 ~~~ sdparse
-O öğrenci -di
+O öğrenci -ydi
 root(öğrenci)
 nsubj:cop(öğrenci, O)
 cop(öğrenci, di)
 ~~~
 
+The copula verb here can also be written separately instead of cliticised in more formal styles,
+
+~~~ sdparse
+O öğrenci idi
+root(öğrenci)
+nsubj:cop(öğrenci, O)
+cop(öğrenci, idi)
+~~~
+
 (4)
 ~~~ sdparse
-Ben öğrenci -dim.
+Ben öğrenci -ydim.
 root(öğrenci)
 nsubj:cop(öğrenci, Ben)
-cop(öğrenci, -dim)
+cop(öğrenci, -ydim)
 ~~~
 
 (5) 
@@ -804,10 +814,10 @@ nmod(-yim, evde)
 
 (10)
 ~~~ sdparse
-O evde -di
-root(-di)
-nsubj(-di, O)
-nmod(-di, evde)
+O evde -ydi
+root(-ydi)
+nsubj(-ydi, O)
+nmod(-ydi, evde)
 ~~~
 
 (11)
@@ -841,10 +851,10 @@ nmod(var, Köyde)
 
 (14)
 ~~~ sdparse
-Ev köyde -di
-root(-di)
-nsubj(-di, Ev)
-nmod(-di, köyde)
+Ev köyde -ydi
+root(-ydi)
+nsubj(-ydi, Ev)
+nmod(-ydi, köyde)
 ~~~
 
 
