@@ -30,6 +30,12 @@ Prepositions linking numerals to their nominal heads are dependents of the numer
 nummod(copii, 30)
 case(30, de)
 ~~~
+Compare this with numerals from 0 to 19 which take no preposition when modifying nouns:
+
+~~~ sdparse
+3 copii \n 3 children
+nummod(copii, 3)
+~~~
 
 Prepositions linking adverbs to their post-poned adjective or adverb heads are also `mark` on the modifying adverb:
 ~~~ sdparse
