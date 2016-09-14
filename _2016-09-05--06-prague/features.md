@@ -211,6 +211,15 @@ General differences:
     Japanese teineigo is an example of an addressee honorific system.
     `POL` (polite), `MPOL` (medium polite).
   * Speaker-Bystander Axis.
+    `AVOID` (avoidance style, taboo language = used in the presence of anyone to whom the avoidance relationship applies, e.g. mother-in-law),
+    `LOW` (low status = language used in the presence of only those having a low status),
+    `HIGH` (high status = in the presence of the secondary chief(tess)),
+    `STELV` (elevated status = in the presence of the primary chieftess),
+    `STSUPR` (supreme status = in the presence of the primary chief).
+    The neutral level is unspecified.
+  * Speaker-Setting Axis; referred to as _register_ in sociolinguistics.
+    `LIT` (literary, `Style=Form`), `FOREG` (formal register, `Style=Form`), `COL` (colloquial, `Style=Coll`).
+    We have corresponding features in the section of language-specific extensions but they are currently used only in a few treebanks (cs, da, fi).
 
 ## Stuff to check
 
