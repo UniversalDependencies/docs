@@ -4,8 +4,16 @@ title:  'Tokenization'
 permalink: tr/overview/tokenization.html
 ---
 
-# Tokenisation
-
 **This document is a work-in-progress proposal. See http://universaldependencies.org for current/accepted specification** 
 
-Word tokenisation of Kazakh is similar to the other languages written using the Cyrillic alphabet. 
+# Tokenisation
+
+The treebank is tokenised using the morphological analyser available in the `apertium-kaz` package.[1]
+
+
+
+
+
+# References 
+
+1. "Morphological analysers for three Kypchak languages"

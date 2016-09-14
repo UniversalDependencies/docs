@@ -11,6 +11,8 @@ title:  'Segmentation in UD v2'
 
 # Segmentation in UD v2
 
+<!-- Principles: be able to reproduce the segmentation -->
+
 ## Spaces as syllable delimiters 
 
 There is pretty much unanimous agreement that spaces should be allowed in the Vietnamese treebank, and tokens should be (syntactic) words and not syllables. As far as we know Vietnamese is the only language where this is necessary, but still all tools will need to be able to support having spaces in CoNLL-U columns. Consider the following example, "Minh is (a) teacher.", where <i>giáo viên</i> is a bisyllabic word meaning "teacher".
@@ -41,6 +43,8 @@ In the existing French treebank, space delimited numerals, e.g. "100 000" are co
 We do not see that this is an improvement over simply allowing the space, and the alternative (to have each 000 as a separate token and use `goeswith` or `mwe`) is unwieldy and does not exactly fit, e.g. writing 100 000 is not an orthographic error, but rather orthographically normative, and neither is it a fixed expression.
 
 ## Spaces in normalising abbreviations
+
+<!--  Sådana ämnen är t_ex alkohol , koffein , opium och kokain . -->
 
 
 ## Spaces between a syntactic word and a bound morpheme
