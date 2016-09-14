@@ -7,11 +7,26 @@ title:  'Features in UD v2'
 
 ## Renaming existing features and/or values
 
-* `Aspect`: values `Pro` and `Prog` are highly confusing. Rename Pro?
-* Yoav has argued that `Definite=Red` is a rather weird way of marking of what is otherwise called the construct state. Any better solution?
-* `Negative` either rename to `Polarity` (and keep values `Pos` and `Neg`), or keep the name but use only one value `Yes`. Positive polarity is rarely marked morphologically, isn't it? So `Negative=Pos` probably just marks words that can take the negative morpheme but do not have it. This value is currently used in 13 treebanks.
-* TO DISCUSS: Is there a better solution than `NumType=Gen`? What is `NumType=Pers` in Irish? (Defined but not used.)
-* TO DISCUSS: `VerbForm=Trans`: Transgressive is a term that comes from Slavic languages and even there it is rare (Czech and Sorbian; other Slavic languages have the form too, but do not call it transgressive). English literature on Slavic languages sometimes uses the term _gerund_ but it is absolutely confusing and unsuitable because it is similar neither in form nor in function to the form we mark `VerbForm=Ger` in English and Spanish (and BTW these are also quite different from each other, but at least Spanish has the term _gerundio_ as its own, not only as English translation). More neutral terms are adverbial participle or _converb_, so I would suggest to rename it to `VerbForm=Conv`.
+See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for related discussion.
+
+* [u-feat/Aspect](): values `Pro` (prospective, used in Basque) and `Prog` (progressive, used in Basque, Turkish and Chinese) are highly confusing.
+  I propose to change the prospective value to `Aspect=Prosp`, following the label used in UniMorph.
+* [u-feat/Negative](): current proposal – rename the feature to `Polarity` (and keep values `Pos` and `Neg`).
+  Another option would be to keep the name but use only one value `Yes` because positive polarity is rarely marked morphologically.
+  `Negative=Pos` looks weird and it probably just marks words that can take the negative morpheme but do not have it in the given form.
+  Nevertheless, `Negative=Pos` is currently used in 13 treebanks so we probably want to keep it but rename the feature to `Polarity`.
+* [u-feat/VerbForm](): rename `Trans` (transgressive) to `Conv` (converb).
+  Transgressive is a term that comes from Slavic languages and is alien to e.g. Turkish or Hindi where functionally similar forms exist.
+  It turns out that even within Slavic linguistics, the term transgressive is not widely used (the Slavic languages naturally have their
+  native terms; the translation _transgressive_, of Latin-German-English etymology, is almost unknown outside Czech, Slovak and Sorbian).
+  English literature on Slavic languages sometimes uses the term _gerund_ but it is absolutely confusing and unsuitable because it is
+  similar neither in form nor in function to the form we mark `VerbForm=Ger` in English and Spanish (and BTW these are also quite different
+  from each other, but at least Spanish has the term _gerundio_ as its own, not only as English translation).
+  More neutral terms are adverbial participle or _converb_ (Haspelmath, 1995), so I propose to relabel these forms `VerbForm=Conv`.
+* [u-feat/Definite](): rename `Red` (reduced) to `Con` (construct state); see the
+  [issue 135](http://github.com/UniversalDependencies/docs/issues/135) for related discussion.
+  Other options would be `Definite=Constr`, `Cns`, `Cnstr` etc. (or even `Construct`, but with 9 characters it would be an unusually long feature value for UD).
+* TO DISCUSS: [u-feat/NumType](): Is there a better solution than `NumType=Gen`? What is `NumType=Pers` in Irish? (Defined but not used.)
 
 ## Adding/removing values to/from existing features
 
@@ -220,6 +235,37 @@ General differences:
   * Speaker-Setting Axis; referred to as _register_ in sociolinguistics.
     `LIT` (literary, `Style=Form`), `FOREG` (formal register, `Style=Form`), `COL` (colloquial, `Style=Coll`).
     We have corresponding features in the section of language-specific extensions but they are currently used only in a few treebanks (cs, da, fi).
+* `Possession` is a templatic feature that may incorporate features of the possessor such as person and number.
+  We encode the same situation using the boolean feature `Poss=Yes`, and separate features for `Person`, `Number` etc.
+  If it is necessary to distinguish them from same-named inflectional features of the possessive word, we use layered features on the `[psor]` ("possessor") layer:
+  `Person[psor]`, `Number[psor]` etc.
+  UniMorph defines the following combinations:
+  `PSS1S` (possession by 1st person singular), `PSS2S`, `PSS2SM` (2nd person singular masculine), `PSS2SF`, `PSS2SINFM` (informal), `PSS2SFORM`,
+  `PSS3S`, `PSS3SM`, `PSS3SF`, `PSS1D`, `PSS1DI` (dual inclusive), `PSS1DE` (exclusive), `PSS2D`, `PSS2DM`, `PSS2DF`,
+  `PSS3D`, `PSS3DM`, `PSS3DF`, `PSS1P`, `PSS1PI`, `PSS1PE`, `PSS2P`, `PSS2PM`, `PSS2PF`, `PSS3P`, `PSS3PM`, `PSS3PF`.
+  In addition, they define simple `PSSD` (possessive but without marking features of the possessor), and also
+  `ALN` for alienable and `NALN` for inalienable possession. Alienable means that the ownership can change ("my house") while inalienable means
+  that it cannot change ("my back").
+* `Switch Reference`, values: `SS` (same subject), `DS` (different subject), `SSADV`, `DSADV`.
+  When there are two verbs in a row, switch-reference is morphological marking of whether they have or do not have the same subject.
+  We do not have this feature in UD.
+* `Tense`, values: `PRS` (present, `Tense=Pres`), `PST` (past, `Tense=Past`), `FUT` (future, `Tense=Fut`),
+  `IMMED` (immediate), `HOD` (hodiernal, i.e. today), `1DAY` (within one day), `RCT` (recent), `RMT` (remote).
+  * They envisage combining their features, e.g. `FUT+HOD` or `PST+RCT`.
+  * We currently only have present, past and future without the more specific values like recent and remote.
+  * Moreover, we cover two present-aspect combinations that may have separate morphological forms and sometimes cannot be represented by `Tense` + `Aspect` because there
+    is also the lexical aspect (as in Bulgarian). We would have to redesign our scheme and add aktionsart, or use two layered aspects on one word to solve this.
+    The combinations are `Tense=Imp` (imperfect tense) and `Tense=Pqp` (pluperfect).
+* `Valency`, values: `IMPRS` (impersonal), `INTR` (intransitive), `TR` (transitive), `DITR` (ditransitive), `REFL` (reflexive), `RECP` (reciprocal), `CAUS` (causative), `APPL` (applicative).
+  At present we do not have a valency feature in UD. We only have a suggestion for a language-specific feature, with only two values,
+  `Subcat=Intr` and `Subcat=Tran`, which are currently used only in UD Dutch.
+  We do account for causativity and reciprocality in the `Voice` feature.
+  We also have a boolean feature `Reflex=Yes` but most of the time we use it to mark reflexive pronouns.
+  The `Valency` feature in UniMorph captures number of arguments (arity) of the verb: e.g. the causative morpheme adds one participant (the person who is forced to do the thing).
+  The `Voice` feature in UD is more about switching roles of the participants. Obviously, the two features must interact with each other.
+* `Voice`, values: `ACT` (active, `Voice=Act`), `MID` (middle, `Voice=Mid`), `PASS` (passive, `Voice=Pass`),
+  `ANTIP` (antipassive), `DIR` (direct), `INV` (inverse),
+  `AGFOC` (agent focus), `PFOC` (patient focus), `LFOC` (location focus), `BFOC` (beneficiary focus), `ACFOC` (accompanier focus), `IFOC` (instrument focus), `CFOC` (conveyed focus).
 
 ## Stuff to check
 
@@ -266,3 +312,9 @@ We may want to standardize some of the layers but they seem to be de-facto stand
 * `Number[abs], [dat], [erg], [psed], [psor]`
 * `Person[abs], [dat], [erg], [psor]`
 * `Polite[abs], [dat], [erg]`
+
+## References
+
+* Haspelmath, Martin. 1995. The converb as a cross-linguistically valid category.
+  _Converbs in Cross-Linguistic Perspective: Structure and Meaning of Adverbial Verb Forms – Adverbial Participles, Gerunds –,_
+  edited by Martin Haspelmath and Ekkehard König, Berlin: Mouton de Gruyter, Empirical Approaches to Language Typology, 1–56.
