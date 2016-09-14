@@ -195,6 +195,22 @@ General differences:
   * Unlike us, they conflate coordinating and subordinating conjunctions in one tag `CONJ`.
     However, they have a separate tag for complementizers while we include them in `SCONJ`.
   * Like us, they distinguish `NUM`, `PART` and `INTJ`. They actually refer to us when explaining why they include these categories.
+* `Person`, values: `0`, `1`, `2`, `3`, `4`, `INCL` (inclusive _we_), `EXCL` (exclusive _we_), `PRX` (proximate), `OBV` (obviative).
+  We have only the classical 1st–3rd persons. Zero person is for impersonal statements, appears in Finnish as well as in Santa Ana Pueblo Keres.
+  The fourth person is used in some languages to describe an otherwise third-person referent that is differentiated from other third-person referents.
+  Clusivity could be encoded as a separate language-specific feature, which would be in line with UniMorph, which combines `1+INCL` or `1+EXCL`.
+* `Polarity`, values: `NEG` (negative), `POS` (positive, affirmative). We have been calling the feature `Negative(ness)` but we propose to rename it to `Polarity` in UD v2.
+* `Politeness`: ve have it only as a language-specific feature, used rarely.
+  * Speaker-Referent Axis (whether or not the referent happens to also be the addressee).
+    `INFM` (informal; the _tu_ 2nd person singular pronoun in Indo-European languages.
+    `FORM` (formal; the _vous_ 2nd person singular pronoun in Indo-European languages.
+    Sublevels of the formal level:
+    `FORM+ELEV` (referent elevating; sonkeigo forms in Japanese).
+    `FORM+HUMB` (speaker humbling; kenjougo forms in Japanese).
+  * Speaker-Addressee Axis (not referring to the addressee).
+    Japanese teineigo is an example of an addressee honorific system.
+    `POL` (polite), `MPOL` (medium polite).
+  * Speaker-Bystander Axis.
 
 ## Stuff to check
 
