@@ -741,7 +741,7 @@ In Turkish, there are two copula verbs, _i-_ and _ol-_. The "true" copula is _i-
 
 (1)
 
-In the present tense, third person singular aorist non-assumptive then there is no overt suffix for third person singular. Unlike Russian, where the copula verb does not appear in any part of the present tense paradigm, in Turkish it appears in all persons except third person. This means that it is more like the nominative case in the paradigm (which also has a -Ø suffix, than like the Russian copula).
+In the present tense, third person singular aorist non-formal then there is no overt suffix for third person singular. Unlike Russian, where the copula verb does not appear in any part of the present tense paradigm, in Turkish it appears in all persons except third person. This means that it is more like the nominative case in the paradigm (which also has a -Ø suffix, than like the Russian copula).
 
 
 In the following examples the hyphen is used to separate cliticised syntactic words.
@@ -808,7 +808,7 @@ _Example needed_
 
 (8)
 
-The lack of suffix for third person singular present tense non-assumptive means that it will look like the head of locative predicates is empty, but see argumentation about nominative above. If the parser can guess that something is nominative, it can guess that it's third person singular present tense.
+The lack of suffix for third person singular present tense non-formal means that it will look like the head of locative predicates is empty, but see argumentation about nominative above. If the parser can guess that something is nominative, it can guess that it's third person singular present tense.
 
 ~~~ sdparse
 O evde -Ø
