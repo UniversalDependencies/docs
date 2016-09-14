@@ -51,8 +51,20 @@ these actually have a future meaning.
 
 ### `Pro`: prospective aspect
 
-Used in Basque. A combination of tense and aspect that indicates the
-action is in preparation to take place.
+In general, prospective aspect can be described as relative future:
+the action is/was/will be expected to take place at a moment that
+follows the reference point; the reference point itself can be
+in past, present or future.
+In the English sentence
+_When I got home yesterday, John called and said he would arrive soon,_
+the last clause _(he would arrive soon)_ is in prospective aspect.
+Nevertheless, English does not have overt affixal morphemes dedicated
+to the prospective aspect, and we do not need the label in English.
+But other languages do; the _-ko_ suffix in Basque is an example.
+
+#### Examples
+
+* [eu] _Liburua <b>irakurriko</b> behar du._ lit. _book-a read-Prosp must AUX_ "He must go to read a book."
 
 ### `Prog`: progressive aspect
 

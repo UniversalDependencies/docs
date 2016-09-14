@@ -43,6 +43,8 @@ subj(ұзын-2, Шашы-1)
 punct(көрдім-4, .-5)
 ~~~
 
+<!-- TODO: Do we put a copula here between ұзын and қызды -->
+
 Conditional phrases with 'болса':
 
 ~~~ sdparse 

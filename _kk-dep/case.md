@@ -38,3 +38,5 @@ aux(басып-5, жүр-6)
 punct(басып-5, .-7)
 ~~~
 
+<!-- TODO: @case with verbal nouns -->
+
