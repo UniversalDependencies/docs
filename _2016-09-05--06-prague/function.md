@@ -27,25 +27,25 @@ However, if there are no clear guidelines, then we should follow the following p
 
 For the purposes of demonstrating the new classification system a number of examples have been prepared for a range of UD languages. The examples are in English, but where they are ambiguous in a given language both variants will be given.
 
-01) She is a student
-02) I am a student
-03) She was a student
-04) I was a student
-05) She is happy
-06) I am happy
-07) She is in shape
-08) She is in the house
-09) I am in the house
-10) She was in the house
-11) There is a house in the village
-12) The house is in the village
-13) There was a house in the village
-14) The house was in the village
+01. She is a student
+02. I am a student
+03. She was a student
+04. I was a student
+05. She is happy
+06. I am happy
+07. She is in shape
+08. She is in the house
+09. I am in the house
+10. She was in the house
+11. There is a house in the village
+12. The house is in the village
+13. There was a house in the village
+14. The house was in the village
 
 These are examples where both sides are nominals, but they could be extended to clausals, e.g. 
 
-15) To be free is to be capable of thinking one's own thoughts
-16) This period is when Aristotle is believed to have lived 
+15. To be free is to be capable of thinking one's own thoughts
+16. This period is when Aristotle is believed to have lived 
 
 The analysis of (15) will follow (05) and (06), while the analysis of (16) will follow (12).
 
