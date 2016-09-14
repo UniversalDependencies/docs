@@ -35,7 +35,32 @@ What to do if there is "zero copula":
   1. the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." `root>nsubj(Она)`, `root>nmod(деревне)` 
   2. Use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
 
-For clausal arguments of copulas we propose using the same classification scheme.
+What to do with clausal arguments:
+
+* When a copula clause is used as a subject of another copula, it should be receive the relation `csubj:cop`. For example in the sentence: "Being well-informed will give you certainty." `csubj:cop(give, well-informed)`, `cop(well-informed, Being)`
+
+<!--
+
+Being well-informed will give you certainty .
+
+Трудно быть богом . 
+
+To be free is to be capable of thinking one's own thoughts .
+
+The main thing is that the device works . 
+
+This period in Athens , between 335 and 400 , is when Aristotle is believed to have lived .
+
+This was to be the second time Athens would host the games
+
+Most of the focus was on developing the economy
+
+His primary interest was in applying the methodology
+
+The expulsion was for hitting a professor
+
+-->
+
 
 ### Notes 
 
