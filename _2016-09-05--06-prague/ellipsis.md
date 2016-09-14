@@ -43,8 +43,7 @@ If the head nominal is elided, we promote dependents in the following order: `am
 Examples:
 
 ~~~ sdparse
-Er kauft sich ein grünes Auto und sie kauft sich ein rotes .\n
-He buys himself a green car and she buys herself a red .
+Er kauft sich ein grünes Auto und sie kauft sich ein rotes .\nHe buys himself a green car and she buys herself a red .
 
 nsubj(kauft-2, Er-1)
 det(Auto-6, ein-4)
@@ -77,8 +76,60 @@ conj(saw-2, saw-7)
 dobj(saw-7, two-8)
 ~~~
 
+### Clauses
+
+If the main predicate is elided, we promote only if there is an `aux` or `cop` (or possibly `advmod` and `mark` in the form of infinitival markers).
+
+Example:
+
+~~~ sdparse
+Sue likes pasta and Peter does , too . 
+
+nsubj(likes-2, Sue-1)
+dobj(likes-2, pasta-3)
+conj(likes-2, does-6)
+nsubj(does-6, Peter-9)
+advmod(does-6, too-8)
+~~~
+
+
+__Open questions:__
+
+Should we also promote adverbial modifiers as in the following example? (__Sebastian__: I think we should not because of the weird `nsubj` relation between the subject and the adverb, and instead treat such examples the same way we treat predicate ellipsis.)
+
+~~~ sdparse
+Sue needs a good friend , and probably Peter , too . 
+
+nsubj(needs-2, Sue-1)
+dobj(needs-2, friend-5)
+conj(needs-2, too-11)
+advmod(too-11, probably-8)
+nsubj(too-11, Peter-9)
+~~~
+
+
+Should we also promote infinitival markers as in the following example? (__Sebastian__: I think we should.)
+
+~~~ sdparse
+They will do it if they want to .
+
+nsubj(will-2, They-1)
+aux(do-3, will-2)
+dobj(it-4, do-3)
+advcl(want-7, they-6)
+xcomp(want-7, to-8)
+~~~
+
+
+### Modifiers
+
+If the head of a modifier phrase is elided, we promote if there is an `advmod` (or equivalent).
+
+@Joakim: Did you have an example in mind when you wrote that? I couldn't think of one in English or German.
 
 ## Predicate ellipsis in Basic UD v2
+
+
 
 ## Predicate ellipsis in Enhanced UD v2
 
