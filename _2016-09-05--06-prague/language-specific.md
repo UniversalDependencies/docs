@@ -41,7 +41,7 @@ Tentative proposal:
 
 * Features that do not apply primarily to a word in itself but to a phrase headed by the word or to the dependency going into the word can be added to the FEATS field. Such features should have a name that starts with the character "~", which will indicate that they are not morphological features of the word and make sure that they are alphabetically sorted after all the morphological features. Candidates for such features are: 
 
- * **~Mood** - sentence mood like **Decl**, **Interr** or **Imper**, indicated on the main predicate
- * **~MWEPos** - part-of-speech category of a fixed MWE, indicated on the pseudo-head
- * **~Definite** - definiteness for noun phrases in languages where this is a holistic property of the phrase, indicated on the head noun
+  * **~Mood** - sentence mood like **Decl**, **Interr** or **Imper**, indicated on the main predicate
+  * **~MWEPos** - part-of-speech category of a fixed MWE, indicated on the pseudo-head
+  * **~Definite** - definiteness for noun phrases in languages where this is a holistic property of the phrase, indicated on the head noun
 
