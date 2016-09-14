@@ -3,23 +3,22 @@ layout: base
 title:  'Function words in UD v2'
 ---
 
-# Function words in UD v2
+# Copula in UD v2
 
+Treatment of copula constructions in the treebanks of UD v1.x is very diverse (see Table on the _status quo_ below). The main point of departure for UD v2.0 is that differences between languages in copula constructions should be motivated by real syntactic differences, not by differences in traditional grammars.
 
 ## General guidelines
 
 However, if there are no clear guidelines, then we should follow the following principles:
 
-* There should be only one copula in a language. In languages such as those of the Iberian Romance group, Basque etc. where there is a "state" copula and "essence" copula, then the state one should get the `cop` relation. This will cause minor between group differences, between e.g. Spanish and Catalan ({spa} _Ella está en Barcelona_, {cat} _Ella és a Barcelona_), but these show real differences. However, if the copula is defective and is filled with different verbs in different tenses (e.g. Turkish, Kazakh), this is fine.
+* There should be only one copula in a language. In languages such as those of the Iberian Romance group, Basque etc. where there is a "state" copula and "essence" copula, then the __essence__ one should get the `cop` relation. This will cause minor between group differences, between e.g. Spanish and Catalan ({spa} _Ella está en Barcelona_, {cat} _Ella és a Barcelona_), but these show real differences. However, if the copula is defective and is filled with different verbs in different tenses (e.g. Turkish, Kazakh), this is fine.
   * Subjects of copulas should receive a special label, either `nsubjcop` or `nsubj:cop`. This has several benefits, including solving the problem of double subjects. "My baking cakes is your making soup."
-* In general, with the meaning `is of type` or `has quality`, we have the type/quality as the head and the copula as the dependent.
+* In general, with the meaning `is of type` (where `type` is typically an NP) or `has quality` (where `quality` is typically an AP), we have the type/quality as the head and the copula as the dependent.
   * For languages without state/essence distinction, then there is inherent ambiguity with being "X" and being in a state of "X", this is most clear with PPs, where "She is on the ball" will have different meaning if it's state or essence, consider "She is really on the ball".
-* If it isn't `is of type` or `has quality`, such as with most PPs in English, and case-marked nouns in Finnish then we have the verb as head, and the subject is with `nsubj`.
+* If it isn't `is of type` or `has quality`, such as with most PPs and adverbials in English, and case-marked nouns in Finnish then we have the verb as head, and the subject is with `nsubj`. One reason to have the verb as the head is the difficulty of establishing the root in sentences with multiple adverbials, e.g. "She is in Prague with her friends".
   * This is also extended to "existential" constructions in English, with the verb as head, "There" as `expl` and the thing existing as `nsubj`.
-
-* If the copula is not present, then we have two options, the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." root>nsubj(Она) + root>nmod(деревне) The alternative is to have a new language-specific category of nsubj which would indicate that this is a specific kind of subject, or that we have some missing matter. "Она в деревне." root(деревне) + nsubj:loc(деревне,Она)
+* If the copula is not present, then we have two options, the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." root>nsubj(Она) + root>nmod(деревне) The alternative is to use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
 * In languages where the copula is a verb, for verbs that are sometimes called "copula" (e.g. {eng} become, {swe} bli, {spa} estar) other than the prototypical copula (e.g. {eng} be, {swe} vara, {spa} ser), the nominal complement should be `xcomp`.
-
 * We should have a way of distinguishing `nmod` when it attaches to clauses and nominals, see [core dependents](core-dependents.html)
 
 
@@ -46,8 +45,10 @@ These are examples where both sides are nominals, but they could be extended to 
 
 15. To be free is to be capable of thinking one's own thoughts
 16. This period is when Aristotle is believed to have lived 
+17. The problem is that this has never been tried
+18. The important thing is to keep calm
 
-The analysis of (15) will follow (05) and (06), while the analysis of (16) will follow (12).
+The analysis of (15) will follow (05) and (06), the analysis of (16) will follow (12) and the analysis of (17) and (18) will follow (01).
 
 
 ### English
@@ -860,7 +861,7 @@ nmod(-ydi, köyde)
 
 ### Irish
 
-Irish has a difference between a _copula_ verb "is" and what is called a substantive verb "bí". Only the copula verb receives the `cop` relation. The substantive verb is head and takes an argument with `xcomp`.
+Irish has a difference between a _copula_ verb "is" and what is called a substantive verb "bí". Only the copula verb receives the `cop` relation. The substantive verb is head and takes an argument with `xcomp`. Teresa's (http://www.nclt.dcu.ie/~tlynn/Teresa_PhDThesis_final.pdf)[thesis] has an in depth description of the treatment of the copula in Irish.
 
 (1)
 
@@ -869,21 +870,23 @@ Irish has a difference between a _copula_ verb "is" and what is called a substan
 (3)
 ~~~ sdparse
 Ba dhalta í
-
+root(dhalta)
+cop(dhalta, Ba)
 ~~~
 
 ~~~ sdparse
-Bhí sí ina dalta .
-
+Bhí sí ina dalta 
+root(Bhí)
+xcomp:pred(Bhí, dalta)
 ~~~
 
 (4)
 
-Not applicable.
+_Not applicable._
 
 (5) 
 
-Not applicable.
+_Not applicable._
 
 (6)
 
@@ -953,6 +956,13 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 
 ## Further reading
 
-* Leon Stassen (2003) "Intransitive predication" (Oxford: OUP)
+For wider cross-linguistic applicability, it is well worth looking at the following book:
 
+* Stassen, L. (2003), Intransitive predication. Oxford: OUP
+
+The following publications have also been cited:
+
+* Hengeveld, K. (1992), Non-verbal Predication. Berlin & NewYork: Mouton de Gruyter.
+* Katz, A. (1996) Cyclical Grammaticalization and the Cognitive Link between Pronoun and Copula. PhD Thesis, Rice University.
+* Pustet, R. (2003), Copulas. Universals in the Categorization of the Lexicon. Oxford: OUP.
 
