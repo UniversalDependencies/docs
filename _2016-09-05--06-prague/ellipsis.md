@@ -93,7 +93,7 @@ advmod(does-6, too-8)
 ~~~
 
 
-__Open questions:__
+__To discuss:__
 
 Should we also promote adverbial modifiers as in the following example? (__Sebastian__: I think we should not because of the weird `nsubj` relation between the subject and the adverb, and instead treat such examples the same way we treat predicate ellipsis.)
 
@@ -116,20 +116,26 @@ They will do it if they want to .
 nsubj(will-2, They-1)
 aux(do-3, will-2)
 dobj(it-4, do-3)
-advcl(want-7, they-6)
+advcl(do-3, want-7)
+nsubj(want-7, they-6)
 xcomp(want-7, to-8)
 ~~~
 
 
-### Modifiers
+## Predicate ellipsis in _Basic_ UD v2
 
-If the head of a modifier phrase is elided, we promote if there is an `advmod` (or equivalent).
+In more complicated cases where a predicate is elided but no `aux` or `cop` is present, promotion would lead to very unnatural and confusing relations. For example, in the following sentence, _you_ would be the subject of _coffee_, suggesting that the second clause contains a copular construction rather than an elided predicate.
 
-@Joakim: Did you have an example in mind when you wrote that? I couldn't think of one in English or German.
+~~~ sdparse
+I like tea and you coffee .
 
-## Predicate ellipsis in Basic UD v2
+nsubj(like-2, I-1)
+dobj(like-2, tea-3)
+nsubj(coffee-6, you-5)
+conj(like-2, coffee-6)
+~~~ 
 
-In more complicated cases where a predicate is elided but no `aux` or `cop` is present, we attach orphans to their grandparent with a composite relation of the form `headrel>orphanrel`.
+We therefore propose to attach orphans to their grandparent with a composite relation of the form `headrel>orphanrel`.
 
 Example:
 
@@ -145,6 +151,7 @@ conj>dobj(like-2, coffee-6)
 If the grandparent is also elided, the relation is composed of all three relations and the orphan is attached to its great-grandparent. 
 
 Example:
+
 ~~~ sdparse
 Mary wants to buy a book and Jenny a CD .
 
@@ -166,5 +173,51 @@ conj>nsubj(left, many)
 conj>nmod(left, good)
 ~~~
 
-## Predicate ellipsis in Enhanced UD v2
+## Predicate ellipsis in _Enhanced_ UD v2
+
+While we hold on to the principle that _basic_ UD trees have to be strict surface syntax trees, we propose to relax this requirement in the _enhanced_ representation and to allow special null nodes for sentences with elided predicates. These nodes have special word indices of the form _a.b_, where _a_ is the index of the token that would precede the elided word and _b_ is a counter. (See also the description of the [proposed changes](conll-u.html) to the CoNLL-U file format.) Whenever the _basic_ representation contains a composite relation, the _enhanced_ representation contains additional null nodes to resolve all composite relations into simple relations.
+
+For example, the sentences from the previous section are analyzed as following in the _enhanced_ representation. (The special null nodes are labelled with _Ea.b_ .) 
+
+~~~ sdparse
+I like tea and you E5.1 coffee .
+
+nsubj(like-2, I-1)
+dobj(like-2, tea-3)
+nsubj(E5.1-6, you-5)
+conj(like-2, E5.1-6)
+dobj(E5.1-6, coffee-7)
+~~~ 
+
+~~~ sdparse
+Mary wants to buy a book and Jenny E8.1 E8.2 a CD .
+
+nsubj(wants-2, Mary-1)
+xcomp(wants-2, buy-4)
+dobj(buy-4, book-6)
+conj(wants-2, E8.1-9)
+nsubj(E8.1-9, Jenny-8)
+xcomp(E8.1-9, E8.2-10)
+dobj(wants-2, CD-12)
+~~~ 
+
+~~~ sdparse
+They had left the company , many E7.1 for good .
+
+nsubj(left, They)
+dobj(left, company)
+conj>nsubj(left, many)
+conj>nmod(left, good)
+~~~
+
+
+In the first example, the node _E5.1_ is added for the elided predicate _like_. In the second example, we add one node for the elided matrix verb _wants_ (_E8.1_) and one node for the elided embedded verb _buy_ (_E8.2_). As the elided marker _to_ does not have any dependents, we do not add a null node for it. 
+
+__To discuss:__
+
+Should we also have a link between the null nodes and their corresponding surface forms in the sentence (e.g., linking _E5.1_ to _like_ in the first example)? (__Sebastian__: I think we should have this information somewhere. If the maintainers of a treebank actually go through all examples of predicate ellipsis to add null nodes, then it wouldn't be much more work to specify the corresponding surface form in the sentence and this information could potentially be very useful.)
+
+
+
+
 
