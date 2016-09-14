@@ -45,6 +45,9 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * Add `Definite=Spec` (specific indefinite, e.g. "a certain stick"). Occurs e.g. in Lakota, proposed in UniMorph. In languages where it is used
     the value `Ind` is interpreted as non-specific indefinite, i.e. "any (one) stick".
 * [u-feat/Number]()
+  * Add `Number=Count` from Bulgarian (and Macedonian). It is known variously as "counting form", "count plural" or "quantitative plural" (Sussex and Cubberley 2006, p. 324).
+    It is a special plural form of nouns if they occur after numerals: _tri stola_ "three chairs" vs. _stolove_ "chairs".
+    (The form originates in the Proto-Slavic dual but it should not be marked `Number=Dual` because 1. the dual vanished from Bulgarian and 2. the form is no longer semantically tied to the number two.)
   * Add `Number=Tri` (trial). Occurs in pronouns of several Austronesian languages; proposed in UniMorph.
   * Add `Number=Pauc` (paucal, means "a few"). Proposed in UniMorph.
   * Add `Number=Grpa` (greater paucal, means "more than several but not many"). Occurs in Sursurunga, an Austronesian language. Proposed in UniMorph.
@@ -98,7 +101,6 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * Do not add sequences of voice markings, which are currently used in Turkish and may be needed in other agglutinating languages. Leave them language-specific.
     [tr] CauPass.
 * TO DISCUSS: `Definite=2` in Hungarian. Description: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite). Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am watching a film”) and a second person object (_nézlek téged_ “I am watching you”). So `Definite=2` is actually not about definiteness proper, maybe it should be `Person[obj]`. Perhaps we should leave this value specific to Hungarian.
-* TO DISCUSS: `Number=Count` in Bulgarian.
 * TO DISCUSS: `PronType=Clit` (it), Emp (ro), Exc (it), Ord (it), Predet (it)
 * TO DISCUSS: should we add `Person=0` and `4` from UniMorph?
 
@@ -380,4 +382,5 @@ We may want to standardize some of the layers but they seem to be de-facto stand
 * Haspelmath, Martin. 1995. The converb as a cross-linguistically valid category.
   _Converbs in Cross-Linguistic Perspective: Structure and Meaning of Adverbial Verb Forms – Adverbial Participles, Gerunds –,_
   edited by Martin Haspelmath and Ekkehard König, Berlin: Mouton de Gruyter, Empirical Approaches to Language Typology, 1–56.
-* Jaklin Kornfilt. _Turkish._ London and New York: Routledge, 1997.
+* Kornfilt, Jaklin. _Turkish._ London and New York: Routledge, 1997.
+* Sussex, Roland and Cubberley, Paul. 2006. The Slavic Languages. Cambridge University Press.
