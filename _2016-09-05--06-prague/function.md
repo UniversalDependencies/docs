@@ -12,13 +12,13 @@ Treatment of copula constructions in the treebanks of UD v1.x is very diverse (s
 If a language (e.g. Irish) has its own clear guidelines, they are in the spirit of UD, and they don't conflict, then we see no 
 reason to change them. However, if there are no clear guidelines, then we should follow the following principles:
 
-* There should be only one copula in a language. In languages such as those of the Iberian Romance group, Basque etc. where there is a "state" copula and "essence" copula, then the __essence__ one should get the `cop` relation. This will cause minor between group differences, between e.g. Spanish and Catalan ({spa} _Ella está en Barcelona_, {cat} _Ella és a Barcelona_), but these show real differences. However, if the copula is defective and is filled with different stems in different tenses (e.g. Turkish, Kazakh), this is fine.
+* There should be only one copula in a language. In languages such as those of the Iberian Romance group, Basque etc. where there is a "state" copula and "essence" copula, then the __essence__ one should get the `cop` relation. However, if the copula is defective and is filled with different stems in different tenses (e.g. Turkish, Kazakh), this is fine.
   * Subjects of copulas should receive a special label, either `nsubjcop` or `nsubj:cop`. This has several benefits, including solving the problem of double subjects. "My baking cakes is your making soup."
 * In general, with the meaning `is of type` (where `type` is typically an NP) or `has quality` (where `quality` is typically an AP), we have the type/quality as the head and the copula as the dependent.
   * For languages without state/essence distinction, then there is inherent ambiguity with being "X" and being in a state of "X", this is most clear with PPs, where "She is on the ball" will have different meaning if it's state or essence, consider "She is really on the ball".
 * If it isn't `is of type` or `has quality`, such as with most PPs and adverbials in English, and case-marked nouns in Finnish then we have the verb as head, and the subject is with `nsubj`. One reason to have the verb as the head is the difficulty of establishing the root in sentences with multiple adverbials/PPs, e.g. "She is in Prague today with her friends on a school trip".
   * This is also extended to "existential" constructions in English, with the verb as head, "There" as `expl` and the thing existing as `nsubj`.
-* If the copula is not present, then we have two options, the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." root>nsubj(Она) + root>nmod(деревне) The alternative is to use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
+* If the copula is not present, then we have two options, the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." `root>nsubj(Она)`, `root>nmod(деревне)` The alternative is to use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
 * In languages where the copula is a verb, for verbs that are sometimes called "copula" (e.g. {eng} _become_, {swe} _bli_, {spa} _estar_) other than the prototypical copula (e.g. {eng} _be_, {swe} _vara_, {spa} _ser_), the nominal complement should be `xcomp`.
 * We should have a way of distinguishing `nmod` when it attaches to clauses and nominals, see [core dependents](core-dependents.html)
 
@@ -392,6 +392,15 @@ Ella está en la casa
 root(está)
 nsubj(está, Ella)
 nmod(está, casa)
+~~~
+
+Note that in Catalan, this would be "Ella és a la casa", using the _ser_ verb, not the _estar_ verb. This would be analysed as:
+
+~~~ sdparse
+Ella és a la casa
+root(és)
+nsubj(és, Ella)
+nmod(és, casa)
 ~~~
 
 (9)
