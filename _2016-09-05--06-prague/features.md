@@ -7,6 +7,8 @@ title:  'Features in UD v2'
 
 ## Renaming existing features and/or values
 
+See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for related discussion.
+
 * [u-feat/Aspect](): values `Pro` (prospective, used in Basque) and `Prog` (progressive, used in Basque, Turkish and Chinese) are highly confusing.
   I propose to change the prospective value to `Aspect=Prosp`, following the label used in UniMorph.
 * [u-feat/Negative](): current proposal – rename the feature to `Polarity` (and keep values `Pos` and `Neg`).
@@ -17,7 +19,7 @@ title:  'Features in UD v2'
   Transgressive is a term that comes from Slavic languages and is alien to e.g. Turkish or Hindi where functionally similar forms exist.
   It turns out that even within Slavic linguistics, the term transgressive is not widely used (the Slavic languages naturally have their
   native terms; the translation _transgressive_, of Latin-German-English etymology, is almost unknown outside Czech, Slovak and Sorbian).
-  English literature on Slavic languages sometimes uses the term _gerund_ but it is absolutely confusing and unsuitable because the it is
+  English literature on Slavic languages sometimes uses the term _gerund_ but it is absolutely confusing and unsuitable because it is
   similar neither in form nor in function to the form we mark `VerbForm=Ger` in English and Spanish (and BTW these are also quite different
   from each other, but at least Spanish has the term _gerundio_ as its own, not only as English translation).
   More neutral terms are adverbial participle or _converb_ (Haspelmath, 1995), so I propose to relabel these forms `VerbForm=Conv`.
