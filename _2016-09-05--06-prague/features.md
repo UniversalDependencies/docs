@@ -30,22 +30,77 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
 
 ## Adding/removing values to/from existing features
 
-* TO DISCUSS: `Aspect`: DurPerf (tr), DurPerfProg (tr), DurProg (tr), Freq (hu), ProgRapid (tr), Rapid (tr), Res (cu)
-* TO DISCUSS: Chinese "cases" Advb, Comp, Rel
-* What is `Case=Equ` in Turkish? It is [not documented](../tr/feat/Case.html), yet it occurs in the data.
+* [u-feat/Case]()
+  * Add `Case=Equ` (equative, means "X-like", "similar to X", "same as X"). It is already used in UD Turkish and it is also proposed in UniMorph.
+  * Add `Case=Cmp` (comparative, means "than X"). It occurs in Dravidian and Northeast-Caucasian languages; it is proposed in UniMorph.
+  * Add `Case=Avr` (aversive, means "fearing X"). It is proposed in UniMorph. TO DO: where does it occur?
+  * TO DISCUSS: Add `Case=Prp` (proprietive, means "having X", it is a positive counterpart of abessive). It occurs in Australian languages; it is proposed in UniMorph.
+    But comitative is another case that could be viewed as counterpart of abessive. Can we conflate proprietive with comitative or do we have to distinguish them?
+  * TO DISCUSS: Chinese "cases" Advb, Comp, Rel.
+* [u-feat/Degree]()
+  * Add `Degree=Equ` (equative, means "as X as"; note that it marks the adjective and it is distinct from the equative case, which marks
+    the standard of comparison). One of the examples in UniMorph is Estonian _<b>pikkune</b> (pikkus+ne)_ "as tall as".
+    UD Estonian contains 6 occurrences of _pikkune_ but it does not define equative as a language-specific feature; it uses simply `Degree=Pos` here.
+* [u-feat/Definite]()
+  * Add `Definite=Spec` (specific indefinite, e.g. "a certain stick"). Occurs e.g. in Lakota, proposed in UniMorph. In languages where it is used
+    the value `Ind` is interpreted as non-specific indefinite, i.e. "any (one) stick".
+* [u-feat/Number]()
+  * Add `Number=Tri` (trial). Occurs in pronouns of several Austronesian languages; proposed in UniMorph.
+  * Add `Number=Pauc` (paucal, means "a few"). Proposed in UniMorph.
+  * Add `Number=Grpa` (greater paucal, means "more than several but not many"). Occurs in Sursurunga, an Austronesian language. Proposed in UniMorph.
+  * Add `Number=Grpl` (greater plural, means "many, all possible"; precise semantics varies across languages). Proposed in UniMorph.
+  * Add `Number=Inv` (inverse number, i.e. non-default for that particular noun). Occurs e.g. in Kiowa. Proposed in UniMorph.
+* [u-feat/VerbForm]()
+  * Add `VerbForm=Gdv` (gerundive, not gerund) in Latin and Ancient Greek.
+  * TO DISCUSS: `VerbForm=PartFut|PartPast|PartPres` in Hungarian. Couldn't these be two features, `VerbForm=Part` and `Tense=Fut`?
+  * TO DISCUSS: `VerbForm=Cop` in Irish. Copula?
+  * TO DISCUSS: `VerbForm=Stem` currently only one occurrence in Swedish. Verb stems also occur regularly in Hindi but they have the function of adverbial participles (converbs, transgressives) there.
+* [u-feat/Mood]()
+  * Add `Mood=Pur` (purposive, means "in order to"). Occurs in Amazonian languages; proposed in UniMorph.
+  * TO DISCUSS: Add `Mood=Int` (intentive, indicates that the speaker strongly intents for the action of the verb to be realized). Occurs in Tonkawa; proposed in UniMorph.
+  * TO DISCUSS: `Mood=Int` in Irish (what does it mean? Interrogative?)
+  * TO DISCUSS: `Mood=Inter` in Chinese (what does it mean?)
+  * Add `Mood=Adm` (admirative; expresses surprise, irony or doubt). Occurs in Albanian, other Balkan languages, and in Caddo (Native American from Oklahoma). Proposed in UniMorph.
+  * TO DISCUSS: Add `Mood=Per` (permissive; means "may, is permitted").
+  * TO DISCUSS: Add `Mood=Ded` (deductive, inferential, speculative; means "[I believe that it] ought to, must be").
+  * TO DISCUSS: Add `Mood=Sim` (simulative, means "as if").
+  * Do not add `Mood=Abil`, which is currently used in UD Turkish. The Turkish data should use `Mood=Pot` (potential) instead.
+  * Do not add sequences of mood markings, which are currently used in Turkish and may be needed in other agglutinating languages. Leave them language-specific.
+    [tr] AbilCnd, AbilDes, AbilGen, AbilGenNec, AbilImp, AbilNec, AbilPrs (all of these should start with Pot instead of Abil), GenNec.
+  * TO DISCUSS: `Mood=Prs` (persuasive) in Turkish. Reportedly similar in meaning to imperative, but tries to persuade the addressee rather than issuing a direct command.
+* [u-feat/Tense]()
+  * Do not add `Tense=Aor` (aorist), despite its current usage in Ancient Greek and Turkish.
+    It is a confusing term with different meaning in grammars of different languages.
+    In Slavic languages we use normal `Tense=Past` to denote aorist.
+    In Turkish it is the unmarked non-past form.
+  * Do not add sequences of tense markings, which are currently used in Turkish and may be needed in other agglutinating languages. Leave them language-specific.
+    [tr] AorPast, FutPast.
+  * Remove `Tense=Nar`. It has not been used anywhere yet. In Turkish, for which it was intended, the renarrative past is encoded as
+    `Evidentiality=Nfh|Tense=Past`. And we are proposing to adopt evidentiality as a new universal feature.
+* [u-feat/Aspect]()
+  * TO DISCUSS: Add `Aspect=Freq` (frequentative) from Hungarian, or rename it to `Aspect=Iter` (iterative) as in UniMorph: _üt – ütöget_ ("hit – hit several times").
+  * TO DISCUSS: Add `Aspect=Hab` (habitual)? Proposed in UniMorph and in Turkish documentation but not used in current Turkish data.
+  * TO DISCUSS: Add `Aspect=Rapid`? Used in UD Turkish, suffix _-iver,_ Kornfilt (1995, p.361) calls this rapid or sudden aspect.
+  * TO DISCUSS: Add `Aspect=Dur`? Proposed in Turkish documentation but in the data it appears only as the first part of morpheme sequences DurPerf, DurPerfProg and DurProg.
+  * Do not add `Aspect=Res` (resultative) from Old Church Slavonic. It is used there for forms that are arguably `Aspect=Perf`.
+    And it should not be used to mark a particular form because in Slavic languages aspect is primarily a lexical feature (perfective vs. imperfective lemmas).
+  * Do not add sequences of aspect markings, which are currently used in Turkish and may be needed in other agglutinating languages. Leave them language-specific.
+    [tr] DurPerf, DurPerfProg, DurProg, ProgRapid.
+* [u-feat/Voice]()
+  * Add `Voice=Mid` (middle voice), currently used in fo, grc, grc_proiel, sa.
+  * Add `Voice=Antip` (antipassive): in ergative-absolutive languages, an ergative subject is demoted to an absolutive subject. Proposed in UniMorph.
+  * Add `Voice=Dir` (direct). Used in direct-inverse voice systems, e.g. in North American languages. Proposed in UniMorph.
+    Direct means that the argument that is higher in salience hierarchy is the subject.
+    Example hierarchy: human 1st person – 2nd – 3rd – non-human animate – inanimate.
+  * Add `Voice=Inv` (inverse). Used in direct-inverse voice systems, e.g. in North American languages. Proposed in UniMorph.
+    Inverse voice marking means that the argument lower in the hierarchy functions as subject.
+  * TO DISCUSS: `Voice=Auto` (ga).
+  * Do not add sequences of voice markings, which are currently used in Turkish and may be needed in other agglutinating languages. Leave them language-specific.
+    [tr] CauPass.
 * TO DISCUSS: `Definite=2` in Hungarian. Description: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite). Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am watching a film”) and a second person object (_nézlek téged_ “I am watching you”). So `Definite=2` is actually not about definiteness proper, maybe it should be `Person[obj]`. Perhaps we should leave this value specific to Hungarian.
-* TO DISCUSS: `Mood`: Abil (tr), AbilCnd (tr), AbilDes (tr), AbilGen (tr), AbilGenNec (tr), AbilImp (tr), AbilNec (tr), AbilPrs (defined for tr but not used), Gen (tr), Gen-Nec (defined but not used; hyphen!!!), GenNec (tr), Int (ga), Inter (zh), Prs (tr)
 * TO DISCUSS: `Number=Count` in Bulgarian.
 * TO DISCUSS: `PronType=Clit` (it), Emp (ro), Exc (it), Ord (it), Predet (it)
-* TO DISCUSS: `Tense`: do we really need a value for aorist? The term is used in Slavic grammars but we can use the normal `Past` for it there, and I am afraid that if aorist is a universally available value, it won't be clear how it differs from simple past. However, grc and tr seem to have both `Aor` and `Past`. Turkish has `AorPast` and `FutPast` in addition.
-* TO DISCUSS: `VerbForm=Cop` in Irish. Copula?
-* `VerbForm=Gdv` (gerundive, not gerund) in Latin and Ancient Greek.
-* TO DISCUSS: `VerbForm=PartFut|PartPast|PartPres` in Hungarian. Couldn't these be two features, `VerbForm=Part` and `Tense=Fut`?
-* TO DISCUSS: `VerbForm=Stem` currently only one occurrence in Swedish. Verb stems also occur regularly in Hindi but they have the function of adverbial participles (converbs, transgressives) there.
-* TO DISCUSS: `Voice=Auto` (ga), CauPass (tr)
-* `Voice=Mid` middle voice, currently used in fo, grc, grc_proiel, sa.
-* Remove `Tense=Nar`. It has not been used anywhere yet. In Turkish, for which it was intended, the renarrative past is encoded as
-  `Evidentiality=Nfh|Tense=Past`. And we are proposing to adopt evidentiality as a new universal feature.
+* TO DISCUSS: should we add `Person=0` and `4` from UniMorph?
 
 ## Adding new features
 
@@ -56,6 +111,11 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
 * TO DISCUSS: `PartType`: is it particle or participle? Currently used in ga, da, nl, ro.
 * TO DISCUSS: `Polite` is used in 9 treebanks: ca, da, de, es, es_ancora, eu, hi, sa, ta. Turkish has `Register` which may be the same thing.
 * TO DISCUSS: `Strength` (of adjectives): cu, got, ro. In cu, it is used for the long vs. short Slavic adjectives, for which elsewhere `Variant=Short|Long` is used.
+* TO DISCUSS: `Inter(rogativity)` as in UniMorph?
+  * Other moods that are used in UD Turkish: `Abil`, `AbilCnd`, `AbilDes`, `AbilGen`, `AbilGenNec`, `AbilImp`, `AbilNec`, `AbilPrs`,
+    `Gen`, `GenNec`, `Prs`. The `Abil` should probably be replaced by the universal feature `Mood=Pot` (potential).
+    `Prs` means persuasive, reportedly related to imperative but different in that we try to persuade the addressee to do something instead of just commanding.
+  * We currently lack values for purposive, intentive, admirative, permissive, deductive and simulative, and we may want to add them.
 
 ## Comparison with UniMorph
 
@@ -81,7 +141,9 @@ General differences:
 * `Aktionsart`, values: `STAT` (stative), `DYN` (dynamic), `TEL` (telic), `ATEL` (atelic), `PCT` (punctual), `DUR` (durative), `ACH` (achievement), `ACCMP` (accomplishment), `SEMEL` (semelfactive), `ACTY` (activity). Aktionsart is a feature that we don't have in UD but it is closely related to our [Aspect](../u/feat/Aspect.html). Aspect in Slavic languages is treated as a lexical feature, change of aspect is considered a derivation. Perfective verbs in Slavic languages correspond to telic verbs in UniMorph, imperfective verbs correspond to atelic verbs and statives. However, aktionsart could be defined for other languages including English, while aspect is not marked in UD English.
 * `Animacy`, values: `ANIM` (animate), `INAN` (inanimate), `HUM` (human), `NHUM` (non-human). In UD we don't have human but we do have the other three. We treat animacy as a scale of either two values (animate, inanimate), or three values (animate, non-human, inanimate). In the latter case (which so far appears only in UD Polish), the animate value is interpreted as human-only, while in other languages it includes animals. We could add the human value but note that this is not the only feature where a value has shifting semantic contents. For example, `Number=Plur` normally means "more than one", but in languages with dual it means "more than two".
 * `Argument Marking` for head-marking languages. UniMorph uses templatic features `ARG`+`Case`+`Person`+`Number`, e.g. `ARGNO1S` means that the nominative argument of the current verb is 1st person singular. Available cases are nominative, accusative, absolutive, ergative, dative, benefactive. We mostly only need to annotate agreement of the verb with its subject, i.e. the nominative argument, and we use the `Person` and `Number` features of the verb for this. So far only Basque needs more, as the verbs may agree there with up to three arguments (absolutive, ergative and dative). We use the layered features, i.e. `Person[abs]`, `Person[erg]`, `Person[dat]`, `Number[abs]` etc.
-* `Aspect`, values: `IPFV` (imperfective), `PFV` (perfective), `PRF` (perfect), `PROG` (progressive), `PROSP` (prospective), `ITER` (iterative), `HAB` (habitual). Their aspect + aktionsart is not compatible with our aspect, although we have a few values in common (perfect/ive, imperfective, progressive, prospective). We also mix aspect with tense by allowing the value `Tense=Imp`.
+* `Aspect`, values: `IPFV` (imperfective), `PFV` (perfective), `PRF` (perfect), `PROG` (progressive), `PROSP` (prospective), `ITER` (iterative), `HAB` (habitual).
+  Their aspect + aktionsart is not compatible with our aspect, although we have a few values in common (perfect/ive, imperfective, progressive, prospective).
+  We also mix aspect with tense by allowing the value `Tense=Imp`.
 * `Case`
   * Core case: can be defined in terms of three "meta-arguments," S (subject), A (agent), and P (patient). Values:
     `NOM` (nominative; `Case=Nom`), `ACC` (accusative; `Case=Acc`), `ERG` (ergative; `Case=Erg`), `ABS` (absolutive; `Case=Abs`), `NOMS` (nominative, subject only).
@@ -318,3 +380,4 @@ We may want to standardize some of the layers but they seem to be de-facto stand
 * Haspelmath, Martin. 1995. The converb as a cross-linguistically valid category.
   _Converbs in Cross-Linguistic Perspective: Structure and Meaning of Adverbial Verb Forms – Adverbial Participles, Gerunds –,_
   edited by Martin Haspelmath and Ekkehard König, Berlin: Mouton de Gruyter, Empirical Approaches to Language Typology, 1–56.
+* Jaklin Kornfilt. _Turkish._ London and New York: Routledge, 1997.
