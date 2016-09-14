@@ -7,21 +7,39 @@ title:  'Function words in UD v2'
 
 Treatment of copula constructions in the treebanks of UD v1.x is very diverse (see Table on the _status quo_ below). The main point of departure for UD v2.0 is that differences between languages in copula constructions should be motivated by real syntactic differences, not by differences in traditional grammars.
 
-## General guidelines
+## General guidelines and overview
 
 If a language (e.g. Irish) has its own clear guidelines, they are in the spirit of UD, and they don't conflict, then we see no 
 reason to change them. However, if there are no clear guidelines, then we should follow the following principles:
 
-* There should be only one copula in a language. In languages such as those of the Iberian Romance group, Basque etc. where there is a "state" copula and "essence" copula, then the __essence__ one should get the `cop` relation. However, if the copula is defective and is filled with different stems in different tenses (e.g. Turkish, Kazakh), this is fine.
+* There should be only one copula in a language.[1]
   * Subjects of copula constructions should receive a special label, either `nsubjcop` or `nsubj:cop`. This has several benefits, including solving the problem of double subjects. "The idea is you first find the general case.", `nsubj:cop(find, idea)`, `nsubj(find, you)`
-* In general, with the meaning `is of type` (where `type` is typically an NP) or `has quality` (where `quality` is typically an AP), we have the type/quality as the head and the copula as the dependent.
-  * For languages without state/essence distinction, then there is inherent ambiguity with being "X" and being in a state of "X", this is most clear with PPs, where "She is on the ball" will have different meaning if it's state or essence, consider "She is really on the ball".
-* If it isn't `is of type` or `has quality`, such as with most PPs and adverbials in English, and case-marked nouns in Finnish then we have the verb as head, and the subject is with `nsubj`. One reason to have the verb as the head is the difficulty of establishing the root in sentences with multiple adverbials/PPs, e.g. "She is in Prague today with her friends on a school trip".
-  * This is also extended to "existential" constructions in English, with the verb as head, "There" as `expl` and the thing existing as `nsubj`.
-* If the copula is not present, then we have two options, the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." `root>nsubj(Она)`, `root>nmod(деревне)` The alternative is to use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
-* In languages where the copula is a verb, for verbs that are sometimes called "copula" (e.g. {eng} _become_, {swe} _bli_, {spa} _estar_) other than the prototypical copula (e.g. {eng} _be_, {swe} _vara_, {spa} _ser_), the nominal complement should be `xcomp`.
-* We should have a way of distinguishing `nmod` when it attaches to clauses and nominals, see [core dependents](core-dependents.html)
+  * In languages where the copula is a verb, for verbs that are sometimes called "copula" (e.g. {eng} _become_, {swe} _bli_, {spa} _estar_) other than the prototypical copula (e.g. {eng} _be_, {swe} _vara_, {spa} _ser_), the nominal complement should be `xcomp`.
 
+We propose keeping with current practice in UD v1.x for the following copula constructions:
+
+* with the meaning `is of type` (where `type` is typically an NP), the type should be the head, and the copula word dependent on it with the relation `cop`. 
+* with the meaning `has quality` (where `quality` is typically an AP), we have the quality as the head and the copula as the dependent. 
+
+These are largely consistent across the current UD languages.
+
+The next type we'll consider is `has location` (where `location` is typically a PP or case-marked NP). Current practice in UD v1.x for prepositional phrases/case-marked NPs is inconsistent and we propose changing it. Currently some treebanks (English, Swedish, ...) have the PP as head and the copula depending on it, and others (Finnish, Spanish, ...) have the verb as head and the PP as `nmod`
+
+* We propose making the copula the head in these constructions.
+  * It is difficult to establish the root in sentences with multiple adverbials/PPs, e.g. "She is in Prague today with her friends on a school trip".
+  * It is related to "existential" constructions that use the copula. Currently in English there is a very different analysis for "The book is on the table here." and "There is a book on the table here."
+
+What to do if there is "zero copula":
+
+* If the copula is not present, then we have two options:
+  1. the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." `root>nsubj(Она)`, `root>nmod(деревне)` 
+  2. Use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
+
+For clausal arguments of copulas we propose using the same classification scheme.
+
+### Notes 
+
+1. In languages such as those of the Iberian Romance group, Basque etc. where there is a "state" copula and "essence" copula, then the __essence__ one should get the `cop` relation. However, if the copula is defective and is filled with different stems in different tenses (e.g. Turkish, Kazakh), this is fine.
 
 ## Language-specific examples
 
@@ -693,10 +711,10 @@ nmod(oon, talossa)
 
 (10)
 ~~~ sdparse
-She was in the house
-root(was)
-nsubj(was, She)
-nmod(was, house)
+Se oli talossa 
+root(oli)
+nsubj(oli, Se)
+nmod(oli, talossa)
 ~~~
 
 (11)
@@ -927,43 +945,43 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 
 | Treebank      | Unique `cop` | Top-5 lemmas[POS] with `cop` relation  |
 |---------------|--------------------------|-----------------------------------|
-| UD_Galician   | 1112         | 121/de[ADP], 40/necesario[ADJ], 38/como[PRON], 24/posible[ADJ], 23/importante[ADJ] |
-| UD_Dutch      | 253          | 2491/ben[AUX], 283/word[AUX], 91/vind[VERB], 73/blijf[AUX], 67/maak[VERB] |
-| UD_Spanish    | 229          | 5136/ser[VERB], 353/estar[VERB], 78/llamado[VERB], 66/encontrar[VERB], 48/hacer[VERB] |
-| UD_Arabic     | 216          | 384/كَان[VERB], 75/لَيس[VERB], 31/عَدّ[VERB], 27/اِعتَبَر[VERB], 25/زَال[VERB] |
-| UD_Portuguese | 135          | 2120/ser[VERB], 370/estar[VERB], 176/como[ADV], 91/ficar[VERB], 38/parecer[VERB] |
-| UD_French     | 99           | 4878/être[VERB], 232/devenir[VERB], 91/appeler[VERB], 70/nommer[VERB], 51/rester[VERB] |
-| UD_Greek      | 67           | 531/είμαι[VERB], 86/αποτελώ[VERB], 34/θεωρώ[VERB], 27/γίνομαι[VERB], 20/καθίσταμαι[VERB] |
-| UD_Catalan    | 57           | 3609/ser[AUX], 810/estar[VERB], 722/ser[VERB], 136/cop[NOUN], 53/semblar[VERB] |
-| UD_Polish     | 18           | 764/być[VERB], 98/to[VERB], 42/być[AUX], 17/stać[VERB], 12/stawać[VERB] |
-| UD_Basque     | 15           | 1993/izan[VERB], 266/egon[VERB], 124/ukan[VERB], 31/izan[AUX], 20/ibili[VERB] |
-| UD_German     | 11           | 4698/_[VERB], 86/_[NOUN], 31/_[ADJ], 27/_[ADP], 23/_[PROPN] |
-| UD_Estonian   | 9            | 3373/olema[VERB], 37/ole[VERB], 29/tunduma[VERB], 5/paistma[VERB], 4/näima[VERB] |
-| UD_Czech      | 6            | 20480/být[VERB], 110/bývat[VERB], 3/stát[VERB], 3/bývávat[VERB], 1/moci[VERB] |
-| UD_English    | 6            | 5593/be[VERB], 8/`s[VERB], 5/be[AUX], 3/cop[NOUN], 1/'[VERB] |
-| UD_Hungarian  | 6            | 92/van[VERB], 61/lesz[VERB], 11/lehet[VERB], 3/marad[VERB], 1/hoz[VERB] |
-| UD_Bulgarian  | 5            | 1940/съм[VERB], 3/съм[AUX], 1/стана[VERB], 1/разпространявам-(се)[VERB], 1/докосна-(се)[VERB] |
-| UD_Buryat     | 5            | 70/байха[VERB], 22/болохо[VERB], 2/ябаха[VERB], 2/үнгэхэ[VERB], 2/байха[AUX] |
-| UD_Croatian   | 5            | 1236/biti[AUX], 1/željeti[VERB], 1/težiti[VERB], 1/davati[VERB], 1/bivati[VERB] |
-| UD_Kazakh     | 4            | 131/е[VERB], 42/бол[VERB], 1/тұр[VERB], 1/атан[VERB] |
-| UD_Uyghur     | 4            | 66/_[VERB], 4/_[NOUN], 3/_[ADJ], 1/_[PART] |
-| UD_Hindi      | 3            | 3014/है[VERB], 497/था[VERB], 1/बशर्ते[SCONJ] |
-| UD_Irish      | 3            | 369/is[VERB], 3/is[PART], 1/má[SCONJ] |
-| UD_Russian    | 3            | 538/_[VERB], 5/_[NOUN], 1/_[ADP] |
-| UD_Russian-SynTagRus | 3     | 4457/БЫТЬ[AUX], 622/ЭТО[NOUN], 4/ВОТ[PART] |
-| UD_Chinese    | 2            | 1795/_[VERB], 8/_[ADJ] |
-| UD_Coptic     | 2            | 30/ⲡⲉ[PART], 2/ⲡ[DET] |
-| UD_Danish     | 2            | 1576/være[AUX], 185/blive[AUX] |
-| UD_Hebrew     | 2            | 387/_[VERB], 7/_[PRON] |
-| UD_Persian    | 2            | 4662/_[VERB], 3/_[ADJ] |
-| UD_Turkish    | 2            | 751/i[AUX], 113/değil[VERB] |
-| UD_Faroese    | 1            | 1081/vera[VERB] |
-| UD_Finnish    | 1            | 3279/olla[VERB] |
-| UD_Indonesian | 1            | 1055/_[VERB] |
-| UD_Italian    | 1            | 2767/essere[VERB] |
-| UD_Slovenian  | 1            | 2820/biti[VERB] |
-| UD_Swedish    | 1            | 1629/vara[VERB] |
-| UD_Tamil      | 1            | 1/முயல்[VERB] |
+| UD-Galician   | 1112         | 121/de[ADP], 40/necesario[ADJ], 38/como[PRON], 24/posible[ADJ], 23/importante[ADJ] |
+| UD-Dutch      | 253          | 2491/ben[AUX], 283/word[AUX], 91/vind[VERB], 73/blijf[AUX], 67/maak[VERB] |
+| UD-Spanish    | 229          | 5136/ser[VERB], 353/estar[VERB], 78/llamado[VERB], 66/encontrar[VERB], 48/hacer[VERB] |
+| UD-Arabic     | 216          | 384/كَان[VERB], 75/لَيس[VERB], 31/عَدّ[VERB], 27/اِعتَبَر[VERB], 25/زَال[VERB] |
+| UD-Portuguese | 135          | 2120/ser[VERB], 370/estar[VERB], 176/como[ADV], 91/ficar[VERB], 38/parecer[VERB] |
+| UD-French     | 99           | 4878/être[VERB], 232/devenir[VERB], 91/appeler[VERB], 70/nommer[VERB], 51/rester[VERB] |
+| UD-Greek      | 67           | 531/είμαι[VERB], 86/αποτελώ[VERB], 34/θεωρώ[VERB], 27/γίνομαι[VERB], 20/καθίσταμαι[VERB] |
+| UD-Catalan    | 57           | 3609/ser[AUX], 810/estar[VERB], 722/ser[VERB], 136/cop[NOUN], 53/semblar[VERB] |
+| UD-Polish     | 18           | 764/być[VERB], 98/to[VERB], 42/być[AUX], 17/stać[VERB], 12/stawać[VERB] |
+| UD-Basque     | 15           | 1993/izan[VERB], 266/egon[VERB], 124/ukan[VERB], 31/izan[AUX], 20/ibili[VERB] |
+| UD-German     | 11           | 4698/-[VERB], 86/-[NOUN], 31/-[ADJ], 27/-[ADP], 23/-[PROPN] |
+| UD-Estonian   | 9            | 3373/olema[VERB], 37/ole[VERB], 29/tunduma[VERB], 5/paistma[VERB], 4/näima[VERB] |
+| UD-Czech      | 6            | 20480/být[VERB], 110/bývat[VERB], 3/stát[VERB], 3/bývávat[VERB], 1/moci[VERB] |
+| UD-English    | 6            | 5593/be[VERB], 8/`s[VERB], 5/be[AUX], 1/'[VERB] |
+| UD-Hungarian  | 6            | 92/van[VERB], 61/lesz[VERB], 11/lehet[VERB], 3/marad[VERB], 1/hoz[VERB] |
+| UD-Bulgarian  | 5            | 1940/съм[VERB], 3/съм[AUX], 1/стана[VERB], 1/разпространявам-(се)[VERB], 1/докосна-(се)[VERB] |
+| UD-Buryat     | 5            | 70/байха[VERB], 22/болохо[VERB], 2/ябаха[VERB], 2/үнгэхэ[VERB], 2/байха[AUX] |
+| UD-Croatian   | 5            | 1236/biti[AUX], 1/željeti[VERB], 1/težiti[VERB], 1/davati[VERB], 1/bivati[VERB] |
+| UD-Kazakh     | 4            | 131/е[VERB], 42/бол[VERB], 1/тұр[VERB], 1/атан[VERB] |
+| UD-Uyghur     | 4            | 66/-[VERB], 4/-[NOUN], 3/-[ADJ], 1/-[PART] |
+| UD-Hindi      | 3            | 3014/है[VERB], 497/था[VERB], 1/बशर्ते[SCONJ] |
+| UD-Irish      | 3            | 369/is[VERB], 3/is[PART], 1/má[SCONJ] |
+| UD-Russian    | 3            | 538/-[VERB], 5/-[NOUN], 1/-[ADP] |
+| UD-Russian-SynTagRus | 3     | 4457/БЫТЬ[AUX], 622/ЭТО[NOUN], 4/ВОТ[PART] |
+| UD-Chinese    | 2            | 1795/-[VERB], 8/-[ADJ] |
+| UD-Coptic     | 2            | 30/ⲡⲉ[PART], 2/ⲡ[DET] |
+| UD-Danish     | 2            | 1576/være[AUX], 185/blive[AUX] |
+| UD-Hebrew     | 2            | 387/-[VERB], 7/-[PRON] |
+| UD-Persian    | 2            | 4662/-[VERB], 3/-[ADJ] |
+| UD-Turkish    | 2            | 751/i[AUX], 113/değil[VERB] |
+| UD-Faroese    | 1            | 1081/vera[VERB] |
+| UD-Finnish    | 1            | 3279/olla[VERB] |
+| UD-Indonesian | 1            | 1055/-[VERB] |
+| UD-Italian    | 1            | 2767/essere[VERB] |
+| UD-Slovenian  | 1            | 2820/biti[VERB] |
+| UD-Swedish    | 1            | 1629/vara[VERB] |
+| UD-Tamil      | 1            | 1/முயல்[VERB] |
 
 ## UD-internal references
 
