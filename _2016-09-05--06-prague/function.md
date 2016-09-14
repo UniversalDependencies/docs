@@ -23,7 +23,7 @@ We propose keeping with current practice in UD v1.x for the following copula con
 
 These are largely consistent across the current UD languages.
 
-The next type we'll consider is `has location` (where `location` is typically a PP or case-marked NP). Current practice in UD v1.x for prepositional phrases/case-marked NPs is inconsistent and we propose changing it. Currently some treebanks (English, Swedish, ...) have the PP as head and the copula depending on it, and others (Finnish, Spanish, ...) have the verb as head and the PP as `nmod`
+The next type we'll consider is `has location` (where `location` [in time, space, company, capacity etc.] is typically a PP or case-marked NP). Current practice in UD v1.x for prepositional phrases/case-marked NPs is inconsistent and we propose changing it. Currently some treebanks (English, Swedish, ...) have the PP as head and the copula depending on it, and others (Finnish, Spanish, ...) have the verb as head and the PP as `nmod`
 
 * We propose making the copula the head in these constructions.
   * It is difficult to establish the root in sentences with multiple adverbials/PPs, e.g. "She is in Prague today with her friends on a school trip".
