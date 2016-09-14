@@ -112,7 +112,7 @@ nsubj(too-11, Peter-9)
 
 Should we also promote infinitival markers as in the following example? 
 
-__Sebastian__: I think we should.
+__Sebastian__: I think we should as it doesn't seem to introduce any weird relations and using a more complex composite relation (see below) of the form _xcomp>mark_ does not have any advantages.
 
 ~~~ sdparse
 They will do it if they want to .
