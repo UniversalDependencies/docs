@@ -16,7 +16,7 @@ reason to change them. However, if there are no clear guidelines, then we should
   * Subjects of copulas should receive a special label, either `nsubjcop` or `nsubj:cop`. This has several benefits, including solving the problem of double subjects. "My baking cakes is your making soup."
 * In general, with the meaning `is of type` (where `type` is typically an NP) or `has quality` (where `quality` is typically an AP), we have the type/quality as the head and the copula as the dependent.
   * For languages without state/essence distinction, then there is inherent ambiguity with being "X" and being in a state of "X", this is most clear with PPs, where "She is on the ball" will have different meaning if it's state or essence, consider "She is really on the ball".
-* If it isn't `is of type` or `has quality`, such as with most PPs and adverbials in English, and case-marked nouns in Finnish then we have the verb as head, and the subject is with `nsubj`. One reason to have the verb as the head is the difficulty of establishing the root in sentences with multiple adverbials, e.g. "She is in Prague with her friends".
+* If it isn't `is of type` or `has quality`, such as with most PPs and adverbials in English, and case-marked nouns in Finnish then we have the verb as head, and the subject is with `nsubj`. One reason to have the verb as the head is the difficulty of establishing the root in sentences with multiple adverbials/PPs, e.g. "She is in Prague today with her friends on a school trip".
   * This is also extended to "existential" constructions in English, with the verb as head, "There" as `expl` and the thing existing as `nsubj`.
 * If the copula is not present, then we have two options, the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." root>nsubj(Она) + root>nmod(деревне) The alternative is to use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
 * In languages where the copula is a verb, for verbs that are sometimes called "copula" (e.g. {eng} become, {swe} bli, {spa} estar) other than the prototypical copula (e.g. {eng} be, {swe} vara, {spa} ser), the nominal complement should be `xcomp`.
@@ -25,7 +25,7 @@ reason to change them. However, if there are no clear guidelines, then we should
 
 ## Language-specific examples
 
-For the purposes of demonstrating the new classification system a number of examples have been prepared for a range of UD languages. The examples are in English, but where they are ambiguous in a given language both variants will be given.
+For the purposes of demonstrating the new classification system a number of examples have been prepared for a range of UD languages. The examples are in English, but where they are ambiguous in a given language multiple variants will be given.
 
 01. She is a student
 02. I am a student
@@ -54,7 +54,7 @@ The analysis of (15) will follow (05) and (06), the analysis of (16) will follow
 
 ### English
 
-The English analysis more or less follows the analysis in the `UD_English` treebank, with the addition of the relation `nsubj:cop` for subjects of copula constructions.
+The English analysis more or less follows the analysis in the `UD_English` treebank, with the addition of the relation `nsubj:cop` for subjects of copula constructions. There is a difference however with how (8--10) are treated. 
 
 (1)
 ~~~ sdparse
@@ -113,6 +113,9 @@ cop(shape, is)
 ~~~
 
 (8)
+
+This analysis differs from how it is currently analysed in the `UD_English` treebank,
+
 ~~~ sdparse
 She is in the house
 root(is)
@@ -952,6 +955,13 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 | UD_Slovenian  | 1            | 2820/biti[VERB] |
 | UD_Swedish    | 1            | 1629/vara[VERB] |
 | UD_Tamil      | 1            | 1/முயல்[VERB] |
+
+## UD-internal references
+
+* http://universaldependencies.org/u/dep/cop.html
+*  https://github.com/UniversalDependencies/docs/issues/329
+* http://universaldependencies.org/2015-08-23-uppsala/copula.html
+* https://github.com/UniversalDependencies/docs/issues/256
 
 
 
