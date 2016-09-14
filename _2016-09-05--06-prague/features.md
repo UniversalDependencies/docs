@@ -26,7 +26,7 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
 * [u-feat/Definite](): rename `Red` (reduced) to `Con` (construct state); see the
   [issue 135](http://github.com/UniversalDependencies/docs/issues/135) for related discussion.
   Other options would be `Definite=Constr`, `Cns`, `Cnstr` etc. (or even `Construct`, but with 9 characters it would be an unusually long feature value for UD).
-* TO DISCUSS: Is there a better solution than `NumType=Gen`? What is `NumType=Pers` in Irish? (Defined but not used.)
+* TO DISCUSS: [u-feat/NumType](): Is there a better solution than `NumType=Gen`? What is `NumType=Pers` in Irish? (Defined but not used.)
 
 ## Adding/removing values to/from existing features
 
