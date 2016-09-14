@@ -35,8 +35,15 @@ morpheme (article), nor the indefinite morpheme (nunation).
 
 #### Examples
 
-* [ar] indefinite state: حلوَةٌ_ḥulwatun_ "a sweet"; definite state:
-  الحلوَةُ _al-ḥulwatu_ "the sweet"; <b>حلوَةُ </b>_<b>ḥulwatu</b>_
+* [ar] indefinite state:
+  حلوَةٌ
+  _ḥulwatun_ "a sweet";
+  definite state:
+  الحلوَةُ
+  _al-ḥulwatu_ "the sweet";
+  construct state:
+  <b>حلوَةُ </b>
+  _<b>ḥulwatu</b>_
   "sweet of".
 
 ### `Com`: complex
