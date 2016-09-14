@@ -220,6 +220,17 @@ General differences:
   * Speaker-Setting Axis; referred to as _register_ in sociolinguistics.
     `LIT` (literary, `Style=Form`), `FOREG` (formal register, `Style=Form`), `COL` (colloquial, `Style=Coll`).
     We have corresponding features in the section of language-specific extensions but they are currently used only in a few treebanks (cs, da, fi).
+* `Possession` is a templatic feature that may incorporate features of the possessor such as person and number.
+  We encode the same situation using the boolean feature `Poss=Yes`, and separate features for `Person`, `Number` etc.
+  If it is necessary to distinguish them from same-named inflectional features of the possessive word, we use layered features on the `[psor]` ("possessor") layer:
+  `Person[psor]`, `Number[psor]` etc.
+  UniMorph defines the following combinations:
+  `PSS1S` (possession by 1st person singular), `PSS2S`, `PSS2SM` (2nd person singular masculine), `PSS2SF`, `PSS2SINFM` (informal), `PSS2SFORM`,
+  `PSS3S`, `PSS3SM`, `PSS3SF`, `PSS1D`, `PSS1DI` (dual inclusive), `PSS1DE` (exclusive), `PSS2D`, `PSS2DM`, `PSS2DF`,
+  `PSS3D`, `PSS3DM`, `PSS3DF`, `PSS1P`, `PSS1PI`, `PSS1PE`, `PSS2P`, `PSS2PM`, `PSS2PF`, `PSS3P`, `PSS3PM`, `PSS3PF`.
+  In addition, they define simple `PSSD` (possessive but without marking features of the possessor), and also
+  `ALN` for alienable and `NALN` for inalienable possession. Alienable means that the ownership can change ("my house") while inalienable means
+  that it cannot change ("my back").
 
 ## Stuff to check
 
