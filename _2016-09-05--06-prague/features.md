@@ -13,9 +13,16 @@ title:  'Features in UD v2'
   Another option would be to keep the name but use only one value `Yes` because positive polarity is rarely marked morphologically.
   `Negative=Pos` looks weird and it probably just marks words that can take the negative morpheme but do not have it in the given form.
   Nevertheless, `Negative=Pos` is currently used in 13 treebanks so we probably want to keep it but rename the feature to `Polarity`.
+* [u-feat/VerbForm](): rename `Trans` (transgressive) to `Conv` (converb).
+  Transgressive is a term that comes from Slavic languages and is alien to e.g. Turkish or Hindi where functionally similar forms exist.
+  It turns out that even within Slavic linguistics, the term transgressive is not widely used (the Slavic languages naturally have their
+  native terms; the translation _transgressive_, of Latin-German-English etymology, is almost unknown outside Czech, Slovak and Sorbian).
+  English literature on Slavic languages sometimes uses the term _gerund_ but it is absolutely confusing and unsuitable because the it is
+  similar neither in form nor in function to the form we mark `VerbForm=Ger` in English and Spanish (and BTW these are also quite different
+  from each other, but at least Spanish has the term _gerundio_ as its own, not only as English translation).
+  More neutral terms are adverbial participle or _converb_ (Haspelmath, 1995), so I propose to relabel these forms `VerbForm=Conv`.
 * Yoav has argued that `Definite=Red` is a rather weird way of marking of what is otherwise called the construct state. Any better solution?
 * TO DISCUSS: Is there a better solution than `NumType=Gen`? What is `NumType=Pers` in Irish? (Defined but not used.)
-* TO DISCUSS: `VerbForm=Trans`: Transgressive is a term that comes from Slavic languages and even there it is rare (Czech and Sorbian; other Slavic languages have the form too, but do not call it transgressive). English literature on Slavic languages sometimes uses the term _gerund_ but it is absolutely confusing and unsuitable because it is similar neither in form nor in function to the form we mark `VerbForm=Ger` in English and Spanish (and BTW these are also quite different from each other, but at least Spanish has the term _gerundio_ as its own, not only as English translation). More neutral terms are adverbial participle or _converb_, so I would suggest to rename it to `VerbForm=Conv`.
 
 ## Adding/removing values to/from existing features
 
@@ -301,3 +308,9 @@ We may want to standardize some of the layers but they seem to be de-facto stand
 * `Number[abs], [dat], [erg], [psed], [psor]`
 * `Person[abs], [dat], [erg], [psor]`
 * `Polite[abs], [dat], [erg]`
+
+## References
+
+* Haspelmath, Martin. 1995. The converb as a cross-linguistically valid category.
+  _Converbs in Cross-Linguistic Perspective: Structure and Meaning of Adverbial Verb Forms – Adverbial Participles, Gerunds –,_
+  edited by Martin Haspelmath and Ekkehard König, Berlin: Mouton de Gruyter, Empirical Approaches to Language Typology, 1–56.
