@@ -1006,6 +1006,7 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 | UD-Finnish    | 1            | 3279/olla[VERB] |
 | UD-Indonesian | 1            | 1055/-[VERB] |
 | UD-Italian    | 1            | 2767/essere[VERB] |
+| UD_Norwegian	| 1            | 7217/være[VERB] |
 | UD-Slovenian  | 1            | 2820/biti[VERB] |
 | UD-Swedish    | 1            | 1629/vara[VERB] |
 | UD-Tamil      | 1            | 1/முயல்[VERB] |
