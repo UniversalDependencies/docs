@@ -9,7 +9,8 @@ Treatment of copula constructions in the treebanks of UD v1.x is very diverse (s
 
 ## General guidelines
 
-However, if there are no clear guidelines, then we should follow the following principles:
+If a language (e.g. Irish) has its own clear guidelines, they are in the spirit of UD, and they don't conflict, then we see no 
+reason to change them. However, if there are no clear guidelines, then we should follow the following principles:
 
 * There should be only one copula in a language. In languages such as those of the Iberian Romance group, Basque etc. where there is a "state" copula and "essence" copula, then the __essence__ one should get the `cop` relation. This will cause minor between group differences, between e.g. Spanish and Catalan ({spa} _Ella está en Barcelona_, {cat} _Ella és a Barcelona_), but these show real differences. However, if the copula is defective and is filled with different verbs in different tenses (e.g. Turkish, Kazakh), this is fine.
   * Subjects of copulas should receive a special label, either `nsubjcop` or `nsubj:cop`. This has several benefits, including solving the problem of double subjects. "My baking cakes is your making soup."
@@ -41,7 +42,7 @@ For the purposes of demonstrating the new classification system a number of exam
 13. There was a house in the village
 14. The house was in the village
 
-These are examples where both sides are nominals, but they could be extended to clausals, e.g. 
+    These are examples where both sides are nominals, but they could be extended to clausals, e.g. 
 
 15. To be free is to be capable of thinking one's own thoughts
 16. This period is when Aristotle is believed to have lived 
@@ -861,7 +862,7 @@ nmod(-ydi, köyde)
 
 ### Irish
 
-Irish has a difference between a _copula_ verb "is" and what is called a substantive verb "bí". Only the copula verb receives the `cop` relation. The substantive verb is head and takes an argument with `xcomp`. Teresa's (http://www.nclt.dcu.ie/~tlynn/Teresa_PhDThesis_final.pdf)[thesis] has an in depth description of the treatment of the copula in Irish.
+Irish has a difference between a _copula_ verb "is" and what is called a substantive verb "bí". Only the copula verb receives the `cop` relation. The substantive verb is head and takes an argument with `xcomp`. Teresa's thesis [http://www.nclt.dcu.ie/~tlynn/Teresa_PhDThesis_final.pdf] has an in depth description of the treatment of the copula in Irish.
 
 (1)
 
