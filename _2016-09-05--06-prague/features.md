@@ -234,6 +234,13 @@ General differences:
 * `Switch Reference`, values: `SS` (same subject), `DS` (different subject), `SSADV`, `DSADV`.
   When there are two verbs in a row, switch-reference is morphological marking of whether they have or do not have the same subject.
   We do not have this feature in UD.
+* `Tense`, values: `PRS` (present, `Tense=Pres`), `PST` (past, `Tense=Past`), `FUT` (future, `Tense=Fut`),
+  `IMMED` (immediate), `HOD` (hodiernal, i.e. today), `1DAY` (within one day), `RCT` (recent), `RMT` (remote).
+  * They envisage combining their features, e.g. `FUT+HOD` or `PST+RCT`.
+  * We currently only have present, past and future without the more specific values like recent and remote.
+  * Moreover, we cover two present-aspect combinations that may have separate morphological forms and sometimes cannot be represented by `Tense` + `Aspect` because there
+    is also the lexical aspect (as in Bulgarian). We would have to redesign our scheme and add aktionsart, or use two layered aspects on one word to solve this.
+    The combinations are `Tense=Imp` (imperfect tense) and `Tense=Pqp` (pluperfect).
 
 ## Stuff to check
 
