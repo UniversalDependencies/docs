@@ -173,6 +173,28 @@ General differences:
     `Gen`, `GenNec`, `Prs`. The `Abil` should probably be replaced by the universal feature `Mood=Pot` (potential).
     `Prs` means persuasive, reportedly related to imperative but different in that we try to persuade the addressee to do something instead of just commanding.
   * We currently lack values for purposive, intentive, admirative, permissive, deductive and simulative, and we may want to add them.
+* `Number`, values: `SG` (singular, `Number=Sing`), `PL` (plural, `Number=Plur`), `DU` (dual, `Number=Dual`), `TRI` (trial), `PAUC` (paucal),
+  `GPAUC` (greater paucal), `GRPL` (greater plural), `INVN` (inverse).
+  * We may want to add values `Number=Tri`, `Pauc`, `Grpa`, `Grpl`, `Inv`.
+  * We have two additional values, `Ptan` (plurale tantum) and `Coll` (singulare tantum), which may be viewed as elaboration of `Sing` and `Plur`, respectively,
+    and which encode an inherent property of nouns rather than inflection. Agreeing adjectives and verbs never take this value, they use `Sing` and `Plur` instead.
+* `Part of Speech`, values: `N` (noun), `PROPN` (proper name), `ADJ` (adjective), `PRO` (pronoun), `CLF` (classifier), `ART` (article),
+  `DET` (determiner), `V` (verb), `ADV` (adverb), `AUX` (auxiliary), `V.PTCP` (participle, verbal adjective), `V.MSDR` (masdar, verbal noun), `V.CVB` (converb, verbal adverb),
+  `ADP` (adposition), `COMP` (complementizer), `CONJ` (conjunction), `NUM` (numeral), `PART` (particle), `INTJ` (interjection)
+  * We do not have a separate tag for classifiers. I believe that we subsume them under nouns in UD Chinese.
+  * We subsume articles within determiners but we distinguish them by `PronType=Art`.
+  * We do not treat participles, verbal nouns and verbal adverbs as separate parts of speech.
+    We distinguish them by the `VerbForm` feature and we allow language-specific guidelines to put them under `VERB`, or under `ADJ/NOUN/ADV`.
+    Our v1 guidelines propose to call verbal nouns gerunds (`VerbForm=Ger`). This is motivated by the English gerunds but it should
+    probably be revised because the term has quite different meaning in different languages, which causes confusion.
+    On the other hand, I do not quite like the term _masdar_ used in UniMorph, which is taken from Arabic but not widely understood elsewhere.
+    Perhaps `VerbForm=Vnoun` would be enough? (Note that infinitives can also be used like nouns in some languages; these would keep `VerbForm=Inf`.)
+    In contrast, I find the term _converb_ (Haspelmath, 1995) quite appropriate and language-neutral. We currently use `VerbForm=Trans` (transgressive)
+    but this term turned out to be known only in a few Slavic languages. So we may either rename it to `VerbForm=Conv`, or maybe `VerbForm=Vadv (verbal adverb, adverbial participle).
+  * They have a tag for auxiliary verbs while we are now proposing to get rid of it.
+  * Unlike us, they conflate coordinating and subordinating conjunctions in one tag `CONJ`.
+    However, they have a separate tag for complementizers while we include them in `SCONJ`.
+  * Like us, they distinguish `NUM`, `PART` and `INTJ`. They actually refer to us when explaining why they include these categories.
 
 ## Stuff to check
 
