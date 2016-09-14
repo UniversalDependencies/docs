@@ -14,12 +14,11 @@ nummod(august, 3)
 nmod(august, 1957)
 ~~~
 
-Regarding the analysis of years, we show two ways in which they are analysed: (i) in strings such as 'În anul 2000 am absolvit facultatea.', the year is an nummod for 'anul'; (ii) in strings such as 'În 2000 am absolvit facultatea', the year is an nmod for the verb.
+Regarding the analysis of years, we show two ways in which they are analysed: (i) in strings such as 'În anul 2000 am absolvit facultatea.' (In year-the 2000 have-I graduated faculty-the.), the year is an nummod for 'anul'; (ii) in strings such as 'În 2000 am absolvit facultatea' (In 2000 have-I graduated faculty-the.), the year is an nmod for the verb.
 
 
 ~~~ sdparse
 În anul 2000 am absolvit facultatea .
-In year-the 2000 have-I graduated faculty-the .
 nummod(anul, 2000)
 nmod(absolvit, anul)
 ~~~
@@ -27,6 +26,5 @@ nmod(absolvit, anul)
 
 ~~~ sdparse
 În 2000 am absolvit facultatea .
-In 2000 have-I graduated faculty-the .
 nmod(absolvit, 2000)
 ~~~
