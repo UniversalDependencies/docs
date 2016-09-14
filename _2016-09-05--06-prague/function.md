@@ -19,7 +19,7 @@ reason to change them. However, if there are no clear guidelines, then we should
 * If it isn't `is of type` or `has quality`, such as with most PPs and adverbials in English, and case-marked nouns in Finnish then we have the verb as head, and the subject is with `nsubj`. One reason to have the verb as the head is the difficulty of establishing the root in sentences with multiple adverbials/PPs, e.g. "She is in Prague today with her friends on a school trip".
   * This is also extended to "existential" constructions in English, with the verb as head, "There" as `expl` and the thing existing as `nsubj`.
 * If the copula is not present, then we have two options, the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." root>nsubj(Она) + root>nmod(деревне) The alternative is to use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
-* In languages where the copula is a verb, for verbs that are sometimes called "copula" (e.g. {eng} become, {swe} bli, {spa} estar) other than the prototypical copula (e.g. {eng} be, {swe} vara, {spa} ser), the nominal complement should be `xcomp`.
+* In languages where the copula is a verb, for verbs that are sometimes called "copula" (e.g. {eng} _become_, {swe} _bli_, {spa} _estar_) other than the prototypical copula (e.g. {eng} _be_, {swe} _vara_, {spa} _ser_), the nominal complement should be `xcomp`.
 * We should have a way of distinguishing `nmod` when it attaches to clauses and nominals, see [core dependents](core-dependents.html)
 
 
