@@ -77,7 +77,7 @@ of ellipsis, but I don't think we should generalize it to cases of predicate ell
 or modifier needs to be promoted, because this gives rise to too many "unnatural" dependencies.
 Hence, I propose we limit promotion to the following cases of head ellipsis:
 
-1. Nominals: If the head nominal is ellided, we promote dependents in the following order: amod > det > nummod > nmod > case.
+1. Nominals: If the head nominal is ellided, we promote dependents in the following order: amod > nummod > det > nmod > case.
 2. Clauses: If the main predicate is ellided, we promote only if there is an aux or cop (or possibly advmod).
 3. Modifiers: If the head of a modifier phrase is ellided, we promote if there is an advmod (or equivalent).
 
