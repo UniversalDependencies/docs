@@ -18,7 +18,7 @@ Below we discuss and motivate each of these proposals in turn. We also list some
 
 The core-oblique distinction is generally accepted in language typology as being both more relevant and easier to apply cross-linguistically than the argument-adjunct distinction. See, for example:
 
-* Avery D. Andrews. 2007. The Major Functions of the Noun Phrase. In Timothy Shopen (ed.) Language Typology and Syntactic Description: Clause Structure (2nd ed), Cambridge University Press, Cambridge, United Kingdom, pp. 132-223. (1st edition, 1985.) 
+* Avery D. Andrews. 2007. The Major Functions of the Noun Phrase. In Timothy Shopen (ed.) Language Typology and Syntactic Description: Clause Structure (2nd ed), Cambridge University Press, Cambridge, United Kingdom, pp. 132-223. (1st edition, 1985.)
 * Sandra A. Thompson. 1997. Discourse Motivations for the Core-Oblique Distinction as a Language Universal. In Akio Kamio (ed.) Directions in Functional Linguistics. Benjamins, Amsterdam, the Netherlands, pp. 59-82.
 
 The starting point is the assumption that all languages have some prototypical way of encoding the arguments of intransitive and transitive verbs, often referred to as S (for the subject of an intransitive verb), A (for the subject/agent of a transitive verb) and O or P (for the object/patient of a transitive verb). Exactly what this prototypical encoding is has to be established specifically for each language but it often involves some combination of case-marking (nominative-accusative or ergative-absolutive) and/or indexing on the verb (agreement) and/or linear position in the clause (typically relative to the verb). To this may be added the possibility to undergo certain grammatical transformations, such as relativization and passivization. The notion of core argument is then reserved for dependents of the verb that exhibit all or most of this prototypical encoding.
@@ -52,15 +52,15 @@ case(secretarias, de)
 
 The criteria for drawing the core-oblique distinction will thus have to be established specifically for each language and should be described in the language-specific documentation. The universal guidelines should help by providing general guidance on the kind of criteria and test that can be applicable. Here is a list to start with:
 
-* Personal pronouns: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replaced by the personal pronoun "it" above (only by a pronominal adverb like "then"). 
-* Interrogatives: The question corresponding to "she went to Paris" is "where did she go?" not "what did she go?". 
+* Personal pronouns: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replaced by the personal pronoun "it" above (only by a pronominal adverb like "then").
+* Interrogatives: The question corresponding to "she went to Paris" is "where did she go?" not "what did she go?".
 * Relativization: Languages that use relative clauses often restrict relativization to core arguments.
 * Passivization: In many languages, only core arguments can be passivized.
 * Agreement: Morphosyntactic agreement on verbs is usually restricted to core arguments (predominantly subjects but also objects in some languages).
 
 ## Merge direct and indirect objects
 
-Some languages allow extended transitive clauses with a third participant encoded as a core argument, usually with some kind of benefactive or recipient role, as in the English double-object construction: 
+Some languages allow extended transitive clauses with a third participant encoded as a core argument, usually with some kind of benefactive or recipient role, as in the English double-object construction:
 
 <div id="s4" class="sd-parse">
 Mary gave John a book
@@ -70,7 +70,7 @@ det(book, a)
 iobj(gave, John)
 </div>
 
-Other languages do not allow extended transitive clauses but can still express the same semantic content with the help of an oblique modifier, as in French: 
+Other languages do not allow extended transitive clauses but can still express the same semantic content with the help of an oblique modifier, as in French:
 
 <div id="s5" class="sd-parse">
 Marie a donné un livre à Jean
@@ -82,7 +82,7 @@ nmod(donné, Jean)
 case(Jean, à)
 </div>
 
-The indirect object relation ([u-dep/iobj]()) in UD has always been intended to cover the first case only, that is, it applies to the third core argument in an extended transitive clause. It was never intended to apply to the recipient role of a three-place predicate no matter how expressed, because syntactic relations should never be identified with specific semantic roles. This is why we have also insisted that the alternative syntactic structure associated with a three-place predicate like "give" in English does _not_ have an indirect object, because only two of the participants are realized as core arguments: 
+The indirect object relation ([u-dep/iobj]()) in UD has always been intended to cover the first case only, that is, it applies to the third core argument in an extended transitive clause. It was never intended to apply to the recipient role of a three-place predicate no matter how expressed, because syntactic relations should never be identified with specific semantic roles. This is why we have also insisted that the alternative syntactic structure associated with a three-place predicate like "give" in English does _not_ have an indirect object, because only two of the participants are realized as core arguments:
 
 <div id="s6" class="sd-parse">
 Mary gave a book to John
@@ -97,10 +97,10 @@ In line with our overall decision to keep the core-oblique distinction, we shoul
 
 ## Remove special relations for passive subjects
 
-The current guidelines distinguish [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from [u-dep/nsubj](), [u-dep/csubj]() and [u-dep/aux]() to capture the fact that the subject of a passive has a different role than the subject of the corresponding active verb. While this is useful for many NLP applications of UD, it seems to go against the general spirit in UD of annotating syntactic functions rather than semantic roles. A possible counterargument is that passive is a grammaticalized process and therefore part of syntax, but it seems we should then treat other valency-changing operations like causative and antipassive in the same way. Not only would this lead to a proliferation of grammatical relations, it would also go against the lexicalist stance in UD, which seems to favor a lexicalist analysis of these operations (as in LFG, for example). 
+The current guidelines distinguish [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from [u-dep/nsubj](), [u-dep/csubj]() and [u-dep/aux]() to capture the fact that the subject of a passive has a different role than the subject of the corresponding active verb. While this is useful for many NLP applications of UD, it seems to go against the general spirit in UD of annotating syntactic functions rather than semantic roles. A possible counterargument is that passive is a grammaticalized process and therefore part of syntax, but it seems we should then treat other valency-changing operations like causative and antipassive in the same way. Not only would this lead to a proliferation of grammatical relations, it would also go against the lexicalist stance in UD, which seems to favor a lexicalist analysis of these operations (as in LFG, for example).
 
 Our proposal is therefore that we get rid of the core argument relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() and instead encode information about valency-changing operations only on the predicate. If the valency-changing operation is encoded morphologically (either as inflection or as derivation), it can be encoded using a morphological feature like Voice=Pass or Voice=Caus. If it is encoded periphrastically, this option is not directly applicable and we therefore
-propose to preserve the information encoded in the [u-dep/auxpass]() relation, but to make it a language-specific option, hence **aux:pass**. This also opens up for relations like **aux:caus** for languages that has a periphrastic causative construction. 
+propose to preserve the information encoded in the [u-dep/auxpass]() relation, but to make it a language-specific option, hence **aux:pass**. This also opens up for relations like **aux:caus** for languages that have a periphrastic causative construction.
 
 <div id="s8" class="sd-parse">
 she was invited to the party
@@ -118,7 +118,7 @@ One of the cornerstones of the UD taxonomy of syntactic relations is the distinc
 * [u-dep/amod]()/[u-dep/acl]() is used for a modifier/clause that attaches to a nominal
 * [u-dep/advmod]()/[u-dep/advcl]() is used for a modifier/clause dependent to a predicate (or adjective or adverb)
 
-But in the case of nominals, the [u-dep/nmod]() has to double duty and cover both adnominal and adverbial uses of 
+But in the case of nominals, the [u-dep/nmod]() has to double duty and cover both adnominal and adverbial uses of
 nominals. Compare the following examples:
 
 <div id="s9" class="sd-parse">
@@ -137,30 +137,30 @@ nmod(car, street)
 </div>
 
 <div id="s12" class="sd-parse">
-they ran quickly 
+they ran quickly
 advmod(ran, quickly)
 </div>
 
 <div id="s13" class="sd-parse">
-they ran when the bell sounded 
+they ran when the bell sounded
 advcl(ran, sounded)
 </div>
 
 <div id="s14" class="sd-parse">
-they ran to the forest 
+they ran to the forest
 nmod(ran, forest)
 </div>
 
-This is problematic especially in nominal clauses, where the category of the head does not disambiguate 
-between the two uses. 
+This is problematic especially in nominal clauses, where the category of the head does not disambiguate
+between the two uses.
 
 <div id="s15" class="sd-parse">
-she is a doctor of medicine  
+she is a doctor of medicine
 nmod(doctor, medicine)
 </div>
 
 <div id="s16" class="sd-parse">
-she is a doctor at the hospital  
+she is a doctor at the hospital
 nmod(doctor, hospital)
 </div>
 
@@ -172,5 +172,5 @@ We therefore propose that the [u-dep/nmod]() relation is split into two relation
 ## To discuss
 
 * Non-canonical subjects: One issue that needs to be discussed is under what circumstances subjects can occur with oblique encoding. In Turkish subordinate clauses, for example, the verb is nominalized and the subject occurs in genitive instead of nominative. This is a completely regular grammatical process of complementation, and it occurs regardless of which verb is involved, so it seems well motivated to say that the genitive nominal is still the subject. By contrast, many languages express possession with a form of the verb “to be”, the thing owned in nominative and the possessor in an oblique case like dative. That is, instead of saying “X has Y”, they say “Y is to X”. In this case, there is no reason to say that the dative nominal is the subject, just because the corresponding nominal would be the subject in other languages. After all, it is precisely this kind of systematic difference between languages that we want to be able to study.
-* Expletives: When should the [u-dep/expl]() relation be used? Is it reserved for pleonastic subjects or can it also be used for non-referential pronouns in inherent reflexives? What about clitics? 
+* Expletives: When should the [u-dep/expl]() relation be used? Is it reserved for pleonastic subjects or can it also be used for non-referential pronouns in inherent reflexives? What about clitics?
 
