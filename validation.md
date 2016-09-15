@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-15T06:57:39Z">2016-09-15T06:57:39 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-15T07:48:02Z">2016-09-15T07:48:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2138,11 +2138,11 @@ python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-manual.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-15T06:57:38Z">2016-09-15T06:57:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-15T07:48:00Z">2016-09-15T07:48:00 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vn-ud-dev.conllu
+python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vi-ud-dev.conllu
 
 [Tree number 0 on line 0]: The language-specific file data/deprel.vi could not be found. Dependency relations will not be checked.
 Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.vi
@@ -2223,7 +2223,7 @@ Syntax errors: 1227
 
 ******************
 
-python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vn-ud-test.conllu
+python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vi-ud-test.conllu
 
 [Tree number 0 on line 0]: The language-specific file data/deprel.vi could not be found. Dependency relations will not be checked.
 Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.vi
@@ -2304,7 +2304,7 @@ Syntax errors: 1222
 
 ******************
 
-python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vn-ud-train.conllu
+python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vi-ud-train.conllu
 
 [Tree number 0 on line 0]: The language-specific file data/deprel.vi could not be found. Dependency relations will not be checked.
 Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.vi
