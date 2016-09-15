@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-15T07:48:02Z">2016-09-15T07:48:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-15T09:10:31Z">2016-09-15T09:10:31 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2138,27 +2138,19 @@ python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-manual.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-15T07:48:00Z">2016-09-15T07:48:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-15T09:10:30Z">2016-09-15T09:10:30 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vi-ud-dev.conllu
-
-[Tree number 0 on line 0]: The language-specific file data/deprel.vi could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.vi
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.vi could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.vi It's okay if the file is empty, but it must exist.
- 
-
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang vi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Vietnamese/vi-ud-dev.conllu
 
 [Line                   1]: Unknown UPOS tag: N
 [Line                   2]: Unknown UPOS tag: Ny
+[Line                   2]: Unknown UD DEPREL: nn
 [Line                   2]: Invalid UPOSTAG value Ny
 [Line                   3]: Unknown UPOS tag: R
 [Line                   4]: Unknown UPOS tag: V
+[Line                   4]: Unknown UD DEPREL: Root
 [Line                   4]: Invalid DEPREL value Root
 [Line                   5]: Unknown UPOS tag: ,
 [Line                   5]: Invalid UPOSTAG value ,
@@ -2172,70 +2164,58 @@ Please add the language-specific pairs using python conllu-stats.py --catvals=la
 [Line                   11]: Unknown UPOS tag: ...
 [Line                   11]: Invalid UPOSTAG value ...
 [Line                   12]: Unknown UPOS tag: A
+[Line                   12]: Unknown UD DEPREL: apredmod
 [Line                   13]: Unknown UPOS tag: E
+[Line                   13]: Unknown UD DEPREL: prep
 [Line                   14]: Unknown UPOS tag: V
+[Line                   14]: Unknown UD DEPREL: pcomp
 ...suppressing further errors regarding Morpho
+[Line                   20]: Unknown UD DEPREL: num
+[Line                   22]: Unknown UD DEPREL: vmod
 [Line                   25]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   27]: Unknown UD DEPREL: nn
+[Line                   28]: Unknown UD DEPREL: num
+[Line                   29]: Unknown UD DEPREL: nn
+[Line                   31]: Unknown UD DEPREL: Root
 [Line                   31]: Invalid DEPREL value Root
 [Line                   34]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   35]: Unknown UD DEPREL: nc
+[Line                   37]: Unknown UD DEPREL: Root
 [Line                   37]: Invalid DEPREL value Root
-[Line                   51]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   54]: Invalid DEPREL value Root
-[Line                   66]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   74]: Invalid DEPREL value Root
-[Line                   76]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   79]: Invalid DEPREL value Root
-[Line                   81]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   95]: Invalid DEPREL value Root
-[Line                   97]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   101]: Invalid DEPREL value Root
-[Line                   104]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   109]: Invalid DEPREL value Root
-[Line                   118]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   126]: Invalid DEPREL value Root
-[Line                   134]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   139]: Invalid DEPREL value Root
-[Line                   152]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   158]: Invalid DEPREL value Root
-[Line                   164]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   167]: Invalid DEPREL value Root
-[Line                   173]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   176]: Invalid DEPREL value Root
-[Line                   193]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   206]: Invalid DEPREL value Root
-[Line                   217]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   218]: Invalid DEPREL value Root
-[Line                   235]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   240]: Invalid DEPREL value Root
-[Line                   242]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   244]: Invalid DEPREL value Root
-[Line                   248]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   264]: Invalid DEPREL value Root
-[Line                   274]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   38]: Unknown UD DEPREL: vmod
+[Line                   43]: Unknown UD DEPREL: vmod
+[Line                   44]: Unknown UD DEPREL: prep
 ...suppressing further errors regarding Syntax
+[Line                   51]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   66]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   76]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   81]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   97]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   104]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   118]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   134]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   152]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   164]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   173]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   193]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   217]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   235]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   242]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   248]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   274]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
 ...suppressing further errors regarding Format
-*** FAILED *** with 9017 errors
+*** FAILED *** with 11450 errors
 Format errors: 403
-Language specific data missing errors: 2
 Morpho errors: 7385
-Syntax errors: 1227
+Syntax errors: 3662
 
 
 ******************
 
-python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vi-ud-test.conllu
-
-[Tree number 0 on line 0]: The language-specific file data/deprel.vi could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.vi
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.vi could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.vi It's okay if the file is empty, but it must exist.
- 
-
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang vi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Vietnamese/vi-ud-test.conllu
 
 [Line                   1]: Unknown UPOS tag: V
+[Line                   1]: Unknown UD DEPREL: Root
 [Line                   1]: Invalid DEPREL value Root
 [Line                   2]: Unknown UPOS tag: :
 [Line                   2]: Invalid UPOSTAG value :
@@ -2243,87 +2223,80 @@ Please add the language-specific pairs using python conllu-stats.py --catvals=la
 [Line                   3]: Invalid UPOSTAG value Np
 [Line                   4]: Unknown UPOS tag: V
 [Line                   5]: Unknown UPOS tag: M
+[Line                   5]: Unknown UD DEPREL: num
 [Line                   6]: Unknown UPOS tag: Nc
+[Line                   6]: Unknown UD DEPREL: nc
 [Line                   6]: Invalid UPOSTAG value Nc
 [Line                   7]: Unknown UPOS tag: N
 [Line                   8]: Unknown UPOS tag: E
+[Line                   8]: Unknown UD DEPREL: prep
 [Line                   9]: Unknown UPOS tag: N
+[Line                   9]: Unknown UD DEPREL: pobj
 [Line                   10]: Unknown UPOS tag: Nc
+[Line                   10]: Unknown UD DEPREL: nc
 [Line                   10]: Invalid UPOSTAG value Nc
 [Line                   11]: Unknown UPOS tag: Np
+[Line                   11]: Unknown UD DEPREL: nn
 [Line                   11]: Invalid UPOSTAG value Np
 [Line                   12]: Unknown UPOS tag: V
+[Line                   12]: Unknown UD DEPREL: vmod
 [Line                   13]: Unknown UPOS tag: E
+[Line                   13]: Unknown UD DEPREL: prep
 [Line                   14]: Unknown UPOS tag: N
+[Line                   14]: Unknown UD DEPREL: pobj
 ...suppressing further errors regarding Morpho
 [Line                   16]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   17]: Unknown UD DEPREL: Root
 [Line                   17]: Invalid DEPREL value Root
+[Line                   19]: Unknown UD DEPREL: vmod
+[Line                   21]: Unknown UD DEPREL: vmod
 [Line                   24]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   25]: Unknown UD DEPREL: nc
+[Line                   27]: Unknown UD DEPREL: Root
 [Line                   27]: Invalid DEPREL value Root
-[Line                   33]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   43]: Invalid DEPREL value Root
-[Line                   58]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   63]: Invalid DEPREL value Root
-[Line                   69]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   77]: Invalid DEPREL value Root
-[Line                   79]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   84]: Invalid DEPREL value Root
-[Line                   87]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   91]: Invalid DEPREL value Root
-[Line                   109]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   112]: Invalid DEPREL value Root
-[Line                   127]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   138]: Invalid DEPREL value Root
-[Line                   146]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   159]: Invalid DEPREL value Root
-[Line                   168]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   171]: Invalid DEPREL value Root
-[Line                   177]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   179]: Invalid DEPREL value Root
-[Line                   193]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   200]: Invalid DEPREL value Root
-[Line                   203]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   205]: Invalid DEPREL value Root
-[Line                   210]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   216]: Invalid DEPREL value Root
-[Line                   218]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   221]: Invalid DEPREL value Root
-[Line                   232]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   241]: Invalid DEPREL value Root
-[Line                   248]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   251]: Invalid DEPREL value Root
-[Line                   258]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   29]: Unknown UD DEPREL: prep
 ...suppressing further errors regarding Syntax
+[Line                   33]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   58]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   69]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   79]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   87]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   109]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   127]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   146]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   168]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   177]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   193]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   203]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   210]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   218]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   232]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   248]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   258]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
 ...suppressing further errors regarding Format
-*** FAILED *** with 8758 errors
+*** FAILED *** with 11046 errors
 Format errors: 401
-Language specific data missing errors: 2
 Morpho errors: 7133
-Syntax errors: 1222
+Syntax errors: 3512
 
 
 ******************
 
-python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vi-ud-train.conllu
-
-[Tree number 0 on line 0]: The language-specific file data/deprel.vi could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.vi
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.vi could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.vi It's okay if the file is empty, but it must exist.
- 
-
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang vi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Vietnamese/vi-ud-train.conllu
 
 [Line                   1]: Unknown UPOS tag: Nc
+[Line                   1]: Unknown UD DEPREL: nc
 [Line                   1]: Invalid UPOSTAG value Nc
 [Line                   2]: Unknown UPOS tag: N
 [Line                   3]: Unknown UPOS tag: E
+[Line                   3]: Unknown UD DEPREL: prep
 [Line                   4]: Unknown UPOS tag: N
+[Line                   4]: Unknown UD DEPREL: pobj
 [Line                   5]: Unknown UPOS tag: N
+[Line                   5]: Unknown UD DEPREL: nn
 [Line                   6]: Unknown UPOS tag: R
 [Line                   7]: Unknown UPOS tag: V
+[Line                   7]: Unknown UD DEPREL: Root
 [Line                   7]: Invalid DEPREL value Root
 [Line                   8]: Unknown UPOS tag: N
 [Line                   9]: Unknown UPOS tag: A
@@ -2332,55 +2305,49 @@ Please add the language-specific pairs using python conllu-stats.py --catvals=la
 [Line                   11]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
 [Line                   12]: Unknown UPOS tag: N
 [Line                   13]: Unknown UPOS tag: V
+[Line                   13]: Unknown UD DEPREL: vmod
 [Line                   14]: Unknown UPOS tag: V
 [Line                   15]: Unknown UPOS tag: V
+[Line                   15]: Unknown UD DEPREL: Root
 [Line                   15]: Invalid DEPREL value Root
 [Line                   16]: Unknown UPOS tag: R
 [Line                   17]: Unknown UPOS tag: N
 [Line                   18]: Unknown UPOS tag: Np
+[Line                   18]: Unknown UD DEPREL: nn
 ...suppressing further errors regarding Morpho
+[Line                   21]: Unknown UD DEPREL: nn
+[Line                   26]: Unknown UD DEPREL: nn
+[Line                   27]: Unknown UD DEPREL: nn
+[Line                   30]: Unknown UD DEPREL: num
+[Line                   33]: Unknown UD DEPREL: nn
+[Line                   34]: Unknown UD DEPREL: nn
 [Line                   37]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   42]: Unknown UD DEPREL: nn
+[Line                   43]: Unknown UD DEPREL: Root
 [Line                   43]: Invalid DEPREL value Root
-[Line                   52]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   68]: Invalid DEPREL value Root
-[Line                   75]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   77]: Invalid DEPREL value Root
-[Line                   90]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   94]: Invalid DEPREL value Root
-[Line                   105]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   108]: Invalid DEPREL value Root
-[Line                   110]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   116]: Invalid DEPREL value Root
-[Line                   119]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   124]: Invalid DEPREL value Root
-[Line                   128]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   136]: Invalid DEPREL value Root
-[Line                   144]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   151]: Invalid DEPREL value Root
-[Line                   162]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   164]: Invalid DEPREL value Root
-[Line                   178]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   191]: Invalid DEPREL value Root
-[Line                   195]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   199]: Invalid DEPREL value Root
-[Line                   207]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   213]: Invalid DEPREL value Root
-[Line                   215]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   222]: Invalid DEPREL value Root
-[Line                   240]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   246]: Invalid DEPREL value Root
-[Line                   251]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   255]: Invalid DEPREL value Root
-[Line                   262]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   272]: Invalid DEPREL value Root
-[Line                   280]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
 ...suppressing further errors regarding Syntax
+[Line                   52]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   75]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   90]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   105]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   110]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   119]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   128]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   144]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   162]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   178]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   195]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   207]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   215]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   240]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   251]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   262]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
+[Line                   280]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
 ...suppressing further errors regarding Format
-*** FAILED *** with 45857 errors
+*** FAILED *** with 58072 errors
 Format errors: 2209
-Language specific data missing errors: 2
 Morpho errors: 38721
-Syntax errors: 4925
+Syntax errors: 17142
 
 
 ******************
