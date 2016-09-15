@@ -15,12 +15,12 @@ title:  'Segmentation in UD v2'
 
 ## Spaces as syllable delimiters 
 
-There is pretty much unanimous agreement that spaces should be allowed in the Vietnamese treebank, and tokens should be (syntactic) words and not syllables. As far as we know Vietnamese is the only language where this is necessary, but still all tools will need to be able to support having spaces in CoNLL-U columns. Consider the following example, "Minh is (a) teacher.", where <i>giáo viên</i> is a bisyllabic word meaning "teacher".
+There is pretty much unanimous agreement that spaces should be allowed in the Vietnamese treebank, and tokens should be (syntactic) words and not syllables. As far as we know Vietnamese is the only language where this is necessary, but still all tools will need to be able to support having spaces in CoNLL-U columns. Consider the following example, "Minh is (a) teacher.", where <i>giáo viên</i> is a bisyllabic word meaning "teacher". (Currently using underscore, "giáo_viên", because even the tree visualization tool cannot work with word-internal spaces.)
 
 ~~~ conllu
 1	Minh	Minh	PROPN	_	_	3	nsubj	_	_
-2	là 	là	VERB	_	_	3	cop	_	_
-3	giáo viên	giáo viên	NOUN	_	_	0	root	_	_
+2	là	là	VERB	_	_	3	cop	_	_
+3	giáo_viên	giáo_viên	NOUN	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 ~~~
 
