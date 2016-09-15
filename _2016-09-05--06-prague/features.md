@@ -5,6 +5,12 @@ title:  'Features in UD v2'
 
 # Features in UD v2
 
+The proposals in this chapter are based on
+
+1. experience with applying the v1 features (see also the issue tracker)
+2. survey of language-specific features and values used in current UD treebanks (especially those that are also documented)
+3. draft proposal from the UniMorph project, which has similar goals as UD features (see below for a comparison of UniMorph and UD features)
+
 ## Renaming existing features and/or values
 
 See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for related discussion.
