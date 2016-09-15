@@ -38,7 +38,7 @@ In the following cases of head ellipsis, we promote a modifier of the elided hea
 
 ### Nominals
 
-If the head nominal is elided, we promote dependents in the following order: `amod` > `det` > `nummod` > `nmod` > `case`.
+If the head nominal is elided, we promote dependents in the following order: `amod` > `nummod` > `det` > `nmod` > `case`.
 
 Examples:
 
