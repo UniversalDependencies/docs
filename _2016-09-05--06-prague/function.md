@@ -7,7 +7,7 @@ title:  'Function words in UD v2'
 
 Treatment of copula constructions in the treebanks of UD v1.x is very diverse (see Table on the _status quo_ below). The main point of departure for UD v2.0 is that differences between languages in copula constructions should be motivated by real syntactic differences, not by differences in traditional grammars.
 
-<!-- TL;DR we can't make a perfect scheme, but hopefully treebanks released under v2.0 will be more consistent both crosslinguistically and in-language than v1.x -->
+Because of the variability in how copulas are treated, it is hard to come up with a consistent scheme that can be applied totally cross-linguistically. There are also many cases, such as copulas with clausal arguments that require more in-depth investigation. However, we hope that by the following guidelines the treebanks released under UD v2.0 will be more consistent in their treatment of the copula both cross-linguistically and within a single language.
 
 ## General guidelines and overview
 
@@ -41,6 +41,8 @@ What to do with clausal arguments:
 
 * When a copula clause is used as a subject of another copula, it should be receive the relation `csubj:cop`. For example in the sentence: "Being well-informed will give you certainty." `csubj:cop(give, well-informed)`, `cop(well-informed, Being)`
 
+__TO DISCUSS: Take a look at the commented out examples___
+
 <!--
 
 Being well-informed will give you certainty .
@@ -60,6 +62,10 @@ Most of the focus was on developing the economy
 His primary interest was in applying the methodology
 
 The expulsion was for hitting a professor
+
+Två viktiga ting är att säga om svårigheter i äktenskap . 
+
+En nödvändig förutsättning är att männen är helt med på saken .
 
 -->
 

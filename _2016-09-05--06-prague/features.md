@@ -73,7 +73,7 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * TO DISCUSS: `Mood=Prs` (persuasive) in Turkish. Reportedly similar in meaning to imperative, but tries to persuade the addressee rather than issuing a direct command.
 * [u-feat/Tense]()
   * Do not add `Tense=Aor` (aorist), despite its current usage in Ancient Greek and Turkish.
-    It is a confusing term with different meaning in grammars of different languages.
+    It is a confusing term with different meanings in grammars of different languages.
     In Slavic languages we use normal `Tense=Past` to denote aorist.
     In Turkish it is the unmarked non-past form.
   * Do not add sequences of tense markings, which are currently used in Turkish and may be needed in other agglutinating languages. Leave them language-specific.
@@ -100,28 +100,74 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * TO DISCUSS: `Voice=Auto` (ga).
   * Do not add sequences of voice markings, which are currently used in Turkish and may be needed in other agglutinating languages. Leave them language-specific.
     [tr] CauPass.
-* TO DISCUSS: `Definite=2` in Hungarian. Description: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite). Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am watching a film”) and a second person object (_nézlek téged_ “I am watching you”). So `Definite=2` is actually not about definiteness proper, maybe it should be `Person[obj]`. Perhaps we should leave this value specific to Hungarian.
-* TO DISCUSS: `PronType=Clit` (it), Emp (ro), Exc (it), Ord (it), Predet (it)
-* TO DISCUSS: should we add `Person=0` and `4` from UniMorph?
+* [u-feat/PronType]()
+  * Add `PronType=Emp` (emphatic) from Romanian. There are similarities with reflexive and demonstrative pronouns / determiners.
+    Example: _himself_ as in "He himself did it." Czech _sám_, Romanian _însuși_.
+  * Add `PronType=Exc` (exclamative) from Italian (but it can be defined in other languages, too). It expresses the
+    speaker's surprise towards the modified noun, e.g. _what_ in "What a surprise!" In many languages, exclamative
+    determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them.
+  * TO DISCUSS: `PronType=Clit` (it). Used for clitic pronouns in [Italian](it-feat/PronType), e.g.
+    _<b>Si</b> è rotto_ “It has broken”. The clitic pronouns are the most frequent type in Italian UD, accounting for
+    41% of all occurrences; the most frequent forms are _si, ci, ne, c’, lo, vi, mi, la, gli, li._
+    But I think that being clitic is a property orthogonal to our pronoun types and these are probably just a special
+    subtype of personal pronouns, aren't they? Perhaps they should be `PronType=Prs` but distinguished by `Case`?
+  * TO DISCUSS: `PronType=Predet` (it). Used for (pre)determiners like _tutti_ "all", _entrambi_ "both".
+    But I think that being placed before another determiner is a property orthogonal to our pronoun types. These two
+    instances should be simply `PronType=Tot`.
+  * TO DISCUSS: `PronType=Ord` (it). Used for ordinal numerals like _primo_ "first", _secondo_ "second", _terzo_ "third".
+    In UD, these are not pronouns or determiners but adjectives (`ADJ`). And their ordinal status should be marked by
+    `NumType=Ord`, which is a universal feature. `PronType=Ord` should be removed from Italian.
+* [u-feat/Person]()
+  * TO DISCUSS: should we add `Person=0` and `4` from UniMorph?
+* [u-feat/Definite]()
+  * TO DISCUSS: `Definite=2` in Hungarian.
+    Description: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite).
+    Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between
+    a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am
+    watching a film”) and a second person object (_nézlek téged_ “I am watching you”). So `Definite=2` is actually not
+    about definiteness proper, maybe it should be `Person[obj]`. Perhaps we should leave this value specific to
+    Hungarian.
 
 ## Adding new features
 
-* `Abbr=Yes` (abbreviation) is not language-specific and is currently used in 12 treebanks: ar, cs, cs_cac, cs_cltt, da, et, fi, fi_ftb, fo, la_ittb, pl, ro.
-* `Evidentiality` currently used only in Turkish but it seems like this is an important feature in non Indo-European languages.
-* `Foreign` is not language-specific and is currently used in 13 treebanks: ar, cs, cs_cac, da, de, es, et, fi, fo, hi, nl, sl, sl_sst. The values should be discussed though.
-* TO DISCUSS: `NumForm=Digit|Roman|Word`. Used in 12 treebanks: ar, ca, cs, cs_cac, es_ancora, et, la_ittb, nl, pt, ro, sl, ta. Inconsistency in Estonian: `NumForm=Letter` instead of `Word`.
-* TO DISCUSS: `PartType`: is it particle or participle? Currently used in ga, da, nl, ro.
-* TO DISCUSS: `Polite` is used in 9 treebanks: ca, da, de, es, es_ancora, eu, hi, sa, ta. Turkish has `Register` which may be the same thing.
-* TO DISCUSS: `Strength` (of adjectives): cu, got, ro. In cu, it is used for the long vs. short Slavic adjectives, for which elsewhere `Variant=Short|Long` is used.
-* TO DISCUSS: `Inter(rogativity)` as in UniMorph?
-  * Other moods that are used in UD Turkish: `Abil`, `AbilCnd`, `AbilDes`, `AbilGen`, `AbilGenNec`, `AbilImp`, `AbilNec`, `AbilPrs`,
-    `Gen`, `GenNec`, `Prs`. The `Abil` should probably be replaced by the universal feature `Mood=Pot` (potential).
-    `Prs` means persuasive, reportedly related to imperative but different in that we try to persuade the addressee to do something instead of just commanding.
-  * We currently lack values for purposive, intentive, admirative, permissive, deductive and simulative, and we may want to add them.
+* `Evident` (evidentiality) is currently used only in Turkish but it seems like this is an important feature in non-Indo-European languages.
+  We could take the values from UniMorph. At present we only need `Evident=Nfh` (non-first hand).
+* `Polite` (politeness) is currently used in 9 treebanks: ca, da, de, es, es_ancora, eu, hi, sa, ta. In addition, the
+  Turkish treebank has `Register`, which seems to be just another name for politeness, with values `Form` and `Inf`,
+  contrasting e.g. the 3rd person verb forms _etmekte_ (`Form`) and _ediyor_ (`Inf`) "he is doing".
+  UniMorph distinguishes four axes along which politeness may be scaled (see below), one of them covering another
+  feature currently used in a few UD treebanks, `Style`.
+  I propose to add, for the time being, the feature `Polite` with the UniMorph-like values from the speaker-referent
+  axis, i.e. `Infm` (informal), `Form` (formal), `Elev` (elevated status of referent; interpreted as a subtype of
+  `Form`), `Humb` (humbled status of speaker; subtype of `Form`). That will let us cover the Indo-European tu/vous
+  pronouns, as well as part of Japanese honorifics. TO DISCUSS: does the Turkish register belong here too, or is it
+  better described as (in)formal style, without referring to anyone?
+* [Abbr=Yes](cs-feat/Abbr) (abbreviation) is not language-specific and is currently used in 12 treebanks: ar, cs, cs_cac, cs_cltt, da, et, fi, fi_ftb, fo, la_ittb, pl, ro.
+* [Foreign](cs-feat/Foreign) is not language-specific and is currently used in 13 treebanks: ar, cs, cs_cac, da, de, es, et, fi, fo, hi, nl, sl, sl_sst.
+  The values should be discussed though.
+  The currently used values are `Foreign`, `Fscript` and `Tscript` but most treebanks use only the first one. Alternatively we could make it just a binary feature,
+  `Foreign=Yes`, which it was originally.
+* TO DISCUSS: `NumForm=Digit|Roman|Word`.
+  The values can arguably be easily deduced from the word form; nevertheless, it is now used in 12 treebanks: ar, ca, cs, cs_cac, es_ancora, et, la_ittb, nl, pt, ro, sl, ta.
+  Inconsistency in Estonian: `NumForm=Letter` instead of `Word`, which is used elsewhere.
+* TO DISCUSS: `PartType` (particle type, not participle type). Given how diverse the [u-pos/PART]() category is, it
+  would make sense to define its subcategories. Currently used in ga, da, nl, ro, with the following values:
+  `Inf` (infinitive marker; used in ga, da, nl, ro),
+  `Vbp` (used for separable verb prefixes in [nl] but they should be tagged `ADP`, not `PART`, and would not get this feature),
+  `Ad`, `Cmpl`, `Comp`, `Cop`, `Deg`, `Num`, `Pat`, `Vb`, `Voc` (meaning unknown, no documentation; used in Irish).
+  On the other hand, the function of the particle can sometimes (often?) be expressed using other features that already exist.
+  For instance, the particles marking infinitives could have the feature `VerbForm=Inf`.
+  Similarly, negative particles like [en] _not_ could have `Polarity=Neg`.
+* TO DISCUSS: `Interrog` (interrogativity). In some sense it is parallel to (but separate from) polarity (negativity).
+  It may mark independent question particles, which exist in some languages (but note that these could also be covered
+  by `PartType=Int` if we approve the feature), as well as interrogative forms of verbs (which are currently labeled
+  by `Mood=Int` in Irish; is it possible that an interrogative verb form also needs another mood marked, e.g. necessitative?)
+  It would not apply to interrogative pronouns, determiners and adverbs, which are already marked by `PronType=Int`—much
+  like `Polarity=Neg` is not used where `PronType=Neg` is. Similarly to polarity, the feature is proposed in UniMorph.
+  It has two values there, `Decl` and `Int`, but the former is not expected to be used frequently (similar to `Pos` in
+  `Polarity`) because declarativeness is usually not marked.
 
 ## Comparison with UniMorph
-
-Ideally a mapping of the features that exist in both systems.
 
 General differences:
 
@@ -141,7 +187,14 @@ General differences:
 ### UniMorph dimensions (draft v2)
 
 * `Aktionsart`, values: `STAT` (stative), `DYN` (dynamic), `TEL` (telic), `ATEL` (atelic), `PCT` (punctual), `DUR` (durative), `ACH` (achievement), `ACCMP` (accomplishment), `SEMEL` (semelfactive), `ACTY` (activity). Aktionsart is a feature that we don't have in UD but it is closely related to our [Aspect](../u/feat/Aspect.html). Aspect in Slavic languages is treated as a lexical feature, change of aspect is considered a derivation. Perfective verbs in Slavic languages correspond to telic verbs in UniMorph, imperfective verbs correspond to atelic verbs and statives. However, aktionsart could be defined for other languages including English, while aspect is not marked in UD English.
-* `Animacy`, values: `ANIM` (animate), `INAN` (inanimate), `HUM` (human), `NHUM` (non-human). In UD we don't have human but we do have the other three. We treat animacy as a scale of either two values (animate, inanimate), or three values (animate, non-human, inanimate). In the latter case (which so far appears only in UD Polish), the animate value is interpreted as human-only, while in other languages it includes animals. We could add the human value but note that this is not the only feature where a value has shifting semantic contents. For example, `Number=Plur` normally means "more than one", but in languages with dual it means "more than two".
+* `Animacy`, values: `ANIM` (animate), `INAN` (inanimate), `HUM` (human), `NHUM` (non-human).
+  In UD we don't have human but we do have the other three. We treat animacy as a scale of either two values (animate,
+  inanimate), or three values (animate, non-human, inanimate). In the latter case (which so far appears only in UD
+  Polish), the animate value is interpreted as human-only, while in other languages it includes animals. We could add
+  the human value but note that this is not the only feature where a value has shifting semantic contents. For example,
+  `Number=Plur` normally means "more than one", but in languages with dual it means "more than two". On the other hand,
+  if there is a language that only distinguishes human vs. non-human, it will be more natural to have the values `Hum`
+  and `Nhum` than combining `Anim` and `Nhum`. THOUGHTS?
 * `Argument Marking` for head-marking languages. UniMorph uses templatic features `ARG`+`Case`+`Person`+`Number`, e.g. `ARGNO1S` means that the nominative argument of the current verb is 1st person singular. Available cases are nominative, accusative, absolutive, ergative, dative, benefactive. We mostly only need to annotate agreement of the verb with its subject, i.e. the nominative argument, and we use the `Person` and `Number` features of the verb for this. So far only Basque needs more, as the verbs may agree there with up to three arguments (absolutive, ergative and dative). We use the layered features, i.e. `Person[abs]`, `Person[erg]`, `Person[dat]`, `Number[abs]` etc.
 * `Aspect`, values: `IPFV` (imperfective), `PFV` (perfective), `PRF` (perfect), `PROG` (progressive), `PROSP` (prospective), `ITER` (iterative), `HAB` (habitual).
   Their aspect + aktionsart is not compatible with our aspect, although we have a few values in common (perfect/ive, imperfective, progressive, prospective).
@@ -168,7 +221,7 @@ General differences:
   * Local / aspect: `APPRX` (approximative), `TERM` (terminative), `PROL` (prolative/translative), `VERS` (versative).
   * UD has `Case=Loc`, which is used in a number of Indo-European languages (especially Slavic) but also in Basque, Turkish and others.
     It has mostly a locative meaning, where the placement and direction are not precisely specified. It can also have a non-locative meaning.
-    There does not seem to be a direct counterpart of the locative case in UniMorph.
+    There does not seem to be a direct counterpart of the locative case in UniMorph; maybe plain `ESS` is closest.
   * The UniMorph draft accounts for compositionality of locative morphemes in some languages: "from [the place] between us" could be encoded as _we_ + `INTER` + `ABL`.
     In contrast, we use established terms for some of the combinations but definitely cannot encode all possible combinations in all languages.
     Our local cases are:
@@ -364,7 +417,9 @@ General differences:
 * `Style` used in Czech, Danish and Finnish
 * `Subcat` used only in Dutch
 * `Typo=Yes` could be useful in all treebanks but we first need a general guideline for handling typos. Should the form in FORM be original, or fixed? And should we have a MISC attribute with the fixed or original form? See also [issue 330](https://github.com/UniversalDependencies/docs/issues/330).
-* `Variant`; what is `Variant=Brev` in Russian?
+* `Variant`; `Variant=Brev` in Russian denotes the short-form adjective (_холоден_, as opposed to _холодный_), which
+  are distinguished by definiteness in South Slavic, and by `Variant=Short` (vs. `Long`) in West Slavic. Maybe this
+  opposition would deserve a Slavic-specific feature, `AdjForm=Short|Long`.
 * `VerbType=Aux|Mod|Cop|Main`; currently used in Hebrew, Dutch and Latin; it has to be seen how much such a feature will be demanded if we remove the `AUX` tag.
 * `Xtra=Junk` used in Hebrew
 
@@ -383,4 +438,4 @@ We may want to standardize some of the layers but they seem to be de-facto stand
   _Converbs in Cross-Linguistic Perspective: Structure and Meaning of Adverbial Verb Forms – Adverbial Participles, Gerunds –,_
   edited by Martin Haspelmath and Ekkehard König, Berlin: Mouton de Gruyter, Empirical Approaches to Language Typology, 1–56.
 * Kornfilt, Jaklin. _Turkish._ London and New York: Routledge, 1997.
-* Sussex, Roland and Cubberley, Paul. 2006. The Slavic Languages. Cambridge University Press.
+* Sussex, Roland and Cubberley, Paul. 2006. _The Slavic Languages._ Cambridge University Press.
