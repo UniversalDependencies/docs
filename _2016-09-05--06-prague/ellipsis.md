@@ -210,8 +210,9 @@ They had left the company , many E7.1 for good .
 
 nsubj(left, They)
 dobj(left, company)
-conj>nsubj(left, many)
-conj>nmod(left, good)
+conj(left, E7.1)
+nsubj(E7.1, many)
+nmod(E7.1, good)
 ~~~
 
 
