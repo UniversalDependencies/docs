@@ -134,7 +134,7 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   We could take the values from UniMorph. At present we only need `Evident=Nfh` (non-first hand).
 * `Polite` (politeness) is currently used in 9 treebanks: ca, da, de, es, es_ancora, eu, hi, sa, ta. In addition, the
   Turkish treebank has `Register`, which seems to be just another name for politeness, with values `Form` and `Inf`,
-  contrasting e.g. the 3rd person verb forms _etmekte_ (`Form`) and _ediyor_ (`Inf`).
+  contrasting e.g. the 3rd person verb forms _etmekte_ (`Form`) and _ediyor_ (`Inf`) "he is doing".
   UniMorph distinguishes four axes along which politeness may be scaled (see below), one of them covering another
   feature currently used in a few UD treebanks, `Style`.
   I propose to add, for the time being, the feature `Polite` with the UniMorph-like values from the speaker-referent
