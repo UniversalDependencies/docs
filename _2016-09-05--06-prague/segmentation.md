@@ -22,6 +22,7 @@ There is pretty much unanimous agreement that spaces should be allowed in the Vi
 2	là	là	VERB	_	_	3	cop	_	_
 3	giáo_viên	giáo_viên	NOUN	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
+
 ~~~
 
 There was a general consensus that for the remainder of the languages, we should maintain the ban on spaces in tokens. However, we propose that for a highly restricted closed class of orthographic phenomena (with prior approval), there may be some exceptions, for example:
