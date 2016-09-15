@@ -43,7 +43,7 @@ If the head nominal is elided, we promote dependents in the following order: `am
 Examples:
 
 ~~~ sdparse
-Er kauft sich ein grünes Auto und sie kauft sich ein rotes . \nHe buys himself a green car and she buys herself a red .
+Er kauft sich ein grünes Auto und sie kauft sich ein rotes . \n He buys himself a green car and she buys herself a red .
 
 nsubj(kauft-2, Er-1)
 det(Auto-6, ein-4)
@@ -176,6 +176,18 @@ dobj(left, company)
 conj>nsubj(left, many)
 conj>nmod(left, good)
 ~~~
+
+This approach can also be used when the antecedent of the elided node is in another sentence. The artificial ROOT node is now allowed to have more than one child, but only if all are attached via composite relations, starting with `root>`.
+
+~~~ sdparse
+Mary wants to buy a book . ROOT And Jenny a CD .
+
+nsubj(wants-2, Mary-1)
+xcomp(wants-2, buy-4)
+dobj(buy-4, book-6)
+root>nsubj(ROOT, Jenny)
+root>xcomp>dobj(ROOT, CD)
+~~~ 
 
 ## Predicate ellipsis in _Enhanced_ UD v2
 
