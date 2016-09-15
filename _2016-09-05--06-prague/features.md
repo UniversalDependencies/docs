@@ -130,22 +130,44 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
 
 ## Adding new features
 
-* `Abbr=Yes` (abbreviation) is not language-specific and is currently used in 12 treebanks: ar, cs, cs_cac, cs_cltt, da, et, fi, fi_ftb, fo, la_ittb, pl, ro.
-* `Evidentiality` currently used only in Turkish but it seems like this is an important feature in non Indo-European languages.
-* `Foreign` is not language-specific and is currently used in 13 treebanks: ar, cs, cs_cac, da, de, es, et, fi, fo, hi, nl, sl, sl_sst. The values should be discussed though.
-* TO DISCUSS: `NumForm=Digit|Roman|Word`. Used in 12 treebanks: ar, ca, cs, cs_cac, es_ancora, et, la_ittb, nl, pt, ro, sl, ta. Inconsistency in Estonian: `NumForm=Letter` instead of `Word`.
-* TO DISCUSS: `PartType`: is it particle or participle? Currently used in ga, da, nl, ro.
-* TO DISCUSS: `Polite` is used in 9 treebanks: ca, da, de, es, es_ancora, eu, hi, sa, ta. Turkish has `Register` which may be the same thing.
-* TO DISCUSS: `Strength` (of adjectives): cu, got, ro. In cu, it is used for the long vs. short Slavic adjectives, for which elsewhere `Variant=Short|Long` is used.
-* TO DISCUSS: `Inter(rogativity)` as in UniMorph?
-  * Other moods that are used in UD Turkish: `Abil`, `AbilCnd`, `AbilDes`, `AbilGen`, `AbilGenNec`, `AbilImp`, `AbilNec`, `AbilPrs`,
-    `Gen`, `GenNec`, `Prs`. The `Abil` should probably be replaced by the universal feature `Mood=Pot` (potential).
-    `Prs` means persuasive, reportedly related to imperative but different in that we try to persuade the addressee to do something instead of just commanding.
-  * We currently lack values for purposive, intentive, admirative, permissive, deductive and simulative, and we may want to add them.
+* `Evident` (evidentiality) is currently used only in Turkish but it seems like this is an important feature in non-Indo-European languages.
+  We could take the values from UniMorph. At present we only need `Evident=Nfh` (non-first hand).
+* `Polite` (politeness) is currently used in 9 treebanks: ca, da, de, es, es_ancora, eu, hi, sa, ta. In addition, the
+  Turkish treebank has `Register`, which seems to be just another name for politeness, with values `Form` and `Inf`,
+  contrasting e.g. the 3rd person verb forms _etmekte_ (`Form`) and _ediyor_ (`Inf`).
+  UniMorph distinguishes four axes along which politeness may be scaled (see below), one of them covering another
+  feature currently used in a few UD treebanks, `Style`.
+  I propose to add, for the time being, the feature `Polite` with the UniMorph-like values from the speaker-referent
+  axis, i.e. `Infm` (informal), `Form` (formal), `Elev` (elevated status of referent; interpreted as a subtype of
+  `Form`), `Humb` (humbled status of speaker; subtype of `Form`). That will let us cover the Indo-European tu/vous
+  pronouns, as well as part of Japanese honorifics. TO DISCUSS: does the Turkish register belong here too, or is it
+  better described as (in)formal style, without referring to anyone?
+* [Abbr=Yes](cs-feat/Abbr) (abbreviation) is not language-specific and is currently used in 12 treebanks: ar, cs, cs_cac, cs_cltt, da, et, fi, fi_ftb, fo, la_ittb, pl, ro.
+* [Foreign](cs-feat/Foreign) is not language-specific and is currently used in 13 treebanks: ar, cs, cs_cac, da, de, es, et, fi, fo, hi, nl, sl, sl_sst.
+  The values should be discussed though.
+  The currently used values are `Foreign`, `Fscript` and `Tscript` but most treebanks use only the first one. Alternatively we could make it just a binary feature,
+  `Foreign=Yes`, which it was originally.
+* TO DISCUSS: `NumForm=Digit|Roman|Word`.
+  The values can arguably be easily deduced from the word form; nevertheless, it is now used in 12 treebanks: ar, ca, cs, cs_cac, es_ancora, et, la_ittb, nl, pt, ro, sl, ta.
+  Inconsistency in Estonian: `NumForm=Letter` instead of `Word`, which is used elsewhere.
+* TO DISCUSS: `PartType` (particle type, not participle type). Given how diverse the [u-pos/PART]() category is, it
+  would make sense to define its subcategories. Currently used in ga, da, nl, ro, with the following values:
+  `Inf` (infinitive marker; used in ga, da, nl, ro),
+  `Vbp` (used for separable verb prefixes in [nl] but they should be tagged `ADP`, not `PART`, and would not get this feature),
+  `Ad`, `Cmpl`, `Comp`, `Cop`, `Deg`, `Num`, `Pat`, `Vb`, `Voc` (meaning unknown, no documentation; used in Irish).
+  On the other hand, the function of the particle can sometimes (often?) be expressed using other features that already exist.
+  For instance, the particles marking infinitives could have the feature `VerbForm=Inf`.
+  Similarly, negative particles like [en] _not_ could have `Polarity=Neg`.
+* TO DISCUSS: `Interrog` (interrogativity). In some sense it is parallel to (but separate from) polarity (negativity).
+  It may mark independent question particles, which exist in some languages (but note that these could also be covered
+  by `PartType=Int` if we approve the feature), as well as interrogative forms of verbs (which are currently labeled
+  by `Mood=Int` in Irish; is it possible that an interrogative verb form also needs another mood marked, e.g. necessitative?)
+  It would not apply to interrogative pronouns, determiners and adverbs, which are already marked by `PronType=Int`—much
+  like `Polarity=Neg` is not used where `PronType=Neg` is. Similarly to polarity, the feature is proposed in UniMorph.
+  It has two values there, `Decl` and `Int`, but the former is not expected to be used frequently (similar to `Pos` in
+  `Polarity`) because declarativeness is usually not marked.
 
 ## Comparison with UniMorph
-
-Ideally a mapping of the features that exist in both systems.
 
 General differences:
 
