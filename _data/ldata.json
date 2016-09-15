@@ -1267,7 +1267,28 @@
   }, 
   {
     "lang_code": "vi", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "L\u01b0\u01a1ng Nguy\u1ec5n Th\u1ecb", 
+        "last": "Nguy\u1ec5n Th\u1ecb", 
+        "first": "L\u01b0\u01a1ng"
+      }, 
+      {
+        "full": "Linh H\u00e0 M\u1ef9", 
+        "last": "H\u00e0 M\u1ef9", 
+        "first": "Linh"
+      }, 
+      {
+        "full": "Ph\u01b0\u01a1ng L\u00ea H\u1ed3ng", 
+        "last": "L\u00ea H\u1ed3ng", 
+        "first": "Ph\u01b0\u01a1ng"
+      }, 
+      {
+        "full": "Huy\u1ec1n Nguy\u1ec5n Th\u1ecb Minh", 
+        "last": "Nguy\u1ec5n Th\u1ecb Minh", 
+        "first": "Huy\u1ec1n"
+      }
+    ], 
     "lang_name": "Vietnamese"
   }
 ]

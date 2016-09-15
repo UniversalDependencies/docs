@@ -7,6 +7,8 @@ title:  'Function words in UD v2'
 
 Treatment of copula constructions in the treebanks of UD v1.x is very diverse (see Table on the _status quo_ below). The main point of departure for UD v2.0 is that differences between languages in copula constructions should be motivated by real syntactic differences, not by differences in traditional grammars.
 
+<!-- TL;DR we can't make a perfect scheme, but hopefully treebanks released under v2.0 will be more consistent both crosslinguistically and in-language than v1.x -->
+
 ## General guidelines and overview
 
 If a language (e.g. Irish) has its own clear guidelines, they are in the spirit of UD, and they don't conflict, then we see no 
@@ -23,7 +25,7 @@ We propose keeping with current practice in UD v1.x for the following copula con
 
 These are largely consistent across the current UD languages.
 
-The next type we'll consider is `has location` (where `location` is typically a PP or case-marked NP). Current practice in UD v1.x for prepositional phrases/case-marked NPs is inconsistent and we propose changing it. Currently some treebanks (English, Swedish, ...) have the PP as head and the copula depending on it, and others (Finnish, Spanish, ...) have the verb as head and the PP as `nmod`
+The next type we'll consider is `has location` (where `location` [in time, space, company, capacity etc.] is typically a PP or case-marked NP). Current practice in UD v1.x for prepositional phrases/case-marked NPs is inconsistent and we propose changing it. Currently some treebanks (English, Swedish, ...) have the PP as head and the copula depending on it, and others (Finnish, Spanish, ...) have the verb as head and the PP as `nmod`
 
 * We propose making the copula the head in these constructions.
   * It is difficult to establish the root in sentences with multiple adverbials/PPs, e.g. "She is in Prague today with her friends on a school trip".
@@ -35,7 +37,32 @@ What to do if there is "zero copula":
   1. the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." `root>nsubj(Она)`, `root>nmod(деревне)` 
   2. Use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
 
-For clausal arguments of copulas we propose using the same classification scheme.
+What to do with clausal arguments:
+
+* When a copula clause is used as a subject of another copula, it should be receive the relation `csubj:cop`. For example in the sentence: "Being well-informed will give you certainty." `csubj:cop(give, well-informed)`, `cop(well-informed, Being)`
+
+<!--
+
+Being well-informed will give you certainty .
+
+Трудно быть богом . 
+
+To be free is to be capable of thinking one's own thoughts .
+
+The main thing is that the device works . 
+
+This period in Athens , between 335 and 400 , is when Aristotle is believed to have lived .
+
+This was to be the second time Athens would host the games
+
+Most of the focus was on developing the economy
+
+His primary interest was in applying the methodology
+
+The expulsion was for hitting a professor
+
+-->
+
 
 ### Notes 
 
@@ -958,11 +985,11 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 | UD-German     | 11           | 4698/-[VERB], 86/-[NOUN], 31/-[ADJ], 27/-[ADP], 23/-[PROPN] |
 | UD-Estonian   | 9            | 3373/olema[VERB], 37/ole[VERB], 29/tunduma[VERB], 5/paistma[VERB], 4/näima[VERB] |
 | UD-Czech      | 6            | 20480/být[VERB], 110/bývat[VERB], 3/stát[VERB], 3/bývávat[VERB], 1/moci[VERB] |
-| UD-English    | 6            | 5593/be[VERB], 8/`s[VERB], 5/be[AUX], 1/'[VERB] |
 | UD-Hungarian  | 6            | 92/van[VERB], 61/lesz[VERB], 11/lehet[VERB], 3/marad[VERB], 1/hoz[VERB] |
 | UD-Bulgarian  | 5            | 1940/съм[VERB], 3/съм[AUX], 1/стана[VERB], 1/разпространявам-(се)[VERB], 1/докосна-(се)[VERB] |
 | UD-Buryat     | 5            | 70/байха[VERB], 22/болохо[VERB], 2/ябаха[VERB], 2/үнгэхэ[VERB], 2/байха[AUX] |
 | UD-Croatian   | 5            | 1236/biti[AUX], 1/željeti[VERB], 1/težiti[VERB], 1/davati[VERB], 1/bivati[VERB] |
+| UD-English    | 4            | 5593/be[VERB], 8/`s[VERB], 5/be[AUX], 1/'[VERB] |
 | UD-Kazakh     | 4            | 131/е[VERB], 42/бол[VERB], 1/тұр[VERB], 1/атан[VERB] |
 | UD-Uyghur     | 4            | 66/-[VERB], 4/-[NOUN], 3/-[ADJ], 1/-[PART] |
 | UD-Hindi      | 3            | 3014/है[VERB], 497/था[VERB], 1/बशर्ते[SCONJ] |
@@ -979,6 +1006,7 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 | UD-Finnish    | 1            | 3279/olla[VERB] |
 | UD-Indonesian | 1            | 1055/-[VERB] |
 | UD-Italian    | 1            | 2767/essere[VERB] |
+| UD_Norwegian	| 1            | 7217/være[VERB] |
 | UD-Slovenian  | 1            | 2820/biti[VERB] |
 | UD-Swedish    | 1            | 1629/vara[VERB] |
 | UD-Tamil      | 1            | 1/முயல்[VERB] |
