@@ -7,7 +7,7 @@ title:  'Function words in UD v2'
 
 Treatment of copula constructions in the treebanks of UD v1.x is very diverse (see Table on the _status quo_ below). The main point of departure for UD v2.0 is that differences between languages in copula constructions should be motivated by real syntactic differences, not by differences in traditional grammars.
 
-<!-- TL;DR we can't make a perfect scheme, but hopefully treebanks released under v2.0 will be more consistent both crosslinguistically and in-language than v1.x -->
+Because of the variability in how copulas are treated, it is hard to come up with a consistent scheme that can be applied totally cross-linguistically. There are also many cases, such as copulas with clausal arguments that require more in-depth investigation. However, we hope that by the following guidelines the treebanks released under UD v2.0 will be more consistent in their treatment of the copula both cross-linguistically and within a single language.
 
 ## General guidelines and overview
 
