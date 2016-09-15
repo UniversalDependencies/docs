@@ -41,6 +41,8 @@ What to do with clausal arguments:
 
 * When a copula clause is used as a subject of another copula, it should be receive the relation `csubj:cop`. For example in the sentence: "Being well-informed will give you certainty." `csubj:cop(give, well-informed)`, `cop(well-informed, Being)`
 
+__TO DISCUSS: Take a look at the commented out examples___
+
 <!--
 
 Being well-informed will give you certainty .
@@ -60,6 +62,10 @@ Most of the focus was on developing the economy
 His primary interest was in applying the methodology
 
 The expulsion was for hitting a professor
+
+Två viktiga ting är att säga om svårigheter i äktenskap . 
+
+En nödvändig förutsättning är att männen är helt med på saken .
 
 -->
 
