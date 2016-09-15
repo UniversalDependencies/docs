@@ -100,9 +100,25 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * TO DISCUSS: `Voice=Auto` (ga).
   * Do not add sequences of voice markings, which are currently used in Turkish and may be needed in other agglutinating languages. Leave them language-specific.
     [tr] CauPass.
-* TO DISCUSS: `Definite=2` in Hungarian. Description: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite). Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am watching a film”) and a second person object (_nézlek téged_ “I am watching you”). So `Definite=2` is actually not about definiteness proper, maybe it should be `Person[obj]`. Perhaps we should leave this value specific to Hungarian.
-* TO DISCUSS: `PronType=Clit` (it), Emp (ro), Exc (it), Ord (it), Predet (it)
-* TO DISCUSS: should we add `Person=0` and `4` from UniMorph?
+* [u-feat/PronType]()
+  * Add `PronType=Emp` (emphatic) from Romanian. There are similarities with reflexive and demonstrative pronouns / determiners.
+    Example: _himself_ as in "He himself did it." Czech _sám_, Romanian _însuși_.
+  * Add `PronType=Exc` (exclamative) from Italian (but it can be defined in other languages, too). It expresses the
+    speaker's surprise towards the modified noun, e.g. _what_ in "What a surprise!" In many languages, exclamative
+    determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them.
+  * TO DISCUSS: `PronType=Clit` (it). Used for clitic pronouns in [Italian](it-feat/PronType), e.g.
+    _<b>Si</b> è rotto_ “It has broken”. But I think that being clitic is a property orthogonal to our pronoun types.
+  * TO DISCUSS: Ord (it), Predet (it)
+* [u-feat/Person]()
+  * TO DISCUSS: should we add `Person=0` and `4` from UniMorph?
+* [u-feat/Definite]()
+  * TO DISCUSS: `Definite=2` in Hungarian.
+    Description: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite).
+    Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between
+    a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am
+    watching a film”) and a second person object (_nézlek téged_ “I am watching you”). So `Definite=2` is actually not
+    about definiteness proper, maybe it should be `Person[obj]`. Perhaps we should leave this value specific to
+    Hungarian.
 
 ## Adding new features
 
