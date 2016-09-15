@@ -73,7 +73,7 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * TO DISCUSS: `Mood=Prs` (persuasive) in Turkish. Reportedly similar in meaning to imperative, but tries to persuade the addressee rather than issuing a direct command.
 * [u-feat/Tense]()
   * Do not add `Tense=Aor` (aorist), despite its current usage in Ancient Greek and Turkish.
-    It is a confusing term with different meaning in grammars of different languages.
+    It is a confusing term with different meanings in grammars of different languages.
     In Slavic languages we use normal `Tense=Past` to denote aorist.
     In Turkish it is the unmarked non-past form.
   * Do not add sequences of tense markings, which are currently used in Turkish and may be needed in other agglutinating languages. Leave them language-specific.
@@ -187,7 +187,14 @@ General differences:
 ### UniMorph dimensions (draft v2)
 
 * `Aktionsart`, values: `STAT` (stative), `DYN` (dynamic), `TEL` (telic), `ATEL` (atelic), `PCT` (punctual), `DUR` (durative), `ACH` (achievement), `ACCMP` (accomplishment), `SEMEL` (semelfactive), `ACTY` (activity). Aktionsart is a feature that we don't have in UD but it is closely related to our [Aspect](../u/feat/Aspect.html). Aspect in Slavic languages is treated as a lexical feature, change of aspect is considered a derivation. Perfective verbs in Slavic languages correspond to telic verbs in UniMorph, imperfective verbs correspond to atelic verbs and statives. However, aktionsart could be defined for other languages including English, while aspect is not marked in UD English.
-* `Animacy`, values: `ANIM` (animate), `INAN` (inanimate), `HUM` (human), `NHUM` (non-human). In UD we don't have human but we do have the other three. We treat animacy as a scale of either two values (animate, inanimate), or three values (animate, non-human, inanimate). In the latter case (which so far appears only in UD Polish), the animate value is interpreted as human-only, while in other languages it includes animals. We could add the human value but note that this is not the only feature where a value has shifting semantic contents. For example, `Number=Plur` normally means "more than one", but in languages with dual it means "more than two".
+* `Animacy`, values: `ANIM` (animate), `INAN` (inanimate), `HUM` (human), `NHUM` (non-human).
+  In UD we don't have human but we do have the other three. We treat animacy as a scale of either two values (animate,
+  inanimate), or three values (animate, non-human, inanimate). In the latter case (which so far appears only in UD
+  Polish), the animate value is interpreted as human-only, while in other languages it includes animals. We could add
+  the human value but note that this is not the only feature where a value has shifting semantic contents. For example,
+  `Number=Plur` normally means "more than one", but in languages with dual it means "more than two". On the other hand,
+  if there is a language that only distinguishes human vs. non-human, it will be more natural to have the values `Hum`
+  and `Nhum` than combining `Anim` and `Nhum`. THOUGHTS?
 * `Argument Marking` for head-marking languages. UniMorph uses templatic features `ARG`+`Case`+`Person`+`Number`, e.g. `ARGNO1S` means that the nominative argument of the current verb is 1st person singular. Available cases are nominative, accusative, absolutive, ergative, dative, benefactive. We mostly only need to annotate agreement of the verb with its subject, i.e. the nominative argument, and we use the `Person` and `Number` features of the verb for this. So far only Basque needs more, as the verbs may agree there with up to three arguments (absolutive, ergative and dative). We use the layered features, i.e. `Person[abs]`, `Person[erg]`, `Person[dat]`, `Number[abs]` etc.
 * `Aspect`, values: `IPFV` (imperfective), `PFV` (perfective), `PRF` (perfect), `PROG` (progressive), `PROSP` (prospective), `ITER` (iterative), `HAB` (habitual).
   Their aspect + aktionsart is not compatible with our aspect, although we have a few values in common (perfect/ive, imperfective, progressive, prospective).
@@ -214,7 +221,7 @@ General differences:
   * Local / aspect: `APPRX` (approximative), `TERM` (terminative), `PROL` (prolative/translative), `VERS` (versative).
   * UD has `Case=Loc`, which is used in a number of Indo-European languages (especially Slavic) but also in Basque, Turkish and others.
     It has mostly a locative meaning, where the placement and direction are not precisely specified. It can also have a non-locative meaning.
-    There does not seem to be a direct counterpart of the locative case in UniMorph.
+    There does not seem to be a direct counterpart of the locative case in UniMorph; maybe plain `ESS` is closest.
   * The UniMorph draft accounts for compositionality of locative morphemes in some languages: "from [the place] between us" could be encoded as _we_ + `INTER` + `ABL`.
     In contrast, we use established terms for some of the combinations but definitely cannot encode all possible combinations in all languages.
     Our local cases are:
@@ -410,7 +417,9 @@ General differences:
 * `Style` used in Czech, Danish and Finnish
 * `Subcat` used only in Dutch
 * `Typo=Yes` could be useful in all treebanks but we first need a general guideline for handling typos. Should the form in FORM be original, or fixed? And should we have a MISC attribute with the fixed or original form? See also [issue 330](https://github.com/UniversalDependencies/docs/issues/330).
-* `Variant`; what is `Variant=Brev` in Russian?
+* `Variant`; `Variant=Brev` in Russian denotes the short-form adjective (_холоден_, as opposed to _холодный_), which
+  are distinguished by definiteness in South Slavic, and by `Variant=Short` (vs. `Long`) in West Slavic. Maybe this
+  opposition would deserve a Slavic-specific feature, `AdjForm=Short|Long`.
 * `VerbType=Aux|Mod|Cop|Main`; currently used in Hebrew, Dutch and Latin; it has to be seen how much such a feature will be demanded if we remove the `AUX` tag.
 * `Xtra=Junk` used in Hebrew
 
@@ -429,4 +438,4 @@ We may want to standardize some of the layers but they seem to be de-facto stand
   _Converbs in Cross-Linguistic Perspective: Structure and Meaning of Adverbial Verb Forms – Adverbial Participles, Gerunds –,_
   edited by Martin Haspelmath and Ekkehard König, Berlin: Mouton de Gruyter, Empirical Approaches to Language Typology, 1–56.
 * Kornfilt, Jaklin. _Turkish._ London and New York: Routledge, 1997.
-* Sussex, Roland and Cubberley, Paul. 2006. The Slavic Languages. Cambridge University Press.
+* Sussex, Roland and Cubberley, Paul. 2006. _The Slavic Languages._ Cambridge University Press.
