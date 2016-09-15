@@ -41,21 +41,29 @@ What to do with clausal arguments:
 
 * When a copula clause is used as a subject of another copula, it should be receive the relation `csubj:cop`. For example in the sentence: "Being well-informed will give you certainty." `csubj:cop(give, well-informed)`, `cop(well-informed, Being)`
 
-__TO DISCUSS: Take a look at the commented out examples___
+__TO DISCUSS: Take a look at the commented out examples__
 
 <!--
 
+==English==
+
+===With gerund subject===
+
 Being well-informed will give you certainty .
 
-Трудно быть богом . 
+===With to + inf subject===
 
 To be free is to be capable of thinking one's own thoughts .
 
+===With that complement===
+
 The main thing is that the device works . 
 
-This period in Athens , between 335 and 400 , is when Aristotle is believed to have lived .
+===With to + inf complement===
 
 This was to be the second time Athens would host the games
+
+===With prep + gerund===
 
 Most of the focus was on developing the economy
 
@@ -63,9 +71,36 @@ His primary interest was in applying the methodology
 
 The expulsion was for hitting a professor
 
+===With wh- words===
+
+A heavily discussed topic between scholars is who founded Rome .
+
+A heavily discussed topic between scholars is who was the founding population of Rome .
+
+Potentiality is what a thing is capable of doing .
+
+Paneloux's loss of faith is what leads to his death .
+
+One decision they have to make is which medium they should use .
+
+This building is where the permanent collection is displayed .
+
+This period in Athens , between 335 and 400 , is when Aristotle is believed to have lived .
+
+That is why Gabriel is represented with wings .
+
+It is how plants work together .
+
+==Swedish==
+
 Två viktiga ting är att säga om svårigheter i äktenskap . 
 
 En nödvändig förutsättning är att männen är helt med på saken .
+
+==Russian==
+
+Трудно быть богом . 
+
 
 -->
 
@@ -100,7 +135,7 @@ For the purposes of demonstrating the new classification system a number of exam
 17. The problem is that this has never been tried
 18. The important thing is to keep calm
 
-The analysis of (15) will follow (05) and (06), the analysis of (16) will follow (12) and the analysis of (17) and (18) will follow (01).
+__TO DISCUSS:__ The analysis of (15) could follow (05) and (06), the analysis of (16) could follow (12) and the analysis of (17) and (18) could follow (01).
 
 
 ### English
