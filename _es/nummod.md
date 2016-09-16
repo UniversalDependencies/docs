@@ -1,25 +1,20 @@
 ---
-layout: base
+layout: relation
 title: 'nummod'
 shortdef: 'numeric modifier'
 ---
 
-## nummod: numeric modifier
+This document is a placeholder for the language-specific documentation
+for `nummod`.
 
-A numeric modifier of a noun is any number phrase that serves to modify the
-meaning of the noun with a quantity.
+A numeric modifier of a noun is any number phrase that serves to modify the meaning of the noun with a quantity.
 
-<div class="sd-parse">
-hay dos espacios
+
+~~~ sdparse
+hay dos espacios \n There are two spaces
 nummod(espacios, dos)
-</div>
-
-<div class="sd-parse">
-El volumen ascendió a 74 millones
-nummod(millones, 74)
-</div>
-
-<div class="sd-parse">
-15 años
+~~~
+~~~ sdparse
+15 años \n 15 years 
 nummod(años, 15)
-</div>
+~~~

@@ -1,23 +1,16 @@
 ---
-layout: base
+layout: relation
 title: 'nsubj'
 shortdef: 'nominal subject'
 ---
 
-## nsubj: nominal subject
+This document is a placeholder for the language-specific documentation
+for `nsubj`.
 
-A nominal subject is a noun phrase which is the syntactic subject of a
-clause. The governor of this relation might not always be a verb: when
-the verb is a copular verb, the root of the clause is the complement
-of the copular verb, which can be an adjective or noun.
+A nominal subject is a noun phrase which is the syntactic subject of a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun.
 
-<div class="sd-parse">
-Juan llegó ayer
-nsubj(llegó, Juan)
-</div>
 
-<div class="sd-parse">
-Ella es mi hermana
-nsubj(hermana, Ella)
-cop(hermana, es)
-</div>
+~~~ sdparse
+Juan ha invitado a Pedro . \n Juan has invited Pedro .
+nsubj(invitado, Juan)
+~~~

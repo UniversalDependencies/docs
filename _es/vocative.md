@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: relation
 title: 'vocative'
 shortdef: 'vocative'
 ---

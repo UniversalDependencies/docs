@@ -1,22 +1,16 @@
 ---
-layout: base
+layout: relation
 title: 'appos'
 shortdef: 'appositional modifier'
 ---
 
-## appos: appositional modifier
+This document is a placeholder for the language-specific documentation
+for `appos`.
 
-An appositional modifier of an NP is an NP immediately to the right of
-the first NP that serves to define or modify that NP. It includes
-parenthesized examples, as well as defining abbreviations in one of
-these structures.
+An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures.
 
-<div class="sd-parse">
-el ministro francés , Pierre ,
-appos(ministro, Pierre)
-</div>
 
-<div class="sd-parse">
-Real Academia Española ( RAE )
-appos(Academia, RAE)
-</div>
+~~~ sdparse
+Mi amigo Pedro ... \n My friend Pedro ...
+appos(amigo, Pedro)
+~~~
