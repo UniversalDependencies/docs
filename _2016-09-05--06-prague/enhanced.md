@@ -246,6 +246,7 @@ dobj(read, book)
 Should this also be applied to relative pronouns that refer to adnominal or adverbial modifiers? And what should we do with dependents of the relative pronoun such as case markers?
 
 Examples:
+
 ~~~ sdparse
 The house in which I used to live .
 
