@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Function words in UD v2'
+title:  'Copula in UD v2'
 ---
 
 # Copula in UD v2
