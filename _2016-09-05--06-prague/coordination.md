@@ -11,18 +11,18 @@ We suggest changing the guidelines for coordination, following the proposal of G
 
 We will attach [u-dep/cc]() and internal [u-dep/punct]() to the immediately succeeding conjunct (instead of to the first conjunct). The guidelines for [u-dep/conj]() remain unchanged. For example:
 
-<div id="s1" class="sd-parse">
+~~~sdparse
 I love apples and bananas.
 dobj(love,apples)
 conj(apples,bananas)
 cc(bananas,and)
-</div>
+~~~
 
 This new choice of governor for conjunctions allows a parallel treatment of sentences headed by a conjunction (where the conjunction has to depend on the root of the sentence, and can't be attached to the previous conjunct).
 
-<div id="s2" class="sd-parse">
+~~~sdparse
 And he left.
 cc(left,And)
-</div>
+~~~
 
 
