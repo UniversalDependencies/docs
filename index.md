@@ -80,4 +80,7 @@ Check that the [list of contributors](contributors.html) is correct; this is gat
 
 There is a separate [page about tools](tools.html) that are available for work with UD data.
 
-Direct link to the experimental [Uralic language family documentation](uralic.html)
+Direct link to the experimental
+
+* [Slavic language family documentation](slavic.html)
+* [Uralic language family documentation](uralic.html)
