@@ -155,19 +155,18 @@ conj(long, wide)
 
 We propose that we no longer use a special `nsubjpass` relation in the _basic_ representation. However, the distiction between regular subjects and subjects in passive constructions is still highly useful for many NLP tasks. We therefore propose to use the relations `dobj:prom`, `iobj:prom`, and `nmod:agent` for the arguments of a passivized verb.  
 
-~~~
+~~~ sdparse
 The book was written by the author .
 
 dobj:prom(written, book)
 nmod:agent(written, author)
 ~~~
 
-~~~
+~~~ sdparse
 She was given the book.
 
 iobj:prom(given, she)
 dobj(given, book)
-
 ~~~
 
 ### To discuss
