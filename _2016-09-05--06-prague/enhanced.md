@@ -20,7 +20,7 @@ The first version of the guidelines provided very little guidance regarding the 
 
 ## Ellipsis 
 
-(See also the notes on [ellipsis](ellipsis.html))
+(See also the notes on [ellipsis](ellipsis.html).)
 
 In the _enhanced_ representation, we add special null nodes in clauses in which a predicate is elided.
 
@@ -163,7 +163,7 @@ nmod:agent(written, author)
 ~~~
 
 ~~~ sdparse
-She was given the book.
+She was given the book .
 
 iobj:prom(given, she)
 dobj(given, book)
