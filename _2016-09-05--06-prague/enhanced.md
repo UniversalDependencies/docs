@@ -196,5 +196,5 @@ However, maintainers should be aware that the different types of relations are n
 
 ## Additional enhancements
 
-Some postprocessing steps such as adding case makers to the relation names of nominal modifiers (as described in [this paper](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are hightly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
+Some postprocessing steps such as adding case makers to the relation names of nominal modifiers (as described in [this paper](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are highly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
 
