@@ -11,7 +11,7 @@ Because of the variability in how copulas are treated, it is hard to come up wit
 
 ## General guidelines and overview
 
-If a language (e.g. Irish) has its own clear guidelines, they are in the spirit of UD, and they don't conflict, then we see no 
+If a language (e.g. Irish) has its own clear guidelines, they are in the spirit of UD, and they don't conflict, then we see no
 reason to change them. However, if there are no clear guidelines, then we should follow the following principles:
 
 * There should be only one copula in a language.[1]
@@ -20,8 +20,8 @@ reason to change them. However, if there are no clear guidelines, then we should
 
 We propose keeping with current practice in UD v1.x for the following copula constructions:
 
-* with the meaning `is of type` (where `type` is typically an NP), the type should be the head, and the copula word dependent on it with the relation `cop`. 
-* with the meaning `has quality` (where `quality` is typically an AP), we have the quality as the head and the copula as the dependent. 
+* with the meaning `is of type` (where `type` is typically an NP), the type should be the head, and the copula word dependent on it with the relation `cop`.
+* with the meaning `has quality` (where `quality` is typically an AP), we have the quality as the head and the copula as the dependent.
 
 These are largely consistent across the current UD languages.
 
@@ -34,7 +34,7 @@ The next type we'll consider is `has location` (where `location` [in time, space
 What to do if there is "zero copula":
 
 * If the copula is not present, then we have two options:
-  1. the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." `root>nsubj(Она)`, `root>nmod(деревне)` 
+  1. the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." `root>nsubj(Она)`, `root>nmod(деревне)`
   2. Use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
 
 What to do with clausal arguments:
@@ -61,7 +61,7 @@ The real red flag in all of this is your having been " slightly drunk " as you d
 
 ===With that complement===
 
-The main thing is that the device works . 
+The main thing is that the device works .
 
 ===With to + inf complement===
 
@@ -97,19 +97,19 @@ It is how plants work together .
 
 ==Swedish==
 
-Två viktiga ting är att säga om svårigheter i äktenskap . 
+Två viktiga ting är att säga om svårigheter i äktenskap .
 
 En nödvändig förutsättning är att männen är helt med på saken .
 
 ==Russian==
 
-Трудно быть богом . 
+Трудно быть богом .
 
 
 -->
 
 
-### Notes 
+### Notes
 
 1. In languages such as those of the Iberian Romance group, Basque etc. where there is a "state" copula and "essence" copula, then the __essence__ one should get the `cop` relation. However, if the copula is defective and is filled with different stems in different tenses (e.g. Turkish, Kazakh), this is fine.
 
@@ -132,10 +132,10 @@ For the purposes of demonstrating the new classification system a number of exam
 13. There was a house in the village
 14. The house was in the village
 
-    These are examples where both sides are nominals, but they could be extended to clausals, e.g. 
+    These are examples where both sides are nominals, but they could be extended to clausals, e.g.
 
 15. To be free is to be capable of thinking one's own thoughts
-16. This period is when Aristotle is believed to have lived 
+16. This period is when Aristotle is believed to have lived
 17. The problem is that this has never been tried
 18. The important thing is to keep calm
 
@@ -144,9 +144,10 @@ __TO DISCUSS:__ The analysis of (15) could follow (05) and (06), the analysis of
 
 ### English
 
-The English analysis more or less follows the analysis in the `UD_English` treebank, with the addition of the relation `nsubj:cop` for subjects of copula constructions. There is a difference however with how (8--10) are treated. 
+The English analysis more or less follows the analysis in the `UD_English` treebank, with the addition of the relation `nsubj:cop` for subjects of copula constructions. There is a difference however with how (8--10) are treated.
 
 (1)
+
 ~~~ sdparse
 She is a student
 root(student)
@@ -178,7 +179,7 @@ nsubj:cop(student, I)
 cop(student, was)
 ~~~
 
-(5) 
+(5)
 ~~~ sdparse
 She is happy
 root(happy)
@@ -269,7 +270,7 @@ The current `UD_Swedish` treebank considers all uses of "vara" to take the `cop`
 
 (1)
 ~~~ sdparse
-Hon är en student 
+Hon är en student
 root(student)
 nsubj:cop(student, Hon)
 cop(student, är)
@@ -285,7 +286,7 @@ cop(student, är)
 
 (3)
 ~~~ sdparse
-Hon var en student 
+Hon var en student
 root(student)
 nsubj:cop(student, Hon)
 cop(student, var)
@@ -293,13 +294,13 @@ cop(student, var)
 
 (4)
 ~~~ sdparse
-Jag var en student 
+Jag var en student
 root(student)
 nsubj:cop(student, Jag)
 cop(student, var)
 ~~~
 
-(5) 
+(5)
 ~~~ sdparse
 Hon är glad
 root(glad)
@@ -351,7 +352,7 @@ nmod(var, huset)
 Existential constructions,  in Swedish do not use the copula verb.
 
 ~~~ sdparse
-Det finns et hus i byen 
+Det finns et hus i byen
 root(finns)
 expl(finns, Det)
 nsubj(finns, hus)
@@ -368,7 +369,7 @@ nmod(är, byen)
 
 (13)
 ~~~ sdparse
-Det fanns et hus i byen 
+Det fanns et hus i byen
 root(fanns)
 expl(fanns, Det)
 nsubj(fanns, hus)
@@ -421,7 +422,7 @@ nsubj:cop(estudiante, Yo)
 cop(estudiante, fui)
 ~~~
 
-(5) 
+(5)
 
 In Spanish you can say either _Soy feliz_ "I am happy" or _Estoy feliz_ "I am happy"/"I feel happy". In the following examples, the subject pronouns are expressed to illustrate the difference in relation for the subject. They may equally well be dropped.
 
@@ -455,7 +456,7 @@ nsubj(estoy, Yo)
 xcomp(estoy, feliz)
 ~~~
 
-(7) 
+(7)
 
 Instead of "in shape" we'll use "de puta madre" which means "really great",
 
@@ -475,7 +476,7 @@ xcomp(está, madre)
 
 (8)
 
-In Spanish position uses the verb _estar_ and not _ser_. 
+In Spanish position uses the verb _estar_ and not _ser_.
 
 ~~~ sdparse
 Ella está en la casa
@@ -530,7 +531,7 @@ nmod(está, pueblo)
 
 (13)
 ~~~ sdparse
-Había una casa en el pueblo 
+Había una casa en el pueblo
 root(Había)
 obj:dir(Había, casa)
 nmod(Había, pueblo)
@@ -593,7 +594,7 @@ nsubj:cop(студенткой, Я)
 cop(студенткой, была)
 ~~~
 
-(5) 
+(5)
 
 The same goes with adjectival uses:
 
@@ -613,7 +614,7 @@ nsubj:cop(счастлива, Я)
 
 (7)
 
-Instead of "in shape", we'll use "в курсе" which means "on the ball" 
+Instead of "in shape", we'll use "в курсе" which means "on the ball"
 
 ~~~ sdparse
 Она в курсе
@@ -668,7 +669,7 @@ nmod(была, дому)
 
 (11)
 
-In Russian, in the present tense, existential constructions use "есть" which is sometimes described as a "predicative". 
+In Russian, in the present tense, existential constructions use "есть" which is sometimes described as a "predicative".
 
 ~~~ sdparse
 Есть дом в деревне
@@ -679,7 +680,7 @@ nmod(Есть, деревне)
 
 (12)
 ~~~ sdparse
-Дом в деревне 
+Дом в деревне
 root(está)
 nsubj(está, casa)
 nmod(está, pueblo)
@@ -690,7 +691,7 @@ nmod(está, pueblo)
 In the past tense (and future tense), the verb быть is employed. As far as I am able to ascertain, syntactically (13) and (14) are equivalent in Russian aside from the word order considerations.
 
 ~~~ sdparse
-Был дом в деревне 
+Был дом в деревне
 root(Был)
 nsubj(Был, дом)
 nmod(Был, деревне)
@@ -707,7 +708,7 @@ nmod(был, деревне)
 
 ### Finnish
 
-In Finnish the copula verb is _olla_ "to be". Its omplement is typically in the nominative, although it may also be in the essive case -nA.  
+In Finnish the copula verb is _olla_ "to be". Its omplement is typically in the nominative, although it may also be in the essive case -nA.
 
 (1)
 ~~~ sdparse
@@ -741,7 +742,7 @@ nsubj:cop(opiskelija, Mä)
 cop(opiskelija, olin)
 ~~~
 
-(5) 
+(5)
 ~~~ sdparse
 Se on iloinen
 root(iloinen)
@@ -783,7 +784,7 @@ nmod(oon, talossa)
 
 (10)
 ~~~ sdparse
-Se oli talossa 
+Se oli talossa
 root(oli)
 nsubj(oli, Se)
 nmod(oli, talossa)
@@ -827,7 +828,7 @@ nmod(oli, kylässä)
 
 ### Turkish
 
-In Turkish, there are two copula verbs, _i-_ and _ol-_. The "true" copula is _i-_ which is defective, only having a limited number of tense forms (aorist and past), and cliticising. When a copula is needed in another tense, _ol-_ is employed. However, if there is a form of _i-_ then the equivalent form of _ol-_ takes on the meaning "become". 
+In Turkish, there are two copula verbs, _i-_ and _ol-_. The "true" copula is _i-_ which is defective, only having a limited number of tense forms (aorist and past), and cliticising. When a copula is needed in another tense, _ol-_ is employed. However, if there is a form of _i-_ then the equivalent form of _ol-_ takes on the meaning "become".
 
 (1)
 
@@ -876,7 +877,7 @@ nsubj:cop(öğrenci, Ben)
 cop(öğrenci, -ydim)
 ~~~
 
-(5) 
+(5)
 ~~~ sdparse
 O mutlu -Ø
 root(mutlu)
@@ -978,7 +979,7 @@ cop(dhalta, Ba)
 ~~~
 
 ~~~ sdparse
-Bhí sí ina dalta 
+Bhí sí ina dalta
 root(Bhí)
 xcomp:pred(Bhí, dalta)
 ~~~
@@ -987,7 +988,7 @@ xcomp:pred(Bhí, dalta)
 
 _Not applicable._
 
-(5) 
+(5)
 
 _Not applicable._
 
