@@ -14,7 +14,8 @@ Per-issue reports and proposals:
 
 1. [Core dependents](core-dependents.html) (Joakim)
 2. [Ellipsis](ellipsis.html) (Sebastian)
-3. [Functional relations, especially copula](function.html) (Fran)
+3. [Copula and non-verbal predicates](copula.html) (Fran)
+3. [Other functional relations](function.html)
 4. [Word segmentation](segmentation.html) (Fran)
 5. [Coordination](coordination.html) (Marie)
 6. [Language-specific subtypes and syntactic features](language-specific.html) (Joakim)
