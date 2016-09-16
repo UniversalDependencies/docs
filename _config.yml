@@ -752,6 +752,20 @@ collections:
   fo-overview:
     output: true
 #
+# Slavic
+#
+  sla-pos:
+    output: true
+    permalink: /sla/pos/:path.html
+  sla-feat:
+    output: true
+    permalink: /sla/feat/:path.html
+  sla-dep:
+    output: true
+    permalink: /sla/dep/:path.html
+  sla-overview:
+    output: true
+#
 # Template
 #
   template-pos:
