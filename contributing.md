@@ -11,6 +11,7 @@ Contents:
 
 * [Preliminaries](#preliminaries)
 * [Editing](#editing)
+  - [Style guidelines](#style-guidelines)
   - [File format](#file-format)
   - [Editing online](#editing-online)
   - [Using Git](#using-git)
@@ -18,16 +19,25 @@ Contents:
 * [Non-members](#non-members)
 * [Troubleshooting](#troubleshooting)
 
+Quick links:
+
+* [Markdown syntax](http://daringfireball.net/projects/markdown/syntax)
+* [Embedded visualization of dependencies](visualization.html)
+* [Release checklist](release_checklist.html)
+
 ## Preliminaries
 
-The online documentation is stored in GitHub, a service for projects
+Before starting, you may want to have a quick look at the
+[documentation and visualization system introduction](visualization.html).
+
+The online documentation is stored on GitHub, a service for projects
 using the Git version control system. To contribute, you need a GitHub
 account.
 
 If you already have a GitHub account, just make sure you are logged in
 before moving on. If you do not, please go to
 [https://github.com/join](https://github.com/join) and create an
-account first. (it's free, only takes a minute, and there's a
+account first. (It's free, only takes a minute, and there's a
 reasonable [privacy
 policy](https://help.github.com/articles/github-privacy-policy) in
 place.)
@@ -40,14 +50,41 @@ After logging in to GitHub, see the following:
 ## Editing
 
 (Note: the following instructions are for project members. If you are
-not a member, see [here](#non-members))
+not a member, see [here](#non-members).)
 
-To get started with editing the materials, first read the brief [file
+To get started with editing the materials, first read the brief [style
+guidelines](#style-guidelines) and the [file
 format description](#file-format) below. Then, the easiest way to edit
 the materials is to use the [online editing features](#editing-online)
 provided by GitHub. If you prefer to use your own text editor or need
 to make larger changes, you may wish to [use the git version control
 system](#using-git) and work on the files on your own computer.
+
+### Style guidelines
+
+See also the <a href="contributing_language_specific.html">guidelines for language-specific documentation</a>.
+To maintain the consistency of the documentation, please follow these guidelines:
+
+* All types / labels (POS tags, feature names/values, relation labels) are in
+`constant width font`. To achieve this, use either a documentation link (see
+below), or backticks in Markdown (e.g. \`nsubj\`) or `<code>` in HTML
+(e.g. `<code>nsubj</code>`).
+* The first mention of any type other than the one that is the focus of the page
+(the titular one) is linked to the relevant page of documentation. For example,
+on the page for `nsubj`, write "\`nsubj\`" and "\[case\]()". Repeated mentions of
+the same type may be optionally be linked (if they are too far apart, it makes
+sense to hyperlink again, but it does not make sense to highlight several
+occurrences in the same paragraph)
+* Examples in a foreign language should be followed by an English translation, which is not italicized but it is enclosed in quotes, e.g. _der Mann_ “the man”.
+  * Note that Markdown processing converts straight ASCII quotes (\") to typographic (directional) quotation marks (“”), which should be used for all quotes.
+* Examples given in a foreign script are only italicized if it is Cyrillic or Greek. (In some scripts Italics don't look nice and the foreign script highlights the word anyway.) They should be immediately followed by a Latin-based transliteration, which is in italics. The transliteration is separated from the original script by a slash, which is not italics.
+  * _Иван лучший танцор_ / _Ivan lučšij tancor_ “Ivan is the best dancer”
+  * राम इवान से भी बेहतर है / _rāma ivāna se bhī behatara hai_ “Ram is even better than Ivan”
+* To emphasize part of an example, use the `<b>` tag. For example, `_<b>Which</b> car_` renders as follows: _<b>Which</b> car_.
+  * To emphasize text that is not part of an example, use `_light emphasis_` (rendering as _light emphasis_) or `**heavy emphasis**` (**heavy emphasis**), but _not_ the `<b>` tag. 
+* If an in-line example shall contain a verbose translation, it is also italics and without quotes, separated by the non-italics abbreviation “lit.” Multi-word expressions that correspond to one token in the original language are joined by a hyphen. The verbose translation is followed by a fluent English translation in its usual format.
+  * _Seděla na lavičce pod mostem._ lit. _She-sat on bench under bridge._ “She was sitting on a bench under the bridge.”
+* If it is necessary / expedient to identify the language of the example, it is either identified in plain English (such as German _ich bin gekommen_ “I have come”) or the ISO 639 language code in square brackets is used as shortcut (such as [de] _ich bin gekommen_ “I have come”).
 
 ### File format
 
@@ -61,50 +98,69 @@ For example, the following:
 
 <div class="example" markdown="1">
 
-A copula is the relation between the complement of a copular verb and the copular verb.
+A copula is the relation between the complement of a copular verb and
+the copular verb *to be* (only).  (We normally take a copula as a dependent of its
+complement.)
 
-<div class="sd-parse">
+~~~ sdparse
 Bill is an honest man
 cop(man, is)
-</div>
+~~~
 
-The following are considered copular verbs:
+~~~ sdparse
+Ivan is the best dancer
+nsubj(dancer-5, Ivan-1)
+cop(dancer-5, is-2)
+det(dancer-5, the-3)
+amod(dancer-5, best-4)
+~~~
 
-* appear
-* be
-* become
-* [...]
+The copula *be* is not treated as the
+head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
 
 </div>
 
 is generated from this input:
 
-    A copula is the relation between the complement of a copular verb and the copular verb.
-
-    <div class="sd-parse">
+    A copula is the relation between the complement of a copular verb and
+    the copular verb *to be* (only).  (We normally take a copula as a dependent of its
+    complement.)
+    
+    ~~~ sdparse
     Bill is an honest man
     cop(man, is)
-    </div>
-
-    The following are considered copular verbs:
-
-    * appear
-    * be
-    * become
-    * [...]
+    ~~~
+    
+    ~~~ sdparse
+    Ivan is the best dancer
+    nsubj(dancer-5, Ivan-1)
+    cop(dancer-5, is-2)
+    det(dancer-5, the-3)
+    amod(dancer-5, best-4)
+    ~~~
+    
+    The copula *be* is not treated as the
+    head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
 
 The input is primarily in the
-[Markdown](http://daringfireball.net/projects/markdown/) format, which
+[Markdown](http://daringfireball.net/projects/markdown/) format
+(see also [GitHub Markdown Basics](https://help.github.com/articles/markdown-basics) and
+[GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)), which
 can be mostly written like plain text and mixed freely with inline
 HTML. The only exception is the format used for embedding
 visualizations, which is supported as an extension specific to this
 project. To embed a visualization represented in the Stanford
-Dependency format, simply wrap it in the HTML tags `<div
-class="sd-parse">` and `</div>` as in the example above.
+Dependency format, simply wrap it in lines with `~~~ sdparse` and
+`~~~`, as in the example above. (Or, correspondingly, wrap in HTML
+tags `<div class="sd-parse">` and `</div>`)
+
+The documentation system also supports linking of pages in collections
+using a compact syntax: for example, `[u-dep/aux]()` expands into
+the following link: [u-dep/aux]()
 
 For more detail, you can see the documentation for the [Markdown
 syntax](http://daringfireball.net/projects/markdown/syntax) and
-[embedded visualizations](embedsd.html). However, we believe that the
+[embedded visualizations](visualization.html). However, we believe that the
 formats are simple enough to learn by example and by doing, and
 suggest to proceed directly to the next section (editing).
 
@@ -124,7 +180,7 @@ target="#">edit sandbox document</a>. This opens a "sandbox" document
 in a new tab. After testing it out, feel free to either cancel without
 saving your changes, or save them into the version control system
 using the "Commit changes" button. You can see the resulting document
-[here](http://universaldependencies.github.io/docs/sandbox.html)
+[here](http://universaldependencies.org/sandbox.html)
 (reload to see changes, and please note it may take some time for the
 changes to show up.)
 
@@ -135,9 +191,9 @@ To edit the actual documentation, first find the page you're
 interested in. For example, to navigate to the documentation for the
 English language `dobj` (direct object) dependency:
 
-* Start from the homepage ([http://universaldependencies.github.io/docs/](http://universaldependencies.github.io/docs/))
-* Click on the "English relations index" link (go to [http://universaldependencies.github.io/docs/en-index.html](http://universaldependencies.github.io/docs/en-index.html))
-* Click on the "dobj" link (go to [http://universaldependencies.github.io/docs/en/dobj.html](http://universaldependencies.github.io/docs/en/dobj.html))
+* Start from the homepage ([http://universaldependencies.org/](http://universaldependencies.org/))
+* Click on the "English relations index" link (go to [http://universaldependencies.org/en/dep/index.html](http://universaldependencies.org/en/dep/index.html))
+* Click on the "dobj" link (go to [http://universaldependencies.org/en/dep/dobj.html](http://universaldependencies.org/en/dep/dobj.html))
 
 Then, edit and save your changes:
 
@@ -221,11 +277,25 @@ requests](https://help.github.com/articles/using-pull-requests).
 
 ## Links
 
-* [Home page](http://universaldependencies.github.io/docs/)
+* [Home page](http://universaldependencies.org/)
 * [GitHub repository](https://github.com/universaldependencies/docs)
 * [Issue tracker](https://github.com/universaldependencies/docs/issues)
 
 ## Troubleshooting
 
-No trouble reported yet. If you have any, just ask Sampo
-(sampo.pyysalo@gmail.com) or Filip (fginter@cs.utu.fi)!
+Issue: when running locally, the system gives the error message
+*cannot load such file -- `jekyll-redirect-from`*.
+
+* Solution: install the ruby gem
+  [`jekyll-redirect-from`](https://github.com/jekyll/jekyll-redirect-from),
+  for example with `gem install jekyll-redirect-from`.
+
+Issue: when running locally, the system gives the error message
+*CodeRay::Scanners could not load plugin*.
+
+* Solution: check that CodeRay is not running. The `_config.yml`
+  option `kramdown: enable_coderay: false` should disable coderay.
+
+If you have any trouble with the system, just ask Sampo
+(sampo.pyysalo@gmail.com) or Filip (ginter@cs.utu.fi) or open an issue
+at <http://github.com/universaldependencies/docs/issues>.

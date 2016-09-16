@@ -5,83 +5,82 @@ title:  'Universal Dependencies'
 
 # Universal Dependencies
 
-This is the online documentation and example bank for Universal
-Dependencies.
+[Introduction to Universal Dependencies](introduction.html)
 
-Links to primary documentation and documentation status:
+* [Tokenization](u/overview/tokenization.html)
+* Morphology
+  * [General principles](u/overview/morphology.html)
+  * [Universal POS tags](u/pos/index.html) ([single document](u/pos/all.html))
+  * [Universal features](u/feat/index.html) ([single document](u/feat/all.html))
+  * [Language-specific features](ext-feat-index.html)
+  * [Conversion from other tagsets](tagset-conversion/index.html)
+* Syntax
+  * [General principles](u/overview/syntax.html)
+  * [Specific constructions](u/overview/specific-syntax.html)
+  * [Universal dependency relations](u/dep/index.html) ([single document](u/dep/all.html))
+  * [Language-specific relations](ext-dep-index.html)
 
-<table id="indextable">
-<tr>
-  <th>Subset</th>
-  <th colspan="2">Documentation</th>
-  <th>Status</th>
-</tr>
-<tr>
-  <td class="right">English relations</td>
-  <td><a href="en-index.html">index page</a></td>
-  <td><a href="en-all.html">single document</a></td>
-  <td class="complete">First draft complete</td>
-</tr><tr>
-  <td class="right">Finnish relations</td>
-  <td><a href="fi-index.html">index page</a></td>
-  <td><a href="fi-all.html">single document</a></td>
-  <td class="complete">First draft complete</td>
-</tr><tr>
-  <td class="right">Spanish relations</td>
-  <td><a href="es-index.html">index page</a></td>
-  <td><a href="es-all.html">single document</a></td>
-  <td class="partial">Draft in progress</td>
-</tr><tr>
-  <td class="right">Universal Dependencies</td>
-  <td><a href="usd-index.html">index page</a></td>
-  <td><a href="usd-all.html">single document</a></td>
-  <td class="complete">First draft complete</td>
-</tr>
-</table>
+* [CoNLL-U format](format.html)
 
-Next project milestone: complete first drafts of English, Finnish and
-Universal Dependencies documentation.
+<small>
+This is the online documentation for Universal
+Dependencies, version 1 (2014-10-01).  We intend to treat version 1 as
+stable for at least the next year, but we may subsequently make
+further revisions based on experiences using it to treebank a range of
+languages. If you plan to use the scheme yourself, please get in touch
+so that we can avoid problems with conflicting versions.
+</small>
 
-## Introduction
 
-This online repository contains dependency annotation documentation
-and visualizations, built using a combination of Jekyll, GitHub pages
-and embedded brat visualizations. Here's a minimal example:
+# UD Treebanks
 
-<div class="example" markdown="1">
-
-An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).
-
-<div class="sd-parse">
-She looks very beautiful
-acomp(looks, beautiful)
+<div id="accordion" class="jquery-ui-accordion">
+{% include at_glance.html %}
 </div>
 
-</div>
 
-The text is Markdown (with optional inline HTML) and the data for the
-visualizations is represented in either the Stanford Dependency or
-CoNLL-X format. For example, the above visualization is generated from
-this input:
 
-    <div class="sd-parse">
-    She looks very beautiful
-    acomp(looks, beautiful)
-    </div>
+# Download
 
-See the [links below](#more-information) for more information.
+The data is released through LINDAT/CLARIN.
 
-## How to contribute
+* Version 1.3 treebanks <a href="http://hdl.handle.net/11234/1-1699">http://hdl.handle.net/11234/1-1699</a>. Released May 15, 2016.
+* Version 1.2 treebanks are archived at http://hdl.handle.net/11234/1-1548. Released Nov 15, 2015.
+* Version 1.1 treebanks are archived at http://hdl.handle.net/11234/LRT-1478. Released May 15, 2015.
+* Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. Released Jan 15, 2015.
+* The next release (v2.0) is scheduled for Nov 15, 2016. We intend to have regular treebank releases every six months.
 
-See [here](contributing.html) for instructions on how to contribute to
-this online documentation. [This page](embedsd.html) provides details
-on how the visualized examples are created.
+# Query online
 
-## More information:
+You can query the UD treebanks on-line using
 
-The following sources of documentation provide further details:
+* [SETS treebank search](http://bionlp-www.utu.fi/dep_search)
+  maintained by the University of Turku, or
+* [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/)
+  maintained by the Charles University in Prague.
 
-- [Markdown](http://daringfireball.net/projects/markdown/syntax)
-- [Github pages](https://pages.github.com/)
-- [Embedded brat](http://brat.nlplab.org/embed.html)
-- [Stanford Dependencies](http://nlp.stanford.edu/software/stanford-dependencies.shtml)
+# Stay up to date
+
+If you want to receive news about Universal Dependencies, you can subscribe to
+the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
+
+See also the [list of open issues](issues.html)
+and what was decided about them at the [Uppsala meeting](2015-08-23-uppsala/index.html).
+New: preparing [v2](v2/index.html).
+<!--; report from the [Prague meeting](2016-09-05--06-prague/index.html).-->
+
+# Contribute
+
+Please read the [instructions](language_metadata.html) for adding a new language and encoding its metadata.
+Follow the steps in the [release checklist](release_checklist.html) and
+make sure your data shows as validating in the [format validation runs](validation.html).
+Check the [content validation](svalidation.html) for any suspicious patterns in the data;
+there are direct links to our treebank search that you can use to browse the suspicious data points.
+Check that the [list of contributors](contributors.html) is correct; this is gathered from the [metadata](language_metadata.html) in the READMEs. General instructions for contributing to the online documentation can be found [here](contributing.html).
+
+There is a separate [page about tools](tools.html) that are available for work with UD data.
+
+Direct link to the experimental
+
+* [Slavic language family documentation](slavic.html)
+* [Uralic language family documentation](uralic.html)

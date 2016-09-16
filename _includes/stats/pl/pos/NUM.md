@@ -1,0 +1,88 @@
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Polish)
+
+There are 173 `NUM` lemmas (1%), 206 `NUM` types (1%) and 742 `NUM` tokens (1%).
+Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 14 in number of tokens.
+
+The 10 most frequent `NUM` lemmas: <em>dwa, wiele, trzy, oba, cztery, 10, 30, dużo, pięć, 15</em>
+
+The 10 most frequent `NUM` types:  <em>dwa, wielu, dwóch, trzy, wiele, trzech, 10, dwie, 30, dużo</em>
+
+The 10 most frequent ambiguous lemmas: <em>wiele</em> ([NUM]() 63, [ADV]() 2), <em>10</em> ([NUM]() 19, [ADJ]() 2), <em>30</em> ([NUM]() 17, [ADJ]() 3), <em>dużo</em> ([NUM]() 16, [ADV]() 13), <em>15</em> ([NUM]() 13, [ADJ]() 4), <em>3</em> ([NUM]() 11, [ADJ]() 1), <em>50</em> ([NUM]() 10, [ADJ]() 1), <em>20</em> ([NUM]() 9, [ADJ]() 1), <em>2</em> ([NUM]() 8, [ADJ]() 7), <em>12</em> ([NUM]() 7, [ADJ]() 2)
+
+The 10 most frequent ambiguous types:  <em>wiele</em> ([NUM]() 21, [ADV]() 2), <em>10</em> ([NUM]() 20, [ADJ]() 2), <em>30</em> ([NUM]() 17, [ADJ]() 3), <em>dużo</em> ([NUM]() 14, [ADV]() 6), <em>15</em> ([NUM]() 13, [ADJ]() 4), <em>3</em> ([NUM]() 11, [ADJ]() 1), <em>więcej</em> ([NUM]() 11, [ADV]() 6), <em>50</em> ([NUM]() 10, [ADJ]() 1), <em>20</em> ([NUM]() 9, [ADJ]() 1), <em>2</em> ([NUM]() 8, [ADJ]() 7)
+
+
+* <em>wiele</em>
+  * [NUM]() 21: <em>- Nie słyszysz , jak <b>wiele</b> oskarżeń wnoszą tu przeciwko tobie ?</em>
+  * [ADV]() 2: <em>Odtąd była dla mnie znaczącym nazwiskiem i <b>wiele</b> się po niej spodziewał em .</em>
+* <em>10</em>
+  * [NUM]() 20: <em>Przytyła m do filmu <b>10</b> kilogramów .</em>
+  * [ADJ]() 2: <em>Zapisy będą prowadzone od <b>10</b> stycznia .</em>
+* <em>30</em>
+  * [NUM]() 17: <em>Woda zniszczyła konstrukcję nasypu na długości ok . <b>30</b> m .</em>
+  * [ADJ]() 3: <em>Docelowo akcja zmierza do przebadania osób powyżej <b>30</b> . roku życia .</em>
+* <em>dużo</em>
+  * [NUM]() 14: <em>Mieli śmy <b>dużo</b> wydatków nieprzewidzianych .</em>
+  * [ADV]() 6: <em>Wkrótce będziesz w <b>dużo</b> lepszej kondycji .</em>
+* <em>15</em>
+  * [NUM]() 13: <em><b>15</b> lat temu w Kielcach był jeden Wszechpolak .</em>
+  * [ADJ]() 4: <em>Jego rozpoczęcie zaplanowano na godzinę <b>15</b> .</em>
+* <em>3</em>
+  * [NUM]() 11: <em>Udział w rozgrywkach wzięły reprezentacje <b>3</b> szkół .</em>
+  * [ADJ]() 1: <em>Pamiętam , że stawali śmy o <b>3</b> . 15 nad ranem , udając się do zakładu samochodów małolitrażowych .</em>
+* <em>więcej</em>
+  * [NUM]() 11: <em>Nie ma <b>więcej</b> pytań ?</em>
+  * [ADV]() 6: <em>Więc sprawa , w dużym skrócie , wygląda mniej <b>więcej</b> tak .</em>
+* <em>50</em>
+  * [NUM]() 10: <em>W <b>50</b> przypadkach komornik musiał ustalać miejsce zamieszkania .</em>
+  * [ADJ]() 1: <em>- Pracuje pan w teatrze od <b>50</b> lat .</em>
+* <em>20</em>
+  * [NUM]() 9: <em>W 1993 roku takie osoby stanowiły <b>20</b> proc .</em>
+  * [ADJ]() 1: <em>Zdarzenie miało miejsce <b>20</b> kwietnia tego roku .</em>
+* <em>2</em>
+  * [NUM]() 8: <em>W stolicy Podhala oczekuje na telefon około <b>2</b> tys . osób .</em>
+  * [ADJ]() 7: <em>W dniu <b>2</b> listopada wyborca amerykański pokrzyżował ich plany .</em>
+
+## Morphology
+
+The form / lemma ratio of `NUM` is 1.190751 (the average of all parts of speech is 1.801337).
+
+The 1st highest number of forms (7) was observed with the lemma “dwa”: <em>dwa, dwaj, dwie, dwiema, dwoma, dwu, dwóch</em>.
+
+The 2nd highest number of forms (5) was observed with the lemma “cztery”: <em>czterech, czterej, czterem, czterema, cztery</em>.
+
+The 3rd highest number of forms (5) was observed with the lemma “oba”: <em>oba, obaj, obie, obiema, obu</em>.
+
+`NUM` occurs with 4 features: [pl-feat/Case]() (742; 100% instances), [pl-feat/Number]() (742; 100% instances), [pl-feat/Gender]() (741; 100% instances), [pl-feat/Animacy]() (525; 71% instances)
+
+`NUM` occurs with 14 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Animacy=Nhum`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+
+`NUM` occurs with 31 feature combinations.
+The most frequent feature combination is `Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur` (183 tokens).
+Examples: <em>dwa, trzy, wiele, 10, dużo, 30, cztery, 15, 5, 7</em>
+
+
+## Relations
+
+`NUM` nodes are attached to their parents using 11 different relations: [pl-dep/dobj]() (238; 32% instances), [pl-dep/nsubj]() (191; 26% instances), [pl-dep/advmod]() (162; 22% instances), [pl-dep/nummod]() (99; 13% instances), [pl-dep/conj]() (22; 3% instances), [pl-dep/iobj]() (11; 1% instances), [pl-dep/case]() (10; 1% instances), [pl-dep/appos]() (4; 1% instances), [pl-dep/root]() (3; 0% instances), [pl-dep/cc]() (1; 0% instances), [pl-dep/nsubjpass]() (1; 0% instances)
+
+Parents of `NUM` nodes belong to 12 different parts of speech: [VERB]() (564; 76% instances), [NOUN]() (104; 14% instances), [NUM]() (23; 3% instances), [ADJ]() (15; 2% instances), [PUNCT]() (10; 1% instances), [PART]() (6; 1% instances), [ADP]() (5; 1% instances), [ADV]() (4; 1% instances), [PROPN]() (4; 1% instances), [AUX]() (3; 0% instances), [ROOT]() (3; 0% instances), [PRON]() (1; 0% instances)
+
+50 (7%) `NUM` nodes are leaves.
+
+311 (42%) `NUM` nodes have one child.
+
+263 (35%) `NUM` nodes have two children.
+
+118 (16%) `NUM` nodes have three or more children.
+
+The highest child degree of a `NUM` node is 7.
+
+Children of `NUM` nodes are attached using 11 different relations: [pl-dep/nmod]() (811; 66% instances), [pl-dep/case]() (285; 23% instances), [pl-dep/punct]() (35; 3% instances), [pl-dep/conj]() (25; 2% instances), [pl-dep/acl]() (21; 2% instances), [pl-dep/amod]() (19; 2% instances), [pl-dep/cc]() (18; 1% instances), [pl-dep/nummod]() (6; 0% instances), [pl-dep/cop]() (4; 0% instances), [pl-dep/advmod]() (3; 0% instances), [pl-dep/nsubj]() (2; 0% instances)
+
+Children of `NUM` nodes belong to 13 different parts of speech: [NOUN]() (675; 55% instances), [ADP]() (208; 17% instances), [X]() (104; 8% instances), [PART]() (77; 6% instances), [PUNCT]() (35; 3% instances), [PRON]() (26; 2% instances), [VERB]() (24; 2% instances), [NUM]() (23; 2% instances), [ADJ]() (18; 1% instances), [CONJ]() (18; 1% instances), [PROPN]() (17; 1% instances), [ADV]() (3; 0% instances), [AUX]() (1; 0% instances)
+

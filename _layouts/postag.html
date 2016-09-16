@@ -1,0 +1,26 @@
+---
+layout: base
+---
+
+<h2><code>{{ page.title }}</code>: {{ page.shortdef }}</h2>
+
+{{ content }}
+
+<!-- "automatic stats" -->
+{% capture langdir %}{{ page.path | split:"/" | first | split:"-" | first | replace_first:'_',''}}{% endcapture %}
+{% capture basename %}{% if page.title == 'AUX' %}AUX_{% else %}{{page.title}}{% endif %}{% endcapture %}
+{% capture statspath %}stats/{{langdir}}/pos/{{basename}}.md{% endcapture %}
+{% capture statsexist %}{% file_exists _includes/{{statspath}} %}{% endcapture %}
+{% if statsexist  == "true" %}
+{% capture statsinclude %}{% include {{statspath}} %}{% endcapture %}
+{{ statsinclude | markdownify }}
+{% endif %}
+
+<!-- "in other languages" links -->
+<hr/>
+{% for r in site.data.postags %}{% if r.label == page.title %}
+{{ r.label }} in other languages:
+{% for l in r.languages %}
+[<a href="../../{{ l.label }}/{{ r.label }}.html">{{ l.label | replace: '/pos', '' }}</a>]
+{% endfor %}
+{% endif %}{% endfor %}

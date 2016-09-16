@@ -3,7 +3,8 @@
 
 /* style for home page and manual. */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600&subset=latin&effect=smoothing);
+/* @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic,600italic,700italic&subset=latin&effect=smoothing); */
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic,700italic&subset=latin&effect=smoothing);
 
 /* override sentence number text style from brat style-vis.css */
 .sentnum text {
@@ -62,13 +63,15 @@ pre {
 
 code {
   line-height: 1.4;
-  font: 12px 'Bitstream Vera Sans Mono','Courier',monospace;
+/*   font: 12px 'Bitstream Vera Sans Mono','Courier',monospace; */
+  font-family: 'Bitstream Vera Sans Mono','Courier',monospace;
   margin: 0 2px;
-  padding: 0 5px;
-  border: 1px solid #EAEAEA;
-  background-color: #F8F8F8;
-  border-radius: 3px;
+/*   padding: 0 5px; */
+/*   border: 1px solid #EAEAEA; */
+/*   background-color: #F8F8F8; */
+/*   border-radius: 3px; */
 }
+
 
 pre > code {
   margin: 0;
@@ -101,12 +104,12 @@ pre > code {
   background-color: #cccccc;
 }
 
-img {
+/* img {
   -moz-box-shadow: 5px 5px 5px #999999;
   -webkit-box-shadow: 5px 5px 5px #999999;
   box-shadow: 5px 5px 5px #999999;
   margin-bottom: 0.5em;
-}
+} */
 
 img.right {
   border: 1px solid black;
@@ -130,8 +133,10 @@ img.icon {
 }
 
 body { 
-  font-family: 'Open Sans', arial, sans-serif;
-  font-size: 13px;
+/*   font-family: 'Open Sans', arial, sans-serif; */
+/*  font-family: 'Open Sans', Arial, freesans, sans-serif; */
+  font-family: 'Source Sans Pro', Arial, freesans, sans-serif;
+  font-size: 14px;
   overflow-y: scroll;
 }
 
@@ -193,7 +198,8 @@ div.center {
 }
 
 #main {
-  width:1000px;
+  max-width:1000px;
+  min-width: 600px;
   padding-left: 2em;
   padding-right: 2em;
 }
@@ -294,7 +300,8 @@ td.partial {
 }
 
 td.none {
-  background-color: #FF9090;
+  /* background-color: #FF9090;*/
+  background-color: white;
 }
 
 .rounded {
@@ -377,38 +384,6 @@ td.none {
   text-align: center;
 }
 
-/* embedding-specific styles */
-.sd-parse {
-  margin-top: 5px;
-  margin-bottom: 25px;
-}
-.embedded-brat-data {
-  display: block;
-  width: 100%;
-  height: 100px;
-  font-size: 11px;
-  border: 2px inset
-}
-.show-hide-div {
-  text-align: right;
-}
-.show-hide-toggle {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-left: 10px;
-  margin-right: 10px;
-  -moz-border-bottom-left-radius: 0px;
-  -moz-border-bottom-right-radius: 0px;
-  -webkit-border-bottom-left-radius: 0px;
-  -webkit-border-bottom-right-radius: 0px;
-  border-bottom-left-radius: 0px;
-  border-bottom-right-radius: 0px;
-}
-.show-hide-toggle .ui-button-text {
-  padding: 1px 4px;
-  font-size: 9px;
-}
-
 div.example {
   border: 1px solid gray;
   margin:1em;
@@ -437,11 +412,24 @@ div.example {
 table.typeindex {
   vertical-align: top;
   border-collapse:collapse;
+  border: 1px solid lightgray;
 }
 
 table.typeindex td {
   vertical-align:top;
-  border: 1px solid lightgray;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+}
+
+table.typeindex thead th {
+  padding: 0.5em;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+}
+
+table.typeindex tbody td {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 table.category {
@@ -453,3 +441,102 @@ table.category td {
   border: none;
 }
 
+.jquery-ui-tabs > div {
+  font-size: 120%;
+}
+
+table.statustable {
+  float: right;
+  margin-left: 3em;
+  border: 1px solid lightgray;
+  font-size: 90%;
+  color: #444;
+}
+
+em strong, b {
+  font-weight: 700;
+  color: darkred;
+}
+
+h1, h2, h3, strong {
+  font-weight: 600; /* standard, not extra bold */
+}
+
+h4, h5, h6 {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.widespan {
+    display: inline-block;
+    width: 8%;
+}
+
+.doublewidespan {
+    display: inline-block;
+    width: 16%;
+}
+
+
+.tagspan {
+    display: inline-block;
+    width: 1em;
+}
+
+.genreicon {
+    margin-left: 2px;
+}
+
+.flagspan {
+    display: inline-block;
+    width: 5%;
+    padding-left: 2em;
+}
+
+.propertylogo {
+    vertical-align: middle;
+    height: 1em;
+    margin: 0 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+   
+
+.flag {
+    vertical-align: middle;
+    border: solid grey 1px;
+    height: 1em;
+    margin: 0 1em;
+}
+
+.license {
+   vertical-align: middle;
+   height: 1.2em;
+}
+
+.validationpass {
+    color: green;
+}
+
+.validationfail {
+    color: red;
+}
+
+
+div.bordered-char {
+  display:inline-block;
+  width: 9px;
+  height: 9px;
+  border: 1px solid black;
+  border-radius: 2px;
+  margin: 1px;
+}
+div.bordered-char span {
+  display:inline-block;
+  left: 0px;
+  width: 100%;
+  text-align: center;
+  font-size: 11px;
+  line-height: 8.5px;
+  font-weight: bold;
+}

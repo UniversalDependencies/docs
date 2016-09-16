@@ -1,0 +1,290 @@
+---
+layout: base
+title: 'Tagset fa::conll conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset fa::conll
+
+**Disclaimer:**
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.
+
+Tagset <tt>fa::conll</tt>, total 271 tags.
+
+<table>
+  <tr style="background:lightgray"><td>ADJ AJCM attachment=ISO</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp</td><td>بیشتر, بیش, بهتر, بیشتری, کمتر</td></tr>
+  <tr><td>ADJ AJCM attachment=NXT</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp</td><td>نزدیک‌تر, پیش‌تر, بالغ‌تر, عاقل‌تر, تاریخی‌تر</td></tr>
+  <tr style="background:lightgray"><td>ADJ AJP attachment=ISO</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos</td><td>ولایی, خودساخته, وارد, خوبی</td></tr>
+  <tr><td>ADJ AJP attachment=ISO|number=SING</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos|Number=Sing</td><td>صاحب</td></tr>
+  <tr style="background:lightgray"><td>ADJ AJP attachment=NXT</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos</td><td>امیدوار, معتقد, مجبور, متأسف, تنها</td></tr>
+  <tr><td>ADJ AJP attachment=PRV</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos</td><td>معتقد, خواستار, زیبا</td></tr>
+  <tr style="background:lightgray"><td>ADJ AJSUP attachment=ISO</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup</td><td>بهترین, مهم‌ترین, بزرگ‌ترین, بیشترین, قوی‌ترین</td></tr>
+  <tr><td>ADR POSADR attachment=ISO</td><td>=&gt;</td><td>INTJ</td><td>Case=Voc</td><td>ا</td></tr>
+  <tr style="background:lightgray"><td>ADR POSADR attachment=PRV</td><td>=&gt;</td><td>INTJ</td><td>Case=Voc</td><td>ا</td></tr>
+  <tr><td>ADR PRADR attachment=ISO</td><td>=&gt;</td><td>INTJ</td><td>Case=Voc</td><td>ای, یا, آهای</td></tr>
+  <tr style="background:lightgray"><td>ADV AVCM attachment=ISO</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td>بیشتر, بیش, کمتر, بهتر, زودتر</td></tr>
+  <tr><td>ADV AVP attachment=ISO</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos</td><td>هم, تنها, دیگر, خوب, پس</td></tr>
+  <tr style="background:lightgray"><td>ADV AVP attachment=NXT</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos</td><td>کجا, بیرون</td></tr>
+  <tr><td>ADV AVSUP attachment=ISO</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td>دوباره</td></tr>
+  <tr style="background:lightgray"><td>ADV SADV attachment=ISO</td><td>=&gt;</td><td>ADV</td><td>_</td><td>هم, نیز, حتی, نه, خیلی</td></tr>
+  <tr><td>ADV SADV attachment=NXT</td><td>=&gt;</td><td>ADV</td><td>_</td><td>کجا</td></tr>
+  <tr style="background:lightgray"><td>ADV SADV attachment=PRV</td><td>=&gt;</td><td>ADV</td><td>_</td><td>م, کجا</td></tr>
+  <tr><td>CONJ CONJ attachment=ISO</td><td>=&gt;</td><td>CONJ</td><td>_</td><td>و, یا, اما, ولی, که</td></tr>
+  <tr style="background:lightgray"><td>IDEN IDEN attachment=ISO</td><td>=&gt;</td><td>NOUN</td><td>_</td><td>ملا</td></tr>
+  <tr><td>IDEN IDEN attachment=ISO|number=SING</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td>امام, دکتر, شهید, سید, آیت‌الله</td></tr>
+  <tr style="background:lightgray"><td>N ANM attachment=ISO</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim</td><td>اجارۀ, آقای, روبیگو, پس , سرلوحۀ</td></tr>
+  <tr><td>N ANM attachment=ISO|number=PLUR</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Number=Plur</td><td>مردم, کسانی, دیگران, افراد, زنان</td></tr>
+  <tr style="background:lightgray"><td>N ANM attachment=ISO|number=SING</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Number=Sing</td><td>ارسطو</td></tr>
+  <tr><td>N ANM attachment=NXT|number=PLUR</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Number=Plur</td><td>انسان‌ها, زن‌ها, فرشته‌ها, طالبان, دیگران</td></tr>
+  <tr style="background:lightgray"><td>N ANM attachment=NXT|number=SING</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Number=Sing</td><td>خدا, خدای, خداوند, پروردگار, الرضا</td></tr>
+  <tr><td>N IANM attachment=ISO</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan</td><td>اسلام, هزار, ایجاد, وقتی, تمام</td></tr>
+  <tr style="background:lightgray"><td>N IANM attachment=ISO|number=PLUR</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Plur</td><td>همۀ, همه, حقوق, آثار, شرایط</td></tr>
+  <tr><td>N IANM attachment=ISO|number=SING</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing</td><td>سال, کار, ایران, روز, دست</td></tr>
+  <tr style="background:lightgray"><td>N IANM attachment=NXT|number=PLUR</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Plur</td><td>سال‌ها, روزها, ضرورت‌هایی‌, فروافتادن‌ها, مدت‌ها</td></tr>
+  <tr><td>N IANM attachment=NXT|number=SING</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing</td><td>اینجا, دوست, کجا, نگاه, عمری</td></tr>
+  <tr style="background:lightgray"><td>N IANM attachment=PRV|number=SING</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing</td><td>پرداخت, جا</td></tr>
+  <tr><td>PART PART attachment=ISO</td><td>=&gt;</td><td>PART</td><td>_</td><td>آیا, که, مگر, را, دیگر</td></tr>
+  <tr style="background:lightgray"><td>PART PART attachment=PRV</td><td>=&gt;</td><td>PART</td><td>_</td><td>را</td></tr>
+  <tr><td>POSNUM POSNUM attachment=ISO</td><td>=&gt;</td><td>NUM</td><td>_</td><td>اول, دوم, سوم, چهارم, نخست</td></tr>
+  <tr style="background:lightgray"><td>POSTP POSTP attachment=ISO</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post</td><td>پس</td></tr>
+  <tr><td>POSTP POSTP attachment=NXT</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post</td><td>را</td></tr>
+  <tr style="background:lightgray"><td>POSTP POSTP attachment=PRV</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post</td><td>را</td></tr>
+  <tr><td>PR CREFX attachment=ISO</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs|Reflex=Yes</td><td>خود, خویش, هم, یکدیگر, همدیگر</td></tr>
+  <tr style="background:lightgray"><td>PR CREFX attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Prs|Reflex=Yes</td><td>خود, هم, کجا</td></tr>
+  <tr><td>PR CREFX person=1|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs|Reflex=Yes</td><td></td></tr>
+  <tr style="background:lightgray"><td>PR CREFX person=1|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs|Reflex=Yes</td><td>خود, هم, دفتر, یکدیگر, من</td></tr>
+  <tr><td>PR CREFX person=1|attachment=PRV|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs|Reflex=Yes</td><td>مان</td></tr>
+  <tr style="background:lightgray"><td>PR CREFX person=1|attachment=PRV|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs|Reflex=Yes</td><td>م, مان</td></tr>
+  <tr><td>PR CREFX person=2|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs|Reflex=Yes</td><td>خودتان</td></tr>
+  <tr style="background:lightgray"><td>PR CREFX person=2|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs|Reflex=Yes</td><td>تو</td></tr>
+  <tr><td>PR CREFX person=3|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td>هم, همدیگر, خودشان, خود, یکدیگر</td></tr>
+  <tr style="background:lightgray"><td>PR CREFX person=3|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td>خود, خویش, هم, یکدیگر, همدیگر</td></tr>
+  <tr><td>PR DEMON attachment=ISO</td><td>=&gt;</td><td>PRON</td><td>PronType=Dem</td><td>آن, این, چنین, چنان, همچنان</td></tr>
+  <tr style="background:lightgray"><td>PR DEMON attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Dem</td><td>آنها, اینها, آن‌ها, آنان, همانها</td></tr>
+  <tr><td>PR DEMON attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Dem</td><td>آن, این, همین, چنان, آنجا</td></tr>
+  <tr style="background:lightgray"><td>PR DEMON attachment=NXT|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Dem</td><td>این, آن, همان</td></tr>
+  <tr><td>PR DEMON attachment=PRV|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Dem</td><td>ان</td></tr>
+  <tr style="background:lightgray"><td>PR DEMON person=1|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Dem</td><td></td></tr>
+  <tr><td>PR DEMON person=1|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Dem</td><td>این, چنین</td></tr>
+  <tr style="background:lightgray"><td>PR DEMON person=1|attachment=NXT|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Dem</td><td>ما</td></tr>
+  <tr><td>PR DEMON person=3|attachment=ISO</td><td>=&gt;</td><td>PRON</td><td>Person=3|PronType=Dem</td><td>آن</td></tr>
+  <tr style="background:lightgray"><td>PR DEMON person=3|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Dem</td><td>آنان, آنها, اینها, آن</td></tr>
+  <tr><td>PR DEMON person=3|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Dem</td><td>آن, این, چنان, چنین, همین</td></tr>
+  <tr style="background:lightgray"><td>PR DEMON person=3|attachment=NXT|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Dem</td><td>او</td></tr>
+  <tr><td>PR INTG attachment=ISO</td><td>=&gt;</td><td>PRON</td><td>PronType=Int</td><td>چه, کجا, چگونه, چی, چرا</td></tr>
+  <tr style="background:lightgray"><td>PR INTG attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Int</td><td>چه, که</td></tr>
+  <tr><td>PR INTG attachment=NXT</td><td>=&gt;</td><td>PRON</td><td>PronType=Int</td><td>چی, کجا, کی</td></tr>
+  <tr style="background:lightgray"><td>PR INTG attachment=NXT|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Int</td><td>چی, کی</td></tr>
+  <tr><td>PR INTG person=1|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Int</td><td>چه</td></tr>
+  <tr style="background:lightgray"><td>PR INTG person=3|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Int</td><td>چه, چی, کجا, کی, کدام</td></tr>
+  <tr><td>PR JOPER person=1|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs|Variant=Short</td><td></td></tr>
+  <tr style="background:lightgray"><td>PR JOPER person=1|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs|Variant=Short</td><td>م</td></tr>
+  <tr><td>PR JOPER person=1|attachment=NXT|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs|Variant=Short</td><td>م</td></tr>
+  <tr style="background:lightgray"><td>PR JOPER person=1|attachment=PRV|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs|Variant=Short</td><td>مان</td></tr>
+  <tr><td>PR JOPER person=1|attachment=PRV|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs|Variant=Short</td><td>م, ام, یم</td></tr>
+  <tr style="background:lightgray"><td>PR JOPER person=2|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs|Variant=Short</td><td></td></tr>
+  <tr><td>PR JOPER person=2|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs|Variant=Short</td><td></td></tr>
+  <tr style="background:lightgray"><td>PR JOPER person=2|attachment=PRV|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs|Variant=Short</td><td>تان</td></tr>
+  <tr><td>PR JOPER person=2|attachment=PRV|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs|Variant=Short</td><td>ت, یت</td></tr>
+  <tr style="background:lightgray"><td>PR JOPER person=3|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td>آنها, شان</td></tr>
+  <tr><td>PR JOPER person=3|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td>ش</td></tr>
+  <tr style="background:lightgray"><td>PR JOPER person=3|attachment=NXT|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td>یش</td></tr>
+  <tr><td>PR JOPER person=3|attachment=PRV|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td>شان</td></tr>
+  <tr style="background:lightgray"><td>PR JOPER person=3|attachment=PRV|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td>ش, اش, یش, شان</td></tr>
+  <tr><td>PR SEPER attachment=ISO</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs</td><td>هم, یکدیگر, همدیگر, خودش, خودشان</td></tr>
+  <tr style="background:lightgray"><td>PR SEPER attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td>آنها, همه, اینها</td></tr>
+  <tr><td>PR SEPER attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Prs</td><td>هم</td></tr>
+  <tr style="background:lightgray"><td>PR SEPER person=1|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs</td><td>خودمان</td></tr>
+  <tr><td>PR SEPER person=1|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td>خودم</td></tr>
+  <tr style="background:lightgray"><td>PR SEPER person=1|attachment=NXT|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs</td><td>ما</td></tr>
+  <tr><td>PR SEPER person=1|attachment=NXT|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td>م, من</td></tr>
+  <tr style="background:lightgray"><td>PR SEPER person=1|attachment=PRV|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs</td><td>مان</td></tr>
+  <tr><td>PR SEPER person=1|attachment=PRV|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td>م</td></tr>
+  <tr style="background:lightgray"><td>PR SEPER person=2|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs</td><td>خودتان</td></tr>
+  <tr><td>PR SEPER person=2|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td>خودت, خودتان</td></tr>
+  <tr style="background:lightgray"><td>PR SEPER person=2|attachment=NXT|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs</td><td>شما</td></tr>
+  <tr><td>PR SEPER person=2|attachment=NXT|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td>خودت</td></tr>
+  <tr style="background:lightgray"><td>PR SEPER person=3|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Prs</td><td>خودشان, هم</td></tr>
+  <tr><td>PR SEPER person=3|attachment=ISO|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Prs</td><td>خودش, هم</td></tr>
+  <tr style="background:lightgray"><td>PR SEPER person=3|attachment=NXT|number=PLUR</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Prs</td><td>آنها, آنان</td></tr>
+  <tr><td>PR SEPER person=3|attachment=NXT|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Prs</td><td>م, او, چی, این, کجا</td></tr>
+  <tr style="background:lightgray"><td>PR SEPER person=3|attachment=PRV|number=SING</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Prs</td><td>را, ش, ین, ان, و</td></tr>
+  <tr><td>PREM AMBAJ attachment=ISO</td><td>=&gt;</td><td>DET</td><td>PronType=Ind,Neg,Tot</td><td>هر, چند, هیچ, برخی, همه</td></tr>
+  <tr style="background:lightgray"><td>PREM DEMAJ attachment=ISO</td><td>=&gt;</td><td>DET</td><td>PronType=Dem</td><td>این, آن, همان, همین, چنین</td></tr>
+  <tr><td>PREM DEMAJ attachment=PRV</td><td>=&gt;</td><td>DET</td><td>PronType=Dem</td><td>ین, دین, ان</td></tr>
+  <tr style="background:lightgray"><td>PREM EXAJ attachment=ISO</td><td>=&gt;</td><td>DET</td><td>PronType=Exc</td><td>چه, چقدر, آن, چند, عجب</td></tr>
+  <tr><td>PREM QUAJ attachment=ISO</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td>چه, کدام, چند, کدامین, چه‌</td></tr>
+  <tr style="background:lightgray"><td>PRENUM PRENUM attachment=ISO</td><td>=&gt;</td><td>NUM</td><td>_</td><td>یک, دو, سه, اولین, چهار</td></tr>
+  <tr><td>PREP PREP attachment=ISO</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td>به, در, از, با, برای</td></tr>
+  <tr style="background:lightgray"><td>PREP PREP attachment=NXT</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td>بد, برای, نزد, از, ب</td></tr>
+  <tr><td>PREP PREP attachment=PRV</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td>را</td></tr>
+  <tr style="background:lightgray"><td>PSUS PSUS attachment=ISO</td><td>=&gt;</td><td>PART</td><td>PartType=Mod</td><td>کاش, نه, انگار, یعنی, بله</td></tr>
+  <tr><td>PSUS PSUS attachment=NXT</td><td>=&gt;</td><td>PART</td><td>PartType=Mod</td><td>خدای</td></tr>
+  <tr style="background:lightgray"><td>PUNC PUNC attachment=ISO</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td>., ،, ؟, «, »</td></tr>
+  <tr><td>PUNC PUNC attachment=PRV</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td>ند, .</td></tr>
+  <tr style="background:lightgray"><td>SUBR SUBR attachment=ISO</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td>که, اگر, تا, زیرا, چون</td></tr>
+  <tr><td>SUBR SUBR attachment=PRV</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td>که</td></tr>
+  <tr style="background:lightgray"><td>V ACT attachment=ISO|number=PLUR|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>خواهند کرد</td></tr>
+  <tr><td>V ACT attachment=ISO|number=PLUR|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>تاخته‌ایم, کرده‌اند, گرفته‌اند</td></tr>
+  <tr style="background:lightgray"><td>V ACT attachment=ISO|number=PLUR|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کردند</td></tr>
+  <tr><td>V ACT attachment=ISO|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>می‌کاریم</td></tr>
+  <tr style="background:lightgray"><td>V ACT attachment=ISO|number=PLUR|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>کنیم, نفهمند</td></tr>
+  <tr><td>V ACT attachment=ISO|number=SING|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Tense=Pqp|VerbForm=Fin|Voice=Act</td><td>خواسته بود</td></tr>
+  <tr style="background:lightgray"><td>V ACT attachment=ISO|number=SING|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act</td><td>گردانیده باشد</td></tr>
+  <tr><td>V ACT attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>است, می‌کند, نمی‌تواند</td></tr>
+  <tr style="background:lightgray"><td>V ACT attachment=ISO|number=SING|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>بزنم, بدانی, کنم</td></tr>
+  <tr><td>V ACT attachment=ISO|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>نمی‌توان, می‌توان</td></tr>
+  <tr style="background:lightgray"><td>V ACT attachment=ISO|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>نباید, می‌بایست, باید</td></tr>
+  <tr><td>V ACT person=1|attachment=ISO|number=PLUR|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>خواهیم کرد, نخواهیم کرد, خواهیم داد, خواهیم بود, خواهیم توانست</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=ISO|number=PLUR|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Act</td><td>کرده بودیم, داده بودیم, زده بودیم, آمده بودیم, کشیده بودیم</td></tr>
+  <tr><td>V ACT person=1|attachment=ISO|number=PLUR|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کرده باشیم, داشته باشیم, داده باشیم, کشیده باشیم, زده باشیم</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=ISO|number=PLUR|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>می‌کردیم, می‌دادیم, می‌زدیم, می‌رفتیم, می‌خندیدیم</td></tr>
+  <tr><td>V ACT person=1|attachment=ISO|number=PLUR|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>کرده‌ایم, داده‌ایم, داشته‌ایم, گرفته‌ایم, آورده‌ایم</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=ISO|number=PLUR|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کردیم, دادیم, داشتیم, بودیم, رفتیم</td></tr>
+  <tr><td>V ACT person=1|attachment=ISO|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>می‌کنیم, هستیم, داریم, می‌دهیم, می‌گیریم</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=ISO|number=PLUR|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>کنیم, بکنیم, بتوانیم, بدهیم, بزنیم</td></tr>
+  <tr><td>V ACT person=1|attachment=ISO|number=SING|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>ست</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=ISO|number=SING|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Act</td><td>کرده بودم, داده بودم, گرفته بودم, گذاشته بودم, زده بودم</td></tr>
+  <tr><td>V ACT person=1|attachment=ISO|number=SING|tma=GBESE</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Act</td><td>بده</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=ISO|number=SING|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کرده باشم, داشته باشم, داده باشم, زده باشم, برخورده باشم</td></tr>
+  <tr><td>V ACT person=1|attachment=ISO|number=SING|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>می‌کردم, می‌زدم, می‌خواستم, می‌دادم, می‌دانستم</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=ISO|number=SING|tma=GESEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>برمی‌گردانیدم</td></tr>
+  <tr><td>V ACT person=1|attachment=ISO|number=SING|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>کرده‌ام, داده‌ام, داشته‌ام, زده‌ام, گرفته‌ام</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=ISO|number=SING|tma=GNES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>می‌کرده‌ام</td></tr>
+  <tr><td>V ACT person=1|attachment=ISO|number=SING|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کردم, گفتم, بودم, داشتم, دیدم</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>م</td></tr>
+  <tr><td>V ACT person=1|attachment=ISO|number=SING|tma=HA</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=1|VerbForm=Fin|Voice=Act</td><td>بروم, نکن</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=ISO|number=SING|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>کنم, بروم, بدهم, بزنم, بکنم</td></tr>
+  <tr><td>V ACT person=1|attachment=NXT|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>می‌شناسیم</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=NXT|number=SING|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>دیدم</td></tr>
+  <tr><td>V ACT person=1|attachment=NXT|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>م, نمی‌یابم, بازمی‌جویم, می‌جویم</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=PRV|number=PLUR|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>یم</td></tr>
+  <tr><td>V ACT person=1|attachment=PRV|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>یم, ایم</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=PRV|number=SING|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>ستم</td></tr>
+  <tr><td>V ACT person=1|attachment=PRV|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>م, ام, یم, ییم</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=1|attachment=PRV|number=SING|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>کنم</td></tr>
+  <tr><td>V ACT person=2|attachment=ISO|number=PLUR</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Voice=Act</td><td>ورزید</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=ISO|number=PLUR|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>خواهید کرد, خواهید زد, خواهید دید, خواهید بود, خواهید شد</td></tr>
+  <tr><td>V ACT person=2|attachment=ISO|number=PLUR|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pqp|VerbForm=Fin|Voice=Act</td><td>کرده بودید, داشته بودید, نکوهیده بودید, برخاسته بودید, نکرده بودید</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=ISO|number=PLUR|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کرده باشید, داشته باشید, داده باشید, کرده باشیم, خورده باشید</td></tr>
+  <tr><td>V ACT person=2|attachment=ISO|number=PLUR|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</td><td>می‌کردید, نمی‌گذاشتید, می‌آموختید, می‌پرداختید, می‌پرستیدید</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=ISO|number=PLUR|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>کرده‌اید, داده‌اید, زده‌اید, آورده‌اید, کشیده‌اید</td></tr>
+  <tr><td>V ACT person=2|attachment=ISO|number=PLUR|tma=GNES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>می‌کرده‌اید, می‌شناخته‌اید</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=ISO|number=PLUR|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کردید, بودید, دادید, زدید, نوشتید</td></tr>
+  <tr><td>V ACT person=2|attachment=ISO|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>می‌کنید, دارید, می‌توانید, هستید, می‌خواهید</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=ISO|number=PLUR|tma=HA</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act</td><td>کنید, نکنید, دهید, بدهید, باشید</td></tr>
+  <tr><td>V ACT person=2|attachment=ISO|number=PLUR|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>کنید, باشید, بدهید, نکنید, بکنید</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=ISO|number=SING|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>خواهی کرد, خواهی داد, خواهی سوزاند, فروخواهد ماند, خواهی افشاند</td></tr>
+  <tr><td>V ACT person=2|attachment=ISO|number=SING|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pqp|VerbForm=Fin|Voice=Act</td><td>کرده بودی, داده بودی, کشیده, نگاشته بودی, کرده بود</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=ISO|number=SING|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کرده باشی, داشته باشی, مرده باشی, زیسته باشی, گفته باشی</td></tr>
+  <tr><td>V ACT person=2|attachment=ISO|number=SING|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</td><td>می‌کردی, می‌خواستی, می‌آمدی, می‌رفتی, می‌توانستی</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=ISO|number=SING|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>کرده‌ای, دیده‌ای, آمده‌ای, فروداده‌ای, مانده‌ای</td></tr>
+  <tr><td>V ACT person=2|attachment=ISO|number=SING|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کردی, بودی, دادی, پراندی, توانستی</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>می‌کنی, داری, هستی, می‌خواهی, می‌نوشی</td></tr>
+  <tr><td>V ACT person=2|attachment=ISO|number=SING|tma=HA</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act</td><td>کن, باش, بگو, بیا, بگذار</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=ISO|number=SING|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>کنی, باشی, بگیری, داری, دهی</td></tr>
+  <tr><td>V ACT person=2|attachment=NXT|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>می‌شناسید</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=PRV|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>ید, اید, یم</td></tr>
+  <tr><td>V ACT person=2|attachment=PRV|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>ی, یی, ای, ست</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=2|attachment=PRV|number=SING|tma=HA</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act</td><td>ی</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=PLUR|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>خواهند کرد, خواهند داد, خواهند زد, خواهند بود, خواهند داشت</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=ISO|number=PLUR|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act</td><td>کرده بودند, داده بودند, گرفته بودند, آورده بودند, زده بودند</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=PLUR|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کرده باشند, داشته باشند, داده باشند, گرفته باشند, نداشته باشند</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=ISO|number=PLUR|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>می‌کردند, می‌دادند, می‌زدند, می‌گرفتند, می‌آمدند</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=PLUR|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>کرده‌اند, داده‌اند, گرفته‌اند, بوده‌اند, داشته‌اند</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=ISO|number=PLUR|tma=GNES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>می‌کرده‌اند, می‌خوانده‌اند, می‌موییده‌اند</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=PLUR|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کردند, بودند, دادند, داشتند, زدند</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=ISO|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>می‌کنند, هستند, دارند, می‌دهند, می‌توانند</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=PLUR|tma=HA</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=3|VerbForm=Fin|Voice=Act</td><td>نباشند, کنند, بیاشامید, بخورید, بزنید</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=ISO|number=PLUR|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>کنند, باشند, بکنند, بدهند, دارند</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=SING</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Voice=Act</td><td>برنشانید</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=ISO|number=SING|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>خواهد کرد, خواهد شد, خواهد بود, خواهد داد, خواهد آمد</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=SING|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act</td><td>کرده بود, داده بود, زده بود, آمده بود, گرفته بود</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=ISO|number=SING|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کرده باشد, داشته باشد, داده باشد, نداشته باشد, زده باشد</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=SING|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>می‌کرد, می‌زد, می‌داد, می‌آمد, می‌رفت</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=ISO|number=SING|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>کرده است, کرده, آمده است, بوده است, بوده</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=SING|tma=GNES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Nar|VerbForm=Fin|Voice=Act</td><td>می‌کرده است, می‌دانسته, می‌کرده, می‌شوریده است, می‌شکافته است</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=ISO|number=SING|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کرد, بود, داشت, داد, گفت</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>ست</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=ISO|number=SING|tma=HA</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td>کن, باشد, دارد, بده, نروید</td></tr>
+  <tr><td>V ACT person=3|attachment=ISO|number=SING|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>کند, باشد, بکند, دارد, دهد</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=NXT|number=PLUR|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>می‌انداختند</td></tr>
+  <tr><td>V ACT person=3|attachment=NXT|number=PLUR|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>پذیرفتند</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=NXT|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>ند, می‌برند</td></tr>
+  <tr><td>V ACT person=3|attachment=NXT|number=SING|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>می‌کند</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=NXT|number=SING|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>کشاند</td></tr>
+  <tr><td>V ACT person=3|attachment=NXT|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>ست</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=PRV|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>ند, اند, یند, ترند, اند </td></tr>
+  <tr><td>V ACT person=3|attachment=PRV|number=SING|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>ست, ید</td></tr>
+  <tr style="background:lightgray"><td>V ACT person=3|attachment=PRV|number=SING|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>ست</td></tr>
+  <tr><td>V ACT person=3|attachment=PRV|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>ست, ند, ام, اند, ی</td></tr>
+  <tr style="background:lightgray"><td>V MODL attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>نمی‌توان, می‌توان</td></tr>
+  <tr><td>V MODL attachment=ISO|number=SING|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>باید, بایستی, بتوان</td></tr>
+  <tr style="background:lightgray"><td>V MODL attachment=ISO|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Tense=Past|VerbForm=Fin|VerbType=Mod</td><td>بایستی</td></tr>
+  <tr><td>V MODL attachment=ISO|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Tense=Past|VerbForm=Fin|VerbType=Mod</td><td>می‌بایست, می‌شد, نمی‌شد</td></tr>
+  <tr style="background:lightgray"><td>V MODL attachment=ISO|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin|VerbType=Mod</td><td>نباید, بایستی, باید</td></tr>
+  <tr><td>V MODL attachment=ISO|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>می‌توان, نمی‌توان, باید, نمی‌شود, می‌شود</td></tr>
+  <tr style="background:lightgray"><td>V MODL attachment=ISO|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>باید, نباید, بتوان, بایستی, نمی‌توان</td></tr>
+  <tr><td>V MODL attachment=NXT|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>باید</td></tr>
+  <tr style="background:lightgray"><td>V MODL person=1|attachment=ISO|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>می‌توانیم</td></tr>
+  <tr><td>V MODL person=1|attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>می‌توانم</td></tr>
+  <tr style="background:lightgray"><td>V MODL person=2|attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>می‌توانی</td></tr>
+  <tr><td>V MODL person=3|attachment=ISO|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>می‌توانند</td></tr>
+  <tr style="background:lightgray"><td>V MODL person=3|attachment=ISO|number=SING|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod</td><td>می‌بایست, نمی‌بایستی, می‌بایستی, نمی‌شد</td></tr>
+  <tr><td>V MODL person=3|attachment=ISO|number=SING|tma=GNES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Nar|VerbForm=Fin|VerbType=Mod</td><td>می‌توانسته</td></tr>
+  <tr style="background:lightgray"><td>V MODL person=3|attachment=ISO|number=SING|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod</td><td>باید</td></tr>
+  <tr><td>V MODL person=3|attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>باید, نباید, می‌توان, نمی‌تواند, می‌شود</td></tr>
+  <tr style="background:lightgray"><td>V MODL person=3|attachment=ISO|number=SING|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td>باید, می‌توان, نباید, بایستی, نمی‌شود</td></tr>
+  <tr><td>V PASS attachment=ISO|number=SING|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>شده باشد</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=1|attachment=ISO|number=PLUR|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td>نخواهیم شد</td></tr>
+  <tr><td>V PASS person=1|attachment=ISO|number=PLUR|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Pass</td><td>شده بودیم</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=1|attachment=ISO|number=PLUR|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>می‌شدیم, فرومی‌شدیم</td></tr>
+  <tr><td>V PASS person=1|attachment=ISO|number=PLUR|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Nar|VerbForm=Fin|Voice=Pass</td><td>شده‌ایم</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=1|attachment=ISO|number=PLUR|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>شدیم, فراخوانده شدیم, انگیخته نشدیم, شده, نشدیم</td></tr>
+  <tr><td>V PASS person=1|attachment=ISO|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>می‌شویم, فرومی‌شویم, شده</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=1|attachment=ISO|number=PLUR|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>شویم, نشویم</td></tr>
+  <tr><td>V PASS person=1|attachment=ISO|number=SING|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td>خواهم شد, درخواهم شد</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=1|attachment=ISO|number=SING|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Pass</td><td>شده بودم, شده بودیم, نشده بودم</td></tr>
+  <tr><td>V PASS person=1|attachment=ISO|number=SING|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>می‌شدم, نمی‌شدم</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=1|attachment=ISO|number=SING|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Nar|VerbForm=Fin|Voice=Pass</td><td>شده‌ام</td></tr>
+  <tr><td>V PASS person=1|attachment=ISO|number=SING|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>شدم, نشدم, گذارده شدم</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=1|attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>می‌شوم, می‌شود, نمی‌شوم</td></tr>
+  <tr><td>V PASS person=1|attachment=ISO|number=SING|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>شوم, بشوم</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=2|attachment=ISO|number=PLUR|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td>خواهید شد, فراخواهیدخواند</td></tr>
+  <tr><td>V PASS person=2|attachment=ISO|number=PLUR|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pqp|VerbForm=Fin|Voice=Pass</td><td>نشده بودید</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=2|attachment=ISO|number=PLUR|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>شده باشید</td></tr>
+  <tr><td>V PASS person=2|attachment=ISO|number=PLUR|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Nar|VerbForm=Fin|Voice=Pass</td><td>شده‌اید</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=2|attachment=ISO|number=PLUR|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>شدید</td></tr>
+  <tr><td>V PASS person=2|attachment=ISO|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>می‌شوید, برگردانده می‌شوید</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=2|attachment=ISO|number=PLUR|tma=HA</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Pass</td><td>نشوید, شوید</td></tr>
+  <tr><td>V PASS person=2|attachment=ISO|number=PLUR|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>شوید, نشوید, بشوید</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=2|attachment=ISO|number=SING|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pqp|VerbForm=Fin|Voice=Pass</td><td>پخته بودی</td></tr>
+  <tr><td>V PASS person=2|attachment=ISO|number=SING|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>می‌شدم</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=2|attachment=ISO|number=SING|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Nar|VerbForm=Fin|Voice=Pass</td><td>نشده‌ای</td></tr>
+  <tr><td>V PASS person=2|attachment=ISO|number=SING|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>شدی</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=2|attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>می‌شوی, شدی</td></tr>
+  <tr><td>V PASS person=2|attachment=ISO|number=SING|tma=HA</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Pass</td><td>شو</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=2|attachment=ISO|number=SING|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>نشوی, بشوی, شوی</td></tr>
+  <tr><td>V PASS person=3|attachment=ISO|number=PLUR|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td>خواهند شد, شدند, برانگیخته خواهند شد, تنیده خواهند شد</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=3|attachment=ISO|number=PLUR|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Pass</td><td>شده بودند, تابانده بودند, شده, پرداخته بودیم, نشده بودند</td></tr>
+  <tr><td>V PASS person=3|attachment=ISO|number=PLUR|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>شده باشند, خورده باشند, نشده باشند</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=3|attachment=ISO|number=PLUR|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>می‌شدند, انداخته می‌شدند, خوانده می‌شدند, می‌شد, فرومی‌شدند</td></tr>
+  <tr><td>V PASS person=3|attachment=ISO|number=PLUR|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Nar|VerbForm=Fin|Voice=Pass</td><td>شده‌اند, شده, نوشته شده‌اند, ساخته شده‌اند, نشده‌اند</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=3|attachment=ISO|number=PLUR|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>شدند, کشته شدند, شدیم, بازداشته شدند, رهانده شدند</td></tr>
+  <tr><td>V PASS person=3|attachment=ISO|number=PLUR|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>می‌شوند, شده, داده می‌شوند, زاده می‌شوند, گذارده می‌شوند</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=3|attachment=ISO|number=PLUR|tma=HA</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass</td><td>شوید</td></tr>
+  <tr><td>V PASS person=3|attachment=ISO|number=PLUR|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>شوند, شکسته شوند, شناخته شوند, تکانده شوند, بشوند</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=3|attachment=ISO|number=SING|tma=AY</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td>خواهد شد, برآورده خواهد شد, آمیخته خواهد شد, بازتابیده خواهد شد, داده خواهد شد</td></tr>
+  <tr><td>V PASS person=3|attachment=ISO|number=SING|tma=GB</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Pass</td><td>شده بود, نشده بود, ساخته شده بود, شده, بخشوده</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=3|attachment=ISO|number=SING|tma=GEL</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>شده باشد, چرانیده شده باشد, بسته شده باشد, شده, نشده باشد</td></tr>
+  <tr><td>V PASS person=3|attachment=ISO|number=SING|tma=GES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>می‌شد, نمی‌شد, دیده می‌شد, گفته می‌شد, داده می‌شد</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=3|attachment=ISO|number=SING|tma=GN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Nar|VerbForm=Fin|Voice=Pass</td><td>شده است, شده, داده شده است, داده شده, گرفته شده است</td></tr>
+  <tr><td>V PASS person=3|attachment=ISO|number=SING|tma=GNES</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Nar|VerbForm=Fin|Voice=Pass</td><td>می‌شده, برکشیده می‌شود, رانده می‌شده</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=3|attachment=ISO|number=SING|tma=GS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>شد, شده است, داده شد, شده, نشد</td></tr>
+  <tr><td>V PASS person=3|attachment=ISO|number=SING|tma=H</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>می‌شود, نمی‌شود, داده می‌شود, دیده می‌شود, گفته می‌شود</td></tr>
+  <tr style="background:lightgray"><td>V PASS person=3|attachment=ISO|number=SING|tma=HEL</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>شود, بشود, نشود, داده شود, ورزیده شود</td></tr>
+</table>

@@ -1,0 +1,16 @@
+{
+    "none":"file-o",
+    "news":"newspaper-o",
+    "fiction":"book",
+    "nonfiction":"info-circle",
+    "blog":"calendar",
+    "medical":"eyedropper",
+    "legal":"legal",
+    "social":"feed",
+    "spoken":"comment-o",
+    "wiki":"wikipedia-w",
+    "web":"globe",
+    "bible":"cloud",
+    "grammar-examples":"magic",
+    "reviews":"thumbs-o-up"
+}

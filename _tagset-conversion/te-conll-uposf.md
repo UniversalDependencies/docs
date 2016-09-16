@@ -1,0 +1,683 @@
+---
+layout: base
+title: 'Tagset te::conll conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset te::conll
+
+**Disclaimer:**
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.
+
+Tagset <tt>te::conll</tt>, total 664 tags.
+
+<table>
+  <tr style="background:lightgray"><td>CC gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>CONJ</td><td>_</td><td></td></tr>
+  <tr><td>CL gend-|num-pl|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|NounType=Class|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>CL gend-|num-pl|pers-|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>NOUN</td><td>NounType=Class|Number=Plur</td><td></td></tr>
+  <tr><td>CL gend-|num-pl|pers-|case-|vib-nu|tam-nu</td><td>=&gt;</td><td>NOUN</td><td>NounType=Class|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>CL gend-|num-pl|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>NounType=Class|Number=Plur</td><td></td></tr>
+  <tr><td>DEM gend-fn|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>DET</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Dem</td><td></td></tr>
+  <tr style="background:lightgray"><td>DEM gend-fn|num-sg|pers-3|case-|vib-|tam-0_o</td><td>=&gt;</td><td>DET</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Dem</td><td></td></tr>
+  <tr><td>ECH gend-|num-sg|pers-|case-|vib-gA|tam-gA</td><td>=&gt;</td><td>X</td><td>Echo=Ech|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>ECH gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>X</td><td>Echo=Ech|Number=Sing</td><td></td></tr>
+  <tr><td>INTF gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg</td><td></td></tr>
+  <tr style="background:lightgray"><td>JJ gend-|num-pl|pers-|case-|vib-lAMti_xi|tam-lAMti_xi_0</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>JJ gend-|num-pl|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>JJ gend-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr><td>JJ gend-|num-sg|pers-2|case-|vib-|tam-</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>JJ gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>JJ gend-|num-sg|pers-|case-o|vib-|tam-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>JJ gend-|num-sg|pers-|case-o|vib-|tam-0_adj</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Number=Sing</td><td></td></tr>
+  <tr><td>JJ gend-|num-sg|pers-|case-|vib-Ena|tam-Ena</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>JJ gend-|num-sg|pers-|case-|vib-gA|tam-gA</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>JJ gend-|num-sg|pers-|case-|vib-lAti|tam-lAti</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>JJ gend-|num-sg|pers-|case-|vib-vi|tam-vi</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>JJ gend-|num-sg|pers-|case-|vib-xi_0|tam-xi_0_o</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>JJ gend-|num-sg|pers-|case-|vib-xi|tam-xi_adj</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>JJ gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>JJ gend-|num-sg|pers-|case-|vib-|tam-0_e</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>JJ gend-|num-|pers-|case-|vib-e|tam-e_avy</td><td>=&gt;</td><td>ADJ</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>JJ gend-|num-|pers-|case-|vib-gA|tam-gA_adj</td><td>=&gt;</td><td>ADJ</td><td>_</td><td></td></tr>
+  <tr><td>JJ gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>ADJ</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>JJ gend-|num-|pers-|case-|vib-|tam-0_adj</td><td>=&gt;</td><td>ADJ</td><td>_</td><td></td></tr>
+  <tr><td>NEG gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PART</td><td>Negative=Neg|PronType=Neg</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-fm|num-pl|pers-3|case-|vib-xi|tam-xi</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem,Masc|Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>NN gend-fm|num-pl|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem,Masc|Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-fn|num-sg|pers-3|case-|vib-A|tam-A</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>NN gend-fn|num-sg|pers-3|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-fn|num-sg|pers-3|case-|vib-xi|tam-xi</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>NN gend-fn|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-f|num-sg|pers-3|case-|vib-xi|tam-xi</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>NN gend-f|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-d|vib-0_kUdA|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-d|vib-0_mAwraM|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-d|vib-0_sEwaM|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-d|vib-ru|tam-ru</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-o|vib-0_kosaM|tam-ti</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-o|vib-0_mIxa|tam-ti</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-o|vib-0_nuMci|tam-ti</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-o|vib-0_nuMdi_kUdA|tam-ti</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-o|vib-0_nuMdi|tam-ti</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-o|vib-0_varaku|tam-ti</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-o|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-0_batti|tam-ni</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-0_kUdA|tam-ki</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-0_nuMci|tam-0_o</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-I|tam-I</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-e_vAlYlu|tam-e_vAlYlu_0</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-gAru_ki|tam-gAru_ki</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-gAru_obl|tam-gAru_obl</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-kUdA|tam-kUdA</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-ki|tam-ki_V</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-lAMti_xi|tam-lAMti_xi_0</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-lA|tam-lA</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-lo|tam-lo</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-lo|tam-lo_V</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-lo|tam-lo_e</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-mIxa|tam-mIxa</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-vAlYlu_kaMteV|tam-vAlYlu_kaMteV</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-vAlYlu_ki|tam-vAlYlu_ki</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-vAlYlu_lo|tam-vAlYlu_lo</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-vAlYlu_obl|tam-vAlYlu_obl</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-vAlYlu_wo|tam-vAlYlu_wo</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-vAru_obl|tam-vAru_obl</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-wopAtu|tam-wopAtu</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-wo|tam-wo</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-xi_0|tam-xi_0_e</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-xi|tam-xi_0</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-|tam-0_A</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-pl|pers-|case-|vib-|tam-0_e</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NN gend-|num-pl|pers-|case-|vib-|tam-0_o</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-2|case-|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-d|vib-0_aMxulo|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-d|vib-0_guriMci|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-d|vib-0_kUdA|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-d|vib-0_koVraku|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-d|vib-0_kosaM|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-d|vib-0_lopala|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-d|vib-0_lo|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-d|vib-0_mAwraM|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-d|vib-0_nuMci|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-d|vib-0_nuMdi|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-d|vib-0_varaku|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-d|vib-0_warvAwa|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-d|vib-0_xAkA|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-d|vib-0_xvArA|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-o|vib-0_xAkA|tam-ti</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-o|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-0_batti|tam-nu</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-0_ceVMwa_nuMdi|tam-gAdu_obl</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-0_guriMci|tam-nu</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-0_kUdA|tam-gAru</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-0_kUdA|tam-ki</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-0_kUdA|tam-ni</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-0_kUdA|tam-niMci</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-0_le|tam-0_le</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-0_nuMci|tam-lo</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-0_pAtu|tam-wo</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-Ena_xi|tam-Ena_xi_0</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-aMte|tam-aMte</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-cotlo|tam-cotlo</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-gAdu|tam-gAdu</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-gAru|tam-gAru</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-gA|tam-gA</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-kAda|tam-kAda</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-kUdA|tam-kUdA</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-ki|tam-ki_V</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-ki|tam-ki_e</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-kosaM|tam-kosaM</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-lAMti_xi_0|tam-lAMti_xi_0_A</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-loni|tam-loni</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-lopalaki|tam-lopalaki</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-lo|tam-lo</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-lo|tam-lo_V</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-lo|tam-lo_e</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-mIxa|tam-mIxa</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-na|tam-na</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-niMci|tam-niMci</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-ni|tam-ni_A</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-nu|tam-nu</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-vAdu|tam-vAdu</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-vi|tam-vi</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-wo|tam-wo</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-wo|tam-wo_e</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-xi_0|tam-xi_0_o</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-xi_nu|tam-xi_nu</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-xi|tam-xi</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-xi|tam-xi_0</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-|tam-0_A</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-|tam-0_V</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-sg|pers-|case-|vib-|tam-0_e</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-sg|pers-|case-|vib-|tam-0_o</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NN gend-|num-|pers-|case-|vib-0_ku|tam-</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-|pers-|case-|vib-0_mAwrame|tam-</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr><td>NN gend-|num-|pers-|case-|vib-0_nuMdi|tam-an</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-|pers-|case-|vib-0_wo|tam-</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr><td>NN gend-|num-|pers-|case-|vib-aMwa_0_A|tam-aMwa_0_A_adv</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-|pers-|case-|vib-an|tam-an</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr><td>NN gend-|num-|pers-|case-|vib-kiMxa_yoVkka|tam-kiMxa_yoVkka_adv</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-|pers-|case-|vib-ru|tam-ru</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr><td>NN gend-|num-|pers-|case-|vib-xi|tam-xi_adj</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr><td>NN gend-|num-|pers-|case-|vib-|tam-0_adj</td><td>=&gt;</td><td>NOUN</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-pl|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Plur</td><td></td></tr>
+  <tr><td>NNP gend-|num-pl|pers-|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PROPN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-pl|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PROPN</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>NNP gend-|num-pl|pers-|case-|vib-|tam-0_o</td><td>=&gt;</td><td>PROPN</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-d|vib-0_cewa|tam-</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-d|vib-0_kUdA|tam-</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-d|vib-0_kosaM|tam-</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-d|vib-0_lo|tam-</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-d|vib-0_nuMci|tam-</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-o|vib-|tam-</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-|vib-0_kUdA|tam-ki</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-|vib-ki|tam-ki_V</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-|vib-ki|tam-ki_e</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-|vib-lo|tam-lo</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-|vib-ni|tam-ni_e</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-|vib-nu|tam-nu</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-|vib-wo|tam-wo</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-|vib-xi_0|tam-xi_0_A</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-|vib-xi|tam-xi</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-|vib-xi|tam-xi_0</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-sg|pers-|case-|vib-|tam-0_V</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-sg|pers-|case-|vib-|tam-0_e</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>NNP gend-|num-|pers-|case-|vib-0_nuMdi|tam-</td><td>=&gt;</td><td>PROPN</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>NNP gend-|num-|pers-|case-|vib-0_wo|tam-</td><td>=&gt;</td><td>PROPN</td><td>_</td><td></td></tr>
+  <tr><td>NNP gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PROPN</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-sg|pers-|case-d|vib-0_kUdA|tam-</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post|Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NST gend-|num-sg|pers-|case-d|vib-0_nuMdi|tam-</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post|Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post|Case=Nom|Number=Sing</td><td></td></tr>
+  <tr><td>NST gend-|num-sg|pers-|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-sg|pers-|case-|vib-na|tam-na</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post|Number=Sing</td><td></td></tr>
+  <tr><td>NST gend-|num-sg|pers-|case-|vib-niMci|tam-niMci</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-sg|pers-|case-|vib-ni|tam-ni_e</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post|Number=Sing</td><td></td></tr>
+  <tr><td>NST gend-|num-sg|pers-|case-|vib-varaku|tam-varaku</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post|Number=Sing</td><td></td></tr>
+  <tr><td>NST gend-|num-sg|pers-|case-|vib-|tam-0_V</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-|pers-|case-|vib-0_e|tam-0_e_adv</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr><td>NST gend-|num-|pers-|case-|vib-0_kUdA|tam-0_adv</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-|pers-|case-|vib-0_nuMci|tam-i</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr><td>NST gend-|num-|pers-|case-|vib-0_nuMci|tam-yoVkka_adv</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-|pers-|case-|vib-0_o|tam-0_o_adv</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr><td>NST gend-|num-|pers-|case-|vib-0_varaku|tam-yoVkka_adv</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-|pers-|case-|vib-V|tam-V_avy</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr><td>NST gend-|num-|pers-|case-|vib-ina|tam-ina</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-|pers-|case-|vib-ku|tam-ku_adv</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr><td>NST gend-|num-|pers-|case-|vib-lo|tam-lo_adv</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-|pers-|case-|vib-yoVkka|tam-yoVkka_adv</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr><td>NST gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr style="background:lightgray"><td>NST gend-|num-|pers-|case-|vib-|tam-0_adv</td><td>=&gt;</td><td>NOUN</td><td>AdpType=Post</td><td></td></tr>
+  <tr><td>PRP gend-fm|num-pl|pers-3|case-d|vib-nu|tam-nu</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fm|num-pl|pers-3|case-d|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fm|num-pl|pers-3|case-o|vib-ki|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fm|num-pl|pers-3|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fm|num-pl|pers-3|case-o|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fm|num-pl|pers-3|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fm|num-pl|pers-3|case-|vib-lo|tam-lo</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fm|num-pl|pers-3|case-|vib-mIxa|tam-mIxa</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fm|num-pl|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-pl|pers-3|case-d|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem,Neut|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fn|num-pl|pers-3|case-|vib-lo|tam-lo</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-pl|pers-3|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fn|num-pl|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-pl|pers-3|case-|vib-|tam-0_V</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fn|num-sg|pers-3|case-d|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-sg|pers-3|case-o|vib-0_guriMcayinA|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fn|num-sg|pers-3|case-o|vib-0_valana_kUdA|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-sg|pers-3|case-o|vib-0_valana|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fn|num-sg|pers-3|case-o|vib-0_xvArA|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-sg|pers-3|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fn|num-sg|pers-3|case-o|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-sg|pers-3|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fn|num-sg|pers-3|case-|vib-lo|tam-lo</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-sg|pers-3|case-|vib-nu|tam-nu</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fn|num-sg|pers-3|case-|vib-valana|tam-valana</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-sg|pers-3|case-|vib-wo|tam-wo</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fn|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-sg|pers-3|case-|vib-|tam-0_V</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-fn|num-sg|pers-3|case-|vib-|tam-0_e</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-fn|num-sg|pers-3|case-|vib-|tam-0_o</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-f|num-sg|pers-3|case-d|vib-0_vaxxa|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-f|num-sg|pers-3|case-d|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-f|num-sg|pers-3|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-f|num-sg|pers-3|case-|vib-ki|tam-ki_o</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-f|num-sg|pers-3|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-f|num-sg|pers-3|case-|vib-wo|tam-wo</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-f|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-f|num-sg|pers-3|case-|vib-|tam-0_e</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-m|num-sg|pers-3|case-d|vib-0_kUdA|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-m|num-sg|pers-3|case-d|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-m|num-sg|pers-3|case-o|vib-0_koVraku|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-m|num-sg|pers-3|case-o|vib-0_kosaM|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-m|num-sg|pers-3|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-m|num-sg|pers-3|case-o|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-m|num-sg|pers-3|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-m|num-sg|pers-3|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-m|num-sg|pers-3|case-|vib-nu|tam-nu</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-m|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-m|num-sg|pers-3|case-|vib-|tam-0_e</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-1|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-1|case-o|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-1|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-1|case-|vib-|tam-0_e</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-2|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-2|case-o|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=2|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-2|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-2|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-2|case-|vib-|tam-0_e</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-|case-d|vib-0_kUdA|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-|case-o|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-|case-|vib-e_axi|tam-e_axi_0</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-|case-|vib-ki|tam-ki_V</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-|case-|vib-lo|tam-lo</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-|case-|vib-ni|tam-ni_V</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-|case-|vib-nu|tam-nu</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-|case-|vib-wo|tam-wo</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-|case-|vib-wo|tam-wo_V</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-pl|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-pl|pers-|case-|vib-|tam-0_V</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-1|case-d|vib-0_kUdA|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-1|case-d|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-1|case-o|vib-0_woti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-1|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-1|case-o|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-1|case-|vib-0_kUdA|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-1|case-|vib-aMte|tam-aMte</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-1|case-|vib-kaMteV|tam-kaMteV</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-1|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-1|case-|vib-mIxa|tam-mIxa</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-1|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-1|case-|vib-wo|tam-wo</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-1|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-1|case-|vib-|tam-0_e</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-2|case-d|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-2|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-2|case-o|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-2|case-|vib-0_kUdA|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-2|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-2|case-|vib-ki|tam-ki_e</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-2|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-2|case-|vib-wo|tam-wo</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-2|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-|case-d|vib-0_valana|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-|case-o|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-|case-|vib-e_axi_0|tam-e_axi_0_o</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-|case-|vib-kaMteV|tam-kaMteV</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-|case-|vib-ki|tam-ki</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-|case-|vib-wo|tam-wo</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-sg|pers-|case-|vib-xAkA|tam-xAkA</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-|pers-|case-|vib-0_kUdA|tam-</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs</td><td></td></tr>
+  <tr><td>PRP gend-|num-|pers-|case-|vib-e|tam-e_avy</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs</td><td></td></tr>
+  <tr><td>PSP gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post|Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC gend-|num-sg|pers-|case-d|vib-0_nuMdi|tam-</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumType=Card</td><td></td></tr>
+  <tr><td>QC gend-|num-sg|pers-|case-d|vib-0_xAkA|tam-</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumType=Card</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumType=Card</td><td></td></tr>
+  <tr><td>QC gend-|num-sg|pers-|case-o|vib-0_nuMci|tam-ti</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Sing|NumType=Card</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC gend-|num-sg|pers-|case-o|vib-|tam-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Sing|NumType=Card</td><td></td></tr>
+  <tr><td>QC gend-|num-sg|pers-|case-|vib-xAkA|tam-xAkA</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumType=Card</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumType=Card</td><td></td></tr>
+  <tr><td>QC gend-|num-|pers-|case-|vib-0_nuMdi|tam-</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC gend-|num-|pers-|case-|vib-unnara|tam-unnara</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td></td></tr>
+  <tr><td>QC gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC gend-|num-|pers-|case-|vib-|tam-0_adj</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td></td></tr>
+  <tr><td>QF gend-|num-pl|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Plur|PronType=Ind</td><td></td></tr>
+  <tr style="background:lightgray"><td>QF gend-|num-pl|pers-|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|PronType=Ind</td><td></td></tr>
+  <tr><td>QF gend-|num-pl|pers-|case-o|vib-|tam-</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|PronType=Ind</td><td></td></tr>
+  <tr style="background:lightgray"><td>QF gend-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa</td><td>=&gt;</td><td>DET</td><td>Number=Sing|Person=2|PronType=Ind</td><td></td></tr>
+  <tr><td>QF gend-|num-sg|pers-2|case-|vib-|tam-</td><td>=&gt;</td><td>DET</td><td>Number=Sing|Person=2|PronType=Ind</td><td></td></tr>
+  <tr style="background:lightgray"><td>QF gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|PronType=Ind</td><td></td></tr>
+  <tr><td>QF gend-|num-sg|pers-|case-|vib-na|tam-na</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Ind</td><td></td></tr>
+  <tr style="background:lightgray"><td>QF gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Ind</td><td></td></tr>
+  <tr><td>QF gend-|num-|pers-|case-|vib-iMwa|tam-iMwa</td><td>=&gt;</td><td>DET</td><td>PronType=Ind</td><td></td></tr>
+  <tr style="background:lightgray"><td>QF gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>DET</td><td>PronType=Ind</td><td></td></tr>
+  <tr><td>QF gend-|num-|pers-|case-|vib-|tam-0_adj</td><td>=&gt;</td><td>DET</td><td>PronType=Ind</td><td></td></tr>
+  <tr style="background:lightgray"><td>QO gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Number=Sing|NumType=Ord</td><td></td></tr>
+  <tr><td>RB gend-|num-pl|pers-|case-|vib-gA|tam-gA</td><td>=&gt;</td><td>ADV</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>RB gend-|num-pl|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>ADV</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>RB gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>ADV</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>RB gend-|num-sg|pers-|case-o|vib-|tam-</td><td>=&gt;</td><td>ADV</td><td>Case=Acc|Number=Sing</td><td></td></tr>
+  <tr><td>RB gend-|num-sg|pers-|case-o|vib-|tam-0_adv</td><td>=&gt;</td><td>ADV</td><td>Case=Acc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>RB gend-|num-sg|pers-|case-|vib-gA|tam-gA</td><td>=&gt;</td><td>ADV</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>RB gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>ADV</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>RB gend-|num-sg|pers-|case-|vib-|tam-0_e</td><td>=&gt;</td><td>ADV</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>RB gend-|num-|pers-|case-|vib-A|tam-A_avy</td><td>=&gt;</td><td>ADV</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>RB gend-|num-|pers-|case-|vib-V|tam-V_avy</td><td>=&gt;</td><td>ADV</td><td>_</td><td></td></tr>
+  <tr><td>RB gend-|num-|pers-|case-|vib-akuMdA|tam-akuMdA</td><td>=&gt;</td><td>ADV</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>RB gend-|num-|pers-|case-|vib-e|tam-e_avy</td><td>=&gt;</td><td>ADV</td><td>_</td><td></td></tr>
+  <tr><td>RB gend-|num-|pers-|case-|vib-gA|tam-gA_adj</td><td>=&gt;</td><td>ADV</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>RB gend-|num-|pers-|case-|vib-iMwa|tam-iMwa</td><td>=&gt;</td><td>ADV</td><td>_</td><td></td></tr>
+  <tr><td>RB gend-|num-|pers-|case-|vib-i|tam-i</td><td>=&gt;</td><td>ADV</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>RB gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>ADV</td><td>_</td><td></td></tr>
+  <tr><td>RB gend-|num-|pers-|case-|vib-|tam-0_adj</td><td>=&gt;</td><td>ADV</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>RDP gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>X</td><td>Echo=Rdp</td><td></td></tr>
+  <tr><td>RP gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>PART</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>RP gend-|num-|pers-|case-|vib-V|tam-V_avy</td><td>=&gt;</td><td>PART</td><td>_</td><td></td></tr>
+  <tr><td>RP gend-|num-|pers-|case-|vib-we|tam-we</td><td>=&gt;</td><td>PART</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>RP gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PART</td><td>_</td><td></td></tr>
+  <tr><td>SYM gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>UT gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td></td></tr>
+  <tr><td>VAUX gend-fn|num-sg|pers-3|case-|vib-A|tam-A</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX gend-fn|num-sg|pers-3|case-|vib-wA|tam-wA</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VAUX gend-fn|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX gend-|num-|pers-|case-|vib-ina|tam-ina</td><td>=&gt;</td><td>AUX</td><td>_</td><td></td></tr>
+  <tr><td>VAUX gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>AUX</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fm|num-sg|pers-3|case-|vib-e_axi|tam-e_axi_0</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fm|num-sg|pers-3|case-|vib-e_vAdu_avvu+a|tam-e_vAdu_0</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fm|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-A_ani|tam-A_ani</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-A|tam-A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-A|tam-A_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-A|tam-A_o</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-a_ani|tam-a_ani</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-a_gala_aka_po|tam-a_gala_aka_po_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-a_ivvu_a_gala_a|tam-a_ivvu_a_gala_a</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-a_ivvu_a|tam-a_ivvu_a</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-a_sAgu|tam-a_sAgu_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-a_valayu_avvu+a|tam-a_valayu_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-a_valayu|tam-a_valayu_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-a|tam-a</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-a|tam-a_o</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-i_po_wU_uMdu|tam-i_po_wU_uMdu_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-i_po_wunn|tam-i_po_wunn</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-i_po|tam-i_po_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-i_vaccu|tam-i_vaccu_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-i_veVyyi_wU_uMdu_A|tam-i_veVyyi_wU_uMdu_A_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-i_veVyyi|tam-i_veVyyi_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-koVn_a_le_a|tam-koVn_a_le_a</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-koVn_wU_uMdu|tam-koVn_wU_uMdu_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-koVn_wunn|tam-koVn_wunn</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-koVn|tam-koVn_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-wA|tam-wA</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-wA|tam-wA_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-wA|tam-wA_o</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-wunn|tam-wunn</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-fn|num-sg|pers-3|case-|vib-wunn|tam-wunn_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-fn|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem,Neut|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-m|num-sg|pers-3|case-|vib-A_ani|tam-A_ani</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-m|num-sg|pers-3|case-|vib-A|tam-A</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-m|num-sg|pers-3|case-|vib-A|tam-A_o</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-m|num-sg|pers-3|case-|vib-a_gala_aka_po|tam-a_gala_aka_po_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-m|num-sg|pers-3|case-|vib-a_manu|tam-a_manu_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-m|num-sg|pers-3|case-|vib-a|tam-a</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-m|num-sg|pers-3|case-|vib-i_cUdu|tam-i_cUdu_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-m|num-sg|pers-3|case-|vib-i_po|tam-i_po_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-m|num-sg|pers-3|case-|vib-i_veVyyi|tam-i_veVyyi_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-m|num-sg|pers-3|case-|vib-koVn_A_ani|tam-koVn_A_ani</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-m|num-sg|pers-3|case-|vib-koVn_a_galugu|tam-koVn_a_galugu_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-m|num-sg|pers-3|case-|vib-koVn_wA_ata|tam-koVn_wA_ata</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-m|num-sg|pers-3|case-|vib-koVn_wA|tam-koVn_wA</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-m|num-sg|pers-3|case-|vib-koVn|tam-koVn_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-m|num-sg|pers-3|case-|vib-wA|tam-wA</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-m|num-sg|pers-3|case-|vib-wunn|tam-wunn</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-m|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-n|num-pl|pers-3|case-|vib-A_ata|tam-A_ata</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-n|num-pl|pers-3|case-|vib-A|tam-A</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-n|num-pl|pers-3|case-|vib-a_ani|tam-a_ani</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-n|num-pl|pers-3|case-|vib-a_manu_iwi|tam-a_manu_iwi</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-n|num-pl|pers-3|case-|vib-a_sAgu_iwi|tam-a_sAgu_iwi</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-n|num-pl|pers-3|case-|vib-a_uta|tam-a_uta</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-n|num-pl|pers-3|case-|vib-aka_uMdu_iwi|tam-aka_uMdu_iwi</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-n|num-pl|pers-3|case-|vib-a|tam-a</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-n|num-pl|pers-3|case-|vib-a|tam-a_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-n|num-pl|pers-3|case-|vib-i_po_iwi|tam-i_po_iwi</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-n|num-pl|pers-3|case-|vib-i_po|tam-i_po_A</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-n|num-pl|pers-3|case-|vib-iwi|tam-iwi</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-n|num-pl|pers-3|case-|vib-uxu|tam-uxu</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-n|num-pl|pers-3|case-|vib-wA|tam-wA</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-n|num-pl|pers-3|case-|vib-wU_uMdu_wA|tam-wU_uMdu_wA</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-n|num-pl|pers-3|case-|vib-wunn|tam-wunn</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-n|num-pl|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-1|case-|vib-A|tam-A</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-1|case-|vib-a_gala_a|tam-a_gala_a</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-1|case-|vib-a|tam-a</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-1|case-|vib-koVn_a_le_a|tam-koVn_a_le_a_A</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-1|case-|vib-wA_ani|tam-wA_ani</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-1|case-|vib-wA|tam-wA</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-1|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-2|case-|vib-AjFArWa|tam-AjFArWa</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-2|case-|vib-e_lA_cUdu+AjFArWa|tam-e_lA</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-2|case-|vib-i_uMdu+xA|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-2|case-|vib-xA_ani|tam-xA_ani</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-2|case-|vib-xA_le|tam-xA_le</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-2|case-|vib-xA|tam-xA</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-2|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-3|case-|vib-A|tam-A</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-3|case-|vib-A|tam-A_A</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-3|case-|vib-a_gala_aka_po+A|tam-a_gala_aka</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-3|case-|vib-a_gala_wA|tam-a_gala_wA</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-3|case-|vib-a_le_a|tam-a_le_a</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-3|case-|vib-akuMdA_ceVyyi+A|tam-akuMdA</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-3|case-|vib-a|tam-a</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-3|case-|vib-e_atlu_cUdu+A|tam-e_atlu</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-3|case-|vib-i_ceVyyi+A|tam-i_A</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-3|case-|vib-i_po+A|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-3|case-|vib-i_po+wA|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-3|case-|vib-i_po|tam-i_po_A</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-3|case-|vib-i_uMdu+iwi|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-3|case-|vib-i_veVyyi_koVn_wU_uMdi_veVyyi_koVn_wU_uMdu_A|tam-i_veVyyi_koVn_wU_uMdu_A</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-3|case-|vib-wA|tam-wA</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-3|case-|vib-wA|tam-wA_o</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-3|case-|vib-wU_uMdu_wA|tam-wU_uMdu_wA</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-3|case-|vib-wunn|tam-wunn</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-|case-|vib-e_vAlYlu_nu|tam-e_vAlYlu_nu</td><td>=&gt;</td><td>VERB</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-|case-|vib-e_vAru_0|tam-e_vAru_0_e</td><td>=&gt;</td><td>VERB</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-|case-|vib-e_vAru|tam-e_vAru_0</td><td>=&gt;</td><td>VERB</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-|case-|vib-gala_xi|tam-gala_xi_0</td><td>=&gt;</td><td>VERB</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-|case-|vib-ina_axi_0|tam-ina_axi_0_e</td><td>=&gt;</td><td>VERB</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-|case-|vib-ina_axi|tam-ina_axi_0</td><td>=&gt;</td><td>VERB</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-|case-|vib-ina_vAru_0|tam-ina_vAru_0_e</td><td>=&gt;</td><td>VERB</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-|case-|vib-ina_vAru_ki|tam-ina_vAru_ki</td><td>=&gt;</td><td>VERB</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-pl|pers-|case-|vib-xi|tam-xi_0</td><td>=&gt;</td><td>VERB</td><td>Number=Plur</td><td></td></tr>
+  <tr><td>VM gend-|num-pl|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-1|case-|vib-A_ani|tam-A_ani</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-1|case-|vib-A|tam-A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-1|case-|vib-a_badu|tam-a_badu_A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-1|case-|vib-a_sAgu|tam-a_sAgu_A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-1|case-|vib-a|tam-a</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-1|case-|vib-a|tam-a_e</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-1|case-|vib-i_po|tam-i_po_A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-1|case-|vib-i_uMcu+A|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-1|case-|vib-i_vaccu+wA|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-1|case-|vib-i_veVyyi_wA_rA|tam-i_veVyyi_wA_rA</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-1|case-|vib-i_veVyyi|tam-i_veVyyi_A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-1|case-|vib-koVn_a_galugu|tam-koVn_a_galugu_A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-1|case-|vib-koVn_wA|tam-koVn_wA_A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-1|case-|vib-wA|tam-wA</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-1|case-|vib-wU_uMdu+A|tam-wU_e</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-1|case-|vib-wunn|tam-wunn</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-1|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-2|case-|vib-A_ani|tam-A_ani</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-2|case-|vib-AjFArWa_cAlu+AjFArWa|tam-AjFArWa</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-2|case-|vib-AjFArWa_manu|tam-AjFArWa_manu</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-2|case-|vib-AjFArWa|tam-AjFArWa</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-2|case-|vib-A|tam-A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-2|case-|vib-aku|tam-aku</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-2|case-|vib-i_po+wA|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-2|case-|vib-i_uMcu+AjFArWa_manu|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-2|case-|vib-i_veVyyi_A|tam-i_veVyyi_A_A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-2|case-|vib-i_veVyyi|tam-i_veVyyi_A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-2|case-|vib-koVn_wA|tam-koVn_wA</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-2|case-|vib-koVn_wU_uMdu_A|tam-koVn_wU_uMdu_A_A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-2|case-|vib-koVn_we_cAlu+AjFArWa|tam-koVn_we</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-2|case-|vib-wA|tam-wA</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-2|case-|vib-we_cAlu+AjFArWa|tam-we</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-2|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-0_po+A|tam-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-Ali_ani_gala+a|tam-Ali_ani</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-Ali_ani_uMdu+A|tam-Ali_ani</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-a_ivvu_adaM_gala+a|tam-a_ivvu_adaM</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-a_vaccu+a|tam-a_e</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-a_valayu_i_uMdu+A|tam-a_valayu_i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-a_valayu_i_uMdu+wA|tam-a_valayu_i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-adaM_gala+a|tam-adaM</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-an_kUdu+a|tam-an</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-e_axi_avvu+a|tam-e_axi_0</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-e_lA_ceVyyi+A|tam-e_lA</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-e_vAdu_avvu+a|tam-e_vAdu_0</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-i_ivvu+A|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-i_po+A|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-i_po+wA|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-i_po_Ali_ani_uMdu+A|tam-i_po_Ali_ani</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-i_uMdu+A|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-i_vaccu+A|tam-i</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-i_veVyyi_an_gUdu+a|tam-i_veVyyi_an</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-ina_atlu_avvu+wA|tam-ina_atlu</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-koVn_Ali_ani_uMdu+A|tam-koVn_Ali_ani</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-wU_uMdu+A|tam-wU_e</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-3|case-|vib-wU_uMdu+wA|tam-wU</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-|case-|vib-adaM_0|tam-adaM_0_e</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-|case-|vib-adaM_ki|tam-adaM_ki</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-|case-|vib-adaM_wo|tam-adaM_wo</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-|case-|vib-e_axi_0|tam-e_axi_0_e</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-|case-|vib-e_axi|tam-e_axi_0</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-|case-|vib-e_vAdu|tam-e_vAdu_0</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-|case-|vib-ina_axi|tam-ina_axi_0</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-|case-|vib-lo|tam-lo</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-|case-|vib-na|tam-na</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-|case-|vib-wunna_axi|tam-wunna_axi_0</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-|case-|vib-xi|tam-xi</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>VM gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-sg|pers-|case-|vib-|tam-0_A</td><td>=&gt;</td><td>VERB</td><td>Number=Sing</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-0_V|tam-0_V_adv</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-0_mAwrame|tam-</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-Ali_aMte|tam-Ali_aMte</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-Ali_ani|tam-Ali_ani</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-Ali|tam-Ali</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-Ali|tam-Ali_o</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-_e_appudu_0_V|tam-_e_appudu_0_V_adv</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-a_gAne|tam-a_gAne</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-a_gala_aka|tam-a_gala_aka</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-a_galugu_inA|tam-a_galugu_inA</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-a_kUdaxu|tam-a_kUdaxu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-a_le_aka_po+adaM|tam-a_le_aka</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-a_lexu|tam-a_lexu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-a_manu_i|tam-a_manu_i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-a_neru|tam-a_neru</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-a_po_i|tam-a_po_i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-a_po|tam-a_po_e</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-a_vaccu|tam-a_vaccu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-a_valayu_ina_aMwa_uMdu+Ali|tam-a_valayu_ina_aMwa</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-a_valayu_ina|tam-a_valayu_ina</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-a_vaxxu|tam-a_vaxxu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-adaM_lexemo|tam-adaM</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-adaM_valla|tam-adaM</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-adaM|tam-adaM</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-aka_po_adaM|tam-aka_po_adaM</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-aka_po_ina_app_ki|tam-aka_po_ina_app_ki</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-aka_uMdu_e_eMxuku|tam-aka_uMdu_e_eMxuku</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-akapowe|tam-akapowe</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-aka|tam-aka</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-akuMdA_ayiMdu|tam-akuMdA</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-akuMdA|tam-akuMdA</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-ani|tam-ani</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-an|tam-an</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-a|tam-a_gA</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-e_appudu|tam-e_appudu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-e_atlu|tam-e_atlu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-e_axi_gala+aka|tam-e_axi_0</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-e_eMxuku|tam-e_eMxuku</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-e_muMxu|tam-e_muMxu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-e_sariki|tam-e_sariki</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-e|tam-e</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-i_po+a_lexu|tam-i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-i_po_adaM|tam-i_po_adaM</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-i_po_i|tam-i_po_i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-i_po_we|tam-i_po_we</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-i_uMdu+Ali|tam-i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-i_uMdu+a_vaccu|tam-i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-i_uMdu+e|tam-i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-i_uMdu_Ali|tam-i_uMdu_Ali</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-i_uMdu_a_gAne|tam-i_uMdu_a_gAne</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-i_uMdu_we|tam-i_uMdu_we</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-i_vaccu+Ali|tam-i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-i_vaccu|tam-i_vaccu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-i_veVyyi+Ali|tam-i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-i_veVyyi_a_kUdaxu|tam-i_veVyyi_a_kUdaxu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-i_veVyyi_i|tam-i_veVyyi_i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-inA|tam-inA</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-ina_Aka|tam-ina_Aka</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-ina_aMwa|tam-ina_aMwa</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-ina_aMxuku|tam-ina_aMxuku</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-ina_appudu|tam-ina_appudu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-ina_atlu|tam-ina_atlu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-ina_xAkA|tam-ina_xAkA</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-ina|tam-ina</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-i|tam-i</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-i|tam-i_A</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-i|tam-i_o</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-koVn_Ali_ani|tam-koVn_Ali_ani</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-koVn_Ali|tam-koVn_Ali</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-koVn_a_vaccu|tam-koVn_a_vaccu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-koVn_akuMdA|tam-koVn_akuMdA_e</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-koVn_inA|tam-koVn_inA</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-koVn_wU|tam-koVn_wU</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-koVn_we|tam-koVn_we</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-koVn_wunnA|tam-koVn_wunnA</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-koVn|tam-koVn</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-koVn|tam-koVn_e</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-o|tam-o_avy</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-wU_po_wU|tam-wU_po_wU</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-wU_uMdu_Ali|tam-wU_uMdu_Ali</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-wU_uMdu|tam-wU_uMdu</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-wU_unnAM|tam-wU_e</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-wU|tam-wU</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-we|tam-we</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-wuMte|tam-wuMte</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-xi|tam-xi_adj</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM gend-|num-|pers-|case-|vib-|tam-0_adj</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr><td>VM gend-|num-|pers-|case-|vib-|tam-0_adv</td><td>=&gt;</td><td>VERB</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>WQ gend-fm|num-pl|pers-3|case-o|vib-ti|tam-ti</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Int</td><td></td></tr>
+  <tr><td>WQ gend-fm|num-pl|pers-3|case-o|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>WQ gend-fm|num-pl|pers-3|case-|vib-ki|tam-ki_V</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Masc|Number=Plur|Person=3|PronType=Int</td><td></td></tr>
+  <tr><td>WQ gend-fm|num-pl|pers-3|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Masc|Number=Plur|Person=3|PronType=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>WQ gend-fm|num-pl|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Masc|Number=Plur|Person=3|PronType=Int</td><td></td></tr>
+  <tr><td>WQ gend-fn|num-pl|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Plur|Person=3|PronType=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>WQ gend-fn|num-pl|pers-3|case-|vib-|tam-0_V</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Plur|Person=3|PronType=Int</td><td></td></tr>
+  <tr><td>WQ gend-fn|num-sg|pers-3|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>WQ gend-fn|num-sg|pers-3|case-|vib-|tam-0_o</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem,Neut|Number=Sing|Person=3|PronType=Int</td><td></td></tr>
+  <tr><td>WQ gend-|num-pl|pers-|case-|vib-ni|tam-ni</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>WQ gend-|num-pl|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Int</td><td></td></tr>
+  <tr><td>WQ gend-|num-sg|pers-|case-d|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|PronType=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>WQ gend-|num-sg|pers-|case-|vib-e_axi_0|tam-e_axi_0_o</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Int</td><td></td></tr>
+  <tr><td>WQ gend-|num-sg|pers-|case-|vib-ni|tam-ni_o</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>WQ gend-|num-sg|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Int</td><td></td></tr>
+  <tr><td>WQ gend-|num-|pers-|case-|vib-o|tam-o_avy</td><td>=&gt;</td><td>PRON</td><td>PronType=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>WQ gend-|num-|pers-|case-|vib-|tam-</td><td>=&gt;</td><td>PRON</td><td>PronType=Int</td><td></td></tr>
+  <tr><td>WQ gend-|num-|pers-|case-|vib-|tam-0_adv</td><td>=&gt;</td><td>PRON</td><td>PronType=Int</td><td></td></tr>
+</table>
