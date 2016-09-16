@@ -13,18 +13,16 @@ We will attach [u-dep/cc]() and internal [u-dep/punct]() to the immediately succ
 
 <div id="s1" class="sd-parse">
 I love apples and bananas.
-dobj(love, apples)
-conj(apples, bananas)
-cc(bananas, and)
+dobj(love,apples)
+conj(apples,bananas)
+cc(bananas,and)
 </div>
 
 This new choice of governor for conjunctions allows a parallel treatment of sentences headed by a conjunction (where the conjunction has to depend on the root of the sentence, and can't be attached to the previous conjunct).
 
-<div id="s1" class="sd-parse">
+<div id="s2" class="sd-parse">
 And he left.
-cc(left, And)
+cc(left,And)
 </div>
-
-This will also mesh better with our proposal for analyzing ellipsis.
 
 
