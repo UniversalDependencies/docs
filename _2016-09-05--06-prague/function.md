@@ -359,7 +359,6 @@ nmod(finns, byen)
 
 ~~~ sdparse
 Huset är i byen
-root(är)
 nsubj(är, huset)
 nmod(är, byen)
 ~~~
@@ -377,7 +376,7 @@ nmod(fanns, byen)
 
 ~~~ sdparse
 Huset var i byen
-nsubj(var, huset)
+nsubj(var, Huset)
 nmod(var, byen)
 ~~~
 
@@ -399,7 +398,7 @@ cop(estudiante, es)
 
 ~~~ sdparse
 Yo soy estudiante
-nsubj:cop(student, Yo)
+nsubj:cop(estudiante, Yo)
 cop(estudiante, soy)
 ~~~
 
@@ -487,7 +486,7 @@ nmod(és, casa)
 
 ~~~ sdparse
 Yo estoy en la casa
-nsubj(estoy, Ella)
+nsubj(estoy, Yo)
 nmod(estoy, casa)
 ~~~
 
@@ -680,7 +679,7 @@ nmod(Был, деревне)
 
 ~~~ sdparse
 Дом был в деревне
-nsubj(был, дом)
+nsubj(был, Дом)
 nmod(был, деревне)
 ~~~
 
@@ -776,14 +775,14 @@ In Finnish, existential and non-existential are identical aside from word order.
 ~~~ sdparse
 Kylässä on talo
 nsubj(on, talo)
-nmod(on, kylässä)
+nmod(on, Kylässä)
 ~~~
 
 (12)
 
 ~~~ sdparse
 Talo on kylässä
-nsubj(on, talo)
+nsubj(on, Talo)
 nmod(on, kylässä)
 ~~~
 
@@ -792,14 +791,14 @@ nmod(on, kylässä)
 ~~~ sdparse
 Kylässä oli talo
 nsubj(oli, talo)
-nmod(oli, kylässä)
+nmod(oli, Kylässä)
 ~~~
 
 (14)
 
 ~~~ sdparse
 Talo oli kylässä
-nsubj(oli, talo)
+nsubj(oli, Talo)
 nmod(oli, kylässä)
 ~~~
 
@@ -824,7 +823,7 @@ cop(öğrenci, -Ø)
 (2)
 
 ~~~ sdparse
-Ben öğrenci -yim.
+Ben öğrenci -yim
 nsubj:cop(öğrenci, Ben)
 cop(öğrenci, -yim)
 ~~~
@@ -834,7 +833,7 @@ cop(öğrenci, -yim)
 ~~~ sdparse
 O öğrenci -ydi
 nsubj:cop(öğrenci, O)
-cop(öğrenci, di)
+cop(öğrenci, -ydi)
 ~~~
 
 The copula verb here can also be written separately instead of cliticised in more formal styles,
@@ -848,7 +847,7 @@ cop(öğrenci, idi)
 (4)
 
 ~~~ sdparse
-Ben öğrenci -ydim.
+Ben öğrenci -ydim
 nsubj:cop(öğrenci, Ben)
 cop(öğrenci, -ydim)
 ~~~
@@ -864,7 +863,7 @@ cop(mutlu, -Ø)
 (6)
 
 ~~~ sdparse
-Ben mutluyum
+Ben mutlu -yum
 nsubj:cop(mutlu, Ben)
 cop(mutlu, -yum)
 ~~~
