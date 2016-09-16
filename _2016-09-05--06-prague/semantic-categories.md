@@ -7,13 +7,13 @@ title:  'Semantic Categories in UD v2'
 
 Some of our current relations (i.e., [u-dep/name]() and [u-dep/neg]() seem to primarily encode semantic distinctions (rather than syntactic). The question is whether we should eliminate these from the annotation scheme and encode the disctinctions with features.
 
-## [u-dep/neg]()
+## Negation [u-dep/neg]()
 We suggest getting rid of the [u-dep/neg]() relation which is not syntactic. Instead we will use
 
 *ordinary syntactic relations like [u-dep/advmod](), [u-dep/aux](), etc.
 *a feature Negative=Neg on the negative word to preserve the information about negation
 
-## [u-dep/name]()
+## Names [u-dep/name]()
 We suggest keeping a distinction for [u-dep/name]() but relabeling the relation as `flat`. The `name` label was another one that led to confusion. It was not intended to be used for all *named entities*, but only for proper nouns constituted of multiple nominal elements. 
 
 The changes proposed are:
