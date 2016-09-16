@@ -1041,7 +1041,7 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 
 For wider cross-linguistic applicability, it is well worth looking at the following book:
 
-* Stassen, L. (2003), Intransitive predication. Oxford: OUP
+* Stassen, L. (1997), Intransitive predication. Oxford: OUP
 
 The following publications have also been cited:
 
