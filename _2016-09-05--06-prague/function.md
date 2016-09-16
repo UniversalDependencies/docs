@@ -267,49 +267,49 @@ nmod(was, village)
 The current `UD_Swedish` treebank considers all uses of "vara" to take the `cop` relation. Under the new guidelines, 8--14 will be analysed differently.
 
 (1)
+
 ~~~ sdparse
 Hon är en student
-root(student)
 nsubj:cop(student, Hon)
 cop(student, är)
 ~~~
 
 (2)
+
 ~~~ sdparse
 Jag är en student
-root(student)
 nsubj:cop(student, Jag)
 cop(student, är)
 ~~~
 
 (3)
+
 ~~~ sdparse
 Hon var en student
-root(student)
 nsubj:cop(student, Hon)
 cop(student, var)
 ~~~
 
 (4)
+
 ~~~ sdparse
 Jag var en student
-root(student)
 nsubj:cop(student, Jag)
 cop(student, var)
 ~~~
 
 (5)
+
 ~~~ sdparse
 Hon är glad
-root(glad)
 nsubj:cop(glad, Hon)
 cop(glad, är)
 ~~~
 
 (6)
+
 ~~~ sdparse
 Jag är glad
-root(glad)
 nsubj:cop(glad, Jag)
 cop(glad, är)
 ~~~
@@ -324,40 +324,39 @@ This analysis is a departure from the existing Swedish analysis where "huset" wo
 
 ~~~ sdparse
 Hon är i huset
-root(är)
 nsubj(är, Hon)
 nmod(är, huset)
 ~~~
 
 (9)
+
 ~~~ sdparse
 Jag är i huset
-root(är)
 nsubj(är, Jag)
 nmod(är, huset)
 ~~~
 
 (10)
+
 ~~~ sdparse
 Hon var i huset
-root(var)
 nsubj(var, Hon)
 nmod(var, huset)
 ~~~
 
 (11)
 
-Existential constructions,  in Swedish do not use the copula verb.
+Existential constructions in Swedish do not use the copula verb.
 
 ~~~ sdparse
 Det finns et hus i byen
-root(finns)
 expl(finns, Det)
 nsubj(finns, hus)
 nmod(finns, byen)
 ~~~
 
 (12)
+
 ~~~ sdparse
 Huset är i byen
 root(är)
@@ -366,18 +365,18 @@ nmod(är, byen)
 ~~~
 
 (13)
+
 ~~~ sdparse
 Det fanns et hus i byen
-root(fanns)
 expl(fanns, Det)
 nsubj(fanns, hus)
 nmod(fanns, byen)
 ~~~
 
 (14)
+
 ~~~ sdparse
 Huset var i byen
-root(var)
 nsubj(var, huset)
 nmod(var, byen)
 ~~~
@@ -389,33 +388,33 @@ nmod(var, byen)
 The `UD_Spanish` treebank has very many verbs classified as copula. We propose reducing it to the single verb "ser".
 
 (1)
+
 ~~~ sdparse
 Ella es estudiante
-root(estudiante)
 nsubj:cop(estudiante, es)
 cop(estudiante, es)
 ~~~
 
 (2)
+
 ~~~ sdparse
 Yo soy estudiante
-root(estudiante)
 nsubj:cop(student, Yo)
 cop(estudiante, soy)
 ~~~
 
 (3)
+
 ~~~ sdparse
 Ella fue estudiante
-root(estudiante)
 nsubj:cop(estudiante, Ella)
 cop(estudiante, fue)
 ~~~
 
 (4)
+
 ~~~ sdparse
 Yo fui estudiante
-root(estudiante)
 nsubj:cop(estudiante, Yo)
 cop(estudiante, fui)
 ~~~
@@ -426,14 +425,12 @@ In Spanish you can say either _Soy feliz_ "I am happy" or _Estoy feliz_ "I am ha
 
 ~~~ sdparse
 Ella es feliz
-root(feliz)
 nsubj:cop(feliz, Ella)
 cop(feliz, es)
 ~~~
 
 ~~~ sdparse
 Ella está feliz
-root(está)
 nsubj(está, Ella)
 xcomp(está, feliz)
 ~~~
@@ -442,14 +439,12 @@ xcomp(está, feliz)
 
 ~~~ sdparse
 Yo soy feliz
-root(feliz)
 nsubj:cop(feliz, Yo)
 cop(feliz, soy)
 ~~~
 
 ~~~ sdparse
 Yo estoy feliz
-root(estoy)
 nsubj(estoy, Yo)
 xcomp(estoy, feliz)
 ~~~
@@ -460,14 +455,12 @@ Instead of "in shape" we'll use "de puta madre" which means "really great",
 
 ~~~ sdparse
 Esta canción es de puta madre
-root(madre)
 nsubj:cop(madre, canción)
 cop(madre, es)
 ~~~
 
 ~~~ sdparse
 Esta canción está de puta madre
-root(está)
 nsubj(está, canción)
 xcomp(está, madre)
 ~~~
@@ -478,7 +471,6 @@ In Spanish position uses the verb _estar_ and not _ser_.
 
 ~~~ sdparse
 Ella está en la casa
-root(está)
 nsubj(está, Ella)
 nmod(está, casa)
 ~~~
@@ -487,58 +479,56 @@ Note that in Catalan, this would be "Ella és a la casa", using the _ser_ verb, 
 
 ~~~ sdparse
 Ella és a la casa
-root(és)
 nsubj(és, Ella)
 nmod(és, casa)
 ~~~
 
 (9)
+
 ~~~ sdparse
 Yo estoy en la casa
-root(estoy)
 nsubj(estoy, Ella)
 nmod(estoy, casa)
 ~~~
 
 (10)
+
 ~~~ sdparse
 Ella estaba en la casa
-root(estaba)
 nsubj(estaba, Ella)
 nmod(estaba, casa)
 ~~~
 
 (11)
 
-Existential constructions,  in Spanish do not use the copula verb.
+Existential constructions in Spanish do not use the copula verb.
 
 ~~~ sdparse
 Hay una casa en el pueblo
-root(Hay)
 obj:dir(Hay, casa)
 nmod(Hay, pueblo)
 ~~~
 
 (12)
+
 ~~~ sdparse
 La casa está en el pueblo
-root(está)
 nsubj(está, casa)
 nmod(está, pueblo)
 ~~~
 
 (13)
+
 ~~~ sdparse
 Había una casa en el pueblo
-root(Había)
 obj:dir(Había, casa)
 nmod(Había, pueblo)
 ~~~
 
 (14)
+
 ~~~ sdparse
 La casa estaba en el pueblo
-root(estaba)
 nsubj(estaba, casa)
 nmod(estaba, pueblo)
 ~~~
@@ -549,45 +539,43 @@ nmod(estaba, pueblo)
 In Russian, there is no copula verb in the present tense, in the future tense, the verb _быть_ "be" is used. Note that when the copula verb is used, the complement can be either in nominative or instrumental case. When it is instrumental it is `is type of` and when it is nominative it is more like `has quality of`. We propose using the same structure for both.
 
 (1)
+
 ~~~ sdparse
 Она студентка
-root(студентка)
 nsubj:cop(студентка, Она)
 ~~~
 
 (2)
+
 ~~~ sdparse
 Я студентка
-root(студентка)
 nsubj:cop(студентка, Я)
 ~~~
 
 (3)
+
 ~~~ sdparse
 Она была студентка
-root(студентка)
 nsubj:cop(студентка, Она)
 cop(студентка, была)
 ~~~
 
 ~~~ sdparse
 Она была студенткой
-root(студенткой)
 nsubj:cop(студенткой, Она)
 cop(студенткой, была)
 ~~~
 
 (4)
+
 ~~~ sdparse
 Я была студентка
-root(студентка)
 nsubj:cop(студентка, Я)
 cop(студентка, была)
 ~~~
 
 ~~~ sdparse
 Я была студенткой
-root(студенткой)
 nsubj:cop(студенткой, Я)
 cop(студенткой, была)
 ~~~
@@ -598,7 +586,6 @@ The same goes with adjectival uses:
 
 ~~~ sdparse
 Она счастлива
-root(счастлива)
 nsubj:cop(счастлива, Она)
 ~~~
 
@@ -606,7 +593,6 @@ nsubj:cop(счастлива, Она)
 
 ~~~ sdparse
 Я счастлива
-root(счастлива)
 nsubj:cop(счастлива, Я)
 ~~~
 
@@ -616,7 +602,6 @@ Instead of "in shape", we'll use "в курсе" which means "on the ball"
 
 ~~~ sdparse
 Она в курсе
-root(курсе)
 nsubj:cop(курсе, Она)
 ~~~
 
@@ -626,16 +611,15 @@ In Russian, there is no verb used for locative predication in the present tense,
 
 ~~~ sdparse
 Она в дому
-root(дому)
 nsubj(дому, Она)
 ~~~
 
 The second would be to take advantage of the new system for ellipsis and use ellipsis to deal with it:
 
 ~~~ sdparse
-Она в дому
-root>nmod(дому)
-root>nsubj(Она)
+ROOT Она в дому
+root>nmod(ROOT, дому)
+root>nsubj(ROOT, Она)
 ~~~
 
 (9)
@@ -644,14 +628,13 @@ As with (8),
 
 ~~~ sdparse
 Я в дому
-root(дому)
 nsubj(дому, Я)
 ~~~
 
 ~~~ sdparse
-Я в дому
-root>nmod(дому)
-root>nsubj(Я)
+ROOT Я в дому
+root>nmod(ROOT, дому)
+root>nsubj(ROOT, Я)
 ~~~
 
 (10)
@@ -660,28 +643,27 @@ In the past tense we have the verb and we can use that as the root:
 
 ~~~ sdparse
 Она была в дому
-root(была)
 nsubj(была, Она)
 nmod(была, дому)
 ~~~
 
 (11)
 
-In Russian, in the present tense, existential constructions use "есть" which is sometimes described as a "predicative".
+In Russian, in the present tense, existential constructions use "есть" which is sometimes described as a "predicative",
+but in fact it is the 3rd person present form of the verb _быть_ "to be".
 
 ~~~ sdparse
 Есть дом в деревне
-root(Есть)
 nsubj(Есть, дом)
 nmod(Есть, деревне)
 ~~~
 
 (12)
+
 ~~~ sdparse
-Дом в деревне
-root(está)
-nsubj(está, casa)
-nmod(está, pueblo)
+ROOT Дом в деревне
+root>nmod(ROOT, деревне)
+root>nsubj(ROOT, Дом)
 ~~~
 
 (13)
@@ -690,15 +672,14 @@ In the past tense (and future tense), the verb быть is employed. As far as I
 
 ~~~ sdparse
 Был дом в деревне
-root(Был)
 nsubj(Был, дом)
 nmod(Был, деревне)
 ~~~
 
 (14)
+
 ~~~ sdparse
 Дом был в деревне
-root(был)
 nsubj(был, дом)
 nmod(был, деревне)
 ~~~
@@ -709,81 +690,81 @@ nmod(был, деревне)
 In Finnish the copula verb is _olla_ "to be". Its omplement is typically in the nominative, although it may also be in the essive case -nA.
 
 (1)
+
 ~~~ sdparse
 Se on opiskelija
-root(opiskelija)
 nsubj:cop(opiskelija, Se)
 cop(opiskelija, on)
 ~~~
 
 (2)
+
 ~~~ sdparse
 Mä oon opiskelija
-root(opiskelija)
 nsubj:cop(opiskelija, Mä)
 cop(opiskelija, oon)
 ~~~
 
 (3)
+
 ~~~ sdparse
 Se oli opiskelija
-root(opiskelija)
 nsubj:cop(opiskelija, Se)
 cop(opiskelija, oli)
 ~~~
 
 (4)
+
 ~~~ sdparse
 Mä olin opiskelija
-root(opiskelija)
 nsubj:cop(opiskelija, Mä)
 cop(opiskelija, olin)
 ~~~
 
 (5)
+
 ~~~ sdparse
 Se on iloinen
-root(iloinen)
 nsubj:cop(iloinen, Se)
 cop(iloinen, on)
 ~~~
 
 (6)
+
 ~~~ sdparse
 Mä oon iloinen
-root(iloinen)
 nsubj:cop(iloinen, Mä)
 cop(iloinen, oon)
 ~~~
 
 (7)
+
 ~~~ sdparse
 Se on kunnossa
-root(kunnossa)
 nsubj:cop(kunnossa, Se)
 cop(kunnossa, on)
 ~~~
 
 (8)
+
 ~~~ sdparse
 Se on talossa
-root(on)
 nsubj(on, Se)
 nmod(on, talossa)
 ~~~
 
 (9)
+
 ~~~ sdparse
 Mä oon talossa
-root(oon)
 nsubj(oon, Mä)
 nmod(oon, talossa)
 ~~~
 
 (10)
+
 ~~~ sdparse
 Se oli talossa
-root(oli)
 nsubj(oli, Se)
 nmod(oli, talossa)
 ~~~
@@ -794,31 +775,30 @@ In Finnish, existential and non-existential are identical aside from word order.
 
 ~~~ sdparse
 Kylässä on talo
-root(on)
 nsubj(on, talo)
 nmod(on, kylässä)
 ~~~
 
 (12)
+
 ~~~ sdparse
 Talo on kylässä
-root(on)
 nsubj(on, talo)
 nmod(on, kylässä)
 ~~~
 
 (13)
+
 ~~~ sdparse
 Kylässä oli talo
-root(oli)
 nsubj(oli, talo)
 nmod(oli, kylässä)
 ~~~
 
 (14)
+
 ~~~ sdparse
 Talo oli kylässä
-root(oli)
 nsubj(oli, talo)
 nmod(oli, kylässä)
 ~~~
@@ -837,23 +817,22 @@ In the following examples the hyphen is used to separate cliticised syntactic wo
 
 ~~~ sdparse
 O öğrenci -Ø
-root(öğrenci)
 nsubj:cop(öğrenci, O)
 cop(öğrenci, -Ø)
 ~~~
 
 (2)
+
 ~~~ sdparse
 Ben öğrenci -yim.
-root(öğrenci)
 nsubj:cop(öğrenci, Ben)
 cop(öğrenci, -yim)
 ~~~
 
 (3)
+
 ~~~ sdparse
 O öğrenci -ydi
-root(öğrenci)
 nsubj:cop(öğrenci, O)
 cop(öğrenci, di)
 ~~~
@@ -862,31 +841,30 @@ The copula verb here can also be written separately instead of cliticised in mor
 
 ~~~ sdparse
 O öğrenci idi
-root(öğrenci)
 nsubj:cop(öğrenci, O)
 cop(öğrenci, idi)
 ~~~
 
 (4)
+
 ~~~ sdparse
 Ben öğrenci -ydim.
-root(öğrenci)
 nsubj:cop(öğrenci, Ben)
 cop(öğrenci, -ydim)
 ~~~
 
 (5)
+
 ~~~ sdparse
 O mutlu -Ø
-root(mutlu)
 nsubj:cop(mutlu, O)
 cop(mutlu, -Ø)
 ~~~
 
 (6)
+
 ~~~ sdparse
 Ben mutluyum
-root(mutlu)
 nsubj:cop(mutlu, Ben)
 cop(mutlu, -yum)
 ~~~
@@ -901,7 +879,6 @@ The lack of suffix for third person singular present tense non-formal means that
 
 ~~~ sdparse
 O evde -Ø
-root(-Ø)
 nsubj(-Ø, O)
 nmod(-Ø, evde)
 ~~~
@@ -910,15 +887,14 @@ nmod(-Ø, evde)
 
 ~~~ sdparse
 Ben evde -yim
-root(-yim)
 nsubj(-yim, Ben)
 nmod(-yim, evde)
 ~~~
 
 (10)
+
 ~~~ sdparse
 O evde -ydi
-root(-ydi)
 nsubj(-ydi, O)
 nmod(-ydi, evde)
 ~~~
@@ -929,33 +905,32 @@ In Turkish (and indeed in most Turkic languages), existence is a different struc
 
 ~~~ sdparse
 Köyde ev var -Ø
-root(var)
 nsubj:cop(var, ev)
 cop(var, -Ø)
 nmod(var, Köyde)
 ~~~
 
 (12)
+
 ~~~ sdparse
 Ev köyde -Ø
-root(-Ø)
 nsubj(-Ø, Ev)
 nmod(-Ø, köyde)
 ~~~
 
 (13)
+
 ~~~ sdparse
 Köyde ev var -dı
-root(var)
 nsubj:cop(var, ev)
 cop(var, -dı)
 nmod(var, Köyde)
 ~~~
 
 (14)
+
 ~~~ sdparse
 Ev köyde -ydi
-root(-ydi)
 nsubj(-ydi, Ev)
 nmod(-ydi, köyde)
 ~~~
@@ -970,15 +945,14 @@ Irish has a difference between a _copula_ verb "is" and what is called a substan
 (2)
 
 (3)
+
 ~~~ sdparse
 Ba dhalta í
-root(dhalta)
 cop(dhalta, Ba)
 ~~~
 
 ~~~ sdparse
 Bhí sí ina dalta
-root(Bhí)
 xcomp:pred(Bhí, dalta)
 ~~~
 
