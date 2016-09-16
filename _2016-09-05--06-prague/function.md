@@ -55,6 +55,10 @@ Being well-informed will give you certainty .
 
 To be free is to be capable of thinking one's own thoughts .
 
+===With poss. gerund complement==
+
+The real red flag in all of this is your having been " slightly drunk " as you describe it .
+
 ===With that complement===
 
 The main thing is that the device works . 
