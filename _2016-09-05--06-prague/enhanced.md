@@ -163,9 +163,9 @@ nmod:agent(written, author)
 ~~~
 
 ~~~ sdparse
-She was given the book.
+She was given the book .
 
-iobj:prom(given, she)
+iobj:prom(given, She)
 dobj(given, book)
 ~~~
 
