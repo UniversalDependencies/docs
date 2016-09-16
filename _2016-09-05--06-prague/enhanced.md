@@ -9,11 +9,11 @@ The first version of the guidelines provided very little guidance regarding the 
 
 
 * We provide guidelines for the following additions:
- * Null nodes for elided predicates
- * Additional subject relations for control and raising constructions
- * Propagation of conjuncts
- * Arguments of passive verbs
- * Relative clauses 
+    - Null nodes for elided predicates
+    - Additional subject relations for control and raising constructions
+    - Propagation of conjuncts
+    - Arguments of passive verbs
+    - Relative clauses 
 * The _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., it is not required to contain all the relations of the original
 * We leave it up to the treebank maintainers to decide whether and to what extent they want to add relations for the enhanced representation
  
