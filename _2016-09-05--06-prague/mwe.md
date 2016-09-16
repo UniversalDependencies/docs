@@ -7,7 +7,7 @@ title:  'Multiword Expressions in UD v2'
 
 The proposed change is to change the label `mwe` (multiword expressions) to `fixed`, keeping the guidelines as they are (namely, [u-dep/mwe](`fixed') is used for certain fixed grammaticized expressions that behave like function words or short adverbials).
 
-It seems that the label `mwe` (multiword expressions) led to a lot of confusion. It was never intended for multiword expressions like "kick the bucket", or Fr. "pommme de terre" (potato). It has always been restricted to the *fixed expressions* category of
+It seems that the label `mwe` (multiword expressions) led to a lot of confusion. It was never intended for multiword expressions like "kick the bucket", or Fr. "pomme de terre" (potato). It has always been restricted to the *fixed expressions* category of
 [Sag et al.](http://lingo.stanford.edu/pubs/WP-2001-03.pdf), excluding any relations in scope of [u-dep/name]() or [u-dep/compound](). The label `fixed` might reflect this fact better.
 
 For consistency with other relations (see [Semantic categories](semantic-categories.html) ), we also suggest changing the direction of the arrows. We will keep a flat structure but all the words in the expression will modify the last one (instead of the first one). For example:
