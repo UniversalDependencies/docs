@@ -10,7 +10,7 @@ The proposed change is to change the label `mwe` (multiword expressions) to `fix
 It seems that the label `mwe` (multiword expressions) led to a lot of confusion. It was never intended for multiword expressions like "kick the bucket", or Fr. "pommme de terre" (potato). It has always been restricted to the *fixed expressions* category of
 [Sag et al.](http://lingo.stanford.edu/pubs/WP-2001-03.pdf), excluding any relations in scope of [u/name]() or [u/compound](). The label `fixed` might reflect this fact better.
 
-For consistency with other relations (see ), we also suggest changing the direction of the arrows. We will keep a flat structure but all the words in the expression will modify the last one (instead of the first one). For example:
+For consistency with other relations (see [Semantic categories](semantic-categories.html) ), we also suggest changing the direction of the arrows. We will keep a flat structure but all the words in the expression will modify the last one (instead of the first one). For example:
 
 ~~~ sdparse
 I like dogs as well as cats
