@@ -390,7 +390,7 @@ The `UD_Spanish` treebank has very many verbs classified as copula. We propose r
 
 ~~~ sdparse
 Ella es estudiante
-nsubj:cop(estudiante, es)
+nsubj:cop(estudiante, Ella)
 cop(estudiante, es)
 ~~~
 
@@ -686,7 +686,7 @@ nmod(был, деревне)
 
 ### Finnish
 
-In Finnish the copula verb is _olla_ "to be". Its omplement is typically in the nominative, although it may also be in the essive case -nA.
+In Finnish the copula verb is _olla_ "to be". Its complement is typically in the nominative, although it may also be in the essive case -nA.
 
 (1)
 
