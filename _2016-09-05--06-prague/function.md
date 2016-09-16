@@ -20,7 +20,7 @@ reason to change them. However, if there are no clear guidelines, then we should
 
 We propose keeping with current practice in UD v1.x for the following copula constructions:
 
-* with the meaning `is of type` (where `type` is typically an NP), the type should be the head, and the copula word dependent on it with the relation `cop`.
+* with the meaning `is of category` (where `category` is typically an NP), the category should be the head, and the copula word dependent on it with the relation `cop`.
 * with the meaning `has quality` (where `quality` is typically an AP), we have the quality as the head and the copula as the dependent.
 
 These are largely consistent across the current UD languages.
@@ -535,7 +535,7 @@ nmod(estaba, pueblo)
 
 ### Russian
 
-In Russian, there is no copula verb in the present tense, in the future tense, the verb _быть_ "be" is used. Note that when the copula verb is used, the complement can be either in nominative or instrumental case. When it is instrumental it is `is type of` and when it is nominative it is more like `has quality of`. We propose using the same structure for both.
+In Russian, there is no copula verb in the present tense, in the future tense, the verb _быть_ "be" is used. Note that when the copula verb is used, the complement can be either in nominative or instrumental case. When it is instrumental it is `is category of` and when it is nominative it is more like `has quality of`. We propose using the same structure for both.
 
 (1)
 
@@ -1041,7 +1041,7 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 
 For wider cross-linguistic applicability, it is well worth looking at the following book:
 
-* Stassen, L. (2003), Intransitive predication. Oxford: OUP
+* Stassen, L. (1997), Intransitive predication. Oxford: OUP
 
 The following publications have also been cited:
 
