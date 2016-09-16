@@ -150,55 +150,54 @@ The English analysis more or less follows the analysis in the `UD_English` treeb
 
 ~~~ sdparse
 She is a student
-root(student)
 nsubj:cop(student, She)
 cop(student, is)
 ~~~
 
 (2)
+
 ~~~ sdparse
 I am a student
-root(student)
 nsubj:cop(student, I)
 cop(student, am)
 ~~~
 
 (3)
+
 ~~~ sdparse
 She was a student
-root(student)
 nsubj:cop(student, She)
 cop(student, was)
 ~~~
 
 (4)
+
 ~~~ sdparse
 I was a student
-root(student)
 nsubj:cop(student, I)
 cop(student, was)
 ~~~
 
 (5)
+
 ~~~ sdparse
 She is happy
-root(happy)
 nsubj:cop(happy, She)
 cop(happy, is)
 ~~~
 
 (6)
+
 ~~~ sdparse
 I am happy
-root(happy)
 nsubj:cop(happy, I)
 cop(happy, am)
 ~~~
 
 (7)
+
 ~~~ sdparse
 She is in shape
-root(shape)
 nsubj:cop(shape, She)
 cop(shape, is)
 ~~~
@@ -209,57 +208,56 @@ This analysis differs from how it is currently analysed in the `UD_English` tree
 
 ~~~ sdparse
 She is in the house
-root(is)
 nsubj(is, She)
 nmod(is, house)
 ~~~
 
 (9)
+
 ~~~ sdparse
 I am in the house
-root(am)
 nsubj(am, I)
 nmod(am, house)
 ~~~
 
 (10)
+
 ~~~ sdparse
 She was in the house
-root(was)
 nsubj(was, She)
 nmod(was, house)
 ~~~
 
 (11)
+
 ~~~ sdparse
 There is a house in the village
-root(is)
 expl(is, There)
 nsubj(is, house)
 nmod(is, village)
 ~~~
 
 (12)
+
 ~~~ sdparse
 The house is in the village
-root(is)
 nsubj(is, house)
 nmod(is, village)
 ~~~
 
 (13)
+
 ~~~ sdparse
 There was a house in the village
-root(was)
 expl(was, There)
 nsubj(was, house)
 nmod(was, village)
 ~~~
 
 (14)
+
 ~~~ sdparse
 The house was in the village
-root(was)
 nsubj(was, house)
 nmod(was, village)
 ~~~
