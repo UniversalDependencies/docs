@@ -67,3 +67,5 @@ and ideally also links to such pages in languages where they already exist and c
   * Is there a copula in the language? What is its lemma? Typically, there is only one `VERB` serving as copula, sometimes two.
     It's meaning corresponds to the English _to be_. In some languages it is omitted in the present tense but usually there
     are forms for other tenses. Other similar verbs like English _to become_ have an additional meaning shade and they are not treated as copula in UD, although traditional grammars may think otherwise. Also, when a verb is copula in UD, we consider all instances where it links a subject to additional information as copular, i.e. even if the additional information is location. If the verb can still have non-copular functions (such as being auxiliary in periphrastic tenses), the documentation should also say it.
+  * Are there auxiliary verbs (or particles), used to construct periphrastic tense-aspect-mood categories? List all lemmas that
+    may occur (or must occur) as auxiliaries and what TAM categories they are used in.

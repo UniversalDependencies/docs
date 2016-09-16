@@ -36,6 +36,15 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
 
 ## Adding/removing values to/from existing features
 
+* [u-feat/Animacy]()
+  * Add `Animacy=Hum` (human).
+    We currently have three values of animacy, `Anim` (animate), `Inan` (inanimate) and `Nhum` (non-human).
+    The last one is used so far only in Polish. As a side effect, it restricts the meaning of `Anim` to human (also
+    called personal) nouns. While it is not unusual that feature meaning slightly shifts across languages (e.g. plural
+    means "more than one" in some languages and "more than two" in others), it will be more intuitive to divide the
+    Polish nouns into `Hum`, `Nhum` and `Inan`. More importantly, there are languages (e.g. Yuwan, a Ryukyuan language)
+    that only distinguish human vs. non-human, and the latter includes inanimates. The precise meaning will thus remain
+    language-specific, but more appropriate labels will now be available.
 * [u-feat/Case]()
   * Add `Case=Equ` (equative, means "X-like", "similar to X", "same as X"). It is already used in UD Turkish and it is also proposed in UniMorph.
   * Add `Case=Cmp` (comparative, means "than X"). It occurs in Dravidian and Northeast-Caucasian languages; it is proposed in UniMorph.
@@ -87,7 +96,11 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * Remove `Tense=Nar`. It has not been used anywhere yet. In Turkish, for which it was intended, the renarrative past is encoded as
     `Evidentiality=Nfh|Tense=Past`. And we are proposing to adopt evidentiality as a new universal feature.
 * [u-feat/Aspect]()
-  * TO DISCUSS: Add `Aspect=Freq` (frequentative) from Hungarian, or rename it to `Aspect=Iter` (iterative) as in UniMorph: _üt – ütöget_ ("hit – hit several times").
+  * Add `Aspect=Iter` (iterative). It is already used in Hungarian UD, although it is called frequentative there
+    (`Aspect=Freq`). It is called _iterative_ in UniMorph and I also think the term iterative is more common cross-linguistically,
+    although I have not checked Hungarian grammar. (Note: Iteratives also exist in Czech with this name and meaning but they can
+    be formed only from imperfective verbs and they are usually not classified as a separate aspect; they are just `Aspect=Imp`.)
+    Hungarian example: _üt_ "hit", _<b>ütöget</b>_ "hit several times".
   * TO DISCUSS: Add `Aspect=Hab` (habitual)? Proposed in UniMorph and in Turkish documentation but not used in current Turkish data.
   * TO DISCUSS: Add `Aspect=Rapid`? Used in UD Turkish, suffix _-iver,_ Kornfilt (1995, p.361) calls this rapid or sudden aspect.
   * TO DISCUSS: Add `Aspect=Dur`? Proposed in Turkish documentation but in the data it appears only as the first part of morpheme sequences DurPerf, DurPerfProg and DurProg.
@@ -194,13 +207,7 @@ General differences:
 
 * `Aktionsart`, values: `STAT` (stative), `DYN` (dynamic), `TEL` (telic), `ATEL` (atelic), `PCT` (punctual), `DUR` (durative), `ACH` (achievement), `ACCMP` (accomplishment), `SEMEL` (semelfactive), `ACTY` (activity). Aktionsart is a feature that we don't have in UD but it is closely related to our [Aspect](../u/feat/Aspect.html). Aspect in Slavic languages is treated as a lexical feature, change of aspect is considered a derivation. Perfective verbs in Slavic languages correspond to telic verbs in UniMorph, imperfective verbs correspond to atelic verbs and statives. However, aktionsart could be defined for other languages including English, while aspect is not marked in UD English.
 * `Animacy`, values: `ANIM` (animate), `INAN` (inanimate), `HUM` (human), `NHUM` (non-human).
-  In UD we don't have human but we do have the other three. We treat animacy as a scale of either two values (animate,
-  inanimate), or three values (animate, non-human, inanimate). In the latter case (which so far appears only in UD
-  Polish), the animate value is interpreted as human-only, while in other languages it includes animals. We could add
-  the human value but note that this is not the only feature where a value has shifting semantic contents. For example,
-  `Number=Plur` normally means "more than one", but in languages with dual it means "more than two". On the other hand,
-  if there is a language that only distinguishes human vs. non-human, it will be more natural to have the values `Hum`
-  and `Nhum` than combining `Anim` and `Nhum`. THOUGHTS?
+  In UD we don't have human but we do have the other three. We are now proposing to add `Animacy=Hum` to UD, see above.
 * `Argument Marking` for head-marking languages. UniMorph uses templatic features `ARG`+`Case`+`Person`+`Number`, e.g. `ARGNO1S` means that the nominative argument of the current verb is 1st person singular. Available cases are nominative, accusative, absolutive, ergative, dative, benefactive. We mostly only need to annotate agreement of the verb with its subject, i.e. the nominative argument, and we use the `Person` and `Number` features of the verb for this. So far only Basque needs more, as the verbs may agree there with up to three arguments (absolutive, ergative and dative). We use the layered features, i.e. `Person[abs]`, `Person[erg]`, `Person[dat]`, `Number[abs]` etc.
 * `Aspect`, values: `IPFV` (imperfective), `PFV` (perfective), `PRF` (perfect), `PROG` (progressive), `PROSP` (prospective), `ITER` (iterative), `HAB` (habitual).
   Their aspect + aktionsart is not compatible with our aspect, although we have a few values in common (perfect/ive, imperfective, progressive, prospective).

@@ -15,7 +15,7 @@ The first version of the guidelines provided very little guidance regarding the 
  * Arguments of passive verbs
  * Relative clauses 
 * The _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., it is not required to contain all the relations of the original
-* We leave it up to the treebank maintainers to decided whether and to what extent they want to add relations for the enhanced representation
+* We leave it up to the treebank maintainers to decide whether and to what extent they want to add relations for the enhanced representation
  
 
 ## Ellipsis 
@@ -165,7 +165,7 @@ nmod:agent(written, author)
 ~~~ sdparse
 She was given the book .
 
-iobj:prom(given, she)
+iobj:prom(given, She)
 dobj(given, book)
 ~~~
 
@@ -196,5 +196,5 @@ However, maintainers should be aware that the different types of relations are n
 
 ## Additional enhancements
 
-Some postprocessing steps such as adding case makers to the relation names of nominal modifiers (as described in [this paper](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are hightly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
+Some postprocessing steps such as adding case makers to the relation names of nominal modifiers (as described in [this paper](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are highly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
 
