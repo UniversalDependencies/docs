@@ -50,7 +50,28 @@ Note that this is a case in which the _enhanced_ UD graph is not a supergraph of
 
 ## Controlled/raised subjects
 
-TODO
+The _basic_ trees lack a subject dependency between a controlled verb and its controller or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an additional dependency between the embedded verb and the subject of the matrix clause.
+
+~~~ sdparse
+Mary wants to buy a book .
+
+nsubj(wants, Mary)
+xcomp(wants, buy)
+nsubj(buy, Mary)
+~~~~
+
+
+~~~ sdparse
+She seems to be reading a book .
+
+nsubj(seems, She)
+xcomp(seems, reading)
+nsubj(reading, She)
+~~~
+
+### To discuss
+
+* Should we use a special relation (e.g., `nsubj:xsubj`) for these additional relations?
 
 ## Propagation of Conjuncts
 
@@ -176,12 +197,68 @@ dobj(given, book)
 
 ## Relative clauses
 
-TODO
+In _basic_ trees, relative pronouns are attached to the main predicate of the relative clause (typically with a `nsubj` or `dobj` relation). In the corresponding _enhanced_ graphs, the relative pronoun is attached to what it is referring to with the special `ref` relation and the governor of the relative clause is attached as an argument to the main predicate of the relative clause. Note that such graphs contain a cycle, as there is a dependenct 
 
-acl:relcl
-add additional subject or object relation
 
-note: introduces a cycle
+_Basic_ tree:
+
+~~~ sdparse
+The boy who lived .
+
+acl:relcl(boy, lived)
+nsubj(lived, who)
+~~~
+
+
+_Enhanced_ graph:
+
+~~~ sdparse
+The boy who lived .
+
+acl:relcl(boy, lived)
+ref(boy, who)
+nsubj(lived, boy)
+~~~
+
+_Basic_ tree:
+
+~~~ sdparse
+The book that I read .
+
+acl:relcl(book, read)
+dobj(read, that)
+~~~
+
+
+_Enhanced_ graph:
+
+~~~ sdparse
+The book that I read .
+
+acl:relcl(book, read)
+ref(book, that)
+dobj(read, book)
+~~~
+
+
+### To discuss
+
+Should this also be applied to relative pronouns that refer to adnominal or adverbial modifiers? And what should we do with dependents of the relative pronoun such as case markers?
+
+Examples:
+~~~ sdparse
+The house in which I used to live .
+
+acl:relcl(house, used)
+nmod(live, house)
+~~~
+
+~~~ sdparse
+The city where I used to live .
+
+acl:relcl(city, used)
+nmod???(live, city)
+~~~
 
 ## Recommended order of annotations
 
