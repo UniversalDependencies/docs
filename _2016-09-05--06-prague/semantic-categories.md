@@ -9,16 +9,18 @@ Some of our current relations (i.e., [u-dep/name]() and [u-dep/neg]() seem to pr
 
 ## [u-dep/neg]()
 We suggest getting rid of the [u-dep/neg]() relation which is not syntactic. Instead we will use
-* ordinary syntactic relations like [u-dep/advmod](), [u-dep/aux](), etc.
-* a feature Negative=Neg on the negative word to preserve the information about negation
+
+*ordinary syntactic relations like [u-dep/advmod](), [u-dep/aux](), etc.
+*a feature Negative=Neg on the negative word to preserve the information about negation
 
 ## [u-dep/name]()
 We suggest keeping a distinction for [u-dep/name]() but relabeling the relation as `flat`. The `name` label was another one that led to confusion. It was not intended to be used for all *named entities*, but only for proper nouns constituted of multiple nominal elements. 
 
 The changes proposed are:
-* Relabel `name` to `flat` (on the basis that such proper nouns constitued of multiple nominal elements do not have a clear head but are just in a flat structure)
-* Include titles in the `flat` expressions
-* Make the head the last element of the expression by default. Languages for which a head in the `flat` expression can be identified (because of morphology, such as in Finnish or Czech for instance) are allowed to choose another element as the head.
+
+*Relabel `name` to `flat` (on the basis that such proper nouns constitued of multiple nominal elements do not have a clear head but are just in a flat structure)
+*Include titles in the `flat` expressions
+*Make the head the last element of the expression by default. Languages for which a head in the `flat` expression can be identified (because of morphology, such as in Finnish or Czech for instance) are allowed to choose another element as the head.
 
 ~~~ sdparse
 Hillary Rohdam Clinton
