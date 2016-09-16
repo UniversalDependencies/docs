@@ -1038,7 +1038,6 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 * https://github.com/UniversalDependencies/docs/issues/256
 
 
-
 ## Further reading
 
 For wider cross-linguistic applicability, it is well worth looking at the following book:
