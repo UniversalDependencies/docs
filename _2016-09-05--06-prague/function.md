@@ -359,7 +359,7 @@ nmod(finns, byen)
 
 ~~~ sdparse
 Huset är i byen
-nsubj(är, huset)
+nsubj(är, Huset)
 nmod(är, byen)
 ~~~
 
