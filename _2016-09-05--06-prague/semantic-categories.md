@@ -23,9 +23,9 @@ The changes proposed are:
 * Make the head the last element of the expression by default. Languages for which a head in the `flat` expression can be identified (because of morphology, such as in Finnish or Czech for instance) are allowed to choose another element as the head.
 
 ~~~ sdparse
-Hillary Rohdam Clinton
+Hillary Rodham Clinton
 flat(Clinton, Hillary)
-flat(Clinton, Rohdam)
+flat(Clinton, Rodham)
 ~~~
 
 ~~~ sdparse
