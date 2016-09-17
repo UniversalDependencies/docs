@@ -83,9 +83,9 @@
 -
   name: Copula is not VERB
   required_empty: true
-  expr: (!VERB) <cop _
+  expr: (!(VERB|AUX)) <cop _
   expr-pos: _ <cop _
-  desc: Copulas should always be main verbs. Not auxiliaries, not punctuation (dashes) and definitely not nominals.
+  desc: Copulas should always be verbs. Not punctuation (dashes) and definitely not nominals.
   link: http://universaldependencies.org/docs/u/dep/cop.html
 
 -
