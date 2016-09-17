@@ -5,7 +5,7 @@ title:  'Semantic Categories in UD v2'
 
 # Semantic Categories in UD v2
 
-Some of our current relations (i.e., [u-dep/name]() and [u-dep/neg]()) seem to primarily encode semantic distinctions (rather than syntactic). The question is whether we should eliminate these from the annotation scheme and encode the disctinctions with features.
+Some of our current relations (i.e., [u-dep/name]() and [u-dep/neg]()) seem to primarily encode semantic distinctions (rather than syntactic). The question is whether we should eliminate these from the annotation scheme and encode the distinctions with features.
 
 ## Negation [u-dep/neg]()
 We suggest getting rid of the [u-dep/neg]() relation which is not syntactic. Instead we will use
