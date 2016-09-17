@@ -22,6 +22,8 @@ The changes proposed are:
 * Include titles in the `flat` expressions
 * Make the head the last element of the expression by default. Languages for which a head in the `flat` expression can be identified (because of morphology, such as in Finnish or Czech for instance) are allowed to choose another element as the head.
 
+**Discuss: Dan points out that the last point, which is what I remember from our Prague meeting, contradicts the "flat" structure with no clear head, and would indicate that another relation is more appropriate. Do we want to revisit this? (i.e., no choice in head for `flat`).**
+
 ~~~ sdparse
 Hillary Rodham Clinton
 flat(Clinton, Hillary)
@@ -32,6 +34,17 @@ flat(Clinton, Rodham)
 Monsieur Louis Pignon
 flat(Pignon, Monsieur)
 flat(Pignon, Louis)
+~~~
+
+In case of foreign phrases that are phrasal or clausal names, we use [u/dep/foreign](), given that `flat` is restricted only to multiple nominal elements.
+
+~~~ sdparse
+The French title of the book is " Harry à l' école des sorciers ".
+foreign(sorciers, Harry)
+foreign(sorciers, à)
+foreign(sorciers, l')
+foreign(sorciers, école)
+foreign(sorciers, des)
 ~~~
 
 ## Changes in the direction of arrows
