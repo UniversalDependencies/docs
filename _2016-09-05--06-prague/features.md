@@ -197,6 +197,8 @@ General differences:
   In contrast, we also include some features that are not inflectional but they provide a more fine-grained partitioning of the part-of-speech space, e.g. `PronType`.
 * They build upon the Leipzig Glossing Rules and their labels can be applied, if needed, to words, morphemes or phrases.
   We focus on individual words and don't mark some complex forms that can be expressed only periphrastically.
+  (But it is actually possible that UniMorph ignores periphrastic forms, too. They often stress that something is/is not
+  distinguished by overt affixal morphology. So maybe there is no difference in this point.)
 * We need fully qualified feature+value pair to get a unique string, e.g. `Degree=Sup` is something else than `Mood=Sup` or `Case=Sup`.
   They distinguish "dimensions" (our features) but their values are globally unique even without dimension name.
   They also have templatic features (combined of several atoms), and they often rely on feature (value) combinations.
