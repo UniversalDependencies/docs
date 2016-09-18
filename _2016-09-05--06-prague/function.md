@@ -17,3 +17,11 @@ Note that we are proposing to remove [u-dep/auxpass]() from universal relations 
 The v1 guidelines say that the `aux` relation is reserved for auxiliary _verbs_. However, some languages use particles to construct periphrastic verb forms, hence we should also allow `PART`. More generally: in line with loosening the constraints between part-of-speech tags and syntactic relations (see [here](postags.html) for discussion), we should define `aux` as a grammaticalized expression of tense-aspect-mood-voice categories.
 
 Note that this does not necessarily mean that all non-verb aux dependents in the current data are correct. See [this query](http://bionlp-www.utu.fi/dep_search/query?search=%21%28AUX%7CVERB%29+%28%3Caux%7C%3Cauxpass%29+_&db=UD_English-dev) for an instance. They should be revised and each language-specific documentation should clearly state which lemmas may occur as auxiliaries and what TAMV categories they are used in. That also applies to verbs—in some UD treebanks, the list of verbs that are attached as auxiliaries is very long and some of the verbs probably should not be `aux`.
+
+## Case 
+
+No changes were suggested.
+
+## Copula 
+
+See [copula](copula.html) for an in-depth description of the new guidelines for copula constructions.
