@@ -62,20 +62,39 @@ For language-specific examples, see below, but here is a summary:
 
 ### Nominals 
 
-~~~sdparse
+The structure wil remain the same, but the relation will be changed to `nsubj:cop`:
 
+~~~sdparse
+Ivan is the best dancer
+nsubj:cop(dancer, Ivan)
+cop(dancer, is)
 ~~~
 
-When there are more than one PP, there is a rule stating that the head should be the least oblique argument/modifier according to relevant language-specific tests. For example:
+~~~sdparse
+Bill is honest
+nsubj:cop(honest, Bill)
+cop(honest, is)
+~~~
+
+~~~sdparse
+She is in shape
+nsubj:cop(shape, She)
+cop(shape, is)
+~~~
+
+When there are more than one PP, the head should be the least oblique argument/modifier 
+according to relevant language-specific tests. For example:
 
 ~~~ sdparse
 She was in Prague on Tuesday
 nsubj:cop(Prague, She)
 ~~~
 
-As by omission test: _*She was on Tuesday_ but _She was in Prague_.
+The omission test could be used:
+* _She was in Prague_ 
+*  _*She was on Tuesday_ 
 
-Only in cases where no tests apply should we resort to general heuristics such as “closest to the copula” and so on.
+Only in cases where no tests apply should we resort to general heuristics such as "closest to the copula" and so on:
 
 ~~~ sdparse
 She was in Prague with her friends
@@ -109,6 +128,8 @@ nsubj(works, device)
 cop(works, is)
 ~~~
 
+#### To discuss
+
 However, we still get duplication of the `cop` relation where you have a copula on the right:
 
 ~~~sdparse
@@ -119,7 +140,7 @@ cop(capable, be-6)
 cop(free, be-2)
 ~~~
 
-And more serious problems when you have an expressed subject:
+And in the case of having an expressed subject, we get two subjects for the main predicate:
 
 ~~~sdparse
 The problem is that she is not happy .
@@ -147,16 +168,6 @@ For the purposes of demonstrating the new classification system a number of exam
 12. The house is in the village
 13. There was a house in the village
 14. The house was in the village
-
-    These are examples where both sides are nominals, but they could be extended to clausals, e.g.
-
-15. To be free is to be capable of thinking one's own thoughts
-16. This period is when Aristotle is believed to have lived
-17. The problem is that this has never been tried
-18. The important thing is to keep calm
-
-__TO DISCUSS:__ The analysis of (15) could follow (05) and (06), the analysis of (16) could follow (12) and the analysis of (17) and (18) could follow (01).
-
 
 #### English
 
