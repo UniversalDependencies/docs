@@ -20,7 +20,7 @@ We propose the following changes to the treatment of function words in v2:
 The v1 guidelines say that the `aux` relation is reserved for auxiliary _verbs_. However, some languages (for example Bulgarian, see example) use particles to construct periphrastic verb forms, hence we should also allow `PART`. More generally: in line with loosening the constraints between part-of-speech tags and syntactic relations (see [here](postags.html) for discussion), we should define `aux` as a grammaticalized expression of tense-aspect-mood-voice-evidentiality categories.
 
 ~~~ sdparse
-Като се прибереш, ще съм почистил къщата. \n When you return , will have cleaned the.house
+Като се прибереш, ще съм почистил къщата. \n When you return , will I.have cleaned the.house
 aux(почистил, ще)
 aux(почистил, съм)
 ~~~
