@@ -3,10 +3,6 @@ layout: base
 title:  'Segmentation in UD v2'
 ---
 
-<!-- Chris’ thoughts: Lots of difficult issues. For what counts as a word, I think we should be cautious in splitting up words into morpheme-level tokens. Much recent generative linguistics work assumes this as a default and we should be cautious about buying into weak arguments for doing so. That is, we should mainly follow the lexicalist orientation of UD. However, I think that sometimes things do need to be split off. The clearest cases are syntactic clitics, such as auxiliaries or the possessive clitic in English or things like conjunction clitics in Arabic. I can believe that some splitting is needed in Turkish but we should be cautious and not do too much. I’ll have to go read the paper…. The other big issue is whether to keep or to abandon the claim of not allowing spaces in tokens or not. It is very convenient for processing. I think it is wrong for some languages like Vietnamese. We could abandon it entirely - and then we should get rid of goeswith - or we could say that it is true of most languages and keep their tokenization simple, and keep goeswith for occasional exceptions or typing errors, but accept that just as some languages like Chinese need a complex word segmentation process, other languages like Vietnamese would need a complex “word grouping” process. -->
-
-<!-- ⎵ -->
-
 <!-- Word segmentation: We need to be able to handle the whole range of languages and writing systems, from Turkish to Vietnamese. -->
 
 # Segmentation in UD v2
@@ -15,21 +11,20 @@ title:  'Segmentation in UD v2'
 
 ## Spaces as syllable delimiters 
 
-There is pretty much unanimous agreement that spaces should be allowed in the Vietnamese treebank, and tokens should be (syntactic) words and not syllables. As far as we know Vietnamese is the only language where this is necessary, but still all tools will need to be able to support having spaces in CoNLL-U columns. Consider the following example, "Minh is (a) teacher.", where <i>giáo viên</i> is a bisyllabic word meaning "teacher". (Currently using underscore, "giáo_viên", because even the tree visualization tool cannot work with word-internal spaces.)
+There is pretty much unanimous agreement that spaces should be allowed in the Vietnamese treebank, and tokens should be (syntactic) words and not syllables. As far as we know Vietnamese is the only language where this is necessary, but still all tools will need to be able to support having spaces in CoNLL-U columns. Consider the following example, "Minh is (a) teacher.", where <i>giáo viên</i> is a bisyllabic word meaning "teacher". (Currently using underscore, "giáo⎵viên", because even the tree visualization tool cannot work with word-internal spaces.)
 
 ~~~ conllu
 1	Minh	Minh	PROPN	_	_	3	nsubj	_	_
 2	là	là	VERB	_	_	3	cop	_	_
-3	giáo_viên	giáo_viên	NOUN	_	_	0	root	_	_
+3	giáo⎵viên	giáo⎵viên	NOUN	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
-
 ~~~
+
+## Other cases
 
 There was a general consensus that for the remainder of the languages, we should maintain the ban on spaces in tokens. However, we propose that for a highly restricted closed class of orthographic phenomena (with prior approval), there may be some exceptions, for example:
 
-<!--Allow words with spaces for an approved (and restricted) list of exceptions like numbers (“100 000”) and abbreviations (“i. e.”).-->
-
-## Spaces as numeral separators
+### Spaces as numeral separators
 
 In the existing French treebank, space delimited numerals, e.g. "100 000" are collapsed into a single numeral, "... de 8 500 à 20 000 euros."
 
@@ -43,13 +38,44 @@ In the existing French treebank, space delimited numerals, e.g. "100 000" are co
 
 We do not see that this is an improvement over simply allowing the space, and the alternative (to have each 000 as a separate token and use `goeswith` or `mwe`) is unwieldy and does not exactly fit, e.g. writing 100 000 is not an orthographic error, but rather orthographically normative, and neither is it a fixed expression.
 
-## Spaces in normalising abbreviations
+### Spaces in normalising abbreviations
 
-<!--  Sådana ämnen är t_ex alkohol , koffein , opium och kokain . -->
+Spaces should be allowed in order to normalise abbreviations, in Swedish "e.g." can be written either "t.ex." or "t ex"
 
+With space "t ex":
 
-## Spaces between a syntactic word and a bound morpheme
+~~~ conllu
+1       Idrottsmateriel idrottsmateriel NOUN    NN|UTR|PLU|IND|NOM      Case=Nom|Definite=Ind|Gender=Com|Number=Plur    0       root    _       _
+2       ,       ,       PUNCT   MID     _       1       punct   _       _
+3       t_ex    t_ex    ADV     AB|AN   _       4       advmod  _       _
+4       spikskor        spiksko NOUN    NN|UTR|PLU|IND|NOM      Case=Nom|Definite=Ind|Gender=Com|Number=Plur    1       appos   _       _
+5       ,       ,       PUNCT   MID     _       4       punct   _       _
+6       kompass kompass NOUN    NN|UTR|SIN|IND|NOM      Case=Nom|Definite=Ind|Gender=Com|Number=Sing    4       conj    _       _
+7       ,       ,       PUNCT   MID     _       4       punct   _       _
+8       kartfodral      kartfodral      NOUN    NN|NEU|SIN|IND|NOM      Case=Nom|Definite=Ind|Gender=Neut|Number=Sing   4       conj    _       _
+~~~
 
+Without space "t.ex.":
+
+~~~ conllu
+1       Det     den     PRON    PN|NEU|SIN|DEF|SUB/OBJ  Definite=Def|Gender=Neut|Number=Sing|PronType=Prs       2       nsubj   _       _
+2       gäller  gälla   VERB    VB|PRS|AKT      Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act      0       root    _       _
+3       t.ex.   t.ex.   ADV     AB|AN   _       2       advmod  _       _
+4       säsongarbetslösa        säsongarbetslös ADJ     JJ|POS|UTR/NEU|PLU|IND/DEF|NOM  Case=Nom|Degree=Pos|Number=Plur 5       amod    _       _
+5       byggnadsarbetare        byggnadsarbetare        NOUN    NN|UTR|PLU|IND|NOM      Case=Nom|Definite=Ind|Gender=Com|Number=Plur    2       dobj    _       _
+6       .       .       PUNCT   MAD     _       2       punct   _       _
+~~~
+
+### Spaces between a syntactic word and a bound morpheme
+
+In Tuvan, in some tenses, the person/number agreement is written separate from the verbal morpheme. We propose allowing these to be tokenised as one unit
+
+~~~sdparse
+Мен Кызылга чурттап турган⎵мен .  \n I Kyzyl.to living standing.am
+nsubj(чурттап, Мен)
+aux(чурттап, турган⎵мен)
+nmod(чурттап, Кызылга)
+~~~
 
 ## Approval and validation process
 
