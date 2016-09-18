@@ -83,6 +83,3 @@ aux(чурттап, турган⎵мен)
 nmod(чурттап, Кызылга)
 ~~~
 
-#### Approval and validation process
-
-
