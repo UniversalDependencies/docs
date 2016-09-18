@@ -9,7 +9,7 @@ We propose for v2:
 
 * Rename [u-feat/Negative]() to `Polarity` and rename individual values of `Aspect`, `VerbForm` and `Definite`.
 * Remove `Tense=Nar` (but keep the other values of [u-feat/Tense]()).
-* For a number of existing features, add new values that may be ore have already been needed in some languages.
+* For a number of existing features, add new values that may be or have already been needed in some languages.
 * Add four new features to the universal set of features: evidentiality, politeness, abbreviation and foreign.
 * A number of other potential changes is suggested for general discussion but not really proposed yet.
 
