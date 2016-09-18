@@ -44,6 +44,7 @@ cop(huset, är)
 Se on talossa
 nsubj(on, Se)
 nmod(on, talossa)
+~~~
 
 There are also inconsistencies within a language, for example the existential construction with copula in English:
 
