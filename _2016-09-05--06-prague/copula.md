@@ -32,6 +32,19 @@ nsubj(blev, Han)
 xcomp(blev, överraskad)
 ~~~
 
+Treebanks differ in if they treat the PP/case-marked nominal as head, in Swedish it is head, while in Finnish it is dependent:
+
+~~~sdparse
+Hon är i huset
+nsubj(huset, Hon)
+cop(huset, är)
+~~~
+
+~~~sdparse
+Se on talossa
+nsubj(on, Se)
+nmod(on, talossa)
+
 There are also inconsistencies within a language, for example the existential construction with copula in English:
 
 ~~~sdparse
