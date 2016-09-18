@@ -7,7 +7,7 @@ title:  'Copula in UD v2'
 
 The treatment of copula constructions (non-verbal intransitive predication) is quite diverse in the current 
 version of the treebanks (see table below for the _status quo_). In order to provide more concrete guidelines 
-and to achieve better consistency better cross-lingually and within a single language, we propose the 
+and to achieve better consistency cross-lingually and within a single language, we propose the 
 following changes:
 
 * We should be maximally restrictive with respect to which words can be copulas (only one word in most languages) 
