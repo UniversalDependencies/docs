@@ -9,33 +9,36 @@ Treatment of copula constructions in the treebanks of UD v1.x is very diverse (s
 
 Because of the variability in how copulas are treated, it is hard to come up with a consistent scheme that can be applied totally cross-linguistically. There are also many cases, such as copulas with clausal arguments that require more in-depth investigation. However, we hope that by the following guidelines the treebanks released under UD v2.0 will be more consistent in their treatment of the copula both cross-linguistically and within a single language.
 
+## Summary
+
+* For copulas, we should be maximally restrictive with respect to which words can be copulas (only one word in most languages) but maximally permissi
+ve when it comes to treating this word as a copula. 
+* The copula word should never be the root, except through promotion ("he is not happy, but she is"). 
+* We should add the subtype `nsubj:cop` to avoid having to flip dependencies when the predicate is a clause. It should also be used more generally to
+ signal that the subject in copula constructions is special.
+
 ## General guidelines and overview
 
 If a language (e.g. Irish) has its own clear guidelines, they are in the spirit of UD, and they don't conflict, then we see no
 reason to change them. However, if there are no clear guidelines, then we should follow the following principles:
 
 * There should be only one copula in a language.[1]
-  * Subjects of copula constructions should receive a special label, either `nsubjcop` or `nsubj:cop`. This has several benefits, including solving the problem of double subjects. "The idea is you first find the general case.", `nsubj:cop(find, idea)`, `nsubj(find, you)`
+  * Subjects of copula constructions should receive a special label, either `nsubjcop` or `nsubj:cop`. This has several benefits, including solving the problem of double subjects when the predicate is a clause. "The idea is you first find the general case.", `nsubj:cop(find, idea)`, `nsubj(find, you)`
   * In languages where the copula is a verb, for verbs that are sometimes called "copula" (e.g. {eng} _become_, {swe} _bli_, {spa} _estar_) other than the prototypical copula (e.g. {eng} _be_, {swe} _vara_, {spa} _ser_), the nominal complement should be `xcomp`.
 
-We propose keeping with current practice in UD v1.x for the following copula constructions:
+We propose keeping with current practice in UD v1.x for copula constructions, that is we always have the copula as a dependent. Where the predicate is an NP or AP, this is straightforward as there is usually only a single predicate. The treebanks currently implement this.
 
-* with the meaning `is of category` (where `category` is typically an NP), the category should be the head, and the copula word dependent on it with the relation `cop`.
-* with the meaning `has quality` (where `quality` is typically an AP), we have the quality as the head and the copula as the dependent.
-
-These are largely consistent across the current UD languages.
-
-The next type we'll consider is `has location` (where `location` [in time, space, company, capacity etc.] is typically a PP or case-marked NP). Current practice in UD v1.x for prepositional phrases/case-marked NPs is inconsistent and we propose changing it. Currently some treebanks (English, Swedish, ...) have the PP as head and the copula depending on it, and others (Finnish, Spanish, ...) have the verb as head and the PP as `nmod`
-
-* We propose making the copula the head in these constructions.
-  * It is difficult to establish the root in sentences with multiple adverbials/PPs, e.g. "She is in Prague today with her friends on a school trip".
-  * It is related to "existential" constructions that use the copula. Currently in English there is a very different analysis for "The book is on the table here." and "There is a book on the table here."
+When the predicate is one of several PPs, for example in "She is in Prague today with her friends on a school trip", then there should be language specific guidelines on how to decide on the most adequate head or main predicate. This will require a change in some treebanks, English and Swedish currently have the PP as head, while Finnish and Spanish have the copula verb as head.
 
 What to do if there is "zero copula":
 
-* If the copula is not present, then we have two options:
-  1. the first is to use the new system for ellipsis (see [ellipsis](ellipsis.html), for these languages this would entail basic sentences having two (or more) dependents of the root node, "Она в деревне." `root>nsubj(Она)`, `root>nmod(деревне)`
-  2. Use simple promotion, "Она в деревне." `root(деревне)` + `nsubj(деревне, Она)`
+* If the copula is not present in some tenses or persons, then we use promotion:
+
+~~~sdparse
+Она в деревне.
+root(деревне)
+nsubj:cop(деревне, Она)
+~~~
 
 What to do with clausal arguments:
 
@@ -146,7 +149,7 @@ __TO DISCUSS:__ The analysis of (15) could follow (05) and (06), the analysis of
 
 ### English
 
-The English analysis more or less follows the analysis in the `UD_English` treebank, with the addition of the relation `nsubj:cop` for subjects of copula constructions. There is a difference however with how (8--10) are treated.
+The English analysis more or less follows the analysis in the `UD_English` treebank, with the addition of the relation `nsubj:cop` for subjects of copula constructions. There is a difference however with how (11) and (13) are treated.
 
 (1)
 
@@ -206,67 +209,63 @@ cop(shape, is)
 
 (8)
 
-This analysis differs from how it is currently analysed in the `UD_English` treebank,
-
 ~~~ sdparse
 She is in the house
-nsubj(is, She)
-nmod(is, house)
+nsubj:cop(house, She)
+cop(house, is)
 ~~~
 
 (9)
 
 ~~~ sdparse
 I am in the house
-nsubj(am, I)
-nmod(am, house)
+nsubj:cop(house, I)
+cop(house, am)
 ~~~
 
 (10)
 
 ~~~ sdparse
 She was in the house
-nsubj(was, She)
-nmod(was, house)
+nsubj:cop(house, She)
+cop(house, was)
 ~~~
 
 (11)
 
 ~~~ sdparse
 There is a house in the village
-expl(is, There)
-nsubj(is, house)
-nmod(is, village)
+expl(village, There)
+nsubj:cop(village, house)
+cop(village, is)
 ~~~
 
 (12)
 
 ~~~ sdparse
 The house is in the village
-nsubj(is, house)
-nmod(is, village)
+nsubj:cop(village, house)
+cop(village, is)
 ~~~
 
 (13)
 
 ~~~ sdparse
 There was a house in the village
-expl(was, There)
-nsubj(was, house)
-nmod(was, village)
+expl(village, There)
+nsubj:cop(village, house)
+cop(village, was)
 ~~~
 
 (14)
 
 ~~~ sdparse
 The house was in the village
-nsubj(was, house)
-nmod(was, village)
+nsubj:cop(village, house)
+cop(village, was)
 ~~~
 
 ### Swedish
-
-The current `UD_Swedish` treebank considers all uses of "vara" to take the `cop` relation. Under the new guidelines, 8--14 will be analysed differently.
 
 (1)
 
@@ -322,28 +321,26 @@ _Example needed_
 
 (8)
 
-This analysis is a departure from the existing Swedish analysis where "huset" would be considered `root` of the whole sentence.
-
 ~~~ sdparse
 Hon är i huset
-nsubj(är, Hon)
-nmod(är, huset)
+nsubj:cop(huset, Hon)
+cop(huset, är)
 ~~~
 
 (9)
 
 ~~~ sdparse
 Jag är i huset
-nsubj(är, Jag)
-nmod(är, huset)
+nsubj:cop(huset, Jag)
+cop(huset, är)
 ~~~
 
 (10)
 
 ~~~ sdparse
 Hon var i huset
-nsubj(var, Hon)
-nmod(var, huset)
+nsubj:cop(huset, Hon)
+cop(huset, var)
 ~~~
 
 (11)
@@ -361,8 +358,8 @@ nmod(finns, byen)
 
 ~~~ sdparse
 Huset är i byen
-nsubj(är, Huset)
-nmod(är, byen)
+nsubj:cop(byen, Huset)
+cop(byen, är)
 ~~~
 
 (13)
@@ -378,11 +375,9 @@ nmod(fanns, byen)
 
 ~~~ sdparse
 Huset var i byen
-nsubj(var, Huset)
-nmod(var, byen)
+nsubj:cop(byen, Huset)
+cop(byen, var)
 ~~~
-
-
 
 ### Spanish
 
@@ -468,7 +463,7 @@ xcomp(está, madre)
 
 (8)
 
-In Spanish position uses the verb _estar_ and not _ser_.
+In Spanish location/position uses the verb _estar_ and not _ser_.
 
 ~~~ sdparse
 Ella está en la casa
@@ -480,8 +475,8 @@ Note that in Catalan, this would be "Ella és a la casa", using the _ser_ verb, 
 
 ~~~ sdparse
 Ella és a la casa
-nsubj(és, Ella)
-nmod(és, casa)
+nsubj:cop(casa, Ella)
+cop(casa, és)
 ~~~
 
 (9)
@@ -608,19 +603,11 @@ nsubj:cop(курсе, Она)
 
 (8)
 
-In Russian, there is no verb used for locative predication in the present tense, this presents a problem for both inter-language and intra-language consistency. There are two main ways to deal with it. The first is to use promotion and promote the PP to be the root of the sentence. This will allow the distinction of case (7) and case (8) by the relation of the subject.
+In Russian, there is no verb used for locative predication in the present tense.
 
 ~~~ sdparse
 Она в дому
-nsubj(дому, Она)
-~~~
-
-The second would be to take advantage of the new system for ellipsis and use ellipsis to deal with it:
-
-~~~ sdparse
-ROOT Она в дому
-root>nmod(ROOT, дому)
-root>nsubj(ROOT, Она)
+nsubj:cop(дому, Она)
 ~~~
 
 (9)
@@ -629,60 +616,52 @@ As with (8),
 
 ~~~ sdparse
 Я в дому
-nsubj(дому, Я)
-~~~
-
-~~~ sdparse
-ROOT Я в дому
-root>nmod(ROOT, дому)
-root>nsubj(ROOT, Я)
+nsubj:cop(дому, Я)
 ~~~
 
 (10)
 
-In the past tense we have the verb and we can use that as the root:
+In the past tense we have the verb and we make it a dependent:
 
 ~~~ sdparse
 Она была в дому
-nsubj(была, Она)
-nmod(была, дому)
+nsubj:cop(дому, Она)
+cop(дому, была)
 ~~~
 
 (11)
 
-In Russian, in the present tense, existential constructions use "есть" which is sometimes described as a "predicative",
-but in fact it is the 3rd person present form of the verb _быть_ "to be".
+In Russian, in the present tense, existential constructions use "есть" which is sometimes described as a "predicative":
 
 ~~~ sdparse
 Есть дом в деревне
-nsubj(Есть, дом)
-nmod(Есть, деревне)
+nsubj:cop(деревне, дом)
+cop(деревне, Есть
 ~~~
 
 (12)
 
 ~~~ sdparse
-ROOT Дом в деревне
-root>nmod(ROOT, деревне)
-root>nsubj(ROOT, Дом)
+Дом в деревне
+nsubj:cop(деревне, Дом)
 ~~~
 
 (13)
 
-In the past tense (and future tense), the verb быть is employed. As far as I am able to ascertain, syntactically (13) and (14) are equivalent in Russian aside from the word order considerations.
+In the past tense (and future tense), the verb быть is employed. Syntactically (13) and (14) are equivalent in Russian aside from the word order considerations.
 
 ~~~ sdparse
 Был дом в деревне
-nsubj(Был, дом)
-nmod(Был, деревне)
+nsubj:cop(деревне, дом)
+cop(деревне, Был)
 ~~~
 
 (14)
 
 ~~~ sdparse
 Дом был в деревне
-nsubj(был, Дом)
-nmod(был, деревне)
+nsubj:cop(деревне, Дом)
+cop(деревне, был)
 ~~~
 
 
@@ -750,24 +729,24 @@ cop(kunnossa, on)
 
 ~~~ sdparse
 Se on talossa
-nsubj(on, Se)
-nmod(on, talossa)
+nsubj:cop(talossa, Se)
+cop(talossa, on)
 ~~~
 
 (9)
 
 ~~~ sdparse
 Mä oon talossa
-nsubj(oon, Mä)
-nmod(oon, talossa)
+nsubj:cop(talossa, Mä)
+cop(talossa, oon)
 ~~~
 
 (10)
 
 ~~~ sdparse
 Se oli talossa
-nsubj(oli, Se)
-nmod(oli, talossa)
+nsubj:cop(talossa, Se)
+cop(talossa, oli)
 ~~~
 
 (11)
@@ -776,32 +755,32 @@ In Finnish, existential and non-existential are identical aside from word order.
 
 ~~~ sdparse
 Kylässä on talo
-nsubj(on, talo)
-nmod(on, Kylässä)
+cop(Kylässä, on)
+nsubj:cop(Kylässä, talo)
 ~~~
 
 (12)
 
 ~~~ sdparse
 Talo on kylässä
-nsubj(on, Talo)
-nmod(on, kylässä)
+cop(kylässä, on)
+nsubj:cop(kylässä, Talo)
 ~~~
 
 (13)
 
 ~~~ sdparse
 Kylässä oli talo
-nsubj(oli, talo)
-nmod(oli, Kylässä)
+cop(Kylässä, oli)
+nsubj:cop(Kylässä, talo)
 ~~~
 
 (14)
 
 ~~~ sdparse
 Talo oli kylässä
-nsubj(oli, Talo)
-nmod(oli, kylässä)
+cop(kylässä, oli)
+nsubj:cop(kylässä, Talo)
 ~~~
 
 
@@ -812,7 +791,6 @@ In Turkish, there are two copula verbs, _i-_ and _ol-_. The "true" copula is _i-
 (1)
 
 In the present tense, third person singular aorist non-formal then there is no overt suffix for third person singular. Unlike Russian, where the copula verb does not appear in any part of the present tense paradigm, in Turkish it appears in all persons except third person. This means that it is more like the nominative case in the paradigm (which also has a -Ø suffix, than like the Russian copula).
-
 
 In the following examples the hyphen is used to separate cliticised syntactic words.
 
@@ -876,47 +854,42 @@ _Example needed_
 
 (8)
 
-The lack of suffix for third person singular present tense non-formal means that it will look like the head of locative predicates is empty, but see argumentation about nominative above. If the parser can guess that something is nominative, it can guess that it's third person singular present tense.
-
 ~~~ sdparse
-O evde -Ø
-nsubj(-Ø, O)
-nmod(-Ø, evde)
+O evde 
+nsubj:cop(evde, O)
 ~~~
 
 (9)
 
 ~~~ sdparse
 Ben evde -yim
-nsubj(-yim, Ben)
-nmod(-yim, evde)
+nsubj:cop(evde, Ben)
+cop(evde, -yim)
 ~~~
 
 (10)
 
 ~~~ sdparse
 O evde -ydi
-nsubj(-ydi, O)
-nmod(-ydi, evde)
+nsubj:cop(evde, O)
+cop(evde, -ydi)
 ~~~
 
 (11)
 
-In Turkish (and indeed in most Turkic languages), existence is a different structure, using an adjective _var_ "existent", and so gets a different structure.
+In Turkish (and indeed in most Turkic languages), existence is a syntactically different, using an adjective _var_ "existent", and so gets a different structure.
 
 ~~~ sdparse
-Köyde ev var -Ø
+Köyde ev var 
 nsubj:cop(var, ev)
-cop(var, -Ø)
 nmod(var, Köyde)
 ~~~
 
 (12)
 
 ~~~ sdparse
-Ev köyde -Ø
-nsubj(-Ø, Ev)
-nmod(-Ø, köyde)
+Ev köyde 
+nsubj:cop(köyde, Ev)
 ~~~
 
 (13)
@@ -932,8 +905,8 @@ nmod(var, Köyde)
 
 ~~~ sdparse
 Ev köyde -ydi
-nsubj(-ydi, Ev)
-nmod(-ydi, köyde)
+nsubj:cop(köyde, Ev)
+cop(köyde, -ydi)
 ~~~
 
 
@@ -1036,7 +1009,6 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 *  https://github.com/UniversalDependencies/docs/issues/329
 * http://universaldependencies.org/2015-08-23-uppsala/copula.html
 * https://github.com/UniversalDependencies/docs/issues/256
-
 
 ## Further reading
 
