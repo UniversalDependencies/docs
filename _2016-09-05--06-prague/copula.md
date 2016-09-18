@@ -5,120 +5,131 @@ title:  'Copula in UD v2'
 
 # Copula in UD v2
 
-Treatment of copula constructions in the treebanks of UD v1.x is very diverse (see Table on the _status quo_ below). The main point of departure for UD v2.0 is that differences between languages in copula constructions should be motivated by real syntactic differences, not by differences in traditional grammars.
+The treatment of copula constructions (non-verbal intransitive predication) is quite diverse in the current 
+version of the treebanks (see table below for the _status quo_). In order to provide more concrete guidelines 
+and to achieve better consistency better cross-lingually and within a single language, we propose the 
+following changes:
 
-Because of the variability in how copulas are treated, it is hard to come up with a consistent scheme that can be applied totally cross-linguistically. There are also many cases, such as copulas with clausal arguments that require more in-depth investigation. However, we hope that by the following guidelines the treebanks released under UD v2.0 will be more consistent in their treatment of the copula both cross-linguistically and within a single language.
+* We should be maximally restrictive with respect to which words can be copulas (only one word in most languages) 
+* The copula word should never be the root, except through promotion ("he is not happy, but she is")
+* When there is more than one possible candidate head, the rules to establish it should be determined on a language-specific basis
+* We should add the subtype `nsubj:cop` to avoid having to flip dependencies when the predicate is a clause. 
 
-## Summary
+## Problems with the current copula analysis
 
-* For copulas, we should be maximally restrictive with respect to which words can be copulas (only one word in most languages) but maximally permissi
-ve when it comes to treating this word as a copula. 
-* The copula word should never be the root, except through promotion ("he is not happy, but she is"). 
-* We should add the subtype `nsubj:cop` to avoid having to flip dependencies when the predicate is a clause. It should also be used more generally to
- signal that the subject in copula constructions is special.
-
-## General guidelines and overview
-
-If a language (e.g. Irish) has its own clear guidelines, they are in the spirit of UD, and they don't conflict, then we see no
-reason to change them. However, if there are no clear guidelines, then we should follow the following principles:
-
-* There should be only one copula in a language.[1]
-  * Subjects of copula constructions should receive a special label, either `nsubjcop` or `nsubj:cop`. This has several benefits, including solving the problem of double subjects when the predicate is a clause. "The idea is you first find the general case.", `nsubj:cop(find, idea)`, `nsubj(find, you)`
-  * In languages where the copula is a verb, for verbs that are sometimes called "copula" (e.g. {eng} _become_, {swe} _bli_, {spa} _estar_) other than the prototypical copula (e.g. {eng} _be_, {swe} _vara_, {spa} _ser_), the nominal complement should be `xcomp`.
-
-We propose keeping with current practice in UD v1.x for copula constructions, that is we always have the copula as a dependent. Where the predicate is an NP or AP, this is straightforward as there is usually only a single predicate. The treebanks currently implement this.
-
-When the predicate is one of several PPs, for example in "She is in Prague today with her friends on a school trip", then there should be language specific guidelines on how to decide on the most adequate head or main predicate. This will require a change in some treebanks, English and Swedish currently have the PP as head, while Finnish and Spanish have the copula verb as head.
-
-What to do if there is "zero copula":
-
-* If the copula is not present in some tenses or persons, then we use promotion:
+The main problem is the lack of standardisation, leaving aside the Galician example, which appears to be a conversion error,
+the Spanish treebank has over 229 verbs with the `cop` relation, where the Swedish treebank has one.
 
 ~~~sdparse
-Она в деревне.
-root(деревне)
-nsubj:cop(деревне, Она)
+Éste quedó sorprendido . \n He was/stayed surprised
+cop(sorprendido, quedó)
+nsubj(sorprendido, Éste)
 ~~~
 
-What to do with clausal arguments:
+~~~sdparse
+Han blev överraskad . \n He was/became surprised
+nsubj(blev, Han)
+xcomp(blev, överraskad)
+~~~
 
-* When a copula clause is used as a subject of another copula, it should be receive the relation `csubj:cop`. For example in the sentence: "Being well-informed will give you certainty." `csubj:cop(give, well-informed)`, `cop(well-informed, Being)`
+There are also inconsistencies within a language, for example the existential construction with copula in English:
 
-__TO DISCUSS: Take a look at the commented out examples__
+~~~sdparse
+There is a book on the table .
+expl(is, There)
+nsubj(is, book)
+~~~
 
-<!--
+Compared to the bare copula:
 
-==English==
+~~~sdparse
+A book is on the table .
+nsubj(table, book)
+cop(table, is)
+~~~
 
-===With gerund subject===
+We also do not provide a consistent analysis when one side of the copula is a clause:
 
-Being well-informed will give you certainty .
+~~~sdparse
+The important thing is to keep calm
+nsubj(is, thing)
+ccomp(is, keep)
+~~~
 
-===With to + inf subject===
+## Copula constructions in UDv2
 
-To be free is to be capable of thinking one's own thoughts .
+For language-specific examples, see below, but here is a summary:
 
-===With poss. gerund complement==
+### Nominals 
 
-The real red flag in all of this is your having been " slightly drunk " as you describe it .
+~~~sdparse
 
-===With that complement===
+~~~
 
-The main thing is that the device works .
+When there are more than one PP, there is a rule stating that the head should be the least oblique argument/modifier according to relevant language-specific tests. For example:
 
+~~~ sdparse
+She was in Prague on Tuesday
+nsubj:cop(Prague, She)
+~~~
+
+As by omission test: _*She was on Tuesday_ but _She was in Prague_.
+
+Only in cases where no tests apply should we resort to general heuristics such as “closest to the copula” and so on.
+
+~~~ sdparse
+She was in Prague with her friends
+nsubj:cop(Prague, She)
+~~~
+
+and:
+
+~~~ sdparse
+She was with her friends in Prague
+nsubj:cop(friends, She)
+~~~
+
+### Clausals 
+
+When there is a clausal predicate, then we make the head of that the head of the whole copula clause:
+
+~~~sdparse
+The important thing is to keep calm
+nsubj:cop(keep, thing)
+cop(keep, is)
+xcomp(keep, calm)
+~~~
+
+We distinguish copula subjects from non-copula subjects, so that when there is a clausal we do not get a double subject:
+
+~~~sdparse
+The main thing is that the device works
+nsubj:cop(works, thing)
+nsubj(works, device)
+cop(works, is)
+~~~
+
+However, we still get duplication of the `cop` relation where you have a copula on the right:
+
+~~~sdparse
+To be free is to be capable of thinking one's own thoughts 
+nsubj:cop(capable, free)
+cop(capable, is-4)
+cop(capable, be-6)
+cop(free, be-2)
+~~~
+
+And more serious problems when you have an expressed subject:
+
+~~~sdparse
 The problem is that she is not happy .
+nsubj:cop(happy, problem)
+nsubj:cop(happy, she)
+cop(happy, is-3)
+cop(happy, is-5)
+~~~
 
-===With to + inf complement===
-
-This was to be the second time Athens would host the games
-
-===With prep + gerund===
-
-Most of the focus was on developing the economy
-
-His primary interest was in applying the methodology
-
-The expulsion was for hitting a professor
-
-===With wh- words===
-
-A heavily discussed topic between scholars is who founded Rome .
-
-A heavily discussed topic between scholars is who was the founding population of Rome .
-
-Potentiality is what a thing is capable of doing .
-
-Paneloux's loss of faith is what leads to his death .
-
-One decision they have to make is which medium they should use .
-
-This building is where the permanent collection is displayed .
-
-This period in Athens , between 335 and 400 , is when Aristotle is believed to have lived .
-
-That is why Gabriel is represented with wings .
-
-It is how plants work together .
-
-==Swedish==
-
-Två viktiga ting är att säga om svårigheter i äktenskap .
-
-En nödvändig förutsättning är att männen är helt med på saken .
-
-==Russian==
-
-Трудно быть богом .
-
-
--->
-
-
-### Notes
-
-1. In languages such as those of the Iberian Romance group, Basque etc. where there is a "state" copula and "essence" copula, then the __essence__ one should get the `cop` relation. However, if the copula is defective and is filled with different stems in different tenses (e.g. Turkish, Kazakh), this is fine.
-
-## Language-specific examples
+### Language-specific examples
 
 For the purposes of demonstrating the new classification system a number of examples have been prepared for a range of UD languages. The examples are in English, but where they are ambiguous in a given language multiple variants will be given.
 
@@ -147,7 +158,7 @@ For the purposes of demonstrating the new classification system a number of exam
 __TO DISCUSS:__ The analysis of (15) could follow (05) and (06), the analysis of (16) could follow (12) and the analysis of (17) and (18) could follow (01).
 
 
-### English
+#### English
 
 The English analysis more or less follows the analysis in the `UD_English` treebank, with the addition of the relation `nsubj:cop` for subjects of copula constructions. There is a difference however with how (11) and (13) are treated.
 
@@ -265,7 +276,7 @@ nsubj:cop(village, house)
 cop(village, was)
 ~~~
 
-### Swedish
+#### Swedish
 
 (1)
 
@@ -379,7 +390,7 @@ nsubj:cop(byen, Huset)
 cop(byen, var)
 ~~~
 
-### Spanish
+#### Spanish
 
 The `UD_Spanish` treebank has very many verbs classified as copula. We propose reducing it to the single verb "ser".
 
@@ -530,7 +541,7 @@ nmod(estaba, pueblo)
 ~~~
 
 
-### Russian
+#### Russian
 
 In Russian, there is no copula verb in the present tense, in the future tense, the verb _быть_ "be" is used. Note that when the copula verb is used, the complement can be either in nominative or instrumental case. When it is instrumental it is `is category of` and when it is nominative it is more like `has quality of`. We propose using the same structure for both.
 
@@ -665,7 +676,7 @@ cop(деревне, был)
 ~~~
 
 
-### Finnish
+#### Finnish
 
 In Finnish the copula verb is _olla_ "to be". Its complement is typically in the nominative, although it may also be in the essive case -nA.
 
@@ -784,7 +795,7 @@ nsubj:cop(kylässä, Talo)
 ~~~
 
 
-### Turkish
+#### Turkish
 
 In Turkish, there are two copula verbs, _i-_ and _ol-_. The "true" copula is _i-_ which is defective, only having a limited number of tense forms (aorist and past), and cliticising. When a copula is needed in another tense, _ol-_ is employed. However, if there is a form of _i-_ then the equivalent form of _ol-_ takes on the meaning "become".
 
@@ -910,13 +921,17 @@ cop(köyde, -ydi)
 ~~~
 
 
-### Irish
+#### Irish
 
 Irish has a difference between a _copula_ verb "is" and what is called a substantive verb "bí". Only the copula verb receives the `cop` relation. The substantive verb is head and takes an argument with `xcomp`. Teresa's thesis [http://www.nclt.dcu.ie/~tlynn/Teresa_PhDThesis_final.pdf] has an in depth description of the treatment of the copula in Irish.
 
 (1)
 
+_Example needed_
+
 (2)
+
+_Example needed_
 
 (3)
 
@@ -940,23 +955,39 @@ _Not applicable._
 
 (6)
 
+_Example needed_
+
 (7)
+
+_Example needed_
 
 (8)
 
+_Example needed_
+
 (9)
+
+_Example needed_
 
 (10)
 
+_Example needed_
+
 (11)
+
+_Example needed_
 
 (12)
 
+_Example needed_
+
 (13)
+
+_Example needed_
 
 (14)
 
-
+_Example needed_
 
 ## Status quo
 
