@@ -32,20 +32,24 @@ There is pretty much unanimous agreement that words with spaces should be allowe
 
 ~~~
 
+If a language allows spaces inside words on a language-wide basis, this must be declared in the language-specific documentation.
+
 ### Other cases
 
-There was a general consensus that for the remainder of the languages, we should maintain the ban on spaces in tokens. However, we propose that for a highly restricted closed class of orthographic phenomena (with prior approval), there may be some exceptions, for example:
+There was a general consensus that, for the remainder of the languages, we should essentially maintain the ban on spaces in words. However, we propose that for a highly restricted closed class of orthographic phenomena, we may make exceptions (with prior approval).
 
 #### Spaces as numeral separators
 
 In the existing French treebank, space delimited numerals, e.g. "100 000" are collapsed into a single numeral, "... de 8 500 à 20 000 euros." becomes:
 
 ~~~ conllu
+
 1	de	de	ADP	_	_	2	case	_	_
 2	8500	8500	NUM	_	_	0	nmod	_	_
 3	à	à	ADP	_	_	5	case	_	_
 4	20000	20000	NUM	_	_	5	nummod	_	_
 5	euros	euro	NOUN	_	Gender=Masc|Number=Plur	0	nmod	_	_
+
 ~~~
 
 We do not see that this is an improvement over simply allowing the space, and the alternative (to have each 000 as a 
@@ -55,7 +59,9 @@ orthographic error, but rather orthographically normative, and neither is it a f
 The new tokenisation would be:
 
 ~~~ sdparse
+
 de 8⎵500 à 20⎵000 euros \n from 8,500 to 20,000 euros
+
 ~~~
 
 #### Spaces in normalising abbreviations
@@ -65,13 +71,17 @@ Spaces should be allowed in order to normalise abbreviations, in Swedish "e.g." 
 With space "t ex":
 
 ~~~ sdparse
+
 Idrottsmateriel t_ex spikskor , kompass , kartfodral \n Sporting.goods e.⎵g. spiked.shoes , compass , map.holder
+
 ~~~
 
 Without space "t.ex.":
 
 ~~~ sdparse
+
 Det gäller t.ex. säsongarbetslösa byggnadsarbetare . \n This applies.to e.g. seasonally.unemployed building.workers .
+
 ~~~
 
 #### Spaces between a syntactic word and a bound morpheme
@@ -79,9 +89,11 @@ Det gäller t.ex. säsongarbetslösa byggnadsarbetare . \n This applies.to e.g. 
 In Tuvan, in some tenses, the person/number agreement is written separate from the verbal morpheme. We propose allowing these to be tokenised as one unit
 
 ~~~sdparse
+
 Мен Кызылга чурттап турган⎵мен .  \n I Kyzyl.to living standing.am
 nsubj(чурттап, Мен)
 aux(чурттап, турган⎵мен)
 nmod(чурттап, Кызылга)
+
 ~~~
 
