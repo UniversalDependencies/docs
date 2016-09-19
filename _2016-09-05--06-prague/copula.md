@@ -17,7 +17,7 @@ following changes:
 
 ## Problems with the current copula analysis
 
-The main problem is the lack of standardisation, leaving aside the Galician example, which appears to be a conversion error,
+The main problem is the lack of standardisation. Leaving aside the Galician example, which appears to be a conversion error,
 the Spanish treebank has over 229 verbs with the `cop` relation, where the Swedish treebank has one.
 
 ~~~sdparse
