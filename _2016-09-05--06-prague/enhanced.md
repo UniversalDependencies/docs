@@ -78,7 +78,7 @@ In the _basic_ representation, the governor and dependents of a conjoined phrase
 
 ### Conjoined verbs and verb phrases
 
-When two verbs are conjoined, the subject and the object of the conjoined verbs are attached to every conjunct.
+When two verbs share their objects (or other complements), the subject and the object of the conjoined verbs are attached to every conjunct.
 
 ~~~ sdparse
 The store buys and sells cameras .
@@ -90,7 +90,7 @@ dobj(buys, cameras)
 dobj(sells, cameras)
 ~~~
 
-When two verb phrases are conjoined, only the subject is attached to every conjunct.
+However, if the complements of the second verb are not shared, only the subject is attached to every conjunct.
 
 ~~~ sdparse
 She was reading or watching a movie .
@@ -124,12 +124,13 @@ dobj(bought, oranges)
 conj(apples, oranges)
 ~~~
 
-However, in case of unambiguous collective subjects or objects, no additional relations should be added.
+This leads to slightly strange dependencies in the case of collective subjects or objects:
 
 ~~~ sdparse
 Paul and Mary are meeting .
 
 nsubj(meeting, Paul)
+nsubj(meeting, Mary)
 conj(Paul, Mary)
 ~~~
 
@@ -139,7 +140,10 @@ Mary is eating mac and cheese .
 nsubj(eating, Mary)
 dobj(eating, mac)
 conj(mac, cheese)
+dobj(eating, cheese)
 ~~~
+
+However, as the distinction between distributive and collective readings is often context-dependent, we propose to take the simplest approach and to always attach all conjuncts to the predicate.
 
 When the subject is attached to a control or raising predicate, there is a dependency between the matrix verb and each conjunct and between the embedded verb and each conjunct.
 
@@ -173,26 +177,36 @@ conj(long, wide)
 
 (See also the notes on [core dependents](core-dependents.html) for a detailed discussion of the new analysis of passive constructions in the _basic_ representation.)
 
-We propose that we no longer use a special `nsubjpass` relation in the _basic_ representation. However, the distiction between regular subjects and subjects in passive constructions is still highly useful for many NLP tasks. We therefore propose to use the relations `dobj:prom`, `iobj:prom`, and `nmod:agent` for the arguments of a passivized verb.  
+We propose that we no longer use a special `nsubjpass` relation in the _basic_ representation. However, the distiction between regular subjects and subjects in passive constructions is still highly useful for many NLP tasks. We therefore propose to use the relations `nsubj:pass` (for languages without `dobj`/`iobj` distinction), `nsubj:passdir`, `nsubj:passind`, and `nmod:agent` for the arguments of a passivized verb.  
 
 ~~~ sdparse
 The book was written by the author .
 
-dobj:prom(written, book)
+nsubj:passdir(written, book)
 nmod:agent(written, author)
 ~~~
 
 ~~~ sdparse
 She was given the book .
 
-iobj:prom(given, She)
+nsubj:passind(given, She)
 dobj(given, book)
 ~~~
 
 ### To discuss
 
-* Should the _enhanced_ UD graph still contain the original subject dependencies or should we only have `[di]obj:prom`?
+* Should the _enhanced_ UD graph still contain the original subject dependencies or should we only have `nsubj:pass(dir|ind)`?
 * Should this treatment be extended to other valency-changing constructions like causatives and antipassives?
+
+Example [tr]:
+
+~~~ sdparse
+Bilge arabayı Denize yıkattı . \n Bilge the.car Deniz made.wash .
+
+nsubj:cau(yıkattı, Denize)
+dobj(yıkattı, arabayı)
+nsubj(yıkattı, Bilge)
+~~~
 
 ## Relative clauses
 
@@ -253,13 +267,14 @@ The house in which I used to live .
 
 acl:relcl(house, used)
 nmod(live, house)
+case(which, in)
 ~~~
 
 ~~~ sdparse
 The city where I used to live .
 
 acl:relcl(city, used)
-nmod???(live, city)
+nmod(live, city)
 ~~~
 
 ## Recommended order of annotations
