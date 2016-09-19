@@ -69,3 +69,15 @@ conj/dobj(aldı, bisiklet)
 compound(kardeşi, Erkek)
 ~~~
 
+Analysing this Turkish example as left headed conjunction would mean having ellipsis from the root, something like:
+
+~~~sdparse 
+ROOT Erkek kardeşi sadece bisiklet ama o araba aldı . \n Male sibling only bicycle but he car bought .
+nsubj(aldı, o)
+dobj(aldı, araba)
+cc(aldı, ama)
+root/dobj(ROOT, bisiklet)
+root/nsubj(ROOT, kardeşi)
+root/conj(ROOT, aldı)
+compound(kardeşi, Erkek)
+~~~
