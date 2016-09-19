@@ -5,7 +5,7 @@ title:  'Multiword Expressions in UD v2'
 
 # Multiword Expressions in UD v2
 
-Since UD does not allow "words with spaces" (but see a partly new proposal under [word segmentation](word-segmentation.html)), even completely fixed multiword expressions must be annotated with (dummy) dependency labels. To improve annotation consistency, we propose the following changes for v2:
+Since UD does not allow "words with spaces" (but see a partly new proposal under [word segmentation](word-segmentation.html)), even completely fixed multiword expressions must be annotated with (dummy) dependency relations. To improve annotation consistency, we propose the following changes for v2:
 
 * Rename [u-dep/mwe]() to **fixed** and make clear that this should only be used for completely fixed expressions
 * Change the direction of arrows (right-to-left instead of left-to-right) for consistency with other non-dependency relations (see [semantic categories](semantic-categories.html))
