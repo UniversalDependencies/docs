@@ -97,7 +97,8 @@ See [ru-dep/compound]() for the compound numerals: _двадцать два_.
 
 Other types of QP:
 * _две.Nom целых.Gen.Sg четыре.Nom десятых.Gen.Sg миллиона.Gen.Sg рублей.Gen.Pl_ “2.4 million rubles” (i.e. “four tenth parts of million” with the ellipsis of “parts”)
-* _к двум.Dat целым.Dat четырем.Dat десятым.Dat миллиона.Gen.Sg рублей.Gen.Pl_ “to 2.4 million rubles”
+* _к двум.Dat целым.Dat четырем.Dat десятым.Dat миллиона.Gen.Sg рублей.Gen.Pl_ “to 2.4 million rubles” 
+
 ~~~ sdparse
 Две целых четыре десятых миллиона рублей . \n Two whole-parts four tenth million rubles .
 nummod:gov(рублей, миллиона)
