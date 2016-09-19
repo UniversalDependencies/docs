@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-15T09:10:31Z">2016-09-15T09:10:31 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-18T16:10:35Z">2016-09-18T16:10:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -959,8 +959,8 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-13T08:28:07Z">2016-09-13T08:28:07 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-18T16:10:18Z">2016-09-18T16:10:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -980,7 +980,9 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-*** PASSED ***
+[Tree number 1859 on line 52487]: Non-tree structure. Words 23,24,25,26 are not reachable from the root 0.
+*** FAILED *** with 1 errors
+Syntax errors: 1
 
 
 ******************
@@ -1642,8 +1644,8 @@ python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-13T08:53:56Z">2016-09-13T08:53:56 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-16T13:56:27Z">2016-09-16T13:56:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1663,14 +1665,7 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-test.conl
 
 python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
-[Line                   62321]: Range overlaps with others: 13-14
-[Line                   119751]: Range overlaps with others: 27-28
-[Line                   170651]: DEPREL must be "root" if HEAD is 0
-[Line                   170651]: DEPREL must be "root" if HEAD is 0
-[Tree number 5237 on line 170630]: Multiple root words: [1, 2]
-*** FAILED *** with 5 errors
-Format errors: 2
-Syntax errors: 3
+*** PASSED ***
 
 
 ******************
@@ -1745,28 +1740,54 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-13T08:58:25Z">2016-09-13T08:58:25 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-18T06:26:31Z">2016-09-18T06:26:31 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-test.conllu
 
-*** PASSED ***
+[Line                   652]: Unknown UD DEPREL: conj:preconj
+[Line                   1430]: Unknown UD DEPREL: conj:preconj
+[Line                   5099]: Unknown UD DEPREL: conj:preconj
+[Line                   8416]: Unknown UD DEPREL: conj:preconj
+*** FAILED *** with 4 errors
+Syntax errors: 4
 
 
 ******************
 
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
-*** PASSED ***
+[Line                   3964]: Unknown UD DEPREL: conj:preconj
+[Line                   7617]: Unknown UD DEPREL: conj:preconj
+[Line                   9694]: Unknown UD DEPREL: conj:preconj
+[Line                   14276]: Unknown UD DEPREL: conj:preconj
+[Line                   19178]: Unknown UD DEPREL: conj:preconj
+[Line                   23910]: Unknown UD DEPREL: conj:preconj
+[Line                   31016]: Unknown UD DEPREL: conj:preconj
+[Line                   38741]: Unknown UD DEPREL: conj:preconj
+[Line                   40905]: Unknown UD DEPREL: conj:preconj
+[Line                   48248]: Unknown UD DEPREL: conj:preconj
+[Line                   55925]: Unknown UD DEPREL: conj:preconj
+[Line                   58026]: Unknown UD DEPREL: conj:preconj
+[Line                   62112]: Unknown UD DEPREL: conj:preconj
+[Line                   62535]: Unknown UD DEPREL: conj:preconj
+[Line                   62599]: Unknown UD DEPREL: conj:preconj
+[Line                   66352]: Unknown UD DEPREL: conj:preconj
+[Line                   66960]: Unknown UD DEPREL: conj:preconj
+[Line                   69767]: Unknown UD DEPREL: conj:preconj
+[Line                   70933]: Unknown UD DEPREL: conj:preconj
+...suppressing further errors regarding Syntax
+*** FAILED *** with 25 errors
+Syntax errors: 25
 
 
 ******************
@@ -1778,25 +1799,25 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-13T09:02:19Z">2016-09-13T09:02:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-18T06:26:36Z">2016-09-18T06:26:36 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
 
 *** PASSED ***
 

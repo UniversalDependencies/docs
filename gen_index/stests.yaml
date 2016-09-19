@@ -7,23 +7,23 @@
   neg_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(have, will)\naux(left, have)"
   link: http://universaldependencies.org/u/dep/aux_.html
 
--
-  name: Name is right-headed
-  required_empty: true
-  expr: _ <name@R _
-  desc: Name dependencies should be left-headed, not right.
-  pos_ex: "Carl XVI Gustaf\nname(Carl, XVI)\nname(Carl, Gustaf)"
-  neg_ex: "Carl XVI Gustaf\nname(Gustaf, XVI)\nname(Gustaf, Carl)"
-  link: http://universaldependencies.org/u/dep/name.html
+#-
+#  name: Name is right-headed
+#  required_empty: true
+#  expr: _ <name@R _
+#  desc: Name dependencies should be left-headed, not right.
+#  pos_ex: "Carl XVI Gustaf\nname(Carl, XVI)\nname(Carl, Gustaf)"
+#  neg_ex: "Carl XVI Gustaf\nname(Gustaf, XVI)\nname(Gustaf, Carl)"
+#  link: http://universaldependencies.org/u/dep/name.html
 
--
-  name: MWE is right-headed
-  required_empty: true
-  expr: _ <mwe@R _
-  desc: Multi-word expressions should be left-headed, not right.
-  pos_ex: "He cried because of you\nmwe(because, of)"
-  neg_ex: "He cried because of you\nmwe(of, because)"
-  link: http://universaldependencies.org/u/dep/mwe.html
+#-
+#  name: MWE is right-headed
+#  required_empty: true
+#  expr: _ <mwe@R _
+#  desc: Multi-word expressions should be left-headed, not right.
+#  pos_ex: "He cried because of you\nmwe(because, of)"
+#  neg_ex: "He cried because of you\nmwe(of, because)"
+#  link: http://universaldependencies.org/u/dep/mwe.html
 
 -
   name: MWE chain
@@ -32,12 +32,12 @@
   desc: MWE dependencies should not be chained. All dependents should be attached directly to the first one.
   link: http://universaldependencies.org/u/dep/mwe.html
 
--
-  name: Foreign is right-headed
-  required_empty: true
-  expr: _ <foreign@R _
-  desc: Foreign dependencies should be left-headed, not right.
-  link: http://universaldependencies.org/u/dep/foreign.html
+#-
+#  name: Foreign is right-headed
+#  required_empty: true
+#  expr: _ <foreign@R _
+#  desc: Foreign dependencies should be left-headed, not right.
+#  link: http://universaldependencies.org/u/dep/foreign.html
 
 -
   name: Foreign chain
@@ -64,28 +64,28 @@
   desc: Apposition dependencies should be left-headed, not right.
   link: http://universaldependencies.org/u/dep/appos.html
 
--
-  name: Non-passive subject with passive auxiliary
-  required_empty: true
-  expr: "_ >nsubj|>csubj _ >auxpass|>auxpass:refl _"
-  desc: A passive auxiliary implies that the subject is passive, too.
-  pos_ex: "The reconstruction was finished yesterday .\nnsubjpass(finished, reconstruction)\nauxpass(finished, was)"
-  neg_ex: "The reconstruction was finished yesterday .\nnsubj(finished, reconstruction)\nauxpass(finished, was)"
-  link: http://universaldependencies.org/docs/u/dep/nsubjpass.html
+#-
+#  name: Non-passive subject with passive auxiliary
+#  required_empty: true
+#  expr: "_ >nsubj|>csubj _ >auxpass|>auxpass:refl _"
+#  desc: A passive auxiliary implies that the subject is passive, too.
+#  pos_ex: "The reconstruction was finished yesterday .\nnsubjpass(finished, reconstruction)\nauxpass(finished, was)"
+#  neg_ex: "The reconstruction was finished yesterday .\nnsubj(finished, reconstruction)\nauxpass(finished, was)"
+#  link: http://universaldependencies.org/docs/u/dep/nsubjpass.html
 
--
-  name: Passive subject of a NOUN
-  required_empty: true
-  expr: "_ <nsubjpass NOUN"
-  desc: Nouns may have subjects in copula-like constructions. Copula-like constructions may be passive if the predicate is passive participle. But a combination of the two cases seems too much.
-  link: http://universaldependencies.org/docs/u/dep/nsubjpass.html
+#-
+#  name: Passive subject of a NOUN
+#  required_empty: true
+#  expr: "_ <nsubjpass NOUN"
+#  desc: Nouns may have subjects in copula-like constructions. Copula-like constructions may be passive if the predicate is passive participle. But a combination of the two cases seems too much.
+#  link: http://universaldependencies.org/docs/u/dep/nsubjpass.html
 
 -
   name: Copula is not VERB
   required_empty: true
-  expr: (!VERB) <cop _
+  expr: (!(VERB|AUX)) <cop _
   expr-pos: _ <cop _
-  desc: Copulas should always be main verbs. Not auxiliaries, not punctuation (dashes) and definitely not nominals.
+  desc: Copulas should always be verbs. Not punctuation (dashes) and definitely not nominals.
   link: http://universaldependencies.org/docs/u/dep/cop.html
 
 -

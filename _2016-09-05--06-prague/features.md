@@ -5,6 +5,14 @@ title:  'Features in UD v2'
 
 # Features in UD v2
 
+We propose for v2:
+
+* Rename [u-feat/Negative]() to `Polarity` and rename individual values of `Aspect`, `VerbForm` and `Definite`.
+* Remove `Tense=Nar` (but keep the other values of [u-feat/Tense]()).
+* For a number of existing features, add new values that may be or have already been needed in some languages.
+* Add four new features to the universal set of features: evidentiality, politeness, abbreviation and foreign.
+* A number of other potential changes is suggested for general discussion but not really proposed yet.
+
 The proposals in this chapter are based on
 
 1. experience with applying the v1 features (see also the [issue tracker](http://github.com/UniversalDependencies/docs/issues?q=is%3Aissue%20label%3Afeatures))
@@ -197,6 +205,8 @@ General differences:
   In contrast, we also include some features that are not inflectional but they provide a more fine-grained partitioning of the part-of-speech space, e.g. `PronType`.
 * They build upon the Leipzig Glossing Rules and their labels can be applied, if needed, to words, morphemes or phrases.
   We focus on individual words and don't mark some complex forms that can be expressed only periphrastically.
+  (But it is actually possible that UniMorph ignores periphrastic forms, too. They often stress that something is/is not
+  distinguished by overt affixal morphology. So maybe there is no difference in this point.)
 * We need fully qualified feature+value pair to get a unique string, e.g. `Degree=Sup` is something else than `Mood=Sup` or `Case=Sup`.
   They distinguish "dimensions" (our features) but their values are globally unique even without dimension name.
   They also have templatic features (combined of several atoms), and they often rely on feature (value) combinations.

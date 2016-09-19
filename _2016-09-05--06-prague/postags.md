@@ -5,6 +5,16 @@ title:  'POS tags'
 
 # Part-of-speech tags in UD v2
 
+## Summary
+
+For v2, we propose
+
+* Rename [u-pos/CONJ]() to `CCONJ`.
+* Remove [u-pos/AUX]().
+* Minimize usage of [u-pos/PART]() – small language-specific list of words, case must be made for each.
+* Loosen borderline between [u-pos/PRON]() and [u-pos/DET](): set of recommendations instead of purely functional rule.
+* Provide more general recommendations about setting language-specific borderlines between word categories.
+
 For related discussion see
 
 * [Morphology overview page](../u/overview/morphology.html) has a section on POS tags

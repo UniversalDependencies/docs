@@ -3,35 +3,40 @@ layout: base
 title:  'Segmentation in UD v2'
 ---
 
-<!-- Chris’ thoughts: Lots of difficult issues. For what counts as a word, I think we should be cautious in splitting up words into morpheme-level tokens. Much recent generative linguistics work assumes this as a default and we should be cautious about buying into weak arguments for doing so. That is, we should mainly follow the lexicalist orientation of UD. However, I think that sometimes things do need to be split off. The clearest cases are syntactic clitics, such as auxiliaries or the possessive clitic in English or things like conjunction clitics in Arabic. I can believe that some splitting is needed in Turkish but we should be cautious and not do too much. I’ll have to go read the paper…. The other big issue is whether to keep or to abandon the claim of not allowing spaces in tokens or not. It is very convenient for processing. I think it is wrong for some languages like Vietnamese. We could abandon it entirely - and then we should get rid of goeswith - or we could say that it is true of most languages and keep their tokenization simple, and keep goeswith for occasional exceptions or typing errors, but accept that just as some languages like Chinese need a complex word segmentation process, other languages like Vietnamese would need a complex “word grouping” process. -->
-
-<!-- ⎵ -->
-
-<!-- Word segmentation: We need to be able to handle the whole range of languages and writing systems, from Turkish to Vietnamese. -->
-
 # Segmentation in UD v2
 
-<!-- Principles: be able to reproduce the segmentation -->
+We propose the following changes to the treatment of word segmentation in UD v2:
 
-## Spaces as syllable delimiters 
+* Allow words with spaces for languages where spaces mark something else than word boundaries (for example, syllable boundaries as in Vietnamese). 
+* Allow words with spaces for an approved (and restricted) list of exceptions like numbers (“100 000”) and abbreviations (“i. e.”).
 
-There is pretty much unanimous agreement that spaces should be allowed in the Vietnamese treebank, and tokens should be (syntactic) words and not syllables. As far as we know Vietnamese is the only language where this is necessary, but still all tools will need to be able to support having spaces in CoNLL-U columns. Consider the following example, "Minh is (a) teacher.", where <i>giáo viên</i> is a bisyllabic word meaning "teacher". (Currently using underscore, "giáo_viên", because even the tree visualization tool cannot work with word-internal spaces.)
+Throughout the remainder of this text, the symbol `⎵` will be used to indicate orthographic space.
+
+## Problems with current treatment of word segmentation
+
+There are two main problems with the current treatment of word segmentation:
+
+* The first is that for some languages (Vietnamese being the prototypical example) space is not a word boundary, but rather a syllable boundary. 
+* In other languages, some kind of spacing character is used as a delimiter in numerals, or is optionally used in abbreviations 
+
+### Spaces as syllable delimiters 
+
+There is pretty much unanimous agreement that spaces should be allowed in the Vietnamese treebank, and tokens should be (syntactic) words and not syllables. As far as we know Vietnamese is the only language where this is necessary, but still all tools will need to be able to support having spaces in CoNLL-U columns. Consider the following example, "Minh is (a) teacher.", where <i>giáo viên</i> is a bisyllabic word meaning "teacher". (Currently using underscore, "giáo⎵viên", because even the tree visualization tool cannot work with word-internal spaces.)
 
 ~~~ conllu
 1	Minh	Minh	PROPN	_	_	3	nsubj	_	_
 2	là	là	VERB	_	_	3	cop	_	_
-3	giáo_viên	giáo_viên	NOUN	_	_	0	root	_	_
+3	giáo⎵viên	giáo⎵viên	NOUN	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
-
 ~~~
+
+### Other cases
 
 There was a general consensus that for the remainder of the languages, we should maintain the ban on spaces in tokens. However, we propose that for a highly restricted closed class of orthographic phenomena (with prior approval), there may be some exceptions, for example:
 
-<!--Allow words with spaces for an approved (and restricted) list of exceptions like numbers (“100 000”) and abbreviations (“i. e.”).-->
+#### Spaces as numeral separators
 
-## Spaces as numeral separators
-
-In the existing French treebank, space delimited numerals, e.g. "100 000" are collapsed into a single numeral, "... de 8 500 à 20 000 euros."
+In the existing French treebank, space delimited numerals, e.g. "100 000" are collapsed into a single numeral, "... de 8 500 à 20 000 euros." becomes:
 
 ~~~ conllu
 1	de	de	ADP	_	_	2	case	_	_
@@ -41,16 +46,40 @@ In the existing French treebank, space delimited numerals, e.g. "100 000" are co
 5	euros	euro	NOUN	_	Gender=Masc|Number=Plur	0	nmod	_	_
 ~~~
 
-We do not see that this is an improvement over simply allowing the space, and the alternative (to have each 000 as a separate token and use `goeswith` or `mwe`) is unwieldy and does not exactly fit, e.g. writing 100 000 is not an orthographic error, but rather orthographically normative, and neither is it a fixed expression.
+We do not see that this is an improvement over simply allowing the space, and the alternative (to have each 000 as a 
+separate token and use `goeswith` or `mwe`) is unwieldy and does not exactly fit, e.g. writing 100 000 is not an 
+orthographic error, but rather orthographically normative, and neither is it a fixed expression.
 
-## Spaces in normalising abbreviations
+The new tokenisation would be:
 
-<!--  Sådana ämnen är t_ex alkohol , koffein , opium och kokain . -->
+~~~ sdparse
+de 8⎵500 à 20⎵000 euros \n from 8,500 to 20,000 euros
+~~~
 
+#### Spaces in normalising abbreviations
 
-## Spaces between a syntactic word and a bound morpheme
+Spaces should be allowed in order to normalise abbreviations, in Swedish "e.g." can be written either "t.ex." or "t ex"
 
+With space "t ex":
 
-## Approval and validation process
+~~~ sdparse
+Idrottsmateriel t_ex spikskor , kompass , kartfodral \n Sporting.goods e.⎵g. spiked.shoes , compass , map.holder
+~~~
 
+Without space "t.ex.":
+
+~~~ sdparse
+Det gäller t.ex. säsongarbetslösa byggnadsarbetare . \n This applies.to e.g. seasonally.unemployed building.workers .
+~~~
+
+#### Spaces between a syntactic word and a bound morpheme
+
+In Tuvan, in some tenses, the person/number agreement is written separate from the verbal morpheme. We propose allowing these to be tokenised as one unit
+
+~~~sdparse
+Мен Кызылга чурттап турган⎵мен .  \n I Kyzyl.to living standing.am
+nsubj(чурттап, Мен)
+aux(чурттап, турган⎵мен)
+nmod(чурттап, Кызылга)
+~~~
 
