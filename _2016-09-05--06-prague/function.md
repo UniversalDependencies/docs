@@ -34,9 +34,9 @@ Note that this does not necessarily mean that all non-verb aux dependents in the
 The [u-dep/case]() relation is used for adpositions and other particles that perform a case-marking function (in a wide sense). For example: 
 
 ~~~ sdparse
-he believes in her
-nmod(believes, her)
-case(her, in)
+he depends on her
+nmod(depends, her)
+case(her, on)
 ~~~
 
 The [u-dep/mark]() relation is used for subordinate conjunctions and other words that mark subordinate clauses (without having a referential function like relative pronouns). Thus:
@@ -48,8 +48,8 @@ mark(raining, that)
 ~~~
 
 The assumption in v1 is that if the head is a nominal, only [u-dep/case]() can be used, and if the head is a clausal predicate, only [u-dep/mark]() can be used. However, applying this rule strictly means missing important generalizations
-in languages that allow case-marking elements to attach to subordinate clauses. For example, in the following Swedish 
-examples, it seems more natural to allow both [u-dep/case]() and [u-dep/mark]() to attach to a clausal predicate:
+in languages that allow case-marking elements to attach to subordinate clauses. Consider the following Swedish 
+examples:
 
 ~~~ sdparse
 han tror henne \n he believes her
@@ -77,3 +77,4 @@ case(regnar, på)
 
 The function of the preposition "på" is exactly the same in the second and fourth example, namely to convert a structure that can occur in a core role ([u-dep/dobj](), [u-dep/ccomp]()) to a structure that occurs in an oblique role 
 ([u-dep/nmod](), [u-dep/advcl]()). This function is completely distinct from the function of "att" in the third and fourth example, namely to convert a main clause structure into a subordinate or embedded clause. If we insist that "på" must be labed [u-dep/mark]() in the fourth example, because it attaches to a clausal predicate, then its function will be misrepresented.
+
