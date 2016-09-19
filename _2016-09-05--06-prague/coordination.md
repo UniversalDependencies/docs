@@ -64,8 +64,8 @@ Erkek kardeşi sadece bisiklet ama o araba aldı . \n Male sibling only bicycle 
 nsubj(aldı, o)
 dobj(aldı, araba)
 cc(aldı, ama)
-conj/nsubj(aldı, kardeşi)
-conj/dobj(aldı, bisiklet)
+conj>nsubj(aldı, kardeşi)
+conj>dobj(aldı, bisiklet)
 compound(kardeşi, Erkek)
 ~~~
 
@@ -76,8 +76,8 @@ ROOT Erkek kardeşi sadece bisiklet ama o araba aldı . \n Male sibling only bic
 nsubj(aldı, o)
 dobj(aldı, araba)
 cc(aldı, ama)
-root/dobj(ROOT, bisiklet)
-root/nsubj(ROOT, kardeşi)
-root/conj(ROOT, aldı)
+root>dobj(ROOT, bisiklet)
+root>nsubj(ROOT, kardeşi)
+root>conj(ROOT, aldı)
 compound(kardeşi, Erkek)
 ~~~
