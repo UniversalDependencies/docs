@@ -9,7 +9,7 @@ The first version of the guidelines provided very little guidance regarding the 
 
 * The enhanced representation should include:
     - Null nodes for elided predicates
-    - Propagation over coordinated structures
+    - Propagation of conjuncts
     - Additional subject relations for control and raising constructions
     - Arguments of passives (and other valency-changing constructions)
     - Coreference in relative clause constructions 
