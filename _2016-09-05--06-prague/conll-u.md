@@ -5,16 +5,18 @@ title:  'CoNLL-U Format in UD v2'
 
 # CoNLL-U Format in UD v2
 
-* A change in the number of columns and/or their meaning was opposed in the fear of breaking peoples' tools.
+Some of the proposed changes will require modifications to the CoNLL-U format. Whenever possible, we want to do this in the least disruptive fashion possible, keeping backward compatibility as far as we can. In particular, we strongly recommend not changing the number of fields and/or their meaning for fear of breaking people's tools. We recommend the following changes for v2:
 
-## Form field
+* Allow spaces in the `FORM` field (see [word segmentation](word-segmentation.html))
+* Let the `DEPS` field contain the entire enhanced dependency graph (not only additional relations on top of the basic trees)
+* Allow empty nodes with an indexing scheme distinct from both tokens and words and with relations in the `DEPS` field
+* Allow phrase-level features in the `FEATS` field
+* Standardize sentence-level metadata
+* Restrict the use of the `MISC` field for ease of processing
 
-It is likely that at least for some languages like Vietnamese the
-"no space in the `FORM` field" requirement will be dropped.
+## Enhanced representation in the DEPS field
 
-## Deps field
-
-* The `deps` field holds the *enhanced* representation. Unlike
+The `deps` field holds the *enhanced* representation. Unlike
   previously thought, it seems a better idea for the `DEPS` field
   to hold the entire enhanced parsed graph, not only a smaller set
   of relations on top of the base layer in `HEAD+DEPREL`. The primary
@@ -24,18 +26,18 @@ It is likely that at least for some languages like Vietnamese the
 
 ## Empty nodes in the enhanced representation
 
-* A mechanism is needed for empty nodes in the enhanced representation
+A mechanism is needed for empty nodes in the enhanced representation
 (the base representation will always be empty-node-free). These will
 be on their separate lines indexed as `E2.1` which means "the first
 empty node after the syntactic word indexed 2". This line would be
 placed right after the word 2. Naturally, these empty nodes can be
 referred to only from the `DEPS` field.
 
-* There doesn't seem to be a clear idea of whether the empty nodes
+There doesn't seem to be a clear idea of whether the empty nodes
 should receive any values in the `FORM, LEMMA, UPOS, FEAT`
 fields. Probably `UPOS` could be somehow realistically filled.
 
-* Grepping out all lines which start with E is now sufficient to obtain
+Grepping out all lines which start with E is now sufficient to obtain
 a CoNLL-U file without empty nodes whose `HEAD` and `DEPREL` fields behave
 as usual.
 
