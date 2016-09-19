@@ -38,10 +38,10 @@ fixed(qu', plutôt)
 ~~~
 
 ~~~ sdparse
-She said : aaa bbb ccc
-parataxis(said, ccc)
-foreign(ccc, bbb)
-foreign(ccc, aaa)
+She said : ez esan lasai
+parataxis(said, lasai)
+foreign(lasai, esan)
+foreign(lasai, ez)
 ~~~
 
 ~~~ sdparse
