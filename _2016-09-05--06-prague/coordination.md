@@ -5,7 +5,7 @@ title:  'Coordination in UD v2'
 
 # Coordination in UD v2
 
-Coordination is analyzed by having direct [ud-dep/conj]() relations between conjuncts in accordance with the general principle of prioritizing relations between content word. In v1, the first conjunct was taken to be the head not only of all following conjuncts but also of any intervening coordinating conjunctions and punctuation. For v2, we propose the following changes:
+Coordination is analyzed by having direct [u-dep/conj]() relations between conjuncts in accordance with the general principle of prioritizing relations between content word. In v1, the first conjunct was taken to be the head not only of all following conjuncts but also of any intervening coordinating conjunctions and punctuation. For v2, we propose the following changes:
 
 * Attach coordinating conjunctions and punctuation to the immediately succeding conjunct (instead of the first)
 * Treat coordination as a right-headed structure that consistently allow gapping (only) in earlier conjuncts
@@ -57,4 +57,4 @@ conj/dobj(won, bronze)
 
 If the verb of the rightmost clause was treated as the root in the first sentence, there would be no parallel analysis of the second sentence.
 
-For the same reason, if a language consistently exhibits gapping in preceding (rather than following) clauses, this may be an argument for treating coordination structures as right-headed in that languages. If, on the other hand, the language allows gapping in both preceding and succeeding clauses, the default assumption of left-headedness should be maintained for coordination.
+For the same reason, if a language consistently exhibits gapping in preceding (rather than following) clauses, this may be an argument for treating coordination structures as right-headed in that language. If, on the other hand, the language allows gapping in both preceding and succeeding clauses, the default assumption of left-headedness should be maintained for coordination.
