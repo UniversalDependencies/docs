@@ -39,15 +39,15 @@ fields. Probably `UPOS` could be somehow realistically filled.
 a CoNLL-U file without empty nodes whose `HEAD` and `DEPREL` fields behave
 as usual.
 
-```
-1	Mary	_	_	_	_	2	nsubj	2:nsubj	_
-2	won	_	_	_	_	0	root	0:root	_
-3	silver	_	_	_	_	2	dobj	2:dobj	_
-4	and	_	_	_	_	2	conj>cc	E5.1:cc	_
-5	Sue	_	_	_	_	2	conj>nsubj	E5.1:nsubj	_
-E5.1	_	_	_	_	_	2	conj	2:conj	_
-6	bronze	_	_	_	_	2	conj>dobj	E5.1:dobj	_
-```
+
+    1	Mary	_	_	_	_	2	nsubj	2:nsubj	_
+    2	won	_	_	_	_	0	root	0:root	_
+    3	silver	_	_	_	_	2	dobj	2:dobj	_
+    4	and	_	_	_	_	2	conj>cc	E5.1:cc	_
+    5	Sue	_	_	_	_	2	conj>nsubj	E5.1:nsubj	_
+    E5.1	_	_	_	_	_	2	conj	2:conj	_
+    6	bronze	_	_	_	_	2	conj>dobj	E5.1:dobj	_
+
 
 ## Phrase-level features
 
