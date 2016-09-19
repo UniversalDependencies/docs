@@ -5,10 +5,10 @@ title:  'Segmentation in UD v2'
 
 # Segmentation in UD v2
 
-We propose the following changes to the treatment of word segmentation in UD v2:
+The UD scheme makes a distinction between **tokens**, word-like elements that can be identified using simple rules, often relying (only) on whitespace and punctuation, and **words**, which are the linguistically relevant word units needed for morphological and syntactic analysis. In v1, it was assumed that words would never contain spaces, and that "multitoken words" should always be handled using special relations like [u-dep/mwe]() and [u-dep/goeswith](). For v2, we propose to relax this assumption in two ways:
 
-* Allow words with spaces for languages where spaces mark something else than word boundaries (for example, syllable boundaries as in Vietnamese). 
-* Allow words with spaces for an approved (and restricted) list of exceptions like numbers (“100 000”) and abbreviations (“i. e.”).
+* Allow words with spaces for languages where spaces mark something else than word boundaries (for example, syllable boundaries as in Vietnamese)
+* Allow words with spaces (in any language) for an approved (and restricted) list of exceptions like numbers (“100 000”) and abbreviations (“i. e.”)
 
 Throughout the remainder of this text, the symbol `⎵` will be used to indicate orthographic space.
 
@@ -16,17 +16,17 @@ Throughout the remainder of this text, the symbol `⎵` will be used to indicate
 
 There are two main problems with the current treatment of word segmentation:
 
-* The first is that for some languages (Vietnamese being the prototypical example) space is not a word boundary, but rather a syllable boundary. 
-* In other languages, some kind of spacing character is used as a delimiter in numerals, or is optionally used in abbreviations 
+* The first is that for some languages (Vietnamese being the prototypical example) spaces do not mark word boundaries, but rather syllable boundaries. 
+* In other languages, some kind of spacing character is used as a delimiter in numerals, or is optionally used in abbreviations. 
 
 ### Spaces as syllable delimiters 
 
-There is pretty much unanimous agreement that spaces should be allowed in the Vietnamese treebank, and tokens should be (syntactic) words and not syllables. As far as we know Vietnamese is the only language where this is necessary, but still all tools will need to be able to support having spaces in CoNLL-U columns. Consider the following example, "Minh is (a) teacher.", where <i>giáo viên</i> is a bisyllabic word meaning "teacher". (Currently using underscore, "giáo⎵viên", because even the tree visualization tool cannot work with word-internal spaces.)
+There is pretty much unanimous agreement that words with spaces should be allowed in the Vietnamese treebank, because the alternative of treating all polysyllabic words as multiword expressions would artificially make Vietnamese look very different from all other languages. As far as we know, Vietnamese is the only language where this is necessary, but still all tools will need to be able to support having spaces in CoNLL-U columns. Consider the following example, "Minh is (a) teacher.", where <i>giáo viên</i> is a bisyllabic word meaning "teacher". (Currently using underscore, "giáo⎵viên", because even the tree visualization tool cannot work with word-internal spaces.)
 
 ~~~ conllu
 1	Minh	Minh	PROPN	_	_	3	nsubj	_	_
 2	là	là	VERB	_	_	3	cop	_	_
-3	giáo⎵viên	giáo⎵viên	NOUN	_	_	0	root	_	_
+3	giáo⎵viên	giáo⎵viên	NOUN	_	_	0	  root  _ _
 4	.	.	PUNCT	_	_	3	punct	_	_
 ~~~
 
