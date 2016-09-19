@@ -568,7 +568,9 @@ nmod(estaba, pueblo)
 
 #### Russian
 
-In Russian, there is no copula verb in the present tense, in the future tense, the verb _быть_ "be" is used. Note that when the copula verb is used, the complement can be either in nominative or instrumental case. When it is instrumental it is `is category of` and when it is nominative it is more like `has quality of`. We propose using the same structure for both.
+In Russian, there is no copula verb in the present tense. In the future and past tenses, the verb _быть_ "be" is used.
+Note that when the copula verb is used, the complement can be either in nominative or instrumental case.
+When it is instrumental it is `is category of` and when it is nominative it is more like `has quality of`. We propose using the same structure for both.
 
 (1)
 
