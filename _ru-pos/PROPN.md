@@ -20,8 +20,7 @@ It denotes a concrete location (rather than a property of somebody/something)
 and its feminine gender is fixed (while adjectives have forms in all three
 genders).
 
-Note that names of languages _(русский, английский)_
-and adjectives derived from geographical names _(русский, английский&nbsp;_ “Czech, English”)
+Note that adjectives derived from geographical names _(русский, английский&nbsp;_ “Russian, English”)
 are written in lowercase and are not tagged `PROPN`.
 
 Personal names are typically treated as a sequence of proper nouns
@@ -38,7 +37,7 @@ first word of a multi-word name, and thus it starts with an uppercase letter,
 it is still tagged `ADJ`.
 Similarly, function words in named entities retain their normal tags.
 These rules are less strict for foreign named entities where the original
-part of speech is hidden for a Czech speaker.
+part of speech is hidden for a Russian speaker.
 
 ### Examples
 
