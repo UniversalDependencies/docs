@@ -7,6 +7,11 @@ title:  'CoNLL-U Format in UD v2'
 
 * A change in the number of columns and/or their meaning was opposed in the fear of breaking peoples' tools.
 
+## Form field
+
+It is likely that at least for some languages like Vietnamese the
+"no space in the `FORM` field" requirement will be dropped.
+
 ## Deps field
 
 * The `deps` field holds the *enhanced* representation. Unlike
@@ -53,10 +58,14 @@ etc. In the CoNLL-U file, phrase-level features are prefixed with the
 advantage of them sorting after any standard features.
 
 
-## Misc field and sentence-level metadata
+## Sentence-level metadata
 
 * Sentence-level metadata can be provided as before and all tools are required to pass it through, as before. No particular requirements are put on these fields other than "no trailing whitespace".
 * Several recognized key = value pairs are standardized:
   * sentence_id = global_sentence_id
   * text = sentence text
-* The only global requirement on the MISC field is that it can be split on the `|` (bar) character. The requirement of MISC containing zero whitespace characters is dropped. Of course no TAB characters are allowed.
+
+## MISC field
+* The only global requirement on the `MISC` field is that it can be split on the `|` (bar) character without any complex processing of escaping. The requirement of `MISC` containing zero whitespace characters is dropped. Of course no TAB characters are allowed and no trailing whitespace is allowed.
+* It is likely that `spacesBefore` and `spacesAfter` will be standardized as a part of the `MISC` field.
+
