@@ -19,7 +19,7 @@ The proposed change is therefore to change the label `mwe` (multiword expression
 
 ## Change arrow direction
 
-For non-dependency relations, it was (more or less) arbitrarily decided in v1 to draw arrows from left to right out of the first word. With hindsight, a more harmonious choice for most languages would have been to instead draw arrows from right to left out of the last word. We propose to make this change for `fixed` (currently [u-dep/mwe]()), [u-dep/foreign]() and `flat` (currently [u-dep/mwe]()). Examples:
+For non-dependency relations, it was (more or less) arbitrarily decided in v1 to draw arrows from left to right out of the first word. With hindsight, a more harmonious choice for most languages would have been to instead draw arrows from right to left out of the last word. We propose to make this change for `fixed` (currently [u-dep/mwe]()), [u-dep/foreign]() and `flat` (currently [u-dep/name]()). Examples:
 
 ~~~ sdparse
 I like dogs as well as cats
