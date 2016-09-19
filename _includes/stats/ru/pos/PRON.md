@@ -146,7 +146,7 @@ The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 6946, [PRON]()
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.666667 (the average of all parts of speech is 2.787274).
+The form / lemma ratio of `PRON` is 4.666667 (the average of all parts of speech is 2.787318).
 
 The 1st highest number of forms (10) was observed with the lemma “ОНО”: <em>его, ему, им, им., него, нем, нему, ним, нём, оно</em>.
 

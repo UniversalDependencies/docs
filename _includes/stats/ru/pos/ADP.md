@@ -137,7 +137,7 @@ The 10 most frequent ambiguous types:  <em>в</em> ([ADP]() 25567, [NOUN]() 2), 
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.173077 (the average of all parts of speech is 2.787274).
+The form / lemma ratio of `ADP` is 1.173077 (the average of all parts of speech is 2.787318).
 
 The 1st highest number of forms (3) was observed with the lemma “О”: <em>о, об, обо</em>.
 

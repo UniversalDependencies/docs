@@ -157,8 +157,8 @@ This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
 312440 tokens (30%) have a non-empty value of `Animacy`.
-58390 types (53%) occur at least once with a non-empty value of `Animacy`.
-25073 lemmas (63%) occur at least once with a non-empty value of `Animacy`.
+58389 types (53%) occur at least once with a non-empty value of `Animacy`.
+25072 lemmas (63%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 4 part-of-speech tags: [ru-pos/NOUN]() (299510; 29% instances), [ru-pos/ADJ]() (10452; 1% instances), [ru-pos/VERB]() (1291; 0% instances), [ru-pos/NUM]() (1187; 0% instances).
 
 ### `NOUN`
@@ -180,7 +180,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><em>человеку</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td><em>людям</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><em>человека, чел.</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>людей, человек, чел., чел, человеков</em></td><td><em>чел</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>людей, человек, чел., человеков, чел</em></td><td><em>чел</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing</tt></td><td><em>человеком</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Plur</tt></td><td><em>людьми</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>человеке</em></td><td></td></tr>
@@ -210,13 +210,13 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
   <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>которых</em></td><td><em>которые</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `ADJ`. 91% lemmas (2316) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `ADJ`. 91% lemmas (2315) occur only with one value of `Animacy`.
 
 ### `VERB`
 
 1291 [ru-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1291; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1291; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1291; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1291; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (778; 60%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (778; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (718; 56%), <tt><a href="Voice.html">Voice</a>=Act</tt> (668; 52%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (652; 51%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1291; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1291; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1291; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1291; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (778; 60%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (778; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (718; 56%), <tt><a href="Voice.html">Voice</a>=Act</tt> (668; 52%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (652; 51%).
 
 `VERB` tokens may have the following values of `Animacy`:
 

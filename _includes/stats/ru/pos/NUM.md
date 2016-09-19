@@ -141,7 +141,7 @@ The 10 most frequent ambiguous types:  <em>несколько</em> ([NUM]() 516,
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.071053 (the average of all parts of speech is 2.787274).
+The form / lemma ratio of `NUM` is 1.071053 (the average of all parts of speech is 2.787318).
 
 The 1st highest number of forms (8) was observed with the lemma “ОБА”: <em>оба, обе, обеим, обеими, обеих, обоим, обоими, обоих</em>.
 

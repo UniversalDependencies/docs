@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 1 [ru-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
@@ -65,7 +65,7 @@ The feature is used with 2 part-of-speech tags: [ru-pos/VERB]() (94244; 9% insta
 
 94244 [ru-pos/VERB]() tokens (80% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (82117; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (80185; 85%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (73100; 78%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (73100; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (59244; 63%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (58674; 62%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (57351; 61%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (55016; 58%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (82117; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (80185; 85%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (73100; 78%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (73100; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (59244; 63%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (58674; 62%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (57351; 61%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (55016; 58%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -141,6 +141,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (102; 57%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (20; 100%),
 <tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (3; 75%),
-<tt>VERB --[<a href="../dep/name.html">name</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/auxpass.html">auxpass</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/auxpass.html">auxpass</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/name.html">name</a>]--> VERB</tt> (1; 100%).
 

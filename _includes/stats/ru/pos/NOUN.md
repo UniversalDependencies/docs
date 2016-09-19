@@ -151,7 +151,7 @@ The 10 most frequent ambiguous types:  <em>это</em> ([NOUN]() 3180, [DET]() 3
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.251629 (the average of all parts of speech is 2.787274).
+The form / lemma ratio of `NOUN` is 2.251629 (the average of all parts of speech is 2.787318).
 
 The 1st highest number of forms (15) was observed with the lemma “ТОННЕЛЬ”: <em>тоннеле, тоннелей, тоннели, тоннель, тоннелю, тоннеля, тоннелям, тоннелями, тоннелях, туннеле, туннелем, туннель, туннелю, туннеля, туннелями</em>.
 

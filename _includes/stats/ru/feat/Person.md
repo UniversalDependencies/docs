@@ -16,7 +16,7 @@ The feature is used with 9 part-of-speech tags: [ru-pos/VERB]() (2184; 2% instan
 
 2184 [ru-pos/VERB]() tokens (23% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (2180; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2180; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2180; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2168; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2146; 98%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2057; 94%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2009; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (1582; 72%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (2180; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2180; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2180; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2168; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2146; 98%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2057; 94%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2009; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (1582; 72%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 12 [ru-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (9; 75%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 58%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (7; 58%).
+The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (9; 75%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (7; 58%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 58%).
 
 `ADJ` tokens may have the following values of `Person`:
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 6 [ru-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (6; 100%).
+The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (6; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 100%).
 
 `PROPN` tokens may have the following values of `Person`:
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 
 5 [ru-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (4; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 60%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (3; 60%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (4; 80%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (3; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 60%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 1 [ru-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Person`:
 
@@ -117,8 +117,8 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>PROPN --[<a href="../dep/name.html">name</a>]--> PROPN</tt> (3; 100%),
 <tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/vocative.html">vocative</a>]--> PRON</tt> (2; 100%),
-<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADV</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADV</tt> (1; 100%),
+<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%).
 
 
 
@@ -159,7 +159,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 2012 [ru-pos/AUX]() tokens (25% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (2012; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2012; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2012; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2012; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1986; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1986; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1306; 65%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2012; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2012; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2012; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2012; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1986; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1986; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1306; 65%).
 
 `AUX` tokens may have the following values of `Person`:
 

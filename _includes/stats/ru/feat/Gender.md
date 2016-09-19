@@ -259,7 +259,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 4022 [ru-pos/AUX]() tokens (51% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (4022; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4022; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4022; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4022; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4022; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4020; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4020; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (4022; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4022; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4022; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4022; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4022; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4020; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4020; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 

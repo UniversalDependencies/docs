@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` types:  <em>что, где, когда, чтобы,
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 26660, [PUNCT]() 18807, [ADJ]() 12528, [ADP]() 10735, [VERB]() 9436, [PROPN]() 7604, [CONJ]() 3168, [ADV]() 2142, [NUM]() 1900, [PRON]() 1763, [X]() 1700, [DET]() 1673, [SCONJ]() 624, [PART]() 491, [SYM]() 158)
 
-The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 250, [PRON]() 53, [DET]() 13, [ADP]() 12, [NOUN]() 1), <em>где</em> ([SCONJ]() 69, [ADV]() 25), <em>когда</em> ([SCONJ]() 46, [ADV]() 3), <em>как</em> ([ADP]() 175, [ADV]() 58, [SCONJ]() 30, [CONJ]() 4), <em>так</em> ([ADV]() 45, [SCONJ]() 27, [CONJ]() 8, [ADP]() 4), <em>хотя</em> ([SCONJ]() 21, [X]() 2, [CONJ]() 1), <em>если</em> ([SCONJ]() 15, [ADP]() 1), <em>поэтому</em> ([SCONJ]() 10, [ADV]() 1, [ADP]() 1), <em>пока</em> ([SCONJ]() 9, [ADV]() 5), <em>потому</em> ([ADV]() 9, [SCONJ]() 7, [ADP]() 3)
+The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 250, [PRON]() 53, [DET]() 13, [ADP]() 12, [NOUN]() 1), <em>где</em> ([SCONJ]() 69, [ADV]() 25), <em>когда</em> ([SCONJ]() 46, [ADV]() 3), <em>как</em> ([ADP]() 175, [ADV]() 58, [SCONJ]() 30, [CONJ]() 4), <em>так</em> ([ADV]() 45, [SCONJ]() 27, [CONJ]() 8, [ADP]() 4), <em>хотя</em> ([SCONJ]() 21, [X]() 2, [CONJ]() 1), <em>если</em> ([SCONJ]() 15, [ADP]() 1), <em>поэтому</em> ([SCONJ]() 10, [ADP]() 1, [ADV]() 1), <em>пока</em> ([SCONJ]() 9, [ADV]() 5), <em>потому</em> ([ADV]() 9, [SCONJ]() 7, [ADP]() 3)
 
 
 * <em>что</em>
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 250, [PRON]() 
   * [ADP]() 1: <em>Такова логика всякой революции , тем более <b>если</b> она происходит где - нибудь на Востоке -- брат вынужден воевать против брата , отец -- против сына .</em>
 * <em>поэтому</em>
   * [SCONJ]() 10: <em>Дождь является скорее исключением для Формулы - 1 , <b>поэтому</b> чаще всего используются шины для сухой трассы .</em>
-  * [ADV]() 1: <em>Отчасти , вероятно , <b>поэтому</b> Лилиенкрон поступил в военное училище .</em>
   * [ADP]() 1: <em>В определённый момент Зепп узнаёт , что он популярен лишь потому , что является высокопоставленным чиновником , красавчиком и везунчиком , и <b>поэтому</b> начинает уважать и ценить преданность Кифа .</em>
+  * [ADV]() 1: <em>Отчасти , вероятно , <b>поэтому</b> Лилиенкрон поступил в военное училище .</em>
 * <em>пока</em>
   * [SCONJ]() 9: <em>Он избил её металлическим прутом , <b>пока</b> она не потеряла сознание .</em>
   * [ADV]() 5: <em>Со временем эту функцию возьмет на себя плацента , которой <b>пока</b> нет .</em>
@@ -143,7 +143,7 @@ The 10 most frequent ambiguous types:  <em>что</em> ([SCONJ]() 6946, [PRON]()
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.166667 (the average of all parts of speech is 2.787274).
+The form / lemma ratio of `SCONJ` is 1.166667 (the average of all parts of speech is 2.787318).
 
 The 1st highest number of forms (2) was observed with the lemma “ЧТО”: <em>чем, что</em>.
 

@@ -114,15 +114,6 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 * `Sing` (2; 100% of non-empty `Number`): <em>prius, Возможно</em>
 * `EMPTY` (2140): <em>более, как, так, только, вместе, затем, впервые, позже, здесь, менее</em>
 
-### `SCONJ`
-
-1 [ru-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Number`.
-
-`SCONJ` tokens may have the following values of `Number`:
-
-* `Sing` (1; 100% of non-empty `Number`): <em>что</em>
-* `EMPTY` (623): <em>что, где, когда, чтобы, как, так, хотя, если, поскольку, поэтому</em>
-
 ### `SYM`
 
 1 [ru-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Number`.
@@ -131,6 +122,15 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (1; 100% of non-empty `Number`): <em>cm</em>
 * `EMPTY` (157): <em>%, /, +, *, °, =, $, €, justjared.com</em>
+
+### `SCONJ`
+
+1 [ru-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Number`.
+
+`SCONJ` tokens may have the following values of `Number`:
+
+* `Sing` (1; 100% of non-empty `Number`): <em>что</em>
+* `EMPTY` (623): <em>что, где, когда, чтобы, как, так, хотя, если, поскольку, поэтому</em>
 
 ## Relations with Agreement in `Number`
 
@@ -156,8 +156,8 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 528847 tokens (51%) have a non-empty value of `Number`.
-109581 types (99%) occur at least once with a non-empty value of `Number`.
-35741 lemmas (90%) occur at least once with a non-empty value of `Number`.
+109580 types (99%) occur at least once with a non-empty value of `Number`.
+35740 lemmas (90%) occur at least once with a non-empty value of `Number`.
 The feature is used with 5 part-of-speech tags: [ru-pos/NOUN]() (299480; 29% instances), [ru-pos/ADJ]() (112445; 11% instances), [ru-pos/VERB]() (91361; 9% instances), [ru-pos/DET]() (18416; 2% instances), [ru-pos/AUX]() (7145; 1% instances).
 
 ### `NOUN`
@@ -302,7 +302,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 7145 [ru-pos/AUX]() tokens (91% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (7145; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7145; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7141; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7115; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5133; 72%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5133; 72%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7145; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7145; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7141; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7115; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5133; 72%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5133; 72%).
 
 `AUX` tokens may have the following values of `Number`:
 

@@ -42,6 +42,24 @@ The following 43 pairs of parts of speech are connected with `mwe`: [ru-pos/CONJ
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 mwe	color:blue
+1	В	_	ADP	IN	_	4	case	_	_
+2	течение	_	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	mwe	_	_
+3	долгого	_	ADJ	JJL	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	amod	_	_
+4	времени	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+5	изучал	_	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past	0	root	_	_
+6	язык	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	_
+7	майя	_	PROPN	NNP	Animacy=Anim|Case=Gen|Number=Plur	6	nmod	_	_
+8	.	_	PUNCT	.	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
@@ -57,24 +75,6 @@ The following 43 pairs of parts of speech are connected with `mwe`: [ru-pos/CONJ
 8	прикрыта	_	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	4	advcl	_	_
 9	переднеспинкой	_	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	iobj	_	_
 10	.	_	PUNCT	.	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 mwe	color:blue
-1	В	_	ADP	IN	_	4	case	_	_
-2	течение	_	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	mwe	_	_
-3	долгого	_	ADJ	JJL	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	amod	_	_
-4	времени	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
-5	изучал	_	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past	0	root	_	_
-6	язык	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	_
-7	майя	_	PROPN	NNP	Animacy=Anim|Case=Gen|Number=Plur	6	nmod	_	_
-8	.	_	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

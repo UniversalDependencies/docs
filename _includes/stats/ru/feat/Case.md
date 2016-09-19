@@ -148,15 +148,6 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Nom` (2; 100% of non-empty `Case`): <em>prius, Возможно</em>
 * `EMPTY` (2140): <em>более, как, так, только, вместе, затем, впервые, позже, здесь, менее</em>
 
-### `SYM`
-
-1 [ru-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Case`.
-
-`SYM` tokens may have the following values of `Case`:
-
-* `Gen` (1; 100% of non-empty `Case`): <em>cm</em>
-* `EMPTY` (157): <em>%, /, +, *, °, =, $, €, justjared.com</em>
-
 ### `SCONJ`
 
 1 [ru-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Case`.
@@ -165,6 +156,15 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 * `Nom` (1; 100% of non-empty `Case`): <em>что</em>
 * `EMPTY` (623): <em>что, где, когда, чтобы, как, так, хотя, если, поскольку, поэтому</em>
+
+### `SYM`
+
+1 [ru-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Case`.
+
+`SYM` tokens may have the following values of `Case`:
+
+* `Gen` (1; 100% of non-empty `Case`): <em>cm</em>
+* `EMPTY` (157): <em>%, /, +, *, °, =, $, €, justjared.com</em>
 
 ## Relations with Agreement in `Case`
 
@@ -190,8 +190,8 @@ This feature is universal.
 It occurs with 8 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Par`, `Voc`.
 
 437740 tokens (42%) have a non-empty value of `Case`.
-88702 types (81%) occur at least once with a non-empty value of `Case`.
-32646 lemmas (82%) occur at least once with a non-empty value of `Case`.
+88701 types (81%) occur at least once with a non-empty value of `Case`.
+32645 lemmas (82%) occur at least once with a non-empty value of `Case`.
 The feature is used with 6 part-of-speech tags: [ru-pos/NOUN]() (299470; 29% instances), [ru-pos/ADJ]() (103761; 10% instances), [ru-pos/DET]() (18416; 2% instances), [ru-pos/VERB]() (12127; 1% instances), [ru-pos/NUM]() (3962; 0% instances), [ru-pos/AUX]() (4; 0% instances).
 
 ### `NOUN`
@@ -275,7 +275,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 12127 [ru-pos/VERB]() tokens (10% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (12127; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (12127; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (12127; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (7173; 59%), <tt><a href="Number.html">Number</a>=Sing</tt> (6870; 57%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (6415; 53%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6267; 52%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (12127; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (12127; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (12127; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (7173; 59%), <tt><a href="Number.html">Number</a>=Sing</tt> (6870; 57%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (6415; 53%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6267; 52%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -339,7 +339,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 4 [ru-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 

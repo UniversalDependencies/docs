@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 2 [ru-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Reflex`:
 
