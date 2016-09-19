@@ -242,7 +242,9 @@ dobj(read, book)
 
 ### To discuss
 
-Should this also be applied to relative pronouns that refer to adnominal or adverbial modifiers? And what should we do with dependents of the relative pronoun such as case markers?
+* Should we use special relation names (e.g., `nsubj:xsubj`) for the indirect relations? 
+* Should this treatment be extended to relative pronouns that refer to adnominal or adverbial modifiers? 
+* What should we do with dependents of the relative pronoun such as case markers?
 
 Examples:
 
