@@ -8,7 +8,7 @@ title:  'Multiword Expressions in UD v2'
 Since UD does not allow "words with spaces" (but see a partly new proposal under [word segmentation](word-segmentation.html)), even completely fixed multiword expressions must be annotated with (dummy) dependency relations. To improve annotation consistency, we propose the following changes for v2:
 
 * Rename [u-dep/mwe]() to **fixed** and make clear that this should only be used for completely fixed expressions
-* Change the direction of arrows (right-to-left instead of left-to-right) for consistency with other non-dependency relations (see [semantic categories](semantic-categories.html))
+* Change the direction of arrows (right-to-left instead of left-to-right) for this relation as well as the other non-dependency relations [u-dep/name]() and [u-dep/foreign]() (see also [semantic categories](semantic-categories.html))
 
 ## Rename mwe to fixed
 
@@ -19,7 +19,7 @@ The proposed change is therefore to change the label `mwe` (multiword expression
 
 ## Change arrow direction
 
-For consistency with other relations (see [semantic categories](semantic-categories.html) ), we also suggest changing the direction of the arrows. We will keep a flat structure but all the words in the expression will modify the last word (instead of the first one). For example:
+For non-dependency relations, it was (more or less) arbitrarily decided in v1 to draw arrows from left to right out of the first word. With hindsight, a more harmonious choice for most languages would have been to instead draw arrows from right to left out of the last word. We propose to make this change for `fixed` (currently [u-dep/mwe]()), [u-dep/foreign]() and `flat` (currently [u-dep/mwe]()). Examples:
 
 ~~~ sdparse
 I like dogs as well as cats
@@ -36,3 +36,21 @@ fixed(of, because)
 Je préfère prendre un dessert plutôt qu' une entrée \n I prefer getting a dessert rather than an appetizer
 fixed(qu', plutôt)
 ~~~
+
+~~~ sdparse
+She said : aaa bbb ccc
+parataxis(said, ccc)
+foreign(ccc, bbb)
+foreign(ccc, aaa)
+~~~
+
+~~~ sdparse
+Usain Bolt won the race
+nsubj(won, Bolt)
+flat(Bolt, Usain)
+~~~
+
+However we do not extend this change to the [u-dep/reparandum]() relation. In repairs, the material to the right will be the "correct" material, and it would seem strange to have something that the speaker of the utterance wants to discard as a direct dependent of the other words in the sentence while the corrected word is buried down in the dependency graph.
+As noted by Gerdes & Kahane (2016), there are of course borderline cases between elaboration and disfluency such as *I saw a room, a bright room, a room with red lights*, but it doesn't seem wrong to us to take the last element *a room with red ligths* as the governor of *a room* and *a bright room*.
+
+
