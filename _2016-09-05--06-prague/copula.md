@@ -161,7 +161,7 @@ The problem is that she is not happy .
 nsubj:cop(happy, problem)
 nsubj:cop(happy, she)
 cop(happy, is-3)
-cop(happy, is-5)
+cop(happy, is-6)
 ~~~
 
 ### Language-specific examples
@@ -387,13 +387,13 @@ Existential constructions in Swedish do not use the copula verb.
 Det finns et hus i byen
 expl(finns, Det)
 nsubj(finns, hus)
-nmod(finns, byen)
+nmod(finns, byn)
 ~~~
 
 (12)
 
 ~~~ sdparse
-Huset är i byen
+Huset är i byn
 nsubj:cop(byen, Huset)
 cop(byen, är)
 ~~~
@@ -401,7 +401,7 @@ cop(byen, är)
 (13)
 
 ~~~ sdparse
-Det fanns et hus i byen
+Det fanns et hus i byn
 expl(fanns, Det)
 nsubj(fanns, hus)
 nmod(fanns, byen)
@@ -410,7 +410,7 @@ nmod(fanns, byen)
 (14)
 
 ~~~ sdparse
-Huset var i byen
+Huset var i byn
 nsubj:cop(byen, Huset)
 cop(byen, var)
 ~~~
@@ -672,7 +672,7 @@ In Russian, in the present tense, existential constructions use "есть" which
 ~~~ sdparse
 Есть дом в деревне
 nsubj:cop(деревне, дом)
-cop(деревне, Есть
+cop(деревне, Есть)
 ~~~
 
 (12)
