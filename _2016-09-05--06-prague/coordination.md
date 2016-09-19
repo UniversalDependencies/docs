@@ -57,4 +57,15 @@ conj/dobj(won, bronze)
 
 If the verb of the rightmost clause was treated as the root in the first sentence, there would be no parallel analysis of the second sentence.
 
-For the same reason, if a language consistently exhibits gapping in preceding (rather than following) clauses, this may be an argument for treating coordination structures as right-headed in that language. If, on the other hand, the language allows gapping in both preceding and succeeding clauses, the default assumption of left-headedness should be maintained for coordination.
+For the same reason, if a language consistently exhibits gapping in preceding (rather than following) clauses (see example in Turkish below), this may be an argument for treating coordination structures as right-headed in that language. If, on the other hand, the language allows gapping in both preceding and succeeding clauses, the default assumption of left-headedness should be maintained for coordination.
+
+~~~sdparse 
+Erkek kardeşi sadece bisiklet ama o araba aldı . \n Male sibling only bicycle but he car bought .
+nsubj(aldı, o)
+dobj(aldı, araba)
+cc(aldı, ama)
+conj/nsubj(aldı, kardeşi)
+conj/dobj(aldı, bisiklet)
+compound(kardeşi, Erkek)
+~~~
+
