@@ -7,15 +7,14 @@ title:  'Enhanced Dependencies in UD v2'
 
 The first version of the guidelines provided very little guidance regarding the _enhanced_ representation and so far only very few treebanks contain additional dependencies. For v2, we propose the following guidelines for the _enhanced_ representation:
 
-
-* We provide guidelines for the following additions:
+* The enhanced representation should include:
     - Null nodes for elided predicates
+    - Propagation over coordinated structures
     - Additional subject relations for control and raising constructions
-    - Propagation of conjuncts
-    - Arguments of passive verbs
-    - Relative clauses 
-* The _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., it is not required to contain all the relations of the original
-* We leave it up to the treebank maintainers to decide whether and to what extent they want to add relations for the enhanced representation
+    - Arguments of passives (or other valency-changing constructions)
+    - Coreference in relative clause constructions 
+* The _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., it is not required to contain all the basic dependency relations
+* In principle, everything in the enhanced representation is an optional addition to the basic representation, but we specify a recommended order for adding information (as guidance to treebank developers)
  
 
 ## Ellipsis 
