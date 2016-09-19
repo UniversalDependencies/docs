@@ -5,12 +5,12 @@ title:  'Copula in UD v2'
 
 # Copula in UD v2
 
-The treatment of copula constructions (non-verbal intransitive predication) is quite diverse in the current 
-version of the treebanks (see table below for the _status quo_). In order to provide more concrete guidelines 
-and to achieve better consistency cross-lingually and within a single language, we propose the 
+The treatment of copula constructions (non-verbal intransitive predication) is quite diverse in the current
+version of the treebanks (see table below for the _status quo_). In order to provide more concrete guidelines
+and to achieve better consistency cross-lingually and within a single language, we propose the
 following changes:
 
-* We should be maximally restrictive with respect to which words can be copulas (only one word in most languages) 
+* We should be maximally restrictive with respect to which words can be copulas (only one word in most languages)
 * The copula word should never be the root, except through promotion ("he is not happy, but she is")
 * When there is more than one possible candidate head, the rules to establish it should be determined on a language-specific basis
 * We should add the subtype `nsubj:cop` to signal that the subject in copula constructions is special, and to partially solve the problem of having to flip dependencies when the predicate is a clause (see below)
@@ -74,7 +74,7 @@ ccomp(is, keep)
 
 For language-specific examples, see below, but here is a summary:
 
-### Nominals 
+### Nominals
 
 The structure wil remain the same, but the relation will be changed to `nsubj:cop`:
 
@@ -96,7 +96,7 @@ nsubj:cop(shape, She)
 cop(shape, is)
 ~~~
 
-When there are more than one PP, the head should be the least oblique argument/modifier 
+When there are more than one PP, the head should be the least oblique argument/modifier
 according to relevant language-specific tests. For example:
 
 ~~~ sdparse
@@ -105,8 +105,8 @@ nsubj:cop(Prague, She)
 ~~~
 
 The omission test could be used:
-* _She was in Prague_ 
-*  _*She was on Tuesday_ 
+* _She was in Prague_
+*  _*She was on Tuesday_
 
 Only in cases where no tests apply should we resort to general heuristics such as "closest to the copula" and so on:
 
@@ -122,7 +122,7 @@ She was with her friends in Prague
 nsubj:cop(friends, She)
 ~~~
 
-### Clausals 
+### Clausals
 
 When there is a clausal predicate, then we make the head of that the head of the whole copula clause:
 
@@ -147,7 +147,7 @@ cop(works, is)
 However, we still get duplication of the `cop` relation where you have a copula on the right:
 
 ~~~sdparse
-To be free is to be capable of thinking one's own thoughts 
+To be free is to be capable of thinking one's own thoughts
 nsubj:cop(capable, free)
 cop(capable, is-4)
 cop(capable, be-6)
@@ -387,15 +387,15 @@ Existential constructions in Swedish do not use the copula verb.
 Det finns et hus i byen
 expl(finns, Det)
 nsubj(finns, hus)
-nmod(finns, byn)
+nmod(finns, byen)
 ~~~
 
 (12)
 
 ~~~ sdparse
 Huset är i byn
-nsubj:cop(byen, Huset)
-cop(byen, är)
+nsubj:cop(byn, Huset)
+cop(byn, är)
 ~~~
 
 (13)
@@ -404,15 +404,15 @@ cop(byen, är)
 Det fanns et hus i byn
 expl(fanns, Det)
 nsubj(fanns, hus)
-nmod(fanns, byen)
+nmod(fanns, byn)
 ~~~
 
 (14)
 
 ~~~ sdparse
 Huset var i byn
-nsubj:cop(byen, Huset)
-cop(byen, var)
+nsubj:cop(byn, Huset)
+cop(byn, var)
 ~~~
 
 #### Spanish
@@ -891,7 +891,7 @@ _Example needed_
 (8)
 
 ~~~ sdparse
-O evde 
+O evde
 nsubj:cop(evde, O)
 ~~~
 
@@ -916,7 +916,7 @@ cop(evde, -ydi)
 In Turkish (and indeed in most Turkic languages), existence is a syntactically different, using an adjective _var_ "existent", and so gets a different structure.
 
 ~~~ sdparse
-Köyde ev var 
+Köyde ev var
 nsubj:cop(var, ev)
 nmod(var, Köyde)
 ~~~
@@ -924,7 +924,7 @@ nmod(var, Köyde)
 (12)
 
 ~~~ sdparse
-Ev köyde 
+Ev köyde
 nsubj:cop(köyde, Ev)
 ~~~
 
