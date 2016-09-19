@@ -5,24 +5,21 @@ title:  'Semantic Categories in UD v2'
 
 # Semantic Categories in UD v2
 
-Some of our current relations (i.e., [u-dep/name]() and [u-dep/neg]()) seem to primarily encode semantic distinctions (rather than syntactic). The question is whether we should eliminate these from the annotation scheme and encode the distinctions with features.
+Some of our current relations (i.e., [u-dep/name]() and [u-dep/neg]()) seem to primarily encode semantic distinctions (rather than syntactic). We propose the following changes for v2:
 
-## Negation [u-dep/neg]()
+* Remove [u-dep/neg]() and instead encode negation as a feature
+* Rename [u-dep/name]() to **flat** and extend its usage beyond names
+
+## Remove neg
+
 We suggest getting rid of the [u-dep/neg]() relation which is not syntactic. Instead we will use
 
 * ordinary syntactic relations like [u-dep/advmod](), [u-dep/aux](), etc.
 * a feature Negative=Neg on the negative word to preserve the information about negation
 
-## Names [u-dep/name]()
-We suggest keeping a distinction for [u-dep/name]() but relabeling the relation as `flat`. The `name` label was another one that led to confusion. It was not intended to be used for all *named entities*, but only for proper nouns constituted of multiple nominal elements. 
+## Rename name and modify its use
 
-The changes proposed are:
-
-* Relabel `name` to `flat` (on the basis that such proper nouns constitued of multiple nominal elements do not have a clear head but are just in a flat structure)
-* Include titles in the `flat` expressions
-* Make the head the last element of the expression by default. Languages for which a head in the `flat` expression can be identified (because of morphology, such as in Finnish or Czech for instance) are allowed to choose another element as the head.
-
-**Discuss: Dan points out that the last point, which is what I remember from our Prague meeting, contradicts the "flat" structure with no clear head, and would indicate that another relation is more appropriate. Do we want to revisit this? (i.e., no choice in head for `flat`).**
+The `name` label is another one that has led to confusion. It was not intended to be used for all **named entities**, but only for names consisting of multiple nominal elements. We suggest keeping the relation but renaming it to `flat` to (a) avoid the impression that it should capture named entities in general, and (b) indicate that the relation is only appropriate when there is no clear syntactic head. After we have dropped the direct association with names, we can also extend the use of this relation to titles ("Mrs.", "President", etc.) in languages where they do not show clear head or dependent properties. Finally, consistent with the proposed changes for other headless constructions, we propose that arrows should be drawn from righ to left (see [multiword expressions](mwe.html)).
 
 ~~~ sdparse
 Hillary Rodham Clinton
@@ -46,11 +43,5 @@ foreign(sorciers, l')
 foreign(sorciers, école)
 foreign(sorciers, des)
 ~~~
-
-## Changes in the direction of arrows
-For consistency, we also suggest changing the head in `fixed` (currently [u-dep/mwe]()) and [u-dep/foreign](). Instead of having structures in which all the elements depend on the first one, all the elements will depend on the last one.
-
-However we do not extend this change to the [u-dep/reparandum]() relation. In repairs, the material to the right will be the "correct" material, and it would seem strange to have something that the speaker of the utterance wants to discard as a direct dependent of the other words in the sentence while the corrected word is buried down in the dependency graph.
-As noted by Gerdes & Kahane (2016), there are of course borderline cases between elaboration and disfluency such as *I saw a room, a bright room, a room with red lights*, but it doesn't seem wrong to us to take the last element *a room with red ligths* as the governor of *a room* and *a bright room*.
 
 
