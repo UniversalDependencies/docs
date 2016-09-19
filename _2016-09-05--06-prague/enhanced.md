@@ -11,7 +11,7 @@ The first version of the guidelines provided very little guidance regarding the 
     - Null nodes for elided predicates
     - Propagation over coordinated structures
     - Additional subject relations for control and raising constructions
-    - Arguments of passives (or other valency-changing constructions)
+    - Arguments of passives (and other valency-changing constructions)
     - Coreference in relative clause constructions 
 * The _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., it is not required to contain all the basic dependency relations
 * In principle, everything in the enhanced representation is an optional addition to the basic representation, but we specify a recommended order for adding information (as guidance to treebank developers)
@@ -192,7 +192,7 @@ dobj(given, book)
 ### To discuss
 
 * Should the _enhanced_ UD graph still contain the original subject dependencies or should we only have `[di]obj:prom`?
-
+* Should this treatment be extended to other valency-changing constructions like causatives and antipassives?
 
 ## Relative clauses
 
