@@ -27,7 +27,7 @@ iobj(cannot-keep-pace.Inf, Robot.Dat)
 ~~~ sdparse
 Мне стыдно за вас . \n I.Dat am-ashamed.PRAEDIC for you .
 iobj(стыдно, Мне)
-iobj(am-ashamed, I.Dat)
+iobj(am-ashamed.PRAEDIC, I.Dat)
 ~~~
 
 Cf. "дат-субъект" in SynTagRus.
@@ -80,11 +80,11 @@ amod(smart, is-the-most)
 amod(умен, брат)
 amod(smart, brother)
 case(брат, как)
-case(brother, as-6)
+case(brother, as-17)
 advmod(умен, так)
-advmod(smart, as-2)
+advmod(smart, as-13)
 discourse(так, же)
-discourse(as-2, then)
+discourse(as-13, then)
 ~~~
 
 ## Noun phrases with quantifiers
