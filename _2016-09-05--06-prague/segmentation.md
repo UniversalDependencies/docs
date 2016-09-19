@@ -27,7 +27,7 @@ There is pretty much unanimous agreement that words with spaces should be allowe
 
 1	Minh	Minh	PROPN	_	_	3	nsubj	_	_
 2	là	là	VERB	_	_	3	cop	_	_
-3 X X NOUN  _ _ 0 root  _ _
+3 X X NOUN _ _ 0 root _ _
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
