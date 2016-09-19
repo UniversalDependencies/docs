@@ -198,7 +198,7 @@ dobj(given, book)
 * Should the _enhanced_ UD graph still contain the original subject dependencies or should we only have `nsubj:pass(dir|ind)`?
 * Should this treatment be extended to other valency-changing constructions like causatives and antipassives?
 
-Example [tr]:
+Example [tr] (_Bilge made Deniz wash the car._):
 
 ~~~ sdparse
 Bilge arabayı Denize yıkattı . \n Bilge the.car Deniz made.wash .
