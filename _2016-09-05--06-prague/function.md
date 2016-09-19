@@ -10,7 +10,7 @@ One of the central design decisions of UD is to put priority on syntactic relati
 * Remove the part-of-speech tag [u-pos/AUX]() (see [postags](postags.html) for discussion)
 * Allow [u-dep/aux]() with other part-of-speech tags than [u-pos/VERB]() (see below)
 * Remove [u-dep/auxpass]() from the universal relations (see [core dependents](core-dependents.html) for discussion)
-* Limit languages to a single copula verb and use [u-dep/cop] for all its uses (see [copula](copula.html) for discussion)
+* Limit languages to a single copula verb and use [u-dep/cop]() for all its uses (see [copula](copula.html) for discussion)
 * Allow [u-dep/case]() with subordinate clauses when it has a clear case-marking function (see below)
 
 ## Nonverbal auxiliaries
