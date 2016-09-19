@@ -950,7 +950,8 @@ cop(köyde, -ydi)
 
 #### Irish
 
-Irish has a difference between a _copula_ verb "is" and what is called a substantive verb "bí". Only the copula verb receives the `cop` relation. The substantive verb is head and takes an argument with `xcomp`. Teresa's thesis [http://www.nclt.dcu.ie/~tlynn/Teresa_PhDThesis_final.pdf] has an in depth description of the treatment of the copula in Irish.
+Irish has a difference between a _copula_ verb "is" and what is called a substantive verb "bí". Only the copula verb receives the `cop` relation. The substantive verb is head and takes an argument with `xcomp`.
+[Teresa's thesis](http://www.nclt.dcu.ie/~tlynn/Teresa_PhDThesis_final.pdf) has an in depth description of the treatment of the copula in Irish.
 
 (1)
 
