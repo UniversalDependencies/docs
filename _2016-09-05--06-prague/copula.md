@@ -384,10 +384,10 @@ cop(huset, var)
 Existential constructions in Swedish do not use the copula verb.
 
 ~~~ sdparse
-Det finns et hus i byen
+Det finns et hus i byn
 expl(finns, Det)
 nsubj(finns, hus)
-nmod(finns, byen)
+nmod(finns, byn)
 ~~~
 
 (12)
