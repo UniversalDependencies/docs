@@ -13,7 +13,7 @@ following changes:
 * We should be maximally restrictive with respect to which words can be copulas (only one word in most languages) 
 * The copula word should never be the root, except through promotion ("he is not happy, but she is")
 * When there is more than one possible candidate head, the rules to establish it should be determined on a language-specific basis
-* We should add the subtype `nsubj:cop` to avoid having to flip dependencies when the predicate is a clause. 
+* We should add the subtype `nsubj:cop` to signal that the subject in copula constructions is special, and to partially solve the problem of having to flip dependencies when the predicate is a clause (see below)
 
 ## Problems with the current copula analysis
 
