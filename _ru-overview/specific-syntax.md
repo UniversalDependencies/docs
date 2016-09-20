@@ -103,8 +103,8 @@ Other types of QP:
 Две целых четыре десятых миллиона рублей . \n Two whole-parts four tenth million rubles .
 nummod:gov(рублей, миллиона)
 nummod:gov(rubles, million)
-nummod:gov(миллиона, десятых)
-nummod:gov(million, tenth)
+nummod:gov(миллиона, целых)
+nummod:gov(million, whole-parts)
 nummod:gov(десятых, четыре)
 nummod:gov(tenth, four)
 nummod:gov(целых, Две)
