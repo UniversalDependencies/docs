@@ -8,7 +8,7 @@ title:  'Semantic Categories in UD v2'
 Some of our current relations (i.e., [u-dep/name]() and [u-dep/neg]()) seem to primarily encode semantic distinctions (rather than syntactic). We propose the following changes for v2:
 
 * Remove [u-dep/neg]() and instead encode negation as a feature
-* Rename [u-dep/name]() to **flat** and extend its usage beyond names
+* Rename [u-dep/name]() to **flat** and extend its usage beyond names (for example, include titles)
 
 ## Remove neg
 
