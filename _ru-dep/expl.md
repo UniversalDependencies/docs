@@ -15,6 +15,6 @@ reflexive _se/si_ was labeled `compound:reflex`.)
 
 ~~~ sdparse
 Это мама звонит . \n This-is my-mother who-calles .
-expl(мама, Это)
+expl(звонит, Это)
 expl(who-calles, This-is)
 ~~~
