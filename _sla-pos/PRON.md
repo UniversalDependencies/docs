@@ -21,7 +21,7 @@ of _my_ is _já_ and the lemma of _vy_ is _ty._
 List of nominative forms of personal pronouns in various languages:
 
 * [cs] _já, ty, on, ona, ono, my, vy, oni, ony, ona_
-* [sk] _já, ty, on, ona, ono, my, vy, oni, ony_
+* [sk] _ja, ty, on, ona, ono, my, vy, oni, ony_
 * [pl] _ja, ty, on, ona, ono, my, wy, oni, one_
 * [ru] _я, ты, он, она, оно, мы, вы, они_
 * [sl] _jaz, ti, on, ona, ono, midva, vidva, onadva, mi, vi, oni, one, ona_
