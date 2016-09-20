@@ -12,6 +12,6 @@ predicate of the subject clause.
 
 ~~~ sdparse
 Забыть Ваню трудно . \n To-forget Vanya , it-is-hard .
-csubj(трудно, забыть)
+csubj(трудно, Забыть)
 csubj(it-is-hard, To-forget)
 ~~~
