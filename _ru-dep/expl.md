@@ -14,7 +14,7 @@ to increase parallelism with other languages. In the previous releases this usag
 reflexive _se/si_ was labeled `compound:reflex`.)
 
 ~~~ sdparse
-Martin se bojí zvířat . \n Martin REFLEX fears animals .
-expl(bojí, se)
-expl(fears, REFLEX)
+Это мама звонит . \n This-is my-mother who-calles .
+expl(мама, Это)
+expl(who-calles, This-is)
 ~~~
