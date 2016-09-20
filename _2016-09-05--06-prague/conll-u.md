@@ -7,7 +7,7 @@ title:  'CoNLL-U Format in UD v2'
 
 Some of the proposed changes will require modifications to the CoNLL-U format. Whenever possible, we want to do this in the least disruptive fashion possible, keeping backward compatibility as far as we can. In particular, we strongly recommend not changing the number of fields and/or their meaning for fear of breaking people's tools. We recommend the following changes for v2:
 
-* Allow spaces in the `FORM` field (see [word segmentation](word-segmentation.html))
+* Allow spaces in the `FORM` and `LEMMA` fields (see [word segmentation](word-segmentation.html))
 * Let the `DEPS` field contain the entire enhanced dependency graph (not only additional relations on top of the basic trees)
 * Allow empty nodes with an indexing scheme distinct from both tokens and words and with relations in the `DEPS` field
 * Allow phrase-level features in the `FEATS` field
@@ -47,8 +47,10 @@ Phrase-level features are features which apply to the whole phrase rather than a
 
 Sentence-level metadata can be provided as before and all tools are required to pass it through, as before. No particular requirements are put on these fields other than "no trailing whitespace". Several recognized key = value pairs should be standardized:
 
-* sentence_id = global_sentence_id
+* sent_id = global_sentence_id
 * text = sentence text
+
+`sent_id` is compulsory and as per (#321)[https://github.com/UniversalDependencies/docs/issues/321] it should not contain the `/` (slash) character.
 
 ## MISC field
 
