@@ -100,7 +100,9 @@ Other types of QP:
 * _к двум.Dat целым.Dat четырем.Dat десятым.Dat миллиона.Gen.Sg рублей.Gen.Pl_ “to 2.4 million rubles” 
 
 ~~~ sdparse
-Две целых четыре десятых миллиона рублей . \n Two whole-parts four tenth million rubles .
+Двадцать две целых четыре десятых миллиона рублей . \n Twenty two whole-parts four tenth million rubles .
+compound(Двадцать, две)
+compound(Twenty, two)
 nummod:gov(рублей, миллиона)
 nummod:gov(rubles, million)
 nummod:gov(миллиона, целых)
