@@ -50,7 +50,7 @@ Sentence-level metadata can be provided as before and all tools are required to 
 * sent_id = global_sentence_id
 * text = sentence text
 
-`sent_id` is compulsory and as per (#321)[https://github.com/UniversalDependencies/docs/issues/321] it should not contain the `/` (slash) character.
+`sent_id` is compulsory and as per [#321](https://github.com/UniversalDependencies/docs/issues/321) it should not contain the `/` (slash) character.
 
 ## MISC field
 
