@@ -46,8 +46,9 @@ Phrase-level features are features which apply to the whole phrase rather than a
 ## Sentence-level metadata
 
 Sentence-level metadata can be provided as before and all tools are required to pass it through, as before. No particular requirements are put on these fields other than "no trailing whitespace". Several recognized key = value pairs should be standardized:
-  * sentence_id = global_sentence_id
-  * text = sentence text
+
+* sentence_id = global_sentence_id
+* text = sentence text
 
 ## MISC field
 
