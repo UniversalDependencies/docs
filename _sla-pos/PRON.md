@@ -94,6 +94,31 @@ They inflect for case but not for gender and number;
 * [bg] _кой, кое, някой, нещо, никой, нищо_
 * [cu] _къто, чьто, нѣкъто, нѣчьто, никътоже, ничьтоже_
 
+## Determiners derived from “which, whose”, total and other determiners
+
+In some Slavic languages there are two interrogative pronouns/determiners corresponding to [en] “which”:
+one that represents a selection, “which one” ([cs] _který_);
+and one that queries a quality, “what kind of” ([cs] _jaký_).
+Both can be used as relative pronouns/determiners, too.
+Their inflection is fully adjectival, therefore they should be tagged `DET`,
+despite the fact that as relative determiners the modified noun is not there and its absence cannot be explained by ellipsis
+(but it is the noun modified by the entire relative clause).
+
+In addition, there is a possessive interrogative determiner corresponding to [en] “whose” ([cs] _čí_).
+
+There are also derived indefinite and negative determiners, using the same affixes as with “who, what”;
+only the negative determiner “no” corresponding to “which” contains a different stem ([cs] _žádný_).
+
+We also include the total determiner “every” ([cs] _každý_) here, although it is quite frequently used
+without the modified noun, with the meaning “everybody, everyone”; the decisive factor here is its
+undoubtedly adjectival inflection.
+In contrast, we do not include the total pronoun, “all / everything” ([cs] _všichni / všechno_),
+see below.
+
+* [cs] _který, jaký, čí, některý, nějaký, něčí, kterýkoli, jakýkoli, každý, nijaký, ničí, žádný_
+* [sk] _ktorý, aký, čí, niektorý, nejaký, niečí, ktorýkoľvek, akýkoľvek, každý, nijaký, ničí, žiaden/žiadny_
+* [hsb] _kotry, kajki, čeji, kotryž, kajkiž, čejiž, někotry, někajki, něčeji, někotryžkuli, někajkižkuli, něčejižkuli, kóždy, ničeji, žadyn_
+
 ## References
 
 * Roland Sussex, Paul Cubberley. 2006. _The Slavic Languages._ Cambridge: Cambridge University Press.
