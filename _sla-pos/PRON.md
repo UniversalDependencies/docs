@@ -20,7 +20,7 @@ of _my_ is _já_ and the lemma of _vy_ is _ty._
 Reflexive pronouns have their own lemma (one lemma for both clitic and non-clitic forms).
 Since they lack the nominative form, the lemma should be the clitic accusative form, which is arguably the most frequent one.
 
-List of nominative forms of personal pronouns in various languages:
+List of nominative forms of personal pronouns (accusative for reflexives) in various languages:
 
 * [cs] _já, ty, on, ona, ono, my, vy, oni, ony, ona, se_
 * [sk] _ja, ty, on, ona, ono, my, vy, oni, ony, sa_
