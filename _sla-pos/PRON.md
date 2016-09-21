@@ -77,7 +77,7 @@ There are two possible solutions:
 ## Pronouns derived from “who, what”
 
 These are always `PRON` and never `DET`. They fall into various pronominal types:
-interrogatives, relatives, indefinites and negatives.
+interrogatives, relatives (“who, what”), indefinites (“somebody, something, anybody, anything”) and negatives (“nobody, nothing”).
 They inflect for case but not for gender and number;
 “who” functions as singular masculine,
 “what” as singular neuter.
