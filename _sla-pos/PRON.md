@@ -36,6 +36,27 @@ List of nominative forms of personal pronouns (accusative for reflexives) in var
 
 See [determiners](sla-pos/DET).
 
+The words that are traditionally called possessive pronouns are in fact possessive determiners and should be tagged
+`DET Poss=Yes | PronType=Prs`. First and second person possessives, and the reflexive possessive, function like adjectives.
+They precede the modified (possessed) noun and concord with it in gender, number and case.
+In the South Slavic languages the same can be said also about third person possessives.
+In the north, third person possessives evolved from (or are still identical to) the genitive form of the personal pronoun,
+and they do not inflect.
+However, they are traditionally distinguished from the personal pronoun, they are placed before the possessed noun
+(unlike nominal genitive modifiers), and for consistency we tag them `DET` as well.
+Similar to adjectives, one lemma covers all _inflections_ for gender, number and case, governed by the modified noun.
+Inherent gender, number and person of the possessor do not play a role, i.e. _můj_ “my” and _náš_ “our” are two distinct lemmas.
+
+* [cs] _můj, tvůj, jeho, její, náš, váš, jejich, svůj_
+* [sk] _môj, tvoj, jeho, jej, náš, váš, ich, svoj_
+* [hsb] _mój, twój, jeho, jeje, naš, waš, jich, swój_
+* [pl] _mój, twój, jego, jej, nasz, wasz, ich, swój_
+* [ru] _мой, твой, его, её, наш, ваш, их, свой_
+* [sl] _moj, tvoj, njegov, njen, najin, vajin, njun, naš, vaš, njihov, svoj_
+* [hr] _moj, tvoj, njegov, njezin/njen, naš, vaš, njihov, svoj_
+* [bg] _мой, твой, негов, неин, наш, ваш, техен, свой_
+* [cu] _мои, твои, его, еѩ, ею, нашь, вашь, ихъ, свои_
+
 ## References
 
 * Roland Sussex, Paul Cubberley. 2006. _The Slavic Languages._ Cambridge: Cambridge University Press.
