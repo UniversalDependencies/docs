@@ -66,12 +66,31 @@ are also frequently used to refer to unspecified or general entities, that is, t
 like pronouns than like determiners.
 
 There are two possible solutions:
+
 1. Tag all demonstratives `DET PronType=Dem`. The lemma is always masculine singular nominative.
 2. As 1., with the exception that selected neuter singular forms are ambiguous and may also appear as `PRON PronType=Dem`.
    Then the lemma is neuter singular nominative. Disambiguation has to be done by context: if it pre-modifies
    a noun phrase and concords with it in gender, number and case, it is determiner; otherwise it is pronoun.
 
 * [cs] _ten, tento, tenhle, tamten, onen, takový, týž, tentýž_
+
+## Pronouns derived from “who, what”
+
+These are always `PRON` and never `DET`. They fall into various pronominal types:
+interrogatives, relatives, indefinites and negatives.
+They inflect for case but not for gender and number.
+
+(TO CHECK: Even in Bulgarian?)
+
+* [cs] _kdo, co, což, někdo, něco, kdokoli, cokoli, nikdo, nic_
+* [sk] _kto, čo, niekto, niečo, nikto, nič_
+* [hsb] _štó, što, štóž, štož, kiž, něchtó, něšto, něchtóžkuli, něštožkuli, nichtó, ničo_
+* [pl] _kto, co, ktoś, coś, nikt, nic_
+* [ru] _кто, что, кто-нибудь, что-нибудь, никто, ничто_
+* [sl] _kdo, kaj, nekdo, nekaj, nihče, nič_
+* [hr] _tko, što, neki, nešto, nitko, ništa_
+* [bg] _кой, кое, някой, нещо, никой, нищо_
+* [cu] _къто, чьто_
 
 ## References
 
