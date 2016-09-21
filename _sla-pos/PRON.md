@@ -10,7 +10,7 @@ the term _determiner_ in Slavic languages but they rely on common understanding 
 
 ## Personal pronouns
 
-Non-possessive personal pronouns are tagged `PRON`.
+Non-possessive personal pronouns are tagged `PRON PronType=Prs` (see also the [sla-feat/PronType]() feature).
 Third-person pronouns are formed as inflections on one stem and should have one lemma, the masculine singular nominative form.
 (In fact there are two stems: one for the nominative and the other for the remaining cases. But the point is that the stems
 do not change with gender or number.)
@@ -31,6 +31,10 @@ List of nominative forms of personal pronouns in various languages:
 * [hr] _ja, ti, on, ona, ono, mi, vi, oni, one, ona, se_
 * [bg] _аз, ти, той, тя, то, ние, вие, те, се_
 * [cu] _азъ, тꙑ, мꙑ, вꙑ, и, сѧ_
+
+## Possessive pronouns
+
+See [determiners](sla-pos/DET).
 
 ## References
 
