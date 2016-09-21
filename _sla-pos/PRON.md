@@ -92,7 +92,7 @@ They inflect for case but not for gender and number;
 * [sl] _kdo, kaj, nekdo, nekaj, nihče, nič_
 * [hr] _tko, što, neki, nešto, nitko, ništa_
 * [bg] _кой, кое, някой, нещо, никой, нищо_
-* [cu] _къто, чьто_
+* [cu] _къто, чьто, нѣкъто, нѣчьто, никътоже, ничьтоже_
 
 ## References
 
