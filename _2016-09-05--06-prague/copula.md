@@ -1064,10 +1064,10 @@ The languages in UD with the tokens which have the `cop` relation. If we adopt t
 
 ## UD-internal references
 
-* http://universaldependencies.org/u/dep/cop.html
-*  https://github.com/UniversalDependencies/docs/issues/329
-* http://universaldependencies.org/2015-08-23-uppsala/copula.html
-* https://github.com/UniversalDependencies/docs/issues/256
+* <http://universaldependencies.org/u/dep/cop.html>
+* <https://github.com/UniversalDependencies/docs/issues/329>
+* <http://universaldependencies.org/2015-08-23-uppsala/copula.html>
+* <https://github.com/UniversalDependencies/docs/issues/256>
 
 ## Further reading
 
