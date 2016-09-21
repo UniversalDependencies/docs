@@ -78,7 +78,9 @@ There are two possible solutions:
 
 These are always `PRON` and never `DET`. They fall into various pronominal types:
 interrogatives, relatives, indefinites and negatives.
-They inflect for case but not for gender and number.
+They inflect for case but not for gender and number;
+“who” functions as singular masculine,
+“what” as singular neuter.
 
 (TO CHECK: Even in Bulgarian?)
 
