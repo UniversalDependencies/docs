@@ -57,6 +57,22 @@ Inherent gender, number and person of the possessor do not play a role, i.e. _m�
 * [bg] _мой, твой, негов, неин, наш, ваш, техен, свой_
 * [cu] _мои, твои, его, еѩ, ею, нашь, вашь, ихъ, свои_
 
+## Demonstratives
+
+All demonstrative “pronouns” inflect for gender and can modify nouns, which places them in the `DET` category.
+If the noun phrase is missing, it can be explained by ellipsis, at least for the masculine and feminine forms.
+Certain neuter singular forms ([cs] _to, toto, tohle, tamto_)
+are also frequently used to refer to unspecified or general entities, that is, they are used in these situations more
+like pronouns than like determiners.
+
+There are two possible solutions:
+1. Tag all demonstratives `DET PronType=Dem`. The lemma is always masculine singular nominative.
+2. As 1., with the exception that selected neuter singular forms are ambiguous and may also appear as `PRON PronType=Dem`.
+   Then the lemma is neuter singular nominative. Disambiguation has to be done by context: if it pre-modifies
+   a noun phrase and concords with it in gender, number and case, it is determiner; otherwise it is pronoun.
+
+* [cs] _ten, tento, tenhle, tamten, onen, takový, týž, tentýž_
+
 ## References
 
 * Roland Sussex, Paul Cubberley. 2006. _The Slavic Languages._ Cambridge: Cambridge University Press.
