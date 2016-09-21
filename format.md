@@ -22,7 +22,7 @@ Sentences consist of one or more word lines, and word lines contain the followin
  5. XPOSTAG: Language-specific part-of-speech tag; underscore if not available.
  6. FEATS: List of morphological features from the [universal feature inventory](u/feat/index.html) or from a defined [language-specific extension](ext-feat-index.html); underscore if not available.
  7. HEAD: Head of the current token, which is either a value of ID or zero (0).
- 8. DEPREL: [Universal Stanford dependency relation](u/dep/index.html) to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one.
+ 8. DEPREL: [Universal dependency relation](u/dep/index.html) to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one.
  9. DEPS: List of secondary dependencies (head-deprel pairs).
 10. MISC: Any other annotation.
 
