@@ -105,6 +105,7 @@ nsubj:cop(Prague, She)
 ~~~
 
 The omission test could be used:
+
 * _She was in Prague_
 *  _*She was on Tuesday_
 
