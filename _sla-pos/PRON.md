@@ -102,7 +102,8 @@ one that represents a selection, “which one” ([cs] _který_);
 and one that queries a quality, “what kind of” ([cs] _jaký_).
 Both can be used as relative pronouns/determiners, too.
 Their inflection is fully adjectival, therefore they should be tagged `DET`,
-despite the fact that as relative determiners the modified noun is not there and its absence cannot be explained by ellipsis
+despite the fact that when they are used as relative determiners,
+the modified noun is not there and its absence cannot be explained by ellipsis
 (but it is the noun modified by the entire relative clause).
 
 In addition, there is a possessive interrogative determiner corresponding to [en] “whose” ([cs] _čí_).
@@ -121,7 +122,14 @@ see below.
 * [hsb] _kotry, kajki, čeji, kotryž, kajkiž, čejiž, někotry, někajki, něčeji, někotryžkuli, někajkižkuli, něčejižkuli, kóždy, ničeji, žadyn_
 * [pl] _który, jaki, któryś, jakiś, każdy, żaden_
 * [ru] _который, какой, чей, некоторый, который-нибудь, какой-нибудь, чей-нибудь, каждый, никакой, ничей_
-* нѣкъіи
+* [sl] _kateri, kak, čigav, kakršen, nekateri, nek, nekakšen, nikakršen, noben_
+* [hr] _koji, kakav, čiji, nekakav, nikakav_
+* [bg] _кой, какъв, чий, който, какъвто, чийто, някой, някакъв, нечий, никой, никакъв_
+* [cu] _которꙑи, кꙑи, каковъ, чии, нѣкꙑи, никоторꙑиже, никꙑиже_
+
+Note: In [sl], the pronoun _kar_ corresponds to [cs] _který_. Its inflection is not adjectival
+(the treebank contains only four forms: _kar_ (`Nom`, `Acc`), _česar_ (`Gen`), _čemer_ (`Loc`) and _čimer_ (`Ins`)),
+hence it is pronoun and not determiner.
 
 ## References
 
