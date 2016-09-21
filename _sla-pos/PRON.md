@@ -8,6 +8,9 @@ Traditional grammars of Slavic languages do not distinguish pronouns from pro-ad
 hence it is important to define a consistent borderline here. (Some authors, e.g. Sussex and Cubberley (2006) do use
 the term _determiner_ in Slavic languages but they rely on common understanding without precisely delimiting them.)
 
+In order to provide the broader picture, we describe both pronouns and determiners here;
+the page [sla-pos/DET]() is empty.
+
 ## Personal pronouns
 
 Non-possessive personal pronouns are tagged `PRON PronType=Prs` (see also the [sla-feat/PronType]() feature).
@@ -33,8 +36,6 @@ List of nominative forms of personal pronouns (accusative for reflexives) in var
 * [cu] _азъ, тꙑ, мꙑ, вꙑ, и, сѧ_
 
 ## Possessive pronouns
-
-See [determiners](sla-pos/DET).
 
 The words that are traditionally called possessive pronouns are in fact possessive determiners and should be tagged
 `DET Poss=Yes | PronType=Prs`. First and second person possessives, and the reflexive possessive, function like adjectives.
@@ -112,12 +113,15 @@ only the negative determiner “no” corresponding to “which” contains a di
 We also include the total determiner “every” ([cs] _každý_) here, although it is quite frequently used
 without the modified noun, with the meaning “everybody, everyone”; the decisive factor here is its
 undoubtedly adjectival inflection.
-In contrast, we do not include the total pronoun, “all / everything” ([cs] _všichni / všechno_),
+In contrast, we do not include the total pronoun “all / everything” ([cs] _všichni / všechno_),
 see below.
 
 * [cs] _který, jaký, čí, některý, nějaký, něčí, kterýkoli, jakýkoli, každý, nijaký, ničí, žádný_
 * [sk] _ktorý, aký, čí, niektorý, nejaký, niečí, ktorýkoľvek, akýkoľvek, každý, nijaký, ničí, žiaden/žiadny_
 * [hsb] _kotry, kajki, čeji, kotryž, kajkiž, čejiž, někotry, někajki, něčeji, někotryžkuli, někajkižkuli, něčejižkuli, kóždy, ničeji, žadyn_
+* [pl] _który, jaki, któryś, jakiś, każdy, żaden_
+* [ru] _который, какой, чей, некоторый, который-нибудь, какой-нибудь, чей-нибудь, каждый, никакой, ничей_
+* нѣкъіи
 
 ## References
 
