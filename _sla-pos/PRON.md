@@ -131,6 +131,23 @@ Note: In [sl], the pronoun _kar_ corresponds to [cs] _který_. Its inflection is
 (the treebank contains only four forms: _kar_ (`Nom`, `Acc`), _česar_ (`Gen`), _čemer_ (`Loc`) and _čimer_ (`Ins`)),
 hence it is pronoun and not determiner.
 
+## Pronominal quantifiers
+
+Note that the meaning of [pl] _tylko_ has shifted towards “only”, which makes it an adverb rather than a demonstrative quantifier.
+A similar shift may have happened in some of the other languages, too.
+The interrogative _kolik_ may be used as relative, except in [hsb] and [bg].
+Occasionally it may be also used as indefinite ([pl] _kilka_).
+
+* [cs] _kolik, tolik, několik_
+* [sk] _koľko, toľko, niekoľko_
+* [hsb] _kelko, kelkož, telko_
+* [pl] _kilka_
+* [ru] _сколько, столько, несколько_
+* [sl] _koliko_
+* [hr] _koliko_
+* [bg] _колко, колкото_
+* [cu] _колико_
+
 ## References
 
 * Roland Sussex, Paul Cubberley. 2006. _The Slavic Languages._ Cambridge: Cambridge University Press.

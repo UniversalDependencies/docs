@@ -16,3 +16,6 @@ title:  'Slavic documentation links'
   * [Specific constructions](sla/overview/specific-syntax.html)
   * [Relations](sla/dep/index.html) ([single document](sla/dep/all.html))
 
+## Quick links
+
+* [Pronominal words](sla-pos/PRON)
