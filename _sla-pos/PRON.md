@@ -133,6 +133,10 @@ hence it is pronoun and not determiner.
 
 ## Pronominal quantifiers
 
+All pronominal quantifiers are tagged `DET`.
+They are morphologically and syntactically different from adjectives and other determiners.
+They are much closer to cardinal numerals but they cannot get the `NUM` tag, which is reserved for definite quantities.
+
 Note that the meaning of [pl] _tylko_ has shifted towards “only”, which makes it an adverb rather than a demonstrative quantifier.
 A similar shift may have happened in some of the other languages, too.
 The interrogative _kolik_ may be used as relative, except in [hsb] and [bg].
@@ -147,6 +151,41 @@ Occasionally it may be also used as indefinite ([pl] _kilka_).
 * [hr] _koliko_
 * [bg] _колко, колкото_
 * [cu] _колико_
+
+## Indefinite quantifiers and adverbs of degree
+
+There is a relatively small group of words that lie on the borderland between [adverbs](sla-pos/ADV), [numerals](sla-pos/NUM)
+and pronouns/determiners: [cs] _mnoho_ “many”, _hodně_ “much”, _málo_ “little, few”. They may denote the degree of
+an adjective or verb, and they can be compared: _více_ “more”, _nejvíce_ “most”, _méně_ “less, fewer”, _nejméně_ “least, fewest”.
+These are typical properties of adverbs.
+However, they can also denote an indefinite quantity when they take a genitive nominal argument.
+This follows the typical behavior of numerals. The whole phrase (numeral + noun) works like a noun phrase, can become
+argument of a verb and some of the numerals even inflect for case: _s mnoha body_ “with many points” (`Case=Ins`).
+When it acts as subject, it is regarded as neuter singular for subject-verb agreement.
+
+~~~ sdparse
+Trenér sázel mnohem více na herní stránku než na kondici .
+advmod(více, mnohem)
+advmod(sázel, více)
+dobj(sázel, stránku)
+nmod(více, kondici)
+~~~
+
+As adverb, _více_ is comparative form of lemma _hodně_.
+As indefinite numeral, it is its own lemma (but I found only two occurrences in UD Czech).
+
+~~~ sdparse
+Bude vybráno více zájemců .
+nsubjpass(vybráno, zájemců)
+det:numgov(zájemců, více)
+~~~
+
+The two syntactic functions are not compatible.
+The words in this group should just receive two different tags, disambiguated by context.
+When they denote quantity, their tag will be `DET NumType=Card | PronType=Ind`.
+When they denote degree, their tag will be `ADV`.
+
+* [cs] _mnoho, moc, hodně, málo_
 
 ## References
 
