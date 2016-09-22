@@ -766,6 +766,20 @@ collections:
   sla-overview:
     output: true
 #
+# Swedish_Sign_Language
+#
+  swl-pos:
+    output: true
+    permalink: /swl/pos/:path.html
+  swl-feat:
+    output: true
+    permalink: /swl/feat/:path.html
+  swl-dep:
+    output: true
+    permalink: /swl/dep/:path.html
+  swl-overview:
+    output: true
+#
 # Template
 #
   template-pos:
