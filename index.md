@@ -23,12 +23,9 @@ title:  'Universal Dependencies'
 * [CoNLL-U format](format.html)
 
 <small>
-This is the online documentation for Universal
-Dependencies, version 1 (2014-10-01).  We intend to treat version 1 as
-stable for at least the next year, but we may subsequently make
-further revisions based on experiences using it to treebank a range of
-languages. If you plan to use the scheme yourself, please get in touch
-so that we can avoid problems with conflicting versions.
+This is the online documentation for Universal Dependencies, version 1 (2014-10-01).
+Version 2 was planned for November 2016 but has been postponed until the spring of 2017.
+If you plan to start using the scheme, we recommend waiting for version 2. 
 </small>
 
 
@@ -69,18 +66,21 @@ and what was decided about them at the [Uppsala meeting](2015-08-23-uppsala/inde
 New: preparing [v2](v2/index.html).
 <!--; report from the [Prague meeting](2016-09-05--06-prague/index.html).-->
 
-# Contribute
+# Contribute to UD
 
-Please read the [instructions](language_metadata.html) for adding a new language and encoding its metadata.
-Follow the steps in the [release checklist](release_checklist.html) and
+If you want to add a new language/treebank, please read the [instructions](language_metadata.html) for adding a new language and encoding its metadata.
+
+If you are planning a release of an existing treebank, please ollow the steps in the [release checklist](release_checklist.html) and
 make sure your data shows as validating in the [format validation runs](validation.html).
 Check the [content validation](svalidation.html) for any suspicious patterns in the data;
 there are direct links to our treebank search that you can use to browse the suspicious data points.
 Check that the [list of contributors](contributors.html) is correct; this is gathered from the [metadata](language_metadata.html) in the READMEs. General instructions for contributing to the online documentation can be found [here](contributing.html).
 
+# Tools and additional documentation
+
 There is a separate [page about tools](tools.html) that are available for work with UD data.
 
-Direct link to the experimental
+Direct links to the experimental language family documentation:
 
 * [Slavic language family documentation](slavic.html)
 * [Uralic language family documentation](uralic.html)
