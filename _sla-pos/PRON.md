@@ -181,11 +181,16 @@ det:numgov(zájemců, více)
 ~~~
 
 The two syntactic functions are not compatible.
-The words in this group should just receive two different tags, disambiguated by context.
+The words in this group should thus receive two different tags, disambiguated by context.
 When they denote quantity, their tag will be `DET NumType=Card | PronType=Ind`.
 When they denote degree, their tag will be `ADV`.
 
-* [cs] _mnoho, moc, hodně, málo_
+* [cs] _mnoho, moc, dost, příliš, hodně, více, nejvíce, málo, méně, nejméně, nemnoho, nemálo_
+* [sk] _veľa, viac, najviac, málo, menej, najmenej_
+* [pl] _dużo, wiele, więcej, najwięcej, mało, mniej, najmniej_
+* [sl] _mnogo, veliko, več, največ, malo, manj, najmanj, zelo, bolj, najbolj, dosti_
+* [hr] _mnogo, više, najviše, malo, manje, najmanje, vrlo, dosta_
+* [bg] _много, повече, най-вече_
 
 ## References
 
