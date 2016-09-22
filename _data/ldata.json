@@ -437,6 +437,16 @@
         "full": "Daniel Zeman", 
         "last": "Zeman", 
         "first": "Daniel"
+      }, 
+      {
+        "full": "Bjartur Mortensen", 
+        "last": "Mortensen", 
+        "first": "Bjartur"
+      }, 
+      {
+        "full": "Francis Tyers", 
+        "last": "Tyers", 
+        "first": "Francis"
       }
     ], 
     "lang_name": "Faroese"
@@ -1187,6 +1197,11 @@
     "lang_name": "Swedish-LinES"
   }, 
   {
+    "lang_code": "swl", 
+    "contributors": [], 
+    "lang_name": "Swedish_Sign_Language"
+  }, 
+  {
     "lang_code": "ta", 
     "contributors": [
       {
@@ -1216,8 +1231,8 @@
         "first": "G\u00fcl\u015fen"
       }, 
       {
-        "full": "Memduh G\u00f6k\u0131rmak", 
-        "last": "G\u00f6k\u0131rmak", 
+        "full": "Memduh Gokirmak", 
+        "last": "Gokirmak", 
         "first": "Memduh"
       }, 
       {
@@ -1261,6 +1276,11 @@
         "full": "Marhaba Eli", 
         "last": "Eli", 
         "first": "Marhaba"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
       }
     ], 
     "lang_name": "Uyghur"
