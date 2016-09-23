@@ -192,6 +192,27 @@ When they denote degree, their tag will be `ADV`.
 * [hr] _mnogo, više, najviše, malo, manje, najmanje, vrlo, dosta_
 * [bg] _много, повече, най-вече_
 
+~~~ sdparse
+[sl] Kolesca morajo biti mnogo večja od tistih
+advmod(večja, mnogo)
+nmod(večja, tistih)
+case(tistih, od)
+~~~
+
+~~~ sdparse
+[sl] skozi mnogo let
+case(let, skozi)
+det(let, mnogo)
+~~~
+
+~~~ sdparse
+[sl] Slovenija potrebuje več urejenih informacij na internetu
+advmod(urejenih, več)
+amod(informacij, urejenih)
+~~~
+
+več truda
+
 ## References
 
 * Roland Sussex, Paul Cubberley. 2006. _The Slavic Languages._ Cambridge: Cambridge University Press.
