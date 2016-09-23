@@ -1,5 +1,8 @@
-<html>
-<head>
+---
+layout: base
+title:  'PML-TQ'
+permalink: sla/overview/pmltq.html
+---
 
 <script type="text/javascript">
 function getTreebank()
@@ -92,47 +95,50 @@ function gotoQuery()
 }
 </script>
 
-</head>
-<body>
-  <form id="pmltqform" method="get" action="#">
-  <table>
-    <tr>
-      <td valign="top">
-        <input type="button" name="submit" value="Submit" onclick="gotoQuery();" />
-        <input id="cs" type="radio" name="treebank" value="ud_cs" />&nbsp;<label for="cs">[cs]</label>
-        <input id="cs-cac" type="radio" name="treebank" value="ud_cs_cac" />&nbsp;<label for="cs-cac">[cs-cac]</label>
-        <input id="sk" type="radio" name="treebank" value="hamledt_sk" />&nbsp;<label for="sk">[sk]</label>
-        <input id="pl" type="radio" name="treebank" value="ud_pl" />&nbsp;<label for="pl">[pl]</label>
-        <input id="ru" type="radio" name="treebank" value="ud_ru" />&nbsp;<label for="ru">[ru]</label>
-        <input id="ru-str" type="radio" name="treebank" value="ud_ru_syntagrus" />&nbsp;<label for="ru-str">[ru-str]</label>
-        <input id="sl" type="radio" name="treebank" value="ud_sl" />&nbsp;<label for="sl">[sl]</label>
-        <input id="hr" type="radio" name="treebank" value="ud_hr" />&nbsp;<label for="hr">[hr]</label>
-        <input id="bg" type="radio" name="treebank" value="ud_bg" />&nbsp;<label for="bg">[bg]</label>
-        <input id="cu" type="radio" name="treebank" value="ud_cu" />&nbsp;<label for="cu">[cu]</label>
-      </td>
-      <td valign="top">
-        Query:<br />
-        Filter:&nbsp;<input type="checkbox" name="filteron" /><br />
-      </td>
-      <td valign="top">
-        <input type="text" size="145" name="query" value='a-node $a := [tag="PRON"]' /><br />
-        <input type="text" size="145" name="filter" value='>> for $a.lemma give $1, count() sort by $2 desc, $1' /><br />
-        <input type="checkbox" name="lemma" checked />&nbsp;lemma
-        <input type="checkbox" name="lform" checked />&nbsp;lform
-        <input type="checkbox" name="tag" checked />&nbsp;tag
-        <input type="checkbox" name="prontype" checked />&nbsp;prontype
-        <input type="checkbox" name="numtype" checked />&nbsp;numtype
-        <input type="checkbox" name="gender" checked />&nbsp;gender
-        <input type="checkbox" name="number" checked />&nbsp;number
-        <input type="checkbox" name="case" checked />&nbsp;case
-        <input type="checkbox" name="countsort" checked />&nbsp;sort&nbsp;by&nbsp;count
-        <input type="button" name="setfilter" value="Set filter" onclick="setFilter();" />
-      </td>
-    </tr>
-  </table>
-  </form>
-  <iframe id="embed" name="embed" src="https://lindat.mff.cuni.cz//services/pmltq/" width="1580" height="680">
-  <p>Your browser does not support iframes.</p>
-  </iframe>
-</body>
-</html>
+<form id="pmltqform" method="get" action="#">
+<table>
+  <tr>
+    <td valign="top">
+      <table>
+        <tr>
+      <td><input type="button" name="submit" value="Submit" onclick="gotoQuery();" /></td>
+      <td><input id="cs" type="radio" name="treebank" value="ud_cs" /></td><td><label for="cs">[cs]</label></td>
+      <td><input id="cs-cac" type="radio" name="treebank" value="ud_cs_cac" /></td><td><label for="cs-cac">[cscac]</label></td>
+      <td><input id="sk" type="radio" name="treebank" value="hamledt_sk" /></td><td><label for="sk">[sk]</label></td>
+      <td><input id="pl" type="radio" name="treebank" value="ud_pl" /></td><td><label for="pl">[pl]</label></td>
+      <td><input id="ru" type="radio" name="treebank" value="ud_ru" /></td><td><label for="ru">[ru]</label></td>
+        </tr>
+        <tr>
+      <td></td>
+      <td><input id="ru-str" type="radio" name="treebank" value="ud_ru_syntagrus" /></td><td><label for="ru-str">[rustr]</label></td>
+      <td><input id="sl" type="radio" name="treebank" value="ud_sl" /></td><td><label for="sl">[sl]</label></td>
+      <td><input id="hr" type="radio" name="treebank" value="ud_hr" /></td><td><label for="hr">[hr]</label></td>
+      <td><input id="bg" type="radio" name="treebank" value="ud_bg" /></td><td><label for="bg">[bg]</label></td>
+      <td><input id="cu" type="radio" name="treebank" value="ud_cu" /></td><td><label for="cu">[cu]</label></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      Query:<br />
+      Filter:&nbsp;<input type="checkbox" name="filteron" /><br />
+    </td>
+    <td valign="top">
+      <input type="text" size="145" name="query" value='a-node $a := [tag="PRON"]' /><br />
+      <input type="text" size="145" name="filter" value='>> for $a.lemma give $1, count() sort by $2 desc, $1' /><br />
+      <input type="checkbox" name="lemma" checked />&nbsp;lemma
+      <input type="checkbox" name="lform" checked />&nbsp;lform
+      <input type="checkbox" name="tag" checked />&nbsp;tag
+      <input type="checkbox" name="prontype" checked />&nbsp;prontype
+      <input type="checkbox" name="numtype" checked />&nbsp;numtype
+      <input type="checkbox" name="gender" checked />&nbsp;gender
+      <input type="checkbox" name="number" checked />&nbsp;number
+      <input type="checkbox" name="case" checked />&nbsp;case
+      <input type="checkbox" name="countsort" checked />&nbsp;sort&nbsp;by&nbsp;count
+      <input type="button" name="setfilter" value="Set filter" onclick="setFilter();" />
+    </td>
+  </tr>
+</table>
+</form>
+<iframe id="embed" name="embed" src="https://lindat.mff.cuni.cz//services/pmltq/" width="1580" height="680">
+<p>Your browser does not support iframes.</p>
+</iframe>
