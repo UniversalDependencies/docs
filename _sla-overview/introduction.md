@@ -111,14 +111,14 @@ function gotoQuery()
           <tr>
         <td><input type="button" name="submit" value="Submit" onclick="gotoQuery();" /></td>
         <td><input id="cs" type="radio" name="treebank" value="ud_cs" />&nbsp;<label for="cs">[cs]</label></td>
-        <td><input id="cs-cac" type="radio" name="treebank" value="ud_cs_cac" />&nbsp;<label for="cs-cac">[cs-cac]</label></td>
+        <td><input id="cs-cac" type="radio" name="treebank" value="ud_cs_cac" />&nbsp;<label for="cs-cac">[cscac]</label></td>
         <td><input id="sk" type="radio" name="treebank" value="hamledt_sk" />&nbsp;<label for="sk">[sk]</label></td>
         <td><input id="pl" type="radio" name="treebank" value="ud_pl" />&nbsp;<label for="pl">[pl]</label></td>
         <td><input id="ru" type="radio" name="treebank" value="ud_ru" />&nbsp;<label for="ru">[ru]</label></td>
           </tr>
           <tr>
         <td></td>
-        <td><input id="ru-str" type="radio" name="treebank" value="ud_ru_syntagrus" />&nbsp;<label for="ru-str">[ru-str]</label></td>
+        <td><input id="ru-str" type="radio" name="treebank" value="ud_ru_syntagrus" />&nbsp;<label for="ru-str">[rustr]</label></td>
         <td><input id="sl" type="radio" name="treebank" value="ud_sl" />&nbsp;<label for="sl">[sl]</label></td>
         <td><input id="hr" type="radio" name="treebank" value="ud_hr" />&nbsp;<label for="hr">[hr]</label></td>
         <td><input id="bg" type="radio" name="treebank" value="ud_bg" />&nbsp;<label for="bg">[bg]</label></td>
