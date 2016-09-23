@@ -14,6 +14,20 @@ morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a un
 inventory of categories and guidelines to facilitate consistent annotation of similar
 constructions across languages, while allowing language-specific extensions when necessary.
 
+## What is needed for UD to be successful?
+
+The secret to understanding the design and current success of UD is to realize that the design
+is a very subtle compromise between approximately 6 things:
+
+1. UD needs to be satisfactory on linguistic analysis grounds for individual languages.
+2. UD needs to be good for linguistic typology, i.e., providing a suitable basis for bringing out cross-linguistic parallelism across languages and language families.
+3. UD must be suitable for rapid, consistent annotation by a human annotator.
+4. UD must be suitable for computer parsing with high accuracy.
+5. UD must be easily comprehended and used by a non-linguist, whether a language learner or an engineer with prosaic needs for language processing. We refer to this as seeking a _habitable_ design, and it leads us to favor traditional grammar notions and terminology.
+6. UD must support well downstream language understanding tasks (relation extraction, reading comprehension, machine translation, …).
+
+It's easy to come up with a proposal that improves UD on one of these dimensions. The interesting and difficult part is to improve UD while remaining sensitive to all these dimensions.
+
 ## Current work
 
 After extensive discussion, we have developed a somewhat extended universal part-of-speech tag set.
