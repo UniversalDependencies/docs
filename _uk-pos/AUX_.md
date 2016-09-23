@@ -7,5 +7,6 @@ shortdef: 'auxiliary verb'
 redirect_from: "uk/pos/AUX.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `AUX`.
+### Definition
+
+The only auxiliary verb in Ukrainian is _бути_ “to be”. It accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
