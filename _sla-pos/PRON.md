@@ -238,7 +238,7 @@ dobj(Imeli, časa)
 ~~~
 
 ~~~ sdparse
-ki so terjali življenja več kot sto civilistov \n that REFLEX lost lives more than hundred civilians
+ki so terjali življenja več kot sto civilistov \n that have lost lives more than hundred civilians
 mwe(več, kot)
 det(civilistov, več)
 nummod(civilistov, sto)
