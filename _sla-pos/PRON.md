@@ -160,8 +160,8 @@ an adjective or verb, and they can be compared: _více_ “more”, _nejvíce_ �
 These are typical properties of adverbs.
 However, they can also denote an indefinite quantity when they take a genitive nominal argument.
 This follows the typical behavior of numerals. The whole phrase (numeral + noun) works like a noun phrase, can become
-argument of a verb and some of the numerals even inflect for case: _s mnoha body_ “with many points” (`Case=Ins`).
-When it acts as subject, it is regarded as neuter singular for subject-verb agreement.
+argument of a verb and some of the numerals even inflect for case: _s&nbsp;mnoha body_ “with many points” (`Case=Ins`).
+When it acts as subject, it is regarded as neuter singular for the purpose of subject-verb agreement.
 
 ~~~ sdparse
 Trenér sázel mnohem více na herní stránku než na kondici .
