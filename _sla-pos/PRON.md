@@ -158,13 +158,14 @@ There is a relatively small group of words that lie on the borderland between [a
 and pronouns/determiners: [cs] _mnoho_ “many”, _hodně_ “much”, _málo_ “little, few”. They may denote the degree of
 an adjective or verb, and they can be compared: _více_ “more”, _nejvíce_ “most”, _méně_ “less, fewer”, _nejméně_ “least, fewest”.
 These are typical properties of adverbs.
-However, they can also denote an indefinite quantity when they take a genitive nominal argument.
+However, they can also denote an indefinite quantity when they take a genitive nominal argument
+(plural for countable nouns, or singular in the partitive sense).
 This follows the typical behavior of numerals. The whole phrase (numeral + noun) works like a noun phrase, can become
 argument of a verb and some of the numerals even inflect for case: _s&nbsp;mnoha body_ “with many points” (`Case=Ins`).
 When it acts as subject, it is regarded as neuter singular for the purpose of subject-verb agreement.
 
 ~~~ sdparse
-Trenér sázel mnohem více na herní stránku než na kondici . \n Coach bet much more on game aspect than on physical-condition .
+[cs] Trenér sázel mnohem více na herní stránku než na kondici . \n Coach bet much more on game aspect than on physical-condition .
 advmod(více, mnohem)
 advmod(sázel, více)
 dobj(sázel, stránku)
@@ -176,7 +177,7 @@ the comparative form is irregular, without direct morphological relation to the 
 As indefinite numeral, it is its own lemma (but there are only two occurrences in UD Czech).
 
 ~~~ sdparse
-Bude vybráno více zájemců . \n Will-be selected more applicants .
+[cs] Bude vybráno více zájemců . \n Will-be selected more applicants .
 nsubjpass(vybráno, zájemců)
 det:numgov(zájemců, více)
 ~~~
@@ -186,31 +187,36 @@ The words in this group should thus receive two different tags, disambiguated by
 When they denote quantity, their tag will be `DET NumType=Card | PronType=Ind`.
 When they denote degree, their tag will be `ADV`.
 
-* [cs] _mnoho, moc, dost, příliš, hodně, více, nejvíce, málo, méně, nejméně, nemnoho, nemálo_
+* [cs] _mnoho, moc, nemálo, dost, příliš, hodně, více, nejvíce, málo, nemnoho, méně, nejméně_
 * [sk] _veľa, viac, najviac, málo, menej, najmenej_
+* [hsb] _mnoho, wjele, wjac, wjace, najwjace, najbóle, dosć, mało, mjenje, najmjenje_
 * [pl] _dużo, wiele, więcej, najwięcej, mało, mniej, najmniej_
+* [ru] _много, немало, больше, более, наиболее, достаточно, мало, немного, меньше, менее, наименее_
 * [sl] _mnogo, veliko, več, največ, malo, manj, najmanj, zelo, bolj, najbolj, dosti_
 * [hr] _mnogo, više, najviše, malo, manje, najmanje, vrlo, dosta_
 * [bg] _много, повече, най-вече_
 
 ~~~ sdparse
-[sl] Kolesca morajo biti mnogo večja od tistih
+[sl] Kolesca morajo biti mnogo večja od tistih \n Wheels must be much larger from those
 advmod(večja, mnogo)
 nmod(večja, tistih)
 case(tistih, od)
 ~~~
 
 ~~~ sdparse
-[sl] skozi mnogo let
+[sl] skozi mnogo let \n over many years
 case(let, skozi)
 det(let, mnogo)
 ~~~
 
 ~~~ sdparse
-[sl] Slovenija potrebuje več urejenih informacij na internetu
+[sl] Slovenija potrebuje več urejenih informacij na internetu \n Slovenia needs more orderly informations on internet
 advmod(urejenih, več)
 amod(informacij, urejenih)
 ~~~
+
+The above sentence seems ambiguous. _Več_ is annotated as an adverb modifying the adjective _urejenih,_ but it could
+also be a quantifier for the whole phrase _urejenih informacij._
 
 več truda
 
