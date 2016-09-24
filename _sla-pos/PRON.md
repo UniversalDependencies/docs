@@ -173,7 +173,7 @@ nmod(více, kondici)
 
 As adverb, _více_ is the comparative form of lemma _hodně_ (but it could as well be assigned the lemma _mnoho;_
 the comparative form is irregular, without direct morphological relation to the basic positive form.
-As indefinite numeral, it is its own lemma (but I found only two occurrences in UD Czech).
+As indefinite numeral, it is its own lemma (but there are only two occurrences in UD Czech).
 
 ~~~ sdparse
 Bude vybráno více zájemců . \n Will-be selected more applicants .
