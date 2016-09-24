@@ -164,18 +164,19 @@ argument of a verb and some of the numerals even inflect for case: _s&nbsp;mnoha
 When it acts as subject, it is regarded as neuter singular for the purpose of subject-verb agreement.
 
 ~~~ sdparse
-Trenér sázel mnohem více na herní stránku než na kondici .
+Trenér sázel mnohem více na herní stránku než na kondici . \n Coach bet much more on game aspect than on physical-condition .
 advmod(více, mnohem)
 advmod(sázel, více)
 dobj(sázel, stránku)
 nmod(více, kondici)
 ~~~
 
-As adverb, _více_ is comparative form of lemma _hodně_.
+As adverb, _více_ is the comparative form of lemma _hodně_ (but it could as well be assigned the lemma _mnoho;_
+the comparative form is irregular, without direct morphological relation to the basic positive form.
 As indefinite numeral, it is its own lemma (but I found only two occurrences in UD Czech).
 
 ~~~ sdparse
-Bude vybráno více zájemců .
+Bude vybráno více zájemců . \n Will-be selected more applicants .
 nsubjpass(vybráno, zájemců)
 det:numgov(zájemců, více)
 ~~~
