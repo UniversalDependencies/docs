@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-23T18:42:31Z">2016-09-23T18:42:31 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-24T23:40:53Z">2016-09-24T23:40:53 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -959,8 +959,8 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T20:46:29Z">2016-09-19T20:46:29 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-24T23:40:33Z">2016-09-24T23:40:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -980,9 +980,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Tree number 1859 on line 52487]: Non-tree structure. Words 23,24,25,26 are not reachable from the root 0.
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
