@@ -164,8 +164,10 @@ This follows the typical behavior of numerals. The whole phrase (numeral + noun)
 argument of a verb and some of the numerals even inflect for case: _s&nbsp;mnoha body_ “with many points” (`Case=Ins`).
 When it acts as subject, it is regarded as neuter singular for the purpose of subject-verb agreement.
 
+[cs]
+
 ~~~ sdparse
-[cs] Trenér sázel mnohem více na herní stránku než na kondici . \n Coach bet much more on game aspect than on physical-condition .
+Trenér sázel mnohem více na herní stránku než na kondici . \n Coach bet much more on game aspect than on physical-condition .
 advmod(více, mnohem)
 advmod(sázel, více)
 dobj(sázel, stránku)
@@ -177,7 +179,7 @@ the comparative form is irregular, without direct morphological relation to the 
 As indefinite numeral, it is its own lemma (but there are only two occurrences in UD Czech).
 
 ~~~ sdparse
-[cs] Bude vybráno více zájemců . \n Will-be selected more applicants .
+Bude vybráno více zájemců . \n Will-be selected more applicants .
 nsubjpass(vybráno, zájemců)
 det:numgov(zájemců, více)
 ~~~
@@ -196,21 +198,23 @@ When they denote degree, their tag will be `ADV`.
 * [hr] _mnogo, više, najviše, malo, manje, najmanje, vrlo, dosta_
 * [bg] _много, повече, най-вече_
 
+[sl]
+
 ~~~ sdparse
-[sl] Kolesca morajo biti mnogo večja od tistih \n Wheels must be much larger from those
+Kolesca morajo biti mnogo večja od tistih \n Wheels must be much larger from those
 advmod(večja, mnogo)
 nmod(večja, tistih)
 case(tistih, od)
 ~~~
 
 ~~~ sdparse
-[sl] skozi mnogo let \n over many years
+skozi mnogo let \n over many years
 case(let, skozi)
 det(let, mnogo)
 ~~~
 
 ~~~ sdparse
-[sl] Slovenija potrebuje več urejenih informacij na internetu \n Slovenia needs more orderly informations on internet
+Slovenija potrebuje več urejenih informacij na internetu \n Slovenia needs more orderly informations on internet
 advmod(urejenih, več)
 amod(informacij, urejenih)
 ~~~
@@ -218,7 +222,30 @@ amod(informacij, urejenih)
 The above sentence seems ambiguous. _Več_ is annotated as an adverb modifying the adjective _urejenih,_ but it could
 also be a quantifier for the whole phrase _urejenih informacij._
 
-več truda
+~~~ sdparse
+Domovanja so raztresena na več kilometrih \n Dwellings are scattered on more kilometers
+det(kilometrih, več)
+case(kilometrih, na)
+nmod(raztresena, kilometrih)
+~~~
+
+Partitive usage:
+
+~~~ sdparse
+Imeli več časa za priprave \n They-had more time for preparations
+det(časa, več)
+dobj(Imeli, časa)
+~~~
+
+~~~ sdparse
+ki so terjali življenja več kot sto civilistov \n that REFLEX lost lives more than hundred civilians
+mwe(več, kot)
+det(civilistov, več)
+nummod(civilistov, sto)
+~~~
+
+The above annotation is taken from UD Slovenian 1.3 but I think that _več kot_ should be attached to _sto_ and the
+relation should be [sla-dep/advmod]().
 
 ## References
 
