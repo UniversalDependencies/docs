@@ -13,7 +13,7 @@ There is a closed subclass of _pronominal adverbs_ that refer to circumstances i
 to pronouns, these can be categorized as interrogative, relative, demonstrative etc. Pronominal adverbs also get the `ADV`
 part-of-speech tag but they are differentiated by additional features.
 
-In accord with the UD approach, adverbial ordinal numerals _(вперше, вдруге)&nbsp;_ are tagged `ADV`, although the traditional grammar classifies them as adverbs. The same holds for multiplicative numerals _(двічі, семикратно).&nbsp;_
+<!--In accord with the UD approach, adverbial ordinal numerals _(вперше, вдруге)&nbsp;_ are tagged `ADV`, although the traditional grammar classifies them as adverbs. The same holds for multiplicative numerals _(двічі, семикратно).&nbsp;_ -->
 
 ### Examples
 - _дуже&nbsp;_ “very”
