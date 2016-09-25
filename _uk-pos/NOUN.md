@@ -3,6 +3,9 @@ layout: postag
 title: 'NOUN'
 shortdef: 'noun'
 ---
+
+### Definition
+
 The `NOUN` tag is intended for common nouns only. See [PROPN]() for
 proper nouns and [PRON]() for pronouns.
 
