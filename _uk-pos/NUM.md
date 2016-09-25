@@ -24,8 +24,8 @@ In addition, several types of (non-pronominal) numerals, such as ordinal numeral
 - _0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359_
 - _I, II, III, IV, V, MMXIV_
 - _один, два, три, чотири, п'ять, сімдесят&nbsp;_ “one, two, three, four, five, seventy”
-- _половина, третина, четвертина (чверть)&nbsp;_ “one-half, one third, quarter”: denominators of fractions constitute a separate class of cardinal numerals.
-- _четверо, п'ятеро&nbsp;_ “four, five” (These are special forms, so-called generic numerals. They are used rarely, in literary or archaic style.)
+- _половина, третина, четвертина (чверть)&nbsp;_ “one-half, one third, quarter”: denominators of fractions constitute a separate class of cardinal numerals. (They are not considered numerals in the Ukrainian grammar. They are tagged [NOUN]().)
+- _четверо, п'ятеро&nbsp;_ “four, five” (These are special forms, so-called generic numerals.)
 - _одні, двоє, троє&nbsp;_ “one set of, two sets of, three sets of”
 
 ### Counterexamples
@@ -33,7 +33,7 @@ In addition, several types of (non-pronominal) numerals, such as ordinal numeral
 - _перший, другий, третій&nbsp;_ “first, second, third”: adjectival ordinal numerals. They are tagged [ADJ](), and the [uk-feat/NumType]() feature reveals their semantic relation to numbers.
 - _вперше, вдруге, втретє&nbsp;_ “for the first time, for the second time, for the third time”: adverbial ordinal numerals. They are tagged [ADV](), and the [uk-feat/NumType]() feature reveals their semantic relation to numbers.
 - _двічі, тричі&nbsp;_ “twice, three times”: multiplicative numerals. They are tagged [ADV](), and the [uk-feat/NumType]() feature reveals their semantic relation to numbers.
-- _двійня, дует, трійня, тріо, квартет&nbsp;_ “pair, triplet, foursome”: n-tuples _(n-tice)&nbsp;_ are not considered numerals in the Czech grammar. They are tagged [NOUN]().
+- _двійня, дует, трійня, тріо, квартет&nbsp;_ “pair, triplet, foursome”: n-tuples _(n-tice)&nbsp;_ are not considered numerals in the Ukrainian grammar. They are tagged [NOUN]().
 - _одиниця, двійка, трійка, четвірка, п'ятірка&nbsp;_ “number one, number two, number three, number four, number five”: names of numbers, or of objects identified by the number (e.g. of a bus route). They are not considered numerals and they are tagged [NOUN]().
 - _тисяча, мільйон, мільярд, трильйон&nbsp;_ “thousand, million, billion, trillion”: words for large quantities are ambiguous between cardinal numerals (tagged `NUM`) and nouns.
   If they inflect as nouns, they are tagged [NOUN](); but the borderline is fuzzy.
