@@ -33,7 +33,7 @@ their syntactic and morphological behavior.
 - _I, II, III, IV, V, MMXIV_
 - _один, два, три, четыре, пять, семьдесят&nbsp;_ “one, two, three, four, five, seventy”
 - _половина, треть, четверть &nbsp;_ “one-half, one third, quarter”: denominators of fractions constitute a separate class of cardinal numerals.
-- _двое, трое, четверо, пятеро&nbsp;_ “four, five”: collective numerals (see [http://universaldependencies.org/ru/overview/specific-syntax.html#collectives](specific-syntax) on their morphosyntactic behavior).
+- _двое, трое, четверо, пятеро&nbsp;_ “four, five”: collective numerals (see [specific-syntax](http://universaldependencies.org/ru/overview/specific-syntax.html#collectives) on their morphosyntactic behavior).
 - _сколько, столько, предостаточно&nbsp;_ “how many, this many, more than enough”: pronominal quantifiers of imprecise quantity.
 
 ### Counterexamples
@@ -50,4 +50,4 @@ their syntactic and morphological behavior.
   For instance, in phrases like _<b>тысячи</b> людей вышли на улицы_ (“<b>thousands</b> of people went on the streets”),
   _тысячи&nbsp;_ is a noun.
   In numeric expressions, e.g. _110 <b>тысяч</b> долларов&nbsp;_ (“110 <b>thousand</b> dollars”), it is a cardinal numeral.
-- _много, мало, немного, немало, несколько, достаточно&nbsp;_ “many, few, not many, a lot, several, enough”: pronominal quantifiers are ambiguous between cardinal numerals (tagged `NUM` when they refer to imprecise quantities) and adverbs (tagged [ADV]() when they refer to degree/intensity). As a rule, the latter have verbs, adjectives, and adverbs as their head (e.g. _я был несколько груб_ “I was a bit rude”). Note that the words _более, больше, менее, меньше_ “more than, less than” are considered comparative forms of the numerals _много_ and _мало_ when they are used in constructions with cardinal numerals, e.g. _более пяти студентов_ “more than five students” (see [http://universaldependencies.org/ru/overview/specific-syntax.html#more-than](specific-syntax)).
+- _много, мало, немного, немало, несколько, достаточно&nbsp;_ “many, few, not many, a lot, several, enough”: pronominal quantifiers are ambiguous between cardinal numerals (tagged `NUM` when they refer to imprecise quantities) and adverbs (tagged [ADV]() when they refer to degree/intensity). As a rule, the latter have verbs, adjectives, and adverbs as their head (e.g. _я был несколько груб_ “I was a bit rude”). Note that the words _более, больше, менее, меньше_ “more than, less than” are considered comparative forms of the numerals _много_ and _мало_ when they are used in constructions with cardinal numerals, e.g. _более пяти студентов_ “more than five students” (see [specific-syntax](http://universaldependencies.org/ru/overview/specific-syntax.html#more-than)).
