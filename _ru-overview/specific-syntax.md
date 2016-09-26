@@ -90,14 +90,14 @@ discourse(as-13, then)
 ## Noun phrases with quantifiers
 
 ### Constructions with cardinal numerals
-See [ru-dep/nummod:gov]() for numerals governing the case of the noun: _две.Nom жены.Gen_, _пять.Nom жен.Gen_.
-See [ru-dep/nummod]() for numerals not governing the case of the noun: _с двумя.Ins женами.Ins_.
-See [ru-dep/det:numgov]() for the pronominal quantifiers governing the case of the noun: _сколько.Nom жен.Gen_.
-See [ru-dep/det:nummod]() for the pronominal quantifiers agreeing in case with the noun: _со сколькими.Ins женами.Ins_.
-See [ru-dep/compound]() for the compound numerals: _двадцать два_.
+See [ru-dep/nummod:gov]() on numerals governing the case of the noun: _две.Nom жены.Gen_, _пять.Nom жен.Gen_, including phrases with paucal numerals. \n
+See [ru-dep/nummod]() on numerals not governing the case of the noun: _с двумя.Ins женами.Ins_. \n
+See [ru-dep/det:numgov]() on the pronominal quantifiers governing the case of the noun: _сколько.Nom жен.Gen_. \n
+See [ru-dep/det:nummod]() on the pronominal quantifiers agreeing in case with the noun: _со сколькими.Ins женами.Ins_. \n
+See [ru-dep/compound]() on the compound numerals: _двадцать два_.
 
-Other types of QP:
-* _две.Nom целых.Gen.Sg четыре.Nom десятых.Gen.Sg миллиона.Gen.Sg рублей.Gen.Pl_ “2.4 million rubles” (i.e. “four tenth parts of million” with the ellipsis of “parts”)
+Other types of QP:\n
+* _две.Nom целых.Gen.Sg четыре.Nom десятых.Gen.Sg миллиона.Gen.Sg рублей.Gen.Pl_ “2.4 million rubles” (i.e. “four tenth parts of million” with the ellipsis of “parts”)\n
 * _к двум.Dat целым.Dat четырем.Dat десятым.Dat миллиона.Gen.Sg рублей.Gen.Pl_ “to 2.4 million rubles” 
 
 ~~~ sdparse
@@ -116,7 +116,21 @@ conj(целых, десятых)
 conj(whole-parts, tenth)
 ~~~
 
+The finite predicate takes either singular (3rd person in present tense, neutral in past tense) or plural with the subject QP (e.g. _На столе стоит две чашки_ “lit. There is.Sg two.Nom cups.Nom on the table”, _На столе стоят две чашки_ “There are.Pl two.Nom cups.Nom on the table”).
+
+### Postposition of cardinal numerals
+
+The phrase with the postposition of cardinal numerals refers to approximate quantity (usually used with simplex numerals 2-10, 20, 30... etc.). The rules of agreement and case government in such QPs preserve.
+
+~~~ sdparse
+Человека четыре . \n People about-four .
+nummod:gov(Человека, четыре)
+nummod:gov(People, about-four)
+~~~
+
 ### Constructions with _более_ and other comparative forms
+
+The comparative forms _более_, _больше_, _менее_, _меньше_ “more than, less than” are used in constructions like _более двухсот человек_ “more than 200 people”, _(не) меньше пяти машин_ “(no) less than five cars”. _Более_ / _больше_ / _менее_ / _меньше_ governs the Genitive case of the cardinal numeral. If this QP is a subject, the finite predicate takes either singular (3rd person in present tense, neutral in past tense) or plural depending the information structure and some other factors (e.g. _Пришло более двухсот человек_ “More than 200 people came.Neut.Sg”, _Более двухсот человек пришли к памятнику_ “More than 200 people came.pl to the monument”). The distribution of singular and plural is similar but not the same as with cardinal numerals.
 
 ~~~ sdparse
 Пришло более двухсот человек . \n Came more-than 200 people .
@@ -130,7 +144,7 @@ advmod(200, more-than)
 
 ### Constructions with collective numerals
 
-The collective numerals like _двое, трое, четверо_ “a group of two/three/four”, etc. govern the Genitive case of the noun in Nominative and Accusative (e.g. _двое_.NUM.Nom _студентов_.NOUN.Gen.Pl “two.Nom students.Nom”) and agree in case with the noun in all other grammatical cases (e.g. _с_ _двумя_.NUM.Ins _студентами_.NOUN.Ins.Pl “with two.Ins students.Ins”). The noun is always in plural. If this QP is subject, the finite predicate takes either singular (3rd person in present tense, neutral in past tense) or plural depending the information structure and some other factors (e.g. _Пришло двое студентов_, _Пришли двое студентов_ “Two students came.Neut.Sg / came.pl”).
+The collective numerals like _двое, трое, четверо_ “a group of two/three/four”, etc. govern the Genitive case of the noun in Nominative and Accusative (e.g. _двое_.NUM.Nom _студентов_.NOUN.Gen.Pl “two.Nom students.Nom”) and agree in case with the noun in all other grammatical cases (e.g. _с_ _двумя_.NUM.Ins _студентами_.NOUN.Ins.Pl “with two.Ins students.Ins”). The noun is always in plural. If this QP is a subject, the finite predicate takes either singular (3rd person in present tense, neutral in past tense) or plural depending the information structure and some other factors (e.g. _Пришло двое студентов_, _Пришли двое студентов_ “Two students came.Neut.Sg / came.pl”). The distribution of singular and plural is similar but not the same as with cardinal numerals and comparative forms.
 
 ~~~ sdparse
 Пришло двое студентов . \n Came group-of-two students .
