@@ -42,14 +42,16 @@ e. g. _умный_ “smart”, _умнее_ (_умней_) “smarter”, _бо
 forms are treated as separate lemmata.
 The most frequently used comparative constructions are the following:
 
-* _Миша.Nom <b>умнее</b> брата.Gen._ “Misha is <b>smarter</b> than his brother.” (only with morphological comparatives)
-* _Миша.Nom <b>более умный</b> / <b>более умен</b> / <b>умнее</b>, чем брат.Nom._ “Misha is <b>smarter</b> than his brother.” (with both types of comparatives)
-* _Миша.Nom <b>самый умный</b> / <b>умнейший</b> из.PREP всех.Gen._ “Misha is <b>the smartest</b> of them all.” (with both types of superlatives)
-* _Миша.Nom <b>такой же умный</b> / <b>так же умен</b> / <b>столь же умен</b>, как (и) его брат.Nom._ “Misha is <b>as smart</b> as his brother.” (equality comparison)
+* _Миша_.Nom <b>_умнее_</b> _брата_.Gen. “Misha is <b>smarter</b> than his brother.” (only with morphological comparatives)
+* _Миша_.Nom <b>_более умный_</b> / <b>_более умен_</b> / <b>_умнее_</b>, _чем брат_.Nom. “Misha is <b>smarter</b> than his brother.” (with both types of comparatives)
+* _Миша_.Nom <b>_самый умный_</b> / <b>_умнейший_</b> _из_.PREP _всех_.Gen. “Misha is <b>the smartest</b> of them all.” (with both types of superlatives)
+* _Миша_.Nom <b>_такой же умный_</b> / <b>_так же умен_</b> / <b>_столь же умен_</b>, _как_ (_и_) _его брат_.Nom. “Misha is <b>as smart</b> as his brother.” (equality comparison)
 
 The “lesser degree” comparison (expressed periphrastically) is marked the same way: 
-* _Миша.Nom <b>менее умный</b> / <b>менее умен</b>, чем его брат.Nom._ “Misha is <b>less smart</b> than his brother.” (with both types of comparatives)
-* _Миша.Nom <b>наименее глупый</b> из.PREP всех.Gen._ “Misha is <b>the least stupid</b> of them all.” (with both types of superlatives)
+
+* _Миша_.Nom <b>_менее умный_</b> / <b>_менее умен_</b>, _чем его брат_.Nom. “Misha is <b>less smart</b> than his brother.” (with both types of comparatives)
+
+* _Миша_.Nom <b>_наименее глупый_</b> _из_.PREP _всех_.Gen. “Misha is <b>the least stupid</b> of them all.” (with both types of superlatives)
 
 ~~~ sdparse
 Миша умнее брата . \n Misha is-smarter than-his-brother .
@@ -90,14 +92,20 @@ discourse(as-13, then)
 ## Noun phrases with quantifiers
 
 ### Constructions with cardinal numerals
-See [ru-dep/nummod:gov]() on numerals governing the case of the noun: _две.Nom жены.Gen_, _пять.Nom жен.Gen_, including phrases with paucal numerals. \n
-See [ru-dep/nummod]() on numerals not governing the case of the noun: _с двумя.Ins женами.Ins_. \n
-See [ru-dep/det:numgov]() on the pronominal quantifiers governing the case of the noun: _сколько.Nom жен.Gen_. \n
-See [ru-dep/det:nummod]() on the pronominal quantifiers agreeing in case with the noun: _со сколькими.Ins женами.Ins_. \n
+See [ru-dep/nummod:gov]() on numerals governing the case of the noun: _две.Nom жены.Gen_, _пять.Nom жен.Gen_, including phrases with paucal numerals. 
+
+See [ru-dep/nummod]() on numerals not governing the case of the noun: _с двумя.Ins женами.Ins_. 
+
+See [ru-dep/det:numgov]() on the pronominal quantifiers governing the case of the noun: _сколько.Nom жен.Gen_. 
+
+See [ru-dep/det:nummod]() on the pronominal quantifiers agreeing in case with the noun: _со сколькими.Ins женами.Ins_. 
+
 See [ru-dep/compound]() on the compound numerals: _двадцать два_.
 
-Other types of QP:\n
-* _две.Nom целых.Gen.Sg четыре.Nom десятых.Gen.Sg миллиона.Gen.Sg рублей.Gen.Pl_ “2.4 million rubles” (i.e. “four tenth parts of million” with the ellipsis of “parts”)\n
+Other types of QP:
+
+* _две.Nom целых.Gen.Sg четыре.Nom десятых.Gen.Sg миллиона.Gen.Sg рублей.Gen.Pl_ “2.4 million rubles” (i.e. “four tenth parts of million” with the ellipsis of “parts”)
+
 * _к двум.Dat целым.Dat четырем.Dat десятым.Dat миллиона.Gen.Sg рублей.Gen.Pl_ “to 2.4 million rubles” 
 
 ~~~ sdparse
@@ -128,7 +136,31 @@ nummod:gov(Человека, четыре)
 nummod:gov(People, about-four)
 ~~~
 
-### Constructions with _более_ and other comparative forms
+### Constructions with paucal numerals and adjectives
+
+If the phrase with a paucal numeral (_два, три, четыре, оба, полтора_ “two, three, four, both, half, one and a half”) is in the Nominative or Accusative case, the adjective modifying the noun takes either Nominative (Accusative) plural or Genitive plural, cf.
+
+* <b>_Две_</b>.Fem.Nom <b>_белые_</b>.Nom.Pl <b>_лодки_</b>.Fem.Gen.Sg
+~~~ sdparse
+Две белые лодки . \n Two white boats .
+nummod:gov(лодки, Две)
+nummod:gov(boats, Two)
+amod(лодки, белые)
+amod(boats, white)
+~~~
+
+* <b>_Две_</b>.Fem.Nom <b>_белых_</b>.Nom.Pl <b>_лодки_</b>.Fem.Gen.Sg
+~~~ sdparse
+Две белых лодки . \n Two white boats .
+nummod:gov(лодки, Две)
+nummod:gov(boats, Two)
+amod(лодки, белых)
+amod(boats, white)
+~~~
+
+With non-paucal numerals (which refer to five objects and more; also _половина, четверть_ “half, one fourth” etc.), the adjective is always in Genitive plural.
+
+### Constructions of more and less quantity 
 
 The comparative forms _более_, _больше_, _менее_, _меньше_ “more than, less than” are used in constructions like _более двухсот человек_ “more than 200 people”, _(не) меньше пяти машин_ “(no) less than five cars”. _Более_ / _больше_ / _менее_ / _меньше_ governs the Genitive case of the cardinal numeral. If this QP is a subject, the finite predicate takes either singular (3rd person in present tense, neutral in past tense) or plural depending the information structure and some other factors (e.g. _Пришло более двухсот человек_ “More than 200 people came.Neut.Sg”, _Более двухсот человек пришли к памятнику_ “More than 200 people came.pl to the monument”). The distribution of singular and plural is similar but not the same as with cardinal numerals.
 
