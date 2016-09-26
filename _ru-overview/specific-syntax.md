@@ -89,6 +89,7 @@ discourse(as-13, then)
 
 ## Noun phrases with quantifiers
 
+### Constructions with cardinal numerals
 See [ru-dep/nummod:gov]() for numerals governing the case of the noun: _две.Nom жены.Gen_, _пять.Nom жен.Gen_.
 See [ru-dep/nummod]() for numerals not governing the case of the noun: _с двумя.Ins женами.Ins_.
 See [ru-dep/det:numgov]() for the pronominal quantifiers governing the case of the noun: _сколько.Nom жен.Gen_.
@@ -114,3 +115,34 @@ nummod:gov(whole-parts, Two)
 conj(целых, десятых)
 conj(whole-parts, tenth)
 ~~~
+
+### Constructions with _более_ and other comparative forms
+
+~~~ sdparse
+Пришло более двухсот человек . \n Came more-than 200 people .
+nsubj(Пришло, человек)
+nsubj(Came, people)
+nummod(человек, двухсот)
+nummod(people, 200)
+advmod(двухсот, более)
+advmod(200, more-than)
+~~~
+
+### Constructions with collective numerals
+
+The collective numerals like _двое, трое, четверо_ “a group of two/three/four”, etc. govern the Genitive case of the noun in Nominative and Accusative (e.g. _двое_.NUM.Nom _студентов_.NOUN.Gen.Pl “two.Nom students.Nom”) and agree in case with the noun in all other grammatical cases (e.g. _с_ _двумя_.NUM.Ins _студентами_.NOUN.Ins.Pl “with two.Ins students.Ins”). The noun is always in plural. If this QP is subject, the finite predicate takes either singular (3rd person in present tense, neutral in past tense) or plural depending the information structure and some other factors (e.g. _Пришло двое студентов_, _Пришли двое студентов_ “Two students came.Neut.Sg / came.pl”).
+
+~~~ sdparse
+Пришло двое студентов . \n Came group-of-two students .
+nsubj(Пришло, студентов)
+nsubj(Came, students)
+nummod:gov(студентов, двое)
+nummod:gov(students, group-of-two)
+~~~
+
+The choice between cardinal and collective numerals in such constructions depends on animacy, (semantic) gender, semantic class, declination type, and the case of QP \[Мельчук 1985, Сичинава 2012\], the collective numerals are usually used with animate masculine nouns or collective nouns (e.g. _семеро друзей_ “a group of seven friends”, _двое саней_ “two sledges”).
+
+## References
+
+* Мельчук И.А. Поверхностный синтаксис русских числовых выражений. Вена. 1985
+* Сичинава Д. В. [http://rusgram.ru/%D0%A7%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5](Числительное). Материалы для проекта корпусного описания русской грамматики [http://rusgram.ru][1]. На правах рукописи. М. 2012.
