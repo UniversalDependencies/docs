@@ -124,7 +124,7 @@ conj(целых, десятых)
 conj(whole-parts, tenth)
 ~~~
 
-The finite predicate takes either singular (3rd person in present tense, neutral in past tense) or plural with the subject QP (e.g. _На столе стоит две чашки_ “lit. There is.Sg two.Nom cups.Nom on the table”, _На столе стоят две чашки_ “There are.Pl two.Nom cups.Nom on the table”).
+The finite predicate takes either singular (3rd person in present tense, neutral in past tense) or plural with the subject QP (e.g. _На столе <b>стоит</b> две чашки_ “lit. On the table there-stands.Sg two.Nom cups.Nom”, _На столе <b>стоят</b> две чашки_ “lit. On the table there-stand.Pl two.Nom cups.Nom”).
 
 ### Postposition of cardinal numerals
 
@@ -141,6 +141,7 @@ nummod:gov(People, about-four)
 If the phrase with a paucal numeral (_два, три, четыре, оба, полтора_ “two, three, four, both, half, one and a half”) is in the Nominative or Accusative case, the adjective modifying the noun takes either Nominative (Accusative) plural or Genitive plural, cf.
 
 * <b>_Две_</b>.Fem.Nom <b>_белые_</b>.Nom.Pl <b>_лодки_</b>.Fem.Gen.Sg
+
 ~~~ sdparse
 Две белые лодки . \n Two white boats .
 nummod:gov(лодки, Две)
@@ -150,6 +151,7 @@ amod(boats, white)
 ~~~
 
 * <b>_Две_</b>.Fem.Nom <b>_белых_</b>.Nom.Pl <b>_лодки_</b>.Fem.Gen.Sg
+
 ~~~ sdparse
 Две белых лодки . \n Two white boats .
 nummod:gov(лодки, Две)
