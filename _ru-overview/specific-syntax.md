@@ -9,12 +9,16 @@ permalink: ru/overview/specific-syntax.html
 ## Clausal structures
 
 In Russian, the standard case pattern of a predicate-argument construction is as follows: 
+
 * the first argument (subject) is in the Nominative case;
+
 * the second argument (direct object) is in the Accusative case;
+
 * all other arguments are coded in other cases or in the prepositional phrase depending their semantics.
+
 However, there is a number of constructions which have non canonical case patterns.
 
-### Constructions with Dative subject
+### Dative subject
 
 The constructions are instantiated by an infinitive verb (usually under negation) or a predicative, the first argument of which is in the Dative case and not in the canonical Nominative case. The Dative argument is labeled [ru-dep/iobj]().
 
@@ -32,6 +36,11 @@ iobj(am-ashamed.PRAEDIC, I.Dat)
 
 Cf. "дат-субъект" in SynTagRus.
 
+### Genitive of negation
+
+This construction involves alternation of NP's case between Genitive and Nominative (or Accusative) when the NP is within the scope of
+sentential negation. The alternation is sometimes optional and may be affected by certain difference in syntactic structure and/or in semantics or pragmatics [Partee & Borschev 2004].
+If the subject is under negation (“the Genitive of subject”), the verb becomes impersonal (i.e. takes the 3rd person singular in present tense and neuter singular in past tense), e. g. <b>_Pisem_</b>.Gen _ne_.NEG _prishlo_.VERB.Neut.Sg. “No letters.Gen came”. If the direct object is under negation (“the Genitive of object”), only the case of the direct object NP may change, e. g. _Ja ne chital_ <b>_ikh_</b>.Gen <b>_pisem_</b>.Gen. “I did not read their letters.Gen”. The choice between Genitive and Nominative (Accusative) is powered by many factors which involve the degree of referentiality/individuation, existentional/declarative reading, decreased transitivity of the verb, etc.
 
 ## Adjectival and adverbial constructions
 
@@ -192,5 +201,7 @@ The choice between cardinal and collective numerals in such constructions depend
 
 ## References
 
-* Мельчук И.А. Поверхностный синтаксис русских числовых выражений. Вена. 1985
-* Сичинава Д. В. [Числительное](http://rusgram.ru/Числительное). Материалы для проекта корпусного описания русской грамматики [rusgram.ru](http://rusgram.ru). На правах рукописи. М. 2012.
+Шведова Н. Ю. (ред.). _Русская грамматика_. Т. 1-2. Москва: Наука, 1980
+Partee, Barbara H., and Vladimir Borschev. The semantics of Russian Genitive of Negation: The nature and role of Perspectival Structure. _Semantics and Linguistic Theory_. Vol. 14. 2004.
+Мельчук И. А. _Поверхностный синтаксис русских числовых выражений_. Вена, 1985
+Сичинава Д. В. [Числительное](http://rusgram.ru/Числительное). Материалы для проекта корпусного описания русской грамматики [rusgram.ru](http://rusgram.ru). На правах рукописи. Москва, 2012.
