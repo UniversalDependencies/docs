@@ -164,7 +164,7 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * TO DISCUSS: should we add `Person=4` from UniMorph?
     John: 4th person could be distinguished by additional, independently-needed features, such
     as obviation status (e.g. proximate [prx] or obviative [obv], which are not included in
-    person features currently), so while the feature `4' is convenient and part of paradigmatic
+    person features currently), so while the feature `4` is convenient and part of paradigmatic
     contrasts (e.g. in Navajo), it may not be strictly necessary. The features proximate (prx)
     and obviative (obv) should be included somehow if direct and inverse voice are allowed,
     since languages that mark these voice categories tend to also mark 3rd person arguments
@@ -234,7 +234,7 @@ General differences:
   We focus on individual words and don't mark some complex forms that can be expressed only periphrastically.
   (But it is actually possible that UniMorph ignores periphrastic forms, too. They often stress that something is/is not
   distinguished by overt affixal morphology. So maybe there is no difference in this point.)
-* We need fully qualified feature+value pair to get a unique string, e.g. `Degree=Sup` is something else than `Mood=Sup` or `Case=Sup`.
+* We need fully qualified feature+value pair to get a unique string, e.g. `Degree=Sup` is something else than `VerbForm=Sup` or `Case=Sup`.
   They distinguish "dimensions" (our features) but their values are globally unique even without dimension name.
   They also have templatic features (combined of several atoms), and they often rely on feature (value) combinations.
   We have combined values too (e.g. `Gender=Masc,Neut`) but for us it expresses disjunction, used when we cannot select just one of the values.
