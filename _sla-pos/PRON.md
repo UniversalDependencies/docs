@@ -152,10 +152,10 @@ hence it is pronoun and not determiner.
 
 The total pronouns with the root _vs/vš_ are another problematic group.
 
-In Czech, _všechen_ can be used adjectively and has forms for different genders and numbers but usually only two forms are used,
+In Czech, _všechen_ can be used adjectively and has forms for different genders and numbers but usually only a subset of the forms is used,
 and quite often they are used without a modified noun:
 
-* _všichni_ (masculine animate plural), meaning “all, everybody,” may include non-masculine and inanimate referents
+* _všichni_ (masculine animate plural), meaning “all, everybody,” may include non-masculine referents
 * _všechno_ (neuter singular), meaning “everything”
 
 The plural forms can be used as determiners, including forms of other genders, if it is known that the group of referents
