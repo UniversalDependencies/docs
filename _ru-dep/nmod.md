@@ -66,9 +66,13 @@ Note that the same thing can be also expressed using an [apposition](appos).
 In the case of apposition, the title follows the modified name and is separated by a punctuation symbol:
 
 ~~~ sdparse
-Владимир Путин , российский президент
+Владимир Путин , российский президент \n Vladimir Putin , Russian president 
 name(Владимир, Путин)
+name(Vladimir, Putin)
 punct(президент, ,-3)
+punct(president, ,-9)
 amod(президент, российский)
-appos(Путин, президент)
+amod(president, Russian)
+appos(Владимир, президент)
+appos(Vladimir, president)
 ~~~
