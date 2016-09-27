@@ -148,7 +148,34 @@ Note: In [sl], the pronoun _kar_ corresponds to [cs] _který_. Its inflection is
 (the treebank contains only four forms: _kar_ (`Nom`, `Acc`), _česar_ (`Gen`), _čemer_ (`Loc`) and _čimer_ (`Ins`)),
 hence it is pronoun and not determiner.
 
+## All, everything
+
+The total pronouns with the root _vs/vš_ are another problematic group.
+
+In Czech, _všechen_ can be used adjectively and has forms for different genders and numbers but usually only two forms are used,
+and quite often they are used without a modified noun:
+
+* _všichni_ (masculine animate plural), meaning “all, everybody,” may include non-masculine and inanimate referents
+* _všechno_ (neuter singular), meaning “everything”
+
+The plural forms can be used as determiners, including forms of other genders, if it is known that the group of referents
+has only that gender: _všichni lidé_ “all people”, _všechny domy_ “all houses” (masculine inanimate), _všechny ženy_
+“all women” (feminine), _všechna ujednání_ “all provisions” (neuter). Much more rarely, even singular forms can be used,
+in the sense “all / entire”.
+
+In UD Czech, 1661 instances agree with their parent in case (suggesting that the word functions as a determiner) and
+843 instances do not agree. However, if we only focus on singular forms, 524 instances do not agree, 205 do agree
+(and about a half of the agreeing cases are two-pronoun expressions like _to všechno_ “all this” and _kdo/co všechno_ “who/what all”).
+If we limit the search to singular neuters, and exclude the two-pronoun expressions, there are only 8 instances where
+_všechno_ is a determiner, mostly with mass nouns (_všechno světlo_ “all light”).
+
+* [cs] _všechen, všecek, všichni, všechno, všecko, vše_
+
 ## Pronominal quantifiers
+
+Terminological note: For the purpose of this chapter, the term _quantifier_ does not include words with adjectival declension,
+even if their meaning has to do with quantity ([cs] _každý, mnohý, nejeden, žádný_). We now focus on words that resemble high-value
+numerals (5 and above) or nouns like _group, batch_ and combine with a quantified noun in the genitive.
 
 All pronominal quantifiers are tagged `DET`.
 They are morphologically and syntactically different from adjectives and other determiners.
