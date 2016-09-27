@@ -91,7 +91,11 @@ They inflect for case but not for gender and number;
 “who” functions as singular masculine,
 “what” as singular neuter.
 
-(TO CHECK: Even in Bulgarian?)
+Note: Bulgarian is exception. Instead of the _kt/čt_ roots found in the other languages, Bulgarian uses _кой / koj,_
+which inflects for gender like adjectives, and while it predominantly occurs in pronoun position, it can be used as
+determiner too: _Кой текст четете? / Koj tekst četete?_ “What text are you reading?” The substantive root survives
+in Bulgarian _нещо / nešto_ “something” and _нищо / ništo_ “nothing”; even relative _що / što_ “what” exists but it
+is very rare.
 
 * [cs] _kdo, co, což, někdo, něco, kdokoli, cokoli, nikdo, nic_
 * [sk] _kto, čo, niekto, niečo, nikto, nič_
@@ -100,7 +104,7 @@ They inflect for case but not for gender and number;
 * [ru] _кто, что, кто-нибудь, что-нибудь, никто, ничто_
 * [sl] _kdo, kaj, nekdo, nekaj, nihče, nič_
 * [hr] _tko, što, neki, nešto, nitko, ništa_
-* [bg] _кой, кое, някой, нещо, никой, нищо_
+* [bg] _що, нещо, нищо_
 * [cu] _къто, чьто, нѣкъто, нѣчьто, никътоже, ничьтоже_
 
 ## Determiners derived from “which, whose”, total and other determiners
