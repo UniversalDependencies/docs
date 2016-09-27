@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-23T18:42:31Z">2016-09-23T18:42:31 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-26T14:58:07Z">2016-09-26T14:58:07 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -960,7 +960,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T20:46:29Z">2016-09-19T20:46:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-26T14:57:55Z">2016-09-26T14:57:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -980,9 +980,20 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Tree number 1859 on line 52487]: Non-tree structure. Words 23,24,25,26 are not reachable from the root 0.
-*** FAILED *** with 1 errors
-Syntax errors: 1
+[Line                   232396]: The line has 9 columns, but 10 are expected.
+[Line                   232396]: Column LEMMA is not allowed to contain whitespace: 'coupe   PROPN'
+Traceback (most recent call last):
+  File "tools/validate.py", line 499, in <module>
+    validate(inp,out,args,tagsets)
+  File "tools/validate.py", line 405, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 85, in trees
+    validate_cols(cols,tag_sets,args)
+  File "tools/validate.py", line 100, in validate_cols
+    validate_whitespace(cols)
+  File "tools/validate.py", line 115, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
 
 
 ******************
@@ -2152,7 +2163,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-23T15:52:17Z">2016-09-23T15:52:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-26T09:41:42Z">2016-09-26T09:41:42 zulu</time></span>
 </div>
 <div>
 <pre>

@@ -8,7 +8,7 @@ shortdef: 'particle'
 
 Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g. [adpositions](ADP), [coordinating conjunctions](CONJ), or [subordinating conjunctions](SCONJ)).  Particles may encode grammatical categories such as negation, mood etc. Ukrainian particles are not inflected.
 
-Note that response words such as _так&nbsp;_ “yes”, _ні&nbsp;_ “no”, etc. are considered particles in the PDT tagset but they should be retagged as interjections under the UD standard. Also note that _ні&nbsp;_ can be used in two ways, one would be translated as English “no” and the other as “nor”. Only the former should become interjection, while the latter will stay a conjunction.
+Note that response words such as _так&nbsp;_ “yes”, _ні&nbsp;_ “no”, etc. are considered particles in grammars of Ukrainian but they are tagged as interjections under the UD standard. Also note that _ні&nbsp;_ can be used in two ways, one would be translated as English “no” and the other as “nor”. Only the former should become interjection, while the latter will stay a conjunction.
 
 ### Examples
 

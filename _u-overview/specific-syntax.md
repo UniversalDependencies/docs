@@ -429,6 +429,24 @@ mwe(more, than)
 punct(likely, .-6)
 ~~~
 
+If the expression modifies a counted noun phrase, it attaches directly to the modified number:
+
+~~~ sdparse
+more than two years ago
+nummod(years, two)
+mwe(more, than)
+advmod(two, more)
+~~~
+
+If there is no number (because the indefinite article functions as the number “one”), it attaches directly to the head noun:
+
+~~~ sdparse
+more than a year ago
+det(year, a)
+mwe(more, than)
+advmod(year, more)
+~~~
+
 ## Clause-external elements
 
 ### Feedback words

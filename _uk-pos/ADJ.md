@@ -35,8 +35,8 @@ Most Ukrainian adjectives inflect for
 - _перший, другий, третій&nbsp;_ “first, second, third”
 - _зроблений &nbsp;_ “done” (passive perfective participial adjective)
 - _роблений&nbsp;_ “being done” (passive imperfective participial adjective)
-- _роблячий&nbsp;_ “doing” (present participial adjective)
-- _зробивший&nbsp;_ “having done” (past participial adjective)
+- _роблячий&nbsp;_ “doing” (present participial adjective - it is considered ungrammatical but still used occasionally, which is why it is encoded)
+- _зробивший&nbsp;_ “having done” (past participial adjective - it is considered ungrammatical but still used occasionally, which is why it is encoded)
 
 <!--### Border cases-->
 

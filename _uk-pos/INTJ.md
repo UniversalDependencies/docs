@@ -16,5 +16,5 @@ An interjection is a word that is used most often as an exclamation or part of a
 - _бум&nbsp;_
 - _ну&nbsp;_ “well”
 - _ба&nbsp;_ “look”
-- _заради Бога&nbsp;_ “for God's sake”
+- _браво&nbsp;_ “bravo”
 
