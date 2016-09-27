@@ -74,6 +74,7 @@ There are two possible solutions:
    a noun phrase and concords with it in gender, number and case, it is determiner; otherwise it is pronoun.
 
 * [cs] _ten, tento, tenhle, tamten, onen, takový, týž, tentýž_
+* [sk] _ten, tento, tamten, onen, taký, takýto_
 
 ## Pronouns derived from “who, what”
 
