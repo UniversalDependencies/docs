@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-09-26T14:58:07Z">2016-09-26T14:58:07 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-09-27T15:32:14Z">2016-09-27T15:32:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -960,7 +960,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-26T14:57:55Z">2016-09-26T14:57:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-09-27T15:32:02Z">2016-09-27T15:32:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -980,6 +980,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
+[Tree number 7113 on line 199800]: Non-tree structure. Words 7,8 are not reachable from the root 0.
 [Line                   232396]: The line has 9 columns, but 10 are expected.
 [Line                   232396]: Column LEMMA is not allowed to contain whitespace: 'coupe   PROPN'
 Traceback (most recent call last):
