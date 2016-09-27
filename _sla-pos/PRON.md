@@ -75,6 +75,13 @@ There are two possible solutions:
 
 * [cs] _ten, tento, tenhle, tamten, onen, takový, týž, tentýž_
 * [sk] _ten, tento, tamten, onen, taký, takýto_
+* [hsb] _tón, tutón, tónle, tamny, wony, tajki_
+* [pl] _ten, tamten, taki_
+* [ru] _этот, тот, такой_
+* [sl] _tisti, ta, oni, takšen_
+* [hr] _taj, ovaj, onaj, takav_
+* [bg] _този, онзи, такъв_
+* [cu] _тъ, онъ, такъ, таковъ_
 
 ## Pronouns derived from “who, what”
 
