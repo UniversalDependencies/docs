@@ -92,7 +92,7 @@ They inflect for case but not for gender and number;
 “what” as singular neuter.
 
 Note: Bulgarian is exception. Instead of the _kt/čt_ roots found in the other languages, Bulgarian uses _кой / koj,_
-which inflects for gender like adjectives, and while it predominantly occurs in pronoun position, it can be used as
+which inflects for gender and number like adjectives, and while it predominantly occurs in pronoun position, it can be used as
 determiner too: _Кой текст четете? / Koj tekst četete?_ “What text are you reading?” The substantive root survives
 in Bulgarian _нещо / nešto_ “something” and _нищо / ništo_ “nothing”; even relative _що / što_ “what” exists but it
 is very rare.
