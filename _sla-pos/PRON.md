@@ -118,6 +118,11 @@ despite the fact that when they are used as relative determiners,
 the modified noun is not there and its absence cannot be explained by ellipsis
 (but it is the noun modified by the entire relative clause).
 
+Bulgarian _кой / koj_ etymologically corresponds to the “what kind of” determiner in other languages.
+As noted above, it can be used as a determiner but it is much more likely to _replace_ a noun phrase,
+i.e. to be used as a pronoun. It seems to be a good candidate to allow both tags and disambiguate by
+context.
+
 In addition, there is a possessive interrogative determiner corresponding to [en] “whose” ([cs] _čí_).
 
 There are also derived indefinite and negative determiners, using the same affixes as with “who, what”;
