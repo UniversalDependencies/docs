@@ -201,6 +201,9 @@ The choice between cardinal and collective numerals in such constructions depend
 ## References
 
 Шведова Н. Ю. (ред.). _Русская грамматика_. Т. 1-2. Москва: Наука, 1980
+
 Partee, Barbara H., and Vladimir Borschev. The semantics of Russian Genitive of Negation: The nature and role of Perspectival Structure. _Semantics and Linguistic Theory_. Vol. 14. 2004.
+
 Мельчук И. А. _Поверхностный синтаксис русских числовых выражений_. Вена, 1985
+
 Сичинава Д. В. [Числительное](http://rusgram.ru/Числительное). Материалы для проекта корпусного описания русской грамматики [rusgram.ru](http://rusgram.ru). На правах рукописи. Москва, 2012.
