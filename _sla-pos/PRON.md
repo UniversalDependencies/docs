@@ -163,11 +163,19 @@ has only that gender: _všichni lidé_ “all people”, _všechny domy_ “all 
 “all women” (feminine), _všechna ujednání_ “all provisions” (neuter). Much more rarely, even singular forms can be used,
 in the sense “all / entire”.
 
-In UD Czech, 1661 instances agree with their parent in case (suggesting that the word functions as a determiner) and
-843 instances do not agree. However, if we only focus on singular forms, 524 instances do not agree, 205 do agree
-(and about a half of the agreeing cases are two-pronoun expressions like _to všechno_ “all this” and _kdo/co všechno_ “who/what all”).
+In UD Czech, 717 instances may be determiners (the heuristic we use: they must agree with their parent in gender and case,
+and they must not be labeled as subjects—which would mean that the parent is a non-verbal predicate).
+In addition there are 113 instances of two-pronoun expressions like _to všechno_ “all this” and _kdo/co všechno_ “who/what all”,
+where one may argue for a determiner analysis as well. This contrasts with the total number of occurrences of lemma _všechen,_
+2520.
 If we limit the search to singular neuters, and exclude the two-pronoun expressions, there are only 8 instances where
-_všechno_ is a determiner, mostly with mass nouns (_všechno světlo_ “all light”).
+_všechno_ is a determiner, mostly with mass nouns (_všechno světlo_ “all light”);
+this contrasts with the total number of singual neuter occurrences, 600.
+
+To summarize, we may want to grant this lemma special treatment. At least the singular neuter form, _všechno,_ would
+deserve the `PRON` tag, unless it occurs in a clearly attributive position.
+
+It remains to be determined how the cognate words in the other Slavic languages behave.
 
 * [cs] _všechen, všecek, všichni, všechno, všecko, vše_
 
