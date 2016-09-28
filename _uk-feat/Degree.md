@@ -21,7 +21,7 @@ The quality of one object is compared to the same quality of another object.
 
 #### Examples
 
-* _Цей чоловік <b>молодший</b> ніж тамтой.&nbsp;_ “This man is <b>younger</b> than that one.”
+* _Цей чоловік <b>молодший</b>, ніж тамтой.&nbsp;_ “This man is <b>younger</b> than that one.”
 
 ### `Sup`: superlative, third degree
 
