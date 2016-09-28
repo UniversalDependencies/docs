@@ -6,7 +6,7 @@ shortdef: 'aspect'
 
 Aspect is a feature that specifies duration of the action in time, whether the action has been completed etc.
 
-In Ukrainian, aspect is considered a lexical feature of [verbs](uk-pos/VERB). While many imperfective verbs have morphologically related perfective counterparts, it is not a regular system and the two verbs are represented by different lemmas. There is a small group of verbs, usually borrowed, of the Latin origin, which have the same form for both the perfective and imperfective aspect. It is only possible (although not always) to discern the aspect on the basis of the context they are used in. (Even though originally Ukrainian assimilated such verbs by adding a relevant prefix to the perfective variant, thus creating two lemmas instead of one borrowed verb, there was a period in language development when prefixed forms were consistently eradicated in prescriptive grammars.) Verbs that carry two aspectual meanings are called biaspectual. 
+In Ukrainian, aspect is considered a lexical feature of [verbs](uk-pos/VERB). While many imperfective verbs have morphologically related perfective counterparts, it is not a regular system and the two verbs are represented by different lemmas. 
 
 ### `Imp`: imperfect aspect
 
@@ -24,9 +24,11 @@ The action has been / will have been completed. Since there is emphasis on one p
 
 * _спекти&nbsp;_ “to bake” (Perf); _<b>спік</b> хліб&nbsp;_ “he baked / has baked a bread”
 
-### `Bi`: biaspectual
+There is a small group of verbs, usually borrowed, of the Latin origin, which have the same form for both the perfect and imperfect aspect. It is only possible (although not always) to discern the aspect on the basis of the context they are used in. (Even though originally Ukrainian naturalised such verbs by adding a relevant prefix to the perfective variant, thus creating two lemmas instead of one borrowed verb, there was a period in the language development when prefixed forms were consistently eradicated in prescriptive grammars.) Verbs that carry two aspectual meanings are called biaspectual. 
 
 #### Examples
 
 * _абонувати&nbsp;_ “to subscribe” (Imp use); _Ігор <b>абонував</b> газету протягом трьох останніх років_ “Igor has been subscribing to the newspaper for the recent three years”
 * _абонувати&nbsp;_ “to subscribe” (Perf use); _Ігор <b>абонував</b> газету вчора по дорозі додому&nbsp;_ “Igor subscribed to the newspaper yeterday on his way home”
+
+If the context is sufficient to define the aspect such verbs are used in, the respective one is assigned. In the cases when the context does not suffice (as, for example, in the sentence above used without a temporal expression), according to UD conventions, no value for aspect is assigned.
