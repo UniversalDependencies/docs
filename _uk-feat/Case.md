@@ -8,7 +8,7 @@ Case is an inflectional feature of [nouns](uk-pos/NOUN) and other parts of speec
 
 Case helps specify the role of the noun phrase in the sentence. For example, the nominative and accusative cases often distinguish subject and object of the verb, while in fixed-word-order languages these functions would be distinguished merely by the positions of the nouns in the sentence.
 
-Czech morphology distinguishes seven cases: `Nom`, `Gen`, `Dat`, `Acc`, `Ins`, `Loc` and `Voc` (this ordering is fixed in the grammar).
+Ukrainian morphology distinguishes seven cases: `Nom`, `Gen`, `Dat`, `Acc`, `Ins`, `Loc`, and `Voc` (this ordering is fixed in the grammar).
 
 #### Examples
 
