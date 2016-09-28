@@ -9,7 +9,7 @@ The demonstrative particle _eto_ can be used as an "extra" subject in the senten
 ~~~ sdparse
 Это мама звонит . \n This-is my-mother calls .
 expl(звонит, Это)
-expl(calles, This-is)
+expl(calls, This-is)
 nsubj(звонит, мама)
 nsubj(calls, my-mother)
 ~~~
