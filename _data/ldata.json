@@ -437,16 +437,6 @@
         "full": "Daniel Zeman", 
         "last": "Zeman", 
         "first": "Daniel"
-      }, 
-      {
-        "full": "Bjartur Mortensen", 
-        "last": "Mortensen", 
-        "first": "Bjartur"
-      }, 
-      {
-        "full": "Francis Tyers", 
-        "last": "Tyers", 
-        "first": "Francis"
       }
     ], 
     "lang_name": "Faroese"
@@ -1076,6 +1066,11 @@
     "lang_name": "Sanskrit"
   }, 
   {
+    "lang_code": "sr", 
+    "contributors": [], 
+    "lang_name": "Serbian"
+  }, 
+  {
     "lang_code": "sl", 
     "contributors": [
       {
@@ -1231,8 +1226,8 @@
         "first": "G\u00fcl\u015fen"
       }, 
       {
-        "full": "Memduh Gokirmak", 
-        "last": "Gokirmak", 
+        "full": "Memduh G\u00f6k\u0131rmak", 
+        "last": "G\u00f6k\u0131rmak", 
         "first": "Memduh"
       }, 
       {
