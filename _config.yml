@@ -780,6 +780,20 @@ collections:
   swl-overview:
     output: true
 #
+# Serbian
+#
+  sr-pos:
+    output: true
+    permalink: /sr/pos/:path.html
+  sr-feat:
+    output: true
+    permalink: /sr/feat/:path.html
+  sr-dep:
+    output: true
+    permalink: /sr/dep/:path.html
+  sr-overview:
+    output: true
+#
 # Template
 #
   template-pos:
