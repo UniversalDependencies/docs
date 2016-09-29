@@ -28,7 +28,7 @@ Examples:
 - _<b>Одна</b> женщина спала, <b>две</b> женщины играли в карты._ “One woman slept, two women played cards.”
 - _<b>Одно</b> чудовище спало, <b>два</b> чудовища играли в карты._ “One monster slept, two monsters played cards.”
 
-It is straightforward to convert such dependencies to `nummod`:
+Such dependencies are labeled as `nummod`:
 
 ~~~ sdparse
 Одно чудовище спало . \n One monster slept .
