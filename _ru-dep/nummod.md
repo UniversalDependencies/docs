@@ -183,10 +183,10 @@ or a numeral:
 
 ~~~ sdparse
 максимум 50 тысяч крон \n at-most 50 thousand crowns
-advmod:emph(крон, максимум)
+advmod(крон, максимум)
 nummod:gov(крон, тысяч)
 compound(тысяч, 50-2)
-advmod:emph(crowns, at-most)
+advmod(crowns, at-most)
 nummod:gov(crowns, thousand)
 compound(thousand, 50-7)
 ~~~
