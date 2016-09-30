@@ -13,7 +13,7 @@ It uses only tags (+ features) as input, therefore it is only an approximation.
 Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
 The table requires manual postprocessing in order to provide accurate and complete information.
 
-Tagset <tt>pt::freeling</tt>, total 391 tags.
+Tagset <tt>pt::freeling</tt>, total 413 tags.
 
 <table>
   <tr style="background:lightgray"><td>NCMS</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Sing</td><td><em></em></td></tr>
@@ -407,4 +407,26 @@ Tagset <tt>pt::freeling</tt>, total 391 tags.
   <tr style="background:lightgray"><td>CC</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>CS</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>I</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>Fd</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Colo</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Fc</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Comm</td><td><em></em></td></tr>
+  <tr><td>Fs</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Faa</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Excl</td><td><em></em></td></tr>
+  <tr><td>Fat</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Excl</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Fg</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Dash</td><td><em></em></td></tr>
+  <tr><td>Fz</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ft</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em></em></td></tr>
+  <tr><td>Fp</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Peri</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Fia</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Qest</td><td><em></em></td></tr>
+  <tr><td>Fit</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Qest</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Fe</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Quot</td><td><em></em></td></tr>
+  <tr><td>Fra</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Quot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Frt</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Quot</td><td><em></em></td></tr>
+  <tr><td>Fx</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Semi</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Fh</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em></em></td></tr>
+  <tr><td>Fpa</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Brck</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Fpt</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Brck</td><td><em></em></td></tr>
+  <tr><td>Fca</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Brck</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Fct</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Brck</td><td><em></em></td></tr>
+  <tr><td>Fla</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Brck</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Flt</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Brck</td><td><em></em></td></tr>
 </table>
