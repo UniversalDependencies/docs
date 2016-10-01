@@ -21,8 +21,8 @@ In singular, the second person refers to the addressee of the utterance / text. 
 
 #### Examples
 
-* _<b>робиш</b>&nbsp;_ “<b>you</b>.`Sing` do”
-* _<b>робите</b>&nbsp;_ “<b>you</b>.`Plur` do”
+* _<b>робиш</b>&nbsp;_ “<b>you</b>`Sing` do”
+* _<b>робите</b>&nbsp;_ “<b>you</b>`Plur` do”
 
 ### `3`: third person
 
@@ -30,6 +30,6 @@ The third person refers to one or more persons that are neither speakers nor add
 
 #### Examples
 
-* _<b>робить</b>&nbsp;_ “<b>he/she/it does</b>”
+* _<b>робить</b>&nbsp;_ “<b>he/she/it</b> does”
 * _<b>роблять</b>&nbsp;_ “<b>they</b> do”
 
