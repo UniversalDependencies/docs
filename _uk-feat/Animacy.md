@@ -4,7 +4,7 @@ title: 'Animacy'
 shortdef: 'animacy'
 ---
 
-It is also valency feature of prepositions (saying that the preposition requires its argument to be in that case).
+<!--It is also valency feature of prepositions (saying that the preposition requires its argument to be in that case).-->
 
 Similarly to [Gender](), animacy is a lexical feature of [nouns](uk-pos/NOUN) and inflectional feature of other parts of speech that mark agreement with nouns. It is independent of gender, therefore it is encoded separately in most tagsets (e.g. all the Multext-East tagsets).
 
