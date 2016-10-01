@@ -28,7 +28,7 @@ A verbal noun can be derived productively from almost every verb (e.g. _роби
 - _нести_ &nbsp;“to carry”
 - _несу, несеш, несе, несемо, несете, несуть_ &nbsp;“I carry, you carry, he/she/it carries, we carry, you carry, they carry”
 - _неси, несімо, несіть_ &nbsp;“carry” (imperative in different persons and numbers)
-- _ніс, несла, несло, несли_ &nbsp;“carried” (past participle in different genders and numbers)
+- _ніс, несла, несло, несли_ &nbsp;“carried” (past tense forms in different genders and numbers)
 - _несено_&nbsp;“(it was/somebody) carried” (passive impersonal form)
 - _несучи, нісши_ &nbsp;“carrying” (present and past adverbial participles)
 
