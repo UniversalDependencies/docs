@@ -15,7 +15,7 @@ inflected as animate if they are personified. For instance, consider a children'
 
 Examples of animate nouns:
 
-- _чоловік&nbsp;_ “man”, _кіт&nbsp;_ “cat”, _дитина&nbsp;_ “child”, _комаха&nbsp;_ “insect”, _організація&nbsp;_ “organisation”
+- _чоловік&nbsp;_ “man”, _кіт&nbsp;_ “cat”, _дитина&nbsp;_ “child”, _комаха&nbsp;_ “insect”
 
 ### `Inan`: inanimate
 
