@@ -60,7 +60,9 @@ Note that the current guidelines say that [en] _not_, [de] _nicht_ etc. are nega
 
 ## Remove AUX
 
-For justification see below.
+The [u-pos/AUX]() category is currently used for auxiliary verbs. In many languages, (some of) the auxiliary verbs may also be used as main verbs. Their paradigm may be defective but the forms they have usually do not distinguish auxiliary usage from full-verb usage, so the `AUX` tag can only be inferred from the syntactic relation [u-dep/aux](). We believe that each POS category should be able to contribute some additional information rather than just mirror a dependency relation (see also further discussion in the section _Borderline between categories_). Since the `AUX` tag served only to distinguish auxiliary and non-auxiliary usage of a verb, it should be removed; the two usages can be recognized by the `aux` relation.
+
+If it is desirable to keep the morphological distinction in a treebank (e.g. because a verb is only auxiliary in a language, and it differs morphologically from normal verbs), the language-specific feature VerbType=Aux (or Mod or Cop) can be used, but there will be no dedicated POS tag.
 
 Removing the tag means changing it to `VERB` in data, removing all the `AUX` pages from the documentation, and also remove references to it from other parts of the documentation (probably from `VERB`, `aux` and `auxpass`; quite likely also from elsewhere).
 
