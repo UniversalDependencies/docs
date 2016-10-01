@@ -23,8 +23,8 @@ Ukrainian verbs (except for modal verbs) have imperative forms of the second per
 
 #### Examples
 
-* _<b>Навчайся</b> в університеті!&nbsp;_ “<b>Study</b>.`Sing` at the university!”
-* _<b>Навчайтеся</b> в університеті!&nbsp;_ “<b>Study</b>.`Plur` at the university!”
+* _<b>Навчайся</b> в університеті!&nbsp;_ “<b>Study</b>`Sing` at the university!”
+* _<b>Навчайтеся</b> в університеті!&nbsp;_ “<b>Study</b>`Plur` at the university!”
 * _<b>Навчаймося</b> в університеті!&nbsp;_ “Let us <b>study</b> at the university!”
 
 ### `Cnd`: conditional
