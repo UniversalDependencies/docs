@@ -16,7 +16,7 @@ Ukrainian verbs can take the following morphological forms:
 - Infinitive (this is the citation form)
 - Finite verb (indicative and imperative forms; conditional is constructed periphrastically). Ukrainian future tense can be formed either analitically, with the help of the auxiliary verb _бути_ &nbsp;“to be” or syntactically, with the help of endings rooted in the auxiliary verb _мати_ &nbsp;“to have”. 
 - Active and passive adverbial participle
-- Impersonal form ending with _-но/-то_. In Slavic languages other than Ukrainian and Polish this form coincides with the neutral passive adjectival participle, but in those two languages the participle has a different ending: _-не_ in Ukrainian and _-ne_ in Polish, which is why it is trated as a separate verbal form.
+- Impersonal form ending with _-но/-то_. In Slavic languages other than Ukrainian and Polish this form coincides with the neutral passive adjectival participle, but in those two languages the participle has a different ending: _-не_ in Ukrainian and _-ne_ in Polish, which is why it is treated as a separate verbal form.
 
 There are participial forms that are tagged as adjectives ([ADJ]()) rather than verbs.
 See below for border cases.
