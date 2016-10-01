@@ -14,9 +14,9 @@ Note that there is no `No` value. If the word is not possessive, the `Poss` feat
 
 #### Examples
 
-* possessive personal pronouns/determiners: _мій, твій, його, її, наш, ваш, їх&nbsp;_ “my, your, his, her, our, your, their”
-* possessive reflexive pronoun/determiner: _свій&nbsp;_ “one's own”
-* possessive relative or interrogative pronoun/determiner: _чий&nbsp;_ “whose”
+* possessive personal pronouns/determiners/adverb: _мій, твій, його, її, наш, ваш, їх, по-нашому&nbsp;_ “my, your, his, her, our, your, their, our way”
+* possessive reflexive pronoun/determiner/adverb: _свій, по-своєму&nbsp;_ “one's own, in one's own way”
+* possessive relative or interrogative pronoun/determiner/adverb: _чий, по-чиєму&nbsp;_ “whose, in whose way”
 * possessive negative pronoun/determiner: _нічий&nbsp;_ “nobody's”
 * possessive indefinite pronoun/determiner: _чийсь&nbsp;_ “somebody's”
 
