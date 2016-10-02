@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "lang_code": "cs", 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Jan Haji\u010d", 
+        "last": "Haji\u010d", 
+        "first": "Jan"
+      }
+    ], 
+    "lang_name": "Czech"
+  }
+]
