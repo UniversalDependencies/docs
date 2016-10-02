@@ -80,6 +80,17 @@
     "lang_name": "Czech-CLTT"
   }, 
   {
+    "lang_code": "cu", 
+    "contributors": [
+      {
+        "full": "Dag Haug", 
+        "last": "Haug", 
+        "first": "Dag"
+      }
+    ], 
+    "lang_name": "Old_Church_Slavonic"
+  }, 
+  {
     "lang_code": "pl", 
     "contributors": [
       {
