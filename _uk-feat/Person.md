@@ -4,7 +4,7 @@ title: 'Person'
 shortdef: 'person'
 ---
 
-Person is a feature of personal and possessive [pronouns](uk-pos/PRON), and of [verbs](uk-pos/VERB). On verbs it is in fact an agreement feature that marks the person of the verb's subject. Person marked on verbs makes it unnecessary to always add a personal pronoun as subject and thus subjects are sometimes dropped (Ukrainian is a pro-drop language).
+Person is a feature of personal [pronouns](uk-pos/PRON) and of [verbs](uk-pos/VERB). On verbs it is in fact an agreement feature that marks the person of the verb's subject. Person marked on verbs makes it unnecessary to always add a personal pronoun as subject and thus subjects are sometimes dropped (Ukrainian is a pro-drop language).
 
 ### `1`: first person
 
@@ -21,8 +21,8 @@ In singular, the second person refers to the addressee of the utterance / text. 
 
 #### Examples
 
-* _<b>робиш</b>&nbsp;_ “<b>you</b>.`Sing` do”
-* _<b>робите</b>&nbsp;_ “<b>you</b>.`Plur` do”
+* _<b>робиш</b>&nbsp;_ “<b>you</b>`Sing` do”
+* _<b>робите</b>&nbsp;_ “<b>you</b>`Plur` do”
 
 ### `3`: third person
 
@@ -30,6 +30,6 @@ The third person refers to one or more persons that are neither speakers nor add
 
 #### Examples
 
-* _<b>робить</b>&nbsp;_ “<b>he/she/it does</b>”
+* _<b>робить</b>&nbsp;_ “<b>he/she/it</b> does”
 * _<b>роблять</b>&nbsp;_ “<b>they</b> do”
 

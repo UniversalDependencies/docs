@@ -31,3 +31,11 @@ The quality of one object is compared to the same quality of all other objects w
 
 * _Це <b>наймолодша</b> людина в нашій команді.&nbsp;_ “This is the <b>youngest</b> person in our team”
 
+
+### `Abs`: absolute superlative
+
+The quality of the given object is so strong that there is hardly any other object exceeding it. The quality is not actually compared to any particular set of objects but rather to the abilities of its carriers. In Ukrainian this degree is most often used with adverbs.
+
+#### Examples
+
+* _якнайвище_, _щонайкраще_ "very high", "the best possible / as good as one can"
