@@ -8,4 +8,5 @@ export UD_TOOLS=$HOME/UD_PROJHOOK/tools
 #This assumes that refresh_corpus_data.sh did run
 
 python index_page.py --ud-data=$UD_DATA > ../_includes/at_glance.html
+python index_page_slavic.py --ud-data=$UD_DATA > ../_includes/at_glance_slavic.html
 git add ../_includes/at_glance.html ../_data/ldata.json && git commit -m "Main page table regenerated (auto)"

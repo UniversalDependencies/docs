@@ -19,3 +19,11 @@ title:  'Slavic documentation links'
 ## Quick links
 
 * [Pronominal words](sla-pos/PRON)
+
+
+# UD Treebanks
+
+<div id="accordion" class="jquery-ui-accordion">
+{% include at_glance_slavic.html %}
+</div>
+
