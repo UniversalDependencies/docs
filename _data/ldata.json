@@ -1,5 +1,37 @@
 [
   {
+    "lang_code": "bg", 
+    "contributors": [
+      {
+        "full": "Kiril Simov", 
+        "last": "Simov", 
+        "first": "Kiril"
+      }, 
+      {
+        "full": "Petya Osenova", 
+        "last": "Osenova", 
+        "first": "Petya"
+      }
+    ], 
+    "lang_name": "Bulgarian"
+  }, 
+  {
+    "lang_code": "hr", 
+    "contributors": [
+      {
+        "full": "\u017deljko Agi\u0107", 
+        "last": "Agi\u0107", 
+        "first": "\u017deljko"
+      }, 
+      {
+        "full": "Nikola Ljube\u0161i\u0107", 
+        "last": "Ljube\u0161i\u0107", 
+        "first": "Nikola"
+      }
+    ], 
+    "lang_name": "Croatian"
+  }, 
+  {
     "lang_code": "cs", 
     "contributors": [
       {
@@ -14,5 +46,157 @@
       }
     ], 
     "lang_name": "Czech"
+  }, 
+  {
+    "lang_code": "cs_cac", 
+    "contributors": [
+      {
+        "full": "Barbora Hladk\u00e1", 
+        "last": "Hladk\u00e1", 
+        "first": "Barbora"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Czech-CAC"
+  }, 
+  {
+    "lang_code": "cs_cltt", 
+    "contributors": [
+      {
+        "full": "Barbora Hladk\u00e1", 
+        "last": "Hladk\u00e1", 
+        "first": "Barbora"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Czech-CLTT"
+  }, 
+  {
+    "lang_code": "pl", 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Jan Ma\u0161ek", 
+        "last": "Ma\u0161ek", 
+        "first": "Jan"
+      }, 
+      {
+        "full": "Rudolf Rosa", 
+        "last": "Rosa", 
+        "first": "Rudolf"
+      }
+    ], 
+    "lang_name": "Polish"
+  }, 
+  {
+    "lang_code": "ru", 
+    "contributors": [
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Vitaly Nikolaev", 
+        "last": "Nikolaev", 
+        "first": "Vitaly"
+      }, 
+      {
+        "full": "Olga Lyashevskaya", 
+        "last": "Lyashevskaya", 
+        "first": "Olga"
+      }
+    ], 
+    "lang_name": "Russian"
+  }, 
+  {
+    "lang_code": "ru_syntagrus", 
+    "contributors": [
+      {
+        "full": "Kira Droganova", 
+        "last": "Droganova", 
+        "first": "Kira"
+      }, 
+      {
+        "full": "Olga Lyashevskaya", 
+        "last": "Lyashevskaya", 
+        "first": "Olga"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Lena Shakurova", 
+        "last": "Shakurova", 
+        "first": "Lena"
+      }, 
+      {
+        "full": "Nina Mustafina", 
+        "last": "Mustafina", 
+        "first": "Nina"
+      }
+    ], 
+    "lang_name": "Russian-SynTagRus"
+  }, 
+  {
+    "lang_code": "sr", 
+    "contributors": [], 
+    "lang_name": "Serbian"
+  }, 
+  {
+    "lang_code": "sl", 
+    "contributors": [
+      {
+        "full": "Kaja Dobrovoljc", 
+        "last": "Dobrovoljc", 
+        "first": "Kaja"
+      }, 
+      {
+        "full": "Toma\u017e Erjavec", 
+        "last": "Erjavec", 
+        "first": "Toma\u017e"
+      }, 
+      {
+        "full": "Simon Krek", 
+        "last": "Krek", 
+        "first": "Simon"
+      }
+    ], 
+    "lang_name": "Slovenian"
+  }, 
+  {
+    "lang_code": "sl_sst", 
+    "contributors": [
+      {
+        "full": "Kaja Dobrovoljc", 
+        "last": "Dobrovoljc", 
+        "first": "Kaja"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }
+    ], 
+    "lang_name": "Slovenian-SST"
+  }, 
+  {
+    "lang_code": "uk", 
+    "contributors": [], 
+    "lang_name": "Ukrainian"
   }
 ]
