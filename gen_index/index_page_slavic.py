@@ -146,7 +146,7 @@ def gen_table(args):
     # Dan's modification of the original script by Filip: include only the Slavic languages.
     langs1=sorted(os.path.basename(x).replace(".json","") for x in glob.glob("_corpus_data/*.json"))
     #r=re.compile('^(cs|sk|hsb|dsb|pl|uk|be|ru|orv|sl|hr|bs|sr|mk|bg|cu)$')
-    r=re.compile('^(Czech|Slovak|Upper Sorbian|Lower Sorbian|Polish|Ukrainian|Belarusian|Russian|Old Russian|Slovenian|Croatian|Bosnian|Serbian|Macedonian|Bulgarian|Old Church Slavonic)')
+    r=re.compile('^(Czech|Slovak|Upper Sorbian|Lower Sorbian|Polish|Ukrainian|Belarusian|Russian|Old_Russian|Slovenian|Croatian|Bosnian|Serbian|Macedonian|Bulgarian|Old_Church_Slavonic)')
     langs=filter(r.match, langs1)
     for l in langs:
         with open(os.path.join("_corpus_data",l+".json"),"r") as f:
