@@ -12,4 +12,4 @@ export UD_TOOLS=$HOME/UD_PROJHOOK/tools
 # Ideally, the subset scripts should be merged with index_page.py and the subset should be selected by command-line options.
 python index_page_slavic.py --ud-data=$UD_DATA > ../_includes/at_glance_slavic.html
 python index_page.py --ud-data=$UD_DATA > ../_includes/at_glance.html
-git add ../_includes/at_glance.html ../_data/ldata.json && git commit -m "Main page table regenerated (auto)"
+git add ../_includes/at_glance.html ../_includes/at_glance_slavic.html ../_data/ldata.json && git commit -m "Main page table regenerated (auto)"
