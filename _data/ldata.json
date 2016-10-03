@@ -437,6 +437,16 @@
         "full": "Daniel Zeman", 
         "last": "Zeman", 
         "first": "Daniel"
+      }, 
+      {
+        "full": "Bjartur Mortensen", 
+        "last": "Mortensen", 
+        "first": "Bjartur"
+      }, 
+      {
+        "full": "Francis Tyers", 
+        "last": "Tyers", 
+        "first": "Francis"
       }
     ], 
     "lang_name": "Faroese"
@@ -529,6 +539,11 @@
       }
     ], 
     "lang_name": "Galician"
+  }, 
+  {
+    "lang_code": "gl", 
+    "contributors": [], 
+    "lang_name": "Galician-TreeGal"
   }, 
   {
     "lang_code": "de", 
@@ -1226,8 +1241,8 @@
         "first": "G\u00fcl\u015fen"
       }, 
       {
-        "full": "Memduh G\u00f6k\u0131rmak", 
-        "last": "G\u00f6k\u0131rmak", 
+        "full": "Memduh Gokirmak", 
+        "last": "Gokirmak", 
         "first": "Memduh"
       }, 
       {
