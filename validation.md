@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-03T20:49:21Z">2016-10-03T20:49:21 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-04T03:20:12Z">2016-10-04T03:20:12 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2190,80 +2190,10 @@ python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-manual.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T08:12:03Z">2016-09-19T08:12:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-04T03:20:11Z">2016-10-04T03:20:11 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vi-ud-dev.conllu
-
-[Line                   1]: Unknown UPOS tag: N
-[Line                   2]: Unknown UPOS tag: Ny
-[Line                   2]: Unknown UD DEPREL: nn
-[Line                   2]: Invalid UPOSTAG value Ny
-[Line                   3]: Unknown UPOS tag: R
-[Line                   4]: Unknown UPOS tag: V
-[Line                   4]: Unknown UD DEPREL: Root
-[Line                   4]: Invalid DEPREL value Root
-[Line                   5]: Unknown UPOS tag: ,
-[Line                   5]: Invalid UPOSTAG value ,
-[Line                   6]: Unknown UPOS tag: N
-[Line                   7]: Unknown UPOS tag: ,
-[Line                   7]: Invalid UPOSTAG value ,
-[Line                   8]: Unknown UPOS tag: N
-[Line                   9]: Unknown UPOS tag: ,
-[Line                   9]: Invalid UPOSTAG value ,
-[Line                   10]: Unknown UPOS tag: N
-[Line                   11]: Unknown UPOS tag: ...
-[Line                   11]: Invalid UPOSTAG value ...
-[Line                   12]: Unknown UPOS tag: A
-[Line                   12]: Unknown UD DEPREL: apredmod
-[Line                   13]: Unknown UPOS tag: E
-[Line                   13]: Unknown UD DEPREL: prep
-[Line                   14]: Unknown UPOS tag: V
-[Line                   14]: Unknown UD DEPREL: pcomp
-...suppressing further errors regarding Morpho
-[Line                   20]: Unknown UD DEPREL: num
-[Line                   22]: Unknown UD DEPREL: vmod
-[Line                   25]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   27]: Unknown UD DEPREL: nn
-[Line                   28]: Unknown UD DEPREL: num
-[Line                   29]: Unknown UD DEPREL: nn
-[Line                   31]: Unknown UD DEPREL: Root
-[Line                   31]: Invalid DEPREL value Root
-[Line                   34]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   35]: Unknown UD DEPREL: nc
-[Line                   37]: Unknown UD DEPREL: Root
-[Line                   37]: Invalid DEPREL value Root
-[Line                   38]: Unknown UD DEPREL: vmod
-[Line                   43]: Unknown UD DEPREL: vmod
-[Line                   44]: Unknown UD DEPREL: prep
-...suppressing further errors regarding Syntax
-[Line                   51]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   66]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   76]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   81]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   97]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   104]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   118]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   134]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   152]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   164]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   173]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   193]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   217]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   235]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   242]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   248]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-[Line                   274]: Spurious line: '									'. All non-empty lines should start with a digit or the # character.
-...suppressing further errors regarding Format
-*** FAILED *** with 11450 errors
-Format errors: 403
-Morpho errors: 7385
-Syntax errors: 3662
-
-
-******************
-
 python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vi-ud-test.conllu
 
 [Line                   1]: Unknown UPOS tag: V
