@@ -19,6 +19,10 @@ The proposals in this chapter are based on
 2. survey of language-specific features and values used in current UD treebanks (especially those that are also documented)
 3. draft proposal from the <a href="http://www.unimorph.org/" target="_blank">UniMorph project</a>, which has similar goals as UD features (<a href="http://www.unimorph.org/doc/Sylak-Glassman_2016_-_UniMorph_Schema_User_Guide.pdf" target="_blank">Sylak-Glassman 2016</a>; see below for a comparison of UniMorph and UD features)
 
+Another reference that could contribute to the universal features is the [GOLD ontology](http://linguistics-ontology.org/gold/2010); see also [the general project page](http://linguistics-ontology.org/). In particular, items in the ontology under Morphosemantic property and Morphosyntactic property roughly correspond to our features.
+
+
+
 ## Renaming existing features and/or values
 
 See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for related discussion.
