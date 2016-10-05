@@ -210,7 +210,7 @@ nsubj(yıkattı, Bilge)
 
 ## Relative clauses
 
-In _basic_ trees, relative pronouns are attached to the main predicate of the relative clause (typically with a `nsubj` or `dobj` relation). In the corresponding _enhanced_ graphs, the relative pronoun is attached to what it is referring to with the special `ref` relation and the governor of the relative clause is attached as an argument to the main predicate of the relative clause. Note that such graphs contain a cycle, as there is a dependenct 
+In _basic_ trees, relative pronouns are attached to the main predicate of the relative clause (typically with a `nsubj` or `dobj` relation). In the corresponding _enhanced_ graphs, the relative pronoun is attached to what it is referring to with the special `ref` relation and the governor of the relative clause is attached as an argument to the main predicate of the relative clause. Note that such graphs contain a cycle.
 
 
 _Basic_ tree:
@@ -253,6 +253,31 @@ ref(book, that)
 dobj(read, book)
 ~~~
 
+## Case Information
+
+Adding prepositions (or case information) to the relation name of non-core dependents often makes it possible to disambiguate the dependent's semantic role. We therefore augment `anom`, `advnom`, `acl` and `advcl` relations with the preposition or the case of the modifier.
+
+~~~ sdparse
+the house on the hill
+
+anom:on(house, hill)
+case(hill, on)
+~~~
+
+~~~ sdparse
+He went to a diner after leaving work .
+
+anom:to(went, diner)
+case(diner, to)
+advcl:after(went, leaving)
+mark(leaving, after)
+~~~
+
+~~~ sdparse
+die Zerstörung der Stadt \n the destruction the.GEN city.GEN
+
+nmod:gen(Zerstörung, Stadt)
+~~~
 
 ### To discuss
 
@@ -287,8 +312,9 @@ However, maintainers should be aware that the different types of relations are n
 * Propagation of conjuncts
 * Controllers and raised subjects
 * Relative clauses and passive arguments
+* Augmentation of relation names with case information
 
 ## Additional enhancements
 
-Some postprocessing steps such as adding case makers to the relation names of nominal modifiers (as described in [this paper](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are highly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
+Some postprocessing steps such as demoting light nouns that behave like quantificational determiners (as described in [this paper](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are highly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
 
