@@ -13,6 +13,7 @@ The first version of the guidelines provided very little guidance regarding the 
     - Additional subject relations for control and raising constructions
     - Arguments of passives (and other valency-changing constructions)
     - Coreference in relative clause constructions 
+    - Modifier labels that contain the preposition or other case-marking information  
 * The _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., it is not required to contain all the basic dependency relations
 * In principle, everything in the enhanced representation is an optional addition to the basic representation, but we specify a recommended order for adding information (as guidance to treebank developers)
  
@@ -255,7 +256,7 @@ dobj(read, book)
 
 ## Case Information
 
-Adding prepositions (or case information) to the relation name of non-core dependents often makes it possible to disambiguate the dependent's semantic role. We therefore augment `anom`, `advnom`, `acl` and `advcl` relations with the preposition or the case of the modifier.
+Adding prepositions (or case information) to the relation name of non-core dependents often makes it possible to disambiguate its  semantic role. We therefore augment `anom`, `advnom`, `acl` and `advcl` relation labels with the preposition or the case of the modifier.
 
 ~~~ sdparse
 the house on the hill
