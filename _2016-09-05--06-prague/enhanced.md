@@ -312,8 +312,7 @@ However, maintainers should be aware that the different types of relations are n
 * Null nodes
 * Propagation of conjuncts
 * Controllers and raised subjects
-* Relative clauses, passive arguments, and augmentation of relation names with case information
-* 
+* Relative clauses, passive arguments, and augmentation of relation names with case information 
 
 ## Additional enhancements
 
