@@ -178,13 +178,13 @@ conj(long, wide)
 
 (See also the notes on [core dependents](core-dependents.html) for a detailed discussion of the new analysis of passive constructions in the _basic_ representation.)
 
-We propose that we no longer use a special `nsubjpass` relation in the _basic_ representation. However, the distiction between regular subjects and subjects in passive constructions is still highly useful for many NLP tasks. We therefore propose to use the relations `nsubj:pass` (for languages without `dobj`/`iobj` distinction), `nsubj:passdir`, `nsubj:passind`, and `nmod:agent` for the arguments of a passivized verb.  
+We propose that we no longer use a special `nsubjpass` relation in the _basic_ representation. However, the distiction between regular subjects and subjects in passive constructions is still highly useful for many NLP tasks. We therefore propose to use the relations `nsubj:pass` (for languages without `dobj`/`iobj` distinction), `nsubj:passdir`, `nsubj:passind`, and `anom:agent` for the arguments of a passivized verb.  
 
 ~~~ sdparse
 The book was written by the author .
 
 nsubj:passdir(written, book)
-nmod:agent(written, author)
+anom:agent(written, author)
 ~~~
 
 ~~~ sdparse
@@ -268,7 +268,7 @@ case(hill, on)
 ~~~ sdparse
 He went to a diner after leaving work .
 
-anom:to(went, diner)
+advnom:to(went, diner)
 case(diner, to)
 advcl:after(went, leaving)
 mark(leaving, after)
@@ -277,7 +277,7 @@ mark(leaving, after)
 ~~~ sdparse
 die Zerstörung der Stadt \n the destruction the.GEN city.GEN
 
-nmod:gen(Zerstörung, Stadt)
+anom:gen(Zerstörung, Stadt)
 ~~~
 
 ### To discuss
@@ -292,7 +292,7 @@ Examples:
 The house in which I used to live .
 
 acl:relcl(house, used)
-nmod(live, house)
+advnom(live, house)
 case(which, in)
 ~~~
 
@@ -300,7 +300,7 @@ case(which, in)
 The city where I used to live .
 
 acl:relcl(city, used)
-nmod(live, city)
+advnom(live, city)
 ~~~
 
 ## Recommended order of annotations
