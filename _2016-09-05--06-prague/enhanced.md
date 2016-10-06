@@ -178,13 +178,13 @@ conj(long, wide)
 
 (See also the notes on [core dependents](core-dependents.html) for a detailed discussion of the new analysis of passive constructions in the _basic_ representation.)
 
-We propose that we no longer use a special `nsubjpass` relation in the _basic_ representation. However, the distiction between regular subjects and subjects in passive constructions is still highly useful for many NLP tasks. We therefore propose to use the relations `nsubj:pass` (for languages without `dobj`/`iobj` distinction), `nsubj:passdir`, `nsubj:passind`, and `anom:agent` for the arguments of a passivized verb.  
+We propose that we no longer use a special `nsubjpass` relation in the _basic_ representation. However, the distiction between regular subjects and subjects in passive constructions is still highly useful for many NLP tasks. We therefore propose to use the relations `nsubj:pass` (for languages without `dobj`/`iobj` distinction), `nsubj:passdir`, `nsubj:passind`, and `advnom:agent` for the arguments of a passivized verb.  
 
 ~~~ sdparse
 The book was written by the author .
 
 nsubj:passdir(written, book)
-anom:agent(written, author)
+advnom:agent(written, author)
 ~~~
 
 ~~~ sdparse
