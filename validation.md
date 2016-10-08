@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-08T00:31:42Z">2016-10-08T00:31:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-08T01:44:08Z">2016-10-08T01:44:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -959,8 +959,8 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-08T00:31:23Z">2016-10-08T00:31:23 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-08T01:43:51Z">2016-10-08T01:43:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -980,7 +980,10 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-*** PASSED ***
+[Line                   189657]: Spurious morphological feature: '_Gender=Fem'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   189657]: Repeated features are disallowed: _Gender=Fem|Number=Sing
+*** FAILED *** with 2 errors
+Morpho errors: 2
 
 
 ******************
