@@ -794,6 +794,20 @@ collections:
   sr-overview:
     output: true
 #
+# Somali
+#
+  so-pos:
+    output: true
+    permalink: /so/pos/:path.html
+  so-feat:
+    output: true
+    permalink: /so/feat/:path.html
+  so-dep:
+    output: true
+    permalink: /so/dep/:path.html
+  so-overview:
+    output: true
+#
 # Template
 #
   template-pos:
