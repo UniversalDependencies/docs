@@ -28,3 +28,16 @@ punct(murdnud-8,.-9)
 ~~~
 
 The wolves had killed three sheep during the night.
+
+~~~ sdparse
+Hommikul püüdis kass kinni kena paksu hiire .
+nmod(püüdis-2, Hommikul-1)
+nsubj(püüdis-2, kass-3)
+compound:prt(püüdis-2, kinni-4)
+amod(hiire-7, kena-5)
+amod(hiire-7, paksu-6)
+dobj(püüdis-2, hiire-7)
+punct(püüdis-2,.-8)
+~~~
+
+In the morning, the cat caught a nice fat mouse.
