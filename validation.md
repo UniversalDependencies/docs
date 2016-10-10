@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-09T01:22:41Z">2016-10-09T01:22:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-10T01:54:34Z">2016-10-10T01:54:34 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -960,7 +960,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-09T01:22:24Z">2016-10-09T01:22:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-10T01:54:17Z">2016-10-10T01:54:17 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -982,7 +982,9 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
 [Line                   189654]: Spurious morphological feature: '_Gender=Fem'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   189654]: Repeated features are disallowed: _Gender=Fem|Number=Sing
-*** FAILED *** with 2 errors
+[Line                   375237]: The line has 11 columns, but 10 are expected.
+*** FAILED *** with 3 errors
+Format errors: 1
 Morpho errors: 2
 
 
