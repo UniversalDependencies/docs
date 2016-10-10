@@ -29,15 +29,15 @@ punct(murdnud-8,.-9)
 
 The wolves had killed three sheep during the night.
 
-~~~ sdparse
-Hommikul püüdis kass kinni kena paksu hiire .
-nmod(püüdis-2, Hommikul-1)
-nsubj(püüdis-2, kass-3)
-compound:prt(püüdis-2, kinni-4)
-amod(hiire-7, kena-5)
-amod(hiire-7, paksu-6)
-dobj(püüdis-2, hiire-7)
-punct(püüdis-2,.-8)
+~~~ conllx
+1 Hommikul  hommik  S _ _ 2 nmod  _ _
+2 püüdis  püüdma  V _	_ 0 root  _ _
+3 kass  kass  S _ _ 2 nsubj	_	_
+4	kinni	kinni	D	_	_	2	compound:prt	_	_
+5	kena	kena	A	_	_	7	amod	_	_
+6	paksu	paks	A	_	_	7	amod	_	_
+7	hiire	hiir	S	_	_	2	dobj	_	_
+8	.	.	Z	_	_	7	punct	_	_
 ~~~
 
 In the morning, the cat caught a nice fat mouse.
