@@ -1082,7 +1082,18 @@
   }, 
   {
     "lang_code": "sr", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Tanja Samard\u017ei\u0107", 
+        "last": "Samard\u017ei\u0107", 
+        "first": "Tanja"
+      }, 
+      {
+        "full": "Nikola Ljube\u0161i\u0107", 
+        "last": "Ljube\u0161i\u0107", 
+        "first": "Nikola"
+      }
+    ], 
     "lang_name": "Serbian"
   }, 
   {
@@ -1121,6 +1132,11 @@
       }
     ], 
     "lang_name": "Slovenian-SST"
+  }, 
+  {
+    "lang_code": "so", 
+    "contributors": [], 
+    "lang_name": "Somali"
   }, 
   {
     "lang_code": "es", 
