@@ -30,14 +30,14 @@ punct(murdnud-8,.-9)
 The wolves had killed three sheep during the night.
 
 ~~~ conllu
-1 Hommikul  hommik  NOUN _ _ 2 nmod  _ _
-2 püüdis  püüdma  VERB _	_ 0 root  _ _
-3 kass  kass  NOUN _ _ 2 nsubj	_	_
-4 kinni	kinni	ADV	_	_	2	compound:prt	_	_
-5 kena	kena	ADJ	_	_	7	amod	_	_
-6 paksu	paks	ADJ	_	_	7	amod	_	_
-7 hiire	hiir	NOUN	_	_	2	dobj	_	_
-8 .	.	PUNCT	_	_	2	punct	_	_
+1 Hommikul  hommik  NOUN  _ _ 2 nmod  _ _
+2 püüdis  püüdma  VERB  _ _ 0 root  _ _
+3 kass  kass  NOUN  _ _ 2 nsubj _ _
+4 kinni kinni ADV _ _ 2 compound:prt  _ _
+5 kena  kena  ADJ _ _ 7 amod  _ _
+6 paksu paks  ADJ _ _ 7 amod  _ _
+7 hiire hiir  NOUN  _ _ 2 dobj  _ _
+8 . . PUNCT _ _ 2 punct _ _
 ~~~
 
 In the morning, the cat caught a nice fat mouse.
