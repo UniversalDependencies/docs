@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-11T11:25:36Z">2016-10-11T11:25:36 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-11T11:39:08Z">2016-10-11T11:39:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -960,7 +960,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-11T08:50:44Z">2016-10-11T08:50:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-11T11:38:52Z">2016-10-11T11:38:52 zulu</time></span>
 </div>
 <div>
 <pre>
