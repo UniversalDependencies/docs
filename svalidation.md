@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-10-12T09:15:29Z">2016-10-12T09:15:29 zulu</time>
+Regenerated <time class="timeago" datetime="2016-10-12T09:18:55Z">2016-10-12T09:18:55 zulu</time>
 
 # Aux chain
 
@@ -19781,7 +19781,7 @@ Search expression: `_ <expl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cexpl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cexpl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cexpl+_&db=UD_French-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cexpl+_&db=UD_French-dev">161</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cexpl+_&db=UD_French-dev">245</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cexpl+_&db=UD_French-dev">357</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cexpl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cexpl+_&db=UD_French-dev">57</a></td>
@@ -20058,7 +20058,7 @@ Search expression: `_ <expl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">626 hits</span>
+<span class="widespan">710 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cexpl+_&db=UD_French-dev">Go to search</a><p/>
@@ -20236,7 +20236,7 @@ Search expression: `_ < (_ <expl _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3C+%28_+%3Cexpl+_%29&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3C+%28_+%3Cexpl+_%29&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3C+%28_+%3Cexpl+_%29&db=UD_French-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3C+%28_+%3Cexpl+_%29&db=UD_French-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3C+%28_+%3Cexpl+_%29&db=UD_French-dev">10</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3C+%28_+%3Cexpl+_%29&db=UD_French-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3C+%28_+%3Cexpl+_%29&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3C+%28_+%3Cexpl+_%29&db=UD_French-dev">&nbsp;</a></td>
@@ -20359,7 +20359,7 @@ Search expression: `_ < (_ <expl _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">18 hits</span>
+<span class="widespan">28 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3C+%28_+%3Cexpl+_%29&db=UD_French-dev">Go to search</a><p/>
@@ -20639,7 +20639,7 @@ Search expression: `_ >expl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Eexpl+_&db=UD_French-dev">36</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Eexpl+_&db=UD_French-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Eexpl+_&db=UD_French-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Eexpl+_&db=UD_French-dev">216</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Eexpl+_&db=UD_French-dev">300</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Eexpl+_&db=UD_French-dev">26</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Eexpl+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Eexpl+_&db=UD_French-dev">&nbsp;</a></td>
@@ -20955,7 +20955,7 @@ Search expression: `_ >expl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">624 hits</span>
+<span class="widespan">708 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Eexpl+_&db=UD_French-dev">Go to search</a><p/>
