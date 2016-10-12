@@ -720,6 +720,27 @@
     "lang_name": "Italian"
   }, 
   {
+    "lang_code": "ja", 
+    "contributors": [
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Japanese"
+  }, 
+  {
     "lang_code": "ja_ktc", 
     "contributors": [
       {
@@ -1097,6 +1118,11 @@
     "lang_name": "Serbian"
   }, 
   {
+    "lang_code": "sk", 
+    "contributors": [], 
+    "lang_name": "Slovak"
+  }, 
+  {
     "lang_code": "sl", 
     "contributors": [
       {
@@ -1135,7 +1161,13 @@
   }, 
   {
     "lang_code": "so", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Morgan Nilsson", 
+        "last": "Nilsson", 
+        "first": "Morgan"
+      }
+    ], 
     "lang_name": "Somali"
   }, 
   {
@@ -1257,8 +1289,8 @@
         "first": "G\u00fcl\u015fen"
       }, 
       {
-        "full": "Memduh Gokirmak", 
-        "last": "Gokirmak", 
+        "full": "Memduh G\u00f6k\u0131rmak", 
+        "last": "G\u00f6k\u0131rmak", 
         "first": "Memduh"
       }, 
       {
