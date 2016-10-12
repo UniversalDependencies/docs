@@ -29,3 +29,5 @@ for Morphological Annotation](http://www.nb.no/sbfil/dok/20140314_guidelines_ndt
 Per Erik Solberg, Arne Skjærholt, Lilja Øvrelid, Kristin Hagen and
 Janne Bondi Johannessen. 2014. "[The Norwegian Dependency Treebank](http://www.lrec-conf.org/proceedings/lrec2014/pdf/303_Paper.pdf)",
 Proceedings of LREC 2014, Reykjavik
+
+Lilja Øvrelid & Petter Hohle (2016). "[Universal Dependencies for Norwegian](http://www.lrec-conf.org/proceedings/lrec2016/pdf/462_Paper.pdf)", In Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'16)
