@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-13T14:17:56Z">2016-10-13T14:17:56 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-13T14:21:42Z">2016-10-13T14:21:42 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2085,12 +2085,19 @@ python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lin
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-13T14:17:56Z">2016-10-13T14:17:56 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-13T14:21:42Z">2016-10-13T14:21:42 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
 </pre>
 </div>
 <div>
