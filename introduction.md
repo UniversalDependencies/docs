@@ -28,28 +28,6 @@ is a very subtle compromise between approximately 6 things:
 
 It's easy to come up with a proposal that improves UD on one of these dimensions. The interesting and difficult part is to improve UD while remaining sensitive to all these dimensions.
 
-## Current work
-
-After extensive discussion, we have developed a somewhat extended universal part-of-speech tag set.
-This set makes some distinctions that were missing in the original proposal, but were perceived to
-be of importance by many, and clarifies the definition of categories. As a result of this work,
-universal POS categories have substantive definitions and are not necessarily just equivalence classes
-of categories in underlying language-particular treebanks. Hence, work to convert to UD POS tags often
-requires context-sensitive rules, or some hand correction.
-
-The UD morphological features aim to provide a stripped down basic set of features which are most crucial for
-analysis and are widespread across languages.
-
-The dependency representation of UD evolves out of Stanford Dependencies (SD), which itself follows ideas
-of grammatical relations-focused description that can be found in many linguistic frameworks. That is,
-it is centrally organized around notions of subject, object, clausal complement, noun determiner, noun modifier, etc.
-The goal of the new work was to simultaneously:
-
-* Add or refine relations to better accommodate the grammatical structures of typologically different languages
-* To clean up some of the quirkier and more English-specific features of the original version. Hence, the new taxonomy has _less_ relations than the original SD.
-
-
-
 ## History
 
 The Stanford dependencies were originally developed in 2005 as a backend to the Stanford parser
@@ -75,6 +53,18 @@ universal Stanford dependencies (USD) (de Marneffe et al., 2014).
 The new Universal Dependencies is the result of merging all these initiatives into a single coherent framework,
 based on universal Stanford dependencies, an extended version of the Google universal tagset, a revised
 subset of the Interset feature inventory, and a revised version of the CoNLL-X format (called CoNLL-U).
+
+The first version of the new guidelines, released in October 2014, introduced a somewhat extended universal 
+part-of-speech tag set. This set makes some distinctions that were missing in the original proposal, but 
+were perceived to be of importance by many, and clarifies the definition of categories. As a result of this work,
+universal POS categories have substantive definitions and are not necessarily just equivalence classes
+of categories in underlying language-particular treebanks. Hence, work to convert to UD POS tags often
+requires context-sensitive rules, or some hand correction. The UD morphological features aim to provide a 
+stripped down basic set of features which are most crucial for analysis and are widespread across languages.
+The dependency representation of UD evolves out of Stanford Dependencies (SD), which itself follows ideas
+of grammatical relations-focused description that can be found in many linguistic frameworks. That is,
+it is centrally organized around notions of subject, object, clausal complement, noun determiner, noun modifier, etc.
+The goal of the new universal version was to add or refine relations to better accommodate the grammatical structures of typologically different languages and to clean up some of the quirkier and more English-specific features of the original version. Hence, the new taxonomy has _less_ relations than the original SD.
 
 ## Project organization
 
