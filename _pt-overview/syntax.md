@@ -6,5 +6,8 @@ permalink: pt/overview/syntax.html
 
 # Syntax
 
-This document is a placeholder for the language-specific overview of
-guidelines for syntactic annotation.
+The syntactic annotation in the Portuguese treebanks follow the
+general guidelines but adds the language-specific relation:
+
+- _acl:relcl_ for relative clauses
+
