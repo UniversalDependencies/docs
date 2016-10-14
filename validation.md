@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-14T15:19:36Z">2016-10-14T15:19:36 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-14T20:42:50Z">2016-10-14T20:42:50 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -959,14 +959,30 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-12T09:19:12Z">2016-10-12T09:19:12 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-14T20:42:36Z">2016-10-14T20:42:36 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 
-*** PASSED ***
+[Line                   11037]: The line has 11 columns, but 10 are expected.
+[Line                   11037]: Empty value in column LEMMA
+[Line                   11037]: Unknown UPOS tag: Dodo
+[Line                   11037]: Unknown UD DEPREL: 6
+[Line                   11037]: Malformed head:deprel pair 'xcomp'
+[Line                   11037]: Invalid UPOSTAG value Dodo
+[Line                   11037]: Invalid DEPREL value 6
+[Line                   11037]: Failed for parse DEPS: xcomp
+[Line                   11053]: Undefined ID in HEAD: _
+[Line                   11053]: Failed for parse DEPS: xcomp
+[Line                   11053]: Failed for parse DEPS: xcomp
+[Tree number 401 on line 11031]: Empty head for word ID 7
+[Tree number 401 on line 11031]: Non-tree structure. Words 7,8,9,10,11,12,13,14,15,16,17,18,19,20 are not reachable from the root 0.
+*** FAILED *** with 13 errors
+Format errors: 6
+Morpho errors: 2
+Syntax errors: 5
 
 
 ******************
@@ -980,7 +996,23 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-*** PASSED ***
+[Tree number 4203 on line 117307]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,12.
+[Line                   117331]: Loop from 12
+[Tree number 4203 on line 117307]: Non-tree structure. Words 24 are not reachable from the root 0.
+[Line                   343102]: The line has 9 columns, but 10 are expected.
+[Line                   343102]: Column ID is not allowed to contain whitespace: '2 ticket'
+Traceback (most recent call last):
+  File "tools/validate.py", line 499, in <module>
+    validate(inp,out,args,tagsets)
+  File "tools/validate.py", line 405, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 85, in trees
+    validate_cols(cols,tag_sets,args)
+  File "tools/validate.py", line 100, in validate_cols
+    validate_whitespace(cols)
+  File "tools/validate.py", line 115, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
 
 
 ******************
