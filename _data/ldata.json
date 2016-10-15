@@ -808,6 +808,17 @@
     "lang_name": "Korean"
   }, 
   {
+    "lang_code": "kmr", 
+    "contributors": [
+      {
+        "full": "Memduh G\u00f6k\u0131rmak", 
+        "last": "G\u00f6k\u0131rmak", 
+        "first": "Memduh"
+      }
+    ], 
+    "lang_name": "Kurmanji"
+  }, 
+  {
     "lang_code": "la", 
     "contributors": [
       {
@@ -1171,6 +1182,17 @@
     "lang_name": "Somali"
   }, 
   {
+    "lang_code": "ckb", 
+    "contributors": [
+      {
+        "full": "Memduh G\u00f6k\u0131rmak", 
+        "last": "G\u00f6k\u0131rmak", 
+        "first": "Memduh"
+      }
+    ], 
+    "lang_name": "Sorani"
+  }, 
+  {
     "lang_code": "es", 
     "contributors": [
       {
@@ -1256,7 +1278,33 @@
   }, 
   {
     "lang_code": "swl", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Moa G\u00e4rdenfors", 
+        "last": "G\u00e4rdenfors", 
+        "first": "Moa"
+      }, 
+      {
+        "full": "Carl B\u00f6rstell", 
+        "last": "B\u00f6rstell", 
+        "first": "Carl"
+      }, 
+      {
+        "full": "Robert \u00d6stling", 
+        "last": "\u00d6stling", 
+        "first": "Robert"
+      }, 
+      {
+        "full": "Lars Wallin", 
+        "last": "Wallin", 
+        "first": "Lars"
+      }, 
+      {
+        "full": "Mats Wir\u00e9n", 
+        "last": "Wir\u00e9n", 
+        "first": "Mats"
+      }
+    ], 
     "lang_name": "Swedish_Sign_Language"
   }, 
   {
