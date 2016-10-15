@@ -822,6 +822,20 @@ collections:
   kmr-overview:
     output: true
 #
+# Sorani
+#
+  ckb-pos:
+    output: true
+    permalink: /ckb/pos/:path.html
+  ckb-feat:
+    output: true
+    permalink: /ckb/feat/:path.html
+  ckb-dep:
+    output: true
+    permalink: /ckb/dep/:path.html
+  ckb-overview:
+    output: true
+#
 # Template
 #
   template-pos:
