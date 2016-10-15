@@ -808,6 +808,20 @@ collections:
   so-overview:
     output: true
 #
+# Kurmanji
+#
+  kmr-pos:
+    output: true
+    permalink: /kmr/pos/:path.html
+  kmr-feat:
+    output: true
+    permalink: /kmr/feat/:path.html
+  kmr-dep:
+    output: true
+    permalink: /kmr/dep/:path.html
+  kmr-overview:
+    output: true
+#
 # Template
 #
   template-pos:
