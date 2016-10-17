@@ -33,7 +33,7 @@ flat(Pignon, Monsieur)
 flat(Pignon, Louis)
 ~~~
 
-In case of foreign phrases that are phrasal or clausal names, we use [u-dep/foreign](), given that `flat` is restricted only to multiple nominal elements.
+In case of foreign phrases that are phrasal or clausal names and where we do not (or cannot) give a compositional analysis, we use [u-dep/foreign]() instead of `flat`, because the latter is restricted to sequences of nominal elements that do not have a (clear) phrasal structure.
 
 ~~~ sdparse
 The French title of the book is " Harry à l' école des sorciers ".
