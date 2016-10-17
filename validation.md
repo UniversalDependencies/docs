@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-17T01:20:46Z">2016-10-17T01:20:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-17T07:17:32Z">2016-10-17T07:17:32 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -960,7 +960,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-17T01:20:37Z">2016-10-17T01:20:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-17T07:17:15Z">2016-10-17T07:17:15 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -980,19 +980,17 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   182454]: The line has 9 columns, but 10 are expected.
-Traceback (most recent call last):
-  File "tools/validate.py", line 499, in <module>
-    validate(inp,out,args,tagsets)
-  File "tools/validate.py", line 405, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 85, in trees
-    validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 100, in validate_cols
-    validate_whitespace(cols)
-  File "tools/validate.py", line 115, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+[Line                   402190]: Unknown UPOS tag: _
+[Line                   402190]: Unknown UD DEPREL: _
+[Line                   402190]: Invalid UPOSTAG value _
+[Line                   402190]: Invalid DEPREL value _
+[Line                   402255]: Undefined ID in HEAD: _
+[Tree number 14289 on line 402185]: Empty head for word ID 6
+[Tree number 14289 on line 402185]: Non-tree structure. Words 6 are not reachable from the root 0.
+*** FAILED *** with 7 errors
+Format errors: 2
+Morpho errors: 2
+Syntax errors: 3
 
 
 ******************
