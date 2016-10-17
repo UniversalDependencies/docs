@@ -1,6 +1,5 @@
 ---
 layout: base
-<!--title:  'Prague Meeting'-->
 title: 'UD v2'
 ---
 
