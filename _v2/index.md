@@ -9,14 +9,14 @@ This is the entry point for pages where we prepare version 2 of the universal gu
 It is not a clone of the [main documentation](../index.html). The relevant documentation pages should be referenced from here,
 their modification proposed and discussed here, and later copied to the documentation.
 
-Deadlines:
+Deadlines (revised 2016-10-17):
 
-* 2016-09-01: Draft guidelines made available for feedback
-* 2016-10-01: Guidelines fixed for next release
-* 2016-11-01: Data freeze for next release
+* 2016-10-17: Draft guidelines made available for feedback
+* 2016-12-01: Guidelines fixed for spring release and CoNLL shared task
 
 Some quick links:
 
+* [UD v2 draft](../2016-09-05--06-prague/index.html)
 * [Issue tracker, universal v2 filter](https://github.com/UniversalDependencies/docs/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20milestone%3A%22universal%20v2%22)
 * [Uppsala meeting](../2015-08-23-uppsala/)
 
