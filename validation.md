@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-15T19:07:17Z">2016-10-15T19:07:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-17T01:20:46Z">2016-10-17T01:20:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -960,7 +960,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-15T12:27:09Z">2016-10-15T12:27:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-17T01:20:37Z">2016-10-17T01:20:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -980,70 +980,19 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   88552]: Unknown UPOS tag: _
-[Line                   88552]: Unknown UD DEPREL: _
-[Line                   88552]: Invalid UPOSTAG value _
-[Line                   88552]: Invalid DEPREL value _
-[Line                   88553]: Unknown UPOS tag: _
-[Line                   88553]: Unknown UD DEPREL: _
-[Line                   88553]: Invalid UPOSTAG value _
-[Line                   88553]: Invalid DEPREL value _
-[Line                   88554]: Unknown UPOS tag: _
-[Line                   88554]: Unknown UD DEPREL: _
-[Line                   88554]: Invalid UPOSTAG value _
-[Line                   88554]: Invalid DEPREL value _
-[Line                   88555]: Unknown UPOS tag: _
-[Line                   88555]: Unknown UD DEPREL: _
-[Line                   88555]: Invalid UPOSTAG value _
-[Line                   88555]: Invalid DEPREL value _
-[Line                   88556]: Unknown UPOS tag: _
-[Line                   88556]: Unknown UD DEPREL: _
-[Line                   88556]: Invalid UPOSTAG value _
-[Line                   88556]: Invalid DEPREL value _
-[Line                   88579]: Undefined ID in HEAD: _
-[Line                   88579]: Undefined ID in HEAD: _
-[Line                   88579]: Undefined ID in HEAD: _
-[Line                   88579]: Undefined ID in HEAD: _
-[Line                   88579]: Undefined ID in HEAD: _
-[Tree number 3141 on line 88552]: Empty head for word ID 1
-[Tree number 3141 on line 88552]: Empty head for word ID 2
-[Tree number 3141 on line 88552]: Empty head for word ID 3
-[Tree number 3141 on line 88552]: Empty head for word ID 4
-[Tree number 3141 on line 88552]: Empty head for word ID 5
-[Tree number 3141 on line 88552]: Non-tree structure. Words 1,2,3,4,5 are not reachable from the root 0.
-[Line                   170015]: Unknown UPOS tag: _
-[Line                   170015]: Unknown UD DEPREL: _
-[Line                   170015]: Invalid UPOSTAG value _
-[Line                   170015]: Invalid DEPREL value _
-[Line                   170016]: Unknown UPOS tag: _
-[Line                   170016]: Unknown UD DEPREL: _
-[Line                   170016]: Invalid UPOSTAG value _
-[Line                   170016]: Invalid DEPREL value _
-[Line                   170017]: Unknown UPOS tag: _
-[Line                   170017]: Unknown UD DEPREL: _
-[Line                   170017]: Invalid UPOSTAG value _
-[Line                   170017]: Invalid DEPREL value _
-[Line                   170018]: Unknown UPOS tag: _
-[Line                   170018]: Unknown UD DEPREL: _
-[Line                   170018]: Invalid UPOSTAG value _
-[Line                   170018]: Invalid DEPREL value _
-[Line                   170019]: Unknown UPOS tag: _
-...suppressing further errors regarding Syntax
-...suppressing further errors regarding Morpho
-[Line                   170040]: Undefined ID in HEAD: _
-[Line                   170040]: Undefined ID in HEAD: _
-[Line                   170040]: Undefined ID in HEAD: _
-[Line                   170040]: Undefined ID in HEAD: _
-[Line                   170040]: Undefined ID in HEAD: _
-[Line                   170040]: Undefined ID in HEAD: _
-[Line                   170040]: Undefined ID in HEAD: _
-[Tree number 6073 on line 169994]: Empty head for word ID 22
-[Tree number 6073 on line 169994]: Empty head for word ID 23
-...suppressing further errors regarding Format
-*** FAILED *** with 226 errors
-Format errors: 74
-Morpho errors: 74
-Syntax errors: 78
+[Line                   182454]: The line has 9 columns, but 10 are expected.
+Traceback (most recent call last):
+  File "tools/validate.py", line 499, in <module>
+    validate(inp,out,args,tagsets)
+  File "tools/validate.py", line 405, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 85, in trees
+    validate_cols(cols,tag_sets,args)
+  File "tools/validate.py", line 100, in validate_cols
+    validate_whitespace(cols)
+  File "tools/validate.py", line 115, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
 
 
 ******************
