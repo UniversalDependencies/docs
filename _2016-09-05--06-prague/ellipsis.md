@@ -9,7 +9,9 @@ The `remnant` relation turned out to be a non-optimal way for analyzing complex 
 
 * The `remnant` relation should be discarded
 * In the case of simple head ellipsis, the dependent should be promoted 
-* In case of predicate ellipsis, a more complex relation type that combines the relation of the elided node and its dependent should be used (e.g., `conj>dobj`)
+* In case of predicate ellipsis, we consider two alternative proposals:
+  1. Use a more complex relation type that combines the relation of the elided node and its dependent (e.g., `conj>dobj`)
+  2. Use promotion but introduce a new relation `orphan` for non-standard dependency relations that arises  
 * The complex cases of ellipsis should be analyzed with NULL nodes in the _enhanced_ representation
 
 ## Problems with the `remnant` analysis
@@ -78,7 +80,7 @@ dobj(saw-7, two-8)
 
 ### Clauses
 
-If the main predicate is elided, we promote only if there is an `aux` or `cop` (or possibly `advmod` or `mark` in the form of infinitival markers).
+If the main predicate is elided, we promote only if there is an `aux` or `cop`, or a `mark` in the form of an infinitival marker.
 
 Example:
 
@@ -92,27 +94,15 @@ nsubj(does-6, Peter-5)
 advmod(does-6, too-8)
 ~~~
 
-
-### To discuss:
-
-Should we also promote adverbial modifiers as in the following example? 
-
-__Sebastian__: I think we should not because of the weird `nsubj` relation between the subject and the adverb, and instead treat such examples the same way we treat predicate ellipsis.
-
 ~~~ sdparse
-Sue needs a good friend , and probably Peter , too . 
+Sue is hungry and Peter is , too . 
 
-nsubj(needs-2, Sue-1)
-dobj(needs-2, friend-5)
-conj(needs-2, too-11)
-advmod(too-11, probably-8)
-nsubj(too-11, Peter-9)
+nsubj(hungry-3, Sue-1)
+cop(hungry-3, is-2)
+conj(hungry-3, is-6)
+nsubj(is-6, Peter-5)
+advmod(is-6, too-8)
 ~~~
-
-
-Should we also promote infinitival markers as in the following example? 
-
-__Sebastian__: I think we should as it doesn't seem to introduce any weird relations and using a more complex composite relation (see below) of the form _xcomp>mark_ does not have any advantages.
 
 ~~~ sdparse
 They will do it if they want to .
@@ -124,7 +114,6 @@ advcl(do-3, want-7)
 nsubj(want-7, they-6)
 xcomp(want-7, to-8)
 ~~~
-
 
 ## Predicate ellipsis in _Basic_ UD v2
 
@@ -139,7 +128,11 @@ nsubj(coffee-6, you-5)
 conj(like-2, coffee-6)
 ~~~ 
 
-We therefore propose to attach orphans to their grandparent with a composite relation of the form `headrel>orphanrel`.
+We consider two alternative proposals for dealing with such cases in UD basic dependencies, one that make use of composite relations (but do not introduce any new relations) and one that instead adds a new relation tentatively dubbed `orphan` to preserve intuitions about constituency.
+
+### Predicate ellipis 1: composite relations
+
+The first alternative is to attach orphans to their grandparent with a composite relation of the form `headrel>orphanrel`.
 
 Example:
 
@@ -189,9 +182,51 @@ root>nsubj(ROOT, Jenny)
 root>xcomp>dobj(ROOT, CD)
 ~~~ 
 
+### Predicate ellipis 2: orphan instead of remnant
+
+The second alternative preserves the integrity of the second conjunct as a single subtree by (arbitrarily) promoting one of the orphans to the (subclause) root and attaching the others with a new dummy relation `orphan` (or possibly `ncc` for non-constituent coordination). Here are the same examples annotated according to this alternative:
+
+~~~ sdparse
+I like tea and you coffee .
+
+nsubj(like-2, I-1)
+dobj(like-2, tea-3)
+conj(like-2, you-5)
+orphan(you-5, coffee-6)
+~~~ 
+
+~~~ sdparse
+Mary wants to buy a book and Jenny a CD .
+
+nsubj(wants-2, Mary-1)
+xcomp(wants-2, buy-4)
+dobj(buy-4, book-6)
+conj(wants-2, Jenny-8)
+orphan(Jenny-8, CD-10)
+~~~ 
+
+~~~ sdparse
+They had left the company , many for good .
+
+nsubj(left, They)
+dobj(left, company)
+conj(left, many)
+orphan(many, good)
+~~~
+
+~~~ sdparse
+Mary wants to buy a book . ROOT And Jenny a CD .
+
+nsubj(wants-2, Mary-1)
+xcomp(wants-2, buy-4)
+dobj(buy-4, book-6)
+root(ROOT, Jenny)
+orphan(Jenny, CD)
+~~~ 
+
 ## Predicate ellipsis in _Enhanced_ UD v2
 
-While we hold on to the principle that _basic_ UD trees have to be strict surface syntax trees, we propose to relax this requirement in the _enhanced_ representation and to allow special null nodes for sentences with elided predicates. These nodes have special word indices of the form _a.b_, where _a_ is the index of the token that would precede the elided word and _b_ is a counter. (See also the description of the [proposed changes](conll-u.html) to the CoNLL-U file format.) Whenever the _basic_ representation contains a composite relation, the _enhanced_ representation contains additional null nodes to resolve all composite relations into simple relations.
+While we hold on to the principle that _basic_ UD trees have to be strict surface syntax trees, we propose to relax this requirement in the _enhanced_ representation and to allow special null nodes for sentences with elided predicates. These nodes have special word indices of the form _a.b_, where _a_ is the index of the token that would precede the elided word and _b_ is a counter. (See also the description of the [proposed changes](conll-u.html) to the CoNLL-U file format.) Whenever the _basic_ representation contains a composite relation under proposal 1 above, the _enhanced_ representation contains additional null nodes to resolve all composite relations into simple relations.
 
 For example, the sentences from the previous section are analyzed as following in the _enhanced_ representation. (The special null nodes are labelled with _Ea.b_ .) 
 
@@ -227,14 +262,11 @@ nsubj(E7.1, many)
 nmod(E7.1, good)
 ~~~
 
+In the first example, the node _E5.1_ is added for the elided predicate _like_. In the second example, we add one node for the elided matrix verb _wants_ (_E8.1_) and one node for the elided embedded verb _buy_ (_E8.2_). As the elided marker _to_ does not have any dependents, we do not add a null node for it. We also recommend adding a link between the null nodes and their corresponding surface forms in the sentence (e.g., linking _E5.1_ to _like_ in the first example)?
 
-In the first example, the node _E5.1_ is added for the elided predicate _like_. In the second example, we add one node for the elided matrix verb _wants_ (_E8.1_) and one node for the elided embedded verb _buy_ (_E8.2_). As the elided marker _to_ does not have any dependents, we do not add a null node for it. 
+Finally, it should be noted that, if we adopt alternative 1 for the basic dependencies, then the enhanced representation can in most cases be inferred automatically, whereas with alternative 2 additional annotation will be needed.
 
-### To discuss:
 
-Should we also have a link between the null nodes and their corresponding surface forms in the sentence (e.g., linking _E5.1_ to _like_ in the first example)? 
-
-__Sebastian__: I think we should have this information somewhere. If the maintainers of a treebank actually go through all examples of predicate ellipsis to add null nodes, then it wouldn't be much more work to specify the corresponding surface form in the sentence and this information could potentially be very useful.
 
 
 
