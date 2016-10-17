@@ -50,7 +50,7 @@ nsubj(won, Bolt)
 flat(Bolt, Usain)
 ~~~
 
-However we do not extend this change to the [u-dep/reparandum]() relation. In repairs, the material to the right will be the "correct" material, and it would seem strange to have something that the speaker of the utterance wants to discard as a direct dependent of the other words in the sentence while the corrected word is buried down in the dependency graph.
-As noted by Gerdes & Kahane (2016), there are of course borderline cases between elaboration and disfluency such as *I saw a room, a bright room, a room with red lights*, but it doesn't seem wrong to us to take the last element *a room with red lights* as the governor of *a room* and *a bright room*.
+<!--However we do not extend this change to the [u-dep/reparandum]() relation. In repairs, the material to the right will be the "correct" material, and it would seem strange to have something that the speaker of the utterance wants to discard as a direct dependent of the other words in the sentence while the corrected word is buried down in the dependency graph.
+As noted by Gerdes & Kahane (2016), there are of course borderline cases between elaboration and disfluency such as *I saw a room, a bright room, a room with red lights*, but it doesn't seem wrong to us to take the last element *a room with red lights* as the governor of *a room* and *a bright room*.-->
 
 
