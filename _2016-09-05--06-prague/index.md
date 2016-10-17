@@ -1,7 +1,7 @@
 ---
 layout: base
 <!--title:  'Prague Meeting'-->
-title: UD v2, draft of October 17, 2016
+title: 'UD v2'
 ---
 
 <!--# UD meeting in Prague, September 5-6, 2016
