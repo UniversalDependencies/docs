@@ -8,7 +8,7 @@ title:  'Coordination in UD v2'
 Coordination is analyzed by having direct [u-dep/conj]() relations between conjuncts in accordance with the general principle of prioritizing relations between content word. In v1, the first conjunct was taken to be the head not only of all following conjuncts but also of any intervening coordinating conjunctions and punctuation. For v2, we propose the following changes:
 
 * Attach coordinating conjunctions and punctuation to the immediately succeding conjunct (instead of the first)
-* Treat coordination as a right-headed structure that consistently allow gapping (only) in earlier conjuncts
+* Allow coordination to be analyzed as a right-headed structure in languages that consistently allow gapping (only) in earlier conjuncts
 
 ## Attachment of coordinating conjunctions and punctuation
 
@@ -81,3 +81,5 @@ root>nsubj(ROOT, kardeşi)
 root>conj(ROOT, aldı)
 compound(kardeşi, Erkek)
 ~~~
+
+It is important to note that we do not allow a mix of left-headed and right-headed analyses in one and the same language. The universal default for coordination is to treat the first (or leftmost) conjunct as the head. If a language makes an exception from this default, it must use the exceptional (right-headed) analysis for all coordination structures.
