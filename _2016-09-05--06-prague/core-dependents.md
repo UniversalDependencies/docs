@@ -8,11 +8,11 @@ title:  'Core Dependents in UD v2'
 The distinction between core arguments and oblique modifiers is at the heart of the UD taxonomy of syntactic relations but has been criticized because it is hard to apply cross-linguistically. For v2 we propose:
 
 * Keep the core-oblique distinction and work out more detailed guidelines for how to apply it in different languages
-* Replace the relations [u-dep/dobj]() and [u-dep/iobj]() by a single relation **obj** (with language-specific subtypes **obj:dir** and **obj:ind**)
-* Remove the relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() (and replace [u-dep/auxpass]() by an optional **aux:pass**)
+* Replace the relations [u-dep/dobj]() and [u-dep/iobj]() by a single relation **obj** and add a language-specific subtype  **obj:ind** to be used for indirect objects in languages that allow extended transitive clauses.
+* Remove the relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() and add language-specific subtypes **nsubj:pass** and **csubj:pass**. (By analogy, the functional relation **auxpass** will be removed and the subtype **aux:pass** added.
 * Split the modifier relation [u-dep/nmod]() into two new relations **anom** and **advnom**
 
-Below we discuss and motivate each of these proposals in turn. We also list some remaining issues that need to be discussed in this area.
+Below we discuss and motivate each of these proposals in turn. 
 
 ## Keep the core-oblique distinction
 
@@ -93,18 +93,18 @@ nmod(gave, John)
 case(John, to)
 </div>
 
-In line with our overall decision to keep the core-oblique distinction, we should also continue to make a distinction between true indirect objects (realized as core arguments) and oblique modifiers realizing a similar semantic role. However, because not all languages allow extended transitives, we think it will be more correct (and less confusing) to make this distinction using language-specific subtypes. We therefore recommend that the (current) universal relations [u-dep/dobj]() and [u-dep/iobj]() are replaced by a single universal relation **obj** (for object). In languages with extended transitives, this relation will have two language-specific subtypes **obj:dir** (for direct object) and **obj:ind** (for indirect object).
+In line with our overall decision to keep the core-oblique distinction, we should also continue to make a distinction between true indirect objects (realized as core arguments) and oblique modifiers realizing a similar semantic role. However, because not all languages allow extended transitives, we think it will be more correct (and less confusing) to make this distinction using language-specific subtypes. We therefore recommend that the (current) universal relations [u-dep/dobj]() and [u-dep/iobj]() are replaced by a single universal relation **obj** (for object). In languages with extended transitives, the language-specific subtype **obj:ind** should be used for indirect objects, while direct objects are still labeled **obj** (with no subtype). This convention brings out the fact that indirect objects are typologically marked.
 
 ## Remove special relations for passive subjects
 
-The current guidelines distinguish [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from [u-dep/nsubj](), [u-dep/csubj]() and [u-dep/aux]() to capture the fact that the subject of a passive has a different role than the subject of the corresponding active verb. While this is useful for many NLP applications of UD, it seems to go against the general spirit in UD of annotating syntactic functions rather than semantic roles. A possible counterargument is that passive is a grammaticalized process and therefore part of syntax, but it seems we should then treat other valency-changing operations like causative and antipassive in the same way. Not only would this lead to a proliferation of grammatical relations, it would also go against the lexicalist stance in UD, which seems to favor a lexicalist analysis of these operations (as in LFG, for example).
+The current guidelines distinguish [u-dep/nsubjpass](), [u-dep/csubjpass](), and [u-dep/auxpass]() from [u-dep/nsubj](), [u-dep/csubj]() and [u-dep/aux]() to capture the fact that the subject of a passive has a different role than the subject of the corresponding active verb. While this is useful for many NLP applications of UD, it goes against the general spirit in UD of annotating syntactic functions rather than semantic roles. A possible counterargument is that passive is a grammaticalized process and therefore part of syntax, but it seems we should then treat other valency-changing operations like causative and antipassive in the same way. Not only would this lead to a proliferation of grammatical relations, it would also go against the lexicalist stance in UD, which seems to favor a lexicalist analysis of these operations (as in LFG, for example).
 
-Our proposal is therefore that we get rid of the core argument relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() and instead encode information about valency-changing operations only on the predicate. If the valency-changing operation is encoded morphologically (either as inflection or as derivation), it can be encoded using a morphological feature like Voice=Pass or Voice=Caus. If it is encoded periphrastically, this option is not directly applicable and we therefore
-propose to preserve the information encoded in the [u-dep/auxpass]() relation, but to make it a language-specific option, hence **aux:pass**. This also opens up for relations like **aux:caus** for languages that have a periphrastic causative construction.
+Our proposal is therefore that we replace the universal relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() by the language-specific subtypes **nsubj:pass** and **csubj:pass**. Regardless of whether the subtypes are used or not, information about valency-changing operations can be annotated on the predicate. If the valency-changing operation is encoded morphologically (either as inflection or as derivation), it can be encoded using a morphological feature like Voice=Pass or Voice=Caus. If it is encoded periphrastically, this option is not directly applicable and we therefore
+propose to preserve the information encoded in the [u-dep/auxpass]() relation, but to make it a language-specific option, hence **aux:pass**. This also opens up for relations like **aux:caus** for languages that have a periphrastic causative construction. 
 
 <div id="s8" class="sd-parse">
 she was invited to the party
-nsubj(invited, she)
+nsubj:pass(invited, she)
 aux:pass(invited, was)
 nmod(invited, party)
 det(party, the)
@@ -169,8 +169,4 @@ We therefore propose that the [u-dep/nmod]() relation is split into two relation
 * Adnominal modifiers are named aX, where X is cl (clause), nom (nominal) or modifier word (mod).
 * Adverbial modifiers are named advX, where X is cl (clause), nom (nominal) or modifier word (mod).
 
-## To discuss
-
-* Non-canonical subjects: One issue that needs to be discussed is under what circumstances subjects can occur with oblique encoding. In Turkish subordinate clauses, for example, the verb is nominalized and the subject occurs in genitive instead of nominative. This is a completely regular grammatical process of complementation, and it occurs regardless of which verb is involved, so it seems well motivated to say that the genitive nominal is still the subject. By contrast, many languages express possession with a form of the verb “to be”, the thing owned in nominative and the possessor in an oblique case like dative. That is, instead of saying “X has Y”, they say “Y is to X”. In this case, there is no reason to say that the dative nominal is the subject, just because the corresponding nominal would be the subject in other languages. After all, it is precisely this kind of systematic difference between languages that we want to be able to study.
-* Expletives: When should the [u-dep/expl]() relation be used? Is it reserved for pleonastic subjects or can it also be used for non-referential pronouns in inherent reflexives, as recommended by the working group at the Uppsala meeting (see [report](../2015-08-23-uppsala/clitics.html))? And what about clitics?
 
