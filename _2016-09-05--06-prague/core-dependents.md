@@ -9,7 +9,7 @@ The distinction between core arguments and oblique modifiers is at the heart of 
 
 * Keep the core-oblique distinction and work out more detailed guidelines for how to apply it in different languages
 * Replace the relations [u-dep/dobj]() and [u-dep/iobj]() by a single relation **obj** and add a language-specific subtype  **obj:ind** to be used for indirect objects in languages that allow extended transitive clauses.
-* Remove the relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() and add language-specific subtypes **nsubj:pass** and **csubj:pass**. (By analogy, the functional relation **auxpass** will be removed and the subtype **aux:pass** added.
+* Remove the relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() and add language-specific subtypes **nsubj:pass** and **csubj:pass**. (By analogy, the functional relation **auxpass** will be removed and the subtype **aux:pass** added.)
 * Split the modifier relation [u-dep/nmod]() into two new relations **anom** and **advnom**
 
 Below we discuss and motivate each of these proposals in turn. 
