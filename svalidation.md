@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-10-18T15:27:17Z">2016-10-18T15:27:17 zulu</time>
+Regenerated <time class="timeago" datetime="2016-10-18T18:32:15Z">2016-10-18T18:32:15 zulu</time>
 
 # Aux chain
 
@@ -1141,25 +1141,6 @@ conj(honest, big)
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cconj%40R+_&db=UD_Spanish-dev">8</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cconj%40R+_&db=UD_Spanish-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Swedish_Sign_Language</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Turkish</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cconj%40R+_&db=UD_Turkish-dev">377</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cconj%40R+_&db=UD_Turkish-dev">4</a></td>
@@ -1428,13 +1409,6 @@ conj(honest, big)
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cconj%40R+_&db=UD_Spanish-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
-<span class="widespan">7 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cconj%40R+_&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Turkish</span>
@@ -2960,23 +2934,6 @@ Search expression: `(!(VERB|AUX)) <cop _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Ccop+_&db=UD_Spanish-AnCora-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ccop+_&db=UD_Spanish-AnCora-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Swedish_Sign_Language</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Uyghur</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccop+_&db=UD_Uyghur-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccop+_&db=UD_Uyghur-dev">2</a></td>
@@ -3201,13 +3158,6 @@ Search expression: `(!(VERB|AUX)) <cop _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21%28VERB%7CAUX%29%29+%3Ccop+_&db=UD_Spanish-AnCora-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
-<span class="widespan">2 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21%28VERB%7CAUX%29%29+%3Ccop+_&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Uyghur</span>
@@ -3711,7 +3661,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
-<span class="widespan">11 hits</span>
+<span class="widespan">10 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
@@ -4531,7 +4481,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
-<span class="widespan">7 hits</span>
+<span class="widespan">8 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28PRON%7CDET%29%26%21PronType&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
@@ -4844,7 +4794,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
-<span class="widespan">3 hits</span>
+<span class="widespan">2 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM%26%21NumType&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
@@ -7647,24 +7597,6 @@ Search expression: `_ >dobj|>ccomp _ >dobj|>ccomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish-LinES-dev">63</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Swedish_Sign_Language</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">1</a></td>
-</tr>
 <tr><td>UD_Tamil</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Tamil-dev">7</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Tamil-dev">&nbsp;</a></td>
@@ -8084,13 +8016,6 @@ Search expression: `_ >dobj|>ccomp _ >dobj|>ccomp _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish-LinES-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
-<span class="widespan">2 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Tamil</span>
@@ -11800,6 +11725,13 @@ Hits table not produced since the query does not start with the simple token spe
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Swedish-LinES-dev">Go to search</a><p/>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
+<span class="widespan">1 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Tamil</span>
 <span class="widespan">58 hits</span>
 </div>
@@ -12903,6 +12835,25 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish-LinES-dev">7</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
 </tr>
+<tr><td>UD_Swedish_Sign_Language</td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
+</tr>
 <tr><td>UD_Tamil</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Tamil-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Tamil-dev">&nbsp;</a></td>
@@ -13372,6 +13323,13 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish-LinES-dev">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
+<span class="widespan">1 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Tamil</span>
@@ -14172,22 +14130,6 @@ Search expression: `!PRON&!NOUN&!PROPN >acl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Eacl+_&db=UD_Swedish-LinES-dev">15</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Eacl+_&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Swedish_Sign_Language</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">11</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">1</a></td>
-</tr>
 <tr><td>UD_Tamil</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Eacl+_&db=UD_Tamil-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Eacl+_&db=UD_Tamil-dev">&nbsp;</a></td>
@@ -14566,13 +14508,6 @@ Search expression: `!PRON&!NOUN&!PROPN >acl _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21PRON%26%21NOUN%26%21PROPN+%3Eacl+_&db=UD_Swedish-LinES-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
-<span class="widespan">12 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%21PRON%26%21NOUN%26%21PROPN+%3Eacl+_&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Tamil</span>
@@ -17185,7 +17120,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Swedish_Sign_Language-dev">2</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Tamil</td>
@@ -17561,7 +17496,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
-<span class="widespan">3 hits</span>
+<span class="widespan">1 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21AUX+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
@@ -22214,25 +22149,6 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_Swedish-LinES-dev">1328</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Excomp+_&db=UD_Swedish-LinES-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Swedish_Sign_Language</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=INTJ+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PART+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Tamil</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Excomp+_&db=UD_Tamil-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Excomp+_&db=UD_Tamil-dev">&nbsp;</a></td>
@@ -22662,13 +22578,6 @@ Search expression: `_ >xcomp _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Excomp+_&db=UD_Swedish-LinES-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Swedish_Sign_Language</span>
-<span class="widespan">1 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Excomp+_&db=UD_Swedish_Sign_Language-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Tamil</span>
