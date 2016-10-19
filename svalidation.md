@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-10-19T14:57:48Z">2016-10-19T14:57:48 zulu</time>
+Regenerated <time class="timeago" datetime="2016-10-19T23:18:28Z">2016-10-19T23:18:28 zulu</time>
 
 # Aux chain
 
@@ -4647,7 +4647,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">10716 hits</span>
+<span class="widespan">10677 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM%26%21NumType&db=UD_French-dev">Go to search</a><p/>
@@ -8496,7 +8496,7 @@ Search expression: `_ <case (_ (<!nmod&<!nmod:agent&<!conj) _)`
 </tr>
 <tr><td>UD_French</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADJ+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_French-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_French-dev">717</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADP+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_French-dev">718</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=ADV+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_French-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=AUX+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=CONJ+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_French-dev">&nbsp;</a></td>
@@ -9343,7 +9343,7 @@ Search expression: `_ <case (_ (<!nmod&<!nmod:agent&<!conj) _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">757 hits</span>
+<span class="widespan">758 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_French-dev">Go to search</a><p/>
@@ -14619,7 +14619,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Finnish-FTB-dev">173</a></td>
 </tr>
 <tr><td>UD_French</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_French-dev">645</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_French-dev">627</a></td>
 </tr>
 <tr><td>UD_Galician</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Galician-dev">885</a></td>
@@ -14891,7 +14891,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">645 hits</span>
+<span class="widespan">627 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_French-dev">Go to search</a><p/>
