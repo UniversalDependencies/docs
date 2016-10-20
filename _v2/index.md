@@ -14,7 +14,7 @@ Per-issue reports and proposals:-->
 
 # Universal Dependencies v2
 
-The following thematically organized reports summarize the most important changes proposed for v2 of the UD guidelines. The proposal has been worked out by the core group responsible for the universal guidelines based on input from the whole UD community. Earlier discussions on some of these themes can be found [here](/v2_prelim/index.html).
+The following thematically organized reports summarize the most important changes proposed for v2 of the UD guidelines. The proposal has been worked out by the core group responsible for the universal guidelines based on input from the whole UD community. 
 
 1. [Core dependents](core-dependents.html) <!--(Joakim)-->
 2. [Ellipsis](ellipsis.html) <!--(Sebastian)-->
@@ -31,3 +31,9 @@ The following thematically organized reports summarize the most important change
 13. [CoNLL-U format](conll-u.html) <!--(Filip)-->
 <!--14. [Minimal requirements for language-specific documentation](minimaldoc.html) (Dan)-->
 
+The reports above are meant to be self-contained, but for those who want to dig deeper there is more information about the discussions leading up to the proposal here:
+
+* [Issues](issues.html) identified before the Uppsala meeting in August 2015
+* [Reports](/2015-08-23-uppsala/index.html) from the Uppsala meeting in August 2015
+* [Preliminary v2](/v2_prelim/index.html) proposals and discussions (Aug-Sep 2016)
+* [Core group discussion](https://github.com/sebschu/UD_v2/issues) on v2 proposal (Sep-Oct 2016)
