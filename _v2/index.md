@@ -31,9 +31,9 @@ The following thematically organized reports summarize the most important change
 13. [CoNLL-U format](conll-u.html) <!--(Filip)-->
 <!--14. [Minimal requirements for language-specific documentation](minimaldoc.html) (Dan)-->
 
-The reports above are meant to be self-contained, but for those who want to dig deeper there is more information about the discussions leading up to the proposal here:
+The reports are meant to be self-contained, but for those who want to dig deeper there is more information about the discussions leading up to the proposal:
 
-* [Issues](issues.html) identified before the Uppsala meeting in August 2015
+* [Issues](../issues.html) identified before the Uppsala meeting in August 2015
 * [Reports](/2015-08-23-uppsala/index.html) from the Uppsala meeting in August 2015
 * [Preliminary v2](/v2_prelim/index.html) proposals and discussions (Aug-Sep 2016)
 * [Core group discussion](https://github.com/sebschu/UD_v2/issues) on v2 proposal (Sep-Oct 2016)
