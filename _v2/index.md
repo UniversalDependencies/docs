@@ -14,7 +14,7 @@ Per-issue reports and proposals:-->
 
 # Universal Dependencies v2
 
-The following thematically organized reports summarize the most important changes proposed for v2 of the UD guidelines. The proposal has been worked out by the core group responsible for the universal guidelines based on input from the whole UD community. Earlier discussions on some of these themes can be found [here](../v2/index.html).
+The following thematically organized reports summarize the most important changes proposed for v2 of the UD guidelines. The proposal has been worked out by the core group responsible for the universal guidelines based on input from the whole UD community. Earlier discussions on some of these themes can be found [here](/v2_prelim/index.html).
 
 1. [Core dependents](core-dependents.html) <!--(Joakim)-->
 2. [Ellipsis](ellipsis.html) <!--(Sebastian)-->
