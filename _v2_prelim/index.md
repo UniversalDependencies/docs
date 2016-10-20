@@ -5,9 +5,7 @@ title:  'UD version 2'
 
 # UD version 2
 
-This is the entry point for pages where we prepare version 2 of the universal guidelines.
-It is not a clone of the [main documentation](../index.html). The relevant documentation pages should be referenced from here,
-their modification proposed and discussed here, and later copied to the documentation.
+This is the workspace that was used for preliminary discussions of v2 of the universal guidelines in August-September 2016. It is now preserved mainly for archival purposes. The current v2 draft, can be found [here](../v2/index.html). 
 
 Deadlines (revised 2016-10-17):
 
@@ -16,7 +14,7 @@ Deadlines (revised 2016-10-17):
 
 Some quick links:
 
-* [UD v2 draft](../2016-09-05--06-prague/index.html)
+* [UD v2 draft](../v2/index.html)
 * [Issue tracker, universal v2 filter](https://github.com/UniversalDependencies/docs/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20milestone%3A%22universal%20v2%22)
 * [Uppsala meeting](../2015-08-23-uppsala/)
 
