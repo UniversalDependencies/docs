@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-19T23:19:03Z">2016-10-19T23:19:03 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-20T06:19:43Z">2016-10-20T06:19:43 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -959,14 +959,19 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-19T23:18:46Z">2016-10-19T23:18:46 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-20T06:19:26Z">2016-10-20T06:19:26 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 
-*** PASSED ***
+[Line                   7830]: Unknown UPOS tag: _
+[Line                   7830]: Invalid UPOSTAG value _
+[Line                   7831]: Unknown UD DEPREL: mod
+*** FAILED *** with 3 errors
+Morpho errors: 2
+Syntax errors: 1
 
 
 ******************
@@ -980,7 +985,19 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-*** PASSED ***
+[Line                   236227]: Unknown UD DEPREL: _
+[Line                   236227]: Invalid DEPREL value _
+[Line                   236228]: Unknown UD DEPREL: APPOS
+[Line                   236228]: Invalid DEPREL value APPOS
+[Line                   236229]: Unknown UPOS tag: _
+[Line                   236229]: Invalid UPOSTAG value _
+[Line                   236246]: Undefined ID in HEAD: _
+[Tree number 8413 on line 236221]: Empty head for word ID 7
+[Tree number 8413 on line 236221]: Non-tree structure. Words 7 are not reachable from the root 0.
+*** FAILED *** with 9 errors
+Format errors: 2
+Morpho errors: 2
+Syntax errors: 5
 
 
 ******************
