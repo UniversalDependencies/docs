@@ -4,5 +4,4 @@ title: 'DET'
 shortdef: 'determiner'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `DET`.
+POS-tag <code>DET</code> is not used in Estonian UD.
