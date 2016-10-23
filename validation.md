@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-22T20:46:20Z">2016-10-22T20:46:20 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-23T16:36:22Z">2016-10-23T16:36:22 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -960,7 +960,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-22T20:46:03Z">2016-10-22T20:46:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-23T16:36:05Z">2016-10-23T16:36:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -990,12 +990,10 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 [Line                   236246]: Undefined ID in HEAD: _
 [Tree number 8413 on line 236221]: Empty head for word ID 7
 [Tree number 8413 on line 236221]: Non-tree structure. Words 7 are not reachable from the root 0.
-[Tree number 14406 on line 405524]: HEAD == ID for 19
-[Tree number 14406 on line 405524]: Non-tree structure. Words 19 are not reachable from the root 0.
-*** FAILED *** with 9 errors
-Format errors: 3
+*** FAILED *** with 7 errors
+Format errors: 2
 Morpho errors: 2
-Syntax errors: 4
+Syntax errors: 3
 
 
 ******************
