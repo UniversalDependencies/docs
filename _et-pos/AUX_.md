@@ -12,5 +12,5 @@ redirect_from: "et/pos/AUX.html"
 An auxiliary verb is a verb that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb, such as person, number, tense, mood and voice.<br/>
 In Estonian UD, auxiliaries are:<br/>
 <i>olema</i> 'be' and in rare occasions <i>saama</i> 'get' are auxiliaries that form periphrastic tense forms;<br/>
-modal verbs are <i>võima</i> 'be able to', <i>saama</i> 'can', <i>pidama</i> 'must', <i>näima</i> 'seem', <i>paistma</i> 'seem', <i>tunduma</i> 'seem';<br/>
-<i>ei</i> 'not' in negative verb forms.
+modal verbs are <i>võima, tohtima</i> 'may', <i>saama</i> 'can', <i>pidama</i> 'must', <i>näima</i> 'seem', <i>paistma</i> 'seem', <i>tunduma</i> 'seem';<br/>
+<i>ei</i> and <i>ära</i> 'not' in negative verb forms.
