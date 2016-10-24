@@ -4,63 +4,83 @@ title: 'nummod'
 shortdef: 'numeric modifier'
 ---
 
-A numeric modifier of a noun is any [number](ru-pos/NUM) phrase
+A numeric modifier of a noun is a [numeral](ru-pos/NUM) or quantifier 
 that serves to modify the meaning of the noun with a quantity.
+The noun is always the head and the numeral (or quantifier) is always attached as its modifier.
+Nevertheless, three different relation labels are used to mark situations where the numeral (or quantifier)
+a) agrees in case with the noun: <strong>nummod</strong>;
+b) governs the morphological case of the noun: <a href="nummod-gov.html"><strong>nummod:gov</strong></a>;
+c) does not change the morphological form of the noun: <a href="nummod-entity.html"><strong>nummod:entity</strong></a>.
 
 ~~~ sdparse
-Ян съел три стейка . \n Jan ate three steaks .
-nummod(стейка, три)
-nummod(steaks, three)
+Сидеть на двух стульях . \n To-sit on two chairs .
+nummod(стульях, двух)
+nummod(chairs, two)
 ~~~
 
+~~~ sdparse
+Два стула сломаны . \n Two chairs broke .
+nummod:gov(стула, два)
+nummod:gov(chairs, two)
+~~~
+
+~~~ sdparse
+Дом два , подъезд четыре . \n Building two , entrance four .
+nummod:entity(Дом, два)
+nummod:entity(Building, two)
+nummod:entity(подъезд, четыре)
+nummod:entity(entrance, four)
+~~~
 
 
 ## Agreement and government with Russian quantifiers
 
-The morphological and syntactic behavior of Russian numerals is a complex matter.
-Small cardinal numerals _один_ “one”, _два_ “two”, _три_ “three” and _четыре_ “four” agree with the counted
-noun in case (_один_ also agrees in gender and number;
-_два_ also agrees in gender).
-They behave as if they modify the counted noun; they are similar to adjectives in this respect.
+The morphological and syntactic behavior of Russian numerals is complicated, 
+and depends on the type of numeral, it's case, animacy, and sometimes some other factors.
+
+The cardinal numeral _один_ “one” agrees with the noun in case, number, and gender. 
+It behaves in the same way as ordinal numerals and adjectives.
+
+The paucal cardinal numerals _два_ “two”, _три_ “three”, _четыре_ “four”, _оба_ “both”, _пол_ “half”, and _полтора_ “one and a half” agree with the noun in grammatical case in most cases (nummod). In the Nominative and Accusative inanimate case, however, they govern the Genitive singular form of the noun (nummod:gov). The Accusative animate is similar to the Genitive (nummod).
+_Два_ “two”, _оба_ “both”, and _полтора_ “one and a half” also agree in gender with the noun in all grammatical cases.
 Examples:
 
-- _<b>Один</b> мужчина спал, <b>два</b> мужчины играли в карты._ “One man slept, two men played cards.”
-- _<b>Одна</b> женщина спала, <b>две</b> женщины играли в карты._ “One woman slept, two women played cards.”
-- _<b>Одно</b> чудовище спало, <b>два</b> чудовища играли в карты._ “One monster slept, two monsters played cards.”
+- _<b>Один</b> мужчина спал, <b>два</b> мужчины играли в карты с <b>тремя</b> женщинами._ “One.Masc man.Masc slept, two.Masc men.Masc played cards with three women.”
+- _<b>Одна</b> женщина спала, <b>две</b> женщины играли в карты с <b>тремя</b> мужчинами._ “One.Fem woman slept, two.Masc women.Masc played cards with three men.”
+- _<b>Одно</b> чудовище спало, <b>два</b> чудовища играли в карты с <b>тремя</b> привидениями._ “One.Neut monster slept, two.Neut monsters played cards with three ghosts.”
 
-Such dependencies are labeled as `nummod`:
+In the examples above, the dependencies of the numeral _один_ “one” and the numeral _три_ “three” (in the Instrumental case) are labeled as `nummod`:
 
 ~~~ sdparse
-Одно чудовище спало . \n One monster slept .
+Одно чудовище спало , два чудовища играли в карты с тремя привидениями.. \n One monster slept , two monsters played cards with three ghosts .
 nummod(чудовище, Одно)
-nsubj(спало, чудовище)
-punct(спало, .-4)
 nummod(monster, One)
-nsubj(slept, monster)
-punct(slept, .-9)
+nummod(привидениями, тремя)
+nummod(ghosts, three)
+nummod:gov(чудовища, два)
+nummod:gov(monsters, two)
 ~~~
 
-The numeral does not govern the noun in all morphological cases.
+The cardinal numerals of larger quantity (five and more, e.g. _пять_ “five”, _шесть_ “six”, _сто_ “one hundred”) as well as quantifiers (e.g. _много_ “how many, how much”, _сколько_ “how many, how much”, _столько_ “so many, so much”, _несколько_ “a few”) agree with the noun in grammatical case in most cases exactly as other cardinal numerals (nummod). In the Nominative and Accusative inanimate case, however, they govern the Genitive plural form of the noun (nummod:gov). 
 The following table shows the case of the whole phrase (numeral + noun; first column)
 and the consequences for the case of the parts (note that these numerals have only
 three distinct morphological forms, resulting in homonymy).
 
 <table>
-<tr><th>Phrase Case</th><th>Example</th><th>Numeral Case</th><th>Noun Case</th></tr>
-<tr><td>Nom</td><td>пять мужчин</td>   <td>Nom</td><td>Gen</td></tr>
-<tr><td>Gen</td><td>пяти мужчин</td>  <td>Gen</td><td>Gen</td></tr>
-<tr><td>Dat</td><td>пяти мужчинам</td> <td>Dat</td><td>Dat</td></tr>
-<tr><td>Acc</td><td>пять мужчин</td>   <td>Acc</td><td>Gen</td></tr>
-<tr><td>Voc</td><td>пять мужчин</td>   <td>Voc</td><td>Gen</td></tr>
-<tr><td>Loc</td><td>пяти мужчинах</td><td>Loc</td><td>Loc</td></tr>
-<tr><td>Ins</td><td>пятью мужчинами</td>  <td>Ins</td><td>Ins</td></tr>
+<tr><th>Phrase Case</th><th>Example (paucal)</th><th>Example (larger quantity)</th><th>Numeral Case</th><th>Noun Case</th></tr>
+<tr><td>Nom</td><td>две женщины</td><td>пять женщин</td><td>Nom</td><td>Gen</td></tr>
+<tr><td>Gen</td><td>двух женщин</td><td>пяти женщин</td><td>Gen</td><td>Gen</td></tr>
+<tr><td>Dat</td><td>двум женщинам</td><td>пяти женщинам</td><td>Dat</td><td>Dat</td></tr>
+<tr><td>Acc</td><td>двух женщин/две вазы</td><td>пять женщин/пять ваз</td><td>Acc</td><td>Acc(anim)/Gen(inan)</td></tr>
+<tr><td>Ins</td><td>двумя женщинами</td><td>пятью женщинами</td><td>Ins</td><td>Ins</td></tr>
+<tr><td>Loc</td><td>двух женщинах</td><td>пяти женщинах</td><td>Loc</td><td>Loc</td></tr>
 </table>
 
-We can say that the noun has the case of the whole phrase if it is dative, locative or instrumental.
+We can say that the noun has the case of the whole phrase if it is in the Dative, Instrumental, or Locative case. 
 The numeral then agrees with the noun in case.
-The numeral forces the noun to the genitive case if the whole phrase is nominative, accusative or vocative
-(but the vocative usage is rather hypothetical).
-In genitive, the noun and the numeral agree with each other; but note that the numeral uses its
+The numeral forces the noun to the Genitive case if the whole phrase is in the Nominative and Accusative case.
+(NB In the Vocative case, the phrase would behave like in the Nominative case, but the Vocative usage is rather hypothetical).
+In Genitive, the noun and the numeral agree with each other; but note that the numeral uses its
 inflected form, as in the other cases where it agrees with the noun.
 
 Pronominal quantifiers behave as high-value numerals and govern the quantifed nouns:
@@ -69,19 +89,7 @@ Pronominal quantifiers behave as high-value numerals and govern the quantifed no
 - _<b>Несколько</b> (<b>много</b>, <b>мало</b>) мужчин играло в карты._ “Several (many, few) men played cards.”
 - _<b>Столько</b> мужчин, играющих в карты, я никогда не видел._ “I have never seen so many men playing cards.”
 
-The UD conversion uses a structure that is parallel among all the above cases,
-and also with universal dependencies in other languages.
-The counted noun is always the head and the numeral is always attached as its modifier.
-Nevertheless, we use different relation labels to mark situations where the numeral (or quantifier)
-actually governs the morphological case of the noun.
-There are four labels used:
-
-<table>
-<tr><td></td><td><strong>Numeric</strong></td><td><strong>Pronominal</strong></td></tr>
-<tr><td><strong>Noun governs</strong></td><td><tt>nummod</tt></td><td><tt><a href="det-nummod.html">det:nummod</a></tt></td></tr>
-<tr><td><strong>Numeral governs</strong></td><td><tt><a href="nummod-gov.html">nummod:gov</a></tt></td><td><tt><a href="det-numgov.html">det:numgov</a></tt></td></tr>
-</table>
-
+Examples:
 ~~~ sdparse
 Три мужчины играли в карты . \n Three men played cards .
 nummod:gov(мужчины, Три)
@@ -165,7 +173,7 @@ punct(I-remember, .-22)
 
 ## Additional remarks
 
-In the typical case, million is tagged as a [NOUN](ru-pos/NOUN) in genitive, it is preceded by a smaller number,
+_Миллион_ “million” and _миллиард_ “billion” are tagged as a [NOUN](ru-pos/NOUN). In the typical case, such words take the Genitive, it is preceded by a smaller number,
 and it is not followed by smaller numerals (as it is in _million five hundred thousand_).
 It is followed by the counted noun and gets the following analysis:
 
@@ -238,11 +246,11 @@ punct(31-16, st)
 House number in address is attached as `nummod` to the name of the street:
 
 ~~~ sdparse
-в доме на Тверской 12 \n in the-house at Tverskaya 12
+в доме на Тверской 12 \n in the-building in Tverskaya 12
 nmod(доме, Тверской-4)
 case(Тверской-4, на-3)
 nummod(Тверской-4, 12-5)
-nmod(the-house, Tverskaya)
-case(Tverskaya, at)
+nmod(the-building, Tverskaya)
+case(Tverskaya, in)
 nummod(Tverskaya, 12-11)
 ~~~
