@@ -6,8 +6,8 @@ shortdef: 'pronoun'
 Definition
 
 
-Pronouns are words that substitute for <code>nouns</code> or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context.<br/>
-Words that substitute for <code>adjectives</code> (proadjectives) are also tagged as PRON in Estonian UD v 1.3.
+Pronouns are words that substitute for <code>nouns</code> [u-dep/u/pos/noun]() or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context.<br/>
+Words that substitute for <code>adjectives</code> [u-dep/u/pos/adj]() (proadjectives) are also tagged as PRON in Estonian UD v 1.3.
 
 
 Examples:<br/>
