@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-25T18:05:27Z">2016-10-25T18:05:27 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-25T20:11:19Z">2016-10-25T20:11:19 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -959,17 +959,14 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-25T15:57:25Z">2016-10-25T15:57:25 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-25T20:11:02Z">2016-10-25T20:11:02 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 
-[Line                   7830]: Unknown UPOS tag: _
-[Line                   7830]: Invalid UPOSTAG value _
-*** FAILED *** with 2 errors
-Morpho errors: 2
+*** PASSED ***
 
 
 ******************
@@ -983,17 +980,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   236227]: Unknown UD DEPREL: _
-[Line                   236227]: Invalid DEPREL value _
-[Line                   236229]: Unknown UPOS tag: _
-[Line                   236229]: Invalid UPOSTAG value _
-[Line                   236246]: Undefined ID in HEAD: _
-[Tree number 8413 on line 236221]: Empty head for word ID 7
-[Tree number 8413 on line 236221]: Non-tree structure. Words 7 are not reachable from the root 0.
-*** FAILED *** with 7 errors
-Format errors: 2
-Morpho errors: 2
-Syntax errors: 3
+*** PASSED ***
 
 
 ******************
