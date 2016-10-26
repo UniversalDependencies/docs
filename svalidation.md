@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-10-26T09:53:56Z">2016-10-26T09:53:56 zulu</time>
+Regenerated <time class="timeago" datetime="2016-10-26T12:16:38Z">2016-10-26T12:16:38 zulu</time>
 
 # Aux chain
 
@@ -4294,7 +4294,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">51716 hits</span>
+<span class="widespan">51733 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28PRON%7CDET%29%26%21PronType&db=UD_French-dev">Go to search</a><p/>
@@ -7046,7 +7046,7 @@ Search expression: `_ >dobj|>ccomp _ >dobj|>ccomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_French-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_French-dev">222</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_French-dev">221</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_French-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Galician</td>
@@ -7801,7 +7801,7 @@ Search expression: `_ >dobj|>ccomp _ >dobj|>ccomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">226 hits</span>
+<span class="widespan">225 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_French-dev">Go to search</a><p/>
@@ -21567,7 +21567,7 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Excomp+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SCONJ+%3Excomp+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Excomp+_&db=UD_French-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_French-dev">1671</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Excomp+_&db=UD_French-dev">1673</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=X+%3Excomp+_&db=UD_French-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_German</td>
@@ -22355,7 +22355,7 @@ Search expression: `_ >xcomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">1701 hits</span>
+<span class="widespan">1703 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Excomp+_&db=UD_French-dev">Go to search</a><p/>
