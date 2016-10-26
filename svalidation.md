@@ -17871,7 +17871,7 @@ Hits table not produced since the query does not start with the simple token spe
 
 <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Coordinating conjunction should be attached to the first conjunct and it should not have its own dependents.
 
-Search expression: `_ < (_ <cc _)`
+Search expression: `_ <!mwe (_ <cc _)`
 
 <a href="http://universaldependencies.org/docs/u/dep/cc.html">Link to documentation</a>
 
