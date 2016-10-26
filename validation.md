@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-26T12:51:53Z">2016-10-26T12:51:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-26T13:44:36Z">2016-10-26T13:44:36 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2086,7 +2086,7 @@ python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lin
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-25T18:05:27Z">2016-10-25T18:05:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-26T13:44:36Z">2016-10-26T13:44:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2100,8 +2100,9 @@ python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl
 python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-test.conllu
 
 [Line                   119]: DEPREL can only be "root" if HEAD is 0
-*** FAILED *** with 1 errors
-Syntax errors: 1
+[Line                   295]: DEPREL must be "root" if HEAD is 0
+*** FAILED *** with 2 errors
+Syntax errors: 2
 
 
 ******************
