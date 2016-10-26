@@ -343,6 +343,35 @@ Search expression: `_ <mwe (_ <mwe _)`
 </div>
 
 
+# MWE governers
+
+MWE dependencies should not be governers.
+<b>NOTE: More language data to be added.</b>
+
+Search expression: `_ < (_ <mwe _)`
+
+<a href="http://universaldependencies.org/u/dep/mwe.html">Link to documentation</a>
+
+<div id="" class="jquery-ui-accordion">
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hit overview</span>
+<span class="widespan"> </span>
+</div>
+<div>
+<table>
+<tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>CONJ</th><th>NOUN</th><th>PART</th><th>PRON</th><th>PROPN</th><th>VERB</th><th>X</th> </tr>
+</table>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD_French</span>
+<span class="widespan">25 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/query?search=_%20%3C%20%28_%20%3Cmwe%20_%29&db=UD_French-dev">Go to search</a><p/>
+</div>
+</div>
+
+
 # Foreign chain
 
 Foreign dependencies should not be chained. All dependents should be attached directly to the first one. If we wish to annotate real syntactic structure of foreign material, we must not use the foreign relation.
