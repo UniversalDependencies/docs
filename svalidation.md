@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-10-26T17:00:39Z">2016-10-26T17:00:39 zulu</time>
+Regenerated <time class="timeago" datetime="2016-10-27T00:13:26Z">2016-10-27T00:13:26 zulu</time>
 
 # Aux chain
 
@@ -339,35 +339,6 @@ Search expression: `_ <mwe (_ <mwe _)`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Russian-SynTagRus-dev">Go to search</a><p/>
-</div>
-</div>
-
-
-# MWE governers
-
-MWE dependencies should not be governers.
-<b>NOTE: More language data to be added.</b>
-
-Search expression: `_ < (_ <mwe _)`
-
-<a href="http://universaldependencies.org/u/dep/mwe.html">Link to documentation</a>
-
-<div id="" class="jquery-ui-accordion">
-<div>
-<span class="doublewidespan" style="padding-left:3em">Hit overview</span>
-<span class="widespan"> </span>
-</div>
-<div>
-<table>
-<tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>CONJ</th><th>NOUN</th><th>PART</th><th>PRON</th><th>PROPN</th><th>VERB</th><th>X</th> </tr>
-</table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">25 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_%20%3C%20%28_%20%3Cmwe%20_%29&db=UD_French-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -3517,7 +3488,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">345 hits</span>
+<span class="widespan">344 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_French-dev">Go to search</a><p/>
@@ -4323,7 +4294,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">51733 hits</span>
+<span class="widespan">51734 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28PRON%7CDET%29%26%21PronType&db=UD_French-dev">Go to search</a><p/>
