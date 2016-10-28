@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-28T02:13:16Z">2016-10-28T02:13:16 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-28T07:46:10Z">2016-10-28T07:46:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -959,8 +959,8 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-28T02:13:05Z">2016-10-28T02:13:05 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-28T07:45:50Z">2016-10-28T07:45:50 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -980,20 +980,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   243639]: The line has 9 columns, but 10 are expected.
-[Line                   243639]: Column ID is not allowed to contain whitespace: '3 même'
-Traceback (most recent call last):
-  File "tools/validate.py", line 499, in <module>
-    validate(inp,out,args,tagsets)
-  File "tools/validate.py", line 405, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 85, in trees
-    validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 100, in validate_cols
-    validate_whitespace(cols)
-  File "tools/validate.py", line 115, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+*** PASSED ***
 
 
 ******************
