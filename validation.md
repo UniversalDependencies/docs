@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-30T15:57:14Z">2016-10-30T15:57:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-30T16:09:11Z">2016-10-30T16:09:11 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -330,7 +330,7 @@ python tools/validate.py --lang zh UD-dev-branches/UD_Chinese/zh-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-30T15:22:27Z">2016-10-30T15:22:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-30T16:09:10Z">2016-10-30T16:09:10 zulu</time></span>
 </div>
 <div>
 <pre>
