@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-30T16:09:11Z">2016-10-30T16:09:11 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-30T16:20:14Z">2016-10-30T16:20:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -926,14 +926,35 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-30T15:56:57Z">2016-10-30T15:56:57 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-30T16:19:57Z">2016-10-30T16:19:57 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 
-*** PASSED ***
+[Line                   346]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   498]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   880]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   5017]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   13054]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   13471]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   16332]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   17289]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   20380]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   20693]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   20706]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   23249]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   23257]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   24692]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   27465]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   33617]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   37257]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   37272]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   37274]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+...suppressing further errors regarding Morpho
+*** FAILED *** with 26 errors
+Morpho errors: 26
 
 
 ******************
@@ -947,7 +968,28 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-*** PASSED ***
+[Line                   613]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   1550]: Morphological features must be sorted: 'Gender=Fem|NumType=Ord|Number=Sing'
+[Line                   1919]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   9767]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   13975]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   16851]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   24727]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   30337]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   33433]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   35548]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   37589]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   37597]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   39182]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   39615]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   42663]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   42675]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   45007]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   47829]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   49910]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+...suppressing further errors regarding Morpho
+*** FAILED *** with 170 errors
+Morpho errors: 170
 
 
 ******************
