@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-10-30T15:22:17Z">2016-10-30T15:22:17 zulu</time>
+Regenerated <time class="timeago" datetime="2016-10-30T15:56:41Z">2016-10-30T15:56:41 zulu</time>
 
 # Aux chain
 
@@ -4621,7 +4621,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">10662 hits</span>
+<span class="widespan">10664 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM%26%21NumType&db=UD_French-dev">Go to search</a><p/>
@@ -15320,7 +15320,7 @@ Search expression: `!NUM <nummod _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=DET+%3Cnummod+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=NOUN+%3Cnummod+_&db=UD_French-dev">9</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PRON+%3Cnummod+_&db=UD_French-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cnummod+_&db=UD_French-dev">46</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/?search=PROPN+%3Cnummod+_&db=UD_French-dev">44</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=PUNCT+%3Cnummod+_&db=UD_French-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=SYM+%3Cnummod+_&db=UD_French-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/?search=VERB+%3Cnummod+_&db=UD_French-dev">&nbsp;</a></td>
@@ -15694,7 +15694,7 @@ Search expression: `!NUM <nummod _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_French</span>
-<span class="widespan">59 hits</span>
+<span class="widespan">57 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21NUM+%3Cnummod+_&db=UD_French-dev">Go to search</a><p/>
