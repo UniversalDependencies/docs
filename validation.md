@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T15:41:52Z">2016-10-31T15:41:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T15:41:59Z">2016-10-31T15:41:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1647,39 +1647,39 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:41:45Z">2016-10-31T15:41:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:41:52Z">2016-10-31T15:41:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fa UD-dev-branches/UD_Persian/dev-2016.conllu
+python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/dev-2016.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-dev.conllu
+python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/fa-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-test.conllu
+python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/fa-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
+python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/fa-ud-train.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fa UD-dev-branches/UD_Persian/test-2016.conllu
+python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/test-2016.conllu
 
 [Line                   73]: The line has 11 columns, but 10 are expected.
 [Line                   73]: Empty value in column UPOSTAG
@@ -1749,21 +1749,21 @@ Syntax errors: 40
 
 ******************
 
-python tools/validate.py --lang fa UD-dev-branches/UD_Persian/training-2016.conllu
+python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/training-2016.conllu
 
 [Line                   730]: Unknown UD DEPREL: nmodmod
 [Line                   4528]: The line has 8 columns, but 10 are expected.
 [Line                   4528]: Exception caught!
 Traceback (most recent call last):
-  File "tools/validate.py", line 500, in <module>
+  File "../../tools/validate.py", line 500, in <module>
     validate(inp,out,args,tagsets)
-  File "tools/validate.py", line 406, in validate
+  File "../../tools/validate.py", line 406, in validate
     for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 86, in trees
+  File "../../tools/validate.py", line 86, in trees
     validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 101, in validate_cols
+  File "../../tools/validate.py", line 101, in validate_cols
     validate_whitespace(cols)
-  File "tools/validate.py", line 116, in validate_whitespace
+  File "../../tools/validate.py", line 116, in validate_whitespace
     if not cols[col_idx]:
 IndexError: list index out of range
 *** FAILED *** with 3 errors
