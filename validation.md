@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T18:41:16Z">2016-10-31T18:41:16 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T18:43:56Z">2016-10-31T18:43:56 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1038,7 +1038,7 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T18:41:15Z">2016-10-31T18:41:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T18:43:55Z">2016-10-31T18:43:55 zulu</time></span>
 </div>
 <div>
 <pre>
