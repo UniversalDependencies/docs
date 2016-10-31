@@ -59,6 +59,17 @@
     "lang_name": "Arabic"
   }, 
   {
+    "lang_code": "ar", 
+    "contributors": [
+      {
+        "full": "Nizar Habash", 
+        "last": "Habash", 
+        "first": "Nizar"
+      }
+    ], 
+    "lang_name": "Arabic-LDC"
+  }, 
+  {
     "lang_code": "eu", 
     "contributors": [
       {
@@ -1022,29 +1033,34 @@
     "lang_code": "pt_bosque", 
     "contributors": [
       {
-        "full": "Daniel Zeman", 
-        "last": "Zeman", 
-        "first": "Daniel"
+        "full": "Claudia Freitas", 
+        "last": "Freitas", 
+        "first": "Claudia"
       }, 
       {
-        "full": "Martin Popel", 
-        "last": "Popel", 
-        "first": "Martin"
+        "full": "Eckhard Bick", 
+        "last": "Bick", 
+        "first": "Eckhard"
       }, 
       {
-        "full": "David Mare\u010dek", 
-        "last": "Mare\u010dek", 
-        "first": "David"
+        "full": "Fabricio Chalub", 
+        "last": "Chalub", 
+        "first": "Fabricio"
       }, 
       {
-        "full": "Natalia Silveira", 
-        "last": "Silveira", 
-        "first": "Natalia"
+        "full": "Alexandre Rademaker", 
+        "last": "Rademaker", 
+        "first": "Alexandre"
       }, 
       {
-        "full": "Andr\u00e9 Martins", 
-        "last": "Martins", 
-        "first": "Andr\u00e9"
+        "full": "Livy Real", 
+        "last": "Real", 
+        "first": "Livy"
+      }, 
+      {
+        "full": "Valeria Paiva", 
+        "last": "Paiva", 
+        "first": "Valeria"
       }
     ], 
     "lang_name": "Portuguese-Bosque"
