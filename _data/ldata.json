@@ -172,6 +172,11 @@
     "lang_code": "cop", 
     "contributors": [
       {
+        "full": "Elizabeth Davidson", 
+        "last": "Davidson", 
+        "first": "Elizabeth"
+      }, 
+      {
         "full": "Amir Zeldes", 
         "last": "Zeldes", 
         "first": "Amir"
@@ -899,6 +904,11 @@
         "full": "Lilja \u00d8vrelid", 
         "last": "\u00d8vrelid", 
         "first": "Lilja"
+      }, 
+      {
+        "full": "Fredrik J\u00f8rgensen", 
+        "last": "J\u00f8rgensen", 
+        "first": "Fredrik"
       }
     ], 
     "lang_name": "Norwegian"
@@ -1007,6 +1017,37 @@
       }
     ], 
     "lang_name": "Portuguese-BR"
+  }, 
+  {
+    "lang_code": "pt_bosque", 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Martin Popel", 
+        "last": "Popel", 
+        "first": "Martin"
+      }, 
+      {
+        "full": "David Mare\u010dek", 
+        "last": "Mare\u010dek", 
+        "first": "David"
+      }, 
+      {
+        "full": "Natalia Silveira", 
+        "last": "Silveira", 
+        "first": "Natalia"
+      }, 
+      {
+        "full": "Andr\u00e9 Martins", 
+        "last": "Martins", 
+        "first": "Andr\u00e9"
+      }
+    ], 
+    "lang_name": "Portuguese-Bosque"
   }, 
   {
     "lang_code": "ro", 
