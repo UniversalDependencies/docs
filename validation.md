@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T23:08:35Z">2016-10-31T23:08:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T23:09:10Z">2016-10-31T23:09:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1923,7 +1923,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T23:08:26Z">2016-10-31T23:08:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T23:09:05Z">2016-10-31T23:09:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1955,20 +1955,6 @@ Syntax errors: 107
 
 ******************
 
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test-lemma.conllu
-
-[Line                   652]: Unknown UD DEPREL: conj:preconj
-[Line                   1430]: Unknown UD DEPREL: conj:preconj
-[Line                   5099]: Unknown UD DEPREL: conj:preconj
-[Line                   8416]: Unknown UD DEPREL: conj:preconj
-[Line                   9371]: Column LEMMA is not allowed to contain whitespace: '1/2 '
-*** FAILED *** with 5 errors
-Format errors: 1
-Syntax errors: 4
-
-
-******************
-
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 
 [Line                   692]: Unknown UD DEPREL: nummod:gov
@@ -1993,34 +1979,6 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 76 errors
 Syntax errors: 76
-
-
-******************
-
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train-lemma.conllu
-
-[Line                   3964]: Unknown UD DEPREL: conj:preconj
-[Line                   7617]: Unknown UD DEPREL: conj:preconj
-[Line                   9694]: Unknown UD DEPREL: conj:preconj
-[Line                   14276]: Unknown UD DEPREL: conj:preconj
-[Line                   19178]: Unknown UD DEPREL: conj:preconj
-[Line                   23910]: Unknown UD DEPREL: conj:preconj
-[Line                   31016]: Unknown UD DEPREL: conj:preconj
-[Line                   38741]: Unknown UD DEPREL: conj:preconj
-[Line                   40905]: Unknown UD DEPREL: conj:preconj
-[Line                   48248]: Unknown UD DEPREL: conj:preconj
-[Line                   55925]: Unknown UD DEPREL: conj:preconj
-[Line                   58026]: Unknown UD DEPREL: conj:preconj
-[Line                   62112]: Unknown UD DEPREL: conj:preconj
-[Line                   62535]: Unknown UD DEPREL: conj:preconj
-[Line                   62599]: Unknown UD DEPREL: conj:preconj
-[Line                   66352]: Unknown UD DEPREL: conj:preconj
-[Line                   66960]: Unknown UD DEPREL: conj:preconj
-[Line                   69767]: Unknown UD DEPREL: conj:preconj
-[Line                   70933]: Unknown UD DEPREL: conj:preconj
-...suppressing further errors regarding Syntax
-*** FAILED *** with 25 errors
-Syntax errors: 25
 
 
 ******************
