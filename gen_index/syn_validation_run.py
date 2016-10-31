@@ -67,7 +67,7 @@ def get_hit_indices(comments):
             
 def searchurl(l,q):
     qstr=urllib.urlencode({"db":l+"-dev","search":q})
-    return "http://bionlp-www.utu.fi/dep_search/query/?%s"%qstr
+    return "http://bionlp-www.utu.fi/dep_search/query?%s"%qstr
 
 def searchlink(l,q,txt):
     return '<a href="%s">%s</a>'%(searchurl(l,q),str(txt))
