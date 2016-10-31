@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T15:02:19Z">2016-10-31T15:02:19 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T15:22:15Z">2016-10-31T15:22:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -113,6 +113,17 @@ python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 ******************
 
 
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Arabic-LDC</span>
+<span class="widespan">ar</span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:19:42Z">2016-10-31T15:19:42 zulu</time></span>
+</div>
+<div>
+<pre>
+No data
 </pre>
 </div>
 <div>
@@ -1323,6 +1334,38 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
+<span class="widespan">ja</span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:20:48Z">2016-10-31T15:20:48 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-KTC</span>
 <span class="widespan">ja ktc</span>
 <span class="validationpass">PASS</span>
@@ -1391,6 +1434,17 @@ python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
 <span class="widespan">ko</span>
 <span class="validationfail">EMPTY</span>
 <span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:56:05Z">2016-09-19T07:56:05 zulu</time></span>
+</div>
+<div>
+<pre>
+No data
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Kurmanji</span>
+<span class="widespan">kmr</span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:20:54Z">2016-10-31T15:20:54 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1854,6 +1908,71 @@ python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
+<span class="widespan">pt bosque</span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:22:02Z">2016-10-31T15:22:02 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt-ud-dev.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.pt_bosque could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.pt_bosque
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.pt_bosque could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.pt_bosque It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt-ud-test.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.pt_bosque could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.pt_bosque
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.pt_bosque could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.pt_bosque It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt-ud-train.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.pt_bosque could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.pt_bosque
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.pt_bosque could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.pt_bosque It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationpass">PASS</span>
@@ -2087,6 +2206,17 @@ python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-u
 <span class="widespan">so</span>
 <span class="validationfail">EMPTY</span>
 <span class="doublewidespan"> <time class="timeago" datetime="2016-10-10T09:11:44Z">2016-10-10T09:11:44 zulu</time></span>
+</div>
+<div>
+<pre>
+No data
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Sorani</span>
+<span class="widespan">ckb</span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:22:15Z">2016-10-31T15:22:15 zulu</time></span>
 </div>
 <div>
 <pre>
