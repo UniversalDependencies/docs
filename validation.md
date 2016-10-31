@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T15:40:18Z">2016-10-31T15:40:18 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T15:41:52Z">2016-10-31T15:41:52 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1647,17 +1647,13 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:30:12Z">2016-10-31T15:30:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:41:45Z">2016-10-31T15:41:45 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fa UD-dev-branches/UD_Persian/dev-2016.conllu
 
-[Line                   10915]: Empty value in column LEMMA
-[Tree number 419 on line 11678]: Non-tree structure. Words 11,12,13,14,15,16,17 are not reachable from the root 0.
-*** FAILED *** with 2 errors
-Format errors: 1
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
@@ -1757,18 +1753,22 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/training-2016.conl
 
 [Line                   730]: Unknown UD DEPREL: nmodmod
 [Line                   4528]: The line has 8 columns, but 10 are expected.
+[Line                   4528]: Exception caught!
 Traceback (most recent call last):
-  File "tools/validate.py", line 499, in <module>
+  File "tools/validate.py", line 500, in <module>
     validate(inp,out,args,tagsets)
-  File "tools/validate.py", line 405, in validate
+  File "tools/validate.py", line 406, in validate
     for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 85, in trees
+  File "tools/validate.py", line 86, in trees
     validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 100, in validate_cols
+  File "tools/validate.py", line 101, in validate_cols
     validate_whitespace(cols)
-  File "tools/validate.py", line 115, in validate_whitespace
+  File "tools/validate.py", line 116, in validate_whitespace
     if not cols[col_idx]:
 IndexError: list index out of range
+*** FAILED *** with 3 errors
+Format errors: 2
+Syntax errors: 1
 
 
 ******************
