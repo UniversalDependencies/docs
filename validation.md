@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T19:21:33Z">2016-10-31T19:21:33 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T19:26:22Z">2016-10-31T19:26:22 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1730,8 +1730,8 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T19:21:21Z">2016-10-31T19:21:21 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T19:26:10Z">2016-10-31T19:26:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1772,9 +1772,7 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/test-2016.conllu
 
 python tools/validate.py --lang fa UD-dev-branches/UD_Persian/training-2016.conllu
 
-[Line                   113840]: Empty value in column LEMMA
-*** FAILED *** with 1 errors
-Format errors: 1
+*** PASSED ***
 
 
 ******************
