@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T21:57:13Z">2016-10-31T21:57:13 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T22:11:42Z">2016-10-31T22:11:42 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2458,40 +2458,19 @@ python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T21:49:03Z">2016-10-31T21:49:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T22:11:42Z">2016-10-31T22:11:42 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
+python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
 
 [Tree number 0 on line 0]: The language-specific file data/feat_val.uk could not be found. Feature=value pairs will not be checked.
 Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.uk It's okay if the file is empty, but it must exist.
  
 
 
-[Line                   23]: Unknown UD DEPREL: discoarse
-[Line                   387]: Unknown UD DEPREL: discoarse
-[Line                   420]: Unknown UD DEPREL: discoarse
-[Line                   1000]: Unknown UD DEPREL: intj
-[Line                   1345]: Unknown UD DEPREL: discoarse
-[Line                   1396]: Unknown UD DEPREL: discoarse
-[Line                   1406]: Unknown UD DEPREL: discoarse
-[Line                   1407]: Unknown UD DEPREL: discoarse
-[Line                   1495]: Unknown UD DEPREL: discoarse
-[Line                   1496]: Unknown UD DEPREL: discoarse
-[Line                   1503]: Unknown UD DEPREL: discoarse
-[Line                   1773]: Unknown UD DEPREL: discoarse
-[Line                   1814]: Unknown UD DEPREL: discoarse
-[Line                   1816]: Unknown UD DEPREL: discoarse
-[Line                   1854]: Unknown UD DEPREL: discoarse
-[Line                   1860]: Unknown UD DEPREL: discoarse
-[Line                   1882]: Unknown UD DEPREL: discoarse
-[Line                   1887]: Unknown UD DEPREL: discoarse
-[Line                   1892]: Unknown UD DEPREL: discoarse
-...suppressing further errors regarding Syntax
-*** FAILED *** with 23 errors
+*** FAILED *** with 1 errors
 Language specific data missing errors: 1
-Syntax errors: 22
 
 
 ******************
