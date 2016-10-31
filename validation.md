@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T17:06:18Z">2016-10-31T17:06:18 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T17:10:46Z">2016-10-31T17:10:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1647,7 +1647,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T17:06:08Z">2016-10-31T17:06:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T17:10:37Z">2016-10-31T17:10:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1681,24 +1681,9 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 
 python tools/validate.py --lang fa UD-dev-branches/UD_Persian/test-2016.conllu
 
-[Line                   14465]: Column ID is not allowed to contain whitespace: '33 '
-[Line                   14465]: A token line must have '_' in the column LEMMA. Now: 'منطقه'.
-[Line                   14465]: A token line must have '_' in the column UPOSTAG. Now: 'NOUN'.
-[Line                   14465]: A token line must have '_' in the column XPOSTAG. Now: 'N_SING'.
-[Line                   14465]: A token line must have '_' in the column FEATS. Now: 'Number=Sing'.
-[Line                   14465]: A token line must have '_' in the column HEAD. Now: '40'.
-[Line                   14465]: A token line must have '_' in the column DEPREL. Now: 'nmod'.
-[Tree number 536 on line 14433]: Spurious token interval definition: '33 '.
-[Tree number 536 on line 14433]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,34,35,36,37,38,39,40,41.
-[Line                   14474]: Suprious token interval 41-41
-[Line                   14474]: Undefined ID in HEAD: 33
-[Line                   14474]: Undefined ID in HEAD: 33
-[Line                   14474]: Failed to parse ID 33 
-[Tree number 536 on line 14433]: Non-tree structure. Words 32,33,34,35,36,37 are not reachable from the root 0.
 [Line                   16127]: Column LEMMA is not allowed to contain whitespace: 'آن '
-*** FAILED *** with 15 errors
-Format errors: 14
-Syntax errors: 1
+*** FAILED *** with 1 errors
+Format errors: 1
 
 
 ******************
