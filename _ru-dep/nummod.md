@@ -52,7 +52,7 @@ Examples:
 In the examples above, the dependencies of the numeral _один_ “one” and the numeral _три_ “three” (in the Instrumental case) are labeled as `nummod`:
 
 ~~~ sdparse
-Одно чудовище спало , два чудовища играли в карты с тремя привидениями.. \n One monster slept , two monsters played cards with three ghosts .
+Одно чудовище спало , два чудовища играли в карты с тремя привидениями . \n One monster slept , two monsters played cards with three ghosts .
 nummod(чудовище, Одно)
 nummod(monster, One)
 nummod(привидениями, тремя)
