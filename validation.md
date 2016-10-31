@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T16:05:00Z">2016-10-31T16:05:00 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T16:29:58Z">2016-10-31T16:29:58 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1647,109 +1647,96 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:55:18Z">2016-10-31T15:55:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T16:29:50Z">2016-10-31T16:29:50 zulu</time></span>
 </div>
 <div>
 <pre>
-python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/dev-2016.conllu
+python tools/validate.py --lang fa UD-dev-branches/UD_Persian/dev-2016.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/fa-ud-dev.conllu
+python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/fa-ud-test.conllu
+python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/fa-ud-train.conllu
+python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/test-2016.conllu
+python tools/validate.py --lang fa UD-dev-branches/UD_Persian/test-2016.conllu
 
-[Line                   73]: The line has 11 columns, but 10 are expected.
-[Line                   73]: Empty value in column UPOSTAG
-[Line                   73]: Spurious morphological feature: 'V_PP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   73]: Repeated features are disallowed: V_PP
-[Line                   73]: Unknown UPOS tag: 
-[Line                   73]: Unknown UD DEPREL: 11
-[Line                   73]: Malformed head:deprel pair 'ccomp'
-[Line                   73]: Invalid UPOSTAG value 
-[Line                   73]: Invalid DEPREL value 11
-[Line                   73]: Failed for parse DEPS: ccomp
-[Line                   75]: Undefined ID in HEAD: Number=Plur|Person=3|VerbForm=Part
-[Line                   75]: Failed for parse DEPS: ccomp
-[Line                   75]: Failed for parse DEPS: ccomp
-[Tree number 4 on line 54]: Non-integer head for word ID 20
-[Tree number 4 on line 54]: Non-tree structure. Words 12,13,14,15,16,17,18,19,20 are not reachable from the root 0.
 [Tree number 38 on line 871]: Non-tree structure. Words 1,2,3,4 are not reachable from the root 0.
-[Line                   1319]: Unknown UD DEPREL: compound-lvc
-[Line                   1503]: Column ID is not allowed to contain whitespace: '25 '
-[Line                   1503]: A token line must have '_' in the column LEMMA. Now: 'منطقه'.
-[Line                   1503]: A token line must have '_' in the column UPOSTAG. Now: 'NOUN'.
-[Line                   1503]: A token line must have '_' in the column XPOSTAG. Now: 'N_SING'.
-[Line                   1503]: A token line must have '_' in the column FEATS. Now: 'Number=Sing'.
-[Line                   1503]: A token line must have '_' in the column HEAD. Now: '21'.
-[Line                   1503]: A token line must have '_' in the column DEPREL. Now: 'nmod'.
-[Tree number 61 on line 1479]: Spurious token interval definition: '25 '.
-[Tree number 61 on line 1479]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54.
-[Line                   1533]: Suprious token interval 54-54
-[Line                   1533]: Undefined ID in HEAD: 25
-[Line                   1533]: Failed to parse ID 25 
-[Tree number 61 on line 1479]: Non-tree structure. Words 24,25 are not reachable from the root 0.
-[Line                   5832]: The line has 11 columns, but 10 are expected.
-...suppressing further errors regarding Format
-[Line                   5832]: Spurious morphological feature: 'ADJ'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   5832]: Repeated features are disallowed: ADJ
-[Line                   5832]: Unknown UPOS tag: اصلاح‌گر
-[Line                   5832]: Unknown UD DEPREL: 35
-[Line                   5832]: Malformed head:deprel pair 'amod'
-[Line                   5832]: Invalid UPOSTAG value اصلاح‌گر
-[Line                   5832]: Invalid DEPREL value 35
-[Line                   5832]: Failed for parse DEPS: amod
-[Tree number 197 on line 5795]: Non-tree structure. Words 36 are not reachable from the root 0.
+[Line                   9444]: Column ID is not allowed to contain whitespace: '2 '
+[Line                   9444]: A token line must have '_' in the column LEMMA. Now: 'منطقه'.
+[Line                   9444]: A token line must have '_' in the column UPOSTAG. Now: 'NOUN'.
+[Line                   9444]: A token line must have '_' in the column XPOSTAG. Now: 'N_SING'.
+[Line                   9444]: A token line must have '_' in the column FEATS. Now: 'Number=Sing'.
+[Line                   9444]: A token line must have '_' in the column HEAD. Now: '11'.
+[Line                   9444]: A token line must have '_' in the column DEPREL. Now: 'dobj'.
+[Tree number 336 on line 9443]: Spurious token interval definition: '2 '.
+[Tree number 336 on line 9443]: Words do not form a sequence. Got: 1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25.
+[Line                   9468]: Suprious token interval 25-25
+[Line                   9468]: Undefined ID in HEAD: 2
+[Line                   9468]: Undefined ID in HEAD: 2
+[Line                   9468]: Undefined ID in HEAD: 2
+[Line                   9468]: Undefined ID in HEAD: 2
+[Line                   9468]: Failed to parse ID 2 
 [Tree number 336 on line 9443]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9 are not reachable from the root 0.
-[Line                   10377]: Spurious morphological feature: 'N_SING'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   10377]: Repeated features are disallowed: N_SING
-[Line                   10377]: Unknown UPOS tag: 
-[Line                   10377]: Unknown UD DEPREL: 37
-[Line                   10377]: Malformed head:deprel pair 'nmod'
-[Line                   10377]: Invalid UPOSTAG value 
-[Line                   10377]: Invalid DEPREL value 37
-[Line                   10377]: Failed for parse DEPS: nmod
-[Tree number 389 on line 10339]: Non-tree structure. Words 38,39 are not reachable from the root 0.
-[Line                   10424]: Spurious morphological feature: 'N_SING'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   10424]: Repeated features are disallowed: N_SING
-[Line                   10424]: Unknown UPOS tag: 
-...suppressing further errors regarding Syntax
-[Line                   10424]: Invalid UPOSTAG value 
+[Line                   11390]: Column ID is not allowed to contain whitespace: '9 '
+[Line                   11390]: A token line must have '_' in the column LEMMA. Now: 'منطقه'.
+[Line                   11390]: A token line must have '_' in the column UPOSTAG. Now: 'NOUN'.
+[Line                   11390]: A token line must have '_' in the column XPOSTAG. Now: 'N_SING'.
+...suppressing further errors regarding Format
+[Tree number 425 on line 11382]: Non-tree structure. Words 8,9,10,11,12 are not reachable from the root 0.
+[Tree number 429 on line 11479]: Non-tree structure. Words 29,30,31 are not reachable from the root 0.
+[Tree number 433 on line 11611]: Non-tree structure. Words 7,8 are not reachable from the root 0.
+[Tree number 435 on line 11692]: Non-tree structure. Words 32 are not reachable from the root 0.
+[Tree number 447 on line 12039]: Non-tree structure. Words 63,64 are not reachable from the root 0.
+[Tree number 449 on line 12138]: Non-tree structure. Words 11,12,13 are not reachable from the root 0.
+[Tree number 451 on line 12212]: Non-tree structure. Words 20,21,22 are not reachable from the root 0.
 [Line                   12264]: Spurious morphological feature: 'V_PP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   12264]: Repeated features are disallowed: V_PP
 [Line                   12264]: Unknown UPOS tag: 
-...suppressing further errors regarding Morpho
-*** FAILED *** with 229 errors
-Format errors: 165
-Morpho errors: 24
-Syntax errors: 40
+[Line                   12264]: Unknown UD DEPREL: 15
+[Line                   12264]: Malformed head:deprel pair 'conj'
+[Line                   12264]: Invalid UPOSTAG value 
+[Line                   12264]: Invalid DEPREL value 15
+[Line                   12264]: Failed for parse DEPS: conj
+[Tree number 452 on line 12237]: Non-tree structure. Words 17,18,19,20,21,22,23,24,25,26,27,28 are not reachable from the root 0.
+[Line                   13176]: Spurious morphological feature: 'V_PP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   13176]: Repeated features are disallowed: V_PP
+[Line                   13176]: Unknown UPOS tag: 
+[Line                   13176]: Unknown UD DEPREL: 34
+[Line                   13176]: Unknown dependency relation 'relcl' in 'acl:relcl'
+[Line                   13176]: Invalid UPOSTAG value 
+[Line                   13176]: Invalid DEPREL value 34
+[Tree number 483 on line 13127]: Non-tree structure. Words 35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50 are not reachable from the root 0.
+[Tree number 536 on line 14433]: Non-tree structure. Words 32,33,34,35,36,37 are not reachable from the root 0.
+*** FAILED *** with 156 errors
+Format errors: 129
+Morpho errors: 8
+Syntax errors: 19
 
 
 ******************
 
-python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/training-2016.conllu
+python tools/validate.py --lang fa UD-dev-branches/UD_Persian/training-2016.conllu
 
 [Line                   730]: Unknown UD DEPREL: nmodmod
 [Line                   4528]: The line has 8 columns, but 10 are expected.
