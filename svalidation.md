@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-10-31T21:02:04Z">2016-10-31T21:02:04 zulu</time>
+Regenerated <time class="timeago" datetime="2016-10-31T21:14:02Z">2016-10-31T21:14:02 zulu</time>
 
 # Aux chain
 
@@ -199,19 +199,6 @@ Search expression: `_ <mwe (_ <mwe _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Buryat-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Buryat-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Coptic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Croatian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Croatian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Croatian-dev">7</a></td>
@@ -324,13 +311,6 @@ Search expression: `_ <mwe (_ <mwe _)`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Buryat-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Coptic</span>
-<span class="widespan">1 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cmwe+%28_+%3Cmwe+_%29&db=UD_Coptic-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Croatian</span>
