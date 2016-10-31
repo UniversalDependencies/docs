@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T23:35:04Z">2016-10-31T23:35:04 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T23:38:52Z">2016-10-31T23:38:52 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1922,37 +1922,28 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T23:34:59Z">2016-10-31T23:34:59 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T23:38:47Z">2016-10-31T23:38:47 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
-[Tree number 138 on line 2894]: Non-tree structure. Words 8,9 are not reachable from the root 0.
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-test.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 
-[Tree number 293 on line 5485]: Non-tree structure. Words 5,6,7,8,9,10,11,12,13,14,15,16,17,18,19 are not reachable from the root 0.
-[Tree number 394 on line 7698]: Non-tree structure. Words 10,11,12,13 are not reachable from the root 0.
-*** FAILED *** with 2 errors
-Syntax errors: 2
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-train.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
-[Tree number 1110 on line 23055]: Non-tree structure. Words 18,19,20,21,22,23,24 are not reachable from the root 0.
-[Tree number 2219 on line 46094]: Non-tree structure. Words 4,5,6,7,8,9 are not reachable from the root 0.
-[Line                   75798]: Unknown UD DEPREL: advnom
-*** FAILED *** with 3 errors
-Syntax errors: 3
+*** PASSED ***
 
 
 ******************
