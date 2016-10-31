@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T22:46:53Z">2016-10-31T22:46:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T23:03:46Z">2016-10-31T23:03:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1923,7 +1923,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T22:46:44Z">2016-10-31T22:46:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T23:03:36Z">2016-10-31T23:03:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1998,9 +1998,7 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 [Line                   1918]: Unknown UD DEPREL: nummod:gov
 [Line                   1925]: Unknown UD DEPREL: nummod:gov
 ...suppressing further errors regarding Syntax
-[Line                   9371]: Column LEMMA is not allowed to contain whitespace: '1/2 '
-*** FAILED *** with 77 errors
-Format errors: 1
+*** FAILED *** with 76 errors
 Syntax errors: 76
 
 
