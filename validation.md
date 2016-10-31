@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T15:52:42Z">2016-10-31T15:52:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T15:55:26Z">2016-10-31T15:55:26 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1647,7 +1647,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:41:52Z">2016-10-31T15:41:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:55:18Z">2016-10-31T15:55:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1754,18 +1754,6 @@ python ../../tools/validate.py --lang fa ../../UD-dev-branches/UD_Persian/traini
 [Line                   730]: Unknown UD DEPREL: nmodmod
 [Line                   4528]: The line has 8 columns, but 10 are expected.
 [Line                   4528]: Exception caught!
-Traceback (most recent call last):
-  File "../../tools/validate.py", line 500, in <module>
-    validate(inp,out,args,tagsets)
-  File "../../tools/validate.py", line 406, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "../../tools/validate.py", line 86, in trees
-    validate_cols(cols,tag_sets,args)
-  File "../../tools/validate.py", line 101, in validate_cols
-    validate_whitespace(cols)
-  File "../../tools/validate.py", line 116, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
 *** FAILED *** with 3 errors
 Format errors: 2
 Syntax errors: 1
