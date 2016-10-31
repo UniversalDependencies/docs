@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T19:00:26Z">2016-10-31T19:00:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T19:13:39Z">2016-10-31T19:13:39 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1731,7 +1731,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T19:00:16Z">2016-10-31T19:00:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T19:13:27Z">2016-10-31T19:13:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1772,14 +1772,58 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/test-2016.conllu
 
 python tools/validate.py --lang fa UD-dev-branches/UD_Persian/training-2016.conllu
 
-[Tree number 477 on line 7435]: Spurious token interval definition: '18-19-20'.
-[Line                   7460]: Failed to parse ID 18-19-20
-[Line                   68411]: Empty value in column LEMMA
-[Line                   77333]: A token line must have '_' in the column LEMMA. Now: 'خویش'.
-[Line                   79072]: The line has 8 columns, but 10 are expected.
-[Line                   79072]: Exception caught!
-*** FAILED *** with 6 errors
-Format errors: 6
+[Line                   81858]: The line has 11 columns, but 10 are expected.
+[Line                   81858]: Empty value in column LEMMA
+[Line                   81858]: Spurious morphological feature: 'N_SING'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   81858]: Repeated features are disallowed: N_SING
+[Line                   81858]: Unknown UPOS tag: غیرخودی
+[Line                   81858]: Unknown UD DEPREL: 0
+[Line                   81858]: Malformed head:deprel pair 'root'
+[Line                   81858]: Invalid UPOSTAG value غیرخودی
+[Line                   81858]: Invalid DEPREL value 0
+[Line                   81858]: Failed for parse DEPS: root
+[Line                   81881]: Undefined ID in HEAD: Number=Sing
+[Line                   81881]: Failed for parse DEPS: root
+[Line                   81881]: Failed for parse DEPS: root
+[Tree number 3336 on line 81854]: Non-integer head for word ID 4
+[Tree number 3336 on line 81854]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25 are not reachable from the root 0.
+[Line                   92262]: The line has 11 columns, but 10 are expected.
+[Line                   92262]: Empty value in column UPOSTAG
+[Line                   92262]: Spurious morphological feature: 'V_PP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   92262]: Repeated features are disallowed: V_PP
+[Line                   92262]: Unknown UPOS tag: 
+[Line                   92262]: Unknown UD DEPREL: 17
+[Line                   92262]: Malformed head:deprel pair 'conj'
+[Line                   92262]: Invalid UPOSTAG value 
+[Line                   92262]: Invalid DEPREL value 17
+[Line                   92262]: Failed for parse DEPS: conj
+[Line                   92264]: Undefined ID in HEAD: Number=Plur|Person=3|VerbForm=Part
+[Line                   92264]: Failed for parse DEPS: conj
+[Line                   92264]: Failed for parse DEPS: conj
+[Tree number 3664 on line 92214]: Non-integer head for word ID 49
+[Tree number 3664 on line 92214]: Non-tree structure. Words 18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49 are not reachable from the root 0.
+[Line                   94605]: The line has 11 columns, but 10 are expected.
+[Line                   94605]: Empty value in column UPOSTAG
+[Line                   94605]: Spurious morphological feature: 'V_PP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   94605]: Repeated features are disallowed: V_PP
+[Line                   94605]: Unknown UPOS tag: 
+[Line                   94605]: Unknown UD DEPREL: 30
+[Line                   94605]: Malformed head:deprel pair 'advcl'
+[Line                   94605]: Invalid UPOSTAG value 
+[Line                   94605]: Invalid DEPREL value 30
+[Line                   94605]: Failed for parse DEPS: advcl
+[Line                   94607]: Undefined ID in HEAD: Number=Plur|Person=3|VerbForm=Part
+[Line                   94607]: Failed for parse DEPS: advcl
+[Line                   94607]: Failed for parse DEPS: advcl
+[Tree number 3738 on line 94561]: Non-integer head for word ID 45
+[Tree number 3738 on line 94561]: Non-tree structure. Words 31,32,33,34,35,36,37,38,39,40,41,42,43,44,45 are not reachable from the root 0.
+[Line                   95131]: The line has 11 columns, but 10 are expected.
+...suppressing further errors regarding Format
+[Line                   115793]: Unknown attribute-value pair Degree=Poss
+*** FAILED *** with 48 errors
+Format errors: 20
+Morpho errors: 13
+Syntax errors: 15
 
 
 ******************
