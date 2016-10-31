@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T17:13:32Z">2016-10-31T17:13:32 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T17:27:06Z">2016-10-31T17:27:06 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1647,7 +1647,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T17:10:37Z">2016-10-31T17:10:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T17:26:57Z">2016-10-31T17:26:57 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1681,9 +1681,7 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 
 python tools/validate.py --lang fa UD-dev-branches/UD_Persian/test-2016.conllu
 
-[Line                   16127]: Column LEMMA is not allowed to contain whitespace: 'آن '
-*** FAILED *** with 1 errors
-Format errors: 1
+*** PASSED ***
 
 
 ******************
