@@ -158,7 +158,7 @@ amod(лодки, белые)
 amod(boats, white)
 ~~~
 
-* <b>_Две_</b>.Fem.Nom <b>_белых_</b>.Nom.Pl <b>_лодки_</b>.Fem.Gen.Sg
+* <b>_Две_</b>.Fem.Nom <b>_белых_</b>.Gen.Pl <b>_лодки_</b>.Fem.Gen.Sg
 
 ~~~ sdparse
 Две белых лодки . \n Two white boats .
@@ -168,7 +168,17 @@ amod(лодки, белых)
 amod(boats, white)
 ~~~
 
-With non-paucal numerals (which refer to five objects and more; also _половина, четверть_ “half, one fourth” etc.), the adjective is always in Genitive plural.
+With non-paucal numerals (which refer to five objects and more; also _половина_ “a half”, _четверть_ “a quarter” etc.), the adjective is always in the Genitive plural.
+
+* <b>_Пять_</b>.Fem.Nom <b>_белых_</b>.Gen.Pl <b>_лодок_</b>.Fem.Gen.Pl
+
+~~~ sdparse
+Пять белых лодок . \n Five white boats .
+nummod:gov(лодок, Пять)
+nummod:gov(boats, Five)
+amod(лодок, белых)
+amod(boats, white)
+~~~
 
 ### Constructions of more and less quantity 
 

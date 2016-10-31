@@ -31,7 +31,7 @@ Infinitive is the citation form of verbs. It is also used with the auxiliary _б
 - _нести_ &nbsp;“to carry”
 - _бути_ &nbsp;“to be”
 
-### `Impers`: impersonal
+### `Imps`: impersonal
 
 Impersonal form ending with _-но/-то_. In Slavic languages other than Ukrainian and Polish this form coincides with the neutral passive adjectival participle, but in those two languages the participle has a different ending: _-не_ in Ukrainian and _-ne_ in Polish, which is why it is treated as a separate verbal form.
 

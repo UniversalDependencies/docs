@@ -861,12 +861,12 @@ collections:
   2015-08-23-uppsala:
     output: true
     permalink: /2015-08-23-uppsala/:path.html
+  v2_prelim:
+    output: true
+    permalink: /v2_prelim/:path.html
   v2:
     output: true
     permalink: /v2/:path.html
-  2016-09-05--06-prague:
-    output: true
-    permalink: /2016-09-05--06-prague/:path.html
 
 excerpt_separator: "\n\n"
 

@@ -4,5 +4,4 @@ title: 'Gender'
 shortdef: 'gender'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Gender`.
+Feature <code>Gender</code> is not used in Estonian UD as Estonian has no grammatical gender.

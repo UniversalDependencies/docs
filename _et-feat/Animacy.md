@@ -4,5 +4,4 @@ title: 'Animacy'
 shortdef: 'animacy'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Animacy`.
+Feature <code>Animacy</code> is not used in Estonian UD.

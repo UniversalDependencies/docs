@@ -4,17 +4,17 @@ title:  'Migration Guidelines'
 permalink: en/overview/migration-guidelines.html
 ---
 
-# Migration Guidelines
+# Migration Guidelines (from SD to UD)
 
 ## Introduction
 
 ## Changes Affecting the Tree Structure
 
-This section lists the changes to the represenation that affect the structure of dependency trees.
+This section lists the changes to the representation that affect the structure of dependency trees.
 
 ### Treatment of Copular Constructions
 
-The first difference between between Universal Dependencies and Stanford Dependencies is the treatment of copular constructions. While only nominal and adjectival predicates were treated as heads of copular constructions in the Stanford Dependencies represtnation, we also treat prepositional and adverbial predicates as the head of [copular](en-dep/cop) constructions in the Universal Dependencies represenation.
+The first difference between between Universal Dependencies and Stanford Dependencies is the treatment of copular constructions. While only nominal and adjectival predicates were treated as heads of copular constructions in the Stanford Dependencies representation, we also treat prepositional and adverbial predicates as the head of [copular](en-dep/cop) constructions in the Universal Dependencies representation.
 
 
 ~~~ sdparse
@@ -41,7 +41,7 @@ will be completely implemented in future versions of the parser.
 
 ### Treatment of Prepositional Phrases
 
-Another major difference between Universal Dependencies and Stanford Dependencies is the treatment of prepositional phrases. In the Stanford Dependencies representation the preposition is always being treated the head of the prepositional phrase while in the Universal Dependencies represenation the head of a prepositional phrase is always a content word -- either a noun phrase or the main predicate of a clause introduced by a preposition. The preposition itself is attached to the head of the prepositional phrase with the case [case](en-dep/case) or a [marker](en-dep/mark) relation.
+Another major difference between Universal Dependencies and Stanford Dependencies is the treatment of prepositional phrases. In the Stanford Dependencies representation the preposition is always being treated the head of the prepositional phrase while in the Universal Dependencies representation the head of a prepositional phrase is always a content word -- either a noun phrase or the main predicate of a clause introduced by a preposition. The preposition itself is attached to the head of the prepositional phrase with the case [case](en-dep/case) or a [marker](en-dep/mark) relation.
 
 If the prepositional phrase only consists of a preposition followed by a noun phrase we use the [nmod](en-dep/nmod) relation between the head of the prepositional phrase and the noun or predicate which it modifies.
 
@@ -99,7 +99,7 @@ In this example the prepositional phrase modifies a nominal predicate in a copul
 
 ### Multi-Word Expressions
 
-There are two differences regarding the treatment of multi-word expressions in Universal Dependencies as compared to Stanford Dependencies. First, multi-word expressions are now always head-inital and all other words in the expression depend on the first word. Second, the list of expressions which are being treated as multi-word expressions changed. See the description of the [mwe relation](en-dep/mwe) for a complete list of multi-word expressions in UD.
+There are two differences regarding the treatment of multi-word expressions in Universal Dependencies as compared to Stanford Dependencies. First, multi-word expressions are now always head-initial and all other words in the expression depend on the first word. Second, the list of expressions which are being treated as multi-word expressions changed. See the description of the [mwe relation](en-dep/mwe) for a complete list of multi-word expressions in UD.
 
 
 ## Mapping of Stanford Dependencies to Universal Dependencies

@@ -7,8 +7,7 @@ title:  'Function words in UD v2'
 
 One of the central design decisions of UD is to put priority on syntactic relations between content words and to treat function words essentially as "features" that attach to the content word they modify with special relations like [u-dep/aux](), [u-dep/cop](), [u-dep/mark]() and [u-dep/case](). We propose the following changes to the treatment of function words in v2:
 
-* Remove the part-of-speech tag [u-pos/AUX]() (see [postags](postags.html) for discussion)
-* Allow [u-dep/aux]() with other part-of-speech tags than [u-pos/VERB]() (see below)
+* Allow [u-dep/aux]() with nonverbal particles (see below)
 * Remove [u-dep/auxpass]() from the universal relations (see [core dependents](core-dependents.html) for discussion)
 * Limit languages to a single copula verb and use [u-dep/cop]() for all its uses (see [copula](copula.html) for discussion)
 * Allow [u-dep/case]() with subordinate clauses when it has a clear case-marking function (see below)
@@ -19,7 +18,8 @@ One of the central design decisions of UD is to put priority on syntactic relati
 
 <!-- Joakim: In line with loosening the constraints between part-of-speech tags and syntactic relations, I don’t see a problem with allowing other things than verbs to have the aux relation. Maybe we should should define aux as a grammaticalized expression of TMA categories? -->
 
-The v1 guidelines say that the [u-dep/aux]() relation is reserved for auxiliary _verbs_. However, some languages (for example Bulgarian, see example) use particles to construct periphrastic verb forms, hence we should also allow [u-pos/PART](). More generally: in line with loosening the constraints between part-of-speech tags and syntactic relations (see [here](postags.html) for discussion), we should define [u-dep/aux]() as a grammaticalized expression of tense-aspect-mood-voice-evidentiality categories.
+The v1 guidelines say that the [u-dep/aux]() relation is reserved for auxiliary _verbs_. However, some languages (for example Bulgarian, see example) use particles to construct periphrastic verb forms, hence we should also allow nonverbal particles. More generally, we should define [u-dep/aux]() as a grammaticalized expression of tense-aspect-mood-voice-evidentiality categories. (We propose a parallel extension of the part-of-speech tag [u-pos/AUX](); 
+see [part-of-speech tags](postags.html).)
 
 ~~~ sdparse
 Като се прибереш, ще съм почистил къщата. \n When you return , will I.have cleaned the.house
@@ -27,7 +27,7 @@ aux(почистил, ще)
 aux(почистил, съм)
 ~~~
 
-Note that this does not necessarily mean that all non-verb aux dependents in the current data are correct. See [this query](http://bionlp-www.utu.fi/dep_search/query?search=%21%28AUX%7CVERB%29+%28%3Caux%7C%3Cauxpass%29+_&db=UD_English-dev) for an instance. They should be revised and each language-specific documentation should clearly state which lemmas may occur as auxiliaries and what TAMVE categories they are used in. That also applies to verbs—in some UD treebanks, the list of verbs that are attached as auxiliaries is very long and some of the verbs probably should not be `aux`.
+Note that this does not necessarily mean that all non-verb aux dependents in the current data are correct. See [this query](http://bionlp-www.utu.fi/dep_search/query?search=%21%28AUX%7CVERB%29+%28%3Caux%7C%3Cauxpass%29+_&db=UD_English-dev) for an instance. They should be revised and each language-specific documentation should clearly state which lemmas may occur as auxiliaries and what TAMVE categories they are used in. That also applies to verbs —- in some UD treebanks, the list of verbs that are attached as auxiliaries is very long and some of the verbs probably should not be `aux`.
 
 ## The use of case and mark with subordinate clauses
 

@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-15T06:56:46Z">2016-10-15T06:56:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T00:29:50Z">2016-10-31T00:29:50 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -329,61 +329,28 @@ python tools/validate.py --lang zh UD-dev-branches/UD_Chinese/zh-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:35:04Z">2016-09-19T07:35:04 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-30T16:09:10Z">2016-10-30T16:09:10 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-dev.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.cop could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.cop
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.cop could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.cop It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-test.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.cop could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.cop
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.cop could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.cop It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-train.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.cop could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.cop
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.cop could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.cop It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+*** PASSED ***
 
 
 ******************
@@ -640,7 +607,7 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:44:43Z">2016-09-19T07:44:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T00:29:39Z">2016-10-31T00:29:39 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -960,13 +927,34 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-15T06:56:29Z">2016-10-15T06:56:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-30T16:19:57Z">2016-10-30T16:19:57 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 
-*** PASSED ***
+[Line                   346]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   498]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   880]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   5017]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   13054]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   13471]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   16332]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   17289]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   20380]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   20693]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   20706]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   23249]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   23257]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   24692]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   27465]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   33617]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   37257]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   37272]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   37274]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+...suppressing further errors regarding Morpho
+*** FAILED *** with 26 errors
+Morpho errors: 26
 
 
 ******************
@@ -980,70 +968,28 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   88550]: Unknown UPOS tag: _
-[Line                   88550]: Unknown UD DEPREL: _
-[Line                   88550]: Invalid UPOSTAG value _
-[Line                   88550]: Invalid DEPREL value _
-[Line                   88551]: Unknown UPOS tag: _
-[Line                   88551]: Unknown UD DEPREL: _
-[Line                   88551]: Invalid UPOSTAG value _
-[Line                   88551]: Invalid DEPREL value _
-[Line                   88552]: Unknown UPOS tag: _
-[Line                   88552]: Unknown UD DEPREL: _
-[Line                   88552]: Invalid UPOSTAG value _
-[Line                   88552]: Invalid DEPREL value _
-[Line                   88553]: Unknown UPOS tag: _
-[Line                   88553]: Unknown UD DEPREL: _
-[Line                   88553]: Invalid UPOSTAG value _
-[Line                   88553]: Invalid DEPREL value _
-[Line                   88554]: Unknown UPOS tag: _
-[Line                   88554]: Unknown UD DEPREL: _
-[Line                   88554]: Invalid UPOSTAG value _
-[Line                   88554]: Invalid DEPREL value _
-[Line                   88577]: Undefined ID in HEAD: _
-[Line                   88577]: Undefined ID in HEAD: _
-[Line                   88577]: Undefined ID in HEAD: _
-[Line                   88577]: Undefined ID in HEAD: _
-[Line                   88577]: Undefined ID in HEAD: _
-[Tree number 3141 on line 88550]: Empty head for word ID 1
-[Tree number 3141 on line 88550]: Empty head for word ID 2
-[Tree number 3141 on line 88550]: Empty head for word ID 3
-[Tree number 3141 on line 88550]: Empty head for word ID 4
-[Tree number 3141 on line 88550]: Empty head for word ID 5
-[Tree number 3141 on line 88550]: Non-tree structure. Words 1,2,3,4,5 are not reachable from the root 0.
-[Line                   170013]: Unknown UPOS tag: _
-[Line                   170013]: Unknown UD DEPREL: _
-[Line                   170013]: Invalid UPOSTAG value _
-[Line                   170013]: Invalid DEPREL value _
-[Line                   170014]: Unknown UPOS tag: _
-[Line                   170014]: Unknown UD DEPREL: _
-[Line                   170014]: Invalid UPOSTAG value _
-[Line                   170014]: Invalid DEPREL value _
-[Line                   170015]: Unknown UPOS tag: _
-[Line                   170015]: Unknown UD DEPREL: _
-[Line                   170015]: Invalid UPOSTAG value _
-[Line                   170015]: Invalid DEPREL value _
-[Line                   170016]: Unknown UPOS tag: _
-[Line                   170016]: Unknown UD DEPREL: _
-[Line                   170016]: Invalid UPOSTAG value _
-[Line                   170016]: Invalid DEPREL value _
-[Line                   170017]: Unknown UPOS tag: _
-...suppressing further errors regarding Syntax
+[Line                   613]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   1550]: Morphological features must be sorted: 'Gender=Fem|NumType=Ord|Number=Sing'
+[Line                   1919]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   9767]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   13975]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   16851]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   24727]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   30337]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   33433]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   35548]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   37589]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   37597]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   39182]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   39615]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   42663]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   42675]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   45007]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   47829]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
+[Line                   49910]: Morphological features must be sorted: 'Gender=Masc|NumType=Ord|Number=Sing'
 ...suppressing further errors regarding Morpho
-[Line                   170038]: Undefined ID in HEAD: _
-[Line                   170038]: Undefined ID in HEAD: _
-[Line                   170038]: Undefined ID in HEAD: _
-[Line                   170038]: Undefined ID in HEAD: _
-[Line                   170038]: Undefined ID in HEAD: _
-[Line                   170038]: Undefined ID in HEAD: _
-[Line                   170038]: Undefined ID in HEAD: _
-[Tree number 6073 on line 169992]: Empty head for word ID 22
-[Tree number 6073 on line 169992]: Empty head for word ID 23
-...suppressing further errors regarding Format
-*** FAILED *** with 226 errors
-Format errors: 74
-Morpho errors: 74
-Syntax errors: 78
+*** FAILED *** with 170 errors
+Morpho errors: 170
 
 
 ******************
@@ -1162,7 +1108,7 @@ python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:51:34Z">2016-09-19T07:51:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-21T07:22:57Z">2016-10-21T07:22:57 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1589,7 +1535,7 @@ python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian</span>
 <span class="widespan">no</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-12T12:36:44Z">2016-10-12T12:36:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-26T12:51:39Z">2016-10-26T12:51:39 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2148,12 +2094,29 @@ python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lin
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-14T11:13:15Z">2016-10-14T11:13:15 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-26T13:44:36Z">2016-10-26T13:44:36 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-test.conllu
+
+[Line                   119]: DEPREL can only be "root" if HEAD is 0
+[Line                   295]: DEPREL must be "root" if HEAD is 0
+*** FAILED *** with 2 errors
+Syntax errors: 2
+
+
+******************
+
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
 
 *** PASSED ***
 
@@ -2199,7 +2162,7 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T08:11:30Z">2016-09-19T08:11:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-15T19:07:13Z">2016-10-15T19:07:13 zulu</time></span>
 </div>
 <div>
 <pre>

@@ -5,14 +5,81 @@ title:  'Coordination in UD v2'
 
 # Coordination in UD v2
 
-* [Gerdes and Kahane (2016)](https://aclweb.org/anthology/W/W16/W16-1715.pdf) criticize our treatment of coordination for two reasons
- 1. There is a discrepancy between our treatment of disfluencies (right-headed) and coordination (left-headed) and according to Blanche-Beneviste (1990), there is a continuum between elaboration and disfluency. E.g., _"I saw a room, a bright room, a room with red lights..."
- 2. _and bananas_ is a constituent whereas _apples and_ is not
- 
-* See also the [report](../2015-08-23-uppsala/coordination.html) from the Uppsala meeting
+Coordination is analyzed by having direct [u-dep/conj]() relations between conjuncts in accordance with the general principle of prioritizing relations between content word. In v1, the first conjunct was taken to be the head not only of all following conjuncts but also of any intervening coordinating conjunctions and punctuation. For v2, we propose the following changes:
 
-* **Marie's (and their) proposal**: Make the last conjunct the head.
+* Attach coordinating conjunctions and punctuation to the immediately succeding conjunct (instead of the first)
+* Allow coordination to be analyzed as a right-headed structure in languages that consistently allow gapping (only) in earlier conjuncts
 
+## Attachment of coordinating conjunctions and punctuation
 
+We suggest changing the guidelines for coordination, following the proposal of Gerdes & Kahane (LAW 2016).
 
+* Kim Gerdes and Sylvain Kahane. 2016. Dependency Annotation Choices: Assessing Theoretical and Practical Issues of Universal Dependencies. Proceedings of the 10th Linguistic Annotation Workshop (LAW).
 
+We will attach [u-dep/cc]() and internal [u-dep/punct]() to the immediately succeeding conjunct (instead of to the first conjunct). The guidelines for [u-dep/conj]() remain unchanged. For example:
+
+~~~sdparse
+I love apples and bananas .
+dobj(love,apples)
+conj(apples,bananas)
+cc(bananas,and)
+~~~
+
+This new choice of governor for conjunctions allows a parallel treatment of sentences headed by a conjunction (where the conjunction has to depend on the root of the sentence, and can't be attached to the previous conjunct).
+
+~~~sdparse
+And he left .
+cc(left,And)
+~~~
+
+## Right-headed coordination
+
+One of the arguments for analyzing coordination as a left-headed structure is that it facilitates the analysis of ellipsis, in particular gapping, in most languages:
+
+~~~sdparse
+Mary won gold and Sue won bronze
+nsubj(won-2, Mary)
+dobj(won-2, gold)
+conj(won-2, won-6)
+cc(won-6, and)
+nsubj(won-6, Sue)
+dobj(won-6, bronze)
+~~~
+
+~~~sdparse
+Mary won gold and Sue bronze
+nsubj(won, Mary)
+dobj(won, gold)
+conj/cc(won, and)
+conj/nsubj(won, Sue)
+conj/dobj(won, bronze)
+~~~
+
+If the verb of the rightmost clause was treated as the root in the first sentence, there would be no parallel analysis of the second sentence.
+
+For the same reason, if a language consistently exhibits gapping in preceding (rather than following) clauses (see example in Turkish below), this may be an argument for treating coordination structures as right-headed in that language. If, on the other hand, the language allows gapping in both preceding and succeeding clauses, the default assumption of left-headedness should be maintained for coordination.
+
+~~~sdparse 
+Erkek kardeşi sadece bisiklet ama o araba aldı . \n Male sibling only bicycle but he car bought .
+nsubj(aldı, o)
+dobj(aldı, araba)
+cc(aldı, ama)
+conj>nsubj(aldı, kardeşi)
+conj>dobj(aldı, bisiklet)
+compound(kardeşi, Erkek)
+~~~
+
+Analysing this Turkish example as left headed conjunction would mean having ellipsis from the root, something like:
+
+~~~sdparse 
+ROOT Erkek kardeşi sadece bisiklet ama o araba aldı . \n Male sibling only bicycle but he car bought .
+nsubj(aldı, o)
+dobj(aldı, araba)
+cc(aldı, ama)
+root>dobj(ROOT, bisiklet)
+root>nsubj(ROOT, kardeşi)
+root>conj(ROOT, aldı)
+compound(kardeşi, Erkek)
+~~~
+
+It is important to note that we do not allow a mix of left-headed and right-headed analyses in one and the same language. The universal default for coordination is to treat the first (or leftmost) conjunct as the head. If a language makes an exception from this default, it must use the exceptional (right-headed) analysis for all coordination structures.

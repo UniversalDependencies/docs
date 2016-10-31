@@ -32,7 +32,8 @@ The final conversion step, leading to UD, is in progress. A first preliminary re
 <tr><td>MIDT</td><td>Several QA competitions</td><td>Questions</td><td>30,536</td><td>2,228</td></tr>
 <tr><td>MIDT</td><td>Evalita 2014 Dependency parsing:test data set (partial)</td><td>News articles</td><td>9,384</td><td>304</td></tr>
 <tr><td>TUT-CONLL</td><td>Parallel TUT (Italian part)</td><td>Various genres</td><td>63,899</td><td>2,129</td></tr>
-<tr><td></td><td></td><td>TOTAL</td><td><b>316,660</b></td><td><b>12,880</b></td></tr>
+<tr><td>UD</td><td></td>Due Parole<td>Simplified Italian news</td><td>25,995</td><td>1,138</td></tr>
+<tr><td></td><td></td><td>TOTAL</td><td><b>342,655</b></td><td><b>14,018</b></td></tr>
 </table>
 
 
