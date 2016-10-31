@@ -20,8 +20,8 @@ nummod(chairs, two)
 
 ~~~ sdparse
 Два стула сломаны . \n Two chairs broke .
-nummod:gov(стула, два)
-nummod:gov(chairs, two)
+nummod:gov(стула, Два)
+nummod:gov(chairs, Two)
 ~~~
 
 ~~~ sdparse
