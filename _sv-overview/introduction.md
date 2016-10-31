@@ -47,7 +47,7 @@ The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala
   In _Proceedings of the 6th International Workshop on Treebanks and Linguistic Theories_, pages 97-102.
 * Teleman, Ulf. 1974. Manual för grammatisk beskrivning av talad och skriven svenska. Studentlitteratur.
 
-## UD Swedish LinES
+## UD Swedis-LinES
 
 Brief description.
 
