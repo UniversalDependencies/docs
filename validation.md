@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T23:19:02Z">2016-10-31T23:19:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T23:35:04Z">2016-10-31T23:35:04 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1923,7 +1923,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T23:18:57Z">2016-10-31T23:18:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T23:34:59Z">2016-10-31T23:34:59 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1949,12 +1949,10 @@ Syntax errors: 2
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 [Tree number 1110 on line 23055]: Non-tree structure. Words 18,19,20,21,22,23,24 are not reachable from the root 0.
-[Line                   41239]: Unknown UD DEPREL: nmod:agent
 [Tree number 2219 on line 46094]: Non-tree structure. Words 4,5,6,7,8,9 are not reachable from the root 0.
 [Line                   75798]: Unknown UD DEPREL: advnom
-[Line                   76483]: Unknown UD DEPREL: nmod:agent
-*** FAILED *** with 5 errors
-Syntax errors: 5
+*** FAILED *** with 3 errors
+Syntax errors: 3
 
 
 ******************
