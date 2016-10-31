@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-10-31T22:17:42Z">2016-10-31T22:17:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-10-31T22:46:53Z">2016-10-31T22:46:53 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1923,30 +1923,90 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T08:03:14Z">2016-09-19T08:03:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T22:46:44Z">2016-10-31T22:46:44 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev-lemma.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+
+[Line                   17]: Unknown UD DEPREL: nummod:gov
+[Line                   22]: Unknown UD DEPREL: nummod:gov
+[Line                   28]: Unknown UD DEPREL: nummod:entity
+[Line                   242]: Unknown UD DEPREL: nummod:gov
+[Line                   322]: Unknown UD DEPREL: nummod:entity
+[Line                   329]: Unknown UD DEPREL: nummod:gov
+[Line                   378]: Unknown UD DEPREL: nummod:gov
+[Line                   386]: Unknown UD DEPREL: nummod:gov
+[Line                   581]: Unknown UD DEPREL: nummod:entity
+[Line                   888]: Unknown UD DEPREL: nummod:gov
+[Line                   1000]: Unknown UD DEPREL: nummod:entity
+[Line                   1095]: Unknown UD DEPREL: nummod:entity
+[Line                   1176]: Unknown UD DEPREL: nummod:gov
+[Line                   1310]: Unknown UD DEPREL: nummod:gov
+[Line                   1386]: Unknown UD DEPREL: nummod:gov
+[Line                   1670]: Unknown UD DEPREL: nummod:gov
+[Line                   1711]: Unknown UD DEPREL: nummod:gov
+[Line                   1872]: Unknown UD DEPREL: nummod:gov
+[Line                   2084]: Unknown UD DEPREL: nummod:gov
+...suppressing further errors regarding Syntax
+*** FAILED *** with 107 errors
+Syntax errors: 107
+
+
+******************
+
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test-lemma.conllu
 
 [Line                   652]: Unknown UD DEPREL: conj:preconj
 [Line                   1430]: Unknown UD DEPREL: conj:preconj
 [Line                   5099]: Unknown UD DEPREL: conj:preconj
 [Line                   8416]: Unknown UD DEPREL: conj:preconj
-*** FAILED *** with 4 errors
+[Line                   9371]: Column LEMMA is not allowed to contain whitespace: '1/2 '
+*** FAILED *** with 5 errors
+Format errors: 1
 Syntax errors: 4
 
 
 ******************
 
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
+
+[Line                   692]: Unknown UD DEPREL: nummod:gov
+[Line                   698]: Unknown UD DEPREL: nummod:gov
+[Line                   801]: Unknown UD DEPREL: nummod:gov
+[Line                   828]: Unknown UD DEPREL: nummod:gov
+[Line                   855]: Unknown UD DEPREL: nummod:gov
+[Line                   861]: Unknown UD DEPREL: nummod:gov
+[Line                   870]: Unknown UD DEPREL: nummod:gov
+[Line                   886]: Unknown UD DEPREL: nummod:gov
+[Line                   895]: Unknown UD DEPREL: nummod:gov
+[Line                   1159]: Unknown UD DEPREL: nummod:gov
+[Line                   1163]: Unknown UD DEPREL: nummod:gov
+[Line                   1220]: Unknown UD DEPREL: nummod:gov
+[Line                   1236]: Unknown UD DEPREL: nummod:gov
+[Line                   1674]: Unknown UD DEPREL: nummod:gov
+[Line                   1707]: Unknown UD DEPREL: nummod:gov
+[Line                   1724]: Unknown UD DEPREL: nummod:gov
+[Line                   1779]: Unknown UD DEPREL: nummod:gov
+[Line                   1918]: Unknown UD DEPREL: nummod:gov
+[Line                   1925]: Unknown UD DEPREL: nummod:gov
+...suppressing further errors regarding Syntax
+[Line                   9371]: Column LEMMA is not allowed to contain whitespace: '1/2 '
+*** FAILED *** with 77 errors
+Format errors: 1
+Syntax errors: 76
+
+
+******************
+
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train-lemma.conllu
 
 [Line                   3964]: Unknown UD DEPREL: conj:preconj
 [Line                   7617]: Unknown UD DEPREL: conj:preconj
@@ -1970,6 +2030,36 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 25 errors
 Syntax errors: 25
+
+
+******************
+
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
+
+[Line                   202]: Unknown UD DEPREL: nummod:gov
+[Line                   205]: Unknown UD DEPREL: nummod:gov
+[Line                   323]: Unknown UD DEPREL: nummod:gov
+[Line                   634]: Unknown UD DEPREL: nummod:gov
+[Line                   688]: Unknown UD DEPREL: nummod:gov
+[Line                   698]: Unknown UD DEPREL: nummod:gov
+[Line                   712]: Unknown UD DEPREL: nummod:gov
+[Line                   842]: Unknown UD DEPREL: nummod:entity
+[Line                   847]: Unknown UD DEPREL: nummod:gov
+[Line                   1228]: Unknown UD DEPREL: nummod:gov
+[Line                   1367]: Unknown UD DEPREL: nummod:gov
+[Line                   1372]: Unknown UD DEPREL: nummod:gov
+[Line                   1399]: Unknown UD DEPREL: nummod:gov
+[Line                   1420]: Unknown UD DEPREL: nummod:gov
+[Line                   1438]: Unknown UD DEPREL: nummod:gov
+[Line                   1443]: Unknown UD DEPREL: nummod:gov
+[Line                   1481]: Unknown UD DEPREL: nummod:gov
+[Line                   1578]: Unknown UD DEPREL: nummod:gov
+[Line                   1628]: Unknown UD DEPREL: nummod:gov
+...suppressing further errors regarding Syntax
+[Line                   4146]: Unknown attribute-value pair Variant=Brev
+*** FAILED *** with 851 errors
+Morpho errors: 1
+Syntax errors: 850
 
 
 ******************
