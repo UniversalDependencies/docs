@@ -836,6 +836,20 @@ collections:
   ckb-overview:
     output: true
 #
+# Cantonese
+#
+  yue-pos:
+    output: true
+    permalink: /yue/pos/:path.html
+  yue-feat:
+    output: true
+    permalink: /yue/feat/:path.html
+  yue-dep:
+    output: true
+    permalink: /yue/dep/:path.html
+  yue-overview:
+    output: true
+#
 # Template
 #
   template-pos:
