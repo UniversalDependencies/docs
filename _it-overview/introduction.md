@@ -36,7 +36,7 @@ The final conversion step, leading to UD, is in progress. A first preliminary re
 <tr><td></td><td></td><td>TOTAL</td><td><b>325,816</b></td><td><b>13,815</b></td></tr>
 </table>
 
-NOTE: comment lines have been exclude from token count
+NOTE: comment lines have been excluded from token count
 
 ## Acknowledgments
 
