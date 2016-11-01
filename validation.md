@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-01T18:38:46Z">2016-11-01T18:38:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-01T20:55:44Z">2016-11-01T20:55:44 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2340,7 +2340,7 @@ python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T18:38:46Z">2016-11-01T18:38:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T20:55:44Z">2016-11-01T20:55:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2358,8 +2358,8 @@ python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conl
 [Line                   881]: Unknown attribute-value pair VerbForm=Imps
 [Line                   890]: Unknown attribute-value pair VerbForm=Imps
 [Line                   899]: Unknown attribute-value pair VerbForm=Imps
-[Line                   1997]: Unknown attribute-value pair VerbForm=Imps
-[Line                   2002]: Unknown attribute-value pair VerbForm=Imps
+[Line                   1999]: Unknown attribute-value pair VerbForm=Imps
+[Line                   2004]: Unknown attribute-value pair VerbForm=Imps
 *** FAILED *** with 14 errors
 Morpho errors: 14
 
