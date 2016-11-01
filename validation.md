@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-01T17:53:02Z">2016-11-01T17:53:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-01T18:38:46Z">2016-11-01T18:38:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2339,14 +2339,29 @@ python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T14:33:23Z">2016-11-01T14:33:23 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T18:38:46Z">2016-11-01T18:38:46 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
 
-*** PASSED ***
+[Line                   71]: Unknown attribute-value pair VerbForm=Imps
+[Line                   83]: Unknown attribute-value pair VerbForm=Imps
+[Line                   364]: Unknown attribute-value pair VerbForm=Imps
+[Line                   369]: Unknown attribute-value pair VerbForm=Imps
+[Line                   394]: Unknown attribute-value pair VerbForm=Imps
+[Line                   416]: Unknown attribute-value pair VerbForm=Imps
+[Line                   421]: Unknown attribute-value pair VerbForm=Imps
+[Line                   793]: Unknown attribute-value pair VerbForm=Imps
+[Line                   873]: Unknown attribute-value pair VerbForm=Imps
+[Line                   881]: Unknown attribute-value pair VerbForm=Imps
+[Line                   890]: Unknown attribute-value pair VerbForm=Imps
+[Line                   899]: Unknown attribute-value pair VerbForm=Imps
+[Line                   1997]: Unknown attribute-value pair VerbForm=Imps
+[Line                   2002]: Unknown attribute-value pair VerbForm=Imps
+*** FAILED *** with 14 errors
+Morpho errors: 14
 
 
 ******************
