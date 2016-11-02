@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-02T04:23:59Z">2016-11-02T04:23:59 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-02T04:29:15Z">2016-11-02T04:29:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1922,8 +1922,8 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-02T04:23:48Z">2016-11-02T04:23:48 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-02T04:29:05Z">2016-11-02T04:29:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1936,21 +1936,7 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-full.conllu
 
-[Line                   16867]: Unknown attribute-value pair VerbFrom=Part
-[Line                   17393]: Unknown attribute-value pair Varian=Brev
-[Line                   18273]: Unknown attribute-value pair VerbFrom=Part
-[Line                   39747]: Unknown attribute-value pair Varian=Brev
-[Line                   39752]: Unknown attribute-value pair Varian=Brev
-[Line                   41065]: Unknown attribute-value pair Varian=Brev
-[Line                   43875]: Unknown attribute-value pair Varian=Brev
-[Line                   48643]: Unknown attribute-value pair Varian=Brev
-[Line                   61240]: Unknown attribute-value pair Varian=Brev
-[Line                   62143]: Unknown attribute-value pair Varian=Brev
-[Line                   73718]: Unknown attribute-value pair Varian=Brev
-[Line                   95328]: Unknown attribute-value pair Varian=Brev
-[Line                   96566]: Unknown attribute-value pair Varian=Brev
-*** FAILED *** with 13 errors
-Morpho errors: 13
+*** PASSED ***
 
 
 ******************
