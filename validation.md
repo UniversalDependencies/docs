@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-02T04:10:37Z">2016-11-02T04:10:37 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-02T04:22:43Z">2016-11-02T04:22:43 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1923,7 +1923,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-02T04:10:27Z">2016-11-02T04:10:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-02T04:22:34Z">2016-11-02T04:22:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1936,30 +1936,21 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-full.conllu
 
-[Line                   266]: Morphological features must be sorted: 'Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Degree=Sup'
-[Line                   522]: Morphological features must be sorted: 'Animacy=Anim|Case=Gen|Number=Plur|Degree=Sup'
-[Line                   543]: Morphological features must be sorted: 'Animacy=Anim|Case=Gen|Number=Plur|Degree=Sup'
-[Line                   794]: Morphological features must be sorted: 'Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Degree=Sup'
-[Line                   1137]: Morphological features must be sorted: 'Animacy=Inan|Case=Gen|Number=Plur|Degree=Sup'
-[Line                   1665]: Morphological features must be sorted: 'Animacy=Inan|Case=Nom|Number=Plur|Degree=Sup'
-[Line                   2222]: Morphological features must be sorted: 'Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing|Degree=Sup'
-[Line                   3765]: Morphological features must be sorted: 'Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|Degree=Sup'
-[Line                   3787]: Morphological features must be sorted: 'Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|Degree=Sup'
-[Line                   3986]: Morphological features must be sorted: 'Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Degree=Sup'
-[Line                   4672]: Morphological features must be sorted: 'Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Degree=Sup'
-[Line                   4774]: Morphological features must be sorted: 'Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Degree=Sup'
-[Line                   4798]: Morphological features must be sorted: 'Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|Degree=Sup'
-[Line                   5920]: Morphological features must be sorted: 'Animacy=Inan|Case=Gen|Number=Plur|Degree=Sup'
-[Line                   7059]: Morphological features must be sorted: 'Animacy=Inan|Case=Gen|Number=Plur|Degree=Sup'
-[Line                   8453]: Morphological features must be sorted: 'Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing|Degree=Sup'
-[Line                   8782]: Morphological features must be sorted: 'Animacy=Inan|Case=Acc|Number=Plur|Degree=Sup'
-[Line                   9437]: Morphological features must be sorted: 'Animacy=Anim|Case=Gen|Number=Plur|Degree=Sup'
-[Line                   10570]: Morphological features must be sorted: 'Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Degree=Sup'
-...suppressing further errors regarding Morpho
-[Line                   104418]: Missing empty line after the last tree.
-*** FAILED *** with 116 errors
-Format errors: 1
-Morpho errors: 115
+[Line                   16867]: Unknown attribute-value pair VerbFrom=Part
+[Line                   17393]: Unknown attribute-value pair Varian=Brev
+[Line                   18273]: Unknown attribute-value pair VerbFrom=Part
+[Line                   39747]: Unknown attribute-value pair Varian=Brev
+[Line                   39752]: Unknown attribute-value pair Varian=Brev
+[Line                   41065]: Unknown attribute-value pair Varian=Brev
+[Line                   43875]: Unknown attribute-value pair Varian=Brev
+[Line                   48643]: Unknown attribute-value pair Varian=Brev
+[Line                   61240]: Unknown attribute-value pair Varian=Brev
+[Line                   62143]: Unknown attribute-value pair Varian=Brev
+[Line                   73718]: Unknown attribute-value pair Varian=Brev
+[Line                   95328]: Unknown attribute-value pair Varian=Brev
+[Line                   96566]: Unknown attribute-value pair Varian=Brev
+*** FAILED *** with 13 errors
+Morpho errors: 13
 
 
 ******************
