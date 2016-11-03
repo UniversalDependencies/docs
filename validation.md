@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-01T10:37:49Z">2016-11-01T10:37:49 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-03T19:22:01Z">2016-11-03T19:22:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -162,7 +162,7 @@ python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T23:48:15Z">2016-10-31T23:48:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-03T19:21:53Z">2016-11-03T19:21:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -377,7 +377,7 @@ python tools/validate.py --lang zh UD-dev-branches/UD_Chinese/zh-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T01:23:50Z">2016-11-01T01:23:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T21:49:36Z">2016-11-01T21:49:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -910,7 +910,7 @@ Syntax errors: 1419
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:47:25Z">2016-09-19T07:47:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-02T07:10:30Z">2016-11-02T07:10:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -974,7 +974,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T13:24:58Z">2016-10-31T13:24:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T16:43:23Z">2016-11-01T16:43:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1197,7 +1197,7 @@ python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-21T07:22:57Z">2016-10-21T07:22:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-02T09:40:26Z">2016-11-02T09:40:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1389,25 +1389,25 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T21:09:06Z">2016-10-31T21:09:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T17:52:48Z">2016-11-01T17:52:48 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-test.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 
 *** PASSED ***
 
@@ -1731,7 +1731,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T19:37:31Z">2016-10-31T19:37:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T22:41:52Z">2016-11-01T22:41:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1923,25 +1923,25 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T00:01:50Z">2016-11-01T00:01:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-02T22:27:12Z">2016-11-02T22:27:12 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-test.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-train.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 *** PASSED ***
 
@@ -1954,120 +1954,28 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T21:56:19Z">2016-10-31T21:56:19 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T14:21:47Z">2016-11-01T14:21:47 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
-[Line                   1]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing'
-[Line                   4]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing'
-[Line                   5]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing'
-[Line                   8]: Column XPOSTAG is not allowed to contain whitespace: 'PROPN Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing'
-[Line                   11]: Column XPOSTAG is not allowed to contain whitespace: 'ADJ Case=Nom|Degree=Pos|Gender=Masc|Number=Sing'
-[Line                   12]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing'
-[Line                   13]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur'
-[Line                   15]: Column XPOSTAG is not allowed to contain whitespace: 'VERB Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act'
-[Line                   16]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing'
-[Line                   17]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur'
-[Line                   18]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing'
-[Line                   20]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing'
-[Line                   21]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing'
-[Line                   22]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing'
-[Line                   23]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing'
-[Line                   25]: Column XPOSTAG is not allowed to contain whitespace: 'ADJ Case=Acc|Degree=Pos|Gender=Neut|Number=Sing'
-[Line                   26]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing'
-[Line                   30]: Column XPOSTAG is not allowed to contain whitespace: 'ADJ Case=Loc|Degree=Pos|Gender=Fem|Number=Sing'
-[Line                   31]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing'
-...suppressing further errors regarding Format
-[Tree number 3110 on line 63254]: Non-tree structure. Words 20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36 are not reachable from the root 0.
-*** FAILED *** with 64876 errors
-Format errors: 64875
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-test.conllu
 
-[Line                   2]: Column XPOSTAG is not allowed to contain whitespace: 'ADJ Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing'
-[Line                   3]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing'
-[Line                   4]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing'
-[Line                   5]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing'
-[Line                   6]: Column XPOSTAG is not allowed to contain whitespace: 'PROPN Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing'
-[Line                   8]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur'
-[Line                   10]: Column XPOSTAG is not allowed to contain whitespace: 'PROPN Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing'
-[Line                   11]: Column XPOSTAG is not allowed to contain whitespace: 'VERB Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act'
-[Line                   13]: Column XPOSTAG is not allowed to contain whitespace: 'NUM Case=Gen'
-[Line                   14]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur'
-[Line                   17]: Column XPOSTAG is not allowed to contain whitespace: 'VERB Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act'
-[Line                   19]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing'
-[Line                   21]: Column XPOSTAG is not allowed to contain whitespace: 'ADJ Case=Gen|Degree=Pos|Gender=Masc|Number=Sing'
-[Line                   22]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing'
-[Line                   23]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing'
-[Line                   24]: Column XPOSTAG is not allowed to contain whitespace: 'ADJ Case=Nom|Degree=Pos|Gender=Masc|Number=Sing'
-[Line                   26]: Column XPOSTAG is not allowed to contain whitespace: 'ADJ Case=Nom|Degree=Pos|Gender=Masc|Number=Sing'
-[Line                   27]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing'
-[Line                   28]: Column XPOSTAG is not allowed to contain whitespace: 'VERB Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act'
-...suppressing further errors regarding Format
-[Tree number 728 on line 12533]: Non-tree structure. Words 19,20,21,22,23,24,25,26 are not reachable from the root 0.
-[Tree number 1056 on line 18237]: Non-tree structure. Words 11 are not reachable from the root 0.
-[Tree number 1130 on line 19253]: Non-tree structure. Words 7,8,9,10 are not reachable from the root 0.
-[Tree number 3612 on line 65518]: Non-tree structure. Words 5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22 are not reachable from the root 0.
-[Tree number 5975 on line 110670]: Non-tree structure. Words 15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37 are not reachable from the root 0.
-*** FAILED *** with 65282 errors
-Format errors: 65277
-Syntax errors: 5
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
 
-[Line                   1]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing'
-[Line                   4]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing'
-[Line                   5]: Column XPOSTAG is not allowed to contain whitespace: 'ADJ Case=Gen|Degree=Pos|Gender=Neut|Number=Sing'
-[Line                   6]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing'
-[Line                   7]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing'
-[Line                   8]: Column XPOSTAG is not allowed to contain whitespace: 'PROPN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing'
-[Line                   9]: Column XPOSTAG is not allowed to contain whitespace: 'PROPN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing'
-[Line                   10]: Column XPOSTAG is not allowed to contain whitespace: 'AUX Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act'
-[Line                   11]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing'
-[Line                   12]: Column XPOSTAG is not allowed to contain whitespace: 'ADJ Case=Nom|Degree=Pos|Gender=Masc|Number=Sing'
-[Line                   14]: Column XPOSTAG is not allowed to contain whitespace: 'VERB Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act'
-[Line                   16]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing'
-[Line                   17]: Column XPOSTAG is not allowed to contain whitespace: 'ADV Degree=Pos'
-[Line                   18]: Column XPOSTAG is not allowed to contain whitespace: 'ADV Degree=Pos'
-[Line                   20]: Column XPOSTAG is not allowed to contain whitespace: 'VERB Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act'
-[Line                   22]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing'
-[Line                   24]: Column XPOSTAG is not allowed to contain whitespace: 'NOUN Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing'
-[Line                   26]: Column XPOSTAG is not allowed to contain whitespace: 'ADV Degree=Pos'
-[Line                   28]: Column XPOSTAG is not allowed to contain whitespace: 'VERB Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act'
-...suppressing further errors regarding Format
-[Tree number 2684 on line 41249]: Non-tree structure. Words 27,28,29,30,31,32,33,34,35,36,37,38,39 are not reachable from the root 0.
-[Tree number 5386 on line 93689]: Non-tree structure. Words 11,12,13,14,15,16,17 are not reachable from the root 0.
-[Tree number 9499 on line 167278]: Non-tree structure. Words 3,4,5,6,7,8,9,10,11,12,13,14,15 are not reachable from the root 0.
-[Tree number 10208 on line 179860]: Non-tree structure. Words 10,11,12,13,14,15,16,17 are not reachable from the root 0.
-[Tree number 11465 on line 205233]: Non-tree structure. Words 15,16,17,18,19,20,21,22 are not reachable from the root 0.
-[Tree number 13764 on line 245023]: Non-tree structure. Words 20,21,22,23,24,25,26,27,28,29 are not reachable from the root 0.
-[Tree number 14573 on line 260636]: Non-tree structure. Words 7,8,9,10,11,12,13,14,15,16,17,18 are not reachable from the root 0.
-[Tree number 20013 on line 362428]: Non-tree structure. Words 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 are not reachable from the root 0.
-[Tree number 20321 on line 368483]: Non-tree structure. Words 11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26 are not reachable from the root 0.
-[Tree number 21272 on line 386591]: Non-tree structure. Words 19,20,21 are not reachable from the root 0.
-[Tree number 26552 on line 488367]: Non-tree structure. Words 7,8,9,10,11,12,13,14,15,16 are not reachable from the root 0.
-[Tree number 26885 on line 493593]: Non-tree structure. Words 15,16,17,18,19,20,21,22,23,24 are not reachable from the root 0.
-[Tree number 33222 on line 612549]: Non-tree structure. Words 9,10,11,12,13,14,15,16,17,18 are not reachable from the root 0.
-[Tree number 34051 on line 628461]: Non-tree structure. Words 22,23,24,25,26,27,28,29,30,31,32,33,34,35,36 are not reachable from the root 0.
-[Tree number 35252 on line 651784]: Non-tree structure. Words 27,28,29,30 are not reachable from the root 0.
-[Tree number 36558 on line 676187]: Non-tree structure. Words 13,14,15,16,17,18,19 are not reachable from the root 0.
-[Tree number 38586 on line 712562]: Non-tree structure. Words 10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26 are not reachable from the root 0.
-[Tree number 42123 on line 771538]: Non-tree structure. Words 12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29 are not reachable from the root 0.
-[Tree number 43112 on line 793254]: Non-tree structure. Words 30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57 are not reachable from the root 0.
-...suppressing further errors regarding Syntax
-*** FAILED *** with 513993 errors
-Format errors: 513973
-Syntax errors: 20
+*** PASSED ***
 
 
 ******************
@@ -2432,7 +2340,7 @@ python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T22:17:41Z">2016-10-31T22:17:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-03T07:40:34Z">2016-11-03T07:40:34 zulu</time></span>
 </div>
 <div>
 <pre>
