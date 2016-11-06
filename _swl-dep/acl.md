@@ -8,12 +8,12 @@ The category `acl` is used for adverbial modification of a noun. Hence, it is no
 
 ~~~ sdparse
 POJKE SITTA VARELSE(Vb)-BEFINNA-SIG LEDSEN \n BOY SIT PERSON(Vb)-BE SORRY
+nsubj(SITTA, POJKE)
 acl(POJKE, LEDSEN)
 ~~~
 
 ~~~ sdparse
 
-Pojken satt (där), ledsen \n The boy sat (there), sad
-nsubj(SITTA, POJKE)
+Pojken satt (där), ledsen \n The-boy sat (there), sad
 acl(Pojken, ledsen)
 ~~~
