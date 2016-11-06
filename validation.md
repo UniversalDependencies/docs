@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-06T04:02:54Z">2016-11-06T04:02:54 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-06T21:29:28Z">2016-11-06T21:29:28 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -194,22 +194,19 @@ python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T09:50:13Z">2016-10-31T09:50:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-06T21:29:28Z">2016-11-06T21:29:28 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bxr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Buryat/bxr-ud-dev.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.bxr could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.bxr
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.bxr could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.bxr It's okay if the file is empty, but it must exist.
- 
-
-
+[Line                   70]: Unknown UD DEPREL: nmod:own
+[Line                   178]: Unknown UD DEPREL: nmod:own
+[Line                   293]: Unknown UD DEPREL: nmod:own
+[Line                   304]: Unknown UD DEPREL: nmod:own
+[Line                   522]: Unknown UD DEPREL: nmod:own
+[Line                   598]: Unknown UD DEPREL: nmod:own
+[Line                   646]: Unknown UD DEPREL: nmod:own
 [Tree number 92 on line 766]: Multiple root words: [25, 14]
 [Tree number 105 on line 1045]: Multiple root words: [1, 11]
 [Tree number 107 on line 1072]: Multiple root words: [19, 12]
@@ -222,27 +219,44 @@ Please add the language-specific pairs using python conllu-stats.py --catvals=la
 [Tree number 158 on line 1910]: Multiple root words: [1, 3, 4, 5, 6]
 [Tree number 159 on line 1917]: Multiple root words: [5, 15]
 [Tree number 164 on line 1987]: Multiple root words: [4, 6]
-[Tree number 174 on line 2115]: Multiple root words: [18, 35]
+...suppressing further errors regarding Syntax
+*** FAILED *** with 21 errors
+Syntax errors: 21
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bxr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Buryat/bxr-ud-test.conllu
+
+[Tree number 21 on line 163]: Multiple root words: [2, 7]
+[Line                   225]: Unknown UD DEPREL: nmod:own
+[Line                   297]: Unknown UD DEPREL: nmod:own
+[Line                   448]: Unknown UD DEPREL: nmod:own
+[Line                   480]: Unknown UD DEPREL: nmod:own
+[Line                   499]: Unknown UD DEPREL: nmod:own
+[Tree number 81 on line 686]: Multiple root words: [19, 12]
+[Tree number 85 on line 776]: Multiple root words: [13, 6]
+[Tree number 87 on line 804]: Multiple root words: [8, 19]
+[Tree number 89 on line 859]: Multiple root words: [4, 29]
+[Tree number 103 on line 1106]: Multiple root words: [1, 7]
+[Tree number 116 on line 1331]: Multiple root words: [8, 18]
+[Tree number 131 on line 1531]: Multiple root words: [11, 12]
+[Tree number 137 on line 1643]: Multiple root words: [1, 19]
+[Tree number 194 on line 2299]: Multiple root words: [10, 12]
 *** FAILED *** with 15 errors
-Language specific data missing errors: 2
-Syntax errors: 13
+Syntax errors: 15
 
 
 ******************
 
-python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-test.conllu
-
-[Tree number 0 on line 0]: The language-specific file data/deprel.bxr could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.bxr
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.bxr could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.bxr It's okay if the file is empty, but it must exist.
- 
-
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bxr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Buryat/bxr-ud-train.conllu
 
 [Tree number 21 on line 163]: Multiple root words: [2, 7]
+[Line                   225]: Unknown UD DEPREL: nmod:own
+[Line                   297]: Unknown UD DEPREL: nmod:own
+[Line                   448]: Unknown UD DEPREL: nmod:own
+[Line                   480]: Unknown UD DEPREL: nmod:own
+[Line                   499]: Unknown UD DEPREL: nmod:own
 [Tree number 81 on line 686]: Multiple root words: [19, 12]
 [Tree number 85 on line 776]: Multiple root words: [13, 6]
 [Tree number 87 on line 804]: Multiple root words: [8, 19]
@@ -252,56 +266,36 @@ Please add the language-specific pairs using python conllu-stats.py --catvals=la
 [Tree number 131 on line 1531]: Multiple root words: [11, 12]
 [Tree number 137 on line 1643]: Multiple root words: [1, 19]
 [Tree number 194 on line 2299]: Multiple root words: [10, 12]
-*** FAILED *** with 12 errors
-Language specific data missing errors: 2
-Syntax errors: 10
+*** FAILED *** with 15 errors
+Syntax errors: 15
 
 
 ******************
 
-python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bxr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Buryat/bxr-ud.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.bxr could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.bxr
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.bxr could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.bxr It's okay if the file is empty, but it must exist.
- 
-
-
-[Tree number 21 on line 163]: Multiple root words: [2, 7]
-[Tree number 81 on line 686]: Multiple root words: [19, 12]
-[Tree number 85 on line 776]: Multiple root words: [13, 6]
-[Tree number 87 on line 804]: Multiple root words: [8, 19]
-[Tree number 89 on line 859]: Multiple root words: [4, 29]
-[Tree number 103 on line 1106]: Multiple root words: [1, 7]
-[Tree number 116 on line 1331]: Multiple root words: [8, 18]
-[Tree number 131 on line 1531]: Multiple root words: [11, 12]
-[Tree number 137 on line 1643]: Multiple root words: [1, 19]
-[Tree number 194 on line 2299]: Multiple root words: [10, 12]
-*** FAILED *** with 12 errors
-Language specific data missing errors: 2
-Syntax errors: 10
-
-
-******************
-
-python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud.conllu
-
-[Tree number 0 on line 0]: The language-specific file data/deprel.bxr could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.bxr
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.bxr could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.bxr It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 2 errors
-Language specific data missing errors: 2
+[Line                   41]: Unknown UD DEPREL: nmod:own
+[Line                   157]: Unknown UD DEPREL: nmod:own
+[Line                   168]: Unknown UD DEPREL: nmod:own
+[Line                   309]: Unknown UD DEPREL: nmod:own
+[Line                   483]: Unknown UD DEPREL: nmod:own
+[Line                   835]: Unknown UD DEPREL: nmod:own
+[Line                   940]: Unknown UD DEPREL: nmod:own
+[Line                   1274]: Unknown UD DEPREL: nmod:own
+[Line                   1292]: Unknown UD DEPREL: nmod:own
+[Line                   1348]: Unknown UD DEPREL: nmod:own
+[Line                   1354]: Unknown UD DEPREL: nmod:own
+[Line                   1358]: Unknown UD DEPREL: nmod:own
+[Line                   1597]: Unknown UD DEPREL: nmod:own
+[Line                   1602]: Unknown UD DEPREL: nmod:own
+[Line                   1811]: Unknown UD DEPREL: nmod:own
+[Line                   1906]: Unknown UD DEPREL: nmod:own
+[Line                   2017]: Unknown UD DEPREL: nmod:own
+[Line                   2245]: Unknown UD DEPREL: nmod:own
+[Line                   2391]: Unknown UD DEPREL: nmod:own
+...suppressing further errors regarding Syntax
+*** FAILED *** with 28 errors
+Syntax errors: 28
 
 
 ******************
