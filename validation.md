@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-06T21:31:17Z">2016-11-06T21:31:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-06T21:45:58Z">2016-11-06T21:45:58 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -992,92 +992,29 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conll
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
-<span class="widespan">gl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T18:43:55Z">2016-10-31T18:43:55 zulu</time></span>
+<span class="widespan">gl treegal</span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-06T21:45:56Z">2016-11-06T21:45:56 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang gl UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
-[Line                   20]: Unknown attribute-value pair AdpType=Prep
-[Line                   25]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   27]: Unknown attribute-value pair AdpType=Prep
-[Line                   31]: Unknown attribute-value pair AdpType=Prep
-[Line                   34]: Unknown attribute-value pair AdpType=Prep
-[Line                   43]: Unknown attribute-value pair AdpType=Prep
-[Line                   57]: Unknown attribute-value pair AdpType=Prep
-[Line                   69]: Unknown attribute-value pair AdpType=Prep
-[Line                   72]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   76]: Unknown attribute-value pair PronType=Clit
-[Line                   77]: Unknown attribute-value pair AdpType=Prep
-[Line                   81]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   91]: Unknown attribute-value pair AdpType=Prep
-[Line                   94]: Unknown attribute-value pair AdpType=Prep
-[Line                   97]: Unknown attribute-value pair AdpType=Prep
-[Line                   103]: Unknown attribute-value pair AdpType=Prep
-[Line                   105]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   110]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   115]: Unknown attribute-value pair Number[psor]=Sing
-...suppressing further errors regarding Morpho
-*** FAILED *** with 416 errors
-Morpho errors: 416
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang gl UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-test.conllu
 
-[Line                   5]: Unknown attribute-value pair PronType=Clit
-[Line                   8]: Unknown attribute-value pair AdpType=Prep
-[Line                   11]: Unknown attribute-value pair AdpType=Prep
-[Line                   13]: Unknown attribute-value pair AdpType=Prep
-[Line                   35]: Unknown attribute-value pair AdpType=Prep
-[Line                   41]: Unknown attribute-value pair AdpType=Prep
-[Line                   46]: Unknown attribute-value pair PronType=Clit
-[Line                   48]: Unknown attribute-value pair AdpType=Prep
-[Line                   50]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   59]: Unknown attribute-value pair AdpType=Prep
-[Line                   64]: Unknown attribute-value pair AdpType=Prep
-[Line                   67]: Unknown attribute-value pair AdpType=Prep
-[Line                   72]: Unknown attribute-value pair AdpType=Prep
-[Line                   84]: Unknown attribute-value pair PronType=Clit
-[Line                   90]: Unknown attribute-value pair AdpType=Prep
-[Line                   95]: Unknown attribute-value pair AdpType=Prep
-[Line                   98]: Unknown attribute-value pair AdpType=Prep
-[Line                   106]: Unknown attribute-value pair AdpType=Prep
-[Line                   109]: Unknown attribute-value pair AdpType=Prep
-...suppressing further errors regarding Morpho
-*** FAILED *** with 480 errors
-Morpho errors: 480
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang gl UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
-[Line                   7]: Unknown attribute-value pair AdpType=Prep
-[Line                   13]: Unknown attribute-value pair AdpType=Prep
-[Line                   21]: Unknown attribute-value pair AdpType=Prep
-[Line                   34]: Unknown attribute-value pair AdpType=Prep
-[Line                   41]: Unknown attribute-value pair AdpType=Prep
-[Line                   43]: Unknown attribute-value pair AdpType=Prep
-[Line                   52]: Unknown attribute-value pair AdpType=Prep
-[Line                   60]: Unknown attribute-value pair AdpType=Prep
-[Line                   65]: Unknown attribute-value pair AdpType=Prep
-[Line                   71]: Unknown attribute-value pair AdpType=Prep
-[Line                   83]: Unknown attribute-value pair AdpType=Prep
-[Line                   86]: Unknown attribute-value pair AdpType=Prep
-[Line                   89]: Unknown attribute-value pair AdpType=Prep
-[Line                   93]: Unknown attribute-value pair AdpType=Prep
-[Line                   97]: Unknown attribute-value pair AdpType=Prep
-[Line                   100]: Unknown attribute-value pair AdpType=Prep
-[Line                   106]: Unknown attribute-value pair AdpType=Prep
-[Line                   108]: Unknown attribute-value pair AdpType=Prep
-[Line                   115]: Unknown attribute-value pair AdpType=Prep
-...suppressing further errors regarding Morpho
-*** FAILED *** with 3349 errors
-Morpho errors: 3349
+*** PASSED ***
 
 
 ******************
