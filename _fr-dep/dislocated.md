@@ -12,6 +12,6 @@ This construction is quite frequent is spoken French. It has not been yet annota
 
 ~~~ sdparse
 Pierre je ne l' aime pas beaucoup  \n Peter I don't like him much
-dislocated(l', Pierre)
+dislocated(aime, Pierre)
 dobj(aime, l')
 ~~~
