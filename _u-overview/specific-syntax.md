@@ -10,6 +10,7 @@ This section will contain detailed discussion of particular linguistic construct
 
 * Coordination: currently described under [u-dep/conj]()
 * Direct and reported speech: currently described under [u-dep/parataxis]()
+* Choices for representing repeated arguments, particularly for clitic doubling, are described under [u-dep/expl]()
 
 ## Clausal structures
 
