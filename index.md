@@ -35,6 +35,8 @@ If you plan to start using the scheme, we recommend waiting for version 2.
 {% include at_glance.html %}
 </div>
 
+<small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
+
 
 
 # Download
