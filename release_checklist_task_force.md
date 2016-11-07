@@ -13,9 +13,6 @@ See [here](release_checklist.html) for the checklist for data contributors.
   This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
 * Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it):<br />
   <code>for i in UD_* ; do pushd $i ; git pull --no-edit ; popd ; echo ; done</code>
-* NEW in UD 1.3: some languages have the new data in `dev` branch. After this release, all languages will have to use the
-  `dev` branch. So we should create the branch in repositories that do not have it.<br />
-  <code>for i in UD_* ; do pushd $i ; git pull --no-edit ; git checkout -b dev ; git checkout dev ; git push --set-upstream origin dev ; popd ; echo ; done</code>
 * For all repositories we should make sure that the `dev` branch is checked out:<br />
   <code>for i in UD_* ; do pushd $i ; git checkout dev ; git pull --no-edit ; popd ; echo ; done</code>
 * Make sure that all CoNLL-U files are formally valid (results of the validator are [available on-line](validation.html) but make sure that no repository is missing there).<br />
