@@ -35,7 +35,7 @@ def get_token_count_span(corpus_data):
         return no_data_token_count_span
     else:
         if token_count<1000:
-            tcountk="<1"
+            tcountk="&lt;1"
         else:
             tcountk="{:,}".format(token_count//1000)
         return token_count_span.format(tcountk=tcountk,**corpus_data)
