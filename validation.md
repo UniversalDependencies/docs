@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-07T21:14:00Z">2016-11-07T21:14:00 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-07T22:23:30Z">2016-11-07T22:23:30 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1881,6 +1881,38 @@ python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-train.conll
 <div>
 <pre>
 No data
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
+<span class="widespan">sk</span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-07T22:23:23Z">2016-11-07T22:23:23 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
 </pre>
 </div>
 <div>
