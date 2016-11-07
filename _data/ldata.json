@@ -143,22 +143,6 @@
     "lang_name": "Buryat"
   }, 
   {
-    "lang_code": "yue", 
-    "contributors": [
-      {
-        "full": "Kim Gerdes", 
-        "last": "Gerdes", 
-        "first": "Kim"
-      }, 
-      {
-        "full": "Herman Leung", 
-        "last": "Leung", 
-        "first": "Herman"
-      }
-    ], 
-    "lang_name": "Cantonese"
-  }, 
-  {
     "lang_code": "ca", 
     "contributors": [
       {
@@ -194,22 +178,6 @@
       }
     ], 
     "lang_name": "Chinese"
-  }, 
-  {
-    "lang_code": "zh_hk", 
-    "contributors": [
-      {
-        "full": "Kim Gerdes", 
-        "last": "Gerdes", 
-        "first": "Kim"
-      }, 
-      {
-        "full": "Herman Leung", 
-        "last": "Leung", 
-        "first": "Herman"
-      }
-    ], 
-    "lang_name": "Chinese-HK"
   }, 
   {
     "lang_code": "cop", 
@@ -573,6 +541,11 @@
         "full": "Joakim Nivre", 
         "last": "Nivre", 
         "first": "Joakim"
+      }, 
+      {
+        "full": "Matias Grioni", 
+        "last": "Grioni", 
+        "first": "Matias"
       }
     ], 
     "lang_name": "French"
