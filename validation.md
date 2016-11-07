@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-07T14:48:35Z">2016-11-07T14:48:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-07T16:42:25Z">2016-11-07T16:42:25 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -194,68 +194,36 @@ python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-06T21:31:17Z">2016-11-06T21:31:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-07T16:42:24Z">2016-11-07T16:42:24 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bxr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Buryat/bxr-ud-dev.conllu
+python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-dev.conllu
 
-[Tree number 92 on line 766]: Multiple root words: [25, 14]
-[Tree number 105 on line 1045]: Multiple root words: [1, 11]
-[Tree number 107 on line 1072]: Multiple root words: [19, 12]
-[Tree number 108 on line 1093]: Multiple root words: [9, 17]
-[Tree number 134 on line 1528]: Multiple root words: [8, 20]
-[Tree number 139 on line 1610]: Multiple root words: [17, 13, 6]
-[Tree number 140 on line 1639]: Multiple root words: [6, 14]
-[Tree number 151 on line 1812]: Multiple root words: [11, 5]
-[Tree number 154 on line 1850]: Multiple root words: [3, 22]
-[Tree number 158 on line 1910]: Multiple root words: [1, 3, 4, 5, 6]
-[Tree number 159 on line 1917]: Multiple root words: [5, 15]
-[Tree number 164 on line 1987]: Multiple root words: [4, 6]
-[Tree number 174 on line 2115]: Multiple root words: [18, 35]
-*** FAILED *** with 13 errors
-Syntax errors: 13
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bxr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Buryat/bxr-ud-test.conllu
+python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-test.conllu
 
-[Tree number 21 on line 163]: Multiple root words: [2, 7]
-[Tree number 81 on line 686]: Multiple root words: [19, 12]
-[Tree number 85 on line 776]: Multiple root words: [13, 6]
-[Tree number 87 on line 804]: Multiple root words: [8, 19]
-[Tree number 89 on line 859]: Multiple root words: [4, 29]
-[Tree number 103 on line 1106]: Multiple root words: [1, 7]
-[Tree number 116 on line 1331]: Multiple root words: [8, 18]
-[Tree number 131 on line 1531]: Multiple root words: [11, 12]
-[Tree number 137 on line 1643]: Multiple root words: [1, 19]
-[Tree number 194 on line 2299]: Multiple root words: [10, 12]
-*** FAILED *** with 10 errors
-Syntax errors: 10
+[Tree number 21 on line 163]: Non-tree structure. Words 1,2,3,4,5 are not reachable from the root 0.
+*** FAILED *** with 1 errors
+Syntax errors: 1
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bxr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Buryat/bxr-ud-train.conllu
+python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-train.conllu
 
-[Tree number 21 on line 163]: Multiple root words: [2, 7]
-[Tree number 81 on line 686]: Multiple root words: [19, 12]
-[Tree number 85 on line 776]: Multiple root words: [13, 6]
-[Tree number 87 on line 804]: Multiple root words: [8, 19]
-[Tree number 89 on line 859]: Multiple root words: [4, 29]
-[Tree number 103 on line 1106]: Multiple root words: [1, 7]
-[Tree number 116 on line 1331]: Multiple root words: [8, 18]
-[Tree number 131 on line 1531]: Multiple root words: [11, 12]
-[Tree number 137 on line 1643]: Multiple root words: [1, 19]
-[Tree number 194 on line 2299]: Multiple root words: [10, 12]
-*** FAILED *** with 10 errors
-Syntax errors: 10
+[Tree number 21 on line 163]: Non-tree structure. Words 1,2,3,4,5 are not reachable from the root 0.
+*** FAILED *** with 1 errors
+Syntax errors: 1
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bxr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Buryat/bxr-ud.conllu
+python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud.conllu
 
 *** PASSED ***
 
