@@ -28,13 +28,17 @@ import codecs
 import StringIO
 
 no_data_token_count_span="""<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>"""
-token_count_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{token_count:,} tokens {word_count:,} words {tree_count:,} sentences">{tcountk:,}K</span></span>"""
+token_count_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{token_count:,} tokens {word_count:,} words {tree_count:,} sentences">{tcountk}K</span></span>"""
 def get_token_count_span(corpus_data):
     token_count=corpus_data.get("token_count",0)
     if token_count==0: #No data
         return no_data_token_count_span
     else:
-        return token_count_span.format(tcountk=token_count//1000,**corpus_data)
+        if token_count<1000:
+            tcountk="<1"
+        else:
+            tcountk="{:,}".format(token_count//1000)
+        return token_count_span.format(tcountk=tcountk,**corpus_data)
 
 
 def get_column_icons(corpus_data):
