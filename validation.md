@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-07T16:42:25Z">2016-11-07T16:42:25 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-07T16:44:37Z">2016-11-07T16:44:37 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -193,8 +193,8 @@ python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conl
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-07T16:42:24Z">2016-11-07T16:42:24 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-07T16:44:36Z">2016-11-07T16:44:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -207,18 +207,14 @@ python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-dev.conllu
 
 python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-test.conllu
 
-[Tree number 21 on line 163]: Non-tree structure. Words 1,2,3,4,5 are not reachable from the root 0.
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-train.conllu
 
-[Tree number 21 on line 163]: Non-tree structure. Words 1,2,3,4,5 are not reachable from the root 0.
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
