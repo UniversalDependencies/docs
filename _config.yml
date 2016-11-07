@@ -850,6 +850,20 @@ collections:
   yue-overview:
     output: true
 #
+# Slovak
+#
+  sk-pos:
+    output: true
+    permalink: /sk/pos/:path.html
+  sk-feat:
+    output: true
+    permalink: /sk/feat/:path.html
+  sk-dep:
+    output: true
+    permalink: /sk/dep/:path.html
+  sk-overview:
+    output: true
+#
 # Template
 #
   template-pos:
