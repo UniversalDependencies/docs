@@ -50,6 +50,7 @@ The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala
 ## UD Swedish-LinES
 
 (This section is currently being updated.)
+
 UD Swedish-LinES is the Swedish half of the LinES parallel treebank (Ahrenberg 2007; Ahrenberg 2015)
 
 
@@ -74,3 +75,5 @@ This table summarizes the origins and checking of the various columns of the CoN
 ### Acknowledgments
 
 ### References
+ * Lars Ahrenberg. LinES: An English-Swedish Parallel Treebank. Proceedings of the 16th Nordic Conference of Computational Linguistics (NODALIDA, 2007). 
+ * Lars Ahrenberg. Converting an English-Swedish Parallel Treebank to Universal Dependencies. Proceedings of the Third International Conference on Dependency Linguistics (DepLing 2015), Uppsala, August 24-26, 2015, pp. 10-19. ACL Anthology W15-2103.
