@@ -49,10 +49,9 @@ The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala
 
 ## UD Swedish-LinES
 
-(This section is currently being updated.)
-
 UD Swedish-LinES is the Swedish half of the LinES parallel treebank (Ahrenberg 2007; Ahrenberg 2015)
-
+It contains translations into Swedish from seven different English sources (found in UD English-LinES). The
+treebank was first developed in the project 'Micro- and macro-level analysis of translations' funded by the Swedish Research Council (Ahrenberg, 2007). The treebank is being developed continuously.
 
 ### Source of annotations
 
@@ -60,14 +59,14 @@ This table summarizes the origins and checking of the various columns of the CoN
 
 | Column | Status |
 | ------ | ------ |
-| ID | Sentence segmentation agrees with UD English_LinES. Tokenization is made to follow UD-standards. |
-| FORM | Identical to Talbanken except for minor tokenization changes mentioned above. |
-| LEMMA | tba |
-| UPOSTAG | Converted automatically from original LinES tags; fairly careful human checking. |
-| XPOSTAG | The original LinES tags; manually checked|
+| ID | Sentence segmentation agrees with UD English_LinES. Need not correspond 1-1 to original sentences. |
+| FORM | Tokenization is largely based on white space and follows UD standards. |
+| LEMMA | &mdash; (currently unused) |
+| UPOSTAG | Converted automatically from original LinES POS-tags; fairly careful human checking. |
+| XPOSTAG | The original LinES sub-categorization tags; manually checked|
 | FEATS | &mdash; (currently unused) |
 | HEAD | Automatic conversion from original LinES; fairly careful human checking. |
-| DEPREL | Automatic conversion of original LinES; fairly careful human checking. |
+| DEPREL | Automatic conversion of original LinES; checked but there are errors. |
 | DEPS | &mdash; (currently unused) |
 | MISC | &mdash; (currently unused) |
 
