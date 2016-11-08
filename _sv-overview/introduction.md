@@ -47,11 +47,29 @@ The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala
   In _Proceedings of the 6th International Workshop on Treebanks and Linguistic Theories_, pages 97-102.
 * Teleman, Ulf. 1974. Manual för grammatisk beskrivning av talad och skriven svenska. Studentlitteratur.
 
-## UD Swedis-LinES
+## UD Swedish-LinES
 
-Brief description.
+(This section is currently being updated.)
+UD Swedish-LinES is the Swedish half of the LinES parallel treebank (Ahrenberg 2007; Ahrenberg 2015)
+
 
 ### Source of annotations
+
+This table summarizes the origins and checking of the various columns of the CoNLL-U data.
+
+| Column | Status |
+| ------ | ------ |
+| ID | Sentence segmentation agrees with UD English_LinES. Tokenization is made to follow UD-standards. |
+| FORM | Identical to Talbanken except for minor tokenization changes mentioned above. |
+| LEMMA | tba |
+| UPOSTAG | Converted automatically from original LinES tags; fairly careful human checking. |
+| XPOSTAG | The original LinES tags; manually checked|
+| FEATS | &mdash; (currently unused) |
+| HEAD | Automatic conversion from original LinES; fairly careful human checking. |
+| DEPREL | Automatic conversion of original LinES; fairly careful human checking. |
+| DEPS | &mdash; (currently unused) |
+| MISC | &mdash; (currently unused) |
+
 
 ### Acknowledgments
 
