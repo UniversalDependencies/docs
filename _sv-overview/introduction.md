@@ -74,5 +74,6 @@ This table summarizes the origins and checking of the various columns of the CoN
 ### Acknowledgments
 
 ### References
- * Lars Ahrenberg. LinES: An English-Swedish Parallel Treebank. Proceedings of the 16th Nordic Conference of Computational Linguistics (NODALIDA, 2007). 
- * Lars Ahrenberg. Converting an English-Swedish Parallel Treebank to Universal Dependencies. Proceedings of the Third International Conference on Dependency Linguistics (DepLing 2015), Uppsala, August 24-26, 2015, pp. 10-19. ACL Anthology W15-2103.
+ * Lars Ahrenberg. 2007. LinES: An English-Swedish Parallel Treebank. Proceedings of the 16th Nordic Conference of Computational Linguistics (NODALIDA, 2007). 
+ * Lars Ahrenberg. 2015. 
+ [Converting an English-Swedish Parallel Treebank to Universal Dependencies.](http://aclweb.org/anthology/W/W15/W15-2103.pdf)   Proceedings of the Third International Conference on Dependency Linguistics (DepLing 2015), Uppsala, August 24-26, 2015, pp. 10-19. ACL Anthology W15-2103.
