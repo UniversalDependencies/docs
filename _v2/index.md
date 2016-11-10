@@ -14,7 +14,7 @@ Per-issue reports and proposals:-->
 
 # Universal Dependencies v2
 
-The following thematically organized reports summarize the most important changes proposed for v2 of the UD guidelines. The proposal has been worked out by the core group responsible for the universal guidelines based on input from the whole UD community. 
+The following thematically organized reports summarize the most important changes proposed for v2 of the UD guidelines. The proposal has been worked out by the core group responsible for the universal guidelines based on input from the whole UD community. It is currently a draft open for discussion, so do **not** start implementing any changes yet. The final version will be released December 1, 2016.
 
 1. [Core dependents](core-dependents.html) <!--(Joakim)-->
 2. [Ellipsis](ellipsis.html) <!--(Sebastian)-->
