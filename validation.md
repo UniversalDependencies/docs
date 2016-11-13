@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-13T22:45:01Z">2016-11-13T22:45:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-13T22:48:35Z">2016-11-13T22:48:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1587,8 +1587,8 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T22:44:55Z">2016-11-13T22:44:55 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T22:48:29Z">2016-11-13T22:48:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1608,24 +1608,7 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-test.conllu
 
 python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 
-[Line                   3328]: Unknown UPOS tag: _
-[Line                   3328]: Unknown UD DEPREL: _
-[Line                   3328]: Invalid UPOSTAG value _
-[Line                   3328]: Invalid DEPREL value _
-[Line                   3329]: A token line must have '_' in the column LEMMA. Now: 'روزه'.
-[Line                   3329]: A token line must have '_' in the column UPOSTAG. Now: 'NOUN'.
-[Line                   3329]: A token line must have '_' in the column XPOSTAG. Now: 'N_SING'.
-[Line                   3329]: A token line must have '_' in the column FEATS. Now: 'Number=Sing'.
-[Line                   3329]: A token line must have '_' in the column HEAD. Now: '0'.
-[Line                   3329]: A token line must have '_' in the column DEPREL. Now: 'root'.
-[Line                   3332]: Multiword range not before its first word
-[Line                   3332]: Undefined ID in HEAD: _
-[Tree number 229 on line 3328]: Empty head for word ID 1
-[Tree number 229 on line 3328]: Non-tree structure. Words 1,2,3 are not reachable from the root 0.
-*** FAILED *** with 14 errors
-Format errors: 9
-Morpho errors: 2
-Syntax errors: 3
+*** PASSED ***
 
 
 ******************
