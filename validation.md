@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-13T22:14:12Z">2016-11-13T22:14:12 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-13T22:35:51Z">2016-11-13T22:35:51 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1588,7 +1588,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T22:14:07Z">2016-11-13T22:14:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T22:35:45Z">2016-11-13T22:35:45 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1622,56 +1622,27 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 [Line                   3332]: Undefined ID in HEAD: _
 [Tree number 229 on line 3328]: Empty head for word ID 1
 [Tree number 229 on line 3328]: Non-tree structure. Words 1,2,3 are not reachable from the root 0.
-[Line                   15068]: The line has 11 columns, but 10 are expected.
-[Line                   15068]: Empty value in column UPOSTAG
-[Line                   15068]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   15068]: Repeated features are disallowed: V_PRS
-[Line                   15068]: Unknown UPOS tag: 
-[Line                   15068]: Unknown UD DEPREL: 4
-[Line                   15068]: Malformed head:deprel pair 'ccomp'
-[Line                   15068]: Invalid UPOSTAG value 
-[Line                   15068]: Invalid DEPREL value 4
-[Line                   15068]: Failed for parse DEPS: ccomp
-[Line                   15077]: Undefined ID in HEAD: Negative=Neg|Number=Sing|Person=3|Tense=Pres
-[Line                   15077]: Failed for parse DEPS: ccomp
-[Line                   15077]: Failed for parse DEPS: ccomp
-[Tree number 798 on line 15060]: Non-integer head for word ID 9
-[Tree number 798 on line 15060]: Non-tree structure. Words 6,7,8,9,10,11,12,13,14,15,16 are not reachable from the root 0.
-[Line                   15165]: The line has 11 columns, but 10 are expected.
-[Line                   15165]: Empty value in column UPOSTAG
-[Line                   15165]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   15165]: Repeated features are disallowed: V_PRS
-[Line                   15165]: Unknown UPOS tag: 
-[Line                   15165]: Unknown UD DEPREL: 5
-[Line                   15165]: Malformed head:deprel pair 'ccomp'
-[Line                   15165]: Invalid UPOSTAG value 
-[Line                   15165]: Invalid DEPREL value 5
-[Line                   15165]: Failed for parse DEPS: ccomp
-[Line                   15167]: Undefined ID in HEAD: Negative=Neg|Number=Sing|Person=3|Tense=Pres
-[Line                   15167]: Failed for parse DEPS: ccomp
-...suppressing further errors regarding Format
-[Tree number 802 on line 15156]: Non-tree structure. Words 7,8,9,10 are not reachable from the root 0.
-[Line                   19282]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   19282]: Repeated features are disallowed: V_PRS
-[Line                   19282]: Unknown UPOS tag: 
-[Line                   19282]: Unknown UD DEPREL: 5
-[Line                   19282]: Malformed head:deprel pair 'conj'
-[Line                   19282]: Invalid UPOSTAG value 
-[Line                   19282]: Invalid DEPREL value 5
-[Line                   19282]: Failed for parse DEPS: conj
-[Tree number 999 on line 19273]: Non-tree structure. Words 8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25 are not reachable from the root 0.
-[Line                   19340]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   19340]: Repeated features are disallowed: V_PRS
-[Line                   19340]: Unknown UPOS tag: 
-[Line                   19340]: Unknown UD DEPREL: 5
-...suppressing further errors regarding Syntax
-[Line                   19340]: Invalid UPOSTAG value 
-[Line                   19367]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-*** FAILED *** with 106 errors
-Format errors: 47
-Morpho errors: 26
-Syntax errors: 33
+[Line                   48101]: The line has 11 columns, but 10 are expected.
+[Line                   48101]: Empty value in column UPOSTAG
+[Line                   48101]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   48101]: Repeated features are disallowed: V_PRS
+[Line                   48101]: Unknown UPOS tag: 
+[Line                   48101]: Unknown UD DEPREL: 8
+[Line                   48101]: Malformed head:deprel pair 'ccomp'
+[Line                   48101]: Invalid UPOSTAG value 
+[Line                   48101]: Invalid DEPREL value 8
+[Line                   48101]: Failed for parse DEPS: ccomp
+[Line                   48107]: Undefined ID in HEAD: Negative=Neg|Number=Sing|Person=3|Tense=Pres
+[Line                   48107]: Failed for parse DEPS: ccomp
+[Line                   48107]: Failed for parse DEPS: ccomp
+[Tree number 2052 on line 48083]: Non-integer head for word ID 19
+[Tree number 2052 on line 48083]: Non-tree structure. Words 9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 are not reachable from the root 0.
+[Line                   104349]: The line has 8 columns, but 10 are expected.
+[Line                   104349]: Exception caught!
+*** FAILED *** with 31 errors
+Format errors: 17
+Morpho errors: 6
+Syntax errors: 8
 
 
 ******************
