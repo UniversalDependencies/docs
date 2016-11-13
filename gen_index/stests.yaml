@@ -52,7 +52,14 @@
   expr: _ <conj@R _
   pos_ex: "Bill is big and honest\nconj(big, honest)"
   neg_ex: "Bill is big and honest\nconj(honest, big)"
-  desc: Conjugation dependencies should be left-headed, not right.
+  desc: Coordination dependencies should be left-headed, not right.
+  link: http://universaldependencies.org/u/dep/conj.html
+
+-
+  name: Conj is left-headed
+  required_empty: true
+  expr: _ <conj@L _
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> In contrast, this test shows examples where coordination is left-headed.
   link: http://universaldependencies.org/u/dep/conj.html
 
 -
