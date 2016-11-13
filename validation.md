@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-13T22:11:13Z">2016-11-13T22:11:13 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-13T22:13:47Z">2016-11-13T22:13:47 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1587,8 +1587,8 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T22:11:03Z">2016-11-13T22:11:03 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T22:13:40Z">2016-11-13T22:13:40 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1609,76 +1609,6 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-test.conllu
 python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 
 *** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang fa UD-dev-branches/UD_Persian/training-2016.conllu
-
-[Line                   3328]: Unknown UPOS tag: _
-[Line                   3328]: Unknown UD DEPREL: _
-[Line                   3328]: Invalid UPOSTAG value _
-[Line                   3328]: Invalid DEPREL value _
-[Line                   3329]: A token line must have '_' in the column LEMMA. Now: 'روزه'.
-[Line                   3329]: A token line must have '_' in the column UPOSTAG. Now: 'NOUN'.
-[Line                   3329]: A token line must have '_' in the column XPOSTAG. Now: 'N_SING'.
-[Line                   3329]: A token line must have '_' in the column FEATS. Now: 'Number=Sing'.
-[Line                   3329]: A token line must have '_' in the column HEAD. Now: '0'.
-[Line                   3329]: A token line must have '_' in the column DEPREL. Now: 'root'.
-[Line                   3332]: Multiword range not before its first word
-[Line                   3332]: Undefined ID in HEAD: _
-[Tree number 229 on line 3328]: Empty head for word ID 1
-[Tree number 229 on line 3328]: Non-tree structure. Words 1,2,3 are not reachable from the root 0.
-[Line                   15068]: The line has 11 columns, but 10 are expected.
-[Line                   15068]: Empty value in column UPOSTAG
-[Line                   15068]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   15068]: Repeated features are disallowed: V_PRS
-[Line                   15068]: Unknown UPOS tag: 
-[Line                   15068]: Unknown UD DEPREL: 4
-[Line                   15068]: Malformed head:deprel pair 'ccomp'
-[Line                   15068]: Invalid UPOSTAG value 
-[Line                   15068]: Invalid DEPREL value 4
-[Line                   15068]: Failed for parse DEPS: ccomp
-[Line                   15077]: Undefined ID in HEAD: Negative=Neg|Number=Sing|Person=3|Tense=Pres
-[Line                   15077]: Failed for parse DEPS: ccomp
-[Line                   15077]: Failed for parse DEPS: ccomp
-[Tree number 798 on line 15060]: Non-integer head for word ID 9
-[Tree number 798 on line 15060]: Non-tree structure. Words 6,7,8,9,10,11,12,13,14,15,16 are not reachable from the root 0.
-[Line                   15165]: The line has 11 columns, but 10 are expected.
-[Line                   15165]: Empty value in column UPOSTAG
-[Line                   15165]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   15165]: Repeated features are disallowed: V_PRS
-[Line                   15165]: Unknown UPOS tag: 
-[Line                   15165]: Unknown UD DEPREL: 5
-[Line                   15165]: Malformed head:deprel pair 'ccomp'
-[Line                   15165]: Invalid UPOSTAG value 
-[Line                   15165]: Invalid DEPREL value 5
-[Line                   15165]: Failed for parse DEPS: ccomp
-[Line                   15167]: Undefined ID in HEAD: Negative=Neg|Number=Sing|Person=3|Tense=Pres
-[Line                   15167]: Failed for parse DEPS: ccomp
-...suppressing further errors regarding Format
-[Tree number 802 on line 15156]: Non-tree structure. Words 7,8,9,10 are not reachable from the root 0.
-[Line                   19282]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   19282]: Repeated features are disallowed: V_PRS
-[Line                   19282]: Unknown UPOS tag: 
-[Line                   19282]: Unknown UD DEPREL: 5
-[Line                   19282]: Malformed head:deprel pair 'conj'
-[Line                   19282]: Invalid UPOSTAG value 
-[Line                   19282]: Invalid DEPREL value 5
-[Line                   19282]: Failed for parse DEPS: conj
-[Tree number 999 on line 19273]: Non-tree structure. Words 8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25 are not reachable from the root 0.
-[Line                   19340]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   19340]: Repeated features are disallowed: V_PRS
-[Line                   19340]: Unknown UPOS tag: 
-[Line                   19340]: Unknown UD DEPREL: 5
-...suppressing further errors regarding Syntax
-[Line                   19340]: Invalid UPOSTAG value 
-[Line                   19367]: Spurious morphological feature: 'V_PRS'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-*** FAILED *** with 106 errors
-Format errors: 47
-Morpho errors: 26
-Syntax errors: 33
 
 
 ******************
