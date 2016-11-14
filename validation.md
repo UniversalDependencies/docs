@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-14T21:59:34Z">2016-11-14T21:59:34 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-14T21:59:58Z">2016-11-14T21:59:58 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -958,25 +958,25 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-06T21:45:56Z">2016-11-06T21:45:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:59:56Z">2016-11-14T21:59:56 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-test.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
 *** PASSED ***
 
