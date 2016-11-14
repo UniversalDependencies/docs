@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-14T22:05:25Z">2016-11-14T22:05:25 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-14T22:09:05Z">2016-11-14T22:09:05 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1812,7 +1812,7 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-12T21:27:10Z">2016-11-12T21:27:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:08:13Z">2016-11-14T22:08:13 zulu</time></span>
 </div>
 <div>
 <pre>
