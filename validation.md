@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-14T21:08:35Z">2016-11-14T21:08:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-14T21:50:14Z">2016-11-14T21:50:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -119,7 +119,7 @@ python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-LDC</span>
 <span class="widespan">ar ldc</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T21:56:26Z">2016-11-13T21:56:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:50:14Z">2016-11-14T21:50:14 zulu</time></span>
 </div>
 <div>
 <pre>
