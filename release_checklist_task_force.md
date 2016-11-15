@@ -96,8 +96,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
 <small><code style='color:lightgrey'>
 path=$(pwd) ;
 cd /net/data ;
-tar xzf $path/release-1.3/ud-treebanks-v1.3.tgz ;
-mv ud-treebanks-v1.3 universal-dependencies-1.3 ;
+tar xzf $path/release-1.4/ud-treebanks-v1.4.tgz ;
+mv ud-treebanks-v1.4 universal-dependencies-1.4 ;
 cd $HAMLEDT ;
 perl ./populate_ud13.pl
 </code></small>
