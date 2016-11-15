@@ -71,3 +71,73 @@ Children of `SCONJ` nodes are attached using 8 different relations: [gl-dep/punc
 
 Children of `SCONJ` nodes belong to 10 different parts of speech: [PUNCT]() (84; 36% instances), [ADV]() (60; 26% instances), [NOUN]() (56; 24% instances), [VERB]() (10; 4% instances), [ADJ]() (8; 3% instances), [ADP]() (6; 3% instances), [DET]() (6; 3% instances), [PRON]() (2; 1% instances), [CONJ]() (1; 0% instances), [NUM]() (1; 0% instances)
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+There are 21 `SCONJ` lemmas (1%), 21 `SCONJ` types (0%) and 563 `SCONJ` tokens (2%).
+Out of 15 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 11 in number of tokens.
+
+The 10 most frequent `SCONJ` lemmas: <em>que, pero, como, se, porque, aínda_que, mais, senón, pois, coma</em>
+
+The 10 most frequent `SCONJ` types:  <em>que, pero, como, se, porque, aínda_que, mais, senón, pois, coma</em>
+
+The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 489, [SCONJ]() 303, [DET]() 6), <em>como</em> ([ADV]() 90, [SCONJ]() 48), <em>se</em> ([PRON]() 233, [SCONJ]() 41), <em>mais</em> ([SCONJ]() 14, [ADV]() 3), <em>pois</em> ([SCONJ]() 11, [ADV]() 4)
+
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 489, [SCONJ]() 303, [DET]() 6), <em>como</em> ([ADV]() 89, [SCONJ]() 48), <em>se</em> ([PRON]() 233, [SCONJ]() 41), <em>mais</em> ([SCONJ]() 14, [ADV]() 3), <em>pois</em> ([SCONJ]() 11, [ADV]() 4)
+
+
+* <em>que</em>
+  * [PRON]() 489: <em>discutir <b>que</b> é un clásico .</em>
+  * [SCONJ]() 303: <em>en_concreto , <b>que</b> Galiza posúe mundos propios factíbeis de contar .</em>
+  * [DET]() 6: <em>con <b>que</b> obxectivo nace o Sindicato_de_Xornalistas_de_Galicia ?</em>
+* <em>como</em>
+  * [ADV]() 89: <em><b>como</b> chegou vostede a interesar se por esta arte ?</em>
+  * [SCONJ]() 48: <em>e <b>como</b> o falar non ten cancela , engade :</em>
+* <em>se</em>
+  * [PRON]() 233: <em>é mais , a nivel galego tamén <b>se</b> segue esa liña .</em>
+  * [SCONJ]() 41: <em><b>se</b> cando a paso a a guitarra , esa obra perde non a fago .</em>
+* <em>mais</em>
+  * [SCONJ]() 14: <em><b>mais</b> vostede non entrou .</em>
+  * [ADV]() 3: <em>é <b>mais</b> , a nivel galego tamén se segue esa liña .</em>
+* <em>pois</em>
+  * [SCONJ]() 11: <em>en outros instrumentos a evolución fai se con máis suavidade , <b>pois</b> teñen obras que , aínda sendo tecnicamente fáciles , resultan bonitas .</em>
+  * [ADV]() 4: <em>e un paisano , desde o mostrador di : " <b>pois</b> si , ho ... " e outra pausa longa .</em>
+
+## Morphology
+
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.374140).
+
+The 1st highest number of forms (1) was observed with the lemma “así_como”: <em>así_como</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “aínda_que”: <em>aínda_que</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “ben_que”: <em>ben_que</em>.
+
+`SCONJ` occurs with 3 features: [gl-feat/Gender]() (2; 0% instances), [gl-feat/Number]() (2; 0% instances), [gl-feat/PronType]() (2; 0% instances)
+
+`SCONJ` occurs with 3 feature-value pairs: `Gender=Com`, `Number=Dual`, `PronType=Rel`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (561 tokens).
+Examples: <em>que, pero, como, se, porque, aínda_que, mais, senón, pois, coma</em>
+
+
+## Relations
+
+`SCONJ` nodes are attached to their parents using 5 different relations: [gl-dep/mark]() (448; 80% instances), [gl-dep/cc]() (75; 13% instances), [gl-dep/case]() (36; 6% instances), [gl-dep/advmod]() (3; 1% instances), [gl-dep/mwe]() (1; 0% instances)
+
+Parents of `SCONJ` nodes belong to 6 different parts of speech: [VERB]() (409; 73% instances), [NOUN]() (70; 12% instances), [ADJ]() (39; 7% instances), [PRON]() (17; 3% instances), [PROPN]() (16; 3% instances), [ADV]() (12; 2% instances)
+
+560 (99%) `SCONJ` nodes are leaves.
+
+3 (1%) `SCONJ` nodes have one child.
+
+The highest child degree of a `SCONJ` node is 1.
+
+Children of `SCONJ` nodes are attached using 2 different relations: [gl-dep/punct]() (2; 67% instances), [gl-dep/advmod]() (1; 33% instances)
+
+Children of `SCONJ` nodes belong to 2 different parts of speech: [PUNCT]() (2; 67% instances), [ADV]() (1; 33% instances)
+

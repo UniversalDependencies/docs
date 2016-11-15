@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3571 nodes (1%) are attached to their parents as `xcomp`.
+3514 nodes (1%) are attached to their parents as `xcomp`.
 
-3560 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41332959955195.
+3503 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.41035856573705.
 
-The following 25 pairs of parts of speech are connected with `xcomp`: [en-pos/VERB]()-[en-pos/VERB]() (2341; 66% instances), [en-pos/VERB]()-[en-pos/ADJ]() (655; 18% instances), [en-pos/ADJ]()-[en-pos/VERB]() (235; 7% instances), [en-pos/VERB]()-[en-pos/NOUN]() (187; 5% instances), [en-pos/VERB]()-[en-pos/PROPN]() (66; 2% instances), [en-pos/VERB]()-[en-pos/ADV]() (24; 1% instances), [en-pos/VERB]()-[en-pos/PART]() (13; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (9; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (7; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (5; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (5; 0% instances), [en-pos/ADJ]()-[en-pos/PART]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (3; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (2; 0% instances), [en-pos/AUX]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/X]() (1; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (1; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (1; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `xcomp`: [en-pos/VERB]()-[en-pos/VERB]() (2305; 66% instances), [en-pos/VERB]()-[en-pos/ADJ]() (641; 18% instances), [en-pos/ADJ]()-[en-pos/VERB]() (234; 7% instances), [en-pos/VERB]()-[en-pos/NOUN]() (182; 5% instances), [en-pos/VERB]()-[en-pos/PROPN]() (65; 2% instances), [en-pos/VERB]()-[en-pos/ADV]() (24; 1% instances), [en-pos/VERB]()-[en-pos/PART]() (13; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (9; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (8; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (5; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (5; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/PART]() (3; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (3; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (2; 0% instances), [en-pos/AUX]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/X]() (1; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (1; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (1; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,24 +39,17 @@ The following 25 pairs of parts of speech are connected with `xcomp`: [en-pos/VE
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 8 xcomp	color:blue
-1	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	going	go	VERB	VBG	VerbForm=Ger	0	root	_	_
-4	out	out	ADV	RB	_	3	advmod	_	_
-5	tonight	tonight	NOUN	NN	Number=Sing	3	nmod:tmod	_	_
-6	to	to	PART	TO	_	8	mark	_	_
-7	get	get	VERB	VB	VerbForm=Inf	8	aux	_	_
-8	wasted	wasted	ADJ	JJ	Degree=Pos	3	xcomp	_	_
-9	if	if	SCONJ	IN	_	12	mark	_	_
-10	anyone	anyone	NOUN	NN	Number=Sing	12	nsubj	_	_
-11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
-12	interested	interested	ADJ	JJ	Degree=Pos	3	advcl	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 xcomp	color:blue
+1	These	these	PRON	DT	Number=Plur|PronType=Dem	2	nsubj	_	_
+2	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	fine	fine	ADJ	JJ	Degree=Pos	2	xcomp	_	_
+4	to	to	ADP	IN	_	5	case	_	_
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -94,7 +87,7 @@ This relation is universal.
 2310 instances of `xcomp` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.1739318083729.
 
-The following 22 pairs of parts of speech are connected with `xcomp`: [en-pos/VERB]()-[en-pos/VERB]() (1727; 75% instances), [en-pos/VERB]()-[en-pos/ADJ]() (313; 14% instances), [en-pos/ADJ]()-[en-pos/VERB]() (153; 7% instances), [en-pos/VERB]()-[en-pos/NOUN]() (56; 2% instances), [en-pos/NOUN]()-[en-pos/VERB]() (13; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (11; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (8; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (3; 0% instances), [en-pos/VERB]()-[en-pos/PART]() (3; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (2; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (2; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (1; 0% instances), [en-pos/VERB]()-[en-pos/INTJ]() (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `xcomp`: [en-pos/VERB]()-[en-pos/VERB]() (1727; 75% instances), [en-pos/VERB]()-[en-pos/ADJ]() (313; 14% instances), [en-pos/ADJ]()-[en-pos/VERB]() (153; 7% instances), [en-pos/VERB]()-[en-pos/NOUN]() (55; 2% instances), [en-pos/NOUN]()-[en-pos/VERB]() (13; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (11; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (8; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (3; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (3; 0% instances), [en-pos/VERB]()-[en-pos/PART]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/INTJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -117,7 +110,7 @@ The following 22 pairs of parts of speech are connected with `xcomp`: [en-pos/VE
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~

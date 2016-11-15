@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  <em>ja, ning, aga, või, kuid, kui, ega, vai
 
 The 10 most frequent ambiguous lemmas: <em>aga</em> ([CONJ]() 697, [ADV]() 277), <em>või</em> ([CONJ]() 626, [ADV]() 42, [NOUN]() 4, [AUX]() 3), <em>kui</em> ([SCONJ]() 1504, [CONJ]() 144, [ADV]() 124), <em>ega</em> ([CONJ]() 139, [ADV]() 58), <em>vaid</em> ([ADV]() 218, [CONJ]() 121), <em>ehk</em> ([CONJ]() 104, [ADV]() 50), <em>kuni</em> ([ADV]() 43, [SCONJ]() 36, [CONJ]() 27, [ADP]() 22)
 
-The 10 most frequent ambiguous types:  <em>aga</em> ([CONJ]() 477, [ADV]() 277), <em>või</em> ([CONJ]() 575, [ADV]() 42, [AUX]() 6, [NOUN]() 2, [VERB]() 2), <em>kuid</em> ([CONJ]() 279, [NOUN]() 3), <em>kui</em> ([SCONJ]() 1080, [CONJ]() 144, [ADV]() 99), <em>ega</em> ([CONJ]() 137, [ADV]() 30), <em>vaid</em> ([ADV]() 203, [CONJ]() 118), <em>ehk</em> ([CONJ]() 99, [ADV]() 44), <em>kuni</em> ([ADV]() 42, [SCONJ]() 31, [CONJ]() 27, [ADP]() 18)
+The 10 most frequent ambiguous types:  <em>aga</em> ([CONJ]() 477, [ADV]() 277), <em>või</em> ([CONJ]() 575, [ADV]() 42, [AUX]() 6, [VERB]() 2, [NOUN]() 2), <em>kuid</em> ([CONJ]() 279, [NOUN]() 3), <em>kui</em> ([SCONJ]() 1080, [CONJ]() 144, [ADV]() 99), <em>ega</em> ([CONJ]() 137, [ADV]() 30), <em>vaid</em> ([ADV]() 203, [CONJ]() 118), <em>ehk</em> ([CONJ]() 99, [ADV]() 44), <em>kuni</em> ([ADV]() 42, [SCONJ]() 31, [CONJ]() 27, [ADP]() 18)
 
 
 * <em>aga</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>aga</em> ([CONJ]() 477, [ADV]() 277),
   * [CONJ]() 575: <em>Ta ei osanud lukke muukida <b>või</b> uksi lõhkuda .</em>
   * [ADV]() 42: <em>" Jah , <b>või</b> tõde sulle veel tarvis ! " pilkas Ott .</em>
   * [AUX]() 6: <em>Pigem Tartusse , aga loomulikult ei <b>või</b> üdini kindel olla .</em>
-  * [NOUN]() 2: <em>Või <b>või</b> saiale .</em>
   * [VERB]() 2: <em>Mis Eesti olusid arvestades võivad või ei <b>või</b> sattuda tööandja ja/või kindlustusfirmade kätte .</em>
+  * [NOUN]() 2: <em>Või <b>või</b> saiale .</em>
 * <em>kuid</em>
   * [CONJ]() 279: <em>Pakun esimest mahvi kaaslasele , <b>kuid</b> ta keeldub .</em>
   * [NOUN]() 3: <em>Menetlus võtab aega nädalaid , suurte kehade puhul <b>kuid</b> .</em>

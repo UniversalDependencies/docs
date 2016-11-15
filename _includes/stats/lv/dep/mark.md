@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-339 nodes (2%) are attached to their parents as `mark`.
+362 nodes (2%) are attached to their parents as `mark`.
 
-339 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.87315634218289.
+362 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.83149171270718.
 
-The following 8 pairs of parts of speech are connected with `mark`: [lv-pos/VERB]()-[lv-pos/SCONJ]() (252; 74% instances), [lv-pos/NOUN]()-[lv-pos/SCONJ]() (55; 16% instances), [lv-pos/ADJ]()-[lv-pos/SCONJ]() (21; 6% instances), [lv-pos/ADV]()-[lv-pos/SCONJ]() (4; 1% instances), [lv-pos/VERB]()-[lv-pos/CONJ]() (3; 1% instances), [lv-pos/PROPN]()-[lv-pos/SCONJ]() (2; 1% instances), [lv-pos/NOUN]()-[lv-pos/CONJ]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/PUNCT]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark`: [lv-pos/VERB]()-[lv-pos/SCONJ]() (258; 71% instances), [lv-pos/NOUN]()-[lv-pos/SCONJ]() (61; 17% instances), [lv-pos/ADJ]()-[lv-pos/SCONJ]() (21; 6% instances), [lv-pos/VERB]()-[lv-pos/PART]() (10; 3% instances), [lv-pos/ADV]()-[lv-pos/SCONJ]() (4; 1% instances), [lv-pos/VERB]()-[lv-pos/CONJ]() (3; 1% instances), [lv-pos/NOUN]()-[lv-pos/CONJ]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/PUNCT]() (1; 0% instances), [lv-pos/PROPN]()-[lv-pos/PART]() (1; 0% instances), [lv-pos/PROPN]()-[lv-pos/SCONJ]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -105,7 +105,7 @@ The 10 most frequent `ADV` types:  <em>så, ut, där, upp, in, bara, här, hur, 
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14002, [VERB]() 11274, [ADP]() 8898, [PUNCT]() 8656, [PRON]() 8194, [ADV]() 6016, [ADJ]() 5522, [DET]() 4283, [CONJ]() 3016, [PROPN]() 2703, [SCONJ]() 2587, [AUX]() 2238, [PART]() 1778, [NUM]() 440, [INTJ]() 179, [X]() 17, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>så</em> ([ADV]() 278, [CONJ]() 16, [ADJ]() 7, [SCONJ]() 7), <em>in</em> ([ADV]() 138, [ADP]() 29), <em>bara</em> ([ADV]() 129, [ADJ]() 2, [CONJ]() 2), <em>mycket</em> ([ADV]() 104, [PRON]() 14, [ADJ]() 8), <em>till</em> ([ADP]() 708, [ADV]() 97), <em>fram</em> ([ADV]() 99, [ADP]() 1), <em>då</em> ([ADV]() 64, [SCONJ]() 21), <em>i</em> ([ADP]() 1576, [ADV]() 48), <em>sedan</em> ([ADV]() 31, [ADP]() 19, [SCONJ]() 11), <em>för</em> ([ADP]() 791, [ADV]() 36, [CONJ]() 15, [VERB]() 6, [NOUN]() 2, [SCONJ]() 2)
+The 10 most frequent ambiguous types:  <em>så</em> ([ADV]() 278, [CONJ]() 16, [ADJ]() 7, [SCONJ]() 7), <em>in</em> ([ADV]() 138, [ADP]() 29), <em>bara</em> ([ADV]() 129, [CONJ]() 2, [ADJ]() 2), <em>mycket</em> ([ADV]() 104, [PRON]() 14, [ADJ]() 8), <em>till</em> ([ADP]() 708, [ADV]() 97), <em>fram</em> ([ADV]() 99, [ADP]() 1), <em>då</em> ([ADV]() 64, [SCONJ]() 21), <em>i</em> ([ADP]() 1576, [ADV]() 48), <em>sedan</em> ([ADV]() 31, [ADP]() 19, [SCONJ]() 11), <em>för</em> ([ADP]() 791, [ADV]() 36, [CONJ]() 15, [VERB]() 6, [NOUN]() 2, [SCONJ]() 2)
 
 
 * <em>så</em>
@@ -118,8 +118,8 @@ The 10 most frequent ambiguous types:  <em>så</em> ([ADV]() 278, [CONJ]() 16, [
   * [ADP]() 29: <em>" När du kliver <b>in</b> i elden , så säg vart du ska "</em>
 * <em>bara</em>
   * [ADV]() 129: <em>Han <b>bara</b> låtsades vara det .</em>
-  * [ADJ]() 2: <em>männen som rörde sig under planets buk hade <b>bara</b> , svarta fötter .</em>
   * [CONJ]() 2: <em>Ni måste ta större hänsyn till inte <b>bara</b> hela frågan om , inte endast givandet av bistånd , utan också en rättvis handel .</em>
+  * [ADJ]() 2: <em>männen som rörde sig under planets buk hade <b>bara</b> , svarta fötter .</em>
 * <em>mycket</em>
   * [ADV]() 104: <em>För Quinn var det <b>mycket</b> svårt att röra sig på det sättet .</em>
   * [PRON]() 14: <em>Det är inte <b>mycket</b> att berätta om vår vandring .</em>
@@ -176,4 +176,52 @@ The highest child degree of a `ADV` node is 8.
 Children of `ADV` nodes are attached using 29 different relations: [sv-dep/advmod]() (379; 29% instances), [sv-dep/mwe]() (167; 13% instances), [sv-dep/punct]() (165; 13% instances), [sv-dep/nmod]() (95; 7% instances), [sv-dep/cc]() (82; 6% instances), [sv-dep/conj]() (77; 6% instances), [sv-dep/case]() (71; 5% instances), [sv-dep/neg]() (62; 5% instances), [sv-dep/acl]() (49; 4% instances), [sv-dep/nsubj]() (35; 3% instances), [sv-dep/aux]() (27; 2% instances), [sv-dep/amod]() (14; 1% instances), [sv-dep/advcl]() (13; 1% instances), [sv-dep/cop]() (12; 1% instances), [sv-dep/mark]() (10; 1% instances), [sv-dep/csubj]() (6; 0% instances), [sv-dep/det]() (6; 0% instances), [sv-dep/discourse]() (6; 0% instances), [sv-dep/appos]() (5; 0% instances), [sv-dep/expl]() (5; 0% instances), [sv-dep/parataxis]() (5; 0% instances), [sv-dep/vocative]() (4; 0% instances), [sv-dep/acl:relcl]() (3; 0% instances), [sv-dep/dobj]() (2; 0% instances), [sv-dep/nsubjpass]() (2; 0% instances), [sv-dep/nummod]() (2; 0% instances), [sv-dep/ccomp]() (1; 0% instances), [sv-dep/compound:prt]() (1; 0% instances), [sv-dep/nmod:poss]() (1; 0% instances)
 
 Children of `ADV` nodes belong to 15 different parts of speech: [ADV]() (472; 36% instances), [NOUN]() (181; 14% instances), [PUNCT]() (165; 13% instances), [VERB]() (103; 8% instances), [ADP]() (92; 7% instances), [CONJ]() (92; 7% instances), [PART]() (65; 5% instances), [PRON]() (45; 3% instances), [AUX]() (31; 2% instances), [ADJ]() (22; 2% instances), [PROPN]() (15; 1% instances), [DET]() (8; 1% instances), [SCONJ]() (8; 1% instances), [INTJ]() (6; 0% instances), [NUM]() (2; 0% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Swedish_Sign_Language)
+
+There are 1 `ADV` lemmas (9%), 23 `ADV` types (7%) and 35 `ADV` tokens (5%).
+Out of 11 observed tags, the rank of `ADV` is: 3 in number of lemmas, 4 in number of types and 5 in number of tokens.
+
+The 10 most frequent `ADV` lemmas: <em>_</em>
+
+The 10 most frequent `ADV` types:  <em>VAR, SEDAN, BORTA, FASTNA, KANSKE, NÄR, DÄR, DÅ@b, FÖR, HEMMA@z</em>
+
+The 10 most frequent ambiguous lemmas: <em>_</em> ([VERB]() 318, [NOUN]() 149, [X]() 59, [PRON]() 45, [ADV]() 35, [DET]() 19, [INTJ]() 14, [ADJ]() 14, [NUM]() 8, [ADP]() 8, [CONJ]() 3)
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `ADV` is 23.000000 (the average of all parts of speech is 29.545455).
+
+The 1st highest number of forms (23) was observed with the lemma “_”: <em>BORTA, DÄR, DÅ@b, FASTNA, FÖR, HEMMA@z, KANSKE, LITE, NU@b, NÄR, OMÖJLIG, PI, PY, PY@z, SAMTIDIG, SEDAN, SEN, SÅDÄR, TID-FRAMÅT, VAR, VARFÖR, ÅR-FRAMTID+EN, ÅR-FRAMTID+TVÅ</em>.
+
+`ADV` does not occur with any features.
+
+
+## Relations
+
+`ADV` nodes are attached to their parents using 9 different relations: [sv-dep/advmod]() (15; 43% instances), [sv-dep/conj]() (8; 23% instances), [sv-dep/ccomp]() (3; 9% instances), [sv-dep/acl]() (2; 6% instances), [sv-dep/amod]() (2; 6% instances), [sv-dep/mark]() (2; 6% instances), [sv-dep/advcl]() (1; 3% instances), [sv-dep/aux]() (1; 3% instances), [sv-dep/root]() (1; 3% instances)
+
+Parents of `ADV` nodes belong to 6 different parts of speech: [VERB]() (25; 71% instances), [ADV]() (3; 9% instances), [NOUN]() (3; 9% instances), [ADJ]() (2; 6% instances), [ROOT]() (1; 3% instances), [X]() (1; 3% instances)
+
+29 (83%) `ADV` nodes are leaves.
+
+3 (9%) `ADV` nodes have one child.
+
+2 (6%) `ADV` nodes have two children.
+
+1 (3%) `ADV` nodes have three or more children.
+
+The highest child degree of a `ADV` node is 3.
+
+Children of `ADV` nodes are attached using 3 different relations: [sv-dep/conj]() (5; 50% instances), [sv-dep/nsubj]() (4; 40% instances), [sv-dep/aux]() (1; 10% instances)
+
+Children of `ADV` nodes belong to 4 different parts of speech: [ADV]() (3; 30% instances), [NOUN]() (3; 30% instances), [VERB]() (3; 30% instances), [PRON]() (1; 10% instances)
 

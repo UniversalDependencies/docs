@@ -39,7 +39,7 @@ The feature is used with 2 part-of-speech tags: [es-pos/PUNCT]() (65415; 12% ins
 
 4 [es-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `PunctType`.
 
-The most frequent other feature values with which `SYM` and `PunctType` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (4; 100%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `SYM` and `PunctType` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (4; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (4; 100%).
 
 `SYM` tokens may have the following values of `PunctType`:
 

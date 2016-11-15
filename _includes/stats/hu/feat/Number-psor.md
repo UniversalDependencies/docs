@@ -58,9 +58,9 @@ The most frequent other feature values with which `PROPN` and `Number[psor]` co-
 
 
 <table>
-  <tr><th>Paradigm <i>Híradó</i></th><th><tt>None</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td><em>Híradóját</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number[psor].html">Number[psor]</a>=None|<a href="Person[psor].html">Person[psor]</a>=None</tt></td><td><em>Híradó</em></td><td></td></tr>
+  <tr><th>Paradigm <i>Stúdió</i></th><th><tt>None</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td><em>Stúdiójának</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number[psor].html">Number[psor]</a>=None|<a href="Person[psor].html">Person[psor]</a>=None</tt></td><td><em>Stúdió</em></td><td></td></tr>
 </table>
 
 `Number[psor]` seems to be **lexical feature** of `PROPN`. 100% lemmas (972) occur only with one value of `Number[psor]`.

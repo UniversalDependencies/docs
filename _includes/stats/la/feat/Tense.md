@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 1 [la-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Tense`:
 
@@ -121,7 +121,7 @@ The feature is used with 3 part-of-speech tags: [la-pos/VERB]() (50690; 17% inst
 
 50690 [la-pos/VERB]() tokens (97% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (42229; 83%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (41766; 82%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (41654; 82%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (41654; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (35637; 70%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (35572; 70%), <tt><a href="Voice.html">Voice</a>=Act</tt> (35527; 70%), <tt><a href="Person.html">Person</a>=3</tt> (34562; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (29318; 58%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (42229; 83%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (41766; 82%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (41654; 82%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (41654; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (35637; 70%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (35572; 70%), <tt><a href="Voice.html">Voice</a>=Act</tt> (35527; 70%), <tt><a href="Person.html">Person</a>=3</tt> (34562; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (29318; 58%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -205,7 +205,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 1 [la-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `NUM` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Tense` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Tense`:
 

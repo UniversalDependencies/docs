@@ -54,7 +54,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 3983 [nl-pos/ADV]() tokens (28% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (3983; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (3983; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (3983; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (3983; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -108,7 +108,7 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (7; 58%),
 <tt>PRON --[<a href="../dep/det:nummod.html">det:nummod</a>]--> DET</tt> (7; 88%),
 <tt>DET --[<a href="../dep/det.html">det</a>]--> DET</tt> (4; 67%),
-<tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (3; 100%).
+<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 75%).
 
 
 

@@ -4,14 +4,14 @@
 
 ## Treebank Statistics (UD_Persian)
 
-There are 1 `AUX` lemmas (3%), 36 `AUX` types (0%) and 742 `AUX` tokens (0%).
-Out of 15 observed tags, the rank of `AUX` is: 10 in number of lemmas, 10 in number of types and 13 in number of tokens.
+There are 7 `AUX` lemmas (0%), 36 `AUX` types (0%) and 742 `AUX` tokens (0%).
+Out of 15 observed tags, the rank of `AUX` is: 14 in number of lemmas, 10 in number of types and 13 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: _
+The 10 most frequent `AUX` lemmas: بایست#باید، خواست#خواه، توان، داشت#دار، _، توانست#توان، کرد#کن
 
 The 10 most frequent `AUX` types:  باید، خواهد، می‌توان، خواهند، نباید، نخواهد، نمی‌توان، بایستی، دارد، داریم
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 57224, [VERB]() 16929, [ADJ]() 13490, [PUNCT]() 13442, [ADP]() 11406, [PRON]() 5792, [ADV]() 4099, [DET]() 3558, [NUM]() 3409, [SCONJ]() 2428, [CONJ]() 2098, [AUX]() 742, [PART]() 490, [X]() 245, [INTJ]() 69)
+The 10 most frequent ambiguous lemmas: خواست#خواه ([AUX]() 271, [VERB]() 192), توان ([AUX]() 84, [NOUN]() 10), داشت#دار ([VERB]() 1143, [AUX]() 36), _ ([NOUN]() 4861, [VERB]() 1473, [ADJ]() 1371, [ADV]() 194, [NUM]() 152, [X]() 92, [PUNCT]() 90, [PRON]() 35, [ADP]() 32, [INTJ]() 19, [AUX]() 13, [SCONJ]() 12, [CONJ]() 5, [DET]() 4), توانست#توان ([VERB]() 219, [AUX]() 12), کرد#کن ([VERB]() 4421, [ADJ]() 6, [AUX]() 2)
 
 The 10 most frequent ambiguous types:  دارد ([VERB]() 337, [AUX]() 12), داریم ([VERB]() 22, [AUX]() 9), دارند ([VERB]() 158, [AUX]() 8), دارم ([VERB]() 30, [AUX]() 5), نتوانند ([AUX]() 4, [VERB]() 1), داری ([VERB]() 7, [AUX]() 1), داشت ([VERB]() 164, [AUX]() 1), می‌توانی ([AUX]() 1, [VERB]() 1), می‌شود ([VERB]() 405, [AUX]() 1), نمی‌شود ([VERB]() 35, [AUX]() 1)
 
@@ -49,9 +49,13 @@ The 10 most frequent ambiguous types:  دارد ([VERB]() 337, [AUX]() 12), دا
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 36.000000 (the average of all parts of speech is 412.051282).
+The form / lemma ratio of `AUX` is 5.142857 (the average of all parts of speech is 1.914149).
 
-The 1st highest number of forms (36) was observed with the lemma “_”: باید, بایستی, بباید, بتوان, خواهد, خواهم, خواهند, خواهی, خواهید, خواهیم, دارد, دارم, دارن, دارند, داره, داری, داریم, داشت, می‌باید, می‌بایست, می‌توان, می‌توانی, می‌شود, نباید, نبایستی, نتوان, نتوانند, نخواهد, نخواهم, نخواهند, نخواهی, نخواهیم, نمی‌باید, نمی‌بایست, نمی‌توان, نمی‌شود.
+The 1st highest number of forms (11) was observed with the lemma “خواست#خواه”: خواهد, خواهم, خواهند, خواهی, خواهید, خواهیم, نخواهد, نخواهم, نخواهند, نخواهی, نخواهیم.
+
+The 2nd highest number of forms (8) was observed with the lemma “_”: بایستی, دارن, داره, می‌باید, نبایستی, نخواهند, نمی‌باید, نمی‌بایست.
+
+The 3rd highest number of forms (6) was observed with the lemma “بایست#باید”: باید, بایستی, بباید, می‌باید, می‌بایست, نباید.
 
 `AUX` occurs with 6 features: [fa-feat/VerbForm]() (651; 88% instances), [fa-feat/Number]() (316; 43% instances), [fa-feat/Person]() (316; 43% instances), [fa-feat/Tense]() (316; 43% instances), [fa-feat/Negative]() (66; 9% instances), [fa-feat/Mood]() (4; 1% instances)
 
@@ -66,7 +70,7 @@ Examples: باید، نباید، بایستی، می‌باید، می‌بای
 
 `AUX` nodes are attached to their parents using 4 different relations: [fa-dep/aux]() (736; 99% instances), [fa-dep/conj]() (3; 0% instances), [fa-dep/acl:relcl]() (2; 0% instances), [fa-dep/ccomp]() (1; 0% instances)
 
-Parents of `AUX` nodes belong to 5 different parts of speech: [VERB]() (647; 87% instances), [ADJ]() (45; 6% instances), [NOUN]() (45; 6% instances), [ADV]() (4; 1% instances), [PRON]() (1; 0% instances)
+Parents of `AUX` nodes belong to 5 different parts of speech: [VERB]() (648; 87% instances), [ADJ]() (45; 6% instances), [NOUN]() (44; 6% instances), [ADV]() (4; 1% instances), [PRON]() (1; 0% instances)
 
 738 (99%) `AUX` nodes are leaves.
 

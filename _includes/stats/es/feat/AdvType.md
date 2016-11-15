@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [es-pos/NOUN]() (1887; 0% instan
 
 1887 [es-pos/NOUN]() tokens (2% of all `NOUN` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `NOUN` and `AdvType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1886; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1886; 100%).
+The most frequent other feature values with which `NOUN` and `AdvType` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1886; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1886; 100%).
 
 `NOUN` tokens may have the following values of `AdvType`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `NOUN` and `AdvType` co-occurr
 
 13 [es-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADJ` and `AdvType` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (13; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (13; 100%).
+The most frequent other feature values with which `ADJ` and `AdvType` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (13; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (13; 100%).
 
 `ADJ` tokens may have the following values of `AdvType`:
 

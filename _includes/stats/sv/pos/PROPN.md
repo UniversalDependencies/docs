@@ -11,9 +11,9 @@ The 10 most frequent `PROPN` lemmas: <em>Sverige, EEC, Stockholm, Gud, USA, ATP,
 
 The 10 most frequent `PROPN` types:  <em>Sverige, EEC, Stockholm, USA, ATP, Sveriges, EEC:s, Gud, Göteborg, Horn</em>
 
-The 10 most frequent ambiguous lemmas: <em>Björn</em> ([PROPN]() 6, [NOUN]() 1), <em>DDT</em> ([PROPN]() 2, [NOUN]() 1), <em>de</em> ([PRON]() 508, [DET]() 90, [PROPN]() 2), <em>s</em> ([NOUN]() 2, [PROPN]() 1), <em>vi</em> ([PRON]() 413, [DET]() 139, [PROPN]() 2, [NOUN]() 1), <em>väckarklocka</em> ([NOUN]() 2, [PROPN]() 2), <em>Children</em> ([NOUN]() 1, [PROPN]() 1), <em>SKB</em> ([NOUN]() 1, [PROPN]() 1), <em>backa</em> ([VERB]() 1, [PROPN]() 1), <em>forum</em> ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>Björn</em> ([PROPN]() 6, [NOUN]() 1), <em>DDT</em> ([PROPN]() 2, [NOUN]() 1), <em>de</em> ([PRON]() 508, [DET]() 90, [PROPN]() 2), <em>s</em> ([NOUN]() 2, [PROPN]() 1), <em>vi</em> ([PRON]() 413, [DET]() 139, [PROPN]() 2, [NOUN]() 1), <em>väckarklocka</em> ([PROPN]() 2, [NOUN]() 2), <em>Children</em> ([PROPN]() 1, [NOUN]() 1), <em>SKB</em> ([PROPN]() 1, [NOUN]() 1), <em>backa</em> ([PROPN]() 1, [VERB]() 1), <em>forum</em> ([NOUN]() 1, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>Björn</em> ([PROPN]() 6, [NOUN]() 1), <em>DDT</em> ([PROPN]() 2, [NOUN]() 1), <em>Vi</em> ([PRON]() 80, [PROPN]() 2), <em>de</em> ([DET]() 512, [PRON]() 292, [PROPN]() 2), <em>s</em> ([NOUN]() 2, [PROPN]() 1), <em>Children</em> ([NOUN]() 1, [PROPN]() 1), <em>Handelsbanken</em> ([NOUN]() 1, [PROPN]() 1), <em>I</em> ([ADP]() 266, [PROPN]() 1, [NOUN]() 1, [ADJ]() 1, [NUM]() 1), <em>SKB</em> ([NOUN]() 1, [PROPN]() 1), <em>Ännu</em> ([ADV]() 5, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>Björn</em> ([PROPN]() 6, [NOUN]() 1), <em>DDT</em> ([PROPN]() 2, [NOUN]() 1), <em>Vi</em> ([PRON]() 80, [PROPN]() 2), <em>de</em> ([DET]() 512, [PRON]() 292, [PROPN]() 2), <em>s</em> ([NOUN]() 2, [PROPN]() 1), <em>Children</em> ([NOUN]() 1, [PROPN]() 1), <em>Handelsbanken</em> ([NOUN]() 1, [PROPN]() 1), <em>I</em> ([ADP]() 266, [NOUN]() 1, [ADJ]() 1, [PROPN]() 1, [NUM]() 1), <em>SKB</em> ([PROPN]() 1, [NOUN]() 1), <em>Ännu</em> ([ADV]() 5, [PROPN]() 1)
 
 
 * <em>Björn</em>
@@ -40,13 +40,13 @@ The 10 most frequent ambiguous types:  <em>Björn</em> ([PROPN]() 6, [NOUN]() 1)
   * [PROPN]() 1: <em>Kvinnornas frånvaro har enligt <b>Handelsbanken</b> minskat under 60-talet , särskilt i Stockholm .</em>
 * <em>I</em>
   * [ADP]() 266: <em><b>I</b> och med att kvinnan axlar mer krävande uppgifter får hon högre lön .</em>
-  * [PROPN]() 1: <em>De nationalitetsbeteckningar som bör användas i förbindelse med postnummer till utlandet är följande : Belgien B Danmark DK Finland SF Frankrike F Italien <b>I</b> Liechtenstein FL Norge N Schweiz CH Västtyskland D Österrike A</em>
   * [NOUN]() 1: <em>På <b>I</b> 12 i Eksjö tog en kompanichef för ett pansarvärnskompani saken i egna händer .</em>
   * [ADJ]() 1: <em>1 <b>I</b> Kor. 7:2 .</em>
+  * [PROPN]() 1: <em>De nationalitetsbeteckningar som bör användas i förbindelse med postnummer till utlandet är följande : Belgien B Danmark DK Finland SF Frankrike F Italien <b>I</b> Liechtenstein FL Norge N Schweiz CH Västtyskland D Österrike A</em>
   * [NUM]() 1: <em>De åldersgrupper , som lekcirkeln i första hand är tänkt för är - förutom babybarnen - småbarn ( 1-3 år ) , förskolebarn ( 4-6 år ) , skolbarn <b>I</b> ( 7-9 år ) och skolbarn II ( 10-12 år ) .</em>
 * <em>SKB</em>
-  * [NOUN]() 1: <em>1 <b>SKB</b> , sid. 240 .</em>
   * [PROPN]() 1: <em>2 <b>SKB</b> , s. 421 .</em>
+  * [NOUN]() 1: <em>1 <b>SKB</b> , sid. 240 .</em>
 * <em>Ännu</em>
   * [ADV]() 5: <em><b>Ännu</b> har vi tid att ändra den väg vi är inne på .</em>
   * [PROPN]() 1: <em><b>Ännu</b> återstår den s_k C14-undersökningen , genom vilken man definitivt skall datera fynden , men redan nu är man på riksantikvarieämbetet på det klara med att man gjort ett strålande kap .</em>
@@ -105,7 +105,7 @@ The 10 most frequent `PROPN` types:  <em>Harry, Quinn, Stillman, Bray, Auster, A
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14002, [VERB]() 11274, [ADP]() 8898, [PUNCT]() 8656, [PRON]() 8194, [ADV]() 6016, [ADJ]() 5522, [DET]() 4283, [CONJ]() 3016, [PROPN]() 2703, [SCONJ]() 2587, [AUX]() 2238, [PART]() 1778, [NUM]() 440, [INTJ]() 179, [X]() 17, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>Andra</em> ([PROPN]() 5, [ADJ]() 3, [PRON]() 1), <em>Förenta</em> ([PROPN]() 3, [VERB]() 1), <em>SA</em> ([PROPN]() 3, [X]() 2), <em>A</em> ([PROPN]() 2, [NOUN]() 1), <em>Kategori</em> ([NOUN]() 3, [PROPN]() 2), <em>van</em> ([ADJ]() 6, [PROPN]() 2), <em>År</em> ([PROPN]() 2, [NOUN]() 1), <em>Åtgärdat</em> ([PROPN]() 2, [VERB]() 1), <em>C</em> ([NOUN]() 2, [PROPN]() 1), <em>Egenskaper</em> ([PROPN]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>Andra</em> ([PROPN]() 5, [ADJ]() 3, [PRON]() 1), <em>Förenta</em> ([PROPN]() 3, [VERB]() 1), <em>SA</em> ([PROPN]() 3, [X]() 2), <em>A</em> ([PROPN]() 2, [NOUN]() 1), <em>Kategori</em> ([NOUN]() 3, [PROPN]() 2), <em>van</em> ([ADJ]() 6, [PROPN]() 2), <em>År</em> ([PROPN]() 2, [NOUN]() 1), <em>Åtgärdat</em> ([PROPN]() 2, [VERB]() 1), <em>C</em> ([NOUN]() 2, [PROPN]() 1), <em>Egenskaper</em> ([NOUN]() 1, [PROPN]() 1)
 
 
 * <em>Andra</em>
@@ -137,8 +137,8 @@ The 10 most frequent ambiguous types:  <em>Andra</em> ([PROPN]() 5, [ADJ]() 3, [
   * [NOUN]() 2: <em>Den upphävda förordningen baserades på artikel 100 <b>C</b> i Maastrichtfördraget .</em>
   * [PROPN]() 1: <em>Markera linjen som du vill kopiera och tryck på CTRL - <b>C</b> .</em>
 * <em>Egenskaper</em>
-  * [PROPN]() 1: <em>I dialogrutan <b>Egenskaper</b> kan du ändra titlarna från Grupp1 till Åtgärdat och Marknadsföring 2 till Kategori .</em>
   * [NOUN]() 1: <em>Mer information om det aktuella filtret hittar du i dialogrutan <b>Egenskaper</b> .</em>
+  * [PROPN]() 1: <em>I dialogrutan <b>Egenskaper</b> kan du ändra titlarna från Grupp1 till Åtgärdat och Marknadsföring 2 till Kategori .</em>
 
 ## Morphology
 

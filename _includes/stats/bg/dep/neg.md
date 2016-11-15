@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1424 nodes (1%) are attached to their parents as `neg`.
+1422 nodes (1%) are attached to their parents as `neg`.
 
-1420 instances of `neg` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57724719101124.
+1418 instances of `neg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58579465541491.
 
-The following 15 pairs of parts of speech are connected with `neg`: [bg-pos/VERB]()-[bg-pos/INTJ]() (1180; 83% instances), [bg-pos/NOUN]()-[bg-pos/INTJ]() (75; 5% instances), [bg-pos/ADJ]()-[bg-pos/INTJ]() (65; 5% instances), [bg-pos/ADV]()-[bg-pos/INTJ]() (62; 4% instances), [bg-pos/NUM]()-[bg-pos/PART]() (10; 1% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (9; 1% instances), [bg-pos/PRON]()-[bg-pos/INTJ]() (7; 0% instances), [bg-pos/DET]()-[bg-pos/PART]() (6; 0% instances), [bg-pos/DET]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/NUM]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/PROPN]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/ADP]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/PART]() (1; 0% instances), [bg-pos/SCONJ]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `neg`: [bg-pos/VERB]()-[bg-pos/INTJ]() (1175; 83% instances), [bg-pos/NOUN]()-[bg-pos/INTJ]() (75; 5% instances), [bg-pos/ADJ]()-[bg-pos/INTJ]() (66; 5% instances), [bg-pos/ADV]()-[bg-pos/INTJ]() (62; 4% instances), [bg-pos/NUM]()-[bg-pos/PART]() (10; 1% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (9; 1% instances), [bg-pos/PRON]()-[bg-pos/INTJ]() (9; 1% instances), [bg-pos/DET]()-[bg-pos/PART]() (6; 0% instances), [bg-pos/DET]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/NUM]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/PROPN]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/ADP]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/PART]() (1; 0% instances), [bg-pos/SCONJ]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu

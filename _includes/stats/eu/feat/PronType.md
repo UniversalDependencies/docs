@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [eu-pos/PRON]() (554; 0% instanc
 
 554 [eu-pos/PRON]() tokens (71% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (554; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (554; 100%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (554; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (554; 100%).
 
 `PRON` tokens may have the following values of `PronType`:
 

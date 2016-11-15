@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: [advmod:emph]().
 
-1888 nodes (3%) are attached to their parents as `advmod`.
+1889 nodes (3%) are attached to their parents as `advmod`.
 
-1766 instances of `advmod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.61122881355932.
+1766 instances of `advmod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.61037586024351.
 
-The following 11 pairs of parts of speech are connected with `advmod`: [tr-pos/VERB]()-[tr-pos/ADV]() (1175; 62% instances), [tr-pos/ADJ]()-[tr-pos/ADV]() (325; 17% instances), [tr-pos/NOUN]()-[tr-pos/ADV]() (211; 11% instances), [tr-pos/ADV]()-[tr-pos/ADV]() (106; 6% instances), [tr-pos/CONJ]()-[tr-pos/ADV]() (19; 1% instances), [tr-pos/PRON]()-[tr-pos/ADV]() (18; 1% instances), [tr-pos/NUM]()-[tr-pos/ADV]() (11; 1% instances), [tr-pos/PROPN]()-[tr-pos/ADV]() (8; 0% instances), [tr-pos/PUNCT]()-[tr-pos/ADV]() (7; 0% instances), [tr-pos/DET]()-[tr-pos/ADV]() (5; 0% instances), [tr-pos/ADP]()-[tr-pos/ADV]() (3; 0% instances).
+The following 11 pairs of parts of speech are connected with `advmod`: [tr-pos/VERB]()-[tr-pos/ADV]() (1175; 62% instances), [tr-pos/ADJ]()-[tr-pos/ADV]() (325; 17% instances), [tr-pos/NOUN]()-[tr-pos/ADV]() (212; 11% instances), [tr-pos/ADV]()-[tr-pos/ADV]() (106; 6% instances), [tr-pos/CONJ]()-[tr-pos/ADV]() (19; 1% instances), [tr-pos/PRON]()-[tr-pos/ADV]() (18; 1% instances), [tr-pos/NUM]()-[tr-pos/ADV]() (11; 1% instances), [tr-pos/PROPN]()-[tr-pos/ADV]() (8; 0% instances), [tr-pos/PUNCT]()-[tr-pos/ADV]() (7; 0% instances), [tr-pos/DET]()-[tr-pos/ADV]() (5; 0% instances), [tr-pos/ADP]()-[tr-pos/ADV]() (3; 0% instances).
 
 
 ~~~ conllu

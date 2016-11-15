@@ -64,25 +64,36 @@ The following 5 pairs of parts of speech are connected with `det:quant`: [he-pos
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 det:quant	color:blue
-1	מחיר	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	10	nsubj	_	_
-2	חומר	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	1	nmod:smixut	_	_
-3	ה	_	DET	DET	PronType=Art	4	det:def	_	_
-4	גלם	_	NOUN	NOUN	Gender=Masc|Number=Sing	2	nmod:smixut	_	_
-5	שלו	_	PART	PART	Case=Gen	2	nmod:poss	_	_
-6	הוא_	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	dep	_	_
-7	כ	_	ADP	ADP	_	10	det	_	_
-8	שליש	_	NOUN	NOUN	Gender=Masc|Number=Sing	10	det:quant	_	_
-9	מ	_	ADP	ADP	HebSource=ConvUncertainLabel	10	case	_	_
-10	זה	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
-11	של	_	PART	PART	Case=Gen	12	case:gen	_	_
-12	עץ	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	10	nmod:poss	_	_
-13	אלון	_	NOUN	NOUN	Gender=Masc|Number=Sing	12	nmod:smixut	_	_
-14	.	_	PUNCT	PUNCT	_	10	punct	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 19 det:quant	color:blue
+1	ו	_	CONJ	CONJ	_	5	cc	_	_
+2	אילו	_	CONJ	CONJ	_	5	advmod	_	_
+3	מקורות	_	NOUN	NOUN	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	פלשתיניים	_	ADJ	ADJ	Gender=Masc|Number=Plur	3	amod	_	_
+5	גורסים	_	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=1,2,3|VerbForm=Part	0	root	_	_
+6	כי	_	SCONJ	SCONJ	_	13	mark	_	_
+7	כל	_	DET	DET	Definite=Red	9	det	_	_
+8	ה	_	DET	DET	PronType=Art	9	det:def	_	_
+9	מקרים	_	NOUN	NOUN	Gender=Masc|Number=Plur	13	nsubj:cop	_	_
+10	הם	_	VERB	VERB	Gender=Masc|Negative=Pos|Number=Plur|Person=3|VerbForm=Part|VerbType=Cop	13	cop	_	_
+11	על	_	ADP	ADP	_	13	case	_	_
+12	רקע	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	11	mwe	_	_
+13	שיתוף	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	5	ccomp	_	_
+14	פעולה	_	NOUN	NOUN	Gender=Fem|Number=Sing	13	nmod:smixut	_	_
+15	,	_	PUNCT	PUNCT	_	13	punct	_	_
+16	למרות	_	ADP	ADP	_	22	case	_	_
+17	ש	_	SCONJ	SCONJ	_	22	mark	_	_
+18	ל	_	ADP	ADP	_	22	case	_	_
+19	חלק	_	NOUN	NOUN	Gender=Masc|Number=Sing	22	det:quant	_	_
+20	מ	_	ADP	ADP	HebSource=ConvUncertainLabel	22	case	_	_
+21	ה	_	DET	DET	PronType=Art	22	det:def	_	_
+22	מעורבים	_	ADJ	ADJ	Gender=Masc|Number=Plur	13	nmod	_	_
+23	עבר	_	NOUN	NOUN	Gender=Masc|Number=Sing	22	nsubj	_	_
+24	פלילי	_	ADJ	ADJ	Gender=Masc|Number=Sing	23	amod	_	_
+25	.	_	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 

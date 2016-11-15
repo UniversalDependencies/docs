@@ -13,7 +13,7 @@ The 10 most frequent `NOUN` types:  <em>bheith, chur, níos, rud, duine, dhéana
 
 The 10 most frequent ambiguous lemmas: <em>áit</em> ([NOUN]() 32, [SCONJ]() 1), <em>dóigh</em> ([NOUN]() 18, [VERB]() 1), <em>measc</em> ([NOUN]() 16, [VERB]() 2), <em>mí</em> ([NOUN]() 13, [PROPN]() 2), <em>roinn</em> ([NOUN]() 12, [VERB]() 4), <em>ceart</em> ([ADJ]() 13, [NOUN]() 11), <em>mac</em> ([NOUN]() 11, [PART]() 9), <em>úsáid</em> ([NOUN]() 9, [VERB]() 7), <em>meas</em> ([VERB]() 9, [NOUN]() 7), <em>céad</em> ([NUM]() 31, [NOUN]() 6)
 
-The 10 most frequent ambiguous types:  <em>áit</em> ([NOUN]() 20, [SCONJ]() 1), <em>ceart</em> ([NOUN]() 6, [ADJ]() 5), <em>go_leor</em> ([NOUN]() 6, [ADJ]() 2, [ADV]() 2), <em>scríobh</em> ([NOUN]() 5, [VERB]() 3), <em>airde</em> ([NOUN]() 4, [ADJ]() 1), <em>gheall</em> ([NOUN]() 4, [VERB]() 1), <em>leath</em> ([NOUN]() 4, [DET]() 1), <em>mí</em> ([NOUN]() 4, [PROPN]() 1), <em>timpeall</em> ([ADV]() 6, [NOUN]() 4), <em>cuma</em> ([NOUN]() 3, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>áit</em> ([NOUN]() 20, [SCONJ]() 1), <em>ceart</em> ([NOUN]() 6, [ADJ]() 5), <em>go_leor</em> ([NOUN]() 6, [ADV]() 2, [ADJ]() 2), <em>scríobh</em> ([NOUN]() 5, [VERB]() 3), <em>airde</em> ([NOUN]() 4, [ADJ]() 1), <em>gheall</em> ([NOUN]() 4, [VERB]() 1), <em>leath</em> ([NOUN]() 4, [DET]() 1), <em>mí</em> ([NOUN]() 4, [PROPN]() 1), <em>timpeall</em> ([ADV]() 6, [NOUN]() 4), <em>cuma</em> ([NOUN]() 3, [ADJ]() 1)
 
 
 * <em>áit</em>
@@ -24,8 +24,8 @@ The 10 most frequent ambiguous types:  <em>áit</em> ([NOUN]() 20, [SCONJ]() 1),
   * [ADJ]() 5: <em>Tá truailliú mór san áit mar nach bhfuil córas séarachais mar is <b>ceart</b> ann .</em>
 * <em>go_leor</em>
   * [NOUN]() 6: <em>Bhí scaifte maith sa tábhairne seo anois , an ceann amháin i mBaile an Chaolais ach ar ndóigh <b>go_leor</b> óstáin .</em>
-  * [ADJ]() 2: <em>Ar ndóigh bhí an tír suaite <b>go_leor</b> i_rith an am seo go léir .</em>
   * [ADV]() 2: <em>Tá an éide scoile s' againne maith <b>go_leor</b> anseo i Scoil Naomh Pól .</em>
+  * [ADJ]() 2: <em>Ar ndóigh bhí an tír suaite <b>go_leor</b> i_rith an am seo go léir .</em>
 * <em>scríobh</em>
   * [NOUN]() 5: <em>Thiocfadh leat caint agus <b>scríobh</b> fá seo go minic agus go fada .</em>
   * [VERB]() 3: <em>' Ach thóg na leitreacha sin cian díom - na leitreacha a <b>scríobh</b> mé chomh maith leis na rudaí a scríobhadh chugam .</em>

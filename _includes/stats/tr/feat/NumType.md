@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [tr-pos/NUM]() (2050; 4% instanc
 
 2050 [tr-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1730; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1730; 84%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1730; 84%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1730; 84%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1730; 84%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1730; 84%).
 
 `NUM` tokens may have the following values of `NumType`:
 

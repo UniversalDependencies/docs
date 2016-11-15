@@ -28,7 +28,7 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 40 [nl-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `X` and `Variant` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (40; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (38; 95%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (38; 95%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (24; 60%).
+The most frequent other feature values with which `X` and `Variant` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (40; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (38; 95%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (38; 95%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (24; 60%).
 
 `X` tokens may have the following values of `Variant`:
 

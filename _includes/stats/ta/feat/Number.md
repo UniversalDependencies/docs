@@ -46,7 +46,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 <table>
   <tr><th>Paradigm <i>தமிழர்</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களை, தமிழர்களைச்</td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களுக்க், தமிழர்களுக்குத், தமிழர்களுக்கு</td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களுக்க், தமிழர்களுக்கு, தமிழர்களுக்குத்</td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களின்</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Neut</tt></td><td></td><td>தமிழர்களிடம்</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut</tt></td><td>தமிழர்</td><td></td></tr>
@@ -138,7 +138,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 15 [ta-pos/PART]() tokens (2% of all `PART` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (15; 100%).
+The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (15; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%).
 
 `PART` tokens may have the following values of `Number`:
 
@@ -152,9 +152,9 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (501; 73%),
 <tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (177; 98%),
 <tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (139; 95%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (82; 52%),
 <tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (82; 87%),
 <tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (82; 100%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (82; 52%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (37; 74%),
 <tt>NOUN --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (20; 61%),
 <tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (19; 95%).

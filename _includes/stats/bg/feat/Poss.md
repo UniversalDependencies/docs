@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [bg-pos/PRON]() (1489; 1% instan
 
 1489 [bg-pos/PRON]() tokens (15% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1489; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1489; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1489; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (820; 55%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (820; 55%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1489; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1489; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1489; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (820; 55%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (820; 55%).
 
 `PRON` tokens may have the following values of `Poss`:
 

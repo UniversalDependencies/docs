@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: [hu-pos/NOUN]() (6010; 14% insta
 
 6010 [hu-pos/NOUN]() tokens (62% of all `NOUN` tokens) have a non-empty value of `Number[psed]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psed]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4865; 81%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (4335; 72%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (4335; 72%).
+The most frequent other feature values with which `NOUN` and `Number[psed]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4865; 81%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (4335; 72%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (4335; 72%).
 
 `NOUN` tokens may have the following values of `Number[psed]`:
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADJ` and `Number[psed]` co-oc
 
 1756 [hu-pos/PROPN]() tokens (65% of all `PROPN` tokens) have a non-empty value of `Number[psed]`.
 
-The most frequent other feature values with which `PROPN` and `Number[psed]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1753; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (1740; 99%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (1740; 99%), <tt><a href="Case.html">Case</a>=Nom</tt> (1445; 82%).
+The most frequent other feature values with which `PROPN` and `Number[psed]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1753; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (1740; 99%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (1740; 99%), <tt><a href="Case.html">Case</a>=Nom</tt> (1445; 82%).
 
 `PROPN` tokens may have the following values of `Number[psed]`:
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `PRON` and `Number[psed]` co-o
 
 476 [hu-pos/NUM]() tokens (43% of all `NUM` tokens) have a non-empty value of `Number[psed]`.
 
-The most frequent other feature values with which `NUM` and `Number[psed]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (476; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (475; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (475; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (436; 92%), <tt><a href="Case.html">Case</a>=Nom</tt> (436; 92%).
+The most frequent other feature values with which `NUM` and `Number[psed]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (476; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (475; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (475; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (436; 92%), <tt><a href="Case.html">Case</a>=Nom</tt> (436; 92%).
 
 `NUM` tokens may have the following values of `Number[psed]`:
 
@@ -119,7 +119,7 @@ The most frequent other feature values with which `NUM` and `Number[psed]` co-oc
 
 115 [hu-pos/DET]() tokens (2% of all `DET` tokens) have a non-empty value of `Number[psed]`.
 
-The most frequent other feature values with which `DET` and `Number[psed]` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (115; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (115; 100%).
+The most frequent other feature values with which `DET` and `Number[psed]` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem</tt> (115; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (115; 100%).
 
 `DET` tokens may have the following values of `Number[psed]`:
 

@@ -6,33 +6,35 @@
 
 This relation is universal.
 
-25 nodes (0%) are attached to their parents as `csubjpass`.
+43 nodes (0%) are attached to their parents as `csubjpass`.
 
-25 instances of `csubjpass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.36.
+43 instances of `csubjpass` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.97674418604651.
 
-The following 5 pairs of parts of speech are connected with `csubjpass`: [hr-pos/ADJ]()-[hr-pos/VERB]() (11; 44% instances), [hr-pos/VERB]()-[hr-pos/VERB]() (7; 28% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (3; 12% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (2; 8% instances), [hr-pos/VERB]()-[hr-pos/ADJ]() (2; 8% instances).
+The following 6 pairs of parts of speech are connected with `csubjpass`: [hr-pos/ADJ]()-[hr-pos/VERB]() (18; 42% instances), [hr-pos/VERB]()-[hr-pos/VERB]() (13; 30% instances), [hr-pos/VERB]()-[hr-pos/ADJ]() (5; 12% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (4; 9% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (2; 5% instances), [hr-pos/VERB]()-[hr-pos/NOUN]() (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 10 csubjpass	color:blue
-1	Procijenjeno	procijeniti	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	_
-2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	1	auxpass	_	_
-3	kako	kako	SCONJ	_	_	10	mark	_	_
-4	50	50	NUM	_	NumType=Card	5	nummod	_	_
-5	posto	posto	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nsubj	_	_
-6	ove	ovaj	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
-7	demografske	demografski	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-8	populacije	populacija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
-9	ne	ne	PART	_	Negative=Neg	10	neg	_	_
-10	izlazi	izlaziti	VERB	_	Number=Sing|Person=3|Tense=Pres	1	csubjpass	_	_
-11	na	na	ADP	_	Case=Acc	12	case	_	_
-12	izbore	izbor	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	nmod	_	_
-13	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 csubjpass	color:blue
+1	U	u	ADP	_	Case=Loc	2	case	_	_
+2	Studiju	studio	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	_
+3	nije	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	4	neg	_	_
+4	objašnjeno	objasniti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	_
+5	zašto	zašto	ADV	_	Degree=Pos	9	mark	_	_
+6	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	9	aux	_	_
+7	Mateo	Mateo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	ne	ne	PART	_	Negative=Neg	9	neg	_	_
+9	preziva	prezivati	VERB	_	Number=Sing|Person=3|Tense=Pres	4	csubjpass	_	_
+10	kao	kao	SCONJ	_	_	11	case	_	_
+11	otac	otac	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nmod	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	nego	nego	CONJ	_	_	11	cc	_	_
+14	Kariolić	Kariolić	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -61,36 +63,24 @@ The following 5 pairs of parts of speech are connected with `csubjpass`: [hr-pos
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 20 csubjpass	color:blue
-1	Iz	iz	ADP	_	Case=Gen	2	case	_	_
-2	ureda	ured	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
-3	predsjednika	predsjednik	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	Fatmira	Fatmir	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	_
-5	Sejdiua	Sejdiu	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	name	_	_
-6	potvrđeno	potvrditi	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	_
-7	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	auxpass	_	_
-8	kako	kako	SCONJ	_	_	20	mark	_	_
-9	će	htjeti	AUX	_	Number=Sing|Person=3|Tense=Pres	20	aux	_	_
-10	jedini	jedini	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
-11	predsjednik	predsjednik	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
-12	koji	koji	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	mark	_	_
-13	će	htjeti	AUX	_	Number=Sing|Person=3|Tense=Pres	14	aux	_	_
-14	posjetiti	posjetiti	VERB	_	VerbForm=Inf	11	acl	_	_
-15	Kosovo	Kosovo	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	14	dobj	_	_
-16	ovog	ovaj	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
-17	tjedna	tjedan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
-18	biti	biti	AUX	_	VerbForm=Inf	20	cop	_	_
-19	hrvatski	hrvatski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-20	predsjednik	predsjednik	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	csubjpass	_	_
-21	u	u	ADP	_	Case=Loc	22	case	_	_
-22	odlasku	odlazak	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	20	nmod	_	_
-23	Stjepan	tjepan	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	_
-24	Mesić	Mesić	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	23	name	_	_
-25	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 10 csubjpass	color:blue
+1	Vjeruje	vjerovati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	1	compound	_	_
+3	kako	kako	SCONJ	_	_	10	mark	_	_
+4	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	10	cop	_	_
+5	Lukić	Lukić	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	Pavković	Pavković	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
+8	i	i	CONJ	_	_	5	cc	_	_
+9	Lazarević	Lazarević	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
+10	dostupni	dostupan	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	csubjpass	_	_
+11	srbijanskim	srbijanski	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	12	amod	_	_
+12	vlastima	vlast	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	10	dobj	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

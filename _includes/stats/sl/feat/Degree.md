@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 455 [sl-pos/DET]() tokens (14% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (455; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (455; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (455; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (455; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (455; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (455; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (455; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (455; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (441; 97%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (455; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (455; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (455; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (455; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (455; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (455; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (455; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (455; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (441; 97%).
 
 `DET` tokens may have the following values of `Degree`:
 
@@ -182,7 +182,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 52 [sl-pos/DET]() tokens (7% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (52; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (52; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (52; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (52; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (52; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (52; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (43; 83%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (52; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (52; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (52; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (52; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (52; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (52; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (43; 83%).
 
 `DET` tokens may have the following values of `Degree`:
 
@@ -200,8 +200,8 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<a href="../dep/advmod.html">advmod</a>]--> ADV</tt> (133; 81%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (43; 93%),
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (21; 95%),
-<tt>ADV --[<a href="../dep/discourse.html">discourse</a>]--> ADV</tt> (10; 100%),
 <tt>ADV --[<a href="../dep/reparandum.html">reparandum</a>]--> ADV</tt> (10; 100%),
+<tt>ADV --[<a href="../dep/discourse.html">discourse</a>]--> ADV</tt> (10; 100%),
 <tt>ADJ --[<a href="../dep/discourse.html">discourse</a>]--> ADV</tt> (8; 89%),
 <tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADJ</tt> (7; 100%),
 <tt>ADV --[<a href="../dep/parataxis.html">parataxis</a>]--> ADJ</tt> (6; 100%),

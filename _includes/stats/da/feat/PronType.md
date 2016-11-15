@@ -42,7 +42,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 5520 [da-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4725; 86%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4721; 86%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4721; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (4216; 76%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2848; 52%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4725; 86%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4721; 86%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4721; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (4216; 76%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2848; 52%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -57,6 +57,6 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (30; 54%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 60%),
-<tt>PRON --[<a href="../dep/reparandum.html">reparandum</a>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/reparandum.html">reparandum</a>]--> PRON</tt> (1; 100%).
 

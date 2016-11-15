@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> ([NUM]() 1070, [ADV]() 43), 
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.328205 (the average of all parts of speech is 2.818565).
+The form / lemma ratio of `NUM` is 1.328205 (the average of all parts of speech is 2.815350).
 
 The 1st highest number of forms (17) was observed with the lemma “iki”: <em>iki, ikimiz, ikimizi, ikimizin, ikisi, ikisinde, ikisinden, ikisine, ikisini, ikisinin, ikiye, ikişer, İki, İkimiz, İkimizden, İkisi, İkisinin</em>.
 

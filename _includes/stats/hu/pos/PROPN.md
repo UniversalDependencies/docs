@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>Gazprom, Magyarország, László, Budap
 
 The 10 most frequent `PROPN` types:  <em>László, Magyar, Orbán, Gazprom, Viktor, Ferenc, János, Rt., Starbucks, HVG</em>
 
-The 10 most frequent ambiguous lemmas: <em>és</em> ([CONJ]() 547, [PROPN]() 11), <em>a</em> ([DET]() 3525, [PROPN]() 4), <em>megye</em> ([PROPN]() 8, [NOUN]() 3), <em>2</em> ([NUM]() 7, [PROPN]() 5), <em>körút</em> ([PROPN]() 4, [NOUN]() 1), <em>tér</em> ([NOUN]() 9, [VERB]() 5, [PROPN]() 4), <em>11</em> ([NUM]() 11, [PROPN]() 3), <em>kórház</em> ([NOUN]() 7, [PROPN]() 3), <em>utca</em> ([NOUN]() 3, [PROPN]() 3), <em>van</em> ([VERB]() 194, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>és</em> ([CONJ]() 547, [PROPN]() 11), <em>a</em> ([DET]() 3525, [PROPN]() 4), <em>megye</em> ([PROPN]() 8, [NOUN]() 3), <em>2</em> ([NUM]() 7, [PROPN]() 5), <em>körút</em> ([PROPN]() 4, [NOUN]() 1), <em>tér</em> ([NOUN]() 9, [VERB]() 5, [PROPN]() 4), <em>11</em> ([NUM]() 11, [PROPN]() 3), <em>kórház</em> ([NOUN]() 7, [PROPN]() 3), <em>utca</em> ([PROPN]() 3, [NOUN]() 3), <em>van</em> ([VERB]() 194, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>Magyar</em> ([PROPN]() 21, [ADJ]() 1), <em>és</em> ([CONJ]() 538, [PROPN]() 11), <em>a</em> ([DET]() 2930, [PROPN]() 4), <em>Országgyűlés</em> ([PROPN]() 8, [NOUN]() 1), <em>Szerb</em> ([PROPN]() 4, [ADJ]() 2), <em>Tv</em> ([PROPN]() 4, [NOUN]() 1), <em>megye</em> ([PROPN]() 4, [NOUN]() 1), <em>megyében</em> ([PROPN]() 4, [NOUN]() 2), <em>11</em> ([NUM]() 10, [PROPN]() 3), <em>körút</em> ([PROPN]() 3, [NOUN]() 1)
 

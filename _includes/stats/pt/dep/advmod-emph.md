@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [advmod]().
 
-119 nodes (0%) are attached to their parents as `advmod:emph`.
+117 nodes (0%) are attached to their parents as `advmod:emph`.
 
-119 instances of `advmod:emph` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.84873949579832.
+117 instances of `advmod:emph` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.88888888888889.
 
-The following 14 pairs of parts of speech are connected with `advmod:emph`: [pt-pos/NOUN]()-[pt-pos/ADV]() (71; 60% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (18; 15% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (11; 9% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (4; 3% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (3; 3% instances), [pt-pos/NOUN]()-[pt-pos/CONJ]() (2; 2% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (2; 2% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (2; 2% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/DET]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 1% instances), [pt-pos/PRON]()-[pt-pos/DET]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `advmod:emph`: [pt-pos/NOUN]()-[pt-pos/ADV]() (71; 61% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (18; 15% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (11; 9% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (4; 3% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (2; 2% instances), [pt-pos/NOUN]()-[pt-pos/CONJ]() (2; 2% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (2; 2% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (2; 2% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/DET]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/PRON]()-[pt-pos/DET]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -73,7 +73,7 @@ The following 14 pairs of parts of speech are connected with `advmod:emph`: [pt-
 # visual-style 9 7 advmod:emph	color:blue
 1	A	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	revista	revista	NOUN	n|F|S	Gender=Fem|Number=Sing	6	nsubjpass	_	_
-3	começou	começar	AUX	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
+3	começou	começar	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 4	a	a	ADP	prp	AdpType=Prep	6	mark	_	_
 5	ser	ser	VERB	v-inf	VerbForm=Inf	6	auxpass	_	_
 6	feita	fazer	VERB	v-pcp|F|S	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_

@@ -125,3 +125,80 @@ The following 6 pairs of parts of speech are connected with `neg`: [gl-pos/ADJ](
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+202 nodes (1%) are attached to their parents as `neg`.
+
+199 instances of `neg` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50990099009901.
+
+The following 7 pairs of parts of speech are connected with `neg`: [gl-pos/VERB]()-[gl-pos/ADV]() (154; 76% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (14; 7% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (14; 7% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (11; 5% instances), [gl-pos/PRON]()-[gl-pos/ADV]() (5; 2% instances), [gl-pos/ADP]()-[gl-pos/ADV]() (2; 1% instances), [gl-pos/DET]()-[gl-pos/ADV]() (2; 1% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 neg	color:blue
+1	eu	eu	PRON	Rtn1as	Case=Nom|Gender=Com|Number=Sing|Person=1	4	nsubj	_	_
+2	non	non	ADV	Wn	_	3	neg	_	_
+3	podía	poder	VERB	Vii10s	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	entrar	entrar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+5	así	así	ADV	Wn	_	4	advmod	_	_
+6	.	.	PUNCT	Q.	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 neg	color:blue
+1	isto	este	PRON	Enns	Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	non	non	ADV	Wn	_	4	neg	_	_
+3	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	certo	certo	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	Q.	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 neg	color:blue
+1	agora	agora	ADV	Wn	_	5	advmod	_	_
+2	xa	xa	ADV	Wn	_	5	advmod	_	_
+3	non	non	ADV	Wn	_	5	neg	_	_
+4	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	así	así	ADV	Wn	_	0	root	_	_
+6	e	e	CONJ	Cc	_	5	cc	_	_
+7	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	distancias	distancia	NOUN	Scfp	Gender=Fem|Number=Plur	19	nsubj	_	_
+9	,	,	PUNCT	Q,	_	12	punct	_	_
+10	en	en	ADP	P	AdpType=Prep	12	case	_	_
+11	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	capital	capital	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	_
+13	de	de	ADP	P	AdpType=Prep	14	case	_	_
+14	Galicia	Galicia	PROPN	Sp00	_	12	nmod	_	_
+15	,	,	PUNCT	Q,	_	12	punct	_	_
+16	son	ser	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+17	case	case	ADV	Wm	_	18	advmod	_	_
+18	sempre	sempre	ADV	Wn	_	19	advmod	_	_
+19	curtas	curto	ADJ	A0fp	Gender=Fem|Number=Plur	5	conj	_	_
+20	.	.	PUNCT	Q.	_	19	punct	_	_
+
+~~~
+
+

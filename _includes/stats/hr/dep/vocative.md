@@ -6,104 +6,70 @@
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `vocative`.
+17 nodes (0%) are attached to their parents as `vocative`.
 
-2 instances of `vocative` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33333333333333.
+10 instances of `vocative` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.23529411764706.
 
-The following 3 pairs of parts of speech are connected with `vocative`: [hr-pos/NOUN]()-[hr-pos/NOUN]() (1; 33% instances), [hr-pos/VERB]()-[hr-pos/NOUN]() (1; 33% instances), [hr-pos/VERB]()-[hr-pos/VERB]() (1; 33% instances).
+The following 8 pairs of parts of speech are connected with `vocative`: [hr-pos/VERB]()-[hr-pos/NOUN]() (5; 29% instances), [hr-pos/VERB]()-[hr-pos/ADJ]() (3; 18% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (2; 12% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (2; 12% instances), [hr-pos/VERB]()-[hr-pos/PROPN]() (2; 12% instances), [hr-pos/PRON]()-[hr-pos/NOUN]() (1; 6% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (1; 6% instances), [hr-pos/VERB]()-[hr-pos/VERB]() (1; 6% instances).
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 18 vocative	color:blue
-1	Parlament	parlament	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	5	aux	_	_
-3	2008.	2008.	NUM	_	NumType=Ord	4	nummod	_	_
-4	godine	godina	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
-5	izmijenio	izmijeniti	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-6	Zakon	zakon	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	_
-7	o	o	ADP	_	Case=Loc	8	case	_	_
-8	zakladama	zaklada	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	6	nmod	_	_
-9	,	,	PUNCT	_	_	10	punct	_	_
-10	proširivši	proširiti	ADV	_	Degree=Pos	5	xcomp	_	_
-11	prava	pravo	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	dobj	_	_
-12	manjinskih	manjinski	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	_
-13	vjerskih	vjerski	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	_
-14	skupina	skupina	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
-15	kako	kako	SCONJ	_	_	17	mark	_	_
-16	bi	biti	AUX	_	Number=Plur|Person=3|Tense=Past	17	aux	_	_
-17	mogle	moći	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	10	advcl	_	_
-18	stjecati	stjecati	VERB	_	VerbForm=Inf	17	vocative	_	_
-19	novu	nov	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
-20	imovinu	imovina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	dobj	_	_
-21	i	i	CONJ	_	_	18	cc	_	_
-22	vratiti	vratiti	VERB	_	VerbForm=Inf	18	conj	_	_
-23	imovinu	imovina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	22	dobj	_	_
-24	koja	koji	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	27	mark	_	_
-25	im	oni	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	27	dobj	_	_
-26	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	27	auxpass	_	_
-27	zaplijenjena	zaplijeniti	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	23	acl	_	_
-28	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 11 vocative	color:blue
+1	U	u	ADP	_	Case=Loc	3	case	_	_
+2	tom	taj	PRON	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	smislu	smisao	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+4	ove	ovaj	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	ređenike	ređenik	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	dobj	_	_
+6	preporučujem	preporučivati	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+7	i	i	CONJ	_	_	8	discourse	_	_
+8	vama	vi	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	6	iobj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	dragi	drag	ADJ	_	Case=Voc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	_
+11	vjernici	vjernik	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	6	vocative	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 vocative	color:blue
-1	Southeast	Southeast	X	_	_	3	compound	_	_
-2	European	European	X	_	_	3	compound	_	_
-3	Times	Times	X	_	_	8	parataxis	_	_
-4	:	:	PUNCT	_	_	3	punct	_	_
-5	G.	G.	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	_
-6	predsjedniče	predsjednik	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	očekujete	očekivati	VERB	_	Number=Plur|Person=2|Tense=Pres	0	root	_	_
-9	li	li	PART	_	_	8	mark	_	_
-10	turbulentno	turbulentan	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	amod	_	_
-11	razdoblje	razdoblje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	dobj	_	_
-12	u	u	ADP	_	Case=Loc	13	case	_	_
-13	regiji	regija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	_
-14	nakon	nakon	ADP	_	Case=Gen	15	case	_	_
-15	proglašenja	proglašenje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
-16	neovisnosti	neovisnost	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
-17	Kosova	Kosovo	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
-18	?	?	PUNCT	_	_	8	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 vocative	color:blue
+1	Najdraži	drag	ADJ	_	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur	2	amod	_	_
+2	moji	moj	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes	7	vocative	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	danas	danas	ADV	_	Degree=Pos	7	advmod	_	_
+5	mi	ja	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+6	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	7	dobj	_	_
+7	javila	javiti	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+8	čitateljica	čitateljica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+9	iz	iz	ADP	_	Case=Gen	10	case	_	_
+10	Melburnea	Melburne	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 vocative	color:blue
-1	Southeast	Southeast	X	_	_	3	compound	_	_
-2	European	European	X	_	_	3	compound	_	_
-3	Times	Times	X	_	_	8	parataxis	_	_
-4	:	:	PUNCT	_	_	3	punct	_	_
-5	G.	G.	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	_
-6	predsjedniče	predsjednik	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	očekujete	očekivati	VERB	_	Number=Plur|Person=2|Tense=Pres	0	root	_	_
-9	li	li	PART	_	_	8	mark	_	_
-10	turbulentno	turbulentan	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	amod	_	_
-11	razdoblje	razdoblje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	dobj	_	_
-12	u	u	ADP	_	Case=Loc	13	case	_	_
-13	regiji	regija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	_
-14	nakon	nakon	ADP	_	Case=Gen	15	case	_	_
-15	proglašenja	proglašenje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
-16	neovisnosti	neovisnost	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
-17	Kosova	Kosovo	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
-18	?	?	PUNCT	_	_	8	punct	_	_
+# visual-style 6 1 vocative	color:blue
+1	Tondin	Tondin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	zašto	zašto	ADV	_	Degree=Pos	6	advmod	_	_
+4	to	taj	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	dobj	_	_
+5	stalno	stalno	ADV	_	Degree=Pos	6	advmod	_	_
+6	pitaš	pitati	VERB	_	Number=Sing|Person=2|Tense=Pres	0	root	_	_
+7	?	?	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

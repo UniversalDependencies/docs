@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` types:  <em>o, mehercules, ecce, vae, a, alleluia, n
 
 The 10 most frequent ambiguous lemmas: <em>Hercules1</em> ([INTJ]() 10, [NOUN]() 3), <em>ecce1</em> ([ADV]() 17, [INTJ]() 6), <em>quare1</em> ([ADV]() 9, [INTJ]() 2), <em>quin1</em> ([CONJ]() 4, [SCONJ]() 2, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>ecce</em> ([ADV]() 15, [INTJ]() 6), <em>a</em> ([ADP]() 124, [INTJ]() 5), <em>ne</em> ([ADV]() 155, [SCONJ]() 66, [CONJ]() 54, [INTJ]() 4), <em>quare</em> ([ADV]() 10, [INTJ]() 1), <em>Io</em> ([NOUN]() 2, [INTJ]() 1), <em>Quin</em> ([CONJ]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>ecce</em> ([ADV]() 15, [INTJ]() 6), <em>a</em> ([ADP]() 124, [INTJ]() 5), <em>ne</em> ([ADV]() 155, [SCONJ]() 66, [CONJ]() 54, [INTJ]() 4), <em>quare</em> ([ADV]() 10, [INTJ]() 1), <em>Io</em> ([NOUN]() 2, [INTJ]() 1), <em>Quin</em> ([INTJ]() 1, [CONJ]() 1)
 
 
 * <em>ecce</em>
@@ -34,8 +34,8 @@ The 10 most frequent ambiguous types:  <em>ecce</em> ([ADV]() 15, [INTJ]() 6), <
   * [NOUN]() 2: <em>Constiterat quocumque modo , spectabat ad <b>Io</b></em>
   * [INTJ]() 1: <em><b>Io</b> Saturnalia , rogo , mensis december est</em>
 * <em>Quin</em>
-  * [CONJ]() 1: <em><b>Quin</b> igitur expergiscimini</em>
   * [INTJ]() 1: <em><b>Quin</b> , ut te supplex peterem et tua limina adirem , idem orans mandata dabat</em>
+  * [CONJ]() 1: <em><b>Quin</b> igitur expergiscimini</em>
 
 ## Morphology
 

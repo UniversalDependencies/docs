@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 487 [fi-pos/VERB]() tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (487; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (487; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (487; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (431; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (419; 86%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (278; 57%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (274; 56%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (274; 56%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (487; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (487; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (487; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (431; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (419; 86%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (278; 57%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (274; 56%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (274; 56%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 
@@ -166,7 +166,7 @@ The most frequent other feature values with which `ADJ` and `Person[psor]` co-oc
 
 9 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (9; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (9; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5; 56%).
+The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (9; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (9; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (9; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5; 56%).
 
 `AUX` tokens may have the following values of `Person[psor]`:
 
@@ -195,8 +195,8 @@ The most frequent other feature values with which `PROPN` and `Person[psor]` co-
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (10; 59%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (4; 67%),
-<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> NOUN</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> NOUN</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%).
 
 
 
@@ -238,7 +238,7 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 511 [fi-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (511; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (511; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (511; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (393; 77%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (279; 55%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (257; 50%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (257; 50%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (257; 50%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (511; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (511; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (511; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (393; 77%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (279; 55%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (257; 50%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (257; 50%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (257; 50%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 
@@ -377,7 +377,7 @@ The most frequent other feature values with which `PROPN` and `Person[psor]` co-
 
 1 [fi-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NUM` and `Person[psor]` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Person[psor]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Person[psor]`:
 

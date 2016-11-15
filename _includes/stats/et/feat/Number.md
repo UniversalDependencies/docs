@@ -105,7 +105,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>see</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abe|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>selletagi, selleta</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abe|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>selleta, selletagi</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>sellelt, selleltki</em></td><td><em>neilt</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ade|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>sel, sellel</em></td><td><em>neil, nendel, neilgi</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=All|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>sellele</em></td><td><em>neile, nendele</em></td></tr>
@@ -164,7 +164,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Com</tt></td><td><em>miljoniga</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ela</tt></td><td><em>miljonist</em></td><td><em>miljonitest</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>miljoni</em></td><td><em>miljonite</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>miljon, miljonit, miljoni, miljonitest, miljonilt, miljonini, miljoneid</em></td><td><em>miljonid</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>miljon, miljonit, miljoni, miljonitest, miljonini, miljoneid, miljonilt</em></td><td><em>miljonid</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par</tt></td><td><em>miljonit</em></td><td><em>miljoneid</em></td></tr>
 </table>
 
@@ -196,6 +196,17 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>on, ongi</em></td><td><em>on, ongi</em></td></tr>
 </table>
 
+### `SYM`
+
+11 [et-pos/SYM]() tokens (10% of all `SYM` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `SYM` and `Number` co-occurred: <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (7; 64%).
+
+`SYM` tokens may have the following values of `Number`:
+
+* `Sing` (11; 100% of non-empty `Number`): <em>%, U, A-ks, ADCAP-i, C, C5-ga, K-ga</em>
+* `EMPTY` (94): <em>&amp;, C5, AB, sulev@ekspress.ee, &, D66, U, anne@ekspress.ee, x, °C</em>
+
 ### `X`
 
 11 [et-pos/X]() tokens (12% of all `X` tokens) have a non-empty value of `Number`.
@@ -214,17 +225,6 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>I</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>I</em></td><td><em>I</em></td></tr>
 </table>
-
-### `SYM`
-
-11 [et-pos/SYM]() tokens (10% of all `SYM` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `SYM` and `Number` co-occurred: <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (7; 64%).
-
-`SYM` tokens may have the following values of `Number`:
-
-* `Sing` (11; 100% of non-empty `Number`): <em>%, U, A-ks, ADCAP-i, C, C5-ga, K-ga</em>
-* `EMPTY` (94): <em>&amp;, C5, AB, sulev@ekspress.ee, &, D66, U, anne@ekspress.ee, x, °C</em>
 
 ## Relations with Agreement in `Number`
 

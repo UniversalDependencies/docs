@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [sl-pos/VERB]() (8256; 6% instan
 
 8256 [sl-pos/VERB]() tokens (48% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (8256; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8256; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7982; 97%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7748; 94%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (5134; 62%), <tt><a href="Number.html">Number</a>=Sing</tt> (5107; 62%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8256; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (8256; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7982; 97%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7748; 94%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (5134; 62%), <tt><a href="Number.html">Number</a>=Sing</tt> (5107; 62%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 804 [sl-pos/DET]() tokens (24% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (804; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (804; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (804; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (804; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (572; 71%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (459; 57%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (425; 53%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (804; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (804; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (804; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (804; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (572; 71%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (459; 57%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (425; 53%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -130,7 +130,7 @@ The feature is used with 4 part-of-speech tags: [sl-pos/VERB]() (3036; 10% insta
 
 3036 [sl-pos/VERB]() tokens (66% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3036; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3036; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2824; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2733; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (2188; 72%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (1758; 58%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3036; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3036; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2824; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2733; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (2188; 72%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (1758; 58%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -157,7 +157,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 1122 [sl-pos/AUX]() tokens (89% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (1122; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1122; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1044; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (914; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (755; 67%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1122; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1122; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1044; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (914; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (755; 67%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -220,8 +220,8 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (116; 59%),
 <tt>VERB --[<a href="../dep/reparandum.html">reparandum</a>]--> VERB</tt> (33; 80%),
 <tt>PRON --[<a href="../dep/reparandum.html">reparandum</a>]--> PRON</tt> (3; 60%),
-<tt>DET --[<a href="../dep/reparandum.html">reparandum</a>]--> DET</tt> (1; 100%),
 <tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/vocative.html">vocative</a>]--> PRON</tt> (1; 100%),
 <tt>AUX --[<a href="../dep/reparandum.html">reparandum</a>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/vocative.html">vocative</a>]--> PRON</tt> (1; 100%).
+<tt>DET --[<a href="../dep/reparandum.html">reparandum</a>]--> DET</tt> (1; 100%).
 

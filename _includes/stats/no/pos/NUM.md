@@ -13,11 +13,11 @@ The 10 most frequent `NUM` types:  <em>to, tre, fire, eneste, ett, 2, fem, ti, 2
 
 The 10 most frequent ambiguous lemmas: <em>to</em> ([NUM]() 356, [X]() 11), <em>tre</em> ([NUM]() 174, [NOUN]() 10, [VERB]() 7), <em>2</em> ([NUM]() 84, [PROPN]() 1), <em>3</em> ([NUM]() 51, [PROPN]() 1), <em>hundre</em> ([NUM]() 15, [NOUN]() 13), <em>null</em> ([NUM]() 11, [NOUN]() 1), <em>tusen</em> ([NOUN]() 25, [NUM]() 11), <em>32</em> ([NUM]() 7, [X]() 1), <em>34</em> ([NUM]() 5, [X]() 1), <em>fire-fem</em> ([NUM]() 3, [DET]() 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> ([NUM]() 331, [X]() 11), <em>tre</em> ([NUM]() 155, [VERB]() 3, [NOUN]() 2), <em>ett</em> ([NUM]() 86, [DET]() 1, [X]() 1), <em>2</em> ([NUM]() 83, [PROPN]() 1), <em>3</em> ([NUM]() 51, [PROPN]() 1), <em>hundre</em> ([NUM]() 15, [NOUN]() 13), <em>null</em> ([NUM]() 11, [NOUN]() 1), <em>tusen</em> ([NOUN]() 22, [NUM]() 8), <em>32</em> ([NUM]() 7, [X]() 1), <em>34</em> ([NUM]() 5, [X]() 1)
+The 10 most frequent ambiguous types:  <em>to</em> ([NUM]() 331, [X]() 11), <em>tre</em> ([NUM]() 155, [VERB]() 3, [NOUN]() 2), <em>ett</em> ([NUM]() 86, [X]() 1, [DET]() 1), <em>2</em> ([NUM]() 83, [PROPN]() 1), <em>3</em> ([NUM]() 51, [PROPN]() 1), <em>hundre</em> ([NUM]() 15, [NOUN]() 13), <em>null</em> ([NUM]() 11, [NOUN]() 1), <em>tusen</em> ([NOUN]() 22, [NUM]() 8), <em>32</em> ([NUM]() 7, [X]() 1), <em>34</em> ([NUM]() 5, [X]() 1)
 
 
 * <em>to</em>
-  * [NUM]() 331: <em>NATO har fått <b>to</b> nye medlemsland |</em>
+  * [NUM]() 331: <em>NATO har fått <b>to</b> nye medlemsland</em>
   * [X]() 11: <em>« With malice towards none , with charity <b>to</b> all . »</em>
 * <em>tre</em>
   * [NUM]() 155: <em>I leketeltet finner jeg <b>tre</b> rosiner .</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>to</em> ([NUM]() 331, [X]() 11), <em>
   * [NOUN]() 2: <em>Et <b>tre</b> som svaier .</em>
 * <em>ett</em>
   * [NUM]() 86: <em>Før den tid fantes ikke <b>ett</b> museum i verden .</em>
-  * [DET]() 1: <em>Nei , jeg setter meg ned for å skrive <b>ett</b> blogginnlegg om hvorfor jeg ikke skriver kode .</em>
   * [X]() 1: <em>Jag sitter pa <b>ett</b> café där som heter Luzia .</em>
+  * [DET]() 1: <em>Nei , jeg setter meg ned for å skrive <b>ett</b> blogginnlegg om hvorfor jeg ikke skriver kode .</em>
 * <em>2</em>
   * [NUM]() 83: <em>« Rock Band <b>2</b> » eller « Guitar Hero : World Tour » ?</em>
   * [PROPN]() 1: <em>Mange barn ser også på NRK1 , <b>2</b> og 3 , og der dubber vi ingenting .</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>to</em> ([NUM]() 331, [X]() 11), <em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.007267 (the average of all parts of speech is 1.382722).
+The form / lemma ratio of `NUM` is 1.007267 (the average of all parts of speech is 1.382778).
 
 The 1st highest number of forms (3) was observed with the lemma “én”: <em>ett, Èn, én</em>.
 
@@ -76,15 +76,15 @@ Parents of `NUM` nodes belong to 10 different parts of speech: [NOUN]() (2739; 6
 
 2455 (62%) `NUM` nodes are leaves.
 
-941 (24%) `NUM` nodes have one child.
+943 (24%) `NUM` nodes have one child.
 
-387 (10%) `NUM` nodes have two children.
+385 (10%) `NUM` nodes have two children.
 
 179 (5%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 11.
 
-Children of `NUM` nodes are attached using 23 different relations: [no-dep/case]() (778; 32% instances), [no-dep/punct]() (464; 19% instances), [no-dep/nmod]() (351; 14% instances), [no-dep/advmod]() (262; 11% instances), [no-dep/conj]() (156; 6% instances), [no-dep/det]() (83; 3% instances), [no-dep/cc]() (80; 3% instances), [no-dep/cop]() (58; 2% instances), [no-dep/compound]() (55; 2% instances), [no-dep/nsubj]() (53; 2% instances), [no-dep/acl:relcl]() (31; 1% instances), [no-dep/mark]() (25; 1% instances), [no-dep/appos]() (10; 0% instances), [no-dep/amod]() (8; 0% instances), [no-dep/advcl]() (6; 0% instances), [no-dep/acl]() (5; 0% instances), [no-dep/expl]() (4; 0% instances), [no-dep/name]() (4; 0% instances), [no-dep/xcomp]() (4; 0% instances), [no-dep/aux]() (2; 0% instances), [no-dep/dobj]() (1; 0% instances), [no-dep/neg]() (1; 0% instances), [no-dep/parataxis]() (1; 0% instances)
+Children of `NUM` nodes are attached using 23 different relations: [no-dep/case]() (778; 32% instances), [no-dep/punct]() (462; 19% instances), [no-dep/nmod]() (351; 14% instances), [no-dep/advmod]() (262; 11% instances), [no-dep/conj]() (156; 6% instances), [no-dep/det]() (83; 3% instances), [no-dep/cc]() (80; 3% instances), [no-dep/cop]() (58; 2% instances), [no-dep/compound]() (55; 2% instances), [no-dep/nsubj]() (53; 2% instances), [no-dep/acl:relcl]() (31; 1% instances), [no-dep/mark]() (25; 1% instances), [no-dep/appos]() (10; 0% instances), [no-dep/amod]() (8; 0% instances), [no-dep/advcl]() (6; 0% instances), [no-dep/acl]() (5; 0% instances), [no-dep/expl]() (4; 0% instances), [no-dep/name]() (4; 0% instances), [no-dep/xcomp]() (4; 0% instances), [no-dep/aux]() (2; 0% instances), [no-dep/dobj]() (1; 0% instances), [no-dep/neg]() (1; 0% instances), [no-dep/parataxis]() (1; 0% instances)
 
-Children of `NUM` nodes belong to 15 different parts of speech: [ADP]() (803; 33% instances), [PUNCT]() (464; 19% instances), [NOUN]() (306; 13% instances), [NUM]() (208; 9% instances), [ADV]() (178; 7% instances), [ADJ]() (108; 4% instances), [VERB]() (99; 4% instances), [CONJ]() (80; 3% instances), [DET]() (79; 3% instances), [PROPN]() (49; 2% instances), [PRON]() (48; 2% instances), [SCONJ]() (15; 1% instances), [AUX]() (2; 0% instances), [SYM]() (2; 0% instances), [PART]() (1; 0% instances)
+Children of `NUM` nodes belong to 15 different parts of speech: [ADP]() (803; 33% instances), [PUNCT]() (462; 19% instances), [NOUN]() (306; 13% instances), [NUM]() (208; 9% instances), [ADV]() (178; 7% instances), [ADJ]() (108; 4% instances), [VERB]() (99; 4% instances), [CONJ]() (80; 3% instances), [DET]() (79; 3% instances), [PROPN]() (49; 2% instances), [PRON]() (48; 2% instances), [SCONJ]() (15; 1% instances), [AUX]() (2; 0% instances), [SYM]() (2; 0% instances), [PART]() (1; 0% instances)
 

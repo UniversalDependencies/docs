@@ -41,7 +41,7 @@ The feature is used with 2 part-of-speech tags: [fi-pos/PRON]() (303; 0% instanc
 
 303 [fi-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (303; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (303; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (303; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (303; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (303; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (303; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

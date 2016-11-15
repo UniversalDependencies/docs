@@ -41,7 +41,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 536 [nl-pos/ADJ]() tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (536; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (536; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (536; 100%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (536; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (536; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (536; 100%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 410 [nl-pos/DET]() tokens (2% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (410; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (410; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (410; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (408; 100%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (410; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (410; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (410; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (408; 100%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -75,5 +75,5 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<a href="../dep/cc.html">cc</a>]--> NUM</tt> (6; 100%),
 <tt>PRON --[<a href="../dep/advmod.html">advmod</a>]--> NUM</tt> (5; 83%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (4; 80%),
-<tt>DET --[<a href="../dep/advmod.html">advmod</a>]--> PRON</tt> (3; 75%).
+<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 100%).
 

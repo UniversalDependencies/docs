@@ -13,7 +13,7 @@ The 10 most frequent `PART` types:  <em>tidak, tak, bukan, pun, bukankah, belum,
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>tidak</em> ([PART]() 374, [ADV]() 24, [PROPN]() 1), <em>tak</em> ([PART]() 43, [ADV]() 6), <em>bukan</em> ([PART]() 39, [ADV]() 10), <em>pun</em> ([PART]() 29, [ADV]() 9, [DET]() 1), <em>belum</em> ([ADV]() 29, [PART]() 10), <em>ya</em> ([PART]() 3, [ADV]() 1, [PROPN]() 1), <em>non</em> ([ADJ]() 9, [PART]() 4, [NOUN]() 1, [PROPN]() 1), <em>tanpa</em> ([ADP]() 35, [PART]() 3), <em>tidakkah</em> ([PART]() 2, [NOUN]() 1), <em>tiada</em> ([PART]() 2, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>tidak</em> ([PART]() 374, [ADV]() 24, [PROPN]() 1), <em>tak</em> ([PART]() 43, [ADV]() 6), <em>bukan</em> ([PART]() 39, [ADV]() 10), <em>pun</em> ([PART]() 29, [ADV]() 9, [DET]() 1), <em>belum</em> ([ADV]() 29, [PART]() 10), <em>ya</em> ([PART]() 3, [PROPN]() 1, [ADV]() 1), <em>non</em> ([ADJ]() 9, [PART]() 4, [PROPN]() 1, [NOUN]() 1), <em>tanpa</em> ([ADP]() 35, [PART]() 3), <em>tidakkah</em> ([PART]() 2, [NOUN]() 1), <em>tiada</em> ([PART]() 2, [NOUN]() 1)
 
 
 * <em>tidak</em>
@@ -35,13 +35,13 @@ The 10 most frequent ambiguous types:  <em>tidak</em> ([PART]() 374, [ADV]() 24,
   * [PART]() 10: <em>Vertebrata yang diserang oleh parasit ini <b>belum</b> diketahui .</em>
 * <em>ya</em>
   * [PART]() 3: <em>Allahku , <b>ya</b> Allahku , mengapa Engkau meninggalkan aku ?</em>
-  * [ADV]() 1: <em>Saya suka tampilan Halaman utama versi Kenrick , sayangnya kotak pencarian yang sebelumnya ada di koq dihilangkan <b>ya</b> ?</em>
   * [PROPN]() 1: <em>Di antara ciri khas dialek Jepang Barat adalah penggunaan kata oru ( おる ) untuk iru ( いる , ada ) serta pemakaian kopula ja ( じゃ ) atau <b>ya</b> ( や ) dan bukan da ( だ ) . Akhiran bentuk negasi adalah - n ( ～ ん ) seperti dalam wakaran ( わから ん , tidak tahu ) , dan bukan - nai ( ～ ない ) seperti dalam wakaranai ( わからない ) . Ciri - ciri khas tersebut sebagian berasal dari bahasa Jepang Kuno . Jenis - jenis dialek Hokuriku : Bantuan | style = " padding : 0em 0.5 em 0em 0.5 em ; background - color : # f1fcf5 ; " | | style = " width : 50 % % ; vertical - align : top ; border : 1px solid # abd5f5 ; background - color : # f1f5fc ; " | Tips Membuat kesalahan ?</em>
+  * [ADV]() 1: <em>Saya suka tampilan Halaman utama versi Kenrick , sayangnya kotak pencarian yang sebelumnya ada di koq dihilangkan <b>ya</b> ?</em>
 * <em>non</em>
   * [ADJ]() 9: <em>Setelah kematian Al - Hakam pada 976 , situasi mulai memburuk bagi <b>non</b> - Muslim pada umumnya .</em>
   * [PART]() 4: <em>Walaupun warga <b>non</b> - Melayu tidak dimasukkan ke dalam posisi pemerintahan , banyak dari jabatan - jabatan sipil diisi oleh warga <b>non</b> - Melayu , kebanyakan adalah orang India yang sengaja didatangkan untuk mengisi jabatan ini .</em>
-  * [NOUN]() 1: <em>Sebagai perdana menteri , ia membuat bahasa Sinhala menjadi bahasa resmi Sri Lanka dan mengusung kebijakan - kebijaka sosialis dan <b>non</b> - Barat .</em>
   * [PROPN]() 1: <em>PATTIRO ( Pusat Telaah dan Informasi Regional ) adalah sebuah organisasi non pemerintah ( <b>non</b> government organization ) yang didirikan pada tanggal 17 April 1999 di Jakarta , yang mendedikasikan aktivitasnya pada upaya mewujudkan tata pemerintahan yang baik ( good governance ) dan peningkatan partisipasi publik di Indonesia , terutama pada tingkat lokal .</em>
+  * [NOUN]() 1: <em>Sebagai perdana menteri , ia membuat bahasa Sinhala menjadi bahasa resmi Sri Lanka dan mengusung kebijakan - kebijaka sosialis dan <b>non</b> - Barat .</em>
 * <em>tanpa</em>
   * [ADP]() 35: <em>Dikisahkan , Citrawirya raja Hastina meninggal <b>tanpa</b> keturunan .</em>
   * [PART]() 3: <em>ISP yang tersambung ke IIX <b>tanpa</b> biaya lebar pita , hanya biaya sambungan fisik sepeti serat optik , jalur nirkabel ataupun sewaan , yang berbeda - beda .</em>

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-21439 nodes (8%) are attached to their parents as `case`.
+20662 nodes (8%) are attached to their parents as `case`.
 
-20541 instances of `case` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.03960072764588.
+19807 instances of `case` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.03591133481754.
 
-The following 56 pairs of parts of speech are connected with `case`: [en-pos/NOUN]()-[en-pos/ADP]() (13829; 65% instances), [en-pos/PROPN]()-[en-pos/ADP]() (3924; 18% instances), [en-pos/PRON]()-[en-pos/ADP]() (1203; 6% instances), [en-pos/PROPN]()-[en-pos/PART]() (557; 3% instances), [en-pos/NUM]()-[en-pos/ADP]() (458; 2% instances), [en-pos/NOUN]()-[en-pos/PART]() (277; 1% instances), [en-pos/ADJ]()-[en-pos/ADP]() (244; 1% instances), [en-pos/NOUN]()-[en-pos/VERB]() (178; 1% instances), [en-pos/ADV]()-[en-pos/ADP]() (114; 1% instances), [en-pos/DET]()-[en-pos/ADP]() (100; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (84; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (82; 0% instances), [en-pos/SYM]()-[en-pos/ADP]() (77; 0% instances), [en-pos/PRON]()-[en-pos/SCONJ]() (65; 0% instances), [en-pos/X]()-[en-pos/ADP]() (44; 0% instances), [en-pos/PROPN]()-[en-pos/VERB]() (31; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (26; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (22; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (21; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (15; 0% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (11; 0% instances), [en-pos/ADV]()-[en-pos/SCONJ]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (6; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/X]() (4; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (4; 0% instances), [en-pos/NUM]()-[en-pos/PUNCT]() (4; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (4; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (4; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (3; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (3; 0% instances), [en-pos/ADP]()-[en-pos/ADP]() (2; 0% instances), [en-pos/INTJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (2; 0% instances), [en-pos/NUM]()-[en-pos/NUM]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/SCONJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/PART]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/DET]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/CONJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PART]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (1; 0% instances), [en-pos/X]()-[en-pos/X]() (1; 0% instances).
+The following 54 pairs of parts of speech are connected with `case`: [en-pos/NOUN]()-[en-pos/ADP]() (13218; 64% instances), [en-pos/PROPN]()-[en-pos/ADP]() (3754; 18% instances), [en-pos/PRON]()-[en-pos/ADP]() (1317; 6% instances), [en-pos/PROPN]()-[en-pos/PART]() (525; 3% instances), [en-pos/NUM]()-[en-pos/ADP]() (419; 2% instances), [en-pos/NOUN]()-[en-pos/PART]() (254; 1% instances), [en-pos/ADJ]()-[en-pos/ADP]() (235; 1% instances), [en-pos/NOUN]()-[en-pos/VERB]() (171; 1% instances), [en-pos/ADV]()-[en-pos/ADP]() (113; 1% instances), [en-pos/DET]()-[en-pos/ADP]() (99; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (83; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (81; 0% instances), [en-pos/SYM]()-[en-pos/ADP]() (75; 0% instances), [en-pos/PRON]()-[en-pos/SCONJ]() (62; 0% instances), [en-pos/X]()-[en-pos/ADP]() (44; 0% instances), [en-pos/PROPN]()-[en-pos/VERB]() (28; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (26; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (23; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (21; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (16; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (15; 0% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (11; 0% instances), [en-pos/ADV]()-[en-pos/SCONJ]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (6; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/X]() (4; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (4; 0% instances), [en-pos/NUM]()-[en-pos/PUNCT]() (4; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (3; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (3; 0% instances), [en-pos/ADP]()-[en-pos/ADP]() (2; 0% instances), [en-pos/INTJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (2; 0% instances), [en-pos/NUM]()-[en-pos/NUM]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/SCONJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PART]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/DET]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/CONJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PART]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (1; 0% instances), [en-pos/X]()-[en-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -84,7 +84,7 @@ This relation is universal.
 8168 instances of `case` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.81534226902824.
 
-The following 38 pairs of parts of speech are connected with `case`: [en-pos/NOUN]()-[en-pos/ADP]() (6076; 73% instances), [en-pos/PRON]()-[en-pos/ADP]() (694; 8% instances), [en-pos/PROPN]()-[en-pos/ADP]() (687; 8% instances), [en-pos/DET]()-[en-pos/ADP]() (287; 3% instances), [en-pos/NUM]()-[en-pos/ADP]() (158; 2% instances), [en-pos/NOUN]()-[en-pos/PART]() (123; 1% instances), [en-pos/ADJ]()-[en-pos/ADP]() (60; 1% instances), [en-pos/NOUN]()-[en-pos/VERB]() (48; 1% instances), [en-pos/ADV]()-[en-pos/ADP]() (46; 1% instances), [en-pos/PROPN]()-[en-pos/PART]() (39; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (27; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (23; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (16; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (12; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (8; 0% instances), [en-pos/SYM]()-[en-pos/ADP]() (7; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (6; 0% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (4; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (4; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (4; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (2; 0% instances), [en-pos/INTJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PART]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/ADP]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ADP]()-[en-pos/ADV]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADP]() (1; 0% instances), [en-pos/DET]()-[en-pos/PART]() (1; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PRON]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances), [en-pos/X]()-[en-pos/ADP]() (1; 0% instances).
+The following 37 pairs of parts of speech are connected with `case`: [en-pos/NOUN]()-[en-pos/ADP]() (6011; 72% instances), [en-pos/PRON]()-[en-pos/ADP]() (889; 11% instances), [en-pos/PROPN]()-[en-pos/ADP]() (687; 8% instances), [en-pos/NUM]()-[en-pos/ADP]() (158; 2% instances), [en-pos/DET]()-[en-pos/ADP]() (157; 2% instances), [en-pos/NOUN]()-[en-pos/PART]() (121; 1% instances), [en-pos/ADJ]()-[en-pos/ADP]() (60; 1% instances), [en-pos/NOUN]()-[en-pos/VERB]() (48; 1% instances), [en-pos/ADV]()-[en-pos/ADP]() (46; 1% instances), [en-pos/PROPN]()-[en-pos/PART]() (39; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (27; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (23; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (16; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (12; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (8; 0% instances), [en-pos/SYM]()-[en-pos/ADP]() (7; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (6; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (6; 0% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (4; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (4; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (4; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (2; 0% instances), [en-pos/INTJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PART]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/ADP]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ADP]()-[en-pos/ADV]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADP]() (1; 0% instances), [en-pos/DET]()-[en-pos/PART]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PRON]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances), [en-pos/X]()-[en-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -117,30 +117,33 @@ The following 38 pairs of parts of speech are connected with `case`: [en-pos/NOU
 
 
 ~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 16 case	color:blue
-1	_	_	PRON	PRP	_	4	nsubj	_	_
-2	_	_	AUX	MD	_	4	aux	_	_
-3	_	_	VERB	VB	_	4	cop	_	_
-4	_	_	ADJ	JJ	_	0	root	_	_
-5	_	_	PUNCT	,	_	4	punct	_	_
+# visual-style 16 15 case	color:blue
+1	_	_	CONJ	CC	_	3	cc	_	_
+2	_	_	PRON	PRP	_	3	nsubj	_	_
+3	_	_	NOUN	NN	_	0	root	_	_
+4	_	_	PRON	DT	_	3	dobj	_	_
+5	_	_	PUNCT	,	_	3	punct	_	_
 6	_	_	SCONJ	IN	_	9	mark	_	_
-7	_	_	PRON	PRP	_	9	nsubj	_	_
-8	_	_	AUX	MD	_	9	aux	_	_
-9	_	_	VERB	VB	_	4	advcl	_	_
-10	_	_	DET	PRP$	_	11	nmod:poss	_	_
-11	_	_	NOUN	NN	_	9	dobj	_	_
-12	_	_	CONJ	CC	_	4	cc	_	_
-13	_	_	VERB	VB	_	4	conj	_	_
-14	_	_	PART	TO	_	15	mark	_	_
-15	_	_	VERB	VBG	_	13	xcomp	_	_
-16	_	_	ADP	IN	_	17	case	_	_
-17	_	_	PRON	PRP	_	15	nmod	_	_
-18	_	_	ADV	RB	_	15	advmod	_	_
-19	_	_	PUNCT	.	_	4	punct	_	_
+7	_	_	PRON	PRP	_	9	expl	_	_
+8	_	_	VERB	VBZ	_	9	cop	_	_
+9	_	_	ADJ	JJR	_	3	advcl	_	_
+10	_	_	PRON	NN	_	11	dobj	_	_
+11	_	_	VERB	VBG	_	9	csubj	_	_
+12	_	_	SCONJ	IN	_	13	mark	_	_
+13	_	_	VERB	VBG	_	9	advcl	_	_
+14	_	_	NOUN	NNS	_	13	dobj	_	_
+15	_	_	ADP	IN	_	16	case	_	_
+16	_	_	PRON	NN	_	13	nmod	_	_
+17	_	_	PRON	WDT	_	18	nsubj	_	_
+18	_	_	VERB	VB	_	16	acl:relcl	_	_
+19	_	_	PRON	PRP	_	18	dobj	_	_
+20	_	_	VERB	VB	_	18	xcomp	_	_
+21	_	_	PRON	NN	_	20	dobj	_	_
+22	_	_	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Greek)
 
 There are 3 `DET` lemmas (0%), 23 `DET` types (0%) and 9465 `DET` tokens (16%).
-Out of 11 observed tags, the rank of `DET` is: 11 in number of lemmas, 10 in number of types and 2 in number of tokens.
+Out of 11 observed tags, the rank of `DET` is: 11 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ο, ένας, o</em>
 
@@ -58,12 +58,12 @@ The 2nd highest number of forms (8) was observed with the lemma “ένας”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “o”: <em>το</em>.
 
-`DET` occurs with 4 features: [el-feat/Case]() (9465; 100% instances), [el-feat/Definite]() (9465; 100% instances), [el-feat/Gender]() (9465; 100% instances), [el-feat/Number]() (9465; 100% instances)
+`DET` occurs with 5 features: [el-feat/Case]() (9465; 100% instances), [el-feat/Definite]() (9465; 100% instances), [el-feat/Gender]() (9465; 100% instances), [el-feat/Number]() (9465; 100% instances), [el-feat/PronType]() (9465; 100% instances)
 
-`DET` occurs with 11 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`DET` occurs with 12 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Art`
 
 `DET` occurs with 29 feature combinations.
-The most frequent feature combination is `Case=Acc|Definite=Def|Gender=Fem|Number=Sing` (1612 tokens).
+The most frequent feature combination is `Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art` (1612 tokens).
 Examples: <em>την, τη</em>
 
 
@@ -71,7 +71,7 @@ Examples: <em>την, τη</em>
 
 `DET` nodes are attached to their parents using 3 different relations: [el-dep/det]() (9463; 100% instances), [el-dep/amod]() (1; 0% instances), [el-dep/remnant]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 7 different parts of speech: [NOUN]() (8623; 91% instances), [PRON]() (311; 3% instances), [ADJ]() (205; 2% instances), [PUNCT]() (159; 2% instances), [NUM]() (128; 1% instances), [ADV]() (21; 0% instances), [VERB]() (18; 0% instances)
+Parents of `DET` nodes belong to 6 different parts of speech: [NOUN]() (8782; 93% instances), [PRON]() (311; 3% instances), [ADJ]() (205; 2% instances), [NUM]() (128; 1% instances), [ADV]() (21; 0% instances), [VERB]() (18; 0% instances)
 
 9464 (100%) `DET` nodes are leaves.
 

@@ -57,7 +57,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 5543 [hu-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5461; 99%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (4453; 80%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4394; 79%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (3297; 59%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (3292; 59%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (3292; 59%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5461; 99%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (4453; 80%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4394; 79%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (3297; 59%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (3292; 59%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (3292; 59%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 2718 [hu-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2712; 100%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (1751; 64%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (1740; 64%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (1740; 64%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2712; 100%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (1751; 64%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (1740; 64%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (1740; 64%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -191,7 +191,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 127 [hu-pos/DET]() tokens (2% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (115; 91%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (115; 91%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem</tt> (115; 91%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (115; 91%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -222,8 +222,8 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<a href="../dep/amod:att.html">amod:att</a>]--> ADJ</tt> (2157; 51%),
 <tt>PROPN --[<a href="../dep/name.html">name</a>]--> PROPN</tt> (777; 83%),
 <tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (462; 96%),
-<tt>NOUN --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (159; 51%),
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (159; 99%),
+<tt>NOUN --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (159; 51%),
 <tt>ADJ --[<a href="../dep/amod:att.html">amod:att</a>]--> ADJ</tt> (155; 96%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (137; 100%),
 <tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (134; 93%),

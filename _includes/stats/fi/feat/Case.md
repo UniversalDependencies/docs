@@ -150,7 +150,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 8898 [fi-pos/VERB]() tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (8898; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8898; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8898; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (7114; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6904; 78%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (6904; 78%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (6895; 77%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6361; 71%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8898; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8898; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8898; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (7114; 80%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (6904; 78%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6904; 78%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (6895; 77%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6361; 71%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -235,7 +235,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 132 [fi-pos/AUX]() tokens (4% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (132; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (132; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (132; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (127; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (115; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (115; 87%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (132; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (132; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (132; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (127; 96%), <tt><a href="Voice.html">Voice</a>=Act</tt> (115; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (115; 87%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -363,7 +363,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 10453 [fi-pos/VERB]() tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (10453; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10453; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (10453; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (8561; 82%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5328; 51%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (5325; 51%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (5325; 51%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (10453; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (10453; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10453; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (8561; 82%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5328; 51%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (5325; 51%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (5325; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -410,7 +410,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="PartForm.html">PartForm</a>=Pres|<a href="Person[psor].html">Person[psor]</a>=1|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olevani</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Person[psor].html">Person[psor]</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olleensa</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Person[psor].html">Person[psor]</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td></td><td><em>oltuaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollu, ollum, olluk, olluh, ollun, olluv, olluj</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="Style.html">Style</a>=Coll|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollu, ollum, olluk, olluh, olluj, olluv, ollun</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ollut</em></td><td><em>olleen</em></td><td></td><td><em>ollutta</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>olleelta</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>oltu</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PartForm.html">PartForm</a>=Pres|<a href="Person[psor].html">Person[psor]</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>olevansa</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>

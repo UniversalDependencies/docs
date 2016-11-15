@@ -7,35 +7,46 @@
 This feature is universal.
 It occurs with 2 different values: `Abs`, `Cmp`.
 
-440 tokens (0%) have a non-empty value of `Degree`.
-99 types (0%) occur at least once with a non-empty value of `Degree`.
-69 lemmas (0%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 6 part-of-speech tags: [it-pos/ADJ]() (406; 0% instances), [it-pos/ADV]() (15; 0% instances), [it-pos/NOUN]() (10; 0% instances), [it-pos/DET]() (6; 0% instances), [it-pos/PRON]() (2; 0% instances), [it-pos/PROPN]() (1; 0% instances).
+485 tokens (0%) have a non-empty value of `Degree`.
+104 types (0%) occur at least once with a non-empty value of `Degree`.
+73 lemmas (0%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 6 part-of-speech tags: [it-pos/ADJ]() (440; 0% instances), [it-pos/ADV]() (19; 0% instances), [it-pos/DET]() (13; 0% instances), [it-pos/NOUN]() (10; 0% instances), [it-pos/PRON]() (2; 0% instances), [it-pos/PROPN]() (1; 0% instances).
 
 ### `ADJ`
 
-406 [it-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `Degree`.
+440 [it-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (325; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (321; 79%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (353; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (346; 79%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Abs` (81; 20% of non-empty `Degree`): <em>altissimo, gravissimo, altissima, bellissimo, chiarissimo, durissima, giovanissimi, grandissima, lunghissimo, ultimissimo</em>
-* `Cmp` (325; 80% of non-empty `Degree`): <em>maggiore, maggior, inferiore, migliore, superiore, minore, maggiori, migliori, superiori, miglior</em>
-* `EMPTY` (16940): <em>primo, prima, grande, presente, altri, altro, stesso, comune, nuovo, stessa</em>
+* `Abs` (87; 20% of non-empty `Degree`): <em>gravissimo, altissimo, altissima, bellissimo, chiarissimo, durissima, giovanissimi, grandissima, gravissimi, lunghissimo</em>
+* `Cmp` (353; 80% of non-empty `Degree`): <em>maggiore, maggior, migliore, inferiore, superiore, minore, maggiori, migliori, superiori, miglior</em>
+* `EMPTY` (18239): <em>primo, prima, nuovo, grande, altri, presente, altro, stesso, comune, italiana</em>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (61) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (63) occur only with one value of `Degree`.
 
 ### `ADV`
 
-15 [it-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Degree`.
+19 [it-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (15; 100%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (19; 100%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Abs` (15; 100% of non-empty `Degree`): <em>benissimo, moltissimo, fortissimo, lontanissimo, malissimo</em>
-* `EMPTY` (10470): <em>non, più, anche, dove, come, quando, solo, sempre, ancora, prima</em>
+* `Abs` (19; 100% of non-empty `Degree`): <em>benissimo, moltissimo, pochissimo, fortissimo, lontanissimo, malissimo</em>
+* `EMPTY` (11205): <em>non, più, anche, dove, come, quando, solo, sempre, prima, poi</em>
+
+### `DET`
+
+13 [it-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (13; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (12; 92%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (12; 92%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (10; 77%).
+
+`DET` tokens may have the following values of `Degree`:
+
+* `Abs` (13; 100% of non-empty `Degree`): <em>moltissimi, pochissimi, moltissime, numerosissimi</em>
+* `EMPTY` (47535): <em>il, la, i, l', le, un, gli, una, lo, quale</em>
 
 ### `NOUN`
 
@@ -47,29 +58,18 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 * `Abs` (2; 20% of non-empty `Degree`): <em>Carissimi, finalissima</em>
 * `Cmp` (8; 80% of non-empty `Degree`): <em>minori, maggiore, minore, peggiore, superiori</em>
-* `EMPTY` (53641): <em>anni, presidente, parte, fondo, diritto, legge, proprietario, anno, caso, art.</em>
-
-### `DET`
-
-6 [it-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (6; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (5; 83%).
-
-`DET` tokens may have the following values of `Degree`:
-
-* `Abs` (6; 100% of non-empty `Degree`): <em>pochissimi, moltissimi, numerosissimi</em>
-* `EMPTY` (43703): <em>il, la, l', i, le, un, una, gli, lo, quale</em>
+* `EMPTY` (58047): <em>anni, presidente, parte, fondo, diritto, anno, legge, persone, città, proprietario</em>
 
 ### `PRON`
 
 2 [it-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=Ind</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Degree`:
 
 * `Abs` (2; 100% of non-empty `Degree`): <em>pochissimi, tantissimi</em>
-* `EMPTY` (10861): <em>si, che, chi, cui, ci, lo, ne, qual, quanto, mi</em>
+* `EMPTY` (11255): <em>si, che, chi, cui, ci, lo, ne, qual, quanto, mi</em>
 
 ### `PROPN`
 
@@ -78,5 +78,5 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Abs` (1; 100% of non-empty `Degree`): <em>Altissimo</em>
-* `EMPTY` (13344): <em>Shakespeare, Balzac, Italia, stati, Europa, San, Uniti, Albania, Marco, Roma</em>
+* `EMPTY` (14759): <em>Italia, Shakespeare, Balzac, Europa, Roma, Stati, Uniti, San, Albania, Marco</em>
 

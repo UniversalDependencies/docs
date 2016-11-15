@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [bg-pos/VERB]() (16738; 11% inst
 
 16738 [bg-pos/VERB]() tokens (86% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16611; 99%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (16611; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (16458; 98%), <tt><a href="Person.html">Person</a>=3</tt> (13729; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (11852; 71%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (11733; 70%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (10557; 63%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (16611; 99%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16611; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (16458; 98%), <tt><a href="Person.html">Person</a>=3</tt> (13729; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (11852; 71%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (11733; 70%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (10557; 63%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -82,14 +82,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1890; 77%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1318; 86%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (955; 79%),
-<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (214; 84%),
-<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (178; 81%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (163; 81%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (75; 77%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1691; 75%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1314; 86%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (969; 79%),
+<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (391; 86%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (173; 83%),
+<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (162; 81%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (55; 75%),
 <tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (29; 55%),
-<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (3; 100%).
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (3; 100%),
+<tt>VERB --[<a href="../dep/iobj.html">iobj</a>]--> VERB</tt> (1; 100%).
 

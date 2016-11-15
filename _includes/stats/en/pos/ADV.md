@@ -4,59 +4,59 @@
 
 ## Treebank Statistics (UD_English)
 
-There are 796 `ADV` lemmas (4%), 796 `ADV` types (3%) and 13039 `ADV` tokens (5%).
+There are 794 `ADV` lemmas (4%), 794 `ADV` types (4%) and 12873 `ADV` tokens (5%).
 Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>so, just, when, very, also, how, now, even, there, then</em>
+The 10 most frequent `ADV` lemmas: <em>so, just, very, when, also, how, now, even, there, then</em>
 
-The 10 most frequent `ADV` types:  <em>so, just, when, very, also, how, now, even, there, then</em>
+The 10 most frequent `ADV` types:  <em>so, just, very, when, also, how, now, even, there, then</em>
 
-The 10 most frequent ambiguous lemmas: <em>so</em> ([ADV]() 578, [SCONJ]() 75, [X]() 2, [ADJ]() 2, [VERB]() 1), <em>when</em> ([ADV]() 458, [X]() 1), <em>very</em> ([ADV]() 447, [ADJ]() 5), <em>how</em> ([ADV]() 316, [NOUN]() 1), <em>even</em> ([ADV]() 270, [VERB]() 2), <em>there</em> ([PRON]() 468, [ADV]() 267, [X]() 1), <em>then</em> ([ADV]() 263, [ADP]() 5, [SCONJ]() 2, [PRON]() 1, [DET]() 1), <em>only</em> ([ADV]() 255, [ADJ]() 68), <em>here</em> ([ADV]() 242, [VERB]() 1), <em>as</em> ([ADP]() 472, [SCONJ]() 425, [ADV]() 234, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: <em>so</em> ([ADV]() 571, [SCONJ]() 73, [X]() 2, [ADJ]() 2, [VERB]() 1), <em>very</em> ([ADV]() 446, [ADJ]() 5), <em>when</em> ([ADV]() 445, [X]() 1), <em>how</em> ([ADV]() 311, [NOUN]() 1), <em>even</em> ([ADV]() 268, [VERB]() 2), <em>there</em> ([PRON]() 466, [ADV]() 264, [X]() 1), <em>then</em> ([ADV]() 262, [ADP]() 5, [SCONJ]() 2, [PRON]() 1, [DET]() 1), <em>only</em> ([ADV]() 254, [ADJ]() 68), <em>here</em> ([ADV]() 238, [VERB]() 1), <em>as</em> ([ADP]() 450, [SCONJ]() 421, [ADV]() 234, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>so</em> ([ADV]() 464, [SCONJ]() 75, [ADJ]() 2), <em>when</em> ([ADV]() 356, [X]() 1), <em>very</em> ([ADV]() 398, [ADJ]() 5), <em>how</em> ([ADV]() 224, [NOUN]() 1), <em>even</em> ([ADV]() 238, [VERB]() 1), <em>there</em> ([PRON]() 313, [ADV]() 261, [X]() 1), <em>then</em> ([ADV]() 219, [ADP]() 5, [SCONJ]() 2, [DET]() 1, [PRON]() 1), <em>only</em> ([ADV]() 242, [ADJ]() 66), <em>here</em> ([ADV]() 181, [VERB]() 1), <em>as</em> ([ADP]() 424, [SCONJ]() 367, [ADV]() 222, [AUX]() 1)
+The 10 most frequent ambiguous types:  <em>so</em> ([ADV]() 458, [SCONJ]() 73, [ADJ]() 2), <em>very</em> ([ADV]() 397, [ADJ]() 5), <em>when</em> ([ADV]() 345, [X]() 1), <em>how</em> ([ADV]() 221, [NOUN]() 1), <em>even</em> ([ADV]() 237, [VERB]() 1), <em>there</em> ([PRON]() 312, [ADV]() 258, [X]() 1), <em>then</em> ([ADV]() 218, [ADP]() 5, [SCONJ]() 2, [DET]() 1, [PRON]() 1), <em>only</em> ([ADV]() 241, [ADJ]() 66), <em>here</em> ([ADV]() 178, [VERB]() 1), <em>as</em> ([ADP]() 403, [SCONJ]() 363, [ADV]() 222, [AUX]() 1)
 
 
 * <em>so</em>
-  * [ADV]() 464: <em>I have a cat named GummiBear , <b>so</b> no , R2D2 is not a stupid name .</em>
-  * [SCONJ]() 75: <em>I have a couple of questions <b>so</b> I can wrap up the LOI :</em>
+  * [ADV]() 458: <em>I have a cat named GummiBear , <b>so</b> no , R2D2 is not a stupid name .</em>
+  * [SCONJ]() 73: <em>I have a couple of questions <b>so</b> I can wrap up the LOI :</em>
   * [ADJ]() 2: <em>Last time I went however , my beer was warm and the service was <b>so</b> - <b>so</b> .</em>
-* <em>when</em>
-  * [ADV]() 356: <em>But sometimes , of course , <b>when</b> Z happens after X it is because of X .</em>
-  * [X]() 1: <em>They also have the best tea I ever had , not at all like the junk you get at the grocery stores , I stock up <b>when</b> ever there because they are closed in the winter .</em>
 * <em>very</em>
-  * [ADV]() 398: <em>This year it is <b>very</b> easy to make your contribution .</em>
+  * [ADV]() 397: <em>This year it is <b>very</b> easy to make your contribution .</em>
   * [ADJ]() 5: <em>It is all about this <b>very</b> subject ... bars and food .</em>
+* <em>when</em>
+  * [ADV]() 345: <em>But sometimes , of course , <b>when</b> Z happens after X it is because of X .</em>
+  * [X]() 1: <em>They also have the best tea I ever had , not at all like the junk you get at the grocery stores , I stock up <b>when</b> ever there because they are closed in the winter .</em>
 * <em>how</em>
-  * [ADV]() 224: <em>Please let me know <b>how</b> you would like to proceed .</em>
+  * [ADV]() 221: <em>Please let me know <b>how</b> you would like to proceed .</em>
   * [NOUN]() 1: <em>Soldiers with vital training and know - <b>how</b> are refusing to re-enlist .</em>
 * <em>even</em>
-  * [ADV]() 238: <em>Now , people wonder if Google can <b>even</b> survive .</em>
+  * [ADV]() 237: <em>Now , people wonder if Google can <b>even</b> survive .</em>
   * [VERB]() 1: <em>The overwhelming majority of Muslims in Kashmir would be happy with such an outcome , except for the tiny jihadi segment patronized by the U.S. State Department and the Pakistan Army , which would like to <b>even</b> the score with India for their catastrophic defeat in Bangladesh in 1971 .</em>
 * <em>there</em>
-  * [PRON]() 313: <em>Read the entire article ; <b>there</b> 's a punchline , too .</em>
-  * [ADV]() 261: <em>I look forward to seeing you all <b>there</b> .</em>
+  * [PRON]() 312: <em>Read the entire article ; <b>there</b> 's a punchline , too .</em>
+  * [ADV]() 258: <em>I look forward to seeing you all <b>there</b> .</em>
   * [X]() 1: <em>So they see the pictures flicker slower and <b>there</b> for it seems choppy to them .</em>
 * <em>then</em>
-  * [ADV]() 219: <em>If you r in the USA and venture into Cuba <b>then</b> u need a passport</em>
+  * [ADV]() 218: <em>If you r in the USA and venture into Cuba <b>then</b> u need a passport</em>
   * [ADP]() 5: <em>Skin will be darker but lighter <b>then</b> the Silkies .</em>
   * [SCONJ]() 2: <em>Enjoy those 2 days it better <b>then</b> not going at all .!</em>
   * [DET]() 1: <em>Nobody likes the Parisians , even <b>then</b> Parisians do n't like Parisians .</em>
   * [PRON]() 1: <em>I called the next morning to let <b>then</b> know my wife would be driving in .</em>
 * <em>only</em>
-  * [ADV]() 242: <em>These people <b>only</b> carry the very best American blown glass .</em>
+  * [ADV]() 241: <em>These people <b>only</b> carry the very best American blown glass .</em>
   * [ADJ]() 66: <em>Blooming onion , the <b>only</b> reason to visit this restaurant .</em>
 * <em>here</em>
-  * [ADV]() 181: <em>Brokering over <b>here</b> has been pretty rewarding .</em>
+  * [ADV]() 178: <em>Brokering over <b>here</b> has been pretty rewarding .</em>
   * [VERB]() 1: <em>The only problem that I had in 2 years of living there was that the walls are pretty thin , sometimes I could <b>here</b> my neighbors conversations .</em>
 * <em>as</em>
-  * [ADP]() 424: <em>The hymn was sung at my first inaugural church service <b>as</b> governor .</em>
-  * [SCONJ]() 367: <em>I -- which I try to do , as best <b>as</b> I possibly can .</em>
+  * [ADP]() 403: <em>The hymn was sung at my first inaugural church service <b>as</b> governor .</em>
+  * [SCONJ]() 363: <em>I -- which I try to do , as best <b>as</b> I possibly can .</em>
   * [ADV]() 222: <em>I -- which I try to do , <b>as</b> best as I possibly can .</em>
   * [AUX]() 1: <em>I posted what the owner <b>as</b> said in paragraph 2 & 3 , that is not me to clarify .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.173797).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.173735).
 
 The 1st highest number of forms (1) was observed with the lemma “$ometime$”: <em>$ometime$</em>.
 
@@ -64,34 +64,34 @@ The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</
 
 The 3rd highest number of forms (1) was observed with the lemma “a.k.a.”: <em>a.k.a.</em>.
 
-`ADV` occurs with 5 features: [en-feat/PronType]() (1842; 14% instances), [en-feat/Degree]() (744; 6% instances), [en-feat/NumType]() (78; 1% instances), [en-feat/Number]() (1; 0% instances), [en-feat/VerbForm]() (1; 0% instances)
+`ADV` occurs with 4 features: [en-feat/PronType]() (1802; 14% instances), [en-feat/Degree]() (739; 6% instances), [en-feat/NumType]() (77; 1% instances), [en-feat/Number]() (1; 0% instances)
 
-`ADV` occurs with 10 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumType=Mult`, `NumType=Ord`, `Number=Sing`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`, `VerbForm=Inf`
+`ADV` occurs with 9 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumType=Mult`, `NumType=Ord`, `Number=Sing`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`
 
-`ADV` occurs with 11 feature combinations.
-The most frequent feature combination is `_` (10374 tokens).
+`ADV` occurs with 10 feature combinations.
+The most frequent feature combination is `_` (10255 tokens).
 Examples: <em>so, just, very, also, now, even, only, as, back, really</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 32 different relations: [en-dep/advmod]() (10946; 84% instances), [en-dep/mark]() (446; 3% instances), [en-dep/neg]() (375; 3% instances), [en-dep/root]() (250; 2% instances), [en-dep/nmod]() (196; 2% instances), [en-dep/mwe]() (170; 1% instances), [en-dep/conj]() (135; 1% instances), [en-dep/case]() (112; 1% instances), [en-dep/cc]() (70; 1% instances), [en-dep/advcl]() (65; 0% instances), [en-dep/ccomp]() (37; 0% instances), [en-dep/compound]() (29; 0% instances), [en-dep/cc:preconj]() (25; 0% instances), [en-dep/xcomp]() (24; 0% instances), [en-dep/parataxis]() (23; 0% instances), [en-dep/acl:relcl]() (20; 0% instances), [en-dep/compound:prt]() (17; 0% instances), [en-dep/discourse]() (17; 0% instances), [en-dep/dobj]() (14; 0% instances), [en-dep/acl]() (9; 0% instances), [en-dep/amod]() (9; 0% instances), [en-dep/remnant]() (9; 0% instances), [en-dep/expl]() (7; 0% instances), [en-dep/aux]() (6; 0% instances), [en-dep/nmod:npmod]() (6; 0% instances), [en-dep/nsubj]() (6; 0% instances), [en-dep/nummod]() (6; 0% instances), [en-dep/det]() (3; 0% instances), [en-dep/nmod:tmod]() (3; 0% instances), [en-dep/goeswith]() (2; 0% instances), [en-dep/csubj]() (1; 0% instances), [en-dep/dep]() (1; 0% instances)
+`ADV` nodes are attached to their parents using 32 different relations: [en-dep/advmod]() (10808; 84% instances), [en-dep/mark]() (435; 3% instances), [en-dep/neg]() (369; 3% instances), [en-dep/root]() (249; 2% instances), [en-dep/nmod]() (194; 2% instances), [en-dep/mwe]() (168; 1% instances), [en-dep/conj]() (134; 1% instances), [en-dep/case]() (111; 1% instances), [en-dep/cc]() (70; 1% instances), [en-dep/advcl]() (64; 0% instances), [en-dep/ccomp]() (37; 0% instances), [en-dep/compound]() (28; 0% instances), [en-dep/cc:preconj]() (25; 0% instances), [en-dep/xcomp]() (24; 0% instances), [en-dep/parataxis]() (23; 0% instances), [en-dep/acl:relcl]() (19; 0% instances), [en-dep/compound:prt]() (17; 0% instances), [en-dep/discourse]() (17; 0% instances), [en-dep/dobj]() (14; 0% instances), [en-dep/amod]() (9; 0% instances), [en-dep/remnant]() (9; 0% instances), [en-dep/acl]() (8; 0% instances), [en-dep/expl]() (7; 0% instances), [en-dep/aux]() (6; 0% instances), [en-dep/nmod:npmod]() (6; 0% instances), [en-dep/nsubj]() (6; 0% instances), [en-dep/nummod]() (6; 0% instances), [en-dep/det]() (3; 0% instances), [en-dep/nmod:tmod]() (3; 0% instances), [en-dep/goeswith]() (2; 0% instances), [en-dep/csubj]() (1; 0% instances), [en-dep/dep]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 17 different parts of speech: [VERB]() (7439; 57% instances), [ADJ]() (2299; 18% instances), [NOUN]() (1420; 11% instances), [ADV]() (1084; 8% instances), [ROOT]() (250; 2% instances), [NUM]() (190; 1% instances), [PROPN]() (154; 1% instances), [PRON]() (72; 1% instances), [DET]() (34; 0% instances), [SYM]() (29; 0% instances), [AUX]() (22; 0% instances), [PART]() (16; 0% instances), [SCONJ]() (12; 0% instances), [ADP]() (8; 0% instances), [INTJ]() (7; 0% instances), [CONJ]() (2; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `ADV` nodes belong to 17 different parts of speech: [VERB]() (7339; 57% instances), [ADJ]() (2273; 18% instances), [NOUN]() (1369; 11% instances), [ADV]() (1073; 8% instances), [ROOT]() (249; 2% instances), [NUM]() (187; 1% instances), [PROPN]() (153; 1% instances), [PRON]() (101; 1% instances), [DET]() (34; 0% instances), [SYM]() (28; 0% instances), [AUX]() (22; 0% instances), [PART]() (15; 0% instances), [SCONJ]() (12; 0% instances), [ADP]() (8; 0% instances), [INTJ]() (7; 0% instances), [CONJ]() (2; 0% instances), [PUNCT]() (1; 0% instances)
 
-10959 (84%) `ADV` nodes are leaves.
+10813 (84%) `ADV` nodes are leaves.
 
-1441 (11%) `ADV` nodes have one child.
+1424 (11%) `ADV` nodes have one child.
 
-298 (2%) `ADV` nodes have two children.
+297 (2%) `ADV` nodes have two children.
 
-341 (3%) `ADV` nodes have three or more children.
+339 (3%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 11.
 
-Children of `ADV` nodes are attached using 36 different relations: [en-dep/advmod]() (664; 19% instances), [en-dep/punct]() (381; 11% instances), [en-dep/nmod]() (349; 10% instances), [en-dep/cop]() (286; 8% instances), [en-dep/nsubj]() (286; 8% instances), [en-dep/mwe]() (235; 7% instances), [en-dep/case]() (203; 6% instances), [en-dep/cc]() (164; 5% instances), [en-dep/advcl]() (162; 5% instances), [en-dep/nmod:npmod]() (141; 4% instances), [en-dep/conj]() (136; 4% instances), [en-dep/neg]() (132; 4% instances), [en-dep/mark]() (85; 2% instances), [en-dep/aux]() (60; 2% instances), [en-dep/acl:relcl]() (36; 1% instances), [en-dep/nmod:tmod]() (31; 1% instances), [en-dep/parataxis]() (22; 1% instances), [en-dep/discourse]() (19; 1% instances), [en-dep/goeswith]() (19; 1% instances), [en-dep/ccomp]() (18; 1% instances), [en-dep/appos]() (13; 0% instances), [en-dep/det]() (8; 0% instances), [en-dep/remnant]() (8; 0% instances), [en-dep/vocative]() (6; 0% instances), [en-dep/amod]() (5; 0% instances), [en-dep/cc:preconj]() (5; 0% instances), [en-dep/xcomp]() (5; 0% instances), [en-dep/dobj]() (4; 0% instances), [en-dep/auxpass]() (3; 0% instances), [en-dep/nsubjpass]() (3; 0% instances), [en-dep/csubj]() (2; 0% instances), [en-dep/acl]() (1; 0% instances), [en-dep/compound]() (1; 0% instances), [en-dep/compound:prt]() (1; 0% instances), [en-dep/list]() (1; 0% instances), [en-dep/nummod]() (1; 0% instances)
+Children of `ADV` nodes are attached using 36 different relations: [en-dep/advmod]() (656; 19% instances), [en-dep/punct]() (376; 11% instances), [en-dep/nmod]() (344; 10% instances), [en-dep/cop]() (285; 8% instances), [en-dep/nsubj]() (284; 8% instances), [en-dep/mwe]() (233; 7% instances), [en-dep/case]() (201; 6% instances), [en-dep/cc]() (164; 5% instances), [en-dep/advcl]() (162; 5% instances), [en-dep/nmod:npmod]() (140; 4% instances), [en-dep/conj]() (136; 4% instances), [en-dep/neg]() (131; 4% instances), [en-dep/mark]() (84; 2% instances), [en-dep/aux]() (59; 2% instances), [en-dep/acl:relcl]() (36; 1% instances), [en-dep/nmod:tmod]() (31; 1% instances), [en-dep/parataxis]() (21; 1% instances), [en-dep/discourse]() (19; 1% instances), [en-dep/ccomp]() (18; 1% instances), [en-dep/goeswith]() (18; 1% instances), [en-dep/appos]() (12; 0% instances), [en-dep/det]() (8; 0% instances), [en-dep/remnant]() (8; 0% instances), [en-dep/vocative]() (6; 0% instances), [en-dep/amod]() (5; 0% instances), [en-dep/cc:preconj]() (5; 0% instances), [en-dep/xcomp]() (5; 0% instances), [en-dep/auxpass]() (3; 0% instances), [en-dep/dobj]() (3; 0% instances), [en-dep/nsubjpass]() (3; 0% instances), [en-dep/csubj]() (2; 0% instances), [en-dep/acl]() (1; 0% instances), [en-dep/compound]() (1; 0% instances), [en-dep/compound:prt]() (1; 0% instances), [en-dep/list]() (1; 0% instances), [en-dep/nummod]() (1; 0% instances)
 
-Children of `ADV` nodes belong to 17 different parts of speech: [ADV]() (1084; 31% instances), [NOUN]() (515; 15% instances), [VERB]() (507; 15% instances), [PUNCT]() (381; 11% instances), [PRON]() (181; 5% instances), [ADP]() (177; 5% instances), [CONJ]() (165; 5% instances), [PROPN]() (105; 3% instances), [AUX]() (80; 2% instances), [SCONJ]() (75; 2% instances), [PART]() (74; 2% instances), [ADJ]() (61; 2% instances), [DET]() (28; 1% instances), [X]() (22; 1% instances), [INTJ]() (16; 0% instances), [NUM]() (14; 0% instances), [SYM]() (11; 0% instances)
+Children of `ADV` nodes belong to 17 different parts of speech: [ADV]() (1073; 31% instances), [NOUN]() (505; 15% instances), [VERB]() (505; 15% instances), [PUNCT]() (376; 11% instances), [PRON]() (182; 5% instances), [ADP]() (177; 5% instances), [CONJ]() (165; 5% instances), [PROPN]() (103; 3% instances), [AUX]() (79; 2% instances), [SCONJ]() (74; 2% instances), [PART]() (73; 2% instances), [ADJ]() (61; 2% instances), [DET]() (28; 1% instances), [X]() (21; 1% instances), [INTJ]() (16; 0% instances), [NUM]() (14; 0% instances), [SYM]() (11; 0% instances)
 
 
 
@@ -106,16 +106,16 @@ The 10 most frequent `ADV` lemmas: <em>_</em>
 
 The 10 most frequent `ADV` types:  <em>_</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
-The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
 
 * <em>_</em>
-  * [NOUN]() 15986: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ <b>_</b> _</em>
+  * [NOUN]() 15635: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ _ _</em>
   * [VERB]() 15080: <em>_ <b>_</b> _ _ _ _ <b>_</b> _ _ _ _ <b>_</b> _ <b>_</b> _ _</em>
-  * [DET]() 10562: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
-  * [PRON]() 9758: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [PRON]() 10618: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _</em>
+  * [DET]() 10057: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
   * [PUNCT]() 9580: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b></em>
   * [ADP]() 8546: <em>_ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _</em>
   * [ADJ]() 5857: <em>_ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
@@ -123,7 +123,7 @@ The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 1508
   * [AUX]() 4533: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _</em>
   * [PART]() 3531: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _</em>
   * [CONJ]() 3198: <em>_ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
-  * [SCONJ]() 2520: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * [SCONJ]() 2516: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
   * [PROPN]() 1795: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _</em>
   * [NUM]() 844: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
   * [INTJ]() 80: <em>_ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
@@ -143,7 +143,7 @@ The 1st highest number of forms (1) was observed with the lemma “_”: <em>_</
 
 `ADV` nodes are attached to their parents using 25 different relations: [en-dep/advmod]() (4985; 87% instances), [en-dep/mark]() (165; 3% instances), [en-dep/neg]() (151; 3% instances), [en-dep/mwe]() (74; 1% instances), [en-dep/conj]() (60; 1% instances), [en-dep/nmod]() (48; 1% instances), [en-dep/case]() (41; 1% instances), [en-dep/advcl]() (31; 1% instances), [en-dep/root]() (31; 1% instances), [en-dep/ccomp]() (23; 0% instances), [en-dep/compound:prt]() (21; 0% instances), [en-dep/cc]() (15; 0% instances), [en-dep/amod]() (13; 0% instances), [en-dep/xcomp]() (8; 0% instances), [en-dep/cc:preconj]() (7; 0% instances), [en-dep/discourse]() (7; 0% instances), [en-dep/acl:relcl]() (6; 0% instances), [en-dep/nsubj]() (4; 0% instances), [en-dep/parataxis]() (4; 0% instances), [en-dep/nmod:tmod]() (3; 0% instances), [en-dep/csubj]() (2; 0% instances), [en-dep/dobj]() (2; 0% instances), [en-dep/acl]() (1; 0% instances), [en-dep/compound]() (1; 0% instances), [en-dep/nmod:npmod]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 15 different parts of speech: [VERB]() (3188; 56% instances), [ADJ]() (1425; 25% instances), [NOUN]() (520; 9% instances), [ADV]() (368; 6% instances), [PROPN]() (59; 1% instances), [NUM]() (54; 1% instances), [ROOT]() (31; 1% instances), [PRON]() (20; 0% instances), [AUX]() (11; 0% instances), [DET]() (11; 0% instances), [ADP]() (8; 0% instances), [SYM]() (4; 0% instances), [SCONJ]() (2; 0% instances), [X]() (2; 0% instances), [PART]() (1; 0% instances)
+Parents of `ADV` nodes belong to 15 different parts of speech: [VERB]() (3188; 56% instances), [ADJ]() (1425; 25% instances), [NOUN]() (514; 9% instances), [ADV]() (368; 6% instances), [PROPN]() (59; 1% instances), [NUM]() (54; 1% instances), [ROOT]() (31; 1% instances), [PRON]() (30; 1% instances), [AUX]() (11; 0% instances), [ADP]() (8; 0% instances), [DET]() (7; 0% instances), [SYM]() (4; 0% instances), [SCONJ]() (2; 0% instances), [X]() (2; 0% instances), [PART]() (1; 0% instances)
 
 4945 (87%) `ADV` nodes are leaves.
 
@@ -157,7 +157,7 @@ The highest child degree of a `ADV` node is 11.
 
 Children of `ADV` nodes are attached using 31 different relations: [en-dep/advmod]() (238; 21% instances), [en-dep/nmod]() (142; 12% instances), [en-dep/mwe]() (125; 11% instances), [en-dep/cop]() (79; 7% instances), [en-dep/nsubj]() (78; 7% instances), [en-dep/punct]() (76; 7% instances), [en-dep/advcl]() (66; 6% instances), [en-dep/nmod:npmod]() (66; 6% instances), [en-dep/case]() (58; 5% instances), [en-dep/neg]() (45; 4% instances), [en-dep/cc]() (43; 4% instances), [en-dep/conj]() (42; 4% instances), [en-dep/mark]() (24; 2% instances), [en-dep/det]() (16; 1% instances), [en-dep/aux]() (9; 1% instances), [en-dep/nmod:tmod]() (8; 1% instances), [en-dep/goeswith]() (6; 1% instances), [en-dep/parataxis]() (6; 1% instances), [en-dep/acl:relcl]() (4; 0% instances), [en-dep/ccomp]() (4; 0% instances), [en-dep/xcomp]() (4; 0% instances), [en-dep/discourse]() (3; 0% instances), [en-dep/nsubjpass]() (3; 0% instances), [en-dep/acl]() (2; 0% instances), [en-dep/auxpass]() (2; 0% instances), [en-dep/csubj]() (1; 0% instances), [en-dep/det:predet]() (1; 0% instances), [en-dep/dobj]() (1; 0% instances), [en-dep/expl]() (1; 0% instances), [en-dep/nmod:poss]() (1; 0% instances), [en-dep/nummod]() (1; 0% instances)
 
-Children of `ADV` nodes belong to 16 different parts of speech: [ADV]() (368; 32% instances), [NOUN]() (156; 14% instances), [VERB]() (143; 12% instances), [DET]() (103; 9% instances), [ADP]() (102; 9% instances), [PUNCT]() (76; 7% instances), [PRON]() (49; 4% instances), [CONJ]() (44; 4% instances), [PART]() (31; 3% instances), [ADJ]() (29; 3% instances), [SCONJ]() (19; 2% instances), [AUX]() (15; 1% instances), [PROPN]() (9; 1% instances), [X]() (6; 1% instances), [NUM]() (3; 0% instances), [INTJ]() (2; 0% instances)
+Children of `ADV` nodes belong to 16 different parts of speech: [ADV]() (368; 32% instances), [NOUN]() (153; 13% instances), [VERB]() (143; 12% instances), [ADP]() (102; 9% instances), [DET]() (96; 8% instances), [PUNCT]() (76; 7% instances), [PRON]() (59; 5% instances), [CONJ]() (44; 4% instances), [PART]() (31; 3% instances), [ADJ]() (29; 3% instances), [SCONJ]() (19; 2% instances), [AUX]() (15; 1% instances), [PROPN]() (9; 1% instances), [X]() (6; 1% instances), [NUM]() (3; 0% instances), [INTJ]() (2; 0% instances)
 
 
 
@@ -174,7 +174,7 @@ The 10 most frequent `ADV` types:  <em>out, so, up, then, back, now, very, just,
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14939, [VERB]() 11076, [PUNCT]() 10025, [ADP]() 8281, [DET]() 7865, [PRON]() 7793, [ADJ]() 5305, [ADV]() 4610, [AUX]() 3168, [PROPN]() 2792, [CONJ]() 2535, [PART]() 2131, [SCONJ]() 1512, [NUM]() 581, [INTJ]() 159, [X]() 43, [SYM]() 6)
 
-The 10 most frequent ambiguous types:  <em>out</em> ([ADV]() 195, [ADP]() 33), <em>so</em> ([ADV]() 140, [SCONJ]() 6), <em>up</em> ([ADV]() 166, [ADP]() 22), <em>back</em> ([ADV]() 99, [NOUN]() 22, [VERB]() 1, [ADJ]() 1), <em>very</em> ([ADV]() 92, [ADJ]() 8), <em>just</em> ([ADV]() 80, [ADJ]() 2), <em>there</em> ([PRON]() 121, [ADV]() 81), <em>only</em> ([ADV]() 79, [ADJ]() 16, [CONJ]() 3), <em>as</em> ([ADP]() 219, [SCONJ]() 176, [ADV]() 73, [CONJ]() 8), <em>down</em> ([ADV]() 77, [ADP]() 16)
+The 10 most frequent ambiguous types:  <em>out</em> ([ADV]() 195, [ADP]() 33), <em>so</em> ([ADV]() 140, [SCONJ]() 6), <em>up</em> ([ADV]() 166, [ADP]() 22), <em>back</em> ([ADV]() 99, [NOUN]() 22, [ADJ]() 1, [VERB]() 1), <em>very</em> ([ADV]() 92, [ADJ]() 8), <em>just</em> ([ADV]() 80, [ADJ]() 2), <em>there</em> ([PRON]() 121, [ADV]() 81), <em>only</em> ([ADV]() 79, [ADJ]() 16, [CONJ]() 3), <em>as</em> ([ADP]() 219, [SCONJ]() 176, [ADV]() 73, [CONJ]() 8), <em>down</em> ([ADV]() 77, [ADP]() 16)
 
 
 * <em>out</em>
@@ -189,8 +189,8 @@ The 10 most frequent ambiguous types:  <em>out</em> ([ADV]() 195, [ADP]() 33), <
 * <em>back</em>
   * [ADV]() 99: <em>He sat there dumbly in his seat , looking <b>back</b> at Stillman .</em>
   * [NOUN]() 22: <em>Harry left through the <b>back</b> door .</em>
-  * [VERB]() 1: <em>Harry , trying to say Shh ! and look comforting at the same time , ushered Dobby <b>back</b> onto the bed where he sat hiccoughing , looking like a large and very ugly doll .</em>
   * [ADJ]() 1: <em>It was on a <b>back</b> water surrounded by scrub and forest , with a pretty border of smelly mud on one side , and on the three others inclosed by a crazy fence of rushes . A neglected gap was all the gate it had ,</em>
+  * [VERB]() 1: <em>Harry , trying to say Shh ! and look comforting at the same time , ushered Dobby <b>back</b> onto the bed where he sat hiccoughing , looking like a large and very ugly doll .</em>
 * <em>very</em>
   * [ADV]() 92: <em>I had to set about it the <b>very</b> next day .</em>
   * [ADJ]() 8: <em>The air , the <b>very</b> air , is thought-nourishing in Jerusalem , the Sages themselves said so .</em>

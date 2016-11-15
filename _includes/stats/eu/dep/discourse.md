@@ -52,23 +52,17 @@ The following 12 pairs of parts of speech are connected with `discourse`: [eu-po
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 11 discourse	color:blue
-1	Baina	baina	CONJ	_	_	4	cc	_	_
-2	interes	interes	NOUN	_	_	4	nsubj	_	_
-3	handiak	handi	ADJ	_	Case=Abs|Definite=Def|Number=Plur	2	amod	_	_
-4	daude	egon	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Plur|Person[abs]=3	0	root	_	_
-5	hori	hori	DET	_	Case=Abs|Definite=Def|Number=Sing	6	nsubj	_	_
-6	hala	hala	ADV	_	_	4	advcl	_	_
-7	izan	izan	VERB	_	VerbForm=Inf	6	cop	_	_
-8	ez	ez	PART	_	Negative=Neg	7	neg	_	_
-9	dadin	*edin	AUX	_	Mood=Sub|Number[abs]=Sing|Person[abs]=3	7	aux	_	_
-10	,	,	PUNCT	_	_	7	punct	_	_
-11	ezta	ezta	X	_	_	4	discourse	_	_
-12	?	?	PUNCT	_	_	4	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 discourse	color:blue
+1	Ba	_	CONJ	_	_	3	discourse	_	_
+2	ez	ez	PART	_	Negative=Neg	3	neg	_	_
+3	da	izan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	0	root	_	_
+4	hori	hori	DET	_	Case=Abs|Definite=Def|Number=Sing	3	nsubj	_	_
+5	ez	ez	PART	_	Negative=Neg	3	discourse	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

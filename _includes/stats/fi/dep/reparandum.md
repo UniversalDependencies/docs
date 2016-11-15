@@ -35,6 +35,44 @@ The following 7 pairs of parts of speech are connected with `reparandum`: [fi-po
 
 
 ~~~ conllu
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 25 24 reparandum	color:blue
+1	Niin	niin	PART	Pcle	_	5	advmod	_	_
+2	tää	tämä	DET	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	4	det	_	_
+3	feminismi	feminismi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	goeswith	_	Alt=goeswith
+4	sana	sana	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	nsubj	_	_
+5	tuli	tulla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	tuli	tulla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+7	semmoseen	semmoinen	DET	A,Dem,Sg,Ill	Case=Ill|Number=Sing|PronType=Dem|Style=Coll	8	amod	_	Alt=DET
+8	aikaan	aika	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	6	nmod	_	_
+9	kun	kun	SCONJ	Pcle,CS	_	14	mark	_	_
+10	kun	kun	SCONJ	Pcle,CS	_	9	conj	_	_
+11	taas	taas	PART	Pcle	_	14	advmod	_	_
+12	esimes	esimerkiksi	ADV	Adv	Style=Coll	13	advmod	_	_
+13	Usassa	usa	PROPN	N,Prop,Sg,Ine	Case=Ine|Number=Sing	14	nmod	_	_
+14	oli	olla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	_
+15	tää	tämä	DET	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	17	det	_	_
+16	radikaali	radikaali	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	17	amod	_	_
+17	feminismiliike	feminismiliike	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	14	nsubj	_	_
+18	ja	ja	CONJ	Pcle,CC	_	14	cc	_	_
+19	se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	21	dobj	_	_
+20	niinku	niinkuin	PART	Pcle	Style=Coll	21	advmod	_	_
+21	miellettiin	mieltää	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	14	conj	_	_
+22	tämmösenä	tämmöinen	DET	A,Dem,Sg,Ess	Case=Ess|Number=Sing|PronType=Dem|Style=Coll	27	amod	_	Alt=DET
+23	hyvin	hyvin	ADV	Adv	_	24	advmod	_	_
+24	radik-	radik-	X	Unknown	_	25	reparandum	_	Alt=25_reparandum|Missed-Rel=attr
+25	radikaalina	radikaali	ADJ	A,Sg,Ess	Case=Ess|Number=Sing	27	amod	_	_
+26	radikaalina	radikaali	ADJ	A,Sg,Ess	Case=Ess|Number=Sing	25	conj	_	_
+27	käsitteenä	käsite	NOUN	N,Sg,Ess	Case=Ess|Number=Sing	21	nmod	_	_
+28	.	.	PUNCT	Pun	_	27	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 57	bgColor:blue
 # visual-style 57	fgColor:white
 # visual-style 59	bgColor:blue
@@ -108,44 +146,6 @@ The following 7 pairs of parts of speech are connected with `reparandum`: [fi-po
 66	puoleej	puoli	NUM	Num,Card,Sg,Ill	Case=Ill|Number=Sing|NumType=Card|Style=Coll	63	nmod	_	_
 67	ja	ja	CONJ	Pcle,CC	_	56	cc	_	_
 68	.	.	PUNCT	Pun	_	67	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 25 24 reparandum	color:blue
-1	Niin	niin	PART	Pcle	_	5	advmod	_	_
-2	tää	tämä	DET	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	4	det	_	_
-3	feminismi	feminismi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	goeswith	_	Alt=goeswith
-4	sana	sana	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	nsubj	_	_
-5	tuli	tulla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-6	tuli	tulla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
-7	semmoseen	semmoinen	DET	A,Dem,Sg,Ill	Case=Ill|Number=Sing|PronType=Dem|Style=Coll	8	amod	_	Alt=DET
-8	aikaan	aika	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	6	nmod	_	_
-9	kun	kun	SCONJ	Pcle,CS	_	14	mark	_	_
-10	kun	kun	SCONJ	Pcle,CS	_	9	conj	_	_
-11	taas	taas	PART	Pcle	_	14	advmod	_	_
-12	esimes	esimerkiksi	ADV	Adv	Style=Coll	13	advmod	_	_
-13	Usassa	usa	PROPN	N,Prop,Sg,Ine	Case=Ine|Number=Sing	14	nmod	_	_
-14	oli	olla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	_
-15	tää	tämä	DET	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	17	det	_	_
-16	radikaali	radikaali	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	17	amod	_	_
-17	feminismiliike	feminismiliike	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	14	nsubj	_	_
-18	ja	ja	CONJ	Pcle,CC	_	14	cc	_	_
-19	se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	21	dobj	_	_
-20	niinku	niinkuin	PART	Pcle	Style=Coll	21	advmod	_	_
-21	miellettiin	mieltää	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	14	conj	_	_
-22	tämmösenä	tämmöinen	DET	A,Dem,Sg,Ess	Case=Ess|Number=Sing|PronType=Dem|Style=Coll	27	amod	_	Alt=DET
-23	hyvin	hyvin	ADV	Adv	_	24	advmod	_	_
-24	radik-	radik-	X	Unknown	_	25	reparandum	_	Alt=25_reparandum|Missed-Rel=attr
-25	radikaalina	radikaali	ADJ	A,Sg,Ess	Case=Ess|Number=Sing	27	amod	_	_
-26	radikaalina	radikaali	ADJ	A,Sg,Ess	Case=Ess|Number=Sing	25	conj	_	_
-27	käsitteenä	käsite	NOUN	N,Sg,Ess	Case=Ess|Number=Sing	21	nmod	_	_
-28	.	.	PUNCT	Pun	_	27	punct	_	_
 
 ~~~
 

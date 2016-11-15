@@ -45,7 +45,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 15 [es-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (15; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (15; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (14; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (10; 67%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (15; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (15; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (14; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (10; 67%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>lo, le, Les</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>lo, Les, le</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>los, les</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>la</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>las</em></td><td></td></tr>

@@ -81,13 +81,13 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><th>Paradigm <i>هُوَ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td>أنا, انا</td><td>ني</td><td>ي</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td>أنت</td><td>ك</td><td>ك</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هو</td><td>ه</td><td>ه, بلاده, زنزانته, وغربه, مستقبله, إدانته, استعداداته, تجهيزه, لاراضيه, طائرته, والده, حكومته, انتشاره</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هو</td><td>ه</td><td>ه, زنزانته, استعداداته, بلاده, والده, طائرته, لاراضيه, تجهيزه, وغربه, مستقبله, انتشاره, إدانته, حكومته</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هما</td><td>هما</td><td>هما</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td>نحن</td><td>نا</td><td>نا, لمساعدتنا</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td>انتم, أنتم</td><td>كم</td><td>كم</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هم</td><td>هم</td><td>هم, شفائهم, استبعادهم, بهم, بأنفسهم, لهم, بلادهم</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هم</td><td>هم</td><td>هم, شفائهم, بهم, بأنفسهم, استبعادهم, بلادهم, لهم</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td></td><td></td><td>ك</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هي, هى, وهي</td><td>ها</td><td>ها, بضمانها, تجارتها, مواجهتها, مستشفياتها, نهايتها, إليها, بفقدانها, تخصيصها, أعضائها, تجميدها, أهدافها, بهويتها</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هي, هى, وهي</td><td>ها</td><td>ها, بضمانها, مواجهتها, أهدافها, تجميدها, تخصيصها, نهايتها, بهويتها, بفقدانها, مستشفياتها, أعضائها, تجارتها, إليها</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هما</td><td>هما</td><td>هما</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هن</td><td>هن</td><td>هن</td></tr>
 </table>
@@ -153,7 +153,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>هذا, هٰذا</td><td>هذا</td><td>هذا, هٰذا</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td>هٰذان</td><td>هذين</td><td>هذين</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>هؤلاء</td><td>هؤلاء</td><td>هؤلاء, هٰؤلاء</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>هذه, هٰذه</td><td>هذه, هــــذه, هٰذه</td><td>هذه, هٰذه, هـــذه, هذــه</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>هذه, هٰذه</td><td>هذه, هٰذه, هــــذه</td><td>هذه, هٰذه, هذــه, هـــذه</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td>هاتان</td><td></td><td>هاتين</td></tr>
 </table>
 

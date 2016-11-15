@@ -96,13 +96,13 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1949; 78%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1531; 88%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1071; 83%),
-<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (217; 84%),
-<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (185; 82%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (168; 82%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (89; 83%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1745; 77%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1526; 88%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1085; 84%),
+<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (396; 87%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (181; 84%),
+<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (167; 83%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (67; 83%),
 <tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (36; 60%),
 <tt>VERB --[<a href="../dep/mwe.html">mwe</a>]--> VERB</tt> (28; 100%),
 <tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (3; 100%).

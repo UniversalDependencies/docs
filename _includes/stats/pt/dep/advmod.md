@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: [advmod:emph]().
 
-8271 nodes (4%) are attached to their parents as `advmod`.
+8089 nodes (4%) are attached to their parents as `advmod`.
 
-5074 instances of `advmod` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.14822875105791.
+4961 instances of `advmod` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.12226480405489.
 
-The following 92 pairs of parts of speech are connected with `advmod`: [pt-pos/VERB]()-[pt-pos/ADV]() (4081; 49% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (837; 10% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (704; 9% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (478; 6% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (318; 4% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (295; 4% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (201; 2% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (169; 2% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (142; 2% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (135; 2% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (96; 1% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (80; 1% instances), [pt-pos/VERB]()-[pt-pos/DET]() (60; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (59; 1% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (48; 1% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (42; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (35; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (30; 0% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (28; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (27; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (23; 0% instances), [pt-pos/ADV]()-[pt-pos/ADP]() (22; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (19; 0% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (17; 0% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (17; 0% instances), [pt-pos/AUX]()-[pt-pos/ADV]() (16; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (16; 0% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (15; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (14; 0% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (13; 0% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (13; 0% instances), [pt-pos/VERB]()-[pt-pos/INTJ]() (12; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (11; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (11; 0% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (10; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (10; 0% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (10; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (9; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (8; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (8; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (8; 0% instances), [pt-pos/ADJ]()-[pt-pos/SYM]() (7; 0% instances), [pt-pos/NOUN]()-[pt-pos/CONJ]() (7; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (6; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (6; 0% instances), [pt-pos/ADV]()-[pt-pos/DET]() (5; 0% instances), [pt-pos/NUM]()-[pt-pos/ADP]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (5; 0% instances), [pt-pos/ADP]()-[pt-pos/PRON]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/CONJ]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/ADP]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/ADP]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/SYM]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/SYM]()-[pt-pos/SYM]() (3; 0% instances), [pt-pos/ADP]()-[pt-pos/ADP]() (2; 0% instances), [pt-pos/CONJ]()-[pt-pos/ADP]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/PART]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/INTJ]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/CONJ]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/CONJ]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/INTJ]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/X]() (1; 0% instances).
+The following 90 pairs of parts of speech are connected with `advmod`: [pt-pos/VERB]()-[pt-pos/ADV]() (4094; 51% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (837; 10% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (704; 9% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (364; 4% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (318; 4% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (296; 4% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (201; 2% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (169; 2% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (121; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (117; 1% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (97; 1% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (80; 1% instances), [pt-pos/VERB]()-[pt-pos/DET]() (60; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (59; 1% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (48; 1% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (42; 1% instances), [pt-pos/DET]()-[pt-pos/ADV]() (33; 0% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (28; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (25; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (25; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (23; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (18; 0% instances), [pt-pos/ADV]()-[pt-pos/ADP]() (18; 0% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (17; 0% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (17; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (16; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (14; 0% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (13; 0% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (13; 0% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (12; 0% instances), [pt-pos/VERB]()-[pt-pos/INTJ]() (12; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (11; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (10; 0% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (10; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (9; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (9; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (8; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (8; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (8; 0% instances), [pt-pos/ADJ]()-[pt-pos/SYM]() (7; 0% instances), [pt-pos/NOUN]()-[pt-pos/CONJ]() (7; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (6; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (6; 0% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (6; 0% instances), [pt-pos/ADV]()-[pt-pos/DET]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (5; 0% instances), [pt-pos/ADP]()-[pt-pos/PRON]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/CONJ]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/AUX]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/NUM]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/SYM]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/SYM]()-[pt-pos/SYM]() (3; 0% instances), [pt-pos/ADP]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/NUM]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/PART]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/INTJ]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/CONJ]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/CONJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/CONJ]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/INTJ]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -75,6 +75,82 @@ The following 92 pairs of parts of speech are connected with `advmod`: [pt-pos/V
 14	o	o	DET	art|<-sam>|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	sul	sul	NOUN	n|M|S	Gender=Masc|Number=Sing	12	nmod	_	_
 16	.	.	PUNCT	punc	_	3	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+7099 nodes (3%) are attached to their parents as `advmod`.
+
+4888 instances of `advmod` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.08522327088322.
+
+The following 33 pairs of parts of speech are connected with `advmod`: [pt-pos/VERB]()-[pt-pos/ADV]() (4295; 61% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1023; 14% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (800; 11% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (330; 5% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (234; 3% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (100; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (86; 1% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (38; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (29; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (24; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (22; 0% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (20; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (17; 0% instances), [pt-pos/ADV]()-[pt-pos/DET]() (16; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (10; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADV]() (8; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (7; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (6; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (6; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/DET]() (3; 0% instances), [pt-pos/AUX]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/PUNCT]()-[pt-pos/ADV]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 advmod	color:blue
+1	Por	por	ADP	<sam->|PRP|@ADVL>	_	3	case	_	_
+2	o	o	DET	<-sam>|<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	correio	correio	NOUN	<np-def>|N|M|S|@P<	Gender=Masc|Number=Sing	7	nmod	_	_
+4	expresso	expresso	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	3	amod	_	_
+5	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	frete	frete	NOUN	<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	custa	custar	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	próximo	próximo	ADV	ADV|@<ADVL	_	7	advmod	_	MWE:próximo=de
+9	de	de	ADP	PRP|@A<	_	10	case	_	_
+10	US$	US$	NOUN	<np-idf>|N|M|P|@P<	Gender=Masc|Number=Plur	8	nmod	_	_
+11	50	50	NUM	<card>|NUM|M|P|@N<	_	10	nummod	_	_
+12	.	.	PUNCT	PU|@PU	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 advmod	color:blue
+1	Vai	ir	AUX	<aux>|V|PR|3S|IND|@FS-ACC>	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	ter	ter	VERB	<mv>|V|INF|@ICL-AUX<	VerbForm=Inf	11	ccomp	_	_
+3	paridade	paridade	NOUN	<np-idf>|N|F|S|@<ACC	Gender=Fem|Number=Sing	2	dobj	_	_
+4	,	,	PUNCT	PU|@PU	_	2	punct	_	_
+5	já	já	ADV	ADV|@>A	_	8	advmod	_	_
+6	desde	desde	ADP	PRP|@<ADVL	_	8	case	_	_
+7	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	começo	começo	NOUN	<np-def>|N|M|S|@P<	Gender=Masc|Number=Sing	2	nmod	_	_
+9	»	»	PUNCT	PU|@PU	_	11	punct	_	_
+10	,	,	PUNCT	PU|@PU	_	2	punct	_	_
+11	explicou	explicar	VERB	<mv>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	.	.	PUNCT	PU|@PU	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 advmod	color:blue
+1	Sempre	sempre	ADV	ADV|@ADVL>	_	2	advmod	_	_
+2	tivemos	ter	VERB	<mv>|V|PS|1P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	canções	canção	NOUN	<np-idf>|N|F|P|@<ACC	Gender=Fem|Number=Plur	2	dobj	_	_
+4	mais	mais	ADV	<quant>|<KOMP>|ADV|@>A	_	5	advmod	_	_
+5	lentas	lento	ADJ	<COMP>|ADJ|F|P|@N<	Gender=Fem|Number=Plur	3	amod	_	_
+6	.	.	PUNCT	PU|@PU	_	2	punct	_	_
 
 ~~~
 

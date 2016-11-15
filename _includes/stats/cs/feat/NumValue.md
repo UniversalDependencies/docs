@@ -69,7 +69,7 @@ The most frequent other feature values with which `NUM` and `NumValue` co-occurr
 
 10 [cs-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (10; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (10; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (10; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7; 70%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 60%).
+The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (10; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (10; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (10; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7; 70%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 60%).
 
 `ADJ` tokens may have the following values of `NumValue`:
 
@@ -99,7 +99,7 @@ The feature is used with 1 part-of-speech tags: [cs-pos/NUM]() (58; 0% instances
 
 58 [cs-pos/NUM]() tokens (13% of all `NUM` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (58; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (58; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (38; 66%).
+The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (58; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (58; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (38; 66%).
 
 `NUM` tokens may have the following values of `NumValue`:
 

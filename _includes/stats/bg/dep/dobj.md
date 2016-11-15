@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-7530 nodes (5%) are attached to their parents as `dobj`.
+7451 nodes (5%) are attached to their parents as `dobj`.
 
-6054 instances of `dobj` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.76693227091633.
+5980 instances of `dobj` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.76486377667427.
 
-The following 15 pairs of parts of speech are connected with `dobj`: [bg-pos/VERB]()-[bg-pos/NOUN]() (5068; 67% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (1073; 14% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (329; 4% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (279; 4% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (204; 3% instances), [bg-pos/VERB]()-[bg-pos/DET]() (184; 2% instances), [bg-pos/VERB]()-[bg-pos/PUNCT]() (171; 2% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (157; 2% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (41; 1% instances), [bg-pos/PART]()-[bg-pos/NOUN]() (8; 0% instances), [bg-pos/PART]()-[bg-pos/VERB]() (6; 0% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (5; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `dobj`: [bg-pos/VERB]()-[bg-pos/NOUN]() (5019; 67% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (1072; 14% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (312; 4% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (269; 4% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (202; 3% instances), [bg-pos/VERB]()-[bg-pos/DET]() (184; 2% instances), [bg-pos/VERB]()-[bg-pos/PUNCT]() (171; 2% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (157; 2% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (41; 1% instances), [bg-pos/PART]()-[bg-pos/NOUN]() (8; 0% instances), [bg-pos/PART]()-[bg-pos/VERB]() (6; 0% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (5; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>jen</em> ([PART]() 2269, [NOUN]() 2),
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (2) was observed with the lemma “not”: <em>not, t</em>.
 
@@ -104,7 +104,7 @@ The 10 most frequent `PART` lemmas: <em>jen, li, až, nejen, asi, ovšem, ne, je
 
 The 10 most frequent `PART` types:  <em>jen, li, až, nejen, asi, ovšem, ne, jenom, ať, prý</em>
 
-The 10 most frequent ambiguous lemmas: <em>jen</em> ([PART]() 931, [NOUN]() 1), <em>li</em> ([PART]() 579, [ADJ]() 1), <em>až</em> ([PART]() 517, [SCONJ]() 36, [CONJ]() 6), <em>ovšem</em> ([PART]() 211, [ADV]() 14, [CONJ]() 5), <em>ať</em> ([SCONJ]() 43, [PART]() 32), <em>s</em> ([ADP]() 3842, [PART]() 13), <em>co</em> ([PRON]() 525, [ADV]() 166, [SCONJ]() 16, [PART]() 3, [ADJ]() 1), <em>la</em> ([PART]() 2, [ADJ]() 1), <em>Le</em> ([PART]() 1, [ADJ]() 1), <em>copak</em> ([PRON]() 7, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>jen</em> ([PART]() 931, [NOUN]() 1), <em>li</em> ([PART]() 579, [ADJ]() 1), <em>až</em> ([PART]() 517, [SCONJ]() 36, [CONJ]() 6), <em>ovšem</em> ([PART]() 211, [ADV]() 14, [CONJ]() 5), <em>ať</em> ([SCONJ]() 43, [PART]() 32), <em>s</em> ([ADP]() 3842, [PART]() 13), <em>co</em> ([PRON]() 525, [ADV]() 166, [SCONJ]() 16, [PART]() 3, [ADJ]() 1), <em>la</em> ([PART]() 2, [ADJ]() 1), <em>Le</em> ([ADJ]() 1, [PART]() 1), <em>copak</em> ([PRON]() 7, [PART]() 1)
 
 The 10 most frequent ambiguous types:  <em>jen</em> ([PART]() 873, [NOUN]() 1), <em>až</em> ([PART]() 502, [SCONJ]() 32, [CONJ]() 6), <em>ovšem</em> ([PART]() 190, [ADV]() 12, [CONJ]() 5), <em>ať</em> ([SCONJ]() 42, [PART]() 27), <em>s</em> ([ADP]() 3122, [PART]() 13), <em>to</em> ([PRON]() 1856, [DET]() 39, [PART]() 11), <em>La</em> ([PART]() 3, [ADJ]() 1), <em>co</em> ([PRON]() 382, [ADV]() 160, [SCONJ]() 15, [PART]() 1, [ADJ]() 1), <em>Copak</em> ([PRON]() 5, [PART]() 1), <em>fakt</em> ([NOUN]() 18, [PART]() 1)
 

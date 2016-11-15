@@ -65,21 +65,21 @@ The 3rd highest number of forms (1) was observed with the lemma “/”: <em>/</
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 8 different relations: [bg-dep/case]() (21602; 98% instances), [bg-dep/mark]() (260; 1% instances), [bg-dep/mwe]() (153; 1% instances), [bg-dep/nmod]() (57; 0% instances), [bg-dep/iobj]() (12; 0% instances), [bg-dep/conj]() (6; 0% instances), [bg-dep/dobj]() (1; 0% instances), [bg-dep/root]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 10 different relations: [bg-dep/case]() (21606; 98% instances), [bg-dep/mark]() (260; 1% instances), [bg-dep/mwe]() (153; 1% instances), [bg-dep/nmod]() (54; 0% instances), [bg-dep/iobj]() (9; 0% instances), [bg-dep/conj]() (6; 0% instances), [bg-dep/advmod]() (1; 0% instances), [bg-dep/dobj]() (1; 0% instances), [bg-dep/remnant]() (1; 0% instances), [bg-dep/root]() (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: [NOUN]() (17445; 79% instances), [PROPN]() (2557; 12% instances), [PRON]() (946; 4% instances), [VERB]() (431; 2% instances), [ADJ]() (271; 1% instances), [NUM]() (171; 1% instances), [ADP]() (155; 1% instances), [DET]() (93; 0% instances), [ADV]() (22; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: [NOUN]() (17444; 79% instances), [PROPN]() (2557; 12% instances), [PRON]() (948; 4% instances), [VERB]() (426; 2% instances), [ADJ]() (269; 1% instances), [NUM]() (170; 1% instances), [ADP]() (156; 1% instances), [DET]() (93; 0% instances), [ADV]() (28; 0% instances), [ROOT]() (1; 0% instances)
 
-21659 (98%) `ADP` nodes are leaves.
+21663 (98%) `ADP` nodes are leaves.
 
-339 (2%) `ADP` nodes have one child.
+335 (2%) `ADP` nodes have one child.
 
 92 (0%) `ADP` nodes have two children.
 
 2 (0%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 3.
+The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 6 different relations: [bg-dep/mwe]() (439; 83% instances), [bg-dep/advmod]() (76; 14% instances), [bg-dep/cc]() (6; 1% instances), [bg-dep/conj]() (5; 1% instances), [bg-dep/punct]() (2; 0% instances), [bg-dep/neg]() (1; 0% instances)
+Children of `ADP` nodes are attached using 11 different relations: [bg-dep/mwe]() (440; 83% instances), [bg-dep/advmod]() (68; 13% instances), [bg-dep/cc]() (7; 1% instances), [bg-dep/conj]() (5; 1% instances), [bg-dep/ccomp]() (1; 0% instances), [bg-dep/cop]() (1; 0% instances), [bg-dep/goeswith]() (1; 0% instances), [bg-dep/neg]() (1; 0% instances), [bg-dep/nsubj]() (1; 0% instances), [bg-dep/punct]() (1; 0% instances), [bg-dep/remnant]() (1; 0% instances)
 
-Children of `ADP` nodes belong to 8 different parts of speech: [PART]() (182; 34% instances), [ADP]() (155; 29% instances), [NOUN]() (92; 17% instances), [ADV]() (78; 15% instances), [SCONJ]() (13; 2% instances), [CONJ]() (6; 1% instances), [PUNCT]() (2; 0% instances), [INTJ]() (1; 0% instances)
+Children of `ADP` nodes belong to 10 different parts of speech: [PART]() (182; 35% instances), [ADP]() (156; 30% instances), [NOUN]() (92; 17% instances), [ADV]() (72; 14% instances), [SCONJ]() (13; 2% instances), [CONJ]() (7; 1% instances), [VERB]() (2; 0% instances), [INTJ]() (1; 0% instances), [PRON]() (1; 0% instances), [PUNCT]() (1; 0% instances)
 

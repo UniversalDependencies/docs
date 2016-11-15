@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td><em>sido</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>soy</em></td><td></td><td><em>fui</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>eres</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>es</em></td><td><em>será</em></td><td><em>fue, ES, Fui</em></td><td><em>era, fui, Soy</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>es</em></td><td><em>será</em></td><td><em>fue, Fui, ES</em></td><td><em>era, fui, Soy</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>somos</em></td><td></td><td><em>somos</em></td><td><em>seamos</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>son</em></td><td><em>serán</em></td><td><em>fueron, Son, fui</em></td><td><em>eran, serían</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sea</em></td><td></td><td></td><td><em>fuese</em></td></tr>
@@ -56,7 +56,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><th>Paradigm <i>haber</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><em>he</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><em>has</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>ha, hay</em></td><td><em>Habría, habrá</em></td><td><em>hubo</em></td><td><em>había, habría</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>ha, hay</em></td><td><em>habrá, Habría</em></td><td><em>hubo</em></td><td><em>había, habría</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td><em>hemos</em></td><td></td><td></td><td><em>habíamos</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>han</em></td><td><em>habrán</em></td><td></td><td><em>habían</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>haya</em></td><td></td><td></td><td><em>hubiera, hubiese</em></td></tr>
@@ -69,9 +69,9 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1680; 60%),
 <tt>VERB --[<a href="../dep/auxpass.html">auxpass</a>]--> AUX</tt> (957; 57%),
-<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (2; 67%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/dep.html">dep</a>]--> AUX</tt> (1; 100%).
 
@@ -168,6 +168,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (8; 57%),
 <tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<a href="../dep/compound.html">compound</a>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<a href="../dep/csubj.html">csubj</a>]--> AUX</tt> (1; 100%).
 

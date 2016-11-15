@@ -142,3 +142,68 @@ The following 54 pairs of parts of speech are connected with `advmod`: [sv-pos/V
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Swedish_Sign_Language)
+
+This relation is universal.
+
+18 nodes (3%) are attached to their parents as `advmod`.
+
+11 instances of `advmod` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.88888888888889.
+
+The following 7 pairs of parts of speech are connected with `advmod`: [sv-pos/VERB]()-[sv-pos/ADV]() (12; 67% instances), [sv-pos/ADJ]()-[sv-pos/ADV]() (1; 6% instances), [sv-pos/NOUN]()-[sv-pos/ADV]() (1; 6% instances), [sv-pos/PRON]()-[sv-pos/VERB]() (1; 6% instances), [sv-pos/VERB]()-[sv-pos/ADP]() (1; 6% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (1; 6% instances), [sv-pos/X]()-[sv-pos/ADV]() (1; 6% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 advmod	color:blue
+1	SEN	_	ADV	AB	_	6	advmod	_	_
+2	PU@g	_	INTJ	G	_	6	discourse	_	_
+3	NU@b	_	ADV	AB	_	6	advmod	_	_
+4	POJKE	_	NOUN	NN	_	6	nsubj	_	_
+5	LÅTA-VARA	_	X	G	_	6	dep	_	_
+6	BEGE-SIG-IVÄG	_	VERB	VB	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 advmod	color:blue
+1	VARELSE(L)+@p	_	VERB	VBAV	_	0	root	_	_
+2	KOMMA-HIT(L)	_	VERB	VBAV	_	1	conj	_	_
+3	SÄGA@z	_	VERB	VB	_	1	conj	_	_
+4	VAD@z	_	PRON	PN	_	3	advmod	_	_
+5	VAD-ÖNSKAS@ca	_	VERB	VBCA	_	4	advmod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 advmod	color:blue
+1	HUND	_	NOUN	NN	_	2	nsubj	_	_
+2	TITTA-PÅ	_	VERB	VB	_	0	root	_	_
+3	ENTITET(YYb)+@p>huvud	_	VERB	VBAV	_	2	conj	_	_
+4	FÖR	_	ADV	AB	_	5	advmod	_	_
+5	TUNG	_	ADJ	JJ	_	6	amod	_	_
+6	ENTITET(YYb)+@p>huvud	_	VERB	VBAV	_	3	conj	_	_
+7	VARELSE(VVb)+FÖRFLYTTA@p	_	VERB	VBAV	_	3	conj	_	_
+8	MARK	_	NOUN	NN	_	2	nmod	_	_
+
+~~~
+
+

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-20389 nodes (8%) are attached to their parents as `nsubj`.
+20042 nodes (8%) are attached to their parents as `nsubj`.
 
-19622 instances of `nsubj` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.50517435872284.
+19280 instances of `nsubj` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.50728470212554.
 
-The following 60 pairs of parts of speech are connected with `nsubj`: [en-pos/VERB]()-[en-pos/PRON]() (10124; 50% instances), [en-pos/VERB]()-[en-pos/NOUN]() (3392; 17% instances), [en-pos/VERB]()-[en-pos/PROPN]() (1546; 8% instances), [en-pos/ADJ]()-[en-pos/PRON]() (1198; 6% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1035; 5% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1030; 5% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (489; 2% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (215; 1% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (188; 1% instances), [en-pos/ADV]()-[en-pos/PRON]() (145; 1% instances), [en-pos/ADV]()-[en-pos/NOUN]() (122; 1% instances), [en-pos/PROPN]()-[en-pos/PRON]() (91; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (78; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (73; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (72; 0% instances), [en-pos/AUX]()-[en-pos/PRON]() (68; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (62; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (57; 0% instances), [en-pos/PRON]()-[en-pos/PRON]() (50; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (44; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (30; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (29; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (22; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (20; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (16; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (15; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (14; 0% instances), [en-pos/DET]()-[en-pos/PRON]() (13; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (13; 0% instances), [en-pos/ADJ]()-[en-pos/NUM]() (12; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (12; 0% instances), [en-pos/ADP]()-[en-pos/PRON]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (11; 0% instances), [en-pos/SYM]()-[en-pos/NOUN]() (11; 0% instances), [en-pos/SYM]()-[en-pos/PRON]() (11; 0% instances), [en-pos/AUX]()-[en-pos/NOUN]() (8; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (8; 0% instances), [en-pos/ADP]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (5; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (5; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/AUX]()-[en-pos/PROPN]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (3; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (2; 0% instances), [en-pos/VERB]()-[en-pos/X]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 0% instances), [en-pos/ADV]()-[en-pos/NUM]() (1; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/DET]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NUM]() (1; 0% instances), [en-pos/PRON]()-[en-pos/DET]() (1; 0% instances), [en-pos/PRON]()-[en-pos/SYM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (1; 0% instances).
+The following 60 pairs of parts of speech are connected with `nsubj`: [en-pos/VERB]()-[en-pos/PRON]() (10136; 51% instances), [en-pos/VERB]()-[en-pos/NOUN]() (3164; 16% instances), [en-pos/VERB]()-[en-pos/PROPN]() (1478; 7% instances), [en-pos/ADJ]()-[en-pos/PRON]() (1214; 6% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1011; 5% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (994; 5% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (474; 2% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (207; 1% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (183; 1% instances), [en-pos/ADV]()-[en-pos/PRON]() (146; 1% instances), [en-pos/ADV]()-[en-pos/NOUN]() (119; 1% instances), [en-pos/PROPN]()-[en-pos/PRON]() (90; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (76; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (74; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (71; 0% instances), [en-pos/AUX]()-[en-pos/PRON]() (68; 0% instances), [en-pos/PRON]()-[en-pos/PRON]() (63; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (62; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (56; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (43; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (30; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (29; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (22; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (20; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (18; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (16; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (15; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (13; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (13; 0% instances), [en-pos/ADJ]()-[en-pos/NUM]() (12; 0% instances), [en-pos/ADP]()-[en-pos/PRON]() (11; 0% instances), [en-pos/DET]()-[en-pos/PRON]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (11; 0% instances), [en-pos/SYM]()-[en-pos/NOUN]() (11; 0% instances), [en-pos/SYM]()-[en-pos/PRON]() (11; 0% instances), [en-pos/AUX]()-[en-pos/NOUN]() (8; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (8; 0% instances), [en-pos/ADP]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (5; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (5; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/AUX]()-[en-pos/PROPN]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (3; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (2; 0% instances), [en-pos/VERB]()-[en-pos/X]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 0% instances), [en-pos/ADV]()-[en-pos/NUM]() (1; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/DET]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NUM]() (1; 0% instances), [en-pos/PRON]()-[en-pos/DET]() (1; 0% instances), [en-pos/PRON]()-[en-pos/SYM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -79,7 +79,7 @@ This relation is universal.
 9688 instances of `nsubj` (97%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.20666932907348.
 
-The following 55 pairs of parts of speech are connected with `nsubj`: [en-pos/VERB]()-[en-pos/PRON]() (5693; 57% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1447; 14% instances), [en-pos/ADJ]()-[en-pos/PRON]() (841; 8% instances), [en-pos/NOUN]()-[en-pos/PRON]() (431; 4% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (425; 4% instances), [en-pos/VERB]()-[en-pos/DET]() (236; 2% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (204; 2% instances), [en-pos/VERB]()-[en-pos/PROPN]() (122; 1% instances), [en-pos/NOUN]()-[en-pos/DET]() (109; 1% instances), [en-pos/ADJ]()-[en-pos/DET]() (80; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (44; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (41; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (34; 0% instances), [en-pos/AUX]()-[en-pos/PRON]() (33; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (32; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (32; 0% instances), [en-pos/PROPN]()-[en-pos/PRON]() (25; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (25; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (24; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (13; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (12; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (12; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (12; 0% instances), [en-pos/PROPN]()-[en-pos/DET]() (7; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (6; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (5; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/PRON]()-[en-pos/DET]() (5; 0% instances), [en-pos/PRON]()-[en-pos/PRON]() (5; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/DET]()-[en-pos/PRON]() (4; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (4; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (4; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/AUX]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/DET]()-[en-pos/DET]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (3; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (3; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (2; 0% instances), [en-pos/AUX]()-[en-pos/DET]() (2; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/SYM]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/VERB]()-[en-pos/PART]() (2; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/NUM]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/PART]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/ADP]()-[en-pos/DET]() (1; 0% instances), [en-pos/ADP]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PART]()-[en-pos/DET]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/SYM]()-[en-pos/DET]() (1; 0% instances), [en-pos/VERB]()-[en-pos/SCONJ]() (1; 0% instances).
+The following 52 pairs of parts of speech are connected with `nsubj`: [en-pos/VERB]()-[en-pos/PRON]() (5891; 59% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1353; 14% instances), [en-pos/ADJ]()-[en-pos/PRON]() (892; 9% instances), [en-pos/NOUN]()-[en-pos/PRON]() (501; 5% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (411; 4% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (200; 2% instances), [en-pos/VERB]()-[en-pos/DET]() (133; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (122; 1% instances), [en-pos/ADV]()-[en-pos/PRON]() (45; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (44; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (43; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (38; 0% instances), [en-pos/AUX]()-[en-pos/PRON]() (35; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (34; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (32; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (29; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (29; 0% instances), [en-pos/PROPN]()-[en-pos/PRON]() (27; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (25; 0% instances), [en-pos/PRON]()-[en-pos/PRON]() (16; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (13; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (13; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (12; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (12; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (5; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/PROPN]()-[en-pos/DET]() (5; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/DET]()-[en-pos/PRON]() (4; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (4; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (4; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/AUX]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (3; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (3; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/SYM]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/VERB]()-[en-pos/PART]() (2; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/NUM]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/PART]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/ADP]()-[en-pos/DET]() (1; 0% instances), [en-pos/ADP]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (1; 0% instances), [en-pos/PART]()-[en-pos/DET]() (1; 0% instances), [en-pos/PRON]()-[en-pos/DET]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/SYM]()-[en-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -131,34 +131,40 @@ The following 55 pairs of parts of speech are connected with `nsubj`: [en-pos/VE
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 nsubj	color:blue
-1	_	_	ADV	RB	_	6	advmod	_	_
-2	_	_	PUNCT	,	_	6	punct	_	_
-3	_	_	PRON	PRP	_	6	nsubj	_	_
-4	_	_	VERB	VBD	_	6	cop	_	_
-5	_	_	ADV	RB	_	6	advmod	_	_
-6	_	_	ADJ	JJ	_	0	root	_	_
-7	_	_	PART	TO	_	8	mark	_	_
-8	_	_	VERB	VB	_	6	advcl	_	_
-9	_	_	PRON	EX	_	10	expl	_	_
-10	_	_	VERB	VBD	_	8	ccomp	_	_
-11	_	_	PART	RB	_	10	neg	_	_
-12	_	_	NOUN	NNS	_	10	nsubj	_	_
-13	_	_	ADP	IN	_	15	case	_	_
-14	_	_	DET	DT	_	15	det	_	_
-15	_	_	NOUN	NN	_	10	nmod	_	_
-16	_	_	PUNCT	.	_	6	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 8 nsubj	color:blue
+1	_	_	ADV	RB	_	3	advmod	_	_
+2	_	_	PRON	PRP	_	3	nsubj	_	_
+3	_	_	VERB	VBP	_	0	root	_	_
+4	_	_	PART	TO	_	5	mark	_	_
+5	_	_	VERB	VB	_	3	xcomp	_	_
+6	_	_	DET	DT	_	7	det	_	_
+7	_	_	NOUN	NN	_	5	dobj	_	_
+8	_	_	PRON	DT	_	11	nsubj	_	_
+9	_	_	VERB	VBZ	_	11	cop	_	_
+10	_	_	ADV	RB	_	11	advmod	_	_
+11	_	_	ADJ	JJ	_	3	parataxis	_	_
+12	_	_	ADV	WRB	_	14	mark	_	_
+13	_	_	PRON	PRP	_	14	nsubj	_	_
+14	_	_	VERB	VBP	_	11	advcl	_	_
+15	_	_	PART	RB	_	14	neg	_	_
+16	_	_	DET	DT	_	18	det	_	_
+17	_	_	ADJ	JJ	_	18	amod	_	_
+18	_	_	NOUN	NN	_	14	dobj	_	_
+19	_	_	CONJ	CC	_	18	cc	_	_
+20	_	_	NOUN	NN	_	18	conj	_	_
+21	_	_	ADV	RB	_	14	advmod	_	_
+22	_	_	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

@@ -124,15 +124,37 @@ The following 8 pairs of parts of speech are connected with `iobj`: [sl-pos/VERB
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 iobj	color:blue
-1	[name:personal]	[name:personal]	PROPN	X	_	4	iobj	_	word=[name:personal]|msd=N
-2	so	biti	AUX	Va-r3p-n	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	word=so|msd=Gp-stm-n
-3	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	4	dobj	_	word=ga|msd=Zotmet--k
-4	dali	dati	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=dal|msd=Ggdd-mm
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 14 iobj	color:blue
+1	tako	tako	CONJ	Cc	_	4	cc	_	word=tku|msd=Vp
+2	da	da	SCONJ	Cs	_	1	mwe	_	word=da|msd=Vd
+3	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	word=jz|msd=Zop-ei
+4	imam	imeti	VERB	Vmpr1s-n	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=mam|msd=Ggnspe-n
+5	zdaj	zdaj	ADV	Rgp	Degree=Pos	4	advmod	_	word=zdej|msd=Rsn
+6	že	že	PART	Q	_	4	advmod	_	word=že|msd=L
+7	čez	čez	ADP	Sa	Case=Acc	9	case	_	word=čez|msd=Dt
+8	trideset	trideset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	word=trieset|msd=Kbg-mt
+9	dni	dan	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	4	dobj	_	word=dni|msd=Sommr
+10	dopusta	dopust	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	word=dapusta|msd=Somer
+11	ne	ne	PART	Q	_	4	discourse	_	word=ne|msd=L
+12	samo	samo	PART	Q	_	4	cc	_	word=samu|msd=L
+13	zdaj	zdaj	ADV	Rgp	Degree=Pos	16	advmod	_	word=zdej|msd=Rsn
+14	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	16	iobj	_	word=mi|msd=Zop-ed--k
+15	ga	on	PRON	Pp3msg--y	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	16	dobj	_	word=ga|msd=Zotmer--k
+16	je	biti	AUX	Va-r3s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	reparandum	_	word=je|msd=Gp-ste-n
+17	pa	pa	CONJ	Cc	_	16	advmod	_	word=pa|msd=Vp
+18	ene	ene	ADV	Rgp	Degree=Pos	19	advmod	_	word=ene|msd=Rsn
+19	pet	pet	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	20	nummod	_	word=pet|msd=Kbg-mt
+20	dni	dan	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	word=dni|msd=Sommr
+21	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	26	iobj	_	word=mi|msd=Zop-ed--k
+22	ga	on	PRON	Pp3msg--y	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	26	dobj	_	word=ga|msd=Zotmer--k
+23	je	biti	AUX	Va-r3s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	word=je|msd=Gp-ste-n
+24	samo	samo	PART	Q	_	26	advmod	_	word=samu|msd=L
+25	še	še	PART	Q	_	26	advmod	_	word=še|msd=L
+26	ostalo	ostati	VERB	Vmep-sn	Aspect=Perf|Gender=Neut|Number=Sing|VerbForm=Part	4	conj	_	word=astala|msd=Ggdd-es
 
 ~~~
 

@@ -11,9 +11,9 @@ The 10 most frequent `DET` lemmas: <em>el, uno, su, este, otro, todo, ese, algun
 
 The 10 most frequent `DET` types:  <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
-The 10 most frequent ambiguous lemmas: <em>uno</em> ([DET]() 7651, [PRON]() 540, [NUM]() 108, [PROPN]() 2, [NOUN]() 2, [ADJ]() 2, [X]() 1), <em>su</em> ([DET]() 3998, [ADJ]() 1), <em>este</em> ([DET]() 1643, [PRON]() 446, [VERB]() 47, [NOUN]() 45, [AUX]() 24, [PROPN]() 11), <em>otro</em> ([DET]() 699, [PRON]() 208, [ADJ]() 3, [X]() 1, [PROPN]() 1, [NOUN]() 1), <em>todo</em> ([DET]() 621, [PRON]() 247, [PROPN]() 6, [NOUN]() 1, [PART]() 1, [ADJ]() 1, [VERB]() 1), <em>ese</em> ([DET]() 417, [PRON]() 77), <em>alguno</em> ([DET]() 275, [PRON]() 75, [ADJ]() 10, [NOUN]() 8), <em>varios</em> ([DET]() 242, [PRON]() 5, [ADJ]() 4), <em>mucho</em> ([ADV]() 585, [DET]() 220, [PRON]() 148, [ADJ]() 3, [PROPN]() 2, [X]() 1), <em>mi</em> ([DET]() 174, [PRON]() 10, [X]() 3)
+The 10 most frequent ambiguous lemmas: <em>uno</em> ([DET]() 7651, [PRON]() 540, [NUM]() 108, [NOUN]() 2, [PROPN]() 2, [ADJ]() 2, [X]() 1), <em>su</em> ([DET]() 3998, [ADJ]() 1), <em>este</em> ([DET]() 1643, [PRON]() 446, [VERB]() 47, [NOUN]() 45, [AUX]() 24, [PROPN]() 11), <em>otro</em> ([DET]() 699, [PRON]() 208, [ADJ]() 3, [X]() 1, [NOUN]() 1, [PROPN]() 1), <em>todo</em> ([DET]() 621, [PRON]() 247, [PROPN]() 6, [VERB]() 1, [ADJ]() 1, [PART]() 1, [NOUN]() 1), <em>ese</em> ([DET]() 417, [PRON]() 77), <em>alguno</em> ([DET]() 275, [PRON]() 75, [ADJ]() 10, [NOUN]() 8), <em>varios</em> ([DET]() 242, [PRON]() 5, [ADJ]() 4), <em>mucho</em> ([ADV]() 585, [DET]() 220, [PRON]() 148, [ADJ]() 3, [PROPN]() 2, [X]() 1), <em>mi</em> ([DET]() 174, [PRON]() 10, [X]() 3)
 
-The 10 most frequent ambiguous types:  <em>la</em> ([DET]() 13333, [PRON]() 398), <em>los</em> ([DET]() 4939, [PRON]() 245), <em>un</em> ([DET]() 3886, [NUM]() 53), <em>las</em> ([DET]() 3146, [PRON]() 100), <em>una</em> ([DET]() 3269, [PRON]() 181, [NUM]() 35, [NOUN]() 2, [X]() 1), <em>sus</em> ([DET]() 978, [ADJ]() 1), <em>este</em> ([DET]() 565, [PRON]() 61, [NOUN]() 35, [VERB]() 3, [AUX]() 2), <em>esta</em> ([DET]() 454, [VERB]() 41, [PRON]() 31, [AUX]() 18), <em>otras</em> ([DET]() 217, [PRON]() 27, [ADJ]() 1, [PROPN]() 1), <em>otros</em> ([DET]() 212, [PRON]() 71, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>la</em> ([DET]() 13333, [PRON]() 398), <em>los</em> ([DET]() 4939, [PRON]() 245), <em>un</em> ([DET]() 3886, [NUM]() 53), <em>las</em> ([DET]() 3146, [PRON]() 100), <em>una</em> ([DET]() 3269, [PRON]() 181, [NUM]() 35, [NOUN]() 2, [X]() 1), <em>sus</em> ([DET]() 978, [ADJ]() 1), <em>este</em> ([DET]() 565, [PRON]() 61, [NOUN]() 35, [VERB]() 3, [AUX]() 2), <em>esta</em> ([DET]() 454, [VERB]() 41, [PRON]() 31, [AUX]() 18), <em>otras</em> ([DET]() 217, [PRON]() 27, [PROPN]() 1, [ADJ]() 1), <em>otros</em> ([DET]() 212, [PRON]() 71, [ADJ]() 1)
 
 
 * <em>la</em>
@@ -51,8 +51,8 @@ The 10 most frequent ambiguous types:  <em>la</em> ([DET]() 13333, [PRON]() 398)
 * <em>otras</em>
   * [DET]() 217: <em>Una hora más tarde Knowles grabaron « » y <b>otras</b> dos canciones .</em>
   * [PRON]() 27: <em>Ya no compro <b>otras</b> que no sean estas .</em>
-  * [ADJ]() 1: <em>A diferencia de las <b>otras</b> amilasas esta forma es más eficaz en medios ácidos y su pH óptimo es de 3 .</em>
   * [PROPN]() 1: <em>De hecho este sistema de poder no era permanente y estas unidades o segmentos podían estar dividas en <b>otras</b> más pequeñas ;</em>
+  * [ADJ]() 1: <em>A diferencia de las <b>otras</b> amilasas esta forma es más eficaz en medios ácidos y su pH óptimo es de 3 .</em>
 * <em>otros</em>
   * [DET]() 212: <em>Ojalá hubiese <b>otros</b> mesones en Pontevedra como este .</em>
   * [PRON]() 71: <em>Aun hay <b>otros</b> reclutados por el Ejército Blanco .</em>

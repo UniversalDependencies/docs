@@ -11,7 +11,7 @@ The 10 most frequent `PUNCT` lemmas: ।, COMMA, -, ., SINGLE_QUOTE, (, ), ?, 1,
 
 The 10 most frequent `PUNCT` types:  ।, ,, -, ., ', (, ), -JOIN, ?, '1
 
-The 10 most frequent ambiguous lemmas: 1 ([PUNCT]() 30, [PROPN]() 4, [NUM]() 3), 2 ([PUNCT]() 23, [NUM]() 4, [PROPN]() 1), तक ([ADP]() 830, [PART]() 3, [PUNCT]() 1), है. ([PUNCT]() 1, [AUX]() 1), १ ([PROPN]() 21, [NUM]() 7, [PUNCT]() 1)
+The 10 most frequent ambiguous lemmas: 1 ([PUNCT]() 30, [PROPN]() 4, [NUM]() 3), 2 ([PUNCT]() 23, [NUM]() 4, [PROPN]() 1), तक ([ADP]() 830, [PART]() 3, [PUNCT]() 1), है. ([AUX]() 1, [PUNCT]() 1), १ ([PROPN]() 21, [NUM]() 7, [PUNCT]() 1)
 
 The 10 most frequent ambiguous types:  
 

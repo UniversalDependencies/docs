@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>swoje, swe</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><em>swojego, swego</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>swoich, swych</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing</tt></td><td><em>swoim, swym</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing</tt></td><td><em>swym, swoim</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>swoim</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>swoich</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Nhum|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>swego</em></td><td></td><td></td></tr>
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>swojej, swej</em></td><td><em>swojego, swego</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>swoich, swych</em></td><td><em>swoich, swych</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>swoją, swą, Swoja</em></td><td><em>swoim</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>swej, swojej</em></td><td><em>swoim</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>swojej, swej</em></td><td><em>swoim</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>swoich</em></td><td><em>swych, swoich</em></td></tr>
 </table>
 
@@ -90,7 +90,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 6643 [pl-pos/VERB]() tokens (50% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6643; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6643; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6643; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5527; 83%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (5238; 79%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5238; 79%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5238; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (4985; 75%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4001; 60%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (6643; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6643; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6643; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5527; 83%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5238; 79%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5238; 79%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (5238; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (4985; 75%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4001; 60%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -309,7 +309,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 197 [pl-pos/AUX]() tokens (14% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (197; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (197; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (197; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (197; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (197; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (197; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (160; 81%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (104; 53%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (197; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (197; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (197; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (197; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (197; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (197; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (160; 81%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (104; 53%).
 
 `AUX` tokens may have the following values of `Gender`:
 

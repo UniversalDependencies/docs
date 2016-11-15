@@ -15,66 +15,6 @@ The following 6 pairs of parts of speech are connected with `mwe`: [grc-pos/ADP]
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 12 mwe	color:blue
-1	Ὁ	Ὁ	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	δὲ	δέ	ADV	d--------	_	3	cc	_	_
-3	εἶπεν	εἶπον	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	0	root	_	_
-4	μὴ	μὴ	ADV	d--------	_	15	advmod	_	_
-5	μετ̓	μετά	ADP	r--------	_	15	conj	_	_
-6	ἀλλήλων	ἀλλήλων	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur	5	mwe	_	_
-7	πάντα	πᾶς	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	15	advmod	_	_
-8	,	,	PUNCT	u--------	_	15	punct	_	_
-9	ἓν	ἓν	ADV	d--------	_	5	conj	_	_
-10	δὲ	δέ	ADV	d--------	_	5	cc	_	_
-11	καθ̓	κατά	ADP	r--------	_	12	case	_	_
-12	ἓν	ἓν	ADV	d--------	_	9	mwe	_	_
-13	τοῖς	ὁ	DET	l-p---md-	Case=Dat|Gender=Masc|Number=Plur	14	det	_	_
-14	ἀνθρώποις	ἄνθρωπος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	15	dobj	_	_
-15	ἐπέρχεσθαι	ἐπέρχομαι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid,Pass	3	conj	_	_
-16	.	.	PUNCT	u--------	_	15	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 17 mwe	color:blue
-1	Μικρὸν	μικρός	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	dobj	_	_
-2	δὲ	δέ	ADV	d--------	_	21	cc	_	_
-3	διαλιπών	διαλείπω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Aor|VerbForm=Part|Voice=Act	21	advmod	_	_
-4	,	,	PUNCT	u--------	_	6	punct	_	_
-5	ὡς	ὡς	SCONJ	c--------	_	6	mark	_	_
-6	ἐθεάσατο	θεάω	VERB	v3saim---	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Mid	21	advcl	_	_
-7	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Gender=Masc|Number=Plur	8	det	_	_
-8	ἀλεκτρυόνας	ἀλεκτρυών	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	11	nsubj	_	_
-9	πρὸς	πρός	ADP	r--------	_	10	case	_	_
-10	ἑαυτοὺς	ἑαυτοῦ	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	11	dobj	_	_
-11	μαχομένους	μάχομαι	VERB	v-pppema-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid,Pass	6	dobj	_	_
-12	καὶ	καί	CONJ	c--------	_	11	cc	_	_
-13	οὐ	οὐ	ADV	d--------	_	15	neg	_	_
-14	πρότερον	πρότερον	ADV	d-------c	Degree=Cmp	15	advmod	_	_
-15	ἀποστάντας	ἀφεστήξω	VERB	v-papama-	Case=Acc|Gender=Masc|Number=Plur|Tense=Aor|VerbForm=Part|Voice=Act	11	conj	_	_
-16	πρὶν	πρίν	SCONJ	c--------	_	17	mark	_	_
-17	ἢ	ἤ	CONJ	c--------	_	15	mwe	_	_
-18	ἀλλήλους	ἀλλήλων	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	19	dobj	_	_
-19	αἱμάξαι	αἱμάσσω	VERB	v--ana---	Tense=Aor|VerbForm=Inf|Voice=Act	17	advmod	_	_
-20	,	,	PUNCT	u--------	_	6	punct	_	_
-21	ἔφη	φημί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-22	πρὸς	πρός	ADP	r--------	_	23	case	_	_
-23	ἑαυτόν	ἑαυτοῦ	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	21	dobj	_	_
-24	·	·	PUNCT	u--------	_	23	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 4	bgColor:blue
@@ -95,6 +35,59 @@ The following 6 pairs of parts of speech are connected with `mwe`: [grc-pos/ADP]
 13	θεμιστοπόλων	θεμιστοπόλος	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	14	amod	_	_
 14	βασιλήων	βασιλεύς	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 15	.	.	PUNCT	u--------	_	14	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 13 mwe	color:blue
+1	Οὕτως	οὕτως	ADV	d--------	_	10	advmod	_	_
+2	καὶ	καί	CONJ	c--------	_	10	advmod	_	_
+3	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	det	_	_
+4	ἀνθρώπων	ἄνθρωπος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+5	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	6	det	_	_
+6	πονηροὶ	πονηρός	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+7	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Gender=Masc|Number=Plur	8	det	_	_
+8	φρονίμους	φρόνιμος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	10	dobj	_	_
+9	οὐ	οὐ	ADV	d--------	_	10	neg	_	_
+10	λανθάνουσι	λανθάνω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	,	,	PUNCT	u--------	_	10	punct	_	_
+12	κἂν	κἀν	SCONJ	c--------	_	16	mark	_	_
+13	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	14	mwe	_	_
+14	μάλιστα	μάλιστα	ADV	d--------	_	16	advmod	_	_
+15	χρηστότητα	χρηστότης	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	16	dobj	_	_
+16	ὑποκρίνωνται	ὑποκρίνομαι	VERB	v3pasm---	Mood=Sub|Number=Plur|Person=3|Tense=Aor|VerbForm=Fin|Voice=Mid	10	advcl	_	_
+17	.	.	PUNCT	u--------	_	16	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 mwe	color:blue
+1	Ὁ	Ὁ	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	δὲ	δέ	ADV	d--------	_	3	cc	_	_
+3	εἶπεν	εἶπον	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	0	root	_	_
+4	μὴ	μὴ	ADV	d--------	_	15	advmod	_	_
+5	μετ̓	μετά	ADP	r--------	_	15	conj	_	_
+6	ἀλλήλων	ἀλλήλων	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur	5	mwe	_	_
+7	πάντα	πᾶς	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	15	advmod	_	_
+8	,	,	PUNCT	u--------	_	15	punct	_	_
+9	ἓν	ἓν	ADV	d--------	_	5	conj	_	_
+10	δὲ	δέ	ADV	d--------	_	5	cc	_	_
+11	καθ̓	κατά	ADP	r--------	_	12	case	_	_
+12	ἓν	ἓν	ADV	d--------	_	9	mwe	_	_
+13	τοῖς	ὁ	DET	l-p---md-	Case=Dat|Gender=Masc|Number=Plur	14	det	_	_
+14	ἀνθρώποις	ἄνθρωπος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	15	dobj	_	_
+15	ἐπέρχεσθαι	ἐπέρχομαι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid,Pass	3	conj	_	_
+16	.	.	PUNCT	u--------	_	15	punct	_	_
 
 ~~~
 

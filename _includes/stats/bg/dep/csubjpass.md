@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-74 nodes (0%) are attached to their parents as `csubjpass`.
+76 nodes (0%) are attached to their parents as `csubjpass`.
 
-68 instances of `csubjpass` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.28378378378378.
+69 instances of `csubjpass` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.35526315789474.
 
-The following 4 pairs of parts of speech are connected with `csubjpass`: [bg-pos/VERB]()-[bg-pos/VERB]() (60; 81% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (11; 15% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (2; 3% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `csubjpass`: [bg-pos/VERB]()-[bg-pos/VERB]() (60; 79% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (13; 17% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (2; 3% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (1; 1% instances).
 
 
 ~~~ conllu

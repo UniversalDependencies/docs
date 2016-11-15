@@ -13,7 +13,7 @@ The 10 most frequent `VERB` types:  <em>volt, kell, van, lehet, mondta, lesz, el
 
 The 10 most frequent ambiguous lemmas: <em>van</em> ([VERB]() 194, [PROPN]() 1), <em>ad</em> ([VERB]() 37, [X]() 2), <em>jelent</em> ([VERB]() 31, [ADJ]() 1), <em>él</em> ([VERB]() 15, [NOUN]() 10), <em>nő</em> ([NOUN]() 11, [VERB]() 10), <em>vált</em> ([VERB]() 7, [ADJ]() 3), <em>hív</em> ([VERB]() 5, [NOUN]() 4), <em>tér</em> ([NOUN]() 9, [VERB]() 5, [PROPN]() 4), <em>tűz</em> ([NOUN]() 7, [VERB]() 5), <em>hat</em> ([NUM]() 15, [VERB]() 4)
 
-The 10 most frequent ambiguous types:  <em>volt</em> ([VERB]() 99, [ADJ]() 8), <em>van</em> ([VERB]() 49, [PROPN]() 1), <em>jelentette</em> ([VERB]() 16, [ADJ]() 1), <em>került</em> ([VERB]() 16, [ADJ]() 1), <em>tett</em> ([VERB]() 11, [NOUN]() 1, [ADJ]() 1), <em>történt</em> ([VERB]() 11, [ADJ]() 2), <em>adott</em> ([VERB]() 10, [ADJ]() 5), <em>sikerült</em> ([VERB]() 10, [ADJ]() 1), <em>vált</em> ([VERB]() 9, [ADJ]() 3), <em>lépett</em> ([VERB]() 8, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>volt</em> ([VERB]() 99, [ADJ]() 8), <em>van</em> ([VERB]() 49, [PROPN]() 1), <em>jelentette</em> ([VERB]() 16, [ADJ]() 1), <em>került</em> ([VERB]() 16, [ADJ]() 1), <em>tett</em> ([VERB]() 11, [ADJ]() 1, [NOUN]() 1), <em>történt</em> ([VERB]() 11, [ADJ]() 2), <em>adott</em> ([VERB]() 10, [ADJ]() 5), <em>sikerült</em> ([VERB]() 10, [ADJ]() 1), <em>vált</em> ([VERB]() 9, [ADJ]() 3), <em>lépett</em> ([VERB]() 8, [ADJ]() 1)
 
 
 * <em>volt</em>
@@ -30,8 +30,8 @@ The 10 most frequent ambiguous types:  <em>volt</em> ([VERB]() 99, [ADJ]() 8), <
   * [ADJ]() 1: <em>Rohamosan veszít népszerűségéből a nagyobbik német kormánypárt , az SPD , s vele együtt Gerhard Schröder kancellár , elsősorban a 30 milliárd márkás takarékossági csomagterv s a párton belül ennek kapcsán felszínre <b>került</b> ellentétek miatt .</em>
 * <em>tett</em>
   * [VERB]() 11: <em>Lelkileg is jót <b>tett</b> : érzem , nem dolgoztam hiába egy évig .</em>
-  * [NOUN]() 1: <em>Az elgondolást <b>tett</b> követte , s elképzelései valóra váltásának megkönnyítése végett Schultz 1987-ben mintegy 4 millió dollárért megvette a Starbucksot , amelynek természetesen elnök-vezérigazgatója lett .</em>
   * [ADJ]() 1: <em>A püspökök november közepén a Vatikánban <b>tett</b> " ad limina " látogatásuk alatt levelet adtak át az egyházfőnek , amelyben felsorolták megfontolásaikat és érveiket a tanácsadási gyakorlat ( benne az igazolások ) fenntartása mellett .</em>
+  * [NOUN]() 1: <em>Az elgondolást <b>tett</b> követte , s elképzelései valóra váltásának megkönnyítése végett Schultz 1987-ben mintegy 4 millió dollárért megvette a Starbucksot , amelynek természetesen elnök-vezérigazgatója lett .</em>
 * <em>történt</em>
   * [VERB]() 11: <em>( Tavaly a keresleti oldalon rossz szerkezeti átalakulás <b>történt</b> .</em>
   * [ADJ]() 2: <em>A hajóról <b>történt</b> kirakodás után lopták el a tévéket , a homokot pedig azért töltötték a helyükre , hogy a súlyhiány name tűnjön fel .</em>

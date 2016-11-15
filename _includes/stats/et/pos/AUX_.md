@@ -11,7 +11,7 @@ The 10 most frequent `AUX` lemmas: <em>olema, ei, võima, pidama, saama, tohtima
 
 The 10 most frequent `AUX` types:  <em>ei, on, oli, võib, pole, peaks, peab, saab, oleks, saa</em>
 
-The 10 most frequent ambiguous lemmas: <em>olema</em> ([VERB]() 6427, [AUX]() 2444), <em>ei</em> ([AUX]() 2211, [ADV]() 97, [NOUN]() 3), <em>võima</em> ([AUX]() 582, [VERB]() 13), <em>pidama</em> ([AUX]() 525, [VERB]() 239), <em>saama</em> ([VERB]() 783, [AUX]() 360), <em>ole</em> ([VERB]() 65, [AUX]() 44), <em>ära</em> ([ADV]() 296, [AUX]() 34), <em>saa</em> ([VERB]() 9, [AUX]() 9), <em>näima</em> ([VERB]() 19, [AUX]() 8), <em>pida</em> ([AUX]() 6, [VERB]() 5)
+The 10 most frequent ambiguous lemmas: <em>olema</em> ([VERB]() 6427, [AUX]() 2444), <em>ei</em> ([AUX]() 2211, [ADV]() 97, [NOUN]() 3), <em>võima</em> ([AUX]() 582, [VERB]() 13), <em>pidama</em> ([AUX]() 525, [VERB]() 239), <em>saama</em> ([VERB]() 783, [AUX]() 360), <em>ole</em> ([VERB]() 65, [AUX]() 44), <em>ära</em> ([ADV]() 296, [AUX]() 34), <em>saa</em> ([AUX]() 9, [VERB]() 9), <em>näima</em> ([VERB]() 19, [AUX]() 8), <em>pida</em> ([AUX]() 6, [VERB]() 5)
 
 The 10 most frequent ambiguous types:  <em>ei</em> ([AUX]() 2128, [ADV]() 46, [NOUN]() 2), <em>on</em> ([VERB]() 3459, [AUX]() 1397), <em>oli</em> ([VERB]() 825, [AUX]() 309), <em>võib</em> ([AUX]() 287, [VERB]() 2), <em>pole</em> ([VERB]() 383, [AUX]() 174), <em>peaks</em> ([AUX]() 159, [VERB]() 6), <em>peab</em> ([AUX]() 125, [VERB]() 29), <em>saab</em> ([VERB]() 134, [AUX]() 122), <em>oleks</em> ([VERB]() 150, [AUX]() 119), <em>saa</em> ([AUX]() 114, [VERB]() 57)
 

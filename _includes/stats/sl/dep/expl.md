@@ -58,24 +58,42 @@ The following 4 pairs of parts of speech are connected with `expl`: [sl-pos/VERB
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 expl	color:blue
-1	Mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
-2	,	,	PUNCT	Z	_	8	punct	_	Dep=0|Rel=Root
-3	da	da	SCONJ	Cs	_	8	mark	_	Dep=4|Rel=Conj
-4	smo	biti	VERB	Va-r1p-n	Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	Dep=1|Rel=Obj
-5	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	Dep=4|Rel=PPart
-6	sami	sam	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	nmod	_	Dep=4|Rel=AdvM
-7	največji	velik	ADJ	Agsmsny	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	8	amod	_	Dep=8|Rel=Atr
-8	zaveznik	zaveznik	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	Dep=4|Rel=Atr
-9	in	in	CONJ	Cc	_	8	cc	_	Dep=12|Rel=Conj
-10	največji	velik	ADJ	Agsmsny	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	12	amod	_	Dep=12|Rel=Atr
-11	možni	možen	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	Dep=12|Rel=Atr
-12	zaviralec	zaviralec	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No|Dep=8|Rel=Coord
-13	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 24 expl	color:blue
+1	Je	biti	VERB	Va-r3s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Dep=0|Rel=Root
+2	mož	mož	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|Dep=1|Rel=Atr
+3	,	,	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
+4	ki	ki	SCONJ	Cs	_	6	mark	_	Dep=6|Rel=Conj
+5	zmeraj	zmeraj	ADV	Rgp	Degree=Pos	6	advmod	_	Dep=6|Rel=AdvO
+6	vključi	vključiti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	Dep=2|Rel=Atr
+7	svetilko	svetilka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	dobj	_	Dep=6|Rel=Obj
+8	in	in	CONJ	Cc	_	6	cc	_	Dep=10|Rel=Conj
+9	jo	on	PRON	Pp3fsa--y	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	10	dobj	_	Dep=10|Rel=Obj
+10	podrži	podržati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	Dep=0|Rel=Root
+11	v	v	ADP	Sa	Case=Acc	12	case	_	Dep=12|Rel=Atr
+12	obraz	obraz	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No|Dep=10|Rel=AdvO
+13	,	,	PUNCT	Z	_	18	punct	_	Dep=0|Rel=Root
+14	ki	ki	SCONJ	Cs	_	18	mark	_	Dep=18|Rel=Conj
+15	z	z	ADP	Si	Case=Ins	17	case	_	Dep=17|Rel=Atr
+16	zavihanimi	zavihan	ADJ	Appmpi	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	17	amod	_	Dep=17|Rel=Atr
+17	rokavi	rokav	NOUN	Ncmpi	Case=Ins|Gender=Masc|Number=Plur	18	nmod	_	Dep=18|Rel=AdvM
+18	štorklja	štorkljati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	Dep=0|Rel=Root
+19	po	po	ADP	Sl	Case=Loc	20	case	_	Dep=20|Rel=Atr
+20	sobi	soba	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	18	nmod	_	Dep=18|Rel=AdvO
+21	in	in	CONJ	Cc	_	18	cc	_	Dep=25|Rel=Conj
+22	pri	pri	ADP	Sl	Case=Loc	23	case	_	Dep=23|Rel=Atr
+23	katerem	kateri	PRON	Pq-msl	Case=Loc|Gender=Masc|Number=Sing|PronType=Int	18	conj	_	Dep=25|Rel=Atr
+24	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	23	expl	_	Dep=25|Rel=PPart
+25	je	biti	VERB	Va-r3s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	Dep=0|Rel=Root
+26	treba	treba	ADV	Rgp	Degree=Pos	23	advmod	_	Dep=25|Rel=AdvM
+27	kozarec	kozarec	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	dobj	_	Dep=30|Rel=Obj
+28	vode	voda	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	Dep=27|Rel=Atr
+29	šele	šele	PART	Q	_	30	advmod	_	Dep=0|Rel=Root
+30	zaslužiti	zaslužiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	23	csubj	_	SpaceAfter=No|Dep=25|Rel=Sb
+31	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
 
 ~~~
 

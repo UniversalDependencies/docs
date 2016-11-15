@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [hi-pos/ADV]() (372; 0% instance
 
 372 [hi-pos/ADV]() tokens (11% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (372; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (372; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (370; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (370; 99%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (369; 99%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (372; 100%), <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (372; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (370; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (370; 99%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (369; 99%).
 
 `ADV` tokens may have the following values of `AdvType`:
 

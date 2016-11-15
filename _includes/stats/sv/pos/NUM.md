@@ -11,9 +11,9 @@ The 10 most frequent `NUM` lemmas: <em>två, en, tre, 1, 20, 2, 1970, 3, 10, 197
 
 The 10 most frequent `NUM` types:  <em>två, tre, en, 1, 20, 2, ett, 1970, 3, 10</em>
 
-The 10 most frequent ambiguous lemmas: <em>två</em> ([NUM]() 110, [ADJ]() 23, [PRON]() 1), <em>en</em> ([DET]() 3843, [NUM]() 92, [ADJ]() 89, [PRON]() 58), <em>tre</em> ([NUM]() 67, [ADJ]() 10), <em>fyra</em> ([NUM]() 23, [ADJ]() 9), <em>sex</em> ([NUM]() 16, [NOUN]() 1), <em>tio</em> ([NUM]() 16, [ADJ]() 2), <em>fem</em> ([NUM]() 15, [ADJ]() 4), <em>åtta</em> ([NUM]() 5, [ADJ]() 1), <em>i</em> ([ADP]() 2512, [ADJ]() 1, [NOUN]() 1, [NUM]() 1)
+The 10 most frequent ambiguous lemmas: <em>två</em> ([NUM]() 110, [ADJ]() 23, [PRON]() 1), <em>en</em> ([DET]() 3843, [NUM]() 92, [ADJ]() 89, [PRON]() 58), <em>tre</em> ([NUM]() 67, [ADJ]() 10), <em>fyra</em> ([NUM]() 23, [ADJ]() 9), <em>sex</em> ([NUM]() 16, [NOUN]() 1), <em>tio</em> ([NUM]() 16, [ADJ]() 2), <em>fem</em> ([NUM]() 15, [ADJ]() 4), <em>åtta</em> ([NUM]() 5, [ADJ]() 1), <em>i</em> ([ADP]() 2512, [NUM]() 1, [NOUN]() 1, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1286, [NUM]() 56, [PRON]() 43), <em>ett</em> ([DET]() 599, [NUM]() 31, [PRON]() 4), <em>sex</em> ([NUM]() 15, [NOUN]() 1), <em>I</em> ([ADP]() 266, [PROPN]() 1, [NOUN]() 1, [ADJ]() 1, [NUM]() 1)
+The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1286, [NUM]() 56, [PRON]() 43), <em>ett</em> ([DET]() 599, [NUM]() 31, [PRON]() 4), <em>sex</em> ([NUM]() 15, [NOUN]() 1), <em>I</em> ([ADP]() 266, [NOUN]() 1, [ADJ]() 1, [PROPN]() 1, [NUM]() 1)
 
 
 * <em>en</em>
@@ -29,9 +29,9 @@ The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1286, [NUM]() 56, [P
   * [NOUN]() 1: <em>Kyrkan har all anledning att tala öppet och realistiskt både om <b>sex</b> och om äktenskap , och i det avseendet är mycket vunnet när man i vår tid avskaffat allt smussel .</em>
 * <em>I</em>
   * [ADP]() 266: <em><b>I</b> och med att kvinnan axlar mer krävande uppgifter får hon högre lön .</em>
-  * [PROPN]() 1: <em>De nationalitetsbeteckningar som bör användas i förbindelse med postnummer till utlandet är följande : Belgien B Danmark DK Finland SF Frankrike F Italien <b>I</b> Liechtenstein FL Norge N Schweiz CH Västtyskland D Österrike A</em>
   * [NOUN]() 1: <em>På <b>I</b> 12 i Eksjö tog en kompanichef för ett pansarvärnskompani saken i egna händer .</em>
   * [ADJ]() 1: <em>1 <b>I</b> Kor. 7:2 .</em>
+  * [PROPN]() 1: <em>De nationalitetsbeteckningar som bör användas i förbindelse med postnummer till utlandet är följande : Belgien B Danmark DK Finland SF Frankrike F Italien <b>I</b> Liechtenstein FL Norge N Schweiz CH Västtyskland D Österrike A</em>
   * [NUM]() 1: <em>De åldersgrupper , som lekcirkeln i första hand är tänkt för är - förutom babybarnen - småbarn ( 1-3 år ) , förskolebarn ( 4-6 år ) , skolbarn <b>I</b> ( 7-9 år ) och skolbarn II ( 10-12 år ) .</em>
 
 ## Morphology
@@ -152,4 +152,42 @@ The highest child degree of a `NUM` node is 7.
 Children of `NUM` nodes are attached using 14 different relations: [sv-dep/nmod]() (74; 26% instances), [sv-dep/punct]() (46; 16% instances), [sv-dep/case]() (40; 14% instances), [sv-dep/conj]() (36; 13% instances), [sv-dep/advmod]() (32; 11% instances), [sv-dep/cc]() (26; 9% instances), [sv-dep/det]() (8; 3% instances), [sv-dep/cop]() (5; 2% instances), [sv-dep/amod]() (4; 1% instances), [sv-dep/nsubj]() (4; 1% instances), [sv-dep/nummod]() (4; 1% instances), [sv-dep/appos]() (2; 1% instances), [sv-dep/mark]() (2; 1% instances), [sv-dep/acl:relcl]() (1; 0% instances)
 
 Children of `NUM` nodes belong to 14 different parts of speech: [NOUN]() (77; 27% instances), [PUNCT]() (46; 16% instances), [ADP]() (40; 14% instances), [ADV]() (35; 12% instances), [NUM]() (29; 10% instances), [CONJ]() (26; 9% instances), [DET]() (7; 2% instances), [VERB]() (7; 2% instances), [ADJ]() (6; 2% instances), [PROPN]() (4; 1% instances), [PRON]() (3; 1% instances), [SCONJ]() (2; 1% instances), [PART]() (1; 0% instances), [X]() (1; 0% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Swedish_Sign_Language)
+
+There are 1 `NUM` lemmas (9%), 5 `NUM` types (2%) and 8 `NUM` tokens (1%).
+Out of 11 observed tags, the rank of `NUM` is: 8 in number of lemmas, 7 in number of types and 10 in number of tokens.
+
+The 10 most frequent `NUM` lemmas: <em>_</em>
+
+The 10 most frequent `NUM` types:  <em>EN, EN-ENDA, EN-TILL, FEM, SJU_ÅTTA</em>
+
+The 10 most frequent ambiguous lemmas: <em>_</em> ([VERB]() 318, [NOUN]() 149, [X]() 59, [PRON]() 45, [ADV]() 35, [DET]() 19, [INTJ]() 14, [ADJ]() 14, [NUM]() 8, [ADP]() 8, [CONJ]() 3)
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `NUM` is 5.000000 (the average of all parts of speech is 29.545455).
+
+The 1st highest number of forms (5) was observed with the lemma “_”: <em>EN, EN-ENDA, EN-TILL, FEM, SJU_ÅTTA</em>.
+
+`NUM` does not occur with any features.
+
+
+## Relations
+
+`NUM` nodes are attached to their parents using 2 different relations: [sv-dep/nummod]() (5; 63% instances), [sv-dep/det]() (3; 38% instances)
+
+Parents of `NUM` nodes belong to 2 different parts of speech: [NOUN]() (7; 88% instances), [VERB]() (1; 13% instances)
+
+8 (100%) `NUM` nodes are leaves.
+
+The highest child degree of a `NUM` node is 0.
 

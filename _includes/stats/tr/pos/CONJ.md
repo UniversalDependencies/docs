@@ -13,11 +13,11 @@ The 10 most frequent `CONJ` types:  <em>ve, de, da, ama, ki, ile, ya, ise, ancak
 
 The 10 most frequent ambiguous lemmas: <em>de</em> ([VERB]() 483, [CONJ]() 442), <em>ki</em> ([ADP]() 333, [CONJ]() 122), <em>ile</em> ([CONJ]() 93, [ADP]() 23), <em>ya</em> ([CONJ]() 84, [INTJ]() 12), <em>ise</em> ([CONJ]() 63, [ADP]() 3), <em>ancak</em> ([CONJ]() 42, [ADV]() 11), <em>değil</em> ([VERB]() 122, [CONJ]() 40), <em>hem</em> ([CONJ]() 39, [ADV]() 6), <em>ne</em> ([PRON]() 185, [CONJ]() 19, [ADV]() 19, [ADJ]() 11), <em>oysa</em> ([CONJ]() 13, [ADV]() 5)
 
-The 10 most frequent ambiguous types:  <em>ki</em> ([ADP]() 291, [CONJ]() 121), <em>ile</em> ([CONJ]() 93, [ADP]() 23), <em>ya</em> ([CONJ]() 68, [INTJ]() 11, [ADP]() 2), <em>ise</em> ([CONJ]() 63, [ADP]() 3), <em>ancak</em> ([CONJ]() 18, [ADV]() 7), <em>değil</em> ([VERB]() 60, [CONJ]() 40), <em>hem</em> ([CONJ]() 24, [ADV]() 2), <em>ne</em> ([PRON]() 78, [CONJ]() 14, [ADV]() 10, [ADJ]() 6), <em>oysa</em> ([ADV]() 2, [CONJ]() 1), <em>mi</em> ([AUX]() 65, [CONJ]() 2)
+The 10 most frequent ambiguous types:  <em>ki</em> ([ADP]() 302, [CONJ]() 121), <em>ile</em> ([CONJ]() 93, [ADP]() 23), <em>ya</em> ([CONJ]() 68, [INTJ]() 11, [ADP]() 2), <em>ise</em> ([CONJ]() 63, [ADP]() 3), <em>ancak</em> ([CONJ]() 18, [ADV]() 7), <em>değil</em> ([VERB]() 60, [CONJ]() 40), <em>hem</em> ([CONJ]() 24, [ADV]() 2), <em>ne</em> ([PRON]() 84, [CONJ]() 14, [ADV]() 10, [ADJ]() 6), <em>oysa</em> ([ADV]() 2, [CONJ]() 1), <em>mi</em> ([AUX]() 65, [CONJ]() 2)
 
 
 * <em>ki</em>
-  * [ADP]() 291: <em>Birden , geldiğini duydum , parkta <b>ki</b> kalabalık karıştı .</em>
+  * [ADP]() 302: <em>Birden , geldiğini duydum , parkta <b>ki</b> kalabalık karıştı .</em>
   * [CONJ]() 121: <em>İyi <b>ki</b> kedi olalı bir fare tuttun , dedi Melek .</em>
 * <em>ile</em>
   * [CONJ]() 93: <em>Cumhurbaşkanı <b>ile</b> sürtüşen bir iktidar olmak istemiyoruz .</em>
@@ -34,12 +34,12 @@ The 10 most frequent ambiguous types:  <em>ki</em> ([ADP]() 291, [CONJ]() 121), 
   * [ADV]() 7: <em>Bize de <b>ancak</b> yararlı olduğumuz ölçüde gerek duyulur .</em>
 * <em>değil</em>
   * [VERB]() 60: <em>Kelime Rumca gibi görünse de <b>değil</b> .</em>
-  * [CONJ]() 40: <em>Sen ? usevisin , <b>değil</b> mi Maryline .</em>
+  * [CONJ]() 40: <em>Sen Musevi sin , <b>değil</b> mi Maryline .</em>
 * <em>hem</em>
   * [CONJ]() 24: <em>Hem süt emsin <b>hem</b> de biraz daha büyüsün . demişti .</em>
   * [ADV]() 2: <em>Silisimi beğendiği için yüz bin lira verdi , <b>hem</b> yine görüşürüz dedi .</em>
 * <em>ne</em>
-  * [PRON]() 78: <em>Asıl sen beni <b>ne</b> sandın .</em>
+  * [PRON]() 84: <em>Asıl sen beni <b>ne</b> sandın .</em>
   * [CONJ]() 14: <em>Ne kendileri ediyor rahat , <b>ne</b> aleme veriyorlar huzur ...</em>
   * [ADV]() 10: <em>Ne rahat , <b>ne</b> güzel bir ev bulmuşsun .</em>
   * [ADJ]() 6: <em>Büyük dayının aşık olması <b>ne</b> kadar heyecan ver ici .</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ki</em> ([ADP]() 291, [CONJ]() 121), 
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 1.038462 (the average of all parts of speech is 2.818565).
+The form / lemma ratio of `CONJ` is 1.038462 (the average of all parts of speech is 2.815350).
 
 The 1st highest number of forms (2) was observed with the lemma “da”: <em>da, daa</em>.
 

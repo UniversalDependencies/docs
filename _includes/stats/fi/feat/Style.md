@@ -16,7 +16,7 @@ The feature is used with 12 part-of-speech tags: [fi-pos/VERB]() (364; 0% instan
 
 364 [fi-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (343; 94%), <tt><a href="Voice.html">Voice</a>=Act</tt> (336; 92%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (292; 80%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (292; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (284; 78%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (271; 74%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (209; 57%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (343; 94%), <tt><a href="Voice.html">Voice</a>=Act</tt> (336; 92%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (292; 80%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (292; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (284; 78%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (271; 74%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (209; 57%).
 
 `VERB` tokens may have the following values of `Style`:
 
@@ -140,14 +140,14 @@ The most frequent other feature values with which `PROPN` and `Style` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Style`:
 <tt>VERB --[<a href="../dep/mark.html">mark</a>]--> ADV</tt> (5; 71%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1; 100%),
-<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (1; 100%),
+<tt>NOUN --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> PROPN</tt> (1; 100%),
+<tt>NOUN --[<a href="../dep/parataxis.html">parataxis</a>]--> NOUN</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> ADV</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/cc.html">cc</a>]--> ADV</tt> (1; 100%),
 <tt>AUX --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (1; 100%),
-<tt>NOUN --[<a href="../dep/parataxis.html">parataxis</a>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> PROPN</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> ADV</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1; 100%),
+<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%).
 
 
 
@@ -167,7 +167,7 @@ The feature is used with 13 part-of-speech tags: [fi-pos/VERB]() (1134; 1% insta
 
 1134 [fi-pos/VERB]() tokens (3% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1040; 92%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (1024; 90%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (945; 83%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (835; 74%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (835; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (788; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (603; 53%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1040; 92%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (1024; 90%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (945; 83%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (835; 74%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (835; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (788; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (603; 53%).
 
 `VERB` tokens may have the following values of `Style`:
 
@@ -310,12 +310,12 @@ The most frequent other feature values with which `PROPN` and `Style` co-occurre
 The 10 most frequent relations where parent and child node agree in `Style`:
 <tt>SCONJ --[<a href="../dep/conj.html">conj</a>]--> SCONJ</tt> (11; 73%),
 <tt>PRON --[<a href="../dep/advmod.html">advmod</a>]--> ADV</tt> (6; 55%),
-<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (5; 100%),
 <tt>PART --[<a href="../dep/conj.html">conj</a>]--> PART</tt> (5; 83%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (5; 63%),
-<tt>ADV --[<a href="../dep/mwe.html">mwe</a>]--> ADV</tt> (4; 100%),
+<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (5; 100%),
 <tt>ADV --[<a href="../dep/mwe.html">mwe</a>]--> SCONJ</tt> (4; 57%),
-<tt>ADV --[<a href="../dep/mark.html">mark</a>]--> SCONJ</tt> (3; 60%),
+<tt>ADV --[<a href="../dep/mwe.html">mwe</a>]--> ADV</tt> (4; 100%),
 <tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (3; 100%),
-<tt>VERB --[<a href="../dep/expl.html">expl</a>]--> ADV</tt> (1; 100%).
+<tt>ADV --[<a href="../dep/mark.html">mark</a>]--> SCONJ</tt> (3; 60%),
+<tt>NOUN --[<a href="../dep/advmod.html">advmod</a>]--> NOUN</tt> (1; 100%).
 

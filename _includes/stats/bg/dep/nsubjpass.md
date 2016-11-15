@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1158 nodes (1%) are attached to their parents as `nsubjpass`.
+1241 nodes (1%) are attached to their parents as `nsubjpass`.
 
-760 instances of `nsubjpass` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.11312607944732.
+807 instances of `nsubjpass` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.17002417405318.
 
-The following 7 pairs of parts of speech are connected with `nsubjpass`: [bg-pos/VERB]()-[bg-pos/NOUN]() (900; 78% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (150; 13% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (67; 6% instances), [bg-pos/VERB]()-[bg-pos/DET]() (12; 1% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (11; 1% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (10; 1% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (8; 1% instances).
+The following 10 pairs of parts of speech are connected with `nsubjpass`: [bg-pos/VERB]()-[bg-pos/NOUN]() (980; 79% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (152; 12% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (67; 5% instances), [bg-pos/VERB]()-[bg-pos/DET]() (13; 1% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (11; 1% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (11; 1% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/ADJ]()-[bg-pos/NOUN]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/PROPN]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

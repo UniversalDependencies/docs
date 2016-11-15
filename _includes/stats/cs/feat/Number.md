@@ -288,7 +288,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 * `Dual` (27; 0% of non-empty `Number`): <em>oběma, dvěma, čtyřma</em>
 * `Plur` (6148; 53% of non-empty `Number`): <em>dva, tři, dvě, dvou, čtyři, obou, oba, tří, pěti, obě</em>
 * `Sing` (5474; 47% of non-empty `Number`): <em>jeden, tisíc, pět, jednoho, jedné, jedna, jednu, deset, jedním, šest</em>
-* `EMPTY` (29861): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
+* `EMPTY` (29858): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
 
 <table>
   <tr><th>Paradigm <i>dva</i></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -531,7 +531,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 8465 [cs-pos/DET]() tokens (76% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (7900; 93%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (7072; 84%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (6643; 78%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6643; 78%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (5250; 62%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (7900; 93%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (7072; 84%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6643; 78%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (6643; 78%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (5250; 62%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -557,7 +557,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>naší, mé, mojí</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td></td><td></td><td><em>našich, mých</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Masc,Neut</tt></td><td><em>naším, mým</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>naší, mou, mojí</em></td><td><em>mýma, našima</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>naší, mojí, mou</em></td><td><em>mýma, našima</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins</tt></td><td></td><td></td><td><em>našimi</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Masc,Neut</tt></td><td><em>našem, mém</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>naší, mé</em></td><td></td><td></td></tr>
@@ -737,7 +737,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 2190 [cs-pos/VERB]() tokens (87% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (1937; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1930; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1806; 82%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1806; 82%), <tt><a href="Person.html">Person</a>=3</tt> (1806; 82%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1806; 82%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1803; 82%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (1937; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1930; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1806; 82%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1806; 82%), <tt><a href="Person.html">Person</a>=3</tt> (1806; 82%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1806; 82%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1803; 82%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -831,7 +831,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 109 [cs-pos/AUX]() tokens (64% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (109; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (86; 79%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (84; 77%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (58; 53%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (58; 53%), <tt><a href="Person.html">Person</a>=3</tt> (58; 53%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (58; 53%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (109; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (86; 79%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (84; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (58; 53%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (58; 53%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (58; 53%), <tt><a href="Person.html">Person</a>=3</tt> (58; 53%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -858,7 +858,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 69 [cs-pos/NUM]() tokens (16% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (69; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (69; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (58; 84%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (69; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (69; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (58; 84%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -884,5 +884,5 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (299; 59%),
 <tt>ADJ --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (251; 54%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (198; 96%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (181; 78%).
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (181; 92%).
 

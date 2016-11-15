@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-947 nodes (0%) are attached to their parents as `discourse`.
+942 nodes (0%) are attached to their parents as `discourse`.
 
-697 instances of `discourse` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.96515311510032.
+692 instances of `discourse` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.96072186836518.
 
-The following 44 pairs of parts of speech are connected with `discourse`: [en-pos/VERB]()-[en-pos/INTJ]() (561; 59% instances), [en-pos/NOUN]()-[en-pos/INTJ]() (78; 8% instances), [en-pos/VERB]()-[en-pos/SYM]() (66; 7% instances), [en-pos/ADJ]()-[en-pos/INTJ]() (51; 5% instances), [en-pos/PROPN]()-[en-pos/INTJ]() (25; 3% instances), [en-pos/INTJ]()-[en-pos/INTJ]() (24; 3% instances), [en-pos/NOUN]()-[en-pos/SYM]() (18; 2% instances), [en-pos/ADJ]()-[en-pos/SYM]() (17; 2% instances), [en-pos/ADV]()-[en-pos/INTJ]() (16; 2% instances), [en-pos/VERB]()-[en-pos/NOUN]() (11; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (7; 1% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (6; 1% instances), [en-pos/PROPN]()-[en-pos/SYM]() (6; 1% instances), [en-pos/VERB]()-[en-pos/ADV]() (6; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (6; 1% instances), [en-pos/NOUN]()-[en-pos/VERB]() (5; 1% instances), [en-pos/PRON]()-[en-pos/INTJ]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADV]()-[en-pos/SYM]() (3; 0% instances), [en-pos/NUM]()-[en-pos/INTJ]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/AUX]()-[en-pos/INTJ]() (2; 0% instances), [en-pos/DET]()-[en-pos/INTJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/ADP]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/SYM]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/PART]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/SYM]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/VERB]()-[en-pos/X]() (1; 0% instances).
+The following 44 pairs of parts of speech are connected with `discourse`: [en-pos/VERB]()-[en-pos/INTJ]() (559; 59% instances), [en-pos/NOUN]()-[en-pos/INTJ]() (75; 8% instances), [en-pos/VERB]()-[en-pos/SYM]() (66; 7% instances), [en-pos/ADJ]()-[en-pos/INTJ]() (49; 5% instances), [en-pos/PROPN]()-[en-pos/INTJ]() (25; 3% instances), [en-pos/INTJ]()-[en-pos/INTJ]() (24; 3% instances), [en-pos/NOUN]()-[en-pos/SYM]() (18; 2% instances), [en-pos/ADJ]()-[en-pos/SYM]() (17; 2% instances), [en-pos/ADV]()-[en-pos/INTJ]() (16; 2% instances), [en-pos/VERB]()-[en-pos/NOUN]() (11; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (7; 1% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (6; 1% instances), [en-pos/PRON]()-[en-pos/INTJ]() (6; 1% instances), [en-pos/PROPN]()-[en-pos/SYM]() (6; 1% instances), [en-pos/VERB]()-[en-pos/ADV]() (6; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (6; 1% instances), [en-pos/NOUN]()-[en-pos/VERB]() (5; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADV]()-[en-pos/SYM]() (3; 0% instances), [en-pos/NUM]()-[en-pos/INTJ]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/AUX]()-[en-pos/INTJ]() (2; 0% instances), [en-pos/DET]()-[en-pos/INTJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/ADP]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/SYM]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/PART]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/SYM]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/VERB]()-[en-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -82,7 +82,7 @@ This relation is universal.
 73 instances of `discourse` (85%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.88372093023256.
 
-The following 12 pairs of parts of speech are connected with `discourse`: [en-pos/VERB]()-[en-pos/INTJ]() (54; 63% instances), [en-pos/ADJ]()-[en-pos/INTJ]() (6; 7% instances), [en-pos/NOUN]()-[en-pos/INTJ]() (5; 6% instances), [en-pos/VERB]()-[en-pos/ADV]() (5; 6% instances), [en-pos/VERB]()-[en-pos/VERB]() (4; 5% instances), [en-pos/VERB]()-[en-pos/NOUN]() (3; 3% instances), [en-pos/ADJ]()-[en-pos/VERB]() (2; 2% instances), [en-pos/ADV]()-[en-pos/INTJ]() (2; 2% instances), [en-pos/NOUN]()-[en-pos/VERB]() (2; 2% instances), [en-pos/ADV]()-[en-pos/ADV]() (1; 1% instances), [en-pos/INTJ]()-[en-pos/INTJ]() (1; 1% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `discourse`: [en-pos/VERB]()-[en-pos/INTJ]() (54; 63% instances), [en-pos/ADJ]()-[en-pos/INTJ]() (6; 7% instances), [en-pos/VERB]()-[en-pos/ADV]() (5; 6% instances), [en-pos/NOUN]()-[en-pos/INTJ]() (4; 5% instances), [en-pos/VERB]()-[en-pos/VERB]() (4; 5% instances), [en-pos/VERB]()-[en-pos/NOUN]() (3; 3% instances), [en-pos/ADJ]()-[en-pos/VERB]() (2; 2% instances), [en-pos/ADV]()-[en-pos/INTJ]() (2; 2% instances), [en-pos/NOUN]()-[en-pos/VERB]() (2; 2% instances), [en-pos/ADV]()-[en-pos/ADV]() (1; 1% instances), [en-pos/INTJ]()-[en-pos/INTJ]() (1; 1% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 1% instances), [en-pos/PRON]()-[en-pos/INTJ]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -141,19 +141,23 @@ The following 12 pairs of parts of speech are connected with `discourse`: [en-po
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 discourse	color:blue
-1	_	_	INTJ	UH	_	7	discourse	_	_
-2	_	_	PUNCT	,	_	7	punct	_	_
-3	_	_	PRON	PRP	_	7	nsubj	_	_
-4	_	_	VERB	VBD	_	7	cop	_	_
-5	_	_	DET	DT	_	7	det	_	_
-6	_	_	ADJ	JJ	_	7	amod	_	_
-7	_	_	NOUN	NN	_	0	root	_	_
-8	_	_	PUNCT	.	_	7	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 10 discourse	color:blue
+1	_	_	INTJ	UH	_	4	discourse	_	_
+2	_	_	PUNCT	,	_	4	punct	_	_
+3	_	_	PRON	EX	_	4	expl	_	_
+4	_	_	VERB	VBZ	_	0	root	_	_
+5	_	_	ADJ	JJ	_	6	amod	_	_
+6	_	_	NOUN	NN	_	4	nsubj	_	_
+7	_	_	ADP	IN	_	9	case	_	_
+8	_	_	ADJ	JJ	_	9	amod	_	_
+9	_	_	NOUN	NN	_	6	nmod	_	_
+10	_	_	ADV	RB	_	4	discourse	_	_
+11	_	_	ADV	RB	_	10	mwe	_	_
+12	_	_	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

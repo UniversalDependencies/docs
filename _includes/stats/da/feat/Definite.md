@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 1867 [da-pos/VERB]() tokens (17% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1867; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1867; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1867; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1849; 99%), <tt><a href="VerbForm.html">VerbForm</a>=Part,Trans</tt> (1688; 90%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1867; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1867; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1867; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1849; 99%), <tt><a href="VerbForm.html">VerbForm</a>=Part,Trans</tt> (1688; 90%).
 
 `VERB` tokens may have the following values of `Definite`:
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 186 [da-pos/AUX]() tokens (4% of all `AUX` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (186; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (186; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part,Trans</tt> (186; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (186; 100%).
+The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (186; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (186; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (186; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part,Trans</tt> (186; 100%).
 
 `AUX` tokens may have the following values of `Definite`:
 

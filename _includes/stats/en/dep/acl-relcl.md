@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [acl]().
 
-2436 nodes (1%) are attached to their parents as `acl:relcl`.
+2250 nodes (1%) are attached to their parents as `acl:relcl`.
 
-2435 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.17282430213465.
+2249 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.04266666666667.
 
-The following 39 pairs of parts of speech are connected with `acl:relcl`: [en-pos/NOUN]()-[en-pos/VERB]() (1699; 70% instances), [en-pos/PRON]()-[en-pos/VERB]() (188; 8% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (118; 5% instances), [en-pos/PROPN]()-[en-pos/VERB]() (98; 4% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (66; 3% instances), [en-pos/DET]()-[en-pos/VERB]() (46; 2% instances), [en-pos/ADJ]()-[en-pos/VERB]() (29; 1% instances), [en-pos/ADV]()-[en-pos/VERB]() (28; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (20; 1% instances), [en-pos/NUM]()-[en-pos/VERB]() (17; 1% instances), [en-pos/NOUN]()-[en-pos/AUX]() (15; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (14; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (14; 1% instances), [en-pos/NOUN]()-[en-pos/ADP]() (13; 1% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (9; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (4; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (4; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (4; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (4; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (3; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (2; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (2; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/PRON]()-[en-pos/AUX]() (2; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADP]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (1; 0% instances).
+The following 40 pairs of parts of speech are connected with `acl:relcl`: [en-pos/NOUN]()-[en-pos/VERB]() (1465; 65% instances), [en-pos/PRON]()-[en-pos/VERB]() (264; 12% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (104; 5% instances), [en-pos/PROPN]()-[en-pos/VERB]() (90; 4% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (61; 3% instances), [en-pos/DET]()-[en-pos/VERB]() (45; 2% instances), [en-pos/ADJ]()-[en-pos/VERB]() (29; 1% instances), [en-pos/ADV]()-[en-pos/VERB]() (28; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (20; 1% instances), [en-pos/NUM]()-[en-pos/VERB]() (17; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (14; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (13; 1% instances), [en-pos/NOUN]()-[en-pos/ADP]() (12; 1% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (9; 0% instances), [en-pos/PRON]()-[en-pos/AUX]() (8; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (7; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (7; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (4; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (4; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (3; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (2; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (2; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADP]() (2; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (2; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -89,7 +89,35 @@ This relation is a language-specific subtype of [acl]().
 977 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.75742067553736.
 
-The following 28 pairs of parts of speech are connected with `acl:relcl`: [en-pos/NOUN]()-[en-pos/VERB]() (742; 76% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (65; 7% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (40; 4% instances), [en-pos/PRON]()-[en-pos/VERB]() (38; 4% instances), [en-pos/PROPN]()-[en-pos/VERB]() (19; 2% instances), [en-pos/DET]()-[en-pos/VERB]() (14; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (9; 1% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (8; 1% instances), [en-pos/NUM]()-[en-pos/VERB]() (5; 1% instances), [en-pos/ADV]()-[en-pos/VERB]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (2; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADP]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `acl:relcl`: [en-pos/NOUN]()-[en-pos/VERB]() (701; 72% instances), [en-pos/PRON]()-[en-pos/VERB]() (81; 8% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (65; 7% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (40; 4% instances), [en-pos/PROPN]()-[en-pos/VERB]() (19; 2% instances), [en-pos/DET]()-[en-pos/VERB]() (12; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (9; 1% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (8; 1% instances), [en-pos/NUM]()-[en-pos/VERB]() (5; 1% instances), [en-pos/ADV]()-[en-pos/VERB]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (3; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (2; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADP]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 15 acl:relcl	color:blue
+1	_	_	NUM	CD	_	8	nsubj	_	_
+2	_	_	ADP	IN	_	4	case	_	_
+3	_	_	DET	PRP$	_	4	nmod:poss	_	_
+4	_	_	NOUN	NN	_	1	nmod	_	_
+5	_	_	PUNCT	,	_	4	punct	_	_
+6	_	_	PROPN	NNP	_	4	appos	_	_
+7	_	_	PUNCT	,	_	8	punct	_	_
+8	_	_	VERB	VBD	_	0	root	_	_
+9	_	_	PART	TO	_	10	mark	_	_
+10	_	_	VERB	VB	_	8	xcomp	_	_
+11	_	_	DET	DT	_	13	det	_	_
+12	_	_	ADJ	JJ	_	13	amod	_	_
+13	_	_	NOUN	NN	_	10	dobj	_	_
+14	_	_	DET	WDT	_	15	nsubj	_	_
+15	_	_	VERB	VBZ	_	13	acl:relcl	_	_
+16	_	_	SYM	$	_	15	dobj	_	_
+17	_	_	NUM	CD	_	16	nummod	_	_
+18	_	_	PUNCT	.	_	8	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -101,24 +129,24 @@ The following 28 pairs of parts of speech are connected with `acl:relcl`: [en-po
 1	_	_	CONJ	CC	_	3	cc	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	NOUN	NN	_	0	root	_	_
-4	_	_	DET	DT	_	3	dobj	_	_
+4	_	_	PRON	DT	_	3	dobj	_	_
 5	_	_	PUNCT	,	_	3	punct	_	_
 6	_	_	SCONJ	IN	_	9	mark	_	_
 7	_	_	PRON	PRP	_	9	expl	_	_
 8	_	_	VERB	VBZ	_	9	cop	_	_
 9	_	_	ADJ	JJR	_	3	advcl	_	_
-10	_	_	NOUN	NN	_	11	dobj	_	_
+10	_	_	PRON	NN	_	11	dobj	_	_
 11	_	_	VERB	VBG	_	9	csubj	_	_
 12	_	_	SCONJ	IN	_	13	mark	_	_
 13	_	_	VERB	VBG	_	9	advcl	_	_
 14	_	_	NOUN	NNS	_	13	dobj	_	_
 15	_	_	ADP	IN	_	16	case	_	_
-16	_	_	NOUN	NN	_	13	nmod	_	_
-17	_	_	DET	WDT	_	18	nsubj	_	_
+16	_	_	PRON	NN	_	13	nmod	_	_
+17	_	_	PRON	WDT	_	18	nsubj	_	_
 18	_	_	VERB	VB	_	16	acl:relcl	_	_
 19	_	_	PRON	PRP	_	18	dobj	_	_
 20	_	_	VERB	VB	_	18	xcomp	_	_
-21	_	_	NOUN	NN	_	20	dobj	_	_
+21	_	_	PRON	NN	_	20	dobj	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
 ~~~
@@ -163,38 +191,6 @@ The following 28 pairs of parts of speech are connected with `acl:relcl`: [en-po
 31	_	_	ADP	IN	_	32	case	_	_
 32	_	_	NOUN	NN	_	30	nmod	_	_
 33	_	_	PUNCT	.	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 12 acl:relcl	color:blue
-1	_	_	PRON	PRP	_	6	nsubj	_	_
-2	_	_	VERB	VBZ	_	6	cop	_	_
-3	_	_	DET	DT	_	6	det	_	_
-4	_	_	ADV	RB	_	5	advmod	_	_
-5	_	_	ADJ	JJ	_	6	amod	_	_
-6	_	_	NOUN	NN	_	0	root	_	_
-7	_	_	DET	WDT	_	12	nsubj	_	_
-8	_	_	VERB	VBZ	_	12	cop	_	_
-9	_	_	ADP	IN	_	12	case	_	_
-10	_	_	DET	DT	_	12	det	_	_
-11	_	_	ADJ	JJ	_	12	amod	_	_
-12	_	_	NOUN	NN	_	6	acl:relcl	_	_
-13	_	_	ADP	IN	_	16	case	_	_
-14	_	_	DET	DT	_	16	det	_	_
-15	_	_	NOUN	NN	_	16	compound	_	_
-16	_	_	NOUN	NN	_	12	nmod	_	_
-17	_	_	PUNCT	,	_	12	punct	_	_
-18	_	_	ADV	RB	_	19	advmod	_	_
-19	_	_	NUM	CD	_	21	nummod	_	_
-20	_	_	NOUN	NN	_	21	nmod:npmod	_	_
-21	_	_	ADV	RB	_	12	advmod	_	_
-22	_	_	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

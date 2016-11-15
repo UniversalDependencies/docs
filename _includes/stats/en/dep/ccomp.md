@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3042 nodes (1%) are attached to their parents as `ccomp`.
+2990 nodes (1%) are attached to their parents as `ccomp`.
 
-2917 instances of `ccomp` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.54799474030243.
+2866 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.52675585284281.
 
-The following 29 pairs of parts of speech are connected with `ccomp`: [en-pos/VERB]()-[en-pos/VERB]() (2063; 68% instances), [en-pos/VERB]()-[en-pos/ADJ]() (316; 10% instances), [en-pos/VERB]()-[en-pos/NOUN]() (265; 9% instances), [en-pos/ADJ]()-[en-pos/VERB]() (207; 7% instances), [en-pos/VERB]()-[en-pos/ADV]() (31; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (28; 1% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (25; 1% instances), [en-pos/VERB]()-[en-pos/PRON]() (25; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (18; 1% instances), [en-pos/ADV]()-[en-pos/VERB]() (9; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (8; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (8; 0% instances), [en-pos/VERB]()-[en-pos/INTJ]() (7; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (3; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (3; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/PART]() (2; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (2; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/AUX]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/PRON]() (1; 0% instances), [en-pos/ADV]()-[en-pos/PART]() (1; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PART]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PART]() (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `ccomp`: [en-pos/VERB]()-[en-pos/VERB]() (2022; 68% instances), [en-pos/VERB]()-[en-pos/ADJ]() (313; 10% instances), [en-pos/VERB]()-[en-pos/NOUN]() (257; 9% instances), [en-pos/ADJ]()-[en-pos/VERB]() (206; 7% instances), [en-pos/VERB]()-[en-pos/ADV]() (31; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (28; 1% instances), [en-pos/VERB]()-[en-pos/PRON]() (27; 1% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (24; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (17; 1% instances), [en-pos/ADV]()-[en-pos/VERB]() (9; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (8; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (7; 0% instances), [en-pos/VERB]()-[en-pos/INTJ]() (7; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (3; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (3; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/PART]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PRON]() (2; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (2; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/AUX]() (1; 0% instances), [en-pos/ADV]()-[en-pos/PART]() (1; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PART]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -85,7 +85,7 @@ This relation is universal.
 1302 instances of `ccomp` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.92791411042945.
 
-The following 19 pairs of parts of speech are connected with `ccomp`: [en-pos/VERB]()-[en-pos/VERB]() (826; 63% instances), [en-pos/VERB]()-[en-pos/ADJ]() (229; 18% instances), [en-pos/VERB]()-[en-pos/NOUN]() (120; 9% instances), [en-pos/ADJ]()-[en-pos/VERB]() (56; 4% instances), [en-pos/VERB]()-[en-pos/ADV]() (23; 2% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (9; 1% instances), [en-pos/VERB]()-[en-pos/PRON]() (9; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (8; 1% instances), [en-pos/NOUN]()-[en-pos/VERB]() (4; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (3; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (3; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (1; 0% instances), [en-pos/VERB]()-[en-pos/X]() (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `ccomp`: [en-pos/VERB]()-[en-pos/VERB]() (826; 63% instances), [en-pos/VERB]()-[en-pos/ADJ]() (229; 18% instances), [en-pos/VERB]()-[en-pos/NOUN]() (119; 9% instances), [en-pos/ADJ]()-[en-pos/VERB]() (56; 4% instances), [en-pos/VERB]()-[en-pos/ADV]() (23; 2% instances), [en-pos/VERB]()-[en-pos/PRON]() (10; 1% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (9; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (8; 1% instances), [en-pos/NOUN]()-[en-pos/VERB]() (4; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (3; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (3; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (1; 0% instances), [en-pos/VERB]()-[en-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -115,11 +115,11 @@ The following 19 pairs of parts of speech are connected with `ccomp`: [en-pos/VE
 19	_	_	AUX	VBP	_	21	aux	_	_
 20	_	_	PRON	PRP	_	21	nsubj	_	_
 21	_	_	VERB	VB	_	6	parataxis	_	_
-22	_	_	NOUN	NN	_	23	nsubj	_	_
+22	_	_	PRON	NN	_	23	nsubj	_	_
 23	_	_	VERB	VBP	_	21	ccomp	_	_
 24	_	_	PRON	PRP	_	23	iobj	_	_
 25	_	_	ADP	RP	_	23	compound:prt	_	_
-26	_	_	NOUN	NN	_	23	dobj	_	_
+26	_	_	PRON	NN	_	23	dobj	_	_
 27	_	_	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -150,7 +150,7 @@ The following 19 pairs of parts of speech are connected with `ccomp`: [en-pos/VE
 17	_	_	VERB	VBD	_	14	advcl	_	_
 18	_	_	PART	TO	_	19	mark	_	_
 19	_	_	VERB	VB	_	17	xcomp	_	_
-20	_	_	DET	DT	_	19	dobj	_	_
+20	_	_	PRON	DT	_	19	dobj	_	_
 21	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~

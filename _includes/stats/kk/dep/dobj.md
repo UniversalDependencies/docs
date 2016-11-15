@@ -5,13 +5,14 @@
 ## Treebank Statistics (UD_Kazakh)
 
 This relation is universal.
+There are 1 language-specific subtypes of `dobj`: [dobj:caus]().
 
-251 nodes (5%) are attached to their parents as `dobj`.
+334 nodes (5%) are attached to their parents as `dobj`.
 
-250 instances of `dobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.54581673306773.
+332 instances of `dobj` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.53293413173653.
 
-The following 8 pairs of parts of speech are connected with `dobj`: [kk-pos/VERB]()-[kk-pos/NOUN]() (217; 86% instances), [kk-pos/VERB]()-[kk-pos/PRON]() (16; 6% instances), [kk-pos/VERB]()-[kk-pos/PROPN]() (10; 4% instances), [kk-pos/VERB]()-[kk-pos/ADJ]() (4; 2% instances), [kk-pos/ADJ]()-[kk-pos/NOUN]() (1; 0% instances), [kk-pos/NOUN]()-[kk-pos/PRON]() (1; 0% instances), [kk-pos/PRON]()-[kk-pos/VERB]() (1; 0% instances), [kk-pos/VERB]()-[kk-pos/NUM]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `dobj`: [kk-pos/VERB]()-[kk-pos/NOUN]() (279; 84% instances), [kk-pos/VERB]()-[kk-pos/PRON]() (32; 10% instances), [kk-pos/VERB]()-[kk-pos/PROPN]() (11; 3% instances), [kk-pos/VERB]()-[kk-pos/ADJ]() (7; 2% instances), [kk-pos/VERB]()-[kk-pos/NUM]() (2; 1% instances), [kk-pos/ADJ]()-[kk-pos/NOUN]() (1; 0% instances), [kk-pos/NOUN]()-[kk-pos/PRON]() (1; 0% instances), [kk-pos/PRON]()-[kk-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,27 +33,19 @@ The following 8 pairs of parts of speech are connected with `dobj`: [kk-pos/VERB
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 dobj	color:blue
-1	Ол	ол	PRON	prn	_	14	nsubj	_	pers|p3|sg|nom
-2	"	"	PUNCT	sent	_	9	punct	_	_
-3	Азамат	Азамат	PROPN	np	_	6	nsubj	_	ant|m|nom
-4	қай	қай	DET	det	_	5	det	_	itg
-5	жерге	жер	NOUN	n	_	6	nmod	_	dat
-6	кетті	кет	VERB	v	_	9	parataxis	_	iv|ifi|p3|sg
-7	?	?	PUNCT	sent	_	6	punct	_	_
-8	Оны	ол	PRON	prn	_	9	dobj	_	pers|p3|sg|acc
-9	_	көр	VERB	v	_	13	ccomp	_	tv|ifi|p2|pl
-10	_	ма	PART	qst	_	9	discourse	_	_
-11	?	?	PUNCT	sent	_	9	punct	_	_
-12	"	"	PUNCT	sent	_	9	punct	_	_
-13	деп	де	VERB	v	_	14	advcl	_	tv|gna_perf
-14	іздеп	ізде	VERB	v	_	0	root	_	tv|prc_perf
-15	жатыр	жат	AUX	vaux	_	14	aux	_	pres|p3|sg
-16	.	.	PUNCT	sent	_	14	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 dobj	color:blue
+1	Анау	анау	DET	det	PronType=Dem	2	det	_	анау|det|dem
+2	жігіттен	жігіт	NOUN	n	Case=Abl	7	nmod	_	жігіт|n|abl
+3	сені	сен	PRON	prn	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	dobj	_	сен|prn|pers|p2|sg|acc
+4	маған	мен	PRON	prn	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	nmod	_	мен|prn|pers|p1|sg|dat
+5	бер	бер	VERB	v	Mood=Imper|Number=Sing|Person=2	6	ccomp	_	бер|v|tv|imp|p2|sg
+6	деп	де	VERB	v	Aspect=Perf|VerbForm=Trans	7	advcl	_	де|v|tv|gnaperf
+7	сұраған	сұра	VERB	v	Number=Sing|Person=3|Tense=Past	0	root	_	сұра|v|tv|past|p3|sg
+8	.	.	PUNCT	sent	_	7	punct	_	.|sent
 
 ~~~
 

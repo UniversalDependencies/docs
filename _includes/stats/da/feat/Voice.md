@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/VERB]() (8289; 8% instan
 
 8289 [da-pos/VERB]() tokens (77% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (8289; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8289; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5615; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5615; 68%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (8289; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8289; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5615; 68%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5615; 68%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -53,6 +53,6 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (41; 73%),
 <tt>VERB --[<a href="../dep/mark.html">mark</a>]--> VERB</tt> (16; 64%),
 <tt>AUX --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (7; 88%),
-<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/nmod:loc.html">nmod:loc</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/nmod:loc.html">nmod:loc</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/reparandum.html">reparandum</a>]--> VERB</tt> (1; 100%).
 

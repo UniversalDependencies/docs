@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 1 [ga-pos/X]() tokens (0% of all `X` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `X` and `Voice` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Dialect.html">Dialect</a>=Munster</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Voice` co-occurred: <tt><a href="Dialect.html">Dialect</a>=Munster</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Voice`:
 

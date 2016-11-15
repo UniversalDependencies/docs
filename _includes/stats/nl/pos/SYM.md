@@ -72,7 +72,7 @@ The 10 most frequent `SYM` lemmas: <em>6-2, %, &amp;, 7-5, 6-4, km², 6-3, 6-1, 
 
 The 10 most frequent `SYM` types:  <em>6-2, &amp;, %, 7-5, 6-4, km², 6-3, 6-1, m, 4-6</em>
 
-The 10 most frequent ambiguous lemmas: <em>&amp;</em> ([SYM]() 23, [PUNCT]() 8), <em>1965</em> ([NUM]() 7, [SYM]() 6), <em>km</em> ([SYM]() 6, [NOUN]() 5, [X]() 2), <em>1966</em> ([NUM]() 12, [SYM]() 3), <em>Z</em> ([SYM]() 2, [PROPN]() 1), <em>1/8</em> ([SYM]() 1, [NUM]() 1), <em>1999-2004</em> ([NUM]() 1, [SYM]() 1), <em>7</em> ([NUM]() 26, [SYM]() 1), <em>8</em> ([NUM]() 23, [SYM]() 1), <em>Art</em> ([PROPN]() 6, [SYM]() 1)
+The 10 most frequent ambiguous lemmas: <em>&amp;</em> ([SYM]() 23, [PUNCT]() 8), <em>1965</em> ([NUM]() 7, [SYM]() 6), <em>km</em> ([SYM]() 6, [NOUN]() 5, [X]() 2), <em>1966</em> ([NUM]() 12, [SYM]() 3), <em>Z</em> ([SYM]() 2, [PROPN]() 1), <em>1/8</em> ([NUM]() 1, [SYM]() 1), <em>1999-2004</em> ([NUM]() 1, [SYM]() 1), <em>7</em> ([NUM]() 26, [SYM]() 1), <em>8</em> ([NUM]() 23, [SYM]() 1), <em>Art</em> ([PROPN]() 6, [SYM]() 1)
 
 The 10 most frequent ambiguous types:  <em>&amp;</em> ([SYM]() 23, [PUNCT]() 8), <em>1965</em> ([NUM]() 7, [SYM]() 6), <em>km</em> ([SYM]() 6, [NOUN]() 5, [X]() 2), <em>1966</em> ([NUM]() 12, [SYM]() 3), <em>Z</em> ([SYM]() 2, [PROPN]() 1), <em>1/8</em> ([NUM]() 1, [SYM]() 1), <em>1950-1954</em> ([NUM]() 1, [SYM]() 1), <em>1955-1975</em> ([SYM]() 1, [NUM]() 1), <em>1977-1978</em> ([SYM]() 1, [NUM]() 1), <em>1999-2004</em> ([NUM]() 1, [SYM]() 1)
 

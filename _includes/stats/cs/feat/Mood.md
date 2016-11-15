@@ -72,7 +72,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 16796 [cs-pos/AUX]() tokens (81% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (16796; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16796; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (8903; 53%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8903; 53%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (8893; 53%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16796; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (16796; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8903; 53%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (8903; 53%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (8893; 53%).
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -185,7 +185,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 4596 [cs-pos/AUX]() tokens (75% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4596; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4596; 100%), <tt><a href="Person.html">Person</a>=3</tt> (3248; 71%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2528; 55%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (2406; 52%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4596; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4596; 100%), <tt><a href="Person.html">Person</a>=3</tt> (3248; 71%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2528; 55%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (2406; 52%).
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -249,7 +249,7 @@ The feature is used with 2 part-of-speech tags: [cs-pos/VERB]() (1806; 5% instan
 
 1806 [cs-pos/VERB]() tokens (72% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1806; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1806; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1806; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1806; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1802; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1566; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (1197; 66%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1806; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1806; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1806; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1806; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1802; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1566; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (1197; 66%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -262,7 +262,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 84 [cs-pos/AUX]() tokens (49% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (84; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (84; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (84; 100%), <tt><a href="Person.html">Person</a>=3</tt> (74; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (58; 69%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (45; 54%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (84; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (84; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (84; 100%), <tt><a href="Person.html">Person</a>=3</tt> (74; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (58; 69%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (45; 54%).
 
 `AUX` tokens may have the following values of `Mood`:
 

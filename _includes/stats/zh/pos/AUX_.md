@@ -13,7 +13,7 @@ The 10 most frequent `AUX` types:  會、 可以、 可、 能、 要、 可能�
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 34043, [VERB]() 20468, [PUNCT]() 17047, [PART]() 13172, [PROPN]() 10741, [NUM]() 6659, [ADV]() 5749, [ADP]() 5424, [ADJ]() 3032, [PRON]() 1776, [CONJ]() 1740, [DET]() 1297, [X]() 1209, [AUX]() 889, [SYM]() 37)
 
-The 10 most frequent ambiguous types:  會 ([AUX]() 200, [PART]() 137, [NOUN]() 3), 可 ([AUX]() 106, [ADV]() 1), 能 ([AUX]() 72, [PART]() 8), 要 ([AUX]() 67, [VERB]() 7), 可能 ([AUX]() 60, [NOUN]() 9), 必須 ([AUX]() 28, [ADJ]() 1, [VERB]() 1), 想 ([AUX]() 19, [VERB]() 3), 需要 ([VERB]() 16, [AUX]() 16, [NOUN]() 7), 需 ([AUX]() 14, [VERB]() 3), 應 ([AUX]() 12, [ADP]() 2)
+The 10 most frequent ambiguous types:  會 ([AUX]() 200, [PART]() 137, [NOUN]() 3), 可 ([AUX]() 106, [ADV]() 1), 能 ([AUX]() 72, [PART]() 8), 要 ([AUX]() 67, [VERB]() 7), 可能 ([AUX]() 60, [NOUN]() 9), 必須 ([AUX]() 28, [ADJ]() 1, [VERB]() 1), 想 ([AUX]() 19, [VERB]() 3), 需要 ([AUX]() 16, [VERB]() 16, [NOUN]() 7), 需 ([AUX]() 14, [VERB]() 3), 應 ([AUX]() 12, [ADP]() 2)
 
 
 * 會
@@ -40,8 +40,8 @@ The 10 most frequent ambiguous types:  會 ([AUX]() 200, [PART]() 137, [NOUN]() 
   * [AUX]() 19: 但 哈利 · 華納 表示 反對 意見 : 「 誰 會 <b>想</b> 要 聽到 演員 開口 說話 呢 ? 」 .
   * [VERB]() 3: 報導 指出 她 非常 愛 他 , 並 <b>想</b> 為 他 生 孩子 .
 * 需要
-  * [VERB]() 16: 有些 系統 故意 設計 為 不能 進行 完全 自動 故障 轉移 , 而是 <b>需要</b> 管理 員 介入 .
   * [AUX]() 16: 此處 不 <b>需要</b> 保護 補給 線 的 安全 而 持續 控制 .
+  * [VERB]() 16: 有些 系統 故意 設計 為 不能 進行 完全 自動 故障 轉移 , 而是 <b>需要</b> 管理 員 介入 .
   * [NOUN]() 7: 未來 如果 有 <b>需要</b> 再 增加 推薦 用字 的話 , 國語 會 會 再補 .
 * 需
   * [AUX]() 14: 這些 顯然 都是 台灣 媒體 所 <b>需</b> 大力 加強 的 .

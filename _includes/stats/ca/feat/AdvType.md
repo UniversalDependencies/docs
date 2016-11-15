@@ -24,16 +24,6 @@ The most frequent other feature values with which `NOUN` and `AdvType` co-occurr
 
 `AdvType` seems to be **lexical feature** of `NOUN`. 100% lemmas (300) occur only with one value of `AdvType`.
 
-### `SYM`
-
-1 [ca-pos/SYM]() tokens (0% of all `SYM` tokens) have a non-empty value of `AdvType`.
-
-The most frequent other feature values with which `SYM` and `AdvType` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (1; 100%).
-
-`SYM` tokens may have the following values of `AdvType`:
-
-* `Tim` (1; 100% of non-empty `AdvType`): <em>22,7%</em>
-
 ### `ADV`
 
 1 [ca-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `AdvType`.
@@ -43,6 +33,16 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
 `ADV` tokens may have the following values of `AdvType`:
 
 * `Tim` (1; 100% of non-empty `AdvType`): <em>més</em>
+
+### `SYM`
+
+1 [ca-pos/SYM]() tokens (0% of all `SYM` tokens) have a non-empty value of `AdvType`.
+
+The most frequent other feature values with which `SYM` and `AdvType` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (1; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1; 100%).
+
+`SYM` tokens may have the following values of `AdvType`:
+
+* `Tim` (1; 100% of non-empty `AdvType`): <em>22,7%</em>
 
 ## Relations with Agreement in `AdvType`
 

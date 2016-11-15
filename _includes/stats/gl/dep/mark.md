@@ -99,3 +99,78 @@ The following 13 pairs of parts of speech are connected with `mark`: [gl-pos/VER
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+858 nodes (4%) are attached to their parents as `mark`.
+
+857 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.99184149184149.
+
+The following 22 pairs of parts of speech are connected with `mark`: [gl-pos/VERB]()-[gl-pos/SCONJ]() (369; 43% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (339; 40% instances), [gl-pos/NOUN]()-[gl-pos/SCONJ]() (36; 4% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (24; 3% instances), [gl-pos/VERB]()-[gl-pos/CONJ]() (20; 2% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (19; 2% instances), [gl-pos/ADV]()-[gl-pos/SCONJ]() (9; 1% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (7; 1% instances), [gl-pos/PRON]()-[gl-pos/SCONJ]() (7; 1% instances), [gl-pos/ADV]()-[gl-pos/CONJ]() (4; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (4; 0% instances), [gl-pos/PRON]()-[gl-pos/ADP]() (4; 0% instances), [gl-pos/PROPN]()-[gl-pos/SCONJ]() (3; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/ADV]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/CONJ]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/ADJ]()-[gl-pos/CONJ]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 4 mark	color:blue
+1	esa	ese	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	compañía	compañía	NOUN	Scfs	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	di	dicir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	Cs	_	9	mark	_	_
+5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	única	único	ADJ	A0fs	Gender=Fem|Number=Sing	7	amod	_	_
+7	saída	saída	NOUN	Scfs	Gender=Fem|Number=Sing	9	nsubj	_	_
+8	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	continuar	continuar	VERB	V0f000	VerbForm=Inf	3	ccomp	_	_
+10	onde	onde	ADV	Wr	PronType=Rel	9	advcl	_	_
+11	está	estar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+12	.	.	PUNCT	Q.	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 mark	color:blue
+1	por	por	ADP	P	AdpType=Prep	2	mark	_	_
+2	emocionar	emocionar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+3	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	2	dobj	_	_
+4	e	e	CONJ	Cc	_	2	cc	_	_
+5	facer	facer	VERB	V0f000	VerbForm=Inf	2	conj	_	_
+6	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	5	dobj	_	_
+7	sentir	sentir	VERB	V0f000	VerbForm=Inf	5	xcomp	_	_
+8	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 mark	color:blue
+1	coida	coidar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	Cs	_	5	mark	_	_
+3	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	arte	arte	NOUN	Scfs	Gender=Fem|Number=Sing	1	ccomp	_	_
+6	apreciada	apreciado	ADJ	A0fs	Gender=Fem|Number=Sing	5	amod	_	_
+7	en	en	ADP	P	AdpType=Prep	8	case	_	_
+8	Galiza	Galiza	PROPN	Sp00	_	6	nmod	_	_
+9	?	?	PUNCT	Q?	_	1	punct	_	_
+
+~~~
+
+

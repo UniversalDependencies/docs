@@ -39,6 +39,6 @@ The 10 most frequent relations where parent and child node agree in `VerbType`:
 <tt>AUX --[<a href="../dep/nmod.html">nmod</a>]--> AUX</tt> (6; 100%),
 <tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<a href="../dep/dep.html">dep</a>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj:discourse.html">conj:discourse</a>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj:discourse.html">conj:discourse</a>]--> AUX</tt> (1; 100%).
 

@@ -4,7 +4,7 @@
 
 ## Treebank Statistics (UD_Czech)
 
-There are 3435 `NUM` lemmas (6%), 3542 `NUM` types (3%) and 41510 `NUM` tokens (3%).
+There are 3436 `NUM` lemmas (6%), 3543 `NUM` types (3%) and 41507 `NUM` tokens (3%).
 Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>jeden, dva, 1, tři, 2, oba, 3, 4, pět, čtyři</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>tisíc</em> ([NUM]() 538, [NOUN]() 92
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.031150 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `NUM` is 1.031141 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (10) was observed with the lemma “jeden”: <em>jeden, jedna, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním</em>.
 
@@ -61,26 +61,26 @@ The 2nd highest number of forms (8) was observed with the lemma “třetina”: 
 
 The 3rd highest number of forms (7) was observed with the lemma “čtvrtina”: <em>čtvrtina, čtvrtinami, čtvrtinou, čtvrtinu, čtvrtiny, čtvrtinách, čtvrtině</em>.
 
-`NUM` occurs with 10 features: [cs-feat/NumType]() (41510; 100% instances), [cs-feat/NumForm]() (41168; 99% instances), [cs-feat/Number]() (11649; 28% instances), [cs-feat/Case]() (11623; 28% instances), [cs-feat/NumValue]() (8050; 19% instances), [cs-feat/Gender]() (4759; 11% instances), [cs-feat/Animacy]() (303; 1% instances), [cs-feat/Foreign]() (29; 0% instances), [cs-feat/NameType]() (20; 0% instances), [cs-feat/Style]() (2; 0% instances)
+`NUM` occurs with 10 features: [cs-feat/NumType]() (41507; 100% instances), [cs-feat/NumForm]() (41165; 99% instances), [cs-feat/Number]() (11649; 28% instances), [cs-feat/Case]() (11623; 28% instances), [cs-feat/NumValue]() (8050; 19% instances), [cs-feat/Gender]() (4759; 11% instances), [cs-feat/Animacy]() (303; 1% instances), [cs-feat/Foreign]() (29; 0% instances), [cs-feat/NameType]() (20; 0% instances), [cs-feat/Style]() (2; 0% instances)
 
 `NUM` occurs with 25 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Foreign=Foreign`, `Gender=Fem`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NameType=Com`, `NumForm=Digit`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`, `NumType=Frac`, `NumValue=1,2,3`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Style=Arch`
 
 `NUM` occurs with 59 feature combinations.
-The most frequent feature combination is `NumForm=Digit|NumType=Card` (29484 tokens).
+The most frequent feature combination is `NumForm=Digit|NumType=Card` (29481 tokens).
 Examples: <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 22 different relations: [cs-dep/nummod]() (19667; 47% instances), [cs-dep/nummod:gov]() (7351; 18% instances), [cs-dep/conj]() (4243; 10% instances), [cs-dep/compound]() (2801; 7% instances), [cs-dep/dep]() (1946; 5% instances), [cs-dep/advmod]() (1879; 5% instances), [cs-dep/root]() (1216; 3% instances), [cs-dep/dobj]() (939; 2% instances), [cs-dep/nsubj]() (711; 2% instances), [cs-dep/appos]() (292; 1% instances), [cs-dep/nmod]() (123; 0% instances), [cs-dep/nsubjpass]() (90; 0% instances), [cs-dep/xcomp]() (81; 0% instances), [cs-dep/iobj]() (61; 0% instances), [cs-dep/advcl]() (39; 0% instances), [cs-dep/acl]() (28; 0% instances), [cs-dep/ccomp]() (25; 0% instances), [cs-dep/parataxis]() (8; 0% instances), [cs-dep/advmod:emph]() (5; 0% instances), [cs-dep/csubj]() (2; 0% instances), [cs-dep/mark]() (2; 0% instances), [cs-dep/csubjpass]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 22 different relations: [cs-dep/nummod]() (19664; 47% instances), [cs-dep/nummod:gov]() (7351; 18% instances), [cs-dep/conj]() (4243; 10% instances), [cs-dep/compound]() (2801; 7% instances), [cs-dep/dep]() (1946; 5% instances), [cs-dep/advmod]() (1879; 5% instances), [cs-dep/root]() (1216; 3% instances), [cs-dep/dobj]() (939; 2% instances), [cs-dep/nsubj]() (711; 2% instances), [cs-dep/appos]() (292; 1% instances), [cs-dep/nmod]() (123; 0% instances), [cs-dep/nsubjpass]() (90; 0% instances), [cs-dep/xcomp]() (81; 0% instances), [cs-dep/iobj]() (61; 0% instances), [cs-dep/advcl]() (39; 0% instances), [cs-dep/acl]() (28; 0% instances), [cs-dep/ccomp]() (25; 0% instances), [cs-dep/parataxis]() (8; 0% instances), [cs-dep/advmod:emph]() (5; 0% instances), [cs-dep/csubj]() (2; 0% instances), [cs-dep/mark]() (2; 0% instances), [cs-dep/csubjpass]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 15 different parts of speech: [NOUN]() (26036; 63% instances), [NUM]() (6329; 15% instances), [VERB]() (3763; 9% instances), [PROPN]() (2556; 6% instances), [ROOT]() (1216; 3% instances), [ADJ]() (775; 2% instances), [ADV]() (319; 1% instances), [SYM]() (256; 1% instances), [PRON]() (195; 0% instances), [PUNCT]() (29; 0% instances), [CONJ]() (28; 0% instances), [DET]() (5; 0% instances), [ADP]() (1; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances)
+Parents of `NUM` nodes belong to 15 different parts of speech: [NOUN]() (26036; 63% instances), [NUM]() (6329; 15% instances), [VERB]() (3763; 9% instances), [PROPN]() (2556; 6% instances), [ROOT]() (1216; 3% instances), [ADJ]() (775; 2% instances), [ADV]() (319; 1% instances), [SYM]() (256; 1% instances), [PRON]() (195; 0% instances), [CONJ]() (28; 0% instances), [PUNCT]() (26; 0% instances), [DET]() (5; 0% instances), [ADP]() (1; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances)
 
-24327 (59%) `NUM` nodes are leaves.
+24325 (59%) `NUM` nodes are leaves.
 
-9736 (23%) `NUM` nodes have one child.
+9734 (23%) `NUM` nodes have one child.
 
-4009 (10%) `NUM` nodes have two children.
+4010 (10%) `NUM` nodes have two children.
 
 3438 (8%) `NUM` nodes have three or more children.
 
@@ -181,12 +181,12 @@ The 10 most frequent `NUM` types:  <em>1, 3, 2, 4, jeden, 5, 41, 7, jedné, tř�
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>jednou</em> ([NUM]() 3, [ADV]() 3)
+The 10 most frequent ambiguous types:  <em>jednou</em> ([ADV]() 3, [NUM]() 3)
 
 
 * <em>jednou</em>
-  * [NUM]() 3: <em>(3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou §_54 obdobně .</em>
   * [ADV]() 3: <em>Takovouto změnu účetního období může účetní jednotka v běžném účetním období provést pouze <b>jednou</b> .</em>
+  * [NUM]() 3: <em>(3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou §_54 obdobně .</em>
 
 ## Morphology
 

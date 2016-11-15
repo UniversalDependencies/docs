@@ -222,36 +222,44 @@ The following 6 pairs of parts of speech are connected with `ccomp`: [cs-pos/VER
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 10 ccomp	color:blue
-1	Dále	dále	ADV	Db------------1	_	2	advmod	_	LId=dále-3
-2	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 13 ccomp	color:blue
+1	(2)	(2)	PUNCT	Z:-------------	_	22	punct	_	_
+2	Zjistí-li	Zjistí-li	NOUN	NNNXX-----A----	Gender=Neut|Negative=Pos	22	nmod	_	_
 3	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	4	amod	_	LId=účetní-1
-4	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	2	nsubj	_	_
-5	rozhodnout	rozhodnout	VERB	Vf--------A----	Negative=Pos|VerbForm=Inf	2	xcomp	_	SpaceAfter=No
-6	,	,	PUNCT	Z:-------------	_	10	punct	_	_
-7	že	že	SCONJ	J,-------------	_	10	mark	_	_
-8	dlouhodobým	dlouhodobý	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	10	amod	_	_
-9	nehmotným	hmotný	ADJ	AAIS7----1N----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing	10	amod	_	_
-10	majetkem	majetek	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Negative=Pos|Number=Sing	5	ccomp	_	_
-11	nejsou	být	VERB	VB-P---3P-NA---	Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
-12	zejména	zejména	ADV	Db-------------	_	14	advmod:emph	_	_
-13	technické	technický	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	14	amod	_	_
-14	audity	audit	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	10	nsubj	_	_
-15	a	a	CONJ	J^-------------	_	14	cc	_	LId=a-1
-16	energetické	energetický	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	17	amod	_	_
-17	audity	audit	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	14	conj	_	SpaceAfter=No
-18	,	,	PUNCT	Z:-------------	_	14	punct	_	_
-19	lesní	lesní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	21	amod	_	_
-20	hospodářské	hospodářský	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	21	amod	_	_
-21	plány	plán	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	14	conj	_	_
-22	a	a	CONJ	J^-------------	_	14	cc	_	LId=a-1
-23	plány	plán	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	14	conj	_	_
-24	povodí	povodí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Sing	23	nmod	_	SpaceAfter=No
-25	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+4	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	13	punct	_	_
+6	že	že	SCONJ	J,-------------	_	13	mark	_	_
+7	některé	některý	DET	PZIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	9	det	_	_
+8	účetní	účetní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	9	amod	_	LId=účetní-1
+9	záznamy	záznam	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	13	nsubj	_	_
+10	jejího	jeho	DET	PSZS2FS3-------	Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Sing	9	nmod	_	_
+12	jsou	být	VERB	VB-P---3P-AA---	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+13	neúplné	úplný	ADJ	AAFP1----1N----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur	2	ccomp	_	SpaceAfter=No
+14	,	,	PUNCT	Z:-------------	_	13	punct	_	_
+15	neprůkazné	průkazný	ADJ	AAFP1----1N----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	Z:-------------	_	13	punct	_	_
+17	nesprávné	správný	ADJ	AAFP1----1N----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur	13	conj	_	_
+18	nebo	nebo	CONJ	J^-------------	_	13	cc	_	_
+19	nesrozumitelné	srozumitelný	ADJ	AAFP1----1N----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur	13	conj	_	SpaceAfter=No
+20	,	,	PUNCT	Z:-------------	_	2	punct	_	_
+21	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	_
+22	povinna	povinný	ADJ	ACQW------A----	Gender=Fem,Neut|Negative=Pos|Number=Plur,Sing|Variant=Short	0	root	_	_
+23	provést	provést	VERB	Vf--------A----	Negative=Pos|VerbForm=Inf	22	xcomp	_	_
+24	bez	bez	ADP	RR--2----------	AdpType=Prep|Case=Gen	26	case	_	LId=bez-1
+25	zbytečného	zbytečný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	26	amod	_	_
+26	odkladu	odklad	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	23	nmod	_	_
+27	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	28	det	_	_
+28	opravu	oprava	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Negative=Pos|Number=Sing	23	dobj	_	_
+29	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Negative=Pos|Number=Sing	23	nmod	_	_
+30	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	31	case	_	LId=podle-2
+31	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	29	nmod	_	_
+32	3	3	NUM	C}-------------	NumForm=Roman|NumType=Card	31	nummod	_	SpaceAfter=No
+33	.	.	PUNCT	Z:-------------	_	22	punct	_	_
 
 ~~~
 

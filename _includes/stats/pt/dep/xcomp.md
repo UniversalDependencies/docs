@@ -9,9 +9,9 @@ This relation is universal.
 2841 nodes (1%) are attached to their parents as `xcomp`.
 
 2824 instances of `xcomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.18021823301654.
+Average distance between parent and child is 2.18585005279831.
 
-The following 18 pairs of parts of speech are connected with `xcomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2397; 84% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (196; 7% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (175; 6% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (16; 1% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (13; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (11; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (10; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `xcomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2399; 84% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (196; 7% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (176; 6% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (16; 1% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (13; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (11; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (10; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -78,6 +78,78 @@ The following 18 pairs of parts of speech are connected with `xcomp`: [pt-pos/VE
 7	ser	ser	VERB	v-inf	VerbForm=Inf	8	cop	_	_
 8	sincero	sincero	ADJ	adj|M|S	Gender=Masc|Number=Sing	5	xcomp	_	_
 9	.	.	PUNCT	punc	_	1	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+1918 nodes (1%) are attached to their parents as `xcomp`.
+
+1891 instances of `xcomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.06412930135558.
+
+The following 35 pairs of parts of speech are connected with `xcomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (1263; 66% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (282; 15% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (205; 11% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (27; 1% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (23; 1% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (15; 1% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (15; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (15; 1% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (8; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (6; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (6; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 xcomp	color:blue
+1	Reis	Reis	PROPN	PROP|M|S|@SUBJ>	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	não	não	ADV	ADV|@ADVL>	_	3	neg	_	_
+3	quis	querer	VERB	<mv>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dizer	dizer	VERB	<mv>|V|INF|@ICL-<ACC	VerbForm=Inf	3	xcomp	_	_
+5	se	se	SCONJ	KS|@SUB	_	7	mark	_	_
+6	também	também	ADV	ADV|@ADVL>	_	7	advmod	_	_
+7	abandonará	abandonar	VERB	<mv>|V|FUT|3S|IND|@FS-<ACC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	ccomp	_	_
+8	Esperidião	Esperidião	PROPN	PROP|M|S|@<ACC	Gender=Masc|Number=Sing	7	dobj	_	MWE:Esperidião=Amin
+9	Amin	Amin	PROPN	PROP|@N<	Number=Sing	8	name	_	_
+10	.	.	PUNCT	PU|@PU	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 xcomp	color:blue
+1	Parece	parecer	VERB	<mv>|V|PR|3S|IND|@FS-EXC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	remador	remador	NOUN	<np-idf>|N|M|S|@<SC	Gender=Masc|Number=Sing	1	xcomp	_	_
+3	de	de	ADP	PRP|@N<	_	5	case	_	_
+4	porta	porta	NOUN	N|@>N	_	5	compound	_	MWE:porta=avião
+5	avião	avião	NOUN	N|@P<	_	2	nmod	_	_
+6	!	!	PUNCT	PU|@PU	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 xcomp	color:blue
+1	Ainda	Ainda	ADV	ADV|@>A	_	2	advmod	_	MWE:Ainda=assim
+2	assim	assim	ADV	ADV|@ADVL>	_	8	advmod	_	_
+3	,	,	PUNCT	PU|@PU	_	2	punct	_	_
+4	em	em	ADP	<sam->|PRP|@ADVL>	_	6	case	_	_
+5	o	o	DET	<-sam>|<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	final	final	NOUN	<np-def>|N|M|S|@P<	Gender=Masc|Number=Sing	8	nmod	_	_
+7	todos	todo	PRON	<quant>|DET|M|P|@SUBJ>	Gender=Masc|Number=Plur	8	nsubj	_	_
+8	ficaram	ficar	VERB	<mv>|V|PS|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	contentes	contente	ADJ	ADJ|M|P|@<SC	Gender=Masc|Number=Plur	8	xcomp	_	_
+10	.	.	PUNCT	PU|@PU	_	8	punct	_	_
 
 ~~~
 

@@ -30,6 +30,18 @@ The following 8 pairs of parts of speech are connected with `dep`: [en-pos/NOUN]
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 dep	color:blue
+1	---------------------------------------------------------------------------	---------------------------------------------------------------------------	PUNCT	NFP	_	2	dep	_	_
+2	-----	-----	PUNCT	NFP	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 4	bgColor:blue
@@ -54,18 +66,6 @@ The following 8 pairs of parts of speech are connected with `dep`: [en-pos/NOUN]
 17	heures	heure	NOUN	NNS	Number=Plur	18	compound	_	_
 18	lenght	lenght	NOUN	NN	Number=Sing	4	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 dep	color:blue
-1	---------------------------------------------------------------------------	---------------------------------------------------------------------------	PUNCT	NFP	_	2	dep	_	_
-2	-----	-----	PUNCT	NFP	_	0	root	_	_
 
 ~~~
 

@@ -11,7 +11,7 @@ The 10 most frequent `NOUN` lemmas: <em>año, parte, población, ciudad, vez, pe
 
 The 10 most frequent `NOUN` types:  <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
 
-The 10 most frequent ambiguous lemmas: <em>año</em> ([NOUN]() 1045, [PROPN]() 6), <em>parte</em> ([NOUN]() 473, [VERB]() 3, [PROPN]() 1), <em>ciudad</em> ([NOUN]() 402, [PROPN]() 39), <em>vez</em> ([NOUN]() 382, [PROPN]() 1, [X]() 1), <em>persona</em> ([NOUN]() 371, [PROPN]() 2), <em>estado</em> ([NOUN]() 322, [PROPN]() 78, [VERB]() 5, [AUX]() 1), <em>familia</em> ([NOUN]() 321, [PROPN]() 6), <em>país</em> ([NOUN]() 308, [PROPN]() 23), <em>día</em> ([NOUN]() 296, [PROPN]() 12), <em>equipo</em> ([NOUN]() 291, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>año</em> ([NOUN]() 1045, [PROPN]() 6), <em>parte</em> ([NOUN]() 473, [VERB]() 3, [PROPN]() 1), <em>ciudad</em> ([NOUN]() 402, [PROPN]() 39), <em>vez</em> ([NOUN]() 382, [X]() 1, [PROPN]() 1), <em>persona</em> ([NOUN]() 371, [PROPN]() 2), <em>estado</em> ([NOUN]() 322, [PROPN]() 78, [VERB]() 5, [AUX]() 1), <em>familia</em> ([NOUN]() 321, [PROPN]() 6), <em>país</em> ([NOUN]() 308, [PROPN]() 23), <em>día</em> ([NOUN]() 296, [PROPN]() 12), <em>equipo</em> ([NOUN]() 291, [PROPN]() 2)
 
 The 10 most frequent ambiguous types:  <em>años</em> ([NOUN]() 525, [PROPN]() 3), <em>año</em> ([NOUN]() 509, [PROPN]() 1), <em>parte</em> ([NOUN]() 427, [VERB]() 3), <em>ciudad</em> ([NOUN]() 337, [PROPN]() 2), <em>estado</em> ([NOUN]() 212, [VERB]() 19, [AUX]() 12, [PROPN]() 1), <em>km</em> ([NOUN]() 284, [SYM]() 122), <em>familia</em> ([NOUN]() 281, [PROPN]() 2), <em>forma</em> ([NOUN]() 206, [VERB]() 26), <em>día</em> ([NOUN]() 176, [PROPN]() 1), <em>vida</em> ([NOUN]() 175, [PROPN]() 2)
 
@@ -101,7 +101,7 @@ The 10 most frequent `NOUN` lemmas: <em>año, presidente, país, partido, milló
 
 The 10 most frequent `NOUN` types:  <em>años, presidente, millones, año, equipo, partido, país, parte, vez, pesetas</em>
 
-The 10 most frequent ambiguous lemmas: <em>país</em> ([NOUN]() 698, [PROPN]() 1), <em>día</em> ([NOUN]() 564, [PROPN]() 3), <em>parte</em> ([NOUN]() 468, [AUX]() 1, [PROPN]() 1), <em>vez</em> ([NOUN]() 423, [PROPN]() 1), <em>mes</em> ([NOUN]() 375, [PROPN]() 1), <em>caso</em> ([NOUN]() 344, [PROPN]() 6), <em>punto</em> ([NOUN]() 320, [AUX]() 1), <em>hora</em> ([NOUN]() 316, [PROPN]() 1), <em>tiempo</em> ([NOUN]() 310, [PROPN]() 3), <em>mundo</em> ([NOUN]() 285, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>país</em> ([NOUN]() 698, [PROPN]() 1), <em>día</em> ([NOUN]() 564, [PROPN]() 3), <em>parte</em> ([NOUN]() 468, [PROPN]() 1, [AUX]() 1), <em>vez</em> ([NOUN]() 423, [PROPN]() 1), <em>mes</em> ([NOUN]() 375, [PROPN]() 1), <em>caso</em> ([NOUN]() 344, [PROPN]() 6), <em>punto</em> ([NOUN]() 320, [AUX]() 1), <em>hora</em> ([NOUN]() 316, [PROPN]() 1), <em>tiempo</em> ([NOUN]() 310, [PROPN]() 3), <em>mundo</em> ([NOUN]() 285, [PROPN]() 2)
 
 The 10 most frequent ambiguous types:  <em>partido</em> ([NOUN]() 439, [VERB]() 1), <em>país</em> ([NOUN]() 433, [PROPN]() 1), <em>parte</em> ([NOUN]() 420, [VERB]() 3, [AUX]() 2, [PROPN]() 1), <em>vez</em> ([NOUN]() 344, [PROPN]() 1), <em>día</em> ([NOUN]() 315, [PROPN]() 2), <em>mundo</em> ([NOUN]() 279, [PROPN]() 2), <em>caso</em> ([NOUN]() 270, [PROPN]() 6), <em>vida</em> ([NOUN]() 262, [PROPN]() 5), <em>tiempo</em> ([NOUN]() 259, [PROPN]() 2), <em>días</em> ([NOUN]() 247, [PROPN]() 1)
 

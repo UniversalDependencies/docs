@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 38 [hu-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (38; 100%), <tt><a href="Person.html">Person</a>=3</tt> (38; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (38; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (31; 82%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (30; 79%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (29; 76%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (38; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (38; 100%), <tt><a href="Person.html">Person</a>=3</tt> (38; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (31; 82%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (30; 79%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (29; 76%).
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -57,10 +57,10 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (184; 74%),
 <tt>VERB --[<a href="../dep/ccomp:obj.html">ccomp:obj</a>]--> VERB</tt> (117; 70%),
 <tt>VERB --[<a href="../dep/ccomp:obl.html">ccomp:obl</a>]--> VERB</tt> (57; 52%),
-<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (38; 69%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (38; 83%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (38; 69%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (36; 64%),
 <tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (21; 81%),
-<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (3; 75%),
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (3; 100%).
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (3; 100%),
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (3; 75%).
 

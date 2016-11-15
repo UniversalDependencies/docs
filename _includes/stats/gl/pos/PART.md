@@ -13,12 +13,12 @@ The 10 most frequent `PART` types:  <em>non, senon, Ln, föhn, on</em>
 
 The 10 most frequent ambiguous lemmas: <em>ln</em> ([NOUN]() 1, [PART]() 1)
 
-The 10 most frequent ambiguous types:  <em>Ln</em> ([PART]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>Ln</em> ([NOUN]() 1, [PART]() 1)
 
 
 * <em>Ln</em>
-  * [PART]() 1: <em>A segunda é a proposta por Legates ( 1991 ) e leva se a cabo mediante a maximización de a seguinte función : L = -n/2 Ln s2 y + ( lambda-1 ) onde s2 é a varianza mostral , <b>Ln</b> é a base de logaritmos naturais e lambda é o coeficiente de trasformación .</em>
   * [NOUN]() 1: <em>A segunda é a proposta por Legates ( 1991 ) e leva se a cabo mediante a maximización de a seguinte función : L = -n/2 <b>Ln</b> s2 y + ( lambda-1 ) onde s2 é a varianza mostral , Ln é a base de logaritmos naturais e lambda é o coeficiente de trasformación .</em>
+  * [PART]() 1: <em>A segunda é a proposta por Legates ( 1991 ) e leva se a cabo mediante a maximización de a seguinte función : L = -n/2 Ln s2 y + ( lambda-1 ) onde s2 é a varianza mostral , <b>Ln</b> é a base de logaritmos naturais e lambda é o coeficiente de trasformación .</em>
 
 ## Morphology
 

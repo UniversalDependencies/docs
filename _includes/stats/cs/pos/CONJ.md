@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>a</em> ([CONJ]() 31068, [ADJ]() 183, 
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 1.044444 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `CONJ` is 1.044444 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (2) was observed with the lemma “krát”: <em>krát, kráte</em>.
 

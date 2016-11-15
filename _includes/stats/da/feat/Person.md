@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/PRON]() (4799; 5% instan
 
 4799 [da-pos/PRON]() tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (4799; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4799; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3395; 71%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2727; 57%), <tt><a href="Case.html">Case</a>=Nom</tt> (2484; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (4799; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (4799; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3395; 71%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2727; 57%), <tt><a href="Case.html">Case</a>=Nom</tt> (2484; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 799 [da-pos/DET]() tokens (14% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (799; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (799; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (603; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (417; 52%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (799; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (799; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (603; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (417; 52%).
 
 `DET` tokens may have the following values of `Person`:
 

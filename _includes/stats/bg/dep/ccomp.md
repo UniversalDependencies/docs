@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-2799 nodes (2%) are attached to their parents as `ccomp`.
+2593 nodes (2%) are attached to their parents as `ccomp`.
 
-2201 instances of `ccomp` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.36977491961415.
+1994 instances of `ccomp` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.59352101812572.
 
-The following 13 pairs of parts of speech are connected with `ccomp`: [bg-pos/VERB]()-[bg-pos/VERB]() (2522; 90% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (116; 4% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (76; 3% instances), [bg-pos/PART]()-[bg-pos/VERB]() (38; 1% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (25; 1% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (10; 0% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (4; 0% instances), [bg-pos/PART]()-[bg-pos/NOUN]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/DET]() (2; 0% instances), [bg-pos/PART]()-[bg-pos/ADJ]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `ccomp`: [bg-pos/VERB]()-[bg-pos/VERB]() (2301; 89% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (119; 5% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (83; 3% instances), [bg-pos/PART]()-[bg-pos/VERB]() (37; 1% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (28; 1% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (10; 0% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (4; 0% instances), [bg-pos/PART]()-[bg-pos/NOUN]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/DET]() (2; 0% instances), [bg-pos/ADP]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADJ]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/ADJ]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,24 +54,17 @@ The following 13 pairs of parts of speech are connected with `ccomp`: [bg-pos/VE
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 ccomp	color:blue
-1	Ако	ако	SCONJ	Cs	_	2	mark	_	_
-2	мисли	мисля	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
-3	,	,	PUNCT	punct	_	6	punct	_	_
-4	че	че	SCONJ	Cs	_	6	mark	_	_
-5	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
-6	най-добрият	добър	ADJ	Amsf	Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	2	ccomp	_	_
-7	,	,	PUNCT	punct	_	2	punct	_	_
-8	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	nsubj	_	_
-9	си	се	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	12	expl	_	_
-10	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
-11	негов	мой	DET	Psol-s3mim	Definite=Ind|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
-12	проблем	проблем	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-13	.	.	PUNCT	punct	_	12	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 ccomp	color:blue
+1	-	-	PUNCT	punct	_	5	punct	_	_
+2	Ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+3	си	съм	VERB	Vxitf-r2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	весела	весел	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	ccomp	_	_
+5	изглежда	изглежда	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	.	.	PUNCT	punct	_	5	punct	_	_
 
 ~~~
 

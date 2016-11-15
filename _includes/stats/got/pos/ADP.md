@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>in, du, bi, us, ana, miþ, fram, at, þai
 
 The 10 most frequent ambiguous lemmas: <em>in</em> ([ADP]() 1825, [SCONJ]() 4), <em>du</em> ([ADP]() 914, [ADV]() 2), <em>ana</em> ([ADP]() 256, [ADV]() 3), <em>fram</em> ([ADP]() 173, [ADV]() 3), <em>faur</em> ([ADP]() 70, [ADV]() 2), <em>faura</em> ([ADP]() 52, [ADV]() 5), <em>fairra</em> ([ADP]() 14, [ADV]() 6), <em>neƕa</em> ([ADP]() 14, [ADV]() 8), <em>ufaro</em> ([ADP]() 4, [ADV]() 1), <em>ūtana</em> ([ADP]() 2, [ADV]() 2)
 
-The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 1820, [SCONJ]() 4), <em>du</em> ([ADP]() 902, [ADV]() 2), <em>ana</em> ([ADP]() 256, [ADV]() 3), <em>fram</em> ([ADP]() 173, [ADV]() 1), <em>faur</em> ([ADP]() 70, [ADV]() 2), <em>faura</em> ([ADP]() 52, [ADV]() 5), <em>fairra</em> ([ADP]() 14, [ADV]() 6), <em>neƕa</em> ([ADP]() 14, [ADV]() 8), <em>ufaro</em> ([ADP]() 4, [ADV]() 1), <em>utana</em> ([ADP]() 2, [ADV]() 2)
+The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 1820, [SCONJ]() 4), <em>du</em> ([ADP]() 902, [ADV]() 2), <em>ana</em> ([ADP]() 256, [ADV]() 3), <em>fram</em> ([ADP]() 173, [ADV]() 1), <em>faur</em> ([ADP]() 70, [ADV]() 2), <em>faura</em> ([ADP]() 52, [ADV]() 5), <em>fairra</em> ([ADP]() 14, [ADV]() 6), <em>neƕa</em> ([ADP]() 14, [ADV]() 8), <em>ufaro</em> ([ADP]() 4, [ADV]() 1), <em>utana</em> ([ADV]() 2, [ADP]() 2)
 
 
 * <em>in</em>
@@ -44,8 +44,8 @@ The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 1820, [SCONJ]() 4), 
   * [ADP]() 4: <em>jah þu sijais <b>ufaro</b> fimf baurgim</em>
   * [ADV]() 1: <em>was uh þan hulundi jah staina ufarlagida was <b>ufaro</b></em>
 * <em>utana</em>
-  * [ADP]() 2: <em>juþan auk gaqeþun sis Iudaieis ei jabai ƕas ina andhaihaiti Xristu <b>utana</b> swnagogais wairþai</em>
   * [ADV]() 2: <em><b>utana</b> waihjons</em>
+  * [ADP]() 2: <em>juþan auk gaqeþun sis Iudaieis ei jabai ƕas ina andhaihaiti Xristu <b>utana</b> swnagogais wairþai</em>
 
 ## Morphology
 

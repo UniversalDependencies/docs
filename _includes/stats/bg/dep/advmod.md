@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-5618 nodes (4%) are attached to their parents as `advmod`.
+5697 nodes (4%) are attached to their parents as `advmod`.
 
-4234 instances of `advmod` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.11747953008188.
+4317 instances of `advmod` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.12269615587151.
 
-The following 12 pairs of parts of speech are connected with `advmod`: [bg-pos/VERB]()-[bg-pos/ADV]() (3579; 64% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (888; 16% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (568; 10% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (359; 6% instances), [bg-pos/ADP]()-[bg-pos/ADV]() (76; 1% instances), [bg-pos/DET]()-[bg-pos/ADV]() (38; 1% instances), [bg-pos/PRON]()-[bg-pos/ADV]() (38; 1% instances), [bg-pos/NUM]()-[bg-pos/ADV]() (35; 1% instances), [bg-pos/PROPN]()-[bg-pos/ADV]() (29; 1% instances), [bg-pos/CONJ]()-[bg-pos/ADV]() (5; 0% instances), [bg-pos/INTJ]()-[bg-pos/ADV]() (2; 0% instances), [bg-pos/PART]()-[bg-pos/ADV]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `advmod`: [bg-pos/VERB]()-[bg-pos/ADV]() (3633; 64% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (903; 16% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (574; 10% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (361; 6% instances), [bg-pos/ADP]()-[bg-pos/ADV]() (68; 1% instances), [bg-pos/PRON]()-[bg-pos/ADV]() (43; 1% instances), [bg-pos/DET]()-[bg-pos/ADV]() (39; 1% instances), [bg-pos/NUM]()-[bg-pos/ADV]() (37; 1% instances), [bg-pos/PROPN]()-[bg-pos/ADV]() (29; 1% instances), [bg-pos/CONJ]()-[bg-pos/ADV]() (5; 0% instances), [bg-pos/INTJ]()-[bg-pos/ADV]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADP]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/ADV]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu

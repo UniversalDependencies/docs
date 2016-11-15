@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1240 nodes (1%) are attached to their parents as `cop`.
+2259 nodes (2%) are attached to their parents as `cop`.
 
-1057 instances of `cop` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.33548387096774.
+1878 instances of `cop` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.28552456839309.
 
-The following 11 pairs of parts of speech are connected with `cop`: [hr-pos/NOUN]()-[hr-pos/AUX]() (622; 50% instances), [hr-pos/ADJ]()-[hr-pos/AUX]() (493; 40% instances), [hr-pos/ADV]()-[hr-pos/AUX]() (60; 5% instances), [hr-pos/PRON]()-[hr-pos/AUX]() (29; 2% instances), [hr-pos/PROPN]()-[hr-pos/AUX]() (23; 2% instances), [hr-pos/VERB]()-[hr-pos/AUX]() (5; 0% instances), [hr-pos/VERB]()-[hr-pos/VERB]() (3; 0% instances), [hr-pos/NUM]()-[hr-pos/AUX]() (2; 0% instances), [hr-pos/ADJ]()-[hr-pos/VERB]() (1; 0% instances), [hr-pos/ADP]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/PART]()-[hr-pos/AUX]() (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `cop`: [hr-pos/NOUN]()-[hr-pos/AUX]() (1025; 45% instances), [hr-pos/ADJ]()-[hr-pos/AUX]() (978; 43% instances), [hr-pos/ADV]()-[hr-pos/AUX]() (116; 5% instances), [hr-pos/PRON]()-[hr-pos/AUX]() (64; 3% instances), [hr-pos/PROPN]()-[hr-pos/AUX]() (38; 2% instances), [hr-pos/NUM]()-[hr-pos/AUX]() (11; 0% instances), [hr-pos/VERB]()-[hr-pos/AUX]() (10; 0% instances), [hr-pos/VERB]()-[hr-pos/VERB]() (3; 0% instances), [hr-pos/ADJ]()-[hr-pos/PRON]() (2; 0% instances), [hr-pos/ADJ]()-[hr-pos/VERB]() (2; 0% instances), [hr-pos/ADP]()-[hr-pos/AUX]() (2; 0% instances), [hr-pos/NOUN]()-[hr-pos/PRON]() (2; 0% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/PART]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/PRON]()-[hr-pos/VERB]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/PROPN]() (1; 0% instances), [hr-pos/PUNCT]()-[hr-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu

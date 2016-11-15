@@ -32,30 +32,27 @@ The following 6 pairs of parts of speech are connected with `goeswith`: [fi-pos/
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 goeswith	color:blue
-1	On	olla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	meistä	minä	PRON	Pron	Case=Ela|Number=Plur|Person=1|PronType=Prs	4	nmod	_	_
-3	itsestämme	itse	PRON	Pron	Case=Ela|Number=Sing|Number[psor]=Plur|Person[psor]=1|Reflex=Yes	2	det	_	_
-4	kiinni	kiinni	ADV	Adv	_	1	advmod	_	SpaceAfter=No
-5	,	,	PUNCT	Punct	_	8	punct	_	_
-6	kuinka	kuinka	ADV	Adv	_	8	advmod	_	_
-7	kauas	kauas	ADV	Adv	_	8	goeswith	_	_
-8	kantoinen	kantoinen	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	1	csubj	_	_
-9	sen	se	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	10	nsubj	_	_
-10	antama	antaa	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Agt|VerbForm=Part|Voice=Act	17	acl	_	_
-11	selviytymisen	selviytyä	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	17	nmod:poss	_	SpaceAfter=No
-12	,	,	PUNCT	Punct	_	11	punct	_	_
-13	unelmien	unelma	NOUN	N	Case=Gen|Number=Plur	14	nmod:gobj	_	_
-14	toteuttamisen	toteuttaa	NOUN	N	Case=Gen|Derivation=Minen|Number=Sing	11	conj	17:nmod:poss	_
-15	ja	ja	CONJ	C	_	11	cc	_	_
-16	kiitollisuuden	kiitollisuus	NOUN	N	Case=Gen|Number=Sing	11	conj	17:nmod:poss	_
-17	tunne	tunne	NOUN	N	Case=Nom|Number=Sing	8	nsubj:cop	_	_
-18	on	olla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No
-19	.	.	PUNCT	Punct	_	1	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 goeswith	color:blue
+1	Yht’	yht’äkkiä	ADV	Adv	Typo=Yes	2	goeswith	_	_
+2	äkkiä	yht’äkkiä	ADV	Adv	Typo=Yes	4	advmod	_	_
+3	naisella	nainen	NOUN	N	Case=Ade|Number=Sing	4	nmod:own	_	_
+4	oli	olla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	kummassakin	kumpikin	PRON	Pron	Case=Ine|Number=Sing|PronType=Ind	6	det	_	_
+6	kädessään	käsi	NOUN	N	Case=Ine|Number=Sing|Person[psor]=3	4	nmod	_	_
+7	isot	iso	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	käsilautaset	käsi#lautanen	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	11	punct	_	_
+10	jonkinlaiset	jonkinlainen	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	symbaalit	symbaali	NOUN	N	Case=Nom|Number=Plur	8	appos	_	_
+12	joita	joka	PRON	Pron	Case=Par|Number=Plur|PronType=Rel	15	dobj	_	_
+13	ainakin	ainakin	ADV	Adv	_	14	advmod	_	_
+14	marssimusiikissa	marssi#musiikki	NOUN	N	Case=Ine|Number=Sing	15	nmod	_	_
+15	käytetään	käyttää	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	11	acl:relcl	_	SpaceAfter=No
+16	.	.	PUNCT	Punct	_	4	punct	_	_
 
 ~~~
 

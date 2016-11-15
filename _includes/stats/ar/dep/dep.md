@@ -41,6 +41,22 @@ The following 63 pairs of parts of speech are connected with `dep`: [ar-pos/X]()
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 dep	color:blue
+1	القاهرة	قَاهِرَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	0	root	_	Vform=اَلقَاهِرَةُ|Gloss=Cairo|Root=q_h_r|Translit=al-qāhiratu|LTranslit=qāhirat
+2	2	2	NUM	Q---------	NumForm=Digit	1	dep	_	Vform=٢|Translit=2
+3	مايو	مَايُو	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	2	nmod	_	Vform=مَايُو|Gloss=May|Root=mAyU|Translit=māyū|LTranslit=māyū
+4	08	08	NUM	Q---------	NumForm=Digit	1	dep	_	SpaceAfter=No|Vform=٠٨|Translit=08
+5	:	:	PUNCT	G---------	_	4	punct	_	SpaceAfter=No|Vform=:|Translit=:
+6	29	29	NUM	Q---------	NumForm=Digit	4	conj	_	Vform=٢٩|Translit=29
+
+~~~
+
+
+~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 6	bgColor:blue
@@ -57,22 +73,6 @@ The following 63 pairs of parts of speech are connected with `dep`: [ar-pos/X]()
 9	)	)	PUNCT	G---------	_	8	punct	_	Vform=)|Translit=)
 10	بالكهرباء	بِ	ADP	P---------	AdpType=Prep	11	case	_	Vform=بِ|Gloss=by,with|Root=bi|Translit=bi|LTranslit=bi
 11	بالكهرباء	كَهرَبَاء	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	_	Vform=اَلكَهرَبَاءِ|Gloss=electricity|Root=k_h_r_b|Translit=al-kahrabāʾi|LTranslit=kahrabāʾ
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 dep	color:blue
-1	القاهرة	قَاهِرَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	0	root	_	Vform=اَلقَاهِرَةُ|Gloss=Cairo|Root=q_h_r|Translit=al-qāhiratu|LTranslit=qāhirat
-2	2	2	NUM	Q---------	NumForm=Digit	1	dep	_	Vform=٢|Translit=2
-3	مايو	مَايُو	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	2	nmod	_	Vform=مَايُو|Gloss=May|Root=mAyU|Translit=māyū|LTranslit=māyū
-4	08	08	NUM	Q---------	NumForm=Digit	1	dep	_	SpaceAfter=No|Vform=٠٨|Translit=08
-5	:	:	PUNCT	G---------	_	4	punct	_	SpaceAfter=No|Vform=:|Translit=:
-6	29	29	NUM	Q---------	NumForm=Digit	4	conj	_	Vform=٢٩|Translit=29
 
 ~~~
 

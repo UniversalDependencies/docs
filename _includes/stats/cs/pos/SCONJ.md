@@ -11,7 +11,7 @@ The 10 most frequent `SCONJ` lemmas: <em>že, jako, aby, než, když, pokud, pro
 
 The 10 most frequent `SCONJ` types:  <em>že, jako, aby, než, když, pokud, protože, zda, jak, zatímco</em>
 
-The 10 most frequent ambiguous lemmas: <em>jak</em> ([ADV]() 1801, [SCONJ]() 399, [CONJ]() 52, [PROPN]() 5), <em>co</em> ([PRON]() 1859, [ADV]() 239, [SCONJ]() 210, [PART]() 21), <em>až</em> ([PART]() 1384, [CONJ]() 639, [SCONJ]() 139), <em>byť</em> ([SCONJ]() 120, [VERB]() 1), <em>ať</em> ([SCONJ]() 115, [PART]() 73), <em>místo</em> ([NOUN]() 1144, [ADP]() 191, [SCONJ]() 10, [ADV]() 5), <em>jakoby</em> ([ADV]() 23, [SCONJ]() 7), <em>namísto</em> ([ADP]() 30, [SCONJ]() 3), <em>as</em> ([CONJ]() 4, [NOUN]() 2, [SCONJ]() 2), <em>if</em> ([SCONJ]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>jak</em> ([ADV]() 1801, [SCONJ]() 399, [CONJ]() 52, [PROPN]() 5), <em>co</em> ([PRON]() 1859, [ADV]() 239, [SCONJ]() 210, [PART]() 21), <em>až</em> ([PART]() 1384, [CONJ]() 639, [SCONJ]() 139), <em>byť</em> ([SCONJ]() 120, [VERB]() 1), <em>ať</em> ([SCONJ]() 115, [PART]() 73), <em>místo</em> ([NOUN]() 1144, [ADP]() 191, [SCONJ]() 10, [ADV]() 5), <em>jakoby</em> ([ADV]() 23, [SCONJ]() 7), <em>namísto</em> ([ADP]() 30, [SCONJ]() 3), <em>as</em> ([CONJ]() 4, [NOUN]() 2, [SCONJ]() 2), <em>if</em> ([PROPN]() 1, [SCONJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>než</em> ([SCONJ]() 2120, [PART]() 4), <em>jak</em> ([ADV]() 1350, [SCONJ]() 222, [CONJ]() 50, [PROPN]() 5), <em>co</em> ([PRON]() 1187, [ADV]() 233, [SCONJ]() 207, [PART]() 7), <em>až</em> ([PART]() 1295, [CONJ]() 639, [SCONJ]() 111), <em>ať</em> ([SCONJ]() 95, [PART]() 60), <em>místo</em> ([NOUN]() 359, [ADP]() 140, [SCONJ]() 7, [ADV]() 5), <em>jakoby</em> ([ADV]() 22, [SCONJ]() 5), <em>namísto</em> ([ADP]() 22, [SCONJ]() 2)
 
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>než</em> ([SCONJ]() 2120, [PART]() 4
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.021739 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `SCONJ` is 1.021739 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (2) was observed with the lemma “ačkoliv”: <em>ačkoli, ačkoliv</em>.
 

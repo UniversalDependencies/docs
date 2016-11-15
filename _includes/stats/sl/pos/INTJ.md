@@ -65,7 +65,7 @@ The 10 most frequent `INTJ` types:  <em>eee, mhm, eem, aha, mmm, aja, a, ej, aaa
 
 The 10 most frequent ambiguous lemmas: <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [CONJ]() 3, [X]() 1), <em>o</em> ([ADP]() 50, [INTJ]() 8), <em>m</em> ([INTJ]() 5, [NOUN]() 2), <em>ti</em> ([PRON]() 194, [X]() 1, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [X]() 4, [CONJ]() 3), <em>o</em> ([ADP]() 50, [INTJ]() 8, [X]() 4), <em>m</em> ([X]() 16, [INTJ]() 5, [NOUN]() 2), <em>je</em> ([VERB]() 639, [AUX]() 358, [PRON]() 6, [INTJ]() 3), <em>di</em> ([INTJ]() 2, [X]() 1), <em>e</em> ([X]() 3, [INTJ]() 2), <em>jo</em> ([PRON]() 37, [INTJ]() 1), <em>ti</em> ([PRON]() 105, [DET]() 10, [INTJ]() 1, [X]() 1), <em>u</em> ([X]() 8, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [X]() 4, [CONJ]() 3), <em>o</em> ([ADP]() 50, [INTJ]() 8, [X]() 4), <em>m</em> ([X]() 16, [INTJ]() 5, [NOUN]() 2), <em>je</em> ([VERB]() 639, [AUX]() 358, [PRON]() 6, [INTJ]() 3), <em>di</em> ([INTJ]() 2, [X]() 1), <em>e</em> ([X]() 3, [INTJ]() 2), <em>jo</em> ([PRON]() 37, [INTJ]() 1), <em>ti</em> ([PRON]() 105, [DET]() 10, [X]() 1, [INTJ]() 1), <em>u</em> ([X]() 8, [INTJ]() 1)
 
 
 * <em>a</em>
@@ -99,8 +99,8 @@ The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 137, [INTJ]() 16, [NO
 * <em>ti</em>
   * [PRON]() 105: <em>km [gap] ker <b>ti</b> na vizi piše od kdaj do kdaj <b>ti</b> velja</em>
   * [DET]() 10: <em>to je igra ki jo igrajo eee <b>ti</b> eee člani družine</em>
-  * [INTJ]() 1: <em>pa če noče zaspati ko je še mala pa ji špilaš pred posteljico veš [audience:laughter] tako delaš <b>ti</b> di di pa še igraš</em>
   * [X]() 1: <em>in se smejem kot matasta tipo ki že costi <b>ti</b> ga bi bujeri ser [all:laughter]</em>
+  * [INTJ]() 1: <em>pa če noče zaspati ko je še mala pa ji špilaš pred posteljico veš [audience:laughter] tako delaš <b>ti</b> di di pa še igraš</em>
 * <em>u</em>
   * [X]() 8: <em>ja zdajle imate <b>u</b> [gap] a je tu kolektiven ali kako je zdaj to</em>
   * [INTJ]() 1: <em><b>u</b> zanimivo</em>

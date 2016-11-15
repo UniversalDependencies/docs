@@ -9,24 +9,24 @@ Out of 14 observed tags, the rank of `PRON` is: 10 in number of lemmas, 7 in num
 
 The 10 most frequent `PRON` lemmas: <em>ben, o, bu, ne, kendi, sen, biz, siz, biri, nere</em>
 
-The 10 most frequent `PRON` types:  <em>ben, o, ne, bana, beni, bu, onu, onun, benim, ona</em>
+The 10 most frequent `PRON` types:  <em>ben, ne, o, bana, beni, bu, onu, onun, benim, ona</em>
 
 The 10 most frequent ambiguous lemmas: <em>ben</em> ([PRON]() 487, [NOUN]() 4), <em>o</em> ([PRON]() 451, [DET]() 178, [NOUN]() 1), <em>bu</em> ([DET]() 477, [PRON]() 239), <em>ne</em> ([PRON]() 185, [CONJ]() 19, [ADV]() 19, [ADJ]() 11), <em>siz</em> ([PRON]() 76, [ADP]() 43), <em>şu</em> ([DET]() 31, [PRON]() 23), <em>hep</em> ([ADV]() 36, [PRON]() 8), <em>kimi</em> ([DET]() 14, [PRON]() 8), <em>bazı</em> ([DET]() 28, [PRON]() 7), <em>hangi</em> ([ADJ]() 9, [PRON]() 3)
 
-The 10 most frequent ambiguous types:  <em>ben</em> ([PRON]() 104, [NOUN]() 1), <em>o</em> ([DET]() 125, [PRON]() 81), <em>ne</em> ([PRON]() 78, [CONJ]() 14, [ADV]() 10, [ADJ]() 6), <em>beni</em> ([PRON]() 68, [NOUN]() 1), <em>bu</em> ([DET]() 313, [PRON]() 56), <em>siz</em> ([ADP]() 23, [PRON]() 13), <em>biri</em> ([PRON]() 24, [NUM]() 12), <em>?</em> ([PUNCT]() 231, [PRON]() 24, [VERB]() 4, [PROPN]() 4, [NOUN]() 2, [ADJ]() 2), <em>onların</em> ([PRON]() 14, [NUM]() 1), <em>neden</em> ([NOUN]() 13, [PRON]() 13, [ADV]() 4)
+The 10 most frequent ambiguous types:  <em>ben</em> ([PRON]() 104, [NOUN]() 1), <em>ne</em> ([PRON]() 84, [CONJ]() 14, [ADV]() 10, [ADJ]() 6), <em>o</em> ([DET]() 125, [PRON]() 81), <em>beni</em> ([PRON]() 68, [NOUN]() 1), <em>bu</em> ([DET]() 313, [PRON]() 56), <em>siz</em> ([ADP]() 23, [PRON]() 13), <em>biri</em> ([PRON]() 24, [NUM]() 12), <em>neden</em> ([PRON]() 15, [NOUN]() 13, [ADV]() 4), <em>onların</em> ([PRON]() 14, [NUM]() 1), <em>kimi</em> ([DET]() 12, [PRON]() 6)
 
 
 * <em>ben</em>
   * [PRON]() 104: <em>ii ) potansiyel rahip adayları Celal , <b>ben</b> ve hülya 'dır .</em>
   * [NOUN]() 1: <em>Buna hiç şaşırmadım <b>ben</b> zaten herşeye razı ydım .</em>
-* <em>o</em>
-  * [DET]() 125: <em>Ne kadar ürküt ücü ve bir <b>o</b> kadar da çekici bir yer orası .</em>
-  * [PRON]() 81: <em>Nasıl bir kadın <b>o</b> ? diye sordum .</em>
 * <em>ne</em>
-  * [PRON]() 78: <em>Asıl sen beni <b>ne</b> sandın .</em>
+  * [PRON]() 84: <em>Asıl sen beni <b>ne</b> sandın .</em>
   * [CONJ]() 14: <em>Ne kendileri ediyor rahat , <b>ne</b> aleme veriyorlar huzur ...</em>
   * [ADV]() 10: <em>Ne rahat , <b>ne</b> güzel bir ev bulmuşsun .</em>
   * [ADJ]() 6: <em>Büyük dayının aşık olması <b>ne</b> kadar heyecan ver ici .</em>
+* <em>o</em>
+  * [DET]() 125: <em>Ne kadar ürküt ücü ve bir <b>o</b> kadar da çekici bir yer orası .</em>
+  * [PRON]() 81: <em>Nasıl bir kadın <b>o</b> ? diye sordum .</em>
 * <em>beni</em>
   * [PRON]() 68: <em>Kim tamir edecekti <b>beni</b> ? .</em>
   * [NOUN]() 1: <em>Dışı seni yakar içi <b>beni</b> türünden .</em>
@@ -39,24 +39,20 @@ The 10 most frequent ambiguous types:  <em>ben</em> ([PRON]() 104, [NOUN]() 1), 
 * <em>biri</em>
   * [PRON]() 24: <em>Mesela Tavşanlı'dan <b>biri</b> diyor ki : Çorum'da nohut bile yok tur .</em>
   * [NUM]() 12: <em>Bu tasarımın önem li konularından <b>biri</b> de mülkiyet durumu ydu .</em>
-* <em>?</em>
-  * [PUNCT]() 231: <em>Nasıl bir kadın o <b>?</b> diye sordum .</em>
-  * [PRON]() 24: <em><b>?</b> imsiniz ? dedi bir erkek sesi .</em>
-  * [VERB]() 4: <em>Potaya <b>?</b> irerken arkadan gelen bir diğeri onları vurabilir .</em>
-  * [PROPN]() 4: <em><b>?</b> ostakoviç'miş ! Tövbe yarabbi .</em>
-  * [NOUN]() 2: <em>Lam deniz demek , ut ise <b>?</b> ürkçedeki ci eki .</em>
-  * [ADJ]() 2: <em>Sen <b>?</b> usevisin , değil mi Maryline .</em>
+* <em>neden</em>
+  * [PRON]() 15: <em>Yöreye ve toplumlara göre ( eskiden ) evler <b>neden</b> farklılaşıyordu ?</em>
+  * [NOUN]() 13: <em>O da hararetin yüksek çıkmasına <b>neden</b> oldu " dedi .</em>
+  * [ADV]() 4: <em>Ya da barınağın , konutun , bir türlü evleşememesine <b>neden</b> olabilir .</em>
 * <em>onların</em>
   * [PRON]() 14: <em>Ben <b>onların</b> Hüseyin abileri yim .</em>
   * [NUM]() 1: <em>Hangi özür , <b>onların</b> haklılığını değiştirebilir ki ! ..</em>
-* <em>neden</em>
-  * [NOUN]() 13: <em>O da hararetin yüksek çıkmasına <b>neden</b> oldu " dedi .</em>
-  * [PRON]() 13: <em>Yöreye ve toplumlara göre ( eskiden ) evler <b>neden</b> farklılaşıyordu ?</em>
-  * [ADV]() 4: <em>Ya da barınağın , konutun , bir türlü evleşememesine <b>neden</b> olabilir .</em>
+* <em>kimi</em>
+  * [DET]() 12: <em>Sanki <b>kimi</b> yerler kara <b>kimi</b> yerler deniz di .</em>
+  * [PRON]() 6: <em>Kimi bir saat lik , <b>kimi</b> birkaç günlük .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 6.500000 (the average of all parts of speech is 2.818565).
+The form / lemma ratio of `PRON` is 6.500000 (the average of all parts of speech is 2.815350).
 
 The 1st highest number of forms (27) was observed with the lemma “kendi”: <em>kendi, kendileri, kendilerinde, kendilerine, kendilerini, kendilerinin, kendileriyle, kendim, kendime, kendimi, kendimize, kendimizi, kendince, kendinden, kendine, kendini, kendinin, kendiniz, kendinize, kendinizi, kendinle, kendisi, kendisinden, kendisine, kendisini, kendisinin, kendisiyle</em>.
 

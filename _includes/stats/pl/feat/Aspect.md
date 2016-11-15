@@ -65,7 +65,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 671 [pl-pos/NOUN]() tokens (3% of all `NOUN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (671; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (671; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (670; 100%).
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (671; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (671; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (670; 100%).
 
 `NOUN` tokens may have the following values of `Aspect`:
 
@@ -96,7 +96,7 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (4; 67%),
 <tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/punct.html">punct</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> NOUN</tt> (1; 100%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> NOUN</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/punct.html">punct</a>]--> VERB</tt> (1; 100%).
 

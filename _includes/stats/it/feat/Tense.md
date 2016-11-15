@@ -7,24 +7,24 @@
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-27591 tokens (10%) have a non-empty value of `Tense`.
-6320 types (24%) occur at least once with a non-empty value of `Tense`.
-1908 lemmas (11%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: [it-pos/VERB]() (20619; 8% instances), [it-pos/AUX]() (6971; 3% instances), [it-pos/NOUN]() (1; 0% instances).
+29764 tokens (10%) have a non-empty value of `Tense`.
+6520 types (24%) occur at least once with a non-empty value of `Tense`.
+1939 lemmas (11%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: [it-pos/VERB]() (22181; 8% instances), [it-pos/AUX]() (7582; 3% instances), [it-pos/NOUN]() (1; 0% instances).
 
 ### `VERB`
 
-20619 [it-pos/VERB]() tokens (78% of all `VERB` tokens) have a non-empty value of `Tense`.
+22181 [it-pos/VERB]() tokens (78% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (15205; 74%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (12538; 61%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12172; 59%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (11119; 54%), <tt><a href="Person.html">Person</a>=3</tt> (11023; 53%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (16109; 73%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13628; 61%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (13263; 60%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (12195; 55%), <tt><a href="Person.html">Person</a>=3</tt> (11941; 54%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (442; 2% of non-empty `Tense`): <em>sarà, saranno, vedrà, avrà, farà, vedremo, andrà, continuerà, diventerà, chiamerà</em>
-* `Imp` (1125; 5% of non-empty `Tense`): <em>era, erano, aveva, fosse, chiamava, avevano, faceva, facevano, diceva, lavorava</em>
-* `Past` (9173; 44% of non-empty `Tense`): <em>fatto, visto, stato, fu, stata, tenuto, avuto, detto, morì, dato</em>
-* `Pres` (9879; 48% of non-empty `Tense`): <em>è, sono, ha, trova, hanno, fa, sia, chiama, dice, vede</em>
-* `EMPTY` (5883): <em>essere, far, fare, vedere, dire, avere, dare, chiedere, pagare, andare</em>
+* `Fut` (478; 2% of non-empty `Tense`): <em>sarà, saranno, vedrà, avrà, farà, vedremo, andrà, diventerà, avranno, continuerà</em>
+* `Imp` (1190; 5% of non-empty `Tense`): <em>era, erano, aveva, fosse, chiamava, faceva, avevano, facevano, diceva, lavorava</em>
+* `Past` (9659; 44% of non-empty `Tense`): <em>fatto, stato, visto, fu, vinto, stata, avuto, tenuto, detto, morì</em>
+* `Pres` (10854; 49% of non-empty `Tense`): <em>è, sono, ha, hanno, trova, fa, chiama, sia, dice, fanno</em>
+* `EMPTY` (6431): <em>essere, fare, far, vedere, avere, dire, dare, chiedere, andare, pagare</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -51,17 +51,17 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-6971 [it-pos/AUX]() tokens (93% of all `AUX` tokens) have a non-empty value of `Tense`.
+7582 [it-pos/AUX]() tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6412; 92%), <tt><a href="Person.html">Person</a>=3</tt> (5962; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5644; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (4977; 71%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7006; 92%), <tt><a href="Person.html">Person</a>=3</tt> (6489; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6237; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (5291; 70%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (143; 2% of non-empty `Tense`): <em>sarà, potrà, dovrà, saranno, verrà, dovranno, potranno, avrà, verranno, dovremo</em>
-* `Imp` (534; 8% of non-empty `Tense`): <em>era, aveva, erano, avevano, avesse, fosse, poteva, avevo, fossero, stava</em>
-* `Past` (816; 12% of non-empty `Tense`): <em>stato, stata, venne, stati, fu, state, furono, dovuto, potuto, vennero</em>
-* `Pres` (5478; 79% of non-empty `Tense`): <em>è, ha, sono, può, hanno, deve, possono, viene, sia, ho</em>
-* `EMPTY` (487): <em>essere, aver, poter, esser, dover, avere, voler, essendo, venire, avendo</em>
+* `Fut` (155; 2% of non-empty `Tense`): <em>sarà, potrà, dovrà, saranno, potranno, dovranno, verrà, avrà, verranno, dovremo</em>
+* `Imp` (559; 7% of non-empty `Tense`): <em>era, aveva, erano, avevano, avesse, fosse, poteva, potevano, avevo, fossero</em>
+* `Past` (834; 11% of non-empty `Tense`): <em>stato, stata, venne, stati, fu, state, furono, potuto, dovuto, vennero</em>
+* `Pres` (6034; 80% of non-empty `Tense`): <em>è, ha, sono, può, hanno, deve, possono, viene, sia, ho</em>
+* `EMPTY` (500): <em>essere, aver, poter, esser, dover, avere, voler, essendo, venire, avendo</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -92,12 +92,12 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>previsto</em>
-* `EMPTY` (53650): <em>anni, presidente, parte, fondo, diritto, legge, proprietario, anno, caso, art.</em>
+* `EMPTY` (58056): <em>anni, presidente, parte, fondo, diritto, anno, legge, persone, città, proprietario</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1186; 72%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1338; 73%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (3; 100%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%).
 

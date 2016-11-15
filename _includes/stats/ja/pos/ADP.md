@@ -2,6 +2,50 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+There are 1 `ADP` lemmas (8%), 2 `ADP` types (0%) and 2 `ADP` tokens (0%).
+Out of 12 observed tags, the rank of `ADP` is: 2 in number of lemmas, 12 in number of types and 12 in number of tokens.
+
+The 10 most frequent `ADP` lemmas: _
+
+The 10 most frequent `ADP` types:  …というふうに, 軍事費の
+
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 50340, [VERB]() 18567, [PUNCT]() 10247, [NUM]() 4184, [ADJ]() 3393, [ADV]() 3061, [PRON]() 1113, [DET]() 925, [CONJ]() 180, [X]() 18, [PART]() 3, [ADP]() 2)
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `ADP` is 2.000000 (the average of all parts of speech is 4757.166667).
+
+The 1st highest number of forms (2) was observed with the lemma “_”: …というふうに, 軍事費の.
+
+`ADP` does not occur with any features.
+
+
+## Relations
+
+`ADP` nodes are attached to their parents using 1 different relations: [ja-dep/nmod]() (2; 100% instances)
+
+Parents of `ADP` nodes belong to 2 different parts of speech: [NOUN]() (1; 50% instances), [VERB]() (1; 50% instances)
+
+0 (0%) `ADP` nodes are leaves.
+
+2 (100%) `ADP` nodes have one child.
+
+The highest child degree of a `ADP` node is 1.
+
+Children of `ADP` nodes are attached using 2 different relations: [ja-dep/advmod]() (1; 50% instances), [ja-dep/nmod]() (1; 50% instances)
+
+Children of `ADP` nodes belong to 2 different parts of speech: [ADV]() (1; 50% instances), [NOUN]() (1; 50% instances)
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 There are 2 `ADP` lemmas (0%), 1 `ADP` types (6%) and 56602 `ADP` tokens (21%).

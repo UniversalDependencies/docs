@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: <em>nagy, új, első, magyar, orosz, jó, gaz
 
 The 10 most frequent `ADJ` types:  <em>első, magyar, új, orosz, nagy, gazdasági, százalékos, parlamenti, jövő, nemzetközi</em>
 
-The 10 most frequent ambiguous lemmas: <em>nagy</em> ([ADJ]() 78, [NOUN]() 1), <em>első</em> ([ADJ]() 60, [NOUN]() 3), <em>magyar</em> ([ADJ]() 58, [NOUN]() 1), <em>orosz</em> ([ADJ]() 38, [NOUN]() 7), <em>jó</em> ([ADJ]() 37, [NOUN]() 3, [ADV]() 3), <em>jövő</em> ([ADJ]() 29, [NOUN]() 7), <em>múlt</em> ([ADJ]() 26, [NOUN]() 6), <em>szerb</em> ([ADJ]() 26, [NOUN]() 15), <em>várható</em> ([ADJ]() 23, [PROPN]() 1), <em>követő</em> ([ADJ]() 22, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: <em>nagy</em> ([ADJ]() 78, [NOUN]() 1), <em>első</em> ([ADJ]() 60, [NOUN]() 3), <em>magyar</em> ([ADJ]() 58, [NOUN]() 1), <em>orosz</em> ([ADJ]() 38, [NOUN]() 7), <em>jó</em> ([ADJ]() 37, [ADV]() 3, [NOUN]() 3), <em>jövő</em> ([ADJ]() 29, [NOUN]() 7), <em>múlt</em> ([ADJ]() 26, [NOUN]() 6), <em>szerb</em> ([ADJ]() 26, [NOUN]() 15), <em>várható</em> ([ADJ]() 23, [PROPN]() 1), <em>követő</em> ([ADJ]() 22, [NOUN]() 2)
 
 The 10 most frequent ambiguous types:  <em>múlt</em> ([ADJ]() 26, [NOUN]() 1), <em>szerb</em> ([ADJ]() 23, [NOUN]() 2), <em>utóbbi</em> ([ADJ]() 21, [NOUN]() 5), <em>egész</em> ([ADJ]() 20, [ADV]() 2), <em>jó</em> ([ADJ]() 19, [ADV]() 2), <em>olyan</em> ([ADJ]() 17, [PRON]() 11, [ADV]() 7, [DET]() 4), <em>egyetlen</em> ([ADJ]() 16, [NUM]() 2), <em>következő</em> ([ADJ]() 13, [NOUN]() 1), <em>ilyen</em> ([ADJ]() 10, [DET]() 5, [ADV]() 1), <em>vezető</em> ([ADJ]() 11, [NOUN]() 1)
 

@@ -11,9 +11,9 @@ The 10 most frequent `PROPN` lemmas: <em>Gaeilge, Éire, Baile, Átha_Cliath, Se
 
 The 10 most frequent `PROPN` types:  <em>Gaeilge, Átha_Cliath, Bhaile, Seán, hÉireann, mBaile, Éirinn, Ghaeilge, Mháire, Fraince</em>
 
-The 10 most frequent ambiguous lemmas: <em>Éireannach</em> ([PROPN]() 4, [ADJ]() 2), <em>Eaglais</em> ([PROPN]() 3, [NOUN]() 1), <em>Eorpach</em> ([PROPN]() 3, [ADJ]() 1), <em>Gearmáin</em> ([PROPN]() 3, [NOUN]() 1), <em>Bean</em> ([PROPN]() 2, [NOUN]() 1), <em>Béal_Feirste</em> ([PROPN]() 2, [NOUN]() 2), <em>Muire</em> ([PROPN]() 2, [NOUN]() 1), <em>Mór</em> ([PROPN]() 2, [ADJ]() 2), <em>Rua</em> ([PROPN]() 2, [ADJ]() 1), <em>mí</em> ([NOUN]() 13, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>Éireannach</em> ([PROPN]() 4, [ADJ]() 2), <em>Eaglais</em> ([PROPN]() 3, [NOUN]() 1), <em>Eorpach</em> ([PROPN]() 3, [ADJ]() 1), <em>Gearmáin</em> ([PROPN]() 3, [NOUN]() 1), <em>Bean</em> ([PROPN]() 2, [NOUN]() 1), <em>Béal_Feirste</em> ([NOUN]() 2, [PROPN]() 2), <em>Muire</em> ([PROPN]() 2, [NOUN]() 1), <em>Mór</em> ([ADJ]() 2, [PROPN]() 2), <em>Rua</em> ([PROPN]() 2, [ADJ]() 1), <em>mí</em> ([NOUN]() 13, [PROPN]() 2)
 
-The 10 most frequent ambiguous types:  <em>Eaglais</em> ([PROPN]() 3, [NOUN]() 1), <em>Bean</em> ([PROPN]() 2, [NOUN]() 1), <em>Bhéal_Feirste</em> ([PROPN]() 2, [NOUN]() 1), <em>Rua</em> ([PROPN]() 2, [ADJ]() 1), <em>The</em> ([PROPN]() 2, [X]() 1), <em>mí</em> ([NOUN]() 4, [PROPN]() 1), <em>Cailín</em> ([NOUN]() 1, [PROPN]() 1), <em>Duine</em> ([PROPN]() 1, [NOUN]() 1), <em>Iúil</em> ([NOUN]() 1, [PROPN]() 1), <em>Muire</em> ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>Eaglais</em> ([PROPN]() 3, [NOUN]() 1), <em>Bean</em> ([PROPN]() 2, [NOUN]() 1), <em>Bhéal_Feirste</em> ([PROPN]() 2, [NOUN]() 1), <em>Rua</em> ([PROPN]() 2, [ADJ]() 1), <em>The</em> ([PROPN]() 2, [X]() 1), <em>mí</em> ([NOUN]() 4, [PROPN]() 1), <em>Cailín</em> ([PROPN]() 1, [NOUN]() 1), <em>Duine</em> ([PROPN]() 1, [NOUN]() 1), <em>Iúil</em> ([PROPN]() 1, [NOUN]() 1), <em>Muire</em> ([NOUN]() 1, [PROPN]() 1)
 
 
 * <em>Eaglais</em>
@@ -35,14 +35,14 @@ The 10 most frequent ambiguous types:  <em>Eaglais</em> ([PROPN]() 3, [NOUN]() 1
   * [NOUN]() 4: <em>I <b>mí</b> Eanáir , thuairisc na taighdeoirí céanna go raibh dath turcaide uirthi .</em>
   * [PROPN]() 1: <em>Turas <b>mí</b> le fáil ar sheasca punt .</em>
 * <em>Cailín</em>
-  * [NOUN]() 1: <em><b>Cailín</b> deas ab fhearr liom a bheith ar láimh liom thar a bhfeacaíos riamh , ' Gus dá bpósfainn cailleach ghránna mo lánchreach ná mairfinn bliain , Ach phósfainn thusa , a ghrá ghil , a chúil fáinneach na dtrioplaí siar , Is do bhainfinnse binse breá duit chomh hálainn is a chonaic tú ariamh .</em>
   * [PROPN]() 1: <em><b>Cailín</b> is ea í .</em>
+  * [NOUN]() 1: <em><b>Cailín</b> deas ab fhearr liom a bheith ar láimh liom thar a bhfeacaíos riamh , ' Gus dá bpósfainn cailleach ghránna mo lánchreach ná mairfinn bliain , Ach phósfainn thusa , a ghrá ghil , a chúil fáinneach na dtrioplaí siar , Is do bhainfinnse binse breá duit chomh hálainn is a chonaic tú ariamh .</em>
 * <em>Duine</em>
   * [PROPN]() 1: <em><b>Duine</b> fíorthuisceanach é Ciarán a thug faoi deara go luath buanna Chaitlín Maude .</em>
   * [NOUN]() 1: <em>Aonach a' Phoic <b>Duine</b> a bheadh ag ceannach capaill ní dhéanfadh sé margadh le tincéirí ar eagla go mbuailfí bob air faoi mar a buaileadh ar Phádraig Bán ar Aonach a' Phoic i gCill Orglan uair .</em>
 * <em>Iúil</em>
-  * [NOUN]() 1: <em>2138/92 ón gComhairle an 23 <b>Iúil</b> 1992 ( IO Uimh. 31991 L 0068 : Treoir 91/68 / CEE ón gComhairle an 28 Eanáir 1991 maidir_le coinníollacha sláinte ainmhithe a rialaíonn trádáil in ainmhithe de chineál caorach agus de chineál gabhair laistigh den Chomhphobal ( IO L 46 , 19.2.1991 .</em>
   * [PROPN]() 1: <em><b>Iúil</b> - Meán Fómhair .</em>
+  * [NOUN]() 1: <em>2138/92 ón gComhairle an 23 <b>Iúil</b> 1992 ( IO Uimh. 31991 L 0068 : Treoir 91/68 / CEE ón gComhairle an 28 Eanáir 1991 maidir_le coinníollacha sláinte ainmhithe a rialaíonn trádáil in ainmhithe de chineál caorach agus de chineál gabhair laistigh den Chomhphobal ( IO L 46 , 19.2.1991 .</em>
 * <em>Muire</em>
   * [NOUN]() 1: <em>Dia's <b>Muire</b> duit ... ... sea ... ... .</em>
   * [PROPN]() 1: <em>Fuair sí post ansin in Oifig na Deoise , i Halla Naomh <b>Muire</b> .</em>

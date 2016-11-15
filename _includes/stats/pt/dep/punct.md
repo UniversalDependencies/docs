@@ -9,9 +9,9 @@ This relation is universal.
 29964 nodes (13%) are attached to their parents as `punct`.
 
 23496 instances of `punct` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.06277533039648.
+Average distance between parent and child is 9.12444933920705.
 
-The following 15 pairs of parts of speech are connected with `punct`: [pt-pos/VERB]()-[pt-pos/PUNCT]() (15231; 51% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (8107; 27% instances), [pt-pos/PROPN]()-[pt-pos/PUNCT]() (4241; 14% instances), [pt-pos/ADJ]()-[pt-pos/PUNCT]() (1338; 4% instances), [pt-pos/PRON]()-[pt-pos/PUNCT]() (316; 1% instances), [pt-pos/NUM]()-[pt-pos/PUNCT]() (207; 1% instances), [pt-pos/ADV]()-[pt-pos/PUNCT]() (202; 1% instances), [pt-pos/DET]()-[pt-pos/PUNCT]() (122; 0% instances), [pt-pos/SYM]()-[pt-pos/PUNCT]() (91; 0% instances), [pt-pos/ADP]()-[pt-pos/PUNCT]() (31; 0% instances), [pt-pos/CONJ]()-[pt-pos/PUNCT]() (29; 0% instances), [pt-pos/INTJ]()-[pt-pos/PUNCT]() (22; 0% instances), [pt-pos/AUX]()-[pt-pos/PUNCT]() (13; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PUNCT]() (13; 0% instances), [pt-pos/PUNCT]()-[pt-pos/PUNCT]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: [pt-pos/VERB]()-[pt-pos/PUNCT]() (15244; 51% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (8103; 27% instances), [pt-pos/PROPN]()-[pt-pos/PUNCT]() (4222; 14% instances), [pt-pos/ADJ]()-[pt-pos/PUNCT]() (1361; 5% instances), [pt-pos/PRON]()-[pt-pos/PUNCT]() (316; 1% instances), [pt-pos/NUM]()-[pt-pos/PUNCT]() (207; 1% instances), [pt-pos/ADV]()-[pt-pos/PUNCT]() (202; 1% instances), [pt-pos/DET]()-[pt-pos/PUNCT]() (127; 0% instances), [pt-pos/SYM]()-[pt-pos/PUNCT]() (91; 0% instances), [pt-pos/ADP]()-[pt-pos/PUNCT]() (30; 0% instances), [pt-pos/CONJ]()-[pt-pos/PUNCT]() (25; 0% instances), [pt-pos/INTJ]()-[pt-pos/PUNCT]() (22; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PUNCT]() (13; 0% instances), [pt-pos/PUNCT]()-[pt-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -66,8 +66,80 @@ The following 15 pairs of parts of speech are connected with `punct`: [pt-pos/VE
 4	63	63	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_
 5	,	,	PUNCT	punc	_	1	punct	_	_
 6	tel.	tel.	NOUN	n|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
-7	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur	6	nummod	_	_
+7	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur|NumType=Card	6	nummod	_	_
 8	)	)	PUNCT	punc	_	1	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+29985 nodes (13%) are attached to their parents as `punct`.
+
+22799 instances of `punct` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.58459229614807.
+
+The following 19 pairs of parts of speech are connected with `punct`: [pt-pos/VERB]()-[pt-pos/PUNCT]() (14730; 49% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (7857; 26% instances), [pt-pos/PROPN]()-[pt-pos/PUNCT]() (3733; 12% instances), [pt-pos/ADJ]()-[pt-pos/PUNCT]() (1535; 5% instances), [pt-pos/ADV]()-[pt-pos/PUNCT]() (878; 3% instances), [pt-pos/NUM]()-[pt-pos/PUNCT]() (512; 2% instances), [pt-pos/PRON]()-[pt-pos/PUNCT]() (385; 1% instances), [pt-pos/CONJ]()-[pt-pos/PUNCT]() (90; 0% instances), [pt-pos/DET]()-[pt-pos/PUNCT]() (88; 0% instances), [pt-pos/SYM]()-[pt-pos/PUNCT]() (61; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PUNCT]() (38; 0% instances), [pt-pos/INTJ]()-[pt-pos/PUNCT]() (36; 0% instances), [pt-pos/ADP]()-[pt-pos/PUNCT]() (29; 0% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (4; 0% instances), [pt-pos/AUX]()-[pt-pos/PUNCT]() (3; 0% instances), [pt-pos/PART]()-[pt-pos/PUNCT]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PUNCT]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 punct	color:blue
+1	Significa	significar	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	«	«	PUNCT	PU|@PU	_	3	punct	_	_
+3	planetas	planeta	NOUN	<np-idf>|N|M|P|@<ACC	Gender=Masc|Number=Plur	1	dobj	_	_
+4	bacanas	bacana	ADJ	ADJ|M|P|@N<	Gender=Masc|Number=Plur	3	amod	_	_
+5	»	»	PUNCT	PU|@PU	_	3	punct	_	_
+6	.	.	PUNCT	PU|@PU	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 punct	color:blue
+1	«	«	PUNCT	PU|@PU	_	4	punct	_	_
+2	Será	ser	VERB	<mv>|V|FUT|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+3	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	movimento	movimento	NOUN	<np-idf>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	_
+5	nacionalista	nacionalista	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	4	amod	_	_
+6	independente	independente	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	4	amod	_	_
+7	.	.	PUNCT	PU|@PU	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 punct	color:blue
+1	Até	até	ADV	ADV|@>A	_	3	advmod	_	_
+2	em	em	ADP	PRP|@ADVL>	_	3	case	_	_
+3	Hollywood	Hollywood	PROPN	PROP|M|S|@P<	Gender=Masc|Number=Sing	5	nmod	_	_
+4	,	,	PUNCT	PU|@PU	_	3	punct	_	_
+5	há	haver	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	pessoas	pessoa	NOUN	<np-idf>|N|F|P|@<ACC	Gender=Fem|Number=Plur	5	dobj	_	_
+7	como	como	ADP	<com>|PRP|@N<	_	8	case	_	_
+8	Sonia	Sonia	PROPN	<first-cjt>|PROP|F|S|@P<	Gender=Fem|Number=Sing	6	nmod	_	MWE:Sonia=Braga
+9	Braga	Braga	PROPN	PROP|@N<	Number=Sing	8	name	_	_
+10	e	e	CONJ	KC|@CO	_	8	cc	_	_
+11	Andy	Andy	PROPN	PROP|M|S|@P<	Gender=Masc|Number=Sing	6	nmod	_	MWE:Andy=Garcia
+12	Garcia	Garcia	PROPN	PROP|@N<	Number=Sing	11	name	_	_
+13	.	.	PUNCT	PU|@PU	_	5	punct	_	_
 
 ~~~
 

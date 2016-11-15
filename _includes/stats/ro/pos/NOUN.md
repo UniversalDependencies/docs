@@ -4,90 +4,90 @@
 
 ## Treebank Statistics (UD_Romanian)
 
-There are 6377 `NOUN` lemmas (44%), 11313 `NOUN` types (45%) and 35613 `NOUN` tokens (24%).
+There are 7848 `NOUN` lemmas (43%), 15077 `NOUN` types (46%) and 54207 `NOUN` tokens (25%).
 Out of 17 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: <em>an, articol, caz, parte, timp, stat, comisie, dată, față, acord</em>
+The 10 most frequent `NOUN` lemmas: <em>an, timp, caz, parte, stat, dată, loc, comisie, acord, zi</em>
 
-The 10 most frequent `NOUN` types:  <em>art., ani, cazul, conformitate, timp, Comisia, statele, a., mod, timpul</em>
+The 10 most frequent `NOUN` types:  <em>ani, timp, cazul, conformitate, loc, membre, timpul, mod, statele, acord</em>
 
-The 10 most frequent ambiguous lemmas: <em>față</em> ([NOUN]() 149, [ADP]() 2), <em>acord</em> ([NOUN]() 142, [PROPN]() 1), <em>zi</em> ([NOUN]() 134, [ADV]() 1), <em>om</em> ([NOUN]() 116, [PROPN]() 1), <em>cauză</em> ([NOUN]() 82, [VERB]() 1), <em>drept</em> ([NOUN]() 66, [ADP]() 20, [ADJ]() 12, [ADV]() 5), <em>lucrător</em> ([NOUN]() 65, [ADJ]() 1), <em>produs</em> ([NOUN]() 64, [ADJ]() 3), <em>membru</em> ([ADJ]() 120, [NOUN]() 62), <em>prezent</em> ([ADJ]() 155, [NOUN]() 60)
+The 10 most frequent ambiguous lemmas: <em>față</em> ([NOUN]() 202, [ADP]() 2), <em>produs</em> ([NOUN]() 171, [ADJ]() 2), <em>membru</em> ([NOUN]() 131, [ADJ]() 5), <em>drept</em> ([NOUN]() 95, [ADJ]() 25, [ADP]() 25, [ADV]() 11), <em>rezultat</em> ([NOUN]() 92, [ADJ]() 2), <em>animal</em> ([NOUN]() 80, [ADJ]() 13), <em>a</em> ([PART]() 834, [NOUN]() 52, [ADP]() 20), <em>sfârșit</em> ([NOUN]() 73, [ADJ]() 1), <em>prezent</em> ([ADJ]() 230, [NOUN]() 65), <em>lucrător</em> ([NOUN]() 63, [ADJ]() 5)
 
-The 10 most frequent ambiguous types:  <em>urmă</em> ([NOUN]() 67, [VERB]() 6), <em>față</em> ([NOUN]() 62, [ADP]() 2), <em>dată</em> ([NOUN]() 53, [ADJ]() 3, [VERB]() 2), <em>anexa</em> ([NOUN]() 45, [VERB]() 5), <em>CE</em> ([NOUN]() 47, [PRON]() 10, [PROPN]() 8, [DET]() 8), <em>doza</em> ([NOUN]() 30, [VERB]() 7), <em>stat</em> ([NOUN]() 35, [VERB]() 6), <em>produse</em> ([NOUN]() 35, [VERB]() 6, [ADJ]() 1), <em>membru</em> ([NOUN]() 33, [ADJ]() 14), <em>ori</em> ([CONJ]() 42, [NOUN]() 32, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>membre</em> ([NOUN]() 164, [ADJ]() 4), <em>față</em> ([NOUN]() 98, [ADP]() 2), <em>urmă</em> ([NOUN]() 83, [VERB]() 3), <em>anexa</em> ([NOUN]() 72, [VERB]() 1), <em>dată</em> ([NOUN]() 77, [VERB]() 6, [ADJ]() 2), <em>date</em> ([NOUN]() 73, [VERB]() 4, [ADJ]() 1), <em>a</em> ([AUX]() 2156, [DET]() 1589, [PART]() 816, [NOUN]() 52, [ADP]() 19), <em>membru</em> ([NOUN]() 72, [ADJ]() 1), <em>ori</em> ([NOUN]() 58, [CONJ]() 42), <em>stat</em> ([NOUN]() 55, [VERB]() 9)
 
 
-* <em>urmă</em>
-  * [NOUN]() 67: <em>Pe <b>urmă</b> , își îngropase fața în mâini .</em>
-  * [VERB]() 6: <em>Totuși , îl <b>urmă</b> , cu inima de gheață .</em>
+* <em>membre</em>
+  * [NOUN]() 164: <em>Statele <b>membre</b> stabilesc modalitatea de efectuare a acestei trimiteri .</em>
+  * [ADJ]() 4: <em>Dispozițiile convențiilor privind dubla impozitare între Liechtenstein și statele <b>membre</b> nu împiedică perceperea reținerii de impozit prevăzute de prezentul acord .</em>
 * <em>față</em>
-  * [NOUN]() 62: <em>Abia dacă aveam atențiile impuse de o elernentară politeță <b>față</b> de ea .</em>
+  * [NOUN]() 98: <em>De se vor afla de <b>față</b> unii ca aceia , să -i prindeți și să -i legați .</em>
   * [ADP]() 2: <em>Atitudinea <b>față</b> de acest tip de modelare – pe care tot autorul o sugerează personajelor – rămâne ambiguă .</em>
-* <em>dată</em>
-  * [NOUN]() 53: <em>La fiecare câteva minute o <b>dată</b> spunea :</em>
-  * [ADJ]() 3: <em>O <b>dată</b> stăpân pe metoda lui , Rimbaud - asemănător și în această privință cu omul de știință - își propune să extrapoleze adevărurile experimentale dobândite .</em>
-  * [VERB]() 2: <em>dar ca să nu -și murdărească pantalonii de bradolina <b>dată</b> pe scânduri , îi ruga frumos să scoată batista și s- o aștearnă pe jos , înainte de a se așeza .</em>
+* <em>urmă</em>
+  * [NOUN]() 83: <em>Winston o <b>urmă</b> pe coridor .</em>
+  * [VERB]() 3: <em>După Oceania , ție -ți cânt , <b>urmă</b> o muzică mai lejeră .</em>
 * <em>anexa</em>
-  * [NOUN]() 45: <em>Aceasta este definită în <b>anexa</b> I .</em>
-  * [VERB]() 5: <em>Prezentul protocol și <b>anexa</b> la acesta intră în vigoare la data semnării .</em>
-* <em>CE</em>
-  * [NOUN]() 47: <em>Decizia 2001 / 881 / <b>CE</b> ar trebui modificată în consecință .</em>
-  * [PRON]() 10: <em>Perioada prevăzută în art. 4 alin. ( 3 ) din Decizia 1999 / 468 / <b>CE</b> este de o lună .</em>
-  * [PROPN]() 8: <em>1 Înlocuit de la 1 ianuarie 2006 prin Regulamentul ( <b>CE</b> ) nr. 853/2004 și Regulamentul 854/2004 .</em>
-  * [DET]() 8: <em>( 8 ) Este necesar ca Regulamentul ( <b>CE</b> ) nr. 1148 / 2001 să se modifice în consecință .</em>
-* <em>doza</em>
-  * [NOUN]() 30: <em>Vizor NU UTILIZAȚI dacă produsul a expirat sau dacă <b>doza</b> este incorectă .</em>
-  * [VERB]() 7: <em>Dacă uitați să luați Temodal Luați <b>doza</b> omisă cât mai curând posibil în aceeași zi .</em>
-* <em>stat</em>
-  * [NOUN]() 35: <em>Fiecare <b>stat</b> membru comunică răspunsurile înaintate de Comisie conform alin. I .</em>
-  * [VERB]() 6: <em>Am <b>stat</b> în prevență o jumătate de an și am făcut trei ani la ocnă .</em>
-* <em>produse</em>
-  * [NOUN]() 35: <em>Să nu consumați <b>produse</b> din carne de pasăre , neprelucrate sau incomplet prelucrate termic .</em>
-  * [VERB]() 6: <em>Interferonii sunt substanțe <b>produse</b> în mod natural de organism , care ajută organismul să lupte împotriva diferitelor atacuri , cum ar fi infecțiile virale .</em>
-  * [ADJ]() 1: <em>De asemenea , au fost depistate infecții <b>produse</b> de germeni condiționat patogeni la pacienții cu SM cărora li s- a administrat TYSABRI în monoterapie ( vezi pct. 4 .</em>
+  * [NOUN]() 72: <em>Anexa II se modifică în conformitate cu <b>anexa</b> la prezenta directivă .</em>
+  * [VERB]() 1: <em>La cerere se vor <b>anexa</b> , în două exemplare , extrase de pe listele lunare de plată a cotelor de contribuție , din care rezultă suma datorată .</em>
+* <em>dată</em>
+  * [NOUN]() 77: <em>La fiecare câteva minute o <b>dată</b> spunea :</em>
+  * [VERB]() 6: <em>Acest lucru nu afectează demonstrația <b>dată</b> de Planck , în care nu intervine această energie de zero .</em>
+  * [ADJ]() 2: <em>O <b>dată</b> stăpân pe metoda lui , Rimbaud - asemănător și în această privință cu omul de știință - își propune să extrapoleze adevărurile experimentale dobândite .</em>
+* <em>date</em>
+  * [NOUN]() 73: <em>Când ne cita <b>date</b> astronomice , eram cu toții vorbiți să ne mirăm .</em>
+  * [VERB]() 4: <em>Toți elevii se ridică automat în picioare , trântind pupitrele surd și tropăind pe scândurile proaspăt spălate și <b>date</b> cu bradolină .</em>
+  * [ADJ]() 1: <em>Toți urmară poruncei <b>date</b> de judecător , afară de unul ce sta plângând și zicea : cum să dau eu în tatăl meu ?</em>
+* <em>a</em>
+  * [AUX]() 2156: <em>Eu sunt cel care ți- <b>a</b> stricat întreaga operațiune .</em>
+  * [DET]() 1589: <em>Există o gazdă <b>a</b> altor activități ce au loc în timpul celor 4 zile .</em>
+  * [PART]() 816: <em>n- ai avea baza pentru <b>a</b> afirma că e un cadavru .</em>
+  * [NOUN]() 52: <em>( c ) Ordinea descrisă la ( <b>a</b> ) și ( b ) se repetă de două ori .</em>
+  * [ADP]() 19: <em>Duhnea <b>a</b> gin .</em>
 * <em>membru</em>
-  * [NOUN]() 33: <em>A devenit <b>membru</b> PNL în 1990 , iar din 1996 , este vicepreședinte al partidului .</em>
-  * [ADJ]() 14: <em>Fiecare stat <b>membru</b> comunică răspunsurile înaintate de Comisie conform alin. I .</em>
+  * [NOUN]() 72: <em>Fiecare stat <b>membru</b> comunică răspunsurile înaintate de Comisie conform alin. I .</em>
+  * [ADJ]() 1: <em>( 1 ) San Marino reține 25% din încasările sale de taxe reținute la sursă prevăzute la articolul 7 și transferă 75% din încasări statului <b>membru</b> de rezidență a beneficiarului efectiv al plății dobânzii .</em>
 * <em>ori</em>
-  * [CONJ]() 42: <em>Dacă se întâmplă să plouă , <b>ori</b> răcoare ?</em>
-  * [NOUN]() 32: <em>Una era o fată cu care se întâlnea de multe <b>ori</b> pe coridoare .</em>
-  * [ADV]() 1: <em>Se putea foarte bine <b>ori</b> să fi fost vaporizată , ori să se fi sinucis , ori chiar să fi fost transferată la celălalt capăt al Oceaniei ; varianta cea mai rea și cea mai probabilă din toate era că se răzgândise și se hotărâse să -l evite .</em>
+  * [NOUN]() 58: <em>Una era o fată cu care se întâlnea de multe <b>ori</b> pe coridoare .</em>
+  * [CONJ]() 42: <em><b>ori</b> să nu se revizuiască , primesc !</em>
+* <em>stat</em>
+  * [NOUN]() 55: <em>Fiecare <b>stat</b> membru comunică răspunsurile înaintate de Comisie conform alin. I .</em>
+  * [VERB]() 9: <em>Am <b>stat</b> în prevență o jumătate de an și am făcut trei ani la ocnă .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.774032 (the average of all parts of speech is 1.736999).
+The form / lemma ratio of `NOUN` is 1.921126 (the average of all parts of speech is 1.826835).
 
 The 1st highest number of forms (9) was observed with the lemma “domn”: <em>Domne, doamne, domn, domni, domnii, domnilor, domnul, domnule, domnului</em>.
 
-The 2nd highest number of forms (9) was observed with the lemma “raport”: <em>rapoarte, rapoartele, rapoartelor, raport, raportul, raportului, raporturi, raporturile, raporturilor</em>.
+The 2nd highest number of forms (9) was observed with the lemma “masă”: <em>masa, mase, masei, masele, maselor, masă, mese, mesei, mesele</em>.
 
-The 3rd highest number of forms (8) was observed with the lemma “subiect”: <em>subiect, subiecte, subiectele, subiectelor, subiectul, subiectului, subiecți, subiecții</em>.
+The 3rd highest number of forms (9) was observed with the lemma “nivel”: <em>nivel, nivele, nivelele, nivelelor, nivelul, nivelului, niveluri, nivelurile, nivelurilor</em>.
 
-`NOUN` occurs with 6 features: [ro-feat/Definite]() (34116; 96% instances), [ro-feat/Gender]() (34112; 96% instances), [ro-feat/Number]() (33968; 95% instances), [ro-feat/Case]() (24941; 70% instances), [ro-feat/Abbr]() (655; 2% instances), [ro-feat/Variant]() (2; 0% instances)
+`NOUN` occurs with 6 features: [ro-feat/Definite]() (52853; 98% instances), [ro-feat/Gender]() (52829; 97% instances), [ro-feat/Number]() (52207; 96% instances), [ro-feat/Case]() (36856; 68% instances), [ro-feat/Abbr]() (1222; 2% instances), [ro-feat/Variant]() (10; 0% instances)
 
 `NOUN` occurs with 11 feature-value pairs: `Abbr=Yes`, `Case=Acc,Nom`, `Case=Dat,Gen`, `Case=Voc`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Variant=Short`
 
-`NOUN` occurs with 29 feature combinations.
-The most frequent feature combination is `Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing` (6123 tokens).
-Examples: <em>conformitate, parte, urmă, față, aplicare, privire, piață, cauză, dată, muncă</em>
+`NOUN` occurs with 31 feature combinations.
+The most frequent feature combination is `Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing` (9213 tokens).
+Examples: <em>conformitate, parte, față, urmă, dată, zi, funcție, aplicare, privire, vedere</em>
 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 42 different relations: [ro-dep/nmod]() (17147; 48% instances), [ro-dep/dobj]() (4276; 12% instances), [ro-dep/nsubj]() (4259; 12% instances), [ro-dep/conj]() (2597; 7% instances), [ro-dep/mwe]() (1557; 4% instances), [ro-dep/nmod:pmod]() (1023; 3% instances), [ro-dep/nsubjpass]() (1012; 3% instances), [ro-dep/iobj]() (596; 2% instances), [ro-dep/nmod:tmod]() (497; 1% instances), [ro-dep/appos]() (443; 1% instances), [ro-dep/nmod:agent]() (434; 1% instances), [ro-dep/root]() (381; 1% instances), [ro-dep/parataxis]() (273; 1% instances), [ro-dep/xcomp]() (227; 1% instances), [ro-dep/amod]() (146; 0% instances), [ro-dep/name]() (136; 0% instances), [ro-dep/punct]() (71; 0% instances), [ro-dep/list]() (64; 0% instances), [ro-dep/advmod]() (63; 0% instances), [ro-dep/case]() (61; 0% instances), [ro-dep/remnant]() (53; 0% instances), [ro-dep/advcl]() (52; 0% instances), [ro-dep/acl]() (38; 0% instances), [ro-dep/ccomp]() (37; 0% instances), [ro-dep/vocative]() (33; 0% instances), [ro-dep/cc]() (32; 0% instances), [ro-dep/nummod]() (29; 0% instances), [ro-dep/goeswith]() (23; 0% instances), [ro-dep/foreign]() (20; 0% instances), [ro-dep/csubj]() (6; 0% instances), [ro-dep/dep]() (6; 0% instances), [ro-dep/advmod:tmod]() (4; 0% instances), [ro-dep/compound]() (3; 0% instances), [ro-dep/mark]() (3; 0% instances), [ro-dep/ccomp:pmod]() (2; 0% instances), [ro-dep/cop]() (2; 0% instances), [ro-dep/expl:pv]() (2; 0% instances), [ro-dep/advcl:tcl]() (1; 0% instances), [ro-dep/cc:preconj]() (1; 0% instances), [ro-dep/csubjpass]() (1; 0% instances), [ro-dep/det]() (1; 0% instances), [ro-dep/expl:pass]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 41 different relations: [ro-dep/nmod]() (26969; 50% instances), [ro-dep/nsubj]() (6706; 12% instances), [ro-dep/dobj]() (6098; 11% instances), [ro-dep/conj]() (3828; 7% instances), [ro-dep/mwe]() (2418; 4% instances), [ro-dep/nsubjpass]() (1592; 3% instances), [ro-dep/nmod:pmod]() (1322; 2% instances), [ro-dep/iobj]() (879; 2% instances), [ro-dep/appos]() (719; 1% instances), [ro-dep/nmod:agent]() (705; 1% instances), [ro-dep/root]() (704; 1% instances), [ro-dep/nmod:tmod]() (507; 1% instances), [ro-dep/xcomp]() (435; 1% instances), [ro-dep/parataxis]() (364; 1% instances), [ro-dep/amod]() (228; 0% instances), [ro-dep/name]() (151; 0% instances), [ro-dep/advcl]() (87; 0% instances), [ro-dep/remnant]() (76; 0% instances), [ro-dep/acl]() (61; 0% instances), [ro-dep/case]() (58; 0% instances), [ro-dep/ccomp]() (58; 0% instances), [ro-dep/advmod]() (52; 0% instances), [ro-dep/vocative]() (49; 0% instances), [ro-dep/foreign]() (26; 0% instances), [ro-dep/goeswith]() (20; 0% instances), [ro-dep/csubj]() (19; 0% instances), [ro-dep/dep]() (15; 0% instances), [ro-dep/punct]() (14; 0% instances), [ro-dep/list]() (9; 0% instances), [ro-dep/nummod]() (8; 0% instances), [ro-dep/advmod:tmod]() (6; 0% instances), [ro-dep/cc]() (5; 0% instances), [ro-dep/ccomp:pmod]() (4; 0% instances), [ro-dep/mark]() (4; 0% instances), [ro-dep/csubjpass]() (3; 0% instances), [ro-dep/advcl:tcl]() (2; 0% instances), [ro-dep/compound]() (2; 0% instances), [ro-dep/cc:preconj]() (1; 0% instances), [ro-dep/discourse]() (1; 0% instances), [ro-dep/expl]() (1; 0% instances), [ro-dep/expl:pv]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 18 different parts of speech: [VERB]() (17239; 48% instances), [NOUN]() (13948; 39% instances), [ADJ]() (1914; 5% instances), [ADP]() (1145; 3% instances), [ROOT]() (381; 1% instances), [PROPN]() (336; 1% instances), [PRON]() (211; 1% instances), [ADV]() (173; 0% instances), [NUM]() (84; 0% instances), [AUX]() (57; 0% instances), [SYM]() (37; 0% instances), [DET]() (26; 0% instances), [CONJ]() (25; 0% instances), [INTJ]() (17; 0% instances), [SCONJ]() (11; 0% instances), [PART]() (6; 0% instances), [PUNCT]() (2; 0% instances), [X]() (1; 0% instances)
+Parents of `NOUN` nodes belong to 18 different parts of speech: [VERB]() (26738; 49% instances), [NOUN]() (21682; 40% instances), [ADP]() (1773; 3% instances), [ADJ]() (1758; 3% instances), [ROOT]() (704; 1% instances), [PROPN]() (521; 1% instances), [PRON]() (354; 1% instances), [ADV]() (298; 1% instances), [NUM]() (169; 0% instances), [AUX]() (103; 0% instances), [DET]() (41; 0% instances), [SYM]() (33; 0% instances), [SCONJ]() (13; 0% instances), [INTJ]() (10; 0% instances), [PUNCT]() (5; 0% instances), [CONJ]() (3; 0% instances), [PART]() (1; 0% instances), [X]() (1; 0% instances)
 
-6577 (18%) `NOUN` nodes are leaves.
+9928 (18%) `NOUN` nodes are leaves.
 
-11309 (32%) `NOUN` nodes have one child.
+17219 (32%) `NOUN` nodes have one child.
 
-9528 (27%) `NOUN` nodes have two children.
+14671 (27%) `NOUN` nodes have two children.
 
-8199 (23%) `NOUN` nodes have three or more children.
+12389 (23%) `NOUN` nodes have three or more children.
 
-The highest child degree of a `NOUN` node is 16.
+The highest child degree of a `NOUN` node is 28.
 
-Children of `NOUN` nodes are attached using 44 different relations: [ro-dep/case]() (14510; 24% instances), [ro-dep/nmod]() (12673; 21% instances), [ro-dep/amod]() (9481; 16% instances), [ro-dep/det]() (5766; 9% instances), [ro-dep/punct]() (5586; 9% instances), [ro-dep/acl]() (3021; 5% instances), [ro-dep/conj]() (2547; 4% instances), [ro-dep/cc]() (1886; 3% instances), [ro-dep/nummod]() (1604; 3% instances), [ro-dep/advmod]() (1021; 2% instances), [ro-dep/appos]() (585; 1% instances), [ro-dep/cop]() (430; 1% instances), [ro-dep/mwe]() (339; 1% instances), [ro-dep/name]() (273; 0% instances), [ro-dep/nsubj]() (254; 0% instances), [ro-dep/parataxis]() (174; 0% instances), [ro-dep/nmod:pmod]() (146; 0% instances), [ro-dep/mark]() (88; 0% instances), [ro-dep/advcl]() (66; 0% instances), [ro-dep/list]() (60; 0% instances), [ro-dep/remnant]() (55; 0% instances), [ro-dep/nmod:tmod]() (48; 0% instances), [ro-dep/aux]() (41; 0% instances), [ro-dep/neg]() (36; 0% instances), [ro-dep/csubj]() (31; 0% instances), [ro-dep/cc:preconj]() (22; 0% instances), [ro-dep/nmod:agent]() (15; 0% instances), [ro-dep/foreign]() (13; 0% instances), [ro-dep/dobj]() (12; 0% instances), [ro-dep/iobj]() (12; 0% instances), [ro-dep/dep]() (10; 0% instances), [ro-dep/goeswith]() (7; 0% instances), [ro-dep/auxpass]() (6; 0% instances), [ro-dep/ccomp]() (4; 0% instances), [ro-dep/compound]() (4; 0% instances), [ro-dep/nsubjpass]() (4; 0% instances), [ro-dep/xcomp]() (4; 0% instances), [ro-dep/advmod:tmod]() (3; 0% instances), [ro-dep/ccomp:pmod]() (2; 0% instances), [ro-dep/expl]() (2; 0% instances), [ro-dep/advcl:tcl]() (1; 0% instances), [ro-dep/discourse]() (1; 0% instances), [ro-dep/expl:poss]() (1; 0% instances), [ro-dep/expl:pv]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 43 different relations: [ro-dep/case]() (21989; 24% instances), [ro-dep/nmod]() (20004; 22% instances), [ro-dep/amod]() (13860; 15% instances), [ro-dep/det]() (9503; 10% instances), [ro-dep/punct]() (8198; 9% instances), [ro-dep/acl]() (4597; 5% instances), [ro-dep/conj]() (3768; 4% instances), [ro-dep/cc]() (2724; 3% instances), [ro-dep/nummod]() (2692; 3% instances), [ro-dep/advmod]() (1497; 2% instances), [ro-dep/appos]() (886; 1% instances), [ro-dep/cop]() (771; 1% instances), [ro-dep/nsubj]() (551; 1% instances), [ro-dep/mwe]() (474; 1% instances), [ro-dep/name]() (348; 0% instances), [ro-dep/parataxis]() (195; 0% instances), [ro-dep/mark]() (146; 0% instances), [ro-dep/nmod:pmod]() (143; 0% instances), [ro-dep/advcl]() (128; 0% instances), [ro-dep/remnant]() (78; 0% instances), [ro-dep/aux]() (68; 0% instances), [ro-dep/nmod:tmod]() (63; 0% instances), [ro-dep/csubj]() (49; 0% instances), [ro-dep/neg]() (49; 0% instances), [ro-dep/cc:preconj]() (38; 0% instances), [ro-dep/nmod:agent]() (29; 0% instances), [ro-dep/dep]() (24; 0% instances), [ro-dep/goeswith]() (24; 0% instances), [ro-dep/iobj]() (21; 0% instances), [ro-dep/dobj]() (20; 0% instances), [ro-dep/foreign]() (18; 0% instances), [ro-dep/auxpass]() (9; 0% instances), [ro-dep/list]() (9; 0% instances), [ro-dep/ccomp]() (7; 0% instances), [ro-dep/advmod:tmod]() (5; 0% instances), [ro-dep/expl:poss]() (5; 0% instances), [ro-dep/advcl:tcl]() (4; 0% instances), [ro-dep/ccomp:pmod]() (4; 0% instances), [ro-dep/expl]() (3; 0% instances), [ro-dep/nsubjpass]() (3; 0% instances), [ro-dep/vocative]() (3; 0% instances), [ro-dep/xcomp]() (3; 0% instances), [ro-dep/compound]() (2; 0% instances)
 
-Children of `NOUN` nodes belong to 17 different parts of speech: [ADP]() (14663; 24% instances), [NOUN]() (13948; 23% instances), [ADJ]() (8830; 15% instances), [DET]() (6509; 11% instances), [PUNCT]() (5297; 9% instances), [VERB]() (3454; 6% instances), [NUM]() (2278; 4% instances), [CONJ]() (1988; 3% instances), [PROPN]() (1691; 3% instances), [ADV]() (1161; 2% instances), [PRON]() (635; 1% instances), [SYM]() (119; 0% instances), [SCONJ]() (104; 0% instances), [PART]() (95; 0% instances), [AUX]() (64; 0% instances), [INTJ]() (8; 0% instances), [X]() (1; 0% instances)
+Children of `NOUN` nodes belong to 17 different parts of speech: [ADP]() (22043; 24% instances), [NOUN]() (21682; 23% instances), [ADJ]() (12652; 14% instances), [DET]() (10422; 11% instances), [PUNCT]() (7862; 8% instances), [VERB]() (5810; 6% instances), [NUM]() (3592; 4% instances), [CONJ]() (2896; 3% instances), [PROPN]() (2719; 3% instances), [ADV]() (1813; 2% instances), [PRON]() (870; 1% instances), [SYM]() (282; 0% instances), [SCONJ]() (163; 0% instances), [AUX]() (101; 0% instances), [PART]() (82; 0% instances), [X]() (21; 0% instances), [INTJ]() (2; 0% instances)
 

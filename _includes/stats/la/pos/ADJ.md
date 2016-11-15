@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: <em>magnus1, suus1, omnis1, meus1, tuus1, ali
 
 The 10 most frequent `ADJ` types:  <em>magna, omnes, omnia, sua, mea, omnis, suis, publicae, tua, suo</em>
 
-The 10 most frequent ambiguous lemmas: <em>magnus1</em> ([ADJ]() 188, [ADV]() 17), <em>omnis1</em> ([ADJ]() 169, [NOUN]() 14), <em>meus1</em> ([ADJ]() 143, [NOUN]() 1, [X]() 1), <em>tuus1</em> ([ADJ]() 107, [NOUN]() 1), <em>alius2</em> ([ADJ]() 102, [NOUN]() 4, [PRON]() 2), <em>noster1</em> ([ADJ]() 89, [PRON]() 1), <em>publicus1</em> ([ADJ]() 75, [ADV]() 4, [NOUN]() 1), <em>multus1</em> ([ADJ]() 72, [ADV]() 9, [NOUN]() 1), <em>unus1</em> ([ADJ]() 64, [ADV]() 3, [X]() 1), <em>bonus1</em> ([ADJ]() 60, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>magnus1</em> ([ADJ]() 188, [ADV]() 17), <em>omnis1</em> ([ADJ]() 169, [NOUN]() 14), <em>meus1</em> ([ADJ]() 143, [X]() 1, [NOUN]() 1), <em>tuus1</em> ([ADJ]() 107, [NOUN]() 1), <em>alius2</em> ([ADJ]() 102, [NOUN]() 4, [PRON]() 2), <em>noster1</em> ([ADJ]() 89, [PRON]() 1), <em>publicus1</em> ([ADJ]() 75, [ADV]() 4, [NOUN]() 1), <em>multus1</em> ([ADJ]() 72, [ADV]() 9, [NOUN]() 1), <em>unus1</em> ([ADJ]() 64, [ADV]() 3, [X]() 1), <em>bonus1</em> ([ADJ]() 60, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  <em>omnes</em> ([ADJ]() 42, [NOUN]() 11), <em>omnia</em> ([ADJ]() 35, [NOUN]() 26), <em>sua</em> ([ADJ]() 36, [PRON]() 5, [NOUN]() 1), <em>mea</em> ([ADJ]() 34, [PRON]() 6), <em>omnis</em> ([ADJ]() 31, [NOUN]() 5), <em>suis</em> ([ADJ]() 33, [PRON]() 7, [NOUN]() 1), <em>publicae</em> ([ADJ]() 29, [NOUN]() 1), <em>tua</em> ([ADJ]() 26, [PRON]() 4), <em>suo</em> ([ADJ]() 25, [PRON]() 5), <em>multa</em> ([ADJ]() 23, [NOUN]() 8)
 

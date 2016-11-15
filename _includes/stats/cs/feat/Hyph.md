@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [cs-pos/ADJ]() (398; 0% instance
 
 398 [cs-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (398; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (398; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (398; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (398; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (398; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (397; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (398; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (398; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (398; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (398; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (398; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (397; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 
@@ -42,7 +42,7 @@ The feature is used with 1 part-of-speech tags: [cs-pos/ADJ]() (132; 0% instance
 
 132 [cs-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (132; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (132; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (132; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (132; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (132; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (132; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (132; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (132; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (132; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (132; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (132; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (132; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 
@@ -73,7 +73,7 @@ The feature is used with 1 part-of-speech tags: [cs-pos/ADJ]() (11; 0% instances
 
 11 [cs-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (11; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (11; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (11; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (11; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (11; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (11; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (11; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (11; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (11; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (11; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (11; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (11; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 

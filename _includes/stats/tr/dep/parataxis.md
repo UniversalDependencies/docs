@@ -77,51 +77,50 @@ The following 4 pairs of parts of speech are connected with `parataxis`: [tr-pos
 
 
 ~~~ conllu
-# visual-style 38	bgColor:blue
-# visual-style 38	fgColor:white
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 31 38 parataxis	color:blue
-1	İnsanları	insan	NOUN	Noun	Case=Acc|Number=Plur|Person=3	3	dobj	_	_
-2	ikiye	iki	NUM	NNum	Case=Dat|Number=Sing|NumType=Card|Person=3	3	nummod	_	_
-3	ayırıyor	ayır	VERB	Verb	Aspect=Prog|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Register=Inf|Tense=Pres	15	conj	_	_
-4	annem	anne	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	3	nsubj	_	_
-5	(	(	PUNCT	Punc	_	3	punct	_	_
-6	sayacağı	say	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Negative=Pos|Number[psor]=Sing|Person[psor]=3|Tense=Fut|VerbForm=Part	10	nsubj	_	_
-7	iki	iki	NUM	ANum	NumType=Card	8	nummod	_	_
-8	kalem	kalem	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	nmod	_	_
-9	de	de	CONJ	Conj	_	8	advmod:emph	_	_
-10	olsa	ol	VERB	Verb	Aspect=Perf|Mood=Des|Negative=Pos|Number=Sing|Person=3|Tense=Pres	15	nmod	_	_
-11	mutlaka	mutlaka	ADV	Adverb	_	14	advmod	_	_
-12	parmaklarını	parmak	NOUN	Noun	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=2	14	dobj	_	_
-13	avucuna	avuç	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	14	nmod	_	_
-14	kapatarak	kapa	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Trans|Voice=Cau	15	advcl	_	_
-15	sayacak	say	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut	0	root	_	_
-16	;	;	PUNCT	Punc	_	15	punct	_	_
-17	birincisi	birinci	NUM	NNum	Case=Nom|Number=Sing|Number[psor]=Sing|NumType=Ord|Person=3|Person[psor]=3	18	amod	_	_
-18	yaşayan	yaşa	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Part	30	conj	_	_
-19	lar	_	ADP	Zero	Case=Nom|Number=Plur|Person=3	18	case	_	_
-20	(	(	PUNCT	Punc	_	18	punct	_	_
-21	bunlar	bu	PRON	Demons	Case=Nom|Number=Plur|Person=3|PronType=Dem	24	nsubj	_	_
-22	başkalarını	başka	ADJ	NAdj	Case=Acc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3	24	dobj	_	_
-23	da	da	CONJ	Conj	_	22	advmod:emph	_	_
-24	yaşatıyor	yaşa	VERB	Verb	Aspect=Prog|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Register=Inf|Tense=Pres|Voice=Cau	18	parataxis	_	_
-25	)	)	PUNCT	Punc	_	24	punct	_	_
-26	,	,	PUNCT	Punc	_	24	punct	_	_
-27	ikincisi	ikinci	NUM	NNum	Case=Nom|Number=Sing|Number[psor]=Sing|NumType=Ord|Person=3|Person[psor]=3	30	amod	_	_
-28	yaşayan	yaşa	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Part	30	dobj	_	_
-29	ları	_	ADP	Zero	Case=Acc|Number=Plur|Person=3	28	case	_	_
-30	seyreden	seyret	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Part	15	nsubj	_	_
-31	ler	_	ADP	Zero	Case=Nom|Number=Plur|Person=3	30	case	_	_
-32	(	(	PUNCT	Punc	_	30	punct	_	_
-33	bunlar	bu	PRON	Demons	Case=Nom|Number=Plur|Person=3|PronType=Dem	38	nsubj	_	_
-34	da	da	CONJ	Conj	_	33	advmod:emph	_	_
-35	başkalarının	başka	ADJ	NAdj	Case=Gen|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	36	nmod:poss	_	_
-36	sırtına	sırt	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	37	nmod	_	_
-37	yük	yük	NOUN	Noun	Case=Nom|Number=Sing|Person=3	38	compound:lvc	_	_
-38	oluyorlar	ol	VERB	Verb	Aspect=Prog|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Register=Inf|Tense=Pres	31	parataxis	_	_
-39	)	)	PUNCT	Punc	_	38	punct	_	_
-40	.	.	PUNCT	Punc	_	38	punct	_	_
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 30 parataxis	color:blue
+1	Bu	bu	DET	Det	_	2	det	_	_
+2	iş	iş	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+3	böyle	böyle	ADV	Adverb	_	4	advmod	_	_
+4	olmayacaktı	ol	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=FutPast	38	conj	_	_
+5	,	,	PUNCT	Punc	_	4	punct	_	_
+6	çünkü	çünkü	CONJ	Conj	_	38	cc	_	_
+7	çok	çok	ADV	Adverb	_	8	advmod	_	_
+8	sık	sık	ADJ	Adj	_	12	amod	_	_
+9	belimize	bel	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1	11	nmod	_	_
+10	dek	dek	ADP	PCDat	_	9	case	_	_
+11	suya	su	NOUN	Noun	Case=Dat|Number=Sing|Person=3	12	nmod	_	_
+12	giriyorduk	gir	VERB	Verb	Aspect=Prog|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Register=Inf|Tense=Past	38	conj	_	_
+13	ve	ve	CONJ	Conj	_	38	cc	_	_
+14	kayalara	kaya	NOUN	Noun	Case=Dat|Number=Plur|Person=3	15	nmod	_	_
+15	serpiştirilmiş	serpiş	VERB	Verb	Aspect=Perf|Evidentiality=Nfh|Mood=Ind|Negative=Pos|Tense=Past|VerbForm=Part|Voice=CauPass	20	acl	_	_
+16	gibi	gibi	ADP	PCNom	_	15	case	_	_
+17	birbirlerinden	birbiri	PRON	Quant	Case=Abl|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3|PronType=Ind	19	nmod	_	_
+18	belli	belli	ADJ	Adj	_	19	amod	_	_
+19	uzaklıklara	uzaklık	NOUN	Noun	Case=Dat|Number=Plur|Person=3	20	nmod	_	_
+20	dağılmış	dağıl	VERB	Verb	Aspect=Perf|Evidentiality=Nfh|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Past	21	nmod	_	_
+21	sevgililerin	sevgili	ADJ	NAdj	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=2	36	nmod:poss	_	_
+22	(	(	PUNCT	Punc	_	37	punct	_	_
+23	yaz	yaz	NOUN	Noun	Case=Nom|Number=Sing|Person=3	24	nmod:poss	_	_
+24	aşkları	aşk	NOUN	Noun	Case=Nom|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	30	conj	_	_
+25	bunlar	bu	PRON	Demons	Case=Nom|Number=Plur|Person=3|PronType=Dem	24	nsubj	_	_
+26	,	,	PUNCT	Punc	_	30	punct	_	_
+27	o	o	DET	Det	_	29	det	_	_
+28	kadar	kadar	ADP	PCDat	_	30	dobj	_	_
+29	ını	_	ADP	Zero	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	28	case	_	_
+30	çakıyoruz	çak	VERB	Verb	Aspect=Prog|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Register=Inf|Tense=Pres	21	parataxis	_	_
+31	)	)	PUNCT	Punc	_	30	punct	_	_
+32	,	,	PUNCT	Punc	_	30	punct	_	_
+33	bu	bu	DET	Det	_	34	det	_	_
+34	durumdan	durum	NOUN	Noun	Case=Abl|Number=Sing|Person=3	36	nmod	_	_
+35	rahatsız	rahatsız	ADJ	Adj	_	36	amod	_	_
+36	olacaklarını	olacak	ADJ	NAdj	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	37	dobj	_	_
+37	düşünmeye	düşün	VERB	Verb	Aspect=Perf|Case=Dat|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Ger	38	nmod	_	_
+38	başlamıştık	başla	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pqp	0	root	_	_
+39	.	.	PUNCT	Punc	_	38	punct	_	_
 
 ~~~
 

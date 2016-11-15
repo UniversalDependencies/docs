@@ -7,118 +7,78 @@
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-3547 tokens (4%) have a non-empty value of `Person`.
-1104 types (4%) occur at least once with a non-empty value of `Person`.
-1 lemmas (0) occur at least once with a non-empty value of `Person`.
-The feature is used with 9 part-of-speech tags: [ru-pos/VERB]() (2184; 2% instances), [ru-pos/PRON]() (1328; 1% instances), [ru-pos/ADJ]() (12; 0% instances), [ru-pos/X]() (9; 0% instances), [ru-pos/PROPN]() (6; 0% instances), [ru-pos/DET]() (5; 0% instances), [ru-pos/ADV]() (1; 0% instances), [ru-pos/NUM]() (1; 0% instances), [ru-pos/SYM]() (1; 0% instances).
+3495 tokens (4%) have a non-empty value of `Person`.
+1049 types (4%) occur at least once with a non-empty value of `Person`.
+744 lemmas (4%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: [ru-pos/VERB]() (2140; 2% instances), [ru-pos/PRON]() (909; 1% instances), [ru-pos/DET]() (410; 0% instances), [ru-pos/AUX]() (36; 0% instances).
 
 ### `VERB`
 
-2184 [ru-pos/VERB]() tokens (23% of all `VERB` tokens) have a non-empty value of `Person`.
+2140 [ru-pos/VERB]() tokens (24% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (2180; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2180; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2180; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2168; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2146; 98%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2057; 94%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2009; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (1582; 72%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2140; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (2140; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2139; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2139; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2139; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2139; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2105; 98%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2040; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2011; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (1559; 73%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (35; 2% of non-empty `Person`): <em>bin, видим, знаем, очистим, рассмотрим, Am, Don, Must, re, Благодарю</em>
-* `2` (34; 2% of non-empty `Person`): <em>см., Come, Join, Create, Hide, Libera, Raise, Ram, Shoot, Stay</em>
-* `3` (2115; 97% of non-empty `Person`): <em>является, составляет, может, находится, входит, имеет, будет, есть, занимает, могут</em>
-* `EMPTY` (7252): <em>был, было, были, была, стал, быть, получил, можно, родился, начал</em>
+* `1` (33; 2% of non-empty `Person`): <em>bin, видим, знаем, очистим, рассмотрим, Am, Must, Благодарю, Думаю, Наложим</em>
+* `2` (37; 2% of non-empty `Person`): <em>см., Come, Join, Create, Hide, Libera, Raise, Ram, Shoot, Stay</em>
+* `3` (2070; 97% of non-empty `Person`): <em>является, составляет, может, находится, входит, имеет, есть, занимает, могут, являются</em>
+* `EMPTY` (6640): <em>был, было, стал, были, получил, можно, родился, была, начал, работал</em>
+
+<table>
+  <tr><th>Paradigm <i>ХОТЕТЬ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>хочет</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>хотим</em></td><td><em>хотите</em></td><td></td></tr>
+</table>
+
+`Person` seems to be **lexical feature** of `VERB`. 97% lemmas (693) occur only with one value of `Person`.
 
 ### `PRON`
 
-1328 [ru-pos/PRON]() tokens (75% of all `PRON` tokens) have a non-empty value of `Person`.
+909 [ru-pos/PRON]() tokens (47% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1328; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (987; 74%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (909; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (683; 75%), <tt><a href="Case.html">Case</a>=Nom</tt> (481; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (116; 9% of non-empty `Person`): <em>я, мы, н., нам, наших, нас, наши, мне, меня, наше</em>
-* `2` (23; 2% of non-empty `Person`): <em>вы, вам, Ye, твоего, тебе, You, ti, Твой, вас, тебя</em>
-* `3` (1189; 90% of non-empty `Person`): <em>его, он, их, её, она, они, ему, им, них, него</em>
-* `EMPTY` (435): <em>что, своей, себя, собой, свою, свой, своего, своих, свои, своё</em>
+* `1` (71; 8% of non-empty `Person`): <em>я, мы, нам, нас, мне, меня, I, Ich, We, me</em>
+* `2` (20; 2% of non-empty `Person`): <em>вы, вам, Ye, тебе, You, ti, вас, тебя, тобою, ты</em>
+* `3` (818; 90% of non-empty `Person`): <em>он, она, они, его, ему, им, их, них, него, ним</em>
+* `EMPTY` (1006): <em>который, это, которые, того, что, которой, тем, которых, себя, которого</em>
 
-### `ADJ`
-
-12 [ru-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (9; 75%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (7; 58%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 58%).
-
-`ADJ` tokens may have the following values of `Person`:
-
-* `3` (12; 100% of non-empty `Person`): <em>factus, Министерства, ТБАП, бедного, бедный, богатого, богатый, других, мм, новое</em>
-* `EMPTY` (12516): <em>второй, й, 2008, 2010, х, 2004, других, первый, 2012, 1</em>
-
-### `X`
-
-9 [ru-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `Person`.
-
-`X` tokens may have the following values of `Person`:
-
-* `3` (9; 100% of non-empty `Person`): <em>T, f, x, ŠEŠ, FM</em>
-* `EMPTY` (1691): <em>же, и, за, лишь, только, даже, юго, ещё, северо, 2</em>
-
-### `PROPN`
-
-6 [ru-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (6; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 100%).
-
-`PROPN` tokens may have the following values of `Person`:
-
-* `3` (6; 100% of non-empty `Person`): <em>Бильге, Газанфер, Дональд, Любомирский, Мельцер, Себастьян</em>
-* `EMPTY` (7598): <em>России, США, СССР, декабря, января, сентября, марта, августа, июня, ноября</em>
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (19) occur only with one value of `Person`.
 
 ### `DET`
 
-5 [ru-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
+410 [ru-pos/DET]() tokens (26% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (4; 80%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (3; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 60%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (410; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (373; 91%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (359; 88%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (359; 88%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (359; 88%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `3` (5; 100% of non-empty `Person`): <em>это, все, те, того</em>
-* `EMPTY` (1668): <em>это, который, этого, того, том, которые, то, все, этом, тем</em>
+* `1` (47; 11% of non-empty `Person`): <em>н., наших, наши, наше, нашей, моей, мой, моя, нашего, mia</em>
+* `2` (4; 1% of non-empty `Person`): <em>твоего, Твой</em>
+* `3` (359; 88% of non-empty `Person`): <em>его, её, их, ее</em>
+* `EMPTY` (1188): <em>этого, все, своей, этот, the, всех, том, то, это, свою</em>
 
-### `SYM`
+### `AUX`
 
-1 [ru-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Person`.
+36 [ru-pos/AUX]() tokens (6% of all `AUX` tokens) have a non-empty value of `Person`.
 
-`SYM` tokens may have the following values of `Person`:
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (36; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (36; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (36; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (35; 97%), <tt><a href="Tense.html">Tense</a>=Fut</tt> (32; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (26; 72%).
 
-* `3` (1; 100% of non-empty `Person`): <em>cm</em>
-* `EMPTY` (157): <em>%, /, +, *, °, =, $, €, justjared.com</em>
+`AUX` tokens may have the following values of `Person`:
 
-### `ADV`
-
-1 [ru-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Person`.
-
-`ADV` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): <em>prius</em>
-* `EMPTY` (2141): <em>более, как, так, только, вместе, затем, впервые, позже, здесь, менее</em>
-
-### `NUM`
-
-1 [ru-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
-
-`NUM` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): <em>М25</em>
-* `EMPTY` (1899): <em>2, два, один, 1, двух, 10, 4, три, 3, 5</em>
+* `1` (2; 6% of non-empty `Person`): <em>Don, re</em>
+* `3` (34; 94% of non-empty `Person`): <em>будет, будут, Has, est</em>
+* `EMPTY` (584): <em>был, была, было, были, быть, будучи, Be, бывшего, бывшим</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (169; 75%),
-<tt>X --[<a href="../dep/nmod.html">nmod</a>]--> X</tt> (4; 67%),
-<tt>PROPN --[<a href="../dep/name.html">name</a>]--> PROPN</tt> (3; 100%),
-<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (2; 100%),
-<tt>VERB --[<a href="../dep/vocative.html">vocative</a>]--> PRON</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADV</tt> (1; 100%),
-<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (172; 76%),
+<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<a href="../dep/vocative.html">vocative</a>]--> PRON</tt> (2; 100%).
 
 
 
@@ -129,26 +89,26 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-39883 tokens (4%) have a non-empty value of `Person`.
-7775 types (7%) occur at least once with a non-empty value of `Person`.
-3061 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 2 part-of-speech tags: [ru-pos/VERB]() (37871; 4% instances), [ru-pos/AUX]() (2012; 0% instances).
+40910 tokens (4%) have a non-empty value of `Person`.
+7863 types (7%) occur at least once with a non-empty value of `Person`.
+3087 lemmas (7%) occur at least once with a non-empty value of `Person`.
+The feature is used with 2 part-of-speech tags: [ru-pos/VERB]() (38873; 4% instances), [ru-pos/AUX]() (2037; 0% instances).
 
 ### `VERB`
 
-37871 [ru-pos/VERB]() tokens (32% of all `VERB` tokens) have a non-empty value of `Person`.
+38873 [ru-pos/VERB]() tokens (32% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (37871; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (37871; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (37871; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (36893; 97%), <tt><a href="Voice.html">Voice</a>=Act</tt> (35840; 95%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (31968; 84%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (31425; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (24188; 64%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (38873; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (38873; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (38873; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (37884; 97%), <tt><a href="Voice.html">Voice</a>=Act</tt> (36759; 95%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (32865; 85%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (32316; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (24902; 64%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (3340; 9% of non-empty `Person`): <em>скажем, думаю, знаю, можем, могу, хочу, видим, помню, считаю, хотим</em>
-* `2` (2021; 5% of non-empty `Person`): <em>знаете, можете, см., давайте, хотите, видите, помните, представьте, давай, хочешь</em>
-* `3` (32510; 86% of non-empty `Person`): <em>может, есть, нет, могут, является, говорит, стоит, идет, имеет, говорят</em>
-* `EMPTY` (79421): <em>было, стал, сказал, быть, стало, стали, сделать, сказать, делать, мог</em>
+* `1` (3388; 9% of non-empty `Person`): <em>скажем, думаю, знаю, можем, могу, хочу, видим, помню, хотим, считаю</em>
+* `2` (2046; 5% of non-empty `Person`): <em>см., знаете, можете, давайте, хотите, видите, помните, представьте, давай, хочешь</em>
+* `3` (33439; 86% of non-empty `Person`): <em>может, есть, нет, могут, является, говорит, стоит, идет, имеет, говорят</em>
+* `EMPTY` (81597): <em>было, стал, быть, сказал, стало, стали, сделать, сказать, мог, делать</em>
 
 <table>
-  <tr><th>Paradigm <i>МОЧЬ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><th>Paradigm <i>мочь</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>могу</em></td><td><em>можешь</em></td><td><em>может</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>можем</em></td><td><em>можете</em></td><td><em>могут</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>смогу</em></td><td><em>сможешь</em></td><td><em>сможет</em></td></tr>
@@ -157,19 +117,19 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-2012 [ru-pos/AUX]() tokens (25% of all `AUX` tokens) have a non-empty value of `Person`.
+2037 [ru-pos/AUX]() tokens (25% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2012; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2012; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2012; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2012; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1986; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1986; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1306; 65%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2037; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2037; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2037; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2037; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2011; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2011; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1318; 65%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (151; 8% of non-empty `Person`): <em>будем, буду, есть</em>
+* `1` (151; 7% of non-empty `Person`): <em>будем, буду, есть</em>
 * `2` (61; 3% of non-empty `Person`): <em>будь, будете, будешь, будьте, есть</em>
-* `3` (1800; 89% of non-empty `Person`): <em>будет, будут, есть, суть</em>
-* `EMPTY` (5881): <em>было, был, были, была, быть, будучи, бывшие, бывшем, бывший</em>
+* `3` (1825; 90% of non-empty `Person`): <em>будет, будут, есть, суть</em>
+* `EMPTY` (5979): <em>было, был, были, была, быть, будучи, бывшие, бывший, бывшем</em>
 
 <table>
-  <tr><th>Paradigm <i>БЫТЬ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><th>Paradigm <i>быть</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>будь</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>будьте</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>буду, есть</em></td><td><em>будешь, есть</em></td><td><em>будет, есть</em></td></tr>
@@ -179,7 +139,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (3798; 70%),
-<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (14; 100%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (3895; 70%),
+<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (15; 100%),
 <tt>VERB --[<a href="../dep/name.html">name</a>]--> VERB</tt> (2; 100%).
 

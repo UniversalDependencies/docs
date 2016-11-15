@@ -4,16 +4,16 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 7105 `PROPN` lemmas (36%), 7122 `PROPN` types (25%) and 18462 `PROPN` tokens (8%).
+There are 7096 `PROPN` lemmas (36%), 7112 `PROPN` types (25%) and 18353 `PROPN` tokens (8%).
 Out of 17 observed tags, the rank of `PROPN` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>Paulo, São, Portugal, Brasil, José, porto, Governo, nacional, Lisboa, EUA</em>
+The 10 most frequent `PROPN` lemmas: <em>Paulo, São, Portugal, Brasil, José, porto, Governo, Lisboa, EUA, rio</em>
 
-The 10 most frequent `PROPN` types:  <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Nacional, Lisboa, EUA</em>
+The 10 most frequent `PROPN` types:  <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Lisboa, EUA, rio</em>
 
-The 10 most frequent ambiguous lemmas: <em>São</em> ([PROPN]() 140, [ADJ]() 1, [NOUN]() 1), <em>porto</em> ([NOUN]() 10, [PROPN]() 1), <em>nacional</em> ([ADJ]() 77, [PROPN]() 2, [NOUN]() 1), <em>Lisboa</em> ([PROPN]() 82, [NOUN]() 1), <em>rio</em> ([NOUN]() 17, [PROPN]() 1), <em>Pedro</em> ([PROPN]() 50, [NOUN]() 1), <em>Câmara</em> ([PROPN]() 47, [NOUN]() 16), <em>Manuel</em> ([PROPN]() 47, [NOUN]() 1), <em>the</em> ([PROPN]() 11, [NOUN]() 1), <em>ministério</em> ([NOUN]() 23, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>São</em> ([PROPN]() 140, [ADJ]() 1, [NOUN]() 1), <em>porto</em> ([NOUN]() 10, [PROPN]() 1), <em>Lisboa</em> ([PROPN]() 82, [NOUN]() 1), <em>rio</em> ([NOUN]() 17, [PROPN]() 1), <em>Pedro</em> ([PROPN]() 50, [NOUN]() 1), <em>Câmara</em> ([PROPN]() 47, [NOUN]() 16), <em>Manuel</em> ([PROPN]() 47, [NOUN]() 1), <em>the</em> ([PROPN]() 11, [NOUN]() 1), <em>ministério</em> ([NOUN]() 23, [PROPN]() 1), <em>Instituto</em> ([PROPN]() 38, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>São</em> ([PROPN]() 139, [VERB]() 30, [ADJ]() 1, [NOUN]() 1), <em>Porto</em> ([PROPN]() 89, [NOUN]() 1), <em>Governo</em> ([PROPN]() 85, [NOUN]() 6), <em>Nacional</em> ([PROPN]() 84, [NOUN]() 5), <em>Lisboa</em> ([PROPN]() 83, [NOUN]() 1), <em>rio</em> ([NOUN]() 12, [PROPN]() 1), <em>Estados</em> ([PROPN]() 69, [NOUN]() 13), <em>Folha</em> ([PROPN]() 58, [NOUN]() 13), <em>Pedro</em> ([PROPN]() 50, [NOUN]() 1), <em>Banco</em> ([PROPN]() 47, [NOUN]() 3)
+The 10 most frequent ambiguous types:  <em>São</em> ([PROPN]() 139, [VERB]() 30, [ADJ]() 1, [NOUN]() 1), <em>Porto</em> ([PROPN]() 89, [NOUN]() 1), <em>Governo</em> ([PROPN]() 85, [NOUN]() 6), <em>Lisboa</em> ([PROPN]() 83, [NOUN]() 1), <em>rio</em> ([NOUN]() 12, [PROPN]() 1), <em>Estados</em> ([PROPN]() 69, [NOUN]() 13), <em>Folha</em> ([PROPN]() 58, [NOUN]() 13), <em>Pedro</em> ([PROPN]() 50, [NOUN]() 1), <em>Banco</em> ([PROPN]() 47, [NOUN]() 3), <em>Câmara</em> ([PROPN]() 47, [NOUN]() 32)
 
 
 * <em>São</em>
@@ -23,19 +23,16 @@ The 10 most frequent ambiguous types:  <em>São</em> ([PROPN]() 139, [VERB]() 30
   * [NOUN]() 1: <em>Ele pintor , 26 anos , chamado Johnson , ela professora , 28 anos , Edel de seu nome , entraram em o carro de um taxista de apelido <b>São</b> Pedro , 40 anos .</em>
 * <em>Porto</em>
   * [PROPN]() 89: <em>Sporting - Vitória de Setúbal e Marítimo ou Ovarense - FC <b>Porto</b> .</em>
-  * [NOUN]() 1: <em>O líder de o PSD-Porto , Luís Filipe Menezes , desafiou ontem o presidente da Câmara do <b>Porto</b> a assumir o mandato de deputado durante a discussão de o Orçamento de Estado para 1998 para que prove o seu empenho em a defesa de a região , mas Fernando Gomes , em jeito de comentário , passou ao lado de o repto .</em>
+  * [NOUN]() 1: <em>O líder de o PSD-Porto , Luís Filipe Menezes , desafiou ontem o presidente de a Câmara de o <b>Porto</b> a assumir o mandato de deputado durante a discussão de o Orçamento de Estado para 1998 para que prove o seu empenho em a defesa de a região , mas Fernando Gomes , em jeito de comentário , passou a o lado de o repto .</em>
 * <em>Governo</em>
   * [PROPN]() 85: <em>ANC insiste em um <b>Governo</b> de transição</em>
   * [NOUN]() 6: <em>Em o <b>Governo</b> , apesar de a subida de o desemprego , continua a ser popular .</em>
-* <em>Nacional</em>
-  * [PROPN]() 84: <em>A as 17h00 , em o Museu <b>Nacional</b> de Arte Antiga , a as Janelas Verdes .</em>
-  * [NOUN]() 5: <em><b>Nacional</b> de golfe</em>
 * <em>Lisboa</em>
   * [PROPN]() 83: <em><b>Lisboa</b> , 18 de Fevereiro de 1992 .</em>
-  * [NOUN]() 1: <em>Optou por a pedagogia em os contactos que teve com os sinistrados e nem sequer esqueceu a sua experiência como autarca , recordando inúmeras vezes os tempos em que foi presidente da Câmara de <b>Lisboa</b> para explicar as suas teorias -- mais propriamente alguma « insatisfação natural » -- sobre realojamentos .</em>
+  * [NOUN]() 1: <em>Optou por a pedagogia em os contactos que teve com os sinistrados e nem sequer esqueceu a sua experiência como autarca , recordando inúmeras vezes os tempos em que foi presidente de a Câmara de <b>Lisboa</b> para explicar as suas teorias -- mais propriamente alguma « insatisfação natural » -- sobre realojamentos .</em>
 * <em>rio</em>
   * [NOUN]() 12: <em>Mulher morre em <b>rio</b> presa a o cinto de o carro</em>
-  * [PROPN]() 1: <em>São afirmações de o reitor de o Universidade do Porto , Alberto Amaral , em o editorial de o nº 25 de o Boletim de aquela Universidade , inteiramente dedicado a o tratamento de a « grave situação de o património histórico-cultural de o vale de o <b>rio</b> Côa » , como igualmente refere o autor .</em>
+  * [PROPN]() 1: <em>São afirmações de o reitor de o Universidade de o Porto , Alberto Amaral , em o editorial de o nº 25 de o Boletim de aquela Universidade , inteiramente dedicado a o tratamento de a « grave situação de o património histórico-cultural de o vale de o <b>rio</b> Côa » , como igualmente refere o autor .</em>
 * <em>Estados</em>
   * [PROPN]() 69: <em>Só depois surge Tonya Harding , campeã de os <b>Estados</b> Unidos .</em>
   * [NOUN]() 13: <em>Os <b>Estados</b> e municípios têm que destinar 25 % de esta receita .</em>
@@ -48,10 +45,13 @@ The 10 most frequent ambiguous types:  <em>São</em> ([PROPN]() 139, [VERB]() 30
 * <em>Banco</em>
   * [PROPN]() 47: <em>O <b>Banco</b> de Portugal não interveio em o mercado interbancário .</em>
   * [NOUN]() 3: <em><b>Banco</b> central regulariza o mercado</em>
+* <em>Câmara</em>
+  * [PROPN]() 47: <em>PE em as listas de o PS para a <b>Câmara</b> de Coimbra</em>
+  * [NOUN]() 32: <em>Nenhuma audiência de os moradores foi pedida a a <b>Câmara</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.002393 (the average of all parts of speech is 1.447797).
+The form / lemma ratio of `PROPN` is 1.002255 (the average of all parts of speech is 1.432674).
 
 The 1st highest number of forms (3) was observed with the lemma “Geral”: <em>Gerais, Geral, Greal</em>.
 
@@ -59,34 +59,132 @@ The 2nd highest number of forms (2) was observed with the lemma “Ana”: <em>A
 
 The 3rd highest number of forms (2) was observed with the lemma “André”: <em>Andr, André</em>.
 
-`PROPN` occurs with 4 features: [pt-feat/Number]() (6487; 35% instances), [pt-feat/Gender]() (6103; 33% instances), [pt-feat/Hyph]() (7; 0% instances), [pt-feat/NumType]() (1; 0% instances)
+`PROPN` occurs with 4 features: [pt-feat/Number]() (6480; 35% instances), [pt-feat/Gender]() (6096; 33% instances), [pt-feat/Hyph]() (7; 0% instances), [pt-feat/NumType]() (1; 0% instances)
 
 `PROPN` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 11 feature combinations.
-The most frequent feature combination is `_` (11975 tokens).
-Examples: <em>Paulo, São, José, Nacional, João, Carlos, Estados, Unidos, Fernando, Silva</em>
+The most frequent feature combination is `_` (11873 tokens).
+Examples: <em>Paulo, São, José, João, Carlos, Estados, Unidos, Fernando, Silva, Porto</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 22 different relations: [pt-dep/name]() (6891; 37% instances), [pt-dep/nmod]() (6098; 33% instances), [pt-dep/nsubj]() (2320; 13% instances), [pt-dep/conj]() (1378; 7% instances), [pt-dep/dobj]() (831; 5% instances), [pt-dep/appos]() (353; 2% instances), [pt-dep/root]() (336; 2% instances), [pt-dep/iobj]() (107; 1% instances), [pt-dep/nsubjpass]() (76; 0% instances), [pt-dep/acl]() (16; 0% instances), [pt-dep/xcomp]() (16; 0% instances), [pt-dep/dep]() (12; 0% instances), [pt-dep/advmod]() (9; 0% instances), [pt-dep/advcl]() (6; 0% instances), [pt-dep/parataxis]() (4; 0% instances), [pt-dep/case]() (2; 0% instances), [pt-dep/cop]() (2; 0% instances), [pt-dep/aux]() (1; 0% instances), [pt-dep/cc]() (1; 0% instances), [pt-dep/ccomp]() (1; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/mark]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 22 different relations: [pt-dep/name]() (6800; 37% instances), [pt-dep/nmod]() (6089; 33% instances), [pt-dep/nsubj]() (2318; 13% instances), [pt-dep/conj]() (1375; 7% instances), [pt-dep/dobj]() (828; 5% instances), [pt-dep/appos]() (352; 2% instances), [pt-dep/root]() (336; 2% instances), [pt-dep/iobj]() (107; 1% instances), [pt-dep/nsubjpass]() (76; 0% instances), [pt-dep/acl]() (16; 0% instances), [pt-dep/xcomp]() (16; 0% instances), [pt-dep/dep]() (12; 0% instances), [pt-dep/advmod]() (9; 0% instances), [pt-dep/advcl]() (6; 0% instances), [pt-dep/parataxis]() (4; 0% instances), [pt-dep/case]() (2; 0% instances), [pt-dep/cop]() (2; 0% instances), [pt-dep/aux]() (1; 0% instances), [pt-dep/cc]() (1; 0% instances), [pt-dep/ccomp]() (1; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/mark]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (8610; 47% instances), [NOUN]() (4677; 25% instances), [VERB]() (4170; 23% instances), [ROOT]() (336; 2% instances), [ADJ]() (263; 1% instances), [ADV]() (109; 1% instances), [NUM]() (88; 0% instances), [DET]() (83; 0% instances), [PRON]() (71; 0% instances), [ADP]() (23; 0% instances), [SYM]() (10; 0% instances), [CONJ]() (9; 0% instances), [AUX]() (7; 0% instances), [SCONJ]() (4; 0% instances), [INTJ]() (2; 0% instances)
+Parents of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (8480; 46% instances), [NOUN]() (4672; 25% instances), [VERB]() (4167; 23% instances), [ROOT]() (336; 2% instances), [ADJ]() (299; 2% instances), [ADV]() (109; 1% instances), [DET]() (88; 0% instances), [NUM]() (88; 0% instances), [PRON]() (71; 0% instances), [ADP]() (18; 0% instances), [SYM]() (10; 0% instances), [X]() (7; 0% instances), [SCONJ]() (4; 0% instances), [CONJ]() (2; 0% instances), [INTJ]() (2; 0% instances)
 
-7046 (38%) `PROPN` nodes are leaves.
+6958 (38%) `PROPN` nodes are leaves.
 
-4553 (25%) `PROPN` nodes have one child.
+3940 (21%) `PROPN` nodes have one child.
 
-3023 (16%) `PROPN` nodes have two children.
+3575 (19%) `PROPN` nodes have two children.
 
-3840 (21%) `PROPN` nodes have three or more children.
+3880 (21%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 40.
 
-Children of `PROPN` nodes are attached using 22 different relations: [pt-dep/case]() (7070; 25% instances), [pt-dep/name]() (6815; 24% instances), [pt-dep/det]() (4909; 18% instances), [pt-dep/punct]() (4241; 15% instances), [pt-dep/conj]() (1392; 5% instances), [pt-dep/nmod]() (1295; 5% instances), [pt-dep/cc]() (815; 3% instances), [pt-dep/acl]() (476; 2% instances), [pt-dep/nummod]() (222; 1% instances), [pt-dep/amod]() (203; 1% instances), [pt-dep/cop]() (97; 0% instances), [pt-dep/advmod]() (87; 0% instances), [pt-dep/parataxis]() (75; 0% instances), [pt-dep/appos]() (61; 0% instances), [pt-dep/nsubj]() (60; 0% instances), [pt-dep/mark]() (23; 0% instances), [pt-dep/dep]() (16; 0% instances), [pt-dep/advcl]() (12; 0% instances), [pt-dep/advmod:emph]() (12; 0% instances), [pt-dep/dobj]() (7; 0% instances), [pt-dep/neg]() (5; 0% instances), [pt-dep/csubj]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 22 different relations: [pt-dep/case]() (7064; 25% instances), [pt-dep/name]() (6705; 24% instances), [pt-dep/det]() (5600; 20% instances), [pt-dep/punct]() (4222; 15% instances), [pt-dep/conj]() (1386; 5% instances), [pt-dep/nmod]() (1293; 5% instances), [pt-dep/cc]() (810; 3% instances), [pt-dep/acl]() (471; 2% instances), [pt-dep/amod]() (278; 1% instances), [pt-dep/nummod]() (222; 1% instances), [pt-dep/cop]() (96; 0% instances), [pt-dep/advmod]() (85; 0% instances), [pt-dep/parataxis]() (75; 0% instances), [pt-dep/appos]() (61; 0% instances), [pt-dep/nsubj]() (60; 0% instances), [pt-dep/mark]() (21; 0% instances), [pt-dep/dep]() (16; 0% instances), [pt-dep/advcl]() (12; 0% instances), [pt-dep/advmod:emph]() (12; 0% instances), [pt-dep/dobj]() (7; 0% instances), [pt-dep/neg]() (5; 0% instances), [pt-dep/csubj]() (1; 0% instances)
 
-Children of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (8610; 31% instances), [ADP]() (7033; 25% instances), [DET]() (4917; 18% instances), [PUNCT]() (4241; 15% instances), [NOUN]() (985; 4% instances), [CONJ]() (819; 3% instances), [VERB]() (615; 2% instances), [ADJ]() (252; 1% instances), [NUM]() (236; 1% instances), [ADV]() (131; 0% instances), [PRON]() (27; 0% instances), [SCONJ]() (13; 0% instances), [SYM]() (12; 0% instances), [PART]() (2; 0% instances), [INTJ]() (1; 0% instances)
+Children of `PROPN` nodes belong to 16 different parts of speech: [PROPN]() (8480; 30% instances), [ADP]() (7023; 25% instances), [DET]() (5608; 20% instances), [PUNCT]() (4222; 15% instances), [NOUN]() (981; 3% instances), [CONJ]() (807; 3% instances), [VERB]() (611; 2% instances), [ADJ]() (346; 1% instances), [NUM]() (236; 1% instances), [ADV]() (131; 0% instances), [PRON]() (27; 0% instances), [SCONJ]() (13; 0% instances), [SYM]() (12; 0% instances), [PART]() (2; 0% instances), [X]() (2; 0% instances), [INTJ]() (1; 0% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+There are 7244 `PROPN` lemmas (36%), 7248 `PROPN` types (25%) and 19061 `PROPN` tokens (8%).
+Out of 17 observed tags, the rank of `PROPN` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
+
+The 10 most frequent `PROPN` lemmas: <em>Paulo, São, Portugal, e, Brasil, José, Porto, Governo, Nacional, Lisboa</em>
+
+The 10 most frequent `PROPN` types:  <em>Paulo, São, Portugal, e, Brasil, José, Porto, Governo, Nacional, Lisboa</em>
+
+The 10 most frequent ambiguous lemmas: <em>São</em> ([PROPN]() 141, [NOUN]() 1), <em>e</em> ([CONJ]() 4160, [PROPN]() 116, [ADP]() 4, [NOUN]() 1, [SCONJ]() 1), <em>Porto</em> ([PROPN]() 89, [NOUN]() 1), <em>Nacional</em> ([PROPN]() 84, [ADJ]() 4), <em>Lisboa</em> ([PROPN]() 83, [NOUN]() 1), <em>rio</em> ([NOUN]() 17, [PROPN]() 1), <em>a</em> ([ADP]() 4090, [PRON]() 30, [PROPN]() 27, [DET]() 14, [NOUN]() 4, [ADV]() 2), <em>Pedro</em> ([PROPN]() 50, [ADJ]() 1), <em>o</em> ([DET]() 27984, [PRON]() 325, [PROPN]() 21, [NOUN]() 4, [ADP]() 3), <em>Câmara</em> ([PROPN]() 47, [NOUN]() 16)
+
+The 10 most frequent ambiguous types:  <em>São</em> ([PROPN]() 141, [VERB]() 27, [AUX]() 3, [NOUN]() 1), <em>e</em> ([CONJ]() 3993, [PROPN]() 116, [ADP]() 5, [NOUN]() 1, [SCONJ]() 1), <em>Porto</em> ([PROPN]() 89, [NOUN]() 1), <em>Governo</em> ([PROPN]() 85, [NOUN]() 6), <em>Nacional</em> ([PROPN]() 84, [ADJ]() 4, [NOUN]() 1), <em>Lisboa</em> ([PROPN]() 83, [NOUN]() 1), <em>rio</em> ([NOUN]() 12, [PROPN]() 1), <em>Estados</em> ([PROPN]() 69, [NOUN]() 13), <em>Folha</em> ([PROPN]() 58, [NOUN]() 13), <em>a</em> ([DET]() 9579, [ADP]() 4007, [PRON]() 89, [PROPN]() 27, [NOUN]() 4, [ADV]() 2)
+
+
+* <em>São</em>
+  * [PROPN]() 141: <em>Prevê que isso aconteça em dez dias , quando seu pai voltar a <b>São</b> Paulo .</em>
+  * [VERB]() 27: <em><b>São</b> várias as dúvidas suscitadas a a DGCP por o processo de a taxa .</em>
+  * [AUX]() 3: <em><b>São</b> esperados cerca de 60 mil visitantes .</em>
+  * [NOUN]() 1: <em>Ele pintor , 26 anos , chamado Johnson , ela professora , 28 anos , Edel de seu nome , entraram em o carro de um taxista de apelido <b>São</b> Pedro , 40 anos .</em>
+* <em>e</em>
+  * [CONJ]() 3993: <em>É um continente <b>e</b> é um país de Terceiro Mundo .</em>
+  * [PROPN]() 116: <em>O 7 <b>e</b> Meio é um ex-libris de a noite algarvia .</em>
+  * [ADP]() 5: <em>Mais tarde , os povos que aderiram <b>e</b> esta « derivação » serão duramente reprimidos .</em>
+  * [NOUN]() 1: <em>as professoras de Têxteis só ensinam Têxteis , os professores de Electrotecnia só dão a « sua » matéria <b>e</b> por aí adiante .</em>
+  * [SCONJ]() 1: <em>A fechar o programa , a corrida de o Grupo N foi totalmente dominada por Ni Amorim ( Opel Astra GSi ) que cortou a meta com 4,936'' de avanço sobre Mário Silva <b>e</b> 6,247'' sobre António Rodrigues ( ambos em Peugeot 309 GTi</em>
+* <em>Porto</em>
+  * [PROPN]() 89: <em>Manifestação anti-hiper em o <b>Porto</b></em>
+  * [NOUN]() 1: <em>O líder de o PSD-Porto , Luís Filipe Menezes , desafiou ontem o presidente de a Câmara de o <b>Porto</b> a assumir o mandato de deputado durante a discussão de o Orçamento de Estado para 1998 para que prove o seu empenho em a defesa de a região , mas Fernando Gomes , em jeito de comentário , passou a o lado de o repto .</em>
+* <em>Governo</em>
+  * [PROPN]() 85: <em><b>Governo</b> estuda crédito para prejuízos de o mau tempo</em>
+  * [NOUN]() 6: <em>Em o <b>Governo</b> , apesar de a subida de o desemprego , continua a ser popular .</em>
+* <em>Nacional</em>
+  * [PROPN]() 84: <em>A as 17h00 , em o Museu <b>Nacional</b> de Arte Antiga , a as Janelas Verdes .</em>
+  * [ADJ]() 4: <em>A socióloga e cientista política falou sobre o tema em a última conferência de o encontro de a Associação <b>Nacional</b> de Pós-graduação em Ciência Sociai ( Anpocs ) .</em>
+  * [NOUN]() 1: <em><b>Nacional</b> de golfe</em>
+* <em>Lisboa</em>
+  * [PROPN]() 83: <em>Fórum sobre África em <b>Lisboa</b></em>
+  * [NOUN]() 1: <em>Optou por a pedagogia em os contactos que teve com os sinistrados e nem sequer esqueceu a sua experiência como autarca , recordando inúmeras vezes os tempos em que foi presidente de a Câmara de <b>Lisboa</b> para explicar as suas teorias -- mais propriamente alguma « insatisfação natural » -- sobre realojamentos .</em>
+* <em>rio</em>
+  * [NOUN]() 12: <em>Mulher morre em <b>rio</b> presa a o cinto de o carro</em>
+  * [PROPN]() 1: <em>São afirmações de o reitor de o Universidade de o Porto , Alberto Amaral , em o editorial de o nº 25 de o Boletim de aquela Universidade , inteiramente dedicado a o tratamento de a « grave situação de o património histórico-cultural de o vale de o <b>rio</b> Côa » , como igualmente refere o autor .</em>
+* <em>Estados</em>
+  * [PROPN]() 69: <em>P -- Há uma nova moral em os <b>Estados</b> Unidos ?</em>
+  * [NOUN]() 13: <em>Metade de os <b>Estados</b> é inviável , diz socióloga</em>
+* <em>Folha</em>
+  * [PROPN]() 58: <em>Alberto Helena Jr. , 52 , é colunista de a <b>Folha</b> .</em>
+  * [NOUN]() 13: <em>Morre ex-fotógrafo de a <b>Folha</b></em>
+* <em>a</em>
+  * [DET]() 9579: <em>Depois rasgou- lhe <b>a</b> roupa e tentou consumar <b>a</b> violação .</em>
+  * [ADP]() 4007: <em>Prevê que isso aconteça em dez dias , quando seu pai voltar <b>a</b> São Paulo .</em>
+  * [PRON]() 89: <em>Acabou a « America's Cup » de 1992 , viva <b>a</b> de 1995 .</em>
+  * [PROPN]() 27: <em>Balança Rolha , Sacode <b>a</b> Rosquinha e Peru Esperto</em>
+  * [NOUN]() 4: <em>Cada um o fez <b>a</b> seu modo .</em>
+  * [ADV]() 2: <em>não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo o processo nada tem <b>a</b> ver com Ciência , a o contrário de o que as máquinas de propaganda pretendem fazer crer .</em>
+
+## Morphology
+
+The form / lemma ratio of `PROPN` is 1.000552 (the average of all parts of speech is 1.449059).
+
+The 1st highest number of forms (2) was observed with the lemma “Ana”: <em>Ana, Anas</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “Der”: <em>DER, Der</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “E.G.”: <em>E.G., E.G..</em>.
+
+`PROPN` occurs with 2 features: [pt-feat/Number]() (19061; 100% instances), [pt-feat/Gender]() (11709; 61% instances)
+
+`PROPN` occurs with 5 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Gender=Unsp`, `Number=Plur`, `Number=Sing`
+
+`PROPN` occurs with 7 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing` (7378 tokens).
+Examples: <em>São, Portugal, Brasil, José, Governo, rio, João, PÚBLICO, Fernando, Banco</em>
+
+
+## Relations
+
+`PROPN` nodes are attached to their parents using 19 different relations: [pt-dep/nmod]() (7232; 38% instances), [pt-dep/name]() (5774; 30% instances), [pt-dep/nsubj]() (2511; 13% instances), [pt-dep/appos]() (1903; 10% instances), [pt-dep/conj]() (623; 3% instances), [pt-dep/dobj]() (393; 2% instances), [pt-dep/root]() (335; 2% instances), [pt-dep/nmod:npmod]() (95; 0% instances), [pt-dep/dep]() (69; 0% instances), [pt-dep/parataxis]() (46; 0% instances), [pt-dep/xcomp]() (44; 0% instances), [pt-dep/acl:relcl]() (9; 0% instances), [pt-dep/advmod]() (7; 0% instances), [pt-dep/remnant]() (7; 0% instances), [pt-dep/advcl]() (5; 0% instances), [pt-dep/vocative]() (3; 0% instances), [pt-dep/compound]() (2; 0% instances), [pt-dep/csubj]() (2; 0% instances), [pt-dep/ccomp]() (1; 0% instances)
+
+Parents of `PROPN` nodes belong to 12 different parts of speech: [PROPN]() (9275; 49% instances), [NOUN]() (4833; 25% instances), [VERB]() (4129; 22% instances), [ROOT]() (335; 2% instances), [ADJ]() (232; 1% instances), [ADV]() (107; 1% instances), [PRON]() (68; 0% instances), [NUM]() (47; 0% instances), [DET]() (22; 0% instances), [SYM]() (7; 0% instances), [ADP]() (4; 0% instances), [INTJ]() (2; 0% instances)
+
+7308 (38%) `PROPN` nodes are leaves.
+
+3392 (18%) `PROPN` nodes have one child.
+
+4165 (22%) `PROPN` nodes have two children.
+
+4196 (22%) `PROPN` nodes have three or more children.
+
+The highest child degree of a `PROPN` node is 40.
+
+Children of `PROPN` nodes are attached using 30 different relations: [pt-dep/case]() (7148; 25% instances), [pt-dep/name]() (5756; 20% instances), [pt-dep/det]() (5489; 19% instances), [pt-dep/punct]() (3733; 13% instances), [pt-dep/nmod]() (2489; 9% instances), [pt-dep/appos]() (1151; 4% instances), [pt-dep/cc]() (710; 2% instances), [pt-dep/conj]() (647; 2% instances), [pt-dep/acl:relcl]() (334; 1% instances), [pt-dep/nsubj]() (214; 1% instances), [pt-dep/amod]() (211; 1% instances), [pt-dep/acl]() (137; 0% instances), [pt-dep/parataxis]() (109; 0% instances), [pt-dep/nmod:npmod]() (91; 0% instances), [pt-dep/cop]() (89; 0% instances), [pt-dep/advmod]() (86; 0% instances), [pt-dep/nummod]() (44; 0% instances), [pt-dep/dobj]() (32; 0% instances), [pt-dep/dep]() (19; 0% instances), [pt-dep/xcomp]() (17; 0% instances), [pt-dep/mark]() (15; 0% instances), [pt-dep/advcl]() (8; 0% instances), [pt-dep/mwe]() (7; 0% instances), [pt-dep/neg]() (7; 0% instances), [pt-dep/remnant]() (4; 0% instances), [pt-dep/aux]() (2; 0% instances), [pt-dep/csubj]() (2; 0% instances), [pt-dep/nmod:tmod]() (2; 0% instances), [pt-dep/ccomp]() (1; 0% instances), [pt-dep/compound]() (1; 0% instances)
+
+Children of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (9275; 32% instances), [ADP]() (7153; 25% instances), [DET]() (5499; 19% instances), [PUNCT]() (3733; 13% instances), [NOUN]() (1011; 4% instances), [CONJ]() (706; 2% instances), [VERB]() (624; 2% instances), [ADJ]() (237; 1% instances), [NUM]() (156; 1% instances), [ADV]() (105; 0% instances), [PRON]() (35; 0% instances), [SCONJ]() (12; 0% instances), [SYM]() (6; 0% instances), [AUX]() (2; 0% instances), [INTJ]() (1; 0% instances)
 
 
 

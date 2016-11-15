@@ -7,12 +7,12 @@
 This relation is universal.
 There are 2 language-specific subtypes of `det`: [det:poss](), [det:predet]().
 
-41588 nodes (15%) are attached to their parents as `det`.
+45276 nodes (15%) are attached to their parents as `det`.
 
-41574 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1489852842166.
+45262 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14433695556145.
 
-The following 11 pairs of parts of speech are connected with `det`: [it-pos/NOUN]()-[it-pos/DET]() (36550; 88% instances), [it-pos/PROPN]()-[it-pos/DET]() (3013; 7% instances), [it-pos/NUM]()-[it-pos/DET]() (836; 2% instances), [it-pos/PRON]()-[it-pos/DET]() (671; 2% instances), [it-pos/ADJ]()-[it-pos/DET]() (179; 0% instances), [it-pos/VERB]()-[it-pos/DET]() (153; 0% instances), [it-pos/SYM]()-[it-pos/DET]() (83; 0% instances), [it-pos/ADV]()-[it-pos/DET]() (57; 0% instances), [it-pos/ADP]()-[it-pos/DET]() (29; 0% instances), [it-pos/X]()-[it-pos/DET]() (11; 0% instances), [it-pos/PUNCT]()-[it-pos/DET]() (6; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: [it-pos/NOUN]()-[it-pos/DET]() (39792; 88% instances), [it-pos/PROPN]()-[it-pos/DET]() (3196; 7% instances), [it-pos/NUM]()-[it-pos/DET]() (1060; 2% instances), [it-pos/PRON]()-[it-pos/DET]() (679; 1% instances), [it-pos/ADJ]()-[it-pos/DET]() (189; 0% instances), [it-pos/VERB]()-[it-pos/DET]() (157; 0% instances), [it-pos/SYM]()-[it-pos/DET]() (83; 0% instances), [it-pos/ADV]()-[it-pos/DET]() (72; 0% instances), [it-pos/ADP]()-[it-pos/DET]() (29; 0% instances), [it-pos/X]()-[it-pos/DET]() (13; 0% instances), [it-pos/PUNCT]()-[it-pos/DET]() (6; 0% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 11 pairs of parts of speech are connected with `det`: [it-pos/NOUN
 10	di	di	ADP	E	_	11	case	_	_
 11	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	nmod	_	_
 12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
-13	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+13	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 11 pairs of parts of speech are connected with `det`: [it-pos/NOUN
 3	partirono	partire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	da	da	ADP	E	_	6	case	_	_
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	Quirinale	Quirinale	PROPN	SP	_	3	nmod	_	_
+6	Quirinale	Quirinale	PROPN	SP	_	3	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 11 pairs of parts of speech are connected with `det`: [it-pos/NOUN
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Festival	Festival	PROPN	SP	_	4	dobj	_	_
 7	di	di	ADP	E	_	8	case	_	_
-8	Taormina	Taormina	PROPN	SP	_	6	nmod	_	_
+8	Taormina	Taormina	PROPN	SP	_	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~

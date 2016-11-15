@@ -62,45 +62,30 @@ The following 12 pairs of parts of speech are connected with `name`: [nl-pos/PRO
 
 
 ~~~ conllu
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 26 name	color:blue
-1	De	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	2	det	_	_
-2	titelrol	rol	NOUN	N|soort|ev|neut	Number=Sing	3	nsubj	_	_
-3	werd	word	AUX	V|hulpofkopp|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|VerbType=Aux,Cop	0	root	_	_
-4	vertolkt	vertolk	AUX	V|trans|verldw|onverv	Subcat=Tran|Tense=Past|VerbForm=Part	3	aux	_	_
-5	door	door	ADP	Prep|voor	AdpType=Prep	7	case	_	_
-6	onze	onze	PRON	Pron|bez|1|mv|neut|attr	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	nmod	_	_
-7	landgenote	landgenote	NOUN	N|soort|ev|neut	Number=Sing	4	nmod	_	_
-8	Cora	Cora	PROPN	N_N_N	_	7	appos	_	MWE=Cora_Canna_Meyer|MWEPOS=X
-9	Canna	Canna	PROPN	PROPN	_	8	name	_	_
-10	Meyer	Meyer	PROPN	PROPN	_	8	name	_	_
-11	,	,	PUNCT	Punc|komma	PunctType=Comm	7	punct	_	_
-12	over	over	ADP	Prep|voor	AdpType=Prep	13	mark	_	_
-13	wie	wie	PRON	Pron|betr|neut|zelfst	PronType=Rel	7	nmod	_	_
-14	Claude	Claude	PROPN	N_N|eigen|ev|neut_eigen|ev|neut	_	13	nsubj	_	MWE=Claude_Rostand|MWEPOS=X
-15	Rostand	Rostand	PROPN	PROPN	_	14	name	_	_
-16	onder	onder	ADP	Prep|voor	AdpType=Prep	18	case	_	_
-17	de	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	18	det	_	_
-18	kop	kop	NOUN	N|soort|ev|neut	Number=Sing	14	nmod	_	_
-19	"	"	PUNCT	Punc|aanhaaldubb	PunctType=Quot	18	punct	_	_
-20	La	La	DET	N_N_N_N_N_N_N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	MWE=La_grande_voix_de_Cora_Canne_Meyer|MWEPOS=X
-21	grande	grande	ADJ	ADJ	Number=Sing	18	appos	_	_
-22	voix	voix	PROPN	PROPN	_	21	name	_	_
-23	de	de	ADP	ADP	AdpType=Prep	24	case	_	_
-24	Cora	Cora	PROPN	PROPN	_	21	name	_	_
-25	Canne	Canne	PROPN	PROPN	_	21	name	_	_
-26	Meyer	Meyer	PROPN	PROPN	_	21	name	_	_
-27	"	"	PUNCT	Punc|aanhaaldubb	PunctType=Quot	14	punct	_	_
-28	in	in	ADP	Prep|voor	AdpType=Prep	30	case	_	_
-29	de	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	30	det	_	_
-30	Figaro	Figaro	PROPN	N_N|eigen|ev|neut_eigen|ev|neut	_	14	advmod	_	MWE=Figaro_Litteraire|MWEPOS=X
-31	Litteraire	Litteraire	PROPN	PROPN	_	30	name	_	_
-32	o.m.	onder_meer	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	14	advmod	_	_
-33	schrijft	schrijf	VERB	V|trans|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	14	case	_	_
-34	:	:	PUNCT	Punc|dubbpunt	PunctType=Colo	3	punct	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 18 name	color:blue
+1	Het	het	PRON	Pron|onbep|neut|zelfst	PronType=Ind	2	nsubj	_	_
+2	leidde	leid	VERB	V|intrans|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin	0	root	_	_
+3	tot	tot	ADP	Prep|voor	AdpType=Prep	5	case	_	_
+4	een	een	DET	Art|onbep|zijdofonzijd|neut	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
+5	ontsnapping	ontsnapping	NOUN	N|soort|ev|neut	Number=Sing	2	nmod	_	_
+6	van	van	ADP	Prep|voor	AdpType=Prep	8	case	_	_
+7	veertien	veertien	NUM	Num|hoofd|bep|attr|onverv	Definite=Def|NumType=Card	8	nummod	_	_
+8	man	man	NOUN	N|soort|ev|neut	Number=Sing	5	nmod	_	_
+9	,	,	PUNCT	Punc|komma	PunctType=Comm	5	punct	_	_
+10	met	met	ADP	Prep|voor	AdpType=Prep	12	case	_	_
+11	vier	vier	NUM	Num|hoofd|bep|attr|onverv	Definite=Def|NumType=Card	12	nummod	_	_
+12	Rabo's	Rabo's	NOUN	N|soort|mv|neut	Number=Plur	5	nmod	_	_
+13	,	,	PUNCT	Punc|komma	PunctType=Comm	5	punct	_	_
+14	onder	onder	ADP	Prep|voor	AdpType=Prep	15	mark	_	_
+15	wie	wie	PRON	Pron|vrag|neut|attr	PronType=Int	8	nmod	_	_
+16	ook	ook	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	15	advmod	_	_
+17	Michael	Michael	PROPN	N_N|eigen|ev|neut_eigen|ev|neut	_	16	case	_	MWE=Michael_Boogerd|MWEPOS=X
+18	Boogerd	Boogerd	PROPN	PROPN	_	16	name	_	_
+19	.	.	PUNCT	Punc|punt	PunctType=Peri	2	punct	_	_
 
 ~~~
 

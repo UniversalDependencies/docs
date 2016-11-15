@@ -23,7 +23,6 @@ The following 6 pairs of parts of speech are connected with `nsubjpass`: [no-pos
 1	Fangene	fange	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	2	nsubjpass	_	_
 2	slippes	slippe	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	fri	fri	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	2	xcomp	_	_
-4	|	$|	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -45,7 +44,7 @@ The following 6 pairs of parts of speech are connected with `nsubjpass`: [no-pos
 9	dere	dere	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|Person=2|PronType=Prs	8	dobj	_	_
 10	som	som	PRON	_	PronType=Rel	11	nsubj	_	_
 11	jobber	jobbe	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
-12	her	her	ADV	_	_	11	advmod	_	_
+12	her	her	ADV	_	_	11	advmod	_	SpaceAfter=No
 13	?	$?	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -64,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `nsubjpass`: [no-pos
 5	i	i	ADP	_	_	6	case	_	_
 6	Drammen	Drammen	PROPN	_	_	4	nmod	_	_
 7	i	i	ADP	_	_	8	case	_	_
-8	1926	1926	NUM	_	Number=Plur|NumType=Card	4	nmod	_	_
+8	1926	1926	NUM	_	Number=Plur|NumType=Card	4	nmod	_	SpaceAfter=No
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~

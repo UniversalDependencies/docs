@@ -11,7 +11,7 @@ The 10 most frequent `SCONJ` lemmas: <em>que, cuando, si, para, aunque, porque, 
 
 The 10 most frequent `SCONJ` types:  <em>que, cuando, si, para, aunque, porque, como, mientras, pues, según</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> ([SCONJ]() 6355, [PRON]() 895, [CONJ]() 701, [DET]() 10, [X]() 6, [PROPN]() 3, [ADV]() 2, [PART]() 1), <em>cuando</em> ([SCONJ]() 353, [ADV]() 41, [PROPN]() 1, [CONJ]() 1), <em>si</em> ([SCONJ]() 317, [CONJ]() 33, [ADV]() 18, [X]() 5, [PROPN]() 2), <em>para</em> ([ADP]() 2150, [SCONJ]() 307, [CONJ]() 12, [X]() 2, [ADV]() 2, [PROPN]() 1, [VERB]() 1), <em>aunque</em> ([SCONJ]() 268, [CONJ]() 22), <em>porque</em> ([SCONJ]() 156, [CONJ]() 4, [X]() 2, [PROPN]() 1), <em>como</em> ([ADP]() 1651, [CONJ]() 227, [SCONJ]() 126, [ADV]() 60, [VERB]() 2, [PROPN]() 1), <em>mientras</em> ([SCONJ]() 107, [ADV]() 59, [CONJ]() 52, [ADP]() 1), <em>pues</em> ([SCONJ]() 50, [CONJ]() 29, [ADV]() 4), <em>según</em> ([ADP]() 337, [SCONJ]() 28)
+The 10 most frequent ambiguous lemmas: <em>que</em> ([SCONJ]() 6355, [PRON]() 895, [CONJ]() 701, [DET]() 10, [X]() 6, [PROPN]() 3, [ADV]() 2, [PART]() 1), <em>cuando</em> ([SCONJ]() 353, [ADV]() 41, [PROPN]() 1, [CONJ]() 1), <em>si</em> ([SCONJ]() 317, [CONJ]() 33, [ADV]() 18, [X]() 5, [PROPN]() 2), <em>para</em> ([ADP]() 2150, [SCONJ]() 307, [CONJ]() 12, [X]() 2, [ADV]() 2, [VERB]() 1, [PROPN]() 1), <em>aunque</em> ([SCONJ]() 268, [CONJ]() 22), <em>porque</em> ([SCONJ]() 156, [CONJ]() 4, [X]() 2, [PROPN]() 1), <em>como</em> ([ADP]() 1651, [CONJ]() 227, [SCONJ]() 126, [ADV]() 60, [VERB]() 2, [PROPN]() 1), <em>mientras</em> ([SCONJ]() 107, [ADV]() 59, [CONJ]() 52, [ADP]() 1), <em>pues</em> ([SCONJ]() 50, [CONJ]() 29, [ADV]() 4), <em>según</em> ([ADP]() 337, [SCONJ]() 28)
 
 The 10 most frequent ambiguous types:  <em>que</em> ([SCONJ]() 6343, [PRON]() 895, [CONJ]() 701, [DET]() 9, [X]() 6, [PROPN]() 2, [ADV]() 2, [PART]() 1), <em>cuando</em> ([SCONJ]() 281, [ADV]() 38, [CONJ]() 1), <em>si</em> ([SCONJ]() 250, [CONJ]() 21, [ADV]() 18, [X]() 3, [PROPN]() 1), <em>para</em> ([ADP]() 2039, [SCONJ]() 303, [CONJ]() 12, [X]() 2, [VERB]() 1), <em>aunque</em> ([SCONJ]() 205, [CONJ]() 19), <em>porque</em> ([SCONJ]() 151, [CONJ]() 3, [X]() 2), <em>como</em> ([ADP]() 1570, [CONJ]() 224, [SCONJ]() 106, [ADV]() 58, [VERB]() 2), <em>mientras</em> ([SCONJ]() 81, [ADV]() 44, [CONJ]() 43), <em>pues</em> ([SCONJ]() 50, [CONJ]() 22, [ADV]() 3), <em>según</em> ([ADP]() 113, [SCONJ]() 21)
 
@@ -112,9 +112,9 @@ The 10 most frequent `SCONJ` lemmas: <em>que, como, si, porque, cuando, aunque, 
 
 The 10 most frequent `SCONJ` types:  <em>que, como, si, porque, cuando, aunque, según, mientras, pues, donde</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 8471, [SCONJ]() 7843, [NOUN]() 3, [CONJ]() 2, [AUX]() 2), <em>como</em> ([SCONJ]() 1892, [ADP]() 60, [PRON]() 14, [CONJ]() 5), <em>si</em> ([SCONJ]() 744, [ADV]() 1), <em>cuando</em> ([SCONJ]() 541, [PRON]() 92, [ADV]() 15), <em>según</em> ([ADP]() 475, [SCONJ]() 155, [NOUN]() 1, [PROPN]() 1), <em>mientras</em> ([CONJ]() 185, [SCONJ]() 131, [ADV]() 18), <em>pues</em> ([SCONJ]() 124, [NOUN]() 10, [ADV]() 1), <em>donde</em> ([PRON]() 413, [SCONJ]() 7, [ADV]() 1), <em>tener</em> ([VERB]() 1720, [AUX]() 35, [SCONJ]() 4, [ADP]() 1, [NOUN]() 1), <em>aun</em> ([ADV]() 16, [NOUN]() 5, [SCONJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 8471, [SCONJ]() 7843, [NOUN]() 3, [CONJ]() 2, [AUX]() 2), <em>como</em> ([SCONJ]() 1892, [ADP]() 60, [PRON]() 14, [CONJ]() 5), <em>si</em> ([SCONJ]() 744, [ADV]() 1), <em>cuando</em> ([SCONJ]() 541, [PRON]() 92, [ADV]() 15), <em>según</em> ([ADP]() 475, [SCONJ]() 155, [PROPN]() 1, [NOUN]() 1), <em>mientras</em> ([CONJ]() 185, [SCONJ]() 131, [ADV]() 18), <em>pues</em> ([SCONJ]() 124, [NOUN]() 10, [ADV]() 1), <em>donde</em> ([PRON]() 413, [SCONJ]() 7, [ADV]() 1), <em>tener</em> ([VERB]() 1720, [AUX]() 35, [SCONJ]() 4, [ADP]() 1, [NOUN]() 1), <em>aun</em> ([ADV]() 16, [NOUN]() 5, [SCONJ]() 2)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 8465, [SCONJ]() 7810, [AUX]() 7, [CONJ]() 2), <em>como</em> ([SCONJ]() 1812, [ADP]() 57, [PRON]() 14, [CONJ]() 5), <em>cuando</em> ([SCONJ]() 442, [PRON]() 92, [ADV]() 15), <em>según</em> ([ADP]() 290, [SCONJ]() 124, [NOUN]() 1, [PROPN]() 1), <em>mientras</em> ([CONJ]() 167, [SCONJ]() 90, [ADV]() 7), <em>pues</em> ([SCONJ]() 106, [NOUN]() 4, [ADV]() 1), <em>donde</em> ([PRON]() 411, [SCONJ]() 6, [ADV]() 1), <em>aun</em> ([ADV]() 13, [NOUN]() 3, [SCONJ]() 2), <em>Apenas</em> ([ADV]() 1, [SCONJ]() 1), <em>Cuanto</em> ([NOUN]() 1, [SCONJ]() 1, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 8465, [SCONJ]() 7810, [AUX]() 7, [CONJ]() 2), <em>como</em> ([SCONJ]() 1812, [ADP]() 57, [PRON]() 14, [CONJ]() 5), <em>cuando</em> ([SCONJ]() 442, [PRON]() 92, [ADV]() 15), <em>según</em> ([ADP]() 290, [SCONJ]() 124, [PROPN]() 1, [NOUN]() 1), <em>mientras</em> ([CONJ]() 167, [SCONJ]() 90, [ADV]() 7), <em>pues</em> ([SCONJ]() 106, [NOUN]() 4, [ADV]() 1), <em>donde</em> ([PRON]() 411, [SCONJ]() 6, [ADV]() 1), <em>aun</em> ([ADV]() 13, [NOUN]() 3, [SCONJ]() 2), <em>Apenas</em> ([SCONJ]() 1, [ADV]() 1), <em>Cuanto</em> ([ADV]() 1, [NOUN]() 1, [SCONJ]() 1)
 
 
 * <em>que</em>
@@ -134,8 +134,8 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 8465, [SCONJ]() 78
 * <em>según</em>
   * [ADP]() 290: <em>Otro engaño de el cuerpo , <b>según</b> ellos .</em>
   * [SCONJ]() 124: <em>- - Bueno , <b>según</b> se mire .</em>
-  * [NOUN]() 1: <em>La velocidad , a su vez , puede acelerar o retrasar adicionalmente los relojes , <b>según</b> que el viaje se desarrolle hacia el Oeste o hacia el Este .</em>
   * [PROPN]() 1: <em>Algún día publicaré La política humana <b>según</b> un terrorista cultural .</em>
+  * [NOUN]() 1: <em>La velocidad , a su vez , puede acelerar o retrasar adicionalmente los relojes , <b>según</b> que el viaje se desarrolle hacia el Oeste o hacia el Este .</em>
 * <em>mientras</em>
   * [CONJ]() 167: <em>Y <b>mientras</b> tanto , - qué ocurría en nuestro país ?</em>
   * [SCONJ]() 90: <em>Tuve un sueño <b>mientras</b> el avión volaba ...</em>
@@ -153,12 +153,12 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 8465, [SCONJ]() 78
   * [NOUN]() 3: <em>Más <b>aun</b> , para algunos es fuente de marginación , en la medida en que la sociedad clasifica a las personas según lo que hacen .</em>
   * [SCONJ]() 2: <em>En todo caso , se considera prácticamente imposible que , <b>aun</b> procediendo de ETA la extorsión , la banda esté en condiciones de materializar sus amenazas : - Ni nos consta ni tenemos indicios de que ETA haya logrado reconstruir un aparato de cobro como los desarticulados en enero de el 92 y en agosto de el año pasado - .</em>
 * <em>Apenas</em>
-  * [ADV]() 1: <em><b>Apenas</b> conversamos telefónicamente para una radio - días atrás - y jamás hablamos sobre la posibilidad de integrar la selección " , añadió el colombiano en Todogol.com .</em>
   * [SCONJ]() 1: <em><b>Apenas</b> despertó aquella mañana , la lengua seca , y firme contra el paladar , se asustó de el sabor nauseabundo de su propio aliento .</em>
+  * [ADV]() 1: <em><b>Apenas</b> conversamos telefónicamente para una radio - días atrás - y jamás hablamos sobre la posibilidad de integrar la selección " , añadió el colombiano en Todogol.com .</em>
 * <em>Cuanto</em>
+  * [ADV]() 1: <em><b>Cuanto</b> más próximas se encuentren las moléculas en el apilamiento , mayor será el solapamiento de los orbitales entre ellos y , en consecuencia , mayor será la deslocalización de la carga .</em>
   * [NOUN]() 1: <em><b>Cuanto</b> menos atención se presta a el texto , más se acentúan en el personaje exento los rasgos menos inocentes de un prototipo sobrecargado .</em>
   * [SCONJ]() 1: <em><b>Cuanto</b> más frío y más seco sea el aire , más rápidamente se formarán los copos .</em>
-  * [ADV]() 1: <em><b>Cuanto</b> más próximas se encuentren las moléculas en el apilamiento , mayor será el solapamiento de los orbitales entre ellos y , en consecuencia , mayor será la deslocalización de la carga .</em>
 
 ## Morphology
 

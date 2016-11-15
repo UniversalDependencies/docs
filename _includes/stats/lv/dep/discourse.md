@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-278 nodes (1%) are attached to their parents as `discourse`.
+242 nodes (1%) are attached to their parents as `discourse`.
 
-260 instances of `discourse` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.0431654676259.
+226 instances of `discourse` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.47933884297521.
 
-The following 20 pairs of parts of speech are connected with `discourse`: [lv-pos/VERB]()-[lv-pos/PART]() (84; 30% instances), [lv-pos/NOUN]()-[lv-pos/PART]() (70; 25% instances), [lv-pos/VERB]()-[lv-pos/CONJ]() (30; 11% instances), [lv-pos/PRON]()-[lv-pos/PART]() (22; 8% instances), [lv-pos/ADV]()-[lv-pos/PART]() (18; 6% instances), [lv-pos/PROPN]()-[lv-pos/PART]() (16; 6% instances), [lv-pos/ADJ]()-[lv-pos/PART]() (11; 4% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (8; 3% instances), [lv-pos/DET]()-[lv-pos/PART]() (3; 1% instances), [lv-pos/SYM]()-[lv-pos/PART]() (3; 1% instances), [lv-pos/ADV]()-[lv-pos/CONJ]() (2; 1% instances), [lv-pos/NOUN]()-[lv-pos/CONJ]() (2; 1% instances), [lv-pos/NUM]()-[lv-pos/PART]() (2; 1% instances), [lv-pos/ADJ]()-[lv-pos/CONJ]() (1; 0% instances), [lv-pos/ADP]()-[lv-pos/PART]() (1; 0% instances), [lv-pos/CONJ]()-[lv-pos/CONJ]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/SCONJ]() (1; 0% instances), [lv-pos/NUM]()-[lv-pos/CONJ]() (1; 0% instances), [lv-pos/PRON]()-[lv-pos/CONJ]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/INTJ]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `discourse`: [lv-pos/VERB]()-[lv-pos/PART]() (85; 35% instances), [lv-pos/NOUN]()-[lv-pos/PART]() (74; 31% instances), [lv-pos/PRON]()-[lv-pos/PART]() (24; 10% instances), [lv-pos/ADV]()-[lv-pos/PART]() (18; 7% instances), [lv-pos/PROPN]()-[lv-pos/PART]() (16; 7% instances), [lv-pos/ADJ]()-[lv-pos/PART]() (11; 5% instances), [lv-pos/DET]()-[lv-pos/PART]() (3; 1% instances), [lv-pos/SYM]()-[lv-pos/PART]() (3; 1% instances), [lv-pos/NOUN]()-[lv-pos/SCONJ]() (2; 1% instances), [lv-pos/NUM]()-[lv-pos/PART]() (2; 1% instances), [lv-pos/VERB]()-[lv-pos/INTJ]() (2; 1% instances), [lv-pos/ADP]()-[lv-pos/PART]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,18 +50,18 @@ The following 20 pairs of parts of speech are connected with `discourse`: [lv-po
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 1 discourse	color:blue
-1	Tomēr	tomēr	CONJ	ccs	_	5	discourse	_	_
-2	pavisam	pavisam	ADV	r0q	_	5	advmod	_	_
-3	šis	šis	DET	pd0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-4	projekts	projekts	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	5	nsubjpass	_	_
-5	aizmirsts	aizmirst	VERB	vmnpdmsnpsn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-6	nav	nebūt	VERB	vcnipii30ay	Mood=Ind|Negative=Pos|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	SpaceAfter=No
-7	.	.	PUNCT	zs	_	5	punct	_	_
+# visual-style 5 6 discourse	color:blue
+1	Ja	ja	SCONJ	css	_	3	mark	_	_
+2	atkritumu	atkritumi	NOUN	ncmdg1	Case=Gen|Gender=Masc|Number=Ptan	3	nmod	_	_
+3	pārstrāde	pārstrāde	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	5	advcl	_	_
+4	-	-	PUNCT	zd	_	3	punct	_	_
+5	kāda	kāda	PRON	pq0fsnn	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	0	root	_	_
+6	tieši	tieši	PART	qs	_	5	discourse	_	SpaceAfter=No
+7	?	?	PUNCT	zs	_	5	punct	_	_
 
 ~~~
 

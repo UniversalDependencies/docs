@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-16622 nodes (7%) are attached to their parents as `root`.
+16300 nodes (7%) are attached to their parents as `root`.
 
-16622 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.48477920827819.
+16300 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.52680981595092.
 
-The following 15 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (9352; 56% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (2792; 17% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (1681; 10% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (1420; 9% instances), [en-pos/ROOT]()-[en-pos/NUM]() (423; 3% instances), [en-pos/ROOT]()-[en-pos/ADV]() (250; 2% instances), [en-pos/ROOT]()-[en-pos/X]() (238; 1% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (128; 1% instances), [en-pos/ROOT]()-[en-pos/SYM]() (106; 1% instances), [en-pos/ROOT]()-[en-pos/PRON]() (94; 1% instances), [en-pos/ROOT]()-[en-pos/PUNCT]() (86; 1% instances), [en-pos/ROOT]()-[en-pos/DET]() (28; 0% instances), [en-pos/ROOT]()-[en-pos/AUX]() (16; 0% instances), [en-pos/ROOT]()-[en-pos/PART]() (6; 0% instances), [en-pos/ROOT]()-[en-pos/CONJ]() (2; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (9285; 57% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (2745; 17% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (1669; 10% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (1406; 9% instances), [en-pos/ROOT]()-[en-pos/NUM]() (272; 2% instances), [en-pos/ROOT]()-[en-pos/ADV]() (249; 2% instances), [en-pos/ROOT]()-[en-pos/X]() (238; 1% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (127; 1% instances), [en-pos/ROOT]()-[en-pos/PRON]() (119; 1% instances), [en-pos/ROOT]()-[en-pos/PUNCT]() (86; 1% instances), [en-pos/ROOT]()-[en-pos/SYM]() (54; 0% instances), [en-pos/ROOT]()-[en-pos/DET]() (26; 0% instances), [en-pos/ROOT]()-[en-pos/AUX]() (16; 0% instances), [en-pos/ROOT]()-[en-pos/PART]() (6; 0% instances), [en-pos/ROOT]()-[en-pos/CONJ]() (2; 0% instances).
 
 
 ~~~ conllu
@@ -72,7 +72,7 @@ This relation is universal.
 5124 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.34445745511319.
 
-The following 13 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (3733; 73% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (732; 14% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (513; 10% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (51; 1% instances), [en-pos/ROOT]()-[en-pos/ADV]() (31; 1% instances), [en-pos/ROOT]()-[en-pos/NUM]() (31; 1% instances), [en-pos/ROOT]()-[en-pos/DET]() (11; 0% instances), [en-pos/ROOT]()-[en-pos/PRON]() (9; 0% instances), [en-pos/ROOT]()-[en-pos/AUX]() (6; 0% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (3; 0% instances), [en-pos/ROOT]()-[en-pos/SYM]() (2; 0% instances), [en-pos/ROOT]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/X]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (3733; 73% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (732; 14% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (510; 10% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (51; 1% instances), [en-pos/ROOT]()-[en-pos/ADV]() (31; 1% instances), [en-pos/ROOT]()-[en-pos/NUM]() (31; 1% instances), [en-pos/ROOT]()-[en-pos/PRON]() (15; 0% instances), [en-pos/ROOT]()-[en-pos/DET]() (8; 0% instances), [en-pos/ROOT]()-[en-pos/AUX]() (6; 0% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (3; 0% instances), [en-pos/ROOT]()-[en-pos/SYM]() (2; 0% instances), [en-pos/ROOT]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -95,7 +95,7 @@ The following 13 pairs of parts of speech are connected with `root`: [en-pos/ROO
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~

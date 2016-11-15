@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-21608 nodes (14%) are attached to their parents as `case`.
+21612 nodes (14%) are attached to their parents as `case`.
 
-21602 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4637634209552.
+21606 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46358504534518.
 
-The following 9 pairs of parts of speech are connected with `case`: [bg-pos/NOUN]()-[bg-pos/ADP]() (17421; 81% instances), [bg-pos/PROPN]()-[bg-pos/ADP]() (2557; 12% instances), [bg-pos/PRON]()-[bg-pos/ADP]() (946; 4% instances), [bg-pos/ADJ]()-[bg-pos/ADP]() (268; 1% instances), [bg-pos/NUM]()-[bg-pos/ADP]() (171; 1% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (125; 1% instances), [bg-pos/DET]()-[bg-pos/ADP]() (93; 0% instances), [bg-pos/ADV]()-[bg-pos/ADP]() (21; 0% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (6; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: [bg-pos/NOUN]()-[bg-pos/ADP]() (17421; 81% instances), [bg-pos/PROPN]()-[bg-pos/ADP]() (2557; 12% instances), [bg-pos/PRON]()-[bg-pos/ADP]() (948; 4% instances), [bg-pos/ADJ]()-[bg-pos/ADP]() (266; 1% instances), [bg-pos/NUM]()-[bg-pos/ADP]() (170; 1% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (124; 1% instances), [bg-pos/DET]()-[bg-pos/ADP]() (93; 0% instances), [bg-pos/ADV]()-[bg-pos/ADP]() (27; 0% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (6; 0% instances).
 
 
 ~~~ conllu

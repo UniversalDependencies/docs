@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-732 nodes (0%) are attached to their parents as `expl`.
+728 nodes (0%) are attached to their parents as `expl`.
 
-659 instances of `expl` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.51366120218579.
+656 instances of `expl` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.51373626373626.
 
-The following 7 pairs of parts of speech are connected with `expl`: [en-pos/VERB]()-[en-pos/PRON]() (550; 75% instances), [en-pos/ADJ]()-[en-pos/PRON]() (134; 18% instances), [en-pos/NOUN]()-[en-pos/PRON]() (35; 5% instances), [en-pos/VERB]()-[en-pos/ADV]() (6; 1% instances), [en-pos/PROPN]()-[en-pos/PRON]() (4; 1% instances), [en-pos/AUX]()-[en-pos/PRON]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `expl`: [en-pos/VERB]()-[en-pos/PRON]() (547; 75% instances), [en-pos/ADJ]()-[en-pos/PRON]() (133; 18% instances), [en-pos/NOUN]()-[en-pos/PRON]() (33; 5% instances), [en-pos/VERB]()-[en-pos/ADV]() (6; 1% instances), [en-pos/PROPN]()-[en-pos/PRON]() (4; 1% instances), [en-pos/AUX]()-[en-pos/PRON]() (2; 0% instances), [en-pos/PRON]()-[en-pos/PRON]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -113,7 +113,7 @@ The following 7 pairs of parts of speech are connected with `expl`: [en-pos/VERB
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -128,24 +128,24 @@ The following 7 pairs of parts of speech are connected with `expl`: [en-pos/VERB
 1	_	_	CONJ	CC	_	3	cc	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	NOUN	NN	_	0	root	_	_
-4	_	_	DET	DT	_	3	dobj	_	_
+4	_	_	PRON	DT	_	3	dobj	_	_
 5	_	_	PUNCT	,	_	3	punct	_	_
 6	_	_	SCONJ	IN	_	9	mark	_	_
 7	_	_	PRON	PRP	_	9	expl	_	_
 8	_	_	VERB	VBZ	_	9	cop	_	_
 9	_	_	ADJ	JJR	_	3	advcl	_	_
-10	_	_	NOUN	NN	_	11	dobj	_	_
+10	_	_	PRON	NN	_	11	dobj	_	_
 11	_	_	VERB	VBG	_	9	csubj	_	_
 12	_	_	SCONJ	IN	_	13	mark	_	_
 13	_	_	VERB	VBG	_	9	advcl	_	_
 14	_	_	NOUN	NNS	_	13	dobj	_	_
 15	_	_	ADP	IN	_	16	case	_	_
-16	_	_	NOUN	NN	_	13	nmod	_	_
-17	_	_	DET	WDT	_	18	nsubj	_	_
+16	_	_	PRON	NN	_	13	nmod	_	_
+17	_	_	PRON	WDT	_	18	nsubj	_	_
 18	_	_	VERB	VB	_	16	acl:relcl	_	_
 19	_	_	PRON	PRP	_	18	dobj	_	_
 20	_	_	VERB	VB	_	18	xcomp	_	_
-21	_	_	NOUN	NN	_	20	dobj	_	_
+21	_	_	PRON	NN	_	20	dobj	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
 ~~~

@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>hele</em> ([ADJ]() 222, [NOUN]() 1), 
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.394714 (the average of all parts of speech is 1.382722).
+The form / lemma ratio of `ADJ` is 1.394714 (the average of all parts of speech is 1.382778).
 
 The 1st highest number of forms (9) was observed with the lemma “liten”: <em>lille, lite, liten, mindre, minst, minste, små, smått, vesle</em>.
 
@@ -74,17 +74,17 @@ Examples: <em>mye, helt, godt, litt, langt, samtidig, veldig, mulig, svært, lit
 
 Parents of `ADJ` nodes belong to 14 different parts of speech: [NOUN]() (14482; 54% instances), [VERB]() (5847; 22% instances), [ADJ]() (3152; 12% instances), [ROOT]() (2071; 8% instances), [PROPN]() (527; 2% instances), [ADV]() (214; 1% instances), [PRON]() (189; 1% instances), [NUM]() (108; 0% instances), [ADP]() (90; 0% instances), [DET]() (90; 0% instances), [SCONJ]() (34; 0% instances), [INTJ]() (3; 0% instances), [CONJ]() (1; 0% instances), [X]() (1; 0% instances)
 
-18114 (68%) `ADJ` nodes are leaves.
+18125 (68%) `ADJ` nodes are leaves.
 
-3541 (13%) `ADJ` nodes have one child.
+3558 (13%) `ADJ` nodes have one child.
 
-1440 (5%) `ADJ` nodes have two children.
+1431 (5%) `ADJ` nodes have two children.
 
-3714 (14%) `ADJ` nodes have three or more children.
+3695 (14%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 17.
 
-Children of `ADJ` nodes are attached using 29 different relations: [no-dep/advmod]() (3981; 16% instances), [no-dep/punct]() (3849; 15% instances), [no-dep/cop]() (3251; 13% instances), [no-dep/nsubj]() (2465; 10% instances), [no-dep/nmod]() (2422; 10% instances), [no-dep/cc]() (1472; 6% instances), [no-dep/conj]() (1443; 6% instances), [no-dep/mark]() (872; 4% instances), [no-dep/advcl]() (837; 3% instances), [no-dep/det]() (785; 3% instances), [no-dep/case]() (770; 3% instances), [no-dep/expl]() (613; 2% instances), [no-dep/csubj]() (555; 2% instances), [no-dep/neg]() (412; 2% instances), [no-dep/aux]() (361; 1% instances), [no-dep/parataxis]() (201; 1% instances), [no-dep/acl:relcl]() (140; 1% instances), [no-dep/amod]() (92; 0% instances), [no-dep/dobj]() (86; 0% instances), [no-dep/nummod]() (66; 0% instances), [no-dep/acl]() (53; 0% instances), [no-dep/appos]() (38; 0% instances), [no-dep/remnant]() (29; 0% instances), [no-dep/discourse]() (22; 0% instances), [no-dep/xcomp]() (13; 0% instances), [no-dep/ccomp]() (7; 0% instances), [no-dep/compound]() (6; 0% instances), [no-dep/name]() (5; 0% instances), [no-dep/goeswith]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 29 different relations: [no-dep/advmod]() (3981; 16% instances), [no-dep/punct]() (3766; 15% instances), [no-dep/cop]() (3251; 13% instances), [no-dep/nsubj]() (2465; 10% instances), [no-dep/nmod]() (2422; 10% instances), [no-dep/cc]() (1472; 6% instances), [no-dep/conj]() (1443; 6% instances), [no-dep/mark]() (872; 4% instances), [no-dep/advcl]() (837; 3% instances), [no-dep/det]() (785; 3% instances), [no-dep/case]() (770; 3% instances), [no-dep/expl]() (613; 2% instances), [no-dep/csubj]() (555; 2% instances), [no-dep/neg]() (412; 2% instances), [no-dep/aux]() (361; 1% instances), [no-dep/parataxis]() (201; 1% instances), [no-dep/acl:relcl]() (140; 1% instances), [no-dep/amod]() (92; 0% instances), [no-dep/dobj]() (86; 0% instances), [no-dep/nummod]() (66; 0% instances), [no-dep/acl]() (53; 0% instances), [no-dep/appos]() (38; 0% instances), [no-dep/remnant]() (29; 0% instances), [no-dep/discourse]() (22; 0% instances), [no-dep/xcomp]() (13; 0% instances), [no-dep/ccomp]() (7; 0% instances), [no-dep/compound]() (6; 0% instances), [no-dep/name]() (5; 0% instances), [no-dep/goeswith]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 17 different parts of speech: [VERB]() (5268; 21% instances), [PUNCT]() (3849; 15% instances), [ADJ]() (3152; 13% instances), [NOUN]() (3063; 12% instances), [ADV]() (2387; 10% instances), [PRON]() (2091; 8% instances), [CONJ]() (1470; 6% instances), [ADP]() (1095; 4% instances), [DET]() (826; 3% instances), [SCONJ]() (587; 2% instances), [PROPN]() (477; 2% instances), [AUX]() (361; 1% instances), [NUM]() (109; 0% instances), [PART]() (86; 0% instances), [INTJ]() (22; 0% instances), [SYM]() (3; 0% instances), [X]() (1; 0% instances)
+Children of `ADJ` nodes belong to 17 different parts of speech: [VERB]() (5268; 21% instances), [PUNCT]() (3766; 15% instances), [ADJ]() (3152; 13% instances), [NOUN]() (3063; 12% instances), [ADV]() (2387; 10% instances), [PRON]() (2091; 8% instances), [CONJ]() (1470; 6% instances), [ADP]() (1095; 4% instances), [DET]() (826; 3% instances), [SCONJ]() (587; 2% instances), [PROPN]() (477; 2% instances), [AUX]() (361; 1% instances), [NUM]() (109; 0% instances), [PART]() (86; 0% instances), [INTJ]() (22; 0% instances), [SYM]() (3; 0% instances), [X]() (1; 0% instances)
 

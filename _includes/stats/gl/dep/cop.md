@@ -109,3 +109,81 @@ The following 20 pairs of parts of speech are connected with `cop`: [gl-pos/VERB
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+416 nodes (2%) are attached to their parents as `cop`.
+
+353 instances of `cop` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.98798076923077.
+
+The following 10 pairs of parts of speech are connected with `cop`: [gl-pos/NOUN]()-[gl-pos/VERB]() (148; 36% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (120; 29% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (61; 15% instances), [gl-pos/PRON]()-[gl-pos/VERB]() (51; 12% instances), [gl-pos/ADV]()-[gl-pos/VERB]() (23; 6% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (5; 1% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (3; 1% instances), [gl-pos/NUM]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/ADP]()-[gl-pos/VERB]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 cop	color:blue
+1	discutir	discutir	VERB	V0f000	VerbForm=Inf	0	root	_	_
+2	que	que	PRON	Gnms	Gender=Masc|Number=Sing|PronType=Int	5	nsubj	_	_
+3	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	clásico	clásico	NOUN	Scms	Gender=Masc|Number=Sing	1	ccomp	_	_
+6	.	.	PUNCT	Q.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 8 cop	color:blue
+1	de	de	ADP	P	AdpType=Prep	3	case	_	_
+2	todos	todo	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	modos	modo	NOUN	Scmp	Gender=Masc|Number=Plur	13	nmod	_	_
+4	,	,	PUNCT	Q,	_	13	punct	_	_
+5	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	meu	meu	DET	Md1sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	7	det	_	_
+7	público	público	NOUN	Scms	Gender=Masc|Number=Sing	13	nsubj	_	_
+8	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+9	,	,	PUNCT	Q,	_	13	punct	_	_
+10	sobre	sobre	ADP	P	AdpType=Prep	11	case	_	_
+11	todo	todo	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	13	nmod	_	_
+12	,	,	PUNCT	Q,	_	13	punct	_	_
+13	xuvenil	xuvenil	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	_
+14	.	.	PUNCT	Q.	_	13	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 cop	color:blue
+1	esa	ese	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	compañía	compañía	NOUN	Scfs	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	di	dicir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	Cs	_	9	mark	_	_
+5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	única	único	ADJ	A0fs	Gender=Fem|Number=Sing	7	amod	_	_
+7	saída	saída	NOUN	Scfs	Gender=Fem|Number=Sing	9	nsubj	_	_
+8	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	continuar	continuar	VERB	V0f000	VerbForm=Inf	3	ccomp	_	_
+10	onde	onde	ADV	Wr	PronType=Rel	9	advcl	_	_
+11	está	estar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+12	.	.	PUNCT	Q.	_	3	punct	_	_
+
+~~~
+
+

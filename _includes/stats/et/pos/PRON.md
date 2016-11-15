@@ -11,15 +11,15 @@ The 10 most frequent `PRON` lemmas: <em>see, tema, mina, mis, oma, kes, ise, sin
 
 The 10 most frequent `PRON` types:  <em>ta, see, oma, mis, ma, kes, seda, selle, tema, nad</em>
 
-The 10 most frequent ambiguous lemmas: <em>see</em> ([PRON]() 3461, [NOUN]() 1), <em>mina</em> ([PRON]() 2101, [NOUN]() 5), <em>mis</em> ([PRON]() 1441, [ADV]() 1), <em>oma</em> ([PRON]() 967, [ADJ]() 7, [NOUN]() 4, [ADV]() 4), <em>ise</em> ([PRON]() 648, [ADV]() 97, [NOUN]() 1, [ADJ]() 1), <em>kõik</em> ([PRON]() 570, [NOUN]() 4), <em>üks</em> ([PRON]() 495, [NUM]() 207), <em>teine</em> ([PRON]() 447, [ADJ]() 123, [NUM]() 1), <em>miski</em> ([PRON]() 287, [NOUN]() 9), <em>palju</em> ([ADV]() 271, [PRON]() 132)
+The 10 most frequent ambiguous lemmas: <em>see</em> ([PRON]() 3461, [NOUN]() 1), <em>mina</em> ([PRON]() 2101, [NOUN]() 5), <em>mis</em> ([PRON]() 1441, [ADV]() 1), <em>oma</em> ([PRON]() 967, [ADJ]() 7, [ADV]() 4, [NOUN]() 4), <em>ise</em> ([PRON]() 648, [ADV]() 97, [ADJ]() 1, [NOUN]() 1), <em>kõik</em> ([PRON]() 570, [NOUN]() 4), <em>üks</em> ([PRON]() 495, [NUM]() 207), <em>teine</em> ([PRON]() 447, [ADJ]() 123, [NUM]() 1), <em>miski</em> ([PRON]() 287, [NOUN]() 9), <em>palju</em> ([ADV]() 271, [PRON]() 132)
 
-The 10 most frequent ambiguous types:  <em>oma</em> ([PRON]() 852, [NOUN]() 4, [ADV]() 4, [VERB]() 2, [ADJ]() 1), <em>mis</em> ([PRON]() 652, [ADV]() 1), <em>üks</em> ([PRON]() 152, [NUM]() 70), <em>talle</em> ([PRON]() 136, [NOUN]() 1), <em>ise</em> ([PRON]() 134, [ADV]() 85, [ADJ]() 1), <em>meil</em> ([PRON]() 93, [NOUN]() 2), <em>mina</em> ([PRON]() 64, [NOUN]() 5), <em>teine</em> ([PRON]() 69, [ADJ]() 27), <em>ühe</em> ([PRON]() 70, [NUM]() 58), <em>teise</em> ([PRON]() 45, [ADJ]() 20, [NUM]() 1)
+The 10 most frequent ambiguous types:  <em>oma</em> ([PRON]() 852, [ADV]() 4, [NOUN]() 4, [VERB]() 2, [ADJ]() 1), <em>mis</em> ([PRON]() 652, [ADV]() 1), <em>üks</em> ([PRON]() 152, [NUM]() 70), <em>talle</em> ([PRON]() 136, [NOUN]() 1), <em>ise</em> ([PRON]() 134, [ADV]() 85, [ADJ]() 1), <em>meil</em> ([PRON]() 93, [NOUN]() 2), <em>mina</em> ([PRON]() 64, [NOUN]() 5), <em>teine</em> ([PRON]() 69, [ADJ]() 27), <em>ühe</em> ([PRON]() 70, [NUM]() 58), <em>teise</em> ([PRON]() 45, [ADJ]() 20, [NUM]() 1)
 
 
 * <em>oma</em>
   * [PRON]() 852: <em>Ta ei mäletanud isegi <b>oma</b> naise tegu ja nägu , rääkimata nimest .</em>
-  * [NOUN]() 4: <em>Eesti pangamiljonär on keskmiselt 50-aastane ehk seitse aastat <b>oma</b> Ameerika kolleegist noorem .</em>
   * [ADV]() 4: <em>Äkitselt oli samas maailmaosas ametlikult 20 riiki ja <b>oma</b> 15 keelt .</em>
+  * [NOUN]() 4: <em>Eesti pangamiljonär on keskmiselt 50-aastane ehk seitse aastat <b>oma</b> Ameerika kolleegist noorem .</em>
   * [VERB]() 2: <em>Sageli on tegemist tüüpiliste kulutajatega , kes ühelt poolt teenivad küll korralikult , kuid ei <b>oma</b> märkimisväärselt sääste .</em>
   * [ADJ]() 1: <em>See on nii lihtne ja tavaline ja sellepärast ka nii <b>oma</b> .</em>
 * <em>mis</em>

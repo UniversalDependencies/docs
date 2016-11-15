@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` types:  <em>Europako, Espainiako, Frantziako, Israe
 
 The 10 most frequent ambiguous lemmas: <em>Europa</em> ([PROPN]() 104, [NOUN]() 1), <em>Frantzia</em> ([PROPN]() 99, [NOUN]() 1), <em>Real</em> ([PROPN]() 69, [NOUN]() 1), <em>ETA</em> ([PROPN]() 66, [NOUN]() 2), <em>Alemania</em> ([PROPN]() 48, [NOUN]() 1), <em>Sydney</em> ([PROPN]() 34, [NOUN]() 3), <em>Baskonia</em> ([PROPN]() 27, [NOUN]() 1), <em>Bartzelona</em> ([PROPN]() 23, [NOUN]() 1), <em>Irlanda</em> ([PROPN]() 21, [NOUN]() 1), <em>UPN</em> ([PROPN]() 20, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>Euskal</em> ([NOUN]() 105, [PROPN]() 33), <em>Mari</em> ([PROPN]() 14, [NOUN]() 2), <em>La</em> ([PROPN]() 9, [NOUN]() 1, [X]() 1), <em>ETA</em> ([PROPN]() 7, [CONJ]() 2), <em>El</em> ([PROPN]() 7, [X]() 3), <em>Osasuna</em> ([PROPN]() 6, [NOUN]() 1), <em>Osasunaren</em> ([PROPN]() 6, [NOUN]() 1), <em>Jesus</em> ([PROPN]() 5, [INTJ]() 1), <em>Lotina</em> ([PROPN]() 5, [ADJ]() 1), <em>Piztu</em> ([PROPN]() 5, [VERB]() 2)
+The 10 most frequent ambiguous types:  <em>Euskal</em> ([NOUN]() 105, [PROPN]() 33), <em>Mari</em> ([PROPN]() 14, [NOUN]() 2), <em>La</em> ([PROPN]() 9, [X]() 1, [NOUN]() 1), <em>ETA</em> ([PROPN]() 7, [CONJ]() 2), <em>El</em> ([PROPN]() 7, [X]() 3), <em>Osasuna</em> ([PROPN]() 6, [NOUN]() 1), <em>Osasunaren</em> ([PROPN]() 6, [NOUN]() 1), <em>Jesus</em> ([PROPN]() 5, [INTJ]() 1), <em>Lotina</em> ([PROPN]() 5, [ADJ]() 1), <em>Piztu</em> ([PROPN]() 5, [VERB]() 2)
 
 
 * <em>Euskal</em>
@@ -24,8 +24,8 @@ The 10 most frequent ambiguous types:  <em>Euskal</em> ([NOUN]() 105, [PROPN]() 
   * [NOUN]() 2: <em>Jose <b>Mari</b> Arrate , presidentea , Txetxu Rojo , entrenatzailea eta Julen Guerrero , kapitaina , azaldu ziren hedabideen aurrean jokalariak zelaira atera aurretik .</em>
 * <em>La</em>
   * [PROPN]() 9: <em>Bihar <b>La</b> Sallerekin neurtuko da eta igandean Leongo Cistiernarekin .</em>
-  * [NOUN]() 1: <em>Hemen ere ez zen zaila Iturriagak <b>La</b> Fontaineren alegiak ezagutzea :</em>
   * [X]() 1: <em>Iaz Andino <b>La</b> Riojan jokatu zuen .</em>
+  * [NOUN]() 1: <em>Hemen ere ez zen zaila Iturriagak <b>La</b> Fontaineren alegiak ezagutzea :</em>
 * <em>ETA</em>
   * [PROPN]() 7: <em>" <b>ETA</b> guztiek gaitzesten dute .</em>
   * [CONJ]() 2: <em>BAT AUKERATU <b>ETA</b> INFORMAZIOA BILATU :</em>

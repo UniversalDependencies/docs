@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: <em>hyvä, uusi, suuri, oma, ensimmäinen, pi
 
 The 10 most frequent `ADJ` types:  <em>koko, eri, viime, hyvä, arvoisa, ensimmäinen, uusi, uuden, 1., ensimmäisen</em>
 
-The 10 most frequent ambiguous lemmas: <em>hyvä</em> ([ADJ]() 387, [NOUN]() 1, [ADV]() 1), <em>suuri</em> ([ADJ]() 276, [ADV]() 2), <em>oma</em> ([ADJ]() 240, [NOUN]() 1), <em>ensimmäinen</em> ([ADJ]() 217, [NOUN]() 2), <em>pieni</em> ([ADJ]() 168, [NOUN]() 1), <em>koko</em> ([ADJ]() 141, [NOUN]() 12), <em>toinen</em> ([PRON]() 171, [ADJ]() 136, [NOUN]() 36), <em>usea</em> ([ADJ]() 107, [PRON]() 4), <em>seuraava</em> ([ADJ]() 90, [NOUN]() 2), <em>tällainen</em> ([ADJ]() 85, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: <em>hyvä</em> ([ADJ]() 387, [ADV]() 1, [NOUN]() 1), <em>suuri</em> ([ADJ]() 276, [ADV]() 2), <em>oma</em> ([ADJ]() 240, [NOUN]() 1), <em>ensimmäinen</em> ([ADJ]() 217, [NOUN]() 2), <em>pieni</em> ([ADJ]() 168, [NOUN]() 1), <em>koko</em> ([ADJ]() 141, [NOUN]() 12), <em>toinen</em> ([PRON]() 171, [ADJ]() 136, [NOUN]() 36), <em>usea</em> ([ADJ]() 107, [PRON]() 4), <em>seuraava</em> ([ADJ]() 90, [NOUN]() 2), <em>tällainen</em> ([ADJ]() 85, [NOUN]() 2)
 
 The 10 most frequent ambiguous types:  <em>koko</em> ([ADJ]() 130, [NOUN]() 3), <em>1.</em> ([ADJ]() 57, [NUM]() 1), <em>suurin</em> ([ADJ]() 29, [ADV]() 1), <em>useita</em> ([ADJ]() 40, [PRON]() 3), <em>toisen</em> ([ADJ]() 29, [PRON]() 23), <em>uusia</em> ([ADJ]() 34, [VERB]() 2), <em>toinen</em> ([PRON]() 28, [ADJ]() 20, [NOUN]() 3), <em>omaa</em> ([ADJ]() 27, [VERB]() 2), <em>suomalainen</em> ([ADJ]() 21, [NOUN]() 2), <em>I</em> ([ADJ]() 26, [PROPN]() 3, [X]() 2)
 

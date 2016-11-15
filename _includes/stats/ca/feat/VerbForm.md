@@ -124,8 +124,8 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (6; 67%),
 <tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> AUX</tt> (4; 80%),
 <tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (3; 60%),
-<tt>AUX --[<a href="../dep/compound.html">compound</a>]--> AUX</tt> (2; 100%),
 <tt>ADJ --[<a href="../dep/nmod.html">nmod</a>]--> ADJ</tt> (2; 100%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/compound.html">compound</a>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (1; 100%).
 

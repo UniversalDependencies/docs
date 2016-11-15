@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1723 nodes (1%) are attached to their parents as `nummod`.
+1725 nodes (1%) are attached to their parents as `nummod`.
 
-1578 instances of `nummod` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18165989553105.
+1580 instances of `nummod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18144927536232.
 
-The following 3 pairs of parts of speech are connected with `nummod`: [bg-pos/NOUN]()-[bg-pos/NUM]() (1679; 97% instances), [bg-pos/PROPN]()-[bg-pos/NUM]() (41; 2% instances), [bg-pos/PRON]()-[bg-pos/NUM]() (3; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: [bg-pos/NOUN]()-[bg-pos/NUM]() (1679; 97% instances), [bg-pos/PROPN]()-[bg-pos/NUM]() (41; 2% instances), [bg-pos/PRON]()-[bg-pos/NUM]() (3; 0% instances), [bg-pos/ADJ]()-[bg-pos/NOUN]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,10 +64,10 @@ The following 3 pairs of parts of speech are connected with `nummod`: [bg-pos/NO
 3	четиримата	четирима	NUM	Mc--d	_	2	nummod	_	_
 4	бихме	съм	AUX	Vxitu-o1p	Aspect=Imp|Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	5	aux	_	_
 5	могли	мога	VERB	Vpiicao-p-i	Aspect=Imp|Definite=Ind|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-6	да	да	PART	Tx	_	7	aux	_	_
-7	бъдем	бъда	VERB	Vyptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+6	да	да	PART	Tx	_	9	aux	_	_
+7	бъдем	бъда	VERB	Vyptf-r1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
 8	чудесен	чудесен	ADJ	Amsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
-9	екип	екип	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	7	dobj	_	_
+9	екип	екип	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	5	xcomp	_	_
 
 ~~~
 

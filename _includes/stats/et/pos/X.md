@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>I, of, in, tõ, versus, Proopusk, is, jesh,
 
 The 10 most frequent `X` types:  <em>I, of, in, tõ, versus, Proopusk, jesh, mõ, ne, sol</em>
 
-The 10 most frequent ambiguous lemmas: <em>sol</em> ([X]() 2, [NOUN]() 1), <em>?</em> ([PUNCT]() 902, [X]() 1), <em>KGB</em> ([NOUN]() 9, [X]() 1), <em>Mr</em> ([X]() 1, [NOUN]() 1), <em>cm</em> ([NOUN]() 15, [X]() 1), <em>km/h</em> ([ADV]() 13, [X]() 1), <em>moi</em> ([NOUN]() 1, [X]() 1), <em>ruutu</em> ([X]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>sol</em> ([X]() 2, [NOUN]() 1), <em>?</em> ([PUNCT]() 902, [X]() 1), <em>KGB</em> ([NOUN]() 9, [X]() 1), <em>Mr</em> ([NOUN]() 1, [X]() 1), <em>cm</em> ([NOUN]() 15, [X]() 1), <em>km/h</em> ([ADV]() 13, [X]() 1), <em>moi</em> ([X]() 1, [NOUN]() 1), <em>ruutu</em> ([X]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>?</em> ([PUNCT]() 902, [X]() 1), <em>KGB</em> ([NOUN]() 9, [X]() 1), <em>Mr</em> ([NOUN]() 1, [X]() 1), <em>cm</em> ([NOUN]() 15, [X]() 1), <em>km/h</em> ([ADV]() 13, [X]() 1), <em>ruutu</em> ([NOUN]() 4, [X]() 1)
+The 10 most frequent ambiguous types:  <em>?</em> ([PUNCT]() 902, [X]() 1), <em>KGB</em> ([NOUN]() 9, [X]() 1), <em>Mr</em> ([X]() 1, [NOUN]() 1), <em>cm</em> ([NOUN]() 15, [X]() 1), <em>km/h</em> ([ADV]() 13, [X]() 1), <em>ruutu</em> ([NOUN]() 4, [X]() 1)
 
 
 * <em>?</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>?</em> ([PUNCT]() 902, [X]() 1), <em>
   * [NOUN]() 9: <em>See on kõva sõna , sest <b>KGB</b> polkovnik on armee polkovnikust tugevam .</em>
   * [X]() 1: <em>Kõik <b>KGB</b> rühmad üle Eesti sõitsid sinna kokku .</em>
 * <em>Mr</em>
-  * [NOUN]() 1: <em>Valges kitlis <b>Mr</b> Nobody kannab sellele vaatamata rinnas silti “ Peaarst ” .</em>
   * [X]() 1: <em><b>Mr</b> Woyczewski tormab kui nool vibust teise korteri ukse juurde .</em>
+  * [NOUN]() 1: <em>Valges kitlis <b>Mr</b> Nobody kannab sellele vaatamata rinnas silti “ Peaarst ” .</em>
 * <em>cm</em>
   * [NOUN]() 15: <em>Keskmine paksus 23 <b>cm</b></em>
   * [X]() 1: <em>Merepind on tõusnud 20 <b>cm</b> .</em>

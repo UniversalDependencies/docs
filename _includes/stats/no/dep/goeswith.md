@@ -32,7 +32,7 @@ The following 16 pairs of parts of speech are connected with `goeswith`: [no-pos
 10	å	å	PART	_	_	11	mark	_	_
 11	vinne	vinne	VERB	_	VerbForm=Inf	5	goeswith	_	_
 12	i	i	ADP	_	_	13	case	_	_
-13	morgen	morgen	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	11	nmod	_	_
+13	morgen	morgen	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 14	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 16 pairs of parts of speech are connected with `goeswith`: [no-pos
 4	resultater	resultat	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	dobj	_	_
 5	fra	fra	ADP	_	_	2	goeswith	_	_
 6	fra	fra	ADP	_	_	7	case	_	_
-7	valgdagsmålinger	valgdagsmåling	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	_
+7	valgdagsmålinger	valgdagsmåling	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
 8	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -74,7 +74,7 @@ The following 16 pairs of parts of speech are connected with `goeswith`: [no-pos
 10	å	å	PART	_	_	11	mark	_	_
 11	vinne	vinne	VERB	_	VerbForm=Inf	5	goeswith	_	_
 12	i	i	ADP	_	_	13	case	_	_
-13	morgen	morgen	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	11	nmod	_	_
+13	morgen	morgen	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 14	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~

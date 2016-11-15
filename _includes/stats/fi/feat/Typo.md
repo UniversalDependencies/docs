@@ -80,16 +80,6 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 * `Yes` (15; 100% of non-empty `Typo`): <em>minun, sen, Hedän, Kumpikin, Saman, Tosilla, Tämä, johon, jonka, jota</em>
 
-### `AUX`
-
-3 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 67%), <tt><a href="Person.html">Person</a>=3</tt> (2; 67%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 67%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2; 67%).
-
-`AUX` tokens may have the following values of `Typo`:
-
-* `Yes` (3; 100% of non-empty `Typo`): <em>lie, ovat, voisivat</em>
-
 ### `PUNCT`
 
 3 [fi-pos/PUNCT]() tokens (0% of all `PUNCT` tokens) have a non-empty value of `Typo`.
@@ -97,6 +87,16 @@ The most frequent other feature values with which `AUX` and `Typo` co-occurred: 
 `PUNCT` tokens may have the following values of `Typo`:
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>..</em>
+
+### `AUX`
+
+3 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3; 100%), <tt><a href="Person.html">Person</a>=3</tt> (2; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 67%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2; 67%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 67%).
+
+`AUX` tokens may have the following values of `Typo`:
+
+* `Yes` (3; 100% of non-empty `Typo`): <em>lie, ovat, voisivat</em>
 
 ### `CONJ`
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `AUX` and `Typo` co-occurred: 
 
 2 [fi-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%).
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (2; 100%).
 
 `NUM` tokens may have the following values of `Typo`:
 
@@ -137,9 +137,9 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 ## Relations with Agreement in `Typo`
 
 The 10 most frequent relations where parent and child node agree in `Typo`:
+<tt>ADV --[<a href="../dep/goeswith.html">goeswith</a>]--> ADV</tt> (1; 100%),
 <tt>PROPN --[<a href="../dep/goeswith.html">goeswith</a>]--> PROPN</tt> (1; 100%),
-<tt>PROPN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/goeswith.html">goeswith</a>]--> VERB</tt> (1; 100%),
-<tt>NOUN --[<a href="../dep/goeswith.html">goeswith</a>]--> NOUN</tt> (1; 100%),
-<tt>ADV --[<a href="../dep/goeswith.html">goeswith</a>]--> ADV</tt> (1; 100%).
+<tt>PROPN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (1; 100%),
+<tt>NOUN --[<a href="../dep/goeswith.html">goeswith</a>]--> NOUN</tt> (1; 100%).
 

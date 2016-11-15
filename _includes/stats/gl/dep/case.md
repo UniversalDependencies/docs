@@ -80,3 +80,67 @@ The following 41 pairs of parts of speech are connected with `case`: [gl-pos/NOU
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+3262 nodes (13%) are attached to their parents as `case`.
+
+3253 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.74034334763948.
+
+The following 19 pairs of parts of speech are connected with `case`: [gl-pos/NOUN]()-[gl-pos/ADP]() (2203; 68% instances), [gl-pos/PROPN]()-[gl-pos/ADP]() (627; 19% instances), [gl-pos/PRON]()-[gl-pos/ADP]() (203; 6% instances), [gl-pos/NUM]()-[gl-pos/ADP]() (46; 1% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (44; 1% instances), [gl-pos/ADV]()-[gl-pos/ADP]() (39; 1% instances), [gl-pos/ADJ]()-[gl-pos/ADP]() (29; 1% instances), [gl-pos/NOUN]()-[gl-pos/SCONJ]() (16; 0% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (15; 0% instances), [gl-pos/DET]()-[gl-pos/ADP]() (12; 0% instances), [gl-pos/PRON]()-[gl-pos/SCONJ]() (8; 0% instances), [gl-pos/PROPN]()-[gl-pos/SCONJ]() (8; 0% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (3; 0% instances), [gl-pos/SYM]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/X]()-[gl-pos/ADP]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 case	color:blue
+1	diálogo	diálogo	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
+2	a_través_de	a_través_de	ADP	Lp0	AdpType=Prep	4	case	_	_
+3	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	medios	medio	NOUN	Scmp	Gender=Masc|Number=Plur	1	nmod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 case	color:blue
+1	só	só	ADV	Wn	_	2	advmod	_	_
+2	dedican	dedicar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	2	dobj	_	_
+5	en	en	ADP	P	AdpType=Prep	6	case	_	_
+6	Os_Estados_Unidos	Os_Estados_Unidos	PROPN	Sp00	_	2	nmod	_	_
+7	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 case	color:blue
+1	e	e	CONJ	Cc	_	4	cc	_	_
+2	de	de	ADP	P	AdpType=Prep	4	case	_	_
+3	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	provocador	provocador	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
+5	a	a	ADP	P	AdpType=Prep	6	case	_	_
+6	outro	outro	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	4	nmod	_	_
+7	.	.	PUNCT	Q.	_	4	punct	_	_
+
+~~~
+
+

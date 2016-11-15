@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [sl-pos/VERB]() (7982; 6% instan
 
 7982 [sl-pos/VERB]() tokens (46% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7982; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7982; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7982; 100%), <tt><a href="Person.html">Person</a>=3</tt> (6521; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (5086; 64%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (4860; 61%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7982; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7982; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7982; 100%), <tt><a href="Person.html">Person</a>=3</tt> (6521; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (5086; 64%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (4860; 61%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -85,8 +85,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (415; 72%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (267; 51%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/mwe.html">mwe</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/mwe.html">mwe</a>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%).
 
 
 
@@ -106,7 +106,7 @@ The feature is used with 2 part-of-speech tags: [sl-pos/VERB]() (2824; 10% insta
 
 2824 [sl-pos/VERB]() tokens (61% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (2824; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2824; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2824; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2088; 74%), <tt><a href="Person.html">Person</a>=3</tt> (1720; 61%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (1546; 55%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (2824; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2824; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2824; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2088; 74%), <tt><a href="Person.html">Person</a>=3</tt> (1720; 61%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (1546; 55%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -138,7 +138,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 1122 [sl-pos/AUX]() tokens (89% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (1122; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1122; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1044; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (755; 67%), <tt><a href="Person.html">Person</a>=3</tt> (634; 57%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1122; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1122; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1044; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (755; 67%), <tt><a href="Person.html">Person</a>=3</tt> (634; 57%).
 
 `AUX` tokens may have the following values of `Tense`:
 

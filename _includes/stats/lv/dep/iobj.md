@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-304 nodes (2%) are attached to their parents as `iobj`.
+316 nodes (2%) are attached to their parents as `iobj`.
 
-176 instances of `iobj` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.04605263157895.
+184 instances of `iobj` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.0126582278481.
 
-The following 22 pairs of parts of speech are connected with `iobj`: [lv-pos/VERB]()-[lv-pos/NOUN]() (173; 57% instances), [lv-pos/NOUN]()-[lv-pos/NOUN]() (31; 10% instances), [lv-pos/VERB]()-[lv-pos/PROPN]() (24; 8% instances), [lv-pos/VERB]()-[lv-pos/PRON]() (18; 6% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (11; 4% instances), [lv-pos/NOUN]()-[lv-pos/PROPN]() (8; 3% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (7; 2% instances), [lv-pos/ADJ]()-[lv-pos/NOUN]() (6; 2% instances), [lv-pos/ADV]()-[lv-pos/NOUN]() (4; 1% instances), [lv-pos/VERB]()-[lv-pos/NUM]() (4; 1% instances), [lv-pos/ADJ]()-[lv-pos/PRON]() (2; 1% instances), [lv-pos/ADJ]()-[lv-pos/SYM]() (2; 1% instances), [lv-pos/ADV]()-[lv-pos/VERB]() (2; 1% instances), [lv-pos/NOUN]()-[lv-pos/PRON]() (2; 1% instances), [lv-pos/PUNCT]()-[lv-pos/NOUN]() (2; 1% instances), [lv-pos/VERB]()-[lv-pos/ADJ]() (2; 1% instances), [lv-pos/ADJ]()-[lv-pos/NUM]() (1; 0% instances), [lv-pos/ADJ]()-[lv-pos/PART]() (1; 0% instances), [lv-pos/ADV]()-[lv-pos/NUM]() (1; 0% instances), [lv-pos/ADV]()-[lv-pos/PROPN]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/NUM]() (1; 0% instances), [lv-pos/NUM]()-[lv-pos/PART]() (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `iobj`: [lv-pos/VERB]()-[lv-pos/NOUN]() (183; 58% instances), [lv-pos/NOUN]()-[lv-pos/NOUN]() (31; 10% instances), [lv-pos/VERB]()-[lv-pos/PROPN]() (25; 8% instances), [lv-pos/VERB]()-[lv-pos/PRON]() (19; 6% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (12; 4% instances), [lv-pos/NOUN]()-[lv-pos/PROPN]() (8; 3% instances), [lv-pos/ADJ]()-[lv-pos/NOUN]() (7; 2% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (7; 2% instances), [lv-pos/ADV]()-[lv-pos/NOUN]() (6; 2% instances), [lv-pos/NOUN]()-[lv-pos/PRON]() (3; 1% instances), [lv-pos/ADJ]()-[lv-pos/PRON]() (2; 1% instances), [lv-pos/ADJ]()-[lv-pos/SYM]() (2; 1% instances), [lv-pos/ADV]()-[lv-pos/VERB]() (2; 1% instances), [lv-pos/PUNCT]()-[lv-pos/NOUN]() (2; 1% instances), [lv-pos/VERB]()-[lv-pos/ADJ]() (2; 1% instances), [lv-pos/ADJ]()-[lv-pos/PART]() (1; 0% instances), [lv-pos/ADV]()-[lv-pos/PROPN]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/NUM]() (1; 0% instances), [lv-pos/NUM]()-[lv-pos/PART]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 22 pairs of parts of speech are connected with `iobj`: [lv-pos/VER
 4	ražošanas	ražošana	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
 5	projekts	projekts	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 6	„	„	PUNCT	zq	_	7	punct	_	SpaceAfter=No
-7	ZAAO	ZAAO	PROPN	np0sd0	Case=Dat|Number=Sing	10	iobj	_	SpaceAfter=No
+7	ZAAO	ZAAO	PROPN	y	_	10	iobj	_	SpaceAfter=No
 8	"	"	PUNCT	zq	_	7	punct	_	_
 9	varētu	varēt	VERB	vonc0t300an	Mood=Cnd|Negative=Neg|VerbForm=Fin|Voice=Act	0	root	_	_
 10	izmaksāt	izmaksāt	VERB	vmnn0t2000n	Negative=Neg|VerbForm=Inf	9	xcomp	_	SpaceAfter=No

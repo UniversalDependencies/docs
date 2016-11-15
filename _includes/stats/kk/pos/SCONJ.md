@@ -4,12 +4,12 @@
 
 ## Treebank Statistics (UD_Kazakh)
 
-There are 9 `SCONJ` lemmas (1%), 9 `SCONJ` types (0%) and 10 `SCONJ` tokens (0%).
-Out of 16 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 13 in number of types and 15 in number of tokens.
+There are 10 `SCONJ` lemmas (1%), 10 `SCONJ` types (0%) and 11 `SCONJ` tokens (0%).
+Out of 16 observed tags, the rank of `SCONJ` is: 15 in number of lemmas, 14 in number of types and 15 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>сондықтан, алайда, демек, егер, осы__себептен, себебі, сонда, сонда__да, сөйтсе__де</em>
+The 10 most frequent `SCONJ` lemmas: <em>сондықтан, алайда, демек, егер, осы__себептен, себебі, сонда, сонда__да, сөйтсе__де, өйткені</em>
 
-The 10 most frequent `SCONJ` types:  <em>сондықтан, Алайда, Демек, Осы__себептен, Себебі, Сонда, Сонда__да, Сөйтсе__де, егер</em>
+The 10 most frequent `SCONJ` types:  <em>сондықтан, Алайда, Демек, Осы__себептен, Себебі, Сонда, Сонда__да, Сөйтсе__де, егер, Өйткені</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.458688).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.549647).
 
 The 1st highest number of forms (1) was observed with the lemma “алайда”: <em>Алайда</em>.
 
@@ -32,13 +32,13 @@ The 3rd highest number of forms (1) was observed with the lemma “егер”: 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: [kk-dep/cc]() (6; 60% instances), [kk-dep/advmod]() (3; 30% instances), [kk-dep/mark]() (1; 10% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: [kk-dep/cc]() (7; 64% instances), [kk-dep/advmod]() (3; 27% instances), [kk-dep/mark]() (1; 9% instances)
 
-Parents of `SCONJ` nodes belong to 2 different parts of speech: [VERB]() (8; 80% instances), [ADJ]() (2; 20% instances)
+Parents of `SCONJ` nodes belong to 3 different parts of speech: [VERB]() (8; 73% instances), [ADJ]() (2; 18% instances), [NOUN]() (1; 9% instances)
 
-8 (80%) `SCONJ` nodes are leaves.
+9 (82%) `SCONJ` nodes are leaves.
 
-2 (20%) `SCONJ` nodes have one child.
+2 (18%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 

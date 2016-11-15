@@ -11,7 +11,7 @@ The 10 most frequent `ADP` lemmas: <em>i, av, på, för, till, med, om, från, v
 
 The 10 most frequent `ADP` types:  <em>i, av, på, för, till, med, om, från, vid, under</em>
 
-The 10 most frequent ambiguous lemmas: <em>i</em> ([ADP]() 2512, [ADJ]() 1, [NOUN]() 1, [NUM]() 1), <em>för</em> ([ADP]() 1208, [ADV]() 34, [CONJ]() 9, [VERB]() 5), <em>till</em> ([ADP]() 1003, [ADV]() 4), <em>med</em> ([ADP]() 919, [ADV]() 3, [ADJ]() 1), <em>om</em> ([ADP]() 427, [SCONJ]() 319, [ADV]() 7), <em>vid</em> ([ADP]() 269, [ADJ]() 4, [ADV]() 4), <em>under</em> ([ADP]() 233, [ADV]() 23), <em>efter</em> ([ADP]() 147, [ADV]() 1, [SCONJ]() 1), <em>utan</em> ([ADP]() 101, [CONJ]() 61), <em>över</em> ([ADP]() 63, [ADV]() 33)
+The 10 most frequent ambiguous lemmas: <em>i</em> ([ADP]() 2512, [NUM]() 1, [NOUN]() 1, [ADJ]() 1), <em>för</em> ([ADP]() 1208, [ADV]() 34, [CONJ]() 9, [VERB]() 5), <em>till</em> ([ADP]() 1003, [ADV]() 4), <em>med</em> ([ADP]() 919, [ADV]() 3, [ADJ]() 1), <em>om</em> ([ADP]() 427, [SCONJ]() 319, [ADV]() 7), <em>vid</em> ([ADP]() 269, [ADJ]() 4, [ADV]() 4), <em>under</em> ([ADP]() 233, [ADV]() 23), <em>efter</em> ([ADP]() 147, [ADV]() 1, [SCONJ]() 1), <em>utan</em> ([ADP]() 101, [CONJ]() 61), <em>över</em> ([ADP]() 63, [ADV]() 33)
 
 The 10 most frequent ambiguous types:  <em>för</em> ([ADP]() 1101, [ADV]() 33, [VERB]() 6, [CONJ]() 4), <em>till</em> ([ADP]() 974, [ADV]() 3), <em>med</em> ([ADP]() 889, [ADV]() 3, [ADJ]() 1), <em>om</em> ([ADP]() 420, [SCONJ]() 228, [ADV]() 7), <em>under</em> ([ADP]() 190, [ADV]() 22), <em>efter</em> ([ADP]() 131, [SCONJ]() 1, [ADV]() 1), <em>utan</em> ([ADP]() 94, [CONJ]() 60), <em>över</em> ([ADP]() 63, [ADV]() 29), <em>ur</em> ([ADP]() 47, [ADV]() 7), <em>åt</em> ([ADP]() 45, [ADV]() 7, [VERB]() 1)
 
@@ -169,4 +169,42 @@ The highest child degree of a `ADP` node is 6.
 Children of `ADP` nodes are attached using 23 different relations: [sv-dep/mwe]() (147; 33% instances), [sv-dep/punct]() (67; 15% instances), [sv-dep/cc]() (47; 11% instances), [sv-dep/conj]() (44; 10% instances), [sv-dep/advmod]() (36; 8% instances), [sv-dep/nmod]() (25; 6% instances), [sv-dep/nsubj]() (18; 4% instances), [sv-dep/cop]() (8; 2% instances), [sv-dep/advcl]() (7; 2% instances), [sv-dep/dobj]() (7; 2% instances), [sv-dep/appos]() (6; 1% instances), [sv-dep/aux]() (5; 1% instances), [sv-dep/discourse]() (5; 1% instances), [sv-dep/acl]() (4; 1% instances), [sv-dep/amod]() (4; 1% instances), [sv-dep/case]() (4; 1% instances), [sv-dep/expl]() (3; 1% instances), [sv-dep/acl:relcl]() (2; 0% instances), [sv-dep/csubj]() (2; 0% instances), [sv-dep/mark]() (2; 0% instances), [sv-dep/neg]() (2; 0% instances), [sv-dep/dislocated]() (1; 0% instances), [sv-dep/xcomp]() (1; 0% instances)
 
 Children of `ADP` nodes belong to 13 different parts of speech: [ADP]() (106; 24% instances), [PUNCT]() (67; 15% instances), [NOUN]() (61; 14% instances), [SCONJ]() (54; 12% instances), [CONJ]() (48; 11% instances), [ADV]() (35; 8% instances), [VERB]() (32; 7% instances), [PRON]() (13; 3% instances), [ADJ]() (11; 2% instances), [PROPN]() (7; 2% instances), [AUX]() (5; 1% instances), [INTJ]() (5; 1% instances), [PART]() (3; 1% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Swedish_Sign_Language)
+
+There are 1 `ADP` lemmas (9%), 4 `ADP` types (1%) and 8 `ADP` tokens (1%).
+Out of 11 observed tags, the rank of `ADP` is: 2 in number of lemmas, 8 in number of types and 9 in number of tokens.
+
+The 10 most frequent `ADP` lemmas: <em>_</em>
+
+The 10 most frequent `ADP` types:  <em>BAKOM, TILL, EFTER, FRÅN</em>
+
+The 10 most frequent ambiguous lemmas: <em>_</em> ([VERB]() 318, [NOUN]() 149, [X]() 59, [PRON]() 45, [ADV]() 35, [DET]() 19, [INTJ]() 14, [ADJ]() 14, [NUM]() 8, [ADP]() 8, [CONJ]() 3)
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `ADP` is 4.000000 (the average of all parts of speech is 29.545455).
+
+The 1st highest number of forms (4) was observed with the lemma “_”: <em>BAKOM, EFTER, FRÅN, TILL</em>.
+
+`ADP` does not occur with any features.
+
+
+## Relations
+
+`ADP` nodes are attached to their parents using 3 different relations: [sv-dep/case]() (6; 75% instances), [sv-dep/advmod]() (1; 13% instances), [sv-dep/compound]() (1; 13% instances)
+
+Parents of `ADP` nodes belong to 2 different parts of speech: [NOUN]() (5; 63% instances), [VERB]() (3; 38% instances)
+
+8 (100%) `ADP` nodes are leaves.
+
+The highest child degree of a `ADP` node is 0.
 

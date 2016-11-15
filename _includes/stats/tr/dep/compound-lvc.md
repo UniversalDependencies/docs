@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `compound`: [compound:redup
 470 instances of `compound:lvc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.02547770700637.
 
-The following 8 pairs of parts of speech are connected with `compound:lvc`: [tr-pos/VERB]()-[tr-pos/NOUN]() (379; 80% instances), [tr-pos/VERB]()-[tr-pos/ADJ]() (67; 14% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (15; 3% instances), [tr-pos/VERB]()-[tr-pos/ADP]() (3; 1% instances), [tr-pos/VERB]()-[tr-pos/PRON]() (3; 1% instances), [tr-pos/NOUN]()-[tr-pos/NOUN]() (2; 0% instances), [tr-pos/VERB]()-[tr-pos/NUM]() (1; 0% instances), [tr-pos/VERB]()-[tr-pos/PROPN]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `compound:lvc`: [tr-pos/VERB]()-[tr-pos/NOUN]() (379; 80% instances), [tr-pos/VERB]()-[tr-pos/ADJ]() (68; 14% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (15; 3% instances), [tr-pos/VERB]()-[tr-pos/ADP]() (3; 1% instances), [tr-pos/VERB]()-[tr-pos/PRON]() (3; 1% instances), [tr-pos/NOUN]()-[tr-pos/NOUN]() (2; 0% instances), [tr-pos/VERB]()-[tr-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu

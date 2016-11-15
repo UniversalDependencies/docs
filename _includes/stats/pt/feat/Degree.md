@@ -41,7 +41,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 * `Cmp` (410; 100% of non-empty `Degree`): <em>outros, outras, outro, outra, mais, mesmo, mesma, menos, tal, tais</em>
 * `Sup` (1; 0% of non-empty `Degree`): <em>muitíssimo</em>
-* `EMPTY` (34006): <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
+* `EMPTY` (35249): <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
 
 ### `ADJ`
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (203; 58% of non-empty `Degree`): <em>maior, maiores, melhor, menor, menores, melhores, superiores, superior, inferior, inferiores</em>
 * `Sup` (150; 42% of non-empty `Degree`): <em>melhor, principal, principais, melhores, pior, mínimo, ótimo, superior, piores, péssimo</em>
-* `EMPTY` (10523): <em>grande, primeiro, novo, primeira, nova, grandes, último, nacional, última, segundo</em>
+* `EMPTY` (10641): <em>nacional, grande, primeiro, novo, primeira, nova, grandes, último, última, segundo</em>
 
 <table>
   <tr><th>Paradigm <i>grande</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -67,12 +67,12 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 123 [pt-pos/PRON]() tokens (2% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (123; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (123; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (123; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (90; 73%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (74; 60%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (123; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (123; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (123; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (90; 73%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (74; 60%).
 
 `PRON` tokens may have the following values of `Degree`:
 
 * `Cmp` (123; 100% of non-empty `Degree`): <em>mais, outros, mesmo, outras, outro, outra, mesma, tal, menos, tanto</em>
-* `EMPTY` (6574): <em>que, se, ele, o, isso, quem, lhe, tudo, eles, a</em>
+* `EMPTY` (6595): <em>que, se, -se, ele, o, isso, quem, tudo, eles, eu</em>
 
 ## Relations with Agreement in `Degree`
 

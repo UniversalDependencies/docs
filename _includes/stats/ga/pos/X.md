@@ -13,7 +13,7 @@ The 10 most frequent `X` types:  <em>san, (2), (a), (b), so, (1), (c), (3), (4),
 
 The 10 most frequent ambiguous lemmas: <em>sin</em> ([PRON]() 109, [DET]() 106, [X]() 16, [VERB]() 2), <em>(2)</em> ([X]() 12, [NUM]() 1), <em>seo</em> ([DET]() 114, [PRON]() 26, [X]() 10, [VERB]() 4), <em>(1)</em> ([X]() 9, [NUM]() 2), <em>(3)</em> ([X]() 5, [NUM]() 1), <em>(4)</em> ([X]() 5, [NUM]() 1), <em>a</em> ([PART]() 864, [DET]() 182, [X]() 4, [ADP]() 1), <em>dein</em> ([X]() 5, [VERB]() 1), <em>faoi</em> ([ADP]() 106, [X]() 3, [PART]() 1), <em>fás</em> ([VERB]() 4, [X]() 2, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>san</em> ([ADP]() 45, [X]() 16, [PRON]() 4), <em>(2)</em> ([X]() 12, [NUM]() 1), <em>(1)</em> ([X]() 9, [NUM]() 2), <em>(3)</em> ([X]() 5, [NUM]() 1), <em>(4)</em> ([X]() 5, [NUM]() 1), <em>a</em> ([PART]() 855, [DET]() 187, [ADP]() 1, [X]() 1), <em>chan</em> ([X]() 3, [VERB]() 1), <em>dhein</em> ([X]() 2, [VERB]() 1), <em>(5)</em> ([X]() 1, [NUM]() 1), <em>I</em> ([ADP]() 18, [X]() 1)
+The 10 most frequent ambiguous types:  <em>san</em> ([ADP]() 45, [X]() 16, [PRON]() 4), <em>(2)</em> ([X]() 12, [NUM]() 1), <em>(1)</em> ([X]() 9, [NUM]() 2), <em>(3)</em> ([X]() 5, [NUM]() 1), <em>(4)</em> ([X]() 5, [NUM]() 1), <em>a</em> ([PART]() 855, [DET]() 187, [X]() 1, [ADP]() 1), <em>chan</em> ([X]() 3, [VERB]() 1), <em>dhein</em> ([X]() 2, [VERB]() 1), <em>(5)</em> ([X]() 1, [NUM]() 1), <em>I</em> ([ADP]() 18, [X]() 1)
 
 
 * <em>san</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>san</em> ([ADP]() 45, [X]() 16, [PRON
 * <em>a</em>
   * [PART]() 855: <em>Seo an fear <b>a</b> chonaic an bhean .</em>
   * [DET]() 187: <em>Fágann Mícheál na daltaí crom os_cionn <b>a</b> gcuid foghlama .</em>
-  * [ADP]() 1: <em>' Anonn leis de chéim mhall go_dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
   * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
+  * [ADP]() 1: <em>' Anonn leis de chéim mhall go_dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
 * <em>chan</em>
   * [X]() 3: <em>Déantar <b>chan</b> di roimh ghutaí nó f plus guta ag tús focail : cha chuireann / chuireadh / chuirfeadh sé <b>chan</b> fhágann / fhágadh / fhágfadh sé <b>chan</b> ólann / óladh / ólfadh sé .</em>
   * [VERB]() 1: <em>' File cumasach eile ab ea Dónall Ó Muláin , údar an amhráin úd ' An Poc ar Buile ' , amhrán go raibh báidh an phobail leis , agus amhrán a <b>chan</b> Gaeilgeoirí le fuinneamh , le scléip agus le gliondar ní hamháin ar fuaid na hÉireann , ach go deimhin ar fuaid an domhain .</em>

@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Greek)
 
 There are 43 `ADP` lemmas (1%), 60 `ADP` types (1%) and 5105 `ADP` tokens (9%).
-Out of 10 observed tags, the rank of `ADP` is: 6 in number of lemmas, 7 in number of types and 5 in number of tokens.
+Out of 11 observed tags, the rank of `ADP` is: 6 in number of lemmas, 7 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>στου, για, με, από, σε, κατά, προς, μεταξύ, μέχρι, μετά</em>
 
@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>με</em> ([ADP]() 688, [PRON]() 2), 
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.395349 (the average of all parts of speech is 1.774112).
+The form / lemma ratio of `ADP` is 1.395349 (the average of all parts of speech is 1.776033).
 
 The 1st highest number of forms (8) was observed with the lemma “στου”: <em>στ', στα, στη, στην, στις, στο, στον, στους</em>.
 

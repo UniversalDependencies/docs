@@ -97,7 +97,7 @@ The 10 most frequent `CONJ` types:  <em>pa, in, ali, ampak, saj, tako, oziroma, 
 
 The 10 most frequent ambiguous lemmas: <em>in</em> ([CONJ]() 414, [ADV]() 1, [X]() 1), <em>ali</em> ([CONJ]() 113, [ADV]() 12), <em>tako</em> ([ADV]() 233, [CONJ]() 51), <em>torej</em> ([CONJ]() 28, [ADV]() 11), <em>sicer</em> ([CONJ]() 15, [PART]() 14), <em>zato</em> ([ADV]() 20, [CONJ]() 6), <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [CONJ]() 3, [X]() 1), <em>ne</em> ([PART]() 787, [CONJ]() 2), <em>razen</em> ([ADJ]() 1, [CONJ]() 1, [ADP]() 1)
 
-The 10 most frequent ambiguous types:  <em>in</em> ([CONJ]() 414, [ADV]() 1, [X]() 1), <em>ali</em> ([CONJ]() 113, [ADV]() 12), <em>tako</em> ([ADV]() 233, [CONJ]() 51, [DET]() 9, [PRON]() 2), <em>torej</em> ([CONJ]() 28, [ADV]() 11), <em>sicer</em> ([CONJ]() 15, [PART]() 14), <em>zato</em> ([ADV]() 20, [CONJ]() 6), <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [X]() 4, [CONJ]() 3), <em>ne</em> ([PART]() 787, [CONJ]() 2), <em>razen</em> ([CONJ]() 1, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>in</em> ([CONJ]() 414, [ADV]() 1, [X]() 1), <em>ali</em> ([CONJ]() 113, [ADV]() 12), <em>tako</em> ([ADV]() 233, [CONJ]() 51, [DET]() 9, [PRON]() 2), <em>torej</em> ([CONJ]() 28, [ADV]() 11), <em>sicer</em> ([CONJ]() 15, [PART]() 14), <em>zato</em> ([ADV]() 20, [CONJ]() 6), <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [X]() 4, [CONJ]() 3), <em>ne</em> ([PART]() 787, [CONJ]() 2), <em>razen</em> ([ADP]() 1, [CONJ]() 1)
 
 
 * <em>in</em>
@@ -131,8 +131,8 @@ The 10 most frequent ambiguous types:  <em>in</em> ([CONJ]() 414, [ADV]() 1, [X]
   * [PART]() 787: <em>ja <b>ne</b> moreš</em>
   * [CONJ]() 2: <em>no pri eee prispevku pri registraciji bi [gap] za sto evrov in gotovo pa pa ne bi bilo <b>ne</b> vinjet pa <b>ne</b> kontrole na cesti pa razmetavanja za take neumnosti</em>
 * <em>razen</em>
-  * [CONJ]() 1: <em>ti ma [gap] okej <b>razen</b> pač tvojo predstavitev deset do petnajst pol pa še pogovora toliko ne</em>
   * [ADP]() 1: <em>[:voice] samo od uze [gap] izobraževanja samo še to da zdaj je pa marec sredina marca in mislim da moram da <b>razen</b> datumov za junijsko izobraževanje nimamo nič drugega še in da je zdaj pač čas da eem pač dorečemo kaj bomo in kako bomo a ne</em>
+  * [CONJ]() 1: <em>ti ma [gap] okej <b>razen</b> pač tvojo predstavitev deset do petnajst pol pa še pogovora toliko ne</em>
 
 ## Morphology
 

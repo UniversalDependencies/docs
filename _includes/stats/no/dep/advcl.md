@@ -22,13 +22,13 @@ The following 38 pairs of parts of speech are connected with `advcl`: [no-pos/VE
 # visual-style 8 3 advcl	color:blue
 1	Som	som	SCONJ	_	_	3	dobj	_	_
 2	vi	vi	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-3	spør	spørre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+3	spør	spørre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
 4	,	$,	PUNCT	_	_	3	punct	_	_
 5	vil	ville	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 6	vi	vi	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
 7	også	også	ADV	_	_	8	advmod	_	_
 8	få	få	VERB	_	VerbForm=Inf	0	root	_	_
-9	svar	svar	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	8	dobj	_	_
+9	svar	svar	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	8	dobj	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -45,8 +45,8 @@ The following 38 pairs of parts of speech are connected with `advcl`: [no-pos/VE
 3	grusomt	grusom	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 4	å	å	PART	_	_	5	mark	_	_
 5	høre	høre	VERB	_	VerbForm=Inf	3	advcl	_	_
-6	på	på	ADP	_	_	5	compound:prt	_	_
-7	.	$.	PUNCT	_	_	3	punct	_	_
+6	på	på	ADP	_	_	5	compound:prt	_	SpaceAfter=No
+7	.	$.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 8	»	$"	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -65,10 +65,10 @@ The following 38 pairs of parts of speech are connected with `advcl`: [no-pos/VE
 5	så	så	ADV	_	_	6	advmod	_	_
 6	frisk	frisk	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	4	xcomp	_	_
 7	jeg	jeg	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-8	kan	kunne	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+8	kan	kunne	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
 9	,	$,	PUNCT	_	_	4	punct	_	_
 10	sier	si	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
-11	han	han	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+11	han	han	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	SpaceAfter=No
 12	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~

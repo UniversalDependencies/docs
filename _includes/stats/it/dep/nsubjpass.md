@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1929 nodes (1%) are attached to their parents as `nsubjpass`.
+2290 nodes (1%) are attached to their parents as `nsubjpass`.
 
-1341 instances of `nsubjpass` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.9419388284085.
+1526 instances of `nsubjpass` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.70960698689956.
 
-The following 17 pairs of parts of speech are connected with `nsubjpass`: [it-pos/VERB]()-[it-pos/NOUN]() (1502; 78% instances), [it-pos/VERB]()-[it-pos/PRON]() (247; 13% instances), [it-pos/VERB]()-[it-pos/PROPN]() (142; 7% instances), [it-pos/VERB]()-[it-pos/NUM]() (9; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (8; 0% instances), [it-pos/AUX]()-[it-pos/NOUN]() (4; 0% instances), [it-pos/VERB]()-[it-pos/ADJ]() (4; 0% instances), [it-pos/ADJ]()-[it-pos/PROPN]() (2; 0% instances), [it-pos/VERB]()-[it-pos/SYM]() (2; 0% instances), [it-pos/VERB]()-[it-pos/VERB]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances), [it-pos/AUX]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/PRON]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/X]()-[it-pos/NOUN]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `nsubjpass`: [it-pos/VERB]()-[it-pos/NOUN]() (1810; 79% instances), [it-pos/VERB]()-[it-pos/PRON]() (289; 13% instances), [it-pos/VERB]()-[it-pos/PROPN]() (152; 7% instances), [it-pos/VERB]()-[it-pos/NUM]() (9; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (8; 0% instances), [it-pos/AUX]()-[it-pos/NOUN]() (4; 0% instances), [it-pos/VERB]()-[it-pos/ADJ]() (4; 0% instances), [it-pos/ADJ]()-[it-pos/PROPN]() (2; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (2; 0% instances), [it-pos/VERB]()-[it-pos/SYM]() (2; 0% instances), [it-pos/VERB]()-[it-pos/VERB]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances), [it-pos/AUX]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PRON]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/PRON]()-[it-pos/PROPN]() (1; 0% instances), [it-pos/X]()-[it-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 17 pairs of parts of speech are connected with `nsubjpass`: [it-po
 8	di	di	ADP	E	_	10	case	_	_
 9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	leggi	legge	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
-11	speciali	speciale	ADJ	A	Number=Plur	10	amod	_	_
+11	speciali	speciale	ADJ	A	Number=Plur	10	amod	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
@@ -43,12 +43,12 @@ The following 17 pairs of parts of speech are connected with `nsubjpass`: [it-po
 # visual-style 7	fgColor:white
 # visual-style 7 4 nsubjpass	color:blue
 1	È	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubjpass	_	_
 5	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	essere	essere	AUX	VA	VerbForm=Inf	7	auxpass	_	_
-7	sostituiti	sostituire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	parataxis	_	_
+7	sostituiti	sostituire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	parataxis	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	2	punct	_	_
 
 ~~~
@@ -64,7 +64,7 @@ The following 17 pairs of parts of speech are connected with `nsubjpass`: [it-po
 2	venne	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	auxpass	_	_
 3	ucciso	uccidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	John	John	PROPN	SP	_	3	nsubjpass	_	_
-5	Lennon	Lennon	PROPN	SP	_	4	name	_	_
+5	Lennon	Lennon	PROPN	SP	_	4	name	_	SpaceAfter=No
 6	?	?	PUNCT	FS	_	3	punct	_	_
 
 ~~~

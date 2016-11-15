@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>er</em> ([VERB]() 5299, [AUX]() 691, 
   * [VERB]() 346: <em>Starten kunne ha <b>vært</b> bedre .</em>
   * [AUX]() 53: <em>Aldri har så mye fortid og samtid <b>vært</b> ivaretatt på museer .</em>
 * <em>går</em>
-  * [VERB]() 296: <em>Her <b>går</b> de to journalistene om bord i Clintons fly |</em>
+  * [VERB]() 296: <em>Her <b>går</b> de to journalistene om bord i Clintons fly</em>
   * [NOUN]() 56: <em>Da de to møttes i NRK i <b>går</b> kveld , var tonen mer saklig .</em>
 * <em>ha</em>
   * [VERB]() 283: <em>- Å , ja , takk skal du <b>ha</b> da , pappa , takk , sier han med et smil .</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>er</em> ([VERB]() 5299, [AUX]() 691, 
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.166181 (the average of all parts of speech is 1.382722).
+The form / lemma ratio of `VERB` is 2.166181 (the average of all parts of speech is 1.382778).
 
 The 1st highest number of forms (7) was observed with the lemma “bygge”: <em>bygd, bygde, byge, bygge, bygger, bygges, bygget</em>.
 
@@ -80,17 +80,17 @@ Examples: <em>er, har, sier, blir, kommer, går, mener, får, ser, gjør</em>
 
 Parents of `VERB` nodes belong to 14 different parts of speech: [ROOT]() (13780; 34% instances), [VERB]() (11284; 28% instances), [NOUN]() (7361; 18% instances), [ADJ]() (5268; 13% instances), [PRON]() (1159; 3% instances), [ADV]() (647; 2% instances), [PROPN]() (515; 1% instances), [ADP]() (236; 1% instances), [DET]() (185; 0% instances), [NUM]() (99; 0% instances), [X]() (12; 0% instances), [AUX]() (11; 0% instances), [INTJ]() (9; 0% instances), [CONJ]() (2; 0% instances)
 
-7450 (18%) `VERB` nodes are leaves.
+7453 (18%) `VERB` nodes are leaves.
 
-2616 (6%) `VERB` nodes have one child.
+2705 (7%) `VERB` nodes have one child.
 
-4236 (10%) `VERB` nodes have two children.
+4284 (11%) `VERB` nodes have two children.
 
-26266 (65%) `VERB` nodes have three or more children.
+26126 (64%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 14.
 
-Children of `VERB` nodes are attached using 33 different relations: [no-dep/nsubj]() (23229; 18% instances), [no-dep/punct]() (21052; 16% instances), [no-dep/nmod]() (15501; 12% instances), [no-dep/dobj]() (13818; 10% instances), [no-dep/mark]() (12717; 10% instances), [no-dep/advmod]() (8202; 6% instances), [no-dep/aux]() (8143; 6% instances), [no-dep/cc]() (3916; 3% instances), [no-dep/conj]() (3790; 3% instances), [no-dep/xcomp]() (3790; 3% instances), [no-dep/advcl]() (3777; 3% instances), [no-dep/compound:prt]() (2541; 2% instances), [no-dep/ccomp]() (2228; 2% instances), [no-dep/expl]() (1877; 1% instances), [no-dep/nsubjpass]() (1853; 1% instances), [no-dep/neg]() (1842; 1% instances), [no-dep/auxpass]() (1106; 1% instances), [no-dep/parataxis]() (963; 1% instances), [no-dep/iobj]() (695; 1% instances), [no-dep/cop]() (367; 0% instances), [no-dep/csubj]() (278; 0% instances), [no-dep/case]() (264; 0% instances), [no-dep/remnant]() (200; 0% instances), [no-dep/dislocated]() (115; 0% instances), [no-dep/discourse]() (76; 0% instances), [no-dep/appos]() (51; 0% instances), [no-dep/goeswith]() (38; 0% instances), [no-dep/nummod]() (15; 0% instances), [no-dep/name]() (9; 0% instances), [no-dep/csubjpass]() (8; 0% instances), [no-dep/compound]() (2; 0% instances), [no-dep/acl]() (1; 0% instances), [no-dep/det]() (1; 0% instances)
+Children of `VERB` nodes are attached using 33 different relations: [no-dep/nsubj]() (23229; 18% instances), [no-dep/punct]() (20679; 16% instances), [no-dep/nmod]() (15501; 12% instances), [no-dep/dobj]() (13818; 10% instances), [no-dep/mark]() (12717; 10% instances), [no-dep/advmod]() (8202; 6% instances), [no-dep/aux]() (8143; 6% instances), [no-dep/cc]() (3916; 3% instances), [no-dep/conj]() (3790; 3% instances), [no-dep/xcomp]() (3790; 3% instances), [no-dep/advcl]() (3777; 3% instances), [no-dep/compound:prt]() (2541; 2% instances), [no-dep/ccomp]() (2228; 2% instances), [no-dep/expl]() (1877; 1% instances), [no-dep/nsubjpass]() (1853; 1% instances), [no-dep/neg]() (1842; 1% instances), [no-dep/auxpass]() (1106; 1% instances), [no-dep/parataxis]() (963; 1% instances), [no-dep/iobj]() (695; 1% instances), [no-dep/cop]() (367; 0% instances), [no-dep/csubj]() (278; 0% instances), [no-dep/case]() (264; 0% instances), [no-dep/remnant]() (200; 0% instances), [no-dep/dislocated]() (115; 0% instances), [no-dep/discourse]() (76; 0% instances), [no-dep/appos]() (51; 0% instances), [no-dep/goeswith]() (38; 0% instances), [no-dep/nummod]() (15; 0% instances), [no-dep/name]() (9; 0% instances), [no-dep/csubjpass]() (8; 0% instances), [no-dep/compound]() (2; 0% instances), [no-dep/acl]() (1; 0% instances), [no-dep/det]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 17 different parts of speech: [NOUN]() (31629; 24% instances), [PUNCT]() (21052; 16% instances), [PRON]() (18791; 14% instances), [VERB]() (11284; 9% instances), [AUX]() (9249; 7% instances), [ADV]() (7088; 5% instances), [PROPN]() (6878; 5% instances), [ADP]() (6181; 5% instances), [ADJ]() (5847; 4% instances), [SCONJ]() (5364; 4% instances), [PART]() (4111; 3% instances), [CONJ]() (3918; 3% instances), [NUM]() (569; 0% instances), [DET]() (405; 0% instances), [INTJ]() (77; 0% instances), [X]() (20; 0% instances), [SYM]() (2; 0% instances)
+Children of `VERB` nodes belong to 17 different parts of speech: [NOUN]() (31629; 24% instances), [PUNCT]() (20679; 16% instances), [PRON]() (18791; 14% instances), [VERB]() (11284; 9% instances), [AUX]() (9249; 7% instances), [ADV]() (7088; 5% instances), [PROPN]() (6878; 5% instances), [ADP]() (6181; 5% instances), [ADJ]() (5847; 4% instances), [SCONJ]() (5364; 4% instances), [PART]() (4111; 3% instances), [CONJ]() (3918; 3% instances), [NUM]() (569; 0% instances), [DET]() (405; 0% instances), [INTJ]() (77; 0% instances), [X]() (20; 0% instances), [SYM]() (2; 0% instances)
 

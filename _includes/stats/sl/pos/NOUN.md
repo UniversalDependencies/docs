@@ -101,7 +101,7 @@ The 10 most frequent `NOUN` types:  <em>bistvu, dan, redu, strani, jutro, leto, 
 
 The 10 most frequent ambiguous lemmas: <em>dan</em> ([NOUN]() 44, [ADJ]() 1), <em>konec</em> ([NOUN]() 27, [ADP]() 2), <em>svet</em> ([NOUN]() 7, [ADJ]() 1), <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [CONJ]() 3, [X]() 1), <em>minus</em> ([NOUN]() 6, [X]() 1), <em>kot</em> ([SCONJ]() 91, [NOUN]() 5), <em>moški</em> ([ADJ]() 5, [NOUN]() 5), <em>plus</em> ([NOUN]() 5, [ADV]() 1), <em>dolg</em> ([ADJ]() 3, [NOUN]() 3), <em>kamen</em> ([NOUN]() 3, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [X]() 4, [CONJ]() 3), <em>konec</em> ([NOUN]() 6, [ADP]() 2), <em>minus</em> ([NOUN]() 6, [X]() 1), <em>kot</em> ([SCONJ]() 91, [NOUN]() 5), <em>plus</em> ([NOUN]() 5, [ADV]() 1), <em>avto</em> ([NOUN]() 4, [X]() 1), <em>dela</em> ([NOUN]() 4, [VERB]() 3, [X]() 1), <em>r</em> ([NOUN]() 4, [X]() 1), <em>igra</em> ([VERB]() 3, [NOUN]() 3), <em>mark</em> ([NOUN]() 3, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [X]() 4, [CONJ]() 3), <em>konec</em> ([NOUN]() 6, [ADP]() 2), <em>minus</em> ([NOUN]() 6, [X]() 1), <em>kot</em> ([SCONJ]() 91, [NOUN]() 5), <em>plus</em> ([NOUN]() 5, [ADV]() 1), <em>avto</em> ([NOUN]() 4, [X]() 1), <em>dela</em> ([NOUN]() 4, [VERB]() 3, [X]() 1), <em>r</em> ([NOUN]() 4, [X]() 1), <em>igra</em> ([NOUN]() 3, [VERB]() 3), <em>mark</em> ([NOUN]() 3, [PROPN]() 1)
 
 
 * <em>a</em>
@@ -133,8 +133,8 @@ The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 137, [INTJ]() 16, [NO
   * [NOUN]() 4: <em>[audience:laughter] ja zdaj vemo eee višina dva <b>r</b> lahko vemo ne iz tega</em>
   * [X]() 1: <em><b>r</b> [gap] ja</em>
 * <em>igra</em>
-  * [VERB]() 3: <em>bartosz bosacki je izkušen nogometaš triintridesetletni branilec ki <b>igra</b> za lech iz poznanja</em>
   * [NOUN]() 3: <em>tvoja <b>igra</b> tvoj premierni hitri kviz se začenja zdaj</em>
+  * [VERB]() 3: <em>bartosz bosacki je izkušen nogometaš triintridesetletni branilec ki <b>igra</b> za lech iz poznanja</em>
 * <em>mark</em>
   * [NOUN]() 3: <em>sem rekel ta bo in sem dal za njega sedemsto <b>mark</b></em>
   * [PROPN]() 1: <em>najprej sta bila za glavno vlogo predvidena hugh jackman in <b>mark</b> wahlberg drži ali ne drži ?</em>

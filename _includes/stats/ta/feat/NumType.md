@@ -29,7 +29,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 52 [ta-pos/ADJ]() tokens (8% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (52; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (52; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (52; 100%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (52; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (52; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (52; 100%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 9 [ta-pos/PRON]() tokens (4% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (9; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (9; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (9; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (9; 100%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (9; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (9; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (9; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (9; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%).
 
 `PRON` tokens may have the following values of `NumType`:
 

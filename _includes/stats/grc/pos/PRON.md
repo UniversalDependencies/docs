@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: <em>ἐγώ, ὁ, ὅς, αὐτός, σύ, 
 
 The 10 most frequent `PRON` types:  <em>οἱ, μοι, τις, ἐγὼ, τι, μιν, τί, τὸν, ταῦτα, μ̓</em>
 
-The 10 most frequent ambiguous lemmas: <em>ἐγώ</em> ([PRON]() 2390, [NOUN]() 2), <em>ὁ</em> ([DET]() 17027, [PRON]() 1944), <em>ὅς</em> ([PRON]() 1701, [ADJ]() 22, [DET]() 1), <em>αὐτός</em> ([PRON]() 1441, [ADJ]() 882, [ADV]() 1), <em>σύ</em> ([PRON]() 1398, [NOUN]() 1, [ADV]() 1), <em>τις</em> ([PRON]() 1369, [ADJ]() 192, [NOUN]() 1), <em>ὅδε</em> ([PRON]() 1178, [ADJ]() 50), <em>οὗτος</em> ([PRON]() 1149, [ADJ]() 826), <em>ἑαυτοῦ</em> ([PRON]() 324, [ADJ]() 44), <em>σφεῖς</em> ([PRON]() 304, [ADJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>ἐγώ</em> ([PRON]() 2390, [NOUN]() 2), <em>ὁ</em> ([DET]() 17027, [PRON]() 1944), <em>ὅς</em> ([PRON]() 1701, [ADJ]() 22, [DET]() 1), <em>αὐτός</em> ([PRON]() 1441, [ADJ]() 882, [ADV]() 1), <em>σύ</em> ([PRON]() 1398, [ADV]() 1, [NOUN]() 1), <em>τις</em> ([PRON]() 1369, [ADJ]() 192, [NOUN]() 1), <em>ὅδε</em> ([PRON]() 1178, [ADJ]() 50), <em>οὗτος</em> ([PRON]() 1149, [ADJ]() 826), <em>ἑαυτοῦ</em> ([PRON]() 324, [ADJ]() 44), <em>σφεῖς</em> ([PRON]() 304, [ADJ]() 2)
 
 The 10 most frequent ambiguous types:  <em>οἱ</em> ([DET]() 833, [PRON]() 544), <em>τις</em> ([PRON]() 449, [ADJ]() 30), <em>τι</em> ([PRON]() 363, [ADJ]() 42, [ADV]() 11), <em>τί</em> ([PRON]() 287, [ADJ]() 11, [ADV]() 5), <em>τὸν</em> ([DET]() 1316, [PRON]() 267, [ADJ]() 1), <em>ταῦτα</em> ([PRON]() 261, [ADJ]() 116), <em>αὐτῶν</em> ([PRON]() 218, [ADJ]() 50), <em>ὧν</em> ([PRON]() 194, [ADJ]() 3, [ADV]() 2), <em>τάδε</em> ([PRON]() 187, [ADJ]() 6), <em>τίς</em> ([PRON]() 185, [ADJ]() 18)
 

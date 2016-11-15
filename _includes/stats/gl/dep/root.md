@@ -64,3 +64,75 @@ The following 9 pairs of parts of speech are connected with `root`: [gl-pos/ROOT
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+1000 nodes (4%) are attached to their parents as `root`.
+
+1000 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.148.
+
+The following 10 pairs of parts of speech are connected with `root`: [gl-pos/ROOT]()-[gl-pos/VERB]() (689; 69% instances), [gl-pos/ROOT]()-[gl-pos/NOUN]() (166; 17% instances), [gl-pos/ROOT]()-[gl-pos/ADJ]() (59; 6% instances), [gl-pos/ROOT]()-[gl-pos/PROPN]() (39; 4% instances), [gl-pos/ROOT]()-[gl-pos/PRON]() (27; 3% instances), [gl-pos/ROOT]()-[gl-pos/ADV]() (15; 2% instances), [gl-pos/ROOT]()-[gl-pos/NUM]() (2; 0% instances), [gl-pos/ROOT]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/ROOT]()-[gl-pos/INTJ]() (1; 0% instances), [gl-pos/ROOT]()-[gl-pos/X]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 2 root	color:blue
+1	só	só	ADV	Wn	_	2	advmod	_	_
+2	dedican	dedicar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	2	dobj	_	_
+5	en	en	ADP	P	AdpType=Prep	6	case	_	_
+6	Os_Estados_Unidos	Os_Estados_Unidos	PROPN	Sp00	_	2	nmod	_	_
+7	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 1 root	color:blue
+1	liberdade	liberdade	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
+2	,	,	PUNCT	Q,	_	1	punct	_	_
+3	xustiza	xustiza	NOUN	Scfs	Gender=Fem|Number=Sing	1	conj	_	_
+4	,	,	PUNCT	Q,	_	1	punct	_	_
+5	benestar	benestar	NOUN	Scms	Gender=Masc|Number=Sing	1	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 13 root	color:blue
+1	de	de	ADP	P	AdpType=Prep	3	case	_	_
+2	todos	todo	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	modos	modo	NOUN	Scmp	Gender=Masc|Number=Plur	13	nmod	_	_
+4	,	,	PUNCT	Q,	_	13	punct	_	_
+5	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	meu	meu	DET	Md1sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	7	det	_	_
+7	público	público	NOUN	Scms	Gender=Masc|Number=Sing	13	nsubj	_	_
+8	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+9	,	,	PUNCT	Q,	_	13	punct	_	_
+10	sobre	sobre	ADP	P	AdpType=Prep	11	case	_	_
+11	todo	todo	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	13	nmod	_	_
+12	,	,	PUNCT	Q,	_	13	punct	_	_
+13	xuvenil	xuvenil	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	_
+14	.	.	PUNCT	Q.	_	13	punct	_	_
+
+~~~
+
+

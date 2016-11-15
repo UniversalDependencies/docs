@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>no, hei, voi, ai, joo, okei, tuota, kuul
 
 The 10 most frequent `INTJ` types:  <em>no, hei, voi, ai, joo, okei, kuule, ugh, jumalauta, kato</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> ([INTJ]() 44, [ADV]() 3), <em>voi</em> ([INTJ]() 9, [NOUN]() 5), <em>joo</em> ([INTJ]() 8, [ADV]() 1), <em>hip</em> ([INTJ]() 2, [NOUN]() 1, [PROPN]() 1), <em>hitto</em> ([INTJ]() 2, [NOUN]() 1), <em>mm</em> ([ADV]() 8, [INTJ]() 2), <em>niin</em> ([ADV]() 357, [CONJ]() 34, [SCONJ]() 4, [INTJ]() 2), <em>piru</em> ([INTJ]() 2, [NOUN]() 1), <em>Huom</em> ([INTJ]() 1, [NOUN]() 1), <em>että</em> ([SCONJ]() 1297, [CONJ]() 58, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>no</em> ([INTJ]() 44, [ADV]() 3), <em>voi</em> ([INTJ]() 9, [NOUN]() 5), <em>joo</em> ([INTJ]() 8, [ADV]() 1), <em>hip</em> ([INTJ]() 2, [PROPN]() 1, [NOUN]() 1), <em>hitto</em> ([INTJ]() 2, [NOUN]() 1), <em>mm</em> ([ADV]() 8, [INTJ]() 2), <em>niin</em> ([ADV]() 357, [CONJ]() 34, [SCONJ]() 4, [INTJ]() 2), <em>piru</em> ([INTJ]() 2, [NOUN]() 1), <em>Huom</em> ([INTJ]() 1, [NOUN]() 1), <em>että</em> ([SCONJ]() 1297, [CONJ]() 58, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>voi</em> ([AUX]() 335, [INTJ]() 3, [NOUN]() 2, [VERB]() 1), <em>ai</em> ([VERB]() 2, [INTJ]() 1), <em>kuule</em> ([VERB]() 6, [INTJ]() 4), <em>kato</em> ([INTJ]() 2, [VERB]() 1), <em>vie</em> ([INTJ]() 4, [VERB]() 3), <em>hip</em> ([INTJ]() 2, [PROPN]() 1, [NOUN]() 1), <em>niin</em> ([ADV]() 290, [CONJ]() 34, [SCONJ]() 2, [INTJ]() 2), <em>piru</em> ([INTJ]() 2, [NOUN]() 1), <em>tuota</em> ([PRON]() 8, [VERB]() 2, [INTJ]() 2), <em>Huom</em> ([NOUN]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>voi</em> ([AUX]() 335, [INTJ]() 3, [NOUN]() 2, [VERB]() 1), <em>ai</em> ([VERB]() 2, [INTJ]() 1), <em>kuule</em> ([VERB]() 6, [INTJ]() 4), <em>kato</em> ([INTJ]() 2, [VERB]() 1), <em>vie</em> ([INTJ]() 4, [VERB]() 3), <em>hip</em> ([INTJ]() 2, [NOUN]() 1, [PROPN]() 1), <em>niin</em> ([ADV]() 290, [CONJ]() 34, [INTJ]() 2, [SCONJ]() 2), <em>piru</em> ([INTJ]() 2, [NOUN]() 1), <em>tuota</em> ([PRON]() 8, [INTJ]() 2, [VERB]() 2), <em>Huom</em> ([NOUN]() 1, [INTJ]() 1)
 
 
 * <em>voi</em>
@@ -35,20 +35,20 @@ The 10 most frequent ambiguous types:  <em>voi</em> ([AUX]() 335, [INTJ]() 3, [N
   * [VERB]() 3: <em>Jos virta minun yli <b>vie</b> , viekööt .</em>
 * <em>hip</em>
   * [INTJ]() 2: <em>tänä päivänä hollantilaiset löysivät Manhattanin ( <b>hip</b> <b>hip</b> hurraa ! ) eli Nieuve Amsterdamin .</em>
-  * [PROPN]() 1: <em>Joku Roti Records ( lyh. JRR ) on lappilainen <b>hip</b> hop -musiikkiin keskittynyt levy-yhtiö .</em>
   * [NOUN]() 1: <em>Monkey Business jatkaa samalla linjalla kuin aiempi albumi Elephunk : funkahtavaa <b>hip</b> hopia maustettuna dance-vaikutteilla .</em>
+  * [PROPN]() 1: <em>Joku Roti Records ( lyh. JRR ) on lappilainen <b>hip</b> hop -musiikkiin keskittynyt levy-yhtiö .</em>
 * <em>niin</em>
   * [ADV]() 290: <em>Ottakaa minut mukaan , <b>niin</b> saatte luotettavan turvamiehen .</em>
   * [CONJ]() 34: <em>Oman kanavansa saavat <b>niin</b> naiset sekä tv-sarjat että scifin harrastajat .</em>
-  * [SCONJ]() 2: <em>Asianajajat tekevät sellaisia sopimuksia , että maksa viisi tonnia , <b>niin</b> järjestän sinut ulos .</em>
   * [INTJ]() 2: <em>Ai <b>niin</b> , meinasi julkinen painostus unohtua :</em>
+  * [SCONJ]() 2: <em>Asianajajat tekevät sellaisia sopimuksia , että maksa viisi tonnia , <b>niin</b> järjestän sinut ulos .</em>
 * <em>piru</em>
   * [INTJ]() 2: <em>Hän ei ollut alati ulalla eikä iäti pihalla , hän oli <b>piru</b> vie ajatteleva ihmisolento .</em>
   * [NOUN]() 1: <em>Milloin niissä ilmestyy puhuva <b>piru</b> , milloin entinen opiskelutoveri , toinen taiteilija .</em>
 * <em>tuota</em>
   * [PRON]() 8: <em>Lähdin oitis etsimään <b>tuota</b> henkilöä .</em>
-  * [VERB]() 2: <em>Jos viejä ei <b>tuota</b> tai myy samankaltaista tuotetta viejämaassa , normaaliarvo määritetään muiden myyjien tai tuottajien hintojen perusteella .</em>
   * [INTJ]() 2: <em>kato kun <b>tuota</b> mie olin talvella sairaalassa viikon ja <b>tuota</b> mie jo sitä maksoin yli kakssattoo ja nyt tul ´ se lasku nii ei sieltä o vähennetty vielä yhttään .</em>
+  * [VERB]() 2: <em>Jos viejä ei <b>tuota</b> tai myy samankaltaista tuotetta viejämaassa , normaaliarvo määritetään muiden myyjien tai tuottajien hintojen perusteella .</em>
 * <em>Huom</em>
   * [NOUN]() 1: <em><b>Huom</b> !</em>
   * [INTJ]() 1: <em><b>Huom</b> ! Vaativat javascriptin toimiakseen .</em>
@@ -105,9 +105,9 @@ The 10 most frequent `INTJ` lemmas: <em>no, voi, hei, joo, ai, jumalauta, saatan
 
 The 10 most frequent `INTJ` types:  <em>no, voi, hei, joo, ai, jumalauta, saatana, okei, heh, senkin</em>
 
-The 10 most frequent ambiguous lemmas: <em>voi</em> ([INTJ]() 40, [NOUN]() 10), <em>saatana</em> ([INTJ]() 8, [NOUN]() 7), <em>moi</em> ([INTJ]() 4, [PROPN]() 1), <em>jaa</em> ([INTJ]() 2, [NOUN]() 1), <em>juu</em> ([INTJ]() 2, [NOUN]() 1), <em>terve</em> ([ADJ]() 12, [INTJ]() 2), <em>aa</em> ([NOUN]() 1, [INTJ]() 1), <em>mm</em> ([PART]() 2, [INTJ]() 1), <em>piru</em> ([NOUN]() 10, [INTJ]() 1), <em>saakeli</em> ([NOUN]() 3, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>voi</em> ([INTJ]() 40, [NOUN]() 10), <em>saatana</em> ([INTJ]() 8, [NOUN]() 7), <em>moi</em> ([INTJ]() 4, [PROPN]() 1), <em>jaa</em> ([INTJ]() 2, [NOUN]() 1), <em>juu</em> ([INTJ]() 2, [NOUN]() 1), <em>terve</em> ([ADJ]() 12, [INTJ]() 2), <em>aa</em> ([INTJ]() 1, [NOUN]() 1), <em>mm</em> ([PART]() 2, [INTJ]() 1), <em>piru</em> ([NOUN]() 10, [INTJ]() 1), <em>saakeli</em> ([NOUN]() 3, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>voi</em> ([VERB]() 308, [INTJ]() 16), <em>senkin</em> ([INTJ]() 5, [DET]() 2), <em>terve</em> ([ADJ]() 3, [INTJ]() 1), <em>Piru</em> ([NOUN]() 1, [INTJ]() 1), <em>aa</em> ([INTJ]() 1, [NOUN]() 1), <em>mm</em> ([PART]() 2, [INTJ]() 1), <em>sait</em> ([VERB]() 2, [INTJ]() 1), <em>viis</em> ([NUM]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>voi</em> ([VERB]() 308, [INTJ]() 16), <em>senkin</em> ([INTJ]() 5, [DET]() 2), <em>terve</em> ([ADJ]() 3, [INTJ]() 1), <em>Piru</em> ([INTJ]() 1, [NOUN]() 1), <em>aa</em> ([INTJ]() 1, [NOUN]() 1), <em>mm</em> ([PART]() 2, [INTJ]() 1), <em>sait</em> ([VERB]() 2, [INTJ]() 1), <em>viis</em> ([NUM]() 2, [INTJ]() 1)
 
 
 * <em>voi</em>
@@ -120,8 +120,8 @@ The 10 most frequent ambiguous types:  <em>voi</em> ([VERB]() 308, [INTJ]() 16),
   * [ADJ]() 3: <em>Olemme onnekkaita , että Jemina on ollut <b>terve</b> .</em>
   * [INTJ]() 1: <em>Terve <b>terve</b></em>
 * <em>Piru</em>
-  * [NOUN]() 1: <em><b>Piru</b> vie .</em>
   * [INTJ]() 1: <em><b>Piru</b> kun ei älytty kopata sitä kiinni !</em>
+  * [NOUN]() 1: <em><b>Piru</b> vie .</em>
 * <em>aa</em>
   * [INTJ]() 1: <em>Sanokaa <b>aa</b> .</em>
   * [NOUN]() 1: <em>Mä ajattelin tehdä tietokoneella tämmösen <b>aa</b> nalosen se oli kai Naavan Sakarin idea mikä toimis lippuna ja ohjelmana saman tien ja täällä sitten lukee blaa blaa ja kahvitarjoilu .</em>

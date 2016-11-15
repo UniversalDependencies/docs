@@ -9,7 +9,7 @@ This relation is universal.
 199 nodes (0%) are attached to their parents as `dep`.
 
 163 instances of `dep` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.79396984924623.
+Average distance between parent and child is 6.79899497487437.
 
 The following 38 pairs of parts of speech are connected with `dep`: [pt-pos/VERB]()-[pt-pos/VERB]() (37; 19% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (24; 12% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (19; 10% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (17; 9% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (17; 9% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (10; 5% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (7; 4% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (6; 3% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (5; 3% instances), [pt-pos/INTJ]()-[pt-pos/INTJ]() (5; 3% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (5; 3% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (4; 2% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (4; 2% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (4; 2% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (3; 2% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (3; 2% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (2; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (2; 1% instances), [pt-pos/NOUN]()-[pt-pos/INTJ]() (2; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (2; 1% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (2; 1% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (2; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (2; 1% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (1; 1% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 1% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 1% instances), [pt-pos/INTJ]()-[pt-pos/NOUN]() (1; 1% instances), [pt-pos/INTJ]()-[pt-pos/PROPN]() (1; 1% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 1% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/PRON]()-[pt-pos/INTJ]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/INTJ]() (1; 1% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 1% instances).
 
@@ -68,6 +68,86 @@ The following 38 pairs of parts of speech are connected with `dep`: [pt-pos/VERB
 6	ficou	ficar	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	aquém	aquém	ADV	adv	_	6	advmod	_	_
 8	.	.	PUNCT	punc	_	6	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+1010 nodes (0%) are attached to their parents as `dep`.
+
+679 instances of `dep` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.10594059405941.
+
+The following 50 pairs of parts of speech are connected with `dep`: [pt-pos/VERB]()-[pt-pos/VERB]() (448; 44% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (85; 8% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (56; 6% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (55; 5% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (54; 5% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (39; 4% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (27; 3% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (26; 3% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (20; 2% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (19; 2% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (17; 2% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (14; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (12; 1% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (11; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (11; 1% instances), [pt-pos/VERB]()-[pt-pos/DET]() (9; 1% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (8; 1% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (7; 1% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (7; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (6; 1% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (6; 1% instances), [pt-pos/NUM]()-[pt-pos/DET]() (6; 1% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (6; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (6; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (6; 1% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/DET]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/PART]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (3; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/PART]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/NOUN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 10 dep	color:blue
+1	«	«	PUNCT	PU|@PU	_	5	punct	_	_
+2	Também	também	ADV	ADV|@ADVL>	_	5	advmod	_	_
+3	não	não	ADV	ADV|@ADVL>	_	5	neg	_	_
+4	nos	nós	PRON	<refl>|PERS|M/F|1P|ACC|@ACC>	Case=Acc|Gender=Unsp|Number=Plur|Person=1|PronType=Prs	5	dobj	_	_
+5	interessa	interessar	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	SCONJ	KS|@SUB	_	10	mark	_	_
+7	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	jogador	jogador	NOUN	<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	estava	estar	VERB	<first-cjt>|<mv>|V|IMPF|3S|IND|@FS-<SUBJ	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+10	internado	internar	VERB	<mv>|V|PCP|M|S|@ICL-<SC	Gender=Masc|Number=Sing|VerbForm=Part	5	dep	_	_
+11	ou	ou	CONJ	<co-sc>|KC|@CO	_	10	cc	_	_
+12	não	não	ADV	ADV|@<SC	_	10	xcomp	_	_
+13	.	.	PUNCT	PU|@PU	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 dep	color:blue
+1	Se	se	SCONJ	KS|@SUB	_	3	mark	_	_
+2	estamos	estar	VERB	<mv>|V|PR|1P|IND|@FS-ADVL>	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	atrasados	atrasar	VERB	<mv>|V|PCP|M|P|@ICL-<SC	Gender=Masc|Number=Plur|VerbForm=Part	7	dep	_	_
+4	,	,	PUNCT	PU|@PU	_	3	punct	_	_
+5	é	ser	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	um	um	NUM	<card>|NUM|M|S|@>N	_	7	nummod	_	_
+7	ano	ano	NOUN	<first-cjt>|<np-def>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	_
+8	ou	ou	CONJ	<co-sc>|KC|@CO	_	7	cc	_	_
+9	dois	dois	NUM	<cjt>|<card>|NUM|M|P|@<SC	_	7	conj	_	_
+10	.	.	PUNCT	PU|@PU	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 dep	color:blue
+1	Tinham	ter	VERB	<mv>|<first-cjt>|V|IMPF|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	a	o	DET	<artd>|DET|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	barba	barba	NOUN	<np-def>|N|F|S|@<ACC	Gender=Fem|Number=Sing	1	dobj	_	_
+4	por	por	ADP	<first-cjt>|PRP|@<PIV	_	5	mark	_	_
+5	fazer	fazer	VERB	<mv>|<first-cjt>|V|INF|@ICL-<PIV	VerbForm=Inf	1	dep	_	_
+6	,	,	PUNCT	PU|@PU	_	8	punct	_	_
+7	estavam	estar	VERB	<mv>|<cjt>|V|IMPF|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+8	exaustos	exaurir	VERB	<mv>|<first-cjt>|V|PCP|M|P|@ICL-<SC	Gender=Masc|Number=Plur|VerbForm=Part	1	dep	_	_
+9	e	e	CONJ	<co-sc>|KC|@CO	_	8	cc	_	_
+10	famintos	faminto	ADJ	ADJ|M|P|@ICL-<SC	Gender=Masc|Number=Plur	8	dep	_	_
+11	.	.	PUNCT	PU|@PU	_	1	punct	_	_
 
 ~~~
 

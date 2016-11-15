@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Greek)
 
 There are 28 `CONJ` lemmas (0%), 30 `CONJ` types (0%) and 2973 `CONJ` tokens (5%).
-Out of 10 observed tags, the rank of `CONJ` is: 8 in number of lemmas, 8 in number of types and 7 in number of tokens.
+Out of 11 observed tags, the rank of `CONJ` is: 8 in number of lemmas, 8 in number of types and 7 in number of tokens.
 
 The 10 most frequent `CONJ` lemmas: <em>και, ότι, αλλά, αν, ενώ, ή, ωστόσο, όμως, όταν, προκειμένου</em>
 
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>καθώς</em> ([ADV]() 41, [CONJ]()
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 1.071429 (the average of all parts of speech is 1.774112).
+The form / lemma ratio of `CONJ` is 1.071429 (the average of all parts of speech is 1.776033).
 
 The 1st highest number of forms (2) was observed with the lemma “αν”: <em>αν, εάν</em>.
 
@@ -51,7 +51,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ή”: <em>ή
 
 `CONJ` nodes are attached to their parents using 5 different relations: [el-dep/cc]() (2023; 68% instances), [el-dep/mark]() (927; 31% instances), [el-dep/advmod]() (19; 1% instances), [el-dep/conj]() (2; 0% instances), [el-dep/remnant]() (2; 0% instances)
 
-Parents of `CONJ` nodes belong to 8 different parts of speech: [VERB]() (1546; 52% instances), [NOUN]() (961; 32% instances), [ADJ]() (242; 8% instances), [ADV]() (78; 3% instances), [CONJ]() (58; 2% instances), [ADP]() (42; 1% instances), [NUM]() (25; 1% instances), [PRON]() (21; 1% instances)
+Parents of `CONJ` nodes belong to 9 different parts of speech: [VERB]() (1546; 52% instances), [NOUN]() (961; 32% instances), [ADJ]() (242; 8% instances), [ADV]() (78; 3% instances), [CONJ]() (58; 2% instances), [ADP]() (42; 1% instances), [NUM]() (25; 1% instances), [PRON]() (20; 1% instances), [DET]() (1; 0% instances)
 
 2449 (82%) `CONJ` nodes are leaves.
 

@@ -26,9 +26,9 @@ The following 7 pairs of parts of speech are connected with `nsubjpass`: [fa-pos
 4	از	از	ADP	P	_	3	mwe	_	_
 5	منظومه	منظومه	NOUN	N_SING	Number=Sing	2	nmod	_	_
 6	شمسی	شمسی	ADJ	ADJ	Degree=Pos	5	amod	_	_
-7	دیده	_	VERB	V_PP	Number=Sing|Person=3|VerbForm=Part	0	root	_	_
-8	شد	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	7	auxpass	_	_
-9	.	_	PUNCT	DELM	_	7	punct	_	_
+7	دیده	دید	VERB	V_PP	Number=Sing|Person=3|VerbForm=Part	0	root	_	_
+8	شد	کرد#کن	VERB	V_PA	Number=Sing|Person=3|Tense=Past	7	auxpass	_	_
+9	.	.	PUNCT	DELM	_	7	punct	_	_
 
 ~~~
 
@@ -39,18 +39,18 @@ The following 7 pairs of parts of speech are connected with `nsubjpass`: [fa-pos
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 1 nsubjpass	color:blue
-1	منابع	_	NOUN	N_PL	Number=Plur	10	nsubjpass	_	_
-2	غذایی	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
+1	منابع	منبع	NOUN	N_PL	Number=Plur	10	nsubjpass	_	_
+2	غذایی	غذا	ADJ	ADJ	Degree=Pos	1	amod	_	_
 3	کربوهیدرات‌ها	_	NOUN	N_PL	Number=Plur	1	nmod:poss	_	_
 4	به	به	ADP	P	_	6	case	_	_
-5	دو	_	NUM	NUM	NumType=Card	6	nummod	_	_
-6	دسته	_	NOUN	N_SING	Number=Sing	10	nmod	_	_
-7	گیاهی	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+5	دو	دو	NUM	NUM	NumType=Card	6	nummod	_	_
+6	دسته	دسته	NOUN	N_SING	Number=Sing	10	nmod	_	_
+7	گیاهی	گیاهی	ADJ	ADJ	Degree=Pos	6	amod	_	_
 8	و	و	CONJ	CON	_	7	cc	_	_
 9	جانوری	_	ADJ	ADJ	Degree=Pos	7	conj	_	_
-10	تقسیم	_	NOUN	N_SING	Number=Sing	0	root	_	_
-11	می‌شوند	_	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	10	cop	_	_
-12	.	_	PUNCT	DELM	_	10	punct	_	_
+10	تقسیم	تقسیم	NOUN	N_SING	Number=Sing	0	root	_	_
+11	می‌شوند	کرد#کن	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	10	cop	_	_
+12	.	.	PUNCT	DELM	_	10	punct	_	_
 
 ~~~
 
@@ -61,21 +61,21 @@ The following 7 pairs of parts of speech are connected with `nsubjpass`: [fa-pos
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubjpass	color:blue
-1	دست	_	NOUN	N_SING	Number=Sing	5	nsubjpass	_	_
+1	دست	دست	NOUN	N_SING	Number=Sing	5	nsubjpass	_	_
 2	به	به	ADP	P	_	3	case	_	_
-3	طرف	_	NOUN	N_SING	Number=Sing	5	nmod	_	_
-4	کیف	_	NOUN	N_SING	Number=Sing	3	nmod:poss	_	_
-5	دراز	از	ADJ	ADJ	Degree=Pos	0	root	_	_
-6	شده	_	VERB	V_PP	Number=Sing|Person=3|VerbForm=Part	5	cop	_	_
-7	است	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	6	aux	_	_
+3	طرف	طرف	NOUN	N_SING	Number=Sing	5	nmod	_	_
+4	کیف	کیف	NOUN	N_SING	Number=Sing	3	nmod:poss	_	_
+5	دراز	دراز	ADJ	ADJ	Degree=Pos	0	root	_	_
+6	شده	کرد#کن	VERB	V_PP	Number=Sing|Person=3|VerbForm=Part	5	cop	_	_
+7	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	6	aux	_	_
 8	و	و	CONJ	CON	_	5	cc	_	_
-9	آن	_	PRON	PRO	Number=Sing|PronType=Dem	14	dobj	_	_
+9	آن	آن	PRON	PRO	Number=Sing|PronType=Dem	14	dobj	_	_
 10	را	را	PART	CLITIC	_	9	case	_	_
 11	به	به	ADP	P	_	12	case	_	_
-12	جانب	_	NOUN	N_SING	Number=Sing	14	nmod	_	_
-13	خود	_	PRON	PRO	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	nmod:poss	_	_
-14	می‌کشد	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	5	conj	_	_
-15	.	_	PUNCT	DELM	_	5	punct	_	_
+12	جانب	جانب	NOUN	N_SING	Number=Sing	14	nmod	_	_
+13	خود	خود	PRON	PRO	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	nmod:poss	_	_
+14	می‌کشد	کشید#کش	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	5	conj	_	_
+15	.	.	PUNCT	DELM	_	5	punct	_	_
 
 ~~~
 

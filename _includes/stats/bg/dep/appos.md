@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `appos`.
+17 nodes (0%) are attached to their parents as `appos`.
 
-13 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.46153846153846.
+15 instances of `appos` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.35294117647059.
 
-The following 5 pairs of parts of speech are connected with `appos`: [bg-pos/NOUN]()-[bg-pos/NOUN]() (6; 46% instances), [bg-pos/PRON]()-[bg-pos/NOUN]() (3; 23% instances), [bg-pos/ADV]()-[bg-pos/NOUN]() (2; 15% instances), [bg-pos/PROPN]()-[bg-pos/NOUN]() (1; 8% instances), [bg-pos/PROPN]()-[bg-pos/PROPN]() (1; 8% instances).
+The following 6 pairs of parts of speech are connected with `appos`: [bg-pos/NOUN]()-[bg-pos/NOUN]() (8; 47% instances), [bg-pos/PRON]()-[bg-pos/NOUN]() (4; 24% instances), [bg-pos/PROPN]()-[bg-pos/NOUN]() (2; 12% instances), [bg-pos/NOUN]()-[bg-pos/PROPN]() (1; 6% instances), [bg-pos/PROPN]()-[bg-pos/PROPN]() (1; 6% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (1; 6% instances).
 
 
 ~~~ conllu
@@ -66,41 +66,31 @@ The following 5 pairs of parts of speech are connected with `appos`: [bg-pos/NOU
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 17 appos	color:blue
-1	Колкото	колкото	ADV	Prq	NumType=Card|PronType=Rel	4	advmod	_	_
-2	и	и	CONJ	Cp	_	4	cc	_	_
-3	да	да	PART	Tx	_	4	aux	_	_
-4	изглежда	изглежда	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	advcl	_	_
-5	близо	близо	ADV	Dl	_	4	dobj	_	_
-6	(	(	PUNCT	punct	_	8	punct	_	_
-7	6-7	6-7	NUM	Mc-pi	Definite=Ind|Number=Plur|NumType=Card	8	nummod	_	_
-8	години	година	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	5	appos	_	_
-9	за	за	ADP	R	_	10	case	_	_
-10	политиците	политик	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	8	nmod	_	_
-11	)	)	PUNCT	punct	_	8	punct	_	_
-12	или	или	CONJ	Cp	_	5	cc	_	_
-13	далеч	далеч	ADV	Dl	_	5	conj	_	_
-14	(	(	PUNCT	punct	_	17	punct	_	_
-15	поне	поне	ADV	Dd	_	17	advmod	_	_
-16	едно	един	NUM	Mcnsi	Definite=Ind|Gender=Neut|Number=Sing|NumType=Card	17	nummod	_	_
-17	десетилетие	десетилетие	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	13	appos	_	_
-18	за	за	ADP	R	_	19	case	_	_
-19	реалистите	реалист	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	17	nmod	_	_
-20	)	)	PUNCT	punct	_	17	punct	_	_
-21	,	,	PUNCT	punct	_	4	punct	_	_
-22	един	един	DET	Pfe-os-mi	Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	23	det	_	_
-23	ден	ден	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	26	nmod	_	_
-24	българинът	българин	NOUN	Ncmsf	Definite=Def|Gender=Masc|Number=Sing	26	nsubj	_	_
-25	ще	ще	PART	Tx	_	26	aux	_	_
-26	стане	стана	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-27	част	част	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	26	dobj	_	_
-28	от	от	ADP	R	_	29	case	_	_
-29	Европа	европа	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	27	nmod	_	_
-30	.	.	PUNCT	punct	_	26	punct	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 18 appos	color:blue
+1	От	от	ADP	R	_	3	nmod	_	_
+2	вчера	вчера	ADV	Dt	_	1	advmod	_	_
+3	стартира	стартирам	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	и	и	CONJ	Cp	_	6	cc	_	_
+5	автоматизираната	автоматизирам	ADJ	Vpptcv--sfd	Aspect=Perf|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	система	система	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	_
+7	за	за	ADP	R	_	8	case	_	_
+8	търговия	търговия	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	_
+9	на	на	ADP	R	_	10	case	_	_
+10	борсата	борса	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
+11	,	,	PUNCT	punct	_	12	punct	_	_
+12	известна	известен	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+13	като	като	ADP	R	_	14	case	_	_
+14	RTS	rts	PROPN	Npnsi	Definite=Ind|Gender=Neut|Number=Sing	12	nmod	_	_
+15	(	(	PUNCT	punct	_	18	punct	_	_
+16	Руска	руски	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+17	търговска	търговски	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	система	система	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	14	appos	_	_
+19	)	)	PUNCT	punct	_	18	punct	_	_
+20	.	.	PUNCT	punct	_	3	punct	_	_
 
 ~~~
 

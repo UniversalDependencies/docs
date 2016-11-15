@@ -39,36 +39,26 @@ The following 4 pairs of parts of speech are connected with `appos`: [la-pos/NOU
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 appos	color:blue
-1	Humana	humanus	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	amod	_	_
-2	effodiens	effodio	VERB	v-sppamn_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	_
-3	ossa	os2	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	2	dobj	_	_
-4	thesaurum	thesaurus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	dobj	_	_
-5	canis	canis1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-6	Invenit	invenio	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-7	,	,	PUNCT	u--------	_	6	punct	_	_
-8	et	et	CONJ	c--------	_	6	cc	_	_
-9	violarat	violo	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	14	advcl	_	_
-10	quia	quia	SCONJ	c--------	_	9	mark	_	_
-11	Manes	Manes	ADJ	a-p---ma_	Case=Acc|Gender=Masc|Number=Plur	9	dobj	_	_
-12	deos	deus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	11	appos	_	_
-13	,	,	PUNCT	u--------	_	9	punct	_	_
-14	Iniecta	inicio	VERB	v-srppfn_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	_
-15	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	auxpass	_	_
-16	illi	ille	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	14	dobj	_	_
-17	divitiarum	divitiae	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	_
-18	cupiditas	cupiditas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	nsubjpass	_	_
-19	,	,	PUNCT	u--------	_	24	punct	_	_
-20	Poenas	poena	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	24	dobj	_	_
-21	ut	ut	SCONJ	c--------	_	24	mark	_	_
-22	sanctae	sancio	VERB	v-srppfd-	Aspect=Perf|Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	amod	_	_
-23	Religioni	religio	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	24	iobj	_	_
-24	penderet	pendeo	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	_
-25	.	.	PUNCT	u--------	_	24	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 appos	color:blue
+1	adicit	adicio	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	his	hic	PRON	p-p---nd-	Case=Dat|Gender=Neut|Number=Plur	1	iobj	_	_
+3	Aquilius	Aquilius	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+4	Niger	Niger2	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+5	alterum	alter	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	appos	_	_
+6	e	ex	ADP	r--------	_	7	case	_	_
+7	consulibus	consul	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	5	nmod	_	_
+8	Hirtium	Hirtius	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	nsubjpass	_	_
+9	in	in	ADP	r--------	_	11	case	_	_
+10	pugnae	pugna	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+11	tumultu	tumultus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	14	nmod	_	_
+12	ab	ab	ADP	r--------	_	13	case	_	_
+13	ipso	ipse	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	14	nmod	_	_
+14	interemptum	interimo	VERB	v-srppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	dobj	_	_
+15	.	.	PUNCT	u--------	_	14	punct	_	_
 
 ~~~
 

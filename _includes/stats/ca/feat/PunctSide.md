@@ -24,7 +24,7 @@ The most frequent other feature values with which `PUNCT` and `PunctSide` co-occ
 * `Ini` (1850; 49% of non-empty `PunctSide`): <em>(, ¿, ¡, [, ), ]</em>
 
 <table>
-  <tr><th>Paradigm <i>)</i></th><th><tt>Fin</tt></th><th><tt>Ini</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>)</em></td><td><em>), (</em></td></tr>
+  <tr><th>Paradigm <i>(</i></th><th><tt>Fin</tt></th><th><tt>Ini</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>(</em></td><td><em>(</em></td></tr>
 </table>
 

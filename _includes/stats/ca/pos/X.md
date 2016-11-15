@@ -13,12 +13,12 @@ The 10 most frequent `X` types:  <em>8'5, 1'2, 17'5, 32'5, 38'10, 38'3, 5'1, 77'
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>8'4</em> ([NUM]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>8'4</em> ([X]() 1, [NUM]() 1)
 
 
 * <em>8'4</em>
-  * [NUM]() 1: <em>Les previsions situen la demanda de viatgers en els 19'4 milions anuals , que variaria entre els <b>8'4</b> milions de viatgers de el primer any a els 21 milions per a el quinzè any de funcionament .</em>
   * [X]() 1: <em>Malgrat que en la passada Setmana Santa no es va produir cap incident , la demanda de el servei va superar en un <b>8'4</b> % la que es va registrar en el mateix període de l' any anterior .</em>
+  * [NUM]() 1: <em>Les previsions situen la demanda de viatgers en els 19'4 milions anuals , que variaria entre els <b>8'4</b> milions de viatgers de el primer any a els 21 milions per a el quinzè any de funcionament .</em>
 
 ## Morphology
 

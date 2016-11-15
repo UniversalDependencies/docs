@@ -99,7 +99,7 @@ The most frequent other feature values with which `PROPN` and `Form` co-occurred
 
 86 [ga-pos/ADJ]() tokens (7% of all `ADJ` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `ADJ` and `Form` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (85; 99%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (81; 94%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (81; 94%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (81; 94%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (78; 91%).
+The most frequent other feature values with which `ADJ` and `Form` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (85; 99%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (81; 94%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (81; 94%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (81; 94%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (78; 91%).
 
 `ADJ` tokens may have the following values of `Form`:
 
@@ -168,7 +168,7 @@ The most frequent other feature values with which `ADP` and `Form` co-occurred: 
 
 6 [ga-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `DET` and `Form` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (6; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (4; 67%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `DET` and `Form` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (6; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (4; 67%), <tt><a href="Definite.html">Definite</a>=Def</tt> (4; 67%).
 
 `DET` tokens may have the following values of `Form`:
 
@@ -190,7 +190,7 @@ The most frequent other feature values with which `X` and `Form` co-occurred: <t
 
 1 [ga-pos/PART]() tokens (0% of all `PART` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `PART` and `Form` co-occurred: <tt><a href="PartType.html">PartType</a>=Vb</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%).
+The most frequent other feature values with which `PART` and `Form` co-occurred: <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%), <tt><a href="PartType.html">PartType</a>=Vb</tt> (1; 100%).
 
 `PART` tokens may have the following values of `Form`:
 
@@ -209,9 +209,9 @@ The most frequent other feature values with which `PART` and `Form` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Form`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (52; 57%),
 <tt>PRON --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/ccomp.html">ccomp</a>]--> ADJ</tt> (1; 100%),
 <tt>PROPN --[<a href="../dep/advcl.html">advcl</a>]--> NOUN</tt> (1; 100%),
-<tt>X --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/ccomp.html">ccomp</a>]--> ADJ</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%),
+<tt>X --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
 <tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (1; 100%).
 

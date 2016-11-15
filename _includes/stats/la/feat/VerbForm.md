@@ -101,7 +101,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 1 [la-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
@@ -135,7 +135,7 @@ The feature is used with 2 part-of-speech tags: [la-pos/VERB]() (52416; 18% inst
 
 52416 [la-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (43955; 84%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (42748; 82%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (41654; 79%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (41654; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (41391; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (37270; 71%), <tt><a href="Voice.html">Voice</a>=Act</tt> (36433; 70%), <tt><a href="Person.html">Person</a>=3</tt> (34562; 66%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (29318; 56%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (43955; 84%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (42748; 82%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (41654; 79%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (41654; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (41391; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (37270; 71%), <tt><a href="Voice.html">Voice</a>=Act</tt> (36433; 70%), <tt><a href="Person.html">Person</a>=3</tt> (34562; 66%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (29318; 56%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

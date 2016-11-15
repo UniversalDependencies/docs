@@ -13,7 +13,7 @@ The 10 most frequent `NOUN` types:  <em>kormány, év, cég, forint, százalékk
 
 The 10 most frequent ambiguous lemmas: <em>hét</em> ([NOUN]() 48, [NUM]() 5), <em>nap</em> ([NOUN]() 47, [ADV]() 4), <em>vezető</em> ([NOUN]() 37, [ADJ]() 11), <em>állam</em> ([NOUN]() 31, [PROPN]() 1), <em>igazgató</em> ([NOUN]() 19, [ADJ]() 1), <em>fél</em> ([NOUN]() 17, [NUM]() 14), <em>pont</em> ([NOUN]() 16, [ADV]() 1), <em>óra</em> ([NOUN]() 16, [PROPN]() 1), <em>szerb</em> ([ADJ]() 26, [NOUN]() 15), <em>albán</em> ([NOUN]() 14, [ADJ]() 5)
 
-The 10 most frequent ambiguous types:  <em>állam</em> ([NOUN]() 17, [PROPN]() 1), <em>hét</em> ([NOUN]() 14, [NUM]() 5), <em>világ</em> ([NOUN]() 6, [PROPN]() 1), <em>igazgató</em> ([NOUN]() 5, [ADJ]() 1), <em>utóbbi</em> ([ADJ]() 21, [NOUN]() 5), <em>A</em> ([DET]() 597, [PROPN]() 5, [NOUN]() 4), <em>adó</em> ([NOUN]() 4, [ADJ]() 2), <em>dolgozók</em> ([NOUN]() 4, [ADJ]() 2), <em>kórházba</em> ([NOUN]() 4, [PROPN]() 1), <em>nap</em> ([ADV]() 4, [NOUN]() 4)
+The 10 most frequent ambiguous types:  <em>állam</em> ([NOUN]() 17, [PROPN]() 1), <em>hét</em> ([NOUN]() 14, [NUM]() 5), <em>világ</em> ([NOUN]() 6, [PROPN]() 1), <em>igazgató</em> ([NOUN]() 5, [ADJ]() 1), <em>utóbbi</em> ([ADJ]() 21, [NOUN]() 5), <em>A</em> ([DET]() 597, [PROPN]() 5, [NOUN]() 4), <em>adó</em> ([NOUN]() 4, [ADJ]() 2), <em>dolgozók</em> ([NOUN]() 4, [ADJ]() 2), <em>kórházba</em> ([NOUN]() 4, [PROPN]() 1), <em>nap</em> ([NOUN]() 4, [ADV]() 4)
 
 
 * <em>állam</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>állam</em> ([NOUN]() 17, [PROPN]() 1
   * [NOUN]() 4: <em>Tegnap összesen 11 vesebeteget és combnyaktörést szenvedett lakost juttattak <b>kórházba</b> .</em>
   * [PROPN]() 1: <em>Befejezte az egyetemet , és ment a János <b>kórházba</b> cselédkönyvezni .</em>
 * <em>nap</em>
-  * [ADV]() 4: <em>A magyar országgyűlési képviselő , ha akarja , szenátornak nevezi magát , ugyanaz a párt egyik <b>nap</b> ellenzék , a másik <b>nap</b> kormányoldalon álló , sőt a parlamenti többség akarata még a matematikánál is erősebb .</em>
   * [NOUN]() 4: <em>Bevételeinek 40 százaléka ugyanis délelőtt 11-nél korábban keletkezik , a <b>nap</b> későbbi részében egyre kevesebben keresik föl kávébárjait .</em>
+  * [ADV]() 4: <em>A magyar országgyűlési képviselő , ha akarja , szenátornak nevezi magát , ugyanaz a párt egyik <b>nap</b> ellenzék , a másik <b>nap</b> kormányoldalon álló , sőt a parlamenti többség akarata még a matematikánál is erősebb .</em>
 
 ## Morphology
 

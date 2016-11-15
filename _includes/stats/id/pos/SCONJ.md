@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` types:  <em>karena, bahwa, namun, ketika, sehingga,
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>karena</em> ([SCONJ]() 152, [CONJ]() 45, [ADP]() 16), <em>bahwa</em> ([SCONJ]() 171, [ADP]() 23, [PRON]() 9, [CONJ]() 2, [ADV]() 1), <em>namun</em> ([SCONJ]() 72, [CONJ]() 12, [ADP]() 1), <em>ketika</em> ([SCONJ]() 58, [ADV]() 5, [ADP]() 4, [CONJ]() 3, [NOUN]() 3), <em>sehingga</em> ([SCONJ]() 85, [ADP]() 4, [CONJ]() 1), <em>maka</em> ([SCONJ]() 50, [CONJ]() 6, [DET]() 1), <em>jika</em> ([SCONJ]() 34, [ADP]() 1, [CONJ]() 1), <em>setelah</em> ([ADP]() 73, [SCONJ]() 33, [ADV]() 11, [CONJ]() 3), <em>yaitu</em> ([ADV]() 79, [SCONJ]() 45, [ADP]() 9, [CONJ]() 6, [DET]() 1), <em>sementara</em> ([SCONJ]() 24, [ADJ]() 13, [ADV]() 3, [CONJ]() 2)
+The 10 most frequent ambiguous types:  <em>karena</em> ([SCONJ]() 152, [CONJ]() 45, [ADP]() 16), <em>bahwa</em> ([SCONJ]() 171, [ADP]() 23, [PRON]() 9, [CONJ]() 2, [ADV]() 1), <em>namun</em> ([SCONJ]() 72, [CONJ]() 12, [ADP]() 1), <em>ketika</em> ([SCONJ]() 58, [ADV]() 5, [ADP]() 4, [NOUN]() 3, [CONJ]() 3), <em>sehingga</em> ([SCONJ]() 85, [ADP]() 4, [CONJ]() 1), <em>maka</em> ([SCONJ]() 50, [CONJ]() 6, [DET]() 1), <em>jika</em> ([SCONJ]() 34, [ADP]() 1, [CONJ]() 1), <em>setelah</em> ([ADP]() 73, [SCONJ]() 33, [ADV]() 11, [CONJ]() 3), <em>yaitu</em> ([ADV]() 79, [SCONJ]() 45, [ADP]() 9, [CONJ]() 6, [DET]() 1), <em>sementara</em> ([SCONJ]() 24, [ADJ]() 13, [ADV]() 3, [CONJ]() 2)
 
 
 * <em>karena</em>
@@ -34,8 +34,8 @@ The 10 most frequent ambiguous types:  <em>karena</em> ([SCONJ]() 152, [CONJ]() 
   * [SCONJ]() 58: <em>Teleprompter jenis ini digunakan Errol <b>ketika</b> ia mewawancarai seseorang .</em>
   * [ADV]() 5: <em>Mereka semuanya itu Allah Maha Kuasa tukarkan , tidak seperti mereka hidup <b>ketika</b> didunia . "</em>
   * [ADP]() 4: <em>Surah - surah yang paling baik dibaca <b>ketika</b> salat duha adalah : Surah yang paling disunahkan <b>ketika</b> salat dhuha yaitu : Untuk rakaat berikutnya : Daftar pustaka</em>
-  * [CONJ]() 3: <em>Permasalahan yang dihadapi <b>ketika</b> itu adalah : siapa yang akan menggantikan Nabi Muhammad , dan sebesar apa kekuasaan yang akan didapatkannya ?</em>
   * [NOUN]() 3: <em>Jadi kelirulah jika dibayangkan bahwa Tuhan suatu <b>ketika</b> menciptakan alam dunia lalu mengundurkan Diri . Andaikata Tuhan seolah - olah beristirahat , maka buah ciptaan runtuh kembali ke nihilum , ke ketiadaan .</em>
+  * [CONJ]() 3: <em>Permasalahan yang dihadapi <b>ketika</b> itu adalah : siapa yang akan menggantikan Nabi Muhammad , dan sebesar apa kekuasaan yang akan didapatkannya ?</em>
 * <em>sehingga</em>
   * [SCONJ]() 85: <em>Atapnya tipis <b>sehingga</b> kursi lontar bisa langsung menembusnya .</em>
   * [ADP]() 4: <em>Adanya kombinasi antioksidan dan antiinflamasi yang terkandung dalam zucchini <b>sehingga</b> cukup logis dikatakan adanya manfaat bahan makanan ini sebagai antikanker</em>

@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `neg`: [el-pos/VERB]
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 neg	color:blue
-1	Οι	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	παράμετροι	παράμετρος	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	_
 3	αυτές	αυτός	PRON	PRON	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	2	det	_	_
 4	δεν	δεν	PART	PART	_	6	neg	_	_
@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `neg`: [el-pos/VERB]
 # visual-style 5 1 neg	color:blue
 1	Δεν	δεν	PART	PART	_	5	neg	_	_
 2	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	5	cop	_	_
-3	το	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+3	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 4	μόνο	μόνος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	5	amod	_	_
 5	παράδειγμα	παράδειγμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_

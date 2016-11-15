@@ -9,9 +9,9 @@ This relation is universal.
 586 nodes (0%) are attached to their parents as `appos`.
 
 583 instances of `appos` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.50170648464164.
+Average distance between parent and child is 5.60238907849829.
 
-The following 32 pairs of parts of speech are connected with `appos`: [pt-pos/NOUN]()-[pt-pos/PROPN]() (317; 54% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (106; 18% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (39; 7% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (21; 4% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (13; 2% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (12; 2% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (11; 2% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (7; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (6; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (6; 1% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (5; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (5; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (4; 1% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (4; 1% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances).
+The following 33 pairs of parts of speech are connected with `appos`: [pt-pos/NOUN]()-[pt-pos/PROPN]() (316; 54% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (106; 18% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (39; 7% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (21; 4% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (13; 2% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (12; 2% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (11; 2% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (7; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (6; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (6; 1% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (5; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (5; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (4; 1% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (4; 1% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/X]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -75,6 +75,76 @@ The following 32 pairs of parts of speech are connected with `appos`: [pt-pos/NO
 19	single	single	NOUN	n|M|S	Gender=Masc|Number=Sing	12	appos	_	_
 20	promocional	promocional	ADJ	adj|M|S	Gender=Masc|Number=Sing	19	amod	_	_
 21	.	.	PUNCT	punc	_	7	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+3405 nodes (1%) are attached to their parents as `appos`.
+
+3397 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.88751835535977.
+
+The following 38 pairs of parts of speech are connected with `appos`: [pt-pos/NOUN]()-[pt-pos/PROPN]() (1374; 40% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (623; 18% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (555; 16% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (501; 15% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (83; 2% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (78; 2% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (36; 1% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (19; 1% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (18; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (17; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (12; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (12; 0% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (10; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (10; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (9; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (7; 0% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (5; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/DET]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/SYM]() (2; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/PUNCT]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/AUX]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 appos	color:blue
+1	A	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	suspensão	suspensão	NOUN	<np-def>|N|F|S|@SUBJ>	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	traseira	traseiro	ADJ	ADJ|F|S|@N<	Gender=Fem|Number=Sing	2	amod	_	_
+4	é	ser	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	progressiva	progressivo	ADJ	<n>|ADJ|F|S|@<SC	Gender=Fem|Number=Sing	0	root	_	_
+6	com	com	ADP	PRP|@N<	_	9	case	_	_
+7	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	só	só	ADJ	ADJ|M|S|@>N	Gender=Masc|Number=Sing	9	amod	_	_
+9	amortecedor	amortecedor	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	5	nmod	_	_
+10	Boge	Boge	PROPN	PROP|M|S|@N<	Gender=Masc|Number=Sing	9	appos	_	_
+11	.	.	PUNCT	PU|@PU	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 appos	color:blue
+1	SEçãO	seção	NOUN	<np-idf>|N|F|S|@NPHR	Gender=Fem|Number=Sing	0	root	_	_
+2	:	:	PUNCT	PU|@PU	_	1	punct	_	_
+3	EDITORIAL	editorial	NOUN	<np-idf>|N|M|S|@N<PRED	Gender=Masc|Number=Sing	1	appos	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 appos	color:blue
+1	(	(	PUNCT	PU|@PU	_	2	punct	_	_
+2	Lee	Lee	PROPN	PROP|M|S|@NPHR	Gender=Masc|Number=Sing	0	root	_	MWE:Lee=Iacocca
+3	Iacocca	Iacocca	PROPN	PROP|@N<	Number=Sing	2	name	_	_
+4	,	,	PUNCT	PU|@PU	_	5	punct	_	_
+5	executivo	executivo	NOUN	<np-idf>|N|M|S|@N<PRED	Gender=Masc|Number=Sing	2	appos	_	_
+6	de	de	ADP	<sam->|PRP|@N<	_	8	case	_	_
+7	a	o	DET	<-sam>|<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	indústria	indústria	NOUN	<np-def>|N|F|S|@P<	Gender=Fem|Number=Sing	5	nmod	_	_
+9	automobilística	automobilístico	ADJ	ADJ|F|S|@N<	Gender=Fem|Number=Sing	8	amod	_	_
+10	)	)	PUNCT	PU|@PU	_	2	punct	_	_
 
 ~~~
 

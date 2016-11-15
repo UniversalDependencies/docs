@@ -105,7 +105,7 @@ The 10 most frequent `PRON` types:  <em>to, se, kaj, jaz, mi, ti, ga, jih, si, n
 
 The 10 most frequent ambiguous lemmas: <em>ta</em> ([PRON]() 613, [DET]() 208), <em>se</em> ([PRON]() 460, [VERB]() 1), <em>on</em> ([PRON]() 309, [X]() 2), <em>kaj</em> ([PRON]() 196, [ADV]() 43, [X]() 1), <em>ti</em> ([PRON]() 194, [X]() 1, [INTJ]() 1), <em>ves</em> ([PRON]() 54, [DET]() 42), <em>tisti</em> ([PRON]() 53, [DET]() 32), <em>nič</em> ([PRON]() 42, [ADV]() 22), <em>kar</em> ([ADV]() 70, [PRON]() 37), <em>nekaj</em> ([PRON]() 29, [ADV]() 23, [DET]() 11)
 
-The 10 most frequent ambiguous types:  <em>to</em> ([PRON]() 489, [DET]() 26, [X]() 1), <em>se</em> ([PRON]() 398, [X]() 6), <em>kaj</em> ([PRON]() 185, [ADV]() 43, [X]() 1), <em>mi</em> ([PRON]() 116, [X]() 1), <em>ti</em> ([PRON]() 105, [DET]() 10, [INTJ]() 1, [X]() 1), <em>ga</em> ([PRON]() 60, [X]() 1), <em>si</em> ([PRON]() 48, [AUX]() 39, [VERB]() 32, [X]() 1), <em>nič</em> ([PRON]() 41, [ADV]() 22), <em>vse</em> ([PRON]() 41, [DET]() 17, [ADV]() 7), <em>jo</em> ([PRON]() 37, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>to</em> ([PRON]() 489, [DET]() 26, [X]() 1), <em>se</em> ([PRON]() 398, [X]() 6), <em>kaj</em> ([PRON]() 185, [ADV]() 43, [X]() 1), <em>mi</em> ([PRON]() 116, [X]() 1), <em>ti</em> ([PRON]() 105, [DET]() 10, [X]() 1, [INTJ]() 1), <em>ga</em> ([PRON]() 60, [X]() 1), <em>si</em> ([PRON]() 48, [AUX]() 39, [VERB]() 32, [X]() 1), <em>nič</em> ([PRON]() 41, [ADV]() 22), <em>vse</em> ([PRON]() 41, [DET]() 17, [ADV]() 7), <em>jo</em> ([PRON]() 37, [INTJ]() 1)
 
 
 * <em>to</em>
@@ -125,8 +125,8 @@ The 10 most frequent ambiguous types:  <em>to</em> ([PRON]() 489, [DET]() 26, [X
 * <em>ti</em>
   * [PRON]() 105: <em>km [gap] ker <b>ti</b> na vizi piše od kdaj do kdaj <b>ti</b> velja</em>
   * [DET]() 10: <em>to je igra ki jo igrajo eee <b>ti</b> eee člani družine</em>
-  * [INTJ]() 1: <em>pa če noče zaspati ko je še mala pa ji špilaš pred posteljico veš [audience:laughter] tako delaš <b>ti</b> di di pa še igraš</em>
   * [X]() 1: <em>in se smejem kot matasta tipo ki že costi <b>ti</b> ga bi bujeri ser [all:laughter]</em>
+  * [INTJ]() 1: <em>pa če noče zaspati ko je še mala pa ji špilaš pred posteljico veš [audience:laughter] tako delaš <b>ti</b> di di pa še igraš</em>
 * <em>ga</em>
   * [PRON]() 60: <em>samo jebi <b>ga</b> ampak sliši se pa ne a veš</em>
   * [X]() 1: <em>in se smejem kot matasta tipo ki že costi ti <b>ga</b> bi bujeri ser [all:laughter]</em>

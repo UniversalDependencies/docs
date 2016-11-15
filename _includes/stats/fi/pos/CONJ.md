@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  <em>ja, tai, mutta, sekä, eli, vaan, että,
 
 The 10 most frequent ambiguous lemmas: <em>ja</em> ([CONJ]() 5240, [ADV]() 8), <em>tai</em> ([CONJ]() 646, [ADV]() 1), <em>mutta</em> ([CONJ]() 578, [ADV]() 2, [SCONJ]() 1), <em>eli</em> ([CONJ]() 123, [ADV]() 1), <em>vaan</em> ([CONJ]() 108, [ADV]() 37), <em>että</em> ([SCONJ]() 1297, [CONJ]() 58, [INTJ]() 1), <em>vai</em> ([CONJ]() 52, [ADV]() 2), <em>kuin</em> ([SCONJ]() 428, [ADV]() 49, [CONJ]() 48), <em>niin</em> ([ADV]() 357, [CONJ]() 34, [SCONJ]() 4, [INTJ]() 2), <em>mitä</em> ([ADV]() 14, [CONJ]() 7, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>ja</em> ([CONJ]() 5154, [ADV]() 8), <em>mutta</em> ([CONJ]() 501, [ADV]() 1), <em>eli</em> ([CONJ]() 113, [VERB]() 6), <em>vaan</em> ([CONJ]() 103, [ADV]() 31), <em>että</em> ([SCONJ]() 1239, [CONJ]() 58, [INTJ]() 1), <em>vai</em> ([CONJ]() 44, [ADV]() 2), <em>kuin</em> ([SCONJ]() 426, [ADV]() 47, [CONJ]() 46), <em>niin</em> ([ADV]() 290, [CONJ]() 34, [SCONJ]() 2, [INTJ]() 2), <em>mut</em> ([CONJ]() 2, [PRON]() 1), <em>mitä</em> ([PRON]() 177, [ADV]() 12, [CONJ]() 4, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>ja</em> ([CONJ]() 5154, [ADV]() 8), <em>mutta</em> ([CONJ]() 501, [ADV]() 1), <em>eli</em> ([CONJ]() 113, [VERB]() 6), <em>vaan</em> ([CONJ]() 103, [ADV]() 31), <em>että</em> ([SCONJ]() 1239, [CONJ]() 58, [INTJ]() 1), <em>vai</em> ([CONJ]() 44, [ADV]() 2), <em>kuin</em> ([SCONJ]() 426, [ADV]() 47, [CONJ]() 46), <em>niin</em> ([ADV]() 290, [CONJ]() 34, [INTJ]() 2, [SCONJ]() 2), <em>mut</em> ([CONJ]() 2, [PRON]() 1), <em>mitä</em> ([PRON]() 177, [ADV]() 12, [CONJ]() 4, [SCONJ]() 1)
 
 
 * <em>ja</em>
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  <em>ja</em> ([CONJ]() 5154, [ADV]() 8), <
 * <em>niin</em>
   * [ADV]() 290: <em>Ottakaa minut mukaan , <b>niin</b> saatte luotettavan turvamiehen .</em>
   * [CONJ]() 34: <em>Oman kanavansa saavat <b>niin</b> naiset sekä tv-sarjat että scifin harrastajat .</em>
-  * [SCONJ]() 2: <em>Asianajajat tekevät sellaisia sopimuksia , että maksa viisi tonnia , <b>niin</b> järjestän sinut ulos .</em>
   * [INTJ]() 2: <em>Ai <b>niin</b> , meinasi julkinen painostus unohtua :</em>
+  * [SCONJ]() 2: <em>Asianajajat tekevät sellaisia sopimuksia , että maksa viisi tonnia , <b>niin</b> järjestän sinut ulos .</em>
 * <em>mut</em>
   * [CONJ]() 2: <em>" Ei se paljon lohduta , <b>mut</b> ... " , hän sanoo melkein varovasti .</em>
   * [PRON]() 1: <em>Laura heitti <b>mut</b> kentälle , ei ollut lopulta mitään ongelmia , näin sen Leijona-koneen laskeutuvan mutta valitettavasti itse Pasi Nurmisen mahtavaa laskeutumista en todistanut , terminaali oli väärässä suunnassa .</em>

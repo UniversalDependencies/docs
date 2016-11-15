@@ -4,85 +4,87 @@
 
 ## Treebank Statistics (UD_Romanian)
 
-There are 540 `NUM` lemmas (4%), 568 `NUM` types (2%) and 3370 `NUM` tokens (2%).
-Out of 17 observed tags, the rank of `NUM` is: 6 in number of lemmas, 5 in number of types and 13 in number of tokens.
+There are 919 `NUM` lemmas (5%), 992 `NUM` types (3%) and 5539 `NUM` tokens (3%).
+Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>1, 2, 3, doi, 4, trei, 5, două, 6, prim</em>
+The 10 most frequent `NUM` lemmas: <em>doi, 1, 2, prim, 3, trei, 4, 5, 6, patru</em>
 
-The 10 most frequent `NUM` types:  <em>1, 2, 3, 4, două, trei, 5, 6, doi, primul</em>
+The 10 most frequent `NUM` types:  <em>1, 2, 3, două, 4, trei, 5, 6, primul, doi</em>
 
-The 10 most frequent ambiguous lemmas: <em>ii</em> ([NUM]() 3, [NOUN]() 1), <em>1999</em> ([NUM]() 33, [NOUN]() 3), <em>c</em> ([NUM]() 30, [NOUN]() 10), <em>2001</em> ([NUM]() 28, [NOUN]() 2), <em>un</em> ([DET]() 2790, [NUM]() 23, [PRON]() 1), <em>2004</em> ([NUM]() 22, [NOUN]() 18), <em>2005</em> ([NUM]() 21, [NOUN]() 14), <em>2002</em> ([NUM]() 20, [NOUN]() 2), <em>2000</em> ([NUM]() 18, [NOUN]() 4), <em>2003</em> ([NUM]() 18, [NOUN]() 5)
+The 10 most frequent ambiguous lemmas: <em>prim</em> ([NUM]() 249, [ADJ]() 2), <em>întâi</em> ([NUM]() 16, [ADV]() 12), <em>dintâi</em> ([NUM]() 10, [ADV]() 2), <em>zero</em> ([NUM]() 8, [NOUN]() 3), <em>X</em> ([NOUN]() 17, [NUM]() 4), <em>xi</em> ([NUM]() 1, [NOUN]() 1), <em>iv</em> ([NUM]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>i</em> ([PRON]() 96, [NUM]() 3), <em>ii</em> ([NUM]() 3, [NOUN]() 2), <em>1999</em> ([NUM]() 33, [NOUN]() 3), <em>c</em> ([NUM]() 30, [NOUN]() 10), <em>2001</em> ([NUM]() 28, [NOUN]() 2), <em>2004</em> ([NUM]() 22, [NOUN]() 18), <em>2005</em> ([NUM]() 21, [NOUN]() 14), <em>2002</em> ([NUM]() 20, [NOUN]() 2), <em>2000</em> ([NUM]() 18, [NOUN]() 4), <em>2003</em> ([NUM]() 18, [NOUN]() 5)
+The 10 most frequent ambiguous types:  <em>I</em> ([NUM]() 58, [NOUN]() 10, [PRON]() 5), <em>primele</em> ([NUM]() 30, [NOUN]() 1), <em>iv</em> ([NOUN]() 1, [NUM]() 1), <em>nouă</em> ([ADJ]() 26, [NUM]() 9, [PRON]() 1), <em>dintâi</em> ([NUM]() 10, [ADV]() 2), <em>V</em> ([NOUN]() 12, [NUM]() 9), <em>zero</em> ([NUM]() 7, [NOUN]() 3), <em>VI</em> ([NUM]() 6, [PRON]() 1), <em>primei</em> ([NUM]() 6, [NOUN]() 1), <em>primelor</em> ([NUM]() 5, [NOUN]() 1)
 
 
-* <em>i</em>
-  * [PRON]() 96: <em>Lui A. <b>i</b> se datorează mai multe cărți religioase , dar și pedagogice .</em>
-  * [NUM]() 3: <em>( 8 ) Articolul 11 alineatul ( 2 ) litera ( a ) se modifică după cum urmează : ( a ) la punctul ( <b>i</b> ) , cuvintele " în articolul 2 litera ( a ) " se înlocuiesc cu cuvintele " în lista A din anexa II " ;</em>
-* <em>ii</em>
-  * [NUM]() 3: <em>( <b>ii</b> ) nota 3 referitoare la policlordibenzofurani și policlordibenzodioxine devine nota 7 .</em>
-  * [NOUN]() 2: <em>( <b>ii</b> ) poartă numărul de autorizare atribuit centrului sau echipei pentru exportul în Comunitate .</em>
-* <em>1999</em>
-  * [NUM]() 33: <em>Perioada prevăzută în art. 4 alin. ( 3 ) din Decizia <b>1999</b> / 468 / CE este de o lună .</em>
-  * [NOUN]() 3: <em>Nu lipsit de interes se relevă prozatorul în romanul Împăcare ( 1985 ) , continuat cu Ultimii ani ( <b>1999</b> ) .</em>
-* <em>c</em>
-  * [NUM]() 30: <em>( <b>c</b> ) angajatorul ține evidențe actualizate ale tuturor lucrătorilor care efectuează o asemenea muncă ;</em>
-  * [NOUN]() 10: <em>( <b>c</b> ) implică violarea unui secret industrial , comercial sau profesional .</em>
-* <em>2001</em>
-  * [NUM]() 28: <em>Decizia <b>2001</b> / 881 / CE ar trebui modificată în consecință .</em>
-  * [NOUN]() 2: <em>tipărirea lui a început în <b>2001</b> ( au apărut până în prezent volumele I – VIII ) .</em>
-* <em>2004</em>
-  * [NUM]() 22: <em>Perioada de valabilitate a Deciziei 89/688/CEE se prelungește până la 31 iulie <b>2004</b> .</em>
-  * [NOUN]() 18: <em>După termenul menționat nu se vor mai primi acte de subvenție pentru carnea livrată în <b>2004</b> .</em>
-* <em>2005</em>
-  * [NUM]() 21: <em>( 10 ) Autorizația sistemului de identificare expiră la 1 iulie <b>2005</b> .</em>
-  * [NOUN]() 14: <em>Ediția din <b>2005</b> a Raliului Paris - Dakar va aduna la start aproximativ 230 de motociclete și 165 de mașini .</em>
-* <em>2002</em>
-  * [NUM]() 20: <em>Autorizația de introducere pe piață a fost reînnoită la 22 mai <b>2002</b> și 22 mai 2007 .</em>
-  * [NOUN]() 2: <em>Balerina de origine română Alina Cojocaru - care a fost nominalizată și la ediția din <b>2002</b> - a fost preferată altor patru prestigioase soliste de_la baletele din Londra , Paris și Moscova .</em>
-* <em>2000</em>
-  * [NUM]() 18: <em>La 19 mai <b>2000</b> , Parlamentul a adoptat o rezoluție asupra raportului Comisiei .</em>
-  * [NOUN]() 4: <em>Din anul <b>2000</b> , ziua de 4 aprilie a fost declarată Ziua națională a Academiei Române .</em>
-* <em>2003</em>
-  * [NUM]() 18: <em>Din septembrie <b>2003</b> nu s- a mai detectat circulația ramurii sălbatice .</em>
-  * [NOUN]() 5: <em>Ilie C. a fost în plasament la o asociație caritabilă , dar în <b>2003</b> a fugit de acolo .</em>
+* <em>I</em>
+  * [NUM]() 58: <em>Aceasta este definită în anexa <b>I</b> .</em>
+  * [NOUN]() 10: <em>Brevetele se eliberează în conformitate cu Regula <b>I</b> / 2 .</em>
+  * [PRON]() 5: <em><b>I</b> se pot întâmpla lucruri neplăcute .</em>
+* <em>primele</em>
+  * [NUM]() 30: <em>În România , <b>primele</b> demonstrații de baschet au fost efectuate în 1920 .</em>
+  * [NOUN]() 1: <em>De aceea , este necesar să se prevadă că acordurile privind <b>primele</b> comerciale nu sunt scutite .</em>
+* <em>iv</em>
+  * [NOUN]() 1: <em>( <b>iv</b> ) fonduri de investiții elvețiene care , la data intrării în vigoare a prezentului acord sau la o dată ulterioară , sunt scutite de impozitul anticipat în Elveția pentru sumele plătite persoanelor fizice care sunt rezidente ale unui stat membru .</em>
+  * [NUM]() 1: <em>Se pot deroga de la art. 3 ( iii ) servicii de presă , radio , televiziune , producție cinematografică , servicii de poștă și telecomunicații , ambulanță , servicii de pompieri și protecție civilă ; ( <b>iv</b> ) producția , transportul și distribuția de gaze , apă și electricitate , colectarea reziduurilor menajere și instalațiile de incinerare ; ( v ) sectoare în care procesul de muncă nu poate fi întrerupt din motive tehnice ; ( vi ) lucrătorii din domeniul transportului de călători pe linii urbane regulate ;</em>
+* <em>nouă</em>
+  * [ADJ]() 26: <em>De îndată ce o <b>nouă</b> relație sau slujbă apărea , începea să se strice .</em>
+  * [NUM]() 9: <em>Scrisoarea continua astfel , consumând două coli de corespondență , plus o foaie , în total <b>nouă</b> pagini .</em>
+  * [PRON]() 1: <em>Nouă din aceștia s- au distrus , cinci , precum niște gândaci pe spate , s- au imobilizat în cratere scut și doar <b>nouă</b> au reușit să opereze în întregime cu infanteria .</em>
+* <em>dintâi</em>
+  * [NUM]() 10: <em>Pașa fu cel <b>dintâi</b> care bătu din palme .</em>
+  * [ADV]() 2: <em>Urban a prins <b>dintâi</b> a se bate .</em>
+* <em>V</em>
+  * [NOUN]() 12: <em>Coeficientul de variație <b>V</b> este prin definiție <b>V</b> = 100 * s / m ;</em>
+  * [NUM]() 9: <em>Originară din Asiria și datând din secolele al VI -lea și al <b>V</b> -lea î .</em>
+* <em>zero</em>
+  * [NUM]() 7: <em>Ridicând la pătrat deviațiile individuale acestea devin pozitive ( sau <b>zero</b> ) .</em>
+  * [NOUN]() 3: <em>Acest lucru nu afectează demonstrația dată de Planck , în care nu intervine această energie de <b>zero</b> .</em>
+* <em>VI</em>
+  * [NUM]() 6: <em>" Aprobările se eliberează în conformitate cu art. <b>VI</b> .</em>
+  * [PRON]() 1: <em>Toate modificările anexei I , care includ modificări ale intrărilor deja existente , și modificările în anexele II , III , IV și <b>VI</b> se adoptă prin procedura menționată în art. 24 .</em>
+* <em>primei</em>
+  * [NUM]() 6: <em>Comisia confirmă primirea <b>primei</b> notificări de export pentru fiecare produs chimic de la fiecare parte sau altă țară .</em>
+  * [NOUN]() 1: <em>Scutirea prevăzută în art. 1 lit. ( c ) nu se aplică în cazul în care condițiile standard ale polițelor cuprind clauze care ( d ) permit asigurătorului să mențină polița chiar în cazul în care anulează o parte a acoperirii , crește nivelul <b>primei</b> fără să fi avut loc o modificare a riscului sau a sferei de aplicare a acoperirii ( fără a aduce atingere clauzelor de indexare ) sau în care modifică în alt mod condițiile poliței fără a avea consimțământul expres al asiguratului ; ( e ) permit asigurătorului să modifice termenul poliței fără a avea consimțământul expres al asiguratului ; ( f ) impun asiguratului din sectorul asigurărilor altele decât de viață o perioadă contractuală de peste trei ani ;</em>
+* <em>primelor</em>
+  * [NUM]() 5: <em>În 1882 „ Cimpoiul ” îi tipărea traducerea <b>primelor</b> trei cânturi din Ierusalimul eliberat de Torquato Tasso .</em>
+  * [NOUN]() 1: <em>De exemplu , aceste grupuri le pot oferi membrilor lor posibilitatea de a acumula experiența necesară în sectorul de asigurări în cauză , pot permite realizarea de economii în privința costurilor sau reducerea <b>primelor</b> printr- o reasigurare în comun în condiții avantajoase .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.051852 (the average of all parts of speech is 1.736999).
+The form / lemma ratio of `NUM` is 1.079434 (the average of all parts of speech is 1.826835).
 
-The 1st highest number of forms (10) was observed with the lemma “ultim”: <em>ultim, ultima, ultime, ultimei, ultimele, ultimelor, ultimii, ultimilor, ultimul, ultimului</em>.
+The 1st highest number of forms (12) was observed with the lemma “prim”: <em>prim, prim-, prima, prime, primei, primele, primelor, primii, primilor, primul, primului, primă</em>.
 
-The 2nd highest number of forms (9) was observed with the lemma “prim”: <em>prim, prim-, prima, prime, primei, primele, primii, primul, primului</em>.
+The 2nd highest number of forms (10) was observed with the lemma “ultim”: <em>ultim, ultima, ultime, ultimei, ultimele, ultimelor, ultimii, ultimilor, ultimul, ultimului</em>.
 
-The 3rd highest number of forms (5) was observed with the lemma “doi”: <em>II, doi, doilea, doua, două</em>.
+The 3rd highest number of forms (6) was observed with the lemma “doi”: <em>II, doi, doilea, doua, două, secund</em>.
 
-`NUM` occurs with 7 features: [ro-feat/NumType]() (2523; 75% instances), [ro-feat/Number]() (1135; 34% instances), [ro-feat/NumForm]() (1122; 33% instances), [ro-feat/Gender]() (516; 15% instances), [ro-feat/Case]() (260; 8% instances), [ro-feat/Definite]() (251; 7% instances), [ro-feat/PronType]() (25; 1% instances)
+`NUM` occurs with 7 features: [ro-feat/NumType]() (5524; 100% instances), [ro-feat/Number]() (5509; 99% instances), [ro-feat/NumForm]() (5476; 99% instances), [ro-feat/Gender]() (901; 16% instances), [ro-feat/Case]() (456; 8% instances), [ro-feat/Definite]() (453; 8% instances), [ro-feat/PronType]() (48; 1% instances)
 
 `NUM` occurs with 14 feature-value pairs: `Case=Acc,Nom`, `Case=Dat,Gen`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `NumForm=Digit`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `PronType=Tot`
 
-`NUM` occurs with 36 feature combinations.
-The most frequent feature combination is `NumType=Card` (1377 tokens).
-Examples: <em>1, 2, 3, 4, 5, 6, două, 7, trei, 1999</em>
+`NUM` occurs with 35 feature combinations.
+The most frequent feature combination is `Number=Plur|NumForm=Digit|NumType=Card` (3959 tokens).
+Examples: <em>1, 2, 3, 4, 5, 6, 7, 8, 2004, 10</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 28 different relations: [ro-dep/nummod]() (1672; 50% instances), [ro-dep/parataxis]() (464; 14% instances), [ro-dep/nmod]() (371; 11% instances), [ro-dep/amod]() (350; 10% instances), [ro-dep/conj]() (198; 6% instances), [ro-dep/goeswith]() (82; 2% instances), [ro-dep/compound]() (48; 1% instances), [ro-dep/nsubj]() (33; 1% instances), [ro-dep/name]() (26; 1% instances), [ro-dep/dobj]() (19; 1% instances), [ro-dep/root]() (19; 1% instances), [ro-dep/appos]() (16; 0% instances), [ro-dep/mwe]() (14; 0% instances), [ro-dep/nmod:pmod]() (12; 0% instances), [ro-dep/punct]() (9; 0% instances), [ro-dep/nsubjpass]() (8; 0% instances), [ro-dep/list]() (5; 0% instances), [ro-dep/remnant]() (5; 0% instances), [ro-dep/cc]() (3; 0% instances), [ro-dep/det]() (3; 0% instances), [ro-dep/xcomp]() (3; 0% instances), [ro-dep/advcl]() (2; 0% instances), [ro-dep/advmod]() (2; 0% instances), [ro-dep/nmod:tmod]() (2; 0% instances), [ro-dep/acl]() (1; 0% instances), [ro-dep/case]() (1; 0% instances), [ro-dep/expl]() (1; 0% instances), [ro-dep/iobj]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 27 different relations: [ro-dep/nummod]() (2907; 52% instances), [ro-dep/nmod]() (762; 14% instances), [ro-dep/parataxis]() (742; 13% instances), [ro-dep/amod]() (292; 5% instances), [ro-dep/conj]() (288; 5% instances), [ro-dep/nmod:tmod]() (174; 3% instances), [ro-dep/goeswith]() (83; 1% instances), [ro-dep/nsubj]() (69; 1% instances), [ro-dep/compound]() (51; 1% instances), [ro-dep/dobj]() (29; 1% instances), [ro-dep/mwe]() (26; 0% instances), [ro-dep/root]() (22; 0% instances), [ro-dep/nmod:pmod]() (19; 0% instances), [ro-dep/appos]() (17; 0% instances), [ro-dep/nsubjpass]() (12; 0% instances), [ro-dep/remnant]() (9; 0% instances), [ro-dep/xcomp]() (8; 0% instances), [ro-dep/punct]() (7; 0% instances), [ro-dep/advcl]() (5; 0% instances), [ro-dep/acl]() (4; 0% instances), [ro-dep/dep]() (4; 0% instances), [ro-dep/advmod]() (2; 0% instances), [ro-dep/ccomp]() (2; 0% instances), [ro-dep/name]() (2; 0% instances), [ro-dep/csubj]() (1; 0% instances), [ro-dep/foreign]() (1; 0% instances), [ro-dep/iobj]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 16 different parts of speech: [NOUN]() (2278; 68% instances), [VERB]() (506; 15% instances), [NUM]() (291; 9% instances), [SYM]() (70; 2% instances), [PROPN]() (53; 2% instances), [ADV]() (49; 1% instances), [ADJ]() (47; 1% instances), [ROOT]() (19; 1% instances), [DET]() (16; 0% instances), [PUNCT]() (14; 0% instances), [ADP]() (12; 0% instances), [PRON]() (8; 0% instances), [AUX]() (2; 0% instances), [CONJ]() (2; 0% instances), [INTJ]() (2; 0% instances), [PART]() (1; 0% instances)
+Parents of `NUM` nodes belong to 15 different parts of speech: [NOUN]() (3592; 65% instances), [VERB]() (1095; 20% instances), [NUM]() (476; 9% instances), [PROPN]() (82; 1% instances), [ADV]() (77; 1% instances), [ADJ]() (63; 1% instances), [SYM]() (45; 1% instances), [ADP]() (22; 0% instances), [ROOT]() (22; 0% instances), [PRON]() (17; 0% instances), [PUNCT]() (16; 0% instances), [DET]() (15; 0% instances), [X]() (8; 0% instances), [AUX]() (7; 0% instances), [CONJ]() (2; 0% instances)
 
-2007 (60%) `NUM` nodes are leaves.
+3169 (57%) `NUM` nodes are leaves.
 
-567 (17%) `NUM` nodes have one child.
+1042 (19%) `NUM` nodes have one child.
 
-640 (19%) `NUM` nodes have two children.
+1062 (19%) `NUM` nodes have two children.
 
-156 (5%) `NUM` nodes have three or more children.
+266 (5%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 16.
 
-Children of `NUM` nodes are attached using 24 different relations: [ro-dep/punct]() (1165; 47% instances), [ro-dep/case]() (324; 13% instances), [ro-dep/conj]() (224; 9% instances), [ro-dep/det]() (189; 8% instances), [ro-dep/advmod]() (150; 6% instances), [ro-dep/goeswith]() (112; 4% instances), [ro-dep/cc]() (105; 4% instances), [ro-dep/nmod]() (74; 3% instances), [ro-dep/compound]() (46; 2% instances), [ro-dep/nummod]() (20; 1% instances), [ro-dep/amod]() (16; 1% instances), [ro-dep/acl]() (13; 1% instances), [ro-dep/mwe]() (11; 0% instances), [ro-dep/cop]() (9; 0% instances), [ro-dep/nsubj]() (8; 0% instances), [ro-dep/mark]() (7; 0% instances), [ro-dep/parataxis]() (7; 0% instances), [ro-dep/remnant]() (5; 0% instances), [ro-dep/appos]() (4; 0% instances), [ro-dep/list]() (3; 0% instances), [ro-dep/advcl]() (2; 0% instances), [ro-dep/aux]() (2; 0% instances), [ro-dep/nmod:pmod]() (2; 0% instances), [ro-dep/neg]() (1; 0% instances)
+Children of `NUM` nodes are attached using 24 different relations: [ro-dep/punct]() (1824; 43% instances), [ro-dep/case]() (853; 20% instances), [ro-dep/det]() (334; 8% instances), [ro-dep/conj]() (294; 7% instances), [ro-dep/advmod]() (218; 5% instances), [ro-dep/cc]() (171; 4% instances), [ro-dep/nmod]() (133; 3% instances), [ro-dep/goeswith]() (81; 2% instances), [ro-dep/nummod]() (66; 2% instances), [ro-dep/compound]() (57; 1% instances), [ro-dep/cop]() (30; 1% instances), [ro-dep/nsubj]() (28; 1% instances), [ro-dep/amod]() (26; 1% instances), [ro-dep/appos]() (26; 1% instances), [ro-dep/acl]() (22; 1% instances), [ro-dep/mark]() (16; 0% instances), [ro-dep/mwe]() (16; 0% instances), [ro-dep/dep]() (11; 0% instances), [ro-dep/remnant]() (9; 0% instances), [ro-dep/parataxis]() (8; 0% instances), [ro-dep/advcl]() (6; 0% instances), [ro-dep/aux]() (6; 0% instances), [ro-dep/nmod:pmod]() (2; 0% instances), [ro-dep/neg]() (1; 0% instances)
 
-Children of `NUM` nodes belong to 15 different parts of speech: [PUNCT]() (1103; 44% instances), [ADP]() (338; 14% instances), [NUM]() (291; 12% instances), [DET]() (218; 9% instances), [ADV]() (119; 5% instances), [SYM]() (119; 5% instances), [CONJ]() (109; 4% instances), [NOUN]() (84; 3% instances), [PROPN]() (36; 1% instances), [VERB]() (32; 1% instances), [PRON]() (31; 1% instances), [ADJ]() (12; 0% instances), [AUX]() (3; 0% instances), [SCONJ]() (3; 0% instances), [PART]() (1; 0% instances)
+Children of `NUM` nodes belong to 16 different parts of speech: [PUNCT]() (1779; 42% instances), [ADP]() (868; 20% instances), [NUM]() (476; 11% instances), [DET]() (388; 9% instances), [CONJ]() (184; 4% instances), [NOUN]() (169; 4% instances), [ADV]() (157; 4% instances), [SYM]() (66; 2% instances), [VERB]() (62; 1% instances), [PRON]() (30; 1% instances), [ADJ]() (21; 0% instances), [PROPN]() (14; 0% instances), [SCONJ]() (13; 0% instances), [AUX]() (6; 0% instances), [X]() (3; 0% instances), [PART]() (2; 0% instances)
 

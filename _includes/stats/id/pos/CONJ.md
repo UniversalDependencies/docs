@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  <em>dan, atau, serta, karena, maupun, tetapi
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>dan</em> ([CONJ]() 2751, [PROPN]() 1), <em>serta</em> ([CONJ]() 100, [VERB]() 3, [ADJ]() 1, [ADV]() 1, [SCONJ]() 1, [ADP]() 1), <em>karena</em> ([SCONJ]() 152, [CONJ]() 45, [ADP]() 16), <em>maupun</em> ([CONJ]() 45, [ADP]() 3), <em>tetapi</em> ([SCONJ]() 38, [CONJ]() 33, [ADP]() 2, [VERB]() 1), <em>namun</em> ([SCONJ]() 72, [CONJ]() 12, [ADP]() 1), <em>tapi</em> ([SCONJ]() 23, [CONJ]() 10), <em>and</em> ([CONJ]() 13, [PROPN]() 13), <em>juga</em> ([ADV]() 354, [CONJ]() 11, [ADP]() 1), <em>beserta</em> ([CONJ]() 9, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>dan</em> ([CONJ]() 2751, [PROPN]() 1), <em>serta</em> ([CONJ]() 100, [VERB]() 3, [ADP]() 1, [ADV]() 1, [ADJ]() 1, [SCONJ]() 1), <em>karena</em> ([SCONJ]() 152, [CONJ]() 45, [ADP]() 16), <em>maupun</em> ([CONJ]() 45, [ADP]() 3), <em>tetapi</em> ([SCONJ]() 38, [CONJ]() 33, [ADP]() 2, [VERB]() 1), <em>namun</em> ([SCONJ]() 72, [CONJ]() 12, [ADP]() 1), <em>tapi</em> ([SCONJ]() 23, [CONJ]() 10), <em>and</em> ([PROPN]() 13, [CONJ]() 13), <em>juga</em> ([ADV]() 354, [CONJ]() 11, [ADP]() 1), <em>beserta</em> ([CONJ]() 9, [ADP]() 1)
 
 
 * <em>dan</em>
@@ -22,10 +22,10 @@ The 10 most frequent ambiguous types:  <em>dan</em> ([CONJ]() 2751, [PROPN]() 1)
 * <em>serta</em>
   * [CONJ]() 100: <em>Sebagai tambahan dapat pula diberi <b>serta</b> kolang - kaling .</em>
   * [VERB]() 3: <em>Selain itu Dompet Peduli Ummat DaarutTauhiid juga berupaya mengajak masyarakat untuk ikut <b>serta</b> dalam mensosialisasikan Qurban ini .</em>
-  * [ADJ]() 1: <em>Karenanya , Inggris memunculkan istilah ' Wahhabi ' dan merekayasa berbagai kedustaan dan kejahatan yang mereka lekatkan pada pengikut dakwah Syaikh Ibn Abdil Wahhab , sehingga banyak dari kaum muslimin di negeri - negeri jajahan Inggris yang termakan hasutan tersebut dan <b>serta</b> merta membenci mereka .</em>
-  * [ADV]() 1: <em>Johanna termasuk di antara 71 pemuda yang hadir dalam Kongres Pemuda Kedua , Oktober 1928 dan turut <b>serta</b> mengikrarkan Sumpah Pemuda yang berlangsung di sebuah gedung yang terletak di Jalan Kramat Raya no .</em>
-  * [SCONJ]() 1: <em>Pada tahun yang sama — tepatnya pada 7 Oktober 1861 — diadakan rapat empat pendeta di Sipirok , yang diikuti oleh dua pendeta Jerman , yaitu : Pdt . Heine dan Pdt . Klemmer <b>serta</b> oleh dua pendeta Belanda , yaitu : Pdt . Betz dan Pdt . Asselt .</em>
   * [ADP]() 1: <em>East India Company ( EIC ) atau Perusahaan Hindia Timur secara tidak langsung telah ikut berperan <b>serta</b> dalam mendukung kejayaan Imperium Britania di Asia . Tentara EIC pertama kali bergabung dengan Angkatan Laut Inggris saat terjadinya Perang Tujuh Tahun , dan kemudian terus bekerjasama dalam berbagai pertempuran di luar India , di antaranya : pengusiran Napoleon dari Mesir ( 1799 ) , pengambilalihan Jawa dari Belanda ( 1811 ) , akuisisi Singapura ( 1819 ) dan Malaka ( 1824 ) serta pendudukan Birma ( 1826 ) .</em>
+  * [ADV]() 1: <em>Johanna termasuk di antara 71 pemuda yang hadir dalam Kongres Pemuda Kedua , Oktober 1928 dan turut <b>serta</b> mengikrarkan Sumpah Pemuda yang berlangsung di sebuah gedung yang terletak di Jalan Kramat Raya no .</em>
+  * [ADJ]() 1: <em>Karenanya , Inggris memunculkan istilah ' Wahhabi ' dan merekayasa berbagai kedustaan dan kejahatan yang mereka lekatkan pada pengikut dakwah Syaikh Ibn Abdil Wahhab , sehingga banyak dari kaum muslimin di negeri - negeri jajahan Inggris yang termakan hasutan tersebut dan <b>serta</b> merta membenci mereka .</em>
+  * [SCONJ]() 1: <em>Pada tahun yang sama — tepatnya pada 7 Oktober 1861 — diadakan rapat empat pendeta di Sipirok , yang diikuti oleh dua pendeta Jerman , yaitu : Pdt . Heine dan Pdt . Klemmer <b>serta</b> oleh dua pendeta Belanda , yaitu : Pdt . Betz dan Pdt . Asselt .</em>
 * <em>karena</em>
   * [SCONJ]() 152: <em>Perone meninggalkan QPR <b>karena</b> kontraknya tidak diperpanjang .</em>
   * [CONJ]() 45: <em>Yaksa heran <b>karena</b> Nakula adalah adik tiri , bukan adik kandung .</em>
@@ -46,8 +46,8 @@ The 10 most frequent ambiguous types:  <em>dan</em> ([CONJ]() 2751, [PROPN]() 1)
   * [SCONJ]() 23: <em>Ratu percaya hal tersebut dan setuju , <b>tapi</b> apa yang harus dilakukan ?</em>
   * [CONJ]() 10: <em>Jumlah karyawannya saja 4.300 orang dengan 600 pilot , <b>tapi</b> hanya mengoperasikan 35 pesawat .</em>
 * <em>and</em>
-  * [CONJ]() 13: <em>Lagu utama di album ini ialah Get Up <b>and</b> Jump .</em>
   * [PROPN]() 13: <em>Arsitekturnya adalah PTW Architects , CSCEC International Design <b>and</b> Arup .</em>
+  * [CONJ]() 13: <em>Lagu utama di album ini ialah Get Up <b>and</b> Jump .</em>
 * <em>juga</em>
   * [ADV]() 354: <em>Bagaimana dengan Bu Acih yang <b>juga</b> telanjur sayang kepada Sinar ?</em>
   * [CONJ]() 11: <em>Oz Casino <b>juga</b> memiliki " Emerald City Gift Shop " dan " Oz Buffet " .</em>

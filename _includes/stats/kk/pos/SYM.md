@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.458688).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.549647).
 
 The 1st highest number of forms (1) was observed with the lemma “/”: <em>/</em>.
 
@@ -28,7 +28,7 @@ The 1st highest number of forms (1) was observed with the lemma “/”: <em>/</
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 1 different relations: [kk-dep/punct]() (2; 100% instances)
+`SYM` nodes are attached to their parents using 1 different relations: [kk-dep/dep]() (2; 100% instances)
 
 Parents of `SYM` nodes belong to 1 different parts of speech: [NUM]() (2; 100% instances)
 

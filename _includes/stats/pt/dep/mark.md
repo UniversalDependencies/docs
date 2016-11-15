@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-5119 nodes (2%) are attached to their parents as `mark`.
+5114 nodes (2%) are attached to their parents as `mark`.
 
-5090 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.08595428794686.
+5076 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.10559249120063.
 
-The following 39 pairs of parts of speech are connected with `mark`: [pt-pos/VERB]()-[pt-pos/ADP]() (2821; 55% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (1658; 32% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (153; 3% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (144; 3% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (95; 2% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (36; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (36; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (30; 1% instances), [pt-pos/PRON]()-[pt-pos/SCONJ]() (14; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (14; 0% instances), [pt-pos/ADV]()-[pt-pos/SCONJ]() (12; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (11; 0% instances), [pt-pos/AUX]()-[pt-pos/ADP]() (11; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (10; 0% instances), [pt-pos/PRON]()-[pt-pos/DET]() (8; 0% instances), [pt-pos/PROPN]()-[pt-pos/SCONJ]() (7; 0% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (6; 0% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (5; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/ADP]()-[pt-pos/SCONJ]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/SCONJ]() (4; 0% instances), [pt-pos/NUM]()-[pt-pos/SCONJ]() (4; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (1; 0% instances).
+The following 38 pairs of parts of speech are connected with `mark`: [pt-pos/VERB]()-[pt-pos/ADP]() (2838; 55% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (1658; 32% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (153; 3% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (144; 3% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (95; 2% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (36; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (36; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (25; 0% instances), [pt-pos/PRON]()-[pt-pos/SCONJ]() (14; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (14; 0% instances), [pt-pos/ADV]()-[pt-pos/SCONJ]() (12; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (11; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (10; 0% instances), [pt-pos/PRON]()-[pt-pos/DET]() (8; 0% instances), [pt-pos/PROPN]()-[pt-pos/SCONJ]() (7; 0% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (5; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/ADP]()-[pt-pos/SCONJ]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/SCONJ]() (4; 0% instances), [pt-pos/NUM]()-[pt-pos/SCONJ]() (4; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,6 +63,84 @@ The following 39 pairs of parts of speech are connected with `mark`: [pt-pos/VER
 5	como	como	ADV	adv|<rel>	PronType=Rel	6	cop	_	_
 6	vereadora	vereadora	NOUN	n|F|S	Gender=Fem|Number=Sing	2	ccomp	_	_
 7	:	:	PUNCT	punc	_	2	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+4721 nodes (2%) are attached to their parents as `mark`.
+
+4695 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.55539080703241.
+
+The following 31 pairs of parts of speech are connected with `mark`: [pt-pos/VERB]()-[pt-pos/ADP]() (2321; 49% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (1659; 35% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (190; 4% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (168; 4% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (157; 3% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (39; 1% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (35; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (33; 1% instances), [pt-pos/PRON]()-[pt-pos/SCONJ]() (18; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (15; 0% instances), [pt-pos/ADP]()-[pt-pos/ADP]() (13; 0% instances), [pt-pos/PROPN]()-[pt-pos/SCONJ]() (12; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/ADV]()-[pt-pos/SCONJ]() (7; 0% instances), [pt-pos/NUM]()-[pt-pos/SCONJ]() (6; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (6; 0% instances), [pt-pos/DET]()-[pt-pos/SCONJ]() (5; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (5; 0% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/ADP]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/SCONJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 mark	color:blue
+1	Já	Já	ADP	PRP|@ADVL>	_	2	case	_	MWE:Já=não
+2	não	não	NOUN	N|M|S|@P<	Gender=Masc|Number=Sing	3	nmod	_	_
+3	há	haver	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	império	império	NOUN	<np-def>|N|M|S|@<ACC	Gender=Masc|Number=Sing	3	dobj	_	_
+6	de	de	ADP	<sam->|PRP|@N<	_	8	case	_	_
+7	o	o	DET	<-sam>|<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	mal	mal	NOUN	<np-def>|N|M|S|@P<	Gender=Masc|Number=Sing	5	nmod	_	_
+9	para	para	ADP	PRP|@<ADVL	_	10	mark	_	_
+10	combater	combater	VERB	<mv>|V|INF|@ICL-P<	VerbForm=Inf	3	advcl	_	_
+11	.	.	PUNCT	PU|@PU	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 mark	color:blue
+1	Reis	Reis	PROPN	PROP|M|S|@SUBJ>	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	não	não	ADV	ADV|@ADVL>	_	3	neg	_	_
+3	quis	querer	VERB	<mv>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dizer	dizer	VERB	<mv>|V|INF|@ICL-<ACC	VerbForm=Inf	3	xcomp	_	_
+5	se	se	SCONJ	KS|@SUB	_	7	mark	_	_
+6	também	também	ADV	ADV|@ADVL>	_	7	advmod	_	_
+7	abandonará	abandonar	VERB	<mv>|V|FUT|3S|IND|@FS-<ACC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	ccomp	_	_
+8	Esperidião	Esperidião	PROPN	PROP|M|S|@<ACC	Gender=Masc|Number=Sing	7	dobj	_	MWE:Esperidião=Amin
+9	Amin	Amin	PROPN	PROP|@N<	Number=Sing	8	name	_	_
+10	.	.	PUNCT	PU|@PU	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 3 mark	color:blue
+1	Quem	quem	PRON	<interr>|INDP|M/F|S|@SUBJ>	Gender=Unsp|Number=Sing|PronType=Int	2	nsubj	_	_
+2	disse	dizer	VERB	<mv>|V|PS|3S|IND|@FS-QUE	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	KS|@SUB	_	10	mark	_	_
+4	as	o	DET	<artd>|ART|F|P|@>N	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	transferências	transferência	NOUN	<np-def>|N|F|P|@SUBJ>	Gender=Fem|Number=Plur	10	nsubj	_	_
+6	eram	ser	VERB	<mv>|V|IMPF|3P|IND|@FS-<ACC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+7	só	só	ADV	ADV|@>P	_	10	advmod	_	_
+8	em	em	ADP	<sam->|PRP|@<SC	_	10	case	_	_
+9	o	o	DET	<-sam>|<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	defeso	defeso	NOUN	<np-def>|N|M|S|@P<	Gender=Masc|Number=Sing	2	ccomp	_	_
+11	?	?	PUNCT	PU|@PU	_	2	punct	_	_
 
 ~~~
 

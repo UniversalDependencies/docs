@@ -197,7 +197,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 11623 [cs-pos/NUM]() tokens (28% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (11281; 97%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (11281; 97%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (8027; 69%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6864; 59%), <tt><a href="Number.html">Number</a>=Plur</tt> (6127; 53%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (11281; 97%), <tt><a href="NumType.html">NumType</a>=Card</tt> (11281; 97%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (8027; 69%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6864; 59%), <tt><a href="Number.html">Number</a>=Plur</tt> (6127; 53%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -207,7 +207,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 * `Ins` (1047; 9% of non-empty `Case`): <em>jedním, jednou, dvěma, třemi, oběma, čtyřmi, pěti, šesti, deseti, osmi</em>
 * `Loc` (1038; 9% of non-empty `Case`): <em>dvou, jedné, jednom, třech, obou, pěti, čtyřech, třetině, šesti, deseti</em>
 * `Nom` (3039; 26% of non-empty `Case`): <em>jeden, dva, tři, jedna, oba, dvě, obě, čtyři, pět, jedno</em>
-* `EMPTY` (29887): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
+* `EMPTY` (29884): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -223,7 +223,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 20 [cs-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (20; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (20; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (20; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (20; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (20; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (20; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (20; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (20; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (14; 70%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (20; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (20; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (20; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (20; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (20; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (20; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (20; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (20; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (14; 70%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -452,7 +452,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 5 [cs-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (5; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (5; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (5; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (3; 60%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (5; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (5; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (5; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (3; 60%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -589,7 +589,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 406 [cs-pos/DET]() tokens (68% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (379; 93%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (379; 93%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (379; 93%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (355; 87%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (341; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (297; 73%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (379; 93%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (379; 93%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (379; 93%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (355; 87%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (341; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (297; 73%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -642,7 +642,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 3 [cs-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (3; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (3; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (3; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (3; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (3; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (3; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 

@@ -11,7 +11,7 @@ This relation is universal.
 5635 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 8.83247559893523.
 
-The following 13 pairs of parts of speech are connected with `root`: [tr-pos/ROOT]()-[tr-pos/VERB]() (4342; 77% instances), [tr-pos/ROOT]()-[tr-pos/NOUN]() (605; 11% instances), [tr-pos/ROOT]()-[tr-pos/ADJ]() (441; 8% instances), [tr-pos/ROOT]()-[tr-pos/PRON]() (73; 1% instances), [tr-pos/ROOT]()-[tr-pos/ADV]() (64; 1% instances), [tr-pos/ROOT]()-[tr-pos/PUNCT]() (39; 1% instances), [tr-pos/ROOT]()-[tr-pos/PROPN]() (35; 1% instances), [tr-pos/ROOT]()-[tr-pos/ADP]() (16; 0% instances), [tr-pos/ROOT]()-[tr-pos/NUM]() (8; 0% instances), [tr-pos/ROOT]()-[tr-pos/CONJ]() (6; 0% instances), [tr-pos/ROOT]()-[tr-pos/DET]() (3; 0% instances), [tr-pos/ROOT]()-[tr-pos/X]() (2; 0% instances), [tr-pos/ROOT]()-[tr-pos/AUX]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: [tr-pos/ROOT]()-[tr-pos/VERB]() (4341; 77% instances), [tr-pos/ROOT]()-[tr-pos/NOUN]() (606; 11% instances), [tr-pos/ROOT]()-[tr-pos/ADJ]() (441; 8% instances), [tr-pos/ROOT]()-[tr-pos/PRON]() (73; 1% instances), [tr-pos/ROOT]()-[tr-pos/ADV]() (64; 1% instances), [tr-pos/ROOT]()-[tr-pos/PUNCT]() (39; 1% instances), [tr-pos/ROOT]()-[tr-pos/PROPN]() (35; 1% instances), [tr-pos/ROOT]()-[tr-pos/ADP]() (16; 0% instances), [tr-pos/ROOT]()-[tr-pos/NUM]() (8; 0% instances), [tr-pos/ROOT]()-[tr-pos/CONJ]() (6; 0% instances), [tr-pos/ROOT]()-[tr-pos/DET]() (3; 0% instances), [tr-pos/ROOT]()-[tr-pos/X]() (2; 0% instances), [tr-pos/ROOT]()-[tr-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu

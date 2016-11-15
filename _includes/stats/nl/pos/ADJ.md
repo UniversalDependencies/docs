@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: <em>groot, goed, eerste, nieuw, Nederlands, l
 
 The 10 most frequent `ADJ` types:  <em>eerste, nieuwe, grote, goed, Nederlandse, laatste, tweede, groot, verder, goede</em>
 
-The 10 most frequent ambiguous lemmas: <em>groot</em> ([ADJ]() 388, [X]() 1), <em>goed</em> ([ADJ]() 336, [NOUN]() 13, [X]() 2), <em>eerste</em> ([ADJ]() 256, [PROPN]() 3, [X]() 2), <em>nieuw</em> ([ADJ]() 232, [X]() 2, [NOUN]() 2), <em>Nederlands</em> ([ADJ]() 173, [PROPN]() 5, [X]() 1), <em>lang</em> ([ADJ]() 163, [NOUN]() 1), <em>hoog</em> ([ADJ]() 99, [X]() 2), <em>laatst</em> ([ADJ]() 94, [X]() 3), <em>snel</em> ([ADJ]() 86, [VERB]() 1), <em>oud</em> ([ADJ]() 83, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>groot</em> ([ADJ]() 388, [X]() 1), <em>goed</em> ([ADJ]() 336, [NOUN]() 13, [X]() 2), <em>eerste</em> ([ADJ]() 256, [PROPN]() 3, [X]() 2), <em>nieuw</em> ([ADJ]() 232, [NOUN]() 2, [X]() 2), <em>Nederlands</em> ([ADJ]() 173, [PROPN]() 5, [X]() 1), <em>lang</em> ([ADJ]() 163, [NOUN]() 1), <em>hoog</em> ([ADJ]() 99, [X]() 2), <em>laatst</em> ([ADJ]() 94, [X]() 3), <em>snel</em> ([ADJ]() 86, [VERB]() 1), <em>oud</em> ([ADJ]() 83, [X]() 1)
 
 The 10 most frequent ambiguous types:  <em>eerste</em> ([ADJ]() 252, [PROPN]() 3, [X]() 2), <em>nieuwe</em> ([ADJ]() 189, [X]() 2), <em>goed</em> ([ADJ]() 147, [NOUN]() 3, [X]() 2), <em>Nederlandse</em> ([ADJ]() 140, [PROPN]() 22, [X]() 5), <em>laatste</em> ([ADJ]() 115, [X]() 1), <em>groot</em> ([ADJ]() 89, [X]() 1), <em>goede</em> ([ADJ]() 85, [X]() 1), <em>Amerikaanse</em> ([ADJ]() 86, [PROPN]() 1, [X]() 1), <em>hele</em> ([ADJ]() 65, [X]() 1), <em>bekend</em> ([ADJ]() 60, [VERB]() 1)
 

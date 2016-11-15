@@ -24,5 +24,5 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Acc` (1; 25% of non-empty `Case`): <em>Krisen</em>
 * `Nom` (1; 25% of non-empty `Case`): <em>Verantwortung</em>
 * `Voc` (1; 25% of non-empty `Case`): <em>Domine</em>
-* `EMPTY` (74102): <em>ans, ville, pays, partie, nom, monde, fois, région, temps, commune</em>
+* `EMPTY` (74754): <em>ans, ville, pays, partie, nom, monde, fois, région, commune, temps</em>
 

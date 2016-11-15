@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-414 nodes (0%) are attached to their parents as `csubj`.
+415 nodes (0%) are attached to their parents as `csubj`.
 
-341 instances of `csubj` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.71014492753623.
+344 instances of `csubj` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.75903614457831.
 
-The following 15 pairs of parts of speech are connected with `csubj`: [bg-pos/VERB]()-[bg-pos/VERB]() (226; 55% instances), [bg-pos/ADV]()-[bg-pos/VERB]() (110; 27% instances), [bg-pos/NOUN]()-[bg-pos/VERB]() (30; 7% instances), [bg-pos/ADJ]()-[bg-pos/VERB]() (13; 3% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (10; 2% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (9; 2% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (6; 1% instances), [bg-pos/ADJ]()-[bg-pos/ADJ]() (3; 1% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (1; 0% instances), [bg-pos/ADJ]()-[bg-pos/NOUN]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/ADJ]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/NOUN]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADJ]() (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `csubj`: [bg-pos/VERB]()-[bg-pos/VERB]() (215; 52% instances), [bg-pos/ADV]()-[bg-pos/VERB]() (110; 27% instances), [bg-pos/NOUN]()-[bg-pos/VERB]() (43; 10% instances), [bg-pos/ADJ]()-[bg-pos/VERB]() (13; 3% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (8; 2% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (7; 2% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (4; 1% instances), [bg-pos/ADJ]()-[bg-pos/ADJ]() (3; 1% instances), [bg-pos/PRON]()-[bg-pos/VERB]() (3; 1% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (1; 0% instances), [bg-pos/ADJ]()-[bg-pos/NOUN]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/ADJ]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/NOUN]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/DET]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADJ]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -80,12 +80,12 @@ The following 75 pairs of parts of speech are connected with `foreign`: [cs-pos/
 
 This relation is universal.
 
-130 nodes (0%) are attached to their parents as `foreign`.
+142 nodes (0%) are attached to their parents as `foreign`.
 
-81 instances of `foreign` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41538461538462.
+88 instances of `foreign` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.38732394366197.
 
-The following 22 pairs of parts of speech are connected with `foreign`: [cs-pos/NOUN]()-[cs-pos/ADJ]() (35; 27% instances), [cs-pos/NOUN]()-[cs-pos/ADP]() (18; 14% instances), [cs-pos/NOUN]()-[cs-pos/NOUN]() (17; 13% instances), [cs-pos/ADJ]()-[cs-pos/NOUN]() (13; 10% instances), [cs-pos/PROPN]()-[cs-pos/ADJ]() (7; 5% instances), [cs-pos/NOUN]()-[cs-pos/PART]() (6; 5% instances), [cs-pos/PROPN]()-[cs-pos/PROPN]() (5; 4% instances), [cs-pos/ADJ]()-[cs-pos/ADJ]() (4; 3% instances), [cs-pos/ADJ]()-[cs-pos/ADP]() (4; 3% instances), [cs-pos/NOUN]()-[cs-pos/PRON]() (4; 3% instances), [cs-pos/ADJ]()-[cs-pos/PROPN]() (2; 2% instances), [cs-pos/PRON]()-[cs-pos/PRON]() (2; 2% instances), [cs-pos/PROPN]()-[cs-pos/ADP]() (2; 2% instances), [cs-pos/PROPN]()-[cs-pos/PART]() (2; 2% instances), [cs-pos/VERB]()-[cs-pos/NOUN]() (2; 2% instances), [cs-pos/ADP]()-[cs-pos/PROPN]() (1; 1% instances), [cs-pos/ADV]()-[cs-pos/ADJ]() (1; 1% instances), [cs-pos/ADV]()-[cs-pos/ADP]() (1; 1% instances), [cs-pos/NOUN]()-[cs-pos/PROPN]() (1; 1% instances), [cs-pos/PROPN]()-[cs-pos/PRON]() (1; 1% instances), [cs-pos/VERB]()-[cs-pos/PRON]() (1; 1% instances), [cs-pos/VERB]()-[cs-pos/VERB]() (1; 1% instances).
+The following 22 pairs of parts of speech are connected with `foreign`: [cs-pos/NOUN]()-[cs-pos/ADJ]() (35; 25% instances), [cs-pos/NOUN]()-[cs-pos/ADP]() (18; 13% instances), [cs-pos/NOUN]()-[cs-pos/NOUN]() (17; 12% instances), [cs-pos/PROPN]()-[cs-pos/ADP]() (14; 10% instances), [cs-pos/ADJ]()-[cs-pos/NOUN]() (13; 9% instances), [cs-pos/PROPN]()-[cs-pos/ADJ]() (7; 5% instances), [cs-pos/NOUN]()-[cs-pos/PART]() (6; 4% instances), [cs-pos/PROPN]()-[cs-pos/PROPN]() (5; 4% instances), [cs-pos/ADJ]()-[cs-pos/ADJ]() (4; 3% instances), [cs-pos/ADJ]()-[cs-pos/ADP]() (4; 3% instances), [cs-pos/NOUN]()-[cs-pos/PRON]() (4; 3% instances), [cs-pos/ADJ]()-[cs-pos/PROPN]() (2; 1% instances), [cs-pos/PRON]()-[cs-pos/PRON]() (2; 1% instances), [cs-pos/PROPN]()-[cs-pos/PART]() (2; 1% instances), [cs-pos/VERB]()-[cs-pos/NOUN]() (2; 1% instances), [cs-pos/ADP]()-[cs-pos/PROPN]() (1; 1% instances), [cs-pos/ADV]()-[cs-pos/ADJ]() (1; 1% instances), [cs-pos/ADV]()-[cs-pos/ADP]() (1; 1% instances), [cs-pos/NOUN]()-[cs-pos/PROPN]() (1; 1% instances), [cs-pos/PROPN]()-[cs-pos/PRON]() (1; 1% instances), [cs-pos/VERB]()-[cs-pos/PRON]() (1; 1% instances), [cs-pos/VERB]()-[cs-pos/VERB]() (1; 1% instances).
 
 
 ~~~ conllu

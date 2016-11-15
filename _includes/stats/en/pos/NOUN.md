@@ -4,54 +4,54 @@
 
 ## Treebank Statistics (UD_English)
 
-There are 6368 `NOUN` lemmas (33%), 7884 `NOUN` types (34%) and 43788 `NOUN` tokens (17%).
+There are 6281 `NOUN` lemmas (33%), 7768 `NOUN` types (34%) and 41845 `NOUN` tokens (17%).
 Out of 17 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: <em>time, year, service, place, day, people, thanks, food, way, number</em>
+The 10 most frequent `NOUN` lemmas: <em>time, year, service, place, day, people, thanks, food, way, price</em>
 
-The 10 most frequent `NOUN` types:  <em>time, people, service, place, thanks, food, way, year, day, number</em>
+The 10 most frequent `NOUN` types:  <em>time, people, service, place, thanks, food, way, day, year, years</em>
 
-The 10 most frequent ambiguous lemmas: <em>time</em> ([NOUN]() 558, [VERB]() 1), <em>place</em> ([NOUN]() 336, [VERB]() 23), <em>day</em> ([NOUN]() 332, [PROPN]() 1, [ADJ]() 1), <em>food</em> ([NOUN]() 264, [PROPN]() 1), <em>way</em> ([NOUN]() 242, [ADV]() 20), <em>number</em> ([NOUN]() 219, [VERB]() 1, [PROPN]() 1), <em>price</em> ([NOUN]() 197, [VERB]() 5), <em>question</em> ([NOUN]() 153, [VERB]() 6), <em>work</em> ([VERB]() 277, [NOUN]() 152), <em>one</em> ([NUM]() 451, [NOUN]() 146, [PRON]() 26, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>time</em> ([NOUN]() 547, [VERB]() 1), <em>place</em> ([NOUN]() 334, [VERB]() 23), <em>day</em> ([NOUN]() 323, [ADJ]() 1, [PROPN]() 1), <em>food</em> ([NOUN]() 263, [PROPN]() 1), <em>way</em> ([NOUN]() 231, [ADV]() 20), <em>price</em> ([NOUN]() 197, [VERB]() 5), <em>question</em> ([NOUN]() 152, [VERB]() 6), <em>work</em> ([VERB]() 275, [NOUN]() 152), <em>one</em> ([NUM]() 446, [NOUN]() 144, [PRON]() 26, [VERB]() 1), <em>number</em> ([NOUN]() 136, [VERB]() 1, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>place</em> ([NOUN]() 263, [VERB]() 12), <em>food</em> ([NOUN]() 223, [PROPN]() 1), <em>way</em> ([NOUN]() 222, [ADV]() 19), <em>day</em> ([NOUN]() 201, [ADJ]() 1, [PROPN]() 1), <em>number</em> ([NOUN]() 116, [PROPN]() 1), <em>work</em> ([NOUN]() 139, [VERB]() 136), <em>price</em> ([NOUN]() 126, [VERB]() 1), <em>world</em> ([NOUN]() 132, [PROPN]() 3), <em>am</em> ([VERB]() 153, [AUX]() 125, [NOUN]() 30), <em>car</em> ([NOUN]() 112, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>place</em> ([NOUN]() 263, [VERB]() 12), <em>food</em> ([NOUN]() 222, [PROPN]() 1), <em>way</em> ([NOUN]() 211, [ADV]() 19), <em>day</em> ([NOUN]() 200, [ADJ]() 1, [PROPN]() 1), <em>work</em> ([NOUN]() 139, [VERB]() 134), <em>price</em> ([NOUN]() 126, [VERB]() 1), <em>am</em> ([VERB]() 153, [AUX]() 123, [NOUN]() 30), <em>world</em> ([NOUN]() 118, [PROPN]() 3), <em>car</em> ([NOUN]() 112, [PROPN]() 1), <em>name</em> ([NOUN]() 106, [VERB]() 11)
 
 
 * <em>place</em>
   * [NOUN]() 263: <em>The games will have to take <b>place</b> on Fri , Sat , or Sun .</em>
   * [VERB]() 12: <em>We need to change the lock and <b>place</b> posted signs at the gate .</em>
 * <em>food</em>
-  * [NOUN]() 223: <em>Find him before he finds the dog <b>food</b> .</em>
+  * [NOUN]() 222: <em>Find him before he finds the dog <b>food</b> .</em>
   * [PROPN]() 1: <em>Such a convenient location as well with coffee shop and bradley <b>food</b> and beverage right around corner .</em>
 * <em>way</em>
-  * [NOUN]() 222: <em>I was on my <b>way</b> to my wedding fearing death , basically . "</em>
+  * [NOUN]() 211: <em>I was on my <b>way</b> to my wedding fearing death , basically . "</em>
   * [ADV]() 19: <em>There are <b>way</b> more stranger names in the U.S for areas than Miramar .</em>
 * <em>day</em>
-  * [NOUN]() 201: <em>I am looking forward to hearing from you soon and have a nice <b>day</b> .</em>
+  * [NOUN]() 200: <em>I am looking forward to hearing from you soon and have a nice <b>day</b> .</em>
   * [ADJ]() 1: <em>They were chirping and doing their every <b>day</b> business .</em>
   * [PROPN]() 1: <em>Also how much do compact system cameras drop on boxing <b>day</b> ?</em>
-* <em>number</em>
-  * [NOUN]() 116: <em>i got her <b>number</b> though .</em>
-  * [PROPN]() 1: <em>Came the disintegration of the Beatles ' minds with LSD which has caused , among others , schizophrenic lyrics such as " I am the Walrus " and incoherent schizophrenic musical expositions like " Revolution <b>number</b> 9 " .</em>
 * <em>work</em>
   * [NOUN]() 139: <em>Anybody up for happy hour after <b>work</b> ?</em>
-  * [VERB]() 136: <em>This afternoon at 2 PM or later would <b>work</b> for us .</em>
+  * [VERB]() 134: <em>This afternoon at 2 PM or later would <b>work</b> for us .</em>
 * <em>price</em>
   * [NOUN]() 126: <em>Go to Goldstar.com and get tickets for about a third of the <b>price</b> .</em>
   * [VERB]() 1: <em>Secondly , he will still out <b>price</b> performers that you have in the same job group that are excellent and strong performers respectively eg. Paul Thomas , Jason Choate , Todd DeCook and Peter Makkai .</em>
-* <em>world</em>
-  * [NOUN]() 132: <em>Are there any new developments in the trader <b>world</b> ?</em>
-  * [PROPN]() 3: <em>how much does it cost to join <b>world</b> resorts international ?</em>
 * <em>am</em>
   * [VERB]() 153: <em>what do you mean i <b>am</b> perverted ?</em>
-  * [AUX]() 125: <em>i <b>am</b> not going unless lisa promises to get all wasted and boob out .</em>
+  * [AUX]() 123: <em>i <b>am</b> not going unless lisa promises to get all wasted and boob out .</em>
   * [NOUN]() 30: <em>October 4 , ENA orientation in the <b>am</b> .</em>
+* <em>world</em>
+  * [NOUN]() 118: <em>Are there any new developments in the trader <b>world</b> ?</em>
+  * [PROPN]() 3: <em>how much does it cost to join <b>world</b> resorts international ?</em>
 * <em>car</em>
   * [NOUN]() 112: <em>I might just sell the <b>car</b> and get you to drive me around all winter .</em>
   * [PROPN]() 1: <em>the team at barton <b>car</b> wash was very friendly .</em>
+* <em>name</em>
+  * [NOUN]() 106: <em>Our new domain <b>name</b> is paulhastings.com .</em>
+  * [VERB]() 11: <em>What is your cat s name and why did you <b>name</b> him / her that ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.238065 (the average of all parts of speech is 1.173797).
+The form / lemma ratio of `NOUN` is 1.236746 (the average of all parts of speech is 1.173735).
 
 The 1st highest number of forms (3) was observed with the lemma “grocery”: <em>groceries, grocery, grocerys</em>.
 
@@ -59,34 +59,34 @@ The 2nd highest number of forms (3) was observed with the lemma “mystery”: <
 
 The 3rd highest number of forms (3) was observed with the lemma “potato”: <em>potato, potatoes, potatos</em>.
 
-`NOUN` occurs with 3 features: [en-feat/Number]() (43783; 100% instances), [en-feat/VerbForm]() (2; 0% instances), [en-feat/Degree]() (1; 0% instances)
+`NOUN` occurs with 2 features: [en-feat/Number]() (41842; 100% instances), [en-feat/Degree]() (1; 0% instances)
 
-`NOUN` occurs with 5 feature-value pairs: `Degree=Pos`, `Number=Plur`, `Number=Sing`, `VerbForm=Ger`, `VerbForm=Inf`
+`NOUN` occurs with 3 feature-value pairs: `Degree=Pos`, `Number=Plur`, `Number=Sing`
 
-`NOUN` occurs with 6 feature combinations.
-The most frequent feature combination is `Number=Sing` (33512 tokens).
-Examples: <em>time, service, place, thanks, food, way, year, day, number, pm</em>
+`NOUN` occurs with 4 feature combinations.
+The most frequent feature combination is `Number=Sing` (31930 tokens).
+Examples: <em>time, service, place, thanks, food, way, day, year, pm, work</em>
 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 37 different relations: [en-dep/nmod]() (13259; 30% instances), [en-dep/dobj]() (8744; 20% instances), [en-dep/compound]() (5716; 13% instances), [en-dep/nsubj]() (5231; 12% instances), [en-dep/conj]() (2994; 7% instances), [en-dep/root]() (2792; 6% instances), [en-dep/nmod:tmod]() (864; 2% instances), [en-dep/appos]() (835; 2% instances), [en-dep/nsubjpass]() (725; 2% instances), [en-dep/nmod:npmod]() (532; 1% instances), [en-dep/parataxis]() (348; 1% instances), [en-dep/list]() (332; 1% instances), [en-dep/ccomp]() (286; 1% instances), [en-dep/nmod:poss]() (264; 1% instances), [en-dep/advcl]() (219; 1% instances), [en-dep/xcomp]() (191; 0% instances), [en-dep/acl:relcl]() (100; 0% instances), [en-dep/nummod]() (52; 0% instances), [en-dep/iobj]() (49; 0% instances), [en-dep/remnant]() (42; 0% instances), [en-dep/vocative]() (33; 0% instances), [en-dep/mwe]() (32; 0% instances), [en-dep/advmod]() (31; 0% instances), [en-dep/acl]() (28; 0% instances), [en-dep/discourse]() (23; 0% instances), [en-dep/amod]() (19; 0% instances), [en-dep/punct]() (12; 0% instances), [en-dep/name]() (10; 0% instances), [en-dep/case]() (5; 0% instances), [en-dep/csubj]() (5; 0% instances), [en-dep/dep]() (4; 0% instances), [en-dep/goeswith]() (4; 0% instances), [en-dep/cc]() (2; 0% instances), [en-dep/dislocated]() (2; 0% instances), [en-dep/csubjpass]() (1; 0% instances), [en-dep/mark]() (1; 0% instances), [en-dep/reparandum]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 37 different relations: [en-dep/nmod]() (12657; 30% instances), [en-dep/dobj]() (8373; 20% instances), [en-dep/compound]() (5532; 13% instances), [en-dep/nsubj]() (4947; 12% instances), [en-dep/conj]() (2889; 7% instances), [en-dep/root]() (2745; 7% instances), [en-dep/nmod:tmod]() (857; 2% instances), [en-dep/nsubjpass]() (691; 2% instances), [en-dep/appos]() (602; 1% instances), [en-dep/nmod:npmod]() (521; 1% instances), [en-dep/parataxis]() (342; 1% instances), [en-dep/list]() (331; 1% instances), [en-dep/ccomp]() (277; 1% instances), [en-dep/nmod:poss]() (243; 1% instances), [en-dep/advcl]() (211; 1% instances), [en-dep/xcomp]() (186; 0% instances), [en-dep/acl:relcl]() (96; 0% instances), [en-dep/nummod]() (52; 0% instances), [en-dep/iobj]() (46; 0% instances), [en-dep/remnant]() (41; 0% instances), [en-dep/advmod]() (31; 0% instances), [en-dep/vocative]() (30; 0% instances), [en-dep/acl]() (28; 0% instances), [en-dep/mwe]() (28; 0% instances), [en-dep/discourse]() (23; 0% instances), [en-dep/amod]() (19; 0% instances), [en-dep/punct]() (12; 0% instances), [en-dep/name]() (10; 0% instances), [en-dep/case]() (5; 0% instances), [en-dep/csubj]() (5; 0% instances), [en-dep/dep]() (4; 0% instances), [en-dep/goeswith]() (4; 0% instances), [en-dep/cc]() (2; 0% instances), [en-dep/dislocated]() (2; 0% instances), [en-dep/csubjpass]() (1; 0% instances), [en-dep/mark]() (1; 0% instances), [en-dep/reparandum]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 18 different parts of speech: [VERB]() (21037; 48% instances), [NOUN]() (14887; 34% instances), [ROOT]() (2792; 6% instances), [ADJ]() (2320; 5% instances), [PROPN]() (1041; 2% instances), [NUM]() (573; 1% instances), [ADV]() (515; 1% instances), [PRON]() (203; 0% instances), [DET]() (166; 0% instances), [SYM]() (130; 0% instances), [ADP]() (46; 0% instances), [X]() (26; 0% instances), [AUX]() (13; 0% instances), [SCONJ]() (13; 0% instances), [INTJ]() (11; 0% instances), [PART]() (6; 0% instances), [PUNCT]() (6; 0% instances), [CONJ]() (3; 0% instances)
+Parents of `NOUN` nodes belong to 18 different parts of speech: [VERB]() (20108; 48% instances), [NOUN]() (14186; 34% instances), [ROOT]() (2745; 7% instances), [ADJ]() (2226; 5% instances), [PROPN]() (1009; 2% instances), [ADV]() (505; 1% instances), [NUM]() (420; 1% instances), [PRON]() (285; 1% instances), [DET]() (161; 0% instances), [SYM]() (80; 0% instances), [ADP]() (44; 0% instances), [X]() (25; 0% instances), [AUX]() (13; 0% instances), [SCONJ]() (13; 0% instances), [INTJ]() (10; 0% instances), [PART]() (6; 0% instances), [PUNCT]() (6; 0% instances), [CONJ]() (3; 0% instances)
 
-7976 (18%) `NOUN` nodes are leaves.
+7533 (18%) `NOUN` nodes are leaves.
 
-10968 (25%) `NOUN` nodes have one child.
+10418 (25%) `NOUN` nodes have one child.
 
-11661 (27%) `NOUN` nodes have two children.
+11162 (27%) `NOUN` nodes have two children.
 
-13183 (30%) `NOUN` nodes have three or more children.
+12732 (30%) `NOUN` nodes have three or more children.
 
 The highest child degree of a `NOUN` node is 30.
 
-Children of `NOUN` nodes are attached using 41 different relations: [en-dep/det]() (17196; 19% instances), [en-dep/case]() (14378; 16% instances), [en-dep/amod]() (10931; 12% instances), [en-dep/nmod]() (7436; 8% instances), [en-dep/punct]() (7030; 8% instances), [en-dep/compound]() (6969; 8% instances), [en-dep/nmod:poss]() (4283; 5% instances), [en-dep/conj]() (3045; 3% instances), [en-dep/cc]() (2524; 3% instances), [en-dep/nummod]() (2011; 2% instances), [en-dep/cop]() (1997; 2% instances), [en-dep/acl:relcl]() (1942; 2% instances), [en-dep/nsubj]() (1786; 2% instances), [en-dep/acl]() (1726; 2% instances), [en-dep/advmod]() (1232; 1% instances), [en-dep/appos]() (947; 1% instances), [en-dep/neg]() (499; 1% instances), [en-dep/mark]() (436; 0% instances), [en-dep/parataxis]() (407; 0% instances), [en-dep/aux]() (252; 0% instances), [en-dep/det:predet]() (195; 0% instances), [en-dep/advcl]() (193; 0% instances), [en-dep/goeswith]() (186; 0% instances), [en-dep/list]() (160; 0% instances), [en-dep/nmod:npmod]() (129; 0% instances), [en-dep/nmod:tmod]() (125; 0% instances), [en-dep/discourse]() (120; 0% instances), [en-dep/name]() (88; 0% instances), [en-dep/csubj]() (56; 0% instances), [en-dep/vocative]() (52; 0% instances), [en-dep/cc:preconj]() (45; 0% instances), [en-dep/remnant]() (43; 0% instances), [en-dep/expl]() (36; 0% instances), [en-dep/ccomp]() (8; 0% instances), [en-dep/dobj]() (6; 0% instances), [en-dep/reparandum]() (6; 0% instances), [en-dep/dep]() (4; 0% instances), [en-dep/auxpass]() (3; 0% instances), [en-dep/nsubjpass]() (3; 0% instances), [en-dep/dislocated]() (1; 0% instances), [en-dep/xcomp]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 41 different relations: [en-dep/det]() (16864; 20% instances), [en-dep/case]() (13738; 16% instances), [en-dep/amod]() (10515; 12% instances), [en-dep/nmod]() (6911; 8% instances), [en-dep/punct]() (6862; 8% instances), [en-dep/compound]() (6717; 8% instances), [en-dep/nmod:poss]() (4173; 5% instances), [en-dep/conj]() (2981; 3% instances), [en-dep/cc]() (2465; 3% instances), [en-dep/nummod]() (1964; 2% instances), [en-dep/cop]() (1947; 2% instances), [en-dep/nsubj]() (1744; 2% instances), [en-dep/acl:relcl]() (1680; 2% instances), [en-dep/acl]() (1598; 2% instances), [en-dep/advmod]() (1188; 1% instances), [en-dep/appos]() (925; 1% instances), [en-dep/neg]() (487; 1% instances), [en-dep/mark]() (420; 0% instances), [en-dep/parataxis]() (398; 0% instances), [en-dep/aux]() (242; 0% instances), [en-dep/det:predet]() (194; 0% instances), [en-dep/advcl]() (185; 0% instances), [en-dep/goeswith]() (185; 0% instances), [en-dep/list]() (160; 0% instances), [en-dep/nmod:npmod]() (127; 0% instances), [en-dep/nmod:tmod]() (120; 0% instances), [en-dep/discourse]() (117; 0% instances), [en-dep/name]() (69; 0% instances), [en-dep/csubj]() (55; 0% instances), [en-dep/vocative]() (52; 0% instances), [en-dep/cc:preconj]() (45; 0% instances), [en-dep/remnant]() (42; 0% instances), [en-dep/expl]() (34; 0% instances), [en-dep/ccomp]() (7; 0% instances), [en-dep/dobj]() (6; 0% instances), [en-dep/reparandum]() (6; 0% instances), [en-dep/dep]() (4; 0% instances), [en-dep/auxpass]() (3; 0% instances), [en-dep/nsubjpass]() (3; 0% instances), [en-dep/dislocated]() (1; 0% instances), [en-dep/xcomp]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 17 different parts of speech: [DET]() (17760; 20% instances), [NOUN]() (14887; 17% instances), [ADP]() (13911; 16% instances), [ADJ]() (10629; 12% instances), [VERB]() (7162; 8% instances), [PUNCT]() (7084; 8% instances), [PRON]() (5033; 6% instances), [PROPN]() (3999; 5% instances), [CONJ]() (2450; 3% instances), [NUM]() (2389; 3% instances), [ADV]() (1420; 2% instances), [PART]() (511; 1% instances), [X]() (361; 0% instances), [SCONJ]() (336; 0% instances), [AUX]() (271; 0% instances), [SYM]() (203; 0% instances), [INTJ]() (81; 0% instances)
+Children of `NOUN` nodes belong to 17 different parts of speech: [DET]() (17422; 20% instances), [NOUN]() (14186; 17% instances), [ADP]() (13296; 16% instances), [ADJ]() (10216; 12% instances), [PUNCT]() (6916; 8% instances), [VERB]() (6699; 8% instances), [PRON]() (4976; 6% instances), [PROPN]() (3754; 4% instances), [CONJ]() (2393; 3% instances), [NUM]() (2310; 3% instances), [ADV]() (1369; 2% instances), [PART]() (482; 1% instances), [X]() (360; 0% instances), [SCONJ]() (323; 0% instances), [AUX]() (255; 0% instances), [SYM]() (200; 0% instances), [INTJ]() (78; 0% instances)
 
 
 
@@ -94,23 +94,23 @@ Children of `NOUN` nodes belong to 17 different parts of speech: [DET]() (17760;
 
 ## Treebank Statistics (UD_English-ESL)
 
-There are 1 `NOUN` lemmas (6%), 1 `NOUN` types (6%) and 15986 `NOUN` tokens (16%).
+There are 1 `NOUN` lemmas (6%), 1 `NOUN` types (6%) and 15635 `NOUN` tokens (16%).
 Out of 17 observed tags, the rank of `NOUN` is: 8 in number of lemmas, 8 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>_</em>
 
 The 10 most frequent `NOUN` types:  <em>_</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
-The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
 
 * <em>_</em>
-  * [NOUN]() 15986: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ <b>_</b> _</em>
+  * [NOUN]() 15635: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ _ _</em>
   * [VERB]() 15080: <em>_ <b>_</b> _ _ _ _ <b>_</b> _ _ _ _ <b>_</b> _ <b>_</b> _ _</em>
-  * [DET]() 10562: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
-  * [PRON]() 9758: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [PRON]() 10618: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _</em>
+  * [DET]() 10057: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
   * [PUNCT]() 9580: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b></em>
   * [ADP]() 8546: <em>_ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _</em>
   * [ADJ]() 5857: <em>_ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
@@ -118,7 +118,7 @@ The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 1508
   * [AUX]() 4533: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _</em>
   * [PART]() 3531: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _</em>
   * [CONJ]() 3198: <em>_ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
-  * [SCONJ]() 2520: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * [SCONJ]() 2516: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
   * [PROPN]() 1795: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _</em>
   * [NUM]() 844: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
   * [INTJ]() 80: <em>_ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
@@ -136,23 +136,23 @@ The 1st highest number of forms (1) was observed with the lemma “_”: <em>_</
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 35 different relations: [en-dep/nmod]() (5890; 37% instances), [en-dep/dobj]() (3933; 25% instances), [en-dep/nsubj]() (2187; 14% instances), [en-dep/conj]() (1040; 7% instances), [en-dep/compound]() (995; 6% instances), [en-dep/root]() (513; 3% instances), [en-dep/nmod:tmod]() (265; 2% instances), [en-dep/nsubjpass]() (200; 1% instances), [en-dep/nmod:npmod]() (170; 1% instances), [en-dep/advcl]() (148; 1% instances), [en-dep/ccomp]() (123; 1% instances), [en-dep/nmod:poss]() (122; 1% instances), [en-dep/appos]() (116; 1% instances), [en-dep/parataxis]() (65; 0% instances), [en-dep/xcomp]() (59; 0% instances), [en-dep/acl:relcl]() (50; 0% instances), [en-dep/mwe]() (31; 0% instances), [en-dep/iobj]() (16; 0% instances), [en-dep/acl]() (10; 0% instances), [en-dep/goeswith]() (10; 0% instances), [en-dep/list]() (10; 0% instances), [en-dep/amod]() (6; 0% instances), [en-dep/csubj]() (4; 0% instances), [en-dep/csubjpass]() (3; 0% instances), [en-dep/discourse]() (3; 0% instances), [en-dep/nummod]() (3; 0% instances), [en-dep/vocative]() (3; 0% instances), [en-dep/dislocated]() (2; 0% instances), [en-dep/mark]() (2; 0% instances), [en-dep/remnant]() (2; 0% instances), [en-dep/advmod]() (1; 0% instances), [en-dep/case]() (1; 0% instances), [en-dep/cc]() (1; 0% instances), [en-dep/det]() (1; 0% instances), [en-dep/foreign]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 35 different relations: [en-dep/nmod]() (5831; 37% instances), [en-dep/dobj]() (3785; 24% instances), [en-dep/nsubj]() (2073; 13% instances), [en-dep/conj]() (1026; 7% instances), [en-dep/compound]() (995; 6% instances), [en-dep/root]() (510; 3% instances), [en-dep/nmod:tmod]() (265; 2% instances), [en-dep/nsubjpass]() (197; 1% instances), [en-dep/nmod:npmod]() (170; 1% instances), [en-dep/advcl]() (146; 1% instances), [en-dep/ccomp]() (122; 1% instances), [en-dep/nmod:poss]() (120; 1% instances), [en-dep/appos]() (116; 1% instances), [en-dep/parataxis]() (64; 0% instances), [en-dep/xcomp]() (58; 0% instances), [en-dep/acl:relcl]() (50; 0% instances), [en-dep/mwe]() (31; 0% instances), [en-dep/iobj]() (14; 0% instances), [en-dep/acl]() (10; 0% instances), [en-dep/goeswith]() (10; 0% instances), [en-dep/list]() (9; 0% instances), [en-dep/amod]() (6; 0% instances), [en-dep/csubj]() (4; 0% instances), [en-dep/csubjpass]() (3; 0% instances), [en-dep/discourse]() (3; 0% instances), [en-dep/nummod]() (3; 0% instances), [en-dep/vocative]() (3; 0% instances), [en-dep/dislocated]() (2; 0% instances), [en-dep/mark]() (2; 0% instances), [en-dep/remnant]() (2; 0% instances), [en-dep/advmod]() (1; 0% instances), [en-dep/case]() (1; 0% instances), [en-dep/cc]() (1; 0% instances), [en-dep/det]() (1; 0% instances), [en-dep/foreign]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 16 different parts of speech: [VERB]() (9503; 59% instances), [NOUN]() (4348; 27% instances), [ADJ]() (1067; 7% instances), [ROOT]() (513; 3% instances), [ADV]() (156; 1% instances), [PROPN]() (131; 1% instances), [NUM]() (99; 1% instances), [PRON]() (70; 0% instances), [DET]() (39; 0% instances), [ADP]() (33; 0% instances), [SYM]() (8; 0% instances), [AUX]() (6; 0% instances), [SCONJ]() (5; 0% instances), [X]() (5; 0% instances), [CONJ]() (2; 0% instances), [INTJ]() (1; 0% instances)
+Parents of `NOUN` nodes belong to 16 different parts of speech: [VERB]() (9219; 59% instances), [NOUN]() (4277; 27% instances), [ADJ]() (1043; 7% instances), [ROOT]() (510; 3% instances), [ADV]() (153; 1% instances), [PROPN]() (131; 1% instances), [PRON]() (114; 1% instances), [NUM]() (99; 1% instances), [ADP]() (33; 0% instances), [DET]() (29; 0% instances), [SYM]() (8; 0% instances), [AUX]() (6; 0% instances), [SCONJ]() (5; 0% instances), [X]() (5; 0% instances), [CONJ]() (2; 0% instances), [INTJ]() (1; 0% instances)
 
-2447 (15%) `NOUN` nodes are leaves.
+2269 (15%) `NOUN` nodes are leaves.
 
-4537 (28%) `NOUN` nodes have one child.
+4414 (28%) `NOUN` nodes have one child.
 
-4951 (31%) `NOUN` nodes have two children.
+4918 (31%) `NOUN` nodes have two children.
 
-4051 (25%) `NOUN` nodes have three or more children.
+4034 (26%) `NOUN` nodes have three or more children.
 
 The highest child degree of a `NOUN` node is 18.
 
-Children of `NOUN` nodes are attached using 39 different relations: [en-dep/det]() (6885; 22% instances), [en-dep/case]() (6301; 20% instances), [en-dep/amod]() (3424; 11% instances), [en-dep/nmod]() (2491; 8% instances), [en-dep/nmod:poss]() (2072; 7% instances), [en-dep/punct]() (1604; 5% instances), [en-dep/conj]() (1101; 4% instances), [en-dep/compound]() (1049; 3% instances), [en-dep/cop]() (921; 3% instances), [en-dep/cc]() (909; 3% instances), [en-dep/acl:relcl]() (869; 3% instances), [en-dep/nsubj]() (792; 3% instances), [en-dep/acl]() (479; 2% instances), [en-dep/nummod]() (464; 1% instances), [en-dep/advmod]() (447; 1% instances), [en-dep/mark]() (228; 1% instances), [en-dep/det:predet]() (186; 1% instances), [en-dep/neg]() (177; 1% instances), [en-dep/advcl]() (167; 1% instances), [en-dep/aux]() (150; 0% instances), [en-dep/appos]() (148; 0% instances), [en-dep/parataxis]() (96; 0% instances), [en-dep/expl]() (58; 0% instances), [en-dep/csubj]() (53; 0% instances), [en-dep/goeswith]() (40; 0% instances), [en-dep/nmod:npmod]() (26; 0% instances), [en-dep/dobj]() (17; 0% instances), [en-dep/nmod:tmod]() (16; 0% instances), [en-dep/xcomp]() (16; 0% instances), [en-dep/cc:preconj]() (14; 0% instances), [en-dep/list]() (13; 0% instances), [en-dep/discourse]() (7; 0% instances), [en-dep/ccomp]() (5; 0% instances), [en-dep/remnant]() (2; 0% instances), [en-dep/reparandum]() (2; 0% instances), [en-dep/vocative]() (2; 0% instances), [en-dep/compound:prt]() (1; 0% instances), [en-dep/foreign]() (1; 0% instances), [en-dep/iobj]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 39 different relations: [en-dep/det]() (6882; 22% instances), [en-dep/case]() (6234; 20% instances), [en-dep/amod]() (3386; 11% instances), [en-dep/nmod]() (2453; 8% instances), [en-dep/nmod:poss]() (2072; 7% instances), [en-dep/punct]() (1591; 5% instances), [en-dep/conj]() (1094; 4% instances), [en-dep/compound]() (1049; 3% instances), [en-dep/cop]() (914; 3% instances), [en-dep/cc]() (903; 3% instances), [en-dep/acl:relcl]() (828; 3% instances), [en-dep/nsubj]() (787; 3% instances), [en-dep/nummod]() (464; 1% instances), [en-dep/acl]() (462; 1% instances), [en-dep/advmod]() (441; 1% instances), [en-dep/mark]() (225; 1% instances), [en-dep/det:predet]() (186; 1% instances), [en-dep/neg]() (177; 1% instances), [en-dep/advcl]() (167; 1% instances), [en-dep/aux]() (150; 0% instances), [en-dep/appos]() (145; 0% instances), [en-dep/parataxis]() (93; 0% instances), [en-dep/expl]() (58; 0% instances), [en-dep/csubj]() (52; 0% instances), [en-dep/goeswith]() (40; 0% instances), [en-dep/nmod:npmod]() (26; 0% instances), [en-dep/dobj]() (16; 0% instances), [en-dep/nmod:tmod]() (16; 0% instances), [en-dep/xcomp]() (15; 0% instances), [en-dep/cc:preconj]() (14; 0% instances), [en-dep/list]() (13; 0% instances), [en-dep/discourse]() (6; 0% instances), [en-dep/ccomp]() (5; 0% instances), [en-dep/remnant]() (2; 0% instances), [en-dep/reparandum]() (2; 0% instances), [en-dep/vocative]() (2; 0% instances), [en-dep/compound:prt]() (1; 0% instances), [en-dep/foreign]() (1; 0% instances), [en-dep/iobj]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 17 different parts of speech: [DET]() (9237; 30% instances), [ADP]() (6091; 20% instances), [NOUN]() (4348; 14% instances), [ADJ]() (3586; 11% instances), [VERB]() (2609; 8% instances), [PUNCT]() (1603; 5% instances), [CONJ]() (911; 3% instances), [PRON]() (702; 2% instances), [ADV]() (520; 2% instances), [NUM]() (507; 2% instances), [PROPN]() (465; 1% instances), [PART]() (248; 1% instances), [SCONJ]() (184; 1% instances), [AUX]() (154; 0% instances), [X]() (48; 0% instances), [SYM]() (14; 0% instances), [INTJ]() (7; 0% instances)
+Children of `NOUN` nodes belong to 17 different parts of speech: [DET]() (9112; 29% instances), [ADP]() (6026; 19% instances), [NOUN]() (4277; 14% instances), [ADJ]() (3546; 11% instances), [VERB]() (2539; 8% instances), [PUNCT]() (1590; 5% instances), [CONJ]() (905; 3% instances), [PRON]() (843; 3% instances), [ADV]() (514; 2% instances), [NUM]() (507; 2% instances), [PROPN]() (465; 2% instances), [PART]() (246; 1% instances), [SCONJ]() (181; 1% instances), [AUX]() (154; 0% instances), [X]() (48; 0% instances), [SYM]() (14; 0% instances), [INTJ]() (6; 0% instances)
 
 
 

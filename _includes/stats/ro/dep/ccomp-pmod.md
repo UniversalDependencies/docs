@@ -6,34 +6,30 @@
 
 This relation is a language-specific subtype of [ccomp]().
 
-121 nodes (0%) are attached to their parents as `ccomp:pmod`.
+196 nodes (0%) are attached to their parents as `ccomp:pmod`.
 
-121 instances of `ccomp:pmod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.50413223140496.
+196 instances of `ccomp:pmod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.38265306122449.
 
-The following 8 pairs of parts of speech are connected with `ccomp:pmod`: [ro-pos/VERB]()-[ro-pos/VERB]() (87; 72% instances), [ro-pos/ADJ]()-[ro-pos/VERB]() (17; 14% instances), [ro-pos/ADV]()-[ro-pos/VERB]() (9; 7% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (2; 2% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (2; 2% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (2; 2% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (1; 1% instances), [ro-pos/ADP]()-[ro-pos/VERB]() (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `ccomp:pmod`: [ro-pos/VERB]()-[ro-pos/VERB]() (148; 76% instances), [ro-pos/ADJ]()-[ro-pos/VERB]() (19; 10% instances), [ro-pos/ADV]()-[ro-pos/VERB]() (15; 8% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (4; 2% instances), [ro-pos/ADV]()-[ro-pos/NOUN]() (2; 1% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (2; 1% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (2; 1% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (1; 1% instances), [ro-pos/ADP]()-[ro-pos/VERB]() (1; 1% instances), [ro-pos/AUX]()-[ro-pos/VERB]() (1; 1% instances), [ro-pos/VERB]()-[ro-pos/ADV]() (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 ccomp:pmod	color:blue
-1	/	/	SYM	SLASH	AdpType=Prep	3	iobj	_	_
-2	Te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	3	expl:pv	_	_
-3	uită	uita	VERB	Vmm-2s	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-4	cum	cum	ADV	Rw	PronType=Int,Rel	5	advmod	_	_
-5	ninge	ninge	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp:pmod	_	_
-6	Decembre	Decembre	PROPN	Np	_	5	nsubj	_	_
-7	…	…	PUNCT	HELLIP	_	3	punct	_	_
-8	/	/	SYM	SLASH	AdpType=Prep	3	punct	_	_
-9	Nu	nu	PART	Qz	Negative=Neg	10	neg	_	_
-10	râde	râde	VERB	Vmm-2s	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	conj	_	_
-11	…	…	PUNCT	HELLIP	_	3	punct	_	_
-12	citește	citi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-13	-nainte	înainte	ADV	Rgpy	Degree=Pos|Variant=Short	12	advmod	_	_
-14	.	.	PUNCT	PERIOD	_	3	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 ccomp:pmod	color:blue
+1	A	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	_
+2	doua	doi	NUM	Mofs-l	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	3	nummod	_	_
+3	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nmod:tmod	_	_
+4	avu	avea	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	grijă	grijă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	mwe	_	_
+6	să	să	PART	Qs	Mood=Sub	7	mark	_	_
+7	sosească	sosi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp:pmod	_	_
+8	printre	printre	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+9	primii	prim	NUM	Momprly	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|NumForm=Word|NumType=Ord	7	nummod	_	_
+10	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~
 
@@ -64,26 +60,18 @@ The following 8 pairs of parts of speech are connected with `ccomp:pmod`: [ro-po
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 10 ccomp:pmod	color:blue
-1	i-	el	PRON	Pp3-sd--y-----w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	3	iobj	_	_
-2	am	avea	AUX	Va--1	Person=1	3	aux	_	_
-3	răspuns	răspunde	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-4	eu	eu	PRON	Pp1-sn--------s	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	3	nsubj	_	_
-5	,	,	PUNCT	COMMA	_	3	punct	_	_
-6	curios	curios	ADV	Rgp	Degree=Pos	3	xcomp	_	_
-7	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	advmod	_	_
-8	culme	culme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	mwe	_	_
-9	să	să	PART	Qs	Mood=Sub	10	mark	_	_
-10	aud	auzi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp:pmod	_	_
-11	ce-	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	nsubj	_	_
-12	o	vrea	AUX	Va--3s	Number=Sing|Person=3	14	aux	_	_
-13	să	să	PART	Qf	Tense=Fut	14	mark	_	_
-14	urmeze	urma	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
-15	.	.	PUNCT	PERIOD	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 ccomp:pmod	color:blue
+1	Ești	fi	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	sigur	sigur	ADV	Rgp	Degree=Pos	0	root	_	_
+3	că	că	SCONJ	Csssp	Negative=Pos	4	mark	_	_
+4	ții	ține	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp:pmod	_	_
+5	minte	minte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	mwe	_	_
+6	totul	tot	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	dobj	_	_
+7	?	?	PUNCT	QUEST	_	2	punct	_	_
 
 ~~~
 

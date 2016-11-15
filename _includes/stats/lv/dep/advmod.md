@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-772 nodes (4%) are attached to their parents as `advmod`.
+806 nodes (4%) are attached to their parents as `advmod`.
 
-700 instances of `advmod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.28626943005181.
+727 instances of `advmod` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.33622828784119.
 
-The following 9 pairs of parts of speech are connected with `advmod`: [lv-pos/VERB]()-[lv-pos/ADV]() (598; 77% instances), [lv-pos/ADJ]()-[lv-pos/ADV]() (50; 6% instances), [lv-pos/NOUN]()-[lv-pos/ADV]() (42; 5% instances), [lv-pos/ADV]()-[lv-pos/ADV]() (36; 5% instances), [lv-pos/NUM]()-[lv-pos/ADV]() (28; 4% instances), [lv-pos/PRON]()-[lv-pos/ADV]() (8; 1% instances), [lv-pos/DET]()-[lv-pos/ADV]() (4; 1% instances), [lv-pos/PROPN]()-[lv-pos/ADV]() (4; 1% instances), [lv-pos/PUNCT]()-[lv-pos/ADV]() (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `advmod`: [lv-pos/VERB]()-[lv-pos/ADV]() (620; 77% instances), [lv-pos/ADJ]()-[lv-pos/ADV]() (51; 6% instances), [lv-pos/NOUN]()-[lv-pos/ADV]() (51; 6% instances), [lv-pos/ADV]()-[lv-pos/ADV]() (37; 5% instances), [lv-pos/NUM]()-[lv-pos/ADV]() (27; 3% instances), [lv-pos/PRON]()-[lv-pos/ADV]() (9; 1% instances), [lv-pos/DET]()-[lv-pos/ADV]() (4; 0% instances), [lv-pos/PROPN]()-[lv-pos/ADV]() (4; 0% instances), [lv-pos/PUNCT]()-[lv-pos/ADV]() (2; 0% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,8 +36,8 @@ The following 9 pairs of parts of speech are connected with `advmod`: [lv-pos/VE
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 advmod	color:blue
-1	Bet	bet	CONJ	ccs	_	10	discourse	_	_
-2	tāpat	tāpat	SCONJ	csc_SPLIT_FIRST	_	4	mark	_	_
+1	Bet	bet	CONJ	ccs	_	10	cc	_	_
+2	tāpat	tāpat	PART	csc_SPLIT_FIRST	_	4	mark	_	_
 3	kā	kā	SCONJ	csc_SPLIT_PART	_	2	mwe	_	_
 4	Rīga	Rīga	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	10	acl	_	SpaceAfter=No
 5	,	,	PUNCT	zc	_	4	punct	_	_
@@ -52,21 +52,22 @@ The following 9 pairs of parts of speech are connected with `advmod`: [lv-pos/VE
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 7 advmod	color:blue
-1	Ģirts	Ģirts	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 advmod	color:blue
+1	Ģirts	Ģirts	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	_
 2	Kuplais	Kuplais	PROPN	npmsn2	Case=Nom|Gender=Masc|Number=Sing	1	name	_	SpaceAfter=No
 3	:	:	PUNCT	zo	_	1	punct	_	_
-4	Degviela	degviela	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
-5	pašlaik	pašlaik	ADV	r0t	_	6	advmod	_	_
-6	maksā	maksāt	VERB	vmnipt230an	Mood=Ind|Negative=Neg|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-7	gandrīz	gandrīz	ADV	r0q	_	8	advmod	_	_
-8	latu	lats	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	6	dobj	_	_
-9	litrā	litrs	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	8	acl	_	SpaceAfter=No
-10	.	.	PUNCT	zs	_	6	punct	_	_
+4	Es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	domāju	domāt	VERB	vmnipt21san	Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	zc	_	9	punct	_	_
+7	ka	ka	SCONJ	css	_	9	mark	_	_
+8	vismaz	vismaz	ADV	r0q	_	9	advmod	_	_
+9	pusmiljonu	pusmiljons	NOUN	ncmpa1	Case=Acc|Gender=Masc|Number=Plur	5	iobj	_	_
+10	latu	lats	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	zs	_	5	punct	_	_
 
 ~~~
 

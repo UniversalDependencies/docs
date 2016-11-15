@@ -29,8 +29,8 @@ The following 83 pairs of parts of speech are connected with `conj`: [no-pos/NOU
 7	og	og	CONJ	_	_	6	cc	_	_
 8	holdningene	holdning	NOUN	_	Definite=Def|Gender=Fem|Number=Plur	6	conj	_	_
 9	vi	vi	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
-10	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
-11	.	$.	PUNCT	_	_	2	punct	_	_
+10	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No
+11	.	$.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 12	»	$"	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -48,10 +48,10 @@ The following 83 pairs of parts of speech are connected with `conj`: [no-pos/NOU
 4	også	også	ADV	_	_	2	advmod	_	_
 5	selv	selv	ADV	_	_	2	advmod	_	_
 6	litt	litt	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	advmod	_	_
-7	smittet	smitte	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	2	xcomp	_	_
+7	smittet	smitte	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	2	xcomp	_	SpaceAfter=No
 8	;	$;	PUNCT	_	_	2	punct	_	_
 9	jeg	jeg	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
-10	spør	spørre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	spør	spørre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
 11	:	$:	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 83 pairs of parts of speech are connected with `conj`: [no-pos/NOU
 # visual-style 1 3 conj	color:blue
 1	Frp	Frp	PROPN	_	_	0	root	_	_
 2	og	og	CONJ	_	_	1	cc	_	_
-3	Høyre	Høyre	PROPN	_	_	1	conj	_	_
+3	Høyre	Høyre	PROPN	_	_	1	conj	_	SpaceAfter=No
 4	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~

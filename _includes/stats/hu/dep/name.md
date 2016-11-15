@@ -60,11 +60,11 @@ The following 15 pairs of parts of speech are connected with `name`: [hu-pos/PRO
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 name	color:blue
+# visual-style 12 11 name	color:blue
 1	1997	1997	NUM	_	Case=Nom|Number=Sing|NumType=Card	2	amod:att	_	_
 2	decembere	december	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	nmod	_	_
 3	óta	óta	ADP	_	_	2	case	_	_

@@ -4,62 +4,59 @@
 
 ## Treebank Statistics (UD_English)
 
-There are 1241 `NUM` lemmas (6%), 1241 `NUM` types (5%) and 4913 `NUM` tokens (2%).
-Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 13 in number of tokens.
+There are 1184 `NUM` lemmas (6%), 1184 `NUM` types (5%) and 4496 `NUM` tokens (2%).
+Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 14 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>one, two, 2, 3, 5, 1, 10, 4, three, 20</em>
+The 10 most frequent `NUM` lemmas: <em>one, two, 2, 3, 1, 5, 4, 10, three, 20</em>
 
-The 10 most frequent `NUM` types:  <em>one, two, 2, 3, 5, 1, 10, 4, three, 20</em>
+The 10 most frequent `NUM` types:  <em>one, two, 2, 3, 1, 5, 4, 10, three, 20</em>
 
-The 10 most frequent ambiguous lemmas: <em>one</em> ([NUM]() 451, [NOUN]() 146, [PRON]() 26, [VERB]() 1), <em>2</em> ([NUM]() 145, [X]() 30, [PROPN]() 2, [ADP]() 1, [PART]() 1), <em>3</em> ([NUM]() 122, [X]() 17, [NOUN]() 1), <em>5</em> ([NUM]() 112, [X]() 4, [PROPN]() 1), <em>1</em> ([NUM]() 111, [X]() 31), <em>10</em> ([NUM]() 99, [X]() 2), <em>4</em> ([NUM]() 97, [X]() 13, [SCONJ]() 1, [ADP]() 1), <em>20</em> ([NUM]() 66, [NOUN]() 5), <em>6</em> ([NUM]() 64, [X]() 2), <em>m</em> ([NUM]() 46, [NOUN]() 17, [PROPN]() 3)
+The 10 most frequent ambiguous lemmas: <em>one</em> ([NUM]() 446, [NOUN]() 144, [PRON]() 26, [VERB]() 1), <em>2</em> ([NUM]() 140, [X]() 30, [PROPN]() 2, [ADP]() 1, [PART]() 1), <em>3</em> ([NUM]() 119, [X]() 17, [NOUN]() 1), <em>1</em> ([NUM]() 103, [X]() 31), <em>5</em> ([NUM]() 103, [X]() 4, [PROPN]() 1), <em>4</em> ([NUM]() 95, [X]() 13, [ADP]() 1, [SCONJ]() 1), <em>10</em> ([NUM]() 93, [X]() 2), <em>20</em> ([NUM]() 63, [NOUN]() 5), <em>6</em> ([NUM]() 61, [X]() 2), <em>12</em> ([NUM]() 37, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>one</em> ([NUM]() 398, [NOUN]() 105, [PRON]() 22), <em>2</em> ([NUM]() 145, [X]() 30, [PROPN]() 2, [PART]() 1, [ADP]() 1), <em>3</em> ([NUM]() 122, [X]() 17), <em>5</em> ([NUM]() 112, [X]() 4, [PROPN]() 1), <em>1</em> ([NUM]() 111, [X]() 31), <em>10</em> ([NUM]() 99, [X]() 2), <em>4</em> ([NUM]() 97, [X]() 13, [ADP]() 1, [SCONJ]() 1), <em>20</em> ([NUM]() 66, [NOUN]() 3), <em>6</em> ([NUM]() 64, [X]() 2), <em>m</em> ([NUM]() 41, [VERB]() 14, [NOUN]() 11, [AUX]() 8, [PROPN]() 3)
+The 10 most frequent ambiguous types:  <em>one</em> ([NUM]() 393, [NOUN]() 104, [PRON]() 22), <em>2</em> ([NUM]() 140, [X]() 30, [PROPN]() 2, [ADP]() 1, [PART]() 1), <em>3</em> ([NUM]() 119, [X]() 17), <em>1</em> ([NUM]() 103, [X]() 31), <em>5</em> ([NUM]() 103, [X]() 4, [PROPN]() 1), <em>4</em> ([NUM]() 95, [X]() 13, [SCONJ]() 1, [ADP]() 1), <em>10</em> ([NUM]() 93, [X]() 2), <em>20</em> ([NUM]() 63, [NOUN]() 3), <em>6</em> ([NUM]() 61, [X]() 2), <em>12</em> ([NUM]() 37, [X]() 1)
 
 
 * <em>one</em>
-  * [NUM]() 398: <em>This is <b>one</b> thought - provoking film .</em>
-  * [NOUN]() 105: <em>I think a test like this <b>one</b> is much needed .</em>
+  * [NUM]() 393: <em>This is <b>one</b> thought - provoking film .</em>
+  * [NOUN]() 104: <em>I think a test like this <b>one</b> is much needed .</em>
   * [PRON]() 22: <em>What a neat gem of a restaurant in a corner <b>one</b> would n't expect it .</em>
 * <em>2</em>
-  * [NUM]() 145: <em>Analyst Team <b>2</b> : Coach : Doug Sewell</em>
+  * [NUM]() 140: <em>Analyst Team <b>2</b> : Coach : Doug Sewell</em>
   * [X]() 30: <em>* <b>2</b> . The second ingredient is words , more precisely lies . *</em>
   * [PROPN]() 2: <em>and it seems this is the FIRST site of ragnarok <b>2</b> hahaha since the site is new send me your suggestions and comments</em>
-  * [PART]() 1: <em>hi everyone .... just hav my hands on my new OLYMPUS X940 digital camera .. wel , i always wanted <b>2</b> hav one by sony .. but anyways , ended up having olympus X940 from my dad ....... does any1 already has it ?</em>
   * [ADP]() 1: <em>go <b>2</b> starbucks do nt spend more than 20 bucks :)</em>
+  * [PART]() 1: <em>hi everyone .... just hav my hands on my new OLYMPUS X940 digital camera .. wel , i always wanted <b>2</b> hav one by sony .. but anyways , ended up having olympus X940 from my dad ....... does any1 already has it ?</em>
 * <em>3</em>
-  * [NUM]() 122: <em><b>3</b> TO 4 DAYS if you are lucky on average it takes about 6 days .</em>
+  * [NUM]() 119: <em><b>3</b> TO 4 DAYS if you are lucky on average it takes about 6 days .</em>
   * [X]() 17: <em>* <b>3</b> . The third aspect is money . *</em>
+* <em>1</em>
+  * [NUM]() 103: <em>Analyst Team <b>1</b> : Coach : Lisa Gilette</em>
+  * [X]() 31: <em>Price : 3,40 Euros , 5 Euros or 7,5 Euros ( <b>1</b> ) for a 72 heures lenght .</em>
 * <em>5</em>
-  * [NUM]() 112: <em>I was thinking Kenneally 's at around <b>5</b> .</em>
+  * [NUM]() 103: <em>I was thinking Kenneally 's at around <b>5</b> .</em>
   * [X]() 4: <em><b>5</b> ) W. Brumbley 4632 Hilton Ave Suite # 31 Columbus , Ohio 43228</em>
   * [PROPN]() 1: <em>Lunar landers and other gear needed for extended visits to the moon will be lofted by gargantuan launchers as big as the Apollo - era Saturn <b>5</b> , the most powerful rockets ever flown .</em>
-* <em>1</em>
-  * [NUM]() 111: <em>Analyst Team <b>1</b> : Coach : Lisa Gilette</em>
-  * [X]() 31: <em>Price : 3,40 Euros , 5 Euros or 7,5 Euros ( <b>1</b> ) for a 72 heures lenght .</em>
-* <em>10</em>
-  * [NUM]() 99: <em>see you there on court <b>10</b></em>
-  * [X]() 2: <em><b>10</b> . Jack Welch , CEO , General Motors</em>
 * <em>4</em>
-  * [NUM]() 97: <em>The US troops fired into the hostile crowd , killing <b>4</b> .</em>
+  * [NUM]() 95: <em>The US troops fired into the hostile crowd , killing <b>4</b> .</em>
   * [X]() 13: <em><b>4</b> . Alan Greenspan , Chairman , Federal Reserve , U.S.A .</em>
-  * [ADP]() 1: <em>thanks guys goes really well and thaks <b>4</b> the cheap price ..</em>
   * [SCONJ]() 1: <em>home team - thanks <b>4</b> playin !!!</em>
+  * [ADP]() 1: <em>thanks guys goes really well and thaks <b>4</b> the cheap price ..</em>
+* <em>10</em>
+  * [NUM]() 93: <em>see you there on court <b>10</b></em>
+  * [X]() 2: <em><b>10</b> . Jack Welch , CEO , General Motors</em>
 * <em>20</em>
-  * [NUM]() 66: <em>September <b>20</b> , 1888 ?</em>
+  * [NUM]() 63: <em>September <b>20</b> , 1888 ?</em>
   * [NOUN]() 3: <em>Mary << MEH-risk Oct <b>20</b> >></em>
 * <em>6</em>
-  * [NUM]() 64: <em>3 TO 4 DAYS if you are lucky on average it takes about <b>6</b> days .</em>
+  * [NUM]() 61: <em>3 TO 4 DAYS if you are lucky on average it takes about <b>6</b> days .</em>
   * [X]() 2: <em><b>6</b> . Oprah Winfrey , talkshow host</em>
-* <em>m</em>
-  * [NUM]() 41: <em>Total transportation invoiced for 2001 was $ 180.9 <b>m</b> .</em>
-  * [VERB]() 14: <em>i <b>m</b> 15 btw</em>
-  * [NOUN]() 11: <em>Modern <b>m</b> 16 vs Vietnam <b>m</b> 16 version ?</em>
-  * [AUX]() 8: <em>i <b>m</b> traveling to lourdes for a day</em>
-  * [PROPN]() 3: <em><b>m</b></em>
+* <em>12</em>
+  * [NUM]() 37: <em>August <b>12</b> , 2000</em>
+  * [X]() 1: <em><b>12</b> . Remedies should be deleted as it is already covered in Section 6.1 .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.173797).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.173735).
 
 The 1st highest number of forms (1) was observed with the lemma “'02”: <em>'02</em>.
 
@@ -67,34 +64,34 @@ The 2nd highest number of forms (1) was observed with the lemma “'05”: <em>'
 
 The 3rd highest number of forms (1) was observed with the lemma “'07”: <em>'07</em>.
 
-`NUM` occurs with 2 features: [en-feat/NumType]() (4912; 100% instances), [en-feat/Number]() (1; 0% instances)
+`NUM` occurs with 1 features: [en-feat/NumType]() (4496; 100% instances)
 
-`NUM` occurs with 2 feature-value pairs: `NumType=Card`, `Number=Sing`
+`NUM` occurs with 1 feature-value pairs: `NumType=Card`
 
-`NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `NumType=Card` (4912 tokens).
-Examples: <em>one, two, 2, 3, 5, 1, 10, 4, three, 20</em>
+`NUM` occurs with 1 feature combinations.
+The most frequent feature combination is `NumType=Card` (4496 tokens).
+Examples: <em>one, two, 2, 3, 1, 5, 4, 10, three, 20</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 26 different relations: [en-dep/nummod]() (2895; 59% instances), [en-dep/nmod]() (539; 11% instances), [en-dep/root]() (423; 9% instances), [en-dep/compound]() (256; 5% instances), [en-dep/appos]() (212; 4% instances), [en-dep/list]() (115; 2% instances), [en-dep/dobj]() (105; 2% instances), [en-dep/nsubj]() (103; 2% instances), [en-dep/conj]() (93; 2% instances), [en-dep/nmod:tmod]() (68; 1% instances), [en-dep/amod]() (19; 0% instances), [en-dep/parataxis]() (18; 0% instances), [en-dep/advcl]() (9; 0% instances), [en-dep/advmod]() (9; 0% instances), [en-dep/nmod:npmod]() (9; 0% instances), [en-dep/xcomp]() (9; 0% instances), [en-dep/remnant]() (8; 0% instances), [en-dep/ccomp]() (7; 0% instances), [en-dep/nsubjpass]() (4; 0% instances), [en-dep/acl:relcl]() (3; 0% instances), [en-dep/case]() (2; 0% instances), [en-dep/det]() (2; 0% instances), [en-dep/reparandum]() (2; 0% instances), [en-dep/iobj]() (1; 0% instances), [en-dep/nmod:poss]() (1; 0% instances), [en-dep/vocative]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 26 different relations: [en-dep/nummod]() (2738; 61% instances), [en-dep/nmod]() (500; 11% instances), [en-dep/root]() (272; 6% instances), [en-dep/appos]() (211; 5% instances), [en-dep/compound]() (205; 5% instances), [en-dep/list]() (115; 3% instances), [en-dep/dobj]() (103; 2% instances), [en-dep/nsubj]() (103; 2% instances), [en-dep/conj]() (90; 2% instances), [en-dep/nmod:tmod]() (64; 1% instances), [en-dep/parataxis]() (18; 0% instances), [en-dep/amod]() (13; 0% instances), [en-dep/advcl]() (9; 0% instances), [en-dep/nmod:npmod]() (9; 0% instances), [en-dep/xcomp]() (9; 0% instances), [en-dep/remnant]() (8; 0% instances), [en-dep/ccomp]() (7; 0% instances), [en-dep/advmod]() (6; 0% instances), [en-dep/nsubjpass]() (4; 0% instances), [en-dep/acl:relcl]() (3; 0% instances), [en-dep/case]() (2; 0% instances), [en-dep/det]() (2; 0% instances), [en-dep/reparandum]() (2; 0% instances), [en-dep/iobj]() (1; 0% instances), [en-dep/nmod:poss]() (1; 0% instances), [en-dep/vocative]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 13 different parts of speech: [NOUN]() (2389; 49% instances), [PROPN]() (786; 16% instances), [NUM]() (443; 9% instances), [VERB]() (435; 9% instances), [ROOT]() (423; 9% instances), [SYM]() (355; 7% instances), [ADJ]() (41; 1% instances), [X]() (15; 0% instances), [ADV]() (14; 0% instances), [DET]() (5; 0% instances), [PRON]() (5; 0% instances), [AUX]() (1; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `NUM` nodes belong to 13 different parts of speech: [NOUN]() (2310; 51% instances), [PROPN]() (737; 16% instances), [VERB]() (412; 9% instances), [NUM]() (389; 9% instances), [SYM]() (295; 7% instances), [ROOT]() (272; 6% instances), [ADJ]() (39; 1% instances), [X]() (15; 0% instances), [ADV]() (14; 0% instances), [PRON]() (6; 0% instances), [DET]() (5; 0% instances), [AUX]() (1; 0% instances), [PUNCT]() (1; 0% instances)
 
-3201 (65%) `NUM` nodes are leaves.
+3019 (67%) `NUM` nodes are leaves.
 
-1032 (21%) `NUM` nodes have one child.
+959 (21%) `NUM` nodes have one child.
 
-278 (6%) `NUM` nodes have two children.
+269 (6%) `NUM` nodes have two children.
 
-402 (8%) `NUM` nodes have three or more children.
+249 (6%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 13.
 
-Children of `NUM` nodes are attached using 34 different relations: [en-dep/punct]() (704; 23% instances), [en-dep/case]() (557; 18% instances), [en-dep/nmod]() (359; 12% instances), [en-dep/advmod]() (214; 7% instances), [en-dep/nmod:tmod]() (197; 6% instances), [en-dep/appos]() (174; 6% instances), [en-dep/compound]() (157; 5% instances), [en-dep/conj]() (101; 3% instances), [en-dep/cc]() (93; 3% instances), [en-dep/cop]() (92; 3% instances), [en-dep/nummod]() (92; 3% instances), [en-dep/nsubj]() (89; 3% instances), [en-dep/det]() (57; 2% instances), [en-dep/parataxis]() (47; 2% instances), [en-dep/amod]() (27; 1% instances), [en-dep/acl:relcl]() (20; 1% instances), [en-dep/mark]() (15; 0% instances), [en-dep/nmod:npmod]() (13; 0% instances), [en-dep/aux]() (11; 0% instances), [en-dep/advcl]() (9; 0% instances), [en-dep/remnant]() (7; 0% instances), [en-dep/neg]() (6; 0% instances), [en-dep/discourse]() (5; 0% instances), [en-dep/acl]() (4; 0% instances), [en-dep/nmod:poss]() (2; 0% instances), [en-dep/reparandum]() (2; 0% instances), [en-dep/cc:preconj]() (1; 0% instances), [en-dep/ccomp]() (1; 0% instances), [en-dep/csubj]() (1; 0% instances), [en-dep/det:predet]() (1; 0% instances), [en-dep/dobj]() (1; 0% instances), [en-dep/goeswith]() (1; 0% instances), [en-dep/list]() (1; 0% instances), [en-dep/xcomp]() (1; 0% instances)
+Children of `NUM` nodes are attached using 34 different relations: [en-dep/case]() (517; 21% instances), [en-dep/punct]() (399; 16% instances), [en-dep/nmod]() (355; 14% instances), [en-dep/advmod]() (207; 8% instances), [en-dep/nmod:tmod]() (197; 8% instances), [en-dep/compound]() (115; 5% instances), [en-dep/conj]() (97; 4% instances), [en-dep/cop]() (91; 4% instances), [en-dep/cc]() (89; 4% instances), [en-dep/nsubj]() (88; 4% instances), [en-dep/nummod]() (85; 3% instances), [en-dep/det]() (57; 2% instances), [en-dep/parataxis]() (46; 2% instances), [en-dep/amod]() (24; 1% instances), [en-dep/appos]() (23; 1% instances), [en-dep/acl:relcl]() (20; 1% instances), [en-dep/mark]() (15; 1% instances), [en-dep/nmod:npmod]() (13; 1% instances), [en-dep/aux]() (11; 0% instances), [en-dep/advcl]() (9; 0% instances), [en-dep/remnant]() (7; 0% instances), [en-dep/discourse]() (5; 0% instances), [en-dep/neg]() (5; 0% instances), [en-dep/acl]() (4; 0% instances), [en-dep/nmod:poss]() (2; 0% instances), [en-dep/reparandum]() (2; 0% instances), [en-dep/cc:preconj]() (1; 0% instances), [en-dep/ccomp]() (1; 0% instances), [en-dep/csubj]() (1; 0% instances), [en-dep/det:predet]() (1; 0% instances), [en-dep/dobj]() (1; 0% instances), [en-dep/goeswith]() (1; 0% instances), [en-dep/list]() (1; 0% instances), [en-dep/xcomp]() (1; 0% instances)
 
-Children of `NUM` nodes belong to 17 different parts of speech: [PUNCT]() (694; 23% instances), [NOUN]() (573; 19% instances), [ADP]() (481; 16% instances), [NUM]() (443; 14% instances), [ADV]() (190; 6% instances), [VERB]() (165; 5% instances), [SYM]() (114; 4% instances), [CONJ]() (90; 3% instances), [ADJ]() (85; 3% instances), [PRON]() (81; 3% instances), [DET]() (69; 2% instances), [PROPN]() (47; 2% instances), [AUX]() (11; 0% instances), [SCONJ]() (8; 0% instances), [PART]() (5; 0% instances), [INTJ]() (3; 0% instances), [X]() (3; 0% instances)
+Children of `NUM` nodes belong to 17 different parts of speech: [ADP]() (441; 18% instances), [NOUN]() (420; 17% instances), [PUNCT]() (390; 16% instances), [NUM]() (389; 16% instances), [ADV]() (187; 8% instances), [VERB]() (163; 7% instances), [SYM]() (112; 4% instances), [CONJ]() (86; 3% instances), [PRON]() (81; 3% instances), [ADJ]() (77; 3% instances), [DET]() (69; 3% instances), [PROPN]() (46; 2% instances), [AUX]() (11; 0% instances), [SCONJ]() (8; 0% instances), [PART]() (5; 0% instances), [INTJ]() (3; 0% instances), [X]() (3; 0% instances)
 
 
 
@@ -109,16 +106,16 @@ The 10 most frequent `NUM` lemmas: <em>_</em>
 
 The 10 most frequent `NUM` types:  <em>_</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
-The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
 
 * <em>_</em>
-  * [NOUN]() 15986: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ <b>_</b> _</em>
+  * [NOUN]() 15635: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ _ _</em>
   * [VERB]() 15080: <em>_ <b>_</b> _ _ _ _ <b>_</b> _ _ _ _ <b>_</b> _ <b>_</b> _ _</em>
-  * [DET]() 10562: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
-  * [PRON]() 9758: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [PRON]() 10618: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _</em>
+  * [DET]() 10057: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
   * [PUNCT]() 9580: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b></em>
   * [ADP]() 8546: <em>_ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _</em>
   * [ADJ]() 5857: <em>_ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
@@ -126,7 +123,7 @@ The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 1508
   * [AUX]() 4533: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _</em>
   * [PART]() 3531: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _</em>
   * [CONJ]() 3198: <em>_ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
-  * [SCONJ]() 2520: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * [SCONJ]() 2516: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
   * [PROPN]() 1795: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _</em>
   * [NUM]() 844: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
   * [INTJ]() 80: <em>_ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
@@ -160,7 +157,7 @@ The highest child degree of a `NUM` node is 9.
 
 Children of `NUM` nodes are attached using 25 different relations: [en-dep/case]() (163; 26% instances), [en-dep/nmod]() (103; 16% instances), [en-dep/punct]() (53; 8% instances), [en-dep/cop]() (51; 8% instances), [en-dep/nsubj]() (48; 8% instances), [en-dep/advmod]() (47; 7% instances), [en-dep/conj]() (32; 5% instances), [en-dep/cc]() (30; 5% instances), [en-dep/det]() (21; 3% instances), [en-dep/compound]() (17; 3% instances), [en-dep/amod]() (15; 2% instances), [en-dep/mark]() (12; 2% instances), [en-dep/acl:relcl]() (7; 1% instances), [en-dep/parataxis]() (6; 1% instances), [en-dep/appos]() (4; 1% instances), [en-dep/neg]() (4; 1% instances), [en-dep/advcl]() (3; 0% instances), [en-dep/aux]() (3; 0% instances), [en-dep/goeswith]() (3; 0% instances), [en-dep/acl]() (2; 0% instances), [en-dep/nummod]() (2; 0% instances), [en-dep/csubj]() (1; 0% instances), [en-dep/discourse]() (1; 0% instances), [en-dep/nmod:poss]() (1; 0% instances), [en-dep/xcomp]() (1; 0% instances)
 
-Children of `NUM` nodes belong to 16 different parts of speech: [ADP]() (159; 25% instances), [NOUN]() (99; 16% instances), [VERB]() (80; 13% instances), [ADV]() (54; 9% instances), [PUNCT]() (52; 8% instances), [NUM]() (36; 6% instances), [PRON]() (32; 5% instances), [CONJ]() (30; 5% instances), [DET]() (28; 4% instances), [ADJ]() (26; 4% instances), [PROPN]() (15; 2% instances), [SCONJ]() (8; 1% instances), [PART]() (5; 1% instances), [AUX]() (3; 0% instances), [SYM]() (2; 0% instances), [X]() (1; 0% instances)
+Children of `NUM` nodes belong to 16 different parts of speech: [ADP]() (159; 25% instances), [NOUN]() (99; 16% instances), [VERB]() (80; 13% instances), [ADV]() (54; 9% instances), [PUNCT]() (52; 8% instances), [PRON]() (37; 6% instances), [NUM]() (36; 6% instances), [CONJ]() (30; 5% instances), [ADJ]() (26; 4% instances), [DET]() (23; 4% instances), [PROPN]() (15; 2% instances), [SCONJ]() (8; 1% instances), [PART]() (5; 1% instances), [AUX]() (3; 0% instances), [SYM]() (2; 0% instances), [X]() (1; 0% instances)
 
 
 

@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [sl-pos/PRON]() (3917; 3% instan
 
 3917 [sl-pos/PRON]() tokens (56% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (3917; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2575; 66%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (2328; 59%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2328; 59%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2328; 59%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2062; 53%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (3917; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2575; 66%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2328; 59%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (2328; 59%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2328; 59%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2062; 53%).
 
 `PRON` tokens may have the following values of `Variant`:
 

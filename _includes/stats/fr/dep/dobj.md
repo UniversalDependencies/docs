@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-15013 nodes (4%) are attached to their parents as `dobj`.
+15035 nodes (4%) are attached to their parents as `dobj`.
 
-11316 instances of `dobj` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.2178112302671.
+11321 instances of `dobj` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.21097439308281.
 
-The following 36 pairs of parts of speech are connected with `dobj`: [fr-pos/VERB]()-[fr-pos/NOUN]() (10219; 68% instances), [fr-pos/VERB]()-[fr-pos/PRON]() (3758; 25% instances), [fr-pos/VERB]()-[fr-pos/PROPN]() (724; 5% instances), [fr-pos/VERB]()-[fr-pos/NUM]() (52; 0% instances), [fr-pos/VERB]()-[fr-pos/SYM]() (50; 0% instances), [fr-pos/ADJ]()-[fr-pos/PRON]() (41; 0% instances), [fr-pos/NOUN]()-[fr-pos/PRON]() (31; 0% instances), [fr-pos/NOUN]()-[fr-pos/NOUN]() (20; 0% instances), [fr-pos/PROPN]()-[fr-pos/PRON]() (19; 0% instances), [fr-pos/VERB]()-[fr-pos/X]() (16; 0% instances), [fr-pos/ADJ]()-[fr-pos/NOUN]() (12; 0% instances), [fr-pos/VERB]()-[fr-pos/ADJ]() (11; 0% instances), [fr-pos/AUX]()-[fr-pos/NOUN]() (9; 0% instances), [fr-pos/NUM]()-[fr-pos/PRON]() (6; 0% instances), [fr-pos/ADV]()-[fr-pos/NOUN]() (5; 0% instances), [fr-pos/VERB]()-[fr-pos/ADV]() (4; 0% instances), [fr-pos/VERB]()-[fr-pos/SCONJ]() (4; 0% instances), [fr-pos/VERB]()-[fr-pos/VERB]() (4; 0% instances), [fr-pos/AUX]()-[fr-pos/PRON]() (3; 0% instances), [fr-pos/NOUN]()-[fr-pos/PROPN]() (3; 0% instances), [fr-pos/PROPN]()-[fr-pos/PROPN]() (3; 0% instances), [fr-pos/ADP]()-[fr-pos/NOUN]() (2; 0% instances), [fr-pos/ADV]()-[fr-pos/PRON]() (2; 0% instances), [fr-pos/PRON]()-[fr-pos/PRON]() (2; 0% instances), [fr-pos/VERB]()-[fr-pos/ADP]() (2; 0% instances), [fr-pos/ADJ]()-[fr-pos/PROPN]() (1; 0% instances), [fr-pos/ADV]()-[fr-pos/PROPN]() (1; 0% instances), [fr-pos/INTJ]()-[fr-pos/PRON]() (1; 0% instances), [fr-pos/NOUN]()-[fr-pos/X]() (1; 0% instances), [fr-pos/PRON]()-[fr-pos/NOUN]() (1; 0% instances), [fr-pos/PROPN]()-[fr-pos/NOUN]() (1; 0% instances), [fr-pos/PROPN]()-[fr-pos/SYM]() (1; 0% instances), [fr-pos/VERB]()-[fr-pos/DET]() (1; 0% instances), [fr-pos/VERB]()-[fr-pos/INTJ]() (1; 0% instances), [fr-pos/X]()-[fr-pos/PRON]() (1; 0% instances), [fr-pos/X]()-[fr-pos/PROPN]() (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `dobj`: [fr-pos/VERB]()-[fr-pos/NOUN]() (10300; 69% instances), [fr-pos/VERB]()-[fr-pos/PRON]() (3862; 26% instances), [fr-pos/VERB]()-[fr-pos/PROPN]() (690; 5% instances), [fr-pos/VERB]()-[fr-pos/SYM]() (56; 0% instances), [fr-pos/VERB]()-[fr-pos/NUM]() (26; 0% instances), [fr-pos/VERB]()-[fr-pos/X]() (16; 0% instances), [fr-pos/VERB]()-[fr-pos/ADJ]() (15; 0% instances), [fr-pos/NOUN]()-[fr-pos/NOUN]() (13; 0% instances), [fr-pos/NOUN]()-[fr-pos/PRON]() (9; 0% instances), [fr-pos/ADJ]()-[fr-pos/NOUN]() (7; 0% instances), [fr-pos/PROPN]()-[fr-pos/PRON]() (4; 0% instances), [fr-pos/VERB]()-[fr-pos/ADV]() (4; 0% instances), [fr-pos/VERB]()-[fr-pos/SCONJ]() (4; 0% instances), [fr-pos/VERB]()-[fr-pos/VERB]() (4; 0% instances), [fr-pos/NOUN]()-[fr-pos/PROPN]() (3; 0% instances), [fr-pos/PROPN]()-[fr-pos/PROPN]() (3; 0% instances), [fr-pos/ADJ]()-[fr-pos/PRON]() (2; 0% instances), [fr-pos/ADP]()-[fr-pos/NOUN]() (2; 0% instances), [fr-pos/ADV]()-[fr-pos/PRON]() (2; 0% instances), [fr-pos/AUX]()-[fr-pos/NOUN]() (2; 0% instances), [fr-pos/VERB]()-[fr-pos/ADP]() (2; 0% instances), [fr-pos/ADJ]()-[fr-pos/PROPN]() (1; 0% instances), [fr-pos/ADV]()-[fr-pos/NOUN]() (1; 0% instances), [fr-pos/INTJ]()-[fr-pos/PRON]() (1; 0% instances), [fr-pos/NOUN]()-[fr-pos/X]() (1; 0% instances), [fr-pos/PROPN]()-[fr-pos/NOUN]() (1; 0% instances), [fr-pos/PROPN]()-[fr-pos/SYM]() (1; 0% instances), [fr-pos/VERB]()-[fr-pos/DET]() (1; 0% instances), [fr-pos/VERB]()-[fr-pos/INTJ]() (1; 0% instances), [fr-pos/X]()-[fr-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,7 +20,7 @@ The following 36 pairs of parts of speech are connected with `dobj`: [fr-pos/VER
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 dobj	color:blue
-1	Les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur	2	det	_	_
+1	Les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	compagnies	compagnie	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
 3	aériennes	aérien	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
 4	à	à	ADP	_	_	6	case	_	_
@@ -29,7 +29,7 @@ The following 36 pairs of parts of speech are connected with `dobj`: [fr-pos/VER
 7	ne	ne	PART	_	_	8	neg	_	_
 8	connaissent	connaître	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	pas	pas	ADV	_	_	8	neg	_	_
-10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing	11	det	_	_
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	crise	crise	NOUN	_	Gender=Fem|Number=Sing	8	dobj	_	_
 12	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -63,12 +63,12 @@ The following 36 pairs of parts of speech are connected with `dobj`: [fr-pos/VER
 1	Elle	elle	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	y	y	PRON	_	_	3	iobj	_	_
 3	incarnera	incarner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing	5	det	_	_
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Poussette	Poussette	PROPN	_	_	3	dobj	_	_
 6	de	de	ADP	_	_	7	case	_	_
 7	Manon	Manon	PROPN	_	_	5	nmod	_	_
 8	peu	peu	ADV	_	_	10	det	_	_
-9	de	un	DET	_	Definite=Ind|PronType=Dem	8	mwe	_	_
+9	de	un	DET	_	Definite=Ind|PronType=Art	8	mwe	_	_
 10	temps	temps	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
 11	après	après	ADV	_	_	10	advmod	_	_
 12	.	.	PUNCT	_	_	3	punct	_	_

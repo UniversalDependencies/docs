@@ -11,7 +11,7 @@ The 10 most frequent `NUM` lemmas: <em>en, dva, trije, štirje, pet, deset, eden
 
 The 10 most frequent `NUM` types:  <em>eno, tri, dveh, dva, ena, eden, tisoč, štiri, štirih, dve</em>
 
-The 10 most frequent ambiguous lemmas: <em>V</em> ([NOUN]() 2, [NUM]() 1), <em>V.</em> ([X]() 3, [NUM]() 1), <em>X</em> ([NUM]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>V</em> ([NOUN]() 2, [NUM]() 1), <em>V.</em> ([X]() 3, [NUM]() 1), <em>X</em> ([NOUN]() 1, [NUM]() 1)
 
 The 10 most frequent ambiguous types:  <em>V</em> ([ADP]() 423, [NOUN]() 2, [NUM]() 1), <em>V.</em> ([X]() 3, [NUM]() 1), <em>X</em> ([NUM]() 1, [NOUN]() 1), <em>dvajsetih</em> ([NUM]() 1, [ADJ]() 1)
 

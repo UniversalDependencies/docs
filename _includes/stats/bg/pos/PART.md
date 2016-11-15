@@ -77,7 +77,7 @@ Examples: <em>да, ще, ли, дори, дали, си, пък, ето, нек
 
 `PART` nodes are attached to their parents using 11 different relations: [bg-dep/aux]() (4162; 82% instances), [bg-dep/discourse]() (557; 11% instances), [bg-dep/mwe]() (250; 5% instances), [bg-dep/root]() (50; 1% instances), [bg-dep/neg]() (27; 1% instances), [bg-dep/advcl]() (6; 0% instances), [bg-dep/cc]() (5; 0% instances), [bg-dep/mark]() (4; 0% instances), [bg-dep/conj]() (3; 0% instances), [bg-dep/nmod]() (2; 0% instances), [bg-dep/ccomp]() (1; 0% instances)
 
-Parents of `PART` nodes belong to 12 different parts of speech: [VERB]() (4507; 89% instances), [ADP]() (182; 4% instances), [NOUN]() (112; 2% instances), [ADV]() (56; 1% instances), [ADJ]() (52; 1% instances), [PRON]() (52; 1% instances), [ROOT]() (50; 1% instances), [DET]() (23; 0% instances), [NUM]() (10; 0% instances), [CONJ]() (9; 0% instances), [PROPN]() (9; 0% instances), [SCONJ]() (5; 0% instances)
+Parents of `PART` nodes belong to 12 different parts of speech: [VERB]() (4478; 88% instances), [ADP]() (182; 4% instances), [NOUN]() (130; 3% instances), [ADJ]() (60; 1% instances), [ADV]() (57; 1% instances), [PRON]() (53; 1% instances), [ROOT]() (50; 1% instances), [DET]() (23; 0% instances), [CONJ]() (10; 0% instances), [NUM]() (10; 0% instances), [PROPN]() (9; 0% instances), [SCONJ]() (5; 0% instances)
 
 4986 (98%) `PART` nodes are leaves.
 
@@ -89,7 +89,7 @@ Parents of `PART` nodes belong to 12 different parts of speech: [VERB]() (4507; 
 
 The highest child degree of a `PART` node is 4.
 
-Children of `PART` nodes are attached using 10 different relations: [bg-dep/punct]() (70; 46% instances), [bg-dep/ccomp]() (42; 28% instances), [bg-dep/dobj]() (14; 9% instances), [bg-dep/mwe]() (12; 8% instances), [bg-dep/cc]() (9; 6% instances), [bg-dep/acl]() (1; 1% instances), [bg-dep/advmod]() (1; 1% instances), [bg-dep/amod]() (1; 1% instances), [bg-dep/conj]() (1; 1% instances), [bg-dep/expl]() (1; 1% instances)
+Children of `PART` nodes are attached using 10 different relations: [bg-dep/punct]() (70; 46% instances), [bg-dep/ccomp]() (42; 28% instances), [bg-dep/dobj]() (14; 9% instances), [bg-dep/mwe]() (12; 8% instances), [bg-dep/cc]() (9; 6% instances), [bg-dep/acl]() (1; 1% instances), [bg-dep/advmod]() (1; 1% instances), [bg-dep/conj]() (1; 1% instances), [bg-dep/expl]() (1; 1% instances), [bg-dep/vocative]() (1; 1% instances)
 
-Children of `PART` nodes belong to 8 different parts of speech: [PUNCT]() (70; 46% instances), [VERB]() (50; 33% instances), [NOUN]() (10; 7% instances), [CONJ]() (8; 5% instances), [PRON]() (6; 4% instances), [INTJ]() (4; 3% instances), [ADJ]() (2; 1% instances), [ADV]() (2; 1% instances)
+Children of `PART` nodes belong to 8 different parts of speech: [PUNCT]() (70; 46% instances), [VERB]() (49; 32% instances), [NOUN]() (11; 7% instances), [CONJ]() (8; 5% instances), [PRON]() (6; 4% instances), [INTJ]() (4; 3% instances), [ADJ]() (2; 1% instances), [ADV]() (2; 1% instances)
 

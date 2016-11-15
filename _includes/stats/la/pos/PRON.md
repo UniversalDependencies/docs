@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: <em>qui1, is1, ille1, ego1, hic1, tu1, sui1,
 
 The 10 most frequent `PRON` types:  <em>qui, quae, me, mihi, ego, se, te, quod, eius, haec</em>
 
-The 10 most frequent ambiguous lemmas: <em>qui1</em> ([PRON]() 873, [ADV]() 4, [X]() 2, [SCONJ]() 1, [ADJ]() 1), <em>is1</em> ([PRON]() 417, [ADJ]() 3), <em>ille1</em> ([PRON]() 391, [ADV]() 1), <em>ego1</em> ([PRON]() 378, [X]() 1), <em>hic1</em> ([PRON]() 363, [ADV]() 21, [ADJ]() 1), <em>quis1</em> ([PRON]() 145, [ADV]() 9), <em>ipse1</em> ([PRON]() 116, [ADJ]() 1), <em>quis2</em> ([PRON]() 77, [ADV]() 1), <em>hic</em> ([PRON]() 67, [ADV]() 6), <em>iste1</em> ([PRON]() 42, [ADJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>qui1</em> ([PRON]() 873, [ADV]() 4, [X]() 2, [ADJ]() 1, [SCONJ]() 1), <em>is1</em> ([PRON]() 417, [ADJ]() 3), <em>ille1</em> ([PRON]() 391, [ADV]() 1), <em>ego1</em> ([PRON]() 378, [X]() 1), <em>hic1</em> ([PRON]() 363, [ADV]() 21, [ADJ]() 1), <em>quis1</em> ([PRON]() 145, [ADV]() 9), <em>ipse1</em> ([PRON]() 116, [ADJ]() 1), <em>quis2</em> ([PRON]() 77, [ADV]() 1), <em>hic</em> ([PRON]() 67, [ADV]() 6), <em>iste1</em> ([PRON]() 42, [ADJ]() 2)
 
 The 10 most frequent ambiguous types:  <em>qui</em> ([PRON]() 280, [ADV]() 1, [SCONJ]() 1, [X]() 1), <em>quae</em> ([PRON]() 170, [X]() 1), <em>mihi</em> ([PRON]() 127, [X]() 1), <em>quod</em> ([PRON]() 99, [SCONJ]() 71, [CONJ]() 12), <em>haec</em> ([PRON]() 78, [ADJ]() 1), <em>hoc</em> ([PRON]() 77, [ADV]() 2), <em>quid</em> ([PRON]() 78, [ADV]() 7), <em>illa</em> ([PRON]() 79, [ADV]() 1), <em>ea</em> ([PRON]() 63, [ADJ]() 1), <em>eum</em> ([PRON]() 47, [NOUN]() 1)
 
@@ -102,7 +102,7 @@ The 10 most frequent `PRON` lemmas: <em>qui, hic, is, ipse, alius, sui, aliqui, 
 
 The 10 most frequent `PRON` types:  <em>quae, quod, hoc, se, aliquid, eius, qui, quo, aliqua, ipsum</em>
 
-The 10 most frequent ambiguous lemmas: <em>hic</em> ([PRON]() 3189, [ADV]() 17), <em>omnis</em> ([DET]() 1300, [PRON]() 717), <em>suus</em> ([DET]() 1468, [PRON]() 81), <em>cunctus</em> ([PRON]() 15, [DET]() 3), <em>noster</em> ([DET]() 279, [PRON]() 15), <em>ceterus</em> ([DET]() 14, [PRON]() 4), <em>quod</em> ([SCONJ]() 4817, [PRON]() 4, [ADV]() 2, [X]() 2), <em>meus</em> ([DET]() 32, [PRON]() 3), <em>reliquus</em> ([PRON]() 2, [DET]() 1), <em>tuus</em> ([DET]() 34, [PRON]() 2)
+The 10 most frequent ambiguous lemmas: <em>hic</em> ([PRON]() 3189, [ADV]() 17), <em>omnis</em> ([DET]() 1300, [PRON]() 717), <em>suus</em> ([DET]() 1468, [PRON]() 81), <em>cunctus</em> ([PRON]() 15, [DET]() 3), <em>noster</em> ([DET]() 279, [PRON]() 15), <em>ceterus</em> ([DET]() 14, [PRON]() 4), <em>quod</em> ([SCONJ]() 4817, [PRON]() 4, [X]() 2, [ADV]() 2), <em>meus</em> ([DET]() 32, [PRON]() 3), <em>reliquus</em> ([PRON]() 2, [DET]() 1), <em>tuus</em> ([DET]() 34, [PRON]() 2)
 
 The 10 most frequent ambiguous types:  <em>quod</em> ([SCONJ]() 4817, [PRON]() 2226, [X]() 7, [ADV]() 2), <em>quo</em> ([PRON]() 499, [ADV]() 3), <em>quam</em> ([SCONJ]() 444, [PRON]() 385, [CONJ]() 23, [X]() 1), <em>omnia</em> ([PRON]() 325, [DET]() 157), <em>omne</em> ([DET]() 178, [PRON]() 149), <em>sui</em> ([PRON]() 102, [DET]() 59), <em>omnibus</em> ([DET]() 142, [PRON]() 100), <em>omnium</em> ([DET]() 138, [PRON]() 92), <em>hic</em> ([PRON]() 60, [ADV]() 17), <em>suum</em> ([DET]() 248, [PRON]() 45)
 

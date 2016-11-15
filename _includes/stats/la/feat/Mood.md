@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [la-pos/VERB]() (6899; 15% insta
 
 6899 [la-pos/VERB]() tokens (65% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (6899; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6899; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6899; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6334; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (5282; 77%), <tt><a href="Person.html">Person</a>=3</tt> (5175; 75%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4159; 60%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6899; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (6899; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6899; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6334; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (5282; 77%), <tt><a href="Person.html">Person</a>=3</tt> (5175; 75%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4159; 60%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -89,7 +89,7 @@ The feature is used with 2 part-of-speech tags: [la-pos/VERB]() (35572; 12% inst
 
 35572 [la-pos/VERB]() tokens (68% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (35572; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (35572; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (35572; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (35572; 100%), <tt><a href="Person.html">Person</a>=3</tt> (34562; 97%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (32938; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (32129; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (29123; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (27784; 78%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (35572; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (35572; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (35572; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (35572; 100%), <tt><a href="Person.html">Person</a>=3</tt> (34562; 97%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (32938; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (32129; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (29123; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (27784; 78%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -126,7 +126,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 1346 [la-pos/AUX]() tokens (96% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1346; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1346; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1339; 99%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1277; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (1165; 87%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1346; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1346; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1339; 99%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1277; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (1165; 87%).
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -178,7 +178,7 @@ The feature is used with 1 part-of-speech tags: [la-pos/VERB]() (28751; 17% inst
 
 28751 [la-pos/VERB]() tokens (71% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (28751; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (28751; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (28751; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (26127; 91%), <tt><a href="Person.html">Person</a>=3</tt> (20528; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (19797; 69%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (16834; 59%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (28751; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (28751; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (28751; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (26127; 91%), <tt><a href="Person.html">Person</a>=3</tt> (20528; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (19797; 69%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (16834; 59%).
 
 `VERB` tokens may have the following values of `Mood`:
 

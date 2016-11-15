@@ -100,7 +100,7 @@ The 10 most frequent `CONJ` types:  <em>och, men, eller, utan, både, så, för,
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14002, [VERB]() 11274, [ADP]() 8898, [PUNCT]() 8656, [PRON]() 8194, [ADV]() 6016, [ADJ]() 5522, [DET]() 4283, [CONJ]() 3016, [PROPN]() 2703, [SCONJ]() 2587, [AUX]() 2238, [PART]() 1778, [NUM]() 440, [INTJ]() 179, [X]() 17, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>och</em> ([CONJ]() 2189, [ADV]() 6), <em>utan</em> ([ADP]() 73, [CONJ]() 25), <em>så</em> ([ADV]() 278, [CONJ]() 16, [ADJ]() 7, [SCONJ]() 7), <em>för</em> ([ADP]() 791, [ADV]() 36, [CONJ]() 15, [VERB]() 6, [NOUN]() 2, [SCONJ]() 2), <em>vare</em> ([CONJ]() 8, [VERB]() 3), <em>fast</em> ([ADV]() 10, [SCONJ]() 5, [CONJ]() 4, [ADJ]() 4), <em>som</em> ([SCONJ]() 1007, [ADP]() 382, [CONJ]() 6), <em>bara</em> ([ADV]() 129, [ADJ]() 2, [CONJ]() 2), <em>liksom</em> ([ADV]() 6, [ADP]() 5, [CONJ]() 1, [SCONJ]() 1), <em>mellan</em> ([ADP]() 81, [CONJ]() 1)
+The 10 most frequent ambiguous types:  <em>och</em> ([CONJ]() 2189, [ADV]() 6), <em>utan</em> ([ADP]() 73, [CONJ]() 25), <em>så</em> ([ADV]() 278, [CONJ]() 16, [ADJ]() 7, [SCONJ]() 7), <em>för</em> ([ADP]() 791, [ADV]() 36, [CONJ]() 15, [VERB]() 6, [NOUN]() 2, [SCONJ]() 2), <em>vare</em> ([CONJ]() 8, [VERB]() 3), <em>fast</em> ([ADV]() 10, [SCONJ]() 5, [ADJ]() 4, [CONJ]() 4), <em>som</em> ([SCONJ]() 1007, [ADP]() 382, [CONJ]() 6), <em>bara</em> ([ADV]() 129, [CONJ]() 2, [ADJ]() 2), <em>liksom</em> ([ADV]() 6, [ADP]() 5, [SCONJ]() 1, [CONJ]() 1), <em>mellan</em> ([ADP]() 81, [CONJ]() 1)
 
 
 * <em>och</em>
@@ -127,21 +127,21 @@ The 10 most frequent ambiguous types:  <em>och</em> ([CONJ]() 2189, [ADV]() 6), 
 * <em>fast</em>
   * [ADV]() 10: <em>På bröstet har han hakat <b>fast</b> två kulspetspennor mellan knapparna .</em>
   * [SCONJ]() 5: <em>Och dessutom kommer jag att beordra statsåklagaren att inskrida <b>fast</b> jag helst inte hade velat det .</em>
-  * [CONJ]() 4: <em>" Då ska jag ge er en smörgås , <b>fast</b> bara på ett villkor .</em>
   * [ADJ]() 4: <em>De tycks betrakta sig själva som en <b>fast</b> och orubblig makt .</em>
+  * [CONJ]() 4: <em>" Då ska jag ge er en smörgås , <b>fast</b> bara på ett villkor .</em>
 * <em>som</em>
   * [SCONJ]() 1007: <em>Du kan dessutom ta bort fält <b>som</b> du inte vill se i layouten längre .</em>
   * [ADP]() 382: <em>Den konverterade informationen visas <b>som</b> Mom's Boston Crab Meat .</em>
   * [CONJ]() 6: <em>Man har undersökt såväl barn <b>som</b> anställda på elverk .</em>
 * <em>bara</em>
   * [ADV]() 129: <em>Han <b>bara</b> låtsades vara det .</em>
-  * [ADJ]() 2: <em>männen som rörde sig under planets buk hade <b>bara</b> , svarta fötter .</em>
   * [CONJ]() 2: <em>Ni måste ta större hänsyn till inte <b>bara</b> hela frågan om , inte endast givandet av bistånd , utan också en rättvis handel .</em>
+  * [ADJ]() 2: <em>männen som rörde sig under planets buk hade <b>bara</b> , svarta fötter .</em>
 * <em>liksom</em>
   * [ADV]() 6: <em>Den spred <b>liksom</b> ett ljus över allting omkring mig och över mina egna tankar .</em>
   * [ADP]() 5: <em>De kallades brottslingar , och en kränkt rättvisa hade nått dem , <b>liksom</b> de briserande granaterna ett olösligt mysterium från havet .</em>
-  * [CONJ]() 1: <em>Slutrapporten lämnades ut till omvärlden och uppgavs vara ett verk av Zakaria Mohieddin , Nassers mest insiktsfulla och resonliga medarbetare ( i västerländska ögon ) , och den togs för gott av informationsanalytiker på utrikesdepartementet och CIA , <b>liksom</b> sannolikt också av motsvarande organ för andra staters regeringar " .</em>
   * [SCONJ]() 1: <em>Över Kano lyste en väldig måne , och i starkare ljus än en europeisk vintereftermiddag kämpade sig passagerarna fram över plattan klockan tre på morgonen mot trycket av en middagshetta , som dröjt sig kvar hela natten <b>liksom</b> solen dröjer sig kvar i en sten som den värmt upp .</em>
+  * [CONJ]() 1: <em>Slutrapporten lämnades ut till omvärlden och uppgavs vara ett verk av Zakaria Mohieddin , Nassers mest insiktsfulla och resonliga medarbetare ( i västerländska ögon ) , och den togs för gott av informationsanalytiker på utrikesdepartementet och CIA , <b>liksom</b> sannolikt också av motsvarande organ för andra staters regeringar " .</em>
 * <em>mellan</em>
   * [ADP]() 81: <em>På bröstet har han hakat fast två kulspetspennor <b>mellan</b> knapparna .</em>
   * [CONJ]() 1: <em>Föredraganden kräver ett gränsvärde på <b>mellan</b> 50 och 30 ppm , vilket även i detta fall skulle medföra alltför stora kostnader utan uppenbar vinst .</em>
@@ -172,4 +172,42 @@ The highest child degree of a `CONJ` node is 2.
 Children of `CONJ` nodes are attached using 9 different relations: [sv-dep/punct]() (20; 42% instances), [sv-dep/conj]() (14; 29% instances), [sv-dep/mwe]() (6; 13% instances), [sv-dep/advmod]() (2; 4% instances), [sv-dep/neg]() (2; 4% instances), [sv-dep/aux]() (1; 2% instances), [sv-dep/cc]() (1; 2% instances), [sv-dep/det]() (1; 2% instances), [sv-dep/nsubj]() (1; 2% instances)
 
 Children of `CONJ` nodes belong to 9 different parts of speech: [PUNCT]() (20; 42% instances), [VERB]() (14; 29% instances), [PRON]() (6; 13% instances), [ADV]() (2; 4% instances), [PART]() (2; 4% instances), [AUX]() (1; 2% instances), [CONJ]() (1; 2% instances), [DET]() (1; 2% instances), [NOUN]() (1; 2% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Swedish_Sign_Language)
+
+There are 1 `CONJ` lemmas (9%), 2 `CONJ` types (1%) and 3 `CONJ` tokens (0%).
+Out of 11 observed tags, the rank of `CONJ` is: 4 in number of lemmas, 10 in number of types and 11 in number of tokens.
+
+The 10 most frequent `CONJ` lemmas: <em>_</em>
+
+The 10 most frequent `CONJ` types:  <em>PLUS, SOM(S)</em>
+
+The 10 most frequent ambiguous lemmas: <em>_</em> ([VERB]() 318, [NOUN]() 149, [X]() 59, [PRON]() 45, [ADV]() 35, [DET]() 19, [INTJ]() 14, [ADJ]() 14, [NUM]() 8, [ADP]() 8, [CONJ]() 3)
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `CONJ` is 2.000000 (the average of all parts of speech is 29.545455).
+
+The 1st highest number of forms (2) was observed with the lemma “_”: <em>PLUS, SOM(S)</em>.
+
+`CONJ` does not occur with any features.
+
+
+## Relations
+
+`CONJ` nodes are attached to their parents using 2 different relations: [sv-dep/cc]() (2; 67% instances), [sv-dep/dep]() (1; 33% instances)
+
+Parents of `CONJ` nodes belong to 2 different parts of speech: [VERB]() (2; 67% instances), [NOUN]() (1; 33% instances)
+
+3 (100%) `CONJ` nodes are leaves.
+
+The highest child degree of a `CONJ` node is 0.
 

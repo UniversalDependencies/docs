@@ -17,7 +17,7 @@ The feature is used with 2 part-of-speech tags: [ga-pos/ADJ]() (594; 3% instance
 
 594 [ga-pos/ADJ]() tokens (51% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (594; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (594; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (594; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (594; 100%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (594; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (594; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (594; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (594; 100%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 1 [ga-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Degree`:
 

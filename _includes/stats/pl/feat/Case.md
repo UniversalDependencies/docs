@@ -137,7 +137,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 1405 [pl-pos/VERB]() tokens (11% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1405; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1405; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1405; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1392; 99%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (1116; 79%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1116; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (913; 65%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (876; 62%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (807; 57%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1405; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1405; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1405; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1392; 99%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (1116; 79%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1116; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (913; 65%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (876; 62%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (807; 57%).
 
 `VERB` tokens may have the following values of `Case`:
 

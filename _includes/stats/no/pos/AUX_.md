@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>har</em> ([AUX]() 2219, [VERB]() 1104
   * [VERB]() 66: <em>Du <b>vil</b> så mye .</em>
 * <em>skal</em>
   * [AUX]() 830: <em>I stedet snakker hun om hvilken politikk Høyre <b>skal</b> føre .</em>
-  * [VERB]() 44: <em>Han <b>skal</b> til USA , sier pappa Tore |</em>
+  * [VERB]() 44: <em>Han <b>skal</b> til USA , sier pappa Tore</em>
 * <em>er</em>
   * [VERB]() 5299: <em>Thomassen <b>er</b> på vei til sin neste gjerning .</em>
   * [AUX]() 691: <em>Selve vår sivilisasjon <b>er</b> blitt det museet vi bor i .</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>har</em> ([AUX]() 2219, [VERB]() 1104
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.400000 (the average of all parts of speech is 1.382722).
+The form / lemma ratio of `AUX` is 3.400000 (the average of all parts of speech is 1.382778).
 
 The 1st highest number of forms (5) was observed with the lemma “bli”: <em>bilr, ble, bli, blir, blitt</em>.
 

@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADJ` and `Negative` co-occurr
 
 1 [ar-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `NUM` and `Negative` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Negative` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Negative`:
 

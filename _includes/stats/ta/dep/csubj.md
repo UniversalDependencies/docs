@@ -66,21 +66,23 @@ The following 4 pairs of parts of speech are connected with `csubj`: [ta-pos/VER
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 csubj	color:blue
-1	ஐக்கிய	ஐக்கிய	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	_	Translit=aikkiya|LTranslit=aikkiya
-2	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	3	nmod	_	Translit=nāṭukaḷ|LTranslit=nāṭu
-3	சபையின்	சபை	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=capaiyin|LTranslit=capai
-4	பாதுகாப்புக்	பாதுகாப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=pātukāppuk|LTranslit=pātukāppu
-5	கவுன்சிலில்	கவுன்சில்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	nmod	_	Translit=kavuncilil|LTranslit=kavuncil
-6	இந்தியாவுக்கு	இந்தியா	PROPN	NED-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	9	dobj	_	Translit=intiyāvukku|LTranslit=intiyā
-7	உறுப்பினர்	உறுப்பினர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	8	nmod	_	Translit=uruppinar|LTranslit=uruppinar
-8	அந்தஸ்து	அந்தஸ்து	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	dobj	_	Translit=antastu|LTranslit=antastu
-9	கிடைப்பது	கிடை	AUX	VZNF3SNAA	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act	10	csubj	_	Translit=kiṭaippatu|LTranslit=kiṭai
-10	உறுதியாகி	உறுதியாகு	VERB	Vt-T---AA	Negative=Pos|VerbForm=Part|Voice=Act	0	root	_	Translit=urutiyāki|LTranslit=urutiyāku
-11	விட்டது	விடு	AUX	VR-D3SNAA	Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	SpaceAfter=No|Translit=viṭṭatu|LTranslit=viṭu
-12	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.|LTranslit=.
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 9 csubj	color:blue
+1	2022-ம்	2022	ADJ	Uy-------	NumType=Ord	2	amod	_	Translit=2022-m|LTranslit=2022
+2	ஆண்டில்	ஆண்டு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	nmod	_	Translit=āṇṭil|LTranslit=āṇṭu
+3	gஎர்மனியில்	gஎர்மனி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	nmod	_	Translit=germaniyil|LTranslit=germani
+4	அணுஉலைக்	அணுஉலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=aṇuulaik|LTranslit=aṇuulai
+5	கூடங்கள்	கூடம்	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	8	nmod	_	Translit=kūṭaṅkaḷ|LTranslit=kūṭam
+6	ஏ	ஏ	PART	Tq-------	_	5	advmod:emph	_	Translit=ē|LTranslit=ē
+7	இல்லாத	இல்	ADP	PP-------	AdpType=Post	5	case	_	Translit=illāta|LTranslit=il
+8	நிலை	நிலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	dobj	_	Translit=nilai|LTranslit=nilai
+9	ஏற்பட	ஏற்படு	VERB	Vu-T---AA	Negative=Pos|VerbForm=Inf|Voice=Act	13	csubj	_	Translit=ērpaṭa|LTranslit=ērpaṭu
+10	வேண்டும்	வேண்டு	AUX	VR-F3SNAA	Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	aux	_	Translit=vēṇṭum|LTranslit=vēṇṭu
+11	என்பது	என்	X	TQ-------	_	9	mark	_	Translit=enpatu|LTranslit=en
+12	தான்	தான்	PART	Tq-------	_	9	advmod:emph	_	Translit=tān|LTranslit=tān
+13	அது	அது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	SpaceAfter=No|Translit=atu|LTranslit=atu
+14	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

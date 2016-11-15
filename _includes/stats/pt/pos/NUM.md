@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>um</em> ([DET]() 1615, [NUM]() 233, [
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.004819 (the average of all parts of speech is 1.447797).
+The form / lemma ratio of `NUM` is 1.004819 (the average of all parts of speech is 1.432674).
 
 The 1st highest number of forms (2) was observed with the lemma “0”: <em>0, O</em>.
 
@@ -58,12 +58,12 @@ The 2nd highest number of forms (2) was observed with the lemma “83”: <em>83
 
 The 3rd highest number of forms (2) was observed with the lemma “dois”: <em>dois, duas</em>.
 
-`NUM` occurs with 5 features: [pt-feat/NumType]() (4170; 97% instances), [pt-feat/Number]() (4149; 97% instances), [pt-feat/Gender]() (4109; 96% instances), [pt-feat/NumForm]() (95; 2% instances), [pt-feat/Typo]() (1; 0% instances)
+`NUM` occurs with 5 features: [pt-feat/NumType]() (4289; 100% instances), [pt-feat/Number]() (4149; 97% instances), [pt-feat/Gender]() (4109; 96% instances), [pt-feat/NumForm]() (95; 2% instances), [pt-feat/Typo]() (1; 0% instances)
 
 `NUM` occurs with 7 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumForm=Digit`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-`NUM` occurs with 16 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Plur|NumType=Card` (2597 tokens).
+`NUM` occurs with 11 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Plur|NumType=Card` (2664 tokens).
 Examples: <em>dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis</em>
 
 
@@ -71,21 +71,113 @@ Examples: <em>dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis</em>
 
 `NUM` nodes are attached to their parents using 18 different relations: [pt-dep/nummod]() (3392; 79% instances), [pt-dep/advmod]() (351; 8% instances), [pt-dep/compound]() (156; 4% instances), [pt-dep/conj]() (132; 3% instances), [pt-dep/nsubj]() (81; 2% instances), [pt-dep/dobj]() (70; 2% instances), [pt-dep/root]() (46; 1% instances), [pt-dep/nmod]() (16; 0% instances), [pt-dep/nsubjpass]() (10; 0% instances), [pt-dep/ccomp]() (7; 0% instances), [pt-dep/appos]() (6; 0% instances), [pt-dep/xcomp]() (5; 0% instances), [pt-dep/acl]() (4; 0% instances), [pt-dep/cop]() (4; 0% instances), [pt-dep/iobj]() (4; 0% instances), [pt-dep/advcl]() (2; 0% instances), [pt-dep/mwe]() (2; 0% instances), [pt-dep/parataxis]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 13 different parts of speech: [NOUN]() (2817; 66% instances), [VERB]() (464; 11% instances), [SYM]() (321; 7% instances), [NUM]() (285; 7% instances), [PROPN]() (236; 6% instances), [ADJ]() (56; 1% instances), [ROOT]() (46; 1% instances), [DET]() (26; 1% instances), [ADV]() (14; 0% instances), [PRON]() (11; 0% instances), [ADP]() (9; 0% instances), [CONJ]() (3; 0% instances), [AUX]() (1; 0% instances)
+Parents of `NUM` nodes belong to 12 different parts of speech: [NOUN]() (2817; 66% instances), [VERB]() (465; 11% instances), [SYM]() (321; 7% instances), [NUM]() (285; 7% instances), [PROPN]() (236; 6% instances), [ADJ]() (56; 1% instances), [ROOT]() (46; 1% instances), [DET]() (31; 1% instances), [ADV]() (14; 0% instances), [PRON]() (11; 0% instances), [ADP]() (4; 0% instances), [CONJ]() (3; 0% instances)
 
 2852 (66%) `NUM` nodes are leaves.
 
-928 (22%) `NUM` nodes have one child.
+925 (22%) `NUM` nodes have one child.
 
-277 (6%) `NUM` nodes have two children.
+278 (6%) `NUM` nodes have two children.
 
-232 (5%) `NUM` nodes have three or more children.
+234 (5%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 9.
 
-Children of `NUM` nodes are attached using 23 different relations: [pt-dep/case]() (835; 35% instances), [pt-dep/nmod]() (442; 18% instances), [pt-dep/advmod]() (240; 10% instances), [pt-dep/punct]() (207; 9% instances), [pt-dep/compound]() (154; 6% instances), [pt-dep/conj]() (128; 5% instances), [pt-dep/cc]() (106; 4% instances), [pt-dep/cop]() (61; 3% instances), [pt-dep/det]() (59; 2% instances), [pt-dep/nsubj]() (38; 2% instances), [pt-dep/name]() (25; 1% instances), [pt-dep/advcl]() (22; 1% instances), [pt-dep/nummod]() (22; 1% instances), [pt-dep/acl]() (14; 1% instances), [pt-dep/appos]() (12; 1% instances), [pt-dep/amod]() (11; 0% instances), [pt-dep/mark]() (5; 0% instances), [pt-dep/dep]() (3; 0% instances), [pt-dep/advmod:emph]() (2; 0% instances), [pt-dep/dobj]() (2; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/neg]() (1; 0% instances), [pt-dep/parataxis]() (1; 0% instances)
+Children of `NUM` nodes are attached using 23 different relations: [pt-dep/case]() (842; 35% instances), [pt-dep/nmod]() (438; 18% instances), [pt-dep/advmod]() (238; 10% instances), [pt-dep/punct]() (207; 9% instances), [pt-dep/compound]() (154; 6% instances), [pt-dep/conj]() (128; 5% instances), [pt-dep/cc]() (106; 4% instances), [pt-dep/det]() (68; 3% instances), [pt-dep/cop]() (61; 3% instances), [pt-dep/nsubj]() (38; 2% instances), [pt-dep/name]() (25; 1% instances), [pt-dep/advcl]() (22; 1% instances), [pt-dep/nummod]() (22; 1% instances), [pt-dep/acl]() (14; 1% instances), [pt-dep/appos]() (12; 1% instances), [pt-dep/amod]() (11; 0% instances), [pt-dep/mark]() (5; 0% instances), [pt-dep/dep]() (3; 0% instances), [pt-dep/dobj]() (2; 0% instances), [pt-dep/advmod:emph]() (1; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/neg]() (1; 0% instances), [pt-dep/parataxis]() (1; 0% instances)
 
-Children of `NUM` nodes belong to 14 different parts of speech: [ADP]() (839; 35% instances), [NOUN]() (403; 17% instances), [NUM]() (285; 12% instances), [ADV]() (211; 9% instances), [PUNCT]() (207; 9% instances), [CONJ]() (107; 4% instances), [VERB]() (96; 4% instances), [PROPN]() (88; 4% instances), [DET]() (70; 3% instances), [PRON]() (56; 2% instances), [ADJ]() (19; 1% instances), [SCONJ]() (6; 0% instances), [SYM]() (3; 0% instances), [PART]() (1; 0% instances)
+Children of `NUM` nodes belong to 14 different parts of speech: [ADP]() (840; 35% instances), [NOUN]() (402; 17% instances), [NUM]() (285; 12% instances), [ADV]() (211; 9% instances), [PUNCT]() (207; 9% instances), [CONJ]() (107; 4% instances), [VERB]() (96; 4% instances), [PROPN]() (88; 4% instances), [DET]() (79; 3% instances), [PRON]() (56; 2% instances), [ADJ]() (19; 1% instances), [SCONJ]() (6; 0% instances), [SYM]() (3; 0% instances), [PART]() (1; 0% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+There are 814 `NUM` lemmas (4%), 822 `NUM` types (3%) and 4171 `NUM` tokens (2%).
+Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
+
+The 10 most frequent `NUM` lemmas: <em>um, dois, três, mil, quatro, cinco, 15, 30, seis, dez</em>
+
+The 10 most frequent `NUM` types:  <em>um, dois, três, mil, uma, duas, quatro, cinco, 15, 30</em>
+
+The 10 most frequent ambiguous lemmas: <em>um</em> ([DET]() 3196, [NUM]() 371, [PRON]() 12, [PROPN]() 3, [ADP]() 2, [NOUN]() 1), <em>dois</em> ([NUM]() 349, [NOUN]() 1), <em>mil</em> ([NUM]() 185, [NOUN]() 2, [ADP]() 1), <em>cinco</em> ([NUM]() 83, [PROPN]() 1), <em>30</em> ([NUM]() 59, [PROPN]() 1), <em>20</em> ([NUM]() 50, [PROPN]() 3), <em>uma</em> ([NUM]() 49, [ADP]() 12, [DET]() 9, [NOUN]() 3, [ADJ]() 1, [PROPN]() 1), <em>1</em> ([NUM]() 41, [PROPN]() 13), <em>sete</em> ([NUM]() 37, [PROPN]() 2), <em>25</em> ([NUM]() 32, [PROPN]() 3)
+
+The 10 most frequent ambiguous types:  <em>um</em> ([DET]() 1616, [NUM]() 233, [PROPN]() 3, [PRON]() 3, [ADP]() 2, [NOUN]() 1), <em>dois</em> ([NUM]() 222, [NOUN]() 1), <em>mil</em> ([NUM]() 184, [NOUN]() 2, [ADP]() 1), <em>uma</em> ([DET]() 1407, [NUM]() 138, [ADP]() 12, [PRON]() 3, [NOUN]() 3, [PROPN]() 1, [ADJ]() 1), <em>cinco</em> ([NUM]() 77, [PROPN]() 1), <em>30</em> ([NUM]() 59, [PROPN]() 1), <em>20</em> ([NUM]() 50, [PROPN]() 3), <em>1</em> ([NUM]() 40, [PROPN]() 13), <em>sete</em> ([NUM]() 34, [PROPN]() 2), <em>25</em> ([NUM]() 32, [PROPN]() 3)
+
+
+* <em>um</em>
+  * [DET]() 1616: <em>« Será <b>um</b> movimento nacionalista independente .</em>
+  * [NUM]() 233: <em>Mais <b>um</b> pelouro para Feytor Pinto</em>
+  * [PROPN]() 3: <em>Acho importante notar que a Bienal mudou a maneira de conseguir patrocínio cultural em o país , que antes era feito a a base de o « me dá <b>um</b> dinheiro aí » .</em>
+  * [PRON]() 3: <em>Cada <b>um</b> de os produtos deve custar US$ 329 .</em>
+  * [ADP]() 2: <em>Cuba também está com a imagem <b>um</b> tanto abalada ( crise , êxodo por mar etc ) .</em>
+  * [NOUN]() 1: <em>Se não se incomodarem <b>um</b> a o outro é porque há condições para partir para a fase seguinte .</em>
+* <em>dois</em>
+  * [NUM]() 222: <em>Lambari d' Oeste ( 5.000 habitantes ) virou município há <b>dois</b> anos .</em>
+  * [NOUN]() 1: <em>A ajuda humanitária , que finalmente recomeçou a mover- se em direcção a a Bósnia central , pode revelar- se uma arma de <b>dois</b> gumes .</em>
+* <em>mil</em>
+  * [NUM]() 184: <em>São esperados cerca de 60 <b>mil</b> visitantes .</em>
+  * [NOUN]() 2: <em>O Benfica já conta , em este momento , com setenta <b>mil</b> sócios e sete <b>mil</b> praticantes .</em>
+  * [ADP]() 1: <em>Funcionou a as <b>mil</b> maravilhas e o Boavista acabou por ganhar a Taça de Portugal com dois golos de Sanchez e um de Nuno Gomes .</em>
+* <em>uma</em>
+  * [DET]() 1407: <em>Em Lisboa , só S. Pedro pode pregar <b>uma</b> partida</em>
+  * [NUM]() 138: <em>Consta que enviou <b>uma</b> a Manuel Monteiro e outra a Paulo Portas .</em>
+  * [ADP]() 12: <em>Com a mesma hombridade que exibe mais <b>uma</b> vez .</em>
+  * [PRON]() 3: <em>A maior parte de as cerca de 260 pessoas desalojadas instalou então abrigos improvisados em <b>uma</b> de as ruas de a urbanização .</em>
+  * [NOUN]() 3: <em>Estas imagens que publicamos de Cartier-Bresson , Robert Capa , Eve Arnold ou Dennis Stock , entre outros , demonstra , <b>uma</b> vez mais , a vocação totalizadora de a Magnum , a capacidade em acompanhar de perto fenómenos mais importantes de a história de a humanidade .</em>
+  * [PROPN]() 1: <em>De a série Soluções , o « PC é mais que <b>uma</b> máquina de escrever » é o lançamento de a Ariadne ( 132 págs . )</em>
+  * [ADJ]() 1: <em>em os últimos dias o ritmo tornou- se frenético , « manipularam- se mais de <b>uma</b> centena de documentos e mapas » , garante de la Peña</em>
+* <em>cinco</em>
+  * [NUM]() 77: <em>Outras <b>cinco</b> pessoas ficaram feridas .</em>
+  * [PROPN]() 1: <em>« Um Vestido para <b>cinco</b> mulheres » é a peça encenada por Diogo Infante que transformou Margarida Pinto Correia em uma loura .</em>
+* <em>30</em>
+  * [NUM]() 59: <em>Até <b>30</b> de março .</em>
+  * [PROPN]() 1: <em>« Irritado com este acto de apropriação » , foi buscar uma espingarda US <b>30</b> semiautomática , utilizada em safaris , e 31 cartuchos , e dirigiu- se para o Cocke .</em>
+* <em>20</em>
+  * [NUM]() 50: <em>O homem fuma entre 11 e <b>20</b> cigarros por dia e a mulher , entre 5 e 10 .</em>
+  * [PROPN]() 3: <em>Uma última constatação : a TVI está pulverizada em o Top <b>20</b> Nacional , sem qualquer proposta acima ou igual a os 10,9 por cento de Sózinhos em Casa de o Canal 1 .</em>
+* <em>1</em>
+  * [NUM]() 40: <em>Pai E Filho <b>1</b></em>
+  * [PROPN]() 13: <em>China quer Fórmula <b>1</b></em>
+* <em>sete</em>
+  * [NUM]() 34: <em>É o maior grupo , com <b>sete</b> equipas .</em>
+  * [PROPN]() 2: <em>Meyer publicou esta informação em um romance , que depois adaptou a o cinema , com o título justamente de « A Solução a <b>sete</b> e meio por cento » ( talvez haja melhor tradução para « The 7,5 per cent Solution » : « Uma Solução a <b>sete</b> e meio por cento » , « Sete e meio por cento de Solução » ? )</em>
+* <em>25</em>
+  * [NUM]() 32: <em>Coliseu de os Recreios , Lisboa , domingo , <b>25</b> de Junho , 22h</em>
+  * [PROPN]() 3: <em>Nova gestão em a Ponte <b>25</b> de Abril</em>
+
+## Morphology
+
+The form / lemma ratio of `NUM` is 1.009828 (the average of all parts of speech is 1.449059).
+
+The 1st highest number of forms (2) was observed with the lemma “0”: <em>0, O</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “1”: <em>1, 1)</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “4”: <em>4, 4)</em>.
+
+`NUM` does not occur with any features.
+
+
+## Relations
+
+`NUM` nodes are attached to their parents using 15 different relations: [pt-dep/nummod]() (2854; 68% instances), [pt-dep/nmod]() (728; 17% instances), [pt-dep/appos]() (166; 4% instances), [pt-dep/conj]() (125; 3% instances), [pt-dep/nsubj]() (86; 2% instances), [pt-dep/dep]() (78; 2% instances), [pt-dep/root]() (52; 1% instances), [pt-dep/dobj]() (51; 1% instances), [pt-dep/mwe]() (13; 0% instances), [pt-dep/xcomp]() (9; 0% instances), [pt-dep/remnant]() (3; 0% instances), [pt-dep/advcl]() (2; 0% instances), [pt-dep/ccomp]() (2; 0% instances), [pt-dep/csubj]() (1; 0% instances), [pt-dep/parataxis]() (1; 0% instances)
+
+Parents of `NUM` nodes belong to 10 different parts of speech: [NOUN]() (2947; 71% instances), [VERB]() (457; 11% instances), [NUM]() (271; 6% instances), [SYM]() (204; 5% instances), [PROPN]() (156; 4% instances), [ADJ]() (56; 1% instances), [ROOT]() (52; 1% instances), [ADV]() (12; 0% instances), [PRON]() (11; 0% instances), [DET]() (5; 0% instances)
+
+2712 (65%) `NUM` nodes are leaves.
+
+855 (20%) `NUM` nodes have one child.
+
+374 (9%) `NUM` nodes have two children.
+
+230 (6%) `NUM` nodes have three or more children.
+
+The highest child degree of a `NUM` node is 10.
+
+Children of `NUM` nodes are attached using 26 different relations: [pt-dep/case]() (717; 29% instances), [pt-dep/punct]() (512; 20% instances), [pt-dep/nmod]() (343; 14% instances), [pt-dep/advmod]() (240; 10% instances), [pt-dep/conj]() (129; 5% instances), [pt-dep/cc]() (100; 4% instances), [pt-dep/nmod:tmod]() (91; 4% instances), [pt-dep/dep]() (64; 3% instances), [pt-dep/cop]() (58; 2% instances), [pt-dep/det]() (57; 2% instances), [pt-dep/nummod]() (55; 2% instances), [pt-dep/nsubj]() (43; 2% instances), [pt-dep/appos]() (22; 1% instances), [pt-dep/mwe]() (15; 1% instances), [pt-dep/advcl]() (12; 0% instances), [pt-dep/amod]() (9; 0% instances), [pt-dep/acl:relcl]() (8; 0% instances), [pt-dep/mark]() (8; 0% instances), [pt-dep/nmod:npmod]() (7; 0% instances), [pt-dep/parataxis]() (6; 0% instances), [pt-dep/ccomp]() (5; 0% instances), [pt-dep/acl]() (4; 0% instances), [pt-dep/aux]() (4; 0% instances), [pt-dep/xcomp]() (3; 0% instances), [pt-dep/neg]() (2; 0% instances), [pt-dep/dislocated]() (1; 0% instances)
+
+Children of `NUM` nodes belong to 15 different parts of speech: [ADP]() (722; 29% instances), [PUNCT]() (512; 20% instances), [NOUN]() (383; 15% instances), [NUM]() (271; 11% instances), [ADV]() (236; 9% instances), [CONJ]() (104; 4% instances), [VERB]() (97; 4% instances), [DET]() (77; 3% instances), [PROPN]() (47; 2% instances), [PRON]() (33; 1% instances), [ADJ]() (20; 1% instances), [SCONJ]() (7; 0% instances), [AUX]() (4; 0% instances), [PART]() (1; 0% instances), [SYM]() (1; 0% instances)
 
 
 

@@ -36,7 +36,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 1187 [et-pos/ADJ]() tokens (6% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1187; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1187; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1187; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1187; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (975; 82%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1187; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1187; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1187; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1187; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (975; 82%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `X` and `NumType` co-occurred:
 
 3 [et-pos/SYM]() tokens (3% of all `SYM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `SYM` and `NumType` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (3; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (3; 100%).
+The most frequent other feature values with which `SYM` and `NumType` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (3; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (3; 100%).
 
 `SYM` tokens may have the following values of `NumType`:
 

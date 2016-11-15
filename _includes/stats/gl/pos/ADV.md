@@ -81,3 +81,96 @@ Children of `ADV` nodes are attached using 13 different relations: [gl-dep/punct
 
 Children of `ADV` nodes belong to 13 different parts of speech: [PUNCT]() (564; 44% instances), [ADP]() (312; 24% instances), [ADV]() (153; 12% instances), [VERB]() (83; 6% instances), [DET]() (45; 3% instances), [NUM]() (32; 2% instances), [NOUN]() (30; 2% instances), [CONJ]() (20; 2% instances), [PRON]() (18; 1% instances), [PART]() (16; 1% instances), [SCONJ]() (11; 1% instances), [ADJ]() (9; 1% instances), [PROPN]() (2; 0% instances)
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+There are 213 `ADV` lemmas (5%), 218 `ADV` types (4%) and 1200 `ADV` tokens (5%).
+Out of 15 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 8 in number of tokens.
+
+The 10 most frequent `ADV` lemmas: <em>non, máis, como, tamén, moito, xa, agora, tanto, cando, así</em>
+
+The 10 most frequent `ADV` types:  <em>non, máis, como, tamén, xa, agora, cando, moi, así, só</em>
+
+The 10 most frequent ambiguous lemmas: <em>máis</em> ([ADV]() 98, [CONJ]() 1), <em>como</em> ([ADV]() 90, [SCONJ]() 48), <em>moito</em> ([ADV]() 41, [DET]() 26, [PRON]() 7), <em>tanto</em> ([ADV]() 32, [DET]() 2, [PRON]() 2, [NOUN]() 1), <em>só</em> ([ADV]() 28, [ADJ]() 4), <em>mesmo</em> ([DET]() 22, [ADV]() 11, [PRON]() 8), <em>si</em> ([ADV]() 11, [PRON]() 4), <em>mellor</em> ([ADJ]() 16, [ADV]() 6), <em>mal</em> ([ADV]() 5, [NOUN]() 2), <em>pouco</em> ([ADV]() 5, [PRON]() 5, [DET]() 4)
+
+The 10 most frequent ambiguous types:  <em>máis</em> ([ADV]() 98, [CONJ]() 1), <em>como</em> ([ADV]() 89, [SCONJ]() 48), <em>só</em> ([ADV]() 28, [ADJ]() 3), <em>tanto</em> ([ADV]() 18, [NOUN]() 1, [PRON]() 1), <em>mesmo</em> ([DET]() 17, [ADV]() 11, [PRON]() 5), <em>si</em> ([ADV]() 11, [PRON]() 4), <em>moito</em> ([ADV]() 9, [DET]() 7, [PRON]() 5), <em>mellor</em> ([ADJ]() 15, [ADV]() 6), <em>mal</em> ([ADV]() 5, [NOUN]() 1, [ADJ]() 1), <em>pouco</em> ([ADV]() 5, [DET]() 2, [PRON]() 2)
+
+
+* <em>máis</em>
+  * [ADV]() 98: <em>só dedican <b>máis</b> tempo en Os_Estados_Unidos .</em>
+  * [CONJ]() 1: <em>adxudicou se a a Sociedade_Espazos_Temolúdicos_SA de capital maioritario de Caixa_Galicia , a xestión privada de unha parte de a obra , nomeadamente a explotación comercial e os locais de hostalaría con o que se xerarán , en conxunto , case catrocentos empregos directos <b>máis</b> outros tantos indirectos , aspecto importante dada a elevada porcentaxe de paro existente en a comarca coruñesa .</em>
+* <em>como</em>
+  * [ADV]() 89: <em><b>como</b> chegou vostede a interesar se por esta arte ?</em>
+  * [SCONJ]() 48: <em>e <b>como</b> o falar non ten cancela , engade :</em>
+* <em>só</em>
+  * [ADV]() 28: <em><b>só</b> dedican máis tempo en Os_Estados_Unidos .</em>
+  * [ADJ]() 3: <em>libro que consta de un <b>só</b> poema , dividido en catro partes ( seis , sete , doce e catro poemas , respectivamente ) e_mais un epitafio .</em>
+* <em>tanto</em>
+  * [ADV]() 18: <em>moi cómoda , <b>tanto</b> en o partido como en o grupo municipal .</em>
+  * [NOUN]() 1: <em>aproveitando a circunstancia , Porro , sempre atenta a a posibilidade de pendurar se medallas , quixo apuntar se un <b>tanto</b> propagandístico ofrecendo se como mediadora entre as partes .</em>
+  * [PRON]() 1: <em>non desatendendo ningunha ( a inseguranza e temores de a xente de Abades , o heroísmo e tráxica vida de os fuxidos , a maldade e inquina de os represores ) tampouco decanta a novela por algunha , de_xeito_que se perde entre todas elas e todas resultan un <b>tanto</b> insubstanciais .</em>
+* <em>mesmo</em>
+  * [DET]() 17: <em>quixera un Maragall con o <b>mesmo</b> peso que ten en o Estado .</em>
+  * [ADV]() 11: <em>todo un exemplo para outros , <b>mesmo</b> para algúns nacidos en a propia casa .</em>
+  * [PRON]() 5: <em>a miña postura sobre iso vén de_longo e o <b>mesmo</b> sucede con o meu partido .</em>
+* <em>si</em>
+  * [ADV]() 11: <em>en Galiza , os galegos votan <b>si</b> .</em>
+  * [PRON]() 4: <em>o documento elaborado por lo Foro_do_Novo_Estatuto ocupa xa , por <b>si</b> propio , un lugar sobranceiro en a historia constitucional de Galiza .</em>
+* <em>moito</em>
+  * [ADV]() 9: <em>gustaría me <b>moito</b> desenvolver esta arte aquí por varias razóns .</em>
+  * [DET]() 7: <em>pois van de lado , temos Zapatero para <b>moito</b> tempo e Touriño será o próximo presidente .</em>
+  * [PRON]() 5: <em>ademais se o alumno vai ser profesor de escola ou de música en_xeral serve de <b>moito</b> ter certas nocións básicas para realizar acompañamentos .</em>
+* <em>mellor</em>
+  * [ADJ]() 15: <em>cal considera a <b>mellor</b> escola para formar guitarristas ?</em>
+  * [ADV]() 6: <em>a harmonía comprende se <b>mellor</b> se a tocas .</em>
+* <em>mal</em>
+  * [ADV]() 5: <em>a televisión reflecte a negación que nos rodea : infraestruturas que non chegan , fondos <b>mal</b> xestionados , exclusión de as axudas por incendios forestais ...</em>
+  * [NOUN]() 1: <em>os ianquis tiñan en as follas de as invasións , moitos anos antes de entrar en O_Iraque a sangue e lume , a Siria e Irán , como eixes de o <b>mal</b> , e agora queren cumprir outro xenocidio .</em>
+  * [ADJ]() 1: <em>a maioría falaba de a fatalidade de o mar , de o <b>mal</b> tempo , de o saneamento de as rías , de a auga doce , mais a palabra Prestige semellaba ser unha palabra maldita .</em>
+* <em>pouco</em>
+  * [ADV]() 5: <em>un narrador que , como sinalamos , resulta <b>pouco</b> eficiente a a hora de atender as diversas caras de o prisma , as diferentes frontes de a historia que relata .</em>
+  * [DET]() 2: <em>Cervantes escribía con moi <b>pouco</b> coidado , e pese_a os estudos , aínda hoxe permanecen as dúbidas .</em>
+  * [PRON]() 2: <em>en occidente levamos un sistema de vida que nos fai esquencer un <b>pouco</b> o interior persoal .</em>
+
+## Morphology
+
+The form / lemma ratio of `ADV` is 1.023474 (the average of all parts of speech is 1.374140).
+
+The 1st highest number of forms (3) was observed with the lemma “moito”: <em>moi, moito, moitísimo</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “como”: <em>como, cómo</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “libremente”: <em>libre, libremente</em>.
+
+`ADV` occurs with 2 features: [gl-feat/PronType]() (136; 11% instances), [gl-feat/AdpType]() (1; 0% instances)
+
+`ADV` occurs with 3 feature-value pairs: `AdpType=Prep`, `PronType=Int`, `PronType=Rel`
+
+`ADV` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (1063 tokens).
+Examples: <em>non, máis, tamén, xa, agora, moi, así, só, despois, sempre</em>
+
+
+## Relations
+
+`ADV` nodes are attached to their parents using 16 different relations: [gl-dep/advmod]() (851; 71% instances), [gl-dep/neg]() (202; 17% instances), [gl-dep/case]() (49; 4% instances), [gl-dep/mark]() (24; 2% instances), [gl-dep/root]() (15; 1% instances), [gl-dep/cc]() (12; 1% instances), [gl-dep/conj]() (12; 1% instances), [gl-dep/nmod]() (10; 1% instances), [gl-dep/cop]() (7; 1% instances), [gl-dep/advcl]() (4; 0% instances), [gl-dep/parataxis]() (4; 0% instances), [gl-dep/ccomp]() (3; 0% instances), [gl-dep/discourse]() (2; 0% instances), [gl-dep/mwe]() (2; 0% instances), [gl-dep/remnant]() (2; 0% instances), [gl-dep/dobj]() (1; 0% instances)
+
+Parents of `ADV` nodes belong to 11 different parts of speech: [VERB]() (682; 57% instances), [NOUN]() (218; 18% instances), [ADJ]() (143; 12% instances), [ADV]() (72; 6% instances), [PROPN]() (26; 2% instances), [PRON]() (24; 2% instances), [ROOT]() (15; 1% instances), [NUM]() (11; 1% instances), [DET]() (6; 1% instances), [ADP]() (2; 0% instances), [SCONJ]() (1; 0% instances)
+
+1031 (86%) `ADV` nodes are leaves.
+
+101 (8%) `ADV` nodes have one child.
+
+45 (4%) `ADV` nodes have two children.
+
+23 (2%) `ADV` nodes have three or more children.
+
+The highest child degree of a `ADV` node is 6.
+
+Children of `ADV` nodes are attached using 19 different relations: [gl-dep/punct]() (61; 22% instances), [gl-dep/advmod]() (51; 18% instances), [gl-dep/case]() (40; 14% instances), [gl-dep/nmod]() (28; 10% instances), [gl-dep/cop]() (23; 8% instances), [gl-dep/mark]() (15; 5% instances), [gl-dep/neg]() (14; 5% instances), [gl-dep/cc]() (9; 3% instances), [gl-dep/conj]() (9; 3% instances), [gl-dep/mwe]() (9; 3% instances), [gl-dep/nsubj]() (6; 2% instances), [gl-dep/ccomp]() (3; 1% instances), [gl-dep/csubj]() (3; 1% instances), [gl-dep/parataxis]() (2; 1% instances), [gl-dep/advcl]() (1; 0% instances), [gl-dep/appos]() (1; 0% instances), [gl-dep/compound]() (1; 0% instances), [gl-dep/det]() (1; 0% instances), [gl-dep/discourse]() (1; 0% instances)
+
+Children of `ADV` nodes belong to 12 different parts of speech: [ADV]() (72; 26% instances), [PUNCT]() (61; 22% instances), [ADP]() (46; 17% instances), [NOUN]() (34; 12% instances), [VERB]() (33; 12% instances), [SCONJ]() (12; 4% instances), [CONJ]() (11; 4% instances), [PRON]() (5; 2% instances), [ADJ]() (1; 0% instances), [DET]() (1; 0% instances), [INTJ]() (1; 0% instances), [NUM]() (1; 0% instances)
+

@@ -11,7 +11,7 @@ The 10 most frequent `NUM` lemmas: <em>twee, drie, vier, miljoen, 1, vijf, tien,
 
 The 10 most frequent `NUM` types:  <em>twee, drie, vier, miljoen, 1, vijf, tien, beide, zes, 1969</em>
 
-The 10 most frequent ambiguous lemmas: <em>twee</em> ([NUM]() 263, [X]() 4, [PROPN]() 1), <em>drie</em> ([NUM]() 182, [X]() 3, [NOUN]() 1, [VERB]() 1), <em>vier</em> ([NUM]() 110, [VERB]() 8, [AUX]() 4, [ADJ]() 2, [PROPN]() 1, [NOUN]() 1), <em>miljoen</em> ([NUM]() 102, [NOUN]() 1), <em>vijf</em> ([NUM]() 66, [X]() 2, [NOUN]() 2), <em>tien</em> ([NUM]() 66, [X]() 2), <em>zes</em> ([NUM]() 59, [X]() 2, [NOUN]() 1, [ADJ]() 1), <em>2</em> ([NUM]() 44, [NOUN]() 1), <em>acht</em> ([NUM]() 43, [VERB]() 15, [AUX]() 3), <em>uur</em> ([NOUN]() 89, [NUM]() 41, [X]() 2)
+The 10 most frequent ambiguous lemmas: <em>twee</em> ([NUM]() 263, [X]() 4, [PROPN]() 1), <em>drie</em> ([NUM]() 182, [X]() 3, [NOUN]() 1, [VERB]() 1), <em>vier</em> ([NUM]() 110, [VERB]() 8, [AUX]() 4, [ADJ]() 2, [NOUN]() 1, [PROPN]() 1), <em>miljoen</em> ([NUM]() 102, [NOUN]() 1), <em>vijf</em> ([NUM]() 66, [NOUN]() 2, [X]() 2), <em>tien</em> ([NUM]() 66, [X]() 2), <em>zes</em> ([NUM]() 59, [X]() 2, [ADJ]() 1, [NOUN]() 1), <em>2</em> ([NUM]() 44, [NOUN]() 1), <em>acht</em> ([NUM]() 43, [VERB]() 15, [AUX]() 3), <em>uur</em> ([NOUN]() 89, [NUM]() 41, [X]() 2)
 
 The 10 most frequent ambiguous types:  <em>twee</em> ([NUM]() 241, [X]() 4, [PROPN]() 1), <em>drie</em> ([NUM]() 166, [X]() 3), <em>vier</em> ([NUM]() 101, [NOUN]() 1, [PROPN]() 1), <em>vijf</em> ([NUM]() 59, [X]() 2, [NOUN]() 1), <em>tien</em> ([NUM]() 62, [X]() 2), <em>zes</em> ([NUM]() 56, [X]() 2), <em>2</em> ([NUM]() 44, [NOUN]() 1), <em>acht</em> ([NUM]() 39, [VERB]() 5), <em>uur</em> ([NOUN]() 74, [NUM]() 41, [X]() 2), <em>3</em> ([NUM]() 37, [NOUN]() 1)
 
@@ -103,7 +103,7 @@ The 10 most frequent `NUM` lemmas: <em>één, twee, 1, 2004, 2006, 2005, drie, 2
 
 The 10 most frequent `NUM` types:  <em>eerste, twee, 2004, 2006, 1, 2005, 2003, tweede, één, drie</em>
 
-The 10 most frequent ambiguous lemmas: <em>één</em> ([NUM]() 372, [PROPN]() 6), <em>2</em> ([NUM]() 62, [X]() 1), <em>7</em> ([NUM]() 26, [SYM]() 1), <em>8</em> ([NUM]() 23, [SYM]() 1), <em>1966</em> ([NUM]() 12, [SYM]() 3), <em>eerst</em> ([ADV]() 19, [NUM]() 8), <em>1965</em> ([NUM]() 7, [SYM]() 6), <em>II</em> ([PROPN]() 47, [NUM]() 2), <em>1/8</em> ([SYM]() 1, [NUM]() 1), <em>1999-2004</em> ([NUM]() 1, [SYM]() 1)
+The 10 most frequent ambiguous lemmas: <em>één</em> ([NUM]() 372, [PROPN]() 6), <em>2</em> ([NUM]() 62, [X]() 1), <em>7</em> ([NUM]() 26, [SYM]() 1), <em>8</em> ([NUM]() 23, [SYM]() 1), <em>1966</em> ([NUM]() 12, [SYM]() 3), <em>eerst</em> ([ADV]() 19, [NUM]() 8), <em>1965</em> ([NUM]() 7, [SYM]() 6), <em>II</em> ([PROPN]() 47, [NUM]() 2), <em>1/8</em> ([NUM]() 1, [SYM]() 1), <em>1999-2004</em> ([NUM]() 1, [SYM]() 1)
 
 The 10 most frequent ambiguous types:  <em>één</em> ([NUM]() 72, [PROPN]() 6), <em>2</em> ([NUM]() 56, [X]() 1), <em>een</em> ([DET]() 1598, [NUM]() 45), <em>eerst</em> ([NUM]() 34, [ADV]() 16), <em>7</em> ([NUM]() 24, [SYM]() 1), <em>vier</em> ([NUM]() 21, [VERB]() 1), <em>8</em> ([NUM]() 23, [SYM]() 1), <em>1966</em> ([NUM]() 12, [SYM]() 3), <em>vierde</em> ([NUM]() 11, [VERB]() 2), <em>1965</em> ([NUM]() 7, [SYM]() 6)
 

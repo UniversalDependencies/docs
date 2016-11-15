@@ -13,7 +13,7 @@ The 10 most frequent `PRON` types:  <em>сѧ, емоу, его, и, имъ, ва
 
 The 10 most frequent ambiguous lemmas: <em>и</em> ([CONJ]() 4317, [PRON]() 2992, [ADV]() 245), <em>иже</em> ([PRON]() 691, [DET]() 8, [ADJ]() 1), <em>вьсь</em> ([PRON]() 423, [NOUN]() 29), <em>ѥдинъ</em> ([NUM]() 224, [PRON]() 93), <em>дроугъ</em> ([ADJ]() 73, [PRON]() 39, [NOUN]() 25), <em>самъ</em> ([ADJ]() 65, [PRON]() 7), <em>каковъ</em> ([ADJ]() 3, [PRON]() 1)
 
-The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 1669, [PRON]() 387, [ADV]() 201, [ADP]() 7), <em>имъ</em> ([PRON]() 387, [VERB]() 1), <em>вꙑ</em> ([PRON]() 208, [ADP]() 15), <em>иже</em> ([PRON]() 151, [DET]() 1), <em>еже</em> ([PRON]() 117, [DET]() 7, [ADJ]() 1, [SCONJ]() 1), <em>тꙑ</em> ([PRON]() 109, [ADJ]() 20), <em>ѩ</em> ([PRON]() 104, [VERB]() 1), <em>вьси</em> ([PRON]() 82, [NOUN]() 13), <em>вьсѣ</em> ([PRON]() 76, [VERB]() 2), <em>і</em> ([PRON]() 77, [CONJ]() 2, [ADV]() 2)
+The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 1669, [PRON]() 387, [ADV]() 201, [ADP]() 7), <em>имъ</em> ([PRON]() 387, [VERB]() 1), <em>вꙑ</em> ([PRON]() 208, [ADP]() 15), <em>иже</em> ([PRON]() 151, [DET]() 1), <em>еже</em> ([PRON]() 117, [DET]() 7, [SCONJ]() 1, [ADJ]() 1), <em>тꙑ</em> ([PRON]() 109, [ADJ]() 20), <em>ѩ</em> ([PRON]() 104, [VERB]() 1), <em>вьси</em> ([PRON]() 82, [NOUN]() 13), <em>вьсѣ</em> ([PRON]() 76, [VERB]() 2), <em>і</em> ([PRON]() 77, [CONJ]() 2, [ADV]() 2)
 
 
 * <em>и</em>
@@ -33,8 +33,8 @@ The 10 most frequent ambiguous types:  <em>и</em> ([CONJ]() 1669, [PRON]() 387,
 * <em>еже</em>
   * [PRON]() 117: <em>а иже не иматъ ꙇ҅ <b>еже</b> иматъ възьметъ сѧ отъ него</em>
   * [DET]() 7: <em>а <b>еже</b> сѣсти о деснѫ и о шѫѭ мене нѣстъ мьнѣ сего дати</em>
-  * [ADJ]() 1: <em>г҃лѭ бо вамъ ѣко еште писаное се подобаатъ да съконьчаатъ сѧ о мьнѣ <b>еже</b></em>
   * [SCONJ]() 1: <em>ꙇ бѣшѧ людье жидѫще захариѩ ꙇ чюждаахѫ сѧ <b>еже</b> къшнѣаше тъ въ цръкъве</em>
+  * [ADJ]() 1: <em>г҃лѭ бо вамъ ѣко еште писаное се подобаатъ да съконьчаатъ сѧ о мьнѣ <b>еже</b></em>
 * <em>тꙑ</em>
   * [PRON]() 109: <em><b>тꙑ</b> же колицѣмь длъженъ еси</em>
   * [ADJ]() 20: <em>Горе же непраздънꙑмъ и доѩштімъ въ <b>тꙑ</b> дъни</em>

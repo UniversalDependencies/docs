@@ -9,9 +9,9 @@ This relation is universal.
 342 nodes (0%) are attached to their parents as `csubj`.
 
 240 instances of `csubj` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.24269005847953.
+Average distance between parent and child is 5.26315789473684.
 
-The following 16 pairs of parts of speech are connected with `csubj`: [pt-pos/ADJ]()-[pt-pos/VERB]() (148; 43% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (121; 35% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (44; 13% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (7; 2% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (5; 1% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `csubj`: [pt-pos/ADJ]()-[pt-pos/VERB]() (148; 43% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (121; 35% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (44; 13% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (7; 2% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (5; 1% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -74,6 +74,83 @@ The following 16 pairs of parts of speech are connected with `csubj`: [pt-pos/AD
 8	a	a	ADP	prp|<sam->	AdpType=Prep	10	case	_	_
 9	o	o	DET	art|<-sam>|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	teatro	teatro	NOUN	n|M|S	Gender=Masc|Number=Sing	7	nmod	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+377 nodes (0%) are attached to their parents as `csubj`.
+
+273 instances of `csubj` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.85145888594164.
+
+The following 16 pairs of parts of speech are connected with `csubj`: [pt-pos/ADJ]()-[pt-pos/VERB]() (140; 37% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (131; 35% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (47; 12% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (21; 6% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (20; 5% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (4; 1% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (2; 1% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (2; 1% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (2; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (2; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 csubj	color:blue
+1	Eu	eu	PRON	PERS|M|1S|NOM|@SUBJ>	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	também	também	ADV	ADV|@ADVL>	_	3	advmod	_	_
+3	acho	achar	VERB	<first-cjt>|<mv>|V|PR|1S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	,	,	PUNCT	PU|@PU	_	3	punct	_	_
+5	mas	mas	CONJ	<co-fcl>|<co-fmc>|<co-vfin>|KC|@CO	_	3	cc	_	_
+6	é	ser	VERB	<cjt>|<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	preciso	preciso	ADJ	ADJ|M|S|@<SC	Gender=Masc|Number=Sing	3	conj	_	_
+8	avisar	avisar	VERB	<mv>|V|INF|@ICL-<SUBJ	VerbForm=Inf	7	csubj	_	_
+9	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	pessoal	pessoal	NOUN	<np-def>|N|M|S|@<ACC	Gender=Masc|Number=Sing	8	dobj	_	_
+11	de	de	ADP	<sam->|PRP|@N<	_	13	case	_	_
+12	o	o	DET	<-sam>|<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	PT	PT	PROPN	PROP|M|S|@P<	Gender=Masc|Number=Sing	10	nmod	_	_
+14	.	.	PUNCT	PU|@PU	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 csubj	color:blue
+1	Afinal	afinal	ADV	ADV|@ADVL>	_	3	advmod	_	_
+2	,	,	PUNCT	PU|@PU	_	1	punct	_	_
+3	parece	parecer	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	KS|@SUB	_	6	mark	_	_
+5	consumir	consumir	VERB	<mv>|V|INF|@ICL-SUBJ>	VerbForm=Inf	6	csubj	_	_
+6	fura	furar	VERB	<mv>|V|PR|3S|IND|@FS-<SUBJ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+7	os	o	DET	<artd>|ART|M|P|@>N	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	tímpanos	tímpano	NOUN	<np-def>|N|M|P|@<ACC	Gender=Masc|Number=Plur	6	dobj	_	_
+9	.	.	PUNCT	PU|@PU	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 csubj	color:blue
+1	Os	o	DET	<artd>|ART|M|P|@>N	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	culpados	culpar	VERB	<mv>|<n>|V|PCP|M|P|@ICL-SUBJ>	Gender=Masc|Number=Plur|VerbForm=Part	7	csubj	_	_
+3	são	ser	VERB	<mv>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	quase	quase	ADV	<quant>|ADV|@>A	_	5	advmod	_	_
+5	sempre	sempre	ADV	ADV|@<ADVL	_	7	advmod	_	_
+6	os	o	DET	<artd>|ART|M|P|@>N	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	pais	pai	NOUN	<np-def>|N|M|P|@<SC	Gender=Masc|Number=Plur	0	root	_	_
+8	.	.	PUNCT	PU|@PU	_	7	punct	_	_
 
 ~~~
 

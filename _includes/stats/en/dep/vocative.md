@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-155 nodes (0%) are attached to their parents as `vocative`.
+154 nodes (0%) are attached to their parents as `vocative`.
 
-88 instances of `vocative` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.1741935483871.
+87 instances of `vocative` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.18831168831169.
 
-The following 16 pairs of parts of speech are connected with `vocative`: [en-pos/VERB]()-[en-pos/PROPN]() (44; 28% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (40; 26% instances), [en-pos/INTJ]()-[en-pos/PROPN]() (15; 10% instances), [en-pos/VERB]()-[en-pos/NOUN]() (12; 8% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (11; 7% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (9; 6% instances), [en-pos/INTJ]()-[en-pos/NOUN]() (7; 5% instances), [en-pos/ADV]()-[en-pos/PROPN]() (6; 4% instances), [en-pos/INTJ]()-[en-pos/DET]() (2; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (2; 1% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 1% instances), [en-pos/INTJ]()-[en-pos/PRON]() (1; 1% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 1% instances), [en-pos/PRON]()-[en-pos/PROPN]() (1; 1% instances), [en-pos/VERB]()-[en-pos/NUM]() (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `vocative`: [en-pos/VERB]()-[en-pos/PROPN]() (44; 29% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (40; 26% instances), [en-pos/INTJ]()-[en-pos/PROPN]() (15; 10% instances), [en-pos/VERB]()-[en-pos/NOUN]() (11; 7% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (10; 6% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (9; 6% instances), [en-pos/ADV]()-[en-pos/PROPN]() (6; 4% instances), [en-pos/INTJ]()-[en-pos/NOUN]() (6; 4% instances), [en-pos/INTJ]()-[en-pos/DET]() (2; 1% instances), [en-pos/NOUN]()-[en-pos/PRON]() (2; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (2; 1% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 1% instances), [en-pos/INTJ]()-[en-pos/PRON]() (1; 1% instances), [en-pos/PRON]()-[en-pos/PROPN]() (1; 1% instances), [en-pos/VERB]()-[en-pos/NUM]() (1; 1% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -106,7 +106,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: [en-pos/
 1	_	_	INTJ	UH	_	2	discourse	_	_
 2	_	_	NOUN	NNS	_	7	vocative	_	_
 3	_	_	PUNCT	,	_	7	punct	_	_
-4	_	_	DET	WDT	_	7	nsubj	_	_
+4	_	_	PRON	WDT	_	7	nsubj	_	_
 5	_	_	VERB	VBD	_	7	cop	_	_
 6	_	_	DET	DT	_	7	det	_	_
 7	_	_	NOUN	NN	_	0	root	_	_
@@ -160,37 +160,37 @@ The following 5 pairs of parts of speech are connected with `vocative`: [en-pos/
 
 
 ~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 24 vocative	color:blue
-1	_	_	PROPN	NNP	_	3	nsubj	_	_
-2	_	_	AUX	MD	_	3	aux	_	_
-3	_	_	VERB	VBG	_	0	root	_	_
-4	_	_	SCONJ	IN	_	9	mark	_	_
-5	_	_	DET	DT	_	6	det	_	_
-6	_	_	NOUN	NN	_	9	nsubj	_	_
-7	_	_	AUX	MD	_	9	aux	_	_
-8	_	_	VERB	VB	_	9	cop	_	_
-9	_	_	ADJ	JJ	_	3	ccomp	_	_
-10	_	_	ADV	WRB	_	13	advmod	_	_
-11	_	_	DET	DT	_	12	det	_	_
-12	_	_	NOUN	NN	_	13	nsubj	_	_
-13	_	_	VERB	VBD	_	3	advcl	_	_
-14	_	_	DET	DT	_	15	det	_	_
-15	_	_	NOUN	NNS	_	13	dobj	_	_
-16	_	_	PUNCT	``	_	19	punct	_	_
-17	_	_	PRON	PRP	_	19	nsubj	_	_
-18	_	_	VERB	VBP	_	19	cop	_	_
-19	_	_	ADJ	JJ	_	15	parataxis	_	_
-20	_	_	PART	TO	_	21	mark	_	_
-21	_	_	VERB	VB	_	19	ccomp	_	_
-22	_	_	PRON	PRP	_	21	dobj	_	_
-23	_	_	PUNCT	,	_	19	punct	_	_
-24	_	_	PROPN	NNP	_	19	vocative	_	_
-25	_	_	PUNCT	.	_	19	punct	_	_
-26	_	_	PUNCT	''	_	19	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 vocative	color:blue
+1	_	_	SCONJ	IN	_	3	mark	_	_
+2	_	_	PRON	PRP	_	3	nsubj	_	_
+3	_	_	VERB	VBD	_	14	advcl	_	_
+4	_	_	PRON	PRP	_	3	dobj	_	_
+5	_	_	ADV	RB	_	3	advmod	_	_
+6	_	_	NOUN	NN	_	3	vocative	_	_
+7	_	_	ADP	IN	_	8	case	_	_
+8	_	_	PRON	PRP	_	6	nmod	_	_
+9	_	_	PUNCT	,	_	14	punct	_	_
+10	_	_	PRON	PRP	_	14	nsubj	_	_
+11	_	_	VERB	VBZ	_	14	cop	_	_
+12	_	_	DET	DT	_	14	det	_	_
+13	_	_	NOUN	NN	_	14	compound	_	_
+14	_	_	NOUN	NN	_	0	root	_	_
+15	_	_	CONJ	CC	_	14	cc	_	_
+16	_	_	PRON	PRP	_	17	nsubj	_	_
+17	_	_	VERB	VBD	_	14	conj	_	_
+18	_	_	DET	DT	_	19	det	_	_
+19	_	_	NOUN	NN	_	17	dobj	_	_
+20	_	_	ADP	IN	_	23	case	_	_
+21	_	_	DET	DT	_	23	det	_	_
+22	_	_	NOUN	NN	_	23	compound	_	_
+23	_	_	NOUN	NN	_	19	nmod	_	_
+24	_	_	ADJ	JJ	_	25	amod	_	_
+25	_	_	NOUN	NN	_	23	nmod:tmod	_	_
+26	_	_	PUNCT	.	_	14	punct	_	_
 
 ~~~
 

@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 6813 [sv-pos/ADJ]() tokens (80% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (6798; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5766; 85%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5766; 85%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (5707; 84%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3677; 54%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (6798; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5766; 85%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5766; 85%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (5707; 84%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3677; 54%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 49 [sv-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (49; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (49; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (49; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (49; 100%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (49; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (49; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (49; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (49; 100%).
 
 `VERB` tokens may have the following values of `Number`:
 

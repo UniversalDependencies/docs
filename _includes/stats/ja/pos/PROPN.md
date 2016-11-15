@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: _, トウキョウ, ロシア-Rossiya, ム�
 
 The 10 most frequent `PROPN` types:  _
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 73916, [ADP]() 56601, [PUNCT]() 29066, [AUX]() 10360, [SCONJ]() 9060, [NUM]() 8667, [VERB]() 8579, [ADJ]() 3304, [PART]() 2730, [CONJ]() 2110, [PROPN]() 1795, [ADV]() 1655, [SYM]() 1138, [PRON]() 138, [DET]() 95, [INTJ]() 15), オオイタ ([PROPN]() 10, [ADV]() 1), カール-Karl ([NOUN]() 2, [PROPN]() 2), デン ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 73916, [ADP]() 56601, [PUNCT]() 29066, [AUX]() 10360, [SCONJ]() 9060, [NUM]() 8667, [VERB]() 8579, [ADJ]() 3304, [PART]() 2730, [CONJ]() 2110, [PROPN]() 1795, [ADV]() 1655, [SYM]() 1138, [PRON]() 138, [DET]() 95, [INTJ]() 15), オオイタ ([PROPN]() 10, [ADV]() 1), カール-Karl ([PROPN]() 2, [NOUN]() 2), デン ([NOUN]() 1, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  _ ([NOUN]() 83879, [ADP]() 56602, [AUX]() 29224, [PUNCT]() 29066, [VERB]() 24527, [NUM]() 10685, [SCONJ]() 9342, [PROPN]() 7729, [ADJ]() 4996, [PART]() 2783, [CONJ]() 2763, [ADV]() 2738, [SYM]() 1138, [DET]() 1067, [PRON]() 1065, [INTJ]() 27)
 

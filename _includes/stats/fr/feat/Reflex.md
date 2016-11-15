@@ -8,8 +8,8 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 103 tokens (0%) have a non-empty value of `Reflex`.
-10 types (0%) occur at least once with a non-empty value of `Reflex`.
-6 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
+11 types (0%) occur at least once with a non-empty value of `Reflex`.
+7 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
 The feature is used with 1 part-of-speech tags: [fr-pos/PRON]() (103; 0% instances).
 
 ### `PRON`
@@ -20,6 +20,6 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (103; 100% of non-empty `Reflex`): <em>lui-même, elle-même, eux-mêmes, elles-mêmes, moi-même, moi_même, lui_même, nous-mêmes, soi-même</em>
-* `EMPTY` (17927): <em>il, qui, se, s', elle, on, c', ils, lui, ce</em>
+* `Yes` (103; 100% of non-empty `Reflex`): <em>lui-même, elle-même, eux-mêmes, elles-mêmes, moi-même, lui_même, moi, moi_même, nous-mêmes, soi-même</em>
+* `EMPTY` (17926): <em>il, qui, se, s', elle, on, c', ils, lui, ce</em>
 

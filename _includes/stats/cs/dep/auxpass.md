@@ -100,40 +100,54 @@ The following 4 pairs of parts of speech are connected with `auxpass`: [cs-pos/V
 
 
 ~~~ conllu
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 26 auxpass	color:blue
-1	Lze	lze	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl	_	LGloss=(zvr._zájmeno/částice)
-3	domnívat	domnívat	VERB	Vf--------A----	Aspect=Imp|Negative=Pos|VerbForm=Inf	1	csubj	_	SpaceAfter=No
-4	,	,	PUNCT	Z:-------------	_	8	punct	_	_
-5	že	že	SCONJ	J,-------------	_	8	mark	_	_
-6	příslušní	příslušný	ADJ	AAMP1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	7	amod	_	LDeriv=příslušet
-7	činitelé	činitel	NOUN	NNMP1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	8	nsubj	_	_
-8	udělají	udělat	VERB	VB-P---3P-AA---	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
-9	vše	všechno	PRON	PLNS4---------1	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	8	dobj	_	_
-10	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	_	LId=pro-1
-11	to	ten	PRON	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	advmod	_	SpaceAfter=No
-12	,	,	PUNCT	Z:-------------	_	19	punct	_	_
-13	aby	aby	SCONJ	J,-------------	_	19	mark	_	_
-14	by	být	AUX	Vc-------------	Mood=Cnd|Person=3|VerbForm=Fin	19	aux	_	_
-15	i	i	CONJ	J^-------------	_	16	advmod:emph	_	LId=i-1
-16	tato	tento	DET	PDFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	_
-17	část	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	19	nsubj	_	_
-18	oprav	oprava	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Plur	17	nmod	_	_
-19	mohla	moci	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Negative=Pos|Number=Plur,Sing|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	LGloss=(mít_možnost_[něco_dělat])
-20	být	být	AUX	Vf--------A----	Negative=Pos|VerbForm=Inf	21	auxpass	_	_
-21	provedena	provést	VERB	VsQW---XX-AP---	Gender=Fem,Neut|Negative=Pos|Number=Plur,Sing|VerbForm=Part|Voice=Pass	19	ccomp	_	_
-22	bez	bez	ADP	RR--2----------	AdpType=Prep|Case=Gen	24	case	_	LId=bez-1
-23	zbytečných	zbytečný	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur	24	amod	_	_
-24	zdržení	zdržení	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Plur	21	nmod	_	LDeriv=zdržet
-25	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	26	case	_	LId=v-1
-26	rámci	rámec	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Negative=Pos|Number=Sing	21	auxpass	_	_
-27	celkové	celkový	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	28	amod	_	_
-28	opravy	oprava	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	26	nmod	_	SpaceAfter=No
-29	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+# visual-style 35	bgColor:blue
+# visual-style 35	fgColor:white
+# visual-style 36	bgColor:blue
+# visual-style 36	fgColor:white
+# visual-style 36 35 auxpass	color:blue
+1	Elektrická	elektrický	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	2	amod	_	_
+2	vozba	vozba	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	3	nsubj	_	_
+3	konala	konat	VERB	VpQW---XR-AA---	Aspect=Imp|Gender=Fem,Neut|Negative=Pos|Number=Plur,Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	asi	asi	PART	TT-------------	_	5	advmod:emph	_	_
+5	#	&camount;	NUM	C=-------------	NumForm=Digit|NumType=Card	3	dobj	_	_
+6	*	*	SYM	Xx-------------	Abbr=Yes	5	nmod	_	_
+7	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	_	LId=z-1
+8	celkové	celkový	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	10	amod	_	_
+9	dopravní	dopravní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	10	amod	_	_
+10	práce	práce	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	5	nmod	_	LGloss=(jako_činnost_i_místo)
+11	železniční	železniční	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	12	amod	_	_
+12	sítě	síť	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	10	nmod	_	_
+13	a	a	CONJ	J^-------------	_	3	cc	_	LId=a-1
+14	hospodárnost	hospodárnost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	20	nsubj	_	LDeriv=hospodárný
+15	i	i	CONJ	J^-------------	_	14	cc	_	LId=i-1
+16	návratnost	návratnost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	14	conj	_	LDeriv=návratný
+17	elektrizačních	elektrizační	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	18	amod	_	_
+18	investic	investice	NOUN	NNFP2-----A---1	Case=Gen|Gender=Fem|Negative=Pos|Number=Plur	14	nmod	_	_
+19	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	20	expl	_	LGloss=(zvr._zájmeno/částice)
+20	prokázala	prokázat	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Negative=Pos|Number=Plur,Sing|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	_
+21	příznivým	příznivý	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	22	amod	_	_
+22	poměrem	poměr	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Negative=Pos|Number=Sing	20	nmod	_	LGloss=(vztah_mezi_2_věcmi/lidmi)
+23	provozních	provozní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	24	amod	_	_
+24	nákladů	náklad	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	Z:-------------	_	24	punct	_	_
+26	provozu	provoz	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	24	conj	_	_
+27	parního	parní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	26	amod	_	SpaceAfter=No
+28	,	,	PUNCT	Z:-------------	_	27	punct	_	_
+29	dieselového	dieselový	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	27	conj	_	SpaceAfter=No
+30	,	,	PUNCT	Z:-------------	_	27	punct	_	_
+31	elektrického	elektrický	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	27	conj	_	SpaceAfter=No
+32	,	,	PUNCT	Z:-------------	_	22	punct	_	_
+33	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	34	case	_	LId=v-1
+34	poměru	poměr	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Negative=Pos|Number=Sing	36	nmod	_	LGloss=(vztah_mezi_2_věcmi/lidmi)
+35	#	&camount;	NUM	C=-------------	NumForm=Digit|NumType=Card	36	auxpass	_	_
+36	vztaženo	vztáhnout	VERB	VsNS---XX-AP---	Gender=Neut|Negative=Pos|Number=Sing|VerbForm=Part|Voice=Pass	22	dep	_	_
+37	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	40	case	_	LId=na-1
+38	užitečnou	užitečný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	40	amod	_	_
+39	dopravní	dopravní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	40	amod	_	_
+40	práci	práce	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Negative=Pos|Number=Sing	36	nmod	_	LGloss=(jako_činnost_i_místo)
+41	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	42	case	_	LId=v-1
+42	*	*	SYM	Xx-------------	Abbr=Yes	40	advmod	_	_
+43	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 

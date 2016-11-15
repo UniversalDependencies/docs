@@ -11,9 +11,9 @@ The 10 most frequent `VERB` lemmas: <em>ser, tener, hacer, estar, encontrar, dar
 
 The 10 most frequent `VERB` types:  <em>es, fue, son, eran, era, tiene, encuentra, ser, está, hacer</em>
 
-The 10 most frequent ambiguous lemmas: <em>ser</em> ([VERB]() 6101, [AUX]() 1713, [NOUN]() 49, [PROPN]() 25, [X]() 7, [DET]() 1, [PART]() 1, [CONJ]() 1), <em>tener</em> ([VERB]() 1291, [AUX]() 106, [PROPN]() 1), <em>hacer</em> ([VERB]() 795, [NOUN]() 6, [AUX]() 4, [ADP]() 2), <em>estar</em> ([VERB]() 748, [AUX]() 447, [X]() 2, [PROPN]() 1), <em>encontrar</em> ([VERB]() 565, [AUX]() 1), <em>dar</em> ([VERB]() 439, [ADP]() 9, [PROPN]() 6, [X]() 2, [AUX]() 1), <em>haber</em> ([AUX]() 1848, [VERB]() 373, [PROPN]() 7, [NOUN]() 5, [X]() 2, [ADV]() 1), <em>decir</em> ([VERB]() 358, [PROPN]() 1), <em>ver</em> ([VERB]() 295, [NOUN]() 9, [PROPN]() 4, [X]() 1), <em>llegar</em> ([VERB]() 283, [AUX]() 34)
+The 10 most frequent ambiguous lemmas: <em>ser</em> ([VERB]() 6101, [AUX]() 1713, [NOUN]() 49, [PROPN]() 25, [X]() 7, [PART]() 1, [DET]() 1, [CONJ]() 1), <em>tener</em> ([VERB]() 1291, [AUX]() 106, [PROPN]() 1), <em>hacer</em> ([VERB]() 795, [NOUN]() 6, [AUX]() 4, [ADP]() 2), <em>estar</em> ([VERB]() 748, [AUX]() 447, [X]() 2, [PROPN]() 1), <em>encontrar</em> ([VERB]() 565, [AUX]() 1), <em>dar</em> ([VERB]() 439, [ADP]() 9, [PROPN]() 6, [X]() 2, [AUX]() 1), <em>haber</em> ([AUX]() 1848, [VERB]() 373, [PROPN]() 7, [NOUN]() 5, [X]() 2, [ADV]() 1), <em>decir</em> ([VERB]() 358, [PROPN]() 1), <em>ver</em> ([VERB]() 295, [NOUN]() 9, [PROPN]() 4, [X]() 1), <em>llegar</em> ([VERB]() 283, [AUX]() 34)
 
-The 10 most frequent ambiguous types:  <em>es</em> ([VERB]() 2668, [AUX]() 179, [PROPN]() 3, [X]() 3), <em>fue</em> ([AUX]() 664, [VERB]() 615, [PART]() 1, [X]() 1), <em>son</em> ([VERB]() 495, [AUX]() 68, [NOUN]() 2, [PROPN]() 1), <em>eran</em> ([VERB]() 474, [AUX]() 20), <em>era</em> ([VERB]() 427, [AUX]() 39, [NOUN]() 12, [PROPN]() 1), <em>tiene</em> ([VERB]() 387, [AUX]() 9), <em>ser</em> ([VERB]() 293, [AUX]() 174, [NOUN]() 26, [X]() 1), <em>está</em> ([VERB]() 216, [AUX]() 166, [X]() 1), <em>hacer</em> ([VERB]() 198, [NOUN]() 4, [AUX]() 2), <em>hay</em> ([VERB]() 155, [AUX]() 35, [ADV]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>es</em> ([VERB]() 2668, [AUX]() 179, [PROPN]() 3, [X]() 3), <em>fue</em> ([AUX]() 664, [VERB]() 615, [X]() 1, [PART]() 1), <em>son</em> ([VERB]() 495, [AUX]() 68, [NOUN]() 2, [PROPN]() 1), <em>eran</em> ([VERB]() 474, [AUX]() 20), <em>era</em> ([VERB]() 427, [AUX]() 39, [NOUN]() 12, [PROPN]() 1), <em>tiene</em> ([VERB]() 387, [AUX]() 9), <em>ser</em> ([VERB]() 293, [AUX]() 174, [NOUN]() 26, [X]() 1), <em>está</em> ([VERB]() 216, [AUX]() 166, [X]() 1), <em>hacer</em> ([VERB]() 198, [NOUN]() 4, [AUX]() 2), <em>hay</em> ([VERB]() 155, [AUX]() 35, [X]() 1, [ADV]() 1)
 
 
 * <em>es</em>
@@ -24,8 +24,8 @@ The 10 most frequent ambiguous types:  <em>es</em> ([VERB]() 2668, [AUX]() 179, 
 * <em>fue</em>
   * [AUX]() 664: <em>La sentencia de este caso <b>fue</b> publicada por orden virreinal en 1783 .</em>
   * [VERB]() 615: <em>En general , el daño en Gran Caimán no <b>fue</b> severo .</em>
-  * [PART]() 1: <em>Después <b>fue</b> a la Universidad de Cambridge donde se interesó por la física y la química .</em>
   * [X]() 1: <em>El sencillo fue <b>fue</b> su primero lanzado en formato maxi con más de 4 canciones , y e fueron agregados numerosas remezclas y versiones alternativas de la canción original .</em>
+  * [PART]() 1: <em>Después <b>fue</b> a la Universidad de Cambridge donde se interesó por la física y la química .</em>
 * <em>son</em>
   * [VERB]() 495: <em>Ambos <b>son</b> químicamente idénticos .</em>
   * [AUX]() 68: <em>A pesar de esto las benzodiazepinas <b>son</b> todavía extensamente recetadas .</em>
@@ -58,8 +58,8 @@ The 10 most frequent ambiguous types:  <em>es</em> ([VERB]() 2668, [AUX]() 179, 
 * <em>hay</em>
   * [VERB]() 155: <em>Aun <b>hay</b> otros reclutados por el Ejército Blanco .</em>
   * [AUX]() 35: <em>Mi primera impresión no fue buena , todo <b>hay</b> que decir lo .</em>
-  * [ADV]() 1: <em>En la empresa también trabaja Juan Pablo quien es el nuevo socio , quien lucha por convertir a Alma en una modelo , Alma se da cuanta de que el trabaja alli y decide no firmar el contrato , la malvada de Abigail llega a la agencia y le informa a su primo que Alma estaba <b>hay</b> , el cual la busca y la regresa a su casa .</em>
   * [X]() 1: <em>En la empresa también trabaja Juan Pablo quien es el nuevo socio , quien lucha por convertir a Alma en una modelo , Alma se da cuanta de que el trabaja alli y decide no firmar el contrato , la malvada de Abigail llega a la agencia y le informa a su primo que Alma estaba <b>hay</b> , el cual la busca y la regresa a su casa .</em>
+  * [ADV]() 1: <em>En la empresa también trabaja Juan Pablo quien es el nuevo socio , quien lucha por convertir a Alma en una modelo , Alma se da cuanta de que el trabaja alli y decide no firmar el contrato , la malvada de Abigail llega a la agencia y le informa a su primo que Alma estaba <b>hay</b> , el cual la busca y la regresa a su casa .</em>
 
 ## Morphology
 

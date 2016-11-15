@@ -28,7 +28,7 @@ The following 52 pairs of parts of speech are connected with `nsubj`: [no-pos/VE
 6	selv	selv	DET	_	PronType=Prs	5	det	_	_
 7	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	underskrevet	underskrive	VERB	_	VerbForm=Part	1	advcl	_	_
-9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	dobj	_	_
+9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	dobj	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 52 pairs of parts of speech are connected with `nsubj`: [no-pos/VE
 1	Hvordan	hvordan	ADV	_	_	2	advmod	_	_
 2	behandler	behandle	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	meddommeren	meddommer	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	_
-4	dyr	dyr	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	dobj	_	_
+4	dyr	dyr	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	dobj	_	SpaceAfter=No
 5	?	$?	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -57,10 +57,10 @@ The following 52 pairs of parts of speech are connected with `nsubj`: [no-pos/VE
 # visual-style 3 2 nsubj	color:blue
 1	Og	og	CONJ	_	_	3	cc	_	_
 2	Aftenposten	Aftenposten	PROPN	_	Gender=Masc	3	nsubj	_	_
-3	leverer	levere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leverer	levere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	,	$,	PUNCT	_	_	3	punct	_	_
 5	også	også	ADV	_	_	6	advmod	_	_
-6	her	her	ADV	_	_	3	advmod	_	_
+6	her	her	ADV	_	_	3	advmod	_	SpaceAfter=No
 7	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~

@@ -118,7 +118,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 
 29 [cs-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (29; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (29; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (29; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (26; 90%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (24; 83%), <tt><a href="Number.html">Number</a>=Plur</tt> (22; 76%).
+The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (29; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (29; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (29; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (26; 90%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (24; 83%), <tt><a href="Number.html">Number</a>=Plur</tt> (22; 76%).
 
 `NUM` tokens may have the following values of `Foreign`:
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 
 1 [cs-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Person.html">Person</a>=1</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="Person.html">Person</a>=1</tt> (1; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Foreign`:
 
@@ -240,7 +240,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 13 [cs-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (13; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (13; 100%).
+The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (13; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (13; 100%).
 
 `ADV` tokens may have the following values of `Foreign`:
 
@@ -250,7 +250,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 
 13 [cs-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (13; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (10; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (10; 77%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 69%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (7; 54%).
+The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (13; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (10; 77%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (10; 77%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 69%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (7; 54%).
 
 `PRON` tokens may have the following values of `Foreign`:
 
@@ -260,7 +260,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 
 8 [cs-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (8; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7; 88%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5; 63%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 63%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 63%).
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (8; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7; 88%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 63%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 63%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5; 63%).
 
 `VERB` tokens may have the following values of `Foreign`:
 
@@ -283,8 +283,8 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>NOUN --[<a href="../dep/foreign.html">foreign</a>]--> NOUN</tt> (14; 82%),
 <tt>ADJ --[<a href="../dep/foreign.html">foreign</a>]--> NOUN</tt> (13; 100%),
 <tt>NOUN --[<a href="../dep/case.html">case</a>]--> ADP</tt> (11; 52%),
-<tt>PROPN --[<a href="../dep/foreign.html">foreign</a>]--> ADJ</tt> (7; 100%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (7; 88%),
+<tt>PROPN --[<a href="../dep/foreign.html">foreign</a>]--> ADJ</tt> (7; 100%),
 <tt>NOUN --[<a href="../dep/foreign.html">foreign</a>]--> PART</tt> (6; 100%),
 <tt>PROPN --[<a href="../dep/foreign.html">foreign</a>]--> PROPN</tt> (5; 100%).
 

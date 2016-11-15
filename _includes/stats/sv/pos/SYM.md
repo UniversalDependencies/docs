@@ -67,12 +67,12 @@ The 10 most frequent `SYM` types:  <em>%, &amp;apos;, FROM, LIMIT, Like, SELECT,
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14002, [VERB]() 11274, [ADP]() 8898, [PUNCT]() 8656, [PRON]() 8194, [ADV]() 6016, [ADJ]() 5522, [DET]() 4283, [CONJ]() 3016, [PROPN]() 2703, [SCONJ]() 2587, [AUX]() 2238, [PART]() 1778, [NUM]() 440, [INTJ]() 179, [X]() 17, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>%</em> ([SYM]() 3, [NOUN]() 3)
+The 10 most frequent ambiguous types:  <em>%</em> ([NOUN]() 3, [SYM]() 3)
 
 
 * <em>%</em>
-  * [SYM]() 3: <em>SELECT asterisk FROM Kunder WHERE Land Like U <b>%</b></em>
   * [NOUN]() 3: <em>Exempelvis de bästa eller sämsta 25 <b>%</b> av försäljarna baserat på antalet hanterade order .</em>
+  * [SYM]() 3: <em>SELECT asterisk FROM Kunder WHERE Land Like U <b>%</b></em>
 
 ## Morphology
 

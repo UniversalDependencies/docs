@@ -20,11 +20,11 @@ The following 16 pairs of parts of speech are connected with `case`: [el-pos/NOU
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 case	color:blue
-1	Η	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Σπόρτινγκ	Σπόρτινγκ	NOUN	NOUN	_	4	nsubj	_	_
 3	Λισαβόνας	Λισαβόνα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	νίκησε	νικώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-5	την	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Μάντσεστερ	Μάντσεστερ	NOUN	NOUN	_	4	dobj	_	_
 7	Σίτι	Σίτι	NOUN	NOUN	_	6	nmod	_	_
 8	με	με	ADP	ADP	_	9	case	_	_
@@ -59,15 +59,15 @@ The following 16 pairs of parts of speech are connected with `case`: [el-pos/NOU
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 case	color:blue
-1	Μία	ένας	PRON	PRON	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+1	Μία	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	τελευταία	τελευταίος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	λέξη	λέξη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	σχετικά	σχετικά	ADV	ADV	_	3	amod	_	_
 5	με	με	ADP	ADP	_	8	case	_	_
-6	τη	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	διακυβέρνηση	διακυβέρνηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
 8	και	και	CONJ	CONJ	_	7	cc	_	_
-9	τη	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	συναπόφαση	συναπόφαση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	_
 11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 

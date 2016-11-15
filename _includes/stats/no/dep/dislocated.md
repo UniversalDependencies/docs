@@ -30,7 +30,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: [no-po
 8	ikke	ikke	ADV	_	_	9	neg	_	_
 9	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 10	råd	råd	NOUN	_	Gender=Fem	9	dobj	_	_
-11	til	til	ADP	_	_	1	case	_	_
+11	til	til	ADP	_	_	1	case	_	SpaceAfter=No
 12	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: [no-po
 9	å	å	PART	_	_	10	mark	_	_
 10	drive	drive	VERB	_	VerbForm=Inf	7	advcl	_	_
 11	politisk	politisk	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	12	amod	_	_
-12	overvåking	overvåking	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	10	dobj	_	_
+12	overvåking	overvåking	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	10	dobj	_	SpaceAfter=No
 13	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -75,7 +75,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: [no-po
 8	å	å	PART	_	_	9	mark	_	_
 9	bo	bo	VERB	_	VerbForm=Inf	7	xcomp	_	_
 10	i	i	ADP	_	_	11	case	_	_
-11	Tafjord	Tafjord	PROPN	_	_	9	nmod	_	_
+11	Tafjord	Tafjord	PROPN	_	_	9	nmod	_	SpaceAfter=No
 12	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~

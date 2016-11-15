@@ -229,7 +229,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 17998 [cs-pos/DET]() tokens (65% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (16859; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (14995; 83%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (14612; 81%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (14612; 81%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (14010; 78%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (10624; 59%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (16859; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (14995; 83%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (14612; 81%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (14612; 81%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (14010; 78%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (10624; 59%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -276,7 +276,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 4759 [cs-pos/NUM]() tokens (11% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (4417; 93%), <tt><a href="NumType.html">NumType</a>=Card</tt> (4417; 93%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (4417; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (2795; 59%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (4417; 93%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (4417; 93%), <tt><a href="NumType.html">NumType</a>=Card</tt> (4417; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (2795; 59%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -285,7 +285,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 * `Masc` (1839; 39% of non-empty `Gender`): <em>dva, jeden, oba, jednoho</em>
 * `Masc,Neut` (613; 13% of non-empty `Gender`): <em>jednoho, jedním, jednom, jednomu</em>
 * `Neut` (178; 4% of non-empty `Gender`): <em>jedno</em>
-* `EMPTY` (36751): <em>1, 2, 3, tři, 4, 6, tisíc, 5, dvou, 1992</em>
+* `EMPTY` (36748): <em>1, 2, 3, tři, 4, 6, tisíc, 5, dvou, 1992</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -303,7 +303,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 3252 [cs-pos/AUX]() tokens (16% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (3252; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3252; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3252; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3252; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3252; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (2982; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (1704; 52%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (3252; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3252; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3252; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3252; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3252; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (2982; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (1704; 52%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -462,7 +462,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 15966 [cs-pos/VERB]() tokens (30% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (15966; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (15966; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (15931; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (15012; 94%), <tt><a href="Voice.html">Voice</a>=Act</tt> (11700; 73%), <tt><a href="Tense.html">Tense</a>=Past</tt> (11666; 73%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (15966; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (15966; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (15931; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (15012; 94%), <tt><a href="Voice.html">Voice</a>=Act</tt> (11700; 73%), <tt><a href="Tense.html">Tense</a>=Past</tt> (11666; 73%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -584,7 +584,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 1313 [cs-pos/AUX]() tokens (21% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1313; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1313; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1313; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1313; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1313; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1244; 95%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1313; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1313; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1313; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1313; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1313; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1244; 95%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -609,7 +609,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 1199 [cs-pos/NUM]() tokens (16% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (1139; 95%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1139; 95%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (1139; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (798; 67%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1139; 95%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (1139; 95%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (1139; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (798; 67%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -766,7 +766,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 354 [cs-pos/DET]() tokens (59% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (322; 91%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (322; 91%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (322; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (306; 86%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (301; 85%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (292; 82%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (322; 91%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (322; 91%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (322; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (306; 86%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (301; 85%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (292; 82%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -795,7 +795,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 51 [cs-pos/AUX]() tokens (30% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (51; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (51; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (51; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (51; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (51; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (41; 80%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (26; 51%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (51; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (51; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (51; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (51; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (51; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (41; 80%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (26; 51%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -850,8 +850,8 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (48; 72%),
 <tt>NOUN --[<a href="../dep/xcomp.html">xcomp</a>]--> ADJ</tt> (12; 92%),
 <tt>ADJ --[<a href="../dep/dobj.html">dobj</a>]--> PRON</tt> (7; 58%),
-<tt>ADJ --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (6; 100%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (6; 55%),
 <tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (6; 75%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (6; 55%),
+<tt>ADJ --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (6; 100%),
 <tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5; 83%).
 

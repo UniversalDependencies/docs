@@ -27,7 +27,7 @@ The most frequent other feature values with which `AUX` and `Polite[erg]` co-occ
 
 5 [eu-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Polite[erg]`.
 
-The most frequent other feature values with which `VERB` and `Polite[erg]` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (5; 100%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (5; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5; 100%), <tt><a href="Aspect.html">Aspect</a>=Prog</tt> (5; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `VERB` and `Polite[erg]` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (5; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5; 100%), <tt><a href="Aspect.html">Aspect</a>=Prog</tt> (5; 100%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (5; 100%).
 
 `VERB` tokens may have the following values of `Polite[erg]`:
 

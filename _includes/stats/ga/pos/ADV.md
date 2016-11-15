@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  <em>amach, anois, chomh, ansin, isteach, thar
 
 The 10 most frequent ambiguous lemmas: <em>isteach</em> ([ADV]() 22, [ADJ]() 1), <em>timpeall</em> ([ADV]() 6, [NOUN]() 4), <em>go_leor</em> ([NOUN]() 6, [ADV]() 2, [ADJ]() 2), <em>inné</em> ([ADV]() 1, [ADJ]() 1), <em>iontach</em> ([ADJ]() 6, [ADV]() 1), <em>láithreach</em> ([ADJ]() 3, [NOUN]() 1, [ADV]() 1), <em>réasúnta</em> ([ADJ]() 3, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>isteach</em> ([ADV]() 22, [ADJ]() 1), <em>timpeall</em> ([ADV]() 6, [NOUN]() 4), <em>go_leor</em> ([NOUN]() 6, [ADJ]() 2, [ADV]() 2), <em>inné</em> ([ADJ]() 1, [ADV]() 1), <em>iontach</em> ([ADJ]() 3, [ADV]() 1), <em>láithreach</em> ([ADJ]() 3, [NOUN]() 1, [ADV]() 1), <em>réasúnta</em> ([ADJ]() 2, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>isteach</em> ([ADV]() 22, [ADJ]() 1), <em>timpeall</em> ([ADV]() 6, [NOUN]() 4), <em>go_leor</em> ([NOUN]() 6, [ADV]() 2, [ADJ]() 2), <em>inné</em> ([ADV]() 1, [ADJ]() 1), <em>iontach</em> ([ADJ]() 3, [ADV]() 1), <em>láithreach</em> ([ADJ]() 3, [NOUN]() 1, [ADV]() 1), <em>réasúnta</em> ([ADJ]() 2, [ADV]() 1)
 
 
 * <em>isteach</em>
@@ -24,11 +24,11 @@ The 10 most frequent ambiguous types:  <em>isteach</em> ([ADV]() 22, [ADJ]() 1),
   * [NOUN]() 4: <em>Fuair an chathair a raibh sí ina cónaí inti - Anaconda- a hainm ón nathair nimhe a bhí flúirseach <b>timpeall</b> an cheantair sin .</em>
 * <em>go_leor</em>
   * [NOUN]() 6: <em>Bhí scaifte maith sa tábhairne seo anois , an ceann amháin i mBaile an Chaolais ach ar ndóigh <b>go_leor</b> óstáin .</em>
-  * [ADJ]() 2: <em>Ar ndóigh bhí an tír suaite <b>go_leor</b> i_rith an am seo go léir .</em>
   * [ADV]() 2: <em>Tá an éide scoile s' againne maith <b>go_leor</b> anseo i Scoil Naomh Pól .</em>
+  * [ADJ]() 2: <em>Ar ndóigh bhí an tír suaite <b>go_leor</b> i_rith an am seo go léir .</em>
 * <em>inné</em>
-  * [ADJ]() 1: <em>Bhíomar tinn <b>inné</b> .</em>
   * [ADV]() 1: <em>D' fhan sé ansin <b>inné</b> .</em>
+  * [ADJ]() 1: <em>Bhíomar tinn <b>inné</b> .</em>
 * <em>iontach</em>
   * [ADJ]() 3: <em>Splándíd : Nach <b>iontach</b> sin .</em>
   * [ADV]() 1: <em>M' anam go raibh sin <b>iontach</b> scáfar , ach ansin d' fhág tú sin agus chuaigh tú le sagartóireacht .</em>

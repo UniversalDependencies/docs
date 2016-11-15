@@ -52,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 5543 [hu-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (5065; 91%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (4453; 80%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4394; 79%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (3297; 59%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (3292; 59%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (3292; 59%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (5065; 91%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (4453; 80%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4394; 79%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (3297; 59%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (3292; 59%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (3292; 59%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -115,7 +115,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 1380 [hu-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (1322; 96%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (851; 62%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (850; 62%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (850; 62%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (1322; 96%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (851; 62%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (850; 62%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (850; 62%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -158,7 +158,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 1115 [hu-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1005; 90%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1003; 90%), <tt><a href="Number[psed].html">Number[psed]</a>=EMPTY</tt> (639; 57%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (635; 57%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (635; 57%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1005; 90%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1003; 90%), <tt><a href="Number[psed].html">Number[psed]</a>=EMPTY</tt> (639; 57%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (635; 57%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (635; 57%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -204,7 +204,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 38 [hu-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (38; 100%), <tt><a href="Person.html">Person</a>=3</tt> (38; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (38; 100%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (30; 79%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (29; 76%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (38; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (38; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (38; 100%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (30; 79%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (29; 76%).
 
 `AUX` tokens may have the following values of `Number`:
 

@@ -4,54 +4,57 @@
 
 ## Treebank Statistics (UD_Croatian)
 
-There are 27 `SCONJ` lemmas (0%), 27 `SCONJ` types (0%) and 1948 `SCONJ` tokens (2%).
-Out of 14 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 11 in number of tokens.
+There are 35 `SCONJ` lemmas (0%), 35 `SCONJ` types (0%) and 3200 `SCONJ` tokens (2%).
+Out of 15 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 11 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>kako, da, kao, dok, jer, ako, iako, nego, ukoliko, ali</em>
+The 10 most frequent `SCONJ` lemmas: <em>da, kako, kao, jer, dok, ako, iako, što, ukoliko, nego</em>
 
-The 10 most frequent `SCONJ` types:  <em>kako, da, kao, dok, jer, ako, iako, nego, ukoliko, ali</em>
+The 10 most frequent `SCONJ` types:  <em>da, kako, kao, jer, dok, ako, iako, što, ukoliko, nego</em>
 
-The 10 most frequent ambiguous lemmas: <em>kako</em> ([SCONJ]() 752, [ADV]() 85), <em>da</em> ([SCONJ]() 527, [PART]() 2, [X]() 1), <em>ako</em> ([SCONJ]() 48, [CONJ]() 10), <em>nego</em> ([SCONJ]() 34, [CONJ]() 4), <em>ali</em> ([CONJ]() 96, [SCONJ]() 24), <em>no</em> ([SCONJ]() 18, [CONJ]() 5), <em>kada</em> ([ADV]() 95, [SCONJ]() 17), <em>a</em> ([CONJ]() 196, [SCONJ]() 14), <em>što</em> ([PRON]() 295, [SCONJ]() 7, [PART]() 7), <em>nakon</em> ([ADP]() 178, [SCONJ]() 5)
+The 10 most frequent ambiguous lemmas: <em>da</em> ([SCONJ]() 1142, [PART]() 5, [X]() 1), <em>kako</em> ([SCONJ]() 873, [ADV]() 98, [PART]() 2, [CONJ]() 1), <em>ako</em> ([SCONJ]() 101, [CONJ]() 10), <em>što</em> ([PRON]() 487, [SCONJ]() 66, [PART]() 20), <em>nego</em> ([CONJ]() 55, [SCONJ]() 35), <em>ali</em> ([CONJ]() 211, [SCONJ]() 24), <em>nakon</em> ([ADP]() 259, [SCONJ]() 21), <em>no</em> ([CONJ]() 56, [SCONJ]() 19), <em>tako</em> ([ADV]() 76, [SCONJ]() 19, [PART]() 2), <em>kada</em> ([ADV]() 149, [SCONJ]() 17)
 
-The 10 most frequent ambiguous types:  <em>kako</em> ([SCONJ]() 747, [ADV]() 82), <em>da</em> ([SCONJ]() 521, [X]() 1, [PART]() 1), <em>ako</em> ([SCONJ]() 24, [CONJ]() 10), <em>nego</em> ([SCONJ]() 34, [CONJ]() 4), <em>ali</em> ([CONJ]() 93, [SCONJ]() 23), <em>no</em> ([SCONJ]() 17, [CONJ]() 4), <em>kada</em> ([ADV]() 80, [SCONJ]() 10), <em>a</em> ([CONJ]() 192, [SCONJ]() 14), <em>što</em> ([PRON]() 259, [SCONJ]() 7, [PART]() 6), <em>nakon</em> ([ADP]() 148, [SCONJ]() 5)
+The 10 most frequent ambiguous types:  <em>da</em> ([SCONJ]() 1130, [PART]() 2, [X]() 1), <em>kako</em> ([SCONJ]() 854, [ADV]() 90, [PART]() 2, [CONJ]() 1), <em>ako</em> ([SCONJ]() 61, [CONJ]() 10), <em>što</em> ([PRON]() 414, [SCONJ]() 66, [PART]() 19), <em>nego</em> ([CONJ]() 55, [SCONJ]() 35), <em>ali</em> ([CONJ]() 198, [SCONJ]() 23), <em>nakon</em> ([ADP]() 201, [SCONJ]() 17), <em>no</em> ([CONJ]() 31, [SCONJ]() 18), <em>tako</em> ([ADV]() 68, [SCONJ]() 19, [PART]() 2), <em>kada</em> ([ADV]() 129, [SCONJ]() 10)
 
 
-* <em>kako</em>
-  * [SCONJ]() 747: <em>Dužnosnici kažu <b>kako</b> film nije zabranjen , dok su građani podijeljeni .</em>
-  * [ADV]() 82: <em>Bytyci kaže <b>kako</b> bi jači sindikati doveli do boljih ishoda .</em>
 * <em>da</em>
-  * [SCONJ]() 521: <em>" Mislim <b>da</b> će to biti dovoljno " , kazao je .</em>
+  * [SCONJ]() 1130: <em>" Mislim <b>da</b> će to biti dovoljno " , kazao je .</em>
+  * [PART]() 2: <em>Naravno <b>da</b> mu nedostaje neki značajniji trofej .</em>
   * [X]() 1: <em>Na ovogodišnjem su festivalu među izvođačima bili i White Stripes , Underworld , Fatboy Slim , Ian Brown , Garbage , Slayer , Apocalyptica , te DJ-i poput Carla Coxa , Felixa <b>da</b> Housecata i bivšeg člana Underworlda Darrena Emersona .</em>
-  * [PART]() 1: <em>" Nikica može preživjeti jedući travu , ali ona je znatno veća ljubiteljica kruha , tako <b>da</b> će krenuti kući kada ogladni " , izjavio je Dragan Pejović , vlasnik odmarališta .</em>
+* <em>kako</em>
+  * [SCONJ]() 854: <em>Dužnosnici kažu <b>kako</b> film nije zabranjen , dok su građani podijeljeni .</em>
+  * [ADV]() 90: <em>Bytyci kaže <b>kako</b> bi jači sindikati doveli do boljih ishoda .</em>
+  * [PART]() 2: <em>Smrt Stevea Jobsa , vlasnika svjetski poznate kompanije Apple duboko je potresla <b>kako</b> svjetsku tako i hrvatsku javnost .</em>
+  * [CONJ]() 1: <em>Koristite češalj sa širokim zupcima <b>kako</b> biste ujednačeno nanijeli tretman na vlažnu kosu .</em>
 * <em>ako</em>
-  * [SCONJ]() 24: <em>Setimes : Što će se dogoditi <b>ako</b> ipak bude korišten veto ?</em>
+  * [SCONJ]() 61: <em>Setimes : Što će se dogoditi <b>ako</b> ipak bude korišten veto ?</em>
   * [CONJ]() 10: <em>Takva suradnja nemoguća je <b>ako</b> tužitelji i dužnosnici kriminalističkih službi nisu u stanju pružiti odgovarajuću zaštitu .</em>
-* <em>nego</em>
-  * [SCONJ]() 34: <em>Stvarni rok je prije <b>nego</b> što Komisija predstavi svoje preporuke " .</em>
-  * [CONJ]() 4: <em>" On nikada nije favorizirao jedan narod , <b>nego</b> se borio za državu , za BiH .</em>
-* <em>ali</em>
-  * [CONJ]() 93: <em>" Nikica ga je odbila od samog starta , <b>ali</b> je on bio uporan " .</em>
-  * [SCONJ]() 23: <em>Ekonomisti kažu kako je to pozitivan potez , <b>ali</b> zaposlenici nisu baš sigurni .</em>
-* <em>no</em>
-  * [SCONJ]() 17: <em>" Ona voli blato više <b>no</b> sam život "</em>
-  * [CONJ]() 4: <em>To za nas nije bila jednostavna odluka , <b>no</b> mislimo kako smo ispravno odlučili .</em>
-* <em>kada</em>
-  * [ADV]() 80: <em>Međutim , <b>kada</b> je vlada dobila zahtjev na razmatranje , odbila ga je .</em>
-  * [SCONJ]() 10: <em>Međutim , od prošlog mjeseca to se promijenilo , <b>kada</b> je brod kupio grad Rijeka .</em>
-* <em>a</em>
-  * [CONJ]() 192: <em>" Ipak , na popisu je skoro 40 kandidata , <b>a</b> većina ih je novih .</em>
-  * [SCONJ]() 14: <em>Obje stranke odbacile su ideju , <b>a</b> kampanja je do sada bila oštra .</em>
 * <em>što</em>
-  * [PRON]() 259: <em>Jedini problem , kažu kritičari , jest <b>što</b> on nije originalan .</em>
-  * [SCONJ]() 7: <em>Republika Srbija je nastala kao samostalna država 2006. nakon <b>što</b> su građani Crne Gore na referendumu odlučili napustiti državnu zajednicu Srbiju i Crnu Goru .</em>
-  * [PART]() 6: <em>Bogdanović je izgred nazvao " terorističkim činom " , koji bi " trebao biti razotkriven <b>što</b> prije " .</em>
+  * [PRON]() 414: <em>Jedini problem , kažu kritičari , jest <b>što</b> on nije originalan .</em>
+  * [SCONJ]() 66: <em>Kao <b>što</b> je netko rekao : grabi s police dok ih nisu tužili .</em>
+  * [PART]() 19: <em>Bogdanović je izgred nazvao " terorističkim činom " , koji bi " trebao biti razotkriven <b>što</b> prije " .</em>
+* <em>nego</em>
+  * [CONJ]() 55: <em>Ne zbog EU , <b>nego</b> zbog građana Hrvatske .</em>
+  * [SCONJ]() 35: <em>Stvarni rok je prije <b>nego</b> što Komisija predstavi svoje preporuke " .</em>
+* <em>ali</em>
+  * [CONJ]() 198: <em>Na izložbi je i rad mog starijeg sina , <b>ali</b> to nisam slikala .</em>
+  * [SCONJ]() 23: <em>Ekonomisti kažu kako je to pozitivan potez , <b>ali</b> zaposlenici nisu baš sigurni .</em>
 * <em>nakon</em>
-  * [ADP]() 148: <em>Ubrzo <b>nakon</b> toga im se pridružio i basista Mišo Hrnjak .</em>
-  * [SCONJ]() 5: <em>Republika Srbija je nastala kao samostalna država 2006. <b>nakon</b> što su građani Crne Gore na referendumu odlučili napustiti državnu zajednicu Srbiju i Crnu Goru .</em>
+  * [ADP]() 201: <em>Ubrzo <b>nakon</b> toga im se pridružio i basista Mišo Hrnjak .</em>
+  * [SCONJ]() 17: <em>Venezuelanska vlada objavila je prvu fotografiju Huga Chaveza <b>nakon</b> što je ovaj 11. prosinca otišao u Havanu na operaciju tumora .</em>
+* <em>no</em>
+  * [CONJ]() 31: <em>I Francuzi su se srčano borili , <b>no</b> ovo je bio naš dan .</em>
+  * [SCONJ]() 18: <em>" Ona voli blato više <b>no</b> sam život "</em>
+* <em>tako</em>
+  * [ADV]() 68: <em>Isto <b>tako</b> to su pojedinci koji energiju crpe iz svih životnih situacija .</em>
+  * [SCONJ]() 19: <em>Ozdravlja ga <b>tako</b> da ga čisti od njegove bolesti .</em>
+  * [PART]() 2: <em>Smrt Stevea Jobsa , vlasnika svjetski poznate kompanije Apple duboko je potresla kako svjetsku <b>tako</b> i hrvatsku javnost .</em>
+* <em>kada</em>
+  * [ADV]() 129: <em>Međutim , <b>kada</b> je vlada dobila zahtjev na razmatranje , odbila ga je .</em>
+  * [SCONJ]() 10: <em>Međutim , od prošlog mjeseca to se promijenilo , <b>kada</b> je brod kupio grad Rijeka .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.870216).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.779790).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -64,19 +67,21 @@ The 3rd highest number of forms (1) was observed with the lemma “ali”: <em>a
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 9 different relations: [hr-dep/mark]() (1497; 77% instances), [hr-dep/case]() (175; 9% instances), [hr-dep/cc]() (157; 8% instances), [hr-dep/mwe]() (58; 3% instances), [hr-dep/discourse]() (34; 2% instances), [hr-dep/compound]() (18; 1% instances), [hr-dep/advmod]() (6; 0% instances), [hr-dep/punct]() (2; 0% instances), [hr-dep/expl]() (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 16 different relations: [hr-dep/mark]() (2457; 77% instances), [hr-dep/case]() (285; 9% instances), [hr-dep/cc]() (202; 6% instances), [hr-dep/mwe]() (137; 4% instances), [hr-dep/compound]() (52; 2% instances), [hr-dep/discourse]() (39; 1% instances), [hr-dep/advmod]() (17; 1% instances), [hr-dep/punct]() (2; 0% instances), [hr-dep/root]() (2; 0% instances), [hr-dep/advcl]() (1; 0% instances), [hr-dep/ccomp]() (1; 0% instances), [hr-dep/conj]() (1; 0% instances), [hr-dep/dep]() (1; 0% instances), [hr-dep/expl]() (1; 0% instances), [hr-dep/list]() (1; 0% instances), [hr-dep/nsubj]() (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: [VERB]() (1182; 61% instances), [NOUN]() (340; 17% instances), [ADJ]() (256; 13% instances), [ADV]() (55; 3% instances), [CONJ]() (30; 2% instances), [AUX]() (23; 1% instances), [ADP]() (21; 1% instances), [PROPN]() (13; 1% instances), [SCONJ]() (12; 1% instances), [PRON]() (10; 1% instances), [NUM]() (2; 0% instances), [PART]() (2; 0% instances), [X]() (2; 0% instances)
+Parents of `SCONJ` nodes belong to 15 different parts of speech: [VERB]() (1922; 60% instances), [NOUN]() (527; 16% instances), [ADJ]() (388; 12% instances), [SCONJ]() (100; 3% instances), [ADV]() (72; 2% instances), [AUX]() (65; 2% instances), [CONJ]() (42; 1% instances), [ADP]() (27; 1% instances), [PROPN]() (22; 1% instances), [PRON]() (21; 1% instances), [PART]() (6; 0% instances), [NUM]() (3; 0% instances), [ROOT]() (2; 0% instances), [X]() (2; 0% instances), [PUNCT]() (1; 0% instances)
 
-1851 (95%) `SCONJ` nodes are leaves.
+2969 (93%) `SCONJ` nodes are leaves.
 
-92 (5%) `SCONJ` nodes have one child.
+219 (7%) `SCONJ` nodes have one child.
 
-5 (0%) `SCONJ` nodes have two children.
+10 (0%) `SCONJ` nodes have two children.
 
-The highest child degree of a `SCONJ` node is 2.
+2 (0%) `SCONJ` nodes have three or more children.
 
-Children of `SCONJ` nodes are attached using 8 different relations: [hr-dep/mwe]() (64; 63% instances), [hr-dep/compound]() (19; 19% instances), [hr-dep/discourse]() (10; 10% instances), [hr-dep/advmod]() (4; 4% instances), [hr-dep/punct]() (2; 2% instances), [hr-dep/conj]() (1; 1% instances), [hr-dep/det]() (1; 1% instances), [hr-dep/mark]() (1; 1% instances)
+The highest child degree of a `SCONJ` node is 7.
 
-Children of `SCONJ` nodes belong to 8 different parts of speech: [CONJ]() (36; 35% instances), [PRON]() (35; 34% instances), [SCONJ]() (12; 12% instances), [ADV]() (8; 8% instances), [PART]() (4; 4% instances), [ADP]() (3; 3% instances), [NOUN]() (2; 2% instances), [PUNCT]() (2; 2% instances)
+Children of `SCONJ` nodes are attached using 17 different relations: [hr-dep/mwe]() (140; 56% instances), [hr-dep/compound]() (64; 26% instances), [hr-dep/discourse]() (19; 8% instances), [hr-dep/advmod]() (6; 2% instances), [hr-dep/punct]() (6; 2% instances), [hr-dep/cc]() (2; 1% instances), [hr-dep/conj]() (2; 1% instances), [hr-dep/advcl]() (1; 0% instances), [hr-dep/appos]() (1; 0% instances), [hr-dep/aux]() (1; 0% instances), [hr-dep/ccomp]() (1; 0% instances), [hr-dep/dep]() (1; 0% instances), [hr-dep/det]() (1; 0% instances), [hr-dep/dislocated]() (1; 0% instances), [hr-dep/mark]() (1; 0% instances), [hr-dep/nmod]() (1; 0% instances), [hr-dep/xcomp]() (1; 0% instances)
+
+Children of `SCONJ` nodes belong to 9 different parts of speech: [SCONJ]() (100; 40% instances), [CONJ]() (72; 29% instances), [PRON]() (37; 15% instances), [ADV]() (13; 5% instances), [PART]() (7; 3% instances), [PUNCT]() (7; 3% instances), [ADP]() (5; 2% instances), [NOUN]() (4; 2% instances), [VERB]() (4; 2% instances)
 

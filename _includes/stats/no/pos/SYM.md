@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 0.916667 (the average of all parts of speech is 1.382722).
+The form / lemma ratio of `SYM` is 0.916667 (the average of all parts of speech is 1.382778).
 
 The 1st highest number of forms (1) was observed with the lemma “$/”: <em>/</em>.
 
@@ -38,15 +38,15 @@ Parents of `SYM` nodes belong to 8 different parts of speech: [NOUN]() (35; 43% 
 
 74 (91%) `SYM` nodes are leaves.
 
-0 (0%) `SYM` nodes have one child.
+4 (5%) `SYM` nodes have one child.
 
-4 (5%) `SYM` nodes have two children.
+0 (0%) `SYM` nodes have two children.
 
 3 (4%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 5.
 
-Children of `SYM` nodes are attached using 5 different relations: [no-dep/cc]() (4; 21% instances), [no-dep/conj]() (4; 21% instances), [no-dep/parataxis]() (4; 21% instances), [no-dep/punct]() (4; 21% instances), [no-dep/case]() (3; 16% instances)
+Children of `SYM` nodes are attached using 4 different relations: [no-dep/cc]() (4; 27% instances), [no-dep/conj]() (4; 27% instances), [no-dep/parataxis]() (4; 27% instances), [no-dep/case]() (3; 20% instances)
 
-Children of `SYM` nodes belong to 5 different parts of speech: [CONJ]() (4; 21% instances), [PROPN]() (4; 21% instances), [PUNCT]() (4; 21% instances), [SYM]() (4; 21% instances), [ADP]() (3; 16% instances)
+Children of `SYM` nodes belong to 4 different parts of speech: [CONJ]() (4; 27% instances), [PROPN]() (4; 27% instances), [SYM]() (4; 27% instances), [ADP]() (3; 20% instances)
 

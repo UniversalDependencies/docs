@@ -4,7 +4,7 @@
 
 ## Treebank Statistics (UD_Turkish)
 
-There are 203 `ADV` lemmas (3%), 205 `ADV` types (1%) and 2177 `ADV` tokens (4%).
+There are 203 `ADV` lemmas (3%), 205 `ADV` types (1%) and 2178 `ADV` tokens (4%).
 Out of 14 observed tags, the rank of `ADV` is: 5 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>daha, çok, en, hiç, şimdi, nasıl, sonra, artık, bile, böyle</em>
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>çok</em> ([ADV]() 120, [ADJ]() 42, [
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.009852 (the average of all parts of speech is 2.818565).
+The form / lemma ratio of `ADV` is 1.009852 (the average of all parts of speech is 2.815350).
 
 The 1st highest number of forms (2) was observed with the lemma “ilk”: <em>ilk, İlk</em>.
 
@@ -63,11 +63,11 @@ The 3rd highest number of forms (1) was observed with the lemma “acaba”: <em
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 4 different relations: [tr-dep/advmod]() (1888; 87% instances), [tr-dep/advmod:emph]() (114; 5% instances), [tr-dep/conj]() (111; 5% instances), [tr-dep/root]() (64; 3% instances)
+`ADV` nodes are attached to their parents using 4 different relations: [tr-dep/advmod]() (1889; 87% instances), [tr-dep/advmod:emph]() (114; 5% instances), [tr-dep/conj]() (111; 5% instances), [tr-dep/root]() (64; 3% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: [VERB]() (1275; 59% instances), [ADJ]() (357; 16% instances), [NOUN]() (270; 12% instances), [ADV]() (120; 6% instances), [ROOT]() (64; 3% instances), [PRON]() (27; 1% instances), [CONJ]() (20; 1% instances), [NUM]() (13; 1% instances), [PUNCT]() (12; 1% instances), [PROPN]() (10; 0% instances), [DET]() (6; 0% instances), [ADP]() (3; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: [VERB]() (1275; 59% instances), [ADJ]() (357; 16% instances), [NOUN]() (271; 12% instances), [ADV]() (120; 6% instances), [ROOT]() (64; 3% instances), [PRON]() (27; 1% instances), [CONJ]() (20; 1% instances), [NUM]() (13; 1% instances), [PUNCT]() (12; 1% instances), [PROPN]() (10; 0% instances), [DET]() (6; 0% instances), [ADP]() (3; 0% instances)
 
-1729 (79%) `ADV` nodes are leaves.
+1730 (79%) `ADV` nodes are leaves.
 
 327 (15%) `ADV` nodes have one child.
 

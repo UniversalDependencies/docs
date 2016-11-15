@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-380 nodes (2%) are attached to their parents as `name`.
+399 nodes (2%) are attached to their parents as `name`.
 
-380 instances of `name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21578947368421.
+399 instances of `name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22305764411028.
 
-The following 16 pairs of parts of speech are connected with `name`: [lv-pos/PROPN]()-[lv-pos/PROPN]() (224; 59% instances), [lv-pos/X]()-[lv-pos/X]() (52; 14% instances), [lv-pos/SYM]()-[lv-pos/SYM]() (40; 11% instances), [lv-pos/PROPN]()-[lv-pos/X]() (21; 6% instances), [lv-pos/SYM]()-[lv-pos/PROPN]() (13; 3% instances), [lv-pos/SYM]()-[lv-pos/X]() (11; 3% instances), [lv-pos/X]()-[lv-pos/PROPN]() (4; 1% instances), [lv-pos/NUM]()-[lv-pos/SYM]() (3; 1% instances), [lv-pos/PROPN]()-[lv-pos/NOUN]() (2; 1% instances), [lv-pos/PROPN]()-[lv-pos/SYM]() (2; 1% instances), [lv-pos/X]()-[lv-pos/ADJ]() (2; 1% instances), [lv-pos/X]()-[lv-pos/NUM]() (2; 1% instances), [lv-pos/PROPN]()-[lv-pos/ADJ]() (1; 0% instances), [lv-pos/SYM]()-[lv-pos/NOUN]() (1; 0% instances), [lv-pos/SYM]()-[lv-pos/NUM]() (1; 0% instances), [lv-pos/X]()-[lv-pos/SYM]() (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `name`: [lv-pos/PROPN]()-[lv-pos/PROPN]() (233; 58% instances), [lv-pos/X]()-[lv-pos/X]() (54; 14% instances), [lv-pos/SYM]()-[lv-pos/SYM]() (40; 10% instances), [lv-pos/PROPN]()-[lv-pos/X]() (21; 5% instances), [lv-pos/SYM]()-[lv-pos/PROPN]() (16; 4% instances), [lv-pos/SYM]()-[lv-pos/X]() (11; 3% instances), [lv-pos/X]()-[lv-pos/PROPN]() (4; 1% instances), [lv-pos/NUM]()-[lv-pos/SYM]() (3; 1% instances), [lv-pos/NOUN]()-[lv-pos/PROPN]() (2; 1% instances), [lv-pos/PROPN]()-[lv-pos/NOUN]() (2; 1% instances), [lv-pos/PROPN]()-[lv-pos/SYM]() (2; 1% instances), [lv-pos/X]()-[lv-pos/ADJ]() (2; 1% instances), [lv-pos/X]()-[lv-pos/NUM]() (2; 1% instances), [lv-pos/X]()-[lv-pos/PUNCT]() (2; 1% instances), [lv-pos/NOUN]()-[lv-pos/X]() (1; 0% instances), [lv-pos/PROPN]()-[lv-pos/ADJ]() (1; 0% instances), [lv-pos/SYM]()-[lv-pos/NOUN]() (1; 0% instances), [lv-pos/SYM]()-[lv-pos/NUM]() (1; 0% instances), [lv-pos/X]()-[lv-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,16 +20,17 @@ The following 16 pairs of parts of speech are connected with `name`: [lv-pos/PRO
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 name	color:blue
-1	Ģirts	Ģirts	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	_
+1	Ģirts	Ģirts	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	_
 2	Kuplais	Kuplais	PROPN	npmsn2	Case=Nom|Gender=Masc|Number=Sing	1	name	_	SpaceAfter=No
 3	:	:	PUNCT	zo	_	1	punct	_	_
-4	Degviela	degviela	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
-5	pašlaik	pašlaik	ADV	r0t	_	6	advmod	_	_
-6	maksā	maksāt	VERB	vmnipt230an	Mood=Ind|Negative=Neg|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-7	gandrīz	gandrīz	ADV	r0q	_	8	advmod	_	_
-8	latu	lats	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	6	dobj	_	_
-9	litrā	litrs	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	8	acl	_	SpaceAfter=No
-10	.	.	PUNCT	zs	_	6	punct	_	_
+4	Es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	domāju	domāt	VERB	vmnipt21san	Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	zc	_	9	punct	_	_
+7	ka	ka	SCONJ	css	_	9	mark	_	_
+8	vismaz	vismaz	ADV	r0q	_	9	advmod	_	_
+9	pusmiljonu	pusmiljons	NOUN	ncmpa1	Case=Acc|Gender=Masc|Number=Plur	5	iobj	_	_
+10	latu	lats	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	zs	_	5	punct	_	_
 
 ~~~
 

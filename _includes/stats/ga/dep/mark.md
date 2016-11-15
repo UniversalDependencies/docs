@@ -50,25 +50,27 @@ The following 29 pairs of parts of speech are connected with `mark`: [ga-pos/NOU
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 mark	color:blue
-1	Bhain	Bain	PROPN	Noun	Case=Gen|Form=Len|Gender=Masc|Number=Sing	0	root	_	_
-2	sin	sin	PRON	Dem	PronType=Dem	1	nsubj	_	_
-3	preab	preab	NOUN	Noun	Case=Com|Gender=Fem|Number=Sing	1	dobj	_	_
-4	asainn	as	ADP	Prep	Number=Plur|Person=1	1	nmod:prep	_	_
-5	agus	agus	SCONJ	Subord	_	7	mark	_	_
-6	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
-7	bheirt	beirt	NOUN	Noun	Case=Com|Form=Len|Gender=Fem|Number=Sing	1	advcl	_	_
-8	againn	ag	ADP	Prep	Number=Plur|Person=1	7	compound	_	_
-9	i	i	ADP	Simp	_	10	case	_	_
-10	ndíg	díog	NOUN	Noun	Case=Dat|Form=Ecl|Gender=Fem|Number=Sing	7	nmod	_	_
-11	ag	ag	ADP	Simp	_	12	case	_	_
-12	faire	faire	NOUN	Noun	VerbForm=Inf	7	xcomp	_	_
-13	air	ar	ADP	Prep	Gender=Masc|Number=Sing|Person=3	12	nmod:prep	_	_
-14	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 mark	color:blue
+1	'	'	PUNCT	Punct	_	2	punct	_	_
+2	Athraíonn	athraigh	VERB	VTI	Mood=Ind|Tense=Pres	0	root	_	_
+3	sí	sí	PRON	Pers	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
+4	a	a	DET	Det	Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
+5	haigne	aigne	NOUN	Noun	Case=Com|Form=HPref|Gender=Fem|Number=Sing	2	dobj	_	_
+6	ansin	ansin	ADV	Loc	_	2	advmod	_	_
+7	chomh	chomh	ADV	Its	_	8	advmod	_	_
+8	luath	luath	ADJ	Adj	Degree=Pos	2	amod	_	_
+9	is	agus	CONJ	Coord	_	11	mark	_	_
+10	a	a	PART	Vb	PartType=Vb|PronType=Rel	11	mark:prt	_	_
+11	chastar	cas	VERB	VTI	Form=Len|Mood=Ind|Tense=Pres|Voice=Auto	2	advcl	_	_
+12	ar	ar	ADP	Simp	_	14	case	_	_
+13	a	a	DET	Det	Number=Plur|Person=3|Poss=Yes	14	nmod:poss	_	_
+14	chéile	céile	NOUN	Noun	Case=Com|Form=Len|Gender=Masc|Number=Sing	11	nmod	_	_
+15	iad	iad	PRON	Pers	Number=Plur|Person=3	11	dobj	_	_
+16	!	!	PUNCT	!	_	2	punct	_	_
 
 ~~~
 

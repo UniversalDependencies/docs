@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-462 nodes (0%) are attached to their parents as `iobj`.
+460 nodes (0%) are attached to their parents as `iobj`.
 
-462 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17532467532468.
+460 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16086956521739.
 
-The following 6 pairs of parts of speech are connected with `iobj`: [en-pos/VERB]()-[en-pos/PRON]() (386; 84% instances), [en-pos/VERB]()-[en-pos/NOUN]() (49; 11% instances), [en-pos/VERB]()-[en-pos/PROPN]() (24; 5% instances), [en-pos/VERB]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: [en-pos/VERB]()-[en-pos/PRON]() (389; 85% instances), [en-pos/VERB]()-[en-pos/NOUN]() (46; 10% instances), [en-pos/VERB]()-[en-pos/PROPN]() (22; 5% instances), [en-pos/VERB]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -89,7 +89,7 @@ This relation is universal.
 204 instances of `iobj` (99%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.07729468599034.
 
-The following 4 pairs of parts of speech are connected with `iobj`: [en-pos/VERB]()-[en-pos/PRON]() (188; 91% instances), [en-pos/VERB]()-[en-pos/NOUN]() (16; 8% instances), [en-pos/VERB]()-[en-pos/PROPN]() (2; 1% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: [en-pos/VERB]()-[en-pos/PRON]() (190; 92% instances), [en-pos/VERB]()-[en-pos/NOUN]() (14; 7% instances), [en-pos/VERB]()-[en-pos/PROPN]() (2; 1% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -119,11 +119,11 @@ The following 4 pairs of parts of speech are connected with `iobj`: [en-pos/VERB
 19	_	_	AUX	VBP	_	21	aux	_	_
 20	_	_	PRON	PRP	_	21	nsubj	_	_
 21	_	_	VERB	VB	_	6	parataxis	_	_
-22	_	_	NOUN	NN	_	23	nsubj	_	_
+22	_	_	PRON	NN	_	23	nsubj	_	_
 23	_	_	VERB	VBP	_	21	ccomp	_	_
 24	_	_	PRON	PRP	_	23	iobj	_	_
 25	_	_	ADP	RP	_	23	compound:prt	_	_
-26	_	_	NOUN	NN	_	23	dobj	_	_
+26	_	_	PRON	NN	_	23	dobj	_	_
 27	_	_	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -178,7 +178,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: [en-pos/VERB
 6	_	_	VERB	VBD	_	3	acl:relcl	_	_
 7	_	_	PART	TO	_	8	mark	_	_
 8	_	_	VERB	VB	_	6	xcomp	_	_
-9	_	_	NOUN	NN	_	8	dobj	_	_
+9	_	_	PRON	NN	_	8	dobj	_	_
 10	_	_	PRON	PRP	_	11	nsubj	_	_
 11	_	_	VERB	VBD	_	0	root	_	_
 12	_	_	PRON	PRP	_	14	expl	_	_

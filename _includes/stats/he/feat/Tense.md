@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [he-pos/VERB]() (7804; 5% instan
 
 7804 [he-pos/VERB]() tokens (49% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (7804; 100%), <tt><a href="Person.html">Person</a>=3</tt> (7429; 95%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (6802; 87%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (6802; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (5517; 71%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (7804; 100%), <tt><a href="Person.html">Person</a>=3</tt> (7429; 95%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (6802; 87%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (6802; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (5517; 71%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 106 [he-pos/AUX]() tokens (13% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbType.html">VerbType</a>=Mod</tt> (106; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (106; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (89; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (89; 84%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (61; 58%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (106; 100%), <tt><a href="VerbType.html">VerbType</a>=Mod</tt> (106; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (89; 84%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (89; 84%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (61; 58%).
 
 `AUX` tokens may have the following values of `Tense`:
 

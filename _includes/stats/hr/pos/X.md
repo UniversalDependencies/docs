@@ -4,25 +4,36 @@
 
 ## Treebank Statistics (UD_Croatian)
 
-There are 165 `X` lemmas (2%), 169 `X` types (1%) and 253 `X` tokens (0%).
-Out of 14 observed tags, the rank of `X` is: 7 in number of lemmas, 8 in number of types and 14 in number of tokens.
+There are 165 `X` lemmas (1%), 169 `X` types (1%) and 253 `X` tokens (0%).
+Out of 15 observed tags, the rank of `X` is: 8 in number of lemmas, 9 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>de, A1, European, SETimes, Southeast, Times, bin, freedom, house, world</em>
 
 The 10 most frequent `X` types:  <em>de, A1, European, Southeast, bin, Freedom, SETimes, Times, world, Press</em>
 
-The 10 most frequent ambiguous lemmas: <em>SETimes</em> ([PROPN]() 104, [X]() 6), <em>Times</em> ([X]() 6, [PROPN]() 2), <em>International</em> ([X]() 4, [PROPN]() 1), <em>DUI</em> ([PROPN]() 3, [X]() 2), <em>New</em> ([X]() 2, [PROPN]() 1), <em>Stripes</em> ([X]() 2, [PROPN]() 1), <em>Vision</em> ([X]() 2, [PROPN]() 1), <em>White</em> ([X]() 2, [PROPN]() 1), <em>rock</em> ([X]() 2, [ADJ]() 1), <em>AKP</em> ([PROPN]() 9, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>SETimes</em> ([PROPN]() 104, [X]() 6), <em>Times</em> ([X]() 6, [PROPN]() 2), <em>house</em> ([X]() 2, [ADJ]() 1), <em>International</em> ([X]() 4, [PROPN]() 1), <em>gay</em> ([X]() 4, [ADJ]() 1), <em>the</em> ([ADP]() 5, [X]() 2), <em>DUI</em> ([PROPN]() 3, [X]() 2), <em>New</em> ([X]() 2, [PROPN]() 1), <em>Stripes</em> ([X]() 2, [PROPN]() 1), <em>Vision</em> ([X]() 2, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>SETimes</em> ([PROPN]() 102, [X]() 5), <em>International</em> ([X]() 2, [PROPN]() 1), <em>New</em> ([X]() 2, [PROPN]() 1), <em>Stripes</em> ([X]() 2, [PROPN]() 1), <em>Vision</em> ([X]() 2, [PROPN]() 1), <em>White</em> ([X]() 2, [PROPN]() 1), <em>rock</em> ([X]() 2, [ADJ]() 1), <em>AKP</em> ([PROPN]() 7, [X]() 1), <em>Anadolu</em> ([X]() 1, [PROPN]() 1), <em>Bush</em> ([PROPN]() 7, [X]() 1)
+The 10 most frequent ambiguous types:  <em>European</em> ([X]() 6, [ADP]() 1), <em>SETimes</em> ([PROPN]() 102, [X]() 5), <em>gay</em> ([X]() 4, [ADJ]() 1), <em>the</em> ([X]() 1, [ADP]() 1), <em>International</em> ([X]() 2, [ADP]() 1, [PROPN]() 1), <em>New</em> ([ADP]() 3, [X]() 2, [PROPN]() 1), <em>Stripes</em> ([X]() 2, [PROPN]() 1), <em>Vision</em> ([X]() 2, [PROPN]() 1), <em>White</em> ([X]() 2, [PROPN]() 1), <em>of</em> ([ADP]() 2, [X]() 2)
 
 
+* <em>European</em>
+  * [X]() 6: <em>Suradnica Southeast <b>European</b> Timesa Alina Bandila iz Bukurešta pridonijela je ovom članku .</em>
+  * [ADP]() 1: <em>Paul Hoglund . - 2004. godine nastaje još jedna europska jujitsu asocijacija koja postala altrenativa EJJU-u i JJIF-u , a to je EBC ( <b>European</b> Budo Council ) koja već ostavlja dubok trag u Europi i koja se širi nezaustavljivo , a ponajviše iz razloga što se ne bazira na komercijalnom pristupu već na širenju izvornih principa buda .</em>
 * <em>SETimes</em>
   * [PROPN]() 102: <em>Nema puno takvih nevladinih udruga " , izjavio je Puhalo za <b>SETimes</b> .</em>
   * [X]() 5: <em><b>SETimes</b> : Jeste li kontaktirali vlasti u Tirani ?</em>
+* <em>gay</em>
+  * [X]() 4: <em>Ultranacionalističke skupine Obraz i Srpski narodni pokret 1389 protivile su se <b>gay</b> paradi .</em>
+  * [ADJ]() 1: <em>Oxford Street se još 60 - ih počela razvijati kao queer četvrt , a danas je najvidljivije <b>gay</b> naselje u gradu .</em>
+* <em>the</em>
+  * [X]() 1: <em>Organizatori su planirali minutu šutnje za žrtve masakra u Srebrenici , nakon čega bi uslijedila pjesma Annie Lennox " I Saved <b>the</b> World Today " ( Danas sam spasila svijet ) i službena izjava .</em>
+  * [ADP]() 1: <em>Nakon trogodišnjega eksperimentiranja , 1972. se godine pojavio u liku androginog alter ega Ziggyja Stardusta s albumom " The Rise and Fall of Ziggy Stardust and <b>the</b> Spiders from Mars " .</em>
 * <em>International</em>
   * [X]() 2: <em>U izvješću <b>International</b> Herald Tribuna u nedjelju citirana je izjava premijera Agima Čekua da očekuje kako će Kosovo biti u mogućnosti proglasiti neovisnost " do konca svibnja " .</em>
+  * [ADP]() 1: <em>Želeći još više promovirati ulogu visokog obrazovanja i znanosti u Dubrovniku u duhu potpisane Povelje DISEC ( Dubrovnik <b>International</b> Science and Education Centre ) , Veleučilište je još u siječnju 2001. godine izradilo Teze za raspravu o osnivanju Sveučilišta u Dubrovniku .</em>
   * [PROPN]() 1: <em>Jedan od njih , njemački Bavaria Film <b>International</b> već je ušao u igru kao potencijalni distributer .</em>
 * <em>New</em>
+  * [ADP]() 3: <em>Kako brojni brendovi ističu zemlju porijekla uz svoje ime , poput Loreala Paris i Done Karan <b>New</b> York , ovaj trend prati i YSL , koji će iz svog naziva izbaciti Yves , a dodati Paris .</em>
   * [X]() 2: <em>Pobijedio je projekt Bernarda Tschumija , arhitekta rođenog u Švicarskoj , koji danas radi u <b>New</b> Yorku .</em>
   * [PROPN]() 1: <em>" " Mi smo Christina i Seth iz <b>New</b> York Cityja .</em>
 * <em>Stripes</em>
@@ -34,22 +45,13 @@ The 10 most frequent ambiguous types:  <em>SETimes</em> ([PROPN]() 102, [X]() 5)
 * <em>White</em>
   * [X]() 2: <em><b>White</b> Stripes je bio jedan od sastava koji su nastupali na EXIT-u .</em>
   * [PROPN]() 1: <em>Ovogodišnji glazbeni festival EXIT , najveći na Balkanu , ugostio je 150.000 posjetitelja i međunarodnih glazbenika , uključujući <b>White</b> Stripes , Garbage , Iana Browna i Underworld .</em>
-* <em>rock</em>
-  * [X]() 2: <em>Operu će izvesti <b>rock</b> sastav No Smoking Orchestra -- u kojem Kusturica svira bas gitaru .</em>
-  * [ADJ]() 1: <em>U djelu YU 100 : najbolji albumi jugoslavenske <b>rock</b> i pop glazbe uvršteno je čak 5 Azrinih albuma , od kojih su 3 među prvih deset .</em>
-* <em>AKP</em>
-  * [PROPN]() 7: <em><b>AKP</b> opisuje sebe kao konzervativnu demokratsku stranku .</em>
-  * [X]() 1: <em>Paket od 10 točaka predložila je vlada predvođena Strankom pravde i razvitka ( <b>AKP</b> ) , a poduprle su ga oporbene Republikanska narodna stranka ( CHP ) i Stranka pravoga puta ( DYP ) .</em>
-* <em>Anadolu</em>
-  * [X]() 1: <em>Skupina turskih znanstvenika otkrila je vrstu planinske gazele koja nikad do sad nije bila viđena u Turskoj , izvijestila je 6. ožujka tiskovna <b>Anadolu</b> .</em>
-  * [PROPN]() 1: <em>Istanbul , u Turskoj , bit će 13. i 14. lipnja domaćin četvrtog Međunarodnog kongresa o NLO-ima i Novom dobu , izvijestila je u srijedu ( 3. lipnja ) tiskovna agencija <b>Anadolu</b> .</em>
-* <em>Bush</em>
-  * [PROPN]() 7: <em>" Kao europska sila Turska pripada Uniji " , kazao je <b>Bush</b> .</em>
-  * [X]() 1: <em>Govoreći u Zagrebu , <b>Bush</b> je izrazio žaljenje zbog toga što Makedonija nije dobila pozivnicu za članstvo u NATO-u .</em>
+* <em>of</em>
+  * [ADP]() 2: <em>Nakon trogodišnjega eksperimentiranja , 1972. se godine pojavio u liku androginog alter ega Ziggyja Stardusta s albumom " The Rise and Fall <b>of</b> Ziggy Stardust and the Spiders from Mars " .</em>
+  * [X]() 2: <em>Bivši dopisnik Voice <b>of</b> America i Radio Free Europe , novinar Mero Baze , sebe vidi žrtvom ove prijetnje .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.024242 (the average of all parts of speech is 1.870216).
+The form / lemma ratio of `X` is 1.024242 (the average of all parts of speech is 1.779790).
 
 The 1st highest number of forms (2) was observed with the lemma “DUI”: <em>DUI, DUI-a</em>.
 

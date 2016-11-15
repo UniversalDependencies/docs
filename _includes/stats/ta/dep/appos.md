@@ -45,6 +45,35 @@ The following 5 pairs of parts of speech are connected with `appos`: [ta-pos/PRO
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 appos	color:blue
+1	அதைப்	அது	PRON	RpA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	dobj	_	Translit=ataip|LTranslit=atu
+2	பார்த்து	பார்	VERB	Vt-T---AA	Negative=Pos|VerbForm=Part|Voice=Act	18	advcl	_	SpaceAfter=No|Translit=pārttu|LTranslit=pār
+3	,	,	PUNCT	Z:-------	PunctType=Comm	18	punct	_	Translit=,|LTranslit=,
+4	சட்டப்	சட்டம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=caṭṭap|LTranslit=caṭṭam
+5	பேரவை	பேரவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	_	Translit=pēravai|LTranslit=pēravai
+6	தொகுதி	தொகுதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	_	Translit=tokuti|LTranslit=tokuti
+7	நிதியைய்	நிதி	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	dobj	_	Translit=nitiyaiy|LTranslit=niti
+8	உம்	உம்	PART	Tv-------	_	7	advmod:emph	_	Translit=um|LTranslit=um
+9	ஏன்	ஏன்	ADV	AA-------	_	15	advmod	_	Translit=ēn|LTranslit=ēn
+10	நல்ல	நல்ல	ADJ	JJ-------	_	11	amod	_	Translit=nalla|LTranslit=nalla
+11	பணிகளுக்கு	பணி	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	9	appos	_	Translit=paṇikaḷukku|LTranslit=paṇi
+12	ஒதுக்கக்	ஒதுக்கு	VERB	Vu-T---AA	Negative=Pos|VerbForm=Inf|Voice=Act	11	cc	_	Translit=otukkak|LTranslit=otukku
+13	கூடாது	கூடு	AUX	VR-T3SN-N	Gender=Neut|Mood=Ind|Negative=Neg|Number=Sing|Person=3|VerbForm=Fin	9	aux	_	Translit=kūṭātu|LTranslit=kūṭu
+14	என்ற	என்	PART	Td-D----A	Negative=Pos|Tense=Past|VerbForm=Part	9	mark	_	Translit=enra|LTranslit=en
+15	கேள்வி	கேள்வி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	18	nsubj	_	Translit=kēḷvi|LTranslit=kēḷvi
+16	என்	என்	PRON	RpG-1SA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Sing|Person=1|PronType=Prs	18	nmod	_	Translit=en|LTranslit=en
+17	முன்னால்	முன்னால்	ADP	PP-------	AdpType=Post	16	case	_	Translit=munnāl|LTranslit=munnāl
+18	எழுந்தது	எழு	VERB	Vr-D3SNAA	Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=eluntatu|LTranslit=elu
+19	.	.	PUNCT	Z#-------	PunctType=Peri	18	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 3	bgColor:blue
@@ -73,34 +102,6 @@ The following 5 pairs of parts of speech are connected with `appos`: [ta-pos/PRO
 21	பெருமை	பெருமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	22	dobj	_	Translit=perumai|LTranslit=perumai
 22	கிடைக்கும்	கிடை	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=kiṭaikkum|LTranslit=kiṭai
 23	.	.	PUNCT	Z#-------	PunctType=Peri	22	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 appos	color:blue
-1	மேலும்	மேலும்	ADV	AA-------	_	17	advmod	_	SpaceAfter=No|Translit=mēlum|LTranslit=mēlum
-2	,	,	PUNCT	Z:-------	PunctType=Comm	17	punct	_	Translit=,|LTranslit=,
-3	இந்தத்	இந்த	DET	DD-------	_	4	det	_	Translit=intat|LTranslit=inta
-4	தொகுதியின்	தொகுதி	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	12	nmod	_	Translit=tokutiyin|LTranslit=tokuti
-5	(	(	PUNCT	Z:-------	PunctType=Comm	4	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-6	சேப்பாக்கம்	சேப்பாக்கம்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	_	SpaceAfter=No|Translit=cēppākkam|LTranslit=cēppākkam
-7	)	)	PUNCT	Z:-------	PunctType=Comm	4	punct	_	Translit=)|LTranslit=)
-8	சட்டப்	சட்டம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	appos	_	Translit=caṭṭap|LTranslit=caṭṭam
-9	பேரவை	பேரவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	appos	_	Translit=pēravai|LTranslit=pēravai
-10	உறுப்பினர்	உறுப்பினர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol	8	cc	_	Translit=uruppinar|LTranslit=uruppinar
-11	என்ற	என்	PART	Td-D----A	Negative=Pos|Tense=Past|VerbForm=Part	4	mark	_	Translit=enra|LTranslit=en
-12	முறையில்	முறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	14	nmod	_	Translit=muraiyil|LTranslit=murai
-13	நிகழ்ச்சியில்	நிகழ்ச்சி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	14	nmod	_	Translit=nikalcciyil|LTranslit=nikalcci
-14	கலந்து	கல	VERB	Vt-T---AA	Negative=Pos|VerbForm=Part|Voice=Act	17	csubj	_	Translit=kalantu|LTranslit=kala
-15	கொள்வது	கொள்	AUX	VzNF3SNAA	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act	14	aux	_	Translit=koḷvatu|LTranslit=koḷ
-16	எனது	என்	PRON	RpG-1SA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Sing|Person=1|PronType=Prs	17	nmod	_	Translit=enatu|LTranslit=en
-17	கடமை	கடமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=kaṭamai|LTranslit=kaṭamai
-18	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

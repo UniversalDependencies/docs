@@ -101,7 +101,7 @@ The 10 most frequent `ADJ` lemmas: <em>drug, dober, prvi, sam, velik, lep, glave
 
 The 10 most frequent `ADJ` types:  <em>dobro, drugo, prvi, drugi, dober, zanimivo, druga, drugega, glavnem, lep</em>
 
-The 10 most frequent ambiguous lemmas: <em>moški</em> ([ADJ]() 5, [NOUN]() 5), <em>peti</em> ([ADJ]() 5, [VERB]() 3), <em>dolg</em> ([ADJ]() 3, [NOUN]() 3), <em>fajn</em> ([ADV]() 10, [ADJ]() 3), <em>super</em> ([ADV]() 13, [ADJ]() 3), <em>frej</em> ([ADV]() 2, [ADJ]() 2), <em>pet</em> ([NUM]() 17, [ADJ]() 2), <em>dan</em> ([NOUN]() 44, [ADJ]() 1), <em>gol</em> ([NOUN]() 2, [ADJ]() 1), <em>kamen</em> ([NOUN]() 3, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>moški</em> ([ADJ]() 5, [NOUN]() 5), <em>peti</em> ([ADJ]() 5, [VERB]() 3), <em>dolg</em> ([ADJ]() 3, [NOUN]() 3), <em>fajn</em> ([ADV]() 10, [ADJ]() 3), <em>super</em> ([ADV]() 13, [ADJ]() 3), <em>frej</em> ([ADJ]() 2, [ADV]() 2), <em>pet</em> ([NUM]() 17, [ADJ]() 2), <em>dan</em> ([NOUN]() 44, [ADJ]() 1), <em>gol</em> ([NOUN]() 2, [ADJ]() 1), <em>kamen</em> ([NOUN]() 3, [ADJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>dobro</em> ([ADV]() 46, [ADJ]() 18), <em>drugo</em> ([ADJ]() 17, [NOUN]() 1), <em>zanimivo</em> ([ADJ]() 10, [ADV]() 3), <em>druga</em> ([ADJ]() 9, [NOUN]() 1), <em>celo</em> ([PART]() 7, [ADJ]() 6), <em>mogoče</em> ([ADV]() 18, [ADJ]() 6), <em>prvo</em> ([ADJ]() 6, [ADV]() 4), <em>pravi</em> ([VERB]() 30, [ADJ]() 5), <em>jasno</em> ([ADV]() 4, [ADJ]() 4), <em>podobno</em> ([ADJ]() 4, [ADV]() 2)
 

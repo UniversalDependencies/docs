@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-263 nodes (0%) are attached to their parents as `neg`.
+506 nodes (0%) are attached to their parents as `neg`.
 
-259 instances of `neg` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22813688212928.
+497 instances of `neg` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23517786561265.
 
-The following 13 pairs of parts of speech are connected with `neg`: [hr-pos/VERB]()-[hr-pos/PART]() (209; 79% instances), [hr-pos/NOUN]()-[hr-pos/PART]() (16; 6% instances), [hr-pos/ADJ]()-[hr-pos/PART]() (13; 5% instances), [hr-pos/ADV]()-[hr-pos/PART]() (8; 3% instances), [hr-pos/AUX]()-[hr-pos/PART]() (5; 2% instances), [hr-pos/PROPN]()-[hr-pos/PART]() (3; 1% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (2; 1% instances), [hr-pos/NUM]()-[hr-pos/CONJ]() (2; 1% instances), [hr-pos/ADP]()-[hr-pos/CONJ]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/PROPN]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/AUX]() (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `neg`: [hr-pos/VERB]()-[hr-pos/PART]() (402; 79% instances), [hr-pos/NOUN]()-[hr-pos/PART]() (27; 5% instances), [hr-pos/ADJ]()-[hr-pos/PART]() (21; 4% instances), [hr-pos/ADV]()-[hr-pos/PART]() (21; 4% instances), [hr-pos/AUX]()-[hr-pos/PART]() (10; 2% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (5; 1% instances), [hr-pos/PROPN]()-[hr-pos/PART]() (4; 1% instances), [hr-pos/ADP]()-[hr-pos/PART]() (3; 1% instances), [hr-pos/NUM]()-[hr-pos/CONJ]() (2; 0% instances), [hr-pos/PROPN]()-[hr-pos/PROPN]() (2; 0% instances), [hr-pos/ADJ]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/ADP]()-[hr-pos/CONJ]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/CONJ]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,27 +55,26 @@ The following 13 pairs of parts of speech are connected with `neg`: [hr-pos/VERB
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 14 neg	color:blue
-1	Samo	samo	ADV	_	Degree=Pos	4	advmod	_	_
-2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	4	aux	_	_
-3	Silajdžić	Silajdžić	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-4	potvrdio	potvrditi	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-5	dolazak	dolazak	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	dobj	_	_
-6	kazavši	kazati	ADV	_	Degree=Pos	4	xcomp	_	_
-7	kako	kako	SCONJ	_	_	11	mark	_	_
-8	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	11	cop	_	_
-9	program	program	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
-10	posjeta	posjet	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
-11	kulturni	kulturan	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	ccomp	_	_
-12	,	,	PUNCT	_	_	11	punct	_	_
-13	a	a	CONJ	_	_	11	cc	_	_
-14	ne	ne	PART	_	Negative=Neg	15	neg	_	_
-15	politički	politički	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	_
-16	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 neg	color:blue
+1	Možda	možda	ADV	_	Degree=Pos	5	advmod	_	_
+2	ne	ne	PART	_	Negative=Neg	5	neg	_	_
+3	bi	biti	AUX	_	Number=Sing|Person=3|Tense=Past	5	aux	_	_
+4	bilo	biti	AUX	_	Gender=Neut|Number=Sing|VerbForm=Part	5	cop	_	_
+5	zgorega	zgorega	ADV	_	Degree=Pos	0	root	_	_
+6	da	da	SCONJ	_	_	12	mark	_	_
+7	i	i	CONJ	_	_	8	discourse	_	_
+8	mi	mi	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+9	roditelji	roditelj	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	appos	_	_
+10	budemo	biti	AUX	_	Number=Plur|Person=1|Tense=Pres	12	cop	_	_
+11	bolje	dobro	ADV	_	Degree=Cmp	12	advmod	_	_
+12	pripremljeni	pripremiti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	5	csubj	_	_
+13	za	za	ADP	_	Case=Acc	14	case	_	_
+14	to	taj	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	12	nmod	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

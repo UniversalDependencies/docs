@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: <em>is, jūs, ik, saei, alls, ƕas, þu, mei
 
 The 10 most frequent `PRON` types:  <em>izwis, imma, ina, is, im, mis, ik, saei, mik, ƕa</em>
 
-The 10 most frequent ambiguous lemmas: <em>silba</em> ([ADJ]() 100, [PRON]() 75), <em>anþar</em> ([ADJ]() 135, [PRON]() 10), <em>þanuh</em> ([ADV]() 84, [PRON]() 1, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>silba</em> ([ADJ]() 100, [PRON]() 75), <em>anþar</em> ([ADJ]() 135, [PRON]() 10), <em>þanuh</em> ([ADV]() 84, [SCONJ]() 1, [PRON]() 1)
 
 The 10 most frequent ambiguous types:  <em>is</em> ([PRON]() 406, [VERB]() 44), <em>im</em> ([PRON]() 349, [VERB]() 103), <em>þatei</em> ([SCONJ]() 380, [PRON]() 178, [ADV]() 2), <em>þammei</em> ([PRON]() 70, [SCONJ]() 15), <em>þanei</em> ([PRON]() 61, [ADV]() 3), <em>silban</em> ([PRON]() 29, [ADJ]() 26), <em>þizei</em> ([PRON]() 28, [DET]() 3, [ADJ]() 2, [SCONJ]() 1), <em>silbin</em> ([PRON]() 27, [ADJ]() 4), <em>silba</em> ([ADJ]() 27, [PRON]() 8), <em>anþar</em> ([ADJ]() 31, [PRON]() 5)
 

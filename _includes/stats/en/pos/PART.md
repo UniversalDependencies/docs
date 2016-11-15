@@ -4,34 +4,34 @@
 
 ## Treebank Statistics (UD_English)
 
-There are 13 `PART` lemmas (0%), 17 `PART` types (0%) and 6826 `PART` tokens (3%).
+There are 13 `PART` lemmas (0%), 18 `PART` types (0%) and 6689 `PART` tokens (3%).
 Out of 17 observed tags, the rank of `PART` is: 17 in number of lemmas, 17 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>to, not, 's, s, ', na, ta, too, -s, 2</em>
 
 The 10 most frequent `PART` types:  <em>to, not, n't, 's, s, nt, ', na, ta, n</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> ([PART]() 3987, [ADP]() 2207, [SCONJ]() 85, [ADV]() 12, [NOUN]() 2, [VERB]() 1), <em>not</em> ([PART]() 1974, [ADV]() 192, [CONJ]() 17), <em>'s</em> ([PART]() 701, [PRON]() 15), <em>s</em> ([PART]() 98, [X]() 10, [PRON]() 7, [NOUN]() 3, [PROPN]() 1), <em>'</em> ([PUNCT]() 244, [PART]() 39, [NOUN]() 7, [VERB]() 1), <em>ta</em> ([PART]() 7, [ADP]() 4), <em>too</em> ([ADV]() 160, [PART]() 2, [ADP]() 1), <em>2</em> ([NUM]() 145, [X]() 30, [PROPN]() 2, [ADP]() 1, [PART]() 1), <em>`s</em> ([VERB]() 8, [AUX]() 1, [PART]() 1), <em>a</em> ([DET]() 5346, [NOUN]() 20, [X]() 14, [ADV]() 7, [ADP]() 4, [AUX]() 1, [CONJ]() 1, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> ([PART]() 3925, [ADP]() 2160, [SCONJ]() 84, [ADV]() 12, [NOUN]() 2, [VERB]() 1), <em>not</em> ([PART]() 1942, [ADV]() 188, [CONJ]() 17), <em>'s</em> ([PART]() 659, [PRON]() 14), <em>s</em> ([PART]() 98, [X]() 10, [PRON]() 7, [NOUN]() 3, [PROPN]() 1), <em>'</em> ([PUNCT]() 240, [PART]() 38, [NOUN]() 7, [VERB]() 1), <em>ta</em> ([PART]() 7, [ADP]() 4), <em>too</em> ([ADV]() 157, [PART]() 2, [ADP]() 1), <em>2</em> ([NUM]() 140, [X]() 30, [PROPN]() 2, [ADP]() 1, [PART]() 1), <em>`s</em> ([VERB]() 8, [PART]() 1, [AUX]() 1), <em>a</em> ([DET]() 5272, [NOUN]() 20, [X]() 14, [ADV]() 7, [ADP]() 4, [PART]() 1, [CONJ]() 1, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> ([PART]() 3942, [ADP]() 2181, [SCONJ]() 83, [ADV]() 12, [NOUN]() 2, [VERB]() 1), <em>not</em> ([PART]() 971, [ADV]() 161, [CONJ]() 15), <em>'s</em> ([PART]() 699, [VERB]() 392, [AUX]() 71, [PRON]() 15), <em>s</em> ([VERB]() 99, [PART]() 97, [AUX]() 12, [X]() 10, [PRON]() 7, [NOUN]() 2, [PROPN]() 1), <em>'</em> ([PUNCT]() 244, [PART]() 39, [NOUN]() 7), <em>ta</em> ([PART]() 7, [ADP]() 3), <em>n</em> ([CONJ]() 3, [PART]() 2, [NOUN]() 1), <em>too</em> ([ADV]() 150, [PART]() 2, [ADP]() 1), <em>2</em> ([NUM]() 145, [X]() 30, [PROPN]() 2, [PART]() 1, [ADP]() 1), <em>`s</em> ([VERB]() 8, [AUX]() 1, [PART]() 1)
+The 10 most frequent ambiguous types:  <em>to</em> ([PART]() 3879, [ADP]() 2134, [SCONJ]() 82, [ADV]() 12, [NOUN]() 2, [VERB]() 1), <em>not</em> ([PART]() 956, [ADV]() 158, [CONJ]() 15), <em>'s</em> ([PART]() 657, [VERB]() 390, [AUX]() 71, [PRON]() 14), <em>s</em> ([VERB]() 99, [PART]() 97, [AUX]() 12, [X]() 10, [PRON]() 7, [NOUN]() 2, [PROPN]() 1), <em>'</em> ([PUNCT]() 240, [PART]() 38, [NOUN]() 7), <em>ta</em> ([PART]() 7, [ADP]() 3), <em>n</em> ([CONJ]() 3, [PART]() 2, [NOUN]() 1), <em>too</em> ([ADV]() 147, [PART]() 2, [ADP]() 1), <em>2</em> ([NUM]() 140, [X]() 30, [PROPN]() 2, [ADP]() 1, [PART]() 1), <em>`s</em> ([VERB]() 8, [PART]() 1, [AUX]() 1)
 
 
 * <em>to</em>
-  * [PART]() 3942: <em>When they saw a cartoon of their prophet , people had <b>to</b> die .</em>
-  * [ADP]() 2181: <em>To pander <b>to</b> the mythical " Arab street " , of course .</em>
-  * [SCONJ]() 83: <em>I look forward <b>to</b> seeing you all there .</em>
+  * [PART]() 3879: <em>When they saw a cartoon of their prophet , people had <b>to</b> die .</em>
+  * [ADP]() 2134: <em>To pander <b>to</b> the mythical " Arab street " , of course .</em>
+  * [SCONJ]() 82: <em>I look forward <b>to</b> seeing you all there .</em>
   * [ADV]() 12: <em>And if you send me a story , that would be great <b>to</b> !</em>
   * [NOUN]() 2: <em>Talked to the little mother - <b>to</b> - be .</em>
   * [VERB]() 1: <em>My answer is that we do n't <b>to</b> text speak here ... we type in English .</em>
 * <em>not</em>
-  * [PART]() 971: <em>This is <b>not</b> a filibuster .</em>
-  * [ADV]() 161: <em>The address is for Noida Location <b>not</b> for Gurgaon Location .</em>
+  * [PART]() 956: <em>This is <b>not</b> a filibuster .</em>
+  * [ADV]() 158: <em>The address is for Noida Location <b>not</b> for Gurgaon Location .</em>
   * [CONJ]() 15: <em>Oh , and salad cream , <b>not</b> mayonnaise , on the coleslaw .</em>
 * <em>'s</em>
-  * [PART]() 699: <em>I was thinking Kenneally <b>'s</b> at around 5 .</em>
-  * [VERB]() 392: <em>Read the entire article ; there <b>'s</b> a punchline , too .</em>
+  * [PART]() 657: <em>I was thinking Kenneally <b>'s</b> at around 5 .</em>
+  * [VERB]() 390: <em>Read the entire article ; there <b>'s</b> a punchline , too .</em>
   * [AUX]() 71: <em>So he <b>'s</b> got a -- I 'm a decision - maker and I can make good decisions .</em>
-  * [PRON]() 15: <em>let <b>'s</b> discuss next time we have amstel lights together .</em>
+  * [PRON]() 14: <em>let <b>'s</b> discuss next time we have amstel lights together .</em>
 * <em>s</em>
   * [VERB]() 99: <em>It <b>s</b> all interesting stuff .</em>
   * [PART]() 97: <em>you guys want to watch the game at woodrow <b>s</b> tomorrow ?</em>
@@ -41,8 +41,8 @@ The 10 most frequent ambiguous types:  <em>to</em> ([PART]() 3942, [ADP]() 2181,
   * [NOUN]() 2: <em>In clause ( e ) , delete the " <b>s</b> " : from the word consolidation .</em>
   * [PROPN]() 1: <em><b>s</b></em>
 * <em>'</em>
-  * [PUNCT]() 244: <em>He did comment on what he meant by the phrase . <b>'</b></em>
-  * [PART]() 39: <em>The latest spot for a real Hackney 's is Printers <b>'</b> Row :</em>
+  * [PUNCT]() 240: <em>He did comment on what he meant by the phrase . <b>'</b></em>
+  * [PART]() 38: <em>The latest spot for a real Hackney 's is Printers <b>'</b> Row :</em>
   * [NOUN]() 7: <em>If you Do n't want to grow out of it quickly get a 14 <b>'</b> 2 ..</em>
 * <em>ta</em>
   * [PART]() 7: <em>Yeah you got <b>ta</b> burn it .. that s the only way</em>
@@ -52,42 +52,42 @@ The 10 most frequent ambiguous types:  <em>to</em> ([PART]() 3942, [ADP]() 2181,
   * [PART]() 2: <em>I du <b>n</b> no how they did it , but Scottish friends --- this is THE REAL DEAL .</em>
   * [NOUN]() 1: <em>it has 14 mega pixel camera ... <b>n</b> 4 x wide optical zoom ...</em>
 * <em>too</em>
-  * [ADV]() 150: <em>Read the entire article ; there 's a punchline , <b>too</b> .</em>
+  * [ADV]() 147: <em>Read the entire article ; there 's a punchline , <b>too</b> .</em>
   * [PART]() 2: <em>( you can take breaks if you have <b>too</b> ) and repeat the steps after about 2 hours .</em>
   * [ADP]() 1: <em>This is one of the best farms I have ever been <b>too</b> .</em>
 * <em>2</em>
-  * [NUM]() 145: <em>Analyst Team <b>2</b> : Coach : Doug Sewell</em>
+  * [NUM]() 140: <em>Analyst Team <b>2</b> : Coach : Doug Sewell</em>
   * [X]() 30: <em>* <b>2</b> . The second ingredient is words , more precisely lies . *</em>
   * [PROPN]() 2: <em>and it seems this is the FIRST site of ragnarok <b>2</b> hahaha since the site is new send me your suggestions and comments</em>
-  * [PART]() 1: <em>hi everyone .... just hav my hands on my new OLYMPUS X940 digital camera .. wel , i always wanted <b>2</b> hav one by sony .. but anyways , ended up having olympus X940 from my dad ....... does any1 already has it ?</em>
   * [ADP]() 1: <em>go <b>2</b> starbucks do nt spend more than 20 bucks :)</em>
+  * [PART]() 1: <em>hi everyone .... just hav my hands on my new OLYMPUS X940 digital camera .. wel , i always wanted <b>2</b> hav one by sony .. but anyways , ended up having olympus X940 from my dad ....... does any1 already has it ?</em>
 * <em>`s</em>
   * [VERB]() 8: <em>Yo Mama <b>`s</b> so fat ....</em>
-  * [AUX]() 1: <em>Yo mama `s so fat , she <b>`s</b> got smaller fat women orbiting around her .</em>
   * [PART]() 1: <em>Her driver <b>`s</b> license says " Picture continued on other side . "</em>
+  * [AUX]() 1: <em>Yo mama `s so fat , she <b>`s</b> got smaller fat women orbiting around her .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.307692 (the average of all parts of speech is 1.173797).
+The form / lemma ratio of `PART` is 1.384615 (the average of all parts of speech is 1.173735).
 
 The 1st highest number of forms (5) was observed with the lemma “not”: <em>n, n't, not, nt, t</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
+The 2nd highest number of forms (2) was observed with the lemma “to”: <em>the, to</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
+The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 
 `PART` does not occur with any features.
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 13 different relations: [en-dep/mark]() (3983; 58% instances), [en-dep/neg]() (1931; 28% instances), [en-dep/case]() (840; 12% instances), [en-dep/conj]() (21; 0% instances), [en-dep/xcomp]() (17; 0% instances), [en-dep/mwe]() (9; 0% instances), [en-dep/advcl]() (8; 0% instances), [en-dep/root]() (6; 0% instances), [en-dep/ccomp]() (4; 0% instances), [en-dep/parataxis]() (3; 0% instances), [en-dep/compound]() (2; 0% instances), [en-dep/advmod]() (1; 0% instances), [en-dep/reparandum]() (1; 0% instances)
+`PART` nodes are attached to their parents using 13 different relations: [en-dep/mark]() (3922; 59% instances), [en-dep/neg]() (1900; 28% instances), [en-dep/case]() (797; 12% instances), [en-dep/conj]() (20; 0% instances), [en-dep/xcomp]() (16; 0% instances), [en-dep/mwe]() (9; 0% instances), [en-dep/advcl]() (8; 0% instances), [en-dep/root]() (6; 0% instances), [en-dep/ccomp]() (4; 0% instances), [en-dep/parataxis]() (3; 0% instances), [en-dep/compound]() (2; 0% instances), [en-dep/advmod]() (1; 0% instances), [en-dep/reparandum]() (1; 0% instances)
 
-Parents of `PART` nodes belong to 14 different parts of speech: [VERB]() (5288; 77% instances), [PROPN]() (573; 8% instances), [NOUN]() (511; 7% instances), [ADJ]() (327; 5% instances), [ADV]() (74; 1% instances), [PRON]() (17; 0% instances), [AUX]() (14; 0% instances), [DET]() (6; 0% instances), [ROOT]() (6; 0% instances), [NUM]() (5; 0% instances), [SCONJ]() (2; 0% instances), [ADP]() (1; 0% instances), [CONJ]() (1; 0% instances), [SYM]() (1; 0% instances)
+Parents of `PART` nodes belong to 14 different parts of speech: [VERB]() (5200; 78% instances), [PROPN]() (540; 8% instances), [NOUN]() (482; 7% instances), [ADJ]() (325; 5% instances), [ADV]() (73; 1% instances), [PRON]() (33; 0% instances), [AUX]() (14; 0% instances), [DET]() (6; 0% instances), [ROOT]() (6; 0% instances), [NUM]() (5; 0% instances), [SCONJ]() (2; 0% instances), [ADP]() (1; 0% instances), [CONJ]() (1; 0% instances), [SYM]() (1; 0% instances)
 
-6769 (99%) `PART` nodes are leaves.
+6633 (99%) `PART` nodes are leaves.
 
-28 (0%) `PART` nodes have one child.
+27 (0%) `PART` nodes have one child.
 
 17 (0%) `PART` nodes have two children.
 
@@ -95,9 +95,9 @@ Parents of `PART` nodes belong to 14 different parts of speech: [VERB]() (5288; 
 
 The highest child degree of a `PART` node is 5.
 
-Children of `PART` nodes are attached using 12 different relations: [en-dep/punct]() (56; 53% instances), [en-dep/advmod]() (13; 12% instances), [en-dep/mark]() (13; 12% instances), [en-dep/cc]() (7; 7% instances), [en-dep/nmod]() (5; 5% instances), [en-dep/advcl]() (3; 3% instances), [en-dep/conj]() (2; 2% instances), [en-dep/parataxis]() (2; 2% instances), [en-dep/ccomp]() (1; 1% instances), [en-dep/csubj]() (1; 1% instances), [en-dep/discourse]() (1; 1% instances), [en-dep/remnant]() (1; 1% instances)
+Children of `PART` nodes are attached using 12 different relations: [en-dep/punct]() (56; 54% instances), [en-dep/mark]() (13; 13% instances), [en-dep/advmod]() (12; 12% instances), [en-dep/cc]() (7; 7% instances), [en-dep/nmod]() (5; 5% instances), [en-dep/advcl]() (3; 3% instances), [en-dep/conj]() (2; 2% instances), [en-dep/parataxis]() (2; 2% instances), [en-dep/ccomp]() (1; 1% instances), [en-dep/csubj]() (1; 1% instances), [en-dep/discourse]() (1; 1% instances), [en-dep/remnant]() (1; 1% instances)
 
-Children of `PART` nodes belong to 7 different parts of speech: [PUNCT]() (56; 53% instances), [ADV]() (16; 15% instances), [SCONJ]() (13; 12% instances), [CONJ]() (7; 7% instances), [NOUN]() (6; 6% instances), [VERB]() (6; 6% instances), [INTJ]() (1; 1% instances)
+Children of `PART` nodes belong to 7 different parts of speech: [PUNCT]() (56; 54% instances), [ADV]() (15; 14% instances), [SCONJ]() (13; 13% instances), [CONJ]() (7; 7% instances), [NOUN]() (6; 6% instances), [VERB]() (6; 6% instances), [INTJ]() (1; 1% instances)
 
 
 
@@ -112,16 +112,16 @@ The 10 most frequent `PART` lemmas: <em>_</em>
 
 The 10 most frequent `PART` types:  <em>_</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
-The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
 
 * <em>_</em>
-  * [NOUN]() 15986: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ <b>_</b> _</em>
+  * [NOUN]() 15635: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ _ _</em>
   * [VERB]() 15080: <em>_ <b>_</b> _ _ _ _ <b>_</b> _ _ _ _ <b>_</b> _ <b>_</b> _ _</em>
-  * [DET]() 10562: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
-  * [PRON]() 9758: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [PRON]() 10618: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _</em>
+  * [DET]() 10057: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
   * [PUNCT]() 9580: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b></em>
   * [ADP]() 8546: <em>_ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _</em>
   * [ADJ]() 5857: <em>_ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
@@ -129,7 +129,7 @@ The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 1508
   * [AUX]() 4533: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _</em>
   * [PART]() 3531: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _</em>
   * [CONJ]() 3198: <em>_ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
-  * [SCONJ]() 2520: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * [SCONJ]() 2516: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
   * [PROPN]() 1795: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _</em>
   * [NUM]() 844: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
   * [INTJ]() 80: <em>_ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
@@ -149,7 +149,7 @@ The 1st highest number of forms (1) was observed with the lemma “_”: <em>_</
 
 `PART` nodes are attached to their parents using 11 different relations: [en-dep/mark]() (2397; 68% instances), [en-dep/neg]() (937; 27% instances), [en-dep/case]() (168; 5% instances), [en-dep/conj]() (7; 0% instances), [en-dep/mwe]() (5; 0% instances), [en-dep/nmod]() (5; 0% instances), [en-dep/compound:prt]() (3; 0% instances), [en-dep/nsubj]() (3; 0% instances), [en-dep/xcomp]() (3; 0% instances), [en-dep/advmod]() (2; 0% instances), [en-dep/cc]() (1; 0% instances)
 
-Parents of `PART` nodes belong to 12 different parts of speech: [VERB]() (2956; 84% instances), [NOUN]() (248; 7% instances), [ADJ]() (208; 6% instances), [PROPN]() (52; 1% instances), [ADV]() (31; 1% instances), [PRON]() (15; 0% instances), [AUX]() (6; 0% instances), [NUM]() (5; 0% instances), [DET]() (4; 0% instances), [SCONJ]() (4; 0% instances), [ADP]() (1; 0% instances), [PART]() (1; 0% instances)
+Parents of `PART` nodes belong to 12 different parts of speech: [VERB]() (2956; 84% instances), [NOUN]() (246; 7% instances), [ADJ]() (208; 6% instances), [PROPN]() (52; 1% instances), [ADV]() (31; 1% instances), [PRON]() (18; 1% instances), [AUX]() (6; 0% instances), [NUM]() (5; 0% instances), [SCONJ]() (4; 0% instances), [DET]() (3; 0% instances), [ADP]() (1; 0% instances), [PART]() (1; 0% instances)
 
 3525 (100%) `PART` nodes are leaves.
 

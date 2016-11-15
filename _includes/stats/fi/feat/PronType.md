@@ -180,7 +180,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt>_</tt></td><td><em>miten</em></td><td><em>miten</em></td><td><em>miten</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ka</tt></td><td><em>mitenkä</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ka,S</tt></td><td><em>mitenkäs</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Style.html">Style</a>=Coll</tt></td><td><em>mitem, Mites, Mite</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Style.html">Style</a>=Coll</tt></td><td><em>Mites, Mite, mitem</em></td><td></td><td></td></tr>
 </table>
 
 ### `ADJ`

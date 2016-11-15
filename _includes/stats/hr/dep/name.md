@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1367 nodes (2%) are attached to their parents as `name`.
+1970 nodes (1%) are attached to their parents as `name`.
 
-1318 instances of `name` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14630577907827.
+1857 instances of `name` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14416243654822.
 
-The following 16 pairs of parts of speech are connected with `name`: [hr-pos/PROPN]()-[hr-pos/PROPN]() (1159; 85% instances), [hr-pos/PROPN]()-[hr-pos/CONJ]() (49; 4% instances), [hr-pos/NOUN]()-[hr-pos/ADJ]() (27; 2% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (25; 2% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (23; 2% instances), [hr-pos/ADJ]()-[hr-pos/PROPN]() (18; 1% instances), [hr-pos/PROPN]()-[hr-pos/X]() (13; 1% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (9; 1% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (9; 1% instances), [hr-pos/X]()-[hr-pos/PROPN]() (8; 1% instances), [hr-pos/X]()-[hr-pos/X]() (7; 1% instances), [hr-pos/NOUN]()-[hr-pos/NUM]() (6; 0% instances), [hr-pos/PROPN]()-[hr-pos/NOUN]() (5; 0% instances), [hr-pos/PROPN]()-[hr-pos/ADJ]() (4; 0% instances), [hr-pos/PROPN]()-[hr-pos/NUM]() (3; 0% instances), [hr-pos/VERB]()-[hr-pos/NOUN]() (2; 0% instances).
+The following 25 pairs of parts of speech are connected with `name`: [hr-pos/PROPN]()-[hr-pos/PROPN]() (1645; 84% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (49; 2% instances), [hr-pos/PROPN]()-[hr-pos/CONJ]() (49; 2% instances), [hr-pos/NOUN]()-[hr-pos/ADJ]() (39; 2% instances), [hr-pos/ADP]()-[hr-pos/ADP]() (32; 2% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (23; 1% instances), [hr-pos/ADJ]()-[hr-pos/PROPN]() (19; 1% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (19; 1% instances), [hr-pos/PROPN]()-[hr-pos/ADJ]() (14; 1% instances), [hr-pos/PROPN]()-[hr-pos/X]() (13; 1% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (10; 1% instances), [hr-pos/PROPN]()-[hr-pos/ADP]() (9; 0% instances), [hr-pos/PROPN]()-[hr-pos/NOUN]() (9; 0% instances), [hr-pos/X]()-[hr-pos/PROPN]() (8; 0% instances), [hr-pos/NOUN]()-[hr-pos/NUM]() (7; 0% instances), [hr-pos/X]()-[hr-pos/X]() (7; 0% instances), [hr-pos/PROPN]()-[hr-pos/NUM]() (4; 0% instances), [hr-pos/ADP]()-[hr-pos/PROPN]() (3; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADP]() (3; 0% instances), [hr-pos/VERB]()-[hr-pos/NOUN]() (3; 0% instances), [hr-pos/ADJ]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/PRON]()-[hr-pos/CONJ]() (1; 0% instances), [hr-pos/PRON]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,22 +61,21 @@ The following 16 pairs of parts of speech are connected with `name`: [hr-pos/PRO
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 8 name	color:blue
-1	"	"	PUNCT	_	_	4	punct	_	_
-2	To	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
-3	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	4	cop	_	_
-4	dokaz	dokaz	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-5	naše	naš	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	7	nmod	_	_
-6	dobre	dobar	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	volje	volja	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
-8	Europskoj	europski	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	name	_	_
-9	uniji	unija	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	dobj	_	_
-10	.	.	PUNCT	_	_	4	punct	_	_
-11	"	"	PUNCT	_	_	4	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 name	color:blue
+1	Postoji	postojati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	osjećaj	osjećaj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	kako	kako	SCONJ	_	_	5	mark	_	_
+4	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	5	aux	_	_
+5	žrtvovali	žrtvovati	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	acl	_	_
+6	sve	sav	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	dobj	_	_
+7	zbog	zbog	ADP	_	Case=Gen	8	case	_	_
+8	statusa	status	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	name	_	_
+9	Kosova	Kosovo	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	8	name	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

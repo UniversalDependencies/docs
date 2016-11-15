@@ -104,3 +104,73 @@ The following 34 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+776 nodes (3%) are attached to their parents as `cc`.
+
+752 instances of `cc` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.86855670103093.
+
+The following 20 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]()-[gl-pos/CONJ]() (289; 37% instances), [gl-pos/VERB]()-[gl-pos/CONJ]() (187; 24% instances), [gl-pos/ADJ]()-[gl-pos/CONJ]() (95; 12% instances), [gl-pos/PROPN]()-[gl-pos/CONJ]() (84; 11% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (38; 5% instances), [gl-pos/NOUN]()-[gl-pos/SCONJ]() (18; 2% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (12; 2% instances), [gl-pos/NUM]()-[gl-pos/CONJ]() (11; 1% instances), [gl-pos/PRON]()-[gl-pos/CONJ]() (11; 1% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (8; 1% instances), [gl-pos/ADV]()-[gl-pos/CONJ]() (7; 1% instances), [gl-pos/PROPN]()-[gl-pos/SCONJ]() (4; 1% instances), [gl-pos/ADV]()-[gl-pos/SCONJ]() (2; 0% instances), [gl-pos/DET]()-[gl-pos/CONJ]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/CONJ]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 cc	color:blue
+1	e	e	CONJ	Cc	_	4	cc	_	_
+2	de	de	ADP	P	AdpType=Prep	4	case	_	_
+3	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	provocador	provocador	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
+5	a	a	ADP	P	AdpType=Prep	6	case	_	_
+6	outro	outro	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	4	nmod	_	_
+7	.	.	PUNCT	Q.	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 cc	color:blue
+1	por	por	ADP	P	AdpType=Prep	2	mark	_	_
+2	emocionar	emocionar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+3	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	2	dobj	_	_
+4	e	e	CONJ	Cc	_	2	cc	_	_
+5	facer	facer	VERB	V0f000	VerbForm=Inf	2	conj	_	_
+6	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	5	dobj	_	_
+7	sentir	sentir	VERB	V0f000	VerbForm=Inf	5	xcomp	_	_
+8	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 cc	color:blue
+1	en_xeral	en_xeral	ADV	La0	_	3	advmod	_	_
+2	son	ser	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	0	root	_	_
+4	de	de	ADP	P	AdpType=Prep	5	case	_	_
+5	uso	uso	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
+6	técnico	técnico	ADJ	A0ms	Gender=Masc|Number=Sing	5	amod	_	_
+7	e	e	CONJ	Cc	_	6	cc	_	_
+8	científico	científico	ADJ	A0ms	Gender=Masc|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	Q.	_	3	punct	_	_
+
+~~~
+
+

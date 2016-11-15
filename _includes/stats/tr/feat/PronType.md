@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (359; 21% of non-empty `PronType`): <em>bu, o, bunu, bunlar, buna, bunun, bunları, onu, onun, şunları</em>
 * `Ind` (158; 9% of non-empty `PronType`): <em>biri, hepsi, birbirimize, birbirlerine, kimi, hiçbiri, birbirine, birisi, hepimiz, hepsinin</em>
 * `Prs` (1189; 70% of non-empty `PronType`): <em>ben, bana, o, beni, benim, onu, onun, ona, sen, sana</em>
-* `EMPTY` (442): <em>ne, kendi, ?, kendini, neden, kim, kendisine, kendimi, kendine, nereden</em>
+* `EMPTY` (442): <em>ne, kendi, kim, kendini, neden, kendisine, kendimi, kendine, nereden, nerede</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>

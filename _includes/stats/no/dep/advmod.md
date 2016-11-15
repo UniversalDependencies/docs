@@ -22,13 +22,13 @@ The following 25 pairs of parts of speech are connected with `advmod`: [no-pos/V
 # visual-style 8 7 advmod	color:blue
 1	Som	som	SCONJ	_	_	3	dobj	_	_
 2	vi	vi	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-3	spør	spørre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+3	spør	spørre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
 4	,	$,	PUNCT	_	_	3	punct	_	_
 5	vil	ville	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 6	vi	vi	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
 7	også	også	ADV	_	_	8	advmod	_	_
 8	få	få	VERB	_	VerbForm=Inf	0	root	_	_
-9	svar	svar	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	8	dobj	_	_
+9	svar	svar	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	8	dobj	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 25 pairs of parts of speech are connected with `advmod`: [no-pos/V
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod	color:blue
 1	Nærmere	nær	ADJ	_	Degree=Cmp	2	advmod	_	_
-2	spesifisert	spesifisere	VERB	_	VerbForm=Part	0	root	_	_
+2	spesifisert	spesifisere	VERB	_	VerbForm=Part	0	root	_	SpaceAfter=No
 3	:	$:	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -56,7 +56,7 @@ The following 25 pairs of parts of speech are connected with `advmod`: [no-pos/V
 1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	blir	bli	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	mer	mye	ADJ	_	Degree=Cmp	4	advmod	_	_
-4	forsettlig	forsettlig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	xcomp	_	_
+4	forsettlig	forsettlig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	xcomp	_	SpaceAfter=No
 5	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~

@@ -11,9 +11,9 @@ The 10 most frequent `NUM` lemmas: <em>dos, 2010, tres, 0, 3, cuatro, 1, 6, 2, 1
 
 The 10 most frequent `NUM` types:  <em>dos, 2010, tres, 0, cuatro, 3, 1, 2, 10, 4</em>
 
-The 10 most frequent ambiguous lemmas: <em>dos</em> ([NUM]() 592, [PROPN]() 7, [NOUN]() 5, [ADP]() 2, [X]() 2), <em>tres</em> ([NUM]() 231, [PROPN]() 4, [NOUN]() 2), <em>cuatro</em> ([NUM]() 164, [NOUN]() 2, [PROPN]() 1), <em>6</em> ([NUM]() 157, [NOUN]() 1), <em>uno</em> ([DET]() 7651, [PRON]() 540, [NUM]() 108, [PROPN]() 2, [NOUN]() 2, [ADJ]() 2, [X]() 1), <em>2000</em> ([NUM]() 102, [NOUN]() 1), <em>cinco</em> ([NUM]() 91, [PROPN]() 3, [NOUN]() 2), <em>ii</em> ([NUM]() 70, [PROPN]() 9), <em>i</em> ([NUM]() 52, [PROPN]() 22, [CONJ]() 20, [X]() 16), <em>mil</em> ([NUM]() 47, [NOUN]() 34, [PROPN]() 3)
+The 10 most frequent ambiguous lemmas: <em>dos</em> ([NUM]() 592, [PROPN]() 7, [NOUN]() 5, [X]() 2, [ADP]() 2), <em>tres</em> ([NUM]() 231, [PROPN]() 4, [NOUN]() 2), <em>cuatro</em> ([NUM]() 164, [NOUN]() 2, [PROPN]() 1), <em>6</em> ([NUM]() 157, [NOUN]() 1), <em>uno</em> ([DET]() 7651, [PRON]() 540, [NUM]() 108, [NOUN]() 2, [PROPN]() 2, [ADJ]() 2, [X]() 1), <em>2000</em> ([NUM]() 102, [NOUN]() 1), <em>cinco</em> ([NUM]() 91, [PROPN]() 3, [NOUN]() 2), <em>ii</em> ([NUM]() 70, [PROPN]() 9), <em>i</em> ([NUM]() 52, [PROPN]() 22, [CONJ]() 20, [X]() 16), <em>mil</em> ([NUM]() 47, [NOUN]() 34, [PROPN]() 3)
 
-The 10 most frequent ambiguous types:  <em>dos</em> ([NUM]() 569, [NOUN]() 5, [X]() 2, [ADP]() 1), <em>tres</em> ([NUM]() 224, [NOUN]() 1), <em>cuatro</em> ([NUM]() 157, [NOUN]() 1), <em>2000</em> ([NUM]() 94, [NOUN]() 1), <em>cinco</em> ([NUM]() 87, [NOUN]() 2), <em>II</em> ([NUM]() 70, [PROPN]() 9), <em>un</em> ([DET]() 3886, [NUM]() 53), <em>I</em> ([NUM]() 52, [PROPN]() 21, [X]() 10), <em>siete</em> ([NUM]() 36, [PROPN]() 1, [NOUN]() 1), <em>una</em> ([DET]() 3269, [PRON]() 181, [NUM]() 35, [NOUN]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>dos</em> ([NUM]() 569, [NOUN]() 5, [X]() 2, [ADP]() 1), <em>tres</em> ([NUM]() 224, [NOUN]() 1), <em>cuatro</em> ([NUM]() 157, [NOUN]() 1), <em>2000</em> ([NUM]() 94, [NOUN]() 1), <em>cinco</em> ([NUM]() 87, [NOUN]() 2), <em>II</em> ([NUM]() 70, [PROPN]() 9), <em>un</em> ([DET]() 3886, [NUM]() 53), <em>I</em> ([NUM]() 52, [PROPN]() 21, [X]() 10), <em>siete</em> ([NUM]() 36, [NOUN]() 1, [PROPN]() 1), <em>una</em> ([DET]() 3269, [PRON]() 181, [NUM]() 35, [NOUN]() 2, [X]() 1)
 
 
 * <em>dos</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>dos</em> ([NUM]() 569, [NOUN]() 5, [X
   * [X]() 10: <em>Su sección transversal o perfil puede tener forma de H , <b>I</b> o + .</em>
 * <em>siete</em>
   * [NUM]() 36: <em>Montoya ganó <b>siete</b> carreras .</em>
-  * [PROPN]() 1: <em>También alcanzó el número uno en Nueva Zelanda , el número dos en el Reino Unido y número <b>siete</b> en Australia y seis en Canadá .</em>
   * [NOUN]() 1: <em>Dos grupos de delfines que sumaban nueve ejemplares vararon este sábado en dos diferentes puntos de la costa asturiana , según ha informado la Coordinadora para el Estudio y la Protección de las Especies Marinas ( Cepesma ) , que ha indicado que fueron salvados <b>siete</b> y llevados de nuevo a mar abierto .</em>
+  * [PROPN]() 1: <em>También alcanzó el número uno en Nueva Zelanda , el número dos en el Reino Unido y número <b>siete</b> en Australia y seis en Canadá .</em>
 * <em>una</em>
   * [DET]() 3269: <em>Ae Fond Kiss ... es <b>una</b> película dirigida por Ken Loach .</em>
   * [PRON]() 181: <em>Me parece <b>una</b> de las mejores opciones hoy en día .</em>

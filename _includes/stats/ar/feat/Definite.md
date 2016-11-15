@@ -53,11 +53,11 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 <table>
   <tr><th>Paradigm <i>أَوَّل</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Red</tt></th><th><tt>Com</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>أول, أولاً, اول, اولا, أولا, اولاً</td><td>الاول, الأول</td><td>أول, اول</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>أول, أولاً, اولا, اول, أولا, اولاً</td><td>الاول, الأول</td><td>أول, اول</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td>الأولى</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>الاولى, الأولى</td><td>أولى, اولى</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>أول, اول</td><td>الاول, الأول</td><td>أول, اول</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>الاوائل, الأول</td><td>أوائل, اوائل</td><td>الأولى</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>الأول, الاوائل</td><td>اوائل, أوائل</td><td>الأولى</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>أولى, اولى</td><td>الاولى, الأولى</td><td>أولى</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>الاوليين</td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>الاوليات</td><td></td><td></td></tr>
@@ -81,7 +81,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 <table>
   <tr><th>Paradigm <i>ثَلَاثَة</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Red</tt></th><th><tt>Com</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td>ثلاثة</td><td>الثلاثـــــة, الثلاثة</td><td>ثلاثة</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td>ثلاثة</td><td>الثلاثة, الثلاثـــــة</td><td>ثلاثة</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem</tt></td><td>ثلاثا</td><td>الثلاث</td><td>ثلاث</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc</tt></td><td>ثلاثة</td><td>الثلاثة</td><td>ثلاثة</td><td>الثلاثة</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem</tt></td><td>ثلاث</td><td>الثلاث</td><td>ثلاث</td><td></td></tr>

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1402 nodes (1%) are attached to their parents as `nsubjpass`.
+1369 nodes (1%) are attached to their parents as `nsubjpass`.
 
-1365 instances of `nsubjpass` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.84022824536377.
+1332 instances of `nsubjpass` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.85098612125639.
 
-The following 11 pairs of parts of speech are connected with `nsubjpass`: [en-pos/VERB]()-[en-pos/NOUN]() (713; 51% instances), [en-pos/VERB]()-[en-pos/PRON]() (521; 37% instances), [en-pos/VERB]()-[en-pos/PROPN]() (112; 8% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (12; 1% instances), [en-pos/VERB]()-[en-pos/DET]() (12; 1% instances), [en-pos/VERB]()-[en-pos/ADJ]() (10; 1% instances), [en-pos/ADJ]()-[en-pos/PRON]() (7; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (5; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (4; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (3; 0% instances).
+The following 11 pairs of parts of speech are connected with `nsubjpass`: [en-pos/VERB]()-[en-pos/NOUN]() (680; 50% instances), [en-pos/VERB]()-[en-pos/PRON]() (527; 38% instances), [en-pos/VERB]()-[en-pos/PROPN]() (107; 8% instances), [en-pos/VERB]()-[en-pos/DET]() (12; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (11; 1% instances), [en-pos/VERB]()-[en-pos/ADJ]() (9; 1% instances), [en-pos/ADJ]()-[en-pos/PRON]() (8; 1% instances), [en-pos/VERB]()-[en-pos/SYM]() (5; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (4; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (3; 0% instances).
 
 
 ~~~ conllu
@@ -84,7 +84,7 @@ This relation is universal.
 412 instances of `nsubjpass` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.13012048192771.
 
-The following 11 pairs of parts of speech are connected with `nsubjpass`: [en-pos/VERB]()-[en-pos/NOUN]() (195; 47% instances), [en-pos/VERB]()-[en-pos/PRON]() (149; 36% instances), [en-pos/VERB]()-[en-pos/DET]() (46; 11% instances), [en-pos/VERB]()-[en-pos/PROPN]() (11; 3% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (4; 1% instances), [en-pos/ADJ]()-[en-pos/PRON]() (3; 1% instances), [en-pos/VERB]()-[en-pos/ADJ]() (3; 1% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `nsubjpass`: [en-pos/VERB]()-[en-pos/NOUN]() (192; 46% instances), [en-pos/VERB]()-[en-pos/PRON]() (166; 40% instances), [en-pos/VERB]()-[en-pos/DET]() (32; 8% instances), [en-pos/VERB]()-[en-pos/PROPN]() (11; 3% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (4; 1% instances), [en-pos/ADJ]()-[en-pos/PRON]() (3; 1% instances), [en-pos/VERB]()-[en-pos/ADJ]() (3; 1% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -120,34 +120,6 @@ The following 11 pairs of parts of speech are connected with `nsubjpass`: [en-po
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 10 nsubjpass	color:blue
-1	_	_	ADV	RB	_	17	advmod	_	_
-2	_	_	ADP	IN	_	3	case	_	_
-3	_	_	DET	DT	_	1	nmod	_	_
-4	_	_	PUNCT	,	_	17	punct	_	_
-5	_	_	DET	DT	_	6	det	_	_
-6	_	_	NOUN	NN	_	17	nsubj	_	_
-7	_	_	ADP	IN	_	8	case	_	_
-8	_	_	NOUN	NN	_	6	nmod	_	_
-9	_	_	DET	WDT	_	13	nmod	_	_
-10	_	_	PRON	PRP	_	13	nsubjpass	_	_
-11	_	_	AUX	VBP	_	13	aux	_	_
-12	_	_	AUX	VBN	_	13	auxpass	_	_
-13	_	_	VERB	VBN	_	8	acl:relcl	_	_
-14	_	_	ADP	IN	_	9	case	_	_
-15	_	_	VERB	VBZ	_	17	cop	_	_
-16	_	_	PROPN	NNP	_	17	compound	_	_
-17	_	_	PROPN	NNP	_	0	root	_	_
-18	_	_	PUNCT	.	_	17	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 11	bgColor:blue
@@ -160,7 +132,7 @@ The following 11 pairs of parts of speech are connected with `nsubjpass`: [en-po
 5	_	_	NOUN	NNS	_	2	nmod	_	_
 6	_	_	PUNCT	,	_	5	punct	_	_
 7	_	_	NOUN	NN	_	5	conj	_	_
-8	_	_	DET	WDT	_	11	nsubjpass	_	_
+8	_	_	PRON	WDT	_	11	nsubjpass	_	_
 9	_	_	AUX	VBD	_	11	auxpass	_	_
 10	_	_	ADV	RB	_	11	advmod	_	_
 11	_	_	VERB	VBN	_	7	acl:relcl	_	_
@@ -169,7 +141,7 @@ The following 11 pairs of parts of speech are connected with `nsubjpass`: [en-po
 14	_	_	PRON	PRP	_	15	nsubj	_	_
 15	_	_	VERB	VBD	_	2	conj	_	_
 16	_	_	ADP	IN	_	17	case	_	_
-17	_	_	NOUN	NN	_	15	nmod	_	_
+17	_	_	PRON	NN	_	15	nmod	_	_
 18	_	_	PRON	WP	_	21	iobj	_	_
 19	_	_	PRON	PRP	_	21	nsubj	_	_
 20	_	_	AUX	MD	_	21	aux	_	_
@@ -178,6 +150,37 @@ The following 11 pairs of parts of speech are connected with `nsubjpass`: [en-po
 23	_	_	ADJ	JJ	_	24	amod	_	_
 24	_	_	NOUN	NNS	_	21	dobj	_	_
 25	_	_	PUNCT	.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 14 nsubjpass	color:blue
+1	_	_	ADV	RB	_	5	advmod	_	_
+2	_	_	PRON	PRP	_	5	nsubj	_	_
+3	_	_	AUX	MD	_	5	aux	_	_
+4	_	_	VERB	VB	_	5	cop	_	_
+5	_	_	ADJ	JJ	_	0	root	_	_
+6	_	_	SCONJ	IN	_	10	mark	_	_
+7	_	_	PRON	PRP	_	10	nsubj	_	_
+8	_	_	AUX	MD	_	10	aux	_	_
+9	_	_	VERB	VB	_	10	cop	_	_
+10	_	_	VERB	VBD	_	5	advcl	_	_
+11	_	_	ADP	IN	_	13	case	_	_
+12	_	_	NOUN	NN	_	13	compound	_	_
+13	_	_	NOUN	NN	_	10	nmod	_	_
+14	_	_	DET	WDT	_	17	nsubjpass	_	_
+15	_	_	AUX	VBZ	_	17	aux	_	_
+16	_	_	AUX	VBN	_	17	auxpass	_	_
+17	_	_	VERB	VBN	_	13	acl:relcl	_	_
+18	_	_	ADP	IN	_	20	case	_	_
+19	_	_	ADJ	JJ	_	20	amod	_	_
+20	_	_	NOUN	NN	_	17	nmod	_	_
+21	_	_	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

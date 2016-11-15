@@ -11,9 +11,9 @@ The 10 most frequent `ADP` lemmas: <em>van, in, te, op, voor, met, aan, door, bi
 
 The 10 most frequent `ADP` types:  <em>van, in, te, op, voor, met, aan, door, bij, naar</em>
 
-The 10 most frequent ambiguous lemmas: <em>van</em> ([ADP]() 5616, [X]() 384, [PROPN]() 200, [ADV]() 88), <em>in</em> ([ADP]() 4447, [ADV]() 103, [NOUN]() 2, [X]() 1, [PROPN]() 1), <em>te</em> ([ADP]() 1878, [ADV]() 117, [X]() 46), <em>op</em> ([ADP]() 1586, [ADV]() 196, [X]() 154, [PROPN]() 3, [SCONJ]() 1, [ADJ]() 1), <em>voor</em> ([ADP]() 1429, [ADV]() 122, [X]() 102, [PROPN]() 24, [SCONJ]() 4, [ADJ]() 2, [VERB]() 1, [NOUN]() 1), <em>met</em> ([ADP]() 1403, [X]() 86, [ADV]() 4), <em>aan</em> ([ADP]() 842, [ADV]() 174, [X]() 72, [PROPN]() 5), <em>door</em> ([ADP]() 753, [ADV]() 43, [SCONJ]() 28, [X]() 13, [PROPN]() 1), <em>bij</em> ([ADP]() 680, [ADV]() 46, [X]() 20, [PROPN]() 1, [NOUN]() 1), <em>naar</em> ([ADP]() 532, [X]() 25, [ADV]() 13, [SCONJ]() 3, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>van</em> ([ADP]() 5616, [X]() 384, [PROPN]() 200, [ADV]() 88), <em>in</em> ([ADP]() 4447, [ADV]() 103, [NOUN]() 2, [X]() 1, [PROPN]() 1), <em>te</em> ([ADP]() 1878, [ADV]() 117, [X]() 46), <em>op</em> ([ADP]() 1586, [ADV]() 196, [X]() 154, [PROPN]() 3, [ADJ]() 1, [SCONJ]() 1), <em>voor</em> ([ADP]() 1429, [ADV]() 122, [X]() 102, [PROPN]() 24, [SCONJ]() 4, [ADJ]() 2, [NOUN]() 1, [VERB]() 1), <em>met</em> ([ADP]() 1403, [X]() 86, [ADV]() 4), <em>aan</em> ([ADP]() 842, [ADV]() 174, [X]() 72, [PROPN]() 5), <em>door</em> ([ADP]() 753, [ADV]() 43, [SCONJ]() 28, [X]() 13, [PROPN]() 1), <em>bij</em> ([ADP]() 680, [ADV]() 46, [X]() 20, [NOUN]() 1, [PROPN]() 1), <em>naar</em> ([ADP]() 532, [X]() 25, [ADV]() 13, [SCONJ]() 3, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>van</em> ([ADP]() 5516, [X]() 384, [PROPN]() 199, [ADV]() 87), <em>in</em> ([ADP]() 3898, [ADV]() 103, [PROPN]() 1), <em>te</em> ([ADP]() 1868, [ADV]() 117, [X]() 46), <em>op</em> ([ADP]() 1444, [ADV]() 196, [X]() 152, [PROPN]() 3), <em>voor</em> ([ADP]() 1301, [ADV]() 121, [X]() 102, [PROPN]() 24, [SCONJ]() 4), <em>met</em> ([ADP]() 1295, [X]() 86), <em>aan</em> ([ADP]() 795, [ADV]() 174, [X]() 72, [PROPN]() 5), <em>door</em> ([ADP]() 717, [ADV]() 43, [SCONJ]() 28, [X]() 13, [PROPN]() 1), <em>bij</em> ([ADP]() 566, [ADV]() 46, [X]() 19, [NOUN]() 1, [PROPN]() 1), <em>naar</em> ([ADP]() 517, [X]() 25, [ADV]() 13, [SCONJ]() 2)
+The 10 most frequent ambiguous types:  <em>van</em> ([ADP]() 5516, [X]() 384, [PROPN]() 199, [ADV]() 87), <em>in</em> ([ADP]() 3898, [ADV]() 103, [PROPN]() 1), <em>te</em> ([ADP]() 1868, [ADV]() 117, [X]() 46), <em>op</em> ([ADP]() 1444, [ADV]() 196, [X]() 152, [PROPN]() 3), <em>voor</em> ([ADP]() 1301, [ADV]() 121, [X]() 102, [PROPN]() 24, [SCONJ]() 4), <em>met</em> ([ADP]() 1295, [X]() 86), <em>aan</em> ([ADP]() 795, [ADV]() 174, [X]() 72, [PROPN]() 5), <em>door</em> ([ADP]() 717, [ADV]() 43, [SCONJ]() 28, [X]() 13, [PROPN]() 1), <em>bij</em> ([ADP]() 566, [ADV]() 46, [X]() 19, [PROPN]() 1, [NOUN]() 1), <em>naar</em> ([ADP]() 517, [X]() 25, [ADV]() 13, [SCONJ]() 2)
 
 
 * <em>van</em>
@@ -58,8 +58,8 @@ The 10 most frequent ambiguous types:  <em>van</em> ([ADP]() 5516, [X]() 384, [P
   * [ADP]() 566: <em>Beide landen zijn niet <b>bij</b> de Fifa aangesloten .</em>
   * [ADV]() 46: <em>Welke Russische president woonde de G7-top in Napels <b>bij</b> ?</em>
   * [X]() 19: <em>Daar is terugschrijven <b>bij</b> voorbaat overbodig .</em>
-  * [NOUN]() 1: <em>De <b>bij</b> is vijf eeuwen verbonden met de Betuwe .</em>
   * [PROPN]() 1: <em>Welke zoon van een koning werd in 1415 gevangengenomen in de Slag <b>bij</b> Azincourt ?</em>
+  * [NOUN]() 1: <em>De <b>bij</b> is vijf eeuwen verbonden met de Betuwe .</em>
 * <em>naar</em>
   * [ADP]() 517: <em>Ono komt in de zomer <b>naar</b> Rotterdam .</em>
   * [X]() 25: <em>ik denk dat het belangrijk is dat u zo'n punt van zorg <b>naar</b> voren brengt</em>
@@ -118,7 +118,7 @@ The 10 most frequent `ADP` lemmas: <em>van, in, op, met, voor, door, aan, tot, b
 
 The 10 most frequent `ADP` types:  <em>van, in, op, met, voor, door, aan, tot, bij, naar</em>
 
-The 10 most frequent ambiguous lemmas: <em>van</em> ([ADP]() 3140, [PROPN]() 101), <em>in</em> ([ADP]() 2408, [PART]() 30, [PROPN]() 1, [X]() 1), <em>op</em> ([ADP]() 706, [PART]() 82, [PROPN]() 1), <em>voor</em> ([ADP]() 584, [PART]() 11, [PROPN]() 2), <em>door</em> ([ADP]() 419, [PART]() 45), <em>aan</em> ([ADP]() 338, [PART]() 49), <em>tot</em> ([ADP]() 295, [PART]() 5), <em>bij</em> ([ADP]() 246, [PART]() 5), <em>naar</em> ([ADP]() 246, [PART]() 2), <em>uit</em> ([ADP]() 236, [PART]() 77)
+The 10 most frequent ambiguous lemmas: <em>van</em> ([ADP]() 3140, [PROPN]() 101), <em>in</em> ([ADP]() 2408, [PART]() 30, [X]() 1, [PROPN]() 1), <em>op</em> ([ADP]() 706, [PART]() 82, [PROPN]() 1), <em>voor</em> ([ADP]() 584, [PART]() 11, [PROPN]() 2), <em>door</em> ([ADP]() 419, [PART]() 45), <em>aan</em> ([ADP]() 338, [PART]() 49), <em>tot</em> ([ADP]() 295, [PART]() 5), <em>bij</em> ([ADP]() 246, [PART]() 5), <em>naar</em> ([ADP]() 246, [PART]() 2), <em>uit</em> ([ADP]() 236, [PART]() 77)
 
 The 10 most frequent ambiguous types:  <em>van</em> ([ADP]() 3101, [PROPN]() 101), <em>in</em> ([ADP]() 1979, [PART]() 30, [X]() 1, [PROPN]() 1), <em>op</em> ([ADP]() 586, [PART]() 81, [PROPN]() 1), <em>voor</em> ([ADP]() 548, [PART]() 11, [PROPN]() 2), <em>door</em> ([ADP]() 379, [PART]() 43), <em>aan</em> ([ADP]() 320, [PART]() 49), <em>tot</em> ([ADP]() 280, [PART]() 5), <em>bij</em> ([ADP]() 206, [PART]() 5), <em>naar</em> ([ADP]() 239, [PART]() 2), <em>uit</em> ([ADP]() 224, [PART]() 77)
 

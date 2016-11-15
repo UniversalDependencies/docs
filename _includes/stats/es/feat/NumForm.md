@@ -57,8 +57,8 @@ The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>SYM --[<a href="../dep/conj.html">conj</a>]--> SYM</tt> (14; 100%),
 <tt>NUM --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (13; 93%),
 <tt>NUM --[<a href="../dep/nmod.html">nmod</a>]--> NUM</tt> (4; 100%),
-<tt>SYM --[<a href="../dep/nmod.html">nmod</a>]--> SYM</tt> (3; 100%),
-<tt>SYM --[<a href="../dep/appos.html">appos</a>]--> SYM</tt> (3; 100%),
 <tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (3; 60%),
+<tt>SYM --[<a href="../dep/appos.html">appos</a>]--> SYM</tt> (3; 100%),
+<tt>SYM --[<a href="../dep/nmod.html">nmod</a>]--> SYM</tt> (3; 100%),
 <tt>NUM --[<a href="../dep/advmod.html">advmod</a>]--> NUM</tt> (2; 100%).
 

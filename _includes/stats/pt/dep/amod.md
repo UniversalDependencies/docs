@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-8702 nodes (4%) are attached to their parents as `amod`.
+8779 nodes (4%) are attached to their parents as `amod`.
 
-6156 instances of `amod` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25132153527925.
+6233 instances of `amod` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25185100808748.
 
-The following 11 pairs of parts of speech are connected with `amod`: [pt-pos/NOUN]()-[pt-pos/ADJ]() (8351; 96% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (203; 2% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (59; 1% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (25; 0% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (19; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (14; 0% instances), [pt-pos/SYM]()-[pt-pos/ADJ]() (13; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (11; 0% instances), [pt-pos/ADP]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `amod`: [pt-pos/NOUN]()-[pt-pos/ADJ]() (8350; 95% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (278; 3% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (61; 1% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (25; 0% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (19; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (15; 0% instances), [pt-pos/SYM]()-[pt-pos/ADJ]() (13; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (11; 0% instances), [pt-pos/ADP]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,6 +65,73 @@ The following 11 pairs of parts of speech are connected with `amod`: [pt-pos/NOU
 6	de	de	ADP	prp	AdpType=Prep	7	mark	_	_
 7	esperar	esperar	VERB	v-inf	VerbForm=Inf	5	xcomp	_	_
 8	.	.	PUNCT	punc	_	5	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+8949 nodes (4%) are attached to their parents as `amod`.
+
+6316 instances of `amod` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.28316012962342.
+
+The following 11 pairs of parts of speech are connected with `amod`: [pt-pos/NOUN]()-[pt-pos/ADJ]() (8548; 96% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (211; 2% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (80; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (68; 1% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (10; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (9; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (6; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (5; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (5; 0% instances), [pt-pos/SYM]()-[pt-pos/ADJ]() (5; 0% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (2; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 amod	color:blue
+1	«	«	PUNCT	PU|@PU	_	4	punct	_	_
+2	Será	ser	VERB	<mv>|V|FUT|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+3	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	movimento	movimento	NOUN	<np-idf>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	_
+5	nacionalista	nacionalista	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	4	amod	_	_
+6	independente	independente	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	4	amod	_	_
+7	.	.	PUNCT	PU|@PU	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 amod	color:blue
+1	Sommeliers	Sommeliers	PROPN	PROP|M|S|@SUBJ>	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	paulistas	paulista	ADJ	ADJ|M|P|@N<	Gender=Masc|Number=Plur	1	amod	_	_
+3	se	se	PRON	PERS|M|3P|ACC|@ACC>-PASS	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	dobj	_	_
+4	superam	superar	VERB	<mv>|<se-passive>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	em	em	ADP	PRP|@<ADVL	_	6	case	_	_
+6	evento	evento	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	4	nmod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 amod	color:blue
+1	O	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	jovem	jovem	ADJ	<n>|<np-def>|ADJ|M|S|@SUBJ>	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	sportinguista	sportinguista	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	2	amod	_	_
+4	Nélson	Nélson	PROPN	PROP|M|S|@N<	Gender=Masc|Number=Sing	2	nmod:npmod	_	_
+5	terá	ter	AUX	<aux>|V|FUT|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+6	de	de	ADP	PRP|@PRT-AUX<	_	7	nmod	_	_
+7	esperar	esperar	VERB	<mv>|V|INF|@ICL-AUX<	VerbForm=Inf	0	root	_	_
+8	.	.	PUNCT	PU|@PU	_	7	punct	_	_
 
 ~~~
 

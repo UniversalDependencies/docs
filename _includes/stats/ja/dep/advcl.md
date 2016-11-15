@@ -2,6 +2,85 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+2239 nodes (2%) are attached to their parents as `advcl`.
+
+2238 instances of `advcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.54622599374721.
+
+The following 23 pairs of parts of speech are connected with `advcl`: [ja-pos/VERB]()-[ja-pos/VERB]() (1005; 45% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (541; 24% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (208; 9% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (131; 6% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (110; 5% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (93; 4% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (59; 3% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (31; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (17; 1% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (13; 1% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (7; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (4; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (3; 0% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (3; 0% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (3; 0% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (2; 0% instances), [ja-pos/PRON]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 6 advcl	color:blue
+1	同僚教師の	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
+2	すみれと	_	NOUN	NOUN-CONJ	_	6	nmod	_	_
+3	彩は	_	NOUN	NOUN-PRT	_	2	conj	_	_
+4	そんな	_	ADJ	ADJ	_	5	amod	_	_
+5	夕子と	_	NOUN	NOUN-POSTP	_	6	nmod	_	_
+6	意気投合し	_	VERB	VERB	_	13	advcl	_	_
+7	、	_	PUNCT	.	_	6	punct	_	_
+8	問題を	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	解決する	_	VERB	VERB-AUX	_	10	ccomp	_	_
+10	ため	_	NOUN	NOUN	_	6	conj	_	_
+11	行動を	_	NOUN	NOUN-PRT	_	13	nmod	_	_
+12	共に	_	NOUN	NOUN-POSTP	_	13	nmod	_	_
+13	する。	_	VERB	VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 2 advcl	color:blue
+1	ほとんどは	_	NOUN	NOUN-PRT	_	2	nmod	_	_
+2	浅海生だが	_	NOUN	NOUN-VERB-AUX-CONJ	_	9	advcl	_	_
+3	、	_	PUNCT	.	_	2	punct	_	_
+4	水深	_	NOUN	NOUN	_	6	nmod	_	_
+5	数百mほどの	_	NOUN	NOUN-POSTP	_	4	name	_	_
+6	深海まで	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
+7	生息する	_	VERB	VERB-AUX	_	8	acl:relcl	_	_
+8	ものも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+9	いる。	_	VERB	VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 advcl	color:blue
+1	通信教育で	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
+2	挫折したので	_	VERB	VERB-AUX-CONJ	_	5	advcl	_	_
+3	資格まで	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
+4	とれるのか	_	VERB	VERB-AUX-AUX-NOUN-PRT	_	5	ccomp	_	_
+5	心配でしたが	_	NOUN	NOUN-VERB-AUX-CONJ	_	0	root	_	_
+6	、	_	PUNCT	.	_	5	punct	_	_
+7	無事	_	NOUN	NOUN	_	8	advmod	_	_
+8	合格し	_	VERB	VERB	_	5	conj	_	_
+9	、	_	PUNCT	.	_	8	punct	_	_
+10	仕事も	_	NOUN	NOUN-POSTP	_	11	nmod	_	_
+11	決まりました！	_	VERB	VERB-AUX	_	5	conj	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

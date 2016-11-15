@@ -30,37 +30,6 @@ The following 3 pairs of parts of speech are connected with `ccomp`: [grc-pos/VE
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 20 ccomp	color:blue
-1	Ἀργεῖοι	Ἀργεῖος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
-2	μὲν	μέν	ADV	d--------	_	5	advmod	_	_
-3	γὰρ	γάρ	ADV	d--------	_	5	advmod	_	_
-4	περιστάντες	περιίστημι	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	advmod	_	_
-5	ἐμακάριζον	μακαρίζω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-6	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	det	_	_
-7	νεηνιέων	νεανίης	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
-8	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
-9	ῥώμην	ῥώμη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	dobj	_	_
-10	,	,	PUNCT	u--------	_	5	punct	_	_
-11	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	13	det	_	_
-12	δὲ	δέ	CONJ	c--------	_	5	cc	_	_
-13	Ἀργεῖαι	Ἀργεῖα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	Ellipsis=conj
-14	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	det	_	_
-15	μητέρα	μήτηρ	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	dobj	_	_
-16	αὐτῶν	αὐτός	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
-17	,	,	PUNCT	u--------	_	20	punct	_	_
-18	οἵων	οἷος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	19	amod	_	_
-19	τέκνων	τέκνον	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	20	dobj	_	_
-20	ἐκύρησε	κυρέω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	13	ccomp	_	_
-21	·	·	PUNCT	u--------	_	20	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 37	bgColor:blue
 # visual-style 37	fgColor:white
 # visual-style 32	bgColor:blue
@@ -104,6 +73,37 @@ The following 3 pairs of parts of speech are connected with `ccomp`: [grc-pos/VE
 36	ἐναντία	ἐναντίος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	37	dobj	_	_
 37	προειλήφεισαν	προλαμβάνω	VERB	v3plia---	Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	32	ccomp	_	Ellipsis=advmod
 38	.	.	PUNCT	u--------	_	37	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 20 ccomp	color:blue
+1	Ἀργεῖοι	Ἀργεῖος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+2	μὲν	μέν	ADV	d--------	_	5	advmod	_	_
+3	γὰρ	γάρ	ADV	d--------	_	5	advmod	_	_
+4	περιστάντες	περιίστημι	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	advmod	_	_
+5	ἐμακάριζον	μακαρίζω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	det	_	_
+7	νεηνιέων	νεανίης	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+8	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
+9	ῥώμην	ῥώμη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	dobj	_	_
+10	,	,	PUNCT	u--------	_	5	punct	_	_
+11	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	13	det	_	_
+12	δὲ	δέ	CONJ	c--------	_	5	cc	_	_
+13	Ἀργεῖαι	Ἀργεῖα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	Ellipsis=conj
+14	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	det	_	_
+15	μητέρα	μήτηρ	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	dobj	_	_
+16	αὐτῶν	αὐτός	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+17	,	,	PUNCT	u--------	_	20	punct	_	_
+18	οἵων	οἷος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	19	amod	_	_
+19	τέκνων	τέκνον	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	20	dobj	_	_
+20	ἐκύρησε	κυρέω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	13	ccomp	_	_
+21	·	·	PUNCT	u--------	_	20	punct	_	_
 
 ~~~
 

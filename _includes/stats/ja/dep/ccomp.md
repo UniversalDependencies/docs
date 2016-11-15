@@ -2,6 +2,82 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+2835 nodes (3%) are attached to their parents as `ccomp`.
+
+2832 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.70617283950617.
+
+The following 17 pairs of parts of speech are connected with `ccomp`: [ja-pos/NOUN]()-[ja-pos/VERB]() (1882; 66% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (478; 17% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (167; 6% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (118; 4% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (90; 3% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (80; 3% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (4; 0% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (4; 0% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/PART]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 ccomp	color:blue
+1	同僚教師の	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
+2	すみれと	_	NOUN	NOUN-CONJ	_	6	nmod	_	_
+3	彩は	_	NOUN	NOUN-PRT	_	2	conj	_	_
+4	そんな	_	ADJ	ADJ	_	5	amod	_	_
+5	夕子と	_	NOUN	NOUN-POSTP	_	6	nmod	_	_
+6	意気投合し	_	VERB	VERB	_	13	advcl	_	_
+7	、	_	PUNCT	.	_	6	punct	_	_
+8	問題を	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	解決する	_	VERB	VERB-AUX	_	10	ccomp	_	_
+10	ため	_	NOUN	NOUN	_	6	conj	_	_
+11	行動を	_	NOUN	NOUN-PRT	_	13	nmod	_	_
+12	共に	_	NOUN	NOUN-POSTP	_	13	nmod	_	_
+13	する。	_	VERB	VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 ccomp	color:blue
+1	晩年は	_	NOUN	NOUN-PRT	_	4	nmod	_	_
+2	霧ケ峰牧場で	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
+3	余生を	_	NOUN	NOUN-PRT	_	4	nmod	_	_
+4	過ごしたと	_	VERB	VERB-AUX-PRT	_	5	ccomp	_	_
+5	いわれている。	_	VERB	VERB-PASSIVE-AUX-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 ccomp	color:blue
+1	市政委員会が	_	NOUN	NOUN-PRT	_	8	nmod	_	_
+2	火薬は	_	NOUN	NOUN-PRT	_	4	nmod	_	_
+3	植民地の	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
+4	財産であり	_	NOUN	NOUN-VERB	_	8	ccomp	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	イギリス国王の	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
+7	ものではないと	_	NOUN	NOUN-POSTP-PRT-ADJ-AUX-PRT	_	4	conj	_	_
+8	主張して	_	VERB	VERB	_	0	root	_	_
+9	、	_	PUNCT	.	_	8	punct	_	_
+10	火薬の	_	NOUN	NOUN-POSTP	_	11	nmod	_	_
+11	返還を	_	NOUN	NOUN-PRT	_	12	nmod	_	_
+12	要求した。	_	VERB	VERB-AUX	_	8	conj	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

@@ -30,7 +30,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 184 [hu-pos/ADJ]() tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (184; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (184; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (184; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (183; 99%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (112; 61%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (112; 61%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (112; 61%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (184; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (184; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (184; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (183; 99%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (112; 61%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (112; 61%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (112; 61%).
 
 `ADJ` tokens may have the following values of `NumType`:
 

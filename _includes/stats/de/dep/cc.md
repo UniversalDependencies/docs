@@ -20,16 +20,16 @@ The following 32 pairs of parts of speech are connected with `cc`: [de-pos/NOUN]
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 cc	color:blue
-1	Spaß	_	NOUN	_	_	0	root	_	_
-2	,	_	PUNCT	_	_	1	punct	_	_
-3	Unterhaltung	_	NOUN	_	_	1	conj	_	_
-4	,	_	PUNCT	_	_	1	punct	_	_
-5	gutes	_	ADJ	_	_	6	amod	_	_
-6	Bier	_	NOUN	_	_	1	conj	_	_
-7	und	_	CONJ	_	_	1	cc	_	_
-8	gutes	_	ADJ	_	_	9	amod	_	_
-9	Essen	_	NOUN	_	_	1	conj	_	_
-10	.	_	PUNCT	_	_	1	punct	_	_
+1	Spaß	Spaß	NOUN	NN	_	0	root	_	_
+2	,	,	PUNCT	$,	_	1	punct	_	_
+3	Unterhaltung	Unterhaltung	NOUN	NN	_	1	conj	_	_
+4	,	,	PUNCT	$,	_	1	punct	_	_
+5	gutes	gut	ADJ	ADJA	Degree=Pos	6	amod	_	_
+6	Bier	Bier	NOUN	NN	_	1	conj	_	_
+7	und	und	CONJ	KON	_	1	cc	_	_
+8	gutes	gut	ADJ	ADJA	Degree=Pos	9	amod	_	_
+9	Essen	Essen	NOUN	NN	_	1	conj	_	_
+10	.	.	PUNCT	$.	_	1	punct	_	_
 
 ~~~
 
@@ -40,17 +40,17 @@ The following 32 pairs of parts of speech are connected with `cc`: [de-pos/NOUN]
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 cc	color:blue
-1	Wurde	_	AUX	_	_	8	auxpass	_	_
-2	sehr	_	ADV	_	_	3	advmod	_	_
-3	gut	_	ADV	_	_	8	advmod	_	_
-4	von	_	ADP	_	_	6	case	_	_
-5	der	_	DET	_	_	6	det	_	_
-6	Kanzlei	_	NOUN	_	_	8	nmod	_	_
-7	Singewald	_	PROPN	_	_	6	appos	_	_
-8	verteitigt	_	VERB	_	_	0	root	_	_
-9	und	_	CONJ	_	_	8	cc	_	_
-10	gewonnen	_	VERB	_	_	8	conj	_	_
-11	.	_	PUNCT	_	_	8	punct	_	_
+1	Wurde	werden	AUX	VAFIN	Mood=Ind|Tense=Past|VerbForm=Fin	8	auxpass	_	_
+2	sehr	sehr	ADV	ADV	_	3	advmod	_	_
+3	gut	gut	ADV	ADJD	_	8	advmod	_	_
+4	von	von	ADP	APPR	_	6	case	_	_
+5	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Kanzlei	Kanzlei	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	8	nmod	_	_
+7	Singewald	Singewald	PROPN	NN	_	6	appos	_	_
+8	verteitigt	verteitigt	VERB	VVFIN	VerbForm=Fin	0	root	_	_
+9	und	und	CONJ	KON	_	8	cc	_	_
+10	gewonnen	gewinnen	VERB	VVPP	VerbForm=Part	8	conj	_	_
+11	.	.	PUNCT	$.	_	8	punct	_	_
 
 ~~~
 
@@ -61,11 +61,11 @@ The following 32 pairs of parts of speech are connected with `cc`: [de-pos/NOUN]
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 cc	color:blue
-1	Liebe	_	ADJ	_	_	2	amod	_	_
-2	Grüße	_	NOUN	_	_	0	root	_	_
-3	Lutz	_	PROPN	_	_	2	appos	_	_
-4	und	_	CONJ	_	_	3	cc	_	_
-5	Heike	_	PROPN	_	_	3	conj	_	_
+1	Liebe	lieb	ADJ	ADJA	Degree=Pos	2	amod	_	_
+2	Grüße	Gruß	NOUN	NN	_	0	root	_	_
+3	Lutz	Lutz	PROPN	NE	_	2	appos	_	_
+4	und	und	CONJ	KON	_	3	cc	_	_
+5	Heike	Heike	PROPN	NE	_	3	conj	_	_
 
 ~~~
 

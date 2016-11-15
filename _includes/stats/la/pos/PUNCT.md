@@ -13,14 +13,14 @@ The 10 most frequent `PUNCT` types:  <em>,, ., :, ;, ", ', ?, [, (, ]</em>
 
 The 10 most frequent ambiguous lemmas: <em>comma1</em> ([PUNCT]() 2926, [CONJ]() 18, [X]() 1), <em>hyphen1</em> ([PUNCT]() 4, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>,</em> ([PUNCT]() 3593, [CONJ]() 18, [NOUN]() 1, [X]() 1), <em>-</em> ([PUNCT]() 5, [X]() 1)
+The 10 most frequent ambiguous types:  <em>,</em> ([PUNCT]() 3593, [CONJ]() 18, [X]() 1, [NOUN]() 1), <em>-</em> ([PUNCT]() 5, [X]() 1)
 
 
 * <em>,</em>
   * [PUNCT]() 3593: <em>Curris <b>,</b> stupes <b>,</b> satagis <b>,</b> tanquam mus in matella</em>
   * [CONJ]() 18: <em>lana , credrae , piper <b>,</b> lacte gallinaceum si quaesieris , invenies</em>
-  * [NOUN]() 1: <em>Natus est Augustus M. Tullio Cicerone <b>,</b> C. Antonio conss. VIIII . Kal. Octob. paulo ante solis exortum , regione Palati ad Capita bubula , ubi nunc sacrarium habet , aliquanto post quam excessit constitutum .</em>
   * [X]() 1: <em>paene de lectis deiecti sumus <b>,</b> adeo totum triclinium familia occupaverat</em>
+  * [NOUN]() 1: <em>Natus est Augustus M. Tullio Cicerone <b>,</b> C. Antonio conss. VIIII . Kal. Octob. paulo ante solis exortum , regione Palati ad Capita bubula , ubi nunc sacrarium habet , aliquanto post quam excessit constitutum .</em>
 * <em>-</em>
   * [PUNCT]() 5: <em><b>-</b> potes que nam omnia , c ne te nequiquam lucis Hecate praefecit Avernis</em>
   * [X]() 1: <em>Notavimus etiam circa angulos repositorii Marsyas quattuor , ex quorum utriculis garum <b>-</b> piperatum currebat super pisces , qui tanquam in euripo natabant</em>

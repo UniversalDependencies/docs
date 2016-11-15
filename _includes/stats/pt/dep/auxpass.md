@@ -69,10 +69,10 @@ The following 2 pairs of parts of speech are connected with `auxpass`: [pt-pos/V
 30	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
 31	unificação	unificação	NOUN	n|F|S	Gender=Fem|Number=Sing	28	nmod	_	_
 32	,	,	PUNCT	punc	_	24	punct	_	_
-33	que	que	PRON	pron-indp|<rel>|F|S	Gender=Fem|Number=Sing|PronType=Rel	34	nsubj	_	_
-34	está	estar	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	acl	_	_
+33	que	que	PRON	pron-indp|<rel>|F|S	Gender=Fem|Number=Sing|PronType=Rel	36	nsubj	_	_
+34	está	estar	AUX	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	aux	_	_
 35	a	a	ADP	prp	AdpType=Prep	36	mark	_	_
-36	afectar	afectar	AUX	v-inf	VerbForm=Inf	34	aux	_	_
+36	afectar	afectar	VERB	v-inf	VerbForm=Inf	24	acl	_	_
 37	a	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	_	_
 38	Alemanha	Alemanha	PROPN	prop|F|S	Gender=Fem|Number=Sing	36	dobj	_	_
 39	e	e	CONJ	conj-c|<co-vfin>	_	36	cc	_	_
@@ -145,6 +145,40 @@ The following 2 pairs of parts of speech are connected with `auxpass`: [pt-pos/V
 106	a	o	DET	art|<artd>|<-sam>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	107	det	_	_
 107	mesa	mesa	NOUN	n|F|S	Gender=Fem|Number=Sing	102	nmod	_	_
 108	.	.	PUNCT	punc	_	58	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+1125 nodes (0%) are attached to their parents as `auxpass`.
+
+1125 instances of `auxpass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08177777777778.
+
+The following 1 pairs of parts of speech are connected with `auxpass`: [pt-pos/VERB]()-[pt-pos/AUX]() (1125; 100% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 auxpass	color:blue
+1	São	ser	AUX	<aux>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	auxpass	_	_
+2	esperados	esperar	VERB	<pass>|<mv>|V|PCP|M|P|@ICL-AUX<	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
+3	cerca	cerca	ADV	ADV|@>N	_	7	advmod	_	MWE:cerca=de
+4	de	de	ADP	<prp>|PRP|@A<	_	3	case	_	_
+5	60	60	NUM	<card>|NUM|M|P|@>N	_	7	nummod	_	_
+6	mil	mil	NUM	<card>|NUM|M|P|@>N	_	7	nummod	_	_
+7	visitantes	visitante	NOUN	<np-def>|N|M|P|@<SUBJ	Gender=Masc|Number=Plur	2	nsubj	_	_
+8	.	.	PUNCT	PU|@PU	_	2	punct	_	_
 
 ~~~
 

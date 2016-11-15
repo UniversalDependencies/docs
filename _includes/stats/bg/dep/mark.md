@@ -9,9 +9,9 @@ This relation is universal.
 1838 nodes (1%) are attached to their parents as `mark`.
 
 1838 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.45538628944505.
+Average distance between parent and child is 3.45810663764962.
 
-The following 16 pairs of parts of speech are connected with `mark`: [bg-pos/VERB]()-[bg-pos/SCONJ]() (1298; 71% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (256; 14% instances), [bg-pos/NOUN]()-[bg-pos/SCONJ]() (88; 5% instances), [bg-pos/ADJ]()-[bg-pos/SCONJ]() (76; 4% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (60; 3% instances), [bg-pos/ADV]()-[bg-pos/SCONJ]() (29; 2% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (7; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (5; 0% instances), [bg-pos/PRON]()-[bg-pos/SCONJ]() (5; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (4; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADP]() (3; 0% instances), [bg-pos/PROPN]()-[bg-pos/SCONJ]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/CONJ]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADP]() (1; 0% instances), [bg-pos/ADJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `mark`: [bg-pos/VERB]()-[bg-pos/SCONJ]() (1294; 70% instances), [bg-pos/VERB]()-[bg-pos/ADP]() (256; 14% instances), [bg-pos/NOUN]()-[bg-pos/SCONJ]() (89; 5% instances), [bg-pos/ADJ]()-[bg-pos/SCONJ]() (79; 4% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (60; 3% instances), [bg-pos/ADV]()-[bg-pos/SCONJ]() (29; 2% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (7; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (5; 0% instances), [bg-pos/PRON]()-[bg-pos/SCONJ]() (5; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (4; 0% instances), [bg-pos/NOUN]()-[bg-pos/ADP]() (3; 0% instances), [bg-pos/PROPN]()-[bg-pos/SCONJ]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/CONJ]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADP]() (1; 0% instances), [bg-pos/ADJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [ta-pos/VERB]() (1155; 12% insta
 
 1155 [ta-pos/VERB]() tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (1155; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1019; 88%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1013; 88%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (840; 73%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (750; 65%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (731; 63%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (719; 62%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (719; 62%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (1155; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1019; 88%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1013; 88%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (840; 73%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (750; 65%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (731; 63%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (719; 62%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (719; 62%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -51,6 +51,6 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<a href="../dep/compound.html">compound</a>]--> VERB</tt> (11; 100%),
 <tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (5; 100%),
 <tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (4; 100%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (2; 67%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> AUX</tt> (2; 100%).
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (2; 67%).
 

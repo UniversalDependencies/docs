@@ -7,23 +7,23 @@
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-33961 tokens (13%) have a non-empty value of `VerbForm`.
-8173 types (31%) occur at least once with a non-empty value of `VerbForm`.
-2149 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: [it-pos/VERB]() (26502; 10% instances), [it-pos/AUX]() (7458; 3% instances), [it-pos/NOUN]() (1; 0% instances).
+36695 tokens (13%) have a non-empty value of `VerbForm`.
+8418 types (31%) occur at least once with a non-empty value of `VerbForm`.
+2185 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: [it-pos/VERB]() (28612; 10% instances), [it-pos/AUX]() (8082; 3% instances), [it-pos/NOUN]() (1; 0% instances).
 
 ### `VERB`
 
-26502 [it-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+28612 [it-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (18421; 70%), <tt><a href="Number.html">Number</a>=Sing</tt> (15206; 57%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (14330; 54%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (14329; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (20059; 70%), <tt><a href="Number.html">Number</a>=Sing</tt> (16110; 56%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (15350; 54%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (15349; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (12173; 46% of non-empty `VerbForm`): <em>è, sono, ha, era, trova, hanno, fa, sia, fu, chiama</em>
-* `Ger` (697; 3% of non-empty `VerbForm`): <em>considerando, facendo, essendo, portando, cercando, lasciando, seguendo, dando, parlando, passando</em>
-* `Inf` (5185; 20% of non-empty `VerbForm`): <em>essere, far, fare, vedere, dire, avere, dare, chiedere, pagare, andare</em>
-* `Part` (8447; 32% of non-empty `VerbForm`): <em>fatto, visto, stato, stata, tenuto, avuto, detto, dato, messo, chiamato</em>
+* `Fin` (13264; 46% of non-empty `VerbForm`): <em>è, sono, ha, era, hanno, trova, fa, chiama, sia, fu</em>
+* `Ger` (706; 2% of non-empty `VerbForm`): <em>considerando, facendo, essendo, portando, cercando, lasciando, seguendo, tenendo, dando, parlando</em>
+* `Inf` (5724; 20% of non-empty `VerbForm`): <em>essere, fare, far, vedere, avere, dire, dare, chiedere, andare, pagare</em>
+* `Part` (8918; 31% of non-empty `VerbForm`): <em>fatto, stato, visto, vinto, stata, avuto, tenuto, detto, nato, dato</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -65,16 +65,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-7458 [it-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+8082 [it-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (5962; 80%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5644; 76%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5478; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (4977; 67%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (6489; 80%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6237; 77%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (6034; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (5291; 65%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (6412; 86% of non-empty `VerbForm`): <em>è, ha, sono, può, hanno, deve, possono, era, viene, aveva</em>
+* `Fin` (7006; 87% of non-empty `VerbForm`): <em>è, ha, sono, può, hanno, deve, possono, era, viene, aveva</em>
 * `Ger` (10; 0% of non-empty `VerbForm`): <em>essendo, avendo, dovendo, potendo, volendo</em>
-* `Inf` (477; 6% of non-empty `VerbForm`): <em>essere, aver, poter, esser, dover, avere, voler, venire</em>
-* `Part` (559; 7% of non-empty `VerbForm`): <em>stato, stata, stati, state, dovuto, potuto, voluto, andato, potuta, andata</em>
+* `Inf` (490; 6% of non-empty `VerbForm`): <em>essere, aver, poter, esser, dover, avere, voler, venire, far</em>
+* `Part` (576; 7% of non-empty `VerbForm`): <em>stato, stata, stati, state, potuto, dovuto, voluto, andato, potuta, andata</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -117,13 +117,13 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>previsto</em>
-* `EMPTY` (53650): <em>anni, presidente, parte, fondo, diritto, legge, proprietario, anno, caso, art.</em>
+* `EMPTY` (58056): <em>anni, presidente, parte, fondo, diritto, anno, legge, persone, città, proprietario</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1628; 78%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (117; 55%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1847; 79%),
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (120; 56%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (3; 100%),
 <tt>VERB --[<a href="../dep/nsubjpass.html">nsubjpass</a>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%).

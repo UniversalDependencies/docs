@@ -5,13 +5,14 @@
 ## Treebank Statistics (UD_Italian)
 
 This relation is a language-specific subtype of [expl]().
+There are also 1 other language-specific subtypes of `expl`: [expl:pass]().
 
-635 nodes (0%) are attached to their parents as `expl:impers`.
+420 nodes (0%) are attached to their parents as `expl:impers`.
 
-634 instances of `expl:impers` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.37007874015748.
+395 instances of `expl:impers` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4547619047619.
 
-The following 3 pairs of parts of speech are connected with `expl:impers`: [it-pos/VERB]()-[it-pos/PRON]() (629; 99% instances), [it-pos/AUX]()-[it-pos/PRON]() (5; 1% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl:impers`: [it-pos/VERB]()-[it-pos/PRON]() (413; 98% instances), [it-pos/AUX]()-[it-pos/PRON]() (5; 1% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances), [it-pos/ADP]()-[it-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: [it-p
 4	che	che	PRON	PR	PronType=Rel	7	dobj	_	_
 5	ci	ci	PRON	PC	PronType=Clit	7	expl	_	_
 6	si	si	PRON	PC	Person=3|PronType=Clit	7	expl:impers	_	_
-7	attendeva	attendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+7	attendeva	attendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
 8	:	:	PUNCT	FC	_	3	punct	_	_
 
 ~~~
@@ -47,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: [it-p
 7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
 8	Chester	Chester	PROPN	SP	_	4	nmod	_	_
 9	Beatty	Beatty	PROPN	SP	_	8	name	_	SpaceAfter=No
-10	"	"	PUNCT	FB	_	8	punct	_	_
+10	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
 11	?	?	PUNCT	FS	_	4	punct	_	_
 
 ~~~
@@ -75,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: [it-p
 14	a	a	ADP	E	_	17	case	_	_
 15	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 16	sola	solo	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
-17	parola	parola	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+17	parola	parola	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	10	punct	_	_
 
 ~~~

@@ -235,7 +235,7 @@ The most frequent other feature values with which `AUX` and `Negative` co-occurr
 
 1101 [cs-pos/PRON]() tokens (2% of all `PRON` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `PRON` and `Negative` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1101; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (1101; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1101; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1101; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1015; 92%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (608; 55%), <tt><a href="Case.html">Case</a>=Nom</tt> (555; 50%).
+The most frequent other feature values with which `PRON` and `Negative` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1101; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1101; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (1101; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1101; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1015; 92%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (608; 55%), <tt><a href="Case.html">Case</a>=Nom</tt> (555; 50%).
 
 `PRON` tokens may have the following values of `Negative`:
 
@@ -246,7 +246,7 @@ The most frequent other feature values with which `PRON` and `Negative` co-occur
 
 745 [cs-pos/DET]() tokens (3% of all `DET` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `DET` and `Negative` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (745; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (745; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (745; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (745; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (745; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (745; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (537; 72%).
+The most frequent other feature values with which `DET` and `Negative` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (745; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (745; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (745; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (745; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (745; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (745; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (537; 72%).
 
 `DET` tokens may have the following values of `Negative`:
 
@@ -551,7 +551,7 @@ The most frequent other feature values with which `AUX` and `Negative` co-occurr
 
 184 [cs-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `PRON` and `Negative` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (184; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (184; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (184; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (184; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (171; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (116; 63%).
+The most frequent other feature values with which `PRON` and `Negative` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (184; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (184; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (184; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (184; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (171; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (116; 63%).
 
 `PRON` tokens may have the following values of `Negative`:
 
@@ -562,7 +562,7 @@ The most frequent other feature values with which `PRON` and `Negative` co-occur
 
 121 [cs-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `DET` and `Negative` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (121; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (121; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (121; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (121; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (121; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (121; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (100; 83%).
+The most frequent other feature values with which `DET` and `Negative` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (121; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (121; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (121; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (121; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (121; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (121; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (100; 83%).
 
 `DET` tokens may have the following values of `Negative`:
 
@@ -667,7 +667,7 @@ The most frequent other feature values with which `ADJ` and `Negative` co-occurr
 
 2517 [cs-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2133; 85%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1930; 77%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1806; 72%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1806; 72%), <tt><a href="Person.html">Person</a>=3</tt> (1806; 72%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1803; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1335; 53%).
+The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2133; 85%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1930; 77%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1806; 72%), <tt><a href="Person.html">Person</a>=3</tt> (1806; 72%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1806; 72%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1803; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1335; 53%).
 
 `VERB` tokens may have the following values of `Negative`:
 
@@ -709,7 +709,7 @@ The most frequent other feature values with which `ADV` and `Negative` co-occurr
 
 144 [cs-pos/AUX]() tokens (85% of all `AUX` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `AUX` and `Negative` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (119; 83%), <tt><a href="Voice.html">Voice</a>=Act</tt> (109; 76%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (93; 65%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (86; 60%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (86; 60%).
+The most frequent other feature values with which `AUX` and `Negative` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (119; 83%), <tt><a href="Voice.html">Voice</a>=Act</tt> (109; 76%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (93; 65%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (86; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (86; 60%).
 
 `AUX` tokens may have the following values of `Negative`:
 
@@ -734,7 +734,7 @@ The most frequent other feature values with which `AUX` and `Negative` co-occurr
 
 4 [cs-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `PRON` and `Negative` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (4; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%).
+The most frequent other feature values with which `PRON` and `Negative` co-occurred: <tt><a href="PronType.html">PronType</a>=Neg</tt> (4; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4; 100%).
 
 `PRON` tokens may have the following values of `Negative`:
 
@@ -745,7 +745,7 @@ The most frequent other feature values with which `PRON` and `Negative` co-occur
 
 2 [cs-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `DET` and `Negative` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (2; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Negative` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Neg</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (2; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Negative`:
 

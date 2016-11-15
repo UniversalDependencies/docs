@@ -70,40 +70,30 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: [ga-
 
 
 ~~~ conllu
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 26 27 compound:prt	color:blue
-1	den	de	ADP	Art	Number=Sing|PronType=Art	0	root	_	_
-2	Chonradh	conradh	NOUN	Noun	Case=Com|Form=Len|Gender=Masc|Number=Sing	1	nmod	_	_
-3	seo	seo	DET	Det	PronType=Dem	2	det	_	_
-4	,	,	PUNCT	Punct	_	5	punct	_	_
-5	de_réir	de_réir	ADP	Cmpd	PrepForm=Cmpd	1	conj	_	_
-6	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
-7	réimse	réimse	NOUN	Noun	Case=Gen|Form=Len|Gender=Masc|Number=Sing	5	nmod	_	_
-8	i	i	ADP	Simp	_	9	case	_	_
-9	dtrácht	trácht	NOUN	Noun	Case=Com|Form=Ecl|Gender=Masc|Number=Sing	7	nmod	_	_
-10	,	,	PUNCT	Punct	_	11	punct	_	_
-11	agus	agus	CONJ	Coord	_	1	cc	_	_
-12	go	go	PART	Vb	PartType=Cmpl	13	mark:prt	_	_
-13	bhfuil	bí	VERB	PresInd	Form=Ecl|Mood=Ind|Tense=Pres	1	conj	_	_
-14	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	13	nsubj	_	_
-15	údaraithe	údaraithe	ADJ	Adj	VerbForm=Part	13	xcomp:pred	_	_
-16	ag	ag	ADP	Simp	_	18	case	_	_
-17	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
-18	gComhairle	comhairle	NOUN	Noun	Case=Com|Form=Ecl|Gender=Fem|Number=Sing	15	nmod	_	_
-19	i	i	ADP	Simp	_	20	case	_	_
-20	gcomhréir	comhréir	NOUN	Noun	Case=Com|Form=Ecl|Gender=Fem|Number=Sing	15	nmod	_	_
-21	leis	le	ADP	Simp	_	23	case	_	_
-22	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
-23	nósanna	nós	NOUN	Noun	Case=Com|Definite=Def|Gender=Masc|Number=Plur	20	nmod	_	_
-24	imeachta	imeacht	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	23	compound	_	_
-25	atá	bí	VERB	PresInd	Mood=Ind|PronType=Rel|Tense=Pres	23	acl:relcl	_	_
-26	leagtha	leagtha	ADJ	Adj	VerbForm=Part	25	xcomp:pred	_	_
-27	síos	síos	ADV	Dir	_	26	compound:prt	_	_
-28	iontu	i	ADP	Prep	Number=Plur|Person=3	26	nmod:prep	_	_
-29	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 13 compound:prt	color:blue
+1	Leis	le	ADP	Simp	_	3	case	_	_
+2	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	modh	modh	NOUN	Noun	Case=Com|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
+4	reacaireachta	reacaireacht	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	3	compound	_	_
+5	a	a	PART	Vb	PartType=Vb|PronType=Rel	6	dobj	_	_
+6	úsáidtear	úsáid	VERB	VT	Mood=Ind|Tense=Pres|Voice=Auto	3	acl:relcl	_	_
+7	san	i	ADP	Art	Number=Sing|PronType=Art	8	case	_	_
+8	insint	insint	NOUN	Noun	Case=Com|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
+9	cuirtear	cuir	VERB	VTI	Mood=Ind|Tense=Pres|Voice=Auto	0	root	_	_
+10	imeachtaí	imeacht	NOUN	Noun	Case=Com|Gender=Masc|Number=Plur	9	dobj	_	_
+11	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	scéil	scéal	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	compound	_	_
+13	i_láthair	i_láthair	ADP	Cmpd	PrepForm=Cmpd	9	compound:prt	_	_
+14	tré	tré	ADP	Simp	_	15	case	_	_
+15	shúile	súil	NOUN	Noun	Case=Com|Form=Len|Gender=Fem|Number=Plur	9	nmod	_	_
+16	Mhairéid	Mhairéid	PROPN	Noun	Case=Com|Gender=Masc|Number=Sing	15	compound	_	_
+17	cuid	cuid	NOUN	Noun	Case=Com|Gender=Fem|Number=Sing	9	advmod	_	_
+18	mhaith	maith	ADJ	Adj	Case=Com|Form=Len|Gender=Fem|Number=Sing	17	amod	_	_
+19	.	.	PUNCT	.	_	9	punct	_	_
 
 ~~~
 

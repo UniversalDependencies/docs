@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  在、 於、 中、 與、 後、 時、 上
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 34043, [VERB]() 20468, [PUNCT]() 17047, [PART]() 13172, [PROPN]() 10741, [NUM]() 6659, [ADV]() 5749, [ADP]() 5424, [ADJ]() 3032, [PRON]() 1776, [CONJ]() 1740, [DET]() 1297, [X]() 1209, [AUX]() 889, [SYM]() 37)
 
-The 10 most frequent ambiguous types:  在 ([ADP]() 1059, [VERB]() 557, [ADV]() 28), 於 ([VERB]() 497, [ADP]() 398), 中 ([ADP]() 380, [NOUN]() 47, [PROPN]() 42, [VERB]() 4, [PART]() 3), 與 ([CONJ]() 243, [ADP]() 242), 後 ([ADP]() 241, [ADV]() 22, [NOUN]() 4, [DET]() 3, [PART]() 1), 時 ([ADP]() 225, [NOUN]() 26), 上 ([ADP]() 219, [NOUN]() 72, [VERB]() 7, [DET]() 2, [ADV]() 1), 對 ([ADP]() 194, [VERB]() 4, [NOUN]() 4, [ADJ]() 2, [PART]() 1), 因 ([ADP]() 150, [PART]() 3), 從 ([ADP]() 138, [ADV]() 2)
+The 10 most frequent ambiguous types:  在 ([ADP]() 1059, [VERB]() 557, [ADV]() 28), 於 ([VERB]() 497, [ADP]() 398), 中 ([ADP]() 380, [NOUN]() 47, [PROPN]() 42, [VERB]() 4, [PART]() 3), 與 ([CONJ]() 243, [ADP]() 242), 後 ([ADP]() 241, [ADV]() 22, [NOUN]() 4, [DET]() 3, [PART]() 1), 時 ([ADP]() 225, [NOUN]() 26), 上 ([ADP]() 219, [NOUN]() 72, [VERB]() 7, [DET]() 2, [ADV]() 1), 對 ([ADP]() 194, [NOUN]() 4, [VERB]() 4, [ADJ]() 2, [PART]() 1), 因 ([ADP]() 150, [PART]() 3), 從 ([ADP]() 138, [ADV]() 2)
 
 
 * 在
@@ -49,8 +49,8 @@ The 10 most frequent ambiguous types:  在 ([ADP]() 1059, [VERB]() 557, [ADV]() 
   * [ADV]() 1: 光 在 東京 就 有 <b>上</b> 千 家 佛朗明哥 舞蹈 學校 .
 * 對
   * [ADP]() 194: 理察 在 小 時候 就 <b>對</b> 音樂 很 有 興趣 , 並且 被 培養 為 鋼琴 奇才 .
-  * [VERB]() 4: 1985 年 , 以色列 內閣 專門 召開 會議 研究 <b>對</b> 華 政策 .
   * [NOUN]() 4: 身體 細長 而 扁平 , 白色 或 黃色 , 沒有 眼睛 , 尾部 具有 一 <b>對</b> 尾須 或 尾鋏 , 觸角 長 , 如 念珠 狀 .
+  * [VERB]() 4: 1985 年 , 以色列 內閣 專門 召開 會議 研究 <b>對</b> 華 政策 .
   * [ADJ]() 2: 客觀 型 可 分 為 <b>對</b> / 錯 題 、 多 選 題 、 配對 題 等 .
   * [PART]() 1: 假使 暗 物質 是 馬約拉那 粒子 , 則 兩 個 暗 物質 對撞 會 湮滅 產生 伽馬 射線 或 正負粒子 <b>對</b> .
 * 因

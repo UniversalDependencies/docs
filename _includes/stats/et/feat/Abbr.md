@@ -50,7 +50,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 79 [et-pos/SYM]() tokens (75% of all `SYM` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `SYM` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (75; 95%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (75; 95%).
+The most frequent other feature values with which `SYM` and `Abbr` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (75; 95%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (75; 95%).
 
 `SYM` tokens may have the following values of `Abbr`:
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `SYM` and `Abbr` co-occurred: 
 
 41 [et-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (41; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (41; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (41; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (41; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (41; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (41; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (41; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (41; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (41; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (41; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (41; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (41; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 37 [et-pos/X]() tokens (41% of all `X` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (37; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (36; 97%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (36; 97%).
+The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (37; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (36; 97%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (36; 97%).
 
 `X` tokens may have the following values of `Abbr`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 
 12 [et-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (12; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (12; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (12; 100%), <tt><a href="Mood.html">Mood</a>=Imp</tt> (12; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (12; 100%).
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (12; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (12; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (12; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12; 100%), <tt><a href="Mood.html">Mood</a>=Imp</tt> (12; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (12; 100%).
 
 `VERB` tokens may have the following values of `Abbr`:
 

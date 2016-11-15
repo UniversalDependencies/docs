@@ -4,60 +4,60 @@
 
 ## Treebank Statistics (UD_English)
 
-There are 2119 `VERB` lemmas (11%), 3942 `VERB` types (17%) and 34078 `VERB` tokens (13%).
+There are 2094 `VERB` lemmas (11%), 3898 `VERB` types (17%) and 33470 `VERB` tokens (13%).
 Out of 17 observed tags, the rank of `VERB` is: 4 in number of lemmas, 3 in number of types and 2 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>be, have, go, get, do, know, say, make, take, want</em>
 
 The 10 most frequent `VERB` types:  <em>is, was, have, are, be, get, know, had, 's, go</em>
 
-The 10 most frequent ambiguous lemmas: <em>be</em> ([VERB]() 6553, [AUX]() 2939, [NOUN]() 2, [X]() 1), <em>have</em> ([VERB]() 1668, [AUX]() 1568), <em>go</em> ([VERB]() 752, [NOUN]() 3, [PROPN]() 1), <em>get</em> ([VERB]() 744, [AUX]() 41), <em>do</em> ([AUX]() 1135, [VERB]() 669, [NOUN]() 2, [ADP]() 1, [ADV]() 1, [PROPN]() 1), <em>know</em> ([VERB]() 548, [NOUN]() 1, [ADV]() 1), <em>say</em> ([VERB]() 544, [INTJ]() 4), <em>take</em> ([VERB]() 483, [NOUN]() 8), <em>see</em> ([VERB]() 371, [NOUN]() 1), <em>use</em> ([VERB]() 347, [NOUN]() 23, [ADJ]() 1, [PRON]() 1)
+The 10 most frequent ambiguous lemmas: <em>be</em> ([VERB]() 6479, [AUX]() 2882, [NOUN]() 1, [X]() 1), <em>have</em> ([VERB]() 1645, [AUX]() 1529), <em>go</em> ([VERB]() 745, [NOUN]() 3, [PROPN]() 1), <em>get</em> ([VERB]() 743, [AUX]() 40), <em>do</em> ([AUX]() 1119, [VERB]() 663, [NOUN]() 2, [ADV]() 1, [PROPN]() 1), <em>know</em> ([VERB]() 538, [NOUN]() 1, [ADV]() 1), <em>say</em> ([VERB]() 537, [INTJ]() 4), <em>take</em> ([VERB]() 467, [NOUN]() 8), <em>see</em> ([VERB]() 367, [NOUN]() 1), <em>use</em> ([VERB]() 337, [NOUN]() 23, [PRON]() 1, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>is</em> ([VERB]() 2213, [AUX]() 527, [PRON]() 1, [ADV]() 1), <em>was</em> ([VERB]() 962, [AUX]() 505), <em>have</em> ([VERB]() 938, [AUX]() 720), <em>are</em> ([VERB]() 906, [AUX]() 459), <em>be</em> ([VERB]() 854, [AUX]() 507, [NOUN]() 2, [X]() 1), <em>get</em> ([VERB]() 462, [AUX]() 21), <em>know</em> ([VERB]() 443, [ADV]() 1, [NOUN]() 1), <em>had</em> ([VERB]() 399, [AUX]() 183), <em>'s</em> ([PART]() 699, [VERB]() 392, [AUX]() 71, [PRON]() 15), <em>go</em> ([VERB]() 330, [NOUN]() 3, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>is</em> ([VERB]() 2188, [AUX]() 520, [PRON]() 1, [ADV]() 1), <em>was</em> ([VERB]() 945, [AUX]() 493), <em>have</em> ([VERB]() 923, [AUX]() 709), <em>are</em> ([VERB]() 895, [AUX]() 449), <em>be</em> ([VERB]() 848, [AUX]() 498, [NOUN]() 1, [X]() 1), <em>get</em> ([VERB]() 461, [AUX]() 21), <em>know</em> ([VERB]() 434, [ADV]() 1, [NOUN]() 1), <em>had</em> ([VERB]() 394, [AUX]() 176), <em>'s</em> ([PART]() 657, [VERB]() 390, [AUX]() 71, [PRON]() 14), <em>go</em> ([VERB]() 327, [NOUN]() 3, [PROPN]() 1)
 
 
 * <em>is</em>
-  * [VERB]() 2213: <em>The hottest item on Christmas wish lists this year <b>is</b> nuclear weapons .</em>
-  * [AUX]() 527: <em>It <b>is</b> rumored that North Korea has at least a couple nuclear weapons .</em>
+  * [VERB]() 2188: <em>The hottest item on Christmas wish lists this year <b>is</b> nuclear weapons .</em>
+  * [AUX]() 520: <em>It <b>is</b> rumored that North Korea has at least a couple nuclear weapons .</em>
   * [PRON]() 1: <em>You do n't think <b>is</b> was because of female nudes considering the nearly naked girls / women seen at pools and beaches and the completely naked manikins that show up in store windows in malls during changes in display ?</em>
   * [ADV]() 1: <em>Then the need to be mature , that <b>is</b> , old enough , and big enough to breed .</em>
 * <em>was</em>
-  * [VERB]() 962: <em>In Ramadi , there <b>was</b> a big demonstration .</em>
-  * [AUX]() 505: <em>The hymn <b>was</b> sung at my first inaugural church service as governor .</em>
+  * [VERB]() 945: <em>In Ramadi , there <b>was</b> a big demonstration .</em>
+  * [AUX]() 493: <em>The hymn <b>was</b> sung at my first inaugural church service as governor .</em>
 * <em>have</em>
-  * [VERB]() 938: <em>I <b>have</b> .</em>
-  * [AUX]() 720: <em>I really <b>have</b> n't thought about writing a book .</em>
+  * [VERB]() 923: <em>I <b>have</b> .</em>
+  * [AUX]() 709: <em>I really <b>have</b> n't thought about writing a book .</em>
 * <em>are</em>
-  * [VERB]() 906: <em>Laura and I <b>are</b> Methodists .</em>
-  * [AUX]() 459: <em>max and jen <b>are</b> looking for you .</em>
+  * [VERB]() 895: <em>Laura and I <b>are</b> Methodists .</em>
+  * [AUX]() 449: <em>max and jen <b>are</b> looking for you .</em>
 * <em>be</em>
-  * [VERB]() 854: <em>Right now that seems to <b>be</b> the US , EU , and IAEA .</em>
-  * [AUX]() 507: <em>Adobe Acrobat Reader 4.0 may <b>be</b> downloaded for FREE from www.adobe.com .</em>
-  * [NOUN]() 2: <em>Talked to the little mother - to - <b>be</b> .</em>
+  * [VERB]() 848: <em>Right now that seems to <b>be</b> the US , EU , and IAEA .</em>
+  * [AUX]() 498: <em>Adobe Acrobat Reader 4.0 may <b>be</b> downloaded for FREE from www.adobe.com .</em>
+  * [NOUN]() 1: <em>Talked to the little mother - to - <b>be</b> .</em>
   * [X]() 1: <em>Anthony Shadid of the Washington Post reveals that the warrants for the arrests had been issued months <b>be</b> for .</em>
 * <em>get</em>
-  * [VERB]() 462: <em>And what do we <b>get</b> for this effort ?</em>
+  * [VERB]() 461: <em>And what do we <b>get</b> for this effort ?</em>
   * [AUX]() 21: <em>And do you <b>get</b> charged for it ?</em>
 * <em>know</em>
-  * [VERB]() 443: <em>That 's overstating it , I <b>know</b> .</em>
+  * [VERB]() 434: <em>That 's overstating it , I <b>know</b> .</em>
   * [ADV]() 1: <em>If you are looking for authentic British meat pies , then look <b>know</b> further .</em>
   * [NOUN]() 1: <em>Soldiers with vital training and <b>know</b> - how are refusing to re-enlist .</em>
 * <em>had</em>
-  * [VERB]() 399: <em>When they saw a cartoon of their prophet , people <b>had</b> to die .</em>
-  * [AUX]() 183: <em>It <b>had</b> been eating dog food the whole time .</em>
+  * [VERB]() 394: <em>When they saw a cartoon of their prophet , people <b>had</b> to die .</em>
+  * [AUX]() 176: <em>It <b>had</b> been eating dog food the whole time .</em>
 * <em>'s</em>
-  * [PART]() 699: <em>I was thinking Kenneally <b>'s</b> at around 5 .</em>
-  * [VERB]() 392: <em>Read the entire article ; there <b>'s</b> a punchline , too .</em>
+  * [PART]() 657: <em>I was thinking Kenneally <b>'s</b> at around 5 .</em>
+  * [VERB]() 390: <em>Read the entire article ; there <b>'s</b> a punchline , too .</em>
   * [AUX]() 71: <em>So he <b>'s</b> got a -- I 'm a decision - maker and I can make good decisions .</em>
-  * [PRON]() 15: <em>let <b>'s</b> discuss next time we have amstel lights together .</em>
+  * [PRON]() 14: <em>let <b>'s</b> discuss next time we have amstel lights together .</em>
 * <em>go</em>
-  * [VERB]() 330: <em>i have to <b>go</b> to butt - fucking mississippi .</em>
+  * [VERB]() 327: <em>i have to <b>go</b> to butt - fucking mississippi .</em>
   * [NOUN]() 3: <em>They phoned the same day , confirmed it was the gearbox quoted me the job , I gave the <b>go</b> ahead .</em>
   * [PROPN]() 1: <em>I would recommend <b>go</b> launcher or adw launcher .</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.860311 (the average of all parts of speech is 1.173797).
+The form / lemma ratio of `VERB` is 1.861509 (the average of all parts of speech is 1.173735).
 
 The 1st highest number of forms (16) was observed with the lemma “be”: <em>'m, 're, 's, ai, am, are, be, been, being, is, m, r, re, s, was, were</em>.
 
@@ -65,34 +65,34 @@ The 2nd highest number of forms (6) was observed with the lemma “bear”: <em>
 
 The 3rd highest number of forms (6) was observed with the lemma “know”: <em>knew, know, knowing, known, knows, no</em>.
 
-`VERB` occurs with 6 features: [en-feat/VerbForm]() (34072; 100% instances), [en-feat/Tense]() (20271; 59% instances), [en-feat/Mood]() (15990; 47% instances), [en-feat/Number]() (5697; 17% instances), [en-feat/Person]() (5680; 17% instances), [en-feat/Voice]() (1394; 4% instances)
+`VERB` occurs with 6 features: [en-feat/VerbForm]() (33464; 100% instances), [en-feat/Tense]() (19860; 59% instances), [en-feat/Mood]() (15751; 47% instances), [en-feat/Number]() (5633; 17% instances), [en-feat/Person]() (5616; 17% instances), [en-feat/Voice]() (1356; 4% instances)
 
 `VERB` occurs with 13 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Pass`
 
 `VERB` occurs with 15 feature combinations.
-The most frequent feature combination is `VerbForm=Inf` (9474 tokens).
+The most frequent feature combination is `VerbForm=Inf` (9345 tokens).
 Examples: <em>be, have, get, know, do, go, make, take, see, like</em>
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 32 different relations: [en-dep/root]() (9352; 27% instances), [en-dep/cop]() (5603; 16% instances), [en-dep/advcl]() (3883; 11% instances), [en-dep/conj]() (3662; 11% instances), [en-dep/xcomp]() (2591; 8% instances), [en-dep/ccomp]() (2290; 7% instances), [en-dep/acl:relcl]() (2122; 6% instances), [en-dep/acl]() (1741; 5% instances), [en-dep/parataxis]() (1132; 3% instances), [en-dep/amod]() (812; 2% instances), [en-dep/csubj]() (320; 1% instances), [en-dep/case]() (214; 1% instances), [en-dep/appos]() (75; 0% instances), [en-dep/compound]() (57; 0% instances), [en-dep/auxpass]() (48; 0% instances), [en-dep/aux]() (39; 0% instances), [en-dep/dobj]() (21; 0% instances), [en-dep/list]() (17; 0% instances), [en-dep/mwe]() (14; 0% instances), [en-dep/nmod]() (13; 0% instances), [en-dep/nsubj]() (13; 0% instances), [en-dep/discourse]() (12; 0% instances), [en-dep/advmod]() (11; 0% instances), [en-dep/mark]() (11; 0% instances), [en-dep/remnant]() (7; 0% instances), [en-dep/reparandum]() (6; 0% instances), [en-dep/csubjpass]() (5; 0% instances), [en-dep/cc]() (2; 0% instances), [en-dep/nmod:npmod]() (2; 0% instances), [en-dep/compound:prt]() (1; 0% instances), [en-dep/dep]() (1; 0% instances), [en-dep/name]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 32 different relations: [en-dep/root]() (9285; 28% instances), [en-dep/cop]() (5541; 17% instances), [en-dep/advcl]() (3808; 11% instances), [en-dep/conj]() (3630; 11% instances), [en-dep/xcomp]() (2554; 8% instances), [en-dep/ccomp]() (2248; 7% instances), [en-dep/acl:relcl]() (1953; 6% instances), [en-dep/acl]() (1668; 5% instances), [en-dep/parataxis]() (1121; 3% instances), [en-dep/amod]() (783; 2% instances), [en-dep/csubj]() (320; 1% instances), [en-dep/case]() (205; 1% instances), [en-dep/appos]() (74; 0% instances), [en-dep/compound]() (56; 0% instances), [en-dep/auxpass]() (48; 0% instances), [en-dep/aux]() (39; 0% instances), [en-dep/dobj]() (21; 0% instances), [en-dep/list]() (17; 0% instances), [en-dep/mwe]() (14; 0% instances), [en-dep/nmod]() (13; 0% instances), [en-dep/nsubj]() (13; 0% instances), [en-dep/discourse]() (12; 0% instances), [en-dep/advmod]() (11; 0% instances), [en-dep/mark]() (11; 0% instances), [en-dep/remnant]() (7; 0% instances), [en-dep/reparandum]() (6; 0% instances), [en-dep/csubjpass]() (5; 0% instances), [en-dep/cc]() (2; 0% instances), [en-dep/nmod:npmod]() (2; 0% instances), [en-dep/compound:prt]() (1; 0% instances), [en-dep/dep]() (1; 0% instances), [en-dep/name]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 17 different parts of speech: [VERB]() (11305; 33% instances), [ROOT]() (9352; 27% instances), [NOUN]() (7162; 21% instances), [ADJ]() (4502; 13% instances), [ADV]() (507; 1% instances), [PROPN]() (497; 1% instances), [PRON]() (382; 1% instances), [NUM]() (165; 0% instances), [DET]() (91; 0% instances), [SYM]() (40; 0% instances), [ADP]() (23; 0% instances), [AUX]() (23; 0% instances), [X]() (13; 0% instances), [PART]() (6; 0% instances), [SCONJ]() (5; 0% instances), [INTJ]() (4; 0% instances), [CONJ]() (1; 0% instances)
+Parents of `VERB` nodes belong to 17 different parts of speech: [VERB]() (11140; 33% instances), [ROOT]() (9285; 28% instances), [NOUN]() (6699; 20% instances), [ADJ]() (4450; 13% instances), [PRON]() (550; 2% instances), [ADV]() (505; 2% instances), [PROPN]() (479; 1% instances), [NUM]() (163; 0% instances), [DET]() (87; 0% instances), [SYM]() (39; 0% instances), [ADP]() (23; 0% instances), [AUX]() (23; 0% instances), [X]() (13; 0% instances), [PART]() (6; 0% instances), [SCONJ]() (5; 0% instances), [INTJ]() (2; 0% instances), [CONJ]() (1; 0% instances)
 
-6964 (20%) `VERB` nodes are leaves.
+6864 (21%) `VERB` nodes are leaves.
 
-2921 (9%) `VERB` nodes have one child.
+2854 (9%) `VERB` nodes have one child.
 
-5533 (16%) `VERB` nodes have two children.
+5416 (16%) `VERB` nodes have two children.
 
-18660 (55%) `VERB` nodes have three or more children.
+18336 (55%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 19.
 
-Children of `VERB` nodes are attached using 42 different relations: [en-dep/nsubj]() (15291; 15% instances), [en-dep/punct]() (14951; 15% instances), [en-dep/dobj]() (12387; 12% instances), [en-dep/nmod]() (9469; 9% instances), [en-dep/mark]() (7826; 8% instances), [en-dep/aux]() (7278; 7% instances), [en-dep/advmod]() (6645; 7% instances), [en-dep/advcl]() (3548; 4% instances), [en-dep/conj]() (3474; 3% instances), [en-dep/cc]() (3414; 3% instances), [en-dep/xcomp]() (3308; 3% instances), [en-dep/ccomp]() (2756; 3% instances), [en-dep/neg]() (1661; 2% instances), [en-dep/auxpass]() (1612; 2% instances), [en-dep/nsubjpass]() (1377; 1% instances), [en-dep/parataxis]() (986; 1% instances), [en-dep/compound:prt]() (906; 1% instances), [en-dep/discourse]() (653; 1% instances), [en-dep/nmod:tmod]() (575; 1% instances), [en-dep/expl]() (556; 1% instances), [en-dep/iobj]() (462; 0% instances), [en-dep/nmod:npmod]() (218; 0% instances), [en-dep/csubj]() (125; 0% instances), [en-dep/compound]() (118; 0% instances), [en-dep/nummod]() (57; 0% instances), [en-dep/vocative]() (57; 0% instances), [en-dep/cop]() (39; 0% instances), [en-dep/appos]() (31; 0% instances), [en-dep/cc:preconj]() (27; 0% instances), [en-dep/mwe]() (26; 0% instances), [en-dep/reparandum]() (21; 0% instances), [en-dep/acl:relcl]() (20; 0% instances), [en-dep/list]() (17; 0% instances), [en-dep/det]() (15; 0% instances), [en-dep/amod]() (14; 0% instances), [en-dep/goeswith]() (12; 0% instances), [en-dep/remnant]() (9; 0% instances), [en-dep/acl]() (8; 0% instances), [en-dep/csubjpass]() (6; 0% instances), [en-dep/nmod:poss]() (3; 0% instances), [en-dep/dep]() (2; 0% instances), [en-dep/case]() (1; 0% instances)
+Children of `VERB` nodes are attached using 42 different relations: [en-dep/nsubj]() (15001; 15% instances), [en-dep/punct]() (14791; 15% instances), [en-dep/dobj]() (12164; 12% instances), [en-dep/nmod]() (9211; 9% instances), [en-dep/mark]() (7697; 8% instances), [en-dep/aux]() (7156; 7% instances), [en-dep/advmod]() (6563; 7% instances), [en-dep/advcl]() (3484; 4% instances), [en-dep/conj]() (3446; 4% instances), [en-dep/cc]() (3388; 3% instances), [en-dep/xcomp]() (3253; 3% instances), [en-dep/ccomp]() (2706; 3% instances), [en-dep/neg]() (1628; 2% instances), [en-dep/auxpass]() (1574; 2% instances), [en-dep/nsubjpass]() (1344; 1% instances), [en-dep/parataxis]() (977; 1% instances), [en-dep/compound:prt]() (896; 1% instances), [en-dep/discourse]() (651; 1% instances), [en-dep/nmod:tmod]() (568; 1% instances), [en-dep/expl]() (553; 1% instances), [en-dep/iobj]() (460; 0% instances), [en-dep/nmod:npmod]() (214; 0% instances), [en-dep/csubj]() (125; 0% instances), [en-dep/compound]() (117; 0% instances), [en-dep/nummod]() (57; 0% instances), [en-dep/vocative]() (57; 0% instances), [en-dep/cop]() (39; 0% instances), [en-dep/appos]() (31; 0% instances), [en-dep/cc:preconj]() (27; 0% instances), [en-dep/mwe]() (23; 0% instances), [en-dep/reparandum]() (21; 0% instances), [en-dep/acl:relcl]() (19; 0% instances), [en-dep/list]() (17; 0% instances), [en-dep/det]() (14; 0% instances), [en-dep/amod]() (13; 0% instances), [en-dep/goeswith]() (12; 0% instances), [en-dep/remnant]() (9; 0% instances), [en-dep/acl]() (8; 0% instances), [en-dep/csubjpass]() (6; 0% instances), [en-dep/nmod:poss]() (3; 0% instances), [en-dep/dep]() (2; 0% instances), [en-dep/case]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 17 different parts of speech: [NOUN]() (21037; 21% instances), [PUNCT]() (14951; 15% instances), [PRON]() (14899; 15% instances), [VERB]() (11305; 11% instances), [AUX]() (8889; 9% instances), [ADV]() (7439; 7% instances), [PART]() (5288; 5% instances), [PROPN]() (4230; 4% instances), [SCONJ]() (3583; 4% instances), [CONJ]() (3400; 3% instances), [ADJ]() (2088; 2% instances), [ADP]() (1231; 1% instances), [INTJ]() (574; 1% instances), [NUM]() (435; 0% instances), [DET]() (266; 0% instances), [SYM]() (197; 0% instances), [X]() (149; 0% instances)
+Children of `VERB` nodes belong to 17 different parts of speech: [NOUN]() (20108; 20% instances), [PRON]() (15202; 15% instances), [PUNCT]() (14791; 15% instances), [VERB]() (11140; 11% instances), [AUX]() (8729; 9% instances), [ADV]() (7339; 7% instances), [PART]() (5200; 5% instances), [PROPN]() (4063; 4% instances), [SCONJ]() (3524; 4% instances), [CONJ]() (3374; 3% instances), [ADJ]() (2057; 2% instances), [ADP]() (1216; 1% instances), [INTJ]() (572; 1% instances), [NUM]() (412; 0% instances), [DET]() (257; 0% instances), [SYM]() (193; 0% instances), [X]() (149; 0% instances)
 
 
 
@@ -107,16 +107,16 @@ The 10 most frequent `VERB` lemmas: <em>_</em>
 
 The 10 most frequent `VERB` types:  <em>_</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
-The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
 
 * <em>_</em>
-  * [NOUN]() 15986: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ <b>_</b> _</em>
+  * [NOUN]() 15635: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ _ _</em>
   * [VERB]() 15080: <em>_ <b>_</b> _ _ _ _ <b>_</b> _ _ _ _ <b>_</b> _ <b>_</b> _ _</em>
-  * [DET]() 10562: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
-  * [PRON]() 9758: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [PRON]() 10618: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _</em>
+  * [DET]() 10057: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
   * [PUNCT]() 9580: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b></em>
   * [ADP]() 8546: <em>_ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _</em>
   * [ADJ]() 5857: <em>_ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
@@ -124,7 +124,7 @@ The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 1508
   * [AUX]() 4533: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _</em>
   * [PART]() 3531: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _</em>
   * [CONJ]() 3198: <em>_ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
-  * [SCONJ]() 2520: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * [SCONJ]() 2516: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
   * [PROPN]() 1795: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _</em>
   * [NUM]() 844: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
   * [INTJ]() 80: <em>_ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
@@ -144,7 +144,7 @@ The 1st highest number of forms (1) was observed with the lemma “_”: <em>_</
 
 `VERB` nodes are attached to their parents using 30 different relations: [en-dep/root]() (3733; 25% instances), [en-dep/cop]() (2830; 19% instances), [en-dep/advcl]() (2058; 14% instances), [en-dep/xcomp]() (1906; 13% instances), [en-dep/conj]() (1603; 11% instances), [en-dep/ccomp]() (892; 6% instances), [en-dep/acl:relcl]() (828; 5% instances), [en-dep/acl]() (481; 3% instances), [en-dep/parataxis]() (343; 2% instances), [en-dep/csubj]() (205; 1% instances), [en-dep/case]() (53; 0% instances), [en-dep/amod]() (38; 0% instances), [en-dep/nmod]() (21; 0% instances), [en-dep/csubjpass]() (18; 0% instances), [en-dep/dobj]() (16; 0% instances), [en-dep/advmod]() (9; 0% instances), [en-dep/nsubj]() (9; 0% instances), [en-dep/discourse]() (8; 0% instances), [en-dep/list]() (6; 0% instances), [en-dep/compound]() (5; 0% instances), [en-dep/appos]() (4; 0% instances), [en-dep/reparandum]() (4; 0% instances), [en-dep/cc]() (2; 0% instances), [en-dep/mwe]() (2; 0% instances), [en-dep/aux]() (1; 0% instances), [en-dep/det]() (1; 0% instances), [en-dep/goeswith]() (1; 0% instances), [en-dep/mark]() (1; 0% instances), [en-dep/nsubjpass]() (1; 0% instances), [en-dep/remnant]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 15 different parts of speech: [VERB]() (5562; 37% instances), [ROOT]() (3733; 25% instances), [ADJ]() (2648; 18% instances), [NOUN]() (2609; 17% instances), [PROPN]() (144; 1% instances), [ADV]() (143; 1% instances), [PRON]() (90; 1% instances), [NUM]() (80; 1% instances), [DET]() (36; 0% instances), [AUX]() (16; 0% instances), [SYM]() (7; 0% instances), [ADP]() (6; 0% instances), [X]() (3; 0% instances), [PART]() (2; 0% instances), [INTJ]() (1; 0% instances)
+Parents of `VERB` nodes belong to 15 different parts of speech: [VERB]() (5562; 37% instances), [ROOT]() (3733; 25% instances), [ADJ]() (2648; 18% instances), [NOUN]() (2539; 17% instances), [PRON]() (173; 1% instances), [PROPN]() (144; 1% instances), [ADV]() (143; 1% instances), [NUM]() (80; 1% instances), [DET]() (23; 0% instances), [AUX]() (16; 0% instances), [SYM]() (7; 0% instances), [ADP]() (6; 0% instances), [X]() (3; 0% instances), [PART]() (2; 0% instances), [INTJ]() (1; 0% instances)
 
 3038 (20%) `VERB` nodes are leaves.
 
@@ -158,7 +158,7 @@ The highest child degree of a `VERB` node is 21.
 
 Children of `VERB` nodes are attached using 40 different relations: [en-dep/nsubj]() (7549; 17% instances), [en-dep/punct]() (6245; 14% instances), [en-dep/dobj]() (5324; 12% instances), [en-dep/mark]() (4365; 10% instances), [en-dep/nmod]() (4264; 9% instances), [en-dep/aux]() (3546; 8% instances), [en-dep/advmod]() (2835; 6% instances), [en-dep/xcomp]() (2125; 5% instances), [en-dep/advcl]() (1770; 4% instances), [en-dep/cc]() (1577; 3% instances), [en-dep/conj]() (1532; 3% instances), [en-dep/ccomp]() (1224; 3% instances), [en-dep/neg]() (739; 2% instances), [en-dep/auxpass]() (490; 1% instances), [en-dep/nsubjpass]() (405; 1% instances), [en-dep/expl]() (341; 1% instances), [en-dep/parataxis]() (308; 1% instances), [en-dep/nmod:tmod]() (239; 1% instances), [en-dep/iobj]() (206; 0% instances), [en-dep/compound:prt]() (193; 0% instances), [en-dep/nmod:npmod]() (71; 0% instances), [en-dep/discourse]() (66; 0% instances), [en-dep/det]() (48; 0% instances), [en-dep/csubj]() (38; 0% instances), [en-dep/csubjpass]() (31; 0% instances), [en-dep/cop]() (27; 0% instances), [en-dep/mwe]() (25; 0% instances), [en-dep/case]() (24; 0% instances), [en-dep/amod]() (13; 0% instances), [en-dep/vocative]() (12; 0% instances), [en-dep/nmod:poss]() (11; 0% instances), [en-dep/cc:preconj]() (4; 0% instances), [en-dep/compound]() (4; 0% instances), [en-dep/list]() (4; 0% instances), [en-dep/det:predet]() (3; 0% instances), [en-dep/acl:relcl]() (2; 0% instances), [en-dep/appos]() (1; 0% instances), [en-dep/goeswith]() (1; 0% instances), [en-dep/nummod]() (1; 0% instances), [en-dep/reparandum]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 17 different parts of speech: [NOUN]() (9503; 21% instances), [PRON]() (7748; 17% instances), [PUNCT]() (6244; 14% instances), [VERB]() (5562; 12% instances), [AUX]() (4046; 9% instances), [ADV]() (3188; 7% instances), [PART]() (2956; 6% instances), [SCONJ]() (1890; 4% instances), [CONJ]() (1577; 3% instances), [ADJ]() (1084; 2% instances), [DET]() (684; 1% instances), [PROPN]() (621; 1% instances), [ADP]() (305; 1% instances), [NUM]() (180; 0% instances), [INTJ]() (60; 0% instances), [SYM]() (12; 0% instances), [X]() (4; 0% instances)
+Children of `VERB` nodes belong to 17 different parts of speech: [NOUN]() (9219; 20% instances), [PRON]() (8331; 18% instances), [PUNCT]() (6244; 14% instances), [VERB]() (5562; 12% instances), [AUX]() (4046; 9% instances), [ADV]() (3188; 7% instances), [PART]() (2956; 6% instances), [SCONJ]() (1886; 4% instances), [CONJ]() (1577; 3% instances), [ADJ]() (1084; 2% instances), [PROPN]() (621; 1% instances), [DET]() (389; 1% instances), [ADP]() (305; 1% instances), [NUM]() (180; 0% instances), [INTJ]() (60; 0% instances), [SYM]() (12; 0% instances), [X]() (4; 0% instances)
 
 
 

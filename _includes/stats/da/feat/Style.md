@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/DET]() (35; 0% instances
 
 35 [da-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="Person.html">Person</a>=1</tt> (34; 97%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (34; 97%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (34; 97%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur</tt> (34; 97%), <tt><a href="Number.html">Number</a>=Plur</tt> (19; 54%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (19; 54%).
+The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="Person.html">Person</a>=1</tt> (34; 97%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (34; 97%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur</tt> (34; 97%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (34; 97%), <tt><a href="Number.html">Number</a>=Plur</tt> (19; 54%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (19; 54%).
 
 `DET` tokens may have the following values of `Style`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `DET` and `Style` co-occurred:
 
 1 [da-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=1</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Person.html">Person</a>=1</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Style`:
 

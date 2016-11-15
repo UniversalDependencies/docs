@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 384 [sl-pos/ADJ]() tokens (3% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (384; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (384; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (336; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (298; 78%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (384; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (384; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (336; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (298; 78%).
 
 `ADJ` tokens may have the following values of `Poss`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 
 45 [sl-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (45; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (45; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (35; 78%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (23; 51%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (23; 51%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (45; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (45; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (35; 78%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (23; 51%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (23; 51%).
 
 `PRON` tokens may have the following values of `Poss`:
 
@@ -106,6 +106,6 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 ## Relations with Agreement in `Poss`
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
-<tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (1; 100%),
-<tt>DET --[<a href="../dep/reparandum.html">reparandum</a>]--> DET</tt> (1; 100%).
+<tt>DET --[<a href="../dep/reparandum.html">reparandum</a>]--> DET</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (1; 100%).
 

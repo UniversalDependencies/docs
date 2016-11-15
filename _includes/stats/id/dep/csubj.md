@@ -55,45 +55,35 @@ The following 7 pairs of parts of speech are connected with `csubj`: [id-pos/VER
 
 
 ~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 29 25 csubj	color:blue
-1	Dengan	_	ADP	_	_	2	case	_	_
-2	mengetik	_	VERB	_	_	14	xcomp	_	_
-3	secara	_	ADP	_	_	4	case	_	_
-4	acak	_	NOUN	_	_	2	nmod	_	_
-5	,	_	PUNCT	_	_	14	punct	_	_
-6	peluang	_	NOUN	_	_	11	nsubj	_	_
-7	huruf	_	NOUN	_	_	6	compound	_	_
-8	pertama	_	ADJ	_	_	7	nummod	_	_
-9	yang	_	PRON	_	_	10	nsubjpass	_	_
-10	diketik	_	VERB	_	_	6	acl	_	_
-11	merupakan	_	VERB	_	_	14	csubj	_	_
-12	b	_	NOUN	_	_	11	dobj	_	_
-13	adalah	_	VERB	_	_	14	cop	_	_
-14	1	_	NUM	_	_	0	root	_	_
-15	/	_	SYM	_	_	14	punct	_	_
-16	50	_	NUM	_	_	14	nummod	_	_
-17	,	_	PUNCT	_	_	14	punct	_	_
-18	dan	_	CONJ	_	_	14	cc	_	_
-19	kemungkinan	_	NOUN	_	_	25	nsubj	_	_
-20	huruf	_	NOUN	_	_	19	compound	_	_
-21	ke	_	NUM	_	_	22	det	_	_
-22	dua	_	NUM	_	_	20	nummod	_	_
-23	yang	_	PRON	_	_	24	nsubjpass	_	_
-24	diketik	_	VERB	_	_	19	acl	_	_
-25	merupakan	_	VERB	_	_	29	csubj	_	_
-26	a	_	NOUN	_	_	25	dobj	_	_
-27	juga	_	ADV	_	_	29	advmod	_	_
-28	adalah	_	VERB	_	_	29	cop	_	_
-29	1	_	NUM	_	_	14	conj	_	_
-30	/	_	SYM	_	_	29	punct	_	_
-31	50	_	NUM	_	_	29	nummod	_	_
-32	,	_	PUNCT	_	_	14	punct	_	_
-33	dst	_	NOUN	_	_	14	conj	_	_
-34	.	_	PUNCT	_	_	14	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 2 csubj	color:blue
+1	Adalah	_	VERB	_	_	2	cop	_	_
+2	George	_	PROPN	_	_	20	csubj	_	_
+3	David	_	PROPN	_	_	2	name	_	_
+4	Kuwert	_	PROPN	_	_	3	name	_	_
+5	,	_	PUNCT	_	_	2	punct	_	_
+6	seorang	_	DET	_	_	7	det	_	_
+7	petugas	_	NOUN	_	_	2	appos	_	_
+8	pos	_	NOUN	_	_	7	compound	_	_
+9	yang	_	PRON	_	_	10	nsubj	_	_
+10	gigih	_	VERB	_	_	7	acl	_	_
+11	,	_	PUNCT	_	_	7	punct	_	_
+12	dan	_	CONJ	_	_	2	cc	_	_
+13	ayahnya	_	NOUN	_	_	2	conj	_	_
+14	Gottlieb	_	PROPN	_	_	13	appos	_	_
+15	,	_	PUNCT	_	_	2	punct	_	_
+16	pada	_	ADP	_	_	17	case	_	_
+17	tahun	_	NOUN	_	_	20	nmod	_	_
+18	1825	_	NUM	_	_	17	nummod	_	_
+19	mulai	_	ADV	_	_	20	advmod	_	_
+20	menghijaukan	_	VERB	_	_	0	root	_	_
+21	kembali	_	VERB	_	_	20	advmod	_	_
+22	kawasan	_	NOUN	_	_	20	dobj	_	_
+23	itu	_	DET	_	_	22	det	_	_
+24	.	_	PUNCT	_	_	20	punct	_	_
 
 ~~~
 

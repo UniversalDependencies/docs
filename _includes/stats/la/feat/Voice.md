@@ -93,7 +93,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 1 [la-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `NOUN` and `Voice` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Voice` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Voice`:
 

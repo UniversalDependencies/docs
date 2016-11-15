@@ -40,17 +40,17 @@ The 3rd highest number of forms (1) was observed with the lemma “докато�
 
 `SCONJ` nodes are attached to their parents using 4 different relations: [bg-dep/mark]() (1498; 93% instances), [bg-dep/mwe]() (101; 6% instances), [bg-dep/discourse]() (4; 0% instances), [bg-dep/cc]() (3; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: [VERB]() (1304; 81% instances), [ADV]() (108; 7% instances), [NOUN]() (88; 5% instances), [ADJ]() (77; 5% instances), [ADP]() (13; 1% instances), [SCONJ]() (9; 1% instances), [PRON]() (5; 0% instances), [PROPN]() (2; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: [VERB]() (1300; 81% instances), [ADV]() (108; 7% instances), [NOUN]() (89; 6% instances), [ADJ]() (80; 5% instances), [ADP]() (13; 1% instances), [SCONJ]() (9; 1% instances), [PRON]() (5; 0% instances), [PROPN]() (2; 0% instances)
 
-1593 (99%) `SCONJ` nodes are leaves.
+1592 (99%) `SCONJ` nodes are leaves.
 
-8 (0%) `SCONJ` nodes have one child.
+9 (1%) `SCONJ` nodes have one child.
 
 5 (0%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 3 different relations: [bg-dep/mwe]() (14; 78% instances), [bg-dep/punct]() (3; 17% instances), [bg-dep/neg]() (1; 6% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: [bg-dep/mwe]() (14; 74% instances), [bg-dep/punct]() (4; 21% instances), [bg-dep/neg]() (1; 5% instances)
 
-Children of `SCONJ` nodes belong to 4 different parts of speech: [SCONJ]() (9; 50% instances), [PART]() (5; 28% instances), [PUNCT]() (3; 17% instances), [INTJ]() (1; 6% instances)
+Children of `SCONJ` nodes belong to 4 different parts of speech: [SCONJ]() (9; 47% instances), [PART]() (5; 26% instances), [PUNCT]() (4; 21% instances), [INTJ]() (1; 5% instances)
 

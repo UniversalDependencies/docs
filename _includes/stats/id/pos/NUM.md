@@ -13,7 +13,7 @@ The 10 most frequent `NUM` types:  <em>dua, pertama, kedua, 1, satu, 2, 3, 5, ti
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>pertama</em> ([NUM]() 106, [ADJ]() 62), <em>kedua</em> ([NUM]() 97, [DET]() 15), <em>1</em> ([NUM]() 100, [PROPN]() 12), <em>satu</em> ([DET]() 209, [NUM]() 92, [NOUN]() 20, [ADJ]() 1), <em>2</em> ([NUM]() 86, [PROPN]() 7, [DET]() 1), <em>3</em> ([NUM]() 79, [PROPN]() 10), <em>5</em> ([NUM]() 78, [PROPN]() 1), <em>tiga</em> ([NUM]() 75, [PROPN]() 1), <em>ke</em> ([ADP]() 356, [NUM]() 62, [DET]() 9, [VERB]() 1, [X]() 1), <em>6</em> ([NUM]() 51, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>pertama</em> ([NUM]() 106, [ADJ]() 62), <em>kedua</em> ([NUM]() 97, [DET]() 15), <em>1</em> ([NUM]() 100, [PROPN]() 12), <em>satu</em> ([DET]() 209, [NUM]() 92, [NOUN]() 20, [ADJ]() 1), <em>2</em> ([NUM]() 86, [PROPN]() 7, [DET]() 1), <em>3</em> ([NUM]() 79, [PROPN]() 10), <em>5</em> ([NUM]() 78, [PROPN]() 1), <em>tiga</em> ([NUM]() 75, [PROPN]() 1), <em>ke</em> ([ADP]() 356, [NUM]() 62, [DET]() 9, [X]() 1, [VERB]() 1), <em>6</em> ([NUM]() 51, [PROPN]() 1)
 
 
 * <em>pertama</em>
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  <em>pertama</em> ([NUM]() 106, [ADJ]() 62
   * [ADP]() 356: <em>Virus ini juga menyebar <b>ke</b> Mesir dan Kamerun .</em>
   * [NUM]() 62: <em>Sebagian besar dari teks - teks ini ditulis setelah abad <b>ke</b> - 11 .</em>
   * [DET]() 9: <em>Pada awal abad <b>ke</b> - 20 , Kuba hanya dibagi menjadi 6 provinsi .</em>
-  * [VERB]() 1: <em>Sekitar lima menit berada di dalam Kantor PDI , lima utusan tadi <b>ke</b> luar .</em>
   * [X]() 1: <em>Gusti Prabhu Danurejo memiliki permasyuri Mas Ayu Gendhing dari perkawinan tersebut memiliki Putra : Sementara dari selir ( kakak Ipar Gusti Agung Mengwi / Raja Mengwi ) beliau berputra : Karena kacaunya perang saudara Pangeran Gung Dupati dan Pangeran Mas Sirno diungsikan sampai perang mereda dan Pangerang Gung Dupati diangkat Menjadi Raja Blambangan yang bergelar Sinuhun Gusti Prabhu Danuningrat memerintah Blambangan Kedhaton Macan putih pada tahun 1736 - 1763 Di akhir abad <b>ke</b> - 18 , setelah terjadi perang Puputan Bayu 1771 VOC mengisi kekosongan pemerintahan dan menggabungkan Blambangan kedalam karisidenan Besuki , dan mengangkat Mas Alit sebagai KRT Wiroguno sebagai Bupati Pertama dimulai dari KRT Wiroguno inilah dinasti Kerajaan Blambangan secara pasti dan terpercaya telah memeluk Islam , generasi diatas KRT Wiroguno tidak terdapat sumber terpercaya telah memeluk Agama Islam .</em>
+  * [VERB]() 1: <em>Sekitar lima menit berada di dalam Kantor PDI , lima utusan tadi <b>ke</b> luar .</em>
 * <em>6</em>
   * [NUM]() 51: <em>Film ini terdiri dari <b>6</b> musim dengan 137 episiode .</em>
   * [PROPN]() 1: <em>SMA Negeri <b>6</b> Surakarta merupakan salah satu SMA Negeri yang ada di Surakarta , yang beralamat di Jl . Mr . Sartono No 30 Surakarta , Jawa Tengah .</em>

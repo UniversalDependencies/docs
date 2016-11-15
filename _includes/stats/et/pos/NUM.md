@@ -13,7 +13,7 @@ The 10 most frequent `NUM` types:  <em>kaks, kolm, 000, üks, kahe, miljonit, ü
 
 The 10 most frequent ambiguous lemmas: <em>üks</em> ([PRON]() 495, [NUM]() 207), <em>viis</em> ([NUM]() 114, [NOUN]() 27), <em>pool</em> ([NUM]() 98, [NOUN]() 49, [ADV]() 20, [ADP]() 17), <em>paar</em> ([NUM]() 97, [NOUN]() 12), <em>2000</em> ([NUM]() 48, [ADJ]() 1), <em>seitse</em> ([NUM]() 48, [NOUN]() 1), <em>sada</em> ([NUM]() 45, [VERB]() 4, [NOUN]() 2), <em>kolmandik</em> ([NUM]() 18, [NOUN]() 6), <em>2001</em> ([NUM]() 12, [ADJ]() 1), <em>1990</em> ([NUM]() 11, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>üks</em> ([PRON]() 152, [NUM]() 70), <em>ühe</em> ([PRON]() 70, [NUM]() 58), <em>paar</em> ([NUM]() 50, [NOUN]() 3), <em>viis</em> ([NUM]() 57, [VERB]() 18, [NOUN]() 5), <em>2000</em> ([NUM]() 47, [ADJ]() 1), <em>pool</em> ([NUM]() 37, [ADV]() 20, [ADP]() 16, [NOUN]() 9), <em>poole</em> ([ADP]() 116, [NUM]() 31, [NOUN]() 6, [ADV]() 2), <em>seitse</em> ([NUM]() 28, [NOUN]() 1), <em>kuus</em> ([NOUN]() 27, [NUM]() 27), <em>paari</em> ([NUM]() 17, [NOUN]() 6)
+The 10 most frequent ambiguous types:  <em>üks</em> ([PRON]() 152, [NUM]() 70), <em>ühe</em> ([PRON]() 70, [NUM]() 58), <em>paar</em> ([NUM]() 50, [NOUN]() 3), <em>viis</em> ([NUM]() 57, [VERB]() 18, [NOUN]() 5), <em>2000</em> ([NUM]() 47, [ADJ]() 1), <em>pool</em> ([NUM]() 37, [ADV]() 20, [ADP]() 16, [NOUN]() 9), <em>poole</em> ([ADP]() 116, [NUM]() 31, [NOUN]() 6, [ADV]() 2), <em>seitse</em> ([NUM]() 28, [NOUN]() 1), <em>kuus</em> ([NUM]() 27, [NOUN]() 27), <em>paari</em> ([NUM]() 17, [NOUN]() 6)
 
 
 * <em>üks</em>
@@ -46,8 +46,8 @@ The 10 most frequent ambiguous types:  <em>üks</em> ([PRON]() 152, [NUM]() 70),
   * [NUM]() 28: <em>Neid sõlmis paela nii , et saapa pealispinnale jäi <b>seitse</b> musta risti .</em>
   * [NOUN]() 1: <em>See <b>seitse</b> on täiesti elektrisinine ja selle valgus särab kaugele öösse .</em>
 * <em>kuus</em>
-  * [NOUN]() 27: <em>Pealegi teenivad need poisid <b>kuus</b> natuke üle saja dollari .</em>
   * [NUM]() 27: <em>Kala pidi valvest tulema pool <b>kuus</b> .</em>
+  * [NOUN]() 27: <em>Pealegi teenivad need poisid <b>kuus</b> natuke üle saja dollari .</em>
 * <em>paari</em>
   * [NUM]() 17: <em>Iga <b>paari</b> sammu tagant torkab lati lumme .</em>
   * [NOUN]() 6: <em>Põldsamid söödavad oma tiigerpüütonite <b>paari</b> elusate küülikutega .</em>

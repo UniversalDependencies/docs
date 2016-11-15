@@ -4,20 +4,20 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 1981 `VERB` lemmas (10%), 7712 `VERB` types (27%) and 25847 `VERB` tokens (11%).
+There are 1987 `VERB` lemmas (10%), 7370 `VERB` types (26%) and 25883 `VERB` tokens (11%).
 Out of 17 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>ser, ter, estar, fazer, dizer, ir, haver, poder, passar, dar</em>
 
 The 10 most frequent `VERB` types:  <em>é, foi, ser, são, tem, está, há, ter, disse, foram</em>
 
-The 10 most frequent ambiguous lemmas: <em>ser</em> ([VERB]() 3583, [NOUN]() 16, [ADV]() 6, [AUX]() 2), <em>ter</em> ([VERB]() 1158, [AUX]() 108), <em>estar</em> ([VERB]() 797, [AUX]() 38, [NOUN]() 1), <em>fazer</em> ([VERB]() 542, [AUX]() 1), <em>dizer</em> ([VERB]() 504, [NOUN]() 5, [AUX]() 1), <em>ir</em> ([VERB]() 497, [AUX]() 39), <em>haver</em> ([VERB]() 383, [AUX]() 6, [ADP]() 1), <em>poder</em> ([VERB]() 339, [AUX]() 98, [NOUN]() 68), <em>passar</em> ([VERB]() 284, [AUX]() 8), <em>dar</em> ([VERB]() 247, [AUX]() 2, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>ser</em> ([VERB]() 3574, [NOUN]() 16, [AUX]() 11, [ADV]() 6), <em>ter</em> ([VERB]() 1154, [AUX]() 112), <em>estar</em> ([VERB]() 796, [AUX]() 39, [NOUN]() 1), <em>dizer</em> ([VERB]() 505, [NOUN]() 5), <em>ir</em> ([VERB]() 495, [AUX]() 41), <em>haver</em> ([VERB]() 383, [AUX]() 6, [ADP]() 1), <em>poder</em> ([VERB]() 332, [AUX]() 105, [NOUN]() 68), <em>passar</em> ([VERB]() 284, [AUX]() 8), <em>dar</em> ([VERB]() 249, [NOUN]() 1), <em>dever</em> ([VERB]() 200, [AUX]() 61, [NOUN]() 3)
 
-The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1120, [NOUN]() 30, [ADV]() 15, [PROPN]() 3, [INTJ]() 1), <em>foi</em> ([VERB]() 551, [ADV]() 8), <em>ser</em> ([VERB]() 459, [NOUN]() 14, [AUX]() 2), <em>são</em> ([VERB]() 282, [ADV]() 1), <em>tem</em> ([VERB]() 290, [AUX]() 20), <em>está</em> ([VERB]() 289, [AUX]() 15), <em>há</em> ([VERB]() 194, [ADP]() 31, [NOUN]() 4), <em>ter</em> ([VERB]() 218, [AUX]() 30), <em>vai</em> ([VERB]() 170, [AUX]() 19), <em>era</em> ([VERB]() 152, [NOUN]() 6, [ADV]() 4)
+The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1121, [NOUN]() 30, [ADV]() 15, [PROPN]() 3, [INTJ]() 1), <em>foi</em> ([VERB]() 551, [ADV]() 8, [AUX]() 3), <em>ser</em> ([VERB]() 458, [NOUN]() 14, [AUX]() 4), <em>são</em> ([VERB]() 281, [AUX]() 1, [ADV]() 1), <em>tem</em> ([VERB]() 294, [AUX]() 20), <em>está</em> ([VERB]() 288, [AUX]() 16), <em>há</em> ([VERB]() 194, [ADP]() 31, [NOUN]() 4, [AUX]() 1), <em>ter</em> ([VERB]() 219, [AUX]() 31), <em>foram</em> ([VERB]() 186, [AUX]() 1), <em>vai</em> ([VERB]() 170, [AUX]() 19)
 
 
 * <em>é</em>
-  * [VERB]() 1120: <em>Conforto <b>é</b> fundamental .</em>
+  * [VERB]() 1121: <em>Conforto <b>é</b> fundamental .</em>
   * [NOUN]() 30: <em>O que <b>é</b> que acham que mudou desde os anos de apogeu de o conjunto ?</em>
   * [ADV]() 15: <em>Mas <b>é</b> em a Republica Dominicana que o cruzeiro atinge seu ponto alto .</em>
   * [PROPN]() 3: <em>De a série Soluções , o « PC <b>é</b> mais que uma máquina de escrever » é o lançamento de a Ariadne ( 132 págs . )</em>
@@ -25,72 +25,172 @@ The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1120, [NOUN]() 30, 
 * <em>foi</em>
   * [VERB]() 551: <em>A solução <b>foi</b> negociar diretamente com os jogadores .</em>
   * [ADV]() 8: <em>Por acaso até <b>foi</b> uma menina que se enfiou em o teu pára-quedas . »</em>
+  * [AUX]() 3: <em>e , em o meio de uma estrutura de mármore , colocou dois vasos com água a diferentes níveis , que se <b>foi</b> sujando -- e enchendo de moedas -- com o passar de os dias .</em>
 * <em>ser</em>
-  * [VERB]() 459: <em>« Senão ele vai <b>ser</b> alvo fácil de as críticas se o time perder . »</em>
+  * [VERB]() 458: <em>« Senão ele vai <b>ser</b> alvo fácil de as críticas se o time perder . »</em>
   * [NOUN]() 14: <em>A não <b>ser</b> que os homens , seus donos , lhes ordenem !</em>
-  * [AUX]() 2: <em>Protegido em Portugal , o lobo é considerado uma espécie cinegética em o lado de lá de a fronteira , onde , desde há dois anos , tem vindo a <b>ser</b> leiloado o seu abate e a prosperar um mercado negro em torno de os seus restos .</em>
+  * [AUX]() 4: <em>E essas alterações deverão <b>ser</b> discutidas com os parceiros sociais e não apenas decididas por o Governo .</em>
 * <em>são</em>
-  * [VERB]() 282: <em>De os fumantes , 18,1 milhões <b>são</b> homens e 12,5 milhões , mulheres .</em>
+  * [VERB]() 281: <em>De os fumantes , 18,1 milhões <b>são</b> homens e 12,5 milhões , mulheres .</em>
+  * [AUX]() 1: <em>Em um sector como o de os combustíveis , em que as margens de comercialização <b>são</b> esmagadas e sujeitas a preços fixados administrativamente , uma taxa fixa poderá , em a opinião de Pais Antunes , contribuir para que as companhias se encostem sistematicamente a os preços máximos .</em>
   * [ADV]() 1: <em>A vida continua com eles e <b>são</b> eles que vão ter saudade minhas --</em>
 * <em>tem</em>
-  * [VERB]() 290: <em>Ela <b>tem</b> também textos com explicações sobre cada item pesquisado .</em>
+  * [VERB]() 294: <em>Ela <b>tem</b> também textos com explicações sobre cada item pesquisado .</em>
   * [AUX]() 20: <em>Para Jorge Seabra , a questão <b>tem</b> de ser posta a dois níveis .</em>
 * <em>está</em>
-  * [VERB]() 289: <em>Diariamente , <b>está</b> promovendo desfiles de moda para seus consumidores .</em>
-  * [AUX]() 15: <em>Uma nova guerra em o Golfo <b>está</b> a ser preparada</em>
+  * [VERB]() 288: <em>Diariamente , <b>está</b> promovendo desfiles de moda para seus consumidores .</em>
+  * [AUX]() 16: <em>Uma nova guerra em o Golfo <b>está</b> a ser preparada</em>
 * <em>há</em>
   * [VERB]() 194: <em>Já não <b>há</b> o império de o mal para combater .</em>
   * [ADP]() 31: <em>Lambari d' Oeste ( 5.000 habitantes ) virou município <b>há</b> dois anos .</em>
   * [NOUN]() 4: <em>Inez Teixeira é uma jovem pintora que tem exposto regularmente desde <b>há</b> uns dois anos .</em>
+  * [AUX]() 1: <em>Hervé Guibert em a época era jornalista de o « Le Monde » , e pediu autorização a o Instituto Nacional de os Cegos para fazer uma reportagem sobre « Os Cegos e a Cultura » , <b>há</b> de ter sido o que de melhor lhe ocorreu como desculpa para passar lá uma semana .</em>
 * <em>ter</em>
-  * [VERB]() 218: <em>Vai <b>ter</b> paridade , já desde o começo » , explicou .</em>
-  * [AUX]() 30: <em>O cemitério de Sidi Hammed vai <b>ter</b> de ser alargado --</em>
+  * [VERB]() 219: <em>Vai <b>ter</b> paridade , já desde o começo » , explicou .</em>
+  * [AUX]() 31: <em>O cemitério de Sidi Hammed vai <b>ter</b> de ser alargado --</em>
+* <em>foram</em>
+  * [VERB]() 186: <em>Sustentadas em depoimentos a a PF , <b>foram</b> confirmadas em três perícias .</em>
+  * [AUX]() 1: <em>Os quatro reactores ainda em funcionamento de a central , de 440 megawatts cada um , <b>foram</b> construídos entre 1974 e 1975 e inspeccionados recentemente por uma missão de a Agência Internacional de a Energia Atómica .</em>
 * <em>vai</em>
   * [VERB]() 170: <em>O governo <b>vai</b> usar a URV para corrigir impostos , garantiu FHC .</em>
   * [AUX]() 19: <em>O cemitério de Sidi Hammed <b>vai</b> ter de ser alargado --</em>
-* <em>era</em>
-  * [VERB]() 152: <em>Um de eles <b>era</b> seu filho , Sérgio Fioravanti .</em>
-  * [NOUN]() 6: <em>Ele fechou um tempo de divergências para abrir uma <b>era</b> de convergências .</em>
-  * [ADV]() 4: <em>Aliás , <b>era</b> contra as « terças-feiras » , propiciadoras de sugestivas « pontes » , que a lei governamental mais se batia ...</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 3.892983 (the average of all parts of speech is 1.447797).
+The form / lemma ratio of `VERB` is 3.709109 (the average of all parts of speech is 1.432674).
 
-The 1st highest number of forms (40) was observed with the lemma “ter”: <em>Tendo-, te-, tem, tem-, temos, tendo, tenha, tenham, tenhamos, tenho, ter, ter-, terei, terem, teremos, teria, teriam, termos, terá, terão, teve, tida, tidas, tido, tinha, tinha-, tinham, tinham-, tive, tivemos, tiver, tivera, tiveram, tivermos, tivesse, tivessem, tivéssemos, tê-, têm, tínhamos</em>.
+The 1st highest number of forms (34) was observed with the lemma “ter”: <em>tem, temos, tendo, tenha, tenham, tenhamos, tenho, ter, terei, terem, teremos, teria, teriam, termos, terá, terão, teve, tida, tidas, tido, tinha, tinham, tive, tivemos, tiver, tivera, tiveram, tivermos, tivesse, tivessem, tivéssemos, tê, têm, tínhamos</em>.
 
-The 2nd highest number of forms (38) was observed with the lemma “fazer”: <em>farei, faria, fariam, fará, fará-, farão, faz, faz-, faze-, fazem, fazem-, fazemos, fazendo, fazer, fazer-, fazerem, fazia, fazia-, faziam, fazê-, faça, façam, faço, feita, feitas, feito, feitos, fez, fez-, fiz, fizemos, fizer, fizera, fizeram, fizeram-, fizermos, fizesse, fizéssemos</em>.
+The 2nd highest number of forms (33) was observed with the lemma “ser”: <em>Sê, eis, era, eram, foi, fomos, for, fora, foram, forem, fosse, fossem, fui, fôr, seja, sejam, sendo, ser, serei, serem, seremos, seria, seriam, sermos, será, serão, sido, somos, sou, são, sô, çe, é</em>.
 
-The 3rd highest number of forms (37) was observed with the lemma “ser”: <em>Sê, eis, era, eram, foi, fomos, for, fora, foram, forem, fosse, fossem, fui, fôr, seja, seja-, sejam, sendo, sendo-, ser, ser-, serei, serem, seremos, seria, seriam, sermos, será, serão, sido, somos, sou, são, sô, çe, é, é-</em>.
+The 3rd highest number of forms (32) was observed with the lemma “fazer”: <em>Fê, farei, faria, fariam, fará, farão, faz, fazem, fazemos, fazendo, fazer, fazerem, fazia, faziam, fazê, faça, façam, faço, feita, feitas, feito, feitos, fez, fiz, fizemos, fizer, fizera, fizeram, fizermos, fizesse, fizéssemos, fá</em>.
 
-`VERB` occurs with 8 features: [pt-feat/VerbForm]() (25847; 100% instances), [pt-feat/Number]() (20024; 77% instances), [pt-feat/Person]() (15821; 61% instances), [pt-feat/Mood]() (15438; 60% instances), [pt-feat/Tense]() (15113; 58% instances), [pt-feat/Gender]() (4203; 16% instances), [pt-feat/Hyph]() (609; 2% instances), [pt-feat/Typo]() (10; 0% instances)
+`VERB` occurs with 8 features: [pt-feat/VerbForm]() (25883; 100% instances), [pt-feat/Number]() (20031; 77% instances), [pt-feat/Person]() (15806; 61% instances), [pt-feat/Mood]() (15421; 60% instances), [pt-feat/Tense]() (15098; 58% instances), [pt-feat/Gender]() (4225; 16% instances), [pt-feat/Hyph]() (611; 2% instances), [pt-feat/Typo]() (10; 0% instances)
 
 `VERB` occurs with 25 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=1,3`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Imp,Pqp`, `Tense=Past`, `Tense=Past,Pres`, `Tense=Pqp`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
 `VERB` occurs with 103 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (5324 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (5319 tokens).
 Examples: <em>é, tem, está, há, vai, diz, pode, deve, faz, continua</em>
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 20 different relations: [pt-dep/root]() (6906; 27% instances), [pt-dep/acl]() (5383; 21% instances), [pt-dep/cop]() (2818; 11% instances), [pt-dep/advcl]() (2794; 11% instances), [pt-dep/xcomp]() (2415; 9% instances), [pt-dep/conj]() (1788; 7% instances), [pt-dep/ccomp]() (1589; 6% instances), [pt-dep/auxpass]() (1113; 4% instances), [pt-dep/aux]() (416; 2% instances), [pt-dep/csubj]() (325; 1% instances), [pt-dep/parataxis]() (149; 1% instances), [pt-dep/dep]() (96; 0% instances), [pt-dep/appos]() (24; 0% instances), [pt-dep/csubjpass]() (8; 0% instances), [pt-dep/case]() (7; 0% instances), [pt-dep/advmod]() (6; 0% instances), [pt-dep/cc]() (4; 0% instances), [pt-dep/nmod]() (3; 0% instances), [pt-dep/mark]() (2; 0% instances), [pt-dep/nummod]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 20 different relations: [pt-dep/root]() (6906; 27% instances), [pt-dep/acl]() (5383; 21% instances), [pt-dep/cop]() (2818; 11% instances), [pt-dep/advcl]() (2794; 11% instances), [pt-dep/xcomp]() (2415; 9% instances), [pt-dep/conj]() (1818; 7% instances), [pt-dep/ccomp]() (1589; 6% instances), [pt-dep/auxpass]() (1113; 4% instances), [pt-dep/aux]() (422; 2% instances), [pt-dep/csubj]() (325; 1% instances), [pt-dep/parataxis]() (149; 1% instances), [pt-dep/dep]() (96; 0% instances), [pt-dep/appos]() (24; 0% instances), [pt-dep/csubjpass]() (8; 0% instances), [pt-dep/case]() (7; 0% instances), [pt-dep/advmod]() (6; 0% instances), [pt-dep/cc]() (4; 0% instances), [pt-dep/nmod]() (3; 0% instances), [pt-dep/mark]() (2; 0% instances), [pt-dep/nummod]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 14 different parts of speech: [VERB]() (9781; 38% instances), [ROOT]() (6906; 27% instances), [NOUN]() (6048; 23% instances), [ADJ]() (1569; 6% instances), [PROPN]() (615; 2% instances), [PRON]() (450; 2% instances), [ADV]() (177; 1% instances), [DET]() (97; 0% instances), [NUM]() (96; 0% instances), [SYM]() (41; 0% instances), [ADP]() (24; 0% instances), [SCONJ]() (23; 0% instances), [AUX]() (10; 0% instances), [CONJ]() (10; 0% instances)
+Parents of `VERB` nodes belong to 14 different parts of speech: [VERB]() (9822; 38% instances), [ROOT]() (6906; 27% instances), [NOUN]() (6048; 23% instances), [ADJ]() (1574; 6% instances), [PROPN]() (611; 2% instances), [PRON]() (450; 2% instances), [ADV]() (177; 1% instances), [DET]() (101; 0% instances), [NUM]() (96; 0% instances), [SYM]() (41; 0% instances), [SCONJ]() (23; 0% instances), [ADP]() (21; 0% instances), [CONJ]() (9; 0% instances), [AUX]() (4; 0% instances)
 
-5394 (21%) `VERB` nodes are leaves.
+5398 (21%) `VERB` nodes are leaves.
 
-3197 (12%) `VERB` nodes have one child.
+3208 (12%) `VERB` nodes have one child.
 
-4728 (18%) `VERB` nodes have two children.
+4707 (18%) `VERB` nodes have two children.
 
-12528 (48%) `VERB` nodes have three or more children.
+12570 (49%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 19.
 
-Children of `VERB` nodes are attached using 29 different relations: [pt-dep/punct]() (15231; 22% instances), [pt-dep/dobj]() (11192; 16% instances), [pt-dep/nsubj]() (9448; 14% instances), [pt-dep/nmod]() (7231; 10% instances), [pt-dep/advmod]() (5418; 8% instances), [pt-dep/mark]() (4634; 7% instances), [pt-dep/xcomp]() (2821; 4% instances), [pt-dep/advcl]() (2357; 3% instances), [pt-dep/cc]() (1957; 3% instances), [pt-dep/ccomp]() (1956; 3% instances), [pt-dep/conj]() (1709; 2% instances), [pt-dep/auxpass]() (1114; 2% instances), [pt-dep/neg]() (1063; 2% instances), [pt-dep/iobj]() (994; 1% instances), [pt-dep/nsubjpass]() (929; 1% instances), [pt-dep/aux]() (846; 1% instances), [pt-dep/cop]() (366; 1% instances), [pt-dep/det]() (151; 0% instances), [pt-dep/csubj]() (129; 0% instances), [pt-dep/dep]() (80; 0% instances), [pt-dep/parataxis]() (41; 0% instances), [pt-dep/auxpass:reflex]() (27; 0% instances), [pt-dep/amod]() (19; 0% instances), [pt-dep/advmod:emph]() (18; 0% instances), [pt-dep/nummod]() (15; 0% instances), [pt-dep/acl]() (8; 0% instances), [pt-dep/csubjpass]() (8; 0% instances), [pt-dep/appos]() (7; 0% instances), [pt-dep/mwe]() (1; 0% instances)
+Children of `VERB` nodes are attached using 30 different relations: [pt-dep/punct]() (15244; 22% instances), [pt-dep/dobj]() (11235; 16% instances), [pt-dep/nsubj]() (9449; 13% instances), [pt-dep/nmod]() (7256; 10% instances), [pt-dep/advmod]() (5305; 8% instances), [pt-dep/mark]() (4651; 7% instances), [pt-dep/xcomp]() (2823; 4% instances), [pt-dep/advcl]() (2362; 3% instances), [pt-dep/cc]() (1982; 3% instances), [pt-dep/ccomp]() (1957; 3% instances), [pt-dep/conj]() (1737; 2% instances), [pt-dep/auxpass]() (1114; 2% instances), [pt-dep/neg]() (1064; 2% instances), [pt-dep/iobj]() (995; 1% instances), [pt-dep/nsubjpass]() (929; 1% instances), [pt-dep/aux]() (846; 1% instances), [pt-dep/cop]() (365; 1% instances), [pt-dep/det]() (302; 0% instances), [pt-dep/csubj]() (129; 0% instances), [pt-dep/case]() (123; 0% instances), [pt-dep/dep]() (80; 0% instances), [pt-dep/parataxis]() (41; 0% instances), [pt-dep/auxpass:reflex]() (27; 0% instances), [pt-dep/amod]() (19; 0% instances), [pt-dep/advmod:emph]() (18; 0% instances), [pt-dep/nummod]() (15; 0% instances), [pt-dep/acl]() (8; 0% instances), [pt-dep/csubjpass]() (8; 0% instances), [pt-dep/appos]() (7; 0% instances), [pt-dep/mwe]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 17 different parts of speech: [NOUN]() (20245; 29% instances), [PUNCT]() (15231; 22% instances), [VERB]() (9781; 14% instances), [PRON]() (5659; 8% instances), [ADV]() (5480; 8% instances), [PROPN]() (4170; 6% instances), [ADP]() (3320; 5% instances), [CONJ]() (1756; 3% instances), [SCONJ]() (1701; 2% instances), [ADJ]() (881; 1% instances), [NUM]() (464; 1% instances), [DET]() (443; 1% instances), [AUX]() (427; 1% instances), [SYM]() (187; 0% instances), [INTJ]() (19; 0% instances), [PART]() (4; 0% instances), [X]() (2; 0% instances)
+Children of `VERB` nodes belong to 17 different parts of speech: [NOUN]() (20287; 29% instances), [PUNCT]() (15244; 22% instances), [VERB]() (9822; 14% instances), [PRON]() (5668; 8% instances), [ADV]() (5495; 8% instances), [PROPN]() (4167; 6% instances), [ADP]() (3344; 5% instances), [CONJ]() (1774; 3% instances), [SCONJ]() (1701; 2% instances), [ADJ]() (894; 1% instances), [DET]() (594; 1% instances), [NUM]() (465; 1% instances), [AUX]() (421; 1% instances), [SYM]() (191; 0% instances), [INTJ]() (19; 0% instances), [PART]() (4; 0% instances), [X]() (2; 0% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+There are 1985 `VERB` lemmas (10%), 7656 `VERB` types (26%) and 22779 `VERB` tokens (10%).
+Out of 17 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 5 in number of tokens.
+
+The 10 most frequent `VERB` lemmas: <em>ser, ter, estar, fazer, dizer, haver, dar, passar, ver, ficar</em>
+
+The 10 most frequent `VERB` types:  <em>é, foi, são, há, tem, disse, ser, está, era, fazer</em>
+
+The 10 most frequent ambiguous lemmas: <em>ser</em> ([VERB]() 2421, [AUX]() 1182, [NOUN]() 10, [ADV]() 6), <em>ter</em> ([VERB]() 688, [AUX]() 579), <em>estar</em> ([VERB]() 598, [AUX]() 237, [NOUN]() 1), <em>fazer</em> ([VERB]() 542, [AUX]() 1), <em>dizer</em> ([VERB]() 505, [NOUN]() 5), <em>haver</em> ([VERB]() 345, [AUX]() 42, [ADP]() 1), <em>passar</em> ([VERB]() 247, [AUX]() 46), <em>ver</em> ([VERB]() 183, [NOUN]() 1, [INTJ]() 1), <em>ficar</em> ([VERB]() 180, [AUX]() 10), <em>ir</em> ([AUX]() 373, [VERB]() 163)
+
+The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1000, [AUX]() 125, [ADP]() 27, [ADV]() 15, [PROPN]() 3, [INTJ]() 1), <em>foi</em> ([AUX]() 294, [VERB]() 258, [ADV]() 8), <em>são</em> ([VERB]() 224, [AUX]() 58, [ADV]() 1), <em>há</em> ([VERB]() 189, [ADP]() 37, [AUX]() 3), <em>tem</em> ([VERB]() 205, [AUX]() 106), <em>ser</em> ([AUX]() 263, [VERB]() 205, [NOUN]() 9), <em>está</em> ([VERB]() 190, [AUX]() 114), <em>era</em> ([VERB]() 146, [AUX]() 7, [NOUN]() 6, [ADV]() 3), <em>fazer</em> ([VERB]() 130, [AUX]() 1), <em>ter</em> ([AUX]() 141, [VERB]() 107)
+
+
+* <em>é</em>
+  * [VERB]() 1000: <em>A suspensão traseira <b>é</b> progressiva com um só amortecedor Boge .</em>
+  * [AUX]() 125: <em>O Parque São Carlos <b>é</b> habitado por moradores de renda baixa .</em>
+  * [ADP]() 27: <em>« Como <b>é</b> que explicamos todas estas medidas israelitas ?</em>
+  * [ADV]() 15: <em>R. -- Não há <b>é</b> uma circulação de o pensamento .</em>
+  * [PROPN]() 3: <em>De a série Soluções , o « PC <b>é</b> mais que uma máquina de escrever » é o lançamento de a Ariadne ( 132 págs . )</em>
+  * [INTJ]() 1: <em>Pois <b>é</b> , Palmeiras e Corinthians fazem hoje a finalíssima de o Brasileiro .</em>
+* <em>foi</em>
+  * [AUX]() 294: <em>A impressão de ambos em a Bahia <b>foi</b> descrita assim por Outterbridge :</em>
+  * [VERB]() 258: <em>« A lesão <b>foi</b> grande e vai deixar sequelas » .</em>
+  * [ADV]() 8: <em>Por acaso até <b>foi</b> uma menina que se enfiou em o teu pára-quedas . »</em>
+* <em>são</em>
+  * [VERB]() 224: <em>Eles <b>são</b> .</em>
+  * [AUX]() 58: <em>Rapazes <b>são</b> presos acusados de estupro</em>
+  * [ADV]() 1: <em>A vida continua com eles e <b>são</b> eles que vão ter saudade minhas --</em>
+* <em>há</em>
+  * [VERB]() 189: <em>Até em Hollywood , <b>há</b> pessoas como Sonia Braga e Andy Garcia .</em>
+  * [ADP]() 37: <em>Lambari d' Oeste ( 5.000 habitantes ) virou município <b>há</b> dois anos .</em>
+  * [AUX]() 3: <em>Afinal , <b>há</b> que apurar responsabilidades em matéria de seguros , mesmo em situações insólitas com esta .</em>
+* <em>tem</em>
+  * [VERB]() 205: <em>Entrega de IR <b>tem</b> pouco movimento em o último dia</em>
+  * [AUX]() 106: <em>A América <b>tem</b> de preparar- se para o futuro .</em>
+* <em>ser</em>
+  * [AUX]() 263: <em>Depois de dois mandatos , Menem não poderia <b>ser</b> reeleito em 1999 .</em>
+  * [VERB]() 205: <em>Sandoval -- Vou entrar com determinação , sabendo que vai <b>ser</b> difícil .</em>
+  * [NOUN]() 9: <em>Para a psiquiatra que o observa , um <b>ser</b> intrigante ; para a polícia , uma encarnação de o demónio .</em>
+* <em>está</em>
+  * [VERB]() 190: <em>A guerra entre os jornais desportivos <b>está</b> em o ponto de rebuçado .</em>
+  * [AUX]() 114: <em>Será que <b>está</b> a nascer o Sporting Cavaco Lopes ?</em>
+* <em>era</em>
+  * [VERB]() 146: <em>Afirmou um dia a o que o seu inimigo principal <b>era</b> « o poder político » .</em>
+  * [AUX]() 7: <em>Esse equilíbrio <b>era</b> tido como pré-condição para o sucesso de o plano econômico .</em>
+  * [NOUN]() 6: <em>Ele fechou um tempo de divergências para abrir uma <b>era</b> de convergências .</em>
+  * [ADV]() 3: <em>Aliás , <b>era</b> contra as « terças-feiras » , propiciadoras de sugestivas « pontes » , que a lei governamental mais se batia ...</em>
+* <em>fazer</em>
+  * [VERB]() 130: <em>O candidato de o PDT disse que quer <b>fazer</b> o mesmo .</em>
+  * [AUX]() 1: <em>« Se hoje tiver de <b>fazer</b> e dizer o que disse , não hesitarei » .</em>
+* <em>ter</em>
+  * [AUX]() 141: <em>Com a particularidade de <b>ter</b> jogado fora de o seu posto habitual .</em>
+  * [VERB]() 107: <em>Vai <b>ter</b> paridade , já desde o começo » , explicou .</em>
+
+## Morphology
+
+The form / lemma ratio of `VERB` is 3.856927 (the average of all parts of speech is 1.449059).
+
+The 1st highest number of forms (38) was observed with the lemma “fazer”: <em>farei, faria, fariam, fará, fará-, farão, faz, faz-, faze-, fazem, fazem-, fazemos, fazendo, fazer, fazer-, fazerem, fazia, fazia-, faziam, fazê-, faça, façam, faço, feita, feitas, feito, feitos, fez, fez-, fiz, fizemos, fizer, fizera, fizeram, fizeram-, fizermos, fizesse, fizéssemos</em>.
+
+The 2nd highest number of forms (36) was observed with the lemma “ser”: <em>Sê, eis, era, eram, foi, fomos, for, fora, foram, forem, fosse, fossem, fui, que, seja, seja-, sejam, sendo, sendo-, ser, ser-, serem, seremos, seria, seriam, sermos, será, serão, sido, somos, sou, são, sô, çe, é, é-</em>.
+
+The 3rd highest number of forms (33) was observed with the lemma “ter”: <em>tem, temos, tendo, tenha, tenham, tenhamos, tenho, ter, terei, terem, teremos, teria, teriam, termos, terá, terão, teve, tida, tidas, tido, tinha, tinham, tive, tivemos, tiver, tivera, tiveram, tivermos, tivesse, tivessem, tê-, têm, tínhamos</em>.
+
+`VERB` occurs with 7 features: [pt-feat/VerbForm]() (22777; 100% instances), [pt-feat/Number]() (17482; 77% instances), [pt-feat/Person]() (13241; 58% instances), [pt-feat/Mood]() (12967; 57% instances), [pt-feat/Tense]() (12477; 55% instances), [pt-feat/Gender]() (4203; 18% instances), [pt-feat/Voice]() (1130; 5% instances)
+
+`VERB` occurs with 21 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Pass`
+
+`VERB` occurs with 72 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (4711 tokens).
+Examples: <em>é, há, tem, está, diz, faz, afirma, quer, dá, fica</em>
+
+
+## Relations
+
+`VERB` nodes are attached to their parents using 18 different relations: [pt-dep/root]() (6879; 30% instances), [pt-dep/acl]() (2937; 13% instances), [pt-dep/cop]() (2751; 12% instances), [pt-dep/acl:relcl]() (2410; 11% instances), [pt-dep/advcl]() (2344; 10% instances), [pt-dep/conj]() (1674; 7% instances), [pt-dep/xcomp]() (1285; 6% instances), [pt-dep/ccomp]() (1266; 6% instances), [pt-dep/dep]() (597; 3% instances), [pt-dep/csubj]() (326; 1% instances), [pt-dep/parataxis]() (277; 1% instances), [pt-dep/mwe]() (8; 0% instances), [pt-dep/amod]() (7; 0% instances), [pt-dep/mark]() (6; 0% instances), [pt-dep/advmod]() (4; 0% instances), [pt-dep/dobj]() (4; 0% instances), [pt-dep/nmod]() (2; 0% instances), [pt-dep/nsubj]() (2; 0% instances)
+
+Parents of `VERB` nodes belong to 14 different parts of speech: [ROOT]() (6879; 30% instances), [VERB]() (6801; 30% instances), [NOUN]() (6110; 27% instances), [ADJ]() (1465; 6% instances), [PROPN]() (624; 3% instances), [PRON]() (468; 2% instances), [ADV]() (265; 1% instances), [NUM]() (97; 0% instances), [DET]() (33; 0% instances), [SYM]() (20; 0% instances), [SCONJ]() (14; 0% instances), [ADP]() (1; 0% instances), [CONJ]() (1; 0% instances), [INTJ]() (1; 0% instances)
+
+3490 (15%) `VERB` nodes are leaves.
+
+2159 (9%) `VERB` nodes have one child.
+
+3837 (17%) `VERB` nodes have two children.
+
+13293 (58%) `VERB` nodes have three or more children.
+
+The highest child degree of a `VERB` node is 19.
+
+Children of `VERB` nodes are attached using 34 different relations: [pt-dep/punct]() (14735; 21% instances), [pt-dep/nmod]() (11809; 17% instances), [pt-dep/nsubj]() (10251; 15% instances), [pt-dep/dobj]() (9075; 13% instances), [pt-dep/advmod]() (4396; 6% instances), [pt-dep/mark]() (4192; 6% instances), [pt-dep/aux]() (2272; 3% instances), [pt-dep/advcl]() (1933; 3% instances), [pt-dep/xcomp]() (1818; 3% instances), [pt-dep/cc]() (1793; 3% instances), [pt-dep/ccomp]() (1512; 2% instances), [pt-dep/conj]() (1505; 2% instances), [pt-dep/auxpass]() (1125; 2% instances), [pt-dep/neg]() (1075; 2% instances), [pt-dep/dep]() (612; 1% instances), [pt-dep/cop]() (353; 1% instances), [pt-dep/iobj]() (226; 0% instances), [pt-dep/parataxis]() (197; 0% instances), [pt-dep/det]() (187; 0% instances), [pt-dep/csubj]() (178; 0% instances), [pt-dep/amod]() (68; 0% instances), [pt-dep/mwe]() (31; 0% instances), [pt-dep/vocative]() (27; 0% instances), [pt-dep/acl]() (24; 0% instances), [pt-dep/appos]() (22; 0% instances), [pt-dep/case]() (17; 0% instances), [pt-dep/acl:relcl]() (12; 0% instances), [pt-dep/discourse]() (11; 0% instances), [pt-dep/nmod:npmod]() (11; 0% instances), [pt-dep/nummod]() (11; 0% instances), [pt-dep/dislocated]() (6; 0% instances), [pt-dep/nmod:tmod]() (6; 0% instances), [pt-dep/compound]() (2; 0% instances), [pt-dep/nsubjpass]() (1; 0% instances)
+
+Children of `VERB` nodes belong to 15 different parts of speech: [NOUN]() (20899; 30% instances), [PUNCT]() (14730; 21% instances), [VERB]() (6801; 10% instances), [PRON]() (5860; 8% instances), [ADV]() (5600; 8% instances), [PROPN]() (4129; 6% instances), [AUX]() (3399; 5% instances), [ADP]() (2878; 4% instances), [CONJ]() (1778; 3% instances), [SCONJ]() (1721; 2% instances), [ADJ]() (893; 1% instances), [NUM]() (457; 1% instances), [DET]() (237; 0% instances), [SYM]() (92; 0% instances), [INTJ]() (19; 0% instances)
 
 
 
@@ -107,15 +207,15 @@ The 10 most frequent `VERB` types:  <em>é, foi, tem, disse, está, são, há, s
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 57316, [ADP]() 51928, [PUNCT]() 42033, [PROPN]() 32948, [VERB]() 29700, [DET]() 26122, [ADJ]() 15107, [CONJ]() 10984, [ADV]() 9773, [NUM]() 8491, [PRON]() 7392, [AUX]() 5242, [PART]() 748, [X]() 539)
 
-The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1536, [AUX]() 233, [ADV]() 1, [PROPN]() 1, [PART]() 1), <em>foi</em> ([AUX]() 755, [VERB]() 430, [PROPN]() 1, [PART]() 1), <em>tem</em> ([VERB]() 343, [AUX]() 87), <em>está</em> ([VERB]() 309, [AUX]() 112), <em>são</em> ([VERB]() 243, [AUX]() 94, [ADJ]() 5), <em>há</em> ([VERB]() 211, [AUX]() 2), <em>ser</em> ([AUX]() 361, [VERB]() 215, [NOUN]() 7, [PROPN]() 2), <em>era</em> ([VERB]() 167, [AUX]() 44, [NOUN]() 6), <em>fazer</em> ([VERB]() 163, [NOUN]() 1), <em>estão</em> ([VERB]() 163, [AUX]() 68)
+The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1536, [AUX]() 233, [PROPN]() 1, [PART]() 1, [ADV]() 1), <em>foi</em> ([AUX]() 755, [VERB]() 430, [PROPN]() 1, [PART]() 1), <em>tem</em> ([VERB]() 343, [AUX]() 87), <em>está</em> ([VERB]() 309, [AUX]() 112), <em>são</em> ([VERB]() 243, [AUX]() 94, [ADJ]() 5), <em>há</em> ([VERB]() 211, [AUX]() 2), <em>ser</em> ([AUX]() 361, [VERB]() 215, [NOUN]() 7, [PROPN]() 2), <em>era</em> ([VERB]() 167, [AUX]() 44, [NOUN]() 6), <em>fazer</em> ([VERB]() 163, [NOUN]() 1), <em>estão</em> ([VERB]() 163, [AUX]() 68)
 
 
 * <em>é</em>
   * [VERB]() 1536: <em>A Nina <b>é</b> a chance de ele ser feliz .</em>
   * [AUX]() 233: <em>A confusão de identidade <b>é</b> levada com destreza pela diretora .</em>
-  * [ADV]() 1: <em>Eu não me detenho muito nas análises a respeito de 2010 porque <b>é</b> muito pouco tempo .</em>
   * [PROPN]() 1: <em>Já o candidato Carlos Amastha ( PP ) , coligação " Um novo caminho <b>é</b> possível " , grava programa eleitoral , faz reunião com coordenadores de campanha e se prepara para o debate .</em>
   * [PART]() 1: <em>Pois <b>é</b> , o ronco dos motores é alto com qualquer tempo .</em>
+  * [ADV]() 1: <em>Eu não me detenho muito nas análises a respeito de 2010 porque <b>é</b> muito pouco tempo .</em>
 * <em>foi</em>
   * [AUX]() 755: <em>Dois anos depois , ele <b>foi</b> preso -- e eu nunca o vi novamente .</em>
   * [VERB]() 430: <em>Você <b>foi</b> a única coisa boa que eu fiz na vida .</em>

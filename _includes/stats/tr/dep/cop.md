@@ -11,7 +11,7 @@ This relation is universal.
 863 instances of `cop` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.05902777777778.
 
-The following 15 pairs of parts of speech are connected with `cop`: [tr-pos/NOUN]()-[tr-pos/AUX]() (309; 36% instances), [tr-pos/ADJ]()-[tr-pos/AUX]() (256; 30% instances), [tr-pos/PRON]()-[tr-pos/AUX]() (60; 7% instances), [tr-pos/ADV]()-[tr-pos/AUX]() (52; 6% instances), [tr-pos/NOUN]()-[tr-pos/VERB]() (50; 6% instances), [tr-pos/VERB]()-[tr-pos/AUX]() (44; 5% instances), [tr-pos/ADJ]()-[tr-pos/VERB]() (36; 4% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (20; 2% instances), [tr-pos/ADP]()-[tr-pos/AUX]() (18; 2% instances), [tr-pos/PROPN]()-[tr-pos/AUX]() (11; 1% instances), [tr-pos/PRON]()-[tr-pos/VERB]() (3; 0% instances), [tr-pos/ADV]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/DET]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/NUM]()-[tr-pos/AUX]() (1; 0% instances), [tr-pos/NUM]()-[tr-pos/VERB]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `cop`: [tr-pos/NOUN]()-[tr-pos/AUX]() (310; 36% instances), [tr-pos/ADJ]()-[tr-pos/AUX]() (256; 30% instances), [tr-pos/PRON]()-[tr-pos/AUX]() (60; 7% instances), [tr-pos/ADV]()-[tr-pos/AUX]() (52; 6% instances), [tr-pos/NOUN]()-[tr-pos/VERB]() (50; 6% instances), [tr-pos/VERB]()-[tr-pos/AUX]() (43; 5% instances), [tr-pos/ADJ]()-[tr-pos/VERB]() (36; 4% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (20; 2% instances), [tr-pos/ADP]()-[tr-pos/AUX]() (18; 2% instances), [tr-pos/PROPN]()-[tr-pos/AUX]() (11; 1% instances), [tr-pos/PRON]()-[tr-pos/VERB]() (3; 0% instances), [tr-pos/ADV]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/DET]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/NUM]()-[tr-pos/AUX]() (1; 0% instances), [tr-pos/NUM]()-[tr-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,8 +56,8 @@ The following 15 pairs of parts of speech are connected with `cop`: [tr-pos/NOUN
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 cop	color:blue
-1	?	kim	PRON	Ques	Case=Nom|Number=Sing|Person=3	4	ccomp	_	_
-2	imsiniz	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres	1	cop	_	_
+1	Kim	kim	PRON	Ques	Case=Nom|Number=Sing|Person=3	4	ccomp	_	_
+2	siniz	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres	1	cop	_	_
 3	?	?	PUNCT	Punc	_	4	punct	_	_
 4	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	bir	bir	NUM	ANum	NumType=Card	6	det	_	_

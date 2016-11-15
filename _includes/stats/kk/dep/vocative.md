@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `vocative`.
+4 nodes (0%) are attached to their parents as `vocative`.
 
-3 instances of `vocative` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.66666666666667.
+3 instances of `vocative` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.75.
 
-The following 2 pairs of parts of speech are connected with `vocative`: [kk-pos/VERB]()-[kk-pos/PROPN]() (2; 67% instances), [kk-pos/VERB]()-[kk-pos/NOUN]() (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `vocative`: [kk-pos/VERB]()-[kk-pos/PROPN]() (2; 50% instances), [kk-pos/PRON]()-[kk-pos/NOUN]() (1; 25% instances), [kk-pos/VERB]()-[kk-pos/NOUN]() (1; 25% instances).
 
 
 ~~~ conllu
@@ -64,6 +64,22 @@ The following 2 pairs of parts of speech are connected with `vocative`: [kk-pos/
 20	отыра	отыр	VERB	v	_	0	root	_	iv|prc_impf
 21	береді	бер	AUX	vaux	_	20	aux	_	aor|p3|sg
 22	.	.	PUNCT	sent	_	20	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 vocative	color:blue
+1	—	—	PART	guio	_	2	punct	_	—|guio
+2	_	немене	PRON	prn	Case=Nom|PronType=Itg	0	root	_	немене|prn|itg|nom
+3	_	е	AUX	cop	Number=Sing|Person=3|Tense=Aor	2	cop	_	е|cop|aor|p3|sg
+4	,	,	PUNCT	cm	_	2	punct	_	,|cm
+5	жаным	жан	NOUN	n	Case=Nom|Number[psor]=Sing|Person[psor]=1	2	vocative	_	жан|n|px1sg|nom
+6	?	?	PUNCT	sent	_	2	punct	_	?|sent
 
 ~~~
 

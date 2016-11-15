@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-5271 nodes (2%) are attached to their parents as `aux`.
+5864 nodes (2%) are attached to their parents as `aux`.
 
-5263 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41130715234301.
+5856 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37926330150068.
 
-The following 7 pairs of parts of speech are connected with `aux`: [it-pos/VERB]()-[it-pos/AUX]() (5055; 96% instances), [it-pos/NOUN]()-[it-pos/AUX]() (94; 2% instances), [it-pos/ADJ]()-[it-pos/AUX]() (89; 2% instances), [it-pos/PRON]()-[it-pos/AUX]() (25; 0% instances), [it-pos/PROPN]()-[it-pos/AUX]() (4; 0% instances), [it-pos/ADV]()-[it-pos/AUX]() (3; 0% instances), [it-pos/NUM]()-[it-pos/AUX]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: [it-pos/VERB]()-[it-pos/AUX]() (5625; 96% instances), [it-pos/NOUN]()-[it-pos/AUX]() (103; 2% instances), [it-pos/ADJ]()-[it-pos/AUX]() (94; 2% instances), [it-pos/PRON]()-[it-pos/AUX]() (25; 0% instances), [it-pos/PROPN]()-[it-pos/AUX]() (8; 0% instances), [it-pos/AUX]()-[it-pos/AUX]() (5; 0% instances), [it-pos/ADV]()-[it-pos/AUX]() (3; 0% instances), [it-pos/NUM]()-[it-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -21,12 +21,12 @@ The following 7 pairs of parts of speech are connected with `aux`: [it-pos/VERB]
 # visual-style 7	fgColor:white
 # visual-style 7 5 aux	color:blue
 1	È	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubjpass	_	_
 5	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	essere	essere	AUX	VA	VerbForm=Inf	7	auxpass	_	_
-7	sostituiti	sostituire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	parataxis	_	_
+7	sostituiti	sostituire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	parataxis	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	2	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `aux`: [it-pos/VERB]
 7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	passaggio	passaggio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 9	di	di	ADP	E	_	10	case	_	_
-10	consegne	consegna	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
+10	consegne	consegna	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
 11	:	:	PUNCT	FC	_	8	punct	_	_
 
 ~~~
@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `aux`: [it-pos/VERB]
 6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 7	stata	essere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	cop	_	_
 8	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	9	iobj	_	_
-9	fatale	fatale	ADJ	A	Number=Sing	2	conj	_	_
+9	fatale	fatale	ADJ	A	Number=Sing	2	conj	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	2	punct	_	_
 
 ~~~

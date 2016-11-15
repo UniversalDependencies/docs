@@ -4,38 +4,38 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 69 `AUX` lemmas (0%), 143 `AUX` types (0%) and 458 `AUX` tokens (0%).
-Out of 17 observed tags, the rank of `AUX` is: 7 in number of lemmas, 7 in number of types and 13 in number of tokens.
+There are 13 `AUX` lemmas (0%), 93 `AUX` types (0%) and 422 `AUX` tokens (0%).
+Out of 17 observed tags, the rank of `AUX` is: 13 in number of lemmas, 9 in number of types and 14 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>ter, poder, dever, ir, estar, vir, passar, parecer, acabar, chegar</em>
+The 10 most frequent `AUX` lemmas: <em>ter, poder, dever, ir, estar, vir, ser, parecer, passar, chegar</em>
 
 The 10 most frequent `AUX` types:  <em>pode, ter, deve, tem, vai, está, poderá, podem, deverá, estão</em>
 
-The 10 most frequent ambiguous lemmas: <em>ter</em> ([VERB]() 1158, [AUX]() 108), <em>poder</em> ([VERB]() 339, [AUX]() 98, [NOUN]() 68), <em>dever</em> ([VERB]() 200, [AUX]() 61, [NOUN]() 3), <em>ir</em> ([VERB]() 497, [AUX]() 39), <em>estar</em> ([VERB]() 797, [AUX]() 38, [NOUN]() 1), <em>vir</em> ([VERB]() 133, [AUX]() 11), <em>passar</em> ([VERB]() 284, [AUX]() 8), <em>parecer</em> ([VERB]() 85, [NOUN]() 9, [AUX]() 7), <em>acabar</em> ([VERB]() 83, [AUX]() 6), <em>chegar</em> ([VERB]() 155, [AUX]() 6)
+The 10 most frequent ambiguous lemmas: <em>ter</em> ([VERB]() 1154, [AUX]() 112), <em>poder</em> ([VERB]() 332, [AUX]() 105, [NOUN]() 68), <em>dever</em> ([VERB]() 200, [AUX]() 61, [NOUN]() 3), <em>ir</em> ([VERB]() 495, [AUX]() 41), <em>estar</em> ([VERB]() 796, [AUX]() 39, [NOUN]() 1), <em>vir</em> ([VERB]() 132, [AUX]() 12), <em>ser</em> ([VERB]() 3574, [NOUN]() 16, [AUX]() 11, [ADV]() 6), <em>parecer</em> ([VERB]() 83, [NOUN]() 9, [AUX]() 9), <em>passar</em> ([VERB]() 284, [AUX]() 8), <em>chegar</em> ([VERB]() 154, [AUX]() 7)
 
-The 10 most frequent ambiguous types:  <em>pode</em> ([VERB]() 118, [AUX]() 31), <em>ter</em> ([VERB]() 218, [AUX]() 30), <em>deve</em> ([VERB]() 67, [AUX]() 19), <em>tem</em> ([VERB]() 290, [AUX]() 20), <em>vai</em> ([VERB]() 170, [AUX]() 19), <em>está</em> ([VERB]() 289, [AUX]() 15), <em>poderá</em> ([VERB]() 41, [AUX]() 17), <em>podem</em> ([VERB]() 46, [AUX]() 16), <em>deverá</em> ([VERB]() 45, [AUX]() 14), <em>estão</em> ([VERB]() 130, [AUX]() 12)
+The 10 most frequent ambiguous types:  <em>pode</em> ([VERB]() 118, [AUX]() 33), <em>ter</em> ([VERB]() 219, [AUX]() 31), <em>deve</em> ([VERB]() 74, [AUX]() 19), <em>tem</em> ([VERB]() 294, [AUX]() 20), <em>vai</em> ([VERB]() 170, [AUX]() 19), <em>está</em> ([VERB]() 288, [AUX]() 16), <em>poderá</em> ([VERB]() 41, [AUX]() 17), <em>podem</em> ([VERB]() 46, [AUX]() 16), <em>deverá</em> ([VERB]() 45, [AUX]() 14), <em>estão</em> ([VERB]() 130, [AUX]() 12)
 
 
 * <em>pode</em>
   * [VERB]() 118: <em>Se você bate em ele , o revide vem forte , <b>pode</b> apostar .</em>
-  * [AUX]() 31: <em>Isso não <b>pode</b> ser dito fora de contexto .</em>
+  * [AUX]() 33: <em>Isso não <b>pode</b> ser dito fora de contexto .</em>
 * <em>ter</em>
-  * [VERB]() 218: <em>Vai <b>ter</b> paridade , já desde o começo » , explicou .</em>
-  * [AUX]() 30: <em>O cemitério de Sidi Hammed vai <b>ter</b> de ser alargado --</em>
+  * [VERB]() 219: <em>Vai <b>ter</b> paridade , já desde o começo » , explicou .</em>
+  * [AUX]() 31: <em>O cemitério de Sidi Hammed vai <b>ter</b> de ser alargado --</em>
 * <em>deve</em>
-  * [VERB]() 67: <em>O amor <b>deve</b> servir como pano de fundo a a vida de cada pessoa .</em>
+  * [VERB]() 74: <em>O amor <b>deve</b> servir como pano de fundo a a vida de cada pessoa .</em>
   * [AUX]() 19: <em>A anágua <b>deve</b> ser usada sob roupa transparente .</em>
 * <em>tem</em>
-  * [VERB]() 290: <em>Ela <b>tem</b> também textos com explicações sobre cada item pesquisado .</em>
+  * [VERB]() 294: <em>Ela <b>tem</b> também textos com explicações sobre cada item pesquisado .</em>
   * [AUX]() 20: <em>Para Jorge Seabra , a questão <b>tem</b> de ser posta a dois níveis .</em>
 * <em>vai</em>
   * [VERB]() 170: <em>O governo <b>vai</b> usar a URV para corrigir impostos , garantiu FHC .</em>
   * [AUX]() 19: <em>O cemitério de Sidi Hammed <b>vai</b> ter de ser alargado --</em>
 * <em>está</em>
-  * [VERB]() 289: <em>Diariamente , <b>está</b> promovendo desfiles de moda para seus consumidores .</em>
-  * [AUX]() 15: <em>Uma nova guerra em o Golfo <b>está</b> a ser preparada</em>
+  * [VERB]() 288: <em>Diariamente , <b>está</b> promovendo desfiles de moda para seus consumidores .</em>
+  * [AUX]() 16: <em>Uma nova guerra em o Golfo <b>está</b> a ser preparada</em>
 * <em>poderá</em>
-  * [VERB]() 41: <em>Lisboa 94 <b>poderá</b> desvincular- se de o projecto</em>
+  * [VERB]() 41: <em>Lisboa 94 <b>poderá</b> desvincular -se de o projecto</em>
   * [AUX]() 17: <em>Resta saber quem <b>poderá</b> ser processado .</em>
 * <em>podem</em>
   * [VERB]() 46: <em>os que escolherem sábado <b>podem</b> começar mais cedo :</em>
@@ -49,42 +49,136 @@ The 10 most frequent ambiguous types:  <em>pode</em> ([VERB]() 118, [AUX]() 31),
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.072464 (the average of all parts of speech is 1.447797).
+The form / lemma ratio of `AUX` is 7.153846 (the average of all parts of speech is 1.432674).
 
-The 1st highest number of forms (15) was observed with the lemma “ter”: <em>tem, tendo, tendo-, tenha, tenho, ter, terem, teria, terá, terão, teve, tinha, tinham, tivesse, têm</em>.
+The 1st highest number of forms (16) was observed with the lemma “poder”: <em>pode, podem, podemos, podendo, poder, poderemos, poderia, poderá, poderão, podia, podiam, possa, possam, puderam, pudessem, pôde</em>.
 
-The 2nd highest number of forms (14) was observed with the lemma “poder”: <em>pode, podem, podemos, podendo, poder, poderia, poderá, poderão, podia, podiam, possa, possam, pudessem, pôde</em>.
+The 2nd highest number of forms (16) was observed with the lemma “ter”: <em>tem, tendo, tenha, tenho, ter, terem, teria, terá, terão, teve, tinha, tinham, tive, tiver, tivesse, têm</em>.
 
 The 3rd highest number of forms (9) was observed with the lemma “dever”: <em>devam, deve, devem, devendo, deveria, deverá, deverão, devia, deviam</em>.
 
-`AUX` occurs with 7 features: [pt-feat/VerbForm]() (458; 100% instances), [pt-feat/Number]() (375; 82% instances), [pt-feat/Person]() (353; 77% instances), [pt-feat/Mood]() (346; 76% instances), [pt-feat/Tense]() (324; 71% instances), [pt-feat/Gender]() (22; 5% instances), [pt-feat/Hyph]() (2; 0% instances)
+`AUX` occurs with 5 features: [pt-feat/VerbForm]() (422; 100% instances), [pt-feat/Number]() (368; 87% instances), [pt-feat/Person]() (368; 87% instances), [pt-feat/Mood]() (363; 86% instances), [pt-feat/Tense]() (339; 80% instances)
 
-`AUX` occurs with 21 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=1,3`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Imp,Pqp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 18 feature-value pairs: `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=1,3`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Imp,Pqp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 31 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (123 tokens).
-Examples: <em>pode, deve, tem, vai, está, parece, continua, vem, há-, passa</em>
+`AUX` occurs with 30 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (128 tokens).
+Examples: <em>pode, deve, tem, vai, está, parece, continua, vem, há, passa</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: [pt-dep/aux]() (427; 93% instances), [pt-dep/conj]() (30; 7% instances), [pt-dep/auxpass]() (1; 0% instances)
+`AUX` nodes are attached to their parents using 2 different relations: [pt-dep/aux]() (421; 100% instances), [pt-dep/auxpass]() (1; 0% instances)
 
-Parents of `AUX` nodes belong to 4 different parts of speech: [VERB]() (427; 93% instances), [AUX]() (29; 6% instances), [ADP]() (1; 0% instances), [NOUN]() (1; 0% instances)
+Parents of `AUX` nodes belong to 2 different parts of speech: [VERB]() (421; 100% instances), [NOUN]() (1; 0% instances)
 
-398 (87%) `AUX` nodes are leaves.
+419 (99%) `AUX` nodes are leaves.
 
-16 (3%) `AUX` nodes have one child.
+0 (0%) `AUX` nodes have one child.
 
-9 (2%) `AUX` nodes have two children.
+0 (0%) `AUX` nodes have two children.
 
-35 (8%) `AUX` nodes have three or more children.
+3 (1%) `AUX` nodes have three or more children.
 
-The highest child degree of a `AUX` node is 7.
+The highest child degree of a `AUX` node is 6.
 
-Children of `AUX` nodes are attached using 13 different relations: [pt-dep/dobj]() (44; 24% instances), [pt-dep/conj]() (31; 17% instances), [pt-dep/cc]() (29; 16% instances), [pt-dep/nmod]() (27; 15% instances), [pt-dep/advmod]() (18; 10% instances), [pt-dep/punct]() (13; 7% instances), [pt-dep/mark]() (11; 6% instances), [pt-dep/advcl]() (6; 3% instances), [pt-dep/nsubj]() (2; 1% instances), [pt-dep/xcomp]() (2; 1% instances), [pt-dep/ccomp]() (1; 1% instances), [pt-dep/iobj]() (1; 1% instances), [pt-dep/neg]() (1; 1% instances)
+Children of `AUX` nodes are attached using 8 different relations: [pt-dep/advmod]() (3; 20% instances), [pt-dep/cc]() (3; 20% instances), [pt-dep/conj]() (3; 20% instances), [pt-dep/nmod]() (2; 13% instances), [pt-dep/advcl]() (1; 7% instances), [pt-dep/dobj]() (1; 7% instances), [pt-dep/mark]() (1; 7% instances), [pt-dep/nsubj]() (1; 7% instances)
 
-Children of `AUX` nodes belong to 10 different parts of speech: [NOUN]() (60; 32% instances), [AUX]() (29; 16% instances), [CONJ]() (28; 15% instances), [ADV]() (18; 10% instances), [PUNCT]() (13; 7% instances), [ADP]() (11; 6% instances), [VERB]() (10; 5% instances), [PRON]() (9; 5% instances), [PROPN]() (7; 4% instances), [NUM]() (1; 1% instances)
+Children of `AUX` nodes belong to 5 different parts of speech: [NOUN]() (4; 27% instances), [VERB]() (4; 27% instances), [ADV]() (3; 20% instances), [CONJ]() (3; 20% instances), [ADP]() (1; 7% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+There are 45 `AUX` lemmas (0%), 288 `AUX` types (1%) and 3570 `AUX` tokens (2%).
+Out of 17 observed tags, the rank of `AUX` is: 10 in number of lemmas, 7 in number of types and 12 in number of tokens.
+
+The 10 most frequent `AUX` lemmas: <em>ser, ter, poder, ir, dever, estar, vir, continuar, começar, acabar</em>
+
+The 10 most frequent `AUX` types:  <em>foi, ser, vai, pode, foram, ter, é, está, tem, deve</em>
+
+The 10 most frequent ambiguous lemmas: <em>ser</em> ([VERB]() 2421, [AUX]() 1182, [NOUN]() 10, [ADV]() 6), <em>ter</em> ([VERB]() 688, [AUX]() 579), <em>poder</em> ([AUX]() 430, [NOUN]() 68, [VERB]() 7), <em>ir</em> ([AUX]() 373, [VERB]() 163), <em>dever</em> ([AUX]() 242, [VERB]() 19, [NOUN]() 3), <em>estar</em> ([VERB]() 598, [AUX]() 237, [NOUN]() 1), <em>vir</em> ([AUX]() 75, [VERB]() 69), <em>continuar</em> ([AUX]() 65, [VERB]() 56), <em>começar</em> ([VERB]() 64, [AUX]() 63), <em>acabar</em> ([AUX]() 60, [VERB]() 29)
+
+The 10 most frequent ambiguous types:  <em>foi</em> ([AUX]() 294, [VERB]() 258, [ADV]() 8), <em>ser</em> ([AUX]() 263, [VERB]() 205, [NOUN]() 9), <em>vai</em> ([AUX]() 163, [VERB]() 26), <em>pode</em> ([AUX]() 148, [VERB]() 1), <em>foram</em> ([AUX]() 144, [VERB]() 43), <em>ter</em> ([AUX]() 141, [VERB]() 107), <em>é</em> ([VERB]() 1000, [AUX]() 125, [ADP]() 27, [ADV]() 15, [PROPN]() 3, [INTJ]() 1), <em>está</em> ([VERB]() 190, [AUX]() 114), <em>tem</em> ([VERB]() 205, [AUX]() 106), <em>deve</em> ([AUX]() 83, [VERB]() 3)
+
+
+* <em>foi</em>
+  * [AUX]() 294: <em>A impressão de ambos em a Bahia <b>foi</b> descrita assim por Outterbridge :</em>
+  * [VERB]() 258: <em>« A lesão <b>foi</b> grande e vai deixar sequelas » .</em>
+  * [ADV]() 8: <em>Por acaso até <b>foi</b> uma menina que se enfiou em o teu pára-quedas . »</em>
+* <em>ser</em>
+  * [AUX]() 263: <em>Depois de dois mandatos , Menem não poderia <b>ser</b> reeleito em 1999 .</em>
+  * [VERB]() 205: <em>Sandoval -- Vou entrar com determinação , sabendo que vai <b>ser</b> difícil .</em>
+  * [NOUN]() 9: <em>Para a psiquiatra que o observa , um <b>ser</b> intrigante ; para a polícia , uma encarnação de o demónio .</em>
+* <em>vai</em>
+  * [AUX]() 163: <em>Sandoval -- Vou entrar com determinação , sabendo que <b>vai</b> ser difícil .</em>
+  * [VERB]() 26: <em>Quando <b>vai</b> a os EUA , ele não se limita a comprar blazers caros .</em>
+* <em>pode</em>
+  * [AUX]() 148: <em>Em Lisboa , só S. Pedro <b>pode</b> pregar uma partida</em>
+  * [VERB]() 1: <em>A rapariga franzina faz o que <b>pode</b> , mas a voz é tão titubeante que o apresentador tem logo que ir buscar outra cantora a a multidão .</em>
+* <em>foram</em>
+  * [AUX]() 144: <em>Importantes reforços <b>foram</b> já enviados para a zona .</em>
+  * [VERB]() 43: <em>Os anos 80 <b>foram</b> um divisor de águas em a industrialização brasileira .</em>
+* <em>ter</em>
+  * [AUX]() 141: <em>Com a particularidade de <b>ter</b> jogado fora de o seu posto habitual .</em>
+  * [VERB]() 107: <em>Vai <b>ter</b> paridade , já desde o começo » , explicou .</em>
+* <em>é</em>
+  * [VERB]() 1000: <em>A suspensão traseira <b>é</b> progressiva com um só amortecedor Boge .</em>
+  * [AUX]() 125: <em>O Parque São Carlos <b>é</b> habitado por moradores de renda baixa .</em>
+  * [ADP]() 27: <em>« Como <b>é</b> que explicamos todas estas medidas israelitas ?</em>
+  * [ADV]() 15: <em>R. -- Não há <b>é</b> uma circulação de o pensamento .</em>
+  * [PROPN]() 3: <em>De a série Soluções , o « PC <b>é</b> mais que uma máquina de escrever » é o lançamento de a Ariadne ( 132 págs . )</em>
+  * [INTJ]() 1: <em>Pois <b>é</b> , Palmeiras e Corinthians fazem hoje a finalíssima de o Brasileiro .</em>
+* <em>está</em>
+  * [VERB]() 190: <em>A guerra entre os jornais desportivos <b>está</b> em o ponto de rebuçado .</em>
+  * [AUX]() 114: <em>Será que <b>está</b> a nascer o Sporting Cavaco Lopes ?</em>
+* <em>tem</em>
+  * [VERB]() 205: <em>Entrega de IR <b>tem</b> pouco movimento em o último dia</em>
+  * [AUX]() 106: <em>A América <b>tem</b> de preparar- se para o futuro .</em>
+* <em>deve</em>
+  * [AUX]() 83: <em>O crítico ( é / <b>deve</b> ser ) , um insolente de a razão ?</em>
+  * [VERB]() 3: <em>A concentração de funerárias se <b>deve</b> , imagino , a a proximidade de o cemitério de Passy .</em>
+
+## Morphology
+
+The form / lemma ratio of `AUX` is 6.400000 (the average of all parts of speech is 1.449059).
+
+The 1st highest number of forms (32) was observed with the lemma “ter”: <em>te-, tem, tem-, temos, tendo, tendo-, tenha, tenham, tenhamos, tenho, ter, ter-, terem, teremos, teria, teriam, terá, terão, teve, tinha, tinha-, tinham, tinham-, tive, tiver, tiveram, tivesse, tivessem, tivéssemos, tê-, têm, tínhamos</em>.
+
+The 2nd highest number of forms (27) was observed with the lemma “poder”: <em>Poderá-, pode, pode-, podem, podemos, podendo, poder, poderem, poderemos, poderia, poderiam, podermos, poderá, poderão, podia, podiam, podíamos, possa, possam, posso, pude, puder, puderam, pudesse, pudessem, pôde, pôde-</em>.
+
+The 3rd highest number of forms (27) was observed with the lemma “ser”: <em>era, eram, foi, fomos, for, fora, foram, forem, fosse, fossem, fui, fôr, seja, sejam, sendo, ser, serei, serem, seria, seriam, será, serão, sido, somos, sou, são, é</em>.
+
+`AUX` occurs with 6 features: [pt-feat/VerbForm]() (3570; 100% instances), [pt-feat/Number]() (2935; 82% instances), [pt-feat/Person]() (2915; 82% instances), [pt-feat/Mood]() (2837; 79% instances), [pt-feat/Tense]() (2617; 73% instances), [pt-feat/Gender]() (19; 1% instances)
+
+`AUX` occurs with 19 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
+
+`AUX` occurs with 46 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (899 tokens).
+Examples: <em>vai, pode, é, está, tem, deve, continua, parece, acaba, começa</em>
+
+
+## Relations
+
+`AUX` nodes are attached to their parents using 4 different relations: [pt-dep/aux]() (2443; 68% instances), [pt-dep/auxpass]() (1125; 32% instances), [pt-dep/appos]() (1; 0% instances), [pt-dep/conj]() (1; 0% instances)
+
+Parents of `AUX` nodes belong to 9 different parts of speech: [VERB]() (3399; 95% instances), [NOUN]() (83; 2% instances), [ADJ]() (64; 2% instances), [PRON]() (13; 0% instances), [NUM]() (4; 0% instances), [ADV]() (3; 0% instances), [PROPN]() (2; 0% instances), [ADP]() (1; 0% instances), [DET]() (1; 0% instances)
+
+3568 (100%) `AUX` nodes are leaves.
+
+1 (0%) `AUX` nodes have one child.
+
+0 (0%) `AUX` nodes have two children.
+
+1 (0%) `AUX` nodes have three or more children.
+
+The highest child degree of a `AUX` node is 5.
+
+Children of `AUX` nodes are attached using 3 different relations: [pt-dep/punct]() (3; 50% instances), [pt-dep/advmod]() (2; 33% instances), [pt-dep/nmod]() (1; 17% instances)
+
+Children of `AUX` nodes belong to 3 different parts of speech: [PUNCT]() (3; 50% instances), [ADV]() (2; 33% instances), [NOUN]() (1; 17% instances)
 
 
 
@@ -101,7 +195,7 @@ The 10 most frequent `AUX` types:  <em>foi, ser, foram, é, vai, pode, será, de
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 57316, [ADP]() 51928, [PUNCT]() 42033, [PROPN]() 32948, [VERB]() 29700, [DET]() 26122, [ADJ]() 15107, [CONJ]() 10984, [ADV]() 9773, [NUM]() 8491, [PRON]() 7392, [AUX]() 5242, [PART]() 748, [X]() 539)
 
-The 10 most frequent ambiguous types:  <em>foi</em> ([AUX]() 755, [VERB]() 430, [PROPN]() 1, [PART]() 1), <em>ser</em> ([AUX]() 361, [VERB]() 215, [NOUN]() 7, [PROPN]() 2), <em>foram</em> ([AUX]() 292, [VERB]() 85), <em>é</em> ([VERB]() 1536, [AUX]() 233, [ADV]() 1, [PROPN]() 1, [PART]() 1), <em>vai</em> ([AUX]() 221, [VERB]() 14), <em>pode</em> ([AUX]() 202, [VERB]() 4), <em>será</em> ([AUX]() 161, [VERB]() 125), <em>deve</em> ([AUX]() 156, [VERB]() 6), <em>ter</em> ([AUX]() 126, [VERB]() 117), <em>está</em> ([VERB]() 309, [AUX]() 112)
+The 10 most frequent ambiguous types:  <em>foi</em> ([AUX]() 755, [VERB]() 430, [PROPN]() 1, [PART]() 1), <em>ser</em> ([AUX]() 361, [VERB]() 215, [NOUN]() 7, [PROPN]() 2), <em>foram</em> ([AUX]() 292, [VERB]() 85), <em>é</em> ([VERB]() 1536, [AUX]() 233, [PROPN]() 1, [PART]() 1, [ADV]() 1), <em>vai</em> ([AUX]() 221, [VERB]() 14), <em>pode</em> ([AUX]() 202, [VERB]() 4), <em>será</em> ([AUX]() 161, [VERB]() 125), <em>deve</em> ([AUX]() 156, [VERB]() 6), <em>ter</em> ([AUX]() 126, [VERB]() 117), <em>está</em> ([VERB]() 309, [AUX]() 112)
 
 
 * <em>foi</em>
@@ -120,9 +214,9 @@ The 10 most frequent ambiguous types:  <em>foi</em> ([AUX]() 755, [VERB]() 430, 
 * <em>é</em>
   * [VERB]() 1536: <em>A Nina <b>é</b> a chance de ele ser feliz .</em>
   * [AUX]() 233: <em>A confusão de identidade <b>é</b> levada com destreza pela diretora .</em>
-  * [ADV]() 1: <em>Eu não me detenho muito nas análises a respeito de 2010 porque <b>é</b> muito pouco tempo .</em>
   * [PROPN]() 1: <em>Já o candidato Carlos Amastha ( PP ) , coligação " Um novo caminho <b>é</b> possível " , grava programa eleitoral , faz reunião com coordenadores de campanha e se prepara para o debate .</em>
   * [PART]() 1: <em>Pois <b>é</b> , o ronco dos motores é alto com qualquer tempo .</em>
+  * [ADV]() 1: <em>Eu não me detenho muito nas análises a respeito de 2010 porque <b>é</b> muito pouco tempo .</em>
 * <em>vai</em>
   * [AUX]() 221: <em>Só não informou quando isso <b>vai</b> acontecer .</em>
   * [VERB]() 14: <em>O festival Varilux começa hoje e <b>vai</b> até o dia 23 .</em>

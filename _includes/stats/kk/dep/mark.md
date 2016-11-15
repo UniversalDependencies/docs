@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `mark`: [kk-pos/VERB
 # visual-style 20 9 mark	color:blue
 1	_	ешкім	PRON	prn	_	23	nsubj	_	neg|nom
 2	_	да	PART	postadv	_	1	advmod	_	_
-3	жасаған	жаса	VERB	v	_	6	acl	_	tv|gpr_past
+3	жасаған	жаса	VERB	v	_	6	acl:relcl	_	tv|gpr_past
 4	әрекеті	әрекет	NOUN	n	_	6	conj	_	px3sp|nom
 5	немесе	немесе	CONJ	cnjcoo	_	6	cc	_	_
 6	әрекетсіздігі	әрекетсіздік	NOUN	n	_	7	nmod:poss	_	px3sp|nom

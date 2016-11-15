@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-988 nodes (19%) are attached to their parents as `punct`.
+1272 nodes (20%) are attached to their parents as `punct`.
 
-703 instances of `punct` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.38157894736842.
+885 instances of `punct` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.45125786163522.
 
-The following 12 pairs of parts of speech are connected with `punct`: [kk-pos/VERB]()-[kk-pos/PUNCT]() (551; 56% instances), [kk-pos/NOUN]()-[kk-pos/PUNCT]() (206; 21% instances), [kk-pos/ADJ]()-[kk-pos/PUNCT]() (81; 8% instances), [kk-pos/PROPN]()-[kk-pos/PUNCT]() (59; 6% instances), [kk-pos/NUM]()-[kk-pos/PUNCT]() (51; 5% instances), [kk-pos/ADV]()-[kk-pos/PUNCT]() (12; 1% instances), [kk-pos/INTJ]()-[kk-pos/PUNCT]() (12; 1% instances), [kk-pos/PRON]()-[kk-pos/PUNCT]() (9; 1% instances), [kk-pos/ADP]()-[kk-pos/PUNCT]() (2; 0% instances), [kk-pos/NUM]()-[kk-pos/SYM]() (2; 0% instances), [kk-pos/SCONJ]()-[kk-pos/PUNCT]() (2; 0% instances), [kk-pos/PUNCT]()-[kk-pos/PUNCT]() (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `punct`: [kk-pos/VERB]()-[kk-pos/PUNCT]() (716; 56% instances), [kk-pos/NOUN]()-[kk-pos/PUNCT]() (243; 19% instances), [kk-pos/ADJ]()-[kk-pos/PUNCT]() (102; 8% instances), [kk-pos/PROPN]()-[kk-pos/PUNCT]() (61; 5% instances), [kk-pos/NUM]()-[kk-pos/PUNCT]() (52; 4% instances), [kk-pos/PRON]()-[kk-pos/PUNCT]() (24; 2% instances), [kk-pos/ADV]()-[kk-pos/PUNCT]() (17; 1% instances), [kk-pos/INTJ]()-[kk-pos/PUNCT]() (15; 1% instances), [kk-pos/VERB]()-[kk-pos/PART]() (13; 1% instances), [kk-pos/NOUN]()-[kk-pos/PART]() (8; 1% instances), [kk-pos/PRON]()-[kk-pos/PART]() (4; 0% instances), [kk-pos/ADJ]()-[kk-pos/PART]() (3; 0% instances), [kk-pos/AUX]()-[kk-pos/PUNCT]() (3; 0% instances), [kk-pos/ADP]()-[kk-pos/PUNCT]() (2; 0% instances), [kk-pos/ADV]()-[kk-pos/PART]() (2; 0% instances), [kk-pos/INTJ]()-[kk-pos/PART]() (2; 0% instances), [kk-pos/SCONJ]()-[kk-pos/PUNCT]() (2; 0% instances), [kk-pos/NUM]()-[kk-pos/PART]() (1; 0% instances), [kk-pos/PROPN]()-[kk-pos/PART]() (1; 0% instances), [kk-pos/PUNCT]()-[kk-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,26 +38,24 @@ The following 12 pairs of parts of speech are connected with `punct`: [kk-pos/VE
 2	—	—	PUNCT	guio	_	1	punct	_	_
 3	діни	діни	ADJ	adj	_	4	amod	_	_
 4	_	мемлекет	NOUN	n	_	0	root	_	nom
-5	_	е	VERB	cop	_	4	cop	_	aor|p3|sg
+5	_	е	AUX	cop	_	4	cop	_	aor|p3|sg
 6	.	.	PUNCT	sent	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 8 punct	color:blue
-1	Бастауыш	бастауыш	ADJ	adj	_	2	amod	_	_
-2	білім	білім	NOUN	n	_	4	nsubj	_	nom
-3	баршаға	барша	PRON	prn	_	4	nmod	_	def|dat
-4	міндетті	міндетті	ADJ	adj	_	6	nsubj	_	_
-5	болуы	бол	VERB	v	_	4	cop	_	iv|ger|px3sp|nom
-6	_	тиіс	ADJ	adj	_	0	root	_	_
-7	_	е	VERB	cop	_	6	cop	_	aor|p3|sg
-8	.	.	PUNCT	sent	_	6	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 punct	color:blue
+1	Жер	жер	NOUN	n	_	2	nmod:poss	_	nom
+2	беті	бет	NOUN	n	_	3	nmod:poss	_	px3sp|nom
+3	суы	су	NOUN	n	_	4	nsubj	_	px3sp|nom
+4	_	аз	ADJ	adj	_	0	root	_	_
+5	_	е	AUX	cop	_	4	cop	_	aor|p3|sg
+6	.	.	PUNCT	sent	_	4	punct	_	_
 
 ~~~
 

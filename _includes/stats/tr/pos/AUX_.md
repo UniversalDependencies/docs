@@ -4,27 +4,27 @@
 
 ## Treebank Statistics (UD_Turkish)
 
-There are 5 `AUX` lemmas (0%), 135 `AUX` types (1%) and 976 `AUX` tokens (2%).
+There are 5 `AUX` lemmas (0%), 122 `AUX` types (1%) and 976 `AUX` tokens (2%).
 Out of 14 observed tags, the rank of `AUX` is: 14 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>i, mı, mi, mu, mü</em>
 
-The 10 most frequent `AUX` types:  <em>mi, mı, dır, dir, ydi, dı, ydı, tu, mu, dur</em>
+The 10 most frequent `AUX` types:  <em>dir, mi, dır, mı, ydi, dı, ydı, tu, mu, dur</em>
 
 The 10 most frequent ambiguous lemmas: <em>i</em> ([AUX]() 752, [NOUN]() 3), <em>mı</em> ([AUX]() 84, [CONJ]() 1), <em>mi</em> ([AUX]() 81, [CONJ]() 2), <em>mu</em> ([AUX]() 52, [CONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>mi</em> ([AUX]() 65, [CONJ]() 2), <em>mı</em> ([AUX]() 64, [CONJ]() 1), <em>dır</em> ([AUX]() 63, [ADP]() 10), <em>mu</em> ([AUX]() 26, [CONJ]() 1), <em>ti</em> ([AUX]() 10, [NOUN]() 1), <em>lar</em> ([ADP]() 15, [AUX]() 7), <em>ler</em> ([ADP]() 11, [AUX]() 6, [NOUN]() 1), <em>iz</em> ([AUX]() 4, [NOUN]() 2), <em>tür</em> ([NOUN]() 6, [AUX]() 3), <em>dik</em> ([ADJ]() 5, [AUX]() 1)
+The 10 most frequent ambiguous types:  <em>mi</em> ([AUX]() 65, [CONJ]() 2), <em>dır</em> ([AUX]() 64, [ADP]() 10), <em>mı</em> ([AUX]() 64, [CONJ]() 1), <em>mu</em> ([AUX]() 26, [CONJ]() 1), <em>ti</em> ([AUX]() 10, [NOUN]() 1), <em>lar</em> ([ADP]() 15, [AUX]() 7), <em>ler</em> ([ADP]() 11, [AUX]() 6, [NOUN]() 1), <em>iz</em> ([AUX]() 4, [NOUN]() 2), <em>tür</em> ([NOUN]() 6, [AUX]() 3), <em>dik</em> ([ADJ]() 5, [AUX]() 1)
 
 
 * <em>mi</em>
   * [AUX]() 65: <em>Versem <b>mi</b> acaba ? Yanlış bir şey yapmış olmayalım ? diye sordu .</em>
   * [CONJ]() 2: <em>Bizde , günahı işledin <b>mi</b> bitti .</em>
+* <em>dır</em>
+  * [AUX]() 64: <em>O , değişik renkleri ve yandan ışıkları ile karşımda hazır <b>dır</b> .</em>
+  * [ADP]() 10: <em>Bu hanım , son beş yıl <b>dır</b> eroin kullanıyor .</em>
 * <em>mı</em>
   * [AUX]() 64: <em>İnanır <b>mı</b> .</em>
   * [CONJ]() 1: <em>Halbuki arada gidip günah çıkardın <b>mı</b> , kendini bir miktar yırtmış hissediyorsun , temizlenmiş hissediyorsun , aynı haltı yiyeceğini bilsen bile bir güvencen var .</em>
-* <em>dır</em>
-  * [AUX]() 63: <em>O , değişik renkleri ve yandan ışıkları ile karşımda hazır <b>dır</b> .</em>
-  * [ADP]() 10: <em>Bu hanım , son beş yıl <b>dır</b> eroin kullanıyor .</em>
 * <em>mu</em>
   * [AUX]() 26: <em>Bir mektup <b>mu</b> .</em>
   * [CONJ]() 1: <em>Gerçi ben kendi kendime idare ederdim ama şu dersler yok <b>mu</b> , o konuda kesinlikle yardıma ihtiyacım vardı .</em>
@@ -50,9 +50,9 @@ The 10 most frequent ambiguous types:  <em>mi</em> ([AUX]() 65, [CONJ]() 2), <em
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 27.000000 (the average of all parts of speech is 2.818565).
+The form / lemma ratio of `AUX` is 24.400000 (the average of all parts of speech is 2.815350).
 
-The 1st highest number of forms (112) was observed with the lemma “i”: <em>'di, 'dı, 'dır, 'tı, 'ydi, 'ydı, akutistan'dayım, ayoşmuş, di, dik, dim, din, dir, du, duk, dular, dum, dur, durlar, dü, düm, dür, dı, dım, dır, dırlar, edendir, edenmiş, edir, erdeydin, eredesin, eredesiniz, eredeydi, etinlerdir, eydi, eymiş, im, immiş, imse, imsiniz, ir, irerken, iz, ken, lar, lardır, ledir, ler, lerdir, lırsınız, miş, müş, mış, mışsın, okurken, ostakoviç'miş, s'ın, sa, se, sem, sin, sinizdir, siyse, sun, sunuz, sın, sınız, ti, tir, tu, tum, tur, tü, tür, tı, tılar, tım, tır, usevisin, ydi, ydik, ydiler, ydim, ydin, ydu, ydum, ydü, ydı, ydık, ydılar, ydım, ydınız, yim, yiz, yken, ymiş, ymişçesine, ymuş, ymış, ymışım, ymışız, ysa, yse, yum, yuz, yüz, yım, yız, üdür, üm, ım, ız</em>.
+The 1st highest number of forms (99) was observed with the lemma “i”: <em>'di, 'dı, 'dır, 'tı, 'ydi, 'ydı, akutistan'dayım, di, dik, dim, din, dir, du, duk, dular, dum, dur, durlar, dü, düm, dür, dı, dım, dır, dırlar, edir, eymiş, im, immiş, imse, iz, ken, lar, lardır, ledir, ler, lerdir, miş, muş, müş, mış, mışsın, okurken, s'ın, sa, se, sem, sin, siniz, sinizdir, siyse, sun, sunuz, sın, sınız, ti, tir, tu, tum, tur, tü, tür, tı, tılar, tım, tır, ydi, ydik, ydiler, ydim, ydin, ydu, ydum, ydü, ydı, ydık, ydılar, ydım, ydınız, yim, yiz, yken, ymiş, ymişçesine, ymuş, ymış, ymışım, ymışız, ysa, yse, yum, yuz, yüz, yım, yız, üdür, üm, ım, ız</em>.
 
 The 2nd highest number of forms (9) was observed with the lemma “mı”: <em>mı, mıdır, mısın, mısınız, mıydı, mıydım, mıymış, mıyım, mıyız</em>.
 
@@ -71,7 +71,7 @@ Examples: <em>ydi, dı, ydı, tu, ydu, tı, di, ti, du, mıydı</em>
 
 `AUX` nodes are attached to their parents using 4 different relations: [tr-dep/cop]() (751; 77% instances), [tr-dep/aux:q]() (223; 23% instances), [tr-dep/advcl]() (1; 0% instances), [tr-dep/root]() (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: [NOUN]() (348; 36% instances), [ADJ]() (293; 30% instances), [VERB]() (163; 17% instances), [PRON]() (72; 7% instances), [ADV]() (64; 7% instances), [ADP]() (18; 2% instances), [PROPN]() (13; 1% instances), [NUM]() (3; 0% instances), [CONJ]() (1; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: [NOUN]() (349; 36% instances), [ADJ]() (293; 30% instances), [VERB]() (162; 17% instances), [PRON]() (72; 7% instances), [ADV]() (64; 7% instances), [ADP]() (18; 2% instances), [PROPN]() (13; 1% instances), [NUM]() (3; 0% instances), [CONJ]() (1; 0% instances), [ROOT]() (1; 0% instances)
 
 970 (99%) `AUX` nodes are leaves.
 

@@ -2,6 +2,90 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+1296 nodes (1%) are attached to their parents as `amod`.
+
+1289 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07253086419753.
+
+The following 14 pairs of parts of speech are connected with `amod`: [ja-pos/NOUN]()-[ja-pos/DET]() (864; 67% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (368; 28% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (14; 1% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (12; 1% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (10; 1% instances), [ja-pos/NUM]()-[ja-pos/DET]() (10; 1% instances), [ja-pos/ADJ]()-[ja-pos/DET]() (8; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (2; 0% instances), [ja-pos/ADV]()-[ja-pos/DET]() (2; 0% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/DET]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 amod	color:blue
+1	今回	_	NOUN	NOUN	_	9	advmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	日本の	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
+4	メディアも	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
+5	この	_	DET	DET	_	6	amod	_	_
+6	テストに	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
+7	参加する	_	VERB	VERB-AUX	_	8	ccomp	_	_
+8	ことが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	できたので	_	VERB	VERB-AUX-CONJ	_	13	advcl	_	_
+10	、	_	PUNCT	.	_	9	punct	_	_
+11	最新バージョンの	_	NOUN	NOUN-POSTP	_	12	nmod	_	_
+12	出来具合を	_	NOUN	NOUN-PRT	_	13	nmod	_	_
+13	レポートしていきたい。	_	VERB	VERB-AUX-AUX-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 amod	color:blue
+1	同僚教師の	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
+2	すみれと	_	NOUN	NOUN-CONJ	_	6	nmod	_	_
+3	彩は	_	NOUN	NOUN-PRT	_	2	conj	_	_
+4	そんな	_	ADJ	ADJ	_	5	amod	_	_
+5	夕子と	_	NOUN	NOUN-POSTP	_	6	nmod	_	_
+6	意気投合し	_	VERB	VERB	_	13	advcl	_	_
+7	、	_	PUNCT	.	_	6	punct	_	_
+8	問題を	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	解決する	_	VERB	VERB-AUX	_	10	ccomp	_	_
+10	ため	_	NOUN	NOUN	_	6	conj	_	_
+11	行動を	_	NOUN	NOUN-PRT	_	13	nmod	_	_
+12	共に	_	NOUN	NOUN-POSTP	_	13	nmod	_	_
+13	する。	_	VERB	VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 amod	color:blue
+1	正之の	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
+2	没後	_	NOUN	NOUN	_	12	advmod	_	_
+3	、	_	PUNCT	.	_	2	punct	_	_
+4	藩主の	_	NOUN	NOUN-POSTP	_	5	nmod	_	_
+5	座は	_	NOUN	NOUN-PRT	_	7	nmod	_	_
+6	子の	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
+7	正経	_	NOUN	NOUN	_	10	amod	_	_
+8	、	_	PUNCT	.	_	7	punct	_	_
+9	その	_	DET	DET	_	7	name	_	_
+10	弟の	_	NOUN	NOUN-POSTP	_	11	nmod	_	_
+11	正容が	_	NOUN	NOUN-PRT	_	12	nmod	_	_
+12	継いだ。	_	VERB	VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

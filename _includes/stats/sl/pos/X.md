@@ -13,7 +13,7 @@ The 10 most frequent `X` types:  <em>dr., t., d., sv., P., i., of, oz., the, M.<
 
 The 10 most frequent ambiguous lemmas: <em>V.</em> ([X]() 3, [NUM]() 1), <em>da</em> ([SCONJ]() 1772, [PART]() 8, [X]() 2), <em>les</em> ([NOUN]() 9, [X]() 2), <em>a</em> ([CONJ]() 96, [ADV]() 2, [X]() 1), <em>do</em> ([ADP]() 353, [X]() 1), <em>in</em> ([CONJ]() 3242, [ADV]() 5, [X]() 1), <em>life</em> ([X]() 1, [NOUN]() 1), <em>on</em> ([PRON]() 1561, [X]() 1), <em>pa</em> ([CONJ]() 957, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([X]() 5, [VERB]() 1), <em>sta</em> ([AUX]() 165, [VERB]() 36, [X]() 4), <em>V.</em> ([X]() 3, [NUM]() 1), <em>Les</em> ([PROPN]() 2, [X]() 2), <em>da</em> ([SCONJ]() 1726, [VERB]() 9, [X]() 2, [PART]() 1), <em>mu</em> ([PRON]() 158, [X]() 2), <em>A</em> ([CONJ]() 31, [NOUN]() 7, [X]() 1, [ADV]() 1), <em>Art</em> ([PROPN]() 1, [X]() 1), <em>Life</em> ([X]() 1, [NOUN]() 1), <em>National</em> ([PROPN]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>de</em> ([X]() 5, [VERB]() 1), <em>sta</em> ([AUX]() 165, [VERB]() 36, [X]() 4), <em>V.</em> ([X]() 3, [NUM]() 1), <em>Les</em> ([PROPN]() 2, [X]() 2), <em>da</em> ([SCONJ]() 1726, [VERB]() 9, [X]() 2, [PART]() 1), <em>mu</em> ([PRON]() 158, [X]() 2), <em>A</em> ([CONJ]() 31, [NOUN]() 7, [ADV]() 1, [X]() 1), <em>Art</em> ([PROPN]() 1, [X]() 1), <em>Life</em> ([NOUN]() 1, [X]() 1), <em>National</em> ([PROPN]() 2, [X]() 1)
 
 
 * <em>de</em>
@@ -40,14 +40,14 @@ The 10 most frequent ambiguous types:  <em>de</em> ([X]() 5, [VERB]() 1), <em>st
 * <em>A</em>
   * [CONJ]() 31: <em><b>A</b> to ni le zavodska krinka , pod katero bi se skrivalo vse kaj drugega .</em>
   * [NOUN]() 7: <em>V obliki črke <b>A</b> .</em>
-  * [X]() 1: <em>MEMOIRS OF <b>A</b> WOMAN TRAVELLING ALONE .</em>
   * [ADV]() 1: <em><b>A</b> veste , koliko žensk takole zapusti svoje partnerje in se potem vrnejo … ?</em>
+  * [X]() 1: <em>MEMOIRS OF <b>A</b> WOMAN TRAVELLING ALONE .</em>
 * <em>Art</em>
   * [PROPN]() 1: <em>Janez Pipan , ravnatelj ljubljanske Drame , mi je zaupal režijo gledališke uspešnice <b>Art</b> , ki jo je napisala naturalizirana Francozinja Yasmina Reza .</em>
   * [X]() 1: <em>Danes je zvrst in vse njene izpeljave bolj znana pod izrazom performans ( Performance <b>Art</b> ) .</em>
 * <em>Life</em>
-  * [X]() 1: <em>Louise Hay v svoji uspešnici You Can Heal Your <b>Life</b> ( Svoje življenje lahko ozdravite sami ) piše :</em>
   * [NOUN]() 1: <em>Harrisonov prijatelj Michael Palin iz ekipe Leteči cirkus Montyja Pytona mu je nekoč namreč potožil , da mu je zmanjkalo denarja za film The <b>Life</b> of Brian .</em>
+  * [X]() 1: <em>Louise Hay v svoji uspešnici You Can Heal Your <b>Life</b> ( Svoje življenje lahko ozdravite sami ) piše :</em>
 * <em>National</em>
   * [PROPN]() 2: <em>Ljubiteljev konjeniškega športa je namreč v Angliji še vedno veliko in za neposredni prenos dirke Grand <b>National</b> jih niso želeli prikrajšati .</em>
   * [X]() 1: <em>Volilna taktika Pauline Howard utegne njegovo koalicijo , sestavljeno iz torijcev ( Liberal Party ) in kmetovalcev ( <b>National</b> Party ) veljati precej marginalnih sedežev na podeželju .</em>

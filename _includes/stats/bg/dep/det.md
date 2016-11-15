@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3471 nodes (2%) are attached to their parents as `det`.
+3474 nodes (2%) are attached to their parents as `det`.
 
-2014 instances of `det` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19734946701239.
+2015 instances of `det` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1971790443293.
 
-The following 8 pairs of parts of speech are connected with `det`: [bg-pos/NOUN]()-[bg-pos/DET]() (2002; 58% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (1053; 30% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (380; 11% instances), [bg-pos/PROPN]()-[bg-pos/DET]() (15; 0% instances), [bg-pos/NUM]()-[bg-pos/PRON]() (7; 0% instances), [bg-pos/DET]()-[bg-pos/PRON]() (6; 0% instances), [bg-pos/NOUN]()-[bg-pos/VERB]() (6; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: [bg-pos/NOUN]()-[bg-pos/DET]() (2002; 58% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (1053; 30% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (381; 11% instances), [bg-pos/PROPN]()-[bg-pos/DET]() (15; 0% instances), [bg-pos/NUM]()-[bg-pos/PRON]() (7; 0% instances), [bg-pos/DET]()-[bg-pos/PRON]() (6; 0% instances), [bg-pos/NOUN]()-[bg-pos/VERB]() (6; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (2; 0% instances), [bg-pos/PRON]()-[bg-pos/DET]() (2; 0% instances).
 
 
 ~~~ conllu

@@ -162,7 +162,7 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (883; 67%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (664; 68%),
 <tt>VERB --[<a href="../dep/cop.html">cop</a>]--> VERB</tt> (9; 75%),
-<tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (6; 55%),
 <tt>VERB --[<a href="../dep/compound.html">compound</a>]--> VERB</tt> (6; 100%),
+<tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (6; 55%),
 <tt>VERB --[<a href="../dep/compound.html">compound</a>]--> AUX</tt> (1; 100%).
 

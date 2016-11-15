@@ -29,7 +29,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: [no-pos/VERB
 7	viktig	viktig	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	10	amod	_	_
 8	og	og	CONJ	_	_	7	cc	_	_
 9	vanskelig	vanskelig	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	7	conj	_	_
-10	oppgave	oppgave	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	dobj	_	_
+10	oppgave	oppgave	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	dobj	_	SpaceAfter=No
 11	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: [no-pos/VERB
 8	vi	vi	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
 9	synes	synes	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 10	om	om	ADP	_	_	11	case	_	_
-11	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+11	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nmod	_	SpaceAfter=No
 12	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -66,11 +66,11 @@ The following 7 pairs of parts of speech are connected with `iobj`: [no-pos/VERB
 1	Jeg	jeg	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	skal	skulle	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	ihvertfall	ihvertfall	ADV	_	_	4	advmod	_	_
-4	prøve	prøve	VERB	_	VerbForm=Inf	0	root	_	_
+4	prøve	prøve	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 5	,	$,	PUNCT	_	_	4	punct	_	_
 6	lover	love	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 7	Svindal	Svindal	PROPN	_	_	6	nsubj	_	_
-8	Dagbladet.no	Dagbladet.no	PROPN	_	_	6	iobj	_	_
+8	Dagbladet.no	Dagbladet.no	PROPN	_	_	6	iobj	_	SpaceAfter=No
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~

@@ -11,9 +11,9 @@ The 10 most frequent `DET` lemmas: <em>an, na, a, seo, sin, aon, eile, gach, mo,
 
 The 10 most frequent `DET` types:  <em>an, na, a, seo, sin, aon, eile, gach, mo, do</em>
 
-The 10 most frequent ambiguous lemmas: <em>an</em> ([DET]() 1016, [PART]() 8), <em>a</em> ([PART]() 864, [DET]() 182, [X]() 4, [ADP]() 1), <em>seo</em> ([DET]() 114, [PRON]() 26, [X]() 10, [VERB]() 4), <em>sin</em> ([PRON]() 109, [DET]() 106, [X]() 16, [VERB]() 2), <em>aon</em> ([DET]() 73, [NUM]() 8, [NOUN]() 2), <em>do</em> ([ADP]() 255, [PART]() 77, [DET]() 19, [X]() 1), <em>uile</em> ([DET]() 11, [ADJ]() 1), <em>cibé</em> ([DET]() 7, [PRON]() 1), <em>ár</em> ([DET]() 7, [NOUN]() 1), <em>cé</em> ([PRON]() 23, [SCONJ]() 10, [DET]() 2, [NOUN]() 1, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>an</em> ([DET]() 1016, [PART]() 8), <em>a</em> ([PART]() 864, [DET]() 182, [X]() 4, [ADP]() 1), <em>seo</em> ([DET]() 114, [PRON]() 26, [X]() 10, [VERB]() 4), <em>sin</em> ([PRON]() 109, [DET]() 106, [X]() 16, [VERB]() 2), <em>aon</em> ([DET]() 73, [NUM]() 8, [NOUN]() 2), <em>do</em> ([ADP]() 255, [PART]() 77, [DET]() 19, [X]() 1), <em>uile</em> ([DET]() 11, [ADJ]() 1), <em>cibé</em> ([DET]() 7, [PRON]() 1), <em>ár</em> ([DET]() 7, [NOUN]() 1), <em>cé</em> ([PRON]() 23, [SCONJ]() 10, [DET]() 2, [VERB]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>an</em> ([DET]() 964, [PART]() 3, [VERB]() 2), <em>a</em> ([PART]() 855, [DET]() 187, [ADP]() 1, [X]() 1), <em>seo</em> ([DET]() 114, [PRON]() 23), <em>sin</em> ([DET]() 106, [PRON]() 88), <em>aon</em> ([DET]() 67, [NUM]() 5, [NOUN]() 2), <em>do</em> ([ADP]() 70, [PART]() 18, [DET]() 17), <em>a'</em> ([DET]() 6, [ADP]() 2, [PART]() 1), <em>uilig</em> ([DET]() 4, [ADJ]() 1), <em>cén</em> ([PRON]() 9, [DET]() 1), <em>haon</em> ([DET]() 2, [NUM]() 2)
+The 10 most frequent ambiguous types:  <em>an</em> ([DET]() 964, [PART]() 3, [VERB]() 2), <em>a</em> ([PART]() 855, [DET]() 187, [X]() 1, [ADP]() 1), <em>seo</em> ([DET]() 114, [PRON]() 23), <em>sin</em> ([DET]() 106, [PRON]() 88), <em>aon</em> ([DET]() 67, [NUM]() 5, [NOUN]() 2), <em>do</em> ([ADP]() 70, [PART]() 18, [DET]() 17), <em>a'</em> ([DET]() 6, [ADP]() 2, [PART]() 1), <em>uilig</em> ([DET]() 4, [ADJ]() 1), <em>cén</em> ([PRON]() 9, [DET]() 1), <em>haon</em> ([DET]() 2, [NUM]() 2)
 
 
 * <em>an</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>an</em> ([DET]() 964, [PART]() 3, [VE
 * <em>a</em>
   * [PART]() 855: <em>Seo an fear <b>a</b> chonaic an bhean .</em>
   * [DET]() 187: <em>Fágann Mícheál na daltaí crom os_cionn <b>a</b> gcuid foghlama .</em>
-  * [ADP]() 1: <em>' Anonn leis de chéim mhall go_dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
   * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
+  * [ADP]() 1: <em>' Anonn leis de chéim mhall go_dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
 * <em>seo</em>
   * [DET]() 114: <em>Tá urraíocht déanta ag Údarás na Gaeltachta ar an gclár <b>seo</b> .</em>
   * [PRON]() 23: <em>Thiocfadh leat caint agus scríobh fá <b>seo</b> go minic agus go fada .</em>

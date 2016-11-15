@@ -9,7 +9,7 @@ This relation is universal.
 929 nodes (0%) are attached to their parents as `nsubjpass`.
 
 782 instances of `nsubjpass` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.24327233584499.
+Average distance between parent and child is 5.26803013993541.
 
 The following 7 pairs of parts of speech are connected with `nsubjpass`: [pt-pos/VERB]()-[pt-pos/NOUN]() (673; 72% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (154; 17% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (76; 8% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (10; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (6; 1% instances), [pt-pos/VERB]()-[pt-pos/DET]() (6; 1% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (4; 0% instances).
 
@@ -62,6 +62,54 @@ The following 7 pairs of parts of speech are connected with `nsubjpass`: [pt-pos
 4	vai	ir	AUX	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	ser	ser	VERB	v-inf	VerbForm=Inf	6	auxpass	_	_
 6	reatada	reatar	VERB	v-pcp|F|S	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+1 nodes (0%) are attached to their parents as `nsubjpass`.
+
+1 instances of `nsubjpass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 14.
+
+The following 1 pairs of parts of speech are connected with `nsubjpass`: [pt-pos/VERB]()-[pt-pos/NOUN]() (1; 100% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 1 nsubjpass	color:blue
+1	Peças	peça	NOUN	<np-idf>|N|F|P|@SUBJ>	Gender=Fem|Number=Plur	15	nsubjpass	_	_
+2	de	de	ADP	PRP|@N<	_	3	case	_	_
+3	mobiliário	mobiliário	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	1	nmod	_	_
+4	feito	fazer	VERB	<mv>|V|PCP|M|S|@ICL-N<	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
+5	a	a	ADP	<sam->|PRP|@<ADVL	_	7	case	_	_
+6	a	o	DET	<-sam>|<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	mão	mão	NOUN	<np-def>|N|F|S|@P<	Gender=Fem|Number=Sing	4	nmod	_	_
+8	,	,	PUNCT	PU|@PU	_	9	punct	_	_
+9	usadas	usar	VERB	<mv>|V|PCP|F|P|@ICL-N<PRED	Gender=Fem|Number=Plur|VerbForm=Part	1	acl	_	_
+10	em	em	ADP	PRP|@<ADVL	_	11	case	_	_
+11	decoração	decoração	NOUN	<np-idf>|N|F|S|@P<	Gender=Fem|Number=Sing	9	nmod	_	_
+12	,	,	PUNCT	PU|@PU	_	9	punct	_	_
+13	podem	poder	AUX	<aux>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	ser	ser	AUX	<aux>|V|INF|@ICL-AUX<	VerbForm=Inf	15	auxpass	_	_
+15	encontradas	encontrar	VERB	<mv>|V|PCP2|PAS|F|P|@ICL-AUX<	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
+16	em	em	ADP	PRP|@<ADVL	_	17	case	_	_
+17	leilão	leilão	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	15	nmod	_	_
+18	por	por	ADP	PRP|@<ADVL	_	20	case	_	_
+19	até	até	ADV	ADV|@>N	_	20	advmod	_	_
+20	US$	US$	NOUN	<np-idf>|N|M|P|@P<	Gender=Masc|Number=Plur	15	nmod	_	_
+21	15	15	NUM	<card>|NUM|M|P|@>N	_	22	nummod	_	_
+22	mil	mil	NUM	<card>|<np-def>|NUM|M|P|@N<	_	20	nummod	_	_
 
 ~~~
 

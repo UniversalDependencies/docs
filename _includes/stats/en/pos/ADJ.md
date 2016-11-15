@@ -4,58 +4,57 @@
 
 ## Treebank Statistics (UD_English)
 
-There are 2436 `ADJ` lemmas (12%), 2439 `ADJ` types (11%) and 15959 `ADJ` tokens (6%).
+There are 2408 `ADJ` lemmas (12%), 2411 `ADJ` types (11%) and 15614 `ADJ` tokens (6%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 4 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>good, great, other, best, new, many, more, last, same, few</em>
 
 The 10 most frequent `ADJ` types:  <em>good, great, other, best, new, many, more, last, same, few</em>
 
-The 10 most frequent ambiguous lemmas: <em>good</em> ([ADJ]() 440, [NOUN]() 8, [ADV]() 2, [INTJ]() 1), <em>great</em> ([ADJ]() 362, [ADV]() 2, [INTJ]() 1), <em>other</em> ([ADJ]() 328, [NOUN]() 51, [ADV]() 3), <em>best</em> ([ADJ]() 289, [ADV]() 25, [PROPN]() 1), <em>new</em> ([ADJ]() 260, [VERB]() 3, [NOUN]() 2), <em>many</em> ([ADJ]() 218, [DET]() 2, [NOUN]() 1), <em>more</em> ([ADJ]() 213, [ADV]() 162), <em>last</em> ([ADJ]() 160, [VERB]() 19, [ADV]() 1), <em>few</em> ([ADJ]() 139, [NOUN]() 3), <em>sure</em> ([ADJ]() 138, [ADV]() 6, [INTJ]() 4)
+The 10 most frequent ambiguous lemmas: <em>good</em> ([ADJ]() 438, [NOUN]() 7, [ADV]() 2, [INTJ]() 1), <em>great</em> ([ADJ]() 360, [ADV]() 2, [INTJ]() 1), <em>other</em> ([ADJ]() 320, [NOUN]() 50, [ADV]() 3), <em>best</em> ([ADJ]() 288, [ADV]() 25, [PROPN]() 1), <em>new</em> ([ADJ]() 256, [VERB]() 3, [NOUN]() 2), <em>many</em> ([ADJ]() 212, [DET]() 2), <em>more</em> ([ADJ]() 205, [ADV]() 158), <em>last</em> ([ADJ]() 158, [VERB]() 18, [ADV]() 1), <em>few</em> ([ADJ]() 139, [NOUN]() 3), <em>sure</em> ([ADJ]() 137, [ADV]() 6, [INTJ]() 3)
 
-The 10 most frequent ambiguous types:  <em>good</em> ([ADJ]() 379, [NOUN]() 8, [ADV]() 2), <em>great</em> ([ADJ]() 252, [ADV]() 2, [INTJ]() 1), <em>other</em> ([ADJ]() 320, [ADV]() 2), <em>best</em> ([ADJ]() 210, [ADV]() 22, [PROPN]() 1), <em>new</em> ([ADJ]() 252, [VERB]() 3, [NOUN]() 1), <em>many</em> ([ADJ]() 192, [DET]() 2, [NOUN]() 1), <em>more</em> ([ADJ]() 201, [ADV]() 155), <em>last</em> ([ADJ]() 145, [VERB]() 7, [ADV]() 1), <em>few</em> ([ADJ]() 137, [NOUN]() 3), <em>sure</em> ([ADJ]() 138, [ADV]() 5)
+The 10 most frequent ambiguous types:  <em>good</em> ([ADJ]() 377, [NOUN]() 7, [ADV]() 2), <em>great</em> ([ADJ]() 250, [ADV]() 2, [INTJ]() 1), <em>other</em> ([ADJ]() 312, [ADV]() 2), <em>best</em> ([ADJ]() 209, [ADV]() 22, [PROPN]() 1), <em>new</em> ([ADJ]() 248, [VERB]() 3, [NOUN]() 1), <em>many</em> ([ADJ]() 186, [DET]() 2), <em>more</em> ([ADJ]() 193, [ADV]() 152), <em>last</em> ([ADJ]() 143, [VERB]() 7, [ADV]() 1), <em>few</em> ([ADJ]() 137, [NOUN]() 3), <em>sure</em> ([ADJ]() 137, [ADV]() 5)
 
 
 * <em>good</em>
-  * [ADJ]() 379: <em>So he 's got a -- I 'm a decision - maker and I can make <b>good</b> decisions .</em>
-  * [NOUN]() 8: <em>Any insult to the collective <b>good</b> brings us all down .</em>
+  * [ADJ]() 377: <em>So he 's got a -- I 'm a decision - maker and I can make <b>good</b> decisions .</em>
+  * [NOUN]() 7: <em>Any insult to the collective <b>good</b> brings us all down .</em>
   * [ADV]() 2: <em>Hope you 're doing <b>good</b> .</em>
 * <em>great</em>
-  * [ADJ]() 252: <em>Things with me are <b>great</b> .</em>
+  * [ADJ]() 250: <em>Things with me are <b>great</b> .</em>
   * [ADV]() 2: <em>to make convo , it 's short , so if things go <b>great</b> , you can</em>
   * [INTJ]() 1: <em><b>great</b> , we look forward to seeing you .</em>
 * <em>other</em>
-  * [ADJ]() 320: <em>The <b>other</b> problem ?</em>
+  * [ADJ]() 312: <em>The <b>other</b> problem ?</em>
   * [ADV]() 2: <em><b>other</b> than that i do n't know .</em>
 * <em>best</em>
-  * [ADJ]() 210: <em>This is the <b>best</b> solution given all the uncertainties we face .</em>
+  * [ADJ]() 209: <em>This is the <b>best</b> solution given all the uncertainties we face .</em>
   * [ADV]() 22: <em>I -- which I try to do , as <b>best</b> as I possibly can .</em>
   * [PROPN]() 1: <em>I 'm planning on buying a compact system camera at <b>best</b> buy ; so please list the one ( s ) I should purchase .</em>
 * <em>new</em>
-  * [ADJ]() 252: <em>Our <b>new</b> domain name is paulhastings.com .</em>
+  * [ADJ]() 248: <em>Our <b>new</b> domain name is paulhastings.com .</em>
   * [VERB]() 3: <em>Holly is very experienced and talented , and I could tell she <b>new</b> what she was doing right off the bat .</em>
   * [NOUN]() 1: <em>They might want to change the name to reflect the <b>new</b> yorkedness of the pizza , scrummy yummy sounds gimmicky to me .</em>
 * <em>many</em>
-  * [ADJ]() 192: <em>How <b>many</b> days will speed post take to reach from Delhi to Mumbai ?</em>
+  * [ADJ]() 186: <em>How <b>many</b> days will speed post take to reach from Delhi to Mumbai ?</em>
   * [DET]() 2: <em>" A fine comparison ! " said Sancho ; " though not so new but that I have heard it <b>many</b> and <b>many</b> a time , as well as that other one of the game of CHESS ; how , so long as the game lasts , each piece has its own particular office , and when the game is finished they are all mixed , jumbled up and shaken together , and stowed away in the bag , which is much like ending life in the grave . "</em>
-  * [NOUN]() 1: <em>The plain fact is that Bush has a sight more in the way of common humanity than a great <b>many</b> of his detractors .</em>
 * <em>more</em>
-  * [ADJ]() 201: <em>Traders over here seem to have a lot <b>more</b> respect for other humans .</em>
-  * [ADV]() 155: <em>There are way <b>more</b> stranger names in the U.S for areas than Miramar .</em>
+  * [ADJ]() 193: <em>Traders over here seem to have a lot <b>more</b> respect for other humans .</em>
+  * [ADV]() 152: <em>There are way <b>more</b> stranger names in the U.S for areas than Miramar .</em>
 * <em>last</em>
-  * [ADJ]() 145: <em>Well <b>last</b> night while I was sleeping , my hamster escaped from his cage .</em>
+  * [ADJ]() 143: <em>Well <b>last</b> night while I was sleeping , my hamster escaped from his cage .</em>
   * [VERB]() 7: <em>Great Service and hairstyles that <b>last</b> .</em>
   * [ADV]() 1: <em>Her mother Ismat <b>last</b> saw Aafia and her grandchildren before they left in a minicab at the end of March .</em>
 * <em>few</em>
   * [ADJ]() 137: <em>There are a <b>few</b> life theories like that which working through .</em>
   * [NOUN]() 3: <em>Noticed a <b>few</b> of these Cookie cutter places opening in Summit and New Providence .</em>
 * <em>sure</em>
-  * [ADJ]() 138: <em>Not <b>sure</b> if I am going to buy 17 " or 16 " wheels for the winter .</em>
+  * [ADJ]() 137: <em>Not <b>sure</b> if I am going to buy 17 " or 16 " wheels for the winter .</em>
   * [ADV]() 5: <em>It was <b>sure</b> beautiful coming up last night .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.001232 (the average of all parts of speech is 1.173797).
+The form / lemma ratio of `ADJ` is 1.001246 (the average of all parts of speech is 1.173735).
 
 The 1st highest number of forms (2) was observed with the lemma “fucking”: <em>FUCKING, Fucking</em>.
 
@@ -63,34 +62,34 @@ The 2nd highest number of forms (2) was observed with the lemma “south”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “vietnamese”: <em>VIETNAMESE, Vietnamese</em>.
 
-`ADJ` occurs with 3 features: [en-feat/Degree]() (15947; 100% instances), [en-feat/NumType]() (221; 1% instances), [en-feat/Number]() (5; 0% instances)
+`ADJ` occurs with 3 features: [en-feat/Degree]() (15602; 100% instances), [en-feat/NumType]() (212; 1% instances), [en-feat/Number]() (5; 0% instances)
 
 `ADJ` occurs with 5 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumType=Ord`, `Number=Sing`
 
 `ADJ` occurs with 6 feature combinations.
-The most frequent feature combination is `Degree=Pos` (14581 tokens).
+The most frequent feature combination is `Degree=Pos` (14273 tokens).
 Examples: <em>good, great, other, new, many, last, same, few, sure, little</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 30 different relations: [en-dep/amod]() (10609; 66% instances), [en-dep/root]() (1681; 11% instances), [en-dep/conj]() (1085; 7% instances), [en-dep/xcomp]() (659; 4% instances), [en-dep/ccomp]() (343; 2% instances), [en-dep/advcl]() (303; 2% instances), [en-dep/nmod]() (232; 1% instances), [en-dep/parataxis]() (227; 1% instances), [en-dep/dobj]() (171; 1% instances), [en-dep/acl:relcl]() (143; 1% instances), [en-dep/advmod]() (120; 1% instances), [en-dep/nsubj]() (109; 1% instances), [en-dep/appos]() (44; 0% instances), [en-dep/nmod:npmod]() (44; 0% instances), [en-dep/case]() (41; 0% instances), [en-dep/acl]() (32; 0% instances), [en-dep/compound]() (27; 0% instances), [en-dep/list]() (27; 0% instances), [en-dep/remnant]() (12; 0% instances), [en-dep/csubj]() (10; 0% instances), [en-dep/mark]() (10; 0% instances), [en-dep/nsubjpass]() (10; 0% instances), [en-dep/nummod]() (5; 0% instances), [en-dep/nmod:tmod]() (4; 0% instances), [en-dep/det]() (3; 0% instances), [en-dep/discourse]() (3; 0% instances), [en-dep/compound:prt]() (2; 0% instances), [en-dep/iobj]() (1; 0% instances), [en-dep/mwe]() (1; 0% instances), [en-dep/nmod:poss]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 30 different relations: [en-dep/amod]() (10342; 66% instances), [en-dep/root]() (1669; 11% instances), [en-dep/conj]() (1079; 7% instances), [en-dep/xcomp]() (645; 4% instances), [en-dep/ccomp]() (339; 2% instances), [en-dep/advcl]() (301; 2% instances), [en-dep/parataxis]() (227; 1% instances), [en-dep/nmod]() (224; 1% instances), [en-dep/dobj]() (169; 1% instances), [en-dep/acl:relcl]() (132; 1% instances), [en-dep/advmod]() (115; 1% instances), [en-dep/nsubj]() (104; 1% instances), [en-dep/nmod:npmod]() (44; 0% instances), [en-dep/appos]() (40; 0% instances), [en-dep/case]() (40; 0% instances), [en-dep/acl]() (30; 0% instances), [en-dep/compound]() (27; 0% instances), [en-dep/list]() (27; 0% instances), [en-dep/remnant]() (12; 0% instances), [en-dep/csubj]() (10; 0% instances), [en-dep/mark]() (10; 0% instances), [en-dep/nsubjpass]() (9; 0% instances), [en-dep/nummod]() (5; 0% instances), [en-dep/det]() (3; 0% instances), [en-dep/discourse]() (3; 0% instances), [en-dep/nmod:tmod]() (3; 0% instances), [en-dep/compound:prt]() (2; 0% instances), [en-dep/iobj]() (1; 0% instances), [en-dep/mwe]() (1; 0% instances), [en-dep/nmod:poss]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 14 different parts of speech: [NOUN]() (10629; 67% instances), [VERB]() (2088; 13% instances), [ROOT]() (1681; 11% instances), [ADJ]() (988; 6% instances), [PROPN]() (371; 2% instances), [NUM]() (85; 1% instances), [ADV]() (61; 0% instances), [PRON]() (19; 0% instances), [DET]() (17; 0% instances), [SYM]() (14; 0% instances), [AUX]() (3; 0% instances), [INTJ]() (1; 0% instances), [SCONJ]() (1; 0% instances), [X]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 14 different parts of speech: [NOUN]() (10216; 65% instances), [VERB]() (2057; 13% instances), [ROOT]() (1669; 11% instances), [ADJ]() (980; 6% instances), [PROPN]() (367; 2% instances), [PRON]() (150; 1% instances), [NUM]() (77; 0% instances), [ADV]() (61; 0% instances), [DET]() (17; 0% instances), [SYM]() (14; 0% instances), [AUX]() (3; 0% instances), [INTJ]() (1; 0% instances), [SCONJ]() (1; 0% instances), [X]() (1; 0% instances)
 
-10517 (66%) `ADJ` nodes are leaves.
+10253 (66%) `ADJ` nodes are leaves.
 
-1581 (10%) `ADJ` nodes have one child.
+1554 (10%) `ADJ` nodes have one child.
 
-895 (6%) `ADJ` nodes have two children.
+880 (6%) `ADJ` nodes have two children.
 
-2966 (19%) `ADJ` nodes have three or more children.
+2927 (19%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 14.
 
-Children of `ADJ` nodes are attached using 40 different relations: [en-dep/punct]() (2916; 16% instances), [en-dep/cop]() (2805; 16% instances), [en-dep/nsubj]() (2480; 14% instances), [en-dep/advmod]() (2189; 12% instances), [en-dep/nmod]() (1227; 7% instances), [en-dep/conj]() (1115; 6% instances), [en-dep/cc]() (1001; 6% instances), [en-dep/advcl]() (591; 3% instances), [en-dep/mark]() (542; 3% instances), [en-dep/aux]() (434; 2% instances), [en-dep/det]() (314; 2% instances), [en-dep/neg]() (274; 2% instances), [en-dep/ccomp]() (257; 1% instances), [en-dep/case]() (254; 1% instances), [en-dep/xcomp]() (245; 1% instances), [en-dep/parataxis]() (244; 1% instances), [en-dep/nmod:npmod]() (181; 1% instances), [en-dep/csubj]() (155; 1% instances), [en-dep/expl]() (134; 1% instances), [en-dep/amod]() (114; 1% instances), [en-dep/mwe]() (91; 1% instances), [en-dep/discourse]() (77; 0% instances), [en-dep/nmod:tmod]() (47; 0% instances), [en-dep/dobj]() (43; 0% instances), [en-dep/acl:relcl]() (32; 0% instances), [en-dep/list]() (32; 0% instances), [en-dep/nmod:poss]() (31; 0% instances), [en-dep/auxpass]() (24; 0% instances), [en-dep/compound]() (24; 0% instances), [en-dep/appos]() (21; 0% instances), [en-dep/nsubjpass]() (19; 0% instances), [en-dep/nummod]() (18; 0% instances), [en-dep/goeswith]() (17; 0% instances), [en-dep/acl]() (16; 0% instances), [en-dep/remnant]() (12; 0% instances), [en-dep/cc:preconj]() (10; 0% instances), [en-dep/vocative]() (10; 0% instances), [en-dep/reparandum]() (4; 0% instances), [en-dep/compound:prt]() (3; 0% instances), [en-dep/det:predet]() (3; 0% instances)
+Children of `ADJ` nodes are attached using 40 different relations: [en-dep/punct]() (2883; 16% instances), [en-dep/cop]() (2771; 16% instances), [en-dep/nsubj]() (2449; 14% instances), [en-dep/advmod]() (2164; 12% instances), [en-dep/nmod]() (1196; 7% instances), [en-dep/conj]() (1105; 6% instances), [en-dep/cc]() (991; 6% instances), [en-dep/advcl]() (579; 3% instances), [en-dep/mark]() (535; 3% instances), [en-dep/aux]() (429; 2% instances), [en-dep/det]() (305; 2% instances), [en-dep/neg]() (274; 2% instances), [en-dep/ccomp]() (255; 1% instances), [en-dep/parataxis]() (244; 1% instances), [en-dep/case]() (243; 1% instances), [en-dep/xcomp]() (243; 1% instances), [en-dep/nmod:npmod]() (176; 1% instances), [en-dep/csubj]() (155; 1% instances), [en-dep/expl]() (133; 1% instances), [en-dep/amod]() (113; 1% instances), [en-dep/mwe]() (86; 0% instances), [en-dep/discourse]() (75; 0% instances), [en-dep/nmod:tmod]() (47; 0% instances), [en-dep/dobj]() (43; 0% instances), [en-dep/acl:relcl]() (32; 0% instances), [en-dep/list]() (32; 0% instances), [en-dep/nmod:poss]() (31; 0% instances), [en-dep/auxpass]() (24; 0% instances), [en-dep/compound]() (23; 0% instances), [en-dep/appos]() (20; 0% instances), [en-dep/nsubjpass]() (19; 0% instances), [en-dep/nummod]() (18; 0% instances), [en-dep/goeswith]() (17; 0% instances), [en-dep/acl]() (16; 0% instances), [en-dep/remnant]() (12; 0% instances), [en-dep/cc:preconj]() (10; 0% instances), [en-dep/vocative]() (10; 0% instances), [en-dep/reparandum]() (4; 0% instances), [en-dep/compound:prt]() (3; 0% instances), [en-dep/det:predet]() (3; 0% instances)
 
-Children of `ADJ` nodes belong to 17 different parts of speech: [VERB]() (4502; 25% instances), [PUNCT]() (2925; 16% instances), [NOUN]() (2320; 13% instances), [ADV]() (2299; 13% instances), [PRON]() (1559; 9% instances), [CONJ]() (995; 6% instances), [ADJ]() (988; 5% instances), [AUX]() (419; 2% instances), [SCONJ]() (405; 2% instances), [DET]() (382; 2% instances), [ADP]() (358; 2% instances), [PROPN]() (345; 2% instances), [PART]() (327; 2% instances), [INTJ]() (52; 0% instances), [X]() (50; 0% instances), [NUM]() (41; 0% instances), [SYM]() (39; 0% instances)
+Children of `ADJ` nodes belong to 17 different parts of speech: [VERB]() (4450; 25% instances), [PUNCT]() (2892; 16% instances), [ADV]() (2273; 13% instances), [NOUN]() (2226; 13% instances), [PRON]() (1593; 9% instances), [CONJ]() (985; 6% instances), [ADJ]() (980; 6% instances), [AUX]() (414; 2% instances), [SCONJ]() (399; 2% instances), [DET]() (373; 2% instances), [ADP]() (342; 2% instances), [PROPN]() (338; 2% instances), [PART]() (325; 2% instances), [INTJ]() (50; 0% instances), [X]() (50; 0% instances), [NUM]() (39; 0% instances), [SYM]() (39; 0% instances)
 
 
 
@@ -105,16 +104,16 @@ The 10 most frequent `ADJ` lemmas: <em>_</em>
 
 The 10 most frequent `ADJ` types:  <em>_</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
-The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 15080, [DET]() 10562, [PRON]() 9758, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2520, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
+The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15635, [VERB]() 15080, [PRON]() 10618, [DET]() 10057, [PUNCT]() 9580, [ADP]() 8546, [ADJ]() 5857, [ADV]() 5704, [AUX]() 4533, [PART]() 3531, [CONJ]() 3198, [SCONJ]() 2516, [PROPN]() 1795, [NUM]() 844, [INTJ]() 80, [X]() 68, [SYM]() 39)
 
 
 * <em>_</em>
-  * [NOUN]() 15986: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ <b>_</b> _</em>
+  * [NOUN]() 15635: <em>_ _ _ _ <b>_</b> _ _ _ _ _ <b>_</b> _ _ _ _ _</em>
   * [VERB]() 15080: <em>_ <b>_</b> _ _ _ _ <b>_</b> _ _ _ _ <b>_</b> _ <b>_</b> _ _</em>
-  * [DET]() 10562: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
-  * [PRON]() 9758: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * [PRON]() 10618: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _</em>
+  * [DET]() 10057: <em>_ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _</em>
   * [PUNCT]() 9580: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b></em>
   * [ADP]() 8546: <em>_ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _</em>
   * [ADJ]() 5857: <em>_ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
@@ -122,7 +121,7 @@ The 10 most frequent ambiguous types:  <em>_</em> ([NOUN]() 15986, [VERB]() 1508
   * [AUX]() 4533: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _</em>
   * [PART]() 3531: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _</em>
   * [CONJ]() 3198: <em>_ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
-  * [SCONJ]() 2520: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * [SCONJ]() 2516: <em>_ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _</em>
   * [PROPN]() 1795: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _</em>
   * [NUM]() 844: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
   * [INTJ]() 80: <em>_ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
@@ -142,7 +141,7 @@ The 1st highest number of forms (1) was observed with the lemma “_”: <em>_</
 
 `ADJ` nodes are attached to their parents using 25 different relations: [en-dep/amod]() (3457; 59% instances), [en-dep/root]() (732; 12% instances), [en-dep/conj]() (425; 7% instances), [en-dep/xcomp]() (323; 6% instances), [en-dep/advcl]() (274; 5% instances), [en-dep/ccomp]() (239; 4% instances), [en-dep/parataxis]() (90; 2% instances), [en-dep/acl:relcl]() (73; 1% instances), [en-dep/nmod]() (53; 1% instances), [en-dep/dobj]() (47; 1% instances), [en-dep/advmod]() (32; 1% instances), [en-dep/nsubj]() (32; 1% instances), [en-dep/case]() (28; 0% instances), [en-dep/acl]() (12; 0% instances), [en-dep/csubj]() (11; 0% instances), [en-dep/nmod:npmod]() (9; 0% instances), [en-dep/csubjpass]() (5; 0% instances), [en-dep/nmod:tmod]() (4; 0% instances), [en-dep/nsubjpass]() (3; 0% instances), [en-dep/det]() (2; 0% instances), [en-dep/mark]() (2; 0% instances), [en-dep/appos]() (1; 0% instances), [en-dep/list]() (1; 0% instances), [en-dep/nmod:poss]() (1; 0% instances), [en-dep/remnant]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 12 different parts of speech: [NOUN]() (3586; 61% instances), [VERB]() (1084; 19% instances), [ROOT]() (732; 12% instances), [ADJ]() (330; 6% instances), [PROPN]() (48; 1% instances), [ADV]() (29; 0% instances), [NUM]() (26; 0% instances), [PRON]() (13; 0% instances), [DET]() (5; 0% instances), [AUX]() (2; 0% instances), [INTJ]() (1; 0% instances), [SYM]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 12 different parts of speech: [NOUN]() (3546; 61% instances), [VERB]() (1084; 19% instances), [ROOT]() (732; 12% instances), [ADJ]() (330; 6% instances), [PRON]() (54; 1% instances), [PROPN]() (48; 1% instances), [ADV]() (29; 0% instances), [NUM]() (26; 0% instances), [DET]() (4; 0% instances), [AUX]() (2; 0% instances), [INTJ]() (1; 0% instances), [SYM]() (1; 0% instances)
 
 3372 (58%) `ADJ` nodes are leaves.
 
@@ -156,7 +155,7 @@ The highest child degree of a `ADJ` node is 14.
 
 Children of `ADJ` nodes are attached using 40 different relations: [en-dep/cop]() (1619; 17% instances), [en-dep/nsubj]() (1392; 15% instances), [en-dep/advmod]() (1375; 14% instances), [en-dep/punct]() (1283; 13% instances), [en-dep/nmod]() (727; 8% instances), [en-dep/advcl]() (501; 5% instances), [en-dep/cc]() (467; 5% instances), [en-dep/conj]() (455; 5% instances), [en-dep/mark]() (402; 4% instances), [en-dep/aux]() (278; 3% instances), [en-dep/neg]() (178; 2% instances), [en-dep/xcomp]() (160; 2% instances), [en-dep/expl]() (137; 1% instances), [en-dep/csubj]() (130; 1% instances), [en-dep/parataxis]() (88; 1% instances), [en-dep/det]() (85; 1% instances), [en-dep/ccomp]() (68; 1% instances), [en-dep/case]() (64; 1% instances), [en-dep/mwe]() (35; 0% instances), [en-dep/nmod:npmod]() (29; 0% instances), [en-dep/nmod:tmod]() (20; 0% instances), [en-dep/nmod:poss]() (18; 0% instances), [en-dep/amod]() (17; 0% instances), [en-dep/discourse]() (8; 0% instances), [en-dep/dobj]() (7; 0% instances), [en-dep/nsubjpass]() (7; 0% instances), [en-dep/acl]() (5; 0% instances), [en-dep/acl:relcl]() (3; 0% instances), [en-dep/auxpass]() (3; 0% instances), [en-dep/cc:preconj]() (3; 0% instances), [en-dep/goeswith]() (3; 0% instances), [en-dep/appos]() (2; 0% instances), [en-dep/compound]() (2; 0% instances), [en-dep/nummod]() (2; 0% instances), [en-dep/compound:prt]() (1; 0% instances), [en-dep/det:predet]() (1; 0% instances), [en-dep/list]() (1; 0% instances), [en-dep/remnant]() (1; 0% instances), [en-dep/reparandum]() (1; 0% instances), [en-dep/vocative]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 17 different parts of speech: [VERB]() (2648; 28% instances), [ADV]() (1425; 15% instances), [PUNCT]() (1283; 13% instances), [PRON]() (1107; 12% instances), [NOUN]() (1067; 11% instances), [CONJ]() (469; 5% instances), [SCONJ]() (348; 4% instances), [ADJ]() (330; 3% instances), [AUX]() (283; 3% instances), [DET]() (226; 2% instances), [PART]() (208; 2% instances), [ADP]() (102; 1% instances), [PROPN]() (62; 1% instances), [NUM]() (11; 0% instances), [INTJ]() (6; 0% instances), [X]() (3; 0% instances), [SYM]() (1; 0% instances)
+Children of `ADJ` nodes belong to 17 different parts of speech: [VERB]() (2648; 28% instances), [ADV]() (1425; 15% instances), [PUNCT]() (1283; 13% instances), [PRON]() (1188; 12% instances), [NOUN]() (1043; 11% instances), [CONJ]() (469; 5% instances), [SCONJ]() (348; 4% instances), [ADJ]() (330; 3% instances), [AUX]() (283; 3% instances), [PART]() (208; 2% instances), [DET]() (169; 2% instances), [ADP]() (102; 1% instances), [PROPN]() (62; 1% instances), [NUM]() (11; 0% instances), [INTJ]() (6; 0% instances), [X]() (3; 0% instances), [SYM]() (1; 0% instances)
 
 
 

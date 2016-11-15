@@ -13,14 +13,14 @@ The 10 most frequent `AUX` types:  <em>by, bude, jsem, jsme, byl, budou, byla, b
 
 The 10 most frequent ambiguous lemmas: <em>být</em> ([VERB]() 25647, [AUX]() 20737), <em>bývat</em> ([VERB]() 154, [AUX]() 58)
 
-The 10 most frequent ambiguous types:  <em>by</em> ([AUX]() 7859, [VERB]() 5, [ADP]() 1, [PART]() 1), <em>bude</em> ([AUX]() 1843, [VERB]() 864), <em>jsem</em> ([AUX]() 1418, [VERB]() 134), <em>jsme</em> ([AUX]() 1404, [VERB]() 176), <em>byl</em> ([VERB]() 1246, [AUX]() 913), <em>budou</em> ([AUX]() 897, [VERB]() 206), <em>byla</em> ([VERB]() 765, [AUX]() 733), <em>být</em> ([VERB]() 1317, [AUX]() 745), <em>je</em> ([VERB]() 11424, [PRON]() 887, [AUX]() 713), <em>bylo</em> ([VERB]() 1045, [AUX]() 611)
+The 10 most frequent ambiguous types:  <em>by</em> ([AUX]() 7859, [VERB]() 5, [PART]() 1, [ADP]() 1), <em>bude</em> ([AUX]() 1843, [VERB]() 864), <em>jsem</em> ([AUX]() 1418, [VERB]() 134), <em>jsme</em> ([AUX]() 1404, [VERB]() 176), <em>byl</em> ([VERB]() 1246, [AUX]() 913), <em>budou</em> ([AUX]() 897, [VERB]() 206), <em>byla</em> ([VERB]() 765, [AUX]() 733), <em>být</em> ([VERB]() 1317, [AUX]() 745), <em>je</em> ([VERB]() 11424, [PRON]() 887, [AUX]() 713), <em>bylo</em> ([VERB]() 1045, [AUX]() 611)
 
 
 * <em>by</em>
   * [AUX]() 7859: <em>Jen cedule <b>by</b> byla jiná : FOR RENT ! - K PRONÁJMU !</em>
   * [VERB]() 5: <em>Bodejť <b>by</b> ne !</em>
-  * [ADP]() 1: <em>Bylo to strašně těžké , dosáhnout souhlasu , aby by Spojené státy mohly jednat <b>by</b> all means , s využitím všech možných prostředků .</em>
   * [PART]() 1: <em>Podmínkou jeho uvolnění je uzavření dohody o dispozičním ( stand - <b>by</b> ) úvěru s Mezinárodním měnovým fondem .</em>
+  * [ADP]() 1: <em>Bylo to strašně těžké , dosáhnout souhlasu , aby by Spojené státy mohly jednat <b>by</b> all means , s využitím všech možných prostředků .</em>
 * <em>bude</em>
   * [AUX]() 1843: <em>Zdůraznil , že banka <b>bude</b> půjčovat ne firmě , ale nám osobně .</em>
   * [VERB]() 864: <em>Chalupa pana Kouby <b>bude</b> zřejmě obtížně pronajatelná k trvalému bydlení .</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>by</em> ([AUX]() 7859, [VERB]() 5, [A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 24.500000 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `AUX` is 24.500000 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (42) was observed with the lemma “být”: <em>Nebudeš, bude, budem, budeme, budete, budeš, budiž, budou, budu, by, bych, bychom, byl, byla, byli, bylo, byly, bys, byste, být, býti, je, jsem, jsi, jsme, jsou, jsouce, jste, nebude, nebudeme, nebudete, nebudou, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nejsme, nejsou, není, si</em>.
 

@@ -8,10 +8,30 @@ This relation is universal.
 
 848 nodes (0%) are attached to their parents as `aux`.
 
-815 instances of `aux` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.69811320754717.
+842 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.70283018867925.
 
-The following 7 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]()-[pt-pos/AUX]() (426; 50% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (416; 49% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/AUX]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]()-[pt-pos/VERB]() (422; 50% instances), [pt-pos/VERB]()-[pt-pos/AUX]() (420; 50% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/AUX]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 aux	color:blue
+1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	bombeiro	bombeiro	NOUN	n|M|S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	suspeita	suspeitar	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	conj-s	_	8	mark	_	_
+5	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	golfinho	golfinho	NOUN	n|M|S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	tenha	ter	VERB	v-fin|PR|3S|SUBJ	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	morrido	morrer	VERB	v-pcp	VerbForm=Part	3	ccomp	_	_
+9	afogado	afogar	VERB	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	_
+10	.	.	PUNCT	punc	_	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -32,26 +52,6 @@ The following 7 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 10	ser	ser	VERB	v-inf	VerbForm=Inf	11	auxpass	_	_
 11	construídos	construir	VERB	v-pcp|M|P	Gender=Masc|Number=Plur|VerbForm=Part	6	acl	_	_
 12	.	.	PUNCT	punc	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 aux	color:blue
-1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	bombeiro	bombeiro	NOUN	n|M|S	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	suspeita	suspeitar	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	que	que	SCONJ	conj-s	_	8	mark	_	_
-5	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	golfinho	golfinho	NOUN	n|M|S	Gender=Masc|Number=Sing	8	nsubj	_	_
-7	tenha	ter	VERB	v-fin|PR|3S|SUBJ	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
-8	morrido	morrer	VERB	v-pcp	VerbForm=Part	3	ccomp	_	_
-9	afogado	afogar	VERB	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	_
-10	.	.	PUNCT	punc	_	3	punct	_	_
 
 ~~~
 
@@ -91,6 +91,84 @@ The following 7 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 27	este	este	DET	pron-det|<dem>|M|S	Gender=Masc|Number=Sing|PronType=Dem	28	det	_	_
 28	ano	ano	NOUN	n|M|S	Gender=Masc|Number=Sing	26	nmod	_	_
 29	.	.	PUNCT	punc	_	3	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+2443 nodes (1%) are attached to their parents as `aux`.
+
+2426 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.86819484240688.
+
+The following 9 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]()-[pt-pos/AUX]() (2272; 93% instances), [pt-pos/NOUN]()-[pt-pos/AUX]() (83; 3% instances), [pt-pos/ADJ]()-[pt-pos/AUX]() (64; 3% instances), [pt-pos/PRON]()-[pt-pos/AUX]() (13; 1% instances), [pt-pos/NUM]()-[pt-pos/AUX]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/AUX]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/AUX]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/AUX]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/AUX]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 aux	color:blue
+1	«	«	PUNCT	PU|@PU	_	4	punct	_	_
+2	Mas	mas	CONJ	KC|@CO	_	4	cc	_	_
+3	vou	ir	AUX	<aux>|V|PR|1S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	receber	receber	VERB	<mv>|V|INF|@ICL-AUX<	VerbForm=Inf	0	root	_	_
+5	atestado	atestado	NOUN	<np-idf>|N|M|S|@<ACC	Gender=Masc|Number=Sing	4	dobj	_	_
+6	de	de	ADP	PRP|@N<	_	7	case	_	_
+7	idoneidade	idoneidade	NOUN	<np-idf>|N|F|S|@P<	Gender=Fem|Number=Sing	5	nmod	_	_
+8	moral	moral	ADJ	ADJ|F|S|@N<	Gender=Fem|Number=Sing	7	amod	_	_
+9	.	.	PUNCT	PU|@PU	_	4	punct	_	_
+10	»	»	PUNCT	PU|@PU	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 aux	color:blue
+1	Carnaval	carnaval	NOUN	<np-idf>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	devia	dever	AUX	<aux>|V|IMPF|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
+3	ser	ser	VERB	<mv>|V|INF|@ICL-AUX<	VerbForm=Inf	5	cop	_	_
+4	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ano	ano	NOUN	<np-def>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	_
+6	todo	todo	DET	<quant>|DET|M|S|@N<	Gender=Masc|Number=Sing	5	det	_	_
+7	.	.	PUNCT	PU|@PU	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 6 aux	color:blue
+1	O	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	crítico	crítico	NOUN	<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	11	nsubj	_	_
+3	(	(	PUNCT	PU|@PU	_	4	punct	_	_
+4	é	ser	VERB	<first-cjt>|<mv>|V|PR|3S|IND|@FS-QUE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	/	/	CONJ	KC|@CO	_	4	punct	_	_
+6	deve	dever	AUX	<cjt>|<aux>|V|PR|3S|IND|@FS-QUE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+7	ser	ser	VERB	<mv>|V|INF|@ICL-AUX<	VerbForm=Inf	11	cop	_	_
+8	)	)	PUNCT	PU|@PU	_	4	punct	_	_
+9	,	,	PUNCT	PU|@PU	_	11	punct	_	_
+10	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	insolente	insolente	ADJ	<n>|<np-idf>|ADJ|M|S|@<SC	Gender=Masc|Number=Sing	4	parataxis	_	_
+12	de	de	ADP	<sam->|PRP|@N<	_	14	case	_	_
+13	a	o	DET	<-sam>|<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	razão	razão	NOUN	<np-def>|N|F|S|@P<	Gender=Fem|Number=Sing	11	nmod	_	_
+15	?	?	PUNCT	PU|@PU	_	4	punct	_	_
 
 ~~~
 

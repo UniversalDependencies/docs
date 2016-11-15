@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [sl-pos/AUX]() (6240; 4% instanc
 
 6240 [sl-pos/AUX]() tokens (87% of all `AUX` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `AUX` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6240; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6240; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5426; 87%), <tt><a href="Person.html">Person</a>=3</tt> (5345; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (4202; 67%).
+The most frequent other feature values with which `AUX` and `Negative` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (6240; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6240; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5426; 87%), <tt><a href="Person.html">Person</a>=3</tt> (5345; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (4202; 67%).
 
 `AUX` tokens may have the following values of `Negative`:
 
@@ -99,7 +99,7 @@ The feature is used with 2 part-of-speech tags: [sl-pos/VERB]() (1278; 4% instan
 
 1278 [sl-pos/VERB]() tokens (28% of all `VERB` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (1278; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1278; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1278; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1187; 93%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1066; 83%), <tt><a href="Person.html">Person</a>=3</tt> (1021; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (995; 78%).
+The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1278; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1278; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1278; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1187; 93%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1066; 83%), <tt><a href="Person.html">Person</a>=3</tt> (1021; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (995; 78%).
 
 `VERB` tokens may have the following values of `Negative`:
 

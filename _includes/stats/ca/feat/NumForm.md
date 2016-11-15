@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [ca-pos/NUM]() (6082; 1% instanc
 
 6082 [ca-pos/NUM]() tokens (66% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (6082; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6082; 100%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (4053; 67%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6082; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (6082; 100%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (4053; 67%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

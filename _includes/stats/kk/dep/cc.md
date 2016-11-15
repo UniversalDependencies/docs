@@ -6,41 +6,26 @@
 
 This relation is universal.
 
-124 nodes (2%) are attached to their parents as `cc`.
+134 nodes (2%) are attached to their parents as `cc`.
 
-122 instances of `cc` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.41129032258065.
+132 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.42537313432836.
 
-The following 8 pairs of parts of speech are connected with `cc`: [kk-pos/NOUN]()-[kk-pos/CONJ]() (57; 46% instances), [kk-pos/VERB]()-[kk-pos/CONJ]() (26; 21% instances), [kk-pos/ADJ]()-[kk-pos/CONJ]() (21; 17% instances), [kk-pos/PROPN]()-[kk-pos/CONJ]() (12; 10% instances), [kk-pos/VERB]()-[kk-pos/SCONJ]() (5; 4% instances), [kk-pos/ADJ]()-[kk-pos/SCONJ]() (1; 1% instances), [kk-pos/NUM]()-[kk-pos/CONJ]() (1; 1% instances), [kk-pos/PUNCT]()-[kk-pos/CONJ]() (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `cc`: [kk-pos/NOUN]()-[kk-pos/CONJ]() (60; 45% instances), [kk-pos/VERB]()-[kk-pos/CONJ]() (32; 24% instances), [kk-pos/ADJ]()-[kk-pos/CONJ]() (21; 16% instances), [kk-pos/PROPN]()-[kk-pos/CONJ]() (12; 9% instances), [kk-pos/VERB]()-[kk-pos/SCONJ]() (5; 4% instances), [kk-pos/ADJ]()-[kk-pos/SCONJ]() (1; 1% instances), [kk-pos/NOUN]()-[kk-pos/SCONJ]() (1; 1% instances), [kk-pos/NUM]()-[kk-pos/CONJ]() (1; 1% instances), [kk-pos/PUNCT]()-[kk-pos/CONJ]() (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 7 cc	color:blue
-1	Орысша	орысша	NOUN	n	_	2	dobj	_	nom
-2	оқу	оқы	VERB	v	_	3	csubj	_	tv|ger|nom
-3	_	керек	ADJ	adj	_	20	parataxis	_	_
-4	_	е	VERB	cop	_	3	cop	_	aor|p3|sg
-5	,	,	PUNCT	cm	_	20	punct	_	_
-6	_	хикмет	NOUN	n	_	15	conj	_	nom
-7	_	да	CONJ	cnjcoo	_	15	cc	_	_
-8	,	,	PUNCT	cm	_	15	punct	_	_
-9	_	мал	NOUN	n	_	15	conj	_	nom
-10	_	да	CONJ	cnjcoo	_	15	cc	_	_
-11	,	,	PUNCT	cm	_	15	punct	_	_
-12	_	өнер	NOUN	n	_	15	conj	_	nom
-13	_	да	CONJ	cnjcoo	_	15	cc	_	_
-14	,	,	PUNCT	cm	_	15	punct	_	_
-15	_	ғылым	NOUN	n	_	18	appos	_	nom
-16	_	да	CONJ	cnjcoo	_	15	cc	_	_
-17	—	—	PUNCT	guio	_	15	punct	_	_
-18	бәрі	бәрі	PRON	prn	_	20	nsubj	_	qnt|px3sp|nom
-19	орыста	орыс	NOUN	n	_	20	nmod	_	loc
-20	тұр	тұр	VERB	v	_	0	root	_	iv|pres|p3|sg
-21	.	.	PUNCT	sent	_	20	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cc	color:blue
+1	Орыс	орыс	NOUN	n	_	3	conj	_	nom
+2	және	және	CONJ	cnjcoo	_	3	cc	_	_
+3	қазақ	қазақ	NOUN	n	_	4	nmod:poss	_	nom
+4	тілдерін	тіл	NOUN	n	_	5	dobj	_	pl|px3sp|acc
+5	біледі	біл	VERB	v	_	0	root	_	tv|aor|p3|sg
+6	.	.	PUNCT	sent	_	5	punct	_	_
 
 ~~~
 
@@ -63,23 +48,18 @@ The following 8 pairs of parts of speech are connected with `cc`: [kk-pos/NOUN](
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 cc	color:blue
-1	Елдегі	ел	NOUN	n	_	5	amod	_	loc|attr
-2	саяси	саяси	ADJ	adj	_	4	conj	_	_
-3	және	және	CONJ	cnjcoo	_	4	cc	_	_
-4	діни	діни	ADJ	adj	_	5	amod	_	_
-5	билік	билік	NOUN	n	_	10	nsubj	_	nom
-6	аятолла	аятолла	NOUN	n	_	9	compound	_	attr
-7	Сейд	Сейд	PROPN	np	_	9	name	_	ant|m|attr
-8	Әли	Әли	PROPN	np	_	9	name	_	ant|m|attr
-9	Хаменеидің	Хаменеи	PROPN	np	_	10	nmod:poss	_	cog|mf|gen
-10	_	қол	NOUN	n	_	0	root	_	px3sp|loc
-11	_	е	VERB	cop	_	10	cop	_	aor|p3|sg
-12	.	.	PUNCT	sent	_	10	punct	_	_
+# visual-style 4 1 cc	color:blue
+1	Ал	ал	CONJ	cnjcoo	_	4	cc	_	_
+2	Айгүлдің	Айгүл	PROPN	np	_	3	nmod:poss	_	ant|f|gen
+3	күшігі	күшік	NOUN	n	_	4	nsubj	_	px3sp|nom
+4	_	бар	ADJ	adj	_	0	root	_	_
+5	_	е	AUX	cop	_	4	cop	_	aor|p3|sg
+6	_	ма	PART	qst	_	4	discourse	_	_
+7	?	?	PUNCT	sent	_	4	punct	_	_
 
 ~~~
 

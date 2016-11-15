@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-428 nodes (2%) are attached to their parents as `det`.
+444 nodes (2%) are attached to their parents as `det`.
 
-424 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40654205607477.
+440 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40315315315315.
 
-The following 15 pairs of parts of speech are connected with `det`: [lv-pos/NOUN]()-[lv-pos/DET]() (355; 83% instances), [lv-pos/NOUN]()-[lv-pos/PRON]() (39; 9% instances), [lv-pos/PROPN]()-[lv-pos/DET]() (10; 2% instances), [lv-pos/NOUN]()-[lv-pos/SCONJ]() (5; 1% instances), [lv-pos/NUM]()-[lv-pos/DET]() (4; 1% instances), [lv-pos/VERB]()-[lv-pos/DET]() (3; 1% instances), [lv-pos/ADJ]()-[lv-pos/DET]() (2; 0% instances), [lv-pos/VERB]()-[lv-pos/PRON]() (2; 0% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (2; 0% instances), [lv-pos/ADJ]()-[lv-pos/PRON]() (1; 0% instances), [lv-pos/ADV]()-[lv-pos/DET]() (1; 0% instances), [lv-pos/DET]()-[lv-pos/DET]() (1; 0% instances), [lv-pos/PRON]()-[lv-pos/DET]() (1; 0% instances), [lv-pos/PROPN]()-[lv-pos/SCONJ]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/NOUN]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `det`: [lv-pos/NOUN]()-[lv-pos/DET]() (371; 84% instances), [lv-pos/NOUN]()-[lv-pos/PRON]() (41; 9% instances), [lv-pos/PROPN]()-[lv-pos/DET]() (10; 2% instances), [lv-pos/NOUN]()-[lv-pos/SCONJ]() (6; 1% instances), [lv-pos/VERB]()-[lv-pos/DET]() (3; 1% instances), [lv-pos/ADJ]()-[lv-pos/DET]() (2; 0% instances), [lv-pos/VERB]()-[lv-pos/PRON]() (2; 0% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (2; 0% instances), [lv-pos/ADJ]()-[lv-pos/PRON]() (1; 0% instances), [lv-pos/ADV]()-[lv-pos/DET]() (1; 0% instances), [lv-pos/DET]()-[lv-pos/DET]() (1; 0% instances), [lv-pos/NUM]()-[lv-pos/DET]() (1; 0% instances), [lv-pos/PRON]()-[lv-pos/DET]() (1; 0% instances), [lv-pos/PROPN]()-[lv-pos/SCONJ]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 15 pairs of parts of speech are connected with `det`: [lv-pos/NOUN
 3	likumdošanas	likumdošana	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
 4	prasības	prasība	NOUN	ncfpa4	Case=Acc|Gender=Fem|Number=Plur	9	dobj	_	_
 5	„	„	PUNCT	zq	_	6	punct	_	SpaceAfter=No
-6	ZAAO	ZAAO	PROPN	np0sn0	Case=Nom|Number=Sing	9	nsubj	_	SpaceAfter=No
+6	ZAAO	ZAAO	PROPN	y	_	9	nsubj	_	SpaceAfter=No
 7	"	"	PUNCT	zq	_	6	punct	_	_
 8	ir	būt	VERB	vcnipii30an	Mood=Ind|Negative=Neg|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 9	izpildījusi	izpildīt	VERB	vmnpdfsnasn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No

@@ -39,7 +39,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 3943 [pl-pos/VERB]() tokens (30% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (3943; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3943; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3943; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (3943; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3512; 89%), <tt><a href="Tense.html">Tense</a>=Past</tt> (3345; 85%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3345; 85%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (3345; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (2770; 70%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (2386; 61%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3943; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3943; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3943; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (3943; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3512; 89%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (3345; 85%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3345; 85%), <tt><a href="Tense.html">Tense</a>=Past</tt> (3345; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (2770; 70%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (2386; 61%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -107,7 +107,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 1574 [pl-pos/PRON]() tokens (31% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1574; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1574; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1138; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1082; 69%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (814; 52%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1574; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1574; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1138; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1082; 69%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (814; 52%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
@@ -197,7 +197,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 101 [pl-pos/AUX]() tokens (7% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (101; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (101; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (101; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (101; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (101; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (101; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (101; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (73; 72%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (56; 55%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (101; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (101; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (101; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (101; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (101; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (101; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (101; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (73; 72%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (56; 55%).
 
 `AUX` tokens may have the following values of `Animacy`:
 

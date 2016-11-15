@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: [nummod:gov]().
 
-19667 nodes (1%) are attached to their parents as `nummod`.
+19664 nodes (1%) are attached to their parents as `nummod`.
 
-11411 instances of `nummod` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58305791427264.
+11408 instances of `nummod` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58314686737185.
 
-The following 11 pairs of parts of speech are connected with `nummod`: [cs-pos/NOUN]()-[cs-pos/NUM]() (17443; 89% instances), [cs-pos/PROPN]()-[cs-pos/NUM]() (1629; 8% instances), [cs-pos/ADJ]()-[cs-pos/NUM]() (261; 1% instances), [cs-pos/SYM]()-[cs-pos/NUM]() (152; 1% instances), [cs-pos/NUM]()-[cs-pos/NUM]() (99; 1% instances), [cs-pos/PRON]()-[cs-pos/NUM]() (29; 0% instances), [cs-pos/CONJ]()-[cs-pos/NUM]() (28; 0% instances), [cs-pos/PUNCT]()-[cs-pos/NUM]() (10; 0% instances), [cs-pos/VERB]()-[cs-pos/NUM]() (10; 0% instances), [cs-pos/ADV]()-[cs-pos/NUM]() (5; 0% instances), [cs-pos/INTJ]()-[cs-pos/NUM]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `nummod`: [cs-pos/NOUN]()-[cs-pos/NUM]() (17443; 89% instances), [cs-pos/PROPN]()-[cs-pos/NUM]() (1629; 8% instances), [cs-pos/ADJ]()-[cs-pos/NUM]() (261; 1% instances), [cs-pos/SYM]()-[cs-pos/NUM]() (152; 1% instances), [cs-pos/NUM]()-[cs-pos/NUM]() (99; 1% instances), [cs-pos/PRON]()-[cs-pos/NUM]() (29; 0% instances), [cs-pos/CONJ]()-[cs-pos/NUM]() (28; 0% instances), [cs-pos/VERB]()-[cs-pos/NUM]() (10; 0% instances), [cs-pos/PUNCT]()-[cs-pos/NUM]() (7; 0% instances), [cs-pos/ADV]()-[cs-pos/NUM]() (5; 0% instances), [cs-pos/INTJ]()-[cs-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu

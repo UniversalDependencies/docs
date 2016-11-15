@@ -106,7 +106,7 @@ The 10 most frequent `ADV` types:  <em>tako, zdaj, a, pol, kako, lahko, tam, kar
 
 The 10 most frequent ambiguous lemmas: <em>tako</em> ([ADV]() 233, [CONJ]() 51), <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [CONJ]() 3, [X]() 1), <em>pol</em> ([ADV]() 117, [DET]() 5), <em>kar</em> ([ADV]() 70, [PRON]() 37), <em>malo</em> ([ADV]() 57, [DET]() 3), <em>kaj</em> ([PRON]() 196, [ADV]() 43, [X]() 1), <em>nekaj</em> ([PRON]() 29, [ADV]() 23, [DET]() 11), <em>nič</em> ([PRON]() 42, [ADV]() 22), <em>zato</em> ([ADV]() 20, [CONJ]() 6), <em>koliko</em> ([ADV]() 19, [DET]() 5)
 
-The 10 most frequent ambiguous types:  <em>tako</em> ([ADV]() 233, [CONJ]() 51, [DET]() 9, [PRON]() 2), <em>zdaj</em> ([ADV]() 169, [X]() 1), <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [X]() 4, [CONJ]() 3), <em>pol</em> ([ADV]() 117, [DET]() 5), <em>kako</em> ([ADV]() 105, [DET]() 6), <em>lahko</em> ([ADV]() 100, [ADJ]() 2), <em>kar</em> ([ADV]() 70, [PRON]() 35), <em>malo</em> ([ADV]() 57, [ADJ]() 3, [DET]() 3), <em>dobro</em> ([ADV]() 46, [ADJ]() 18), <em>kaj</em> ([PRON]() 185, [ADV]() 43, [X]() 1)
+The 10 most frequent ambiguous types:  <em>tako</em> ([ADV]() 233, [CONJ]() 51, [DET]() 9, [PRON]() 2), <em>zdaj</em> ([ADV]() 169, [X]() 1), <em>a</em> ([ADV]() 137, [INTJ]() 16, [NOUN]() 6, [X]() 4, [CONJ]() 3), <em>pol</em> ([ADV]() 117, [DET]() 5), <em>kako</em> ([ADV]() 105, [DET]() 6), <em>lahko</em> ([ADV]() 100, [ADJ]() 2), <em>kar</em> ([ADV]() 70, [PRON]() 35), <em>malo</em> ([ADV]() 57, [DET]() 3, [ADJ]() 3), <em>dobro</em> ([ADV]() 46, [ADJ]() 18), <em>kaj</em> ([PRON]() 185, [ADV]() 43, [X]() 1)
 
 
 * <em>tako</em>
@@ -137,8 +137,8 @@ The 10 most frequent ambiguous types:  <em>tako</em> ([ADV]() 233, [CONJ]() 51, 
   * [PRON]() 35: <em><b>kar</b> se tiče tega</em>
 * <em>malo</em>
   * [ADV]() 57: <em>eee <b>malo</b> smo že peli je bila tako navdušena</em>
-  * [ADJ]() 3: <em>ker nama je bilo ful všeč tako <b>malo</b> mestece tako mir kar pa [gap]</em>
   * [DET]() 3: <em>nič in pol smo jim dali <b>malo</b> mlekca in so ostale pri nas do jutra</em>
+  * [ADJ]() 3: <em>ker nama je bilo ful všeč tako <b>malo</b> mestece tako mir kar pa [gap]</em>
 * <em>dobro</em>
   * [ADV]() 46: <em>pa <b>dobro</b> saj boljše je saj</em>
   * [ADJ]() 18: <em>samo je <b>dobro</b> veš</em>

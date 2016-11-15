@@ -104,7 +104,7 @@ The 10 most frequent `PROPN` types:  <em>Gobierno, España, Madrid, Barcelona, J
 
 The 10 most frequent ambiguous lemmas: <em>gobierno</em> ([NOUN]() 124, [PROPN]() 3), <em>nacional</em> ([ADJ]() 121, [PROPN]() 2), <em>liga</em> ([NOUN]() 29, [PROPN]() 1), <em>real</em> ([ADJ]() 52, [NOUN]() 12, [PROPN]() 1), <em>juegos</em> ([PROPN]() 4, [NOUN]() 2), <em>atlético</em> ([ADJ]() 5, [PROPN]() 1), <em>internet</em> ([NOUN]() 9, [PROPN]() 1), <em>universidad</em> ([NOUN]() 14, [PROPN]() 1), <em>cuba</em> ([NOUN]() 2, [PROPN]() 1), <em>defensa</em> ([NOUN]() 134, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>Estados</em> ([PROPN]() 156, [NOUN]() 8), <em>Partido</em> ([PROPN]() 105, [NOUN]() 5), <em>juegos</em> ([NOUN]() 13, [PROPN]() 2), <em>Internacional</em> ([PROPN]() 59, [NOUN]() 1), <em>internet</em> ([NOUN]() 8, [PROPN]() 1), <em>Cuba</em> ([PROPN]() 56, [NOUN]() 1), <em>defensa</em> ([NOUN]() 119, [PROPN]() 1), <em>rey</em> ([NOUN]() 37, [PROPN]() 2), <em>General</em> ([PROPN]() 49, [ADJ]() 1), <em>civil</em> ([ADJ]() 53, [NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>Estados</em> ([PROPN]() 156, [NOUN]() 8), <em>Partido</em> ([PROPN]() 105, [NOUN]() 5), <em>juegos</em> ([NOUN]() 13, [PROPN]() 2), <em>Internacional</em> ([PROPN]() 59, [NOUN]() 1), <em>internet</em> ([NOUN]() 8, [PROPN]() 1), <em>Cuba</em> ([PROPN]() 56, [NOUN]() 1), <em>defensa</em> ([NOUN]() 119, [PROPN]() 1), <em>rey</em> ([NOUN]() 37, [PROPN]() 2), <em>General</em> ([PROPN]() 49, [ADJ]() 1), <em>civil</em> ([ADJ]() 53, [PROPN]() 1, [NOUN]() 1)
 
 
 * <em>Estados</em>
@@ -136,8 +136,8 @@ The 10 most frequent ambiguous types:  <em>Estados</em> ([PROPN]() 156, [NOUN]()
   * [ADJ]() 1: <em>Por su parte , el diputado <b>General</b> de Vizcaya , Josu Bergara , mostró su " preocupación por el impacto que la fusión pudiera tener en aspectos sensibles para este territorio , tales como la fiscalidad o el mantenimiento de el empleo existente " .</em>
 * <em>civil</em>
   * [ADJ]() 53: <em>La guerra <b>civil</b> fue , desgraciadamente , de todos los españoles .</em>
-  * [NOUN]() 1: <em>Casada con un andaluz de Jaén , Joan Andreu , tiene una hija de 13 años y un primo guardia <b>civil</b> .</em>
   * [PROPN]() 1: <em>Y en Los orígenes de la guerra <b>civil</b> española , de Pío Mora , dice el diputado de el PNV Manuel Eguileor : " El anhelo de la raza más vieja de la tierra se condensa maravillosamente en una sola palabra , palabra mágica , creada también por el genio inmortal de nuestro maestro Arana : ¡ Euzkadi ! " .</em>
+  * [NOUN]() 1: <em>Casada con un andaluz de Jaén , Joan Andreu , tiene una hija de 13 años y un primo guardia <b>civil</b> .</em>
 
 ## Morphology
 

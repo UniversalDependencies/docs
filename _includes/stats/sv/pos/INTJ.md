@@ -76,7 +76,7 @@ The 10 most frequent `INTJ` types:  <em>ja, nej, nåja, Jaså, tack, va, Å, tja
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14002, [VERB]() 11274, [ADP]() 8898, [PUNCT]() 8656, [PRON]() 8194, [ADV]() 6016, [ADJ]() 5522, [DET]() 4283, [CONJ]() 3016, [PROPN]() 2703, [SCONJ]() 2587, [AUX]() 2238, [PART]() 1778, [NUM]() 440, [INTJ]() 179, [X]() 17, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>nej</em> ([INTJ]() 11, [NOUN]() 1), <em>tack</em> ([INTJ]() 3, [NOUN]() 2), <em>Å</em> ([INTJ]() 7, [ADP]() 3), <em>nå</em> ([VERB]() 2, [INTJ]() 1), <em>skål</em> ([INTJ]() 1, [NOUN]() 1), <em>ursäkta</em> ([INTJ]() 1, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>nej</em> ([INTJ]() 11, [NOUN]() 1), <em>tack</em> ([INTJ]() 3, [NOUN]() 2), <em>Å</em> ([INTJ]() 7, [ADP]() 3), <em>nå</em> ([VERB]() 2, [INTJ]() 1), <em>skål</em> ([INTJ]() 1, [NOUN]() 1), <em>ursäkta</em> ([VERB]() 1, [INTJ]() 1)
 
 
 * <em>nej</em>
@@ -95,8 +95,8 @@ The 10 most frequent ambiguous types:  <em>nej</em> ([INTJ]() 11, [NOUN]() 1), <
   * [INTJ]() 1: <em>Nåja -- <b>skål</b> för alla galningar ! sade Wentz och fattade entusiastiskt sitt glas .</em>
   * [NOUN]() 1: <em>Kattluckan skramlade och moster Petunias hand dök upp och sköt in en <b>skål</b> med burksoppa i rummet .</em>
 * <em>ursäkta</em>
-  * [INTJ]() 1: <em>... <b>ursäkta</b> , i fyrtioåtta år stod ni under brittiskt herravälde , arbetade i deras gruvor , drog vägar åt dom , byggde städer , bodde i skjul och passade opp på dom , städade efter dom , blev behandlade som skit ... men nu när allt det där är överståndet , tror ni verkligen att det över huvud taget fanns något sätt för er att träda in i den moderna världen utan lidande ?</em>
   * [VERB]() 1: <em>Men ni får <b>ursäkta</b> , nu vill jag ha min lunch . "</em>
+  * [INTJ]() 1: <em>... <b>ursäkta</b> , i fyrtioåtta år stod ni under brittiskt herravälde , arbetade i deras gruvor , drog vägar åt dom , byggde städer , bodde i skjul och passade opp på dom , städade efter dom , blev behandlade som skit ... men nu när allt det där är överståndet , tror ni verkligen att det över huvud taget fanns något sätt för er att träda in i den moderna världen utan lidande ?</em>
 
 ## Morphology
 
@@ -126,4 +126,48 @@ The highest child degree of a `INTJ` node is 6.
 Children of `INTJ` nodes are attached using 11 different relations: [sv-dep/punct]() (125; 79% instances), [sv-dep/advmod]() (8; 5% instances), [sv-dep/parataxis]() (8; 5% instances), [sv-dep/nmod]() (4; 3% instances), [sv-dep/discourse]() (3; 2% instances), [sv-dep/vocative]() (3; 2% instances), [sv-dep/amod]() (2; 1% instances), [sv-dep/cc]() (2; 1% instances), [sv-dep/advcl]() (1; 1% instances), [sv-dep/det]() (1; 1% instances), [sv-dep/nsubj]() (1; 1% instances)
 
 Children of `INTJ` nodes belong to 10 different parts of speech: [PUNCT]() (125; 79% instances), [VERB]() (8; 5% instances), [ADV]() (7; 4% instances), [INTJ]() (6; 4% instances), [NOUN]() (4; 3% instances), [CONJ]() (2; 1% instances), [PRON]() (2; 1% instances), [PROPN]() (2; 1% instances), [ADJ]() (1; 1% instances), [DET]() (1; 1% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Swedish_Sign_Language)
+
+There are 1 `INTJ` lemmas (9%), 4 `INTJ` types (1%) and 14 `INTJ` tokens (2%).
+Out of 11 observed tags, the rank of `INTJ` is: 6 in number of lemmas, 9 in number of types and 8 in number of tokens.
+
+The 10 most frequent `INTJ` lemmas: <em>_</em>
+
+The 10 most frequent `INTJ` types:  <em>PU@g, JA@ub@z, OK@b, JÄVLAR@z</em>
+
+The 10 most frequent ambiguous lemmas: <em>_</em> ([VERB]() 318, [NOUN]() 149, [X]() 59, [PRON]() 45, [ADV]() 35, [DET]() 19, [INTJ]() 14, [ADJ]() 14, [NUM]() 8, [ADP]() 8, [CONJ]() 3)
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `INTJ` is 4.000000 (the average of all parts of speech is 29.545455).
+
+The 1st highest number of forms (4) was observed with the lemma “_”: <em>JA@ub@z, JÄVLAR@z, OK@b, PU@g</em>.
+
+`INTJ` does not occur with any features.
+
+
+## Relations
+
+`INTJ` nodes are attached to their parents using 3 different relations: [sv-dep/discourse]() (12; 86% instances), [sv-dep/ccomp]() (1; 7% instances), [sv-dep/dep]() (1; 7% instances)
+
+Parents of `INTJ` nodes belong to 2 different parts of speech: [VERB]() (13; 93% instances), [X]() (1; 7% instances)
+
+13 (93%) `INTJ` nodes are leaves.
+
+1 (7%) `INTJ` nodes have one child.
+
+The highest child degree of a `INTJ` node is 1.
+
+Children of `INTJ` nodes are attached using 1 different relations: [sv-dep/nsubj]() (1; 100% instances)
+
+Children of `INTJ` nodes belong to 1 different parts of speech: [PRON]() (1; 100% instances)
 

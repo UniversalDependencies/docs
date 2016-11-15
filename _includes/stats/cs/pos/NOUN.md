@@ -13,13 +13,13 @@ The 10 most frequent `NOUN` types:  <em>roku, korun, let, roce, strany, procent,
 
 The 10 most frequent ambiguous lemmas: <em>stát</em> ([VERB]() 1542, [NOUN]() 1446), <em>den</em> ([NOUN]() 1193, [ADJ]() 1), <em>místo</em> ([NOUN]() 1144, [ADP]() 191, [SCONJ]() 10, [ADV]() 5), <em>bod</em> ([NOUN]() 708, [PROPN]() 3), <em>klub</em> ([NOUN]() 506, [PROPN]() 1), <em>růst</em> ([NOUN]() 353, [VERB]() 149), <em>kontakt</em> ([NOUN]() 331, [PROPN]() 2), <em>tisíc</em> ([NUM]() 539, [NOUN]() 330, [ADV]() 1), <em>televize</em> ([NOUN]() 320, [PROPN]() 3), <em>sto</em> ([NOUN]() 304, [NUM]() 41)
 
-The 10 most frequent ambiguous types:  <em>r</em> ([NOUN]() 433, [PROPN]() 1, [ADV]() 1), <em>září</em> ([NOUN]() 449, [VERB]() 2), <em>s</em> ([ADP]() 8728, [NOUN]() 381, [PART]() 21, [ADJ]() 9), <em>místo</em> ([NOUN]() 359, [ADP]() 140, [SCONJ]() 7, [ADV]() 5), <em>stát</em> ([NOUN]() 301, [VERB]() 226), <em>p</em> ([NOUN]() 199, [ADJ]() 4), <em>den</em> ([NOUN]() 303, [ADJ]() 1), <em>m</em> ([NOUN]() 235, [ADJ]() 2, [ADP]() 1), <em>tel</em> ([NOUN]() 273, [ADJ]() 2), <em>klubu</em> ([NOUN]() 218, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>r</em> ([NOUN]() 433, [ADV]() 1, [PROPN]() 1), <em>září</em> ([NOUN]() 449, [VERB]() 2), <em>s</em> ([ADP]() 8728, [NOUN]() 381, [PART]() 21, [ADJ]() 9), <em>místo</em> ([NOUN]() 359, [ADP]() 140, [SCONJ]() 7, [ADV]() 5), <em>stát</em> ([NOUN]() 301, [VERB]() 226), <em>p</em> ([NOUN]() 199, [ADJ]() 4), <em>den</em> ([NOUN]() 303, [ADJ]() 1), <em>m</em> ([NOUN]() 235, [ADJ]() 2, [ADP]() 1), <em>tel</em> ([NOUN]() 273, [ADJ]() 2), <em>klubu</em> ([NOUN]() 218, [PROPN]() 1)
 
 
 * <em>r</em>
   * [NOUN]() 433: <em>Skutečnost <b>r</b> . 1992</em>
-  * [PROPN]() 1: <em>( <b>r</b> ) ( ČT 1 - 20.30 )</em>
   * [ADV]() 1: <em>Uwe Fink z Arizonské univerzity zkoumal spektra Yamakovy komety ( 1988 <b>r</b> ) a zjistil , že prakticky neobsahuje molekulární uhlík a kyan , čímž se výrazně liší od běžných komet .</em>
+  * [PROPN]() 1: <em>( <b>r</b> ) ( ČT 1 - 20.30 )</em>
 * <em>září</em>
   * [NOUN]() 449: <em>Vlastní odborná skupina ČS a AB banky ukončí svou činnost počátkem <b>září</b> .</em>
   * [VERB]() 2: <em>Přenechávají volné pole konkurenci - Látal odešel do Schalke 04 , Hogen se Šmejkalem jsou ve Slavii , Poborský <b>září</b> na Žižkově .</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>r</em> ([NOUN]() 433, [PROPN]() 1, [A
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.246987 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `NOUN` is 2.246987 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (18) was observed with the lemma “rok”: <em>l, let, letech, lety, letům, léta, létech, léty, létům, r, roce, rok, roka, rokem, roku, roky, roků, rokům</em>.
 
@@ -82,15 +82,15 @@ Parents of `NOUN` nodes belong to 16 different parts of speech: [VERB]() (176681
 
 128557 (35%) `NOUN` nodes have one child.
 
-106502 (29%) `NOUN` nodes have two children.
+106503 (29%) `NOUN` nodes have two children.
 
-68619 (18%) `NOUN` nodes have three or more children.
+68618 (18%) `NOUN` nodes have three or more children.
 
 The highest child degree of a `NOUN` node is 47.
 
-Children of `NOUN` nodes are attached using 34 different relations: [cs-dep/amod]() (150933; 25% instances), [cs-dep/nmod]() (137711; 23% instances), [cs-dep/case]() (113794; 19% instances), [cs-dep/punct]() (40360; 7% instances), [cs-dep/det]() (25982; 4% instances), [cs-dep/conj]() (25774; 4% instances), [cs-dep/cc]() (19341; 3% instances), [cs-dep/acl]() (17612; 3% instances), [cs-dep/nummod]() (17443; 3% instances), [cs-dep/advmod:emph]() (13690; 2% instances), [cs-dep/cop]() (7524; 1% instances), [cs-dep/nummod:gov]() (7179; 1% instances), [cs-dep/nsubj]() (5813; 1% instances), [cs-dep/appos]() (5038; 1% instances), [cs-dep/mark]() (4703; 1% instances), [cs-dep/dep]() (3974; 1% instances), [cs-dep/advmod]() (2410; 0% instances), [cs-dep/xcomp]() (1438; 0% instances), [cs-dep/foreign]() (1041; 0% instances), [cs-dep/det:numgov]() (956; 0% instances), [cs-dep/csubj]() (730; 0% instances), [cs-dep/det:nummod]() (569; 0% instances), [cs-dep/advcl]() (397; 0% instances), [cs-dep/parataxis]() (321; 0% instances), [cs-dep/aux]() (203; 0% instances), [cs-dep/dobj]() (154; 0% instances), [cs-dep/neg]() (140; 0% instances), [cs-dep/mwe]() (44; 0% instances), [cs-dep/ccomp]() (39; 0% instances), [cs-dep/discourse]() (32; 0% instances), [cs-dep/vocative]() (9; 0% instances), [cs-dep/auxpass:reflex]() (3; 0% instances), [cs-dep/expl]() (3; 0% instances), [cs-dep/nsubjpass]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 34 different relations: [cs-dep/amod]() (150933; 25% instances), [cs-dep/nmod]() (137711; 23% instances), [cs-dep/case]() (113794; 19% instances), [cs-dep/punct]() (40359; 7% instances), [cs-dep/det]() (25982; 4% instances), [cs-dep/conj]() (25774; 4% instances), [cs-dep/cc]() (19341; 3% instances), [cs-dep/acl]() (17612; 3% instances), [cs-dep/nummod]() (17443; 3% instances), [cs-dep/advmod:emph]() (13690; 2% instances), [cs-dep/cop]() (7524; 1% instances), [cs-dep/nummod:gov]() (7179; 1% instances), [cs-dep/nsubj]() (5813; 1% instances), [cs-dep/appos]() (5038; 1% instances), [cs-dep/mark]() (4703; 1% instances), [cs-dep/dep]() (3974; 1% instances), [cs-dep/advmod]() (2410; 0% instances), [cs-dep/xcomp]() (1438; 0% instances), [cs-dep/foreign]() (1041; 0% instances), [cs-dep/det:numgov]() (956; 0% instances), [cs-dep/csubj]() (730; 0% instances), [cs-dep/det:nummod]() (569; 0% instances), [cs-dep/advcl]() (397; 0% instances), [cs-dep/parataxis]() (321; 0% instances), [cs-dep/aux]() (203; 0% instances), [cs-dep/dobj]() (154; 0% instances), [cs-dep/neg]() (140; 0% instances), [cs-dep/mwe]() (44; 0% instances), [cs-dep/ccomp]() (39; 0% instances), [cs-dep/discourse]() (32; 0% instances), [cs-dep/vocative]() (9; 0% instances), [cs-dep/auxpass:reflex]() (3; 0% instances), [cs-dep/expl]() (3; 0% instances), [cs-dep/nsubjpass]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 17 different parts of speech: [ADJ]() (153531; 25% instances), [NOUN]() (144052; 24% instances), [ADP]() (112932; 19% instances), [PUNCT]() (40366; 7% instances), [DET]() (27491; 5% instances), [VERB]() (26838; 4% instances), [PROPN]() (26226; 4% instances), [NUM]() (26036; 4% instances), [CONJ]() (22100; 4% instances), [ADV]() (11203; 2% instances), [PRON]() (6319; 1% instances), [SCONJ]() (4747; 1% instances), [PART]() (3107; 1% instances), [AUX]() (203; 0% instances), [SYM]() (168; 0% instances), [INTJ]() (38; 0% instances), [X]() (4; 0% instances)
+Children of `NOUN` nodes belong to 17 different parts of speech: [ADJ]() (153531; 25% instances), [NOUN]() (144052; 24% instances), [ADP]() (112932; 19% instances), [PUNCT]() (40365; 7% instances), [DET]() (27491; 5% instances), [VERB]() (26838; 4% instances), [PROPN]() (26226; 4% instances), [NUM]() (26036; 4% instances), [CONJ]() (22100; 4% instances), [ADV]() (11203; 2% instances), [PRON]() (6319; 1% instances), [SCONJ]() (4747; 1% instances), [PART]() (3107; 1% instances), [AUX]() (203; 0% instances), [SYM]() (168; 0% instances), [INTJ]() (38; 0% instances), [X]() (4; 0% instances)
 
 
 
@@ -196,7 +196,7 @@ The 10 most frequent `NOUN` types:  <em>jednotky, jednotka, majetku, období, oc
 
 The 10 most frequent ambiguous lemmas: <em>stát</em> ([NOUN]() 40, [VERB]() 7), <em>účetní</em> ([ADJ]() 1467, [NOUN]() 22), <em>provozní</em> ([ADJ]() 17, [NOUN]() 3), <em>místo</em> ([NOUN]() 2, [ADP]() 1)
 
-The 10 most frequent ambiguous types:  <em>ustanovení</em> ([NOUN]() 63, [ADJ]() 1), <em>výše</em> ([NOUN]() 35, [ADV]() 6), <em>účetní</em> ([ADJ]() 873, [NOUN]() 21), <em>celkem</em> ([ADV]() 18, [NOUN]() 2), <em>daní</em> ([NOUN]() 2, [VERB]() 1), <em>koupí</em> ([VERB]() 2, [NOUN]() 2), <em>provozní</em> ([ADJ]() 13, [NOUN]() 2), <em>místo</em> ([ADP]() 1, [NOUN]() 1), <em>prostřednictvím</em> ([ADP]() 17, [NOUN]() 1), <em>provozních</em> ([ADJ]() 2, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>ustanovení</em> ([NOUN]() 63, [ADJ]() 1), <em>výše</em> ([NOUN]() 35, [ADV]() 6), <em>účetní</em> ([ADJ]() 873, [NOUN]() 21), <em>celkem</em> ([ADV]() 18, [NOUN]() 2), <em>daní</em> ([NOUN]() 2, [VERB]() 1), <em>koupí</em> ([NOUN]() 2, [VERB]() 2), <em>provozní</em> ([ADJ]() 13, [NOUN]() 2), <em>místo</em> ([NOUN]() 1, [ADP]() 1), <em>prostřednictvím</em> ([ADP]() 17, [NOUN]() 1), <em>provozních</em> ([ADJ]() 2, [NOUN]() 1)
 
 
 * <em>ustanovení</em>
@@ -215,14 +215,14 @@ The 10 most frequent ambiguous types:  <em>ustanovení</em> ([NOUN]() 63, [ADJ](
   * [NOUN]() 2: <em>(6) Položka "C.III.6._Stát_-_daňové_pohledávky" obsahuje zejména pohledávky z titulu přímých a nepřímých <b>daní</b> a uhrazených daňových záloh .</em>
   * [VERB]() 1: <em>(1) Za porušení vzájemného zúčtování v účetnictví a v účetní závěrce účetní jednotky se nepovažuje zúčtování : a) dobropisů nebo refundací týkajících se konkrétní nákladové , popřípadě výnosové položky a vztahujících se k účetnímu období , ve kterém byl náklad , popřípadě výnos zúčtován , b) doměrků a vratek <b>daní</b> z příjmů , nepřímých daní a poplatků , včetně účtování o odložené dani podle §_59_odst._4 , c) rozdílů zjištěných při inventarizaci , které vznikly ve stejném inventarizačním období prokazatelně neúmyslnou záměnou jednotlivých druhů , u kterých je tato záměna možná vzhledem k charakteru druhů zásob , například v důsledku různých rozměrů spojovacích materiálů nebo podobného balení zásob , d) rezerv , opravných položek a komplexních nákladů příštích období .</em>
 * <em>koupí</em>
-  * [VERB]() 2: <em>(10) Položka "B.II.9._Oceňovací_rozdíl_k_nabytému_majetku" obsahuje kladný ( aktivní ) nebo záporný ( pasivní ) rozdíl mezi oceněním podniku nebo jeho části nabytého zejména <b>koupí</b> , vkladem nebo oceněním majetku a závazků v rámci přeměn společnosti a souhrnem ocenění jeho jednotlivých složek majetku v účetnictví účetní jednotky prodávající , vkládající , zanikající nebo rozdělované odštěpením sníženým o převzaté závazky .</em>
   * [NOUN]() 2: <em>(3) Stavy jednotlivých složek majetku a závazků , rezerv , oceňovacích rozdílů k úplatně nabytému majetku podle odstavce 1 se převedou k prvnímu dni účetního období jako počáteční zůstatky příslušných rozvahových účtů ; neuplatněná část výdajů u finančního pronájmu s následnou <b>koupí</b> najatého hmotného majetku se uvede jako počáteční zůstatek účtu určeného k zachycení nákladů příštích období v účtové skupině 38 .</em>
+  * [VERB]() 2: <em>(10) Položka "B.II.9._Oceňovací_rozdíl_k_nabytému_majetku" obsahuje kladný ( aktivní ) nebo záporný ( pasivní ) rozdíl mezi oceněním podniku nebo jeho části nabytého zejména <b>koupí</b> , vkladem nebo oceněním majetku a závazků v rámci přeměn společnosti a souhrnem ocenění jeho jednotlivých složek majetku v účetnictví účetní jednotky prodávající , vkládající , zanikající nebo rozdělované odštěpením sníženým o převzaté závazky .</em>
 * <em>provozní</em>
   * [ADJ]() 13: <em>Ostatní <b>provozní</b> výnosy</em>
   * [NOUN]() 2: <em>Ostatní <b>provozní</b> náklady</em>
 * <em>místo</em>
-  * [ADP]() 1: <em>(2) Účetní závěrka podle odstavce 1 musí obsahovat a) jméno a příjmení , obchodní firmu nebo název účetní jednotky ; u účetních jednotek podle §_1_odst._2_písm._a)_až_c) sídlo nebo u účetních jednotek podle §_1_odst._2_písm._d)_až_h) bydliště a <b>místo</b> podnikání , liší-li se od bydliště , b) identifikační číslo osoby , pokud je má účetní jednotka přiděleno , c) právní formu účetní jednotky , d) předmět podnikání nebo jiné činnosti , případně účel , pro který byla zřízena , e) rozvahový den ( §_19_odst._1 ) nebo jiný okamžik , k němuž se účetní závěrka sestavuje ( §_19_odst._3 ) , f) okamžik sestavení účetní závěrky , a musí k ní být připojen podpisový záznam statutárního orgánu účetní jednotky podle §_1_odst._2_písm._a)_až_c) nebo podpisový záznam účetní jednotky podle §_1_odst._2_písm._d)_až_h) ; připojením uvedeného podpisového záznamu se považuje účetní závěrka za sestavenou podle písmene f) .</em>
   * [NOUN]() 1: <em>(2) Průběžnou inventarizaci mohou účetní jednotky provádět pouze u zásob , u nichž účtují podle druhů nebo podle míst jejich uložení nebo hmotně odpovědných osob , a dále u dlouhodobého hmotného movitého majetku , jenž vzhledem k funkci , kterou plní v účetní jednotce , je v soustavném pohybu a nemá stálé <b>místo</b> , kam náleží .</em>
+  * [ADP]() 1: <em>(2) Účetní závěrka podle odstavce 1 musí obsahovat a) jméno a příjmení , obchodní firmu nebo název účetní jednotky ; u účetních jednotek podle §_1_odst._2_písm._a)_až_c) sídlo nebo u účetních jednotek podle §_1_odst._2_písm._d)_až_h) bydliště a <b>místo</b> podnikání , liší-li se od bydliště , b) identifikační číslo osoby , pokud je má účetní jednotka přiděleno , c) právní formu účetní jednotky , d) předmět podnikání nebo jiné činnosti , případně účel , pro který byla zřízena , e) rozvahový den ( §_19_odst._1 ) nebo jiný okamžik , k němuž se účetní závěrka sestavuje ( §_19_odst._3 ) , f) okamžik sestavení účetní závěrky , a musí k ní být připojen podpisový záznam statutárního orgánu účetní jednotky podle §_1_odst._2_písm._a)_až_c) nebo podpisový záznam účetní jednotky podle §_1_odst._2_písm._d)_až_h) ; připojením uvedeného podpisového záznamu se považuje účetní závěrka za sestavenou podle písmene f) .</em>
 * <em>prostřednictvím</em>
   * [ADP]() 17: <em>(2) Změny reálné hodnoty derivátu zajišťujícího očekávané peněžní toky se účtují <b>prostřednictvím</b> rozvahových účtů v účtové skupině 41 .</em>
   * [NOUN]() 1: <em>(2) Požadavky průkaznosti a jiné požadavky uvedené v odstavci 1 jsou splněny i v případě , je-li přenos průkazného účetního záznamu uskutečněn <b>prostřednictvím</b> třetí osoby odlišné od účetních jednotek , pokud tato osoba splňuje požadavky podle zvláštních právních předpisů .</em>

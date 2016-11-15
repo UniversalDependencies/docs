@@ -97,7 +97,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 3140 [ca-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (3140; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (3140; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2323; 74%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1606; 51%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (3140; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3140; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2323; 74%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1606; 51%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -117,6 +117,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> AUX</tt> (4; 80%),
 <tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (3; 60%),
 <tt>AUX --[<a href="../dep/compound.html">compound</a>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (1; 100%).
 

@@ -99,6 +99,18 @@ The following 48 pairs of parts of speech are connected with `mwe`: [fi-pos/ADV]
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 mwe	color:blue
+1	yötä	yö	NOUN	N,Sg,Par	Case=Par|Number=Sing	0	root	_	_
+2	päivää	päivä	NOUN	N,Sg,Par	Case=Par|Number=Sing	1	mwe	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
@@ -112,18 +124,6 @@ The following 48 pairs of parts of speech are connected with `mwe`: [fi-pos/ADV]
 6	seurasin	seurata	VERB	V,Act,Ind,Past,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
 7	rekkojen	rekka	NOUN	N,Pl,Gen	Case=Gen|Number=Plur	8	nmod	_	_
 8	perävaloja	perävalo	NOUN	N,Pl,Par	Case=Par|Number=Plur	6	dobj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 mwe	color:blue
-1	yötä	yö	NOUN	N,Sg,Par	Case=Par|Number=Sing	0	root	_	_
-2	päivää	päivä	NOUN	N,Sg,Par	Case=Par|Number=Sing	1	mwe	_	_
 
 ~~~
 

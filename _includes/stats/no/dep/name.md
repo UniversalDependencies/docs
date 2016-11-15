@@ -27,7 +27,6 @@ The following 29 pairs of parts of speech are connected with `name`: [no-pos/PRO
 5	Sallabanda	Sallabanda	PROPN	_	_	4	name	_	_
 6	fulgte	følge	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 7	opp	opp	ADP	_	_	6	compound:prt	_	_
-8	|	$|	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -44,7 +43,7 @@ The following 29 pairs of parts of speech are connected with `name`: [no-pos/PRO
 4	døren	dør	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	2	dobj	_	_
 5	til	til	ADP	_	_	6	case	_	_
 6	Mulligan's	Mulligan's	PROPN	_	_	4	nmod	_	_
-7	pub	pub	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	6	name	_	_
+7	pub	pub	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	6	name	_	SpaceAfter=No
 8	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -67,7 +66,7 @@ The following 29 pairs of parts of speech are connected with `name`: [no-pos/PRO
 9	i	i	ADP	_	_	10	case	_	_
 10	Den	Den	PROPN	_	_	8	nmod	_	_
 11	norske	norsk	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	10	name	_	_
-12	kirke	kirke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	10	name	_	_
+12	kirke	kirke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	10	name	_	SpaceAfter=No
 13	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~

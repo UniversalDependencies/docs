@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>Slovenija, Ljubljana, Maribor, EU, Evro
 
 The 10 most frequent `PROPN` types:  <em>Slovenije, Sloveniji, Slovenija, EU, Ljubljani, ZDA, Slovenijo, Evropi, Mariboru, LJUBLJANA</em>
 
-The 10 most frequent ambiguous lemmas: <em>HTML</em> ([NOUN]() 4, [PROPN]() 1), <em>VN</em> ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>HTML</em> ([NOUN]() 4, [PROPN]() 1), <em>VN</em> ([PROPN]() 1, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>Ali</em> ([ADV]() 32, [PROPN]() 7, [CONJ]() 6), <em>Dolenjske</em> ([PROPN]() 5, [ADJ]() 1), <em>Slovenskem</em> ([PROPN]() 5, [ADJ]() 2), <em>Gora</em> ([PROPN]() 4, [NOUN]() 2), <em>Koroško</em> ([PROPN]() 4, [ADJ]() 1), <em>Hrvaško</em> ([PROPN]() 3, [ADJ]() 2), <em>Koroška</em> ([PROPN]() 3, [ADJ]() 1), <em>Nato</em> ([ADV]() 13, [PROPN]() 3), <em>Bo</em> ([PROPN]() 2, [AUX]() 1), <em>Boja</em> ([PROPN]() 2, [NOUN]() 1)
 

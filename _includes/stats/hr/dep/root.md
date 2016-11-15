@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3957 nodes (5%) are attached to their parents as `root`.
+6289 nodes (5%) are attached to their parents as `root`.
 
-3957 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.81046247156937.
+6289 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.66258546668787.
 
-The following 8 pairs of parts of speech are connected with `root`: [hr-pos/ROOT]()-[hr-pos/VERB]() (2885; 73% instances), [hr-pos/ROOT]()-[hr-pos/ADJ]() (561; 14% instances), [hr-pos/ROOT]()-[hr-pos/NOUN]() (405; 10% instances), [hr-pos/ROOT]()-[hr-pos/AUX]() (38; 1% instances), [hr-pos/ROOT]()-[hr-pos/ADV]() (34; 1% instances), [hr-pos/ROOT]()-[hr-pos/PRON]() (17; 0% instances), [hr-pos/ROOT]()-[hr-pos/PROPN]() (15; 0% instances), [hr-pos/ROOT]()-[hr-pos/PART]() (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: [hr-pos/ROOT]()-[hr-pos/VERB]() (4404; 70% instances), [hr-pos/ROOT]()-[hr-pos/ADJ]() (924; 15% instances), [hr-pos/ROOT]()-[hr-pos/NOUN]() (704; 11% instances), [hr-pos/ROOT]()-[hr-pos/AUX]() (80; 1% instances), [hr-pos/ROOT]()-[hr-pos/ADV]() (77; 1% instances), [hr-pos/ROOT]()-[hr-pos/PRON]() (46; 1% instances), [hr-pos/ROOT]()-[hr-pos/PROPN]() (40; 1% instances), [hr-pos/ROOT]()-[hr-pos/NUM]() (7; 0% instances), [hr-pos/ROOT]()-[hr-pos/PART]() (3; 0% instances), [hr-pos/ROOT]()-[hr-pos/SCONJ]() (2; 0% instances), [hr-pos/ROOT]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/ROOT]()-[hr-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu

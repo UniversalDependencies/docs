@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-4577 nodes (2%) are attached to their parents as `advcl`.
+4495 nodes (2%) are attached to their parents as `advcl`.
 
-3445 instances of `advcl` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.9602359624208.
+3371 instances of `advcl` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.96952169076752.
 
-The following 55 pairs of parts of speech are connected with `advcl`: [en-pos/VERB]()-[en-pos/VERB]() (3045; 67% instances), [en-pos/ADJ]()-[en-pos/VERB]() (500; 11% instances), [en-pos/VERB]()-[en-pos/ADJ]() (221; 5% instances), [en-pos/VERB]()-[en-pos/NOUN]() (172; 4% instances), [en-pos/NOUN]()-[en-pos/VERB]() (158; 3% instances), [en-pos/ADV]()-[en-pos/VERB]() (111; 2% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (47; 1% instances), [en-pos/VERB]()-[en-pos/ADV]() (43; 1% instances), [en-pos/PRON]()-[en-pos/VERB]() (27; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (26; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (23; 1% instances), [en-pos/ADV]()-[en-pos/ADJ]() (22; 0% instances), [en-pos/ADV]()-[en-pos/AUX]() (17; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (15; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (14; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (12; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (11; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (10; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (9; 0% instances), [en-pos/VERB]()-[en-pos/PART]() (8; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (7; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (6; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (6; 0% instances), [en-pos/PROPN]()-[en-pos/VERB]() (6; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (5; 0% instances), [en-pos/ADJ]()-[en-pos/AUX]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (4; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/PRON]() (2; 0% instances), [en-pos/ADP]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADV]()-[en-pos/NUM]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/PART]()-[en-pos/VERB]() (2; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (2; 0% instances), [en-pos/VERB]()-[en-pos/INTJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/ADP]()-[en-pos/X]() (1; 0% instances), [en-pos/ADV]()-[en-pos/SYM]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADV]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PART]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (1; 0% instances).
+The following 56 pairs of parts of speech are connected with `advcl`: [en-pos/VERB]()-[en-pos/VERB]() (2986; 66% instances), [en-pos/ADJ]()-[en-pos/VERB]() (489; 11% instances), [en-pos/VERB]()-[en-pos/ADJ]() (220; 5% instances), [en-pos/VERB]()-[en-pos/NOUN]() (165; 4% instances), [en-pos/NOUN]()-[en-pos/VERB]() (152; 3% instances), [en-pos/ADV]()-[en-pos/VERB]() (111; 2% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (47; 1% instances), [en-pos/VERB]()-[en-pos/ADV]() (42; 1% instances), [en-pos/PRON]()-[en-pos/VERB]() (29; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (25; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (23; 1% instances), [en-pos/ADV]()-[en-pos/ADJ]() (22; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (18; 0% instances), [en-pos/ADV]()-[en-pos/AUX]() (17; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (14; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (12; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (10; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (10; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (9; 0% instances), [en-pos/VERB]()-[en-pos/PART]() (8; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (7; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (6; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (6; 0% instances), [en-pos/PROPN]()-[en-pos/VERB]() (6; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (5; 0% instances), [en-pos/ADJ]()-[en-pos/AUX]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (4; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (4; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/PRON]() (2; 0% instances), [en-pos/ADP]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADV]()-[en-pos/NUM]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/PART]()-[en-pos/VERB]() (2; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (2; 0% instances), [en-pos/VERB]()-[en-pos/INTJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/ADP]()-[en-pos/X]() (1; 0% instances), [en-pos/ADV]()-[en-pos/SYM]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADV]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PART]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,11 +60,11 @@ The following 55 pairs of parts of speech are connected with `advcl`: [en-pos/VE
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 12 advcl	color:blue
+# visual-style 3 8 advcl	color:blue
 1	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	going	go	VERB	VBG	VerbForm=Ger	0	root	_	_
@@ -72,9 +72,9 @@ The following 55 pairs of parts of speech are connected with `advcl`: [en-pos/VE
 5	tonight	tonight	NOUN	NN	Number=Sing	3	nmod:tmod	_	_
 6	to	to	PART	TO	_	8	mark	_	_
 7	get	get	VERB	VB	VerbForm=Inf	8	aux	_	_
-8	wasted	wasted	ADJ	JJ	Degree=Pos	3	xcomp	_	_
+8	wasted	wasted	ADJ	JJ	Degree=Pos	3	advcl	_	_
 9	if	if	SCONJ	IN	_	12	mark	_	_
-10	anyone	anyone	NOUN	NN	Number=Sing	12	nsubj	_	_
+10	anyone	anyone	PRON	NN	Number=Sing	12	nsubj	_	_
 11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	interested	interested	ADJ	JJ	Degree=Pos	3	advcl	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	_	_
@@ -95,7 +95,7 @@ This relation is universal.
 1917 instances of `advcl` (76%) are left-to-right (parent precedes child).
 Average distance between parent and child is 7.0670082774931.
 
-The following 37 pairs of parts of speech are connected with `advcl`: [en-pos/VERB]()-[en-pos/VERB]() (1447; 57% instances), [en-pos/ADJ]()-[en-pos/VERB]() (421; 17% instances), [en-pos/VERB]()-[en-pos/ADJ]() (178; 7% instances), [en-pos/NOUN]()-[en-pos/VERB]() (122; 5% instances), [en-pos/VERB]()-[en-pos/NOUN]() (117; 5% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (49; 2% instances), [en-pos/ADV]()-[en-pos/VERB]() (38; 1% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (28; 1% instances), [en-pos/ADV]()-[en-pos/ADJ]() (18; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (16; 1% instances), [en-pos/PROPN]()-[en-pos/VERB]() (16; 1% instances), [en-pos/VERB]()-[en-pos/ADV]() (16; 1% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (12; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (10; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (4; 0% instances), [en-pos/ADV]()-[en-pos/AUX]() (4; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (4; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (4; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (4; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (3; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (3; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/AUX]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (2; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PRON]() (1; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/AUX]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/X]()-[en-pos/VERB]() (1; 0% instances).
+The following 38 pairs of parts of speech are connected with `advcl`: [en-pos/VERB]()-[en-pos/VERB]() (1447; 57% instances), [en-pos/ADJ]()-[en-pos/VERB]() (421; 17% instances), [en-pos/VERB]()-[en-pos/ADJ]() (178; 7% instances), [en-pos/NOUN]()-[en-pos/VERB]() (122; 5% instances), [en-pos/VERB]()-[en-pos/NOUN]() (116; 5% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (49; 2% instances), [en-pos/ADV]()-[en-pos/VERB]() (38; 1% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (28; 1% instances), [en-pos/ADV]()-[en-pos/ADJ]() (18; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (16; 1% instances), [en-pos/PROPN]()-[en-pos/VERB]() (16; 1% instances), [en-pos/VERB]()-[en-pos/ADV]() (16; 1% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (11; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (10; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (4; 0% instances), [en-pos/ADV]()-[en-pos/AUX]() (4; 0% instances), [en-pos/AUX]()-[en-pos/VERB]() (4; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (4; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (4; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (3; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (3; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (3; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/AUX]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PRON]() (1; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/AUX]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/X]()-[en-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -118,7 +118,7 @@ The following 37 pairs of parts of speech are connected with `advcl`: [en-pos/VE
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -137,7 +137,7 @@ The following 37 pairs of parts of speech are connected with `advcl`: [en-pos/VE
 5	_	_	VERB	VB	_	3	xcomp	_	_
 6	_	_	DET	DT	_	7	det	_	_
 7	_	_	NOUN	NN	_	5	dobj	_	_
-8	_	_	DET	DT	_	11	nsubj	_	_
+8	_	_	PRON	DT	_	11	nsubj	_	_
 9	_	_	VERB	VBZ	_	11	cop	_	_
 10	_	_	ADV	RB	_	11	advmod	_	_
 11	_	_	ADJ	JJ	_	3	parataxis	_	_

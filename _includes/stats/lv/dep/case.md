@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-789 nodes (4%) are attached to their parents as `case`.
+818 nodes (4%) are attached to their parents as `case`.
 
-784 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.41444866920152.
+813 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.39975550122249.
 
-The following 14 pairs of parts of speech are connected with `case`: [lv-pos/NOUN]()-[lv-pos/ADP]() (599; 76% instances), [lv-pos/PRON]()-[lv-pos/ADP]() (56; 7% instances), [lv-pos/PROPN]()-[lv-pos/ADP]() (46; 6% instances), [lv-pos/SYM]()-[lv-pos/ADP]() (33; 4% instances), [lv-pos/NUM]()-[lv-pos/ADP]() (15; 2% instances), [lv-pos/ADJ]()-[lv-pos/ADP]() (12; 2% instances), [lv-pos/SCONJ]()-[lv-pos/ADP]() (12; 2% instances), [lv-pos/VERB]()-[lv-pos/ADP]() (7; 1% instances), [lv-pos/ADV]()-[lv-pos/ADP]() (2; 0% instances), [lv-pos/NOUN]()-[lv-pos/ADV]() (2; 0% instances), [lv-pos/PRON]()-[lv-pos/ADV]() (2; 0% instances), [lv-pos/NOUN]()-[lv-pos/PUNCT]() (1; 0% instances), [lv-pos/SYM]()-[lv-pos/ADV]() (1; 0% instances), [lv-pos/X]()-[lv-pos/ADP]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `case`: [lv-pos/NOUN]()-[lv-pos/ADP]() (626; 77% instances), [lv-pos/PRON]()-[lv-pos/ADP]() (58; 7% instances), [lv-pos/PROPN]()-[lv-pos/ADP]() (46; 6% instances), [lv-pos/SYM]()-[lv-pos/ADP]() (33; 4% instances), [lv-pos/ADJ]()-[lv-pos/ADP]() (15; 2% instances), [lv-pos/SCONJ]()-[lv-pos/ADP]() (12; 1% instances), [lv-pos/NUM]()-[lv-pos/ADP]() (10; 1% instances), [lv-pos/VERB]()-[lv-pos/ADP]() (7; 1% instances), [lv-pos/PRON]()-[lv-pos/ADV]() (3; 0% instances), [lv-pos/ADV]()-[lv-pos/ADP]() (2; 0% instances), [lv-pos/NOUN]()-[lv-pos/ADV]() (2; 0% instances), [lv-pos/NOUN]()-[lv-pos/PUNCT]() (2; 0% instances), [lv-pos/SYM]()-[lv-pos/ADV]() (1; 0% instances), [lv-pos/X]()-[lv-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu

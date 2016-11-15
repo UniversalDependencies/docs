@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADJ` and `Derivation` co-occu
 
 1 [fi-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Par</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="PartForm.html">PartForm</a>=Pres</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Par</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="PartForm.html">PartForm</a>=Pres</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Derivation`:
 

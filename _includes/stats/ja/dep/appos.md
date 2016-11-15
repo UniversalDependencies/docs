@@ -2,6 +2,76 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+1188 nodes (1%) are attached to their parents as `appos`.
+
+1184 instances of `appos` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37794612794613.
+
+The following 15 pairs of parts of speech are connected with `appos`: [ja-pos/NOUN]()-[ja-pos/NOUN]() (968; 81% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (93; 8% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (89; 7% instances), [ja-pos/NUM]()-[ja-pos/NUM]() (12; 1% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (9; 1% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (4; 0% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (3; 0% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/ADJ]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 appos	color:blue
+1	北条実政（ほうじょうさねまさ）は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	鎌倉時代中・後期の	_	NOUN	NOUN-NOUN-POSTP	_	4	nmod	_	_
+4	武将	_	NOUN	NOUN	_	0	root	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	元寇	_	NOUN	NOUN	_	8	appos	_	_
+7	(弘安の	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
+8	役)の	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+9	日本軍総司令官。	_	NOUN	NOUN	_	4	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 appos	color:blue
+1	2008年	_	NUM	NUM-CL	_	2	appos	_	_
+2	（平成20年）に	_	NOUN	NOUN-NUM-CL-POSTP	_	4	nmod	_	_
+3	創立100周年を	_	NOUN	NOUN-NUM-CL-PRT	_	4	nmod	_	_
+4	迎えた。	_	NOUN	NOUN	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 appos	color:blue
+1	文化8年	_	NOUN	NOUN-NUM-CL	_	2	appos	_	_
+2	（1811年）	_	NUM	NUM-CL	_	6	nmod	_	_
+3	11月4日	_	NUM	NUM-CL-NUM-CL	_	2	name	_	_
+4	、	_	PUNCT	.	_	2	punct	_	_
+5	高家職に	_	NOUN	NOUN-POSTP	_	6	nmod	_	_
+6	就き	_	VERB	VERB	_	0	root	_	_
+7	、	_	PUNCT	.	_	6	punct	_	_
+8	同年	_	NOUN	NOUN	_	11	nmod	_	_
+9	11月25日	_	NUM	NUM-CL-NUM-CL	_	8	name	_	_
+10	従五位下駿河守に	_	NOUN	NOUN-POSTP	_	11	nmod	_	_
+11	叙任する。	_	VERB	VERB-AUX	_	6	conj	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

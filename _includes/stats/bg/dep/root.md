@@ -9,9 +9,9 @@ This relation is universal.
 11138 nodes (7%) are attached to their parents as `root`.
 
 11138 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.1641228227689.
+Average distance between parent and child is 5.1616089064464.
 
-The following 12 pairs of parts of speech are connected with `root`: [bg-pos/ROOT]()-[bg-pos/VERB]() (9164; 82% instances), [bg-pos/ROOT]()-[bg-pos/NOUN]() (1008; 9% instances), [bg-pos/ROOT]()-[bg-pos/ADJ]() (381; 3% instances), [bg-pos/ROOT]()-[bg-pos/ADV]() (217; 2% instances), [bg-pos/ROOT]()-[bg-pos/PROPN]() (212; 2% instances), [bg-pos/ROOT]()-[bg-pos/PRON]() (60; 1% instances), [bg-pos/ROOT]()-[bg-pos/PART]() (50; 0% instances), [bg-pos/ROOT]()-[bg-pos/INTJ]() (26; 0% instances), [bg-pos/ROOT]()-[bg-pos/DET]() (13; 0% instances), [bg-pos/ROOT]()-[bg-pos/NUM]() (4; 0% instances), [bg-pos/ROOT]()-[bg-pos/CONJ]() (2; 0% instances), [bg-pos/ROOT]()-[bg-pos/ADP]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: [bg-pos/ROOT]()-[bg-pos/VERB]() (9136; 82% instances), [bg-pos/ROOT]()-[bg-pos/NOUN]() (1026; 9% instances), [bg-pos/ROOT]()-[bg-pos/ADJ]() (383; 3% instances), [bg-pos/ROOT]()-[bg-pos/ADV]() (218; 2% instances), [bg-pos/ROOT]()-[bg-pos/PROPN]() (212; 2% instances), [bg-pos/ROOT]()-[bg-pos/PRON]() (65; 1% instances), [bg-pos/ROOT]()-[bg-pos/PART]() (50; 0% instances), [bg-pos/ROOT]()-[bg-pos/INTJ]() (26; 0% instances), [bg-pos/ROOT]()-[bg-pos/DET]() (14; 0% instances), [bg-pos/ROOT]()-[bg-pos/NUM]() (5; 0% instances), [bg-pos/ROOT]()-[bg-pos/CONJ]() (2; 0% instances), [bg-pos/ROOT]()-[bg-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu

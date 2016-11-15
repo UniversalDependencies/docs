@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [sl-pos/VERB]() (12449; 9% insta
 
 12449 [sl-pos/VERB]() tokens (72% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (12079; 97%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (7722; 62%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7475; 60%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (7475; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (6735; 54%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6253; 50%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (12079; 97%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (7722; 62%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (7475; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7475; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (6735; 54%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6253; 50%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -63,7 +63,7 @@ The feature is used with 1 part-of-speech tags: [sl-pos/VERB]() (2871; 10% insta
 
 2871 [sl-pos/VERB]() tokens (62% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (2659; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1953; 68%), <tt><a href="Number.html">Number</a>=Sing</tt> (1745; 61%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1722; 60%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1523; 53%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1523; 53%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (2659; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1953; 68%), <tt><a href="Number.html">Number</a>=Sing</tt> (1745; 61%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1722; 60%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1523; 53%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1523; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 

@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: वह, यह, अपना, कोई, ज
 
 The 10 most frequent `PRON` types:  उन्होंने, इसके, यह, अपने, वह, कोई, उनके, उन्हें, अब, अपनी
 
-The 10 most frequent ambiguous lemmas: वह ([PRON]() 4916, [DET]() 331, [PROPN]() 1), यह ([DET]() 3965, [PRON]() 2931, [NOUN]() 1, [PROPN]() 1), अपना ([PRON]() 1225, [VERB]() 42, [X]() 2, [ADV]() 1), जो ([PRON]() 764, [DET]() 177, [SCONJ]() 1, [PROPN]() 1), हम ([PRON]() 412, [DET]() 23, [NOUN]() 1), वहाँ ([PRON]() 218, [ADV]() 6), आप ([PRON]() 141, [ADV]() 1), तो ([SCONJ]() 355, [PART]() 184, [PRON]() 141, [ADV]() 2), ऐसा ([DET]() 210, [PRON]() 140), कुछ ([DET]() 449, [PRON]() 118)
+The 10 most frequent ambiguous lemmas: वह ([PRON]() 4916, [DET]() 331, [PROPN]() 1), यह ([DET]() 3965, [PRON]() 2931, [PROPN]() 1, [NOUN]() 1), अपना ([PRON]() 1225, [VERB]() 42, [X]() 2, [ADV]() 1), जो ([PRON]() 764, [DET]() 177, [PROPN]() 1, [SCONJ]() 1), हम ([PRON]() 412, [DET]() 23, [NOUN]() 1), वहाँ ([PRON]() 218, [ADV]() 6), आप ([PRON]() 141, [ADV]() 1), तो ([SCONJ]() 355, [PART]() 184, [PRON]() 141, [ADV]() 2), ऐसा ([DET]() 210, [PRON]() 140), कुछ ([DET]() 449, [PRON]() 118)
 
 The 10 most frequent ambiguous types:  यह ([DET]() 798, [PRON]() 684, [NOUN]() 1), अपने ([PRON]() 627, [X]() 2, [ADV]() 1), वह ([PRON]() 618, [DET]() 15), वे ([PRON]() 338, [DET]() 10), इस ([DET]() 2370, [PRON]() 251), जो ([PRON]() 234, [DET]() 78, [SCONJ]() 1, [PROPN]() 1), हम ([PRON]() 168, [DET]() 23), वहां ([PRON]() 164, [ADV]() 3), अपना ([PRON]() 162, [VERB]() 5), तो ([SCONJ]() 355, [PART]() 184, [PRON]() 141, [ADV]() 2)
 

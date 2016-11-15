@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 19376 [bg-pos/VERB]() tokens (99% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (18025; 93%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16611; 86%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (16611; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (16458; 85%), <tt><a href="Person.html">Person</a>=3</tt> (13729; 71%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (11733; 61%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (11178; 58%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (18025; 93%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (16611; 86%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16611; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (16458; 85%), <tt><a href="Person.html">Person</a>=3</tt> (13729; 71%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (11733; 61%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (11178; 58%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 13351 [bg-pos/ADJ]() tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (11879; 89%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (11879; 89%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (11879; 89%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (11076; 83%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (7399; 55%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (11879; 89%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (11879; 89%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (11879; 89%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (11076; 83%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (7399; 55%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -115,7 +115,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 5324 [bg-pos/PRON]() tokens (53% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (5324; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (5324; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3376; 63%), <tt><a href="Case.html">Case</a>=Nom</tt> (3275; 62%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (5324; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (5324; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3376; 63%), <tt><a href="Case.html">Case</a>=Nom</tt> (3275; 62%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -226,14 +226,14 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (11111; 98%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (5883; 61%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (4719; 94%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (2953; 59%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (2700; 58%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (2629; 82%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (2037; 98%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (11107; 98%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (5887; 61%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (4623; 94%),
+<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (2916; 59%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (2687; 58%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (2630; 82%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (2021; 98%),
 <tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (1934; 99%),
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1865; 75%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1688; 78%).
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1690; 77%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1658; 73%).
 

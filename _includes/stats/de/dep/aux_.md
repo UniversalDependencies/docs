@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-4409 nodes (1%) are attached to their parents as `aux`.
+3397 nodes (1%) are attached to their parents as `aux`.
 
-3268 instances of `aux` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.23724200498979.
+2283 instances of `aux` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.20164851339417.
 
-The following 11 pairs of parts of speech are connected with `aux`: [de-pos/VERB]()-[de-pos/AUX]() (3353; 76% instances), [de-pos/VERB]()-[de-pos/PART]() (968; 22% instances), [de-pos/AUX]()-[de-pos/PART]() (47; 1% instances), [de-pos/PROPN]()-[de-pos/PROPN]() (11; 0% instances), [de-pos/VERB]()-[de-pos/ADP]() (11; 0% instances), [de-pos/ADJ]()-[de-pos/PART]() (8; 0% instances), [de-pos/AUX]()-[de-pos/AUX]() (6; 0% instances), [de-pos/VERB]()-[de-pos/VERB]() (2; 0% instances), [de-pos/ADJ]()-[de-pos/AUX]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/AUX]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/PROPN]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `aux`: [de-pos/VERB]()-[de-pos/AUX]() (3352; 99% instances), [de-pos/PROPN]()-[de-pos/PROPN]() (11; 0% instances), [de-pos/VERB]()-[de-pos/ADP]() (11; 0% instances), [de-pos/ADJ]()-[de-pos/PART]() (8; 0% instances), [de-pos/AUX]()-[de-pos/AUX]() (6; 0% instances), [de-pos/VERB]()-[de-pos/PART]() (4; 0% instances), [de-pos/VERB]()-[de-pos/VERB]() (2; 0% instances), [de-pos/ADJ]()-[de-pos/AUX]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/AUX]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,13 +20,35 @@ The following 11 pairs of parts of speech are connected with `aux`: [de-pos/VERB
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 aux	color:blue
-1	Habe	_	AUX	_	_	6	aux	_	_
-2	die	_	DET	_	_	4	det	_	_
-3	bestellten	_	ADJ	_	_	4	amod	_	_
-4	Artikel	_	NOUN	_	_	6	dobj	_	_
-5	prompt	_	ADV	_	_	6	advmod	_	_
-6	erhalten	_	VERB	_	_	0	root	_	_
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Habe	haben	AUX	VAFIN	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_
+2	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	bestellten	bestellt	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	Artikel	Artikel	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	6	dobj	_	_
+5	prompt	prompt	ADV	ADJD	_	6	advmod	_	_
+6	erhalten	erhalten	VERB	VVPP	VerbForm=Part	0	root	_	_
+7	.	.	PUNCT	$.	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 5 aux	color:blue
+1	Sie	Sie|sie	PRON	PPER	Case=Nom|Person=2|Polite=Pol|PronType=Prs	4	nsubj	_	_
+2	haben	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	alles	alle	PRON	PIS	Case=Acc|PronType=Tot	4	dobj	_	_
+4	unternommen	unternehmen	VERB	VVPP	VerbForm=Part	0	root	_	_
+5	um	um	ADP	APPR	_	11	aux	_	_
+6	uns	wir	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	11	iobj	_	_
+7	einen	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	tollen	toll	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	Urlaub	Urlaub	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	11	dobj	_	_
+10	zu	zu	PART	PTKZU	_	11	mark	_	_
+11	bereiten	bereiten	VERB	VVINF	VerbForm=Inf	4	advcl	_	_
+12	.	.	PUNCT	$.	_	4	punct	_	_
 
 ~~~
 
@@ -34,41 +56,21 @@ The following 11 pairs of parts of speech are connected with `aux`: [de-pos/VERB
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 aux	color:blue
-1	Ich	_	PRON	_	_	2	nsubj	_	_
-2	hatte	_	VERB	_	_	0	root	_	_
-3	Gelegenheit	_	NOUN	_	_	2	dobj	_	_
-4	eines	_	DET	_	_	6	det	_	_
-5	seiner	_	PRON	_	_	6	det	_	_
-6	Seminare	_	NOUN	_	_	8	dobj	_	_
-7	zu	_	PART	_	_	8	aux	_	_
-8	besuchen	_	VERB	_	_	3	xcomp	_	_
-9	.	_	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 aux	color:blue
-1	Das	_	DET	_	_	2	det	_	_
-2	Hotel	_	NOUN	_	_	3	nsubj	_	_
-3	sah	_	VERB	_	_	0	root	_	_
-4	aus	_	ADP	_	_	3	mark	_	_
-5	als	_	SCONJ	_	_	9	mark	_	_
-6	wäre	_	VERB	_	_	9	cop	_	_
-7	es	_	PRON	_	_	9	nsubj	_	_
-8	kurz	_	ADV	_	_	9	advmod	_	_
-9	davor	_	ADV	_	_	3	advcl	_	_
-10	abgerissen	_	VERB	_	_	9	xcomp	_	_
-11	zu	_	PART	_	_	12	aux	_	_
-12	werden	_	AUX	_	_	10	auxpass	_	_
-13	.	_	PUNCT	_	_	3	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 aux	color:blue
+1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	erschien	erscheinen	VERB	VVFIN	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+3	auf	auf	ADP	APPR	_	5	case	_	_
+4	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Album	Album	NOUN	NN	Case=Dat|Gender=Masc,Neut|Number=Sing	2	nmod	_	_
+6	Why	Why	PROPN	NE	_	9	advmod	_	_
+7	Do	Do	PROPN	NE	_	9	aux	_	_
+8	Fools	Fools	PROPN	NN	Case=Nom|Number=Sing	9	nsubj	_	_
+9	Fall	Fall	PROPN	NN	_	5	appos	_	_
+10	in	in	PROPN	APPR	_	11	case	_	_
+11	Love	Love	PROPN	NN	_	9	nmod	_	_
+12	.	.	PUNCT	$.	_	2	punct	_	_
 
 ~~~
 

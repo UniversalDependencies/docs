@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-286 nodes (1%) are attached to their parents as `nummod`.
+290 nodes (1%) are attached to their parents as `nummod`.
 
-286 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27622377622378.
+290 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2551724137931.
 
-The following 5 pairs of parts of speech are connected with `nummod`: [lv-pos/NOUN]()-[lv-pos/NUM]() (180; 63% instances), [lv-pos/SYM]()-[lv-pos/NUM]() (68; 24% instances), [lv-pos/NUM]()-[lv-pos/NUM]() (31; 11% instances), [lv-pos/PROPN]()-[lv-pos/NUM]() (6; 2% instances), [lv-pos/ADJ]()-[lv-pos/NUM]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: [lv-pos/NOUN]()-[lv-pos/NUM]() (212; 73% instances), [lv-pos/SYM]()-[lv-pos/NUM]() (68; 23% instances), [lv-pos/PROPN]()-[lv-pos/NUM]() (6; 2% instances), [lv-pos/NUM]()-[lv-pos/NUM]() (4; 1% instances).
 
 
 ~~~ conllu
@@ -53,22 +53,18 @@ The following 5 pairs of parts of speech are connected with `nummod`: [lv-pos/NO
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nummod	color:blue
-1	Kopējās	kopēja	ADJ	arfpnyp	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
-2	Pillar	Pillar	PROPN	np0sg0	Case=Gen|Number=Sing	3	nmod	_	_
-3	investīcijas	investīcija	NOUN	ncfpn4	Case=Nom|Gender=Fem|Number=Plur	9	dep	_	_
-4	šo	šī	DET	pd0fpgn	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
-5	projektu	projekts	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
-6	attīstīšanā	attīstīšana	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
-7	ir	būt	VERB	vcnipii30an	Mood=Ind|Negative=Neg|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
-8	10,6	10,6	NUM	xn	NumType=Card	9	nummod	_	_
-9	miljoni	miljons	NUM	mcsmpnm	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	0	root	_	_
-10	eiro	eiro	NOUN	ncm_d0	Case=Dat|Gender=Masc	9	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	zs	_	9	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nummod	color:blue
+1	Dienas	diena	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+2	Bizness	bizness	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	4	parataxis	_	SpaceAfter=No
+3	:	:	PUNCT	zo	_	2	punct	_	_
+4	Nafta	nafta	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	pie	pie	ADP	sppdy	_	7	case	_	_
+6	118	118	NUM	xn	NumType=Card	7	nummod	_	_
+7	USD	USD	PROPN	y	_	4	acl	_	_
 
 ~~~
 

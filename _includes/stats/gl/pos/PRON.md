@@ -85,3 +85,95 @@ Children of `PRON` nodes are attached using 16 different relations: [gl-dep/det]
 
 Children of `PRON` nodes belong to 14 different parts of speech: [DET]() (312; 50% instances), [ADP]() (94; 15% instances), [NOUN]() (65; 10% instances), [PUNCT]() (42; 7% instances), [PRON]() (36; 6% instances), [ADJ]() (32; 5% instances), [VERB]() (24; 4% instances), [PROPN]() (5; 1% instances), [ADV]() (4; 1% instances), [CONJ]() (4; 1% instances), [SCONJ]() (4; 1% instances), [SYM]() (2; 0% instances), [NUM]() (1; 0% instances), [PART]() (1; 0% instances)
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+There are 41 `PRON` lemmas (1%), 80 `PRON` types (1%) and 1291 `PRON` tokens (5%).
+Out of 15 observed tags, the rank of `PRON` is: 8 in number of lemmas, 8 in number of types and 7 in number of tokens.
+
+The 10 most frequent `PRON` lemmas: <em>que, se, o, lle, nos, este, el, un, ese, me</em>
+
+The 10 most frequent `PRON` types:  <em>que, se, lle, nos, o, a, me, iso, lo, quen</em>
+
+The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 489, [SCONJ]() 303, [DET]() 6), <em>se</em> ([PRON]() 233, [SCONJ]() 41), <em>o</em> ([DET]() 2885, [PRON]() 115), <em>este</em> ([DET]() 101, [PRON]() 29), <em>un</em> ([DET]() 452, [PRON]() 26, [NUM]() 11), <em>ese</em> ([DET]() 44, [PRON]() 24), <em>todo</em> ([DET]() 61, [PRON]() 22), <em>outro</em> ([DET]() 55, [PRON]() 20), <em>algún</em> ([DET]() 16, [PRON]() 15), <em>mesmo</em> ([DET]() 22, [ADV]() 11, [PRON]() 8)
+
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 489, [SCONJ]() 303, [DET]() 6), <em>se</em> ([PRON]() 233, [SCONJ]() 41), <em>o</em> ([DET]() 1094, [PRON]() 42), <em>a</em> ([DET]() 1035, [ADP]() 400, [PRON]() 23), <em>lo</em> ([DET]() 45, [PRON]() 20), <em>todo</em> ([DET]() 19, [PRON]() 15), <em>un</em> ([DET]() 253, [PRON]() 15, [NUM]() 10), <em>algúns</em> ([PRON]() 13, [DET]() 6), <em>unha</em> ([DET]() 179, [PRON]() 11, [NUM]() 1), <em>outros</em> ([DET]() 14, [PRON]() 10)
+
+
+* <em>que</em>
+  * [PRON]() 489: <em>discutir <b>que</b> é un clásico .</em>
+  * [SCONJ]() 303: <em>en_concreto , <b>que</b> Galiza posúe mundos propios factíbeis de contar .</em>
+  * [DET]() 6: <em>con <b>que</b> obxectivo nace o Sindicato_de_Xornalistas_de_Galicia ?</em>
+* <em>se</em>
+  * [PRON]() 233: <em>é mais , a nivel galego tamén <b>se</b> segue esa liña .</em>
+  * [SCONJ]() 41: <em><b>se</b> cando a paso a a guitarra , esa obra perde non a fago .</em>
+* <em>o</em>
+  * [DET]() 1094: <em>Amenábar pertence a <b>o</b> grupo .</em>
+  * [PRON]() 42: <em>un de eles é <b>o</b> de Celulosas .</em>
+* <em>a</em>
+  * [DET]() 1035: <em>sempre se pode deixar o coche en o garaxe de <b>a</b> casa e patear as rúas .</em>
+  * [ADP]() 400: <em>Amenábar pertence <b>a</b> o grupo .</em>
+  * [PRON]() 23: <em>se cando <b>a</b> paso a a guitarra , esa obra perde non <b>a</b> fago .</em>
+* <em>lo</em>
+  * [DET]() 45: <em>falamos de algo moi particularmente xaponés ou que xa se estendeu por <b>lo</b> mundo ?</em>
+  * [PRON]() 20: <em>sigo a ser <b>lo</b> .</em>
+* <em>todo</em>
+  * [DET]() 19: <em>pero é un fenómeno que non está estendido a_o_longo_de <b>todo</b> un país ;</em>
+  * [PRON]() 15: <em>de todos modos , o meu público é , sobre <b>todo</b> , xuvenil .</em>
+* <em>un</em>
+  * [DET]() 253: <em>discutir que é <b>un</b> clásico .</em>
+  * [PRON]() 15: <em><b>un</b> de eles é o de Celulosas .</em>
+  * [NUM]() 10: <em>menos que agora , se é <b>un</b> cuarto de hora para un recado rápido .</em>
+* <em>algúns</em>
+  * [PRON]() 13: <em><b>algúns</b> fan xornadas de máis de 12 horas .</em>
+  * [DET]() 6: <em>en Cataluña a polémica de o 3 % ( que supostamente cobraron <b>algúns</b> políticos de as construtoras ) ;</em>
+* <em>unha</em>
+  * [DET]() 179: <em>Walesa critica <b>unha</b> emisora católica</em>
+  * [PRON]() 11: <em>a familiaridade é <b>unha</b> de elas .</em>
+  * [NUM]() 1: <em>pero seguramente máis que agora , por <b>unha</b> hora ou máis .</em>
+* <em>outros</em>
+  * [DET]() 14: <em>a a dereita , <b>outros</b> participantes en o foro , Paulo_González_Mariñas e Ramón_Villares .</em>
+  * [PRON]() 10: <em>todo un exemplo para <b>outros</b> , mesmo para algúns nacidos en a propia casa .</em>
+
+## Morphology
+
+The form / lemma ratio of `PRON` is 1.951220 (the average of all parts of speech is 1.374140).
+
+The 1st highest number of forms (10) was observed with the lemma “o”: <em>a, as, la, lo, los, na, no, nos, o, os</em>.
+
+The 2nd highest number of forms (5) was observed with the lemma “este”: <em>esta, estas, este, estes, isto</em>.
+
+The 3rd highest number of forms (4) was observed with the lemma “el”: <em>el, ela, elas, eles</em>.
+
+`PRON` occurs with 8 features: [gl-feat/Gender]() (1280; 99% instances), [gl-feat/Number]() (1280; 99% instances), [gl-feat/PronType]() (1230; 95% instances), [gl-feat/Person]() (531; 41% instances), [gl-feat/Case]() (254; 20% instances), [gl-feat/Definite]() (34; 3% instances), [gl-feat/Number[psor]]() (3; 0% instances), [gl-feat/Poss]() (3; 0% instances)
+
+`PRON` occurs with 24 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Nom`, `Definite=Def`, `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Clit`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
+
+`PRON` occurs with 73 feature combinations.
+The most frequent feature combination is `Gender=Com|Number=Dual|Person=3|PronType=Clit` (233 tokens).
+Examples: <em>se</em>
+
+
+## Relations
+
+`PRON` nodes are attached to their parents using 19 different relations: [gl-dep/nsubj]() (402; 31% instances), [gl-dep/expl]() (284; 22% instances), [gl-dep/dobj]() (245; 19% instances), [gl-dep/nmod]() (199; 15% instances), [gl-dep/iobj]() (71; 5% instances), [gl-dep/root]() (27; 2% instances), [gl-dep/conj]() (22; 2% instances), [gl-dep/ccomp]() (9; 1% instances), [gl-dep/nsubjpass]() (9; 1% instances), [gl-dep/acl]() (6; 0% instances), [gl-dep/mwe]() (4; 0% instances), [gl-dep/advcl]() (3; 0% instances), [gl-dep/parataxis]() (3; 0% instances), [gl-dep/advmod]() (2; 0% instances), [gl-dep/appos]() (1; 0% instances), [gl-dep/dep]() (1; 0% instances), [gl-dep/det]() (1; 0% instances), [gl-dep/mark]() (1; 0% instances), [gl-dep/xcomp]() (1; 0% instances)
+
+Parents of `PRON` nodes belong to 8 different parts of speech: [VERB]() (1100; 85% instances), [NOUN]() (90; 7% instances), [PRON]() (35; 3% instances), [ADJ]() (30; 2% instances), [ROOT]() (27; 2% instances), [ADV]() (5; 0% instances), [PROPN]() (3; 0% instances), [ADP]() (1; 0% instances)
+
+905 (70%) `PRON` nodes are leaves.
+
+174 (13%) `PRON` nodes have one child.
+
+137 (11%) `PRON` nodes have two children.
+
+75 (6%) `PRON` nodes have three or more children.
+
+The highest child degree of a `PRON` node is 7.
+
+Children of `PRON` nodes are attached using 23 different relations: [gl-dep/case]() (211; 29% instances), [gl-dep/det]() (165; 23% instances), [gl-dep/nmod]() (83; 11% instances), [gl-dep/punct]() (67; 9% instances), [gl-dep/cop]() (51; 7% instances), [gl-dep/nsubj]() (30; 4% instances), [gl-dep/acl]() (29; 4% instances), [gl-dep/advmod]() (19; 3% instances), [gl-dep/conj]() (15; 2% instances), [gl-dep/amod]() (13; 2% instances), [gl-dep/cc]() (12; 2% instances), [gl-dep/mark]() (11; 2% instances), [gl-dep/advcl]() (5; 1% instances), [gl-dep/csubj]() (5; 1% instances), [gl-dep/neg]() (5; 1% instances), [gl-dep/appos]() (3; 0% instances), [gl-dep/ccomp]() (2; 0% instances), [gl-dep/xcomp]() (2; 0% instances), [gl-dep/aux]() (1; 0% instances), [gl-dep/compound]() (1; 0% instances), [gl-dep/mwe]() (1; 0% instances), [gl-dep/parataxis]() (1; 0% instances), [gl-dep/remnant]() (1; 0% instances)
+
+Children of `PRON` nodes belong to 12 different parts of speech: [ADP]() (208; 28% instances), [DET]() (165; 23% instances), [VERB]() (97; 13% instances), [PUNCT]() (67; 9% instances), [NOUN]() (66; 9% instances), [PRON]() (35; 5% instances), [PROPN]() (25; 3% instances), [ADV]() (24; 3% instances), [SCONJ]() (17; 2% instances), [ADJ]() (16; 2% instances), [CONJ]() (11; 2% instances), [NUM]() (2; 0% instances)
+

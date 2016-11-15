@@ -68,13 +68,13 @@ Examples: <em>Иван, ЕС, СДС, Костов, Петър, Георги, С
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 16 different relations: [bg-dep/nmod]() (4363; 52% instances), [bg-dep/nsubj]() (1408; 17% instances), [bg-dep/name]() (1267; 15% instances), [bg-dep/conj]() (635; 8% instances), [bg-dep/iobj]() (250; 3% instances), [bg-dep/root]() (212; 3% instances), [bg-dep/dobj]() (157; 2% instances), [bg-dep/nsubjpass]() (67; 1% instances), [bg-dep/discourse]() (53; 1% instances), [bg-dep/advcl]() (4; 0% instances), [bg-dep/ccomp]() (4; 0% instances), [bg-dep/amod]() (3; 0% instances), [bg-dep/vocative]() (2; 0% instances), [bg-dep/acl]() (1; 0% instances), [bg-dep/appos]() (1; 0% instances), [bg-dep/xcomp]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 16 different relations: [bg-dep/nmod]() (4344; 52% instances), [bg-dep/nsubj]() (1407; 17% instances), [bg-dep/name]() (1288; 15% instances), [bg-dep/conj]() (633; 8% instances), [bg-dep/iobj]() (250; 3% instances), [bg-dep/root]() (212; 3% instances), [bg-dep/dobj]() (157; 2% instances), [bg-dep/nsubjpass]() (68; 1% instances), [bg-dep/discourse]() (52; 1% instances), [bg-dep/advcl]() (4; 0% instances), [bg-dep/ccomp]() (4; 0% instances), [bg-dep/amod]() (3; 0% instances), [bg-dep/appos]() (2; 0% instances), [bg-dep/vocative]() (2; 0% instances), [bg-dep/acl]() (1; 0% instances), [bg-dep/xcomp]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 10 different parts of speech: [NOUN]() (3414; 41% instances), [PROPN]() (2547; 30% instances), [VERB]() (2110; 25% instances), [ROOT]() (212; 3% instances), [ADJ]() (108; 1% instances), [ADV]() (25; 0% instances), [PRON]() (6; 0% instances), [DET]() (3; 0% instances), [NUM]() (2; 0% instances), [X]() (1; 0% instances)
+Parents of `PROPN` nodes belong to 10 different parts of speech: [NOUN]() (3415; 41% instances), [PROPN]() (2547; 30% instances), [VERB]() (2109; 25% instances), [ROOT]() (212; 3% instances), [ADJ]() (108; 1% instances), [ADV]() (25; 0% instances), [PRON]() (6; 0% instances), [DET]() (3; 0% instances), [NUM]() (2; 0% instances), [X]() (1; 0% instances)
 
-3575 (42%) `PROPN` nodes are leaves.
+3574 (42%) `PROPN` nodes are leaves.
 
-3029 (36%) `PROPN` nodes have one child.
+3030 (36%) `PROPN` nodes have one child.
 
 851 (10%) `PROPN` nodes have two children.
 
@@ -82,7 +82,7 @@ Parents of `PROPN` nodes belong to 10 different parts of speech: [NOUN]() (3414;
 
 The highest child degree of a `PROPN` node is 27.
 
-Children of `PROPN` nodes are attached using 19 different relations: [bg-dep/case]() (2557; 29% instances), [bg-dep/punct]() (2365; 27% instances), [bg-dep/name]() (1267; 14% instances), [bg-dep/nmod]() (1016; 11% instances), [bg-dep/conj]() (697; 8% instances), [bg-dep/cc]() (406; 5% instances), [bg-dep/amod]() (315; 4% instances), [bg-dep/acl]() (58; 1% instances), [bg-dep/nummod]() (41; 0% instances), [bg-dep/cop]() (34; 0% instances), [bg-dep/advmod]() (29; 0% instances), [bg-dep/nsubj]() (28; 0% instances), [bg-dep/discourse]() (23; 0% instances), [bg-dep/det]() (15; 0% instances), [bg-dep/aux]() (6; 0% instances), [bg-dep/advcl]() (2; 0% instances), [bg-dep/appos]() (2; 0% instances), [bg-dep/mark]() (2; 0% instances), [bg-dep/neg]() (2; 0% instances)
+Children of `PROPN` nodes are attached using 19 different relations: [bg-dep/case]() (2557; 29% instances), [bg-dep/punct]() (2365; 27% instances), [bg-dep/name]() (1290; 15% instances), [bg-dep/nmod]() (997; 11% instances), [bg-dep/conj]() (695; 8% instances), [bg-dep/cc]() (404; 5% instances), [bg-dep/amod]() (315; 4% instances), [bg-dep/acl]() (58; 1% instances), [bg-dep/nummod]() (41; 0% instances), [bg-dep/cop]() (34; 0% instances), [bg-dep/advmod]() (29; 0% instances), [bg-dep/nsubj]() (28; 0% instances), [bg-dep/discourse]() (23; 0% instances), [bg-dep/det]() (15; 0% instances), [bg-dep/aux]() (6; 0% instances), [bg-dep/appos]() (3; 0% instances), [bg-dep/advcl]() (2; 0% instances), [bg-dep/mark]() (2; 0% instances), [bg-dep/neg]() (2; 0% instances)
 
-Children of `PROPN` nodes belong to 15 different parts of speech: [ADP]() (2557; 29% instances), [PROPN]() (2547; 29% instances), [PUNCT]() (2365; 27% instances), [NOUN]() (465; 5% instances), [CONJ]() (406; 5% instances), [ADJ]() (326; 4% instances), [VERB]() (89; 1% instances), [NUM]() (41; 0% instances), [ADV]() (30; 0% instances), [DET]() (16; 0% instances), [PART]() (9; 0% instances), [PRON]() (7; 0% instances), [INTJ]() (4; 0% instances), [SCONJ]() (2; 0% instances), [AUX]() (1; 0% instances)
+Children of `PROPN` nodes belong to 15 different parts of speech: [ADP]() (2557; 29% instances), [PROPN]() (2547; 29% instances), [PUNCT]() (2365; 27% instances), [NOUN]() (465; 5% instances), [CONJ]() (406; 5% instances), [ADJ]() (326; 4% instances), [VERB]() (89; 1% instances), [NUM]() (41; 0% instances), [ADV]() (30; 0% instances), [DET]() (16; 0% instances), [PART]() (9; 0% instances), [PRON]() (8; 0% instances), [INTJ]() (4; 0% instances), [SCONJ]() (2; 0% instances), [AUX]() (1; 0% instances)
 

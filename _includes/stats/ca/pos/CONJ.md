@@ -11,7 +11,7 @@ The 10 most frequent `CONJ` lemmas: <em>i, o, però, ni, sinó, mentre, y, que, 
 
 The 10 most frequent `CONJ` types:  <em>i, o, però, ni, sinó, mentre, y, que, bé, et</em>
 
-The 10 most frequent ambiguous lemmas: <em>i</em> ([CONJ]() 12785, [DET]() 1, [NOUN]() 1), <em>però</em> ([CONJ]() 768, [ADV]() 86, [PROPN]() 1), <em>ni</em> ([CONJ]() 270, [ADV]() 36), <em>sinó</em> ([CONJ]() 179, [SCONJ]() 1), <em>mentre</em> ([CONJ]() 159, [SCONJ]() 92), <em>que</em> ([PRON]() 7193, [SCONJ]() 6661, [CONJ]() 4, [DET]() 1), <em>,</em> ([PUNCT]() 26713, [CONJ]() 1), <em>bé</em> ([NOUN]() 97, [ADV]() 75, [CONJ]() 1), <em>et</em> ([PROPN]() 3, [CONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>i</em> ([CONJ]() 12785, [NOUN]() 1, [DET]() 1), <em>però</em> ([CONJ]() 768, [ADV]() 86, [PROPN]() 1), <em>ni</em> ([CONJ]() 270, [ADV]() 36), <em>sinó</em> ([CONJ]() 179, [SCONJ]() 1), <em>mentre</em> ([CONJ]() 159, [SCONJ]() 92), <em>que</em> ([PRON]() 7193, [SCONJ]() 6661, [CONJ]() 4, [DET]() 1), <em>,</em> ([PUNCT]() 26713, [CONJ]() 1), <em>bé</em> ([NOUN]() 97, [ADV]() 75, [CONJ]() 1), <em>et</em> ([PROPN]() 3, [CONJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>i</em> ([CONJ]() 12572, [NOUN]() 1), <em>però</em> ([CONJ]() 603, [ADV]() 67, [PROPN]() 1), <em>ni</em> ([CONJ]() 253, [ADV]() 32), <em>sinó</em> ([CONJ]() 178, [SCONJ]() 1), <em>mentre</em> ([CONJ]() 146, [SCONJ]() 79), <em>que</em> ([PRON]() 7193, [SCONJ]() 6628, [CONJ]() 4), <em>bé</em> ([NOUN]() 86, [ADV]() 75, [CONJ]() 1), <em>et</em> ([PRON]() 11, [PROPN]() 3, [CONJ]() 1)
 

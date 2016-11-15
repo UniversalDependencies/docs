@@ -102,7 +102,7 @@ The 10 most frequent `AUX` types:  <em>hade, kan, har, skulle, måste, kunde, vi
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14002, [VERB]() 11274, [ADP]() 8898, [PUNCT]() 8656, [PRON]() 8194, [ADV]() 6016, [ADJ]() 5522, [DET]() 4283, [CONJ]() 3016, [PROPN]() 2703, [SCONJ]() 2587, [AUX]() 2238, [PART]() 1778, [NUM]() 440, [INTJ]() 179, [X]() 17, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>hade</em> ([AUX]() 428, [VERB]() 108), <em>har</em> ([AUX]() 277, [VERB]() 114), <em>vill</em> ([AUX]() 83, [VERB]() 9), <em>kommer</em> ([AUX]() 66, [VERB]() 48), <em>ha</em> ([AUX]() 61, [VERB]() 40), <em>är</em> ([VERB]() 631, [AUX]() 44), <em>få</em> ([VERB]() 50, [AUX]() 28, [ADJ]() 5), <em>får</em> ([VERB]() 27, [AUX]() 27, [NOUN]() 2), <em>var</em> ([VERB]() 627, [AUX]() 20, [ADV]() 17, [PRON]() 4, [DET]() 1), <em>fick</em> ([VERB]() 63, [AUX]() 19)
+The 10 most frequent ambiguous types:  <em>hade</em> ([AUX]() 428, [VERB]() 108), <em>har</em> ([AUX]() 277, [VERB]() 114), <em>vill</em> ([AUX]() 83, [VERB]() 9), <em>kommer</em> ([AUX]() 66, [VERB]() 48), <em>ha</em> ([AUX]() 61, [VERB]() 40), <em>är</em> ([VERB]() 631, [AUX]() 44), <em>få</em> ([VERB]() 50, [AUX]() 28, [ADJ]() 5), <em>får</em> ([AUX]() 27, [VERB]() 27, [NOUN]() 2), <em>var</em> ([VERB]() 627, [AUX]() 20, [ADV]() 17, [PRON]() 4, [DET]() 1), <em>fick</em> ([VERB]() 63, [AUX]() 19)
 
 
 * <em>hade</em>
@@ -128,8 +128,8 @@ The 10 most frequent ambiguous types:  <em>hade</em> ([AUX]() 428, [VERB]() 108)
   * [AUX]() 28: <em>Jag undrar om jag kan <b>få</b> prata med er . Det är ganska viktigt .</em>
   * [ADJ]() 5: <em>Vi bevakar noggrant frågan och bör veta om ordningen har modifierats inom några <b>få</b> veckor .</em>
 * <em>får</em>
-  * [VERB]() 27: <em>Och dom ska inte inbilla sig att dom <b>får</b> något heller .</em>
   * [AUX]() 27: <em>Man <b>får</b> aldrig ge sig .</em>
+  * [VERB]() 27: <em>Och dom ska inte inbilla sig att dom <b>får</b> något heller .</em>
   * [NOUN]() 2: <em>Rebecca Edwards hade alldeles nyss berättat för Neil Bayley att Felix Pasilis , Pettigrews grekiske vän , var rasande på henne för att hon hade glömt en eller annan absolut livsnödvändig krydda som han måste ha till sitt <b>får</b> .</em>
 * <em>var</em>
   * [VERB]() 627: <em>Det <b>var</b> en kvinna som öppnade dörren till lägenheten .</em>

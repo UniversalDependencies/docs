@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [ca-pos/DET]() (3140; 1% instanc
 
 3140 [ca-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (3140; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3140; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2323; 74%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1606; 51%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (3140; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (3140; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2323; 74%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1606; 51%).
 
 `DET` tokens may have the following values of `Poss`:
 

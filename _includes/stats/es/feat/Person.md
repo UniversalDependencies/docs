@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><em>serían</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut</tt></td><td></td><td></td><td><em>será</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Imp</tt></td><td></td><td></td><td><em>era, fui, Soy</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>fui</em></td><td></td><td><em>fue, Fui, ES</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>fui</em></td><td></td><td><em>fue, ES, Fui</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>soy</em></td><td><em>eres</em></td><td><em>es</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut</tt></td><td></td><td></td><td><em>serán</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Imp</tt></td><td><em>seamos</em></td><td></td><td><em>eran, serían</em></td></tr>
@@ -175,7 +175,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>PRON --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (13; 54%),
 <tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (11; 61%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (8; 57%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (6; 67%).
+<tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> PRON</tt> (6; 75%).
 
 
 
@@ -273,7 +273,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td></td><td><em>se</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td></td><td><em>lo, Les, le</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td></td><td><em>lo, le, Les</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td></td><td><em>los, les</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td></td><td><em>la</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td></td><td><em>las</em></td></tr>

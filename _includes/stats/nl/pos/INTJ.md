@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>nee, ja, Cryptogram, hoor, uh, hè, kijk
 
 The 10 most frequent `INTJ` types:  <em>nee, ja, Cryptogram, hoor, uh, Kijk, Och, Welnu, he, nietwaar</em>
 
-The 10 most frequent ambiguous lemmas: <em>nee</em> ([INTJ]() 21, [X]() 1), <em>ja</em> ([INTJ]() 17, [ADV]() 12), <em>Cryptogram</em> ([INTJ]() 6, [NOUN]() 1), <em>hoor</em> ([VERB]() 74, [INTJ]() 4, [X]() 1, [AUX]() 1), <em>hè</em> ([INTJ]() 3, [NOUN]() 3, [ADJ]() 1), <em>kijk</em> ([VERB]() 53, [AUX]() 4, [INTJ]() 2, [NOUN]() 1), <em>ach</em> ([INTJ]() 1, [X]() 1), <em>zeker</em> ([ADJ]() 70, [PRON]() 11, [INTJ]() 2), <em>Delmee</em> ([INTJ]() 1, [PROPN]() 1), <em>enzovoorts</em> ([ADV]() 3, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>nee</em> ([INTJ]() 21, [X]() 1), <em>ja</em> ([INTJ]() 17, [ADV]() 12), <em>Cryptogram</em> ([INTJ]() 6, [NOUN]() 1), <em>hoor</em> ([VERB]() 74, [INTJ]() 4, [AUX]() 1, [X]() 1), <em>hè</em> ([INTJ]() 3, [NOUN]() 3, [ADJ]() 1), <em>kijk</em> ([VERB]() 53, [AUX]() 4, [INTJ]() 2, [NOUN]() 1), <em>ach</em> ([X]() 1, [INTJ]() 1), <em>zeker</em> ([ADJ]() 70, [PRON]() 11, [INTJ]() 2), <em>Delmee</em> ([INTJ]() 1, [PROPN]() 1), <em>enzovoorts</em> ([ADV]() 3, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>nee</em> ([INTJ]() 9, [X]() 1), <em>ja</em> ([INTJ]() 12, [ADV]() 12), <em>Cryptogram</em> ([INTJ]() 6, [NOUN]() 1), <em>hoor</em> ([INTJ]() 4, [VERB]() 4, [X]() 1), <em>Kijk</em> ([VERB]() 7, [INTJ]() 3), <em>Delmee</em> ([PROPN]() 1, [INTJ]() 1), <em>Kortom</em> ([INTJ]() 1, [ADV]() 1), <em>Nou</em> ([NUM]() 3, [INTJ]() 1, [ADV]() 1), <em>O</em> ([CONJ]() 5, [INTJ]() 1), <em>zeg</em> ([VERB]() 13, [X]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>nee</em> ([INTJ]() 9, [X]() 1), <em>ja</em> ([INTJ]() 12, [ADV]() 12), <em>Cryptogram</em> ([INTJ]() 6, [NOUN]() 1), <em>hoor</em> ([INTJ]() 4, [VERB]() 4, [X]() 1), <em>Kijk</em> ([VERB]() 7, [INTJ]() 3), <em>Delmee</em> ([INTJ]() 1, [PROPN]() 1), <em>Kortom</em> ([INTJ]() 1, [ADV]() 1), <em>Nou</em> ([NUM]() 3, [INTJ]() 1, [ADV]() 1), <em>O</em> ([CONJ]() 5, [INTJ]() 1), <em>zeg</em> ([VERB]() 13, [X]() 1, [INTJ]() 1)
 
 
 * <em>nee</em>
@@ -33,8 +33,8 @@ The 10 most frequent ambiguous types:  <em>nee</em> ([INTJ]() 9, [X]() 1), <em>j
   * [VERB]() 7: <em><b>Kijk</b> maar eens naar de kleurenpracht van vlinders bijvoorbeeld</em>
   * [INTJ]() 3: <em><b>Kijk</b> , daar komen de schutters</em>
 * <em>Delmee</em>
-  * [PROPN]() 1: <em>Het nieuwe concept , met spelmaker De Nooijer kort achter spits Eikelboom en aanvoerder <b>Delmee</b> terug in de verdediging , staat nu alweer ter discussie .</em>
   * [INTJ]() 1: <em><b>Delmee</b> : " Misschien moeten we wel toe naar een tactiek met twee spelsystemen .</em>
+  * [PROPN]() 1: <em>Het nieuwe concept , met spelmaker De Nooijer kort achter spits Eikelboom en aanvoerder <b>Delmee</b> terug in de verdediging , staat nu alweer ter discussie .</em>
 * <em>Kortom</em>
   * [INTJ]() 1: <em><b>Kortom</b> : een rare geschiedenis</em>
   * [ADV]() 1: <em><b>Kortom</b> , geweldige boeken !</em>

@@ -97,6 +97,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>X --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2; 100%),
 <tt>X --[<a href="../dep/mark:prt.html">mark:prt</a>]--> PART</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/mark:prt.html">mark:prt</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%).
 

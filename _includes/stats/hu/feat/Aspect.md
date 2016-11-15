@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [hu-pos/VERB]() (12; 0% instance
 
 12 [hu-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (12; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (11; 92%), <tt><a href="Person.html">Person</a>=3</tt> (11; 92%), <tt><a href="Definite.html">Definite</a>=Def</tt> (9; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (7; 58%), <tt><a href="Tense.html">Tense</a>=Past</tt> (7; 58%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (12; 100%), <tt><a href="Person.html">Person</a>=3</tt> (11; 92%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (11; 92%), <tt><a href="Definite.html">Definite</a>=Def</tt> (9; 75%), <tt><a href="Tense.html">Tense</a>=Past</tt> (7; 58%), <tt><a href="Number.html">Number</a>=Sing</tt> (7; 58%).
 
 `VERB` tokens may have the following values of `Aspect`:
 

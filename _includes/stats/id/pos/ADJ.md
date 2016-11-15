@@ -13,15 +13,15 @@ The 10 most frequent `ADJ` types:  <em>lain, besar, baru, lainnya, sama, kecil, 
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>lain</em> ([ADJ]() 190, [NOUN]() 9, [ADP]() 3, [CONJ]() 1, [DET]() 1), <em>baru</em> ([ADJ]() 85, [ADV]() 19, [PROPN]() 1), <em>lainnya</em> ([ADJ]() 84, [NOUN]() 7, [DET]() 2), <em>sama</em> ([ADJ]() 69, [ADV]() 16, [DET]() 2, [CONJ]() 1, [NOUN]() 1, [VERB]() 1), <em>pertama</em> ([NUM]() 106, [ADJ]() 62), <em>tinggi</em> ([ADJ]() 61, [NOUN]() 5), <em>baik</em> ([ADJ]() 59, [ADP]() 8, [ADV]() 4, [CONJ]() 4, [DET]() 1), <em>awal</em> ([ADJ]() 54, [NOUN]() 9, [ADV]() 1), <em>sendiri</em> ([ADJ]() 54, [ADV]() 10, [PRON]() 9, [DET]() 3, [NOUN]() 1), <em>dekat</em> ([ADJ]() 37, [PRON]() 1)
+The 10 most frequent ambiguous types:  <em>lain</em> ([ADJ]() 190, [NOUN]() 9, [ADP]() 3, [DET]() 1, [CONJ]() 1), <em>baru</em> ([ADJ]() 85, [ADV]() 19, [PROPN]() 1), <em>lainnya</em> ([ADJ]() 84, [NOUN]() 7, [DET]() 2), <em>sama</em> ([ADJ]() 69, [ADV]() 16, [DET]() 2, [NOUN]() 1, [CONJ]() 1, [VERB]() 1), <em>pertama</em> ([NUM]() 106, [ADJ]() 62), <em>tinggi</em> ([ADJ]() 61, [NOUN]() 5), <em>baik</em> ([ADJ]() 59, [ADP]() 8, [ADV]() 4, [CONJ]() 4, [DET]() 1), <em>awal</em> ([ADJ]() 54, [NOUN]() 9, [ADV]() 1), <em>sendiri</em> ([ADJ]() 54, [ADV]() 10, [PRON]() 9, [DET]() 3, [NOUN]() 1), <em>dekat</em> ([ADJ]() 37, [PRON]() 1)
 
 
 * <em>lain</em>
   * [ADJ]() 190: <em>Pada akhir Maret 1927 , menyusul ratusan orang <b>lain</b> dari Sumatera Barat .</em>
   * [NOUN]() 9: <em>Hasil pertanian utama di desa ini ialah kopi , cokelat dan <b>lain</b> - <b>lain</b> .</em>
   * [ADP]() 3: <em>Fasilitas tersebut antara <b>lain</b> : SMA Nurul Iman memiliki banyak kegiatan ekstrakurikuler , diantaranya ,</em>
-  * [CONJ]() 1: <em>Beberapa komodor udara yang terkenal saat itu antara <b>lain</b> : Suryadi Suryadharma ( Kepala Staf TNI - AU pertama ) , Abdul Rahman Saleh ( perintis Akademi Angkatan Udara ) , dan Agustinus Adisucipto .</em>
   * [DET]() 1: <em>Secara historis , gaya pertama kali secara kuantitatif diselidiki dalam keadaan keseimbangan statis dimana beberapa gaya membatalkan satu sama <b>lain</b> .</em>
+  * [CONJ]() 1: <em>Beberapa komodor udara yang terkenal saat itu antara <b>lain</b> : Suryadi Suryadharma ( Kepala Staf TNI - AU pertama ) , Abdul Rahman Saleh ( perintis Akademi Angkatan Udara ) , dan Agustinus Adisucipto .</em>
 * <em>baru</em>
   * [ADJ]() 85: <em>Nia pun punya pasangan <b>baru</b> seorang pengusaha muda yang suka daun muda .</em>
   * [ADV]() 19: <em>Saat ia <b>baru</b> meninggal , apakah kamu tidak berpikir aku berduka sebagaimana orang-orang pada umumnya ?</em>
@@ -34,8 +34,8 @@ The 10 most frequent ambiguous types:  <em>lain</em> ([ADJ]() 190, [NOUN]() 9, [
   * [ADJ]() 69: <em>Apakah Angkatan Balai Pustaka <b>sama</b> dengasn Angkatan Pujangga Baru ?</em>
   * [ADV]() 16: <em>Atau , apa Engkau sudah membuang kami <b>sama</b> sekali ?</em>
   * [DET]() 2: <em>Secara historis , gaya pertama kali secara kuantitatif diselidiki dalam keadaan keseimbangan statis dimana beberapa gaya membatalkan satu <b>sama</b> lain .</em>
-  * [CONJ]() 1: <em>Adalah sebuah kemungkinan untuk membayangkan ruang - waktu yang terputus , masing - masing sudah ada tapi tidak dapat berinteraksi satu <b>sama</b> lain .</em>
   * [NOUN]() 1: <em>Komuni Ortodoks Oriental merupakan suatu kelompok gereja dalam Ortotoksi Oriental yang menjalin komuni penuh satu <b>sama</b> lain .</em>
+  * [CONJ]() 1: <em>Adalah sebuah kemungkinan untuk membayangkan ruang - waktu yang terputus , masing - masing sudah ada tapi tidak dapat berinteraksi satu <b>sama</b> lain .</em>
   * [VERB]() 1: <em>Bersama - <b>sama</b> mereka bertiga disebut Rajo Tigo Selo , artinya tiga orang raja yang " bersila " atau bertahta .</em>
 * <em>pertama</em>
   * [NUM]() 106: <em>Iskandar Muda menobatkan Tun Seri Lanang menjadi raja <b>pertama</b> Samalanga .</em>

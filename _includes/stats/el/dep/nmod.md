@@ -20,11 +20,11 @@ The following 23 pairs of parts of speech are connected with `nmod`: [el-pos/NOU
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nmod	color:blue
-1	Η	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Σπόρτινγκ	Σπόρτινγκ	NOUN	NOUN	_	4	nsubj	_	_
 3	Λισαβόνας	Λισαβόνα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	νίκησε	νικώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-5	την	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Μάντσεστερ	Μάντσεστερ	NOUN	NOUN	_	4	dobj	_	_
 7	Σίτι	Σίτι	NOUN	NOUN	_	6	nmod	_	_
 8	με	με	ADP	ADP	_	9	case	_	_
@@ -40,11 +40,11 @@ The following 23 pairs of parts of speech are connected with `nmod`: [el-pos/NOU
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 9 nmod	color:blue
-1	Η	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Σπόρτινγκ	Σπόρτινγκ	NOUN	NOUN	_	4	nsubj	_	_
 3	Λισαβόνας	Λισαβόνα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	νίκησε	νικώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-5	την	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Μάντσεστερ	Μάντσεστερ	NOUN	NOUN	_	4	dobj	_	_
 7	Σίτι	Σίτι	NOUN	NOUN	_	6	nmod	_	_
 8	με	με	ADP	ADP	_	9	case	_	_

@@ -11,7 +11,7 @@ This relation is universal.
 212 instances of `csubj` (62%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.20821114369501.
 
-The following 15 pairs of parts of speech are connected with `csubj`: [en-pos/ADJ]()-[en-pos/VERB]() (150; 44% instances), [en-pos/VERB]()-[en-pos/VERB]() (109; 32% instances), [en-pos/NOUN]()-[en-pos/VERB]() (56; 16% instances), [en-pos/VERB]()-[en-pos/ADJ]() (8; 2% instances), [en-pos/VERB]()-[en-pos/NOUN]() (3; 1% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (2; 1% instances), [en-pos/ADV]()-[en-pos/VERB]() (2; 1% instances), [en-pos/VERB]()-[en-pos/PRON]() (2; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PART]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `csubj`: [en-pos/ADJ]()-[en-pos/VERB]() (150; 44% instances), [en-pos/VERB]()-[en-pos/VERB]() (109; 32% instances), [en-pos/NOUN]()-[en-pos/VERB]() (55; 16% instances), [en-pos/VERB]()-[en-pos/ADJ]() (8; 2% instances), [en-pos/VERB]()-[en-pos/NOUN]() (3; 1% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (2; 1% instances), [en-pos/ADV]()-[en-pos/VERB]() (2; 1% instances), [en-pos/PRON]()-[en-pos/VERB]() (2; 1% instances), [en-pos/VERB]()-[en-pos/PRON]() (2; 1% instances), [en-pos/VERB]()-[en-pos/PROPN]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PART]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -84,7 +84,7 @@ This relation is universal.
 158 instances of `csubj` (70%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.96444444444444.
 
-The following 16 pairs of parts of speech are connected with `csubj`: [en-pos/ADJ]()-[en-pos/VERB]() (125; 56% instances), [en-pos/NOUN]()-[en-pos/VERB]() (46; 20% instances), [en-pos/VERB]()-[en-pos/VERB]() (31; 14% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (5; 2% instances), [en-pos/VERB]()-[en-pos/ADJ]() (4; 2% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (2; 1% instances), [en-pos/AUX]()-[en-pos/VERB]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `csubj`: [en-pos/ADJ]()-[en-pos/VERB]() (125; 56% instances), [en-pos/NOUN]()-[en-pos/VERB]() (45; 20% instances), [en-pos/VERB]()-[en-pos/VERB]() (31; 14% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (5; 2% instances), [en-pos/VERB]()-[en-pos/ADJ]() (4; 2% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (2; 1% instances), [en-pos/AUX]()-[en-pos/VERB]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -96,24 +96,24 @@ The following 16 pairs of parts of speech are connected with `csubj`: [en-pos/AD
 1	_	_	CONJ	CC	_	3	cc	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	NOUN	NN	_	0	root	_	_
-4	_	_	DET	DT	_	3	dobj	_	_
+4	_	_	PRON	DT	_	3	dobj	_	_
 5	_	_	PUNCT	,	_	3	punct	_	_
 6	_	_	SCONJ	IN	_	9	mark	_	_
 7	_	_	PRON	PRP	_	9	expl	_	_
 8	_	_	VERB	VBZ	_	9	cop	_	_
 9	_	_	ADJ	JJR	_	3	advcl	_	_
-10	_	_	NOUN	NN	_	11	dobj	_	_
+10	_	_	PRON	NN	_	11	dobj	_	_
 11	_	_	VERB	VBG	_	9	csubj	_	_
 12	_	_	SCONJ	IN	_	13	mark	_	_
 13	_	_	VERB	VBG	_	9	advcl	_	_
 14	_	_	NOUN	NNS	_	13	dobj	_	_
 15	_	_	ADP	IN	_	16	case	_	_
-16	_	_	NOUN	NN	_	13	nmod	_	_
-17	_	_	DET	WDT	_	18	nsubj	_	_
+16	_	_	PRON	NN	_	13	nmod	_	_
+17	_	_	PRON	WDT	_	18	nsubj	_	_
 18	_	_	VERB	VB	_	16	acl:relcl	_	_
 19	_	_	PRON	PRP	_	18	dobj	_	_
 20	_	_	VERB	VB	_	18	xcomp	_	_
-21	_	_	NOUN	NN	_	20	dobj	_	_
+21	_	_	PRON	NN	_	20	dobj	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
 ~~~

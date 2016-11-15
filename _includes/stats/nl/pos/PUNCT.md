@@ -78,7 +78,7 @@ The 10 most frequent `PUNCT` lemmas: <em>., ,, (, ), :, -, ", «, », ;</em>
 
 The 10 most frequent `PUNCT` types:  <em>., ,, (, ), :, -, ", «, », ;</em>
 
-The 10 most frequent ambiguous lemmas: <em>!</em> ([PROPN]() 31, [PUNCT]() 18), <em>&amp;</em> ([SYM]() 23, [PUNCT]() 8), <em>°</em> ([SYM]() 1, [PUNCT]() 1)
+The 10 most frequent ambiguous lemmas: <em>!</em> ([PROPN]() 31, [PUNCT]() 18), <em>&amp;</em> ([SYM]() 23, [PUNCT]() 8), <em>°</em> ([PUNCT]() 1, [SYM]() 1)
 
 The 10 most frequent ambiguous types:  <em>!</em> ([PROPN]() 31, [PUNCT]() 18), <em>&amp;</em> ([SYM]() 23, [PUNCT]() 8), <em>°</em> ([PUNCT]() 1, [SYM]() 1)
 

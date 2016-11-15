@@ -11,7 +11,7 @@ The 10 most frequent `DET` lemmas: இந்த, அந்த, எந்த, ம
 
 The 10 most frequent `DET` types:  இந்த, அந்த, இந்தப், எந்த, அந்தப், அந், இந்தத், மிக, மிகப், அதிக
 
-The 10 most frequent ambiguous lemmas: இந்த ([DET]() 60, [PRON]() 2, [NOUN]() 1), அந்த ([DET]() 28, [PRON]() 1), அதிகம் ([PRON]() 2, [DET]() 2), ஒரு ([ADJ]() 21, [DET]() 1)
+The 10 most frequent ambiguous lemmas: இந்த ([DET]() 60, [PRON]() 2, [NOUN]() 1), அந்த ([DET]() 28, [PRON]() 1), அதிகம் ([DET]() 2, [PRON]() 2), ஒரு ([ADJ]() 21, [DET]() 1)
 
 The 10 most frequent ambiguous types:  இந்த ([DET]() 47, [PRON]() 2), அந்தத் ([DET]() 2, [PRON]() 1), ஒரு ([ADJ]() 19, [DET]() 1)
 

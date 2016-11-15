@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-569 nodes (1%) are attached to their parents as `nsubjpass`.
+820 nodes (1%) are attached to their parents as `nsubjpass`.
 
-351 instances of `nsubjpass` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.66432337434095.
+485 instances of `nsubjpass` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.65365853658537.
 
-The following 17 pairs of parts of speech are connected with `nsubjpass`: [hr-pos/ADJ]()-[hr-pos/NOUN]() (408; 72% instances), [hr-pos/VERB]()-[hr-pos/NOUN]() (83; 15% instances), [hr-pos/ADJ]()-[hr-pos/PROPN]() (40; 7% instances), [hr-pos/ADJ]()-[hr-pos/PRON]() (13; 2% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (5; 1% instances), [hr-pos/ADJ]()-[hr-pos/NUM]() (4; 1% instances), [hr-pos/ADJ]()-[hr-pos/X]() (4; 1% instances), [hr-pos/VERB]()-[hr-pos/PROPN]() (3; 1% instances), [hr-pos/ADJ]()-[hr-pos/ADV]() (1; 0% instances), [hr-pos/ADJ]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/ADJ]()-[hr-pos/VERB]() (1; 0% instances), [hr-pos/ADV]()-[hr-pos/VERB]() (1; 0% instances), [hr-pos/AUX]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/ADJ]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/VERB]() (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `nsubjpass`: [hr-pos/ADJ]()-[hr-pos/NOUN]() (545; 66% instances), [hr-pos/VERB]()-[hr-pos/NOUN]() (157; 19% instances), [hr-pos/ADJ]()-[hr-pos/PROPN]() (62; 8% instances), [hr-pos/ADJ]()-[hr-pos/PRON]() (18; 2% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (6; 1% instances), [hr-pos/ADJ]()-[hr-pos/NUM]() (6; 1% instances), [hr-pos/VERB]()-[hr-pos/PROPN]() (5; 1% instances), [hr-pos/ADJ]()-[hr-pos/X]() (4; 0% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (4; 0% instances), [hr-pos/PROPN]()-[hr-pos/NOUN]() (2; 0% instances), [hr-pos/ADJ]()-[hr-pos/ADV]() (1; 0% instances), [hr-pos/ADJ]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/ADJ]()-[hr-pos/VERB]() (1; 0% instances), [hr-pos/ADV]()-[hr-pos/VERB]() (1; 0% instances), [hr-pos/AUX]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/AUX]()-[hr-pos/PUNCT]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/ADJ]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/NUM]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/PART]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

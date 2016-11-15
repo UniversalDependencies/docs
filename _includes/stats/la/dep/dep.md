@@ -142,6 +142,21 @@ The following 9 pairs of parts of speech are connected with `dep`: [la-pos/VERB]
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 dep	color:blue
+1	non	non	ADV	Df	_	3	neg	_	_
+2	enim	enim	ADV	Df	_	3	discourse	_	_
+3	intellexerant	intellego	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	de	de	ADP	R-	_	5	case	_	_
+5	panibus	panis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	3	dep	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 7	bgColor:blue
@@ -156,21 +171,6 @@ The following 9 pairs of parts of speech are connected with `dep`: [la-pos/VERB]
 7	sedit	sedeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
 8	super	super	ADP	R-	_	9	case	_	_
 9	eo	is	PRON	Pp	Case=Abl|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	dep	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 dep	color:blue
-1	non	non	ADV	Df	_	3	neg	_	_
-2	enim	enim	ADV	Df	_	3	discourse	_	_
-3	intellexerant	intellego	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	_
-4	de	de	ADP	R-	_	5	case	_	_
-5	panibus	panis	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	3	dep	_	_
 
 ~~~
 

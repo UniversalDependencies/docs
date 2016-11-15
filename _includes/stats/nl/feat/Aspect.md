@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 7398 [nl-pos/AUX]() tokens (65% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (7398; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7398; 100%), <tt><a href="Subcat.html">Subcat</a>=EMPTY</tt> (7192; 97%), <tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt> (5958; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (5903; 80%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5337; 72%), <tt><a href="Person.html">Person</a>=3</tt> (3857; 52%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7398; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7398; 100%), <tt><a href="Subcat.html">Subcat</a>=EMPTY</tt> (7192; 97%), <tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt> (5958; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (5903; 80%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5337; 72%), <tt><a href="Person.html">Person</a>=3</tt> (3857; 52%).
 
 `AUX` tokens may have the following values of `Aspect`:
 

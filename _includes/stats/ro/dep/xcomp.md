@@ -6,65 +6,69 @@
 
 This relation is universal.
 
-703 nodes (0%) are attached to their parents as `xcomp`.
+1128 nodes (1%) are attached to their parents as `xcomp`.
 
-609 instances of `xcomp` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.80796586059744.
+1016 instances of `xcomp` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.57446808510638.
 
-The following 17 pairs of parts of speech are connected with `xcomp`: [ro-pos/VERB]()-[ro-pos/ADJ]() (218; 31% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (194; 28% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (169; 24% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (33; 5% instances), [ro-pos/VERB]()-[ro-pos/ADV]() (29; 4% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (12; 2% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (10; 1% instances), [ro-pos/VERB]()-[ro-pos/PROPN]() (10; 1% instances), [ro-pos/ADJ]()-[ro-pos/VERB]() (7; 1% instances), [ro-pos/ADJ]()-[ro-pos/PROPN]() (6; 1% instances), [ro-pos/VERB]()-[ro-pos/ADP]() (4; 1% instances), [ro-pos/AUX]()-[ro-pos/VERB]() (3; 0% instances), [ro-pos/VERB]()-[ro-pos/NUM]() (3; 0% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (2; 0% instances), [ro-pos/ADV]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `xcomp`: [ro-pos/VERB]()-[ro-pos/NOUN]() (399; 35% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (333; 30% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (233; 21% instances), [ro-pos/VERB]()-[ro-pos/ADV]() (40; 4% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (36; 3% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (20; 2% instances), [ro-pos/VERB]()-[ro-pos/PROPN]() (14; 1% instances), [ro-pos/ADJ]()-[ro-pos/VERB]() (10; 1% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (9; 1% instances), [ro-pos/VERB]()-[ro-pos/ADP]() (8; 1% instances), [ro-pos/VERB]()-[ro-pos/NUM]() (8; 1% instances), [ro-pos/ADJ]()-[ro-pos/PROPN]() (6; 1% instances), [ro-pos/AUX]()-[ro-pos/VERB]() (2; 0% instances), [ro-pos/ADJ]()-[ro-pos/ADV]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/INTJ]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/ADV]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/AUX]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/SYM]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 xcomp	color:blue
+1	Acolo	acolo	ADV	Rgp	Degree=Pos	7	advmod	_	_
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
+3	lângă	lângă	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+4	izvoară	izvoară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
+6	iarba	iarbă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	pare	părea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+9	omăt	omăt	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	xcomp	_	_
+10	.	.	PUNCT	PERIOD	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 xcomp	color:blue
+1	fiecare	fiecare	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	pretinde	pretinde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	singur	singur	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	xcomp	_	_
+4	întreaga	întreg	ADJ	Afpfsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	moștenire	moștenire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	dobj	_	_
+6	.	.	PUNCT	PERIOD	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 xcomp	color:blue
-1	Doamna	doamnă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	Parsons	Parsons	PROPN	Np	_	1	nmod	_	_
-3	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pv	_	_
-4	uita	uita	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-5	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
-6	el	el	PRON	Pp3msr--------s	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	4	nmod	_	_
-7	neajutorată	neajutorat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	xcomp	_	_
-8	.	.	PUNCT	PERIOD	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 xcomp	color:blue
-1	Alexandru	alexandru	PROPN	Np	_	5	nsubj	_	_
-2	ar	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	putea	putea	VERB	Vmnp	Tense=Pres|VerbForm=Inf	0	root	_	_
-4	să	să	PART	Qs	Mood=Sub	5	mark	_	_
-5	devie	deveni	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
-6	bărbatul	bărbat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	5	xcomp	_	_
-7	meu	meu	PRON	Ps1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
-8	.	.	PUNCT	PERIOD	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 xcomp	color:blue
-1	Adevărul	adevăr	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	_
-2	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	că	că	SCONJ	Csssp	Negative=Pos	6	mark	_	_
-4	biata	biet	ADJ	Afpfsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
-5	fată	fată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nsubj	_	_
-6	plângea	plânge	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	xcomp	_	_
-7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
-8	rușine	rușine	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	_
-9	.	.	PUNCT	PERIOD	_	2	punct	_	_
+# visual-style 6 7 xcomp	color:blue
+1	Țara	țară	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	arde	arde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	și	și	CONJ	Crssp	Negative=Pos	2	cc	_	_
+4	tu	tu	PRON	Pp2-sn--------s	Case=Nom|Number=Sing|Person=2|PronType=Prs|Strength=Strong	6	nsubj	_	_
+5	-mi	eu	PRON	Pp1-sd--y-----w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	6	iobj	_	_
+6	stai	sta	VERB	Vmii2s	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	conj	_	_
+7	înfipt	înfige	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	6	xcomp	_	_
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+9	podele	podea	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	7	nmod	_	_
+10	ca	ca	ADV	Rc	_	12	advmod	_	_
+11	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
+12	par	par	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	_
+13	?	?	PUNCT	QUEST	_	2	punct	_	_
 
 ~~~
 

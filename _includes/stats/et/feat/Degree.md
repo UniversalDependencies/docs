@@ -31,7 +31,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 61 [et-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (61; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (61; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (33; 54%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (61; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (61; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (33; 54%).
 
 `PRON` tokens may have the following values of `Degree`:
 

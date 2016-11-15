@@ -4,7 +4,7 @@
 
 ## Treebank Statistics (UD_Czech)
 
-There are 26 `PUNCT` lemmas (0%), 27 `PUNCT` types (0%) and 221039 `PUNCT` tokens (15%).
+There are 26 `PUNCT` lemmas (0%), 27 `PUNCT` types (0%) and 221036 `PUNCT` tokens (15%).
 Out of 17 observed tags, the rank of `PUNCT` is: 14 in number of lemmas, 15 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., -, ", ), (, :, ?, /, *</em>
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>/</em> ([PUNCT]() 700, [SYM]() 18), <
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.038462 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `PUNCT` is 1.038462 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (2) was observed with the lemma “-”: <em>-, -103</em>.
 
@@ -47,13 +47,13 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 3 different relations: [cs-dep/punct]() (220976; 100% instances), [cs-dep/root]() (34; 0% instances), [cs-dep/conj]() (29; 0% instances)
+`PUNCT` nodes are attached to their parents using 3 different relations: [cs-dep/punct]() (220973; 100% instances), [cs-dep/root]() (34; 0% instances), [cs-dep/conj]() (29; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: [VERB]() (126091; 57% instances), [NOUN]() (40366; 18% instances), [PROPN]() (19520; 9% instances), [ADJ]() (17744; 8% instances), [NUM]() (11542; 5% instances), [ADV]() (2977; 1% instances), [PRON]() (1657; 1% instances), [PART]() (515; 0% instances), [PUNCT]() (161; 0% instances), [DET]() (129; 0% instances), [CONJ]() (79; 0% instances), [SYM]() (72; 0% instances), [INTJ]() (68; 0% instances), [ADP]() (40; 0% instances), [ROOT]() (34; 0% instances), [SCONJ]() (31; 0% instances), [X]() (11; 0% instances), [AUX]() (2; 0% instances)
+Parents of `PUNCT` nodes belong to 18 different parts of speech: [VERB]() (126089; 57% instances), [NOUN]() (40365; 18% instances), [PROPN]() (19520; 9% instances), [ADJ]() (17744; 8% instances), [NUM]() (11542; 5% instances), [ADV]() (2977; 1% instances), [PRON]() (1657; 1% instances), [PART]() (515; 0% instances), [PUNCT]() (161; 0% instances), [DET]() (129; 0% instances), [CONJ]() (79; 0% instances), [SYM]() (72; 0% instances), [INTJ]() (68; 0% instances), [ADP]() (40; 0% instances), [ROOT]() (34; 0% instances), [SCONJ]() (31; 0% instances), [X]() (11; 0% instances), [AUX]() (2; 0% instances)
 
 220947 (100%) `PUNCT` nodes are leaves.
 
-36 (0%) `PUNCT` nodes have one child.
+33 (0%) `PUNCT` nodes have one child.
 
 33 (0%) `PUNCT` nodes have two children.
 
@@ -61,9 +61,9 @@ Parents of `PUNCT` nodes belong to 18 different parts of speech: [VERB]() (12609
 
 The highest child degree of a `PUNCT` node is 23.
 
-Children of `PUNCT` nodes are attached using 11 different relations: [cs-dep/punct]() (158; 62% instances), [cs-dep/dobj]() (23; 9% instances), [cs-dep/conj]() (20; 8% instances), [cs-dep/nmod]() (18; 7% instances), [cs-dep/nsubj]() (12; 5% instances), [cs-dep/nummod]() (10; 4% instances), [cs-dep/advmod]() (5; 2% instances), [cs-dep/dep]() (4; 2% instances), [cs-dep/cc]() (3; 1% instances), [cs-dep/ccomp]() (1; 0% instances), [cs-dep/parataxis]() (1; 0% instances)
+Children of `PUNCT` nodes are attached using 11 different relations: [cs-dep/punct]() (158; 63% instances), [cs-dep/dobj]() (23; 9% instances), [cs-dep/conj]() (20; 8% instances), [cs-dep/nmod]() (18; 7% instances), [cs-dep/nsubj]() (12; 5% instances), [cs-dep/nummod]() (7; 3% instances), [cs-dep/advmod]() (5; 2% instances), [cs-dep/dep]() (4; 2% instances), [cs-dep/cc]() (3; 1% instances), [cs-dep/ccomp]() (1; 0% instances), [cs-dep/parataxis]() (1; 0% instances)
 
-Children of `PUNCT` nodes belong to 8 different parts of speech: [PUNCT]() (161; 63% instances), [NOUN]() (48; 19% instances), [NUM]() (29; 11% instances), [ADV]() (5; 2% instances), [PROPN]() (5; 2% instances), [CONJ]() (3; 1% instances), [ADJ]() (2; 1% instances), [VERB]() (2; 1% instances)
+Children of `PUNCT` nodes belong to 8 different parts of speech: [PUNCT]() (161; 64% instances), [NOUN]() (48; 19% instances), [NUM]() (26; 10% instances), [ADV]() (5; 2% instances), [PROPN]() (5; 2% instances), [CONJ]() (3; 1% instances), [ADJ]() (2; 1% instances), [VERB]() (2; 1% instances)
 
 
 

@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 5184 [da-pos/DET]() tokens (94% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4720; 91%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4720; 91%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4720; 91%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2848; 55%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (2593; 50%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (4720; 91%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4720; 91%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4720; 91%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2848; 55%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (2593; 50%).
 
 `DET` tokens may have the following values of `Number`:
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-421 nodes (0%) are attached to their parents as `auxpass`.
+456 nodes (0%) are attached to their parents as `auxpass`.
 
-406 instances of `auxpass` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.03562945368171.
+437 instances of `auxpass` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05263157894737.
 
-The following 2 pairs of parts of speech are connected with `auxpass`: [bg-pos/VERB]()-[bg-pos/AUX]() (420; 100% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `auxpass`: [bg-pos/VERB]()-[bg-pos/AUX]() (450; 99% instances), [bg-pos/ADJ]()-[bg-pos/VERB]() (5; 1% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,6 +29,24 @@ The following 2 pairs of parts of speech are connected with `auxpass`: [bg-pos/V
 7	на	на	ADP	R	_	8	case	_	_
 8	Витоша	витоша	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	_
 9	.	.	PUNCT	punct	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 auxpass	color:blue
+1	Дончо	дончо	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	4	nsubjpass	_	_
+2	беше	съм	VERB	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	auxpass	_	_
+3	дълбоко	дълбоко	ADV	Dm	Degree=Pos	4	advmod	_	_
+4	вдаден	вдам	ADJ	Vpptcv--smi	Aspect=Perf|Definite=Ind|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+5	в	в	ADP	R	_	6	case	_	_
+6	работата	работа	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	4	iobj	_	_
+7	си	свой	PRON	Psxto	Case=Nom|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	_
+8	.	.	PUNCT	punct	_	4	punct	_	_
 
 ~~~
 

@@ -4,84 +4,91 @@
 
 ## Treebank Statistics (UD_Croatian)
 
-There are 50 `ADP` lemmas (1%), 51 `ADP` types (0%) and 8634 `ADP` tokens (10%).
-Out of 14 observed tags, the rank of `ADP` is: 8 in number of lemmas, 9 in number of types and 4 in number of tokens.
+There are 310 `ADP` lemmas (2%), 312 `ADP` types (1%) and 13777 `ADP` tokens (10%).
+Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>u, na, za, s, od, o, iz, do, nakon, prema</em>
+The 10 most frequent `ADP` lemmas: <em>u, na, za, od, s, o, iz, sa, do, nakon</em>
 
-The 10 most frequent `ADP` types:  <em>u, na, za, s, od, o, iz, do, nakon, sa</em>
+The 10 most frequent `ADP` types:  <em>u, na, za, od, s, o, iz, do, nakon, sa</em>
 
-The 10 most frequent ambiguous lemmas: <em>nakon</em> ([ADP]() 178, [SCONJ]() 5), <em>tijekom</em> ([ADP]() 93, [ADV]() 4), <em>prije</em> ([ADP]() 58, [ADV]() 18, [SCONJ]() 1), <em>oko</em> ([ADV]() 69, [ADP]() 44, [NOUN]() 10, [X]() 1), <em>osim</em> ([ADP]() 28, [ADV]() 6), <em>više</em> ([ADP]() 14, [PART]() 4, [ADV]() 3), <em>poslije</em> ([ADP]() 3, [ADV]() 2)
+The 10 most frequent ambiguous lemmas: <em>nakon</em> ([ADP]() 259, [SCONJ]() 21), <em>po</em> ([ADP]() 152, [ADV]() 1), <em>tijekom</em> ([ADP]() 118, [ADV]() 4), <em>prije</em> ([ADP]() 98, [ADV]() 29, [SCONJ]() 3), <em>pod</em> ([ADP]() 89, [NOUN]() 3), <em>oko</em> ([ADV]() 83, [ADP]() 73, [NOUN]() 20, [X]() 1), <em>kod</em> ([ADP]() 59, [NOUN]() 2), <em>osim</em> ([ADP]() 44, [ADV]() 9, [SCONJ]() 8), <em>više</em> ([ADP]() 14, [ADV]() 8, [PART]() 4), <em>iznad</em> ([ADP]() 9, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>nakon</em> ([ADP]() 148, [SCONJ]() 5), <em>tijekom</em> ([ADP]() 77, [ADV]() 2), <em>prije</em> ([ADP]() 50, [ADV]() 17, [SCONJ]() 1), <em>oko</em> ([ADV]() 59, [ADP]() 44, [NOUN]() 2, [X]() 1), <em>osim</em> ([ADP]() 10, [ADV]() 5), <em>više</em> ([ADV]() 75, [ADP]() 13, [PART]() 4, [ADJ]() 2), <em>radi</em> ([VERB]() 14, [ADP]() 6), <em>poslije</em> ([ADP]() 2, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>nakon</em> ([ADP]() 201, [SCONJ]() 17), <em>tijekom</em> ([ADP]() 97, [ADV]() 2), <em>prije</em> ([ADP]() 81, [ADV]() 26, [SCONJ]() 3), <em>pod</em> ([ADP]() 86, [NOUN]() 1), <em>oko</em> ([ADP]() 72, [ADV]() 72, [NOUN]() 5, [X]() 1), <em>osim</em> ([ADP]() 19, [ADV]() 8, [SCONJ]() 4), <em>više</em> ([ADV]() 166, [ADP]() 13, [PART]() 4, [ADJ]() 3), <em>radi</em> ([VERB]() 30, [ADP]() 11), <em>iznad</em> ([ADP]() 9, [ADV]() 1), <em>prilikom</em> ([ADP]() 9, [NOUN]() 6)
 
 
 * <em>nakon</em>
-  * [ADP]() 148: <em>Ubrzo <b>nakon</b> toga im se pridružio i basista Mišo Hrnjak .</em>
-  * [SCONJ]() 5: <em>Republika Srbija je nastala kao samostalna država 2006. <b>nakon</b> što su građani Crne Gore na referendumu odlučili napustiti državnu zajednicu Srbiju i Crnu Goru .</em>
+  * [ADP]() 201: <em>Ubrzo <b>nakon</b> toga im se pridružio i basista Mišo Hrnjak .</em>
+  * [SCONJ]() 17: <em>Venezuelanska vlada objavila je prvu fotografiju Huga Chaveza <b>nakon</b> što je ovaj 11. prosinca otišao u Havanu na operaciju tumora .</em>
 * <em>tijekom</em>
-  * [ADP]() 77: <em>EU je <b>tijekom</b> vikenda izrazila zabrinutost glede novih događaja .</em>
+  * [ADP]() 97: <em>EU je <b>tijekom</b> vikenda izrazila zabrinutost glede novih događaja .</em>
   * [ADV]() 2: <em>Vojnici su na tim pozicijama ostali " <b>tijekom</b> " dana .</em>
 * <em>prije</em>
-  * [ADP]() 50: <em>Temperatura , vjetar i vlažnost mjere se <b>prije</b> svakog prebacivanja .</em>
-  * [ADV]() 17: <em>" Moj život nije kao što je bio <b>prije</b> .</em>
-  * [SCONJ]() 1: <em>Tvrdeći kako slijede oblik islama kojeg su prakticirali članovi kućanstva proroka Muhameda <b>prije</b> no što su ostali " oteli " religiju , Sahan je kazao kako su se Alevi sučelili s nasilnom diskriminacijom pod Otomanskim carstvom , koje se nastavilo nakon utemeljenja Turske Republike .</em>
+  * [ADP]() 81: <em>Temperatura , vjetar i vlažnost mjere se <b>prije</b> svakog prebacivanja .</em>
+  * [ADV]() 26: <em>" Moj život nije kao što je bio <b>prije</b> .</em>
+  * [SCONJ]() 3: <em>Ipak , za sindikat je dobra okolnost što su za spomenutu situaciju saznali <b>prije</b> nego što su se vozači upustili u tu poslovnu avanturu , u koju su ih , rečeno je , planirali uvući iz Dukata da bi riješili svoj problem s polovnim teretnim vozilima .</em>
+* <em>pod</em>
+  * [ADP]() 86: <em>Proces privatizacije na Kosovu <b>pod</b> povećalom</em>
+  * [NOUN]() 1: <em>Alternativno , <b>pod</b> prtljažnika moguće je fiksirati u horizontalnom položaju na visini od 60 cm .</em>
 * <em>oko</em>
-  * [ADV]() 59: <em>Pričinjena šteta samo na infrastrukturi iznosi <b>oko</b> 175 milijuna eura .</em>
-  * [ADP]() 44: <em>Složili su se <b>oko</b> daljnjeg jačanja bilateralnih gospodarskih veza .</em>
-  * [NOUN]() 2: <em>Mačke kod kojih je jedno <b>oko</b> plavo , a drugo narančasto su obično gluhe na strani na kojoj se nalazi plavo <b>oko</b> .</em>
+  * [ADP]() 72: <em>Složili su se <b>oko</b> daljnjeg jačanja bilateralnih gospodarskih veza .</em>
+  * [ADV]() 72: <em>Pričinjena šteta samo na infrastrukturi iznosi <b>oko</b> 175 milijuna eura .</em>
+  * [NOUN]() 5: <em>- Oko kojim ja vidim Boga jest isto <b>oko</b> kojim Bog vidi mene .</em>
   * [X]() 1: <em>Neki su mediji , uključujući i dnevne novine Danas , osudile ovaj događaj i ocijenile ga kao " cirkus " , dok su drugi , poput Kurira , izvijestili kako su cipele bile talijanske i koštale <b>oko</b> 100 eura .</em>
 * <em>osim</em>
-  * [ADP]() 10: <em>Cusack će igrati emotivnog plaćenog ubojicu u filmu , u kojem će <b>osim</b> njega glumiti i mlada zvijezda Hilary Duff .</em>
-  * [ADV]() 5: <em>Vlasti u Crnoj Gori obećale su međutim kako neće ozlijediti Nikicu <b>osim</b> ukoliko nekog ne napadne .</em>
+  * [ADP]() 19: <em>Cusack će igrati emotivnog plaćenog ubojicu u filmu , u kojem će <b>osim</b> njega glumiti i mlada zvijezda Hilary Duff .</em>
+  * [ADV]() 8: <em>Andy se <b>osim</b> radioamaterizmom bavio i CB-om .</em>
+  * [SCONJ]() 4: <em>Brodovlasnik je mogao otpustiti mornara samo po povratku u ono mjesto iz kojega ga je uzeo , <b>osim</b> ako bi se drukčije sporazumjeli .</em>
 * <em>više</em>
-  * [ADV]() 75: <em>Prema Reutersu , ozlijeđeno je <b>više</b> od 150 ljudi .</em>
+  * [ADV]() 166: <em>Prema Reutersu , ozlijeđeno je <b>više</b> od 150 ljudi .</em>
   * [ADP]() 13: <em>Srbija i Crna Gora pravi su izbor za investiranje iz <b>više</b> razloga .</em>
   * [PART]() 4: <em>Kao rezultat toga BiH <b>više</b> neće biti jedina zemlja u Europi koja nema takvu vrstu poreza .</em>
-  * [ADJ]() 2: <em>Srbi plaćaju za brojne proizvode <b>više</b> cijene nego građani drugih zemalja jugoistočne Europe , i ne očekuje se skoro obuzdavanje inflacije .</em>
+  * [ADJ]() 3: <em>I stope incidencije i stope smrtnosti <b>više</b> su u muškaraca nego u žena .</em>
 * <em>radi</em>
-  * [VERB]() 14: <em>Kosovski će se birači za manje od dva tjedna uputiti na birališta <b>radi</b> prijevremenih izbora .</em>
-  * [ADP]() 6: <em>Gruevski se u ponedjeljak sastao s čelnicima glavnih političkih stranaka <b>radi</b> razgovora o tom pitanju .</em>
-* <em>poslije</em>
-  * [ADP]() 2: <em>Novi zakon znači da prvi put <b>poslije</b> više desetljeća policiji nije zabranjeno ulaziti na sveučilišne kampuse .</em>
-  * [ADV]() 1: <em>Rusija nije priznala neovisnost Kosova , ali prema podacima partnerskih službi , tamo se odvija određena priprema narkotika , koji se <b>poslije</b> dijele na porcije i prodaju " , izjavio je Ivanov , a prenosi albanska TV Alsat .</em>
+  * [VERB]() 30: <em>- Taj slučaj je za mene završen , a hotel <b>radi</b> normalno .</em>
+  * [ADP]() 11: <em>Gruevski se u ponedjeljak sastao s čelnicima glavnih političkih stranaka <b>radi</b> razgovora o tom pitanju .</em>
+* <em>iznad</em>
+  * [ADP]() 9: <em>Malo kasnije <b>iznad</b> Baške moći će se vidjeti i skupina ljudi na biciklima .</em>
+  * [ADV]() 1: <em>Kao što su napadi definirani <b>iznad</b> , osobni napad na druge suradnike izvan Wikipedijinih granica odražava se vrlo loše na napadača .</em>
+* <em>prilikom</em>
+  * [ADP]() 9: <em>Kepler je <b>prilikom</b> lansiranja težio više od 20 tona i najteži je brod što ga je Europa ikad poslala u orbitu .</em>
+  * [NOUN]() 6: <em>Koštunica je međutim izjavio kako se <b>prilikom</b> ispunjenja tih uvjeta " mora imati u vidu stabilnost zemlje " .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.020000 (the average of all parts of speech is 1.870216).
+The form / lemma ratio of `ADP` is 1.006452 (the average of all parts of speech is 1.779790).
 
-The 1st highest number of forms (2) was observed with the lemma “s”: <em>s, sa</em>.
+The 1st highest number of forms (2) was observed with the lemma “k”: <em>k, ka</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “bez”: <em>bez</em>.
+The 2nd highest number of forms (2) was observed with the lemma “la”: <em>La, le</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “do”: <em>do</em>.
+The 3rd highest number of forms (2) was observed with the lemma “pred”: <em>Preda, pred</em>.
 
-`ADP` occurs with 1 features: [hr-feat/Case]() (8634; 100% instances)
+`ADP` occurs with 1 features: [hr-feat/Case]() (13501; 98% instances)
 
 `ADP` occurs with 5 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`
 
-`ADP` occurs with 5 feature combinations.
-The most frequent feature combination is `Case=Loc` (3376 tokens).
-Examples: <em>u, na, o, prema, po, pri</em>
+`ADP` occurs with 6 feature combinations.
+The most frequent feature combination is `Case=Loc` (5200 tokens).
+Examples: <em>u, na, o, prema, po, pri, Nasuprot, ka, naspram, pred</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 17 different relations: [hr-dep/case]() (8332; 97% instances), [hr-dep/compound]() (101; 1% instances), [hr-dep/mark]() (78; 1% instances), [hr-dep/mwe]() (38; 0% instances), [hr-dep/advmod]() (21; 0% instances), [hr-dep/goeswith]() (14; 0% instances), [hr-dep/aux]() (12; 0% instances), [hr-dep/cc]() (10; 0% instances), [hr-dep/remnant]() (7; 0% instances), [hr-dep/amod]() (6; 0% instances), [hr-dep/det]() (6; 0% instances), [hr-dep/discourse]() (4; 0% instances), [hr-dep/appos]() (1; 0% instances), [hr-dep/auxpass]() (1; 0% instances), [hr-dep/ccomp]() (1; 0% instances), [hr-dep/conj]() (1; 0% instances), [hr-dep/neg]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 27 different relations: [hr-dep/case]() (13115; 95% instances), [hr-dep/compound]() (152; 1% instances), [hr-dep/mark]() (107; 1% instances), [hr-dep/mwe]() (60; 0% instances), [hr-dep/name]() (45; 0% instances), [hr-dep/foreign]() (41; 0% instances), [hr-dep/amod]() (40; 0% instances), [hr-dep/appos]() (40; 0% instances), [hr-dep/nmod]() (27; 0% instances), [hr-dep/advmod]() (24; 0% instances), [hr-dep/cc]() (19; 0% instances), [hr-dep/conj]() (15; 0% instances), [hr-dep/goeswith]() (14; 0% instances), [hr-dep/aux]() (13; 0% instances), [hr-dep/nsubj]() (13; 0% instances), [hr-dep/det]() (12; 0% instances), [hr-dep/parataxis]() (10; 0% instances), [hr-dep/remnant]() (9; 0% instances), [hr-dep/dobj]() (6; 0% instances), [hr-dep/discourse]() (4; 0% instances), [hr-dep/punct]() (4; 0% instances), [hr-dep/auxpass]() (2; 0% instances), [hr-dep/ccomp]() (1; 0% instances), [hr-dep/expl]() (1; 0% instances), [hr-dep/iobj]() (1; 0% instances), [hr-dep/neg]() (1; 0% instances), [hr-dep/root]() (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: [NOUN]() (6536; 76% instances), [PROPN]() (1415; 16% instances), [PRON]() (342; 4% instances), [ADJ]() (107; 1% instances), [NUM]() (97; 1% instances), [VERB]() (61; 1% instances), [ADV]() (41; 0% instances), [ADP]() (16; 0% instances), [X]() (12; 0% instances), [AUX]() (3; 0% instances), [SCONJ]() (3; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `ADP` nodes belong to 14 different parts of speech: [NOUN]() (10460; 76% instances), [PROPN]() (1898; 14% instances), [PRON]() (687; 5% instances), [NUM]() (200; 1% instances), [ADJ]() (161; 1% instances), [ADP]() (149; 1% instances), [VERB]() (118; 1% instances), [ADV]() (74; 1% instances), [X]() (12; 0% instances), [AUX]() (7; 0% instances), [SCONJ]() (5; 0% instances), [PUNCT]() (4; 0% instances), [PART]() (1; 0% instances), [ROOT]() (1; 0% instances)
 
-8505 (99%) `ADP` nodes are leaves.
+13426 (97%) `ADP` nodes are leaves.
 
-98 (1%) `ADP` nodes have one child.
+235 (2%) `ADP` nodes have one child.
 
-29 (0%) `ADP` nodes have two children.
+77 (1%) `ADP` nodes have two children.
 
-2 (0%) `ADP` nodes have three or more children.
+39 (0%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 4.
+The highest child degree of a `ADP` node is 9.
 
-Children of `ADP` nodes are attached using 13 different relations: [hr-dep/mwe]() (89; 55% instances), [hr-dep/compound]() (34; 21% instances), [hr-dep/advmod]() (9; 6% instances), [hr-dep/discourse]() (9; 6% instances), [hr-dep/punct]() (9; 6% instances), [hr-dep/remnant]() (6; 4% instances), [hr-dep/cc]() (1; 1% instances), [hr-dep/conj]() (1; 1% instances), [hr-dep/cop]() (1; 1% instances), [hr-dep/goeswith]() (1; 1% instances), [hr-dep/mark]() (1; 1% instances), [hr-dep/neg]() (1; 1% instances), [hr-dep/nsubj]() (1; 1% instances)
+Children of `ADP` nodes are attached using 25 different relations: [hr-dep/mwe]() (144; 26% instances), [hr-dep/punct]() (75; 14% instances), [hr-dep/compound]() (67; 12% instances), [hr-dep/discourse]() (51; 9% instances), [hr-dep/foreign]() (36; 7% instances), [hr-dep/name]() (35; 6% instances), [hr-dep/advmod]() (28; 5% instances), [hr-dep/conj]() (17; 3% instances), [hr-dep/case]() (15; 3% instances), [hr-dep/cc]() (13; 2% instances), [hr-dep/nummod]() (13; 2% instances), [hr-dep/appos]() (9; 2% instances), [hr-dep/remnant]() (9; 2% instances), [hr-dep/amod]() (7; 1% instances), [hr-dep/nmod]() (6; 1% instances), [hr-dep/neg]() (4; 1% instances), [hr-dep/cop]() (2; 0% instances), [hr-dep/det]() (2; 0% instances), [hr-dep/goeswith]() (2; 0% instances), [hr-dep/mark]() (2; 0% instances), [hr-dep/nsubj]() (2; 0% instances), [hr-dep/parataxis]() (2; 0% instances), [hr-dep/acl]() (1; 0% instances), [hr-dep/advcl]() (1; 0% instances), [hr-dep/aux]() (1; 0% instances)
 
-Children of `ADP` nodes belong to 11 different parts of speech: [PRON]() (51; 31% instances), [NOUN]() (32; 20% instances), [SCONJ]() (21; 13% instances), [ADV]() (20; 12% instances), [ADP]() (16; 10% instances), [CONJ]() (10; 6% instances), [PUNCT]() (9; 6% instances), [ADJ]() (1; 1% instances), [AUX]() (1; 1% instances), [PART]() (1; 1% instances), [PROPN]() (1; 1% instances)
+Children of `ADP` nodes belong to 13 different parts of speech: [ADP]() (149; 27% instances), [PUNCT]() (76; 14% instances), [PRON]() (75; 14% instances), [NOUN]() (66; 12% instances), [CONJ]() (56; 10% instances), [ADV]() (45; 8% instances), [SCONJ]() (27; 5% instances), [NUM]() (14; 3% instances), [PROPN]() (14; 3% instances), [PART]() (10; 2% instances), [ADJ]() (6; 1% instances), [AUX]() (3; 1% instances), [VERB]() (3; 1% instances)
 

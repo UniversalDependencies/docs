@@ -2,6 +2,73 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+1940 nodes (2%) are attached to their parents as `name`.
+
+1940 instances of `name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.59845360824742.
+
+The following 19 pairs of parts of speech are connected with `name`: [ja-pos/NOUN]()-[ja-pos/NUM]() (807; 42% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (698; 36% instances), [ja-pos/NOUN]()-[ja-pos/CONJ]() (140; 7% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (137; 7% instances), [ja-pos/NUM]()-[ja-pos/NUM]() (84; 4% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (16; 1% instances), [ja-pos/NUM]()-[ja-pos/CONJ]() (11; 1% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (10; 1% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (9; 0% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (6; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (5; 0% instances), [ja-pos/NOUN]()-[ja-pos/DET]() (4; 0% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (4; 0% instances), [ja-pos/PRON]()-[ja-pos/NUM]() (3; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 name	color:blue
+1	医学博士	_	NOUN	NOUN	_	0	root	_	_
+2	（大阪大学	_	NOUN	NOUN	_	1	conj	_	_
+3	、	_	PUNCT	.	_	2	punct	_	_
+4	1960年）。	_	NUM	NUM-CL	_	2	name	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 name	color:blue
+1	ほとんどは	_	NOUN	NOUN-PRT	_	2	nmod	_	_
+2	浅海生だが	_	NOUN	NOUN-VERB-AUX-CONJ	_	9	advcl	_	_
+3	、	_	PUNCT	.	_	2	punct	_	_
+4	水深	_	NOUN	NOUN	_	6	nmod	_	_
+5	数百mほどの	_	NOUN	NOUN-POSTP	_	4	name	_	_
+6	深海まで	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
+7	生息する	_	VERB	VERB-AUX	_	8	acl:relcl	_	_
+8	ものも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+9	いる。	_	VERB	VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 name	color:blue
+1	ジェボムの	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
+2	俳優	_	NOUN	NOUN	_	4	cc	_	_
+3	および	_	CONJ	CONJ	_	2	name	_	_
+4	歌手活動など	_	NOUN	NOUN	_	7	nmod	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	芸能活動全般を	_	NOUN	NOUN-PRT	_	4	name	_	_
+7	支援する	_	VERB	VERB-AUX	_	8	acl:relcl	_	_
+8	見通しだ。	_	NOUN	NOUN-VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-103 nodes (0%) are attached to their parents as `remnant`.
+142 nodes (0%) are attached to their parents as `remnant`.
 
-101 instances of `remnant` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.48543689320388.
+140 instances of `remnant` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.49295774647887.
 
-The following 22 pairs of parts of speech are connected with `remnant`: [ro-pos/NOUN]()-[ro-pos/NOUN]() (46; 45% instances), [ro-pos/PROPN]()-[ro-pos/PROPN]() (10; 10% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (5; 5% instances), [ro-pos/NUM]()-[ro-pos/NUM]() (5; 5% instances), [ro-pos/PRON]()-[ro-pos/PRON]() (5; 5% instances), [ro-pos/PROPN]()-[ro-pos/NOUN]() (4; 4% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (4; 4% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (3; 3% instances), [ro-pos/ADV]()-[ro-pos/ADV]() (3; 3% instances), [ro-pos/PRON]()-[ro-pos/NOUN]() (3; 3% instances), [ro-pos/ADJ]()-[ro-pos/VERB]() (2; 2% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (2; 2% instances), [ro-pos/SYM]()-[ro-pos/SYM]() (2; 2% instances), [ro-pos/ADP]()-[ro-pos/ADP]() (1; 1% instances), [ro-pos/AUX]()-[ro-pos/PUNCT]() (1; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADV]() (1; 1% instances), [ro-pos/NOUN]()-[ro-pos/DET]() (1; 1% instances), [ro-pos/PRON]()-[ro-pos/ADV]() (1; 1% instances), [ro-pos/PUNCT]()-[ro-pos/CONJ]() (1; 1% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (1; 1% instances), [ro-pos/VERB]()-[ro-pos/ADV]() (1; 1% instances), [ro-pos/VERB]()-[ro-pos/PART]() (1; 1% instances).
+The following 24 pairs of parts of speech are connected with `remnant`: [ro-pos/NOUN]()-[ro-pos/NOUN]() (67; 47% instances), [ro-pos/PROPN]()-[ro-pos/PROPN]() (11; 8% instances), [ro-pos/NUM]()-[ro-pos/NUM]() (8; 6% instances), [ro-pos/PRON]()-[ro-pos/PRON]() (6; 4% instances), [ro-pos/PROPN]()-[ro-pos/NOUN]() (6; 4% instances), [ro-pos/SYM]()-[ro-pos/SYM]() (5; 4% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (5; 4% instances), [ro-pos/NOUN]()-[ro-pos/DET]() (4; 3% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (4; 3% instances), [ro-pos/VERB]()-[ro-pos/PART]() (4; 3% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (3; 2% instances), [ro-pos/ADV]()-[ro-pos/ADV]() (3; 2% instances), [ro-pos/ADJ]()-[ro-pos/VERB]() (2; 1% instances), [ro-pos/ADP]()-[ro-pos/ADP]() (2; 1% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (2; 1% instances), [ro-pos/PRON]()-[ro-pos/NOUN]() (2; 1% instances), [ro-pos/ADV]()-[ro-pos/ADP]() (1; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADV]() (1; 1% instances), [ro-pos/NUM]()-[ro-pos/SYM]() (1; 1% instances), [ro-pos/PRON]()-[ro-pos/ADV]() (1; 1% instances), [ro-pos/SYM]()-[ro-pos/NUM]() (1; 1% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (1; 1% instances), [ro-pos/VERB]()-[ro-pos/ADV]() (1; 1% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -59,24 +59,46 @@ The following 22 pairs of parts of speech are connected with `remnant`: [ro-pos/
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 remnant	color:blue
-1	Cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	2	nsubj	_	_
-2	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	csubj	_	_
-3	,	,	PUNCT	COMMA	_	2	punct	_	_
-4	oase	os	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	dobj	_	_
-5	roade	roade	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	,	,	PUNCT	COMMA	_	5	punct	_	_
-7	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	1	remnant	_	_
-8	nu	nu	PART	Qz	Negative=Neg	2	remnant	_	_
-9	,	,	PUNCT	COMMA	_	5	punct	_	_
-10	nici	nici	ADV	Rz	PronType=Neg	11	advmod	_	_
-11	carne	carne	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	remnant	_	_
-12	moale	moale	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
-13	.	.	PUNCT	PERIOD	_	5	punct	_	_
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 26 remnant	color:blue
+1	(	(	PUNCT	LPAR	_	2	punct	_	_
+2	9	9	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	7	parataxis	_	_
+3	)	)	PUNCT	RPAR	_	2	punct	_	_
+4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+5	consecință	consecință	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	mwe	_	_
+6	,	,	PUNCT	COMMA	_	4	punct	_	_
+7	trebuie	trebui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	modificate	modificat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	csubj	_	_
+9	Regulamentele	regulament	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	8	nsubjpass	_	_
+10	(	(	PUNCT	LPAR	_	11	punct	_	_
+11	CE	CE	NOUN	Yn	Abbr=Yes	9	nmod	_	_
+12	)	)	PUNCT	RPAR	_	11	punct	_	_
+13	nr.	nr.	NOUN	Yn	Abbr=Yes	19	nmod	_	_
+14	136	136	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	13	nummod	_	_
+15	/	/	SYM	SLASH	AdpType=Prep	9	punct	_	_
+16	66	66	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	nmod	_	_
+17	/	/	SYM	SLASH	AdpType=Prep	9	punct	_	_
+18	CEE4	CEE4	PROPN	Np	_	9	nmod	_	_
+19	,	,	PUNCT	COMMA	_	9	punct	_	_
+20	(	(	PUNCT	LPAR	_	21	punct	_	_
+21	CEE	CEE	PROPN	Np	_	11	conj	_	_
+22	)	)	PUNCT	RPAR	_	21	punct	_	_
+23	nr.	nr.	NOUN	Yn	Abbr=Yes	13	remnant	_	_
+24	1308	1308	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	23	nummod	_	_
+25	/	/	SYM	SLASH	AdpType=Prep	15	remnant	_	_
+26	705	705	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	16	remnant	_	_
+27	și	și	CONJ	Crssp	Negative=Pos	9	cc	_	_
+28	(	(	PUNCT	LPAR	_	29	punct	_	_
+29	CE	CE	NOUN	Yn	Abbr=Yes	11	remnant	_	_
+30	)	)	PUNCT	RPAR	_	29	punct	_	_
+31	nr.	nr.	NOUN	Yn	Abbr=Yes	13	remnant	_	_
+32	2275	2275	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	31	nummod	_	_
+33	/	/	SYM	SLASH	AdpType=Prep	14	remnant	_	_
+34	966	966	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	15	remnant	_	_
+35	;	;	PUNCT	SCOLON	AdpType=Prep	7	punct	_	_
 
 ~~~
 

@@ -13,7 +13,7 @@ The 10 most frequent `X` types:  <em>r, tys, zł, ul, proc, ok, godz, m, mln, ś
 
 The 10 most frequent ambiguous lemmas: <em>rok</em> ([NOUN]() 256, [X]() 49), <em>tysiąc</em> ([X]() 33, [NOUN]() 20), <em>złoty</em> ([X]() 26, [NOUN]() 24, [ADJ]() 7), <em>ulica</em> ([NOUN]() 54, [X]() 20), <em>procent</em> ([X]() 12, [NOUN]() 5), <em>około</em> ([PART]() 16, [X]() 11, [ADP]() 9), <em>godzina</em> ([NOUN]() 41, [X]() 9), <em>milion</em> ([NOUN]() 13, [X]() 9, [NUM]() 2), <em>święty</em> ([ADJ]() 12, [X]() 8, [NOUN]() 1), <em>ksiądz</em> ([NOUN]() 20, [X]() 6)
 
-The 10 most frequent ambiguous types:  <em>proc</em> ([X]() 12, [NOUN]() 1), <em>m</em> ([AUX]() 151, [X]() 4), <em>w</em> ([ADP]() 1805, [X]() 5), <em>A</em> ([CONJ]() 102, [X]() 3), <em>O</em> ([ADP]() 28, [X]() 2), <em>Z</em> ([ADP]() 80, [X]() 2), <em>C</em> ([X]() 1, [PROPN]() 1), <em>D</em> ([X]() 1, [PROPN]() 1), <em>SA</em> ([PROPN]() 5, [X]() 1)
+The 10 most frequent ambiguous types:  <em>proc</em> ([X]() 12, [NOUN]() 1), <em>m</em> ([AUX]() 151, [X]() 4), <em>w</em> ([ADP]() 1805, [X]() 5), <em>A</em> ([CONJ]() 102, [X]() 3), <em>O</em> ([ADP]() 28, [X]() 2), <em>Z</em> ([ADP]() 80, [X]() 2), <em>C</em> ([PROPN]() 1, [X]() 1), <em>D</em> ([PROPN]() 1, [X]() 1), <em>SA</em> ([PROPN]() 5, [X]() 1)
 
 
 * <em>proc</em>
@@ -35,11 +35,11 @@ The 10 most frequent ambiguous types:  <em>proc</em> ([X]() 12, [NOUN]() 1), <em
   * [ADP]() 80: <em><b>Z</b> oddali doleciały urywane dźwięki strażackiej trąbki .</em>
   * [X]() 2: <em>Najbardziej ucierpiał Maciej <b>Z</b> . , który został ranny w głowę .</em>
 * <em>C</em>
-  * [X]() 1: <em>- Działania operacyjne ustały , a <b>C</b> . ciągle piął się w górę .</em>
   * [PROPN]() 1: <em>D został stworzony przez Waltera Brighta , znanego jako twórca kompilatora Zortech <b>C</b> .</em>
+  * [X]() 1: <em>- Działania operacyjne ustały , a <b>C</b> . ciągle piął się w górę .</em>
 * <em>D</em>
-  * [X]() 1: <em>Ale gospodarza zakatował 26-letni Dariusz <b>D</b> . z Kwidzyna .</em>
   * [PROPN]() 1: <em><b>D</b> został stworzony przez Waltera Brighta , znanego jako twórca kompilatora Zortech C .</em>
+  * [X]() 1: <em>Ale gospodarza zakatował 26-letni Dariusz <b>D</b> . z Kwidzyna .</em>
 * <em>SA</em>
   * [PROPN]() 5: <em>– W HSW <b>SA</b> trwa obecnie wielkie liczenie .</em>
   * [X]() 1: <em>Na przełomie czerwca i lipca Stomil - Olsztyn <b>SA</b> zamierza oddać do użytku budowany właśnie magazyn opon .</em>

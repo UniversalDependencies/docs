@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-5770 nodes (4%) are attached to their parents as `aux`.
+5744 nodes (4%) are attached to their parents as `aux`.
 
-5666 instances of `aux` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36429809358752.
+5642 instances of `aux` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37325905292479.
 
-The following 12 pairs of parts of speech are connected with `aux`: [bg-pos/VERB]()-[bg-pos/PART]() (4067; 70% instances), [bg-pos/VERB]()-[bg-pos/AUX]() (1560; 27% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (41; 1% instances), [bg-pos/ADJ]()-[bg-pos/PART]() (33; 1% instances), [bg-pos/NOUN]()-[bg-pos/AUX]() (27; 0% instances), [bg-pos/ADJ]()-[bg-pos/AUX]() (10; 0% instances), [bg-pos/ADV]()-[bg-pos/AUX]() (9; 0% instances), [bg-pos/ADV]()-[bg-pos/PART]() (9; 0% instances), [bg-pos/PRON]()-[bg-pos/PART]() (7; 0% instances), [bg-pos/PROPN]()-[bg-pos/PART]() (5; 0% instances), [bg-pos/PRON]()-[bg-pos/AUX]() (1; 0% instances), [bg-pos/PROPN]()-[bg-pos/AUX]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `aux`: [bg-pos/VERB]()-[bg-pos/PART]() (4043; 70% instances), [bg-pos/VERB]()-[bg-pos/AUX]() (1527; 27% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (55; 1% instances), [bg-pos/ADJ]()-[bg-pos/PART]() (41; 1% instances), [bg-pos/NOUN]()-[bg-pos/AUX]() (27; 0% instances), [bg-pos/ADJ]()-[bg-pos/AUX]() (10; 0% instances), [bg-pos/ADV]()-[bg-pos/PART]() (10; 0% instances), [bg-pos/ADV]()-[bg-pos/AUX]() (9; 0% instances), [bg-pos/PRON]()-[bg-pos/PART]() (8; 0% instances), [bg-pos/PROPN]()-[bg-pos/PART]() (5; 0% instances), [bg-pos/VERB]()-[bg-pos/INTJ]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/INTJ]() (1; 0% instances), [bg-pos/NOUN]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/PRON]()-[bg-pos/AUX]() (1; 0% instances), [bg-pos/PROPN]()-[bg-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu

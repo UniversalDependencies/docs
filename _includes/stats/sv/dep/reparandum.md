@@ -55,3 +55,68 @@ The following 1 pairs of parts of speech are connected with `reparandum`: [sv-po
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Swedish_Sign_Language)
+
+This relation is universal.
+
+6 nodes (1%) are attached to their parents as `reparandum`.
+
+6 instances of `reparandum` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33333333333333.
+
+The following 4 pairs of parts of speech are connected with `reparandum`: [sv-pos/NOUN]()-[sv-pos/X]() (2; 33% instances), [sv-pos/VERB]()-[sv-pos/X]() (2; 33% instances), [sv-pos/NOUN]()-[sv-pos/VERB]() (1; 17% instances), [sv-pos/VERB]()-[sv-pos/VERB]() (1; 17% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 reparandum	color:blue
+1	tp@&	_	X	?	_	2	reparandum	_	_
+2	POJKE	_	NOUN	NN	_	3	nsubj	_	_
+3	LÄGGA-SIG	_	VERB	VB	_	0	root	_	_
+4	HUND	_	NOUN	NN	_	2	conj	_	_
+5	VARELSE(VVb)+BEFINNA@p	_	VERB	VBAV	_	3	conj	_	_
+6	SOVA(Jv)	_	VERB	VB	_	3	conj	_	_
+7	TIDEN-GÅR@z	_	VERB	VB	_	6	advcl	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 reparandum	color:blue
+1	TRÖTT	_	VERB	VBS	_	0	root	_	_
+2	glosa@&	_	X	?	_	3	reparandum	_	_
+3	MÖRK	_	VERB	VBS	_	1	conj	_	_
+4	LÅTA-VARA@z	_	X	G	_	1	discourse	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 reparandum	color:blue
+1	HUND	_	NOUN	NN	_	2	nsubj	_	_
+2	VARELSE(VVb)+FÖRFLYTTA@p	_	VERB	VBAV	_	0	root	_	_
+3	PEK	_	DET	PEK	_	4	det	_	_
+4	TRÄD	_	NOUN	NN	_	2	nmod	_	_
+5	BI	_	NOUN	NN	_	8	compound	_	_
+6	form(jj)@p@&	_	VERB	VBAV	_	7	reparandum	_	_
+7	GETING	_	NOUN	NN	_	8	compound	_	_
+8	FORM(JJb)+BESKRIVNING@p	_	VERB	VBAV	_	2	nmod	_	_
+
+~~~
+
+

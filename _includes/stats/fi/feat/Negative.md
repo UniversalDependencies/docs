@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [fi-pos/VERB]() (2224; 1% instan
 
 2224 [fi-pos/VERB]() tokens (7% of all `VERB` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (2224; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (2224; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2224; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (2224; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2224; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2224; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2224; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2195; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1919; 86%), <tt><a href="Person.html">Person</a>=3</tt> (1802; 81%).
+The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (2224; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (2224; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (2224; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2224; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2224; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (2224; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2224; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2195; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1919; 86%), <tt><a href="Person.html">Person</a>=3</tt> (1802; 81%).
 
 `VERB` tokens may have the following values of `Negative`:
 
@@ -41,7 +41,7 @@ The feature is used with 1 part-of-speech tags: [fi-pos/VERB]() (3138; 2% instan
 
 3138 [fi-pos/VERB]() tokens (8% of all `VERB` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (3138; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3138; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (3138; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3138; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3138; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3138; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3018; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (2804; 89%), <tt><a href="Person.html">Person</a>=3</tt> (2364; 75%).
+The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (3138; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3138; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3138; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3138; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (3138; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3138; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3018; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (2804; 89%), <tt><a href="Person.html">Person</a>=3</tt> (2364; 75%).
 
 `VERB` tokens may have the following values of `Negative`:
 

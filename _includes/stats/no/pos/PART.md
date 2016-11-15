@@ -11,18 +11,18 @@ The 10 most frequent `PART` lemmas: <em>å, og</em>
 
 The 10 most frequent `PART` types:  <em>å, og</em>
 
-The 10 most frequent ambiguous lemmas: <em>å</em> ([PART]() 4309, [INTJ]() 6, [X]() 4), <em>og</em> ([CONJ]() 7977, [X]() 3, [ADV]() 1, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>å</em> ([PART]() 4309, [INTJ]() 6, [X]() 4), <em>og</em> ([CONJ]() 7977, [X]() 3, [PART]() 1, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>å</em> ([PART]() 4246, [CONJ]() 4, [X]() 4, [ADP]() 1, [INTJ]() 1, [AUX]() 1), <em>og</em> ([CONJ]() 7570, [PART]() 5, [X]() 3, [ADV]() 1, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>å</em> ([PART]() 4246, [CONJ]() 4, [X]() 4, [AUX]() 1, [ADP]() 1, [INTJ]() 1), <em>og</em> ([CONJ]() 7570, [PART]() 5, [X]() 3, [ADV]() 1, [ADP]() 1)
 
 
 * <em>å</em>
   * [PART]() 4246: <em>Det var grusomt <b>å</b> høre på . »</em>
   * [CONJ]() 4: <em>De fleste av småpartiene vil samarbeide med Ap , men er ikke enige om hvem andre det er som bør få være med <b>å</b> styre .</em>
   * [X]() 4: <em>Itj bruk tid på <b>å</b> ha på dåkk klea , ell bærg brølløpsbildan .</em>
+  * [AUX]() 1: <em>Og for at også jeg <b>å</b> komme med en bekjennelse :</em>
   * [ADP]() 1: <em>Derfor spør jeg meg selv ; hvis det er lov å betale Ruter penger for å oppfordre offentligheten til å dø av hjerteinfarkt - er det da også OK og dra hjem til de ansatte i Ruter og skyte amfetamin inn <b>å</b> øya på familiene deres ?</em>
   * [INTJ]() 1: <em>" <b>å</b> ja , det har vært et døende språk i over hundre år .</em>
-  * [AUX]() 1: <em>Og for at også jeg <b>å</b> komme med en bekjennelse :</em>
 * <em>og</em>
   * [CONJ]() 7570: <em>Det blir et spark som straff , i moralens navn <b>og</b> på vegne av oss alle .</em>
   * [PART]() 5: <em>Og han synes det er helt greit å slippe <b>og</b> skifte dekk selv .</em>
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>å</em> ([PART]() 4246, [CONJ]() 4, [
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.382722).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.382778).
 
 The 1st highest number of forms (2) was observed with the lemma “å”: <em>og, å</em>.
 

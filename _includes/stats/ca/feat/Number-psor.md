@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: [ca-pos/DET]() (223; 0% instance
 
 223 [ca-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (223; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (223; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (164; 74%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (223; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (223; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (164; 74%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

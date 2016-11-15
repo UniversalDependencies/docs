@@ -81,3 +81,94 @@ Children of `DET` nodes are attached using 12 different relations: [gl-dep/det](
 
 Children of `DET` nodes belong to 12 different parts of speech: [DET]() (503; 65% instances), [NUM]() (129; 17% instances), [ADP]() (34; 4% instances), [CONJ]() (32; 4% instances), [ADV]() (27; 3% instances), [ADJ]() (21; 3% instances), [PUNCT]() (20; 3% instances), [PRON]() (8; 1% instances), [INTJ]() (1; 0% instances), [NOUN]() (1; 0% instances), [PART]() (1; 0% instances), [VERB]() (1; 0% instances)
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+There are 30 `DET` lemmas (1%), 87 `DET` types (2%) and 3978 `DET` tokens (16%).
+Out of 15 observed tags, the rank of `DET` is: 9 in number of lemmas, 7 in number of types and 2 in number of tokens.
+
+The 10 most frequent `DET` lemmas: <em>o, un, seu, este, todo, outro, ese, noso, moito, mesmo</em>
+
+The 10 most frequent `DET` types:  <em>o, a, os, as, un, unha, súa, seu, esta, lo</em>
+
+The 10 most frequent ambiguous lemmas: <em>o</em> ([DET]() 2885, [PRON]() 115), <em>un</em> ([DET]() 452, [PRON]() 26, [NUM]() 11), <em>seu</em> ([DET]() 175, [PRON]() 2), <em>este</em> ([DET]() 101, [PRON]() 29), <em>todo</em> ([DET]() 61, [PRON]() 22), <em>outro</em> ([DET]() 55, [PRON]() 20), <em>ese</em> ([DET]() 44, [PRON]() 24), <em>noso</em> ([DET]() 31, [PRON]() 1), <em>moito</em> ([ADV]() 41, [DET]() 26, [PRON]() 7), <em>mesmo</em> ([DET]() 22, [ADV]() 11, [PRON]() 8)
+
+The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 1094, [PRON]() 42), <em>a</em> ([DET]() 1035, [ADP]() 400, [PRON]() 23), <em>os</em> ([DET]() 384, [PRON]() 9), <em>as</em> ([DET]() 274, [PRON]() 8), <em>un</em> ([DET]() 253, [PRON]() 15, [NUM]() 10), <em>unha</em> ([DET]() 179, [PRON]() 11, [NUM]() 1), <em>seu</em> ([DET]() 48, [PRON]() 2), <em>esta</em> ([DET]() 46, [PRON]() 4), <em>lo</em> ([DET]() 45, [PRON]() 20), <em>este</em> ([DET]() 37, [PRON]() 6)
+
+
+* <em>o</em>
+  * [DET]() 1094: <em>Amenábar pertence a <b>o</b> grupo .</em>
+  * [PRON]() 42: <em>un de eles é <b>o</b> de Celulosas .</em>
+* <em>a</em>
+  * [DET]() 1035: <em>sempre se pode deixar o coche en o garaxe de <b>a</b> casa e patear as rúas .</em>
+  * [ADP]() 400: <em>Amenábar pertence <b>a</b> o grupo .</em>
+  * [PRON]() 23: <em>se cando <b>a</b> paso a a guitarra , esa obra perde non <b>a</b> fago .</em>
+* <em>os</em>
+  * [DET]() 384: <em>diálogo a_través_de <b>os</b> medios</em>
+  * [PRON]() 9: <em>tamén <b>os</b> de a OTAN .</em>
+* <em>as</em>
+  * [DET]() 274: <em>sempre se pode deixar o coche en o garaxe de a casa e patear <b>as</b> rúas .</em>
+  * [PRON]() 8: <em>nin tampouco relacionar a súa proposta con <b>as</b> de Euskadi e Cataluña , que por_moito_que sexan diferentes forman parte de a mesma e inseparábel conxuntura política .</em>
+* <em>un</em>
+  * [DET]() 253: <em>discutir que é <b>un</b> clásico .</em>
+  * [PRON]() 15: <em><b>un</b> de eles é o de Celulosas .</em>
+  * [NUM]() 10: <em>menos que agora , se é <b>un</b> cuarto de hora para un recado rápido .</em>
+* <em>unha</em>
+  * [DET]() 179: <em>Walesa critica <b>unha</b> emisora católica</em>
+  * [PRON]() 11: <em>a familiaridade é <b>unha</b> de elas .</em>
+  * [NUM]() 1: <em>pero seguramente máis que agora , por <b>unha</b> hora ou máis .</em>
+* <em>seu</em>
+  * [DET]() 48: <em>o <b>seu</b> pai acompañou no en os primeiros pasos .</em>
+  * [PRON]() 2: <em>pero despois de situar un home <b>seu</b> a a fronte de a comarca pontevedresa , a dirección galega tomou lle medo e deixou de procurar terceiras vías .</em>
+* <em>esta</em>
+  * [DET]() 46: <em>como chegou vostede a interesar se por <b>esta</b> arte ?</em>
+  * [PRON]() 4: <em>concretamente en <b>esta</b> resulta dificil sinalar as máis salientábeis , as mellor configuradas .</em>
+* <em>lo</em>
+  * [DET]() 45: <em>falamos de algo moi particularmente xaponés ou que xa se estendeu por <b>lo</b> mundo ?</em>
+  * [PRON]() 20: <em>sigo a ser <b>lo</b> .</em>
+* <em>este</em>
+  * [DET]() 37: <em>é o indicador de entrada en <b>este</b> país .</em>
+  * [PRON]() 6: <em>o anterior expediente , o de 1999 , foi mellor ca <b>este</b> .</em>
+
+## Morphology
+
+The form / lemma ratio of `DET` is 2.900000 (the average of all parts of speech is 1.374140).
+
+The 1st highest number of forms (8) was observed with the lemma “o”: <em>a, as, la, las, lo, los, o, os</em>.
+
+The 2nd highest number of forms (5) was observed with the lemma “moito”: <em>moita, moitas, moito, moitos, moitísimas</em>.
+
+The 3rd highest number of forms (5) was observed with the lemma “seu”: <em>seu, seus, sua, súa, súas</em>.
+
+`DET` occurs with 7 features: [gl-feat/Gender]() (3978; 100% instances), [gl-feat/Number]() (3978; 100% instances), [gl-feat/PronType]() (3762; 95% instances), [gl-feat/Definite]() (3337; 84% instances), [gl-feat/Number[psor]]() (217; 5% instances), [gl-feat/Person]() (217; 5% instances), [gl-feat/Poss]() (217; 5% instances)
+
+`DET` occurs with 17 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
+
+`DET` occurs with 37 feature combinations.
+The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (1140 tokens).
+Examples: <em>o, lo, os</em>
+
+
+## Relations
+
+`DET` nodes are attached to their parents using 7 different relations: [gl-dep/det]() (3968; 100% instances), [gl-dep/nmod]() (3; 0% instances), [gl-dep/dep]() (2; 0% instances), [gl-dep/nummod]() (2; 0% instances), [gl-dep/conj]() (1; 0% instances), [gl-dep/iobj]() (1; 0% instances), [gl-dep/mark]() (1; 0% instances)
+
+Parents of `DET` nodes belong to 8 different parts of speech: [NOUN]() (3328; 84% instances), [PROPN]() (364; 9% instances), [PRON]() (165; 4% instances), [ADJ]() (61; 2% instances), [NUM]() (37; 1% instances), [VERB]() (21; 1% instances), [ADV]() (1; 0% instances), [SYM]() (1; 0% instances)
+
+3958 (99%) `DET` nodes are leaves.
+
+13 (0%) `DET` nodes have one child.
+
+6 (0%) `DET` nodes have two children.
+
+1 (0%) `DET` nodes have three or more children.
+
+The highest child degree of a `DET` node is 3.
+
+Children of `DET` nodes are attached using 8 different relations: [gl-dep/case]() (12; 43% instances), [gl-dep/advmod]() (4; 14% instances), [gl-dep/nmod]() (3; 11% instances), [gl-dep/acl]() (2; 7% instances), [gl-dep/cc]() (2; 7% instances), [gl-dep/conj]() (2; 7% instances), [gl-dep/neg]() (2; 7% instances), [gl-dep/punct]() (1; 4% instances)
+
+Children of `DET` nodes belong to 8 different parts of speech: [ADP]() (12; 43% instances), [ADV]() (6; 21% instances), [NOUN]() (3; 11% instances), [CONJ]() (2; 7% instances), [VERB]() (2; 7% instances), [ADJ]() (1; 4% instances), [PROPN]() (1; 4% instances), [PUNCT]() (1; 4% instances)
+

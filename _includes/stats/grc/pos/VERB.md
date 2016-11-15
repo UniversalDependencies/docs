@@ -100,7 +100,7 @@ The 10 most frequent `VERB` lemmas: <em>εἰμί#1, λέγω, γίγνομαι,
 
 The 10 most frequent `VERB` types:  <em>εἶπεν, ἦν, ἐστιν, εἶναι, λέγει, ἐγένετο, λέγω, λέγων, ἦσαν, λέγοντες</em>
 
-The 10 most frequent ambiguous lemmas: <em>ἄνω</em> ([ADV]() 20, [VERB]() 2, [ADP]() 2), <em>εἰκός</em> ([NOUN]() 13, [VERB]() 1), <em>θύρα</em> ([NOUN]() 49, [VERB]() 1), <em>ἐπί</em> ([ADP]() 1397, [ADV]() 7, [SCONJ]() 2, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>ἄνω</em> ([ADV]() 20, [ADP]() 2, [VERB]() 2), <em>εἰκός</em> ([NOUN]() 13, [VERB]() 1), <em>θύρα</em> ([NOUN]() 49, [VERB]() 1), <em>ἐπί</em> ([ADP]() 1397, [ADV]() 7, [SCONJ]() 2, [VERB]() 1)
 
 The 10 most frequent ambiguous types:  <em>εἶ</em> ([VERB]() 90, [ADV]() 1), <em>ποιήσει</em> ([VERB]() 17, [NOUN]() 1), <em>ὑπάρχων</em> ([VERB]() 15, [NOUN]() 1), <em>ἔα</em> ([VERB]() 8, [INTJ]() 1), <em>ὥρα</em> ([NOUN]() 31, [VERB]() 7), <em>εἶς</em> ([VERB]() 6, [NUM]() 1), <em>ἀσθενῶν</em> ([VERB]() 5, [ADJ]() 2), <em>ὤν</em> ([VERB]() 5, [ADV]() 3), <em>ταπεινώσει</em> ([VERB]() 3, [NOUN]() 1), <em>δόξῃ</em> ([NOUN]() 20, [VERB]() 2)
 

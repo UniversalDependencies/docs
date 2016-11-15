@@ -162,7 +162,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 1709 [eu-pos/VERB]() tokens (8% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1618; 95%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (1618; 95%), <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (1618; 95%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1616; 95%), <tt><a href="Case.html">Case</a>=Abs</tt> (1046; 61%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (865; 51%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (1618; 95%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (1618; 95%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1618; 95%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1616; 95%), <tt><a href="Case.html">Case</a>=Abs</tt> (1046; 61%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (865; 51%).
 
 `VERB` tokens may have the following values of `Definite`:
 
@@ -307,7 +307,7 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td><em>duenaren</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td><em>dituztenen</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td><em>dutenen</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td><em>zuteneko, duteneko</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td><em>duteneko, zuteneko</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duenik</em></td><td></td></tr>
 </table>
 

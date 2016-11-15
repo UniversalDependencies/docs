@@ -4,86 +4,134 @@
 
 ## Treebank Statistics (UD_Russian)
 
-There are 1 `X` lemmas (7%), 741 `X` types (2%) and 1700 `X` tokens (2%).
-Out of 15 observed tags, the rank of `X` is: 15 in number of lemmas, 5 in number of types and 11 in number of tokens.
+There are 2 `X` lemmas (0%), 2 `X` types (0%) and 3 `X` tokens (0%).
+Out of 16 observed tags, the rank of `X` is: 16 in number of lemmas, 16 in number of types and 16 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_</em>
+The 10 most frequent `X` lemmas: <em>​, С</em>
 
-The 10 most frequent `X` types:  <em>же, и, за, лишь, только, даже, юго, ещё, северо, 2</em>
+The 10 most frequent `X` types:  <em>​, с</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 26660, [PUNCT]() 18807, [ADJ]() 12528, [ADP]() 10735, [VERB]() 9436, [PROPN]() 7604, [CONJ]() 3168, [ADV]() 2142, [NUM]() 1900, [PRON]() 1763, [X]() 1700, [DET]() 1673, [SCONJ]() 624, [PART]() 491, [SYM]() 158)
+The 10 most frequent ambiguous lemmas: <em>С</em> ([ADP]() 952, [NOUN]() 5, [X]() 1, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>же</em> ([X]() 117, [PART]() 3), <em>и</em> ([CONJ]() 2241, [X]() 89, [PART]() 6, [NOUN]() 1), <em>за</em> ([ADP]() 240, [X]() 39), <em>лишь</em> ([X]() 35, [ADV]() 2), <em>только</em> ([ADV]() 45, [X]() 33, [CONJ]() 1), <em>ещё</em> ([X]() 22, [ADV]() 20), <em>2</em> ([NUM]() 55, [X]() 23, [ADJ]() 9), <em>No</em> ([X]() 21, [PART]() 1), <em>уже</em> ([ADV]() 31, [X]() 18), <em>1</em> ([NUM]() 43, [ADJ]() 33, [X]() 19)
+The 10 most frequent ambiguous types:  <em>с</em> ([ADP]() 837, [NOUN]() 2, [X]() 1)
 
 
-* <em>же</em>
-  * [X]() 117: <em>В этом <b>же</b> году начались работы по мощению улицы .</em>
-  * [PART]() 3: <em>В том <b>же</b> году они выпустили свой первый альбом `` Wounded Land &#39;&#39; , который стал лучшим альбомом 1993 года .</em>
-* <em>и</em>
-  * [CONJ]() 2241: <em>О лечении <b>и</b> профилактике в статье неврит .</em>
-  * [X]() 89: <em>Кассандра , как <b>и</b> сестра , замуж так <b>и</b> не вышла .</em>
-  * [PART]() 6: <em>Он <b>и</b> его потомки использовали герб Леварт ( Лев II ) .</em>
-  * [NOUN]() 1: <em>Гарнизон острова был поднят по тревоге , <b>и</b> , по совпадению , был мобилизован как раз к нападению НОАК .</em>
-* <em>за</em>
-  * [ADP]() 240: <em>Но <b>за</b> достойный поединок заслужил симпатии зрителей .</em>
-  * [X]() 39: <em>Находится под угрозой вымирания из - <b>за</b> разрушения среды обитания .</em>
-* <em>лишь</em>
-  * [X]() 35: <em>Премьера состоялась <b>лишь</b> в 1936 году в Берне .</em>
-  * [ADV]() 2: <em>Казаки и примкнувшие к ним ногайцы попытались воспрепятствовать переправе горцев через Кубань , и в разгоревшемся бою практически все они героически сложили головы ( выжили <b>лишь</b> два израненных казака , хоперца Лучкин и Назаренко ) .</em>
-* <em>только</em>
-  * [ADV]() 45: <em>Изменение рабочей частоты радиостанции было возможно <b>только</b> на земле .</em>
-  * [X]() 33: <em>В выборах могли участвовать <b>только</b> граждане , платящие налоги .</em>
-  * [CONJ]() 1: <em>Ведь то , что творите вы , не <b>только</b> жестокое дело , это поистине дело сатанинское , за которое подлежите вы огню геенскому в жизни будущей -- загробной и страшному проклятию потомства в жизни настоящей земной .</em>
-* <em>ещё</em>
-  * [X]() 22: <em>Впервые начал работать в газете <b>ещё</b> в 1919 году .</em>
-  * [ADV]() 20: <em>Козы в качестве вожатых отброшены , хотя оракул <b>ещё</b> остается .</em>
-* <em>2</em>
-  * [NUM]() 55: <em>Запирание осуществляется поворотом затвора на <b>2</b> боевых упора .</em>
-  * [X]() 23: <em>Население Новогригоровки составляет более <b>2</b> - х тысяч человек .</em>
-  * [ADJ]() 9: <em>Он умер в Каннах <b>2</b> февраля 1886 года .</em>
-* <em>No</em>
-  * [X]() 21: <em>Избранные 12 декабря 1993 года по Ненецкому двухмандатному избирательному округу <b>No</b> 83 .</em>
-  * [PART]() 1: <em>Сравнивая игру Flashback с <b>No</b> Escape , критики отметили у последней неудобное управление скучный игровой процесс , добавив при этом , что оригинальный фильм заметно лучше , чем созданная по его мотивам игра .</em>
-* <em>уже</em>
-  * [ADV]() 31: <em>Деревянная церковь стояла на этом месте <b>уже</b> в 1625 году .</em>
-  * [X]() 18: <em>Первые 128 узлов были доступны для работы <b>уже</b> в сентябре 2001 года .</em>
-* <em>1</em>
-  * [NUM]() 43: <em>На расстоянии в <b>1</b> км расположено село Поповка .</em>
-  * [ADJ]() 33: <em><b>1</b> декабря 1923 произведен в лейтенанты 3 - го артиллерийского полка .</em>
-  * [X]() 19: <em>Награждён орденом Святой Анны <b>1</b> - й степени .</em>
+* <em>с</em>
+  * [ADP]() 837: <em>С запада к храму примыкала трапезная часть <b>с</b> колокольней .</em>
+  * [NOUN]() 2: <em>Для процессоров Haswell предназначено новое семейство чипсетов Intel 8 - й серии , включающее в себя модели B85 , H87 , Q85 , Q87 и Z87 для процессорного разъёма LGA 1150 , которые осуществляют поддержку до 6 портов USB 3.0 и до 6 шин SATA 6 Гбит / <b>с</b> ( при этом отсутствуют SATA 3 Гбит / <b>с</b> ) , функцию I / O Port Flexibility , позволяющую задавать , какие именно USB - порты будут функционировать как 3.0 .</em>
+  * [X]() 1: <em>`` Engel &#39;&#39; ( <b>с</b> ) -- третий сингл группы Rammstein из второго альбома Sehnsucht .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 741.000000 (the average of all parts of speech is 2046.733333).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.591757).
 
-The 1st highest number of forms (741) was observed with the lemma “_”: <em>&#39;&#39;, ..., 1, 10, 100, 1000, 1005, 11, 116, 12, 12,7, 1200, 1204, 122, 1250, 128, 13, 134, 14, 140, 1470, 15, 151-1, 151-2, 1540, 154М, 16, 1600, 172, 175, 18, 1840, 19, 1920, 1920-1940, 1930, 1940, 1950, 1952, 1960, 1970, 1973, 1976, 198, 1980, 199, 1990, 2, 2,2, 2,7, 20, 2000, 2008, 2010, 2012, 204/214, 21, 22, 22М, 22Р, 23, 24, 25, 25С, 278, 28, 293, 2958, 2D, 3, 30, 305, 32, 33, 335, 35, 36, 38, 3О, 4, 40, 400Т, 41, 410, 42, 45, 47, 48, 5, 50, 51, 52, 55, 57, 6, 60, 60К, 60Н, 62, 63, 6372с, 64, 67, 69, 7, 7,62, 70, 72, 73, 75, 76, 76Б, 76ЛЛ, 77, 8, 80, 80-90, 85, 87, 89, 890, 9, 90, 90А, 91, 94, 95, 96, 96-300, 999,9, 9ЛЛ, AFe, ATP, B, C, Cantieri, Card, Cola, Dinggedicht, Dong, Dōngfāngshénqǐ, FM, Fang, Gedanensis, H, HTML, Hans, IRC, Joska, KHM, Love, MIME, MOX, MU, Marne, No, Online, PA, PC, Prodir, Qi, RS, RSS, S, SAR, SL, SP, Shen, Si, So, THSK, TVXQ, Tohoshinki, Tong, USB, Vfang, Vivere, Well, X_1, X_2, Xien, Y, ZIP, \, ^, _1, _2, accorgevi, ach, aepzf, bsdud, dIM, dbang, di, du, esto, et, eɪ̯, eṷ, f, fraude, gf, gi, graeco, i, joṷ, klat, l, la, las, live, mathbb, mathcal, mdIM, minus, mu_1, mu_2, n, ni, otimes, oɪ̯, phrin, pi, plus, ri, ru, se, secuerit, sine, strop, t, tiak, to, trah, ve, x, ~, ×, ŠEŠ, θ, φ, АКВА, Августа, Австро, Агдас, Агуалва, Азиатско, Александро, Алескандро, Али, Алма, Алтын, Альдера, Альканадре, Амуре, Анри, Арачели, Арбатско, Аргун, Арк, Аслан, Ахмад, Ахмет, Ацци, Бад, Бадыргы, Баньеса, Бахо, Баян, Бейра, Бена, Боково, Борисово, Брайсгау, Брейн, Брод, Брокен, Бурхан, Буэнос, Бэзыбыз, Бяла, ВЧ, Вальдек, Ведь, Велью, Вест, Вестфалии, Владимирско, Волан, Восточно, Высока, Гази, Гармиш, Германо, Гессен, Годи, Горакша, Гран, Гросу, Груп, Гхеранда, Да, Датско, Двинско, Дера, Джанполадян, Джей, Джермин, Джерси, Дзевалтовские, Дзержинско, Долгано, Дону, Ежи, Жан, Жанейро, Иган, Императорско, Исмаил, Кале, Кап, Капу, Кара, Картли, Катоне, Киево, Кирово, Кодаро, Корсакова, Коста, Кот, Красно, Крик, Кумача, Кучук, Кхуддака, Кэмп, Кэртэ, ЛГБТ, Лас, Лейк, Лено, Лигуре, Линейно, Логистика, Лос, Люблинско, Лютфи, М, М1, М2, Маджоре, Майлз, Майне, Мак, Мани, Манча, Мария, Мату, Мегино, Мелик, Минас, Монморанси, Монморанси́, Монт, Музыкально, Мэдисон, Мюллер, Мясницко, Найк, Намдо, Нассо, Нейтан, Нижне, Николо, Нова, Ной, Нуралы, О, Ож, Олмари, Оренбургско, Ост, ПЕН, Пархим, Педро, Пера, Перт, Петербург, Повуа, Польский, Порцио, Причём, Пюи, РИУ, Рабоче, Рапид, Редлих, Рейн, Рейне, Рейнланд, Риашу, Рогожско, Рорбах, Рэгги, Рязано, С., Савски, Саксен, Самго, Сан, Санага, Санта, Сантос, Сары, Свято, Сен, Сент, Сими, Сити, Сихотэ, Скотланд, Смазочно, Соколово, Средне, Су, Султан, Сюянь, Таганско, Тамар, Тахо, Таңhчин, Тель, Терем, Трамвайно, Трек, Троице, Тугуро, Тук, Улан, Улица, Улу, Уну, Урало, Уэсли, ФЗ, Фактически, Фасо, Форт, Фултон, Хайбер, Халифа, Хатха, Хидден, Хогвартс, Хорезми, Хэппи, Центральный, Чехо, Чжили, Член, Шанталь, Шаранта, Шарль, Шива, Шлезвиг, Штаб, Эбре, Эли, Эль, Энн, Эр, Эхо, Эшен, Эшенбах, Южно, Южный, Юниор, Ягельоньски, а, аварийно, ага, административно, ал, аль, алюминиево, амино, ан, англо, арабо, ариозно, ассистент, афро, аҙбар, бело, бета, бизнес, бледно, блек, бонус, бы, веб, вероятно, взлётно, вице, во, водно, военно, волокнисто, вот, впрочем, вроде, все, всего, всё, вторых, гей, гендерно, генерал, ги, горно, готик, греко, грязно, гуарани, д, даже, дайв, дворцово, де, детско, джаз, джент, дизель, ду, дэт, евангелическо, еврейско, ещё, же, желудочно, жёлто, за, золото, зәңг, и, из, именно, импакт, ин, инженерно, интернет, инфекционно, информ, информационно, историко, йога, кавер, канадо, капитан, карбокси, кво, кино, китайско, классико, кое, конечно, консул, контент, крио, кроваво, кәртә, ла, лазерно, латыни, ле, лейб, лечебно, лещово, либо, лимонно, литературно, лишь, лорд, лугово, майор, макро, макси, мале, марш, медиа, мезо, метал, металл, микро, мини, мол, монго, морально, моренно, мягко, н, на, например, народно, научно, национально, немецко, нибудь, но, ноль, нью, образовательно, общественно, однако, одно, октан, оранжево, осколочно, панк, паши, плей, по, погрузочно, под, польско, поп, почти, прежнему, премьер, пресс, при, приват, просто, псевдо, пусть, пуэбло, радио, ракетно, реалити, резко, религиозно, ремонтно, ресурсо, ретрит, ритм, рок, роллер, российско, русско, рыже, с, самоходно, санкт, сахаджа, светло, севере, северо, сервис, сердечно, серовато, синсю, скалисто, сквер, смотр, соm, советско, солнечно, соло, социал, социально, спасательно, спец, спин, спортивно, статс, стрит, структурно, сюр, сёдзё, также, таки, теоретико, то, только, топ, треш, три, трёх, тыйын, тёмно, у, уже, уик, учебно, флеш, франко, фузз, фусиги, ха, хан, хет, химико, хип, хит, хоп, хоть, хотя, хэви, ч, черепно, чешско, шоу, штабс, эйяхе, эйәһе, экономико, экс, экскурсионно, эпителиально, этно, ю, юго, яги, язвенно, якобы, һарай, Ա, ע, خدا, หีบ, ​, →, −, ≠, 人, 国, 外, 外国, 奏, 抄</em>.
+The 1st highest number of forms (1) was observed with the lemma “С”: <em>с</em>.
 
-`X` occurs with 5 features: [ru-feat/Case]() (11; 1% instances), [ru-feat/Animacy]() (10; 1% instances), [ru-feat/Gender]() (10; 1% instances), [ru-feat/Number]() (10; 1% instances), [ru-feat/Person]() (9; 1% instances)
+The 2nd highest number of forms (1) was observed with the lemma “​”: <em>​</em>.
 
-`X` occurs with 9 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`, `Person=3`
-
-`X` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (1689 tokens).
-Examples: <em>же, и, за, лишь, только, даже, юго, ещё, северо, 2</em>
+`X` does not occur with any features.
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 20 different relations: [ru-dep/goeswith]() (1092; 64% instances), [ru-dep/discourse]() (396; 23% instances), [ru-dep/nmod]() (56; 3% instances), [ru-dep/appos]() (52; 3% instances), [ru-dep/punct]() (28; 2% instances), [ru-dep/conj]() (18; 1% instances), [ru-dep/foreign]() (10; 1% instances), [ru-dep/nsubj]() (10; 1% instances), [ru-dep/list]() (9; 1% instances), [ru-dep/mwe]() (6; 0% instances), [ru-dep/advmod]() (5; 0% instances), [ru-dep/dep]() (5; 0% instances), [ru-dep/nummod]() (4; 0% instances), [ru-dep/dobj]() (2; 0% instances), [ru-dep/iobj]() (2; 0% instances), [ru-dep/amod]() (1; 0% instances), [ru-dep/case]() (1; 0% instances), [ru-dep/conj:preconj]() (1; 0% instances), [ru-dep/parataxis]() (1; 0% instances), [ru-dep/root]() (1; 0% instances)
+`X` nodes are attached to their parents using 2 different relations: [ru-dep/amod]() (2; 67% instances), [ru-dep/appos]() (1; 33% instances)
 
-Parents of `X` nodes belong to 16 different parts of speech: [ADJ]() (467; 27% instances), [NOUN]() (450; 26% instances), [PROPN]() (341; 20% instances), [X]() (105; 6% instances), [DET]() (98; 6% instances), [VERB]() (84; 5% instances), [ADV]() (63; 4% instances), [NUM]() (35; 2% instances), [PRON]() (18; 1% instances), [CONJ]() (15; 1% instances), [PUNCT]() (8; 0% instances), [SYM]() (8; 0% instances), [SCONJ]() (3; 0% instances), [ADP]() (2; 0% instances), [PART]() (2; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `X` nodes belong to 2 different parts of speech: [NOUN]() (2; 67% instances), [PROPN]() (1; 33% instances)
 
-1541 (91%) `X` nodes are leaves.
+2 (67%) `X` nodes are leaves.
 
-74 (4%) `X` nodes have one child.
+0 (0%) `X` nodes have one child.
 
-38 (2%) `X` nodes have two children.
+1 (33%) `X` nodes have two children.
 
-47 (3%) `X` nodes have three or more children.
+The highest child degree of a `X` node is 2.
 
-The highest child degree of a `X` node is 29.
+Children of `X` nodes are attached using 1 different relations: [ru-dep/punct]() (2; 100% instances)
 
-Children of `X` nodes are attached using 17 different relations: [ru-dep/punct]() (135; 37% instances), [ru-dep/goeswith]() (57; 16% instances), [ru-dep/nmod]() (56; 15% instances), [ru-dep/appos]() (25; 7% instances), [ru-dep/nummod]() (24; 7% instances), [ru-dep/conj]() (19; 5% instances), [ru-dep/cc]() (15; 4% instances), [ru-dep/foreign]() (10; 3% instances), [ru-dep/case]() (6; 2% instances), [ru-dep/discourse]() (6; 2% instances), [ru-dep/list]() (6; 2% instances), [ru-dep/dep]() (2; 1% instances), [ru-dep/amod]() (1; 0% instances), [ru-dep/det]() (1; 0% instances), [ru-dep/mwe]() (1; 0% instances), [ru-dep/neg]() (1; 0% instances), [ru-dep/nsubj]() (1; 0% instances)
+Children of `X` nodes belong to 1 different parts of speech: [PUNCT]() (2; 100% instances)
 
-Children of `X` nodes belong to 13 different parts of speech: [PUNCT]() (141; 39% instances), [X]() (105; 29% instances), [NOUN]() (30; 8% instances), [NUM]() (27; 7% instances), [CONJ]() (15; 4% instances), [PROPN]() (14; 4% instances), [SYM]() (10; 3% instances), [ADP]() (6; 2% instances), [ADJ]() (5; 1% instances), [PART]() (5; 1% instances), [ADV]() (4; 1% instances), [PRON]() (3; 1% instances), [VERB]() (1; 0% instances)
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Russian-SynTagRus)
+
+There are 368 `X` lemmas (1%), 367 `X` types (0%) and 512 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 16 in number of tokens.
+
+The 10 most frequent `X` lemmas: <em>and, of, in, the, for, mignews.com, di, money, pylori, ultrabrain</em>
+
+The 10 most frequent `X` types:  <em>and, of, in, the, for, MIGNews.com, di, money, pylori, ultrabrain</em>
+
+The 10 most frequent ambiguous lemmas: <em>and</em> ([X]() 17, [PROPN]() 1), <em>in</em> ([X]() 8, [PROPN]() 1), <em>the</em> ([PROPN]() 11, [X]() 8), <em>ultrabrain</em> ([X]() 4, [PROPN]() 3), <em>а</em> ([CONJ]() 5152, [PROPN]() 13, [X]() 4, [INTJ]() 4, [PART]() 3, [NOUN]() 1), <em>daily</em> ([PROPN]() 6, [X]() 3), <em>de</em> ([X]() 3, [PROPN]() 2), <em>g</em> ([PROPN]() 3, [X]() 3), <em>i</em> ([NUM]() 22, [PROPN]() 5, [X]() 3), <em>space</em> ([PROPN]() 3, [X]() 3)
+
+The 10 most frequent ambiguous types:  <em>а</em> ([CONJ]() 3422, [X]() 4, [INTJ]() 2, [PART]() 1), <em>б</em> ([PART]() 14, [X]() 3), <em>и</em> ([CONJ]() 21962, [PART]() 4371, [X]() 3), <em>аль</em> ([PART]() 9, [X]() 2), <em>*</em> ([PUNCT]() 1, [X]() 1), <em>Black&Decker</em> ([X]() 1, [NOUN]() 1), <em>robots.txt</em> ([NOUN]() 5, [X]() 1), <em>ТНК-BP</em> ([PROPN]() 1, [X]() 1), <em>англ</em> ([ADJ]() 2, [X]() 1), <em>бух</em> ([INTJ]() 1, [X]() 1)
+
+
+* <em>а</em>
+  * [CONJ]() 3422: <em>Время было неподвижно , <b>а</b> дни уходили .</em>
+  * [X]() 4: <em>Для Перельмана его " <b>а</b> идише маме " , видимо тоже поважнее гипотезы Пуанкаре .</em>
+  * [INTJ]() 2: <em>Какая зима , <b>а</b> ! - сказала она , пока он брал билеты .</em>
+  * [PART]() 1: <em>- И с чего это тебя разносит , <b>а</b> ?</em>
+* <em>б</em>
+  * [PART]() 14: <em>" Если <b>б</b> знать арифметику , я бы далеко пошла ! "</em>
+  * [X]() 3: <em>Добиться , чтобы твои решения выполнялись а ) в ТВ - эфире и <b>б</b> ) хотя_бы в пределах Садового кольца .</em>
+* <em>и</em>
+  * [CONJ]() 21962: <em>Наличие исходных данных <b>и</b> некоторого результата .</em>
+  * [PART]() 4371: <em>Соответственно <b>и</b> алгоритмы ни_разу не упоминаются на её страницах .</em>
+  * [X]() 3: <em>Яка страна - такый <b>и</b> теракт ! . .</em>
+* <em>аль</em>
+  * [PART]() 9: <em>В первой половине XII века книга <b>аль</b> - Хорезми в латинском переводе проникла в Европу .</em>
+  * [X]() 2: <em>Из оригинального названия книги происходит слово Алгебра ( алгебра - <b>аль</b> - джебр - сложение ) .</em>
+* <em>*</em>
+  * [PUNCT]() 1: <em>Ее разрешение ( 2000 <b>*</b> 2000 точек ) полностью " покрывает " любые современные мониторы и проекторы .</em>
+  * [X]() 1: <em>Эти правила можно задавать как для всех поисковых роботов скопом ( User - agent : <b>*</b> ) , так_и выбирая конкретных пауков ( Yandex для " Яндекса " , Googlebot для Google , bingbot для Bing и так далее ) .</em>
+* <em>Black&Decker</em>
+  * [X]() 1: <em>Инструмент <b>Black&Decker</b> SPT100 .</em>
+  * [NOUN]() 1: <em><b>Black&Decker</b> не стала исключением из этого правила .</em>
+* <em>robots.txt</em>
+  * [NOUN]() 5: <em>При попустительстве <b>robots.txt</b> .</em>
+  * [X]() 1: <em>страницы , индексация которых явно запрещена специальными метатегами в их html - коде или в специальном файле <b>robots.txt</b> .</em>
+* <em>ТНК-BP</em>
+  * [PROPN]() 1: <em>Раньше существовало абсолютное единство арбитражной практики федеральных судов в округах по этому вопросу , но было дано новое толкование , - вспоминает Владимир Кузнецов , руководитель управления правовой защиты компании <b>ТНК-BP</b> .</em>
+  * [X]() 1: <em>А еще раньше они появились у <b>ТНК-BP</b> .</em>
+* <em>англ</em>
+  * [ADJ]() 2: <em>Этот подход позднее получил название джастификационизма ( от <b>англ</b> . justify - " оправдывать " , " обосновывать " ) .</em>
+  * [X]() 1: <em>Работа хедхантера ( с <b>англ</b> . - охотник за головами ) только с виду непыльная .</em>
+* <em>бух</em>
+  * [INTJ]() 1: <em>Смутно помнил Лева , что когда-то получалось у отца на одной коленке : " По гладенькой дорожке , по гладенькой дорожке , по кочкам , по кочкам , в я-му <b>бух</b> ! " - силы хватало … но и то никогда не умел отец остановиться вовремя , не надоедало ему ( так , что ли , радовался , что получалось ! ) , приходилось Левушке кончать игру первым .</em>
+  * [X]() 1: <em>Название говорит само за себя - трре - <b>бух</b> - шшетт .</em>
+
+## Morphology
+
+The form / lemma ratio of `X` is 0.997283 (the average of all parts of speech is 2.665758).
+
+The 1st highest number of forms (1) was observed with the lemma “*”: <em>*</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “12:04”: <em>12:04</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “15.08.2008”: <em>15.08.2008</em>.
+
+`X` does not occur with any features.
+
+
+## Relations
+
+`X` nodes are attached to their parents using 14 different relations: [ru-dep/foreign]() (363; 71% instances), [ru-dep/appos]() (78; 15% instances), [ru-dep/nsubj]() (18; 4% instances), [ru-dep/dep]() (13; 3% instances), [ru-dep/nmod]() (10; 2% instances), [ru-dep/parataxis]() (10; 2% instances), [ru-dep/conj]() (6; 1% instances), [ru-dep/advmod]() (5; 1% instances), [ru-dep/mwe]() (2; 0% instances), [ru-dep/nsubjpass]() (2; 0% instances), [ru-dep/root]() (2; 0% instances), [ru-dep/advcl]() (1; 0% instances), [ru-dep/compound]() (1; 0% instances), [ru-dep/name]() (1; 0% instances)
+
+Parents of `X` nodes belong to 9 different parts of speech: [NOUN]() (169; 33% instances), [X]() (138; 27% instances), [PROPN]() (135; 26% instances), [VERB]() (50; 10% instances), [ADJ]() (15; 3% instances), [ROOT]() (2; 0% instances), [CONJ]() (1; 0% instances), [NUM]() (1; 0% instances), [SYM]() (1; 0% instances)
+
+82 (16%) `X` nodes are leaves.
+
+258 (50%) `X` nodes have one child.
+
+95 (19%) `X` nodes have two children.
+
+77 (15%) `X` nodes have three or more children.
+
+The highest child degree of a `X` node is 9.
+
+Children of `X` nodes are attached using 16 different relations: [ru-dep/punct]() (360; 50% instances), [ru-dep/foreign]() (183; 26% instances), [ru-dep/appos]() (45; 6% instances), [ru-dep/parataxis]() (35; 5% instances), [ru-dep/case]() (25; 4% instances), [ru-dep/amod]() (21; 3% instances), [ru-dep/cc]() (14; 2% instances), [ru-dep/conj]() (7; 1% instances), [ru-dep/nmod]() (6; 1% instances), [ru-dep/advmod]() (4; 1% instances), [ru-dep/mark]() (4; 1% instances), [ru-dep/nummod]() (4; 1% instances), [ru-dep/mwe]() (2; 0% instances), [ru-dep/cop]() (1; 0% instances), [ru-dep/neg]() (1; 0% instances), [ru-dep/nsubj]() (1; 0% instances)
+
+Children of `X` nodes belong to 14 different parts of speech: [PUNCT]() (360; 50% instances), [X]() (138; 19% instances), [PROPN]() (91; 13% instances), [NOUN]() (37; 5% instances), [ADP]() (25; 4% instances), [ADJ]() (22; 3% instances), [CONJ]() (16; 2% instances), [VERB]() (9; 1% instances), [NUM]() (4; 1% instances), [PART]() (4; 1% instances), [SCONJ]() (3; 0% instances), [ADV]() (2; 0% instances), [AUX]() (1; 0% instances), [PRON]() (1; 0% instances)
 

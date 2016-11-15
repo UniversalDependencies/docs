@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>v</em> ([ADP]() 26490, [NOUN]() 4, [A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.157895 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `ADP` is 1.157895 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (3) was observed with the lemma “a”: <em>a, ala, à</em>.
 
@@ -107,7 +107,7 @@ The 10 most frequent `ADP` lemmas: <em>v, na, s, z, k, o, pro, do, za, při</em>
 
 The 10 most frequent `ADP` types:  <em>v, na, s, z, o, k, pro, do, ve, za</em>
 
-The 10 most frequent ambiguous lemmas: <em>v</em> ([ADP]() 12769, [NOUN]() 3), <em>s</em> ([ADP]() 3842, [PART]() 13), <em>z</em> ([ADP]() 3690, [NOUN]() 2), <em>bez</em> ([ADP]() 364, [NOUN]() 1), <em>kolem</em> ([ADP]() 142, [ADV]() 3), <em>vedle</em> ([ADP]() 100, [ADV]() 3), <em>místo</em> ([NOUN]() 366, [ADP]() 50, [SCONJ]() 2), <em>de</em> ([ADP]() 29, [NOUN]() 1), <em>a</em> ([CONJ]() 15539, [ADP]() 4), <em>vstříc</em> ([ADV]() 4, [ADP]() 4)
+The 10 most frequent ambiguous lemmas: <em>v</em> ([ADP]() 12769, [NOUN]() 3), <em>s</em> ([ADP]() 3842, [PART]() 13), <em>z</em> ([ADP]() 3690, [NOUN]() 2), <em>bez</em> ([ADP]() 364, [NOUN]() 1), <em>kolem</em> ([ADP]() 142, [ADV]() 3), <em>vedle</em> ([ADP]() 100, [ADV]() 3), <em>místo</em> ([NOUN]() 366, [ADP]() 50, [SCONJ]() 2), <em>de</em> ([ADP]() 29, [NOUN]() 1), <em>a</em> ([CONJ]() 15539, [ADP]() 4), <em>vstříc</em> ([ADP]() 4, [ADV]() 4)
 
 The 10 most frequent ambiguous types:  <em>v</em> ([ADP]() 9248, [NOUN]() 3), <em>na</em> ([ADP]() 6587, [CONJ]() 1), <em>s</em> ([ADP]() 3122, [PART]() 13), <em>z</em> ([ADP]() 2831, [NOUN]() 2), <em>se</em> ([PRON]() 7715, [ADP]() 601), <em>kolem</em> ([ADP]() 132, [ADV]() 3, [NOUN]() 1), <em>pomocí</em> ([ADP]() 97, [NOUN]() 18), <em>vzhledem</em> ([ADP]() 75, [NOUN]() 4), <em>vedle</em> ([ADP]() 71, [ADV]() 3), <em>během</em> ([ADP]() 50, [NOUN]() 1)
 
@@ -165,7 +165,7 @@ Examples: <em>v, na, o, při, po</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 11 different relations: [cs-dep/case]() (47541; 98% instances), [cs-dep/mwe]() (766; 2% instances), [cs-dep/nmod]() (29; 0% instances), [cs-dep/foreign]() (25; 0% instances), [cs-dep/mark]() (9; 0% instances), [cs-dep/advmod]() (8; 0% instances), [cs-dep/advmod:emph]() (4; 0% instances), [cs-dep/conj]() (4; 0% instances), [cs-dep/dobj]() (3; 0% instances), [cs-dep/auxpass:reflex]() (1; 0% instances), [cs-dep/dep]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 11 different relations: [cs-dep/case]() (47541; 98% instances), [cs-dep/mwe]() (766; 2% instances), [cs-dep/foreign]() (37; 0% instances), [cs-dep/nmod]() (17; 0% instances), [cs-dep/mark]() (9; 0% instances), [cs-dep/advmod]() (8; 0% instances), [cs-dep/advmod:emph]() (4; 0% instances), [cs-dep/conj]() (4; 0% instances), [cs-dep/dobj]() (3; 0% instances), [cs-dep/auxpass:reflex]() (1; 0% instances), [cs-dep/dep]() (1; 0% instances)
 
 Parents of `ADP` nodes belong to 13 different parts of speech: [NOUN]() (39935; 83% instances), [PRON]() (3622; 7% instances), [PROPN]() (2265; 5% instances), [SYM]() (608; 1% instances), [NUM]() (587; 1% instances), [ADJ]() (563; 1% instances), [ADP]() (500; 1% instances), [ADV]() (133; 0% instances), [PART]() (130; 0% instances), [VERB]() (21; 0% instances), [DET]() (20; 0% instances), [SCONJ]() (6; 0% instances), [CONJ]() (1; 0% instances)
 
@@ -198,7 +198,7 @@ The 10 most frequent `ADP` types:  <em>v, podle, na, o, k, s, do, za, z, pro</em
 
 The 10 most frequent ambiguous lemmas: <em>do</em> ([ADP]() 191, [ADJ]() 6), <em>od</em> ([ADP]() 73, [ADJ]() 4), <em>včetně</em> ([ADP]() 47, [ADV]() 7), <em>pod</em> ([ADP]() 31, [ADJ]() 1), <em>místo</em> ([NOUN]() 2, [ADP]() 1), <em>uvnitř</em> ([ADV]() 3, [ADP]() 1)
 
-The 10 most frequent ambiguous types:  <em>do</em> ([ADP]() 186, [ADJ]() 6), <em>od</em> ([ADP]() 55, [ADJ]() 4), <em>včetně</em> ([ADP]() 47, [ADV]() 7), <em>se</em> ([PRON]() 467, [ADP]() 34), <em>pod</em> ([ADP]() 31, [ADJ]() 1), <em>prostřednictvím</em> ([ADP]() 17, [NOUN]() 1), <em>místo</em> ([ADP]() 1, [NOUN]() 1), <em>uvnitř</em> ([ADV]() 3, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>do</em> ([ADP]() 186, [ADJ]() 6), <em>od</em> ([ADP]() 55, [ADJ]() 4), <em>včetně</em> ([ADP]() 47, [ADV]() 7), <em>se</em> ([PRON]() 467, [ADP]() 34), <em>pod</em> ([ADP]() 31, [ADJ]() 1), <em>prostřednictvím</em> ([ADP]() 17, [NOUN]() 1), <em>místo</em> ([NOUN]() 1, [ADP]() 1), <em>uvnitř</em> ([ADV]() 3, [ADP]() 1)
 
 
 * <em>do</em>
@@ -220,8 +220,8 @@ The 10 most frequent ambiguous types:  <em>do</em> ([ADP]() 186, [ADJ]() 6), <em
   * [ADP]() 17: <em>(2) Změny reálné hodnoty derivátu zajišťujícího očekávané peněžní toky se účtují <b>prostřednictvím</b> rozvahových účtů v účtové skupině 41 .</em>
   * [NOUN]() 1: <em>(2) Požadavky průkaznosti a jiné požadavky uvedené v odstavci 1 jsou splněny i v případě , je-li přenos průkazného účetního záznamu uskutečněn <b>prostřednictvím</b> třetí osoby odlišné od účetních jednotek , pokud tato osoba splňuje požadavky podle zvláštních právních předpisů .</em>
 * <em>místo</em>
-  * [ADP]() 1: <em>(2) Účetní závěrka podle odstavce 1 musí obsahovat a) jméno a příjmení , obchodní firmu nebo název účetní jednotky ; u účetních jednotek podle §_1_odst._2_písm._a)_až_c) sídlo nebo u účetních jednotek podle §_1_odst._2_písm._d)_až_h) bydliště a <b>místo</b> podnikání , liší-li se od bydliště , b) identifikační číslo osoby , pokud je má účetní jednotka přiděleno , c) právní formu účetní jednotky , d) předmět podnikání nebo jiné činnosti , případně účel , pro který byla zřízena , e) rozvahový den ( §_19_odst._1 ) nebo jiný okamžik , k němuž se účetní závěrka sestavuje ( §_19_odst._3 ) , f) okamžik sestavení účetní závěrky , a musí k ní být připojen podpisový záznam statutárního orgánu účetní jednotky podle §_1_odst._2_písm._a)_až_c) nebo podpisový záznam účetní jednotky podle §_1_odst._2_písm._d)_až_h) ; připojením uvedeného podpisového záznamu se považuje účetní závěrka za sestavenou podle písmene f) .</em>
   * [NOUN]() 1: <em>(2) Průběžnou inventarizaci mohou účetní jednotky provádět pouze u zásob , u nichž účtují podle druhů nebo podle míst jejich uložení nebo hmotně odpovědných osob , a dále u dlouhodobého hmotného movitého majetku , jenž vzhledem k funkci , kterou plní v účetní jednotce , je v soustavném pohybu a nemá stálé <b>místo</b> , kam náleží .</em>
+  * [ADP]() 1: <em>(2) Účetní závěrka podle odstavce 1 musí obsahovat a) jméno a příjmení , obchodní firmu nebo název účetní jednotky ; u účetních jednotek podle §_1_odst._2_písm._a)_až_c) sídlo nebo u účetních jednotek podle §_1_odst._2_písm._d)_až_h) bydliště a <b>místo</b> podnikání , liší-li se od bydliště , b) identifikační číslo osoby , pokud je má účetní jednotka přiděleno , c) právní formu účetní jednotky , d) předmět podnikání nebo jiné činnosti , případně účel , pro který byla zřízena , e) rozvahový den ( §_19_odst._1 ) nebo jiný okamžik , k němuž se účetní závěrka sestavuje ( §_19_odst._3 ) , f) okamžik sestavení účetní závěrky , a musí k ní být připojen podpisový záznam statutárního orgánu účetní jednotky podle §_1_odst._2_písm._a)_až_c) nebo podpisový záznam účetní jednotky podle §_1_odst._2_písm._d)_až_h) ; připojením uvedeného podpisového záznamu se považuje účetní závěrka za sestavenou podle písmene f) .</em>
 * <em>uvnitř</em>
   * [ADV]() 3: <em>U případů týkajících se výhradně skutečností <b>uvnitř</b> jedné účetní jednotky lze použít jako podpisový záznam vlastnoruční podpis nebo zaručený elektronický podpis anebo obdobný průkazný účetní záznam v technické formě .</em>
   * [ADP]() 1: <em>(3) Položka "C.I.3._Výrobky" obsahuje věci vlastní výroby určené k prodeji nebo ke spotřebě <b>uvnitř</b> účetní jednotky .</em>

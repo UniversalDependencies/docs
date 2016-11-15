@@ -11,9 +11,9 @@ The 10 most frequent `ADV` lemmas: <em>no, más, también, mucho, donde, ya, ade
 
 The 10 most frequent `ADV` types:  <em>no, más, también, muy, donde, ya, además, así, después, sólo</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> ([ADV]() 1764, [PROPN]() 14, [X]() 9), <em>más</em> ([ADV]() 1423, [ADJ]() 3, [X]() 1, [CONJ]() 1, [PROPN]() 1, [PRON]() 1), <em>mucho</em> ([ADV]() 585, [DET]() 220, [PRON]() 148, [ADJ]() 3, [PROPN]() 2, [X]() 1), <em>donde</em> ([ADV]() 459, [SCONJ]() 2), <em>ya</em> ([ADV]() 422, [X]() 33, [PROPN]() 3), <em>así</em> ([ADV]() 317, [PROPN]() 1, [ADJ]() 1, [SCONJ]() 1), <em>después</em> ([ADV]() 298, [ADJ]() 21, [ADP]() 2, [NOUN]() 1), <em>sólo</em> ([ADV]() 215, [ADJ]() 1), <em>bien</em> ([ADV]() 204, [NOUN]() 29, [PROPN]() 3), <em>antes</em> ([ADV]() 179, [ADJ]() 2, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: <em>no</em> ([ADV]() 1764, [PROPN]() 14, [X]() 9), <em>más</em> ([ADV]() 1423, [ADJ]() 3, [CONJ]() 1, [PROPN]() 1, [X]() 1, [PRON]() 1), <em>mucho</em> ([ADV]() 585, [DET]() 220, [PRON]() 148, [ADJ]() 3, [PROPN]() 2, [X]() 1), <em>donde</em> ([ADV]() 459, [SCONJ]() 2), <em>ya</em> ([ADV]() 422, [X]() 33, [PROPN]() 3), <em>así</em> ([ADV]() 317, [SCONJ]() 1, [PROPN]() 1, [ADJ]() 1), <em>después</em> ([ADV]() 298, [ADJ]() 21, [ADP]() 2, [NOUN]() 1), <em>sólo</em> ([ADV]() 215, [ADJ]() 1), <em>bien</em> ([ADV]() 204, [NOUN]() 29, [PROPN]() 3), <em>antes</em> ([ADV]() 179, [ADJ]() 2, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 1569, [X]() 8, [PROPN]() 6), <em>más</em> ([ADV]() 1385, [ADJ]() 3, [PRON]() 1, [X]() 1, [CONJ]() 1), <em>donde</em> ([ADV]() 456, [SCONJ]() 2), <em>ya</em> ([ADV]() 393, [X]() 33), <em>así</em> ([ADV]() 245, [ADJ]() 1, [SCONJ]() 1), <em>después</em> ([ADV]() 236, [ADJ]() 21, [NOUN]() 1, [ADP]() 1), <em>sólo</em> ([ADV]() 194, [ADJ]() 1), <em>bien</em> ([ADV]() 202, [NOUN]() 12, [PROPN]() 2), <em>antes</em> ([ADV]() 153, [ADJ]() 2, [NOUN]() 2), <em>entonces</em> ([ADV]() 139, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 1569, [X]() 8, [PROPN]() 6), <em>más</em> ([ADV]() 1385, [ADJ]() 3, [CONJ]() 1, [PRON]() 1, [X]() 1), <em>donde</em> ([ADV]() 456, [SCONJ]() 2), <em>ya</em> ([ADV]() 393, [X]() 33), <em>así</em> ([ADV]() 245, [ADJ]() 1, [SCONJ]() 1), <em>después</em> ([ADV]() 236, [ADJ]() 21, [NOUN]() 1, [ADP]() 1), <em>sólo</em> ([ADV]() 194, [ADJ]() 1), <em>bien</em> ([ADV]() 202, [NOUN]() 12, [PROPN]() 2), <em>antes</em> ([ADV]() 153, [NOUN]() 2, [ADJ]() 2), <em>entonces</em> ([ADV]() 139, [NOUN]() 1)
 
 
 * <em>no</em>
@@ -23,9 +23,9 @@ The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 1569, [X]() 8, [PROP
 * <em>más</em>
   * [ADV]() 1385: <em>La ciudad <b>más</b> cercana a Ist es Zadar .</em>
   * [ADJ]() 3: <em>Yo voy intentar ser lo <b>más</b> objetivo posible .</em>
+  * [CONJ]() 1: <em>Enterado Francisco Pizarro , envía una tropa a hacer les frente , <b>más</b> los incas los hacen retroceder .</em>
   * [PRON]() 1: <em>El impacto socio económico que habrá en la zona es <b>más</b> que significativo .</em>
   * [X]() 1: <em>Graba el disco " Jalisco " con excelentes temas como son : " La veintiuna " , " Jalisco " , " Pobre triste y olvidado " , " Es mentira , es mentira " , y también graba el disco " Alberto Vazquez con mariachi " con te <b>más</b> como : " De que te quiero , te quiero " , " Ella " , " Anoche me acosté con tu recuerdo " la cual le pedían mucho en presentaciones en televisión así como en conciertos , a finales de ese año es internado en el hostipal muy grabe por una pancreatitis , ( inflamación de el pancreas ) de el cual se recupero y regresó a los escenarios .</em>
-  * [CONJ]() 1: <em>Enterado Francisco Pizarro , envía una tropa a hacer les frente , <b>más</b> los incas los hacen retroceder .</em>
 * <em>donde</em>
   * [ADV]() 456: <em>Tal vez sea un poco caro para lo que es y <b>donde</b> está ubicado .</em>
   * [SCONJ]() 2: <em>E insistió en su argumento de la víspera , donde ya mostraba que no tenía intención de disolver por la fuerza las concentraciones : " La policía , <b>donde</b> hay un problema , para resolver lo no crea otro , ni dos , ni tres " , informa Iñigo Aduriz .</em>
@@ -50,8 +50,8 @@ The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 1569, [X]() 8, [PROP
   * [PROPN]() 2: <em>Su libro Las flores de el <b>bien</b> ( 1946 ) , está considerado como la cumbre de su poesía no épica .</em>
 * <em>antes</em>
   * [ADV]() 153: <em>Se trata de la última escapada <b>antes</b> de Navidad .</em>
-  * [ADJ]() 2: <em>En la creación de el banco Luzzatti se inspiró en las ' asociaciones de crédito ' desarrolladas por Hermann Schulze - Delitzsch en Alemania una década <b>antes</b> .</em>
   * [NOUN]() 2: <em>Marcó un <b>antes</b> y un después en la historia de el Mosaico .</em>
+  * [ADJ]() 2: <em>En la creación de el banco Luzzatti se inspiró en las ' asociaciones de crédito ' desarrolladas por Hermann Schulze - Delitzsch en Alemania una década <b>antes</b> .</em>
 * <em>entonces</em>
   * [ADV]() 139: <em>Por <b>entonces</b> , se presentaba como Devadip Carlos Santana .</em>
   * [NOUN]() 1: <em>Por aquel <b>entonces</b> Ramsés VIII respondía a el nombre de el príncipe Sethirjopshef y cuando fue coronado tuvo que ver tan indigno su enterramiento que lo desechó , y se cree que planearía otro , el cual se desconoce .</em>

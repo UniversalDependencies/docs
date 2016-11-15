@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Ine|<a href="Number.html">Number</a>=Sing</tt></td><td><em>hyvässä</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ine|<a href="Number.html">Number</a>=Plur</tt></td><td><em>hyvissä</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><em>hyvä</em></td><td><em>parempi</em></td><td><em>paras</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>hyvät</em></td><td><em>paremmat</em></td><td><em>parhaat, parhaimmat</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>hyvät</em></td><td><em>paremmat</em></td><td><em>parhaimmat, parhaat</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Clitic.html">Clitic</a>=Kaan|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>parempaakaan</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Clitic.html">Clitic</a>=Kaan|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>parempiakaan</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Clitic.html">Clitic</a>=Kin|<a href="Number.html">Number</a>=Sing</tt></td><td><em>hyvääkin</em></td><td><em>parempaakin</em></td><td></td></tr>
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 6900 [fi-pos/VERB]() tokens (22% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (6900; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6900; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6900; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6900; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6900; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5183; 75%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4428; 64%), <tt><a href="PartForm.html">PartForm</a>=Past</tt> (4233; 61%), <tt><a href="Case.html">Case</a>=Nom</tt> (3841; 56%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6900; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6900; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6900; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (6900; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6900; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5183; 75%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4428; 64%), <tt><a href="PartForm.html">PartForm</a>=Past</tt> (4233; 61%), <tt><a href="Case.html">Case</a>=Nom</tt> (3841; 56%).
 
 `VERB` tokens may have the following values of `Degree`:
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 127 [fi-pos/AUX]() tokens (4% of all `AUX` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (127; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (127; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (127; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (127; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (110; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (110; 87%).
+The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (127; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (127; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (127; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (127; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (110; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (110; 87%).
 
 `AUX` tokens may have the following values of `Degree`:
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `AUX` and `Degree` co-occurred
 
 4 [fi-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (4; 100%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (4; 100%).
 
 `PRON` tokens may have the following values of `Degree`:
 
@@ -147,7 +147,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 1 [fi-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PROPN` and `Degree` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Degree`:
 
@@ -163,10 +163,10 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (15; 83%),
 <tt>ADJ --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (12; 57%),
 <tt>ADJ --[<a href="../dep/nmod.html">nmod</a>]--> ADJ</tt> (8; 62%),
-<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (4; 100%),
 <tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADJ</tt> (4; 100%),
+<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (4; 100%),
 <tt>ADJ --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> ADJ</tt> (3; 100%),
-<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (3; 75%).
+<tt>ADJ --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> ADJ</tt> (3; 100%).
 
 
 
@@ -224,7 +224,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 21 [fi-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=Ind</tt> (21; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (11; 52%), <tt><a href="Number.html">Number</a>=Plur</tt> (11; 52%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=Ind</tt> (21; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (11; 52%), <tt><a href="Case.html">Case</a>=Nom</tt> (11; 52%).
 
 `DET` tokens may have the following values of `Degree`:
 
@@ -251,7 +251,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 15 [fi-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (15; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (15; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (12; 80%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=Ind</tt> (15; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (15; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (12; 80%).
 
 `PRON` tokens may have the following values of `Degree`:
 
@@ -296,7 +296,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 1 [fi-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="PartForm.html">PartForm</a>=Pres</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Ess</tt> (1; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Ess</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (1; 100%), <tt><a href="PartForm.html">PartForm</a>=Pres</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Degree`:
 

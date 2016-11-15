@@ -4,14 +4,14 @@
 
 ## Treebank Statistics (UD_German)
 
-There are 1 `PUNCT` lemmas (7%), 39 `PUNCT` types (0%) and 39056 `PUNCT` tokens (13%).
+There are 39 `PUNCT` lemmas (0%), 39 `PUNCT` types (0%) and 39056 `PUNCT` tokens (13%).
 Out of 15 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 14 in number of types and 2 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: <em>_</em>
+The 10 most frequent `PUNCT` lemmas: <em>., ,, -, ", ), (, --, !, :, ''</em>
 
 The 10 most frequent `PUNCT` types:  <em>., ,, -, ", ), (, --, !, :, ''</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 53291, [PUNCT]() 39056, [DET]() 37037, [ADP]() 32362, [PROPN]() 32323, [VERB]() 25041, [ADJ]() 21279, [PRON]() 15077, [ADV]() 14911, [CONJ]() 8938, [NUM]() 7632, [AUX]() 6913, [PART]() 2202, [SCONJ]() 1810, [X]() 370)
+The 10 most frequent ambiguous lemmas: <em>.</em> ([PUNCT]() 15042, [NOUN]() 1), <em>"</em> ([PUNCT]() 1938, [NOUN]() 3), <em>)</em> ([PUNCT]() 1892, [X]() 1), <em>(</em> ([PUNCT]() 1881, [X]() 1), <em>:</em> ([PUNCT]() 457, [X]() 1), <em>/</em> ([PUNCT]() 263, [X]() 10, [ADP]() 5, [PROPN]() 2), <em>?</em> ([PUNCT]() 108, [PROPN]() 4), <em>'</em> ([PUNCT]() 73, [NOUN]() 6), <em>..</em> ([PUNCT]() 16, [PROPN]() 1), <em>=</em> ([X]() 16, [PUNCT]() 10)
 
 The 10 most frequent ambiguous types:  <em>.</em> ([PUNCT]() 15042, [NOUN]() 1), <em>"</em> ([PUNCT]() 1938, [NOUN]() 3), <em>)</em> ([PUNCT]() 1892, [X]() 1), <em>(</em> ([PUNCT]() 1881, [X]() 1), <em>:</em> ([PUNCT]() 457, [X]() 1), <em>/</em> ([PUNCT]() 263, [X]() 10, [ADP]() 5, [PROPN]() 2), <em>?</em> ([PUNCT]() 108, [PROPN]() 4), <em>'</em> ([PUNCT]() 73, [NOUN]() 6), <em>..</em> ([PUNCT]() 16, [PROPN]() 1), <em>=</em> ([X]() 16, [PUNCT]() 10)
 
@@ -51,9 +51,13 @@ The 10 most frequent ambiguous types:  <em>.</em> ([PUNCT]() 15042, [NOUN]() 1),
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 39.000000 (the average of all parts of speech is 3646.666667).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.186521).
 
-The 1st highest number of forms (39) was observed with the lemma “_”: <em>!, ", ', '', 's, (, ), *, ,, -, --, ., .., ..., ...., ....., ......, /, :, :), :-), ;, ;), ;-), =, ?, [, ], `, ``, wurde, {, |, }, «, », ×, →, ﻿"</em>.
+The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 
 `PUNCT` does not occur with any features.
 
@@ -62,7 +66,7 @@ The 1st highest number of forms (39) was observed with the lemma “_”: <em>!,
 
 `PUNCT` nodes are attached to their parents using 8 different relations: [de-dep/punct]() (39011; 100% instances), [de-dep/case]() (22; 0% instances), [de-dep/dep]() (15; 0% instances), [de-dep/cc]() (3; 0% instances), [de-dep/appos]() (2; 0% instances), [de-dep/compound]() (1; 0% instances), [de-dep/conj]() (1; 0% instances), [de-dep/cop]() (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: [VERB]() (17713; 45% instances), [NOUN]() (10545; 27% instances), [PROPN]() (6369; 16% instances), [ADJ]() (3094; 8% instances), [NUM]() (800; 2% instances), [PRON]() (171; 0% instances), [ADV]() (125; 0% instances), [X]() (122; 0% instances), [ADP]() (46; 0% instances), [CONJ]() (20; 0% instances), [AUX]() (17; 0% instances), [PART]() (16; 0% instances), [PUNCT]() (13; 0% instances), [DET]() (3; 0% instances), [SCONJ]() (2; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: [VERB]() (17713; 45% instances), [NOUN]() (10545; 27% instances), [PROPN]() (6369; 16% instances), [ADJ]() (3094; 8% instances), [NUM]() (800; 2% instances), [PRON]() (170; 0% instances), [ADV]() (125; 0% instances), [X]() (123; 0% instances), [ADP]() (46; 0% instances), [CONJ]() (20; 0% instances), [AUX]() (17; 0% instances), [PART]() (16; 0% instances), [PUNCT]() (13; 0% instances), [DET]() (3; 0% instances), [SCONJ]() (2; 0% instances)
 
 39042 (100%) `PUNCT` nodes are leaves.
 

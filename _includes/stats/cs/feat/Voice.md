@@ -51,7 +51,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 11146 [cs-pos/AUX]() tokens (54% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (10350; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7894; 71%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7893; 71%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7893; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (6212; 56%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (10350; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7894; 71%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7893; 71%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7893; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (6212; 56%).
 
 `AUX` tokens may have the following values of `Voice`:
 
@@ -189,7 +189,7 @@ The feature is used with 3 part-of-speech tags: [cs-pos/VERB]() (2190; 6% instan
 
 2190 [cs-pos/VERB]() tokens (87% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (1937; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1806; 82%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1806; 82%), <tt><a href="Person.html">Person</a>=3</tt> (1806; 82%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1806; 82%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1803; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (1335; 61%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (1937; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1806; 82%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1806; 82%), <tt><a href="Person.html">Person</a>=3</tt> (1806; 82%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1806; 82%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1803; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (1335; 61%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -226,7 +226,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 109 [cs-pos/AUX]() tokens (64% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (86; 79%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (84; 77%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (58; 53%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (58; 53%), <tt><a href="Person.html">Person</a>=3</tt> (58; 53%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (58; 53%), <tt><a href="Number.html">Number</a>=Plur</tt> (57; 52%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (86; 79%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (84; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (58; 53%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (58; 53%), <tt><a href="Person.html">Person</a>=3</tt> (58; 53%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (58; 53%), <tt><a href="Number.html">Number</a>=Plur</tt> (57; 52%).
 
 `AUX` tokens may have the following values of `Voice`:
 

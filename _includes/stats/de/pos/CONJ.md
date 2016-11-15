@@ -4,16 +4,16 @@
 
 ## Treebank Statistics (UD_German)
 
-There are 1 `CONJ` lemmas (7%), 66 `CONJ` types (0%) and 8938 `CONJ` tokens (3%).
-Out of 15 observed tags, the rank of `CONJ` is: 5 in number of lemmas, 12 in number of types and 10 in number of tokens.
+There are 65 `CONJ` lemmas (0%), 66 `CONJ` types (0%) and 8938 `CONJ` tokens (3%).
+Out of 15 observed tags, the rank of `CONJ` is: 10 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
-The 10 most frequent `CONJ` lemmas: <em>_</em>
+The 10 most frequent `CONJ` lemmas: <em>und, oder, sowie, aber, als, sondern, wie, sowohl, doch, jedoch</em>
 
 The 10 most frequent `CONJ` types:  <em>und, oder, sowie, aber, als, sondern, wie, sowohl, doch, jedoch</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 53291, [PUNCT]() 39056, [DET]() 37037, [ADP]() 32362, [PROPN]() 32323, [VERB]() 25041, [ADJ]() 21279, [PRON]() 15077, [ADV]() 14911, [CONJ]() 8938, [NUM]() 7632, [AUX]() 6913, [PART]() 2202, [SCONJ]() 1810, [X]() 370)
+The 10 most frequent ambiguous lemmas: <em>und</em> ([CONJ]() 7259, [PROPN]() 75), <em>oder</em> ([CONJ]() 582, [PROPN]() 4, [NOUN]() 1), <em>sowie</em> ([CONJ]() 258, [SCONJ]() 1), <em>aber</em> ([ADV]() 229, [CONJ]() 211, [SCONJ]() 3, [ADJ]() 1), <em>als</em> ([ADP]() 1393, [SCONJ]() 150, [CONJ]() 126, [ADV]() 20, [PROPN]() 1, [PART]() 1), <em>sondern</em> ([CONJ]() 122, [ADV]() 2), <em>wie</em> ([ADP]() 246, [CONJ]() 104, [ADV]() 69, [SCONJ]() 56, [PART]() 2, [X]() 2, [PROPN]() 1), <em>doch</em> ([ADV]() 59, [CONJ]() 33, [SCONJ]() 3, [ADJ]() 1), <em>jedoch</em> ([ADV]() 241, [CONJ]() 19, [SCONJ]() 2), <em>noch</em> ([ADV]() 506, [CONJ]() 17)
 
-The 10 most frequent ambiguous types:  <em>und</em> ([CONJ]() 7222, [PROPN]() 75), <em>oder</em> ([CONJ]() 581, [PROPN]() 2), <em>sowie</em> ([CONJ]() 258, [SCONJ]() 1), <em>aber</em> ([ADV]() 223, [CONJ]() 178, [SCONJ]() 1, [ADJ]() 1), <em>als</em> ([ADP]() 1288, [CONJ]() 123, [SCONJ]() 86, [ADV]() 17, [PART]() 1, [PROPN]() 1), <em>sondern</em> ([CONJ]() 121, [ADV]() 2), <em>wie</em> ([ADP]() 234, [CONJ]() 103, [ADV]() 50, [SCONJ]() 45, [PRON]() 5, [PART]() 2, [X]() 2), <em>doch</em> ([ADV]() 39, [CONJ]() 20, [SCONJ]() 3), <em>jedoch</em> ([ADV]() 230, [CONJ]() 19, [SCONJ]() 2), <em>noch</em> ([ADV]() 492, [CONJ]() 17)
+The 10 most frequent ambiguous types:  <em>und</em> ([CONJ]() 7222, [PROPN]() 75), <em>oder</em> ([CONJ]() 581, [PROPN]() 2), <em>sowie</em> ([CONJ]() 258, [SCONJ]() 1), <em>aber</em> ([ADV]() 223, [CONJ]() 178, [ADJ]() 1, [SCONJ]() 1), <em>als</em> ([ADP]() 1288, [CONJ]() 123, [SCONJ]() 86, [ADV]() 17, [PART]() 1, [PROPN]() 1), <em>sondern</em> ([CONJ]() 121, [ADV]() 2), <em>wie</em> ([ADP]() 234, [CONJ]() 103, [ADV]() 50, [SCONJ]() 50, [PART]() 2, [X]() 2), <em>doch</em> ([ADV]() 39, [CONJ]() 20, [SCONJ]() 3), <em>jedoch</em> ([ADV]() 230, [CONJ]() 19, [SCONJ]() 2), <em>noch</em> ([ADV]() 492, [CONJ]() 17)
 
 
 * <em>und</em>
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  <em>und</em> ([CONJ]() 7222, [PROPN]() 75
 * <em>aber</em>
   * [ADV]() 223: <em>Zimmer sind <b>aber</b> eher in traditionellem Stil gehalten .</em>
   * [CONJ]() 178: <em>Er ging zwar noch nicht bei Fuß , <b>aber</b> die Leine hing durch .</em>
-  * [SCONJ]() 1: <em>Er war zwar ein Mann der politischen Tat , <b>aber</b> er wollte niemals die Kunst an das Tagesgeschäft , den widerwärtigen Kampf gegen das Widerwärtige , ausgeliefert wissen .</em>
   * [ADJ]() 1: <em>Das Jugendgefieder ähnelt dem Winterkleid , weist <b>aber</b> stärkere Braunanteile auf .</em>
+  * [SCONJ]() 1: <em>Er war zwar ein Mann der politischen Tat , <b>aber</b> er wollte niemals die Kunst an das Tagesgeschäft , den widerwärtigen Kampf gegen das Widerwärtige , ausgeliefert wissen .</em>
 * <em>als</em>
   * [ADP]() 1288: <em>Wir werden die Sonnendüne <b>als</b> Geheimtipp handeln .</em>
   * [CONJ]() 123: <em>Ganz anders <b>als</b> in Zepernick .</em>
@@ -44,8 +44,7 @@ The 10 most frequent ambiguous types:  <em>und</em> ([CONJ]() 7222, [PROPN]() 75
   * [ADP]() 234: <em>Die Hinterflügel weisen dieselbe Zeichnung <b>wie</b> die Vorderflügel auf .</em>
   * [CONJ]() 103: <em>Sie hingen zu dem Schluss hin <b>wie</b> ein nasser Sack an mir .</em>
   * [ADV]() 50: <em>Die Ausstattung ist ok und so <b>wie</b> man sich eine Wohnung vorstellt .</em>
-  * [SCONJ]() 45: <em>B &amp; S ist ein Car - Audio - Spezialist <b>wie</b> man ihn nur hier findet !</em>
-  * [PRON]() 5: <em>Wahrscheinlich wussten sie , <b>wie</b> man Feuer macht , sie hatten Behausungen und Kleidung .</em>
+  * [SCONJ]() 50: <em>B &amp; S ist ein Car - Audio - Spezialist <b>wie</b> man ihn nur hier findet !</em>
   * [PART]() 2: <em>Nicht <b>wie</b> das typische asiatische Essen , was man für europäer zubereitet . :-)</em>
   * [X]() 2: <em>Rospigliosi in den Kardinalsstand erhoben worden , <b>wie</b> auch Benedikt XIV .</em>
 * <em>doch</em>
@@ -62,9 +61,13 @@ The 10 most frequent ambiguous types:  <em>und</em> ([CONJ]() 7222, [PROPN]() 75
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 66.000000 (the average of all parts of speech is 3646.666667).
+The form / lemma ratio of `CONJ` is 1.015385 (the average of all parts of speech is 1.186521).
 
-The 1st highest number of forms (66) was observed with the lemma “_”: <em>&amp;, +, Nachdem, Zurück, aber, allerdings, als, and, andererseits, auch, beziehungsweise, bis, bzw, d.h., dafür, damit, daneben, dass, dazu, daß, denn, dennoch, desto, doch, ebenfalls, entweder, et, ferner, hatte, hingegen, insbesondere, je, jedoch, jeweils, noch, nur, nämlich, ob, obwohl, od, oder, ohne, respektive, so, sonder, sondern, soweit, sowie, sowohl, statt, trotzdem, u, um, und, unnd, uns, verbunden, weder, weil, weniger, wenn, weshalb, wie, wobei, woher, ﻿Um</em>.
+The 1st highest number of forms (2) was observed with the lemma “sondern”: <em>sonder, sondern</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “&amp;”: <em>&amp;</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “+”: <em>+</em>.
 
 `CONJ` does not occur with any features.
 

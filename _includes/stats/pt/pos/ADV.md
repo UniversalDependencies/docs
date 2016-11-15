@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1205, [PART]() 35,
   * [INTJ]() 3: <em>Não , <b>não</b> e <b>não</b></em>
   * [NOUN]() 2: <em>Apesar de evitar dar um <b>não</b> definitivo , Marise deixou claro que deve recusar o convite de Brizola .</em>
 * <em>mais</em>
-  * [ADV]() 672: <em>É <b>mais</b> eficiente do que por apenas quatro anos .</em>
+  * [ADV]() 672: <em>É <b>mais</b> eficiente de o que por apenas quatro anos .</em>
   * [DET]() 80: <em>Tabela ganha <b>mais</b> informações</em>
   * [PRON]() 36: <em>Houve <b>mais</b> que um olhar :</em>
   * [CONJ]() 4: <em>Cada obra consome 1,5 tonelada de aço ( US$ 6 mil ) <b>mais</b> US$ 10 mil de mão-de-obra .</em>
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1205, [PART]() 35,
   * [ADP]() 56: <em>« O senhor ministro interpretará esta sugestão <b>como</b> entender »" .</em>
   * [SCONJ]() 55: <em>Para eles fazerem publicidade privada , <b>como</b> se fosse um programa pago ?</em>
 * <em>já</em>
-  * [ADV]() 323: <em>O shopping West Plaza <b>já</b> começou sua promoção de Dia das Mães .</em>
+  * [ADV]() 323: <em>O shopping West Plaza <b>já</b> começou sua promoção de Dia de as Mães .</em>
   * [INTJ]() 1: <em>Já nem ouvem a voz de « <b>já</b> » de o instrutor-largador .</em>
 * <em>também</em>
   * [ADV]() 281: <em>Ela tem <b>também</b> textos com explicações sobre cada item pesquisado .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1205, [PART]() 35,
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.008368 (the average of all parts of speech is 1.447797).
+The form / lemma ratio of `ADV` is 1.008368 (the average of all parts of speech is 1.432674).
 
 The 1st highest number of forms (2) was observed with the lemma “assim”: <em>asim, assim</em>.
 
@@ -64,12 +64,12 @@ The 2nd highest number of forms (2) was observed with the lemma “bem”: <em>b
 
 The 3rd highest number of forms (2) was observed with the lemma “claramente”: <em>clara, claramente</em>.
 
-`ADV` occurs with 7 features: [pt-feat/PronType]() (2331; 26% instances), [pt-feat/NumType]() (1325; 15% instances), [pt-feat/Degree]() (490; 5% instances), [pt-feat/AdpType]() (319; 4% instances), [pt-feat/Gender]() (22; 0% instances), [pt-feat/Number]() (22; 0% instances), [pt-feat/Typo]() (3; 0% instances)
+`ADV` occurs with 5 features: [pt-feat/PronType]() (2331; 26% instances), [pt-feat/NumType]() (1325; 15% instances), [pt-feat/Degree]() (490; 5% instances), [pt-feat/AdpType]() (319; 4% instances), [pt-feat/Typo]() (3; 0% instances)
 
-`ADV` occurs with 14 feature-value pairs: `AdpType=Prep`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
+`ADV` occurs with 10 feature-value pairs: `AdpType=Prep`, `Degree=Cmp`, `Degree=Sup`, `NumType=Card`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
 
-`ADV` occurs with 19 feature combinations.
-The most frequent feature combination is `_` (6225 tokens).
+`ADV` occurs with 15 feature combinations.
+The most frequent feature combination is `_` (6241 tokens).
 Examples: <em>não, já, também, ontem, ainda, só, depois, agora, hoje, antes</em>
 
 
@@ -77,21 +77,116 @@ Examples: <em>não, já, também, ontem, ainda, só, depois, agora, hoje, antes<
 
 `ADV` nodes are attached to their parents using 22 different relations: [pt-dep/advmod]() (6362; 71% instances), [pt-dep/neg]() (1244; 14% instances), [pt-dep/case]() (256; 3% instances), [pt-dep/cc]() (217; 2% instances), [pt-dep/cop]() (203; 2% instances), [pt-dep/mark]() (152; 2% instances), [pt-dep/mwe]() (152; 2% instances), [pt-dep/conj]() (108; 1% instances), [pt-dep/advmod:emph]() (105; 1% instances), [pt-dep/root]() (50; 1% instances), [pt-dep/dobj]() (21; 0% instances), [pt-dep/xcomp]() (10; 0% instances), [pt-dep/compound]() (6; 0% instances), [pt-dep/dep]() (4; 0% instances), [pt-dep/nsubj]() (4; 0% instances), [pt-dep/acl]() (3; 0% instances), [pt-dep/ccomp]() (3; 0% instances), [pt-dep/name]() (3; 0% instances), [pt-dep/parataxis]() (3; 0% instances), [pt-dep/advcl]() (2; 0% instances), [pt-dep/iobj]() (2; 0% instances), [pt-dep/appos]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 14 different parts of speech: [VERB]() (5480; 61% instances), [NOUN]() (1314; 15% instances), [ADJ]() (978; 11% instances), [ADV]() (374; 4% instances), [NUM]() (211; 2% instances), [PRON]() (137; 2% instances), [PROPN]() (131; 1% instances), [ADP]() (116; 1% instances), [DET]() (63; 1% instances), [ROOT]() (50; 1% instances), [SYM]() (28; 0% instances), [AUX]() (18; 0% instances), [CONJ]() (6; 0% instances), [SCONJ]() (5; 0% instances)
+Parents of `ADV` nodes belong to 14 different parts of speech: [VERB]() (5495; 62% instances), [NOUN]() (1314; 15% instances), [ADJ]() (978; 11% instances), [ADV]() (374; 4% instances), [NUM]() (211; 2% instances), [PRON]() (137; 2% instances), [PROPN]() (131; 1% instances), [ADP]() (110; 1% instances), [DET]() (69; 1% instances), [ROOT]() (50; 1% instances), [SYM]() (28; 0% instances), [CONJ]() (6; 0% instances), [SCONJ]() (5; 0% instances), [AUX]() (3; 0% instances)
 
 6931 (78%) `ADV` nodes are leaves.
 
-1495 (17%) `ADV` nodes have one child.
+1478 (17%) `ADV` nodes have one child.
 
-343 (4%) `ADV` nodes have two children.
+354 (4%) `ADV` nodes have two children.
 
-142 (2%) `ADV` nodes have three or more children.
+148 (2%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 11.
 
-Children of `ADV` nodes are attached using 23 different relations: [pt-dep/nmod]() (594; 21% instances), [pt-dep/mwe]() (567; 20% instances), [pt-dep/case]() (455; 16% instances), [pt-dep/advmod]() (378; 14% instances), [pt-dep/punct]() (202; 7% instances), [pt-dep/nsubj]() (185; 7% instances), [pt-dep/advcl]() (129; 5% instances), [pt-dep/conj]() (67; 2% instances), [pt-dep/cc]() (66; 2% instances), [pt-dep/dobj]() (50; 2% instances), [pt-dep/cop]() (26; 1% instances), [pt-dep/acl]() (15; 1% instances), [pt-dep/mark]() (14; 1% instances), [pt-dep/dep]() (8; 0% instances), [pt-dep/csubj]() (5; 0% instances), [pt-dep/det]() (4; 0% instances), [pt-dep/neg]() (4; 0% instances), [pt-dep/nummod]() (4; 0% instances), [pt-dep/amod]() (3; 0% instances), [pt-dep/appos]() (3; 0% instances), [pt-dep/compound]() (3; 0% instances), [pt-dep/ccomp]() (2; 0% instances), [pt-dep/xcomp]() (2; 0% instances)
+Children of `ADV` nodes are attached using 23 different relations: [pt-dep/nmod]() (580; 21% instances), [pt-dep/mwe]() (562; 20% instances), [pt-dep/case]() (478; 17% instances), [pt-dep/advmod]() (374; 13% instances), [pt-dep/punct]() (202; 7% instances), [pt-dep/nsubj]() (185; 7% instances), [pt-dep/advcl]() (129; 5% instances), [pt-dep/conj]() (67; 2% instances), [pt-dep/cc]() (66; 2% instances), [pt-dep/dobj]() (50; 2% instances), [pt-dep/det]() (28; 1% instances), [pt-dep/cop]() (26; 1% instances), [pt-dep/acl]() (15; 1% instances), [pt-dep/mark]() (14; 0% instances), [pt-dep/dep]() (8; 0% instances), [pt-dep/csubj]() (5; 0% instances), [pt-dep/neg]() (4; 0% instances), [pt-dep/nummod]() (4; 0% instances), [pt-dep/amod]() (3; 0% instances), [pt-dep/appos]() (3; 0% instances), [pt-dep/compound]() (3; 0% instances), [pt-dep/ccomp]() (2; 0% instances), [pt-dep/xcomp]() (2; 0% instances)
 
-Children of `ADV` nodes belong to 15 different parts of speech: [ADP]() (891; 32% instances), [NOUN]() (680; 24% instances), [ADV]() (374; 13% instances), [PUNCT]() (202; 7% instances), [VERB]() (177; 6% instances), [PROPN]() (109; 4% instances), [PRON]() (82; 3% instances), [CONJ]() (78; 3% instances), [DET]() (75; 3% instances), [SCONJ]() (48; 2% instances), [ADJ]() (29; 1% instances), [PART]() (24; 1% instances), [NUM]() (14; 1% instances), [SYM]() (2; 0% instances), [INTJ]() (1; 0% instances)
+Children of `ADV` nodes belong to 15 different parts of speech: [ADP]() (891; 32% instances), [NOUN]() (675; 24% instances), [ADV]() (374; 13% instances), [PUNCT]() (202; 7% instances), [VERB]() (177; 6% instances), [PROPN]() (109; 4% instances), [DET]() (99; 4% instances), [PRON]() (87; 3% instances), [CONJ]() (78; 3% instances), [SCONJ]() (48; 2% instances), [ADJ]() (29; 1% instances), [PART]() (24; 1% instances), [NUM]() (14; 0% instances), [SYM]() (2; 0% instances), [INTJ]() (1; 0% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+There are 492 `ADV` lemmas (2%), 497 `ADV` types (2%) and 8709 `ADV` tokens (4%).
+Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
+
+The 10 most frequent `ADV` lemmas: <em>não, mais, já, também, ainda, ontem, como, só, quando, depois</em>
+
+The 10 most frequent `ADV` types:  <em>não, mais, já, também, ainda, ontem, como, só, quando, depois</em>
+
+The 10 most frequent ambiguous lemmas: <em>não</em> ([ADV]() 1356, [NOUN]() 26, [INTJ]() 9), <em>mais</em> ([ADV]() 690, [NOUN]() 34, [CONJ]() 4, [PRON]() 3, [ADP]() 2, [PROPN]() 1), <em>já</em> ([ADV]() 340, [ADP]() 20, [INTJ]() 1), <em>ontem</em> ([ADV]() 291, [NOUN]() 5), <em>como</em> ([ADP]() 423, [ADV]() 225, [NOUN]() 32, [SCONJ]() 24), <em>só</em> ([ADV]() 224, [ADJ]() 9), <em>quando</em> ([ADV]() 217, [ADP]() 7, [DET]() 1), <em>depois</em> ([ADV]() 208, [ADP]() 1), <em>muito</em> ([ADV]() 181, [DET]() 174, [PRON]() 52, [NOUN]() 3), <em>onde</em> ([ADV]() 172, [NOUN]() 5, [PROPN]() 1)
+
+The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1218, [NOUN]() 26, [INTJ]() 3), <em>mais</em> ([ADV]() 664, [DET]() 69, [NOUN]() 34, [PRON]() 19, [CONJ]() 4, [ADP]() 2, [PROPN]() 1), <em>já</em> ([ADV]() 303, [ADP]() 20, [INTJ]() 1), <em>ontem</em> ([ADV]() 271, [NOUN]() 5), <em>como</em> ([ADP]() 403, [ADV]() 201, [NOUN]() 32, [SCONJ]() 10), <em>só</em> ([ADV]() 193, [ADJ]() 8), <em>quando</em> ([ADV]() 166, [ADP]() 4, [DET]() 1), <em>depois</em> ([ADV]() 149, [ADP]() 1), <em>muito</em> ([ADV]() 173, [DET]() 25, [PRON]() 10, [NOUN]() 3), <em>onde</em> ([ADV]() 168, [NOUN]() 5, [PROPN]() 1)
+
+
+* <em>não</em>
+  * [ADV]() 1218: <em>Reis <b>não</b> quis dizer se também abandonará Esperidião Amin .</em>
+  * [NOUN]() 26: <em>Já <b>não</b> há o império de o mal para combater .</em>
+  * [INTJ]() 3: <em>Eis quando senão um jipe de os Comandos deu o <b>não</b> dito por dito .</em>
+* <em>mais</em>
+  * [ADV]() 664: <em>Sempre tivemos canções <b>mais</b> lentas .</em>
+  * [DET]() 69: <em>O médico negou que esteja tratando <b>mais</b> alguém .</em>
+  * [NOUN]() 34: <em>Mas o futuro de que fala é <b>mais</b> ou menos próximo .</em>
+  * [PRON]() 19: <em>Houve <b>mais</b> que um olhar :</em>
+  * [CONJ]() 4: <em>Cada obra consome 1,5 tonelada de aço ( US$ 6 mil ) <b>mais</b> US$ 10 mil de mão-de-obra .</em>
+  * [ADP]() 2: <em>O maior aumento aconteceu em direito ( <b>mais</b> 366 candidatos ) e a maior queda , em engenharia ( menos 980 ) .</em>
+  * [PROPN]() 1: <em>De a série Soluções , o « PC é <b>mais</b> que uma máquina de escrever » é o lançamento de a Ariadne ( 132 págs . )</em>
+* <em>já</em>
+  * [ADV]() 303: <em>Importantes reforços foram <b>já</b> enviados para a zona .</em>
+  * [ADP]() 20: <em>Agora , dizem os investigadores , <b>já</b> não restam dúvidas .</em>
+  * [INTJ]() 1: <em>Já nem ouvem a voz de « <b>já</b> » de o instrutor-largador .</em>
+* <em>ontem</em>
+  * [ADV]() 271: <em>O volume de negócios de a sessão de <b>ontem</b> 31,2 milhões de contos .</em>
+  * [NOUN]() 5: <em>Depois de o treino , os jogadores voltam a o Lord Hotel , onde estão concentrados desde a noite de <b>ontem</b> .</em>
+* <em>como</em>
+  * [ADP]() 403: <em>Até em Hollywood , há pessoas <b>como</b> Sonia Braga e Andy Garcia .</em>
+  * [ADV]() 201: <em>É <b>como</b> se estivesse lá » , acrescenta Rodrigo .</em>
+  * [NOUN]() 32: <em>Tal <b>como</b> a rainha Isabel II , John Major limitou- se a acompanhar os factos .</em>
+  * [SCONJ]() 10: <em>Depois , <b>como</b> ele nunca mais saía , comecei a espreitar .</em>
+* <em>só</em>
+  * [ADV]() 193: <em>Em Lisboa , <b>só</b> S. Pedro pode pregar uma partida</em>
+  * [ADJ]() 8: <em>A suspensão traseira é progressiva com um <b>só</b> amortecedor Boge .</em>
+* <em>quando</em>
+  * [ADV]() 166: <em>Prevê que isso aconteça em dez dias , <b>quando</b> seu pai voltar a São Paulo .</em>
+  * [ADP]() 4: <em>O povo , assim , é mais destinatário de um discurso político , que ele mesmo não profere , <b>quando</b> muito escuta , que seu emissor ou senhor .</em>
+  * [DET]() 1: <em>FHC e Malan não esclareceram , até o momento , quanto o governo gastou e <b>quando</b> foram comprados os papéis .</em>
+* <em>depois</em>
+  * [ADV]() 149: <em>Parte- se <b>depois</b> para o debate .</em>
+  * [ADP]() 1: <em>A assessoria de imprensa de a Secretaria de Vias Públicas disse ontem que a prefeitura só vai se manifestar <b>depois</b> que for notificada por a Justiça .</em>
+* <em>muito</em>
+  * [ADV]() 173: <em>« Eu torci <b>muito</b> por você , viu ? » , disse Itamar a Fu .</em>
+  * [DET]() 25: <em>Falam inglês <b>muito</b> bem , não parecem ter uma grande cultura própria .</em>
+  * [PRON]() 10: <em>A equipa está a mostrar progressos , mas ainda há <b>muito</b> para fazer . »</em>
+  * [NOUN]() 3: <em>O povo , assim , é mais destinatário de um discurso político , que ele mesmo não profere , quando <b>muito</b> escuta , que seu emissor ou senhor .</em>
+* <em>onde</em>
+  * [ADV]() 168: <em>Assim , a o menos sabe- se <b>onde</b> e com quem .</em>
+  * [NOUN]() 5: <em>Ela teve ação prolongada como dilatadora de os brônquios ( tubo por <b>onde</b> o ar passa a os pulmões ) .</em>
+  * [PROPN]() 1: <em>« O tema de a Expo-98 , os Oceanos , será também abordado em a Expo-2001 , em Yamaguchi , cujo lema geral será ' O Futuro e o século XXI ' , ou , dito de uma forma mais poética e em uma tradução mais livre de o japonês , « Rumo a um futuro <b>onde</b> brilhe a vida » .</em>
+
+## Morphology
+
+The form / lemma ratio of `ADV` is 1.010163 (the average of all parts of speech is 1.449059).
+
+The 1st highest number of forms (2) was observed with the lemma “assim”: <em>asim, assim</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “bem”: <em>bem, melhor</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “claramente”: <em>clara, claramente</em>.
+
+`ADV` does not occur with any features.
+
+
+## Relations
+
+`ADV` nodes are attached to their parents using 16 different relations: [pt-dep/advmod]() (6912; 79% instances), [pt-dep/neg]() (1336; 15% instances), [pt-dep/mark]() (198; 2% instances), [pt-dep/cc]() (74; 1% instances), [pt-dep/root]() (70; 1% instances), [pt-dep/conj]() (47; 1% instances), [pt-dep/dobj]() (23; 0% instances), [pt-dep/mwe]() (13; 0% instances), [pt-dep/xcomp]() (12; 0% instances), [pt-dep/parataxis]() (9; 0% instances), [pt-dep/acl:relcl]() (3; 0% instances), [pt-dep/ccomp]() (3; 0% instances), [pt-dep/punct]() (3; 0% instances), [pt-dep/advcl]() (2; 0% instances), [pt-dep/csubj]() (2; 0% instances), [pt-dep/nsubj]() (2; 0% instances)
+
+Parents of `ADV` nodes belong to 14 different parts of speech: [VERB]() (5600; 64% instances), [NOUN]() (1211; 14% instances), [ADJ]() (916; 11% instances), [ADV]() (390; 4% instances), [NUM]() (236; 3% instances), [PRON]() (122; 1% instances), [PROPN]() (105; 1% instances), [ROOT]() (70; 1% instances), [DET]() (24; 0% instances), [SCONJ]() (20; 0% instances), [SYM]() (10; 0% instances), [AUX]() (2; 0% instances), [PUNCT]() (2; 0% instances), [ADP]() (1; 0% instances)
+
+6523 (75%) `ADV` nodes are leaves.
+
+1627 (19%) `ADV` nodes have one child.
+
+365 (4%) `ADV` nodes have two children.
+
+194 (2%) `ADV` nodes have three or more children.
+
+The highest child degree of a `ADV` node is 10.
+
+Children of `ADV` nodes are attached using 29 different relations: [pt-dep/punct]() (878; 28% instances), [pt-dep/nmod]() (868; 28% instances), [pt-dep/case]() (409; 13% instances), [pt-dep/advmod]() (349; 11% instances), [pt-dep/advcl]() (144; 5% instances), [pt-dep/mwe]() (65; 2% instances), [pt-dep/cc]() (59; 2% instances), [pt-dep/cop]() (58; 2% instances), [pt-dep/conj]() (49; 2% instances), [pt-dep/nsubj]() (47; 2% instances), [pt-dep/dep]() (37; 1% instances), [pt-dep/neg]() (32; 1% instances), [pt-dep/nmod:npmod]() (30; 1% instances), [pt-dep/xcomp]() (13; 0% instances), [pt-dep/ccomp]() (12; 0% instances), [pt-dep/parataxis]() (11; 0% instances), [pt-dep/mark]() (10; 0% instances), [pt-dep/det]() (8; 0% instances), [pt-dep/acl]() (7; 0% instances), [pt-dep/amod]() (5; 0% instances), [pt-dep/aux]() (3; 0% instances), [pt-dep/csubj]() (3; 0% instances), [pt-dep/dobj]() (3; 0% instances), [pt-dep/appos]() (2; 0% instances), [pt-dep/nmod:tmod]() (2; 0% instances), [pt-dep/acl:relcl]() (1; 0% instances), [pt-dep/dislocated]() (1; 0% instances), [pt-dep/iobj]() (1; 0% instances), [pt-dep/nummod]() (1; 0% instances)
+
+Children of `ADV` nodes belong to 14 different parts of speech: [PUNCT]() (878; 28% instances), [NOUN]() (735; 24% instances), [ADP]() (457; 15% instances), [ADV]() (390; 13% instances), [VERB]() (265; 9% instances), [PROPN]() (107; 3% instances), [PRON]() (74; 2% instances), [SCONJ]() (68; 2% instances), [CONJ]() (57; 2% instances), [ADJ]() (33; 1% instances), [DET]() (28; 1% instances), [NUM]() (12; 0% instances), [AUX]() (3; 0% instances), [SYM]() (1; 0% instances)
 
 
 
@@ -108,7 +203,7 @@ The 10 most frequent `ADV` types:  <em>não, mais, também, já, ainda, muito, o
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 57316, [ADP]() 51928, [PUNCT]() 42033, [PROPN]() 32948, [VERB]() 29700, [DET]() 26122, [ADJ]() 15107, [CONJ]() 10984, [ADV]() 9773, [NUM]() 8491, [PRON]() 7392, [AUX]() 5242, [PART]() 748, [X]() 539)
 
-The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1355, [NOUN]() 2), <em>mais</em> ([ADV]() 828, [DET]() 114, [CONJ]() 5), <em>ainda</em> ([ADV]() 400, [NOUN]() 1), <em>muito</em> ([ADV]() 248, [DET]() 22, [PRON]() 4), <em>depois</em> ([ADV]() 176, [NOUN]() 1, [NUM]() 1), <em>além</em> ([ADV]() 114, [NOUN]() 8), <em>hoje</em> ([ADV]() 144, [NOUN]() 2), <em>assim</em> ([ADV]() 104, [PROPN]() 1, [CONJ]() 1), <em>bem</em> ([ADV]() 140, [NOUN]() 6, [PART]() 2), <em>só</em> ([ADV]() 120, [ADJ]() 4)
+The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1355, [NOUN]() 2), <em>mais</em> ([ADV]() 828, [DET]() 114, [CONJ]() 5), <em>ainda</em> ([ADV]() 400, [NOUN]() 1), <em>muito</em> ([ADV]() 248, [DET]() 22, [PRON]() 4), <em>depois</em> ([ADV]() 176, [NUM]() 1, [NOUN]() 1), <em>além</em> ([ADV]() 114, [NOUN]() 8), <em>hoje</em> ([ADV]() 144, [NOUN]() 2), <em>assim</em> ([ADV]() 104, [PROPN]() 1, [CONJ]() 1), <em>bem</em> ([ADV]() 140, [NOUN]() 6, [PART]() 2), <em>só</em> ([ADV]() 120, [ADJ]() 4)
 
 
 * <em>não</em>
@@ -127,8 +222,8 @@ The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1355, [NOUN]() 2),
   * [PRON]() 4: <em>Se têm três ou quatro dias é <b>muito</b> .</em>
 * <em>depois</em>
   * [ADV]() 176: <em>Dois anos <b>depois</b> , ele foi preso -- e eu nunca o vi novamente .</em>
-  * [NOUN]() 1: <em>WASHINGTON -- Foi um gesto discreto , que poderia passar despercebido , mas que marcou um antes e um <b>depois</b> no Pentágono .</em>
   * [NUM]() 1: <em>Garotinho tem acusado Cabral de , em um primeiro momento , boicotar a manifestação desta segunda - feira e , <b>depois</b> , querer " passar por líder da passeata " .</em>
+  * [NOUN]() 1: <em>WASHINGTON -- Foi um gesto discreto , que poderia passar despercebido , mas que marcou um antes e um <b>depois</b> no Pentágono .</em>
 * <em>além</em>
   * [ADV]() 114: <em>Nada demais <b>além</b> disso .</em>
   * [NOUN]() 8: <em>O filme estreia no Festival de Veneza 2012 , <b>além</b> de também fazer parte do Festival de Toronto 2012 .</em>

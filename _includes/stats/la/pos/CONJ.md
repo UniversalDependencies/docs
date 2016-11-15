@@ -11,9 +11,9 @@ The 10 most frequent `CONJ` lemmas: <em>et1, que1, atque1, sed1, et, aut1, -que,
 
 The 10 most frequent `CONJ` types:  <em>et, que, sed, atque, aut, ac, c, -que, ne, autem</em>
 
-The 10 most frequent ambiguous lemmas: <em>et1</em> ([CONJ]() 1470, [ADV]() 18), <em>que1</em> ([CONJ]() 641, [X]() 10, [SCONJ]() 1), <em>atque1</em> ([CONJ]() 237, [SCONJ]() 1, [ADV]() 1), <em>autem1</em> ([CONJ]() 47, [SCONJ]() 1), <em>enim1</em> ([CONJ]() 36, [ADV]() 13, [SCONJ]() 11), <em>ne1</em> ([ADV]() 171, [SCONJ]() 69, [CONJ]() 33), <em>nam1</em> ([CONJ]() 31, [SCONJ]() 8, [ADV]() 3), <em>etiam1</em> ([ADV]() 70, [CONJ]() 21), <em>comma1</em> ([PUNCT]() 2926, [CONJ]() 18, [X]() 1), <em>an1</em> ([CONJ]() 16, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>et1</em> ([CONJ]() 1470, [ADV]() 18), <em>que1</em> ([CONJ]() 641, [X]() 10, [SCONJ]() 1), <em>atque1</em> ([CONJ]() 237, [ADV]() 1, [SCONJ]() 1), <em>autem1</em> ([CONJ]() 47, [SCONJ]() 1), <em>enim1</em> ([CONJ]() 36, [ADV]() 13, [SCONJ]() 11), <em>ne1</em> ([ADV]() 171, [SCONJ]() 69, [CONJ]() 33), <em>nam1</em> ([CONJ]() 31, [SCONJ]() 8, [ADV]() 3), <em>etiam1</em> ([ADV]() 70, [CONJ]() 21), <em>comma1</em> ([PUNCT]() 2926, [CONJ]() 18, [X]() 1), <em>an1</em> ([CONJ]() 16, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>et</em> ([CONJ]() 1573, [ADV]() 18), <em>que</em> ([CONJ]() 592, [X]() 1, [SCONJ]() 1), <em>ac</em> ([CONJ]() 93, [SCONJ]() 1, [ADV]() 1), <em>c</em> ([CONJ]() 87, [X]() 9), <em>ne</em> ([ADV]() 155, [SCONJ]() 66, [CONJ]() 54, [INTJ]() 4), <em>autem</em> ([CONJ]() 55, [SCONJ]() 1), <em>etiam</em> ([ADV]() 70, [CONJ]() 42), <em>nam</em> ([CONJ]() 33, [SCONJ]() 7, [ADV]() 3), <em>enim</em> ([CONJ]() 39, [ADV]() 13, [SCONJ]() 11), <em>,</em> ([PUNCT]() 3593, [CONJ]() 18, [NOUN]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>et</em> ([CONJ]() 1573, [ADV]() 18), <em>que</em> ([CONJ]() 592, [X]() 1, [SCONJ]() 1), <em>ac</em> ([CONJ]() 93, [SCONJ]() 1, [ADV]() 1), <em>c</em> ([CONJ]() 87, [X]() 9), <em>ne</em> ([ADV]() 155, [SCONJ]() 66, [CONJ]() 54, [INTJ]() 4), <em>autem</em> ([CONJ]() 55, [SCONJ]() 1), <em>etiam</em> ([ADV]() 70, [CONJ]() 42), <em>nam</em> ([CONJ]() 33, [SCONJ]() 7, [ADV]() 3), <em>enim</em> ([CONJ]() 39, [ADV]() 13, [SCONJ]() 11), <em>,</em> ([PUNCT]() 3593, [CONJ]() 18, [X]() 1, [NOUN]() 1)
 
 
 * <em>et</em>
@@ -52,8 +52,8 @@ The 10 most frequent ambiguous types:  <em>et</em> ([CONJ]() 1573, [ADV]() 18), 
 * <em>,</em>
   * [PUNCT]() 3593: <em>Curris <b>,</b> stupes <b>,</b> satagis <b>,</b> tanquam mus in matella</em>
   * [CONJ]() 18: <em>lana , credrae , piper <b>,</b> lacte gallinaceum si quaesieris , invenies</em>
-  * [NOUN]() 1: <em>Natus est Augustus M. Tullio Cicerone <b>,</b> C. Antonio conss. VIIII . Kal. Octob. paulo ante solis exortum , regione Palati ad Capita bubula , ubi nunc sacrarium habet , aliquanto post quam excessit constitutum .</em>
   * [X]() 1: <em>paene de lectis deiecti sumus <b>,</b> adeo totum triclinium familia occupaverat</em>
+  * [NOUN]() 1: <em>Natus est Augustus M. Tullio Cicerone <b>,</b> C. Antonio conss. VIIII . Kal. Octob. paulo ante solis exortum , regione Palati ad Capita bubula , ubi nunc sacrarium habet , aliquanto post quam excessit constitutum .</em>
 
 ## Morphology
 
@@ -101,7 +101,7 @@ The 10 most frequent `CONJ` lemmas: <em>et, autem, sed, vel, nec, neque, aut, si
 
 The 10 most frequent `CONJ` types:  <em>et, autem, sed, vel, nec, neque, aut, sive, ac, seu</em>
 
-The 10 most frequent ambiguous lemmas: <em>et</em> ([CONJ]() 6986, [SCONJ]() 1), <em>sed</em> ([CONJ]() 2241, [SCONJ]() 1, [ADV]() 1), <em>vel</em> ([CONJ]() 1274, [SCONJ]() 2), <em>nec</em> ([CONJ]() 530, [ADV]() 8), <em>sive</em> ([CONJ]() 175, [ADV]() 1), <em>tum</em> ([CONJ]() 25, [ADV]() 13), <em>quam</em> ([SCONJ]() 444, [CONJ]() 23, [X]() 1), <em>scilicet</em> ([ADV]() 379, [CONJ]() 2), <em>sicut</em> ([SCONJ]() 2152, [CONJ]() 1), <em>tunc</em> ([ADV]() 79, [CONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>et</em> ([CONJ]() 6986, [SCONJ]() 1), <em>sed</em> ([CONJ]() 2241, [ADV]() 1, [SCONJ]() 1), <em>vel</em> ([CONJ]() 1274, [SCONJ]() 2), <em>nec</em> ([CONJ]() 530, [ADV]() 8), <em>sive</em> ([CONJ]() 175, [ADV]() 1), <em>tum</em> ([CONJ]() 25, [ADV]() 13), <em>quam</em> ([SCONJ]() 444, [CONJ]() 23, [X]() 1), <em>scilicet</em> ([ADV]() 379, [CONJ]() 2), <em>sicut</em> ([SCONJ]() 2152, [CONJ]() 1), <em>tunc</em> ([ADV]() 79, [CONJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>et</em> ([CONJ]() 6986, [SCONJ]() 1), <em>sed</em> ([CONJ]() 2241, [SCONJ]() 1, [ADV]() 1), <em>vel</em> ([CONJ]() 1274, [SCONJ]() 2), <em>nec</em> ([CONJ]() 530, [ADV]() 8), <em>sive</em> ([CONJ]() 148, [ADV]() 1), <em>tum</em> ([CONJ]() 25, [ADV]() 13), <em>quam</em> ([SCONJ]() 444, [PRON]() 385, [CONJ]() 23, [X]() 1), <em>scilicet</em> ([ADV]() 379, [CONJ]() 2), <em>sicut</em> ([SCONJ]() 2148, [CONJ]() 1), <em>tunc</em> ([ADV]() 79, [CONJ]() 1)
 

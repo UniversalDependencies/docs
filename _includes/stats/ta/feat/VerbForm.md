@@ -66,7 +66,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Pass</tt></td><td>பட்டன</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Pass</tt></td><td>படுகின்றன</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Negative.html">Negative</a>=Pos|<a href="Voice.html">Voice</a>=Pass</tt></td><td>பட்டால்</td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Negative.html">Negative</a>=Pos|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>ப்பட, படவ், பட, படக், பட்ட</td><td>பட்ட், பட்டு, ப்பட்ட்</td><td></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Pos|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>ப்பட, படவ், பட, பட்ட, படக்</td><td>பட்ட், பட்டு, ப்பட்ட்</td><td></td></tr>
 </table>
 
 ### `ADJ`

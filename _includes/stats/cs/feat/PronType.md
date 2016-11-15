@@ -115,7 +115,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 11088 [cs-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (9695; 87%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (9529; 86%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (7202; 65%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7202; 65%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (5809; 52%), <tt><a href="Number.html">Number</a>=Sing</tt> (5772; 52%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (9695; 87%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (9529; 86%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7202; 65%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (7202; 65%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (5809; 52%), <tt><a href="Number.html">Number</a>=Sing</tt> (5772; 52%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -133,7 +133,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 46 [cs-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (46; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (46; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (46; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (46; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -154,8 +154,8 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/cc.html">cc</a>]--> PRON</tt> (5; 71%),
 <tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (3; 100%),
 <tt>DET --[<a href="../dep/cc.html">cc</a>]--> PRON</tt> (2; 100%),
-<tt>PRON --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (1; 100%),
-<tt>DET --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (1; 100%).
+<tt>DET --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (1; 100%).
 
 
 

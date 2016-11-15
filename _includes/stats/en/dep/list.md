@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-797 nodes (0%) are attached to their parents as `list`.
+793 nodes (0%) are attached to their parents as `list`.
 
-793 instances of `list` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.07528230865747.
+789 instances of `list` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.10088272383354.
 
-The following 28 pairs of parts of speech are connected with `list`: [en-pos/PROPN]()-[en-pos/NOUN]() (215; 27% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (181; 23% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (106; 13% instances), [en-pos/PROPN]()-[en-pos/NUM]() (99; 12% instances), [en-pos/PROPN]()-[en-pos/X]() (72; 9% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (15; 2% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (14; 2% instances), [en-pos/NOUN]()-[en-pos/SYM]() (14; 2% instances), [en-pos/NOUN]()-[en-pos/NUM]() (13; 2% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (10; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (9; 1% instances), [en-pos/ADJ]()-[en-pos/VERB]() (6; 1% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (5; 1% instances), [en-pos/NOUN]()-[en-pos/X]() (5; 1% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (5; 1% instances), [en-pos/PROPN]()-[en-pos/SYM]() (5; 1% instances), [en-pos/X]()-[en-pos/X]() (4; 1% instances), [en-pos/VERB]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/X]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (2; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/VERB]()-[en-pos/X]() (2; 0% instances), [en-pos/X]()-[en-pos/NUM]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/X]() (1; 0% instances), [en-pos/ADV]()-[en-pos/X]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NUM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `list`: [en-pos/PROPN]()-[en-pos/NOUN]() (215; 27% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (177; 22% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (106; 13% instances), [en-pos/PROPN]()-[en-pos/NUM]() (99; 12% instances), [en-pos/PROPN]()-[en-pos/X]() (72; 9% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (15; 2% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (14; 2% instances), [en-pos/NOUN]()-[en-pos/SYM]() (14; 2% instances), [en-pos/NOUN]()-[en-pos/NUM]() (13; 2% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (10; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (9; 1% instances), [en-pos/ADJ]()-[en-pos/VERB]() (6; 1% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (5; 1% instances), [en-pos/NOUN]()-[en-pos/X]() (5; 1% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (5; 1% instances), [en-pos/PROPN]()-[en-pos/SYM]() (5; 1% instances), [en-pos/X]()-[en-pos/X]() (4; 1% instances), [en-pos/VERB]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/X]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (2; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/VERB]()-[en-pos/X]() (2; 0% instances), [en-pos/X]()-[en-pos/NUM]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/X]() (1; 0% instances), [en-pos/ADV]()-[en-pos/X]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NUM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -74,7 +74,7 @@ This relation is universal.
 20 instances of `list` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.85.
 
-The following 6 pairs of parts of speech are connected with `list`: [en-pos/NOUN]()-[en-pos/NOUN]() (10; 50% instances), [en-pos/VERB]()-[en-pos/VERB]() (4; 20% instances), [en-pos/NOUN]()-[en-pos/VERB]() (2; 10% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (2; 10% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 5% instances), [en-pos/NOUN]()-[en-pos/X]() (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `list`: [en-pos/NOUN]()-[en-pos/NOUN]() (9; 45% instances), [en-pos/VERB]()-[en-pos/VERB]() (4; 20% instances), [en-pos/NOUN]()-[en-pos/VERB]() (2; 10% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (2; 10% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 5% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 5% instances), [en-pos/NOUN]()-[en-pos/X]() (1; 5% instances).
 
 
 ~~~ conllu
@@ -88,7 +88,7 @@ The following 6 pairs of parts of speech are connected with `list`: [en-pos/NOUN
 3	_	_	NOUN	NN	_	4	compound	_	_
 4	_	_	NOUN	NN	_	5	nsubj	_	_
 5	_	_	VERB	VB	_	0	root	_	_
-6	_	_	NOUN	NN	_	5	dobj	_	_
+6	_	_	PRON	NN	_	5	dobj	_	_
 7	_	_	PART	TO	_	8	mark	_	_
 8	_	_	VERB	VB	_	6	acl	_	_
 9	_	_	PROPN	NNP	_	8	dobj	_	_

@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: <em>сь, тъ, онъ, мъногъ, бож�
 
 The 10 most frequent `ADJ` types:  <em>онъ, си, тъ, се, сь, сего, они, мъноѕи, сихъ, вьсѣкъ</em>
 
-The 10 most frequent ambiguous lemmas: <em>сь</em> ([ADJ]() 643, [DET]() 2, [INTJ]() 1), <em>тъ</em> ([ADJ]() 348, [DET]() 1), <em>дроугъ</em> ([ADJ]() 73, [PRON]() 39, [NOUN]() 25), <em>самъ</em> ([ADJ]() 65, [PRON]() 7), <em>добрѣ</em> ([ADV]() 11, [ADJ]() 6), <em>цѣсарь</em> ([NOUN]() 55, [ADJ]() 4), <em>каковъ</em> ([ADJ]() 3, [PRON]() 1), <em>прѣлюбодѣи</em> ([ADJ]() 2, [NOUN]() 1), <em>богъ</em> ([NOUN]() 147, [ADJ]() 1), <em>болѥ</em> ([ADV]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>сь</em> ([ADJ]() 643, [DET]() 2, [INTJ]() 1), <em>тъ</em> ([ADJ]() 348, [DET]() 1), <em>дроугъ</em> ([ADJ]() 73, [PRON]() 39, [NOUN]() 25), <em>самъ</em> ([ADJ]() 65, [PRON]() 7), <em>добрѣ</em> ([ADV]() 11, [ADJ]() 6), <em>цѣсарь</em> ([NOUN]() 55, [ADJ]() 4), <em>каковъ</em> ([ADJ]() 3, [PRON]() 1), <em>прѣлюбодѣи</em> ([ADJ]() 2, [NOUN]() 1), <em>богъ</em> ([NOUN]() 147, [ADJ]() 1), <em>болѥ</em> ([ADJ]() 1, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  <em>си</em> ([ADJ]() 123, [PRON]() 5, [VERB]() 1), <em>се</em> ([INTJ]() 144, [ADJ]() 114), <em>сь</em> ([ADJ]() 113, [DET]() 2, [ADP]() 1), <em>самъ</em> ([ADJ]() 44, [PRON]() 6), <em>ти</em> ([PRON]() 55, [ADJ]() 29), <em>тꙑ</em> ([PRON]() 109, [ADJ]() 20), <em>съ</em> ([ADP]() 319, [ADJ]() 18), <em>дроугꙑ</em> ([ADJ]() 17, [NOUN]() 9), <em>вьсѣко</em> ([ADJ]() 13, [ADV]() 1), <em>то</em> ([ADJ]() 13, [ADV]() 2)
 

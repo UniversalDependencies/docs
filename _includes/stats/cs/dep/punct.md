@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-220977 nodes (15%) are attached to their parents as `punct`.
+220974 nodes (15%) are attached to their parents as `punct`.
 
-156734 instances of `punct` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.24892635885183.
+156731 instances of `punct` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.24895236543666.
 
-The following 18 pairs of parts of speech are connected with `punct`: [cs-pos/VERB]()-[cs-pos/PUNCT]() (126083; 57% instances), [cs-pos/NOUN]()-[cs-pos/PUNCT]() (40359; 18% instances), [cs-pos/PROPN]()-[cs-pos/PUNCT]() (19518; 9% instances), [cs-pos/ADJ]()-[cs-pos/PUNCT]() (17741; 8% instances), [cs-pos/NUM]()-[cs-pos/PUNCT]() (11542; 5% instances), [cs-pos/ADV]()-[cs-pos/PUNCT]() (2977; 1% instances), [cs-pos/PRON]()-[cs-pos/PUNCT]() (1657; 1% instances), [cs-pos/PART]()-[cs-pos/PUNCT]() (515; 0% instances), [cs-pos/PUNCT]()-[cs-pos/PUNCT]() (158; 0% instances), [cs-pos/DET]()-[cs-pos/PUNCT]() (129; 0% instances), [cs-pos/CONJ]()-[cs-pos/PUNCT]() (73; 0% instances), [cs-pos/SYM]()-[cs-pos/PUNCT]() (72; 0% instances), [cs-pos/INTJ]()-[cs-pos/PUNCT]() (68; 0% instances), [cs-pos/ADP]()-[cs-pos/PUNCT]() (40; 0% instances), [cs-pos/SCONJ]()-[cs-pos/PUNCT]() (31; 0% instances), [cs-pos/X]()-[cs-pos/PUNCT]() (11; 0% instances), [cs-pos/AUX]()-[cs-pos/PUNCT]() (2; 0% instances), [cs-pos/NOUN]()-[cs-pos/PROPN]() (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `punct`: [cs-pos/VERB]()-[cs-pos/PUNCT]() (126081; 57% instances), [cs-pos/NOUN]()-[cs-pos/PUNCT]() (40358; 18% instances), [cs-pos/PROPN]()-[cs-pos/PUNCT]() (19518; 9% instances), [cs-pos/ADJ]()-[cs-pos/PUNCT]() (17741; 8% instances), [cs-pos/NUM]()-[cs-pos/PUNCT]() (11542; 5% instances), [cs-pos/ADV]()-[cs-pos/PUNCT]() (2977; 1% instances), [cs-pos/PRON]()-[cs-pos/PUNCT]() (1657; 1% instances), [cs-pos/PART]()-[cs-pos/PUNCT]() (515; 0% instances), [cs-pos/PUNCT]()-[cs-pos/PUNCT]() (158; 0% instances), [cs-pos/DET]()-[cs-pos/PUNCT]() (129; 0% instances), [cs-pos/CONJ]()-[cs-pos/PUNCT]() (73; 0% instances), [cs-pos/SYM]()-[cs-pos/PUNCT]() (72; 0% instances), [cs-pos/INTJ]()-[cs-pos/PUNCT]() (68; 0% instances), [cs-pos/ADP]()-[cs-pos/PUNCT]() (40; 0% instances), [cs-pos/SCONJ]()-[cs-pos/PUNCT]() (31; 0% instances), [cs-pos/X]()-[cs-pos/PUNCT]() (11; 0% instances), [cs-pos/AUX]()-[cs-pos/PUNCT]() (2; 0% instances), [cs-pos/NOUN]()-[cs-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -13,7 +13,7 @@ The 10 most frequent `NUM` types:  <em>septem, quattuor, decem, centum, duodecim
 
 The 10 most frequent ambiguous lemmas: <em>mille1</em> ([NUM]() 21, [NOUN]() 3, [ADJ]() 1), <em>unus</em> ([NUM]() 8, [ADV]() 1), <em>duo</em> ([NUM]() 6, [ADJ]() 1), <em>primus</em> ([NUM]() 6, [ADV]() 3), <em>quinque1</em> ([NUM]() 5, [X]() 2), <em>secundus1</em> ([ADJ]() 10, [NUM]() 4, [ADP]() 3), <em>decimus1</em> ([NUM]() 3, [ADJ]() 1), <em>bis</em> ([ADV]() 3, [NUM]() 2), <em>tot1</em> ([ADV]() 4, [NUM]() 2, [NOUN]() 1, [ADJ]() 1), <em>C1</em> ([X]() 12, [NOUN]() 2, [NUM]() 1)
 
-The 10 most frequent ambiguous types:  <em>quinque</em> ([NUM]() 4, [X]() 2), <em>tribus</em> ([NUM]() 5, [NOUN]() 1), <em>milia</em> ([NUM]() 4, [NOUN]() 2, [ADJ]() 1), <em>duobus</em> ([ADJ]() 7, [NUM]() 3), <em>primus</em> ([ADJ]() 10, [NUM]() 3), <em>singulas</em> ([NUM]() 3, [ADJ]() 2), <em>unus</em> ([ADJ]() 11, [NUM]() 2), <em>bis</em> ([ADV]() 9, [NUM]() 1), <em>secundum</em> ([ADP]() 7, [NUM]() 2, [ADJ]() 2), <em>singulos</em> ([NUM]() 2, [ADJ]() 2)
+The 10 most frequent ambiguous types:  <em>quinque</em> ([NUM]() 4, [X]() 2), <em>tribus</em> ([NUM]() 5, [NOUN]() 1), <em>milia</em> ([NUM]() 4, [NOUN]() 2, [ADJ]() 1), <em>duobus</em> ([ADJ]() 7, [NUM]() 3), <em>primus</em> ([ADJ]() 10, [NUM]() 3), <em>singulas</em> ([NUM]() 3, [ADJ]() 2), <em>unus</em> ([ADJ]() 11, [NUM]() 2), <em>bis</em> ([ADV]() 9, [NUM]() 1), <em>secundum</em> ([ADP]() 7, [ADJ]() 2, [NUM]() 2), <em>singulos</em> ([ADJ]() 2, [NUM]() 2)
 
 
 * <em>quinque</em>
@@ -43,11 +43,11 @@ The 10 most frequent ambiguous types:  <em>quinque</em> ([NUM]() 4, [X]() 2), <e
   * [NUM]() 1: <em>te , naturae dedecus , Quod ferre certe cogor <b>bis</b> videor mori .</em>
 * <em>secundum</em>
   * [ADP]() 7: <em>in aperto loco <b>secundum</b> flumen paucae stationes equitum videbantur</em>
-  * [NUM]() 2: <em>quinque medios consulatus a sexto ad decimum annuos gessit , ceteros aut nouem aut sex aut quattuor aut tribus mensibus , <b>secundum</b> uero paucissimis horis .</em>
   * [ADJ]() 2: <em>et cum aperuisset sigillum <b>secundum</b> audivi <b>secundum</b> animal dicens veni</em>
+  * [NUM]() 2: <em>quinque medios consulatus a sexto ad decimum annuos gessit , ceteros aut nouem aut sex aut quattuor aut tribus mensibus , <b>secundum</b> uero paucissimis horis .</em>
 * <em>singulos</em>
-  * [NUM]() 2: <em>Neque enim notare <b>singulos</b> mens est mihi , Verum ipsam vitam et mores hominum ostendere .</em>
   * [ADJ]() 2: <em>In curia autem quomoda <b>singulos</b> [ vel ] pilabat [ tractabat ] , c ne schemas loquebatur sed derectum</em>
+  * [NUM]() 2: <em>Neque enim notare <b>singulos</b> mens est mihi , Verum ipsam vitam et mores hominum ostendere .</em>
 
 ## Morphology
 
@@ -176,7 +176,7 @@ The 10 most frequent `NUM` types:  <em>unum, unus, septem, milia, duodecim, duo,
 
 The 10 most frequent ambiguous lemmas: <em>unus</em> ([NUM]() 395, [ADJ]() 14), <em>tres</em> ([NUM]() 76, [ADJ]() 1), <em>historia</em> ([NOUN]() 5, [NUM]() 1, [ADJ]() 1), <em>octavus</em> ([ADJ]() 11, [NOUN]() 1, [NUM]() 1)
 
-The 10 most frequent ambiguous types:  <em>unus</em> ([NUM]() 115, [ADJ]() 6), <em>una</em> ([NUM]() 61, [ADV]() 28, [ADJ]() 1), <em>uno</em> ([NUM]() 41, [ADJ]() 2), <em>tribus</em> ([NUM]() 26, [NOUN]() 6), <em>uni</em> ([NUM]() 9, [ADJ]() 2), <em>tris</em> ([NUM]() 4, [ADJ]() 1), <em>Octaua</em> ([NUM]() 1, [NOUN]() 1), <em>historiis</em> ([NUM]() 1, [NOUN]() 1), <em>unas</em> ([ADJ]() 1, [NUM]() 1), <em>unis</em> ([NUM]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>unus</em> ([NUM]() 115, [ADJ]() 6), <em>una</em> ([NUM]() 61, [ADV]() 28, [ADJ]() 1), <em>uno</em> ([NUM]() 41, [ADJ]() 2), <em>tribus</em> ([NUM]() 26, [NOUN]() 6), <em>uni</em> ([NUM]() 9, [ADJ]() 2), <em>tris</em> ([NUM]() 4, [ADJ]() 1), <em>Octaua</em> ([NUM]() 1, [NOUN]() 1), <em>historiis</em> ([NUM]() 1, [NOUN]() 1), <em>unas</em> ([NUM]() 1, [ADJ]() 1), <em>unis</em> ([ADJ]() 1, [NUM]() 1)
 
 
 * <em>unus</em>
@@ -205,11 +205,11 @@ The 10 most frequent ambiguous types:  <em>unus</em> ([NUM]() 115, [ADJ]() 6), <
   * [NUM]() 1: <em>in quo si quid erit quod homini Attico minus Graecum eruditum que videatur non dicam quod tibi ut opinor Panhormi Lucullus de suis <b>historiis</b> dixerat se quo facilius illas probaret Romani hominis esse idcirco barbara quaedam et σόλοικα dispersisse</em>
   * [NOUN]() 1: <em>sed quia volgo pragmatici homines omnibus <b>historiis</b> praeceptis versibus denique cavere iubent et vetant credere alterum facio ut caveam alterum ut non credam facere non possum</em>
 * <em>unas</em>
-  * [ADJ]() 1: <em>de me imperatore scribis te ex Philotimi litteris cognosse sed credo te iam in Epiro cum esses binas meas de omnibus rebus accepisse <b>unas</b> a Pindenisso capto alteras Laodicea utrasque tuis pueris datas</em>
   * [NUM]() 1: <em>sed abs te ipso qui me accusas <b>unas</b> mihi scito litteras redditas esse cum et oti ad scribendum plus et facultatem dandi maiorem habueris</em>
+  * [ADJ]() 1: <em>de me imperatore scribis te ex Philotimi litteris cognosse sed credo te iam in Epiro cum esses binas meas de omnibus rebus accepisse <b>unas</b> a Pindenisso capto alteras Laodicea utrasque tuis pueris datas</em>
 * <em>unis</em>
-  * [NUM]() 1: <em>sese <b>unis</b> Suebis concedere quibus ne di quidem immortales pares esse possint</em>
   * [ADJ]() 1: <em>id <b>unis</b> diligenter litteris datis quae ad me utique perferantur consequere</em>
+  * [NUM]() 1: <em>sese <b>unis</b> Suebis concedere quibus ne di quidem immortales pares esse possint</em>
 
 ## Morphology
 

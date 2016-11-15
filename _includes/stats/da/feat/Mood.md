@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/VERB]() (5782; 6% instan
 
 5782 [da-pos/VERB]() tokens (54% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (5782; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5782; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (5782; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5342; 92%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3687; 64%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (5782; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5782; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5782; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5342; 92%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3687; 64%).
 
 `VERB` tokens may have the following values of `Mood`:
 

@@ -34,7 +34,7 @@ The following 34 pairs of parts of speech are connected with `acl`: [no-pos/NOUN
 11	på	på	ADP	_	_	14	case	_	_
 12	ny	ny	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	14	amod	_	_
 13	rødgrønn	rødgrønn	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	14	amod	_	_
-14	valgseier	valgseier	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	_
+14	valgseier	valgseier	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 15	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -57,7 +57,7 @@ The following 34 pairs of parts of speech are connected with `acl`: [no-pos/NOUN
 9	NRK	NRK	PROPN	_	_	5	nmod	_	_
 10	tidligere	tidlig	ADJ	_	Degree=Cmp	12	advmod	_	_
 11	i	i	ADP	_	_	12	case	_	_
-12	år	år	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	5	nmod	_	_
+12	år	år	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
 13	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -75,11 +75,11 @@ The following 34 pairs of parts of speech are connected with `acl`: [no-pos/NOUN
 4	alle	all	DET	_	Number=Plur|PronType=Tot	5	det	_	_
 5	fall	fall	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	nmod	_	_
 6	min	min	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	nmod	_	_
-7	respekt	respekt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	dobj	_	_
+7	respekt	respekt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	dobj	_	SpaceAfter=No
 8	,	$,	PUNCT	_	_	7	punct	_	_
 9	som	som	ADP	_	_	10	mark	_	_
-10	menneske	menneske	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	1	acl	_	_
-11	.	$.	PUNCT	_	_	2	punct	_	_
+10	menneske	menneske	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	1	acl	_	SpaceAfter=No
+11	.	$.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 ~~~
 

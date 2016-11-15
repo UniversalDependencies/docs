@@ -82,7 +82,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 137 [ta-pos/VERB]() tokens (12% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (137; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (137; 100%), <tt><a href="Person.html">Person</a>=3</tt> (137; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (137; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (137; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (136; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (136; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (135; 99%), <tt><a href="Tense.html">Tense</a>=Fut</tt> (78; 57%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (137; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (137; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (137; 100%), <tt><a href="Person.html">Person</a>=3</tt> (137; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (137; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (136; 99%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (136; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (135; 99%), <tt><a href="Tense.html">Tense</a>=Fut</tt> (78; 57%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 58 [ta-pos/AUX]() tokens (9% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (58; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (58; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (58; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (58; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (58; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (58; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (58; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (49; 84%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (58; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (58; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (58; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (58; 100%), <tt><a href="Person.html">Person</a>=3</tt> (58; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (58; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (58; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (49; 84%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -124,7 +124,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 16 [ta-pos/NUM]() tokens (6% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (9; 56%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (9; 56%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (9; 56%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (9; 56%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 15 [ta-pos/PART]() tokens (2% of all `PART` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (15; 100%).
+The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (15; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%).
 
 `PART` tokens may have the following values of `Case`:
 

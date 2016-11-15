@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-5525 nodes (2%) are attached to their parents as `cc`.
+5523 nodes (2%) are attached to their parents as `cc`.
 
-4873 instances of `cc` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.47131221719457.
+4871 instances of `cc` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.50914358138693.
 
-The following 45 pairs of parts of speech are connected with `cc`: [pt-pos/NOUN]()-[pt-pos/CONJ]() (1829; 33% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (1740; 31% instances), [pt-pos/PROPN]()-[pt-pos/CONJ]() (811; 15% instances), [pt-pos/ADJ]()-[pt-pos/CONJ]() (533; 10% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (162; 3% instances), [pt-pos/NUM]()-[pt-pos/CONJ]() (102; 2% instances), [pt-pos/ADV]()-[pt-pos/CONJ]() (66; 1% instances), [pt-pos/PRON]()-[pt-pos/CONJ]() (47; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (42; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (40; 1% instances), [pt-pos/AUX]()-[pt-pos/CONJ]() (28; 1% instances), [pt-pos/DET]()-[pt-pos/CONJ]() (21; 0% instances), [pt-pos/SYM]()-[pt-pos/CONJ]() (16; 0% instances), [pt-pos/ADP]()-[pt-pos/CONJ]() (15; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (11; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (9; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (7; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/PART]() (3; 0% instances), [pt-pos/NUM]()-[pt-pos/SYM]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/SYM]() (2; 0% instances), [pt-pos/SCONJ]()-[pt-pos/CONJ]() (2; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/PART]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/PART]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/INTJ]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PART]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
+The following 43 pairs of parts of speech are connected with `cc`: [pt-pos/NOUN]()-[pt-pos/CONJ]() (1829; 33% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (1761; 32% instances), [pt-pos/PROPN]()-[pt-pos/CONJ]() (805; 15% instances), [pt-pos/ADJ]()-[pt-pos/CONJ]() (537; 10% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (163; 3% instances), [pt-pos/NUM]()-[pt-pos/CONJ]() (102; 2% instances), [pt-pos/ADV]()-[pt-pos/CONJ]() (66; 1% instances), [pt-pos/PRON]()-[pt-pos/CONJ]() (47; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (42; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (40; 1% instances), [pt-pos/DET]()-[pt-pos/CONJ]() (21; 0% instances), [pt-pos/SYM]()-[pt-pos/CONJ]() (16; 0% instances), [pt-pos/ADP]()-[pt-pos/CONJ]() (15; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (12; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (9; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (7; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (6; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/AUX]()-[pt-pos/CONJ]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/PART]() (3; 0% instances), [pt-pos/NUM]()-[pt-pos/SYM]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/SYM]() (2; 0% instances), [pt-pos/SCONJ]()-[pt-pos/CONJ]() (2; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/PART]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/PART]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/INTJ]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PART]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -69,6 +69,86 @@ The following 45 pairs of parts of speech are connected with `cc`: [pt-pos/NOUN]
 8	Floriano	Floriano	PROPN	prop|M|S	_	5	conj	_	MWE=Floriano_Graça|MWEPOS=PROPN
 9	Graça	Graça	PROPN	PROPN	_	8	name	_	_
 10	.	.	PUNCT	punc	_	3	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+5198 nodes (2%) are attached to their parents as `cc`.
+
+4712 instances of `cc` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.44574836475568.
+
+The following 21 pairs of parts of speech are connected with `cc`: [pt-pos/NOUN]()-[pt-pos/CONJ]() (1877; 36% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (1774; 34% instances), [pt-pos/PROPN]()-[pt-pos/CONJ]() (706; 14% instances), [pt-pos/ADJ]()-[pt-pos/CONJ]() (536; 10% instances), [pt-pos/NUM]()-[pt-pos/CONJ]() (99; 2% instances), [pt-pos/ADV]()-[pt-pos/CONJ]() (56; 1% instances), [pt-pos/PRON]()-[pt-pos/CONJ]() (52; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (46; 1% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (19; 0% instances), [pt-pos/DET]()-[pt-pos/CONJ]() (9; 0% instances), [pt-pos/SYM]()-[pt-pos/CONJ]() (6; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/CONJ]()-[pt-pos/CONJ]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/INTJ]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PUNCT]()-[pt-pos/CONJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 cc	color:blue
+1	É	ser	VERB	<mv>|<first-cjt>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	continente	continente	NOUN	<np-idf>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	_
+4	e	e	CONJ	<co-fcl>|<co-fmc>|<co-vfin>|KC|@CO	_	3	cc	_	_
+5	é	ser	VERB	<mv>|<cjt>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	país	país	NOUN	<np-idf>|N|M|S|@<SC	Gender=Masc|Number=Sing	3	conj	_	_
+8	de	de	ADP	PRP|@N<	_	9	case	_	_
+9	Terceiro	Terceiro	PROPN	PROP|M|S|@P<	Gender=Masc|Number=Sing	7	nmod	_	MWE:Terceiro=Mundo
+10	Mundo	Mundo	PROPN	PROP|@N<	Number=Sing	9	name	_	_
+11	.	.	PUNCT	PU|@PU	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 cc	color:blue
+1	«	«	PUNCT	PU|@PU	_	4	punct	_	_
+2	Mas	mas	CONJ	KC|@CO	_	4	cc	_	_
+3	vou	ir	AUX	<aux>|V|PR|1S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	receber	receber	VERB	<mv>|V|INF|@ICL-AUX<	VerbForm=Inf	0	root	_	_
+5	atestado	atestado	NOUN	<np-idf>|N|M|S|@<ACC	Gender=Masc|Number=Sing	4	dobj	_	_
+6	de	de	ADP	PRP|@N<	_	7	case	_	_
+7	idoneidade	idoneidade	NOUN	<np-idf>|N|F|S|@P<	Gender=Fem|Number=Sing	5	nmod	_	_
+8	moral	moral	ADJ	ADJ|F|S|@N<	Gender=Fem|Number=Sing	7	amod	_	_
+9	.	.	PUNCT	PU|@PU	_	4	punct	_	_
+10	»	»	PUNCT	PU|@PU	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 cc	color:blue
+1	Até	até	ADV	ADV|@>A	_	3	advmod	_	_
+2	em	em	ADP	PRP|@ADVL>	_	3	case	_	_
+3	Hollywood	Hollywood	PROPN	PROP|M|S|@P<	Gender=Masc|Number=Sing	5	nmod	_	_
+4	,	,	PUNCT	PU|@PU	_	3	punct	_	_
+5	há	haver	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	pessoas	pessoa	NOUN	<np-idf>|N|F|P|@<ACC	Gender=Fem|Number=Plur	5	dobj	_	_
+7	como	como	ADP	<com>|PRP|@N<	_	8	case	_	_
+8	Sonia	Sonia	PROPN	<first-cjt>|PROP|F|S|@P<	Gender=Fem|Number=Sing	6	nmod	_	MWE:Sonia=Braga
+9	Braga	Braga	PROPN	PROP|@N<	Number=Sing	8	name	_	_
+10	e	e	CONJ	KC|@CO	_	8	cc	_	_
+11	Andy	Andy	PROPN	PROP|M|S|@P<	Gender=Masc|Number=Sing	6	nmod	_	MWE:Andy=Garcia
+12	Garcia	Garcia	PROPN	PROP|@N<	Number=Sing	11	name	_	_
+13	.	.	PUNCT	PU|@PU	_	5	punct	_	_
 
 ~~~
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-11495 nodes (5%) are attached to their parents as `amod`.
+11193 nodes (5%) are attached to their parents as `amod`.
 
-11119 instances of `amod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39599826011309.
+10828 instances of `amod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3956043956044.
 
-The following 27 pairs of parts of speech are connected with `amod`: [en-pos/NOUN]()-[en-pos/ADJ]() (10125; 88% instances), [en-pos/NOUN]()-[en-pos/VERB]() (761; 7% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (311; 3% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (110; 1% instances), [en-pos/PROPN]()-[en-pos/VERB]() (35; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (26; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (16; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (13; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (12; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (10; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (10; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (9; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (9; 0% instances), [en-pos/SYM]()-[en-pos/ADJ]() (7; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/X]() (5; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/X]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (2; 0% instances), [en-pos/INTJ]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/X]()-[en-pos/VERB]() (1; 0% instances).
+The following 29 pairs of parts of speech are connected with `amod`: [en-pos/NOUN]()-[en-pos/ADJ]() (9744; 87% instances), [en-pos/NOUN]()-[en-pos/VERB]() (734; 7% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (307; 3% instances), [en-pos/PRON]()-[en-pos/ADJ]() (132; 1% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (109; 1% instances), [en-pos/PROPN]()-[en-pos/VERB]() (34; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (23; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (15; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (13; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (12; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (11; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (9; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (8; 0% instances), [en-pos/SYM]()-[en-pos/ADJ]() (7; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/X]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (4; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/X]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/INTJ]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances), [en-pos/X]()-[en-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -80,7 +80,7 @@ This relation is universal.
 3442 instances of `amod` (97%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.18386914833615.
 
-The following 22 pairs of parts of speech are connected with `amod`: [en-pos/NOUN]()-[en-pos/ADJ]() (3370; 95% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (40; 1% instances), [en-pos/NOUN]()-[en-pos/VERB]() (35; 1% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (25; 1% instances), [en-pos/NUM]()-[en-pos/ADJ]() (15; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (12; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (8; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (4; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (1; 0% instances), [en-pos/SYM]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `amod`: [en-pos/NOUN]()-[en-pos/ADJ]() (3332; 94% instances), [en-pos/PRON]()-[en-pos/ADJ]() (43; 1% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (40; 1% instances), [en-pos/NOUN]()-[en-pos/VERB]() (35; 1% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (25; 1% instances), [en-pos/NUM]()-[en-pos/ADJ]() (15; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (12; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (8; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (1; 0% instances), [en-pos/SYM]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -103,8 +103,26 @@ The following 22 pairs of parts of speech are connected with `amod`: [en-pos/NOU
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 amod	color:blue
+1	_	_	ADV	RB	_	5	advmod	_	_
+2	_	_	PUNCT	,	_	5	punct	_	_
+3	_	_	PRON	NN	_	5	nsubj	_	_
+4	_	_	ADJ	JJ	_	3	amod	_	_
+5	_	_	VERB	VBD	_	0	root	_	_
+6	_	_	ADV	RB	_	5	advmod	_	_
+7	_	_	ADV	RB	_	5	advmod	_	_
+8	_	_	PUNCT	.	_	5	punct	_	_
 
 ~~~
 
@@ -140,26 +158,6 @@ The following 22 pairs of parts of speech are connected with `amod`: [en-pos/NOU
 23	_	_	ADJ	JJ	_	24	amod	_	_
 24	_	_	PROPN	NNP	_	18	nmod	_	_
 25	_	_	PUNCT	.	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 amod	color:blue
-1	_	_	DET	DT	_	3	det	_	_
-2	_	_	VERB	VBG	_	3	amod	_	_
-3	_	_	NOUN	NN	_	6	nsubj	_	_
-4	_	_	AUX	VBZ	_	6	aux	_	_
-5	_	_	ADV	RB	_	6	advmod	_	_
-6	_	_	VERB	VBG	_	0	root	_	_
-7	_	_	DET	PRP$	_	8	nmod:poss	_	_
-8	_	_	NOUN	NN	_	6	dobj	_	_
-9	_	_	ADV	RB	_	6	advmod	_	_
-10	_	_	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

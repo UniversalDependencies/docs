@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1212 nodes (6%) are attached to their parents as `amod`.
+1256 nodes (6%) are attached to their parents as `amod`.
 
-1212 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.53712871287129.
+1253 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.52627388535032.
 
-The following 11 pairs of parts of speech are connected with `amod`: [lv-pos/NOUN]()-[lv-pos/ADJ]() (954; 79% instances), [lv-pos/NOUN]()-[lv-pos/VERB]() (227; 19% instances), [lv-pos/SYM]()-[lv-pos/ADJ]() (15; 1% instances), [lv-pos/PROPN]()-[lv-pos/ADJ]() (8; 1% instances), [lv-pos/PROPN]()-[lv-pos/VERB]() (2; 0% instances), [lv-pos/ADJ]()-[lv-pos/VERB]() (1; 0% instances), [lv-pos/NUM]()-[lv-pos/ADJ]() (1; 0% instances), [lv-pos/SYM]()-[lv-pos/VERB]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/VERB]() (1; 0% instances), [lv-pos/X]()-[lv-pos/ADJ]() (1; 0% instances), [lv-pos/X]()-[lv-pos/VERB]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `amod`: [lv-pos/NOUN]()-[lv-pos/ADJ]() (988; 79% instances), [lv-pos/NOUN]()-[lv-pos/VERB]() (231; 18% instances), [lv-pos/SYM]()-[lv-pos/ADJ]() (15; 1% instances), [lv-pos/PROPN]()-[lv-pos/ADJ]() (8; 1% instances), [lv-pos/NOUN]()-[lv-pos/SYM]() (3; 0% instances), [lv-pos/NUM]()-[lv-pos/SYM]() (3; 0% instances), [lv-pos/PROPN]()-[lv-pos/VERB]() (2; 0% instances), [lv-pos/ADJ]()-[lv-pos/VERB]() (1; 0% instances), [lv-pos/NUM]()-[lv-pos/ADJ]() (1; 0% instances), [lv-pos/SYM]()-[lv-pos/VERB]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/VERB]() (1; 0% instances), [lv-pos/X]()-[lv-pos/ADJ]() (1; 0% instances), [lv-pos/X]()-[lv-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

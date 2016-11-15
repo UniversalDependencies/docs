@@ -11,9 +11,9 @@ The 10 most frequent `ADJ` lemmas: <em>primero, nuevo, mismo, gran, mayor, buen,
 
 The 10 most frequent `ADJ` types:  <em>gran, primera, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
 
-The 10 most frequent ambiguous lemmas: <em>primero</em> ([ADJ]() 632, [NOUN]() 45, [PROPN]() 27, [ADV]() 23), <em>nuevo</em> ([ADJ]() 410, [PROPN]() 40, [NOUN]() 7, [ADV]() 1), <em>mismo</em> ([ADJ]() 320, [NOUN]() 103, [PRON]() 9, [ADV]() 2), <em>gran</em> ([ADJ]() 273, [PROPN]() 47), <em>mayor</em> ([ADJ]() 230, [NOUN]() 10, [PROPN]() 9, [ADV]() 2, [X]() 1), <em>buen</em> ([ADJ]() 203, [PROPN]() 4, [NOUN]() 1), <em>principal</em> ([ADJ]() 201, [PROPN]() 3, [NOUN]() 2), <em>segundo</em> ([ADJ]() 189, [NOUN]() 46, [PROPN]() 27, [VERB]() 1), <em>último</em> ([ADJ]() 187, [NOUN]() 61, [PROPN]() 2, [X]() 1), <em>mejor</em> ([ADJ]() 186, [ADV]() 29, [NOUN]() 29, [PROPN]() 3)
+The 10 most frequent ambiguous lemmas: <em>primero</em> ([ADJ]() 632, [NOUN]() 45, [PROPN]() 27, [ADV]() 23), <em>nuevo</em> ([ADJ]() 410, [PROPN]() 40, [NOUN]() 7, [ADV]() 1), <em>mismo</em> ([ADJ]() 320, [NOUN]() 103, [PRON]() 9, [ADV]() 2), <em>gran</em> ([ADJ]() 273, [PROPN]() 47), <em>mayor</em> ([ADJ]() 230, [NOUN]() 10, [PROPN]() 9, [ADV]() 2, [X]() 1), <em>buen</em> ([ADJ]() 203, [PROPN]() 4, [NOUN]() 1), <em>principal</em> ([ADJ]() 201, [PROPN]() 3, [NOUN]() 2), <em>segundo</em> ([ADJ]() 189, [NOUN]() 46, [PROPN]() 27, [VERB]() 1), <em>último</em> ([ADJ]() 187, [NOUN]() 61, [PROPN]() 2, [X]() 1), <em>mejor</em> ([ADJ]() 186, [NOUN]() 29, [ADV]() 29, [PROPN]() 3)
 
-The 10 most frequent ambiguous types:  <em>primera</em> ([ADJ]() 242, [NOUN]() 12), <em>primer</em> ([ADJ]() 247, [PROPN]() 1), <em>mismo</em> ([ADJ]() 199, [NOUN]() 54, [PRON]() 3, [ADV]() 1), <em>mayor</em> ([ADJ]() 187, [NOUN]() 4, [PROPN]() 2, [ADV]() 2, [X]() 1), <em>nuevo</em> ([ADJ]() 179, [ADV]() 1), <em>estadounidense</em> ([ADJ]() 151, [NOUN]() 2), <em>total</em> ([ADJ]() 134, [NOUN]() 80), <em>mejor</em> ([ADJ]() 124, [ADV]() 29, [NOUN]() 25), <em>grandes</em> ([ADJ]() 113, [NOUN]() 9), <em>nueva</em> ([ADJ]() 115, [NOUN]() 3)
+The 10 most frequent ambiguous types:  <em>primera</em> ([ADJ]() 242, [NOUN]() 12), <em>primer</em> ([ADJ]() 247, [PROPN]() 1), <em>mismo</em> ([ADJ]() 199, [NOUN]() 54, [PRON]() 3, [ADV]() 1), <em>mayor</em> ([ADJ]() 187, [NOUN]() 4, [ADV]() 2, [PROPN]() 2, [X]() 1), <em>nuevo</em> ([ADJ]() 179, [ADV]() 1), <em>estadounidense</em> ([ADJ]() 151, [NOUN]() 2), <em>total</em> ([ADJ]() 134, [NOUN]() 80), <em>mejor</em> ([ADJ]() 124, [ADV]() 29, [NOUN]() 25), <em>grandes</em> ([ADJ]() 113, [NOUN]() 9), <em>nueva</em> ([ADJ]() 115, [NOUN]() 3)
 
 
 * <em>primera</em>
@@ -30,8 +30,8 @@ The 10 most frequent ambiguous types:  <em>primera</em> ([ADJ]() 242, [NOUN]() 1
 * <em>mayor</em>
   * [ADJ]() 187: <em>Esta obra se erige en la plaza <b>mayor</b> de Bogotá desde 1848 .</em>
   * [NOUN]() 4: <em>El <b>mayor</b> fue quien anunció a Alejandro que Darío había sido arrestado por Besos .</em>
-  * [PROPN]() 2: <em>El paso también conocido con el nombre de " primer y <b>mayor</b> paso bajo el cielo " ( chino : 天下第一 雄关 ) , no debe confundir se con el " Primer Paso bajo el Cielo " ( chino : 天下第一 关 ) , un nombre de el Paso Shanhai en el extremo oriental de la Gran Muralla , cerca de Qinhuangdao , en Hebei .</em>
   * [ADV]() 2: <em>La ubicación en Hobart tiene una tienda que contiene la mayor parte de la línea " Botanic Choice " y también vende productos a el por <b>mayor</b> .</em>
+  * [PROPN]() 2: <em>El paso también conocido con el nombre de " primer y <b>mayor</b> paso bajo el cielo " ( chino : 天下第一 雄关 ) , no debe confundir se con el " Primer Paso bajo el Cielo " ( chino : 天下第一 关 ) , un nombre de el Paso Shanhai en el extremo oriental de la Gran Muralla , cerca de Qinhuangdao , en Hebei .</em>
   * [X]() 1: <em>La ciudad se administra mediante un alcalde ( <b>mayor</b> ) elegido cada cuatro años , y un concejo ( Common Council ) de doce miembros ( alderpersons ) elegidos cada dos años en base a uno por cada uno de los doce distritos electorales municipales .</em>
 * <em>nuevo</em>
   * [ADJ]() 179: <em>Así que debemos dar le la bienvenida a el <b>nuevo</b> sistema .</em>

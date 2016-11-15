@@ -4,16 +4,16 @@
 
 ## Treebank Statistics (UD_German)
 
-There are 1 `PRON` lemmas (7%), 246 `PRON` types (0%) and 15077 `PRON` tokens (5%).
-Out of 15 observed tags, the rank of `PRON` is: 10 in number of lemmas, 7 in number of types and 8 in number of tokens.
+There are 98 `PRON` lemmas (0%), 206 `PRON` types (0%) and 14978 `PRON` tokens (5%).
+Out of 15 observed tags, the rank of `PRON` is: 9 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>_</em>
+The 10 most frequent `PRON` lemmas: <em>er, der, er|es|sie, dies, es, ich, sie, alle, wir, man</em>
 
 The 10 most frequent `PRON` types:  <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 53291, [PUNCT]() 39056, [DET]() 37037, [ADP]() 32362, [PROPN]() 32323, [VERB]() 25041, [ADJ]() 21279, [PRON]() 15077, [ADV]() 14911, [CONJ]() 8938, [NUM]() 7632, [AUX]() 6913, [PART]() 2202, [SCONJ]() 1810, [X]() 370)
+The 10 most frequent ambiguous lemmas: <em>er</em> ([PRON]() 2473, [PROPN]() 2, [X]() 2), <em>der</em> ([DET]() 29812, [PRON]() 2145), <em>er|es|sie</em> ([PRON]() 1630, [PROPN]() 1), <em>dies</em> ([PRON]() 1280, [DET]() 16, [ADP]() 1, [PROPN]() 1), <em>es</em> ([PRON]() 1122, [PROPN]() 32, [PART]() 4, [X]() 2, [PUNCT]() 1), <em>ich</em> ([PRON]() 827, [NOUN]() 4, [PROPN]() 2), <em>alle</em> ([PRON]() 455, [ADV]() 6, [DET]() 4, [ADJ]() 3, [PROPN]() 2, [NOUN]() 1), <em>wir</em> ([PRON]() 435, [PROPN]() 4, [NOUN]() 2, [CONJ]() 1, [AUX]() 1), <em>man</em> ([PRON]() 413, [NOUN]() 7, [PROPN]() 1), <em>Sie|sie</em> ([PRON]() 382, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>er</em> ([PRON]() 1654, [X]() 2, [PROPN]() 1), <em>sich</em> ([PRON]() 1629, [PROPN]() 1), <em>die</em> ([DET]() 5150, [PRON]() 961, [PROPN]() 11, [X]() 1), <em>der</em> ([DET]() 8483, [PRON]() 479, [PROPN]() 99, [ADP]() 1), <em>man</em> ([PRON]() 368, [NOUN]() 7), <em>diese</em> ([PRON]() 220, [DET]() 2, [PROPN]() 1), <em>das</em> ([DET]() 1664, [PRON]() 296, [SCONJ]() 15, [PROPN]() 3), <em>dieser</em> ([PRON]() 272, [DET]() 1), <em>wir</em> ([PRON]() 164, [NOUN]() 1, [AUX]() 1, [PROPN]() 1), <em>was</em> ([PRON]() 190, [VERB]() 8, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>er</em> ([PRON]() 1654, [X]() 2, [PROPN]() 1), <em>sich</em> ([PRON]() 1629, [PROPN]() 1), <em>die</em> ([DET]() 5150, [PRON]() 961, [PROPN]() 11, [X]() 1), <em>der</em> ([DET]() 8483, [PRON]() 479, [PROPN]() 99, [ADP]() 1), <em>man</em> ([PRON]() 368, [NOUN]() 7), <em>diese</em> ([PRON]() 220, [DET]() 2, [PROPN]() 1), <em>das</em> ([DET]() 1664, [PRON]() 296, [SCONJ]() 15, [PROPN]() 3), <em>dieser</em> ([PRON]() 272, [DET]() 1), <em>wir</em> ([PRON]() 164, [PROPN]() 1, [NOUN]() 1, [AUX]() 1), <em>was</em> ([PRON]() 190, [VERB]() 8, [ADV]() 1)
 
 
 * <em>er</em>
@@ -50,9 +50,9 @@ The 10 most frequent ambiguous types:  <em>er</em> ([PRON]() 1654, [X]() 2, [PRO
   * [DET]() 1: <em>Anders als der Regionalbahnhof für die S - Bahn und andere Eisenbahnzüge war <b>dieser</b> " People - Mover " bei dem Bau des Terminals 1 nicht vorgesehen und wurde auch erst mit dem Bau des zweiten Terminals erforderlich .</em>
 * <em>wir</em>
   * [PRON]() 164: <em>In dem Sommer sehen <b>wir</b> uns bezüglich einer Markise wieder .</em>
+  * [PROPN]() 1: <em>Der Jugendfilm It takes two -- London , <b>wir</b> kommen !</em>
   * [NOUN]() 1: <em>Das duale <b>wir</b> schließt dritte Personen aus .</em>
   * [AUX]() 1: <em>Die Angebote des Essens sind auch gut und man <b>wir</b> immer über den Speiseplan der Woche informiert .</em>
-  * [PROPN]() 1: <em>Der Jugendfilm It takes two -- London , <b>wir</b> kommen !</em>
 * <em>was</em>
   * [PRON]() 190: <em>Jedesmal war ein anderer Arzt da , <b>was</b> ich etwas unpersönlich finde .</em>
   * [VERB]() 8: <em>Wir waren die letzten Panzerkutscher vor Feierabend , <b>was</b> sich als Nachteil heraus stellte .</em>
@@ -60,30 +60,40 @@ The 10 most frequent ambiguous types:  <em>er</em> ([PRON]() 1654, [X]() 2, [PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 246.000000 (the average of all parts of speech is 3646.666667).
+The form / lemma ratio of `PRON` is 2.102041 (the average of all parts of speech is 1.186521).
 
-The 1st highest number of forms (246) was observed with the lemma “_”: <em>'s, Aminoglykoside, Auszüge, Daher, Daneben, Deichbrüche, Deinen, Dir, Gleiches, I, Mit, Männchen, Neuere, Quelques, Wen, What, Xayide, You, all, alle, allem, allen, aller, alles, andere, anderem, anderen, anderer, anderes, beide, beiden, beider, beides, bischen, bisschen, bißchen, dadurch, dafür, dagegen, damit, daran, darauf, daraus, darin, darum, darzu, darüber, das, dass, davon, davor, dazu, daß, dem, demjenigen, demselben, den, denen, denjenigen, der, deren, derer, dergleichen, derjenigen, derselbe, derselben, des, desselben, dessen, dich, die, diejenige, diejenigen, dies, diese, dieselbe, dieselben, diesem, diesen, dieser, dieses, diser, diversen, diverser, du, ebendieses, eigige, ein, eine, einem, einen, einer, eines, einige, einigen, einiger, einiges, einzigen, er, erster, erstere, es, etliche, etlichen, etwas, euch, euren, eurer, genug, gleiche, heraus, ich, ihm, ihn, ihnen, ihr, ihre, ihrem, ihren, ihrer, ihres, in, indem, irgendein, irgendeine, irgendeinem, irgendetwas, irgendwas, irgendwelche, irgendwem, it, jede, jedem, jeden, jeder, jedes, jegliche, jeglichen, jemand, jemanden, jene, jenem, jenen, jener, jenes, kein, keine, keinem, keinen, keiner, keinerlei, keines, keinster, kleinen, letzte, letzter, man, manche, manchen, mehr, mehre, mehrere, mehreren, mehrerer, mein, meine, meinem, meinen, meiner, meines, meiste, meisten, mich, mir, my, nicht, nichts, niemand, niemanden, nix, paar, sein, seine, seinem, seinen, seiner, seines, selben, selbst, sich, sie, solch, solche, solchen, solcher, solches, soviel, sowas, sämtliche, uns, unser, unsere, unserem, unseren, unserer, unseres, viel, viele, vielem, vielen, vieler, vieles, warum, was, we, weitere, weiteren, weiterer, welche, welchem, welchen, welcher, welches, wem, wenig, wenige, wenigen, weniger, wer, wie, wieviele, wir, wo, wobei, wodurch, womit, wonach, woraus, worin, wovon, wozu, zahlreiche, zuviel, zweier, zweiten, ähnlichem</em>.
+The 1st highest number of forms (10) was observed with the lemma “der”: <em>das, dem, den, denen, der, deren, derer, des, dessen, die</em>.
 
-`PRON` does not occur with any features.
+The 2nd highest number of forms (7) was observed with the lemma “ihr”: <em>euch, ihr, ihre, ihrem, ihren, ihrer, ihres</em>.
+
+The 3rd highest number of forms (6) was observed with the lemma “dies”: <em>dies, diese, diesem, diesen, dieser, dieses</em>.
+
+`PRON` occurs with 12 features: [de-feat/PronType]() (14978; 100% instances), [de-feat/Case]() (13400; 89% instances), [de-feat/Person]() (8386; 56% instances), [de-feat/Number]() (8228; 55% instances), [de-feat/Gender]() (5689; 38% instances), [de-feat/Reflex]() (1769; 12% instances), [de-feat/Poss]() (605; 4% instances), [de-feat/Polite]() (463; 3% instances), [de-feat/Number[psor]]() (449; 3% instances), [de-feat/NumType]() (177; 1% instances), [de-feat/Gender[psor]]() (153; 1% instances), [de-feat/Typo]() (3; 0% instances)
+
+`PRON` occurs with 34 feature-value pairs: `Case=Acc`, `Case=Acc,Dat`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Gender[psor]=Masc,Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=2,3`, `Person=3`, `Polite=Inf`, `Polite=Pol`, `Poss=Yes`, `PronType=Dem`, `PronType=Dem,Rel`, `PronType=Ind`, `PronType=Int`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Typo=Yes`
+
+`PRON` occurs with 278 feature combinations.
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs` (2164 tokens).
+Examples: <em>er, ihn</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 26 different relations: [de-dep/nsubj]() (6679; 44% instances), [de-dep/det]() (2554; 17% instances), [de-dep/dobj]() (2258; 15% instances), [de-dep/nmod]() (999; 7% instances), [de-dep/nsubjpass]() (803; 5% instances), [de-dep/iobj]() (515; 3% instances), [de-dep/expl]() (402; 3% instances), [de-dep/neg]() (283; 2% instances), [de-dep/dep]() (155; 1% instances), [de-dep/amod]() (93; 1% instances), [de-dep/conj]() (73; 0% instances), [de-dep/advmod]() (71; 0% instances), [de-dep/root]() (69; 0% instances), [de-dep/appos]() (41; 0% instances), [de-dep/mark]() (30; 0% instances), [de-dep/acl]() (20; 0% instances), [de-dep/mwe]() (8; 0% instances), [de-dep/cop]() (6; 0% instances), [de-dep/ccomp]() (5; 0% instances), [de-dep/cc]() (4; 0% instances), [de-dep/compound]() (3; 0% instances), [de-dep/parataxis]() (2; 0% instances), [de-dep/advcl]() (1; 0% instances), [de-dep/case]() (1; 0% instances), [de-dep/csubj]() (1; 0% instances), [de-dep/nummod]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 26 different relations: [de-dep/nsubj]() (6663; 44% instances), [de-dep/dobj]() (2253; 15% instances), [de-dep/det]() (1977; 13% instances), [de-dep/nmod]() (996; 7% instances), [de-dep/nsubjpass]() (800; 5% instances), [de-dep/det:poss]() (571; 4% instances), [de-dep/iobj]() (515; 3% instances), [de-dep/expl]() (402; 3% instances), [de-dep/neg]() (283; 2% instances), [de-dep/dep]() (151; 1% instances), [de-dep/amod]() (90; 1% instances), [de-dep/conj]() (69; 0% instances), [de-dep/root]() (69; 0% instances), [de-dep/appos]() (41; 0% instances), [de-dep/advmod]() (38; 0% instances), [de-dep/acl]() (18; 0% instances), [de-dep/mark]() (16; 0% instances), [de-dep/cop]() (6; 0% instances), [de-dep/ccomp]() (5; 0% instances), [de-dep/cc]() (4; 0% instances), [de-dep/mwe]() (4; 0% instances), [de-dep/compound]() (3; 0% instances), [de-dep/advcl]() (1; 0% instances), [de-dep/case]() (1; 0% instances), [de-dep/csubj]() (1; 0% instances), [de-dep/parataxis]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 16 different parts of speech: [VERB]() (10193; 68% instances), [NOUN]() (3681; 24% instances), [ADJ]() (785; 5% instances), [PROPN]() (133; 1% instances), [PRON]() (78; 1% instances), [ROOT]() (69; 0% instances), [ADP]() (60; 0% instances), [ADV]() (20; 0% instances), [AUX]() (16; 0% instances), [NUM]() (15; 0% instances), [X]() (8; 0% instances), [DET]() (7; 0% instances), [CONJ]() (5; 0% instances), [PART]() (4; 0% instances), [PUNCT]() (2; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `PRON` nodes belong to 16 different parts of speech: [VERB]() (10121; 68% instances), [NOUN]() (3665; 24% instances), [ADJ]() (779; 5% instances), [PROPN]() (132; 1% instances), [PRON]() (76; 1% instances), [ROOT]() (69; 0% instances), [ADP]() (59; 0% instances), [ADV]() (20; 0% instances), [AUX]() (16; 0% instances), [NUM]() (15; 0% instances), [X]() (8; 0% instances), [DET]() (6; 0% instances), [CONJ]() (5; 0% instances), [PART]() (4; 0% instances), [PUNCT]() (2; 0% instances), [SCONJ]() (1; 0% instances)
 
-13518 (90%) `PRON` nodes are leaves.
+13436 (90%) `PRON` nodes are leaves.
 
-1206 (8%) `PRON` nodes have one child.
+1198 (8%) `PRON` nodes have one child.
 
-214 (1%) `PRON` nodes have two children.
+208 (1%) `PRON` nodes have two children.
 
-139 (1%) `PRON` nodes have three or more children.
+136 (1%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 8.
 
-Children of `PRON` nodes are attached using 27 different relations: [de-dep/case]() (1011; 46% instances), [de-dep/det]() (280; 13% instances), [de-dep/advmod]() (176; 8% instances), [de-dep/punct]() (171; 8% instances), [de-dep/nmod]() (133; 6% instances), [de-dep/acl]() (120; 5% instances), [de-dep/cop]() (78; 4% instances), [de-dep/nsubj]() (71; 3% instances), [de-dep/cc]() (36; 2% instances), [de-dep/conj]() (35; 2% instances), [de-dep/appos]() (30; 1% instances), [de-dep/amod]() (14; 1% instances), [de-dep/neg]() (10; 0% instances), [de-dep/advcl]() (9; 0% instances), [de-dep/compound]() (8; 0% instances), [de-dep/dep]() (7; 0% instances), [de-dep/mwe]() (6; 0% instances), [de-dep/ccomp]() (4; 0% instances), [de-dep/dobj]() (4; 0% instances), [de-dep/xcomp]() (4; 0% instances), [de-dep/csubj]() (3; 0% instances), [de-dep/iobj]() (2; 0% instances), [de-dep/parataxis]() (2; 0% instances), [de-dep/expl]() (1; 0% instances), [de-dep/mark]() (1; 0% instances), [de-dep/name]() (1; 0% instances), [de-dep/nsubjpass]() (1; 0% instances)
+Children of `PRON` nodes are attached using 27 different relations: [de-dep/case]() (1004; 46% instances), [de-dep/nmod]() (314; 14% instances), [de-dep/advmod]() (173; 8% instances), [de-dep/punct]() (170; 8% instances), [de-dep/acl]() (117; 5% instances), [de-dep/det]() (84; 4% instances), [de-dep/cop]() (77; 4% instances), [de-dep/nsubj]() (70; 3% instances), [de-dep/cc]() (36; 2% instances), [de-dep/conj]() (35; 2% instances), [de-dep/appos]() (31; 1% instances), [de-dep/amod]() (14; 1% instances), [de-dep/neg]() (10; 0% instances), [de-dep/advcl]() (8; 0% instances), [de-dep/compound]() (8; 0% instances), [de-dep/dep]() (7; 0% instances), [de-dep/mwe]() (6; 0% instances), [de-dep/ccomp]() (4; 0% instances), [de-dep/dobj]() (4; 0% instances), [de-dep/xcomp]() (4; 0% instances), [de-dep/csubj]() (2; 0% instances), [de-dep/iobj]() (2; 0% instances), [de-dep/parataxis]() (2; 0% instances), [de-dep/expl]() (1; 0% instances), [de-dep/mark]() (1; 0% instances), [de-dep/name]() (1; 0% instances), [de-dep/nsubjpass]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (1003; 45% instances), [NOUN]() (340; 15% instances), [VERB]() (214; 10% instances), [PUNCT]() (171; 8% instances), [ADV]() (169; 8% instances), [PRON]() (78; 4% instances), [DET]() (75; 3% instances), [PROPN]() (49; 2% instances), [CONJ]() (47; 2% instances), [ADJ]() (41; 2% instances), [PART]() (13; 1% instances), [NUM]() (11; 0% instances), [X]() (6; 0% instances), [SCONJ]() (1; 0% instances)
+Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (996; 46% instances), [NOUN]() (336; 15% instances), [VERB]() (210; 10% instances), [PUNCT]() (170; 8% instances), [ADV]() (167; 8% instances), [PRON]() (76; 3% instances), [DET]() (67; 3% instances), [PROPN]() (48; 2% instances), [CONJ]() (47; 2% instances), [ADJ]() (39; 2% instances), [PART]() (13; 1% instances), [NUM]() (10; 0% instances), [X]() (6; 0% instances), [SCONJ]() (1; 0% instances)
 

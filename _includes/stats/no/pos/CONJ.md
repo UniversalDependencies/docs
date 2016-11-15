@@ -11,9 +11,9 @@ The 10 most frequent `CONJ` lemmas: <em>og, men, eller, både, for, så, enten, 
 
 The 10 most frequent `CONJ` types:  <em>og, men, eller, både, for, så, enten, samt, hverken, verken</em>
 
-The 10 most frequent ambiguous lemmas: <em>og</em> ([CONJ]() 7977, [X]() 3, [ADV]() 1, [PART]() 1), <em>men</em> ([CONJ]() 1606, [X]() 1), <em>eller</em> ([CONJ]() 590, [X]() 4), <em>for</em> ([ADP]() 3710, [ADV]() 148, [CONJ]() 99, [X]() 7), <em>så</em> ([ADV]() 832, [CONJ]() 90, [SCONJ]() 17, [VERB]() 2), <em>and</em> ([X]() 20, [NOUN]() 1, [CONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>og</em> ([CONJ]() 7977, [X]() 3, [PART]() 1, [ADV]() 1), <em>men</em> ([CONJ]() 1606, [X]() 1), <em>eller</em> ([CONJ]() 590, [X]() 4), <em>for</em> ([ADP]() 3710, [ADV]() 148, [CONJ]() 99, [X]() 7), <em>så</em> ([ADV]() 832, [CONJ]() 90, [SCONJ]() 17, [VERB]() 2), <em>and</em> ([X]() 20, [CONJ]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>og</em> ([CONJ]() 7570, [PART]() 5, [X]() 3, [ADV]() 1, [ADP]() 1), <em>men</em> ([CONJ]() 889, [X]() 1, [ADP]() 1), <em>eller</em> ([CONJ]() 551, [X]() 4), <em>for</em> ([ADP]() 3543, [ADV]() 143, [CONJ]() 44, [X]() 7), <em>så</em> ([ADV]() 737, [VERB]() 91, [CONJ]() 60, [SCONJ]() 16), <em>å</em> ([PART]() 4246, [CONJ]() 4, [X]() 4, [ADP]() 1, [INTJ]() 1, [AUX]() 1), <em>and</em> ([X]() 20, [CONJ]() 1, [NOUN]() 1), <em>med</em> ([ADP]() 3061, [X]() 3, [CONJ]() 1)
+The 10 most frequent ambiguous types:  <em>og</em> ([CONJ]() 7570, [PART]() 5, [X]() 3, [ADV]() 1, [ADP]() 1), <em>men</em> ([CONJ]() 889, [ADP]() 1, [X]() 1), <em>eller</em> ([CONJ]() 551, [X]() 4), <em>for</em> ([ADP]() 3543, [ADV]() 143, [CONJ]() 44, [X]() 7), <em>så</em> ([ADV]() 737, [VERB]() 91, [CONJ]() 60, [SCONJ]() 16), <em>å</em> ([PART]() 4246, [CONJ]() 4, [X]() 4, [AUX]() 1, [ADP]() 1, [INTJ]() 1), <em>and</em> ([X]() 20, [NOUN]() 1, [CONJ]() 1), <em>med</em> ([ADP]() 3061, [X]() 3, [CONJ]() 1)
 
 
 * <em>og</em>
@@ -24,8 +24,8 @@ The 10 most frequent ambiguous types:  <em>og</em> ([CONJ]() 7570, [PART]() 5, [
   * [ADP]() 1: <em>Den endelige beslutningen , eller overveiingen <b>og</b> å begå drap , ble tatt av domfelte om ettermiddagen og kvelden på drapsdagen 31. oktober 1996 da domfelte ladet våpenet , satte det i et skulderhylster og dro til Skaregata 2 .</em>
 * <em>men</em>
   * [CONJ]() 889: <em>Levende , <b>men</b> uten lærdommens livgivende vekst .</em>
-  * [X]() 1: <em>Der ligger « Chariot's , The UKs largest and friendliest gay <b>men</b> sauna » .</em>
   * [ADP]() 1: <em>Eller de kunne bli stående på bakken , la seg fange av opprørerne , <b>men</b> fare for akkurat samme utgang .</em>
+  * [X]() 1: <em>Der ligger « Chariot's , The UKs largest and friendliest gay <b>men</b> sauna » .</em>
 * <em>eller</em>
   * [CONJ]() 551: <em>Å være selvstyrt <b>eller</b> statsstyrt .</em>
   * [X]() 4: <em>Retten kan oppnemne en sakkunnig <b>eller</b> anna eigna person til å hjelpe seg , <b>eller</b> la ein sakkunnig ha samtale med barnet aleine . »</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>og</em> ([CONJ]() 7570, [PART]() 5, [
   * [ADP]() 3543: <em>Man bryter anstendighet <b>for</b> å si seg enig i det alle er enige om .</em>
   * [ADV]() 143: <em>Men kjente at kroppen var <b>for</b> tung .</em>
   * [CONJ]() 44: <em>Fardal ville sitte her , ikke i sofaen , <b>for</b> her er hun mer på alerten .</em>
-  * [X]() 7: <em>Bånn gass i nye « Need <b>for</b> Speed » |</em>
+  * [X]() 7: <em>Bånn gass i nye « Need <b>for</b> Speed »</em>
 * <em>så</em>
   * [ADV]() 737: <em>Det er alltid <b>så</b> vanskelig når man går på puben og blir fristet .</em>
   * [VERB]() 91: <em>Ap ønsker ikke å <b>så</b> tvil om at de tror på ny rødgrønn valgseier .</em>
@@ -43,13 +43,13 @@ The 10 most frequent ambiguous types:  <em>og</em> ([CONJ]() 7570, [PART]() 5, [
   * [PART]() 4246: <em>Det var grusomt <b>å</b> høre på . »</em>
   * [CONJ]() 4: <em>De fleste av småpartiene vil samarbeide med Ap , men er ikke enige om hvem andre det er som bør få være med <b>å</b> styre .</em>
   * [X]() 4: <em>Itj bruk tid på <b>å</b> ha på dåkk klea , ell bærg brølløpsbildan .</em>
+  * [AUX]() 1: <em>Og for at også jeg <b>å</b> komme med en bekjennelse :</em>
   * [ADP]() 1: <em>Derfor spør jeg meg selv ; hvis det er lov å betale Ruter penger for å oppfordre offentligheten til å dø av hjerteinfarkt - er det da også OK og dra hjem til de ansatte i Ruter og skyte amfetamin inn <b>å</b> øya på familiene deres ?</em>
   * [INTJ]() 1: <em>" <b>å</b> ja , det har vært et døende språk i over hundre år .</em>
-  * [AUX]() 1: <em>Og for at også jeg <b>å</b> komme med en bekjennelse :</em>
 * <em>and</em>
   * [X]() 20: <em>What lies beyond , <b>and</b> what lay before ?</em>
-  * [CONJ]() 1: <em>En geriljakrig handler om « hearts <b>and</b> minds » og om presise nålestikk mot geriljaens våpen .</em>
   * [NOUN]() 1: <em>Med et utvidet « Gjærbägst <b>and</b> the Homöcidal Sirupsnipps » -konsept og et trailerlass med plast ble stua raskt forvandlet til et improvisert øvingslokale med høy jallafaktor og lyden skrudd opp til 11 .</em>
+  * [CONJ]() 1: <em>En geriljakrig handler om « hearts <b>and</b> minds » og om presise nålestikk mot geriljaens våpen .</em>
 * <em>med</em>
   * [ADP]() 3061: <em>Han angir selv å være en person <b>med</b> sterk psyke .</em>
   * [X]() 3: <em>« Dommaren kan gjennomføre samtalar <b>med</b> barnet , jf. paragraf 32 .</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>og</em> ([CONJ]() 7570, [PART]() 5, [
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 1.230769 (the average of all parts of speech is 1.382722).
+The form / lemma ratio of `CONJ` is 1.230769 (the average of all parts of speech is 1.382778).
 
 The 1st highest number of forms (2) was observed with the lemma “eller”: <em>elle, eller</em>.
 

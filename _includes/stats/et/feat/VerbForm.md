@@ -74,7 +74,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 6294 [et-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (5501; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4060; 65%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (3847; 61%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3355; 53%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3248; 52%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3248; 52%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (5501; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4060; 65%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (3847; 61%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3355; 53%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3248; 52%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3248; 52%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 

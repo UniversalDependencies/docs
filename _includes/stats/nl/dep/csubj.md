@@ -91,27 +91,6 @@ The following 3 pairs of parts of speech are connected with `csubj`: [nl-pos/ADJ
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 6 csubj	color:blue
-1	Wanneer	wanneer	ADV	_	_	6	advmod	_	_
-2	ze	ze	PRON	_	Person=3|PronType=Prs	6	nsubj	_	_
-3	Leopold	Leopold	PROPN	_	_	6	dobj	_	_
-4	III	III	PROPN	_	_	3	name	_	_
-5	heeft	hebben	AUX	_	_	6	aux	_	_
-6	ontmoet	ontmoeten	VERB	_	VerbForm=Part	10	csubj	_	_
-7	,	,	PUNCT	_	_	10	punct	_	_
-8	is	zijn	AUX	_	_	10	cop	_	_
-9	niet	niet	ADV	_	_	10	neg	_	_
-10	bekend	bekend	ADJ	_	Degree=Pos	0	root	_	_
-11	.	.	PUNCT	_	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 11	bgColor:blue
@@ -137,6 +116,27 @@ The following 3 pairs of parts of speech are connected with `csubj`: [nl-pos/ADJ
 18	te	te	PART	_	_	19	mark	_	_
 19	lezen	lezen	VERB	_	VerbForm=Inf	11	csubj	_	_
 20	.	.	PUNCT	_	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 6 csubj	color:blue
+1	Wanneer	wanneer	ADV	_	_	6	advmod	_	_
+2	ze	ze	PRON	_	Person=3|PronType=Prs	6	nsubj	_	_
+3	Leopold	Leopold	PROPN	_	_	6	dobj	_	_
+4	III	III	PROPN	_	_	3	name	_	_
+5	heeft	hebben	AUX	_	_	6	aux	_	_
+6	ontmoet	ontmoeten	VERB	_	VerbForm=Part	10	csubj	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	is	zijn	AUX	_	_	10	cop	_	_
+9	niet	niet	ADV	_	_	10	neg	_	_
+10	bekend	bekend	ADJ	_	Degree=Pos	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

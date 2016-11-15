@@ -13,12 +13,12 @@ The 10 most frequent `INTJ` types:  <em>persze, igen, lám, na, no, sajnos</em>
 
 The 10 most frequent ambiguous lemmas: <em>persze</em> ([ADV]() 9, [INTJ]() 6), <em>igen</em> ([ADV]() 5, [INTJ]() 3, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>persze</em> ([ADV]() 5, [INTJ]() 5), <em>igen</em> ([ADV]() 5, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>persze</em> ([INTJ]() 5, [ADV]() 5), <em>igen</em> ([ADV]() 5, [INTJ]() 1)
 
 
 * <em>persze</em>
-  * [ADV]() 5: <em>Az úton ragadtak <b>persze</b> hálásak a tűzoltók , útmunkások segítségéért .</em>
   * [INTJ]() 5: <em>A megátalkodott , negatív kisugárzású pesszimista meg <b>persze</b> kérdezhetné , miért csak most , miért nem előbb ?</em>
+  * [ADV]() 5: <em>Az úton ragadtak <b>persze</b> hálásak a tűzoltók , útmunkások segítségéért .</em>
 * <em>igen</em>
   * [ADV]() 5: <em>A két vezér közötti kapcsolat finoman szólva <b>igen</b> rideg .</em>
   * [INTJ]() 1: <em>Egy szó , mint száz , képviselő nem lehet , ellenben díszvendég <b>igen</b> .</em>

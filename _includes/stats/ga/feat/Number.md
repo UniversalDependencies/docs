@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 1694 [ga-pos/DET]() tokens (79% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1460; 86%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1450; 86%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1450; 86%), <tt><a href="PronType.html">PronType</a>=Art</tt> (1448; 85%), <tt><a href="Definite.html">Definite</a>=Def</tt> (1447; 85%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1325; 78%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1460; 86%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1450; 86%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1450; 86%), <tt><a href="PronType.html">PronType</a>=Art</tt> (1448; 85%), <tt><a href="Definite.html">Definite</a>=Def</tt> (1447; 85%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1325; 78%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -120,7 +120,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 419 [ga-pos/ADJ]() tokens (36% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (419; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (419; 100%), <tt><a href="Case.html">Case</a>=Com</tt> (373; 89%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (235; 56%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (419; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (419; 100%), <tt><a href="Case.html">Case</a>=Com</tt> (373; 89%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (235; 56%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -130,7 +130,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>mór</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Com|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>mór, mhór, ró-mhór, ollmhór</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Com|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>mór, ollmhór, mhór, ró-mhór</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Com|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>mhór</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Com|<a href="NounType.html">NounType</a>=NotSlender</tt></td><td></td><td><em>móra</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>mhóir</em></td><td></td></tr>

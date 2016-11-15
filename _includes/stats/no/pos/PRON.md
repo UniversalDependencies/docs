@@ -13,7 +13,7 @@ The 10 most frequent `PRON` types:  <em>det, som, jeg, han, vi, de, seg, hun, du
 
 The 10 most frequent ambiguous lemmas: <em>det</em> ([PRON]() 5440, [DET]() 1116, [X]() 3), <em>som</em> ([PRON]() 3317, [ADP]() 1410, [SCONJ]() 28, [X]() 4), <em>jeg</em> ([PRON]() 2795, [NOUN]() 4), <em>vi</em> ([PRON]() 2214, [NOUN]() 1), <em>de</em> ([PRON]() 1636, [DET]() 1349, [PROPN]() 11, [X]() 6, [ADV]() 1), <em>seg</em> ([PRON]() 1231, [X]() 1), <em>du</em> ([PRON]() 799, [NOUN]() 1), <em>dette</em> ([PRON]() 587, [DET]() 171), <em>man</em> ([PRON]() 479, [NOUN]() 1, [X]() 1), <em>den</em> ([DET]() 1494, [PRON]() 437)
 
-The 10 most frequent ambiguous types:  <em>det</em> ([PRON]() 3781, [DET]() 931, [X]() 3), <em>som</em> ([PRON]() 3317, [ADP]() 1336, [X]() 4), <em>jeg</em> ([PRON]() 1466, [NOUN]() 4), <em>vi</em> ([PRON]() 1246, [NOUN]() 1), <em>de</em> ([DET]() 1170, [PRON]() 1054, [PROPN]() 11, [X]() 6, [ADV]() 1), <em>seg</em> ([PRON]() 1231, [X]() 1), <em>du</em> ([PRON]() 567, [NOUN]() 1), <em>dette</em> ([PRON]() 375, [DET]() 142), <em>man</em> ([PRON]() 428, [NOUN]() 1, [X]() 1), <em>meg</em> ([PRON]() 441, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>det</em> ([PRON]() 3781, [DET]() 931, [X]() 3), <em>som</em> ([PRON]() 3317, [ADP]() 1336, [X]() 4), <em>jeg</em> ([PRON]() 1466, [NOUN]() 4), <em>vi</em> ([PRON]() 1246, [NOUN]() 1), <em>de</em> ([DET]() 1170, [PRON]() 1054, [PROPN]() 11, [X]() 6, [ADV]() 1), <em>seg</em> ([PRON]() 1231, [X]() 1), <em>du</em> ([PRON]() 567, [NOUN]() 1), <em>dette</em> ([PRON]() 375, [DET]() 142), <em>man</em> ([PRON]() 428, [X]() 1, [NOUN]() 1), <em>meg</em> ([PRON]() 441, [ADP]() 1)
 
 
 * <em>det</em>
@@ -47,15 +47,15 @@ The 10 most frequent ambiguous types:  <em>det</em> ([PRON]() 3781, [DET]() 931,
   * [DET]() 142: <em>Hvorfor skulle vi egentlig noensinne forlate <b>dette</b> stedet ?</em>
 * <em>man</em>
   * [PRON]() 428: <em>Det er alltid så vanskelig når <b>man</b> går på puben og blir fristet .</em>
-  * [NOUN]() 1: <em>Grand old <b>man</b> :</em>
   * [X]() 1: <em>Jeg er solgt inn som en Ladies' <b>man</b> .</em>
+  * [NOUN]() 1: <em>Grand old <b>man</b> :</em>
 * <em>meg</em>
   * [PRON]() 441: <em>Jeg føler <b>meg</b> også selv litt smittet ; jeg spør :</em>
   * [ADP]() 1: <em>I 2010 ble Troms Kraft sterkt kritisert for å ha bidratt <b>meg</b> penger til et energiprosjekt ledet av Senterpartiet .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.350000 (the average of all parts of speech is 1.382722).
+The form / lemma ratio of `PRON` is 1.350000 (the average of all parts of speech is 1.382778).
 
 The 1st highest number of forms (5) was observed with the lemma “jeg”: <em>Eg, jeg, meg, mig, mæ</em>.
 
@@ -88,7 +88,7 @@ Parents of `PRON` nodes belong to 11 different parts of speech: [VERB]() (18791;
 
 The highest child degree of a `PRON` node is 11.
 
-Children of `PRON` nodes are attached using 28 different relations: [no-dep/case]() (1790; 33% instances), [no-dep/acl:relcl]() (843; 16% instances), [no-dep/punct]() (587; 11% instances), [no-dep/cop]() (268; 5% instances), [no-dep/det]() (244; 5% instances), [no-dep/nmod]() (226; 4% instances), [no-dep/advmod]() (219; 4% instances), [no-dep/acl]() (190; 4% instances), [no-dep/cc]() (185; 3% instances), [no-dep/conj]() (160; 3% instances), [no-dep/nsubj]() (160; 3% instances), [no-dep/appos]() (134; 3% instances), [no-dep/expl]() (93; 2% instances), [no-dep/mark]() (86; 2% instances), [no-dep/neg]() (44; 1% instances), [no-dep/advcl]() (24; 0% instances), [no-dep/aux]() (21; 0% instances), [no-dep/amod]() (19; 0% instances), [no-dep/parataxis]() (18; 0% instances), [no-dep/discourse]() (10; 0% instances), [no-dep/xcomp]() (9; 0% instances), [no-dep/csubj]() (4; 0% instances), [no-dep/goeswith]() (4; 0% instances), [no-dep/remnant]() (4; 0% instances), [no-dep/name]() (3; 0% instances), [no-dep/dobj]() (2; 0% instances), [no-dep/ccomp]() (1; 0% instances), [no-dep/nummod]() (1; 0% instances)
+Children of `PRON` nodes are attached using 28 different relations: [no-dep/case]() (1790; 33% instances), [no-dep/acl:relcl]() (843; 16% instances), [no-dep/punct]() (584; 11% instances), [no-dep/cop]() (268; 5% instances), [no-dep/det]() (244; 5% instances), [no-dep/nmod]() (226; 4% instances), [no-dep/advmod]() (219; 4% instances), [no-dep/acl]() (190; 4% instances), [no-dep/cc]() (185; 3% instances), [no-dep/conj]() (160; 3% instances), [no-dep/nsubj]() (160; 3% instances), [no-dep/appos]() (134; 3% instances), [no-dep/expl]() (93; 2% instances), [no-dep/mark]() (86; 2% instances), [no-dep/neg]() (44; 1% instances), [no-dep/advcl]() (24; 0% instances), [no-dep/aux]() (21; 0% instances), [no-dep/amod]() (19; 0% instances), [no-dep/parataxis]() (18; 0% instances), [no-dep/discourse]() (10; 0% instances), [no-dep/xcomp]() (9; 0% instances), [no-dep/csubj]() (4; 0% instances), [no-dep/goeswith]() (4; 0% instances), [no-dep/remnant]() (4; 0% instances), [no-dep/name]() (3; 0% instances), [no-dep/dobj]() (2; 0% instances), [no-dep/ccomp]() (1; 0% instances), [no-dep/nummod]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 16 different parts of speech: [ADP]() (1852; 35% instances), [VERB]() (1159; 22% instances), [PUNCT]() (587; 11% instances), [NOUN]() (455; 9% instances), [PRON]() (263; 5% instances), [DET]() (258; 5% instances), [ADV]() (245; 5% instances), [ADJ]() (189; 4% instances), [CONJ]() (186; 3% instances), [PROPN]() (75; 1% instances), [SCONJ]() (29; 1% instances), [AUX]() (21; 0% instances), [PART]() (12; 0% instances), [INTJ]() (10; 0% instances), [NUM]() (7; 0% instances), [X]() (1; 0% instances)
+Children of `PRON` nodes belong to 16 different parts of speech: [ADP]() (1852; 35% instances), [VERB]() (1159; 22% instances), [PUNCT]() (584; 11% instances), [NOUN]() (455; 9% instances), [PRON]() (263; 5% instances), [DET]() (258; 5% instances), [ADV]() (245; 5% instances), [ADJ]() (189; 4% instances), [CONJ]() (186; 3% instances), [PROPN]() (75; 1% instances), [SCONJ]() (29; 1% instances), [AUX]() (21; 0% instances), [PART]() (12; 0% instances), [INTJ]() (10; 0% instances), [NUM]() (7; 0% instances), [X]() (1; 0% instances)
 

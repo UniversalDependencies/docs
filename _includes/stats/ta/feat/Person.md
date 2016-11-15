@@ -132,7 +132,7 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 
 15 [ta-pos/PART]() tokens (2% of all `PART` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (15; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%).
+The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (15; 100%).
 
 `PART` tokens may have the following values of `Person`:
 

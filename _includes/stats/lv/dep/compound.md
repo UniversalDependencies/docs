@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-74 nodes (0%) are attached to their parents as `compound`.
+73 nodes (0%) are attached to their parents as `compound`.
 
-38 instances of `compound` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25675675675676.
+38 instances of `compound` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.26027397260274.
 
-The following 12 pairs of parts of speech are connected with `compound`: [lv-pos/NUM]()-[lv-pos/NUM]() (38; 51% instances), [lv-pos/NUM]()-[lv-pos/NOUN]() (16; 22% instances), [lv-pos/PRON]()-[lv-pos/PRON]() (8; 11% instances), [lv-pos/ADV]()-[lv-pos/SCONJ]() (3; 4% instances), [lv-pos/PRON]()-[lv-pos/NOUN]() (2; 3% instances), [lv-pos/ADV]()-[lv-pos/ADV]() (1; 1% instances), [lv-pos/NOUN]()-[lv-pos/PRON]() (1; 1% instances), [lv-pos/NUM]()-[lv-pos/ADJ]() (1; 1% instances), [lv-pos/NUM]()-[lv-pos/PRON]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/NUM]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/PROPN]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/VERB]() (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `compound`: [lv-pos/NUM]()-[lv-pos/NUM]() (38; 52% instances), [lv-pos/NUM]()-[lv-pos/NOUN]() (16; 22% instances), [lv-pos/PRON]()-[lv-pos/PRON]() (8; 11% instances), [lv-pos/ADV]()-[lv-pos/SCONJ]() (3; 4% instances), [lv-pos/ADV]()-[lv-pos/ADV]() (1; 1% instances), [lv-pos/NOUN]()-[lv-pos/PRON]() (1; 1% instances), [lv-pos/NUM]()-[lv-pos/ADJ]() (1; 1% instances), [lv-pos/NUM]()-[lv-pos/PRON]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/NOUN]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/NUM]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/PROPN]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/VERB]() (1; 1% instances).
 
 
 ~~~ conllu

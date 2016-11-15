@@ -7,23 +7,22 @@
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-7766 tokens (3%) have a non-empty value of `NumType`.
-1051 types (4%) occur at least once with a non-empty value of `NumType`.
-958 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 7 part-of-speech tags: [pt-pos/NUM]() (4170; 2% instances), [pt-pos/ADV]() (1325; 1% instances), [pt-pos/DET]() (1012; 0% instances), [pt-pos/ADJ]() (791; 0% instances), [pt-pos/PRON]() (463; 0% instances), [pt-pos/NOUN]() (4; 0% instances), [pt-pos/PROPN]() (1; 0% instances).
+7919 tokens (3%) have a non-empty value of `NumType`.
+1069 types (4%) occur at least once with a non-empty value of `NumType`.
+975 lemmas (5%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 7 part-of-speech tags: [pt-pos/NUM]() (4289; 2% instances), [pt-pos/ADV]() (1325; 1% instances), [pt-pos/DET]() (1012; 0% instances), [pt-pos/ADJ]() (825; 0% instances), [pt-pos/PRON]() (463; 0% instances), [pt-pos/NOUN]() (4; 0% instances), [pt-pos/PROPN]() (1; 0% instances).
 
 ### `NUM`
 
-4170 [pt-pos/NUM]() tokens (97% of all `NUM` tokens) have a non-empty value of `NumType`.
+4289 [pt-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (3309; 79%), <tt><a href="Number.html">Number</a>=Plur</tt> (3147; 75%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (3420; 80%), <tt><a href="Number.html">Number</a>=Plur</tt> (3217; 75%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (4170; 100% of non-empty `NumType`): <em>um, dois, três, mil, uma, duas, quatro, cinco, 15, 30</em>
-* `EMPTY` (119): <em>1, 0, 1992, 2, 23, mil, três, (011), 10, 14</em>
+* `Card` (4289; 100% of non-empty `NumType`): <em>um, dois, três, mil, uma, duas, quatro, cinco, 15, 30</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (826) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (839) occur only with one value of `NumType`.
 
 ### `ADV`
 
@@ -47,21 +46,21 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (1012; 100% of non-empty `NumType`): <em>qualquer, mais, cada, alguns, algumas, todos, muitos, vários, todo, várias</em>
-* `EMPTY` (33405): <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
+* `EMPTY` (34648): <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
 
 `NumType` seems to be **lexical feature** of `DET`. 100% lemmas (29) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-791 [pt-pos/ADJ]() tokens (7% of all `ADJ` tokens) have a non-empty value of `NumType`.
+825 [pt-pos/ADJ]() tokens (8% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (669; 85%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (463; 59%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (661; 80%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (458; 56%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (2; 0% of non-empty `NumType`): <em>mesmo, primeiro</em>
-* `Ord` (789; 100% of non-empty `NumType`): <em>primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</em>
-* `EMPTY` (10085): <em>grande, maior, novo, nova, grandes, melhor, nacional, próximo, mundial, responsável</em>
+* `Ord` (823; 100% of non-empty `NumType`): <em>primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</em>
+* `EMPTY` (10169): <em>nacional, grande, maior, novo, nova, grandes, melhor, próximo, mundial, responsável</em>
 
 <table>
   <tr><th>Paradigm <i>primeiro</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -72,18 +71,18 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>primeira</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 99% lemmas (82) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 99% lemmas (87) occur only with one value of `NumType`.
 
 ### `PRON`
 
 463 [pt-pos/PRON]() tokens (7% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (463; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (463; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (463; 100%), <tt><a href="PronType.html">PronType</a>=Ind,Neg,Tot</tt> (441; 95%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (397; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (298; 64%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (463; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (463; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (463; 100%), <tt><a href="PronType.html">PronType</a>=Ind,Neg,Tot</tt> (441; 95%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (397; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (298; 64%).
 
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (463; 100% of non-empty `NumType`): <em>tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos</em>
-* `EMPTY` (6234): <em>que, se, ele, o, isso, quem, lhe, eles, a, eu</em>
+* `EMPTY` (6255): <em>que, se, -se, ele, o, isso, quem, eles, eu, ela</em>
 
 `NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (26) occur only with one value of `NumType`.
 
@@ -97,32 +96,32 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 
 * `Card` (3; 75% of non-empty `NumType`): <em>mil, 66'</em>
 * `Ord` (1; 25% of non-empty `NumType`): <em>2ª</em>
-* `EMPTY` (42073): <em>anos, presidente, milhões, ano, dia, país, pessoas, estado, vez, tempo</em>
+* `EMPTY` (42048): <em>anos, presidente, milhões, ano, dia, país, pessoas, estado, vez, tempo</em>
 
 ### `PROPN`
 
 1 [pt-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PROPN` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `NumType` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>Doze</em>
-* `EMPTY` (18461): <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Nacional, Lisboa, EUA</em>
+* `EMPTY` (18352): <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Lisboa, EUA, rio</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (145; 98%),
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (92; 99%),
+<tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (148; 100%),
+<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (102; 100%),
+<tt>NUM --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (22; 100%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (16; 84%),
 <tt>ADV --[<a href="../dep/mwe.html">mwe</a>]--> ADV</tt> (13; 100%),
+<tt>NUM --[<a href="../dep/advmod.html">advmod</a>]--> NUM</tt> (13; 100%),
 <tt>PRON --[<a href="../dep/compound.html">compound</a>]--> PRON</tt> (7; 100%),
 <tt>NUM --[<a href="../dep/advmod.html">advmod</a>]--> PRON</tt> (5; 56%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 100%),
-<tt>PRON --[<a href="../dep/compound.html">compound</a>]--> ADV</tt> (2; 100%),
-<tt>NUM --[<a href="../dep/advmod:emph.html">advmod:emph</a>]--> ADV</tt> (1; 100%),
-<tt>ADV --[<a href="../dep/cop.html">cop</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/compound.html">compound</a>]--> ADV</tt> (2; 100%).
 
 
 
@@ -154,7 +153,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<a href="../dep/nmod.html">nmod</a>]--> NUM</tt> (197; 100%),
 <tt>NUM --[<a href="../dep/appos.html">appos</a>]--> NUM</tt> (17; 100%),
 <tt>NUM --[<a href="../dep/dep.html">dep</a>]--> NUM</tt> (3; 100%),
-<tt>NUM --[<a href="../dep/name.html">name</a>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<a href="../dep/cc.html">cc</a>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<a href="../dep/case.html">case</a>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<a href="../dep/case.html">case</a>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<a href="../dep/name.html">name</a>]--> NUM</tt> (1; 100%).
 

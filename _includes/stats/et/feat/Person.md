@@ -79,7 +79,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 1 [et-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Person`:
 

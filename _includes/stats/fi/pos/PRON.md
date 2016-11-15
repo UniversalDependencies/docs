@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: <em>se, joka, tämä, hän, minä, mikä, ka
 
 The 10 most frequent `PRON` types:  <em>se, hän, sen, joka, sitä, siitä, tämä, tämän, jotka, ne</em>
 
-The 10 most frequent ambiguous lemmas: <em>joka</em> ([PRON]() 1667, [ADV]() 6), <em>kaikki</em> ([PRON]() 487, [ADV]() 1), <em>muu</em> ([PRON]() 378, [ADV]() 1), <em>toinen</em> ([PRON]() 171, [ADJ]() 136, [NOUN]() 36), <em>itse</em> ([PRON]() 165, [ADV]() 119), <em>yksi</em> ([NUM]() 173, [PRON]() 47), <em>ainoa</em> ([PRON]() 30, [ADJ]() 5, [NOUN]() 1), <em>harva</em> ([PRON]() 8, [ADJ]() 4, [ADV]() 1), <em>usea</em> ([ADJ]() 107, [PRON]() 4), <em>useampi</em> ([PRON]() 2, [ADJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>joka</em> ([PRON]() 1667, [ADV]() 6), <em>kaikki</em> ([PRON]() 487, [ADV]() 1), <em>muu</em> ([PRON]() 378, [ADV]() 1), <em>toinen</em> ([PRON]() 171, [ADJ]() 136, [NOUN]() 36), <em>itse</em> ([PRON]() 165, [ADV]() 119), <em>yksi</em> ([NUM]() 173, [PRON]() 47), <em>ainoa</em> ([PRON]() 30, [ADJ]() 5, [NOUN]() 1), <em>harva</em> ([PRON]() 8, [ADJ]() 4, [ADV]() 1), <em>usea</em> ([ADJ]() 107, [PRON]() 4), <em>useampi</em> ([ADJ]() 2, [PRON]() 2)
 
 The 10 most frequent ambiguous types:  <em>sen</em> ([PRON]() 476, [ADV]() 13), <em>joka</em> ([PRON]() 467, [ADV]() 6), <em>sitä</em> ([PRON]() 303, [ADV]() 18, [CONJ]() 2), <em>tämän</em> ([PRON]() 181, [ADV]() 1), <em>mitä</em> ([PRON]() 177, [ADV]() 12, [CONJ]() 4, [SCONJ]() 1), <em>kaikki</em> ([PRON]() 170, [ADV]() 1), <em>siinä</em> ([PRON]() 74, [ADV]() 13), <em>tästä</em> ([PRON]() 55, [ADV]() 1), <em>jotain</em> ([PRON]() 79, [ADV]() 2), <em>sillä</em> ([SCONJ]() 138, [PRON]() 59)
 

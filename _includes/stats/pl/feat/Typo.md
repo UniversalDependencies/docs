@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [pl-pos/PRON]() (6; 0% instances
 
 6 [pl-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (6; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (6; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (6; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (6; 100%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (6; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (6; 100%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (6; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (6; 100%).
 
 `PRON` tokens may have the following values of `Typo`:
 

@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [got-pos/VERB]() (9396; 17% inst
 
 9396 [got-pos/VERB]() tokens (73% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (9396; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9396; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (9396; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (9396; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (9119; 97%), <tt><a href="Number.html">Number</a>=Sing</tt> (6381; 68%), <tt><a href="Person.html">Person</a>=3</tt> (6162; 66%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5338; 57%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9396; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (9396; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (9396; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (9396; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (9119; 97%), <tt><a href="Number.html">Number</a>=Sing</tt> (6381; 68%), <tt><a href="Person.html">Person</a>=3</tt> (6162; 66%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5338; 57%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>qiþam</em></td><td><em>qiþam</em></td><td><em>qiþaima</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>qiþeiþ</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>qiþiþ</em></td><td><em>qiþiþ, qiþid</em></td><td><em>qiþaiþ</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>qeþun</em></td><td></td><td><em>qeþeina, qiþeina</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>qeþun</em></td><td></td><td><em>qiþeina, qeþeina</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>qiþand</em></td><td></td><td><em>qiþaina</em></td></tr>
 </table>
 

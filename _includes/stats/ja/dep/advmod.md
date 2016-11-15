@@ -2,6 +2,78 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+4579 nodes (5%) are attached to their parents as `advmod`.
+
+4573 instances of `advmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.60995850622407.
+
+The following 29 pairs of parts of speech are connected with `advmod`: [ja-pos/VERB]()-[ja-pos/ADV]() (2103; 46% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (659; 14% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (495; 11% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (475; 10% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (399; 9% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (122; 3% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (113; 2% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (38; 1% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (35; 1% instances), [ja-pos/NUM]()-[ja-pos/ADV]() (25; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (21; 0% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (13; 0% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (13; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (12; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (12; 0% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (12; 0% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (9; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (6; 0% instances), [ja-pos/PRON]()-[ja-pos/ADV]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/ADP]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/DET]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 1 advmod	color:blue
+1	ただし	_	ADV	ADV	_	9	advmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
+4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
+8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 1 advmod	color:blue
+1	今回	_	NOUN	NOUN	_	9	advmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	日本の	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
+4	メディアも	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
+5	この	_	DET	DET	_	6	amod	_	_
+6	テストに	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
+7	参加する	_	VERB	VERB-AUX	_	8	ccomp	_	_
+8	ことが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	できたので	_	VERB	VERB-AUX-CONJ	_	13	advcl	_	_
+10	、	_	PUNCT	.	_	9	punct	_	_
+11	最新バージョンの	_	NOUN	NOUN-POSTP	_	12	nmod	_	_
+12	出来具合を	_	NOUN	NOUN-PRT	_	13	nmod	_	_
+13	レポートしていきたい。	_	VERB	VERB-AUX-AUX-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 advmod	color:blue
+1	やはり	_	ADV	ADV	_	4	advmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	おすすめは	_	NOUN	NOUN-PRT	_	4	nmod	_	_
+4	焼き物ですね。	_	NOUN	NOUN-VERB-AUX-PRT	_	0	root	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

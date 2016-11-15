@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-38 nodes (0%) are attached to their parents as `vocative`.
+60 nodes (0%) are attached to their parents as `vocative`.
 
-23 instances of `vocative` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.94736842105263.
+36 instances of `vocative` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.35.
 
-The following 8 pairs of parts of speech are connected with `vocative`: [ro-pos/VERB]()-[ro-pos/NOUN]() (25; 66% instances), [ro-pos/INTJ]()-[ro-pos/NOUN]() (4; 11% instances), [ro-pos/VERB]()-[ro-pos/PROPN]() (4; 11% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (1; 3% instances), [ro-pos/ADV]()-[ro-pos/NOUN]() (1; 3% instances), [ro-pos/AUX]()-[ro-pos/NOUN]() (1; 3% instances), [ro-pos/PRON]()-[ro-pos/NOUN]() (1; 3% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (1; 3% instances).
+The following 10 pairs of parts of speech are connected with `vocative`: [ro-pos/VERB]()-[ro-pos/NOUN]() (40; 67% instances), [ro-pos/VERB]()-[ro-pos/PROPN]() (7; 12% instances), [ro-pos/INTJ]()-[ro-pos/NOUN]() (3; 5% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (3; 5% instances), [ro-pos/NOUN]()-[ro-pos/NOUN]() (2; 3% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (1; 2% instances), [ro-pos/ADV]()-[ro-pos/NOUN]() (1; 2% instances), [ro-pos/AUX]()-[ro-pos/NOUN]() (1; 2% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (1; 2% instances), [ro-pos/PRON]()-[ro-pos/NOUN]() (1; 2% instances).
 
 
 ~~~ conllu
@@ -36,26 +36,6 @@ The following 8 pairs of parts of speech are connected with `vocative`: [ro-pos/
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 vocative	color:blue
-1	Haideți	haideți	INTJ	I	_	0	root	_	_
-2	,	,	PUNCT	COMMA	_	3	punct	_	_
-3	tovarăși	tovarăș	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	1	vocative	_	_
-4	,	,	PUNCT	COMMA	_	1	punct	_	_
-5	mai	mai	ADV	Rp	_	6	advmod	_	_
-6	multă	mult	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	7	det	_	_
-7	viață	viață	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	parataxis	_	_
-8	-n	în	ADP	Spsay	AdpType=Prep|Case=Acc|Variant=Short	9	case	_	_
-9	mișcare	mișcare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
-10	!	!	PUNCT	EXCL	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 6	bgColor:blue
@@ -74,6 +54,31 @@ The following 8 pairs of parts of speech are connected with `vocative`: [ro-pos/
 11	mai	mai	ADV	Rp	_	12	advmod	_	_
 12	lejeră	lejer	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
 13	.	.	PUNCT	PERIOD	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 vocative	color:blue
+1	Stăpâniți	stăpâni	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+2	-o	el	PRON	Pp3fsa--y-----w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	1	expl	_	_
+3	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+4	Joiana	Joiana	PROPN	Np	_	1	dobj	_	_
+5	,	,	PUNCT	COMMA	_	6	punct	_	_
+6	voi	tu	PRON	Pp2-pr--------s	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs|Strength=Strong	1	vocative	_	_
+7	,	,	PUNCT	COMMA	_	8	punct	_	_
+8	băieți	băiat	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	6	appos	_	_
+9	,	,	PUNCT	COMMA	_	8	punct	_	_
+10	când	când	ADV	Rw	PronType=Int,Rel	14	advmod	_	_
+11	n-	nu	PART	Qz-y	Negative=Neg|Variant=Short	14	neg	_	_
+12	oi	vrea	AUX	Va--2s	Number=Sing|Person=2	14	aux	_	_
+13	mai	mai	ADV	Rp	_	14	advmod	_	_
+14	fi	fi	VERB	Vmnp	Tense=Pres|VerbForm=Inf	1	advcl	_	_
+15	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 ~~~
 

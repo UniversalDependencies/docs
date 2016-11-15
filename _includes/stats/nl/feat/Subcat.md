@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Subcat` co-occurre
 
 3119 [nl-pos/AUX]() tokens (27% of all `AUX` tokens) have a non-empty value of `Subcat`.
 
-The most frequent other feature values with which `AUX` and `Subcat` co-occurred: <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (3119; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3034; 97%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2913; 93%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (2913; 93%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2913; 93%), <tt><a href="Tense.html">Tense</a>=Past</tt> (2750; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2725; 87%).
+The most frequent other feature values with which `AUX` and `Subcat` co-occurred: <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (3119; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3034; 97%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2913; 93%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (2913; 93%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2913; 93%), <tt><a href="Tense.html">Tense</a>=Past</tt> (2750; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2725; 87%).
 
 `AUX` tokens may have the following values of `Subcat`:
 

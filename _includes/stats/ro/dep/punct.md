@@ -6,76 +6,71 @@
 
 This relation is universal.
 
-19564 nodes (13%) are attached to their parents as `punct`.
+27994 nodes (13%) are attached to their parents as `punct`.
 
-14030 instances of `punct` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.37594561439378.
+20210 instances of `punct` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.58426805744088.
 
-The following 45 pairs of parts of speech are connected with `punct`: [ro-pos/VERB]()-[ro-pos/PUNCT]() (9209; 47% instances), [ro-pos/NOUN]()-[ro-pos/PUNCT]() (5286; 27% instances), [ro-pos/ADJ]()-[ro-pos/PUNCT]() (1144; 6% instances), [ro-pos/NUM]()-[ro-pos/PUNCT]() (1098; 6% instances), [ro-pos/PROPN]()-[ro-pos/PUNCT]() (778; 4% instances), [ro-pos/ADV]()-[ro-pos/PUNCT]() (655; 3% instances), [ro-pos/ADP]()-[ro-pos/PUNCT]() (424; 2% instances), [ro-pos/PRON]()-[ro-pos/PUNCT]() (178; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (126; 1% instances), [ro-pos/PART]()-[ro-pos/PUNCT]() (117; 1% instances), [ro-pos/NOUN]()-[ro-pos/SYM]() (106; 1% instances), [ro-pos/VERB]()-[ro-pos/SYM]() (78; 0% instances), [ro-pos/NUM]()-[ro-pos/SYM]() (67; 0% instances), [ro-pos/NOUN]()-[ro-pos/NOUN]() (56; 0% instances), [ro-pos/CONJ]()-[ro-pos/PUNCT]() (40; 0% instances), [ro-pos/INTJ]()-[ro-pos/PUNCT]() (40; 0% instances), [ro-pos/DET]()-[ro-pos/PUNCT]() (34; 0% instances), [ro-pos/AUX]()-[ro-pos/PUNCT]() (32; 0% instances), [ro-pos/CONJ]()-[ro-pos/SYM]() (15; 0% instances), [ro-pos/PROPN]()-[ro-pos/SYM]() (11; 0% instances), [ro-pos/SCONJ]()-[ro-pos/PUNCT]() (9; 0% instances), [ro-pos/NOUN]()-[ro-pos/NUM]() (8; 0% instances), [ro-pos/ADJ]()-[ro-pos/SYM]() (6; 0% instances), [ro-pos/PROPN]()-[ro-pos/NOUN]() (6; 0% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (6; 0% instances), [ro-pos/ADP]()-[ro-pos/SYM]() (4; 0% instances), [ro-pos/SYM]()-[ro-pos/PUNCT]() (4; 0% instances), [ro-pos/SYM]()-[ro-pos/ADP]() (3; 0% instances), [ro-pos/ADV]()-[ro-pos/SYM]() (2; 0% instances), [ro-pos/DET]()-[ro-pos/NOUN]() (2; 0% instances), [ro-pos/INTJ]()-[ro-pos/ADP]() (2; 0% instances), [ro-pos/INTJ]()-[ro-pos/SYM]() (2; 0% instances), [ro-pos/NOUN]()-[ro-pos/CONJ]() (2; 0% instances), [ro-pos/PRON]()-[ro-pos/SYM]() (2; 0% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (2; 0% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/NUM]() (1; 0% instances), [ro-pos/CONJ]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/INTJ]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/PROPN]() (1; 0% instances), [ro-pos/PUNCT]()-[ro-pos/PUNCT]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/INTJ]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (1; 0% instances).
+The following 39 pairs of parts of speech are connected with `punct`: [ro-pos/VERB]()-[ro-pos/PUNCT]() (13341; 48% instances), [ro-pos/NOUN]()-[ro-pos/PUNCT]() (7856; 28% instances), [ro-pos/NUM]()-[ro-pos/PUNCT]() (1761; 6% instances), [ro-pos/ADJ]()-[ro-pos/PUNCT]() (1409; 5% instances), [ro-pos/PROPN]()-[ro-pos/PUNCT]() (1108; 4% instances), [ro-pos/ADV]()-[ro-pos/PUNCT]() (886; 3% instances), [ro-pos/ADP]()-[ro-pos/PUNCT]() (547; 2% instances), [ro-pos/PRON]()-[ro-pos/PUNCT]() (269; 1% instances), [ro-pos/NOUN]()-[ro-pos/SYM]() (250; 1% instances), [ro-pos/VERB]()-[ro-pos/SYM]() (85; 0% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (71; 0% instances), [ro-pos/NUM]()-[ro-pos/SYM]() (63; 0% instances), [ro-pos/CONJ]()-[ro-pos/PUNCT]() (62; 0% instances), [ro-pos/AUX]()-[ro-pos/PUNCT]() (57; 0% instances), [ro-pos/INTJ]()-[ro-pos/PUNCT]() (34; 0% instances), [ro-pos/PART]()-[ro-pos/PUNCT]() (34; 0% instances), [ro-pos/DET]()-[ro-pos/PUNCT]() (33; 0% instances), [ro-pos/X]()-[ro-pos/PUNCT]() (22; 0% instances), [ro-pos/CONJ]()-[ro-pos/SYM]() (18; 0% instances), [ro-pos/PROPN]()-[ro-pos/SYM]() (17; 0% instances), [ro-pos/NOUN]()-[ro-pos/NOUN]() (13; 0% instances), [ro-pos/SYM]()-[ro-pos/PUNCT]() (11; 0% instances), [ro-pos/SCONJ]()-[ro-pos/PUNCT]() (9; 0% instances), [ro-pos/ADJ]()-[ro-pos/SYM]() (7; 0% instances), [ro-pos/NOUN]()-[ro-pos/NUM]() (6; 0% instances), [ro-pos/ADP]()-[ro-pos/SYM]() (5; 0% instances), [ro-pos/PUNCT]()-[ro-pos/PUNCT]() (4; 0% instances), [ro-pos/ADV]()-[ro-pos/SYM]() (2; 0% instances), [ro-pos/PRON]()-[ro-pos/SYM]() (2; 0% instances), [ro-pos/SYM]()-[ro-pos/SYM]() (2; 0% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (2; 0% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/CONJ]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/PROPN]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/NUM]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (1; 0% instances), [ro-pos/X]()-[ro-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 punct	color:blue
+1	Acolo	acolo	ADV	Rgp	Degree=Pos	7	advmod	_	_
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
+3	lângă	lângă	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+4	izvoară	izvoară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
+6	iarba	iarbă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	pare	părea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+9	omăt	omăt	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	xcomp	_	_
+10	.	.	PUNCT	PERIOD	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 10 punct	color:blue
-1	Dacă	dacă	SCONJ	Csssp	Negative=Pos	4	mark	_	_
-2	n-	nu	PART	Qz-y	Negative=Neg|Variant=Short	4	neg	_	_
-3	ai	avea	AUX	Va--2s	Number=Sing|Person=2	4	aux	_	_
-4	avut	avea	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	11	advcl	_	_
-5	destulă	destulă	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	6	amod	_	_
-6	vreme	vreme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	dobj	_	_
-7	să	să	PART	Qs	Mood=Sub	9	mark	_	_
-8	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	9	dobj	_	_
-9	cunoști	cunoaște	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
-10	,	,	PUNCT	COMMA	_	4	punct	_	_
-11	păcat	păcat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-12	!	!	PUNCT	EXCL	_	11	punct	_	_
+# visual-style 4 5 punct	color:blue
+1	Acolo	acolo	ADV	Rgp	Degree=Pos	7	advmod	_	_
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
+3	lângă	lângă	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
+4	izvoară	izvoară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
+6	iarba	iarbă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	pare	părea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+9	omăt	omăt	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	xcomp	_	_
+10	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 11 12 punct	color:blue
-1	Dacă	dacă	SCONJ	Csssp	Negative=Pos	4	mark	_	_
-2	n-	nu	PART	Qz-y	Negative=Neg|Variant=Short	4	neg	_	_
-3	ai	avea	AUX	Va--2s	Number=Sing|Person=2	4	aux	_	_
-4	avut	avea	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	11	advcl	_	_
-5	destulă	destulă	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	6	amod	_	_
-6	vreme	vreme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	dobj	_	_
-7	să	să	PART	Qs	Mood=Sub	9	mark	_	_
-8	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	9	dobj	_	_
-9	cunoști	cunoaște	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
-10	,	,	PUNCT	COMMA	_	4	punct	_	_
-11	păcat	păcat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-12	!	!	PUNCT	EXCL	_	11	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 12 punct	color:blue
-1	remarcabilă	remarcabil	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
-2	este	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
-3	aici	aici	ADV	Rgp	Degree=Pos	1	advmod	_	_
-4	insistența	insistență	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
-5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	mark	_	_
-6	a	a	PART	Qn	PartType=Inf	9	mark	_	_
-7	nu	nu	PART	Qz	Negative=Neg	9	neg	_	_
-8	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	9	expl:impers	_	_
-9	interveni	interveni	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
-10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
-11	text	text	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	_
-12	.	.	PUNCT	PERIOD	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 11 punct	color:blue
+1	Sunt	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
+3	număr	număr	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
+4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
+5	patru	patru	NUM	Mc-p-l	Number=Plur|NumForm=Word|NumType=Card	0	root	_	_
+6	și	și	CONJ	Crssp	Negative=Pos	5	cc	_	_
+7	corespund	corespunde	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	hieratic	hieratic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	advmod	_	_
+9	punctelor	punct	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	7	iobj	_	_
+10	cardinale	cardinal	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	_
+11	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 ~~~
 

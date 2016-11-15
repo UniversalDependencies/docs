@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-275 nodes (0%) are attached to their parents as `xcomp`.
+497 nodes (0%) are attached to their parents as `xcomp`.
 
-273 instances of `xcomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.36.
+490 instances of `xcomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.45070422535211.
 
-The following 4 pairs of parts of speech are connected with `xcomp`: [bg-pos/VERB]()-[bg-pos/VERB]() (260; 95% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (10; 4% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (4; 1% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `xcomp`: [bg-pos/VERB]()-[bg-pos/VERB]() (458; 92% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (19; 4% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (11; 2% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (6; 1% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu

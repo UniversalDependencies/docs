@@ -108,7 +108,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 2386 [la-pos/VERB]() tokens (23% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2386; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2386; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2231; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (1669; 70%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (1644; 69%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1613; 68%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1613; 68%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2386; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2386; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2231; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (1669; 70%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (1644; 69%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1613; 68%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1613; 68%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -308,7 +308,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 9740 [la-pos/VERB]() tokens (19% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (9740; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9740; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (9693; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8925; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (7124; 73%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (6685; 69%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5687; 58%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (5687; 58%), <tt><a href="Case.html">Case</a>=Nom</tt> (5390; 55%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (9740; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9740; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (9693; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8925; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (7124; 73%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (6685; 69%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (5687; 58%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5687; 58%), <tt><a href="Case.html">Case</a>=Nom</tt> (5390; 55%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -360,7 +360,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 3128 [la-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (3127; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2254; 72%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1819; 58%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (1819; 58%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (3127; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2254; 72%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (1819; 58%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1819; 58%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -387,7 +387,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 1337 [la-pos/NUM]() tokens (64% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1337; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1337; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1321; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1086; 81%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1337; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1337; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1321; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1086; 81%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -563,7 +563,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 7315 [la-pos/VERB]() tokens (18% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (7315; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (7315; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6931; 95%), <tt><a href="Case.html">Case</a>=Nom</tt> (4700; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (4692; 64%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4193; 57%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4193; 57%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (4183; 57%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (7315; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7315; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6931; 95%), <tt><a href="Case.html">Case</a>=Nom</tt> (4700; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (4692; 64%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4193; 57%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4193; 57%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (4183; 57%).
 
 `VERB` tokens may have the following values of `Gender`:
 

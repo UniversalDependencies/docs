@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/PRON]() (27; 0% instance
 
 27 [da-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (27; 100%), <tt><a href="Person.html">Person</a>=2</tt> (27; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (27; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (27; 100%), <tt><a href="Gender.html">Gender</a>=Com</tt> (26; 96%), <tt><a href="Case.html">Case</a>=Nom</tt> (21; 78%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (27; 100%), <tt><a href="Person.html">Person</a>=2</tt> (27; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (27; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (27; 100%), <tt><a href="Gender.html">Gender</a>=Com</tt> (26; 96%), <tt><a href="Case.html">Case</a>=Nom</tt> (21; 78%).
 
 `PRON` tokens may have the following values of `Polite`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 
 4 [da-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="Person.html">Person</a>=2</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 100%), <tt><a href="Person.html">Person</a>=2</tt> (4; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4; 100%).
 
 `DET` tokens may have the following values of `Polite`:
 

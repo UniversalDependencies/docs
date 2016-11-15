@@ -4,14 +4,14 @@
 
 ## Treebank Statistics (UD_Persian)
 
-There are 1 `NUM` lemmas (3%), 397 `NUM` types (2%) and 3409 `NUM` tokens (2%).
-Out of 15 observed tags, the rank of `NUM` is: 13 in number of lemmas, 5 in number of types and 11 in number of tokens.
+There are 289 `NUM` lemmas (3%), 397 `NUM` types (2%) and 3409 `NUM` tokens (2%).
+Out of 15 observed tags, the rank of `NUM` is: 4 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: _
+The 10 most frequent `NUM` lemmas: یک، دو، _، هزار، سه، میلیون، ۲، چهار، ۵، ۳
 
 The 10 most frequent `NUM` types:  یک، دو، یکی، هزار، سه، میلیون، ۲، چهار، ۵، ۳
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 57224, [VERB]() 16929, [ADJ]() 13490, [PUNCT]() 13442, [ADP]() 11406, [PRON]() 5792, [ADV]() 4099, [DET]() 3558, [NUM]() 3409, [SCONJ]() 2428, [CONJ]() 2098, [AUX]() 742, [PART]() 490, [X]() 245, [INTJ]() 69)
+The 10 most frequent ambiguous lemmas: یک ([NUM]() 1011, [PRON]() 12, [NOUN]() 1), دو ([NUM]() 333, [NOUN]() 3), _ ([NOUN]() 4861, [VERB]() 1473, [ADJ]() 1371, [ADV]() 194, [NUM]() 152, [X]() 92, [PUNCT]() 90, [PRON]() 35, [ADP]() 32, [INTJ]() 19, [AUX]() 13, [SCONJ]() 12, [CONJ]() 5, [DET]() 4), سه ([NUM]() 121, [NOUN]() 2), میلیون ([NUM]() 74, [NOUN]() 1), چهار ([NUM]() 46, [NOUN]() 2), ده ([NUM]() 36, [NOUN]() 5, [VERB]() 1), میلیارد ([NUM]() 29, [NOUN]() 20), ۲۰ ([NUM]() 27, [NOUN]() 1), ۷ ([NUM]() 24, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  یک ([NUM]() 839, [PRON]() 12), دو ([NUM]() 333, [NOUN]() 3), یکی ([NUM]() 172, [NOUN]() 1), سه ([NUM]() 121, [NOUN]() 2), چهار ([NUM]() 46, [NOUN]() 2), ده ([NUM]() 30, [NOUN]() 4, [VERB]() 1), میلیارد ([NUM]() 29, [NOUN]() 20), ۲۰ ([NUM]() 27, [NOUN]() 1), ۷ ([NUM]() 24, [NOUN]() 1), هشت ([NUM]() 22, [NOUN]() 3)
 
@@ -50,9 +50,13 @@ The 10 most frequent ambiguous types:  یک ([NUM]() 839, [PRON]() 12), دو ([N
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 397.000000 (the average of all parts of speech is 412.051282).
+The form / lemma ratio of `NUM` is 1.373702 (the average of all parts of speech is 1.914149).
 
-The 1st highest number of forms (397) was observed with the lemma “_”: اول, بیست, بیستمین, ده, دهها, دو, دوازده, دوهزار, دویست, ربع, سه, سی, سیصد, سی‌ام, شانزده, شانزدهمین, شش, ششصد, شصت, صد, صدها, صفر, میلیارد, میلیون, نه, نهصد, نهمی, نود, هجده, هزار, هزاران, هزارها, هشت, هشتاد, هفت, هفتاد, هفتصد, هفده, هفدهمین, پانزده, پانصد, پنج, پنجاه, چار, چهار, چهاردهمین, چهارصد, چهل, چهلم, یازده, یه, یک, یکصد, یکهزار, یکی, ۰, ۰۲۰, ۰۳, ۱, ۱۰, ۱۰۰, ۱۰۰۰, ۱۰۰۹, ۱۰۱۰, ۱۰۲۰, ۱۰۲۸, ۱۰۳۰, ۱۰۳۴, ۱۰۵۵, ۱۱, ۱۱۰, ۱۱۹, ۱۱۹۱, ۱۲, ۱۲۰, ۱۲۰۰, ۱۲۱, ۱۲۵۰, ۱۲۸۲, ۱۲۹, ۱۳, ۱۳۰, ۱۳۰۰, ۱۳۱۴, ۱۳۲, ۱۳۳, ۱۳۳۲, ۱۳۳۶, ۱۳۳۷, ۱۳۳۹, ۱۳۴۰, ۱۳۴۱, ۱۳۵۷, ۱۳۵۹, ۱۳۷۲, ۱۳۷۶, ۱۳۷۷, ۱۳۷۸, ۱۳۷۹, ۱۳۸۰, ۱۴, ۱۴۰, ۱۴۲۱, ۱۴۷, ۱۵, ۱۵۰, ۱۵۰۰, ۱۵۰۷, ۱۵۶۰, ۱۵۶۷, ۱۵۷۲, ۱۶, ۱۶۰, ۱۶۰۰, ۱۶۴, ۱۶۷, ۱۷, ۱۷۰, ۱۷۲, ۱۷۳, ۱۷۷, ۱۷۷۰, ۱۸, ۱۸۰, ۱۸۳۸, ۱۸۴, ۱۸۷۶, ۱۸۹۱, ۱۸۹۲, ۱۸۹۳, ۱۹, ۱۹۱۱, ۱۹۳۲, ۱۹۳۳, ۱۹۳۵, ۱۹۳۶, ۱۹۳۷, ۱۹۳۸, ۱۹۴۱, ۱۹۴۶, ۱۹۵۰, ۱۹۵۲, ۱۹۵۴, ۱۹۵۵, ۱۹۶۳, ۱۹۶۵, ۱۹۶۸, ۱۹۶۹, ۱۹۷۰, ۱۹۷۱, ۱۹۷۳, ۱۹۷۴, ۱۹۷۷, ۱۹۷۸, ۱۹۷۹, ۱۹۸۰, ۱۹۸۱, ۱۹۸۲, ۱۹۸۳, ۱۹۸۴, ۱۹۸۵, ۱۹۸۶, ۱۹۸۷, ۱۹۸۸, ۱۹۸۹, ۱۹۹۰, ۱۹۹۱, ۱۹۹۲, ۱۹۹۳, ۱۹۹۴, ۱۹۹۵, ۱۹۹۶, ۱۹۹۷, ۱۹۹۸, ۱۹۹۹, ۲, ۲۰, ۲۰۰, ۲۰۰۰, ۲۰۰۱, ۲۰۰۲, ۲۰۰۳, ۲۰۰۵, ۲۰۰۶, ۲۰۱, ۲۰۱۰, ۲۰۱۵, ۲۰۲, ۲۱, ۲۱۱, ۲۱۲, ۲۱۵, ۲۱۷, ۲۱۸, ۲۲, ۲۲۰, ۲۲۱, ۲۲۹۵, ۲۳, ۲۳۰, ۲۳۳, ۲۴, ۲۴۸, ۲۵, ۲۵۰, ۲۵۴, ۲۵۶, ۲۶, ۲۶۰, ۲۶۰۰, ۲۷, ۲۷۲, ۲۸, ۲۸۰, ۲۸۰۰, ۲۸۲, ۲۸۶, ۲۹, ۳, ۳۰, ۳۰۰, ۳۰۰۰, ۳۰۲, ۳۰۵, ۳۱, ۳۱۵, ۳۲, ۳۲۰, ۳۲۰۰, ۳۳, ۳۴, ۳۴۷۲, ۳۵, ۳۶, ۳۶۰, ۳۷, ۳۷۰۰, ۳۸, ۳۸۱, ۳۸۸, ۴, ۴۰, ۴۰۰, ۴۰۱, ۴۰۶۷, ۴۱, ۴۱۱, ۴۱۲, ۴۱۳, ۴۲, ۴۲۱, ۴۲۳, ۴۲۷۷, ۴۳, ۴۳۰, ۴۳۱, ۴۴, ۴۴۴, ۴۵, ۴۵۰, ۴۵۲, ۴۶, ۴۷, ۴۷۲, ۴۷۳, ۴۸, ۴۸۰, ۴۹, ۴۹۹, ۵, ۵۰, ۵۰۰, ۵۰۰۰, ۵۱, ۵۱۰, ۵۱۲, ۵۲, ۵۲۱, ۵۲۳, ۵۲۵, ۵۳, ۵۳۱, ۵۴, ۵۴۰, ۵۴۳, ۵۵, ۵۵۰, ۵۵۰۰, ۵۵۱, ۵۵۷, ۵۶, ۵۶۰, ۵۶۸, ۵۷, ۵۷۰, ۵۷۱, ۵۸, ۵۸۱, ۵۹, ۵۹۴, ۵۹۶, ۵۹۹, ۶, ۶۰, ۶۰۰, ۶۰۰۰, ۶۰۱, ۶۱, ۶۱۳۱, ۶۲, ۶۲۳, ۶۳, ۶۳۱, ۶۴, ۶۵, ۶۵۰, ۶۵۱, ۶۶, ۶۷, ۶۷۰۰, ۶۷۵, ۶۷۸, ۶۸, ۶۸۵۲, ۶۸۶, ۶۸۸۲, ۷, ۷۰, ۷۰۰, ۷۰۰۰, ۷۰۰۵, ۷۱, ۷۱۱, ۷۲, ۷۲۲, ۷۳, ۷۳۲, ۷۳۳, ۷۴, ۷۴۰, ۷۵, ۷۵۱, ۷۶, ۷۶۲, ۷۶۷, ۷۷, ۷۷۴, ۷۸, ۷۹, ۸, ۸۰, ۸۰۰, ۸۰۰۰, ۸۰۴۶, ۸۱, ۸۲, ۸۲۰۱, ۸۲۴۲, ۸۳, ۸۳۰۰, ۸۳۳, ۸۴, ۸۵, ۸۵۰, ۸۵۰۰, ۸۶, ۸۶۶, ۸۷, ۸۸, ۸۸۱, ۸۸۸۸, ۸۹, ۹, ۹۰, ۹۰۰, ۹۰۵, ۹۱, ۹۱۱, ۹۱۴, ۹۱۷, ۹۲, ۹۲۰, ۹۲۲, ۹۲۳, ۹۳, ۹۴, ۹۴۰, ۹۵, ۹۵۱, ۹۶۷۶, ۹۷, ۹۸, ۹۸۰, ۹۸۵, ۹۹, ۹۹۰, ۹۹۱.
+The 1st highest number of forms (122) was observed with the lemma “_”: ربع, سی‌ام, صدها, صفر, نود, پانزده, یازده, یه, ۰۳, ۱۰۲۸, ۱۱۹, ۱۳۳۹, ۱۳۴۱, ۱۳۵۹, ۱۳۷۶, ۱۳۷۸, ۱۴۲۱, ۱۵۰, ۱۵۰۰, ۱۵۰۷, ۱۷, ۱۷۰, ۱۷۳, ۱۷۷, ۱۷۷۰, ۱۸۰, ۱۸۳۸, ۱۸۹۱, ۱۹۳۲, ۱۹۳۶, ۱۹۳۸, ۱۹۴۶, ۱۹۵۰, ۱۹۵۴, ۱۹۵۵, ۱۹۶۸, ۱۹۶۹, ۱۹۷۹, ۱۹۸۳, ۱۹۹۴, ۱۹۹۵, ۱۹۹۷, ۲۰۰۳, ۲۰۰۵, ۲۰۱, ۲۰۱۵, ۲۱۱, ۲۱۲, ۲۱۷, ۲۱۸, ۲۲۰, ۲۲۹۵, ۲۵۴, ۲۵۶, ۲۶۰, ۲۶۰۰, ۲۸, ۲۸۰, ۲۸۶, ۳۱, ۳۴, ۳۴۷۲, ۳۷۰۰, ۳۸, ۴۲, ۴۲۱, ۴۲۳, ۴۳, ۴۵, ۴۵۰, ۴۵۲, ۴۷, ۵۲۱, ۵۲۳, ۵۳۱, ۵۵۰, ۵۵۰۰, ۵۵۱, ۵۵۷, ۵۶, ۵۶۰, ۵۶۸, ۵۷۱, ۵۸, ۵۸۱, ۵۹۴, ۵۹۶, ۶۰۰۰, ۶۰۱, ۶۱۳۱, ۶۳۱, ۶۶, ۶۷, ۶۷۸, ۶۸, ۶۸۶, ۶۸۸۲, ۷۰۰۵, ۷۱۱, ۷۲, ۷۳۳, ۷۶۲, ۷۶۷, ۷۸, ۸۰, ۸۰۰, ۸۰۴۶, ۸۲۰۱, ۸۳, ۸۳۳, ۸۷, ۸۸, ۸۸۱, ۹۰۰, ۹۰۵, ۹۲, ۹۲۳, ۹۴, ۹۴۰, ۹۵۱, ۹۹۰, ۹۹۱.
+
+The 2nd highest number of forms (3) was observed with the lemma “هزار”: هزار, هزاران, هزارها.
+
+The 3rd highest number of forms (2) was observed with the lemma “ده”: ده, دهها.
 
 `NUM` occurs with 1 features: [fa-feat/NumType]() (3409; 100% instances)
 
@@ -65,13 +69,13 @@ Examples: یک، دو، یکی، هزار، سه، میلیون، ۲، چهار�
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 19 different relations: [fa-dep/nummod]() (2769; 81% instances), [fa-dep/compound]() (197; 6% instances), [fa-dep/conj]() (192; 6% instances), [fa-dep/nmod]() (89; 3% instances), [fa-dep/nsubj]() (76; 2% instances), [fa-dep/nmod:poss]() (19; 1% instances), [fa-dep/root]() (16; 0% instances), [fa-dep/dobj]() (9; 0% instances), [fa-dep/amod]() (8; 0% instances), [fa-dep/appos]() (7; 0% instances), [fa-dep/ccomp]() (7; 0% instances), [fa-dep/name]() (5; 0% instances), [fa-dep/mwe]() (4; 0% instances), [fa-dep/acl:relcl]() (3; 0% instances), [fa-dep/xcomp]() (3; 0% instances), [fa-dep/advcl]() (2; 0% instances), [fa-dep/advmod]() (1; 0% instances), [fa-dep/det]() (1; 0% instances), [fa-dep/nsubjpass]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 19 different relations: [fa-dep/nummod]() (2770; 81% instances), [fa-dep/compound]() (197; 6% instances), [fa-dep/conj]() (191; 6% instances), [fa-dep/nmod]() (89; 3% instances), [fa-dep/nsubj]() (76; 2% instances), [fa-dep/nmod:poss]() (19; 1% instances), [fa-dep/root]() (16; 0% instances), [fa-dep/dobj]() (9; 0% instances), [fa-dep/amod]() (8; 0% instances), [fa-dep/appos]() (7; 0% instances), [fa-dep/ccomp]() (7; 0% instances), [fa-dep/name]() (5; 0% instances), [fa-dep/mwe]() (4; 0% instances), [fa-dep/acl:relcl]() (3; 0% instances), [fa-dep/xcomp]() (3; 0% instances), [fa-dep/advcl]() (2; 0% instances), [fa-dep/advmod]() (1; 0% instances), [fa-dep/det]() (1; 0% instances), [fa-dep/nsubjpass]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 10 different parts of speech: [NOUN]() (2688; 79% instances), [NUM]() (395; 12% instances), [ADJ]() (136; 4% instances), [VERB]() (120; 4% instances), [ADP]() (22; 1% instances), [ROOT]() (16; 0% instances), [DET]() (14; 0% instances), [PRON]() (12; 0% instances), [ADV]() (5; 0% instances), [X]() (1; 0% instances)
+Parents of `NUM` nodes belong to 10 different parts of speech: [NOUN]() (2699; 79% instances), [NUM]() (395; 12% instances), [ADJ]() (137; 4% instances), [VERB]() (119; 3% instances), [ADP]() (24; 1% instances), [ROOT]() (16; 0% instances), [PRON]() (12; 0% instances), [ADV]() (5; 0% instances), [DET]() (1; 0% instances), [X]() (1; 0% instances)
 
-2703 (79%) `NUM` nodes are leaves.
+2704 (79%) `NUM` nodes are leaves.
 
-437 (13%) `NUM` nodes have one child.
+436 (13%) `NUM` nodes have one child.
 
 191 (6%) `NUM` nodes have two children.
 
@@ -79,7 +83,7 @@ Parents of `NUM` nodes belong to 10 different parts of speech: [NOUN]() (2688; 7
 
 The highest child degree of a `NUM` node is 9.
 
-Children of `NUM` nodes are attached using 19 different relations: [fa-dep/nummod]() (215; 19% instances), [fa-dep/conj]() (193; 17% instances), [fa-dep/nmod]() (153; 14% instances), [fa-dep/advmod]() (117; 10% instances), [fa-dep/punct]() (117; 10% instances), [fa-dep/cc]() (108; 10% instances), [fa-dep/case]() (95; 8% instances), [fa-dep/cop]() (29; 3% instances), [fa-dep/nsubj]() (27; 2% instances), [fa-dep/det]() (24; 2% instances), [fa-dep/ccomp]() (10; 1% instances), [fa-dep/mark]() (9; 1% instances), [fa-dep/amod]() (6; 1% instances), [fa-dep/compound]() (5; 0% instances), [fa-dep/mwe]() (5; 0% instances), [fa-dep/nmod:poss]() (5; 0% instances), [fa-dep/name]() (2; 0% instances), [fa-dep/acl:relcl]() (1; 0% instances), [fa-dep/advcl]() (1; 0% instances)
+Children of `NUM` nodes are attached using 19 different relations: [fa-dep/nummod]() (216; 19% instances), [fa-dep/conj]() (192; 17% instances), [fa-dep/nmod]() (153; 14% instances), [fa-dep/advmod]() (117; 10% instances), [fa-dep/punct]() (117; 10% instances), [fa-dep/cc]() (108; 10% instances), [fa-dep/case]() (94; 8% instances), [fa-dep/cop]() (29; 3% instances), [fa-dep/nsubj]() (27; 2% instances), [fa-dep/det]() (24; 2% instances), [fa-dep/ccomp]() (9; 1% instances), [fa-dep/mark]() (9; 1% instances), [fa-dep/amod]() (6; 1% instances), [fa-dep/compound]() (5; 0% instances), [fa-dep/mwe]() (5; 0% instances), [fa-dep/nmod:poss]() (5; 0% instances), [fa-dep/name]() (2; 0% instances), [fa-dep/acl:relcl]() (1; 0% instances), [fa-dep/advcl]() (1; 0% instances)
 
-Children of `NUM` nodes belong to 12 different parts of speech: [NUM]() (395; 35% instances), [NOUN]() (238; 21% instances), [PUNCT]() (116; 10% instances), [CONJ]() (108; 10% instances), [ADP]() (91; 8% instances), [ADJ]() (71; 6% instances), [VERB]() (36; 3% instances), [DET]() (22; 2% instances), [SCONJ]() (14; 1% instances), [ADV]() (12; 1% instances), [PRON]() (11; 1% instances), [PART]() (8; 1% instances)
+Children of `NUM` nodes belong to 12 different parts of speech: [NUM]() (395; 35% instances), [NOUN]() (238; 21% instances), [PUNCT]() (116; 10% instances), [CONJ]() (108; 10% instances), [ADP]() (90; 8% instances), [ADJ]() (71; 6% instances), [VERB]() (35; 3% instances), [DET]() (22; 2% instances), [SCONJ]() (14; 1% instances), [ADV]() (12; 1% instances), [PRON]() (11; 1% instances), [PART]() (8; 1% instances)
 

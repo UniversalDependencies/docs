@@ -2,6 +2,64 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+6 nodes (0%) are attached to their parents as `nummod`.
+
+6 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.
+
+The following 2 pairs of parts of speech are connected with `nummod`: [ja-pos/NOUN]()-[ja-pos/NOUN]() (3; 50% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (3; 50% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nummod	color:blue
+1	なかなか	_	ADV	ADV	_	10	advmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	女性	_	NOUN	NOUN	_	4	nummod	_	_
+4	一人で	_	NOUN	NOUN-VERB	_	0	root	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	ゆっくり	_	ADV	ADV	_	8	advmod	_	_
+7	、	_	PUNCT	.	_	6	punct	_	_
+8	休める	_	VERB	VERB-AUX-AUX	_	9	acl:relcl	_	_
+9	宿は	_	NOUN	NOUN-PRT	_	10	nmod	_	_
+10	少ない、	_	ADJ	ADJ-AUX	_	4	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 nummod	color:blue
+1	ﾚｯｽﾝが	_	NOUN	NOUN-PRT	_	2	nmod	_	_
+2	楽しみで	_	NOUN	NOUN-VERB	_	0	root	_	_
+3	、	_	PUNCT	.	_	2	punct	_	_
+4	何を	_	PRON	PRON-PRT	_	5	nmod	_	_
+5	しても	_	VERB	VERB-CONJ	_	6	advcl	_	_
+6	長続きしない	_	VERB	VERB-AUX-AUX	_	7	acl:relcl	_	_
+7	私でも	_	PRON	PRON-VERB-CONJ	_	12	advcl	_	_
+8	、	_	PUNCT	.	_	7	punct	_	_
+9	週	_	NOUN	NOUN	_	10	nummod	_	_
+10	1回	_	NUM	NUM-CL	_	12	advmod	_	_
+11	きっちり	_	ADV	ADV	_	12	advmod	_	_
+12	通えています。	_	VERB	VERB-AUX-AUX	_	2	conj	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

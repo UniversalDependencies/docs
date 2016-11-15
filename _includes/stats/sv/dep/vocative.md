@@ -83,26 +83,18 @@ The following 12 pairs of parts of speech are connected with `vocative`: [sv-pos
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 14 vocative	color:blue
-1	Den	_	PRON	DEM-SG	_	6	nsubj	_	_
-2	här	_	ADV	DEM-SG	_	1	mwe	_	_
-3	är	_	VERB	PRES-ACT	_	6	cop	_	_
-4	inte	_	PART	NEG	_	6	neg	_	_
-5	särskilt	_	ADV	_	_	6	advmod	_	_
-6	bekväm	_	ADJ	POS-SG-IND	_	0	root	_	_
-7	för	_	ADP	_	_	10	case	_	_
-8	en	_	DET	SG-IND	_	10	det	_	_
-9	reslig	_	ADJ	POS-SG-IND	_	10	amod	_	_
-10	man	_	NOUN	SG-IND-NOM	_	6	nmod	_	_
-11	som	_	ADP	CMP	_	12	case	_	_
-12	ni	_	PRON	PERS-P2PL-NOM	_	10	nmod	_	_
-13	,	_	PUNCT	Comma	_	3	punct	_	_
-14	överste	_	NOUN	SG-IND-NOM	_	6	vocative	_	_
-15	.	_	PUNCT	Period	_	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 vocative	color:blue
+1	Naturligtvis	_	ADV	_	_	0	root	_	_
+2	,	_	PUNCT	Comma	_	1	punct	_	_
+3	Curtis	_	PROPN	SG-NOM	_	1	vocative	_	_
+4	,	_	PUNCT	Comma	_	1	punct	_	_
+5	sade	_	VERB	PAST-ACT	_	1	parataxis	_	_
+6	Hjalmar	_	PROPN	SG-NOM	_	5	nsubj	_	_
+7	.	_	PUNCT	Period	_	1	punct	_	_
 
 ~~~
 

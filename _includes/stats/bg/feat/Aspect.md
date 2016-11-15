@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [bg-pos/VERB]() (19376; 12% inst
 
 19376 [bg-pos/VERB]() tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (18025; 93%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (16611; 86%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16611; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (16458; 85%), <tt><a href="Person.html">Person</a>=3</tt> (13729; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (13660; 70%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (11733; 61%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (18025; 93%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16611; 86%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (16611; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (16458; 85%), <tt><a href="Person.html">Person</a>=3</tt> (13729; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (13660; 70%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (11733; 61%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -76,8 +76,9 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1351; 78%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (736; 57%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (63; 59%),
-<tt>VERB --[<a href="../dep/mwe.html">mwe</a>]--> VERB</tt> (28; 100%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1349; 78%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (747; 58%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (47; 58%),
+<tt>VERB --[<a href="../dep/mwe.html">mwe</a>]--> VERB</tt> (28; 100%),
+<tt>VERB --[<a href="../dep/discourse.html">discourse</a>]--> VERB</tt> (1; 100%).
 

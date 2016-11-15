@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` types:  <em>da, ki, kot, ko, če, ker, kjer, čepra
 
 The 10 most frequent ambiguous lemmas: <em>da</em> ([SCONJ]() 1772, [PART]() 8, [X]() 2), <em>kot</em> ([SCONJ]() 557, [NOUN]() 6), <em>naj</em> ([PART]() 185, [SCONJ]() 52, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>da</em> ([SCONJ]() 1726, [VERB]() 9, [X]() 2, [PART]() 1), <em>kot</em> ([SCONJ]() 491, [NOUN]() 2), <em>naj</em> ([PART]() 175, [SCONJ]() 47), <em>nej</em> ([SCONJ]() 1, [PART]() 1)
+The 10 most frequent ambiguous types:  <em>da</em> ([SCONJ]() 1726, [VERB]() 9, [X]() 2, [PART]() 1), <em>kot</em> ([SCONJ]() 491, [NOUN]() 2), <em>naj</em> ([PART]() 175, [SCONJ]() 47), <em>nej</em> ([PART]() 1, [SCONJ]() 1)
 
 
 * <em>da</em>
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  <em>da</em> ([SCONJ]() 1726, [VERB]() 9, 
   * [PART]() 175: <em>S tem <b>naj</b> bi bila zagotovljena objektivnost .</em>
   * [SCONJ]() 47: <em>Prosim , <b>naj</b> pridem pravočasno tja , je molila Barbara .</em>
 * <em>nej</em>
-  * [SCONJ]() 1: <em>Ta kurc mi pomaha , <b>nej</b> stopm na stran .</em>
   * [PART]() 1: <em>Mat pa foter bga <b>nej</b> raj mal povprašala , kva misl s svojim živlenjem nardit .</em>
+  * [SCONJ]() 1: <em>Ta kurc mi pomaha , <b>nej</b> stopm na stran .</em>
 
 ## Morphology
 

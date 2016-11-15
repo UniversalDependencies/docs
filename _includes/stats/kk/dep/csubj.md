@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-25 nodes (0%) are attached to their parents as `csubj`.
+31 nodes (0%) are attached to their parents as `csubj`.
 
-24 instances of `csubj` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.56.
+30 instances of `csubj` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.32258064516129.
 
-The following 4 pairs of parts of speech are connected with `csubj`: [kk-pos/ADJ]()-[kk-pos/VERB]() (13; 52% instances), [kk-pos/VERB]()-[kk-pos/VERB]() (10; 40% instances), [kk-pos/NOUN]()-[kk-pos/VERB]() (1; 4% instances), [kk-pos/PRON]()-[kk-pos/VERB]() (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `csubj`: [kk-pos/ADJ]()-[kk-pos/VERB]() (13; 42% instances), [kk-pos/VERB]()-[kk-pos/VERB]() (12; 39% instances), [kk-pos/NOUN]()-[kk-pos/VERB]() (3; 10% instances), [kk-pos/PRON]()-[kk-pos/VERB]() (2; 6% instances), [kk-pos/ADJ]()-[kk-pos/NOUN]() (1; 3% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: [kk-pos/ADJ
 1	Орысша	орысша	NOUN	n	_	2	dobj	_	nom
 2	оқу	оқы	VERB	v	_	3	csubj	_	tv|ger|nom
 3	_	керек	ADJ	adj	_	20	parataxis	_	_
-4	_	е	VERB	cop	_	3	cop	_	aor|p3|sg
+4	_	е	AUX	cop	_	3	cop	_	aor|p3|sg
 5	,	,	PUNCT	cm	_	20	punct	_	_
 6	_	хикмет	NOUN	n	_	15	conj	_	nom
 7	_	да	CONJ	cnjcoo	_	15	cc	_	_
@@ -65,24 +65,20 @@ The following 4 pairs of parts of speech are connected with `csubj`: [kk-pos/ADJ
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 6 csubj	color:blue
-1	Сонда__да	сонда__да	SCONJ	cnjadv	_	12	cc	_	_
-2	өзге	өзге	ADJ	adj	_	4	amod	_	_
-3	қазақ	қазақ	NOUN	n	_	4	nmod:poss	_	nom
-4	балаларынан	бала	NOUN	n	_	6	nmod	_	pl|px3sp|abl
-5	артық	артық	ADJ	adj	_	6	advmod	_	advl
-6	үйренгені	үйрен	VERB	v	_	7	csubj	_	tv|ger_past|px3sp|nom
-7	_	немене	PRON	prn	_	12	conj	_	itg|nom
-8	_	е	VERB	cop	_	7	cop	_	aor|p3|sg
-9	,	,	PUNCT	cm	_	12	punct	_	_
-10	қай	қай	DET	det	_	11	det	_	itg
-11	кеп	кеп	NOUN	n	_	12	dobj	_	nom
-12	үйреніпті	үйрен	VERB	v	_	0	root	_	tv|ifi|evid|p3|sg
-13	?	?	PUNCT	sent	_	12	punct	_	_
+# visual-style 7 2 csubj	color:blue
+1	Марқакөлді	Марқакөл	PROPN	np	Case=Acc	2	dobj	_	Марқакөл|np|top|acc
+2	алқалаған	алқала	VERB	v	Case=Nom|Tense=Past|VerbForm=Ger	7	csubj	_	алқала|v|tv|gerpast|nom
+3	—	_	PUNCT	guio	_	7	punct	_	—|guio
+4	ақ	ақ	ADJ	adj	_	5	amod	_	_
+5	ауылды	ауылды	ADJ	adj	_	6	amod	_	ауылды|adj
+6	Алтай	Алтай	PROPN	np	Case=Nom	7	compound	_	Алтай|np|attr
+7	_	ел	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	0	root	_	ел|n|px3sp|nom
+8	_	е	AUX	cop	Number=Sing|Person=3|Tense=Aor	7	cop	_	е|cop|aor|p3|sg
+9	.	_	PUNCT	sent	_	7	punct	_	.|sent
 
 ~~~
 

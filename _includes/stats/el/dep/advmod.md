@@ -22,7 +22,7 @@ The following 31 pairs of parts of speech are connected with `advmod`: [el-pos/V
 # visual-style 7 1 advmod	color:blue
 1	Σήμερα	σήμερα	ADV	ADV	_	7	advmod	_	_
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
-3	οι	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+3	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 4	τρεις	τρεις	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	5	nummod	_	_
 5	άνδρες	άντρας	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
 6	θα	θα	PART	PART	_	7	aux	_	_
@@ -44,7 +44,7 @@ The following 31 pairs of parts of speech are connected with `advmod`: [el-pos/V
 2	ασφαλώς	ασφαλώς	ADV	ADV	_	3	advmod	_	_
 3	σαφές	σαφής	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 4	ότι	ότι	CONJ	CONJ	_	7	mark	_	_
-5	το	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+5	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
 6	προεδρείο	προεδρείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
 7	κατέχει	κατέχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	csubj	_	_
 8	ηγετικό	ηγετικός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	_

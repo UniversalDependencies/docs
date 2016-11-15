@@ -66,24 +66,23 @@ The following 19 pairs of parts of speech are connected with `reparandum`: [en-p
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 reparandum	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	SpaceAfter=No
-2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	helpful	helpful	ADJ	JJ	Degree=Pos	0	root	_	_
-4	to	to	PART	TO	_	5	mark	_	_
-5	know	know	VERB	VB	VerbForm=Inf	3	csubj	_	_
-6	a	a	DET	DT	Definite=Ind|PronType=Art	5	reparandum	_	_
-7	quite	quite	DET	PDT	_	9	det:predet	_	_
-8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
-9	bit	bit	NOUN	NN	Number=Sing	5	dobj	_	_
-10	about	about	ADP	IN	_	12	case	_	_
-11	bull	bull	NOUN	NN	Number=Sing	12	compound	_	_
-12	fighting	fighting	NOUN	NN	Number=Sing	9	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 reparandum	color:blue
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	reparandum	_	SpaceAfter=No
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	_
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_
+5	watch	watch	VERB	VB	VerbForm=Inf	0	root	_	_
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+7	girl	girl	NOUN	NN	Number=Sing	5	dobj	_	_
+8	on	on	ADP	IN	_	9	case	_	_
+9	tv	tv	NOUN	NN	Number=Sing	5	nmod	_	_
+10	last	last	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	night	night	NOUN	NN	Number=Sing	5	nmod:tmod	_	SpaceAfter=No
+12	?	?	PUNCT	.	_	5	punct	_	_
 
 ~~~
 
@@ -146,7 +145,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: [en-po
 1	_	_	CONJ	CC	_	3	cc	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
-4	_	_	DET	DT	_	3	dobj	_	_
+4	_	_	PRON	DT	_	3	dobj	_	_
 5	_	_	ADP	IN	_	7	case	_	_
 6	_	_	DET	DT	_	7	det	_	_
 7	_	_	NOUN	NN	_	3	nmod	_	_
@@ -155,7 +154,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: [en-po
 10	_	_	SCONJ	IN	_	19	mark	_	_
 11	_	_	PRON	PRP	_	12	nsubj	_	_
 12	_	_	VERB	VBZ	_	19	advcl	_	_
-13	_	_	NOUN	NN	_	12	dobj	_	_
+13	_	_	PRON	NN	_	12	dobj	_	_
 14	_	_	ADP	IN	_	16	case	_	_
 15	_	_	DET	DT	_	16	det	_	_
 16	_	_	NOUN	NN	_	12	nmod	_	_

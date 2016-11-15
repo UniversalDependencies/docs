@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1946 nodes (1%) are attached to their parents as `cop`.
+2003 nodes (1%) are attached to their parents as `cop`.
 
-1556 instances of `cop` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.76156217882837.
+1590 instances of `cop` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.77184223664503.
 
-The following 9 pairs of parts of speech are connected with `cop`: [bg-pos/NOUN]()-[bg-pos/VERB]() (1005; 52% instances), [bg-pos/ADJ]()-[bg-pos/VERB]() (574; 29% instances), [bg-pos/ADV]()-[bg-pos/VERB]() (258; 13% instances), [bg-pos/PRON]()-[bg-pos/VERB]() (61; 3% instances), [bg-pos/PROPN]()-[bg-pos/VERB]() (34; 2% instances), [bg-pos/DET]()-[bg-pos/VERB]() (6; 0% instances), [bg-pos/ADJ]()-[bg-pos/AUX]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (3; 0% instances), [bg-pos/NUM]()-[bg-pos/VERB]() (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: [bg-pos/NOUN]()-[bg-pos/VERB]() (1036; 52% instances), [bg-pos/ADJ]()-[bg-pos/VERB]() (581; 29% instances), [bg-pos/ADV]()-[bg-pos/VERB]() (262; 13% instances), [bg-pos/PRON]()-[bg-pos/VERB]() (68; 3% instances), [bg-pos/PROPN]()-[bg-pos/VERB]() (34; 2% instances), [bg-pos/DET]()-[bg-pos/VERB]() (7; 0% instances), [bg-pos/NUM]()-[bg-pos/VERB]() (4; 0% instances), [bg-pos/VERB]()-[bg-pos/VERB]() (4; 0% instances), [bg-pos/ADJ]()-[bg-pos/AUX]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/AUX]() (3; 0% instances), [bg-pos/ADP]()-[bg-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

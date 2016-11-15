@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>vlastní</em> ([ADJ]() 464, [VERB]() 
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.600579 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `ADJ` is 2.600579 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (32) was observed with the lemma “známý”: <em>nejznámější, nejznámějších, nejznámějším, neznáma, neznámo, neznámou, neznámá, neznámé, neznámého, neznámém, neznámí, neznámý, neznámých, neznámým, neznámými, znám, známa, známi, známo, známou, známy, známá, známé, známého, známém, známému, známí, známý, známých, známým, známými, známější</em>.
 

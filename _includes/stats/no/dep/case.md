@@ -6,7 +6,7 @@
 
 This relation is universal.
 
-32681 nodes (10%) are attached to their parents as `case`.
+32681 nodes (11%) are attached to their parents as `case`.
 
 32452 instances of `case` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.58743612496558.
@@ -27,7 +27,7 @@ The following 11 pairs of parts of speech are connected with `case`: [no-pos/NOU
 5	til	til	ADP	_	_	8	case	_	_
 6	sin	sin	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
-8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
+8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 11 pairs of parts of speech are connected with `case`: [no-pos/NOU
 4	fremmed	fremmed	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	_
 5	tanke	tanke	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 6	for	for	ADP	_	_	7	case	_	_
-7	Borten	Borten	PROPN	_	_	5	nmod	_	_
+7	Borten	Borten	PROPN	_	_	5	nmod	_	SpaceAfter=No
 8	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -70,7 +70,7 @@ The following 11 pairs of parts of speech are connected with `case`: [no-pos/NOU
 11	alle	alle	PRON	_	Number=Plur|Person=3|PronType=Prs,Tot	13	nsubj	_	_
 12	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	enige	enig	ADJ	_	Degree=Pos|Number=Plur	10	acl:relcl	_	_
-14	om	om	ADP	_	_	13	nmod	_	_
+14	om	om	ADP	_	_	13	nmod	_	SpaceAfter=No
 15	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~

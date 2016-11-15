@@ -11,7 +11,7 @@ The 10 most frequent `CONJ` lemmas: <em>jah, iþ, ak, aþþan, -uh, aiþþau, ak
 
 The 10 most frequent `CONJ` types:  <em>jah, iþ, ak, aþþan, aiþþau, uh, akei, nih, uþ, jaþþe</em>
 
-The 10 most frequent ambiguous lemmas: <em>jah</em> ([CONJ]() 3527, [ADV]() 341), <em>iþ</em> ([CONJ]() 579, [SCONJ]() 12, [ADV]() 1), <em>-uh</em> ([CONJ]() 170, [ADV]() 39), <em>aiþþau</em> ([CONJ]() 138, [ADV]() 16), <em>nih</em> ([CONJ]() 67, [ADV]() 62, [SCONJ]() 5), <em>þau</em> ([ADV]() 45, [CONJ]() 37, [SCONJ]() 1), <em>jaþþe</em> ([CONJ]() 36, [SCONJ]() 7), <em>ni</em> ([ADV]() 1235, [CONJ]() 21), <em>alja</em> ([ADV]() 9, [CONJ]() 6, [ADP]() 1, [SCONJ]() 1), <em>jabai</em> ([SCONJ]() 267, [CONJ]() 2, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>jah</em> ([CONJ]() 3527, [ADV]() 341), <em>iþ</em> ([CONJ]() 579, [SCONJ]() 12, [ADV]() 1), <em>-uh</em> ([CONJ]() 170, [ADV]() 39), <em>aiþþau</em> ([CONJ]() 138, [ADV]() 16), <em>nih</em> ([CONJ]() 67, [ADV]() 62, [SCONJ]() 5), <em>þau</em> ([ADV]() 45, [CONJ]() 37, [SCONJ]() 1), <em>jaþþe</em> ([CONJ]() 36, [SCONJ]() 7), <em>ni</em> ([ADV]() 1235, [CONJ]() 21), <em>alja</em> ([ADV]() 9, [CONJ]() 6, [SCONJ]() 1, [ADP]() 1), <em>jabai</em> ([SCONJ]() 267, [CONJ]() 2, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  <em>jah</em> ([CONJ]() 3435, [ADV]() 329), <em>iþ</em> ([CONJ]() 574, [SCONJ]() 12, [ADV]() 1), <em>aiþþau</em> ([CONJ]() 138, [ADV]() 16), <em>uh</em> ([CONJ]() 108, [ADV]() 12), <em>nih</em> ([CONJ]() 64, [ADV]() 47, [SCONJ]() 5), <em>uþ</em> ([CONJ]() 57, [ADV]() 7), <em>jaþþe</em> ([CONJ]() 35, [SCONJ]() 7), <em>þau</em> ([ADV]() 42, [CONJ]() 35, [SCONJ]() 1), <em>ni</em> ([ADV]() 1230, [CONJ]() 21), <em>jaþ</em> ([CONJ]() 16, [ADV]() 6)
 

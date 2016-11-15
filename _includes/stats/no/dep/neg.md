@@ -33,7 +33,7 @@ The following 16 pairs of parts of speech are connected with `neg`: [no-pos/VERB
 11	på	på	ADP	_	_	14	case	_	_
 12	ny	ny	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	14	amod	_	_
 13	rødgrønn	rødgrønn	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	14	amod	_	_
-14	valgseier	valgseier	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	_
+14	valgseier	valgseier	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 15	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -48,7 +48,7 @@ The following 16 pairs of parts of speech are connected with `neg`: [no-pos/VERB
 1	Risikofritt	risikofri	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 2	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
-4	ikke	ikke	ADV	_	_	1	neg	_	_
+4	ikke	ikke	ADV	_	_	1	neg	_	SpaceAfter=No
 5	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 16 pairs of parts of speech are connected with `neg`: [no-pos/VERB
 7	naturkreftene	naturkraft	NOUN	_	Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
 8	som	som	PRON	_	PronType=Rel	9	nsubj	_	_
 9	truer	true	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
-10	Venezia	Venezia	PROPN	_	_	9	dobj	_	_
+10	Venezia	Venezia	PROPN	_	_	9	dobj	_	SpaceAfter=No
 11	.	$.	PUNCT	_	_	7	punct	_	_
 
 ~~~

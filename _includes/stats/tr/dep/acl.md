@@ -11,7 +11,7 @@ This relation is universal.
 1671 instances of `acl` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.42882668254914.
 
-The following 11 pairs of parts of speech are connected with `acl`: [tr-pos/NOUN]()-[tr-pos/VERB]() (1091; 65% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (307; 18% instances), [tr-pos/ADJ]()-[tr-pos/VERB]() (139; 8% instances), [tr-pos/PROPN]()-[tr-pos/VERB]() (110; 7% instances), [tr-pos/PRON]()-[tr-pos/VERB]() (13; 1% instances), [tr-pos/ADV]()-[tr-pos/VERB]() (9; 1% instances), [tr-pos/ADP]()-[tr-pos/VERB]() (4; 0% instances), [tr-pos/CONJ]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/PUNCT]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/DET]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/NUM]()-[tr-pos/VERB]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `acl`: [tr-pos/NOUN]()-[tr-pos/VERB]() (1092; 65% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (306; 18% instances), [tr-pos/ADJ]()-[tr-pos/VERB]() (139; 8% instances), [tr-pos/PROPN]()-[tr-pos/VERB]() (110; 7% instances), [tr-pos/PRON]()-[tr-pos/VERB]() (13; 1% instances), [tr-pos/ADV]()-[tr-pos/VERB]() (9; 1% instances), [tr-pos/ADP]()-[tr-pos/VERB]() (4; 0% instances), [tr-pos/CONJ]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/PUNCT]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/DET]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/NUM]()-[tr-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

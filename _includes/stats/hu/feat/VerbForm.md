@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 1149 [hu-pos/ADJ]() tokens (21% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1121; 98%), <tt><a href="Case.html">Case</a>=Nom</tt> (1044; 91%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (651; 57%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (651; 57%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (649; 56%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (649; 56%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1121; 98%), <tt><a href="Case.html">Case</a>=Nom</tt> (1044; 91%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (651; 57%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (651; 57%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (649; 56%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (649; 56%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 
 9 [hu-pos/AUX]() tokens (24% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (9; 100%), <tt><a href="Person.html">Person</a>=3</tt> (9; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (9; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 89%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6; 67%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (5; 56%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (9; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (9; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (9; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 89%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6; 67%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (5; 56%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 

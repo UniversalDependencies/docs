@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [la-pos/VERB]() (4460; 9% instan
 
 4460 [la-pos/VERB]() tokens (42% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (4419; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (3244; 73%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2847; 64%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2847; 64%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2740; 61%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2714; 61%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (4419; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (3244; 73%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2847; 64%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2847; 64%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2740; 61%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2714; 61%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 1 [la-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Aspect`:
 
@@ -107,7 +107,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 74 [la-pos/AUX]() tokens (5% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (74; 100%), <tt><a href="Person.html">Person</a>=3</tt> (65; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (65; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (48; 65%), <tt><a href="Tense.html">Tense</a>=Past</tt> (43; 58%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (74; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (65; 88%), <tt><a href="Person.html">Person</a>=3</tt> (65; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (48; 65%), <tt><a href="Tense.html">Tense</a>=Past</tt> (43; 58%).
 
 `AUX` tokens may have the following values of `Aspect`:
 

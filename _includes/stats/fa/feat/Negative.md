@@ -9,7 +9,7 @@ It occurs with 1 different values: `Neg`.
 
 1372 tokens (1%) have a non-empty value of `Negative`.
 266 types (2%) occur at least once with a non-empty value of `Negative`.
-1 lemmas (8%) occur at least once with a non-empty value of `Negative`.
+49 lemmas (1%) occur at least once with a non-empty value of `Negative`.
 The feature is used with 4 part-of-speech tags: [fa-pos/VERB]() (965; 1% instances), [fa-pos/ADV]() (324; 0% instances), [fa-pos/AUX]() (66; 0% instances), [fa-pos/ADJ]() (17; 0% instances).
 
 ### `VERB`
@@ -21,7 +21,9 @@ The most frequent other feature values with which `VERB` and `Negative` co-occur
 `VERB` tokens may have the following values of `Negative`:
 
 * `Neg` (965; 100% of non-empty `Negative`): نیست، نداشته، نشده، ندارند، نکرده، نیستند، نباشد، نمی‌کند، نمی‌تواند، نمی‌کنند
-* `EMPTY` (15967): است، بود، کرد، شد، گفت، شده، می‌شود، دارد، می‌کند، کرده
+* `EMPTY` (15973): است، بود، کرد، شد، گفت، شده، می‌شود، دارد، می‌کند، کرده
+
+`Negative` seems to be **lexical feature** of `VERB`. 100% lemmas (40) occur only with one value of `Negative`.
 
 ### `ADV`
 
@@ -32,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Negative` co-occurr
 `ADV` tokens may have the following values of `Negative`:
 
 * `Neg` (324; 100% of non-empty `Negative`): هیچ، نه، غیر، هرگز، دیگر، خیر، هیچ‌گاه
-* `EMPTY` (3776): پس، چه، خیلی، پیش، بعد، حتی، بسیار، مثل، البته، چنین
+* `EMPTY` (3777): پس، چه، خیلی، پیش، بعد، حتی، بسیار، مثل، البته، چنین
 
 ### `AUX`
 
@@ -52,5 +54,5 @@ The most frequent other feature values with which `ADJ` and `Negative` co-occurr
 `ADJ` tokens may have the following values of `Negative`:
 
 * `Neg` (17; 100% of non-empty `Negative`): ناخواسته، نیاورده، ناخواسته‌ای، نبوده، نجنگیده، نمرده، نیفزوده، پرداخت‌نشده، کشف‌ناشده‌ای
-* `EMPTY` (13639): اسلامی، دیگر، سیاسی، دوم، گذشته، فرهنگی، جدید، چند، بیشتر، ملی
+* `EMPTY` (13657): اسلامی، دیگر، سیاسی، دوم، گذشته، فرهنگی، جدید، چند، بیشتر، ملی
 

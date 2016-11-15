@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [compound]().
 
-910 nodes (0%) are attached to their parents as `compound:prt`.
+900 nodes (0%) are attached to their parents as `compound:prt`.
 
-910 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33076923076923.
+900 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.33111111111111.
 
-The following 6 pairs of parts of speech are connected with `compound:prt`: [en-pos/VERB]()-[en-pos/ADP]() (888; 98% instances), [en-pos/VERB]()-[en-pos/ADV]() (17; 2% instances), [en-pos/ADJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `compound:prt`: [en-pos/VERB]()-[en-pos/ADP]() (878; 98% instances), [en-pos/VERB]()-[en-pos/ADV]() (17; 2% instances), [en-pos/ADJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -117,11 +117,11 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: [en-
 19	_	_	AUX	VBP	_	21	aux	_	_
 20	_	_	PRON	PRP	_	21	nsubj	_	_
 21	_	_	VERB	VB	_	6	parataxis	_	_
-22	_	_	NOUN	NN	_	23	nsubj	_	_
+22	_	_	PRON	NN	_	23	nsubj	_	_
 23	_	_	VERB	VBP	_	21	ccomp	_	_
 24	_	_	PRON	PRP	_	23	iobj	_	_
 25	_	_	ADP	RP	_	23	compound:prt	_	_
-26	_	_	NOUN	NN	_	23	dobj	_	_
+26	_	_	PRON	NN	_	23	dobj	_	_
 27	_	_	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -152,7 +152,7 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: [en-
 17	_	_	ADP	IN	_	19	case	_	_
 18	_	_	DET	DT	_	19	det	_	_
 19	_	_	NOUN	NN	_	7	nmod	_	_
-20	_	_	DET	WDT	_	22	nsubjpass	_	_
+20	_	_	PRON	WDT	_	22	nsubjpass	_	_
 21	_	_	AUX	VBD	_	22	auxpass	_	_
 22	_	_	VERB	VBN	_	19	acl:relcl	_	_
 23	_	_	ADP	IN	_	24	case	_	_

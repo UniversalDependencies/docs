@@ -2,6 +2,80 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+43867 nodes (48%) are attached to their parents as `nmod`.
+
+43768 instances of `nmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.18341805913329.
+
+The following 44 pairs of parts of speech are connected with `nmod`: [ja-pos/VERB]()-[ja-pos/NOUN]() (23604; 54% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (13668; 31% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (1561; 4% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (1429; 3% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (955; 2% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (619; 1% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (522; 1% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (374; 1% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (370; 1% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (310; 1% instances), [ja-pos/NUM]()-[ja-pos/NUM]() (133; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (42; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (40; 0% instances), [ja-pos/ADJ]()-[ja-pos/PRON]() (37; 0% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (33; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (25; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (25; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (25; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (16; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (13; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (10; 0% instances), [ja-pos/NUM]()-[ja-pos/PRON]() (9; 0% instances), [ja-pos/NOUN]()-[ja-pos/DET]() (8; 0% instances), [ja-pos/DET]()-[ja-pos/NOUN]() (7; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (5; 0% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (4; 0% instances), [ja-pos/PRON]()-[ja-pos/VERB]() (3; 0% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/PRON]()-[ja-pos/NUM]() (2; 0% instances), [ja-pos/PRON]()-[ja-pos/PRON]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/ADP]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/DET]()-[ja-pos/NUM]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADP]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/X]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/DET]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/ADP]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/X]() (1; 0% instances), [ja-pos/X]()-[ja-pos/NOUN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 4 nmod	color:blue
+1	ただし	_	ADV	ADV	_	9	advmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
+4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
+8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 nmod	color:blue
+1	ただし	_	ADV	ADV	_	9	advmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
+4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
+8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 3 nmod	color:blue
+1	市内の	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
+2	ユダヤ人は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+3	1942年までに	_	NUM	NUM-CL-POSTP-POSTP	_	9	nmod	_	_
+4	その	_	DET	DET	_	5	amod	_	_
+5	全員が	_	NOUN	NOUN-PRT	_	6	nmod	_	_
+6	逃亡するか	_	VERB	VERB-AUX-CONJ	_	10	nmod	_	_
+7	、	_	PUNCT	.	_	6	punct	_	_
+8	強制収容所に	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+9	送致されるかの	_	VERB	VERB-PASSIVE-AUX-PRT-POSTP	_	6	conj	_	_
+10	いずれかであった。	_	NOUN	NOUN-VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

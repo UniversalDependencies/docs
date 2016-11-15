@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [ca-pos/PRON]() (29; 0% instance
 
 29 [ca-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="Person.html">Person</a>=2</tt> (29; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (29; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (29; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (22; 76%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (29; 100%), <tt><a href="Person.html">Person</a>=2</tt> (29; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (29; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (22; 76%).
 
 `PRON` tokens may have the following values of `Polite`:
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-9040 nodes (4%) are attached to their parents as `mark`.
+8897 nodes (4%) are attached to their parents as `mark`.
 
-9036 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.47986725663717.
+8893 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.48207260874452.
 
-The following 53 pairs of parts of speech are connected with `mark`: [en-pos/VERB]()-[en-pos/PART]() (3783; 42% instances), [en-pos/VERB]()-[en-pos/SCONJ]() (3574; 40% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (389; 4% instances), [en-pos/VERB]()-[en-pos/ADV]() (379; 4% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (321; 4% instances), [en-pos/ADJ]()-[en-pos/PART]() (95; 1% instances), [en-pos/NOUN]()-[en-pos/PART]() (85; 1% instances), [en-pos/VERB]()-[en-pos/ADP]() (66; 1% instances), [en-pos/ADV]()-[en-pos/SCONJ]() (61; 1% instances), [en-pos/ADJ]()-[en-pos/ADV]() (34; 0% instances), [en-pos/AUX]()-[en-pos/SCONJ]() (34; 0% instances), [en-pos/PROPN]()-[en-pos/SCONJ]() (34; 0% instances), [en-pos/PRON]()-[en-pos/SCONJ]() (20; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (16; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (15; 0% instances), [en-pos/PART]()-[en-pos/SCONJ]() (13; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (10; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (10; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (9; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (8; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (8; 0% instances), [en-pos/NUM]()-[en-pos/SCONJ]() (8; 0% instances), [en-pos/PROPN]()-[en-pos/PART]() (6; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (6; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (5; 0% instances), [en-pos/ADV]()-[en-pos/PART]() (4; 0% instances), [en-pos/INTJ]()-[en-pos/SCONJ]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/ADP]() (4; 0% instances), [en-pos/ADV]()-[en-pos/ADP]() (3; 0% instances), [en-pos/NUM]()-[en-pos/PART]() (3; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (3; 0% instances), [en-pos/DET]()-[en-pos/PART]() (2; 0% instances), [en-pos/DET]()-[en-pos/SCONJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/NUM]()-[en-pos/ADP]() (2; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (2; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (2; 0% instances), [en-pos/SYM]()-[en-pos/SCONJ]() (2; 0% instances), [en-pos/VERB]()-[en-pos/CONJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADP]()-[en-pos/PART]() (1; 0% instances), [en-pos/ADP]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADV]() (1; 0% instances), [en-pos/AUX]()-[en-pos/PART]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADP]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/SYM]()-[en-pos/PART]() (1; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances).
+The following 52 pairs of parts of speech are connected with `mark`: [en-pos/VERB]()-[en-pos/PART]() (3724; 42% instances), [en-pos/VERB]()-[en-pos/SCONJ]() (3515; 40% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (383; 4% instances), [en-pos/VERB]()-[en-pos/ADV]() (368; 4% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (308; 3% instances), [en-pos/ADJ]()-[en-pos/PART]() (94; 1% instances), [en-pos/NOUN]()-[en-pos/PART]() (83; 1% instances), [en-pos/VERB]()-[en-pos/ADP]() (67; 1% instances), [en-pos/ADV]()-[en-pos/SCONJ]() (60; 1% instances), [en-pos/ADJ]()-[en-pos/ADV]() (34; 0% instances), [en-pos/AUX]()-[en-pos/SCONJ]() (34; 0% instances), [en-pos/PROPN]()-[en-pos/SCONJ]() (34; 0% instances), [en-pos/PRON]()-[en-pos/SCONJ]() (29; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (16; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (15; 0% instances), [en-pos/PART]()-[en-pos/SCONJ]() (13; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (10; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (9; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (9; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (8; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (8; 0% instances), [en-pos/NUM]()-[en-pos/SCONJ]() (8; 0% instances), [en-pos/PROPN]()-[en-pos/PART]() (6; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (6; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (5; 0% instances), [en-pos/ADV]()-[en-pos/PART]() (4; 0% instances), [en-pos/INTJ]()-[en-pos/SCONJ]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/ADP]() (4; 0% instances), [en-pos/ADV]()-[en-pos/ADP]() (3; 0% instances), [en-pos/NUM]()-[en-pos/PART]() (3; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (3; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (3; 0% instances), [en-pos/DET]()-[en-pos/PART]() (2; 0% instances), [en-pos/DET]()-[en-pos/SCONJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/NUM]()-[en-pos/ADP]() (2; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (2; 0% instances), [en-pos/SYM]()-[en-pos/SCONJ]() (2; 0% instances), [en-pos/VERB]()-[en-pos/CONJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADP]()-[en-pos/PART]() (1; 0% instances), [en-pos/ADP]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADV]() (1; 0% instances), [en-pos/AUX]()-[en-pos/PART]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADP]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/SYM]()-[en-pos/PART]() (1; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -71,9 +71,9 @@ The following 53 pairs of parts of speech are connected with `mark`: [en-pos/VER
 5	tonight	tonight	NOUN	NN	Number=Sing	3	nmod:tmod	_	_
 6	to	to	PART	TO	_	8	mark	_	_
 7	get	get	VERB	VB	VerbForm=Inf	8	aux	_	_
-8	wasted	wasted	ADJ	JJ	Degree=Pos	3	xcomp	_	_
+8	wasted	wasted	ADJ	JJ	Degree=Pos	3	advcl	_	_
 9	if	if	SCONJ	IN	_	12	mark	_	_
-10	anyone	anyone	NOUN	NN	Number=Sing	12	nsubj	_	_
+10	anyone	anyone	PRON	NN	Number=Sing	12	nsubj	_	_
 11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	interested	interested	ADJ	JJ	Degree=Pos	3	advcl	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	_	_
@@ -94,7 +94,7 @@ This relation is universal.
 5076 instances of `mark` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.26864790395591.
 
-The following 36 pairs of parts of speech are connected with `mark`: [en-pos/VERB]()-[en-pos/PART]() (2307; 45% instances), [en-pos/VERB]()-[en-pos/SCONJ]() (1885; 37% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (346; 7% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (178; 4% instances), [en-pos/VERB]()-[en-pos/ADV]() (136; 3% instances), [en-pos/ADJ]()-[en-pos/PART]() (39; 1% instances), [en-pos/NOUN]()-[en-pos/PART]() (39; 1% instances), [en-pos/VERB]()-[en-pos/ADP]() (32; 1% instances), [en-pos/ADV]()-[en-pos/SCONJ]() (19; 0% instances), [en-pos/PROPN]()-[en-pos/SCONJ]() (18; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (15; 0% instances), [en-pos/AUX]()-[en-pos/SCONJ]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (8; 0% instances), [en-pos/NUM]()-[en-pos/SCONJ]() (8; 0% instances), [en-pos/PRON]()-[en-pos/SCONJ]() (7; 0% instances), [en-pos/ADV]()-[en-pos/PART]() (3; 0% instances), [en-pos/NUM]()-[en-pos/PART]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/PART]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (2; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (2; 0% instances), [en-pos/DET]()-[en-pos/SCONJ]() (2; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/AUX]()-[en-pos/PART]() (1; 0% instances), [en-pos/DET]()-[en-pos/PART]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances), [en-pos/X]()-[en-pos/SCONJ]() (1; 0% instances).
+The following 35 pairs of parts of speech are connected with `mark`: [en-pos/VERB]()-[en-pos/PART]() (2307; 45% instances), [en-pos/VERB]()-[en-pos/SCONJ]() (1885; 37% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (346; 7% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (175; 3% instances), [en-pos/VERB]()-[en-pos/ADV]() (136; 3% instances), [en-pos/ADJ]()-[en-pos/PART]() (39; 1% instances), [en-pos/NOUN]()-[en-pos/PART]() (39; 1% instances), [en-pos/VERB]()-[en-pos/ADP]() (32; 1% instances), [en-pos/ADV]()-[en-pos/SCONJ]() (19; 0% instances), [en-pos/PROPN]()-[en-pos/SCONJ]() (18; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (15; 0% instances), [en-pos/AUX]()-[en-pos/SCONJ]() (11; 0% instances), [en-pos/PRON]()-[en-pos/SCONJ]() (10; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (8; 0% instances), [en-pos/NUM]()-[en-pos/SCONJ]() (8; 0% instances), [en-pos/ADV]()-[en-pos/PART]() (3; 0% instances), [en-pos/NUM]()-[en-pos/PART]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/PART]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (2; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (2; 0% instances), [en-pos/DET]()-[en-pos/SCONJ]() (2; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (2; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/AUX]()-[en-pos/PART]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances), [en-pos/X]()-[en-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -117,7 +117,7 @@ The following 36 pairs of parts of speech are connected with `mark`: [en-pos/VER
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -143,7 +143,7 @@ The following 36 pairs of parts of speech are connected with `mark`: [en-pos/VER
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -158,24 +158,24 @@ The following 36 pairs of parts of speech are connected with `mark`: [en-pos/VER
 1	_	_	CONJ	CC	_	3	cc	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	NOUN	NN	_	0	root	_	_
-4	_	_	DET	DT	_	3	dobj	_	_
+4	_	_	PRON	DT	_	3	dobj	_	_
 5	_	_	PUNCT	,	_	3	punct	_	_
 6	_	_	SCONJ	IN	_	9	mark	_	_
 7	_	_	PRON	PRP	_	9	expl	_	_
 8	_	_	VERB	VBZ	_	9	cop	_	_
 9	_	_	ADJ	JJR	_	3	advcl	_	_
-10	_	_	NOUN	NN	_	11	dobj	_	_
+10	_	_	PRON	NN	_	11	dobj	_	_
 11	_	_	VERB	VBG	_	9	csubj	_	_
 12	_	_	SCONJ	IN	_	13	mark	_	_
 13	_	_	VERB	VBG	_	9	advcl	_	_
 14	_	_	NOUN	NNS	_	13	dobj	_	_
 15	_	_	ADP	IN	_	16	case	_	_
-16	_	_	NOUN	NN	_	13	nmod	_	_
-17	_	_	DET	WDT	_	18	nsubj	_	_
+16	_	_	PRON	NN	_	13	nmod	_	_
+17	_	_	PRON	WDT	_	18	nsubj	_	_
 18	_	_	VERB	VB	_	16	acl:relcl	_	_
 19	_	_	PRON	PRP	_	18	dobj	_	_
 20	_	_	VERB	VB	_	18	xcomp	_	_
-21	_	_	NOUN	NN	_	20	dobj	_	_
+21	_	_	PRON	NN	_	20	dobj	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
 ~~~

@@ -7,24 +7,24 @@
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-41168 tokens (3%) have a non-empty value of `NumForm`.
-3588 types (3%) occur at least once with a non-empty value of `NumForm`.
-3427 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 1 part-of-speech tags: [cs-pos/NUM]() (41168; 3% instances).
+41165 tokens (3%) have a non-empty value of `NumForm`.
+3589 types (3%) occur at least once with a non-empty value of `NumForm`.
+3428 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 1 part-of-speech tags: [cs-pos/NUM]() (41165; 3% instances).
 
 ### `NUM`
 
-41168 [cs-pos/NUM]() tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
+41165 [cs-pos/NUM]() tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (41168; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (36751; 89%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (33118; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29887; 73%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (29861; 73%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (41165; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (36748; 89%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (33115; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29884; 73%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (29858; 73%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (29484; 72% of non-empty `NumForm`): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
+* `Digit` (29481; 72% of non-empty `NumForm`): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
 * `Roman` (376; 1% of non-empty `NumForm`): <em>II, I, III, IV, V, VI, XX, D, C, IX</em>
 * `Word` (11308; 27% of non-empty `NumForm`): <em>dva, tři, jeden, dvě, tisíc, dvou, pět, čtyři, obou, jednoho</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (3427) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (3428) occur only with one value of `NumForm`.
 
 ## Relations with Agreement in `NumForm`
 
@@ -51,7 +51,7 @@ The feature is used with 1 part-of-speech tags: [cs-pos/NUM]() (7247; 1% instanc
 
 7247 [cs-pos/NUM]() tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (7247; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6108; 84%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (5285; 73%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4836; 67%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4836; 67%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (7247; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6108; 84%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (5285; 73%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4836; 67%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4836; 67%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
@@ -84,7 +84,7 @@ The feature is used with 1 part-of-speech tags: [cs-pos/NUM]() (440; 1% instance
 
 440 [cs-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (440; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (394; 90%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (382; 87%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (371; 84%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (371; 84%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (440; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (394; 90%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (382; 87%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (371; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (371; 84%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

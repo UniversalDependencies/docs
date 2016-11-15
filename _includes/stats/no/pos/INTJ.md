@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` types:  <em>ja, nei, jo, å, He-he, piiip, Hei, Tja,
 
 The 10 most frequent ambiguous lemmas: <em>ja</em> ([INTJ]() 70, [NOUN]() 14), <em>nei</em> ([INTJ]() 62, [NOUN]() 21), <em>jo</em> ([ADV]() 247, [INTJ]() 12), <em>å</em> ([PART]() 4309, [INTJ]() 6, [X]() 4), <em>au</em> ([INTJ]() 2, [X]() 1, [PROPN]() 1), <em>okei</em> ([INTJ]() 2, [ADV]() 1), <em>Gud</em> ([PROPN]() 13, [INTJ]() 1), <em>a</em> ([X]() 8, [NOUN]() 7, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 22, [NOUN]() 14), <em>nei</em> ([NOUN]() 21, [INTJ]() 9), <em>jo</em> ([ADV]() 235, [INTJ]() 1), <em>å</em> ([PART]() 4246, [CONJ]() 4, [X]() 4, [ADP]() 1, [INTJ]() 1, [AUX]() 1), <em>Gud</em> ([PROPN]() 8, [INTJ]() 1), <em>a</em> ([X]() 8, [ADJ]() 5, [NOUN]() 2, [INTJ]() 1), <em>Åh</em> ([X]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 22, [NOUN]() 14), <em>nei</em> ([NOUN]() 21, [INTJ]() 9), <em>jo</em> ([ADV]() 235, [INTJ]() 1), <em>å</em> ([PART]() 4246, [CONJ]() 4, [X]() 4, [AUX]() 1, [ADP]() 1, [INTJ]() 1), <em>Gud</em> ([PROPN]() 8, [INTJ]() 1), <em>a</em> ([X]() 8, [ADJ]() 5, [NOUN]() 2, [INTJ]() 1), <em>Åh</em> ([X]() 2, [INTJ]() 1)
 
 
 * <em>ja</em>
@@ -29,9 +29,9 @@ The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 22, [NOUN]() 14), <
   * [PART]() 4246: <em>Det var grusomt <b>å</b> høre på . »</em>
   * [CONJ]() 4: <em>De fleste av småpartiene vil samarbeide med Ap , men er ikke enige om hvem andre det er som bør få være med <b>å</b> styre .</em>
   * [X]() 4: <em>Itj bruk tid på <b>å</b> ha på dåkk klea , ell bærg brølløpsbildan .</em>
+  * [AUX]() 1: <em>Og for at også jeg <b>å</b> komme med en bekjennelse :</em>
   * [ADP]() 1: <em>Derfor spør jeg meg selv ; hvis det er lov å betale Ruter penger for å oppfordre offentligheten til å dø av hjerteinfarkt - er det da også OK og dra hjem til de ansatte i Ruter og skyte amfetamin inn <b>å</b> øya på familiene deres ?</em>
   * [INTJ]() 1: <em>" <b>å</b> ja , det har vært et døende språk i over hundre år .</em>
-  * [AUX]() 1: <em>Og for at også jeg <b>å</b> komme med en bekjennelse :</em>
 * <em>Gud</em>
   * [PROPN]() 8: <em>Men <b>Gud</b> hjelpe meg :</em>
   * [INTJ]() 1: <em>- <b>Gud</b> , Sverre , det må være gallestein , sier hun , men han vil vente til dagen etter før de gjør noe med det .</em>
@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 22, [NOUN]() 14), <
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.382722).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.382778).
 
 The 1st highest number of forms (1) was observed with the lemma “Gud”: <em>Gud</em>.
 
@@ -65,15 +65,15 @@ Parents of `INTJ` nodes belong to 8 different parts of speech: [VERB]() (77; 34%
 
 32 (14%) `INTJ` nodes are leaves.
 
-124 (55%) `INTJ` nodes have one child.
+125 (56%) `INTJ` nodes have one child.
 
-36 (16%) `INTJ` nodes have two children.
+35 (16%) `INTJ` nodes have two children.
 
 32 (14%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 12 different relations: [no-dep/punct]() (267; 82% instances), [no-dep/conj]() (12; 4% instances), [no-dep/advmod]() (11; 3% instances), [no-dep/discourse]() (9; 3% instances), [no-dep/parataxis]() (9; 3% instances), [no-dep/cc]() (5; 2% instances), [no-dep/nmod]() (5; 2% instances), [no-dep/neg]() (2; 1% instances), [no-dep/advcl]() (1; 0% instances), [no-dep/cop]() (1; 0% instances), [no-dep/nsubj]() (1; 0% instances), [no-dep/remnant]() (1; 0% instances)
+Children of `INTJ` nodes are attached using 12 different relations: [no-dep/punct]() (266; 82% instances), [no-dep/conj]() (12; 4% instances), [no-dep/advmod]() (11; 3% instances), [no-dep/discourse]() (9; 3% instances), [no-dep/parataxis]() (9; 3% instances), [no-dep/cc]() (5; 2% instances), [no-dep/nmod]() (5; 2% instances), [no-dep/neg]() (2; 1% instances), [no-dep/advcl]() (1; 0% instances), [no-dep/cop]() (1; 0% instances), [no-dep/nsubj]() (1; 0% instances), [no-dep/remnant]() (1; 0% instances)
 
-Children of `INTJ` nodes belong to 9 different parts of speech: [PUNCT]() (267; 82% instances), [INTJ]() (15; 5% instances), [ADV]() (10; 3% instances), [VERB]() (9; 3% instances), [PROPN]() (8; 2% instances), [CONJ]() (5; 2% instances), [NOUN]() (5; 2% instances), [ADJ]() (3; 1% instances), [ADP]() (2; 1% instances)
+Children of `INTJ` nodes belong to 9 different parts of speech: [PUNCT]() (266; 82% instances), [INTJ]() (15; 5% instances), [ADV]() (10; 3% instances), [VERB]() (9; 3% instances), [PROPN]() (8; 2% instances), [CONJ]() (5; 2% instances), [NOUN]() (5; 2% instances), [ADJ]() (3; 1% instances), [ADP]() (2; 1% instances)
 

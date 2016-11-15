@@ -33,7 +33,7 @@ The feature is used with 2 part-of-speech tags: [nl-pos/PUNCT]() (22319; 11% ins
 
 2 [nl-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `PunctType`.
 
-The most frequent other feature values with which `ADV` and `PunctType` co-occurred: <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (2; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `ADV` and `PunctType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (2; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (2; 100%).
 
 `ADV` tokens may have the following values of `PunctType`:
 

@@ -62,42 +62,21 @@ The following 12 pairs of parts of speech are connected with `appos`: [grc-pos/N
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 12 appos	color:blue
-1	γήμας	γαμέω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Aor|VerbForm=Part|Voice=Act	4	advmod	_	_
-2	δὲ	δέ	ADV	d--------	_	4	cc	_	_
-3	Γῆν	Γαῖα	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	dobj	_	_
-4	ἐτέκνωσε	τεκνόω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	0	root	_	_
-5	πρώτους	πρῶτος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	4	advmod	_	_
-6	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Gender=Masc|Number=Plur	7	det	_	_
-7	ἑκατόγχειρας	ἑκατόγχειρος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	4	dobj	_	_
-8	προσαγορευθέντας	προσαγορεύω	VERB	v-pappma-	Case=Acc|Gender=Masc|Number=Plur|Tense=Aor|VerbForm=Part|Voice=Pass	7	amod	_	_
-9	,	,	PUNCT	u--------	_	8	punct	_	_
-10	Βριάρεων	Βριάρεως	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	appos	_	_
-11	Γύην	Γύης	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	appos	_	_
-12	Κόττον	Κόττος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	appos	_	_
-13	,	,	PUNCT	u--------	_	8	punct	_	_
-14	οἳ	ὅς	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
-15	μεγέθει	μέγεθος	NOUN	n-s---nd-	Case=Dat|Gender=Neut|Number=Sing	17	nmod	_	_
-16	τε	τε	ADV	d--------	_	15	advmod	_	_
-17	ἀνυπέρβλητοι	ἀνυπέρβλητος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	20	xcomp	_	_
-18	καὶ	καί	CONJ	c--------	_	15	cc	_	_
-19	δυνάμει	δύναμις	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	15	conj	_	_
-20	καθειστήκεσαν	καθίστημι	VERB	v3plia---	Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	7	acl	_	_
-21	,	,	PUNCT	u--------	_	20	punct	_	_
-22	χεῖρας	χείρ	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	30	dobj	_	_
-23	μὲν	μέν	ADV	d--------	_	22	advmod	_	_
-24	ἀνὰ	ἀνά	ADP	r--------	_	25	case	_	_
-25	ἑκατὸν	ἑκατόν	NUM	m--------	_	22	amod	_	_
-26	κεφαλὰς	κεφαλή	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	22	conj	_	_
-27	δὲ	δέ	ADV	d--------	_	22	cc	_	_
-28	ἀνὰ	ἀνά	ADP	r--------	_	29	case	_	_
-29	πεντήκοντα	πεντήκοντα	NUM	m--------	_	26	amod	_	_
-30	ἔχοντες	ἔχω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	advmod	_	_
-31	.	.	PUNCT	u--------	_	30	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 appos	color:blue
+1	ὡς	ὡς	ADV	d--------	_	2	advmod	_	_
+2	ἀγαθαὶ	ἀγαθός	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+3	φρένες	φρήν	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+4	ἦσαν	εἰμί	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
+5	ἀμύμονι	ἀμύμων	ADJ	a-s----d-	Case=Dat|Number=Sing	6	amod	_	_
+6	Πηνελοπείῃ	Πηνελόπεια	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	_
+7	,	,	PUNCT	u--------	_	3	appos	_	_
+8	κούρῃ	κόρη	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	_
+9	Ἰκαρίου	Ἰκάριος	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	·	·	PUNCT	u--------	_	9	punct	_	_
 
 ~~~
 

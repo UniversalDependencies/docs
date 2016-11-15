@@ -11,7 +11,7 @@ The 10 most frequent `INTJ` lemmas: <em>ak, lūk, nu, paldies</em>
 
 The 10 most frequent `INTJ` types:  <em>Ak, Nu, Paldies, lūk</em>
 
-The 10 most frequent ambiguous lemmas: <em>nu</em> ([PART]() 6, [CONJ]() 2, [INTJ]() 1, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>nu</em> ([PART]() 6, [CONJ]() 2, [ADV]() 1, [INTJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>Nu</em> ([PART]() 3, [INTJ]() 1)
 
@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>Nu</em> ([PART]() 3, [INTJ]() 1)
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.612437).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.616894).
 
 The 1st highest number of forms (1) was observed with the lemma “ak”: <em>Ak</em>.
 
@@ -35,7 +35,7 @@ The 3rd highest number of forms (1) was observed with the lemma “nu”: <em>Nu
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 3 different relations: [lv-dep/root]() (2; 50% instances), [lv-dep/dep]() (1; 25% instances), [lv-dep/discourse]() (1; 25% instances)
+`INTJ` nodes are attached to their parents using 2 different relations: [lv-dep/discourse]() (2; 50% instances), [lv-dep/root]() (2; 50% instances)
 
 Parents of `INTJ` nodes belong to 2 different parts of speech: [ROOT]() (2; 50% instances), [VERB]() (2; 50% instances)
 

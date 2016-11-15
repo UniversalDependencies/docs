@@ -6,7 +6,7 @@
 
 This relation is universal.
 
-30 nodes (1%) are attached to their parents as `name`.
+30 nodes (0%) are attached to their parents as `name`.
 
 30 instances of `name` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.23333333333333.

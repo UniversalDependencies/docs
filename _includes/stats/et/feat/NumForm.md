@@ -29,7 +29,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 1106 [et-pos/ADJ]() tokens (6% of all `ADJ` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1106; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1106; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1106; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1106; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (945; 85%).
+The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1106; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1106; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1106; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1106; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (945; 85%).
 
 `ADJ` tokens may have the following values of `NumForm`:
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `X` and `NumForm` co-occurred:
 
 3 [et-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 67%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 67%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 67%).
 
 `NOUN` tokens may have the following values of `NumForm`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `NOUN` and `NumForm` co-occurr
 
 3 [et-pos/SYM]() tokens (3% of all `SYM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `SYM` and `NumForm` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (3; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%).
+The most frequent other feature values with which `SYM` and `NumForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (3; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (3; 100%).
 
 `SYM` tokens may have the following values of `NumForm`:
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `SYM` and `NumForm` co-occurre
 
 2 [et-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `PRON` and `NumForm` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `NumForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `NumForm`:
 

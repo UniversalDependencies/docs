@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  <em>juga, akan, dapat, telah, lebih, kemudian
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>juga</em> ([ADV]() 354, [CONJ]() 11, [ADP]() 1), <em>akan</em> ([ADV]() 266, [ADP]() 17, [CONJ]() 3), <em>dapat</em> ([ADV]() 254, [VERB]() 4), <em>lebih</em> ([ADV]() 196, [ADJ]() 1), <em>kemudian</em> ([ADV]() 161, [SCONJ]() 4, [ADJ]() 2, [ADP]() 1), <em>hanya</em> ([ADV]() 124, [CONJ]() 1, [ADP]() 1), <em>bisa</em> ([ADV]() 99, [VERB]() 5), <em>masih</em> ([ADV]() 101, [VERB]() 2), <em>banyak</em> ([ADV]() 86, [DET]() 33, [ADJ]() 2, [NOUN]() 1, [PUNCT]() 1), <em>apakah</em> ([ADV]() 35, [NOUN]() 8, [SCONJ]() 5, [ADJ]() 2, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>juga</em> ([ADV]() 354, [CONJ]() 11, [ADP]() 1), <em>akan</em> ([ADV]() 266, [ADP]() 17, [CONJ]() 3), <em>dapat</em> ([ADV]() 254, [VERB]() 4), <em>lebih</em> ([ADV]() 196, [ADJ]() 1), <em>kemudian</em> ([ADV]() 161, [SCONJ]() 4, [ADJ]() 2, [ADP]() 1), <em>hanya</em> ([ADV]() 124, [ADP]() 1, [CONJ]() 1), <em>bisa</em> ([ADV]() 99, [VERB]() 5), <em>masih</em> ([ADV]() 101, [VERB]() 2), <em>banyak</em> ([ADV]() 86, [DET]() 33, [ADJ]() 2, [PUNCT]() 1, [NOUN]() 1), <em>apakah</em> ([ADV]() 35, [NOUN]() 8, [SCONJ]() 5, [ADJ]() 2, [ADP]() 1)
 
 
 * <em>juga</em>
@@ -37,8 +37,8 @@ The 10 most frequent ambiguous types:  <em>juga</em> ([ADV]() 354, [CONJ]() 11, 
   * [ADP]() 1: <em>Camara memulai karier juniornya di klub Étoile Lusitana <b>kemudian</b> memulai karier seniornya di klub tersebut .</em>
 * <em>hanya</em>
   * [ADV]() 124: <em>Bisa dikatakan DNA Y Haplogrup O2b <b>hanya</b> spesifik untuk bangsa Korea .</em>
-  * [CONJ]() 1: <em>Hanya dua musim berada di kasta kedua kompetisi sepakbola nasional , tim berjuluk Laskar Padjadjaran sukses menembus pentas tertinggi sepakbola nasional kala itu , divisi utama . Sayang karena hanya dua musim berada di divisi utama , tim ini kembali degradasi ke divisi I . Menariknya , <b>hanya</b> satu musim turun kasta , tim ini pun kembali ke divisi utama .</em>
   * [ADP]() 1: <em>ISP yang tersambung ke IIX tanpa biaya lebar pita , <b>hanya</b> biaya sambungan fisik sepeti serat optik , jalur nirkabel ataupun sewaan , yang berbeda - beda .</em>
+  * [CONJ]() 1: <em>Hanya dua musim berada di kasta kedua kompetisi sepakbola nasional , tim berjuluk Laskar Padjadjaran sukses menembus pentas tertinggi sepakbola nasional kala itu , divisi utama . Sayang karena hanya dua musim berada di divisi utama , tim ini kembali degradasi ke divisi I . Menariknya , <b>hanya</b> satu musim turun kasta , tim ini pun kembali ke divisi utama .</em>
 * <em>bisa</em>
   * [ADV]() 99: <em>Busa <b>bisa</b> pula dianggap sebagai sejenis koloid .</em>
   * [VERB]() 5: <em>Selain itu , penduduk desa ini memiliki berbagai potensi usaha yang masih <b>bisa</b> berkembang .</em>
@@ -49,8 +49,8 @@ The 10 most frequent ambiguous types:  <em>juga</em> ([ADV]() 354, [CONJ]() 11, 
   * [ADV]() 86: <em>Desain Romulan <b>banyak</b> terinspirasi oleh desainer Italia Carlo Scarpa .</em>
   * [DET]() 33: <em>Tetapi Ia berkata kepada mereka : `` Berapa <b>banyak</b> roti yang ada padamu ?</em>
   * [ADJ]() 2: <em>Bila pengguna ingin berbahasa Indonesia , dapat bergabung dengan # bawel , # pondok , # indo , # puncak , dan masih <b>banyak</b> lagi .</em>
-  * [NOUN]() 1: <em>Di album Sgt . Pepper's Lonely Hearts Club Band , band ini juga menggunakan beragam alat musik India dalam lagu ' Within You Without You ' , klarinet di ' When I ' m Sixty - Four ' , alat musik gesek di ' She's Leaving Home ' , harpsicord di ' Fixing a Hole ' , harmonium di ' Being the Benefit of Mr . Kite ' dan masih <b>banyak</b> lagi .</em>
   * [PUNCT]() 1: <em>Saat burung kembali ke koloni , ia akan menari dengan <b>banyak</b> pasangan , namun setelah beberapa tahun ia akan memilih satu sebagai pasangan yang akan bertahan seumur hidup .</em>
+  * [NOUN]() 1: <em>Di album Sgt . Pepper's Lonely Hearts Club Band , band ini juga menggunakan beragam alat musik India dalam lagu ' Within You Without You ' , klarinet di ' When I ' m Sixty - Four ' , alat musik gesek di ' She's Leaving Home ' , harpsicord di ' Fixing a Hole ' , harmonium di ' Being the Benefit of Mr . Kite ' dan masih <b>banyak</b> lagi .</em>
 * <em>apakah</em>
   * [ADV]() 35: <em>Bau <b>apakah</b> yang tercium olehku ?</em>
   * [NOUN]() 8: <em>`` Untuk <b>apakah</b> kamu pergi ke padang gurun ?</em>

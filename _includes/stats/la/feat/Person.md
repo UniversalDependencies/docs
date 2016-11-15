@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [la-pos/VERB]() (6901; 15% insta
 
 6901 [la-pos/VERB]() tokens (65% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (6901; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6901; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6897; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6336; 92%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5403; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (5286; 77%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4157; 60%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6901; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (6901; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6897; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6336; 92%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5403; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (5286; 77%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4157; 60%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -87,7 +87,7 @@ The feature is used with 3 part-of-speech tags: [la-pos/VERB]() (35572; 12% inst
 
 35572 [la-pos/VERB]() tokens (68% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (35572; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (35572; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (35572; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (35572; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (32938; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (32129; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (29318; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (29123; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (27784; 78%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (35572; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (35572; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (35572; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (35572; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (32938; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (32129; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (29318; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (29123; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (27784; 78%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 1346 [la-pos/AUX]() tokens (96% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1346; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1346; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1277; 95%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1225; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (1165; 87%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1346; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1346; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1277; 95%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1225; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (1165; 87%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -194,7 +194,7 @@ The feature is used with 2 part-of-speech tags: [la-pos/VERB]() (28751; 17% inst
 
 28751 [la-pos/VERB]() tokens (71% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (28751; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (28751; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (28751; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (26127; 91%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (22072; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (19797; 69%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (16834; 59%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (28751; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (28751; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (28751; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (26127; 91%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (22072; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (19797; 69%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (16834; 59%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -252,6 +252,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (150; 50%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (15; 52%),
 <tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (7; 64%),
-<tt>VERB --[<a href="../dep/aux.html">aux</a>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/aux.html">aux</a>]--> PRON</tt> (1; 100%).
 

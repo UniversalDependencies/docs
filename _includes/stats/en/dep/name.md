@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1631 nodes (1%) are attached to their parents as `name`.
+1576 nodes (1%) are attached to their parents as `name`.
 
-1621 instances of `name` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24586143470264.
+1566 instances of `name` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2506345177665.
 
-The following 6 pairs of parts of speech are connected with `name`: [en-pos/PROPN]()-[en-pos/PROPN]() (1536; 94% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (83; 5% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `name`: [en-pos/PROPN]()-[en-pos/PROPN]() (1500; 95% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (64; 4% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,19 +54,23 @@ The following 6 pairs of parts of speech are connected with `name`: [en-pos/PROP
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 name	color:blue
-1	Analyst	analyst	NOUN	NN	Number=Sing	2	name	_	_
-2	Team	team	NOUN	NN	Number=Sing	0	root	_	_
-3	2	2	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-4	:	:	PUNCT	:	_	2	punct	_	_
-5	Coach	coach	NOUN	NN	Number=Sing	2	list	_	SpaceAfter=No
-6	:	:	PUNCT	:	_	2	punct	_	_
-7	Doug	Doug	PROPN	NNP	Number=Sing	8	name	_	_
-8	Sewell	Sewell	PROPN	NNP	Number=Sing	5	appos	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 name	color:blue
+1	Shall	shall	AUX	MD	VerbForm=Fin	3	aux	_	_
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	censor	censor	VERB	VB	VerbForm=Inf	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	works	work	NOUN	NNS	Number=Plur	3	dobj	_	_
+6	of	of	ADP	IN	_	9	case	_	_
+7	poet	poet	NOUN	NN	Number=Sing	9	compound	_	_
+8	Charles	charle	NOUN	NNS	Number=Plur	9	name	_	_
+9	Baudelaire	Baudelaire	PROPN	NNP	Number=Sing	5	nmod	_	_
+10	as	as	ADV	RB	_	3	advmod	_	_
+11	well	well	ADV	RB	Degree=Pos	10	mwe	_	SpaceAfter=No
+12	?	?	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

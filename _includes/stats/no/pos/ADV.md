@@ -55,11 +55,11 @@ The 10 most frequent ambiguous types:  <em>så</em> ([ADV]() 737, [VERB]() 91, [
   * [ADP]() 3543: <em>Man bryter anstendighet <b>for</b> å si seg enig i det alle er enige om .</em>
   * [ADV]() 143: <em>Men kjente at kroppen var <b>for</b> tung .</em>
   * [CONJ]() 44: <em>Fardal ville sitte her , ikke i sofaen , <b>for</b> her er hun mer på alerten .</em>
-  * [X]() 7: <em>Bånn gass i nye « Need <b>for</b> Speed » |</em>
+  * [X]() 7: <em>Bånn gass i nye « Need <b>for</b> Speed »</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.061475 (the average of all parts of speech is 1.382722).
+The form / lemma ratio of `ADV` is 1.061475 (the average of all parts of speech is 1.382778).
 
 The 1st highest number of forms (2) was observed with the lemma “aller”: <em>alle, aller</em>.
 
@@ -84,15 +84,15 @@ Parents of `ADV` nodes belong to 15 different parts of speech: [VERB]() (7088; 5
 
 11216 (89%) `ADV` nodes are leaves.
 
-1054 (8%) `ADV` nodes have one child.
+1055 (8%) `ADV` nodes have one child.
 
 165 (1%) `ADV` nodes have two children.
 
-233 (2%) `ADV` nodes have three or more children.
+232 (2%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 10.
 
-Children of `ADV` nodes are attached using 23 different relations: [no-dep/nmod]() (412; 17% instances), [no-dep/punct]() (360; 15% instances), [no-dep/advmod]() (358; 15% instances), [no-dep/advcl]() (332; 14% instances), [no-dep/cop]() (206; 8% instances), [no-dep/case]() (142; 6% instances), [no-dep/nsubj]() (121; 5% instances), [no-dep/cc]() (107; 4% instances), [no-dep/neg]() (96; 4% instances), [no-dep/conj]() (87; 4% instances), [no-dep/expl]() (84; 3% instances), [no-dep/appos]() (48; 2% instances), [no-dep/aux]() (29; 1% instances), [no-dep/mark]() (28; 1% instances), [no-dep/csubj]() (17; 1% instances), [no-dep/parataxis]() (9; 0% instances), [no-dep/discourse]() (6; 0% instances), [no-dep/remnant]() (5; 0% instances), [no-dep/xcomp]() (3; 0% instances), [no-dep/acl]() (2; 0% instances), [no-dep/ccomp]() (2; 0% instances), [no-dep/compound]() (1; 0% instances), [no-dep/dobj]() (1; 0% instances)
+Children of `ADV` nodes are attached using 23 different relations: [no-dep/nmod]() (412; 17% instances), [no-dep/advmod]() (358; 15% instances), [no-dep/punct]() (358; 15% instances), [no-dep/advcl]() (332; 14% instances), [no-dep/cop]() (206; 8% instances), [no-dep/case]() (142; 6% instances), [no-dep/nsubj]() (121; 5% instances), [no-dep/cc]() (107; 4% instances), [no-dep/neg]() (96; 4% instances), [no-dep/conj]() (87; 4% instances), [no-dep/expl]() (84; 3% instances), [no-dep/appos]() (48; 2% instances), [no-dep/aux]() (29; 1% instances), [no-dep/mark]() (28; 1% instances), [no-dep/csubj]() (17; 1% instances), [no-dep/parataxis]() (9; 0% instances), [no-dep/discourse]() (6; 0% instances), [no-dep/remnant]() (5; 0% instances), [no-dep/xcomp]() (3; 0% instances), [no-dep/acl]() (2; 0% instances), [no-dep/ccomp]() (2; 0% instances), [no-dep/compound]() (1; 0% instances), [no-dep/dobj]() (1; 0% instances)
 
-Children of `ADV` nodes belong to 15 different parts of speech: [VERB]() (647; 26% instances), [PUNCT]() (360; 15% instances), [ADV]() (348; 14% instances), [NOUN]() (269; 11% instances), [ADJ]() (214; 9% instances), [ADP]() (205; 8% instances), [PRON]() (166; 7% instances), [CONJ]() (108; 4% instances), [PROPN]() (65; 3% instances), [AUX]() (29; 1% instances), [SCONJ]() (25; 1% instances), [DET]() (6; 0% instances), [INTJ]() (6; 0% instances), [NUM]() (5; 0% instances), [PART]() (3; 0% instances)
+Children of `ADV` nodes belong to 15 different parts of speech: [VERB]() (647; 26% instances), [PUNCT]() (358; 15% instances), [ADV]() (348; 14% instances), [NOUN]() (269; 11% instances), [ADJ]() (214; 9% instances), [ADP]() (205; 8% instances), [PRON]() (166; 7% instances), [CONJ]() (108; 4% instances), [PROPN]() (65; 3% instances), [AUX]() (29; 1% instances), [SCONJ]() (25; 1% instances), [DET]() (6; 0% instances), [INTJ]() (6; 0% instances), [NUM]() (5; 0% instances), [PART]() (3; 0% instances)
 

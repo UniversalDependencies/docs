@@ -11,9 +11,9 @@ The 10 most frequent `PRON` lemmas: <em>sé, é, sin, sí, féin, mé, iad, siad
 
 The 10 most frequent `PRON` types:  <em>sé, é, sin, sí, féin, mé, iad, siad, í, seo</em>
 
-The 10 most frequent ambiguous lemmas: <em>sé</em> ([PRON]() 218, [NUM]() 6, [VERB]() 1), <em>sin</em> ([PRON]() 109, [DET]() 106, [X]() 16, [VERB]() 2), <em>féin</em> ([PRON]() 60, [NOUN]() 1), <em>seo</em> ([DET]() 114, [PRON]() 26, [X]() 10, [VERB]() 4), <em>cé</em> ([PRON]() 23, [SCONJ]() 10, [DET]() 2, [NOUN]() 1, [VERB]() 1), <em>siúd</em> ([PRON]() 14, [DET]() 1), <em>cad</em> ([PRON]() 10, [DET]() 1, [VERB]() 1), <em>cibé</em> ([DET]() 7, [PRON]() 1)
+The 10 most frequent ambiguous lemmas: <em>sé</em> ([PRON]() 218, [NUM]() 6, [VERB]() 1), <em>sin</em> ([PRON]() 109, [DET]() 106, [X]() 16, [VERB]() 2), <em>féin</em> ([PRON]() 60, [NOUN]() 1), <em>seo</em> ([DET]() 114, [PRON]() 26, [X]() 10, [VERB]() 4), <em>cé</em> ([PRON]() 23, [SCONJ]() 10, [DET]() 2, [VERB]() 1, [NOUN]() 1), <em>siúd</em> ([PRON]() 14, [DET]() 1), <em>cad</em> ([PRON]() 10, [VERB]() 1, [DET]() 1), <em>cibé</em> ([DET]() 7, [PRON]() 1)
 
-The 10 most frequent ambiguous types:  <em>sé</em> ([PRON]() 218, [NUM]() 4), <em>sin</em> ([DET]() 106, [PRON]() 88), <em>seo</em> ([DET]() 114, [PRON]() 23), <em>cén</em> ([PRON]() 9, [DET]() 1), <em>siúd</em> ([PRON]() 12, [DET]() 1), <em>cad</em> ([PRON]() 5, [DET]() 1, [VERB]() 1), <em>cé</em> ([SCONJ]() 6, [PRON]() 3, [NOUN]() 1), <em>san</em> ([ADP]() 45, [X]() 16, [PRON]() 4), <em>in</em> ([ADP]() 66, [PRON]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>sé</em> ([PRON]() 218, [NUM]() 4), <em>sin</em> ([DET]() 106, [PRON]() 88), <em>seo</em> ([DET]() 114, [PRON]() 23), <em>cén</em> ([PRON]() 9, [DET]() 1), <em>siúd</em> ([PRON]() 12, [DET]() 1), <em>cad</em> ([PRON]() 5, [DET]() 1, [VERB]() 1), <em>cé</em> ([SCONJ]() 6, [PRON]() 3, [NOUN]() 1), <em>san</em> ([ADP]() 45, [X]() 16, [PRON]() 4), <em>in</em> ([ADP]() 66, [NOUN]() 1, [PRON]() 1)
 
 
 * <em>sé</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>sé</em> ([PRON]() 218, [NUM]() 4), <
   * [PRON]() 4: <em>As <b>san</b> go_dtí Fromista , áit a bhfuil séipéal álainn ón 11ú céad sa stíl Rómhánach .</em>
 * <em>in</em>
   * [ADP]() 66: <em>Fuair sí post ansin <b>in</b> Oifig na Deoise , i Halla Naomh Muire .</em>
-  * [PRON]() 1: <em>Ar chasadh ar_ais do Dhamien b' <b>in</b> roimhe é .</em>
   * [NOUN]() 1: <em>Taispeántas Chomh maith leis an léacht lárnach sin ón Ollamh Ó Néill , chualathas sainléacht Kenneth Nicholls , Léachtóir le Stair i gColáiste na hOllscoile , Corcaigh , ar ' The Limerick / Cork Border <b>in</b> the Middle Ages ' .</em>
+  * [PRON]() 1: <em>Ar chasadh ar_ais do Dhamien b' <b>in</b> roimhe é .</em>
 
 ## Morphology
 

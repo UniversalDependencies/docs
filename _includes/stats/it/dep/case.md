@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-38276 nodes (14%) are attached to their parents as `case`.
+41079 nodes (14%) are attached to their parents as `case`.
 
-38274 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75702790260215.
+41077 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75520338859271.
 
-The following 23 pairs of parts of speech are connected with `case`: [it-pos/NOUN]()-[it-pos/ADP]() (29677; 78% instances), [it-pos/PROPN]()-[it-pos/ADP]() (5074; 13% instances), [it-pos/PRON]()-[it-pos/ADP]() (1629; 4% instances), [it-pos/NUM]()-[it-pos/ADP]() (768; 2% instances), [it-pos/NOUN]()-[it-pos/ADV]() (265; 1% instances), [it-pos/ADV]()-[it-pos/ADP]() (252; 1% instances), [it-pos/ADJ]()-[it-pos/ADP]() (202; 1% instances), [it-pos/VERB]()-[it-pos/ADP]() (117; 0% instances), [it-pos/SYM]()-[it-pos/ADP]() (57; 0% instances), [it-pos/PROPN]()-[it-pos/ADV]() (41; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (35; 0% instances), [it-pos/PRON]()-[it-pos/ADV]() (31; 0% instances), [it-pos/SCONJ]()-[it-pos/ADP]() (30; 0% instances), [it-pos/ADP]()-[it-pos/ADP]() (27; 0% instances), [it-pos/NUM]()-[it-pos/ADV]() (20; 0% instances), [it-pos/ADV]()-[it-pos/ADV]() (17; 0% instances), [it-pos/X]()-[it-pos/ADP]() (14; 0% instances), [it-pos/SCONJ]()-[it-pos/ADV]() (9; 0% instances), [it-pos/ADJ]()-[it-pos/ADV]() (5; 0% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/PUNCT]()-[it-pos/VERB]() (1; 0% instances), [it-pos/VERB]()-[it-pos/ADV]() (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `case`: [it-pos/NOUN]()-[it-pos/ADP]() (31722; 77% instances), [it-pos/PROPN]()-[it-pos/ADP]() (5566; 14% instances), [it-pos/PRON]()-[it-pos/ADP]() (1653; 4% instances), [it-pos/NUM]()-[it-pos/ADP]() (918; 2% instances), [it-pos/NOUN]()-[it-pos/ADV]() (290; 1% instances), [it-pos/ADV]()-[it-pos/ADP]() (263; 1% instances), [it-pos/ADJ]()-[it-pos/ADP]() (220; 1% instances), [it-pos/VERB]()-[it-pos/ADP]() (121; 0% instances), [it-pos/SYM]()-[it-pos/ADP]() (57; 0% instances), [it-pos/PROPN]()-[it-pos/ADV]() (50; 0% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (35; 0% instances), [it-pos/SCONJ]()-[it-pos/ADP]() (34; 0% instances), [it-pos/PRON]()-[it-pos/ADV]() (32; 0% instances), [it-pos/ADP]()-[it-pos/ADP]() (27; 0% instances), [it-pos/NUM]()-[it-pos/ADV]() (27; 0% instances), [it-pos/ADV]()-[it-pos/ADV]() (18; 0% instances), [it-pos/X]()-[it-pos/ADP]() (17; 0% instances), [it-pos/SCONJ]()-[it-pos/ADV]() (9; 0% instances), [it-pos/ADJ]()-[it-pos/ADV]() (6; 0% instances), [it-pos/PROPN]()-[it-pos/DET]() (3; 0% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (3; 0% instances), [it-pos/PROPN]()-[it-pos/PROPN]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (1; 0% instances), [it-pos/DET]()-[it-pos/ADP]() (1; 0% instances), [it-pos/NOUN]()-[it-pos/SCONJ]() (1; 0% instances), [it-pos/PROPN]()-[it-pos/SCONJ]() (1; 0% instances), [it-pos/PUNCT]()-[it-pos/VERB]() (1; 0% instances), [it-pos/VERB]()-[it-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 23 pairs of parts of speech are connected with `case`: [it-pos/NOU
 3	partirono	partire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	da	da	ADP	E	_	6	case	_	_
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	Quirinale	Quirinale	PROPN	SP	_	3	nmod	_	_
+6	Quirinale	Quirinale	PROPN	SP	_	3	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
@@ -67,7 +67,7 @@ The following 23 pairs of parts of speech are connected with `case`: [it-pos/NOU
 10	di	di	ADP	E	_	11	case	_	_
 11	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	nmod	_	_
 12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
-13	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+13	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3103 nodes (1%) are attached to their parents as `cop`.
+3089 nodes (1%) are attached to their parents as `cop`.
 
-3005 instances of `cop` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.92330003222688.
+2991 instances of `cop` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.9226286824215.
 
-The following 51 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN]()-[pt-pos/VERB]() (1133; 37% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (938; 30% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (354; 11% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (170; 5% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (149; 5% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (81; 3% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (55; 2% instances), [pt-pos/DET]()-[pt-pos/VERB]() (27; 1% instances), [pt-pos/SYM]()-[pt-pos/VERB]() (27; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (25; 1% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (24; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (11; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (10; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (8; 0% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (8; 0% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (6; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (6; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (5; 0% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (5; 0% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (1; 0% instances).
+The following 46 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN]()-[pt-pos/VERB]() (1133; 37% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (938; 30% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (354; 11% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (170; 6% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (149; 5% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (81; 3% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (55; 2% instances), [pt-pos/DET]()-[pt-pos/VERB]() (27; 1% instances), [pt-pos/SYM]()-[pt-pos/VERB]() (27; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (25; 1% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (24; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (11; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (10; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (8; 0% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (8; 0% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (6; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (5; 0% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,6 +64,83 @@ The following 51 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN
 8	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	PF	PF	PROPN	prop|F|S	Gender=Fem|Number=Sing	6	nmod	_	_
 10	.	.	PUNCT	punc	_	3	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+2761 nodes (1%) are attached to their parents as `cop`.
+
+2658 instances of `cop` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.90148496921405.
+
+The following 15 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN]()-[pt-pos/VERB]() (1151; 42% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (851; 31% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (353; 13% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (177; 6% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (88; 3% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (58; 2% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (57; 2% instances), [pt-pos/SYM]()-[pt-pos/VERB]() (14; 1% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 cop	color:blue
+1	«	«	PUNCT	PU|@PU	_	4	punct	_	_
+2	Será	ser	VERB	<mv>|V|FUT|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+3	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	movimento	movimento	NOUN	<np-idf>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	_
+5	nacionalista	nacionalista	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	4	amod	_	_
+6	independente	independente	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	4	amod	_	_
+7	.	.	PUNCT	PU|@PU	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cop	color:blue
+1	A	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	suspensão	suspensão	NOUN	<np-def>|N|F|S|@SUBJ>	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	traseira	traseiro	ADJ	ADJ|F|S|@N<	Gender=Fem|Number=Sing	2	amod	_	_
+4	é	ser	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	progressiva	progressivo	ADJ	<n>|ADJ|F|S|@<SC	Gender=Fem|Number=Sing	0	root	_	_
+6	com	com	ADP	PRP|@N<	_	9	case	_	_
+7	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	só	só	ADJ	ADJ|M|S|@>N	Gender=Masc|Number=Sing	9	amod	_	_
+9	amortecedor	amortecedor	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	5	nmod	_	_
+10	Boge	Boge	PROPN	PROP|M|S|@N<	Gender=Masc|Number=Sing	9	appos	_	_
+11	.	.	PUNCT	PU|@PU	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 cop	color:blue
+1	Maioria	maioria	NOUN	<np-idf>|N|F|S|@SUBJ>	Gender=Fem|Number=Sing	6	nsubj	_	_
+2	De	de	ADP	<sam->|PRP|@N<	_	4	case	_	_
+3	OS	o	DET	<-sam>|<artd>|DET|M|P|@>N	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	Programas	programa	NOUN	<prop>|<np-def>|N|M|P|@P<	Gender=Masc|Number=Plur	1	nmod	_	_
+5	Está	estar	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	Ligada	ligar	VERB	<mv>|<prop>|V|PCP|F|S|@ICL-<SC	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+7	A	a	ADP	<sam->|PRP|@<PIV	_	9	case	_	_
+8	a	o	DET	<-sam>|<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Rede	rede	NOUN	<prop>|<np-def>|N|F|S|@P<	Gender=Fem|Number=Sing	6	nmod	_	_
+10	De	de	ADP	PRP|@N<	_	11	case	_	_
+11	Esgotos	esgoto	NOUN	<np-idf>|N|M|P|@P<	Gender=Masc|Number=Plur	9	nmod	_	_
+12	*	*	PUNCT	PU|@PU	_	6	punct	_	_
+13	.	.	PUNCT	PU|@PU	_	6	punct	_	_
 
 ~~~
 

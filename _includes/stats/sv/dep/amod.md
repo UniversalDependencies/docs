@@ -147,3 +147,80 @@ The following 32 pairs of parts of speech are connected with `amod`: [sv-pos/NOU
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Swedish_Sign_Language)
+
+This relation is universal.
+
+10 nodes (1%) are attached to their parents as `amod`.
+
+6 instances of `amod` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2.
+
+The following 5 pairs of parts of speech are connected with `amod`: [sv-pos/NOUN]()-[sv-pos/ADJ]() (4; 40% instances), [sv-pos/NOUN]()-[sv-pos/X]() (3; 30% instances), [sv-pos/ADJ]()-[sv-pos/ADV]() (1; 10% instances), [sv-pos/VERB]()-[sv-pos/ADJ]() (1; 10% instances), [sv-pos/VERB]()-[sv-pos/ADV]() (1; 10% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 amod	color:blue
+1	KLÄ-PÅ.NEDERDEL	_	X	?	_	0	root	_	_
+2	KLÄ-PÅ.ÖVERDEL	_	X	?	_	1	conj	_	_
+3	VARM	_	ADJ	JJ	_	4	amod	_	_
+4	KLÄDER	_	NOUN	NN	_	1	dobj	_	_
+5	MÖSSA(G)	_	X	?	_	4	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 amod	color:blue
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	VISUALISERA	_	VERB	VB	_	0	root	_	_
+3	EN	_	NUM	RG	_	4	nummod	_	_
+4	FILM	_	NOUN	NN	_	2	dobj	_	_
+5	KORTVARIG(J)	_	X	?	_	4	amod	_	_
+6	FILM	_	NOUN	NN	_	4	conj	_	_
+7	HUMOR(Lbs)	_	NOUN	NN	_	1	conj	_	_
+8	TILLÄGGA	_	VERB	VB	_	2	conj	_	_
+9	PRO1	_	PRON	PN	_	1	conj	_	_
+10	SKULLE-VILJA(L)	_	VERB	VB	_	2	conj	_	_
+11	NÄR	_	ADV	AB	_	2	advmod	_	_
+12	TID-FRAMÅT	_	ADV	AB	_	2	advmod	_	_
+13	NÄR	_	ADV	AB	_	11	conj	_	_
+14	KAN	_	VERB	VB	_	15	aux	_	_
+15	ÅR-FRAMTID+EN	_	ADV	AB	_	2	conj	_	_
+16	ÅR-FRAMTID+TVÅ	_	ADV	AB	_	15	conj	_	_
+17	PU@g	_	INTJ	G	_	2	discourse	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 amod	color:blue
+1	DÅ@b	_	ADV	AB	_	4	amod	_	_
+2	BI	_	NOUN	NN	_	4	nsubj	_	_
+3	STARTA	_	VERB	VB	_	4	aux	_	_
+4	JAGA	_	VERB	VB	_	0	root	_	_
+5	HUND	_	NOUN	NN	_	4	dobj	_	_
+6	ENTITET(YY)+FÖRFLYTTA@p	_	VERB	VBAV	_	4	conj	_	_
+7	HUND	_	NOUN	NN	_	8	nsubj	_	_
+8	VARELSE(VVb)+RÖRELSE@p	_	VERB	VBAV	_	4	conj	_	_
+9	BEGE-SIG-IVÄG	_	VERB	VB	_	4	conj	_	_
+
+~~~
+
+

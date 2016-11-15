@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/PRON]() (350; 0% instanc
 
 350 [da-pos/PRON]() tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (350; 100%), <tt><a href="Person.html">Person</a>=3</tt> (350; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (350; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (347; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (345; 99%), <tt><a href="Case.html">Case</a>=Acc</tt> (345; 99%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (350; 100%), <tt><a href="Person.html">Person</a>=3</tt> (350; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (350; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (347; 99%), <tt><a href="Case.html">Case</a>=Acc</tt> (345; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (345; 99%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 283 [da-pos/DET]() tokens (5% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (283; 100%), <tt><a href="Person.html">Person</a>=3</tt> (283; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (283; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (283; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (234; 83%), <tt><a href="Gender.html">Gender</a>=Com</tt> (163; 58%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (283; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (283; 100%), <tt><a href="Person.html">Person</a>=3</tt> (283; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (283; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (234; 83%), <tt><a href="Gender.html">Gender</a>=Com</tt> (163; 58%).
 
 `DET` tokens may have the following values of `Reflex`:
 

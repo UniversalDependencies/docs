@@ -31,7 +31,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 5593 [nl-pos/VERB]() tokens (28% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5593; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5593; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5593; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5593; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (5593; 100%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (3890; 70%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (5593; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5593; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5593; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5593; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (5593; 100%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (3890; 70%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 4203 [nl-pos/AUX]() tokens (37% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4203; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4203; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4203; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4203; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4203; 100%), <tt><a href="Subcat.html">Subcat</a>=EMPTY</tt> (4118; 98%), <tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt> (3425; 81%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4203; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4203; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4203; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4203; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4203; 100%), <tt><a href="Subcat.html">Subcat</a>=EMPTY</tt> (4118; 98%), <tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt> (3425; 81%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 2 [nl-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -107,8 +107,8 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (18; 69%),
 <tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> AUX</tt> (10; 63%),
 <tt>X --[<a href="../dep/mark.html">mark</a>]--> X</tt> (4; 100%),
-<tt>PRON --[<a href="../dep/case.html">case</a>]--> AUX</tt> (2; 67%),
 <tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (2; 100%),
+<tt>PRON --[<a href="../dep/case.html">case</a>]--> AUX</tt> (2; 67%),
 <tt>PRON --[<a href="../dep/expl.html">expl</a>]--> PRON</tt> (1; 100%).
 
 

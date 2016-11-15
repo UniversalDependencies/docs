@@ -61,7 +61,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 1021 [et-pos/ADJ]() tokens (5% of all `ADJ` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1021; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1021; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1021; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1021; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (780; 76%).
+The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1021; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1021; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1021; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1021; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (780; 76%).
 
 `ADJ` tokens may have the following values of `PronType`:
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 
 5 [et-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `NOUN` and `PronType` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (5; 100%).
+The most frequent other feature values with which `NOUN` and `PronType` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (5; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%).
 
 `NOUN` tokens may have the following values of `PronType`:
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 
 1 [et-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `NUM` and `PronType` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `PronType` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `PronType`:
 

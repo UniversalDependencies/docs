@@ -95,21 +95,6 @@ The following 5 pairs of parts of speech are connected with `xcomp`: [fi-pos/VER
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 xcomp	color:blue
-1	Mika	mika	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	2	nsubj	_	_
-2	luulee	luulla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	olevansa	olla	VERB	V,Act,PcpVa,Sg,Gen,Px3	Case=Gen|Number=Sing|PartForm=Pres|Person[psor]=3|VerbForm=Part|Voice=Act	2	ccomp	_	_
-4	uhri	uhri	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	2	xcomp	_	Alt=2_xcomp
-5	.	.	PUNCT	Pun	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 1	bgColor:blue
@@ -122,6 +107,21 @@ The following 5 pairs of parts of speech are connected with `xcomp`: [fi-pos/VER
 5	vuotta	vuosi	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	nmod	_	_
 6	varovaisempi	varovainen	ADJ	A,Cmp,Sg,Nom	Case=Nom|Degree=Cmp|Number=Sing	1	xcomp	_	Alt=1_xcomp
 7	.	.	PUNCT	Pun	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 xcomp	color:blue
+1	Mika	mika	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	2	nsubj	_	_
+2	luulee	luulla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	olevansa	olla	VERB	V,Act,PcpVa,Sg,Gen,Px3	Case=Gen|Number=Sing|PartForm=Pres|Person[psor]=3|VerbForm=Part|Voice=Act	2	ccomp	_	_
+4	uhri	uhri	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	2	xcomp	_	Alt=2_xcomp
+5	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~
 

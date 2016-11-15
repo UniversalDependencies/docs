@@ -69,7 +69,7 @@ The following 2 pairs of parts of speech are connected with `foreign`: [en-pos/X
 12	_	_	X	FW	_	10	foreign	_	_
 13	_	_	X	FW	_	10	foreign	_	_
 14	_	_	CONJ	CC	_	10	cc	_	_
-15	_	_	DET	DT	_	19	nsubj	_	_
+15	_	_	PRON	DT	_	19	nsubj	_	_
 16	_	_	VERB	VBZ	_	19	cop	_	_
 17	_	_	DET	DT	_	19	det	_	_
 18	_	_	ADJ	JJS	_	19	amod	_	_
@@ -110,7 +110,7 @@ The following 2 pairs of parts of speech are connected with `foreign`: [en-pos/X
 20	_	_	NUM	CD	_	22	nummod	_	_
 21	_	_	ADJ	JJ	_	22	amod	_	_
 22	_	_	NOUN	NNS	_	18	nmod	_	_
-23	_	_	DET	DT	_	25	nsubj	_	_
+23	_	_	PRON	DT	_	25	nsubj	_	_
 24	_	_	ADV	RB	_	25	advmod	_	_
 25	_	_	VERB	VBD	_	22	acl:relcl	_	_
 26	_	_	PROPN	NNP	_	25	dobj	_	_

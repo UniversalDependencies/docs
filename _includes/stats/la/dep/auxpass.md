@@ -34,6 +34,31 @@ The following 4 pairs of parts of speech are connected with `auxpass`: [la-pos/V
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 auxpass	color:blue
+1	in	in1	ADP	r--------	_	2	case	_	_
+2	praedio	praedium1	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	9	nmod	_	_
+3	Cumano	Cumanus1	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	2	amod	_	_
+4	,	comma1	PUNCT	u--------	_	7	punct	_	_
+5	quod	qui1	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	Trimalchionis	Trimalchio1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+8	,	comma1	PUNCT	u--------	_	7	punct	_	_
+9	nati	nascor1	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+10	sunt	sum1	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	auxpass	_	_
+11	pueri	puer1	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+12	xxx	XXX	NUM	m--------	_	11	nummod	_	_
+13	,	comma1	PUNCT	u--------	_	11	punct	_	_
+14	puellae	puella1	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	11	conj	_	_
+15	XL	XL	NUM	m--------	_	14	nummod	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 18	bgColor:blue
@@ -58,31 +83,6 @@ The following 4 pairs of parts of speech are connected with `auxpass`: [la-pos/V
 17	quia	quia1	SCONJ	c--------	_	18	mark	_	_
 18	digni	dignus1	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	13	advmod	_	_
 19	sunt	sum1	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	auxpass	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 auxpass	color:blue
-1	in	in1	ADP	r--------	_	2	case	_	_
-2	praedio	praedium1	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	9	nmod	_	_
-3	Cumano	Cumanus1	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	2	amod	_	_
-4	,	comma1	PUNCT	u--------	_	7	punct	_	_
-5	quod	qui1	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
-6	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-7	Trimalchionis	Trimalchio1	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-8	,	comma1	PUNCT	u--------	_	7	punct	_	_
-9	nati	nascor1	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-10	sunt	sum1	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	auxpass	_	_
-11	pueri	puer1	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
-12	xxx	XXX	NUM	m--------	_	11	nummod	_	_
-13	,	comma1	PUNCT	u--------	_	11	punct	_	_
-14	puellae	puella1	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	11	conj	_	_
-15	XL	XL	NUM	m--------	_	14	nummod	_	_
 
 ~~~
 

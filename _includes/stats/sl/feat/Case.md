@@ -311,7 +311,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 660 [sl-pos/DET]() tokens (93% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (547; 83%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (547; 83%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (547; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (474; 72%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (331; 50%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (547; 83%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (547; 83%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (547; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (474; 72%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (331; 50%).
 
 `DET` tokens may have the following values of `Case`:
 

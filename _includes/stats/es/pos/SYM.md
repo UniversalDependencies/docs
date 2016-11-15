@@ -11,7 +11,7 @@ The 10 most frequent `SYM` lemmas: <em>%, ², km, $, º, °, a, €, m, ª</em>
 
 The 10 most frequent `SYM` types:  <em>%, ², km, $, º, °, a, €, m, ª</em>
 
-The 10 most frequent ambiguous lemmas: <em>²</em> ([SYM]() 302, [X]() 19, [NUM]() 16), <em>km</em> ([NOUN]() 285, [SYM]() 124), <em>$</em> ([SYM]() 79, [NOUN]() 42), <em>º</em> ([SYM]() 57, [NOUN]() 2), <em>°</em> ([SYM]() 42, [PROPN]() 2), <em>a</em> ([ADP]() 8933, [PROPN]() 35, [SYM]() 30, [SCONJ]() 14, [DET]() 12, [AUX]() 1, [NOUN]() 1, [X]() 1), <em>m</em> ([SYM]() 24, [NOUN]() 21, [PROPN]() 4), <em>ª</em> ([SYM]() 24, [PROPN]() 1), <em>/</em> ([PUNCT]() 194, [SYM]() 22), <em>+</em> ([SYM]() 18, [PUNCT]() 1)
+The 10 most frequent ambiguous lemmas: <em>²</em> ([SYM]() 302, [X]() 19, [NUM]() 16), <em>km</em> ([NOUN]() 285, [SYM]() 124), <em>$</em> ([SYM]() 79, [NOUN]() 42), <em>º</em> ([SYM]() 57, [NOUN]() 2), <em>°</em> ([SYM]() 42, [PROPN]() 2), <em>a</em> ([ADP]() 8933, [PROPN]() 35, [SYM]() 30, [SCONJ]() 14, [DET]() 12, [X]() 1, [AUX]() 1, [NOUN]() 1), <em>m</em> ([SYM]() 24, [NOUN]() 21, [PROPN]() 4), <em>ª</em> ([SYM]() 24, [PROPN]() 1), <em>/</em> ([PUNCT]() 194, [SYM]() 22), <em>+</em> ([SYM]() 18, [PUNCT]() 1)
 
 The 10 most frequent ambiguous types:  <em>²</em> ([SYM]() 302, [X]() 19, [NUM]() 16), <em>km</em> ([NOUN]() 284, [SYM]() 122), <em>$</em> ([SYM]() 79, [NOUN]() 42), <em>º</em> ([SYM]() 57, [NOUN]() 2), <em>°</em> ([SYM]() 42, [PROPN]() 2), <em>a</em> ([ADP]() 8671, [SYM]() 21, [SCONJ]() 14, [PROPN]() 7, [DET]() 3, [AUX]() 1), <em>m</em> ([NOUN]() 21, [SYM]() 18), <em>ª</em> ([SYM]() 24, [PROPN]() 1), <em>/</em> ([PUNCT]() 194, [SYM]() 22), <em>+</em> ([SYM]() 18, [PUNCT]() 1)
 
@@ -104,9 +104,9 @@ The 10 most frequent `SYM` lemmas: <em>', %, 50/100, 30/100, 60/100, 20/100, 10/
 
 The 10 most frequent `SYM` types:  <em>', %, 20%, 50%, 10%, 60%, 25%, 30%, 80%, 5%</em>
 
-The 10 most frequent ambiguous lemmas: <em>'</em> ([SYM]() 100, [PUNCT]() 8), <em>20</em> ([NUM]() 133, [SYM]() 6), <em>/</em> ([PUNCT]() 8, [SYM]() 4), <em>10</em> ([NUM]() 93, [SYM]() 4, [NOUN]() 2), <em>25</em> ([NUM]() 66, [SYM]() 4), <em>2.2</em> ([NUM]() 3, [SYM]() 3), <em>95</em> ([NUM]() 11, [SYM]() 3), <em>1.5</em> ([NUM]() 7, [SYM]() 2), <em>15</em> ([NUM]() 86, [SYM]() 2), <em>3.1</em> ([SYM]() 2, [NUM]() 1)
+The 10 most frequent ambiguous lemmas: <em>'</em> ([SYM]() 100, [PUNCT]() 8), <em>20</em> ([NUM]() 133, [SYM]() 6), <em>/</em> ([PUNCT]() 8, [SYM]() 4), <em>10</em> ([NUM]() 93, [SYM]() 4, [NOUN]() 2), <em>25</em> ([NUM]() 66, [SYM]() 4), <em>2.2</em> ([SYM]() 3, [NUM]() 3), <em>95</em> ([NUM]() 11, [SYM]() 3), <em>1.5</em> ([NUM]() 7, [SYM]() 2), <em>15</em> ([NUM]() 86, [SYM]() 2), <em>3.1</em> ([SYM]() 2, [NUM]() 1)
 
-The 10 most frequent ambiguous types:  <em>'</em> ([SYM]() 100, [PUNCT]() 8), <em>/</em> ([PUNCT]() 8, [SYM]() 4), <em>a</em> ([ADP]() 13108, [NOUN]() 6, [SYM]() 2), <em>b</em> ([SYM]() 2, [NOUN]() 1), <em>22</em> ([NUM]() 39, [SYM]() 1), <em>23</em> ([NUM]() 46, [SYM]() 1, [NOUN]() 1), <em>8</em> ([NUM]() 30, [SYM]() 1), <em>9</em> ([NUM]() 30, [SYM]() 1), <em>c</em> ([SYM]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>'</em> ([SYM]() 100, [PUNCT]() 8), <em>/</em> ([PUNCT]() 8, [SYM]() 4), <em>a</em> ([ADP]() 13108, [NOUN]() 6, [SYM]() 2), <em>b</em> ([SYM]() 2, [NOUN]() 1), <em>22</em> ([NUM]() 39, [SYM]() 1), <em>23</em> ([NUM]() 46, [SYM]() 1, [NOUN]() 1), <em>8</em> ([NUM]() 30, [SYM]() 1), <em>9</em> ([NUM]() 30, [SYM]() 1), <em>c</em> ([NOUN]() 1, [SYM]() 1)
 
 
 * <em>'</em>
@@ -136,8 +136,8 @@ The 10 most frequent ambiguous types:  <em>'</em> ([SYM]() 100, [PUNCT]() 8), <e
   * [NUM]() 30: <em>Este año , el primero tuvo lugar el día <b>9</b> y ayer se celebró el segundo .</em>
   * [SYM]() 1: <em><b>9</b> Como de esta confusión resulta el dogmatismo , que es el final de la animación de la razón , a el salvaguardar la preponderancia decisiva de las razones prácticas , la filosofía favorece - el designio de la Naturaleza - , que es el de mantener constantemente despiertas y activas las facultades de el sujeto y apartar de él un sueño letárgico .</em>
 * <em>c</em>
-  * [SYM]() 1: <em>Con propósito de claridad y sistematización , clasificaremos los - metales orgánicos - en los tres tipos fundamentales que actualmente se conocen : a Polímeros orgánicos covalentes ; b Metalomacrociclos poliméricos ; <b>c</b> Complejos de transferencia de carga .</em>
   * [NOUN]() 1: <em>El tercer tipo ( <b>c</b> ) de materiales orgánicos conductores , en los que se encuadra la labor investigadora de los autores , son los llamados complejos de transferencia de carga o , abreviadamente , C .</em>
+  * [SYM]() 1: <em>Con propósito de claridad y sistematización , clasificaremos los - metales orgánicos - en los tres tipos fundamentales que actualmente se conocen : a Polímeros orgánicos covalentes ; b Metalomacrociclos poliméricos ; <b>c</b> Complejos de transferencia de carga .</em>
 
 ## Morphology
 

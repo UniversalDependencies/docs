@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADP` and `Person` co-occurred
 
 20 [eu-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (20; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (20; 100%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (20; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (20; 100%).
 
 `PRON` tokens may have the following values of `Person`:
 

@@ -23,17 +23,17 @@ The following 26 pairs of parts of speech are connected with `csubj`: [no-pos/AD
 1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 2	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	lange	lang	ADJ	_	Degree=Pos|Number=Plur	4	amod	_	_
-4	timer	time	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
+4	timer	time	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 5	,	$,	PUNCT	_	_	4	punct	_	_
 6	tøft	tøff	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	4	remnant	_	_
 7	å	å	PART	_	_	8	mark	_	_
 8	holde	holde	VERB	_	VerbForm=Inf	6	csubj	_	_
 9	motet	mot	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	8	dobj	_	_
-10	oppe	oppe	ADP	_	_	8	compound:prt	_	_
+10	oppe	oppe	ADP	_	_	8	compound:prt	_	SpaceAfter=No
 11	,	$,	PUNCT	_	_	8	punct	_	_
 12	uten	uten	ADP	_	_	14	mark	_	_
 13	å	å	PART	_	_	14	mark	_	_
-14	vite	vite	VERB	_	VerbForm=Inf	8	advcl	_	_
+14	vite	vite	VERB	_	VerbForm=Inf	8	advcl	_	SpaceAfter=No
 15	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 26 pairs of parts of speech are connected with `csubj`: [no-pos/AD
 6	å	å	PART	_	_	7	mark	_	_
 7	puste	puste	VERB	_	VerbForm=Inf	3	csubj	_	_
 8	der	der	ADV	_	_	7	advmod	_	_
-9	inne	inne	ADP	_	_	8	nmod	_	_
+9	inne	inne	ADP	_	_	8	nmod	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -71,13 +71,13 @@ The following 26 pairs of parts of speech are connected with `csubj`: [no-pos/AD
 4	slik	slik	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	regjering	regjering	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	_
 6	kan	kunne	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
-7	leve	leve	VERB	_	VerbForm=Inf	13	csubj	_	_
+7	leve	leve	VERB	_	VerbForm=Inf	13	csubj	_	SpaceAfter=No
 8	,	$,	PUNCT	_	_	7	punct	_	_
 9	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	_
 10	en	en	DET	_	Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 11	helt	hel	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	12	advmod	_	_
 12	annen	annen	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
-13	sak	sak	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+13	sak	sak	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 14	.	$.	PUNCT	_	_	13	punct	_	_
 
 ~~~

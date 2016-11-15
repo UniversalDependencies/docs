@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3818 nodes (4%) are attached to their parents as `aux`.
+5643 nodes (4%) are attached to their parents as `aux`.
 
-2435 instances of `aux` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.03640649554741.
+3863 instances of `aux` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.1665780613149.
 
-The following 19 pairs of parts of speech are connected with `aux`: [hr-pos/VERB]()-[hr-pos/AUX]() (3291; 86% instances), [hr-pos/ADJ]()-[hr-pos/AUX]() (240; 6% instances), [hr-pos/NOUN]()-[hr-pos/AUX]() (185; 5% instances), [hr-pos/AUX]()-[hr-pos/AUX]() (41; 1% instances), [hr-pos/ADV]()-[hr-pos/AUX]() (11; 0% instances), [hr-pos/PROPN]()-[hr-pos/AUX]() (10; 0% instances), [hr-pos/VERB]()-[hr-pos/VERB]() (10; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADP]() (9; 0% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (6; 0% instances), [hr-pos/PRON]()-[hr-pos/AUX]() (3; 0% instances), [hr-pos/NOUN]()-[hr-pos/VERB]() (2; 0% instances), [hr-pos/PRON]()-[hr-pos/ADP]() (2; 0% instances), [hr-pos/VERB]()-[hr-pos/ADV]() (2; 0% instances), [hr-pos/ADJ]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/ADV]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/AUX]()-[hr-pos/VERB]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/PART]() (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `aux`: [hr-pos/VERB]()-[hr-pos/AUX]() (4704; 83% instances), [hr-pos/ADJ]()-[hr-pos/AUX]() (351; 6% instances), [hr-pos/NOUN]()-[hr-pos/AUX]() (260; 5% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (153; 3% instances), [hr-pos/AUX]()-[hr-pos/AUX]() (82; 1% instances), [hr-pos/ADV]()-[hr-pos/AUX]() (19; 0% instances), [hr-pos/PROPN]()-[hr-pos/AUX]() (16; 0% instances), [hr-pos/VERB]()-[hr-pos/VERB]() (13; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADP]() (10; 0% instances), [hr-pos/VERB]()-[hr-pos/PART]() (8; 0% instances), [hr-pos/PRON]()-[hr-pos/AUX]() (5; 0% instances), [hr-pos/ADV]()-[hr-pos/PRON]() (2; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADJ]() (2; 0% instances), [hr-pos/NOUN]()-[hr-pos/VERB]() (2; 0% instances), [hr-pos/NUM]()-[hr-pos/AUX]() (2; 0% instances), [hr-pos/PRON]()-[hr-pos/ADP]() (2; 0% instances), [hr-pos/VERB]()-[hr-pos/ADV]() (2; 0% instances), [hr-pos/ADJ]()-[hr-pos/PART]() (1; 0% instances), [hr-pos/ADJ]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/ADP]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/AUX]()-[hr-pos/VERB]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/PART]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/SCONJ]()-[hr-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu

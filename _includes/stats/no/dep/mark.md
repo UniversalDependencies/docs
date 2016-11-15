@@ -28,7 +28,7 @@ The following 27 pairs of parts of speech are connected with `mark`: [no-pos/VER
 6	selv	selv	DET	_	PronType=Prs	5	det	_	_
 7	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	underskrevet	underskrive	VERB	_	VerbForm=Part	1	advcl	_	_
-9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	dobj	_	_
+9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	dobj	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -45,8 +45,8 @@ The following 27 pairs of parts of speech are connected with `mark`: [no-pos/VER
 3	grusomt	grusom	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 4	å	å	PART	_	_	5	mark	_	_
 5	høre	høre	VERB	_	VerbForm=Inf	3	advcl	_	_
-6	på	på	ADP	_	_	5	compound:prt	_	_
-7	.	$.	PUNCT	_	_	3	punct	_	_
+6	på	på	ADP	_	_	5	compound:prt	_	SpaceAfter=No
+7	.	$.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 8	»	$"	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 27 pairs of parts of speech are connected with `mark`: [no-pos/VER
 6	selv	selv	DET	_	PronType=Prs	5	det	_	_
 7	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	underskrevet	underskrive	VERB	_	VerbForm=Part	1	advcl	_	_
-9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	dobj	_	_
+9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	dobj	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~

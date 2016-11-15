@@ -26,7 +26,7 @@ The following 80 pairs of parts of speech are connected with `nmod`: [no-pos/VER
 4	rovdyr	rovdyr	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	1	nsubj	_	_
 5	i	i	ADP	_	_	7	case	_	_
 6	denne	denne	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
-7	sak	sak	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	_
+7	sak	sak	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 8	?	$?	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 80 pairs of parts of speech are connected with `nmod`: [no-pos/VER
 5	til	til	ADP	_	_	8	case	_	_
 6	sin	sin	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
-8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
+8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -63,7 +63,7 @@ The following 80 pairs of parts of speech are connected with `nmod`: [no-pos/VER
 4	fremmed	fremmed	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	_
 5	tanke	tanke	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 6	for	for	ADP	_	_	7	case	_	_
-7	Borten	Borten	PROPN	_	_	5	nmod	_	_
+7	Borten	Borten	PROPN	_	_	5	nmod	_	SpaceAfter=No
 8	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~

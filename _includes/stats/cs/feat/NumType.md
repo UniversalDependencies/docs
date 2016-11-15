@@ -7,29 +7,29 @@
 This feature is universal.
 It occurs with 6 different values: `Card`, `Frac`, `Gen`, `Mult`, `Ord`, `Sets`.
 
-49212 tokens (3%) have a non-empty value of `NumType`.
-4024 types (3%) occur at least once with a non-empty value of `NumType`.
-3572 lemmas (6%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: [cs-pos/NUM]() (41510; 3% instances), [cs-pos/ADJ]() (4990; 0% instances), [cs-pos/DET]() (1553; 0% instances), [cs-pos/ADV]() (864; 0% instances), [cs-pos/PRON]() (295; 0% instances).
+49209 tokens (3%) have a non-empty value of `NumType`.
+4025 types (3%) occur at least once with a non-empty value of `NumType`.
+3573 lemmas (6%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 5 part-of-speech tags: [cs-pos/NUM]() (41507; 3% instances), [cs-pos/ADJ]() (4990; 0% instances), [cs-pos/DET]() (1553; 0% instances), [cs-pos/ADV]() (864; 0% instances), [cs-pos/PRON]() (295; 0% instances).
 
 ### `NUM`
 
-41510 [cs-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+41507 [cs-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (36751; 89%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (33460; 81%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29887; 72%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (29861; 72%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (29484; 71%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (36748; 89%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (33457; 81%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29884; 72%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (29858; 72%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (29481; 71%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (41168; 99% of non-empty `NumType`): <em>1, 2, 3, dva, tři, 4, jeden, 6, dvě, tisíc</em>
+* `Card` (41165; 99% of non-empty `NumType`): <em>1, 2, 3, dva, tři, 4, jeden, 6, dvě, tisíc</em>
 * `Frac` (342; 1% of non-empty `NumType`): <em>třetiny, třetinu, třetina, třetině, čtvrtinu, čtvrtina, desetinu, čtvrtiny, pětinu, desetina</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (3436) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (3437) occur only with one value of `NumType`.
 
 ### `ADJ`
 
 4990 [cs-pos/ADJ]() tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (4990; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (4990; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4215; 84%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3246; 65%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (4990; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (4990; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4215; 84%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3246; 65%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 1553 [cs-pos/DET]() tokens (6% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1553; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1553; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1553; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1553; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (1553; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1543; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1543; 99%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (1455; 94%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1553; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1553; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1553; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (1553; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1553; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1543; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1543; 99%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (1455; 94%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -88,7 +88,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 295 [cs-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (295; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (295; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (295; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (289; 98%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (289; 98%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (197; 67%), <tt><a href="Case.html">Case</a>=Acc</tt> (181; 61%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (295; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (295; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (295; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (289; 98%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (289; 98%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (197; 67%), <tt><a href="Case.html">Case</a>=Acc</tt> (181; 61%).
 
 `PRON` tokens may have the following values of `NumType`:
 
@@ -130,7 +130,7 @@ The feature is used with 5 part-of-speech tags: [cs-pos/NUM]() (7307; 1% instanc
 
 7307 [cs-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6108; 84%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (5345; 73%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4836; 66%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4836; 66%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (4836; 66%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6108; 84%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (5345; 73%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4836; 66%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (4836; 66%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4836; 66%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -168,7 +168,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 572 [cs-pos/DET]() tokens (5% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (572; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (572; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (572; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (572; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (572; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (557; 97%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (557; 97%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (521; 91%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (572; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (572; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (572; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (572; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (572; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (557; 97%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (557; 97%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (521; 91%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -180,7 +180,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 168 [cs-pos/ADV]() tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (168; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (168; 100%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (168; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (168; 100%).
 
 `ADV` tokens may have the following values of `NumType`:
 
@@ -194,7 +194,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 82 [cs-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (82; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (82; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (82; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (81; 99%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (81; 99%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (59; 72%), <tt><a href="Case.html">Case</a>=Acc</tt> (49; 60%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (82; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (82; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (82; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (81; 99%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (81; 99%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (59; 72%), <tt><a href="Case.html">Case</a>=Acc</tt> (49; 60%).
 
 `PRON` tokens may have the following values of `NumType`:
 
@@ -229,7 +229,7 @@ The feature is used with 5 part-of-speech tags: [cs-pos/NUM]() (440; 1% instance
 
 440 [cs-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (394; 90%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (382; 87%), <tt><a href="NumForm.html">NumForm</a>=Roman</tt> (371; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (371; 84%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (371; 84%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (394; 90%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (382; 87%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (371; 84%), <tt><a href="NumForm.html">NumForm</a>=Roman</tt> (371; 84%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (371; 84%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -241,7 +241,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 43 [cs-pos/ADJ]() tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (43; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (43; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (43; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (24; 56%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (43; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (43; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (43; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (24; 56%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -252,7 +252,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 14 [cs-pos/ADV]() tokens (2% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (14; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (14; 100%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (14; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (14; 100%).
 
 `ADV` tokens may have the following values of `NumType`:
 
@@ -264,7 +264,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 1 [cs-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Ins</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Case.html">Case</a>=Ins</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -275,7 +275,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 1 [cs-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (1; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Ins</tt> (1; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Case.html">Case</a>=Ins</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (1; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `NumType`:
 

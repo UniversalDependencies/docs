@@ -52,7 +52,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 
 61 [nl-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (61; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (61; 100%), <tt><a href="PronType.html">PronType</a>=Tot</tt> (61; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (61; 100%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (61; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (61; 100%), <tt><a href="PronType.html">PronType</a>=Tot</tt> (61; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (61; 100%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -80,8 +80,8 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>X --[<a href="../dep/mark.html">mark</a>]--> X</tt> (21; 100%),
 <tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%),
 <tt>X --[<a href="../dep/cop.html">cop</a>]--> X</tt> (1; 100%),
-<tt>X --[<a href="../dep/nsubj.html">nsubj</a>]--> X</tt> (1; 100%),
-<tt>ADP --[<a href="../dep/det.html">det</a>]--> DET</tt> (1; 100%).
+<tt>ADP --[<a href="../dep/det.html">det</a>]--> DET</tt> (1; 100%),
+<tt>X --[<a href="../dep/nsubj.html">nsubj</a>]--> X</tt> (1; 100%).
 
 
 
@@ -147,7 +147,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>PROPN --[<a href="../dep/mwe.html">mwe</a>]--> PROPN</tt> (82; 51%),
 <tt>NOUN --[<a href="../dep/advcl.html">advcl</a>]--> NOUN</tt> (11; 61%),
 <tt>PROPN --[<a href="../dep/dobj.html">dobj</a>]--> PROPN</tt> (4; 80%),
-<tt>NOUN --[<a href="../dep/advcl.html">advcl</a>]--> PROPN</tt> (3; 60%),
 <tt>PROPN --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (3; 60%),
+<tt>NOUN --[<a href="../dep/advcl.html">advcl</a>]--> PROPN</tt> (3; 60%),
 <tt>PROPN --[<a href="../dep/advmod.html">advmod</a>]--> NOUN</tt> (1; 100%).
 

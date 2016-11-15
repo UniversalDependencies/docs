@@ -54,23 +54,22 @@ The following 4 pairs of parts of speech are connected with `mwe`: [nl-pos/ADP](
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 mwe	color:blue
-1	Publiciteit	publiciteit	NOUN	N|soort|ev|neut	Number=Sing	2	nsubj	_	_
-2	hoort	hoor	VERB	V|intrans|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	bij	bij	ADP	Prep|voor	AdpType=Prep	9	cc	_	_
-4	het	het	DET	Art|bep|onzijd|neut	Definite=Def|Gender=Neut|PronType=Art	5	det	_	_
-5	bedrijf	bedrijf	NOUN	N|soort|ev|neut	Number=Sing	9	dobj	_	_
-6	in	in	ADP	Prep|voor	AdpType=Prep	7	case	_	_
-7	Cinecitta	Cinecitta	PROPN	N|eigen|ev|neut	Number=Sing	5	nmod	_	_
-8	,	,	PUNCT	Punc|komma	PunctType=Comm	9	punct	_	_
-9	minder	minder	PRON	Num	Degree=Cmp|NumType=Card|PronType=Ind	2	advmod	_	_
-10	bij	bij	ADP	Prep|voor	AdpType=Prep	9	case	_	_
-11	Fellini	Fellini	PROPN	N|eigen|ev|neut	Number=Sing	10	mwe	_	_
-12	.	.	PUNCT	Punc|punt	PunctType=Peri	2	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 mwe	color:blue
+1	Ik	ik	PRON	Pron|per|1|ev|nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vroeg	vraag	VERB	V|trans|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	_	_
+3	of	of	CONJ	Conj|neven	_	10	mark	_	_
+4	en	en	CONJ	Conj|neven	_	3	cc	_	_
+5	zo	zo	X	Conj_Int|onder|metfin	_	3	conj	_	MWE=zo_ja|MWEPOS=X
+6	ja	ja	ADV	ADV	_	5	compound	_	_
+7	met	met	ADP	Prep|voor	AdpType=Prep	5	case	_	_
+8	wie	wie	PRON	Pron|betr|neut|zelfst	PronType=Rel	7	mwe	_	_
+9	hij	hij	PRON	Pron|per|3|ev|nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	zou	zal	VERB	V|hulp|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|VerbType=Mod	2	ccomp	_	_
+11	komen	kom	VERB	V|intrans|inf	Subcat=Intr|VerbForm=Inf	10	xcomp	_	_
 
 ~~~
 

@@ -11,21 +11,21 @@ The 10 most frequent `AUX` lemmas: <em>haber, ser, poder, estar, deber, ir, tene
 
 The 10 most frequent `AUX` types:  <em>ha, fue, han, puede, había, está, es, fueron, ser, sido</em>
 
-The 10 most frequent ambiguous lemmas: <em>haber</em> ([AUX]() 1848, [VERB]() 373, [PROPN]() 7, [NOUN]() 5, [X]() 2, [ADV]() 1), <em>ser</em> ([VERB]() 6101, [AUX]() 1713, [NOUN]() 49, [PROPN]() 25, [X]() 7, [DET]() 1, [PART]() 1, [CONJ]() 1), <em>poder</em> ([AUX]() 896, [NOUN]() 102, [VERB]() 18, [PROPN]() 3, [X]() 2), <em>estar</em> ([VERB]() 748, [AUX]() 447, [X]() 2, [PROPN]() 1), <em>deber</em> ([AUX]() 186, [VERB]() 127, [NOUN]() 1, [PROPN]() 1), <em>ir</em> ([VERB]() 173, [AUX]() 138, [PROPN]() 22, [PART]() 2, [DET]() 1), <em>tener</em> ([VERB]() 1291, [AUX]() 106, [PROPN]() 1), <em>comenzar</em> ([VERB]() 115, [AUX]() 82), <em>volver</em> ([VERB]() 118, [AUX]() 73, [PROPN]() 2), <em>seguir</em> ([VERB]() 111, [AUX]() 69, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>haber</em> ([AUX]() 1848, [VERB]() 373, [PROPN]() 7, [NOUN]() 5, [X]() 2, [ADV]() 1), <em>ser</em> ([VERB]() 6101, [AUX]() 1713, [NOUN]() 49, [PROPN]() 25, [X]() 7, [PART]() 1, [DET]() 1, [CONJ]() 1), <em>poder</em> ([AUX]() 896, [NOUN]() 102, [VERB]() 18, [PROPN]() 3, [X]() 2), <em>estar</em> ([VERB]() 748, [AUX]() 447, [X]() 2, [PROPN]() 1), <em>deber</em> ([AUX]() 186, [VERB]() 127, [NOUN]() 1, [PROPN]() 1), <em>ir</em> ([VERB]() 173, [AUX]() 138, [PROPN]() 22, [PART]() 2, [DET]() 1), <em>tener</em> ([VERB]() 1291, [AUX]() 106, [PROPN]() 1), <em>comenzar</em> ([VERB]() 115, [AUX]() 82), <em>volver</em> ([VERB]() 118, [AUX]() 73, [PROPN]() 2), <em>seguir</em> ([VERB]() 111, [AUX]() 69, [PROPN]() 2)
 
-The 10 most frequent ambiguous types:  <em>ha</em> ([AUX]() 766, [NOUN]() 3, [X]() 1, [PROPN]() 1), <em>fue</em> ([AUX]() 664, [VERB]() 615, [PART]() 1, [X]() 1), <em>había</em> ([AUX]() 225, [VERB]() 93), <em>está</em> ([VERB]() 216, [AUX]() 166, [X]() 1), <em>es</em> ([VERB]() 2668, [AUX]() 179, [PROPN]() 3, [X]() 3), <em>fueron</em> ([AUX]() 175, [VERB]() 99), <em>ser</em> ([VERB]() 293, [AUX]() 174, [NOUN]() 26, [X]() 1), <em>sido</em> ([AUX]() 164, [VERB]() 90), <em>pueden</em> ([AUX]() 141, [VERB]() 3), <em>haber</em> ([AUX]() 99, [VERB]() 8, [NOUN]() 2)
+The 10 most frequent ambiguous types:  <em>ha</em> ([AUX]() 766, [NOUN]() 3, [PROPN]() 1, [X]() 1), <em>fue</em> ([AUX]() 664, [VERB]() 615, [X]() 1, [PART]() 1), <em>había</em> ([AUX]() 225, [VERB]() 93), <em>está</em> ([VERB]() 216, [AUX]() 166, [X]() 1), <em>es</em> ([VERB]() 2668, [AUX]() 179, [PROPN]() 3, [X]() 3), <em>fueron</em> ([AUX]() 175, [VERB]() 99), <em>ser</em> ([VERB]() 293, [AUX]() 174, [NOUN]() 26, [X]() 1), <em>sido</em> ([AUX]() 164, [VERB]() 90), <em>pueden</em> ([AUX]() 141, [VERB]() 3), <em>haber</em> ([AUX]() 99, [VERB]() 8, [NOUN]() 2)
 
 
 * <em>ha</em>
   * [AUX]() 766: <em>Me <b>ha</b> sacado de apuros mas de una vez .</em>
   * [NOUN]() 3: <em>Ocupa un área total de 54 hectáreas ( 0,54 km ² ) , en virtud de una exposición de 34 <b>ha</b> ( 340.000 m² ) .</em>
-  * [X]() 1: <em>El instituto fue establecido en 1961 y <b>ha</b> se han graduado desde entonces más de 5 000 alumnos .</em>
   * [PROPN]() 1: <em>Destacan veinte lámparas de vidrio que iluminaron la sinagoga de Lorca , varios fragmentos de las yeserías que adornaban la pared de el arón <b>ha</b> - qodesh este edificio , azulejos , monedas , cerámicas que representan la vida cotidiana en la baja Edad Media , diversos fragmentos de janukkiot , candiles empleados para conmemorar la fiesta judía de la Januká , así como interesantes manuscritos que recogen las actividades de los judíos que formaban parte de la sociedad fronteriza de Lorca en el siglo XV .</em>
+  * [X]() 1: <em>El instituto fue establecido en 1961 y <b>ha</b> se han graduado desde entonces más de 5 000 alumnos .</em>
 * <em>fue</em>
   * [AUX]() 664: <em>La sentencia de este caso <b>fue</b> publicada por orden virreinal en 1783 .</em>
   * [VERB]() 615: <em>En general , el daño en Gran Caimán no <b>fue</b> severo .</em>
-  * [PART]() 1: <em>Después <b>fue</b> a la Universidad de Cambridge donde se interesó por la física y la química .</em>
   * [X]() 1: <em>El sencillo fue <b>fue</b> su primero lanzado en formato maxi con más de 4 canciones , y e fueron agregados numerosas remezclas y versiones alternativas de la canción original .</em>
+  * [PART]() 1: <em>Después <b>fue</b> a la Universidad de Cambridge donde se interesó por la física y la química .</em>
 * <em>había</em>
   * [AUX]() 225: <em>Los dibujos que aparecían los <b>había</b> hecho yo .</em>
   * [VERB]() 93: <em>Según el censo de 2010 , <b>había</b> 36.690 personas residiendo en Burleson .</em>

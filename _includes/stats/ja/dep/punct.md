@@ -2,6 +2,83 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+10247 nodes (11%) are attached to their parents as `punct`.
+
+10247 instances of `punct` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.75436713184347.
+
+The following 10 pairs of parts of speech are connected with `punct`: [ja-pos/NOUN]()-[ja-pos/PUNCT]() (5263; 51% instances), [ja-pos/VERB]()-[ja-pos/PUNCT]() (3474; 34% instances), [ja-pos/ADV]()-[ja-pos/PUNCT]() (606; 6% instances), [ja-pos/NUM]()-[ja-pos/PUNCT]() (520; 5% instances), [ja-pos/ADJ]()-[ja-pos/PUNCT]() (304; 3% instances), [ja-pos/PRON]()-[ja-pos/PUNCT]() (64; 1% instances), [ja-pos/X]()-[ja-pos/PUNCT]() (7; 0% instances), [ja-pos/DET]()-[ja-pos/PUNCT]() (6; 0% instances), [ja-pos/CONJ]()-[ja-pos/PUNCT]() (2; 0% instances), [ja-pos/PART]()-[ja-pos/PUNCT]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 punct	color:blue
+1	ただし	_	ADV	ADV	_	9	advmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
+4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
+8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 punct	color:blue
+1	同僚教師の	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
+2	すみれと	_	NOUN	NOUN-CONJ	_	6	nmod	_	_
+3	彩は	_	NOUN	NOUN-PRT	_	2	conj	_	_
+4	そんな	_	ADJ	ADJ	_	5	amod	_	_
+5	夕子と	_	NOUN	NOUN-POSTP	_	6	nmod	_	_
+6	意気投合し	_	VERB	VERB	_	13	advcl	_	_
+7	、	_	PUNCT	.	_	6	punct	_	_
+8	問題を	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	解決する	_	VERB	VERB-AUX	_	10	ccomp	_	_
+10	ため	_	NOUN	NOUN	_	6	conj	_	_
+11	行動を	_	NOUN	NOUN-PRT	_	13	nmod	_	_
+12	共に	_	NOUN	NOUN-POSTP	_	13	nmod	_	_
+13	する。	_	VERB	VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 punct	color:blue
+1	ただし	_	ADV	ADV	_	9	advmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
+4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
+8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

@@ -13,7 +13,7 @@ The 10 most frequent `DET` types:  <em>ini, itu, sebuah, tersebut, satu, seorang
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>ini</em> ([DET]() 1136, [NOUN]() 3), <em>itu</em> ([DET]() 410, [NOUN]() 5, [CONJ]() 4, [SCONJ]() 1, [PRON]() 1), <em>satu</em> ([DET]() 209, [NUM]() 92, [NOUN]() 20, [ADJ]() 1), <em>seorang</em> ([DET]() 191, [NOUN]() 6, [PRON]() 1), <em>salah</em> ([DET]() 165, [NOUN]() 23, [ADJ]() 2, [VERB]() 1, [ADV]() 1), <em>beberapa</em> ([DET]() 156, [ADJ]() 1, [NOUN]() 1), <em>berbagai</em> ([DET]() 92, [ADJ]() 1), <em>semua</em> ([DET]() 72, [NOUN]() 4, [ADV]() 1), <em>masing</em> ([DET]() 49, [ADV]() 8, [NOUN]() 2, [ADJ]() 2), <em>sebagian</em> ([DET]() 39, [NOUN]() 12, [ADV]() 3)
+The 10 most frequent ambiguous types:  <em>ini</em> ([DET]() 1136, [NOUN]() 3), <em>itu</em> ([DET]() 410, [NOUN]() 5, [CONJ]() 4, [PRON]() 1, [SCONJ]() 1), <em>satu</em> ([DET]() 209, [NUM]() 92, [NOUN]() 20, [ADJ]() 1), <em>seorang</em> ([DET]() 191, [NOUN]() 6, [PRON]() 1), <em>salah</em> ([DET]() 165, [NOUN]() 23, [ADJ]() 2, [VERB]() 1, [ADV]() 1), <em>beberapa</em> ([DET]() 156, [ADJ]() 1, [NOUN]() 1), <em>berbagai</em> ([DET]() 92, [ADJ]() 1), <em>semua</em> ([DET]() 72, [NOUN]() 4, [ADV]() 1), <em>masing</em> ([DET]() 49, [ADV]() 8, [ADJ]() 2, [NOUN]() 2), <em>sebagian</em> ([DET]() 39, [NOUN]() 12, [ADV]() 3)
 
 
 * <em>ini</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>ini</em> ([DET]() 1136, [NOUN]() 3), 
   * [DET]() 410: <em>Sejak <b>itu</b> pula , nama Masao Kume dikenal sebagai penulis novel pop .</em>
   * [NOUN]() 5: <em>Selain <b>itu</b> , penduduk desa ini memiliki berbagai potensi usaha yang masih bisa berkembang .</em>
   * [CONJ]() 4: <em>Sementara <b>itu</b> Jerry Only dan adiknya Doyle pindah ke Vernon , New Jersey , dimana mereka kerja penuh waktu di perusahaan mesin milik ayahnya .</em>
-  * [SCONJ]() 1: <em>Device driver secara frekuentif melakukan akses pengingat langsung ( DMA ) , dengan demikian device driver bisa melakukan pennulisan dan relokasi atas ingatan fisik , termasuk pula struktur data kernel , oleh karena <b>itu</b> terhadap driver tersebut perlu diberikan kewenangan khusus ( trusted ) .</em>
   * [PRON]() 1: <em>Oleh <b>itu</b> , kedua perusahaan itu telah selesai bergabung pada 1 Januari 2005 .</em>
+  * [SCONJ]() 1: <em>Device driver secara frekuentif melakukan akses pengingat langsung ( DMA ) , dengan demikian device driver bisa melakukan pennulisan dan relokasi atas ingatan fisik , termasuk pula struktur data kernel , oleh karena <b>itu</b> terhadap driver tersebut perlu diberikan kewenangan khusus ( trusted ) .</em>
 * <em>satu</em>
   * [DET]() 209: <em>John Hick adalah salah <b>satu</b> tokoh yang menggunakan pandangan ini .</em>
   * [NUM]() 92: <em>Dalam 1 kampung rata - rata adalah orang yang memang <b>satu</b> keluarga .</em>
@@ -54,8 +54,8 @@ The 10 most frequent ambiguous types:  <em>ini</em> ([DET]() 1136, [NOUN]() 3), 
 * <em>masing</em>
   * [DET]() 49: <em>Apakah mereka bisa menyelesaikan semua masalah <b>masing</b> <b>masing</b> ?</em>
   * [ADV]() 8: <em>Pemenang dari seleksi nasional akan ditentukan oleh juri dan penonton , dengan <b>masing</b> - <b>masing</b> mendapatkan 50 % hak suara .</em>
-  * [NOUN]() 2: <em>Edisi sampul tipis muncul pada 1981 dan 1984 , <b>masing</b> - <b>masing</b> dari EJ Brill dan Harper .</em>
   * [ADJ]() 2: <em>Kronik Cina mencatat bahwa pada periode 1079 dan 1088 , San - fo - tsi masih mengirimkan utusan , <b>masing</b> - <b>masing</b> dari Kien - pi ( Jambi ) dan Pa - lin - fong ( Palembang ) .</em>
+  * [NOUN]() 2: <em>Edisi sampul tipis muncul pada 1981 dan 1984 , <b>masing</b> - <b>masing</b> dari EJ Brill dan Harper .</em>
 * <em>sebagian</em>
   * [DET]() 39: <em>Banjir juga membuat <b>sebagian</b> jalur kereta api lumpuh .</em>
   * [NOUN]() 12: <em>Desa ini memiliki jumlah penduduknya <b>sebagian</b> besar bersuku daerah Flores .</em>

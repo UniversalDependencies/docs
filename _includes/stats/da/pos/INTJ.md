@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>ja, nej, jo, åh, hej, ih, javel, la, ø
 
 The 10 most frequent `INTJ` types:  <em>ja, nej, jo, åh, hej, ih, javel, la, Øv, Bom</em>
 
-The 10 most frequent ambiguous lemmas: <em>ja</em> ([INTJ]() 35, [NOUN]() 8), <em>nej</em> ([INTJ]() 16, [NOUN]() 11), <em>jo</em> ([ADV]() 78, [INTJ]() 7, [SCONJ]() 2), <em>la</em> ([INTJ]() 2, [X]() 2), <em>bom</em> ([NOUN]() 1, [INTJ]() 1), <em>farvel</em> ([NOUN]() 3, [INTJ]() 1), <em>nå</em> ([VERB]() 31, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>ja</em> ([INTJ]() 35, [NOUN]() 8), <em>nej</em> ([INTJ]() 16, [NOUN]() 11), <em>jo</em> ([ADV]() 78, [INTJ]() 7, [SCONJ]() 2), <em>la</em> ([X]() 2, [INTJ]() 2), <em>bom</em> ([NOUN]() 1, [INTJ]() 1), <em>farvel</em> ([NOUN]() 3, [INTJ]() 1), <em>nå</em> ([VERB]() 31, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 13, [NOUN]() 8), <em>nej</em> ([NOUN]() 9, [INTJ]() 2), <em>jo</em> ([ADV]() 77, [SCONJ]() 2, [INTJ]() 1), <em>la</em> ([INTJ]() 2, [X]() 2), <em>farvel</em> ([NOUN]() 3, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 13, [NOUN]() 8), <em>nej</em> ([NOUN]() 9, [INTJ]() 2), <em>jo</em> ([ADV]() 77, [SCONJ]() 2, [INTJ]() 1), <em>la</em> ([X]() 2, [INTJ]() 2), <em>farvel</em> ([NOUN]() 3, [INTJ]() 1)
 
 
 * <em>ja</em>
@@ -27,8 +27,8 @@ The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 13, [NOUN]() 8), <e
   * [SCONJ]() 2: <em>Og <b>jo</b> mere man ved , <b>jo</b> bedre chance har man , " siger souschef i Fællessekretariatet , Merethe Markvard .</em>
   * [INTJ]() 1: <em>Og <b>jo</b> , vi er faktisk godt tilfredse .</em>
 * <em>la</em>
-  * [INTJ]() 2: <em>Men Anne Linnet - oh <b>la</b> <b>la</b> . "</em>
   * [X]() 2: <em>DE FIRE ÅRS . : ( <b>la</b> primavera ) forår skrevet i E-dur * 3all ( L'estate ) sommer g-mol ( l'autunno ) efterår F-dur ( L'inverno ) vinter f-mol * 12all Allegro = Hurtigt livligt .</em>
+  * [INTJ]() 2: <em>Men Anne Linnet - oh <b>la</b> <b>la</b> . "</em>
 * <em>farvel</em>
   * [NOUN]() 3: <em>I bogen nævnes den omstændighed , at Schlüter har svært ved som person at sige <b>farvel</b> , når han afskediger ministre .</em>
   * [INTJ]() 1: <em>Han vender sig og prøver at give sin stemme en munter klang , da han siger : " Så <b>farvel</b> da .</em>

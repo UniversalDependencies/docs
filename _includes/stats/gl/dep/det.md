@@ -82,3 +82,72 @@ The following 44 pairs of parts of speech are connected with `det`: [gl-pos/NOUN
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+3969 nodes (16%) are attached to their parents as `det`.
+
+3966 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1660367850844.
+
+The following 9 pairs of parts of speech are connected with `det`: [gl-pos/NOUN]()-[gl-pos/DET]() (3324; 84% instances), [gl-pos/PROPN]()-[gl-pos/DET]() (364; 9% instances), [gl-pos/PRON]()-[gl-pos/DET]() (165; 4% instances), [gl-pos/ADJ]()-[gl-pos/DET]() (60; 2% instances), [gl-pos/NUM]()-[gl-pos/DET]() (37; 1% instances), [gl-pos/VERB]()-[gl-pos/DET]() (16; 0% instances), [gl-pos/ADV]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/SYM]()-[gl-pos/DET]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	Walesa	Walesa	PROPN	Sp00	_	2	nsubj	_	_
+2	critica	criticar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	emisora	emisora	NOUN	Scfs	Gender=Fem|Number=Sing	2	dobj	_	_
+5	católica	católico	ADJ	A0fs	Gender=Fem|Number=Sing	4	amod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 det	color:blue
+1	'	'	PUNCT	Q'	_	3	punct	_	_
+2	estamos	estar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	pagando	pagar	VERB	V0x000	VerbForm=Ger	0	root	_	_
+4	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	traballar	traballar	VERB	V0f000	VerbForm=Inf	3	ccomp	_	_
+6	exclusivamente	exclusivamente	ADV	Wn	_	5	advmod	_	_
+7	para	para	ADP	P	AdpType=Prep	9	case	_	_
+8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Estado	Estado	PROPN	Spms	Gender=Masc|Number=Sing	5	nmod	_	_
+10	'	'	PUNCT	Q'	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
+3	pode	poder	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	csubj	_	_
+4	busca	buscar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	vida	vida	NOUN	Scfs	Gender=Fem|Number=Sing	4	dobj	_	_
+7	fóra	fóra	ADV	Wn	_	4	advmod	_	_
+8	.	.	PUNCT	Q.	_	4	punct	_	_
+
+~~~
+
+

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-906 nodes (1%) are attached to their parents as `ccomp`.
+1307 nodes (1%) are attached to their parents as `ccomp`.
 
-905 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.50220750551876.
+1300 instances of `ccomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.35654169854629.
 
-The following 23 pairs of parts of speech are connected with `ccomp`: [hr-pos/VERB]()-[hr-pos/VERB]() (537; 59% instances), [hr-pos/VERB]()-[hr-pos/ADJ]() (135; 15% instances), [hr-pos/VERB]()-[hr-pos/NOUN]() (82; 9% instances), [hr-pos/ADV]()-[hr-pos/VERB]() (52; 6% instances), [hr-pos/ADJ]()-[hr-pos/VERB]() (21; 2% instances), [hr-pos/ADV]()-[hr-pos/ADJ]() (17; 2% instances), [hr-pos/ADV]()-[hr-pos/NOUN]() (11; 1% instances), [hr-pos/AUX]()-[hr-pos/VERB]() (11; 1% instances), [hr-pos/VERB]()-[hr-pos/ADV]() (11; 1% instances), [hr-pos/VERB]()-[hr-pos/AUX]() (10; 1% instances), [hr-pos/NOUN]()-[hr-pos/VERB]() (3; 0% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (3; 0% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (2; 0% instances), [hr-pos/VERB]()-[hr-pos/PROPN]() (2; 0% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/ADJ]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/ADV]()-[hr-pos/ADV]() (1; 0% instances), [hr-pos/ADV]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/AUX]()-[hr-pos/ADJ]() (1; 0% instances), [hr-pos/AUX]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADJ]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/ADP]() (1; 0% instances).
+The following 29 pairs of parts of speech are connected with `ccomp`: [hr-pos/VERB]()-[hr-pos/VERB]() (779; 60% instances), [hr-pos/VERB]()-[hr-pos/ADJ]() (184; 14% instances), [hr-pos/VERB]()-[hr-pos/NOUN]() (113; 9% instances), [hr-pos/ADV]()-[hr-pos/VERB]() (63; 5% instances), [hr-pos/ADJ]()-[hr-pos/VERB]() (38; 3% instances), [hr-pos/VERB]()-[hr-pos/AUX]() (21; 2% instances), [hr-pos/ADV]()-[hr-pos/ADJ]() (20; 2% instances), [hr-pos/VERB]()-[hr-pos/ADV]() (16; 1% instances), [hr-pos/ADV]()-[hr-pos/NOUN]() (15; 1% instances), [hr-pos/AUX]()-[hr-pos/VERB]() (14; 1% instances), [hr-pos/NOUN]()-[hr-pos/VERB]() (8; 1% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (7; 1% instances), [hr-pos/VERB]()-[hr-pos/PROPN]() (4; 0% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (3; 0% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (3; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADJ]() (3; 0% instances), [hr-pos/ADJ]()-[hr-pos/AUX]() (2; 0% instances), [hr-pos/ADV]()-[hr-pos/AUX]() (2; 0% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (2; 0% instances), [hr-pos/ADJ]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/ADV]()-[hr-pos/ADV]() (1; 0% instances), [hr-pos/AUX]()-[hr-pos/ADJ]() (1; 0% instances), [hr-pos/AUX]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/CONJ]() (1; 0% instances), [hr-pos/SCONJ]()-[hr-pos/VERB]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/PART]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/PUNCT]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu

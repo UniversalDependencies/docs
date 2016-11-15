@@ -11,7 +11,7 @@ This relation is universal.
 4119 instances of `punct` (69%) are left-to-right (parent precedes child).
 Average distance between parent and child is 10.0264258237163.
 
-The following 9 pairs of parts of speech are connected with `punct`: [el-pos/VERB]()-[el-pos/PUNCT]() (3411; 57% instances), [el-pos/NOUN]()-[el-pos/PUNCT]() (1583; 26% instances), [el-pos/ADJ]()-[el-pos/PUNCT]() (369; 6% instances), [el-pos/ADV]()-[el-pos/PUNCT]() (248; 4% instances), [el-pos/CONJ]()-[el-pos/PUNCT]() (225; 4% instances), [el-pos/NUM]()-[el-pos/PUNCT]() (64; 1% instances), [el-pos/PRON]()-[el-pos/PUNCT]() (51; 1% instances), [el-pos/ADP]()-[el-pos/PUNCT]() (27; 0% instances), [el-pos/NOUN]()-[el-pos/NOUN]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `punct`: [el-pos/VERB]()-[el-pos/PUNCT]() (3411; 57% instances), [el-pos/NOUN]()-[el-pos/PUNCT]() (1583; 26% instances), [el-pos/ADJ]()-[el-pos/PUNCT]() (369; 6% instances), [el-pos/ADV]()-[el-pos/PUNCT]() (248; 4% instances), [el-pos/CONJ]()-[el-pos/PUNCT]() (225; 4% instances), [el-pos/NUM]()-[el-pos/PUNCT]() (64; 1% instances), [el-pos/PRON]()-[el-pos/PUNCT]() (50; 1% instances), [el-pos/ADP]()-[el-pos/PUNCT]() (27; 0% instances), [el-pos/DET]()-[el-pos/PUNCT]() (1; 0% instances), [el-pos/NOUN]()-[el-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,7 +57,7 @@ The following 9 pairs of parts of speech are connected with `punct`: [el-pos/VER
 2	ασφαλώς	ασφαλώς	ADV	ADV	_	3	advmod	_	_
 3	σαφές	σαφής	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 4	ότι	ότι	CONJ	CONJ	_	7	mark	_	_
-5	το	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+5	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
 6	προεδρείο	προεδρείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
 7	κατέχει	κατέχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	csubj	_	_
 8	ηγετικό	ηγετικός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	_

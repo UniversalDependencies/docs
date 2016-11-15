@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [et-pos/X]() (39; 0% instances),
 
 39 [et-pos/X]() tokens (43% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (39; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (39; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (39; 100%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (39; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (39; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (39; 100%).
 
 `X` tokens may have the following values of `Foreign`:
 

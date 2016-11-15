@@ -9,20 +9,20 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]().
 
-30309 tokens (52%) have a non-empty value of `Number`.
-14524 types (85%) occur at least once with a non-empty value of `Number`.
+30308 tokens (52%) have a non-empty value of `Number`.
+14513 types (85%) occur at least once with a non-empty value of `Number`.
 4873 lemmas (83%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: [tr-pos/NOUN]() (15733; 27% instances), [tr-pos/VERB]() (6362; 11% instances), [tr-pos/ADJ]() (2414; 4% instances), [tr-pos/PROPN]() (2180; 4% instances), [tr-pos/PRON]() (2148; 4% instances), [tr-pos/AUX]() (955; 2% instances), [tr-pos/NUM]() (320; 1% instances), [tr-pos/ADP]() (194; 0% instances), [tr-pos/X]() (2; 0% instances), [tr-pos/CONJ]() (1; 0% instances).
+The feature is used with 10 part-of-speech tags: [tr-pos/NOUN]() (15734; 27% instances), [tr-pos/VERB]() (6362; 11% instances), [tr-pos/ADJ]() (2413; 4% instances), [tr-pos/PROPN]() (2179; 4% instances), [tr-pos/PRON]() (2148; 4% instances), [tr-pos/AUX]() (955; 2% instances), [tr-pos/NUM]() (320; 1% instances), [tr-pos/ADP]() (194; 0% instances), [tr-pos/X]() (2; 0% instances), [tr-pos/CONJ]() (1; 0% instances).
 
 ### `NOUN`
 
-15733 [tr-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+15734 [tr-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (15733; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (10739; 68%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (10739; 68%), <tt><a href="Case.html">Case</a>=Nom</tt> (8546; 54%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (15734; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (10740; 68%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (10740; 68%), <tt><a href="Case.html">Case</a>=Nom</tt> (8548; 54%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (2316; 15% of non-empty `Number`): <em>şeyler, gözleri, yıllar, çocuklar, insanların, duygularını, insanlar, ellerini, gözlerini, çocukları</em>
+* `Plur` (2317; 15% of non-empty `Number`): <em>şeyler, gözleri, yıllar, çocuklar, insanların, duygularını, insanlar, ellerini, gözlerini, çocukları</em>
 * `Sing` (13417; 85% of non-empty `Number`): <em>şey, zaman, gün, adam, gece, yıl, bilim, önem, ev, evet</em>
 
 <table>
@@ -42,13 +42,13 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 6362 [tr-pos/VERB]() tokens (58% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (6362; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (6362; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (6362; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6271; 99%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (5572; 88%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (5481; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5054; 79%), <tt><a href="Register.html">Register</a>=EMPTY</tt> (5001; 79%), <tt><a href="Person.html">Person</a>=3</tt> (4239; 67%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (3884; 61%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (6362; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (6362; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (6362; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6271; 99%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (5572; 88%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (5481; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5054; 79%), <tt><a href="Register.html">Register</a>=EMPTY</tt> (5001; 79%), <tt><a href="Person.html">Person</a>=3</tt> (4239; 67%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (3884; 61%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (995; 16% of non-empty `Number`): <em>bakın, bakalım, gidiyoruz, gidelim, girdik, gittik, biliyorsunuz, diyorlar, geldik, geldiniz</em>
 * `Sing` (5367; 84% of non-empty `Number`): <em>dedi, dedim, değil, oldu, söyledi, olur, etti, geldi, var, verdi</em>
-* `EMPTY` (4695): <em>olan, olduğunu, olduğu, gelen, eden, demek, yapılan, olması, olmadığını, yapan</em>
+* `EMPTY` (4694): <em>olan, olduğunu, olduğu, gelen, eden, demek, yapılan, olması, olmadığını, yapan</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -129,15 +129,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-2414 [tr-pos/ADJ]() tokens (42% of all `ADJ` tokens) have a non-empty value of `Number`.
+2413 [tr-pos/ADJ]() tokens (42% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (2414; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1484; 61%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1484; 61%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (2413; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1483; 61%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1483; 61%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (322; 13% of non-empty `Number`): <em>erkekler, kadınlar, aralarında, kadınların, erkeklerin, Türkler, başkalarının, Çinliler, gençlerin, kadınları</em>
-* `Sing` (2092; 87% of non-empty `Number`): <em>içinde, kadın, var, arasında, kız, yok, ortaya, arada, içine, yanında</em>
-* `EMPTY` (3296): <em>var, yeni, büyük, iyi, aynı, son, başka, bütün, çok, yok</em>
+* `Sing` (2091; 87% of non-empty `Number`): <em>içinde, kadın, var, arasında, kız, yok, ortaya, arada, içine, yanında</em>
+* `EMPTY` (3297): <em>var, yeni, büyük, iyi, aynı, son, başka, bütün, çok, yok</em>
 
 <table>
   <tr><th>Paradigm <i>ara</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -160,14 +160,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PROPN`
 
-2180 [tr-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+2179 [tr-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (2180; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1518; 70%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (2179; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1517; 70%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (10; 0% of non-empty `Number`): <em>Ali'lerin, Atila'lar, Aztek'lerin, Erkekler, Evenkler, KOBİ'ler, KİT'ler, Yukagirler, Özer'lerden, Özer'lerin</em>
-* `Sing` (2170; 100% of non-empty `Number`): <em>Kerem, Türkiye, Ayhan, Kemal, Ramiz, Recep, Türkiye'nin, Mebrure, Gül, Naci</em>
+* `Sing` (2169; 100% of non-empty `Number`): <em>Kerem, Türkiye, Ayhan, Kemal, Ramiz, Recep, Türkiye'nin, Mebrure, Gül, Naci</em>
 
 <table>
   <tr><th>Paradigm <i>Ali</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -183,12 +183,12 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 2148 [tr-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1802; 84%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1802; 84%), <tt><a href="Person.html">Person</a>=3</tt> (1248; 58%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1189; 55%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1802; 84%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1802; 84%), <tt><a href="Person.html">Person</a>=3</tt> (1248; 58%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1189; 55%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (453; 21% of non-empty `Number`): <em>biz, siz, bunlar, bize, bizim, onların, onlar, size, bunları, hepsi</em>
-* `Sing` (1695; 79% of non-empty `Number`): <em>ben, o, ne, bana, beni, bu, onu, onun, benim, ona</em>
+* `Sing` (1695; 79% of non-empty `Number`): <em>ben, ne, o, bana, beni, bu, onu, onun, benim, ona</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -217,25 +217,25 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (94; 10% of non-empty `Number`): <em>musunuz, lar, sınız, ız, ler, yız, iz, lerdir, ydik, yiz</em>
-* `Sing` (861; 90% of non-empty `Number`): <em>mi, mı, dır, dir, ydi, dı, ydı, tu, mu, dur</em>
-* `EMPTY` (21): <em>ken, yken, irerken, okurken</em>
+* `Plur` (94; 10% of non-empty `Number`): <em>musunuz, sınız, lar, ız, ler, yız, iz, siniz, ydik, yiz</em>
+* `Sing` (861; 90% of non-empty `Number`): <em>dir, mi, dır, mı, ydi, dı, ydı, tu, mu, dur</em>
+* `EMPTY` (21): <em>ken, yken, okurken</em>
 
 <table>
   <tr><th>Paradigm <i>i</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ymışım</em></td><td><em>ymışız</em></td></tr>
   <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>mışsın</em></td><td></td></tr>
-  <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>mış, ymiş, ymış, eymiş, miş, ymuş, müş, immiş, ostakoviç'miş, ayoşmuş, edenmiş</em></td><td></td></tr>
+  <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>mış, ymiş, ymış, miş, ymuş, immiş, muş, müş, eymiş</em></td><td></td></tr>
   <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Trans</tt></td><td><em>ymişçesine</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sem</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sa, se, yse, ysa, siyse, imse</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sa, se, yse, siyse, ysa, imse</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>sinizdir</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>dır, dir, dur, tir, tur, tır, dür, edir, tür, 'dır, ledir, ir, edendir, üdür</em></td><td><em>lerdir, lardır, dırlar, durlar, etinlerdir</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydim, ydım, tum, ydum, dım, dim, düm, tım, dum</em></td><td><em>ydik, ydık, dik, duk</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>im, yim, yım, ım, yum, üm, akutistan'dayım</em></td><td><em>ız, yız, yiz, iz, yüz, yuz</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>erdeydin, ydin, din</em></td><td><em>ydınız</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sın, sin, eredesin, s'ın, sun, usevisin</em></td><td><em>sınız, imsiniz, sunuz, lırsınız, eredesiniz</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydi, dı, ydı, tu, ydu, tı, di, ti, du, eydi, dü, 'di, 'tı, 'ydi, eredeydi, 'dı, ydü, 'ydı, tü</em></td><td><em>ydılar, ydiler, tılar, dular</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>dir, dır, dur, tir, tur, tır, dür, tür, 'dır, edir, ledir, üdür</em></td><td><em>lardır, lerdir, dırlar, dir, durlar</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydim, ydım, tum, dim, ydum, dım, tım, dum, düm</em></td><td><em>ydik, ydık, dik, duk</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>im, yim, yım, ım, yum, akutistan'dayım, üm</em></td><td><em>ız, yız, iz, yiz, yüz, yuz</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydin, din</em></td><td><em>ydınız</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sin, sın, s'ın, sun</em></td><td><em>sınız, siniz, sunuz</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydi, dı, ydı, tu, ydu, tı, di, ti, du, dü, 'tı, tü, 'dı, 'ydı, 'di, 'ydi, ydü</em></td><td><em>tılar, ydiler, ydılar, dular</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>lar, ler</em></td></tr>
 </table>
 
@@ -280,7 +280,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Dat</tt></td><td><em>kine</em></td><td><em>kilere</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td></td><td><em>kilerin</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td><em>kinde</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>ki, nki</em></td><td><em>kiler</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>ki</em></td><td><em>kiler</em></td></tr>
 </table>
 
 ### `X`

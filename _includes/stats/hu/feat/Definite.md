@@ -25,8 +25,8 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 * `EMPTY` (115): <em>ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, azokat</em>
 
 <table>
-  <tr><th>Paradigm <i>valamennyi</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>valamennyi</em></td><td><em>valamennyi</em></td></tr>
+  <tr><th>Paradigm <i>milyen</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>milyen</em></td><td><em>milyen</em></td></tr>
 </table>
 
 `Definite` seems to be **lexical feature** of `DET`. 93% lemmas (28) occur only with one value of `Definite`.
@@ -57,7 +57,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 38 [hu-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (38; 100%), <tt><a href="Person.html">Person</a>=3</tt> (38; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (38; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (31; 82%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (29; 76%).
+The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (38; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (38; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (38; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (31; 82%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (29; 76%).
 
 `AUX` tokens may have the following values of `Definite`:
 
@@ -83,6 +83,6 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> DET</tt> (4; 80%),
 <tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> DET</tt> (4; 67%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (3; 100%),
-<tt>DET --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/advmod:mode.html">advmod:mode</a>]--> DET</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/ccomp:obl.html">ccomp:obl</a>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (1; 100%).
 

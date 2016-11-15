@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-5608 nodes (2%) are attached to their parents as `cop`.
+5546 nodes (2%) are attached to their parents as `cop`.
 
-5365 instances of `cop` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.16422967189729.
+5305 instances of `cop` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.16858997475658.
 
-The following 13 pairs of parts of speech are connected with `cop`: [en-pos/ADJ]()-[en-pos/VERB]() (2805; 50% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1997; 36% instances), [en-pos/ADV]()-[en-pos/VERB]() (286; 5% instances), [en-pos/PROPN]()-[en-pos/VERB]() (187; 3% instances), [en-pos/PRON]()-[en-pos/VERB]() (135; 2% instances), [en-pos/NUM]()-[en-pos/VERB]() (92; 2% instances), [en-pos/VERB]()-[en-pos/VERB]() (34; 1% instances), [en-pos/SYM]()-[en-pos/VERB]() (23; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (20; 0% instances), [en-pos/ADP]()-[en-pos/VERB]() (17; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (5; 0% instances), [en-pos/X]()-[en-pos/VERB]() (5; 0% instances), [en-pos/INTJ]()-[en-pos/VERB]() (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `cop`: [en-pos/ADJ]()-[en-pos/VERB]() (2771; 50% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1947; 35% instances), [en-pos/ADV]()-[en-pos/VERB]() (285; 5% instances), [en-pos/PROPN]()-[en-pos/VERB]() (185; 3% instances), [en-pos/PRON]()-[en-pos/VERB]() (163; 3% instances), [en-pos/NUM]()-[en-pos/VERB]() (91; 2% instances), [en-pos/VERB]()-[en-pos/VERB]() (34; 1% instances), [en-pos/SYM]()-[en-pos/VERB]() (23; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (18; 0% instances), [en-pos/ADP]()-[en-pos/VERB]() (17; 0% instances), [en-pos/VERB]()-[en-pos/AUX]() (5; 0% instances), [en-pos/X]()-[en-pos/VERB]() (5; 0% instances), [en-pos/INTJ]()-[en-pos/VERB]() (2; 0% instances).
 
 
 ~~~ conllu
@@ -85,7 +85,7 @@ This relation is universal.
 2763 instances of `cop` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.00459363957597.
 
-The following 12 pairs of parts of speech are connected with `cop`: [en-pos/ADJ]()-[en-pos/VERB]() (1619; 57% instances), [en-pos/NOUN]()-[en-pos/VERB]() (921; 33% instances), [en-pos/PROPN]()-[en-pos/VERB]() (88; 3% instances), [en-pos/ADV]()-[en-pos/VERB]() (79; 3% instances), [en-pos/NUM]()-[en-pos/VERB]() (51; 2% instances), [en-pos/PRON]()-[en-pos/VERB]() (27; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (27; 1% instances), [en-pos/DET]()-[en-pos/VERB]() (10; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (3; 0% instances), [en-pos/ADP]()-[en-pos/VERB]() (2; 0% instances), [en-pos/X]()-[en-pos/VERB]() (2; 0% instances), [en-pos/PART]()-[en-pos/VERB]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `cop`: [en-pos/ADJ]()-[en-pos/VERB]() (1619; 57% instances), [en-pos/NOUN]()-[en-pos/VERB]() (914; 32% instances), [en-pos/PROPN]()-[en-pos/VERB]() (88; 3% instances), [en-pos/ADV]()-[en-pos/VERB]() (79; 3% instances), [en-pos/NUM]()-[en-pos/VERB]() (51; 2% instances), [en-pos/PRON]()-[en-pos/VERB]() (38; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (27; 1% instances), [en-pos/DET]()-[en-pos/VERB]() (6; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (3; 0% instances), [en-pos/ADP]()-[en-pos/VERB]() (2; 0% instances), [en-pos/X]()-[en-pos/VERB]() (2; 0% instances), [en-pos/PART]()-[en-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

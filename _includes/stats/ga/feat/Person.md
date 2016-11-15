@@ -68,7 +68,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 124 [ga-pos/VERB]() tokens (5% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (124; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (122; 98%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (65; 52%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (65; 52%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (124; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (122; 98%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (65; 52%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (65; 52%).
 
 `VERB` tokens may have the following values of `Person`:
 

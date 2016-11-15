@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-31509 nodes (14%) are attached to their parents as `case`.
+31781 nodes (14%) are attached to their parents as `case`.
 
-31062 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.76892316481005.
+31212 instances of `case` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.82414020955917.
 
-The following 47 pairs of parts of speech are connected with `case`: [pt-pos/NOUN]()-[pt-pos/ADP]() (21204; 67% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (7014; 22% instances), [pt-pos/NUM]()-[pt-pos/ADP]() (829; 3% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (749; 2% instances), [pt-pos/ADV]()-[pt-pos/ADP]() (444; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (364; 1% instances), [pt-pos/DET]()-[pt-pos/ADP]() (210; 1% instances), [pt-pos/SYM]()-[pt-pos/ADP]() (200; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (188; 1% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (99; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (30; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (26; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (22; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (18; 0% instances), [pt-pos/ADP]()-[pt-pos/ADP]() (14; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (11; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (9; 0% instances), [pt-pos/CONJ]()-[pt-pos/ADP]() (7; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (6; 0% instances), [pt-pos/PROPN]()-[pt-pos/SCONJ]() (6; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/INTJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/X]()-[pt-pos/ADP]() (1; 0% instances).
+The following 48 pairs of parts of speech are connected with `case`: [pt-pos/NOUN]()-[pt-pos/ADP]() (21240; 67% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (7009; 22% instances), [pt-pos/NUM]()-[pt-pos/ADP]() (836; 3% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (765; 2% instances), [pt-pos/ADV]()-[pt-pos/ADP]() (467; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (410; 1% instances), [pt-pos/DET]()-[pt-pos/ADP]() (229; 1% instances), [pt-pos/SYM]()-[pt-pos/ADP]() (202; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (188; 1% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (123; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (99; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (30; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (25; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (22; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (18; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (11; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (11; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/ADP]()-[pt-pos/ADP]() (9; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (9; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (6; 0% instances), [pt-pos/CONJ]()-[pt-pos/ADP]() (6; 0% instances), [pt-pos/PROPN]()-[pt-pos/SCONJ]() (6; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADP]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/INTJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/X]()-[pt-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,10 +60,79 @@ The following 47 pairs of parts of speech are connected with `case`: [pt-pos/NOU
 # visual-style 3 2 case	color:blue
 1	Venceu	vencer	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	por	por	ADP	prp	AdpType=Prep	3	case	_	_
-3	1	1	NUM	num|M|S	Gender=Masc|Number=Sing	1	advmod	_	_
+3	1	1	NUM	num|M|S	Gender=Masc|Number=Sing|NumType=Card	1	advmod	_	_
 4	a	a	ADP	prp	AdpType=Prep	5	case	_	_
-5	0	0	NUM	num|M|S	Gender=Masc|Number=Sing	3	nummod	_	_
+5	0	0	NUM	num|M|S	Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	_
 6	.	.	PUNCT	punc	_	1	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+33389 nodes (15%) are attached to their parents as `case`.
+
+33223 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.7358710952709.
+
+The following 13 pairs of parts of speech are connected with `case`: [pt-pos/NOUN]()-[pt-pos/ADP]() (23542; 71% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (7148; 21% instances), [pt-pos/PRON]()-[pt-pos/ADP]() (1064; 3% instances), [pt-pos/NUM]()-[pt-pos/ADP]() (717; 2% instances), [pt-pos/ADV]()-[pt-pos/ADP]() (409; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (357; 1% instances), [pt-pos/SYM]()-[pt-pos/ADP]() (109; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (17; 0% instances), [pt-pos/DET]()-[pt-pos/ADP]() (15; 0% instances), [pt-pos/ADP]()-[pt-pos/ADP]() (7; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADP]() (2; 0% instances), [pt-pos/INTJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/ADP]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 case	color:blue
+1	Sommeliers	Sommeliers	PROPN	PROP|M|S|@SUBJ>	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	paulistas	paulista	ADJ	ADJ|M|P|@N<	Gender=Masc|Number=Plur	1	amod	_	_
+3	se	se	PRON	PERS|M|3P|ACC|@ACC>-PASS	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	dobj	_	_
+4	superam	superar	VERB	<mv>|<se-passive>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	em	em	ADP	PRP|@<ADVL	_	6	case	_	_
+6	evento	evento	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	4	nmod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 case	color:blue
+1	Fórum	fórum	NOUN	<np-idf>|N|M|S|@NPHR	Gender=Masc|Number=Sing	0	root	_	_
+2	sobre	sobre	ADP	PRP|@N<	_	3	case	_	_
+3	África	África	PROPN	PROP|F|S|@P<	Gender=Fem|Number=Sing	1	nmod	_	_
+4	em	em	ADP	PRP|@N<	_	5	case	_	_
+5	Lisboa	Lisboa	PROPN	PROP|F|S|@P<	Gender=Fem|Number=Sing	1	nmod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 case	color:blue
+1	Tem	ter	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	diante	diante	ADV	ADV|@<ADVL	_	1	advmod	_	MWE:diante=de
+3	de	de	ADP	PRP|@A<	_	4	case	_	_
+4	si	se	PRON	<refl>|PERS|M|3S|PIV|@P<	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+5	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	portentoso	portentoso	ADJ	ADJ|M|S|@>N	Gender=Masc|Number=Sing	7	amod	_	_
+7	exemplo	exemplo	NOUN	<np-idf>|N|M|S|@<ACC	Gender=Masc|Number=Sing	1	dobj	_	_
+8	de	de	ADP	PRP|@N<	_	9	case	_	_
+9	desvio	desvio	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	7	nmod	_	_
+10	de	de	ADP	PRP|@N<ARG	_	11	case	_	_
+11	conduta	conduta	NOUN	<np-idf>|N|F|S|@P<	Gender=Fem|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	PU|@PU	_	1	punct	_	_
 
 ~~~
 

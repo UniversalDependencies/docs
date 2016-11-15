@@ -6,31 +6,27 @@
 
 This relation is universal.
 
-63 nodes (1%) are attached to their parents as `compound`.
+74 nodes (1%) are attached to their parents as `compound`.
 
-61 instances of `compound` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49206349206349.
+72 instances of `compound` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.51351351351351.
 
-The following 9 pairs of parts of speech are connected with `compound`: [kk-pos/NOUN]()-[kk-pos/NOUN]() (41; 65% instances), [kk-pos/NUM]()-[kk-pos/NUM]() (7; 11% instances), [kk-pos/NOUN]()-[kk-pos/NUM]() (6; 10% instances), [kk-pos/NOUN]()-[kk-pos/PROPN]() (2; 3% instances), [kk-pos/PROPN]()-[kk-pos/NOUN]() (2; 3% instances), [kk-pos/PROPN]()-[kk-pos/PROPN]() (2; 3% instances), [kk-pos/ADJ]()-[kk-pos/NOUN]() (1; 2% instances), [kk-pos/PROPN]()-[kk-pos/NUM]() (1; 2% instances), [kk-pos/VERB]()-[kk-pos/VERB]() (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `compound`: [kk-pos/NOUN]()-[kk-pos/NOUN]() (51; 69% instances), [kk-pos/NUM]()-[kk-pos/NUM]() (7; 9% instances), [kk-pos/NOUN]()-[kk-pos/NUM]() (6; 8% instances), [kk-pos/NOUN]()-[kk-pos/PROPN]() (2; 3% instances), [kk-pos/PROPN]()-[kk-pos/NOUN]() (2; 3% instances), [kk-pos/PROPN]()-[kk-pos/PROPN]() (2; 3% instances), [kk-pos/ADJ]()-[kk-pos/ADJ]() (1; 1% instances), [kk-pos/ADJ]()-[kk-pos/NOUN]() (1; 1% instances), [kk-pos/ADV]()-[kk-pos/ADV]() (1; 1% instances), [kk-pos/PROPN]()-[kk-pos/NUM]() (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 compound	color:blue
-1	Мені	мен	PRON	prn	_	3	dobj	_	_
-2	бұзақы	бұзақы	NOUN	n	_	3	compound	_	_
-3	_	адам	NOUN	n	_	5	ccomp	_	_
-4	_	е	VERB	cop	_	3	cop	_	_
-5	деп	де	VERB	v	_	9	advcl	_	_
-6	,	,	PUNCT	cm	_	5	punct	_	_
-7	сөйтіп	сөйт	VERB	v	_	9	advcl	_	_
-8	болыстыққа	болыстық	NOUN	n	_	9	iobj	_	_
-9	сайламай	сайла	VERB	v	_	0	root	_	_
-10	қойғаны	қой	AUX	aux	_	9	aux	_	_
-11	.	.	PUNCT	sent	_	9	punct	_	_
+# visual-style 2 1 compound	color:blue
+1	Теке	теке	NOUN	n	_	2	compound	_	nom
+2	көз	көз	NOUN	n	_	5	nmod	_	attr
+3	қазақша	қазақша	ADV	adv	_	4	advmod	_	_
+4	білетін	біл	VERB	v	_	5	acl:relcl	_	tv|gpr_impf
+5	тілмәш	тілмәш	NOUN	n	_	0	root	_	nom
+6	екен	е	AUX	cop	_	5	cop	_	aor|evid|p3|sg
+7	.	.	PUNCT	sent	_	5	punct	_	_
 
 ~~~
 

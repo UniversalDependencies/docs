@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 8 [pt-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5; 63%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (5; 63%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (5; 63%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 63%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
@@ -44,16 +44,6 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 * `Yes` (6; 100% of non-empty `Typo`): <em>espacais, flutante, liquido, mlehor, supreendente, tradiciona</em>
 
-### `ADV`
-
-3 [pt-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (3; 100%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (3; 100%).
-
-`ADV` tokens may have the following values of `Typo`:
-
-* `Yes` (3; 100% of non-empty `Typo`): <em>asim, excessivamnete, não</em>
-
 ### `ADP`
 
 3 [pt-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
@@ -64,15 +54,35 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>a, com, de</em>
 
+### `ADV`
+
+3 [pt-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (3; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (3; 100%).
+
+`ADV` tokens may have the following values of `Typo`:
+
+* `Yes` (3; 100% of non-empty `Typo`): <em>asim, excessivamnete, não</em>
+
 ### `DET`
 
 3 [pt-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 67%).
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 67%).
 
 `DET` tokens may have the following values of `Typo`:
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>a, os</em>
+
+### `PRON`
+
+1 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
+
+`PRON` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>que</em>
 
 ### `NUM`
 
@@ -83,14 +93,4 @@ The most frequent other feature values with which `NUM` and `Typo` co-occurred: 
 `NUM` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>miul</em>
-
-### `PRON`
-
-1 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%).
-
-`PRON` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>que</em>
 

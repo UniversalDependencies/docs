@@ -59,27 +59,25 @@ The following 16 pairs of parts of speech are connected with `parataxis:restart`
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 9 parataxis:restart	color:blue
-1	da	da	SCONJ	Cs	_	2	mark	_	word=da|msd=Vd
-2	so	biti	VERB	Va-r3p-n	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=so|msd=Gp-stm-n
-3	v	v	ADP	Sa	Case=Acc	4	case	_	word=v|msd=Dt
-4	naša	naš	PRON	Ps1npap	Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	word=nasa|msd=Zspsmtm
-5	slovenski	slovenski	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	word=slovenski|msd=Ppnmmi
-6	priimki	priimek	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	9	dislocated	_	word=priimki|msd=Sommi
-7	kako	kako	ADV	Rgp	Degree=Pos	9	advmod	_	word=kak|msd=Rsn
-8	so	biti	VERB	Va-r3p-n	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	word=so|msd=Gp-stm-n
-9	slikoviti	slikovit	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	parataxis:restart	_	word=slikoviti|msd=Ppnmmi
-10	ste	biti	AUX	Va-r2p-n	Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	aux	_	word=ste|msd=Gp-sdm-n
-11	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	14	nsubj	_	word=vi|msd=Zodmmi
-12	to	ta	PRON	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	14	dobj	_	word=to|msd=Zk-set
-13	že	že	PART	Q	_	14	advmod	_	word=že|msd=L
-14	opazili	opaziti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	9	parataxis	_	word=opazli|msd=Ggdd-mm
-15	kdaj	kdaj	ADV	Rgp	Degree=Pos	14	advmod	_	word=kdaj|msd=Rsn
-16	?	?	PUNCT	Z	_	14	punct	_	word=?|msd=U
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 12 parataxis:restart	color:blue
+1	mene	jaz	PRON	Pp1-sa	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	dobj	_	word=mene|msd=Zop-et
+2	s	z	ADP	Si	Case=Ins	3	case	_	word=s|msd=Do
+3	pinceto	pinceta	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	5	nmod	_	word=pinceto|msd=Sozeo
+4	ne	ne	PART	Q	_	5	neg	_	word=ne|msd=L
+5	boli	boleti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=boli|msd=Ggnste
+6	če	če	SCONJ	Cs	_	7	mark	_	word=če|msd=Vd
+7	jih	on	PRON	Pp3fpa--y	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short	5	advcl	_	word=jih|msd=Zotzmt--k
+8	prej	prej	ADV	Rgc	Degree=Cmp	7	advmod	_	word=prej|msd=Rsr
+9	malo	malo	ADV	Rgp	Degree=Pos	7	advmod	_	word=malo|msd=Rsn
+10	neko	nek	DET	Pi-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	word=neko|msd=Zn-zet
+11	kremo	krema	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	12	dobj	_	word=kremo|msd=Sozet
+12	daš	dati	VERB	Vmer2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	parataxis:restart	_	word=daš|msd=Ggdsde
+13	noter	noter	ADV	Rgp	Degree=Pos	12	advmod	_	word=noter|msd=Rsn
+14	ne	ne	PART	Q	_	12	discourse	_	word=ne|msd=L
 
 ~~~
 

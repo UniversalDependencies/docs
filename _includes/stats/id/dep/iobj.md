@@ -63,18 +63,22 @@ The following 7 pairs of parts of speech are connected with `iobj`: [id-pos/VERB
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 iobj	color:blue
-1	Kota	_	NOUN	_	_	3	nsubj	_	_
-2	ini	_	DET	_	_	1	det	_	_
-3	memiliki	_	VERB	_	_	0	root	_	_
-4	kode	_	NOUN	_	_	3	dobj	_	_
-5	pos	_	NOUN	_	_	4	compound	_	_
-6	38019	_	NUM	_	_	3	iobj	_	_
-7	.	_	PUNCT	_	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 iobj	color:blue
+1	Maukah	_	ADV	_	_	4	advmod	_	_
+2	kalian	_	PRON	_	_	4	iobj	_	_
+3	aku	_	PRON	_	_	4	nsubj	_	_
+4	ceritakan	_	VERB	_	_	0	root	_	_
+5	kisah	_	NOUN	_	_	4	dobj	_	_
+6	tentang	_	ADP	_	_	7	case	_	_
+7	masuk	_	VERB	_	_	4	xcomp	_	_
+8	Islamnya	_	NOUN	_	_	7	dobj	_	_
+9	Abu	_	PROPN	_	_	7	nsubj	_	_
+10	Dzar	_	PROPN	_	_	9	name	_	_
+11	?	_	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

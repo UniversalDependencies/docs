@@ -24,7 +24,7 @@ The feature is used with 4 part-of-speech tags: [da-pos/PART]() (1215; 1% instan
 
 759 [da-pos/PRON]() tokens (11% of all `PRON` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `PRON` and `PartType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (759; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (759; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (759; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (759; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (759; 100%).
+The most frequent other feature values with which `PRON` and `PartType` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (759; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (759; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (759; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (759; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (759; 100%).
 
 `PRON` tokens may have the following values of `PartType`:
 

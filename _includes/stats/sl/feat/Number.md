@@ -38,7 +38,7 @@ The feature is used with 8 part-of-speech tags: [sl-pos/NOUN]() (30139; 21% inst
 
 15900 [sl-pos/VERB]() tokens (92% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (12778; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (8256; 52%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8256; 52%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7982; 50%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (12778; 80%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8256; 52%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (8256; 52%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7982; 50%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -197,7 +197,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 2855 [sl-pos/DET]() tokens (86% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (2855; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (2476; 87%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (2399; 84%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (2051; 72%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2051; 72%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1595; 56%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (2855; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (2476; 87%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (2399; 84%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2051; 72%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (2051; 72%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1595; 56%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -412,7 +412,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 1122 [sl-pos/AUX]() tokens (89% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (1122; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1122; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1044; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (914; 81%), <tt><a href="Person.html">Person</a>=3</tt> (634; 57%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1122; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1122; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1044; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (914; 81%), <tt><a href="Person.html">Person</a>=3</tt> (634; 57%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -438,7 +438,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 660 [sl-pos/DET]() tokens (93% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (547; 83%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (547; 83%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (547; 83%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (331; 50%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (547; 83%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (547; 83%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (547; 83%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (331; 50%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -514,9 +514,8 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 * `EMPTY` (314): <em>[name:personal], [name:surname], [name:address], [name:organisation], [name:place]</em>
 
 <table>
-  <tr><th>Paradigm <i>Slovenec</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>slovenca</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>slovenec</em></td><td><em>slovenci</em></td></tr>
+  <tr><th>Paradigm <i>Herman</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>herman</em></td><td><em>hermani</em></td></tr>
 </table>
 
 `Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (304) occur only with one value of `Number`.

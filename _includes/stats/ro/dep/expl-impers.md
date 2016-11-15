@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [expl]().
 There are also 3 other language-specific subtypes of `expl`: [expl:pass](), [expl:poss](), [expl:pv]().
 
-71 nodes (0%) are attached to their parents as `expl:impers`.
+120 nodes (0%) are attached to their parents as `expl:impers`.
 
-71 instances of `expl:impers` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11267605633803.
+119 instances of `expl:impers` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10833333333333.
 
-The following 1 pairs of parts of speech are connected with `expl:impers`: [ro-pos/VERB]()-[ro-pos/PRON]() (71; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:impers`: [ro-pos/VERB]()-[ro-pos/PRON]() (120; 100% instances).
 
 
 ~~~ conllu

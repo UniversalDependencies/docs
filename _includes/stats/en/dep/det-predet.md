@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [det]().
 
-208 nodes (0%) are attached to their parents as `det:predet`.
+207 nodes (0%) are attached to their parents as `det:predet`.
 
-208 instances of `det:predet` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.4375.
+207 instances of `det:predet` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.42028985507246.
 
-The following 7 pairs of parts of speech are connected with `det:predet`: [en-pos/NOUN]()-[en-pos/DET]() (191; 92% instances), [en-pos/DET]()-[en-pos/DET]() (8; 4% instances), [en-pos/ADJ]()-[en-pos/DET]() (3; 1% instances), [en-pos/NOUN]()-[en-pos/PRON]() (3; 1% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/DET]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `det:predet`: [en-pos/NOUN]()-[en-pos/DET]() (190; 92% instances), [en-pos/DET]()-[en-pos/DET]() (8; 4% instances), [en-pos/ADJ]()-[en-pos/DET]() (3; 1% instances), [en-pos/NOUN]()-[en-pos/PRON]() (3; 1% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,15 +56,25 @@ The following 7 pairs of parts of speech are connected with `det:predet`: [en-po
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 det:predet	color:blue
-1	What	what	PRON	WP	PronType=Int	3	det:predet	_	_
-2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
-3	group	group	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No
-4	!	!	PUNCT	.	_	3	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 11 det:predet	color:blue
+1	Houseboat	houseboat	NOUN	NN	Number=Sing	7	nsubj	_	_
+2	in	in	ADP	IN	_	3	case	_	_
+3	Kerala	Kerala	PROPN	NNP	Number=Sing	1	nmod	_	_
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_
+6	good	good	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	option	option	NOUN	NN	Number=Sing	0	root	_	_
+8	for	for	ADP	IN	_	9	case	_	_
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	13	punct	_	_
+11	all	all	DET	PDT	_	13	det:predet	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_
+13	best	best	ADJ	JJS	Degree=Sup	7	parataxis	_	SpaceAfter=No
+14	!!!	!!!	PUNCT	.	_	13	punct	_	_
 
 ~~~
 
@@ -82,7 +92,7 @@ This relation is a language-specific subtype of [det]().
 198 instances of `det:predet` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.3030303030303.
 
-The following 6 pairs of parts of speech are connected with `det:predet`: [en-pos/NOUN]()-[en-pos/DET]() (186; 94% instances), [en-pos/DET]()-[en-pos/DET]() (6; 3% instances), [en-pos/VERB]()-[en-pos/DET]() (3; 2% instances), [en-pos/ADJ]()-[en-pos/DET]() (1; 1% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 1% instances), [en-pos/PROPN]()-[en-pos/DET]() (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `det:predet`: [en-pos/NOUN]()-[en-pos/DET]() (186; 94% instances), [en-pos/PRON]()-[en-pos/DET]() (4; 2% instances), [en-pos/VERB]()-[en-pos/DET]() (3; 2% instances), [en-pos/DET]()-[en-pos/DET]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/DET]() (1; 1% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 1% instances), [en-pos/PROPN]()-[en-pos/DET]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -134,7 +144,7 @@ The following 6 pairs of parts of speech are connected with `det:predet`: [en-po
 8	_	_	PUNCT	,	_	7	punct	_	_
 9	_	_	SCONJ	IN	_	10	mark	_	_
 10	_	_	VERB	VBG	_	23	advcl	_	_
-11	_	_	NOUN	NN	_	10	dobj	_	_
+11	_	_	PRON	NN	_	10	dobj	_	_
 12	_	_	PRON	PRP	_	13	nsubj	_	_
 13	_	_	VERB	VBD	_	11	acl:relcl	_	_
 14	_	_	CONJ	CC	_	10	cc	_	_
@@ -143,7 +153,7 @@ The following 6 pairs of parts of speech are connected with `det:predet`: [en-po
 17	_	_	ADJ	JJ	_	15	xcomp	_	_
 18	_	_	ADP	IN	_	20	case	_	_
 19	_	_	DET	PDT	_	20	det:predet	_	_
-20	_	_	DET	DT	_	17	nmod	_	_
+20	_	_	PRON	DT	_	17	nmod	_	_
 21	_	_	PUNCT	,	_	23	punct	_	_
 22	_	_	PRON	PRP	_	23	nsubj	_	_
 23	_	_	VERB	VBP	_	7	ccomp	_	_

@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [got-pos/VERB]() (731; 1% instan
 
 731 [got-pos/VERB]() tokens (6% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (731; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (729; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (729; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (725; 99%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (725; 99%), <tt><a href="Strength.html">Strength</a>=Strong</tt> (607; 83%), <tt><a href="Case.html">Case</a>=Nom</tt> (567; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (520; 71%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (398; 54%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (731; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (729; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (729; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (725; 99%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (725; 99%), <tt><a href="Strength.html">Strength</a>=Strong</tt> (607; 83%), <tt><a href="Case.html">Case</a>=Nom</tt> (567; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (520; 71%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (398; 54%).
 
 `VERB` tokens may have the following values of `Aspect`:
 

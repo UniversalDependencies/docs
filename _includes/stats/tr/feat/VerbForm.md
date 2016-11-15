@@ -7,20 +7,20 @@
 This feature is universal.
 It occurs with 3 different values: `Ger`, `Part`, `Trans`.
 
-4787 tokens (8%) have a non-empty value of `VerbForm`.
-2891 types (17%) occur at least once with a non-empty value of `VerbForm`.
-622 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: [tr-pos/VERB]() (4753; 8% instances), [tr-pos/AUX]() (22; 0% instances), [tr-pos/ADJ]() (10; 0% instances), [tr-pos/NUM]() (2; 0% instances).
+4786 tokens (8%) have a non-empty value of `VerbForm`.
+2888 types (17%) occur at least once with a non-empty value of `VerbForm`.
+621 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: [tr-pos/VERB]() (4752; 8% instances), [tr-pos/AUX]() (22; 0% instances), [tr-pos/ADJ]() (10; 0% instances), [tr-pos/NUM]() (2; 0% instances).
 
 ### `VERB`
 
-4753 [tr-pos/VERB]() tokens (43% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+4752 [tr-pos/VERB]() tokens (43% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Register.html">Register</a>=EMPTY</tt> (4753; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4662; 98%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4662; 98%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4599; 97%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4592; 97%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (4392; 92%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3808; 80%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3054; 64%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (3050; 64%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (3050; 64%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Register.html">Register</a>=EMPTY</tt> (4752; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4661; 98%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4661; 98%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4598; 97%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4591; 97%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (4391; 92%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3807; 80%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3053; 64%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (3049; 64%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (3049; 64%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Ger` (1417; 30% of non-empty `VerbForm`): <em>demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</em>
+* `Ger` (1416; 30% of non-empty `VerbForm`): <em>demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</em>
 * `Part` (2564; 54% of non-empty `VerbForm`): <em>olan, olduğunu, olduğu, gelen, eden, yapılan, olmadığını, yapan, alan, yapılacak</em>
 * `Trans` (772; 16% of non-empty `VerbForm`): <em>gidip, olup, dönüp, diyerek, ederek, edip, gelip, kalkıp, koşarak, belirterek</em>
 * `EMPTY` (6304): <em>dedi, dedim, değil, oldu, söyledi, olur, etti, geldi, var, verdi</em>
@@ -92,18 +92,18 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 22 [tr-pos/AUX]() tokens (2% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (22; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (22; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (21; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (21; 95%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (21; 95%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (22; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (22; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (21; 95%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (21; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (21; 95%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Trans` (22; 100% of non-empty `VerbForm`): <em>ken, yken, irerken, okurken, ymişçesine</em>
-* `EMPTY` (954): <em>mi, mı, dır, dir, ydi, dı, ydı, tu, mu, dur</em>
+* `Trans` (22; 100% of non-empty `VerbForm`): <em>ken, yken, okurken, ymişçesine</em>
+* `EMPTY` (954): <em>dir, mi, dır, mı, ydi, dı, ydı, tu, mu, dur</em>
 
 ### `ADJ`
 
 10 [tr-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (10; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (10; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (10; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (10; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10; 100%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (10; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (10; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (10; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (10; 100%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
@@ -114,7 +114,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 2 [tr-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NUM` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (2; 100%).
+The most frequent other feature values with which `NUM` and `VerbForm` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%).
 
 `NUM` tokens may have the following values of `VerbForm`:
 

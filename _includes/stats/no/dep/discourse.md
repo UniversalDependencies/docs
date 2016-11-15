@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: [no-pos
 4	henne	hun	PRON	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 5	rope	rope	VERB	_	VerbForm=Inf	3	xcomp	_	_
 6	heia	heia	INTJ	_	_	5	discourse	_	_
-7	heia	heia	INTJ	_	_	5	discourse	_	_
+7	heia	heia	INTJ	_	_	5	discourse	_	SpaceAfter=No
 8	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -39,7 +39,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: [no-pos
 # visual-style 7	fgColor:white
 # visual-style 7 2 discourse	color:blue
 1	-	$-	PUNCT	_	_	7	punct	_	_
-2	Nei	nei	INTJ	_	_	7	discourse	_	_
+2	Nei	nei	INTJ	_	_	7	discourse	_	SpaceAfter=No
 3	,	$,	PUNCT	_	_	2	punct	_	_
 4	jeg	jeg	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 5	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
@@ -47,7 +47,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: [no-pos
 7	glad	glad	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	0	root	_	_
 8	for	for	ADP	_	_	10	case	_	_
 9	dette	dette	DET	_	Gender=Neut|Number=Sing|PronType=Dem	10	det	_	_
-10	forbudet	forbud	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	7	nmod	_	_
+10	forbudet	forbud	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
 11	.	$.	PUNCT	_	_	7	punct	_	_
 
 ~~~
@@ -60,10 +60,10 @@ The following 9 pairs of parts of speech are connected with `discourse`: [no-pos
 # visual-style 5	fgColor:white
 # visual-style 5 2 discourse	color:blue
 1	-	$-	PUNCT	_	_	5	punct	_	_
-2	Aha	aha	INTJ	_	_	5	discourse	_	_
+2	Aha	aha	INTJ	_	_	5	discourse	_	SpaceAfter=No
 3	,	$,	PUNCT	_	_	2	punct	_	_
 4	norsk	norsk	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	_
-5	journalist	journalist	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+5	journalist	journalist	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 6	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~

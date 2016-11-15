@@ -9,9 +9,9 @@ This relation is universal.
 9359 nodes (4%) are attached to their parents as `root`.
 
 9359 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.74131851693557.
+Average distance between parent and child is 7.79014852014104.
 
-The following 13 pairs of parts of speech are connected with `root`: [pt-pos/ROOT]()-[pt-pos/VERB]() (6906; 74% instances), [pt-pos/ROOT]()-[pt-pos/NOUN]() (1349; 14% instances), [pt-pos/ROOT]()-[pt-pos/ADJ]() (483; 5% instances), [pt-pos/ROOT]()-[pt-pos/PROPN]() (336; 4% instances), [pt-pos/ROOT]()-[pt-pos/PRON]() (120; 1% instances), [pt-pos/ROOT]()-[pt-pos/ADV]() (50; 1% instances), [pt-pos/ROOT]()-[pt-pos/NUM]() (46; 0% instances), [pt-pos/ROOT]()-[pt-pos/SYM]() (23; 0% instances), [pt-pos/ROOT]()-[pt-pos/CONJ]() (14; 0% instances), [pt-pos/ROOT]()-[pt-pos/INTJ]() (12; 0% instances), [pt-pos/ROOT]()-[pt-pos/ADP]() (10; 0% instances), [pt-pos/ROOT]()-[pt-pos/DET]() (8; 0% instances), [pt-pos/ROOT]()-[pt-pos/SCONJ]() (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: [pt-pos/ROOT]()-[pt-pos/VERB]() (6906; 74% instances), [pt-pos/ROOT]()-[pt-pos/NOUN]() (1348; 14% instances), [pt-pos/ROOT]()-[pt-pos/ADJ]() (483; 5% instances), [pt-pos/ROOT]()-[pt-pos/PROPN]() (336; 4% instances), [pt-pos/ROOT]()-[pt-pos/PRON]() (120; 1% instances), [pt-pos/ROOT]()-[pt-pos/ADV]() (50; 1% instances), [pt-pos/ROOT]()-[pt-pos/NUM]() (46; 0% instances), [pt-pos/ROOT]()-[pt-pos/SYM]() (23; 0% instances), [pt-pos/ROOT]()-[pt-pos/CONJ]() (14; 0% instances), [pt-pos/ROOT]()-[pt-pos/INTJ]() (12; 0% instances), [pt-pos/ROOT]()-[pt-pos/ADP]() (11; 0% instances), [pt-pos/ROOT]()-[pt-pos/DET]() (8; 0% instances), [pt-pos/ROOT]()-[pt-pos/SCONJ]() (2; 0% instances).
 
 
 ~~~ conllu
@@ -67,6 +67,76 @@ The following 13 pairs of parts of speech are connected with `root`: [pt-pos/ROO
 2	é	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	fundamental	fundamental	ADJ	adj|M|S	Gender=Masc|Number=Sing	0	root	_	_
 4	.	.	PUNCT	punc	_	3	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+9368 nodes (4%) are attached to their parents as `root`.
+
+9368 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.88994449188728.
+
+The following 11 pairs of parts of speech are connected with `root`: [pt-pos/ROOT]()-[pt-pos/VERB]() (6879; 73% instances), [pt-pos/ROOT]()-[pt-pos/NOUN]() (1414; 15% instances), [pt-pos/ROOT]()-[pt-pos/ADJ]() (459; 5% instances), [pt-pos/ROOT]()-[pt-pos/PROPN]() (335; 4% instances), [pt-pos/ROOT]()-[pt-pos/PRON]() (125; 1% instances), [pt-pos/ROOT]()-[pt-pos/ADV]() (70; 1% instances), [pt-pos/ROOT]()-[pt-pos/NUM]() (52; 1% instances), [pt-pos/ROOT]()-[pt-pos/INTJ]() (13; 0% instances), [pt-pos/ROOT]()-[pt-pos/SYM]() (11; 0% instances), [pt-pos/ROOT]()-[pt-pos/DET]() (9; 0% instances), [pt-pos/ROOT]()-[pt-pos/SCONJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 1 root	color:blue
+1	Significa	significar	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	«	«	PUNCT	PU|@PU	_	3	punct	_	_
+3	planetas	planeta	NOUN	<np-idf>|N|M|P|@<ACC	Gender=Masc|Number=Plur	1	dobj	_	_
+4	bacanas	bacana	ADJ	ADJ|M|P|@N<	Gender=Masc|Number=Plur	3	amod	_	_
+5	»	»	PUNCT	PU|@PU	_	3	punct	_	_
+6	.	.	PUNCT	PU|@PU	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 4 root	color:blue
+1	«	«	PUNCT	PU|@PU	_	4	punct	_	_
+2	Será	ser	VERB	<mv>|V|FUT|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+3	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	movimento	movimento	NOUN	<np-idf>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	_
+5	nacionalista	nacionalista	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	4	amod	_	_
+6	independente	independente	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	4	amod	_	_
+7	.	.	PUNCT	PU|@PU	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 5 root	color:blue
+1	A	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	suspensão	suspensão	NOUN	<np-def>|N|F|S|@SUBJ>	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	traseira	traseiro	ADJ	ADJ|F|S|@N<	Gender=Fem|Number=Sing	2	amod	_	_
+4	é	ser	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	progressiva	progressivo	ADJ	<n>|ADJ|F|S|@<SC	Gender=Fem|Number=Sing	0	root	_	_
+6	com	com	ADP	PRP|@N<	_	9	case	_	_
+7	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	só	só	ADJ	ADJ|M|S|@>N	Gender=Masc|Number=Sing	9	amod	_	_
+9	amortecedor	amortecedor	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	5	nmod	_	_
+10	Boge	Boge	PROPN	PROP|M|S|@N<	Gender=Masc|Number=Sing	9	appos	_	_
+11	.	.	PUNCT	PU|@PU	_	5	punct	_	_
 
 ~~~
 

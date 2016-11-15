@@ -86,3 +86,77 @@ The following 25 pairs of parts of speech are connected with `amod`: [gl-pos/NOU
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+1266 nodes (5%) are attached to their parents as `amod`.
+
+969 instances of `amod` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26619273301738.
+
+The following 10 pairs of parts of speech are connected with `amod`: [gl-pos/NOUN]()-[gl-pos/ADJ]() (1182; 93% instances), [gl-pos/PROPN]()-[gl-pos/ADJ]() (38; 3% instances), [gl-pos/PRON]()-[gl-pos/ADJ]() (13; 1% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (10; 1% instances), [gl-pos/ADJ]()-[gl-pos/ADJ]() (7; 1% instances), [gl-pos/NUM]()-[gl-pos/ADJ]() (7; 1% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (4; 0% instances), [gl-pos/NOUN]()-[gl-pos/NOUN]() (3; 0% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 amod	color:blue
+1	cidadanía	cidadanía	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
+2	galega	galego	ADJ	A0fs	Gender=Fem|Number=Sing	1	amod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 amod	color:blue
+1	creo	crer	VERB	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	P	AdpType=Prep	4	case	_	_
+3	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	España	España	PROPN	Spfs	Gender=Fem|Number=Sing	1	nmod	_	_
+5	plural	plural	ADJ	A0fs	Gender=Fem|Number=Sing	4	amod	_	_
+6	,	,	PUNCT	Q,	_	1	punct	_	_
+7	pero	pero	SCONJ	Cs	_	1	cc	_	_
+8	non	non	ADV	Wn	_	9	neg	_	_
+9	quero	querer	VERB	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	fronteiras	fronteira	NOUN	Scfp	Gender=Fem|Number=Plur	9	dobj	_	_
+11	.	.	PUNCT	Q.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 amod	color:blue
+1	falamos	falar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	P	AdpType=Prep	3	case	_	_
+3	algo	algo	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	1	nmod	_	_
+4	moi	moito	ADV	Wm	_	5	advmod	_	_
+5	particularmente	particularmente	ADV	Wm	_	6	advmod	_	_
+6	xaponés	xaponés	ADJ	A0ms	Gender=Masc|Number=Sing	3	amod	_	_
+7	ou	ou	CONJ	Cc	_	6	cc	_	_
+8	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
+9	xa	xa	ADV	Wn	_	11	advmod	_	_
+10	se	se	PRON	Rao3aa	Gender=Com|Number=Dual|Person=3|PronType=Clit	11	expl	_	_
+11	estendeu	estender	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+12	por	por	ADP	P	AdpType=Prep	14	case	_	_
+13	lo	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	mundo	mundo	NOUN	Scms	Gender=Masc|Number=Sing	11	nmod	_	_
+15	?	?	PUNCT	Q?	_	1	punct	_	_
+
+~~~
+
+

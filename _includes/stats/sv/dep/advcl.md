@@ -149,3 +149,67 @@ The following 18 pairs of parts of speech are connected with `advcl`: [sv-pos/VE
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Swedish_Sign_Language)
+
+This relation is universal.
+
+11 nodes (2%) are attached to their parents as `advcl`.
+
+11 instances of `advcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.81818181818182.
+
+The following 4 pairs of parts of speech are connected with `advcl`: [sv-pos/VERB]()-[sv-pos/VERB]() (8; 73% instances), [sv-pos/VERB]()-[sv-pos/ADV]() (1; 9% instances), [sv-pos/VERB]()-[sv-pos/NOUN]() (1; 9% instances), [sv-pos/X]()-[sv-pos/VERB]() (1; 9% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advcl	color:blue
+1	SOVA(Jv)	_	VERB	VB	_	0	root	_	_
+2	TIDEN-GÅR@z	_	VERB	VB	_	1	advcl	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 advcl	color:blue
+1	GÅ(N)	_	X	?	_	0	root	_	_
+2	TITTA-FRAM	_	X	?	_	1	conj	_	_
+3	TITTA-FRAM@hd	_	X	?	_	2	dep	_	_
+4	FO	_	VERB	VB	_	1	conj	_	_
+5	PEK	_	DET	PEK	_	6	det	_	_
+6	GRODA	_	NOUN	NN	_	7	nsubj	_	_
+7	ENTITET(GG)+@p	_	VERB	VBAV	_	1	advcl	_	_
+8	ENTITET(G)@p@hd	_	VERB	VBAV	_	7	dep	_	_
+9	ANNAN(ea)	_	PRON	PN	_	10	nmod	_	_
+10	GRODA	_	NOUN	NN	_	7	nmod	_	_
+11	ENTITET(GG)+@p	_	VERB	VBAV	_	7	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 advcl	color:blue
+1	ENTITET(J)+FÖRFLYTTA+ENTITET(J)@p	_	VERB	VBAV	_	0	root	_	_
+2	VARM	_	ADJ	JJ	_	3	amod	_	_
+3	LUFTCIRCULATION@z	_	NOUN	NN	_	1	advcl	_	_
+4	SKÖN	_	ADJ	JJ	_	3	amod	_	_
+5	LUFTCIRCULATION@z	_	NOUN	NN	_	3	conj	_	_
+
+~~~
+
+

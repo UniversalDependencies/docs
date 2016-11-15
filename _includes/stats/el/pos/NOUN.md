@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Greek)
 
 There are 3481 `NOUN` lemmas (55%), 5242 `NOUN` types (46%) and 15603 `NOUN` tokens (26%).
-Out of 10 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
+Out of 11 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>επιτροπή, χώρα, κοινοβούλιο, ένωση, συμβούλιο, χρόνος, πρόεδρος, κράτος, ΗΠΑ, μέλος</em>
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>πρόγραμμα</em> ([NOUN]() 40,
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.505889 (the average of all parts of speech is 1.774112).
+The form / lemma ratio of `NOUN` is 1.505889 (the average of all parts of speech is 1.776033).
 
 The 1st highest number of forms (7) was observed with the lemma “έλεγχος”: <em>έλεγχο, έλεγχοι, έλεγχος, έλεγχό, ελέγχου, ελέγχους, ελέγχων</em>.
 
@@ -70,7 +70,7 @@ Examples: <em>επιτροπή, έκθεση, χώρα, Ελλάδα, θέση, 
 
 `NOUN` nodes are attached to their parents using 19 different relations: [el-dep/nmod]() (8179; 52% instances), [el-dep/nsubj]() (2581; 17% instances), [el-dep/dobj]() (2166; 14% instances), [el-dep/conj]() (1263; 8% instances), [el-dep/iobj]() (318; 2% instances), [el-dep/root]() (299; 2% instances), [el-dep/amod]() (236; 2% instances), [el-dep/appos]() (198; 1% instances), [el-dep/remnant]() (137; 1% instances), [el-dep/ccomp]() (50; 0% instances), [el-dep/acl:relcl]() (47; 0% instances), [el-dep/xcomp]() (41; 0% instances), [el-dep/advcl]() (27; 0% instances), [el-dep/csubj]() (23; 0% instances), [el-dep/advmod]() (20; 0% instances), [el-dep/dep]() (9; 0% instances), [el-dep/acl]() (7; 0% instances), [el-dep/case]() (1; 0% instances), [el-dep/punct]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 9 different parts of speech: [NOUN]() (7359; 47% instances), [VERB]() (6658; 43% instances), [ADJ]() (550; 4% instances), [ADV]() (461; 3% instances), [ROOT]() (299; 2% instances), [NUM]() (111; 1% instances), [CONJ]() (81; 1% instances), [PRON]() (50; 0% instances), [ADP]() (34; 0% instances)
+Parents of `NOUN` nodes belong to 10 different parts of speech: [NOUN]() (7359; 47% instances), [VERB]() (6658; 43% instances), [ADJ]() (550; 4% instances), [ADV]() (461; 3% instances), [ROOT]() (299; 2% instances), [NUM]() (111; 1% instances), [CONJ]() (81; 1% instances), [PRON]() (49; 0% instances), [ADP]() (34; 0% instances), [DET]() (1; 0% instances)
 
 1874 (12%) `NOUN` nodes are leaves.
 
@@ -84,5 +84,5 @@ The highest child degree of a `NOUN` node is 20.
 
 Children of `NOUN` nodes are attached using 25 different relations: [el-dep/det]() (9114; 29% instances), [el-dep/nmod]() (6671; 22% instances), [el-dep/case]() (4330; 14% instances), [el-dep/amod]() (4192; 14% instances), [el-dep/punct]() (1584; 5% instances), [el-dep/conj]() (1161; 4% instances), [el-dep/cc]() (919; 3% instances), [el-dep/acl:relcl]() (789; 3% instances), [el-dep/nummod]() (385; 1% instances), [el-dep/cop]() (372; 1% instances), [el-dep/acl]() (361; 1% instances), [el-dep/nsubj]() (275; 1% instances), [el-dep/advmod]() (228; 1% instances), [el-dep/appos]() (187; 1% instances), [el-dep/remnant]() (95; 0% instances), [el-dep/mark]() (69; 0% instances), [el-dep/aux]() (65; 0% instances), [el-dep/advcl]() (50; 0% instances), [el-dep/dobj]() (42; 0% instances), [el-dep/neg]() (21; 0% instances), [el-dep/dep]() (14; 0% instances), [el-dep/csubj]() (12; 0% instances), [el-dep/xcomp]() (8; 0% instances), [el-dep/ccomp]() (3; 0% instances), [el-dep/iobj]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 10 different parts of speech: [PRON]() (10060; 33% instances), [NOUN]() (7359; 24% instances), [ADP]() (4260; 14% instances), [ADJ]() (3967; 13% instances), [PUNCT]() (1583; 5% instances), [VERB]() (1514; 5% instances), [CONJ]() (961; 3% instances), [NUM]() (701; 2% instances), [ADV]() (455; 1% instances), [PART]() (88; 0% instances)
+Children of `NOUN` nodes belong to 11 different parts of speech: [DET]() (8782; 28% instances), [NOUN]() (7359; 24% instances), [ADP]() (4260; 14% instances), [ADJ]() (3967; 13% instances), [PUNCT]() (1583; 5% instances), [VERB]() (1514; 5% instances), [PRON]() (1278; 4% instances), [CONJ]() (961; 3% instances), [NUM]() (701; 2% instances), [ADV]() (455; 1% instances), [PART]() (88; 0% instances)
 

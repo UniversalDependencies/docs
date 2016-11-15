@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1795 nodes (2%) are attached to their parents as `nummod`.
+2798 nodes (2%) are attached to their parents as `nummod`.
 
-1729 instances of `nummod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31197771587744.
+2629 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.331308077198.
 
-The following 20 pairs of parts of speech are connected with `nummod`: [hr-pos/NOUN]()-[hr-pos/NUM]() (1441; 80% instances), [hr-pos/NOUN]()-[hr-pos/ADJ]() (171; 10% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (106; 6% instances), [hr-pos/PROPN]()-[hr-pos/NUM]() (13; 1% instances), [hr-pos/VERB]()-[hr-pos/NUM]() (13; 1% instances), [hr-pos/ADJ]()-[hr-pos/NUM]() (12; 1% instances), [hr-pos/PRON]()-[hr-pos/NUM]() (8; 0% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (6; 0% instances), [hr-pos/NUM]()-[hr-pos/ADJ]() (4; 0% instances), [hr-pos/PUNCT]()-[hr-pos/NUM]() (4; 0% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (3; 0% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (3; 0% instances), [hr-pos/PROPN]()-[hr-pos/ADJ]() (3; 0% instances), [hr-pos/ADV]()-[hr-pos/NUM]() (2; 0% instances), [hr-pos/ADV]()-[hr-pos/ADJ]() (1; 0% instances), [hr-pos/ADV]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/PUNCT]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/X]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/PROPN]() (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `nummod`: [hr-pos/NOUN]()-[hr-pos/NUM]() (2300; 82% instances), [hr-pos/NOUN]()-[hr-pos/ADJ]() (172; 6% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (110; 4% instances), [hr-pos/ADV]()-[hr-pos/NUM]() (45; 2% instances), [hr-pos/PROPN]()-[hr-pos/NUM]() (35; 1% instances), [hr-pos/ADJ]()-[hr-pos/NUM]() (25; 1% instances), [hr-pos/VERB]()-[hr-pos/NUM]() (23; 1% instances), [hr-pos/PUNCT]()-[hr-pos/NUM]() (15; 1% instances), [hr-pos/PRON]()-[hr-pos/NUM]() (14; 1% instances), [hr-pos/ADP]()-[hr-pos/NUM]() (13; 0% instances), [hr-pos/NUM]()-[hr-pos/NUM]() (13; 0% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (8; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADV]() (6; 0% instances), [hr-pos/NUM]()-[hr-pos/ADJ]() (4; 0% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (3; 0% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (3; 0% instances), [hr-pos/PROPN]()-[hr-pos/ADJ]() (3; 0% instances), [hr-pos/ADV]()-[hr-pos/ADJ]() (1; 0% instances), [hr-pos/ADV]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/PUNCT]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/X]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu

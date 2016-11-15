@@ -10,7 +10,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Person](), [Person[psor]]().
 
 8082 tokens (14%) have a non-empty value of `Person[psor]`.
-4943 types (29%) occur at least once with a non-empty value of `Person[psor]`.
+4941 types (29%) occur at least once with a non-empty value of `Person[psor]`.
 1932 lemmas (33%) occur at least once with a non-empty value of `Person[psor]`.
 The feature is used with 7 part-of-speech tags: [tr-pos/NOUN]() (4994; 9% instances), [tr-pos/VERB]() (1703; 3% instances), [tr-pos/ADJ]() (930; 2% instances), [tr-pos/PRON]() (346; 1% instances), [tr-pos/NUM]() (70; 0% instances), [tr-pos/ADP]() (23; 0% instances), [tr-pos/PROPN]() (16; 0% instances).
 
@@ -132,7 +132,7 @@ The most frequent other feature values with which `ADJ` and `Person[psor]` co-oc
 
 346 [tr-pos/PRON]() tokens (16% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (281; 81%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (232; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (232; 67%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (188; 54%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (281; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (232; 67%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (232; 67%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (188; 54%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
@@ -174,7 +174,7 @@ The most frequent other feature values with which `NUM` and `Person[psor]` co-oc
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>liğinden</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=1</tt></td><td><em>lığıma</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>lığına</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>lığının, lüğünün</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>lüğünün, lığının</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person[psor].html">Person[psor]</a>=2</tt></td><td></td><td><em>lığınız</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td></td><td></td><td><em>liği, lığı</em></td></tr>
 </table>
@@ -199,8 +199,8 @@ The 10 most frequent relations where parent and child node agree in `Person[psor
 <tt>NOUN --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (3; 60%),
 <tt>ADP --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> ADJ</tt> (2; 100%),
 <tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (2; 100%),
-<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> PRON</tt> (1; 100%),
 <tt>NOUN --[<a href="../dep/compound:lvc.html">compound:lvc</a>]--> NOUN</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> PRON</tt> (1; 100%),
 <tt>NOUN --[<a href="../dep/advmod:emph.html">advmod:emph</a>]--> VERB</tt> (1; 100%),
 <tt>NUM --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (1; 100%).
 

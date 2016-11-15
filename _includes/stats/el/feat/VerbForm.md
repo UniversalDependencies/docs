@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [el-pos/VERB]() (448; 1% instanc
 
 448 [el-pos/VERB]() tokens (7% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (448; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (448; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (448; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (328; 73%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (232; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (448; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (448; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (448; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (328; 73%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (232; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

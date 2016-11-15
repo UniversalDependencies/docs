@@ -90,3 +90,79 @@ The following 57 pairs of parts of speech are connected with `ccomp`: [gl-pos/NO
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+261 nodes (1%) are attached to their parents as `ccomp`.
+
+256 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.98467432950192.
+
+The following 16 pairs of parts of speech are connected with `ccomp`: [gl-pos/VERB]()-[gl-pos/VERB]() (190; 73% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (17; 7% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (15; 6% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (10; 4% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (8; 3% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (6; 2% instances), [gl-pos/ADV]()-[gl-pos/VERB]() (3; 1% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (3; 1% instances), [gl-pos/PRON]()-[gl-pos/VERB]() (2; 1% instances), [gl-pos/ADJ]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/CONJ]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/SYM]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 ccomp	color:blue
+1	'	'	PUNCT	Q'	_	3	punct	_	_
+2	estamos	estar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	pagando	pagar	VERB	V0x000	VerbForm=Ger	0	root	_	_
+4	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	traballar	traballar	VERB	V0f000	VerbForm=Inf	3	ccomp	_	_
+6	exclusivamente	exclusivamente	ADV	Wn	_	5	advmod	_	_
+7	para	para	ADP	P	AdpType=Prep	9	case	_	_
+8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Estado	Estado	PROPN	Spms	Gender=Masc|Number=Sing	5	nmod	_	_
+10	'	'	PUNCT	Q'	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 ccomp	color:blue
+1	discutir	discutir	VERB	V0f000	VerbForm=Inf	0	root	_	_
+2	que	que	PRON	Gnms	Gender=Masc|Number=Sing|PronType=Int	5	nsubj	_	_
+3	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	clásico	clásico	NOUN	Scms	Gender=Masc|Number=Sing	1	ccomp	_	_
+6	.	.	PUNCT	Q.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 9 ccomp	color:blue
+1	en	en	ADP	P	AdpType=Prep	3	case	_	_
+2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	5	nmod	_	_
+4	tamén	tamén	ADV	Wn	_	5	advmod	_	_
+5	pensan	pensar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	que	que	SCONJ	Cs	_	9	mark	_	_
+7	sería	ser	VERB	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	9	cop	_	_
+8	máis	máis	ADV	Wm	_	9	advmod	_	_
+9	fácil	fácil	ADJ	A0ms	Gender=Masc|Number=Sing	5	ccomp	_	_
+10	entender	entender	VERB	V0f000	VerbForm=Inf	9	csubj	_	_
+11	se	se	PRON	Rao3aa	Gender=Com|Number=Dual|Person=3|PronType=Clit	10	expl	_	_
+12	con	con	ADP	P	AdpType=Prep	13	case	_	_
+13	el	el	PRON	Rtp3ms	Gender=Masc|Number=Sing|Person=3	10	nmod	_	_
+14	.	.	PUNCT	Q.	_	5	punct	_	_
+
+~~~
+
+

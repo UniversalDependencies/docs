@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1205, [PART]() 35,
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.447797).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.432674).
 
 The 1st highest number of forms (1) was observed with the lemma “NÃO”: <em>NÃO</em>.
 
@@ -32,11 +32,11 @@ The 2nd highest number of forms (1) was observed with the lemma “anti-”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “ex”: <em>ex</em>.
 
-`PART` occurs with 4 features: [pt-feat/Negative]() (39; 89% instances), [pt-feat/Hyph]() (5; 11% instances), [pt-feat/Gender]() (1; 2% instances), [pt-feat/Number]() (1; 2% instances)
+`PART` occurs with 2 features: [pt-feat/Negative]() (39; 89% instances), [pt-feat/Hyph]() (5; 11% instances)
 
-`PART` occurs with 4 feature-value pairs: `Gender=Masc`, `Hyph=Yes`, `Negative=Neg`, `Number=Sing`
+`PART` occurs with 2 feature-value pairs: `Hyph=Yes`, `Negative=Neg`
 
-`PART` occurs with 3 feature combinations.
+`PART` occurs with 2 feature combinations.
 The most frequent feature combination is `Negative=Neg` (39 tokens).
 Examples: <em>não</em>
 
@@ -60,6 +60,64 @@ The highest child degree of a `PART` node is 4.
 Children of `PART` nodes are attached using 6 different relations: [pt-dep/mwe]() (9; 64% instances), [pt-dep/case]() (1; 7% instances), [pt-dep/cc]() (1; 7% instances), [pt-dep/conj]() (1; 7% instances), [pt-dep/det]() (1; 7% instances), [pt-dep/nmod]() (1; 7% instances)
 
 Children of `PART` nodes belong to 4 different parts of speech: [NOUN]() (11; 79% instances), [ADP]() (1; 7% instances), [CONJ]() (1; 7% instances), [DET]() (1; 7% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+There are 4 `PART` lemmas (0%), 4 `PART` types (0%) and 4 `PART` tokens (0%).
+Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
+
+The 10 most frequent `PART` lemmas: <em>anti-, ex, pré, pós</em>
+
+The 10 most frequent `PART` types:  <em>anti-, ex, pré-, pós</em>
+
+The 10 most frequent ambiguous lemmas: 
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.449059).
+
+The 1st highest number of forms (1) was observed with the lemma “anti-”: <em>anti-</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “ex”: <em>ex</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “pré”: <em>pré-</em>.
+
+`PART` occurs with 2 features: [pt-feat/Gender]() (1; 25% instances), [pt-feat/Number]() (1; 25% instances)
+
+`PART` occurs with 2 feature-value pairs: `Gender=Masc`, `Number=Sing`
+
+`PART` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (3 tokens).
+Examples: <em>anti-, ex, pré-</em>
+
+
+## Relations
+
+`PART` nodes are attached to their parents using 1 different relations: [pt-dep/dep]() (4; 100% instances)
+
+Parents of `PART` nodes belong to 2 different parts of speech: [NOUN]() (3; 75% instances), [NUM]() (1; 25% instances)
+
+2 (50%) `PART` nodes are leaves.
+
+0 (0%) `PART` nodes have one child.
+
+0 (0%) `PART` nodes have two children.
+
+2 (50%) `PART` nodes have three or more children.
+
+The highest child degree of a `PART` node is 4.
+
+Children of `PART` nodes are attached using 5 different relations: [pt-dep/punct]() (3; 43% instances), [pt-dep/case]() (1; 14% instances), [pt-dep/cc]() (1; 14% instances), [pt-dep/conj]() (1; 14% instances), [pt-dep/det]() (1; 14% instances)
+
+Children of `PART` nodes belong to 5 different parts of speech: [PUNCT]() (3; 43% instances), [ADP]() (1; 14% instances), [CONJ]() (1; 14% instances), [DET]() (1; 14% instances), [NOUN]() (1; 14% instances)
 
 
 

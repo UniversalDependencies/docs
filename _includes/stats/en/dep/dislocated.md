@@ -15,6 +15,27 @@ The following 2 pairs of parts of speech are connected with `dislocated`: [en-po
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 5 dislocated	color:blue
+1	anyways	anyways	ADV	RB	_	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+4	mezza	mezza	NOUN	NN	Number=Sing	5	compound	_	_
+5	luna	luna	NOUN	NN	Number=Sing	10	dislocated	_	SpaceAfter=No
+6	:	:	PUNCT	:	_	5	punct	_	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	_
+8	should	should	AUX	MD	VerbForm=Fin	9	aux	_	_
+9	try	try	VERB	VB	VerbForm=Inf	0	root	_	_
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	dobj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 32	bgColor:blue
@@ -60,27 +81,6 @@ The following 2 pairs of parts of speech are connected with `dislocated`: [en-po
 ~~~
 
 
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 5 dislocated	color:blue
-1	anyways	anyways	ADV	RB	_	5	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	5	punct	_	_
-3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
-4	mezza	mezza	NOUN	NN	Number=Sing	5	compound	_	_
-5	luna	luna	NOUN	NN	Number=Sing	10	dislocated	_	SpaceAfter=No
-6	:	:	PUNCT	:	_	5	punct	_	_
-7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	_
-8	should	should	AUX	MD	VerbForm=Fin	9	aux	_	_
-9	try	try	VERB	VB	VerbForm=Inf	0	root	_	_
-10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	dobj	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	5	punct	_	_
-
-~~~
-
-
 
 
 --------------------------------------------------------------------------------
@@ -95,31 +95,6 @@ This relation is universal.
 Average distance between parent and child is 11.
 
 The following 2 pairs of parts of speech are connected with `dislocated`: [en-pos/PRON]()-[en-pos/NOUN]() (1; 50% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (1; 50% instances).
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 13 dislocated	color:blue
-1	_	_	PROPN	NNP	_	7	nsubj	_	_
-2	_	_	CONJ	CC	_	1	cc	_	_
-3	_	_	PROPN	NNP	_	1	conj	_	_
-4	_	_	AUX	VBP	_	7	aux	_	_
-5	_	_	VERB	VBN	_	7	cop	_	_
-6	_	_	ADJ	JJ	_	7	amod	_	_
-7	_	_	NOUN	NNS	_	0	root	_	_
-8	_	_	ADP	IN	_	10	case	_	_
-9	_	_	NUM	CD	_	10	nummod	_	_
-10	_	_	NOUN	NNS	_	7	nmod	_	_
-11	_	_	PUNCT	,	_	7	punct	_	_
-12	_	_	DET	PRP$	_	13	nmod:poss	_	_
-13	_	_	NOUN	NN	_	1	dislocated	_	_
-14	_	_	ADV	RB	_	13	advmod	_	_
-15	_	_	PUNCT	.	_	7	punct	_	_
-
-~~~
 
 
 ~~~ conllu
@@ -149,6 +124,31 @@ The following 2 pairs of parts of speech are connected with `dislocated`: [en-po
 19	_	_	PART	TO	_	20	mark	_	_
 20	_	_	VERB	VB	_	18	ccomp	_	_
 21	_	_	PUNCT	.	_	13	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 13 dislocated	color:blue
+1	_	_	PROPN	NNP	_	7	nsubj	_	_
+2	_	_	CONJ	CC	_	1	cc	_	_
+3	_	_	PROPN	NNP	_	1	conj	_	_
+4	_	_	AUX	VBP	_	7	aux	_	_
+5	_	_	VERB	VBN	_	7	cop	_	_
+6	_	_	ADJ	JJ	_	7	amod	_	_
+7	_	_	NOUN	NNS	_	0	root	_	_
+8	_	_	ADP	IN	_	10	case	_	_
+9	_	_	NUM	CD	_	10	nummod	_	_
+10	_	_	NOUN	NNS	_	7	nmod	_	_
+11	_	_	PUNCT	,	_	7	punct	_	_
+12	_	_	DET	PRP$	_	13	nmod:poss	_	_
+13	_	_	NOUN	NN	_	1	dislocated	_	_
+14	_	_	ADV	RB	_	13	advmod	_	_
+15	_	_	PUNCT	.	_	7	punct	_	_
 
 ~~~
 

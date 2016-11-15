@@ -40,6 +40,29 @@ The following 9 pairs of parts of speech are connected with `parataxis`: [ga-pos
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 9 parataxis	color:blue
+1	Bricfeasta	bricfeasta	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	0	root	_	_
+2	Gaelach	gaelach	ADJ	Adj	Case=Com|Gender=Masc|Number=Sing	1	amod	_	_
+3	sa	i	ADP	Art	Number=Sing|PronType=Art	4	case	_	_
+4	bhialann	bialann	NOUN	Noun	Case=Com|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
+5	2.00-6.00	2.00-6.00	NUM	Num	_	4	nummod	_	_
+6	in	i	ADP	Simp	_	7	case	_	_
+7	BRICRIÚ	BRICRIÚ	PROPN	Noun	Case=Com|Gender=Masc|Number=Sing	1	nmod	_	_
+8	:	:	PUNCT	Punct	_	9	punct	_	_
+9	Beidh	bí	VERB	FutInd	Mood=Ind|Tense=Fut	1	parataxis	_	_
+10	mé	mé	PRON	Pers	Number=Sing|Person=1	9	nsubj	_	_
+11	díreach	díreach	ADJ	Adj	Degree=Pos	9	xcomp:pred	_	_
+12	leat	le	ADP	Prep	Number=Sing|Person=2	9	nmod:prep	_	_
+13	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 2	bgColor:blue
@@ -64,29 +87,6 @@ The following 9 pairs of parts of speech are connected with `parataxis`: [ga-pos
 17	tharlós	tarlaigh	VERB	VTI	Mood=Ind|PronType=Rel|Tense=Fut	15	csubj:cleft	_	_
 18	dóibh	do	ADP	Prep	Number=Plur|Person=3	17	nmod:prep	_	_
 19	?	?	PUNCT	?	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 9 parataxis	color:blue
-1	Bricfeasta	bricfeasta	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	0	root	_	_
-2	Gaelach	gaelach	ADJ	Adj	Case=Com|Gender=Masc|Number=Sing	1	amod	_	_
-3	sa	i	ADP	Art	Number=Sing|PronType=Art	4	case	_	_
-4	bhialann	bialann	NOUN	Noun	Case=Com|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
-5	2.00-6.00	2.00-6.00	NUM	Num	_	4	nummod	_	_
-6	in	i	ADP	Simp	_	7	case	_	_
-7	BRICRIÚ	BRICRIÚ	PROPN	Noun	Case=Com|Gender=Masc|Number=Sing	1	nmod	_	_
-8	:	:	PUNCT	Punct	_	9	punct	_	_
-9	Beidh	bí	VERB	FutInd	Mood=Ind|Tense=Fut	1	parataxis	_	_
-10	mé	mé	PRON	Pers	Number=Sing|Person=1	9	nsubj	_	_
-11	díreach	díreach	ADJ	Adj	Degree=Pos	9	xcomp:pred	_	_
-12	leat	le	ADP	Prep	Number=Sing|Person=2	9	nmod:prep	_	_
-13	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

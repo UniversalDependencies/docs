@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>ar, i, ag, le, sa, de, leis, ina, mar, an
 
 The 10 most frequent ambiguous lemmas: <em>i</em> ([ADP]() 731, [PART]() 19), <em>ar</em> ([ADP]() 637, [PART]() 17, [VERB]() 3), <em>le</em> ([ADP]() 435, [PART]() 8), <em>ag</em> ([ADP]() 425, [X]() 1), <em>do</em> ([ADP]() 255, [PART]() 77, [DET]() 19, [X]() 1), <em>de</em> ([ADP]() 253, [PART]() 9, [X]() 1), <em>ó</em> ([ADP]() 127, [PART]() 31, [SCONJ]() 2, [INTJ]() 1), <em>faoi</em> ([ADP]() 106, [X]() 3, [PART]() 1), <em>mar</em> ([ADP]() 81, [SCONJ]() 42), <em>go</em> ([PART]() 246, [ADP]() 39, [SCONJ]() 15)
 
-The 10 most frequent ambiguous types:  <em>ar</em> ([ADP]() 498, [PART]() 12, [VERB]() 9), <em>le</em> ([ADP]() 212, [PART]() 1), <em>de</em> ([ADP]() 123, [PART]() 8), <em>ina</em> ([ADP]() 85, [PART]() 12), <em>mar</em> ([ADP]() 76, [SCONJ]() 39), <em>do</em> ([ADP]() 70, [PART]() 18, [DET]() 17), <em>in</em> ([ADP]() 66, [PRON]() 1, [NOUN]() 1), <em>san</em> ([ADP]() 45, [X]() 16, [PRON]() 4), <em>don</em> ([ADP]() 41, [PROPN]() 1), <em>go</em> ([PART]() 240, [ADP]() 37, [SCONJ]() 15)
+The 10 most frequent ambiguous types:  <em>ar</em> ([ADP]() 498, [PART]() 12, [VERB]() 9), <em>le</em> ([ADP]() 212, [PART]() 1), <em>de</em> ([ADP]() 123, [PART]() 8), <em>ina</em> ([ADP]() 85, [PART]() 12), <em>mar</em> ([ADP]() 76, [SCONJ]() 39), <em>do</em> ([ADP]() 70, [PART]() 18, [DET]() 17), <em>in</em> ([ADP]() 66, [NOUN]() 1, [PRON]() 1), <em>san</em> ([ADP]() 45, [X]() 16, [PRON]() 4), <em>don</em> ([ADP]() 41, [PROPN]() 1), <em>go</em> ([PART]() 240, [ADP]() 37, [SCONJ]() 15)
 
 
 * <em>ar</em>
@@ -38,8 +38,8 @@ The 10 most frequent ambiguous types:  <em>ar</em> ([ADP]() 498, [PART]() 12, [V
   * [DET]() 17: <em>Tháinig mé ort agus drúcht ar d' aghaidh , shín tú <b>do</b> lámha chugam .</em>
 * <em>in</em>
   * [ADP]() 66: <em>Fuair sí post ansin <b>in</b> Oifig na Deoise , i Halla Naomh Muire .</em>
-  * [PRON]() 1: <em>Ar chasadh ar_ais do Dhamien b' <b>in</b> roimhe é .</em>
   * [NOUN]() 1: <em>Taispeántas Chomh maith leis an léacht lárnach sin ón Ollamh Ó Néill , chualathas sainléacht Kenneth Nicholls , Léachtóir le Stair i gColáiste na hOllscoile , Corcaigh , ar ' The Limerick / Cork Border <b>in</b> the Middle Ages ' .</em>
+  * [PRON]() 1: <em>Ar chasadh ar_ais do Dhamien b' <b>in</b> roimhe é .</em>
 * <em>san</em>
   * [ADP]() 45: <em>Bhí gach uile mhac máthar <b>san</b> áit ag bualadh bos .</em>
   * [X]() 16: <em>Níor dhúisigh <b>san</b> é .</em>

@@ -143,7 +143,7 @@ The following 8 pairs of parts of speech are connected with `cc:preconj`: [en-po
 10	_	_	PRON	PRP	_	11	nsubj	_	_
 11	_	_	VERB	VBD	_	0	root	_	_
 12	_	_	PART	RB	_	11	neg	_	_
-13	_	_	NOUN	NN	_	11	dobj	_	_
+13	_	_	PRON	NN	_	11	dobj	_	_
 14	_	_	PART	RB	_	15	neg	_	_
 15	_	_	ADV	RB	_	16	cc:preconj	_	_
 16	_	_	NOUN	NN	_	11	nmod	_	_

@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>L1, C1, que1, M1, Q1, P1, unknown1, Cn1, D1
 
 The 10 most frequent `X` types:  <em>c, L, M, Q, P, Cn, D, quinque, ,, -</em>
 
-The 10 most frequent ambiguous lemmas: <em>L1</em> ([X]() 14, [NOUN]() 3), <em>C1</em> ([X]() 12, [NOUN]() 2, [NUM]() 1), <em>que1</em> ([CONJ]() 641, [X]() 10, [SCONJ]() 1), <em>M1</em> ([X]() 8, [NOUN]() 3), <em>Q1</em> ([X]() 8, [NOUN]() 3), <em>P1</em> ([X]() 5, [NOUN]() 3), <em>Cn1</em> ([NOUN]() 3, [X]() 3), <em>D1</em> ([X]() 2, [NOUN]() 1), <em>Trimalchio1</em> ([NOUN]() 65, [X]() 2), <em>qui1</em> ([PRON]() 873, [ADV]() 4, [X]() 2, [SCONJ]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>L1</em> ([X]() 14, [NOUN]() 3), <em>C1</em> ([X]() 12, [NOUN]() 2, [NUM]() 1), <em>que1</em> ([CONJ]() 641, [X]() 10, [SCONJ]() 1), <em>M1</em> ([X]() 8, [NOUN]() 3), <em>Q1</em> ([X]() 8, [NOUN]() 3), <em>P1</em> ([X]() 5, [NOUN]() 3), <em>Cn1</em> ([NOUN]() 3, [X]() 3), <em>D1</em> ([X]() 2, [NOUN]() 1), <em>Trimalchio1</em> ([NOUN]() 65, [X]() 2), <em>qui1</em> ([PRON]() 873, [ADV]() 4, [X]() 2, [ADJ]() 1, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>c</em> ([CONJ]() 87, [X]() 9), <em>L</em> ([X]() 14, [NOUN]() 4), <em>M</em> ([X]() 8, [NOUN]() 6, [NUM]() 1), <em>Q</em> ([X]() 8, [NOUN]() 4), <em>P</em> ([X]() 5, [NOUN]() 3), <em>Cn</em> ([NOUN]() 3, [X]() 3), <em>D</em> ([X]() 2, [NOUN]() 1), <em>quinque</em> ([NUM]() 4, [X]() 2), <em>,</em> ([PUNCT]() 3593, [CONJ]() 18, [NOUN]() 1, [X]() 1), <em>-</em> ([PUNCT]() 5, [X]() 1)
+The 10 most frequent ambiguous types:  <em>c</em> ([CONJ]() 87, [X]() 9), <em>L</em> ([X]() 14, [NOUN]() 4), <em>M</em> ([X]() 8, [NOUN]() 6, [NUM]() 1), <em>Q</em> ([X]() 8, [NOUN]() 4), <em>P</em> ([X]() 5, [NOUN]() 3), <em>Cn</em> ([X]() 3, [NOUN]() 3), <em>D</em> ([X]() 2, [NOUN]() 1), <em>quinque</em> ([NUM]() 4, [X]() 2), <em>,</em> ([PUNCT]() 3593, [CONJ]() 18, [X]() 1, [NOUN]() 1), <em>-</em> ([PUNCT]() 5, [X]() 1)
 
 
 * <em>c</em>
@@ -33,8 +33,8 @@ The 10 most frequent ambiguous types:  <em>c</em> ([CONJ]() 87, [X]() 9), <em>L<
   * [X]() 5: <em>Lepido consulibus <b>P</b> . Autronius et <b>P</b> . Sulla designati consules legibus ambitus interrogati poenas dederant</em>
   * [NOUN]() 3: <em>erant eo tempore qui existumarent indicium illud a <b>P</b> . Autronio machinatum , quo facilius appellato Crasso per societatem periculi reliquos illius potentia tegeret</em>
 * <em>Cn</em>
-  * [NOUN]() 3: <em>sed postquam <b>Cn</b> . Pompeius ad bellum maritumum atque Mithridaticum missus est , plebis opes inminutae , paucorum potentia crevit</em>
   * [X]() 3: <em>in Italia nullus exercitus , <b>Cn</b> . Pompeius in extremis terris bellum gerebat</em>
+  * [NOUN]() 3: <em>sed postquam <b>Cn</b> . Pompeius ad bellum maritumum atque Mithridaticum missus est , plebis opes inminutae , paucorum potentia crevit</em>
 * <em>D</em>
   * [X]() 2: <em><b>D</b> . Silanum , virum fortem atque strenuom , certo scio quae dixerit studio rei publicae dixisse , que ne illum in tanta re gratiam aut inimicitias exercere</em>
   * [NOUN]() 1: <em>ille eos in domum <b>D</b> . Bruti perducit , quod foro propinqua erat que ne aliena consili propter Semproniam</em>
@@ -44,8 +44,8 @@ The 10 most frequent ambiguous types:  <em>c</em> ([CONJ]() 87, [X]() 9), <em>L<
 * <em>,</em>
   * [PUNCT]() 3593: <em>Curris <b>,</b> stupes <b>,</b> satagis <b>,</b> tanquam mus in matella</em>
   * [CONJ]() 18: <em>lana , credrae , piper <b>,</b> lacte gallinaceum si quaesieris , invenies</em>
-  * [NOUN]() 1: <em>Natus est Augustus M. Tullio Cicerone <b>,</b> C. Antonio conss. VIIII . Kal. Octob. paulo ante solis exortum , regione Palati ad Capita bubula , ubi nunc sacrarium habet , aliquanto post quam excessit constitutum .</em>
   * [X]() 1: <em>paene de lectis deiecti sumus <b>,</b> adeo totum triclinium familia occupaverat</em>
+  * [NOUN]() 1: <em>Natus est Augustus M. Tullio Cicerone <b>,</b> C. Antonio conss. VIIII . Kal. Octob. paulo ante solis exortum , regione Palati ad Capita bubula , ubi nunc sacrarium habet , aliquanto post quam excessit constitutum .</em>
 * <em>-</em>
   * [PUNCT]() 5: <em><b>-</b> potes que nam omnia , c ne te nequiquam lucis Hecate praefecit Avernis</em>
   * [X]() 1: <em>Notavimus etiam circa angulos repositorii Marsyas quattuor , ex quorum utriculis garum <b>-</b> piperatum currebat super pisces , qui tanquam in euripo natabant</em>
@@ -102,7 +102,7 @@ The 10 most frequent `X` lemmas: <em>_, 4-O--------, decuplus, modus, quod, parv
 
 The 10 most frequent `X` types:  <em>metaph., cap., physic., gen., sap., metaphys., trin., dist., div., nom.</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NUM]() 749, [X]() 592, [NOUN]() 7), <em>4-O--------</em> ([X]() 4, [SCONJ]() 1), <em>modus</em> ([NOUN]() 910, [X]() 2), <em>quod</em> ([SCONJ]() 4817, [PRON]() 4, [ADV]() 2, [X]() 2), <em>parvus</em> ([ADJ]() 180, [X]() 1), <em>quam</em> ([SCONJ]() 444, [CONJ]() 23, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NUM]() 749, [X]() 592, [NOUN]() 7), <em>4-O--------</em> ([X]() 4, [SCONJ]() 1), <em>modus</em> ([NOUN]() 910, [X]() 2), <em>quod</em> ([SCONJ]() 4817, [PRON]() 4, [X]() 2, [ADV]() 2), <em>parvus</em> ([ADJ]() 180, [X]() 1), <em>quam</em> ([SCONJ]() 444, [CONJ]() 23, [X]() 1)
 
 The 10 most frequent ambiguous types:  <em>quod</em> ([SCONJ]() 4817, [PRON]() 2226, [X]() 7, [ADV]() 2), <em>ab</em> ([ADP]() 833, [X]() 2), <em>modo</em> ([NOUN]() 458, [X]() 2), <em>a</em> ([ADP]() 1312, [X]() 1), <em>minus</em> ([ADJ]() 116, [X]() 1), <em>quam</em> ([SCONJ]() 444, [PRON]() 385, [CONJ]() 23, [X]() 1), <em>vero</em> ([ADJ]() 434, [X]() 1)
 
@@ -187,7 +187,7 @@ The 10 most frequent `X` types:  <em>καὶ, τὸ, τὸν, ἐν, Κικέρ�
 
 The 10 most frequent ambiguous lemmas: <em>greek.expression</em> ([X]() 435, [ADV]() 7, [VERB]() 1, [NOUN]() 1), <em>Heli</em> ([X]() 2, [PROPN]() 1), <em>calendar.expression</em> ([ADV]() 154, [X]() 2), <em>tu</em> ([PRON]() 1353, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>Heli</em> ([X]() 2, [PROPN]() 1), <em>Iohanni</em> ([PROPN]() 4, [X]() 1), <em>tu</em> ([PRON]() 323, [X]() 1), <em>Σπάρταν</em> ([ADV]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>Heli</em> ([X]() 2, [PROPN]() 1), <em>Iohanni</em> ([PROPN]() 4, [X]() 1), <em>tu</em> ([PRON]() 323, [X]() 1), <em>Σπάρταν</em> ([X]() 1, [ADV]() 1)
 
 
 * <em>Heli</em>
@@ -200,8 +200,8 @@ The 10 most frequent ambiguous types:  <em>Heli</em> ([X]() 2, [PROPN]() 1), <em
   * [PRON]() 323: <em>nam Catonem nostrum non <b>tu</b> amas plus quam ego</em>
   * [X]() 1: <em>In hodie hic hortus aliter non appellatur greco sermone nisi copos <b>tu</b> agiu Iohanni id est quod uos dicitis Latine hortus sancti Iohannis</em>
 * <em>Σπάρταν</em>
-  * [ADV]() 1: <em>meos bonos viros illos quos significas et eam quam mihi dicis obtigisse <b>Σπάρταν</b> non modo numquam deseram sed etiam si ego ab illa deserar tamen in mea pristina sententia permanebo</em>
   * [X]() 1: <em><b>Σπάρταν</b> ἔλαχες</em>
+  * [ADV]() 1: <em>meos bonos viros illos quos significas et eam quam mihi dicis obtigisse <b>Σπάρταν</b> non modo numquam deseram sed etiam si ego ab illa deserar tamen in mea pristina sententia permanebo</em>
 
 ## Morphology
 

@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  <em>ikke, der, så, også, hvor, nu, ud, op, 
 
 The 10 most frequent ambiguous lemmas: <em>der</em> ([ADV]() 557, [PRON]() 497, [X]() 1), <em>så</em> ([ADV]() 380, [SCONJ]() 83, [ADJ]() 5, [VERB]() 1), <em>ud</em> ([ADV]() 196, [X]() 1), <em>ind</em> ([ADV]() 121, [X]() 1), <em>meget</em> ([ADV]() 120, [ADJ]() 114), <em>helt</em> ([ADV]() 112, [NOUN]() 3), <em>mere</em> ([ADV]() 83, [ADJ]() 1), <em>med</em> ([ADP]() 1045, [ADV]() 82, [X]() 3), <em>lige</em> ([ADV]() 79, [ADJ]() 4, [NOUN]() 1), <em>jo</em> ([ADV]() 78, [INTJ]() 7, [SCONJ]() 2)
 
-The 10 most frequent ambiguous types:  <em>der</em> ([PRON]() 479, [ADV]() 468, [X]() 1), <em>så</em> ([ADV]() 321, [SCONJ]() 75, [VERB]() 28, [ADJ]() 5), <em>ud</em> ([ADV]() 190, [X]() 1), <em>ind</em> ([ADV]() 120, [X]() 1), <em>meget</em> ([ADV]() 119, [ADJ]() 42), <em>helt</em> ([ADV]() 110, [ADJ]() 1, [NOUN]() 1), <em>mere</em> ([ADV]() 81, [ADJ]() 54), <em>med</em> ([ADP]() 1008, [ADV]() 80, [X]() 3), <em>lige</em> ([ADV]() 76, [ADJ]() 5, [NOUN]() 1), <em>jo</em> ([ADV]() 77, [SCONJ]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>der</em> ([PRON]() 479, [ADV]() 468, [X]() 1), <em>så</em> ([ADV]() 321, [SCONJ]() 75, [VERB]() 28, [ADJ]() 5), <em>ud</em> ([ADV]() 190, [X]() 1), <em>ind</em> ([ADV]() 120, [X]() 1), <em>meget</em> ([ADV]() 119, [ADJ]() 42), <em>helt</em> ([ADV]() 110, [NOUN]() 1, [ADJ]() 1), <em>mere</em> ([ADV]() 81, [ADJ]() 54), <em>med</em> ([ADP]() 1008, [ADV]() 80, [X]() 3), <em>lige</em> ([ADV]() 76, [ADJ]() 5, [NOUN]() 1), <em>jo</em> ([ADV]() 77, [SCONJ]() 2, [INTJ]() 1)
 
 
 * <em>der</em>
@@ -36,8 +36,8 @@ The 10 most frequent ambiguous types:  <em>der</em> ([PRON]() 479, [ADV]() 468, 
   * [ADJ]() 42: <em>" Besluttet er så <b>meget</b> sagt , vi fik ikke noget valg .</em>
 * <em>helt</em>
   * [ADV]() 110: <em>For Søs Krusell , 16 år , har projektet betydet noget <b>helt</b> specielt .</em>
-  * [ADJ]() 1: <em>Her står et <b>helt</b> sambaorkester og spiller .</em>
   * [NOUN]() 1: <em>Han skulle efter en radio-udsendelse i svensk radio have sagt , at " den som er <b>helt</b> i dag måske er noget andet i morgen . "</em>
+  * [ADJ]() 1: <em>Her står et <b>helt</b> sambaorkester og spiller .</em>
 * <em>mere</em>
   * [ADV]() 81: <em>- Måske aldrig <b>mere</b> .</em>
   * [ADJ]() 54: <em>Kyllingerne her har meget <b>mere</b> plads .</em>

@@ -90,7 +90,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 1 [no-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Definite`:
 

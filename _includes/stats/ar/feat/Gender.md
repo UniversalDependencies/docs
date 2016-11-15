@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 21543 [ar-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (21260; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (20272; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (20165; 94%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (11442; 53%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (11442; 53%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (11442; 53%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (21260; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (20272; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (20165; 94%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (11442; 53%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (11442; 53%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (11442; 53%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -100,11 +100,11 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هم</td><td>هن</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td>ي</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td>ك</td><td>ك</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>ه, مستقبله, إدانته, وغربه, بلاده, زنزانته, انتشاره, طائرته, والده, حكومته, تجهيزه, لاراضيه, استعداداته</td><td>ها, تجارتها, بضمانها, مستشفياتها, نهايتها, مواجهتها, تخصيصها, إليها, بفقدانها, تجميدها, أعضائها, أهدافها, بهويتها</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>ه, وغربه, تجهيزه, لاراضيه, والده, طائرته, حكومته, إدانته, انتشاره, مستقبله, بلاده, استعداداته, زنزانته</td><td>ها, أهدافها, مواجهتها, بضمانها, نهايتها, تخصيصها, تجميدها, أعضائها, إليها, تجارتها, بهويتها, مستشفياتها, بفقدانها</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هما</td><td>هما</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td>نا, لمساعدتنا</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td>كم</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هم, شفائهم, استبعادهم, لهم, بهم, بأنفسهم, بلادهم</td><td>هن</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هم, شفائهم, استبعادهم, بهم, بأنفسهم, لهم, بلادهم</td><td>هن</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td>أنا, انا</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td>أنت</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هو</td><td>هي, هى, وهي</td></tr>
@@ -131,7 +131,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td>هذا</td><td>هذه, هٰذه, هــــذه</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Dual</tt></td><td>هذين</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td>هؤلاء</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td>هذا, هٰذا</td><td>هذه, هٰذه, هذــه, هـــذه</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td>هذا, هٰذا</td><td>هذه, هٰذه, هـــذه, هذــه</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Dual</tt></td><td>هذين</td><td>هاتين</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td>هؤلاء, هٰؤلاء</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td>هذا, هٰذا</td><td>هذه, هٰذه</td></tr>
@@ -153,7 +153,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>ثَلَاثَة</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Definite.html">Definite</a>=Def</tt></td><td>الثلاثـــــة, الثلاثة</td><td>الثلاث</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Definite.html">Definite</a>=Def</tt></td><td>الثلاثة, الثلاثـــــة</td><td>الثلاث</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Definite.html">Definite</a>=Ind</tt></td><td>ثلاثة</td><td>ثلاثا</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Definite.html">Definite</a>=Red</tt></td><td>ثلاثة</td><td>ثلاث</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Com</tt></td><td>الثلاثة</td><td></td></tr>
@@ -169,7 +169,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 39 [ar-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (39; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (39; 100%), <tt><a href="Person.html">Person</a>=3</tt> (39; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (38; 97%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (39; 100%), <tt><a href="Person.html">Person</a>=3</tt> (39; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (39; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (38; 97%).
 
 `AUX` tokens may have the following values of `Gender`:
 

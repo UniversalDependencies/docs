@@ -100,7 +100,7 @@ The 10 most frequent `NOUN` lemmas: <em>vuosi, asia, mies, aika, lapsi, ihminen,
 
 The 10 most frequent `NOUN` types:  <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
 
-The 10 most frequent ambiguous lemmas: <em>aika</em> ([NOUN]() 328, [PART]() 64), <em>äiti</em> ([NOUN]() 180, [PROPN]() 1), <em>kerta</em> ([NOUN]() 162, [PART]() 2), <em>maa</em> ([NOUN]() 154, [PROPN]() 3), <em>maailma</em> ([NOUN]() 95, [PROPN]() 2), <em>loppu</em> ([NOUN]() 62, [ADV]() 1, [ADJ]() 1), <em>lehti</em> ([NOUN]() 57, [PROPN]() 2), <em>puoli</em> ([NUM]() 89, [NOUN]() 42), <em>pankki</em> ([NOUN]() 35, [PROPN]() 5), <em>raja</em> ([NOUN]() 30, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>aika</em> ([NOUN]() 328, [PART]() 64), <em>äiti</em> ([NOUN]() 180, [PROPN]() 1), <em>kerta</em> ([NOUN]() 162, [PART]() 2), <em>maa</em> ([NOUN]() 154, [PROPN]() 3), <em>maailma</em> ([NOUN]() 95, [PROPN]() 2), <em>loppu</em> ([NOUN]() 62, [ADJ]() 1, [ADV]() 1), <em>lehti</em> ([NOUN]() 57, [PROPN]() 2), <em>puoli</em> ([NUM]() 89, [NOUN]() 42), <em>pankki</em> ([NOUN]() 35, [PROPN]() 5), <em>raja</em> ([NOUN]() 30, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>aikaa</em> ([NOUN]() 94, [ADP]() 1), <em>kertaa</em> ([NOUN]() 68, [VERB]() 1), <em>kerran</em> ([NOUN]() 52, [PART]() 11), <em>ajan</em> ([NOUN]() 51, [ADP]() 21, [VERB]() 1), <em>aikaan</em> ([NOUN]() 44, [ADP]() 6), <em>aika</em> ([PART]() 63, [NOUN]() 36), <em>työ</em> ([NOUN]() 28, [PRON]() 5), <em>tavalla</em> ([NOUN]() 33, [ADP]() 1), <em>tapauksessa</em> ([NOUN]() 30, [ADP]() 1), <em>vuosi</em> ([NOUN]() 22, [VERB]() 2)
 

@@ -26,7 +26,6 @@ The following 11 pairs of parts of speech are connected with `nummod`: [no-pos/N
 4	to	to	NUM	_	Number=Plur|NumType=Card	6	nummod	_	_
 5	nye	ny	ADJ	_	Degree=Pos|Number=Plur	6	amod	_	_
 6	medlemsland	medlemsland	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	3	dobj	_	_
-7	|	$|	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -44,7 +43,7 @@ The following 11 pairs of parts of speech are connected with `nummod`: [no-pos/N
 5	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	originale	original	ADJ	_	Degree=Pos|Number=Plur	0	root	_	_
 7	fra	fra	ADP	_	_	8	case	_	_
-8	Dunlop-fabrikken	Dunlop-fabrikk	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	_
+8	Dunlop-fabrikken	Dunlop-fabrikk	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
 9	.	$.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -61,7 +60,7 @@ The following 11 pairs of parts of speech are connected with `nummod`: [no-pos/N
 3	var	være	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	_
 4	også	også	ADV	_	_	6	advmod	_	_
 5	til	til	ADP	_	_	6	case	_	_
-6	stede	stede	NOUN	_	_	0	root	_	_
+6	stede	stede	NOUN	_	_	0	root	_	SpaceAfter=No
 7	.	$.	PUNCT	_	_	6	punct	_	_
 
 ~~~

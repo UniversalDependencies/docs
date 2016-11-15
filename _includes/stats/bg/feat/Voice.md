@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 1906 [bg-pos/AUX]() tokens (94% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (1787; 94%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1787; 94%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1658; 87%), <tt><a href="Person.html">Person</a>=3</tt> (1610; 84%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1384; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (1277; 67%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1787; 94%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1787; 94%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1658; 87%), <tt><a href="Person.html">Person</a>=3</tt> (1610; 84%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1384; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (1277; 67%).
 
 `AUX` tokens may have the following values of `Voice`:
 
@@ -86,14 +86,14 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (2251; 90%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1557; 92%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1130; 89%),
-<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (243; 95%),
-<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (207; 92%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (193; 95%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (90; 84%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (2038; 90%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1552; 92%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1145; 89%),
+<tt>VERB --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (757; 50%),
+<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (432; 95%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (199; 93%),
+<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (191; 95%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (66; 81%),
 <tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (43; 72%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> VERB</tt> (3; 100%).
+<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> VERB</tt> (4; 100%).
 

@@ -4,16 +4,16 @@
 
 ## Treebank Statistics (UD_Persian)
 
-There are 2 `ADV` lemmas (5%), 502 `ADV` types (3%) and 4100 `ADV` tokens (3%).
-Out of 15 observed tags, the rank of `ADV` is: 6 in number of lemmas, 4 in number of types and 9 in number of tokens.
+There are 374 `ADV` lemmas (4%), 502 `ADV` types (3%) and 4101 `ADV` tokens (3%).
+Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 4 in number of types and 9 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: _، که
+The 10 most frequent `ADV` lemmas: _، چه، پس، هیچ، خیلی، پیش، بعد، نه، حتی، بسیار
 
 The 10 most frequent `ADV` types:  پس، چه، هیچ، خیلی، پیش، نه، بعد، حتی، بسیار، مثل
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 57224, [VERB]() 16929, [ADJ]() 13490, [PUNCT]() 13442, [ADP]() 11406, [PRON]() 5792, [ADV]() 4099, [DET]() 3558, [NUM]() 3409, [SCONJ]() 2428, [CONJ]() 2098, [AUX]() 742, [PART]() 490, [X]() 245, [INTJ]() 69), که ([SCONJ]() 2731, [CONJ]() 287, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 4861, [VERB]() 1473, [ADJ]() 1371, [ADV]() 194, [NUM]() 152, [X]() 92, [PUNCT]() 90, [PRON]() 35, [ADP]() 32, [INTJ]() 19, [AUX]() 13, [SCONJ]() 12, [CONJ]() 5, [DET]() 4), چه ([ADV]() 173, [SCONJ]() 27, [NOUN]() 7, [CONJ]() 2), پس ([ADV]() 153, [ADP]() 9, [NOUN]() 2, [SCONJ]() 1), هیچ ([ADV]() 134, [NOUN]() 1, [INTJ]() 1), خیلی ([ADV]() 133, [NOUN]() 7), پیش ([ADV]() 130, [ADP]() 19), بعد ([ADV]() 128, [ADJ]() 23, [NOUN]() 6, [X]() 1), نه ([ADV]() 122, [NOUN]() 4, [NUM]() 3, [INTJ]() 2), بسیار ([ADV]() 104, [ADJ]() 24), مثل ([ADV]() 88, [NOUN]() 5)
 
-The 10 most frequent ambiguous types:  پس ([ADV]() 153, [ADP]() 9, [NOUN]() 2, [SCONJ]() 1), چه ([ADV]() 145, [SCONJ]() 27, [NOUN]() 5, [CONJ]() 2), هیچ ([ADV]() 134, [NOUN]() 1, [INTJ]() 1), پیش ([ADV]() 130, [ADP]() 19), نه ([ADV]() 122, [NOUN]() 4, [NUM]() 3, [INTJ]() 2), بعد ([ADV]() 120, [ADJ]() 12, [X]() 1), بسیار ([ADV]() 104, [ADJ]() 10), مثل ([ADV]() 88, [NOUN]() 2), چنین ([ADV]() 76, [DET]() 6), امروز ([ADV]() 53, [NOUN]() 6)
+The 10 most frequent ambiguous types:  پس ([ADV]() 153, [ADP]() 9, [NOUN]() 2, [SCONJ]() 1), چه ([ADV]() 145, [SCONJ]() 27, [NOUN]() 5, [CONJ]() 2), هیچ ([ADV]() 134, [INTJ]() 1, [NOUN]() 1), پیش ([ADV]() 130, [ADP]() 19), نه ([ADV]() 122, [NOUN]() 4, [NUM]() 3, [INTJ]() 2), بعد ([ADV]() 120, [ADJ]() 12, [X]() 1), بسیار ([ADV]() 104, [ADJ]() 10), مثل ([ADV]() 88, [NOUN]() 2), چنین ([ADV]() 76, [DET]() 6), امروز ([ADV]() 53, [NOUN]() 6)
 
 
 * پس
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  پس ([ADV]() 153, [ADP]() 9, [NOUN]() 2,
   * [CONJ]() 2: وی تصریح کرد : من می‌پذیرم که به هر حال زن در حد مرد باید امکانات بیان نظر و یا هر چیزی را چه در زندگی روزمره ، <b>چه</b> شخصی و <b>چه</b> اجتماعی داشته باشد .
 * هیچ
   * [ADV]() 134: وی که <b>هیچ</b> گونه سلاحی حمل نمی‌کرد ، توسط پلیس بروکسل دستگیر شد .
-  * [NOUN]() 1: تو خود <b>هیچ</b> نیستی و همه چیز هستی ، زیرا در عین درویشی از جهانی بزرگ‌تر ی .
   * [INTJ]() 1: و من که دیگر از کم و کیف قضایا به وسیله دوستان آگاه شده بودم گفتم : <b>هیچ</b> .
+  * [NOUN]() 1: تو خود <b>هیچ</b> نیستی و همه چیز هستی ، زیرا در عین درویشی از جهانی بزرگ‌تر ی .
 * پیش
   * [ADV]() 130: بایستی گامی به <b>پیش</b> نهاد .
   * [ADP]() 19: دفتر انشای احمد حسینی بسته روی میز <b>پیش</b> روی او ست .
@@ -57,38 +57,40 @@ The 10 most frequent ambiguous types:  پس ([ADV]() 153, [ADP]() 9, [NOUN]() 2,
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 251.000000 (the average of all parts of speech is 412.051282).
+The form / lemma ratio of `ADV` is 1.342246 (the average of all parts of speech is 1.914149).
 
-The 1st highest number of forms (502) was observed with the lemma “_”: آتشین‌خو, آخر, آخرها, آخه, آرام, آرام‌آرام, آزاد, آزادانه, آشکارا, آمرانه, آنجا, آنطور, آنقدر, آنچنان, آنگاه, آن‌جا, آن‌گاه, آهسته, اتفاقا, اتفاقاً, اجمالاً, احتمالا, احتمالاً, احیاناً, اخیراً, اساسا, اساساً, اشتباها, اصلا, اصلاً, اصولا, اصولاً, اغلب, افسوس, الان, البته, امروز, امروزه, امسال, امشب, اندکی, اندک‌اندک, انشاأالله, انصافاً, ان‌شاأالله, اوایل, اول, اولا, اکثرا, اکثراً, اکنون, اینجا, اینروزها, اینقدر, اینهمه, اینک, اینگونه, این‌طوری, این‌قدر, بازهم, بازیگوشانه, بازی‌کنان, باز‌هم, بالا, بالاجبار, بالاخره, بالای, بالعکس, بالنتیجه, بتدریج, بجد, بحدی, بخوبی, بدانجا, بدرستی, بدینگه, برافروخته, برعکس, بروشنی, بزودی, بس, بسا, بسان, بسختی, بسی, بسیار, بشدت, بعد, بعدا, بعدازظهر, بعداً, بعدها, بعضا, بعکس, بعید, بفهمی‌نفهمی, بلافاصله, بمانند, بمراتب, بناچار, بهتر, بهرحال, بهنگام, به‌آسانی, به‌تازگی, به‌تدریج, به‌تفقد, به‌تمامی, به‌تنهایی, به‌حق, به‌خوبی, به‌درشتی, به‌دشواری, به‌دلخواه, به‌راحتی, به‌روشنی, به‌زودی, به‌سرعت, به‌شدت, به‌شوخی, به‌صراحت, به‌قدری, به‌مانند, به‌مراتب, به‌موقع, به‌ناحق, به‌ناچار, به‌ندرت, به‌کرات, به‌گرمی, بویژه, بکلی, بگونه‌ای, بیدارتر, بیرون, بیگمان, بی‌امان, بی‌تأمل, بی‌تردید, بی‌دریغ, بی‌سابقه, بی‌نیازمندانه, بی‌هدف, تا, تابه‌حال, تازه, تحقیقاً, تصریحاً, تعمدا, تعمداً, تفصیلاً, تقریبا, تقریباً, تلویحاً, تماما, تمام‌قد, تند‌تند, تنها, توئما, جایگیر, جداً, جداگانه, جدی, جدیدا, جسماً, جلو, جمعاً, جملگی, جمیعاً, حاشیه‌ای, حال, حالا, حتما, حتماً, حتی, حتی‌المقدور, حداقل, حداکثر, حسابگرانه, حضوراً, حقیرانه, حقیقتاً, حکماً, خاصه, خالصانه, خب, خشک‌خشک, خصوصاً, خوب, خودبه‌خودی, خود‌به‌خود, خوشبختانه, خیر, خیره, خیلی, دائم, دائما, دانسته, درجا, درست, دریغ, دریغا, در‌ثانی, در‌حال‌حاضر, در‌مجموع, دسته‌دسته, دستکم, دست‌کم, دقیق, دقیقا, دقیقاً, دم, دوباره, دور, دوشادوش, دو‌روزه, دیر, دیروز, دیشب, دیگر, ذاتاً, راحت, راحت‌تر, راست, راستی, رسماً, رندانه, رها, روبه‌رو, روزانه, روزبه‌روز, روز‌به‌روز, زبس, زود, زودتر, زیاد, زیادی, زیر, زیرچشمی, سادگی, سالانه, سخت, سراسر, سرانجام, سراپا, سرمستانه, سریع, سریعاً, سمندروار, سهواً, سه‌باره, سپس, سیخ, شاید, شبانه, شخصا, شخصاً, شدیدا, شدیداً, شگفتا, شیرین, شیک, صددرصد, صراحتاً, صرفا, صرفاً, صریحاً, صوفیانه, ضمناً, طبعاً, طبیعتا, طلبکارانه, ظاهرا, ظاهراً, عاجزانه, عادلانه, عاقبت, عجالتاً, عجب, عجولانه, عرفانی, عقلا, علناً, علی‌الظاهر, عمدا, عمداً, عمدتا, عمدتاً, عملا, عملاً, عموما, عموماً, عمیقاً, عنقریب, عین, عیناً, غالبا, غالباً, غکما‌ینبغیف, غیر, غیرقانونی, غیرمستقیم, فبها, فردا, فعلا, فعلاً, فقط, فله‌ای, فوراً, فکور, قاطعانه, قاعدتاً, قانوناً, قبل, قبلا, قبلاً, قطعا, قطعاً, قویاً, لااقل, لابد, لاجرم, لبخند‌زنان, لجوجانه, لزوما, لزوماً, لطفا, لطفاً, لفاً, مادامی, مامان‌مامان‌گویان, مانند, مبادا, متأسفانه, متعاقباً, متعهدانه, مثل, مثلا, مجدداً, مجموعاً, محکم, محکم‌تر, مخصوصاً, مدام, مرتب, مردانه, مستقلاً, مستقیما, مستقیماً, مستوفی, مسلماً, مشترکاً, مصرانه, مطلقاً, مطمئنا, معمولا, معمولاً, معمولی, مفصلاً, مقتدرانه, مقداری, منطقه‌ای, منطقی, مهم, موقتاً, مکرر, مکرراً, مگر, میانه‌روانه‌تر, ناامید, ناقص, ناموفق, ناچار, ناگزیر, ناگهان, نخست, نخودی, ندانسته, نزدیک, نظیر, نه, نهایتا, نهایتاً, نه‌تنها, نوعاً, هرآنچه, هرروز, هرقدر, هرچند‌گاه, هرچه, هرگاه, هرگز, هرگه, هر‌از‌گاهی, هر‌ساله, هر‌چه, هق‌هق‌کنان, همانا, همانند, همزمان, همه‌روزه, همه‌ساله, همواره, همچنان, همچو, همچون, همی, همیشه, همینگونه, هم‌اکنون, هم‌اینک, هنوز, هنگام, هنگامی, هیچ, هیچگاه, هیچ‌گاه, وادار, واقعا, واقعاً, واقعی, وحشت‌زده, و‌لا‌غیر, پارسال, پارسایانه, پایین, پدرانه, پرسان, پروقار, پریروز, پس, پس‌فردا, پیش, پیشتر, پیوسته, پی‌درپی, چ, چاپلوسانه, چته, چرا, چشم‌بسته, چطور, چقدر, چنان, چند, چندان, چند‌روزه, چند‌ساله, چنین, چه, چه‌بسا, چه‌طور, چه‌قدر, چو, چون, چونان, چکار, چکاره‌, چگونه, چی, کاش, کاشکی, کاملا, کاملاً, کاکنون, کجا, کدامیک, کز, کلا, کلی, کماکان, کماینبغی, کمی, کم‌کم, کنایه‌ای, کنون, که, کوتاه‌مدت, کورکورانه, کی, گاه, گاهی, گروه‌گروه, گهگاه, گوای, گوایا, گویا, گویی, یحتمل, یقیناً, یواش‌یواش, یکجا, یکریز, یکسال, یکسره, یکپارچه, یکی‌یکی, یک‌جا, یک‌جوری, یک‌شبه, یک‌ماهه, یک‌مرتبه.
+The 1st highest number of forms (115) was observed with the lemma “_”: آخه, آزادانه, آمرانه, آنقدر, آن‌جا, آن‌گاه, اتفاقاً, افسوس, ان‌شاأالله, اولا, این‌قدر, بازهم, بجد, بدینگه, بروشنی, بزودی, بس, بسا, بسختی, بسی, بعکس, بعید, به‌راحتی, به‌مانند, بکلی, بیدارتر, بیرون, بی‌دریغ, تعمدا, تقریبا, تلویحاً, تند‌تند, توئما, جایگیر, جداً, جدیدا, جسماً, حتما, حداقل, حقیرانه, حکماً, خالصانه, خشک‌خشک, خود‌به‌خود, دریغ, در‌ثانی, دسته‌دسته, دستکم, دقیقا, دو‌روزه, ذاتاً, روبه‌رو, سرمستانه, سریعاً, سمندروار, سه‌باره, سیخ, شخصا, شگفتا, شیک, صریحاً, طبیعتا, عاقبت, عجب, عجولانه, عقلا, علناً, علی‌الظاهر, عمدا, عملا, عیناً, غیر, فبها, فوراً, قانوناً, قبلا, لزوماً, مامان‌مامان‌گویان, مجموعاً, مردانه, مستقیما, مکرراً, ناقص, نوعاً, هرقدر, هرچند‌گاه, هرگاه, هر‌از‌گاهی, هر‌چه, هق‌هق‌کنان, همانا, همانند, همه‌روزه, واقعا, و‌لا‌غیر, پارسایانه, پرسان, چ, چاپلوسانه, چته, چند‌روزه, چه‌طور, چکار, چکاره‌, کاشکی, کاملا, کاکنون, کدامیک, کز, کلا, کنایه‌ای, گاهی, یواش‌یواش, یکریز, یک‌جوری.
 
-The 2nd highest number of forms (1) was observed with the lemma “که”: که.
+The 2nd highest number of forms (2) was observed with the lemma “آخر”: آخر, آخرها.
 
-`ADV` occurs with 3 features: [fa-feat/Case]() (1108; 27% instances), [fa-feat/PronType]() (342; 8% instances), [fa-feat/Negative]() (324; 8% instances)
+The 3rd highest number of forms (2) was observed with the lemma “اساساً”: اساسا, اساساً.
+
+`ADV` occurs with 3 features: [fa-feat/Case]() (1108; 27% instances), [fa-feat/PronType]() (344; 8% instances), [fa-feat/Negative]() (324; 8% instances)
 
 `ADV` occurs with 4 feature-value pairs: `Case=Loc`, `Case=Tem`, `Negative=Neg`, `PronType=Int`
 
 `ADV` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (2326 tokens).
+The most frequent feature combination is `_` (2325 tokens).
 Examples: خیلی، حتی، بسیار، مثل، البته، چنین، فقط، هنوز، تنها، همچنان
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 24 different relations: [fa-dep/advmod]() (2916; 71% instances), [fa-dep/det]() (212; 5% instances), [fa-dep/case]() (187; 5% instances), [fa-dep/advcl]() (135; 3% instances), [fa-dep/neg]() (105; 3% instances), [fa-dep/amod]() (104; 3% instances), [fa-dep/conj]() (83; 2% instances), [fa-dep/nmod:poss]() (67; 2% instances), [fa-dep/mark]() (51; 1% instances), [fa-dep/root]() (47; 1% instances), [fa-dep/dobj]() (39; 1% instances), [fa-dep/ccomp]() (36; 1% instances), [fa-dep/dep]() (29; 1% instances), [fa-dep/mwe]() (19; 0% instances), [fa-dep/nmod]() (18; 0% instances), [fa-dep/nsubj]() (17; 0% instances), [fa-dep/parataxis]() (11; 0% instances), [fa-dep/det:predet]() (9; 0% instances), [fa-dep/appos]() (4; 0% instances), [fa-dep/compound:lvc]() (4; 0% instances), [fa-dep/acl:relcl]() (3; 0% instances), [fa-dep/xcomp]() (2; 0% instances), [fa-dep/cc:preconj]() (1; 0% instances), [fa-dep/name]() (1; 0% instances)
+`ADV` nodes are attached to their parents using 24 different relations: [fa-dep/advmod]() (2915; 71% instances), [fa-dep/det]() (212; 5% instances), [fa-dep/case]() (187; 5% instances), [fa-dep/advcl]() (134; 3% instances), [fa-dep/neg]() (105; 3% instances), [fa-dep/amod]() (104; 3% instances), [fa-dep/conj]() (84; 2% instances), [fa-dep/nmod:poss]() (67; 2% instances), [fa-dep/mark]() (51; 1% instances), [fa-dep/root]() (51; 1% instances), [fa-dep/dobj]() (39; 1% instances), [fa-dep/ccomp]() (36; 1% instances), [fa-dep/dep]() (29; 1% instances), [fa-dep/nmod]() (18; 0% instances), [fa-dep/mwe]() (17; 0% instances), [fa-dep/nsubj]() (17; 0% instances), [fa-dep/parataxis]() (11; 0% instances), [fa-dep/det:predet]() (9; 0% instances), [fa-dep/appos]() (4; 0% instances), [fa-dep/compound:lvc]() (4; 0% instances), [fa-dep/acl:relcl]() (3; 0% instances), [fa-dep/xcomp]() (2; 0% instances), [fa-dep/cc:preconj]() (1; 0% instances), [fa-dep/name]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 10 different parts of speech: [VERB]() (1990; 49% instances), [NOUN]() (1186; 29% instances), [ADJ]() (699; 17% instances), [ADV]() (70; 2% instances), [ROOT]() (47; 1% instances), [ADP]() (46; 1% instances), [PRON]() (43; 1% instances), [NUM]() (12; 0% instances), [CONJ]() (6; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `ADV` nodes belong to 10 different parts of speech: [VERB]() (1985; 48% instances), [NOUN]() (1185; 29% instances), [ADJ]() (701; 17% instances), [ADV]() (72; 2% instances), [ROOT]() (51; 1% instances), [ADP]() (44; 1% instances), [PRON]() (44; 1% instances), [NUM]() (12; 0% instances), [CONJ]() (6; 0% instances), [SCONJ]() (1; 0% instances)
 
-3321 (81%) `ADV` nodes are leaves.
+3319 (81%) `ADV` nodes are leaves.
 
-584 (14%) `ADV` nodes have one child.
+583 (14%) `ADV` nodes have one child.
 
 102 (2%) `ADV` nodes have two children.
 
-93 (2%) `ADV` nodes have three or more children.
+97 (2%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 9.
 
-Children of `ADV` nodes are attached using 30 different relations: [fa-dep/nmod]() (350; 29% instances), [fa-dep/case]() (155; 13% instances), [fa-dep/cop]() (100; 8% instances), [fa-dep/mwe]() (87; 7% instances), [fa-dep/nsubj]() (71; 6% instances), [fa-dep/punct]() (71; 6% instances), [fa-dep/conj]() (55; 5% instances), [fa-dep/nmod:poss]() (55; 5% instances), [fa-dep/cc]() (54; 5% instances), [fa-dep/advmod]() (50; 4% instances), [fa-dep/det]() (27; 2% instances), [fa-dep/acl:relcl]() (22; 2% instances), [fa-dep/ccomp]() (21; 2% instances), [fa-dep/mark]() (20; 2% instances), [fa-dep/name]() (10; 1% instances), [fa-dep/advcl]() (9; 1% instances), [fa-dep/amod]() (5; 0% instances), [fa-dep/appos]() (5; 0% instances), [fa-dep/aux]() (5; 0% instances), [fa-dep/neg]() (5; 0% instances), [fa-dep/dep]() (4; 0% instances), [fa-dep/nsubj:nc]() (4; 0% instances), [fa-dep/nummod]() (4; 0% instances), [fa-dep/cc:preconj]() (2; 0% instances), [fa-dep/vocative]() (2; 0% instances), [fa-dep/xcomp]() (2; 0% instances), [fa-dep/compound]() (1; 0% instances), [fa-dep/dislocated]() (1; 0% instances), [fa-dep/dobj]() (1; 0% instances), [fa-dep/parataxis]() (1; 0% instances)
+Children of `ADV` nodes are attached using 30 different relations: [fa-dep/nmod]() (351; 29% instances), [fa-dep/case]() (156; 13% instances), [fa-dep/cop]() (103; 8% instances), [fa-dep/mwe]() (86; 7% instances), [fa-dep/punct]() (75; 6% instances), [fa-dep/nsubj]() (74; 6% instances), [fa-dep/conj]() (55; 5% instances), [fa-dep/cc]() (54; 4% instances), [fa-dep/nmod:poss]() (54; 4% instances), [fa-dep/advmod]() (52; 4% instances), [fa-dep/det]() (27; 2% instances), [fa-dep/acl:relcl]() (22; 2% instances), [fa-dep/ccomp]() (22; 2% instances), [fa-dep/mark]() (20; 2% instances), [fa-dep/advcl]() (10; 1% instances), [fa-dep/name]() (10; 1% instances), [fa-dep/amod]() (5; 0% instances), [fa-dep/appos]() (5; 0% instances), [fa-dep/aux]() (5; 0% instances), [fa-dep/neg]() (5; 0% instances), [fa-dep/dep]() (4; 0% instances), [fa-dep/nsubj:nc]() (4; 0% instances), [fa-dep/nummod]() (4; 0% instances), [fa-dep/cc:preconj]() (2; 0% instances), [fa-dep/dobj]() (2; 0% instances), [fa-dep/vocative]() (2; 0% instances), [fa-dep/xcomp]() (2; 0% instances), [fa-dep/compound]() (1; 0% instances), [fa-dep/dislocated]() (1; 0% instances), [fa-dep/parataxis]() (1; 0% instances)
 
-Children of `ADV` nodes belong to 15 different parts of speech: [NOUN]() (452; 38% instances), [ADP]() (164; 14% instances), [VERB]() (143; 12% instances), [CONJ]() (105; 9% instances), [PRON]() (90; 8% instances), [PUNCT]() (71; 6% instances), [ADV]() (70; 6% instances), [SCONJ]() (38; 3% instances), [ADJ]() (24; 2% instances), [DET]() (23; 2% instances), [PART]() (8; 1% instances), [NUM]() (5; 0% instances), [AUX]() (4; 0% instances), [INTJ]() (1; 0% instances), [X]() (1; 0% instances)
+Children of `ADV` nodes belong to 15 different parts of speech: [NOUN]() (456; 38% instances), [ADP]() (164; 14% instances), [VERB]() (148; 12% instances), [CONJ]() (105; 9% instances), [PRON]() (90; 7% instances), [PUNCT]() (75; 6% instances), [ADV]() (72; 6% instances), [SCONJ]() (38; 3% instances), [ADJ]() (24; 2% instances), [DET]() (23; 2% instances), [PART]() (8; 1% instances), [NUM]() (5; 0% instances), [AUX]() (4; 0% instances), [INTJ]() (1; 0% instances), [X]() (1; 0% instances)
 

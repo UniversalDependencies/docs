@@ -58,9 +58,9 @@ The most frequent other feature values with which `PROPN` and `Person[psor]` co-
 
 
 <table>
-  <tr><th>Paradigm <i>Stúdió</i></th><th><tt>3</tt></th><th><tt>None</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td><em>Stúdiójának</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number[psor].html">Number[psor]</a>=None|<a href="Person[psor].html">Person[psor]</a>=None</tt></td><td></td><td><em>Stúdió</em></td></tr>
+  <tr><th>Paradigm <i>Híradó</i></th><th><tt>3</tt></th><th><tt>None</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3</tt></td><td><em>Híradóját</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number[psor].html">Number[psor]</a>=None|<a href="Person[psor].html">Person[psor]</a>=None</tt></td><td></td><td><em>Híradó</em></td></tr>
 </table>
 
 `Person[psor]` seems to be **lexical feature** of `PROPN`. 100% lemmas (972) occur only with one value of `Person[psor]`.
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PROPN` and `Person[psor]` co-
 
 854 [hu-pos/PRON]() tokens (62% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (850; 100%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (850; 100%), <tt><a href="Person.html">Person</a>=3</tt> (798; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (738; 86%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (850; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (850; 100%), <tt><a href="Person.html">Person</a>=3</tt> (798; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (738; 86%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `NUM` and `Person[psor]` co-oc
 
 115 [hu-pos/DET]() tokens (2% of all `DET` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (115; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (115; 100%).
+The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem</tt> (115; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (115; 100%).
 
 `DET` tokens may have the following values of `Person[psor]`:
 

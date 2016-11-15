@@ -101,7 +101,7 @@ The 10 most frequent `SCONJ` types:  <em>som, att, om, när, medan, eftersom, in
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14002, [VERB]() 11274, [ADP]() 8898, [PUNCT]() 8656, [PRON]() 8194, [ADV]() 6016, [ADJ]() 5522, [DET]() 4283, [CONJ]() 3016, [PROPN]() 2703, [SCONJ]() 2587, [AUX]() 2238, [PART]() 1778, [NUM]() 440, [INTJ]() 179, [X]() 17, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>som</em> ([SCONJ]() 1007, [ADP]() 382, [CONJ]() 6), <em>att</em> ([PART]() 1014, [SCONJ]() 732), <em>om</em> ([ADP]() 341, [SCONJ]() 214, [ADV]() 30), <em>när</em> ([SCONJ]() 164, [ADV]() 3), <em>innan</em> ([SCONJ]() 28, [ADV]() 1), <em>då</em> ([ADV]() 64, [SCONJ]() 21), <em>sedan</em> ([ADV]() 31, [ADP]() 19, [SCONJ]() 11), <em>så</em> ([ADV]() 278, [CONJ]() 16, [ADJ]() 7, [SCONJ]() 7), <em>än</em> ([ADP]() 68, [ADV]() 15, [SCONJ]() 9), <em>fast</em> ([ADV]() 10, [SCONJ]() 5, [CONJ]() 4, [ADJ]() 4)
+The 10 most frequent ambiguous types:  <em>som</em> ([SCONJ]() 1007, [ADP]() 382, [CONJ]() 6), <em>att</em> ([PART]() 1014, [SCONJ]() 732), <em>om</em> ([ADP]() 341, [SCONJ]() 214, [ADV]() 30), <em>när</em> ([SCONJ]() 164, [ADV]() 3), <em>innan</em> ([SCONJ]() 28, [ADV]() 1), <em>då</em> ([ADV]() 64, [SCONJ]() 21), <em>sedan</em> ([ADV]() 31, [ADP]() 19, [SCONJ]() 11), <em>så</em> ([ADV]() 278, [CONJ]() 16, [ADJ]() 7, [SCONJ]() 7), <em>än</em> ([ADP]() 68, [ADV]() 15, [SCONJ]() 9), <em>fast</em> ([ADV]() 10, [SCONJ]() 5, [ADJ]() 4, [CONJ]() 4)
 
 
 * <em>som</em>
@@ -140,8 +140,8 @@ The 10 most frequent ambiguous types:  <em>som</em> ([SCONJ]() 1007, [ADP]() 382
 * <em>fast</em>
   * [ADV]() 10: <em>På bröstet har han hakat <b>fast</b> två kulspetspennor mellan knapparna .</em>
   * [SCONJ]() 5: <em>Och dessutom kommer jag att beordra statsåklagaren att inskrida <b>fast</b> jag helst inte hade velat det .</em>
-  * [CONJ]() 4: <em>" Då ska jag ge er en smörgås , <b>fast</b> bara på ett villkor .</em>
   * [ADJ]() 4: <em>De tycks betrakta sig själva som en <b>fast</b> och orubblig makt .</em>
+  * [CONJ]() 4: <em>" Då ska jag ge er en smörgås , <b>fast</b> bara på ett villkor .</em>
 
 ## Morphology
 

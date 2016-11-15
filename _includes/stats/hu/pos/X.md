@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: <em>ad, Cosi, ars, by, clausus, giusto, hard, i
 
 The 10 most frequent `X` types:  <em>ad, Cosi, ars, by, clausus, giusto, hard, ice, limina, newspeak</em>
 
-The 10 most frequent ambiguous lemmas: <em>ad</em> ([VERB]() 37, [X]() 2), <em>Cosi</em> ([X]() 1, [PROPN]() 1), <em>tutte</em> ([PROPN]() 1, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>ad</em> ([VERB]() 37, [X]() 2), <em>Cosi</em> ([PROPN]() 1, [X]() 1), <em>tutte</em> ([X]() 1, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>ad</em> ([VERB]() 6, [X]() 2), <em>Cosi</em> ([PROPN]() 1, [X]() 1)
 

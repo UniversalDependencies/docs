@@ -11,7 +11,7 @@ This relation is universal.
 1712 instances of `cc` (83%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.8847637415622.
 
-The following 12 pairs of parts of speech are connected with `cc`: [el-pos/NOUN]()-[el-pos/CONJ]() (892; 43% instances), [el-pos/VERB]()-[el-pos/CONJ]() (776; 37% instances), [el-pos/ADJ]()-[el-pos/CONJ]() (148; 7% instances), [el-pos/ADV]()-[el-pos/CONJ]() (67; 3% instances), [el-pos/CONJ]()-[el-pos/CONJ]() (57; 3% instances), [el-pos/ADP]()-[el-pos/CONJ]() (42; 2% instances), [el-pos/NOUN]()-[el-pos/ADV]() (27; 1% instances), [el-pos/NUM]()-[el-pos/CONJ]() (22; 1% instances), [el-pos/PRON]()-[el-pos/CONJ]() (19; 1% instances), [el-pos/VERB]()-[el-pos/ADV]() (17; 1% instances), [el-pos/PRON]()-[el-pos/ADV]() (4; 0% instances), [el-pos/ADJ]()-[el-pos/ADV]() (3; 0% instances).
+The following 14 pairs of parts of speech are connected with `cc`: [el-pos/NOUN]()-[el-pos/CONJ]() (892; 43% instances), [el-pos/VERB]()-[el-pos/CONJ]() (776; 37% instances), [el-pos/ADJ]()-[el-pos/CONJ]() (148; 7% instances), [el-pos/ADV]()-[el-pos/CONJ]() (67; 3% instances), [el-pos/CONJ]()-[el-pos/CONJ]() (57; 3% instances), [el-pos/ADP]()-[el-pos/CONJ]() (42; 2% instances), [el-pos/NOUN]()-[el-pos/ADV]() (27; 1% instances), [el-pos/NUM]()-[el-pos/CONJ]() (22; 1% instances), [el-pos/PRON]()-[el-pos/CONJ]() (18; 1% instances), [el-pos/VERB]()-[el-pos/ADV]() (17; 1% instances), [el-pos/ADJ]()-[el-pos/ADV]() (3; 0% instances), [el-pos/PRON]()-[el-pos/ADV]() (3; 0% instances), [el-pos/DET]()-[el-pos/ADV]() (1; 0% instances), [el-pos/DET]()-[el-pos/CONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,7 +60,7 @@ The following 12 pairs of parts of speech are connected with `cc`: [el-pos/NOUN]
 # visual-style 5	fgColor:white
 # visual-style 5 6 cc	color:blue
 1	Χρειαζόμαστε	χρειάζομαι	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Pass	0	root	_	_
-2	έναν	ένας	PRON	PRON	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	έναν	ένας	DET	DET	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	τρόπο	τρόπος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	1	dobj	_	_
 4	εργασίας	εργασία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 5	διαφανή	διαφανής	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	3	amod	_	_

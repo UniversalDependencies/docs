@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [es-pos/VERB]() (24734; 6% insta
 
 24734 [es-pos/VERB]() tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (24734; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (24734; 100%), <tt><a href="Person.html">Person</a>=3</tt> (24021; 97%), <tt><a href="Number.html">Number</a>=Sing</tt> (18619; 75%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (13353; 54%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (24734; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (24734; 100%), <tt><a href="Person.html">Person</a>=3</tt> (24021; 97%), <tt><a href="Number.html">Number</a>=Sing</tt> (18619; 75%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (13353; 54%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -82,8 +82,8 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (2; 67%),
 <tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<a href="../dep/mark.html">mark</a>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/mark.html">mark</a>]--> AUX</tt> (1; 100%).
 
 
 

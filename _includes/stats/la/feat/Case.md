@@ -61,12 +61,12 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
   <tr><td><tt><a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>maius</em></td><td></td><td></td><td></td><td></td><td><em>maiore</em></td></tr>
   <tr><td><tt><a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>maiora</em></td><td><em>maiora</em></td><td></td><td></td><td></td><td><em>maioribus</em></td></tr>
   <tr><td><tt><a href="Degree.html">Degree</a>=Sup|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>Maximo</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>magnus, maximus</em></td><td><em>magnum</em></td><td><em>magno</em></td><td><em>magni</em></td><td><em>magne, maxime</em></td><td><em>magno, maxumo</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>magnus, maximus</em></td><td><em>magnum</em></td><td><em>magno</em></td><td><em>magni</em></td><td><em>maxime, magne</em></td><td><em>magno, maxumo</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>magnos</em></td><td></td><td><em>magnorum</em></td><td></td><td><em>maxumis</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>magna, maxuma</em></td><td><em>magnam, maxumam</em></td><td><em>magnae</em></td><td><em>magnae</em></td><td></td><td><em>magna, maxuma</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>magnae</em></td><td><em>magnas, maxumas</em></td><td><em>magnis</em></td><td></td><td></td><td><em>magnis</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>maxumum, magnum</em></td><td><em>magnum, maxumum</em></td><td></td><td><em>magni</em></td><td></td><td><em>magno, maxumo</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>magna</em></td><td><em>magna</em></td><td></td><td></td><td></td><td><em>magnis, maxumis</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>magna</em></td><td><em>magna</em></td><td></td><td></td><td></td><td><em>maxumis, magnis</em></td></tr>
 </table>
 
 ### `PRON`
@@ -100,7 +100,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 2401 [la-pos/VERB]() tokens (23% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2401; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2401; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2232; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (1681; 70%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (1644; 68%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1613; 67%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1613; 67%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1243; 52%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2401; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2401; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2232; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (1681; 70%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (1644; 68%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1613; 67%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1613; 67%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1243; 52%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -339,7 +339,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 3138 [la-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (3137; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2262; 72%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (1819; 58%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1819; 58%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1815; 58%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (3137; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2262; 72%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1819; 58%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (1819; 58%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1815; 58%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -363,7 +363,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 1321 [la-pos/NUM]() tokens (63% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1321; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1321; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1321; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1086; 82%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1321; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1321; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1321; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1086; 82%).
 
 `NUM` tokens may have the following values of `Case`:
 

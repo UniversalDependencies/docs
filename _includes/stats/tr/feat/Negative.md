@@ -7,21 +7,21 @@
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-11057 tokens (19%) have a non-empty value of `Negative`.
-6343 types (37%) occur at least once with a non-empty value of `Negative`.
-826 lemmas (14%) occur at least once with a non-empty value of `Negative`.
-The feature is used with 1 part-of-speech tags: [tr-pos/VERB]() (11057; 19% instances).
+11056 tokens (19%) have a non-empty value of `Negative`.
+6341 types (37%) occur at least once with a non-empty value of `Negative`.
+825 lemmas (14%) occur at least once with a non-empty value of `Negative`.
+The feature is used with 1 part-of-speech tags: [tr-pos/VERB]() (11056; 19% instances).
 
 ### `VERB`
 
-11057 [tr-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Negative`.
+11056 [tr-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="Register.html">Register</a>=EMPTY</tt> (9696; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (9595; 87%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (9354; 85%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (9354; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (9323; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8882; 80%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (8506; 77%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6304; 57%).
+The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="Register.html">Register</a>=EMPTY</tt> (9695; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (9594; 87%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (9353; 85%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (9353; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (9322; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8882; 80%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (8505; 77%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6304; 57%).
 
 `VERB` tokens may have the following values of `Negative`:
 
 * `Neg` (1242; 11% of non-empty `Negative`): <em>değil, olmaz, olmadığını, bilmiyorum, değildir, değildi, değilim, olmadığı, olmayan, olmadı</em>
-* `Pos` (9815; 89% of non-empty `Negative`): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, gelen, olur, etti</em>
+* `Pos` (9814; 89% of non-empty `Negative`): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, gelen, olur, etti</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -118,7 +118,7 @@ The most frequent other feature values with which `VERB` and `Negative` co-occur
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>olduğu</em></td><td><em>olmadığı</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>olmayacak</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>olan</em></td><td><em>olmayan</em></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Trans</tt></td><td><em>olup, olunca, oldukça, olalı</em></td><td><em>olmadan, olmayıp</em></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Trans</tt></td><td><em>olup, olunca, olalı, oldukça</em></td><td><em>olmadan, olmayıp</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Nec|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olmalıyım</em></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Nec|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olmalısın</em></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Nec|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>olmalıydı</em></td><td></td></tr>
@@ -149,7 +149,7 @@ The 10 most frequent relations where parent and child node agree in `Negative`:
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (657; 87%),
 <tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (583; 78%),
 <tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (523; 80%),
-<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (257; 84%),
+<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (256; 84%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (226; 83%),
 <tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (81; 74%),
 <tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (65; 84%),

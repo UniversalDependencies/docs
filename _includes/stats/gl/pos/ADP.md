@@ -66,3 +66,77 @@ Children of `ADP` nodes are attached using 15 different relations: [gl-dep/nmod]
 
 Children of `ADP` nodes belong to 15 different parts of speech: [NOUN]() (18471; 67% instances), [PUNCT]() (2450; 9% instances), [VERB]() (1769; 6% instances), [PROPN]() (945; 3% instances), [ADP]() (840; 3% instances), [NUM]() (621; 2% instances), [CONJ]() (588; 2% instances), [PRON]() (550; 2% instances), [ADJ]() (415; 2% instances), [DET]() (326; 1% instances), [ADV]() (322; 1% instances), [SCONJ]() (75; 0% instances), [PART]() (14; 0% instances), [INTJ]() (1; 0% instances), [SYM]() (1; 0% instances)
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+There are 49 `ADP` lemmas (1%), 49 `ADP` types (1%) and 3555 `ADP` tokens (15%).
+Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 3 in number of tokens.
+
+The 10 most frequent `ADP` lemmas: <em>de, en, a, por, con, para, sobre, sen, entre, desde</em>
+
+The 10 most frequent `ADP` types:  <em>de, en, a, por, con, para, sobre, sen, entre, desde</em>
+
+The 10 most frequent ambiguous lemmas: <em>até</em> ([ADP]() 20, [ADV]() 2), <em>segundo</em> ([NUM]() 7, [ADP]() 6), <em>baixo</em> ([ADP]() 3, [ADJ]() 2), <em>tras</em> ([ADV]() 1, [ADP]() 1)
+
+The 10 most frequent ambiguous types:  <em>a</em> ([DET]() 1035, [ADP]() 400, [PRON]() 23), <em>até</em> ([ADP]() 20, [ADV]() 2), <em>segundo</em> ([ADP]() 6, [NUM]() 1), <em>baixo</em> ([ADP]() 3, [ADJ]() 1), <em>tras</em> ([ADP]() 1, [ADV]() 1)
+
+
+* <em>a</em>
+  * [DET]() 1035: <em>sempre se pode deixar o coche en o garaxe de <b>a</b> casa e patear as rúas .</em>
+  * [ADP]() 400: <em>Amenábar pertence <b>a</b> o grupo .</em>
+  * [PRON]() 23: <em>se cando <b>a</b> paso a a guitarra , esa obra perde non <b>a</b> fago .</em>
+* <em>até</em>
+  * [ADP]() 20: <em><b>até</b> de agora non tivo éxito .</em>
+  * [ADV]() 2: <em>Costa-Gavras , con a súa película Le_Couperet , acaba de resaltar de forma dramática cómo humilla , aniquila , deprime e <b>até</b> pode volver a un tolo a perda de o traballo .</em>
+* <em>segundo</em>
+  * [ADP]() 6: <em><b>segundo</b> Salgado , " necesitabamos esta organización en unha profesión de asalariados como é a nosa " .</em>
+  * [NUM]() 1: <em>esa cooperación estendeu se tamén a outras iniciativas como a modificación de o proxecto de o <b>segundo</b> cinto de circunvalación para que incluíse un acceso directo a Balaídos ou o debuxo en o novo PXOM de unha superficie industrial que lle facilitase a a Zona_Franca a ampliación de o reducido polígono onde está ubicada a factoría automobilística .</em>
+* <em>baixo</em>
+  * [ADP]() 3: <em>a nova estrutura de tarifas non sempre se traducirá en un aforro para o que meta o coche <b>baixo</b> terra .</em>
+  * [ADJ]() 1: <em>¿ como estrañar nos de que sexamos un de os países de o mundo de máis <b>baixo</b> nivel cultural ?</em>
+* <em>tras</em>
+  * [ADP]() 1: <em>baixo o título Del_diccionario_de_los_murmullos e <b>tras</b> dez anos de ausencia en as salas de a cidade , a galería Ana_Vilaseco acolle até o vindeiro 17 de marzo unha selección de os últimos traballos de o pintor coruñés Pedro_Muíño .</em>
+  * [ADV]() 1: <em>así , esta que se denomina Casa_da_Auga , especie de balneario urbano que se está a construír en a explanada situada <b>tras</b> a emblemática Torre_de_Matatón de o Estadio_de_Riazor , será un espazo termolúdico único e un avanzado e ambicioso complexo de máis de corenta millóns de euros sobre un proxecto de o arquitecto Xosé_Manuel_Casabella que contará con os últimos elementos tecnolóxicos e unha riola de instalacións dedicadas , en exclusiva , a o lecer cidadán e a servizos inéditos en a bía galega en este tipo de ofertas públicas .</em>
+
+## Morphology
+
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.374140).
+
+The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “a_conta_de”: <em>a_conta_de</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “a_o_bordo_de”: <em>a_o_bordo_de</em>.
+
+`ADP` occurs with 1 features: [gl-feat/AdpType]() (3555; 100% instances)
+
+`ADP` occurs with 1 feature-value pairs: `AdpType=Prep`
+
+`ADP` occurs with 1 feature combinations.
+The most frequent feature combination is `AdpType=Prep` (3555 tokens).
+Examples: <em>de, en, a, por, con, para, sobre, sen, entre, desde</em>
+
+
+## Relations
+
+`ADP` nodes are attached to their parents using 8 different relations: [gl-dep/case]() (3177; 89% instances), [gl-dep/mark]() (354; 10% instances), [gl-dep/mwe]() (17; 0% instances), [gl-dep/advmod]() (2; 0% instances), [gl-dep/dep]() (2; 0% instances), [gl-dep/compound]() (1; 0% instances), [gl-dep/conj]() (1; 0% instances), [gl-dep/root]() (1; 0% instances)
+
+Parents of `ADP` nodes belong to 11 different parts of speech: [NOUN]() (2214; 62% instances), [PROPN]() (627; 18% instances), [VERB]() (366; 10% instances), [PRON]() (208; 6% instances), [ADV]() (46; 1% instances), [NUM]() (46; 1% instances), [ADJ]() (32; 1% instances), [DET]() (12; 0% instances), [SYM]() (2; 0% instances), [ROOT]() (1; 0% instances), [X]() (1; 0% instances)
+
+3543 (100%) `ADP` nodes are leaves.
+
+11 (0%) `ADP` nodes have one child.
+
+0 (0%) `ADP` nodes have two children.
+
+1 (0%) `ADP` nodes have three or more children.
+
+The highest child degree of a `ADP` node is 5.
+
+Children of `ADP` nodes are attached using 7 different relations: [gl-dep/mwe]() (7; 44% instances), [gl-dep/nmod]() (3; 19% instances), [gl-dep/neg]() (2; 13% instances), [gl-dep/cc]() (1; 6% instances), [gl-dep/conj]() (1; 6% instances), [gl-dep/cop]() (1; 6% instances), [gl-dep/punct]() (1; 6% instances)
+
+Children of `ADP` nodes belong to 7 different parts of speech: [NOUN]() (9; 56% instances), [ADV]() (2; 13% instances), [CONJ]() (1; 6% instances), [NUM]() (1; 6% instances), [PRON]() (1; 6% instances), [PUNCT]() (1; 6% instances), [VERB]() (1; 6% instances)
+

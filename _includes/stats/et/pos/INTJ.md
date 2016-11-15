@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` types:  <em>no, noh, oi, issand, tere, Ah, kurat, oh
 
 The 10 most frequent ambiguous lemmas: <em>noh</em> ([INTJ]() 36, [ADV]() 5), <em>issand</em> ([INTJ]() 14, [NOUN]() 5), <em>tere</em> ([INTJ]() 13, [NOUN]() 2), <em>ah</em> ([INTJ]() 12, [ADV]() 7), <em>kurat</em> ([NOUN]() 13, [INTJ]() 12), <em>oh</em> ([INTJ]() 10, [NOUN]() 1), <em>vaat</em> ([INTJ]() 5, [ADV]() 2, [NOUN]() 1), <em>hää</em> ([INTJ]() 2, [ADJ]() 1), <em>hüvasti</em> ([ADV]() 2, [INTJ]() 2), <em>jee</em> ([ADV]() 2, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>noh</em> ([INTJ]() 14, [ADV]() 3), <em>issand</em> ([INTJ]() 3, [NOUN]() 1), <em>tere</em> ([NOUN]() 2, [INTJ]() 1), <em>Ah</em> ([INTJ]() 12, [ADV]() 5), <em>kurat</em> ([INTJ]() 5, [NOUN]() 3), <em>vaat</em> ([ADV]() 1, [INTJ]() 1), <em>hüvasti</em> ([ADV]() 2, [INTJ]() 2), <em>Hommikust</em> ([INTJ]() 1, [NOUN]() 1), <em>palun</em> ([VERB]() 5, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>noh</em> ([INTJ]() 14, [ADV]() 3), <em>issand</em> ([INTJ]() 3, [NOUN]() 1), <em>tere</em> ([NOUN]() 2, [INTJ]() 1), <em>Ah</em> ([INTJ]() 12, [ADV]() 5), <em>kurat</em> ([INTJ]() 5, [NOUN]() 3), <em>vaat</em> ([ADV]() 1, [INTJ]() 1), <em>hüvasti</em> ([INTJ]() 2, [ADV]() 2), <em>Hommikust</em> ([NOUN]() 1, [INTJ]() 1), <em>palun</em> ([VERB]() 5, [INTJ]() 1)
 
 
 * <em>noh</em>
@@ -35,11 +35,11 @@ The 10 most frequent ambiguous types:  <em>noh</em> ([INTJ]() 14, [ADV]() 3), <e
   * [ADV]() 1: <em>Viimati olid nad <b>vaat</b> et ämmaemandaks meie vanasõidukiregistri sünni juures .</em>
   * [INTJ]() 1: <em>Leemet , Mall , Saare Juhan , Kõrtsmik , Ungru krahv - <b>vaat</b> nende isa olen ma ka !</em>
 * <em>hüvasti</em>
-  * [ADV]() 2: <em>Kui olime jõudnud kompromissini , vaatasin telefoni pealt kella ja jätsin <b>hüvasti</b> .</em>
   * [INTJ]() 2: <em>Politsei pressiesindaja kinnitusel oli mees oma eluga ise <b>hüvasti</b> jätnud .</em>
+  * [ADV]() 2: <em>Kui olime jõudnud kompromissini , vaatasin telefoni pealt kella ja jätsin <b>hüvasti</b> .</em>
 * <em>Hommikust</em>
-  * [INTJ]() 1: <em><b>Hommikust</b> Eesti , Soome ja Setumaa .</em>
   * [NOUN]() 1: <em><b>Hommikust</b> õhtuni liigutasime toole .</em>
+  * [INTJ]() 1: <em><b>Hommikust</b> Eesti , Soome ja Setumaa .</em>
 * <em>palun</em>
   * [VERB]() 5: <em>" Laske mul , <b>palun</b> , selgitada ! " ütlesin valjusti .</em>
   * [INTJ]() 1: <em>" Selgitage <b>palun</b> lühidalt , mis on blanko-idosseeritud puhas Pardakonossment ! "</em>

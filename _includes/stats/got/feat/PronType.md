@@ -51,7 +51,7 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/remnant.html">remnant</a>]--> PRON</tt> (27; 93%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (19; 76%),
 <tt>PRON --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (8; 80%),
-<tt>PRON --[<a href="../dep/mark.html">mark</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> ADV</tt> (1; 100%),
 <tt>ADV --[<a href="../dep/remnant.html">remnant</a>]--> ADV</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> ADV</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/mark.html">mark</a>]--> PRON</tt> (1; 100%).
 

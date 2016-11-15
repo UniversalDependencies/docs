@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 151 [fi-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (151; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (151; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (151; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (131; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (130; 86%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (89; 59%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (89; 59%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (89; 59%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (151; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (151; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (151; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (131; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (130; 86%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (89; 59%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (89; 59%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (89; 59%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
@@ -137,7 +137,7 @@ The most frequent other feature values with which `PROPN` and `Number[psor]` co-
 
 3 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `AUX` and `Number[psor]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 67%).
+The most frequent other feature values with which `AUX` and `Number[psor]` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 67%).
 
 `AUX` tokens may have the following values of `Number[psor]`:
 

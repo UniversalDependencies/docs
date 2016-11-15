@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `det`: [det:predet]().
 
-19091 nodes (7%) are attached to their parents as `det`.
+18678 nodes (8%) are attached to their parents as `det`.
 
-19036 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.65208737101252.
+18624 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.65033729521362.
 
-The following 17 pairs of parts of speech are connected with `det`: [en-pos/NOUN]()-[en-pos/DET]() (17178; 90% instances), [en-pos/PROPN]()-[en-pos/DET]() (1421; 7% instances), [en-pos/ADJ]()-[en-pos/DET]() (314; 2% instances), [en-pos/NUM]()-[en-pos/DET]() (57; 0% instances), [en-pos/PRON]()-[en-pos/DET]() (52; 0% instances), [en-pos/SYM]()-[en-pos/DET]() (20; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (14; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (13; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (8; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/DET]()-[en-pos/DET]() (2; 0% instances), [en-pos/DET]()-[en-pos/NUM]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (2; 0% instances), [en-pos/X]()-[en-pos/DET]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `det`: [en-pos/NOUN]()-[en-pos/DET]() (16846; 90% instances), [en-pos/PROPN]()-[en-pos/DET]() (1351; 7% instances), [en-pos/ADJ]()-[en-pos/DET]() (305; 2% instances), [en-pos/NUM]()-[en-pos/DET]() (57; 0% instances), [en-pos/PRON]()-[en-pos/DET]() (52; 0% instances), [en-pos/SYM]()-[en-pos/DET]() (19; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (13; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (13; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (8; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/DET]()-[en-pos/DET]() (2; 0% instances), [en-pos/DET]()-[en-pos/NUM]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (2; 0% instances), [en-pos/X]()-[en-pos/DET]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -86,7 +86,7 @@ There are 1 language-specific subtypes of `det`: [det:predet]().
 7252 instances of `det` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.38827889102388.
 
-The following 20 pairs of parts of speech are connected with `det`: [en-pos/NOUN]()-[en-pos/DET]() (6877; 94% instances), [en-pos/PROPN]()-[en-pos/DET]() (182; 2% instances), [en-pos/ADJ]()-[en-pos/DET]() (84; 1% instances), [en-pos/VERB]()-[en-pos/DET]() (47; 1% instances), [en-pos/PRON]()-[en-pos/DET]() (29; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (21; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (16; 0% instances), [en-pos/DET]()-[en-pos/DET]() (9; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (3; 0% instances), [en-pos/SYM]()-[en-pos/DET]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/ADP]()-[en-pos/DET]() (1; 0% instances), [en-pos/AUX]()-[en-pos/DET]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `det`: [en-pos/NOUN]()-[en-pos/DET]() (6874; 94% instances), [en-pos/PROPN]()-[en-pos/DET]() (182; 2% instances), [en-pos/ADJ]()-[en-pos/DET]() (84; 1% instances), [en-pos/VERB]()-[en-pos/DET]() (47; 1% instances), [en-pos/PRON]()-[en-pos/DET]() (40; 1% instances), [en-pos/NUM]()-[en-pos/DET]() (21; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (16; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (3; 0% instances), [en-pos/SYM]()-[en-pos/DET]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/ADP]()-[en-pos/DET]() (1; 0% instances), [en-pos/AUX]()-[en-pos/DET]() (1; 0% instances), [en-pos/DET]()-[en-pos/DET]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -109,7 +109,7 @@ The following 20 pairs of parts of speech are connected with `det`: [en-pos/NOUN
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~

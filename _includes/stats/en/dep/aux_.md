@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-8093 nodes (3%) are attached to their parents as `aux`.
+7964 nodes (3%) are attached to their parents as `aux`.
 
-8066 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.71271469170888.
+7937 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.71371170266198.
 
-The following 17 pairs of parts of speech are connected with `aux`: [en-pos/VERB]()-[en-pos/AUX]() (7258; 90% instances), [en-pos/ADJ]()-[en-pos/AUX]() (410; 5% instances), [en-pos/NOUN]()-[en-pos/AUX]() (252; 3% instances), [en-pos/ADV]()-[en-pos/AUX]() (59; 1% instances), [en-pos/PROPN]()-[en-pos/AUX]() (33; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (24; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (14; 0% instances), [en-pos/NUM]()-[en-pos/AUX]() (11; 0% instances), [en-pos/PRON]()-[en-pos/AUX]() (10; 0% instances), [en-pos/ADP]()-[en-pos/AUX]() (7; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (5; 0% instances), [en-pos/AUX]()-[en-pos/AUX]() (3; 0% instances), [en-pos/DET]()-[en-pos/AUX]() (3; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances), [en-pos/SYM]()-[en-pos/AUX]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `aux`: [en-pos/VERB]()-[en-pos/AUX]() (7136; 90% instances), [en-pos/ADJ]()-[en-pos/AUX]() (405; 5% instances), [en-pos/NOUN]()-[en-pos/AUX]() (242; 3% instances), [en-pos/ADV]()-[en-pos/AUX]() (58; 1% instances), [en-pos/PROPN]()-[en-pos/AUX]() (33; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (24; 0% instances), [en-pos/PRON]()-[en-pos/AUX]() (19; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (14; 0% instances), [en-pos/NUM]()-[en-pos/AUX]() (11; 0% instances), [en-pos/ADP]()-[en-pos/AUX]() (7; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (5; 0% instances), [en-pos/AUX]()-[en-pos/AUX]() (3; 0% instances), [en-pos/DET]()-[en-pos/AUX]() (3; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances), [en-pos/SYM]()-[en-pos/AUX]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -83,7 +83,7 @@ This relation is universal.
 3996 instances of `aux` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.55472450760409.
 
-The following 12 pairs of parts of speech are connected with `aux`: [en-pos/VERB]()-[en-pos/AUX]() (3545; 88% instances), [en-pos/ADJ]()-[en-pos/AUX]() (278; 7% instances), [en-pos/NOUN]()-[en-pos/AUX]() (149; 4% instances), [en-pos/PROPN]()-[en-pos/AUX]() (13; 0% instances), [en-pos/ADV]()-[en-pos/AUX]() (9; 0% instances), [en-pos/PRON]()-[en-pos/AUX]() (5; 0% instances), [en-pos/DET]()-[en-pos/AUX]() (4; 0% instances), [en-pos/NUM]()-[en-pos/AUX]() (3; 0% instances), [en-pos/AUX]()-[en-pos/AUX]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PART]()-[en-pos/AUX]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `aux`: [en-pos/VERB]()-[en-pos/AUX]() (3545; 88% instances), [en-pos/ADJ]()-[en-pos/AUX]() (278; 7% instances), [en-pos/NOUN]()-[en-pos/AUX]() (149; 4% instances), [en-pos/PROPN]()-[en-pos/AUX]() (13; 0% instances), [en-pos/ADV]()-[en-pos/AUX]() (9; 0% instances), [en-pos/PRON]()-[en-pos/AUX]() (7; 0% instances), [en-pos/NUM]()-[en-pos/AUX]() (3; 0% instances), [en-pos/AUX]()-[en-pos/AUX]() (2; 0% instances), [en-pos/DET]()-[en-pos/AUX]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PART]()-[en-pos/AUX]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -113,11 +113,11 @@ The following 12 pairs of parts of speech are connected with `aux`: [en-pos/VERB
 19	_	_	AUX	VBP	_	21	aux	_	_
 20	_	_	PRON	PRP	_	21	nsubj	_	_
 21	_	_	VERB	VB	_	6	parataxis	_	_
-22	_	_	NOUN	NN	_	23	nsubj	_	_
+22	_	_	PRON	NN	_	23	nsubj	_	_
 23	_	_	VERB	VBP	_	21	ccomp	_	_
 24	_	_	PRON	PRP	_	23	iobj	_	_
 25	_	_	ADP	RP	_	23	compound:prt	_	_
-26	_	_	NOUN	NN	_	23	dobj	_	_
+26	_	_	PRON	NN	_	23	dobj	_	_
 27	_	_	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -150,7 +150,7 @@ The following 12 pairs of parts of speech are connected with `aux`: [en-pos/VERB
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 aux	color:blue
-1	_	_	DET	DT	_	5	nsubj	_	_
+1	_	_	PRON	DT	_	5	nsubj	_	_
 2	_	_	AUX	MD	_	5	aux	_	_
 3	_	_	VERB	VB	_	5	cop	_	_
 4	_	_	DET	DT	_	5	det	_	_

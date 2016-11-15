@@ -58,8 +58,8 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (415; 97%),
 <tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (63; 80%),
 <tt>SYM --[<a href="../dep/conj.html">conj</a>]--> SYM</tt> (23; 100%),
-<tt>SYM --[<a href="../dep/appos.html">appos</a>]--> SYM</tt> (6; 86%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (6; 67%),
+<tt>SYM --[<a href="../dep/appos.html">appos</a>]--> SYM</tt> (6; 86%),
 <tt>SYM --[<a href="../dep/advmod.html">advmod</a>]--> SYM</tt> (3; 100%),
 <tt>SYM --[<a href="../dep/advcl.html">advcl</a>]--> SYM</tt> (1; 100%).
 

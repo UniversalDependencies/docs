@@ -11,7 +11,7 @@ The 10 most frequent `ADV` lemmas: <em>ni, þan, jah, auk, nu, swe, unte, swaswe
 
 The 10 most frequent `ADV` types:  <em>ni, þan, jah, auk, nu, swe, unte, swaswe, swa, aftra</em>
 
-The 10 most frequent ambiguous lemmas: <em>ni</em> ([ADV]() 1235, [CONJ]() 21), <em>þan</em> ([ADV]() 494, [SCONJ]() 71), <em>jah</em> ([CONJ]() 3527, [ADV]() 341), <em>swe</em> ([ADV]() 155, [SCONJ]() 12), <em>unte</em> ([SCONJ]() 211, [ADV]() 155), <em>swaswe</em> ([ADV]() 151, [SCONJ]() 18), <em>þanuh</em> ([ADV]() 84, [PRON]() 1, [SCONJ]() 1), <em>nih</em> ([CONJ]() 67, [ADV]() 62, [SCONJ]() 5), <em>þau</em> ([ADV]() 45, [CONJ]() 37, [SCONJ]() 1), <em>duþe</em> ([ADV]() 40, [SCONJ]() 8)
+The 10 most frequent ambiguous lemmas: <em>ni</em> ([ADV]() 1235, [CONJ]() 21), <em>þan</em> ([ADV]() 494, [SCONJ]() 71), <em>jah</em> ([CONJ]() 3527, [ADV]() 341), <em>swe</em> ([ADV]() 155, [SCONJ]() 12), <em>unte</em> ([SCONJ]() 211, [ADV]() 155), <em>swaswe</em> ([ADV]() 151, [SCONJ]() 18), <em>þanuh</em> ([ADV]() 84, [SCONJ]() 1, [PRON]() 1), <em>nih</em> ([CONJ]() 67, [ADV]() 62, [SCONJ]() 5), <em>þau</em> ([ADV]() 45, [CONJ]() 37, [SCONJ]() 1), <em>duþe</em> ([ADV]() 40, [SCONJ]() 8)
 
 The 10 most frequent ambiguous types:  <em>ni</em> ([ADV]() 1230, [CONJ]() 21), <em>þan</em> ([ADV]() 494, [SCONJ]() 71), <em>jah</em> ([CONJ]() 3435, [ADV]() 329), <em>swe</em> ([ADV]() 155, [SCONJ]() 12), <em>unte</em> ([SCONJ]() 210, [ADV]() 154), <em>swaswe</em> ([ADV]() 151, [SCONJ]() 18), <em>þanuh</em> ([ADV]() 83, [ADJ]() 3, [PRON]() 1), <em>nih</em> ([CONJ]() 64, [ADV]() 47, [SCONJ]() 5), <em>þau</em> ([ADV]() 42, [CONJ]() 35, [SCONJ]() 1), <em>ibai</em> ([ADV]() 39, [SCONJ]() 20)
 

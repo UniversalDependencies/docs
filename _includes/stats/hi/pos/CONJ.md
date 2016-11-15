@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  और, व, लेकिन, जबकि, 
 
 The 10 most frequent ambiguous lemmas: और ([CONJ]() 3924, [DET]() 149, [PROPN]() 25, [ADV]() 19, [ADJ]() 15, [NOUN]() 8, [PRON]() 1), व ([CONJ]() 798, [PROPN]() 11, [NOUN]() 3), पर ([ADP]() 4036, [CONJ]() 108, [NOUN]() 3), एवं ([CONJ]() 78, [PROPN]() 47, [NOUN]() 12), लिहाजा ([ADV]() 21, [CONJ]() 10)
 
-The 10 most frequent ambiguous types:  और ([CONJ]() 3924, [DET]() 149, [PROPN]() 25, [ADV]() 19, [ADJ]() 15, [NOUN]() 8, [PRON]() 1), व ([CONJ]() 798, [PROPN]() 11, [NOUN]() 3), पर ([ADP]() 4036, [CONJ]() 108, [NOUN]() 3), एवं ([CONJ]() 78, [PROPN]() 47, [NOUN]() 12), लिहाजा ([ADV]() 20, [CONJ]() 9), लिहाज़ा ([CONJ]() 1, [ADV]() 1)
+The 10 most frequent ambiguous types:  और ([CONJ]() 3924, [DET]() 149, [PROPN]() 25, [ADV]() 19, [ADJ]() 15, [NOUN]() 8, [PRON]() 1), व ([CONJ]() 798, [PROPN]() 11, [NOUN]() 3), पर ([ADP]() 4036, [CONJ]() 108, [NOUN]() 3), एवं ([CONJ]() 78, [PROPN]() 47, [NOUN]() 12), लिहाजा ([ADV]() 20, [CONJ]() 9), लिहाज़ा ([ADV]() 1, [CONJ]() 1)
 
 
 * और
@@ -40,8 +40,8 @@ The 10 most frequent ambiguous types:  और ([CONJ]() 3924, [DET]() 149, [PROP
   * [ADV]() 20: <b>लिहाजा</b> उसे अभी जेपीसी के गठन का कोई औचित्य नहीं दिखता ।
   * [CONJ]() 9: <b>लिहाजा</b> , अब किसी तरह का मतभेद नहीं है ।
 * लिहाज़ा
-  * [CONJ]() 1: <b>लिहाज़ा</b> , मेहर नकद रुपये की जगह उतनी ही कीमत के सोने या चांदी के वजन के रूप में तय की जानी चाहिए ।
   * [ADV]() 1: <b>लिहाज़ा</b> इस यात्रा के लिए पार्टी में किसी तरह का कोई विवाद नहीं है ।
+  * [CONJ]() 1: <b>लिहाज़ा</b> , मेहर नकद रुपये की जगह उतनी ही कीमत के सोने या चांदी के वजन के रूप में तय की जानी चाहिए ।
 
 ## Morphology
 

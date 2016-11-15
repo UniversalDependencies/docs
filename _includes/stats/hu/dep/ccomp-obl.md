@@ -69,37 +69,25 @@ The following 11 pairs of parts of speech are connected with `ccomp:obl`: [hu-po
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 11 ccomp:obl	color:blue
-1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	3	nsubj	_	_
-2	annak	az	PRON	_	Case=Dat|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	3	nmod:obl	_	_
-3	tudható	tudható	ADJ	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPres	0	root	_	_
-4	be	be	ADV	_	Degree=Pos	3	compound:preverb	_	_
-5	,	,	PUNCT	_	_	3	punct	_	_
-6	hogy	hogy	SCONJ	_	_	11	mark	_	_
-7	a	a	DET	_	Definite=Def|PronType=Art	9	det	_	_
-8	meggyújtott	meggyújtott	ADJ	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPast	9	amod:att	_	_
-9	gyertyát	gyertya	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	11	dobj	_	_
-10	magára	maga	PRON	_	Case=Sub|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|Reflex=Yes	11	nmod:obl	_	_
-11	hagyják	hagy	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp:obl	_	_
-12	a	a	DET	_	Definite=Def|PronType=Art	13	det	_	_
-13	dolgozók	dolgozó	NOUN	_	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None	11	nsubj	_	_
-14	,	,	PUNCT	_	_	11	punct	_	_
-15	az	az	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	17	nsubj	_	_
-16	időközben	időközben	ADV	_	_	17	advmod:tlocy	_	_
-17	végigég	végig+ég	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	_
-18	,	,	PUNCT	_	_	11	punct	_	_
-19	és	és	CONJ	_	_	11	cc	_	_
-20	lángra	láng	NOUN	_	Case=Sub|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	21	nmod:obl	_	_
-21	lobbantja	lobbant	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	_
-22	a	a	DET	_	Definite=Def|PronType=Art	23	det	_	_
-23	koszorú	koszorú	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	25	nmod:att	_	_
-24	száraz	száraz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	25	amod:att	_	_
-25	anyagát	anyag	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	21	dobj	_	_
-26	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 13 ccomp:obl	color:blue
+1	Bozóky	Bozóky	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	2	nsubj	_	_
+2	beszélt	beszél	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	arról	az	PRON	_	Case=Del|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	2	nmod:obl	_	_
+4	is	is	CONJ	_	_	3	cc	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	hogy	hogy	SCONJ	_	_	13	mark	_	_
+7	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	szövetség	szövetség	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	10	nmod:att	_	_
+9	kifizetetlen	kifizetetlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	10	amod:att	_	_
+10	számlatartozása	számlatartozás	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	_
+11	200-300	200-300	NUM	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	12	compound	_	_
+12	millió	millió	NUM	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	13	nummod	_	_
+13	forint	forint	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	2	ccomp:obl	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

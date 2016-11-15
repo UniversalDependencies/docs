@@ -78,37 +78,64 @@ The following 4 pairs of parts of speech are connected with `acl:inf`: [he-pos/N
 
 
 ~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 23 acl:inf	color:blue
-1	יש	_	VERB	VERB	HebExistential=True	0	root	_	_
-2	ל	_	ADP	ADP	_	4	case	_	_
-3	ה_	_	DET	DET	PronType=Art	4	det:def	_	_
-4	ליכוד	_	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
-5	אומץ	_	NOUN	NOUN	Gender=Masc|Number=Sing	1	nsubj	_	_
-6	להתעמת	_	VERB	VERB	HebBinyan=HITPAEL|VerbForm=Inf	5	acl:inf	_	_
-7	עם	_	ADP	ADP	_	8	case	_	_
-8	ארה"ב	_	PROPN	PROPN	_	6	iobj	_	_
-9	ו	_	CONJ	CONJ	_	8	cc	_	_
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 20 acl:inf	color:blue
+1	חוגים	_	NOUN	NOUN	Gender=Masc|Number=Plur	7	nsubj	_	_
+2	בכירים	_	ADJ	ADJ	Gender=Masc|Number=Plur	1	amod	_	_
+3	ב	_	ADP	ADP	_	4	case	_	_
+4	משרד	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	1	nmod	_	_
+5	ה	_	DET	DET	PronType=Art	6	det:def	_	_
+6	ביטחון	_	NOUN	NOUN	Gender=Masc|Number=Sing	4	nmod:smixut	_	_
+7	טענו	_	VERB	VERB	Gender=Fem,Masc|HebBinyan=PAAL|Number=Plur|Person=3|Tense=Past	0	root	_	_
+8	ב	_	ADP	ADP	_	9	case	_	_
+9	סוף	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	7	nmod	_	_
 10	ה	_	DET	DET	PronType=Art	11	det:def	_	_
-11	או"ם	_	PROPN	PROPN	_	8	conj	_	_
-12	,	_	PUNCT	PUNCT	_	1	punct	_	_
-13	ו	_	CONJ	CONJ	_	1	cc	_	_
-14	בעיקר	_	ADV	ADV	_	15	advmod	_	_
-15	יש	_	VERB	VERB	HebExistential=True	1	conj	_	_
-16	לו	_	ADP	ADP	_	17	case	_	_
-17	הוא_	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
-18	אומץ	_	NOUN	NOUN	Gender=Masc|Number=Sing	15	nsubj	_	_
-19	לצאת	_	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf	18	acl:inf	_	_
-20	ל	_	ADP	ADP	_	22	case	_	_
-21	עוד	_	ADV	ADV	_	22	det	_	_
-22	מלחמה	_	NOUN	NOUN	Gender=Fem|Number=Sing	19	nmod	_	_
-23	רק	_	ADV	ADV	_	18	acl:inf	_	_
-24	לא	_	ADV	ADV	HebSource=ConvUncertainHead|Negative=Neg	23	dep	_	_
-25	לדבר	_	VERB	VERB	HebBinyan=PIEL|HebSource=ConvUncertainHead|VerbForm=Inf	23	dep	_	_
-26	.	_	PUNCT	PUNCT	_	1	punct	_	_
+11	שבוע	_	NOUN	NOUN	Gender=Masc|Number=Sing	9	nmod:smixut	_	_
+12	,	_	PUNCT	PUNCT	_	7	punct	_	_
+13	כי	_	SCONJ	SCONJ	_	14	mark	_	_
+14	אין	_	VERB	VERB	HebExistential=True	7	ccomp	_	_
+15	כל	_	DET	DET	Definite=Red	16	det	_	_
+16	צורך	_	NOUN	NOUN	Gender=Masc|Number=Sing	14	nsubj	_	_
+17	להגיע	_	VERB	VERB	HebBinyan=HIFIL|HebSource=ConvUncertainHead|VerbForm=Inf	20	dep	_	_
+18	עם	_	ADP	ADP	_	20	case	_	_
+19	ה	_	X	X	Xtra=Junk	20	dep	_	_
+20	אמריקאים	_	X	X	Xtra=Junk	16	acl:inf	_	_
+21	ל	_	ADP	ADP	_	22	case	_	_
+22	תיאום	_	NOUN	NOUN	Gender=Masc|Number=Sing	20	nmod	_	_
+23	מראש	_	ADV	ADV	HebSource=ConvUncertainHead	22	dep	_	_
+24	,	_	PUNCT	PUNCT	_	20	punct	_	_
+25	ב	_	ADP	ADP	_	27	case	_	_
+26	ה_	_	DET	DET	PronType=Art	27	det:def	_	_
+27	דרג	_	NOUN	NOUN	Gender=Masc|Number=Sing	20	nmod	_	_
+28	ה	_	DET	DET	PronType=Art	29	det:def	_	_
+29	מדיני	_	ADJ	ADJ	Gender=Masc|Number=Sing	27	amod	_	_
+30	ה	_	DET	DET	PronType=Art	31	det:def	_	_
+31	עליון	_	ADJ	ADJ	Gender=Masc|Number=Sing	27	amod	_	_
+32	,	_	PUNCT	PUNCT	_	20	punct	_	_
+33	ב	_	ADP	ADP	_	36	case	_	_
+34	כל	_	DET	DET	Definite=Red	36	dep	_	_
+35	ה	_	SCONJ	SCONJ	_	36	mark	_	_
+36	אמור	_	VERB	VERB	Gender=Masc|Mood=Imp|Number=Sing|Person=2	20	nmod	_	_
+37	ב	_	X	X	Xtra=Junk	39	case	_	_
+38	ה_	_	X	X	Xtra=Junk	39	dep	_	_
+39	מהלכים	_	X	X	Xtra=Junk	36	advmod	_	_
+40	ה	_	DET	DET	PronType=Art	41	det:def	_	_
+41	אסטראטגיים	_	ADJ	ADJ	Gender=Masc|Number=Plur	39	amod	_	_
+42	של	_	PART	PART	Case=Gen	45	case:gen	_	_
+43	שתי	_	NUM	NUM	Definite=Red|Gender=Fem|Number=Plur	45	nummod	_	_
+44	ה	_	DET	DET	PronType=Art	45	det:def	_	_
+45	מדינות	_	NOUN	NOUN	Gender=Fem|Number=Plur	39	nmod	_	_
+46	,	_	PUNCT	PUNCT	_	39	punct	_	_
+47	ה	_	DET	DET	PronType=Art	48	dep	_	_
+48	צפויים	_	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=1,2,3|VerbForm=Part	39	acl	_	_
+49	ב	_	ADP	ADP	_	50	case	_	_
+50	מקרה	_	NOUN	NOUN	Gender=Masc|Number=Sing	48	nmod	_	_
+51	של	_	PART	PART	Case=Gen	52	case:gen	_	_
+52	התלקחות	_	NOUN	NOUN	Gender=Fem|Number=Sing	50	nmod:poss	_	_
+53	.	_	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 

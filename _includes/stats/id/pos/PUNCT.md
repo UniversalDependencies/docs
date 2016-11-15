@@ -13,7 +13,7 @@ The 10 most frequent `PUNCT` types:  <em>,, ., -, ), (, ?, ", :, ', ;</em>
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>.</em> ([PUNCT]() 5637, [PROPN]() 1), <em>'</em> ([PUNCT]() 161, [PROPN]() 2, [NOUN]() 1), <em>–</em> ([PUNCT]() 53, [NUM]() 1), <em>''</em> ([PUNCT]() 14, [PROPN]() 2, [NOUN]() 1), <em>—</em> ([PUNCT]() 11, [NOUN]() 1), <em>~</em> ([PUNCT]() 2, [ADJ]() 1), <em>&amp;nbsp</em> ([X]() 1, [PUNCT]() 1, [NOUN]() 1), <em>banyak</em> ([ADV]() 86, [DET]() 33, [ADJ]() 2, [NOUN]() 1, [PUNCT]() 1), <em>habis</em> ([ADJ]() 2, [ADV]() 1, [PUNCT]() 1), <em>mengenai</em> ([ADP]() 30, [VERB]() 6, [PUNCT]() 1)
+The 10 most frequent ambiguous types:  <em>.</em> ([PUNCT]() 5637, [PROPN]() 1), <em>'</em> ([PUNCT]() 161, [PROPN]() 2, [NOUN]() 1), <em>–</em> ([PUNCT]() 53, [NUM]() 1), <em>''</em> ([PUNCT]() 14, [PROPN]() 2, [NOUN]() 1), <em>—</em> ([PUNCT]() 11, [NOUN]() 1), <em>~</em> ([PUNCT]() 2, [ADJ]() 1), <em>&amp;nbsp</em> ([NOUN]() 1, [PUNCT]() 1, [X]() 1), <em>banyak</em> ([ADV]() 86, [DET]() 33, [ADJ]() 2, [PUNCT]() 1, [NOUN]() 1), <em>habis</em> ([ADJ]() 2, [PUNCT]() 1, [ADV]() 1), <em>mengenai</em> ([ADP]() 30, [VERB]() 6, [PUNCT]() 1)
 
 
 * <em>.</em>
@@ -37,19 +37,19 @@ The 10 most frequent ambiguous types:  <em>.</em> ([PUNCT]() 5637, [PROPN]() 1),
   * [PUNCT]() 2: <em>( <b>~</b> tahun 29 M ) Pembagian isi pasal ( disertai referensi silang dengan bagian Alkitab lain ) : Inilah permulaan Injil tentang Yesus Kristus , Anak Allah .</em>
   * [ADJ]() 1: <em>Organisme mikroaerofil adalah suatu tipe organisme yang membutuhkan oksigen untuk tetapi dalam jumlah yang lebih sedikit daripada kadar di atmosfer bumi ( yang memiliki konsentrasi oksigen <b>~</b> 20 % ) . Contoh organisme ini adalah Borrelia burgdorferi , spesies dari bakteri spirochaete yang memnyebabkan penyakit Lyme ( Lyme disease ) pada manusia , dan Helicobacter pylori , spesies proteobacteria yang dianggap menyebabkan tukak pada saluran pencernaan ( peptic ulcer ) dan beberapa jenis gastritis ( peradangan lambung , yang sering dikenal dengan sebutan maag ) .</em>
 * <em>&amp;nbsp</em>
-  * [X]() 1: <em>Kota ini memiliki luas wilayah 3.849 <b>&amp;nbsp</b> ; km² dan populasi 17.440 jiwa ( 2004 ) .</em>
-  * [PUNCT]() 1: <em>Luas total area adalah 65.75 <b>&amp;nbsp</b> ; km² .</em>
   * [NOUN]() 1: <em>Tenggelamnya RMS Titanic terjadi pada malam 14 April sampai pagi 15 April 1912 di Samudra Atlantik Utara , empat hari setelah berangkat dari Southampton dalam pelayaran perdananya menuju New York City . Kapal super terbesar yang beroperasi pada masa itu , Titanic , mengangkut sekitar 2.224 <b>&amp;nbsp</b> ; orang ketika menabrak gunung es pada pukul 23 : 40 ( waktu kapal ) pada hari Minggu , 14&amp;nbsp ; April 1912 .</em>
+  * [PUNCT]() 1: <em>Luas total area adalah 65.75 <b>&amp;nbsp</b> ; km² .</em>
+  * [X]() 1: <em>Kota ini memiliki luas wilayah 3.849 <b>&amp;nbsp</b> ; km² dan populasi 17.440 jiwa ( 2004 ) .</em>
 * <em>banyak</em>
   * [ADV]() 86: <em>Desain Romulan <b>banyak</b> terinspirasi oleh desainer Italia Carlo Scarpa .</em>
   * [DET]() 33: <em>Tetapi Ia berkata kepada mereka : `` Berapa <b>banyak</b> roti yang ada padamu ?</em>
   * [ADJ]() 2: <em>Bila pengguna ingin berbahasa Indonesia , dapat bergabung dengan # bawel , # pondok , # indo , # puncak , dan masih <b>banyak</b> lagi .</em>
-  * [NOUN]() 1: <em>Di album Sgt . Pepper's Lonely Hearts Club Band , band ini juga menggunakan beragam alat musik India dalam lagu ' Within You Without You ' , klarinet di ' When I ' m Sixty - Four ' , alat musik gesek di ' She's Leaving Home ' , harpsicord di ' Fixing a Hole ' , harmonium di ' Being the Benefit of Mr . Kite ' dan masih <b>banyak</b> lagi .</em>
   * [PUNCT]() 1: <em>Saat burung kembali ke koloni , ia akan menari dengan <b>banyak</b> pasangan , namun setelah beberapa tahun ia akan memilih satu sebagai pasangan yang akan bertahan seumur hidup .</em>
+  * [NOUN]() 1: <em>Di album Sgt . Pepper's Lonely Hearts Club Band , band ini juga menggunakan beragam alat musik India dalam lagu ' Within You Without You ' , klarinet di ' When I ' m Sixty - Four ' , alat musik gesek di ' She's Leaving Home ' , harpsicord di ' Fixing a Hole ' , harmonium di ' Being the Benefit of Mr . Kite ' dan masih <b>banyak</b> lagi .</em>
 * <em>habis</em>
   * [ADJ]() 2: <em>Pertempuran berlangsung seimbang tapi tidak berlangsung <b>habis</b> - habisan karena beberapa orang komandan kubu Pasukan Barat seperti Tani Morimoto pernah berguru kepada Hosokawa Yūsai yang dikenal ahli dalam seni menulis Kadō .</em>
-  * [ADV]() 1: <em>Amazon meluncurkan generasi pertama Kindle pada 19 November 2007 dengan harga US $ 399 dan <b>habis</b> terjual dalam waktu 5 setengah jam .</em>
   * [PUNCT]() 1: <em>Jadi , ketika para Saint Emas itu terbaring tak berdaya karena batas waktu mereka hampir <b>habis</b> , Zelos melampiaskan kekesalannya pada Camus .</em>
+  * [ADV]() 1: <em>Amazon meluncurkan generasi pertama Kindle pada 19 November 2007 dengan harga US $ 399 dan <b>habis</b> terjual dalam waktu 5 setengah jam .</em>
 * <em>mengenai</em>
   * [ADP]() 30: <em>Desainer Herman F . ZImmerman pernah berbicara <b>mengenai</b> desain interior .</em>
   * [VERB]() 6: <em>Sebuah rudal <b>mengenai</b> sebuah gedung sekolah kosong di Beersheba .</em>

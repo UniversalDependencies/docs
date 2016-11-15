@@ -80,3 +80,78 @@ Children of `NUM` nodes are attached using 15 different relations: [gl-dep/punct
 
 Children of `NUM` nodes belong to 13 different parts of speech: [PUNCT]() (570; 24% instances), [DET]() (542; 23% instances), [ADP]() (429; 18% instances), [SYM]() (392; 17% instances), [NUM]() (171; 7% instances), [CONJ]() (106; 4% instances), [NOUN]() (45; 2% instances), [ADV]() (39; 2% instances), [VERB]() (30; 1% instances), [ADJ]() (24; 1% instances), [PROPN]() (20; 1% instances), [PRON]() (3; 0% instances), [SCONJ]() (3; 0% instances)
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+There are 118 `NUM` lemmas (3%), 126 `NUM` types (2%) and 248 `NUM` tokens (1%).
+Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.
+
+The 10 most frequent `NUM` lemmas: <em>primeiro, dous, un, catro, tres, segundo, dez, cinco, terceiro, 1990</em>
+
+The 10 most frequent `NUM` types:  <em>primeira, catro, dous, un, tres, dúas, primeiro, dez, segunda, cinco</em>
+
+The 10 most frequent ambiguous lemmas: <em>primeiro</em> ([NUM]() 22, [ADV]() 2), <em>un</em> ([DET]() 452, [PRON]() 26, [NUM]() 11), <em>segundo</em> ([NUM]() 7, [ADP]() 6), <em>doce</em> ([NUM]() 2, [ADJ]() 1)
+
+The 10 most frequent ambiguous types:  <em>un</em> ([DET]() 253, [PRON]() 15, [NUM]() 10), <em>primeiro</em> ([NUM]() 7, [ADV]() 2), <em>doce</em> ([NUM]() 2, [ADJ]() 1), <em>segundo</em> ([ADP]() 6, [NUM]() 1), <em>unha</em> ([DET]() 179, [PRON]() 11, [NUM]() 1)
+
+
+* <em>un</em>
+  * [DET]() 253: <em>discutir que é <b>un</b> clásico .</em>
+  * [PRON]() 15: <em><b>un</b> de eles é o de Celulosas .</em>
+  * [NUM]() 10: <em>menos que agora , se é <b>un</b> cuarto de hora para un recado rápido .</em>
+* <em>primeiro</em>
+  * [NUM]() 7: <em>reclama o <b>primeiro</b> posto en a lista de A_Coruña a o Parlamento</em>
+  * [ADV]() 2: <em>o meu home ocupou un destino diplomático en A_China <b>primeiro</b> e logo en O_Xapón .</em>
+* <em>doce</em>
+  * [NUM]() 2: <em>con trece candidaturas parte O_ano_da_carracha de Xurxo_Coira e con <b>doce</b> A_promesa .</em>
+  * [ADJ]() 1: <em>a maioría falaba de a fatalidade de o mar , de o mal tempo , de o saneamento de as rías , de a auga <b>doce</b> , mais a palabra Prestige semellaba ser unha palabra maldita .</em>
+* <em>segundo</em>
+  * [ADP]() 6: <em><b>segundo</b> Salgado , " necesitabamos esta organización en unha profesión de asalariados como é a nosa " .</em>
+  * [NUM]() 1: <em>esa cooperación estendeu se tamén a outras iniciativas como a modificación de o proxecto de o <b>segundo</b> cinto de circunvalación para que incluíse un acceso directo a Balaídos ou o debuxo en o novo PXOM de unha superficie industrial que lle facilitase a a Zona_Franca a ampliación de o reducido polígono onde está ubicada a factoría automobilística .</em>
+* <em>unha</em>
+  * [DET]() 179: <em>Walesa critica <b>unha</b> emisora católica</em>
+  * [PRON]() 11: <em>a familiaridade é <b>unha</b> de elas .</em>
+  * [NUM]() 1: <em>pero seguramente máis que agora , por <b>unha</b> hora ou máis .</em>
+
+## Morphology
+
+The form / lemma ratio of `NUM` is 1.067797 (the average of all parts of speech is 1.374140).
+
+The 1st highest number of forms (4) was observed with the lemma “primeiro”: <em>primeira, primeiras, primeiro, primeiros</em>.
+
+The 2nd highest number of forms (3) was observed with the lemma “terceiro”: <em>terceira, terceiras, terceiro</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “dous”: <em>dous, dúas</em>.
+
+`NUM` occurs with 3 features: [gl-feat/Gender]() (248; 100% instances), [gl-feat/NumType]() (248; 100% instances), [gl-feat/Number]() (248; 100% instances)
+
+`NUM` occurs with 7 feature-value pairs: `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`
+
+`NUM` occurs with 9 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing|NumType=Card` (104 tokens).
+Examples: <em>un, 1990, 1917, 1999, 2018, 25, 28, 1, 17, 1975</em>
+
+
+## Relations
+
+`NUM` nodes are attached to their parents using 10 different relations: [gl-dep/nummod]() (145; 58% instances), [gl-dep/nmod]() (73; 29% instances), [gl-dep/conj]() (18; 7% instances), [gl-dep/dobj]() (3; 1% instances), [gl-dep/nsubj]() (3; 1% instances), [gl-dep/root]() (2; 1% instances), [gl-dep/appos]() (1; 0% instances), [gl-dep/compound]() (1; 0% instances), [gl-dep/dep]() (1; 0% instances), [gl-dep/remnant]() (1; 0% instances)
+
+Parents of `NUM` nodes belong to 10 different parts of speech: [NOUN]() (163; 66% instances), [VERB]() (42; 17% instances), [NUM]() (18; 7% instances), [PROPN]() (17; 7% instances), [PRON]() (2; 1% instances), [ROOT]() (2; 1% instances), [ADJ]() (1; 0% instances), [ADP]() (1; 0% instances), [ADV]() (1; 0% instances), [SYM]() (1; 0% instances)
+
+145 (58%) `NUM` nodes are leaves.
+
+40 (16%) `NUM` nodes have one child.
+
+36 (15%) `NUM` nodes have two children.
+
+27 (11%) `NUM` nodes have three or more children.
+
+The highest child degree of a `NUM` node is 11.
+
+Children of `NUM` nodes are attached using 13 different relations: [gl-dep/punct]() (47; 21% instances), [gl-dep/case]() (46; 21% instances), [gl-dep/det]() (37; 17% instances), [gl-dep/nmod]() (35; 16% instances), [gl-dep/conj]() (17; 8% instances), [gl-dep/advmod]() (11; 5% instances), [gl-dep/cc]() (11; 5% instances), [gl-dep/amod]() (7; 3% instances), [gl-dep/appos]() (3; 1% instances), [gl-dep/cop]() (2; 1% instances), [gl-dep/acl]() (1; 0% instances), [gl-dep/nsubj]() (1; 0% instances), [gl-dep/nummod]() (1; 0% instances)
+
+Children of `NUM` nodes belong to 10 different parts of speech: [PUNCT]() (47; 21% instances), [ADP]() (46; 21% instances), [DET]() (37; 17% instances), [NOUN]() (31; 14% instances), [NUM]() (18; 8% instances), [ADV]() (11; 5% instances), [CONJ]() (11; 5% instances), [PROPN]() (8; 4% instances), [ADJ]() (7; 3% instances), [VERB]() (3; 1% instances)
+

@@ -2,6 +2,75 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+9494 nodes (10%) are attached to their parents as `root`.
+
+9494 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.6884348009269.
+
+The following 9 pairs of parts of speech are connected with `root`: [ja-pos/ROOT]()-[ja-pos/VERB]() (5899; 62% instances), [ja-pos/ROOT]()-[ja-pos/NOUN]() (2989; 31% instances), [ja-pos/ROOT]()-[ja-pos/ADJ]() (412; 4% instances), [ja-pos/ROOT]()-[ja-pos/NUM]() (170; 2% instances), [ja-pos/ROOT]()-[ja-pos/PRON]() (14; 0% instances), [ja-pos/ROOT]()-[ja-pos/X]() (5; 0% instances), [ja-pos/ROOT]()-[ja-pos/ADV]() (2; 0% instances), [ja-pos/ROOT]()-[ja-pos/PART]() (2; 0% instances), [ja-pos/ROOT]()-[ja-pos/CONJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 9 root	color:blue
+1	ただし	_	ADV	ADV	_	9	advmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
+4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
+8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 4 root	color:blue
+1	北条実政（ほうじょうさねまさ）は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
+2	、	_	PUNCT	.	_	1	punct	_	_
+3	鎌倉時代中・後期の	_	NOUN	NOUN-NOUN-POSTP	_	4	nmod	_	_
+4	武将	_	NOUN	NOUN	_	0	root	_	_
+5	、	_	PUNCT	.	_	4	punct	_	_
+6	元寇	_	NOUN	NOUN	_	8	appos	_	_
+7	(弘安の	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
+8	役)の	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
+9	日本軍総司令官。	_	NOUN	NOUN	_	4	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 5 root	color:blue
+1	姉と	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
+2	同じ	_	ADJ	ADJ	_	3	acl:relcl	_	_
+3	先生だったので	_	NOUN	NOUN-VERB-AUX-CONJ	_	5	advcl	_	_
+4	、	_	PUNCT	.	_	3	punct	_	_
+5	話やすかったです。	_	ADJ	ADJ-AUX-VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

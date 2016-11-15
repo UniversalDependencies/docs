@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [pl-pos/VERB]() (12802; 15% inst
 
 12802 [pl-pos/VERB]() tokens (96% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (11397; 89%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (11397; 89%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (8859; 69%), <tt><a href="Number.html">Number</a>=Sing</tt> (8384; 65%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8162; 64%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8162; 64%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7379; 58%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (11397; 89%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (11397; 89%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (8859; 69%), <tt><a href="Number.html">Number</a>=Sing</tt> (8384; 65%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8162; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8162; 64%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7379; 58%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

@@ -13,7 +13,7 @@ The 10 most frequent `PRON` types:  <em>gure, nire, nik, euren, guk, zerbait, ez
 
 The 10 most frequent ambiguous lemmas: <em>ni</em> ([PRON]() 207, [NOUN]() 1), <em>geu</em> ([PRON]() 6, [NOUN]() 1), <em>deus</em> ([ADJ]() 3, [PRON]() 2)
 
-The 10 most frequent ambiguous types:  <em>zuen</em> ([AUX]() 1117, [VERB]() 77, [PRON]() 4), <em>ene</em> ([PRON]() 2, [INTJ]() 1), <em>deus</em> ([ADJ]() 3, [PRON]() 2), <em>hiri</em> ([NOUN]() 24, [PRON]() 1), <em>zuenak</em> ([PRON]() 1, [AUX]() 1)
+The 10 most frequent ambiguous types:  <em>zuen</em> ([AUX]() 1117, [VERB]() 77, [PRON]() 4), <em>ene</em> ([PRON]() 2, [INTJ]() 1), <em>deus</em> ([ADJ]() 3, [PRON]() 2), <em>hiri</em> ([NOUN]() 24, [PRON]() 1), <em>zuenak</em> ([AUX]() 1, [PRON]() 1)
 
 
 * <em>zuen</em>
@@ -30,8 +30,8 @@ The 10 most frequent ambiguous types:  <em>zuen</em> ([AUX]() 1117, [VERB]() 77,
   * [NOUN]() 24: <em>" Zazpi urte daramat <b>hiri</b> honetan , eta hona gauza askok lotzen naute :</em>
   * [PRON]() 1: <em>- Zer esan nian nik <b>hiri</b> ... ?</em>
 * <em>zuenak</em>
-  * [PRON]() 1: <em>oraingo bakerako baldintzak onartu behar dituzue , bestela <b>zuenak</b> egin du .</em>
   * [AUX]() 1: <em>Sobiet Batasunean perestroika-rekin hasi zenak eta Hungarian eta Polonian segida izan <b>zuenak</b> , itxuran bederen ez zuen ondoriorik izan AEDn .</em>
+  * [PRON]() 1: <em>oraingo bakerako baldintzak onartu behar dituzue , bestela <b>zuenak</b> egin du .</em>
 
 ## Morphology
 

@@ -24,7 +24,7 @@ The following 14 pairs of parts of speech are connected with `mark`: [el-pos/VER
 2	ασφαλώς	ασφαλώς	ADV	ADV	_	3	advmod	_	_
 3	σαφές	σαφής	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 4	ότι	ότι	CONJ	CONJ	_	7	mark	_	_
-5	το	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+5	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
 6	προεδρείο	προεδρείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
 7	κατέχει	κατέχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	csubj	_	_
 8	ηγετικό	ηγετικός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	_
@@ -64,9 +64,9 @@ The following 14 pairs of parts of speech are connected with `mark`: [el-pos/VER
 6	για	για	ADP	ADP	_	8	mark	_	_
 7	να	να	PART	PART	_	8	aux	_	_
 8	καθοριστούν	καθορίζω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Voice=Pass	4	advcl	_	_
-9	τα	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	_
+9	τα	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	_
 10	αίτια	αίτιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
-11	του	ο	PRON	PRON	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+11	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
 12	δυστυχήματος	δυστύχημα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
 13	.	.	PUNCT	PUNCT	_	2	punct	_	_
 

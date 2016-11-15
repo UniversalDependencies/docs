@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3505 nodes (2%) are attached to their parents as `expl`.
+3502 nodes (2%) are attached to their parents as `expl`.
 
-3027 instances of `expl` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05335235378031.
+3024 instances of `expl` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05254140491148.
 
-The following 7 pairs of parts of speech are connected with `expl`: [bg-pos/VERB]()-[bg-pos/PRON]() (3421; 98% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (58; 2% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (14; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (9; 0% instances), [bg-pos/DET]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/PRON]()-[bg-pos/PRON]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `expl`: [bg-pos/VERB]()-[bg-pos/PRON]() (3418; 98% instances), [bg-pos/ADJ]()-[bg-pos/PRON]() (58; 2% instances), [bg-pos/NOUN]()-[bg-pos/PRON]() (13; 0% instances), [bg-pos/ADV]()-[bg-pos/PRON]() (10; 0% instances), [bg-pos/DET]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/PRON]() (1; 0% instances), [bg-pos/PRON]()-[bg-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu

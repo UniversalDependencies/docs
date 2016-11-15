@@ -11,7 +11,7 @@ The 10 most frequent `ADV` lemmas: <em>niet, er, ook, hoe, nog, wel, zo, waar, a
 
 The 10 most frequent `ADV` types:  <em>niet, er, ook, hoe, nog, wel, zo, al, waar, nu</em>
 
-The 10 most frequent ambiguous lemmas: <em>niet</em> ([ADV]() 1178, [X]() 21, [NOUN]() 1), <em>er</em> ([ADV]() 964, [X]() 1), <em>ook</em> ([ADV]() 644, [X]() 24), <em>hoe</em> ([ADV]() 629, [X]() 3), <em>nog</em> ([ADV]() 578, [X]() 5), <em>wel</em> ([ADV]() 363, [X]() 4, [NUM]() 1, [ADJ]() 1), <em>zo</em> ([ADV]() 345, [X]() 7, [SCONJ]() 3), <em>waar</em> ([ADV]() 332, [ADJ]() 24, [X]() 2, [VERB]() 1), <em>al</em> ([ADV]() 331, [PRON]() 22, [SCONJ]() 21, [ADP]() 12), <em>nu</em> ([ADV]() 288, [X]() 14, [SCONJ]() 6)
+The 10 most frequent ambiguous lemmas: <em>niet</em> ([ADV]() 1178, [X]() 21, [NOUN]() 1), <em>er</em> ([ADV]() 964, [X]() 1), <em>ook</em> ([ADV]() 644, [X]() 24), <em>hoe</em> ([ADV]() 629, [X]() 3), <em>nog</em> ([ADV]() 578, [X]() 5), <em>wel</em> ([ADV]() 363, [X]() 4, [ADJ]() 1, [NUM]() 1), <em>zo</em> ([ADV]() 345, [X]() 7, [SCONJ]() 3), <em>waar</em> ([ADV]() 332, [ADJ]() 24, [X]() 2, [VERB]() 1), <em>al</em> ([ADV]() 331, [PRON]() 22, [SCONJ]() 21, [ADP]() 12), <em>nu</em> ([ADV]() 288, [X]() 14, [SCONJ]() 6)
 
 The 10 most frequent ambiguous types:  <em>niet</em> ([ADV]() 1162, [X]() 21, [NOUN]() 1), <em>er</em> ([ADV]() 796, [X]() 1), <em>ook</em> ([ADV]() 555, [X]() 24), <em>hoe</em> ([ADV]() 114, [X]() 3), <em>nog</em> ([ADV]() 560, [X]() 5), <em>wel</em> ([ADV]() 347, [X]() 4), <em>zo</em> ([ADV]() 295, [X]() 7, [SCONJ]() 2), <em>al</em> ([ADV]() 316, [PRON]() 20, [SCONJ]() 18, [ADP]() 12), <em>waar</em> ([ADV]() 187, [ADJ]() 22, [X]() 2), <em>nu</em> ([ADV]() 260, [X]() 14, [SCONJ]() 5)
 

@@ -96,7 +96,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 474 [pl-pos/PRON]() tokens (9% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (474; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (474; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (474; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (474; 100%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (395; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (293; 62%), <tt><a href="Case.html">Case</a>=Nom</tt> (285; 60%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (254; 54%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (474; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (474; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (474; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (474; 100%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (395; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (293; 62%), <tt><a href="Case.html">Case</a>=Nom</tt> (285; 60%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (254; 54%).
 
 `PRON` tokens may have the following values of `Degree`:
 

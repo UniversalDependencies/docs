@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-252 nodes (1%) are attached to their parents as `ccomp`.
+260 nodes (1%) are attached to their parents as `ccomp`.
 
-213 instances of `ccomp` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.82142857142857.
+221 instances of `ccomp` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.77692307692308.
 
-The following 16 pairs of parts of speech are connected with `ccomp`: [lv-pos/VERB]()-[lv-pos/VERB]() (187; 74% instances), [lv-pos/VERB]()-[lv-pos/ADJ]() (13; 5% instances), [lv-pos/VERB]()-[lv-pos/NOUN]() (13; 5% instances), [lv-pos/PRON]()-[lv-pos/VERB]() (11; 4% instances), [lv-pos/ADV]()-[lv-pos/VERB]() (9; 4% instances), [lv-pos/ADJ]()-[lv-pos/VERB]() (4; 2% instances), [lv-pos/NOUN]()-[lv-pos/VERB]() (3; 1% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (3; 1% instances), [lv-pos/VERB]()-[lv-pos/ADV]() (2; 1% instances), [lv-pos/ADV]()-[lv-pos/NUM]() (1; 0% instances), [lv-pos/NUM]()-[lv-pos/VERB]() (1; 0% instances), [lv-pos/PRON]()-[lv-pos/ADV]() (1; 0% instances), [lv-pos/PUNCT]()-[lv-pos/VERB]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/NUM]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/PRON]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/PROPN]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `ccomp`: [lv-pos/VERB]()-[lv-pos/VERB]() (194; 75% instances), [lv-pos/VERB]()-[lv-pos/NOUN]() (14; 5% instances), [lv-pos/VERB]()-[lv-pos/ADJ]() (13; 5% instances), [lv-pos/PRON]()-[lv-pos/VERB]() (11; 4% instances), [lv-pos/ADV]()-[lv-pos/VERB]() (9; 3% instances), [lv-pos/ADJ]()-[lv-pos/VERB]() (4; 2% instances), [lv-pos/NOUN]()-[lv-pos/VERB]() (4; 2% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (3; 1% instances), [lv-pos/VERB]()-[lv-pos/ADV]() (2; 1% instances), [lv-pos/ADV]()-[lv-pos/NUM]() (1; 0% instances), [lv-pos/NUM]()-[lv-pos/VERB]() (1; 0% instances), [lv-pos/PRON]()-[lv-pos/ADV]() (1; 0% instances), [lv-pos/PUNCT]()-[lv-pos/VERB]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/PRON]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu

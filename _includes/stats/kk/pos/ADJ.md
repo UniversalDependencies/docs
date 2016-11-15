@@ -4,92 +4,98 @@
 
 ## Treebank Statistics (UD_Kazakh)
 
-There are 197 `ADJ` lemmas (12%), 195 `ADJ` types (8%) and 354 `ADJ` tokens (7%).
+There are 222 `ADJ` lemmas (12%), 223 `ADJ` types (8%) and 423 `ADJ` tokens (7%).
 Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>бар, керек, жаңа, тиіс, жақсы, үлкен, ұлттық, басқа, экономикалық, жоқ</em>
+The 10 most frequent `ADJ` lemmas: <em>бар, керек, жақсы, үлкен, жаңа, жоқ, тиіс, басқа, ұлттық, ақ</em>
 
-The 10 most frequent `ADJ` types:  <em>_, жаңа, үлкен, ұлттық, экономикалық, жақсы, мемлекеттік, мәдени, саяси, діни</em>
+The 10 most frequent `ADJ` types:  <em>_, үлкен, жаңа, жақсы, ұлттық, экономикалық, керек, мемлекеттік, мәдени, саяси</em>
 
-The 10 most frequent ambiguous lemmas: <em>бар</em> ([ADJ]() 18, [VERB]() 6, [AUX]() 1), <em>жаңа</em> ([ADJ]() 10, [ADV]() 1), <em>басқа</em> ([ADJ]() 6, [ADP]() 3, [DET]() 1), <em>жоқ</em> ([ADJ]() 5, [INTJ]() 4), <em>оңтүстік</em> ([ADJ]() 4, [NOUN]() 2), <em>батыс</em> ([ADJ]() 3, [NOUN]() 2), <em>артық</em> ([ADJ]() 2, [ADP]() 1, [ADV]() 1), <em>бай</em> ([NOUN]() 3, [ADJ]() 2), <em>жас</em> ([ADJ]() 2, [NOUN]() 1), <em>жоғары</em> ([ADJ]() 2, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>бар</em> ([ADJ]() 22, [VERB]() 12, [AUX]() 2), <em>жақсы</em> ([ADJ]() 11, [ADV]() 3), <em>жаңа</em> ([ADJ]() 10, [ADV]() 1), <em>жоқ</em> ([ADJ]() 10, [INTJ]() 4), <em>басқа</em> ([ADJ]() 7, [ADP]() 3, [DET]() 1), <em>ақ</em> ([ADJ]() 6, [VERB]() 1), <em>жирен</em> ([ADJ]() 4, [VERB]() 2), <em>оңтүстік</em> ([ADJ]() 4, [NOUN]() 2), <em>артық</em> ([ADJ]() 3, [ADV]() 2, [ADP]() 1), <em>батыс</em> ([ADJ]() 3, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>_</em> ([VERB]() 134, [PART]() 74, [NOUN]() 63, [ADJ]() 60, [PRON]() 14, [CONJ]() 13, [AUX]() 9, [ADP]() 6, [PROPN]() 4, [ADV]() 4, [NUM]() 3, [PUNCT]() 1), <em>жаңа</em> ([ADJ]() 8, [ADV]() 1), <em>артық</em> ([ADJ]() 2, [ADV]() 1, [ADP]() 1), <em>бай</em> ([ADJ]() 2, [NOUN]() 1), <em>басқа</em> ([ADP]() 3, [ADJ]() 2, [DET]() 1), <em>алып</em> ([VERB]() 6, [ADJ]() 1, [AUX]() 1), <em>аса</em> ([ADJ]() 1, [VERB]() 1), <em>бірдей</em> ([NUM]() 2, [ADJ]() 1), <em>жылы</em> ([NOUN]() 5, [ADJ]() 1), <em>құқықтық</em> ([NOUN]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>_</em> ([AUX]() 154, [PART]() 76, [NOUN]() 75, [ADJ]() 72, [VERB]() 29, [PRON]() 23, [CONJ]() 13, [ADV]() 7, [ADP]() 7, [PROPN]() 5, [NUM]() 4, [PUNCT]() 1), <em>жаңа</em> ([ADJ]() 8, [ADV]() 1), <em>жақсы</em> ([ADJ]() 7, [ADV]() 3), <em>ала</em> ([ADJ]() 4, [VERB]() 2, [AUX]() 1), <em>артық</em> ([ADJ]() 3, [ADV]() 2, [ADP]() 1), <em>басқа</em> ([ADP]() 3, [ADJ]() 2, [DET]() 1), <em>жаман</em> ([ADJ]() 3, [ADV]() 1), <em>аман</em> ([ADJ]() 2, [ADV]() 1), <em>бай</em> ([NOUN]() 2, [ADJ]() 2), <em>ұлы</em> ([NOUN]() 2, [ADJ]() 1)
 
 
 * <em>_</em>
-  * [VERB]() 134: <em>Бастауыш білім баршаға міндетті болуы _ <b>_</b> .</em>
-  * [PART]() 74: <em>Иран жерінде сақтар тарихына қатысты мәдени _ <b>_</b> мол сақталған .</em>
-  * [NOUN]() 63: <em>Иран — діни <b>_</b> _ .</em>
-  * [ADJ]() 60: <em>Бастауыш білім баршаға міндетті болуы <b>_</b> _ .</em>
-  * [PRON]() 14: <em>Азаматтың кішкентай бір күшігі _ _ , қазір <b>_</b> _ _ _ .</em>
+  * [AUX]() 154: <em>Иран — діни _ <b>_</b> .</em>
+  * [PART]() 76: <em>Қазірде орыстан оқыған балалардан артық жақсы кісі шыға _ <b>_</b> тұр .</em>
+  * [NOUN]() 75: <em>Иран — діни <b>_</b> _ .</em>
+  * [ADJ]() 72: <em>Жер беті суы <b>_</b> _ .</em>
+  * [VERB]() 29: <em>Құлдық пен құл саудасына , қандай түрде <b>_</b> _ , тыйым салынады .</em>
+  * [PRON]() 23: <em>Сіздің атыңыз <b>_</b> _ ?</em>
   * [CONJ]() 13: <em>Ол _ <b>_</b> , _ <b>_</b> емес .</em>
-  * [AUX]() 9: <em>Сіз кітапхананы картадан көрсете <b>_</b> _ ?</em>
-  * [ADP]() 6: <em>Неке , тек екі жақтың өзара еркін және толық келісімі <b>_</b> _ қиылады .</em>
-  * [PROPN]() 4: <em>Баяғыда біреу той жасапты , тойға көп кісі жиналыпты , <b>_</b> _ келіпті .</em>
-  * [ADV]() 4: <em>Астанаға баратын пойыз <b>_</b> _ ?</em>
-  * [NUM]() 3: <em>Қала халқы <b>_</b> _ .</em>
+  * [ADV]() 7: <em>— Бәйбіше <b>_</b> _ ?</em>
+  * [ADP]() 7: <em>Неке , тек екі жақтың өзара еркін және толық келісімі <b>_</b> _ қиылады .</em>
+  * [PROPN]() 5: <em>Баяғыда біреу той жасапты , тойға көп кісі жиналыпты , <b>_</b> _ келіпті .</em>
+  * [NUM]() 4: <em>Қала халқы <b>_</b> _ .</em>
   * [PUNCT]() 1: <em>Халқының ұлттық құрамы : парсылар ( 51% ) , әзірбайжандар ( 27% ) , күрдтер ( 5% ) , арабтар , түрікмендер , белуджилер , армяндар , еврейлер , _ _ <b>_</b></em>
 * <em>жаңа</em>
   * [ADJ]() 8: <em>XX ғасырда қала тарихының <b>жаңа</b> кезеңі басталды .</em>
-  * [ADV]() 1: <em>Талдың тасасына түсейін деп шеткі қостың артынан <b>жаңа</b> аса беріп еді , қос даласында мылтығын сүйеніп , қақиып тұрған бір орыс жалт қарап : — Стой ! — деп ақырып қалды .</em>
+  * [ADV]() 1: <em>Талдың тасасына түсейін деп шеткі қостың артынан <b>жаңа</b> аса беріп__еді , қос даласында мылтығын сүйеніп , қақиып тұрған бір орыс жалт қарап : — Стой ! — деп ақырып қалды .</em>
+* <em>жақсы</em>
+  * [ADJ]() 7: <em>Мен Қазақ тілінде <b>жақсы</b> сөйлей алмаймын .</em>
+  * [ADV]() 3: <em>— Мына төре сені <b>жақсы</b> көрген .</em>
+* <em>ала</em>
+  * [ADJ]() 4: <em>Оның бірі — манағы айтқан , өзің көрген <b>ала</b> _ _ .</em>
+  * [VERB]() 2: <em>Кімді ұрып жығатынын кім білсін , әйтеуір <b>ала</b> шықты .</em>
+  * [AUX]() 1: <em>— Өзім табам , — деп орыс жүгіріп <b>ала</b> жөнелді .</em>
 * <em>артық</em>
-  * [ADJ]() 2: <em>Ендеше , <b>артық</b> жеріңді алғанға өкпелеме .</em>
-  * [ADV]() 1: <em>Қазірде орыстан оқыған балалардан <b>артық</b> жақсы кісі шыға _ _ тұр .</em>
+  * [ADJ]() 3: <em>Ендеше , <b>артық</b> жеріңді алғанға өкпелеме .</em>
+  * [ADV]() 2: <em>Қазірде орыстан оқыған балалардан <b>артық</b> жақсы кісі шыға _ _ тұр .</em>
   * [ADP]() 1: <em>Олар осыдан <b>артық</b> қайда барсын ?</em>
-* <em>бай</em>
-  * [ADJ]() 2: <em>Ерназардың өзі <b>бай</b> болыпты .</em>
-  * [NOUN]() 1: <em>Жан апасынан мәнгілік айрылып , басы қаралы , жүзі жаралы болып отырып , не бетімен <b>бай</b> іздеген ?</em>
 * <em>басқа</em>
   * [ADP]() 3: <em>Одан <b>басқа</b> Мешхед ( 1,5 млн. ) , Исфаһан ( 1 млн. ) , Тебриз ( 852 мың ) , Шираз ( 800 мың ) сияқты ірі қалалар _ _ .</em>
   * [ADJ]() 2: <em>Қазақстанның <b>басқа</b> қалаларымен салыстырғанда тұрғыны жөнінен 3-ші _ _ ( Алматы мен Астанадан кейін ) .</em>
   * [DET]() 1: <em>Сіз <b>басқа</b> қонақ__үйді ұсына _ _ ?</em>
-* <em>алып</em>
-  * [VERB]() 6: <em>Бір қыстық азығын <b>алып</b> , кемпірі мен Ерназар үйінде қалыпты .</em>
-  * [ADJ]() 1: <em>Бұл <b>алып</b> өндіріс орны КСРО-дағы өндірілетін қорғасынның 70%-н беріп отырды .</em>
-  * [AUX]() 1: <em>Көп__ұзамай олар Ғазнауи әулеті әскерін талқандап , бүкіл Иранды және көрші елдерді басып <b>алып</b> салжұқтар мемлекетін құрды .</em>
-* <em>аса</em>
-  * [ADJ]() 1: <em>Әрбіреудің тілін өнерін білген кісі соныменен бірдейлік дағуасына кіреді , <b>аса</b> арсыздана жалынбайды .</em>
-  * [VERB]() 1: <em>Талдың тасасына түсейін деп шеткі қостың артынан жаңа <b>аса</b> беріп еді , қос даласында мылтығын сүйеніп , қақиып тұрған бір орыс жалт қарап : — Стой ! — деп ақырып қалды .</em>
-* <em>бірдей</em>
-  * [NUM]() 2: <em>Заң алдында жұрттың бәрі _ _ _ _ заң арқылы алаланбай , <b>бірдей</b> тең қорғалуға _ _ .</em>
-  * [ADJ]() 1: <em>Балалардың бәрі , некелі немесе некесіз туған , <b>бірдей</b> әлеуметтік қорғауды пайдаланады .</em>
-* <em>жылы</em>
-  * [NOUN]() 5: <em>Бір <b>жылы</b> үлкен жұт болып , ел малын алысқа , отарға айдап кетіпті .</em>
-  * [ADJ]() 1: <em>Ауа__райы бүгін әбден _ _ , <b>жылы</b> .</em>
-* <em>құқықтық</em>
-  * [NOUN]() 1: <em>Әр адам қай жерде _ _ , <b>құқықтық</b> субъектісі ретінде танылуына _ _ .</em>
-  * [ADJ]() 1: <em>Сонымен__қатар , _ _ өзі тұратын елінің , не__болмаса территорияның саяси , <b>құқықтық</b> , немесе халықаралық мәртебесінің негізі бойынша , _ _ ол территория тәуелсіз , әлде біреудің қарамағында , әлде өзін-өзі басқарушы емес , немесе оның егемендігі әртүрлі нысанда шектеулі болған күннің _ _ , алаланбауы _ _ .</em>
+* <em>жаман</em>
+  * [ADJ]() 3: <em>Қожанасырдың үстіндегі киімі <b>жаман</b> екен .</em>
+  * [ADV]() 1: <em>Қасқыр одан <b>жаман</b> өршеленеді .</em>
+* <em>аман</em>
+  * [ADJ]() 2: <em>Сен бұл жолдан <b>аман</b> - есен қайтарсың , еліңе <b>аман</b> барарсың ... — деді .</em>
+  * [ADV]() 1: <em>Торғайды ажалдан <b>аман</b> алып қалғанына қуанды .</em>
+* <em>бай</em>
+  * [NOUN]() 2: <em>Бай неліктен <b>бай</b> болады ?</em>
+  * [ADJ]() 2: <em>Ерназардың өзі <b>бай</b> болыпты .</em>
+* <em>ұлы</em>
+  * [NOUN]() 2: <em>Ерназардың сегіз <b>ұлы</b> болыпты .</em>
+  * [ADJ]() 1: <em>Онда <b>ұлы</b> Ресей кемиді , жері , елі азайып қалады .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 0.989848 (the average of all parts of speech is 1.458688).
+The form / lemma ratio of `ADJ` is 1.004505 (the average of all parts of speech is 1.549647).
 
-The 1st highest number of forms (3) was observed with the lemma “бар”: <em>_, бар, барыңды</em>.
+The 1st highest number of forms (3) was observed with the lemma “ақ”: <em>Ақтар, ақ, ақтардың</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “аз”: <em>_, аз</em>.
+The 2nd highest number of forms (3) was observed with the lemma “бар”: <em>_, бар, барыңды</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “басқа”: <em>_, басқа</em>.
+The 3rd highest number of forms (3) was observed with the lemma “өзге”: <em>өзге, өзгелері, өзгені</em>.
 
-`ADJ` does not occur with any features.
+`ADJ` occurs with 4 features: [kk-feat/Case]() (13; 3% instances), [kk-feat/Number]() (5; 1% instances), [kk-feat/Number[psor]]() (1; 0% instances), [kk-feat/Person[psor]]() (1; 0% instances)
+
+`ADJ` occurs with 8 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Number=Plur`, `Number[psor]=Plur,Sing`, `Person[psor]=3`
+
+`ADJ` occurs with 8 feature combinations.
+The most frequent feature combination is `_` (410 tokens).
+Examples: <em>_, үлкен, жаңа, жақсы, ұлттық, экономикалық, керек, мемлекеттік, мәдени, саяси</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 13 different relations: [kk-dep/amod]() (206; 58% instances), [kk-dep/root]() (58; 16% instances), [kk-dep/conj]() (31; 9% instances), [kk-dep/advmod]() (29; 8% instances), [kk-dep/acl]() (4; 1% instances), [kk-dep/advcl]() (4; 1% instances), [kk-dep/dobj]() (4; 1% instances), [kk-dep/nmod]() (4; 1% instances), [kk-dep/nsubj]() (4; 1% instances), [kk-dep/ccomp]() (3; 1% instances), [kk-dep/parataxis]() (3; 1% instances), [kk-dep/remnant]() (3; 1% instances), [kk-dep/nmod:poss]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 16 different relations: [kk-dep/amod]() (235; 56% instances), [kk-dep/root]() (71; 17% instances), [kk-dep/advmod]() (36; 9% instances), [kk-dep/conj]() (31; 7% instances), [kk-dep/nsubj]() (11; 3% instances), [kk-dep/dobj]() (7; 2% instances), [kk-dep/nmod]() (7; 2% instances), [kk-dep/acl]() (4; 1% instances), [kk-dep/advcl]() (4; 1% instances), [kk-dep/ccomp]() (4; 1% instances), [kk-dep/parataxis]() (3; 1% instances), [kk-dep/remnant]() (3; 1% instances), [kk-dep/acl:relcl]() (2; 0% instances), [kk-dep/nmod:poss]() (2; 0% instances), [kk-dep/xcomp]() (2; 0% instances), [kk-dep/compound]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 7 different parts of speech: [NOUN]() (203; 57% instances), [ROOT]() (58; 16% instances), [VERB]() (47; 13% instances), [ADJ]() (31; 9% instances), [PROPN]() (13; 4% instances), [ADV]() (1; 0% instances), [PRON]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 6 different parts of speech: [NOUN]() (232; 55% instances), [ROOT]() (71; 17% instances), [VERB]() (70; 17% instances), [ADJ]() (32; 8% instances), [PROPN]() (16; 4% instances), [PRON]() (2; 0% instances)
 
-238 (67%) `ADJ` nodes are leaves.
+285 (67%) `ADJ` nodes are leaves.
 
-19 (5%) `ADJ` nodes have one child.
+24 (6%) `ADJ` nodes have one child.
 
-19 (5%) `ADJ` nodes have two children.
+22 (5%) `ADJ` nodes have two children.
 
-78 (22%) `ADJ` nodes have three or more children.
+92 (22%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 7.
+The highest child degree of a `ADJ` node is 8.
 
-Children of `ADJ` nodes are attached using 22 different relations: [kk-dep/punct]() (81; 21% instances), [kk-dep/cop]() (78; 21% instances), [kk-dep/nsubj]() (56; 15% instances), [kk-dep/conj]() (29; 8% instances), [kk-dep/advmod]() (28; 7% instances), [kk-dep/cc]() (22; 6% instances), [kk-dep/nmod]() (22; 6% instances), [kk-dep/csubj]() (13; 3% instances), [kk-dep/discourse]() (11; 3% instances), [kk-dep/advcl]() (10; 3% instances), [kk-dep/amod]() (6; 2% instances), [kk-dep/nmod:poss]() (5; 1% instances), [kk-dep/parataxis]() (4; 1% instances), [kk-dep/ccomp]() (3; 1% instances), [kk-dep/remnant]() (3; 1% instances), [kk-dep/aux]() (2; 1% instances), [kk-dep/iobj]() (2; 1% instances), [kk-dep/appos]() (1; 0% instances), [kk-dep/compound]() (1; 0% instances), [kk-dep/det]() (1; 0% instances), [kk-dep/dobj]() (1; 0% instances), [kk-dep/nummod]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 23 different relations: [kk-dep/punct]() (105; 23% instances), [kk-dep/cop]() (92; 20% instances), [kk-dep/nsubj]() (70; 15% instances), [kk-dep/advmod]() (32; 7% instances), [kk-dep/conj]() (30; 7% instances), [kk-dep/nmod]() (28; 6% instances), [kk-dep/cc]() (22; 5% instances), [kk-dep/csubj]() (14; 3% instances), [kk-dep/discourse]() (13; 3% instances), [kk-dep/advcl]() (11; 2% instances), [kk-dep/amod]() (6; 1% instances), [kk-dep/nmod:poss]() (5; 1% instances), [kk-dep/ccomp]() (4; 1% instances), [kk-dep/parataxis]() (4; 1% instances), [kk-dep/acl:relcl]() (3; 1% instances), [kk-dep/remnant]() (3; 1% instances), [kk-dep/aux]() (2; 0% instances), [kk-dep/compound]() (2; 0% instances), [kk-dep/det]() (2; 0% instances), [kk-dep/nmod:own]() (2; 0% instances), [kk-dep/appos]() (1; 0% instances), [kk-dep/dobj]() (1; 0% instances), [kk-dep/nummod]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 14 different parts of speech: [VERB]() (111; 29% instances), [PUNCT]() (81; 21% instances), [NOUN]() (70; 18% instances), [ADJ]() (31; 8% instances), [CONJ]() (21; 6% instances), [PRON]() (18; 5% instances), [ADV]() (14; 4% instances), [PART]() (13; 3% instances), [NUM]() (6; 2% instances), [PROPN]() (6; 2% instances), [INTJ]() (4; 1% instances), [AUX]() (2; 1% instances), [SCONJ]() (2; 1% instances), [DET]() (1; 0% instances)
+Children of `ADJ` nodes belong to 14 different parts of speech: [PUNCT]() (102; 23% instances), [NOUN]() (88; 19% instances), [AUX]() (80; 18% instances), [VERB]() (52; 11% instances), [ADJ]() (32; 7% instances), [PRON]() (22; 5% instances), [CONJ]() (21; 5% instances), [ADV]() (19; 4% instances), [PART]() (16; 4% instances), [NUM]() (6; 1% instances), [PROPN]() (6; 1% instances), [INTJ]() (5; 1% instances), [DET]() (2; 0% instances), [SCONJ]() (2; 0% instances)
 

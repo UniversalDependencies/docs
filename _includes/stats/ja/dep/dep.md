@@ -2,6 +2,74 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+38 nodes (0%) are attached to their parents as `dep`.
+
+38 instances of `dep` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.36842105263158.
+
+The following 19 pairs of parts of speech are connected with `dep`: [ja-pos/CONJ]()-[ja-pos/NOUN]() (7; 18% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (7; 18% instances), [ja-pos/NOUN]()-[ja-pos/X]() (4; 11% instances), [ja-pos/VERB]()-[ja-pos/X]() (4; 11% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (2; 5% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (1; 3% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (1; 3% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (1; 3% instances), [ja-pos/ADJ]()-[ja-pos/X]() (1; 3% instances), [ja-pos/CONJ]()-[ja-pos/PRON]() (1; 3% instances), [ja-pos/CONJ]()-[ja-pos/VERB]() (1; 3% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (1; 3% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (1; 3% instances), [ja-pos/NUM]()-[ja-pos/X]() (1; 3% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (1; 3% instances), [ja-pos/PRON]()-[ja-pos/X]() (1; 3% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (1; 3% instances), [ja-pos/X]()-[ja-pos/ADJ]() (1; 3% instances), [ja-pos/X]()-[ja-pos/VERB]() (1; 3% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 dep	color:blue
+1	ご購入された	_	VERB	VERB-AUX-AUX	_	2	acl:relcl	_	_
+2	チケットの	_	NOUN	NOUN-POSTP	_	3	nmod	_	_
+3	払い戻しに関する	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
+4	主催者	_	NOUN	NOUN	_	5	dep	_	_
+5	または	_	CONJ	CONJ	_	6	cc	_	_
+6	ご購入先へ	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
+7	お願いいたします。	_	VERB	VERB-AUX	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 dep	color:blue
+1	海老澤代表が	_	NOUN	NOUN-PRT	_	5	nmod	_	_
+2	統一協会の	_	NOUN	NOUN-POSTP	_	3	nmod	_	_
+3	関係の	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
+4	人か	_	NOUN	NOUN-PRT	_	5	ccomp	_	_
+5	訊くと	_	VERB	VERB-AUX-CONJ	_	9	advcl	_	_
+6	"いえ	_	NOUN	NOUN	_	9	dep	_	_
+7	,	_	PUNCT	.	_	6	punct	_	_
+8	どなたかから	_	NOUN	NOUN-PRT-POSTP	_	9	nmod	_	_
+9	聞いたのですか?"	_	VERB	VERB-AUX-NOUN-VERB-AUX-PRT	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 dep	color:blue
+1	なんだよなんだよぉ	_	X	X	_	6	dep	_	_
+2	~,	_	PUNCT	.	_	1	punct	_	_
+3	わが	_	PRON	PRON	_	4	amod	_	_
+4	署に	_	NOUN	NOUN-POSTP	_	5	nmod	_	_
+5	来たのなら	_	VERB	VERB-AUX-NOUN-VERB-CONJ	_	6	advcl	_	_
+6	教えてくれよぉ~。	_	VERB	VERB-AUX-PRT	_	0	root	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.

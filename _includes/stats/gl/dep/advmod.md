@@ -117,3 +117,72 @@ The following 17 pairs of parts of speech are connected with `advmod`: [gl-pos/V
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+865 nodes (4%) are attached to their parents as `advmod`.
+
+617 instances of `advmod` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.03583815028902.
+
+The following 22 pairs of parts of speech are connected with `advmod`: [gl-pos/VERB]()-[gl-pos/ADV]() (489; 57% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (132; 15% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (127; 15% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (51; 6% instances), [gl-pos/PRON]()-[gl-pos/ADV]() (18; 2% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (18; 2% instances), [gl-pos/NUM]()-[gl-pos/ADV]() (11; 1% instances), [gl-pos/DET]()-[gl-pos/ADV]() (4; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod	color:blue
+1	só	só	ADV	Wn	_	2	advmod	_	_
+2	dedican	dedicar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	2	dobj	_	_
+5	en	en	ADP	P	AdpType=Prep	6	case	_	_
+6	Os_Estados_Unidos	Os_Estados_Unidos	PROPN	Sp00	_	2	nmod	_	_
+7	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod	color:blue
+1	só	só	ADV	Wn	_	2	advmod	_	_
+2	dedican	dedicar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	2	dobj	_	_
+5	en	en	ADP	P	AdpType=Prep	6	case	_	_
+6	Os_Estados_Unidos	Os_Estados_Unidos	PROPN	Sp00	_	2	nmod	_	_
+7	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 advmod	color:blue
+1	'	'	PUNCT	Q'	_	6	punct	_	_
+2	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	música	música	NOUN	Scfs	Gender=Fem|Number=Sing	6	nsubj	_	_
+4	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	arte	arte	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
+7	máis	máis	ADV	Wm	_	8	advmod	_	_
+8	misteriosa	misterioso	ADJ	A0fs	Gender=Fem|Number=Sing	6	amod	_	_
+9	'	'	PUNCT	Q'	_	6	punct	_	_
+
+~~~
+
+

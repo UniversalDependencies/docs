@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Greek)
 
 There are 8 `PART` lemmas (0%), 10 `PART` types (0%) and 2288 `PART` tokens (4%).
-Out of 10 observed tags, the rank of `PART` is: 10 in number of lemmas, 10 in number of types and 9 in number of tokens.
+Out of 11 observed tags, the rank of `PART` is: 10 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>να, θα, δεν, μην, όχι, ας, άραγε, μη</em>
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>όχι</em> ([PART]() 31, [ADV]() 3),
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.250000 (the average of all parts of speech is 1.774112).
+The form / lemma ratio of `PART` is 1.250000 (the average of all parts of speech is 1.776033).
 
 The 1st highest number of forms (2) was observed with the lemma “δεν”: <em>δε, δεν</em>.
 

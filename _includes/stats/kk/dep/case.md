@@ -6,31 +6,29 @@
 
 This relation is universal.
 
-80 nodes (2%) are attached to their parents as `case`.
+91 nodes (1%) are attached to their parents as `case`.
 
-80 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05.
+91 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05494505494505.
 
-The following 6 pairs of parts of speech are connected with `case`: [kk-pos/NOUN]()-[kk-pos/ADP]() (52; 65% instances), [kk-pos/PRON]()-[kk-pos/ADP]() (12; 15% instances), [kk-pos/NUM]()-[kk-pos/ADP]() (5; 6% instances), [kk-pos/VERB]()-[kk-pos/ADP]() (5; 6% instances), [kk-pos/AUX]()-[kk-pos/ADP]() (3; 4% instances), [kk-pos/PROPN]()-[kk-pos/ADP]() (3; 4% instances).
+The following 6 pairs of parts of speech are connected with `case`: [kk-pos/NOUN]()-[kk-pos/ADP]() (55; 60% instances), [kk-pos/PRON]()-[kk-pos/ADP]() (13; 14% instances), [kk-pos/VERB]()-[kk-pos/ADP]() (11; 12% instances), [kk-pos/NUM]()-[kk-pos/ADP]() (5; 5% instances), [kk-pos/PROPN]()-[kk-pos/ADP]() (4; 4% instances), [kk-pos/AUX]()-[kk-pos/ADP]() (3; 3% instances).
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 case	color:blue
-1	Иран	Иран	PROPN	np	_	2	nmod	_	top|nom
-2	жерінде	жер	NOUN	n	_	3	nmod:poss	_	px3sp|loc
-3	сақтар	сақ	NOUN	n	_	4	nmod:poss	_	pl|nom
-4	тарихына	тарих	NOUN	n	_	7	nmod	_	px3sp|dat
-5	қатысты	қатысты	ADP	post	_	4	case	_	_
-6	мәдени	мәдени	ADJ	adj	_	7	amod	_	_
-7	_	ескерткіш	NOUN	n	_	10	nsubj	_	pl|nom
-8	_	да	PART	postadv	_	7	advmod	_	_
-9	мол	мол	ADJ	adj	_	10	advmod	_	advl
-10	сақталған	сақта	VERB	v	_	0	root	_	tv|pass|past|p3|pl
-11	.	.	PUNCT	sent	_	10	punct	_	_
+# visual-style 5 6 case	color:blue
+1	Кафедра	кафедра	NOUN	n	_	8	nsubj	_	nom
+2	«	«	PUNCT	lquot	_	3	punct	_	_
+3	Менеджмент	менеджмент	NOUN	n	_	1	appos	_	nom
+4	»	»	PUNCT	rquot	_	3	punct	_	_
+5	мамандық	мамандық	NOUN	n	_	8	nmod	_	nom
+6	бойынша	бойынша	ADP	post	_	5	case	_	_
+7	бакалавр	бакалавр	NOUN	n	_	8	dobj	_	nom
+8	дайындайды	дайында	VERB	v	_	0	root	_	tv|aor|p3|sg
+9	.	.	PUNCT	sent	_	8	punct	_	_
 
 ~~~
 
@@ -41,30 +39,36 @@ The following 6 pairs of parts of speech are connected with `case`: [kk-pos/NOUN
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	Не	не	PRON	prn	_	4	nmod	_	itg|nom
-2	үшін	үшін	ADP	post	_	1	case	_	_
-3	екенін	е	VERB	cop	_	1	dobj	_	ger_past|px3sp|acc
-4	_	біл	VERB	v	_	0	root	_	tv|aor|p2|frm|sg
-5	_	ма	PART	qst	_	4	discourse	_	_
-6	?	?	PUNCT	sent	_	4	punct	_	_
+1	Одан	ол	PRON	prn	_	7	nmod	_	dem|abl
+2	кейін	кейін	ADP	post	_	1	case	_	_
+3	оған	ол	PRON	prn	_	7	nmod	_	dem|dat
+4	кішкентай	кішкентай	ADJ	adj	_	6	amod	_	_
+5	бір	бір	DET	det	_	6	det	_	ind
+6	қол	қол	NOUN	n	_	7	nsubj	_	nom
+7	көрінеді	көрін	VERB	v	_	0	root	_	iv|aor|p3|sg
+8	.	.	PUNCT	sent	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 case	color:blue
-1	Өнеркәсіпке	өнеркәсіп	NOUN	n	_	7	nmod	_	dat
-2	қажетті	қажетті	ADJ	adj	_	3	amod	_	_
-3	құрал-саймандар	құрал-саймандар	NOUN	n	_	7	nsubj	_	nom
-4	90%-ға	90	NUM	num	_	7	nmod	_	percent|dat
-5	дейін	дейін	ADP	post	_	4	case	_	_
-6	шеттен	шет	NOUN	n	_	7	nmod	_	abl
-7	әкелінеді	алып__кел	VERB	v	_	0	root	_	tv|pass|aor|p3|sg
-8	.	.	PUNCT	sent	_	7	punct	_	_
+# visual-style 5 7 case	color:blue
+1	Шайларын	шай	NOUN	n	Case=Acc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	2	dobj	_	шай|n|pl|px3sp|acc
+2	ішіп	іш	VERB	v	Aspect=Perf|VerbForm=Trans	5	conj	_	іш|v|tv|gnaperf
+3	,	,	PUNCT	cm	_	5	punct	_	,|cm
+4	шылымдарын	шылым	NOUN	n	Case=Acc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	5	dobj	_	шылым|n|pl|px3sp|acc
+5	тартысып	тарт	VERB	v	Aspect=Perf|VerbForm=Trans|Voice=Coop	11	advcl	_	тарт|v|tv|coop|gnaperf
+6	болған	бол	VERB	v	Case=Nom|Tense=Past|VerbForm=Ger	5	aux	_	бол|v|iv|gerpast|nom
+7	соң	соң	ADP	post	_	5	case	_	соң|post
+8	,	,	PUNCT	cm	_	11	punct	_	,|cm
+9	өзгелері	өзге	ADJ	adj	Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	11	nsubj	_	өзге|adj|subst|pl|px3sp|nom
+10	тысқа	тыс	NOUN	n	Case=Dat	11	nmod	_	тыс|n|dat
+11	шықты	шық	VERB	v	Number=Sing|Person=3|Tense=Past	0	root	_	шық|v|tv|ifi|p3|sg
+12	.	.	PUNCT	sent	_	11	punct	_	.|sent
 
 ~~~
 

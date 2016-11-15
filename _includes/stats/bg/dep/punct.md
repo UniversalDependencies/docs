@@ -8,10 +8,10 @@ This relation is universal.
 
 22075 nodes (14%) are attached to their parents as `punct`.
 
-15338 instances of `punct` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.11465458663647.
+15350 instances of `punct` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.11379388448471.
 
-The following 14 pairs of parts of speech are connected with `punct`: [bg-pos/VERB]()-[bg-pos/PUNCT]() (13644; 62% instances), [bg-pos/NOUN]()-[bg-pos/PUNCT]() (3441; 16% instances), [bg-pos/PROPN]()-[bg-pos/PUNCT]() (2365; 11% instances), [bg-pos/ADJ]()-[bg-pos/PUNCT]() (1228; 6% instances), [bg-pos/CONJ]()-[bg-pos/PUNCT]() (582; 3% instances), [bg-pos/ADV]()-[bg-pos/PUNCT]() (464; 2% instances), [bg-pos/INTJ]()-[bg-pos/PUNCT]() (104; 0% instances), [bg-pos/PRON]()-[bg-pos/PUNCT]() (101; 0% instances), [bg-pos/PART]()-[bg-pos/PUNCT]() (70; 0% instances), [bg-pos/NUM]()-[bg-pos/PUNCT]() (44; 0% instances), [bg-pos/DET]()-[bg-pos/PUNCT]() (24; 0% instances), [bg-pos/SCONJ]()-[bg-pos/PUNCT]() (3; 0% instances), [bg-pos/X]()-[bg-pos/PUNCT]() (3; 0% instances), [bg-pos/ADP]()-[bg-pos/PUNCT]() (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: [bg-pos/VERB]()-[bg-pos/PUNCT]() (13611; 62% instances), [bg-pos/NOUN]()-[bg-pos/PUNCT]() (3452; 16% instances), [bg-pos/PROPN]()-[bg-pos/PUNCT]() (2365; 11% instances), [bg-pos/ADJ]()-[bg-pos/PUNCT]() (1234; 6% instances), [bg-pos/CONJ]()-[bg-pos/PUNCT]() (580; 3% instances), [bg-pos/ADV]()-[bg-pos/PUNCT]() (468; 2% instances), [bg-pos/PRON]()-[bg-pos/PUNCT]() (110; 0% instances), [bg-pos/INTJ]()-[bg-pos/PUNCT]() (105; 0% instances), [bg-pos/PART]()-[bg-pos/PUNCT]() (70; 0% instances), [bg-pos/NUM]()-[bg-pos/PUNCT]() (48; 0% instances), [bg-pos/DET]()-[bg-pos/PUNCT]() (24; 0% instances), [bg-pos/SCONJ]()-[bg-pos/PUNCT]() (4; 0% instances), [bg-pos/X]()-[bg-pos/PUNCT]() (3; 0% instances), [bg-pos/ADP]()-[bg-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu

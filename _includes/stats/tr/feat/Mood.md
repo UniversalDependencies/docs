@@ -7,16 +7,16 @@
 This feature is universal but the values `Abil`, `AbilCnd`, `AbilDes`, `AbilGen`, `AbilGenNec`, `AbilImp`, `AbilNec`, `Gen`, `GenNec`, `Prs` are language-specific.
 It occurs with 16 different values: `Abil`, `AbilCnd`, `AbilDes`, `AbilGen`, `AbilGenNec`, `AbilImp`, `AbilNec`, `Cnd`, `Des`, `Gen`, `GenNec`, `Imp`, `Ind`, `Nec`, `Opt`, `Prs`.
 
-12036 tokens (21%) have a non-empty value of `Mood`.
-6479 types (38%) occur at least once with a non-empty value of `Mood`.
-832 lemmas (14%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: [tr-pos/VERB]() (11057; 19% instances), [tr-pos/AUX]() (976; 2% instances), [tr-pos/ADP]() (3; 0% instances).
+12035 tokens (21%) have a non-empty value of `Mood`.
+6464 types (38%) occur at least once with a non-empty value of `Mood`.
+831 lemmas (14%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 3 part-of-speech tags: [tr-pos/VERB]() (11056; 19% instances), [tr-pos/AUX]() (976; 2% instances), [tr-pos/ADP]() (3; 0% instances).
 
 ### `VERB`
 
-11057 [tr-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Mood`.
+11056 [tr-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (9815; 89%), <tt><a href="Register.html">Register</a>=EMPTY</tt> (9696; 88%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (9354; 85%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (9354; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (9323; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8882; 80%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (8506; 77%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6304; 57%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (9814; 89%), <tt><a href="Register.html">Register</a>=EMPTY</tt> (9695; 88%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (9353; 85%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (9353; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (9322; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8882; 80%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (8505; 77%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6304; 57%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Gen` (122; 1% of non-empty `Mood`): <em>değildir, olmuştur, olacaktır, açmıştır, gerçekleşmiştir, ulaşmıştır, başlamıştır, doğurmuştur, gelmiştir, girmiştir</em>
 * `GenNec` (4; 0% of non-empty `Mood`): <em>alınmalıdırlar, bulunmalıdır, olmalıdır, uyarlanmalıdır</em>
 * `Imp` (404; 4% of non-empty `Mood`): <em>var, olsun, bakın, bak, gerek, gel, al, at, bırakın, geç</em>
-* `Ind` (9595; 87% of non-empty `Mood`): <em>dedi, olan, dedim, olduğunu, oldu, değil, olduğu, söyledi, gelen, olur</em>
+* `Ind` (9594; 87% of non-empty `Mood`): <em>dedi, olan, dedim, olduğunu, oldu, değil, olduğu, söyledi, gelen, olur</em>
 * `Nec` (51; 0% of non-empty `Mood`): <em>olmalı, olmalıydı, gitmeliyim, bulmalıyım, dönmeliyim, Anlatılmalı, Edilmeli, almalı, anlatmalıydım, anlatmalıyım</em>
 * `Opt` (147; 1% of non-empty `Mood`): <em>bakalım, gidelim, yazayım, alalım, anlatayım, diye, bakıla, basa, bileyim, edelim</em>
 * `Prs` (5; 0% of non-empty `Mood`): <em>Baksanıza, Baksana, düşünsene, katılsanıza</em>
@@ -141,7 +141,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Negative.html">Negative</a>=Pos|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>olacağı</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Negative.html">Negative</a>=Pos|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>olduğu</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Negative.html">Negative</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>olan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Negative.html">Negative</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Trans</tt></td><td><em>olup, olunca, olalı, oldukça</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Negative.html">Negative</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Trans</tt></td><td><em>olup, olunca, oldukça, olalı</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Register.html">Register</a>=Inf|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>oluyormuş</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Register.html">Register</a>=Inf|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>olunmuyordu</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Register.html">Register</a>=Inf|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olmuyor</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -167,29 +167,29 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (42; 4% of non-empty `Mood`): <em>sa, se, yse, imse, sem, siyse, ysa</em>
-* `Gen` (237; 24% of non-empty `Mood`): <em>dır, dir, dur, tir, tur, tır, dür, edir, lerdir, lardır</em>
+* `Gen` (237; 24% of non-empty `Mood`): <em>dir, dır, dur, tir, tur, tır, dür, lardır, lerdir, mıdır</em>
 * `Ind` (697; 71% of non-empty `Mood`): <em>mi, mı, ydi, dı, ydı, tu, mu, ydu, im, tı</em>
 
 <table>
   <tr><th>Paradigm <i>i</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ymışım</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>mışsın</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>mış, ymiş, ymış, eymiş, miş, ymuş, müş, ostakoviç'miş, immiş, ayoşmuş, edenmiş</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ymiş, mış, ymış, miş, ymuş, müş, eymiş, immiş, muş</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Trans</tt></td><td><em>ymişçesine</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Nfh|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ymışız</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydim, ydım, tum, ydum, dim, dım, tım, düm, dum</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydim, ydım, tum, dım, ydum, dim, tım, düm, dum</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>im, yim, yım, ım, yum, üm, akutistan'dayım</em></td><td><em>sem</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>erdeydin, ydin, din</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sın, sin, eredesin, sun, s'ın, usevisin</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydi, dı, ydı, tu, ydu, tı, di, ti, du, eydi, dü, 'di, 'tı, 'ydi, eredeydi, ydü, 'dı, 'ydı, tü</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>sa, se, yse, ysa, siyse, imse</em></td><td><em>dır, dir, dur, tir, tur, tır, dür, edir, tür, ledir, 'dır, üdür, edendir, ir</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydik, ydık, duk, dik</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>ız, yız, iz, yiz, yuz, yüz</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydin, din</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sin, sın, s'ın, sun</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydi, dı, ydı, tu, ydu, tı, di, ti, du, dü, 'di, 'ydi, 'tı, 'dı, tü, 'ydı, ydü</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>sa, se, yse, imse, siyse, ysa</em></td><td><em>dir, dır, dur, tir, tur, tır, dür, tür, edir, 'dır, üdür, ledir</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydik, ydık, dik, duk</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>ız, yız, iz, yiz, yüz, yuz</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydınız</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sınız, imsiniz, sunuz, eredesiniz, lırsınız</em></td><td></td><td><em>sinizdir</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>tılar, ydılar, ydiler, dular</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>lar, ler</em></td><td></td><td><em>lerdir, lardır, dırlar, etinlerdir, durlar</em></td></tr>
-  <tr><td><tt><a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Trans</tt></td><td><em>ken, yken, irerken, okurken</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sınız, siniz, sunuz</em></td><td></td><td><em>sinizdir</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydılar, ydiler, tılar, dular</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>lar, ler</em></td><td></td><td><em>lardır, lerdir, dırlar, dir, durlar</em></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Trans</tt></td><td><em>ken, yken, okurken</em></td><td></td><td></td></tr>
 </table>
 
 ### `ADP`
@@ -208,7 +208,7 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (659; 87%),
 <tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (554; 74%),
 <tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (431; 66%),
-<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (265; 86%),
+<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (264; 86%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (245; 90%),
 <tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (96; 87%),
 <tt>VERB --[<a href="../dep/aux:q.html">aux:q</a>]--> AUX</tt> (85; 72%),

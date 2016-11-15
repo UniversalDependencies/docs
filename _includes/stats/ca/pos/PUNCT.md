@@ -11,7 +11,7 @@ The 10 most frequent `PUNCT` lemmas: <em>,, ., ", (, ), -, :, ;, ?, ¿</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ", (, ), -, :, ;, ?, ¿</em>
 
-The 10 most frequent ambiguous lemmas: <em>,</em> ([PUNCT]() 26713, [CONJ]() 1), <em>.</em> ([PUNCT]() 16513, [PROPN]() 1), <em>-</em> ([PUNCT]() 950, [SYM]() 1), <em>/</em> ([PUNCT]() 40, [SYM]() 5), <em>'</em> ([SYM]() 3820, [PUNCT]() 31), <em>etcètera</em> ([PUNCT]() 23, [NOUN]() 2), <em>_</em> ([NOUN]() 5, [ADP]() 3, [PROPN]() 2, [PUNCT]() 2, [VERB]() 2, [DET]() 1, [PRON]() 1), <em>Informació</em> ([PROPN]() 21, [PUNCT]() 1), <em>Madrazo</em> ([PROPN]() 3, [PUNCT]() 1)
+The 10 most frequent ambiguous lemmas: <em>,</em> ([PUNCT]() 26713, [CONJ]() 1), <em>.</em> ([PUNCT]() 16513, [PROPN]() 1), <em>-</em> ([PUNCT]() 950, [SYM]() 1), <em>/</em> ([PUNCT]() 40, [SYM]() 5), <em>'</em> ([SYM]() 3820, [PUNCT]() 31), <em>etcètera</em> ([PUNCT]() 23, [NOUN]() 2), <em>_</em> ([NOUN]() 5, [ADP]() 3, [PROPN]() 2, [PUNCT]() 2, [VERB]() 2, [PRON]() 1, [DET]() 1), <em>Informació</em> ([PROPN]() 21, [PUNCT]() 1), <em>Madrazo</em> ([PROPN]() 3, [PUNCT]() 1)
 
 The 10 most frequent ambiguous types:  <em>-</em> ([PUNCT]() 950, [SYM]() 1), <em>/</em> ([PUNCT]() 40, [SYM]() 5), <em>'</em> ([SYM]() 3820, [PUNCT]() 32), <em>etcètera</em> ([PUNCT]() 8, [NOUN]() 2)
 

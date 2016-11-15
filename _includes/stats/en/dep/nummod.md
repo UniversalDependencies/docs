@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3091 nodes (1%) are attached to their parents as `nummod`.
+2934 nodes (1%) are attached to their parents as `nummod`.
 
-2146 instances of `nummod` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4969265609835.
+2074 instances of `nummod` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49488752556237.
 
-The following 26 pairs of parts of speech are connected with `nummod`: [en-pos/NOUN]()-[en-pos/NUM]() (1966; 64% instances), [en-pos/PROPN]()-[en-pos/NUM]() (531; 17% instances), [en-pos/SYM]()-[en-pos/NUM]() (301; 10% instances), [en-pos/NUM]()-[en-pos/NUM]() (91; 3% instances), [en-pos/VERB]()-[en-pos/X]() (56; 2% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (34; 1% instances), [en-pos/PUNCT]()-[en-pos/X]() (32; 1% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (16; 1% instances), [en-pos/ADJ]()-[en-pos/X]() (13; 0% instances), [en-pos/NOUN]()-[en-pos/X]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (8; 0% instances), [en-pos/PROPN]()-[en-pos/X]() (6; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (5; 0% instances), [en-pos/ADJ]()-[en-pos/NUM]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/X]()-[en-pos/X]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/X]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NUM]() (1; 0% instances), [en-pos/SYM]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (1; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `nummod`: [en-pos/NOUN]()-[en-pos/NUM]() (1919; 65% instances), [en-pos/PROPN]()-[en-pos/NUM]() (482; 16% instances), [en-pos/SYM]()-[en-pos/NUM]() (247; 8% instances), [en-pos/NUM]()-[en-pos/NUM]() (84; 3% instances), [en-pos/VERB]()-[en-pos/X]() (56; 2% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (34; 1% instances), [en-pos/PUNCT]()-[en-pos/X]() (32; 1% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (16; 1% instances), [en-pos/ADJ]()-[en-pos/X]() (13; 0% instances), [en-pos/NOUN]()-[en-pos/X]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (8; 0% instances), [en-pos/PROPN]()-[en-pos/X]() (6; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (5; 0% instances), [en-pos/ADJ]()-[en-pos/NUM]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/X]()-[en-pos/X]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/X]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NUM]() (1; 0% instances), [en-pos/SYM]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (1; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -95,7 +95,7 @@ The following 11 pairs of parts of speech are connected with `nummod`: [en-pos/N
 # visual-style 10	fgColor:white
 # visual-style 10 9 nummod	color:blue
 1	_	_	ADP	IN	_	2	case	_	_
-2	_	_	DET	DT	_	4	nmod	_	_
+2	_	_	PRON	DT	_	4	nmod	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
 4	_	_	VERB	VB	_	0	root	_	_
 5	_	_	DET	DT	_	6	det	_	_

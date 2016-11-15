@@ -62,3 +62,70 @@ The following 27 pairs of parts of speech are connected with `punct`: [gl-pos/VE
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+2662 nodes (11%) are attached to their parents as `punct`.
+
+2217 instances of `punct` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.7870022539444.
+
+The following 15 pairs of parts of speech are connected with `punct`: [gl-pos/VERB]()-[gl-pos/PUNCT]() (1373; 52% instances), [gl-pos/NOUN]()-[gl-pos/PUNCT]() (672; 25% instances), [gl-pos/PROPN]()-[gl-pos/PUNCT]() (235; 9% instances), [gl-pos/ADJ]()-[gl-pos/PUNCT]() (184; 7% instances), [gl-pos/PRON]()-[gl-pos/PUNCT]() (67; 3% instances), [gl-pos/ADV]()-[gl-pos/PUNCT]() (61; 2% instances), [gl-pos/NUM]()-[gl-pos/PUNCT]() (47; 2% instances), [gl-pos/INTJ]()-[gl-pos/PUNCT]() (6; 0% instances), [gl-pos/PUNCT]()-[gl-pos/PUNCT]() (4; 0% instances), [gl-pos/SYM]()-[gl-pos/PUNCT]() (4; 0% instances), [gl-pos/X]()-[gl-pos/PUNCT]() (3; 0% instances), [gl-pos/CONJ]()-[gl-pos/PUNCT]() (2; 0% instances), [gl-pos/SCONJ]()-[gl-pos/PUNCT]() (2; 0% instances), [gl-pos/ADP]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/PUNCT]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 punct	color:blue
+1	só	só	ADV	Wn	_	2	advmod	_	_
+2	dedican	dedicar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	2	dobj	_	_
+5	en	en	ADP	P	AdpType=Prep	6	case	_	_
+6	Os_Estados_Unidos	Os_Estados_Unidos	PROPN	Sp00	_	2	nmod	_	_
+7	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 punct	color:blue
+1	liberdade	liberdade	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
+2	,	,	PUNCT	Q,	_	1	punct	_	_
+3	xustiza	xustiza	NOUN	Scfs	Gender=Fem|Number=Sing	1	conj	_	_
+4	,	,	PUNCT	Q,	_	1	punct	_	_
+5	benestar	benestar	NOUN	Scms	Gender=Masc|Number=Sing	1	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 punct	color:blue
+1	Santi	Santi	PROPN	Spm0	Gender=Masc	0	root	_	_
+2	(	(	PUNCT	Q(	_	3	punct	_	_
+3	Los_Limones	Los_Limones	PROPN	Sp00	_	1	nmod	_	_
+4	)	)	PUNCT	Q)	_	3	punct	_	_
+5	,	,	PUNCT	Q,	_	1	punct	_	_
+6	Susana_Seivane	Susana_Seivane	PROPN	Spf0	Gender=Fem	1	conj	_	_
+7	e	e	CONJ	Cc	_	1	cc	_	_
+8	Bieito_Romero	Bieito_Romero	PROPN	Spm0	Gender=Masc	1	conj	_	_
+9	.	.	PUNCT	Q.	_	1	punct	_	_
+
+~~~
+
+

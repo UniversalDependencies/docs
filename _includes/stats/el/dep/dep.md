@@ -40,9 +40,9 @@ The following 18 pairs of parts of speech are connected with `dep`: [el-pos/VERB
 3	λύσεις	λύση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
 5	όπως	όπως	ADV	ADV	_	7	dep	_	_
-6	η	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	περικοπή	περικοπή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
-8	του	ο	PRON	PRON	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	χρόνου	χρόνος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
 10	εργασίας	εργασία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 11	σε	σε	ADP	ADP	_	13	case	_	_
@@ -66,7 +66,7 @@ The following 18 pairs of parts of speech are connected with `dep`: [el-pos/VERB
 # visual-style 16 14 dep	color:blue
 1	Για	για	ADP	ADP	_	2	case	_	_
 2	παράδειγμα	παράδειγμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	_
-3	οι	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+3	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 4	τοπικές	τοπικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	_
 5	αρχές	αρχή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	_
 6	θα	θα	PART	PART	_	7	aux	_	_
@@ -81,7 +81,7 @@ The following 18 pairs of parts of speech are connected with `dep`: [el-pos/VERB
 15	να	να	PART	PART	_	16	aux	_	_
 16	σκέφτονται	σκέφτομαι	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	11	appos	_	_
 17	μόνο	μόνο	ADV	ADV	_	16	advmod	_	_
-18	το	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
+18	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
 19	άμεσο	άμεσος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	20	amod	_	_
 20	συμφέρον	συμφέρον	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	16	dobj	_	_
 21	τους	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	nmod	_	_

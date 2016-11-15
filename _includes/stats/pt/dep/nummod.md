@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3395 nodes (2%) are attached to their parents as `nummod`.
+3395 nodes (1%) are attached to their parents as `nummod`.
 
 2430 instances of `nummod` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.53578792341679.
+Average distance between parent and child is 1.54285714285714.
 
-The following 14 pairs of parts of speech are connected with `nummod`: [pt-pos/NOUN]()-[pt-pos/NUM]() (2736; 81% instances), [pt-pos/SYM]()-[pt-pos/NUM]() (318; 9% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (222; 7% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (38; 1% instances), [pt-pos/DET]()-[pt-pos/NUM]() (25; 1% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (22; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (15; 0% instances), [pt-pos/PRON]()-[pt-pos/NUM]() (6; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/ADP]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/CONJ]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `nummod`: [pt-pos/NOUN]()-[pt-pos/NUM]() (2736; 81% instances), [pt-pos/SYM]()-[pt-pos/NUM]() (318; 9% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (222; 7% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (38; 1% instances), [pt-pos/DET]()-[pt-pos/NUM]() (27; 1% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (22; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (15; 0% instances), [pt-pos/PRON]()-[pt-pos/NUM]() (6; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/CONJ]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/ADP]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,8 +65,90 @@ The following 14 pairs of parts of speech are connected with `nummod`: [pt-pos/N
 4	63	63	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_
 5	,	,	PUNCT	punc	_	1	punct	_	_
 6	tel.	tel.	NOUN	n|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
-7	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur	6	nummod	_	_
+7	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur|NumType=Card	6	nummod	_	_
 8	)	)	PUNCT	punc	_	1	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+2854 nodes (1%) are attached to their parents as `nummod`.
+
+2487 instances of `nummod` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13139453398739.
+
+The following 8 pairs of parts of speech are connected with `nummod`: [pt-pos/NOUN]()-[pt-pos/NUM]() (2511; 88% instances), [pt-pos/SYM]()-[pt-pos/NUM]() (202; 7% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (55; 2% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (44; 2% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (29; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (11; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NUM]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 nummod	color:blue
+1	Por	por	ADP	<sam->|PRP|@ADVL>	_	3	case	_	_
+2	o	o	DET	<-sam>|<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	correio	correio	NOUN	<np-def>|N|M|S|@P<	Gender=Masc|Number=Sing	7	nmod	_	_
+4	expresso	expresso	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	3	amod	_	_
+5	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	frete	frete	NOUN	<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	custa	custar	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	próximo	próximo	ADV	ADV|@<ADVL	_	7	advmod	_	MWE:próximo=de
+9	de	de	ADP	PRP|@A<	_	10	case	_	_
+10	US$	US$	NOUN	<np-idf>|N|M|P|@P<	Gender=Masc|Number=Plur	8	nmod	_	_
+11	50	50	NUM	<card>|NUM|M|P|@N<	_	10	nummod	_	_
+12	.	.	PUNCT	PU|@PU	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 nummod	color:blue
+1	O	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Estado	estado	NOUN	<prop>|<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	de	de	ADP	PRP|@N<	_	4	case	_	_
+4	São	São	PROPN	PROP|M|S|@P<	Gender=Masc|Number=Sing	2	nmod	_	MWE:São=Paulo
+5	Paulo	Paulo	PROPN	PROP|@N<	Number=Sing	4	name	_	_
+6	representou	representar	VERB	<mv>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	22,8	22,8	NUM	<card>|NUM|M|P|@>N	_	8	nummod	_	_
+8	%	%	SYM	<np-def>|N|M|P|@<ACC	Gender=Masc|Number=Plur	6	dobj	_	_
+9	de	de	ADP	<sam->|PRP|@N<	_	11	case	_	_
+10	os	o	DET	<-sam>|<artd>|ART|M|P|@>N	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	protestos	protesto	NOUN	<np-def>|N|M|P|@P<	Gender=Masc|Number=Plur	8	nmod	_	_
+12	.	.	PUNCT	PU|@PU	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 nummod	color:blue
+1	Recebeu	receber	VERB	<mv>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	13.576	13.576	NUM	<card>|NUM|M|P|@>N	_	3	nummod	_	_
+3	votos	voto	NOUN	<np-def>|N|M|P|@<ACC	Gender=Masc|Number=Plur	1	dobj	_	_
+4	(	(	PUNCT	PU|@PU	_	6	punct	_	_
+5	33,94	33,94	NUM	<card>|NUM|M|P|@>N	_	6	nummod	_	_
+6	%	%	SYM	<np-def>|N|M|P|@N<PRED	Gender=Masc|Number=Plur	3	appos	_	_
+7	)	)	PUNCT	PU|@PU	_	6	punct	_	_
+8	em	em	ADP	PRP|@<ADVL	_	11	case	_	_
+9	40	40	NUM	<card>|NUM|F|S|@>N	_	10	nummod	_	_
+10	mil	mil	NUM	<card>|NUM|F|P|@>N	_	11	nummod	_	_
+11	respostas	resposta	NOUN	<np-def>|N|F|P|@P<	Gender=Fem|Number=Plur	1	nmod	_	_
+12	.	.	PUNCT	PU|@PU	_	1	punct	_	_
 
 ~~~
 

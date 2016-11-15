@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-610 nodes (0%) are attached to their parents as `mwe`.
+592 nodes (0%) are attached to their parents as `mwe`.
 
-610 instances of `mwe` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.10819672131148.
+592 instances of `mwe` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.09121621621622.
 
-The following 26 pairs of parts of speech are connected with `mwe`: [en-pos/ADV]()-[en-pos/ADV]() (157; 26% instances), [en-pos/ADP]()-[en-pos/ADP]() (151; 25% instances), [en-pos/ADJ]()-[en-pos/ADP]() (84; 14% instances), [en-pos/ADV]()-[en-pos/ADP]() (56; 9% instances), [en-pos/SCONJ]()-[en-pos/SCONJ]() (32; 5% instances), [en-pos/ADP]()-[en-pos/NOUN]() (26; 4% instances), [en-pos/VERB]()-[en-pos/ADP]() (24; 4% instances), [en-pos/ADP]()-[en-pos/SCONJ]() (13; 2% instances), [en-pos/SCONJ]()-[en-pos/ADV]() (9; 1% instances), [en-pos/SCONJ]()-[en-pos/CONJ]() (9; 1% instances), [en-pos/ADV]()-[en-pos/VERB]() (8; 1% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (7; 1% instances), [en-pos/ADV]()-[en-pos/PART]() (7; 1% instances), [en-pos/ADV]()-[en-pos/SCONJ]() (6; 1% instances), [en-pos/SCONJ]()-[en-pos/NOUN]() (4; 1% instances), [en-pos/SCONJ]()-[en-pos/VERB]() (4; 1% instances), [en-pos/ADP]()-[en-pos/VERB]() (2; 0% instances), [en-pos/SCONJ]()-[en-pos/PART]() (2; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (2; 0% instances), [en-pos/ADP]()-[en-pos/ADV]() (1; 0% instances), [en-pos/ADP]()-[en-pos/CONJ]() (1; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADV]() (1; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/ADP]() (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `mwe`: [en-pos/ADV]()-[en-pos/ADV]() (155; 26% instances), [en-pos/ADP]()-[en-pos/ADP]() (145; 24% instances), [en-pos/ADJ]()-[en-pos/ADP]() (79; 13% instances), [en-pos/ADV]()-[en-pos/ADP]() (57; 10% instances), [en-pos/SCONJ]()-[en-pos/SCONJ]() (32; 5% instances), [en-pos/ADP]()-[en-pos/NOUN]() (24; 4% instances), [en-pos/VERB]()-[en-pos/ADP]() (21; 4% instances), [en-pos/ADP]()-[en-pos/SCONJ]() (13; 2% instances), [en-pos/SCONJ]()-[en-pos/ADV]() (9; 2% instances), [en-pos/SCONJ]()-[en-pos/CONJ]() (9; 2% instances), [en-pos/ADV]()-[en-pos/VERB]() (8; 1% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (7; 1% instances), [en-pos/ADV]()-[en-pos/PART]() (7; 1% instances), [en-pos/ADV]()-[en-pos/SCONJ]() (6; 1% instances), [en-pos/SCONJ]()-[en-pos/NOUN]() (4; 1% instances), [en-pos/SCONJ]()-[en-pos/VERB]() (4; 1% instances), [en-pos/ADP]()-[en-pos/VERB]() (2; 0% instances), [en-pos/SCONJ]()-[en-pos/PART]() (2; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (2; 0% instances), [en-pos/ADP]()-[en-pos/ADV]() (1; 0% instances), [en-pos/ADP]()-[en-pos/CONJ]() (1; 0% instances), [en-pos/ADP]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/AUX]()-[en-pos/ADV]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -87,9 +87,9 @@ This relation is universal.
 357 nodes (0%) are attached to their parents as `mwe`.
 
 357 instances of `mwe` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05042016806723.
+Average distance between parent and child is 1.04761904761905.
 
-The following 20 pairs of parts of speech are connected with `mwe`: [en-pos/ADP]()-[en-pos/ADP]() (95; 27% instances), [en-pos/ADV]()-[en-pos/ADV]() (68; 19% instances), [en-pos/ADV]()-[en-pos/ADP]() (55; 15% instances), [en-pos/ADJ]()-[en-pos/ADP]() (34; 10% instances), [en-pos/SCONJ]()-[en-pos/SCONJ]() (30; 8% instances), [en-pos/ADP]()-[en-pos/NOUN]() (28; 8% instances), [en-pos/VERB]()-[en-pos/ADP]() (25; 7% instances), [en-pos/AUX]()-[en-pos/ADV]() (4; 1% instances), [en-pos/SCONJ]()-[en-pos/PART]() (4; 1% instances), [en-pos/SCONJ]()-[en-pos/NOUN]() (3; 1% instances), [en-pos/SCONJ]()-[en-pos/ADP]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/ADV]() (1; 0% instances), [en-pos/ADP]()-[en-pos/ADV]() (1; 0% instances), [en-pos/ADV]()-[en-pos/CONJ]() (1; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/PRON]() (1; 0% instances), [en-pos/PART]()-[en-pos/PART]() (1; 0% instances), [en-pos/PART]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/ADP]() (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `mwe`: [en-pos/ADP]()-[en-pos/ADP]() (96; 27% instances), [en-pos/ADV]()-[en-pos/ADV]() (68; 19% instances), [en-pos/ADV]()-[en-pos/ADP]() (55; 15% instances), [en-pos/ADJ]()-[en-pos/ADP]() (34; 10% instances), [en-pos/SCONJ]()-[en-pos/SCONJ]() (30; 8% instances), [en-pos/ADP]()-[en-pos/NOUN]() (28; 8% instances), [en-pos/VERB]()-[en-pos/ADP]() (25; 7% instances), [en-pos/AUX]()-[en-pos/ADV]() (4; 1% instances), [en-pos/SCONJ]()-[en-pos/PART]() (4; 1% instances), [en-pos/SCONJ]()-[en-pos/NOUN]() (3; 1% instances), [en-pos/SCONJ]()-[en-pos/ADP]() (2; 1% instances), [en-pos/ADJ]()-[en-pos/ADV]() (1; 0% instances), [en-pos/ADP]()-[en-pos/ADV]() (1; 0% instances), [en-pos/ADV]()-[en-pos/CONJ]() (1; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/PRON]() (1; 0% instances), [en-pos/PART]()-[en-pos/PART]() (1; 0% instances), [en-pos/PART]()-[en-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -133,7 +133,7 @@ The following 20 pairs of parts of speech are connected with `mwe`: [en-pos/ADP]
 2	_	_	ADV	RB	_	1	mwe	_	_
 3	_	_	PUNCT	,	_	16	punct	_	_
 4	_	_	SCONJ	IN	_	6	mark	_	_
-5	_	_	NOUN	NN	_	6	nsubj	_	_
+5	_	_	PRON	NN	_	6	nsubj	_	_
 6	_	_	VERB	VBZ	_	16	advcl	_	_
 7	_	_	ADJ	JJ	_	8	amod	_	_
 8	_	_	NOUN	NN	_	6	dobj	_	_

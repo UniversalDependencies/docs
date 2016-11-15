@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `foreign`: [lv-pos/X
 11	pērn	pērn	ADV	r0t	_	12	advmod	_	_
 12	ieviesām	ieviest	VERB	vmnist11pan	Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
 13	"	"	PUNCT	zq	_	14	punct	_	SpaceAfter=No
-14	business	business	X	xf	_	17	dep	_	_
+14	business	business	X	xf	_	17	nmod	_	_
 15	intelligence	intelligence	X	xf	_	14	foreign	_	SpaceAfter=No
 16	"	"	PUNCT	zq	_	14	punct	_	_
 17	risinājumu	risinājums	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	12	dobj	_	_

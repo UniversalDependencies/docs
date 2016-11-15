@@ -107,7 +107,7 @@ The 10 most frequent `PRON` lemmas: <em>hij, die, ze, veel, het, zich, dat, dit,
 
 The 10 most frequent `PRON` types:  <em>hij, die, ze, het, zich, meer, dat, dit, zij, wat</em>
 
-The 10 most frequent ambiguous lemmas: <em>die</em> ([PRON]() 411, [DET]() 66), <em>veel</em> ([PRON]() 248, [DET]() 66), <em>het</em> ([DET]() 2199, [PRON]() 211, [PROPN]() 2), <em>dat</em> ([SCONJ]() 195, [PRON]() 122, [DET]() 23), <em>dit</em> ([DET]() 77, [PRON]() 77), <em>zij</em> ([PRON]() 61, [NOUN]() 1), <em>wat</em> ([PRON]() 53, [DET]() 3), <em>deze</em> ([DET]() 204, [PRON]() 44), <em>weinig</em> ([PRON]() 33, [DET]() 13), <em>haar</em> ([DET]() 153, [PRON]() 29, [NOUN]() 4)
+The 10 most frequent ambiguous lemmas: <em>die</em> ([PRON]() 411, [DET]() 66), <em>veel</em> ([PRON]() 248, [DET]() 66), <em>het</em> ([DET]() 2199, [PRON]() 211, [PROPN]() 2), <em>dat</em> ([SCONJ]() 195, [PRON]() 122, [DET]() 23), <em>dit</em> ([PRON]() 77, [DET]() 77), <em>zij</em> ([PRON]() 61, [NOUN]() 1), <em>wat</em> ([PRON]() 53, [DET]() 3), <em>deze</em> ([DET]() 204, [PRON]() 44), <em>weinig</em> ([PRON]() 33, [DET]() 13), <em>haar</em> ([DET]() 153, [PRON]() 29, [NOUN]() 4)
 
 The 10 most frequent ambiguous types:  <em>die</em> ([PRON]() 404, [DET]() 58), <em>het</em> ([DET]() 1866, [PRON]() 126), <em>meer</em> ([PRON]() 124, [DET]() 19), <em>dat</em> ([SCONJ]() 194, [PRON]() 107, [DET]() 19), <em>dit</em> ([DET]() 49, [PRON]() 34), <em>wat</em> ([PRON]() 49, [DET]() 3), <em>deze</em> ([DET]() 137, [PRON]() 20), <em>veel</em> ([DET]() 36, [PRON]() 27), <em>je</em> ([PRON]() 20, [DET]() 1), <em>minder</em> ([PRON]() 18, [DET]() 3)
 

@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `foreign`: [no-pos/X
 6	go	go	X	_	_	3	foreign	_	_
 7	when	when	X	_	_	3	foreign	_	_
 8	we	we	X	_	_	3	foreign	_	_
-9	die	die	X	_	_	3	foreign	_	_
+9	die	die	X	_	_	3	foreign	_	SpaceAfter=No
 10	?	$?	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -55,12 +55,12 @@ The following 2 pairs of parts of speech are connected with `foreign`: [no-pos/X
 13	11	11	NUM	_	Number=Plur|NumType=Card	14	nummod	_	_
 14	valgmannstemmene	valgmannstemme	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	11	dobj	_	_
 15	i	i	ADP	_	_	16	case	_	_
-16	Arizona	Arizona	PROPN	_	_	14	nmod	_	_
+16	Arizona	Arizona	PROPN	_	_	14	nmod	_	SpaceAfter=No
 17	,	$,	PUNCT	_	_	16	punct	_	_
 18	the	the	X	_	_	16	appos	_	_
 19	Grand	Grand	PROPN	_	_	18	foreign	_	_
 20	Canyon	Canyon	PROPN	_	_	18	foreign	_	_
-21	state	state	X	_	_	18	foreign	_	_
+21	state	state	X	_	_	18	foreign	_	SpaceAfter=No
 22	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~

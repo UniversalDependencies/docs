@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>artean, arabera, aurka, arteko, arte, gab
 
 The 10 most frequent ambiguous lemmas: <em>arte</em> ([ADP]() 279, [NOUN]() 46), <em>_</em> ([ADP]() 126, [CONJ]() 5, [PROPN]() 2), <em>arabera</em> ([ADP]() 109, [NOUN]() 4, [ADV]() 1), <em>inguru</em> ([ADP]() 95, [NOUN]() 40, [ADV]() 2), <em>aurre</em> ([NOUN]() 142, [ADP]() 93), <em>aurka</em> ([ADP]() 88, [NOUN]() 10), <em>gabe</em> ([ADP]() 76, [ADV]() 46), <em>gain</em> ([ADP]() 75, [NOUN]() 32), <em>alde</em> ([NOUN]() 104, [ADP]() 70, [INTJ]() 4), <em>buruz</em> ([ADP]() 63, [ADV]() 5, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>artean</em> ([ADP]() 124, [ADV]() 7, [NOUN]() 6), <em>arabera</em> ([ADP]() 109, [ADV]() 1), <em>aurka</em> ([ADP]() 88, [NOUN]() 4), <em>arteko</em> ([ADP]() 87, [NOUN]() 2), <em>arte</em> ([ADP]() 68, [NOUN]() 32), <em>gabe</em> ([ADP]() 62, [ADV]() 46), <em>aurrean</em> ([ADP]() 60, [NOUN]() 10), <em>inguruan</em> ([ADP]() 60, [NOUN]() 6), <em>kontra</em> ([ADP]() 56, [ADV]() 6, [NOUN]() 2), <em>bezala</em> ([ADP]() 55, [ADV]() 55)
+The 10 most frequent ambiguous types:  <em>artean</em> ([ADP]() 124, [ADV]() 7, [NOUN]() 6), <em>arabera</em> ([ADP]() 109, [ADV]() 1), <em>aurka</em> ([ADP]() 88, [NOUN]() 4), <em>arteko</em> ([ADP]() 87, [NOUN]() 2), <em>arte</em> ([ADP]() 68, [NOUN]() 32), <em>gabe</em> ([ADP]() 62, [ADV]() 46), <em>aurrean</em> ([ADP]() 60, [NOUN]() 10), <em>inguruan</em> ([ADP]() 60, [NOUN]() 6), <em>kontra</em> ([ADP]() 56, [ADV]() 6, [NOUN]() 2), <em>bezala</em> ([ADV]() 55, [ADP]() 55)
 
 
 * <em>artean</em>
@@ -46,8 +46,8 @@ The 10 most frequent ambiguous types:  <em>artean</em> ([ADP]() 124, [ADV]() 7, 
   * [ADV]() 6: <em>Poloa guztiz <b>kontra</b> azaldu da .</em>
   * [NOUN]() 2: <em>Bestetik , gehiengo politikoaren <b>kontra</b> joatea dela uste du .</em>
 * <em>bezala</em>
-  * [ADP]() 55: <em>Urruñan hil da , supituki <b>bezala</b> , 59 urtetan .</em>
   * [ADV]() 55: <em>" Ruandan hil egingo gaituzte , abereak bagina <b>bezala</b> " .</em>
+  * [ADP]() 55: <em>Urruñan hil da , supituki <b>bezala</b> , 59 urtetan .</em>
 
 ## Morphology
 

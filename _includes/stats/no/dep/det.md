@@ -27,7 +27,7 @@ The following 26 pairs of parts of speech are connected with `det`: [no-pos/NOUN
 5	til	til	ADP	_	_	8	case	_	_
 6	sin	sin	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
-8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
+8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 26 pairs of parts of speech are connected with `det`: [no-pos/NOUN
 3	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	en	en	DET	_	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	selvfølgelig	selvfølgelig	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	6	amod	_	_
-6	smitteeffekt	smitteeffekt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	dobj	_	_
+6	smitteeffekt	smitteeffekt	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	dobj	_	SpaceAfter=No
 7	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -66,7 +66,6 @@ The following 26 pairs of parts of speech are connected with `det`: [no-pos/NOUN
 8	i	i	ADP	_	_	10	case	_	_
 9	Clintons	Clinton	PROPN	_	Case=Gen	10	det	_	_
 10	fly	fly	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	7	nmod	_	_
-11	|	$|	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

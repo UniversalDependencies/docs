@@ -68,21 +68,21 @@ The 3rd highest number of forms (1) was observed with the lemma “et”: <em>et
 
 ## Relations
 
-`CONJ` nodes are attached to their parents using 6 different relations: [bg-dep/cc]() (4796; 99% instances), [bg-dep/mwe]() (55; 1% instances), [bg-dep/mark]() (3; 0% instances), [bg-dep/discourse]() (2; 0% instances), [bg-dep/nsubj]() (2; 0% instances), [bg-dep/root]() (2; 0% instances)
+`CONJ` nodes are attached to their parents using 8 different relations: [bg-dep/cc]() (4793; 99% instances), [bg-dep/mwe]() (55; 1% instances), [bg-dep/mark]() (3; 0% instances), [bg-dep/discourse]() (2; 0% instances), [bg-dep/name]() (2; 0% instances), [bg-dep/nsubj]() (2; 0% instances), [bg-dep/root]() (2; 0% instances), [bg-dep/compound]() (1; 0% instances)
 
-Parents of `CONJ` nodes belong to 13 different parts of speech: [NOUN]() (2126; 44% instances), [VERB]() (1683; 35% instances), [PROPN]() (406; 8% instances), [ADJ]() (367; 8% instances), [ADV]() (153; 3% instances), [PRON]() (54; 1% instances), [NUM]() (32; 1% instances), [DET]() (21; 0% instances), [PART]() (8; 0% instances), [ADP]() (6; 0% instances), [ROOT]() (2; 0% instances), [CONJ]() (1; 0% instances), [INTJ]() (1; 0% instances)
+Parents of `CONJ` nodes belong to 13 different parts of speech: [NOUN]() (2127; 44% instances), [VERB]() (1680; 35% instances), [PROPN]() (406; 8% instances), [ADJ]() (366; 8% instances), [ADV]() (153; 3% instances), [PRON]() (55; 1% instances), [NUM]() (32; 1% instances), [DET]() (22; 0% instances), [PART]() (8; 0% instances), [ADP]() (7; 0% instances), [ROOT]() (2; 0% instances), [CONJ]() (1; 0% instances), [INTJ]() (1; 0% instances)
 
-4269 (88%) `CONJ` nodes are leaves.
+4271 (88%) `CONJ` nodes are leaves.
 
-583 (12%) `CONJ` nodes have one child.
+580 (12%) `CONJ` nodes have one child.
 
-7 (0%) `CONJ` nodes have two children.
+8 (0%) `CONJ` nodes have two children.
 
 1 (0%) `CONJ` nodes have three or more children.
 
 The highest child degree of a `CONJ` node is 3.
 
-Children of `CONJ` nodes are attached using 6 different relations: [bg-dep/punct]() (582; 97% instances), [bg-dep/discourse]() (9; 2% instances), [bg-dep/advmod]() (5; 1% instances), [bg-dep/conj]() (2; 0% instances), [bg-dep/acl]() (1; 0% instances), [bg-dep/cc]() (1; 0% instances)
+Children of `CONJ` nodes are attached using 6 different relations: [bg-dep/punct]() (580; 97% instances), [bg-dep/discourse]() (10; 2% instances), [bg-dep/advmod]() (5; 1% instances), [bg-dep/conj]() (2; 0% instances), [bg-dep/acl]() (1; 0% instances), [bg-dep/cc]() (1; 0% instances)
 
-Children of `CONJ` nodes belong to 5 different parts of speech: [PUNCT]() (582; 97% instances), [PART]() (9; 2% instances), [ADV]() (5; 1% instances), [VERB]() (3; 1% instances), [CONJ]() (1; 0% instances)
+Children of `CONJ` nodes belong to 5 different parts of speech: [PUNCT]() (580; 97% instances), [PART]() (10; 2% instances), [ADV]() (5; 1% instances), [VERB]() (3; 1% instances), [CONJ]() (1; 0% instances)
 

@@ -53,14 +53,14 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 <table>
   <tr><th>Paradigm <i>en</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>ens</em></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>en</em></td><td><em>ei</em></td><td><em>et, at, er, ett</em></td></tr>
+  <tr><td><tt></tt></td><td><em>en</em></td><td><em>ei</em></td><td><em>et, er, at, ett</em></td></tr>
 </table>
 
 ### `PRON`
 
 10250 [no-pos/PRON]() tokens (43% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (10250; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (10250; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (9839; 96%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7107; 69%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7107; 69%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (10250; 100%), <tt><a href="Person.html">Person</a>=3</tt> (10250; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (9839; 96%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7107; 69%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7107; 69%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 164 [no-pos/NUM]() tokens (4% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (164; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (164; 100%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (164; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (164; 100%).
 
 `NUM` tokens may have the following values of `Gender`:
 

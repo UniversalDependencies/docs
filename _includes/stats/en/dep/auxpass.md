@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1643 nodes (1%) are attached to their parents as `auxpass`.
+1605 nodes (1%) are attached to their parents as `auxpass`.
 
-1606 instances of `auxpass` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22215459525259.
+1568 instances of `auxpass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22554517133956.
 
-The following 7 pairs of parts of speech are connected with `auxpass`: [en-pos/VERB]()-[en-pos/AUX]() (1588; 97% instances), [en-pos/VERB]()-[en-pos/VERB]() (24; 1% instances), [en-pos/ADJ]()-[en-pos/VERB]() (23; 1% instances), [en-pos/ADV]()-[en-pos/AUX]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/AUX]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `auxpass`: [en-pos/VERB]()-[en-pos/AUX]() (1550; 97% instances), [en-pos/VERB]()-[en-pos/VERB]() (24; 1% instances), [en-pos/ADJ]()-[en-pos/VERB]() (23; 1% instances), [en-pos/ADV]()-[en-pos/AUX]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/AUX]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -104,7 +104,7 @@ The following 3 pairs of parts of speech are connected with `auxpass`: [en-pos/V
 5	_	_	NOUN	NNS	_	2	nmod	_	_
 6	_	_	PUNCT	,	_	5	punct	_	_
 7	_	_	NOUN	NN	_	5	conj	_	_
-8	_	_	DET	WDT	_	11	nsubjpass	_	_
+8	_	_	PRON	WDT	_	11	nsubjpass	_	_
 9	_	_	AUX	VBD	_	11	auxpass	_	_
 10	_	_	ADV	RB	_	11	advmod	_	_
 11	_	_	VERB	VBN	_	7	acl:relcl	_	_
@@ -113,7 +113,7 @@ The following 3 pairs of parts of speech are connected with `auxpass`: [en-pos/V
 14	_	_	PRON	PRP	_	15	nsubj	_	_
 15	_	_	VERB	VBD	_	2	conj	_	_
 16	_	_	ADP	IN	_	17	case	_	_
-17	_	_	NOUN	NN	_	15	nmod	_	_
+17	_	_	PRON	NN	_	15	nmod	_	_
 18	_	_	PRON	WP	_	21	iobj	_	_
 19	_	_	PRON	PRP	_	21	nsubj	_	_
 20	_	_	AUX	MD	_	21	aux	_	_
@@ -184,7 +184,7 @@ The following 3 pairs of parts of speech are connected with `auxpass`: [en-pos/V
 25	_	_	ADP	IN	_	27	case	_	_
 26	_	_	ADP	IN	_	25	mwe	_	_
 27	_	_	VERB	VBG	_	24	nmod	_	_
-28	_	_	NOUN	NN	_	27	dobj	_	_
+28	_	_	PRON	NN	_	27	dobj	_	_
 29	_	_	PUNCT	.	_	6	punct	_	_
 
 ~~~

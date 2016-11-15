@@ -114,7 +114,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>maius</em></td><td><em>maiora</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>magnus, maximus</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>magna, maxuma</em></td><td><em>magnae</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>magnum, maxumum</em></td><td><em>magna</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>maxumum, magnum</em></td><td><em>magna</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Voc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>maxime, magne</em></td><td></td></tr>
 </table>
 
@@ -400,7 +400,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 1346 [la-pos/AUX]() tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1346; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1346; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1339; 99%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1277; 95%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1225; 91%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1346; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1346; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1339; 99%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1277; 95%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1225; 91%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -427,7 +427,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 1321 [la-pos/NUM]() tokens (63% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1321; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1321; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1321; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1321; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1321; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1321; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -694,7 +694,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><th>Paradigm <i>Hierosolyma</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>Ierusolima</em></td><td><em>Hierosolymis</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Gender.html">Gender</a>=Neut</tt></td><td></td><td><em>Hierosolymis, Ierusolimis</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>Hierosolymam, Ierusolimam, Ierusolima, Hierosolyma</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>Hierosolymam, Ierusolimam, Hierosolyma, Ierusolima</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem,Masc</tt></td><td></td><td><em>Hierosolyma</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut</tt></td><td></td><td><em>Hierosolyma</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>Hierosolymae</em></td><td></td></tr>

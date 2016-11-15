@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-29732 nodes (12%) are attached to their parents as `punct`.
+28927 nodes (12%) are attached to their parents as `punct`.
 
-23371 instances of `punct` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.12505045069286.
+22704 instances of `punct` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.09963010336364.
 
-The following 30 pairs of parts of speech are connected with `punct`: [en-pos/VERB]()-[en-pos/PUNCT]() (14941; 50% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (7013; 24% instances), [en-pos/ADJ]()-[en-pos/PUNCT]() (2915; 10% instances), [en-pos/PROPN]()-[en-pos/PUNCT]() (2703; 9% instances), [en-pos/NUM]()-[en-pos/PUNCT]() (689; 2% instances), [en-pos/ADV]()-[en-pos/PUNCT]() (381; 1% instances), [en-pos/X]()-[en-pos/PUNCT]() (331; 1% instances), [en-pos/PRON]()-[en-pos/PUNCT]() (169; 1% instances), [en-pos/SYM]()-[en-pos/PUNCT]() (163; 1% instances), [en-pos/INTJ]()-[en-pos/PUNCT]() (151; 1% instances), [en-pos/DET]()-[en-pos/PUNCT]() (56; 0% instances), [en-pos/PART]()-[en-pos/PUNCT]() (56; 0% instances), [en-pos/CONJ]()-[en-pos/PUNCT]() (34; 0% instances), [en-pos/AUX]()-[en-pos/PUNCT]() (23; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (17; 0% instances), [en-pos/X]()-[en-pos/SYM]() (17; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (12; 0% instances), [en-pos/ADP]()-[en-pos/PUNCT]() (11; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (10; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (9; 0% instances), [en-pos/PUNCT]()-[en-pos/PUNCT]() (8; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (6; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (4; 0% instances), [en-pos/SCONJ]()-[en-pos/PUNCT]() (3; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/X]()-[en-pos/X]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/ADP]()-[en-pos/SYM]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/DET]()-[en-pos/SYM]() (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `punct`: [en-pos/VERB]()-[en-pos/PUNCT]() (14781; 51% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (6845; 24% instances), [en-pos/ADJ]()-[en-pos/PUNCT]() (2882; 10% instances), [en-pos/PROPN]()-[en-pos/PUNCT]() (2617; 9% instances), [en-pos/NUM]()-[en-pos/PUNCT]() (385; 1% instances), [en-pos/ADV]()-[en-pos/PUNCT]() (376; 1% instances), [en-pos/X]()-[en-pos/PUNCT]() (331; 1% instances), [en-pos/PRON]()-[en-pos/PUNCT]() (229; 1% instances), [en-pos/INTJ]()-[en-pos/PUNCT]() (145; 1% instances), [en-pos/SYM]()-[en-pos/PUNCT]() (63; 0% instances), [en-pos/PART]()-[en-pos/PUNCT]() (56; 0% instances), [en-pos/DET]()-[en-pos/PUNCT]() (54; 0% instances), [en-pos/CONJ]()-[en-pos/PUNCT]() (34; 0% instances), [en-pos/AUX]()-[en-pos/PUNCT]() (23; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (17; 0% instances), [en-pos/X]()-[en-pos/SYM]() (17; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (12; 0% instances), [en-pos/ADP]()-[en-pos/PUNCT]() (11; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (10; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (9; 0% instances), [en-pos/PUNCT]()-[en-pos/PUNCT]() (8; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (5; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (4; 0% instances), [en-pos/SCONJ]()-[en-pos/PUNCT]() (3; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/X]()-[en-pos/X]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/ADP]()-[en-pos/SYM]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/DET]()-[en-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -72,7 +72,7 @@ This relation is universal.
 7662 instances of `punct` (80%) are left-to-right (parent precedes child).
 Average distance between parent and child is 9.49984347281645.
 
-The following 18 pairs of parts of speech are connected with `punct`: [en-pos/VERB]()-[en-pos/PUNCT]() (6244; 65% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (1603; 17% instances), [en-pos/ADJ]()-[en-pos/PUNCT]() (1283; 13% instances), [en-pos/PROPN]()-[en-pos/PUNCT]() (233; 2% instances), [en-pos/ADV]()-[en-pos/PUNCT]() (76; 1% instances), [en-pos/NUM]()-[en-pos/PUNCT]() (52; 1% instances), [en-pos/PRON]()-[en-pos/PUNCT]() (25; 0% instances), [en-pos/DET]()-[en-pos/PUNCT]() (19; 0% instances), [en-pos/INTJ]()-[en-pos/PUNCT]() (11; 0% instances), [en-pos/SYM]()-[en-pos/PUNCT]() (10; 0% instances), [en-pos/X]()-[en-pos/PUNCT]() (10; 0% instances), [en-pos/AUX]()-[en-pos/PUNCT]() (9; 0% instances), [en-pos/ADP]()-[en-pos/PUNCT]() (2; 0% instances), [en-pos/CONJ]()-[en-pos/PUNCT]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/PART]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `punct`: [en-pos/VERB]()-[en-pos/PUNCT]() (6244; 65% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (1590; 17% instances), [en-pos/ADJ]()-[en-pos/PUNCT]() (1283; 13% instances), [en-pos/PROPN]()-[en-pos/PUNCT]() (233; 2% instances), [en-pos/ADV]()-[en-pos/PUNCT]() (76; 1% instances), [en-pos/NUM]()-[en-pos/PUNCT]() (52; 1% instances), [en-pos/PRON]()-[en-pos/PUNCT]() (46; 0% instances), [en-pos/DET]()-[en-pos/PUNCT]() (11; 0% instances), [en-pos/INTJ]()-[en-pos/PUNCT]() (11; 0% instances), [en-pos/SYM]()-[en-pos/PUNCT]() (10; 0% instances), [en-pos/X]()-[en-pos/PUNCT]() (10; 0% instances), [en-pos/AUX]()-[en-pos/PUNCT]() (9; 0% instances), [en-pos/ADP]()-[en-pos/PUNCT]() (2; 0% instances), [en-pos/CONJ]()-[en-pos/PUNCT]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/PART]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -95,7 +95,7 @@ The following 18 pairs of parts of speech are connected with `punct`: [en-pos/VE
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -128,11 +128,11 @@ The following 18 pairs of parts of speech are connected with `punct`: [en-pos/VE
 19	_	_	AUX	VBP	_	21	aux	_	_
 20	_	_	PRON	PRP	_	21	nsubj	_	_
 21	_	_	VERB	VB	_	6	parataxis	_	_
-22	_	_	NOUN	NN	_	23	nsubj	_	_
+22	_	_	PRON	NN	_	23	nsubj	_	_
 23	_	_	VERB	VBP	_	21	ccomp	_	_
 24	_	_	PRON	PRP	_	23	iobj	_	_
 25	_	_	ADP	RP	_	23	compound:prt	_	_
-26	_	_	NOUN	NN	_	23	dobj	_	_
+26	_	_	PRON	NN	_	23	dobj	_	_
 27	_	_	PUNCT	.	_	6	punct	_	_
 
 ~~~

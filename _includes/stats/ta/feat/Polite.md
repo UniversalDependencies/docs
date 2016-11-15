@@ -16,7 +16,7 @@ The feature is used with 6 part-of-speech tags: [ta-pos/PROPN]() (264; 3% instan
 
 264 [ta-pos/PROPN]() tokens (19% of all `PROPN` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PROPN` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=Com</tt> (264; 100%), <tt><a href="Person.html">Person</a>=3</tt> (264; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (264; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (231; 88%).
+The most frequent other feature values with which `PROPN` and `Polite` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (264; 100%), <tt><a href="Gender.html">Gender</a>=Com</tt> (264; 100%), <tt><a href="Person.html">Person</a>=3</tt> (264; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (231; 88%).
 
 `PROPN` tokens may have the following values of `Polite`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `PROPN` and `Polite` co-occurr
 
 235 [ta-pos/NOUN]() tokens (9% of all `NOUN` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (235; 100%), <tt><a href="Gender.html">Gender</a>=Com</tt> (235; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (227; 97%), <tt><a href="Case.html">Case</a>=Nom</tt> (224; 95%).
+The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=Com</tt> (235; 100%), <tt><a href="Person.html">Person</a>=3</tt> (235; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (227; 97%), <tt><a href="Case.html">Case</a>=Nom</tt> (224; 95%).
 
 `NOUN` tokens may have the following values of `Polite`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 
 143 [ta-pos/VERB]() tokens (12% of all `VERB` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=Com</tt> (143; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (143; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (143; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (143; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (142; 99%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (142; 99%), <tt><a href="Person.html">Person</a>=3</tt> (141; 99%), <tt><a href="Tense.html">Tense</a>=Past</tt> (129; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (109; 76%).
+The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=Com</tt> (143; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (143; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (143; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (143; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (142; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (142; 99%), <tt><a href="Person.html">Person</a>=3</tt> (141; 99%), <tt><a href="Tense.html">Tense</a>=Past</tt> (129; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (109; 76%).
 
 `VERB` tokens may have the following values of `Polite`:
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 
 85 [ta-pos/AUX]() tokens (14% of all `AUX` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (85; 100%), <tt><a href="Gender.html">Gender</a>=Com</tt> (85; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (85; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (85; 100%), <tt><a href="Person.html">Person</a>=3</tt> (84; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (76; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (55; 65%).
+The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (85; 100%), <tt><a href="Gender.html">Gender</a>=Com</tt> (85; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (85; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (85; 100%), <tt><a href="Person.html">Person</a>=3</tt> (84; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (76; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (55; 65%).
 
 `AUX` tokens may have the following values of `Polite`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `AUX` and `Polite` co-occurred
 
 70 [ta-pos/PRON]() tokens (28% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (70; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (70; 100%), <tt><a href="Gender.html">Gender</a>=Com</tt> (70; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (70; 100%), <tt><a href="Person.html">Person</a>=3</tt> (67; 96%), <tt><a href="Case.html">Case</a>=Nom</tt> (56; 80%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (70; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (70; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (70; 100%), <tt><a href="Gender.html">Gender</a>=Com</tt> (70; 100%), <tt><a href="Person.html">Person</a>=3</tt> (67; 96%), <tt><a href="Case.html">Case</a>=Nom</tt> (56; 80%).
 
 `PRON` tokens may have the following values of `Polite`:
 

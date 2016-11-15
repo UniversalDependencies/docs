@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1082 nodes (5%) are attached to their parents as `root`.
+1116 nodes (5%) are attached to their parents as `root`.
 
-1082 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.36783733826248.
+1116 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.41935483870968.
 
-The following 12 pairs of parts of speech are connected with `root`: [lv-pos/ROOT]()-[lv-pos/VERB]() (825; 76% instances), [lv-pos/ROOT]()-[lv-pos/NOUN]() (111; 10% instances), [lv-pos/ROOT]()-[lv-pos/PROPN]() (40; 4% instances), [lv-pos/ROOT]()-[lv-pos/ADJ]() (33; 3% instances), [lv-pos/ROOT]()-[lv-pos/PRON]() (17; 2% instances), [lv-pos/ROOT]()-[lv-pos/ADV]() (15; 1% instances), [lv-pos/ROOT]()-[lv-pos/SYM]() (13; 1% instances), [lv-pos/ROOT]()-[lv-pos/PUNCT]() (12; 1% instances), [lv-pos/ROOT]()-[lv-pos/NUM]() (11; 1% instances), [lv-pos/ROOT]()-[lv-pos/INTJ]() (2; 0% instances), [lv-pos/ROOT]()-[lv-pos/PART]() (2; 0% instances), [lv-pos/ROOT]()-[lv-pos/X]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: [lv-pos/ROOT]()-[lv-pos/VERB]() (842; 75% instances), [lv-pos/ROOT]()-[lv-pos/NOUN]() (126; 11% instances), [lv-pos/ROOT]()-[lv-pos/PROPN]() (41; 4% instances), [lv-pos/ROOT]()-[lv-pos/ADJ]() (34; 3% instances), [lv-pos/ROOT]()-[lv-pos/PRON]() (18; 2% instances), [lv-pos/ROOT]()-[lv-pos/ADV]() (16; 1% instances), [lv-pos/ROOT]()-[lv-pos/PUNCT]() (13; 1% instances), [lv-pos/ROOT]()-[lv-pos/SYM]() (12; 1% instances), [lv-pos/ROOT]()-[lv-pos/NUM]() (9; 1% instances), [lv-pos/ROOT]()-[lv-pos/INTJ]() (2; 0% instances), [lv-pos/ROOT]()-[lv-pos/PART]() (2; 0% instances), [lv-pos/ROOT]()-[lv-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu

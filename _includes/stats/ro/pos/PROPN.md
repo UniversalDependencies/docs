@@ -4,88 +4,87 @@
 
 ## Treebank Statistics (UD_Romanian)
 
-There are 2053 `PROPN` lemmas (14%), 2096 `PROPN` types (8%) and 3894 `PROPN` tokens (3%).
-Out of 17 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 10 in number of tokens.
+There are 3061 `PROPN` lemmas (17%), 3132 `PROPN` types (9%) and 5923 `PROPN` tokens (3%).
+Out of 17 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 11 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>Winston, România, Timișoara, București, CEE, O'Brien, 000, Paris, Timiș, Ion</em>
+The 10 most frequent `PROPN` lemmas: <em>România, Winston, București, Timișoara, Iași, Moldova, CEE, Paris, Europa, Ion</em>
 
-The 10 most frequent `PROPN` types:  <em>Winston, Timișoara, București, CEE, România, O'Brien, 000, Timiș, Ion, Paris</em>
+The 10 most frequent `PROPN` types:  <em>România, Winston, României, București, Timișoara, Iași, CEE, Ion, Paris, Alexandru</em>
 
-The 10 most frequent ambiguous lemmas: <em>000</em> ([PROPN]() 22, [NUM]() 7), <em>CE</em> ([NOUN]() 47, [PROPN]() 8), <em>1876</em> ([PROPN]() 2, [NOUN]() 1), <em>1878</em> ([PROPN]() 2, [NOUN]() 1), <em>2008</em> ([PROPN]() 2, [NOUN]() 2), <em>IV</em> ([NUM]() 7, [PROPN]() 2), <em>SIDA</em> ([PROPN]() 2, [NOUN]() 2), <em>dop</em> ([NOUN]() 4, [PROPN]() 2), <em>electric</em> ([ADJ]() 17, [PROPN]() 2), <em>internet</em> ([NOUN]() 3, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>17-beta</em> ([PROPN]() 11, [X]() 2, [ADV]() 1, [ADJ]() 1), <em>Celsius</em> ([PROPN]() 7, [NOUN]() 6), <em>CV</em> ([PROPN]() 2, [NOUN]() 1), <em>5a</em> ([ADV]() 4, [X]() 2, [PROPN]() 1), <em>Basarab</em> ([PROPN]() 1, [NOUN]() 1), <em>E1</em> ([NOUN]() 5, [PROPN]() 1), <em>E2</em> ([NOUN]() 5, [PROPN]() 1), <em>N1</em> ([NOUN]() 2, [PROPN]() 1), <em>TÂMPLAR-TAPIȚER</em> ([PROPN]() 1, [NOUN]() 1), <em>clorprofa</em> ([PROPN]() 1, [VERB]() 1)
 
-The 10 most frequent ambiguous types:  <em>000</em> ([PROPN]() 22, [NUM]() 7), <em>CE</em> ([NOUN]() 47, [PRON]() 10, [PROPN]() 8, [DET]() 8), <em>Este</em> ([VERB]() 49, [PROPN]() 8, [AUX]() 6), <em>Dumnezeu</em> ([PROPN]() 7, [NOUN]() 1), <em>Totuși</em> ([ADV]() 32, [PROPN]() 3), <em>1876</em> ([PROPN]() 2, [NOUN]() 1), <em>1878</em> ([PROPN]() 2, [NOUN]() 1), <em>2008</em> ([NOUN]() 2, [PROPN]() 2), <em>IV</em> ([NUM]() 7, [PROPN]() 2), <em>Internet</em> ([NOUN]() 3, [PROPN]() 2)
+The 10 most frequent ambiguous types:  <em>Dunării</em> ([PROPN]() 16, [NOUN]() 1), <em>17-beta</em> ([PROPN]() 11, [X]() 2, [ADJ]() 1, [ADV]() 1), <em>Roman</em> ([PROPN]() 9, [ADJ]() 1), <em>Parkinson</em> ([PROPN]() 7, [NOUN]() 4), <em>Tom</em> ([PROPN]() 5, [NOUN]() 1), <em>Glimepirida</em> ([PROPN]() 3, [NOUN]() 1), <em>Maiorescu</em> ([PROPN]() 3, [NOUN]() 1), <em>Oseltamivirul</em> ([PROPN]() 3, [NOUN]() 1), <em>Victoria</em> ([PROPN]() 3, [NOUN]() 1), <em>Victoriei</em> ([PROPN]() 3, [NOUN]() 1)
 
 
-* <em>000</em>
-  * [PROPN]() 22: <em>Cred că pe vremea aceea liceul nostru număra peste 2 <b>000</b> de elevi .</em>
-  * [NUM]() 7: <em>În momentul de față , site -ul conține aproximativ 1 <b>000</b> de oferte de cazare , care pot fi selectate după zone turistice și după județe .</em>
-* <em>CE</em>
-  * [NOUN]() 47: <em>Decizia 2001 / 881 / <b>CE</b> ar trebui modificată în consecință .</em>
-  * [PRON]() 10: <em>Perioada prevăzută în art. 4 alin. ( 3 ) din Decizia 1999 / 468 / <b>CE</b> este de o lună .</em>
-  * [PROPN]() 8: <em>1 Înlocuit de la 1 ianuarie 2006 prin Regulamentul ( <b>CE</b> ) nr. 853/2004 și Regulamentul 854/2004 .</em>
-  * [DET]() 8: <em>( 8 ) Este necesar ca Regulamentul ( <b>CE</b> ) nr. 1148 / 2001 să se modifice în consecință .</em>
-* <em>Este</em>
-  * [VERB]() 49: <em><b>Este</b> funcționar în cadrul Pactului de Stabilitate , lucrând la Viena .</em>
-  * [PROPN]() 8: <em>( 8 ) <b>Este</b> necesar ca Regulamentul ( CE ) nr. 1148 / 2001 să se modifice în consecință .</em>
-  * [AUX]() 6: <em><b>Este</b> născut în 1962 , căsătorit , are un copil .</em>
-* <em>Dumnezeu</em>
-  * [PROPN]() 7: <em>Am rămas , acolo , bătut de <b>Dumnezeu</b> .</em>
-  * [NOUN]() 1: <em>În sfârșit , a dat <b>Dumnezeu</b> !</em>
-* <em>Totuși</em>
-  * [ADV]() 32: <em><b>Totuși</b> , îl urmă , cu inima de gheață .</em>
-  * [PROPN]() 3: <em>( 12 ) <b>Totuși</b> , ținând cont de informațiile disponibile , trebuie să se limiteze expunerea la estradiol 17β și să se autorizeze numai acele tratamente pentru care nu există alternative eficiente viabile .</em>
-* <em>1876</em>
-  * [PROPN]() 2: <em>Cu numărul 2 , din 26 ianuarie , I. L. Caragiale figurează ca girant responsabil și va păstra această însărcinare până la 12 ianuarie <b>1876</b> .</em>
-  * [NOUN]() 1: <em>Din anul 1870 , el era înlocuit cu Vincențiu Babeș , care va conduce gazeta până la începutul anului <b>1876</b> .</em>
-* <em>1878</em>
-  * [PROPN]() 2: <em>Procesul a fost judecat în februarie <b>1878</b> , iar împricinații eliberați .</em>
-  * [NOUN]() 1: <em>În <b>1878</b> , juriul felibrilor , de la Montpellier , îi decernează , la propunerea poetului Frédéric Mistral , un premiu pentru Cântecul gintei latine .</em>
-* <em>2008</em>
-  * [NOUN]() 2: <em>În <b>2008</b> , orașul va deveni Capitala Mondială a Designului , titlul fiind conferit la Copenhaga de International Council of Societies of Industrial Design .</em>
-  * [PROPN]() 2: <em>Protocolul studiului va fi terminat și depus la EMEA până în Iulie <b>2008</b> .</em>
-* <em>IV</em>
-  * [NUM]() 7: <em>( 5 ) Textul din anexa <b>IV</b> la prezentul protocol se adaugă la ASA și devine anexa <b>IV</b> ( d ) la acesta din urmă .</em>
-  * [PROPN]() 2: <em>Fiecare stat membru prezintă Comisiei , în fiecare an , informațiile cumulate conform anexei <b>IV</b> .</em>
-* <em>Internet</em>
-  * [NOUN]() 3: <em>Slovacia a început să publice pe <b>Internet</b> lista persoanelor care au făcut parte din fosta poliție secretă , în vremea regimului comunist , și dosarele acestora .</em>
-  * [PROPN]() 2: <em>Comisia păstrează toate informațiile referitoare la deciziile de import existente în baza sa de date , care sunt puse la dispoziția publicului pe <b>Internet</b> și oferă oricui informații la cerere .</em>
+* <em>Dunării</em>
+  * [PROPN]() 16: <em>Alte state riverane <b>Dunării</b> sunt chiar și mai avansate din acest punct de vedere .</em>
+  * [NOUN]() 1: <em>Acest colector de pe fundul Depresiunii Getice era viitorul curs al <b>Dunării</b> Inferioare .</em>
+* <em>17-beta</em>
+  * [PROPN]() 11: <em>( 2 ) La articolul 4 punctul 1 , se elimină cuvintele " estradiol <b>17-beta</b> " .</em>
+  * [X]() 2: <em>Decizia Consiliului din 22 iulie 2003 autorizează utilizarea substanțelor cu efect estrogen ( altele decât estradiol <b>17-beta</b> și derivații esterificați ai acestuia ) , androgen sau gestagen .</em>
+  * [ADJ]() 1: <em>( 10 ) Având în vedere rezultatele evaluării riscurilor și toate celelalte informații pertinente disponibile , se poate concluziona că , pentru a atinge nivelul ales de protecție în Comunitate împotriva riscurilor pe care le comportă , în special pentru sănătatea umană , utilizarea regulată a acestor hormoni de creștere și consumul reziduurilor identificate în carnea care provine de la animalele cărora li s- au administrat acești hormoni în vederea stimulării creșterii , este necesară menținerea interdicției permanente prevăzute în Directiva 96 / 22 / CE pentru estradiol <b>17-beta</b> și continuarea provizorie a aplicării interdicției în cazul celorlalți cinci hormoni ( testosteron , progesteron , acetat de trenbolon , zeranol și acetat de melengestrol ) .</em>
+  * [ADV]() 1: <em>Acesta notează într- un registru , care poate fi cel prevăzut în Directiva 2001 / 82 / CE , cel puțin următoarele informații : Se interzice deținătorilor de animale de fermă deținerea , în cadrul exploatației lor , de medicamente veterinare care conțin estradiol <b>17-beta</b> sau derivații esterificați ai acestuia .</em>
+* <em>Roman</em>
+  * [PROPN]() 9: <em>Pentru doi ani , postul de prim- redactor este ocupat de I. N. <b>Roman</b> .</em>
+  * [ADJ]() 1: <em>De-a lungul istoriei , diferite porțiuni ale teritoriului de astăzi al României au fost în componența sau sub administrația Daciei , Imperiului <b>Roman</b> , Imperiului Otoman , Imperiului Rus sau a celui Austro-Ungar .</em>
+* <em>Parkinson</em>
+  * [PROPN]() 7: <em>Caracteristicile demografice ale pacienților și stadializarea bolii <b>Parkinson</b> la inițierea tratamentului .</em>
+  * [NOUN]() 4: <em>Un număr total de 290 de pacienți diagnosticați cu boală <b>Parkinson</b> au fost înrolați în studiu conform criteriilor de includere / excludere .</em>
+* <em>Tom</em>
+  * [PROPN]() 5: <em>Știți , asta fiindcă nu -i <b>Tom</b> acasă , zise doamna Parsons .</em>
+  * [NOUN]() 1: <em>Băieții căpitanului George s- au înecat în mare ca <b>Tom</b> al meu .</em>
+* <em>Glimepirida</em>
+  * [PROPN]() 3: <em><b>Glimepirida</b> este metabolizată prin intermediul citocromului P450 2C9 ( CYP2C9 ) .</em>
+  * [NOUN]() 1: <em><b>Glimepirida</b> poate fie să potențeze , fie să diminueze efectele derivaților cumarinici .</em>
+* <em>Maiorescu</em>
+  * [PROPN]() 3: <em>la 20 iulie / 1 august 1867 , au mai fost numiți membri Titu <b>Maiorescu</b> și Nicolae Ionescu .</em>
+  * [NOUN]() 1: <em>Un al doilea <b>Maiorescu</b> e dureros de necesar .</em>
+* <em>Oseltamivirul</em>
+  * [PROPN]() 3: <em><b>Oseltamivirul</b> nu trebuie utilizat în timpul sarcinii decât dacă beneficiul potențial asupra mamei justifică potențialul risc asupra fătului .</em>
+  * [NOUN]() 1: <em><b>Oseltamivirul</b> nu interacționează cinetic cu amoxicilina , care este eliminată pe aceeași cale , sugerând că interacțiunea oseltamivirului cu această cale este redusă .</em>
+* <em>Victoria</em>
+  * [PROPN]() 3: <em>Blocul <b>Victoria</b> era vechi , construit prin 1930 sau așa ceva , și se dărăpăna din ce în ce mai mult .</em>
+  * [NOUN]() 1: <em>A fost prima nuntă regală celebrată în Spania din anul 1906 , când străbunicul prințului Felipe , Alfonso XIII , s- a căsătorit cu <b>Victoria</b> Eugenia .</em>
+* <em>Victoriei</em>
+  * [PROPN]() 3: <em>Ajunse în Piața <b>Victoriei</b> înainte de ora stabilită .</em>
+  * [NOUN]() 1: <em>În Piața <b>Victoriei</b> din Timișoara , de Revelion s- au aruncat multe artificii și petarde .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.020945 (the average of all parts of speech is 1.736999).
+The form / lemma ratio of `PROPN` is 1.023195 (the average of all parts of speech is 1.826835).
 
-The 1st highest number of forms (3) was observed with the lemma “Banat”: <em>Banat, Banatul, Banatului</em>.
+The 1st highest number of forms (3) was observed with the lemma “America”: <em>America, Americi, Americii</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “Carpați”: <em>Carpați, Carpații, Carpaților</em>.
+The 2nd highest number of forms (3) was observed with the lemma “Banat”: <em>Banat, Banatul, Banatului</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “Israel”: <em>Israel, Israelul, Israelului</em>.
+The 3rd highest number of forms (3) was observed with the lemma “București”: <em>București, Bucureștiul, Bucureștiului</em>.
 
-`PROPN` occurs with 4 features: [ro-feat/Definite]() (155; 4% instances), [ro-feat/Gender]() (155; 4% instances), [ro-feat/Number]() (155; 4% instances), [ro-feat/Case]() (154; 4% instances)
+`PROPN` occurs with 4 features: [ro-feat/Definite]() (306; 5% instances), [ro-feat/Gender]() (306; 5% instances), [ro-feat/Number]() (306; 5% instances), [ro-feat/Case]() (304; 5% instances)
 
 `PROPN` occurs with 8 feature-value pairs: `Case=Acc,Nom`, `Case=Dat,Gen`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 10 feature combinations.
-The most frequent feature combination is `_` (3739 tokens).
-Examples: <em>Winston, Timișoara, București, CEE, România, O'Brien, 000, Timiș, Ion, Paris</em>
+The most frequent feature combination is `_` (5617 tokens).
+Examples: <em>România, Winston, București, Timișoara, Iași, CEE, Ion, Paris, Alexandru, O'Brien</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 31 different relations: [ro-dep/nmod]() (1627; 42% instances), [ro-dep/name]() (758; 19% instances), [ro-dep/nsubj]() (528; 14% instances), [ro-dep/conj]() (291; 7% instances), [ro-dep/appos]() (163; 4% instances), [ro-dep/dobj]() (117; 3% instances), [ro-dep/nmod:pmod]() (61; 2% instances), [ro-dep/nsubjpass]() (56; 1% instances), [ro-dep/nmod:agent]() (54; 1% instances), [ro-dep/iobj]() (49; 1% instances), [ro-dep/goeswith]() (30; 1% instances), [ro-dep/foreign]() (25; 1% instances), [ro-dep/mwe]() (22; 1% instances), [ro-dep/parataxis]() (21; 1% instances), [ro-dep/xcomp]() (17; 0% instances), [ro-dep/root]() (15; 0% instances), [ro-dep/remnant]() (12; 0% instances), [ro-dep/amod]() (9; 0% instances), [ro-dep/cop]() (8; 0% instances), [ro-dep/nummod]() (7; 0% instances), [ro-dep/advmod]() (6; 0% instances), [ro-dep/case]() (4; 0% instances), [ro-dep/vocative]() (4; 0% instances), [ro-dep/acl]() (2; 0% instances), [ro-dep/advcl]() (2; 0% instances), [ro-dep/cc]() (1; 0% instances), [ro-dep/ccomp]() (1; 0% instances), [ro-dep/list]() (1; 0% instances), [ro-dep/mark]() (1; 0% instances), [ro-dep/nmod:tmod]() (1; 0% instances), [ro-dep/punct]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 28 different relations: [ro-dep/nmod]() (2642; 45% instances), [ro-dep/name]() (976; 16% instances), [ro-dep/nsubj]() (849; 14% instances), [ro-dep/conj]() (471; 8% instances), [ro-dep/appos]() (239; 4% instances), [ro-dep/dobj]() (144; 2% instances), [ro-dep/mwe]() (96; 2% instances), [ro-dep/nmod:agent]() (87; 1% instances), [ro-dep/nsubjpass]() (71; 1% instances), [ro-dep/nmod:pmod]() (68; 1% instances), [ro-dep/iobj]() (63; 1% instances), [ro-dep/foreign]() (61; 1% instances), [ro-dep/amod]() (30; 1% instances), [ro-dep/root]() (29; 0% instances), [ro-dep/parataxis]() (22; 0% instances), [ro-dep/xcomp]() (21; 0% instances), [ro-dep/nummod]() (14; 0% instances), [ro-dep/remnant]() (13; 0% instances), [ro-dep/vocative]() (8; 0% instances), [ro-dep/case]() (5; 0% instances), [ro-dep/goeswith]() (5; 0% instances), [ro-dep/acl]() (3; 0% instances), [ro-dep/advmod]() (1; 0% instances), [ro-dep/ccomp]() (1; 0% instances), [ro-dep/dep]() (1; 0% instances), [ro-dep/list]() (1; 0% instances), [ro-dep/nmod:tmod]() (1; 0% instances), [ro-dep/punct]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 14 different parts of speech: [NOUN]() (1691; 43% instances), [VERB]() (1116; 29% instances), [PROPN]() (892; 23% instances), [ADJ]() (93; 2% instances), [NUM]() (36; 1% instances), [ADV]() (16; 0% instances), [ROOT]() (15; 0% instances), [PRON]() (14; 0% instances), [ADP]() (7; 0% instances), [SYM]() (5; 0% instances), [AUX]() (3; 0% instances), [DET]() (3; 0% instances), [CONJ]() (2; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `PROPN` nodes belong to 14 different parts of speech: [NOUN]() (2719; 46% instances), [VERB]() (1663; 28% instances), [PROPN]() (1346; 23% instances), [ADJ]() (101; 2% instances), [ROOT]() (29; 0% instances), [PRON]() (24; 0% instances), [ADV]() (14; 0% instances), [NUM]() (14; 0% instances), [ADP]() (6; 0% instances), [DET]() (3; 0% instances), [AUX]() (1; 0% instances), [PUNCT]() (1; 0% instances), [SYM]() (1; 0% instances), [X]() (1; 0% instances)
 
-1897 (49%) `PROPN` nodes are leaves.
+2882 (49%) `PROPN` nodes are leaves.
 
-1144 (29%) `PROPN` nodes have one child.
+1760 (30%) `PROPN` nodes have one child.
 
-422 (11%) `PROPN` nodes have two children.
+671 (11%) `PROPN` nodes have two children.
 
-431 (11%) `PROPN` nodes have three or more children.
+610 (10%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 17.
+The highest child degree of a `PROPN` node is 25.
 
-Children of `PROPN` nodes are attached using 28 different relations: [ro-dep/case]() (899; 24% instances), [ro-dep/punct]() (796; 22% instances), [ro-dep/name]() (717; 19% instances), [ro-dep/conj]() (308; 8% instances), [ro-dep/det]() (294; 8% instances), [ro-dep/cc]() (160; 4% instances), [ro-dep/nmod]() (138; 4% instances), [ro-dep/appos]() (77; 2% instances), [ro-dep/acl]() (75; 2% instances), [ro-dep/amod]() (63; 2% instances), [ro-dep/advmod]() (39; 1% instances), [ro-dep/foreign]() (31; 1% instances), [ro-dep/parataxis]() (19; 1% instances), [ro-dep/nummod]() (15; 0% instances), [ro-dep/remnant]() (14; 0% instances), [ro-dep/mwe]() (8; 0% instances), [ro-dep/cop]() (7; 0% instances), [ro-dep/goeswith]() (6; 0% instances), [ro-dep/list]() (6; 0% instances), [ro-dep/nsubj]() (5; 0% instances), [ro-dep/aux]() (4; 0% instances), [ro-dep/iobj]() (2; 0% instances), [ro-dep/nmod:pmod]() (2; 0% instances), [ro-dep/advcl]() (1; 0% instances), [ro-dep/cc:preconj]() (1; 0% instances), [ro-dep/csubj]() (1; 0% instances), [ro-dep/dep]() (1; 0% instances), [ro-dep/dobj]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 28 different relations: [ro-dep/case]() (1394; 25% instances), [ro-dep/punct]() (1126; 20% instances), [ro-dep/name]() (889; 16% instances), [ro-dep/conj]() (514; 9% instances), [ro-dep/det]() (478; 9% instances), [ro-dep/cc]() (255; 5% instances), [ro-dep/nmod]() (242; 4% instances), [ro-dep/appos]() (117; 2% instances), [ro-dep/acl]() (115; 2% instances), [ro-dep/amod]() (105; 2% instances), [ro-dep/mwe]() (100; 2% instances), [ro-dep/foreign]() (72; 1% instances), [ro-dep/nummod]() (65; 1% instances), [ro-dep/advmod]() (56; 1% instances), [ro-dep/parataxis]() (17; 0% instances), [ro-dep/remnant]() (17; 0% instances), [ro-dep/cop]() (13; 0% instances), [ro-dep/nsubj]() (12; 0% instances), [ro-dep/goeswith]() (5; 0% instances), [ro-dep/aux]() (4; 0% instances), [ro-dep/mark]() (3; 0% instances), [ro-dep/advcl]() (1; 0% instances), [ro-dep/cc:preconj]() (1; 0% instances), [ro-dep/dep]() (1; 0% instances), [ro-dep/expl]() (1; 0% instances), [ro-dep/expl:pv]() (1; 0% instances), [ro-dep/list]() (1; 0% instances), [ro-dep/nmod:pmod]() (1; 0% instances)
 
-Children of `PROPN` nodes belong to 15 different parts of speech: [PROPN]() (892; 24% instances), [ADP]() (891; 24% instances), [PUNCT]() (778; 21% instances), [NOUN]() (336; 9% instances), [DET]() (295; 8% instances), [CONJ]() (159; 4% instances), [VERB]() (100; 3% instances), [ADJ]() (91; 2% instances), [ADV]() (59; 2% instances), [NUM]() (53; 1% instances), [PRON]() (18; 0% instances), [SYM]() (12; 0% instances), [AUX]() (4; 0% instances), [INTJ]() (1; 0% instances), [X]() (1; 0% instances)
+Children of `PROPN` nodes belong to 17 different parts of speech: [ADP]() (1385; 25% instances), [PROPN]() (1346; 24% instances), [PUNCT]() (1109; 20% instances), [NOUN]() (521; 9% instances), [DET]() (481; 9% instances), [CONJ]() (255; 5% instances), [VERB]() (142; 3% instances), [ADJ]() (137; 2% instances), [ADV]() (83; 1% instances), [NUM]() (82; 1% instances), [PRON]() (33; 1% instances), [SYM]() (17; 0% instances), [X]() (6; 0% instances), [AUX]() (4; 0% instances), [SCONJ]() (3; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances)
 

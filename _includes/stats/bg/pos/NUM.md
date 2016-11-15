@@ -72,21 +72,21 @@ Examples: <em>3, 10, 20, три, 000, 15, 5, 4, 6, 30</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 10 different relations: [bg-dep/nummod]() (1723; 82% instances), [bg-dep/nmod]() (142; 7% instances), [bg-dep/nsubj]() (64; 3% instances), [bg-dep/mwe]() (53; 3% instances), [bg-dep/conj]() (43; 2% instances), [bg-dep/dobj]() (41; 2% instances), [bg-dep/iobj]() (21; 1% instances), [bg-dep/nsubjpass]() (11; 1% instances), [bg-dep/root]() (4; 0% instances), [bg-dep/discourse]() (2; 0% instances)
+`NUM` nodes are attached to their parents using 12 different relations: [bg-dep/nummod]() (1723; 82% instances), [bg-dep/nmod]() (142; 7% instances), [bg-dep/nsubj]() (62; 3% instances), [bg-dep/mwe]() (53; 3% instances), [bg-dep/conj]() (42; 2% instances), [bg-dep/dobj]() (41; 2% instances), [bg-dep/iobj]() (21; 1% instances), [bg-dep/nsubjpass]() (11; 1% instances), [bg-dep/root]() (5; 0% instances), [bg-dep/discourse]() (2; 0% instances), [bg-dep/acl]() (1; 0% instances), [bg-dep/remnant]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 9 different parts of speech: [NOUN]() (1769; 84% instances), [VERB]() (155; 7% instances), [NUM]() (125; 6% instances), [PROPN]() (41; 2% instances), [ROOT]() (4; 0% instances), [ADJ]() (3; 0% instances), [ADV]() (3; 0% instances), [PRON]() (3; 0% instances), [DET]() (1; 0% instances)
+Parents of `NUM` nodes belong to 9 different parts of speech: [NOUN]() (1768; 84% instances), [VERB]() (155; 7% instances), [NUM]() (125; 6% instances), [PROPN]() (41; 2% instances), [ROOT]() (5; 0% instances), [ADJ]() (3; 0% instances), [ADV]() (3; 0% instances), [PRON]() (3; 0% instances), [DET]() (1; 0% instances)
 
 1743 (83%) `NUM` nodes are leaves.
 
-248 (12%) `NUM` nodes have one child.
+247 (12%) `NUM` nodes have one child.
 
-79 (4%) `NUM` nodes have two children.
+78 (4%) `NUM` nodes have two children.
 
-34 (2%) `NUM` nodes have three or more children.
+36 (2%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 12.
 
-Children of `NUM` nodes are attached using 13 different relations: [bg-dep/case]() (171; 32% instances), [bg-dep/nmod]() (120; 22% instances), [bg-dep/mwe]() (52; 10% instances), [bg-dep/conj]() (49; 9% instances), [bg-dep/punct]() (44; 8% instances), [bg-dep/advmod]() (35; 6% instances), [bg-dep/cc]() (32; 6% instances), [bg-dep/neg]() (12; 2% instances), [bg-dep/amod]() (9; 2% instances), [bg-dep/acl]() (7; 1% instances), [bg-dep/det]() (7; 1% instances), [bg-dep/cop]() (2; 0% instances), [bg-dep/nsubj]() (2; 0% instances)
+Children of `NUM` nodes are attached using 14 different relations: [bg-dep/case]() (170; 31% instances), [bg-dep/nmod]() (120; 22% instances), [bg-dep/mwe]() (52; 9% instances), [bg-dep/conj]() (48; 9% instances), [bg-dep/punct]() (48; 9% instances), [bg-dep/advmod]() (37; 7% instances), [bg-dep/cc]() (31; 6% instances), [bg-dep/neg]() (12; 2% instances), [bg-dep/amod]() (9; 2% instances), [bg-dep/acl]() (7; 1% instances), [bg-dep/det]() (7; 1% instances), [bg-dep/cop]() (4; 1% instances), [bg-dep/nsubj]() (4; 1% instances), [bg-dep/compound]() (2; 0% instances)
 
-Children of `NUM` nodes belong to 13 different parts of speech: [ADP]() (171; 32% instances), [NUM]() (125; 23% instances), [NOUN]() (71; 13% instances), [PUNCT]() (44; 8% instances), [ADV]() (35; 6% instances), [CONJ]() (32; 6% instances), [ADJ]() (24; 4% instances), [PRON]() (15; 3% instances), [PART]() (10; 2% instances), [VERB]() (10; 2% instances), [INTJ]() (2; 0% instances), [PROPN]() (2; 0% instances), [DET]() (1; 0% instances)
+Children of `NUM` nodes belong to 13 different parts of speech: [ADP]() (170; 31% instances), [NUM]() (125; 23% instances), [NOUN]() (73; 13% instances), [PUNCT]() (48; 9% instances), [ADV]() (37; 7% instances), [CONJ]() (32; 6% instances), [ADJ]() (24; 4% instances), [PRON]() (15; 3% instances), [VERB]() (12; 2% instances), [PART]() (10; 2% instances), [INTJ]() (2; 0% instances), [PROPN]() (2; 0% instances), [DET]() (1; 0% instances)
 

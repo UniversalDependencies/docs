@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `auxpass`: [no-pos/V
 10	puben	pub	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	_
 11	og	og	CONJ	_	_	8	cc	_	_
 12	blir	bli	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	auxpass	_	_
-13	fristet	friste	VERB	_	VerbForm=Part	8	conj	_	_
+13	fristet	friste	VERB	_	VerbForm=Part	8	conj	_	SpaceAfter=No
 14	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~

@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: पूरा, शामिल, अन्य, 
 
 The 10 most frequent `ADJ` types:  शामिल, अन्य, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित, पूरी, वरिष्ठ
 
-The 10 most frequent ambiguous lemmas: अन्य ([ADJ]() 322, [NOUN]() 32, [PRON]() 1), नया ([ADJ]() 275, [PROPN]() 43), पूर्व ([ADJ]() 261, [ADP]() 47, [ADV]() 22, [PROPN]() 18), भारतीय ([ADJ]() 235, [PROPN]() 143, [NOUN]() 42), दूसरा ([ADJ]() 215, [PRON]() 38, [NOUN]() 10, [NUM]() 1, [PROPN]() 1), पहला ([ADJ]() 200, [ADV]() 14, [ADP]() 12, [PROPN]() 1, [NOUN]() 1), वरिष्ठ ([ADJ]() 182, [NOUN]() 1), बड़ा ([ADJ]() 161, [X]() 3, [PROPN]() 2, [NOUN]() 2), अगला ([ADJ]() 156, [ADP]() 1), अलग ([ADJ]() 151, [ADV]() 23, [X]() 3, [ADP]() 1)
+The 10 most frequent ambiguous lemmas: अन्य ([ADJ]() 322, [NOUN]() 32, [PRON]() 1), नया ([ADJ]() 275, [PROPN]() 43), पूर्व ([ADJ]() 261, [ADP]() 47, [ADV]() 22, [PROPN]() 18), भारतीय ([ADJ]() 235, [PROPN]() 143, [NOUN]() 42), दूसरा ([ADJ]() 215, [PRON]() 38, [NOUN]() 10, [PROPN]() 1, [NUM]() 1), पहला ([ADJ]() 200, [ADV]() 14, [ADP]() 12, [PROPN]() 1, [NOUN]() 1), वरिष्ठ ([ADJ]() 182, [NOUN]() 1), बड़ा ([ADJ]() 161, [X]() 3, [NOUN]() 2, [PROPN]() 2), अगला ([ADJ]() 156, [ADP]() 1), अलग ([ADJ]() 151, [ADV]() 23, [X]() 3, [ADP]() 1)
 
 The 10 most frequent ambiguous types:  अन्य ([ADJ]() 322, [NOUN]() 32, [PRON]() 1), पूर्व ([ADJ]() 261, [ADP]() 47, [ADV]() 22, [PROPN]() 18), भारतीय ([ADJ]() 235, [PROPN]() 143, [NOUN]() 18), वरिष्ठ ([ADJ]() 181, [NOUN]() 1), अलग ([ADJ]() 151, [ADV]() 23, [X]() 3, [ADP]() 1), अगले ([ADJ]() 138, [ADP]() 1), विशेष ([ADJ]() 136, [NOUN]() 8, [PROPN]() 6), अमेरिकी ([ADJ]() 134, [PROPN]() 13, [NOUN]() 1), बंद ([ADJ]() 131, [NOUN]() 4, [PROPN]() 3), मुख्य ([ADJ]() 130, [NOUN]() 27, [PROPN]() 3)
 

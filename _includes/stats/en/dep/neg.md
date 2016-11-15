@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-2629 nodes (1%) are attached to their parents as `neg`.
+2588 nodes (1%) are attached to their parents as `neg`.
 
-2556 instances of `neg` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3575503993914.
+2517 instances of `neg` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.36051004636785.
 
-The following 27 pairs of parts of speech are connected with `neg`: [en-pos/VERB]()-[en-pos/PART]() (1468; 56% instances), [en-pos/NOUN]()-[en-pos/DET]() (308; 12% instances), [en-pos/ADJ]()-[en-pos/PART]() (218; 8% instances), [en-pos/VERB]()-[en-pos/ADV]() (192; 7% instances), [en-pos/NOUN]()-[en-pos/PART]() (147; 6% instances), [en-pos/ADV]()-[en-pos/ADV]() (73; 3% instances), [en-pos/ADV]()-[en-pos/PART]() (59; 2% instances), [en-pos/ADJ]()-[en-pos/ADV]() (50; 2% instances), [en-pos/NOUN]()-[en-pos/ADV]() (42; 2% instances), [en-pos/AUX]()-[en-pos/PART]() (12; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (11; 0% instances), [en-pos/PROPN]()-[en-pos/PART]() (10; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (8; 0% instances), [en-pos/DET]()-[en-pos/ADV]() (5; 0% instances), [en-pos/DET]()-[en-pos/PART]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (3; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/DET]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/CONJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/CONJ]() (2; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/X]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/PART]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PART]() (1; 0% instances), [en-pos/VERB]()-[en-pos/CONJ]() (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `neg`: [en-pos/VERB]()-[en-pos/PART]() (1440; 56% instances), [en-pos/NOUN]()-[en-pos/DET]() (304; 12% instances), [en-pos/ADJ]()-[en-pos/PART]() (218; 8% instances), [en-pos/VERB]()-[en-pos/ADV]() (187; 7% instances), [en-pos/NOUN]()-[en-pos/PART]() (143; 6% instances), [en-pos/ADV]()-[en-pos/ADV]() (73; 3% instances), [en-pos/ADV]()-[en-pos/PART]() (58; 2% instances), [en-pos/ADJ]()-[en-pos/ADV]() (50; 2% instances), [en-pos/NOUN]()-[en-pos/ADV]() (38; 1% instances), [en-pos/PRON]()-[en-pos/PART]() (14; 1% instances), [en-pos/AUX]()-[en-pos/PART]() (12; 0% instances), [en-pos/PROPN]()-[en-pos/PART]() (9; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (8; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (6; 0% instances), [en-pos/DET]()-[en-pos/ADV]() (5; 0% instances), [en-pos/DET]()-[en-pos/PART]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/DET]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/CONJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/CONJ]() (2; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (2; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/X]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/PART]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PART]() (1; 0% instances), [en-pos/VERB]()-[en-pos/CONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 27 pairs of parts of speech are connected with `neg`: [en-pos/VERB
 # visual-style 2 1 neg	color:blue
 1	No	no	DET	DT	_	2	neg	_	_
 2	communications	communication	NOUN	NNS	Number=Plur	0	root	_	_
-3	nothing	nothing	NOUN	NN	Number=Sing	2	conj	_	SpaceAfter=No
+3	nothing	nothing	PRON	NN	Number=Sing	2	conj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -101,7 +101,7 @@ The following 21 pairs of parts of speech are connected with `neg`: [en-pos/VERB
 12	_	_	VERB	VBP	_	2	advcl	_	_
 13	_	_	PART	RB	_	12	neg	_	_
 14	_	_	VERB	VB	_	12	xcomp	_	_
-15	_	_	NOUN	NN	_	14	dobj	_	_
+15	_	_	PRON	NN	_	14	dobj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
 ~~~

@@ -11,7 +11,7 @@ The 10 most frequent `PART` lemmas: <em>te, als, om, op, uit, aan, door, af, in,
 
 The 10 most frequent `PART` types:  <em>te, als, om, op, uit, aan, door, af, in, over</em>
 
-The 10 most frequent ambiguous lemmas: <em>te</em> ([PART]() 407, [ADP]() 172, [ADV]() 17), <em>als</em> ([PART]() 316, [SCONJ]() 88, [ADP]() 3), <em>om</em> ([PART]() 161, [ADP]() 40), <em>op</em> ([ADP]() 706, [PART]() 82, [PROPN]() 1), <em>uit</em> ([ADP]() 236, [PART]() 77), <em>aan</em> ([ADP]() 338, [PART]() 49), <em>door</em> ([ADP]() 419, [PART]() 45), <em>af</em> ([PART]() 42, [ADP]() 9), <em>in</em> ([ADP]() 2408, [PART]() 30, [PROPN]() 1, [X]() 1), <em>over</em> ([ADP]() 133, [PART]() 24)
+The 10 most frequent ambiguous lemmas: <em>te</em> ([PART]() 407, [ADP]() 172, [ADV]() 17), <em>als</em> ([PART]() 316, [SCONJ]() 88, [ADP]() 3), <em>om</em> ([PART]() 161, [ADP]() 40), <em>op</em> ([ADP]() 706, [PART]() 82, [PROPN]() 1), <em>uit</em> ([ADP]() 236, [PART]() 77), <em>aan</em> ([ADP]() 338, [PART]() 49), <em>door</em> ([ADP]() 419, [PART]() 45), <em>af</em> ([PART]() 42, [ADP]() 9), <em>in</em> ([ADP]() 2408, [PART]() 30, [X]() 1, [PROPN]() 1), <em>over</em> ([ADP]() 133, [PART]() 24)
 
 The 10 most frequent ambiguous types:  <em>te</em> ([PART]() 407, [ADP]() 88, [ADV]() 17), <em>als</em> ([PART]() 305, [SCONJ]() 80, [ADV]() 1), <em>om</em> ([PART]() 154, [ADP]() 35), <em>op</em> ([ADP]() 586, [PART]() 81, [PROPN]() 1), <em>uit</em> ([ADP]() 224, [PART]() 77), <em>aan</em> ([ADP]() 320, [PART]() 49), <em>door</em> ([ADP]() 379, [PART]() 43), <em>af</em> ([PART]() 42, [ADP]() 7), <em>in</em> ([ADP]() 1979, [PART]() 30, [X]() 1, [PROPN]() 1), <em>over</em> ([ADP]() 129, [PART]() 24)
 

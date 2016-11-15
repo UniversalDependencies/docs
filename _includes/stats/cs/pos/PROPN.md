@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` types:  <em>Praha, ČR, Praze, LN, ODS, USA, J, Ji�
 
 The 10 most frequent ambiguous lemmas: <em>J</em> ([PROPN]() 422, [ADJ]() 30), <em>M</em> ([PROPN]() 244, [NOUN]() 8, [ADJ]() 1), <em>V</em> ([PROPN]() 210, [NUM]() 23, [NOUN]() 7, [ADJ]() 5), <em>A</em> ([PROPN]() 172, [NOUN]() 8, [ADJ]() 8), <em>York</em> ([PROPN]() 165, [ADJ]() 5), <em>P</em> ([PROPN]() 136, [ADJ]() 4, [NOUN]() 2), <em>S</em> ([PROPN]() 116, [ADJ]() 12, [NOUN]() 2), <em>Washington</em> ([PROPN]() 111, [ADJ]() 1), <em>r</em> ([NOUN]() 55, [PROPN]() 1, [ADV]() 1), <em>F</em> ([PROPN]() 99, [NOUN]() 12, [ADJ]() 10)
 
-The 10 most frequent ambiguous types:  <em>J</em> ([PROPN]() 422, [ADJ]() 30, [NOUN]() 3), <em>M</em> ([PROPN]() 244, [NOUN]() 51, [X]() 3, [ADJ]() 1), <em>V</em> ([ADP]() 3736, [PROPN]() 210, [NUM]() 23, [NOUN]() 15, [ADJ]() 6, [ADV]() 2), <em>A</em> ([CONJ]() 1042, [PROPN]() 172, [NOUN]() 93, [ADJ]() 19, [X]() 4), <em>Rusko</em> ([PROPN]() 163, [ADJ]() 3), <em>Německo</em> ([PROPN]() 144, [ADJ]() 2), <em>P</em> ([PROPN]() 136, [NOUN]() 124, [ADJ]() 17, [ADP]() 1), <em>S</em> ([ADP]() 470, [PROPN]() 117, [NOUN]() 38, [ADJ]() 14, [X]() 3), <em>r</em> ([NOUN]() 433, [PROPN]() 1, [ADV]() 1), <em>F</em> ([PROPN]() 99, [NOUN]() 27, [ADJ]() 10)
+The 10 most frequent ambiguous types:  <em>J</em> ([PROPN]() 422, [ADJ]() 30, [NOUN]() 3), <em>M</em> ([PROPN]() 244, [NOUN]() 51, [X]() 3, [ADJ]() 1), <em>V</em> ([ADP]() 3736, [PROPN]() 210, [NUM]() 23, [NOUN]() 15, [ADJ]() 6, [ADV]() 2), <em>A</em> ([CONJ]() 1042, [PROPN]() 172, [NOUN]() 93, [ADJ]() 19, [X]() 4), <em>Rusko</em> ([PROPN]() 163, [ADJ]() 3), <em>Německo</em> ([PROPN]() 144, [ADJ]() 2), <em>P</em> ([PROPN]() 136, [NOUN]() 124, [ADJ]() 17, [ADP]() 1), <em>S</em> ([ADP]() 470, [PROPN]() 117, [NOUN]() 38, [ADJ]() 14, [X]() 3), <em>r</em> ([NOUN]() 433, [ADV]() 1, [PROPN]() 1), <em>F</em> ([PROPN]() 99, [NOUN]() 27, [ADJ]() 10)
 
 
 * <em>J</em>
@@ -57,8 +57,8 @@ The 10 most frequent ambiguous types:  <em>J</em> ([PROPN]() 422, [ADJ]() 30, [N
   * [X]() 3: <em>Nenápadný půvab M . A . <b>S</b> . H .</em>
 * <em>r</em>
   * [NOUN]() 433: <em>Skutečnost <b>r</b> . 1992</em>
-  * [PROPN]() 1: <em>( <b>r</b> ) ( ČT 1 - 20.30 )</em>
   * [ADV]() 1: <em>Uwe Fink z Arizonské univerzity zkoumal spektra Yamakovy komety ( 1988 <b>r</b> ) a zjistil , že prakticky neobsahuje molekulární uhlík a kyan , čímž se výrazně liší od běžných komet .</em>
+  * [PROPN]() 1: <em>( <b>r</b> ) ( ČT 1 - 20.30 )</em>
 * <em>F</em>
   * [PROPN]() 99: <em><b>F</b> . Castro : Za kubánský exodus nesou vinu Spojené státy</em>
   * [NOUN]() 27: <em>Mansell se vrací do <b>F</b> 1</em>
@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  <em>J</em> ([PROPN]() 422, [ADJ]() 30, [N
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.439229 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `PROPN` is 1.439229 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (11) was observed with the lemma “Čech”: <em>ČECH, ČEŠI, Čech, Čecha, Čechem, Čechovi, Čechy, Čechů, Čechům, Češi, Češích</em>.
 
@@ -187,7 +187,7 @@ Parents of `PROPN` nodes belong to 12 different parts of speech: [NOUN]() (4203;
 
 The highest child degree of a `PROPN` node is 97.
 
-Children of `PROPN` nodes are attached using 22 different relations: [cs-dep/case]() (2280; 22% instances), [cs-dep/nmod]() (1962; 19% instances), [cs-dep/conj]() (1572; 15% instances), [cs-dep/punct]() (1439; 14% instances), [cs-dep/name]() (848; 8% instances), [cs-dep/cc]() (657; 6% instances), [cs-dep/amod]() (634; 6% instances), [cs-dep/advmod:emph]() (186; 2% instances), [cs-dep/appos]() (179; 2% instances), [cs-dep/acl]() (158; 2% instances), [cs-dep/xcomp]() (63; 1% instances), [cs-dep/dep]() (59; 1% instances), [cs-dep/mark]() (47; 0% instances), [cs-dep/nummod]() (34; 0% instances), [cs-dep/det]() (32; 0% instances), [cs-dep/foreign]() (17; 0% instances), [cs-dep/advmod]() (8; 0% instances), [cs-dep/cop]() (8; 0% instances), [cs-dep/nsubj]() (7; 0% instances), [cs-dep/dobj]() (6; 0% instances), [cs-dep/parataxis]() (6; 0% instances), [cs-dep/nummod:gov]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 22 different relations: [cs-dep/case]() (2280; 22% instances), [cs-dep/nmod]() (1950; 19% instances), [cs-dep/conj]() (1572; 15% instances), [cs-dep/punct]() (1439; 14% instances), [cs-dep/name]() (848; 8% instances), [cs-dep/cc]() (657; 6% instances), [cs-dep/amod]() (634; 6% instances), [cs-dep/advmod:emph]() (186; 2% instances), [cs-dep/appos]() (179; 2% instances), [cs-dep/acl]() (158; 2% instances), [cs-dep/xcomp]() (63; 1% instances), [cs-dep/dep]() (59; 1% instances), [cs-dep/mark]() (47; 0% instances), [cs-dep/nummod]() (34; 0% instances), [cs-dep/det]() (32; 0% instances), [cs-dep/foreign]() (29; 0% instances), [cs-dep/advmod]() (8; 0% instances), [cs-dep/cop]() (8; 0% instances), [cs-dep/nsubj]() (7; 0% instances), [cs-dep/dobj]() (6; 0% instances), [cs-dep/parataxis]() (6; 0% instances), [cs-dep/nummod:gov]() (1; 0% instances)
 
 Children of `PROPN` nodes belong to 14 different parts of speech: [PROPN]() (2633; 26% instances), [ADP]() (2265; 22% instances), [PUNCT]() (1440; 14% instances), [NOUN]() (1356; 13% instances), [ADJ]() (689; 7% instances), [CONJ]() (675; 7% instances), [SYM]() (584; 6% instances), [VERB]() (186; 2% instances), [ADV]() (164; 2% instances), [NUM]() (67; 1% instances), [SCONJ]() (48; 0% instances), [PART]() (39; 0% instances), [DET]() (32; 0% instances), [PRON]() (25; 0% instances)
 

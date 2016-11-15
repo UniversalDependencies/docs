@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-11283 nodes (13%) are attached to their parents as `punct`.
+17004 nodes (12%) are attached to their parents as `punct`.
 
-7840 instances of `punct` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.09580785252149.
+12357 instances of `punct` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.33780286991296.
 
-The following 18 pairs of parts of speech are connected with `punct`: [hr-pos/VERB]()-[hr-pos/PUNCT]() (5354; 47% instances), [hr-pos/NOUN]()-[hr-pos/PUNCT]() (2978; 26% instances), [hr-pos/ADJ]()-[hr-pos/PUNCT]() (1221; 11% instances), [hr-pos/PROPN]()-[hr-pos/PUNCT]() (821; 7% instances), [hr-pos/ADV]()-[hr-pos/PUNCT]() (566; 5% instances), [hr-pos/AUX]()-[hr-pos/PUNCT]() (106; 1% instances), [hr-pos/PRON]()-[hr-pos/PUNCT]() (82; 1% instances), [hr-pos/X]()-[hr-pos/PUNCT]() (58; 1% instances), [hr-pos/NUM]()-[hr-pos/PUNCT]() (56; 0% instances), [hr-pos/CONJ]()-[hr-pos/PUNCT]() (11; 0% instances), [hr-pos/ADP]()-[hr-pos/PUNCT]() (9; 0% instances), [hr-pos/PUNCT]()-[hr-pos/PUNCT]() (6; 0% instances), [hr-pos/PART]()-[hr-pos/PUNCT]() (5; 0% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (3; 0% instances), [hr-pos/SCONJ]()-[hr-pos/PUNCT]() (2; 0% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (2; 0% instances), [hr-pos/VERB]()-[hr-pos/SCONJ]() (2; 0% instances), [hr-pos/NUM]()-[hr-pos/X]() (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `punct`: [hr-pos/VERB]()-[hr-pos/PUNCT]() (7851; 46% instances), [hr-pos/NOUN]()-[hr-pos/PUNCT]() (4592; 27% instances), [hr-pos/ADJ]()-[hr-pos/PUNCT]() (1918; 11% instances), [hr-pos/PROPN]()-[hr-pos/PUNCT]() (1116; 7% instances), [hr-pos/ADV]()-[hr-pos/PUNCT]() (813; 5% instances), [hr-pos/AUX]()-[hr-pos/PUNCT]() (199; 1% instances), [hr-pos/PRON]()-[hr-pos/PUNCT]() (156; 1% instances), [hr-pos/NUM]()-[hr-pos/PUNCT]() (135; 1% instances), [hr-pos/ADP]()-[hr-pos/PUNCT]() (74; 0% instances), [hr-pos/X]()-[hr-pos/PUNCT]() (58; 0% instances), [hr-pos/CONJ]()-[hr-pos/PUNCT]() (35; 0% instances), [hr-pos/PART]()-[hr-pos/PUNCT]() (26; 0% instances), [hr-pos/PUNCT]()-[hr-pos/PUNCT]() (6; 0% instances), [hr-pos/SCONJ]()-[hr-pos/PUNCT]() (6; 0% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (4; 0% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (3; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADJ]() (2; 0% instances), [hr-pos/NUM]()-[hr-pos/ADP]() (2; 0% instances), [hr-pos/VERB]()-[hr-pos/SCONJ]() (2; 0% instances), [hr-pos/ADJ]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/ADP]()-[hr-pos/CONJ]() (1; 0% instances), [hr-pos/INTJ]()-[hr-pos/PUNCT]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/VERB]() (1; 0% instances), [hr-pos/NUM]()-[hr-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu

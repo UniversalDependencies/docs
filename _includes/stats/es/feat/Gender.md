@@ -163,7 +163,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>haber</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>haber, han</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>han, haber</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td></td><td><em>has</em></td></tr>
 </table>
 
@@ -290,7 +290,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 4616 [es-pos/VERB]() tokens (10% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (4615; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4615; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4615; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4615; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4311; 93%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4615; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4615; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4615; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4615; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4311; 93%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -318,7 +318,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>lo, Les, le</em></td><td><em>la</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>lo, le, Les</em></td><td><em>la</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>los, les</em></td><td><em>las</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>él</em></td><td><em>ella</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>ellos</em></td><td><em>ellas, les</em></td></tr>
@@ -328,7 +328,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 627 [es-pos/AUX]() tokens (4% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (627; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (627; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (627; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (627; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (610; 97%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (627; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (627; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (627; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (627; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (610; 97%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -348,7 +348,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 291 [es-pos/NUM]() tokens (3% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (290; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (290; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (176; 60%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (290; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (290; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (176; 60%).
 
 `NUM` tokens may have the following values of `Gender`:
 

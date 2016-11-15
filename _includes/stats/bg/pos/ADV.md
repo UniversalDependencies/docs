@@ -68,21 +68,21 @@ Examples: <em>още, вчера, само, защото, обаче, вече, 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 15 different relations: [bg-dep/advmod]() (5618; 86% instances), [bg-dep/dobj]() (279; 4% instances), [bg-dep/root]() (217; 3% instances), [bg-dep/nsubj]() (105; 2% instances), [bg-dep/conj]() (97; 1% instances), [bg-dep/mark]() (73; 1% instances), [bg-dep/cc]() (65; 1% instances), [bg-dep/ccomp]() (25; 0% instances), [bg-dep/mwe]() (23; 0% instances), [bg-dep/advcl]() (15; 0% instances), [bg-dep/nmod]() (14; 0% instances), [bg-dep/acl]() (8; 0% instances), [bg-dep/csubj]() (8; 0% instances), [bg-dep/nsubjpass]() (8; 0% instances), [bg-dep/iobj]() (3; 0% instances)
+`ADV` nodes are attached to their parents using 18 different relations: [bg-dep/advmod]() (5695; 87% instances), [bg-dep/dobj]() (269; 4% instances), [bg-dep/root]() (218; 3% instances), [bg-dep/conj]() (97; 1% instances), [bg-dep/mark]() (73; 1% instances), [bg-dep/cc]() (65; 1% instances), [bg-dep/ccomp]() (28; 0% instances), [bg-dep/mwe]() (27; 0% instances), [bg-dep/nsubj]() (25; 0% instances), [bg-dep/advcl]() (17; 0% instances), [bg-dep/nmod]() (14; 0% instances), [bg-dep/acl]() (8; 0% instances), [bg-dep/csubj]() (6; 0% instances), [bg-dep/xcomp]() (6; 0% instances), [bg-dep/iobj]() (5; 0% instances), [bg-dep/nsubjpass]() (3; 0% instances), [bg-dep/amod]() (1; 0% instances), [bg-dep/goeswith]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 13 different parts of speech: [VERB]() (4082; 62% instances), [NOUN]() (990; 15% instances), [ADJ]() (588; 9% instances), [ADV]() (449; 7% instances), [ROOT]() (217; 3% instances), [ADP]() (78; 1% instances), [DET]() (40; 1% instances), [PRON]() (40; 1% instances), [NUM]() (35; 1% instances), [PROPN]() (30; 0% instances), [CONJ]() (5; 0% instances), [INTJ]() (2; 0% instances), [PART]() (2; 0% instances)
+Parents of `ADV` nodes belong to 13 different parts of speech: [VERB]() (4071; 62% instances), [NOUN]() (994; 15% instances), [ADJ]() (590; 9% instances), [ADV]() (452; 7% instances), [ROOT]() (218; 3% instances), [ADP]() (72; 1% instances), [PRON]() (44; 1% instances), [DET]() (41; 1% instances), [NUM]() (37; 1% instances), [PROPN]() (30; 0% instances), [CONJ]() (5; 0% instances), [INTJ]() (2; 0% instances), [PART]() (2; 0% instances)
 
-5470 (83%) `ADV` nodes are leaves.
+5461 (83%) `ADV` nodes are leaves.
 
-608 (9%) `ADV` nodes have one child.
+612 (9%) `ADV` nodes have one child.
 
 182 (3%) `ADV` nodes have two children.
 
-298 (5%) `ADV` nodes have three or more children.
+303 (5%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 9.
 
-Children of `ADV` nodes are attached using 21 different relations: [bg-dep/punct]() (464; 21% instances), [bg-dep/advmod]() (359; 17% instances), [bg-dep/nmod]() (290; 13% instances), [bg-dep/cop]() (258; 12% instances), [bg-dep/mwe]() (166; 8% instances), [bg-dep/csubj]() (114; 5% instances), [bg-dep/cc]() (108; 5% instances), [bg-dep/conj]() (106; 5% instances), [bg-dep/nsubj]() (95; 4% instances), [bg-dep/neg]() (63; 3% instances), [bg-dep/discourse]() (39; 2% instances), [bg-dep/mark]() (30; 1% instances), [bg-dep/advcl]() (24; 1% instances), [bg-dep/case]() (21; 1% instances), [bg-dep/aux]() (18; 1% instances), [bg-dep/expl]() (9; 0% instances), [bg-dep/dobj]() (3; 0% instances), [bg-dep/acl]() (2; 0% instances), [bg-dep/appos]() (2; 0% instances), [bg-dep/det]() (2; 0% instances), [bg-dep/iobj]() (1; 0% instances)
+Children of `ADV` nodes are attached using 20 different relations: [bg-dep/punct]() (468; 21% instances), [bg-dep/advmod]() (361; 16% instances), [bg-dep/nmod]() (292; 13% instances), [bg-dep/cop]() (262; 12% instances), [bg-dep/mwe]() (169; 8% instances), [bg-dep/csubj]() (114; 5% instances), [bg-dep/cc]() (108; 5% instances), [bg-dep/conj]() (106; 5% instances), [bg-dep/nsubj]() (93; 4% instances), [bg-dep/neg]() (63; 3% instances), [bg-dep/discourse]() (39; 2% instances), [bg-dep/mark]() (30; 1% instances), [bg-dep/case]() (27; 1% instances), [bg-dep/advcl]() (24; 1% instances), [bg-dep/aux]() (19; 1% instances), [bg-dep/expl]() (10; 0% instances), [bg-dep/iobj]() (4; 0% instances), [bg-dep/dobj]() (3; 0% instances), [bg-dep/acl]() (2; 0% instances), [bg-dep/det]() (2; 0% instances)
 
-Children of `ADV` nodes belong to 15 different parts of speech: [PUNCT]() (464; 21% instances), [ADV]() (449; 21% instances), [VERB]() (407; 19% instances), [NOUN]() (327; 15% instances), [CONJ]() (153; 7% instances), [SCONJ]() (108; 5% instances), [PRON]() (68; 3% instances), [INTJ]() (66; 3% instances), [PART]() (56; 3% instances), [PROPN]() (25; 1% instances), [ADP]() (22; 1% instances), [ADJ]() (14; 1% instances), [AUX]() (9; 0% instances), [DET]() (3; 0% instances), [NUM]() (3; 0% instances)
+Children of `ADV` nodes belong to 15 different parts of speech: [PUNCT]() (468; 21% instances), [ADV]() (452; 21% instances), [VERB]() (411; 19% instances), [NOUN]() (327; 15% instances), [CONJ]() (153; 7% instances), [SCONJ]() (108; 5% instances), [PRON]() (72; 3% instances), [INTJ]() (66; 3% instances), [PART]() (57; 3% instances), [ADP]() (28; 1% instances), [PROPN]() (25; 1% instances), [ADJ]() (14; 1% instances), [AUX]() (9; 0% instances), [DET]() (3; 0% instances), [NUM]() (3; 0% instances)
 

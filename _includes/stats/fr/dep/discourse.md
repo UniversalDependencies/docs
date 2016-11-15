@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-46 nodes (0%) are attached to their parents as `discourse`.
+45 nodes (0%) are attached to their parents as `discourse`.
 
-33 instances of `discourse` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.8695652173913.
+34 instances of `discourse` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.95555555555556.
 
-The following 7 pairs of parts of speech are connected with `discourse`: [fr-pos/VERB]()-[fr-pos/INTJ]() (25; 54% instances), [fr-pos/NOUN]()-[fr-pos/INTJ]() (11; 24% instances), [fr-pos/ADJ]()-[fr-pos/INTJ]() (5; 11% instances), [fr-pos/INTJ]()-[fr-pos/INTJ]() (2; 4% instances), [fr-pos/PRON]()-[fr-pos/INTJ]() (1; 2% instances), [fr-pos/PROPN]()-[fr-pos/INTJ]() (1; 2% instances), [fr-pos/VERB]()-[fr-pos/SYM]() (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `discourse`: [fr-pos/VERB]()-[fr-pos/INTJ]() (26; 58% instances), [fr-pos/NOUN]()-[fr-pos/INTJ]() (11; 24% instances), [fr-pos/ADJ]()-[fr-pos/INTJ]() (5; 11% instances), [fr-pos/PRON]()-[fr-pos/INTJ]() (1; 2% instances), [fr-pos/PROPN]()-[fr-pos/INTJ]() (1; 2% instances), [fr-pos/VERB]()-[fr-pos/SYM]() (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: [fr-pos
 # visual-style 1 6 discourse	color:blue
 1	Tournons	tourner	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	dans	dans	ADP	_	_	4	case	_	_
-3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing	4	det	_	_
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	Morsure	Morsure	PROPN	_	_	1	nmod	_	_
 5	:	:	PUNCT	_	_	1	punct	_	_
 6	Ah	ah	INTJ	_	_	1	discourse	_	_
@@ -38,7 +38,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: [fr-pos
 # visual-style 3	fgColor:white
 # visual-style 3 1 discourse	color:blue
 1	Ô	ô	INTJ	_	_	3	discourse	_	_
-2	ma	son	DET	_	Gender=Fem|Number=Sing	3	nmod:poss	_	_
+2	ma	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	3	nmod:poss	_	_
 3	vigne	vigne	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 4	bien	bien	ADV	_	_	5	advmod	_	_
 5	aimée	aimer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	amod	_	_

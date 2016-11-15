@@ -7,24 +7,24 @@
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-24984 tokens (6%) have a non-empty value of `Mood`.
-3427 types (8%) occur at least once with a non-empty value of `Mood`.
-1348 lemmas (4%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: [fr-pos/VERB]() (17457; 4% instances), [fr-pos/AUX]() (7527; 2% instances).
+25011 tokens (6%) have a non-empty value of `Mood`.
+3431 types (8%) occur at least once with a non-empty value of `Mood`.
+1346 lemmas (4%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: [fr-pos/VERB]() (17492; 4% instances), [fr-pos/AUX]() (7519; 2% instances).
 
 ### `VERB`
 
-17457 [fr-pos/VERB]() tokens (48% of all `VERB` tokens) have a non-empty value of `Mood`.
+17492 [fr-pos/VERB]() tokens (48% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (17457; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (17457; 100%), <tt><a href="Person.html">Person</a>=3</tt> (16717; 96%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (14185; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (14089; 81%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (17492; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (17492; 100%), <tt><a href="Person.html">Person</a>=3</tt> (16752; 96%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (14219; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (14122; 81%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (176; 1% of non-empty `Mood`): <em>serait, aurait, auraient, aurais, ferait, semblerait, souhaiterait, viendrait, conviendrait, croirait</em>
 * `Imp` (129; 1% of non-empty `Mood`): <em>hésitez, allez, Rappelons, Notons, arrêtez, pensez, Cliquez, Demandez, Suivez, attendez</em>
-* `Ind` (16907; 97% of non-empty `Mood`): <em>est, sont, a, était, fait, fut, trouve, devient, ont, permet</em>
-* `Sub` (245; 1% of non-empty `Mood`): <em>soit, soient, fasse, agisse, aient, ait, arrive, prenne, change, dispose</em>
-* `EMPTY` (18705): <em>né, faire, située, être, fait, situé, été, partir, eu, voir</em>
+* `Ind` (16941; 97% of non-empty `Mood`): <em>est, sont, a, était, fait, fut, trouve, devient, ont, permet</em>
+* `Sub` (246; 1% of non-empty `Mood`): <em>soit, soient, fasse, agisse, aient, ait, arrive, prenne, change, dispose</em>
+* `EMPTY` (18709): <em>né, faire, située, être, fait, situé, été, partir, eu, voir</em>
 
 <table>
   <tr><th>Paradigm <i>être</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -47,17 +47,17 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-7527 [fr-pos/AUX]() tokens (84% of all `AUX` tokens) have a non-empty value of `Mood`.
+7519 [fr-pos/AUX]() tokens (84% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7527; 100%), <tt><a href="Person.html">Person</a>=3</tt> (7084; 94%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (6302; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (5712; 76%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7519; 100%), <tt><a href="Person.html">Person</a>=3</tt> (7076; 94%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (6294; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (5705; 76%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (255; 3% of non-empty `Mood`): <em>aurait, pourrait, devrait, auraient, serait, pourraient, seraient, devraient, aurais, aurions</em>
 * `Imp` (4; 0% of non-empty `Mood`): <em>allez, sois</em>
-* `Ind` (7131; 95% of non-empty `Mood`): <em>a, est, sont, ont, peut, fut, avait, ai, était, doit</em>
+* `Ind` (7123; 95% of non-empty `Mood`): <em>a, est, sont, ont, peut, fut, avait, ai, était, doit</em>
 * `Sub` (137; 2% of non-empty `Mood`): <em>soit, ait, puisse, soient, puissent, aient, fût, eût, veuille, aie</em>
-* `EMPTY` (1464): <em>été, être, avoir, ayant, pu, étant, dû, pouvoir, pouvant, voulu</em>
+* `EMPTY` (1460): <em>été, être, avoir, ayant, pu, étant, dû, pouvoir, pouvant, voulu</em>
 
 <table>
   <tr><th>Paradigm <i>être</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -81,10 +81,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1119; 66%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 67%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1200; 66%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<a href="../dep/compound.html">compound</a>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 67%),
+<tt>VERB --[<a href="../dep/compound.html">compound</a>]--> VERB</tt> (1; 100%).
 

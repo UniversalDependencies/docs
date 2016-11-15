@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-222 nodes (1%) are attached to their parents as `nsubjpass`.
+228 nodes (1%) are attached to their parents as `nsubjpass`.
 
-139 instances of `nsubjpass` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.18018018018018.
+141 instances of `nsubjpass` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.17543859649123.
 
-The following 10 pairs of parts of speech are connected with `nsubjpass`: [lv-pos/VERB]()-[lv-pos/NOUN]() (154; 69% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (24; 11% instances), [lv-pos/VERB]()-[lv-pos/PRON]() (18; 8% instances), [lv-pos/VERB]()-[lv-pos/VERB]() (8; 4% instances), [lv-pos/VERB]()-[lv-pos/PROPN]() (7; 3% instances), [lv-pos/VERB]()-[lv-pos/NUM]() (3; 1% instances), [lv-pos/VERB]()-[lv-pos/X]() (3; 1% instances), [lv-pos/NOUN]()-[lv-pos/PROPN]() (2; 1% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (2; 1% instances), [lv-pos/VERB]()-[lv-pos/ADJ]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nsubjpass`: [lv-pos/VERB]()-[lv-pos/NOUN]() (161; 71% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (25; 11% instances), [lv-pos/VERB]()-[lv-pos/PRON]() (18; 8% instances), [lv-pos/VERB]()-[lv-pos/VERB]() (8; 4% instances), [lv-pos/VERB]()-[lv-pos/PROPN]() (7; 3% instances), [lv-pos/VERB]()-[lv-pos/X]() (3; 1% instances), [lv-pos/NOUN]()-[lv-pos/PROPN]() (2; 1% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (2; 1% instances), [lv-pos/VERB]()-[lv-pos/ADJ]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,7 +20,7 @@ The following 10 pairs of parts of speech are connected with `nsubjpass`: [lv-po
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nsubjpass	color:blue
-1	Tomēr	tomēr	CONJ	ccs	_	5	discourse	_	_
+1	Tomēr	tomēr	CONJ	ccs	_	5	cc	_	_
 2	pavisam	pavisam	ADV	r0q	_	5	advmod	_	_
 3	šis	šis	DET	pd0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	projekts	projekts	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	5	nsubjpass	_	_
@@ -61,7 +61,7 @@ The following 10 pairs of parts of speech are connected with `nsubjpass`: [lv-po
 # visual-style 15	fgColor:white
 # visual-style 15 13 nsubjpass	color:blue
 1	Lai	lai	SCONJ	css	_	2	mark	_	_
-2	tvertu	tvert	VERB	vmnpdmsapsn	Aspect=Perf|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+2	tvertu	tvert	VERB	vmnc0t100an	Mood=Cnd|Negative=Neg|VerbForm=Fin|Voice=Act	9	advcl	_	_
 3	Grūtupu	Grūtupa	PROPN	npfsa4	Case=Acc|Gender=Fem|Number=Sing	2	dobj	_	_
 4	pilnībā	pilnība	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	zc	_	2	punct	_	_

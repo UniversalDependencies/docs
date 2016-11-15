@@ -10,7 +10,7 @@ There are 2 language-specific subtypes of `det`: [det:numgov](), [det:nummod]().
 26236 nodes (2%) are attached to their parents as `det`.
 
 26033 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33042384509834.
+Average distance between parent and child is 1.33034761396554.
 
 The following 4 pairs of parts of speech are connected with `det`: [cs-pos/NOUN]()-[cs-pos/DET]() (25982; 99% instances), [cs-pos/PROPN]()-[cs-pos/DET]() (98; 0% instances), [cs-pos/ADJ]()-[cs-pos/DET]() (81; 0% instances), [cs-pos/PRON]()-[cs-pos/DET]() (75; 0% instances).
 

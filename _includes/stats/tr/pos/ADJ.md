@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: <em>iç, ara, var, kadın, iyi, yan, kız, so
 
 The 10 most frequent `ADJ` types:  <em>var, içinde, yeni, büyük, iyi, yok, son, aynı, başka, kadın</em>
 
-The 10 most frequent ambiguous lemmas: <em>iç</em> ([ADJ]() 135, [VERB]() 35), <em>ara</em> ([ADJ]() 131, [VERB]() 46), <em>var</em> ([ADJ]() 123, [VERB]() 69), <em>iyi</em> ([ADJ]() 93, [ADV]() 2), <em>yan</em> ([ADJ]() 93, [VERB]() 11), <em>kız</em> ([ADJ]() 86, [VERB]() 8), <em>yok</em> ([ADJ]() 78, [ADV]() 50), <em>başka</em> ([ADJ]() 71, [ADP]() 8), <em>erkek</em> ([ADJ]() 59, [PROPN]() 1), <em>çok</em> ([ADV]() 136, [ADJ]() 56, [ADP]() 7)
+The 10 most frequent ambiguous lemmas: <em>iç</em> ([ADJ]() 135, [VERB]() 35), <em>ara</em> ([ADJ]() 131, [VERB]() 46), <em>var</em> ([ADJ]() 123, [VERB]() 69), <em>iyi</em> ([ADJ]() 93, [ADV]() 2), <em>yan</em> ([ADJ]() 93, [VERB]() 11), <em>kız</em> ([ADJ]() 86, [VERB]() 8), <em>yok</em> ([ADJ]() 78, [ADV]() 50), <em>başka</em> ([ADJ]() 71, [ADP]() 8), <em>ön</em> ([ADJ]() 63, [NOUN]() 1), <em>erkek</em> ([ADJ]() 59, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>var</em> ([ADJ]() 121, [VERB]() 29), <em>içinde</em> ([ADJ]() 78, [NOUN]() 6, [ADV]() 4), <em>iyi</em> ([ADJ]() 72, [ADV]() 2), <em>yok</em> ([ADJ]() 64, [ADV]() 45), <em>başka</em> ([ADJ]() 41, [ADP]() 8), <em>kadın</em> ([ADJ]() 43, [NOUN]() 1), <em>çok</em> ([ADV]() 120, [ADJ]() 42, [ADP]() 7), <em>ilgili</em> ([ADJ]() 37, [NOUN]() 1), <em>ilk</em> ([ADJ]() 37, [ADV]() 12), <em>eski</em> ([ADJ]() 24, [VERB]() 1)
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>var</em> ([ADJ]() 121, [VERB]() 29), 
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.646231 (the average of all parts of speech is 2.818565).
+The form / lemma ratio of `ADJ` is 1.646231 (the average of all parts of speech is 2.815350).
 
 The 1st highest number of forms (19) was observed with the lemma “ara”: <em>Aramızdan, Aramızı, ara, arada, aradan, aralar, aralarında, aralarından, aramda, aramıza, aramızda, aran, aranızda, arası, arasına, arasında, arasından, araya, arayla</em>.
 
@@ -59,20 +59,20 @@ The 2nd highest number of forms (18) was observed with the lemma “iç”: <em>
 
 The 3rd highest number of forms (15) was observed with the lemma “yan”: <em>yan, yana, yanda, yandan, yanlarına, yanı, yanım, yanıma, yanımda, yanımıza, yanına, yanında, yanından, yanını, yanınızda</em>.
 
-`ADJ` occurs with 6 features: [tr-feat/Case]() (2414; 42% instances), [tr-feat/Number]() (2414; 42% instances), [tr-feat/Person]() (2414; 42% instances), [tr-feat/Number[psor]]() (930; 16% instances), [tr-feat/Person[psor]]() (930; 16% instances), [tr-feat/VerbForm]() (10; 0% instances)
+`ADJ` occurs with 6 features: [tr-feat/Case]() (2413; 42% instances), [tr-feat/Number]() (2413; 42% instances), [tr-feat/Person]() (2413; 42% instances), [tr-feat/Number[psor]]() (930; 16% instances), [tr-feat/Person[psor]]() (930; 16% instances), [tr-feat/VerbForm]() (10; 0% instances)
 
 `ADJ` occurs with 17 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Equ`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `VerbForm=Trans`
 
 `ADJ` occurs with 67 feature combinations.
-The most frequent feature combination is `_` (3286 tokens).
+The most frequent feature combination is `_` (3287 tokens).
 Examples: <em>var, yeni, büyük, iyi, aynı, son, başka, bütün, çok, yok</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 15 different relations: [tr-dep/amod]() (3799; 67% instances), [tr-dep/root]() (441; 8% instances), [tr-dep/conj]() (380; 7% instances), [tr-dep/dobj]() (321; 6% instances), [tr-dep/nsubj]() (267; 5% instances), [tr-dep/nmod:poss]() (266; 5% instances), [tr-dep/det]() (115; 2% instances), [tr-dep/compound:lvc]() (67; 1% instances), [tr-dep/advmod:emph]() (16; 0% instances), [tr-dep/ccomp]() (13; 0% instances), [tr-dep/compound]() (13; 0% instances), [tr-dep/cc]() (9; 0% instances), [tr-dep/csubj]() (1; 0% instances), [tr-dep/mwe]() (1; 0% instances), [tr-dep/nmod]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 15 different relations: [tr-dep/amod]() (3798; 67% instances), [tr-dep/root]() (441; 8% instances), [tr-dep/conj]() (380; 7% instances), [tr-dep/dobj]() (321; 6% instances), [tr-dep/nsubj]() (267; 5% instances), [tr-dep/nmod:poss]() (266; 5% instances), [tr-dep/det]() (115; 2% instances), [tr-dep/compound:lvc]() (68; 1% instances), [tr-dep/advmod:emph]() (16; 0% instances), [tr-dep/ccomp]() (13; 0% instances), [tr-dep/compound]() (13; 0% instances), [tr-dep/cc]() (9; 0% instances), [tr-dep/csubj]() (1; 0% instances), [tr-dep/mwe]() (1; 0% instances), [tr-dep/nmod]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 15 different parts of speech: [NOUN]() (2408; 42% instances), [VERB]() (2116; 37% instances), [ADJ]() (573; 10% instances), [ROOT]() (441; 8% instances), [PROPN]() (59; 1% instances), [PRON]() (34; 1% instances), [ADV]() (21; 0% instances), [NUM]() (21; 0% instances), [CONJ]() (11; 0% instances), [PUNCT]() (10; 0% instances), [ADP]() (8; 0% instances), [INTJ]() (4; 0% instances), [DET]() (2; 0% instances), [AUX]() (1; 0% instances), [X]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 15 different parts of speech: [NOUN]() (2409; 42% instances), [VERB]() (2115; 37% instances), [ADJ]() (573; 10% instances), [ROOT]() (441; 8% instances), [PROPN]() (59; 1% instances), [PRON]() (34; 1% instances), [ADV]() (21; 0% instances), [NUM]() (21; 0% instances), [CONJ]() (11; 0% instances), [PUNCT]() (10; 0% instances), [ADP]() (8; 0% instances), [INTJ]() (4; 0% instances), [DET]() (2; 0% instances), [AUX]() (1; 0% instances), [X]() (1; 0% instances)
 
 3234 (57%) `ADJ` nodes are leaves.
 

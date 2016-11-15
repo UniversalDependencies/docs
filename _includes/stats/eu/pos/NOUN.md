@@ -13,7 +13,7 @@ The 10 most frequent `NOUN` types:  <em>behar, nahi, euskal, urte, talde, aukera
 
 The 10 most frequent ambiguous lemmas: <em>behar</em> ([NOUN]() 355, [ADJ]() 8), <em>herri</em> ([NOUN]() 210, [PROPN]() 3), <em>egun</em> ([NOUN]() 192, [ADV]() 78), <em>jokalari</em> ([NOUN]() 178, [ADJ]() 9), <em>aurre</em> ([NOUN]() 142, [ADP]() 93), <em>alde</em> ([NOUN]() 104, [ADP]() 70, [INTJ]() 4), <em>buru</em> ([NOUN]() 103, [ADP]() 7), <em>bide</em> ([NOUN]() 99, [ADP]() 34), <em>lagun</em> ([NOUN]() 98, [ADJ]() 3), <em>modu</em> ([NOUN]() 80, [ADP]() 2)
 
-The 10 most frequent ambiguous types:  <em>behar</em> ([NOUN]() 306, [ADJ]() 6), <em>nahi</em> ([NOUN]() 218, [ADV]() 1, [VERB]() 1), <em>aukera</em> ([NOUN]() 103, [VERB]() 1), <em>jokalari</em> ([NOUN]() 77, [ADJ]() 1), <em>ezin</em> ([NOUN]() 71, [VERB]() 1), <em>egun</em> ([NOUN]() 54, [ADV]() 47), <em>lagun</em> ([NOUN]() 56, [ADJ]() 1), <em>ostean</em> ([NOUN]() 57, [ADP]() 13, [ADV]() 12), <em>aurretik</em> ([NOUN]() 50, [ADP]() 23), <em>San</em> ([NOUN]() 45, [PROPN]() 3, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>behar</em> ([NOUN]() 306, [ADJ]() 6), <em>nahi</em> ([NOUN]() 218, [VERB]() 1, [ADV]() 1), <em>aukera</em> ([NOUN]() 103, [VERB]() 1), <em>jokalari</em> ([NOUN]() 77, [ADJ]() 1), <em>ezin</em> ([NOUN]() 71, [VERB]() 1), <em>egun</em> ([NOUN]() 54, [ADV]() 47), <em>lagun</em> ([NOUN]() 56, [ADJ]() 1), <em>ostean</em> ([NOUN]() 57, [ADP]() 13, [ADV]() 12), <em>aurretik</em> ([NOUN]() 50, [ADP]() 23), <em>San</em> ([NOUN]() 45, [PROPN]() 3, [ADJ]() 1)
 
 
 * <em>behar</em>
@@ -21,8 +21,8 @@ The 10 most frequent ambiguous types:  <em>behar</em> ([NOUN]() 306, [ADJ]() 6),
   * [ADJ]() 6: <em>Eta gure amak esaten zuen errespetua irabazi egin <b>behar</b> dela .</em>
 * <em>nahi</em>
   * [NOUN]() 218: <em>" Egun horretan jokatu <b>nahi</b> genuen .</em>
-  * [ADV]() 1: <em>Sailkapen nagusian <b>nahi</b> bezain aurrean ez dira izaten inoiz , eta etapak irabaztea nekeza egiten zaie , arriskutsuak baitira eta motzean lotzen baitituzte .</em>
   * [VERB]() 1: <em>Baina saldotik irten eta zeure gisara ibili <b>nahi</b> baduzu , berehalaxe zigortuko zaitu saldoak .</em>
+  * [ADV]() 1: <em>Sailkapen nagusian <b>nahi</b> bezain aurrean ez dira izaten inoiz , eta etapak irabaztea nekeza egiten zaie , arriskutsuak baitira eta motzean lotzen baitituzte .</em>
 * <em>aukera</em>
   * [NOUN]() 103: <em>Aurten izan ditudan <b>aukera</b> apurrak ondo baliatu ditudala uste dut .</em>
   * [VERB]() 1: <em>Gizonezkoen moduloetan , askoz ere tailer <b>aukera</b> handiagoa dago emakumezkoenetan baino .</em>

@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>jeho</em> ([DET]() 2457, [PRON]() 32)
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 5.909091 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `DET` is 5.909091 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (27) was observed with the lemma “můj”: <em>Mí, moje, moji, mojí, mou, má, mé, mého, mém, mému, mých, mýho, mým, mými, můj, n, naše, našeho, našem, našemu, naši, našich, našim, našimi, naší, naším, náš</em>.
 

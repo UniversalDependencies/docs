@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3822 nodes (7%) are attached to their parents as `amod`.
+3821 nodes (7%) are attached to their parents as `amod`.
 
-3750 instances of `amod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.68942961800105.
+3749 instances of `amod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6896100497252.
 
-The following 16 pairs of parts of speech are connected with `amod`: [tr-pos/NOUN]()-[tr-pos/ADJ]() (1958; 51% instances), [tr-pos/VERB]()-[tr-pos/ADJ]() (1375; 36% instances), [tr-pos/ADJ]()-[tr-pos/ADJ]() (338; 9% instances), [tr-pos/PROPN]()-[tr-pos/ADJ]() (51; 1% instances), [tr-pos/PRON]()-[tr-pos/ADJ]() (20; 1% instances), [tr-pos/NUM]()-[tr-pos/ADJ]() (19; 0% instances), [tr-pos/NOUN]()-[tr-pos/NUM]() (18; 0% instances), [tr-pos/ADV]()-[tr-pos/ADJ]() (15; 0% instances), [tr-pos/CONJ]()-[tr-pos/ADJ]() (11; 0% instances), [tr-pos/ADP]()-[tr-pos/ADJ]() (5; 0% instances), [tr-pos/PUNCT]()-[tr-pos/ADJ]() (5; 0% instances), [tr-pos/VERB]()-[tr-pos/NUM]() (3; 0% instances), [tr-pos/DET]()-[tr-pos/ADJ]() (1; 0% instances), [tr-pos/PROPN]()-[tr-pos/NUM]() (1; 0% instances), [tr-pos/PUNCT]()-[tr-pos/NUM]() (1; 0% instances), [tr-pos/X]()-[tr-pos/ADJ]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `amod`: [tr-pos/NOUN]()-[tr-pos/ADJ]() (1958; 51% instances), [tr-pos/VERB]()-[tr-pos/ADJ]() (1374; 36% instances), [tr-pos/ADJ]()-[tr-pos/ADJ]() (338; 9% instances), [tr-pos/PROPN]()-[tr-pos/ADJ]() (51; 1% instances), [tr-pos/PRON]()-[tr-pos/ADJ]() (20; 1% instances), [tr-pos/NUM]()-[tr-pos/ADJ]() (19; 0% instances), [tr-pos/NOUN]()-[tr-pos/NUM]() (18; 0% instances), [tr-pos/ADV]()-[tr-pos/ADJ]() (15; 0% instances), [tr-pos/CONJ]()-[tr-pos/ADJ]() (11; 0% instances), [tr-pos/ADP]()-[tr-pos/ADJ]() (5; 0% instances), [tr-pos/PUNCT]()-[tr-pos/ADJ]() (5; 0% instances), [tr-pos/VERB]()-[tr-pos/NUM]() (3; 0% instances), [tr-pos/DET]()-[tr-pos/ADJ]() (1; 0% instances), [tr-pos/PROPN]()-[tr-pos/NUM]() (1; 0% instances), [tr-pos/PUNCT]()-[tr-pos/NUM]() (1; 0% instances), [tr-pos/X]()-[tr-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu

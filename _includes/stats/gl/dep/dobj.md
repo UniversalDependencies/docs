@@ -100,3 +100,69 @@ The following 24 pairs of parts of speech are connected with `dobj`: [gl-pos/VER
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+1161 nodes (5%) are attached to their parents as `dobj`.
+
+985 instances of `dobj` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.27993109388458.
+
+The following 9 pairs of parts of speech are connected with `dobj`: [gl-pos/VERB]()-[gl-pos/NOUN]() (850; 73% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (243; 21% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (43; 4% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (14; 1% instances), [gl-pos/ADJ]()-[gl-pos/NOUN]() (4; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (3; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 dobj	color:blue
+1	só	só	ADV	Wn	_	2	advmod	_	_
+2	dedican	dedicar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	2	dobj	_	_
+5	en	en	ADP	P	AdpType=Prep	6	case	_	_
+6	Os_Estados_Unidos	Os_Estados_Unidos	PROPN	Sp00	_	2	nmod	_	_
+7	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 dobj	color:blue
+1	por	por	ADP	P	AdpType=Prep	2	mark	_	_
+2	emocionar	emocionar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+3	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	2	dobj	_	_
+4	e	e	CONJ	Cc	_	2	cc	_	_
+5	facer	facer	VERB	V0f000	VerbForm=Inf	2	conj	_	_
+6	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	5	dobj	_	_
+7	sentir	sentir	VERB	V0f000	VerbForm=Inf	5	xcomp	_	_
+8	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 dobj	color:blue
+1	"	"	PUNCT	Q"	_	2	punct	_	_
+2	votamos	votar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Constitución	Constitución	PROPN	Spfs	Gender=Fem|Number=Sing	2	dobj	_	_
+5	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+

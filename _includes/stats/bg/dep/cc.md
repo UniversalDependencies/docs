@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-4869 nodes (3%) are attached to their parents as `cc`.
+4866 nodes (3%) are attached to their parents as `cc`.
 
-3826 instances of `cc` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.6241528034504.
+3823 instances of `cc` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.62083847102343.
 
-The following 21 pairs of parts of speech are connected with `cc`: [bg-pos/NOUN]()-[bg-pos/CONJ]() (2124; 44% instances), [bg-pos/VERB]()-[bg-pos/CONJ]() (1679; 34% instances), [bg-pos/PROPN]()-[bg-pos/CONJ]() (406; 8% instances), [bg-pos/ADJ]()-[bg-pos/CONJ]() (366; 8% instances), [bg-pos/ADV]()-[bg-pos/CONJ]() (105; 2% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (54; 1% instances), [bg-pos/PRON]()-[bg-pos/CONJ]() (53; 1% instances), [bg-pos/NUM]()-[bg-pos/CONJ]() (32; 1% instances), [bg-pos/DET]()-[bg-pos/CONJ]() (15; 0% instances), [bg-pos/PART]()-[bg-pos/CONJ]() (8; 0% instances), [bg-pos/ADP]()-[bg-pos/CONJ]() (6; 0% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (4; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/SCONJ]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/SCONJ]() (1; 0% instances), [bg-pos/CONJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/INTJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/ADV]() (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `cc`: [bg-pos/NOUN]()-[bg-pos/CONJ]() (2125; 44% instances), [bg-pos/VERB]()-[bg-pos/CONJ]() (1676; 34% instances), [bg-pos/PROPN]()-[bg-pos/CONJ]() (404; 8% instances), [bg-pos/ADJ]()-[bg-pos/CONJ]() (365; 8% instances), [bg-pos/ADV]()-[bg-pos/CONJ]() (105; 2% instances), [bg-pos/NOUN]()-[bg-pos/ADV]() (54; 1% instances), [bg-pos/PRON]()-[bg-pos/CONJ]() (54; 1% instances), [bg-pos/NUM]()-[bg-pos/CONJ]() (31; 1% instances), [bg-pos/DET]()-[bg-pos/CONJ]() (16; 0% instances), [bg-pos/PART]()-[bg-pos/CONJ]() (8; 0% instances), [bg-pos/ADP]()-[bg-pos/CONJ]() (7; 0% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (4; 0% instances), [bg-pos/ADJ]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/ADV]()-[bg-pos/ADV]() (3; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (3; 0% instances), [bg-pos/NOUN]()-[bg-pos/PART]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/SCONJ]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/SCONJ]() (1; 0% instances), [bg-pos/CONJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/INTJ]()-[bg-pos/CONJ]() (1; 0% instances), [bg-pos/PART]()-[bg-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [nl-pos/VERB]() (15187; 7% insta
 
 15187 [nl-pos/VERB]() tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (11992; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (11536; 76%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (11536; 76%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (11536; 76%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9594; 63%), <tt><a href="Number.html">Number</a>=Sing</tt> (9183; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (11992; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (11536; 76%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (11536; 76%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (11536; 76%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9594; 63%), <tt><a href="Number.html">Number</a>=Sing</tt> (9183; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>zijn</em></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td><em>zijn</em></td><td><em>waren</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="VerbForm.html">VerbForm</a>=Part|<a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td><em>zijnde</em></td><td></td></tr>
-  <tr><td><tt><a href="Subcat.html">Subcat</a>=Intr|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>geweest, neergeweest, weggeweest</em></td></tr>
+  <tr><td><tt><a href="Subcat.html">Subcat</a>=Intr|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>geweest, weggeweest, neergeweest</em></td></tr>
   <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>geweest</em></td></tr>
 </table>
 

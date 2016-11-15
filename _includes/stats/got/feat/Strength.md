@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [got-pos/VERB]() (2674; 5% insta
 
 2674 [got-pos/VERB]() tokens (21% of all `VERB` tokens) have a non-empty value of `Strength`.
 
-The most frequent other feature values with which `VERB` and `Strength` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2674; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2674; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2674; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2105; 79%), <tt><a href="Case.html">Case</a>=Nom</tt> (2024; 76%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1952; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1950; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (1654; 62%).
+The most frequent other feature values with which `VERB` and `Strength` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2674; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2674; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2674; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2105; 79%), <tt><a href="Case.html">Case</a>=Nom</tt> (2024; 76%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1952; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1950; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (1654; 62%).
 
 `VERB` tokens may have the following values of `Strength`:
 
@@ -94,8 +94,8 @@ The most frequent other feature values with which `ADJ` and `Strength` co-occurr
 The 10 most frequent relations where parent and child node agree in `Strength`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (168; 89%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (82; 94%),
-<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (19; 79%),
 <tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (19; 86%),
+<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (19; 79%),
 <tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (6; 60%),
 <tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (3; 100%),
 <tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (3; 75%),

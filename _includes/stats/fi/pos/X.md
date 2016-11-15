@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>metal, common, death, dolly, eHealth, a, an
 
 The 10 most frequent `X` types:  <em>metal, common, death, a, and, eHealth, fun, it, pic, DIY</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>I</em> ([ADJ]() 34, [PROPN]() 5, [X]() 2), <em>Diàoyútái</em> ([PROPN]() 1, [X]() 1), <em>Do</em> ([PROPN]() 5, [X]() 1), <em>Don't</em> ([PROPN]() 1, [X]() 1), <em>Finnish</em> ([PROPN]() 2, [X]() 1), <em>Grey</em> ([PROPN]() 1, [X]() 1), <em>Life</em> ([PROPN]() 2, [X]() 1), <em>Yourself</em> ([PROPN]() 1, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>I</em> ([ADJ]() 34, [PROPN]() 5, [X]() 2), <em>Diàoyútái</em> ([X]() 1, [PROPN]() 1), <em>Do</em> ([PROPN]() 5, [X]() 1), <em>Don't</em> ([X]() 1, [PROPN]() 1), <em>Finnish</em> ([PROPN]() 2, [X]() 1), <em>Grey</em> ([PROPN]() 1, [X]() 1), <em>Life</em> ([PROPN]() 2, [X]() 1), <em>Yourself</em> ([PROPN]() 1, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>I</em> ([ADJ]() 26, [PROPN]() 3, [X]() 2), <em>Do</em> ([PROPN]() 5, [X]() 1), <em>Don't</em> ([PROPN]() 1, [X]() 1), <em>Finnish</em> ([PROPN]() 2, [X]() 1), <em>Life</em> ([X]() 1, [PROPN]() 1), <em>On</em> ([VERB]() 92, [AUX]() 13, [PROPN]() 5, [X]() 1), <em>Yourself</em> ([PROPN]() 1, [X]() 1), <em>by</em> ([X]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>I</em> ([ADJ]() 26, [PROPN]() 3, [X]() 2), <em>Do</em> ([PROPN]() 5, [X]() 1), <em>Don't</em> ([X]() 1, [PROPN]() 1), <em>Finnish</em> ([PROPN]() 2, [X]() 1), <em>Life</em> ([PROPN]() 1, [X]() 1), <em>On</em> ([VERB]() 92, [AUX]() 13, [PROPN]() 5, [X]() 1), <em>Yourself</em> ([X]() 1, [PROPN]() 1), <em>by</em> ([X]() 1, [PROPN]() 1)
 
 
 * <em>a</em>
@@ -31,22 +31,22 @@ The 10 most frequent ambiguous types:  <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]
   * [PROPN]() 5: <em>Iglesias on levyttänyt <b>Do</b> You Know ? :n myös espanjaksi nimellä Dímelo .</em>
   * [X]() 1: <em>Kuten tuli tuossa ensimmäisessä Arduinoa käsitelleessä postauksessa luvattua , suunnitelmissani on rakentaa DIY ( <b>Do</b> It Yourself , Tee Se Itse ) intervalliajastin sekä moottoroitu alusta kameralle .</em>
 * <em>Don't</em>
-  * [PROPN]() 1: <em>Justin Timberlake laulaa kappaleella " My Style " , funk-legenda James Brown kappaleella " They <b>Don't</b> Want Music " ja Sting kappaleella " Union " .</em>
   * [X]() 1: <em><b>Don't</b> worry , be happy oli vanhuksen motto ollut viimeiset vuosikymmenet ja yksinkertaisuudessaan tämä ilahdutti miestä .</em>
+  * [PROPN]() 1: <em>Justin Timberlake laulaa kappaleella " My Style " , funk-legenda James Brown kappaleella " They <b>Don't</b> Want Music " ja Sting kappaleella " Union " .</em>
 * <em>Finnish</em>
   * [PROPN]() 2: <em>Päivän seminaarit aloitti <b>Finnish</b> Linux User Groupin Arto Teräs .</em>
   * [X]() 1: <em>Suomen saa käyttöön menemällä polkua Tools - > Preferences - > Languages - > <b>Finnish</b> , jonka jälkeen Luminance HDR tulee käynnistää uudelleen .</em>
 * <em>Life</em>
-  * [X]() 1: <em>TIPissä yhdistyvät ICT- , <b>Life</b> Science- ja luovien alojen tutkimus sekä liiketoimintaosaaminen .</em>
   * [PROPN]() 1: <em>Trail of <b>Life</b> Decayed on ruotsalaisen death metal -yhtye Dark Tranquillityn ensimmäinen demo ja se julkaistiin vuonna 1991 .</em>
+  * [X]() 1: <em>TIPissä yhdistyvät ICT- , <b>Life</b> Science- ja luovien alojen tutkimus sekä liiketoimintaosaaminen .</em>
 * <em>On</em>
   * [VERB]() 92: <em><b>On</b> kyllä kiva , kun tuolla sai hipelöidä kaikkea . :)</em>
   * [AUX]() 13: <em><b>On</b> nimittäin myös huomannut , että joskus kirkkainkin aurinko pimenee .</em>
   * [PROPN]() 5: <em>Aikaa myöten <b>On</b> A Friday:sta kehittyi Radiohead .</em>
   * [X]() 1: <em><b>On</b> - off .</em>
 * <em>Yourself</em>
-  * [PROPN]() 1: <em>Go Chuck <b>Yourself</b> ( Euroopassa ja Pohjois-Amerikassa ) tai Happy Live Surprise ( Japanissa ) on yhtyeen Sum 41 livealbumi , joka nauhoitettiin Lontoossa , Ontariossa huhtikuussa 2005 .</em>
   * [X]() 1: <em>Kuten tuli tuossa ensimmäisessä Arduinoa käsitelleessä postauksessa luvattua , suunnitelmissani on rakentaa DIY ( Do It <b>Yourself</b> , Tee Se Itse ) intervalliajastin sekä moottoroitu alusta kameralle .</em>
+  * [PROPN]() 1: <em>Go Chuck <b>Yourself</b> ( Euroopassa ja Pohjois-Amerikassa ) tai Happy Live Surprise ( Japanissa ) on yhtyeen Sum 41 livealbumi , joka nauhoitettiin Lontoossa , Ontariossa huhtikuussa 2005 .</em>
 * <em>by</em>
   * [X]() 1: <em>- Yksityisten toimijoiden välillä ilmenevät kysymykset ovat niin monitahoisia , että usein asioita voidaan selittää vain " case <b>by</b> case " -mentaliteetilla , Rosas sanoi .</em>
   * [PROPN]() 1: <em>The Garden Collection <b>by</b> H&M</em>
@@ -103,9 +103,9 @@ The 10 most frequent `X` lemmas: <em>70-, in, sosiaali-, the, ala-, kauppa-, ken
 
 The 10 most frequent `X` types:  <em>70-, in, sosiaali-, the, Kauppa-, ala-, keng-, maa-, 50-, Lilla</em>
 
-The 10 most frequent ambiguous lemmas: <em>the</em> ([X]() 4, [PROPN]() 1), <em>out</em> ([X]() 2, [NOUN]() 2), <em>home</em> ([NOUN]() 3, [X]() 1), <em>is</em> ([PROPN]() 2, [X]() 1), <em>made</em> ([NOUN]() 1, [X]() 1), <em>me</em> ([PRON]() 483, [DET]() 74, [X]() 1), <em>new</em> ([PROPN]() 8, [X]() 1), <em>partners</em> ([PROPN]() 1, [X]() 1), <em>queen</em> ([PROPN]() 1, [X]() 1), <em>ride</em> ([X]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>the</em> ([X]() 4, [PROPN]() 1), <em>out</em> ([X]() 2, [NOUN]() 2), <em>home</em> ([NOUN]() 3, [X]() 1), <em>is</em> ([PROPN]() 2, [X]() 1), <em>made</em> ([NOUN]() 1, [X]() 1), <em>me</em> ([PRON]() 483, [DET]() 74, [X]() 1), <em>new</em> ([PROPN]() 8, [X]() 1), <em>partners</em> ([X]() 1, [PROPN]() 1), <em>queen</em> ([PROPN]() 1, [X]() 1), <em>ride</em> ([PROPN]() 1, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>out</em> ([NOUN]() 1, [X]() 1), <em>New</em> ([PROPN]() 8, [X]() 1), <em>Ride</em> ([PROPN]() 1, [X]() 1), <em>m-</em> ([PRON]() 1, [X]() 1), <em>me</em> ([PRON]() 123, [X]() 1, [VERB]() 1), <em>se-</em> ([PRON]() 1, [X]() 1), <em>termi</em> ([NOUN]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>out</em> ([NOUN]() 1, [X]() 1), <em>New</em> ([PROPN]() 8, [X]() 1), <em>Ride</em> ([PROPN]() 1, [X]() 1), <em>m-</em> ([X]() 1, [PRON]() 1), <em>me</em> ([PRON]() 123, [X]() 1, [VERB]() 1), <em>se-</em> ([X]() 1, [PRON]() 1), <em>termi</em> ([NOUN]() 2, [X]() 1)
 
 
 * <em>out</em>
@@ -118,15 +118,15 @@ The 10 most frequent ambiguous types:  <em>out</em> ([NOUN]() 1, [X]() 1), <em>N
   * [PROPN]() 1: <em>Hiukan eilistä lämpimämmällä säällä vauhtihirmu olisi varmasti hätyytellyt <b>Ride</b> The Nightin nimissä olevaa SE:tä 14,4 .</em>
   * [X]() 1: <em>Express <b>Ride</b> vain mennä hutkutteli loppumatkan .</em>
 * <em>m-</em>
-  * [PRON]() 1: <em>Toi ihmettelee välillä että <b>m-</b> nukun selkä häneem päin</em>
   * [X]() 1: <em>siin poika sit meinas , <b>m-</b> pudotti hattunsa päästä ja ... katso taakse siinä niinku ... kaatu ... ajoi siin semmoseen ... suureen kiveen ja kaatu pyörällääm siinä ja ...</em>
+  * [PRON]() 1: <em>Toi ihmettelee välillä että <b>m-</b> nukun selkä häneem päin</em>
 * <em>me</em>
   * [PRON]() 123: <em>no sit yks toinen kaveri lähti armeijaan ja <b>me</b> oltiin sovittu .</em>
   * [X]() 1: <em>Why did you do this to <b>me</b> !? Colin valitti itkuisen humalaisella äänellä .</em>
   * [VERB]() 1: <em>se oli pannus semmosia ehtoja ett ei semmosiin ehtoin kukaam <b>me</b></em>
 * <em>se-</em>
-  * [PRON]() 1: <em>Onko <b>se-</b> ku se täällä Pieksämäellä on ni onko se sit ihan täällä kokonaan ett ei se tuu yökskään kottiin ,</em>
   * [X]() 1: <em>ko se on <b>se-</b> semmonen ujo ollu</em>
+  * [PRON]() 1: <em>Onko <b>se-</b> ku se täällä Pieksämäellä on ni onko se sit ihan täällä kokonaan ett ei se tuu yökskään kottiin ,</em>
 * <em>termi</em>
   * [NOUN]() 2: <em>PC-kortti on selvästi parempi <b>termi</b> kuin PCMCIA .</em>
   * [X]() 1: <em>Muuten asialliseen kiuasartikkeliinne oli tullut ikävä , joskin yleinen asia- ( <b>termi</b> ) virhe .</em>

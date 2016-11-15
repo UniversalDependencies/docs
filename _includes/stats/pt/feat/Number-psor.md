@@ -46,7 +46,7 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 
 16 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (16; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (16; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (14; 88%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (12; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (9; 56%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (16; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (16; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (14; 88%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (12; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (9; 56%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

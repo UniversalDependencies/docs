@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Greek)
 
 There are 360 `ADV` lemmas (6%), 386 `ADV` types (3%) and 2642 `ADV` tokens (4%).
-Out of 10 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 8 in number of tokens.
+Out of 11 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>ως, επίσης, όπως, όσο, σχετικά, πολύ, σήμερα, μόνο, ακόμα, εδώ</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>ως</em> ([ADV]() 112, [ADP]() 1), <
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.072222 (the average of all parts of speech is 1.774112).
+The form / lemma ratio of `ADV` is 1.072222 (the average of all parts of speech is 1.776033).
 
 The 1st highest number of forms (3) was observed with the lemma “λίγο”: <em>ελάχιστα, λίγο, λιγότερο</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>ως, επίσης, όπως, σχετικά, σήμερα, μόν
 
 `ADV` nodes are attached to their parents using 18 different relations: [el-dep/advmod]() (2251; 85% instances), [el-dep/amod]() (104; 4% instances), [el-dep/case]() (92; 3% instances), [el-dep/cc]() (51; 2% instances), [el-dep/remnant]() (44; 2% instances), [el-dep/conj]() (36; 1% instances), [el-dep/dep]() (21; 1% instances), [el-dep/mark]() (15; 1% instances), [el-dep/root]() (7; 0% instances), [el-dep/dobj]() (6; 0% instances), [el-dep/appos]() (4; 0% instances), [el-dep/nsubj]() (4; 0% instances), [el-dep/ccomp]() (2; 0% instances), [el-dep/acl]() (1; 0% instances), [el-dep/acl:relcl]() (1; 0% instances), [el-dep/advcl]() (1; 0% instances), [el-dep/csubj]() (1; 0% instances), [el-dep/mwe]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 9 different parts of speech: [VERB]() (1615; 61% instances), [NOUN]() (455; 17% instances), [ADJ]() (278; 11% instances), [ADV]() (117; 4% instances), [CONJ]() (89; 3% instances), [NUM]() (49; 2% instances), [PRON]() (19; 1% instances), [ADP]() (13; 0% instances), [ROOT]() (7; 0% instances)
+Parents of `ADV` nodes belong to 10 different parts of speech: [VERB]() (1615; 61% instances), [NOUN]() (455; 17% instances), [ADJ]() (278; 11% instances), [ADV]() (117; 4% instances), [CONJ]() (89; 3% instances), [NUM]() (49; 2% instances), [PRON]() (18; 1% instances), [ADP]() (13; 0% instances), [ROOT]() (7; 0% instances), [DET]() (1; 0% instances)
 
 1841 (70%) `ADV` nodes are leaves.
 
@@ -86,5 +86,5 @@ The highest child degree of a `ADV` node is 7.
 
 Children of `ADV` nodes are attached using 23 different relations: [el-dep/nmod]() (432; 38% instances), [el-dep/punct]() (248; 22% instances), [el-dep/advmod]() (113; 10% instances), [el-dep/case]() (98; 9% instances), [el-dep/cc]() (67; 6% instances), [el-dep/conj]() (36; 3% instances), [el-dep/xcomp]() (33; 3% instances), [el-dep/advcl]() (25; 2% instances), [el-dep/det]() (21; 2% instances), [el-dep/mark]() (12; 1% instances), [el-dep/appos]() (10; 1% instances), [el-dep/cop]() (10; 1% instances), [el-dep/acl]() (5; 0% instances), [el-dep/amod]() (4; 0% instances), [el-dep/csubj]() (4; 0% instances), [el-dep/dep]() (4; 0% instances), [el-dep/nsubj]() (4; 0% instances), [el-dep/remnant]() (4; 0% instances), [el-dep/dobj]() (3; 0% instances), [el-dep/iobj]() (3; 0% instances), [el-dep/nummod]() (2; 0% instances), [el-dep/aux]() (1; 0% instances), [el-dep/ccomp]() (1; 0% instances)
 
-Children of `ADV` nodes belong to 10 different parts of speech: [NOUN]() (461; 40% instances), [PUNCT]() (248; 22% instances), [ADV]() (117; 10% instances), [ADP]() (98; 9% instances), [CONJ]() (78; 7% instances), [PRON]() (59; 5% instances), [VERB]() (43; 4% instances), [PART]() (16; 1% instances), [ADJ]() (11; 1% instances), [NUM]() (9; 1% instances)
+Children of `ADV` nodes belong to 11 different parts of speech: [NOUN]() (461; 40% instances), [PUNCT]() (248; 22% instances), [ADV]() (117; 10% instances), [ADP]() (98; 9% instances), [CONJ]() (78; 7% instances), [VERB]() (43; 4% instances), [PRON]() (38; 3% instances), [DET]() (21; 2% instances), [PART]() (16; 1% instances), [ADJ]() (11; 1% instances), [NUM]() (9; 1% instances)
 

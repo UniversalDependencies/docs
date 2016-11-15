@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  <em>atzo, oso, gaur, orain, ondoren, gero, ha
 
 The 10 most frequent ambiguous lemmas: <em>atzo</em> ([ADV]() 388, [NOUN]() 16), <em>oso</em> ([ADV]() 246, [ADJ]() 82), <em>gaur</em> ([ADV]() 201, [NOUN]() 4), <em>orain</em> ([ADV]() 168, [NOUN]() 3), <em>ondoren</em> ([ADV]() 109, [ADP]() 28), <em>gero</em> ([ADV]() 106, [NOUN]() 3), <em>han</em> ([ADV]() 85, [NOUN]() 1), <em>ondo</em> ([ADV]() 82, [ADP]() 11, [NOUN]() 8), <em>egun</em> ([NOUN]() 192, [ADV]() 78), <em>aurten</em> ([ADV]() 55, [NOUN]() 4)
 
-The 10 most frequent ambiguous types:  <em>ondoren</em> ([ADV]() 91, [ADP]() 27), <em>egun</em> ([NOUN]() 54, [ADV]() 47), <em>bezala</em> ([ADP]() 55, [ADV]() 55), <em>gabe</em> ([ADP]() 62, [ADV]() 46), <em>asko</em> ([DET]() 74, [ADV]() 39), <em>garbi</em> ([ADV]() 34, [ADJ]() 2), <em>prest</em> ([ADV]() 33, [ADJ]() 3), <em>horregatik</em> ([ADV]() 16, [DET]() 4), <em>gogor</em> ([ADV]() 28, [ADJ]() 5), <em>lehen</em> ([NUM]() 192, [ADV]() 23)
+The 10 most frequent ambiguous types:  <em>ondoren</em> ([ADV]() 91, [ADP]() 27), <em>egun</em> ([NOUN]() 54, [ADV]() 47), <em>bezala</em> ([ADV]() 55, [ADP]() 55), <em>gabe</em> ([ADP]() 62, [ADV]() 46), <em>asko</em> ([DET]() 74, [ADV]() 39), <em>garbi</em> ([ADV]() 34, [ADJ]() 2), <em>prest</em> ([ADV]() 33, [ADJ]() 3), <em>horregatik</em> ([ADV]() 16, [DET]() 4), <em>gogor</em> ([ADV]() 28, [ADJ]() 5), <em>lehen</em> ([NUM]() 192, [ADV]() 23)
 
 
 * <em>ondoren</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>ondoren</em> ([ADV]() 91, [ADP]() 27)
   * [NOUN]() 54: <em>Gure etxea , <b>egun</b> batean , ordu batzuetan , zeharo aldatu zen .</em>
   * [ADV]() 47: <em>Baina , <b>egun</b> , euren aroa amaitu egin da .</em>
 * <em>bezala</em>
-  * [ADP]() 55: <em>Urruñan hil da , supituki <b>bezala</b> , 59 urtetan .</em>
   * [ADV]() 55: <em>" Ruandan hil egingo gaituzte , abereak bagina <b>bezala</b> " .</em>
+  * [ADP]() 55: <em>Urruñan hil da , supituki <b>bezala</b> , 59 urtetan .</em>
 * <em>gabe</em>
   * [ADP]() 62: <em>" Justifikazio <b>gabe</b> , elkarbizitza asaldatzen dute " .</em>
   * [ADV]() 46: <em>Ordubete aritu ziren bi pilotariak amore eman <b>gabe</b> , serio .</em>

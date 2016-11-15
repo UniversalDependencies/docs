@@ -13,14 +13,14 @@ The 10 most frequent `ADV` types:  <em>myös, niin, vain, nyt, jo, vielä, kuite
 
 The 10 most frequent ambiguous lemmas: <em>niin</em> ([ADV]() 357, [CONJ]() 34, [SCONJ]() 4, [INTJ]() 2), <em>sitten</em> ([ADV]() 217, [ADP]() 51), <em>itse</em> ([PRON]() 165, [ADV]() 119), <em>juuri</em> ([ADV]() 111, [NOUN]() 8), <em>lisäksi</em> ([ADV]() 88, [ADP]() 69), <em>taas</em> ([ADV]() 83, [SCONJ]() 4), <em>muassa</em> ([ADV]() 80, [ADP]() 1), <em>kuten</em> ([ADV]() 72, [SCONJ]() 33, [CONJ]() 4), <em>yli</em> ([ADV]() 71, [ADP]() 19), <em>ennen</em> ([ADP]() 96, [ADV]() 61)
 
-The 10 most frequent ambiguous types:  <em>niin</em> ([ADV]() 290, [CONJ]() 34, [SCONJ]() 2, [INTJ]() 2), <em>sitten</em> ([ADV]() 164, [ADP]() 51), <em>esimerkiksi</em> ([ADV]() 113, [NOUN]() 2), <em>näin</em> ([ADV]() 70, [VERB]() 13), <em>itse</em> ([ADV]() 84, [PRON]() 22), <em>enemmän</em> ([ADV]() 93, [ADJ]() 3), <em>lisäksi</em> ([ADP]() 68, [ADV]() 30), <em>taas</em> ([ADV]() 78, [SCONJ]() 4), <em>muassa</em> ([ADV]() 78, [ADP]() 1), <em>muun</em> ([ADV]() 72, [PRON]() 16)
+The 10 most frequent ambiguous types:  <em>niin</em> ([ADV]() 290, [CONJ]() 34, [INTJ]() 2, [SCONJ]() 2), <em>sitten</em> ([ADV]() 164, [ADP]() 51), <em>esimerkiksi</em> ([ADV]() 113, [NOUN]() 2), <em>näin</em> ([ADV]() 70, [VERB]() 13), <em>itse</em> ([ADV]() 84, [PRON]() 22), <em>enemmän</em> ([ADV]() 93, [ADJ]() 3), <em>lisäksi</em> ([ADP]() 68, [ADV]() 30), <em>taas</em> ([ADV]() 78, [SCONJ]() 4), <em>muassa</em> ([ADV]() 78, [ADP]() 1), <em>muun</em> ([ADV]() 72, [PRON]() 16)
 
 
 * <em>niin</em>
   * [ADV]() 290: <em>Ottakaa minut mukaan , <b>niin</b> saatte luotettavan turvamiehen .</em>
   * [CONJ]() 34: <em>Oman kanavansa saavat <b>niin</b> naiset sekä tv-sarjat että scifin harrastajat .</em>
-  * [SCONJ]() 2: <em>Asianajajat tekevät sellaisia sopimuksia , että maksa viisi tonnia , <b>niin</b> järjestän sinut ulos .</em>
   * [INTJ]() 2: <em>Ai <b>niin</b> , meinasi julkinen painostus unohtua :</em>
+  * [SCONJ]() 2: <em>Asianajajat tekevät sellaisia sopimuksia , että maksa viisi tonnia , <b>niin</b> järjestän sinut ulos .</em>
 * <em>sitten</em>
   * [ADV]() 164: <em>Yhteen aikaan jaksoinkin tehdä niitä , mutta <b>sitten</b> se vähän unohtui .</em>
   * [ADP]() 51: <em>He keskustelivat joku aika <b>sitten</b> ( kesällä ) arkiromantiikasta .</em>

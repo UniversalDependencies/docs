@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [pl-pos/VERB]() (6643; 8% instan
 
 6643 [pl-pos/VERB]() tokens (50% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6643; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6643; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6643; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5238; 79%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5238; 79%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (5238; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (4985; 75%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4001; 60%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (3943; 59%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (6643; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6643; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6643; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5238; 79%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5238; 79%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (5238; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (4985; 75%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4001; 60%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (3943; 59%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 197 [pl-pos/AUX]() tokens (14% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (197; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (197; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (197; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (197; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (197; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (160; 81%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (104; 53%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (101; 51%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (197; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (197; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (197; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (197; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (197; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (160; 81%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (104; 53%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (101; 51%).
 
 `AUX` tokens may have the following values of `Voice`:
 

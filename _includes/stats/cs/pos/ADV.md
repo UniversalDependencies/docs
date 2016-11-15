@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>tak</em> ([ADV]() 2201, [CONJ]() 358)
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.122501 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `ADV` is 1.122501 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (7) was observed with the lemma “málo”: <em>málo, méně, míň, nejméně, nejmíň, nemálo, neméně</em>.
 
@@ -104,7 +104,7 @@ The 10 most frequent `ADV` lemmas: <em>také, tak, jak, již, už, ještě, kde,
 
 The 10 most frequent `ADV` types:  <em>tak, také, jak, již, už, ještě, pak, kde, tedy, velmi</em>
 
-The 10 most frequent ambiguous lemmas: <em>tak</em> ([ADV]() 816, [CONJ]() 217), <em>jak</em> ([ADV]() 751, [SCONJ]() 15, [CONJ]() 2), <em>třeba</em> ([ADV]() 438, [ADJ]() 1), <em>málo</em> ([ADV]() 281, [DET]() 21, [PRON]() 3, [NOUN]() 1), <em>co</em> ([PRON]() 525, [ADV]() 166, [SCONJ]() 16, [PART]() 3, [ADJ]() 1), <em>daleko</em> ([ADV]() 93, [NOUN]() 1), <em>včetně</em> ([ADV]() 82, [ADP]() 1), <em>nedávno</em> ([ADV]() 29, [NOUN]() 3), <em>tolik</em> ([ADV]() 29, [DET]() 21, [PRON]() 9), <em>moc</em> ([ADV]() 28, [NOUN]() 28)
+The 10 most frequent ambiguous lemmas: <em>tak</em> ([ADV]() 816, [CONJ]() 217), <em>jak</em> ([ADV]() 751, [SCONJ]() 15, [CONJ]() 2), <em>třeba</em> ([ADV]() 438, [ADJ]() 1), <em>málo</em> ([ADV]() 281, [DET]() 21, [PRON]() 3, [NOUN]() 1), <em>co</em> ([PRON]() 525, [ADV]() 166, [SCONJ]() 16, [PART]() 3, [ADJ]() 1), <em>daleko</em> ([ADV]() 93, [NOUN]() 1), <em>včetně</em> ([ADV]() 82, [ADP]() 1), <em>nedávno</em> ([ADV]() 29, [NOUN]() 3), <em>tolik</em> ([ADV]() 29, [DET]() 21, [PRON]() 9), <em>moc</em> ([NOUN]() 28, [ADV]() 28)
 
 The 10 most frequent ambiguous types:  <em>tak</em> ([ADV]() 681, [CONJ]() 212), <em>jak</em> ([ADV]() 654, [SCONJ]() 14, [CONJ]() 2), <em>již</em> ([ADV]() 528, [PRON]() 5), <em>třeba</em> ([ADV]() 428, [ADJ]() 1), <em>tu</em> ([ADV]() 186, [DET]() 37, [PRON]() 5), <em>co</em> ([PRON]() 382, [ADV]() 160, [SCONJ]() 15, [PART]() 1, [ADJ]() 1), <em>většinou</em> ([ADV]() 98, [NOUN]() 6), <em>celkem</em> ([ADV]() 82, [NOUN]() 2), <em>včetně</em> ([ADV]() 82, [ADP]() 1), <em>málo</em> ([ADV]() 67, [DET]() 19, [PRON]() 2, [NOUN]() 1)
 
@@ -201,7 +201,7 @@ The 10 most frequent `ADV` types:  <em>dále, zejména, popřípadě, jinak, pou
 
 The 10 most frequent ambiguous lemmas: <em>tak</em> ([ADV]() 23, [CONJ]() 1), <em>včetně</em> ([ADP]() 47, [ADV]() 7), <em>uvnitř</em> ([ADV]() 3, [ADP]() 1), <em>jak</em> ([SCONJ]() 3, [ADV]() 2)
 
-The 10 most frequent ambiguous types:  <em>tak</em> ([ADV]() 23, [CONJ]() 1), <em>celkem</em> ([ADV]() 18, [NOUN]() 2), <em>tuto</em> ([DET]() 11, [ADV]() 7), <em>včetně</em> ([ADP]() 47, [ADV]() 7), <em>výše</em> ([NOUN]() 35, [ADV]() 6), <em>jednou</em> ([NUM]() 3, [ADV]() 3), <em>něm</em> ([ADJ]() 4, [ADV]() 3), <em>uvnitř</em> ([ADV]() 3, [ADP]() 1), <em>jak</em> ([SCONJ]() 3, [ADV]() 2)
+The 10 most frequent ambiguous types:  <em>tak</em> ([ADV]() 23, [CONJ]() 1), <em>celkem</em> ([ADV]() 18, [NOUN]() 2), <em>tuto</em> ([DET]() 11, [ADV]() 7), <em>včetně</em> ([ADP]() 47, [ADV]() 7), <em>výše</em> ([NOUN]() 35, [ADV]() 6), <em>jednou</em> ([ADV]() 3, [NUM]() 3), <em>něm</em> ([ADJ]() 4, [ADV]() 3), <em>uvnitř</em> ([ADV]() 3, [ADP]() 1), <em>jak</em> ([SCONJ]() 3, [ADV]() 2)
 
 
 * <em>tak</em>
@@ -220,8 +220,8 @@ The 10 most frequent ambiguous types:  <em>tak</em> ([ADV]() 23, [CONJ]() 1), <e
   * [NOUN]() 35: <em>Uvedený majetek se odpisuje jen do <b>výše</b> jeho ocenění v účetnictví .</em>
   * [ADV]() 6: <em>(1) V konsolidovaném výkazu zisku a ztráty se uvádí <b>výše</b> nákladů a výnosů odděleně za běžné účetní období a minulé účetní období .</em>
 * <em>jednou</em>
-  * [NUM]() 3: <em>(3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou §_54 obdobně .</em>
   * [ADV]() 3: <em>Takovouto změnu účetního období může účetní jednotka v běžném účetním období provést pouze <b>jednou</b> .</em>
+  * [NUM]() 3: <em>(3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou §_54 obdobně .</em>
 * <em>něm</em>
   * [ADJ]() 4: <em>Zobrazení je poctivé , když jsou při <b>něm</b> použity účetní metody způsobem , který vede k dosažení věrnosti .</em>
   * [ADV]() 3: <em>(3) Odpovědnost právnické osoby za správní delikt zaniká , jestliže správní orgán o něm nezahájil řízení do 1 roku ode dne , kdy se o <b>něm</b> dozvěděl , nejpozději však do 3 let ode dne , kdy byl spáchán .</em>

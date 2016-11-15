@@ -11,7 +11,7 @@ The 10 most frequent `AUX` lemmas: <em>være, have, kunne, blive, skulle, ville,
 
 The 10 most frequent `AUX` types:  <em>er, har, kan, var, skal, vil, blev, være, kunne, havde</em>
 
-The 10 most frequent ambiguous lemmas: <em>være</em> ([AUX]() 2044, [VERB]() 589), <em>have</em> ([AUX]() 868, [VERB]() 393, [NOUN]() 5, [X]() 1), <em>kunne</em> ([AUX]() 646, [VERB]() 22), <em>blive</em> ([AUX]() 450, [VERB]() 56), <em>skulle</em> ([AUX]() 388, [VERB]() 30), <em>ville</em> ([AUX]() 340, [VERB]() 22), <em>måtte</em> ([AUX]() 143, [VERB]() 9, [NOUN]() 1, [X]() 1), <em>turde</em> ([AUX]() 12, [VERB]() 3)
+The 10 most frequent ambiguous lemmas: <em>være</em> ([AUX]() 2044, [VERB]() 589), <em>have</em> ([AUX]() 868, [VERB]() 393, [NOUN]() 5, [X]() 1), <em>kunne</em> ([AUX]() 646, [VERB]() 22), <em>blive</em> ([AUX]() 450, [VERB]() 56), <em>skulle</em> ([AUX]() 388, [VERB]() 30), <em>ville</em> ([AUX]() 340, [VERB]() 22), <em>måtte</em> ([AUX]() 143, [VERB]() 9, [X]() 1, [NOUN]() 1), <em>turde</em> ([AUX]() 12, [VERB]() 3)
 
 The 10 most frequent ambiguous types:  <em>er</em> ([AUX]() 1354, [VERB]() 360), <em>har</em> ([AUX]() 677, [VERB]() 230, [X]() 1), <em>kan</em> ([AUX]() 459, [VERB]() 12), <em>var</em> ([AUX]() 399, [VERB]() 129), <em>skal</em> ([AUX]() 294, [VERB]() 20), <em>vil</em> ([AUX]() 254, [VERB]() 18), <em>blev</em> ([AUX]() 197, [VERB]() 17), <em>være</em> ([AUX]() 178, [VERB]() 53), <em>kunne</em> ([AUX]() 159, [VERB]() 9), <em>havde</em> ([AUX]() 133, [VERB]() 62)
 

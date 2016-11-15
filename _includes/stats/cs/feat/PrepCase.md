@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [cs-pos/PRON]() (4926; 0% instan
 
 4926 [cs-pos/PRON]() tokens (7% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (4926; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4926; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3023; 61%), <tt><a href="Person.html">Person</a>=3</tt> (2724; 55%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2724; 55%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4926; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (4926; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3023; 61%), <tt><a href="Person.html">Person</a>=3</tt> (2724; 55%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2724; 55%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
@@ -69,7 +69,7 @@ The feature is used with 1 part-of-speech tags: [cs-pos/PRON]() (1809; 0% instan
 
 1809 [cs-pos/PRON]() tokens (7% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1809; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1809; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (971; 54%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (971; 54%), <tt><a href="Number.html">Number</a>=Sing</tt> (935; 52%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1809; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1809; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (971; 54%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (971; 54%), <tt><a href="Number.html">Number</a>=Sing</tt> (935; 52%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
@@ -119,7 +119,7 @@ The feature is used with 1 part-of-speech tags: [cs-pos/PRON]() (93; 0% instance
 
 93 [cs-pos/PRON]() tokens (8% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (93; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (93; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (73; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (54; 58%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (93; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (93; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (73; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (54; 58%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 

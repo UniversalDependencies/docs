@@ -2,6 +2,52 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+There are 1 `PART` lemmas (8%), 3 `PART` types (0%) and 3 `PART` tokens (0%).
+Out of 12 observed tags, the rank of `PART` is: 8 in number of lemmas, 11 in number of types and 11 in number of tokens.
+
+The 10 most frequent `PART` lemmas: _
+
+The 10 most frequent `PART` types:  って, というか, を遣わして
+
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 50340, [VERB]() 18567, [PUNCT]() 10247, [NUM]() 4184, [ADJ]() 3393, [ADV]() 3061, [PRON]() 1113, [DET]() 925, [CONJ]() 180, [X]() 18, [PART]() 3, [ADP]() 2)
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `PART` is 3.000000 (the average of all parts of speech is 4757.166667).
+
+The 1st highest number of forms (3) was observed with the lemma “_”: って, というか, を遣わして.
+
+`PART` does not occur with any features.
+
+
+## Relations
+
+`PART` nodes are attached to their parents using 2 different relations: [ja-dep/root]() (2; 67% instances), [ja-dep/ccomp]() (1; 33% instances)
+
+Parents of `PART` nodes belong to 2 different parts of speech: [ROOT]() (2; 67% instances), [VERB]() (1; 33% instances)
+
+1 (33%) `PART` nodes are leaves.
+
+1 (33%) `PART` nodes have one child.
+
+1 (33%) `PART` nodes have two children.
+
+The highest child degree of a `PART` node is 2.
+
+Children of `PART` nodes are attached using 2 different relations: [ja-dep/conj]() (2; 67% instances), [ja-dep/punct]() (1; 33% instances)
+
+Children of `PART` nodes belong to 2 different parts of speech: [VERB]() (2; 67% instances), [PUNCT]() (1; 33% instances)
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 There are 17 `PART` lemmas (0%), 1 `PART` types (6%) and 2783 `PART` tokens (1%).
@@ -11,7 +57,7 @@ The 10 most frequent `PART` lemmas: _, くらい, な, ばかり, きり, 入る
 
 The 10 most frequent `PART` types:  _
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 73916, [ADP]() 56601, [PUNCT]() 29066, [AUX]() 10360, [SCONJ]() 9060, [NUM]() 8667, [VERB]() 8579, [ADJ]() 3304, [PART]() 2730, [CONJ]() 2110, [PROPN]() 1795, [ADV]() 1655, [SYM]() 1138, [PRON]() 138, [DET]() 95, [INTJ]() 15), 入る ([VERB]() 75, [PART]() 3), 一 ([NUM]() 361, [PART]() 2), って ([SCONJ]() 4, [PART]() 1), 八 ([NUM]() 92, [PART]() 1), 太い ([PART]() 1, [ADJ]() 1), 我が ([ADJ]() 3, [PART]() 1), 突く ([VERB]() 1, [PART]() 1)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 73916, [ADP]() 56601, [PUNCT]() 29066, [AUX]() 10360, [SCONJ]() 9060, [NUM]() 8667, [VERB]() 8579, [ADJ]() 3304, [PART]() 2730, [CONJ]() 2110, [PROPN]() 1795, [ADV]() 1655, [SYM]() 1138, [PRON]() 138, [DET]() 95, [INTJ]() 15), 入る ([VERB]() 75, [PART]() 3), 一 ([NUM]() 361, [PART]() 2), って ([SCONJ]() 4, [PART]() 1), 八 ([NUM]() 92, [PART]() 1), 太い ([ADJ]() 1, [PART]() 1), 我が ([ADJ]() 3, [PART]() 1), 突く ([PART]() 1, [VERB]() 1)
 
 The 10 most frequent ambiguous types:  _ ([NOUN]() 83879, [ADP]() 56602, [AUX]() 29224, [PUNCT]() 29066, [VERB]() 24527, [NUM]() 10685, [SCONJ]() 9342, [PROPN]() 7729, [ADJ]() 4996, [PART]() 2783, [CONJ]() 2763, [ADV]() 2738, [SYM]() 1138, [DET]() 1067, [PRON]() 1065, [INTJ]() 27)
 

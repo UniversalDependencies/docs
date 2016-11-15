@@ -20,11 +20,11 @@ The following 13 pairs of parts of speech are connected with `dobj`: [el-pos/VER
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 dobj	color:blue
-1	Η	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Σπόρτινγκ	Σπόρτινγκ	NOUN	NOUN	_	4	nsubj	_	_
 3	Λισαβόνας	Λισαβόνα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	νίκησε	νικώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-5	την	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Μάντσεστερ	Μάντσεστερ	NOUN	NOUN	_	4	dobj	_	_
 7	Σίτι	Σίτι	NOUN	NOUN	_	6	nmod	_	_
 8	με	με	ADP	ADP	_	9	case	_	_
@@ -58,11 +58,11 @@ The following 13 pairs of parts of speech are connected with `dobj`: [el-pos/VER
 3	όμως	όμως	CONJ	CONJ	_	5	cc	_	_
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
 5	κάνατε	κάνω	VERB	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	0	root	_	_
-6	το	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+6	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
 7	ίδιο	ίδιος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	5	dobj	_	_
 8	και	και	CONJ	CONJ	_	9	cc	_	_
 9	με	με	ADP	ADP	_	12	case	_	_
-10	τα	ο	PRON	PRON	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	det	_	_
+10	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	det	_	_
 11	υπόλοιπα	υπόλοιπος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	12	amod	_	_
 12	όργανα	όργανο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	5	nmod	_	_
 13	.	.	PUNCT	PUNCT	_	5	punct	_	_

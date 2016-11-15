@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `Connegative` co-oc
 
 341 [et-pos/AUX]() tokens (5% of all `AUX` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `AUX` and `Connegative` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (341; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (341; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (341; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (341; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (313; 92%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (304; 89%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (280; 82%).
+The most frequent other feature values with which `AUX` and `Connegative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (341; 100%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (341; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (341; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (341; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (313; 92%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (304; 89%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (280; 82%).
 
 `AUX` tokens may have the following values of `Connegative`:
 

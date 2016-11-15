@@ -55,7 +55,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 39 [ar-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (39; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (39; 100%), <tt><a href="Person.html">Person</a>=3</tt> (39; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (35; 90%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (39; 100%), <tt><a href="Person.html">Person</a>=3</tt> (39; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (39; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (35; 90%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
@@ -73,6 +73,6 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (8; 89%),
 <tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/mark.html">mark</a>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<a href="../dep/advmod:emph.html">advmod:emph</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/advmod:emph.html">advmod:emph</a>]--> VERB</tt> (1; 100%).
 

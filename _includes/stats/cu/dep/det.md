@@ -60,19 +60,16 @@ The following 6 pairs of parts of speech are connected with `det`: [cu-pos/VERB]
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	ꙇ҃с	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	же	же	ADV	Df	_	3	discourse	_	_
-3	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
-5	еже	иже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	6	det	_	_
-6	аште	аще	SCONJ	G-	_	7	mark	_	_
-7	можеши	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
-8	вѣровати	вѣровати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+# visual-style 5 4 det	color:blue
+1	остави	оставити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	мрътвꙑмъ	мрьтвъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	1	iobj	_	_
+3	погрети	погрети	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	_
+4	своѩ	свои	PRON	Pt	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	_
+5	мрътвъцѧ	мрьтвьць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	dobj	_	_
 
 ~~~
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-6654 nodes (3%) are attached to their parents as `conj`.
+6650 nodes (3%) are attached to their parents as `conj`.
 
-6653 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.78854824165915.
+6649 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.82842105263158.
 
-The following 78 pairs of parts of speech are connected with `conj`: [pt-pos/NOUN]()-[pt-pos/NOUN]() (2196; 33% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (1481; 22% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (1241; 19% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (379; 6% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (140; 2% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (134; 2% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (115; 2% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (102; 2% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (98; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (88; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (76; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (75; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (68; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (37; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (30; 0% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (29; 0% instances), [pt-pos/AUX]()-[pt-pos/AUX]() (29; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (22; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (22; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (20; 0% instances), [pt-pos/SYM]()-[pt-pos/SYM]() (19; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (18; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (17; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (17; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (14; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (13; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (12; 0% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (11; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (9; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (8; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (7; 0% instances), [pt-pos/DET]()-[pt-pos/PRON]() (7; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (7; 0% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (7; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (6; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (5; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (5; 0% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/DET]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/INTJ]()-[pt-pos/INTJ]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/AUX]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/X]() (1; 0% instances).
+The following 75 pairs of parts of speech are connected with `conj`: [pt-pos/NOUN]()-[pt-pos/NOUN]() (2195; 33% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (1509; 23% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (1235; 19% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (379; 6% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (140; 2% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (134; 2% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (114; 2% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (102; 2% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (98; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (88; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (77; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (76; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (68; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (37; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (30; 0% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (29; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (22; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (22; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (20; 0% instances), [pt-pos/SYM]()-[pt-pos/SYM]() (19; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (18; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (17; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (17; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (13; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (13; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (12; 0% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (11; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (9; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (8; 0% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (8; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (7; 0% instances), [pt-pos/DET]()-[pt-pos/PRON]() (7; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (7; 0% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (7; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (6; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (5; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/DET]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (3; 0% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/INTJ]()-[pt-pos/INTJ]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/X]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -67,6 +67,83 @@ The following 78 pairs of parts of speech are connected with `conj`: [pt-pos/NOU
 8	Floriano	Floriano	PROPN	prop|M|S	_	5	conj	_	MWE=Floriano_Graça|MWEPOS=PROPN
 9	Graça	Graça	PROPN	PROPN	_	8	name	_	_
 10	.	.	PUNCT	punc	_	3	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+This relation is universal.
+
+5348 nodes (2%) are attached to their parents as `conj`.
+
+5342 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.27916978309648.
+
+The following 66 pairs of parts of speech are connected with `conj`: [pt-pos/NOUN]()-[pt-pos/NOUN]() (2001; 37% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (1356; 25% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (521; 10% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (351; 7% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (140; 3% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (128; 2% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (105; 2% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (104; 2% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (86; 2% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (75; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (65; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (56; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (46; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (31; 1% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (20; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (17; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (16; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (16; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (15; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (13; 0% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (12; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (12; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (10; 0% instances), [pt-pos/SCONJ]()-[pt-pos/NOUN]() (10; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (8; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (8; 0% instances), [pt-pos/DET]()-[pt-pos/DET]() (7; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (7; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (7; 0% instances), [pt-pos/SYM]()-[pt-pos/SYM]() (7; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (7; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (6; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (6; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (6; 0% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (5; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (5; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (4; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/ADV]()-[pt-pos/ADJ]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (3; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/SCONJ]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/AUX]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 conj	color:blue
+1	É	ser	VERB	<mv>|<first-cjt>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	continente	continente	NOUN	<np-idf>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	_
+4	e	e	CONJ	<co-fcl>|<co-fmc>|<co-vfin>|KC|@CO	_	3	cc	_	_
+5	é	ser	VERB	<mv>|<cjt>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	país	país	NOUN	<np-idf>|N|M|S|@<SC	Gender=Masc|Number=Sing	3	conj	_	_
+8	de	de	ADP	PRP|@N<	_	9	case	_	_
+9	Terceiro	Terceiro	PROPN	PROP|M|S|@P<	Gender=Masc|Number=Sing	7	nmod	_	MWE:Terceiro=Mundo
+10	Mundo	Mundo	PROPN	PROP|@N<	Number=Sing	9	name	_	_
+11	.	.	PUNCT	PU|@PU	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 conj	color:blue
+1	Depois	depois	ADV	ADV|@ADVL>	_	2	advmod	_	_
+2	rasgou-	rasgar	VERB	<mv>|<first-cjt>|<hyphen>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	lhe	ela	PRON	PERS|F|3S|DAT|@<DAT	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+4	a	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	roupa	roupa	NOUN	<np-def>|N|F|S|@<ACC	Gender=Fem|Number=Sing	2	dobj	_	_
+6	e	e	CONJ	<co-fcl>|<co-fmc>|<co-vfin>|KC|@CO	_	2	cc	_	_
+7	tentou	tentar	VERB	<mv>|<cjt>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+8	consumar	consumar	VERB	<mv>|V|INF|@ICL-<ACC	VerbForm=Inf	7	xcomp	_	_
+9	a	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	violação	violação	NOUN	<np-def>|N|F|S|@<ACC	Gender=Fem|Number=Sing	8	dobj	_	_
+11	.	.	PUNCT	PU|@PU	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 conj	color:blue
+1	A	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Otker	Otker	PROPN	<first-cjt>|PROP|F|S|@SUBJ>	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	e	e	CONJ	<co-subj>|KC|@CO	_	2	cc	_	_
+4	a	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Somel	Somel	PROPN	<cjt>|PROP|F|S|@SUBJ>	Gender=Fem|Number=Sing	2	conj	_	_
+6	vão	ir	AUX	<aux>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	pedir	pedir	VERB	<mv>|V|INF|@ICL-AUX<	VerbForm=Inf	0	root	_	_
+8	contraprova	contraprova	NOUN	<np-idf>|N|F|S|@<ACC	Gender=Fem|Number=Sing	7	dobj	_	_
+9	.	.	PUNCT	PU|@PU	_	7	punct	_	_
 
 ~~~
 

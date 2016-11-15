@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [et-pos/AUX]() (2447; 1% instanc
 
 2447 [et-pos/AUX]() tokens (39% of all `AUX` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `AUX` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2447; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2419; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2419; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2271; 93%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2183; 89%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2183; 89%).
+The most frequent other feature values with which `AUX` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2447; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2419; 99%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2419; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2271; 93%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2183; 89%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2183; 89%).
 
 `AUX` tokens may have the following values of `Negative`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `AUX` and `Negative` co-occurr
 
 552 [et-pos/VERB]() tokens (2% of all `VERB` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (552; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (551; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (551; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (551; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (529; 96%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (455; 82%).
+The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (552; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (551; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (551; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (551; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (529; 96%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (455; 82%).
 
 `VERB` tokens may have the following values of `Negative`:
 

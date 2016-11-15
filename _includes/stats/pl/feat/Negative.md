@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [pl-pos/VERB]() (1405; 2% instan
 
 1405 [pl-pos/VERB]() tokens (11% of all `VERB` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1405; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1405; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1405; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1116; 79%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (1116; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (913; 65%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (876; 62%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (807; 57%), <tt><a href="Case.html">Case</a>=Nom</tt> (801; 57%).
+The most frequent other feature values with which `VERB` and `Negative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1405; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1405; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1405; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1116; 79%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (1116; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (913; 65%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (876; 62%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (807; 57%), <tt><a href="Case.html">Case</a>=Nom</tt> (801; 57%).
 
 `VERB` tokens may have the following values of `Negative`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Negative` co-occur
 
 671 [pl-pos/NOUN]() tokens (3% of all `NOUN` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `NOUN` and `Negative` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (671; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (671; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (670; 100%).
+The most frequent other feature values with which `NOUN` and `Negative` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (671; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (671; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (670; 100%).
 
 `NOUN` tokens may have the following values of `Negative`:
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `NOUN` and `Negative` co-occur
 
 1 [pl-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Negative`.
 
-The most frequent other feature values with which `ADJ` and `Negative` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Negative` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Negative`:
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-98 nodes (0%) are attached to their parents as `mwe`.
+101 nodes (0%) are attached to their parents as `mwe`.
 
-84 instances of `mwe` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.20408163265306.
+87 instances of `mwe` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.17821782178218.
 
-The following 15 pairs of parts of speech are connected with `mwe`: [lv-pos/CONJ]()-[lv-pos/CONJ]() (37; 38% instances), [lv-pos/X]()-[lv-pos/X]() (15; 15% instances), [lv-pos/NUM]()-[lv-pos/SCONJ]() (11; 11% instances), [lv-pos/SCONJ]()-[lv-pos/SCONJ]() (11; 11% instances), [lv-pos/PART]()-[lv-pos/PART]() (8; 8% instances), [lv-pos/NOUN]()-[lv-pos/SCONJ]() (3; 3% instances), [lv-pos/ADJ]()-[lv-pos/ADJ]() (2; 2% instances), [lv-pos/ADJ]()-[lv-pos/PUNCT]() (2; 2% instances), [lv-pos/PROPN]()-[lv-pos/X]() (2; 2% instances), [lv-pos/SYM]()-[lv-pos/SYM]() (2; 2% instances), [lv-pos/NUM]()-[lv-pos/NUM]() (1; 1% instances), [lv-pos/NUM]()-[lv-pos/PUNCT]() (1; 1% instances), [lv-pos/SYM]()-[lv-pos/NUM]() (1; 1% instances), [lv-pos/X]()-[lv-pos/ADJ]() (1; 1% instances), [lv-pos/X]()-[lv-pos/PRON]() (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `mwe`: [lv-pos/PART]()-[lv-pos/CONJ]() (38; 38% instances), [lv-pos/X]()-[lv-pos/X]() (15; 15% instances), [lv-pos/NUM]()-[lv-pos/SCONJ]() (11; 11% instances), [lv-pos/PART]()-[lv-pos/SCONJ]() (11; 11% instances), [lv-pos/PART]()-[lv-pos/PART]() (10; 10% instances), [lv-pos/NOUN]()-[lv-pos/SCONJ]() (3; 3% instances), [lv-pos/ADJ]()-[lv-pos/ADJ]() (2; 2% instances), [lv-pos/ADJ]()-[lv-pos/PUNCT]() (2; 2% instances), [lv-pos/PROPN]()-[lv-pos/X]() (2; 2% instances), [lv-pos/NOUN]()-[lv-pos/NOUN]() (1; 1% instances), [lv-pos/NUM]()-[lv-pos/NUM]() (1; 1% instances), [lv-pos/NUM]()-[lv-pos/PUNCT]() (1; 1% instances), [lv-pos/PART]()-[lv-pos/SYM]() (1; 1% instances), [lv-pos/SYM]()-[lv-pos/NUM]() (1; 1% instances), [lv-pos/X]()-[lv-pos/ADJ]() (1; 1% instances), [lv-pos/X]()-[lv-pos/PRON]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,11 +22,11 @@ The following 15 pairs of parts of speech are connected with `mwe`: [lv-pos/CONJ
 # visual-style 3 4 mwe	color:blue
 1	Bibliotēka	bibliotēka	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubjpass	_	_
 2	domāta	domāt	VERB	vmnpdfsnpsn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-3	ne	ne	CONJ	ccd_SPLIT_FIRST	_	5	cc	_	_
+3	ne	ne	PART	ccd_SPLIT_FIRST	_	5	cc	_	_
 4	tikai	tikai	CONJ	ccd_SPLIT_PART	_	3	mwe	_	_
 5	lasīšanai	lasīšana	NOUN	ncfsd4	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	SpaceAfter=No
 6	,	,	PUNCT	zc	_	5	punct	_	_
-7	bet	bet	CONJ	ccd_SPLIT_FIRST	_	5	cc	_	_
+7	bet	bet	PART	ccd_SPLIT_FIRST	_	5	cc	_	_
 8	arī	arī	CONJ	ccd_SPLIT_PART	_	7	mwe	_	_
 9	sarunām	saruna	NOUN	ncfpd4	Case=Dat|Gender=Fem|Number=Plur	5	conj	_	_
 
@@ -50,7 +50,7 @@ The following 15 pairs of parts of speech are connected with `mwe`: [lv-pos/CONJ
 9	izmanto	izmantot	VERB	vmnipt230an	Mood=Ind|Negative=Neg|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
 10	komunikācijai	komunikācija	NOUN	ncfsd4	Case=Dat|Gender=Fem|Number=Sing	9	iobj	_	_
 11	no	no	ADP	spsgy	_	12	case	_	_
-12	ierīces	ierīces	NOUN	ncfsg5	Case=Gen|Gender=Fem|Number=Sing	10	dep	_	_
+12	ierīces	ierīces	NOUN	ncfsg5	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
 13	-	-	PUNCT	zd	_	14	case	_	_
 14	ierīci	ierīce	NOUN	ncfsa5	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
 15	(	(	PUNCT	zb	_	16	punct	_	SpaceAfter=No
@@ -91,8 +91,8 @@ The following 15 pairs of parts of speech are connected with `mwe`: [lv-pos/CONJ
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 mwe	color:blue
-1	Bet	bet	CONJ	ccs	_	10	discourse	_	_
-2	tāpat	tāpat	SCONJ	csc_SPLIT_FIRST	_	4	mark	_	_
+1	Bet	bet	CONJ	ccs	_	10	cc	_	_
+2	tāpat	tāpat	PART	csc_SPLIT_FIRST	_	4	mark	_	_
 3	kā	kā	SCONJ	csc_SPLIT_PART	_	2	mwe	_	_
 4	Rīga	Rīga	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	10	acl	_	SpaceAfter=No
 5	,	,	PUNCT	zc	_	4	punct	_	_

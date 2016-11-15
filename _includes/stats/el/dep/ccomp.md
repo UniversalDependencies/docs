@@ -59,7 +59,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: [el-pos/VE
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 ccomp	color:blue
-1	Η	ο	PRON	PRON	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	διεθνής	διεθνής	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	κοινότητα	κοινότητα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 4	δεν	δεν	PART	PART	_	5	neg	_	_

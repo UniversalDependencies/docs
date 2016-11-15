@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>pa, ach, pink, hle, inu, proboha, což, 
 
 The 10 most frequent `INTJ` types:  <em>PA, Pink, ach, Inu, hle, proboha, Haló, což, fajn, Ó</em>
 
-The 10 most frequent ambiguous lemmas: <em>pa</em> ([INTJ]() 20, [NOUN]() 2, [PROPN]() 1), <em>což</em> ([PRON]() 748, [INTJ]() 3, [PART]() 1), <em>běda</em> ([INTJ]() 2, [NOUN]() 2), <em>ej</em> ([INTJ]() 2, [NOUN]() 2), <em>o</em> ([ADP]() 10328, [PUNCT]() 100, [NOUN]() 10, [ADJ]() 3, [INTJ]() 2), <em>ta</em> ([INTJ]() 2, [NOUN]() 1), <em>cup</em> ([PROPN]() 1, [INTJ]() 1), <em>hm</em> ([PROPN]() 5, [INTJ]() 1), <em>pánbůh</em> ([NOUN]() 3, [INTJ]() 1), <em>ra</em> ([NOUN]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>pa</em> ([INTJ]() 20, [NOUN]() 2, [PROPN]() 1), <em>což</em> ([PRON]() 748, [INTJ]() 3, [PART]() 1), <em>běda</em> ([INTJ]() 2, [NOUN]() 2), <em>ej</em> ([NOUN]() 2, [INTJ]() 2), <em>o</em> ([ADP]() 10328, [PUNCT]() 100, [NOUN]() 10, [ADJ]() 3, [INTJ]() 2), <em>ta</em> ([INTJ]() 2, [NOUN]() 1), <em>cup</em> ([INTJ]() 1, [PROPN]() 1), <em>hm</em> ([PROPN]() 5, [INTJ]() 1), <em>pánbůh</em> ([NOUN]() 3, [INTJ]() 1), <em>ra</em> ([NOUN]() 2, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>PA</em> ([INTJ]() 20, [NOUN]() 2), <em>Pink</em> ([ADJ]() 49, [INTJ]() 6), <em>což</em> ([PRON]() 631, [INTJ]() 2), <em>O</em> ([ADP]() 659, [PROPN]() 62, [NOUN]() 22, [ADJ]() 5, [INTJ]() 2, [PUNCT]() 1), <em>ta</em> ([PRON]() 79, [DET]() 76, [INTJ]() 2, [NOUN]() 1), <em>Pánbůh</em> ([INTJ]() 1, [NOUN]() 1), <em>Ra</em> ([INTJ]() 1, [PROPN]() 1), <em>hm</em> ([PROPN]() 5, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>PA</em> ([INTJ]() 20, [NOUN]() 2), <em>Pink</em> ([ADJ]() 49, [INTJ]() 6), <em>což</em> ([PRON]() 631, [INTJ]() 2), <em>O</em> ([ADP]() 659, [PROPN]() 62, [NOUN]() 22, [ADJ]() 5, [INTJ]() 2, [PUNCT]() 1), <em>ta</em> ([PRON]() 79, [DET]() 76, [INTJ]() 2, [NOUN]() 1), <em>Pánbůh</em> ([NOUN]() 1, [INTJ]() 1), <em>Ra</em> ([PROPN]() 1, [INTJ]() 1), <em>hm</em> ([PROPN]() 5, [INTJ]() 1)
 
 
 * <em>PA</em>
@@ -38,18 +38,18 @@ The 10 most frequent ambiguous types:  <em>PA</em> ([INTJ]() 20, [NOUN]() 2), <e
   * [INTJ]() 2: <em>Ra - <b>ta</b> - <b>ta</b> .</em>
   * [NOUN]() 1: <em>Peter Honak , profesor historie na Maďarské akademii věd , k 50 . výročí osvobození Maďarska sovětskou armádou * Užívej si všeho , ale po padesátce dávej vale třem " <b>ta</b> " - wanita ( ženy ) , harta ( bohatství ) a tahta ( postavení ) .</em>
 * <em>Pánbůh</em>
-  * [INTJ]() 1: <em>Když to půjde každý rok takhle - <b>Pánbůh</b> zaplať , usmívá se opat Michael Josef Pojezdný .</em>
   * [NOUN]() 1: <em>Dokonce i <b>Pánbůh</b> je v nich prezentován jako docela veselý chlapík .</em>
+  * [INTJ]() 1: <em>Když to půjde každý rok takhle - <b>Pánbůh</b> zaplať , usmívá se opat Michael Josef Pojezdný .</em>
 * <em>Ra</em>
-  * [INTJ]() 1: <em><b>Ra</b> - ta - ta .</em>
   * [PROPN]() 1: <em>Zařadil se mezi rozhodující zakladatele Skupiny <b>Ra</b> , která se stala výraznou platformou právě této části jeho výtvarné a literární generace .</em>
+  * [INTJ]() 1: <em><b>Ra</b> - ta - ta .</em>
 * <em>hm</em>
   * [PROPN]() 5: <em>( <b>hm</b> )</em>
   * [INTJ]() 1: <em>Proto spolupracujeme se školským úřadem , školami , učilišti a dalšími organizacemi , uvedl Z . Prouza . ( <b>hm</b> )</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.195950).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.195930).
 
 The 1st highest number of forms (1) was observed with the lemma “Bang”: <em>Bang</em>.
 

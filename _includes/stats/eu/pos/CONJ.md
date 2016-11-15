@@ -13,7 +13,7 @@ The 10 most frequent `CONJ` types:  <em>eta, ere, baina, edo, berriz, arren, ord
 
 The 10 most frequent ambiguous lemmas: <em>berriz</em> ([CONJ]() 100, [ADV]() 28), <em>arren</em> ([CONJ]() 90, [NOUN]() 1, [INTJ]() 1), <em>gainera</em> ([CONJ]() 80, [ADV]() 16, [ADP]() 9), <em>zein</em> ([DET]() 46, [CONJ]() 35, [ADV]() 1), <em>orduan</em> ([ADV]() 29, [CONJ]() 16), <em>alta</em> ([CONJ]() 14, [NOUN]() 1), <em>ezik</em> ([CONJ]() 13, [ADV]() 1), <em>ostera</em> ([CONJ]() 12, [ADV]() 4), <em>alegia</em> ([CONJ]() 11, [NOUN]() 4), <em>hots</em> ([NOUN]() 8, [CONJ]() 7)
 
-The 10 most frequent ambiguous types:  <em>baina</em> ([CONJ]() 444, [VERB]() 1), <em>berriz</em> ([CONJ]() 100, [ADV]() 27, [ADJ]() 1), <em>arren</em> ([CONJ]() 90, [INTJ]() 1, [NOUN]() 1), <em>gainera</em> ([CONJ]() 36, [ADP]() 9, [ADV]() 5, [NOUN]() 2), <em>beraz</em> ([CONJ]() 29, [DET]() 1), <em>aldiz</em> ([CONJ]() 39, [NOUN]() 39), <em>zein</em> ([CONJ]() 35, [DET]() 32), <em>orduan</em> ([ADV]() 21, [NOUN]() 7, [CONJ]() 6), <em>alta</em> ([NOUN]() 1, [CONJ]() 1), <em>ezik</em> ([CONJ]() 13, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>baina</em> ([CONJ]() 444, [VERB]() 1), <em>berriz</em> ([CONJ]() 100, [ADV]() 27, [ADJ]() 1), <em>arren</em> ([CONJ]() 90, [INTJ]() 1, [NOUN]() 1), <em>gainera</em> ([CONJ]() 36, [ADP]() 9, [ADV]() 5, [NOUN]() 2), <em>beraz</em> ([CONJ]() 29, [DET]() 1), <em>aldiz</em> ([CONJ]() 39, [NOUN]() 39), <em>zein</em> ([CONJ]() 35, [DET]() 32), <em>orduan</em> ([ADV]() 21, [NOUN]() 7, [CONJ]() 6), <em>alta</em> ([CONJ]() 1, [NOUN]() 1), <em>ezik</em> ([CONJ]() 13, [ADV]() 1)
 
 
 * <em>baina</em>
@@ -46,8 +46,8 @@ The 10 most frequent ambiguous types:  <em>baina</em> ([CONJ]() 444, [VERB]() 1)
   * [NOUN]() 7: <em>Ezustean , azken <b>orduan</b> , Girondins ere portugaldarraren gibeletik hasi da .</em>
   * [CONJ]() 6: <em>Eta <b>orduan</b> zer gertatzen da ?</em>
 * <em>alta</em>
-  * [NOUN]() 1: <em>Gaixoa lehenengotaz sendatuta dagoela ikusten dutenean , <b>alta</b> ematen zaio .</em>
   * [CONJ]() 1: <em>Tikok , berriz , hobera egin du eta Padillak atzo bertan eman zion <b>alta</b> .</em>
+  * [NOUN]() 1: <em>Gaixoa lehenengotaz sendatuta dagoela ikusten dutenean , <b>alta</b> ematen zaio .</em>
 * <em>ezik</em>
   * [CONJ]() 13: <em>Bertsolari batzuk , bertsotan ez <b>ezik</b> , antzerkian ere arituko dira .</em>
   * [ADV]() 1: <em>Berriki arte denek atxiki dute grafia xaharra , nik <b>ezik</b> , Baiona eta Arantzazuko legeak hastetik aplikatu bainizkion euskalkiari ere .</em>

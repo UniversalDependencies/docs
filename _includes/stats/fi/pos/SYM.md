@@ -11,9 +11,9 @@ The 10 most frequent `SYM` lemmas: <em>:), %, &, :D, ;), +, 3.Rf3, >, 2.f4, E21<
 
 The 10 most frequent `SYM` types:  <em>:), %, &, :D, ;), +, 3.Rf3, >, 2.f4, E21</em>
 
-The 10 most frequent ambiguous lemmas: <em>:)</em> ([SYM]() 68, [PUNCT]() 1), <em>%</em> ([SYM]() 37, [NOUN]() 9), <em>&</em> ([SYM]() 21, [PROPN]() 1), <em>+</em> ([SYM]() 16, [PROPN]() 2), <em>°C</em> ([SYM]() 3, [NOUN]() 1), <em>A</em> ([NOUN]() 21, [PROPN]() 7, [SYM]() 1), <em>B</em> ([NOUN]() 3, [PROPN]() 1, [SYM]() 1), <em>K</em> ([SYM]() 1, [PROPN]() 1), <em>V</em> ([ADJ]() 10, [NOUN]() 1, [SYM]() 1), <em>×</em> ([PROPN]() 4, [SYM]() 1)
+The 10 most frequent ambiguous lemmas: <em>:)</em> ([SYM]() 68, [PUNCT]() 1), <em>%</em> ([SYM]() 37, [NOUN]() 9), <em>&</em> ([SYM]() 21, [PROPN]() 1), <em>+</em> ([SYM]() 16, [PROPN]() 2), <em>°C</em> ([SYM]() 3, [NOUN]() 1), <em>A</em> ([NOUN]() 21, [PROPN]() 7, [SYM]() 1), <em>B</em> ([NOUN]() 3, [SYM]() 1, [PROPN]() 1), <em>K</em> ([SYM]() 1, [PROPN]() 1), <em>V</em> ([ADJ]() 10, [NOUN]() 1, [SYM]() 1), <em>×</em> ([PROPN]() 4, [SYM]() 1)
 
-The 10 most frequent ambiguous types:  <em>:)</em> ([SYM]() 68, [PUNCT]() 1), <em>&</em> ([SYM]() 21, [PROPN]() 1), <em>+</em> ([SYM]() 16, [PROPN]() 2), <em>A</em> ([NOUN]() 9, [PROPN]() 7, [SYM]() 1), <em>B</em> ([NOUN]() 3, [PROPN]() 1, [SYM]() 1), <em>V</em> ([ADJ]() 7, [NOUN]() 1, [SYM]() 1), <em>×</em> ([PROPN]() 4, [SYM]() 1)
+The 10 most frequent ambiguous types:  <em>:)</em> ([SYM]() 68, [PUNCT]() 1), <em>&</em> ([SYM]() 21, [PROPN]() 1), <em>+</em> ([SYM]() 16, [PROPN]() 2), <em>A</em> ([NOUN]() 9, [PROPN]() 7, [SYM]() 1), <em>B</em> ([NOUN]() 3, [SYM]() 1, [PROPN]() 1), <em>V</em> ([ADJ]() 7, [NOUN]() 1, [SYM]() 1), <em>×</em> ([PROPN]() 4, [SYM]() 1)
 
 
 * <em>:)</em>
@@ -31,8 +31,8 @@ The 10 most frequent ambiguous types:  <em>:)</em> ([SYM]() 68, [PUNCT]() 1), <e
   * [SYM]() 1: <em>Näissä esimerkiksi ‘ А ’ saadaan ‘ <b>A</b> ’ -näppäimesta ja ‘ Б ’ ‘ B ’ -näppäimestä .</em>
 * <em>B</em>
   * [NOUN]() 3: <em>Luokka <b>B</b> :</em>
-  * [PROPN]() 1: <em>Penttilä suunnitteli myös tiukan rationaalisia rakennuksia , muun muassa Helsingin Hanasaari <b>B</b> -voimalaitoksen , joka on saanut ammattipiireissä arvostusta alusta lähtien .</em>
   * [SYM]() 1: <em>Näissä esimerkiksi ‘ А ’ saadaan ‘ A ’ -näppäimesta ja ‘ Б ’ ‘ <b>B</b> ’ -näppäimestä .</em>
+  * [PROPN]() 1: <em>Penttilä suunnitteli myös tiukan rationaalisia rakennuksia , muun muassa Helsingin Hanasaari <b>B</b> -voimalaitoksen , joka on saanut ammattipiireissä arvostusta alusta lähtien .</em>
 * <em>V</em>
   * [ADJ]() 7: <em>Hänen isänsä oli kuningas Mithridates <b>V</b> Euergetes .</em>
   * [NOUN]() 1: <em>Siitä kehittyivät kreikkalaisen kirjaimiston digamma ja ypsilon , myöhemmin latinalaisen kirjaimiston F , <b>V</b> ja Y sekä edelleen U ja W .</em>

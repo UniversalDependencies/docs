@@ -4,22 +4,22 @@
 
 ## Treebank Statistics (UD_Persian)
 
-There are 1 `INTJ` lemmas (3%), 22 `INTJ` types (0%) and 69 `INTJ` tokens (0%).
-Out of 15 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 15 in number of tokens.
+There are 10 `INTJ` lemmas (0%), 22 `INTJ` types (0%) and 69 `INTJ` tokens (0%).
+Out of 15 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: _
+The 10 most frequent `INTJ` lemmas: ای، _، بله، خیر، آری، هی، نه، خب، فر، هیچ
 
 The 10 most frequent `INTJ` types:  ای، بله، خیر، آره، آری، ا، هی، نه، وای، آ
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 57224, [VERB]() 16929, [ADJ]() 13490, [PUNCT]() 13442, [ADP]() 11406, [PRON]() 5792, [ADV]() 4099, [DET]() 3558, [NUM]() 3409, [SCONJ]() 2428, [CONJ]() 2098, [AUX]() 742, [PART]() 490, [X]() 245, [INTJ]() 69)
+The 10 most frequent ambiguous lemmas: ای ([INTJ]() 26, [NOUN]() 12), _ ([NOUN]() 4861, [VERB]() 1473, [ADJ]() 1371, [ADV]() 194, [NUM]() 152, [X]() 92, [PUNCT]() 90, [PRON]() 35, [ADP]() 32, [INTJ]() 19, [AUX]() 13, [SCONJ]() 12, [CONJ]() 5, [DET]() 4), خیر ([INTJ]() 5, [ADV]() 4, [NOUN]() 1, [ADJ]() 1), هی ([INTJ]() 3, [NOUN]() 1), نه ([ADV]() 122, [NOUN]() 4, [NUM]() 3, [INTJ]() 2), خب ([ADV]() 8, [INTJ]() 1), فر ([INTJ]() 1, [NOUN]() 1), هیچ ([ADV]() 134, [NOUN]() 1, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  ای ([INTJ]() 26, [NOUN]() 12, [VERB]() 3), خیر ([INTJ]() 5, [ADV]() 4, [ADJ]() 1, [NOUN]() 1), ا ([INTJ]() 3, [NOUN]() 2), هی ([INTJ]() 3, [NOUN]() 1), نه ([ADV]() 122, [NOUN]() 4, [NUM]() 3, [INTJ]() 2), آ ([INTJ]() 1, [NOUN]() 1), آخ ([INTJ]() 1, [NOUN]() 1), خب ([ADV]() 8, [INTJ]() 1), فر ([NOUN]() 1, [INTJ]() 1), ها ([INTJ]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous types:  ای ([INTJ]() 26, [NOUN]() 12, [VERB]() 4), خیر ([INTJ]() 5, [ADV]() 4, [ADJ]() 1, [NOUN]() 1), ا ([INTJ]() 3, [NOUN]() 2), هی ([INTJ]() 3, [NOUN]() 1), نه ([ADV]() 122, [NOUN]() 4, [NUM]() 3, [INTJ]() 2), آ ([INTJ]() 1, [NOUN]() 1), آخ ([INTJ]() 1, [NOUN]() 1), خب ([ADV]() 8, [INTJ]() 1), فر ([INTJ]() 1, [NOUN]() 1), ها ([INTJ]() 1, [NOUN]() 1)
 
 
 * ای
   * [INTJ]() 26: معاویه گفت : <b>ای</b> اباظریف !
   * [NOUN]() 12: مواد آنتی‌اکسیدان طبیعی در مرکبات ، هویج ، زردآلو و میوه‌های حاوی ویتامین <b>ای</b> نیز یافت می‌شود .
-  * [VERB]() 3: مادر : نه تو خسته‌ <b>ای</b> .
+  * [VERB]() 4: روزه‌ <b>ای</b> ؟
 * خیر
   * [INTJ]() 5: با تعجب گفتم : <b>خیر</b> ؟
   * [ADV]() 4: این دو گروه ، از ریاست هاشمی رفسنجانی بر مجلس ششم دفاع می‌کنند اما هنوز معلوم نیست که آیا شخص وی برای بر عهده گرفتن مجدد این سمت اعلام آمادگی خواهد کرد یا <b>خیر</b> ؟
@@ -41,22 +41,26 @@ The 10 most frequent ambiguous types:  ای ([INTJ]() 26, [NOUN]() 12, [VERB]() 
   * [NOUN]() 1: همزمان با برگزاری این سمینار ، مرکز اطلاعات دارویی و سموم و <b>آ</b> دی آر این مرکز به منظور ارائه خدمات تخصصی به پژوهشگران مورد بهره‌برداری قرار گرفت .
 * آخ
   * [INTJ]() 1: <b>آخ</b> جون … !
-  * [NOUN]() 1: احمد : <b>آخ</b> که چه شیرینه این شیرینی !
+  * [NOUN]() 1: احمد : <b>آخ</b> که چه شیرین ه این شیرینی !
 * خب
   * [ADV]() 8: معلم : <b>خب</b> …
   * [INTJ]() 1: احمد : هنوز دیر م نشده [ به ساعت اشاره می‌کند ، نیم ساعت مانده به زنگ ] ولی تا بیام دست و رومو بشورم و صبحونه بخورم دیر م شده ، <b>خب</b> !
 * فر
-  * [NOUN]() 1: مکرمی <b>فر</b> گفت : وجود این اشیا به همراه جسد بیانگر سنت دفن و قرار دادن اشیا به همراه مردگان در آن زمان است .
   * [INTJ]() 1: مریم : <b>فر</b> - دا !
+  * [NOUN]() 1: مکرمی <b>فر</b> گفت : وجود این اشیا به همراه جسد بیانگر سنت دفن و قرار دادن اشیا به همراه مردگان در آن زمان است .
 * ها
   * [INTJ]() 1: پدر : [ در حالی که به مریم کمک می‌کند ] آوه ، چقدر شیرینی شد <b>ها</b> !
   * [NOUN]() 1: احمد : ا … آره - یاد م رفته بود <b>ها</b> .
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 22.000000 (the average of all parts of speech is 412.051282).
+The form / lemma ratio of `INTJ` is 2.200000 (the average of all parts of speech is 1.914149).
 
-The 1st highest number of forms (22) was observed with the lemma “_”: آ, آخ, آره, آری, آهان, آوه, ا, ای, بله, خب, خیر, دا, زهی, سبحان‌الله, فر, نخیر, نه, ها, هوی, هی, هیچ, وای.
+The 1st highest number of forms (13) was observed with the lemma “_”: آ, آخ, آره, آهان, آوه, ا, دا, زهی, سبحان‌الله, نخیر, ها, هوی, وای.
+
+The 2nd highest number of forms (1) was observed with the lemma “آری”: آری.
+
+The 3rd highest number of forms (1) was observed with the lemma “ای”: ای.
 
 `INTJ` does not occur with any features.
 

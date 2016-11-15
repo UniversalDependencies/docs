@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-873 nodes (4%) are attached to their parents as `dobj`.
+895 nodes (4%) are attached to their parents as `dobj`.
 
-602 instances of `dobj` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.73310423825888.
+614 instances of `dobj` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.72290502793296.
 
-The following 18 pairs of parts of speech are connected with `dobj`: [lv-pos/VERB]()-[lv-pos/NOUN]() (641; 73% instances), [lv-pos/VERB]()-[lv-pos/PRON]() (88; 10% instances), [lv-pos/VERB]()-[lv-pos/PROPN]() (50; 6% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (33; 4% instances), [lv-pos/NOUN]()-[lv-pos/NOUN]() (19; 2% instances), [lv-pos/ADV]()-[lv-pos/PRON]() (10; 1% instances), [lv-pos/VERB]()-[lv-pos/NUM]() (7; 1% instances), [lv-pos/VERB]()-[lv-pos/VERB]() (5; 1% instances), [lv-pos/VERB]()-[lv-pos/ADJ]() (4; 0% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (4; 0% instances), [lv-pos/NOUN]()-[lv-pos/PRON]() (3; 0% instances), [lv-pos/ADJ]()-[lv-pos/NOUN]() (2; 0% instances), [lv-pos/ADV]()-[lv-pos/NOUN]() (2; 0% instances), [lv-pos/ADP]()-[lv-pos/PRON]() (1; 0% instances), [lv-pos/INTJ]()-[lv-pos/NOUN]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/PROPN]() (1; 0% instances), [lv-pos/PUNCT]()-[lv-pos/NOUN]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/X]() (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `dobj`: [lv-pos/VERB]()-[lv-pos/NOUN]() (661; 74% instances), [lv-pos/VERB]()-[lv-pos/PRON]() (90; 10% instances), [lv-pos/VERB]()-[lv-pos/PROPN]() (51; 6% instances), [lv-pos/VERB]()-[lv-pos/SCONJ]() (34; 4% instances), [lv-pos/NOUN]()-[lv-pos/NOUN]() (19; 2% instances), [lv-pos/ADV]()-[lv-pos/PRON]() (10; 1% instances), [lv-pos/VERB]()-[lv-pos/ADJ]() (6; 1% instances), [lv-pos/VERB]()-[lv-pos/VERB]() (5; 1% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (4; 0% instances), [lv-pos/NOUN]()-[lv-pos/PRON]() (3; 0% instances), [lv-pos/ADJ]()-[lv-pos/NOUN]() (2; 0% instances), [lv-pos/ADV]()-[lv-pos/NOUN]() (2; 0% instances), [lv-pos/PUNCT]()-[lv-pos/NOUN]() (2; 0% instances), [lv-pos/VERB]()-[lv-pos/NUM]() (2; 0% instances), [lv-pos/INTJ]()-[lv-pos/NOUN]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/PROPN]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/DET]() (1; 0% instances), [lv-pos/VERB]()-[lv-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu

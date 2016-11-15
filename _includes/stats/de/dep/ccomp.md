@@ -20,13 +20,13 @@ The following 25 pairs of parts of speech are connected with `ccomp`: [de-pos/VE
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 ccomp	color:blue
-1	Dieses	_	PRON	_	_	2	det	_	_
-2	Zentrum	_	NOUN	_	_	3	nsubj	_	_
-3	hält	_	VERB	_	_	0	root	_	_
-4	was	_	PRON	_	_	6	dobj	_	_
-5	es	_	PRON	_	_	6	nsubj	_	_
-6	verspricht	_	VERB	_	_	3	ccomp	_	_
-7	.	_	PUNCT	_	_	3	punct	_	_
+1	Dieses	dies	PRON	PDAT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	_
+2	Zentrum	Zentrum	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	hält	halten	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+4	was	was	PRON	PIS	Case=Acc|PronType=Ind	6	dobj	_	_
+5	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	verspricht	versprechen	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	3	ccomp	_	_
+7	.	.	PUNCT	$.	_	3	punct	_	_
 
 ~~~
 
@@ -37,16 +37,16 @@ The following 25 pairs of parts of speech are connected with `ccomp`: [de-pos/VE
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 ccomp	color:blue
-1	Für	_	ADP	_	_	3	case	_	_
-2	die	_	DET	_	_	3	det	_	_
-3	Werkstatt	_	NOUN	_	_	4	nmod	_	_
-4	spricht	_	VERB	_	_	0	root	_	_
-5	dass	_	SCONJ	_	_	8	mark	_	_
-6	sie	_	PRON	_	_	8	nsubj	_	_
-7	sehr	_	ADV	_	_	8	advmod	_	_
-8	günstig	_	ADJ	_	_	4	ccomp	_	_
-9	ist	_	VERB	_	_	8	cop	_	_
-10	.	_	PUNCT	_	_	4	punct	_	_
+1	Für	für	ADP	APPR	_	3	case	_	_
+2	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Werkstatt	Werkstatt	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
+4	spricht	sprechen	VERB	VVFIN	VerbForm=Fin	0	root	_	_
+5	dass	dass	SCONJ	KOUS	_	8	mark	_	_
+6	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+7	sehr	sehr	ADV	ADV	_	8	advmod	_	_
+8	günstig	günstig	ADJ	ADJD	Degree=Pos	4	ccomp	_	_
+9	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+10	.	.	PUNCT	$.	_	4	punct	_	_
 
 ~~~
 
@@ -57,18 +57,18 @@ The following 25 pairs of parts of speech are connected with `ccomp`: [de-pos/VE
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 10 ccomp	color:blue
-1	Nur	_	ADV	_	_	4	advmod	_	_
-2	mit	_	ADP	_	_	4	case	_	_
-3	dem	_	DET	_	_	4	det	_	_
-4	Unterschied	_	NOUN	_	_	0	root	_	_
-5	,	_	PUNCT	_	_	4	punct	_	_
-6	dass	_	SCONJ	_	_	10	mark	_	_
-7	die	_	PRON	_	_	10	nsubj	_	_
-8	kaum	_	ADV	_	_	10	advmod	_	_
-9	zu	_	PART	_	_	10	aux	_	_
-10	nutzen	_	VERB	_	_	4	ccomp	_	_
-11	waren	_	AUX	_	_	10	aux	_	_
-12	.	_	PUNCT	_	_	4	punct	_	_
+1	Nur	nur	ADV	ADV	_	4	advmod	_	_
+2	mit	mit	ADP	APPR	_	4	case	_	_
+3	dem	der	DET	ART	Definite=Def|PronType=Art	4	det	_	_
+4	Unterschied	Unterschied	NOUN	NN	_	0	root	_	_
+5	,	,	PUNCT	$,	_	4	punct	_	_
+6	dass	dass	SCONJ	KOUS	_	10	mark	_	_
+7	die	der	PRON	ART	Case=Nom|PronType=Dem	10	nsubj	_	_
+8	kaum	kaum	ADV	ADV	_	10	advmod	_	_
+9	zu	zu	PART	PTKZU	_	10	mark	_	_
+10	nutzen	nutzen	VERB	VVINF	VerbForm=Inf	4	ccomp	_	_
+11	waren	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
+12	.	.	PUNCT	$.	_	4	punct	_	_
 
 ~~~
 

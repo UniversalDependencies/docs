@@ -53,18 +53,19 @@ The following 49 pairs of parts of speech are connected with `remnant`: [cu-pos/
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 remnant	color:blue
-1	мъноѕи	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	3	xcomp	_	_
-2	бо	бо	ADV	Df	_	3	discourse	_	_
-3	сѫтъ	бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	зъвании	зъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	3	nsubj	_	_
-5	мало	мало	ADV	Df	Degree=Pos	1	remnant	_	_
-6	же	же	ADV	Df	_	2	remnant	_	_
-7	избъранꙑихъ	избьрати	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	4	remnant	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 8 remnant	color:blue
+1	достоино	достоинъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	xcomp	_	_
+2	ли	ли	ADV	Du	PronType=Int	3	advmod	_	_
+3	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	ccomp	_	_
+5	кинъсъ	кинъсъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	dobj	_	_
+6	кесареви	кесарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	_
+7	или	или	CONJ	C-	_	3	cc	_	_
+8	ни	ни	ADV	Df	_	2	remnant	_	_
 
 ~~~
 

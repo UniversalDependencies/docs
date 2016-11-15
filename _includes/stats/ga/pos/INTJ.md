@@ -13,12 +13,12 @@ The 10 most frequent `INTJ` types:  <em>Leoga, Och, faraor, Á, Ó</em>
 
 The 10 most frequent ambiguous lemmas: <em>ó</em> ([ADP]() 127, [PART]() 31, [SCONJ]() 2, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>Á</em> ([INTJ]() 1, [ADP]() 1), <em>Ó</em> ([PART]() 30, [ADP]() 3, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>Á</em> ([ADP]() 1, [INTJ]() 1), <em>Ó</em> ([PART]() 30, [ADP]() 3, [INTJ]() 1)
 
 
 * <em>Á</em>
-  * [INTJ]() 1: <em>' ' <b>Á</b> , níl sé chomh holc san ar fad .</em>
   * [ADP]() 1: <em>Tógann sé amach biro dearg ) MAIDHC : ( <b>Á</b> stopadh .</em>
+  * [INTJ]() 1: <em>' ' <b>Á</b> , níl sé chomh holc san ar fad .</em>
 * <em>Ó</em>
   * [PART]() 30: <em>Grianghraif le Maidhc <b>Ó</b> Seachnasaí .</em>
   * [ADP]() 3: <em><b>Ó</b> 1996 , áfach , cuireadh tús le roinnt cúrsaí iarchéime .</em>

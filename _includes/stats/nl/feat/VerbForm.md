@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [nl-pos/VERB]() (20112; 10% inst
 
 20112 [nl-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (16391; 81%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (14519; 72%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (11536; 57%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (11536; 57%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (16391; 81%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (14519; 72%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (11536; 57%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (11536; 57%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbType.html">VerbType</a>=Mod</tt></td><td><em>hebt, heb</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Subcat.html">Subcat</a>=Tran|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>heeft, heb'</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbType.html">VerbType</a>=Mod</tt></td><td><em>heeft</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Subcat.html">Subcat</a>=Intr|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>hebbe, plaatshad</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Subcat.html">Subcat</a>=Intr|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>plaatshad, hebbe</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Subcat.html">Subcat</a>=Tran|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>had</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbType.html">VerbType</a>=Mod</tt></td><td><em>had</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Subcat.html">Subcat</a>=Tran|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>hadden</em></td><td></td><td></td></tr>
@@ -50,7 +50,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 11430 [nl-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Subcat.html">Subcat</a>=EMPTY</tt> (8311; 73%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7398; 65%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7398; 65%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7227; 63%), <tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt> (6797; 59%), <tt><a href="Number.html">Number</a>=Sing</tt> (5903; 52%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Subcat.html">Subcat</a>=EMPTY</tt> (8311; 73%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7398; 65%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7398; 65%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7227; 63%), <tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt> (6797; 59%), <tt><a href="Number.html">Number</a>=Sing</tt> (5903; 52%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Tense.html">Tense</a>=Pres|<a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td></td><td></td><td><em>zijnde</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td><em>Wees</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td><em>zij, ware</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Subcat.html">Subcat</a>=Intr|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>geweest, neergeweest, weggeweest</em></td></tr>
+  <tr><td><tt><a href="Subcat.html">Subcat</a>=Intr|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>geweest, weggeweest, neergeweest</em></td></tr>
   <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>geweest</em></td></tr>
   <tr><td><tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td></td><td><em>zijn</em></td><td></td></tr>
 </table>

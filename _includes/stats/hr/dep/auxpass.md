@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-625 nodes (1%) are attached to their parents as `auxpass`.
+842 nodes (1%) are attached to their parents as `auxpass`.
 
-454 instances of `auxpass` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.6992.
+616 instances of `auxpass` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.77672209026128.
 
-The following 7 pairs of parts of speech are connected with `auxpass`: [hr-pos/ADJ]()-[hr-pos/AUX]() (593; 95% instances), [hr-pos/VERB]()-[hr-pos/AUX]() (18; 3% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (10; 2% instances), [hr-pos/ADV]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/PRON]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/ADJ]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `auxpass`: [hr-pos/ADJ]()-[hr-pos/AUX]() (799; 95% instances), [hr-pos/VERB]()-[hr-pos/AUX]() (24; 3% instances), [hr-pos/VERB]()-[hr-pos/PRON]() (12; 1% instances), [hr-pos/ADJ]()-[hr-pos/PRON]() (1; 0% instances), [hr-pos/ADV]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/PRON]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/ADP]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/AUX]() (1; 0% instances), [hr-pos/VERB]()-[hr-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu

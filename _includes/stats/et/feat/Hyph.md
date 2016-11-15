@@ -48,7 +48,7 @@ The most frequent other feature values with which `PROPN` and `Hyph` co-occurred
 
 11 [et-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (11; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (11; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (11; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (10; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 55%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (11; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (11; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (11; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (10; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 55%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 
@@ -60,27 +60,17 @@ The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: 
 
 6 [et-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `NUM` and `Hyph` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (6; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 83%), <tt><a href="NumForm.html">NumForm</a>=Letter</tt> (4; 67%), <tt><a href="Case.html">Case</a>=Gen</tt> (4; 67%).
+The most frequent other feature values with which `NUM` and `Hyph` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (6; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 83%), <tt><a href="Case.html">Case</a>=Gen</tt> (4; 67%), <tt><a href="NumForm.html">NumForm</a>=Letter</tt> (4; 67%).
 
 `NUM` tokens may have the following values of `Hyph`:
 
 * `Yes` (6; 100% of non-empty `Hyph`): <em>300-, kahe-, kaheksa-, kuue-, viie-, ühe-</em>
 
-### `ADP`
-
-1 [et-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Hyph`.
-
-The most frequent other feature values with which `ADP` and `Hyph` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (1; 100%).
-
-`ADP` tokens may have the following values of `Hyph`:
-
-* `Yes` (1; 100% of non-empty `Hyph`): <em>siin-</em>
-
 ### `SYM`
 
 1 [et-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `SYM` and `Hyph` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `SYM` and `Hyph` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (1; 100%).
 
 `SYM` tokens may have the following values of `Hyph`:
 
@@ -93,4 +83,14 @@ The most frequent other feature values with which `SYM` and `Hyph` co-occurred: 
 `ADV` tokens may have the following values of `Hyph`:
 
 * `Yes` (1; 100% of non-empty `Hyph`): <em>vara-</em>
+
+### `ADP`
+
+1 [et-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Hyph`.
+
+The most frequent other feature values with which `ADP` and `Hyph` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (1; 100%).
+
+`ADP` tokens may have the following values of `Hyph`:
+
+* `Yes` (1; 100% of non-empty `Hyph`): <em>siin-</em>
 

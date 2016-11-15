@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=All</tt></td><td><em>taldera</em></td><td><em>taldeetara</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Com</tt></td><td><em>taldearekin</em></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Dat</tt></td><td><em>taldeari</em></td><td><em>taldeei</em></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Erg</tt></td><td><em>taldeak</em></td><td><em>taldeek, taldekoek, taldeok</em></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Erg</tt></td><td><em>taldeak</em></td><td><em>taldeek, taldeok, taldekoek</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen</tt></td><td><em>taldearen</em></td><td><em>taldeen</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ine</tt></td><td><em>taldean, taldearengan</em></td><td><em>taldeetan</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Loc</tt></td><td><em>taldeko, talderako</em></td><td><em>taldeetako</em></td></tr>
@@ -115,7 +115,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 <table>
   <tr><th>Paradigm <i>bera</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl</tt></td><td><em>beretik</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Definite.html">Definite</a>=Def</tt></td><td><em>bera, berea, berekoa</em></td><td><em>bereak, berekoak</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Definite.html">Definite</a>=Def</tt></td><td><em>bera, berekoa, berea</em></td><td><em>bereak, berekoak</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Definite.html">Definite</a>=Ind</tt></td><td><em>bere</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=All|<a href="Definite.html">Definite</a>=Def</tt></td><td><em>berarengana</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ben</tt></td><td><em>beretzat</em></td><td></td></tr>
@@ -166,7 +166,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 713 [eu-pos/VERB]() tokens (3% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (622; 87%), <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (622; 87%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (622; 87%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (620; 87%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (445; 62%), <tt><a href="Case.html">Case</a>=Abs</tt> (410; 58%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (622; 87%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (622; 87%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (622; 87%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (620; 87%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (445; 62%), <tt><a href="Case.html">Case</a>=Abs</tt> (410; 58%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -213,10 +213,10 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td><em>dutenenetatik</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Cnd|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>lukeena</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td><em>gaituztenak</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>zidatena, didana</em></td><td><em>dizkigunak, zidatenak</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>zidatena, didana</em></td><td><em>zidatenak, dizkigunak</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>diona, ziona, diotena, zizkiona</em></td><td><em>diotenak, dienak</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=1</tt></td><td><em>nuena</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duena, zuena, dutena, dituena, zutena, dutenena, dutenetakoa</em></td><td><em>dutenak, dituztenak, zituztenak, dituenak</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duena, zuena, dutena, dituena, zutena, dutenetakoa, dutenena</em></td><td><em>dutenak, dituztenak, zituztenak, dituenak</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ben|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>nauenarentzat</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ben|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>zuenarentzat</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Cau|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>gintuenagatik</em></td><td></td></tr>
@@ -231,14 +231,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Erg|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=1</tt></td><td><em>dudanak</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Erg|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duenak, zuenak</em></td><td><em>dutenek, dituztenek</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duenaren, dutenaren</em></td><td><em>dutenen, dituztenen</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duteneko, zuteneko</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>zuteneko, duteneko</em></td><td></td></tr>
 </table>
 
 ### `PRON`
 
 27 [eu-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (27; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (27; 100%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (27; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (27; 100%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -300,7 +300,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> PROPN</tt> (50; 67%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (47; 57%),
 <tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (37; 64%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (30; 54%),
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (30; 81%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (30; 54%),
 <tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> ADJ</tt> (13; 52%).
 

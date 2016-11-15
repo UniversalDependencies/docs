@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>bu</em> ([DET]() 313, [PRON]() 56), <
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 2.818565).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 2.815350).
 
 The 1st highest number of forms (1) was observed with the lemma “bazı”: <em>bazı</em>.
 

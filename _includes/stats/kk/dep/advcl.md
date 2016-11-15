@@ -6,67 +6,72 @@
 
 This relation is universal.
 
-184 nodes (4%) are attached to their parents as `advcl`.
+244 nodes (4%) are attached to their parents as `advcl`.
 
-183 instances of `advcl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.47282608695652.
+243 instances of `advcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.61065573770492.
 
-The following 11 pairs of parts of speech are connected with `advcl`: [kk-pos/VERB]()-[kk-pos/VERB]() (149; 81% instances), [kk-pos/ADJ]()-[kk-pos/VERB]() (9; 5% instances), [kk-pos/NOUN]()-[kk-pos/VERB]() (9; 5% instances), [kk-pos/VERB]()-[kk-pos/NOUN]() (7; 4% instances), [kk-pos/VERB]()-[kk-pos/ADJ]() (4; 2% instances), [kk-pos/ADJ]()-[kk-pos/NOUN]() (1; 1% instances), [kk-pos/NOUN]()-[kk-pos/PRON]() (1; 1% instances), [kk-pos/NUM]()-[kk-pos/VERB]() (1; 1% instances), [kk-pos/PRON]()-[kk-pos/VERB]() (1; 1% instances), [kk-pos/PUNCT]()-[kk-pos/VERB]() (1; 1% instances), [kk-pos/VERB]()-[kk-pos/NUM]() (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 advcl	color:blue
-1	Сөйтіп	сөйт	VERB	v	_	7	advcl	_	iv|gna_perf
-2	,	,	PUNCT	cm	_	1	punct	_	_
-3	Алашордасының	Алашорда	PROPN	np	_	4	nmod:poss	_	top|px3sp|gen
-4	бастығына	бастық	NOUN	n	_	7	nmod	_	px3sp|dat
-5	Ғ.	Ғ.	NOUN	abbr	_	6	name	_	_
-6	Бөкейхан	Бөкейхан	PROPN	np	_	7	nsubj	_	ant|m|nom
-7	сайланды	сайла	VERB	v	_	0	root	_	tv|pass|ifi|p3|sg
-8	.	.	PUNCT	sent	_	7	punct	_	_
-
-~~~
+The following 14 pairs of parts of speech are connected with `advcl`: [kk-pos/VERB]()-[kk-pos/VERB]() (200; 82% instances), [kk-pos/NOUN]()-[kk-pos/VERB]() (11; 5% instances), [kk-pos/VERB]()-[kk-pos/NOUN]() (10; 4% instances), [kk-pos/ADJ]()-[kk-pos/VERB]() (9; 4% instances), [kk-pos/VERB]()-[kk-pos/ADJ]() (4; 2% instances), [kk-pos/ADJ]()-[kk-pos/NOUN]() (2; 1% instances), [kk-pos/NOUN]()-[kk-pos/NOUN]() (1; 0% instances), [kk-pos/NOUN]()-[kk-pos/NUM]() (1; 0% instances), [kk-pos/NOUN]()-[kk-pos/PRON]() (1; 0% instances), [kk-pos/NUM]()-[kk-pos/VERB]() (1; 0% instances), [kk-pos/PRON]()-[kk-pos/VERB]() (1; 0% instances), [kk-pos/PUNCT]()-[kk-pos/VERB]() (1; 0% instances), [kk-pos/VERB]()-[kk-pos/AUX]() (1; 0% instances), [kk-pos/VERB]()-[kk-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 advcl	color:blue
-1	Сізбен	сіз	PRON	prn	_	2	nmod	_	pers|p2|sg|frm|ins
-2	танысқаныма	таны	VERB	v	_	3	advcl	_	tv|coop|ger_past|px1sg|dat
-3	_	қуанышты	ADJ	adj	_	0	root	_	_
-4	_	е	VERB	cop	_	3	cop	_	aor|p1|sg
-5	.	.	PUNCT	sent	_	3	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 advcl	color:blue
+1	1968	1968	NUM	num	_	2	amod	_	_
+2	жылдан	жыл	NOUN	n	_	3	nmod	_	abl
+3	бастап	баста	VERB	v	_	7	advcl	_	tv|gna_perf
+4	Ширазда	Шираз	PROPN	np	_	7	nmod	_	top|loc
+5	театр	театр	NOUN	n	_	6	nmod:poss	_	nom
+6	фестивалы	фестиваль	NOUN	n	_	7	nsubj	_	px3sp|nom
+7	өткізіліп	өткіз	VERB	v	_	0	root	_	tv|pass|prc_perf
+8	тұрды	тұр	AUX	vaux	_	7	aux	_	ifi|p3|sg
+9	.	.	PUNCT	sent	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 10 advcl	color:blue
-1	Қандай	қандай	PRON	prn	_	12	advcl	_	itg|sim
-2	_	бол	VERB	v	_	1	cop	_	iv|ger_past|loc
-3	_	да	PART	postadv	_	2	advmod	_	_
-4	,	,	PUNCT	cm	_	1	punct	_	_
-5	қала	қала	NOUN	n	_	12	nsubj	_	nom
-6	ескі	ескі	ADJ	adj	_	7	amod	_	_
-7	_	заман	NOUN	n	_	12	nmod	_	abl
-8	_	-ақ	PART	postadv	_	7	advmod	_	_
-9	адамдардың	адам	NOUN	n	_	10	nsubj	_	pl|gen
-10	өмір__сүруіне	өмір__сүр	VERB	v	_	12	advcl	_	iv|ger|px3sp|dat
-11	қолайлы	қолайлы	ADJ	adj	_	12	amod	_	_
-12	мекен	мекен	NOUN	n	_	0	root	_	nom
-13	болған	бол	VERB	v	_	12	cop	_	iv|past|p3|sg
-14	.	.	PUNCT	sent	_	12	punct	_	_
+# visual-style 10 6 advcl	color:blue
+1	Кім	кім	PRON	prn	Case=Nom|PronType=Itg	2	nsubj	_	кім|prn|itg|nom
+2	біледі	біл	VERB	v	Number=Sing|Person=3|Tense=Aor	0	root	_	біл|v|tv|aor|p3|sg
+3	,	,	PUNCT	cm	_	2	punct	_	,|cm
+4	қолына	қол	NOUN	n	Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3	6	nmod	_	қол|n|px3sp|dat
+5	қару	қару	NOUN	n	Case=Nom	6	dobj	_	қару|n|nom
+6	берсе	бер	VERB	v	Mood=Cond|Number=Sing|Person=3|VerbForm=Trans	10	advcl	_	бер|v|tv|gnacond|p3|sg
+7	,	,	PUNCT	cm	_	12	punct	_	,|cm
+8	орыс	орыс	NOUN	n	Case=Nom	9	nmod:poss	_	орыс|n|nom
+9	жұртына	жұрт	NOUN	n	Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3	10	nmod	_	жұрт|n|px3sp|dat
+10	жау	жау	NOUN	n	Case=Nom	15	ccomp	_	жау|n|nom
+11	болып	бол	VERB	v	Aspect=Perf|VerbForm=Coverb	10	cop	_	бол|v|iv|prcperf
+12	кетпесіне	кет	AUX	vaux	Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|Polarity=Neg	10	aux	_	кет|vaux|neg|gerfut|px3sp|dat
+13	кімнің	кім	PRON	prn	Case=Gen|PronType=Itg	14	nmod:poss	_	кім|prn|itg|gen
+14	көзі	көз	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	15	nsubj	_	көз|n|px3sp|nom
+15	жетеді	жет	VERB	v	Number=Sing|Person=3|Tense=Aor	2	parataxis	_	жет|v|iv|aor|p3|sg
+16	?	?	PUNCT	sent	_	2	punct	_	?|sent
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 advcl	color:blue
+1	Ауылда	ауыл	NOUN	n	_	6	nmod	_	loc
+2	клуб	клуб	NOUN	n	_	3	nmod:poss	_	nom
+3	директоры	директор	NOUN	n	_	6	advcl	_	px3sp|nom
+4	болып	бол	VERB	v	_	3	cop	_	iv|gna_perf
+5	қызмет	қызмет	NOUN	n	_	6	dobj	_	nom
+6	атқарды	атқар	VERB	v	_	0	root	_	tv|ifi|p3|sg
+7	.	.	PUNCT	sent	_	6	punct	_	_
 
 ~~~
 

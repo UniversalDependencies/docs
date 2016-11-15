@@ -46,7 +46,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</
 
 `PUNCT` nodes are attached to their parents using 2 different relations: [bg-dep/punct]() (22075; 99% instances), [bg-dep/dobj]() (171; 1% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: [VERB]() (13815; 62% instances), [NOUN]() (3441; 15% instances), [PROPN]() (2365; 11% instances), [ADJ]() (1228; 6% instances), [CONJ]() (582; 3% instances), [ADV]() (464; 2% instances), [INTJ]() (104; 0% instances), [PRON]() (101; 0% instances), [PART]() (70; 0% instances), [NUM]() (44; 0% instances), [DET]() (24; 0% instances), [SCONJ]() (3; 0% instances), [X]() (3; 0% instances), [ADP]() (2; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: [VERB]() (13782; 62% instances), [NOUN]() (3452; 16% instances), [PROPN]() (2365; 11% instances), [ADJ]() (1234; 6% instances), [CONJ]() (580; 3% instances), [ADV]() (468; 2% instances), [PRON]() (110; 0% instances), [INTJ]() (105; 0% instances), [PART]() (70; 0% instances), [NUM]() (48; 0% instances), [DET]() (24; 0% instances), [SCONJ]() (4; 0% instances), [X]() (3; 0% instances), [ADP]() (1; 0% instances)
 
 22246 (100%) `PUNCT` nodes are leaves.
 

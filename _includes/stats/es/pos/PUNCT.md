@@ -11,7 +11,7 @@ The 10 most frequent `PUNCT` lemmas: <em>,, ., ", (, ), -, :, ;, ', /</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ", (, ), -, :, ;, ', /</em>
 
-The 10 most frequent ambiguous lemmas: <em>,</em> ([PUNCT]() 21258, [X]() 1), <em>"</em> ([PUNCT]() 2719, [X]() 5), <em>)</em> ([PUNCT]() 2403, [X]() 1), <em>-</em> ([PUNCT]() 1073, [X]() 1), <em>;</em> ([PUNCT]() 288, [X]() 2), <em>'</em> ([PUNCT]() 207, [X]() 2), <em>/</em> ([PUNCT]() 194, [SYM]() 22), <em>»</em> ([PUNCT]() 167, [ADJ]() 2), <em>--</em> ([PUNCT]() 156, [X]() 1), <em>[</em> ([PUNCT]() 17, [PROPN]() 1, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>,</em> ([PUNCT]() 21258, [X]() 1), <em>"</em> ([PUNCT]() 2719, [X]() 5), <em>)</em> ([PUNCT]() 2403, [X]() 1), <em>-</em> ([PUNCT]() 1073, [X]() 1), <em>;</em> ([PUNCT]() 288, [X]() 2), <em>'</em> ([PUNCT]() 207, [X]() 2), <em>/</em> ([PUNCT]() 194, [SYM]() 22), <em>»</em> ([PUNCT]() 167, [ADJ]() 2), <em>--</em> ([PUNCT]() 156, [X]() 1), <em>[</em> ([PUNCT]() 17, [X]() 1, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>,</em> ([PUNCT]() 21258, [X]() 1), <em>"</em> ([PUNCT]() 2719, [X]() 5), <em>)</em> ([PUNCT]() 2403, [X]() 1), <em>-</em> ([PUNCT]() 1073, [X]() 1), <em>;</em> ([PUNCT]() 288, [X]() 2), <em>'</em> ([PUNCT]() 207, [X]() 2), <em>/</em> ([PUNCT]() 194, [SYM]() 22), <em>»</em> ([PUNCT]() 167, [ADJ]() 2), <em>--</em> ([PUNCT]() 156, [X]() 1), <em>[</em> ([PUNCT]() 17, [X]() 1, [PROPN]() 1)
 

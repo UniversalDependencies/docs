@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3576 nodes (18%) are attached to their parents as `punct`.
+3716 nodes (18%) are attached to their parents as `punct`.
 
-2285 instances of `punct` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.07186800894855.
+2380 instances of `punct` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.02852529601722.
 
-The following 18 pairs of parts of speech are connected with `punct`: [lv-pos/VERB]()-[lv-pos/PUNCT]() (1781; 50% instances), [lv-pos/NOUN]()-[lv-pos/PUNCT]() (659; 18% instances), [lv-pos/PROPN]()-[lv-pos/PUNCT]() (615; 17% instances), [lv-pos/SYM]()-[lv-pos/PUNCT]() (147; 4% instances), [lv-pos/ADJ]()-[lv-pos/PUNCT]() (103; 3% instances), [lv-pos/X]()-[lv-pos/PUNCT]() (99; 3% instances), [lv-pos/ADV]()-[lv-pos/PUNCT]() (48; 1% instances), [lv-pos/NUM]()-[lv-pos/PUNCT]() (39; 1% instances), [lv-pos/PART]()-[lv-pos/PUNCT]() (25; 1% instances), [lv-pos/PRON]()-[lv-pos/PUNCT]() (24; 1% instances), [lv-pos/PUNCT]()-[lv-pos/PUNCT]() (17; 0% instances), [lv-pos/SCONJ]()-[lv-pos/PUNCT]() (5; 0% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (5; 0% instances), [lv-pos/INTJ]()-[lv-pos/PUNCT]() (3; 0% instances), [lv-pos/PROPN]()-[lv-pos/SYM]() (3; 0% instances), [lv-pos/ADJ]()-[lv-pos/SYM]() (1; 0% instances), [lv-pos/CONJ]()-[lv-pos/PUNCT]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/SYM]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: [lv-pos/VERB]()-[lv-pos/PUNCT]() (1839; 49% instances), [lv-pos/NOUN]()-[lv-pos/PUNCT]() (723; 19% instances), [lv-pos/PROPN]()-[lv-pos/PUNCT]() (637; 17% instances), [lv-pos/SYM]()-[lv-pos/PUNCT]() (149; 4% instances), [lv-pos/ADJ]()-[lv-pos/PUNCT]() (104; 3% instances), [lv-pos/X]()-[lv-pos/PUNCT]() (99; 3% instances), [lv-pos/ADV]()-[lv-pos/PUNCT]() (48; 1% instances), [lv-pos/PART]()-[lv-pos/PUNCT]() (27; 1% instances), [lv-pos/PRON]()-[lv-pos/PUNCT]() (25; 1% instances), [lv-pos/NUM]()-[lv-pos/PUNCT]() (23; 1% instances), [lv-pos/PUNCT]()-[lv-pos/PUNCT]() (22; 1% instances), [lv-pos/SCONJ]()-[lv-pos/PUNCT]() (7; 0% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (5; 0% instances), [lv-pos/INTJ]()-[lv-pos/PUNCT]() (3; 0% instances), [lv-pos/PROPN]()-[lv-pos/SYM]() (3; 0% instances), [lv-pos/ADJ]()-[lv-pos/SYM]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu

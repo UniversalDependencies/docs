@@ -7,22 +7,22 @@
 This feature is universal but the values `DurPerf`, `ProgRapid`, `Rapid` are language-specific.
 It occurs with 6 different values: `DurPerf`, `Imp`, `Perf`, `Prog`, `ProgRapid`, `Rapid`.
 
-12033 tokens (21%) have a non-empty value of `Aspect`.
-6478 types (38%) occur at least once with a non-empty value of `Aspect`.
-831 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: [tr-pos/VERB]() (11057; 19% instances), [tr-pos/AUX]() (976; 2% instances).
+12032 tokens (21%) have a non-empty value of `Aspect`.
+6463 types (38%) occur at least once with a non-empty value of `Aspect`.
+830 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: [tr-pos/VERB]() (11056; 19% instances), [tr-pos/AUX]() (976; 2% instances).
 
 ### `VERB`
 
-11057 [tr-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
+11056 [tr-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (9815; 89%), <tt><a href="Register.html">Register</a>=EMPTY</tt> (9696; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (9595; 87%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (9354; 85%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (9354; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (9323; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8882; 80%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6304; 57%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (9814; 89%), <tt><a href="Register.html">Register</a>=EMPTY</tt> (9695; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (9594; 87%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (9353; 85%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (9353; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (9322; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8882; 80%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6304; 57%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
 * `DurPerf` (3; 0% of non-empty `Aspect`): <em>uyuyakaldığı, uyuyakaldığını, uyuyakalmıştı</em>
-* `Imp` (1176; 11% of non-empty `Aspect`): <em>olur, olmaz, olabilir, eder, ister, gerekir, gelir, sanırım, yeter, alır</em>
-* `Perf` (8506; 77% of non-empty `Aspect`): <em>dedi, olan, dedim, olduğunu, değil, oldu, olduğu, söyledi, gelen, etti</em>
+* `Imp` (1176; 11% of non-empty `Aspect`): <em>olur, olmaz, olabilir, eder, ister, gerekir, alır, gelir, sanırım, yeter</em>
+* `Perf` (8505; 77% of non-empty `Aspect`): <em>dedi, olan, dedim, olduğunu, değil, oldu, olduğu, söyledi, gelen, etti</em>
 * `Prog` (1360; 12% of non-empty `Aspect`): <em>diyor, oluyor, bilmiyorum, geliyor, biliyorum, biliyor, istiyorum, gidiyoruz, yapıyor, ediyor</em>
 * `ProgRapid` (1; 0% of non-empty `Aspect`): <em>takılıveriyor</em>
 * `Rapid` (11; 0% of non-empty `Aspect`): <em>alıverdi, doluverdi, ediver, edivermişti, gidiverdi, giriverir, oluverip, siliniverir, tıraşlayıvermiştin, yapıverir</em>
@@ -187,7 +187,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Perf` (976; 100% of non-empty `Aspect`): <em>mi, mı, dır, dir, ydi, dı, ydı, tu, mu, dur</em>
+* `Perf` (976; 100% of non-empty `Aspect`): <em>dir, mi, dır, mı, ydi, dı, ydı, tu, mu, dur</em>
 
 ## Relations with Agreement in `Aspect`
 
@@ -196,10 +196,10 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (513; 68%),
 <tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (454; 61%),
 <tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (405; 62%),
-<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (206; 67%),
+<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (205; 67%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (141; 52%),
 <tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (58; 53%),
 <tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (43; 56%),
-<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (36; 82%),
+<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (35; 81%),
 <tt>VERB --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> VERB</tt> (33; 100%).
 

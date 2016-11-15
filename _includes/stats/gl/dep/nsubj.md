@@ -95,3 +95,69 @@ The following 17 pairs of parts of speech are connected with `nsubj`: [gl-pos/VE
 ~~~
 
 
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Galician-TreeGal)
+
+This relation is universal.
+
+1155 nodes (5%) are attached to their parents as `nsubj`.
+
+957 instances of `nsubj` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.34891774891775.
+
+The following 23 pairs of parts of speech are connected with `nsubj`: [gl-pos/VERB]()-[gl-pos/NOUN]() (400; 35% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (348; 30% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (201; 17% instances), [gl-pos/ADJ]()-[gl-pos/NOUN]() (47; 4% instances), [gl-pos/NOUN]()-[gl-pos/NOUN]() (43; 4% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (23; 2% instances), [gl-pos/NOUN]()-[gl-pos/PROPN]() (20; 2% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (17; 1% instances), [gl-pos/PRON]()-[gl-pos/NOUN]() (15; 1% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (12; 1% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (5; 0% instances), [gl-pos/ADV]()-[gl-pos/NOUN]() (4; 0% instances), [gl-pos/ADJ]()-[gl-pos/PROPN]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (3; 0% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/ADV]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/PRON]()-[gl-pos/PROPN]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/NOUN]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 nsubj	color:blue
+1	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	denuncia	denuncia	NOUN	Scfs	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	a_tempo	a_tempo	ADV	La0	_	2	advmod	_	_
+4	tamén	tamén	ADV	Wn	_	5	advmod	_	_
+5	pode	poder	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	gañar	gañar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+7	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	batalla	batalla	NOUN	Scfs	Gender=Fem|Number=Sing	6	dobj	_	_
+9	.	.	PUNCT	Q.	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 nsubj	color:blue
+1	eu	eu	PRON	Rtn1as	Case=Nom|Gender=Com|Number=Sing|Person=1	4	nsubj	_	_
+2	non	non	ADV	Wn	_	3	neg	_	_
+3	podía	poder	VERB	Vii10s	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	entrar	entrar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+5	así	así	ADV	Wn	_	4	advmod	_	_
+6	.	.	PUNCT	Q.	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nsubj	color:blue
+1	Walesa	Walesa	PROPN	Sp00	_	2	nsubj	_	_
+2	critica	criticar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	emisora	emisora	NOUN	Scfs	Gender=Fem|Number=Sing	2	dobj	_	_
+5	católica	católico	ADJ	A0fs	Gender=Fem|Number=Sing	4	amod	_	_
+
+~~~
+
+

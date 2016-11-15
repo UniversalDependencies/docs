@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [hu-pos/ADJ]() (4708; 11% instan
 
 4708 [hu-pos/ADJ]() tokens (85% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4648; 99%), <tt><a href="Case.html">Case</a>=Nom</tt> (4301; 91%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4210; 89%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (2534; 54%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (2531; 54%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (2531; 54%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4648; 99%), <tt><a href="Case.html">Case</a>=Nom</tt> (4301; 91%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4210; 89%), <tt><a href="Number[psed].html">Number[psed]</a>=None</tt> (2534; 54%), <tt><a href="Person[psor].html">Person[psor]</a>=None</tt> (2531; 54%), <tt><a href="Number[psor].html">Number[psor]</a>=None</tt> (2531; 54%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -59,12 +59,12 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<a href="../dep/amod:att.html">amod:att</a>]--> ADJ</tt> (108; 68%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (101; 78%),
-<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (29; 100%),
 <tt>ADJ --[<a href="../dep/nmod.html">nmod</a>]--> ADJ</tt> (29; 100%),
+<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (29; 100%),
 <tt>ADJ --[<a href="../dep/advmod:mode.html">advmod:mode</a>]--> ADJ</tt> (3; 100%),
-<tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/csubj.html">csubj</a>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<a href="../dep/csubj.html">csubj</a>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<a href="../dep/acl.html">acl</a>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (1; 100%).
+<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (1; 100%).
 

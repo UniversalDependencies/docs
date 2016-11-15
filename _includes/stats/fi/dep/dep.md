@@ -15,24 +15,6 @@ The following 5 pairs of parts of speech are connected with `dep`: [fi-pos/ADJ](
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 dep	color:blue
-1	*	*	PUNCT	Punct	_	4	punct	_	_
-2	yy	yy	SYM	Symb	_	4	dep	_	_
-3	-	-	PUNCT	Punct	_	2	punct	_	_
-4	kopioi	kopioida	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
-5	kursorin	kursori	NOUN	N	Case=Gen|Number=Sing	7	nmod	_	_
-6	alla	alla	ADP	Adp	AdpType=Post	5	case	_	_
-7	oleva	olla	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
-8	rivi	rivi	NOUN	N	Case=Nom|Number=Sing	4	dobj	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 11	bgColor:blue
@@ -64,15 +46,31 @@ The following 5 pairs of parts of speech are connected with `dep`: [fi-pos/ADJ](
 # visual-style 4	fgColor:white
 # visual-style 4 2 dep	color:blue
 1	*	*	PUNCT	Punct	_	4	punct	_	_
-2	*	*	PUNCT	Punct	_	4	dep	_	_
+2	yy	yy	SYM	Symb	_	4	dep	_	_
 3	-	-	PUNCT	Punct	_	2	punct	_	_
-4	Etsi	etsiä	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+4	kopioi	kopioida	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 5	kursorin	kursori	NOUN	N	Case=Gen|Number=Sing	7	nmod	_	_
 6	alla	alla	ADP	Adp	AdpType=Post	5	case	_	_
-7	olevaa	olla	VERB	V	Case=Par|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
-8	markkijonoa	merkki#jono	NOUN	N	Case=Par|Number=Sing	4	dobj	_	_
-9	tiedostossa	tiedosto	NOUN	N	Case=Ine|Number=Sing	4	nmod	_	_
-10	eteenpäin	eteenpäin	ADV	Adv	_	9	advmod	_	_
+7	oleva	olla	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+8	rivi	rivi	NOUN	N	Case=Nom|Number=Sing	4	dobj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 dep	color:blue
+1	Sitä	se	PRON	Pron	Case=Par|Number=Sing|PronType=Dem	3	dobj	_	_
+2	voi	voida	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	nähdä	nähdä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	_
+4	mitä	mikä	PRON	Pron	Case=Par|Number=Sing|PronType=Rel	5	dep	_	_
+5	erilaisimpien	erilainen	ADJ	A	Case=Gen|Degree=Sup|Number=Plur	6	amod	_	_
+6	kukkien	kukka	NOUN	N	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	vieraana	vieras	NOUN	N	Case=Ess|Number=Sing	3	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	3	punct	_	_
 
 ~~~
 

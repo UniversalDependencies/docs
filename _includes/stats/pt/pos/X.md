@@ -4,18 +4,21 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 2 `X` lemmas (0%), 2 `X` types (0%) and 2 `X` tokens (0%).
+There are 4 `X` lemmas (0%), 4 `X` types (0%) and 5 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>???, que</em>
+The 10 most frequent `X` lemmas: <em>I, ???, Am, que</em>
 
-The 10 most frequent `X` types:  <em>(<predicate>), que</em>
+The 10 most frequent `X` types:  <em>I, (<predicate>), Am, que</em>
 
-The 10 most frequent ambiguous lemmas: <em>???</em> ([PROPN]() 2, [X]() 1), <em>que</em> ([PRON]() 2331, [SCONJ]() 1996, [ADV]() 90, [DET]() 20, [ADP]() 3, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>I</em> ([ADJ]() 12, [X]() 2), <em>???</em> ([PROPN]() 2, [X]() 1), <em>que</em> ([PRON]() 2331, [SCONJ]() 1996, [ADV]() 90, [DET]() 20, [ADP]() 3, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2326, [SCONJ]() 1988, [ADV]() 90, [DET]() 18, [ADP]() 3, [X]() 1)
+The 10 most frequent ambiguous types:  <em>I</em> ([ADJ]() 12, [X]() 2), <em>que</em> ([PRON]() 2326, [SCONJ]() 1988, [ADV]() 90, [DET]() 18, [ADP]() 3, [X]() 1)
 
 
+* <em>I</em>
+  * [ADJ]() 12: <em>Um encontro com a pastora de Fátima transformou João Paulo <b>I</b></em>
+  * [X]() 2: <em>Entre os clips que o programa exibe estão « Blitzkrieg Bop » , « <b>I</b> Wanna Live » e « Poison Heart » .</em>
 * <em>que</em>
   * [PRON]() 2326: <em>Era uma época em <b>que</b> os cariocas imperavam em campo e fora de ele .</em>
   * [SCONJ]() 1988: <em>Folha -- o <b>que</b> a mulher precisa hoje , em termos de roupas ?</em>
@@ -26,32 +29,84 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2326, [SCONJ]() 19
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.447797).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.432674).
 
 The 1st highest number of forms (1) was observed with the lemma “???”: <em>(<predicate>)</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “que”: <em>que</em>.
+The 2nd highest number of forms (1) was observed with the lemma “Am”: <em>Am</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “I”: <em>I</em>.
 
 `X` does not occur with any features.
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 2 different relations: [pt-dep/advmod]() (1; 50% instances), [pt-dep/conj]() (1; 50% instances)
+`X` nodes are attached to their parents using 3 different relations: [pt-dep/appos]() (2; 40% instances), [pt-dep/conj]() (2; 40% instances), [pt-dep/advmod]() (1; 20% instances)
 
-Parents of `X` nodes belong to 1 different parts of speech: [VERB]() (2; 100% instances)
+Parents of `X` nodes belong to 3 different parts of speech: [PROPN]() (2; 40% instances), [VERB]() (2; 40% instances), [NOUN]() (1; 20% instances)
 
-1 (50%) `X` nodes are leaves.
+1 (20%) `X` nodes are leaves.
 
 0 (0%) `X` nodes have one child.
 
-1 (50%) `X` nodes have two children.
+3 (60%) `X` nodes have two children.
 
-The highest child degree of a `X` node is 2.
+1 (20%) `X` nodes have three or more children.
 
-Children of `X` nodes are attached using 2 different relations: [pt-dep/case]() (1; 50% instances), [pt-dep/nmod]() (1; 50% instances)
+The highest child degree of a `X` node is 4.
 
-Children of `X` nodes belong to 2 different parts of speech: [ADP]() (1; 50% instances), [NOUN]() (1; 50% instances)
+Children of `X` nodes are attached using 3 different relations: [pt-dep/name]() (8; 80% instances), [pt-dep/case]() (1; 10% instances), [pt-dep/nmod]() (1; 10% instances)
+
+Children of `X` nodes belong to 4 different parts of speech: [PROPN]() (7; 70% instances), [ADJ]() (1; 10% instances), [ADP]() (1; 10% instances), [NOUN]() (1; 10% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+There are 1 `X` lemmas (0%), 1 `X` types (0%) and 1 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
+
+The 10 most frequent `X` lemmas: <em>que</em>
+
+The 10 most frequent `X` types:  <em>que</em>
+
+The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 2657, [SCONJ]() 1615, [ADV]() 88, [NOUN]() 53, [DET]() 21, [ADP]() 9, [PROPN]() 4, [X]() 1)
+
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2652, [SCONJ]() 1607, [ADV]() 88, [NOUN]() 53, [DET]() 18, [ADP]() 9, [PROPN]() 4, [X]() 1, [VERB]() 1)
+
+
+* <em>que</em>
+  * [PRON]() 2652: <em>Tudo o <b>que</b> tenha a ver com o mar , em o mar , a o pé de o mar .</em>
+  * [SCONJ]() 1607: <em>Sandoval -- Vou entrar com determinação , sabendo <b>que</b> vai ser difícil .</em>
+  * [ADV]() 88: <em>De aí <b>que</b> seja avesso a profundas alterações de as suas regras .</em>
+  * [NOUN]() 53: <em>« Como é <b>que</b> explicamos todas estas medidas israelitas ?</em>
+  * [DET]() 18: <em>P. -- Com <b>que</b> contrapartidas ?</em>
+  * [ADP]() 9: <em>« Há <b>que</b> coordenar a acção de os diversos ministérios e municípios .</em>
+  * [PROPN]() 4: <em>De a série Soluções , o « PC é mais <b>que</b> uma máquina de escrever » é o lançamento de a Ariadne ( 132 págs . )</em>
+  * [X]() 1: <em>Escavou quanto quis , imediatamente atrás de o muro que deitou abaixo para as máquinas poderem passar -- diz o autarca <b>que</b> com a promessa de , depois , reconstruir o muro .</em>
+  * [VERB]() 1: <em>Tem razões para isso , já que as aulas exigiam- lhe diariamente um sacrifício de mais de 22 quilómetros , feitos a pé , qualquer que <b>que</b> a época de o ano .</em>
+
+## Morphology
+
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.449059).
+
+The 1st highest number of forms (1) was observed with the lemma “que”: <em>que</em>.
+
+`X` does not occur with any features.
+
+
+## Relations
+
+`X` nodes are attached to their parents using 1 different relations: [pt-dep/reparandum]() (1; 100% instances)
+
+Parents of `X` nodes belong to 1 different parts of speech: [NOUN]() (1; 100% instances)
+
+1 (100%) `X` nodes are leaves.
+
+The highest child degree of a `X` node is 0.
 
 
 

@@ -4,7 +4,7 @@
 
 ## Treebank Statistics (UD_Portuguese)
 
-There are 6844 `NOUN` lemmas (34%), 8644 `NOUN` types (30%) and 42077 `NOUN` tokens (19%).
+There are 6841 `NOUN` lemmas (34%), 8641 `NOUN` types (30%) and 42052 `NOUN` tokens (18%).
 Out of 17 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>ano, dia, milhão, país, presidente, empresa, vez, pessoa, tempo, parte</em>
@@ -18,10 +18,10 @@ The 10 most frequent ambiguous types:  <em>dia</em> ([NOUN]() 187, [PROPN]() 1),
 
 * <em>dia</em>
   * [NOUN]() 187: <em>O homem fuma entre 11 e 20 cigarros por <b>dia</b> e a mulher , entre 5 e 10 .</em>
-  * [PROPN]() 1: <em>Outro episódio importante , « Um <b>dia</b> na vida de Man Ray » , entrevista filmada em o começo de 1961 .</em>
+  * [PROPN]() 1: <em>Outro episódio importante , « Um <b>dia</b> em a vida de Man Ray » , entrevista filmada em o começo de 1961 .</em>
 * <em>estado</em>
   * [NOUN]() 34: <em>O <b>estado</b> de a arte</em>
-  * [VERB]() 5: <em>Enquanto isso , os universitários de o Norte têm <b>estado</b> a reunir- se e a estudar cada um de os princípios apresentados por o titular de a pasta de a Educação .</em>
+  * [VERB]() 5: <em>Enquanto isso , os universitários de o Norte têm <b>estado</b> a reunir -se e a estudar cada um de os princípios apresentados por o titular de a pasta de a Educação .</em>
 * <em>parte</em>
   * [NOUN]() 129: <em>Uma <b>parte</b> de Hervé Guibert .</em>
   * [VERB]() 2: <em>Em a confusão que se segue , <b>parte</b> um primeiro tiro , depois um segundo , e os dois homens caem a o mar .</em>
@@ -30,27 +30,27 @@ The 10 most frequent ambiguous types:  <em>dia</em> ([NOUN]() 187, [PROPN]() 1),
   * [PROPN]() 3: <em>Meyer publicou esta informação em um romance , que depois adaptou a o cinema , com o título justamente de « A Solução a sete e meio por <b>cento</b> » ( talvez haja melhor tradução para « The 7,5 per cent Solution » : « Uma Solução a sete e meio por <b>cento</b> » , « Sete e meio por <b>cento</b> de Solução » ? )</em>
   * [NUM]() 1: <em>até Setembro de 1998 vamos transmitir 104 ( <b>cento</b> e quatro ) programas , por o que me parece ser cedo para se proceder a uma análise de as emissões ;</em>
 * <em>caso</em>
-  * [NOUN]() 106: <em>Isto no <b>caso</b> de os dois xadrezistas aceitarem o convite .</em>
-  * [SCONJ]() 17: <em>Caio entra em o lugar de Catê , <b>caso</b> ele seja suspenso hoje pela manhã</em>
+  * [NOUN]() 106: <em>Isto em o <b>caso</b> de os dois xadrezistas aceitarem o convite .</em>
+  * [SCONJ]() 17: <em>Caio entra em o lugar de Catê , <b>caso</b> ele seja suspenso hoje por a manhã</em>
 * <em>trabalho</em>
   * [NOUN]() 100: <em>Ida e volta de o domicílio a o <b>trabalho</b> .</em>
   * [VERB]() 1: <em>Basicamente , é o que tenho feito com os músicos com os quais <b>trabalho</b> .</em>
 * <em>cidade</em>
   * [NOUN]() 81: <em>Os confrontos também estão a atingir Argun , 15 km a leste de a <b>cidade</b> .</em>
-  * [PROPN]() 1: <em>Em o segundo centro populacional de Moçambique , a <b>cidade</b> da Beira , os portugueses residentes conseguiram , por iniciativa própria , criar uma escola que lecciona o ensino primário e que para o ano vai iniciar- se como escola preparatória .</em>
+  * [PROPN]() 1: <em>Em o segundo centro populacional de Moçambique , a <b>cidade</b> de a Beira , os portugueses residentes conseguiram , por iniciativa própria , criar uma escola que lecciona o ensino primário e que para o ano vai iniciar -se como escola preparatória .</em>
 * <em>vida</em>
   * [NOUN]() 77: <em>Alec Nunca usei um chapéu de aqueles em a <b>vida</b> !</em>
-  * [PROPN]() 2: <em>Outro episódio importante , « Um dia na <b>vida</b> de Man Ray » , entrevista filmada em o começo de 1961 .</em>
+  * [PROPN]() 2: <em>Outro episódio importante , « Um dia em a <b>vida</b> de Man Ray » , entrevista filmada em o começo de 1961 .</em>
 * <em>final</em>
   * [NOUN]() 73: <em>Ainda assim , em o <b>final</b> todos ficaram contentes .</em>
   * [ADJ]() 21: <em>« Talvez um quadrangular <b>final</b> , como fizeram em o campeonato de o Rio de Janeiro . »</em>
 * <em>mundo</em>
   * [NOUN]() 73: <em>O <b>mundo</b> , portanto , é repartido em pedaços --</em>
-  * [PRON]() 4: <em>« Chega de violência $/ Quero ver é gol de placa $/ Todo <b>mundo</b> se dá mal $/ Por meia dúzia de babacas . »</em>
+  * [PRON]() 4: <em>« Chega de violência / Quero ver é gol de placa / Todo <b>mundo</b> se dá mal / Por meia dúzia de babacas . »</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.263004 (the average of all parts of speech is 1.447797).
+The form / lemma ratio of `NOUN` is 1.263119 (the average of all parts of speech is 1.432674).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>Europeia, Fazenda, feira, mente</em>.
 
@@ -69,23 +69,114 @@ Examples: <em>ano, dia, país, presidente, grupo, governo, estado, tempo, caso, 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 25 different relations: [pt-dep/nmod]() (19975; 47% instances), [pt-dep/dobj]() (8222; 20% instances), [pt-dep/nsubj]() (5534; 13% instances), [pt-dep/conj]() (2536; 6% instances), [pt-dep/mwe]() (1418; 3% instances), [pt-dep/root]() (1349; 3% instances), [pt-dep/nsubjpass]() (673; 2% instances), [pt-dep/compound]() (612; 1% instances), [pt-dep/iobj]() (487; 1% instances), [pt-dep/xcomp]() (197; 0% instances), [pt-dep/advmod]() (196; 0% instances), [pt-dep/ccomp]() (179; 0% instances), [pt-dep/appos]() (165; 0% instances), [pt-dep/case]() (151; 0% instances), [pt-dep/acl]() (117; 0% instances), [pt-dep/advcl]() (73; 0% instances), [pt-dep/cc]() (56; 0% instances), [pt-dep/dep]() (45; 0% instances), [pt-dep/mark]() (43; 0% instances), [pt-dep/cop]() (24; 0% instances), [pt-dep/parataxis]() (16; 0% instances), [pt-dep/csubj]() (4; 0% instances), [pt-dep/advmod:emph]() (3; 0% instances), [pt-dep/aux]() (1; 0% instances), [pt-dep/nummod]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 25 different relations: [pt-dep/nmod]() (19975; 48% instances), [pt-dep/dobj]() (8222; 20% instances), [pt-dep/nsubj]() (5534; 13% instances), [pt-dep/conj]() (2535; 6% instances), [pt-dep/mwe]() (1413; 3% instances), [pt-dep/root]() (1348; 3% instances), [pt-dep/nsubjpass]() (673; 2% instances), [pt-dep/compound]() (612; 1% instances), [pt-dep/iobj]() (487; 1% instances), [pt-dep/xcomp]() (197; 0% instances), [pt-dep/advmod]() (179; 0% instances), [pt-dep/ccomp]() (179; 0% instances), [pt-dep/appos]() (165; 0% instances), [pt-dep/case]() (151; 0% instances), [pt-dep/acl]() (117; 0% instances), [pt-dep/advcl]() (73; 0% instances), [pt-dep/cc]() (56; 0% instances), [pt-dep/dep]() (45; 0% instances), [pt-dep/mark]() (43; 0% instances), [pt-dep/cop]() (24; 0% instances), [pt-dep/parataxis]() (16; 0% instances), [pt-dep/csubj]() (4; 0% instances), [pt-dep/advmod:emph]() (2; 0% instances), [pt-dep/aux]() (1; 0% instances), [pt-dep/nummod]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 18 different parts of speech: [VERB]() (20245; 48% instances), [NOUN]() (15081; 36% instances), [ROOT]() (1349; 3% instances), [ADP]() (1232; 3% instances), [ADJ]() (1161; 3% instances), [PROPN]() (985; 2% instances), [ADV]() (680; 2% instances), [NUM]() (403; 1% instances), [PRON]() (355; 1% instances), [SYM]() (219; 1% instances), [DET]() (213; 1% instances), [AUX]() (60; 0% instances), [SCONJ]() (41; 0% instances), [CONJ]() (37; 0% instances), [PART]() (11; 0% instances), [INTJ]() (2; 0% instances), [PUNCT]() (2; 0% instances), [X]() (1; 0% instances)
+Parents of `NOUN` nodes belong to 18 different parts of speech: [VERB]() (20287; 48% instances), [NOUN]() (15057; 36% instances), [ROOT]() (1348; 3% instances), [ADJ]() (1165; 3% instances), [ADP]() (1159; 3% instances), [PROPN]() (981; 2% instances), [ADV]() (675; 2% instances), [NUM]() (402; 1% instances), [PRON]() (355; 1% instances), [DET]() (307; 1% instances), [SYM]() (219; 1% instances), [SCONJ]() (41; 0% instances), [CONJ]() (36; 0% instances), [PART]() (11; 0% instances), [AUX]() (4; 0% instances), [INTJ]() (2; 0% instances), [PUNCT]() (2; 0% instances), [X]() (1; 0% instances)
 
-3654 (9%) `NOUN` nodes are leaves.
+3649 (9%) `NOUN` nodes are leaves.
 
-9331 (22%) `NOUN` nodes have one child.
+9152 (22%) `NOUN` nodes have one child.
 
-12979 (31%) `NOUN` nodes have two children.
+13104 (31%) `NOUN` nodes have two children.
 
-16113 (38%) `NOUN` nodes have three or more children.
+16147 (38%) `NOUN` nodes have three or more children.
 
 The highest child degree of a `NOUN` node is 24.
 
-Children of `NOUN` nodes are attached using 26 different relations: [pt-dep/det]() (27867; 28% instances), [pt-dep/case]() (21532; 22% instances), [pt-dep/nmod]() (15827; 16% instances), [pt-dep/amod]() (8351; 8% instances), [pt-dep/punct]() (8107; 8% instances), [pt-dep/acl]() (4693; 5% instances), [pt-dep/nummod]() (2739; 3% instances), [pt-dep/conj]() (2591; 3% instances), [pt-dep/cc]() (1894; 2% instances), [pt-dep/cop]() (1310; 1% instances), [pt-dep/advmod]() (931; 1% instances), [pt-dep/nsubj]() (666; 1% instances), [pt-dep/compound]() (637; 1% instances), [pt-dep/appos]() (471; 0% instances), [pt-dep/mwe]() (432; 0% instances), [pt-dep/mark]() (222; 0% instances), [pt-dep/advcl]() (127; 0% instances), [pt-dep/advmod:emph]() (82; 0% instances), [pt-dep/neg]() (72; 0% instances), [pt-dep/parataxis]() (72; 0% instances), [pt-dep/dobj]() (56; 0% instances), [pt-dep/csubj]() (45; 0% instances), [pt-dep/dep]() (45; 0% instances), [pt-dep/xcomp]() (12; 0% instances), [pt-dep/ccomp]() (3; 0% instances), [pt-dep/aux]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 26 different relations: [pt-dep/det]() (28144; 28% instances), [pt-dep/case]() (21578; 22% instances), [pt-dep/nmod]() (15822; 16% instances), [pt-dep/amod]() (8350; 8% instances), [pt-dep/punct]() (8103; 8% instances), [pt-dep/acl]() (4693; 5% instances), [pt-dep/nummod]() (2739; 3% instances), [pt-dep/conj]() (2588; 3% instances), [pt-dep/cc]() (1894; 2% instances), [pt-dep/cop]() (1304; 1% instances), [pt-dep/advmod]() (904; 1% instances), [pt-dep/nsubj]() (666; 1% instances), [pt-dep/compound]() (637; 1% instances), [pt-dep/appos]() (471; 0% instances), [pt-dep/mwe]() (411; 0% instances), [pt-dep/mark]() (217; 0% instances), [pt-dep/advcl]() (127; 0% instances), [pt-dep/advmod:emph]() (81; 0% instances), [pt-dep/neg]() (72; 0% instances), [pt-dep/parataxis]() (72; 0% instances), [pt-dep/dobj]() (56; 0% instances), [pt-dep/csubj]() (45; 0% instances), [pt-dep/dep]() (45; 0% instances), [pt-dep/xcomp]() (12; 0% instances), [pt-dep/ccomp]() (3; 0% instances), [pt-dep/aux]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 16 different parts of speech: [DET]() (27980; 28% instances), [ADP]() (21518; 22% instances), [NOUN]() (15081; 15% instances), [ADJ]() (8580; 9% instances), [PUNCT]() (8110; 8% instances), [VERB]() (6048; 6% instances), [PROPN]() (4677; 5% instances), [NUM]() (2817; 3% instances), [CONJ]() (1850; 2% instances), [ADV]() (1314; 1% instances), [PRON]() (361; 0% instances), [SCONJ]() (300; 0% instances), [SYM]() (138; 0% instances), [PART]() (6; 0% instances), [INTJ]() (4; 0% instances), [AUX]() (1; 0% instances)
+Children of `NOUN` nodes belong to 17 different parts of speech: [DET]() (28257; 29% instances), [ADP]() (21509; 22% instances), [NOUN]() (15057; 15% instances), [ADJ]() (8585; 9% instances), [PUNCT]() (8106; 8% instances), [VERB]() (6048; 6% instances), [PROPN]() (4672; 5% instances), [NUM]() (2817; 3% instances), [CONJ]() (1848; 2% instances), [ADV]() (1314; 1% instances), [PRON]() (361; 0% instances), [SCONJ]() (300; 0% instances), [SYM]() (149; 0% instances), [PART]() (6; 0% instances), [INTJ]() (4; 0% instances), [AUX]() (1; 0% instances), [X]() (1; 0% instances)
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Portuguese-Bosque)
+
+There are 6800 `NOUN` lemmas (34%), 8580 `NOUN` types (29%) and 41917 `NOUN` tokens (18%).
+Out of 17 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 1 in number of types and 1 in number of tokens.
+
+The 10 most frequent `NOUN` lemmas: <em>ano, dia, milhão, país, presidente, empresa, pessoa, vez, estado, tempo</em>
+
+The 10 most frequent `NOUN` types:  <em>anos, presidente, milhões, ano, dia, país, US$, pessoas, estado, por</em>
+
+The 10 most frequent ambiguous lemmas: <em>dia</em> ([NOUN]() 304, [PROPN]() 1), <em>vez</em> ([NOUN]() 163, [ADP]() 14), <em>tempo</em> ([NOUN]() 154, [ADJ]() 2), <em>parte</em> ([NOUN]() 153, [ADV]() 2), <em>caso</em> ([NOUN]() 145, [SCONJ]() 23), <em>por</em> ([ADP]() 2009, [NOUN]() 135, [PROPN]() 4, [ADV]() 1), <em>semana</em> ([NOUN]() 123, [ADJ]() 1), <em>acordo</em> ([NOUN]() 113, [ADJ]() 1), <em>forma</em> ([NOUN]() 106, [ADV]() 1), <em>cidade</em> ([NOUN]() 104, [PROPN]() 1)
+
+The 10 most frequent ambiguous types:  <em>dia</em> ([NOUN]() 187, [PROPN]() 1), <em>estado</em> ([NOUN]() 34, [VERB]() 3, [AUX]() 2), <em>por</em> ([ADP]() 1951, [NOUN]() 135, [PROPN]() 4, [ADV]() 1), <em>parte</em> ([NOUN]() 129, [VERB]() 2), <em>tempo</em> ([NOUN]() 132, [ADJ]() 2), <em>vez</em> ([NOUN]() 123, [ADP]() 14), <em>caso</em> ([NOUN]() 107, [SCONJ]() 17), <em>acordo</em> ([NOUN]() 102, [ADJ]() 1), <em>semana</em> ([NOUN]() 101, [ADJ]() 1), <em>trabalho</em> ([NOUN]() 100, [VERB]() 1)
+
+
+* <em>dia</em>
+  * [NOUN]() 187: <em>O homem fuma entre 11 e 20 cigarros por <b>dia</b> e a mulher , entre 5 e 10 .</em>
+  * [PROPN]() 1: <em>Outro episódio importante , « Um <b>dia</b> em a vida de Man Ray » , entrevista filmada em o começo de 1961 .</em>
+* <em>estado</em>
+  * [NOUN]() 34: <em>« Estávamos em <b>estado</b> de choque , vítimas de uma alucinação colectiva .</em>
+  * [VERB]() 3: <em>As conversações de ontem , presididas por Mario Raffaelli , o mesmo que dirige o processo de paz moçambicano , começaram sem eles , embora a própria Arménia tenha <b>estado</b> presente .</em>
+  * [AUX]() 2: <em>Enquanto isso , os universitários de o Norte têm <b>estado</b> a reunir- se e a estudar cada um de os princípios apresentados por o titular de a pasta de a Educação .</em>
+* <em>por</em>
+  * [ADP]() 1951: <em>O homem fuma entre 11 e 20 cigarros <b>por</b> dia e a mulher , entre 5 e 10 .</em>
+  * [NOUN]() 135: <em>O valor de 0,5 <b>por</b> cento não é aleatório .</em>
+  * [PROPN]() 4: <em>O engenheiro Bruno Maranhão , líder de o Movimento <b>por</b> Terra, Trabalho e Liberdade , pertence a uma de as famílias que dominam os latifúndios em o Nordeste .</em>
+  * [ADV]() 1: <em>se Guímaro era corrupto , quem eram os corruptores e <b>por</b> que motivo não foram igualmente presentes a o juiz de o Tribunal de Instrução Criminal ?</em>
+* <em>parte</em>
+  * [NOUN]() 129: <em>Assessores de a equipe econômica já têm pronta <b>parte</b> de a argumentação .</em>
+  * [VERB]() 2: <em>Em a confusão que se segue , <b>parte</b> um primeiro tiro , depois um segundo , e os dois homens caem a o mar .</em>
+* <em>tempo</em>
+  * [NOUN]() 132: <em>Governo estuda crédito para prejuízos de o mau <b>tempo</b></em>
+  * [ADJ]() 2: <em>O que espanta , porém , não é que se pretenda fazer marcha atrás relativamente a um referendo que devia ter sido realizado há já muito <b>tempo</b> .</em>
+* <em>vez</em>
+  * [NOUN]() 123: <em>Ou , em <b>vez</b> de contar de 7 em 7 , pode contar de 33 em 33 .</em>
+  * [ADP]() 14: <em>O narcisismo assume uma feição cada <b>vez</b> mais frívola .</em>
+* <em>caso</em>
+  * [NOUN]() 107: <em>O <b>caso</b> de Lula é semelhante .</em>
+  * [SCONJ]() 17: <em>Caio entra em o lugar de Catê , <b>caso</b> ele seja suspenso hoje por a manhã</em>
+* <em>acordo</em>
+  * [NOUN]() 102: <em>Não houve <b>acordo</b> para uma trégua durante a Copa .</em>
+  * [ADJ]() 1: <em>O ex-ministro de a Fazenda Ernane Galvêas ( governo Figueiredo ) disse que sua participação em o episódio limitou- se a um « de <b>acordo</b> » em o processo que teria vindo pronto de o Banco Nacional de Habitação , subordinado em a época a o Ministério de o Interior .</em>
+* <em>semana</em>
+  * [NOUN]() 101: <em>Terá que dar uma resposta até a a próxima <b>semana</b> .</em>
+  * [ADJ]() 1: <em>Rodrigo Mil Homens venceu ontem , em a classe Runabout Limited , a segunda etapa de o Europeu de Jet Ski , que durante o fim-de <b>semana</b> se disputou em o lençol de água de o Rio Lima , em a praia de o Prior , em Viana de o Castelo .</em>
+* <em>trabalho</em>
+  * [NOUN]() 100: <em>é um <b>trabalho</b> sobre o detalhe .</em>
+  * [VERB]() 1: <em>Basicamente , é o que tenho feito com os músicos com os quais <b>trabalho</b> .</em>
+
+## Morphology
+
+The form / lemma ratio of `NOUN` is 1.261765 (the average of all parts of speech is 1.449059).
+
+The 1st highest number of forms (4) was observed with the lemma “homem”: <em>homem, homens, mulher, mulheres</em>.
+
+The 2nd highest number of forms (4) was observed with the lemma “proprietário”: <em>propietários, proprietária, proprietário, proprietários</em>.
+
+The 3rd highest number of forms (3) was observed with the lemma “actor”: <em>actor, actores, actriz</em>.
+
+`NOUN` occurs with 2 features: [pt-feat/Gender]() (40747; 97% instances), [pt-feat/Number]() (40746; 97% instances)
+
+`NOUN` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Gender=Unsp`, `Number=Plur`, `Number=Sing`, `Number=Unsp`
+
+`NOUN` occurs with 10 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing` (15251 tokens).
+Examples: <em>ano, dia, presidente, país, por, tempo, grupo, governo, estado, acordo</em>
+
+
+## Relations
+
+`NOUN` nodes are attached to their parents using 23 different relations: [pt-dep/nmod]() (22813; 54% instances), [pt-dep/dobj]() (6481; 15% instances), [pt-dep/nsubj]() (6105; 15% instances), [pt-dep/conj]() (2298; 5% instances), [pt-dep/root]() (1414; 3% instances), [pt-dep/appos]() (1241; 3% instances), [pt-dep/nmod:npmod]() (423; 1% instances), [pt-dep/xcomp]() (312; 1% instances), [pt-dep/nmod:tmod]() (193; 0% instances), [pt-dep/compound]() (157; 0% instances), [pt-dep/ccomp]() (142; 0% instances), [pt-dep/parataxis]() (82; 0% instances), [pt-dep/dep]() (70; 0% instances), [pt-dep/acl:relcl]() (63; 0% instances), [pt-dep/advcl]() (45; 0% instances), [pt-dep/csubj]() (22; 0% instances), [pt-dep/mwe]() (15; 0% instances), [pt-dep/remnant]() (15; 0% instances), [pt-dep/vocative]() (10; 0% instances), [pt-dep/cop]() (7; 0% instances), [pt-dep/dislocated]() (5; 0% instances), [pt-dep/cc]() (3; 0% instances), [pt-dep/nsubjpass]() (1; 0% instances)
+
+Parents of `NOUN` nodes belong to 16 different parts of speech: [VERB]() (20899; 50% instances), [NOUN]() (15725; 38% instances), [ROOT]() (1414; 3% instances), [ADJ]() (1180; 3% instances), [PROPN]() (1011; 2% instances), [ADV]() (735; 2% instances), [NUM]() (383; 1% instances), [PRON]() (383; 1% instances), [SYM]() (72; 0% instances), [DET]() (63; 0% instances), [SCONJ]() (36; 0% instances), [ADP]() (10; 0% instances), [INTJ]() (2; 0% instances), [PUNCT]() (2; 0% instances), [AUX]() (1; 0% instances), [PART]() (1; 0% instances)
+
+1915 (5%) `NOUN` nodes are leaves.
+
+9008 (21%) `NOUN` nodes have one child.
+
+13540 (32%) `NOUN` nodes have two children.
+
+17454 (42%) `NOUN` nodes have three or more children.
+
+The highest child degree of a `NOUN` node is 24.
+
+Children of `NOUN` nodes are attached using 35 different relations: [pt-dep/det]() (28230; 28% instances), [pt-dep/case]() (23542; 23% instances), [pt-dep/nmod]() (15788; 15% instances), [pt-dep/amod]() (8553; 8% instances), [pt-dep/punct]() (7858; 8% instances), [pt-dep/acl]() (2679; 3% instances), [pt-dep/nummod]() (2511; 2% instances), [pt-dep/conj]() (2334; 2% instances), [pt-dep/appos]() (2144; 2% instances), [pt-dep/acl:relcl]() (1935; 2% instances), [pt-dep/cc]() (1925; 2% instances), [pt-dep/cop]() (1157; 1% instances), [pt-dep/advmod]() (1053; 1% instances), [pt-dep/nsubj]() (792; 1% instances), [pt-dep/nmod:npmod]() (350; 0% instances), [pt-dep/mark]() (250; 0% instances), [pt-dep/dep]() (191; 0% instances), [pt-dep/compound]() (150; 0% instances), [pt-dep/parataxis]() (118; 0% instances), [pt-dep/neg]() (114; 0% instances), [pt-dep/advcl]() (107; 0% instances), [pt-dep/nmod:tmod]() (90; 0% instances), [pt-dep/aux]() (83; 0% instances), [pt-dep/mwe]() (70; 0% instances), [pt-dep/csubj]() (48; 0% instances), [pt-dep/xcomp]() (42; 0% instances), [pt-dep/dobj]() (18; 0% instances), [pt-dep/name]() (18; 0% instances), [pt-dep/remnant]() (15; 0% instances), [pt-dep/ccomp]() (12; 0% instances), [pt-dep/iobj]() (2; 0% instances), [pt-dep/vocative]() (2; 0% instances), [pt-dep/discourse]() (1; 0% instances), [pt-dep/dislocated]() (1; 0% instances), [pt-dep/reparandum]() (1; 0% instances)
+
+Children of `NOUN` nodes belong to 17 different parts of speech: [DET]() (28202; 28% instances), [ADP]() (23675; 23% instances), [NOUN]() (15725; 15% instances), [ADJ]() (8843; 9% instances), [PUNCT]() (7857; 8% instances), [VERB]() (6110; 6% instances), [PROPN]() (4833; 5% instances), [NUM]() (2947; 3% instances), [CONJ]() (1878; 2% instances), [ADV]() (1211; 1% instances), [PRON]() (550; 1% instances), [SCONJ]() (198; 0% instances), [AUX]() (83; 0% instances), [SYM]() (64; 0% instances), [INTJ]() (4; 0% instances), [PART]() (3; 0% instances), [X]() (1; 0% instances)
 
 
 

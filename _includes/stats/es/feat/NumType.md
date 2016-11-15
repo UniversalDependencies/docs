@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 539 [es-pos/PRON]() tokens (4% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (539; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (539; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (539; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (539; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (358; 66%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (352; 65%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (318; 59%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (539; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (539; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (539; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (539; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (358; 66%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (352; 65%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (318; 59%).
 
 `PRON` tokens may have the following values of `NumType`:
 
@@ -133,7 +133,7 @@ The most frequent other feature values with which `SYM` and `NumType` co-occurre
 
 16 [es-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (16; 100%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (16; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (16; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (15; 94%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (16; 100%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (16; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (16; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (15; 94%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -148,7 +148,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (16; 76%),
 <tt>SYM --[<a href="../dep/conj.html">conj</a>]--> SYM</tt> (12; 92%),
 <tt>SYM --[<a href="../dep/appos.html">appos</a>]--> SYM</tt> (2; 100%),
+<tt>ADJ --[<a href="../dep/acl.html">acl</a>]--> ADJ</tt> (1; 100%),
 <tt>SYM --[<a href="../dep/parataxis.html">parataxis</a>]--> SYM</tt> (1; 100%),
-<tt>SYM --[<a href="../dep/nmod.html">nmod</a>]--> SYM</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/acl.html">acl</a>]--> ADJ</tt> (1; 100%).
+<tt>SYM --[<a href="../dep/nmod.html">nmod</a>]--> SYM</tt> (1; 100%).
 

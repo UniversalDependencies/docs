@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 11283 [pl-pos/VERB]() tokens (85% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (9878; 88%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (9878; 88%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7340; 65%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (6659; 59%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6643; 59%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6643; 59%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6643; 59%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (9878; 88%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (9878; 88%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7340; 65%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (6659; 59%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6643; 59%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6643; 59%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6643; 59%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>swój</em></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>swój</em></td><td><em>swoje, swe</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>swojego, swego</em></td><td><em>swoich, swych</em></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>swym, swoim</em></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>swoim, swym</em></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>swoim</em></td><td><em>swoich</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Nhum|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>swego</em></td><td><em>swoje</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Nhum|<a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc</tt></td><td></td><td><em>swoim</em></td></tr>
@@ -91,9 +91,9 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>swemu</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>swojej, swej</em></td><td><em>swoich, swych</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>swojego, swego</em></td><td><em>swoich, swych</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>swoją, Swoja, swą</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>swoją, swą, Swoja</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>swoim</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>swej, swojej</em></td><td><em>swoich</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>swojej, swej</em></td><td><em>swoich</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>swoim</em></td><td><em>swych, swoich</em></td></tr>
 </table>
 
@@ -192,7 +192,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 1248 [pl-pos/AUX]() tokens (86% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1113; 89%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1051; 84%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1051; 84%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1051; 84%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1050; 84%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (811; 65%), <tt><a href="Person.html">Person</a>=1</tt> (626; 50%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1113; 89%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1051; 84%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1051; 84%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1051; 84%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1050; 84%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (811; 65%), <tt><a href="Person.html">Person</a>=1</tt> (626; 50%).
 
 `AUX` tokens may have the following values of `Number`:
 

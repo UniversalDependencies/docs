@@ -106,24 +106,6 @@ The following 13 pairs of parts of speech are connected with `discourse`: [cs-po
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 discourse	color:blue
-1	To	ten	PRON	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	discourse	_	_
-2	už	už	ADV	Db-------------	_	4	advmod	_	_
-3	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-4	lepší	dobrý	ADJ	AANS1----2A----	Case=Nom|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing	0	root	_	_
-5	dát	dát	VERB	Vf--------A----	Negative=Pos|VerbForm=Inf	4	csubj	_	_
-6	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	LGloss=(zvr._zájmeno/částice)
-7	frťana	frťan_,h	NOUN	NNIS4-----A---1	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Sing	5	dobj	_	SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
@@ -134,6 +116,28 @@ The following 13 pairs of parts of speech are connected with `discourse`: [cs-po
 3	tak	tak	ADV	Db-------------	_	4	discourse	_	LId=tak-3
 4	dává	dávat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LDeriv=dát
 5	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 discourse	color:blue
+1	Každé	každý	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing	2	amod	_	_
+2	dítě	dítě	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	5	nsubj	_	_
+3	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	LId=u-1
+4	nás	já	PRON	PP-P2--1-------	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	nmod	_	_
+5	ví	vědět	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+7	co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int,Rel	11	nsubj	_	LId=co-1
+8	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+9	to	ten	PRON	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	discourse	_	_
+10	segedínský	segedínský	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	11	amod	_	_
+11	guláš	guláš	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	5	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

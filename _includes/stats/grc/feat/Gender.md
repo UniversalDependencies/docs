@@ -83,17 +83,17 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><th>Paradigm <i>ὁ</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>τὸν, τόν, τῶν</em></td><td><em>τὴν, τήν, τὰν, τῇ, [τὴν</em></td><td><em>τὸ, τό, τ-, ὅ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Dual</tt></td><td><em>τὼ</em></td><td><em>τὼ</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>τοὺς, τούς</em></td><td><em>τὰς, τάς</em></td><td><em>τὰ, τά, τ-, ἃ, ἅπερ</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>τοὺς, τούς</em></td><td><em>τὰς, τάς</em></td><td><em>τὰ, τά, τ-, ἅπερ, ἃ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat</tt></td><td></td><td><em>τῇ</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><em>τῷ, τῇ, οἱ, τῳ</em></td><td><em>τῇ, τᾷ, τῷ</em></td><td><em>τῷ, τὸ</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><em>τῷ, τῇ, τῳ, οἱ</em></td><td><em>τῇ, τᾷ, τῷ</em></td><td><em>τῷ, τὸ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Dual</tt></td><td><em>τοῖν</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td><em>τοῖς, τοῖσι, τοῖσιν</em></td><td><em>ταῖς, τῇσι</em></td><td><em>τοῖς, τοῖσι, τὰ, τοῖσιν</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><em>τοῦ, τοῖο, τῇ, τῶ</em></td><td><em>τῆς, τᾶς, τῇ, τοῦ</em></td><td><em>τοῦ, τῷ, τοῖο</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><em>τοῦ, τοῖο, τῶ, τῇ</em></td><td><em>τῆς, τᾶς, τῇ, τοῦ</em></td><td><em>τοῦ, τῷ, τοῖο</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Dual</tt></td><td><em>τοῖν</em></td><td><em>τοῖν</em></td><td><em>τοῖν</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>τῶν, τοῦ, οἱ</em></td><td><em>τῶν</em></td><td><em>τῶν, τοῦ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ὁ, ὃ, ὅ, χὠ, οἱ, [ὁ]</em></td><td><em>ἡ, ἥ, ἁ, ἣ, χἠ, ἃ</em></td><td><em>τὸ, τό, ὃ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Dual</tt></td><td><em>τὼ</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>οἱ, οἳ, οἵ, τοὶ, χοἰ</em></td><td><em>αἱ, αἵ, αἳ, τῶν, ταὶ, χαἰ</em></td><td><em>τὰ, τά, ἃ, τ-</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>οἱ, οἳ, οἵ, τοὶ, χοἰ</em></td><td><em>αἱ, αἵ, αἳ, ταὶ, τῶν, χαἰ</em></td><td><em>τὰ, τά, ἃ, τ-</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Voc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>ἡ</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><em>τὰ</em></td></tr>
 </table>
@@ -117,7 +117,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Dual</tt></td><td><em>τὼ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>τοὺς, τούς</em></td><td><em>τὰς, τάς</em></td><td><em>τὰ, τά</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><em>τῷ, οἱ</em></td><td><em>τῇ</em></td><td><em>τῷ</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td><em>τοῖσι, τοῖσιν, τοῖς, τοῖσίν, τοῖσί</em></td><td><em>τῇσι, τῇσιν, τῇς</em></td><td><em>τοῖς, τοῖσι, τοῖσιν</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td><em>τοῖσι, τοῖσιν, τοῖς, τοῖσί, τοῖσίν</em></td><td><em>τῇσιν, τῇσι, τῇς</em></td><td><em>τοῖς, τοῖσι, τοῖσιν</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><em>τοῦ, τοῖο</em></td><td><em>τῆς, τᾶς</em></td><td><em>τοῦ, τοῖο</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Dual</tt></td><td><em>τοῖϊν</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>τῶν</em></td><td><em>τάων, τῶν</em></td><td><em>τῶν</em></td></tr>
@@ -142,10 +142,10 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 <table>
   <tr><th>Paradigm <i>εἰμί</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Mid</tt></td><td></td><td><em>ἐσομένην</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐόντα, ὄντα, ὄντ̓, ἰόντα, ὄνθ̓, ἐόντ̓</em></td><td><em>οὖσαν, ἐοῦσαν</em></td><td><em>ἐὸν, ἐόν, ὂν, ὄν, ἐόντα</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐόντα, ὄντα, ὄντ̓, ἰόντα, ὄνθ̓, ἐόντ̓</em></td><td><em>οὖσαν, ἐοῦσαν</em></td><td><em>ἐὸν, ὄν, ἐόν, ὂν, ἐόντα</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Dual|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>ἐόντε</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἐσομένους</em></td><td><em>ἐσομένας</em></td><td><em>ἐσσόμενα</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ὄντας, ἐόντας, ἰόντας</em></td><td><em>οὔσας, ἐούσας</em></td><td><em>ὄντα, ἐόντα, ὄντ̓, ὄνθ̓</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ὄντας, ἐόντας, ἰόντας</em></td><td><em>οὔσας, ἐούσας</em></td><td><em>ὄντα, ἐόντα, ὄνθ̓, ὄντ̓</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐόντι, ὄντι</em></td><td></td><td><em>ὄντι, ἐόντι</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>ἐσσομένοισι</em></td><td><em>ἐσσομένῃσιν</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἐσσομένοισι, ἐσσομένοισιν</em></td><td></td><td></td></tr>
@@ -252,7 +252,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 26724 [grc-pos/DET]() tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (26718; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (26718; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (19118; 72%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem</tt> (26718; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (26718; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (19118; 72%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -323,8 +323,8 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><th>Paradigm <i>πολύς</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>πολλὸν, πολὺν, πολλόν, πολύν</em></td><td><em>πολλὸν, πολλόν</em></td><td><em>πολλὴν, πολλήν</em></td><td><em>πολλὸν, πολὺ, πολλόν, πολύ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>πολλοὺς, πολλούς</em></td><td></td><td><em>πολλὰς, πολλάς</em></td><td><em>πολλὰ, πολλά, πόλλ’</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πλείονα, πλέω</em></td><td><em>πλέω, πλείονα</em></td><td><em>πλέω, πλείονα</em></td><td><em>πλείονα</em></td><td><em>πλέον, πλεῖον, πλεῖόν</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πλεῦνας, πλείους</em></td><td><em>πλεῦνας, πλείονας, πλέω</em></td><td></td><td><em>πλεῦνας, πλείους, πλείονας, πλέω</em></td><td><em>πλέω, πλείω, πλείονα, πολλὰ</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πλείονα, πλέω</em></td><td><em>πλείονα, πλέω</em></td><td><em>πλείονα, πλέω</em></td><td><em>πλείονα</em></td><td><em>πλέον, πλεῖον, πλεῖόν</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πλεῦνας, πλείους</em></td><td><em>πλεῦνας, πλείονας, πλέω</em></td><td></td><td><em>πλεῦνας, πλείους, πλείονας, πλέω</em></td><td><em>πλέω, πλείω, πολλὰ, πλείονα</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>πλεῖστον</em></td><td><em>πλεῖστον</em></td><td><em>πλείστην</em></td><td><em>πλεῖστον</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>πλείστους</em></td><td></td><td><em>πλείστας</em></td><td><em>πλεῖστα</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>πολλῷ</em></td><td><em>πολλῷ</em></td><td><em>πολλῇ, πολλὴ</em></td><td><em>πολλῷ, πολλῶ</em></td></tr>
@@ -371,7 +371,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἐσομένων</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐόντων, ὄντων</em></td><td><em>ἐόντων</em></td><td><em>ἐουσέων, οὐσῶν</em></td><td><em>ἐόντων, ὄντων</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐὼν, ὢν, ὤν, ἐών</em></td><td></td><td><em>ἐοῦσα, οὖσα, ἐοῦσαι</em></td><td><em>ἐὸν, ἐόν, ὂν</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐόντες, ὄντες</em></td><td></td><td><em>οὖσαι, ἐοῦσαι</em></td><td><em>ἐόντα, ὄντα</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐόντες, ὄντες</em></td><td></td><td><em>ἐοῦσαι, οὖσαι</em></td><td><em>ἐόντα, ὄντα</em></td></tr>
 </table>
 
 ### `PROPN`

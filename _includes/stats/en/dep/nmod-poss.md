@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [nmod]().
 There are also 2 other language-specific subtypes of `nmod`: [nmod:npmod](), [nmod:tmod]().
 
-4442 nodes (2%) are attached to their parents as `nmod:poss`.
+4330 nodes (2%) are attached to their parents as `nmod:poss`.
 
-4441 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.62764520486267.
+4330 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.60993071593533.
 
-The following 16 pairs of parts of speech are connected with `nmod:poss`: [en-pos/NOUN]()-[en-pos/PRON]() (3612; 81% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (409; 9% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (260; 6% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (71; 2% instances), [en-pos/PROPN]()-[en-pos/PRON]() (43; 1% instances), [en-pos/ADJ]()-[en-pos/PRON]() (31; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (4; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (3; 0% instances), [en-pos/SYM]()-[en-pos/PRON]() (2; 0% instances), [en-pos/DET]()-[en-pos/PRON]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `nmod:poss`: [en-pos/NOUN]()-[en-pos/PRON]() (3553; 82% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (379; 9% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (239; 6% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (69; 2% instances), [en-pos/PROPN]()-[en-pos/PRON]() (43; 1% instances), [en-pos/ADJ]()-[en-pos/PRON]() (31; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (4; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (3; 0% instances), [en-pos/SYM]()-[en-pos/PRON]() (2; 0% instances), [en-pos/DET]()-[en-pos/PRON]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -94,7 +94,7 @@ There are also 2 other language-specific subtypes of `nmod`: [nmod:npmod](), [nm
 2113 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.33270231897776.
 
-The following 16 pairs of parts of speech are connected with `nmod:poss`: [en-pos/NOUN]()-[en-pos/DET]() (1905; 90% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (118; 6% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (33; 2% instances), [en-pos/ADJ]()-[en-pos/DET]() (16; 1% instances), [en-pos/NOUN]()-[en-pos/PRON]() (15; 1% instances), [en-pos/VERB]()-[en-pos/DET]() (9; 0% instances), [en-pos/PROPN]()-[en-pos/DET]() (7; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `nmod:poss`: [en-pos/NOUN]()-[en-pos/DET]() (1905; 90% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (116; 5% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (33; 2% instances), [en-pos/NOUN]()-[en-pos/PRON]() (17; 1% instances), [en-pos/ADJ]()-[en-pos/DET]() (16; 1% instances), [en-pos/VERB]()-[en-pos/DET]() (9; 0% instances), [en-pos/PROPN]()-[en-pos/DET]() (7; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -124,11 +124,11 @@ The following 16 pairs of parts of speech are connected with `nmod:poss`: [en-po
 19	_	_	AUX	VBP	_	21	aux	_	_
 20	_	_	PRON	PRP	_	21	nsubj	_	_
 21	_	_	VERB	VB	_	6	parataxis	_	_
-22	_	_	NOUN	NN	_	23	nsubj	_	_
+22	_	_	PRON	NN	_	23	nsubj	_	_
 23	_	_	VERB	VBP	_	21	ccomp	_	_
 24	_	_	PRON	PRP	_	23	iobj	_	_
 25	_	_	ADP	RP	_	23	compound:prt	_	_
-26	_	_	NOUN	NN	_	23	dobj	_	_
+26	_	_	PRON	NN	_	23	dobj	_	_
 27	_	_	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -153,7 +153,7 @@ The following 16 pairs of parts of speech are connected with `nmod:poss`: [en-po
 11	_	_	PART	POS	_	10	case	_	_
 12	_	_	NOUN	NN	_	0	root	_	_
 13	_	_	PUNCT	,	_	12	punct	_	_
-14	_	_	DET	WDT	_	17	nmod	_	_
+14	_	_	PRON	WDT	_	17	nmod	_	_
 15	_	_	PRON	PRP	_	17	nsubj	_	_
 16	_	_	AUX	MD	_	17	aux	_	_
 17	_	_	VERB	VB	_	12	acl:relcl	_	_
@@ -260,21 +260,23 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: [en-pos
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 nmod:poss	color:blue
-1	Perhaps	_	ADV	_	_	4	advmod	_	_
-2	he	_	PRON	PERS-P3SG-NOM	_	4	nsubj	_	_
-3	simply	_	ADV	_	_	4	advmod	_	_
-4	remarked	_	VERB	PAST	_	0	root	_	_
-5	upon	_	ADP	_	_	8	case	_	_
-6	his	_	PRON	P3SG-GEN	_	8	nmod:poss	_	_
-7	own	_	ADJ	POS	_	8	amod	_	_
-8	getting	_	VERB	ING	_	4	advcl	_	_
-9	older	_	ADJ	CMP	_	8	xcomp	_	_
-10	;	_	PUNCT	Semicolon	_	4	punct	_	_
+# visual-style 6 2 nmod:poss	color:blue
+1	Aunt	_	NOUN	SG	_	2	compound	_	_
+2	Petunias	_	PROPN	PL-GEN	_	6	nmod:poss	_	_
+3	high	_	ADJ	POS	_	6	amod	_	_
+4	,	_	PUNCT	Comma	_	3	punct	_	_
+5	false	_	ADJ	POS	_	6	amod	_	_
+6	laugh	_	NOUN	SG	_	7	nsubj	_	_
+7	sounded	_	VERB	PAST	_	0	root	_	_
+8	from	_	ADP	_	_	11	case	_	_
+9	the	_	DET	DEF	_	11	det	_	_
+10	living	_	NOUN	SG	_	11	compound	_	_
+11	room	_	NOUN	SG	_	7	nmod	_	_
+12	.	_	PUNCT	Period	_	7	punct	_	_
 
 ~~~
 

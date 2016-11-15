@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>je, bueno, ay, ojalá, adiós, ah, claro
 
 The 10 most frequent `INTJ` types:  <em>Je, Bueno, ay, ojalá, Adiós, Ah, Ja, claro, ojo, qué</em>
 
-The 10 most frequent ambiguous lemmas: <em>bueno</em> ([INTJ]() 11, [NOUN]() 1), <em>adiós</em> ([INTJ]() 3, [NOUN]() 1), <em>claro</em> ([ADJ]() 91, [ADV]() 26, [INTJ]() 3, [NOUN]() 1), <em>ja</em> ([INTJ]() 3, [ADV]() 2), <em>ojo</em> ([NOUN]() 48, [INTJ]() 3), <em>qué</em> ([PRON]() 162, [DET]() 62, [INTJ]() 3, [PROPN]() 1), <em>señor</em> ([NOUN]() 56, [INTJ]() 3, [PROPN]() 1), <em>contrario</em> ([NOUN]() 38, [ADJ]() 29, [INTJ]() 2), <em>dios</em> ([NOUN]() 7, [PROPN]() 2, [INTJ]() 2, [DET]() 1), <em>fantástico</em> ([ADJ]() 6, [INTJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>bueno</em> ([INTJ]() 11, [NOUN]() 1), <em>adiós</em> ([INTJ]() 3, [NOUN]() 1), <em>claro</em> ([ADJ]() 91, [ADV]() 26, [INTJ]() 3, [NOUN]() 1), <em>ja</em> ([INTJ]() 3, [ADV]() 2), <em>ojo</em> ([NOUN]() 48, [INTJ]() 3), <em>qué</em> ([PRON]() 162, [DET]() 62, [INTJ]() 3, [PROPN]() 1), <em>señor</em> ([NOUN]() 56, [INTJ]() 3, [PROPN]() 1), <em>contrario</em> ([NOUN]() 38, [ADJ]() 29, [INTJ]() 2), <em>dios</em> ([NOUN]() 7, [INTJ]() 2, [PROPN]() 2, [DET]() 1), <em>fantástico</em> ([ADJ]() 6, [INTJ]() 2)
 
-The 10 most frequent ambiguous types:  <em>Bueno</em> ([INTJ]() 11, [ADJ]() 3, [PROPN]() 1), <em>Ja</em> ([INTJ]() 3, [ADV]() 1), <em>claro</em> ([ADJ]() 51, [ADV]() 17, [INTJ]() 3, [NOUN]() 1), <em>ojo</em> ([NOUN]() 11, [INTJ]() 1), <em>qué</em> ([PRON]() 122, [DET]() 46, [INTJ]() 3, [PROPN]() 1), <em>Dios</em> ([PROPN]() 38, [NOUN]() 3, [INTJ]() 2, [DET]() 1), <em>Oh</em> ([INTJ]() 2, [PROPN]() 1), <em>contrario</em> ([NOUN]() 37, [ADJ]() 22, [INTJ]() 2), <em>hombre</em> ([NOUN]() 128, [INTJ]() 1), <em>señor</em> ([NOUN]() 53, [INTJ]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>Bueno</em> ([INTJ]() 11, [ADJ]() 3, [PROPN]() 1), <em>Ja</em> ([INTJ]() 3, [ADV]() 1), <em>claro</em> ([ADJ]() 51, [ADV]() 17, [INTJ]() 3, [NOUN]() 1), <em>ojo</em> ([NOUN]() 11, [INTJ]() 1), <em>qué</em> ([PRON]() 122, [DET]() 46, [INTJ]() 3, [PROPN]() 1), <em>Dios</em> ([PROPN]() 38, [NOUN]() 3, [INTJ]() 2, [DET]() 1), <em>Oh</em> ([INTJ]() 2, [PROPN]() 1), <em>contrario</em> ([NOUN]() 37, [ADJ]() 22, [INTJ]() 2), <em>hombre</em> ([NOUN]() 128, [INTJ]() 1), <em>señor</em> ([NOUN]() 53, [PROPN]() 1, [INTJ]() 1)
 
 
 * <em>Bueno</em>
@@ -53,8 +53,8 @@ The 10 most frequent ambiguous types:  <em>Bueno</em> ([INTJ]() 11, [ADJ]() 3, [
   * [INTJ]() 1: <em>Ya está bien , <b>hombre</b> , coño , joder , cagonlaleche , es que no puede ser .</em>
 * <em>señor</em>
   * [NOUN]() 53: <em>Sí , <b>señor</b> .</em>
-  * [INTJ]() 1: <em>Señor , <b>señor</b> .</em>
   * [PROPN]() 1: <em>Diferencias en las proporciones de los personajes o elementos contemporáneos que se cuelan en el plano son algunos de los errores de El <b>señor</b> de los anillos .</em>
+  * [INTJ]() 1: <em>Señor , <b>señor</b> .</em>
 
 ## Morphology
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-737 nodes (1%) are attached to their parents as `appos`.
+1158 nodes (1%) are attached to their parents as `appos`.
 
-709 instances of `appos` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.23473541383989.
+1154 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.08721934369603.
 
-The following 38 pairs of parts of speech are connected with `appos`: [ro-pos/NOUN]()-[ro-pos/NOUN]() (343; 47% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (150; 20% instances), [ro-pos/PROPN]()-[ro-pos/NOUN]() (62; 8% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (28; 4% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (25; 3% instances), [ro-pos/NOUN]()-[ro-pos/NUM]() (15; 2% instances), [ro-pos/PRON]()-[ro-pos/NOUN]() (14; 2% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (9; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADJ]() (8; 1% instances), [ro-pos/PRON]()-[ro-pos/PRON]() (8; 1% instances), [ro-pos/PROPN]()-[ro-pos/PROPN]() (8; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADV]() (7; 1% instances), [ro-pos/ADV]()-[ro-pos/NOUN]() (6; 1% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (6; 1% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (5; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (5; 1% instances), [ro-pos/PRON]()-[ro-pos/VERB]() (4; 1% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (4; 1% instances), [ro-pos/NUM]()-[ro-pos/NOUN]() (3; 0% instances), [ro-pos/PROPN]()-[ro-pos/ADJ]() (3; 0% instances), [ro-pos/PROPN]()-[ro-pos/VERB]() (3; 0% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (2; 0% instances), [ro-pos/ADV]()-[ro-pos/PROPN]() (2; 0% instances), [ro-pos/NOUN]()-[ro-pos/DET]() (2; 0% instances), [ro-pos/PRON]()-[ro-pos/PROPN]() (2; 0% instances), [ro-pos/ADJ]()-[ro-pos/PROPN]() (1; 0% instances), [ro-pos/ADJ]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/ADP]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/AUX]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/SYM]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/NUM]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/ADP]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/PRON]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/ADP]() (1; 0% instances).
+The following 50 pairs of parts of speech are connected with `appos`: [ro-pos/NOUN]()-[ro-pos/NOUN]() (541; 47% instances), [ro-pos/NOUN]()-[ro-pos/PROPN]() (214; 18% instances), [ro-pos/PROPN]()-[ro-pos/NOUN]() (91; 8% instances), [ro-pos/NOUN]()-[ro-pos/PRON]() (43; 4% instances), [ro-pos/NOUN]()-[ro-pos/VERB]() (34; 3% instances), [ro-pos/VERB]()-[ro-pos/NOUN]() (27; 2% instances), [ro-pos/NUM]()-[ro-pos/NOUN]() (22; 2% instances), [ro-pos/NOUN]()-[ro-pos/ADJ]() (17; 1% instances), [ro-pos/PRON]()-[ro-pos/NOUN]() (15; 1% instances), [ro-pos/PROPN]()-[ro-pos/PROPN]() (14; 1% instances), [ro-pos/VERB]()-[ro-pos/VERB]() (14; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADV]() (13; 1% instances), [ro-pos/ADJ]()-[ro-pos/NOUN]() (12; 1% instances), [ro-pos/NOUN]()-[ro-pos/NUM]() (11; 1% instances), [ro-pos/PRON]()-[ro-pos/PRON]() (9; 1% instances), [ro-pos/ADJ]()-[ro-pos/ADJ]() (8; 1% instances), [ro-pos/ADV]()-[ro-pos/NOUN]() (8; 1% instances), [ro-pos/NOUN]()-[ro-pos/ADP]() (5; 0% instances), [ro-pos/PRON]()-[ro-pos/PROPN]() (5; 0% instances), [ro-pos/ADJ]()-[ro-pos/VERB]() (4; 0% instances), [ro-pos/NOUN]()-[ro-pos/X]() (4; 0% instances), [ro-pos/PROPN]()-[ro-pos/VERB]() (4; 0% instances), [ro-pos/ADV]()-[ro-pos/VERB]() (3; 0% instances), [ro-pos/NOUN]()-[ro-pos/SYM]() (3; 0% instances), [ro-pos/PROPN]()-[ro-pos/ADJ]() (3; 0% instances), [ro-pos/VERB]()-[ro-pos/ADJ]() (3; 0% instances), [ro-pos/ADJ]()-[ro-pos/PROPN]() (2; 0% instances), [ro-pos/ADV]()-[ro-pos/PROPN]() (2; 0% instances), [ro-pos/NUM]()-[ro-pos/NUM]() (2; 0% instances), [ro-pos/PRON]()-[ro-pos/VERB]() (2; 0% instances), [ro-pos/PROPN]()-[ro-pos/PRON]() (2; 0% instances), [ro-pos/VERB]()-[ro-pos/NUM]() (2; 0% instances), [ro-pos/VERB]()-[ro-pos/PRON]() (2; 0% instances), [ro-pos/ADP]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/ADP]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/NUM]() (1; 0% instances), [ro-pos/ADV]()-[ro-pos/PART]() (1; 0% instances), [ro-pos/DET]()-[ro-pos/ADJ]() (1; 0% instances), [ro-pos/NOUN]()-[ro-pos/PUNCT]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/PROPN]() (1; 0% instances), [ro-pos/NUM]()-[ro-pos/VERB]() (1; 0% instances), [ro-pos/PRON]()-[ro-pos/ADP]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/ADV]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/NUM]() (1; 0% instances), [ro-pos/PROPN]()-[ro-pos/X]() (1; 0% instances), [ro-pos/SYM]()-[ro-pos/NOUN]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/ADV]() (1; 0% instances), [ro-pos/VERB]()-[ro-pos/PROPN]() (1; 0% instances), [ro-pos/X]()-[ro-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,52 +35,45 @@ The following 38 pairs of parts of speech are connected with `appos`: [ro-pos/NO
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 appos	color:blue
-1	Dar	dar	CONJ	Ccssp	Negative=Pos	10	discourse	_	_
-2	,	,	PUNCT	COMMA	_	4	punct	_	_
-3	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	4	expl:pv	_	_
-4	rog	ruga	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
-5	,	,	PUNCT	COMMA	_	4	punct	_	_
-6	pe	pe	ADP	Sp	AdpType=Prep	7	case	_	_
-7	duduca	duducă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	dobj	_	_
-8	Luluța	Luluța	PROPN	Np	_	7	appos	_	_
-9	nu	nu	PART	Qz	Negative=Neg	10	neg	_	_
-10	știți	ști	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-11	unde	unde	ADV	Rw	PronType=Int,Rel	15	advmod	_	_
-12	-aș	avea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
-13	putea	putea	VERB	Vmnp	Tense=Pres|VerbForm=Inf	15	aux	_	_
-14	-o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	15	expl	_	_
-15	găsi	găsi	VERB	Vmnp	Tense=Pres|VerbForm=Inf	10	ccomp	_	_
-16	?	?	PUNCT	QUEST	_	10	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 appos	color:blue
+1	Veturia	Veturia	PROPN	Np	_	2	nsubj	_	_
+2	avea	avea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
+4	soră	soră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	dobj	_	_
+5	,	,	PUNCT	COMMA	_	6	punct	_	_
+6	Thaissa	Thaissa	PROPN	Np	_	4	appos	_	_
+7	,	,	PUNCT	COMMA	_	11	punct	_	_
+8	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+9	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	11	dobj	_	_
+10	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	expl	_	_
+11	iubea	iubi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl	_	_
+12	Ștefan	Ștefan	PROPN	Np	_	11	nsubj	_	_
+13	Predescu	Predescu	PROPN	Np	_	12	name	_	_
+14	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 8 appos	color:blue
-1	4	4	NUM	Mc	NumType=Card	3	parataxis	_	_
-2	.	.	PUNCT	PERIOD	_	1	punct	_	_
-3	NAUMOV	NAUMOV	PROPN	Np	_	0	root	_	_
-4	,	,	PUNCT	COMMA	_	5	punct	_	_
-5	VLADIMIR	VLADIMIR	PROPN	Np	_	3	name	_	_
-6	Vladimïrovici	Vladimïrovici	PROPN	Np	_	3	name	_	_
-7	,	,	PUNCT	COMMA	_	5	punct	_	_
-8	Ministru	ministru	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	appos	_	_
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
-10	Interne	internă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	8	nmod	_	_
-11	,	,	PUNCT	COMMA	_	12	punct	_	_
-12	născut	naște	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
-14	1956	1956	NUM	Mc	NumType=Card	12	nmod:tmod	_	_
-15	.	.	PUNCT	PERIOD	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 appos	color:blue
+1	Transilvania	Transilvania	PROPN	Np	_	0	root	_	_
+2	,	,	PUNCT	COMMA	_	3	punct	_	_
+3	parte	parte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	appos	_	_
+4	de-a	de-a	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
+5	lungul	lung	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	mwe	_	_
+6	Evului	ev	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
+7	Mediu	mediu	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+8	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	_
+9	Regatului	regat	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
+10	Ungariei	Ungaria	PROPN	Npfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
 
 ~~~
 

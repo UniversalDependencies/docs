@@ -11,9 +11,9 @@ The 10 most frequent `ADP` lemmas: <em>de, a, per, en, amb, d', entre, sobre, se
 
 The 10 most frequent `ADP` types:  <em>de, a, d', per, en, amb, entre, sobre, segons, des</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 46146, [NOUN]() 1, [PROPN]() 1, [DET]() 1), <em>a</em> ([ADP]() 16742, [NOUN]() 9, [VERB]() 1, [AUX]() 1), <em>per</em> ([ADP]() 7490, [ADV]() 1), <em>en</em> ([ADP]() 7093, [PRON]() 354, [DET]() 8), <em>sobre</em> ([ADP]() 706, [ADV]() 8, [NOUN]() 6), <em>segons</em> ([ADP]() 677, [SCONJ]() 244, [PROPN]() 1), <em>durant</em> ([ADP]() 530, [ADV]() 1), <em>fins</em> ([ADP]() 444, [ADV]() 234), <em>sense</em> ([ADP]() 343, [PROPN]() 4), <em>contra</em> ([ADP]() 340, [NOUN]() 54, [PROPN]() 7)
+The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 46146, [DET]() 1, [NOUN]() 1, [PROPN]() 1), <em>a</em> ([ADP]() 16742, [NOUN]() 9, [AUX]() 1, [VERB]() 1), <em>per</em> ([ADP]() 7490, [ADV]() 1), <em>en</em> ([ADP]() 7093, [PRON]() 354, [DET]() 8), <em>sobre</em> ([ADP]() 706, [ADV]() 8, [NOUN]() 6), <em>segons</em> ([ADP]() 677, [SCONJ]() 244, [PROPN]() 1), <em>durant</em> ([ADP]() 530, [ADV]() 1), <em>fins</em> ([ADP]() 444, [ADV]() 234), <em>sense</em> ([ADP]() 343, [PROPN]() 4), <em>contra</em> ([ADP]() 340, [NOUN]() 54, [PROPN]() 7)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 38533, [NOUN]() 1), <em>a</em> ([ADP]() 16246, [AUX]() 1, [NOUN]() 1), <em>per</em> ([ADP]() 7058, [ADV]() 1), <em>en</em> ([ADP]() 6336, [PRON]() 102, [DET]() 8), <em>sobre</em> ([ADP]() 696, [ADV]() 8, [NOUN]() 5), <em>segons</em> ([ADP]() 332, [SCONJ]() 169, [NOUN]() 7, [ADJ]() 3, [PROPN]() 1), <em>fins</em> ([ADP]() 422, [ADV]() 211, [NOUN]() 4), <em>sense</em> ([ADP]() 330, [PROPN]() 4), <em>contra</em> ([ADP]() 337, [NOUN]() 54, [PROPN]() 7), <em>davant</em> ([ADP]() 199, [ADV]() 63, [PROPN]() 2, [NOUN]() 2)
+The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 38533, [NOUN]() 1), <em>a</em> ([ADP]() 16246, [NOUN]() 1, [AUX]() 1), <em>per</em> ([ADP]() 7058, [ADV]() 1), <em>en</em> ([ADP]() 6336, [PRON]() 102, [DET]() 8), <em>sobre</em> ([ADP]() 696, [ADV]() 8, [NOUN]() 5), <em>segons</em> ([ADP]() 332, [SCONJ]() 169, [NOUN]() 7, [ADJ]() 3, [PROPN]() 1), <em>fins</em> ([ADP]() 422, [ADV]() 211, [NOUN]() 4), <em>sense</em> ([ADP]() 330, [PROPN]() 4), <em>contra</em> ([ADP]() 337, [NOUN]() 54, [PROPN]() 7), <em>davant</em> ([ADP]() 199, [ADV]() 63, [NOUN]() 2, [PROPN]() 2)
 
 
 * <em>de</em>
@@ -21,8 +21,8 @@ The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 38533, [NOUN]() 1), 
   * [NOUN]() 1: <em>El president de la Generalitat , Jordi Pujol , afirma que mai ha perdut la fe cristiana ni s' ha plantejat " deixar de creure " , encara que admet que ha hagut <b>de</b> " adequar " la seva fe a els canvis que s' han produït en aquest segle .</em>
 * <em>a</em>
   * [ADP]() 16246: <em>D' aquestes activitats , algunes no s' han obert <b>a</b> el públic .</em>
-  * [AUX]() 1: <em>Una introducció per donar -ne <b>a</b> conèixer els aspectes bàsics i un apartat dedicat a l' espai que han ocupat les campanes en el folklore popular completen l' exposició .</em>
   * [NOUN]() 1: <em>Evidentment no justifico ni ' <b>a</b> ' ni ' b ' , ans a el contrari .</em>
+  * [AUX]() 1: <em>Una introducció per donar -ne <b>a</b> conèixer els aspectes bàsics i un apartat dedicat a l' espai que han ocupat les campanes en el folklore popular completen l' exposició .</em>
 * <em>per</em>
   * [ADP]() 7058: <em><b>per</b> el que fa a les seccions , se n' han creat de noves .</em>
   * [ADV]() 1: <em>El magistrat , <b>per</b> , li ha valorat un atenuant de dilacions indegudes perqu l' estudi de les diligncies prvies ' posa de manifest que el jutjat instructor va tramitar aquesta causa amb nombroses dilacions indegudes , en paralitzar el curs processal sense causa aparent en tres ocasions diferents ' .</em>
@@ -54,8 +54,8 @@ The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 38533, [NOUN]() 1), 
 * <em>davant</em>
   * [ADP]() 199: <em>A l' últim partit , <b>davant</b> el Rayo , ni tan sols va ser convocat .</em>
   * [ADV]() 63: <em>En qualsevol cas , el pitjor és la incertesa <b>davant</b> de nous viatges .</em>
-  * [PROPN]() 2: <em>En aquesta primera sessió també parlarà de el tema " Els límits de el que és raonable en la consolidació d' edificis . Resposta desesperada <b>davant</b> d' un problema aparentment impossible : recuperació estructural d' un edifici d' apartaments a Cerler " .</em>
   * [NOUN]() 2: <em>Amb Schumacher , a el seu costat o a el <b>davant</b> , sempre hi ha Mika Hakkinen , que va sobreviure el 1995 a un gravíssim accident en els entrenaments d' Austràlia , que el va mantenir en coma alguns dies .</em>
+  * [PROPN]() 2: <em>En aquesta primera sessió també parlarà de el tema " Els límits de el que és raonable en la consolidació d' edificis . Resposta desesperada <b>davant</b> d' un problema aparentment impossible : recuperació estructural d' un edifici d' apartaments a Cerler " .</em>
 
 ## Morphology
 
