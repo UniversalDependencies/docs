@@ -25,7 +25,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in UD_* ; do pushd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; popd ; echo ; done</code>
 * Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:
   This time the script is run for every language (not every treebank):<br />
-  <code>for l in grc ar eu bg ca zh hr cs da nl en et fi fr gl de got el he hi hu id ga it kk la lv no cu fa pl pt ro ru sl es sv ta tr ; do perl tools/conllu-stats.pl --detailed --data . --docs docs --lang $l ; done</code>
+  <code>for l in ar bg ca cop cs cu da de el en es et eu fa fi fr ga gl got grc he hi hr hu id it ja kk la lv nl no pl pt ro ru sa sk sl sv swl ta tr ug uk vi zh ; do perl tools/conllu-stats.pl --detailed --data . --docs docs --lang $l ; done</code>
 * Merge the `dev` branch into `master` in every UD_* repository.
   The `master` branch should not be touched the next six months and it should have exactly the contents that was officially
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.

@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-14T21:08:35Z">2016-11-14T21:08:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-14T22:13:20Z">2016-11-14T22:13:20 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -119,7 +119,7 @@ python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-LDC</span>
 <span class="widespan">ar ldc</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T21:56:26Z">2016-11-13T21:56:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:50:14Z">2016-11-14T21:50:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -162,7 +162,7 @@ python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-05T10:29:18Z">2016-11-05T10:29:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:51:14Z">2016-11-14T21:51:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -194,7 +194,7 @@ python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-07T16:44:36Z">2016-11-07T16:44:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:51:46Z">2016-11-14T21:51:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -297,7 +297,7 @@ python tools/validate.py --lang zh UD-dev-branches/UD_Chinese/zh-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T21:49:36Z">2016-11-01T21:49:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:52:07Z">2016-11-14T21:52:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -329,7 +329,7 @@ python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T16:45:32Z">2016-10-31T16:45:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:52:46Z">2016-11-14T21:52:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -574,7 +574,7 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T09:12:18Z">2016-11-13T09:12:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:56:42Z">2016-11-14T21:56:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -606,7 +606,7 @@ python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-15T00:54:30Z">2016-10-15T00:54:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:57:20Z">2016-11-14T21:57:20 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -702,7 +702,7 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:46:45Z">2016-09-19T07:46:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:57:56Z">2016-11-14T21:57:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -894,7 +894,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-08T20:17:45Z">2016-11-08T20:17:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:59:16Z">2016-11-14T21:59:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -958,25 +958,25 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-06T21:45:56Z">2016-11-06T21:45:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:59:56Z">2016-11-14T21:59:56 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-test.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
 *** PASSED ***
 
@@ -1054,7 +1054,7 @@ python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-02T09:40:26Z">2016-11-02T09:40:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:00:29Z">2016-11-14T22:00:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1246,7 +1246,7 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-10T21:08:24Z">2016-11-10T21:08:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:01:30Z">2016-11-14T22:01:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1342,7 +1342,7 @@ python tools/validate.py --lang ja_ktc UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-01T08:57:49Z">2016-11-01T08:57:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:02:14Z">2016-11-14T22:02:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1385,7 +1385,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Kurmanji</span>
 <span class="widespan">kmr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:20:54Z">2016-10-31T15:20:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:02:24Z">2016-11-14T22:02:24 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1524,7 +1524,7 @@ python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian</span>
 <span class="widespan">no</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-26T12:51:39Z">2016-10-26T12:51:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:03:27Z">2016-11-14T22:03:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1588,7 +1588,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T07:13:49Z">2016-11-14T07:13:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:04:25Z">2016-11-14T22:04:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1780,7 +1780,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-12T21:29:36Z">2016-11-12T21:29:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:05:19Z">2016-11-14T22:05:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1812,7 +1812,7 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-12T21:27:10Z">2016-11-12T21:27:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:08:13Z">2016-11-14T22:08:13 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1876,7 +1876,7 @@ python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Serbian</span>
 <span class="widespan">sr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-07T09:09:07Z">2016-11-07T09:09:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:09:16Z">2016-11-14T22:09:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1983,7 +1983,7 @@ python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-u
 <span class="doublewidespan" style="padding-left:3em">UD Somali</span>
 <span class="widespan">so</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-07T09:09:52Z">2016-11-07T09:09:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:09:26Z">2016-11-14T22:09:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1994,7 +1994,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Sorani</span>
 <span class="widespan">ckb</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-31T15:22:15Z">2016-10-31T15:22:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:09:36Z">2016-11-14T22:09:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2037,7 +2037,7 @@ python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-12T21:10:58Z">2016-11-12T21:10:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:11:06Z">2016-11-14T22:11:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2133,7 +2133,7 @@ python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lin
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-07T09:11:27Z">2016-11-07T09:11:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:11:52Z">2016-11-14T22:11:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2197,7 +2197,7 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T20:51:36Z">2016-11-13T20:51:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:12:20Z">2016-11-14T22:12:20 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2229,7 +2229,7 @@ python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T21:39:43Z">2016-11-13T21:39:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:12:44Z">2016-11-14T22:12:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2261,7 +2261,7 @@ python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Urdu</span>
 <span class="widespan">ur</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T19:59:37Z">2016-11-13T19:59:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:12:56Z">2016-11-14T22:12:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2304,7 +2304,7 @@ python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T07:29:47Z">2016-11-14T07:29:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:13:19Z">2016-11-14T22:13:19 zulu</time></span>
 </div>
 <div>
 <pre>
