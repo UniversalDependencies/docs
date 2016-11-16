@@ -41,9 +41,8 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   similar neither in form nor in function to the form we mark `VerbForm=Ger` in English and Spanish (and BTW these are also quite different
   from each other, but at least Spanish has the term _gerundio_ as its own, not only as English translation).
   More neutral terms are adverbial participle or _converb_ (Haspelmath, 1995), so I propose to relabel these forms `VerbForm=Conv`.
-* [u-feat/Definite](): rename `Red` (reduced) to `Con` (construct state); see the
+* [u-feat/Definite](): rename `Red` (reduced) to `Cons` (construct state); see the
   [issue 135](http://github.com/UniversalDependencies/docs/issues/135) for related discussion.
-  Other options would be `Definite=Constr`, `Cns`, `Cnstr` etc. (or even `Construct`, but with 9 characters it would be an unusually long feature value for UD).
 * TO DISCUSS: [u-feat/NumType](): Is there a better solution than `NumType=Gen`? What is `NumType=Pers` in Irish? (Defined but not used.)
 
 ## Adding/removing values to/from existing features
