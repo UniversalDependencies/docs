@@ -43,7 +43,8 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   More neutral terms are adverbial participle or _converb_ (Haspelmath, 1995), so I propose to relabel these forms `VerbForm=Conv`.
 * [u-feat/Definite](): rename `Red` (reduced) to `Cons` (construct state); see the
   [issue 135](http://github.com/UniversalDependencies/docs/issues/135) for related discussion.
-* TO DISCUSS: [u-feat/NumType](): Is there a better solution than `NumType=Gen`? What is `NumType=Pers` in Irish? (Defined but not used.)
+* [u-feat/NumType](): Remove `NumType=Gen`, replace it by a narrower (and positively-defined) `NumType=Fold` for adjectival numerals like [cs] _dvojí, trojí_ "twofold, threefold".
+* TO DISCUSS: What is `NumType=Pers` in Irish? (Defined but not used.)
 
 ## Adding/removing values to/from existing features
 
