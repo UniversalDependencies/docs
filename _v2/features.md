@@ -86,6 +86,9 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
     is rather confusing: in Spanish (and other Romance languages?) it denotes the present participle and should be thus labeled
     `Tense=Pres|VerbForm=Part`; some Slavists use it to denote converbs (adverbial participles), which we now propose to label
     `VerbForm=Conv` (previously `VerbForm=Trans`).
+  * Using `VerbForm=Ger` is discouraged and alternatives should be considered first. However, the feature is still available in UDv2
+    and can be used if the alternatives do not seem acceptable. The feature may be removed in future versions but comprehensive
+    investigation has to be done first.
     * Observations from UD 1.4:
       `VerbForm=Ger` occurs in most of the Romance languages (Catalan, Spanish, Galician, Italian, Portuguese, Romanian) and Latin.
       I assume that in all these languages the form and function is similar to the Spanish _gerundio_, hence it should be replaced
@@ -95,8 +98,6 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
       It occurs in two Germanic languages (English, Danish) and I do not know whether it can be relabeled as verbal noun there.
       Finally, it also occurs in Irish, Sanskrit, Tamil, Kazakh and Turkish (I am not able to judge what should happen there if
       `VerbForm=Ger` is not available).
-    * TO DISCUSS: Should we get rid of `VerbForm=Ger` and force people to choose one of the alternatives?
-      Or should we just add a note to the documentation that it is deprecated?
   * TO DISCUSS: `VerbForm=PartFut|PartPast|PartPres` in Hungarian. These should probably be two features, `VerbForm=Part` and `Tense=Fut`, as in other UD languages.
   * TO DISCUSS: `VerbForm=Cop` in Irish. There is no documentation so we will need some input from Teresa if we want to do anything with it.
   * TO DISCUSS: `VerbForm=Stem` currently only one occurrence in Swedish.
