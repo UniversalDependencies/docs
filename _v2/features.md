@@ -83,10 +83,20 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * Add `VerbForm=Gdv` (gerundive, not gerund) in Latin and Ancient Greek.
   * Add `VerbForm=Vnoun` for verbal nouns other than infinitives (also called _masdars_ by some authors, e.g. Haspelmath, 1995).
     In UD v1 we were advising to use `VerbForm=Ger` for them, using the English gerunds as model. However, the term _gerund_
-    is rather confusing: in Spanish (and other Romance languages?) it denotes the present participle and should be thus labeled `Tense=Pres|VerbForm=Part`;
-    some Slavists use it to denote converbs (adverbial participles), which we now propose to label `VerbForm=Conv` (previously `VerbForm=Trans`).
-    * TO DISCUSS: Should we get rid of `VerbForm=Ger` and force people to choose one of the alternatives? Or should we just add a note to the documentation
-      that it is deprecated?
+    is rather confusing: in Spanish (and other Romance languages?) it denotes the present participle and should be thus labeled
+    `Tense=Pres|VerbForm=Part`; some Slavists use it to denote converbs (adverbial participles), which we now propose to label
+    `VerbForm=Conv` (previously `VerbForm=Trans`).
+    * Observations from UD 1.4:
+      `VerbForm=Ger` occurs in most of the Romance languages (Catalan, Spanish, Galician, Italian, Portuguese, Romanian) and Latin.
+      I assume that in all these languages the form and function is similar to the Spanish _gerundio_, hence it should be replaced
+      by `VerbForm=Part|Tense=Pres` (but I am unsure whether it can be extended to Latin).
+      It occurs in one Slavic language (Polish) and it should be replaced by `VerbForm=Vnoun` there. The same feature could be used
+      in all Slavic languages but verbal nouns are currently not distinguished there.
+      It occurs in two Germanic languages (English, Danish) and I do not know whether it can be relabeled as verbal noun there.
+      Finally, it also occurs in Irish, Sanskrit, Tamil, Kazakh and Turkish (I am not able to judge what should happen there if
+      `VerbForm=Ger` is not available).
+    * TO DISCUSS: Should we get rid of `VerbForm=Ger` and force people to choose one of the alternatives?
+      Or should we just add a note to the documentation that it is deprecated?
   * TO DISCUSS: `VerbForm=PartFut|PartPast|PartPres` in Hungarian. These should probably be two features, `VerbForm=Part` and `Tense=Fut`, as in other UD languages.
   * TO DISCUSS: `VerbForm=Cop` in Irish. There is no documentation so we will need some input from Teresa if we want to do anything with it.
   * TO DISCUSS: `VerbForm=Stem` currently only one occurrence in Swedish.
