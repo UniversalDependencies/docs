@@ -70,6 +70,13 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
 * [u-feat/Definite]()
   * Add `Definite=Spec` (specific indefinite, e.g. "a certain stick"). Occurs e.g. in Lakota, proposed in UniMorph. In languages where it is used
     the value `Ind` is interpreted as non-specific indefinite, i.e. "any (one) stick".
+  * TO DISCUSS: `Definite=2` in Hungarian.
+    Description: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite).
+    Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between
+    a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am
+    watching a film”) and a second person object (_nézlek téged_ “I am watching you”). So `Definite=2` is actually not
+    about definiteness proper, maybe it should be `Person[obj]`. Perhaps we should leave this value specific to
+    Hungarian.
 * [u-feat/Number]()
   * Add `Number=Count` from Bulgarian (and Macedonian). It is known variously as "counting form", "count plural" or "quantitative plural" (Sussex and Cubberley 2006, p. 324).
     It is a special plural form of nouns if they occur after numerals: _tri stola_ "three chairs" vs. _stolove_ "chairs".
@@ -184,14 +191,6 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
     and obviative (obv) should be included somehow if direct and inverse voice are allowed,
     since languages that mark these voice categories tend to also mark 3rd person arguments
     as proximate or obviative (esp. when all arguments in the clause are 3rd person).
-* [u-feat/Definite]()
-  * TO DISCUSS: `Definite=2` in Hungarian.
-    Description: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite).
-    Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between
-    a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am
-    watching a film”) and a second person object (_nézlek téged_ “I am watching you”). So `Definite=2` is actually not
-    about definiteness proper, maybe it should be `Person[obj]`. Perhaps we should leave this value specific to
-    Hungarian.
 
 ## Adding new features
 
