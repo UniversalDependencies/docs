@@ -4,5 +4,15 @@ title: 'dep'
 shortdef: 'unspecified dependency'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `dep`.
+A dependency is labeled as `dep` when a system is unable to
+determine a more precise dependency relation between two words.  This
+may be because of a weird grammatical construction, a limitation in
+software (e.g. the Stanford Dependency conversion), a parser error, or
+because of an unresolved long distance dependency.
+
+~~~ sdparse
+Fica assim totalmente sinalizado o percurso
+dep(Fica, sinalizado)
+~~~
+
+In this example `dep` is used due the ambiguity of _sinalizado_  between adjective and verb participle.
