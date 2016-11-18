@@ -21,8 +21,6 @@ The proposals in this chapter are based on
 
 Another reference that could contribute to the universal features is the [GOLD ontology](http://linguistics-ontology.org/gold/2010); see also [the general project page](http://linguistics-ontology.org/). In particular, items in the ontology under Morphosemantic property and Morphosyntactic property roughly correspond to our features.
 
-
-
 ## Renaming existing features and/or values
 
 See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for related discussion.
@@ -183,7 +181,7 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
     Zero person is for impersonal statements, appears in Finnish as well as in Santa Ana Pueblo Keres.
     (The construction is distinctive in Finnish but it does not use unique morphology that would necessarily require
     a feature; the current UD Finnish also lives without it.) However, it is morphologically distinct in Keres (Davis 1964:75).
-  * TO DISCUSS: should we add `Person=4` from UniMorph?
+  * Add `Person=4`. Proposed in UniMorph.
     John: 4th person could be distinguished by additional, independently-needed features, such
     as obviation status (e.g. proximate [prx] or obviative [obv], which are not included in
     person features currently), so while the feature `4` is convenient and part of paradigmatic
