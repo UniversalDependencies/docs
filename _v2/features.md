@@ -165,17 +165,9 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * Add `PronType=Exc` (exclamative) from Italian (but it can be defined in other languages, too). It expresses the
     speaker's surprise towards the modified noun, e.g. _what_ in "What a surprise!" In many languages, exclamative
     determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them.
-  * TO DISCUSS: `PronType=Clit` (it). Used for clitic pronouns in [Italian](it-feat/PronType), e.g.
-    _<b>Si</b> è rotto_ “It has broken”. The clitic pronouns are the most frequent type in Italian UD, accounting for
-    41% of all occurrences; the most frequent forms are _si, ci, ne, c’, lo, vi, mi, la, gli, li._
-    But I think that being clitic is a property orthogonal to our pronoun types and these are probably just a special
-    subtype of personal pronouns, aren't they? Perhaps they should be `PronType=Prs` but distinguished by `Case`?
-  * TO DISCUSS: `PronType=Predet` (it). Used for (pre)determiners like _tutti_ "all", _entrambi_ "both".
-    But I think that being placed before another determiner is a property orthogonal to our pronoun types. These two
-    instances should be simply `PronType=Tot`.
-  * TO DISCUSS: `PronType=Ord` (it). Used for ordinal numerals like _primo_ "first", _secondo_ "second", _terzo_ "third".
-    In UD, these are not pronouns or determiners but adjectives (`ADJ`). And their ordinal status should be marked by
-    `NumType=Ord`, which is a universal feature. `PronType=Ord` should be removed from Italian.
+  * NOTE: The Italian data in UD v1 contain three additional values of [Italian](it-feat/PronType): `Clit`, `Predet` and `Ord`.
+    We do not propose to adopt these values as universal in UD v2. We propose to change the Italian guidelines so that these values
+    are no longer needed. See [Issue 353](http://github.com/UniversalDependencies/docs/issues/353) for details.
 * [u-feat/Person]()
   * Add `Person=0`. Proposed in UniMorph.
     Zero person is for impersonal statements, appears in Finnish as well as in Santa Ana Pueblo Keres.
