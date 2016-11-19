@@ -7,7 +7,7 @@ title:  'CoNLL-U Format in UD v2'
 
 Some of the proposed changes will require modifications to the CoNLL-U format. Whenever possible, we want to do this in the least disruptive fashion possible, keeping backward compatibility as far as we can. In particular, we strongly recommend not changing the number of fields and/or their meaning for fear of breaking people's tools. We recommend the following changes for v2:
 
-* Allow spaces in the `FORM` and `LEMMA` fields (see [word segmentation](word-segmentation.html))
+* Allow spaces in the `FORM` and `LEMMA` fields (see [word segmentation](segmentation.html))
 * Let the `DEPS` field contain the entire enhanced dependency graph (not only additional relations on top of the basic trees) (see [enhanced dependencies](enhanced.html))
 * Allow empty nodes with an indexing scheme distinct from both tokens and words and with relations in the `DEPS` field (see [ellipsis](ellipsis.html))
 * Standardize sentence-level metadata
