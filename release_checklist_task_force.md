@@ -74,5 +74,5 @@ tar xzf $path/release-1.4/ud-treebanks-v1.4.tgz ;
 mv ud-treebanks-v1.4 universal-dependencies-1.4 ;
 cd $HAMLEDT ;
 perl ./populate_ud13.pl
-# copy metadata to biblio
+\# copy metadata to biblio
 </code></small>
