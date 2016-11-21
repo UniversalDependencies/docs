@@ -25,13 +25,42 @@ The universal tagset from v1 is basically kept intact in v2 with two minor revis
 
 1. The tag `CONJ` is renamed `CCONJ` to make it more similar to the syntactic relation `cc` (and less similar to `conj`).
 2. The guidelines for tags are modified in three cases:
-   a. The use of `AUX` is extended from auxiliary verbs in a narrow sense to also include copula verbs and nonverbal TAMVE particles.
-   b. The use of `PART` is restricted to a small set of words that must be listed in the language-specific documentation.
-   c. The borderline between `PRON` and `DET` is made more flexible to accommodate cross-linguistic variation. 
+    1. The use of `AUX` is extended from auxiliary verbs in a narrow sense to also include copula verbs and nonverbal TAMVE particles.
+    2. The use of `PART` is restricted to a small set of words that must be listed in the language-specific documentation.
+    3. The borderline between `PRON` and `DET` is made more flexible to accommodate cross-linguistic variation. 
 
 More discussion about part-of-speech tags can be found [here](postags.html)
 
 ## Morphological features
+
+The set of universal features is updated from v1 to v2 in the following ways:
+
+1. Existing features and feature values are renamed:
+    1. `Negative` -> `Polarity`
+    2. `Aspect=Pro` -> `Aspect=Prosp` [Dan: Does this apply to `Aspect=Prog` as well?]
+    3. `VerbForm=Trans` -> `VerbForm=Conv`
+    4. `NumType=Gen` -> `NumType=Fold` [with a more restricted meaning]
+2. New features are added (or promoted to universal features):
+    1. `Evident` (evidentiality) with value `Nfh` (non-first hand)
+    2. `Polite` (politeness) with values `Infm` (informal), `Form` (formal), `Elev` (elevated status of referent; subtype of `Form`), `Humb` (humbled status of speaker; subtype of `Form`) 
+    3. `Abbr` (abbreviation) with value `Yes`
+    4. `Foreign` with value `Yes` [Dan: Do we want the three values instead?]
+3. New values are added (or promoted) to existing features:
+    1. `Animacy=Hum` (human)
+    2. `Case=Equ` (equative) and `Case=Cmp`(comparative)
+    3. `Degree=Equ` (equative)
+    4. `Definite=Spec` (specific indefinite)
+    5. `Number=Count` (counting form or count plural), `Number=Tri` (trial), `Number=Pauc` (paucal), `Number=Grpa` (greater paucal), `Number=Grpl` (greater plural), `Number=Inv` (inverse number)
+    6. `VerbForm=Gdv` (gerundive, not gerund), `VerbForm=Vnoun` (verbal nouns other than infinitives)
+    7. `Mood=Pur` (purposive)
+    8. `Aspect=Iter` (iterative), `Aspect=Hab (habitual)`
+    9. `Voice=Mid` (middle voice), `Voice=Antip` (antipassive), `Voice=Dir` (direct), `Voice=Inv` (inverse)
+    10. `PronType=Emp` (emphatic), `PronType=Exc (exclamative)` 
+    11. `Person=0`, `Person=4`
+4. Unused values are removed from existing features:
+    1. `Tense=Nar` (narrative)
+    
+Revisions to the feature system have whenever possible been made to improve clarity and consistency with other systems such as UniMorph. More discussion about features can be found [here](features.html).
 
 ## Syntactic relations 
 
