@@ -53,12 +53,14 @@ See [here](release_checklist.html) for the checklist for data contributors.
   this is how you remove the tag from where it is now: `git tag -d r1.3`.
   And this is how you remove it from Github: `git push origin :refs/tags/r1.3`.<br />
   <code>for i in UD_* docs tools ; do pushd $i ; git tag r1.3 ; git push --tags ; popd ; echo ; done</code>
-* Once the Lindat staff make the new license list available in their system, we can [create a new Lindat item](https://lindat.mff.cuni.cz/repository/xmlui/submit) for the new version of UD.
+* Once the Lindat staff make the new license list available in their system, we can
+  [create a new Lindat item](https://lindat.mff.cuni.cz/repository/xmlui/submit) for the new version of UD.
+  (The server starts by asking you to “select a community”. Choose LINDAT / CLARIN.)
   Note that the Lindat staff may help to automate other tasks as well.
-  For example, we have an extraordinarily long list of authors. Instead of typing them on the Lindat website one-by-one, they can batch-upload the list we send them.
-  Once everything is ready and we submit the item, they will review it and assign the persistent URL (handle.net) to the item;
-  that is the URL that we want to publish on the UD website.
-  At that moment the release is officially out and no changes to the data files are permitted (changes to metadata are possible if necessary,
+  For example, we have an extraordinarily long list of authors. Instead of typing them on the Lindat website one-by-one,
+  they can batch-upload the list we send them. Once everything is ready and we submit the item, they will review it and assign
+  the persistent URL (handle.net) to the item; that is the URL that we want to publish on the UD website. At that moment the
+  release is officially out and no changes to the data files are permitted (changes to metadata are possible if necessary,
   but this is done on demand only).
 * Update the title page of Universal Dependencies. Send out announcement to corpora@uib.no, ACL list etc.
 * Upload the data to the search engines (SETS, PML-TQ, Kontext etc.)
