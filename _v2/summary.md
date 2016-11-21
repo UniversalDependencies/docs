@@ -60,7 +60,7 @@ The set of universal features is updated from v1 to v2 in the following ways:
 4. Unused values are removed from existing features:
     1. `Tense=Nar` (narrative)
     
-Revisions to the feature system has whenever possible been made to improve clarity and consistency with other systems such as UniMorph. More discussion about features can be found [here](features.html).
+Revisions to the feature system have whenever possible been made to improve clarity and consistency with other systems such as UniMorph. More discussion about features can be found [here](features.html).
 
 ## Syntactic relations 
 
