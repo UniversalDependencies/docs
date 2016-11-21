@@ -514,7 +514,13 @@ h4, h5, h6 {
     border: 1px solid black;
     font-weight: bold;
 }
-    
+
+.v2complete {
+    background-color: green;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
 
 .license {
    vertical-align: middle;
