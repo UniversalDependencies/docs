@@ -25,9 +25,9 @@ The universal tagset from v1 is basically kept intact in v2 with two minor revis
 
 1. The tag `CONJ` is renamed `CCONJ` to make it more similar to the syntactic relation `cc` (and less similar to `conj`).
 2. The guidelines for tags are modified in three cases:
-   a. The use of `AUX` is extended from auxiliary verbs in a narrow sense to also include copula verbs and nonverbal TAMVE particles.
-   b. The use of `PART` is restricted to a small set of words that must be listed in the language-specific documentation.
-   c. The borderline between `PRON` and `DET` is made more flexible to accommodate cross-linguistic variation. 
+    1. The use of `AUX` is extended from auxiliary verbs in a narrow sense to also include copula verbs and nonverbal TAMVE particles.
+    2. The use of `PART` is restricted to a small set of words that must be listed in the language-specific documentation.
+    3. The borderline between `PRON` and `DET` is made more flexible to accommodate cross-linguistic variation. 
 
 More discussion about part-of-speech tags can be found [here](postags.html)
 
