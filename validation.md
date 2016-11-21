@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-21T09:03:14Z">2016-11-21T09:03:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-21T11:31:47Z">2016-11-21T11:31:47 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1716,7 +1716,7 @@ python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-13T19:46:34Z">2016-11-13T19:46:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-21T11:31:37Z">2016-11-21T11:31:37 zulu</time></span>
 </div>
 <div>
 <pre>
