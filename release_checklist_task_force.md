@@ -55,7 +55,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in UD_* docs tools ; do pushd $i ; git tag r1.3 ; git push --tags ; popd ; echo ; done</code>
 * Once the Lindat staff make the new license list available in their system, we can
   [create a new Lindat item](https://lindat.mff.cuni.cz/repository/xmlui/submit) for the new version of UD.
-  (The server starts by asking you to “select a community”. Choose LINDAT / CLARIN.)
+  (The server starts by asking you to “select a community”. Choose LINDAT / CLARIN.
+  In the note for the editors (last page of the form), ask them to mark the previous UD release as obsolete and to add a link
+  pointing from the previous release to the new one.)
   Note that the Lindat staff may help to automate other tasks as well.
   For example, we have an extraordinarily long list of authors. Instead of typing them on the Lindat website one-by-one,
   they can batch-upload the list we send them. Once everything is ready and we submit the item, they will review it and assign
