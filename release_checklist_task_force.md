@@ -35,46 +35,16 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in UD_* ; do pushd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; else echo OK ; fi ; popd ; echo ; done</code>
 * After resolving the conflicts do not forget to checkout the `dev` branch again! (If there were no conflicts, we are already back in `dev`.)<br />
   <code>for i in UD_* ; do pushd $i ; git checkout dev ; popd ; echo ; done</code>
-* Create the release folder, copy there the repositories that contain .conllu data (skip empty repositories!) and erase files
-  that should not be released (`.gitignore`, `.git`, `not-to-release`). The training data in UD_Czech is split to four files
-  because it is too large for Github. However, it can be one file in our release, so join the files again in the release
-  copy.<br />
-  <code>mkdir release-1.4<br />
-  cd release-1.4<br />
-  mkdir ud-treebanks-v1.4<br />
-  cd ud-treebanks-v1.4<br />
-  for i in ../../UD_* ; do if [ -f $i/*-ud-train.conllu ] ; then echo $i ; cp -r $i . ; fi ; done<br />
-  cp -r ../../UD_Czech .<br />
-  cat UD_Czech/cs-ud-train-*.conllu > UD_Czech/cs-ud-train.conllu<br />
-  rm UD_Czech/cs-ud-train-*.conllu<br />
-  rm -rf UD_*/.git* UD_*/not-to-release<br />
-  cd ..<br />
-  tar czf ud-treebanks-v1.4.tgz ud-treebanks-v1.4<br />
-  cd ..</code>
-* Prepare the current content of the tools repository as a separate package, also without `.git` and `.gitignore`.<br />
-  <code>pushd tools ; git pull --no-edit ; popd<br />
-  cd release-1.4<br />
-  mkdir ud-tools-v1.4<br />
-  cp -r ../tools/* ud-tools-v1.4<br />
-  rm -rf ud-tools-v1.4/.git* ud-tools-v1.4/not-to-release<br />
-  tar czf ud-tools-v1.4.tgz ud-tools-v1.4<br />
-  cd ..</code>
-* Prepare the current content of the docs repository as a separate package, also without `.git` and `.gitignore`. Note that this is archiving the MarkDown _source code_ of the documentation. See below for archiving the corresponding HTML.<br />
-  <code>pushd docs ; git checkout pages-source ; git pull --no-edit ; popd<br />
-  cd release-1.4<br />
-  mkdir -p ud-documentation-v1.4/markdown-source<br />
-  cp -r ../docs/* ud-documentation-v1.4/markdown-source<br />
-  rm -rf ud-documentation-v1.4/markdown-source/.git* ud-documentation-v1.4/markdown-source/not-to-release<br />
-  cd ..</code>
-* The surface form of documentation (i.e. the web content visible to the reader) is automatically generated in a separate Github repository. WARNING! Many folders contain generated files `AUX.html` and `aux.html` (besides `AUX_.html` and `aux_.html`). These should _not_ be included in the package because that might prevent people from unpacking it in MS Windows (although some unpacking programs, like 7zip, will be able to overcome this by simply renaming the file to `_aux.html` before unpacking it). Note furthermore that we currently cannot force Jekyll (the page generator) to make all hyperlinks relative in order for the pages to work well offline. Many hyperlinks will be broken when viewing the pages, and the user will have to open individual pages from the file manager instead. However, it may still be useful to provide the HTML rendering, especially because of the embedded tree visualizations.<br />
-  <code>git clone git@github.com:UniversalDependencies/universaldependencies.github.io.git<br />
-  cd release-1.4<br />
-  mkdir -p ud-documentation-v1.4/html<br />
-  cp -r ../universaldependencies.github.io/* ud-documentation-v1.4/html<br />
-  rm -rf ud-documentation-v1.4/html/.git* ud-documentation-v1.4/html/not-to-release<br />
-  rm -f ud-documentation-v1.4/html/*/*/{AUX,aux}.html<br />
-  tar czf ud-documentation-v1.4.tgz ud-documentation-v1.4<br />
-  cd ..</code>
+* The following steps are now performed by the script <tt>tools/package_ud_release.sh</tt>.
+  You must first open the script and manually modify the RELEASE number on one of the initial lines! (This should become a
+  command-line argument in the future.)
+  * Create the release folder, copy there the repositories that contain .conllu data (skip empty repositories!) and erase files
+    that should not be released (`.gitignore`, `.git`, `not-to-release`). WARNING: The packaging script currently does not
+    detect repositories that contain data but their README says they should not be released yet!
+  * Prepare the current content of the tools repository as a separate package, also without `.git` and `.gitignore`.
+  * Prepare the current content of the docs repository as a separate package, also without `.git` and `.gitignore`.
+    Note that this is archiving the MarkDown _source code_ of the documentation. See below for archiving the corresponding HTML.
+  * The surface form of documentation (i.e. the web content visible to the reader) is automatically generated in a separate Github repository. WARNING! Many folders contain generated files `AUX.html` and `aux.html` (besides `AUX_.html` and `aux_.html`). These should _not_ be included in the package because that might prevent people from unpacking it in MS Windows (although some unpacking programs, like 7zip, will be able to overcome this by simply renaming the file to `_aux.html` before unpacking it). Note furthermore that we currently cannot force Jekyll (the page generator) to make all hyperlinks relative in order for the pages to work well offline. Many hyperlinks will be broken when viewing the pages, and the user will have to open individual pages from the file manager instead. However, it may still be useful to provide the HTML rendering, especially because of the embedded tree visualizations.
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
 * Tag the current commit in all repositories with the tag of the current release (`git tag r1.3` for UD 1.3).
   Push the tag to Github: `git push origin --tags`.
