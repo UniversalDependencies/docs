@@ -52,7 +52,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
   this is how you remove the tag from where it is now: `git tag -d r1.3`.
   And this is how you remove it from Github: `git push origin :refs/tags/r1.3`.<br />
-  <code>for i in UD_* docs tools ; do pushd $i ; git tag r1.3 ; git push --tags ; popd ; echo ; done</code>
+  <code>for i in UD_* docs tools ; do pushd $i ; git tag r1.4 ; git push --tags ; popd ; echo ; done</code>
 * Once the Lindat staff make the new license list available in their system, we can
   [create a new Lindat item](https://lindat.mff.cuni.cz/repository/xmlui/submit) for the new version of UD.
   (The server starts by asking you to “select a community”. Choose LINDAT / CLARIN.
