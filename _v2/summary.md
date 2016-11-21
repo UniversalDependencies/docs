@@ -12,10 +12,12 @@ Complete documentation of the new guidelines will follow as quickly as possible.
 
 ## Word segmentation
 
-* Allow words with spaces for languages where spaces mark something else than word boundaries (for example, syllable boundaries as in Vietnamese).
-* Allow words with spaces (in any language) for an approved (and restricted) list of exceptions like numbers (“100 000”) and abbreviations (“i. e.”).
+The ban on spaces inside words is lifted in v2 in two circumstances:
 
-More discussion about word segmentation can be found [here](segmentation.html)
+1. For languages with writing systems that use spaces to mark units smaller than word (typically syllables), spaces are allowed in any word provided that this is declared in the language-specific documentation.  
+2. For other languages, spaces are allowed for an approved and restricted list of exceptions like numbers ("100 000") and abbrevations ("i. e.") provided that these exceptions are listed explicitly in the language-specific documentation.
+
+More discussion about word segmentation can be found [here](segmentation.html).
 
 ## Part-of-speech tags
 
