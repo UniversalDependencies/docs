@@ -51,7 +51,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   You may even tag a particular commit retroactively: `git tag -a r1.3 9fceb02`.
   If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
   this is how you remove the tag from where it is now: `git tag -d r1.3`.
-  And this is how you remove it from Github: `git push origin :refs/tags/r1.3`.<br />
+  And this is how you remove it from Github: `git push origin :refs/tags/r1.3`.
+  WARNING: The following command tags all UD repositories, including those that are not part of the current release.<br />
   <code>for i in UD_* docs tools ; do pushd $i ; git tag r1.4 ; git push --tags ; popd ; echo ; done</code>
 * Once the Lindat staff make the new license list available in their system, we can
   [create a new Lindat item](https://lindat.mff.cuni.cz/repository/xmlui/submit) for the new version of UD.
