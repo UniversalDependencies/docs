@@ -40,7 +40,8 @@ The set of universal features is updated from v1 to v2 in the following ways:
     1. `Negative` → `Polarity`
     2. `Aspect=Pro` → `Aspect=Prosp`
     3. `VerbForm=Trans` → `VerbForm=Conv`
-    4. `NumType=Gen` → `NumType=Fold` [with a more restricted meaning]
+    4. `Definite=Red` → `Definite=Cons`
+    5. `NumType=Gen` → `NumType=Fold` [with a more restricted meaning]
 2. New features are added (or promoted to universal features):
     1. `Evident` (evidentiality) with value `Nfh` (non-first hand)
     2. `Polite` (politeness) with values `Infm` (informal), `Form` (formal), `Elev` (elevated status of referent; subtype of `Form`), `Humb` (humbled status of speaker; subtype of `Form`) 
