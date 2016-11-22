@@ -46,7 +46,7 @@ The set of universal features is updated from v1 to v2 in the following ways:
     1. `Evident` (evidentiality) with value `Nfh` (non-first hand)
     2. `Polite` (politeness) with values `Infm` (informal), `Form` (formal), `Elev` (elevated status of referent; subtype of `Form`), `Humb` (humbled status of speaker; subtype of `Form`) 
     3. `Abbr` (abbreviation) with value `Yes`
-    4. `Foreign` with value `Yes` [Dan: Do we want the three values instead?]
+    4. `Foreign` with value `Yes`
 3. New values are added (or promoted) to existing features:
     1. `Animacy=Hum` (human)
     2. `Case=Equ` (equative) and `Case=Cmp`(comparative)
