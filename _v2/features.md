@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Features in UD v2'
+udver:  '2'
 ---
 
 # Features in UD v2
