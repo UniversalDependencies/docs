@@ -38,7 +38,7 @@ The set of universal features is updated from v1 to v2 in the following ways:
 
 1. Existing features and feature values are renamed:
     1. `Negative` → `Polarity`
-    2. `Aspect=Pro` → `Aspect=Prosp` [Dan: Does this apply to `Aspect=Prog` as well?]
+    2. `Aspect=Pro` → `Aspect=Prosp`
     3. `VerbForm=Trans` → `VerbForm=Conv`
     4. `NumType=Gen` → `NumType=Fold` [with a more restricted meaning]
 2. New features are added (or promoted to universal features):
