@@ -55,9 +55,9 @@ The set of universal features is updated from v1 to v2 in the following ways:
     5. `Number=Count` (counting form or count plural), `Number=Tri` (trial), `Number=Pauc` (paucal), `Number=Grpa` (greater paucal), `Number=Grpl` (greater plural), `Number=Inv` (inverse number)
     6. `VerbForm=Gdv` (gerundive, not gerund), `VerbForm=Vnoun` (verbal nouns other than infinitives)
     7. `Mood=Pur` (purposive)
-    8. `Aspect=Iter` (iterative), `Aspect=Hab (habitual)`
+    8. `Aspect=Iter` (iterative), `Aspect=Hab` (habitual)
     9. `Voice=Mid` (middle voice), `Voice=Antip` (antipassive), `Voice=Dir` (direct), `Voice=Inv` (inverse)
-    10. `PronType=Emp` (emphatic), `PronType=Exc (exclamative)` 
+    10. `PronType=Emp` (emphatic), `PronType=Exc` (exclamative) 
     11. `Person=0`, `Person=4`
 4. Unused values are removed from existing features:
     1. `Tense=Nar` (narrative)
