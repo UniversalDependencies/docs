@@ -24,8 +24,8 @@ title:  'Universal Dependencies'
 
 <small>
 This is the online documentation for Universal Dependencies, version 1 (2014-10-01).
-Version 2 was planned for November 2016 but has been postponed until the spring of 2017.
-If you plan to start using the scheme, we recommend waiting for version 2. 
+**IMPORTANT**: The documentation for version 1 is now **frozen** and should not be edited anymore.
+It will be replaced by version 2 on December 1, 2016.  
 </small>
 
 
