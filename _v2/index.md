@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'UD v2'
+udver: '2'
 ---
 
 <!--# UD meeting in Prague, September 5-6, 2016
@@ -30,6 +31,8 @@ The following thematically organized reports summarize the most important change
 12. [Semantic categories](semantic-categories.html) <!--(Marie)-->
 13. [CoNLL-U format](conll-u.html) <!--(Filip)-->
 <!--14. [Minimal requirements for language-specific documentation](minimaldoc.html) (Dan)-->
+
+* [Summary](summary.html)
 
 The reports are meant to be self-contained, but for those who want to dig deeper there is more information about the discussions leading up to the proposal:
 
