@@ -23,7 +23,7 @@ udver: '2'
 
 * [CoNLL-U format](format.html)
 
-* [Executive summary of changes from v1 to v2](v2/summary.html)
+[Executive summary of changes from v1 to v2](v2/summary.html)
 
 <small>
 This is the online documentation for Universal Dependencies, version 2 (2016-12-01).
