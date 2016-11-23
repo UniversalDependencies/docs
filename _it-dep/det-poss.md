@@ -1,8 +1,16 @@
 ---
 layout: relation
 title: 'det:poss'
-shortdef: 'det:poss'
+shortdef: 'possesive determiner'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `det:poss`.
+Whenever there is a possessive determiner, we must use the subtype of <code>det</code> <code>det:poss</code>. Possessive determiners have the feature <code>Possessive</code> set on <code>Yes</code>.
+
+~~~ sdparse
+Sarà mia cura verificare 
+acl(cura, mia)
+~~~
+~~~ sdparse
+Ha da poco annunciato le proprie dimissioni. 
+acl(dimissioni, proprie)
+~~~
