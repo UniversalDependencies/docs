@@ -9,14 +9,14 @@ The dependent of a determiner relation is always a word of POS <code>DET</code>.
 
 ~~~ sdparse
 Alcune chiamate partirono da il Quirinale. 
-acl(chiamate, Alcune)
-acl(Quirinale, il)
+det(chiamate, Alcune)
+det(Quirinale, il)
 ~~~
 ~~~ sdparse
 E' finita la guerra? 
-acl(guerra, la)
+det(guerra, la)
 ~~~
 ~~~ sdparse
 Casi di questo genere. 
-acl(genere, questo)
+det(genere, questo)
 ~~~
