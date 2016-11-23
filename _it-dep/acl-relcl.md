@@ -4,7 +4,7 @@ title: 'acl:relcl'
 shortdef: 'acl:relcl'
 ---
 
-A relative clause is an instance of 'acl', characterized by finiteness and usually omission of the modified noun in the embedded clause. The noun can be omitted or, more frequently, substituted by a relative pronoun (*il quale*, *cui*), relative conjunction (*che*), or an adverb (*dove*). 
+A relative clause is an instance of <code>acl</code>, characterized by finiteness and usually omission of the modified noun in the embedded clause. The noun can be omitted or, more frequently, substituted by a relative pronoun (*il quale*, *cui*), relative conjunction (*che*), or an adverb (*dove*). 
 
 ~~~ sdparse
 L' inchiesta che coinvolge Bernard Tapie
@@ -23,7 +23,7 @@ Tutti gli esseri umani sanno di poter essere più di ciò che sono.
 acl:relcl(ciò, sono)
 ~~~
 
-'acl:relcl' is also used when the verb is omitted, for example in case of paritive complements introduced by *tra cui*, *fra cui*.
+<code>acl:relcl</code> is also used when the verb is omitted, for example in case of paritive complements introduced by *tra cui*, *fra cui*.
 
 ~~~ sdparse
 Persone tra cui molti bambini
