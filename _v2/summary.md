@@ -66,4 +66,10 @@ Revisions to the feature system have whenever possible been made to improve clar
 
 ## Syntactic relations 
 
+The set of universal relations is modified from v1 to v2 in the following respects:
+
+1. The `dobj` relation is renamed `obj` because this seems to be more easily reconcilable with the intended interpretation or "second core argument" or "P/A argument" without connection to a specific case or semantic role.
+2. The `nsubjpass`, `csubjpass` and `auxpass` relations are removed. The use of subtypes nsubj:pass, csubj:pass and aux:pass is strongly encouraged for languages where these distinctions are relevant. 
+3. The `nmod` relation, which in v1 was used for nominals (including prepositional phrases) modifying either predicates or other nominals, is in v2 restricted to modifying nominals. A new relation `obl` (oblique) is introduced for oblique dependents of predicates. (More discussion of 1-3 can be found [here](core-dependents.html).)
+
 ## The CoNLL-U format
