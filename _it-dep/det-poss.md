@@ -8,9 +8,9 @@ Whenever there is a possessive determiner, we must use the subtype of <code>det<
 
 ~~~ sdparse
 Sarà mia cura verificare 
-acl(cura, mia)
+det:poss(cura, mia)
 ~~~
 ~~~ sdparse
 Ha da poco annunciato le proprie dimissioni. 
-acl(dimissioni, proprie)
+det:poss(dimissioni, proprie)
 ~~~
