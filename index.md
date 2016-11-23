@@ -28,17 +28,14 @@ This is the online documentation for Universal Dependencies, version 2 (2016-12-
 Pages that have not yet been (fully) revised are marked: "This page still pertains to UD version 1."
 </small>
 
-# Want to know more?
-
-If you want to receive news about Universal Dependencies, you can subscribe to
-the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
-
-The following links provide more information about UD from different perspectives:
+# Want to know more about UD?
 
   * [Short introduction to Universal Dependencies](introduction.html)
   * [How to contribute to UD](contribute.html)
   * [Tools for working with UD](tools.html)
-  * [Language family documentation](family.html)
+
+If you want to receive news about Universal Dependencies, you can subscribe to
+the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 
 # UD Treebanks
 
@@ -68,3 +65,8 @@ You can query the UD treebanks on-line using
   maintained by the University of Turku, or
 * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/)
   maintained by the Charles University in Prague.
+
+# Language family documentation (experimental)
+
+* [Slavic language family documentation](slavic.html)
+* [Uralic language family documentation](uralic.html)
