@@ -13,3 +13,6 @@ Dulcis/X in/X fundo/X, il portamento.
 foreign(Dulcis, in)
 foreign(Dulcis, fundo)
 ~~~
+~~~ sdparse
+Token/TAG[Feat1=Val1|Feat2=Val2]
+~~~
