@@ -4,13 +4,13 @@ title: 'expl:impers'
 shortdef: 'expletive impersonal'
 ---
 
-<code>expl:impers</code> is a sub-class of expl, specific for impersonal use of the clitic pronoun. It can appear with verbs at the 3° singular person form only. Here the role of subject of the verb is played by the clitic itself, as an undefined subject.
+<code>expl:impers</code> is a sub-class of <code>expl</code>, specific for impersonal use of the clitic pronoun. It can appear with verbs at the 3° singular person form only. Here the role of subject of the verb is played by the clitic itself, as an undefined subject.
 ~~~ sdparse
 Si prevede che viaggerà.
 expl:impers(prevede, Si)
 ~~~
 
-If there's a clitic in a construction with a modal or an auxiliary verb, this is generally an impersonal construction. 
+If there's a clitic in a construction with a modal or an auxiliary verb, that is generally an impersonal construction. 
 ~~~ sdparse
 Si può procedere a sequestro.
 expl:impers(procedere, Si)
