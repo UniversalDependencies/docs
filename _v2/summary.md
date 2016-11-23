@@ -4,7 +4,7 @@ title:  'Executive Summary'
 udver:  '2'
 ---
 
-# Executive Summary
+# Changes from v1 to v2
 
 This document summarizes the major changes from v1 to v2 of the universal guidelines.
 The primary purpose is to provide a checklist for treebank developers who want to start the transition from v1 to v2.
