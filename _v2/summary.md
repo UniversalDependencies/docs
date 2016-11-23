@@ -66,10 +66,26 @@ Revisions to the feature system have whenever possible been made to improve clar
 
 ## Syntactic relations 
 
-The set of universal relations is modified from v1 to v2 in the following respects:
+For many syntactic relations, the guidelines in v2 have been improved by providing more explicit criteria and guiding examples from multiple languages. In the following subsections, we list only the cases where relations have been 
+removed, added or renamed, or where the use of an existing relation has changed significantly. 
 
-1. The `dobj` relation is renamed `obj` because this seems to be more easily reconcilable with the intended interpretation or "second core argument" or "P/A argument" without connection to a specific case or semantic role.
-2. The `nsubjpass`, `csubjpass` and `auxpass` relations are removed. The use of subtypes nsubj:pass, csubj:pass and aux:pass is strongly encouraged for languages where these distinctions are relevant. 
-3. The `nmod` relation, which in v1 was used for nominals (including prepositional phrases) modifying either predicates or other nominals, is in v2 restricted to modifying nominals. A new relation `obl` (oblique) is introduced for oblique dependents of predicates. (More discussion of 1-3 can be found [here](core-dependents.html).)
+### Clauses and dependents of predicates
+
+1. The `dobj` relation is renamed `obj` because this seems to be more easily reconcilable with the intended interpretation of "second core argument" or "P/A argument" (without connection to specific cases or semantic roles). [1](core-dependents.html)
+2. The `nsubjpass`, `csubjpass` and `auxpass` relations are removed. The use of subtypes nsubj:pass, csubj:pass and aux:pass is strongly encouraged for languages where these distinctions are relevant. [1](core-dependents.html)
+3. The `nmod` relation, which in v1 was used for nominals modifying either predicates or other nominals, is in v2 restricted to modifying nominals. A new relation `obl` (oblique) is introduced for oblique dependents of predicates. [1](core-dependents.html)
+4. ADD NONVERBAL PREDICATION HERE
+
+More discussion about 1-3 and 4 can be found in the sections on [core-dependents](core-dependents.html) and [copula and nonverbal predicates](copula.html), respectively.
+
+### Coordination and ellipsis 
+
+1. The `remnant` relation used to analyze ellipsis in v1 is removed. A new relation `orphan` is introduced in order to analyze ellipsis in a way that preserves the integrity of clauses and minimizes the use of special relations. [2](ellipsis)
+
+### Functional relations
+
+### Multiword expressions
+
+
 
 ## The CoNLL-U format
