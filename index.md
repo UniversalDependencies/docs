@@ -23,14 +23,12 @@ udver: '2'
 
 * [CoNLL-U format](format.html)
 
-[Executive summary of changes from v1 to v2](v2/summary.html)
-
 <small>
 This is the online documentation for Universal Dependencies, version 2 (2016-12-01).
 Pages marked "not v2 compliant" are still undergoing revision. 
-(The guidelines for v1 can be found ??somewhere??.)
 </small>
 
+[Executive summary of changes from v1 to v2](v2/summary.html)
 
 # UD Treebanks
 
