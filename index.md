@@ -23,10 +23,12 @@ udver: '2'
 
 * [CoNLL-U format](format.html)
 
+* [Executive summary of changes from v1 to v2](v2/summary.html)
+
 <small>
-This is the online documentation for Universal Dependencies, version 1 (2014-10-01).
-Version 2 was planned for November 2016 but has been postponed until the spring of 2017.
-If you plan to start using the scheme, we recommend waiting for version 2. 
+This is the online documentation for Universal Dependencies, version 2 (2016-12-01).
+Pages marked "not v2 compliant" are still undergoing revision. 
+(The guidelines for v1 can be found ??somewhere??.)
 </small>
 
 
