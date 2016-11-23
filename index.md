@@ -6,7 +6,7 @@ udver: '2'
 
 # Universal Dependencies
 
-[Introduction to Universal Dependencies](introduction.html)
+[Executive summary of changes from v1 to v2](v2/summary.html)
 
 * [Tokenization](u/overview/tokenization.html)
 * Morphology
@@ -25,10 +25,20 @@ udver: '2'
 
 <small>
 This is the online documentation for Universal Dependencies, version 2 (2016-12-01).
-Pages marked "not v2 compliant" are still undergoing revision. 
+Pages that have not yet been (fully) revised are marked: "This page still pertains to UD version 1."
 </small>
 
-[Executive summary of changes from v1 to v2](v2/summary.html)
+# Want to know more?
+
+If you want to receive news about Universal Dependencies, you can subscribe to
+the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
+
+The following links provide more information about UD from different perspectives:
+
+  * [Short introduction to Universal Dependencies](introduction.html)
+  * [How to contribute to UD](contribute.html)
+  * [Tools for working with UD](tools.html)
+  * [Language family documentation](family.html)
 
 # UD Treebanks
 
@@ -37,8 +47,6 @@ Pages marked "not v2 compliant" are still undergoing revision.
 </div>
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
-
-
 
 # Download
 
@@ -60,33 +68,3 @@ You can query the UD treebanks on-line using
   maintained by the University of Turku, or
 * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/)
   maintained by the Charles University in Prague.
-
-# Stay up to date
-
-If you want to receive news about Universal Dependencies, you can subscribe to
-the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
-
-New: A draft of [UD v2](v2/index.html) is now available.
-<!--See also the [list of open issues](issues.html)
-and what was decided about them at the [Uppsala meeting](2015-08-23-uppsala/index.html).
-New: preparing [v2](v2/index.html).-->
-<!--; report from the [Prague meeting](2016-09-05--06-prague/index.html).-->
-
-# Contribute to UD
-
-If you want to add a new language/treebank, please read the [instructions](language_metadata.html) for adding a new language and encoding its metadata.
-
-If you want to make a release of an existing treebank, please follow the steps in the [release checklist](release_checklist.html) and
-make sure your data shows as validating in the [format validation runs](validation.html).
-Check the [content validation](svalidation.html) for any suspicious patterns in the data;
-there are direct links to our treebank search that you can use to browse the suspicious data points.
-Check that the [list of contributors](contributors.html) is correct; this is gathered from the [metadata](language_metadata.html) in the READMEs. General instructions for contributing to the online documentation can be found [here](contributing.html).
-
-# Tools and additional documentation
-
-There is a separate [page about tools](tools.html) that are available for work with UD data.
-
-Direct links to the experimental language family documentation:
-
-* [Slavic language family documentation](slavic.html)
-* [Uralic language family documentation](uralic.html)
