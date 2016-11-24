@@ -18,7 +18,7 @@ The ban on spaces inside words in v1 is lifted in v2 in two circumstances:
 1. For languages with writing systems that use spaces to mark units smaller than word (typically syllables), spaces are allowed in any word provided that this is declared in the language-specific documentation.  
 2. For other languages, spaces are allowed only for an approved and restricted list of exceptions like numbers ("100 000") and abbrevations ("i. e.") that have to be listed explicitly in the language-specific documentation.
 
-More discussion about word segmentation can be found [here](segmentation.html).
+More discussion can be found in the section on [word segmentation](segmentation.html).
 
 ## Part-of-speech tags
 
@@ -30,7 +30,7 @@ The universal tagset from v1 is basically kept intact in v2 with two minor revis
     2. The use of `PART` is restricted to a small set of words that must be listed in the language-specific documentation.
     3. The borderline between `PRON` and `DET` is made more flexible to accommodate cross-linguistic variation. 
 
-More discussion about part-of-speech tags can be found [here](postags.html)
+More discussion can be found in the section on [part-of-speech tags](postags.html)
 
 ## Morphological features
 
@@ -62,7 +62,7 @@ The set of universal features is updated from v1 to v2 in the following ways:
 4. Unused values are removed from existing features:
     1. `Tense=Nar` (narrative)
     
-Revisions to the feature system have whenever possible been made to improve clarity and consistency with other systems such as UniMorph. More discussion about features can be found [here](features.html).
+Revisions to the feature system have whenever possible been made to improve clarity and consistency with other systems such as UniMorph. More discussion can be found in the section on [features](features.html).
 
 ## Syntactic relations 
 
@@ -74,7 +74,7 @@ removed, added or renamed, or where the use of an existing relation has changed 
 1. The `dobj` relation is renamed `obj` because this seems to be more easily reconcilable with the intended interpretation of "second core argument" or "P/A argument" (without connection to specific cases or semantic roles). 
 2. The `nsubjpass`, `csubjpass` and `auxpass` relations are removed. The use of subtypes nsubj:pass, csubj:pass and aux:pass is strongly encouraged for languages where these distinctions are relevant.
 3. The `nmod` relation, which in v1 was used for nominals modifying either predicates or other nominals, is in v2 restricted to modifying nominals. A new relation `obl` (oblique) is introduced for oblique dependents of predicates. 
-4. ADD NONVERBAL PREDICATION HERE
+4. The `cop` relation is restricted to function words (verbal or nonverbal) whose sole function is to link a nonverbal predicate to its subject and which does not add any meaning other than grammaticalized TAMVE categories. The range of constructions that are analyzed using the `cop` relation is subject to language-specific variation but can be identified using universal guidelines.
 
 More discussion about 1-3 and 4 can be found in the sections on [core-dependents](core-dependents.html) and [copula and nonverbal predicates](copula.html), respectively.
 
