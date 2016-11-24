@@ -8,24 +8,24 @@ The root grammatical relation points to the root of the sentence, this means tha
 In Italian the root is usually a verbal predicate, unless we are analysing a nominal phrase, where the root is a noun. 
 
 ~~~ sdparse
-Alcune chiamate partirono/VERB da il Quirinale .
-root(partirono, )
+ROOT Alcune chiamate partirono/VERB da il Quirinale .
+root(ROOT, partirono)
 ~~~
 ~~~ sdparse
-Questa ricchezza è tutta apparenza/NOUN .
-root(apparenza, )
+ROOT Questa ricchezza è tutta apparenza/NOUN .
+root(ROOT, apparenza)
 cop(apparenza, è)
 ~~~
 ~~~ sdparse
-Ecco l' arringa/NOUN di Tiziana Maiolo .
-root(arringa, )
+ROOT Ecco l' arringa/NOUN di Tiziana Maiolo .
+root(ROOT, arringa)
 ~~~
 
 If the main predicate is not present due to ellipsis and there are multiple orphaned dependents, the leftmost dependent should be promoted to the head (<code>root</code>) position and the other orphans should be attached to it.
 
 ~~~ sdparse
 Sorpresa/NOUN in la sorpresa .
-root(Sorpresa, )
+root(ROOT, Sorpresa)
 nmod(Sorpresa, sorpresa)
 punct(Sorpresa, .)
 ~~~
