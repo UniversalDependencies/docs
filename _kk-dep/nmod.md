@@ -32,4 +32,7 @@ obj(тастады-7, экономикасын-5)
 
 or definite:
 
+*Object of comparison:*
+
+Nouns in ablative case which depend on adjectives as object of comparison get `nmod:comp`:
 
