@@ -80,7 +80,7 @@ More discussion about 1-3 and 4 can be found in the sections on [core-dependents
 
 ### Coordination and ellipsis 
 
-1. ADD COORDINATION HERE
+1. Coordinating conjunctions (`cc`) and punctuation (`punct`) are in v2 attached to the immediately succeding conjunct (instead of the first conjunct as in v1).
 2. The `remnant` relation used to analyze ellipsis in v1 is removed. A new relation `orphan` is introduced in order to analyze ellipsis in a way that preserves the integrity of clauses and minimizes the use of special relations. 
 
 More discussion about 1 and 2 can be found in the sections on [coordination](coordination.html) and [ellipsis](ellipsis.html), respectively.
