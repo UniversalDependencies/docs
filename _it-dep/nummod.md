@@ -9,16 +9,15 @@ In Italian it is only attested with POS <code>NUM</code> and indices of lists.
 
 ~~~ sdparse
 Corriere Sport da pagina 23 a pagina 26 .
-nummod(pagina, 23)
-nummod(pagina, 26)
+nummod(pagina-4, 23)
+nummod(pagina-7, 26)
 ~~~
 ~~~ sdparse
 Feb 26 , 2014 .
 nummod(Feb, 26)
 ~~~
 ~~~ sdparse
-a) trasporti ad hoc \n
-b) emanazione di norme nazionali
+a ) trasporti ad hoc \n b ) emanazioni di norme nazionali
 nummod(trasporti, a)
-nummod(emanazione, b)
+nummod(emanazioni , b)
 ~~~
