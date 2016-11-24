@@ -4,7 +4,7 @@ title:  'Segmentation in UD v2'
 udver: '2'
 ---
 
-# Segmentation in UD v2
+# Word segmentation in UD v2
 
 The UD scheme makes a distinction between **tokens**, word-like elements that can be identified using simple rules, often relying (only) on whitespace and punctuation, and **words**, which are the linguistically relevant word units needed for morphological and syntactic analysis. In v1, it was assumed that words would never contain spaces, and that "multitoken words" should always be handled using special relations like [u-dep/mwe]() and [u-dep/goeswith](). For v2, we relax this assumption in two ways:
 
