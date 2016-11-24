@@ -14,7 +14,7 @@ advmod(abbatte, indistintamente)
 ~~~
 ~~~ sdparse
 Poco dopo li fucilarono
-advmod(dopo, poco)
+advmod(dopo, Poco)
 advmod(fucilarono, dopo)
 ~~~
 ~~~ sdparse
