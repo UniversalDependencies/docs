@@ -4,7 +4,7 @@ title: 'root'
 shortdef: 'root'
 ---
 
-The root grammatical relation points to the root of the sentence, so there's only one root for each sentence. \n In Italian the root is usually a verbal predicate, unless we are analysing a nominal phrase, where the root is a noun. 
+The root grammatical relation points to the root of the sentence, so there's only one root for each sentence. In Italian the root is usually a verbal predicate, unless we are analysing a nominal phrase, where the root is a noun. 
 
 ~~~ sdparse
 ROOT Alcune chiamate partirono/VERB da il Quirinale .
