@@ -42,9 +42,9 @@ name(Mariatersa, Lascia)
 case(Lascia, Di)
 ~~~
 ~~~ sdparse
-Università di Pristina
+Università di Pristina 
 name(Università, Pristina)
-case(Pristina, Di)
+case(Pristina, di)
 ~~~
 
 
