@@ -14,7 +14,7 @@ Allora mi sono innervosita .
 expl(innervosita, mi)
 ~~~
 ~~~ sdparse
-Dove si trova Hebron?
+Dove si trova Hebron ?
 expl(trova, si)
 ~~~
 
@@ -26,7 +26,7 @@ expl(massacrano, si)
 ~~~
 ~~~ sdparse
 Si erano slegati tra loro .
-expl(slegati, si)
+expl(slegati, Si)
 ~~~
 
 *	Existential construction with verb to be (*c'è*, *ci sono*).
@@ -37,9 +37,8 @@ expl(sono, ci)
 ~~~
 ~~~ sdparse
 C'è gente nuova da ieri in pista .
-expl(è, c')
+expl(è, C')
 ~~~
 
-**NB** 
-Whenever possible, clitic pronouns are assigned a label that reflect their grammatical function. For this reason, in case the pronoun appears in a reflexive construction of a transitive or intransitive active verb, than is treated as <code>dobj</code> or <code>iobj</code>. 
+**NB** Whenever possible, clitic pronouns are assigned a label that reflect their grammatical function. For this reason, if the pronoun appears in a reflexive construction of a transitive or intransitive active verb, than it's treated as <code>dobj</code> or <code>iobj</code>. 
 In Italian clitics also appears in passive and impersonal constructions. For that, see the subclasses [expl:pass]() and [expl:impers]().
