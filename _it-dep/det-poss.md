@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'det:poss'
-shortdef: 'possesive determiner'
+shortdef: 'possessive determiner'
 ---
 
 Whenever there is a possessive determiner, we must use the subtype of <code>det</code> <code>det:poss</code>. Possessive determiners have the feature <code>Possessive</code> set on <code>Yes</code>.
