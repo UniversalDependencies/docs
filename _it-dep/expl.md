@@ -7,7 +7,7 @@ shortdef: 'expletive'
 This relation captures expletive or pleonastic nominals. These are nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective) is the governor. 
 In Italian, this relation is used only with clitic pronouns in the following cases:
 
-*	1. Pronouns in pronominal verbs which do not have a semantic role, such as *si* in *vergognarsi*.
+*	Pronouns in pronominal verbs which do not have a semantic role, such as *si* in *vergognarsi*.
 ~~~ sdparse
 Allora mi sono innervosita .
 expl(innervosita, mi)
@@ -17,7 +17,7 @@ Dove si trova Hebron?
 expl(trova, si)
 ~~~
 
-* 2. For verbs which are true reflexives.
+* For verbs which are true reflexives.
 ~~~ sdparse
 E si massacrano ancora .
 expl(massacrano, si)
@@ -27,7 +27,7 @@ Si erano slegati tra loro .
 expl(slegati, si)
 ~~~
 
-*	3. Existential construction with verb to be (*c'è*, *ci sono*).
+*	Existential construction with verb to be (*c'è*, *ci sono*).
 ~~~ sdparse
 In armeria ci sono 300 armature .
 expl(sono, ci)
