@@ -9,7 +9,7 @@ In Italian, this relation is used only with clitic pronouns in the following cas
 
 *	1. Pronouns in pronominal verbs which do not have a semantic role, such as *si* in *vergognarsi*.
 ~~~ sdparse
-Allora mi sono innervosita
+Allora mi sono innervosita .
 expl(innervosita, mi)
 ~~~
 ~~~ sdparse
@@ -19,21 +19,21 @@ expl(trova, si)
 
 * 2. For verbs which are true reflexives.
 ~~~ sdparse
-E si massacrano ancora.
+E si massacrano ancora .
 expl(massacrano, si)
 ~~~
 ~~~ sdparse
-Si erano slegati tra loro.
+Si erano slegati tra loro .
 expl(slegati, si)
 ~~~
 
 *	3. Existential construction with verb to be (*c'è*, *ci sono*).
 ~~~ sdparse
-In armeria ci sono 300 armature.
+In armeria ci sono 300 armature .
 expl(sono, ci)
 ~~~
 ~~~ sdparse
-C'è gente nuova da ieri in pista
+C'è gente nuova da ieri in pista .
 expl(è, c')
 ~~~
 
