@@ -8,7 +8,7 @@ The <code>nmod</code> relation is used for nominal modifiers. They depend either
 In Italian, <code>nmod</code> is used for non-prepositional and prepositional complements; the most common complements are temporal, place and specification. 
 
 ~~~ sdparse
-Vi sono migliaia di casi di questo genere. 
+Vi sono migliaia di casi di questo genere . 
 nmod(migliaia, casi)
 nmod(casi, genere)
 ~~~
@@ -18,7 +18,7 @@ nmod(dirige, '93)
 nmod(Festival, Taormina)
 ~~~
 ~~~ sdparse
-Esodo controllato a Civitavecchia. 
+Esodo controllato a Civitavecchia . 
 nmod(Esodo, Civitavecchia)
 ~~~
 ~~~ sdparse
