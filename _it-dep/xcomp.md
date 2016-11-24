@@ -4,8 +4,8 @@ title: 'xcomp'
 shortdef: 'open clausal complement'
 ---
 
-An open clausal complement (<code>xcomp</code>) of a verb, or an adjective, is a predicative or clausal complement without its own subject. \nThe reference of the subject is necessarily determined by an argument external to the <code>xcomp</code> (usually by the object, if there is one, or else by the subject of the next higher clause). This reference is often referred to as **obligatory control**, that is there should be no available interpretation where the subject of the lower clause may be distinct from the specified role of the upper clause (in case the subject may or must be distinct from the subject of the higher clause, <code>ccomp</code> should be used). 
-These clauses appear always with non finite verbs or participle, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers.
+An open clausal complement (<code>xcomp</code>) of a verb, or an adjective, is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the <code>xcomp</code> (usually by the object, if there is one, or else by the subject of the next higher clause). This reference is often referred to as **obligatory control**, that is there should be no available interpretation where the subject of the lower clause may be distinct from the specified role of the upper clause (in case the subject may or must be distinct from the subject of the higher clause, <code>ccomp</code> should be used). 
+The predicates of these clauses appear always as a non finite verbs or participle, and they are  core complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers.
 
 ~~~ sdparse
 Evitate di parlare/VERB tra voi 
@@ -44,7 +44,7 @@ Il caso è diventato un' emergenza .
 xcomp(diventato, emergenza)
 ~~~
 
-**NB** <code>xcomp</code> can be used only when the element is a core argument of a clausal predicate. If the element is not a core argument <code>acl</code> should be used. Consider the example below, where we have a case of double predication (*Sono stati ritrovati.* *Erano sani e salvi*; They were found. They were safe and sound). But *sani e salvi* is not a core argument of *ritrovare*: leaving it out will neither affect grammaticality nor significantly alter the meaning of the verb.
+**NB** <code>xcomp</code> can be used only when the element is a core argument of a clausal predicate. If the element is not a core argument <code>acl</code> should be used. Consider the example below, where we have a case of double predication (*Sono stati ritrovati.* They were found. *Erano sani e salvi.* They were safe and sound). But *sani e salvi* is not a core argument of *ritrovare*: leaving it out will neither affect grammaticality nor significantly alter the meaning of the verb.
 
 ~~~ sdparse
 Sono stati ritrovati sani e salvi cinque americani
