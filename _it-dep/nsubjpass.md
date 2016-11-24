@@ -11,7 +11,7 @@ Orejuela è stato trasferito a Bogotà.
 nsubjpass(trasferito, Orejuela)
 ~~~
 ~~~ sdparse
-Vengono applicate placche.
+Vengono applicate placche .
 nsubjpass(applicate, placche)
 ~~~
 ~~~ sdparse
