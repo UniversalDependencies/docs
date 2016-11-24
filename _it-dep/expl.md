@@ -8,6 +8,7 @@ This relation captures expletive or pleonastic nominals. These are nominals that
 In Italian, this relation is used only with clitic pronouns in the following cases:
 
 *	Pronouns in pronominal verbs which do not have a semantic role, such as *si* in *vergognarsi*.
+
 ~~~ sdparse
 Allora mi sono innervosita .
 expl(innervosita, mi)
@@ -18,6 +19,7 @@ expl(trova, si)
 ~~~
 
 * For verbs which are true reflexives.
+
 ~~~ sdparse
 E si massacrano ancora .
 expl(massacrano, si)
@@ -28,6 +30,7 @@ expl(slegati, si)
 ~~~
 
 *	Existential construction with verb to be (*c'è*, *ci sono*).
+
 ~~~ sdparse
 In armeria ci sono 300 armature .
 expl(sono, ci)
