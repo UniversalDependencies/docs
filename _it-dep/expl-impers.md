@@ -4,7 +4,7 @@ title: 'expl:impers'
 shortdef: 'expletive impersonal'
 ---
 
-The relation <code>expl:impers</code> is a sub-class of <code>expl</code>, specific for the impersonal use of the clitic pronoun. Here the role of subject of the verb is played by the clitic itself, as an undefined subject.
+The relation <code>expl:impers</code> is a sub-class of <code>expl</code>, specific for the impersonal use of the clitic pronoun *si*. We can have an impersonal construction for every verb (transitive or intransitive) when the role of subject is played by the clitic itself, as an undefined subject.
 
 ~~~ sdparse
 Si prevede che viaggerà .
