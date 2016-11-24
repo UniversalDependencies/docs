@@ -24,7 +24,7 @@ root(ROOT, arringa)
 If the main predicate is not present due to ellipsis and there are multiple orphaned dependents, the leftmost dependent should be promoted to the head (<code>root</code>) position and the other orphans should be attached to it.
 
 ~~~ sdparse
-Sorpresa/NOUN in la sorpresa .
+ROOT Sorpresa/NOUN in la sorpresa .
 root(ROOT, Sorpresa)
 nmod(Sorpresa, sorpresa)
 punct(Sorpresa, .)
