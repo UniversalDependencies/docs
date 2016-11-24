@@ -74,18 +74,26 @@ removed, added or renamed, or where the use of an existing relation has changed 
 1. The `dobj` relation is renamed `obj` because this seems to be more easily reconcilable with the intended interpretation of "second core argument" or "P/A argument" (without connection to specific cases or semantic roles). 
 2. The `nsubjpass`, `csubjpass` and `auxpass` relations are removed. The use of subtypes nsubj:pass, csubj:pass and aux:pass is strongly encouraged for languages where these distinctions are relevant.
 3. The `nmod` relation, which in v1 was used for nominals modifying either predicates or other nominals, is in v2 restricted to modifying nominals. A new relation `obl` (oblique) is introduced for oblique dependents of predicates. 
-4. The `cop` relation is restricted to function words (verbal or nonverbal) whose sole function is to link a nonverbal predicate to its subject and which does not add any meaning other than grammaticalized TAMVE categories. The range of constructions that are analyzed using the `cop` relation is subject to language-specific variation but can be identified using universal guidelines.
+4. The `cop` relation is restricted to function words (verbal or nonverbal) whose sole function is to link a nonverbal predicate to its subject and which does not add any meaning other than grammaticalized TAME categories. The range of constructions that are analyzed using the `cop` relation is subject to language-specific variation but can be identified using universal guidelines.
 
 More discussion about 1-3 and 4 can be found in the sections on [core-dependents](core-dependents.html) and [copula and nonverbal predicates](copula.html), respectively.
 
 ### Coordination and ellipsis 
 
-1. Coordinating conjunctions (`cc`) and punctuation (`punct`) are in v2 attached to the immediately succeding conjunct (instead of the first conjunct as in v1).
+1. Coordinating conjunctions (`cc`) and punctuation (`punct`) inside coordinated structures are in v2 attached to the immediately succeding conjunct (instead of the first conjunct as in v1).
 2. The `remnant` relation used to analyze ellipsis in v1 is removed. A new relation `orphan` is introduced in order to analyze ellipsis in a way that preserves the integrity of clauses and minimizes the use of special relations. 
 
 More discussion about 1 and 2 can be found in the sections on [coordination](coordination.html) and [ellipsis](ellipsis.html), respectively.
 
 ### Functional relations
+
+1. A new relation `clf` (classifier) is added for nominal classifiers.
+2. The `aux` relation is extended from auxiliary verbs in a narrow sense to also include nonverbal TAME particles (in analogy with the extended use of the part-of-speech tag `AUX`).
+3. The `auxpass` relation is removed from the set of universal relations (see above).
+4. The `cop` relation is restricted to pure linking words (see above).
+5. The `neg` relation is removed from the set of universal relations, and polarity is instead encoded in a feature.
+
+More discussion about 1-3 and 4 can be found in the sections on [functional relations](function.html) and [semantic categories](semantic-categories.html), respectively.
 
 ### Multiword expressions
 
