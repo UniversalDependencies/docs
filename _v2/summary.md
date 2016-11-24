@@ -110,6 +110,6 @@ The following changes in the CoNLL-U format are adopted for v2:
 1. Spaces are allowed in the FORM and LEMMA fields (see above).
 2. Rows corresponding to empty nodes, with an indexing scheme distinct from both tokens and words, are allowed for the representation of ellipsis in the enhanced dependencies.
 3. Sentence-level metadata are standardized using the comment prefixes `sent_id` and `text`, of which the former is now obligatory in all treebanks.
-4. The use of the MISC field is restricted for ease of processing by requiring that it can be split on the `\|` (bar) character without any complex processing of escaping.
+4. The use of the MISC field is restricted for ease of processing by requiring that it can be split on the `|` (bar) character without any complex processing of escaping.
 
 More discussion can be found in the section on the [CoNLL-U format](conll-u.html)
