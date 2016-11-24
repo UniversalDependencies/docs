@@ -8,7 +8,7 @@ This is used for interjections and other discourse particles and elements (which
 
 ~~~ sdparse
 Grazie Italia , ti ho dato l' oro .
-discourse(datdatoo, Grazie)
+discourse(dato, Grazie)
 ~~~
 ~~~ sdparse
 Sì , proprio l' Italia .
