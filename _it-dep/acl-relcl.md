@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'acl:relcl'
-shortdef: 'acl:relcl'
+shortdef: 'relative clauses'
 ---
 
 A relative clause is an instance of <code>acl</code>, characterized by finiteness and usually omission of the modified noun in the embedded clause. The noun can be omitted or, more frequently, substituted by a relative pronoun (*il quale*, *cui*), relative conjunction (*che*), or an adverb (*dove*). 
