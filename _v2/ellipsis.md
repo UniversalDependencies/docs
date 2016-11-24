@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Ellipsis in UD v2'
-udver: 2
+udver: '2'
 ---
 
 # Ellipsis in UD v2
