@@ -97,6 +97,10 @@ More discussion about 1-3 and 4 can be found in the sections on [functional rela
 
 ### Multiword expressions
 
+1. The `mwe` relation is renamed `fixed` to make clear that it is only to be used for fixed grammaticized expressions that behave like function words or short adverbials.
+2. The `name` relation is removed because it has been misinterpreted as applying to all names. A new relation `flat` is added for semi-fixed multiword expressions for which there is no clear evidence that one of the components is the linguistic head. This covers the originally intended use of the `name` relation but also other cases like title-name combinations and some numerical expressions. 
+3. The `compound` relation is extended to cover all types of complex predicates including not only particle verbs (`compound:prt`) but also serial verbs (`compound:svc`).
 
+More discussion can be found in the sections on [multiword expressions](mwe.html) and [semantic categories](semantic-categories.html).
 
 ## The CoNLL-U format
