@@ -8,11 +8,11 @@ The negation modifier is the relation between a negation word and the word it mo
 All the instances of <code>neg</code> relation in Italian apply to POS <code>ADV</code> elements.
 
 ~~~ sdparse
-Non è mai stato accertato. 
+Non è mai stato accertato . 
 neg(accertato, Non)
 ~~~
 ~~~ sdparse
-Non in base a l'estensione del terreno. 
+Non in base a l'estensione del terreno . 
 neg(base, Non)
 ~~~
 ~~~ sdparse
@@ -20,6 +20,6 @@ Neanche per il celebre Protezione erano state incontrate simili resistenze.
 neg(Protezione, Neanche)
 ~~~
 ~~~ sdparse
-Loro no. 
+Loro no . 
 neg(Loro, no)
 ~~~
