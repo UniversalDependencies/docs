@@ -17,7 +17,7 @@ cop(ambiziosi, sono)
 ~~~
 ~~~ sdparse
 Secondo l' Onu sono 200 mila le persone
-nsubj(persone, mila)
+nsubj(mila, persone)
 compound(mila, 200)
 cop(mila, sono)
 ~~~

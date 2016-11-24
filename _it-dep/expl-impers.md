@@ -4,21 +4,24 @@ title: 'expl:impers'
 shortdef: 'expletive impersonal'
 ---
 
-<code>expl:impers</code> is a sub-class of <code>expl</code>, specific for impersonal use of the clitic pronoun. It can appear with verbs at the 3° singular person form only. Here the role of subject of the verb is played by the clitic itself, as an undefined subject.
+The relation <code>expl:impers</code> is a sub-class of <code>expl</code>, specific for the impersonal use of the clitic pronoun *si*. We can have an impersonal construction for every verb (transitive or intransitive) when the role of subject is played by the clitic itself, as an undefined subject.
+
 ~~~ sdparse
-Si prevede che viaggerà.
+Si prevede che viaggerà .
 expl:impers(prevede, Si)
 ~~~
 
-If there's a clitic in a construction with a modal or an auxiliary verb, that is generally an impersonal construction. 
+If there's a clitic in a construction with a modal or an auxiliary verb, than generally it is an impersonal construction. 
+
 ~~~ sdparse
-Si può procedere a sequestro.
+Si può procedere a sequestro .
 expl:impers(procedere, Si)
 ~~~
 
-In the construction with both *ci* and *si* (construction of the impersonal *ci*), the first is marked as <code>expl</code>, while *si* as <code>expl:impers</code>, as follows.  
+In the construction with both *ci* and *si* (construction of the impersonal *ci*), the first clitic is marked as <code>expl</code>, while *si* as <code>expl:impers</code>, as follows.  
+
 ~~~ sdparse
-E' stata quello che ci si attendeva.
+E' stata quello che ci si attendeva .
 expl:impers(attendeva, si)
 expl(attendeva, ci)
 ~~~

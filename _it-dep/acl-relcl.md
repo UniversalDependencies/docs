@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'acl:relcl'
-shortdef: 'acl:relcl'
+shortdef: 'relative clauses'
 ---
 
 A relative clause is an instance of <code>acl</code>, characterized by finiteness and usually omission of the modified noun in the embedded clause. The noun can be omitted or, more frequently, substituted by a relative pronoun (*il quale*, *cui*), relative conjunction (*che*), or an adverb (*dove*). 
@@ -19,14 +19,14 @@ In un bar di piazza San Giovanni dove hanno fatto irruzione gli agenti
 acl:relcl(bar, fatto)
 ~~~
 ~~~ sdparse
-Tutti gli esseri umani sanno di poter essere più di ciò che sono.
+Tutti gli esseri umani sanno di poter essere più di ciò che sono .
 acl:relcl(ciò, sono)
 ~~~
 
 <code>acl:relcl</code> is also used when the verb is omitted, for example in case of paritive complements introduced by *tra cui*, *fra cui*.
 
 ~~~ sdparse
-Persone tra cui molti bambini
-acl:relcl(persone, bambini)
+Persone tra cui molti bambini .
+acl:relcl(Persone, bambini)
 ~~~
 
