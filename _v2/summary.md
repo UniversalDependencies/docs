@@ -26,7 +26,7 @@ The universal tagset from v1 is basically kept intact in v2 with two minor revis
 
 1. The tag `CONJ` is renamed `CCONJ` to make it more similar to the syntactic relation `cc` (and less similar to `conj`).
 2. The guidelines for tags are modified in three cases:
-    1. The use of `AUX` is extended from auxiliary verbs in a narrow sense to also include copula verbs and nonverbal TAMVE particles (tense, aspect, mood, evidentiality, and, sometimes, voice or polarity particles).
+    1. The use of `AUX` is extended from auxiliary verbs in a narrow sense to also include copula verbs and nonverbal TAME particles (tense, aspect, mood, evidentiality, and, sometimes, voice or polarity particles).
     2. The use of `PART` is restricted to a small set of words that must be listed in the language-specific documentation.
     3. The borderline between `PRON` and `DET` is made more flexible to accommodate cross-linguistic variation. 
 
@@ -74,7 +74,7 @@ removed, added or renamed, or where the use of an existing relation has changed 
 1. The `dobj` relation is renamed `obj` because this seems to be more easily reconcilable with the intended interpretation of "second core argument" or "P/A argument" (without connection to specific cases or semantic roles). 
 2. The `nsubjpass`, `csubjpass` and `auxpass` relations are removed. The use of subtypes nsubj:pass, csubj:pass and aux:pass is strongly encouraged for languages where these distinctions are relevant.
 3. The `nmod` relation, which in v1 was used for nominals modifying either predicates or other nominals, is in v2 restricted to modifying nominals. A new relation `obl` (oblique) is introduced for oblique dependents of predicates. 
-4. The `cop` relation is restricted to function words (verbal or nonverbal) whose sole function is to link a nonverbal predicate to its subject and which does not add any meaning other than grammaticalized TAMVE categories. The range of constructions that are analyzed using the `cop` relation is subject to language-specific variation but can be identified using universal guidelines.
+4. The `cop` relation is restricted to function words (verbal or nonverbal) whose sole function is to link a nonverbal predicate to its subject and which does not add any meaning other than grammaticalized TAME categories. The range of constructions that are analyzed using the `cop` relation is subject to language-specific variation but can be identified using universal guidelines.
 
 More discussion about 1-3 and 4 can be found in the sections on [core-dependents](core-dependents.html) and [copula and nonverbal predicates](copula.html), respectively.
 
@@ -88,7 +88,7 @@ More discussion about 1 and 2 can be found in the sections on [coordination](coo
 ### Functional relations
 
 1. A new relation `clf` (classifier) is added for nominal classifiers.
-2. The `aux` relation is extended from auxiliary verbs in a narrow sense to also include nonverbal TAMVE particles (in analogy with the extended use of the part-of-speech tag `AUX`).
+2. The `aux` relation is extended from auxiliary verbs in a narrow sense to also include nonverbal TAME particles (in analogy with the extended use of the part-of-speech tag `AUX`).
 3. The `auxpass` relation is removed from the set of universal relations (see above).
 4. The `cop` relation is restricted to pure linking words (see above).
 5. The `neg` relation is removed from the set of universal relations, and polarity is instead encoded in a feature.
