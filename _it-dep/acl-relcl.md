@@ -23,7 +23,7 @@ Tutti gli esseri umani sanno di poter essere più di ciò che sono .
 acl:relcl(ciò, sono)
 ~~~
 
-<code>acl:relcl</code> is also used when the verb is omitted, for example in case of partitive complements introduced by *tra cui*, *fra cui*.
+<code>acl:relcl</code> is also used for case of partitive relative clauses, i.e. propositional phrases introduced by *tra cui*, *fra cui* where the verb of the subordinate clause can be elided.
 
 ~~~ sdparse
 Persone tra cui molti bambini .
