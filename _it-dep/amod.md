@@ -36,7 +36,7 @@ advmod(possibile, più)
 There are no instances of adjectives as sentence root in Italian, unless they are part of a verbal predicate with the verb *essere* as copula. 
 
 ~~~ sdparse
-ROOT I magistrati sono inamovibili .
+ROOT I magistrati sono inamovibili/ADJ .
 root(ROOT, inamovibili)
 cop(inamovibili, sono)
 ~~~
