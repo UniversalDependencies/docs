@@ -7,23 +7,23 @@ shortdef: 'auxiliary'
 redirect_from: "it/dep/aux.html"
 ---
 
-An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxiliary (potere _to can_ or dovere _must_), or a form of essere _to be_, avere _to have_ or stare in a periphrastic tense. Note that the auxiliary verb used to construct the passive voice (essere or venire) is not labeled aux but auxpass.
+An auxiliary of a clause is a non-main verb of the clause. In Italian the two main auxiliary verbs are form of *essere* (to be), *avere* (to have); in periphrastic tenses with the progressive form is used the verb *stare* instead. Modals are also marked as auxiliary (*fare* to do, *sapere* to know, *volere* to want, *potere* to can or *dovere* must). 
 
-* auxiliary avere
+* auxiliary *avere*
 
 ~~~ sdparse
 hanno sparato a sangue freddo
 aux(sparato, hanno)
 ~~~
 
-* auxiliary essere
+* auxiliary *essere*
 
 ~~~ sdparse
 il sequestro era avvenuto
 aux(avvenuto, era)
 ~~~
 
-* auxiliary stare
+* auxiliary *stare*
 
 ~~~ sdparse
 stavano realizzando un serbatoio
@@ -40,3 +40,5 @@ aux(ascoltare, potuto)
 dovrà sparire la figura
 aux(sparire, dovrà)
 ~~~
+
+Note that the auxiliary verb used to construct the passive voice is not labeled <code>aux</code> but [auxpass]().
