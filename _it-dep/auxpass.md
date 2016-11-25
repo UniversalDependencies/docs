@@ -4,7 +4,7 @@ title: 'auxpass'
 shortdef: 'passive auxiliary'
 ---
 
-A passive auxiliary (essere / venire) of a clause is a non-main verb of the clause which contains the passive information.
+A passive auxiliary (*essere*/*venire*) of a clause is a non-main verb of the clause which conveys informationa about the passive voice. Sometimes the verb essere to be can be substituted by other verbs that assume the same function, like andare (to go), generally to express need, and venire (to come).
 
 ~~~ sdparse
 L' escursione era guidata da Castiglioni
