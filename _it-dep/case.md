@@ -4,8 +4,16 @@ title: 'case'
 shortdef: 'case marking'
 ---
 
-In Italian, the case relation is used for any preposition introducing a noun, pronoun, adjective, adverb. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, contrary to previous versions of the Italian Treebank, UD does not treat a preposition as a mediator between a modified word and its object. The case relation aims at providing a more uniform analysis of prepositions and case in morphologically rich languages.
+In Italian, the case relation is used for any preposition introducing a noun, pronoun, adjective or adverb. Prepositions are treated as dependents of the element they attach to (or introduce) in an “extended nominal projection”. 
 
+~~~ sdparse
+Avevano da poco lasciato la cima
+case(poco, da)
+~~~
+~~~ sdparse
+Camminata da spia
+case(spia, da)
+~~~
 ~~~ sdparse
 Sono d' accordo su il principio
 case(principio, su)
@@ -18,4 +26,26 @@ il ministro di l' Interno
 case(Interno, di)
 det(Interno, l')
 nmod(ministro, Interno)
+~~~
+
+The <code>case</code> relation can also be used for multiword expression introducing a complement. 
+
+~~~ sdparse
+Prima di tutto 
+case(tutto, Prima)
+mwe(Prima, di)
+~~~
+
+If the head of the relation is a verb in a subordinate clause, than the correct relation is [mark](). If the verb is used as a noun infinitive, than <code>case</code> is the correct relation.
+
+~~~ sdparse
+La consegna consiste in il fare ronde notturne .
+case(fare, in)
+det(fare, il)
+~~~
+~~~ sdparse
+Si finisce con l' esaltare il genio maschile .
+case(esaltare, con)
+det(esaltare, l')
+nmod(finisce, esaltare)
 ~~~
