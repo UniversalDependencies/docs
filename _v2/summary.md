@@ -93,7 +93,7 @@ More discussion about 1 and 2 can be found in the sections on [coordination](coo
 4. The `cop` relation is restricted to pure linking words (see above).
 5. The `neg` relation is removed from the set of universal relations, and polarity is instead encoded in a feature.
 
-More discussion about 1-3 and 4 can be found in the sections on [functional relations](function.html) and [semantic categories](semantic-categories.html), respectively.
+More discussion about 1-4 and 5 can be found in the sections on [functional relations](function.html) and [semantic categories](semantic-categories.html), respectively.
 
 ### Multiword expressions
 
