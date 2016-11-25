@@ -44,13 +44,13 @@ mwe(di, per)
 mwe(di, sé)
 ~~~
 ~~~ sdparse
-meno che meno quella di essere a conoscenza dei segreti 
+meno/ADV che/SCONJ meno/ADV quella di essere a conoscenza dei segreti 
 advmod(quella, meno-1)
 mwe(meno-1, che)
 mwe(meno-1, meno-3)
 ~~~
 ~~~ sdparse
-vale a dire il cuore della Finanziaria
+vale/VERB a/ADP dire/VERB il cuore della Finanziaria
 advmod(cuore, vale)
 mwe(vale, a)
 mwe(vale, dire)
