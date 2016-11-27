@@ -29,9 +29,9 @@ All other dependents of the verb are said to be oblique, which again may entail 
 <div id="s1" class="sd-parse">
 this morning I called on her
 nsubj(called, I)
-nmod(called, her)
+obl(called, her)
 case(her, on)
-nmod(called, morning)
+obl(called, morning)
 det(morning, this)
 </div>
 
@@ -39,12 +39,12 @@ Here “on her” is oblique because it has a preposition and “this morning”
 
 <div id="s2" class="sd-parse">
 buscan una secretaria \n they seek a secretary
-dobj(buscan, secretaria)
+obj(buscan, secretaria)
 det(secretaria, una)
 </div>
 <div id="s3" class="sd-parse">
 buscan a una de las secretarias \n they seek one of the secretaries
-dobj(buscan, una)
+obj(buscan, una)
 case(una, a)
 nmod(una, secretarias)
 det(secretarias, las)
@@ -67,7 +67,7 @@ Some languages allow extended transitive clauses with a third participant encode
 <div id="s4" class="sd-parse">
 Mary gave John a book
 nsubj(gave, Mary)
-dobj(gave, book)
+obj(gave, book)
 det(book, a)
 iobj(gave, John)
 </div>
@@ -78,9 +78,9 @@ Other languages do not allow extended transitive clauses but can still express t
 Marie a donné un livre à Jean
 nsubj(donné, Marie)
 aux(donné, a)
-dobj(donné, livre)
+obj(donné, livre)
 det(livre, un)
-nmod(donné, Jean)
+obl(donné, Jean)
 case(Jean, à)
 </div>
 
@@ -89,9 +89,9 @@ The indirect object relation ([u-dep/iobj]()) in UD has always been intended to 
 <div id="s6" class="sd-parse">
 Mary gave a book to John
 nsubj(gave, Mary)
-dobj(gave, book)
+obj(gave, book)
 det(book, a)
-nmod(gave, John)
+obl(gave, John)
 case(John, to)
 </div>
 
@@ -108,7 +108,7 @@ propose to preserve the information encoded in the [u-dep/auxpass]() relation, b
 she was invited to the party
 nsubj:pass(invited, she)
 aux:pass(invited, was)
-nmod(invited, party)
+obl(invited, party)
 det(party, the)
 case(party, to)
 </div>
