@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Tokenization'
+title:  'Tokenization and Word Segmentation'
 permalink: u/overview/tokenization.html
 udver: '2'
 ---
