@@ -21,9 +21,9 @@ The [current analysis](http://universaldependencies.org/u/dep/remnant.html) of e
 They had left the company , many for good .
 
 nsubj(left, They)
-dobj(left, company)
+obj(left, company)
 remnant(They, many)
-nmod(many, good)
+obl(many, good)
 ~~~
 
 In this example, _for good_ is modifying the elided _left_ of the second clause. However, as no similar modifier exists in the first clause, _for good_ cannot be attached with a _remnant_ relation and no reasonable analysis of this sentence is possible. In practice, annotators attached the extra modifier to the subject of the second clause, which incorrectly suggests that _for good_ is modifying the subject _many_.
