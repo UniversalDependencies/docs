@@ -21,7 +21,7 @@ We will attach [u-dep/cc]() and internal [u-dep/punct]() to the immediately succ
 
 ~~~sdparse
 I love apples and bananas .
-dobj(love,apples)
+obj(love,apples)
 conj(apples,bananas)
 cc(bananas,and)
 ~~~
