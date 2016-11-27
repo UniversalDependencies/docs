@@ -17,7 +17,7 @@ In exceptional cases, it may be necessary to go in the other direction, and comb
 tokens into a single syntactic word. Starting from v2 of the UD guidelines, such _multitoken words_ are allowed
 for a restricted class of phenomena, such as numerical expressions like _20 000_ and abbreviations like _e. g._, 
 as long as these phenomena are approved and clearly specified in the language-specific documentation. 
-Note, however, that this technique should _not__ be generalized to multiword expressions like _in spite of_ 
+Note, however, that this technique should _not_ be generalized to multiword expressions like _in spite of_ 
 and _by and large_ (let alone to more flexible multiword expressions like compounds or particle verbs), which should
 instead be annotated using special dependency relations.
 
