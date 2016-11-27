@@ -8,7 +8,7 @@ udver: '2'
 
 [Executive summary of changes from v1 to v2](v2/summary.html)
 
-* [Tokenization](u/overview/tokenization.html)
+* [Tokenization and word segmentation](u/overview/tokenization.html)
 * Morphology
   * [General principles](u/overview/morphology.html)
   * [Universal POS tags](u/pos/index.html) ([single document](u/pos/all.html))
