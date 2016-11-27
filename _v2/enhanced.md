@@ -28,10 +28,10 @@ In the _enhanced_ representation, we add special null nodes in clauses in which 
 I like tea and you E5.1 coffee .
 
 nsubj(like-2, I-1)
-dobj(like-2, tea-3)
+obj(like-2, tea-3)
 nsubj(E5.1-6, you-5)
 conj(like-2, E5.1-6)
-dobj(E5.1-6, coffee-7)
+obj(E5.1-6, coffee-7)
 ~~~ 
 
 ~~~ sdparse
@@ -39,14 +39,14 @@ Mary wants to buy a book and Jenny E8.1 E8.2 a CD .
 
 nsubj(wants-2, Mary-1)
 xcomp(wants-2, buy-4)
-dobj(buy-4, book-6)
+obj(buy-4, book-6)
 conj(wants-2, E8.1-9)
 nsubj(E8.1-9, Jenny-8)
 xcomp(E8.1-9, E8.2-10)
-dobj(E8.2-10, CD-12)
+obj(E8.2-10, CD-12)
 ~~~ 
 
-Note that this is a case in which the _enhanced_ UD graph is not a supergraph of the _basic_ tree as the _basic_ tree contains composite relations (e.g., `conj>nsubj` between _wants_ and _Jenny_), which are not present in the _enhanced_ UD graph.
+Note that this is a case in which the _enhanced_ UD graph is not a supergraph of the _basic_ tree as the _basic_ tree contains `orphan` relations, which are not present in the _enhanced_ UD graph.
 
 ## Controlled/raised subjects
 
@@ -69,9 +69,9 @@ xcomp(seems, reading)
 nsubj(reading, She)
 ~~~
 
-### To discuss
+<!--### To discuss
 
-* Should we use a special relation (e.g., `nsubj:xsubj`) for these additional relations?
+* Should we use a special relation (e.g., `nsubj:xsubj`) for these additional relations? -->
 
 ## Propagation of Conjuncts
 
@@ -87,8 +87,8 @@ The store buys and sells cameras .
 nsubj(buys, store)
 nsubj(sells, store)
 conj(buys, sells)
-dobj(buys, cameras)
-dobj(sells, cameras)
+obj(buys, cameras)
+obj(sells, cameras)
 ~~~
 
 However, if the complements of the second verb are not shared, only the subject is attached to every conjunct.
@@ -99,7 +99,7 @@ She was reading or watching a movie .
 nsubj(reading, She)
 nsubj(watching, She)
 conj(reading, watching)
-dobj(watching, movie)
+obj(watching, movie)
 ~~~
 
 ### Conjoined subjects and objects
@@ -120,8 +120,8 @@ The same is true for conjoined objects.
 Paul bought apples and oranges .
 
 nsubj(bought, Paul)
-dobj(bought, apples)
-dobj(bought, oranges)
+obj(bought, apples)
+obj(bought, oranges)
 conj(apples, oranges)
 ~~~
 
@@ -139,9 +139,9 @@ conj(Paul, Mary)
 Mary is eating mac and cheese .
 
 nsubj(eating, Mary)
-dobj(eating, mac)
+obj(eating, mac)
 conj(mac, cheese)
-dobj(eating, cheese)
+obj(eating, cheese)
 ~~~
 
 However, as the distinction between distributive and collective readings is often context-dependent, we propose to take the simplest approach and to always attach all conjuncts to the predicate.
@@ -178,23 +178,23 @@ conj(long, wide)
 
 (See also the notes on [core dependents](core-dependents.html) for a detailed discussion of the new analysis of passive constructions in the _basic_ representation.)
 
-We propose that we no longer use a special `nsubjpass` relation in the _basic_ representation. However, the distiction between regular subjects and subjects in passive constructions is still highly useful for many NLP tasks. We therefore propose to use the relations `nsubj:pass` (for languages without `dobj`/`iobj` distinction), `nsubj:passdir`, `nsubj:passind`, and `advnom:agent` for the arguments of a passivized verb.  
+We propose that we no longer use a special `nsubjpass` relation in the _basic_ representation. However, the distiction between regular subjects and subjects in passive constructions is still highly useful for many NLP tasks. We therefore propose to use the relations `nsubj:pass` <!--(for languages without `dobj`/`iobj` distinction), `nsubj:passdir`, `nsubj:passind`,-->and `obl:agent` for the arguments of a passivized verb.  
 
 ~~~ sdparse
 The book was written by the author .
 
-nsubj:passdir(written, book)
-advnom:agent(written, author)
+nsubj:pass(written, book)
+obl:agent(written, author)
 ~~~
 
 ~~~ sdparse
 She was given the book .
 
-nsubj:passind(given, She)
-dobj(given, book)
+nsubj:pass(given, She)
+obj(given, book)
 ~~~
 
-### To discuss
+<!-- ### To discuss
 
 * Should the _enhanced_ UD graph still contain the original subject dependencies or should we only have `nsubj:pass(dir|ind)`?
 * Should this treatment be extended to other valency-changing constructions like causatives and antipassives?
@@ -208,6 +208,7 @@ nsubj:cau(yıkattı, Denize)
 dobj(yıkattı, arabayı)
 nsubj(yıkattı, Bilge)
 ~~~
+-->
 
 ## Relative clauses
 
@@ -240,7 +241,7 @@ _Basic_ tree:
 The book that I read .
 
 acl:relcl(book, read)
-dobj(read, that)
+obj(read, that)
 ~~~
 
 
@@ -251,24 +252,24 @@ The book that I read .
 
 acl:relcl(book, read)
 ref(book, that)
-dobj(read, book)
+obj(read, book)
 ~~~
 
 ## Case Information
 
-Adding prepositions (or case information) to the relation name of non-core dependents often makes it possible to disambiguate its  semantic role. We therefore augment `anom`, `advnom`, `acl` and `advcl` relation labels with the preposition or the case of the modifier.
+Adding prepositions (or case information) to the relation name of non-core dependents often makes it possible to disambiguate its  semantic role. We therefore augment `nmod`, `obl`, `acl` and `advcl` relation labels with the preposition or the case of the modifier.
 
 ~~~ sdparse
 the house on the hill
 
-anom:on(house, hill)
+nmod:on(house, hill)
 case(hill, on)
 ~~~
 
 ~~~ sdparse
 He went to a diner after leaving work .
 
-advnom:to(went, diner)
+obl:to(went, diner)
 case(diner, to)
 advcl:after(went, leaving)
 mark(leaving, after)
@@ -277,10 +278,10 @@ mark(leaving, after)
 ~~~ sdparse
 die Zerstörung der Stadt \n the destruction the.GEN city.GEN
 
-anom:gen(Zerstörung, Stadt)
+nmod:gen(Zerstörung, Stadt)
 ~~~
 
-### To discuss
+<!-- ### To discuss
 
 * Should we use special relation names (e.g., `nsubj:xsubj`) for the indirect relations? 
 * Should this treatment be extended to relative pronouns that refer to adnominal or adverbial modifiers? 
@@ -302,6 +303,7 @@ The city where I used to live .
 acl:relcl(city, used)
 advnom(live, city)
 ~~~
+-->
 
 ## Recommended order of annotations
 
