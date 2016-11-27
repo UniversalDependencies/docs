@@ -1,11 +1,11 @@
 ---
 layout: base
-title:  'Tokenization and Word Segmentation'
+title:  'Tokenization and word segmentation'
 permalink: u/overview/tokenization.html
 udver: '2'
 ---
 
-# Tokenization and Word Segmentation
+# Tokenization and word segmentation
 
 The UD annotation is based on a lexicalist view of syntax, which means that dependency relations 
 hold between _words_. Hence, morphological features are encoded as properties of words and there is no attempt at
