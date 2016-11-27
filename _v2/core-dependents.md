@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Core Dependents in UD v2'
+udver: '2'
 ---
 
 # Core Dependents in UD v2
@@ -8,9 +9,9 @@ title:  'Core Dependents in UD v2'
 The distinction between core arguments and oblique modifiers is at the heart of the UD taxonomy of syntactic relations but has been criticized because it is hard to apply cross-linguistically. For v2 we propose:
 
 * Keep the core-oblique distinction and work out more detailed guidelines for how to apply it in different languages
-* Replace the relations [u-dep/dobj]() and [u-dep/iobj]() by a single relation **obj** and add a language-specific subtype  **obj:ind** to be used for indirect objects in languages that allow extended transitive clauses.
+* Rename the relation [u-dep/dobj]() to **obj** because the latter name seems more easily reconcilable with the intended interpretation of “second core argument” or “P/A argument” (without connection to specific cases or semantic roles).
 * Remove the relations [u-dep/nsubjpass]() and [u-dep/csubjpass]() and add language-specific subtypes **nsubj:pass** and **csubj:pass**. (By analogy, the functional relation **auxpass** will be removed and the subtype **aux:pass** added.)
-* Split the modifier relation [u-dep/nmod]() into two new relations **anom** and **advnom**
+* Split the modifier relation [u-dep/nmod]() into **nmod** and **obl**
 
 Below we discuss and motivate each of these proposals in turn. 
 
@@ -50,15 +51,16 @@ det(secretarias, las)
 case(secretarias, de)
 </div>
 
-The criteria for drawing the core-oblique distinction will thus have to be established specifically for each language and should be described in the language-specific documentation. The universal guidelines should help by providing general guidance on the kind of criteria and test that can be applicable. Here is a list to start with:
+The criteria for drawing the core-oblique distinction will thus have to be established specifically for each language and should be described in the language-specific documentation. The universal guidelines should help by providing general guidance on the kind of criteria and tests that can be applicable. Here is a tentative proposal that will be refined as we work out the full documentation for v2:
 
-* Personal pronouns: In many languages, personal pronouns are restricted to core arguments. For example, "this morning" cannot be replaced by the personal pronoun "it" above (only by a pronominal adverb like "then").
-* Interrogatives: The question corresponding to "she went to Paris" is "where did she go?" not "what did she go?".
-* Relativization: Languages that use relative clauses often restrict relativization to core arguments.
-* Passivization: In many languages, only core arguments can be passivized.
-* Agreement: Morphosyntactic agreement on verbs is usually restricted to core arguments (predominantly subjects but also objects in some languages).
+* Dependents that fulfill the roles of S, A or O/P are regarded as core unless "wholly oblique" (see below). 
+* Other dependents are regarded as core if they resemble core S, A and O/P arguments with respect to at least one of the following coding strategies:
+    1. case marking
+    2. indexation (agreement)
+    3. linear order
+* Otherwise, they are regarded as "wholly oblique".
 
-## Merge direct and indirect objects
+## Rename direct objects
 
 Some languages allow extended transitive clauses with a third participant encoded as a core argument, usually with some kind of benefactive or recipient role, as in the English double-object construction:
 
@@ -93,7 +95,7 @@ nmod(gave, John)
 case(John, to)
 </div>
 
-In line with our overall decision to keep the core-oblique distinction, we should also continue to make a distinction between true indirect objects (realized as core arguments) and oblique modifiers realizing a similar semantic role. However, because not all languages allow extended transitives, we think it will be more correct (and less confusing) to make this distinction using language-specific subtypes. We therefore recommend that the (current) universal relations [u-dep/dobj]() and [u-dep/iobj]() are replaced by a single universal relation **obj** (for object). In languages with extended transitives, the language-specific subtype **obj:ind** should be used for indirect objects, while direct objects are still labeled **obj** (with no subtype). This convention brings out the fact that indirect objects are typologically marked.
+In line with our overall decision to keep the core-oblique distinction, we should also continue to make a distinction between true indirect objects (realized as core arguments) and oblique modifiers realizing a similar semantic role. However, because not all languages allow extended transitives, we think it will be less confusing to use the "unmarked" name **obj** for the object in a simple transitive.
 
 ## Remove special relations for passive subjects
 
@@ -111,7 +113,7 @@ det(party, the)
 case(party, to)
 </div>
 
-## Split the nmod relation into anom and advnom
+## Split the nmod relation into nmod and obl
 
 One of the cornerstones of the UD taxonomy of syntactic relations is the distinction between three main types of linguistic structures: clauses, nominals and modifier words. These structures can in turn be used to modify either predicates or nominals. For modifier words and clauses we use different syntactic relations for these two cases:
 
@@ -164,9 +166,4 @@ she is a doctor at the hospital
 nmod(doctor, hospital)
 </div>
 
-We therefore propose that the [u-dep/nmod]() relation is split into two relations, one for adnominal and one for adverbial modification. We propose the names **anom** for the former and **advnom** for the latter. In this way, all modifier relations will satisfy the following pattern:
-
-* Adnominal modifiers are named aX, where X is cl (clause), nom (nominal) or modifier word (mod).
-* Adverbial modifiers are named advX, where X is cl (clause), nom (nominal) or modifier word (mod).
-
-
+We therefore propose that the [u-dep/nmod]() relation is split into two relations, one for adnominal and one for adverbial modification. We propose to keep the name **nmod** for the former and introduce a new name **obl** (oblique)for the latter. 
