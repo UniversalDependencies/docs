@@ -24,7 +24,7 @@ More discussion can be found in the section on [word segmentation](segmentation.
 
 The universal tagset from v1 is basically kept intact in v2 with two minor revisions:
 
-1. The tag `CONJ` is renamed `CCONJ` to make it more similar to the syntactic relation `cc` (and less similar to `conj`).
+1. The tag `CONJ` is renamed `CCONJ` to make it parallel to `SCONJ` (and more similar to the syntactic relation `cc` and less similar to `conj`).
 2. The guidelines for tags are modified in three cases:
     1. The use of `AUX` is extended from auxiliary verbs in a narrow sense to also include copula verbs and nonverbal TAME particles (tense, aspect, mood, evidentiality, and, sometimes, voice or polarity particles).
     2. The use of `PART` is restricted to a small set of words that must be listed in the language-specific documentation.
@@ -80,7 +80,7 @@ More discussion about 1-3 and 4 can be found in the sections on [core-dependents
 
 ### Coordination and ellipsis 
 
-1. Coordinating conjunctions (`cc`) and punctuation (`punct`) inside coordinated structures are in v2 attached to the immediately succeding conjunct (instead of the first conjunct as in v1).
+1. Coordinating conjunctions (`cc`) and punctuation (`punct`) inside coordinated structures are in v2 attached to the immediately succeeding conjunct (instead of the first conjunct as in v1).
 2. The `remnant` relation used to analyze ellipsis in v1 is removed. A new relation `orphan` is introduced in order to analyze ellipsis in a way that preserves the integrity of clauses and minimizes the use of special relations. 
 
 More discussion about 1 and 2 can be found in the sections on [coordination](coordination.html) and [ellipsis](ellipsis.html), respectively.
@@ -98,7 +98,7 @@ More discussion about 1-4 and 5 can be found in the sections on [functional rela
 ### Multiword expressions
 
 1. The `mwe` relation is renamed `fixed` to make clear that it is only to be used for fixed grammaticized expressions that behave like function words or short adverbials.
-2. The `name` relation is removed because it has been misinterpreted as applying to all names. A new relation `flat` is added for semi-fixed multiword expressions for which there is no clear evidence that one of the components is the linguistic head. This covers the originally intended use of the `name` relation but also other cases like title-name combinations and some numerical expressions. 
+2. The `name` relation is removed because it has been misinterpreted as applying to all names. A new relation `flat` is added for semi-fixed multiword expressions for which there is no clear evidence that one of the components is the linguistic head. This covers the originally intended use of the `name` relation but also other cases like title-name combinations and date expressions that do not have a clear endocentric syntactic structure. 
 3. The `compound` relation is extended to cover all types of complex predicates including not only particle verbs (`compound:prt`) but also serial verbs (`compound:svc`).
 
 More discussion can be found in the sections on [multiword expressions](mwe.html) and [semantic categories](semantic-categories.html).
