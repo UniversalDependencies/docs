@@ -16,9 +16,10 @@ _multiword tokens_ because a single orthographic _token_ corresponds to multiple
 In exceptional cases, it may be necessary to go in the other direction, and combine several orthographic
 tokens into a single syntactic word. Starting from v2 of the UD guidelines, such _multitoken words_ are allowed
 for a restricted class of phenomena, such as numerical expressions like _20 000_ and abbreviations like _e. g._, 
-as long as these phenomena are clear defined in the language-specific documentation. Note, however, that this 
-technique should not be generalized to multiword expressions like _in spite of_ and _by and large_, which should
-instead be annotated using a special dependency relation ([fixed](u-dep/fixed)).
+as long as these phenomena are approved and clearly specified in the language-specific documentation. 
+Note, however, that this technique should _not__ be generalized to multiword expressions like _in spite of_ 
+and _by and large_ (let alone to more flexible multiword expressions like compounds or particle verbs), which should
+instead be annotated using special dependency relations.
 
 Since word segmentation in general is a non-trivial task in many languages, and since the usefulness of tools trained on treebank data ultimately depends on how well the word segmentation can be reproduced for new data, it is important to document the principles of word segmentation for each language.
 The nature of this documentation will vary from one language to the next, depending on properties of the language and
