@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Enhanced Dependencies in UD v2'
+udver: '2'
 ---
 
 # Enhanced Dependencies in UD v2
