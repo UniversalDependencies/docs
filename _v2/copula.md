@@ -11,7 +11,7 @@ version of the treebanks (see table below for the _status quo_). In order to pro
 and to achieve better consistency cross-lingually and within a single language, we propose the
 following changes in v2:
 
-* The `cop` relation is restricted to function words (verbal or nonverbal) whose sole function is to link a nonverbal predicate to its subject and which does not add any meaning other than grammaticalized TAME categories (only one word in most languages). 
+* The `cop` relation is restricted to function words (verbal or nonverbal) whose sole function is to link a nonverbal predicate to its subject and which do not add any meaning other than grammaticalized TAME categories (only one word in most languages). 
 * The range of constructions that are analyzed using the cop relation is subject to language-specific variation but can be identified using universal guidelines specified below.
 
 ## Problems with the current copula analysis
