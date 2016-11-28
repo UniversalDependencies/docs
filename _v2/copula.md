@@ -216,6 +216,93 @@ tá bia ann
 nsubj(tá, bia)
 ~~~~
 
+#### Czech
+
+The Czech verb _být_ is used in all categories (1-6) and can be analyzed as copula everywhere except for pure existentials (without location) where no predicate other than the verb is available. Czech word order is free and it is not guaranteed that all constructions will come out as subject-copula-predicate. Reversed order (predicate-copula-subject) is less common but possible, even in the “equation” category (1). Czech is a pro-drop language which means that pronominal subjects are optional.
+
+(1a)
+
+~~~ sdparse
+(ona) je moje matka \n she is my mother
+nsubj(matka, (ona))
+nsubj(mother, she)
+cop(matka, je)
+cop(mother, is)
+~~~
+
+(1b)
+
+When the second part is a clause, the demonstrative pronoun _то_ must be inserted. As a result, we have a different syntactic structure with different analysis: the clause formally modifies a nominal represented by the demonstrative.
+
+~~~ sdparse
+дело в том , что она моя мать \n fact in that , that she my mother
+nsubj(том, дело)
+nsubj(that-12, fact)
+acl(том, мать)
+acl(that-12, mother)
+nsubj(мать, она)
+nsubj(mother, she)
+~~~
+
+(2)
+
+~~~ sdparse
+она милая \n she nice
+nsubj(милая, она)
+nsubj(nice, she)
+~~~
+
+(3)
+
+~~~ sdparse
+она на кухне \n she in kitchen
+nsubj(кухне, она)
+nsubj(kitchen, she)
+case(кухне, на)
+case(kitchen, in)
+~~~
+
+(4)
+
+~~~ sdparse
+это ее \n it hers
+nsubj(ее, это)
+nsubj(hers, it)
+~~~
+
+(5)
+
+~~~ sdparse
+это для нее \n it for her
+nsubj(нее, это)
+nsubj(her, it)
+case(нее, для)
+case(her, for)
+~~~
+
+(6a) 
+
+The form _есть_ is originally the 3rd person singular present indicative of the verb _быть_ (which also functions as copula). However, in Modern Russian this form is used only in existential statements, in both numbers and all persons. Past and future existential statements still use normal forms of _быть._
+
+~~~ sdparse
+есть еда \n is food
+nsubj(есть, еда)
+nsubj(is, food)
+~~~
+
+(6b) 
+
+~~~ sdparse
+есть еда на кухне \n is food in kitchen
+nsubj(есть, еда)
+nsubj(is, food)
+obl(есть, кухне)
+obl(is, kitchen)
+case(кухне, на)
+case(kitchen, in)
+~~~
+
+
 #### Russian
 
 In Russian, there is no copula verb in the present tense. In the future and past tenses, the verb _быть_ "be" is used.
