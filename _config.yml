@@ -10,8 +10,7 @@ permalink:    date
 # safe:         true
 markdown_ext: md
 
-# testing for redirect-from
-baseurl: ""
+baseurl: "docs/"
 
 gems:
   - jekyll-redirect-from
