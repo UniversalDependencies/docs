@@ -3,6 +3,7 @@ layout: base
 title:  'Universal Dependency Relations'
 generated: 'true'
 permalink: u/dep/index.html
+udver: '2'
 ---
 
 # Universal Dependency Relations
