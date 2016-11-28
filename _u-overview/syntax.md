@@ -12,7 +12,7 @@ on another word in the sentence, as exemplified below (where we explicitly repre
 otherwise be left implicit).
 
 ~~~sdparse
-she wanted to buy and eat an apple
+ROOT she wanted to buy and eat an apple
 nsubj(wanted, she)
 root(ROOT, wanted)
 mark(buy, to)
@@ -28,7 +28,7 @@ basis for semantic interpretation. The enhanced representation is in general
 not a tree but a general graph structure, as shown below.
 
 ~~~sdparse
-she wanted to buy and eat an apple
+ROOT she wanted to buy and eat an apple
 nsubj(wanted, she)
 nsubj(buy, she)
 nsubj(eat, she)
