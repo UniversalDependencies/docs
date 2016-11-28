@@ -14,7 +14,7 @@ A cross-linguistic typology*](http://nlp.stanford.edu/pubs/USD_LREC14_paper_came
 
 {% include u-dep-table.html %}
 
-___
+----------
 
 Alphabetical listing
 
