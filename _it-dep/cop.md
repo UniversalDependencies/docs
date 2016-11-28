@@ -4,7 +4,7 @@ title: 'cop'
 shortdef: 'copula'
 ---
 
-A copula is the relation between the complement of a copular verb and the copular verb essere (only). The copula be is not treated as the head of a clause, but rather as the dependent of a lexical predicate, as exemplified below. 
+A copula is the relation between the complement of a copular verb and the copular verb *essere* (in Italian this is the only verb that can be a copula). The copula be is not treated as the head of a clause, but rather as the dependent of a lexical predicate, as exemplified below, which can be an adjective, a noun or a pronoun. 
 
 ~~~ sdparse
 I cinque sarebbero tutti immigrati clandestini
@@ -22,7 +22,35 @@ compound(mila, 200)
 cop(mila, sono)
 ~~~
 
-This analysis is generally not adopted when the predicate is a prepositional phrase, in which case the nominal part of the prepositional phrase is the head of the clause, with a few exception in case of idiomatic forms, such as _in forma_ *in shape*, expressing a property.
+In predicative wh-constructions, the fronted wh-word is the head, and the copula is another <code>cop</code>.
+
+~~~ sdparse
+Qual è la capitale della Nuova Zelanda ?
+nsubj(Qual, capitale)
+cop(Qual, è)
+~~~
+
+If the copula comes together another verbal auxiliaries (e.g. because of the tense), they are taken as dependents of the lexical predicate:
+
+~~~ sdparse
+Non venne mai chiarito quale formazione era stata responsabile
+det(formazione, quale)
+nsubj(responsabile, formazione)
+aux(responsabile, era)
+cop(responsabile, stata)
+~~~
+
+The verb *essere* is not always marked as copula, but can also be the main verb of the clause. This analysis is generally adopted when:
+
+* the verb *essere* is used in presentational or existential constructions where it has an existential or locative meaning;
+
+~~~ sdparse
+ROOT Vi sono migliaia di casi di questo genere
+root(ROOT, sono)
+expl(sono, Vi)
+nsubj(sono, migliaia)
+~~~
+
 
 ~~~ sdparse
 La scultura è di il pachistano Hamad Butt
@@ -34,13 +62,5 @@ amod(Hamad, pachistano)
 name(Hamad, Butt)
 ~~~
 
-If the copula is accompanied by other verbal auxiliaries (e.g. for tense), they are taken as dependents of the lexical predicate:
 
-~~~ sdparse
-Non venne mai chiarito quale formazione era stata responsabile
-det(formazione, quale)
-nsubj(responsabile, formazione)
-aux(responsabile, era)
-cop(responsabile, stata)
-~~~
 
