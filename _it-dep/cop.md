@@ -63,10 +63,10 @@ nsubj(è, Presidente)
 nmod(è, mirino)
 ~~~
 
-* the predicate is a prepositional phrase, in which case the nominal part of the prepositional phrase is the head of the clause, with a few exception in case of idiomatic forms, such as *in forma* (in shape), expressing a property (predicative sentences).
+* the predicate is a prepositional phrase, in which case the nominal part of the prepositional phrase is the head of a [nmod]() relation, with a few exception in case of idiomatic forms, such as *in forma* (in shape).
 
 ~~~ sdparse
-ROOTLa scultura è di il pachistano Hamad Butt
+ROOT La scultura è di il pachistano Hamad Butt
 root(ROOT, è)
 nsubj(è, scultura)
 case(Hamad, di)
@@ -83,6 +83,11 @@ case(grado, in)
 acl(grado, dir)
 mark(dir, di)
 iobj(dir, ci)
+~~~
+~~~ sdparse
+Per essere in forma
+cop(forma, essere)
+case(forma, in)
 ~~~
 
 * the complement of the verb *essere* is a subordinate clause
