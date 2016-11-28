@@ -243,6 +243,60 @@ nsubj(мать, она)
 nsubj(mother, she)
 ~~~
 
+(2)
+
+~~~ sdparse
+она милая \n she nice
+nsubj(милая, она)
+nsubj(nice, she)
+~~~
+
+(3)
+
+~~~ sdparse
+она на кухне \n she in kitchen
+nsubj(кухне, она)
+nsubj(kitchen, she)
+case(кухне, на)
+case(kitchen, in)
+~~~
+
+(4)
+
+~~~ sdparse
+это ее \n it hers
+nsubj(ее, это)
+nsubj(hers, it)
+~~~
+
+(5)
+
+~~~ sdparse
+это для нее \n it for her
+nsubj(нее, это)
+nsubj(her, it)
+case(нее, для)
+case(her, for)
+~~~
+
+(6a) 
+
+~~~ sdparse
+there is food
+expl(is, there)
+nsubj(is, food)
+~~~
+
+(6b) 
+
+~~~ sdparse
+there is food in the kitchen
+expl(is, there)
+nsubj(is, food)
+obl(is, kitchen)
+case(kitchen, in)
+~~~
+
 
 #### Finnish
 
