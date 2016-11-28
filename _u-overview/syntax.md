@@ -44,33 +44,12 @@ obj(buy, apple)
 
 In the rest of this document, we discuss the fundamental principles of our dependency annotation, focusing on aspects that are common to both the basic and the enhanced representation. More detailed annotation guidelines can be found separately for [basic dependencies](specific-syntax.html) and [enhanced dependencies](enhanced-syntax.html).
 
-CONTINUE HERE
-The goal of the typed dependency relations is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated.
-The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance. We now try to lay down some general principles that should guide the use of universal 
-dependencies to achieve as much parallelism as possible (but not more) across languages. 
-(More specific guidelines can be found in the documentation of the specific 
-[dependency relations](http://universaldependencies.org/u/dep/index.html).)
+The goal of the typed dependency relations is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated. Two things should be noted from the outset:
 
-The principles primarily apply to the _basic_ version of the universal dependencies, where dependencies are 
-assumed to form a rooted tree representing the backbone of the syntactic structure. In addition to the 
-basic dependency structure, certain syntactic constructions may introduce additional dependencies
-(examples include dependencies that propagate over coordination structures and secondary predication).
-These dependencies can be represented in the _enhanced_ version of the universal dependencies, where they
-are encoded in the DEPS field of the [CoNLL-U format](../../format.html). The total set of dependencies in the
-enhanced representation will commonly no longer be a rooted tree, but a rooted directed graph. In particular, the result need not be a directed acyclic 
-graph (DAG). While the graph is _mostly_ tree-like, the enhanced representation of relative clauses introduces small cycles:
+* The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance. 
+* The notion of dependency has limits: Not all grammatical relations can be reduced to binary asymmetric relations between a syntactic head and a subordinate element, and some of our typed "dependency" relations therefore must be understood as convenient encodings of other relations without implications about syntactic headedness. This holds in particular for relations used to analyze multiword expressions, coordination and function words.
 
-<div id="s0a" class="sd-parse">
-The cat Sue saw was black .
-nsubj(saw, Sue)
-acl(cat, saw)
-dobj(saw, cat)
-</div>
-
-The dependency relations added in the enhanced representation are taken from the 
-same inventory as the basic dependencies, but may add additional language-particular subtyping. Detailed guidelines for the enhanced representation still
-have to be developed. In the meantime, the documentation of the basic dependencies sometimes refers to additional
-dependencies that we expect to be present in the enhanced representation. 
+We now try to lay down some general principles that should guide the use of universal dependencies to achieve as much parallelism as possible (but not more) across languages. 
 
 ## The Primacy of Content Words
 
