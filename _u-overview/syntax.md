@@ -42,7 +42,7 @@ obj(eat, apple)
 obj(buy, apple)
 ~~~
 
-In the rest of this document, we discuss the fundamental principles of our dependency annotation, focusing on aspects that are common to both the basic and the enhanced representation. More detailed annotation guidelines can be found separately for [basic dependencies](specific-syntax.html) and [enhanced dependencies](enhanced.html).
+In the rest of this document, we discuss the fundamental principles of our dependency annotation, focusing on aspects that are common to both the basic and the enhanced representation. More detailed annotation guidelines can be found separately for [basic dependencies](specific-syntax.html) and [enhanced dependencies](enhanced-syntax.html).
 
 CONTINUE HERE
 The goal of the typed dependency relations is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated.
