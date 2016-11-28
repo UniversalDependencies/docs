@@ -35,7 +35,7 @@ di questi problemi se ne occupano/verb i preti
 advmod(occupano, ne)
 ~~~
 
-* non-prepositional multiword expressions (like *pian piano*, *vale a dire*, *d'ora in avanti*, *oltre che*). For prepositional multiword expressions the correct relations are [case]() or [mark](). 
+* non-prepositional multiword expressions (like *pian piano*, *vale a dire*, *d'ora in avanti*, *oltre che*).  
 
 ~~~ sdparse
 ogni fatto costituisce di/ADP per/ADP sé/PRON inadempimento .
@@ -56,3 +56,4 @@ mwe(vale, a)
 mwe(vale, dire)
 ~~~
 
+**NB** For prepositional multiword expressions the correct relations are [case]() or [mark]().
