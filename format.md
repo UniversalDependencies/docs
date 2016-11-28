@@ -1,11 +1,11 @@
 ---
 layout: base
-title:  'CoNLL-U format'
+title:  'CoNLL-U Format'
 udver: '2'
 ---
 
 
-# CoNLL-U format
+# CoNLL-U Format
 
 We use a revised version of [the CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat) called CoNLL-U. 
 Annotations are encoded in plain text files (UTF-8, using only the LF character as line break) with three types of lines:
@@ -36,7 +36,7 @@ The fields must additionally meet the following constraints:
 * Fields other than FORM and LEMMA must not contain space characters.
 * Underscore (_) is used to denote unspecified values in all fields except ID. Note that no format-level distinction is made for the rare cases where the FORM or LEMMA is the literal underscore – processing in such cases is application-dependent. Further, in UD treebanks the UPOSTAG, HEAD, and DEPREL columns are not allowed to be left unspecified.
 
-# Words, tokens and empty nodes
+# Words, Tokens and Empty Nodes
 
 To accommodate the representation of both words and (multiword) tokens (see [Tokenization and word segmentation](u/overview/tokenization.html)), 
 we adopt an extension of the original CoNLL-X token indexing scheme, where words are indexed with integers 1, 2, 3, ..., 
@@ -170,7 +170,7 @@ the CoNLL-X format). The exact format used in this field should be specified in 
 treebank-specific documentation, but it has to be formatted as a list that can be split on the bar character (\|)
 without special escaping. If the MISC field is not used, it should contain an underscore.
 
-## Untokenized text
+## Untokenized Text
 
 To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field. Note that this feature applies to the token level, not to the word level. Syntactic words that are just part of surface tokens will be ignored during detokenization and thus do not need the feature. In the example below, the line indexed 1 does not contain the `SpaceAfter` feature even though there was no space between _He_ and _'s_ in the underlying sentence. However, if there was no space between _He's_ and the third token, the 1-2 line would have `SpaceAfter=No`.
 
