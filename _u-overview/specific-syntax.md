@@ -2,12 +2,10 @@
 layout: base
 title:  'Basic Dependencies'
 permalink: u/overview/specific-syntax.html
-udver: '2'
 ---
 
 # Basic Dependencies
 
-CONTINUE HERE
 This section will contain detailed discussion of particular linguistic constructions of interest, covering best practices for how to annotate them cross-linguistically. It is still a work in progress.  At the moment, you can also see:
 
 * Coordination: currently described under [u-dep/conj]()
