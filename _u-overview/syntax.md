@@ -19,7 +19,7 @@ mark(buy, to)
 xcomp(wanted, buy)
 cc(eat, and)
 conj(buy, eat)
-det(apple, det)
+det(apple, an)
 obj(buy, apple)
 ~~~
 
@@ -37,7 +37,7 @@ mark(buy, to)
 xcomp(wanted, buy)
 cc(eat, and)
 conj(buy, eat)
-det(apple, det)
+det(apple, and)
 obj(eat, apple)
 obj(buy, apple)
 ~~~
