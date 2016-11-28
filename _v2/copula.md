@@ -281,19 +281,23 @@ case(her, for)
 
 (6a) 
 
+The form _есть_ is originally the 3rd person singular present indicative of the verb _быть_ (which also functions as copula). However, in Modern Russian this form is used only in existential statements, in both numbers and all persons. Past and future existential statements still use normal forms of _быть._
+
 ~~~ sdparse
-there is food
-expl(is, there)
+есть еда \n is food
+nsubj(есть, еда)
 nsubj(is, food)
 ~~~
 
 (6b) 
 
 ~~~ sdparse
-there is food in the kitchen
-expl(is, there)
+есть еда на кухне \n is food in kitchen
+nsubj(есть, еда)
 nsubj(is, food)
+obl(есть, кухне)
 obl(is, kitchen)
+case(кухне, на)
 case(kitchen, in)
 ~~~
 
