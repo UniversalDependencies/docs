@@ -10,12 +10,9 @@ permalink: u/dep/index.html
 The following table lists the 36 universal syntactic relations used in UD v2. It is a revised version of the relations 
 originally described in [*Universal Stanford Dependencies: A cross-linguistic typology*](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf) (de Marneffe *et al.* 2014). 
 
-The upper part of the table follows the main organizing principles of the UD taxonomy:
-
-* Rows correspond to functional categories in relation to the head: core arguments of clausal predicates, non-core dependents of clausal predicates, and dependents of nominals.
-* Columns correspond to structural categories of the dependent: nominals, clauses, modifier words, function words.
-
-The lower part of the table lists relations that are not dependency relations in the narrow sense:
+The upper part of the table follows the main organizing principles of the UD taxonomy such that _rows_ correspond to functional categories in relation to the head (core arguments of clausal predicates, non-core dependents of clausal predicates, and dependents of nominals) while columns correspond to structural categories of the dependent
+(nominals, clauses, modifier words, function words).
+The lower part of the table lists relations that are not dependency relations in the narrow sense.
 
 <!-- 
 * Relations used to analyze coordination
@@ -27,7 +24,7 @@ The lower part of the table lists relations that are not dependency relations in
 
 {% include u-dep-table.html %}
 
-\*) The `advmod` relation can modify not only predicates but also other modifier words.
+\* The `advmod` relation is used for modifiers not only of predicates but also of other modifier words.
 
 ----------
 
