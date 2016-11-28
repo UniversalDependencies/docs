@@ -216,6 +216,7 @@ tá bia ann
 nsubj(tá, bia)
 ~~~~
 
+
 #### Czech
 
 The Czech verb _být_ is used in all categories (1-6) and can be analyzed as copula everywhere except for pure existentials (without location) where no predicate other than the verb is available. Czech word order is free and it is not guaranteed that all constructions will come out as subject-copula-predicate. Reversed order (predicate-copula-subject) is less common but possible, even in the “equation” category (1). Czech is a pro-drop language which means that pronominal subjects are optional.
@@ -232,16 +233,16 @@ cop(mother, is)
 
 (1b)
 
-When the second part is a clause, the demonstrative pronoun _то_ must be inserted. As a result, we have a different syntactic structure with different analysis: the clause formally modifies a nominal represented by the demonstrative.
-
 ~~~ sdparse
-дело в том , что она моя мать \n fact in that , that she my mother
-nsubj(том, дело)
-nsubj(that-12, fact)
-acl(том, мать)
-acl(that-12, mother)
-nsubj(мать, она)
+faktem je , že ona je moje matka \n fact is , that she is my mother
+cop(faktem, je-2)
+cop(fact, is-11)
+csubj(faktem, matka)
+csubj(fact, mother)
+nsubj(matka, ona)
 nsubj(mother, she)
+cop(matka, je-6)
+cop(mother, is-15)
 ~~~
 
 (2)
