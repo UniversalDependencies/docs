@@ -47,7 +47,9 @@ In the rest of this document, we discuss the fundamental principles of our depen
 The goal of the typed dependency relations is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated. Two things should be noted from the outset:
 
 * The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance. 
-* The notion of dependency has limits: Not all grammatical relations can be reduced to binary asymmetric relations between a syntactic head and a subordinate element, and some of our typed "dependency" relations therefore must be understood as convenient encodings of other relations without implications about syntactic headedness. This holds in particular for relations used to analyze multiword expressions, coordination and function words.
+* The notion of dependency has limits: Not all grammatical relations can be reduced to binary asymmetric relations between a syntactic head and a subordinate element, and some of our typed "dependency" relations therefore must be understood as convenient encodings of other relations without implications about syntactic headedness. 
+
+<!-- This holds in particular for relations used to analyze multiword expressions, coordination and function words.-->
 
 We now try to lay down some general principles that should guide the use of universal dependencies to achieve as much parallelism as possible (but not more) across languages. 
 
@@ -58,8 +60,8 @@ Dependency relations hold primarily between content words, rather than being ind
 <div id="s1a" class="sd-parse">
 The cat could have chased all the dogs down the street .
 nsubj(chased, cat)
-dobj(chased, dogs)
-nmod(chased, street)
+obj(chased, dogs)
+obl(chased, street)
 </div>
 
 Function words attach as direct dependents of the most closely related content word.
@@ -88,8 +90,8 @@ are content words and where function words and punctuation appear as leaves.
 <div id="s1" class="sd-parse">
 The cat could have chased all the dogs down the street .
 nsubj(chased, cat)
-dobj(chased, dogs)
-nmod(chased, street)
+obj(chased, dogs)
+obl(chased, street)
 det(cat, The)
 aux(chased, could)
 aux(chased, have)
@@ -127,7 +129,6 @@ nsubj(tancor, Ivan)
 amod(tancor, lučšij)
 </div>
 
-
 ## The Status of Function Words
 
 The primacy of content words implies that function words normally do not have dependents of their own. 
@@ -139,7 +140,7 @@ A typical case is that of auxiliary verbs, which never depend on each other.
 She could have been injured .
 aux(injured, could)
 aux(injured, have)
-auxpass(injured, been)
+aux:pass(injured, been)
 </div>
 
 Note that copula verbs are also counted as auxiliaries in this respect. In copula constructions, auxiliaries
@@ -158,11 +159,18 @@ Similarly, multiple determiners are always attached to the head noun.
 All these three books .
 det(books, All)
 det(books, these)
-num(books, three)
+nummod(books, three)
 </div>
 
-However, there are four important exceptions to the rule that function words do not 
-take dependents:
+We are aware that the choice to treat function words formally as dependents of content words is at odds with some
+versions of dependency grammar, which prefer the opposite relation for many syntactic constructions. 
+We prefer to view the relations between content words and function words, not as dependency relations in the narrow 
+sense, but as operations that modify the grammatical category of the content word so that it can participate in 
+different dependency relations with other content words. This view makes function words functionally (but not 
+structurally) similar to morphological operations and is compatible with Tesnière's notion of the nucleus as the 
+locus of syntactic dependencies. 
+
+Nevertheless, there are four important exceptions to the rule that function words do not take dependents:
 
   1. Multiword function words
   2. Coordinated function words
@@ -172,18 +180,18 @@ take dependents:
 ### Multiword Function Words
 
 The word forms that make up a fixed multiword expression are connected into a head-initial structure
-using the special dependency relation [u-dep/mwe]() (see below). When the multiword expression is a functional element,
+using the special dependency relation [u-dep/fix]() (see below). When the multiword expression is a functional element,
 the initial word form will then superficially look like a function word with dependents.
 
 <div id="s6" class="sd-parse">
 We had a nice time in spite of the rain .
 case(rain,in)
-mwe(in,spite)
-mwe(in,of)
-nmod(had,rain)
+fixed(in,spite)
+fixed(in,of)
+obl(had,rain)
 </div>
 
-Deciding whether an expression in a language should be treated as a `mwe` is something that has to be decided for each language, and in some cases this will require somewhat arbitrary conventions, because it involves choosing a cut point along a path of grammaticalization. Nevertheless, most languages have some very common multiword expressions that effectively behave like other function words as linkers, marks, or case particles, and it would be highly undesirable not to recognize them as a multi-word function word. Examples in English include _in spite of_ (like _despite_), _as well as_ (like _and_), and _prior to_ (like _before_).
+Deciding whether an expression in a language should be treated as a fixed multiword expression is something that has to be decided for each language, and in some cases this will require somewhat arbitrary conventions, because it involves choosing a cut point along a path of grammaticalization. Nevertheless, most languages have some very common multiword expressions that effectively behave like other function words as linkers, marks, or case particles, and it would be highly undesirable not to recognize them as a multi-word function word. Examples in English include _in spite of_ (like _despite_), _as well as_ (like _and_), and _prior to_ (like _before_).
 
 ### Coordinated Function Words
 
@@ -194,26 +202,26 @@ function words like conjunctions and prepositions.
 She drove to and from work .
 case(work,to)
 conj(to, from)
-cc(to, and)
+cc(from, and)
 </div>
 
 <div id="s4b" class="sd-parse">
 I will do that if and when it happens .
 mark(happens,if)
 conj(if, when)
-cc(if, and)
+cc(when, and)
 </div>
 
 ### Function Word Modifiers
 
-Certain types of function words can take a restricted class of modifiers, mainly negation ([u-dep/neg]()) and light adverbials
-([u-dep/advmod]() or [u-dep/nmod]()). Typical cases are modified determiners like _not every (linguist)_ and _exactly two (papers)_
+Certain types of function words can take a restricted class of modifiers, mainly light adverbials (including negation).
+Typical cases are modified determiners like _not every (linguist)_ and _exactly two (papers)_
 and modifiers of subordinating conjunctions.
 
 <div id="s7a" class="sd-parse">
 not every linguist
 det(linguist, every)
-neg(every, not)
+advmod(every, not)
 </div>
 
 <div id="s7b" class="sd-parse">
@@ -232,7 +240,7 @@ Negation can modify any function word, but other types of modifiers are disallow
 properties of the head word often expressed morphologically in other languages. This class, which we refer to as
 _pure function words_, includes auxiliary verbs, case markers (adposition), and articles, but needs to be defined
 explicitly for each language. When pure function words appear with modifiers other than negation, we take the modifier
-to apply to the entire phrase and therefore attaches it to the head word of the function word, as illustrated in
+to apply to the entire phrase and therefore attach it to the head word of the function word, as illustrated in
 the following example.
 
 <div id="s7d" class="sd-parse">
@@ -257,8 +265,8 @@ to the enhanced representation where this difference is neutralized.
 
 To sum up, our treatment of function word modifiers can be expressed in three principles:
 
-  1. Pure function words can only be modified by negation (`neg`).
-  2. Other function words can also take light adverbial modifiers (`advmod`, `nmod`)
+  1. Pure function words can only be modified by negation.
+  2. Other function words can also take (other) light adverbial modifiers.
   3. When in doubt, prefer a flat structure where function words attach to a content word.
 
 Note also that the language-specific documentation should specify what words (if any) are treated as pure function words 
@@ -268,7 +276,7 @@ in that language.
 
 When the natural head of a function word is elided, the function word will be "promoted"
 to the function normally assumed by the content word head. This type of analysis should 
-in general be preferred over an analysis using the [u-dep/remnant]() relation, because it disrupts
+in general be preferred over an analysis using the [u-dep/orphan]() relation, because it disrupts
 the structure less. The remnant analysis should be used only when there is no function word 
 that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
 and subordinating conjunctions.
@@ -285,7 +293,7 @@ nsubj(could-8, Ann)
 The address she wrote to .
 relcl(address, wrote)
 nsubj(wrote, she)
-nmod(wrote, to)
+obl(wrote, to)
 </div>
 
 <div id="s5c" class="sd-parse">
@@ -298,8 +306,7 @@ ccomp(know, how)
 
 ### Core arguments vs. oblique modifiers
 
-The UD taxonomy is centered around the fairly clear distinction between core arguments
-(subjects, objects, clausal complements) versus other dependents.
+The UD taxonomy is centered around the fairly clear distinction between core arguments (subjects, objects, clausal complements) versus other dependents.
 It does not make a distinction between adjuncts and oblique arguments.
 This latter distinction is taken to be sufficiently subtle, unclear, and argued over
 that it is eliminated (echoing the viewpoint of the original Penn Treebank annotators).
