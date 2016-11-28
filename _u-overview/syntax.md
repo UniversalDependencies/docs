@@ -355,6 +355,7 @@ Similarly, the core grammatical relations differentiate core arguments that are 
 
 Relation names attempt to differentiate canonical voice (where the proto-agent argument is the subject) from non-canonical voice constructions (where another argument is the subject). This is marked as appropriate on both the subject argument (e.g., nsubjpass) and auxiliaries indicating this (auxpass). Marking both is helpful, as either may be missing.
 -->
+
 ### Clausal Dependents
 
 To classify dependents of the main predicate in a clause, the UD taxonomy obeys the following principles:
