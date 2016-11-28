@@ -127,7 +127,8 @@ Tokens that are not words have an underscore in the UPOSTAG, XPOSTAG and FEATS f
 The HEAD and DEPREL fields are used to encode a dependency tree over words. The DEPREL value should be a [universal dependency relation](u/dep/index.html) or a language-specific subtype of such a relation (defined in the language-specific documentation). 
 As in the case of morphology, syntactic annotation is only provided for words, and
 tokens that are not words have an underscore in both the HEAD and DEPREL fields. 
-<!-- However, the script that extracts the token sequence optionally provides a heuristic mapping of the morphological and syntactic annotation to non-word tokens. For example, given the following annotation of the English sentence _I haven't a clue_:
+
+<!--However, the script that extracts the token sequence optionally provides a heuristic mapping of the morphological and syntactic annotation to non-word tokens. For example, given the following annotation of the English sentence _I haven't a clue_:
 
     1     I         I      PRON    PRP   Case=Nom|Number=Sing|Person=1     2   nsubj
     2-3   haven't   _      _       _     _                                 _   _
@@ -147,7 +148,6 @@ We can extract the following approximation at the token level (with token indexi
 
 The usefulness of this approximate representation will vary from language to language, depending on the divergence between tokens and words and on the arbitrariness of the heuristic mapping.
 -->
-
 The HEAD and DEPREL values define the basic dependencies which must be strictly a tree. However, in addition to these basic dependencies, treebanks may optionally provide an enhanced dependency representation that specifies additional dependency relations, for example, when dependencies propagate over coordinate structures. The enhanced dependency representation, which in general is a graph and not a tree, is specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar (\|) to separate list items and underscore for the empty list. The list is to be sorted by the index of the head: `4:nsubj|11:nsubj`.
 
 Note that the DEPS field should be a self-contained representation of the enhanced dependency graph, which means that dependencies that are shared between the basic and the enhanced dependency representations must be repeated in the DEPS field. Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
