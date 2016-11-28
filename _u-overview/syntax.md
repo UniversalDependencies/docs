@@ -2,12 +2,49 @@
 layout: base
 title:  'Syntax'
 permalink: u/overview/syntax.html
+udver: '2'
 ---
 
 # Syntax: General Principles
 
-Syntactic annotation in the UD scheme consists of typed dependency relations between words. 
-Each word is either the dependent of one other word in the sentence or of a notional ROOT of the sentence. This means that the dependencies can be thought of as a directed acyclic graph which is a tree (i.e., which has a single root).
+Syntactic annotation in the UD scheme consists of typed dependency relations between words. The _basic_ dependency representation forms a tree, where exactly one word is dependent on a notional ROOT and all other words are dependent 
+on another word in the sentence, as exemplified below (where we explicitly represent the root dependency which will 
+otherwise be left implicit).
+
+~~~sdparse
+she wanted to buy and eat an apple
+nsubj(wanted, she)
+root(ROOT, wanted)
+mark(buy, to)
+xcomp(wanted, buy)
+cc(eat, and)
+conj(buy, eat)
+det(apple, det)
+obj(buy, apple)
+~~~
+
+In addition to the basic dependency representation, which is obligatory in all UD treebanks, it is possible to give an _enhanced_ dependency representation, which adds (and in a few cases changes) relations in order to give a more complete
+basis for semantic interpretation. The enhanced representation is in general 
+not a tree but a general graph structure, as shown below.
+
+~~~sdparse
+she wanted to buy and eat an apple
+nsubj(wanted, she)
+nsubj(buy, she)
+nsubj(eat, she)
+root(ROOT, wanted)
+mark(buy, to)
+xcomp(wanted, buy)
+cc(eat, and)
+conj(buy, eat)
+det(apple, det)
+obj(eat, apple)
+obj(buy, apple)
+~~~
+
+In the rest of this document, we discuss the fundamental principles of our dependency annotation, focusing on aspects that are common to both the basic and the enhanced representation. More detailed annotation guidelines can be found separately for [basic dependencies](specific-syntax.html) and [enhanced dependencies](enhanced.html).
+
+CONTINUE HERE
 The goal of the typed dependency relations is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated.
 The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance. We now try to lay down some general principles that should guide the use of universal 
 dependencies to achieve as much parallelism as possible (but not more) across languages. 
