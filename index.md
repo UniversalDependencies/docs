@@ -25,7 +25,7 @@ udver: '2'
 * [CoNLL-U format](format.html)
 
 <small>
-This is the online documentation for Universal Dependencies, version 2 (2016-12-01).
+This is the online documentation for Universal Dependencies, version 2 (2016-12-01). 
 Pages that have not yet been (fully) revised are marked: "This page still pertains to UD version 1."
 </small>
 
