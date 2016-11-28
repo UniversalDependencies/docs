@@ -248,58 +248,64 @@ cop(mother, is-15)
 (2)
 
 ~~~ sdparse
-она милая \n she nice
-nsubj(милая, она)
+(ona) je milá \n she is nice
+nsubj(milá, (ona))
 nsubj(nice, she)
+cop(milá, je)
+cop(nice, is)
 ~~~
 
 (3)
 
 ~~~ sdparse
-она на кухне \n she in kitchen
-nsubj(кухне, она)
+(ona) je v kuchyni \n she is in kitchen
+nsubj(kuchyni, (ona))
 nsubj(kitchen, she)
-case(кухне, на)
+cop(kuchyni, je)
+cop(kitchen, is)
+case(kuchyni, v)
 case(kitchen, in)
 ~~~
 
 (4)
 
 ~~~ sdparse
-это ее \n it hers
-nsubj(ее, это)
+to je její \n it is hers
+nsubj(její, to)
 nsubj(hers, it)
+cop(její, je)
+cop(hers, is)
 ~~~
 
 (5)
 
 ~~~ sdparse
-это для нее \n it for her
-nsubj(нее, это)
+to je pro ni \n it is for her
+nsubj(ni, to)
 nsubj(her, it)
-case(нее, для)
+cop(ni, je)
+cop(her, is)
+case(ni, pro)
 case(her, for)
 ~~~
 
 (6a) 
 
-The form _есть_ is originally the 3rd person singular present indicative of the verb _быть_ (which also functions as copula). However, in Modern Russian this form is used only in existential statements, in both numbers and all persons. Past and future existential statements still use normal forms of _быть._
-
 ~~~ sdparse
-есть еда \n is food
-nsubj(есть, еда)
+jídlo je \n food is
+nsubj(je, jídlo)
 nsubj(is, food)
 ~~~
 
 (6b) 
 
 ~~~ sdparse
-есть еда на кухне \n is food in kitchen
-nsubj(есть, еда)
-nsubj(is, food)
-obl(есть, кухне)
-obl(is, kitchen)
-case(кухне, на)
+v kuchyni je jídlo \n in kitchen is food
+nsubj(kuchyni, jídlo)
+nsubj(kitchen, food)
+cop(kuchyni, je)
+cop(kitchen, is)
+case(kuchyni, v)
 case(kitchen, in)
 ~~~
 
