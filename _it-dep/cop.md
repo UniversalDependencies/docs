@@ -50,10 +50,24 @@ root(ROOT, sono)
 expl(sono, Vi)
 nsubj(sono, migliaia)
 ~~~
+~~~ sdparse
+ROOT In armeria ci sono 300 armature
+root(ROOT, sono)
+expl(sono, ci)
+nsubj(sono, armeria)
+~~~
+~~~ sdparse
+ROOT Il Presidente è in il mirino dei suoi attacchi
+root(ROOT, è)
+nsubj(è, Presidente)
+nmod(è, mirino)
+~~~
 
+* the predicate is a prepositional phrase, in which case the nominal part of the prepositional phrase is the head of the clause, with a few exception in case of idiomatic forms, such as *in forma* (in shape), expressing a property (predicative sentences).
 
 ~~~ sdparse
-La scultura è di il pachistano Hamad Butt
+ROOTLa scultura è di il pachistano Hamad Butt
+root(ROOT, è)
 nsubj(è, scultura)
 case(Hamad, di)
 det(Hamad, il)
@@ -61,6 +75,23 @@ nmod(è, Hamad)
 amod(Hamad, pachistano)
 name(Hamad, Butt)
 ~~~
+~~~ sdparse
+ROOT Oggi è in grado di dir ci qualcosa
+root(ROOT, è)
+nmod(è, grado)
+case(grado, in)
+acl(grado, dir)
+mark(dir, di)
+iobj(dir, ci)
+~~~
 
+* the complement of the verb *essere* is a subordinate clause
 
-
+~~~ sdparse
+ROOT La verità è che la spesa sanitaria sta esplodendo
+root(ROOT, è)
+nsubj(è, verità)
+ccomp(è, esplodendo)
+nsubj(esplodendo, spesa)
+mark(esplodendo, che)
+~~~
