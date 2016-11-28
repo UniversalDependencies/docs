@@ -1,16 +1,34 @@
 ---
 layout: base
-title:  'Universal Dependencies'
+title:  'Universal Dependency Relations'
 generated: 'true'
 permalink: u/dep/index.html
 ---
 
-# Universal Dependencies
+# Universal Dependency Relations
 
-The idea of universal dependencies is to propose a set of universal grammatical relations which can be used with relative fidelity to capture any dependency relation between words in any language. Each dependency relation should be typed with one of the relations in the table below.
+The following table lists the 36 universal syntactic relations used in UD v2. It is a revised version of the relations 
+originally described in [*Universal Stanford Dependencies: A cross-linguistic typology*](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf) (de Marneffe *et al.* 2014). 
 
-The table is adapted from [*Universal Stanford Dependencies:
-A cross-linguistic typology*](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf) (de Marneffe *et al.* 2014). There have been modifications in the relations: we now have 40 universal relations (instead of the 42 ones proposed in the paper).
+The upper part of the table follows the main organizing principles of the UD taxonomy:
+
+* Rows correspond to functional categories in relation to the head:
+    * Core arguments of clausal predicates
+    * Non-core dependents of clausal predicates
+    * Dependents of nominals
+* Columns correspond to structural categories of the dependent:
+    * Nominals
+    * Clauses
+    * Modifier words
+    * Function words
+
+The lower part of the table lists relations that are not dependency relations in the narrow sense:
+
+* Relations used to analyze coordination
+* Relations used to analyze multiword expressions (MWE)
+* Loose joining relations
+* Special relations for ellipsis, disfluencies, and orthographic errors
+* Special relations for clausal heads, punctuation and other relations
 
 {% include u-dep-table.html %}
 
