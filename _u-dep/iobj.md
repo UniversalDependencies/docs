@@ -2,10 +2,11 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
 The indirect object of a verb is any nominal phrase that is a core
-argument of the verb but is not its subject or [direct object](dobj).
+argument of the verb but is not its subject or (direct) [object](obj).
 The prototypical example is the recipient of ditransitive verbs of
 exchange:
 
@@ -18,7 +19,7 @@ However, many languages allow other semantic roles as additional objects. The mo
 
 ~~~ sdparse
 Umukoóbwa a-ra-andik-iish-a íbárúwa íkárámu \n girl 1-PRS-write-APPL-ASP letter pen
-dobj(a-ra-andik-iish-a, íbárúwa)
+obj(a-ra-andik-iish-a, íbárúwa)
 iobj(a-ra-andik-iish-a, íkárámu)
 ~~~
 
@@ -29,29 +30,29 @@ In the following Czech example, the verb takes two arguments, both are nouns in 
 
 ~~~ sdparse
 On učí mou dceru matematiku . \n He teaches my daughter.Acc maths.Acc .
-dobj(učí, matematiku)
+obj(učí, matematiku)
 iobj(učí, dceru)
-dobj(teaches, maths.Acc)
+obj(teaches, maths.Acc)
 iobj(teaches, daughter.Acc)
 ~~~
 
 In general, if there is just one object, it should be labeled
-[dobj](), regardless of the morphological case or semantic role. For example, in English, _teach_ can take either the subject matter or the recipient as the only object, and in both cases it would be analyzed ad the [dobj]():
+[obj](), regardless of the morphological case or semantic role. For example, in English, _teach_ can take either the subject matter or the recipient as the only object, and in both cases it would be analyzed ad the [obj]():
 
 ~~~ sdparse
 She teaches introductory logic
-dobj(teaches, logic)
+obj(teaches, logic)
 ~~~
 
 ~~~ sdparse
 She teaches the first-year students
-dobj(teaches, students)
+obj(teaches, students)
 ~~~
 
 This is consistent with the analysis of Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”,
 chapter 4 section 4 (p. 251).  As they note, it is no different to the same semantic role being sometimes the subject
 and sometimes the object in intransitive/transitive alternations. The one exception is when there is a clausal complement.
-Then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an iobj, parallel to
+Then the clausal complement is regarded as a “clausal object” and an object nominal will be an iobj, parallel to
 the simple ditransitive case:
 
 ~~~ sdparse
@@ -63,11 +64,11 @@ ccomp(told, needed)
 ~~~ sdparse
 She told the students the plan
 iobj(told, students)
-dobj(told, plan)
+obj(told, plan)
 ~~~
 
 If there are two or
-more objects, one of them should be [dobj]() and the others should be
+more objects, one of them should be [obj]() and the others should be
 `iobj`. In such cases it is necessary to decide what is the
 most directly affected object _(patient)._ If possible,
 language-specific documentation should help identify direct and
