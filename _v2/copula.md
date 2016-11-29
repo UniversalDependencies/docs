@@ -18,13 +18,13 @@ following changes in v2:
 
 The main problem is the lack of standardisation. Leaving aside the Galician example, which appears to be a conversion error, the Spanish treebank has over 229 verbs with the `cop` relation, where the Swedish treebank has one.
 
-~~~sdparse
+~~~ sdparse
 Éste quedó sorprendido . \n He was/stayed surprised
 cop(sorprendido, quedó)
 nsubj(sorprendido, Éste)
 ~~~
 
-~~~sdparse
+~~~ sdparse
 Han blev överraskad . \n He was/became surprised
 nsubj(blev, Han)
 xcomp(blev, överraskad)
@@ -32,13 +32,13 @@ xcomp(blev, överraskad)
 
 Treebanks differ in if they treat the PP/case-marked nominal as head, in Swedish it is head, while in Finnish it is dependent:
 
-~~~sdparse
+~~~ sdparse
 Hon är i huset
 nsubj(huset, Hon)
 cop(huset, är)
 ~~~
 
-~~~sdparse
+~~~ sdparse
 Se on talossa
 nsubj(on, Se)
 nmod(on, talossa)
@@ -46,7 +46,7 @@ nmod(on, talossa)
 
 There is also variation within a language, for example, the existential construction with copula in English:
 
-~~~sdparse
+~~~ sdparse
 There is a book on the table .
 expl(is, There)
 nsubj(is, book)
@@ -54,7 +54,7 @@ nsubj(is, book)
 
 Compared to the bare copula:
 
-~~~sdparse
+~~~ sdparse
 A book is on the table .
 nsubj(table, book)
 cop(table, is)
@@ -62,7 +62,7 @@ cop(table, is)
 
 We also do not provide a consistent analysis when one side of the copula is a clause:
 
-~~~sdparse
+~~~ sdparse
 The important thing is to keep calm
 nsubj(is, thing)
 ccomp(is, keep)
@@ -81,8 +81,8 @@ In order to achieve a more consistent treatment of nonverbal predication in v2, 
 
 We then give the following guidelines for the analysis of these constructions:
 
-* If there is no overt linking word (or if such a word can be omitted at least in some persons or tenses), then the final nominal is treated as the head of the clause regardless of which of the six categories it falls in.
-* If there is an overt linking word used in equational constructions (category 1), then that word is treated as a copula and marked with the `cop` dependency, and is not the head of the clause. **Exception:** If the second element in the equation is a clause, then the copula verb is treated as the head of the clause, with the following clause as an `xcomp` (to prevent that the head of the smaller clause gets two subjects).
+* If there is no overt linking word (or if such a word can be omitted at least in some persons or tenses), then the predicative nominal is treated as the head of the clause regardless of which of the six categories it falls in. In languages with fixed SVO order (like English), the final nominal is the predicate and the first nominal is the subject. In free-word-order languages it is possible that the first nominal is the predicate, and distinguishing the subject from the predicate is based on language-specific criteria.
+* If there is an overt linking word used in equational constructions (category 1), then that word is treated as a copula and marked with the `cop` dependency, and is not the head of the clause. **Exception:** If the predicative element in the equation is a clause, then the copula verb is treated as the head of the clause, with the following clause as an `xcomp` (to prevent that the head of the smaller clause gets two subjects). Note that in some languages it may be instead possible to analyze the clause as the subject (`csubj`), retaining the `cop` relation for the copula verb.
 * If there is an overt word used in existential constructions (category 6), which is different from the copula in equational constructions (either a different lemma or with different syntax), then it should be regarded as being the head of existence clauses, taking a subject (and often a locative obl).
 * All other cases of putative copula constructions (categories 2-5) should be assimilated to the equational and existential cases as seems to make most sense according to the inherent logic of the language concerned. 
 * A language should normally have at most one copula, but exceptions can be made in case of defective paradigms or if there are two verbs alternating in categories 1-5 (but not in 6) and where any meaning difference reflect at most TAME categories.
