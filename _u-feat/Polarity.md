@@ -4,6 +4,7 @@ title: 'Polarity'
 shortdef: 'polarity'
 redirect_from: "u/feat/Negativeness.html"
 redirect_from: "u/feat/Negative.html"
+udver: '2'
 ---
 
 Polarity is typically a feature of [verbs](u-pos/VERB),
@@ -37,6 +38,8 @@ is no such thing as "affirmative pronoun".)
 
 The `Polarity` feature can be also used to distinguish response
 [interjections](u-pos/INTJ) _yes_ and _no_.
+
+Note: `Polarity` was called `Negative` in the version 1 of UD guidelines and it is renamed in version 2.
 
 ### `Pos`: positive, affirmative
 
