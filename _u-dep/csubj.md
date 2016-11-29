@@ -12,6 +12,10 @@ clause is the complement of the copular verb. The dependent is the main lexical 
 predicate of the subject clause. In the following
 examples, *what she said* (that is, *said*) is the clausal subject of *makes* and *interesting*, respectively.
 
+**New from v2:** The `csubj` relation is also used for the clausal subject of a passive verb or verb group. For languages
+that have a grammaticalized passive transformation, it is strongly recommended to use the subtype `csubj:pass` in 
+such cases.
+
 ~~~ sdparse
 What she said makes sense
 csubj(makes, said)
@@ -21,10 +25,6 @@ csubj(makes, said)
 What she said is interesting
 csubj(interesting, said)
 ~~~
-
-** New from v2:** The `csubj` relation is also used for the clausal subject of a passive verb or verb group. For languages
-that have a grammaticalized passive transformation, it is strongly recommended to use the subtype `csubj:pass` in 
-such cases.
 
 ~~~ sdparse
 What she said was well received
