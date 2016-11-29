@@ -2,8 +2,9 @@
 layout: feature
 title: 'Polarity'
 shortdef: 'polarity'
-redirect_from: "u/feat/Negativeness.html"
-redirect_from: "u/feat/Negative.html"
+redirect_from:
+  - "u/feat/Negativeness.html"
+  - "u/feat/Negative.html"
 udver: '2'
 ---
 
