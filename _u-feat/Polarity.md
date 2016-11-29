@@ -49,7 +49,7 @@ Note: `Polarity` was called `Negative` in the version 1 of UD guidelines and it 
 * [cs] _<b>velký</b>_ “big”
 * [en] _<b>yes</b>_
 
-### Neg: negative
+### `Neg`: negative
 
 #### Examples
 
