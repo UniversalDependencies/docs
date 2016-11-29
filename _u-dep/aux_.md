@@ -5,14 +5,17 @@ shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "u/dep/aux.html"
+udver: '2'
 ---
 
-An auxiliary of a clause is a [non-main verb](u-pos/AUX) of the
-clause, e.g., a modal auxiliary, or a form of _be, do_ or _have_ in a
-periphrastic tense.
+An `aux` (auxiliary) of a clause is a function word associated with a verbal predicate that
+expresses categories such as tense, mood, aspect, voice or evidentiality. It is often a verb 
+(which may have non-auxiliary uses as well) but many languages have nonverbal TAME markers and these
+are also treated as instances of `aux`. 
 
-Exception: Auxiliary verb used to construct the passive
-[voice](u-feat/Voice) is not labeled `aux` but [auxpass]().
+**New from v2:** Auxiliares used to construct the passive voice [voice](u-feat/Voice) are now also labeled `aux`,
+although we strongly encourage the use of the subtype `aux:pass` in language that have a grammaticalized (periphrastic)
+passive. 
 
 ~~~ sdparse
 Reagan has died
