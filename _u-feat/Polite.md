@@ -60,19 +60,10 @@ and people of higher social status than the one of the speaker.
 
 Examples:
 [cs]
-<span style='color: red'><I>vy
-</I></span><span style='color: red'><I>jdete</I></span>
-(you
-go.Sing/Plur);
+_<b>vy jdete</b>_ (you go.Sing/Plur);
 [de]
-<span style='color: red'><I>Sie
-</I></span><span style='color: red'><I>gehen</I></span>
-(you go.Sing/Plur); [es] <span style='color: red'><I>usted
-</I></span><span style='color: red'><I>va
-/ ustedes van</I></span>
-(you
-go.Sing/Plur); [ja]
-<span style='color: red'>行きません
-<I>ikimasen</I></span>
-(will
-not go).
+_<b>Sie gehen</b>_ (you go.Sing/Plur);
+[es]
+_<b>usted va / ustedes van</b>_ (you go.Sing/Plur);
+[ja]
+<b>行きません _ikimasen_</b> (will not go).
