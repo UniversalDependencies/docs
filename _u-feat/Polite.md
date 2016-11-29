@@ -34,7 +34,7 @@ Japanese, verbs
 and other words have polite and informal forms but
 the polite register is not restricted to addressing people.
 
-### Inf: informal register
+### `Inf`: informal register
 
 Usage
 varies but if the language distinguishes levels of politeness, then
@@ -43,27 +43,15 @@ members and close friends.
 
 Examples:
 [cs]
-<span style='color: red'><I>ty
-</I></span><span style='color: red'><I>jdeš
-</I></span><span style='color: red'><I>/
-vy </I></span><span style='color: red'><I>jdete</I></span>
-(you
-go.Sing/Plur);
+_<b>ty jdeš / vy jdete</b>_ (you go.Sing/Plur);
 [de]
-<span style='color: red'><I>du
-</I></span><span style='color: red'><I>gehst
-</I></span><span style='color: red'><I>/
-ihr </I></span><span style='color: red'><I>geht</I></span>
-(you go.Sing/Plur); [es] <span style='color: red'><I>tú
-vas / vosotros vais</I></span>
-(you
-go.Sing/Plur); [ja]
-<span style='color: red'>行かない
-<I>ikanai</I></span>
-(will
-not go)<I>.</I>
+_<b>du gehst / ihr geht</b>_ (you go.Sing/Plur);
+[es]
+_<b>tú vas / vosotros vais</b>_ (you go.Sing/Plur);
+[ja]
+<b>行かない _ikanai_</b> (will not go).
 
-### Pol: polite register
+### `Pol`: polite register
 
 Usage
 varies but if the language distinguishes levels of politeness, then
