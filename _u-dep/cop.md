@@ -6,8 +6,8 @@ udver: '2'
 ---
 
 A `cop` (copula) is the relation of a function word used to link a subject to a nonverbal predicate.
-It is often a verb but nonverbal copulas are also frequent in the world's language. The `cop` relation
-should only be used for pure copula verbs that add at most TAME categories to the meaning of the predicate,
+It is often a verb but nonverbal copulas are also frequent in the world's languages. The `cop` relation
+should only be used for pure copulas that add at most TAME categories to the meaning of the predicate,
 which means that most languages have at most one copula, and only when the nonverbal predicate is treated
 as the head of the clause.
 
