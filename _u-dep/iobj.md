@@ -37,7 +37,7 @@ iobj(teaches, daughter.Acc)
 ~~~
 
 In general, if there is just one object, it should be labeled
-[obj](), regardless of the morphological case or semantic role. For example, in English, _teach_ can take either the subject matter or the recipient as the only object, and in both cases it would be analyzed ad the [obj]():
+[obj](), regardless of the morphological case or semantic role. For example, in English, _teach_ can take either the subject matter or the recipient as the only object, and in both cases it would be analyzed as the [obj]():
 
 ~~~ sdparse
 She teaches introductory logic
