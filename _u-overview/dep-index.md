@@ -8,7 +8,7 @@ udver: '2'
 
 # Universal Dependency Relations
 
-The following table lists the 36 universal syntactic relations used in UD v2. It is a revised version of the relations 
+The following table lists the 37 universal syntactic relations used in UD v2. It is a revised version of the relations 
 originally described in [*Universal Stanford Dependencies: A cross-linguistic typology*](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf) (de Marneffe *et al.* 2014). 
 
 The upper part of the table follows the main organizing principles of the UD taxonomy such that _rows_ correspond to functional categories in relation to the head (core arguments of clausal predicates, non-core dependents of clausal predicates, and dependents of nominals) while _columns_ correspond to structural categories of the dependent
