@@ -11,6 +11,7 @@ Since UD does not allow "words with spaces" (but see a partly new proposal under
 * Rename [u-dep/mwe]() to **fixed** and make clear that this should only be used for completely fixed expressions
 <!--* Change the direction of arrows (right-to-left instead of left-to-right) for this relation as well as the other non-dependency relations [u-dep/name]() and [u-dep/foreign]() (see also [semantic categories](semantic-categories.html))-->
 * Rename [u-dep/name]() to **flat** and extend its use to semi-fixed multiword expressions that do not have a clear syntactic head. (See [semantic categories](semantic-categories.html).)
+* Remove [u-dep/foreign]() and subsume its use under the new relation [u-dep/flat]().
 * Add a new subtype of [u-dep/compound]() for handling serial verb constructions in analogy with particle verbs
 and grammticized light verb constructions.
 
@@ -20,6 +21,10 @@ It seems that the label `mwe` (multiword expression) has led to a lot of confusi
 [Sag et al.](http://lingo.stanford.edu/pubs/WP-2001-03.pdf), excluding any relations in scope of [u-dep/name]() or [u-dep/compound](). The label `fixed` reflects this fact better.
 
 The proposed change is therefore to change the label `mwe` (multiword expression) to `fixed`, and making the guidelines more restrictive (namely, [fixed](u-dep/mwe) is used **only** for completely fixed grammaticized expressions that behave like function words or short adverbials).
+
+## Remove foreign
+
+The `foreign` relation does not denote a proper dependency relation and it now seems appropriate to subsume it under the new generalized `flat` relation. Note that there was never a special part-of-speech tag for foreign words, which were tagged `X` in cases where they could not be given a proper tag. The use of `flat` in syntax can be seen as parallel to this. A subtype `flat:foreign` can be used to preserve information in existing treebanks.
 
 ## Serial verb constructions
 
