@@ -404,9 +404,87 @@ In Finnish the copula verb is _olla_ "to be".
 
 In Turkish, there are two copula verbs, _i-_ and _ol-_. The "true" copula is _i-_ which is defective, only having a limited number of tense forms (aorist and past), and cliticising. When a copula is needed in another tense, _ol-_ is employed. However, if there is a form of _i-_ then the equivalent form of _ol-_ takes on the meaning "become".
 
-In the present tense, third person singular aorist non-formal then there is no overt suffix for third person singular. Unlike Russian, where the copula verb does not appear in any part of the present tense paradigm, in Turkish it appears in all persons except third person. This means that it is more like the nominative case in the paradigm (which also has a -Ø suffix, than like the Russian copula).
+In the present tense, third person singular aorist non-formal then there is no overt suffix for third person singular. Unlike Russian, where the copula verb does not appear in any part of the present tense paradigm, in Turkish it appears in all persons except third person (compare 1a and 1b). This means that it is more like the nominative case in the paradigm (which also has a -Ø suffix, than like the Russian copula).
 
-In Turkish (and indeed in most Turkic languages), existence is a syntactically different, using an adjective _var_ "existent", and so gets a different structure.
+In Turkish (and indeed in most Turkic languages), existence is a syntactically different (see 6a and 6b), using an adjective _var_ "existent", and so gets a different structure.
+
+(1a)
+
+~~~ sdparse
+O benim annem . \n she my mother
+nsubj(annem, O)
+nsubj(mother, she)
+~~~
+
+(1a)
+
+~~~ sdparse
+Ben senin baban -ım . \n I your father am
+nsubj(baban, O)
+cop(baban, -ım)
+nsubj(father, I)
+~~~
+
+(1c)
+
+~~~ sdparse
+O benim annem -di . \n she my mother was
+nsubj(annem, O)
+cop(annem, -di)
+nsubj(mother, she)
+~~~
+
+
+(2)
+
+~~~ sdparse
+O hoş . \n She nice
+nsubj(hoş, O)
+nsubj(nice, She)
+~~~
+
+(3)
+
+~~~ sdparse
+O mutfakta . \n She kitchen-in .
+nsubj(mutfakta, O)
+nsubj(kitchen-in, She)
+~~~
+
+(4)
+
+~~~ sdparse
+Bu onun . \n It hers .
+nsubj(onun, Bu)
+nsubj(hers, It)
+~~~
+
+(5)
+
+~~~ sdparse
+Bu onun için . \n It hers for .
+nsubj(onun, Bu)
+case(onun, için)
+nsubj(hers, It)
+case(hers, for)
+~~~
+
+(6a)
+~~~ sdparse
+Yemek var . \n Food existing .
+nsubj(var, Yemek)
+nsubj(existing, Food)
+~~~
+
+(6b)
+~~~ sdparse
+Mutfakta yemek var . \n Kitchen-in food existing .
+nsubj(var, yemek)
+obl(var, Mutfakta)
+nsubj(existing, food)
+obl(existing, Kitchen-in)
+~~~
+
 
 ## Status quo
 
