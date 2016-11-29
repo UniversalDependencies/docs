@@ -70,3 +70,4 @@ and for the agent of a passive verb (with the optional subtype obl:agent):
 the cat was chased by the dog
 nsubj:pass(chased, cat)
 obl:agent(chased, dog)
+~~~
