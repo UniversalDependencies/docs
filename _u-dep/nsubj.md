@@ -31,7 +31,7 @@ nsubj(defeated, Clinton)
 ~~~
 
 ~~~ sdparse
-Dole was defeated by Clinyon
+Dole was defeated by Clinton
 nsubj:pass(defeated, Dole)
 ~~~
 
