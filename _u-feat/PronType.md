@@ -21,9 +21,11 @@ shortdef: 'pronominal type'
 </tr>
 </table>
 
-This feature typically applies to [pronouns](u-pos/PRON),
-[determiners](u-pos/DET), pronominal [numerals](u-pos/NUM)
-(quantifiers) and pronominal [adverbs](u-pos/ADV).
+This feature typically applies to
+[pronouns](u-pos/PRON),
+pronominal adjectives ([determiners](u-pos/DET)),
+pronominal [numerals](u-pos/NUM) (quantifiers) and
+pronominal [adverbs](u-pos/ADV).
 
 ### `Prs`: personal or possessive personal pronoun or determiner
 
