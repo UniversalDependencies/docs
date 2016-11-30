@@ -7,7 +7,7 @@ udver: '2'
 
 <table class="typeindex" border="1">
 <tr>
-  <td style="background-color:cornflowerblue"><strong>Values:</strong> </td>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Art">Art</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>

@@ -7,7 +7,7 @@ udver: '2'
 
 <table class="typeindex" border="1">
 <tr>
-  <td style="background-color:cornflowerblue"><strong>Values:</strong> </td>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Card">Card</a></td>
   <td><a href="#Dist">Dist</a></td>
   <td><a href="#Frac">Frac</a></td>
@@ -55,24 +55,15 @@ between numerals and nouns for _thousand, million_ and _billion._
   as "generic numerals", which also encompasses some other rare types;
   nevertheless, `Card` is the closest match for them among the universal types.
 
-
-
-
-Czech school grammar distinguishes this subclass, which is why it
-appears in Czech tagsets. Other Slavic languages may have similar
-words but their traditional classification may differ. (Note that
-"generic numerals" in Czech grammar also include the `Sets` subclass
-mentioned above and part of the `Mult` subclass above.)
-
-Czech:        <feat name="NumType" value="Gen" upos="ADJ">62</feat><!-- dvojí, obojí, dvojím, dvojího, obojím, trojí, dvojími, obého -->
-Czech CAC:    <feat name="NumType" value="Gen" upos="ADJ">33</feat><!-- dvojí, obojí, dvojím, trojí, dvojího, trojím, dvojímu, obojího, obojím -->
-Croatian:     <feat name="NumType" value="Gen" upos="NUM">85</feat><!-- obje, oba, obiju, 50%, deseci, objema, 20%, 30%, 9%, dvoje -->
-Slovenian:    <feat name="NumType" value="Gen" upos="ADJ">4</feat><!-- dvojnega, dvojnim, dvojno, trojnim -->
-SlovSST:      <feat name="NumType" value="Gen" upos="ADJ">3</feat><!-- dvojni, dvojno, trojni -->
-Italian:      <feat name="NumType" value="Gen" upos="NUM">21</feat><!-- 6', 1'13'', 1.00'16'', 1.19'59'', 10'', 11'06'', 13', 19'43'', 2'42'', 20'01'' -->
-Greek:        <feat name="NumType" value="Gen" upos="NUM">19</feat><!-- δεκάδες, χιλιάδες, εκατοντάδες, χιλιάδων, διπλάσιο, εκατοντάδων -->
-
-
+<!--
+Czech:        <feat name="NumType" value="Gen" upos="ADJ">62</feat><!-- dvojí, obojí, dvojím, dvojího, obojím, trojí, dvojími, obého
+Czech CAC:    <feat name="NumType" value="Gen" upos="ADJ">33</feat><!-- dvojí, obojí, dvojím, trojí, dvojího, trojím, dvojímu, obojího, obojím
+Croatian:     <feat name="NumType" value="Gen" upos="NUM">85</feat><!-- obje, oba, obiju, 50%, deseci, objema, 20%, 30%, 9%, dvoje
+Slovenian:    <feat name="NumType" value="Gen" upos="ADJ">4</feat><!-- dvojnega, dvojnim, dvojno, trojnim
+SlovSST:      <feat name="NumType" value="Gen" upos="ADJ">3</feat><!-- dvojni, dvojno, trojni
+Italian:      <feat name="NumType" value="Gen" upos="NUM">21</feat><!-- 6', 1'13'', 1.00'16'', 1.19'59'', 10'', 11'06'', 13', 19'43'', 2'42'', 20'01''
+Greek:        <feat name="NumType" value="Gen" upos="NUM">19</feat><!-- δεκάδες, χιλιάδες, εκατοντάδες, χιλιάδων, διπλάσιο, εκατοντάδων
+-->
 
 ### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
