@@ -49,7 +49,7 @@ personal/possessive pronouns (e.g. [cs] _se / svůj;_ see the
 * [de] _einander,_ “each other”
 * [da] _hinanden_ “each other”
 
-### `Art`: article
+### <a name="Art">`Art`</a>: article
 
 Article is a special case of determiner that bears the feature of
 [definiteness](Definite) (in other languages, the feature may be
