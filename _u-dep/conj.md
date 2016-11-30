@@ -2,6 +2,7 @@
 layout: relation
 title: 'conj'
 shortdef: 'conjunct'
+udver: '2'
 ---
 
 A conjunct is the relation between two elements connected by a
@@ -26,14 +27,14 @@ punct(apples, ,-6)
 punct(apples, ,-8)
 </div>
 
-Coordinate clauses are treated the same way as coordination of other constituent types:
+Coordinated clauses are treated the same way as coordination of other constituent types:
 
 ~~~ sdparse
 He came home , took a shower and immediately went to bed .
 conj(came, took)
 conj(came, went)
-punct(came, ,-4)
-cc(came, and)
+punct(took, ,-4)
+cc(went, and)
 ~~~
 
 Coordination may be _asyndetic,_ which means that the coordinating conjunction is omitted.
@@ -44,8 +45,8 @@ Asyndetic coordination may be more frequent in some languages, while in others, 
 Veni , vidi , vici .
 conj(Veni, vidi)
 conj(Veni, vici)
-punct(Veni, ,-2)
-punct(Veni, ,-4)
+punct(vidi, ,-2)
+punct(vici, ,-4)
 ~~~
 
 ### Shared Dependents and Effective Parents in Coordination
@@ -93,25 +94,23 @@ ccomp(saw, kissed)
 ~~~
 
 If a dependent is shared among conjuncts, the basic representation always links it to the
-first conjunct (coordination head).
-Relations to the other conjuncts are in the enhanced representation.
-In the following example, enhanced dependencies are shown in red:
-
+first conjunct (coordination head), while the enhanced representation shows all dependencies.
+In the following example, relations that are only part of the enhanced representation are shown in red.
 ~~~ conllu
 # visual-style 6 1 amod color:red
 # visual-style 4 3 amod color:red
 # visual-style 6 3 amod color:red
 1 American   _ _ _ _ 4 amod 6:amod        _
-2 and        _ _ _ _ 1 cc   _             _
+2 and        _ _ _ _ 3 cc   _             _
 3 British    _ _ _ _ 1 conj 4:amod|6:amod _
 4 professors _ _ _ _ 0 root _             _
-5 and        _ _ _ _ 4 cc   _             _
+5 and        _ _ _ _ 6 cc   _             _
 6 students   _ _ _ _ 4 conj 0:root        _
 ~~~
 
 ### Nested Coordination
 
-Note further that the current annotation scheme has only a limited capability to capture nested coordination
+Note further that the basuc annotation scheme has only a limited capability to capture nested coordination
 such as _apples and pears or oranges and lemons._
 Consider coordinations
 
