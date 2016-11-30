@@ -46,7 +46,7 @@ indefinite, i.e. “any (one) stick”.
 
 * [en] _<b>the</b> dog_
 
-### <a name="Cons">`Cons`</a>: reduced
+### <a name="Cons">`Cons`</a>: construct state / reduced definiteness
 
 Used in [construct
 state](http://en.wikipedia.org/wiki/Status_constructus) in Arabic. If
