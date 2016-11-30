@@ -17,8 +17,12 @@ udver: '2'
   * [Conversion from other tagsets](tagset-conversion/index.html)
 * Syntax
   * [General principles](u/overview/syntax.html)
-  * [Basic dependencies](u/overview/specific-syntax.html)
-  * [Enhanced dependencies](u/overview/enhanced-syntax.html)
+  * Basic dependencies
+    * [Simple clauses](simple-syntax.html)
+    * [Complex clauses](complex-syntax.html)
+    * [Nominal phrases](nominal-syntax.html)
+    * [Other constructions](specific-syntax.html)
+  * [Enhanced dependencies](enhanced-syntax.html)
   * [Universal dependency relations](u/dep/index.html) ([single document](u/dep/all.html))
   * [Language-specific relations](ext-dep-index.html)
 
