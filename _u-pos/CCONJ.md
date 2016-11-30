@@ -1,6 +1,6 @@
 ---
 layout: postag
-title: 'CONJ'
+title: 'CCONJ'
 shortdef: 'coordinating conjunction'
 ---
 
