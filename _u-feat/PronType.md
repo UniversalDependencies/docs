@@ -28,8 +28,6 @@ pronominal adjectives ([determiners](u-pos/DET)),
 pronominal [numerals](u-pos/NUM) (quantifiers) and
 pronominal [adverbs](u-pos/ADV).
 
-<style>h3 {display:block;background-color:#dfeffc}</style>
-
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
 See also the [Poss]() feature that distinguishes normal personal
