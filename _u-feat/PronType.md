@@ -4,6 +4,22 @@ title: 'PronType'
 shortdef: 'pronominal type'
 ---
 
+<table>
+<tr>
+  <td><a href="#Art">Art</a></td>
+  <td><a href="#Dem">Dem</a></td>
+  <td><a href="#Emp">Emp</a></td>
+  <td><a href="#Exc">Exc</a></td>
+  <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Int">Int</a></td>
+  <td><a href="#Neg">Neg</a></td>
+  <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Rcp">Rcp</a></td>
+  <td><a href="#Rel">Rel</a></td>
+  <td><a href="#Tot">Tot</a></td>
+</tr>
+</table>
+
 This feature typically applies to [pronouns](u-pos/PRON),
 [determiners](u-pos/DET), pronominal [numerals](u-pos/NUM)
 (quantifiers) and pronominal [adverbs](u-pos/ADV).
@@ -19,13 +35,15 @@ personal/possessive pronouns (e.g. [cs] _se / svůj;_ see the
 
 * [en] _I, you, he, she, it, we, they, my, your, his, her, its, our,
   their, mine, yours, hers, ours, theirs_
+* [cs] _já, ty, on, ona, ono, my, vy, oni, ony, se, můj, tvůj, jeho, její, náš,
+  váš, jejich, svůj_
 
 ### `Rcp`: reciprocal pronoun
 
 #### Examples
 
-* [de] _einander,_ "each other"
-* [da] _hinanden_ "each other"
+* [de] _einander,_ “each other”
+* [da] _hinanden_ “each other”
 
 ### `Art`: article
 
@@ -47,7 +65,7 @@ distinguished by the [Poss]() feature.
 #### Examples: 
 
 * [cs/en] _kdo / who, co / what, který / which, čí / whose, kolik /
-  how many, how much, kolikátý / how-maniest_ (ordinal number),
+  how many, how much, kolikátý / how-maniest_ (ordinal quantifier),
   _kolikrát / how many times, kde / where, kam / where to, kdy / when,
   jak / how, proč / why_
 
@@ -55,12 +73,25 @@ distinguished by the [Poss]() feature.
 
 Note that in many languages this class heavily overlaps with
 interrogatives, yet there are pronouns that are only relative, and in
-some languages (Bulgarian, Hindi) the two classes seem to be distinct.
+some languages (Bulgarian, Hindi) the two classes are distinct.
 
 #### Examples: 
 
-* [cs] _jenž, což_ "which", "that" (relative but not interrogative
-  pronouns); _jehož_ "whose" (possessive relative pronoun)
+* [cs] _jenž, což_ “which”, “that” (relative but not interrogative
+  pronouns); _jehož_ “whose” (possessive relative pronoun)
+
+### `Exc`: exclamative determiner
+
+Exclamative pro-adjectives (determiners) express the speaker’s surprise towards
+the modified noun, e.g. _what_ in “What a surprise!” In many languages,
+exclamative determiners are recruited from the set of interrogative determiners.
+Therefore, not all tagsets distinguish them.
+
+#### Examples: 
+
+* [it] _che_
+* [cs] _jaký_ as in “Jaké překvapení!”
+* [en] _what_ as in “What a surprise!”
 
 ### `Dem`: demonstrative pronoun, determiner, numeral or adverb
 
@@ -75,6 +106,17 @@ distinguish a separate feature of distance (_here / there_; [es] _aquí
   / so many times, tady / here, tam / there, teď / now, tehdy / then,
   tak / so_
 
+### `Emp`: emphatic determiner
+
+Emphatic pro-adjectives (determiners) emphasize the nominal they depend on.
+There are similarities with reflexive and demonstrative pronouns / determiners.
+
+#### Examples
+
+* [ro] _însuși_
+* [cs] _sám_
+* [en] _himself_ as in “He himself did it.”
+
 ### `Tot`: total (collective) pronoun, determiner or adverb
 
 #### Examples
@@ -84,16 +126,21 @@ distinguish a separate feature of distance (_here / there_; [es] _aquí
 
 ### `Neg`: negative pronoun, determiner or adverb
 
-Examples: 
+Negative pronominal words are distinguished from negating [particles](u-pos/PART)
+and from words that inflect for polarity (verbs, adjectives etc.) Those words
+do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the
+[Polarity]() feature for further details.
+
+#### Examples: 
 
 * [cs/en] _nikdo / nobody, nic / nothing, nijaký / no, ničí / no
-  one's_ (possessive negative pronoun), _žádný / no, none, nikde /
+  one's_ (possessive negative determiner), _žádný / no, none, nikde /
   nowhere, nikdy / never, nijak / no way_ (lit. “no-how”)
 
 ### `Ind`: indefinite pronoun, determiner, numeral or adverb
 
 Note that some tagsets might further subclassify this category to
-distinguish "some" from "any" etc. Such distinctions are not part of
+distinguish “some” from “any” etc. Such distinctions are not part of
 universal features but may be added in language-specific extensions.
 
 #### Examples
