@@ -8,9 +8,9 @@ udver: '2'
 
 One of the central design decisions of UD is to put priority on syntactic relations between content words and to treat function words essentially as "features" that attach to the content word they modify with special relations like [u-dep/aux](), [u-dep/cop](), [u-dep/mark]() and [u-dep/case](). We propose the following changes to the treatment of function words in v2:
 
-* Add a new relation `clf` for classifiers (see below)
+* Add a new relation [u-dep/clf]() for classifiers (see below)
 * Allow [u-dep/aux]() with nonverbal TAME particles (see below)
-* Remove [u-dep/auxpass]() from the universal relations (see [core dependents](core-dependents.html) for discussion)
+* Remove `auxpass` from the universal relations (see [core dependents](core-dependents.html) for discussion)
 * Limit [u-dep/cop]() to pure linking words (whether verbal or nonverbal) (see [copula](copula.html) for discussion)
 <!--* Allow [u-dep/case]() with subordinate clauses when it has a clear case-marking function (see below)-->
 
@@ -24,7 +24,7 @@ A classifier is a word which accompanies a noun in certain grammatical contexts,
 * 三条河 (三條河) sān tiáo hé = "three rivers", literally "three [long-wavy-classifier] river"
 
 Syntactically, the classifier groups with the numeral, rather than the noun, and the proposal for v2 is to treat classifiers
-as functional dependents of numerals (or possessives) using the new relation `clf`:
+as functional dependents of numerals (or possessives) using the new relation [u-dep/clf]():
 
 ~~~ sdparse
 sān gè xuéshēng \n three clf student
