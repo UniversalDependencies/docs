@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-30T16:24:40Z">2016-11-30T16:24:40 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-30T21:49:14Z">2016-11-30T21:49:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -86,28 +86,91 @@ python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROI
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:31:17Z">2016-09-19T07:31:17 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:44:18Z">2016-11-30T21:44:18 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
 
-*** PASSED ***
+[Line                   102]: Unknown attribute-value pair Foreign=Foreign
+[Line                   103]: Unknown attribute-value pair Foreign=Foreign
+[Line                   108]: Unknown attribute-value pair Foreign=Foreign
+[Line                   109]: Unknown attribute-value pair Foreign=Foreign
+[Line                   122]: Unknown attribute-value pair Foreign=Foreign
+[Line                   136]: Unknown attribute-value pair Foreign=Foreign
+[Line                   190]: Unknown attribute-value pair Foreign=Foreign
+[Line                   306]: Unknown attribute-value pair Foreign=Foreign
+[Line                   326]: Unknown attribute-value pair Foreign=Foreign
+[Line                   328]: Unknown attribute-value pair Foreign=Foreign
+[Line                   329]: Unknown attribute-value pair Foreign=Foreign
+[Line                   331]: Unknown attribute-value pair Foreign=Foreign
+[Line                   337]: Unknown attribute-value pair Foreign=Foreign
+[Line                   371]: Unknown attribute-value pair Foreign=Foreign
+[Line                   375]: Unknown attribute-value pair Foreign=Foreign
+[Line                   379]: Unknown attribute-value pair Foreign=Foreign
+[Line                   385]: Unknown attribute-value pair Foreign=Foreign
+[Line                   402]: Unknown attribute-value pair Foreign=Foreign
+[Line                   429]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 535 errors
+Morpho errors: 535
 
 
 ******************
 
-python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-test.conllu
 
-*** PASSED ***
+[Line                   4]: Unknown attribute-value pair Foreign=Foreign
+[Line                   15]: Unknown attribute-value pair Foreign=Foreign
+[Line                   35]: Unknown attribute-value pair Foreign=Foreign
+[Line                   40]: Unknown attribute-value pair Foreign=Foreign
+[Line                   191]: Unknown attribute-value pair Foreign=Foreign
+[Line                   197]: Unknown attribute-value pair Foreign=Foreign
+[Line                   201]: Unknown attribute-value pair Foreign=Foreign
+[Line                   215]: Unknown attribute-value pair Foreign=Foreign
+[Line                   229]: Unknown attribute-value pair Foreign=Foreign
+[Line                   230]: Unknown attribute-value pair Foreign=Foreign
+[Line                   234]: Unknown attribute-value pair Foreign=Foreign
+[Line                   235]: Unknown attribute-value pair Foreign=Foreign
+[Line                   236]: Unknown attribute-value pair Foreign=Foreign
+[Line                   247]: Unknown attribute-value pair Foreign=Foreign
+[Line                   255]: Unknown attribute-value pair Foreign=Foreign
+[Line                   266]: Unknown attribute-value pair Foreign=Foreign
+[Line                   284]: Unknown attribute-value pair Foreign=Foreign
+[Line                   285]: Unknown attribute-value pair Foreign=Foreign
+[Line                   297]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 489 errors
+Morpho errors: 489
 
 
 ******************
 
-python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 
-*** PASSED ***
+[Line                   15]: Unknown attribute-value pair Foreign=Foreign
+[Line                   16]: Unknown attribute-value pair Foreign=Foreign
+[Line                   35]: Unknown attribute-value pair Foreign=Foreign
+[Line                   36]: Unknown attribute-value pair Foreign=Foreign
+[Line                   80]: Unknown attribute-value pair Foreign=Foreign
+[Line                   81]: Unknown attribute-value pair Foreign=Foreign
+[Line                   84]: Unknown attribute-value pair Foreign=Foreign
+[Line                   92]: Unknown attribute-value pair Foreign=Foreign
+[Line                   103]: Unknown attribute-value pair Foreign=Foreign
+[Line                   128]: Unknown attribute-value pair Foreign=Foreign
+[Line                   129]: Unknown attribute-value pair Foreign=Foreign
+[Line                   292]: Unknown attribute-value pair Foreign=Foreign
+[Line                   293]: Unknown attribute-value pair Foreign=Foreign
+[Line                   300]: Unknown attribute-value pair Foreign=Foreign
+[Line                   301]: Unknown attribute-value pair Foreign=Foreign
+[Line                   320]: Unknown attribute-value pair Foreign=Foreign
+[Line                   321]: Unknown attribute-value pair Foreign=Foreign
+[Line                   322]: Unknown attribute-value pair Foreign=Foreign
+[Line                   336]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 4071 errors
+Morpho errors: 4071
 
 
 ******************
@@ -360,49 +423,175 @@ python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:38:53Z">2016-09-19T07:38:53 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:44:35Z">2016-11-30T21:44:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-test.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
-
-*** PASSED ***
+[Line                   329]: Unknown attribute-value pair Foreign=Foreign
+[Line                   842]: Unknown attribute-value pair Foreign=Foreign
+[Line                   844]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1375]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1399]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1401]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1529]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2017]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2018]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2918]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2919]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2986]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2987]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3436]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3548]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3849]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3863]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3875]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3876]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 1013 errors
+Morpho errors: 1013
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-test.conllu
 
-*** PASSED ***
+[Line                   864]: Unknown attribute-value pair Foreign=Foreign
+[Line                   874]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2801]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2802]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2922]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2923]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3058]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3738]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3739]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3987]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3988]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4139]: Unknown attribute-value pair NumType=Gen
+[Line                   4982]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4983]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5012]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5039]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5040]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5340]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5341]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 1069 errors
+Morpho errors: 1069
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+
+[Line                   24]: Unknown attribute-value pair Foreign=Foreign
+[Line                   242]: Unknown attribute-value pair Foreign=Foreign
+[Line                   379]: Unknown attribute-value pair Foreign=Foreign
+[Line                   381]: Unknown attribute-value pair Foreign=Foreign
+[Line                   382]: Unknown attribute-value pair Foreign=Foreign
+[Line                   383]: Unknown attribute-value pair Foreign=Foreign
+[Line                   781]: Unknown attribute-value pair Foreign=Foreign
+[Line                   783]: Unknown attribute-value pair Foreign=Foreign
+[Line                   785]: Unknown attribute-value pair Foreign=Foreign
+[Line                   786]: Unknown attribute-value pair Foreign=Foreign
+[Line                   819]: Unknown attribute-value pair Foreign=Foreign
+[Line                   820]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1934]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2023]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2025]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2026]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2027]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2319]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3961]: Unknown attribute-value pair NumType=Gen
+...suppressing further errors regarding Morpho
+*** FAILED *** with 552 errors
+Morpho errors: 552
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+
+[Line                   335]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1848]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1879]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1880]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1881]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1959]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2047]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2048]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2052]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2104]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2134]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2168]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2169]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2434]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2456]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2457]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2644]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2645]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2692]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 4587 errors
+Morpho errors: 4587
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+
+[Line                   1775]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1812]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1873]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1888]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2784]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2785]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2786]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2800]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2803]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2804]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4371]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4540]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4542]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4544]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4663]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4664]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4770]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5093]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5113]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 916 errors
+Morpho errors: 916
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+
+[Line                   1974]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1975]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2380]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2381]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2486]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2650]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3073]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3074]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3625]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5193]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5194]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5311]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5533]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5605]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6799]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6800]: Unknown attribute-value pair Foreign=Foreign
+[Line                   7546]: Unknown attribute-value pair Foreign=Foreign
+[Line                   7547]: Unknown attribute-value pair Foreign=Foreign
+[Line                   7548]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 1242 errors
+Morpho errors: 1242
 
 
 ******************
@@ -413,28 +602,74 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-12T20:55:36Z">2016-11-12T20:55:36 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:46:02Z">2016-11-30T21:46:02 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
-*** PASSED ***
+[Line                   2634]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6014]: Unknown attribute-value pair Foreign=Foreign
+[Line                   9905]: Unknown attribute-value pair Foreign=Foreign
+[Line                   9906]: Unknown attribute-value pair Foreign=Foreign
+[Line                   10222]: Unknown attribute-value pair Foreign=Foreign
+[Line                   10229]: Unknown attribute-value pair Foreign=Foreign
+[Line                   10354]: Unknown attribute-value pair NumType=Gen
+[Line                   10565]: Unknown attribute-value pair NumType=Gen
+[Line                   12238]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12261]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12338]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12365]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12513]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12522]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12523]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12524]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 16 errors
+Morpho errors: 16
 
 
 ******************
 
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-test.conllu
 
-*** PASSED ***
+[Line                   2113]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5933]: Unknown attribute-value pair NumType=Gen
+[Line                   8945]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11511]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11512]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11513]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11514]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 7 errors
+Morpho errors: 7
 
 
 ******************
 
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
-*** PASSED ***
+[Line                   25447]: Unknown attribute-value pair Foreign=Foreign
+[Line                   27902]: Unknown attribute-value pair Foreign=Foreign
+[Line                   33430]: Unknown attribute-value pair Foreign=Foreign
+[Line                   33740]: Unknown attribute-value pair Foreign=Foreign
+[Line                   40904]: Unknown attribute-value pair NumType=Gen
+[Line                   48375]: Unknown attribute-value pair Foreign=Foreign
+[Line                   48439]: Unknown attribute-value pair Foreign=Foreign
+[Line                   48768]: Unknown attribute-value pair NumType=Gen
+[Line                   53248]: Unknown attribute-value pair NumType=Gen
+[Line                   59715]: Unknown attribute-value pair Foreign=Foreign
+[Line                   61043]: Unknown attribute-value pair Foreign=Foreign
+[Line                   61044]: Unknown attribute-value pair Foreign=Foreign
+[Line                   68733]: Unknown attribute-value pair Foreign=Foreign
+[Line                   68737]: Unknown attribute-value pair Foreign=Foreign
+[Line                   68739]: Unknown attribute-value pair Foreign=Foreign
+[Line                   68741]: Unknown attribute-value pair Foreign=Foreign
+[Line                   68819]: Unknown attribute-value pair Foreign=Foreign
+[Line                   68822]: Unknown attribute-value pair Foreign=Foreign
+[Line                   71781]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 535 errors
+Morpho errors: 535
 
 
 ******************
@@ -446,25 +681,25 @@ python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-tr
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-12T20:56:27Z">2016-11-12T20:56:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:46:31Z">2016-11-30T21:46:31 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
 *** PASSED ***
 
@@ -478,25 +713,25 @@ python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:42:36Z">2016-09-19T07:42:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:46:33Z">2016-11-30T21:46:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang da UD-dev-branches/UD_Danish/da-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang da UD-dev-branches/UD_Danish/da-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang da UD-dev-branches/UD_Danish/da-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-train.conllu
 
 *** PASSED ***
 
@@ -509,28 +744,48 @@ python tools/validate.py --lang da UD-dev-branches/UD_Danish/da-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:43:29Z">2016-09-19T07:43:29 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:46:38Z">2016-11-30T21:46:38 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
-
-*** PASSED ***
+[Line                   1621]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 1 errors
+Morpho errors: 1
 
 
 ******************
 
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 
-*** PASSED ***
+[Line                   2850]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3889]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5857]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5865]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5866]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 5 errors
+Morpho errors: 5
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+
+[Line                   8084]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12775]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12776]: Unknown attribute-value pair Foreign=Foreign
+[Line                   15801]: Unknown attribute-value pair Foreign=Foreign
+[Line                   17584]: Unknown attribute-value pair Foreign=Foreign
+[Line                   26711]: Unknown attribute-value pair Foreign=Foreign
+[Line                   83575]: Unknown attribute-value pair Foreign=Foreign
+[Line                   83589]: Unknown attribute-value pair Foreign=Foreign
+[Line                   99310]: Unknown attribute-value pair Foreign=Foreign
+[Line                   148938]: Unknown attribute-value pair Foreign=Foreign
+[Line                   231288]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 11 errors
+Morpho errors: 11
 
 
 ******************
@@ -542,25 +797,25 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-12T20:57:03Z">2016-11-12T20:57:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:46:48Z">2016-11-30T21:46:48 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
 
 *** PASSED ***
 
@@ -670,25 +925,25 @@ python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lin
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:46:15Z">2016-09-19T07:46:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:46:52Z">2016-11-30T21:46:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
 *** PASSED ***
 
@@ -702,11 +957,11 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:57:56Z">2016-11-14T21:57:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:47:03Z">2016-11-30T21:47:03 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Faroese/fo-ud-dev.conllu
 
 [Line                   10]: Unknown UD DEPREL: obj
 [Line                   18]: Unknown UD DEPREL: obj
@@ -725,7 +980,7 @@ Syntax errors: 5
 
 ******************
 
-python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-tagged.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Faroese/fo-ud-tagged.conllu
 
 [Tree number 1 on line 2]: Multiple root words: [1, 2, 3, 4]
 [Tree number 2 on line 7]: Multiple root words: [1, 2]
@@ -745,15 +1000,36 @@ python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-tagged.conll
 [Tree number 17 on line 649]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]
 [Tree number 18 on line 722]: Multiple root words: [1, 2, 3]
 [Tree number 19 on line 726]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53]
+[Line                   785]: Unknown attribute-value pair Foreign=Foreign
 [Tree number 20 on line 780]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 3547 errors
+[Line                   855]: Unknown attribute-value pair Foreign=Foreign
+[Line                   958]: Unknown attribute-value pair Foreign=Foreign
+[Line                   969]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1415]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1423]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1449]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1554]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1596]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1597]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1631]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1995]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3342]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3343]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3356]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3357]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3369]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3370]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3435]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 4420 errors
+Morpho errors: 873
 Syntax errors: 3547
 
 
 ******************
 
-python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-wiki.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Faroese/fo-ud-wiki.conllu
 
 [Line                   1]: Unknown UD DEPREL: nsubj:cop
 [Line                   9]: Unknown UD DEPREL: nsubj:cop
@@ -829,28 +1105,91 @@ Syntax errors: 1419
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-02T07:10:30Z">2016-11-02T07:10:30 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:47:09Z">2016-11-30T21:47:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish/fi-ud-dev.conllu
 
-*** PASSED ***
+[Line                   815]: Unknown attribute-value pair Foreign=Foreign
+[Line                   816]: Unknown attribute-value pair Foreign=Foreign
+[Line                   817]: Unknown attribute-value pair Foreign=Foreign
+[Line                   836]: Unknown attribute-value pair Foreign=Foreign
+[Line                   838]: Unknown attribute-value pair Foreign=Foreign
+[Line                   839]: Unknown attribute-value pair Foreign=Foreign
+[Line                   840]: Unknown attribute-value pair Foreign=Foreign
+[Line                   886]: Unknown attribute-value pair Foreign=Foreign
+[Line                   887]: Unknown attribute-value pair Foreign=Foreign
+[Line                   997]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1025]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1103]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1199]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1208]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1338]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1393]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1471]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1484]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1485]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 41 errors
+Morpho errors: 41
 
 
 ******************
 
-python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish/fi-ud-test.conllu
 
-*** PASSED ***
+[Line                   212]: Unknown attribute-value pair Foreign=Foreign
+[Line                   214]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2803]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2810]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3075]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3076]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6728]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8541]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8602]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8603]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8604]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8610]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8611]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8613]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8617]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8620]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8714]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8723]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8798]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 25 errors
+Morpho errors: 25
 
 
 ******************
 
-python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 
-*** PASSED ***
+[Line                   428]: Unknown attribute-value pair Foreign=Foreign
+[Line                   429]: Unknown attribute-value pair Foreign=Foreign
+[Line                   432]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2326]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2327]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2852]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2853]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3598]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3599]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8358]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8359]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8373]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8374]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8659]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8765]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8848]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8850]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8852]: Unknown attribute-value pair Foreign=Foreign
+[Line                   8855]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 210 errors
+Morpho errors: 210
 
 
 ******************
@@ -862,25 +1201,25 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:48:08Z">2016-09-19T07:48:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:47:19Z">2016-11-30T21:47:19 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
 *** PASSED ***
 
@@ -1052,28 +1391,39 @@ Morpho errors: 354
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-10-14T15:19:24Z">2016-10-14T15:19:24 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:47:27Z">2016-11-30T21:47:27 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-test.conllu
 
-*** PASSED ***
+[Line                   1019]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 1 errors
+Morpho errors: 1
 
 
 ******************
 
-python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-train.conllu
 
-*** PASSED ***
+[Line                   59225]: Unknown attribute-value pair Foreign=Foreign
+[Line                   59230]: Unknown attribute-value pair Foreign=Foreign
+[Line                   127340]: Unknown attribute-value pair Foreign=Foreign
+[Line                   127343]: Unknown attribute-value pair Foreign=Foreign
+[Line                   231914]: Unknown attribute-value pair Foreign=Foreign
+[Line                   231917]: Unknown attribute-value pair Foreign=Foreign
+[Line                   278135]: Unknown attribute-value pair Foreign=Foreign
+[Line                   278136]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 8 errors
+Morpho errors: 8
 
 
 ******************
@@ -1180,28 +1530,62 @@ python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:53:04Z">2016-09-19T07:53:04 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:47:40Z">2016-11-30T21:47:40 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
 
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-test.conllu
-
-*** PASSED ***
+[Line                   3838]: Unknown attribute-value pair Foreign=Foreign
+[Line                   9181]: Unknown attribute-value pair Foreign=Foreign
+[Line                   9451]: Unknown attribute-value pair Foreign=Foreign
+[Line                   18557]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 4 errors
+Morpho errors: 4
 
 
 ******************
 
-python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-test.conllu
 
-*** PASSED ***
+[Line                   10135]: Unknown attribute-value pair Foreign=Foreign
+[Line                   13192]: Unknown attribute-value pair Foreign=Foreign
+[Line                   13193]: Unknown attribute-value pair Foreign=Foreign
+[Line                   21240]: Unknown attribute-value pair Foreign=Foreign
+[Line                   21299]: Unknown attribute-value pair Foreign=Foreign
+[Line                   25182]: Unknown attribute-value pair Foreign=Foreign
+[Line                   33829]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 7 errors
+Morpho errors: 7
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-train.conllu
+
+[Line                   4283]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4823]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11194]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11663]: Unknown attribute-value pair Foreign=Foreign
+[Line                   15775]: Unknown attribute-value pair Foreign=Foreign
+[Line                   17399]: Unknown attribute-value pair Foreign=Foreign
+[Line                   17406]: Unknown attribute-value pair Foreign=Foreign
+[Line                   17459]: Unknown attribute-value pair Foreign=Foreign
+[Line                   27788]: Unknown attribute-value pair Foreign=Foreign
+[Line                   27855]: Unknown attribute-value pair Foreign=Foreign
+[Line                   32070]: Unknown attribute-value pair Foreign=Foreign
+[Line                   32081]: Unknown attribute-value pair Foreign=Foreign
+[Line                   36705]: Unknown attribute-value pair Foreign=Foreign
+[Line                   37549]: Unknown attribute-value pair Foreign=Foreign
+[Line                   37628]: Unknown attribute-value pair Foreign=Foreign
+[Line                   40462]: Unknown attribute-value pair Foreign=Foreign
+[Line                   40735]: Unknown attribute-value pair Foreign=Foreign
+[Line                   40743]: Unknown attribute-value pair Foreign=Foreign
+[Line                   43693]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 110 errors
+Morpho errors: 110
 
 
 ******************
@@ -1554,25 +1938,25 @@ python tools/validate.py --lang la UD-dev-branches/UD_Latin/la-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:57:14Z">2016-09-19T07:57:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:00Z">2016-11-30T21:48:00 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
 
 *** PASSED ***
 
@@ -1586,25 +1970,25 @@ python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:58:03Z">2016-09-19T07:58:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:15Z">2016-11-30T21:48:15 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
 
 *** PASSED ***
 
@@ -1746,25 +2130,25 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T08:00:45Z">2016-09-19T08:00:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:24Z">2016-11-30T21:48:24 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-train.conllu
 
 *** PASSED ***
 
@@ -1874,7 +2258,7 @@ python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/p
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T16:18:03Z">2016-11-30T16:18:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:29Z">2016-11-30T21:48:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2012,28 +2396,91 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-08T13:11:22Z">2016-11-08T13:11:22 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:40Z">2016-11-30T21:48:40 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
-*** PASSED ***
+[Line                   37]: Unknown attribute-value pair Foreign=Foreign
+[Line                   194]: Unknown attribute-value pair Foreign=Foreign
+[Line                   325]: Unknown attribute-value pair Foreign=Foreign
+[Line                   365]: Unknown attribute-value pair Foreign=Foreign
+[Line                   366]: Unknown attribute-value pair Foreign=Foreign
+[Line                   367]: Unknown attribute-value pair Foreign=Foreign
+[Line                   437]: Unknown attribute-value pair Foreign=Foreign
+[Line                   849]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1842]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1843]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3628]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3978]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3983]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3984]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3985]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4000]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4005]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4006]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4007]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 103 errors
+Morpho errors: 103
 
 
 ******************
 
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-test.conllu
 
-*** PASSED ***
+[Line                   126]: Unknown attribute-value pair Foreign=Foreign
+[Line                   127]: Unknown attribute-value pair Foreign=Foreign
+[Line                   398]: Unknown attribute-value pair Foreign=Foreign
+[Line                   399]: Unknown attribute-value pair Foreign=Foreign
+[Line                   400]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1206]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1228]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1229]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1266]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1849]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2897]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3617]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3618]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5240]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5625]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6404]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6420]: Unknown attribute-value pair Foreign=Foreign
+[Line                   7783]: Unknown attribute-value pair Foreign=Foreign
+[Line                   7784]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 49 errors
+Morpho errors: 49
 
 
 ******************
 
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
-*** PASSED ***
+[Line                   123]: Unknown attribute-value pair Foreign=Foreign
+[Line                   124]: Unknown attribute-value pair Foreign=Foreign
+[Line                   292]: Unknown attribute-value pair Foreign=Foreign
+[Line                   294]: Unknown attribute-value pair Foreign=Foreign
+[Line                   328]: Unknown attribute-value pair Foreign=Foreign
+[Line                   333]: Unknown attribute-value pair Foreign=Foreign
+[Line                   355]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1172]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1289]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1290]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1545]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1582]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1583]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1650]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1651]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1653]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1658]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1659]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1661]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 89 errors
+Morpho errors: 89
 
 
 ******************
@@ -2044,28 +2491,60 @@ python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T08:07:04Z">2016-09-19T08:07:04 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:46Z">2016-11-30T21:48:46 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
 
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-test.conllu
-
-*** PASSED ***
+[Line                   13]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3765]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 3 errors
+Morpho errors: 3
 
 
 ******************
 
-python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-test.conllu
 
-*** PASSED ***
+[Line                   9068]: Unknown attribute-value pair Foreign=Foreign
+[Line                   9074]: Unknown attribute-value pair Foreign=Foreign
+[Line                   9174]: Unknown attribute-value pair Foreign=Foreign
+[Line                   9175]: Unknown attribute-value pair Foreign=Foreign
+[Line                   9196]: Unknown attribute-value pair Foreign=Foreign
+[Line                   9197]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 6 errors
+Morpho errors: 6
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
+
+[Line                   2486]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2488]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11196]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11197]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11198]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11590]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11594]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12970]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14735]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14736]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14737]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14738]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14739]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14740]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14744]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14745]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14746]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14747]: Unknown attribute-value pair Foreign=Foreign
+[Line                   14755]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 105 errors
+Morpho errors: 105
 
 
 ******************
@@ -2076,28 +2555,63 @@ python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conl
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-12T21:11:51Z">2016-11-12T21:11:51 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:53Z">2016-11-30T21:48:53 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
-*** PASSED ***
+[Line                   1055]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1226]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1227]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1228]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1615]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1616]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 6 errors
+Morpho errors: 6
 
 
 ******************
 
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-test.conllu
 
-*** PASSED ***
+[Line                   3050]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3051]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3078]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3079]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3519]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3520]: Unknown attribute-value pair Foreign=Foreign
+*** FAILED *** with 6 errors
+Morpho errors: 6
 
 
 ******************
 
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
-*** PASSED ***
+[Line                   154]: Unknown attribute-value pair Foreign=Foreign
+[Line                   155]: Unknown attribute-value pair Foreign=Foreign
+[Line                   156]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6763]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6776]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11111]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11112]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11113]: Unknown attribute-value pair Foreign=Foreign
+[Line                   11433]: Unknown attribute-value pair NumType=Gen
+[Line                   11435]: Unknown attribute-value pair NumType=Gen
+[Line                   12085]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12086]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12087]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12088]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12089]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12090]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12267]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12268]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12269]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 87 errors
+Morpho errors: 87
 
 
 ******************
@@ -2130,28 +2644,56 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T08:08:18Z">2016-09-19T08:08:18 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:55Z">2016-11-30T21:48:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-dev.conllu
+
+[Line                   13037]: Unknown attribute-value pair Foreign=Fscript
+[Line                   13038]: Unknown attribute-value pair Foreign=Fscript
+[Line                   15173]: Unknown attribute-value pair Foreign=Fscript
+[Line                   15174]: Unknown attribute-value pair Foreign=Fscript
+[Line                   15175]: Unknown attribute-value pair Foreign=Fscript
+[Line                   38432]: Unknown attribute-value pair Foreign=Fscript
+*** FAILED *** with 6 errors
+Morpho errors: 6
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-train.conllu
 
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-train.conllu
-
-*** PASSED ***
+[Line                   2371]: Unknown attribute-value pair Foreign=Fscript
+[Line                   5472]: Unknown attribute-value pair Foreign=Foreign
+[Line                   19511]: Unknown attribute-value pair Foreign=Fscript
+[Line                   40419]: Unknown attribute-value pair Foreign=Fscript
+[Line                   40420]: Unknown attribute-value pair Foreign=Fscript
+[Line                   44015]: Unknown attribute-value pair Foreign=Fscript
+[Line                   44016]: Unknown attribute-value pair Foreign=Fscript
+[Line                   53277]: Unknown attribute-value pair Foreign=Fscript
+[Line                   60497]: Unknown attribute-value pair Foreign=Fscript
+[Line                   61204]: Unknown attribute-value pair Foreign=Fscript
+[Line                   65671]: Unknown attribute-value pair Foreign=Fscript
+[Line                   65678]: Unknown attribute-value pair Foreign=Fscript
+[Line                   74398]: Unknown attribute-value pair Foreign=Fscript
+[Line                   74399]: Unknown attribute-value pair Foreign=Fscript
+[Line                   74400]: Unknown attribute-value pair Foreign=Fscript
+[Line                   77735]: Unknown attribute-value pair Foreign=Fscript
+[Line                   82183]: Unknown attribute-value pair Foreign=Fscript
+[Line                   82187]: Unknown attribute-value pair Foreign=Fscript
+[Line                   109917]: Unknown attribute-value pair Foreign=Fscript
+...suppressing further errors regarding Morpho
+*** FAILED *** with 63 errors
+Morpho errors: 63
 
 
 ******************
@@ -2355,25 +2897,25 @@ python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:12:44Z">2016-11-14T22:12:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:49:13Z">2016-11-30T21:49:13 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
 
 *** PASSED ***
 
