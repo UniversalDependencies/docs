@@ -2,6 +2,7 @@
 layout: base
 title:  'Morphology'
 permalink: u/overview/morphology.html
+udver: '2'
 ---
 
 # Morphology: General Principles
@@ -53,10 +54,8 @@ instead of underscore if no other tag is appropriate.)
 
 ### Using a word vs. mentioning it
 
-The universal POS tags focus more on _what the word is_ than on _which construction it is used in_
-(the latter is specified by the [dependency relation labels](../../u/dep/index.html)).
-In particular, the POS tags do not distinguish actual usage of a word from just mentioning it.
-Thus in both the following examples, _yes_ will be tagged as interjection:
+The universal POS tags should capture regular, prevailing syntactic behavior, as well as morphological characteristics
+when available, and should not reflect sentence-specific exceptional behavior. In particular, the POS tags do not distinguish actual usage of a word from just mentioning it. Thus in both the following examples, _yes_ will be tagged as interjection:
 
 * _Yes, I think so._
 * _I am waiting for his ‘yes’ on the matter._
@@ -68,7 +67,7 @@ Similarly, in both the following examples, _precede_ will be tagged as verb:
 
 ### See also
 
-The guidelines for the following cases are documented on the referenced pages
+The guidelines for the following special cases are documented on the referenced pages
 for specific POS tags:
 
 * Abbreviations and acronyms: described under [SYM]()
