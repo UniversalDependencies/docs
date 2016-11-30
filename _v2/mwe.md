@@ -8,19 +8,19 @@ udver: '2'
 
 Since UD does not allow "words with spaces" (but see a partly new proposal under [word segmentation](word-segmentation.html)), even completely fixed multiword expressions must be annotated with (dummy) dependency relations. To improve annotation consistency, we propose the following change for v2:
 
-* Rename [u-dep/mwe]() to **fixed** and make clear that this should only be used for completely fixed expressions
+* Rename `mwe` to [u-dep/fixed]() and make clear that this should only be used for completely fixed expressions
 <!--* Change the direction of arrows (right-to-left instead of left-to-right) for this relation as well as the other non-dependency relations [u-dep/name]() and [u-dep/foreign]() (see also [semantic categories](semantic-categories.html))-->
-* Rename [u-dep/name]() to **flat** and extend its use to semi-fixed multiword expressions that do not have a clear syntactic head. (See [semantic categories](semantic-categories.html).)
-* Remove [u-dep/foreign]() and subsume its use under the new relation [u-dep/flat]().
+* Rename `name` to [u-dep/flat]() and extend its use to semi-fixed multiword expressions that do not have a clear syntactic head. (See [semantic categories](semantic-categories.html).)
+* Remove `foreign` and subsume its use under the new relation [u-dep/flat]().
 * Add a new subtype of [u-dep/compound]() for handling serial verb constructions in analogy with particle verbs
 and grammticized light verb constructions.
 
 ## Rename mwe to fixed
 
 It seems that the label `mwe` (multiword expression) has led to a lot of confusion. It was never intended for multiword expressions like "kick the bucket", or Fr. "pomme de terre" (potato). It has always been restricted to the *fixed expressions* category of
-[Sag et al.](http://lingo.stanford.edu/pubs/WP-2001-03.pdf), excluding any relations in scope of [u-dep/name]() or [u-dep/compound](). The label `fixed` reflects this fact better.
+[Sag et al.](http://lingo.stanford.edu/pubs/WP-2001-03.pdf), excluding any relations in scope of `name` or [u-dep/compound](). The label [u-dep/fixed]() reflects this fact better.
 
-The proposed change is therefore to change the label `mwe` (multiword expression) to `fixed`, and making the guidelines more restrictive (namely, [fixed](u-dep/mwe) is used **only** for completely fixed grammaticized expressions that behave like function words or short adverbials).
+The proposed change is therefore to change the label `mwe` (multiword expression) to [u-dep/fixed](), and making the guidelines more restrictive (namely, `fixed` is used **only** for completely fixed grammaticized expressions that behave like function words or short adverbials).
 
 ## Remove foreign
 
