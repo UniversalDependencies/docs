@@ -28,7 +28,7 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
 
 * [u-feat/Aspect](): values `Pro` (prospective, used in Basque) and `Prog` (progressive, used in Basque, Turkish and Chinese) are highly confusing.
   I propose to change the prospective value to `Aspect=Prosp`, following the label used in UniMorph.
-* [u-feat/Negative](): current proposal – rename the feature to `Polarity` (and keep values `Pos` and `Neg`).
+* `Negative`: current proposal – rename the feature to [u-feat/Polarity]() (and keep values `Pos` and `Neg`).
   Another option would be to keep the name but use only one value `Yes` because positive polarity is rarely marked morphologically.
   `Negative=Pos` looks weird and it probably just marks words that can take the negative morpheme but do not have it in the given form.
   Nevertheless, `Negative=Pos` is currently used in 13 treebanks so we probably want to keep it but rename the feature to `Polarity`.
