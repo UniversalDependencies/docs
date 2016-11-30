@@ -11,7 +11,7 @@ The distinction between core arguments and oblique modifiers is at the heart of 
 * Keep the core-oblique distinction and work out more detailed guidelines for how to apply it in different languages
 * Rename the relation `dobj` to [u-dep/obj]() because the latter name seems more easily reconcilable with the intended interpretation of “second core argument” or “P/A argument” (without connection to specific cases or semantic roles).
 * Remove the relations `nsubjpass` and `csubjpass` and add language-specific subtypes `nsubj:pass` and `csubj:pass`. (By analogy, the functional relation `auxpass` will be removed and the subtype `aux:pass` added.)
-* Split the modifier relation [u-dep/nmod]() into `nmod` and `obl`
+* Split the modifier relation [u-dep/nmod]() into `nmod` and [u-dep/obl]()
 
 Below we discuss and motivate each of these proposals in turn. 
 
@@ -166,4 +166,4 @@ she is a doctor at the hospital
 nmod(doctor, hospital)
 </div>
 
-We therefore propose that the [u-dep/nmod]() relation is split into two relations, one for adnominal and one for adverbial modification. We propose to keep the name **nmod** for the former and introduce a new name **obl** (oblique)for the latter. 
+We therefore propose that the [u-dep/nmod]() relation is split into two relations, one for adnominal and one for adverbial modification. We propose to keep the name **nmod** for the former and introduce a new name [u-dep/obl]() (oblique)for the latter. 
