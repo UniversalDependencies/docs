@@ -47,11 +47,11 @@ By contrast, names that have a regular syntactic structure, like _The Lord of th
 Aliens_, should be annotated with regular syntactic relations.
 
 ~~~ sdparse
-The Lord of the Ring
+The Lord of the Rings
 det(Lord, The)
-nmod(Lord, Ring)
-case(Ring, of)
-det(Ring, the)
+nmod(Lord, Rings)
+case(Rings, of)
+det(Rings, the)
 ~~~
 
 For organization names with clear syntactic modification structure, the dependencies should 
@@ -109,7 +109,7 @@ flat(Stanford-2, Leland-1)
 flat(Jr.-3, Leland-1)
 ~~~
 
-## Dates and Complex Numerlas
+## Dates and Complex Numerals
 
 Date expressions come in many shapes and forms across languages. In some cases, they have a very clear syntactic
 structure, as in _the 4th of July_, and should be annotated with regular dependency relations. In other cases, they
