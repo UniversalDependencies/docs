@@ -19,7 +19,7 @@ udver: '2'
 Degree of comparison is typically an inflectional feature of some
 [adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV).
 
-### `Pos`: positive, first degree
+### <a name="Pos">`Pos`</a>: positive, first degree
 
 This is the base form that merely states a quality of something,
 without comparing it to qualities of others. Note that although this
@@ -31,7 +31,7 @@ compared, too.
 * [en] _<b>young</b> man_
 * [cs] _<b>mladý</b> muž_
 
-### `Equ`: equative
+### <a name="Equ">`Equ`</a>: equative
 
 The quality of one object is compared to the same quality of another
 object, and the result is that they are identical or similar (“as X as”).
@@ -42,7 +42,7 @@ which marks the standard of comparison.
 
 * [et] _<b>pikkune</b> (pikkus+ne)_ “as tall as”
 
-### `Cmp`: comparative, second degree
+### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
 The quality of one object is compared to the same quality of another
 object.
@@ -52,7 +52,7 @@ object.
 * [en] _the man is <b>younger</b> than me_
 * [cs] _ten muž je <b>mladší</b> než já_
 
-### `Sup`: superlative, third degree
+### <a name="Sup">`Sup`</a>: superlative, third degree
 
 The quality of one object is compared to the same quality of all other
 objects within a set.
@@ -62,7 +62,7 @@ objects within a set.
 * [en] _this is the <b>youngest</b> man in our team_
 * [cs] _toto je <b>nejmladší</b> muž v našem týmu_
 
-### `Abs`: absolute superlative
+### <a name="Abs">`Abs`</a>: absolute superlative
 
 Some languages can express morphologically that the studied quality of
 the given object is so strong that there is hardly any other object
