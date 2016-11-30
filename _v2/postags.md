@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'POS tags'
+udver: '2'
 ---
 
 # Part-of-speech tags in UD v2

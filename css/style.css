@@ -509,6 +509,20 @@ h4, h5, h6 {
     margin: 0 1em;
 }
 
+.v1warning {
+    background-color: yellow;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+.v2complete {
+    background-color: green;
+    border: 1px solid black;
+    font-weight: bold;
+    color: white;
+}
+
+
 .license {
    vertical-align: middle;
    height: 1.2em;

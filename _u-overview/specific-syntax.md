@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Syntax'
+title:  'Basic Dependencies'
 permalink: u/overview/specific-syntax.html
 ---
 
-# Specific constructions
+# Basic Dependencies
 
 This section will contain detailed discussion of particular linguistic constructions of interest, covering best practices for how to annotate them cross-linguistically. It is still a work in progress.  At the moment, you can also see:
 

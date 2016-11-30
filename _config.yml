@@ -10,8 +10,7 @@ permalink:    date
 # safe:         true
 markdown_ext: md
 
-# testing for redirect-from
-baseurl: ""
+baseurl: "/docs"
 
 gems:
   - jekyll-redirect-from
@@ -900,7 +899,7 @@ excerpt_separator: "\n\n"
 
 # URL configuration
 
-home: "http://universaldependencies.org/"
+home: "http://turkunlp.github.io/docs/"
 tracker: "https://github.com/universaldependencies/docs/issues"
-git_raw: "https://raw.githubusercontent.com/universaldependencies/docs/pages-source"
-git_edit: "https://github.com/universaldependencies/docs/edit/pages-source"
+git_raw: "https://raw.githubusercontent.com/turkunlp/docs/pages-source"
+git_edit: "https://github.com/turkunlp/docs/edit/pages-source"

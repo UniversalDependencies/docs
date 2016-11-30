@@ -2,43 +2,31 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
-`compound` is one of the three relations in UD for compounding.
-
-It is used for 
+The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being `fixed` and `flat`). It is used for 
 
 - any kind of X<sup>0</sup> compounding: noun compounds (e.g., *phone book*), but also verb and
-adjective compounds that are more common in other languages (such as
-Persian or Japanese light verb constructions). It is also used for the "phrasal verb" construction of European languages (e.g., *throw up*), with the adposition as the `compound` dependent of the verb.
+adjective compounds that are more common in other languages (such as Persian or Japanese light verb constructions). 
 
 ~~~ sdparse
 Phone book
 compound(book, Phone)
 ~~~
 
-
-- for numbers
-
-~~~ sdparse
-I have four thousand sheep
-compound(thousand, four)
-~~~
-
-~~~ sdparse
-I lost $ 3.2 billion
-compound(billion, 3.2)
-~~~
-
-
-- for particles of phrasal verbs:
+- for particle verbs (with the subtype `compound:prt`):
 
 ~~~ sdparse
 put up
-compound(put, up)
+compound:prt(put, up)
 ~~~
 
-The two other compounding relations are:
+- for serial verbs (with the subtype `compound:svc`):
 
-- [mwe]() for fixed grammaticized expressions with function words
-- [name]() for proper nouns constituted of multiple nominal elements
+~~~ sdparse
+Musa bé lá èbi \n Musa came took knife
+nsubj(bé, Musa)
+compound:svc(bé, lá)
+obj(bé, èbi)
+~~~

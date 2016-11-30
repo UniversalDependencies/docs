@@ -2,6 +2,7 @@
 layout: relation
 title: 'expl'
 shortdef: 'expletive'
+udver: '2'
 ---
 
 This relation captures expletive or pleonastic nominals. These are nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor. In English, this is the case for some uses of *it* and *there*: the existential *there*, and *it* when used in extraposition constructions.  (Note that both *it* and *there* also have non-expletive uses.) 
@@ -22,7 +23,7 @@ Some languages do not have expletives of the English sort, including most langua
 There is a ghost in the room
 expl(is, There)
 nsubj(is, ghost)
-nmod(is, room)
+obl(is, room)
 ~~~
 
 ~~~ sdparse
@@ -31,7 +32,7 @@ nsubj(believe, I)
 expl(believe, there)
 xcomp(believe, be)
 nsubj(be, ghost)
-nmod(be, room)
+obl(be, room)
 ~~~
 
 ~~~ sdparse
@@ -49,7 +50,7 @@ csubj(clear, decline)
 I mentioned it to Mary that Sue is leaving
 nsubj(mentioned, I)
 expl(mentioned, it)
-nmod(mentioned, Mary)
+obl(mentioned, Mary)
 ccomp(mentioned, leaving)
 ~~~
 
@@ -61,14 +62,14 @@ expl(έδωσε, Της-1)
 iobj(έδωσε, Καίτης)
 det(Καίτης, της-4)
 expl(έδωσε, τον-2)
-dobj(έδωσε, αναπτήρα)
+obj(έδωσε, αναπτήρα)
 det(αναπτήρα, τον-6)
 ~~~
 
 ~~~ sdparse
 Marija mu izprati pismo na rabotnika \n Maria 3.S.M.IO sent letter to the.worker
 expl(izprati, mu)
-dobj(izprati, pismo)
+obj(izprati, pismo)
 iobj(izprati, rabotnika)
 case(rabotnika, na)
 ~~~

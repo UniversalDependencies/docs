@@ -2,11 +2,14 @@
 layout: relation
 title: 'cop'
 shortdef: 'copula'
+udver: '2'
 ---
 
-A copula is the relation between the complement of a copular verb and
-the copular verb *to be* (only).  (We normally take a copula as a dependent of its
-complement.)
+A `cop` (copula) is the relation of a function word used to link a subject to a nonverbal predicate.
+It is often a verb but nonverbal copulas are also frequent in the world's languages. The `cop` relation
+should only be used for pure copulas that add at most TAME categories to the meaning of the predicate,
+which means that most languages have at most one copula, and only when the nonverbal predicate is treated
+as the head of the clause.
 
 ~~~ sdparse
 Bill is honest
@@ -22,12 +25,10 @@ det(dancer-5, the-3)
 amod(dancer-5, best-4)
 ~~~
 
-The copula *be* is not treated as the
-head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
+The copula *be* is not treated as the head of a clause, but rather the nonverbal predicate, as exemplified above.
 
-Such an analysis is motivated by the fact that many languages
-often or always lack an overt copula in such constructions, as in the
-the following Russian example:
+Such an analysis is motivated by the fact that many languages often or always lack an overt copula in such 
+constructions, as in the the following Russian example:
 
 ~~~ sdparse
 Ivan lučšij tancor \n Ivan best dancer
@@ -42,7 +43,8 @@ Email usually free if you have Wifi.
 nsubj(free, Email)
 ~~~
 
-This analysis is adopted also when the predicate is a prepositional phrase, in which case the nominal part of the 
+This analysis is adopted also when the predicate is a prepositional phrase, provided that the same copula
+(or absence thereof) is used here, in which case the nominal part of the 
 prepositional phrase is the head of the clause.
 
 ~~~ sdparse
@@ -52,7 +54,7 @@ cop(shape, is)
 case(shape, in)
 ~~~
 
-A parallel can also be drawn to so-called raising-to-object or small clause constructions in English.
+<!--A parallel can also be drawn to so-called raising-to-object or small clause constructions in English.
 Under the basic analysis proposed for SD, the predicate complement is
 not linked to its subject argument, but in the enhanced representation
 (see below), the linkage is then parallel to the treatment in a zero
@@ -67,6 +69,7 @@ det(dancer-6, the-4)
 amod(dancer-6, best-5)
 nsubj(dancer-6, Ivan-3)
 ~~~
+-->
 
 If the copula is accompanied by other verbal auxiliaries for tense, aspect, etc., then they are also given a flat structure, and taken as dependents of the lexical predicate:
 
@@ -86,9 +89,9 @@ cop(destabilizing, be)
 aux(destabilizing, will)
 ~~~
 
-While a part of speech has to be decided in such cases, it would be unfortunate if the choice of part of speech also changed the dependency structure.
+While a part of speech has to be decided in such cases, it would be unfortunate if the choice of part of speech also changed the dependency structure. Note, however, that the exact distribution of the copula construction is subject to language-specific variation.
 
-Finally, `ccomp` is used with copulas. Only in this case, the structure is different, and we take the form of *be* as a head:
+Finally, the `cop` relation is not used when the nonverbal predicate has the form of a clause, which typically occur in equational constructions like the following:
 
 ~~~ sdparse
 The important thing is to keep calm .
@@ -102,4 +105,4 @@ ccomp(is, tried)
 nsubj(is, problem)
 ~~~
 
-If we took the main verb as the head, it would have two subjects, which would be unworkable. Examples like the above *could* be analyzed reversed with the initial noun phrase as the predicate, but in addition to this seeming undesirable, it would fail to be a solution if there were a clause on both sides of *be*, such as in: *(For us) to not attempt to solve the problem is (for us) to acknowledge defeat*. (Note: This solution is awkward and refining it is a possible direction for the future; the original Finnish TDT was done differently and it may be worth considering their solution.)
+If we took the predicate of the clause as the head, instead of the copula verb, it would have two subjects, which would be unworkable. Examples like the above *could* be analyzed reversed with the initial noun phrase as the predicate, but in addition to this seeming undesirable, it would fail to be a solution if there were a clause on both sides of *be*, such as in: *(For us) to not attempt to solve the problem is (for us) to acknowledge defeat*. (Note: This solution is not perfect and refining it is a possible direction for the future.)

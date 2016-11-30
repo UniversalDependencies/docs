@@ -2,6 +2,7 @@
 layout: relation
 title: 'ccomp'
 shortdef: 'clausal complement'
+udver: '2'
 ---
 
 A clausal complement of a verb or adjective is a dependent clause 
@@ -40,19 +41,22 @@ sentence to mean that the boss will not be doing any digging, in the second
 sentence it is clear that the subject of __digging__ can only be __we__. This is
 what distinguishes `ccomp` and `xcomp`.
 
-Additionally, `ccomp` is used with copulas.
+Additionally, `ccomp` is used with copulas in equational constructions involving full clauses.
 
 ~~~ sdparse
 The important thing is to keep calm.
 ccomp(is, keep)
+nsubj(is, thing)
 ~~~
 
 ~~~ sdparse
 The problem is that this has never been tried .
 ccomp(is, tried)
+nsubj(is, problem)
 ~~~
 
-(In these cases, the copula is treated as a head. This is a somewhat inconsistent and ugly feature of the current UD. An alternative solution was adopted for this case in the Turku TDT. It may be worth considering adopting it in a revision of UD.)
+(In these cases, the copula is treated as a head to preserve the integrity of clause boundaries and prevent one predicate to
+be assigned two subjects. This is not an optimal solution given the analysis of equational constructions involving nominals, where one of the nominals is treated as the head, but it is the preferred solution for now.)
 
 _Note:_ In earlier versions of SD/USD, complement
 clauses with nouns like *fact* or *report* were also analyzed as `ccomp`. 

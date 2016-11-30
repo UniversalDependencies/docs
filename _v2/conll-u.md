@@ -1,11 +1,12 @@
 ---
 layout: base
 title:  'CoNLL-U Format in UD v2'
+udver: '2'
 ---
 
 # CoNLL-U Format in UD v2
 
-Some of the proposed changes will require modifications to the CoNLL-U format. Whenever possible, we want to do this in the least disruptive fashion possible, keeping backward compatibility as far as we can. In particular, we strongly recommend not changing the number of fields and/or their meaning for fear of breaking people's tools. We recommend the following changes for v2:
+Some of the changes adopted in v2 require modifications to the CoNLL-U format. Whenever possible, we have tried to do this in the least disruptive fashion possible, keeping backward compatibility as far as we can. In particular, we have decided against changing the number of fields and/or their meaning for fear of breaking people's tools. We make the following changes for v2:
 
 * Allow spaces in the `FORM` and `LEMMA` fields (see [word segmentation](segmentation.html))
 * Let the `DEPS` field contain the entire enhanced dependency graph (not only additional relations on top of the basic trees) (see [enhanced dependencies](enhanced.html))
@@ -22,19 +23,19 @@ The `deps` field holds the *enhanced* representation. Unlike previously thought,
 A mechanism is needed for empty nodes in the enhanced representation (the base representation will always be empty-node-free). These will be on their separate lines indexed as `E2.1` which means "the first empty node after the syntactic word indexed 2". This line would be placed right after the word 2. Naturally, these empty nodes can be
 referred to only from the `DEPS` field.
 
-There doesn't seem to be a clear idea of whether the empty nodes should receive any values in the `FORM, LEMMA, UPOS, FEAT`
-fields. Probably `UPOS` could be somehow realistically filled.
+<!--There doesn't seem to be a clear idea of whether the empty nodes should receive any values in the `FORM, LEMMA, UPOS, FEAT`
+fields. Probably `UPOS` could be somehow realistically filled.-->
 
 Grepping out all lines which start with E is now sufficient to obtain a CoNLL-U file without empty nodes whose `HEAD` and `DEPREL` fields behave as usual.
 
 <pre>
 1	Mary	_	_	_	_	2	nsubj	2:nsubj	_
 2	won	_	_	_	_	0	root	0:root	_
-3	silver	_	_	_	_	2	dobj	2:dobj	_
-4	and	_	_	_	_	2	conj>cc	E5.1:cc	_
-5	Sue	_	_	_	_	2	conj>nsubj	E5.1:nsubj	_
+3	silver	_	_	_	_	2	obj	2:obj	_
+4	and	_	_	_	_	5	cc	E5.1:cc	_
+5	Sue	_	_	_	_	2	conj	E5.1:nsubj	_
 E5.1	_	_	_	_	_	2	conj	2:conj	_
-6	bronze	_	_	_	_	2	conj>dobj	E5.1:dobj	_
+6	bronze	_	_	_	_	5	orphan	E5.1:dobj	_
 </pre>
 
 <!--## Phrase-level features

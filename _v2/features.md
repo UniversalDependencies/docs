@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Features in UD v2'
+udver:  '2'
 ---
 
 # Features in UD v2
@@ -108,7 +109,7 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * TO DISCUSS: `VerbForm=Stem` currently only one occurrence in Swedish.
     Verb stems also occur regularly in Hindi but they have the function of adverbial participles (converbs, transgressives) there, so `VerbForm=Conv` should be used for them.
 * [u-feat/Mood]()
-  * Add `Mood=Pur` (purposive, means "in order to"). Occurs in Amazonian languages; proposed in UniMorph.
+  * Add `Mood=Purp` (purposive, means "in order to"). Occurs in Amazonian languages; proposed in UniMorph.
   * TO DISCUSS: Add `Mood=Int` (intentive, indicates that the speaker strongly intents for the action of the verb to be realized). Occurs in Tonkawa; proposed in UniMorph.
   * TO DISCUSS: `Mood=Int` in Irish (what does it mean? Interrogative?)
   * TO DISCUSS: `Mood=Inter` in Chinese (what does it mean?)

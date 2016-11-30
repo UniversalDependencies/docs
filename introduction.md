@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Universal Dependencies'
+udver: '2'
 ---
 
 ## Introduction
@@ -72,7 +73,7 @@ UD is an open collaboration with many project members. The administrative struct
 
 * The project is coordinated by Joakim Nivre (aka chief cat herder).
 * Releases (including validation and documentation) are managed by Filip Ginter, Sampo Pyysalo and Dan Zeman.
-* Universal guidelines are managed by a small group of core members, currently consisting of Marie de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajic, Chris Manning, Ryan McDonald, Joakim Nivre, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty and Dan Zeman.
+* Universal guidelines are managed by a small group of core members, currently consisting of Marie de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Chris Manning, Ryan McDonald, Joakim Nivre, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty, Fran Tyers and Dan Zeman.
 * Language-specific guidelines and treebanks are maintained by each specific language team. 
 * Issues are raised on GitHub and resolved through discussion and voting. 
 
