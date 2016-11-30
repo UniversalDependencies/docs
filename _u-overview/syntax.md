@@ -380,7 +380,7 @@ Coordinating conjunctions and punctuation delimiting the conjuncts are attached 
 He came home , took a shower and immediately went to bed .
 conj(came, took)
 conj(came, went)
-punct(went, ,-4)
+punct(took, ,-4)
 cc(went, and)
 ~~~
 
