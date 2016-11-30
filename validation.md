@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-30T22:55:14Z">2016-11-30T22:55:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-30T23:20:40Z">2016-11-30T23:20:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2865,25 +2865,25 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:12:20Z">2016-11-14T22:12:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T23:20:35Z">2016-11-30T23:20:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 
 *** PASSED ***
 
@@ -2940,11 +2940,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-26T14:53:18Z">2016-11-26T14:53:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T23:20:39Z">2016-11-30T23:20:39 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
 [Line                   779]: Unknown UD DEPREL: nmod:cmp
 [Line                   1330]: Unknown UD DEPREL: nmod:cmp
@@ -2954,7 +2954,7 @@ Syntax errors: 2
 
 ******************
 
-python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-test.conllu
 
 [Line                   42]: Unknown UD DEPREL: nmod:cmp
 *** FAILED *** with 1 errors
@@ -2963,7 +2963,7 @@ Syntax errors: 1
 
 ******************
 
-python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
 
 [Line                   1446]: Unknown UD DEPREL: nmod:cmp
 [Line                   1626]: Unknown UD DEPREL: nmod:cmp
