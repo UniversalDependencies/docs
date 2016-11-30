@@ -81,7 +81,7 @@ nsubj(left, she)
 advmod(left, suddenly)
 ~~~
 
-## Valency-Changing Constructions
+## Valency-Changing Operations
 
 If passivization involves the promotion of an argument to subject position, then this argument can be 
 annotated with a special subtype `nsubj:pass` to indicate that promotion has taken place. The subtype
@@ -105,5 +105,5 @@ obl:agent(left, her)
 obl(left, table)
 ~~~
 
-ADD DISCUSSION OF OTHER VALENCY-CHANGING OPERATIONS
+<!--ADD OTHER VALENCY-CHANGING OPERATIONS-->
 
