@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-30T16:18:15Z">2016-11-30T16:18:15 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-30T16:24:40Z">2016-11-30T16:24:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -957,28 +957,91 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:59:56Z">2016-11-14T21:59:56 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T16:24:26Z">2016-11-30T16:24:26 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
-*** PASSED ***
+[Line                   76]: Unknown attribute-value pair PronType=Clit
+[Line                   136]: Unknown attribute-value pair PronType=Clit
+[Line                   250]: Unknown attribute-value pair PronType=Clit
+[Line                   270]: Unknown attribute-value pair PronType=Clit
+[Line                   323]: Unknown attribute-value pair PronType=Clit
+[Line                   398]: Unknown attribute-value pair PronType=Clit
+[Line                   442]: Unknown attribute-value pair PronType=Clit
+[Line                   460]: Unknown attribute-value pair PronType=Clit
+[Line                   461]: Unknown attribute-value pair PronType=Clit
+[Line                   529]: Unknown attribute-value pair PronType=Clit
+[Line                   532]: Unknown attribute-value pair PronType=Clit
+[Line                   550]: Unknown attribute-value pair PronType=Clit
+[Line                   625]: Unknown attribute-value pair PronType=Clit
+[Line                   642]: Unknown attribute-value pair PronType=Clit
+[Line                   661]: Unknown attribute-value pair PronType=Clit
+[Line                   669]: Unknown attribute-value pair PronType=Clit
+[Line                   678]: Unknown attribute-value pair PronType=Clit
+[Line                   682]: Unknown attribute-value pair PronType=Clit
+[Line                   722]: Unknown attribute-value pair PronType=Clit
+...suppressing further errors regarding Morpho
+*** FAILED *** with 61 errors
+Morpho errors: 61
 
 
 ******************
 
-python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-test.conllu
 
-*** PASSED ***
+[Line                   5]: Unknown attribute-value pair PronType=Clit
+[Line                   46]: Unknown attribute-value pair PronType=Clit
+[Line                   84]: Unknown attribute-value pair PronType=Clit
+[Line                   240]: Unknown attribute-value pair PronType=Clit
+[Line                   323]: Unknown attribute-value pair PronType=Clit
+[Line                   386]: Unknown attribute-value pair PronType=Clit
+[Line                   464]: Unknown attribute-value pair PronType=Clit
+[Line                   470]: Unknown attribute-value pair PronType=Clit
+[Line                   479]: Unknown attribute-value pair PronType=Clit
+[Line                   499]: Unknown attribute-value pair PronType=Clit
+[Line                   545]: Unknown attribute-value pair PronType=Clit
+[Line                   584]: Unknown attribute-value pair PronType=Clit
+[Line                   603]: Unknown attribute-value pair PronType=Clit
+[Line                   648]: Unknown attribute-value pair PronType=Clit
+[Line                   662]: Unknown attribute-value pair PronType=Clit
+[Line                   699]: Unknown attribute-value pair PronType=Clit
+[Line                   702]: Unknown attribute-value pair PronType=Clit
+[Line                   802]: Unknown attribute-value pair PronType=Clit
+[Line                   863]: Unknown attribute-value pair PronType=Clit
+...suppressing further errors regarding Morpho
+*** FAILED *** with 54 errors
+Morpho errors: 54
 
 
 ******************
 
-python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
-*** PASSED ***
+[Line                   164]: Unknown attribute-value pair PronType=Clit
+[Line                   188]: Unknown attribute-value pair PronType=Clit
+[Line                   319]: Unknown attribute-value pair PronType=Clit
+[Line                   327]: Unknown attribute-value pair PronType=Clit
+[Line                   350]: Unknown attribute-value pair PronType=Clit
+[Line                   418]: Unknown attribute-value pair PronType=Clit
+[Line                   574]: Unknown attribute-value pair PronType=Clit
+[Line                   580]: Unknown attribute-value pair PronType=Clit
+[Line                   654]: Unknown attribute-value pair PronType=Clit
+[Line                   673]: Unknown attribute-value pair PronType=Clit
+[Line                   765]: Unknown attribute-value pair PronType=Clit
+[Line                   775]: Unknown attribute-value pair PronType=Clit
+[Line                   968]: Unknown attribute-value pair PronType=Clit
+[Line                   980]: Unknown attribute-value pair PronType=Clit
+[Line                   1009]: Unknown attribute-value pair PronType=Clit
+[Line                   1172]: Unknown attribute-value pair PronType=Clit
+[Line                   1191]: Unknown attribute-value pair PronType=Clit
+[Line                   1362]: Unknown attribute-value pair PronType=Clit
+[Line                   1474]: Unknown attribute-value pair PronType=Clit
+...suppressing further errors regarding Morpho
+*** FAILED *** with 354 errors
+Morpho errors: 354
 
 
 ******************
@@ -1245,28 +1308,91 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T16:17:50Z">2016-11-30T16:17:50 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T16:24:27Z">2016-11-30T16:24:27 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
-*** PASSED ***
+[Line                   31]: Unknown attribute-value pair PronType=Predet
+[Line                   77]: Unknown attribute-value pair PronType=Clit
+[Line                   138]: Unknown attribute-value pair PronType=Clit
+[Line                   181]: Unknown attribute-value pair PronType=Clit
+[Line                   267]: Unknown attribute-value pair PronType=Clit
+[Line                   369]: Unknown attribute-value pair PronType=Clit
+[Line                   457]: Unknown attribute-value pair PronType=Predet
+[Line                   505]: Unknown attribute-value pair PronType=Clit
+[Line                   525]: Unknown attribute-value pair PronType=Clit
+[Line                   669]: Unknown attribute-value pair PronType=Clit
+[Line                   727]: Unknown attribute-value pair PronType=Clit
+[Line                   769]: Unknown attribute-value pair PronType=Clit
+[Line                   811]: Unknown attribute-value pair PronType=Clit
+[Line                   822]: Unknown attribute-value pair PronType=Clit
+[Line                   853]: Unknown attribute-value pair PronType=Clit
+[Line                   854]: Unknown attribute-value pair PronType=Clit
+[Line                   884]: Unknown attribute-value pair PronType=Clit
+[Line                   908]: Unknown attribute-value pair PronType=Clit
+[Line                   911]: Unknown attribute-value pair PronType=Clit
+...suppressing further errors regarding Morpho
+*** FAILED *** with 181 errors
+Morpho errors: 181
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-test.conllu
 
-*** PASSED ***
+[Line                   38]: Unknown attribute-value pair PronType=Clit
+[Line                   209]: Unknown attribute-value pair PronType=Clit
+[Line                   319]: Unknown attribute-value pair PronType=Clit
+[Line                   327]: Unknown attribute-value pair PronType=Clit
+[Line                   335]: Unknown attribute-value pair PronType=Clit
+[Line                   336]: Unknown attribute-value pair PronType=Clit
+[Line                   414]: Unknown attribute-value pair PronType=Clit
+[Line                   462]: Unknown attribute-value pair PronType=Clit
+[Line                   485]: Unknown attribute-value pair PronType=Clit
+[Line                   667]: Unknown attribute-value pair PronType=Clit
+[Line                   673]: Unknown attribute-value pair PronType=Clit
+[Line                   703]: Unknown attribute-value pair PronType=Clit
+[Line                   704]: Unknown attribute-value pair PronType=Clit
+[Line                   708]: Unknown attribute-value pair PronType=Predet
+[Line                   787]: Unknown attribute-value pair PronType=Clit
+[Line                   801]: Unknown attribute-value pair PronType=Clit
+[Line                   847]: Unknown attribute-value pair PronType=Clit
+[Line                   865]: Unknown attribute-value pair PronType=Clit
+[Line                   954]: Unknown attribute-value pair PronType=Clit
+...suppressing further errors regarding Morpho
+*** FAILED *** with 195 errors
+Morpho errors: 195
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
 
-*** PASSED ***
+[Line                   146]: Unknown attribute-value pair PronType=Clit
+[Line                   358]: Unknown attribute-value pair PronType=Clit
+[Line                   437]: Unknown attribute-value pair PronType=Clit
+[Line                   508]: Unknown attribute-value pair PronType=Predet
+[Line                   577]: Unknown attribute-value pair PronType=Clit
+[Line                   590]: Unknown attribute-value pair PronType=Clit
+[Line                   607]: Unknown attribute-value pair PronType=Clit
+[Line                   657]: Unknown attribute-value pair PronType=Predet
+[Line                   821]: Unknown attribute-value pair PronType=Clit
+[Line                   954]: Unknown attribute-value pair PronType=Clit
+[Line                   1114]: Unknown attribute-value pair PronType=Clit
+[Line                   1198]: Unknown attribute-value pair PronType=Clit
+[Line                   1628]: Unknown attribute-value pair PronType=Predet
+[Line                   1668]: Unknown attribute-value pair PronType=Clit
+[Line                   1707]: Unknown attribute-value pair PronType=Clit
+[Line                   1779]: Unknown attribute-value pair PronType=Clit
+[Line                   2040]: Unknown attribute-value pair PronType=Clit
+[Line                   2094]: Unknown attribute-value pair PronType=Clit
+[Line                   2158]: Unknown attribute-value pair PronType=Clit
+...suppressing further errors regarding Morpho
+*** FAILED *** with 4673 errors
+Morpho errors: 4673
 
 
 ******************
