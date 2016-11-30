@@ -28,7 +28,7 @@ udver: '2'
 This is the online documentation for Universal Dependencies, version 2 (2016-12-01). 
 </small>
 
-<strong>Warning:</strong> The universal guidelines have now been upgraded to v2, 
+<font color="red">Warning:</font> The universal guidelines have now been upgraded to v2, 
 but the treebanks listed below still conform to v1. 
 If you need to consult the v1 guidelines, they can be found [here](docsv1/index.html).
 
