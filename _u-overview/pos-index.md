@@ -3,6 +3,7 @@ layout: base
 title:  'Universal POS tags'
 generated: 'true'
 permalink: u/pos/index.html
+udver: '2'
 ---
 
 # Universal POS tags
