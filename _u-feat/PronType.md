@@ -4,8 +4,9 @@ title: 'PronType'
 shortdef: 'pronominal type'
 ---
 
-<table>
+<table border="1">
 <tr>
+  <td style="background-color:cornflowerblue"><strong>Values:</strong> </td>
   <td><a href="#Art">Art</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
