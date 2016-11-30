@@ -49,6 +49,11 @@ between numerals and nouns for _thousand, million_ and _billion._
 * [en] _one, two, three_ 
 * [cs] _jeden, dva, tři_ "one, two, three"; _kolik_ "how many";
   _několik_ "some"; _tolik_ "so many"; _mnoho_ "many"; _málo_ "few"
+* [cs] _<b>čtvero, patero, desatero</b>_ (specific forms of four, five, ten;
+  they are morphologically, syntactically and stylistically distinct from the
+  default forms _čtyři, pět, deset_; in Czech grammar they are classified
+  as "generic numerals", which also encompasses some other rare types;
+  nevertheless, `Card` is the closest match for them among the universal types.
 
 
 
@@ -59,12 +64,13 @@ words but their traditional classification may differ. (Note that
 "generic numerals" in Czech grammar also include the `Sets` subclass
 mentioned above and part of the `Mult` subclass above.)
 
-#### Examples
-
-* [cs] _<b>čtvero, patero, desatero</b>_ (specific forms of four,
-  five, ten; they are morphologically, syntactically and stylistically
-  distinct from the default forms _čtyři, pět, deset_);
-
+Czech:        <feat name="NumType" value="Gen" upos="ADJ">62</feat><!-- dvojí, obojí, dvojím, dvojího, obojím, trojí, dvojími, obého -->
+Czech CAC:    <feat name="NumType" value="Gen" upos="ADJ">33</feat><!-- dvojí, obojí, dvojím, trojí, dvojího, trojím, dvojímu, obojího, obojím -->
+Croatian:     <feat name="NumType" value="Gen" upos="NUM">85</feat><!-- obje, oba, obiju, 50%, deseci, objema, 20%, 30%, 9%, dvoje -->
+Slovenian:    <feat name="NumType" value="Gen" upos="ADJ">4</feat><!-- dvojnega, dvojnim, dvojno, trojnim -->
+SlovSST:      <feat name="NumType" value="Gen" upos="ADJ">3</feat><!-- dvojni, dvojno, trojni -->
+Italian:      <feat name="NumType" value="Gen" upos="NUM">21</feat><!-- 6', 1'13'', 1.00'16'', 1.19'59'', 10'', 11'06'', 13', 19'43'', 2'42'', 20'01'' -->
+Greek:        <feat name="NumType" value="Gen" upos="NUM">19</feat><!-- δεκάδες, χιλιάδες, εκατοντάδες, χιλιάδων, διπλάσιο, εκατοντάδων -->
 
 
 
