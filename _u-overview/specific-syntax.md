@@ -13,15 +13,6 @@ This section will contain detailed discussion of particular linguistic construct
 * Choices for representing repeated arguments, particularly for clitic doubling, are described under [u-dep/expl]()
 
 
-### Complex clauses
-
-Complex clauses involving subordination arise because a core or non-core dependent is realized as a clausal structure.
-We distinguish four basic types: 
-
-1. Clausal subjects, divided into ordinary subjects ([u-dep/csubj]()) and passive subjects ([u-dep/csubjpass]()).
-2. Clausal complements (objects), divided into those with obligatory control ([u-dep/xcomp]()) and those without ([u-dep/ccomp]()).
-3. Clausal adverbial modifiers ([u-dep/advcl]()).
-4. Clausal adnominal modifiers ([u-dep/acl]()) (with relative clauses as an important subtype in many languages).
 
 ## Nominal structures
 
