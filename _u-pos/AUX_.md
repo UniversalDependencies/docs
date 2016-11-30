@@ -1,7 +1,7 @@
 ---
 layout: postag
 title: 'AUX'
-shortdef: 'auxiliary verb'
+shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "u/pos/AUX.html"
@@ -9,19 +9,22 @@ redirect_from: "u/pos/AUX.html"
 
 ### Definition
 
-An auxiliary verb is a verb that accompanies the lexical verb of a
+An auxiliary is a function word that accompanies the lexical verb of a
 verb phrase and expresses grammatical distinctions not carried by the
-lexical verb, such as person, number, tense, mood, aspect, and voice.
+lexical verb, such as person, number, tense, mood, aspect, voice or evidentiality.
+It is often a verb (which may have non-auxiliary uses as well) but many languages 
+have nonverbal TAME markers and these should also be tagged `AUX`. The class `AUX`
+also include copulas (in the narrow sense of pure linking words for nonverbal predication).
 
 _Modal verbs_ may count as auxiliaries in some languages (English). In
 other languages their behavior is not too different from the [main
 verbs](VERB) and they are thus tagged `VERB`. _Copulas_ also stay with
 main verbs.
 
-Note that not all languages have grammaticalized auxiliary verbs, and
+Note that not all languages have grammaticalized auxiliaries, and
 even where they exist the dividing line between full verbs and
-auxiliary verbs can be expected to vary between languages. Exactly
-which verbs are counted as `AUX` should be part of the
+auxiliaries can be expected to vary between languages. Exactly
+which words are counted as `AUX` should be part of the
 language-specific documentation.
 
 ### Examples
