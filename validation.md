@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-30T21:49:14Z">2016-11-30T21:49:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-30T22:55:14Z">2016-11-30T22:55:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -225,25 +225,25 @@ python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:51:14Z">2016-11-14T21:51:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T22:55:01Z">2016-11-30T22:55:01 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
 
 *** PASSED ***
 
@@ -2002,25 +2002,25 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-12T21:05:31Z">2016-11-12T21:05:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T22:55:12Z">2016-11-30T22:55:12 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 
 *** PASSED ***
 
