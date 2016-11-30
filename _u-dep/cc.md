@@ -13,6 +13,7 @@ We take the first conjunct as the head of the coordination.)-->
 
 ~~~ sdparse
 Bill is big and honest
+conj(big, honest)
 cc(honest, and)
 ~~~
 
@@ -22,7 +23,7 @@ sentence. This is also called a `cc`, even though there is no preceding conjunct
 
 ~~~ sdparse
 And then we left .
-cc(left, left)
+cc(left, And)
 ~~~
 
 <div id="punct1" class="sd-parse">
