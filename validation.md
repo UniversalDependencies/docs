@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-21T17:57:38Z">2016-11-21T17:57:38 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-11-28T01:16:06Z">2016-11-28T01:16:06 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -606,7 +606,7 @@ python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:57:20Z">2016-11-14T21:57:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-28T01:16:03Z">2016-11-28T01:16:03 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1588,7 +1588,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:04:25Z">2016-11-14T22:04:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-22T18:47:50Z">2016-11-22T18:47:50 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1812,7 +1812,7 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-21T17:56:47Z">2016-11-21T17:56:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-24T01:03:28Z">2016-11-24T01:03:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2271,28 +2271,36 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:08:34Z">2016-11-14T21:08:34 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-11-26T14:53:18Z">2016-11-26T14:53:18 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
-*** PASSED ***
+[Line                   779]: Unknown UD DEPREL: nmod:cmp
+[Line                   1330]: Unknown UD DEPREL: nmod:cmp
+*** FAILED *** with 2 errors
+Syntax errors: 2
 
 
 ******************
 
 python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-test.conllu
 
-*** PASSED ***
+[Line                   42]: Unknown UD DEPREL: nmod:cmp
+*** FAILED *** with 1 errors
+Syntax errors: 1
 
 
 ******************
 
 python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
 
-*** PASSED ***
+[Line                   1446]: Unknown UD DEPREL: nmod:cmp
+[Line                   1626]: Unknown UD DEPREL: nmod:cmp
+*** FAILED *** with 2 errors
+Syntax errors: 2
 
 
 ******************
