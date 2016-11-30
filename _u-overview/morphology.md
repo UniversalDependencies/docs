@@ -37,12 +37,9 @@ The `LEMMA` field should not be used to encode features or other similar propert
 
 ## Part-of-Speech Tags
 
-The list of <a href="../../u/pos/index.html">universal POS tags</a> is
-a fixed list containing 17 tags.  
-It is possible that some tags will not be used in some
-languages. However, the list cannot be extended to cover
-language-specific extensions. Instead, more fine-grained
-classification of words can be achieved via the use of 
+The list of <a href="../../u/pos/index.html">universal POS tags</a> is a fixed list containing 17 tags.  
+It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover
+language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of 
 <a href="../../u/feat/index.html">features</a> (see below).
 
 Also, note that the <a href="../../format.html">CoNLL-U format</a>
@@ -57,8 +54,7 @@ instead of underscore if no other tag is appropriate.)
 ### Using a word vs. mentioning it
 
 The universal POS tags focus more on _what the word is_ than on _which construction it is used in_
-(the latter is specified by the
-[dependency relation labels](../../u/dep/index.html)).
+(the latter is specified by the [dependency relation labels](../../u/dep/index.html)).
 In particular, the POS tags do not distinguish actual usage of a word from just mentioning it.
 Thus in both the following examples, _yes_ will be tagged as interjection:
 
