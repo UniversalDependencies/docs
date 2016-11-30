@@ -14,7 +14,7 @@ endocentric (headed) MWEs (like _apple pie_).
 Flat MWEs are annotated in a flat structure, where all subsequent words in the expression are attached to the 
 first one using the fixed label. The assumption is that these expressions do not have any internal syntactic structure 
 and that the structural annotation is in principle arbitrary. In practice, however, it is highly desirable to use 
-a consistent annotation of all fixed MWEs in all languages.
+a consistent annotation of all flat MWEs in all languages.
 
 Below we describe some of the most common uses of [flat]() across languages. Note, however, that semantically
 equivalent expressions in other languages (or even in the same language) may require a different analysis if it
