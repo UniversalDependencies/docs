@@ -4,7 +4,7 @@ title:  'Universal Dependencies'
 udver: '2'
 ---
 
-# Universal Dependencies
+# Universal Dependencies v2
 
 [Executive summary of changes from v1 to v2](v2/summary.html)
 
@@ -26,11 +26,8 @@ udver: '2'
 
 <small>
 This is the online documentation for Universal Dependencies, version 2 (2016-12-01). 
+<strong>NB:</strong> The treebanks listed below do not yet conform to v2. See [v1](docsv1/index.html).
 </small>
-
-<font color="red">Warning:</font> The universal guidelines have now been upgraded to v2, 
-but the treebanks listed below still conform to v1. 
-If you need to consult the v1 guidelines, they can be found [here](docsv1/index.html).
 
 # Want to know more about UD?
 
