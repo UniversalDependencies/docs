@@ -18,11 +18,11 @@ udver: '2'
 * Syntax
   * [General principles](u/overview/syntax.html)
   * Basic dependencies
-    * [Simple clauses](simple-syntax.html)
-    * [Complex clauses](complex-syntax.html)
-    * [Nominal phrases](nominal-syntax.html)
-    * [Other constructions](specific-syntax.html)
-  * [Enhanced dependencies](enhanced-syntax.html)
+    * [Simple clauses](u/overview/simple-syntax.html)
+    * [Complex clauses](u/overview/complex-syntax.html)
+    * [Nominal phrases](u/overview/nominal-syntax.html)
+    * [Other constructions](u/overview/specific-syntax.html)
+  * [Enhanced dependencies](u/overview/enhanced-syntax.html)
   * [Universal dependency relations](u/dep/index.html) ([single document](u/dep/all.html))
   * [Language-specific relations](ext-dep-index.html)
 
