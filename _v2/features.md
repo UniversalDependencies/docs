@@ -42,7 +42,6 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   More neutral terms are adverbial participle or _converb_ (Haspelmath, 1995), so I propose to relabel these forms `VerbForm=Conv`.
 * [u-feat/Definite](): rename `Red` (reduced) to `Cons` (construct state); see the
   [issue 135](http://github.com/UniversalDependencies/docs/issues/135) for related discussion.
-* [u-feat/NumType](): Remove `NumType=Gen`, replace it by a narrower (and positively-defined) `NumType=Fold` for adjectival numerals like [cs] _dvojí, trojí_ "twofold, threefold".
 * TO DISCUSS: What is `NumType=Pers` in Irish? (Defined but not used.)
 
 ## Adding/removing values to/from existing features
@@ -169,6 +168,8 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * NOTE: The Italian data in UD v1 contain three additional values of [Italian](it-feat/PronType): `Clit`, `Predet` and `Ord`.
     We do not propose to adopt these values as universal in UD v2. We propose to change the Italian guidelines so that these values
     are no longer needed. See [Issue 353](http://github.com/UniversalDependencies/docs/issues/353) for details.
+* [u-feat/NumType]()
+  * Remove `NumType=Gen`, it is poorely defined as a garbage can, some of the words should actually be cardinals, some are better classified as `NumType=Mult`.
 * [u-feat/Person]()
   * Add `Person=0`. Proposed in UniMorph.
     Zero person is for impersonal statements, appears in Finnish as well as in Santa Ana Pueblo Keres.
