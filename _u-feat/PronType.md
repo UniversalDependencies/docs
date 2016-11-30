@@ -46,7 +46,7 @@ personal/possessive pronouns (e.g. [cs] _se / svůj;_ see the
 
 #### Examples
 
-* [de] _einander,_ “each other”
+* [de] _einander_ “each other”
 * [da] _hinanden_ “each other”
 
 ### <a name="Art">`Art`</a>: article
