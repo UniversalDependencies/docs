@@ -2,7 +2,19 @@
 layout: feature
 title: 'Degree'
 shortdef: 'degree of comparison'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Abs">Abs</a></td>
+  <td><a href="#Cmp">Cmp</a></td>
+  <td><a href="#Equ">Equ</a></td>
+  <td><a href="#Pos">Pos</a></td>
+  <td><a href="#Sup">Sup</a></td>
+</tr>
+</table>
 
 Degree of comparison is typically an inflectional feature of some
 [adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV).
@@ -18,6 +30,17 @@ compared, too.
 
 * [en] _<b>young</b> man_
 * [cs] _<b>mladý</b> muž_
+
+### `Equ`: equative
+
+The quality of one object is compared to the same quality of another
+object, and the result is that they are identical or similar (“as X as”).
+Note that it marks the adjective and it is distinct from the equative [Case](),
+which marks the standard of comparison.
+
+#### Examples
+
+* [et] _<b>pikkune</b> (pikkus+ne)_ “as tall as”
 
 ### `Cmp`: comparative, second degree
 
