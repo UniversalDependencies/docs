@@ -2,12 +2,13 @@
 layout: postag
 title: 'X'
 shortdef: 'other'
+udver: '2'
 ---
 
 ### Definition
 
 The tag `X` is used for words that for some reason cannot be assigned
-a real part-of-speech category.
+a real part-of-speech category. It should be used very restrictively.
 
 A special usage of `X` is for cases of code-switching where it is not
 possible (or meaningful) to analyze the intervening language
