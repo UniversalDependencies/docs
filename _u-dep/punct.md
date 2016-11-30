@@ -2,6 +2,7 @@
 layout: relation
 title: 'punct'
 shortdef: 'punctuation'
+udver: '2'
 ---
 
 This is used for any piece of punctuation in a clause, if punctuation
@@ -27,10 +28,10 @@ dobj(have, apples)
 conj(apples, pears)
 conj(apples, oranges)
 conj(apples, bananas)
-cc(apples, and)
-punct(apples, ,-4)
-punct(apples, ,-6)
-punct(apples, ,-8)
+cc(bananas, and)
+punct(pears, ,-4)
+punct(oranges, ,-6)
+punct(bananas, ,-8)
 </div>
 
 <div id="punct2" class="sd-parse">
