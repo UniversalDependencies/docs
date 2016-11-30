@@ -10,7 +10,7 @@ udver: '2'
 
 For v2, we propose
 
-* Rename [u-pos/CONJ]() to `CCONJ`.
+* Rename `CONJ]` to [u-pos/CCONJ]().
 * Extend the use of [u-pos/AUX]() to copula verbs and nonverbal TAMVE particles.
 * Minimize usage of [u-pos/PART]() – small language-specific list of words, case must be made for each.
 * Loosen borderline between [u-pos/PRON]() and [u-pos/DET](): set of recommendations instead of purely functional rule.
