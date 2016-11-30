@@ -41,7 +41,6 @@ The set of universal features is updated from v1 to v2 in the following ways:
     2. `Aspect=Pro` → `Aspect=Prosp`
     3. `VerbForm=Trans` → `VerbForm=Conv`
     4. `Definite=Red` → `Definite=Cons`
-    5. `NumType=Gen` → `NumType=Fold` [with a more restricted meaning]
 2. New features are added (or promoted to universal features):
     1. `Evident` (evidentiality) with value `Nfh` (non-first hand)
     2. `Polite` (politeness) with values `Infm` (informal), `Form` (formal), `Elev` (elevated status of referent; subtype of `Form`), `Humb` (humbled status of speaker; subtype of `Form`) 
@@ -59,8 +58,9 @@ The set of universal features is updated from v1 to v2 in the following ways:
     9. `Voice=Mid` (middle voice), `Voice=Antip` (antipassive), `Voice=Dir` (direct), `Voice=Inv` (inverse)
     10. `PronType=Emp` (emphatic), `PronType=Exc` (exclamative) 
     11. `Person=0`, `Person=4`
-4. Unused values are removed from existing features:
+4. Unused or poorly defined values are removed from existing features:
     1. `Tense=Nar` (narrative)
+    2. `NumType=Gen` (generic)
     
 Revisions to the feature system have whenever possible been made to improve clarity and consistency with other systems such as UniMorph. More discussion can be found in the section on [features](features.html).
 
