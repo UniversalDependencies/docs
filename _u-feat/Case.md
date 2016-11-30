@@ -2,7 +2,46 @@
 layout: feature
 title: 'Case'
 shortdef: 'case'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Abe">Abe</a></td>
+  <td><a href="#Abl">Abl</a></td>
+  <td><a href="#Abs">Abs</a></td>
+  <td><a href="#Acc">Acc</a></td>
+  <td><a href="#Add">Add</a></td>
+  <td><a href="#Ade">Ade</a></td>
+  <td><a href="#All">All</a></td>
+  <td><a href="#Ben">Ben</a></td>
+  <td><a href="#Cau">Cau</a></td>
+  <td><a href="#Cmp">Cmp</a></td>
+  <td><a href="#Com">Com</a></td>
+  <td><a href="#Dat">Dat</a></td>
+  <td><a href="#Del">Del</a></td>
+  <td><a href="#Dis">Dis</a></td>
+  <td><a href="#Ela">Ela</a></td>
+  <td><a href="#Equ">Equ</a></td>
+  <td><a href="#Erg">Erg</a></td>
+  <td><a href="#Ess">Ess</a></td>
+  <td><a href="#Gen">Gen</a></td>
+  <td><a href="#Ill">Ill</a></td>
+  <td><a href="#Ine">Ine</a></td>
+  <td><a href="#Ins">Ins</a></td>
+  <td><a href="#Lat">Lat</a></td>
+  <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Nom">Nom</a></td>
+  <td><a href="#Par">Par</a></td>
+  <td><a href="#Sub">Sub</a></td>
+  <td><a href="#Sup">Sup</a></td>
+  <td><a href="#Tem">Tem</a></td>
+  <td><a href="#Ter">Ter</a></td>
+  <td><a href="#Tra">Tra</a></td>
+  <td><a href="#Voc">Voc</a></td>
+</tr>
+</table>
 
 `Case` is usually an inflectional feature of [nouns](u-pos/NOUN) and,
 depending on language, other parts of speech ([pronouns](u-pos/PRON),
@@ -63,21 +102,21 @@ noun is not in genitive. Instead, the postposition requires that it
 takes one of three case forms that are marked directly on the noun:
 the oblique case (`Acc`).
 
-### `Nom`: nominative / direct
+### <a name="Nom">`Nom`</a>: nominative / direct
 
 The base form of the noun, typically used as citation form (lemma).
 In many languages this is the word form used for subjects of clauses.
 If the language has only two cases, which are called "direct" and
 "oblique", the direct case will be marked Nom.
 
-### `Acc`: accusative / oblique
+### <a name="Acc">`Acc`</a>: accusative / oblique
 
 Perhaps the second most widely spread morphological case. In many
 languages this is the word form used for direct objects of verbs.  If
 the language has only two cases, which are called "direct" and
 "oblique", the oblique case will be marked Acc.
 
-### `Abs`: absolutive
+### <a name="Abs">`Abs`</a>: absolutive
 
 Some languages (e.g. Basque) do not use nominative-accusative to
 distinguish subjects and objects.  Instead, they use the contrast of
@@ -86,7 +125,7 @@ absolutive-ergative.
 The absolutive case marks subject of intransitive verb and direct
 object of transitive verb.
 
-### `Erg`: ergative
+### <a name="Erg">`Erg`</a>: ergative
 
 Some languages (e.g. Basque) do not use nominative-accusative to
 distinguish subjects and objects.  Instead, they use the contrast of
@@ -94,7 +133,7 @@ absolutive-ergative.
 
 The ergative case marks subject of transitive verb.
 
-### `Dat`: dative
+### <a name="Dat">`Dat`</a>: dative
 
 In many languages this is the word form used for indirect objects of verbs.
 
@@ -104,7 +143,7 @@ In many languages this is the word form used for indirect objects of verbs.
   brother a present." (_meinem Bruder_ "my brother" is dative and _ein
   Geschenk_ "a present" is accusative.)
 
-### `Gen`: genitive
+### <a name="Gen">`Gen`</a>: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow
 belongs to its governor; it would often be translated by the English
@@ -139,7 +178,7 @@ Note that in Basque, Gen should be used for possessive genitive (as
 opposed to locative genitive): _<b>diktadorearen</b> erregimena_
 "dictator's regime"; _diktadore_ "dictator".
 
-### `Voc`: vocative
+### <a name="Voc">`Voc`</a>: vocative
 
 The vocative case is a special form of noun used to address
 someone. Thus it predominantly appears with animate nouns (see the
@@ -151,7 +190,7 @@ restriction and inanimate things can be addressed as well.
 * [cs] _Co myslíš, <b>Filip</b><b>e</b>?_ "What do you think,
   <b>Filip</b>?"
 
-### `Loc`: locative
+### <a name="Loc">`Loc`</a>: locative
 
 The locative case often expresses location in space or time, which
 gave it its name. As elsewhere, non-locational meanings also exist and
@@ -172,7 +211,7 @@ other languages that have locative).
 * [cs] _Mluvili jsme tam o <b>morfologii</b>._ "We talked there about
   <b>morphology</b>." (Non-locational non-temporal example)
 
-### `Ins`: instrumental / instructive
+### <a name="Ins">`Ins`</a>: instrumental / instructive
 
 The role from which the name of the instrumental case is derived is
 that the noun is used as instrument to do something (as in [cs] _psát
@@ -203,7 +242,7 @@ defined in Finnish).
   valtataisteluun_ lit. _was-involved-in by-surprise.Ins
   power-struggle.Ill._
 
-### `Par`: partitive
+### <a name="Par">`Par`</a>: partitive
 
 In Finnish the partitive case expresses indefinite identity and
 unfinished actions without result.
@@ -226,7 +265,7 @@ Using accusative instead of partitive may also substitute the missing
 future tense: _luen kirjan_ "I will read the book.Acc"; _luen kirjaa_
 "I am reading the book.Par".
 
-### `Dis`: distributive
+### <a name="Dis">`Dis`</a>: distributive
 
 The distributive case conveys that something happened to every member
 of a set, one in a time. Or it may express frequency.
@@ -238,7 +277,7 @@ of a set, one in a time. Or it may express frequency.
 * [hu] _<b>hetenként</b>_ "once per week, weekly"
 * [hu] _<b>tízpercenként</b>_ "every ten minutes"
 
-### `Ess`: essive / prolative
+### <a name="Ess">`Ess`</a>: essive / prolative
 
 The essive case expresses a temporary state, often it corresponds to
 English "as a &hellip;" A similar case in Basque is called prolative
@@ -250,7 +289,7 @@ and it should be tagged `Ess` too.
 * [et] _laps_ "child"; _<b>lapsena</b>_ "as a child"
 * [eu] _erreformista_ "reformer"; _<b>erreformistatzat</b>_ "as a reformer"
 
-### `Tra`: translative / factive
+### <a name="Tra">`Tra`</a>: translative / factive
 
 The translative case expresses a change of state ("it becomes X", "it
 changes to X").  Also used for the phrase "in language X". In the
@@ -265,7 +304,7 @@ Szeged Treebank, this case is called factive.
 * [hu] _Oroszlány halott <b>várossá</b> válhat._ lit. _Oroszlány dead city.Tra
   could-become._ "Oroszlány could become a dead city."
 
-### `Com`: comitative / associative
+### <a name="Com">`Com`</a>: comitative / associative
 
 The comitative (also called associative) case corresponds to English
 "together with &hellip;"
@@ -274,7 +313,7 @@ The comitative (also called associative) case corresponds to English
 
 * [et] _koer_ "dog"; _<b>koeraga</b>_ "with dog"
 
-### `Abe`: abessive
+### <a name="Abe">`Abe`</a>: abessive
 
 The abessive case corresponds to the English preposition _without_.
 
@@ -282,7 +321,7 @@ The abessive case corresponds to the English preposition _without_.
 
 * [fi] _raha_ "money"; _<b>rahatta</b>_ "without money"
 
-### `Ine`: inessive
+### <a name="Ine">`Ine`</a>: inessive
 
 The inessive case expresses location inside of something.
 
@@ -292,7 +331,7 @@ The inessive case expresses location inside of something.
 * [fi] _talo_ "house"; _<b>talossa</b>_ "in the house"
 * [et] _maja_ "house"; _<b>majas</b>_ "in the house"
 
-### `Ill`: illative
+### <a name="Ill">`Ill`</a>: illative
 
 The illative case expresses direction into something.
 
@@ -302,7 +341,7 @@ The illative case expresses direction into something.
 * [fi] _talo_ "house"; _<b>taloon</b>_ "into the house"
 * [et] _maja_ "house"; _<b>majasse</b>_ "into the house"
 
-### `Ela`: elative
+### <a name="Ela">`Ela`</a>: elative
 
 The elative case expresses direction out of something.
 
@@ -312,7 +351,7 @@ The elative case expresses direction out of something.
 * [fi] _talo_ "house"; _<b>talos</b><b>t</b><b>a</b>_ "from the house"
 * [et] _maja_ "house"; _<b>majas</b><b>t</b>_ "from the house"
 
-### `Add`: additive
+### <a name="Add">`Add`</a>: additive
 
 Distinguished by some scholars in Estonian, not recognized by
 traditional grammar, exists in the Multext-East Estonian tagset and in
@@ -325,7 +364,7 @@ Forms of this case exist only in singular and not for all nouns.
 
 * [et] _riik_ "government"; _riigisse_ "to the government" (singular illative); _<b>riiki</b>_ "to the government" (singular additive)
 
-### `Ade`: adessive
+### <a name="Ade">`Ade`</a>: adessive
 
 The adessive case expresses location at or on something.  The
 corresponding directional cases are allative (towards something) and
@@ -341,7 +380,7 @@ Note that adessive is used to express location on the surface of
 something in Finnish and Estonian, but does not carry this meaning in
 Hungarian.
 
-### `All`: allative
+### <a name="All">`All`</a>: allative
 
 The allative case expresses direction to something (destination is
 adessive, i.e. at or on that something).
@@ -351,7 +390,7 @@ adessive, i.e. at or on that something).
 * [hu] _pénztár_ "cash desk"; _<b>pénztár</b><b>hoz</b>_ "to the cash desk"
 * [fi] _pöytä_ "table"; _<b>pöydäll</b><b>e</b>_ "onto the table"
 
-### `Abl`: ablative
+### <a name="Abl">`Abl`</a>: ablative
 
 Prototypical meaning: direction from some point.
 
@@ -361,7 +400,7 @@ Prototypical meaning: direction from some point.
 * [fi] _<b>pöydältä</b>_ "from the table"; _<b>katolta</b>_ "from the roof";
   _<b>rannalta</b>_ "from the beach"
 
-### `Sup`: superessive
+### <a name="Sup">`Sup`</a>: superessive
 
 Used, chiefly [in
 Hungarian](http://www.hungarianreference.com/Nouns/-n-superessive.aspx),
@@ -373,7 +412,7 @@ something.
 * [hu] _asztal_ "table"; _<b>asztalon</b>_ "on the table"
 * [hu] _könyvek_ "books"; _<b>könyveken</b>_ "on books"
 
-### `Sub`: sublative
+### <a name="Sub">`Sub`</a>: sublative
 
 The sublative case is used in Finno-Ugric languages to express the
 destination of movement, originally to the surface of something
@@ -388,7 +427,7 @@ meanings as well (e.g. "to university").
 * [hu] _hajó_ "ship"; _<b>hajóra</b>_ "onto the ship"
 * [hu] _<b>bokorra</b>_ "on the shrub"
 
-### `Del`: delative
+### <a name="Del">`Del`</a>: delative
 
 Used, chiefly [in
 Hungarian](http://www.hungarianreference.com/Nouns/ról-rol-delative.aspx),
@@ -401,7 +440,7 @@ something".
 * [hu] _asztal_ "table"; _az <b>asztal</b><b>ról</b>_ "off the table"
 * [hu]_<b>Budapestről</b> jövök_ "I am coming from Budapest"
 
-### `Lat`: lative / directional allative
+### <a name="Lat">`Lat`</a>: lative / directional allative
 
 The lative case denotes movement towards/to/into/onto
 something. Similar case in Basque is called directional allative
@@ -413,7 +452,7 @@ Basque it is derived from allative, which also exists independently.
 
 * [eu] _behe_ "low"; _<b>beherantz</b>_ "down"
 
-### `Tem`: temporal
+### <a name="Tem">`Tem`</a>: temporal
 
 The temporal case is used to indicate time.
 
@@ -422,7 +461,7 @@ The temporal case is used to indicate time.
 * [hu] _<b>hétkor</b>_ "at seven (o'clock)"; _<b>éjfélkor</b>_ "at midnight";
   _<b>karácsonykor</b>_ "at Christmas"
 
-### `Ter`: terminative / terminal allative
+### <a name="Ter">`Ter`</a>: terminative / terminal allative
 
 The terminative case specifies where something ends in space or
 time. Similar case in Basque is called terminal allative (Spanish
@@ -436,7 +475,7 @@ _adlativo terminal_).
   six o'clock"
 * [eu] _erdi_ "half"; _<b>erdiraino</b>_ "up to the half"
 
-### `Cau`: causative / motivative / purposive
+### <a name="Cau">`Cau`</a>: causative / motivative / purposive
 
 Noun in this case is the cause of something. In Hungarian it also
 seems to be used frequently with currency ("to buy something _for_ the
@@ -453,10 +492,26 @@ money") and it also can mean the goal of something.
 * [eu] _jokaera_ "behavior"; _<b>jokaeragatik</b>_ "because of
   behavior"
 
-### `Ben`: benefactive / destinative
+### <a name="Ben">`Ben`</a>: benefactive / destinative
 
 The benefactive case corresponds to the English preposition _for_.
 
 #### Examples
 
 * [eu] _mutil_ "boy"; _<b>mutilarentzat</b>_ "for boys"
+
+### <a name="Cmp">`Cmp`</a>: comparative
+
+The comparative case means “than X”. It marks the standard of comparison and
+it differs from the comparative [Degree](), which marks the property being
+compared. It occurs in Dravidian and Northeast-Caucasian languages.
+
+### <a name="Equ">`Equ`</a>: equative
+
+The equative case means “X-like”, “similar to X”, “same as X”. It marks the
+standard of comparison and it differs from the equative [Degree](), which
+marks the property being compared. It occurs in Turkish.
+
+#### Examples
+
+* [tr] _ben_ "I"; _<b>bence</b>_ "like me"
