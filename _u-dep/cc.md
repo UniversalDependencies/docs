@@ -2,29 +2,27 @@
 layout: relation
 title: 'cc'
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
-For more on coordination, see the [conj]() relation.
-A `cc` is the relation between the first conjunct and
-the [coordinating conjunction](../pos/CONJ) delimiting another conjunct.
-(Note: different dependency grammars have different treatments of coordination.
-We take the first conjunct as the head of the coordination.)
+<!--For more on coordination, see the [conj]() relation.-->
+A `cc` is the relation between a conjunct and
+a preceding [coordinating conjunction](../pos/CCONJ).
+<!--(Note: different dependency grammars have different treatments of coordination.
+We take the first conjunct as the head of the coordination.)-->
 
 ~~~ sdparse
 Bill is big and honest
-cc(big, and)
+cc(honest, and)
 ~~~
 
 A coordinating conjunction may also appear at the beginning of a
-sentence. This is also called a `cc`, and it depends on the root
-predicate of the sentence.
-(In fact there is a coordination that spans multiple sentences.
-We cannot attach a word to the first conjunct because it is in another sentence.
-Thus we attach it to the first conjunct available in the current sentence: its main predicate.)
+sentence. This is also called a `cc`, even though there is no preceding conjunct
+(except implicitly or in a preceding sentence).
 
 ~~~ sdparse
 And then we left .
-cc(left, And)
+cc(left, left)
 ~~~
 
 <div id="punct1" class="sd-parse">
@@ -33,8 +31,8 @@ dobj(have, apples)
 conj(apples, pears)
 conj(apples, oranges)
 conj(apples, bananas)
-cc(apples, and)
-punct(apples, ,-4)
-punct(apples, ,-6)
-punct(apples, ,-8)
+cc(bananas, and)
+punct(pears, ,-4)
+punct(oranges, ,-6)
+punct(bananas, ,-8)
 </div>
