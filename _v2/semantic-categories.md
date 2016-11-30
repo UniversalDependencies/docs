@@ -6,14 +6,14 @@ udver: '2'
 
 # Semantic Categories in UD v2
 
-Some of the relations in v1, in partiular [u-dep/name]() and [u-dep/neg]()), primarily encoded semantic distinctions (rather than syntactic). We therefore make the following changes for v2:
+Some of the relations in v1, in particular `name` and `neg`), primarily encoded semantic distinctions (rather than syntactic). We therefore make the following changes for v2:
 
-* Remove [u-dep/neg]() and instead encode negation as a feature
-* Rename [u-dep/name]() to **flat** and extend its usage beyond names (for example, include titles)
+* Remove `neg` and instead encode negation as a feature
+* Rename `name` to [u-dep/flat]() and extend its usage beyond names (for example, include titles)
 
 ## Remove neg
 
-We have decided to get rid of the [u-dep/neg]() relation which is not syntactic. Instead we will use
+We have decided to get rid of the `neg` relation which is not syntactic. Instead we will use
 
 * ordinary syntactic relations like [u-dep/advmod](), [u-dep/aux](), etc.
 * a feature Polarity=Neg on the negative word to preserve the information about negation
