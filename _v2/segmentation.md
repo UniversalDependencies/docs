@@ -6,7 +6,7 @@ udver: '2'
 
 # Word segmentation in UD v2
 
-The UD scheme makes a distinction between **tokens**, word-like elements that can be identified using simple rules, often relying (only) on whitespace and punctuation, and **words**, which are the linguistically relevant word units needed for morphological and syntactic analysis. In v1, it was assumed that words would never contain spaces, and that "multitoken words" should always be handled using special relations like [u-dep/mwe]() and [u-dep/goeswith](). For v2, we relax this assumption in two ways:
+The UD scheme makes a distinction between **tokens**, word-like elements that can be identified using simple rules, often relying (only) on whitespace and punctuation, and **words**, which are the linguistically relevant word units needed for morphological and syntactic analysis. In v1, it was assumed that words would never contain spaces, and that "multitoken words" should always be handled using special relations like [u-dep/fixed]() and [u-dep/goeswith](). For v2, we relax this assumption in two ways:
 
 * Allow words with spaces for languages where spaces mark something else than word boundaries (for example, syllable boundaries as in Vietnamese)
 * Allow words with spaces (in any language) for an approved (and restricted) list of exceptions like numbers (“100 000”) and abbreviations (“i. e.”)
