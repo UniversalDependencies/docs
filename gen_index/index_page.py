@@ -142,11 +142,11 @@ def get_genre_span(genres):
 
 
 def is_empty(args, lang, corpus_data):
-    readme_data = analyze_readme(os.path.join(args.ud_data, "UD_"+lang))
-    no_docs = "No documentation" in readme_data["Documentation status"]
-    no_data = corpus_data.get("token_count", 0) == 0
-    return no_data and no_docs
-
+    # readme_data = analyze_readme(os.path.join(args.ud_data, "UD_"+lang))
+    # no_docs = "No documentation" in readme_data["Documentation status"]
+    # no_data = corpus_data.get("token_count", 0) == 0
+    #return no_data and no_docs
+    return corpus_data.get("token_count", 0) == 0
 
 def gen_table(args, subset=SUBSET_NONEMPTY):
 
