@@ -7,8 +7,76 @@ udver: '2'
 
 # Other Constructions
 
-This document contains detailed discussion of particular linguistic constructions that fall outside (or cut across) the main categories of simple clause, complex clauses, and nominal phrases.
+This section contains detailed discussion of particular linguistic constructions that fall outside (or cut across) the main categories of simple clause, complex clauses, and nominal phrases.
 
+## Coordination
+
+As discussed in the section on [complex clauses](complex-syntax.html), we treat coordinate structures asymmetrically
+by attaching all non-first conjuncts to the first conjunct via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the immediately following conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively. This analysis is applied to all cases of coordination at the clause, phrase or word level.
+
+~~~ sdparse
+He came home , took a shower and immediately went to bed .
+conj(came, took)
+conj(came, went)
+punct(took, ,-4)
+cc(went, and)
+~~~
+
+~~~ sdparse
+He read the newspaper and a good book .
+conj(newspaper, book)
+cc(book, and)
+~~~
+
+~~~ sdparse
+He read one or two books .
+conj(one, two)
+cc(two, or)
+~~~
+
+## Ellipsis
+
+Ellipsis often arises in the context of coordination but 
+
+### Multiword Expressions
+
+Multiword expressions (MWEs) are combinations of words that (in some respect and to different degrees) behave
+as lexical units rather than compositional syntactic phrases. The UD taxonomy contains three special relations 
+for analyzing MWEs: 
+
+* [u-dep/fixed]() are used to analyze fixed grammaticized MWEs like _in spite of_ (see above)
+* [u-dep/flat]() are used to analyze exocentric semi-fixed MWEs like _Barack Obama_
+* [u-dep/compound]() are used to analyze (endocentric) compounds like _noun phrase_
+
+Structures analyzed with [u-dep/fixed]() and [u-dep/flat]() are headless by definition and are consistently
+annotated by attaching all non-first elements to the first and only allowing outgoing dependents from the first element.
+
+<div id="s8a" class="sd-parse">
+We had a nice time in spite of the rain .
+case(rain,in)
+fixed(in,spite)
+fixed(in,of)
+obl(had,rain)
+</div>
+
+<div id="s8b" class="sd-parse">
+Martin Luther King had a dream .
+nsubj(had,Martin)
+flat(Martin,Luther)
+flat(Martin,King)
+</div>
+
+By contrast, [compounds](compound) are annotated to show their modification structure, including a regular concept of head:
+
+<div id="s9" class="sd-parse">
+I bought a computer disk drive enclosure .
+nsubj(bought, I)
+det(enclosure, a)
+compound(drive, computer)
+compound(drive, disk)
+compound(enclosure, drive)
+obj(bought, enclosure)
+</div>
 ### Multiword Expressions
 
 Multiword expressions The following types of expressions are annotated in a head-initial structure, where all non-first elements
