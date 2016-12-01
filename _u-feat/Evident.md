@@ -7,6 +7,14 @@ redirect_from:
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Fh">Fh</a></td>
+  <td><a href="#Nfh">Nfh</a></td>
+</tr>
+</table>
+
 Evidentiality is the morphological marking of a speaker's source of information
 (Aikhenvald, 2004). It is sometimes viewed as a category of mood and modality.
 
@@ -22,13 +30,13 @@ and Latvian, among others. We currently use the quotative [Mood]() for this.
 Note: `Evident` is a new universal feature in UD version 2. It was used as
 a language-specific feature (under the name `Evidentiality`) in UD v1 for Turkish.
 
-### `Fh`: firsthand
+### <a name="Fh">`Fh`</a>: firsthand
 
 #### Examples
 
 * [tr] _<b>geldi</b>_ (he/she/it came)
 
-### `Nfh`: non-firsthand
+### <a name="Nfh">`Nfh`</a>: non-firsthand
 
 #### Examples
 
