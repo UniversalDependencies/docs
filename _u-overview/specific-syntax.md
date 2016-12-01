@@ -14,29 +14,6 @@ This section will contain detailed discussion of particular linguistic construct
 
 
 
-## Nominal structures
-
-The head of a nominal structure is usually a noun, proper noun or pronoun, although in cases of ellipsis it can also be an adjective or even a determiner.
-
-~~~ sdparse
-Hon såg den nya filmen . \n She saw the new film .
-dobj(såg, filmen)
-amod(filmen, nya)
-det(filmen, den)
-~~~
-~~~ sdparse
-Hon såg Batman . \n She saw Batman .
-dobj(såg, Batman)
-~~~
-~~~ sdparse
-Hon såg den . \n She saw it .
-dobj(såg, den)
-~~~
-~~~ sdparse
-Hon såg den nya . \n She saw the new (one) .
-dobj(såg, nya)
-det(nya, den)
-~~~
 
 ## Adjectival and adverbial constructions
 
