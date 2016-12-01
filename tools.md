@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'UD tools'
+udver: '2'
 ---
 
 # Universal Dependencies tools
