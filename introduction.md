@@ -20,6 +20,8 @@ where the main grammatical relations involving a passive verb, a nominal subject
 are the same, but where the concrete grammatical realization varies.
 
 ~~~ conllu
+# visual-style 4 2 nsubj:pass	color:blue
+# visual-style 4 7 obl	color:blue
 1	The	the	DET	_	Definite=Def	2	det	_	_
 2	dog	dog	NOUN	_	_	4	nsubj:pass	_	_
 3	was	was	AUX	_	Tense=Past	4	aux:pass	_	_
@@ -32,6 +34,8 @@ are the same, but where the concrete grammatical realization varies.
 ~~~
 
 ~~~ conllu
+# visual-style 3 1 nsubj:pass	color:blue
+# visual-style 3 5 obl	color:blue
 1	Kučeto	kučeto	NOUN	_	Definite=Def	3	nsubj:pass	_	_
 2	se	se	PRON	_	_	3	expl:pass	_	_
 3	presledvaše	presledvaše	VERB	_	Tense=Past	0	root	_	_
@@ -42,6 +46,8 @@ are the same, but where the concrete grammatical realization varies.
 ~~~
 
 ~~~ conllu
+# visual-style 3 1 nsubj:pass	color:blue
+# visual-style 3 4 obl	color:blue
 1	Pes	pes	NOUN	_	_	3	nsubj:pass	_	_
 2	byl	byl	AUX	_	Tense=Past	3	aux:pass	_	_
 3	honěn	honěn	VERB	_	_	0	root	_	_
@@ -51,6 +57,8 @@ are the same, but where the concrete grammatical realization varies.
 ~~~
 
 ~~~ conllu
+# visual-style 2 1 nsubj:pass	color:blue
+# visual-style 2 4 obl	color:blue
 1	Hunden	hund	NOUN	_	_	2	nsubj:pass	_	_
 2	jagades	jaga	VERB	_	Tense=Past|Voice=Pass	0	root	_	_
 3	av	av	ADP	_	_	4	case	_	_
