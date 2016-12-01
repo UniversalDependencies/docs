@@ -99,7 +99,7 @@ even more justified. Example is Turkish.
 
 English simple present has this aspect.
 
-### <a name="Iter">`Iter`</a>: iterative aspect
+### <a name="Iter">`Iter`</a>: iterative / frequentative aspect
 
 Denotes repeated action. Attested e.g. in Hungarian.
 Iteratives also exist in Czech with this name and meaning but they can be formed
