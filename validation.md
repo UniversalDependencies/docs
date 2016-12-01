@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-01T01:17:13Z">2016-12-01T01:17:13 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-01T01:39:17Z">2016-12-01T01:39:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -192,28 +192,91 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Basque</span>
 <span class="widespan">eu</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:31:59Z">2016-09-19T07:31:59 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:37:23Z">2016-12-01T01:37:23 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang eu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Basque/eu-ud-dev.conllu
 
-*** PASSED ***
+[Line                   89]: Unknown attribute-value pair Aspect=Pro
+[Line                   106]: Unknown attribute-value pair Negative=Neg
+[Line                   136]: Unknown attribute-value pair Aspect=Pro
+[Line                   161]: Unknown attribute-value pair Aspect=Pro
+[Line                   176]: Unknown attribute-value pair Aspect=Pro
+[Line                   184]: Unknown attribute-value pair Negative=Pos
+[Line                   189]: Unknown attribute-value pair Negative=Neg
+[Line                   270]: Unknown attribute-value pair Aspect=Pro
+[Line                   384]: Unknown attribute-value pair Negative=Neg
+[Line                   387]: Unknown attribute-value pair Aspect=Pro
+[Line                   424]: Unknown attribute-value pair Negative=Neg
+[Line                   440]: Unknown attribute-value pair Negative=Neg
+[Line                   444]: Unknown attribute-value pair Aspect=Pro
+[Line                   478]: Unknown attribute-value pair Negative=Neg
+[Line                   516]: Unknown attribute-value pair Negative=Neg
+[Line                   541]: Unknown attribute-value pair Negative=Neg
+[Line                   579]: Unknown attribute-value pair Aspect=Pro
+[Line                   584]: Unknown attribute-value pair Negative=Neg
+[Line                   590]: Unknown attribute-value pair Aspect=Pro
+...suppressing further errors regarding Morpho
+*** FAILED *** with 654 errors
+Morpho errors: 654
 
 
 ******************
 
-python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang eu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Basque/eu-ud-test.conllu
 
-*** PASSED ***
+[Line                   5]: Unknown attribute-value pair Negative=Neg
+[Line                   43]: Unknown attribute-value pair Negative=Neg
+[Line                   67]: Unknown attribute-value pair Aspect=Pro
+[Line                   90]: Unknown attribute-value pair Aspect=Pro
+[Line                   122]: Unknown attribute-value pair Aspect=Pro
+[Line                   146]: Unknown attribute-value pair Aspect=Pro
+[Line                   171]: Unknown attribute-value pair Negative=Neg
+[Line                   210]: Unknown attribute-value pair Negative=Neg
+[Line                   266]: Unknown attribute-value pair Negative=Neg
+[Line                   300]: Unknown attribute-value pair Negative=Neg
+[Line                   353]: Unknown attribute-value pair Negative=Neg
+[Line                   382]: Unknown attribute-value pair Aspect=Pro
+[Line                   388]: Unknown attribute-value pair Negative=Neg
+[Line                   426]: Unknown attribute-value pair Negative=Neg
+[Line                   438]: Unknown attribute-value pair Negative=Pos
+[Line                   504]: Unknown attribute-value pair Negative=Neg
+[Line                   560]: Unknown attribute-value pair Aspect=Pro
+[Line                   603]: Unknown attribute-value pair Aspect=Pro
+[Line                   629]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 605 errors
+Morpho errors: 605
 
 
 ******************
 
-python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang eu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Basque/eu-ud-train.conllu
 
-*** PASSED ***
+[Line                   56]: Unknown attribute-value pair Negative=Neg
+[Line                   189]: Unknown attribute-value pair Negative=Pos
+[Line                   207]: Unknown attribute-value pair Negative=Neg
+[Line                   208]: Unknown attribute-value pair Polite[abs]=Inf
+[Line                   230]: Unknown attribute-value pair Aspect=Pro
+[Line                   299]: Unknown attribute-value pair Negative=Neg
+[Line                   327]: Unknown attribute-value pair Negative=Neg
+[Line                   414]: Unknown attribute-value pair Aspect=Pro
+[Line                   425]: Unknown attribute-value pair Negative=Pos
+[Line                   430]: Unknown attribute-value pair Aspect=Pro
+[Line                   456]: Unknown attribute-value pair Negative=Neg
+[Line                   555]: Unknown attribute-value pair Negative=Neg
+[Line                   574]: Unknown attribute-value pair Negative=Neg
+[Line                   578]: Unknown attribute-value pair Aspect=Pro
+[Line                   607]: Unknown attribute-value pair Negative=Neg
+[Line                   613]: Unknown attribute-value pair Negative=Neg
+[Line                   760]: Unknown attribute-value pair Aspect=Pro
+[Line                   770]: Unknown attribute-value pair Aspect=Pro
+[Line                   774]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 2024 errors
+Morpho errors: 2024
 
 
 ******************
@@ -295,28 +358,91 @@ python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-12T20:51:18Z">2016-11-12T20:51:18 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:37:29Z">2016-12-01T01:37:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
 
-*** PASSED ***
+[Line                   59]: Unknown attribute-value pair Negative=Neg
+[Line                   181]: Unknown attribute-value pair Negative=Neg
+[Line                   439]: Unknown attribute-value pair Negative=Neg
+[Line                   677]: Unknown attribute-value pair Negative=Neg
+[Line                   753]: Unknown attribute-value pair Negative=Neg
+[Line                   2465]: Unknown attribute-value pair Negative=Neg
+[Line                   3087]: Unknown attribute-value pair Negative=Neg
+[Line                   3960]: Unknown attribute-value pair Negative=Neg
+[Line                   4100]: Unknown attribute-value pair Negative=Neg
+[Line                   4472]: Unknown attribute-value pair Negative=Neg
+[Line                   4503]: Unknown attribute-value pair Negative=Neg
+[Line                   4532]: Unknown attribute-value pair Negative=Neg
+[Line                   4823]: Unknown attribute-value pair Negative=Neg
+[Line                   4832]: Unknown attribute-value pair Negative=Neg
+[Line                   5026]: Unknown attribute-value pair Negative=Neg
+[Line                   6097]: Unknown attribute-value pair Negative=Neg
+[Line                   6409]: Unknown attribute-value pair Negative=Neg
+[Line                   6707]: Unknown attribute-value pair Negative=Neg
+[Line                   7213]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 322 errors
+Morpho errors: 322
 
 
 ******************
 
-python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-test.conllu
 
-*** PASSED ***
+[Line                   260]: Unknown attribute-value pair Negative=Neg
+[Line                   431]: Unknown attribute-value pair Negative=Neg
+[Line                   512]: Unknown attribute-value pair Negative=Neg
+[Line                   817]: Unknown attribute-value pair Negative=Neg
+[Line                   1235]: Unknown attribute-value pair Negative=Neg
+[Line                   2767]: Unknown attribute-value pair Negative=Neg
+[Line                   3630]: Unknown attribute-value pair Negative=Neg
+[Line                   3640]: Unknown attribute-value pair Negative=Neg
+[Line                   4119]: Unknown attribute-value pair Negative=Neg
+[Line                   4325]: Unknown attribute-value pair Negative=Neg
+[Line                   5428]: Unknown attribute-value pair Negative=Neg
+[Line                   6305]: Unknown attribute-value pair Negative=Neg
+[Line                   6498]: Unknown attribute-value pair Negative=Neg
+[Line                   7425]: Unknown attribute-value pair Negative=Neg
+[Line                   7427]: Unknown attribute-value pair Negative=Neg
+[Line                   7556]: Unknown attribute-value pair Negative=Neg
+[Line                   7602]: Unknown attribute-value pair Negative=Neg
+[Line                   7781]: Unknown attribute-value pair Negative=Neg
+[Line                   7931]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 308 errors
+Morpho errors: 308
 
 
 ******************
 
-python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 
-*** PASSED ***
+[Line                   311]: Unknown attribute-value pair Negative=Neg
+[Line                   316]: Unknown attribute-value pair Negative=Neg
+[Line                   366]: Unknown attribute-value pair Negative=Neg
+[Line                   513]: Unknown attribute-value pair Negative=Neg
+[Line                   790]: Unknown attribute-value pair Negative=Neg
+[Line                   1028]: Unknown attribute-value pair Negative=Neg
+[Line                   1121]: Unknown attribute-value pair Negative=Neg
+[Line                   1465]: Unknown attribute-value pair Negative=Neg
+[Line                   1627]: Unknown attribute-value pair Negative=Neg
+[Line                   1823]: Unknown attribute-value pair Negative=Neg
+[Line                   1829]: Unknown attribute-value pair Negative=Neg
+[Line                   1898]: Unknown attribute-value pair Negative=Neg
+[Line                   2355]: Unknown attribute-value pair Negative=Neg
+[Line                   2407]: Unknown attribute-value pair Negative=Neg
+[Line                   2837]: Unknown attribute-value pair Negative=Neg
+[Line                   3486]: Unknown attribute-value pair Negative=Neg
+[Line                   3737]: Unknown attribute-value pair Negative=Neg
+[Line                   4343]: Unknown attribute-value pair Negative=Neg
+[Line                   5019]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 2384 errors
+Morpho errors: 2384
 
 
 ******************
@@ -712,28 +838,91 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:46:33Z">2016-11-30T21:46:33 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:37:54Z">2016-12-01T01:37:54 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-dev.conllu
 
-*** PASSED ***
+[Line                   18]: Unknown attribute-value pair VerbForm=Trans
+[Line                   32]: Unknown attribute-value pair VerbForm=Trans
+[Line                   83]: Unknown attribute-value pair VerbForm=Trans
+[Line                   98]: Unknown attribute-value pair VerbForm=Trans
+[Line                   164]: Unknown attribute-value pair VerbForm=Trans
+[Line                   165]: Unknown attribute-value pair VerbForm=Trans
+[Line                   190]: Unknown attribute-value pair VerbForm=Trans
+[Line                   191]: Unknown attribute-value pair VerbForm=Trans
+[Line                   251]: Unknown attribute-value pair VerbForm=Trans
+[Line                   314]: Unknown attribute-value pair VerbForm=Trans
+[Line                   320]: Unknown attribute-value pair VerbForm=Trans
+[Line                   382]: Unknown attribute-value pair VerbForm=Trans
+[Line                   402]: Unknown attribute-value pair VerbForm=Trans
+[Line                   458]: Unknown attribute-value pair VerbForm=Trans
+[Line                   466]: Unknown attribute-value pair VerbForm=Trans
+[Line                   532]: Unknown attribute-value pair VerbForm=Trans
+[Line                   583]: Unknown attribute-value pair VerbForm=Trans
+[Line                   657]: Unknown attribute-value pair VerbForm=Trans
+[Line                   672]: Unknown attribute-value pair VerbForm=Trans
+...suppressing further errors regarding Morpho
+*** FAILED *** with 145 errors
+Morpho errors: 145
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-test.conllu
 
-*** PASSED ***
+[Line                   123]: Unknown attribute-value pair VerbForm=Trans
+[Line                   177]: Unknown attribute-value pair VerbForm=Trans
+[Line                   314]: Unknown attribute-value pair VerbForm=Trans
+[Line                   323]: Unknown attribute-value pair VerbForm=Trans
+[Line                   392]: Unknown attribute-value pair VerbForm=Trans
+[Line                   529]: Unknown attribute-value pair VerbForm=Trans
+[Line                   553]: Unknown attribute-value pair VerbForm=Trans
+[Line                   624]: Unknown attribute-value pair VerbForm=Trans
+[Line                   632]: Unknown attribute-value pair VerbForm=Trans
+[Line                   651]: Unknown attribute-value pair VerbForm=Trans
+[Line                   663]: Unknown attribute-value pair VerbForm=Trans
+[Line                   673]: Unknown attribute-value pair VerbForm=Trans
+[Line                   732]: Unknown attribute-value pair VerbForm=Trans
+[Line                   762]: Unknown attribute-value pair VerbForm=Trans
+[Line                   763]: Unknown attribute-value pair VerbForm=Trans
+[Line                   816]: Unknown attribute-value pair VerbForm=Trans
+[Line                   820]: Unknown attribute-value pair VerbForm=Trans
+[Line                   833]: Unknown attribute-value pair VerbForm=Trans
+[Line                   839]: Unknown attribute-value pair VerbForm=Trans
+...suppressing further errors regarding Morpho
+*** FAILED *** with 118 errors
+Morpho errors: 118
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-train.conllu
 
-*** PASSED ***
+[Line                   5]: Unknown attribute-value pair VerbForm=Trans
+[Line                   143]: Unknown attribute-value pair VerbForm=Trans
+[Line                   163]: Unknown attribute-value pair VerbForm=Trans
+[Line                   172]: Unknown attribute-value pair VerbForm=Trans
+[Line                   326]: Unknown attribute-value pair VerbForm=Trans
+[Line                   497]: Unknown attribute-value pair VerbForm=Trans
+[Line                   498]: Unknown attribute-value pair VerbForm=Trans
+[Line                   537]: Unknown attribute-value pair VerbForm=Trans
+[Line                   718]: Unknown attribute-value pair VerbForm=Trans
+[Line                   767]: Unknown attribute-value pair VerbForm=Trans
+[Line                   800]: Unknown attribute-value pair VerbForm=Trans
+[Line                   848]: Unknown attribute-value pair VerbForm=Trans
+[Line                   894]: Unknown attribute-value pair VerbForm=Trans
+[Line                   951]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1030]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1089]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1132]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1133]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1185]: Unknown attribute-value pair VerbForm=Trans
+...suppressing further errors regarding Morpho
+*** FAILED *** with 1716 errors
+Morpho errors: 1716
 
 
 ******************
@@ -1392,38 +1581,88 @@ Morpho errors: 354
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:47:27Z">2016-11-30T21:47:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:37:59Z">2016-12-01T01:37:59 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-dev.conllu
 
-*** PASSED ***
+[Line                   325]: Unknown attribute-value pair Polite=Pol
+[Line                   839]: Unknown attribute-value pair Polite=Pol
+[Line                   2974]: Unknown attribute-value pair Polite=Inf
+[Line                   3098]: Unknown attribute-value pair Polite=Inf
+[Line                   3157]: Unknown attribute-value pair Polite=Inf
+[Line                   3162]: Unknown attribute-value pair Polite=Inf
+[Line                   3204]: Unknown attribute-value pair Polite=Inf
+[Line                   3212]: Unknown attribute-value pair Polite=Inf
+[Line                   4311]: Unknown attribute-value pair Polite=Pol
+[Line                   4952]: Unknown attribute-value pair Polite=Pol
+[Line                   5381]: Unknown attribute-value pair Polite=Pol
+[Line                   6667]: Unknown attribute-value pair Polite=Pol
+[Line                   6924]: Unknown attribute-value pair Polite=Pol
+[Line                   7176]: Unknown attribute-value pair Polite=Pol
+[Line                   8532]: Unknown attribute-value pair Polite=Inf
+[Line                   9775]: Unknown attribute-value pair Polite=Pol
+[Line                   11485]: Unknown attribute-value pair Polite=Inf
+[Line                   12336]: Unknown attribute-value pair Polite=Pol
+*** FAILED *** with 18 errors
+Morpho errors: 18
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-test.conllu
 
+[Line                   72]: Unknown attribute-value pair Polite=Pol
 [Line                   1019]: Unknown attribute-value pair Foreign=Foreign
-*** FAILED *** with 1 errors
-Morpho errors: 1
+[Line                   2468]: Unknown attribute-value pair Polite=Inf
+[Line                   2808]: Unknown attribute-value pair Polite=Pol
+[Line                   3116]: Unknown attribute-value pair Polite=Pol
+[Line                   3286]: Unknown attribute-value pair Polite=Inf
+[Line                   4199]: Unknown attribute-value pair Polite=Pol
+[Line                   4215]: Unknown attribute-value pair Polite=Pol
+[Line                   4229]: Unknown attribute-value pair Polite=Pol
+[Line                   4363]: Unknown attribute-value pair Polite=Pol
+[Line                   4758]: Unknown attribute-value pair Polite=Inf
+[Line                   9462]: Unknown attribute-value pair Polite=Pol
+[Line                   9465]: Unknown attribute-value pair Polite=Pol
+[Line                   9484]: Unknown attribute-value pair Polite=Pol
+[Line                   10609]: Unknown attribute-value pair Polite=Inf
+[Line                   10613]: Unknown attribute-value pair Polite=Inf
+[Line                   10776]: Unknown attribute-value pair Polite=Inf
+[Line                   11614]: Unknown attribute-value pair Polite=Inf
+[Line                   11618]: Unknown attribute-value pair Polite=Inf
+...suppressing further errors regarding Morpho
+*** FAILED *** with 28 errors
+Morpho errors: 28
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-train.conllu
 
-[Line                   59225]: Unknown attribute-value pair Foreign=Foreign
-[Line                   59230]: Unknown attribute-value pair Foreign=Foreign
-[Line                   127340]: Unknown attribute-value pair Foreign=Foreign
-[Line                   127343]: Unknown attribute-value pair Foreign=Foreign
-[Line                   231914]: Unknown attribute-value pair Foreign=Foreign
-[Line                   231917]: Unknown attribute-value pair Foreign=Foreign
-[Line                   278135]: Unknown attribute-value pair Foreign=Foreign
-[Line                   278136]: Unknown attribute-value pair Foreign=Foreign
-*** FAILED *** with 8 errors
-Morpho errors: 8
+[Line                   1798]: Unknown attribute-value pair Polite=Pol
+[Line                   1805]: Unknown attribute-value pair Polite=Pol
+[Line                   1832]: Unknown attribute-value pair Polite=Pol
+[Line                   1883]: Unknown attribute-value pair Polite=Pol
+[Line                   2804]: Unknown attribute-value pair Polite=Pol
+[Line                   3036]: Unknown attribute-value pair Polite=Pol
+[Line                   3289]: Unknown attribute-value pair Polite=Inf
+[Line                   3291]: Unknown attribute-value pair Polite=Inf
+[Line                   4199]: Unknown attribute-value pair Polite=Pol
+[Line                   5816]: Unknown attribute-value pair Polite=Pol
+[Line                   5830]: Unknown attribute-value pair Polite=Pol
+[Line                   5849]: Unknown attribute-value pair Polite=Inf
+[Line                   7025]: Unknown attribute-value pair Polite=Pol
+[Line                   7083]: Unknown attribute-value pair Polite=Pol
+[Line                   7619]: Unknown attribute-value pair Polite=Inf
+[Line                   7900]: Unknown attribute-value pair Polite=Pol
+[Line                   9158]: Unknown attribute-value pair Polite=Inf
+[Line                   9607]: Unknown attribute-value pair Polite=Pol
+[Line                   9994]: Unknown attribute-value pair Polite=Pol
+...suppressing further errors regarding Morpho
+*** FAILED *** with 429 errors
+Morpho errors: 429
 
 
 ******************
@@ -1531,61 +1770,90 @@ python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:47:40Z">2016-11-30T21:47:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:38:12Z">2016-12-01T01:38:12 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
 
-[Line                   3838]: Unknown attribute-value pair Foreign=Foreign
-[Line                   9181]: Unknown attribute-value pair Foreign=Foreign
-[Line                   9451]: Unknown attribute-value pair Foreign=Foreign
-[Line                   18557]: Unknown attribute-value pair Foreign=Foreign
-*** FAILED *** with 4 errors
-Morpho errors: 4
+[Line                   134]: Unknown attribute-value pair Polite=Pol
+[Line                   149]: Unknown attribute-value pair Polite=Pol
+[Line                   374]: Unknown attribute-value pair Polite=Pol
+[Line                   444]: Unknown attribute-value pair Polite=Pol
+[Line                   457]: Unknown attribute-value pair Polite=Pol
+[Line                   704]: Unknown attribute-value pair Polite=Pol
+[Line                   806]: Unknown attribute-value pair Polite=Pol
+[Line                   1435]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1537]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1583]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1778]: Unknown attribute-value pair Polite=Pol
+[Line                   1818]: Unknown attribute-value pair Polite=Pol
+[Line                   1874]: Unknown attribute-value pair Polite=Pol
+[Line                   1889]: Unknown attribute-value pair Polite=Pol
+[Line                   1909]: Unknown attribute-value pair Polite=Pol
+[Line                   1922]: Unknown attribute-value pair Polite=Pol
+[Line                   1926]: Unknown attribute-value pair Negative=Neg
+[Line                   1943]: Unknown attribute-value pair Polite=Pol
+[Line                   1952]: Unknown attribute-value pair Polite=Pol
+...suppressing further errors regarding Morpho
+*** FAILED *** with 962 errors
+Morpho errors: 962
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-test.conllu
 
-[Line                   10135]: Unknown attribute-value pair Foreign=Foreign
-[Line                   13192]: Unknown attribute-value pair Foreign=Foreign
-[Line                   13193]: Unknown attribute-value pair Foreign=Foreign
-[Line                   21240]: Unknown attribute-value pair Foreign=Foreign
-[Line                   21299]: Unknown attribute-value pair Foreign=Foreign
-[Line                   25182]: Unknown attribute-value pair Foreign=Foreign
-[Line                   33829]: Unknown attribute-value pair Foreign=Foreign
-*** FAILED *** with 7 errors
-Morpho errors: 7
+[Line                   126]: Unknown attribute-value pair Negative=Neg
+[Line                   412]: Unknown attribute-value pair Polite=Pol
+[Line                   577]: Unknown attribute-value pair Polite=Pol
+[Line                   615]: Unknown attribute-value pair VerbForm=Trans
+[Line                   626]: Unknown attribute-value pair VerbForm=Trans
+[Line                   660]: Unknown attribute-value pair Polite=Pol
+[Line                   1044]: Unknown attribute-value pair Polite=Pol
+[Line                   1068]: Unknown attribute-value pair Polite=Pol
+[Line                   1069]: Unknown attribute-value pair Polite=Pol
+[Line                   1129]: Unknown attribute-value pair Polite=Pol
+[Line                   1226]: Unknown attribute-value pair Polite=Pol
+[Line                   1227]: Unknown attribute-value pair Polite=Pol
+[Line                   1323]: Unknown attribute-value pair Polite=Pol
+[Line                   1343]: Unknown attribute-value pair Polite=Pol
+[Line                   1345]: Unknown attribute-value pair Polite=Pol
+[Line                   1350]: Unknown attribute-value pair Polite=Pol
+[Line                   1351]: Unknown attribute-value pair Polite=Pol
+[Line                   1355]: Unknown attribute-value pair Polite=Pol
+[Line                   1450]: Unknown attribute-value pair Polite=Pol
+...suppressing further errors regarding Morpho
+*** FAILED *** with 929 errors
+Morpho errors: 929
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 
-[Line                   4283]: Unknown attribute-value pair Foreign=Foreign
-[Line                   4823]: Unknown attribute-value pair Foreign=Foreign
-[Line                   11194]: Unknown attribute-value pair Foreign=Foreign
-[Line                   11663]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15775]: Unknown attribute-value pair Foreign=Foreign
-[Line                   17399]: Unknown attribute-value pair Foreign=Foreign
-[Line                   17406]: Unknown attribute-value pair Foreign=Foreign
-[Line                   17459]: Unknown attribute-value pair Foreign=Foreign
-[Line                   27788]: Unknown attribute-value pair Foreign=Foreign
-[Line                   27855]: Unknown attribute-value pair Foreign=Foreign
-[Line                   32070]: Unknown attribute-value pair Foreign=Foreign
-[Line                   32081]: Unknown attribute-value pair Foreign=Foreign
-[Line                   36705]: Unknown attribute-value pair Foreign=Foreign
-[Line                   37549]: Unknown attribute-value pair Foreign=Foreign
-[Line                   37628]: Unknown attribute-value pair Foreign=Foreign
-[Line                   40462]: Unknown attribute-value pair Foreign=Foreign
-[Line                   40735]: Unknown attribute-value pair Foreign=Foreign
-[Line                   40743]: Unknown attribute-value pair Foreign=Foreign
-[Line                   43693]: Unknown attribute-value pair Foreign=Foreign
+[Line                   98]: Unknown attribute-value pair Polite=Pol
+[Line                   359]: Unknown attribute-value pair VerbForm=Trans
+[Line                   417]: Unknown attribute-value pair VerbForm=Trans
+[Line                   459]: Unknown attribute-value pair Polite=Pol
+[Line                   471]: Unknown attribute-value pair Polite=Pol
+[Line                   472]: Unknown attribute-value pair Polite=Pol
+[Line                   473]: Unknown attribute-value pair Polite=Pol
+[Line                   480]: Unknown attribute-value pair VerbForm=Trans
+[Line                   540]: Unknown attribute-value pair VerbForm=Trans
+[Line                   589]: Unknown attribute-value pair Polite=Pol
+[Line                   609]: Unknown attribute-value pair Polite=Pol
+[Line                   610]: Unknown attribute-value pair Polite=Pol
+[Line                   702]: Unknown attribute-value pair VerbForm=Trans
+[Line                   762]: Unknown attribute-value pair Polite=Pol
+[Line                   764]: Unknown attribute-value pair Polite=Pol
+[Line                   765]: Unknown attribute-value pair Polite=Pol
+[Line                   766]: Unknown attribute-value pair Polite=Pol
+[Line                   817]: Unknown attribute-value pair Negative=Neg
+[Line                   861]: Unknown attribute-value pair Polite=Pol
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 110 errors
-Morpho errors: 110
+*** FAILED *** with 7759 errors
+Morpho errors: 7759
 
 
 ******************
@@ -2521,8 +2789,8 @@ python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:05:37Z">2016-12-01T01:05:37 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:38:31Z">2016-12-01T01:38:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2535,14 +2803,25 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJ
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-test.conllu
 
-*** PASSED ***
+[Line                   44]: Unknown attribute-value pair Polite=Pol
+[Line                   111]: Unknown attribute-value pair Polite=Pol
+[Line                   115]: Unknown attribute-value pair Polite=Pol
+*** FAILED *** with 3 errors
+Morpho errors: 3
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
 
-*** PASSED ***
+[Line                   623]: Unknown attribute-value pair Polite=Pol
+[Line                   838]: Unknown attribute-value pair Polite=Pol
+[Line                   872]: Unknown attribute-value pair Polite=Pol
+[Line                   898]: Unknown attribute-value pair Polite=Pol
+[Line                   916]: Unknown attribute-value pair Polite=Pol
+[Line                   949]: Unknown attribute-value pair Polite=Pol
+*** FAILED *** with 6 errors
+Morpho errors: 6
 
 
 ******************
@@ -2813,7 +3092,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:55Z">2016-11-30T21:48:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:38:31Z">2016-12-01T01:38:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2833,7 +3112,11 @@ Morpho errors: 6
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-test.conllu
 
-*** PASSED ***
+[Line                   2058]: Unknown attribute-value pair Polite=Pol
+[Line                   2681]: Unknown attribute-value pair Polite=Pol
+[Line                   3781]: Unknown attribute-value pair Polite=Pol
+*** FAILED *** with 3 errors
+Morpho errors: 3
 
 
 ******************
@@ -2843,6 +3126,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJ
 [Line                   2371]: Unknown attribute-value pair Foreign=Fscript
 [Line                   5472]: Unknown attribute-value pair Foreign=Foreign
 [Line                   19511]: Unknown attribute-value pair Foreign=Fscript
+[Line                   27453]: Unknown attribute-value pair Polite=Pol
 [Line                   40419]: Unknown attribute-value pair Foreign=Fscript
 [Line                   40420]: Unknown attribute-value pair Foreign=Fscript
 [Line                   44015]: Unknown attribute-value pair Foreign=Fscript
@@ -2852,16 +3136,15 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJ
 [Line                   61204]: Unknown attribute-value pair Foreign=Fscript
 [Line                   65671]: Unknown attribute-value pair Foreign=Fscript
 [Line                   65678]: Unknown attribute-value pair Foreign=Fscript
+[Line                   74281]: Unknown attribute-value pair Polite=Pol
 [Line                   74398]: Unknown attribute-value pair Foreign=Fscript
 [Line                   74399]: Unknown attribute-value pair Foreign=Fscript
 [Line                   74400]: Unknown attribute-value pair Foreign=Fscript
 [Line                   77735]: Unknown attribute-value pair Foreign=Fscript
-[Line                   82183]: Unknown attribute-value pair Foreign=Fscript
-[Line                   82187]: Unknown attribute-value pair Foreign=Fscript
-[Line                   109917]: Unknown attribute-value pair Foreign=Fscript
+[Line                   81279]: Unknown attribute-value pair Polite=Pol
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 63 errors
-Morpho errors: 63
+*** FAILED *** with 73 errors
+Morpho errors: 73
 
 
 ******************
@@ -2872,28 +3155,91 @@ Morpho errors: 63
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:11:06Z">2016-11-14T22:11:06 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:38:50Z">2016-12-01T01:38:50 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
 
-*** PASSED ***
+[Line                   344]: Unknown attribute-value pair Negative=Neg
+[Line                   712]: Unknown attribute-value pair Negative=Neg
+[Line                   1042]: Unknown attribute-value pair Negative=Neg
+[Line                   1118]: Unknown attribute-value pair Negative=Neg
+[Line                   1160]: Unknown attribute-value pair Negative=Neg
+[Line                   1225]: Unknown attribute-value pair Negative=Neg
+[Line                   1255]: Unknown attribute-value pair Negative=Neg
+[Line                   1442]: Unknown attribute-value pair Negative=Neg
+[Line                   1543]: Unknown attribute-value pair Negative=Neg
+[Line                   1746]: Unknown attribute-value pair Negative=Neg
+[Line                   2021]: Unknown attribute-value pair Negative=Neg
+[Line                   2025]: Unknown attribute-value pair Negative=Neg
+[Line                   2029]: Unknown attribute-value pair Negative=Neg
+[Line                   2033]: Unknown attribute-value pair Negative=Neg
+[Line                   2039]: Unknown attribute-value pair Negative=Neg
+[Line                   2042]: Unknown attribute-value pair Negative=Neg
+[Line                   2355]: Unknown attribute-value pair Negative=Neg
+[Line                   2398]: Unknown attribute-value pair Negative=Neg
+[Line                   2461]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 323 errors
+Morpho errors: 323
 
 
 ******************
 
-python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-test.conllu
 
-*** PASSED ***
+[Line                   482]: Unknown attribute-value pair Negative=Neg
+[Line                   790]: Unknown attribute-value pair Polite=Pol
+[Line                   815]: Unknown attribute-value pair Negative=Neg
+[Line                   1017]: Unknown attribute-value pair Negative=Neg
+[Line                   1219]: Unknown attribute-value pair Negative=Neg
+[Line                   1353]: Unknown attribute-value pair Negative=Neg
+[Line                   1413]: Unknown attribute-value pair Negative=Neg
+[Line                   1602]: Unknown attribute-value pair Negative=Neg
+[Line                   1662]: Unknown attribute-value pair Negative=Neg
+[Line                   1990]: Unknown attribute-value pair Negative=Neg
+[Line                   2004]: Unknown attribute-value pair Negative=Neg
+[Line                   2015]: Unknown attribute-value pair Negative=Neg
+[Line                   2181]: Unknown attribute-value pair Negative=Neg
+[Line                   2346]: Unknown attribute-value pair Negative=Neg
+[Line                   2528]: Unknown attribute-value pair Negative=Neg
+[Line                   2769]: Unknown attribute-value pair Negative=Neg
+[Line                   2896]: Unknown attribute-value pair Negative=Neg
+[Line                   2900]: Unknown attribute-value pair Negative=Neg
+[Line                   2921]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 370 errors
+Morpho errors: 370
 
 
 ******************
 
-python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
 
-*** PASSED ***
+[Line                   123]: Unknown attribute-value pair Negative=Neg
+[Line                   1053]: Unknown attribute-value pair Negative=Neg
+[Line                   2789]: Unknown attribute-value pair Negative=Neg
+[Line                   2864]: Unknown attribute-value pair Negative=Neg
+[Line                   3020]: Unknown attribute-value pair Negative=Neg
+[Line                   3218]: Unknown attribute-value pair Negative=Neg
+[Line                   3401]: Unknown attribute-value pair Negative=Neg
+[Line                   3478]: Unknown attribute-value pair Negative=Neg
+[Line                   3481]: Unknown attribute-value pair Negative=Neg
+[Line                   3530]: Unknown attribute-value pair Negative=Neg
+[Line                   3574]: Unknown attribute-value pair Negative=Neg
+[Line                   4251]: Unknown attribute-value pair Negative=Neg
+[Line                   4268]: Unknown attribute-value pair Negative=Neg
+[Line                   4410]: Unknown attribute-value pair Negative=Neg
+[Line                   4697]: Unknown attribute-value pair Negative=Neg
+[Line                   4808]: Unknown attribute-value pair Negative=Neg
+[Line                   4843]: Unknown attribute-value pair Negative=Neg
+[Line                   4863]: Unknown attribute-value pair Negative=Neg
+[Line                   6280]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 3128 errors
+Morpho errors: 3128
 
 
 ******************
@@ -3000,28 +3346,91 @@ python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Tamil</span>
 <span class="widespan">ta</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T08:11:09Z">2016-09-19T08:11:09 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:39:16Z">2016-12-01T01:39:16 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-dev.conllu
 
-*** PASSED ***
+[Line                   15]: Unknown attribute-value pair Negative=Pos
+[Line                   16]: Unknown attribute-value pair Negative=Pos
+[Line                   34]: Unknown attribute-value pair Negative=Pos
+[Line                   35]: Unknown attribute-value pair Negative=Pos
+[Line                   52]: Unknown attribute-value pair Negative=Pos
+[Line                   53]: Unknown attribute-value pair Negative=Pos
+[Line                   54]: Unknown attribute-value pair Negative=Pos
+[Line                   55]: Unknown attribute-value pair Negative=Pos
+[Line                   56]: Unknown attribute-value pair Negative=Pos
+[Line                   57]: Unknown attribute-value pair Negative=Pos
+[Line                   58]: Unknown attribute-value pair Polite=Pol
+[Line                   59]: Unknown attribute-value pair Polite=Pol
+[Line                   60]: Unknown attribute-value pair Negative=Pos
+[Line                   60]: Unknown attribute-value pair Polite=Pol
+[Line                   75]: Unknown attribute-value pair Polite=Pol
+[Line                   80]: Unknown attribute-value pair Polite=Pol
+[Line                   84]: Unknown attribute-value pair Polite=Pol
+[Line                   88]: Unknown attribute-value pair Negative=Pos
+[Line                   90]: Unknown attribute-value pair Polite=Pol
+...suppressing further errors regarding Morpho
+*** FAILED *** with 367 errors
+Morpho errors: 367
 
 
 ******************
 
-python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-test.conllu
 
-*** PASSED ***
+[Line                   11]: Unknown attribute-value pair Negative=Pos
+[Line                   14]: Unknown attribute-value pair Negative=Pos
+[Line                   15]: Unknown attribute-value pair Negative=Pos
+[Line                   15]: Unknown attribute-value pair Polite=Pol
+[Line                   25]: Unknown attribute-value pair Negative=Pos
+[Line                   26]: Unknown attribute-value pair Negative=Pos
+[Line                   31]: Unknown attribute-value pair Negative=Pos
+[Line                   32]: Unknown attribute-value pair Negative=Pos
+[Line                   33]: Unknown attribute-value pair Negative=Pos
+[Line                   34]: Unknown attribute-value pair Negative=Pos
+[Line                   34]: Unknown attribute-value pair Polite=Pol
+[Line                   35]: Unknown attribute-value pair Polite=Pol
+[Line                   46]: Unknown attribute-value pair Negative=Pos
+[Line                   48]: Unknown attribute-value pair Negative=Pos
+[Line                   51]: Unknown attribute-value pair Negative=Pos
+[Line                   52]: Unknown attribute-value pair Negative=Pos
+[Line                   56]: Unknown attribute-value pair Polite=Pol
+[Line                   57]: Unknown attribute-value pair Negative=Pos
+[Line                   57]: Unknown attribute-value pair Polite=Pol
+...suppressing further errors regarding Morpho
+*** FAILED *** with 691 errors
+Morpho errors: 691
 
 
 ******************
 
-python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 
-*** PASSED ***
+[Line                   23]: Unknown attribute-value pair Negative=Pos
+[Line                   24]: Unknown attribute-value pair Negative=Pos
+[Line                   25]: Unknown attribute-value pair Negative=Pos
+[Line                   26]: Unknown attribute-value pair Polite=Pol
+[Line                   27]: Unknown attribute-value pair Polite=Pol
+[Line                   29]: Unknown attribute-value pair Negative=Pos
+[Line                   30]: Unknown attribute-value pair Negative=Pos
+[Line                   30]: Unknown attribute-value pair Polite=Pol
+[Line                   40]: Unknown attribute-value pair Polite=Pol
+[Line                   42]: Unknown attribute-value pair Negative=Pos
+[Line                   55]: Unknown attribute-value pair Negative=Pos
+[Line                   56]: Unknown attribute-value pair Negative=Pos
+[Line                   59]: Unknown attribute-value pair Negative=Pos
+[Line                   67]: Unknown attribute-value pair Negative=Pos
+[Line                   75]: Unknown attribute-value pair Negative=Pos
+[Line                   80]: Unknown attribute-value pair Negative=Pos
+[Line                   96]: Unknown attribute-value pair Negative=Pos
+[Line                   99]: Unknown attribute-value pair Negative=Pos
+[Line                   102]: Unknown attribute-value pair Negative=Pos
+...suppressing further errors regarding Morpho
+*** FAILED *** with 2069 errors
+Morpho errors: 2069
 
 
 ******************
