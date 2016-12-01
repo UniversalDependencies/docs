@@ -15,7 +15,9 @@ morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a un
 inventory of categories and guidelines to facilitate consistent annotation of similar
 constructions across languages, while allowing language-specific extensions when necessary.
 
-Examples:
+This is illustrated in the following parallel examples from English, Bulgarian, Czech and Swedish, 
+where the main grammatical relations involving a passive verb, a nominal subject and an obliqe agent
+are the same, but where the concrete grammatical realization varies.
 
 ~~~ conllu
 1	The	the	DET	_	Definite=Def	2	det	_	_
@@ -45,6 +47,7 @@ Examples:
 3	honěn	honěn	VERB	_	_	0	root	_	_
 4	kočkou	kočkou	NOUN	_	Case=Ins	3	obl	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
+
 ~~~
 
 ~~~ conllu
@@ -53,6 +56,7 @@ Examples:
 3 av  av  ADP _ _ 4 case  _ _
 4	katten	katt	NOUN	_	_	2	obl	_	_
 5	.	.	PUNCT	_	_	2	punct	_	_
+
 ~~~
 
 ## What is needed for UD to be successful?
