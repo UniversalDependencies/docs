@@ -211,7 +211,7 @@ if __name__=="__main__":
 
     subset = SUBSET_NONEMPTY if not args.empty else SUBSET_EMPTY
 
-    a_data,ldict=gen_table(args)
+    a_data,ldict=gen_table(args, subset)
     print a_data.getvalue()
     if args.ldict:
         with open(args.ldict,"w") as out:
