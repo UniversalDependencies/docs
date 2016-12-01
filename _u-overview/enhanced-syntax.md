@@ -24,7 +24,7 @@ Note that the _enhanced_ graph is not necessarily a supergraph of the basic tree
 
 ## Ellipsis 
 
-(See also the guidelines on [ellipsis](u-overview/specific-syntax#ellipsis).)
+(See also the guidelines on [ellipsis](specific-syntax.html#ellipsis).)
 
 In the _enhanced_ representation, we add special null nodes in clauses in which a predicate is elided.
 
