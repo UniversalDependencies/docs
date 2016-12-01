@@ -35,7 +35,7 @@ As a special case, the first conjunct may be implicit or part of an earlier sent
 ~~~ sdparse
 And then we left .
 cc(left, And)
-~~~ sdparse
+~~~ 
 
 ### Ellipsis in Clause Coordination 
 
