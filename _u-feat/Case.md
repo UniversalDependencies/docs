@@ -9,10 +9,10 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td style="background-color:cornflowerblue;color:white"><strong>Core:</strong> </td>
-  <td colspan="3"><a href="#Abs">Abs</a></td>
-  <td colspan="4"><a href="#Acc">Acc</a></td>
-  <td colspan="3"><a href="#Erg">Erg</a></td>
-  <td colspan="4"><a href="#Nom">Nom</a></td>
+  <td colspan="3" align="center"><a href="#Abs">Abs</a></td>
+  <td colspan="4" align="center"><a href="#Acc">Acc</a></td>
+  <td colspan="3" align="center"><a href="#Erg">Erg</a></td>
+  <td colspan="4" align="center"><a href="#Nom">Nom</a></td>
 </tr>
 <tr>
   <td colspan="2" style="background-color:cornflowerblue;color:white"><strong>Non-core:</strong> </td>
