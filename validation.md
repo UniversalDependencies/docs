@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-01T00:07:14Z">2016-12-01T00:07:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-01T00:28:00Z">2016-12-01T00:28:00 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1852,70 +1852,90 @@ python tools/validate.py --lang ja_ktc UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:06:45Z">2016-12-01T00:06:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:27:55Z">2016-12-01T00:27:55 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 
+[Line                   651]: Unknown attribute-value pair PronType=Itg
+[Line                   656]: Unknown attribute-value pair Mood=Imper
+[Line                   663]: Unknown attribute-value pair PronType=Itg
 [Line                   665]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   666]: Unknown attribute-value pair Tense=Prs
 [Line                   670]: Unknown attribute-value pair VerbForm=Coverb
 [Line                   689]: Unknown attribute-value pair VerbForm=Coverb
 [Line                   699]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   708]: Unknown attribute-value pair Mood=Imper
 [Line                   709]: Unknown attribute-value pair VerbForm=Trans
+[Line                   715]: Unknown attribute-value pair Mood=Cond
 [Line                   715]: Unknown attribute-value pair VerbForm=Trans
+[Line                   719]: Unknown attribute-value pair Mood=Cond
 [Line                   719]: Unknown attribute-value pair VerbForm=Trans
+[Line                   722]: Unknown attribute-value pair Mood=Cond
 [Line                   722]: Unknown attribute-value pair VerbForm=Trans
+[Line                   725]: Unknown attribute-value pair Mood=Cond
 [Line                   725]: Unknown attribute-value pair VerbForm=Trans
-[Line                   806]: Unknown attribute-value pair VerbForm=Coverb
-*** FAILED *** with 10 errors
-Morpho errors: 10
+[Line                   777]: Unknown attribute-value pair PronType=Itg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 22 errors
+Morpho errors: 22
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-test.conllu
 
+[Line                   649]: Unknown attribute-value pair Mood=Cond
 [Line                   649]: Unknown attribute-value pair VerbForm=Trans
+[Line                   654]: Unknown attribute-value pair Mood=Cond
 [Line                   654]: Unknown attribute-value pair VerbForm=Trans
+[Line                   657]: Unknown attribute-value pair PronType=Itg
+[Line                   668]: Unknown attribute-value pair Aspect=Impf
 [Line                   668]: Unknown attribute-value pair VerbForm=Coverb
 [Line                   669]: Unknown attribute-value pair VerbForm=Trans
+[Line                   671]: Unknown attribute-value pair Aspect=Impf
 [Line                   671]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   683]: Unknown attribute-value pair PronType=Itg
 [Line                   691]: Unknown attribute-value pair VerbForm=Trans
 [Line                   700]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   701]: Unknown attribute-value pair Tense=Prs
 [Line                   720]: Unknown attribute-value pair VerbForm=Trans
+[Line                   727]: Unknown attribute-value pair Mood=Cond
 [Line                   727]: Unknown attribute-value pair VerbForm=Trans
+[Line                   730]: Unknown attribute-value pair Mood=Cond
 [Line                   730]: Unknown attribute-value pair VerbForm=Trans
-*** FAILED *** with 10 errors
-Morpho errors: 10
+...suppressing further errors regarding Morpho
+*** FAILED *** with 26 errors
+Morpho errors: 26
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
 
+[Line                   4729]: Unknown attribute-value pair PronType=Itg
+[Line                   4779]: Unknown attribute-value pair Aspect=Impf
 [Line                   4779]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   4780]: Unknown attribute-value pair Aspect=Impf
 [Line                   4780]: Unknown attribute-value pair VerbForm=Trans
 [Line                   4790]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4812]: Unknown attribute-value pair Mood=Imper
 [Line                   4820]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   4827]: Unknown attribute-value pair PronType=Itg
+[Line                   4831]: Unknown attribute-value pair PronType=Itg
 [Line                   4861]: Unknown attribute-value pair VerbForm=Trans
 [Line                   4863]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   4864]: Unknown attribute-value pair Aspect=Impf
 [Line                   4864]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   4876]: Unknown attribute-value pair Mood=Imper
+[Line                   4885]: Unknown attribute-value pair PronType=Itg
 [Line                   4891]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4895]: Unknown attribute-value pair PronType=Itg
 [Line                   4902]: Unknown attribute-value pair VerbForm=Trans
-[Line                   4929]: Unknown attribute-value pair VerbForm=Trans
-[Line                   4932]: Unknown attribute-value pair VerbForm=Coverb
-[Line                   4954]: Unknown attribute-value pair VerbForm=Coverb
-[Line                   4955]: Unknown attribute-value pair VerbForm=Trans
-[Line                   4965]: Unknown attribute-value pair VerbForm=Trans
-[Line                   5020]: Unknown attribute-value pair VerbForm=Coverb
-[Line                   5022]: Unknown attribute-value pair VerbForm=Coverb
-[Line                   5024]: Unknown attribute-value pair VerbForm=Coverb
-[Line                   5034]: Unknown attribute-value pair VerbForm=Trans
-[Line                   5039]: Unknown attribute-value pair VerbForm=Coverb
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 79 errors
-Morpho errors: 79
+*** FAILED *** with 140 errors
+Morpho errors: 140
 
 
 ******************
@@ -2044,28 +2064,90 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T22:55:12Z">2016-11-30T22:55:12 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:27:55Z">2016-12-01T00:27:55 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
 
-*** PASSED ***
+[Line                   145]: Unknown attribute-value pair VerbForm=Trans
+[Line                   294]: Unknown attribute-value pair VerbForm=Trans
+[Line                   334]: Unknown attribute-value pair VerbForm=Trans
+[Line                   382]: Unknown attribute-value pair VerbForm=Trans
+[Line                   715]: Unknown attribute-value pair VerbForm=Trans
+[Line                   821]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1083]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1909]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2410]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2534]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2860]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2929]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3134]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3325]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3702]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3728]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3736]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3862]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3871]: Unknown attribute-value pair VerbForm=Trans
+*** FAILED *** with 19 errors
+Morpho errors: 19
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-test.conllu
 
-*** PASSED ***
+[Line                   105]: Unknown attribute-value pair VerbForm=Trans
+[Line                   258]: Unknown attribute-value pair VerbForm=Trans
+[Line                   352]: Unknown attribute-value pair VerbForm=Trans
+[Line                   396]: Unknown attribute-value pair VerbForm=Trans
+[Line                   447]: Unknown attribute-value pair VerbForm=Trans
+[Line                   490]: Unknown attribute-value pair VerbForm=Trans
+[Line                   629]: Unknown attribute-value pair VerbForm=Trans
+[Line                   676]: Unknown attribute-value pair VerbForm=Trans
+[Line                   739]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1085]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1366]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1639]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1894]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2026]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2447]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2838]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2920]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2931]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3416]: Unknown attribute-value pair VerbForm=Trans
+...suppressing further errors regarding Morpho
+*** FAILED *** with 30 errors
+Morpho errors: 30
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 
-*** PASSED ***
+[Line                   423]: Unknown attribute-value pair VerbForm=Trans
+[Line                   980]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1848]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2084]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2127]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3387]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3592]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4104]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4196]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4518]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4558]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4606]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4637]: Unknown attribute-value pair VerbForm=Trans
+[Line                   5209]: Unknown attribute-value pair VerbForm=Trans
+[Line                   5287]: Unknown attribute-value pair VerbForm=Trans
+[Line                   5558]: Unknown attribute-value pair VerbForm=Trans
+[Line                   5563]: Unknown attribute-value pair VerbForm=Trans
+[Line                   5717]: Unknown attribute-value pair VerbForm=Trans
+[Line                   6186]: Unknown attribute-value pair VerbForm=Trans
+...suppressing further errors regarding Morpho
+*** FAILED *** with 74 errors
+Morpho errors: 74
 
 
 ******************
@@ -2907,28 +2989,91 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T23:20:35Z">2016-11-30T23:20:35 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:27:57Z">2016-12-01T00:27:57 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
 
-*** PASSED ***
+[Line                   190]: Unknown attribute-value pair VerbForm=Trans
+[Line                   195]: Unknown attribute-value pair VerbForm=Trans
+[Line                   215]: Unknown attribute-value pair VerbForm=Trans
+[Line                   283]: Unknown attribute-value pair VerbForm=Trans
+[Line                   371]: Unknown attribute-value pair VerbForm=Trans
+[Line                   382]: Unknown attribute-value pair VerbForm=Trans
+[Line                   517]: Unknown attribute-value pair VerbForm=Trans
+[Line                   562]: Unknown attribute-value pair VerbForm=Trans
+[Line                   599]: Unknown attribute-value pair VerbForm=Trans
+[Line                   717]: Unknown attribute-value pair VerbForm=Trans
+[Line                   733]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1204]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1205]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1256]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1328]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1374]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1377]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1379]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1527]: Unknown attribute-value pair VerbForm=Trans
+...suppressing further errors regarding Morpho
+*** FAILED *** with 138 errors
+Morpho errors: 138
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-test.conllu
 
-*** PASSED ***
+[Line                   100]: Unknown attribute-value pair VerbForm=Trans
+[Line                   144]: Unknown attribute-value pair VerbForm=Trans
+[Line                   210]: Unknown attribute-value pair VerbForm=Trans
+[Line                   496]: Unknown attribute-value pair VerbForm=Trans
+[Line                   639]: Unknown attribute-value pair VerbForm=Trans
+[Line                   767]: Unknown attribute-value pair VerbForm=Trans
+[Line                   835]: Unknown attribute-value pair VerbForm=Trans
+[Line                   894]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1218]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1399]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1517]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1557]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1703]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1779]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1788]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1810]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1908]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1974]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2031]: Unknown attribute-value pair VerbForm=Trans
+...suppressing further errors regarding Morpho
+*** FAILED *** with 105 errors
+Morpho errors: 105
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 
-*** PASSED ***
+[Line                   80]: Unknown attribute-value pair VerbForm=Trans
+[Line                   135]: Unknown attribute-value pair VerbForm=Trans
+[Line                   172]: Unknown attribute-value pair VerbForm=Trans
+[Line                   362]: Unknown attribute-value pair VerbForm=Trans
+[Line                   385]: Unknown attribute-value pair VerbForm=Trans
+[Line                   695]: Unknown attribute-value pair VerbForm=Trans
+[Line                   721]: Unknown attribute-value pair VerbForm=Trans
+[Line                   784]: Unknown attribute-value pair VerbForm=Trans
+[Line                   810]: Unknown attribute-value pair VerbForm=Trans
+[Line                   900]: Unknown attribute-value pair VerbForm=Trans
+[Line                   985]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1023]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1054]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1255]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1361]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1482]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1548]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1598]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1606]: Unknown attribute-value pair VerbForm=Trans
+...suppressing further errors regarding Morpho
+*** FAILED *** with 563 errors
+Morpho errors: 563
 
 
 ******************
@@ -2983,7 +3128,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T23:20:39Z">2016-11-30T23:20:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:28:00Z">2016-12-01T00:28:00 zulu</time></span>
 </div>
 <div>
 <pre>
