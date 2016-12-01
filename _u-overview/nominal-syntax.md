@@ -39,6 +39,34 @@ The head of a nominal phrase does not take any core arguments but may be associa
 
 ~~~ sdparse
 the Chair 's office
+nmod(office-4, Chair-2)
+~~~
+
+~~~ sdparse
+the office of the Chair
+nmod(office-2, Chair-5)
+~~~
+
+~~~ sdparse
+Sam eats red meat
+amod(meat, red)
+~~~
+
+~~~ sdparse
+Sam spent forty dollars
+nummod(dollars, forty)
+~~~
+
+## Function Word Dependents
+
+Nominal phrases may also contain the following typical function word dependents:
+
+* Determiners attach to the head of the nominal with the `det` relation.
+* Adpositions attach to the head of the nominal with the `case` relation.
+* Classifiers attach to a numeral or possessive with the `clf` relation.
+
+~~~ sdparse
+the Chair 's office
 det(Chair-2, the-1)
 nmod(office-4, Chair-2)
 case(Chair-2, 's-3)
@@ -52,10 +80,3 @@ case(Chair-5, of-3)
 det(Chair-5, the-4)
 ~~~
 
-~~~ sdparse
-Sam eats red meat
-amod(meat, red)
-~~~
-
-
-## Function Word Dependents
