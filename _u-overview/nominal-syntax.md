@@ -34,8 +34,10 @@ det(nya, den)
 The head of a nominal phrase does not take any core arguments but may be associated with different types of modifiers:
 
 1. An `nmod` is a nominal phrase modifying the head of another nominal phrase, with or without a special case marker.
-2. An `amod` is an adjective modifying the head of a nominal phrase.
-3. A `nummod` is a numeral modifying the head of a nominal phrase.
+2. An `appos` is a nominal phrase that follows the head of another nominal phrase and stands in a co-reference or other equivalence relation to it.
+3. An `amod` is an adjective modifying the head of a nominal phrase.
+4. A `nummod` is a numeral modifying the head of a nominal phrase.
+5. An `acl` is a clause modifying the head of a nominal phrase, with the relative clause `acl:relcl` as an important subtype.
 
 ~~~ sdparse
 the Chair 's office
@@ -48,6 +50,11 @@ nmod(office-2, Chair-5)
 ~~~
 
 ~~~ sdparse
+Sam , the manager
+appos(Sam, manager)
+~~~
+
+~~~ sdparse
 Sam eats red meat
 amod(meat, red)
 ~~~
@@ -57,6 +64,10 @@ Sam spent forty dollars
 nummod(dollars, forty)
 ~~~
 
+~~~ sdparse
+Sam spent everything he had
+acl:relcl(everything, had)
+~~~
 ## Function Word Dependents
 
 Nominal phrases may also contain the following typical function word dependents:
