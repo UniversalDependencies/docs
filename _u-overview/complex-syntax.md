@@ -9,9 +9,8 @@ udver: '2'
 
 ## Coordination 
 
-We treat coordinate structures asymmetrically:
-The head of the relation is the first conjunct and all the other conjuncts depend on it via the [u-dep/conj]() relation.
-Coordinating conjunctions and punctuation delimiting the conjuncts are attached using the [u-dep/cc]() and [u-dep/punct]() relations respectively.
+Complex clauses involving coordination arise when two main clauses or two subordinate clauses at the same level are
+linked in a coordinate structure, which may or may not involve an overt coordinating conjunction. We treat coordinate structures asymmetrically by taking the first conjunct as the head with all other conjuncts attached to it via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the immediately following conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively.
 
 ~~~ sdparse
 He came home , took a shower and immediately went to bed .
@@ -20,6 +19,9 @@ conj(came, went)
 punct(took, ,-4)
 cc(went, and)
 ~~~
+
+Asyndetic coordination occurs when there is no overt coordinating conjunction.
+
 
 ## Subordination
 
