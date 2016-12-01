@@ -38,8 +38,18 @@ The head of a nominal phrase does not take any core arguments but may be associa
 3. A `nummod` is a numeral modifying the head of a nominal phrase.
 
 ~~~ sdparse
-Hon såg Batman . \n She saw Batman .
-obj(såg, Batman)
+the Chair 's office
+det(Chair-2, the-1)
+nmod(office-4, Chair-2)
+case(Chair-2, 's-3)
+~~~
+
+~~~ sdparse
+the office of the Chair
+det(office-2, the-1)
+nmod(office-2, Chair-5)
+case(Chair-5, of-3)
+det(Chair-5, the-4)
 ~~~
 
 ## Function Word Dependents
