@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-11-30T23:20:40Z">2016-11-30T23:20:40 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-01T00:07:14Z">2016-12-01T00:07:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -55,25 +55,25 @@ python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-trai
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:30:15Z">2016-09-19T07:30:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:06:33Z">2016-12-01T00:06:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-train.conllu
 
 *** PASSED ***
 
@@ -1851,28 +1851,71 @@ python tools/validate.py --lang ja_ktc UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:02:14Z">2016-11-14T22:02:14 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:06:45Z">2016-12-01T00:06:45 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 
-*** PASSED ***
+[Line                   665]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   670]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   689]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   699]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   709]: Unknown attribute-value pair VerbForm=Trans
+[Line                   715]: Unknown attribute-value pair VerbForm=Trans
+[Line                   719]: Unknown attribute-value pair VerbForm=Trans
+[Line                   722]: Unknown attribute-value pair VerbForm=Trans
+[Line                   725]: Unknown attribute-value pair VerbForm=Trans
+[Line                   806]: Unknown attribute-value pair VerbForm=Coverb
+*** FAILED *** with 10 errors
+Morpho errors: 10
 
 
 ******************
 
-python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-test.conllu
 
-*** PASSED ***
+[Line                   649]: Unknown attribute-value pair VerbForm=Trans
+[Line                   654]: Unknown attribute-value pair VerbForm=Trans
+[Line                   668]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   669]: Unknown attribute-value pair VerbForm=Trans
+[Line                   671]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   691]: Unknown attribute-value pair VerbForm=Trans
+[Line                   700]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   720]: Unknown attribute-value pair VerbForm=Trans
+[Line                   727]: Unknown attribute-value pair VerbForm=Trans
+[Line                   730]: Unknown attribute-value pair VerbForm=Trans
+*** FAILED *** with 10 errors
+Morpho errors: 10
 
 
 ******************
 
-python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
 
-*** PASSED ***
+[Line                   4779]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   4780]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4790]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4820]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   4861]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4863]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   4864]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   4891]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4902]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4929]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4932]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   4954]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   4955]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4965]: Unknown attribute-value pair VerbForm=Trans
+[Line                   5020]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   5022]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   5024]: Unknown attribute-value pair VerbForm=Coverb
+[Line                   5034]: Unknown attribute-value pair VerbForm=Trans
+[Line                   5039]: Unknown attribute-value pair VerbForm=Coverb
+...suppressing further errors regarding Morpho
+*** FAILED *** with 79 errors
+Morpho errors: 79
 
 
 ******************
@@ -1906,25 +1949,25 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Latin</span>
 <span class="widespan">la</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:56:23Z">2016-09-19T07:56:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:06:45Z">2016-12-01T00:06:45 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang la UD-dev-branches/UD_Latin/la-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin/la-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang la UD-dev-branches/UD_Latin/la-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin/la-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang la UD-dev-branches/UD_Latin/la-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin/la-ud-train.conllu
 
 *** PASSED ***
 
@@ -1938,7 +1981,7 @@ python tools/validate.py --lang la UD-dev-branches/UD_Latin/la-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:00Z">2016-11-30T21:48:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:06:48Z">2016-12-01T00:06:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1970,7 +2013,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:48:15Z">2016-11-30T21:48:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:07:04Z">2016-12-01T00:07:04 zulu</time></span>
 </div>
 <div>
 <pre>
