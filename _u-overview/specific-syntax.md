@@ -36,7 +36,142 @@ cc(two, or)
 
 ## Ellipsis
 
-Ellipsis often arises in the context of coordination but 
+The UD approach to ellipsis can be summarized as follows:
+
+1. If the ellided element has no overt dependents, we do nothing.
+2. If the ellided element has overt dependents, we promote one of these to take the role of the head.
+3. If the ellided element is a predicate and the promoted element a core argument, we use the `orphan` relation when attaching other non-functional dependents to the promoted head.
+
+### Ellipsis in Nominals
+
+If the head nominal is elided, we promote dependents in the following order: `amod` > `nummod` > `det` > `nmod` > `case`.
+
+Examples:
+
+~~~ sdparse
+Er kauft sich ein grünes Auto und sie kauft sich ein rotes . \n He buys himself a green car and she buys herself a red .
+
+nsubj(kauft-2, Er-1)
+det(Auto-6, ein-4)
+amod(Auto-6, grünes-5)
+obj(kauft-2, Auto-6)
+conj(kauft-2, kauft-9)
+nsubj(kauft-9, sie-8)
+obj(kauft-9, rotes-12)
+det(rotes-12, ein-11)
+~~~
+
+~~~ sdparse
+She saw every animal at the zoo but he saw only some .
+
+nsubj(saw-2, She-1)
+det(animal-4, every-3)
+obj(saw-2, animal-4)
+conj(saw-2, saw-10)
+advmod(some-12, only-11)
+obj(saw-10, some-12)
+~~~
+
+~~~ sdparse
+She saw three monkeys and he saw two .
+
+nsubj(saw-2, She-1)
+nummod(monkeys-4, three-3)
+obj(saw-2, monkeys-4)
+conj(saw-2, saw-7)
+obj(saw-7, two-8)
+~~~
+
+### Ellipsis in Clauses
+
+If the main predicate is elided, we use simple promotion only if there is an `aux` or `cop`, or a `mark` in the case of an infinitival marker.
+
+Example:
+
+~~~ sdparse
+Sue likes pasta and Peter does , too . 
+
+nsubj(likes-2, Sue-1)
+obj(likes-2, pasta-3)
+conj(likes-2, does-6)
+nsubj(does-6, Peter-5)
+advmod(does-6, too-8)
+~~~
+
+~~~ sdparse
+Sue is hungry and Peter is , too . 
+
+nsubj(hungry-3, Sue-1)
+cop(hungry-3, is-2)
+conj(hungry-3, is-6)
+nsubj(is-6, Peter-5)
+advmod(is-6, too-8)
+~~~
+
+~~~ sdparse
+They will do it if they want to .
+
+nsubj(will-2, They-1)
+aux(do-3, will-2)
+obj(it-4, do-3)
+advcl(do-3, want-7)
+nsubj(want-7, they-6)
+xcomp(want-7, to-8)
+~~~
+
+In more complicated cases where a predicate is elided but no `aux` or `cop` is present, promotion could lead to very unnatural and confusing relations. For example, in the following sentence, _you_ would be the subject of _coffee_, suggesting that the second clause contains a copular construction rather than an elided predicate.
+
+~~~ sdparse
+I like tea and you coffee .
+
+nsubj(like-2, I-1)
+obj(like-2, tea-3)
+nsubj(coffee-6, you-5)
+conj(like-2, coffee-6)
+~~~ 
+
+In such cases, we use the special relation `orphan` to signal a non-standard dependency. 
+
+~~~ sdparse
+I like tea and you coffee .
+
+nsubj(like-2, I-1)
+obj(like-2, tea-3)
+conj(like-2, you-5)
+cc(you-5, and-4)
+orphan(you-5, coffee-6)
+~~~ 
+
+~~~ sdparse
+Mary wants to buy a book and Jenny a CD .
+
+nsubj(wants-2, Mary-1)
+xcomp(wants-2, buy-4)
+obj(buy-4, book-6)
+conj(wants-2, Jenny-8)
+orphan(Jenny-8, CD-10)
+~~~ 
+
+~~~ sdparse
+They had left the company , many for good .
+
+nsubj(left, They)
+obj(left, company)
+conj(left, many)
+orphan(many, good)
+~~~
+
+~~~ sdparse
+Mary wants to buy a book . ROOT And Jenny a CD .
+
+nsubj(wants-2, Mary-1)
+xcomp(wants-2, buy-4)
+obj(buy-4, book-6)
+root(ROOT, Jenny)
+orphan(Jenny, CD)
+~~~ 
+
+Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction, which attaches to the pseudo-constituent formed through the `orphan` dependency. 
 
 ### Multiword Expressions
 
@@ -77,53 +212,8 @@ compound(drive, disk)
 compound(enclosure, drive)
 obj(bought, enclosure)
 </div>
-### Multiword Expressions
 
-Multiword expressions The following types of expressions are annotated in a head-initial structure, where all non-first elements
-depend on the first, and where only the first element can have dependents:
-
-1. Fixed multiword expressions ([u-dep/mwe]())
-2. Multiword names ([u-dep/name]())
-3. Foreign phrases ([u-dep/foreign]())
-
-<div id="s8a" class="sd-parse">
-We had a nice time in spite of the rain .
-case(rain,in)
-mwe(in,spite)
-mwe(in,of)
-nmod(had,rain)
-</div>
-
-<div id="s8b" class="sd-parse">
-Martin Luther King had a dream .
-nsubj(had,Martin)
-name(Martin,Luther)
-name(Martin,King)
-</div>
-
-<div id="s8c" class="sd-parse">
-She said qwe rty yui .
-dobj(said,qwe)
-foreign(qwe,rty)
-foreign(qwe,yui)
-</div>
-
-In contrast, [compounds](compound) are annotated to show their modification structure, including a regular concept of head:
-
-<div id="s9" class="sd-parse">
-I bought a computer disk drive enclosure .
-nsubj(bought, I)
-det(enclosure, a)
-compound(drive, computer)
-compound(drive, disk)
-compound(enclosure, drive)
-dobj(bought, enclosure)
-</div>## Coordination
-
-* Coordination: currently described under [u-dep/conj]()
-
-
-### Comparatives
+## Comparatives
 
 The syntax of comparative constructions poses various challenges for linguistic theory.  For English, many of these are discussed in Bresnan (1973) and Huddleston and Pullum (2002, chapter 13). We give a discussion of equality comparisons (_That car is as big as mine_) and inequality scalar comparisons (_Sue is taller than Jim_).
 
@@ -165,10 +255,10 @@ We then take the complement of the comparative as an oblique dependent of the fi
 I do n't hear from my brother as often as I previously heard from him .
 nsubj(hear, I-1)
 aux(hear, do)
-neg(hear, n't)
+advmod(hear, n't)
 case(brother, from-5)
 det(brother, my)
-nmod(hear, brother)
+obl(hear, brother)
 advmod(often, as-8)
 advmod(hear, often)
 mark(heard, as-10)
@@ -176,7 +266,7 @@ nsubj(heard, I-11)
 advmod(heard, previously)
 advcl(often, heard)
 case(him, from-14)
-nmod(heard, him)
+obl(heard, him)
 punct(hear, .)
 ~~~
 
@@ -187,13 +277,13 @@ We take the _as Y_ clause as a dependent of the content-word whose degree is bei
 nsubj(面白い, “X”)
 case(“X”, が)
 case(“Y”, より)
-nmod(面白い, “Y”)
+obl(面白い, “Y”)
 punct(面白い, 。)
 ~~~
 
 Since the first _as_ is a functional element, the dependent can be understood to modify the whole phrase _as often_, and therefore is attached to the head of that phrase. Additionally, it might be noted that comparatives without a comparative word occur in certain varieties of English. For example in Indian English you find usages such as _So don't worry if you think that you have a girl-friend, who is intelligent than you._ One further argument from morphological comparatives is discussed below.
 
-The same basic analysis is given for inequality scalar comparatives, with _more_ or _less_ or a comparative adjective and _than_, parallel to the two uses of _as_ above, except that _more_ can also directly modify a noun, and _more_ is then taken to have the [u-dep/amod]() relation to the noun.  In this case, we take the comparative complement as directly depending on _more_, roughly seeing it as elliptical for _more numerous_.  In general, the comparative complement always depends on an adjective or adverb, and is usually an [advcl]() except when it is directly analyzed as an [nmod]() (as discussed at the end of this section).
+The same basic analysis is given for inequality scalar comparatives, with _more_ or _less_ or a comparative adjective and _than_, parallel to the two uses of _as_ above, except that _more_ can also directly modify a noun, and _more_ is then taken to have the [u-dep/amod]() relation to the noun.  In this case, we take the comparative complement as directly depending on _more_, roughly seeing it as elliptical for _more numerous_.  In general, the comparative complement always depends on an adjective or adverb, and is usually an [advcl]() except when it is directly analyzed as an [obl]() (as discussed at the end of this section).
 
 ~~~ sdparse
 more problems than you thought of last week
@@ -258,12 +348,12 @@ nsubj(put, I)
 compound(put, in)
 advmod(much, as-4)
 amod(flour, much)
-dobj(put, flour)
+obj(put, flour)
 mark(called, as-7)
 det(recipe, the)
 nsubj(called, recipe)
 advcl(much, called)
-nmod(called, for)
+obl(called, for)
 punct(put, .)
 ~~~
 
@@ -289,14 +379,14 @@ The analysis in this case is unclear: Should the comparative complement still be
 as important as a player 's talent
 advmod(important, as-1)
 case(talent, as-3)
-nmod(important, talent)
+obl(important, talent)
 ~~~
 
 ~~~ sdparse
 more important than a player 's talent
 advmod(important, more)
 case(talent, than)
-nmod(important, talent)
+obl(important, talent)
 ~~~
 
 ### _More than_ as a multi-word expression
@@ -308,7 +398,7 @@ and the quantity it is compared to:
 * _more than likely_
 * _Home prices have more than doubled in the past decade._
 
-In these cases we consider _more than_ to be a multi-word expression because the two words are inseparable.
+In these cases we consider _more than_ to be a fixed multi-word expression because the two words are inseparable.
 One cannot say _*more percent than 90._
 
 ~~~ sdparse
@@ -316,7 +406,7 @@ That is more than likely .
 nsubj(likely, That)
 cop(likely, is)
 advmod(likely, more)
-mwe(more, than)
+fixed(more, than)
 punct(likely, .-6)
 ~~~
 
@@ -325,7 +415,7 @@ If the expression modifies a counted noun phrase, it attaches directly to the mo
 ~~~ sdparse
 more than two years ago
 nummod(years, two)
-mwe(more, than)
+fixed(more, than)
 advmod(two, more)
 ~~~
 
@@ -334,12 +424,9 @@ If there is no number (because the indefinite article functions as the number �
 ~~~ sdparse
 more than a year ago
 det(year, a)
-mwe(more, than)
+fixed(more, than)
 advmod(year, more)
 ~~~
-
-## Multiword Expressions
-
 
 ## Loose Joining Relations and Clause-External Elements
 
@@ -361,7 +448,7 @@ I agree , we should apply for membership .
 parataxis(agree, apply)
 ~~~
 
-### Punctuation 
+## Punctuation 
 
 Tokens with the relation [u-dep/punct]() always attach to content words (except in cases of ellipsis) and can never have dependents. Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
 Instead, we use the following principles:
