@@ -52,4 +52,10 @@ case(Chair-5, of-3)
 det(Chair-5, the-4)
 ~~~
 
+~~~ sdparse
+Sam eats red meat
+amod(meat, red)
+~~~
+
+
 ## Function Word Dependents
