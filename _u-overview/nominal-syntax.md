@@ -68,6 +68,7 @@ nummod(dollars, forty)
 Sam spent everything he had
 acl:relcl(everything, had)
 ~~~
+
 ## Function Word Dependents
 
 Nominal phrases may also contain the following typical function word dependents:
