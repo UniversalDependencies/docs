@@ -5,6 +5,16 @@ shortdef: 'politeness'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Elev">Elev</a></td>
+  <td><a href="#Form">Form</a></td>
+  <td><a href="#Humb">Humb</a></td>
+  <td><a href="#Infm">Infm</a></td>
+</tr>
+</table>
+
 Various languages have various means to express politeness or respect; some
 of the means are morphological. Three to four dimensions of politeness are
 distinguished in linguistic literature. The `Polite` feature currently covers
@@ -36,7 +46,7 @@ and belongs to the speaker-addressee axis. Nevertheless, we currently use the
 same values for both axes, i.e. `Polite=Form` can be used for teineigo too.
 This approach may be refined in future.
 
-### `Infm`: informal register
+### <a name="Infm">`Infm`</a>: informal register
 
 Usage varies but if the language distinguishes levels of politeness, then
 the informal register is usually meant for communication with family
@@ -49,7 +59,7 @@ Examples:
 * [es] _<b>tú vas / vosotros vais</b>_ (you go.Sing/Plur)
 * [ja] <b>行かない _ikanai_</b> (will not go)
 
-### `Form`: formal register
+### <a name="Form">`Form`</a>: formal register
 
 Usage varies but if the language distinguishes levels of politeness, then
 the polite register is usually meant for communication with strangers
@@ -62,7 +72,7 @@ Examples:
 * [es] _<b>usted va / ustedes van</b>_ (you go.Sing/Plur)
 * [ja] <b>行きません _ikimasen_</b> (will not go)
 
-### `Elev`: referent elevating
+### <a name="Elev">`Elev`</a>: referent elevating
 
 This register belongs to the speaker-referent axis and can be seen as a subtype
 of the formal register there. As an example, Japanese sonkeigo (尊敬語) is a set
@@ -70,7 +80,7 @@ of honorific forms that elevate the status of the referent.
 
 * [ja] <b>なさる _nasaru,_</b> なさいます _nasaimasu_ (to do; when talking about a customer or a superior)
 
-### `Humb`: speaker humbling
+### <a name="Humb">`Humb`</a>: speaker humbling
 
 This register belongs to the speaker-referent axis and can be seen as a subtype
 of the formal register there. As an example, Japanese kenjōgo (謙譲語) is a set
