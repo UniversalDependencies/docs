@@ -1,37 +1,30 @@
 ---
 layout: base
-title:  'Nominal Phrases'
+title:  'Nominals'
 permalink: u/overview/nominal-syntax.html
 udver: '2'
 ---
 
-# Nominal Phrases
+# Nominals
 
-The head of a nominal phrase is usually a noun, proper noun or pronoun, although in cases of ellipsis it can also be an adjective or even a determiner.
+The UD annotation assumes the nominal, or noun phrase, as one of the basic structures that we expect to find in all languages. A nominal minimally consists of a noun, proper noun or pronoun.
 
 ~~~ sdparse
-Hon såg den nya filmen . \n She saw the new film .
+hon såg filmen . \n she saw the-film
 obj(såg, filmen)
-amod(filmen, nya)
-det(filmen, den)
 ~~~
 ~~~ sdparse
-Hon såg Batman . \n She saw Batman .
+hon såg Batman \n she saw Batman
 obj(såg, Batman)
 ~~~
 ~~~ sdparse
-Hon såg den . \n She saw it .
+hon såg den \n she saw it
 obj(såg, den)
-~~~
-~~~ sdparse
-Hon såg den nya . \n She saw the new (one) .
-obj(såg, nya)
-det(nya, den)
 ~~~
 
 ## Modifier Dependents
 
-The head of a nominal phrase does not take any core arguments but may be associated with different types of modifiers:
+A nominal head does not take any core arguments but may be associated with different types of modifiers:
 
 1. An `nmod` is a nominal phrase modifying the head of another nominal phrase, with or without a special case marker.
 2. An `appos` is a nominal phrase that follows the head of another nominal phrase and stands in a co-reference or other equivalence relation to it.
@@ -71,7 +64,7 @@ acl:relcl(everything, had)
 
 ## Function Word Dependents
 
-Nominal phrases may also contain the following typical function word dependents:
+Nominals may also contain the following typical function word dependents:
 
 * Determiners attach to the head of the nominal with the `det` relation.
 * Adpositions attach to the head of the nominal with the `case` relation.
