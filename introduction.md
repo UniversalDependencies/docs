@@ -39,6 +39,15 @@ Examples:
 
 ~~~
 
+~~~ conllu
+1	Pes	pes	NOUN	_	_	3	nsubj:pass	_	_
+2	byl	byl	AUX	_	Tense=Past	3		aux:pass	_	_
+3	honěn	honěn	VERB	_		_		0		ROOT	_	_
+4	kočkou	kočkou	NOUN	_		Case=Ins	3		obl	_	_
+5	.		.	PUNCT	_		_		3		punct	_	_
+
+~~~
+
 ## What is needed for UD to be successful?
 
 The secret to understanding the design and current success of UD is to realize that the design
