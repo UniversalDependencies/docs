@@ -1,62 +1,13 @@
 [
   {
     "lang_code": "am", 
-    "contributors": [
-      {
-        "full": "Binyam Ephrem", 
-        "last": "Ephrem", 
-        "first": "Binyam"
-      }
-    ], 
+    "contributors": [], 
     "lang_name": "Amharic"
   }, 
   {
     "lang_code": "ar_ldc", 
-    "contributors": [
-      {
-        "full": "Nizar Habash", 
-        "last": "Habash", 
-        "first": "Nizar"
-      }, 
-      {
-        "full": "Dima Taji", 
-        "last": "Taji", 
-        "first": "Dima"
-      }
-    ], 
+    "contributors": [], 
     "lang_name": "Arabic-LDC"
-  }, 
-  {
-    "lang_code": "yue", 
-    "contributors": [
-      {
-        "full": "Kim Gerdes", 
-        "last": "Gerdes", 
-        "first": "Kim"
-      }, 
-      {
-        "full": "Herman Leung", 
-        "last": "Leung", 
-        "first": "Herman"
-      }
-    ], 
-    "lang_name": "Cantonese"
-  }, 
-  {
-    "lang_code": "zh_hk", 
-    "contributors": [
-      {
-        "full": "Kim Gerdes", 
-        "last": "Gerdes", 
-        "first": "Kim"
-      }, 
-      {
-        "full": "Herman Leung", 
-        "last": "Leung", 
-        "first": "Herman"
-      }
-    ], 
-    "lang_name": "Chinese-HK"
   }, 
   {
     "lang_code": "ko", 
@@ -65,67 +16,27 @@
   }, 
   {
     "lang_code": "kmr", 
-    "contributors": [
-      {
-        "full": "Memduh G\u00f6k\u0131rmak", 
-        "last": "G\u00f6k\u0131rmak", 
-        "first": "Memduh"
-      }
-    ], 
+    "contributors": [], 
     "lang_name": "Kurmanji"
   }, 
   {
-    "lang_code": "no_nynorsk", 
-    "contributors": [], 
-    "lang_name": "Norwegian-Nynorsk"
-  }, 
-  {
     "lang_code": "sr", 
-    "contributors": [
-      {
-        "full": "Tanja Samard\u017ei\u0107", 
-        "last": "Samard\u017ei\u0107", 
-        "first": "Tanja"
-      }, 
-      {
-        "full": "Nikola Ljube\u0161i\u0107", 
-        "last": "Ljube\u0161i\u0107", 
-        "first": "Nikola"
-      }
-    ], 
+    "contributors": [], 
     "lang_name": "Serbian"
   }, 
   {
     "lang_code": "so", 
-    "contributors": [
-      {
-        "full": "Morgan Nilsson", 
-        "last": "Nilsson", 
-        "first": "Morgan"
-      }
-    ], 
+    "contributors": [], 
     "lang_name": "Somali"
   }, 
   {
     "lang_code": "ckb", 
-    "contributors": [
-      {
-        "full": "Memduh G\u00f6k\u0131rmak", 
-        "last": "G\u00f6k\u0131rmak", 
-        "first": "Memduh"
-      }
-    ], 
+    "contributors": [], 
     "lang_name": "Sorani"
   }, 
   {
     "lang_code": "ur", 
-    "contributors": [
-      {
-        "full": "Riyaz Ahmad Bhat", 
-        "last": "Bhat", 
-        "first": "Riyaz Ahmad"
-      }
-    ], 
+    "contributors": [], 
     "lang_name": "Urdu"
   }
 ]
