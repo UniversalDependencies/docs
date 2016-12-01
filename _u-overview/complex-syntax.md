@@ -22,6 +22,25 @@ cc(went, and)
 
 Asyndetic coordination occurs when there is no overt coordinating conjunction.
 
+~~~ sdparse
+Veni , vidi , vici .
+conj(Veni, vidi)
+conj(Veni, vici)
+punct(vidi, ,-2)
+punct(vici, ,-4)
+~~~
+
+As a special case, the first conjunct may be implicit or part of an earlier sentence.
+
+~~~ sdparse
+And then we left .
+cc(left, And)
+~~~ sdparse
+
+### Ellipsis
+
+Coordination is often combined with _ellipsis_, where one or more of the normally obligatory constituents
+of a clause or omitted because they can be inferred from material in another conjunct. 
 
 ## Subordination
 
