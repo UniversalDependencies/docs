@@ -19,22 +19,22 @@ Examples:
 
 ~~~ conllu
 1	The	the	DET	_	Definite=Def	2	det	_	_
-2	dog	dog	NOUN	_	_	4	nsubj:pass	 _	_
-3	was	was	AUX	_	Tense=Past	4	aux:pass	 _	_
-4	chased	chase	VERB	_	_	0	ROOT	 _	_
-5	by	by	ADP	_	_	7	case	 _	_
-6	the	the	DET	_	_	7	det	 _	_
-7	cat	cat	NOUN	_	Definite=Def	4	obl	 _	_
-8	.	.	PUNCT	_	_	4	punct	 _	_
+2	dog	dog	NOUN	_	_	4	nsubj:pass	_	_
+3	was	was	AUX	_	Tense=Past	4	aux:pass	_	_
+4	chased	chase	VERB	_	_	0	ROOT	_	_
+5	by	by	ADP	_	_	7	case	_	_
+6	the	the	DET	_	_	7	det	_	_
+7	cat	cat	NOUN	_	Definite=Def	4	obl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
 ~~~
 
 ~~~ conllu
 1	Kučeto	kučeto	NOUN	_	Definite=Def	3	nsubj:pass	_	_
-2	se	se	PRON	_	_	3	expl:pass	 _	_
+2	se	se	PRON	_	_	3	expl:pass	_	_
 3	presledvaše	presledvaše	VERB	_	Tense=Past	0	ROOT	_	_
-4	ot	ot	ADP	_	_	5	case	 _	_
-5	kotkata	kotkata	NOUN	_	Definite=Def	3	obl	 _	_
-6	.	.	PUNCT	_	_	3	punct	 _	_
+4	ot	ot	ADP	_	_	5	case	_	_
+5	kotkata	kotkata	NOUN	_	Definite=Def	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
 ~~~
 
 ## What is needed for UD to be successful?
