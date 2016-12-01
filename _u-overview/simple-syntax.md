@@ -56,7 +56,7 @@ to the subject or not.
 
 ~~~ sdparse
 she is my mother
-nsubj(Jane, she)
+nsubj(mother, she)
 ~~~
 ~~~ sdparse
 она моя мать \n she my mother
