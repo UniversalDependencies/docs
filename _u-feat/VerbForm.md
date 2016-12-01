@@ -2,7 +2,22 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Conv">Conv</a></td>
+  <td><a href="#Fin">Fin</a></td>
+  <td><a href="#Gdv">Gdv</a></td>
+  <td><a href="#Ger">Ger</a></td>
+  <td><a href="#Inf">Inf</a></td>
+  <td><a href="#Part">Part</a></td>
+  <td><a href="#Sup">Sup</a></td>
+  <td><a href="#Vnoun">Vnoun</a></td>
+</tr>
+</table>
 
 Even though the name of the feature seems to suggest that it is used
 exclusively with [verbs](u-pos/VERB), it is not the case. Some verb
@@ -13,7 +28,7 @@ classified as verbs or as adjectives, depending on language and
 context. In both cases `VerbForm=Part` may be used to separate them
 from other verb forms or other types of adjectives.
 
-### `Fin`: finite verb
+### <a name="Fin">`Fin`</a>: finite verb
 
 Rule of thumb: if it has non-empty [Mood](), it is finite. But beware
 that some tagsets conflate verb forms and moods into one feature.
@@ -22,7 +37,7 @@ that some tagsets conflate verb forms and moods into one feature.
 
 * [en] _I <b>do</b>, he <b>does</b>_
 
-### `Inf`: infinitive
+### <a name="Inf">`Inf`</a>: infinitive
 
 Infinitive is the citation form of verbs in many languages. Unlike in
 English, it often has morphological form that is distinct from the
@@ -36,7 +51,7 @@ used as such (similar to the gerund in English).
 
 * [de] _ich muss <b>gehen</b>_ “I must <b>go</b>”
 
-### `Sup`: supine
+### <a name="Sup">`Sup`</a>: supine
 
 Supine is a rare verb form. It survives in some Slavic languages
 (Slovenian) and is used instead of infinitive as the argument of
@@ -53,7 +68,7 @@ after _vara_ (to be):
 * Past participle neuter: (The) apple is eaten = _Äpplet är ätet_
 * Past participle plural: (The) apples are eaten = _Äpplena är ätna_ 
 
-### `Part`: participle
+### <a name="Part">`Part`</a>: participle, verbal adjective
 
 Participle is a non-finite verb form that shares properties of verbs
 and adjectives. Its usage varies across languages. It may be used to
@@ -69,11 +84,14 @@ participles (Hindi) etc.
 * [en] _he could have <b>been prepared</b> if he had
   <b>forseen</b> it_; _I will be <b>driving</b> home_.
 
-### `Trans`: transgressive
+### <a name="Conv">`Conv`</a>: converb, transgressive, adverbial participle, verbal adverb
 
-The transgressive, also called adverbial participle, is a non-finite
+The converb, also called adverbial participle or transgressive, is a non-finite
 verb form that shares properties of verbs and adverbs. It appears
 e.g. in Slavic and Indo-Aryan languages.
+
+Note that this value was called `Trans` in UD v1 and it has been renamed `Conv`
+in UD v2.
 
 #### Examples
 
@@ -82,14 +100,44 @@ e.g. in Slavic and Indo-Aryan languages.
   _<b>udělavši</b> večeři, zavolala rodinu ke stolu_ "<b>having
   prepared</b> the dinner, she called her family to the table"
 
-### `Ger`: gerund
+### <a name="Gdv">`Gdv`</a>: gerundive
+
+Used in Latin and Ancient Greek. Not to confuse with gerund.
+
+### <a name="Ger">`Ger`</a>: gerund
 
 Gerund is a non-finite verb form that shares properties of verbs and
 nouns. In English it shares the morphological form with present
 participle, which may mean that the tagset will not distinguish it
 from the participle.
 
+Using `VerbForm=Ger` is discouraged and alternatives should be considered first
+because the term _gerund_ is rather confusing: in Spanish (and other Romance
+languages) it denotes the present participle and should be thus labeled
+`Tense=Pres|VerbForm=Part`; some Slavists use it to denote converbs (adverbial
+participles), which should be labeled `VerbForm=Conv`; and UD version 1
+recommended (inspired by English) to use it for verbal nouns, which in UD v2
+should use `VerbForm=Vnoun`.
+
+However, the feature is still available in UDv2 and can be used if the
+alternatives do not seem acceptable. The feature may be removed in future
+versions but comprehensive investigation has to be done first.
+
 #### Examples
 
 * [en] _I look forward to <b>seeing</b> you_; _he turns a blind
   eye to my <b>being</b> late_
+
+### <a name="Vnoun">`Vnoun`</a>: verbal noun, masdar
+
+Verbal nouns other than infinitives.
+Also called masdars by some authors, e.g. Haspelmath, 1995.
+
+#### Examples
+
+* [cs] _<b>dělání</b>_ "doing"
+
+### References
+
+* Haspelmath, Martin. 1995. The converb as a cross-linguistically valid category. _Converbs in Cross-Linguistic Perspective: Structure and Meaning of Adverbial Verb Forms – Adverbial Participles, Gerunds –,_ edited by Martin Haspelmath and Ekkehard König, Berlin: Mouton de Gruyter, Empirical Approaches to Language Typology, 1–56.
+
