@@ -15,6 +15,19 @@ morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a un
 inventory of categories and guidelines to facilitate consistent annotation of similar
 constructions across languages, while allowing language-specific extensions when necessary.
 
+Examples:
+
+~~~ conllu
+1    The   the    DET    _    _    2    det    _    _
+2    dog    dog    NOUN    _    _    4    nsubj:pass     _    _
+3    was    was    AUX    _    _    4    aux:pass     _    _
+4    chased    chase    VERB    _    _    0    ROOT     _    _
+5    by    by    ADP    _    _    7    case     _    _
+6    the    the    DET    _    _    7    det     _    _
+7    cat    cat    NOUN    _    _    4    obl     _    _
+8    .    .    PUNCT    _    _    4    punct     _    _
+~~~
+
 ## What is needed for UD to be successful?
 
 The secret to understanding the design and current success of UD is to realize that the design
