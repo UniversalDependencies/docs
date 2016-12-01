@@ -8,6 +8,14 @@ redirect_from:
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Neg">Neg</a></td>
+  <td><a href="#Pos">Pos</a></td>
+</tr>
+</table>
+
 Polarity is typically a feature of [verbs](u-pos/VERB),
 [adjectives](u-pos/ADJ), sometimes also [adverbs](u-pos/ADV) and
 [nouns](u-pos/NOUN) in languages that negate using bound
@@ -42,7 +50,7 @@ The `Polarity` feature can be also used to distinguish response
 
 Note: `Polarity` was called `Negative` in the version 1 of UD guidelines and it is renamed in version 2.
 
-### `Pos`: positive, affirmative
+### <a name="Pos">`Pos`</a>: positive, affirmative
 
 #### Examples
 
@@ -50,7 +58,7 @@ Note: `Polarity` was called `Negative` in the version 1 of UD guidelines and it 
 * [cs] _<b>velký</b>_ “big”
 * [en] _<b>yes</b>_
 
-### `Neg`: negative
+### <a name="Neg">`Neg`</a>: negative
 
 #### Examples
 
