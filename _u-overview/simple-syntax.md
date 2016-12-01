@@ -64,9 +64,16 @@ nsubj(мать, она)
 nsubj(mother, she)
 ~~~
 ~~~ sdparse
-she is happy
-nsubj(happy, she)
+she is nice
+nsubj(nice, she)
 ~~~
+~~~ sdparse
+она милая \n she nice
+nsubj(милая, она)
+nsubj(nice, she)
+~~~
+
+COMING SOON: Nonverbal predication and copulas across languages.
 
 ## Non-Core Dependents
 
