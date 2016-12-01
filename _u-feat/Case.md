@@ -8,38 +8,45 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td style="background-color:cornflowerblue;color:white"><strong>Core:</strong> </td>
+  <td colspan="3"><a href="#Abs">Abs</a></td>
+  <td colspan="4"><a href="#Acc">Acc</a></td>
+  <td colspan="3"><a href="#Erg">Erg</a></td>
+  <td colspan="4"><a href="#Nom">Nom</a></td>
+</tr>
+<tr>
+  <td colspan="2" style="background-color:cornflowerblue;color:white"><strong>Non-core:</strong> </td>
   <td><a href="#Abe">Abe</a></td>
-  <td><a href="#Abl">Abl</a></td>
-  <td><a href="#Abs">Abs</a></td>
-  <td><a href="#Acc">Acc</a></td>
-  <td><a href="#Add">Add</a></td>
-  <td><a href="#Ade">Ade</a></td>
-  <td><a href="#All">All</a></td>
   <td><a href="#Ben">Ben</a></td>
   <td><a href="#Cau">Cau</a></td>
   <td><a href="#Cmp">Cmp</a></td>
   <td><a href="#Com">Com</a></td>
   <td><a href="#Dat">Dat</a></td>
-  <td><a href="#Del">Del</a></td>
   <td><a href="#Dis">Dis</a></td>
-  <td><a href="#Ela">Ela</a></td>
   <td><a href="#Equ">Equ</a></td>
-  <td><a href="#Erg">Erg</a></td>
-  <td><a href="#Ess">Ess</a></td>
   <td><a href="#Gen">Gen</a></td>
-  <td><a href="#Ill">Ill</a></td>
-  <td><a href="#Ine">Ine</a></td>
   <td><a href="#Ins">Ins</a></td>
-  <td><a href="#Lat">Lat</a></td>
-  <td><a href="#Loc">Loc</a></td>
-  <td><a href="#Nom">Nom</a></td>
   <td><a href="#Par">Par</a></td>
-  <td><a href="#Sub">Sub</a></td>
-  <td><a href="#Sup">Sup</a></td>
   <td><a href="#Tem">Tem</a></td>
-  <td><a href="#Ter">Ter</a></td>
   <td><a href="#Tra">Tra</a></td>
   <td><a href="#Voc">Voc</a></td>
+</tr>
+<tr>
+  <td colspan="2" style="background-color:cornflowerblue;color:white"><strong>Local:</strong> </td>
+  <td><a href="#Abl">Abl</a></td>
+  <td><a href="#Add">Add</a></td>
+  <td><a href="#Ade">Ade</a></td>
+  <td><a href="#All">All</a></td>
+  <td><a href="#Del">Del</a></td>
+  <td><a href="#Ela">Ela</a></td>
+  <td><a href="#Ess">Ess</a></td>
+  <td><a href="#Ill">Ill</a></td>
+  <td><a href="#Ine">Ine</a></td>
+  <td><a href="#Lat">Lat</a></td>
+  <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Sub">Sub</a></td>
+  <td><a href="#Sup">Sup</a></td>
+  <td><a href="#Ter">Ter</a></td>
 </tr>
 </table>
 
