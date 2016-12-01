@@ -512,8 +512,19 @@ nsubj(left, she)
 advmod(left, suddenly)
 ~~~
 
-Note again that the use of the [u-dep/obl]() relation (instead of [u-dep/obj]() or [u-dep/iobj]()) only reflects that the nominal does not have the grammatical characteristics 
-COMING SOON: Special relations are used for vocatives ([vocative]()), dislocated dependents ([dislocated]()), and expletives ([expl]()).
+In addition to the general [u-dep/obl]() relation, there are three special relations that are used for non-core dependents of a predicate:
+
+* The [u-dep/vocative]() relation is used to mark a dialogue participant addressed in a text (common in conversations, dialogue, emails, newsgroup postings, etc.). The relation links the addressee's name to its host sentence. A vocative commonly co-occurs with a null subject, as in the first example below. If the nominal is clearly vocative in intent, the preference is to use the [u-dep/vocative]() relation.
+
+~~~ sdparse
+Guys , take it easy!
+vocative(take, Guys)
+~~~
+
+~~~ sdparse
+Marie , comment vas - tu ?
+vocative(vas, Marie)
+~~~
 
 ## Function Word Dependents
 
