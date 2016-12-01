@@ -3,6 +3,8 @@ layout: base
 title:  'Language-specific features'
 ---
 
+<strong><font color="red">Note:</font></strong> Since the description of language-specific features and values depends both on the universal guidelines and on the empirical facts of specific treebanks, it may not be fully updated to v2 until the first treebank release in March 2017. 
+
 # Additional language-specific values for universal features
 
 The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there.

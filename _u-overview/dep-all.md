@@ -3,11 +3,12 @@ layout: base
 title:  'Universal Dependencies'
 generated: 'true'
 permalink: u/dep/all.html
+udver: '2'
 ---
 
 # Universal Dependencies
 
-The following table lists the 36 universal syntactic relations used in UD v2. It is a revised version of the relations 
+The following table lists the 37 universal syntactic relations used in UD v2. It is a revised version of the relations 
 originally described in [*Universal Stanford Dependencies: A cross-linguistic typology*](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf) (de Marneffe *et al.* 2014). 
 
 The upper part of the table follows the main organizing principles of the UD taxonomy:

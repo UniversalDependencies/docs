@@ -22,13 +22,13 @@ are the same, but where the concrete grammatical realization varies.
 ~~~ conllu
 # visual-style 4 2 nsubj:pass	color:blue
 # visual-style 4 7 obl	color:blue
-1	The	the	DET	_	Definite=Def	2	det	_	_
-2	dog	dog	NOUN	_	_	4	nsubj:pass	_	_
-3	was	was	AUX	_	Tense=Past	4	aux:pass	_	_
-4	chased	chase	VERB	_	_	0	ROOT	_	_
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	dog	dog	NOUN	_	Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	chased	chase	VERB	_	Tense=Past|VerbForm=Part	0	ROOT	_	_
 5	by	by	ADP	_	_	7	case	_	_
-6	the	the	DET	_	_	7	det	_	_
-7	cat	cat	NOUN	_	Definite=Def	4	obl	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	cat	cat	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	_
 8	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -36,11 +36,11 @@ are the same, but where the concrete grammatical realization varies.
 ~~~ conllu
 # visual-style 3 1 nsubj:pass	color:blue
 # visual-style 3 5 obl	color:blue
-1	Kučeto	kučeto	NOUN	_	Definite=Def	3	nsubj:pass	_	_
-2	se	se	PRON	_	_	3	expl:pass	_	_
-3	presledvaše	presledvaše	VERB	_	Tense=Past	0	root	_	_
-4	ot	ot	ADP	_	_	5	case	_	_
-5	kotkata	kotkata	NOUN	_	Definite=Def	3	obl	_	_
+1	Кучето	куче	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
+2	се	се	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
+3	преследваше	преследвам	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	от	от	ADP	_	_	5	case	_	_
+5	котката	котка	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -48,10 +48,10 @@ are the same, but where the concrete grammatical realization varies.
 ~~~ conllu
 # visual-style 3 1 nsubj:pass	color:blue
 # visual-style 3 4 obl	color:blue
-1	Pes	pes	NOUN	_	_	3	nsubj:pass	_	_
-2	byl	byl	AUX	_	Tense=Past	3	aux:pass	_	_
-3	honěn	honěn	VERB	_	_	0	root	_	_
-4	kočkou	kočkou	NOUN	_	Case=Ins	3	obl	_	_
+1	Pes	pes	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+2	byl	být	AUX	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	aux:pass	_	_
+3	honěn	honit	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+4	kočkou	kočka	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -59,10 +59,10 @@ are the same, but where the concrete grammatical realization varies.
 ~~~ conllu
 # visual-style 2 1 nsubj:pass	color:blue
 # visual-style 2 4 obl	color:blue
-1	Hunden	hund	NOUN	_	_	2	nsubj:pass	_	_
+1	Hunden	hund	NOUN	_	Definite=Def	2	nsubj:pass	_	_
 2	jagades	jaga	VERB	_	Tense=Past|Voice=Pass	0	root	_	_
 3	av	av	ADP	_	_	4	case	_	_
-4	katten	katt	NOUN	_	_	2	obl	_	_
+4	katten	katt	NOUN	_	Definite=Def	2	obl	_	_
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
