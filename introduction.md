@@ -16,7 +16,7 @@ inventory of categories and guidelines to facilitate consistent annotation of si
 constructions across languages, while allowing language-specific extensions when necessary.
 
 This is illustrated in the following parallel examples from English, Bulgarian, Czech and Swedish, 
-where the main grammatical relations involving a passive verb, a nominal subject and an obliqe agent
+where the main grammatical relations involving a passive verb, a nominal subject and an oblique agent
 are the same, but where the concrete grammatical realization varies.
 
 ~~~ conllu
