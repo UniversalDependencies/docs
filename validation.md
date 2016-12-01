@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-01T00:29:25Z">2016-12-01T00:29:25 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-01T00:51:57Z">2016-12-01T00:51:57 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1596,28 +1596,71 @@ Morpho errors: 110
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:53:39Z">2016-09-19T07:53:39 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:51:54Z">2016-12-01T00:51:54 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
 
-*** PASSED ***
+[Line                   755]: Unknown attribute-value pair VerbForm=Trans
+[Line                   921]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1271]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1672]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2419]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2848]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3418]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3501]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4364]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4466]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4708]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4788]: Unknown attribute-value pair Aspect=Freq
+*** FAILED *** with 12 errors
+Morpho errors: 12
 
 
 ******************
 
-python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-test.conllu
 
-*** PASSED ***
+[Line                   80]: Unknown attribute-value pair VerbForm=Trans
+[Line                   611]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1979]: Unknown attribute-value pair Aspect=Freq
+[Line                   2214]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2867]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3397]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4037]: Unknown attribute-value pair VerbForm=Trans
+[Line                   4390]: Unknown attribute-value pair VerbForm=Trans
+*** FAILED *** with 8 errors
+Morpho errors: 8
 
 
 ******************
 
-python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
 
-*** PASSED ***
+[Line                   532]: Unknown attribute-value pair VerbForm=Trans
+[Line                   547]: Unknown attribute-value pair VerbForm=Trans
+[Line                   950]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1115]: Unknown attribute-value pair VerbForm=Trans
+[Line                   1798]: Unknown attribute-value pair VerbForm=Trans
+[Line                   2444]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3099]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3150]: Unknown attribute-value pair VerbForm=Trans
+[Line                   3672]: Unknown attribute-value pair VerbForm=Trans
+[Line                   5432]: Unknown attribute-value pair VerbForm=Trans
+[Line                   5587]: Unknown attribute-value pair Aspect=Freq
+[Line                   5591]: Unknown attribute-value pair Aspect=Freq
+[Line                   5652]: Unknown attribute-value pair VerbForm=Trans
+[Line                   7044]: Unknown attribute-value pair VerbForm=Trans
+[Line                   7137]: Unknown attribute-value pair VerbForm=Trans
+[Line                   7444]: Unknown attribute-value pair VerbForm=Trans
+[Line                   7449]: Unknown attribute-value pair VerbForm=Trans
+[Line                   7565]: Unknown attribute-value pair Aspect=Freq
+[Line                   7710]: Unknown attribute-value pair VerbForm=Trans
+...suppressing further errors regarding Morpho
+*** FAILED *** with 73 errors
+Morpho errors: 73
 
 
 ******************
