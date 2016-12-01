@@ -9,7 +9,7 @@ The following features are included in the <a href="u/feat/index.html">universal
 It is likely that these values will be included in future versions of the universal set.
 
 ## Aspect
-* [u-feat/Aspect]()` = Freq`: frequentative aspect in [Hungarian](hu-feat/Aspect): _üt_ “hit” – _ütöget_ “hit several times”
+* [u-feat/Aspect]()` = Freq`: in UD v2 this should be changed to `Aspect=Iter`, (iterative), which is now a universal feature. [Hungarian](hu-feat/Aspect): _üt_ “hit” – _ütöget_ “hit several times”
 
 ## Definite
 * [u-feat/Definite]()` = 2`: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite). Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am watching a film”) and a second person object (_nézlek téged_ “I am watching you”).
@@ -17,18 +17,10 @@ It is likely that these values will be included in future versions of the univer
 ## Degree
 * [u-feat/Degree]()` = Dim`: diminutive (used for nouns e.g. in [Dutch](nl-feat/Degree): _stoeltje, huisje, nippertje_)
 
-## PronType
-* [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).
-* `PronType = Clit`: used for clitic pronouns in Italian, e.g. _<b>Si</b> è rotto_ "It has broken"
-
 ## Tense
 * [u-feat/Tense]()` = Aor`: aorist (as opposed to `Past`) in [Ancient Greek](grc-feat/Tense). Note that other languages may have a past tense that they traditionally call aorist but they mark it using the normal `Past` value because the other past tenses have their own special values. [Bulgarian](bg-feat/Tense) is an example: Bulgarian aorist is labeled `Past` and imperfect past is labeled `Imp`.
 
-## VerbForm
-* [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in [Latin](la-feat/VerbForm).
-
 ## Voice
-* [u-feat/Voice]()` = Mid`: middle voice in [Ancient Greek](grc-feat/Voice). (The mediopassive voice can be expressed as `Voice=Mid,Pass`.)
 * `Voice = Int`: intensive voice/aspect (the PIEL binyan) in Hebrew.
 
 
@@ -66,15 +58,6 @@ There are automatically generated approximate
 <a href="tagset-conversion/">conversion tables</a>
 from existing tagsets of various languages to the universal part-of-speech tags and universal + language-specific features.
 
-## Abbr
-* [Arabic values](ar-feat/Abbr): Yes
-* [Czech values](cs-feat/Abbr): Yes
-* [Estonian values](et-feat/Abbr): Yes
-* [Finnish values](fi-feat/Abbr): Yes
-* [Latin values](la-feat/Abbr): Yes
-* [Slovenian values](sl-feat/Abbr): Yes
-* [Interset](ext-feat/Abbr): Yes
-
 ## AdpType
 * [Ancient Greek values](grc-feat/AdpType): Prep
 * [Arabic values](ar-feat/AdpType): Prep
@@ -101,15 +84,6 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Echo
 * [Interset](ext-feat/Echo): Rdp, Ech
-
-## Foreign
-* [Arabic values](ar-feat/Foreign): Foreign
-* [Czech values](cs-feat/Foreign): Foreign, Fscript, Tscript
-* [Dutch values](nl-feat/Foreign): Foreign
-* [Finnish values](fi-feat/Foreign): Foreign, Fscript
-* [Slovenian values](sl-feat/Foreign): Yes
-* [Spanish values](es-feat/Foreign): Foreign, Fscript
-* [Interset](ext-feat/Foreign): Foreign, Fscript, Tscript
 
 ## Gender[dat]
 * [Basque values](ext-feat/ErgDatGender): Masc, Fem
@@ -199,21 +173,18 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * <a href="fi/feat/Person-psor.html">Finnish values</a>: 1, 2, 3
 * [Interset](ext-feat/PossPerson): 1, 2, 3
 
-## Polite
-* [Basque values](ext-feat/Polite): Inf, Pol
-* [Spanish values](es-feat/Polite): Pol
-* [Tamil values](ta-feat/Polite): Pol
-* [Interset](ext-feat/Polite): Inf, Pol
-
 ## Polite[abs]
+* Note that unlayered [Polite]() is now a universal feature and the values of the layered counterparts should be changed to `Infm` and `Form`.
 * [Basque values](ext-feat/AbsErgDatPolite): Inf, Pol
 * [Interset](ext-feat/AbsErgDatPolite): Inf, Pol
 
 ## Polite[erg]
+* Note that unlayered [Polite]() is now a universal feature and the values of the layered counterparts should be changed to `Infm` and `Form`.
 * [Basque values](ext-feat/AbsErgDatPolite): Inf, Pol
 * [Interset](ext-feat/AbsErgDatPolite): Inf, Pol
 
 ## Polite[dat]
+* Note that unlayered [Polite]() is now a universal feature and the values of the layered counterparts should be changed to `Infm` and `Form`.
 * [Basque values](ext-feat/AbsErgDatPolite): Inf, Pol
 * [Interset](ext-feat/AbsErgDatPolite): Inf, Pol
 
