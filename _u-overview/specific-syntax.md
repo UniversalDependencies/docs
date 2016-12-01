@@ -115,7 +115,7 @@ They will do it if they want to .
 
 nsubj(will-2, They-1)
 aux(do-3, will-2)
-obj(it-4, do-3)
+obj(do-3, it-4)
 advcl(do-3, want-7)
 nsubj(want-7, they-6)
 xcomp(want-7, to-8)
