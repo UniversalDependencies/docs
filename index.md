@@ -49,7 +49,7 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 {% include at_glance.html %}
 </div>
 
-<h2 style="margin-top:0">Upcoming UD Treebanks</h2>
+<h2 style="margin-top: 15px">Upcoming UD Treebanks</h2>
 
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance_empty.html %}
