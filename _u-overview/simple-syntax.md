@@ -19,12 +19,12 @@ nsubj(left, she)
 ~~~ sdparse
 she left a note
 nsubj(left, she)
-dobj(left, note)
+obj(left, note)
 ~~~
 ~~~ sdparse
 she left him a note
 nsubj(left, she)
-dobj(left, note)
+obj(left, note)
 iobj(left, him)
 ~~~
 
