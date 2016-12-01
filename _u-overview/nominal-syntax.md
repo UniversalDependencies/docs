@@ -29,7 +29,7 @@ obj(såg, nya)
 det(nya, den)
 ~~~
 
-## Non-Core Dependents
+## Modifier Dependents
 
 The head of a nominal phrase does not take any core arguments but may be associated with different types of modifiers:
 
@@ -80,3 +80,8 @@ case(Chair-5, of-3)
 det(Chair-5, the-4)
 ~~~
 
+~~~sdparse
+sān gè xuéshēng \n three clf student
+nummod(xuéshēng, sān)
+clf(sān, gè)
+~~~
