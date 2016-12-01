@@ -19,7 +19,7 @@ udver: '2'
   * [General principles](u/overview/syntax.html)
   * Basic dependencies
     * [Simple clauses](u/overview/simple-syntax.html)
-    * [Nominal phrases](u/overview/nominal-syntax.html)
+    * [Nominals](u/overview/nominal-syntax.html)
     * [Complex clauses](u/overview/complex-syntax.html)
     * [Other constructions](u/overview/specific-syntax.html)
   * [Enhanced dependencies](u/overview/enhanced-syntax.html)
