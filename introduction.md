@@ -51,11 +51,11 @@ are the same, but where the concrete grammatical realization varies.
 ~~~
 
 ~~~ conllu
-1 Hunden hund NOUN _ _ 2 nsubj:pass _ _
-2 jagades jaga VERB _ Tense=Past|Voice=Pass 0 root _ _
-3 av av ADP _ _ 4 case _ _
-4 katten katt NOUN _ _ 2 obl _ _
-5 . . PUNCT _ _ 2 punct _ _
+1	Hunden	hund	NOUN	_	_	2	nsubj:pass	_	_
+2	jagades	jaga	VERB	_	Tense=Past|Voice=Pass	0	root	_	_
+3	av	av	ADP	_	_	4	case	_	_
+4	katten	katt	NOUN	_	_	2	obl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
