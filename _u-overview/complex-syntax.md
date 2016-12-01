@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Basic Dependencies'
-permalink: u/overview/specific-syntax.html
+permalink: u/overview/complex-syntax.html
 udver: '2'
 ---
 
