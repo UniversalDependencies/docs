@@ -7,10 +7,11 @@ udver: '2'
 
 # Simple Clauses
 
-Simple clauses consist of a predicate together with its nominal core arguments (and may contain 
-additional dependents of both the predicate and its arguments).
+The UD annotation assumes the clause as one of the basic structures that we expect to find in all languages. A simple clause minimally consists of a predicate together with its core argument dependents, but may be extended with oblique modifiers. Core arguments are typically nominals, while oblique modifiers are either (oblique) nominals or adverbial modifiers. (In [complex clauses](complex-syntax.html), both core arguments and oblique modifiers can also be realized as subordinate clauses.) Finally, the predicate may be associated with function words that express different types of grammatical information such as tense, mood, aspect, voice, evidentiality, or type of subordination. 
 
-## Verbal Clauses
+## Intransitive and Transitive Clauses
+
+In most clauses, the predicate takes the form of a verb, which may be intransitive or transitive.
 
 ~~~ sdparse
 she left
@@ -21,6 +22,12 @@ she left a note
 nsubj(left, she)
 obj(left, note)
 ~~~
+
+An intransitive verb takes a single argument (usually referred to as S in the literature on linguistic typology) with the [u-dep/nsubj]() relation. A transitive verb in addition takes an argument with the [u-dep/obj]() relation. When deciding which relation to use with which argument in a transitive clause, the [u-dep/nsubj()] relation should be used with the argument that most resembles the proto-agent (often called A in linguistic typology) and that satisfies additional language-internal criteria for subjecthood based on case-marking, agreement and/or linear position with respect to the predicate. The [u-dep/obj]() relation should be used for the argument that most resembles the proto-patient (often called O or P in linguistic typology) and that satisfies relevant language-internal criteria. Note that, while case-marking (whether morphological or analytic) can provide important evidence in specific languages, case alignment should not be used to decide the assignment of core argument roles. Thus, in ergative languages, the patient-like argument of a transitive verb (O/P) will take the the [u-dep/obj]() relation despite the fact that it carries the same case marking as the [u-dep/nsubj]() argument (S) of an intranstive verb.
+
+Some languages allow extended transitive clauses, where more than two dependents are realized as core arguments. The additional core arguments then receive the [u-dep/iobj]() relation (for "indirect object"), while the [u-dep/obj]() relation 
+is reserved for the argument most patient-like non-subject argument. The criterion for deciding whether an additional dependent is a core argument is whether it has the typical encoding of a core argument with respect to case-marking, agreement and word order. For example, the English double object construction qualifies as an extended transitive clause because all three nominals appear without prepositions:
+
 ~~~ sdparse
 she left him a note
 nsubj(left, she)
@@ -28,15 +35,24 @@ obj(left, note)
 iobj(left, him)
 ~~~
 
-An intransitive verb takes a single argument with the [u-dep/nsubj]() relation.
-A transitive verb in addition takes an argument with the [u-dep/obj]() relation.
-A ditransitive verb further adds an argument with the [u-dep/iobj]() relation. 
+By contrast, the alternative construction where the recipient role is realized by a prepositional phrase is _not_ an extended transitive by our criteria, and the third participant should therefore be annotated as oblique in this case.
 
-Note that the assignment of core argument relations is independent of case marking (whether morphological or analytic). 
-Thus, in ergative languages, the patient-like argument of a transitive verb will take the he [u-dep/obj]() relation 
-despite the fact that it carries the same case marking as the [u-dep/nsubj]() argument of an intranstive verb.
+~~~ sdparse
+she left a note to him
+nsubj(left, she)
+obj(left, note)
+obl(left, him)
+~~~
+
+It follows that the semantic role cannot (by itself) be used to determine whether a dependent is core or not, nor can its status as an obligatory dependent. UD does not make a distinction between (obligatory) arguments and (optional) adjuncts, and oblique dependents can be either arguments or adjuncts. 
+
+Note, finally, that not all languages allow extended transitives (and some do only in connection with special valency-changing operations such as applicatives). Hence, the [u-dep/iobj]() relation will not be used in all languages.
 
 ## Nonverbal Clauses
+
+A nonverbal predicate (nominal or adjective) takes a single argument with the [u-dep/nsubj]() relation.
+The core argument relation is the same regardless of whether there is an overt copula linking the predicate
+to the subject or not.
 
 ~~~ sdparse
 she is Jane
@@ -47,9 +63,6 @@ she is happy
 nsubj(happy, she)
 ~~~
 
-A nonverbal predicate (nominal or adjective) takes a single argument with the [u-dep/nsubj]() relation.
-The core argument relation is the same regardless of whether there is an overt copula linking the predicate
-to the subject or not.
 
 ## Non-Core Dependents
 
@@ -81,7 +94,7 @@ nsubj(left, she)
 advmod(left, suddenly)
 ~~~
 
-Special relations are used for vocatives ([vocative]()), dislocated dependents ([dislocated]()), and expletives ([expl]()).
+COMING SOON: Special relations are used for vocatives ([vocative]()), dislocated dependents ([dislocated]()), and expletives ([expl]()).
 
 ## Function Word Dependents
 
@@ -142,5 +155,5 @@ obl:agent(left, her)
 obl(left, table)
 ~~~
 
-<!--ADD OTHER VALENCY-CHANGING OPERATIONS-->
+COMING SOON: Other valency-changing operations.
 
