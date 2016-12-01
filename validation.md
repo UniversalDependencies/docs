@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-01T01:06:13Z">2016-12-01T01:06:13 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-01T01:12:49Z">2016-12-01T01:12:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3033,62 +3033,62 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:27:57Z">2016-12-01T00:27:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:12:45Z">2016-12-01T01:12:45 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
 
+[Line                   76]: Unknown attribute-value pair Evidentiality=Nfh
+[Line                   127]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   190]: Unknown attribute-value pair VerbForm=Trans
 [Line                   195]: Unknown attribute-value pair VerbForm=Trans
 [Line                   215]: Unknown attribute-value pair VerbForm=Trans
 [Line                   283]: Unknown attribute-value pair VerbForm=Trans
+[Line                   360]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   371]: Unknown attribute-value pair VerbForm=Trans
 [Line                   382]: Unknown attribute-value pair VerbForm=Trans
+[Line                   470]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   517]: Unknown attribute-value pair VerbForm=Trans
 [Line                   562]: Unknown attribute-value pair VerbForm=Trans
 [Line                   599]: Unknown attribute-value pair VerbForm=Trans
+[Line                   636]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   717]: Unknown attribute-value pair VerbForm=Trans
 [Line                   733]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1204]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1205]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1256]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1328]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1374]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1377]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1379]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1527]: Unknown attribute-value pair VerbForm=Trans
+[Line                   753]: Unknown attribute-value pair Evidentiality=Nfh
+[Line                   1046]: Unknown attribute-value pair Evidentiality=Nfh
+[Line                   1050]: Unknown attribute-value pair Evidentiality=Nfh
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 138 errors
-Morpho errors: 138
+*** FAILED *** with 232 errors
+Morpho errors: 232
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-test.conllu
 
+[Line                   30]: Unknown attribute-value pair Evidentiality=Nfh
+[Line                   38]: Unknown attribute-value pair Evidentiality=Nfh
+[Line                   48]: Unknown attribute-value pair Evidentiality=Nfh
+[Line                   59]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   100]: Unknown attribute-value pair VerbForm=Trans
+[Line                   109]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   144]: Unknown attribute-value pair VerbForm=Trans
 [Line                   210]: Unknown attribute-value pair VerbForm=Trans
+[Line                   368]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   496]: Unknown attribute-value pair VerbForm=Trans
+[Line                   542]: Unknown attribute-value pair Evidentiality=Nfh
+[Line                   600]: Unknown attribute-value pair Evidentiality=Nfh
+[Line                   604]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   639]: Unknown attribute-value pair VerbForm=Trans
+[Line                   705]: Unknown attribute-value pair Evidentiality=Nfh
+[Line                   708]: Unknown attribute-value pair Evidentiality=Nfh
+[Line                   752]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   767]: Unknown attribute-value pair VerbForm=Trans
-[Line                   835]: Unknown attribute-value pair VerbForm=Trans
-[Line                   894]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1218]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1399]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1517]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1557]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1703]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1779]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1788]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1810]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1908]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1974]: Unknown attribute-value pair VerbForm=Trans
-[Line                   2031]: Unknown attribute-value pair VerbForm=Trans
+[Line                   777]: Unknown attribute-value pair Evidentiality=Nfh
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 105 errors
-Morpho errors: 105
+*** FAILED *** with 198 errors
+Morpho errors: 198
 
 
 ******************
@@ -3098,25 +3098,25 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJ
 [Line                   80]: Unknown attribute-value pair VerbForm=Trans
 [Line                   135]: Unknown attribute-value pair VerbForm=Trans
 [Line                   172]: Unknown attribute-value pair VerbForm=Trans
+[Line                   224]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   362]: Unknown attribute-value pair VerbForm=Trans
+[Line                   381]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   385]: Unknown attribute-value pair VerbForm=Trans
+[Line                   596]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   695]: Unknown attribute-value pair VerbForm=Trans
+[Line                   697]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   721]: Unknown attribute-value pair VerbForm=Trans
+[Line                   769]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   784]: Unknown attribute-value pair VerbForm=Trans
 [Line                   810]: Unknown attribute-value pair VerbForm=Trans
 [Line                   900]: Unknown attribute-value pair VerbForm=Trans
 [Line                   985]: Unknown attribute-value pair VerbForm=Trans
+[Line                   987]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   1023]: Unknown attribute-value pair VerbForm=Trans
 [Line                   1054]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1255]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1361]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1482]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1548]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1598]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1606]: Unknown attribute-value pair VerbForm=Trans
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 563 errors
-Morpho errors: 563
+*** FAILED *** with 1013 errors
+Morpho errors: 1013
 
 
 ******************
@@ -3171,7 +3171,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:29:25Z">2016-12-01T00:29:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:12:49Z">2016-12-01T01:12:49 zulu</time></span>
 </div>
 <div>
 <pre>
