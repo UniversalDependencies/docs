@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Universal Dependencies'
-udver: 2
+udver: '2'
 ---
 
 # How to contribute to UD
