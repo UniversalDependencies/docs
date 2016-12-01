@@ -81,6 +81,8 @@ nsubj(left, she)
 advmod(left, suddenly)
 ~~~
 
+Special relations are used for vocatives ([vocative]()), dislocated dependents ([dislocated]()), and expletives ([expl]()).
+
 ## Function Word Dependents
 
 In addition to core and non-core dependents, the predicate of a clause may be modified by function words:
