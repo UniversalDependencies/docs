@@ -1,16 +1,5 @@
 [
   {
-    "lang_code": "am", 
-    "contributors": [
-      {
-        "full": "Binyam Ephrem", 
-        "last": "Ephrem", 
-        "first": "Binyam"
-      }
-    ], 
-    "lang_name": "Amharic"
-  }, 
-  {
     "lang_code": "grc", 
     "contributors": [
       {
@@ -57,22 +46,6 @@
       }
     ], 
     "lang_name": "Arabic"
-  }, 
-  {
-    "lang_code": "ar_ldc", 
-    "contributors": [
-      {
-        "full": "Nizar Habash", 
-        "last": "Habash", 
-        "first": "Nizar"
-      }, 
-      {
-        "full": "Dima Taji", 
-        "last": "Taji", 
-        "first": "Dima"
-      }
-    ], 
-    "lang_name": "Arabic-LDC"
   }, 
   {
     "lang_code": "eu", 
@@ -835,22 +808,6 @@
     "lang_name": "Kazakh"
   }, 
   {
-    "lang_code": "ko", 
-    "contributors": [], 
-    "lang_name": "Korean"
-  }, 
-  {
-    "lang_code": "kmr", 
-    "contributors": [
-      {
-        "full": "Memduh G\u00f6k\u0131rmak", 
-        "last": "G\u00f6k\u0131rmak", 
-        "first": "Memduh"
-      }
-    ], 
-    "lang_name": "Kurmanji"
-  }, 
-  {
     "lang_code": "la", 
     "contributors": [
       {
@@ -1186,22 +1143,6 @@
     "lang_name": "Sanskrit"
   }, 
   {
-    "lang_code": "sr", 
-    "contributors": [
-      {
-        "full": "Tanja Samard\u017ei\u0107", 
-        "last": "Samard\u017ei\u0107", 
-        "first": "Tanja"
-      }, 
-      {
-        "full": "Nikola Ljube\u0161i\u0107", 
-        "last": "Ljube\u0161i\u0107", 
-        "first": "Nikola"
-      }
-    ], 
-    "lang_name": "Serbian"
-  }, 
-  {
     "lang_code": "sk", 
     "contributors": [
       {
@@ -1258,28 +1199,6 @@
       }
     ], 
     "lang_name": "Slovenian-SST"
-  }, 
-  {
-    "lang_code": "so", 
-    "contributors": [
-      {
-        "full": "Morgan Nilsson", 
-        "last": "Nilsson", 
-        "first": "Morgan"
-      }
-    ], 
-    "lang_name": "Somali"
-  }, 
-  {
-    "lang_code": "ckb", 
-    "contributors": [
-      {
-        "full": "Memduh G\u00f6k\u0131rmak", 
-        "last": "G\u00f6k\u0131rmak", 
-        "first": "Memduh"
-      }
-    ], 
-    "lang_name": "Sorani"
   }, 
   {
     "lang_code": "es", 
@@ -1463,17 +1382,6 @@
       }
     ], 
     "lang_name": "Ukrainian"
-  }, 
-  {
-    "lang_code": "ur", 
-    "contributors": [
-      {
-        "full": "Riyaz Ahmad Bhat", 
-        "last": "Bhat", 
-        "first": "Riyaz Ahmad"
-      }
-    ], 
-    "lang_name": "Urdu"
   }, 
   {
     "lang_code": "ug", 
