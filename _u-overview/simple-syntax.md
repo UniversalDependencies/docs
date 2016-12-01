@@ -81,6 +81,41 @@ nsubj(left, she)
 advmod(left, suddenly)
 ~~~
 
+## Function Word Dependents
+
+In addition to core and non-core dependents, the predicate of a clause may be modified by function words:
+
+1. An `aux` modifies a verbal predicate by adding information relating to tense, aspect, mood, voice, or evidentiality.
+2. A `cop` links a nonverbal predicate to its subject and may add information relating to tense, aspect, mood, voice, or evidentiality.
+3. A `mark` indicates that the predicate heads a (specific type of) subordinate clause.
+
+~~~ sdparse
+she has left
+nsubj(left, she)
+aux(left, has)
+~~~
+~~~ sdparse
+she is happy
+nsubj(happy, she)
+cop(happy, is)
+~~~
+~~~ sdparse
+she has been happy
+nsubj(happy, she)
+cop(happy, been)
+aux(happy, has)
+~~~
+~~~ sdparse
+( she knows ) that it is raining
+ccomp(knows, raining)
+mark(raining, that)
+~~~
+~~~ sdparse
+( she left ) because it was raining
+advcl(left, raining)
+mark(raining, because)
+~~~
+
 ## Valency-Changing Operations
 
 If passivization involves the promotion of an argument to subject position, then this argument can be 
