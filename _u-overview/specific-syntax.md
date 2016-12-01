@@ -1,23 +1,16 @@
 ---
 layout: base
-title:  'Basic Dependencies'
+title:  'Other Constructions'
 permalink: u/overview/specific-syntax.html
 ---
 
-# Basic Dependencies
+# Other Constructions
 
-This section will contain detailed discussion of particular linguistic constructions of interest, covering best practices for how to annotate them cross-linguistically. It is still a work in progress.  At the moment, you can also see:
+This document contains detailed discussion of particular linguistic constructions that fall outside (or cut across) the main categories of simple clause, complex clauses, and nominal phrases.
+
+## Coordination
 
 * Coordination: currently described under [u-dep/conj]()
-* Direct and reported speech: currently described under [u-dep/parataxis]()
-* Choices for representing repeated arguments, particularly for clitic doubling, are described under [u-dep/expl]()
-
-
-
-
-## Adjectival and adverbial constructions
-
-...
 
 
 ### Comparatives
@@ -235,7 +228,12 @@ mwe(more, than)
 advmod(year, more)
 ~~~
 
-## Clause-external elements
+## Multiword Expressions
+
+
+## Loose Joining Relations and Clause-External Elements
+
+* Direct and reported speech: currently described under [u-dep/parataxis]()
 
 ### Feedback words
 
@@ -252,36 +250,3 @@ However, when the feedback is expressed by a full clause instead of a feedback w
 I agree , we should apply for membership .
 parataxis(agree, apply)
 ~~~
-
-## Ellipsis
-
-Ellipsis means that there is something missing in the sentence.
-Something that has been omitted from the surface form, although it is understood by both the speaker and the listener.
-Various phenomena can be classified as ellipsis;
-the most important and difficult are those where the missing word has dependents.
-Where do we attach these orphans to?
-
-Several different solutions can be found in treebanks.
-One of them is to include an empty node (labeled `NULL`, `#Fantom` etc.) that represents the missing word.
-Orphans are then attached to the empty node with their real dependency relation labels.
-Such analysis would be linguistically adequate but it would violate our principle that dependencies exist
-between real syntactic words. (It would also make parsing more difficult.)
-We do not insert empty nodes.
-
-If empty nodes are not an option, some treebanks attach all orphans to the grandparent,
-i.e. parent of the missing parent node. Then they may
-
-- keep the labels they would have if attached to the missing parent
-- get a special label such as the `ExD` in Prague-style treebanks
-- combine both (in the Danish treebank, the original labels are surrounded by angle brackets to indicate that this is not the real parent)
-
-Another possibility is that one of the orphans gets promoted to the place of the missing parent
-and the other orphans are attached to it.
-This approach is used in Universal Dependencies when a main verb is missing and its auxiliary is promoted:
-_I did not solve the problem but he did today._
-
-A special case of ellipsis arises in coordinate clauses that share the same verb,
-and the verb is not repeated in the second clause:
-_John bought a car and Peter a bike._
-Universal Dependencies annnotate such cases using the [u-dep/remnant]() relation
-(for more details see there).
