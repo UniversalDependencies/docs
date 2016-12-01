@@ -206,7 +206,10 @@ if __name__=="__main__":
     parser = argparse.ArgumentParser(description='generates the index page')
     parser.add_argument('--ud-data', required=True, help='Where is the UD data, so I can grab the readmes? (DIRECTORY)')
     parser.add_argument('--ldict', default="../_data/ldata.json", help='Where to write the language dict file? (Default %(default)s)')
+    parser.add_argument('--empty', default=False, action='store_true', help='Generate for empty treebanks')
     args = parser.parse_args()
+
+    subset = SUBSET_NONEMPTY if not args.empty else SUBSET_EMPTY
 
     a_data,ldict=gen_table(args)
     print a_data.getvalue()
