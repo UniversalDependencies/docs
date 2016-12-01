@@ -12,12 +12,11 @@ We always intended the Universal Dependencies representation to be used in shall
 
 _Enhanced_ UD graphs may contain some or all of the following enhancements, which are described in the sections below.
 
-* Null nodes for elided predicates
-* Propagation of conjuncts
-* Additional subject relations for control and raising constructions
-* Coreference in relative clause constructions 
-* Modifier labels that contain the preposition or other case-marking information  
-
+* [Null nodes for elided predicates](#ellipsis)
+* [Additional subject relations for control and raising constructions](#controlledraised-subjects)
+* [Propagation of conjuncts](#propagation-of-conjuncts)
+* [Coreference in relative clause constructions](#relative-clauses)
+* [Modifier labels that contain the preposition or other case-marking information](#case-information)
 
 Note that the _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., the graph is not required to contain all the basic dependency relations. For this reason, all relations of the enhanced graph (also the ones that are present in the basic UD tree) have to be included in the _DEPS_ column of a CoNLL-U file. See the specificiation of the [CoNLL-U](/format.html) file format for details.
 
