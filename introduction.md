@@ -29,12 +29,12 @@ Examples:
 ~~~
 
 ~~~ conllu
-1	Kučeto   kučeto	NOUN	_	Definite=Def	3	nsubj:pass	_	_
-2	se  se  PRON	_	_	3	expl:pass	 _	_
-3	presledvaše   presledvaše	VERB	_	Tense=Past	0	ROOT	_	_
-4	ot  ot  ADP	_	_	5	case	 _	_
-5	kotkata  kotkata  NOUN	_	Definite=Def	3	obl	 _	_
-6	.  .  PUNCT	_	_	3	punct	 _	_
+1	Kučeto	kučeto	NOUN	_	Definite=Def	3	nsubj:pass	_	_
+2	se	se	PRON	_	_	3	expl:pass	 _	_
+3	presledvaše	presledvaše	VERB	_	Tense=Past	0	ROOT	_	_
+4	ot	ot	ADP	_	_	5	case	 _	_
+5	kotkata	kotkata	NOUN	_	Definite=Def	3	obl	 _	_
+6	.	.	PUNCT	_	_	3	punct	 _	_
 ~~~
 
 ## What is needed for UD to be successful?
