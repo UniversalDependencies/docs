@@ -445,7 +445,7 @@ nsubj(mother, she)
 
 ~~~ sdparse
 Ben senin baban -ım . \n I your father am
-nsubj(baban, O)
+nsubj(baban, Ben)
 cop(baban, -ım)
 nsubj(father, I)
 ~~~
@@ -494,7 +494,8 @@ nsubj(hers, It)
 case(hers, for)
 ~~~
 
-(6a)
+(6a
+
 ~~~ sdparse
 Yemek var . \n Food existing .
 nsubj(var, Yemek)
@@ -502,6 +503,7 @@ nsubj(existing, Food)
 ~~~
 
 (6b)
+
 ~~~ sdparse
 Mutfakta yemek var . \n Kitchen-in food existing .
 nsubj(var, yemek)
