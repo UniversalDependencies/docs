@@ -49,13 +49,13 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 {% include at_glance.html %}
 </div>
 
-<small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
-
 <h2 style="margin-top:0">Upcoming UD Treebanks</h2>
 
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance_empty.html %}
 </div>
+
+<small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 
 # Download
 
