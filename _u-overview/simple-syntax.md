@@ -59,10 +59,14 @@ she is Jane
 nsubj(Jane, she)
 ~~~
 ~~~ sdparse
+она моя мать \n she my mother
+nsubj(мать, она)
+nsubj(mother, she)
+~~~
+~~~ sdparse
 she is happy
 nsubj(happy, she)
 ~~~
-
 
 ## Non-Core Dependents
 
