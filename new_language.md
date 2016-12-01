@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Start a new language or treebank'
+title:  'Start a new language/treebank'
 udver: '2'
 ---
 
-# Get a repository and add a new language/treebank into the documentation
+# Getting a repository
 
 Make sure you have a github account and contact a member of our release and documentation task force: 
 ginter@cs.utu.fi, sampo.pyysalo@gmail.com, zeman@ufal.mff.cuni.cz. They will get you going.
@@ -31,4 +31,6 @@ This block can be anywhere in the readme file. The properties are as follows:
 * `Contributors`: the list of contributors to be included with the data release and in the LINDAT download page. This is a semi-colon separated list where every name is in the `Last, First` form and the readme file should be utf-8 encoded to make sure special characters are preserved correctly.
 * `Contact`: e-mail address(es) of contact person(s) for the treebank (typically a subset of the contributors). The address may be used for inquiries about the treebank, such as questions that are not answered in documentation and/or issue trackers. More importantly, it may be used by people who want to contribute to the treebank and need to coordinate with the maintainers, and by the UD release task force to discuss issues that need to be fixed before the release. Warning: the addresses listed here may be exposed to spamming robots.
 
+# Making a release
 
+When you are ready to contribute to a release, please read the [release checklist](release_checklist.html).
