@@ -37,10 +37,86 @@ And then we left .
 cc(left, And)
 ~~~ sdparse
 
-### Ellipsis
+### Ellipsis in Clause Coordination 
 
 Coordination is often combined with _ellipsis_, where one or more of the normally obligatory constituents
 of a clause or omitted because they can be inferred from material in another conjunct. 
+
+If the main predicate is elided, an associated `aux` or `cop` can be promoted to head of the clause.
+
+~~~ sdparse
+Sue likes pasta and Peter does , too . 
+
+nsubj(likes-2, Sue-1)
+obj(likes-2, pasta-3)
+conj(likes-2, does-6)
+nsubj(does-6, Peter-5)
+advmod(does-6, too-8)
+~~~
+
+~~~ sdparse
+Sue is hungry and Peter is , too . 
+
+nsubj(hungry-3, Sue-1)
+cop(hungry-3, is-2)
+conj(hungry-3, is-6)
+nsubj(is-6, Peter-5)
+advmod(is-6, too-8)
+~~~
+
+In more complicated cases where a predicate is elided but no `aux` or `cop` is present, promotion can lead to unnatural and confusing relations. For example, in the following sentence, _you_ would be the subject of _coffee_, suggesting that the second clause contains a nonverbal predication rather than an elided predicate.
+
+~~~ sdparse
+I like tea and you coffee .
+
+nsubj(like-2, I-1)
+obj(like-2, tea-3)
+nsubj(coffee-6, you-5)
+conj(like-2, coffee-6)
+~~~ 
+
+In such cases, we therefore use the special `orphan` relation to attach siblings to the promoted element. 
+
+~~~ sdparse
+I like tea and you coffee .
+
+nsubj(like-2, I-1)
+obj(like-2, tea-3)
+conj(like-2, you-5)
+cc(you-5, and-4)
+orphan(you-5, coffee-6)
+~~~ 
+
+~~~ sdparse
+Mary wants to buy a book and Jenny a CD .
+
+nsubj(wants-2, Mary-1)
+xcomp(wants-2, buy-4)
+obj(buy-4, book-6)
+conj(wants-2, Jenny-8)
+orphan(Jenny-8, CD-10)
+~~~ 
+
+~~~ sdparse
+They had left the company , many for good .
+
+nsubj(left, They)
+obj(left, company)
+conj(left, many)
+orphan(many, good)
+~~~
+
+~~~ sdparse
+Mary wants to buy a book . ROOT And Jenny a CD .
+
+nsubj(wants-2, Mary-1)
+xcomp(wants-2, buy-4)
+obj(buy-4, book-6)
+root(ROOT, Jenny)
+orphan(Jenny, CD)
+~~~ 
+
+Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction, which attaches to the pseudo-constituent formed through the `orphan` dependency. 
 
 ## Subordination
 
