@@ -27,6 +27,8 @@ import re
 import codecs
 import StringIO
 
+SUBSET_ALL, SUBSET_NONEMPTY, SUBSET_EMPTY = range(3)
+
 no_data_token_count_span="""<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>"""
 token_count_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{token_count:,} tokens {word_count:,} words {tree_count:,} sentences">{tcountk}K</span></span>"""
 def get_token_count_span(corpus_data):
@@ -139,8 +141,14 @@ def get_genre_span(genres):
     return """<span class="doublewidespan"><span class="hint--top hint--info" data-hint="%s">%s</span></span>"""%(genres,spans)
 
 
+def is_empty(args, lang, corpus_data):
+    readme_data = analyze_readme(os.path.join(args.ud_data, "UD_"+lang))
+    no_docs = "No documentation" in readme_data["Documentation status"]
+    no_data = corpus_data.get("token_count", 0) == 0
+    return no_data and no_docs
 
-def gen_table(args):
+
+def gen_table(args, subset=SUBSET_NONEMPTY):
 
     jekyll_data=[] #this will go to jekyll then as data
 
@@ -152,6 +160,12 @@ def gen_table(args):
     for l in langs:
         with open(os.path.join("_corpus_data",l+".json"),"r") as f:
             corpus_data=json.load(f)
+
+        empty = is_empty(args, l, corpus_data)
+        if ((empty and subset == SUBSET_NONEMPTY) or
+            (not empty and subset == SUBSET_EMPTY)):
+            continue
+
         corpus_data[u"lang_code"]=lcodes[l]
         corpus_data[u"lang_name"]=l
         corpus_data[u"langfam_code"]=lcodes[l].split("_")[0]
