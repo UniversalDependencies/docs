@@ -26,6 +26,7 @@ Examples:
 6	the	the	DET	_	_	7	det	_	_
 7	cat	cat	NOUN	_	Definite=Def	4	obl	_	_
 8	.	.	PUNCT	_	_	4	punct	_	_
+
 ~~~
 
 ~~~ conllu
@@ -35,6 +36,7 @@ Examples:
 4	ot	ot	ADP	_	_	5	case	_	_
 5	kotkata	kotkata	NOUN	_	Definite=Def	3	obl	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
+
 ~~~
 
 ## What is needed for UD to be successful?
