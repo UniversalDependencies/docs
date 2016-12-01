@@ -2,13 +2,55 @@
 layout: base
 title:  'Other Constructions'
 permalink: u/overview/specific-syntax.html
+udver: '2'
 ---
 
 # Other Constructions
 
 This document contains detailed discussion of particular linguistic constructions that fall outside (or cut across) the main categories of simple clause, complex clauses, and nominal phrases.
 
-## Coordination
+### Multiword Expressions
+
+Multiword expressions The following types of expressions are annotated in a head-initial structure, where all non-first elements
+depend on the first, and where only the first element can have dependents:
+
+1. Fixed multiword expressions ([u-dep/mwe]())
+2. Multiword names ([u-dep/name]())
+3. Foreign phrases ([u-dep/foreign]())
+
+<div id="s8a" class="sd-parse">
+We had a nice time in spite of the rain .
+case(rain,in)
+mwe(in,spite)
+mwe(in,of)
+nmod(had,rain)
+</div>
+
+<div id="s8b" class="sd-parse">
+Martin Luther King had a dream .
+nsubj(had,Martin)
+name(Martin,Luther)
+name(Martin,King)
+</div>
+
+<div id="s8c" class="sd-parse">
+She said qwe rty yui .
+dobj(said,qwe)
+foreign(qwe,rty)
+foreign(qwe,yui)
+</div>
+
+In contrast, [compounds](compound) are annotated to show their modification structure, including a regular concept of head:
+
+<div id="s9" class="sd-parse">
+I bought a computer disk drive enclosure .
+nsubj(bought, I)
+det(enclosure, a)
+compound(drive, computer)
+compound(drive, disk)
+compound(enclosure, drive)
+dobj(bought, enclosure)
+</div>## Coordination
 
 * Coordination: currently described under [u-dep/conj]()
 
@@ -250,3 +292,51 @@ However, when the feedback is expressed by a full clause instead of a feedback w
 I agree , we should apply for membership .
 parataxis(agree, apply)
 ~~~
+
+### Punctuation 
+
+Tokens with the relation [u-dep/punct]() always attach to content words (except in cases of ellipsis) and can never have dependents. Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
+Instead, we use the following principles:
+
+1. A punctuation mark separating coordinated units is attached to the immediately following conjunct.
+2. A punctuation mark preceding or following a subordinated unit is attached to this unit.
+3. Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
+4. Paired punctuation marks (quotes and brackets) should be attached to the same word unless that would create non-projectivity. This word is usually the head of the phrase enclosed in the paired punctuation.
+
+<div id="punct1" class="sd-parse">
+We have apples , pears , oranges , and bananas .
+dobj(have, apples)
+conj(apples, pears)
+conj(apples, oranges)
+conj(apples, bananas)
+cc(bananas, and)
+punct(pears, ,-4)
+punct(oranges, ,-6)
+punct(bananas, ,-8)
+</div>
+
+<div id="punct2" class="sd-parse">
+Der Mann , den Sie gestern kennengelernt haben , kam wieder .
+punct(kennengelernt, ,-3)
+punct(kennengelernt, ,-9)
+punct(kam, .)
+</div>
+
+<div id="punct3" class="sd-parse">
+A.K.A. , AKA , or a\/k\/a may refer to : “ Also known as ” , used to introduce pseudonyms , aliases , etc. ( Compare f.k.a. for “ formerly known as ” . )
+punct(A.K.A., ,-2)
+punct(A.K.A., ,-4)
+punct(refer, :)
+punct(known-13, “-11)
+punct(known-13, ”-15)
+punct(used, ,-16)
+punct(pseudonyms, ,-21)
+punct(pseudonyms, ,-23)
+punct(Compare, (-25)
+punct(Compare, )-35)
+punct(known-31, “-29)
+punct(known-31, ”-33)
+punct(Compare, .-34)
+</div>
+
+
