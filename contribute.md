@@ -1,15 +1,16 @@
 ---
 layout: base
 title:  'Universal Dependencies'
-udver: 1
+udver: 2
 ---
 
 # How to contribute to UD
 
-If you want to add a new language/treebank, please read the [instructions](language_metadata.html) for adding a new language and encoding its metadata.
+* If you want to use UD treebanks, download them from LINDAT/CLARIN to make sure you get the latest official version.
 
-If you want to make a release of an existing treebank, please follow the steps in the [release checklist](release_checklist.html) and
-make sure your data shows as validating in the [format validation runs](validation.html).
-Check the [content validation](svalidation.html) for any suspicious patterns in the data;
-there are direct links to our treebank search that you can use to browse the suspicious data points.
-Check that the [list of contributors](contributors.html) is correct; this is gathered from the [metadata](language_metadata.html) in the READMEs. General instructions for contributing to the online documentation can be found [here](contributing.html).
+* If you want to give feedback on UD guidelines or treebanks, use the issue tracking system or send email to the UD list.
+
+* If you want to start work on a new language/treebank, please read the [instructions](language_metadata.html) 
+for adding a new language and encoding its metadata and then get in touch with our release and documentation team.
+
+* If you want to contribute to a release, please follow the steps in the [release checklist](release_checklist.html) and make sure that your data passes [format validation](validation.html).
