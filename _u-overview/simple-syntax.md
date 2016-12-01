@@ -55,7 +55,7 @@ The core argument relation is the same regardless of whether there is an overt c
 to the subject or not.
 
 ~~~ sdparse
-she is Jane
+she is my mother
 nsubj(Jane, she)
 ~~~
 ~~~ sdparse
