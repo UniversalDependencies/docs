@@ -9,6 +9,18 @@ udver: '2'
 
 ## Coordination 
 
+We treat coordinate structures asymmetrically:
+The head of the relation is the first conjunct and all the other conjuncts depend on it via the [u-dep/conj]() relation.
+Coordinating conjunctions and punctuation delimiting the conjuncts are attached using the [u-dep/cc]() and [u-dep/punct]() relations respectively.
+
+~~~ sdparse
+He came home , took a shower and immediately went to bed .
+conj(came, took)
+conj(came, went)
+punct(took, ,-4)
+cc(went, and)
+~~~
+
 ## Subordination
 
 Complex clauses involving subordination arise because a core or non-core dependent is realized as a clausal structure.
