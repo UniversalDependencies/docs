@@ -51,6 +51,12 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 
+## Upcoming UD Treebanks
+
+<div id="accordion" class="jquery-ui-accordion">
+{% include at_glance_empty.html %}
+</div>
+
 # Download
 
 The data is released through LINDAT/CLARIN.
