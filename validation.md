@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-01T00:51:57Z">2016-12-01T00:51:57 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-01T01:05:38Z">2016-12-01T01:05:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -23,25 +23,25 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-09-19T07:29:27Z">2016-09-19T07:29:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:05:13Z">2016-12-01T01:05:13 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek/grc-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek/grc-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek/grc-ud-train.conllu
 
 *** PASSED ***
 
@@ -55,7 +55,7 @@ python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-trai
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T00:06:33Z">2016-12-01T00:06:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:05:26Z">2016-12-01T01:05:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2522,25 +2522,25 @@ python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRu
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-07T09:08:26Z">2016-11-07T09:08:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:05:37Z">2016-12-01T01:05:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
 
 *** PASSED ***
 
