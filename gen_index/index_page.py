@@ -161,30 +161,32 @@ def gen_table(args, subset=SUBSET_NONEMPTY):
         with open(os.path.join("_corpus_data",l+".json"),"r") as f:
             corpus_data=json.load(f)
 
-        empty = is_empty(args, l, corpus_data)
-        if ((empty and subset == SUBSET_NONEMPTY) or
-            (not empty and subset == SUBSET_EMPTY)):
-            continue
-
         corpus_data[u"lang_code"]=lcodes[l]
         corpus_data[u"lang_name"]=l
         corpus_data[u"langfam_code"]=lcodes[l].split("_")[0]
         corpus_data[u"langfam_name"]=l.split("-")[0]
-        print >> a_data, '<div data-lc="%s">' % lcodes[l]
-        print >> a_data, get_flag_span(l)
-        print >> a_data, get_language_span(l)
-        print >> a_data, get_token_count_span(corpus_data)
-        print >> a_data, get_column_icons(corpus_data)
+
         readme_data=analyze_readme(os.path.join(args.ud_data,"UD_"+l))
-        print >> sys.stderr, l
-        for c in (u"Documentation status", u"Data source", u"Data available since"):
-            print >> a_data, categories.get((c,readme_data[c]),empty_wide_span.format(hint=readme_data[c]))
-        print >> a_data, get_license_span(readme_data[u"License"])
-        print >> a_data, get_genre_span(readme_data["Genre"])
-        print >> a_data, "</div>"
-        print >> a_data, "<div>"
-        print >> a_data, link_template.format(**corpus_data)
-        print >> a_data, "</div>"
+
+        empty = is_empty(args, l, corpus_data)
+        if ((empty and subset == SUBSET_NONEMPTY) or
+            (not empty and subset == SUBSET_EMPTY)):
+            pass    # Don't write table for this dataset
+        else:
+            print >> a_data, '<div data-lc="%s">' % lcodes[l]
+            print >> a_data, get_flag_span(l)
+            print >> a_data, get_language_span(l)
+            print >> a_data, get_token_count_span(corpus_data)
+            print >> a_data, get_column_icons(corpus_data)
+            print >> sys.stderr, l
+            for c in (u"Documentation status", u"Data source", u"Data available since"):
+                print >> a_data, categories.get((c,readme_data[c]),empty_wide_span.format(hint=readme_data[c]))
+            print >> a_data, get_license_span(readme_data[u"License"])
+            print >> a_data, get_genre_span(readme_data["Genre"])
+            print >> a_data, "</div>"
+            print >> a_data, "<div>"
+            print >> a_data, link_template.format(**corpus_data)
+            print >> a_data, "</div>"
 
         ldict={}
         ldict[u"lang_name"]=corpus_data[u"lang_name"]
