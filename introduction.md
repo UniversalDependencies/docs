@@ -18,7 +18,7 @@ constructions across languages, while allowing language-specific extensions when
 Examples:
 
 ~~~ conllu
-1	The   the	DET	_	Definite=Def	2	det	_	_
+1	The	the	DET	_	Definite=Def	2	det	_	_
 2	dog	dog	NOUN	_	_	4	nsubj:pass	 _	_
 3	was	was	AUX	_	Tense=Past	4	aux:pass	 _	_
 4	chased	chase	VERB	_	_	0	ROOT	 _	_
