@@ -1,11 +1,11 @@
 ---
 layout: base
-title:  'Language-specific relations'
+title:  'Language-Specific Relations'
 ---
 
 <strong><font color="red">Note:</font></strong> Since the description of language-specific relations depends both on the universal guidelines and on the empirical facts of specific treebanks, it may not be fully updated to v2 until the first treebank release in March 2017. 
 
-# Language-specific relations
+# Language-Specific Relations
 
 In addition to the universal dependency taxonomy, it is desirable to recognize grammatical relations that are particular to one language or a small group of related languages. Such language-specific relations are necessary to accurately capture the genius of a particular language but will not involve concepts that generalize broadly. These language-specific relations should always be regarded as a subtype of an existing UD relation.
 
