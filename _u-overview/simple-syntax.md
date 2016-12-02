@@ -81,19 +81,16 @@ nsubj(koştu, Hasan)
 ~~~
 ~~~ sdparse
 (ben) Hasanı koşturdum \n I Hasan made-run
-nsubj(koşturdum, ben)
 obj:caus(koşturdum, Hasanı)
 ~~~
 ~~~ sdparse
 Hasan kitabı okudu \n Hasan book read
-nsubj(okudu, Hasan)
 obj(okudu, kitabı)
 ~~~
 ~~~ sdparse
 (ben) Hasana kitabı okuttum \n I I Hasan book made-read
-nsubj(okuttum, ben)
 obj(okuttum, kitabı)
-Iobj:caus(okuttum, Hasana)
+iobj:caus(okuttum, Hasana)
 ~~~
 
 
