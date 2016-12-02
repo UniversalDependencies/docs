@@ -97,7 +97,7 @@ basic and enhanced side by side
 
 <table>
 <thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
-<tbody><tr><td>
+<tbody><tr><td width="600">
 
 <div class="conllu-parse" tabs="yes">
 1    She       _   PRON    _   _   2   nsubj   _ _
@@ -109,7 +109,7 @@ basic and enhanced side by side
 
 </div>
 
-</td><td>
+</td><td width="600">
 
 <div class="conllu-parse" tabs="yes">
 1    She       _   PRON    _   _   2   nsubj   _ _
