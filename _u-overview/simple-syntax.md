@@ -46,7 +46,7 @@ obl(left, him)
 
 It follows that the semantic role cannot (by itself) be used to determine whether a dependent is core or not, nor can its status as an obligatory dependent. UD does not make a distinction between (obligatory) arguments and (optional) adjuncts, and oblique dependents can be either arguments or adjuncts. 
 
-Note, finally, that not all languages allow extended transitives (and some do only in connection with special valency-changing operations such as applicatives). Hence, the [u-dep/iobj]() relation will not be used in all languages.
+Note, finally, that not all languages allow extended transitives (and some do only in connection with special valency-changing operationssuch as applicatives). Hence, the [u-dep/iobj]() relation will not be used in all languages.
 
 ### Valency-Changing Operations
 
@@ -72,8 +72,29 @@ obl:agent(left, her)
 obl(left, table)
 ~~~
 
-Similar subtyping could be used for other valency-changing operations, but there are currently no 
-specific guidelines for this.
+Similar subtyping can be used for other valency-changing operations. With causatives, for example, subtypes
+like `obj:caus` and `iobj:caus` can be used to indicate that an object is a demoted subject in relation to the non-causative form of the verb.
+
+~~~ sdparse
+Hasan koştu \n Hasan ran
+nsubj(koştu, Hasan)
+~~~
+~~~ sdparse
+(ben) Hasanı koşturdum \n I Hasan made-run
+nsubj(koşturdum, ben)
+obj:caus(koşturdum, Hasanı)
+~~~
+~~~ sdparse
+Hasan kitabı okudu \n Hasan book read
+nsubj(okudu, Hasan)
+obj(okudu, kitabı)
+~~~
+~~~ sdparse
+(ben) Hasana kitabı okuttum \n I I Hasan book made-read
+nsubj(okuttum, ben)
+obj(okuttum, kitabı)
+Iobj:caus(okuttum, Hasana)
+~~~
 
 
 ## Nonverbal Clauses
