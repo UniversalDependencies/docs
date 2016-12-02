@@ -82,37 +82,52 @@ det(no-such, token)
 6     .         .        PUNCT   .        _                  2      punct _ _
 </div>
 
-What about secondary dependencies in the enhanced representation?
+What about enhanced depencies?
+Let's use red for such enhanced dependencies which are not basic dependencies.
 
-<div class="conllu-parse" tabs="yes">
-1    She       _   PRON    _   _   2   nsubj   _ _
-2    declared  _   VERB    _   _   0   root    _ _
-3    the       _   DET     _   _   4   det     _ _
-4    cake      _   NOUN    _   _   2   dobj    5:nsubj _
-5    beautiful _   ADJ     _   _   2   xcomp   _ _
-6    .         _   PUNCT   _   _   2   punct   _ _
+<div class="conllu-parse" tabs="yes" id="pirate-example">
+# visual-style 4 5 ref color:red
+1   I   I   PRON    PRP Case=Nom|Number=Sing|Person=1|PronType=Prs  2   nsubj   _   _
+2   saw see VERB    VBD Mood=Ind|Tense=Past|VerbForm=Fin    0   root    _   _
+3   a   a   DET DT  Definite=Ind|PronType=Art   4   det _   _
+4   man man NOUN    NN  Number=Sing 2   dobj    _   _
+5   whose   whose   PRON    WP$ Poss=Yes|PronType=Int   6   nmod:poss   4:ref   _
+6   mother  mother  NOUN    NN  Number=Sing 7   nsubj   _   _
+7   become  become  VERB    VB  VerbForm=Inf    4   acl:relcl   _   _
+8   a   a   DET DT  Definite=Ind|PronType=Art   9   det _   _
+9   pirate  pirate  NOUN    NN  Number=Sing 7   xcomp   _   SpaceAfter=No
+10  .   .   PUNCT   .   _   2   punct   _   _
 </div>
 
-basic and enhanced side by side
-<table>
+And let's use side-by-side view if some basic dependencies are missing in the enhanced dependencies, especially if empty nodes are introduced.
+We can mark the differences with blue and red.
+<table id="ellipsis-example">
 <thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
-<tbody><tr><td width="600">
+<tbody><tr><td width="700">
 <div class="conllu-parse" tabs="yes">
-1    She       _   PRON    _   _   2   nsubj   _ _
-2    declared  _   VERB    _   _   0   root    _ _
-3    the       _   DET     _   _   4   det     _ _
-4    cake      _   NOUN    _   _   2   dobj    _ _
-5    beautiful _   ADJ     _   _   2   xcomp   _ _
-6    .         _   PUNCT   _   _   2   punct   _ _
+# visual-style 5 6 remnant color:blue
+# visual-style 2 5 conj color:blue
+1   I   I   PRON    PRP Case=Nom|Number=Sing|Person=1|PronType=Prs  2   nsubj   _   _
+2   like    like    VERB    VBP Mood=Ind|Tense=Pres|VerbForm=Fin    0   root    _   _
+3   tea tea NOUN    NN  Number=Sing 2   obj    _   _
+4   and and CONJ    CC  _   5   cc  _   _
+5   you you PRON    PRP Case=Nom|Person=2|PronType=Prs  2 conj   _   _
+6   rum rum  VERB    VBP Mood=Ind|Tense=Pres|VerbForm=Fin    5  remnant    _   SpaceAfter=No
+7   .   .   PUNCT   .   _   2   punct   _   _  _ _
 </div>
-</td><td width="600">
+</td><td width="800">
 <div class="conllu-parse" tabs="yes">
-1    She       _   PRON    _   _   2   nsubj   _ _
-2    declared  _   VERB    _   _   0   root    _ _
-3    the       _   DET     _   _   4   det     _ _
-4    cake      _   NOUN    _   _   2   dobj    5:nsubj _
-5    beautiful _   ADJ     _   _   2   xcomp   _ _
-6    .         _   PUNCT   _   _   2   punct   _ _
+# visual-style 6 7 obj color:red
+# visual-style 6 5 nsubj color:red
+# visual-style 2 6 conj color:red
+1   I   I   PRON    PRP Case=Nom|Number=Sing|Person=1|PronType=Prs  2   nsubj   _   _
+2   like    like    VERB    VBP Mood=Ind|Tense=Pres|VerbForm=Fin    0   root    _   _
+3   tea tea NOUN    NN  Number=Sing 2   obj    _   _
+4   and and CONJ    CC  _   5   cc  _   _
+5   you you PRON    PRP Case=Nom|Person=2|PronType=Prs  6   nsubj   _   _
+6   E5.1    like    VERB    VBP Mood=Ind|Tense=Pres|VerbForm=Fin    2   conj    _   _
+7   rum  rum  NOUN    NN  Number=Sing 6 obj  _ SpaceAfter=No
+8   .   .   PUNCT   .   _   2   punct   _   _
 </div>
 </td></tr></tbody>
 </table>
