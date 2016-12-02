@@ -33,7 +33,12 @@ described below.
 
 ### Annotation statistics
 
-(Description TODO)
+There are two scripts that compute statistics, one written in Python and one in Perl. Despite similar names they are not equivalent!
+
+<code>
+python conllu-stats.py -h
+python conllu-stats.py --stats ../UD_English/en-ud-train.conllu
+</code>
 
 ### Consistency checking
 
@@ -52,7 +57,7 @@ described below.
 ### brat rapid annotation tool
 
 <img style="width: 40%; float:right" src="http://universaldependencies.org/img/brat.png"/>
-**brat** is a browser-based tool for text annotation. The brat visualization component is used in the [UD documentation system](https://spyysalo.github.io/annodoc/) and the tool can be easily configured for UD annotation (TODO: link instructions).
+**brat** is a browser-based tool for text annotation. The brat [visualization](visualization.html) component is used in the [UD documentation system](https://spyysalo.github.io/annodoc/) and the tool can be easily configured for UD annotation (TODO: link instructions).
 
 * Category: manual annotation tool
 * Platform: any (browser-based)
@@ -96,6 +101,13 @@ described below.
 * Homepage: <http://ufal.mff.cuni.cz/udpipe>
 * On-line service: <http://lindat.mff.cuni.cz/services/udpipe/>
 * References: Milan Straka, Jan Hajič and Jana Straková 2016. UDPipe: Trainable Pipeline for Processing CoNLL-U Files Performing Tokenization, Morphological Analysis, POS Tagging and Parsing. LREC 2016, Portorož, Slovenia, May 2016.
+
+### UDAPI
+
+* Category: libraries for various UD and CoNLL-U-related operations in several programming languages
+* Implementation: Java, Perl, Python
+* License: GPL, Perl
+* Homepage: <http://udapi.github.io/>
 
 ### DgAnnotator
 
