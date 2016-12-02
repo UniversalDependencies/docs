@@ -51,7 +51,9 @@ obj(teaches, students)
 
 This is consistent with the analysis of Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”,
 chapter 4 section 4 (p. 251).  As they note, it is no different to the same semantic role being sometimes the subject
-and sometimes the object in intransitive/transitive alternations. The one exception is when there is a clausal complement.
+and sometimes the object in intransitive/transitive alternations. 
+
+<!--The one exception is when there is a clausal complement.
 Then the clausal complement is regarded as a “clausal object” and an object nominal will be an iobj, parallel to
 the simple ditransitive case:
 
@@ -73,4 +75,4 @@ more objects, one of them should be [obj]() and the others should be
 most directly affected object _(patient)._ If possible,
 language-specific documentation should help identify direct and
 indirect objects.
-
+-->
