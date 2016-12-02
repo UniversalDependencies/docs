@@ -171,15 +171,15 @@ Irish uses a copula verb in categories 1, 4 and 5, and a different verb in categ
 
 (1) 
 
-~~~sdparse
-is ise mo mháthair \n COP her my mother
-nsubj(mháthair, ise)
-cop(mháthair, is)
+~~~ sdparse
+Is ise mo mháthair \n is she my mother
+nsubj(ise, mháthair)
+cop(ise, Is)
 ~~~
 
 (2) 
 
-~~~sdparse
+~~~ sdparse
 tá sí deas \n is she nice
 nsubj(tá, sí)
 xcomp(tá, deas)
@@ -187,7 +187,7 @@ xcomp(tá, deas)
 
 (3)
 
-~~~sdparse
+~~~ sdparse
 tá sí sa seomra folctha \n is she in room bath
 nsubj(tá, sí)
 xcomp(tá, seomra)
@@ -195,27 +195,37 @@ xcomp(tá, seomra)
 
 (4)
 
-~~~sdparse
-is lei an leabhar \n COP with her the book
-nsubj(leabhar, lei)
-cop(leabhar, is)
+~~~ sdparse
+Is lei an leabhar\n Is with-her the book
+nsubj(lei, leabhar)
+cop(lei, Is)
 ~~~ 
 
 (5)
 
-~~~sdparse
-is di an leabhar \n COP with her the book
-nsubj(leabhar, di)
-cop(leabhar, is)
+~~~ sdparse
+is di féin an leabhar \n is for-her the book
+nsubj(di, leabhar)
+cop(di, Is)
 ~~~ 
+
+There is no special construction for existential constructions in Irish, the examples in (6) and (6b) show the same structure as in (3).
 
 (6)
 
-~~~sdparse
-tá bia ann
+~~~ sdparse
+tá bia ann \n is food there
 nsubj(tá, bia)
+xcomp:pred(tá, ann)
 ~~~~
 
+(6b)
+
+~~~ sdparse
+tá bia sa chistin \n Is food in-the kitchen
+nsubj(tá, bia)
+xcomp:pred(tá, chistin)
+~~~
 
 #### Czech
 
