@@ -94,9 +94,11 @@ What about secondary dependencies in the enhanced representation?
 </div>
 
 basic and enhanced side by side
+
 <table>
 <thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
 <tbody><tr><td>
+
 <div class="conllu-parse" tabs="yes">
 1    She       _   PRON    _   _   2   nsubj   _ _
 2    declared  _   VERB    _   _   0   root    _ _
@@ -104,8 +106,11 @@ basic and enhanced side by side
 4    cake      _   NOUN    _   _   2   dobj    _ _
 5    beautiful _   ADJ     _   _   2   xcomp   _ _
 6    .         _   PUNCT   _   _   2   punct   _ _
+
 </div>
+
 </td><td>
+
 <div class="conllu-parse" tabs="yes">
 1    She       _   PRON    _   _   2   nsubj   _ _
 2    declared  _   VERB    _   _   0   root    _ _
@@ -113,7 +118,9 @@ basic and enhanced side by side
 4    cake      _   NOUN    _   _   2   dobj    5:nsubj _
 5    beautiful _   ADJ     _   _   2   xcomp   _ _
 6    .         _   PUNCT   _   _   2   punct   _ _
+
 </div>
+
 </td></tbody>
 </table>
 
