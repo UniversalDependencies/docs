@@ -15,4 +15,4 @@ for adding a new language/treebank and then get in touch with us.
 
 * If you want to contribute to a release, please follow the steps in the [release checklist](release_checklist.html).
 
-* If you want to contribute to language-specific documentation, see the last section of the [release checklist](release_checklist.html).
+* If you want to contribute to language-specific documentation, see the last section of the [release checklist](release_checklist.html#language-specific-guidelines).
