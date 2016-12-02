@@ -21,10 +21,10 @@ dobj(have, apples)
 conj(apples, pears)
 conj(apples, oranges)
 conj(apples, bananas)
-cc(apples, and)
-punct(apples, ,-4)
-punct(apples, ,-6)
-punct(apples, ,-8)
+cc(bananas, and)
+punct(pears, ,-4)
+punct(oranges, ,-6)
+punct(bananas, ,-8)
 </div>
 
 Coordinated clauses are treated the same way as coordination of other constituent types:
@@ -110,7 +110,7 @@ In the following example, relations that are only part of the enhanced represent
 
 ### Nested Coordination
 
-Note further that the basuc annotation scheme has only a limited capability to capture nested coordination
+Note further that the basic annotation scheme has only a limited capability to capture nested coordination
 such as _apples and pears or oranges and lemons._
 Consider coordinations
 
