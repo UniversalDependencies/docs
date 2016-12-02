@@ -103,31 +103,31 @@ And let's use side-by-side view if some basic dependencies are missing in the en
 We can mark the differences with blue and red.
 <table id="ellipsis-example">
 <thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
-<tbody><tr><td width="700">
+<tbody><tr><td width="600">
 <div class="conllu-parse" tabs="yes">
 # visual-style 5 6 remnant color:blue
 # visual-style 2 5 conj color:blue
-1   I   I   PRON    PRP Case=Nom|Number=Sing|Person=1|PronType=Prs  2   nsubj   _   _
-2   like    like    VERB    VBP Mood=Ind|Tense=Pres|VerbForm=Fin    0   root    _   _
-3   tea tea NOUN    NN  Number=Sing 2   obj    _   _
-4   and and CONJ    CC  _   5   cc  _   _
-5   you you PRON    PRP Case=Nom|Person=2|PronType=Prs  2 conj   _   _
-6   rum rum  VERB    VBP Mood=Ind|Tense=Pres|VerbForm=Fin    5  remnant    _   SpaceAfter=No
-7   .   .   PUNCT   .   _   2   punct   _   _  _ _
+1   I   I  _ _ _  2   nsubj   _  _
+2   like like  _ _ _  0   root   _   _
+3   tea tea _ _ _ 2 obj    _   _
+4   and and _ _ _ 5   cc  _   _
+5   you you _ _ _ 2 conj   _   _
+6   rum rum _ _ _ 5  remnant _  _
+7   .   .   _ _ _ 2  punct  _  _
 </div>
-</td><td width="800">
+</td><td width="600">
 <div class="conllu-parse" tabs="yes">
 # visual-style 6 7 obj color:red
 # visual-style 6 5 nsubj color:red
 # visual-style 2 6 conj color:red
-1   I   I   PRON    PRP Case=Nom|Number=Sing|Person=1|PronType=Prs  2   nsubj   _   _
-2   like    like    VERB    VBP Mood=Ind|Tense=Pres|VerbForm=Fin    0   root    _   _
-3   tea tea NOUN    NN  Number=Sing 2   obj    _   _
-4   and and CONJ    CC  _   5   cc  _   _
-5   you you PRON    PRP Case=Nom|Person=2|PronType=Prs  6   nsubj   _   _
-6   E5.1    like    VERB    VBP Mood=Ind|Tense=Pres|VerbForm=Fin    2   conj    _   _
-7   rum  rum  NOUN    NN  Number=Sing 6 obj  _ SpaceAfter=No
-8   .   .   PUNCT   .   _   2   punct   _   _
+1   I  _ _ _ _ 2  nsubj   _  _
+2   like _ _ _ _ 0  root    _  _
+3   tea _ _ _ _ 2  obj    _  _
+4   and _ _ _ _ 5 cc  _  _
+5   you _ _ _ _ 6 nsubj   _  _
+6   E5.1 _ _ _ _ 2 conj    _  _
+7   rum _ _ _ _ 6 obj  _ _
+8   .   _ _ _ _ 2 punct   _  _
 </div>
 </td></tr></tbody>
 </table>
