@@ -15,7 +15,7 @@ The `remnant` relation turned out to be a non-optimal way for analyzing complex 
 
 ## Problems with the `remnant` analysis
 
-The [current analysis](http://universaldependencies.org/u/dep/remnant.html) of elliptical constructions using the `remnant` relation does not work well when the second clause contains additional modifiers of the elided predicate.
+The [old analysis](http://universaldependencies.org/docs/u/dep/remnant.html) of elliptical constructions using the `remnant` relation does not work well when the second clause contains additional modifiers of the elided predicate.
 
 ~~~ sdparse
 They had left the company , many for good .
