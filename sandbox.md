@@ -82,15 +82,16 @@ det(no-such, token)
 6     .         .        PUNCT   .        _                  2      punct _ _
 </div>
 
-What about enhanced depencies?
-Let's use red for such enhanced dependencies which are not basic dependencies.
-
+### Enhanced depencies
+Let's use red for enhanced-only, blue for basic-only and black for basic&enhanced dependencies:
 <div class="conllu-parse" tabs="yes" id="pirate-example">
 # visual-style 4 5 ref color:red
+# visual-style 6 4 nmod:poss color:red
+# visual-style 6 5 nmod:poss color:blue
 1   I   I   PRON    PRP Case=Nom|Number=Sing|Person=1|PronType=Prs  2   nsubj   _   _
 2   saw see VERB    VBD Mood=Ind|Tense=Past|VerbForm=Fin    0   root    _   _
 3   a   a   DET DT  Definite=Ind|PronType=Art   4   det _   _
-4   man man NOUN    NN  Number=Sing 2   dobj    _   _
+4   man man NOUN    NN  Number=Sing 2   dobj    6:nmod:poss   _
 5   whose   whose   PRON    WP$ Poss=Yes|PronType=Int   6   nmod:poss   4:ref   _
 6   mother  mother  NOUN    NN  Number=Sing 7   nsubj   _   _
 7   become  become  VERB    VB  VerbForm=Inf    4   acl:relcl   _   _
@@ -99,8 +100,7 @@ Let's use red for such enhanced dependencies which are not basic dependencies.
 10  .   .   PUNCT   .   _   2   punct   _   _
 </div>
 
-And let's use side-by-side view if some basic dependencies are missing in the enhanced dependencies, especially if empty nodes are introduced.
-We can mark the differences with blue and red.
+For shorter sentences we can use side-by-side view (this may be clearer, especially if empty nodes are introduced):
 <table id="ellipsis-example">
 <thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
 <tbody><tr><td width="600">
@@ -132,6 +132,7 @@ We can mark the differences with blue and red.
 </td></tr></tbody>
 </table>
 
+### Foreign examples
 Two sentences can be used to show the English translation of a foreign example:
 
 <pre><code class="language-conllu"># give the toys to the children
