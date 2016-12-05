@@ -10,7 +10,7 @@ an attribute, or genitive complement.
 
 **New from v2:** The `nmod` relation was previously used also for nominal dependents of verbs, adjectives, and adverbs. The latter are now covered by the new [obl]() relation.
 
-In conjunction with the [case]() relation, the `nmod` provides a uniform analysis for the possessive alternation:
+In conjunction with the [case]() relation, `nmod` provides a uniform analysis for the possessive alternation:
 
 ~~~ sdparse
 the Chair 's office
