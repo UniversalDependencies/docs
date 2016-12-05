@@ -72,7 +72,7 @@ removed, added or renamed, or where the use of an existing relation has changed 
 ### Clauses and dependents of predicates
 
 1. The `dobj` relation is renamed `obj` because this seems to be more easily reconcilable with the intended interpretation of "second core argument" or "P/A argument" (without connection to specific cases or semantic roles). 
-2. The `nsubjpass`, `csubjpass` and `auxpass` relations are removed. The use of subtypes nsubj:pass, csubj:pass and aux:pass is strongly encouraged for languages where these distinctions are relevant.
+2. The `nsubjpass`, `csubjpass` and `auxpass` relations are removed. The use of subtypes `nsubj:pass`, `csubj:pass` and `aux:pass` is strongly encouraged for languages where these distinctions are relevant.
 3. The `nmod` relation, which in v1 was used for nominals modifying either predicates or other nominals, is in v2 restricted to modifying nominals. A new relation `obl` (oblique) is introduced for oblique dependents of predicates. 
 4. The `cop` relation is restricted to function words (verbal or nonverbal) whose sole function is to link a nonverbal predicate to its subject and which does not add any meaning other than grammaticalized TAME categories. The range of constructions that are analyzed using the `cop` relation is subject to language-specific variation but can be identified using universal guidelines.
 
