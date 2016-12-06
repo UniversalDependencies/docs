@@ -152,3 +152,7 @@ Every treebank should be accompanied by a set of language-specific guidelines at
 
 There are <a href="contributing_language_specific.html">more detailed guidelines for language-specific documentation.</a>
 Also see the general guidelines about <a href="contributing.html">how to contribute.</a>
+
+# Building the release
+
+Documentation of the steps to be taken by the release task force is [on a separate page](release_checklist_task_force.html).
