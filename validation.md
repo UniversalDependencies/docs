@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:13:43Z">2016-12-06T13:13:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:14:11Z">2016-12-06T13:14:11 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2978,90 +2978,104 @@ Syntax errors: 4346
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T16:24:26Z">2016-11-30T16:24:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:14:09Z">2016-12-06T13:14:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
+[Line                   26]: Unknown UD DEPREL: dobj
+[Line                   42]: Unknown UD DEPREL: dobj
+[Line                   51]: Unknown UD DEPREL: dobj
+[Line                   55]: Unknown UPOS tag: CONJ
+[Line                   68]: Unknown UD DEPREL: dobj
+[Line                   73]: Unknown UD DEPREL: dobj
+[Line                   74]: Unknown UPOS tag: CONJ
 [Line                   76]: Unknown attribute-value pair PronType=Clit
+[Line                   82]: Unknown UD DEPREL: dobj
+[Line                   86]: Unknown UPOS tag: CONJ
+[Line                   100]: Unknown UD DEPREL: neg
+[Line                   102]: Unknown UD DEPREL: dobj
+[Line                   108]: Unknown UPOS tag: CONJ
+[Line                   120]: Unknown UD DEPREL: dobj
+[Line                   124]: Unknown UD DEPREL: dobj
+[Line                   128]: Unknown UD DEPREL: dobj
 [Line                   136]: Unknown attribute-value pair PronType=Clit
+[Line                   141]: Unknown UPOS tag: CONJ
+[Line                   152]: Unknown UPOS tag: CONJ
+[Line                   161]: Unknown UD DEPREL: dobj
+[Line                   163]: Unknown UD DEPREL: neg
+[Line                   166]: Unknown UD DEPREL: dobj
+[Line                   172]: Unknown UD DEPREL: neg
+[Line                   179]: Unknown UD DEPREL: remnant
+[Line                   181]: Unknown UD DEPREL: dobj
+[Line                   188]: Unknown UPOS tag: CONJ
+[Line                   194]: Unknown UD DEPREL: dobj
+[Line                   198]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
+[Line                   223]: Unknown UPOS tag: CONJ
+[Line                   225]: Unknown UPOS tag: CONJ
+[Line                   242]: Unknown UPOS tag: CONJ
 [Line                   250]: Unknown attribute-value pair PronType=Clit
 [Line                   270]: Unknown attribute-value pair PronType=Clit
 [Line                   323]: Unknown attribute-value pair PronType=Clit
+[Line                   354]: Unknown UPOS tag: CONJ
 [Line                   398]: Unknown attribute-value pair PronType=Clit
+[Line                   422]: Unknown UPOS tag: CONJ
 [Line                   442]: Unknown attribute-value pair PronType=Clit
-[Line                   460]: Unknown attribute-value pair PronType=Clit
-[Line                   461]: Unknown attribute-value pair PronType=Clit
-[Line                   529]: Unknown attribute-value pair PronType=Clit
-[Line                   532]: Unknown attribute-value pair PronType=Clit
-[Line                   550]: Unknown attribute-value pair PronType=Clit
-[Line                   625]: Unknown attribute-value pair PronType=Clit
-[Line                   642]: Unknown attribute-value pair PronType=Clit
-[Line                   661]: Unknown attribute-value pair PronType=Clit
-[Line                   669]: Unknown attribute-value pair PronType=Clit
-[Line                   678]: Unknown attribute-value pair PronType=Clit
-[Line                   682]: Unknown attribute-value pair PronType=Clit
-[Line                   722]: Unknown attribute-value pair PronType=Clit
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 61 errors
-Morpho errors: 61
+*** FAILED *** with 288 errors
+Morpho errors: 124
+Syntax errors: 164
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-test.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
-[Line                   5]: Unknown attribute-value pair PronType=Clit
-[Line                   46]: Unknown attribute-value pair PronType=Clit
-[Line                   84]: Unknown attribute-value pair PronType=Clit
-[Line                   240]: Unknown attribute-value pair PronType=Clit
-[Line                   323]: Unknown attribute-value pair PronType=Clit
-[Line                   386]: Unknown attribute-value pair PronType=Clit
-[Line                   464]: Unknown attribute-value pair PronType=Clit
-[Line                   470]: Unknown attribute-value pair PronType=Clit
-[Line                   479]: Unknown attribute-value pair PronType=Clit
-[Line                   499]: Unknown attribute-value pair PronType=Clit
-[Line                   545]: Unknown attribute-value pair PronType=Clit
-[Line                   584]: Unknown attribute-value pair PronType=Clit
-[Line                   603]: Unknown attribute-value pair PronType=Clit
-[Line                   648]: Unknown attribute-value pair PronType=Clit
-[Line                   662]: Unknown attribute-value pair PronType=Clit
-[Line                   699]: Unknown attribute-value pair PronType=Clit
-[Line                   702]: Unknown attribute-value pair PronType=Clit
-[Line                   802]: Unknown attribute-value pair PronType=Clit
-[Line                   863]: Unknown attribute-value pair PronType=Clit
-...suppressing further errors regarding Morpho
-*** FAILED *** with 54 errors
-Morpho errors: 54
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
-
+[Line                   6]: Unknown UD DEPREL: dobj
+[Line                   25]: Unknown UPOS tag: CONJ
+[Line                   37]: Unknown UD DEPREL: dobj
+[Line                   47]: Unknown UD DEPREL: dobj
+[Line                   76]: Unknown UPOS tag: CONJ
+[Line                   96]: Unknown UPOS tag: CONJ
+[Line                   104]: Unknown UPOS tag: CONJ
+[Line                   113]: Unknown UPOS tag: CONJ
+[Line                   126]: Unknown UPOS tag: CONJ
+[Line                   129]: Unknown UD DEPREL: neg
+[Line                   131]: Unknown UD DEPREL: auxpass
+[Line                   133]: Unknown UPOS tag: CONJ
+[Line                   147]: Unknown UD DEPREL: dobj
+[Line                   153]: Unknown UPOS tag: CONJ
+[Line                   159]: Unknown UPOS tag: CONJ
+[Line                   161]: Unknown UD DEPREL: dobj
 [Line                   164]: Unknown attribute-value pair PronType=Clit
+[Line                   164]: Unknown UD DEPREL: dobj
+[Line                   176]: Unknown UD DEPREL: dobj
+[Line                   183]: Unknown UPOS tag: CONJ
 [Line                   188]: Unknown attribute-value pair PronType=Clit
+[Line                   188]: Unknown UD DEPREL: dobj
+[Line                   199]: Unknown UD DEPREL: dobj
+[Line                   208]: Unknown UD DEPREL: auxpass
+[Line                   218]: Unknown UPOS tag: CONJ
+[Line                   240]: Unknown UPOS tag: CONJ
+[Line                   248]: Unknown UD DEPREL: dobj
+[Line                   252]: Unknown UPOS tag: CONJ
+[Line                   262]: Unknown UPOS tag: CONJ
+[Line                   279]: Unknown UD DEPREL: dobj
+[Line                   287]: Unknown UPOS tag: CONJ
+[Line                   299]: Unknown UPOS tag: CONJ
 [Line                   319]: Unknown attribute-value pair PronType=Clit
-[Line                   327]: Unknown attribute-value pair PronType=Clit
-[Line                   350]: Unknown attribute-value pair PronType=Clit
-[Line                   418]: Unknown attribute-value pair PronType=Clit
-[Line                   574]: Unknown attribute-value pair PronType=Clit
-[Line                   580]: Unknown attribute-value pair PronType=Clit
-[Line                   654]: Unknown attribute-value pair PronType=Clit
-[Line                   673]: Unknown attribute-value pair PronType=Clit
-[Line                   765]: Unknown attribute-value pair PronType=Clit
-[Line                   775]: Unknown attribute-value pair PronType=Clit
-[Line                   968]: Unknown attribute-value pair PronType=Clit
-[Line                   980]: Unknown attribute-value pair PronType=Clit
-[Line                   1009]: Unknown attribute-value pair PronType=Clit
-[Line                   1172]: Unknown attribute-value pair PronType=Clit
-[Line                   1191]: Unknown attribute-value pair PronType=Clit
-[Line                   1362]: Unknown attribute-value pair PronType=Clit
-[Line                   1474]: Unknown attribute-value pair PronType=Clit
+[Line                   326]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 354 errors
-Morpho errors: 354
+[Line                   342]: Unknown UD DEPREL: neg
+[Line                   346]: Unknown UD DEPREL: dobj
+[Line                   390]: Unknown UD DEPREL: dobj
+[Line                   395]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
+*** FAILED *** with 2074 errors
+Morpho errors: 924
+Syntax errors: 1150
 
 
 ******************
