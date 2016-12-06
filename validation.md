@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:14:11Z">2016-12-06T13:14:11 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:15:28Z">2016-12-06T13:15:28 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3087,88 +3087,104 @@ Syntax errors: 1150
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:37:59Z">2016-12-01T01:37:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:15:16Z">2016-12-06T13:15:16 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-dev.conllu
+python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-dev.conllu
 
+[Line                   12]: Unknown UD DEPREL: dobj
+[Line                   15]: Unknown UD DEPREL: dobj
+[Line                   40]: Unknown UD DEPREL: dobj
+[Line                   59]: Unknown UD DEPREL: dobj
+[Line                   61]: Unknown UD DEPREL: dobj
+[Line                   71]: Unknown UPOS tag: CONJ
+[Line                   78]: Unknown UD DEPREL: neg
+[Line                   84]: Unknown UPOS tag: CONJ
+[Line                   96]: Unknown UD DEPREL: dobj
+[Line                   105]: Unknown UPOS tag: CONJ
+[Line                   107]: Unknown UPOS tag: CONJ
+[Line                   116]: Unknown UPOS tag: CONJ
+[Line                   125]: Unknown UD DEPREL: dobj
+[Line                   147]: Unknown UD DEPREL: name
+[Line                   152]: Unknown UD DEPREL: dobj
+[Line                   168]: Unknown UD DEPREL: name
+[Line                   184]: Unknown UD DEPREL: dobj
+[Line                   185]: Unknown UPOS tag: CONJ
+[Line                   206]: Unknown UPOS tag: CONJ
+[Line                   210]: Unknown UPOS tag: CONJ
+[Line                   225]: Unknown UPOS tag: CONJ
+[Line                   231]: Unknown UD DEPREL: dobj
+[Line                   234]: Unknown UD DEPREL: neg
+[Line                   241]: Unknown UD DEPREL: dobj
+[Line                   242]: Unknown UPOS tag: CONJ
+[Line                   252]: Unknown UD DEPREL: dobj
+[Line                   263]: Unknown UPOS tag: CONJ
+[Line                   273]: Unknown UD DEPREL: neg
+[Line                   284]: Unknown UD DEPREL: dobj
+[Line                   305]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
 [Line                   325]: Unknown attribute-value pair Polite=Pol
-[Line                   839]: Unknown attribute-value pair Polite=Pol
-[Line                   2974]: Unknown attribute-value pair Polite=Inf
-[Line                   3098]: Unknown attribute-value pair Polite=Inf
-[Line                   3157]: Unknown attribute-value pair Polite=Inf
-[Line                   3162]: Unknown attribute-value pair Polite=Inf
-[Line                   3204]: Unknown attribute-value pair Polite=Inf
-[Line                   3212]: Unknown attribute-value pair Polite=Inf
-[Line                   4311]: Unknown attribute-value pair Polite=Pol
-[Line                   4952]: Unknown attribute-value pair Polite=Pol
-[Line                   5381]: Unknown attribute-value pair Polite=Pol
-[Line                   6667]: Unknown attribute-value pair Polite=Pol
-[Line                   6924]: Unknown attribute-value pair Polite=Pol
-[Line                   7176]: Unknown attribute-value pair Polite=Pol
-[Line                   8532]: Unknown attribute-value pair Polite=Inf
-[Line                   9775]: Unknown attribute-value pair Polite=Pol
-[Line                   11485]: Unknown attribute-value pair Polite=Inf
-[Line                   12336]: Unknown attribute-value pair Polite=Pol
-*** FAILED *** with 18 errors
-Morpho errors: 18
+[Line                   332]: Unknown UPOS tag: CONJ
+[Line                   364]: Unknown UPOS tag: CONJ
+[Line                   377]: Unknown UPOS tag: CONJ
+[Line                   475]: Unknown UPOS tag: CONJ
+[Line                   488]: Unknown UPOS tag: CONJ
+[Line                   573]: Unknown UPOS tag: CONJ
+[Line                   654]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 1434 errors
+Morpho errors: 439
+Syntax errors: 995
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-test.conllu
+python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 
-[Line                   72]: Unknown attribute-value pair Polite=Pol
-[Line                   1019]: Unknown attribute-value pair Foreign=Foreign
-[Line                   2468]: Unknown attribute-value pair Polite=Inf
-[Line                   2808]: Unknown attribute-value pair Polite=Pol
-[Line                   3116]: Unknown attribute-value pair Polite=Pol
-[Line                   3286]: Unknown attribute-value pair Polite=Inf
-[Line                   4199]: Unknown attribute-value pair Polite=Pol
-[Line                   4215]: Unknown attribute-value pair Polite=Pol
-[Line                   4229]: Unknown attribute-value pair Polite=Pol
-[Line                   4363]: Unknown attribute-value pair Polite=Pol
-[Line                   4758]: Unknown attribute-value pair Polite=Inf
-[Line                   9462]: Unknown attribute-value pair Polite=Pol
-[Line                   9465]: Unknown attribute-value pair Polite=Pol
-[Line                   9484]: Unknown attribute-value pair Polite=Pol
-[Line                   10609]: Unknown attribute-value pair Polite=Inf
-[Line                   10613]: Unknown attribute-value pair Polite=Inf
-[Line                   10776]: Unknown attribute-value pair Polite=Inf
-[Line                   11614]: Unknown attribute-value pair Polite=Inf
-[Line                   11618]: Unknown attribute-value pair Polite=Inf
+[Line                   15]: Unknown UD DEPREL: dobj
+[Line                   21]: Unknown UD DEPREL: nsubjpass
+[Line                   56]: Unknown UD DEPREL: name
+[Line                   62]: Unknown UD DEPREL: name
+[Line                   64]: Unknown UPOS tag: CONJ
+[Line                   67]: Unknown UD DEPREL: dobj
+[Line                   72]: Unknown UPOS tag: CONJ
+[Line                   79]: Unknown UPOS tag: CONJ
+[Line                   89]: Unknown UPOS tag: CONJ
+[Line                   94]: Unknown UD DEPREL: dobj
+[Line                   97]: Unknown UPOS tag: CONJ
+[Line                   102]: Unknown UD DEPREL: neg
+[Line                   116]: Unknown UD DEPREL: nsubjpass
+[Line                   121]: Unknown UD DEPREL: auxpass
+[Line                   132]: Unknown UPOS tag: CONJ
+[Line                   138]: Unknown UD DEPREL: dobj
+[Line                   157]: Unknown UD DEPREL: dobj
+[Line                   165]: Unknown UD DEPREL: dobj
+[Line                   181]: Unknown UD DEPREL: dobj
+[Line                   183]: Unknown UD DEPREL: nsubjpass
+[Line                   186]: Unknown UD DEPREL: neg
+[Line                   189]: Unknown UD DEPREL: auxpass
+[Line                   198]: Unknown UPOS tag: CONJ
+[Line                   202]: Unknown UD DEPREL: neg
+[Line                   214]: Unknown UD DEPREL: dobj
+[Line                   219]: Unknown UPOS tag: CONJ
+[Line                   240]: Unknown UD DEPREL: neg
+[Line                   258]: Unknown UPOS tag: CONJ
+[Line                   266]: Unknown UPOS tag: CONJ
+[Line                   272]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Syntax
+[Line                   297]: Unknown UPOS tag: CONJ
+[Line                   407]: Unknown UPOS tag: CONJ
+[Line                   415]: Unknown UPOS tag: CONJ
+[Line                   430]: Unknown UPOS tag: CONJ
+[Line                   444]: Unknown UPOS tag: CONJ
+[Line                   519]: Unknown UPOS tag: CONJ
+[Line                   527]: Unknown UPOS tag: CONJ
+[Line                   536]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 28 errors
-Morpho errors: 28
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-train.conllu
-
-[Line                   1798]: Unknown attribute-value pair Polite=Pol
-[Line                   1805]: Unknown attribute-value pair Polite=Pol
-[Line                   1832]: Unknown attribute-value pair Polite=Pol
-[Line                   1883]: Unknown attribute-value pair Polite=Pol
-[Line                   2804]: Unknown attribute-value pair Polite=Pol
-[Line                   3036]: Unknown attribute-value pair Polite=Pol
-[Line                   3289]: Unknown attribute-value pair Polite=Inf
-[Line                   3291]: Unknown attribute-value pair Polite=Inf
-[Line                   4199]: Unknown attribute-value pair Polite=Pol
-[Line                   5816]: Unknown attribute-value pair Polite=Pol
-[Line                   5830]: Unknown attribute-value pair Polite=Pol
-[Line                   5849]: Unknown attribute-value pair Polite=Inf
-[Line                   7025]: Unknown attribute-value pair Polite=Pol
-[Line                   7083]: Unknown attribute-value pair Polite=Pol
-[Line                   7619]: Unknown attribute-value pair Polite=Inf
-[Line                   7900]: Unknown attribute-value pair Polite=Pol
-[Line                   9158]: Unknown attribute-value pair Polite=Inf
-[Line                   9607]: Unknown attribute-value pair Polite=Pol
-[Line                   9994]: Unknown attribute-value pair Polite=Pol
-...suppressing further errors regarding Morpho
-*** FAILED *** with 429 errors
-Morpho errors: 429
+*** FAILED *** with 30890 errors
+Morpho errors: 8482
+Syntax errors: 22408
 
 
 ******************
