@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:07:26Z">2016-12-06T13:07:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:08:25Z">2016-12-06T13:08:25 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2289,11 +2289,11 @@ Syntax errors: 5480
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:09:25Z">2016-12-05T12:09:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:08:15Z">2016-12-06T13:08:15 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-dev.conllu
+python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-dev.conllu
 
 [Line                   19]: Unknown attribute-value pair Negative=Neg
 [Line                   19]: Unknown UD DEPREL: neg
@@ -2342,56 +2342,7 @@ Syntax errors: 1586
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-test.conllu
-
-[Line                   3]: Unknown attribute-value pair Negative=Neg
-[Line                   3]: Unknown UD DEPREL: neg
-[Line                   13]: Unknown UPOS tag: CONJ
-[Line                   18]: Unknown UPOS tag: CONJ
-[Line                   21]: Unknown attribute-value pair Negative=Neg
-[Line                   28]: Unknown UD DEPREL: dobj
-[Line                   29]: Unknown UPOS tag: CONJ
-[Line                   40]: Unknown UPOS tag: CONJ
-[Line                   41]: Unknown UD DEPREL: dobj
-[Line                   56]: Unknown UD DEPREL: dobj
-[Line                   79]: Unknown attribute-value pair Negative=Neg
-[Line                   79]: Unknown UD DEPREL: neg
-[Line                   82]: Unknown UD DEPREL: dobj
-[Line                   102]: Unknown UD DEPREL: dobj
-[Line                   105]: Unknown UPOS tag: CONJ
-[Line                   115]: Unknown UD DEPREL: dobj
-[Line                   120]: Unknown UD DEPREL: dobj
-[Line                   134]: Unknown UD DEPREL: dobj
-[Line                   150]: Unknown UD DEPREL: dobj
-[Line                   160]: Unknown UD DEPREL: dobj
-[Line                   180]: Unknown UPOS tag: CONJ
-[Line                   185]: Unknown UD DEPREL: dobj
-[Line                   192]: Unknown attribute-value pair Negative=Neg
-[Line                   192]: Unknown UD DEPREL: neg
-[Line                   202]: Unknown attribute-value pair Negative=Neg
-[Line                   205]: Unknown UD DEPREL: dobj
-[Line                   216]: Unknown UPOS tag: CONJ
-[Line                   222]: Unknown UD DEPREL: dobj
-[Line                   224]: Unknown UPOS tag: CONJ
-[Line                   227]: Unknown UD DEPREL: dobj
-[Line                   243]: Unknown attribute-value pair Negative=Neg
-[Line                   248]: Unknown UD DEPREL: dobj
-[Line                   257]: Unknown UD DEPREL: dobj
-[Line                   259]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Syntax
-[Line                   267]: Unknown attribute-value pair Negative=Neg
-[Line                   314]: Unknown attribute-value pair Negative=Neg
-[Line                   322]: Unknown attribute-value pair Negative=Neg
-[Line                   322]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 2908 errors
-Morpho errors: 1240
-Syntax errors: 1668
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-train.conllu
+python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
 [Line                   18]: Unknown UPOS tag: CONJ
 [Line                   49]: Unknown attribute-value pair Negative=Neg
