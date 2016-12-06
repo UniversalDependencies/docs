@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:46:46Z">2016-12-06T13:46:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:47:14Z">2016-12-06T13:47:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -7022,11 +7022,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:12:06Z">2016-12-05T12:12:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:47:14Z">2016-12-06T13:47:14 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
+python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
 [Line                   11]: Unknown UD DEPREL: dobj
 [Line                   49]: Unknown UPOS tag: CONJ
@@ -7075,54 +7075,7 @@ Syntax errors: 76
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-test.conllu
-
-[Line                   26]: Unknown UD DEPREL: dobj
-[Line                   33]: Unknown UPOS tag: CONJ
-[Line                   42]: Unknown UD DEPREL: nmod:cmp
-[Line                   102]: Unknown UD DEPREL: dobj
-[Line                   108]: Unknown UD DEPREL: mwe
-[Line                   127]: Unknown UD DEPREL: dobj
-[Line                   136]: Unknown UD DEPREL: name
-[Line                   141]: Unknown UD DEPREL: dobj
-[Line                   144]: Unknown UPOS tag: CONJ
-[Line                   162]: Unknown UD DEPREL: dobj
-[Line                   170]: Unknown UD DEPREL: dobj
-[Line                   197]: Unknown UD DEPREL: dobj
-[Line                   317]: Unknown UD DEPREL: dobj
-[Line                   333]: Unknown UD DEPREL: dobj
-[Line                   339]: Unknown UD DEPREL: dobj
-[Line                   351]: Unknown UD DEPREL: dobj
-[Line                   363]: Unknown UD DEPREL: dobj
-[Line                   372]: Unknown UD DEPREL: dobj
-[Line                   375]: Unknown UPOS tag: CONJ
-[Line                   383]: Unknown UD DEPREL: dobj
-[Line                   385]: Unknown UD DEPREL: dobj
-[Line                   392]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-[Line                   492]: Unknown UPOS tag: CONJ
-[Line                   493]: Unknown UPOS tag: CONJ
-[Line                   509]: Unknown UPOS tag: CONJ
-[Line                   580]: Unknown UPOS tag: CONJ
-[Line                   604]: Unknown UPOS tag: CONJ
-[Line                   643]: Unknown UPOS tag: CONJ
-[Line                   730]: Unknown UPOS tag: CONJ
-[Line                   781]: Unknown UPOS tag: CONJ
-[Line                   934]: Unknown UPOS tag: CONJ
-[Line                   952]: Unknown UPOS tag: CONJ
-[Line                   1123]: Unknown UPOS tag: CONJ
-[Line                   1140]: Unknown UPOS tag: CONJ
-[Line                   1158]: Unknown UPOS tag: CONJ
-[Line                   1168]: Unknown UPOS tag: CONJ
-[Line                   1192]: Unknown UPOS tag: CONJ
-*** FAILED *** with 78 errors
-Morpho errors: 18
-Syntax errors: 60
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
+python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
 
 [Line                   8]: Unknown UD DEPREL: dobj
 [Line                   14]: Unknown UD DEPREL: dobj
@@ -7164,9 +7117,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 [Line                   881]: Unknown UPOS tag: CONJ
 [Line                   935]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 352 errors
-Morpho errors: 67
-Syntax errors: 285
+*** FAILED *** with 782 errors
+Morpho errors: 178
+Syntax errors: 604
 
 
 ******************
