@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T12:51:42Z">2016-12-06T12:51:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T12:53:29Z">2016-12-06T12:53:29 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -731,11 +731,11 @@ Syntax errors: 212
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:06:58Z">2016-12-05T12:06:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:53:04Z">2016-12-06T12:53:04 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
+python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
 
 [Line                   4]: Unknown UD DEPREL: name
 [Line                   5]: Unknown UD DEPREL: name
@@ -784,56 +784,7 @@ Syntax errors: 7392
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-test.conllu
-
-[Line                   12]: Unknown UD DEPREL: name
-[Line                   14]: Unknown UD DEPREL: name
-[Line                   16]: Unknown UD DEPREL: name
-[Line                   19]: Unknown UD DEPREL: dobj
-[Line                   25]: Unknown UD DEPREL: mwe
-[Line                   26]: Unknown UD DEPREL: mwe
-[Line                   49]: Unknown UD DEPREL: mwe
-[Line                   92]: Unknown UD DEPREL: dobj
-[Line                   118]: Unknown UD DEPREL: dobj
-[Line                   139]: Unknown UPOS tag: CONJ
-[Line                   143]: Unknown UD DEPREL: dobj
-[Line                   157]: Unknown UD DEPREL: mwe
-[Line                   158]: Unknown UD DEPREL: mwe
-[Line                   206]: Unknown UD DEPREL: dobj
-[Line                   209]: Unknown UD DEPREL: mwe
-[Line                   210]: Unknown UD DEPREL: mwe
-[Line                   215]: Unknown UD DEPREL: dobj
-[Line                   219]: Unknown UPOS tag: CONJ
-[Line                   251]: Unknown UD DEPREL: dobj
-[Line                   255]: Unknown UPOS tag: CONJ
-[Line                   260]: Unknown attribute-value pair Negative=Neg
-[Line                   260]: Unknown UD DEPREL: neg
-[Line                   263]: Unknown UD DEPREL: dobj
-[Line                   267]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Syntax
-[Line                   293]: Unknown UPOS tag: CONJ
-[Line                   315]: Unknown UPOS tag: CONJ
-[Line                   338]: Unknown UPOS tag: CONJ
-[Line                   385]: Unknown UPOS tag: CONJ
-[Line                   398]: Unknown UPOS tag: CONJ
-[Line                   430]: Unknown UPOS tag: CONJ
-[Line                   431]: Unknown attribute-value pair Negative=Neg
-[Line                   498]: Unknown UPOS tag: CONJ
-[Line                   512]: Unknown attribute-value pair Negative=Neg
-[Line                   519]: Unknown UPOS tag: CONJ
-[Line                   536]: Unknown UPOS tag: CONJ
-[Line                   598]: Unknown UPOS tag: CONJ
-[Line                   647]: Unknown UPOS tag: CONJ
-[Line                   686]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 9715 errors
-Morpho errors: 1913
-Syntax errors: 7802
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-train.conllu
+python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 
 [Line                   5]: Unknown UD DEPREL: name
 [Line                   7]: Unknown UD DEPREL: name
