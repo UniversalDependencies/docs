@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:33:24Z">2016-12-06T13:33:24 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:34:07Z">2016-12-06T13:34:07 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5570,11 +5570,11 @@ Syntax errors: 15725
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:10:25Z">2016-12-05T12:10:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:34:01Z">2016-12-06T13:34:01 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 [Line                   10]: Unknown UPOS tag: CONJ
 [Line                   16]: Unknown UD DEPREL: dobj
@@ -5623,56 +5623,7 @@ Syntax errors: 645
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-test.conllu
-
-[Line                   21]: Unknown UD DEPREL: nsubjpass
-[Line                   27]: Unknown UPOS tag: CONJ
-[Line                   52]: Unknown UD DEPREL: dobj
-[Line                   57]: Unknown UPOS tag: CONJ
-[Line                   59]: Unknown UD DEPREL: nsubjpass
-[Line                   60]: Unknown UD DEPREL: auxpass
-[Line                   97]: Unknown UD DEPREL: name
-[Line                   100]: Unknown UD DEPREL: name
-[Line                   103]: Unknown UD DEPREL: name
-[Line                   106]: Unknown UD DEPREL: name
-[Line                   109]: Unknown UPOS tag: CONJ
-[Line                   118]: Unknown UD DEPREL: name
-[Line                   121]: Unknown UD DEPREL: dobj
-[Line                   130]: Unknown UD DEPREL: dobj
-[Line                   136]: Unknown UD DEPREL: name
-[Line                   165]: Unknown UD DEPREL: dobj
-[Line                   172]: Unknown UPOS tag: CONJ
-[Line                   177]: Unknown UPOS tag: CONJ
-[Line                   184]: Unknown UD DEPREL: dobj
-[Line                   193]: Unknown UPOS tag: CONJ
-[Line                   219]: Unknown UD DEPREL: name
-[Line                   221]: Unknown UPOS tag: CONJ
-[Line                   236]: Unknown UPOS tag: CONJ
-[Line                   241]: Unknown UPOS tag: CONJ
-[Line                   243]: Unknown UPOS tag: CONJ
-[Line                   259]: Unknown UD DEPREL: name
-[Line                   260]: Unknown UD DEPREL: name
-[Line                   286]: Unknown UD DEPREL: dobj
-[Line                   294]: Unknown UD DEPREL: nsubjpass
-...suppressing further errors regarding Syntax
-[Line                   313]: Unknown UPOS tag: CONJ
-[Line                   318]: Unknown UPOS tag: CONJ
-[Line                   321]: Unknown UPOS tag: CONJ
-[Line                   360]: Unknown attribute-value pair VerbForm=Trans
-[Line                   379]: Unknown UPOS tag: CONJ
-[Line                   415]: Unknown UPOS tag: CONJ
-[Line                   472]: Unknown UPOS tag: CONJ
-[Line                   482]: Unknown UPOS tag: CONJ
-[Line                   527]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 893 errors
-Morpho errors: 311
-Syntax errors: 582
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-train.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 [Line                   7]: Unknown UPOS tag: CONJ
 [Line                   13]: Unknown UD DEPREL: dobj
