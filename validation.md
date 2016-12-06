@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:30:19Z">2016-12-06T13:30:19 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:31:19Z">2016-12-06T13:31:19 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5275,11 +5275,11 @@ python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:12:07Z">2016-12-06T12:12:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:31:08Z">2016-12-06T13:31:08 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
+python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
 
 [Line                   18]: Unknown UD DEPREL: name
 [Line                   23]: Unknown UD DEPREL: dobj
@@ -5328,56 +5328,7 @@ Syntax errors: 1581
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-test.conllu
-
-[Line                   13]: Unknown UD DEPREL: dobj
-[Line                   22]: Unknown UD DEPREL: name
-[Line                   40]: Unknown UD DEPREL: dobj
-[Line                   56]: Unknown UD DEPREL: dobj
-[Line                   61]: Unknown UD DEPREL: name
-[Line                   68]: Unknown UD DEPREL: dobj
-[Line                   89]: Unknown UD DEPREL: name
-[Line                   92]: Unknown UD DEPREL: dobj
-[Line                   111]: Unknown UD DEPREL: name
-[Line                   116]: Unknown UPOS tag: CONJ
-[Line                   119]: Unknown UD DEPREL: dobj
-[Line                   144]: Unknown UD DEPREL: dobj
-[Line                   151]: Unknown UPOS tag: CONJ
-[Line                   159]: Unknown UD DEPREL: dobj
-[Line                   167]: Unknown UD DEPREL: dobj
-[Line                   180]: Unknown UD DEPREL: dobj
-[Line                   203]: Unknown UD DEPREL: neg
-[Line                   205]: Unknown UD DEPREL: dobj
-[Line                   209]: Unknown UD DEPREL: auxpass
-[Line                   220]: Unknown UD DEPREL: dobj
-[Line                   225]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-[Line                   229]: Unknown UPOS tag: CONJ
-[Line                   249]: Unknown UPOS tag: CONJ
-[Line                   290]: Unknown UPOS tag: CONJ
-[Line                   305]: Unknown UPOS tag: CONJ
-[Line                   312]: Unknown UPOS tag: CONJ
-[Line                   390]: Unknown UPOS tag: CONJ
-[Line                   499]: Unknown UPOS tag: CONJ
-[Line                   647]: Unknown UPOS tag: CONJ
-[Line                   664]: Unknown UPOS tag: CONJ
-[Line                   686]: Unknown UPOS tag: CONJ
-[Line                   704]: Unknown UPOS tag: CONJ
-[Line                   829]: Unknown UPOS tag: CONJ
-[Line                   870]: Unknown UPOS tag: CONJ
-[Line                   959]: Unknown UPOS tag: CONJ
-[Line                   998]: Unknown UPOS tag: CONJ
-[Line                   1021]: Unknown UPOS tag: CONJ
-[Line                   1044]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 2014 errors
-Morpho errors: 436
-Syntax errors: 1578
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
+python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
 
 [Line                   15]: Unknown UD DEPREL: neg
 [Line                   16]: Unknown UD DEPREL: auxpass
