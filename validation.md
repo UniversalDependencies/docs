@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:23:57Z">2016-12-06T13:23:57 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:25:27Z">2016-12-06T13:25:27 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4448,11 +4448,11 @@ Syntax errors: 4790
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:09:39Z">2016-12-05T12:09:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:25:09Z">2016-12-06T13:25:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
+python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
 
 [Line                   11]: Unknown UD DEPREL: dobj
 [Line                   13]: Unknown UD DEPREL: nsubjpass
@@ -4501,56 +4501,7 @@ Syntax errors: 864
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-test.conllu
-
-[Line                   3]: Unknown UD DEPREL: nsubjpass
-[Line                   7]: Unknown UD DEPREL: csubjpass
-[Line                   14]: Unknown UD DEPREL: mwe
-[Line                   28]: Unknown UD DEPREL: nsubjpass
-[Line                   32]: Unknown UD DEPREL: dobj
-[Line                   37]: Unknown UPOS tag: CONJ
-[Line                   38]: Unknown UD DEPREL: nsubjpass
-[Line                   64]: Unknown UPOS tag: CONJ
-[Line                   82]: Unknown UPOS tag: CONJ
-[Line                   84]: Unknown UD DEPREL: nsubjpass
-[Line                   88]: Unknown UD DEPREL: nsubjpass
-[Line                   94]: Unknown UD DEPREL: neg
-[Line                   99]: Unknown UD DEPREL: csubjpass
-[Line                   100]: Unknown UD DEPREL: dobj
-[Line                   104]: Unknown UD DEPREL: dobj
-[Line                   113]: Unknown UD DEPREL: nsubjpass
-[Line                   116]: Unknown UD DEPREL: mwe
-[Line                   120]: Unknown UPOS tag: CONJ
-[Line                   123]: Unknown UPOS tag: CONJ
-[Line                   132]: Unknown UPOS tag: CONJ
-[Line                   140]: Unknown UPOS tag: CONJ
-[Line                   169]: Unknown UPOS tag: CONJ
-[Line                   176]: Unknown UPOS tag: CONJ
-[Line                   179]: Unknown UD DEPREL: nsubjpass
-[Line                   187]: Unknown UD DEPREL: mwe
-[Line                   196]: Unknown UD DEPREL: neg
-[Line                   197]: Unknown UPOS tag: CONJ
-[Line                   202]: Unknown UD DEPREL: nsubjpass
-[Line                   206]: Unknown UD DEPREL: mwe
-[Line                   214]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Syntax
-[Line                   220]: Unknown UPOS tag: CONJ
-[Line                   227]: Unknown UPOS tag: CONJ
-[Line                   236]: Unknown UPOS tag: CONJ
-[Line                   255]: Unknown UPOS tag: CONJ
-[Line                   265]: Unknown UPOS tag: CONJ
-[Line                   271]: Unknown UPOS tag: CONJ
-[Line                   277]: Unknown UPOS tag: CONJ
-[Line                   287]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 966 errors
-Morpho errors: 361
-Syntax errors: 605
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
+python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
 
 [Line                   3]: Unknown UPOS tag: CONJ
 [Line                   5]: Unknown UD DEPREL: dobj
