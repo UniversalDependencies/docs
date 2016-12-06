@@ -33,7 +33,7 @@ Every language repository should contain the following five files (where `xx` is
 
 1. `xx-ud-train.conllu`
 2. `xx-ud-dev.conllu`
-3. ~~`xx-ud-test.conllu`~~ temporary rule for UD 2.0: **do not publish the test set!**
+3. ~~xx-ud-test.conllu~~ temporary rule for UD 2.0: **do not publish the test set!**
 4. `README.txt` or `README.md`
 5. `LICENSE.txt`
 
