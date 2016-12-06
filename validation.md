@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:17:22Z">2016-12-06T13:17:22 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:18:52Z">2016-12-06T13:18:52 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3523,90 +3523,104 @@ Syntax errors: 7237
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:38:12Z">2016-12-01T01:38:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:18:34Z">2016-12-06T13:18:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
+python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
 
+[Line                   12]: Unknown UD DEPREL: dobj
+[Line                   52]: Unknown UPOS tag: CONJ
+[Line                   77]: Unknown UPOS tag: CONJ
 [Line                   134]: Unknown attribute-value pair Polite=Pol
 [Line                   149]: Unknown attribute-value pair Polite=Pol
+[Line                   212]: Unknown UD DEPREL: nsubjpass
+[Line                   217]: Unknown UD DEPREL: auxpass
+[Line                   218]: Unknown UD DEPREL: auxpass
+[Line                   223]: Unknown UD DEPREL: nsubjpass
+[Line                   225]: Unknown UD DEPREL: auxpass
+[Line                   226]: Unknown UD DEPREL: auxpass
+[Line                   249]: Unknown UD DEPREL: auxpass
+[Line                   250]: Unknown UD DEPREL: auxpass
+[Line                   293]: Unknown UD DEPREL: auxpass
+[Line                   295]: Unknown UPOS tag: CONJ
+[Line                   303]: Unknown UPOS tag: CONJ
+[Line                   309]: Unknown UPOS tag: CONJ
+[Line                   313]: Unknown UD DEPREL: nsubjpass
+[Line                   316]: Unknown UD DEPREL: auxpass
+[Line                   317]: Unknown UD DEPREL: auxpass
+[Line                   322]: Unknown UD DEPREL: dobj
+[Line                   337]: Unknown UD DEPREL: auxpass
 [Line                   374]: Unknown attribute-value pair Polite=Pol
+[Line                   427]: Unknown UD DEPREL: dobj
 [Line                   444]: Unknown attribute-value pair Polite=Pol
 [Line                   457]: Unknown attribute-value pair Polite=Pol
+[Line                   459]: Unknown UPOS tag: CONJ
+[Line                   463]: Unknown UD DEPREL: auxpass
+[Line                   464]: Unknown UD DEPREL: auxpass
+[Line                   474]: Unknown UPOS tag: CONJ
+[Line                   478]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
+[Line                   658]: Unknown UPOS tag: CONJ
 [Line                   704]: Unknown attribute-value pair Polite=Pol
 [Line                   806]: Unknown attribute-value pair Polite=Pol
-[Line                   1435]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1537]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1583]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1778]: Unknown attribute-value pair Polite=Pol
-[Line                   1818]: Unknown attribute-value pair Polite=Pol
-[Line                   1874]: Unknown attribute-value pair Polite=Pol
-[Line                   1889]: Unknown attribute-value pair Polite=Pol
-[Line                   1909]: Unknown attribute-value pair Polite=Pol
-[Line                   1922]: Unknown attribute-value pair Polite=Pol
-[Line                   1926]: Unknown attribute-value pair Negative=Neg
-[Line                   1943]: Unknown attribute-value pair Polite=Pol
-[Line                   1952]: Unknown attribute-value pair Polite=Pol
+[Line                   944]: Unknown UPOS tag: CONJ
+[Line                   979]: Unknown UPOS tag: CONJ
+[Line                   1005]: Unknown UPOS tag: CONJ
+[Line                   1021]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 962 errors
-Morpho errors: 962
+*** FAILED *** with 4715 errors
+Morpho errors: 1644
+Syntax errors: 3071
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-test.conllu
+python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 
-[Line                   126]: Unknown attribute-value pair Negative=Neg
-[Line                   412]: Unknown attribute-value pair Polite=Pol
-[Line                   577]: Unknown attribute-value pair Polite=Pol
-[Line                   615]: Unknown attribute-value pair VerbForm=Trans
-[Line                   626]: Unknown attribute-value pair VerbForm=Trans
-[Line                   660]: Unknown attribute-value pair Polite=Pol
-[Line                   1044]: Unknown attribute-value pair Polite=Pol
-[Line                   1068]: Unknown attribute-value pair Polite=Pol
-[Line                   1069]: Unknown attribute-value pair Polite=Pol
-[Line                   1129]: Unknown attribute-value pair Polite=Pol
-[Line                   1226]: Unknown attribute-value pair Polite=Pol
-[Line                   1227]: Unknown attribute-value pair Polite=Pol
-[Line                   1323]: Unknown attribute-value pair Polite=Pol
-[Line                   1343]: Unknown attribute-value pair Polite=Pol
-[Line                   1345]: Unknown attribute-value pair Polite=Pol
-[Line                   1350]: Unknown attribute-value pair Polite=Pol
-[Line                   1351]: Unknown attribute-value pair Polite=Pol
-[Line                   1355]: Unknown attribute-value pair Polite=Pol
-[Line                   1450]: Unknown attribute-value pair Polite=Pol
-...suppressing further errors regarding Morpho
-*** FAILED *** with 929 errors
-Morpho errors: 929
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-train.conllu
-
+[Line                   15]: Unknown UD DEPREL: dobj
+[Line                   37]: Unknown UPOS tag: CONJ
+[Line                   70]: Unknown UD DEPREL: dobj
 [Line                   98]: Unknown attribute-value pair Polite=Pol
+[Line                   98]: Unknown UD DEPREL: dobj
+[Line                   103]: Unknown UD DEPREL: auxpass
+[Line                   104]: Unknown UD DEPREL: auxpass
+[Line                   110]: Unknown UPOS tag: CONJ
+[Line                   136]: Unknown UPOS tag: CONJ
+[Line                   145]: Unknown UD DEPREL: dobj
+[Line                   168]: Unknown UD DEPREL: dobj
+[Line                   196]: Unknown UPOS tag: CONJ
+[Line                   209]: Unknown UPOS tag: CONJ
+[Line                   234]: Unknown UD DEPREL: auxpass
+[Line                   265]: Unknown UPOS tag: CONJ
+[Line                   287]: Unknown UPOS tag: CONJ
+[Line                   293]: Unknown UPOS tag: CONJ
+[Line                   301]: Unknown UD DEPREL: auxpass
+[Line                   312]: Unknown UPOS tag: CONJ
+[Line                   317]: Unknown UD DEPREL: dobj
+[Line                   320]: Unknown UD DEPREL: auxpass
+[Line                   321]: Unknown UD DEPREL: auxpass
+[Line                   328]: Unknown UD DEPREL: dobj
+[Line                   337]: Unknown UPOS tag: CONJ
+[Line                   342]: Unknown UD DEPREL: auxpass
+[Line                   343]: Unknown UD DEPREL: auxpass
+[Line                   357]: Unknown UD DEPREL: dobj
 [Line                   359]: Unknown attribute-value pair VerbForm=Trans
+[Line                   361]: Unknown UD DEPREL: auxpass
+[Line                   362]: Unknown UD DEPREL: auxpass
+[Line                   398]: Unknown UPOS tag: CONJ
+[Line                   404]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
 [Line                   417]: Unknown attribute-value pair VerbForm=Trans
 [Line                   459]: Unknown attribute-value pair Polite=Pol
+[Line                   464]: Unknown UPOS tag: CONJ
 [Line                   471]: Unknown attribute-value pair Polite=Pol
 [Line                   472]: Unknown attribute-value pair Polite=Pol
 [Line                   473]: Unknown attribute-value pair Polite=Pol
-[Line                   480]: Unknown attribute-value pair VerbForm=Trans
-[Line                   540]: Unknown attribute-value pair VerbForm=Trans
-[Line                   589]: Unknown attribute-value pair Polite=Pol
-[Line                   609]: Unknown attribute-value pair Polite=Pol
-[Line                   610]: Unknown attribute-value pair Polite=Pol
-[Line                   702]: Unknown attribute-value pair VerbForm=Trans
-[Line                   762]: Unknown attribute-value pair Polite=Pol
-[Line                   764]: Unknown attribute-value pair Polite=Pol
-[Line                   765]: Unknown attribute-value pair Polite=Pol
-[Line                   766]: Unknown attribute-value pair Polite=Pol
-[Line                   817]: Unknown attribute-value pair Negative=Neg
-[Line                   861]: Unknown attribute-value pair Polite=Pol
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 7759 errors
-Morpho errors: 7759
+*** FAILED *** with 37587 errors
+Morpho errors: 12869
+Syntax errors: 24718
 
 
 ******************
