@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T12:54:25Z">2016-12-06T12:54:25 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T12:55:09Z">2016-12-06T12:55:09 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1051,28 +1051,105 @@ Syntax errors: 265
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T21:52:46Z">2016-11-14T21:52:46 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:55:02Z">2016-12-06T12:55:02 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
 
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-test.conllu
-
-*** PASSED ***
+[Line                   9]: Unknown UD DEPREL: dobj
+[Line                   12]: Unknown UD DEPREL: dobj
+[Line                   22]: Unknown UPOS tag: CONJ
+[Line                   33]: Unknown UD DEPREL: auxpass
+[Line                   35]: Unknown UD DEPREL: nsubjpass
+[Line                   52]: Unknown attribute-value pair Negative=Neg
+[Line                   56]: Unknown UD DEPREL: dobj
+[Line                   60]: Unknown UPOS tag: CONJ
+[Line                   84]: Unknown UD DEPREL: dobj
+[Line                   93]: Unknown UD DEPREL: dobj
+[Line                   96]: Unknown UPOS tag: CONJ
+[Line                   110]: Unknown UD DEPREL: dobj
+[Line                   115]: Unknown UPOS tag: CONJ
+[Line                   124]: Unknown UD DEPREL: dobj
+[Line                   130]: Unknown UD DEPREL: auxpass
+[Line                   134]: Unknown UD DEPREL: nsubjpass
+[Line                   156]: Unknown UD DEPREL: name
+[Line                   158]: Unknown UD DEPREL: dobj
+[Line                   167]: Unknown UD DEPREL: nsubjpass
+[Line                   176]: Unknown UD DEPREL: auxpass
+[Line                   188]: Unknown UD DEPREL: dobj
+[Line                   193]: Unknown UD DEPREL: nsubjpass
+[Line                   197]: Unknown UPOS tag: CONJ
+[Line                   210]: Unknown UD DEPREL: name
+[Line                   232]: Unknown UPOS tag: CONJ
+[Line                   248]: Unknown UD DEPREL: dobj
+[Line                   249]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Syntax
+[Line                   322]: Unknown UPOS tag: CONJ
+[Line                   370]: Unknown UPOS tag: CONJ
+[Line                   476]: Unknown UPOS tag: CONJ
+[Line                   513]: Unknown UPOS tag: CONJ
+[Line                   554]: Unknown UPOS tag: CONJ
+[Line                   576]: Unknown UPOS tag: CONJ
+[Line                   580]: Unknown UPOS tag: CONJ
+[Line                   588]: Unknown attribute-value pair Negative=Neg
+[Line                   622]: Unknown UPOS tag: CONJ
+[Line                   630]: Unknown UPOS tag: CONJ
+[Line                   788]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 522 errors
+Morpho errors: 178
+Syntax errors: 344
 
 
 ******************
 
 python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conllu
 
-*** PASSED ***
+[Line                   11]: Unknown UD DEPREL: dobj
+[Line                   31]: Unknown UD DEPREL: dobj
+[Line                   35]: Unknown UD DEPREL: dobj
+[Line                   39]: Unknown UPOS tag: CONJ
+[Line                   44]: Unknown UD DEPREL: dobj
+[Line                   65]: Unknown UPOS tag: CONJ
+[Line                   72]: Unknown UD DEPREL: dobj
+[Line                   81]: Unknown UPOS tag: CONJ
+[Line                   86]: Unknown UD DEPREL: dobj
+[Line                   91]: Unknown attribute-value pair Negative=Neg
+[Line                   91]: Unknown UD DEPREL: neg
+[Line                   94]: Unknown UD DEPREL: dobj
+[Line                   97]: Unknown UPOS tag: CONJ
+[Line                   104]: Unknown UD DEPREL: mwe
+[Line                   105]: Unknown UD DEPREL: mwe
+[Line                   115]: Unknown UPOS tag: CONJ
+[Line                   117]: Unknown UPOS tag: CONJ
+[Line                   125]: Unknown UD DEPREL: dobj
+[Line                   131]: Unknown UD DEPREL: name
+[Line                   161]: Unknown UD DEPREL: dobj
+[Line                   165]: Unknown UD DEPREL: dobj
+[Line                   181]: Unknown UD DEPREL: dobj
+[Line                   183]: Unknown UPOS tag: CONJ
+[Line                   186]: Unknown attribute-value pair Negative=Neg
+[Line                   192]: Unknown UD DEPREL: mwe
+[Line                   193]: Unknown UD DEPREL: auxpass
+[Line                   194]: Unknown UD DEPREL: nsubjpass
+[Line                   200]: Unknown attribute-value pair Negative=Neg
+[Line                   203]: Unknown UD DEPREL: dobj
+[Line                   205]: Unknown UPOS tag: CONJ
+[Line                   212]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Syntax
+[Line                   254]: Unknown attribute-value pair Negative=Neg
+[Line                   287]: Unknown UPOS tag: CONJ
+[Line                   345]: Unknown attribute-value pair Negative=Neg
+[Line                   347]: Unknown UPOS tag: CONJ
+[Line                   366]: Unknown UPOS tag: CONJ
+[Line                   409]: Unknown UPOS tag: CONJ
+[Line                   413]: Unknown attribute-value pair Negative=Neg
+...suppressing further errors regarding Morpho
+*** FAILED *** with 15793 errors
+Morpho errors: 6002
+Syntax errors: 9791
 
 
 ******************
