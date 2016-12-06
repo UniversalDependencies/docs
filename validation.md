@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:47:40Z">2016-12-06T13:47:40 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T15:15:33Z">2016-12-06T15:15:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1853,20 +1853,20 @@ Syntax errors: 18544
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:04:55Z">2016-12-06T13:04:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T15:15:29Z">2016-12-06T15:15:29 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
 
-[Line                   15]: Unknown UD DEPREL: mwe
+[Line                   15]: Unknown UD DEPREL: name
 [Line                   20]: Unknown UD DEPREL: name
 [Line                   27]: Unknown UD DEPREL: name
 [Line                   34]: Unknown UD DEPREL: dobj
 [Line                   42]: Unknown UD DEPREL: dobj
 [Line                   53]: Unknown UD DEPREL: mwe
 [Line                   63]: Unknown UD DEPREL: dobj
-[Line                   69]: Unknown UD DEPREL: mwe
+[Line                   69]: Unknown UD DEPREL: name
 [Line                   79]: Unknown UD DEPREL: dobj
 [Line                   80]: Unknown UPOS tag: CONJ
 [Line                   105]: Unknown UPOS tag: CONJ
@@ -1877,7 +1877,7 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 [Line                   153]: Unknown UD DEPREL: mwe
 [Line                   158]: Unknown UD DEPREL: mwe
 [Line                   160]: Unknown UPOS tag: CONJ
-[Line                   163]: Unknown UD DEPREL: mwe
+[Line                   163]: Unknown UD DEPREL: name
 [Line                   173]: Unknown UPOS tag: CONJ
 [Line                   177]: Unknown UD DEPREL: dobj
 [Line                   180]: Unknown UD DEPREL: mwe
@@ -1899,9 +1899,58 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 [Line                   954]: Unknown UPOS tag: CONJ
 [Line                   973]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 634 errors
+*** FAILED *** with 669 errors
 Morpho errors: 127
-Syntax errors: 507
+Syntax errors: 542
+
+
+******************
+
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-test.conllu
+
+[Line                   15]: Unknown UD DEPREL: mwe
+[Line                   35]: Unknown UD DEPREL: name
+[Line                   46]: Unknown UD DEPREL: name
+[Line                   47]: Unknown UD DEPREL: name
+[Line                   48]: Unknown UPOS tag: CONJ
+[Line                   55]: Unknown UD DEPREL: mwe
+[Line                   56]: Unknown UD DEPREL: mwe
+[Line                   57]: Unknown UD DEPREL: dobj
+[Line                   58]: Unknown UD DEPREL: name
+[Line                   66]: Unknown UPOS tag: CONJ
+[Line                   83]: Unknown UPOS tag: CONJ
+[Line                   94]: Unknown UD DEPREL: mwe
+[Line                   95]: Unknown UD DEPREL: mwe
+[Line                   97]: Unknown UD DEPREL: dobj
+[Line                   102]: Unknown UD DEPREL: name
+[Line                   108]: Unknown UPOS tag: CONJ
+[Line                   148]: Unknown UD DEPREL: name
+[Line                   151]: Unknown UD DEPREL: name
+[Line                   152]: Unknown UD DEPREL: name
+[Line                   156]: Unknown UD DEPREL: name
+[Line                   157]: Unknown UD DEPREL: name
+[Line                   163]: Unknown UD DEPREL: mwe
+[Line                   164]: Unknown UPOS tag: CONJ
+[Line                   166]: Unknown UD DEPREL: mwe
+...suppressing further errors regarding Syntax
+[Line                   178]: Unknown UPOS tag: CONJ
+[Line                   225]: Unknown UPOS tag: CONJ
+[Line                   252]: Unknown UPOS tag: CONJ
+[Line                   275]: Unknown UPOS tag: CONJ
+[Line                   278]: Unknown UPOS tag: CONJ
+[Line                   285]: Unknown UPOS tag: CONJ
+[Line                   420]: Unknown UPOS tag: CONJ
+[Line                   557]: Unknown UPOS tag: CONJ
+[Line                   599]: Unknown UPOS tag: CONJ
+[Line                   618]: Unknown UPOS tag: CONJ
+[Line                   632]: Unknown UPOS tag: CONJ
+[Line                   727]: Unknown UPOS tag: CONJ
+[Line                   758]: Unknown UPOS tag: CONJ
+[Line                   802]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 724 errors
+Morpho errors: 120
+Syntax errors: 604
 
 
 ******************
@@ -1913,25 +1962,25 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 [Line                   10]: Unknown UD DEPREL: name
 [Line                   11]: Unknown UD DEPREL: name
 [Line                   15]: Unknown UD DEPREL: name
-[Line                   16]: Unknown UD DEPREL: mwe
-[Line                   17]: Unknown UD DEPREL: mwe
-[Line                   18]: Unknown UD DEPREL: mwe
-[Line                   19]: Unknown UD DEPREL: mwe
+[Line                   16]: Unknown UD DEPREL: name
+[Line                   17]: Unknown UD DEPREL: name
+[Line                   18]: Unknown UD DEPREL: name
+[Line                   19]: Unknown UD DEPREL: name
 [Line                   38]: Unknown UD DEPREL: auxpass
+[Line                   41]: Unknown UD DEPREL: nsubjpass
 [Line                   43]: Unknown UPOS tag: CONJ
 [Line                   59]: Unknown UPOS tag: CONJ
 [Line                   61]: Unknown UD DEPREL: dobj
 [Line                   62]: Unknown UPOS tag: CONJ
-[Line                   62]: Unknown UD DEPREL: mwe
-[Line                   63]: Unknown UD DEPREL: mwe
+[Line                   62]: Unknown UD DEPREL: name
+[Line                   63]: Unknown UD DEPREL: name
 [Line                   97]: Unknown UPOS tag: CONJ
 [Line                   109]: Unknown UD DEPREL: mwe
 [Line                   110]: Unknown UPOS tag: CONJ
 [Line                   113]: Unknown UD DEPREL: mwe
 [Line                   118]: Unknown UD DEPREL: auxpass
 [Line                   127]: Unknown UD DEPREL: name
-[Line                   161]: Unknown UD DEPREL: mwe
-[Line                   162]: Unknown UD DEPREL: name
+[Line                   161]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
 [Line                   174]: Unknown UPOS tag: CONJ
 [Line                   230]: Unknown UPOS tag: CONJ
@@ -1948,9 +1997,11 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 [Line                   957]: Unknown UPOS tag: CONJ
 [Line                   960]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 12909 errors
+[Tree number 3654 on line 55833]: HEAD == ID for 14
+*** FAILED *** with 13545 errors
+Format errors: 1
 Morpho errors: 2477
-Syntax errors: 10432
+Syntax errors: 11067
 
 
 ******************
