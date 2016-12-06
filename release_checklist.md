@@ -97,6 +97,7 @@ This block can be anywhere in the readme file. The properties are as follows:
 ## Repository branches
 
 While the official UD release is always through Lindat, many users of UD source their data from the GitHub language repositories. Therefore, the `master` branch of every language should contain the last, officially released version of the data for the given language. The development in between releases should happen on the `dev` branch of the repository.
+Although it is currently not locked, treebank maintainers should never touch the `master` branch, they should always push to `dev`. At release time, the release task force will take care of merging the contents of the `dev` branch into `master`.
 
 # Validation
 
