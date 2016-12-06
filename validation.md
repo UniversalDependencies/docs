@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:18:52Z">2016-12-06T13:18:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:19:18Z">2016-12-06T13:19:18 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3632,11 +3632,11 @@ Syntax errors: 24718
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:09:36Z">2016-12-05T12:09:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:19:16Z">2016-12-06T13:19:16 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
+python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: dobj
 [Line                   9]: Unknown UD DEPREL: dobj
@@ -3685,56 +3685,7 @@ Syntax errors: 396
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-test.conllu
-
-[Line                   3]: Unknown UD DEPREL: neg
-[Line                   10]: Unknown UD DEPREL: dobj
-[Line                   18]: Unknown UPOS tag: CONJ
-[Line                   27]: Unknown UPOS tag: CONJ
-[Line                   34]: Unknown UPOS tag: CONJ
-[Line                   40]: Unknown UD DEPREL: dobj
-[Line                   51]: Unknown UPOS tag: CONJ
-[Line                   69]: Unknown UPOS tag: CONJ
-[Line                   73]: Unknown UPOS tag: CONJ
-[Line                   80]: Unknown attribute-value pair VerbForm=Trans
-[Line                   86]: Unknown UPOS tag: CONJ
-[Line                   89]: Unknown UPOS tag: CONJ
-[Line                   97]: Unknown UD DEPREL: name
-[Line                   125]: Unknown UD DEPREL: dobj
-[Line                   136]: Unknown UD DEPREL: dobj
-[Line                   139]: Unknown UD DEPREL: dobj
-[Line                   146]: Unknown UPOS tag: CONJ
-[Line                   155]: Unknown UD DEPREL: neg
-[Line                   206]: Unknown UD DEPREL: name
-[Line                   207]: Unknown UD DEPREL: dobj
-[Line                   221]: Unknown UPOS tag: CONJ
-[Line                   233]: Unknown UD DEPREL: name
-[Line                   238]: Unknown UD DEPREL: dobj
-[Line                   244]: Unknown UD DEPREL: dobj
-[Line                   251]: Unknown UPOS tag: CONJ
-[Line                   257]: Unknown UPOS tag: CONJ
-[Line                   260]: Unknown UD DEPREL: dobj
-[Line                   272]: Unknown UD DEPREL: dobj
-[Line                   279]: Unknown UD DEPREL: dobj
-[Line                   284]: Unknown UD DEPREL: dobj
-[Line                   291]: Unknown UD DEPREL: neg
-[Line                   295]: Unknown UD DEPREL: dobj
-[Line                   297]: Unknown UPOS tag: CONJ
-[Line                   299]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Syntax
-[Line                   321]: Unknown UPOS tag: CONJ
-[Line                   359]: Unknown UPOS tag: CONJ
-[Line                   419]: Unknown UPOS tag: CONJ
-[Line                   436]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 564 errors
-Morpho errors: 208
-Syntax errors: 356
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
+python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
 
 [Line                   4]: Unknown UPOS tag: CONJ
 [Line                   14]: Unknown UD DEPREL: dobj
