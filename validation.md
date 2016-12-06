@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:39:27Z">2016-12-06T13:39:27 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:39:56Z">2016-12-06T13:39:56 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6103,11 +6103,11 @@ Syntax errors: 7175
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:11:29Z">2016-12-05T12:11:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:39:55Z">2016-12-06T13:39:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
 [Line                   3]: Unknown UPOS tag: CONJ
 [Line                   11]: Unknown UPOS tag: CONJ
@@ -6156,56 +6156,7 @@ Syntax errors: 216
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-test.conllu
-
-[Line                   3]: Unknown UD DEPREL: dobj
-[Line                   5]: Unknown attribute-value pair Negative=Pos
-[Line                   10]: Unknown attribute-value pair Negative=Neg
-[Line                   27]: Unknown attribute-value pair Negative=Neg
-[Line                   30]: Unknown attribute-value pair Negative=Neg
-[Line                   38]: Unknown UPOS tag: CONJ
-[Line                   43]: Unknown attribute-value pair Negative=Neg
-[Line                   45]: Unknown UD DEPREL: dobj
-[Line                   46]: Unknown UPOS tag: CONJ
-[Line                   47]: Unknown UD DEPREL: mwe
-[Line                   48]: Unknown attribute-value pair Negative=Pos
-[Line                   54]: Unknown attribute-value pair Negative=Pos
-[Line                   58]: Unknown UPOS tag: CONJ
-[Line                   60]: Unknown attribute-value pair Negative=Pos
-[Line                   72]: Unknown attribute-value pair Negative=Pos
-[Line                   75]: Unknown UPOS tag: CONJ
-[Line                   77]: Unknown attribute-value pair Negative=Pos
-[Line                   79]: Unknown UD DEPREL: dobj
-[Line                   80]: Unknown attribute-value pair Negative=Pos
-[Line                   82]: Unknown UPOS tag: CONJ
-[Line                   83]: Unknown UPOS tag: CONJ
-[Line                   83]: Unknown UD DEPREL: mwe
-[Line                   85]: Unknown attribute-value pair Negative=Pos
-[Line                   86]: Unknown UD DEPREL: dobj
-[Line                   89]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-[Line                   91]: Unknown UD DEPREL: dobj
-[Line                   97]: Unknown UD DEPREL: dobj
-[Line                   147]: Unknown UD DEPREL: neg
-[Line                   158]: Unknown UD DEPREL: dobj
-[Line                   171]: Unknown UD DEPREL: dobj
-[Line                   173]: Unknown UD DEPREL: dobj
-[Line                   214]: Unknown UD DEPREL: dobj
-[Line                   220]: Unknown UD DEPREL: dobj
-[Line                   228]: Unknown UD DEPREL: dobj
-[Line                   266]: Unknown UD DEPREL: mwe
-[Line                   273]: Unknown UD DEPREL: mwe
-[Line                   278]: Unknown UD DEPREL: mwe
-[Line                   279]: Unknown UD DEPREL: neg
-...suppressing further errors regarding Syntax
-*** FAILED *** with 654 errors
-Morpho errors: 462
-Syntax errors: 192
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
 [Line                   9]: Unknown attribute-value pair Negative=Pos
 [Line                   19]: Unknown UPOS tag: CONJ
