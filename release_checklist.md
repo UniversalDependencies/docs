@@ -83,6 +83,7 @@ The table on the front page is automatically generated from special lines in the
     License: CC BY-SA 4.0
     Genre: blog wiki legal news fiction
     Contributors: Ginter, Filip; Kanerva, Jenna; Laippala, Veronika; Missilä, Anna; Pyysalo, Sampo
+    Contact: turku@treebank.org
 
 This block can be anywhere in the readme file. The properties are as follows:
 
