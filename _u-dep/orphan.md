@@ -5,7 +5,7 @@ shortdef: 'orphan'
 udver: '2'
 ---
 
-The 'orphan' relation is used in cases of head ellipisis where simple promotion would result in unnatural 
+The 'orphan' relation is used in cases of head [ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in unnatural 
 and misleading dependency relation. The typical case is predicate ellipsis where one of the core arguments
 have to be promoted to clausal head.
 
@@ -24,3 +24,5 @@ standard relation [obj]() would be misleading because _bronze_ is not the object
 the `orphan` relation is used to indicate that this is a non-standard attachment. By contrast, the coordinating
 conjunction _and_ performs essentially the same function as in the non-elliptical case and therefore retains
 its normal relation `cc`.
+
+See further discussion of [ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis).
