@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:22:40Z">2016-12-06T13:22:40 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:22:59Z">2016-12-06T13:22:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4208,11 +4208,11 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:09:39Z">2016-12-05T12:09:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:22:59Z">2016-12-06T13:22:59 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
+python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 
 [Line                   39]: Unknown UD DEPREL: dobj
 [Line                   54]: Unknown UD DEPREL: dobj
@@ -4261,56 +4261,7 @@ Syntax errors: 43
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-test.conllu
-
-[Line                   5]: Unknown UD DEPREL: dobj
-[Line                   18]: Unknown UPOS tag: CONJ
-[Line                   29]: Unknown UD DEPREL: name
-[Line                   34]: Unknown UD DEPREL: dobj
-[Line                   39]: Unknown UD DEPREL: name
-[Line                   40]: Unknown UD DEPREL: name
-[Line                   41]: Unknown UD DEPREL: name
-[Line                   51]: Unknown UD DEPREL: name
-[Line                   58]: Unknown UD DEPREL: dobj
-[Line                   63]: Unknown UD DEPREL: dobj
-[Line                   82]: Unknown UD DEPREL: dobj
-[Line                   85]: Unknown UPOS tag: CONJ
-[Line                   86]: Unknown UD DEPREL: dobj
-[Line                   106]: Unknown UPOS tag: CONJ
-[Line                   128]: Unknown UPOS tag: CONJ
-[Line                   147]: Unknown UD DEPREL: dobj
-[Line                   161]: Unknown UPOS tag: CONJ
-[Line                   163]: Unknown UPOS tag: CONJ
-[Line                   173]: Unknown UPOS tag: CONJ
-[Line                   183]: Unknown UD DEPREL: dobj
-[Line                   198]: Unknown UPOS tag: CONJ
-[Line                   214]: Unknown UD DEPREL: dobj
-[Line                   221]: Unknown UD DEPREL: dobj
-[Line                   233]: Unknown UD DEPREL: dobj
-[Line                   238]: Unknown UD DEPREL: dobj
-[Line                   274]: Unknown UD DEPREL: dobj
-[Line                   334]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-[Line                   457]: Unknown UPOS tag: CONJ
-[Line                   481]: Unknown UPOS tag: CONJ
-[Line                   649]: Unknown attribute-value pair Mood=Cond
-[Line                   649]: Unknown attribute-value pair VerbForm=Trans
-[Line                   654]: Unknown attribute-value pair Mood=Cond
-[Line                   654]: Unknown attribute-value pair VerbForm=Trans
-[Line                   657]: Unknown attribute-value pair PronType=Itg
-[Line                   668]: Unknown attribute-value pair Aspect=Impf
-[Line                   668]: Unknown attribute-value pair VerbForm=Coverb
-[Line                   669]: Unknown attribute-value pair VerbForm=Trans
-[Line                   671]: Unknown attribute-value pair Aspect=Impf
-...suppressing further errors regarding Morpho
-*** FAILED *** with 77 errors
-Morpho errors: 37
-Syntax errors: 40
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
+python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
 
 [Line                   32]: Unknown UD DEPREL: dobj
 [Line                   44]: Unknown UPOS tag: CONJ
