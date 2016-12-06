@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T12:48:14Z">2016-12-06T12:48:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T12:49:37Z">2016-12-06T12:49:37 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -241,90 +241,104 @@ Syntax errors: 16651
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:44:18Z">2016-11-30T21:44:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:49:22Z">2016-12-06T12:49:22 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
+python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
 
+[Line                   11]: Unknown UD DEPREL: dobj
+[Line                   25]: Unknown attribute-value pair Definite=Red
+[Line                   30]: Unknown UD DEPREL: dobj
+[Line                   38]: Unknown attribute-value pair Definite=Red
+[Line                   41]: Unknown attribute-value pair Definite=Red
+[Line                   44]: Unknown attribute-value pair Definite=Red
+[Line                   45]: Unknown attribute-value pair Definite=Red
+[Line                   50]: Unknown attribute-value pair Definite=Red
+[Line                   54]: Unknown attribute-value pair Definite=Red
+[Line                   56]: Unknown UD DEPREL: dobj
+[Line                   63]: Unknown UD DEPREL: dobj
+[Line                   67]: Unknown attribute-value pair Definite=Red
+[Line                   74]: Unknown UPOS tag: CONJ
+[Line                   76]: Unknown attribute-value pair Definite=Red
+[Line                   80]: Unknown UPOS tag: CONJ
+[Line                   81]: Unknown attribute-value pair Definite=Red
+[Line                   82]: Unknown attribute-value pair Definite=Red
+[Line                   89]: Unknown attribute-value pair Definite=Red
+[Line                   89]: Unknown UD DEPREL: dobj
+[Line                   94]: Unknown attribute-value pair Definite=Red
+[Line                   97]: Unknown attribute-value pair Definite=Red
+[Line                   98]: Unknown UPOS tag: CONJ
+[Line                   100]: Unknown attribute-value pair Definite=Red
 [Line                   102]: Unknown attribute-value pair Foreign=Foreign
-[Line                   103]: Unknown attribute-value pair Foreign=Foreign
-[Line                   108]: Unknown attribute-value pair Foreign=Foreign
-[Line                   109]: Unknown attribute-value pair Foreign=Foreign
-[Line                   122]: Unknown attribute-value pair Foreign=Foreign
-[Line                   136]: Unknown attribute-value pair Foreign=Foreign
-[Line                   190]: Unknown attribute-value pair Foreign=Foreign
-[Line                   306]: Unknown attribute-value pair Foreign=Foreign
-[Line                   326]: Unknown attribute-value pair Foreign=Foreign
-[Line                   328]: Unknown attribute-value pair Foreign=Foreign
-[Line                   329]: Unknown attribute-value pair Foreign=Foreign
-[Line                   331]: Unknown attribute-value pair Foreign=Foreign
-[Line                   337]: Unknown attribute-value pair Foreign=Foreign
-[Line                   371]: Unknown attribute-value pair Foreign=Foreign
-[Line                   375]: Unknown attribute-value pair Foreign=Foreign
-[Line                   379]: Unknown attribute-value pair Foreign=Foreign
-[Line                   385]: Unknown attribute-value pair Foreign=Foreign
-[Line                   402]: Unknown attribute-value pair Foreign=Foreign
-[Line                   429]: Unknown attribute-value pair Foreign=Foreign
+[Line                   102]: Unknown UD DEPREL: foreign
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 535 errors
-Morpho errors: 535
+[Line                   108]: Unknown UD DEPREL: foreign
+[Line                   121]: Unknown UD DEPREL: dobj
+[Line                   139]: Unknown UD DEPREL: nsubjpass
+[Line                   143]: Unknown UD DEPREL: dobj
+[Line                   144]: Unknown UD DEPREL: dobj
+[Line                   146]: Unknown UD DEPREL: dobj
+[Line                   194]: Unknown UD DEPREL: dobj
+[Line                   198]: Unknown UD DEPREL: dobj
+[Line                   215]: Unknown UD DEPREL: dobj
+[Line                   222]: Unknown UD DEPREL: dobj
+[Line                   245]: Unknown UD DEPREL: dobj
+[Line                   248]: Unknown UD DEPREL: dobj
+[Line                   260]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
+*** FAILED *** with 8886 errors
+Morpho errors: 6668
+Syntax errors: 2218
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-test.conllu
+python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 
-[Line                   4]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6]: Unknown attribute-value pair Definite=Red
+[Line                   9]: Unknown attribute-value pair Definite=Red
+[Line                   9]: Unknown UD DEPREL: dobj
 [Line                   15]: Unknown attribute-value pair Foreign=Foreign
-[Line                   35]: Unknown attribute-value pair Foreign=Foreign
-[Line                   40]: Unknown attribute-value pair Foreign=Foreign
-[Line                   191]: Unknown attribute-value pair Foreign=Foreign
-[Line                   197]: Unknown attribute-value pair Foreign=Foreign
-[Line                   201]: Unknown attribute-value pair Foreign=Foreign
-[Line                   215]: Unknown attribute-value pair Foreign=Foreign
-[Line                   229]: Unknown attribute-value pair Foreign=Foreign
-[Line                   230]: Unknown attribute-value pair Foreign=Foreign
-[Line                   234]: Unknown attribute-value pair Foreign=Foreign
-[Line                   235]: Unknown attribute-value pair Foreign=Foreign
-[Line                   236]: Unknown attribute-value pair Foreign=Foreign
-[Line                   247]: Unknown attribute-value pair Foreign=Foreign
-[Line                   255]: Unknown attribute-value pair Foreign=Foreign
-[Line                   266]: Unknown attribute-value pair Foreign=Foreign
-[Line                   284]: Unknown attribute-value pair Foreign=Foreign
-[Line                   285]: Unknown attribute-value pair Foreign=Foreign
-[Line                   297]: Unknown attribute-value pair Foreign=Foreign
-...suppressing further errors regarding Morpho
-*** FAILED *** with 489 errors
-Morpho errors: 489
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-train.conllu
-
-[Line                   15]: Unknown attribute-value pair Foreign=Foreign
+[Line                   15]: Unknown UD DEPREL: foreign
 [Line                   16]: Unknown attribute-value pair Foreign=Foreign
+[Line                   29]: Unknown attribute-value pair Definite=Red
+[Line                   33]: Unknown attribute-value pair Definite=Red
 [Line                   35]: Unknown attribute-value pair Foreign=Foreign
+[Line                   35]: Unknown UD DEPREL: foreign
 [Line                   36]: Unknown attribute-value pair Foreign=Foreign
-[Line                   80]: Unknown attribute-value pair Foreign=Foreign
-[Line                   81]: Unknown attribute-value pair Foreign=Foreign
-[Line                   84]: Unknown attribute-value pair Foreign=Foreign
-[Line                   92]: Unknown attribute-value pair Foreign=Foreign
-[Line                   103]: Unknown attribute-value pair Foreign=Foreign
-[Line                   128]: Unknown attribute-value pair Foreign=Foreign
-[Line                   129]: Unknown attribute-value pair Foreign=Foreign
-[Line                   292]: Unknown attribute-value pair Foreign=Foreign
-[Line                   293]: Unknown attribute-value pair Foreign=Foreign
-[Line                   300]: Unknown attribute-value pair Foreign=Foreign
-[Line                   301]: Unknown attribute-value pair Foreign=Foreign
-[Line                   320]: Unknown attribute-value pair Foreign=Foreign
-[Line                   321]: Unknown attribute-value pair Foreign=Foreign
-[Line                   322]: Unknown attribute-value pair Foreign=Foreign
-[Line                   336]: Unknown attribute-value pair Foreign=Foreign
+[Line                   37]: Unknown UPOS tag: CONJ
+[Line                   41]: Unknown UD DEPREL: dobj
+[Line                   43]: Unknown attribute-value pair Definite=Red
+[Line                   49]: Unknown UPOS tag: CONJ
+[Line                   54]: Unknown UPOS tag: CONJ
+[Line                   57]: Unknown UD DEPREL: dobj
+[Line                   58]: Unknown attribute-value pair Definite=Red
+[Line                   61]: Unknown UPOS tag: CONJ
+[Line                   63]: Unknown UPOS tag: CONJ
+[Line                   68]: Unknown attribute-value pair Definite=Red
+[Line                   68]: Unknown UD DEPREL: dobj
+[Line                   75]: Unknown attribute-value pair Definite=Red
+[Line                   78]: Unknown attribute-value pair Definite=Red
+[Line                   79]: Unknown attribute-value pair Definite=Red
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 4071 errors
-Morpho errors: 4071
+[Line                   80]: Unknown UD DEPREL: foreign
+[Line                   118]: Unknown UD DEPREL: dobj
+[Line                   128]: Unknown UD DEPREL: foreign
+[Line                   142]: Unknown UD DEPREL: dobj
+[Line                   166]: Unknown UD DEPREL: dobj
+[Line                   168]: Unknown UD DEPREL: dobj
+[Line                   185]: Unknown UD DEPREL: dobj
+[Line                   194]: Unknown UD DEPREL: neg
+[Line                   200]: Unknown UD DEPREL: dobj
+[Line                   212]: Unknown UD DEPREL: dobj
+[Line                   225]: Unknown UD DEPREL: neg
+[Line                   231]: Unknown UD DEPREL: dobj
+[Line                   250]: Unknown UD DEPREL: neg
+...suppressing further errors regarding Syntax
+*** FAILED *** with 70469 errors
+Morpho errors: 53427
+Syntax errors: 17042
 
 
 ******************

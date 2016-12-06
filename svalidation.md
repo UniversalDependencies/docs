@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-12-06T12:47:49Z">2016-12-06T12:47:49 zulu</time>
+Regenerated <time class="timeago" datetime="2016-12-06T12:48:55Z">2016-12-06T12:48:55 zulu</time>
 
 # Aux chain
 
@@ -1551,23 +1551,23 @@ Search expression: `_ <conj@L _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cconj%40L+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cconj%40L+_&db=UD_Arabic-dev">1194</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cconj%40L+_&db=UD_Arabic-dev">24</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cconj%40L+_&db=UD_Arabic-dev">35</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cconj%40L+_&db=UD_Arabic-dev">1071</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cconj%40L+_&db=UD_Arabic-dev">23</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cconj%40L+_&db=UD_Arabic-dev">34</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cconj%40L+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cconj%40L+_&db=UD_Arabic-dev">18</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cconj%40L+_&db=UD_Arabic-dev">17</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cconj%40L+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cconj%40L+_&db=UD_Arabic-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cconj%40L+_&db=UD_Arabic-dev">6128</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cconj%40L+_&db=UD_Arabic-dev">1029</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cconj%40L+_&db=UD_Arabic-dev">27</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cconj%40L+_&db=UD_Arabic-dev">155</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cconj%40L+_&db=UD_Arabic-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cconj%40L+_&db=UD_Arabic-dev">5553</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cconj%40L+_&db=UD_Arabic-dev">877</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cconj%40L+_&db=UD_Arabic-dev">24</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cconj%40L+_&db=UD_Arabic-dev">143</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cconj%40L+_&db=UD_Arabic-dev">4</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cconj%40L+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cconj%40L+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cconj%40L+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cconj%40L+_&db=UD_Arabic-dev">3001</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cconj%40L+_&db=UD_Arabic-dev">1611</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cconj%40L+_&db=UD_Arabic-dev">2686</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cconj%40L+_&db=UD_Arabic-dev">1425</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cconj%40L+_&db=UD_Basque-dev">279</a></td>
@@ -2727,7 +2727,7 @@ Search expression: `_ <conj@L _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">13228 hits</span>
+<span class="widespan">11858 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cconj%40L+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -3228,22 +3228,22 @@ appos(brother, Sam)
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cappos%40R+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cappos%40R+_&db=UD_Arabic-dev">13</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cappos%40R+_&db=UD_Arabic-dev">10</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cappos%40R+_&db=UD_Arabic-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cappos%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cappos%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cappos%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cappos%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cappos%40R+_&db=UD_Arabic-dev">143</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cappos%40R+_&db=UD_Arabic-dev">126</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cappos%40R+_&db=UD_Arabic-dev">10</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cappos%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cappos%40R+_&db=UD_Arabic-dev">7</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cappos%40R+_&db=UD_Arabic-dev">5</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cappos%40R+_&db=UD_Arabic-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cappos%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cappos%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cappos%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cappos%40R+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cappos%40R+_&db=UD_Arabic-dev">24</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cappos%40R+_&db=UD_Arabic-dev">20</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cappos%40R+_&db=UD_Basque-dev">1</a></td>
@@ -4001,7 +4001,7 @@ appos(brother, Sam)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">199 hits</span>
+<span class="widespan">173 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cappos%40R+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -4313,21 +4313,21 @@ Search expression: `(!(VERB|AUX)) <cop _`
 <table>
 <tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>AUX</th><th>CONJ</th><th>DET</th><th>NOUN</th><th>NUM</th><th>PART</th><th>PRON</th><th>PROPN</th><th>PUNCT</th><th>SCONJ</th><th>SYM</th><th>X</th> </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ccop+_&db=UD_Arabic-dev">15</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ccop+_&db=UD_Arabic-dev">14</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Ccop+_&db=UD_Arabic-dev">14</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Ccop+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Ccop+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Ccop+_&db=UD_Arabic-dev">12</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Ccop+_&db=UD_Arabic-dev">5</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccop+_&db=UD_Arabic-dev">110</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Ccop+_&db=UD_Arabic-dev">26</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Ccop+_&db=UD_Arabic-dev">14</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Ccop+_&db=UD_Arabic-dev">17</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Ccop+_&db=UD_Arabic-dev">11</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Ccop+_&db=UD_Arabic-dev">3</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccop+_&db=UD_Arabic-dev">96</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Ccop+_&db=UD_Arabic-dev">24</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Ccop+_&db=UD_Arabic-dev">13</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Ccop+_&db=UD_Arabic-dev">14</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Ccop+_&db=UD_Arabic-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Ccop+_&db=UD_Arabic-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Ccop+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Ccop+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Ccop+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Ccop+_&db=UD_Arabic-dev">33</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Ccop+_&db=UD_Arabic-dev">30</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ccop+_&db=UD_Basque-dev">2</a></td>
@@ -4860,7 +4860,7 @@ Search expression: `(!(VERB|AUX)) <cop _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">248 hits</span>
+<span class="widespan">220 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21%28VERB%7CAUX%29%29+%3Ccop+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -5131,7 +5131,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">87 hits</span>
+<span class="widespan">76 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cmark+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -5652,7 +5652,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">2 hits</span>
+<span class="widespan">1 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21PUNCT+%3Cpunct+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -5906,13 +5906,6 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%28%3C%21punct%26%3C%21root%29+_&db=UD_Ancient_Greek-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">1 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%28%3C%21punct%26%3C%21root%29+_&db=UD_Arabic-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Basque</span>
@@ -6194,7 +6187,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">1192 hits</span>
+<span class="widespan">1080 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28PRON%7CDET%29%26%21PronType&db=UD_Arabic-dev">Go to search</a><p/>
@@ -6549,7 +6542,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">7726 hits</span>
+<span class="widespan">6876 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM%26%21NumType&db=UD_Arabic-dev">Go to search</a><p/>
@@ -6876,7 +6869,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">11394 hits</span>
+<span class="widespan">10283 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28VERB%7CAUX%29%26%21VerbForm&db=UD_Arabic-dev">Go to search</a><p/>
@@ -7545,21 +7538,21 @@ Search expression: `_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubj
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">34</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">32</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">24</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">21</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">4</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">100</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">10</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">90</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">8</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Basque-dev">&nbsp;</a></td>
@@ -8412,7 +8405,7 @@ Search expression: `_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubj
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">177 hits</span>
+<span class="widespan">159 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubjpass%7C%3Ecsubjpass+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -8816,13 +8809,13 @@ Search expression: `_ >dobj|>ccomp _ >dobj|>ccomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">43</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">40</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">7</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">151</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">146</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">1</a></td>
@@ -8830,8 +8823,8 @@ Search expression: `_ >dobj|>ccomp _ >dobj|>ccomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">484</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">107</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">436</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">97</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Basque-dev">&nbsp;</a></td>
@@ -9841,7 +9834,7 @@ Search expression: `_ >dobj|>ccomp _ >dobj|>ccomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">797 hits</span>
+<span class="widespan">730 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -10290,22 +10283,22 @@ Search expression: `_ <case (_ (<!nmod&<!nmod:agent&<!conj) _)`
 </tr>
 <tr><td>UD_Arabic</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">13234</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">11902</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">22</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">16</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">24</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">19</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">4</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">5</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">360</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">332</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Basque-dev">&nbsp;</a></td>
@@ -11465,7 +11458,7 @@ Search expression: `_ <case (_ (<!nmod&<!nmod:agent&<!conj) _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">13649 hits</span>
+<span class="widespan">12277 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Ccase+%28_+%28%3C%21nmod%26%3C%21nmod%3Aagent%26%3C%21conj%29+_%29&db=UD_Arabic-dev">Go to search</a><p/>
@@ -11913,7 +11906,7 @@ Search expression: `NOUN <case _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Ancient_Greek-dev">14</a></td>
 </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Arabic-dev">100</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Arabic-dev">87</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Basque-dev">10</a></td>
@@ -12022,7 +12015,7 @@ Search expression: `NOUN <case _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">100 hits</span>
+<span class="widespan">87 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -12286,7 +12279,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">91 hits</span>
+<span class="widespan">87 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3E%21conj%26%3E%21cc%26%3E%21punct%26%3E%21mwe%26%3E%21foreign+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -12748,7 +12741,7 @@ appos(brother, cousin)
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cappos+%28_+%3Cappos+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cappos+%28_+%3Cappos+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cappos+%28_+%3Cappos+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cappos+%28_+%3Cappos+_%29&db=UD_Arabic-dev">3</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cappos+%28_+%3Cappos+_%29&db=UD_Arabic-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cappos+%28_+%3Cappos+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cappos+%28_+%3Cappos+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cappos+%28_+%3Cappos+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
@@ -13432,7 +13425,7 @@ appos(brother, cousin)
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">4 hits</span>
+<span class="widespan">2 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cappos+%28_+%3Cappos+_%29&db=UD_Arabic-dev">Go to search</a><p/>
@@ -13745,7 +13738,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">3200 hits</span>
+<span class="widespan">2867 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -14214,15 +14207,15 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">164</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">77</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">156</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">70</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">13</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">110</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">95</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">&nbsp;</a></td>
@@ -14230,7 +14223,7 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">220</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">205</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Basque-dev">1</a></td>
@@ -15428,7 +15421,7 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">589 hits</span>
+<span class="widespan">543 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Arabic-dev">Go to search</a><p/>
@@ -15921,21 +15914,21 @@ Search expression: `!PRON&!NOUN&!PROPN >acl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Eacl+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Eacl+_&db=UD_Arabic-dev">94</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Eacl+_&db=UD_Arabic-dev">83</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Eacl+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Eacl+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Eacl+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Eacl+_&db=UD_Arabic-dev">6</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Eacl+_&db=UD_Arabic-dev">190</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Eacl+_&db=UD_Arabic-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Eacl+_&db=UD_Arabic-dev">101</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Eacl+_&db=UD_Arabic-dev">177</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Eacl+_&db=UD_Arabic-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Eacl+_&db=UD_Arabic-dev">88</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Eacl+_&db=UD_Arabic-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Eacl+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Eacl+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Eacl+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Eacl+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Eacl+_&db=UD_Arabic-dev">30</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Eacl+_&db=UD_Arabic-dev">288</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Eacl+_&db=UD_Arabic-dev">28</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Eacl+_&db=UD_Arabic-dev">245</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Eacl+_&db=UD_Basque-dev">35</a></td>
@@ -16856,7 +16849,7 @@ Search expression: `!PRON&!NOUN&!PROPN >acl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">711 hits</span>
+<span class="widespan">628 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21PRON%26%21NOUN%26%21PROPN+%3Eacl+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -17258,7 +17251,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Ancient_Greek-PROIEL-dev">415</a></td>
 </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Arabic-dev">3913</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Arabic-dev">3454</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Basque-dev">1829</a></td>
@@ -17461,7 +17454,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">3913 hits</span>
+<span class="widespan">3454 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -17919,7 +17912,7 @@ Search expression: `!NUM <nummod _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cnummod+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cnummod+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cnummod+_&db=UD_Arabic-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cnummod+_&db=UD_Arabic-dev">5</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cnummod+_&db=UD_Arabic-dev">4</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cnummod+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cnummod+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cnummod+_&db=UD_Arabic-dev">&nbsp;</a></td>
@@ -18406,7 +18399,7 @@ Search expression: `!NUM <nummod _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">6 hits</span>
+<span class="widespan">5 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21NUM+%3Cnummod+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -19165,16 +19158,16 @@ Search expression: `!AUX (<aux|<auxpass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">4</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">24</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">21</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">1661</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">13</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">1488</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">12</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">58</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">52</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Basque-dev">&nbsp;</a></td>
@@ -20125,7 +20118,7 @@ Search expression: `!AUX (<aux|<auxpass) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">1773 hits</span>
+<span class="widespan">1590 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21AUX+%28%3Caux%7C%3Cauxpass%29+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -20501,7 +20494,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">6543 hits</span>
+<span class="widespan">5815 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21CONJ%26%21SYM%26%21ADV+%3Ccc+_&db=UD_Arabic-dev">Go to search</a><p/>
@@ -20937,24 +20930,24 @@ Search expression: `_ < (_ <cc _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">6</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">59</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">5</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">52</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">23</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">19</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">37</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">17</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">33</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">2</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">2</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">16</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">11</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">28</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">61</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">24</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">58</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3C+%28_+%3Ccc+_%29&db=UD_Basque-dev">16</a></td>
@@ -22094,7 +22087,7 @@ Search expression: `_ < (_ <cc _)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">249 hits</span>
+<span class="widespan">223 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3C+%28_+%3Ccc+_%29&db=UD_Arabic-dev">Go to search</a><p/>
@@ -24325,23 +24318,23 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Excomp+_&db=UD_Ancient_Greek-PROIEL-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Arabic</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Excomp+_&db=UD_Arabic-dev">26</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Excomp+_&db=UD_Arabic-dev">23</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Excomp+_&db=UD_Arabic-dev">139</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Excomp+_&db=UD_Arabic-dev">119</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Excomp+_&db=UD_Arabic-dev">9</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Excomp+_&db=UD_Arabic-dev">19</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Excomp+_&db=UD_Arabic-dev">18</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Excomp+_&db=UD_Arabic-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Excomp+_&db=UD_Arabic-dev">1460</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Excomp+_&db=UD_Arabic-dev">59</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Excomp+_&db=UD_Arabic-dev">1329</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Excomp+_&db=UD_Arabic-dev">49</a></td>
 </tr>
 <tr><td>UD_Basque</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Excomp+_&db=UD_Basque-dev">10</a></td>
@@ -25463,7 +25456,7 @@ Search expression: `_ >xcomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Arabic</span>
-<span class="widespan">1712 hits</span>
+<span class="widespan">1547 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Excomp+_&db=UD_Arabic-dev">Go to search</a><p/>
