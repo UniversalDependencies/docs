@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:21:37Z">2016-12-06T13:21:37 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:21:56Z">2016-12-06T13:21:56 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4068,7 +4068,7 @@ Syntax errors: 19569
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T09:33:08Z">2016-12-06T09:33:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:21:55Z">2016-12-06T13:21:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4078,36 +4078,6 @@ python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-dev.conllu
 [Line                   2]: Exception caught!
 *** FAILED *** with 2 errors
 Format errors: 2
-
-
-******************
-
-python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-test.conllu
-
-[Line                   302]: Unknown UD DEPREL: name
-[Line                   669]: Unknown UD DEPREL: name
-[Line                   836]: Unknown UD DEPREL: name
-[Line                   870]: Unknown UD DEPREL: name
-[Line                   1036]: Unknown UD DEPREL: name
-[Line                   1040]: Unknown UD DEPREL: name
-[Line                   1213]: Unknown UD DEPREL: name
-[Line                   1303]: Unknown UD DEPREL: name
-[Line                   1343]: Unknown UD DEPREL: name
-[Line                   1409]: Unknown UD DEPREL: name
-[Line                   1410]: Unknown UD DEPREL: name
-[Line                   1455]: Unknown UD DEPREL: name
-[Line                   1481]: Unknown UD DEPREL: name
-[Line                   1526]: Unknown UD DEPREL: name
-[Line                   1531]: Unknown UD DEPREL: name
-[Line                   1532]: Unknown UD DEPREL: name
-[Line                   1536]: Unknown UD DEPREL: name
-[Line                   1540]: Unknown UD DEPREL: name
-[Line                   1544]: Unknown UD DEPREL: name
-...suppressing further errors regarding Syntax
-[Line                   2618]: Unknown UPOS tag: CONJ
-*** FAILED *** with 34 errors
-Morpho errors: 1
-Syntax errors: 33
 
 
 ******************
