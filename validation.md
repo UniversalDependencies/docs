@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:08:25Z">2016-12-06T13:08:25 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:09:08Z">2016-12-06T13:09:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2398,39 +2398,54 @@ Syntax errors: 12909
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:06:06Z">2016-12-01T01:06:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:09:02Z">2016-12-06T13:09:02 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Faroese/fo-ud-dev.conllu
+python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-dev.conllu
 
-[Line                   10]: Unknown UD DEPREL: obj
-[Line                   18]: Unknown UD DEPREL: obj
-[Line                   27]: Unknown UPOS tag: CCONJ
 [Line                   41]: Column FORM is not allowed to contain whitespace: '40 %'
 [Line                   41]: Column LEMMA is not allowed to contain whitespace: '40 %'
-[Line                   55]: Unknown UD DEPREL: obj
 [Line                   57]: DEPREL can only be "root" if HEAD is 0
 [Tree number 7 on line 48]: HEAD == ID for 9
 [Tree number 7 on line 48]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9 are not reachable from the root 0.
-*** FAILED *** with 9 errors
+*** FAILED *** with 5 errors
 Format errors: 3
-Morpho errors: 1
-Syntax errors: 5
+Syntax errors: 2
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Faroese/fo-ud-tagged.conllu
+python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-tagged.conllu
 
 [Tree number 1 on line 2]: Multiple root words: [1, 2, 3, 4]
 [Tree number 2 on line 7]: Multiple root words: [1, 2]
+[Line                   14]: Unknown UPOS tag: CONJ
+[Line                   18]: Unknown UPOS tag: CONJ
+[Line                   29]: Unknown UPOS tag: CONJ
+[Line                   43]: Unknown UPOS tag: CONJ
 [Tree number 3 on line 10]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
 [Tree number 4 on line 65]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+[Line                   89]: Unknown UPOS tag: CONJ
+[Line                   97]: Unknown UPOS tag: CONJ
+[Line                   102]: Unknown UPOS tag: CONJ
 [Tree number 5 on line 79]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[Line                   123]: Unknown UPOS tag: CONJ
+[Line                   161]: Unknown UPOS tag: CONJ
+[Line                   164]: Unknown UPOS tag: CONJ
+[Line                   166]: Unknown UPOS tag: CONJ
+[Line                   180]: Unknown UPOS tag: CONJ
 [Tree number 6 on line 117]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]
 [Tree number 7 on line 191]: Multiple root words: [1, 2, 3]
+[Line                   198]: Unknown UPOS tag: CONJ
+[Line                   217]: Unknown UPOS tag: CONJ
+[Line                   221]: Unknown UPOS tag: CONJ
 [Tree number 8 on line 195]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
+[Line                   247]: Unknown UPOS tag: CONJ
+[Line                   264]: Unknown UPOS tag: CONJ
+[Line                   286]: Unknown UPOS tag: CONJ
+[Line                   304]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
 [Tree number 9 on line 228]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97]
 [Tree number 10 on line 326]: Multiple root words: [1, 2, 3]
 [Tree number 11 on line 330]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132]
@@ -2441,36 +2456,16 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 [Tree number 17 on line 649]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]
 [Tree number 18 on line 722]: Multiple root words: [1, 2, 3]
 [Tree number 19 on line 726]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53]
-[Line                   785]: Unknown attribute-value pair Foreign=Foreign
 [Tree number 20 on line 780]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
 ...suppressing further errors regarding Syntax
-[Line                   855]: Unknown attribute-value pair Foreign=Foreign
-[Line                   958]: Unknown attribute-value pair Foreign=Foreign
-[Line                   969]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1415]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1423]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1449]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1554]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1596]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1597]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1631]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1995]: Unknown attribute-value pair Foreign=Foreign
-[Line                   3342]: Unknown attribute-value pair Foreign=Foreign
-[Line                   3343]: Unknown attribute-value pair Foreign=Foreign
-[Line                   3356]: Unknown attribute-value pair Foreign=Foreign
-[Line                   3357]: Unknown attribute-value pair Foreign=Foreign
-[Line                   3369]: Unknown attribute-value pair Foreign=Foreign
-[Line                   3370]: Unknown attribute-value pair Foreign=Foreign
-[Line                   3435]: Unknown attribute-value pair Foreign=Foreign
-...suppressing further errors regarding Morpho
-*** FAILED *** with 4420 errors
-Morpho errors: 873
+*** FAILED *** with 12208 errors
+Morpho errors: 8661
 Syntax errors: 3547
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Faroese/fo-ud-wiki.conllu
+python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-wiki.conllu
 
 [Line                   1]: Unknown UD DEPREL: nsubj:cop
 [Line                   9]: Unknown UD DEPREL: nsubj:cop
@@ -2490,7 +2485,6 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 [Tree number 4 on line 25]: HEAD == ID for 13
 [Tree number 4 on line 25]: HEAD == ID for 14
 [Tree number 4 on line 25]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14 are not reachable from the root 0.
-[Line                   44]: Unknown UPOS tag: CCONJ
 [Tree number 5 on line 40]: HEAD == ID for 4
 [Tree number 5 on line 40]: HEAD == ID for 5
 [Tree number 5 on line 40]: HEAD == ID for 7
@@ -2499,42 +2493,43 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 [Tree number 6 on line 49]: HEAD == ID for 2
 ...suppressing further errors regarding Format
 [Tree number 6 on line 49]: Non-tree structure. Words 1,2,6,7,8,9,10,11,12,13 are not reachable from the root 0.
-[Line                   65]: Unknown UPOS tag: CCONJ
 [Tree number 7 on line 63]: Non-tree structure. Words 3,6,7,8 are not reachable from the root 0.
 [Tree number 8 on line 72]: Non-tree structure. Words 4 are not reachable from the root 0.
-[Line                   84]: Unknown UPOS tag: CCONJ
 [Tree number 9 on line 77]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12 are not reachable from the root 0.
 [Tree number 10 on line 90]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
 [Tree number 11 on line 99]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 are not reachable from the root 0.
-[Line                   117]: Unknown UPOS tag: CCONJ
 [Tree number 12 on line 115]: Non-tree structure. Words 1,2,3,4,5,6,7 are not reachable from the root 0.
-[Line                   124]: Unknown UPOS tag: CCONJ
 [Tree number 13 on line 123]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10 are not reachable from the root 0.
 [Tree number 14 on line 134]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11 are not reachable from the root 0.
-[Line                   149]: Unknown UPOS tag: CCONJ
 [Tree number 15 on line 146]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9 are not reachable from the root 0.
 [Tree number 16 on line 156]: Non-tree structure. Words 1,2,5,6,9 are not reachable from the root 0.
 [Tree number 17 on line 166]: Non-tree structure. Words 1,2,3,4,5,6 are not reachable from the root 0.
-[Line                   179]: Unknown UPOS tag: CCONJ
 [Tree number 18 on line 173]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 are not reachable from the root 0.
-[Line                   190]: Unknown UPOS tag: CCONJ
 [Tree number 19 on line 189]: Non-tree structure. Words 2,6 are not reachable from the root 0.
 ...suppressing further errors regarding Syntax
-[Line                   227]: Unknown UPOS tag: CCONJ
-[Line                   242]: Unknown UPOS tag: CCONJ
-[Line                   246]: Unknown UPOS tag: CCONJ
-[Line                   254]: Unknown UPOS tag: CCONJ
-[Line                   260]: Unknown UPOS tag: CCONJ
-[Line                   270]: Unknown UPOS tag: CCONJ
-[Line                   392]: Unknown UPOS tag: CCONJ
-[Line                   499]: Unknown UPOS tag: CCONJ
-[Line                   503]: Unknown UPOS tag: CCONJ
-[Line                   514]: Unknown UPOS tag: CCONJ
-[Line                   525]: Unknown UPOS tag: CCONJ
+[Line                   638]: Unknown attribute-value pair PronType=Ref
+[Line                   862]: Unknown attribute-value pair PronType=Itg
+[Line                   1145]: Unknown attribute-value pair PronType=Pos
+[Line                   2095]: Unknown attribute-value pair PronType=Ref
+[Line                   2411]: Unknown attribute-value pair PronType=Ref
+[Line                   2483]: Unknown attribute-value pair PronType=Ref
+[Line                   3280]: Unknown attribute-value pair PronType=Pos
+[Line                   3434]: Unknown attribute-value pair PronType=Ref
+[Line                   3856]: Unknown attribute-value pair PronType=Ref
+[Line                   3941]: Unknown attribute-value pair PronType=Ref
+[Line                   4267]: Unknown attribute-value pair PronType=Ref
+[Line                   4454]: Unknown attribute-value pair PronType=Ref
+[Line                   4829]: Unknown attribute-value pair PronType=Ref
+[Line                   4999]: Unknown attribute-value pair PronType=Ref
+[Line                   5216]: Unknown attribute-value pair PronType=Pos
+[Line                   5445]: Unknown attribute-value pair PronType=Ref
+[Line                   6383]: Unknown attribute-value pair PronType=Ref
+[Line                   6510]: Unknown attribute-value pair PronType=Ref
+[Line                   6700]: Unknown attribute-value pair PronType=Ref
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 10878 errors
+*** FAILED *** with 10524 errors
 Format errors: 9071
-Morpho errors: 388
+Morpho errors: 34
 Syntax errors: 1419
 
 
