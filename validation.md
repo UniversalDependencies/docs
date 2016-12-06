@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:44:49Z">2016-12-06T13:44:49 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:45:18Z">2016-12-06T13:45:18 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6670,11 +6670,11 @@ Syntax errors: 5308
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:12:03Z">2016-12-05T12:12:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:45:18Z">2016-12-06T13:45:18 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: dobj
 [Line                   18]: Unknown UD DEPREL: dobj
@@ -6686,31 +6686,7 @@ Syntax errors: 4
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-test.conllu
-
-[Line                   10]: Unknown UD DEPREL: dobj
-[Line                   13]: Unknown UPOS tag: CONJ
-[Line                   35]: Unknown UD DEPREL: remnant
-[Line                   50]: Unknown UD DEPREL: dobj
-[Line                   126]: Unknown UPOS tag: CONJ
-[Line                   138]: Unknown UD DEPREL: dobj
-[Line                   169]: Unknown UD DEPREL: dobj
-[Line                   170]: Unknown UPOS tag: CONJ
-[Line                   178]: Unknown UD DEPREL: dobj
-[Line                   189]: Unknown UD DEPREL: dobj
-[Line                   267]: Unknown UD DEPREL: dobj
-[Line                   289]: Unknown UD DEPREL: dobj
-[Line                   292]: Unknown UD DEPREL: dobj
-[Line                   305]: Unknown UD DEPREL: dobj
-[Line                   311]: Unknown UD DEPREL: dobj
-*** FAILED *** with 15 errors
-Morpho errors: 3
-Syntax errors: 12
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
 
 [Line                   15]: Unknown UD DEPREL: dobj
 [Line                   68]: Unknown UD DEPREL: dobj
