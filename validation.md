@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:25:27Z">2016-12-06T13:25:27 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:26:38Z">2016-12-06T13:26:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4557,11 +4557,11 @@ Syntax errors: 27058
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:09:55Z">2016-12-05T12:09:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:26:29Z">2016-12-06T13:26:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
+python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
 
 [Line                   1]: Unknown UD DEPREL: dobj
 [Line                   10]: Unknown UD DEPREL: nsubjpass
@@ -4610,56 +4610,7 @@ Syntax errors: 2348
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-test.conllu
-
-[Line                   5]: Unknown UPOS tag: CONJ
-[Line                   9]: Unknown UPOS tag: CONJ
-[Line                   13]: Unknown UD DEPREL: dobj
-[Line                   22]: Unknown UD DEPREL: dobj
-[Line                   29]: Unknown UD DEPREL: dobj
-[Line                   32]: Unknown UD DEPREL: neg
-[Line                   38]: Unknown UD DEPREL: dobj
-[Line                   46]: Unknown UD DEPREL: nsubjpass
-[Line                   47]: Unknown UD DEPREL: dobj
-[Line                   48]: Unknown UD DEPREL: dobj
-[Line                   67]: Unknown UD DEPREL: dobj
-[Line                   79]: Unknown UD DEPREL: csubjpass
-[Line                   83]: Unknown UPOS tag: CONJ
-[Line                   85]: Unknown UD DEPREL: dobj
-[Line                   91]: Unknown UD DEPREL: neg
-[Line                   105]: Unknown UD DEPREL: dobj
-[Line                   107]: Unknown UPOS tag: CONJ
-[Line                   111]: Unknown UD DEPREL: neg
-[Line                   113]: Unknown UD DEPREL: dobj
-[Line                   118]: Unknown UD DEPREL: dobj
-[Line                   121]: Unknown UD DEPREL: nsubjpass
-[Line                   136]: Unknown UD DEPREL: dobj
-[Line                   145]: Unknown UD DEPREL: dobj
-[Line                   146]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Syntax
-[Line                   162]: Unknown UPOS tag: CONJ
-[Line                   168]: Unknown UPOS tag: CONJ
-[Line                   188]: Unknown UPOS tag: CONJ
-[Line                   208]: Unknown UPOS tag: CONJ
-[Line                   267]: Unknown UPOS tag: CONJ
-[Line                   307]: Unknown UPOS tag: CONJ
-[Line                   314]: Unknown UPOS tag: CONJ
-[Line                   332]: Unknown UPOS tag: CONJ
-[Line                   380]: Unknown UPOS tag: CONJ
-[Line                   383]: Unknown UPOS tag: CONJ
-[Line                   394]: Unknown UPOS tag: CONJ
-[Line                   398]: Unknown UPOS tag: CONJ
-[Line                   419]: Unknown UPOS tag: CONJ
-[Line                   434]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 3148 errors
-Morpho errors: 1141
-Syntax errors: 2007
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
+python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
 
 [Line                   1]: Unknown UD DEPREL: nsubjpass
 [Line                   9]: Unknown UD DEPREL: dobj
