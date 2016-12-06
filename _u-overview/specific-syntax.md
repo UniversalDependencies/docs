@@ -40,9 +40,9 @@ cc(two, or)
 
 The UD approach to ellipsis can be summarized as follows:
 
-1. If the ellided element has no overt dependents, we do nothing.
-2. If the ellided element has overt dependents, we promote one of these to take the role of the head.
-3. If the ellided element is a predicate and the promoted element a core argument, we use the `orphan` relation when attaching other non-functional dependents to the promoted head.
+1. If the elided element has no overt dependents, we do nothing.
+2. If the elided element has overt dependents, we promote one of these to take the role of the head.
+3. If the elided element is a predicate and the promoted element a core argument, we use the `orphan` relation when attaching other non-functional dependents to the promoted head.
 
 ### Ellipsis in Nominals
 
@@ -335,7 +335,7 @@ advcl(smarter, thought)
 mark(thought, than)
 ~~~
 
-If the head is ellided, then the functional element can be promoted.
+If the head is elided, then the functional element can be promoted.
 
 ~~~ sdparse
 Wheat raises blood sugar even more than sugar does .
