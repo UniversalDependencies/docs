@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:45:18Z">2016-12-06T13:45:18 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:45:38Z">2016-12-06T13:45:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6712,16 +6712,19 @@ Syntax errors: 11
 <span class="doublewidespan" style="padding-left:3em">UD Tamil</span>
 <span class="widespan">ta</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:39:16Z">2016-12-01T01:39:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:45:37Z">2016-12-06T13:45:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-dev.conllu
+python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-dev.conllu
 
 [Line                   15]: Unknown attribute-value pair Negative=Pos
 [Line                   16]: Unknown attribute-value pair Negative=Pos
+[Line                   25]: Unknown UD DEPREL: dobj
+[Line                   33]: Unknown UD DEPREL: dobj
 [Line                   34]: Unknown attribute-value pair Negative=Pos
 [Line                   35]: Unknown attribute-value pair Negative=Pos
+[Line                   51]: Unknown UD DEPREL: dobj
 [Line                   52]: Unknown attribute-value pair Negative=Pos
 [Line                   53]: Unknown attribute-value pair Negative=Pos
 [Line                   54]: Unknown attribute-value pair Negative=Pos
@@ -6738,41 +6741,31 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJ
 [Line                   88]: Unknown attribute-value pair Negative=Pos
 [Line                   90]: Unknown attribute-value pair Polite=Pol
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 367 errors
-Morpho errors: 367
+[Line                   100]: Unknown UD DEPREL: dobj
+[Line                   102]: Unknown UD DEPREL: dobj
+[Line                   139]: Unknown UD DEPREL: dobj
+[Line                   158]: Unknown UD DEPREL: dobj
+[Line                   159]: Unknown UD DEPREL: dobj
+[Line                   166]: Unknown UD DEPREL: dobj
+[Line                   176]: Unknown UD DEPREL: dobj
+[Line                   192]: Unknown UD DEPREL: dobj
+[Line                   249]: Unknown UD DEPREL: dobj
+[Line                   251]: Unknown UD DEPREL: dobj
+[Line                   272]: Unknown UD DEPREL: dobj
+[Line                   275]: Unknown UD DEPREL: dobj
+[Line                   279]: Unknown UD DEPREL: dobj
+[Line                   295]: Unknown UD DEPREL: dobj
+[Line                   329]: Unknown UD DEPREL: dobj
+[Line                   333]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
+*** FAILED *** with 471 errors
+Morpho errors: 374
+Syntax errors: 97
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-test.conllu
-
-[Line                   11]: Unknown attribute-value pair Negative=Pos
-[Line                   14]: Unknown attribute-value pair Negative=Pos
-[Line                   15]: Unknown attribute-value pair Negative=Pos
-[Line                   15]: Unknown attribute-value pair Polite=Pol
-[Line                   25]: Unknown attribute-value pair Negative=Pos
-[Line                   26]: Unknown attribute-value pair Negative=Pos
-[Line                   31]: Unknown attribute-value pair Negative=Pos
-[Line                   32]: Unknown attribute-value pair Negative=Pos
-[Line                   33]: Unknown attribute-value pair Negative=Pos
-[Line                   34]: Unknown attribute-value pair Negative=Pos
-[Line                   34]: Unknown attribute-value pair Polite=Pol
-[Line                   35]: Unknown attribute-value pair Polite=Pol
-[Line                   46]: Unknown attribute-value pair Negative=Pos
-[Line                   48]: Unknown attribute-value pair Negative=Pos
-[Line                   51]: Unknown attribute-value pair Negative=Pos
-[Line                   52]: Unknown attribute-value pair Negative=Pos
-[Line                   56]: Unknown attribute-value pair Polite=Pol
-[Line                   57]: Unknown attribute-value pair Negative=Pos
-[Line                   57]: Unknown attribute-value pair Polite=Pol
-...suppressing further errors regarding Morpho
-*** FAILED *** with 691 errors
-Morpho errors: 691
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-train.conllu
+python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 
 [Line                   23]: Unknown attribute-value pair Negative=Pos
 [Line                   24]: Unknown attribute-value pair Negative=Pos
@@ -6786,16 +6779,37 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJ
 [Line                   42]: Unknown attribute-value pair Negative=Pos
 [Line                   55]: Unknown attribute-value pair Negative=Pos
 [Line                   56]: Unknown attribute-value pair Negative=Pos
+[Line                   57]: Unknown UD DEPREL: dobj
 [Line                   59]: Unknown attribute-value pair Negative=Pos
+[Line                   65]: Unknown UD DEPREL: dobj
 [Line                   67]: Unknown attribute-value pair Negative=Pos
+[Line                   73]: Unknown UD DEPREL: dobj
 [Line                   75]: Unknown attribute-value pair Negative=Pos
 [Line                   80]: Unknown attribute-value pair Negative=Pos
 [Line                   96]: Unknown attribute-value pair Negative=Pos
+[Line                   98]: Unknown UD DEPREL: dobj
 [Line                   99]: Unknown attribute-value pair Negative=Pos
 [Line                   102]: Unknown attribute-value pair Negative=Pos
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 2069 errors
-Morpho errors: 2069
+[Line                   122]: Unknown UD DEPREL: dobj
+[Line                   124]: Unknown UD DEPREL: dobj
+[Line                   147]: Unknown UD DEPREL: dobj
+[Line                   148]: Unknown UD DEPREL: dobj
+[Line                   161]: Unknown UD DEPREL: dobj
+[Line                   182]: Unknown UD DEPREL: dobj
+[Line                   186]: Unknown UD DEPREL: dobj
+[Line                   218]: Unknown UD DEPREL: dobj
+[Line                   258]: Unknown UD DEPREL: dobj
+[Line                   284]: Unknown UD DEPREL: dobj
+[Line                   336]: Unknown UD DEPREL: dobj
+[Line                   347]: Unknown UD DEPREL: dobj
+[Line                   365]: Unknown UD DEPREL: dobj
+[Line                   368]: Unknown UD DEPREL: dobj
+[Line                   374]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
+*** FAILED *** with 2494 errors
+Morpho errors: 2100
+Syntax errors: 394
 
 
 ******************
