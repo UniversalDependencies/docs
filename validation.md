@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:04:17Z">2016-12-06T13:04:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:04:59Z">2016-12-06T13:04:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1852,28 +1852,105 @@ Syntax errors: 18544
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T21:46:48Z">2016-11-30T21:46:48 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:04:55Z">2016-12-06T13:04:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
 
-*** PASSED ***
+[Line                   15]: Unknown UD DEPREL: mwe
+[Line                   20]: Unknown UD DEPREL: name
+[Line                   27]: Unknown UD DEPREL: name
+[Line                   34]: Unknown UD DEPREL: dobj
+[Line                   42]: Unknown UD DEPREL: dobj
+[Line                   53]: Unknown UD DEPREL: mwe
+[Line                   63]: Unknown UD DEPREL: dobj
+[Line                   69]: Unknown UD DEPREL: mwe
+[Line                   79]: Unknown UD DEPREL: dobj
+[Line                   80]: Unknown UPOS tag: CONJ
+[Line                   105]: Unknown UPOS tag: CONJ
+[Line                   120]: Unknown UD DEPREL: name
+[Line                   121]: Unknown UD DEPREL: name
+[Line                   130]: Unknown UD DEPREL: dobj
+[Line                   149]: Unknown UD DEPREL: dobj
+[Line                   153]: Unknown UD DEPREL: mwe
+[Line                   158]: Unknown UD DEPREL: mwe
+[Line                   160]: Unknown UPOS tag: CONJ
+[Line                   163]: Unknown UD DEPREL: mwe
+[Line                   173]: Unknown UPOS tag: CONJ
+[Line                   177]: Unknown UD DEPREL: dobj
+[Line                   180]: Unknown UD DEPREL: mwe
+[Line                   181]: Unknown UD DEPREL: mwe
+...suppressing further errors regarding Syntax
+[Line                   228]: Unknown UPOS tag: CONJ
+[Line                   240]: Unknown UPOS tag: CONJ
+[Line                   344]: Unknown UPOS tag: CONJ
+[Line                   431]: Unknown UPOS tag: CONJ
+[Line                   486]: Unknown UPOS tag: CONJ
+[Line                   556]: Unknown UPOS tag: CONJ
+[Line                   587]: Unknown UPOS tag: CONJ
+[Line                   591]: Unknown UPOS tag: CONJ
+[Line                   620]: Unknown UPOS tag: CONJ
+[Line                   623]: Unknown UPOS tag: CONJ
+[Line                   738]: Unknown UPOS tag: CONJ
+[Line                   794]: Unknown UPOS tag: CONJ
+[Line                   798]: Unknown UPOS tag: CONJ
+[Line                   954]: Unknown UPOS tag: CONJ
+[Line                   973]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 634 errors
+Morpho errors: 127
+Syntax errors: 507
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-test.conllu
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
 
-*** PASSED ***
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
-
-*** PASSED ***
+[Line                   5]: Unknown UD DEPREL: name
+[Line                   6]: Unknown UD DEPREL: name
+[Line                   10]: Unknown UD DEPREL: name
+[Line                   11]: Unknown UD DEPREL: name
+[Line                   15]: Unknown UD DEPREL: name
+[Line                   16]: Unknown UD DEPREL: mwe
+[Line                   17]: Unknown UD DEPREL: mwe
+[Line                   18]: Unknown UD DEPREL: mwe
+[Line                   19]: Unknown UD DEPREL: mwe
+[Line                   38]: Unknown UD DEPREL: auxpass
+[Line                   43]: Unknown UPOS tag: CONJ
+[Line                   59]: Unknown UPOS tag: CONJ
+[Line                   61]: Unknown UD DEPREL: dobj
+[Line                   62]: Unknown UPOS tag: CONJ
+[Line                   62]: Unknown UD DEPREL: mwe
+[Line                   63]: Unknown UD DEPREL: mwe
+[Line                   97]: Unknown UPOS tag: CONJ
+[Line                   109]: Unknown UD DEPREL: mwe
+[Line                   110]: Unknown UPOS tag: CONJ
+[Line                   113]: Unknown UD DEPREL: mwe
+[Line                   118]: Unknown UD DEPREL: auxpass
+[Line                   127]: Unknown UD DEPREL: name
+[Line                   161]: Unknown UD DEPREL: mwe
+[Line                   162]: Unknown UD DEPREL: name
+...suppressing further errors regarding Syntax
+[Line                   174]: Unknown UPOS tag: CONJ
+[Line                   230]: Unknown UPOS tag: CONJ
+[Line                   259]: Unknown UPOS tag: CONJ
+[Line                   318]: Unknown UPOS tag: CONJ
+[Line                   359]: Unknown UPOS tag: CONJ
+[Line                   368]: Unknown UPOS tag: CONJ
+[Line                   384]: Unknown UPOS tag: CONJ
+[Line                   482]: Unknown UPOS tag: CONJ
+[Line                   546]: Unknown UPOS tag: CONJ
+[Line                   580]: Unknown UPOS tag: CONJ
+[Line                   719]: Unknown UPOS tag: CONJ
+[Line                   951]: Unknown UPOS tag: CONJ
+[Line                   957]: Unknown UPOS tag: CONJ
+[Line                   960]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 12909 errors
+Morpho errors: 2477
+Syntax errors: 10432
 
 
 ******************
