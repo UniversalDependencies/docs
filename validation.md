@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:41:53Z">2016-12-06T13:41:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:43:44Z">2016-12-06T13:43:44 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6343,11 +6343,11 @@ Syntax errors: 25267
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:11:30Z">2016-12-05T12:11:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:43:17Z">2016-12-06T13:43:17 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
+python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
 
 [Line                   23]: Unknown UD DEPREL: mwe
 [Line                   24]: Unknown UD DEPREL: mwe
@@ -6396,56 +6396,7 @@ Syntax errors: 6164
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-test.conllu
-
-[Line                   11]: Unknown UD DEPREL: name
-[Line                   15]: Unknown UD DEPREL: name
-[Line                   33]: Unknown UD DEPREL: name
-[Line                   34]: Unknown UPOS tag: CONJ
-[Line                   41]: Unknown UPOS tag: CONJ
-[Line                   50]: Unknown UD DEPREL: dobj
-[Line                   71]: Unknown UD DEPREL: mwe
-[Line                   79]: Unknown UD DEPREL: dobj
-[Line                   87]: Unknown UD DEPREL: dobj
-[Line                   97]: Unknown UPOS tag: CONJ
-[Line                   104]: Unknown UD DEPREL: dobj
-[Line                   115]: Unknown UD DEPREL: mwe
-[Line                   116]: Unknown UD DEPREL: mwe
-[Line                   144]: Unknown UD DEPREL: name
-[Line                   145]: Unknown UD DEPREL: name
-[Line                   147]: Unknown UD DEPREL: name
-[Line                   159]: Unknown UD DEPREL: dobj
-[Line                   183]: Unknown UD DEPREL: name
-[Line                   184]: Unknown UD DEPREL: name
-[Line                   186]: Unknown UD DEPREL: name
-[Line                   199]: Unknown UD DEPREL: dobj
-[Line                   209]: Unknown UPOS tag: CONJ
-[Line                   223]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-[Line                   252]: Unknown UPOS tag: CONJ
-[Line                   332]: Unknown UPOS tag: CONJ
-[Line                   370]: Unknown UPOS tag: CONJ
-[Line                   410]: Unknown UPOS tag: CONJ
-[Line                   449]: Unknown UPOS tag: CONJ
-[Line                   482]: Unknown attribute-value pair Negative=Neg
-[Line                   586]: Unknown UPOS tag: CONJ
-[Line                   596]: Unknown UPOS tag: CONJ
-[Line                   601]: Unknown UPOS tag: CONJ
-[Line                   611]: Unknown UPOS tag: CONJ
-[Line                   644]: Unknown UPOS tag: CONJ
-[Line                   667]: Unknown UPOS tag: CONJ
-[Line                   767]: Unknown UPOS tag: CONJ
-[Line                   773]: Unknown UPOS tag: CONJ
-[Line                   790]: Unknown attribute-value pair Polite=Pol
-...suppressing further errors regarding Morpho
-*** FAILED *** with 7916 errors
-Morpho errors: 1809
-Syntax errors: 6107
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
+python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
 
 [Line                   13]: Unknown UD DEPREL: dobj
 [Line                   15]: Unknown UD DEPREL: dobj
