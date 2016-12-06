@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:38:02Z">2016-12-06T13:38:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:38:43Z">2016-12-06T13:38:43 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5885,11 +5885,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:11:23Z">2016-12-05T12:11:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:38:37Z">2016-12-06T13:38:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
 [Line                   4]: Unknown attribute-value pair Negative=Neg
 [Line                   5]: Unknown UD DEPREL: dobj
@@ -5938,56 +5938,7 @@ Syntax errors: 931
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-test.conllu
-
-[Line                   6]: Unknown attribute-value pair Negative=Pos
-[Line                   14]: Unknown UPOS tag: CONJ
-[Line                   18]: Unknown attribute-value pair Negative=Pos
-[Line                   19]: Unknown UD DEPREL: dobj
-[Line                   20]: Unknown attribute-value pair Negative=Pos
-[Line                   22]: Unknown UD DEPREL: dobj
-[Line                   27]: Unknown UPOS tag: CONJ
-[Line                   34]: Unknown attribute-value pair Negative=Pos
-[Line                   43]: Unknown attribute-value pair Negative=Pos
-[Line                   50]: Unknown attribute-value pair Negative=Pos
-[Line                   52]: Unknown UD DEPREL: dobj
-[Line                   54]: Unknown UPOS tag: CONJ
-[Line                   59]: Unknown attribute-value pair Negative=Pos
-[Line                   62]: Unknown attribute-value pair Negative=Pos
-[Line                   63]: Unknown UD DEPREL: dobj
-[Line                   81]: Unknown attribute-value pair Negative=Pos
-[Line                   92]: Unknown attribute-value pair Negative=Neg
-[Line                   96]: Unknown UPOS tag: CONJ
-[Line                   97]: Unknown attribute-value pair Negative=Neg
-[Line                   100]: Unknown UPOS tag: CONJ
-[Line                   107]: Unknown attribute-value pair Negative=Pos
-[Line                   108]: Unknown UD DEPREL: dobj
-[Line                   119]: Unknown attribute-value pair Negative=Pos
-[Line                   121]: Unknown UD DEPREL: dobj
-[Line                   126]: Unknown attribute-value pair Foreign=Foreign
-[Line                   126]: Unknown UD DEPREL: foreign
-...suppressing further errors regarding Morpho
-[Line                   136]: Unknown UD DEPREL: dobj
-[Line                   150]: Unknown UD DEPREL: nsubjpass
-[Line                   151]: Unknown UD DEPREL: auxpass
-[Line                   160]: Unknown UD DEPREL: auxpass:reflex
-[Line                   165]: Unknown UD DEPREL: nsubjpass
-[Line                   166]: Unknown UD DEPREL: auxpass
-[Line                   167]: Unknown UD DEPREL: csubjpass
-[Line                   179]: Unknown UD DEPREL: neg
-[Line                   183]: Unknown UD DEPREL: dobj
-[Line                   193]: Unknown UD DEPREL: dobj
-[Line                   221]: Unknown UD DEPREL: mwe
-[Line                   240]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-*** FAILED *** with 3028 errors
-Morpho errors: 2143
-Syntax errors: 885
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
 [Line                   7]: Unknown attribute-value pair Negative=Pos
 [Line                   13]: Unknown UD DEPREL: dobj
