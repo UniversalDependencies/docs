@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2016-12-02T20:27:13Z">2016-12-02T20:27:13 zulu</time>
+Regenerated <time class="timeago" datetime="2016-12-06T09:32:58Z">2016-12-06T09:32:58 zulu</time>
 
 # Aux chain
 
@@ -2158,25 +2158,6 @@ Search expression: `_ <conj@L _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cconj%40L+_&db=UD_Italian-dev">2678</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cconj%40L+_&db=UD_Italian-dev">4</a></td>
 </tr>
-<tr><td>UD_Japanese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cconj%40L+_&db=UD_Japanese-dev">284</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cconj%40L+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cconj%40L+_&db=UD_Japanese-dev">10</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cconj%40L+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cconj%40L+_&db=UD_Japanese-dev">8</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cconj%40L+_&db=UD_Japanese-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cconj%40L+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cconj%40L+_&db=UD_Japanese-dev">3771</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cconj%40L+_&db=UD_Japanese-dev">171</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cconj%40L+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cconj%40L+_&db=UD_Japanese-dev">9</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cconj%40L+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cconj%40L+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cconj%40L+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cconj%40L+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cconj%40L+_&db=UD_Japanese-dev">4094</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cconj%40L+_&db=UD_Japanese-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Japanese-KTC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cconj%40L+_&db=UD_Japanese-KTC-dev">103</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cconj%40L+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
@@ -2969,13 +2950,6 @@ Search expression: `_ <conj@L _`
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cconj%40L+_&db=UD_Italian-dev">Go to search</a><p/>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">8348 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cconj%40L+_&db=UD_Japanese-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
 <span class="widespan">4027 hits</span>
 </div>
@@ -3685,24 +3659,6 @@ appos(brother, Sam)
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cappos%40R+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cappos%40R+_&db=UD_Italian-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Japanese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cappos%40R+_&db=UD_Japanese-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cappos%40R+_&db=UD_Japanese-dev">1067</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cappos%40R+_&db=UD_Japanese-dev">103</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cappos%40R+_&db=UD_Japanese-dev">5</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cappos%40R+_&db=UD_Japanese-dev">7</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cappos%40R+_&db=UD_Japanese-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Japanese-KTC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cappos%40R+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cappos%40R+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
@@ -4210,13 +4166,6 @@ appos(brother, Sam)
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cappos%40R+_&db=UD_Italian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">1184 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cappos%40R+_&db=UD_Japanese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
@@ -6426,13 +6375,6 @@ Hits table not produced since the query does not start with the simple token spe
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28PRON%7CDET%29%26%21PronType&db=UD_Italian-dev">Go to search</a><p/>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">2038 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28PRON%7CDET%29%26%21PronType&db=UD_Japanese-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
 <span class="widespan">2132 hits</span>
 </div>
@@ -6774,13 +6716,6 @@ Hits table not produced since the query does not start with the simple token spe
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM%26%21NumType&db=UD_Irish-dev">Go to search</a><p/>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">4184 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM%26%21NumType&db=UD_Japanese-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
 <span class="widespan">10685 hits</span>
 </div>
@@ -7099,13 +7034,6 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28VERB%7CAUX%29%26%21VerbForm&db=UD_Irish-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">18567 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28VERB%7CAUX%29%26%21VerbForm&db=UD_Japanese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
@@ -9463,24 +9391,6 @@ Search expression: `_ >dobj|>ccomp _ >dobj|>ccomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Italian-dev">115</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Italian-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Japanese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Japanese-KTC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
@@ -10152,13 +10062,6 @@ Search expression: `_ >dobj|>ccomp _ >dobj|>ccomp _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Italian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">1 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Edobj%7C%3Eccomp+_+%3Edobj%7C%3Eccomp+_&db=UD_Japanese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
@@ -12606,13 +12509,6 @@ Hits table not produced since the query does not start with the simple token spe
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3E%21conj%26%3E%21cc%26%3E%21punct%26%3E%21mwe%26%3E%21foreign+_&db=UD_Italian-dev">Go to search</a><p/>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">2 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3E%21conj%26%3E%21cc%26%3E%21punct%26%3E%21mwe%26%3E%21foreign+_&db=UD_Japanese-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
 <span class="widespan">133 hits</span>
 </div>
@@ -13168,23 +13064,6 @@ appos(brother, cousin)
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cappos+%28_+%3Cappos+_%29&db=UD_Indonesian-dev">14</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cappos+%28_+%3Cappos+_%29&db=UD_Indonesian-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Japanese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">33</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Japanese-KTC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
@@ -13685,13 +13564,6 @@ appos(brother, cousin)
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cappos+%28_+%3Cappos+_%29&db=UD_Indonesian-dev">Go to search</a><p/>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">35 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cappos+%28_+%3Cappos+_%29&db=UD_Japanese-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
 <span class="widespan">4 hits</span>
 </div>
@@ -14087,13 +13959,6 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Italian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">1544 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Japanese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
@@ -14975,25 +14840,6 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">2</a></td>
 </tr>
-<tr><td>UD_Japanese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">37</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">523</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">135</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">12</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Japanese-KTC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-KTC-dev">4</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
@@ -15810,13 +15656,6 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Italian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">711 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Japanese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
@@ -17517,9 +17356,6 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <tr><td>UD_Italian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Italian-dev">381</a></td>
 </tr>
-<tr><td>UD_Japanese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Japanese-dev">1349</a></td>
-</tr>
 <tr><td>UD_Japanese-KTC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Japanese-KTC-dev">128</a></td>
 </tr>
@@ -17853,13 +17689,6 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Italian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">1349 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Japanese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
@@ -18391,20 +18220,6 @@ Search expression: `!NUM <nummod _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cnummod+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cnummod+_&db=UD_Italian-dev">15</a></td>
 </tr>
-<tr><td>UD_Japanese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cnummod+_&db=UD_Japanese-dev">6</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cnummod+_&db=UD_Japanese-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Japanese-KTC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cnummod+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cnummod+_&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
@@ -18742,13 +18557,6 @@ Search expression: `!NUM <nummod _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21NUM+%3Cnummod+_&db=UD_Italian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">6 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%21NUM+%3Cnummod+_&db=UD_Japanese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
@@ -20895,13 +20703,6 @@ Hits table not produced since the query does not start with the simple token spe
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21CONJ%26%21SYM%26%21ADV+%3Ccc+_&db=UD_Italian-dev">Go to search</a><p/>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">161 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%21CONJ%26%21SYM%26%21ADV+%3Ccc+_&db=UD_Japanese-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
 <span class="widespan">2 hits</span>
 </div>
@@ -21755,26 +21556,6 @@ Search expression: `_ < (_ <cc _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3C+%28_+%3Ccc+_%29&db=UD_Italian-dev">10</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Italian-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Japanese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">161</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">119</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">7</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">87</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">11</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Japanese-KTC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-KTC-dev">&nbsp;</a></td>
@@ -22527,13 +22308,6 @@ Search expression: `_ < (_ <cc _)`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3C+%28_+%3Ccc+_%29&db=UD_Italian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Japanese</span>
-<span class="widespan">390 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3C+%28_+%3Ccc+_%29&db=UD_Japanese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Japanese-KTC</span>
