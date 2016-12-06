@@ -77,3 +77,15 @@ cd $HAMLEDT ;
 perl ./populate_ud14.pl
 \# copy metadata to biblio
 </code></small>
+
+## Removing test data before release 2.0
+
+The Universal Dependencies release 2.0 in March 2017 will not contain test data (only training and development data will be
+released). This is a temporary measure because of the CoNLL Shared Task 2017 in parsing UD. While the underlying text and v1
+annotation is already known for most languages, the new v2 annotation (and possibly the text in case of new data split) should
+be hidden until the shared task is over. The following commands were applied to all repositories (but we must also inform all
+data providers that they are not supposed to put the test files back).
+
+<pre>
+for i in UD_* ; do pushd $i ; git checkout dev ; git pull --no-edit ; git rm *-test.conllu ; (echo '*-test.conllu' >> .gitignore) ; git add .gitignore ; git commit -a -m 'UDv2 test data must not appear on Github because of the CoNLL shared task.' ; git push ; popd ; echo ; done
+</pre>
