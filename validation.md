@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:20:21Z">2016-12-06T13:20:21 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:21:37Z">2016-12-06T13:21:37 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3959,90 +3959,104 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-30T16:24:27Z">2016-11-30T16:24:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:21:24Z">2016-12-06T13:21:24 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
+[Line                   4]: Unknown UD DEPREL: name
+[Line                   21]: Unknown UD DEPREL: dobj
+[Line                   22]: Unknown UPOS tag: CONJ
+[Line                   26]: Unknown UD DEPREL: dobj
 [Line                   31]: Unknown attribute-value pair PronType=Predet
+[Line                   57]: Unknown UD DEPREL: dobj
+[Line                   69]: Unknown UD DEPREL: dobj
+[Line                   70]: Unknown UPOS tag: CONJ
 [Line                   77]: Unknown attribute-value pair PronType=Clit
+[Line                   92]: Unknown UD DEPREL: nsubjpass
+[Line                   94]: Unknown UD DEPREL: auxpass
+[Line                   125]: Unknown UD DEPREL: dobj
+[Line                   135]: Unknown UD DEPREL: dobj
 [Line                   138]: Unknown attribute-value pair PronType=Clit
+[Line                   155]: Unknown UD DEPREL: name
 [Line                   181]: Unknown attribute-value pair PronType=Clit
+[Line                   187]: Unknown UPOS tag: CONJ
+[Line                   194]: Unknown UD DEPREL: dobj
+[Line                   198]: Unknown UD DEPREL: dobj
+[Line                   227]: Unknown UPOS tag: CONJ
+[Line                   234]: Unknown UD DEPREL: dobj
 [Line                   267]: Unknown attribute-value pair PronType=Clit
+[Line                   272]: Unknown UD DEPREL: auxpass
+[Line                   275]: Unknown UD DEPREL: nsubjpass
+[Line                   281]: Unknown UD DEPREL: auxpass
+[Line                   285]: Unknown UPOS tag: CONJ
+[Line                   300]: Unknown UD DEPREL: dobj
+[Line                   312]: Unknown UD DEPREL: dobj
+[Line                   322]: Unknown UD DEPREL: name
+...suppressing further errors regarding Syntax
+[Line                   332]: Unknown UPOS tag: CONJ
+[Line                   342]: Unknown UPOS tag: CONJ
 [Line                   369]: Unknown attribute-value pair PronType=Clit
+[Line                   426]: Unknown UPOS tag: CONJ
 [Line                   457]: Unknown attribute-value pair PronType=Predet
+[Line                   472]: Unknown UPOS tag: CONJ
+[Line                   475]: Unknown UPOS tag: CONJ
+[Line                   493]: Unknown UPOS tag: CONJ
 [Line                   505]: Unknown attribute-value pair PronType=Clit
-[Line                   525]: Unknown attribute-value pair PronType=Clit
-[Line                   669]: Unknown attribute-value pair PronType=Clit
-[Line                   727]: Unknown attribute-value pair PronType=Clit
-[Line                   769]: Unknown attribute-value pair PronType=Clit
-[Line                   811]: Unknown attribute-value pair PronType=Clit
-[Line                   822]: Unknown attribute-value pair PronType=Clit
-[Line                   853]: Unknown attribute-value pair PronType=Clit
-[Line                   854]: Unknown attribute-value pair PronType=Clit
-[Line                   884]: Unknown attribute-value pair PronType=Clit
-[Line                   908]: Unknown attribute-value pair PronType=Clit
-[Line                   911]: Unknown attribute-value pair PronType=Clit
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 181 errors
-Morpho errors: 181
+*** FAILED *** with 1246 errors
+Morpho errors: 478
+Syntax errors: 768
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-test.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 
-[Line                   38]: Unknown attribute-value pair PronType=Clit
-[Line                   209]: Unknown attribute-value pair PronType=Clit
-[Line                   319]: Unknown attribute-value pair PronType=Clit
-[Line                   327]: Unknown attribute-value pair PronType=Clit
-[Line                   335]: Unknown attribute-value pair PronType=Clit
-[Line                   336]: Unknown attribute-value pair PronType=Clit
-[Line                   414]: Unknown attribute-value pair PronType=Clit
-[Line                   462]: Unknown attribute-value pair PronType=Clit
-[Line                   485]: Unknown attribute-value pair PronType=Clit
-[Line                   667]: Unknown attribute-value pair PronType=Clit
-[Line                   673]: Unknown attribute-value pair PronType=Clit
-[Line                   703]: Unknown attribute-value pair PronType=Clit
-[Line                   704]: Unknown attribute-value pair PronType=Clit
-[Line                   708]: Unknown attribute-value pair PronType=Predet
-[Line                   787]: Unknown attribute-value pair PronType=Clit
-[Line                   801]: Unknown attribute-value pair PronType=Clit
-[Line                   847]: Unknown attribute-value pair PronType=Clit
-[Line                   865]: Unknown attribute-value pair PronType=Clit
-[Line                   954]: Unknown attribute-value pair PronType=Clit
-...suppressing further errors regarding Morpho
-*** FAILED *** with 195 errors
-Morpho errors: 195
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
-
+[Line                   28]: Unknown UD DEPREL: name
+[Line                   34]: Unknown UD DEPREL: nsubjpass
+[Line                   37]: Unknown UD DEPREL: auxpass
+[Line                   55]: Unknown UD DEPREL: dobj
+[Line                   67]: Unknown UD DEPREL: dobj
+[Line                   80]: Unknown UD DEPREL: dobj
+[Line                   89]: Unknown UD DEPREL: dobj
+[Line                   92]: Unknown UPOS tag: CONJ
+[Line                   101]: Unknown UD DEPREL: dobj
+[Line                   114]: Unknown UD DEPREL: name
+[Line                   128]: Unknown UD DEPREL: dobj
+[Line                   132]: Unknown UPOS tag: CONJ
+[Line                   138]: Unknown UD DEPREL: dobj
 [Line                   146]: Unknown attribute-value pair PronType=Clit
+[Line                   156]: Unknown UD DEPREL: name
+[Line                   174]: Unknown UD DEPREL: dobj
+[Line                   191]: Unknown UPOS tag: CONJ
+[Line                   194]: Unknown UD DEPREL: name
+[Line                   219]: Unknown UD DEPREL: name
+[Line                   224]: Unknown UD DEPREL: name
+[Line                   237]: Unknown UD DEPREL: nsubjpass
+[Line                   238]: Unknown UD DEPREL: name
+[Line                   243]: Unknown UD DEPREL: auxpass
+...suppressing further errors regarding Syntax
 [Line                   358]: Unknown attribute-value pair PronType=Clit
+[Line                   380]: Unknown UPOS tag: CONJ
+[Line                   403]: Unknown UPOS tag: CONJ
 [Line                   437]: Unknown attribute-value pair PronType=Clit
+[Line                   483]: Unknown UPOS tag: CONJ
 [Line                   508]: Unknown attribute-value pair PronType=Predet
 [Line                   577]: Unknown attribute-value pair PronType=Clit
+[Line                   586]: Unknown UPOS tag: CONJ
 [Line                   590]: Unknown attribute-value pair PronType=Clit
+[Line                   606]: Unknown UPOS tag: CONJ
 [Line                   607]: Unknown attribute-value pair PronType=Clit
+[Line                   641]: Unknown UPOS tag: CONJ
 [Line                   657]: Unknown attribute-value pair PronType=Predet
+[Line                   667]: Unknown UPOS tag: CONJ
 [Line                   821]: Unknown attribute-value pair PronType=Clit
-[Line                   954]: Unknown attribute-value pair PronType=Clit
-[Line                   1114]: Unknown attribute-value pair PronType=Clit
-[Line                   1198]: Unknown attribute-value pair PronType=Clit
-[Line                   1628]: Unknown attribute-value pair PronType=Predet
-[Line                   1668]: Unknown attribute-value pair PronType=Clit
-[Line                   1707]: Unknown attribute-value pair PronType=Clit
-[Line                   1779]: Unknown attribute-value pair PronType=Clit
-[Line                   2040]: Unknown attribute-value pair PronType=Clit
-[Line                   2094]: Unknown attribute-value pair PronType=Clit
-[Line                   2158]: Unknown attribute-value pair PronType=Clit
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 4673 errors
-Morpho errors: 4673
+*** FAILED *** with 31656 errors
+Morpho errors: 12087
+Syntax errors: 19569
 
 
 ******************
