@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T13:02:36Z">2016-12-06T13:02:36 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:03:15Z">2016-12-06T13:03:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1635,90 +1635,104 @@ Syntax errors: 1949
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:37:54Z">2016-12-01T01:37:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:03:10Z">2016-12-06T13:03:10 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-dev.conllu
+python tools/validate.py --lang da UD-dev-branches/UD_Danish/da-ud-dev.conllu
 
+[Line                   12]: Unknown UPOS tag: CONJ
+[Line                   15]: Unknown UD DEPREL: dobj
 [Line                   18]: Unknown attribute-value pair VerbForm=Trans
+[Line                   30]: Unknown UD DEPREL: nsubjpass
+[Line                   31]: Unknown UD DEPREL: auxpass
 [Line                   32]: Unknown attribute-value pair VerbForm=Trans
+[Line                   39]: Unknown UD DEPREL: name
+[Line                   46]: Unknown UPOS tag: CONJ
+[Line                   51]: Unknown UD DEPREL: dobj
+[Line                   56]: Unknown UD DEPREL: neg
+[Line                   59]: Unknown UD DEPREL: dobj
+[Line                   65]: Unknown UD DEPREL: name
+[Line                   69]: Unknown UPOS tag: CONJ
+[Line                   74]: Unknown UPOS tag: CONJ
 [Line                   83]: Unknown attribute-value pair VerbForm=Trans
+[Line                   87]: Unknown UPOS tag: CONJ
+[Line                   90]: Unknown UD DEPREL: dobj
+[Line                   96]: Unknown UD DEPREL: nsubjpass
+[Line                   97]: Unknown UD DEPREL: auxpass
 [Line                   98]: Unknown attribute-value pair VerbForm=Trans
+[Line                   103]: Unknown UPOS tag: CONJ
+[Line                   110]: Unknown UD DEPREL: dobj
+[Line                   115]: Unknown UD DEPREL: dobj
+[Line                   124]: Unknown UD DEPREL: dobj
+[Line                   137]: Unknown UD DEPREL: dobj
+[Line                   147]: Unknown UD DEPREL: dobj
+[Line                   154]: Unknown UD DEPREL: name
+[Line                   155]: Unknown UD DEPREL: name
+[Line                   162]: Unknown UD DEPREL: nsubjpass
+...suppressing further errors regarding Syntax
 [Line                   164]: Unknown attribute-value pair VerbForm=Trans
 [Line                   165]: Unknown attribute-value pair VerbForm=Trans
+[Line                   182]: Unknown UPOS tag: CONJ
 [Line                   190]: Unknown attribute-value pair VerbForm=Trans
 [Line                   191]: Unknown attribute-value pair VerbForm=Trans
-[Line                   251]: Unknown attribute-value pair VerbForm=Trans
-[Line                   314]: Unknown attribute-value pair VerbForm=Trans
-[Line                   320]: Unknown attribute-value pair VerbForm=Trans
-[Line                   382]: Unknown attribute-value pair VerbForm=Trans
-[Line                   402]: Unknown attribute-value pair VerbForm=Trans
-[Line                   458]: Unknown attribute-value pair VerbForm=Trans
-[Line                   466]: Unknown attribute-value pair VerbForm=Trans
-[Line                   532]: Unknown attribute-value pair VerbForm=Trans
-[Line                   583]: Unknown attribute-value pair VerbForm=Trans
-[Line                   657]: Unknown attribute-value pair VerbForm=Trans
-[Line                   672]: Unknown attribute-value pair VerbForm=Trans
+[Line                   194]: Unknown UPOS tag: CONJ
+[Line                   217]: Unknown UPOS tag: CONJ
+[Line                   228]: Unknown UPOS tag: CONJ
+[Line                   235]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 145 errors
-Morpho errors: 145
+*** FAILED *** with 956 errors
+Morpho errors: 354
+Syntax errors: 602
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-test.conllu
-
-[Line                   123]: Unknown attribute-value pair VerbForm=Trans
-[Line                   177]: Unknown attribute-value pair VerbForm=Trans
-[Line                   314]: Unknown attribute-value pair VerbForm=Trans
-[Line                   323]: Unknown attribute-value pair VerbForm=Trans
-[Line                   392]: Unknown attribute-value pair VerbForm=Trans
-[Line                   529]: Unknown attribute-value pair VerbForm=Trans
-[Line                   553]: Unknown attribute-value pair VerbForm=Trans
-[Line                   624]: Unknown attribute-value pair VerbForm=Trans
-[Line                   632]: Unknown attribute-value pair VerbForm=Trans
-[Line                   651]: Unknown attribute-value pair VerbForm=Trans
-[Line                   663]: Unknown attribute-value pair VerbForm=Trans
-[Line                   673]: Unknown attribute-value pair VerbForm=Trans
-[Line                   732]: Unknown attribute-value pair VerbForm=Trans
-[Line                   762]: Unknown attribute-value pair VerbForm=Trans
-[Line                   763]: Unknown attribute-value pair VerbForm=Trans
-[Line                   816]: Unknown attribute-value pair VerbForm=Trans
-[Line                   820]: Unknown attribute-value pair VerbForm=Trans
-[Line                   833]: Unknown attribute-value pair VerbForm=Trans
-[Line                   839]: Unknown attribute-value pair VerbForm=Trans
-...suppressing further errors regarding Morpho
-*** FAILED *** with 118 errors
-Morpho errors: 118
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-train.conllu
+python tools/validate.py --lang da UD-dev-branches/UD_Danish/da-ud-train.conllu
 
 [Line                   5]: Unknown attribute-value pair VerbForm=Trans
+[Line                   16]: Unknown UD DEPREL: name
+[Line                   25]: Unknown UPOS tag: CONJ
+[Line                   27]: Unknown UPOS tag: CONJ
+[Line                   30]: Unknown UPOS tag: CONJ
+[Line                   34]: Unknown UPOS tag: CONJ
+[Line                   42]: Unknown UD DEPREL: dobj
+[Line                   47]: Unknown UPOS tag: CONJ
+[Line                   53]: Unknown UPOS tag: CONJ
+[Line                   68]: Unknown UD DEPREL: name
+[Line                   71]: Unknown UD DEPREL: dobj
+[Line                   73]: Unknown UPOS tag: CONJ
+[Line                   86]: Unknown UD DEPREL: dobj
+[Line                   87]: Unknown UPOS tag: CONJ
+[Line                   105]: Unknown UD DEPREL: name
+[Line                   114]: Unknown UD DEPREL: dobj
+[Line                   118]: Unknown UPOS tag: CONJ
+[Line                   122]: Unknown UD DEPREL: neg
+[Line                   123]: Unknown UD DEPREL: dobj
+[Line                   126]: Unknown UPOS tag: CONJ
+[Line                   131]: Unknown UPOS tag: CONJ
+[Line                   136]: Unknown UD DEPREL: neg
+[Line                   138]: Unknown UD DEPREL: mwe
 [Line                   143]: Unknown attribute-value pair VerbForm=Trans
+[Line                   159]: Unknown UPOS tag: CONJ
+[Line                   161]: Unknown UD DEPREL: nsubjpass
 [Line                   163]: Unknown attribute-value pair VerbForm=Trans
+[Line                   169]: Unknown UD DEPREL: nsubjpass
+[Line                   171]: Unknown UD DEPREL: auxpass
 [Line                   172]: Unknown attribute-value pair VerbForm=Trans
-[Line                   326]: Unknown attribute-value pair VerbForm=Trans
-[Line                   497]: Unknown attribute-value pair VerbForm=Trans
-[Line                   498]: Unknown attribute-value pair VerbForm=Trans
-[Line                   537]: Unknown attribute-value pair VerbForm=Trans
-[Line                   718]: Unknown attribute-value pair VerbForm=Trans
-[Line                   767]: Unknown attribute-value pair VerbForm=Trans
-[Line                   800]: Unknown attribute-value pair VerbForm=Trans
-[Line                   848]: Unknown attribute-value pair VerbForm=Trans
-[Line                   894]: Unknown attribute-value pair VerbForm=Trans
-[Line                   951]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1030]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1089]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1132]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1133]: Unknown attribute-value pair VerbForm=Trans
-[Line                   1185]: Unknown attribute-value pair VerbForm=Trans
+[Line                   200]: Unknown UD DEPREL: name
+[Line                   205]: Unknown UD DEPREL: neg
+[Line                   218]: Unknown UPOS tag: CONJ
+[Line                   229]: Unknown UD DEPREL: dobj
+[Line                   238]: Unknown UD DEPREL: name
+[Line                   245]: Unknown UD DEPREL: dobj
+[Line                   247]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Syntax
+[Line                   312]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1716 errors
-Morpho errors: 1716
+*** FAILED *** with 13177 errors
+Morpho errors: 4699
+Syntax errors: 8478
 
 
 ******************
