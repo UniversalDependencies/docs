@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T12:46:08Z">2016-12-06T12:46:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T12:47:14Z">2016-12-06T12:47:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -22,28 +22,105 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-01T01:05:13Z">2016-12-01T01:05:13 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:47:03Z">2016-12-06T12:47:03 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek/grc-ud-dev.conllu
+python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-dev.conllu
 
-*** PASSED ***
+[Line                   3]: Unknown UD DEPREL: dobj
+[Line                   13]: Unknown UPOS tag: CONJ
+[Line                   19]: Unknown UD DEPREL: dobj
+[Line                   37]: Unknown UD DEPREL: dobj
+[Line                   50]: Unknown UD DEPREL: dobj
+[Line                   55]: Unknown UD DEPREL: dobj
+[Line                   60]: Unknown UD DEPREL: dobj
+[Line                   71]: Unknown UD DEPREL: dobj
+[Line                   79]: Unknown UD DEPREL: dobj
+[Line                   98]: Unknown UD DEPREL: dobj
+[Line                   99]: Unknown UD DEPREL: dobj
+[Line                   119]: Unknown UD DEPREL: dobj
+[Line                   124]: Unknown UPOS tag: CONJ
+[Line                   126]: Unknown UD DEPREL: dobj
+[Line                   128]: Unknown UD DEPREL: dobj
+[Line                   136]: Unknown UD DEPREL: dobj
+[Line                   139]: Unknown UD DEPREL: dobj
+[Line                   150]: Unknown UD DEPREL: dobj
+[Line                   161]: Unknown UD DEPREL: dobj
+[Line                   166]: Unknown UD DEPREL: neg
+[Line                   168]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
+[Line                   193]: Unknown UPOS tag: CONJ
+[Line                   196]: Unknown UPOS tag: CONJ
+[Line                   206]: Unknown UPOS tag: CONJ
+[Line                   241]: Unknown UPOS tag: CONJ
+[Line                   263]: Unknown UPOS tag: CONJ
+[Line                   274]: Unknown UPOS tag: CONJ
+[Line                   291]: Unknown UPOS tag: CONJ
+[Line                   301]: Unknown UPOS tag: CONJ
+[Line                   315]: Unknown UPOS tag: CONJ
+[Line                   325]: Unknown UPOS tag: CONJ
+[Line                   333]: Unknown UPOS tag: CONJ
+[Line                   415]: Unknown UPOS tag: CONJ
+[Line                   433]: Unknown UPOS tag: CONJ
+[Line                   458]: Unknown UPOS tag: CONJ
+[Line                   474]: Unknown UPOS tag: CONJ
+[Line                   532]: Unknown UPOS tag: CONJ
+[Line                   537]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 3678 errors
+Morpho errors: 663
+Syntax errors: 3015
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek/grc-ud-test.conllu
+python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-train.conllu
 
-*** PASSED ***
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek/grc-ud-train.conllu
-
-*** PASSED ***
+[Line                   1]: Unknown UD DEPREL: dobj
+[Line                   5]: Unknown UPOS tag: CONJ
+[Line                   19]: Unknown UPOS tag: CONJ
+[Line                   23]: Unknown UD DEPREL: dobj
+[Line                   25]: Unknown UD DEPREL: dobj
+[Line                   28]: Unknown UD DEPREL: neg
+[Line                   36]: Unknown UPOS tag: CONJ
+[Line                   52]: Unknown UD DEPREL: dobj
+[Line                   58]: Unknown UPOS tag: CONJ
+[Line                   61]: Unknown UD DEPREL: dobj
+[Line                   68]: Unknown UD DEPREL: dobj
+[Line                   86]: Unknown UD DEPREL: nsubjpass
+[Line                   90]: Unknown UD DEPREL: neg
+[Line                   99]: Unknown UD DEPREL: neg
+[Line                   111]: Unknown UPOS tag: CONJ
+[Line                   123]: Unknown UPOS tag: CONJ
+[Line                   135]: Unknown UD DEPREL: dobj
+[Line                   140]: Unknown UD DEPREL: dobj
+[Line                   143]: Unknown UD DEPREL: neg
+[Line                   148]: Unknown UD DEPREL: dobj
+[Line                   159]: Unknown UD DEPREL: dobj
+[Line                   160]: Unknown UD DEPREL: neg
+[Line                   168]: Unknown UD DEPREL: dobj
+[Line                   183]: Unknown UD DEPREL: neg
+[Line                   186]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
+[Line                   217]: Unknown UPOS tag: CONJ
+[Line                   227]: Unknown UPOS tag: CONJ
+[Line                   296]: Unknown UPOS tag: CONJ
+[Line                   342]: Unknown UPOS tag: CONJ
+[Line                   370]: Unknown UPOS tag: CONJ
+[Line                   431]: Unknown UPOS tag: CONJ
+[Line                   460]: Unknown UPOS tag: CONJ
+[Line                   478]: Unknown UPOS tag: CONJ
+[Line                   484]: Unknown UPOS tag: CONJ
+[Line                   489]: Unknown UPOS tag: CONJ
+[Line                   498]: Unknown UPOS tag: CONJ
+[Line                   523]: Unknown UPOS tag: CONJ
+[Line                   546]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 28815 errors
+Morpho errors: 7085
+Syntax errors: 21730
 
 
 ******************
