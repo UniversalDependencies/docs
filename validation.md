@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T12:55:09Z">2016-12-06T12:55:09 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-06T13:00:14Z">2016-12-06T13:00:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1161,11 +1161,11 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-05T12:07:23Z">2016-12-05T12:07:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:58:45Z">2016-12-06T12:58:45 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 [Line                   4]: Unknown attribute-value pair Negative=Pos
 [Line                   6]: Unknown attribute-value pair Negative=Pos
@@ -1214,56 +1214,7 @@ Syntax errors: 12911
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-test.conllu
-
-[Line                   3]: Unknown attribute-value pair Negative=Pos
-[Line                   5]: Unknown attribute-value pair Negative=Pos
-[Line                   6]: Unknown attribute-value pair Negative=Pos
-[Line                   7]: Unknown attribute-value pair Negative=Pos
-[Line                   12]: Unknown attribute-value pair Negative=Pos
-[Line                   13]: Unknown attribute-value pair Negative=Pos
-[Line                   17]: Unknown attribute-value pair Negative=Pos
-[Line                   18]: Unknown attribute-value pair Negative=Pos
-[Line                   20]: Unknown attribute-value pair Negative=Pos
-[Line                   20]: Unknown UD DEPREL: dobj
-[Line                   23]: Unknown attribute-value pair Negative=Pos
-[Line                   24]: Unknown UPOS tag: CONJ
-[Line                   25]: Unknown attribute-value pair Negative=Pos
-[Line                   26]: Unknown attribute-value pair Negative=Pos
-[Line                   27]: Unknown attribute-value pair Negative=Pos
-[Line                   28]: Unknown attribute-value pair Negative=Pos
-[Line                   28]: Unknown UD DEPREL: dobj
-[Line                   33]: Unknown attribute-value pair Negative=Pos
-[Line                   34]: Unknown attribute-value pair Negative=Pos
-[Line                   34]: Unknown UD DEPREL: dobj
-[Line                   35]: Unknown attribute-value pair Negative=Neg
-[Line                   40]: Unknown attribute-value pair Negative=Pos
-...suppressing further errors regarding Morpho
-[Line                   41]: Unknown UD DEPREL: dobj
-[Line                   48]: Unknown UD DEPREL: dobj
-[Line                   72]: Unknown UD DEPREL: auxpass:reflex
-[Line                   94]: Unknown UD DEPREL: auxpass
-[Line                   96]: Unknown UD DEPREL: nsubjpass
-[Line                   134]: Unknown UD DEPREL: dobj
-[Line                   136]: Unknown UD DEPREL: dobj
-[Line                   164]: Unknown UD DEPREL: dobj
-[Line                   190]: Unknown UD DEPREL: dobj
-[Line                   200]: Unknown UD DEPREL: dobj
-[Line                   202]: Unknown UD DEPREL: nsubjpass
-[Line                   203]: Unknown UD DEPREL: auxpass
-[Line                   205]: Unknown UD DEPREL: dobj
-[Line                   215]: Unknown UD DEPREL: dobj
-[Line                   224]: Unknown UD DEPREL: dobj
-[Line                   233]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-*** FAILED *** with 117471 errors
-Morpho errors: 103685
-Syntax errors: 13786
-
-
-******************
-
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
 [Line                   4]: Unknown attribute-value pair Negative=Pos
 [Line                   6]: Unknown attribute-value pair Negative=Pos
@@ -1312,7 +1263,7 @@ Syntax errors: 10049
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 [Line                   3]: Unknown attribute-value pair Negative=Pos
 [Line                   5]: Unknown attribute-value pair Negative=Pos
@@ -1361,7 +1312,7 @@ Syntax errors: 59106
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
 [Line                   3]: Unknown attribute-value pair Negative=Pos
 [Line                   4]: Unknown attribute-value pair Negative=Pos
@@ -1410,7 +1361,7 @@ Syntax errors: 14178
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
 [Line                   4]: Unknown attribute-value pair Negative=Pos
 [Line                   5]: Unknown UPOS tag: CONJ
