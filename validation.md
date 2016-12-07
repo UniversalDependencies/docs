@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-06T16:21:22Z">2016-12-06T16:21:22 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-07T11:28:15Z">2016-12-07T11:28:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4118,27 +4118,21 @@ Syntax errors: 19569
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T16:21:22Z">2016-12-06T16:21:22 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-07T11:28:09Z">2016-12-07T11:28:09 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-dev.conllu
 
-[Line                   2]: The line has 8 columns, but 10 are expected.
-[Line                   2]: Exception caught!
-*** FAILED *** with 2 errors
-Format errors: 2
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-train.conllu
 
-[Line                   2]: The line has 8 columns, but 10 are expected.
-[Line                   2]: Exception caught!
-*** FAILED *** with 2 errors
-Format errors: 2
+*** PASSED ***
 
 
 ******************
