@@ -46,7 +46,7 @@ between numerals and nouns for _thousand, million_ and _billion._
 
 #### Examples
 
-* [en] _one, two, three_ 
+* [en] _one, two, three_
 * [cs] _jeden, dva, tři_ "one, two, three"; _kolik_ "how many";
   _několik_ "some"; _tolik_ "so many"; _mnoho_ "many"; _málo_ "few"
 * [cs] _<b>čtvero, patero, desatero</b>_ (specific forms of four, five, ten;
@@ -71,7 +71,7 @@ This is a subtype of adjective or (in some languages) of adverb.
 
 #### Examples
 
-* [en] _first, second, third;_ 
+* [en] _first, second, third;_
 * [cs] adjectival: _první_ "first"; _druhý_ "second", _třetí_ "third";
   _kolikátý_ lit. _how manieth_ "which rank"; _několikátý_ "some
   rank"; _tolikátý_ "this/that rank"
@@ -104,10 +104,11 @@ and syntactically as nouns or ordinal numerals.
 * [cs] _půl / polovina_ "half"; _třetina_ "one third"; _čtvrt /
   čtvrtina_ "quarter"
 
-### <a name="Sets">`Sets`</a>: number of sets of things
+### <a name="Sets">`Sets`</a>: number of sets of things; collective numeral
 
 Morphologically distinct class of numerals used to count sets of
-things, or nouns that are pluralia tantum.
+things, or nouns that are pluralia tantum. Some authors call this type
+collective numeral.
 
 #### Examples
 
