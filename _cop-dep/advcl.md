@@ -9,7 +9,7 @@ An adverbial subordinate clause (e.g. a clause answering the question why? How? 
 Example:
 
 ~~~ sdparse
-ⲉⲛⲉ/CONJ ⲟⲩ/DET ⲙⲟⲛⲁⲭⲟⲥ/NOUN ⲛⲁⲙⲉ/ADV ⲡⲉ/AUX ⲛⲉ/AUX ϥ/PRON ⲛⲁ/AUX ⲣ/VERB ϣⲟⲙⲧ/NUM ⲙ/ADP ⲫⲟⲛⲟⲥ/NOUN \n if he were truly a monk, would he have committed three murders?
+ⲉⲛⲉ/CONJ ⲟⲩ/DET ⲙⲟⲛⲁⲭⲟⲥ/NOUN ⲛⲁⲙⲉ/ADV ⲡⲉ/AUX ⲛⲉ/AUX ϥ/PRON ⲛⲁ/AUX ⲣ/VERB ϣⲟⲙⲧ/NUM ⲙ/ADP ⲫⲟⲛⲟⲥ/NOUN \n ...if he were truly a monk, would he have committed three murders?
 
 advcl(ⲣ,ⲙⲟⲛⲁⲭⲟⲥ)
 ~~~
