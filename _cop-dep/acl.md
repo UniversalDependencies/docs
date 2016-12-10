@@ -9,7 +9,7 @@ Head of an adjectival or relative clause, usually marking the verb or nominal pr
 Example:
 
 ~~~ sdparse
-ⲛⲉⲧⲛ ⲏⲣⲡ ⲉⲧ ⲗⲟⲙⲥ
+ⲛⲉⲧⲛ ⲏⲣⲡ ⲉⲧ ⲗⲟⲙⲥ \n your wine which is foul
 acl(ⲏⲣⲡ, ⲗⲟⲙⲥ)
 mark(ⲗⲟⲙⲥ,ⲉⲧ)
 ~~~
