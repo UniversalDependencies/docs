@@ -491,6 +491,34 @@ The enhanced relations are semantic rather than syntactic. In case marking langu
 </td></tr></tbody>
 </table>
 
+The relative element does not always depend directly on the predicate of the relative clause.
+It may be embedded deeper as in the following example.
+
+<table> <!--muž, v jehož domě žijeme = the man whose house we live in (lit. man, in whose house we-live)-->
+<tbody><tr><td width="600">
+<div class="conllu-parse" tabs="no">
+# visual-style 5 4 det color:green
+1 muž   _ _ _ _ 0 root       _ _
+2 ,  _ _ _ _ 6 punct      _ _
+3 v  _ _ _ _ 5 case       _ _
+4 jehož     _ _ _ _ 5 det     _ _
+5 domě _ _ _ _ 6 obl _ _
+6 žijeme  _ _ _ _ 1 acl:relcl _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse" tabs="no">
+# visual-style 5 1 nmod color:blue
+# visual-style 1 4 ref color:blue
+1 muž   _ _ _ _ 0 root 5:nmod _
+2 ,  _ _ _ _ 6 punct      _ _
+3 v  _ _ _ _ 5 case       _ _
+4 jehož     _ _ _ _ 1 ref     _ _
+5 domě _ _ _ _ 6 obl _ _
+6 žijeme  _ _ _ _ 1 acl:relcl _ _
+</div>
+</td></tr></tbody>
+</table>
+
 ## Case Information
 
 Adding prepositions (or case information) to the relation name of non-core dependents often makes it possible to disambiguate its semantic role. We therefore augment `nmod`, `obl`, `acl` and `advcl` relation labels with the preposition or the case of the modifier.
