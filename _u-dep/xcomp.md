@@ -23,6 +23,7 @@ xcomp(like, swim)
 ~~~ sdparse
 Sue asked George to respond to her offer
 xcomp(asked, respond)
+obj(asked, George)
 ~~~
 
 ~~~ sdparse
@@ -48,6 +49,7 @@ xcomp(consider, honest)
 ~~~ sdparse
 We expect them to change their minds
 xcomp(expect, change)
+obj(expect, them)
 ~~~
 
 Note that the above condition “without its own subject” does not mean that a 
