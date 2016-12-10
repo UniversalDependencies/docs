@@ -196,7 +196,7 @@ When two verbs share their objects (or other complements), the subject and the o
 </td></tr></tbody>
 </table>
 
-However, if the complements of the second verb are not shared, only the subject is attached to every conjunct.
+However, if the complements of the second verb are not shared, only the shared dependents are attached to every conjunct.
 
 <table> <!--She was reading or watching a movie .-->
 <tbody><tr><td width="600">
@@ -213,8 +213,9 @@ However, if the complements of the second verb are not shared, only the subject 
 </td><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 5 1 nsubj color:blue
+# visual-style 5 2 aux color:blue
 1 She      _ _ _ _ 3 nsubj 5:nsubj _
-2 was      _ _ _ _ 3 aux   _ _
+2 was      _ _ _ _ 3 aux   5:aux _
 3 reading  _ _ _ _ 0 root  _ _
 4 or       _ _ _ _ 5 cc    _ _
 5 watching _ _ _ _ 3 conj  _ _
