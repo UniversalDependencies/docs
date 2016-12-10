@@ -9,19 +9,6 @@ An adverbial subordinate clause (e.g. a clause answering the question why? How? 
 Example:
 
 ~~~ conllu
-1	ⲉⲡⲉⲓⲇⲏ	ⲉⲡⲉⲓⲇⲏ	CONJ	CONJ	_	4	mark	_	_
-2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
-3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	4	nsubj	_	_
-4	ϫⲟⲟ	ϫⲱ	VERB	V	_	0	root	_	_
-5	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	4	dobj	_	_
-6	ⲇⲉ	ⲇⲉ	PART	PTC	_	4	advmod	_	_
-7	ⲟⲛ	ⲟⲛ	ADV	ADV	_	4	advmod	_	_
-8	ϩⲛ	ϩⲛ	ADP	PREP	_	10	case	_	_
-9	ⲛⲉⲕ	ⲡⲉⲕ	DET	PPOS	_	10	det	_	_
-10	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	4	nmod	_	_
-11	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
-12	ⲉⲡⲣⲁ	ⲉⲡⲣⲁ	NOUN	N	_	10	nmod	_	_
-13	ϫⲉ	ϫⲉ	CONJ	CONJ	_	22	mark	_	_
 14	ⲉⲛⲉ	ⲉⲛⲉ	CONJ	CONJ	_	16	mark	_	_
 15	ⲟⲩ	ⲟⲩ	DET	ART	_	16	det	_	_
 16	ⲙⲟⲛⲁⲭⲟⲥ	ⲙⲟⲛⲁⲭⲟⲥ	NOUN	N	_	22	advcl	_	_
@@ -39,5 +26,4 @@ Example:
 28	ϩⲙⲉ	ϩⲙⲉ	NUM	NUM	_	30	nummod	_	_
 29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
 30	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	22	nmod	_	_
-31	.	.	PUNCT	PUNCT	_	4	punct	_	_
 ~~~
