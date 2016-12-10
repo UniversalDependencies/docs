@@ -226,6 +226,36 @@ However, if the complements of the second verb are not shared, only the shared d
 </td></tr></tbody>
 </table>
 
+Similarly, the enhanced representation can also distinguish private dependents of the first verb. Note however that in this case it cannot be inferred from the basic representation automatically.
+
+<table> <!--She was reading or watching a movie .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse" tabs="no">
+1 She      _ _ _ _ 3 nsubj _ _
+2 was      _ _ _ _ 3 aux   _ _
+3 watching _ _ _ _ 0 root  _ _
+4 a        _ _ _ _ 5 det   _ _
+5 movie    _ _ _ _ 3 obj   _ _
+6 or       _ _ _ _ 7 cc    _ _
+7 reading  _ _ _ _ 3 conj  _ _
+8 .        _ _ _ _ 3 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse" tabs="no">
+# visual-style 7 1 nsubj color:blue
+# visual-style 7 2 aux color:blue
+1 She      _ _ _ _ 3 nsubj 7:nsubj _
+2 was      _ _ _ _ 3 aux   7:aux _
+3 watching _ _ _ _ 0 root  _ _
+4 a        _ _ _ _ 5 det   _ _
+5 movie    _ _ _ _ 3 obj   _ _
+6 or       _ _ _ _ 7 cc    _ _
+7 reading  _ _ _ _ 3 conj  _ _
+8 .        _ _ _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
 ### Conjoined subjects and objects
 
 When the subject is a conjoined noun phrase, each of the conjuncts is attached to the predicate.
