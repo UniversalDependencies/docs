@@ -25,6 +25,7 @@ Note that the _enhanced_ graph is not necessarily a supergraph of the basic tree
 The _basic_ trees lack a subject dependency between a controlled verb and its controller or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an additional dependency between the embedded verb and the subject of the matrix clause.
 
 <table id="control-raising-example1"> <!--Mary wants to buy a book .-->
+<thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
 <tbody><tr><td width="600">
 <div class="conllu-parse" tabs="no">
 1 Mary  _ _ _ _ 2 nsubj _ _
@@ -84,7 +85,6 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 In the _enhanced_ representation, we add special null nodes in clauses in which a predicate is elided.
 
 <table id="ellipsis-example1"> <!--I like tea and you E5.1 rum .-->
-<thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
 <tbody><tr><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 5 6 orphan color:green
