@@ -25,3 +25,5 @@ advcl(ⲙⲛ, ⲡⲱⲧ)
 mark(ⲡⲱⲧ, ⲉⲧⲃⲉ)
 mark(ⲡⲱⲧ, ϫⲉ)
 ~~~
+
+This analysis keeps a parallel structure with a similar clause without the preposition (e.g. only with ϫⲉ to mean ‘because’).
