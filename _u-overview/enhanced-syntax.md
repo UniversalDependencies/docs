@@ -184,7 +184,7 @@ When two verbs share their objects (or other complements), the subject and the o
 </td><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 5 2 nsubj color:blue
-# visual-style 3 6 obj color:blue
+# visual-style 5 6 obj color:blue
 1 The     _ _ _ _ 2 det   _ _
 2 store   _ _ _ _ 3 nsubj 5:nsubj _
 3 buys    _ _ _ _ 0 root  _ _
