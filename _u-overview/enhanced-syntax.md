@@ -466,6 +466,31 @@ In _basic_ trees, relative pronouns are attached to the main predicate of the re
 </td></tr></tbody>
 </table>
 
+The enhanced relations are semantic rather than syntactic. In case marking languages the enhanced dependencies may link verb dependents that are not in the expected morphological case:
+
+<table> <!--dům, v němž žijeme = the house we live in (lit. house, in that we-live)-->
+<tbody><tr><td width="600">
+<div class="conllu-parse" tabs="no">
+# visual-style 5 4 obl color:green
+1 dům   _ _ _ _ 0 root       _ _
+2 ,  _ _ _ _ 5 punct      _ _
+3 v  _ _ _ _ 4 case       _ _
+4 němž     _ _ _ _ 5 obl     _ _
+5 žijeme  _ _ _ _ 1 acl:relcl _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse" tabs="no">
+# visual-style 5 1 obl color:blue
+# visual-style 1 4 ref color:blue
+1 dům   _ _ _ _ 0 root 5:obl _
+2 ,  _ _ _ _ 5 punct      _ _
+3 v  _ _ _ _ 4 case       _ _
+4 němž     _ _ _ _ 1 ref     _ _
+5 žijeme  _ _ _ _ 1 acl:relcl _ _
+</div>
+</td></tr></tbody>
+</table>
+
 ## Case Information
 
 Adding prepositions (or case information) to the relation name of non-core dependents often makes it possible to disambiguate its semantic role. We therefore augment `nmod`, `obl`, `acl` and `advcl` relation labels with the preposition or the case of the modifier.
