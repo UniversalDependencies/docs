@@ -178,7 +178,7 @@ When two verbs share their objects (or other complements), the subject and the o
 3 buys    _ _ _ _ 0 root  _ _
 4 and     _ _ _ _ 5 cc    _ _
 5 sells   _ _ _ _ 3 conj  _ _
-6 cameras _ _ _ _ 5 obj   _ _
+6 cameras _ _ _ _ 3 obj   _ _
 7 .       _ _ _ _ 3 punct _ _
 </div>
 </td><td width="600">
@@ -190,7 +190,7 @@ When two verbs share their objects (or other complements), the subject and the o
 3 buys    _ _ _ _ 0 root  _ _
 4 and     _ _ _ _ 5 cc    _ _
 5 sells   _ _ _ _ 3 conj  _ _
-6 cameras _ _ _ _ 5 obj   3:obj _
+6 cameras _ _ _ _ 3 obj   5:obj _
 7 .       _ _ _ _ 3 punct _ _
 </div>
 </td></tr></tbody>
