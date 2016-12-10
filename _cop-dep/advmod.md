@@ -23,7 +23,7 @@ advmod(ⲥⲟⲣ, ⲙⲉⲣⲟⲥ-6)
 conj(ⲙⲉⲣⲟⲥ-6, ⲙⲉⲣⲟⲥ-7)
 ~~~ 
 
-Inflected modifiers (Scriptorium tag IMOD, cf. Layton 2011: 118-123) are also seen as adverbial. For example, ϩⲱⲱ⸗ is used together with an object pronoun to mean ‘also X’ or ‘X for X’s part. Because of its basic modifier semantics, meaning ‘also’, the combination is seen as adverbial, so that the function of the phrase is again `advmod`. Note that ϩⲱⲱ is not a preposition, and the analysis treats it similarly to a possessed noun, so that the pronoun is seen as a determiner `det`
+Inflected modifiers (Scriptorium tag IMOD, cf. Layton 2011: 118-123) are also seen as adverbial. For example, ϩⲱⲱ⸗ is used together with an object pronoun to mean ‘also X’ or ‘X for X’s part. Because of its basic modifier semantics, meaning ‘also’, the combination is seen as adverbial, so that the function of the phrase is again `advmod`. Note that ϩⲱⲱ is not a preposition, and the analysis treats it similarly to a possessed noun, so that the pronoun is seen as a determiner `det`:
 
 ~~~ sdparse
 ϩⲱⲱ/ADV ⲕ/PRON ⲕ/PRON ⲟⲩⲱϣⲧ/VERB \n you also worship/for your part you worship
