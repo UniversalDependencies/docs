@@ -19,6 +19,6 @@ Occasionally nouns will be used as adverbial modifiers depicting manner or time,
 ~~~ sdparse
 ⲛ/AUX ⲧⲉⲧⲛ/PRON ⲥⲟⲣ/VERB ϥ/PRON ⲉⲃⲟⲗ/ADV ⲙⲉⲣⲟⲥ/NOUN ⲙⲉⲣⲟⲥ/NOUN
 advmod(ⲥⲟⲣ, ⲉⲃⲟⲗ)
-advmod(ⲥⲟⲣ, ⲙⲉⲣⲟⲥ-1)
-conj(ⲙⲉⲣⲟⲥ-1, ⲙⲉⲣⲟⲥ-2)
+advmod(ⲥⲟⲣ, ⲙⲉⲣⲟⲥ-6)
+conj(ⲙⲉⲣⲟⲥ-6, ⲙⲉⲣⲟⲥ-7)
 ~~~ 
