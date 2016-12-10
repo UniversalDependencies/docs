@@ -20,6 +20,63 @@ _Enhanced_ UD graphs may contain some or all of the following enhancements, whic
 
 Note that the _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., the graph is not required to contain all the basic dependency relations. For this reason, all relations of the enhanced graph (also the ones that are present in the basic UD tree) have to be included in the _DEPS_ column of a CoNLL-U file. See the specificiation of the [CoNLL-U](/format.html) file format for details.
 
+## Controlled/raised subjects
+
+The _basic_ trees lack a subject dependency between a controlled verb and its controller or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an additional dependency between the embedded verb and the subject of the matrix clause.
+
+<table id="control-raising-example1"> <!--Mary wants to buy a book .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse" tabs="no">
+1 Mary  _ _ _ _ 2 nsubj _ _
+2 wants _ _ _ _ 0 root  _ _
+3 to    _ _ _ _ 4 mark  _ _
+4 buy   _ _ _ _ 2 xcomp _ _
+5 a     _ _ _ _ 6 det   _ _
+6 book  _ _ _ _ 4 obj   _ _
+7 .     _ _ _ _ 2 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse" tabs="no">
+# visual-style 4 1 nsubj color:blue
+1 Mary  _ _ _ _ 2 nsubj 4:nsubj _
+2 wants _ _ _ _ 0 root  _ _
+3 to    _ _ _ _ 4 mark  _ _
+4 buy   _ _ _ _ 2 xcomp _ _
+5 a     _ _ _ _ 6 det   _ _
+6 book  _ _ _ _ 4 obj   _ _
+7 .     _ _ _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+<table id="control-raising-example2"> <!--She seems to be reading a book .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse" tabs="no">
+1 She     _ _ _ _ 2 nsubj _ _
+2 seems   _ _ _ _ 0 root  _ _
+3 to      _ _ _ _ 5 mark  _ _
+4 be      _ _ _ _ 5 aux   _ _
+5 reading _ _ _ _ 2 xcomp _ _
+6 a       _ _ _ _ 7 det   _ _
+7 book    _ _ _ _ 5 obj   _ _
+8 .       _ _ _ _ 2 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse" tabs="no">
+# visual-style 5 1 nsubj color:blue
+1 She     _ _ _ _ 2 nsubj 5:nsubj _
+2 seems   _ _ _ _ 0 root  _ _
+3 to      _ _ _ _ 5 mark  _ _
+4 be      _ _ _ _ 5 aux   _ _
+5 reading _ _ _ _ 2 xcomp _ _
+6 a       _ _ _ _ 7 det   _ _
+7 book    _ _ _ _ 5 obj   _ _
+8 .       _ _ _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+
 ## Ellipsis 
 
 (See also the guidelines on [ellipsis](specific-syntax.html#ellipsis).)
@@ -103,62 +160,6 @@ In the _enhanced_ representation, we add special null nodes in clauses in which 
 </table>
 
 Note that this is a case in which the _enhanced_ UD graph is not a supergraph of the _basic_ tree as the _basic_ tree contains `orphan` relations, which are not present in the _enhanced_ UD graph.
-
-## Controlled/raised subjects
-
-The _basic_ trees lack a subject dependency between a controlled verb and its controller or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an additional dependency between the embedded verb and the subject of the matrix clause.
-
-<table id="control-raising-example1"> <!--Mary wants to buy a book .-->
-<tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
-1 Mary  _ _ _ _ 2 nsubj _ _
-2 wants _ _ _ _ 0 root  _ _
-3 to    _ _ _ _ 4 mark  _ _
-4 buy   _ _ _ _ 2 xcomp _ _
-5 a     _ _ _ _ 6 det   _ _
-6 book  _ _ _ _ 4 obj   _ _
-7 .     _ _ _ _ 2 punct _ _
-</div>
-</td><td width="600">
-<div class="conllu-parse" tabs="no">
-# visual-style 4 1 nsubj color:blue
-1 Mary  _ _ _ _ 2 nsubj 4:nsubj _
-2 wants _ _ _ _ 0 root  _ _
-3 to    _ _ _ _ 4 mark  _ _
-4 buy   _ _ _ _ 2 xcomp _ _
-5 a     _ _ _ _ 6 det   _ _
-6 book  _ _ _ _ 4 obj   _ _
-7 .     _ _ _ _ 2 punct _ _
-</div>
-</td></tr></tbody>
-</table>
-
-<table id="control-raising-example2"> <!--She seems to be reading a book .-->
-<tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
-1 She     _ _ _ _ 2 nsubj _ _
-2 seems   _ _ _ _ 0 root  _ _
-3 to      _ _ _ _ 5 mark  _ _
-4 be      _ _ _ _ 5 aux   _ _
-5 reading _ _ _ _ 2 xcomp _ _
-6 a       _ _ _ _ 7 det   _ _
-7 book    _ _ _ _ 5 obj   _ _
-8 .       _ _ _ _ 2 punct _ _
-</div>
-</td><td width="600">
-<div class="conllu-parse" tabs="no">
-# visual-style 5 1 nsubj color:blue
-1 She     _ _ _ _ 2 nsubj 5:nsubj _
-2 seems   _ _ _ _ 0 root  _ _
-3 to      _ _ _ _ 5 mark  _ _
-4 be      _ _ _ _ 5 aux   _ _
-5 reading _ _ _ _ 2 xcomp _ _
-6 a       _ _ _ _ 7 det   _ _
-7 book    _ _ _ _ 5 obj   _ _
-8 .       _ _ _ _ 2 punct _ _
-</div>
-</td></tr></tbody>
-</table>
 
 
 ## Propagation of Conjuncts
