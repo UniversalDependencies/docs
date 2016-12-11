@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Simple Clauses'
+title:  'Basic Dependencies: Simple Clauses'
 permalink: u/overview/simple-syntax.html
 udver: '2'
 ---
