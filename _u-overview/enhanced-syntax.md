@@ -475,7 +475,7 @@ The enhanced relations are semantic rather than syntactic. In case marking langu
 1 dům house NOUN _ Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing 0 root       _ _
 2 , , PUNCT _ _ 5 punct      _ _
 3 v in ADP _ _ 4 case       _ _
-4 němž that _ PRON Case=Loc|Gender=Masc|Number=Sing|PronType=Rel 5 obl     _ _
+4 němž that PRON _ Case=Loc|Gender=Masc|Number=Sing|PronType=Rel 5 obl     _ _
 5 žijeme live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td><td width="600">
