@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Basic Dependencies'
+title:  'Basic Dependencies: Complex Clauses'
 permalink: u/overview/complex-syntax.html
 udver: '2'
 ---
