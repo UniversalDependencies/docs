@@ -498,23 +498,23 @@ It may be embedded deeper as in the following example.
 <tbody><tr><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 5 4 det color:green
-1 muž   _ _ _ _ 0 root       _ _
-2 ,  _ _ _ _ 6 punct      _ _
-3 v  _ _ _ _ 5 case       _ _
-4 jehož     _ _ _ _ 5 det     _ _
-5 domě _ _ _ _ 6 obl _ _
-6 žijeme  _ _ _ _ 1 acl:relcl _ _
+1 muž man NOUN _ Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing 0 root       _ _
+2 , , PUNCT _ _ 6 punct      _ _
+3 v in ADP _ _ 5 case       _ _
+4 jehož whose DET _ Gender[psor]=Masc|Number[psor]=Plur|Poss=Yes|PronType=Rel 5 det     _ _
+5 domě house NOUN _ Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing 6 obl _ _
+6 žijeme we-live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 5 1 nmod color:blue
 # visual-style 1 4 ref color:blue
-1 muž   _ _ _ _ 0 root 5:nmod _
-2 ,  _ _ _ _ 6 punct      _ _
-3 v  _ _ _ _ 5 case       _ _
-4 jehož     _ _ _ _ 1 ref     _ _
-5 domě _ _ _ _ 6 obl _ _
-6 žijeme  _ _ _ _ 1 acl:relcl _ _
+1 muž man NOUN _ Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing 0 root 5:nmod _
+2 , , PUNCT _ _ 6 punct      _ _
+3 v in ADP _ _ 5 case       _ _
+4 jehož whose DET _ Gender[psor]=Masc|Number[psor]=Plur|Poss=Yes|PronType=Rel 1 ref     _ _
+5 domě house NOUN _ Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing 6 obl _ _
+6 žijeme we-live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td></tr></tbody>
 </table>
