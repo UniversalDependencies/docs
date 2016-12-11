@@ -14,5 +14,6 @@ udver: '2'
 for adding a new language/treebank and then get in touch with us.
 
 * If you want to contribute to a release, please follow the steps in the [release checklist](release_checklist.html).
+  * Specific to release 2.0: if you want your treebank included in the CoNLL 2017 shared task, [read this](http://universaldependencies.org/conll17/inclusion-rules.html).
 
 * If you want to contribute to language-specific documentation, see the last section of the [release checklist](release_checklist.html#language-specific-guidelines).
