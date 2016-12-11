@@ -426,19 +426,19 @@ In _basic_ trees, relative pronouns are attached to the main predicate of the re
 <tbody><tr><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 4 3 nsubj color:green
-1 the   _ _ _ _ 2 det       _ _
-2 boy   _ _ _ _ 0 root      _ _
-3 who   _ _ _ _ 4 nsubj     _ _
-4 lived _ _ _ _ 2 acl:relcl _ _
+1 the   the   DET _ Definite=Def|PronType=Art 2 det       _ _
+2 boy   boy   NOUN _ Gender=Masc|Number=Sing 0 root      _ _
+3 who   who   PRON _ PronType=Rel 4 nsubj     _ _
+4 lived lived VERB _ Mood=Ind|Tense=Past|VerbForm=Fin 2 acl:relcl _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 4 2 nsubj color:blue
 # visual-style 2 3 ref color:blue
-1 the   _ _ _ _ 2 det       _ _
-2 boy   _ _ _ _ 0 root      4:nsubj _
-3 who   _ _ _ _ 2 ref       _ _
-4 lived _ _ _ _ 2 acl:relcl _ _
+1 the   the   DET  _ Definite=Def|PronType=Art 2 det       _ _
+2 boy   boy   NOUN _ Gender=Masc|Number=Sing 0 root      4:nsubj _
+3 who   who   PRON _ PronType=Rel 2 ref       _ _
+4 lived lived VERB _ Mood=Ind|Tense=Past|VerbForm=Fin 2 acl:relcl _ _
 </div>
 </td></tr></tbody>
 </table>
