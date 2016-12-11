@@ -472,21 +472,21 @@ The enhanced relations are semantic rather than syntactic. In case marking langu
 <tbody><tr><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 5 4 obl color:green
-1 dům   _ _ _ _ 0 root       _ _
-2 ,  _ _ _ _ 5 punct      _ _
-3 v  _ _ _ _ 4 case       _ _
-4 němž     _ _ _ _ 5 obl     _ _
-5 žijeme  _ _ _ _ 1 acl:relcl _ _
+1 dům house NOUN _ Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing 0 root       _ _
+2 , , PUNCT _ _ 5 punct      _ _
+3 v in ADP _ _ 4 case       _ _
+4 němž that _ PRON Case=Loc|Gender=Masc|Number=Sing|PronType=Rel 5 obl     _ _
+5 žijeme we-live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 5 1 obl color:blue
 # visual-style 1 4 ref color:blue
-1 dům   _ _ _ _ 0 root 5:obl _
-2 ,  _ _ _ _ 5 punct      _ _
-3 v  _ _ _ _ 4 case       _ _
-4 němž     _ _ _ _ 1 ref     _ _
-5 žijeme  _ _ _ _ 1 acl:relcl _ _
+1 dům house NOUN _ Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing  0 root 5:obl _
+2 , , PUNCT _ _ 5 punct      _ _
+3 v in ADP _ _ 4 case       _ _
+4 němž that PRON _ Case=Loc|Gender=Masc|Number=Sing|PronType=Rel 1 ref     _ _
+5 žijeme we-live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td></tr></tbody>
 </table>
