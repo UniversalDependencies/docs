@@ -9,6 +9,14 @@ udver: '2'
 
 This section contains detailed discussion of particular linguistic constructions that fall outside (or cut across) the main categories of simple clause, complex clauses, and nominal phrases.
 
+* [Coordination](#coordination)
+* [Ellipsis](#ellipsis)
+* [Multiword expressions](#multiword-expressions)
+* [Comparative constructions](#comparatives)
+* [Paratactic constructions](#paratactic-constructions)
+* [Punctuation](#punctuation)
+
+
 ## Coordination
 
 As discussed in the section on [complex clauses](complex-syntax.html), we treat coordinate structures asymmetrically
