@@ -152,8 +152,12 @@ UD is an open collaboration with many project members. The administrative struct
 * Janna Lipenkova and Milan Souček. 2014. [Converting Russian Dependency Treebank to Stanford Typed
 Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics*, pp. 143-147.
 
+* Marie-Catherine de Marneffe, Miriam Connor, Natalia Silveira, Samuel R. Bowman, Timothy Dozat, and Christopher D. Manning. 2013.
+  [More constructions, more genres: extending Stanfod Dependencies](http://anthology.aclweb.org/W/W13/W13-3721.pdf).
+  In *Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013)*.
+
 * Marie-Catherine de Marneffe, Timothy Dozat, Natalia Silveira, Katri
-  Haverinen, Filip Ginter, Joakim Nivre, and Christopher Manning. 2014.
+  Haverinen, Filip Ginter, Joakim Nivre, and Christopher D. Manning. 2014.
   [Universal Stanford Dependencies: A cross-linguistic
   typology](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf).
   In *Proceedings of LREC*.
