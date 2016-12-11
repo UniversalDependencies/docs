@@ -7,6 +7,10 @@ udver: '2'
 
 # Complex Clauses
 
+* [Coordinated clauses](#coordination)
+* [Subordinate clauses](#subordination)
+* [Secondary predicates](#secondary-predicates)
+
 ## Coordination 
 
 Complex clauses involving coordination arise when two main clauses or two subordinate clauses at the same level are
@@ -277,7 +281,7 @@ the fact that nobody cares
 acl(fact, cares)
 ~~~
 
-### Secondary predicates
+## Secondary Predicates
 
 A clause can contain a _secondary predication_ or _predicative_. The most common case is with adjectives, although the same effect can sometimes be achieved with a predicative noun or preposition-marked phrase.
 
