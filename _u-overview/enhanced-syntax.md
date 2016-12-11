@@ -447,21 +447,21 @@ In _basic_ trees, relative pronouns are attached to the main predicate of the re
 <tbody><tr><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 5 3 obj color:green
-1 the   _ _ _ _ 2 det       _ _
-2 book  _ _ _ _ 0 root      _ _
-3 that  _ _ _ _ 5 obj       _ _
-4 I     _ _ _ _ 5 nsubj     _ _
-5 read  _ _ _ _ 2 acl:relcl _ _
+1 the   the  DET  _ Definite=Def|PronType=Art 2 det       _ _
+2 book  book NOUN _ Gender=Neut|Number=Sing 0 root      _ _
+3 that  that PRON _ PronType=Rel 5 obj       _ _
+4 I     I    PRON _ Number=Sing|Person=1|PronType=Prs 5 nsubj     _ _
+5 read  read VERB _ Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse" tabs="no">
 # visual-style 5 2 obj color:blue
 # visual-style 2 3 ref color:blue
-1 the   _ _ _ _ 2 det       _ _
-2 book  _ _ _ _ 0 root      5:obj _
-3 that  _ _ _ _ 2 ref       _ _
-4 I     _ _ _ _ 5 nsubj     _ _
-5 read  _ _ _ _ 2 acl:relcl _ _
+1 the   the DET _ Definite=Def|PronType=Art 2 det       _ _
+2 book  book NOUN _ Gender=Neut|Number=Sing 0 root      5:obj _
+3 that  that PRON _ PronType=Rel 2 ref       _ _
+4 I     I PRON _ Number=Sing|Person=1|PronType=Prs 5 nsubj     _ _
+5 read  read VERB _ Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
 </div>
 </td></tr></tbody>
 </table>
@@ -476,7 +476,7 @@ The enhanced relations are semantic rather than syntactic. In case marking langu
 2 , , PUNCT _ _ 5 punct      _ _
 3 v in ADP _ _ 4 case       _ _
 4 němž that _ PRON Case=Loc|Gender=Masc|Number=Sing|PronType=Rel 5 obl     _ _
-5 žijeme we-live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
+5 žijeme live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse" tabs="no">
@@ -486,7 +486,7 @@ The enhanced relations are semantic rather than syntactic. In case marking langu
 2 , , PUNCT _ _ 5 punct      _ _
 3 v in ADP _ _ 4 case       _ _
 4 němž that PRON _ Case=Loc|Gender=Masc|Number=Sing|PronType=Rel 1 ref     _ _
-5 žijeme we-live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
+5 žijeme live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td></tr></tbody>
 </table>
@@ -503,7 +503,7 @@ It may be embedded deeper as in the following example.
 3 v in ADP _ _ 5 case       _ _
 4 jehož whose DET _ Gender[psor]=Masc|Number[psor]=Plur|Poss=Yes|PronType=Rel 5 det     _ _
 5 domě house NOUN _ Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing 6 obl _ _
-6 žijeme we-live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
+6 žijeme live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse" tabs="no">
@@ -514,7 +514,7 @@ It may be embedded deeper as in the following example.
 3 v in ADP _ _ 5 case       _ _
 4 jehož whose DET _ Gender[psor]=Masc|Number[psor]=Plur|Poss=Yes|PronType=Rel 1 ref     _ _
 5 domě house NOUN _ Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing 6 obl _ _
-6 žijeme we-live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
+6 žijeme live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td></tr></tbody>
 </table>
