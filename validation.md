@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-12T02:48:15Z">2016-12-12T02:48:15 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-12T02:51:21Z">2016-12-12T02:51:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -578,104 +578,12 @@ Syntax errors: 10189
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-12T02:48:14Z">2016-12-12T02:48:14 zulu</time></span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-12T02:51:21Z">2016-12-12T02:51:21 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-dev.conllu
-
-[Line                   6]: Unknown UD DEPREL: dobj
-[Line                   12]: Unknown UD DEPREL: name
-[Line                   15]: Unknown UD DEPREL: dobj
-[Line                   46]: Unknown UD DEPREL: mwe
-[Line                   48]: Unknown UD DEPREL: dobj
-[Line                   53]: Unknown UD DEPREL: dobj
-[Line                   72]: Unknown UD DEPREL: mwe
-[Line                   77]: Unknown UD DEPREL: dobj
-[Line                   97]: Unknown UD DEPREL: mwe
-[Line                   98]: Unknown UD DEPREL: mwe
-[Line                   108]: Unknown UD DEPREL: mwe
-[Line                   122]: Unknown UPOS tag: CONJ
-[Line                   177]: Unknown UD DEPREL: mwe
-[Line                   206]: Unknown UD DEPREL: mwe
-[Line                   224]: Unknown UD DEPREL: dobj
-[Line                   238]: Unknown UD DEPREL: dobj
-[Line                   255]: Unknown UD DEPREL: dobj
-[Line                   262]: Unknown UD DEPREL: mwe
-[Line                   274]: Unknown UD DEPREL: dobj
-[Line                   353]: Unknown UD DEPREL: mwe
-[Line                   356]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Syntax
-[Line                   364]: Unknown UPOS tag: CONJ
-[Line                   400]: Unknown UPOS tag: CONJ
-[Line                   931]: Unknown UPOS tag: CONJ
-[Line                   1003]: Unknown UPOS tag: CONJ
-[Line                   1306]: Unknown UPOS tag: CONJ
-[Line                   1381]: Unknown UPOS tag: CONJ
-[Line                   1394]: Unknown UPOS tag: CONJ
-[Line                   1416]: Unknown UPOS tag: CONJ
-[Line                   1531]: Unknown UPOS tag: CONJ
-[Line                   2024]: Unknown UPOS tag: CONJ
-[Line                   2244]: Unknown UPOS tag: CONJ
-[Line                   2519]: Unknown UPOS tag: CONJ
-*** FAILED *** with 190 errors
-Morpho errors: 14
-Syntax errors: 176
-
-
-******************
-
-python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-train.conllu
-
-[Line                   11]: Unknown UD DEPREL: dobj
-[Line                   32]: Unknown UPOS tag: CONJ
-[Line                   37]: Unknown UPOS tag: CONJ
-[Line                   38]: Unknown UPOS tag: CONJ
-[Line                   38]: Unknown UD DEPREL: mwe
-[Line                   45]: Unknown UPOS tag: CONJ
-[Line                   61]: Unknown UD DEPREL: dobj
-[Line                   82]: Unknown UD DEPREL: dobj
-[Line                   89]: Unknown UD DEPREL: mwe
-[Line                   93]: Unknown UD DEPREL: dobj
-[Line                   137]: Unknown UD DEPREL: name
-[Line                   139]: Unknown UD DEPREL: dobj
-[Line                   144]: Unknown UD DEPREL: name
-[Line                   147]: Unknown UD DEPREL: dobj
-[Line                   152]: Unknown UD DEPREL: dobj
-[Line                   156]: Unknown UD DEPREL: mwe
-[Line                   157]: Unknown UD DEPREL: mwe
-[Line                   159]: Unknown UD DEPREL: dobj
-[Line                   168]: Unknown UD DEPREL: dobj
-[Line                   187]: Unknown UD DEPREL: dobj
-[Line                   194]: Unknown UD DEPREL: dobj
-[Line                   198]: Unknown UD DEPREL: dobj
-[Line                   202]: Unknown UD DEPREL: nsubjpass
-...suppressing further errors regarding Syntax
-[Line                   377]: Unknown UPOS tag: CONJ
-[Line                   477]: Unknown UPOS tag: CONJ
-[Line                   565]: Unknown UPOS tag: CONJ
-[Line                   666]: Unknown UPOS tag: CONJ
-[Line                   836]: Unknown UPOS tag: CONJ
-[Line                   840]: Unknown UPOS tag: CONJ
-[Line                   922]: Unknown UPOS tag: CONJ
-[Line                   1090]: Unknown UPOS tag: CONJ
-[Line                   1131]: Unknown UPOS tag: CONJ
-[Line                   1158]: Unknown UPOS tag: CONJ
-[Line                   1208]: Unknown UPOS tag: CONJ
-[Line                   1286]: Unknown UPOS tag: CONJ
-[Line                   1304]: Unknown UPOS tag: CONJ
-[Line                   1313]: Unknown UPOS tag: CONJ
-[Line                   1605]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 205 errors
-Morpho errors: 23
-Syntax errors: 182
-
-
-******************
-
-
+No data
 </pre>
 </div>
 <div>
