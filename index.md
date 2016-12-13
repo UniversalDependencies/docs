@@ -34,6 +34,11 @@ This is the online documentation for Universal Dependencies, version 2 (2016-12-
 available [here](docsv1/index.html).
 </small>
 
+# Upcoming UD-related events
+
+  * [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](http://universaldependencies.org/conll17/)
+  * [NoDaLiDa Workshop on Universal Dependencies (UDW 2017)](http://universaldependencies.org/udw17/)
+
 # Want to know more about UD?
 
   * [Short introduction to Universal Dependencies](introduction.html)
