@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-12T02:51:21Z">2016-12-12T02:51:21 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-13T10:00:31Z">2016-12-13T10:00:31 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5256,11 +5256,11 @@ Syntax errors: 19805
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:31:08Z">2016-12-06T13:31:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-13T10:00:22Z">2016-12-13T10:00:22 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
 
 [Line                   18]: Unknown UD DEPREL: name
 [Line                   23]: Unknown UD DEPREL: dobj
@@ -5309,7 +5309,7 @@ Syntax errors: 1581
 
 ******************
 
-python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
 
 [Line                   15]: Unknown UD DEPREL: neg
 [Line                   16]: Unknown UD DEPREL: auxpass
