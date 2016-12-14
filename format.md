@@ -130,6 +130,9 @@ tokens that are not words have an underscore in both the HEAD and DEPREL fields.
 
 <!--However, the script that extracts the token sequence optionally provides a heuristic mapping of the morphological and syntactic annotation to non-word tokens. For example, given the following annotation of the English sentence _I haven't a clue_:
 
+WARNING: The multi-word token "haven't" may clash with usual low-level tokenization of English, see issue #322.
+Before uncommenting this part, we may want to use an example from another language.
+
     1     I         I      PRON    PRP   Case=Nom|Number=Sing|Person=1     2   nsubj
     2-3   haven't   _      _       _     _                                 _   _
     2     have      have   VERB    VBP   Number=Sing|Person=1|Tense=Pres   0   root
@@ -172,7 +175,10 @@ without special escaping. If the MISC field is not used, it should contain an un
 
 ## Untokenized Text
 
-To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field. Note that this feature applies to the token level, not to the word level. Syntactic words that are just part of surface tokens will be ignored during detokenization and thus do not need the feature. In the example below, the line indexed 1 does not contain the `SpaceAfter` feature even though there was no space between _He_ and _'s_ in the underlying sentence. However, if there was no space between _He's_ and the third token, the 1-2 line would have `SpaceAfter=No`.
+To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field. Note that this feature applies to the token level, not to the word level. Syntactic words that are just part of surface tokens will be ignored during detokenization and thus do not need the feature. In the example below, the line indexed 3 does not contain the `SpaceAfter` feature even though there was no space between _für_ and _das_ in the underlying sentence. However, if there were no space between _fürs_ and the following token, the 3-4 line would have `SpaceAfter=No`.
+
+<!--WARNING: The multi-word tokens "he's, haven't" etc. may clash with usual low-level tokenization of English, see issue #322.
+Let's use an example from another language instead.
 
     1-2   He's      _         _       _       _                                 _   _       _   _
     1     He        he        PRON    PRP     Case=Nom|Number=Sing|Person=3     2   nsubj   _   _
@@ -185,6 +191,29 @@ To facilitate reconstruction of original (pre-tokenization) text, the informatio
     8     UK        UK        PROPN   NNP     Number=Sing                       6   appos   _   SpaceAfter=No
     9     )         )         PUNCT   -RRB-   _                                 8   punct   _   SpaceAfter=No
     10    .         .         PUNCT   .       _                                 6   punct   _   _
+-->
+
+Note that columns 5 to 9 are collapsed in the following example.
+
+    # text Er arbeitet fürs FBI (deutsch etwa: „Bundesamt für Ermittlung“).
+    # text_en He works for the FBI (German approx: “Bundesamt für Ermittlung”).
+    1     Er           er           PRON    …   _
+    2     arbeitet     arbeiten     VERB    …   _
+    3-4   fürs         _            _       …   _
+    3     für          für          ADP     …   _
+    4     das          der          DET     …   _
+    5     FBI          FBI          PROPN   …   _
+    6     (            (            PUNCT   …   SpaceAfter=No
+    7     deutsch      deutsch      ADV     …   _
+    8     etwa         etwa         ADV     …   SpaceAfter=No
+    9     :            :            PUNCT   …   _
+    10    „            „            PUNCT   …   SpaceAfter=No
+    11    Bundesamt    Bundesamt    NOUN    …   _
+    12    für          für          ADP     …   _
+    13    Ermittlung   Ermittlung   NOUN    …   SpaceAfter=No
+    14    “            “            PUNCT   …   SpaceAfter=No
+    15    )            )            PUNCT   …   SpaceAfter=No
+    16    .            .            PUNCT   …
 
 # Sentence Boundaries and Comments
 
