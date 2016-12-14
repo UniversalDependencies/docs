@@ -6,8 +6,9 @@ udver: '2'
 
 ## What is UD?
 
-Universal Dependencies (UD) is a project that aims to provide data resources so that it is easy to get 
-consistent analyses of the grammatical structure of sentences in many human languages.
+Universal Dependencies (UD) is a project aiming to provide data resources so that it is easy to produce
+natural language processing (NLP) tools that give 
+consistent analyses of the grammatical structure of sentences across many human languages.
 
 What does that mean? Suppose you’re a regular programmer but you have to deal with some open-domain
 human language text. Maybe you’re mining product descriptions or maybe you’re developing
