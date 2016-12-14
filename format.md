@@ -213,7 +213,7 @@ Note that columns 5 to 9 are collapsed in the following example.
     13    Ermittlung   Ermittlung   NOUN    …   SpaceAfter=No
     14    “            “            PUNCT   …   SpaceAfter=No
     15    )            )            PUNCT   …   SpaceAfter=No
-    16    .            .            PUNCT   …
+    16    .            .            PUNCT   …   _
 
 # Sentence Boundaries and Comments
 
