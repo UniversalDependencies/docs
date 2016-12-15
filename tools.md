@@ -20,9 +20,12 @@ If you would like to have your tool added to this page, please write the
   * Format conversion
 * [Third-party tools](#third-party-tools)
   * [brat rapid annotation tool](#brat-rapid-annotation-tool)
+  * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
   * [Treex](#treex)
   * [Tred](#tred)
   * [UDPipe](#udpipe)
+  * [UDAPI](#udapi)
+  * [WebAnno](#webanno)
   * [DgAnnotator](#DgAnnotator)
 
 ## UD-maintained tools
