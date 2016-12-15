@@ -27,7 +27,7 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 <table id="control-raising-example1"> <!--Mary wants to buy a book .-->
 <thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 Mary  _ _ _ _ 2 nsubj _ _
 2 wants _ _ _ _ 0 root  _ _
 3 to    _ _ _ _ 4 mark  _ _
@@ -37,7 +37,7 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 7 .     _ _ _ _ 2 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 4 1 nsubj color:blue
 1 Mary  _ _ _ _ 2 nsubj 4:nsubj _
 2 wants _ _ _ _ 0 root  _ _
