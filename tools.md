@@ -168,3 +168,15 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * License: GPL (open source)
 * Homepage: <http://medialab.di.unipi.it/Project/QA/Parser/DgAnnotator/>
 * References: Giuseppe Attardi
+
+### Arborator
+
+
+**Arborator** is a manual dependency annotation tool supporting editing of POS tags and dependency relations in an easy to use drag and drop interface. It has project management features including specialized class-sourcing features, such as mixing in small amounts of gold data for evaluation/grading and assigning tasks to annotators. It supports color schemes for different labels and can read and write conll format dependencies. It now supports conllu input as well. There is also a 'quick mode' that can be used without setting up a project, just be copy-pasting conll data. For a demo, see here: <https://arborator.ilpga.fr/q.cgi>
+
+* Category: manual annotation tool
+* Platform: Any
+* Implementation: Python, JavaScript
+* License: AGPL-3.0 (open source)
+* Homepage: <https://arborator.ilpga.fr/>
+* References: Gerdes, Kim (2013), Collaborative Dependency Annotation. In: Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013). Prague, 88–97. 
