@@ -10,7 +10,6 @@ Example:
 
 ~~~ sdparse
 ⲟⲩ/DET ϣⲏⲣⲉ/NOUN ϣⲏⲙ/NOUN \n a little boy
-
 amod(ϣⲏⲣⲉ, ϣⲏⲙ)
 det(ϣⲏⲣⲉ, ⲟⲩ)
 ~~~
