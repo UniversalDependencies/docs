@@ -80,6 +80,22 @@ perl conllu-stats.pl --detailed --data .. --docs ../docs --lang pt
 * Homepage: <http://brat.nlplab.org/>
 * References: [Stenetorp et al. (2012)](http://anthology.aclweb.org/E/E12/E12-2021.pdf)
 
+### DKPro Core CoNLL-U reader/writer
+
+DKPro Core is collection of software components for natural language processing (NLP) based on the Apache UIMA framework. DKPro Core can be used to build workflows hat automatically process text using a wide range of NLP tools from third parties that are all interoperable (Stanford CoreNLP, Apache OpenNLP, ClearNLP, mate-tools, etc etc.). It also supports a range of different data formats and can be used to convert between the different supported formats.
+
+Starting with version 1.9.0, DKPro Core supports [reading and writing](https://zoidberg.ukp.informatik.tu-darmstadt.de/jenkins/job/DKPro%20Core%20Documentation%20(GitHub)/de.tudarmstadt.ukp.dkpro.core$de.tudarmstadt.ukp.dkpro.core.doc-asl/doclinks/6/#format-ConllU) the CoNLL-U format. 
+
+The latest CoNLL-U 2.0 format is not yet supported.
+
+* Category: UIMA component
+* Platform: Windows, Linux, OS X
+* Implementation: Java
+* License: Apache License 2.0 (open source)
+* Homepage: <https://dkpro.github.io/dkpro-core/>
+* References: [see DKPro Core website](https://dkpro.github.io/dkpro-core/)
+
+
 ### Treex
 
 **Treex** is a modular natural language processing framework. It reads and writes data in many formats (including CoNLL-U) and provides API for dependency tree manipulation. Many treebanks have been harmonized in [HamleDT](http://ufal.mff.cuni.cz/hamledt) and then converted to UD using Treex.
