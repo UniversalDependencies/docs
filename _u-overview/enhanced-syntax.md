@@ -52,7 +52,7 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 
 <table id="control-raising-example2"> <!--She seems to be reading a book .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 She     _ _ _ _ 2 nsubj _ _
 2 seems   _ _ _ _ 0 root  _ _
 3 to      _ _ _ _ 5 mark  _ _
@@ -63,7 +63,7 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 8 .       _ _ _ _ 2 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 1 nsubj color:blue
 1 She     _ _ _ _ 2 nsubj 5:nsubj _
 2 seems   _ _ _ _ 0 root  _ _
@@ -86,7 +86,7 @@ In the _enhanced_ representation, we add special null nodes in clauses in which 
 
 <table id="ellipsis-example1"> <!--I like tea and you E5.1 rum .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 6 orphan color:green
 # visual-style 2 5 conj color:green
 # visual-style 5 4 cc color:green
@@ -99,7 +99,7 @@ In the _enhanced_ representation, we add special null nodes in clauses in which 
 7 .      _ _ _ _ 2 punct  _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 6 7 obj color:blue
 # visual-style 6 5 nsubj color:blue
 # visual-style 2 6 conj color:blue
@@ -118,7 +118,7 @@ In the _enhanced_ representation, we add special null nodes in clauses in which 
 
 <table id="ellipsis-example2"> <!--Mary wants to buy a book and Jenny E8.1 E8.2 a CD .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 8 10 orphan color:green
 # visual-style 2 8 conj color:green
 # visual-style 8 7 cc color:green
@@ -135,7 +135,7 @@ In the _enhanced_ representation, we add special null nodes in clauses in which 
 11 .     _ _ _ _ 2  punct  _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 9 8 nsubj color:blue
 # visual-style 10 12 obj color:blue
 # visual-style 9 10 xcomp color:blue
@@ -172,7 +172,7 @@ When two verbs share their objects (or other complements), the subject and the o
 
 <table> <!--The store buys and sells cameras .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 The     _ _ _ _ 2 det   _ _
 2 store   _ _ _ _ 3 nsubj _ _
 3 buys    _ _ _ _ 0 root  _ _
@@ -182,7 +182,7 @@ When two verbs share their objects (or other complements), the subject and the o
 7 .       _ _ _ _ 3 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 2 nsubj color:blue
 # visual-style 5 6 obj color:blue
 1 The     _ _ _ _ 2 det   _ _
@@ -200,7 +200,7 @@ However, if the complements of the second verb are not shared, only the shared d
 
 <table> <!--She was reading or watching a movie .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 She      _ _ _ _ 3 nsubj _ _
 2 was      _ _ _ _ 3 aux   _ _
 3 reading  _ _ _ _ 0 root  _ _
@@ -211,7 +211,7 @@ However, if the complements of the second verb are not shared, only the shared d
 8 .        _ _ _ _ 3 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 1 nsubj color:blue
 # visual-style 5 2 aux color:blue
 1 She      _ _ _ _ 3 nsubj 5:nsubj _
@@ -230,7 +230,7 @@ Similarly, the enhanced representation can also distinguish private dependents o
 
 <table> <!--She was reading or watching a movie .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 She      _ _ _ _ 3 nsubj _ _
 2 was      _ _ _ _ 3 aux   _ _
 3 watching _ _ _ _ 0 root  _ _
@@ -241,7 +241,7 @@ Similarly, the enhanced representation can also distinguish private dependents o
 8 .        _ _ _ _ 3 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 7 1 nsubj color:blue
 # visual-style 7 2 aux color:blue
 1 She      _ _ _ _ 3 nsubj 7:nsubj _
@@ -262,7 +262,7 @@ When the subject is a conjoined noun phrase, each of the conjuncts is attached t
 
 <table> <!--Paul and Mary are running .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 Paul    _ _ _ _ 5 nsubj _ _
 2 and     _ _ _ _ 3 cc    _ _
 3 Mary    _ _ _ _ 1 conj  _ _
@@ -271,7 +271,7 @@ When the subject is a conjoined noun phrase, each of the conjuncts is attached t
 6 .       _ _ _ _ 5 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 3 nsubj color:blue
 1 Paul    _ _ _ _ 5 nsubj _ _
 2 and     _ _ _ _ 3 cc    _ _
@@ -287,7 +287,7 @@ The same is true for conjoined objects.
 
 <table> <!--Paul bought apples and oranges .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 Paul    _ _ _ _ 2 nsubj _ _
 2 bought  _ _ _ _ 0 root  _ _
 3 apples  _ _ _ _ 2 obj   _ _
@@ -296,7 +296,7 @@ The same is true for conjoined objects.
 6 .       _ _ _ _ 2 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 2 5 obj color:blue
 1 Paul    _ _ _ _ 2 nsubj _ _
 2 bought  _ _ _ _ 0 root  _ _
@@ -312,7 +312,7 @@ This leads to slightly strange dependencies in the case of collective subjects o
 
 <table> <!--Paul and Mary are meeting .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 Paul    _ _ _ _ 5 nsubj _ _
 2 and     _ _ _ _ 3 cc    _ _
 3 Mary    _ _ _ _ 1 conj  _ _
@@ -321,7 +321,7 @@ This leads to slightly strange dependencies in the case of collective subjects o
 6 .       _ _ _ _ 5 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 3 nsubj color:blue
 1 Paul    _ _ _ _ 5 nsubj _ _
 2 and     _ _ _ _ 3 cc    _ _
@@ -335,7 +335,7 @@ This leads to slightly strange dependencies in the case of collective subjects o
 
 <table> <!--Mary is eating mac and cheese .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 Mary   _ _ _ _ 3 nsubj _ _
 2 is     _ _ _ _ 3 aux    _ _
 3 eating _ _ _ _ 0 root  _ _
@@ -345,7 +345,7 @@ This leads to slightly strange dependencies in the case of collective subjects o
 7 .      _ _ _ _ 3 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 3 6 obj color:blue
 1 Mary   _ _ _ _ 3 nsubj _ _
 2 is     _ _ _ _ 3 aux    _ _
@@ -364,7 +364,7 @@ When the subject is attached to a control or raising predicate, there is a depen
 
 <table> <!--Mary and John wanted to buy a hat .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 Mary   _ _ _ _ 4 nsubj _ _
 2 and    _ _ _ _ 3 cc    _ _
 3 John   _ _ _ _ 1 conj  _ _
@@ -376,7 +376,7 @@ When the subject is attached to a control or raising predicate, there is a depen
 9 .      _ _ _ _ 4 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 4 3 nsubj color:blue
 # visual-style 6 1 nsubj color:blue
 # visual-style 6 3 nsubj color:blue
@@ -399,7 +399,7 @@ Each conjunct in a conjoined modifier phrase gets attached to the governor of th
 
 <table> <!--a long and wide river-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 1 a     _ _ _ _ 5 det  _ _
 2 long  _ _ _ _ 5 amod _ _
 3 and   _ _ _ _ 4 cc   _ _
@@ -407,7 +407,7 @@ Each conjunct in a conjoined modifier phrase gets attached to the governor of th
 5 river _ _ _ _ 0 root _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 4 amod color:blue
 1 a     _ _ _ _ 5 det  _ _
 2 long  _ _ _ _ 5 amod _ _
@@ -424,7 +424,7 @@ In _basic_ trees, relative pronouns are attached to the main predicate of the re
 
 <table> <!--the boy who lived-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 4 3 nsubj color:green
 1 the   the   DET _ Definite=Def|PronType=Art 2 det       _ _
 2 boy   boy   NOUN _ Gender=Masc|Number=Sing 0 root      _ _
@@ -432,7 +432,7 @@ In _basic_ trees, relative pronouns are attached to the main predicate of the re
 4 lived lived VERB _ Mood=Ind|Tense=Past|VerbForm=Fin 2 acl:relcl _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 4 2 nsubj color:blue
 # visual-style 2 3 ref color:blue
 1 the   the   DET  _ Definite=Def|PronType=Art 2 det       _ _
@@ -445,7 +445,7 @@ In _basic_ trees, relative pronouns are attached to the main predicate of the re
 
 <table> <!--the book that I read-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 3 obj color:green
 1 the   the  DET  _ Definite=Def|PronType=Art 2 det       _ _
 2 book  book NOUN _ Gender=Neut|Number=Sing 0 root      _ _
@@ -454,7 +454,7 @@ In _basic_ trees, relative pronouns are attached to the main predicate of the re
 5 read  read VERB _ Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 2 obj color:blue
 # visual-style 2 3 ref color:blue
 1 the   the DET _ Definite=Def|PronType=Art 2 det       _ _
@@ -470,7 +470,7 @@ The enhanced relations are semantic rather than syntactic. In case marking langu
 
 <table> <!--dům, v němž žijeme = the house we live in (lit. house, in that we-live)-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 4 obl color:green
 1 dům house NOUN _ Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing 0 root       _ _
 2 , , PUNCT _ _ 5 punct      _ _
@@ -479,7 +479,7 @@ The enhanced relations are semantic rather than syntactic. In case marking langu
 5 žijeme live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 1 obl color:blue
 # visual-style 1 4 ref color:blue
 1 dům house NOUN _ Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing  0 root 5:obl _
@@ -496,7 +496,7 @@ It may be embedded deeper as in the following example.
 
 <table> <!--muž, v jehož domě žijeme = the man whose house we live in (lit. man, in whose house we-live)-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 4 det color:green
 1 muž man NOUN _ Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing 0 root       _ _
 2 , , PUNCT _ _ 6 punct      _ _
@@ -506,7 +506,7 @@ It may be embedded deeper as in the following example.
 6 žijeme live VERB _ Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act 1 acl:relcl _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 5 1 nmod color:blue
 # visual-style 1 4 ref color:blue
 1 muž man NOUN _ Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing 0 root 5:nmod _
@@ -525,7 +525,7 @@ Adding prepositions (or case information) to the relation name of non-core depen
 
 <table> <!--the house on the hill-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 2 5 nmod color:green
 1 the   _ _ _ _ 2 det  _ _
 2 house _ _ _ _ 0 root _ _
@@ -534,7 +534,7 @@ Adding prepositions (or case information) to the relation name of non-core depen
 5 hill  _ _ _ _ 2 nmod _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 2 5 nmod:on color:blue
 1 the   _ _ _ _ 2 det     _ _
 2 house _ _ _ _ 0 root    _ _
@@ -547,7 +547,7 @@ Adding prepositions (or case information) to the relation name of non-core depen
 
 <table> <!--He went to a diner after leaving work .-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 2 5 obl color:green
 # visual-style 2 7 advcl color:green
 1  He      _ _ _ _ 2 det   _ _
@@ -561,7 +561,7 @@ Adding prepositions (or case information) to the relation name of non-core depen
 9  .       _ _ _ _ 2 punct _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 2 5 obl:to color:blue
 # visual-style 2 7 advcl:after color:blue
 1  He      _ _ _ _ 2 det         _ _
@@ -579,7 +579,7 @@ Adding prepositions (or case information) to the relation name of non-core depen
 
 <table> <!--die Zerstörung der Stadt \n the destruction the.GEN city.GEN-->
 <tbody><tr><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 2 4 nmod color:green
 # text = the destruction of the city
 1  die        the         DET  _ Case=Gen 2 det  _ _
@@ -588,7 +588,7 @@ Adding prepositions (or case information) to the relation name of non-core depen
 4  Stadt      city        NOUN _ Case=Gen 2 nmod _ _
 </div>
 </td><td width="600">
-<div class="conllu-parse" tabs="no">
+<div class="conllu-parse">
 # visual-style 2 4 nmod:gen color:blue
 # text = the destruction of the city
 1  die        the         DET  _ Case=Gen 2 det      _ _
