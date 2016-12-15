@@ -171,7 +171,7 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 
 ### Arborator
 
-
+<img style="float:right" src="http://universaldependencies.org/img/arborator.PNG"/>
 **Arborator** is a manual dependency annotation tool supporting editing of POS tags and dependency relations in an easy to use drag and drop interface. It has project management features including specialized class-sourcing features, such as mixing in small amounts of gold data for evaluation/grading and assigning tasks to annotators. It supports color schemes for different labels and can read and write conll format dependencies. It now supports conllu input as well. There is also a 'quick mode' that can be used without setting up a project, just be copy-pasting conll data. For a demo, see here: <https://arborator.ilpga.fr/q.cgi>
 
 * Category: manual annotation tool
