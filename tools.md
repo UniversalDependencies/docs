@@ -123,6 +123,21 @@ perl conllu-stats.pl --detailed --data .. --docs ../docs --lang pt
 * License: GPL, Perl
 * Homepage: <http://udapi.github.io/>
 
+### WebAnno
+
+WebAnno is a general purpose web-based annotation tool  for a wide range of linguistic annotations including various layers of morphological, syntactical, and semantic annotations. Additionaly, custom annotation layers can be defined, allowing WebAnno to be used also for non-linguistic annotation tasks. WebAnno targets annotation teams in which all annotators work independently from each other. The tool includes facilities for curating/merging the annotations from multiple annotators, calculating inter-annotator agreement, and project management. Additional features include a correction and automation mode as well as decent support for right-to-left languages.
+
+Since version 3.0.0, WebAnno supports importing and exporting data in the CoNLL-U format. If the data contains sub-token annotations, then the text is obtained from the subtokens and the surface text is added as annotations. To control which column dependencies end up in, the `flavor` feature of the built-in dependency layer needs to be used. If the feature is set to `enchanced`, then it goes to the enhanced dependencies column, otherwise to the basic dependencies column. It is currently up to the annotator to ensure that the dependency trees are well-formed and representable in CoNLL-U, otherwise export to CoNLL-U may fail.
+
+WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
+
+* Category: manual annotation tool
+* Platform: client: any (browser-based), server: Java
+* Implementation: Java (server), JavaScript (client)
+* License: Apache License 2.0 (open source)
+* Homepage: <https://webanno.github.io/webanno/>
+* References: [see WebAnno website](https://webanno.github.io/webanno/)
+
 ### DgAnnotator
 
 <img style="float:right" src="http://universaldependencies.org/img/dga.png"/>
