@@ -11,6 +11,7 @@ Marks appositions in all free apposition constructions, as well as the special c
 
 appos(ⲉⲓϣⲧ, ⲇⲓⲁⲃⲟⲗⲟⲥ)
 det(ⲇⲓⲁⲃⲟⲗⲟⲥ, ⲡ)
+det(ⲉⲓϣⲧ, ⲡⲉⲕ)
 ~~~
 
 ~~~ sdparse
