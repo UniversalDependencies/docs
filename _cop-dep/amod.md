@@ -12,6 +12,7 @@ Example:
 ⲟⲩ/DET ϣⲏⲣⲉ/NOUN ϣⲏⲙ/NOUN \n a little boy
 
 amod(ϣⲏⲣⲉ, ϣⲏⲙ)
+det(ϣⲏⲣⲉ, ⲟⲩ)
 ~~~
 
 Note that such adjectives are still tagged with the POS tag N, following the Scriptorium POS tagging guidelines.
