@@ -265,3 +265,21 @@ advmod(hat-9,nur)
 parataxis(hat-2,hat-9)
 ~~~
 
+## Test for #363
+
+~~~ conllu
+# visual-style 6 7 obj color:red
+# visual-style 5.1 5 nsubj color:red
+# visual-style 2 5.1 conj color:red
+# visual-style 5 6 remnant color:blue
+# visual-style 2 5 conj color:blue
+1   I    _ _ _ _ 2 nsubj   _  _
+2   like _ _ _ _ 0 root    _  _
+3   tea  _ _ _ _ 2 obj     _  _
+4   and  _ _ _ _ 5 cc      _  _
+5   you  _ _ _ _ 2 conj    5.1:nsubj  _
+5.1 E5.1 _ _ _ _ _ _       2:conj _
+6   rum  _ _ _ _ 5 remnant 5.1:obj _
+7   .    _ _ _ _ 2 punct   _  _
+~~~
+
