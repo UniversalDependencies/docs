@@ -55,7 +55,10 @@ depending on language, other parts of speech ([pronouns](u-pos/PRON),
 [adjectives](u-pos/ADJ), [determiners](u-pos/DET), [numerals](u-pos/NUM),
 [verbs](u-pos/VERB)) that mark agreement with nouns. In some tagsets
 it is also valency feature of [adpositions](u-pos/ADP) (saying that
-the adposition requires its argument to be in that case).
+the adposition requires its argument to be in that case). Annotating
+preposition valency case in UD treebanks would be superfluous because the
+same case feature can be found at the nominal to which the preposition
+belongs.
 
 Case helps specify the role of the noun phrase in the sentence,
 especially in free-word-order languages. For example, the nominative
