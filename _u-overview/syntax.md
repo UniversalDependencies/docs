@@ -25,22 +25,24 @@ obj(buy, apple)
 
 In addition to the basic dependency representation, which is obligatory in all UD treebanks, it is possible to give an _enhanced_ dependency representation, which adds (and in a few cases changes) relations in order to give a more complete
 basis for semantic interpretation. The enhanced representation is in general 
-not a tree but a general graph structure, as shown below.
+not a tree but a general graph structure, as shown below (enhanced dependencies in blue).
 
-~~~sdparse
-ROOT she wanted to buy and eat an apple
-nsubj(wanted, she)
-nsubj(buy, she)
-nsubj(eat, she)
-root(ROOT, wanted)
-mark(buy, to)
-xcomp(wanted, buy)
-cc(eat, and)
-conj(buy, eat)
-det(apple, and)
-obj(eat, apple)
-obj(buy, apple)
+~~~ conllu
+# visual-style 5 2 nsubj color:blue
+# visual-style 7 2 nsubj color:blue
+# visual-style 3 7 xcomp color:blue
+# visual-style 7 9 obj color:blue
+1	ROOT	_	_	_	_	0	rppt	_	_
+2	she	_	_	_	_	3	nsubj	5:nsubj|7:nsubj	_
+3	wanted	_	_	_	_	1	root	_	_
+4	to	_	_	_	_	5	mark	_	_
+5	buy	_	_	_	_	3	xcomp	_	_
+6	and	_	_	_	_	7	cc	_	_
+7	eat	_	_	_	_	5	conj	3:xcomp	_
+8	an	_	_	_	_	9	det	_	_
+9	apple	_	_	_	_	5	obj	7:obj	_
 ~~~
+
 
 In the rest of this document, we discuss the fundamental principles of our dependency annotation, focusing on aspects that are common to both the basic and the enhanced representation. For more information about basic and enhanced dependencies, we refer to the detailed annotation guidelines:
 
