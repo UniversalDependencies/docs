@@ -31,7 +31,7 @@ not a tree but a general graph structure, as shown below (enhanced dependencies 
 # visual-style 5 2 nsubj color:blue
 # visual-style 7 2 nsubj color:blue
 # visual-style 3 7 xcomp color:blue
-# visual-style 7 5 mark color:blue
+# visual-style 7 4 mark color:blue
 # visual-style 7 9 obj color:blue
 1	ROOT	_	_	_	_	0	root	_	_
 2	she	_	_	_	_	3	nsubj	5:nsubj|7:nsubj	_
