@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-23T07:14:02Z">2016-12-23T07:14:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-23T09:55:14Z">2016-12-23T09:55:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -590,11 +590,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:53:04Z">2016-12-06T12:53:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:50:33Z">2016-12-23T09:50:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
 
 [Line                   4]: Unknown UD DEPREL: name
 [Line                   5]: Unknown UD DEPREL: name
@@ -643,7 +643,7 @@ Syntax errors: 7392
 
 ******************
 
-python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 
 [Line                   5]: Unknown UD DEPREL: name
 [Line                   7]: Unknown UD DEPREL: name
@@ -1020,11 +1020,11 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:58:45Z">2016-12-06T12:58:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:50:55Z">2016-12-23T09:50:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 [Line                   4]: Unknown attribute-value pair Negative=Pos
 [Line                   6]: Unknown attribute-value pair Negative=Pos
@@ -1073,7 +1073,7 @@ Syntax errors: 12911
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
 [Line                   4]: Unknown attribute-value pair Negative=Pos
 [Line                   6]: Unknown attribute-value pair Negative=Pos
@@ -1122,7 +1122,7 @@ Syntax errors: 10049
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 [Line                   3]: Unknown attribute-value pair Negative=Pos
 [Line                   5]: Unknown attribute-value pair Negative=Pos
@@ -1171,7 +1171,7 @@ Syntax errors: 59106
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
 [Line                   3]: Unknown attribute-value pair Negative=Pos
 [Line                   4]: Unknown attribute-value pair Negative=Pos
@@ -1220,7 +1220,7 @@ Syntax errors: 14178
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
 [Line                   4]: Unknown attribute-value pair Negative=Pos
 [Line                   5]: Unknown UPOS tag: CONJ
@@ -1276,11 +1276,11 @@ Syntax errors: 10059
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:01:43Z">2016-12-06T13:01:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:52:14Z">2016-12-23T09:52:14 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
 [Line                   3]: Unknown attribute-value pair Negative=Pos
 [Line                   4]: Unknown attribute-value pair Negative=Pos
@@ -1329,7 +1329,7 @@ Syntax errors: 782
 
 ******************
 
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
 [Line                   3]: Unknown attribute-value pair Negative=Pos
 [Line                   4]: Unknown attribute-value pair Negative=Pos
@@ -1385,11 +1385,11 @@ Syntax errors: 34898
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:02:34Z">2016-12-06T13:02:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:52:43Z">2016-12-23T09:52:43 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
 [Line                   6]: Unknown attribute-value pair Negative=Pos
 [Line                   7]: Unknown attribute-value pair Negative=Neg
@@ -1438,7 +1438,7 @@ Syntax errors: 451
 
 ******************
 
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
 [Line                   3]: Unknown attribute-value pair Negative=Pos
 [Line                   8]: Unknown attribute-value pair Negative=Pos
@@ -2199,11 +2199,11 @@ Syntax errors: 5480
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:08:15Z">2016-12-06T13:08:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:52:45Z">2016-12-23T09:52:45 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-dev.conllu
 
 [Line                   19]: Unknown attribute-value pair Negative=Neg
 [Line                   19]: Unknown UD DEPREL: neg
@@ -2252,7 +2252,7 @@ Syntax errors: 1586
 
 ******************
 
-python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
 [Line                   18]: Unknown UPOS tag: CONJ
 [Line                   49]: Unknown attribute-value pair Negative=Neg
@@ -3542,11 +3542,11 @@ Syntax errors: 24718
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:19:16Z">2016-12-06T13:19:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:52:55Z">2016-12-23T09:52:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: dobj
 [Line                   9]: Unknown UD DEPREL: dobj
@@ -3595,7 +3595,7 @@ Syntax errors: 396
 
 ******************
 
-python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
 
 [Line                   4]: Unknown UPOS tag: CONJ
 [Line                   14]: Unknown UD DEPREL: dobj
@@ -4112,11 +4112,11 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:22:59Z">2016-12-06T13:22:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:52:57Z">2016-12-23T09:52:57 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 
 [Line                   39]: Unknown UD DEPREL: dobj
 [Line                   54]: Unknown UD DEPREL: dobj
@@ -4165,7 +4165,7 @@ Syntax errors: 43
 
 ******************
 
-python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
 
 [Line                   32]: Unknown UD DEPREL: dobj
 [Line                   44]: Unknown UPOS tag: CONJ
@@ -4221,24 +4221,34 @@ Syntax errors: 308
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T07:13:59Z">2016-12-23T07:13:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:52:58Z">2016-12-23T09:52:58 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ko UD-dev-branches/UD_Korean/sejong_tuning.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ko /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Korean/sejong_tuning.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/deprel.ko could not be found. Dependency relations will not be checked.
-Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.ko
- Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
-
-
-[Tree number 0 on line 0]: The language-specific file data/feat_val.ko could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.ko It's okay if the file is empty, but it must exist.
- 
-
-
+[Line                   8]: Unknown UD DEPREL: dobj
+[Line                   32]: Unknown UD DEPREL: dobj
+[Line                   42]: Unknown UD DEPREL: nummmod
+[Line                   54]: Unknown UD DEPREL: nummmod
+[Line                   62]: Unknown UD DEPREL: dobj
+[Line                   84]: Unknown UD DEPREL: dobj
+[Line                   90]: Unknown UD DEPREL: dobj
+[Line                   133]: Unknown UD DEPREL: neg
+[Line                   135]: Unknown UD DEPREL: dobj
+[Line                   139]: Unknown UD DEPREL: dobj
+[Line                   166]: Unknown UD DEPREL: dobj
+[Line                   172]: Unknown UD DEPREL: dobj
+[Line                   180]: Unknown UD DEPREL: nummmod
 [Line                   195]: Unknown UPOS tag: CONJ
 [Line                   207]: Unknown UPOS tag: CONJ
+[Line                   231]: Unknown UD DEPREL: neg
+[Line                   239]: Unknown UD DEPREL: dobj
+[Line                   241]: Unknown UD DEPREL: neg
+[Line                   255]: Unknown UD DEPREL: dobj
+[Line                   286]: Unknown UD DEPREL: dobj
+[Line                   307]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
 [Line                   356]: Unknown UPOS tag: CONJ
 [Line                   424]: Unknown UPOS tag: CONJ
 [Line                   687]: Unknown UPOS tag: CONJ
@@ -4259,13 +4269,10 @@ Please add the language-specific pairs using python conllu-stats.py --catvals=la
 ...suppressing further errors regarding Morpho
 [Line                   12809]: Empty value in column FORM
 [Line                   12809]: Empty value in column LEMMA
-[Tree number 840 on line 22673]: Multiple root words: [16, 15]
-[Tree number 1755 on line 44182]: Multiple root words: [9, 10]
-*** FAILED *** with 1010 errors
+*** FAILED *** with 7582 errors
 Format errors: 2
-Language specific data missing errors: 2
 Morpho errors: 1004
-Syntax errors: 2
+Syntax errors: 6576
 
 
 ******************
@@ -4397,11 +4404,11 @@ Syntax errors: 4790
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:25:09Z">2016-12-06T13:25:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:53:00Z">2016-12-23T09:53:00 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
 
 [Line                   11]: Unknown UD DEPREL: dobj
 [Line                   13]: Unknown UD DEPREL: nsubjpass
@@ -4450,7 +4457,7 @@ Syntax errors: 864
 
 ******************
 
-python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
 
 [Line                   3]: Unknown UPOS tag: CONJ
 [Line                   5]: Unknown UD DEPREL: dobj
@@ -4506,11 +4513,11 @@ Syntax errors: 27058
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:26:29Z">2016-12-06T13:26:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:53:15Z">2016-12-23T09:53:15 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
 
 [Line                   1]: Unknown UD DEPREL: dobj
 [Line                   10]: Unknown UD DEPREL: nsubjpass
@@ -4559,7 +4566,7 @@ Syntax errors: 2348
 
 ******************
 
-python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
 
 [Line                   1]: Unknown UD DEPREL: nsubjpass
 [Line                   9]: Unknown UD DEPREL: dobj
@@ -5083,11 +5090,11 @@ Syntax errors: 7762
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:30:09Z">2016-12-06T13:30:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:53:24Z">2016-12-23T09:53:24 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
 
 [Line                   14]: Unknown UD DEPREL: name
 [Line                   15]: Unknown UD DEPREL: name
@@ -5136,7 +5143,7 @@ Syntax errors: 576
 
 ******************
 
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
 [Line                   11]: Unknown UPOS tag: CONJ
 [Line                   47]: Unknown UD DEPREL: dobj
@@ -5301,7 +5308,7 @@ Syntax errors: 19805
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-15T11:02:24Z">2016-12-15T11:02:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:53:34Z">2016-12-23T09:53:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5519,11 +5526,11 @@ Syntax errors: 15725
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:34:01Z">2016-12-06T13:34:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:53:44Z">2016-12-23T09:53:44 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 [Line                   10]: Unknown UPOS tag: CONJ
 [Line                   16]: Unknown UD DEPREL: dobj
@@ -5572,7 +5579,7 @@ Syntax errors: 645
 
 ******************
 
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 [Line                   7]: Unknown UPOS tag: CONJ
 [Line                   13]: Unknown UD DEPREL: dobj
@@ -5628,11 +5635,11 @@ Syntax errors: 4620
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-09T12:50:25Z">2016-12-09T12:50:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:53:48Z">2016-12-23T09:53:48 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
 [Line                   8]: Unknown UD DEPREL: name
 [Line                   16]: Unknown UD DEPREL: dobj
@@ -5681,7 +5688,7 @@ Syntax errors: 6533
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
 
 [Line                   9]: Unknown UD DEPREL: name
 [Line                   25]: Unknown UPOS tag: CONJ
@@ -5834,11 +5841,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:38:37Z">2016-12-06T13:38:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:54:34Z">2016-12-23T09:54:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
 [Line                   4]: Unknown attribute-value pair Negative=Neg
 [Line                   5]: Unknown UD DEPREL: dobj
@@ -5887,7 +5894,7 @@ Syntax errors: 931
 
 ******************
 
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
 [Line                   7]: Unknown attribute-value pair Negative=Pos
 [Line                   13]: Unknown UD DEPREL: dobj
@@ -6052,11 +6059,11 @@ Syntax errors: 7175
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:39:55Z">2016-12-06T13:39:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:54:40Z">2016-12-23T09:54:40 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
 [Line                   3]: Unknown UPOS tag: CONJ
 [Line                   11]: Unknown UPOS tag: CONJ
@@ -6105,7 +6112,7 @@ Syntax errors: 216
 
 ******************
 
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
 [Line                   9]: Unknown attribute-value pair Negative=Pos
 [Line                   19]: Unknown UPOS tag: CONJ
@@ -6292,11 +6299,11 @@ Syntax errors: 25267
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:43:17Z">2016-12-06T13:43:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:54:41Z">2016-12-23T09:54:41 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
 
 [Line                   23]: Unknown UD DEPREL: mwe
 [Line                   24]: Unknown UD DEPREL: mwe
@@ -6345,7 +6352,7 @@ Syntax errors: 6164
 
 ******************
 
-python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
 
 [Line                   13]: Unknown UD DEPREL: dobj
 [Line                   15]: Unknown UD DEPREL: dobj
@@ -6401,11 +6408,11 @@ Syntax errors: 52483
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:44:14Z">2016-12-06T13:44:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:55:05Z">2016-12-23T09:55:05 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: nsubjpass
 [Line                   13]: Unknown UD DEPREL: nmod:agent
@@ -6454,7 +6461,7 @@ Syntax errors: 972
 
 ******************
 
-python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 
 [Line                   10]: Unknown UD DEPREL: nsubjpass
 [Line                   51]: Unknown UPOS tag: CONJ
@@ -6510,11 +6517,11 @@ Syntax errors: 5737
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:44:47Z">2016-12-06T13:44:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:55:09Z">2016-12-23T09:55:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: neg
 [Line                   9]: Unknown UD DEPREL: dobj
@@ -6563,7 +6570,7 @@ Syntax errors: 608
 
 ******************
 
-python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
 
 [Line                   2]: Unknown UD DEPREL: dobj
 [Line                   10]: Unknown UD DEPREL: mwe
@@ -6619,11 +6626,11 @@ Syntax errors: 5308
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:45:18Z">2016-12-06T13:45:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:55:11Z">2016-12-23T09:55:11 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: dobj
 [Line                   18]: Unknown UD DEPREL: dobj
@@ -6635,7 +6642,7 @@ Syntax errors: 4
 
 ******************
 
-python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
 
 [Line                   15]: Unknown UD DEPREL: dobj
 [Line                   68]: Unknown UD DEPREL: dobj
@@ -6770,11 +6777,11 @@ Syntax errors: 394
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:46:06Z">2016-12-06T13:46:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:55:11Z">2016-12-23T09:55:11 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
 
 [Line                   2]: Unknown UD DEPREL: dobj
 [Line                   3]: Unknown attribute-value pair Negative=Pos
@@ -6823,7 +6830,7 @@ Syntax errors: 741
 
 ******************
 
-python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 
 [Line                   2]: Unknown attribute-value pair Negative=Pos
 [Line                   5]: Unknown UPOS tag: CONJ
@@ -6971,11 +6978,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:47:14Z">2016-12-06T13:47:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:55:14Z">2016-12-23T09:55:14 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
 [Line                   11]: Unknown UD DEPREL: dobj
 [Line                   49]: Unknown UPOS tag: CONJ
@@ -7024,7 +7031,7 @@ Syntax errors: 76
 
 ******************
 
-python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
 
 [Line                   8]: Unknown UD DEPREL: dobj
 [Line                   14]: Unknown UD DEPREL: dobj
