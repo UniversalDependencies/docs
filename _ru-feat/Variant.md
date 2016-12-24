@@ -15,11 +15,7 @@ For the long standard forms the `Variant` feature remains unspecified.
 
 The short form is called _nominal form of adjective (краткая форма прилагательных),_
 as opposed to the long form, which is _pronominal_ because it originated as
-a combination of a nominal form and a personal pronoun. But this is ancient history of the
-language. In modern Czech, only a subset of the nominal forms survive, and using them sometimes sounds
-slightly archaic. They are used as nominal predicates with copula, but they do not appear as premodifiers of nouns.
-The pronominal forms are considered standard, except for two frequent adjectives that
-do not have them: _<b>třeba</b>, <b>rád</b>._
+a combination of a nominal form and a personal pronoun._
 
 #### Examples
 
