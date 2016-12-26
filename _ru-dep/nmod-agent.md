@@ -4,5 +4,11 @@ title: 'nmod:agent'
 shortdef: 'nmod:agent'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nmod:agent`.
+
+The relation `nmod:agent` is used for agents of passive verbs
+
+~~~ sdparse
+Решение было принято моим отцом \n Decision was made by my father 
+nmod:agent(принято, отцом)
+nmod:agent(принято, father)
+~~~
