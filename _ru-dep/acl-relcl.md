@@ -10,7 +10,7 @@ head of the relative clause.
 
 ~~~ sdparse
 Я увидела мужчину , который любит тебя \n I saw the man who loves you
-acl:relcl(мужчина, любит)
+acl:relcl(мужчину, любит)
 acl:relcl(man, loves)
 nsubj(любит, который)
 nsubj(loves, who)
