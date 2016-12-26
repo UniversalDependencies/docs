@@ -9,7 +9,7 @@ that appears at the beginning bracketing a conjunction (and puts
 emphasis on it), such as *either*, *both*, *neither*, *and*, *but*).
 
 ~~~ sdparse
-Но никто не знал ответ . / But no-one knew the answer .
+Но никто не знал ответ . \n But no-one knew the answer .
 cc:preconj(никто, Но)
 cc:preconj(no-one, But)
 ~~~
