@@ -14,18 +14,8 @@ det(человек, Тот)
 det(man, The)
 ~~~
 
-
 ~~~ sdparse
-Это моя ошибка . \n This-is my mistake .
-det(ошибка, моя)
-det(mistake, my)
+Он такой человек . \n He is this-kind-of-man .
+det(человек, такой)
+det(man, this-kind-of)
 ~~~
-
-~~~ sdparse
-Какая книга тебе нравится больше всего ? \n Which book to-you is-nice most of-all ?
-det(книга, Какая)
-det(book, Which)
-~~~
-
-NB: The relation of the pronominal quantifiers сколько, столько to their head is a subtype of the `det` relation:
-either [ru-dep/det:numgov]() or [ru-dep/det:nummod]().
