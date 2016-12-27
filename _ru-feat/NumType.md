@@ -10,25 +10,15 @@ in multi-word foreign names, [adjectives](ru-pos/ADJ) may also have this feature
 (they preserve the `ADJ` tag but at the same time they would not exist in Russian
 otherwise than in the named entity).
 
-### Conversion from the Prague Dependency Treebank
-
-Lemmas in PDT contain features
-that also encode types of named entities. When converting the PDT annotation
-to UD, these lemma features are removed and the feature
-`NameType` is added to the universal features to preserve the type.
-
 The following table lists the name types together with the most frequent examples.
-See <a href="http://ufal.mff.cuni.cz/techrep/tr27.pdf">http://ufal.mff.cuni.cz/techrep/tr27.pdf</a>,
-page 8, section 2.1 (Lemma structure) for more details.
 
 <table>
-<tr><td><tt>_;Y</tt></td><td>given name</td><td><em>Jan, Jiří, Václav, Petr, Josef</em></td><td>“Jan, Jiří, Václav, Petr, Josef”</td></tr>
-<tr><td><tt>_;S</tt></td><td>surname</td><td><em>Klaus, Havel, Němec, Jelcin, Svoboda</em></td><td>“Klaus, Havel, Němec, Yeltsin, Svoboda”</td></tr>
-<tr><td><tt>_;E</tt></td><td>member of a particular nation, inhabitant of a particular territory</td><td><em>Němec, Čech, Srb, Američan, Slovák</em></td><td>“German, Czech, Serbian, American, Slovak”</td></tr>
-<tr><td><tt>_;G</tt></td><td>geographical name</td><td><em>Praha, ČR, Evropa, Německo, Brno</em></td><td>“Prague, CR, Europe, Germany, Brno”</td></tr>
-<tr><td><tt>_;K</tt></td><td>company, organization, institution</td><td><em>ODS, OSN, Sparta, ODA, Slavia</em></td><td>“ODS, UN, Sparta, ODA, Slavia”</td></tr>
-<tr><td><tt>_;R</tt></td><td>product</td><td><em>LN, Mercedes, Tatra, PC, MF</em></td><td>“LN, Mercedes, Tatra, PC, MF”</td></tr>
-<tr><td><tt>_;m</tt></td><td>other proper name: names of mines, stadiums, guerilla bases etc.</td><td><em>US, PVP, Prix, Rapaport, Tour</em></td><td>“US, PVP, Prix, Rapaport, Tour”</td></tr>
+<tr><td><tt>_;Y</tt></td><td>given name</td><td><em>Александр, Игорь, Петр</em></td><td>“Александр, Игорь, Петр”</td></tr>
+<tr><td><tt>_;S</tt></td><td>surname</td><td><em>Иванов, Петров, Кожевников</em></td><td>“Иванов, Петров, Кожевников”</td></tr>
+<tr><td><tt>_;G</tt></td><td>geographical name</td><td><em>Москва, Россия, Азия</em></td><td>“Москва, Россия, Азия”</td></tr>
+<tr><td><tt>_;K</tt></td><td>company, organization, institution</td><td><em>Афиша, Просвещение, МТС</em></td><td>“Афиша, Просвещение, МТС”</td></tr>
+<tr><td><tt>_;R</tt></td><td>product</td><td><em>Мерседес, Тайд</em></td><td>“Мерседес, Тайд”</td></tr>
+<tr><td><tt>_;m</tt></td><td>other proper name: names of mines, stadiums, guerilla bases etc.</td><td><em>Лужники, Крокус Сити Холл</em></td><td>“Лужники, Крокус Сити Холл”</td></tr>
 </table>
 
 ### `Geo`: geographical name
@@ -37,7 +27,7 @@ Names of cities, countries, rivers, mountains etc.
 
 #### Examples
 
-* _<b>Praha</b>&nbsp;_ “Prague”, _<b>Kostelec</b> nad Černými lesy, <b>Německo</b>&nbsp;_ “Germany”
+* _<b>Москва</b>&nbsp;_ “Moscow”, <b>Россия</b>&nbsp;_ “Russia”
 
 ### `Prs`: name of person
 
@@ -49,7 +39,7 @@ Given name (not family name). This is usually the first name in European and Ame
 
 #### Examples
 
-* _<b>Jan</b>, <b>Jiří</b>, <b>Václav</b>_
+* _<b>Александр</b>, <b>Дмитрий</b>_
 
 ### `Sur`: surname / family name of person
 
@@ -57,19 +47,7 @@ Family name (surname). This is usually the last name in European and American na
 
 #### Examples
 
-* _<b>Klaus</b>, <b>Havel</b>, <b>Němec</b>_
-
-### `Nat`: nationality
-
-Name denoting a member of a particular nation, or inhabitant of a particular territory.
-This does not include derived adjectives,
-nor nouns denoting languages (both groups are written in lowercase).
-Thus _<b>Čech</b>&nbsp;_ “Czech [man]” belongs here
-but _český&nbsp;_ “Czech” and _čeština&nbsp;_ “Czech [language]” do not.
-
-#### Examples
-
-* _<b>Čech</b>&nbsp;_ “Czech”, _<b>Němec</b>&nbsp;_ “German”, _<b>Pražan</b>&nbsp;_ “Praguer”
+* _<b>Иванов</b>, <b>Сидоров</b>_
 
 ### `Com`: company, organization
 
