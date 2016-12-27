@@ -15,7 +15,7 @@ det(man, The)
 ~~~
 
 ~~~ sdparse
-Он такой человек . \n He is this-kind-of-man .
+Он такой человек . \n He is this-kind-of man .
 det(человек, такой)
 det(man, this-kind-of)
 ~~~
