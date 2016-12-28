@@ -40,11 +40,6 @@
     "lang_name": "Buryat"
   }, 
   {
-    "lang_code": "yue", 
-    "contributors": [], 
-    "lang_name": "Cantonese"
-  }, 
-  {
     "lang_code": "ca", 
     "contributors": [], 
     "lang_name": "Catalan"
@@ -53,11 +48,6 @@
     "lang_code": "zh", 
     "contributors": [], 
     "lang_name": "Chinese"
-  }, 
-  {
-    "lang_code": "zh_hk", 
-    "contributors": [], 
-    "lang_name": "Chinese-HK"
   }, 
   {
     "lang_code": "cop", 
@@ -240,19 +230,9 @@
     "lang_name": "Latvian"
   }, 
   {
-    "lang_code": "mr", 
+    "lang_code": "no", 
     "contributors": [], 
-    "lang_name": "Marathi"
-  }, 
-  {
-    "lang_code": "no_bokmaal", 
-    "contributors": [], 
-    "lang_name": "Norwegian-Bokmaal"
-  }, 
-  {
-    "lang_code": "no_nynorsk", 
-    "contributors": [], 
-    "lang_name": "Norwegian-Nynorsk"
+    "lang_name": "Norwegian"
   }, 
   {
     "lang_code": "cu", 
