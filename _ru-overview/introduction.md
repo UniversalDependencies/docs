@@ -9,9 +9,6 @@ permalink: ru/overview/introduction.html
 
 The Russian UD treebank is based on the [RUS_Treebank](http://corpus-i.compling.net/res01/rtb.php) (RTB)
 The treebank consists of 1357119 sentences
-The treebank is licensed under the terms of [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-and its original (non-UD) version can be downloaded from
-[http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3](http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3).
 
 The morphological and syntactic annotation of the Russian UD treebank is created through a conversion of RTB data.
 The conversion procedure has been designed by the Higher School of Economics team, governed by Olga Lyashevskaya.
@@ -38,10 +35,5 @@ This table summarizes the origins and checking of the various columns of the CoN
 We wish to thank all of the contributors to the original RTB annotation effort, including
 Daniel Zeman, Olga Lyashevskaya, Kira Droganova, Svatlana Toldova, Andrey Kutuzov, Maria Alexeeva, Tatiana Gavrilova, Nina Mustafina, and Elena Shakurova.
 
-## References
-
-* Eduard Bejček, Eva Hajičová, Jan Hajič, Pavlína Jínová, Václava Kettnerová, Veronika Kolářová,
-  Marie Mikulová, Jiří Mírovský, Anna Nedoluzhko, Jarmila Panevová, Lucie Poláková, Magda Ševčíková,
-  Jan Štěpánek, and Šárka Zikánová. 2013.
   
 
