@@ -7,7 +7,7 @@ udver: '2'
 
 # Syntax: General Principles
 
-Syntactic annotation in the UD scheme consists of typed dependency relations between words. The _basic_ dependency representation forms a tree, where exactly one word is dependent on a notional ROOT and all other words are dependent 
+Syntactic annotation in the UD scheme consists of typed dependency relations between words. The _basic_ dependency representation forms a tree, where exactly one word is the head of the sentence, dependent on a notional ROOT and all other words are dependent 
 on another word in the sentence, as exemplified below (where we explicitly represent the root dependency which will 
 otherwise be left implicit).
 
@@ -23,7 +23,7 @@ det(apple, an)
 obj(buy, apple)
 ~~~
 
-In addition to the basic dependency representation, which is obligatory in all UD treebanks, it is possible to give an _enhanced_ dependency representation, which adds (and in a few cases changes) relations in order to give a more complete
+In addition to the basic dependency representation, which is obligatory for all UD treebanks, it is possible to give an _enhanced_ dependency representation, which adds (and in a few cases changes) relations in order to give a more complete
 basis for semantic interpretation. The enhanced representation is in general 
 not a tree but a general graph structure, as shown below (enhanced dependencies in blue).
 
@@ -190,8 +190,8 @@ Nevertheless, there are four important exceptions to the rule that function word
 
 ### Multiword Function Words
 
-The word forms that make up a fixed multiword expression are connected into a head-initial structure
-using the special dependency relation [u-dep/fixed]() (see below). When the multiword expression is a functional element,
+The word forms that make up a fixed function-word multiword expression (MWE) are connected
+using the special dependency relation [u-dep/fixed]() (see below). By convention, the first word is always taken as the head, so when the multiword expression is a functional element,
 the initial word form will then superficially look like a function word with dependents.
 
 <div id="s6" class="sd-parse">
@@ -207,7 +207,7 @@ Deciding whether an expression in a language should be treated as a fixed multiw
 ### Coordinated Function Words
 
 Head coordination is a syntactic process that can apply to almost any word category, including
-function words like conjunctions and prepositions. 
+function words like conjunctions and prepositions. In such cases, the standard analysis of coordination is used and function words have dependents.
 
 <div id="s4a" class="sd-parse">
 She drove to and from work .
@@ -249,7 +249,7 @@ advmod(when, just)
 
 Negation can modify any function word, but other types of modifiers are disallowed for function words that express
 properties of the head word often expressed morphologically in other languages. This class, which we refer to as
-_pure function words_, includes auxiliary verbs, case markers (adposition), and articles, but needs to be defined
+_pure function words_, includes auxiliary verbs, case markers (adpositions), and articles, but needs to be defined
 explicitly for each language. When pure function words appear with modifiers other than negation, we take the modifier
 to apply to the entire phrase and therefore attach it to the head word of the function word, as illustrated in
 the following example.
@@ -270,8 +270,8 @@ right then
 advmod(then, right)
 </div>
 
-Making sure that pure function words do not have dependents of their own facilitates the
-comparison with languages where the corresponding properties are expressed morphologically as well as the conversion
+Making sure that pure function words do not have dependents of their own facilitates
+comparison with languages where the corresponding properties are expressed morphologically as well as conversion
 to the enhanced representation where this difference is neutralized.
 
 To sum up, our treatment of function word modifiers can be expressed in three principles:
@@ -288,7 +288,7 @@ in that language.
 When the natural head of a function word is elided, the function word will be "promoted"
 to the function normally assumed by the content word head. This type of analysis should 
 in general be preferred over an analysis using the [u-dep/orphan]() relation, because it disrupts
-the structure less. The remnant analysis should be used only when there is no function word 
+the structure less. The orphan analysis of ellipsis should only be used when there is no function word 
 that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
 and subordinating conjunctions.
 
@@ -321,8 +321,14 @@ dependency relations between content words.
 ### Core Arguments vs. Oblique Modifiers
 
 The UD taxonomy is centered around the fairly clear distinction between core arguments (subjects, objects, clausal complements) versus other dependents.
-It does not make a distinction between adjuncts and oblique arguments.
-This latter distinction is taken to be sufficiently subtle, unclear, and argued over
+It does not make a distinction between adjuncts (general modifiers) versus oblique arguments (arguments said to be selected by a head but not expressed as a core argument).
+The rest of this section expands on the linguistic basis of these choices, and may be skipped.
+
+#### The definition of core arguments
+
+#### Avoiding an argument/adjunct distinction 
+
+The argument/adjunct distinction is taken to be sufficiently subtle, unclear, and argued over
 that it is eliminated (echoing the viewpoint of the original Penn Treebank annotators).
 
 ### A Mixed Functional-Structural System
@@ -385,7 +391,7 @@ Note that the UD taxonomy does not attempt to differentiate finite from nonfinit
 
 We treat coordinate structures asymmetrically:
 The head of the relation is the first conjunct and all the other conjuncts depend on it via the [u-dep/conj]() relation.
-Coordinating conjunctions and punctuation delimiting the conjuncts are attached using the [u-dep/cc]() and [u-dep/punct]() relations respectively.
+Coordinating conjunctions and punctuation delimiting the conjuncts are attached using the [u-dep/cc]() and [u-dep/punct]() relations respectively to the immediately **following** conjunct.
 
 ~~~ sdparse
 He came home , took a shower and immediately went to bed .
@@ -401,9 +407,9 @@ Multiword expressions (MWEs) are combinations of words that (in some respect and
 as lexical units rather than compositional syntactic phrases. The UD taxonomy contains three special relations 
 for analyzing MWEs: 
 
-* [u-dep/fixed]() are used to analyze fixed grammaticized MWEs like _in spite of_ (see above)
-* [u-dep/flat]() are used to analyze exocentric semi-fixed MWEs like _Barack Obama_
-* [u-dep/compound]() are used to analyze (endocentric) compounds like _noun phrase_
+* [u-dep/fixed]() is used to analyze fixed grammaticized function-word MWEs like _in spite of_ (see above)
+* [u-dep/flat]() is used to analyze exocentric semi-fixed MWEs like _Barack Obama_ with no clear head
+* [u-dep/compound]() is used to analyze (headed or endocentric) compounds like _noun phrase_, with head _phrase_
 
 Structures analyzed with [u-dep/fixed]() and [u-dep/flat]() are headless by definition and are consistently
 annotated by attaching all non-first elements to the first and only allowing outgoing dependents from the first element.
