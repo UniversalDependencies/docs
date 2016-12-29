@@ -1,6 +1,12 @@
 #Where's the UD data?
-export UD_DATA=$HOME/git_checkout/universaldependencies
-export UD_TOOLS=$HOME/git_checkout/universaldependencies-tools
+#export UD_DATA=$HOME/git_checkout/universaldependencies
+#export UD_TOOLS=$HOME/git_checkout/universaldependencies-tools
+
+export UD_DATA=$HOME/UD_PROJHOOK/UD-dev-branches
+export UD_TOOLS=$HOME/UD_PROJHOOK/tools
+
+
+#export UD_DATA=$HOME/UD
 
 #export UD_DATA=$HOME/UD
 #export UD_TOOLS=$HOME/UD/tools

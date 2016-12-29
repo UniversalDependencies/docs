@@ -31,8 +31,8 @@ amod(card, student's)
 
 ~~~ sdparse
 его карта \n his card
-det(карта, его)
-det(card, his)
+amod(карта, его)
+amod(card, his)
 ~~~
 
 `nmod` is also used for temporal nominal modifiers:

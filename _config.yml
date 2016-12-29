@@ -863,6 +863,20 @@ collections:
   sk-overview:
     output: true
 #
+# Marathi
+#
+  mr-pos:
+    output: true
+    permalink: /mr/pos/:path.html
+  mr-feat:
+    output: true
+    permalink: /mr/feat/:path.html
+  mr-dep:
+    output: true
+    permalink: /mr/dep/:path.html
+  mr-overview:
+    output: true
+#
 # Template
 #
   template-pos:

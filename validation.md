@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2016-12-23T13:47:02Z">2016-12-23T13:47:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2016-12-28T12:05:56Z">2016-12-28T12:05:56 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -587,6 +587,17 @@ No data
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD Cantonese</span>
+<span class="widespan">yue</span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-28T12:04:19Z">2016-12-28T12:04:19 zulu</time></span>
+</div>
+<div>
+<pre>
+No data
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationfail">FAIL</span>
@@ -802,6 +813,17 @@ Syntax errors: 7372
 ******************
 
 
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
+<span class="widespan">zh hk</span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-28T12:04:15Z">2016-12-28T12:04:15 zulu</time></span>
+</div>
+<div>
+<pre>
+No data
 </pre>
 </div>
 <div>
@@ -4728,6 +4750,17 @@ Syntax errors: 1019
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
+<span class="widespan">mr</span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-28T12:05:56Z">2016-12-28T12:05:56 zulu</time></span>
+</div>
+<div>
+<pre>
+No data
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian</span>
 <span class="widespan">no</span>
 <span class="validationpass">PASS</span>
@@ -4752,6 +4785,182 @@ python tools/validate.py --lang no UD-dev-branches/UD_Norwegian/no-ud-test.conll
 python tools/validate.py --lang no UD-dev-branches/UD_Norwegian/no-ud-train.conllu
 
 *** PASSED ***
+
+
+******************
+
+
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
+<span class="widespan">no bokmaal</span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-28T12:03:46Z">2016-12-28T12:03:46 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
+
+[Line                   4]: Unknown UD DEPREL: flat:name
+[Line                   67]: Unknown UD DEPREL: flat:name
+[Line                   108]: Unknown UD DEPREL: flat:name
+[Line                   296]: Unknown UD DEPREL: nsubj:pass
+[Line                   331]: Unknown UD DEPREL: nsubj:pass
+[Line                   353]: Unknown UD DEPREL: nsubj:pass
+[Line                   404]: Unknown UD DEPREL: nsubj:pass
+[Line                   464]: Unknown UD DEPREL: nsubj:pass
+[Line                   588]: Unknown UD DEPREL: flat:name
+[Line                   589]: Unknown UD DEPREL: flat:name
+[Line                   665]: Unknown UD DEPREL: flat:name
+[Line                   728]: Unknown UD DEPREL: nsubj:pass
+[Line                   849]: Unknown UD DEPREL: nsubj:pass
+[Line                   968]: Unknown UD DEPREL: flat:name
+[Line                   995]: Unknown UD DEPREL: nsubj:pass
+[Line                   1000]: Unknown UD DEPREL: aux:pass
+[Line                   1130]: Unknown UD DEPREL: flat:name
+[Line                   1140]: Unknown UD DEPREL: nsubj:pass
+[Line                   1271]: Unknown UD DEPREL: flat:name
+...suppressing further errors regarding Syntax
+*** FAILED *** with 988 errors
+Syntax errors: 988
+
+
+******************
+
+python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
+
+[Line                   29]: Unknown UD DEPREL: flat:name
+[Line                   30]: Unknown UD DEPREL: flat:name
+[Line                   31]: Unknown UD DEPREL: flat:name
+[Line                   40]: Unknown UD DEPREL: flat:name
+[Line                   41]: Unknown UD DEPREL: flat:name
+[Line                   42]: Unknown UD DEPREL: flat:name
+[Line                   43]: Unknown UD DEPREL: flat:name
+[Line                   44]: Unknown UD DEPREL: flat:name
+[Line                   69]: Unknown UD DEPREL: flat:name
+[Line                   70]: Unknown UD DEPREL: flat:name
+[Line                   72]: Unknown UD DEPREL: flat:name
+[Line                   73]: Unknown UD DEPREL: flat:name
+[Line                   74]: Unknown UD DEPREL: flat:name
+[Line                   108]: Unknown UD DEPREL: flat:name
+[Line                   110]: Unknown UD DEPREL: flat:name
+[Line                   111]: Unknown UD DEPREL: flat:name
+[Line                   112]: Unknown UD DEPREL: flat:name
+[Line                   113]: Unknown UD DEPREL: flat:name
+[Line                   145]: Unknown UD DEPREL: flat:name
+...suppressing further errors regarding Syntax
+*** FAILED *** with 6834 errors
+Syntax errors: 6834
+
+
+******************
+
+
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
+<span class="widespan">no nynorsk</span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-28T12:05:38Z">2016-12-28T12:05:38 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conllu
+
+[Line                   3]: Unknown UD DEPREL: name
+[Line                   13]: Unknown UD DEPREL: dobj
+[Line                   32]: Unknown UPOS tag: CONJ
+[Line                   45]: Unknown UPOS tag: CONJ
+[Line                   64]: Unknown UD DEPREL: name
+[Line                   70]: Unknown UD DEPREL: dobj
+[Line                   71]: Unknown UPOS tag: CONJ
+[Line                   76]: Unknown UD DEPREL: neg
+[Line                   91]: Unknown UD DEPREL: dobj
+[Line                   102]: Unknown UD DEPREL: dobj
+[Line                   103]: Unknown UD DEPREL: name
+[Line                   131]: Unknown UPOS tag: CONJ
+[Line                   133]: Unknown UPOS tag: CONJ
+[Line                   165]: Unknown UD DEPREL: dobj
+[Line                   166]: Unknown UPOS tag: CONJ
+[Line                   200]: Unknown UD DEPREL: dobj
+[Line                   214]: Unknown UD DEPREL: neg
+[Line                   222]: Unknown UPOS tag: CONJ
+[Line                   229]: Unknown UPOS tag: CONJ
+[Line                   247]: Unknown UD DEPREL: dobj
+[Line                   263]: Unknown UD DEPREL: dobj
+[Line                   271]: Unknown UD DEPREL: dobj
+[Line                   281]: Unknown UD DEPREL: nsubjpass
+[Line                   288]: Unknown UPOS tag: CONJ
+[Line                   297]: Unknown UPOS tag: CONJ
+[Line                   312]: Unknown UD DEPREL: dobj
+[Line                   315]: Unknown UD DEPREL: nsubjpass
+[Line                   336]: Unknown UD DEPREL: nsubjpass
+[Line                   341]: Unknown UPOS tag: CONJ
+[Line                   355]: Unknown UPOS tag: CONJ
+[Line                   369]: Unknown UD DEPREL: dobj
+[Line                   380]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Syntax
+[Line                   402]: Unknown UPOS tag: CONJ
+[Line                   407]: Unknown UPOS tag: CONJ
+[Line                   430]: Unknown UPOS tag: CONJ
+[Line                   491]: Unknown UPOS tag: CONJ
+[Line                   635]: Unknown UPOS tag: CONJ
+[Line                   693]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 4236 errors
+Morpho errors: 1307
+Syntax errors: 2929
+
+
+******************
+
+python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conllu
+
+[Line                   2]: Unknown UPOS tag: CONJ
+[Line                   10]: Unknown UPOS tag: CONJ
+[Line                   21]: Unknown UPOS tag: CONJ
+[Line                   26]: Unknown UD DEPREL: name
+[Line                   27]: Unknown UD DEPREL: name
+[Line                   28]: Unknown UD DEPREL: name
+[Line                   35]: Unknown UD DEPREL: dobj
+[Line                   36]: Unknown UD DEPREL: name
+[Line                   37]: Unknown UD DEPREL: name
+[Line                   38]: Unknown UD DEPREL: name
+[Line                   39]: Unknown UD DEPREL: name
+[Line                   40]: Unknown UD DEPREL: name
+[Line                   55]: Unknown UPOS tag: CONJ
+[Line                   64]: Unknown UD DEPREL: name
+[Line                   65]: Unknown UD DEPREL: name
+[Line                   67]: Unknown UD DEPREL: name
+[Line                   68]: Unknown UD DEPREL: name
+[Line                   69]: Unknown UD DEPREL: name
+[Line                   88]: Unknown UPOS tag: CONJ
+[Line                   93]: Unknown UPOS tag: CONJ
+[Line                   101]: Unknown UD DEPREL: name
+[Line                   103]: Unknown UD DEPREL: name
+[Line                   104]: Unknown UD DEPREL: name
+[Line                   105]: Unknown UD DEPREL: name
+[Line                   106]: Unknown UD DEPREL: name
+[Line                   127]: Unknown UPOS tag: CONJ
+[Line                   131]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Syntax
+[Line                   148]: Unknown UPOS tag: CONJ
+[Line                   156]: Unknown UPOS tag: CONJ
+[Line                   159]: Unknown UPOS tag: CONJ
+[Line                   190]: Unknown UPOS tag: CONJ
+[Line                   205]: Unknown UPOS tag: CONJ
+[Line                   211]: Unknown UPOS tag: CONJ
+[Line                   230]: Unknown UPOS tag: CONJ
+[Line                   255]: Unknown UPOS tag: CONJ
+[Line                   267]: Unknown UPOS tag: CONJ
+[Line                   301]: Unknown UPOS tag: CONJ
+[Line                   326]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 28689 errors
+Morpho errors: 8474
+Syntax errors: 20215
 
 
 ******************
@@ -4872,7 +5081,7 @@ Syntax errors: 4690
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:28:28Z">2016-12-06T13:28:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-27T23:18:43Z">2016-12-27T23:18:43 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5308,7 +5517,7 @@ Syntax errors: 19805
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T13:46:52Z">2016-12-23T13:46:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2016-12-26T16:08:28Z">2016-12-26T16:08:28 zulu</time></span>
 </div>
 <div>
 <pre>

@@ -6,5 +6,9 @@ permalink: ru/overview/syntax.html
 
 # Syntax
 
-This document is a placeholder for the language-specific overview of
-guidelines for syntactic annotation.
+The tree structure and dependency relation labels in the Russian data have been obtained
+by an automatic transformation of the RTB trees,
+
+Several language-specific subtypes
+of the universal dependency relations have been defined
+to preserve the information encoded in the original treebank.
