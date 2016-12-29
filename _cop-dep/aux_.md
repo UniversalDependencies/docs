@@ -10,7 +10,7 @@ redirect_from: "cop/dep/aux.html"
 The relation between a lexical verb and a conjugation base marks the base as aux to the verb, as shown below. This applies to all tripartite conjugation bases, but NOT to converters, which receive the 'mark' label.
 
 ~~~ sdparse
-ⲁ/AUX ⲩ/PRON ⲥⲟⲧⲡ/VERB ⲥ/PRON
+ⲁ/AUX ⲩ/PRON ⲥⲟⲧⲡ/VERB ⲥ/PRON \n They chose her (or: she was chosen)
 nsubj(ⲥⲟⲧⲡ, ⲩ)
 aux(ⲥⲟⲧⲡ, ⲁ) 
 dobj(ⲥⲟⲧⲡ, ⲥ)
