@@ -30,3 +30,13 @@ case(ϩⲉ, ⲛ)
 ~~~
 
 Also note that in nominal sentences, the subject is `nsubj` to the predicate, not to the copula. This is also true when the subject follows the copula, as shown below.
+
+~~~ sdparse
+ⲛⲧⲟⲕ/PRON ⲡⲉ/AUX ⲧⲉⲩ/DET ϩⲉⲗⲡⲓⲥ/NOUN \n Their hope is you (lit. 'it's you, their hope')
+
+cop(ⲛⲧⲟⲕ, ⲡⲉ)
+nsubj(ⲛⲧⲟⲕ, ϩⲉⲗⲡⲓⲥ)
+det(ϩⲉⲗⲡⲓⲥ, ⲧⲉⲩ)
+~~~
+
+
