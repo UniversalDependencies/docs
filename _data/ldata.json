@@ -968,22 +968,6 @@
     "lang_name": "Marathi"
   }, 
   {
-    "lang_code": "no", 
-    "contributors": [
-      {
-        "full": "Lilja \u00d8vrelid", 
-        "last": "\u00d8vrelid", 
-        "first": "Lilja"
-      }, 
-      {
-        "full": "Fredrik J\u00f8rgensen", 
-        "last": "J\u00f8rgensen", 
-        "first": "Fredrik"
-      }
-    ], 
-    "lang_name": "Norwegian"
-  }, 
-  {
     "lang_code": "no_bokmaal", 
     "contributors": [
       {
