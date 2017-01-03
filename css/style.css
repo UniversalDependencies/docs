@@ -150,6 +150,7 @@ h2.nomargin {
 
 h3 {
   margin-top: 1.5em;
+  clear: both;
 }
 
 .infolabel {
