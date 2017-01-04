@@ -18,4 +18,4 @@ dobj(ⲁⲛⲉⲭⲉ, ⲕ)
 case(ⲕ, ⲙⲙⲟ)
 ~~~
 
-Note that this is just like a nominal subject (nsubj): what would be fitting? To tolerate you. To tolerate you is fitting.
+Note that this is just like a nominal subject (`nsubj`): what would be fitting? To tolerate you. To tolerate you is fitting.
