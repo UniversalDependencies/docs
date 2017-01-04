@@ -2,6 +2,7 @@
 layout: postag
 title: 'PRON'
 shortdef: 'pronoun'
+udver: '2'
 ---
 
 Traditional grammars of Slavic languages do not distinguish pronouns from pro-adjectives (determiners, [sla-pos/DET]()),
@@ -225,7 +226,7 @@ When it acts as subject, it is regarded as neuter singular for the purpose of su
 Trenér sázel mnohem více na herní stránku než na kondici . \n Coach bet much more on game aspect than on physical-condition .
 advmod(více, mnohem)
 advmod(sázel, více)
-dobj(sázel, stránku)
+obj(sázel, stránku)
 nmod(více, kondici)
 ~~~
 
@@ -235,7 +236,7 @@ As indefinite numeral, it is its own lemma (but there are only two occurrences i
 
 ~~~ sdparse
 Bude vybráno více zájemců . \n Will-be selected more applicants .
-nsubjpass(vybráno, zájemců)
+nsubj:pass(vybráno, zájemců)
 det:numgov(zájemců, více)
 ~~~
 
@@ -289,12 +290,12 @@ Partitive usage:
 ~~~ sdparse
 Imeli več časa za priprave \n They-had more time for preparations
 det(časa, več)
-dobj(Imeli, časa)
+obj(Imeli, časa)
 ~~~
 
 ~~~ sdparse
 ki so terjali življenja več kot sto civilistov \n that have lost lives more than hundred civilians
-mwe(več, kot)
+fixed(več, kot)
 det(civilistov, več)
 nummod(civilistov, sto)
 ~~~
