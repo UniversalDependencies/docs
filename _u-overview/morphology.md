@@ -65,6 +65,31 @@ Similarly, in both the following examples, _precede_ will be tagged as verb:
 * _Such discussion must precede every decision._
 * _He pronounced ‘precede’ in a funny way._
 
+### Pronominal words
+
+Pronominal words are [pronouns](/u/pos/PRON.html), [determiners](/u/pos/DET.html) (articles and pronominal adjectives),
+pronominal [adverbs](/u/pos/ADV.html) _(where, when, how)_, and in traditional grammars of some languages also pronominal [numerals](/u/pos/NUM.html) _(how much)_.
+
+* In most cases it is straightforward to determine whether a word is pronominal (see also the [PronType](/u/feat/PronType.html) feature)
+  but the borderline between indefinite determiners and adjectives is slightly fuzzy. Related languages should synchronize the lists of words
+  they treat as pronominal. The rest of these guidelines demarcate borders within the pronominal group.
+* Pronominal adverbs are tagged `ADV`. Their pronominality is encoded using the `PronType` feature. Their typical syntactic function is to modify verbs.
+* Articles _(the, a, an)_ are always tagged `DET`; their `PronType` is `Art`.
+* Pronominal numerals (quantifiers) are tagged `DET`; besides `PronType`, they also use the [NumType](/u/feat/NumType.html) feature.
+* Words that behave similar to adjectives are `DET`.
+  (We understand the `DET` class as pro-adjectives, which is a slightly broader sense than what is usually regarded as determiners in English.
+  In particular, it is possible that one nominal is modified by more than one determiner.) Similar behavior means:
+  * They are more likely to be used attributively (modifying a noun phrase) than substantively (replacing a noun phrase). They may occur alone, though.
+    If they do, it is either because of ellipsis, or because the hypothetical modified noun is something unspecified and general, as in _All [visitors] must pay._
+  * Their inflection is similar to that of adjectives, and distinct from nouns. They agree with the nouns they modify.
+    Especially the ability to inflect for gender is typical for adjectives and determiners.
+    (Gender of nouns is determined lexically and determiners may be required by the grammar to agree with their nouns in gender; therefore they need to inflect for gender.)
+* Non-possessive personal, reflexive or reciprocal pronouns are always tagged `PRON`.
+* Possessives vary across languages. In some languages the above tests put them in the `DET` category.
+  In others, they are more like a normal personal pronoun in a specific case (often the genitive), or a personal pronoun with an adposition; they are tagged `PRON`.
+* When the above rules do not help, the category should be based on what the traditional grammar of the language says.
+* Ideally, language-specific documentation should list pronominal words and their category. These are all closed classes so it should not be difficult.
+
 ### See also
 
 The guidelines for the following special cases are documented on the referenced pages
