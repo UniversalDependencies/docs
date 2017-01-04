@@ -32,7 +32,7 @@ _cardinal numerals_ in the narrow sense _(one, five, hundred)_ are not
 tagged `DET` even though some authors would include them in
 quantifiers. Cardinal numbers have their own tag [NUM]().
 
-Also note that the notion of determiners is unknown in grammars of
+Also note that the notion of determiners is unknown in traditional grammar of
 some languages (e.g. Czech); words equivalent to English determiners
 may be traditionally classified as [pronouns](PRON) and/or
 [numerals](NUM) in these languages. In order to annotate the same
