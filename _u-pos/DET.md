@@ -51,7 +51,7 @@ See also [general principles on pronominal words](../overview/morphology.html#pr
 for more tips on how to define determiners.
 In particular:
 
-* Articles _(the, a, an)_ are always tagged `DET`; their `PronType` is `Art`.
+* Articles _(the, a, an)_ are always tagged `DET`; their [PronType](/u/feat/PronType.html) is `Art`.
 * Pronominal numerals (quantifiers) are tagged `DET`; besides `PronType`, they also use the [NumType](/u/feat/NumType.html) feature.
 * Words that behave similar to adjectives are `DET`. Similar behavior means:
   * They are more likely to be used attributively (modifying a noun phrase) than substantively (replacing a noun phrase). They may occur alone, though.
