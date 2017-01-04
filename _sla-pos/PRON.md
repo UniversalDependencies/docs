@@ -188,7 +188,7 @@ It remains to be determined how the cognate words in the other Slavic languages 
 * [sk] lemma _všetok,_ most frequent forms _všetko, všetci,_ other forms _všetkých, všetkým, všetky, všetkými, všetkého, všetkému, všetku_
 * [hsb] _wšě, wšěch, wšěm, wšykne?, wšeho, wšemu, wšitke, wšitkim, wšitkich_ (DET; only _wšitkim_ was used without a modified noun), _wšitko_ (PRON)
 * [pl] lemma _wszystko, wszyscy_ (PRON); lemma _wszystek_ (DET), forms _wszystkie, wszystkich, wszyscy, wsze_ (but the pronoun-determiner distinction is probably caused by the conversion procedure)
-* [sl] _ves, vsa, vse, vsi, vsa_
+* [sl] _ves, vsa, vse, vsi_
 
 ## Pronominal quantifiers
 
