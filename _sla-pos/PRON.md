@@ -175,7 +175,7 @@ this contrasts with the total number of singual neuter occurrences, 600.
 
 The evidence here is similar to demonstratives, which in general behave like adjectives, but some neuter singular forms are used
 to represent general or unspecified entities, hence they are closer to pronouns. The solution should be same for demonstratives and
-for _all,_ chosing one of the following options:
+for the equivalents of _all,_ chosing one of the following options:
 
 1. Tag all occurrences `DET PronType=Tot`. The lemma is always masculine singular nominative.
 2. As 1., with the exception that selected neuter singular forms are ambiguous and may also appear as `PRON PronType=Tot`.
