@@ -29,11 +29,10 @@ včera._ and `DET` in _<b>Tohle</b> auto jsem viděl včera._
 
 - personal pronouns: _I, you, he, she, it, we, they_
 - reflexive pronouns: _myself, yourself, himself, herself, itself, ourselves, yourselves, theirselves_
-- demonstrative pronouns: _this_ as in _I saw <b>this</b> yesterday._
 - interrogative pronouns: _who, what_ as in _<b>What</b> do you think?_
-- relative pronouns: _who, what_ as in _I wonder <b>what</b> you think._ (Note, however, that some relative clause introducing words, such as [en] _that_ are better analyzed as subordinating conjunctions (otherwise known as "complementizers" in the literature), and so are tagged as [SCONJ]().)
+- relative pronouns: _who, what_ as in _I wonder <b>what</b> you think._ (Note, however, that some relative clause introducing words, such as [en] _that_ are better analyzed as subordinating conjunctions (otherwise known as “complementizers” in the literature), and so are tagged as [SCONJ]().)
 - indefinite pronouns: _somebody, something, anybody, anything_
-- totality pronouns: _everybody, everything_
+- total pronouns: _everybody, everything_
 - negative pronouns: _nobody, nothing_
 
 ### References
