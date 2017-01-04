@@ -151,7 +151,7 @@ hence it is pronoun and not determiner.
 
 ## All, everything
 
-The total pronouns with the root _vs/vš_ are another problematic group, with some parallels to the demonstratives.
+The total pronouns with the root _vs/vš/sv_ are another problematic group, with some parallels to the demonstratives.
 
 In Czech, _všechen_ can be used adjectively and has forms for different genders and numbers but usually only a subset of the forms is
 used, and quite often they are used without a modified noun:
@@ -189,6 +189,7 @@ It remains to be determined how the cognate words in the other Slavic languages 
 * [hsb] _wšě, wšěch, wšěm, wšykne?, wšeho, wšemu, wšitke, wšitkim, wšitkich_ (DET; only _wšitkim_ was used without a modified noun), _wšitko_ (PRON)
 * [pl] lemma _wszystko, wszyscy_ (PRON); lemma _wszystek_ (DET), forms _wszystkie, wszystkich, wszyscy, wsze_ (but the pronoun-determiner distinction is probably caused by the conversion procedure)
 * [sl] _ves, vsa, vse, vsi_
+* [hr] _sve, svatko, svaki, svaka, svako_
 
 ## Pronominal quantifiers
 
