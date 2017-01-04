@@ -17,13 +17,21 @@ substitute for [adjectives](ADJ). Such words are not tagged `PRON`
 under our universal scheme. They are tagged as [determiners](DET) in
 order to annotate the same thing the same way across languages.
 
-For instance, [en] _this_ is either pronoun _(I saw <b>this</b>
-yesterday.)_ or determiner _(I saw <b>this</b> car yesterday.)_ Its
-Czech translation, [cs] _tohle_, is traditionally called pronoun in
-Czech grammar, regardless of context (the notion of determiners does
-not exist in Czech grammar). To make the annotation parallel across
-languages, it should be now tagged `PRON` in _<b>Tohle</b> jsem viděl
-včera._ and `DET` in _<b>Tohle</b> auto jsem viděl včera._
+It is not always crystal clear where pronouns end and determiners start.
+Unlike in UD v1 it is no longer required that they are told apart solely on
+the base of the context. The words can be pre-classified in the dictionary
+as either `PRON` or `DET`, based on their _typical_ syntactic distribution
+(and morphology, when applicable).
+Language-specific documentation should list all pronouns (it is a closed class)
+and point out ambiguities, if any.
+
+See also [general principles on pronominal words](../overview/morphology.html#pronominal-words)
+for more tips on how to define pronouns.
+In particular:
+
+* Non-possessive personal, reflexive or reciprocal pronouns are always tagged `PRON`.
+* Possessives vary across languages. In some languages the above tests put them in the `DET` category.
+  In others, they are more like a normal personal pronoun in a specific case (often the genitive), or a personal pronoun with an adposition; they are tagged `PRON`.
 
 ### Examples
 
