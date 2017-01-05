@@ -281,15 +281,6 @@ det(let, mnogo)
 ~~~
 
 ~~~ sdparse
-Slovenija potrebuje več urejenih informacij na internetu \n Slovenia needs more orderly informations on internet
-advmod(urejenih, več)
-amod(informacij, urejenih)
-~~~
-
-The above sentence seems ambiguous. _Več_ is annotated as an adverb modifying the adjective _urejenih,_ but it could
-also be a quantifier for the whole phrase _urejenih informacij._
-
-~~~ sdparse
 Domovanja so raztresena na več kilometrih \n Dwellings are scattered on more kilometers
 det(kilometrih, več)
 case(kilometrih, na)
@@ -304,15 +295,6 @@ det(časa, več)
 obj(Imeli, časa)
 ~~~
 
-~~~ sdparse
-ki so terjali življenja več kot sto civilistov \n that have lost lives more than hundred civilians
-fixed(več, kot)
-det(civilistov, več)
-nummod(civilistov, sto)
-~~~
-
-The above annotation is taken from UD Slovenian 1.3 but I think that _več kot_ should be attached to _sto_ and the
-relation should be [sla-dep/advmod]().
 
 ## References
 
