@@ -18,7 +18,7 @@ det(ⲉⲛⲧⲏϭ, ⲟⲩ)
 ⲉ/SCONJ ⲕ/PRON ⲧⲣⲩⲫⲁ/VERB \n While you live luxuriously 
 
 mark(ⲧⲣⲩⲫⲁ, ⲉ)
-nsubj(ⲧⲣⲩⲫⲁ, ⲉⲕ)
+nsubj(ⲧⲣⲩⲫⲁ, ⲕ)
 ~~~
 
 ~~~ sdparse
