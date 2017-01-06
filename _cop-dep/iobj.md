@@ -7,7 +7,7 @@ shortdef: 'indirect object'
 Only used to mark the possessor in the possessive existential construction:
 
 ~~~ sdparse
-ⲟⲩⲛⲧⲁ/VERB ⲩ/PRON ⲓⲏⲥⲟⲩⲥ/PROPN n\ They have Jesus
+ⲟⲩⲛⲧⲁ/VERB ⲩ/PRON ⲓⲏⲥⲟⲩⲥ/PROPN \n They have Jesus
 
 iobj(ⲟⲩⲛⲧⲁ, ⲩ)
 nsubj(ⲟⲩⲛⲧⲁ, ⲓⲏⲥⲟⲩⲥ)
