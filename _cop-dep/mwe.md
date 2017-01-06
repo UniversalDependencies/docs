@@ -7,7 +7,7 @@ shortdef: 'multi-word expression'
 Multi-word expressions are sequences of tokens which form a fixed expression, for which internal grammatical relations are not represented. For Coptic, this often corresponds to multi-token complex prepositions, often with a frozen adverbial modifier such as ⲉⲃⲟⲗ ‘out’. For example in the following example, the complex sequence ⲉⲃⲟⲗ ϩⲛ ‘out of’, has individual tokens which literally mean ‘out in’. 
 
 ~~~ sdparse 
-ⲁ/AUX ⲩ/PRON ⲛⲧ/VERB ⲟⲩ/PRON ⲉⲃⲟⲗ/ADV ϩⲙ/ADP ⲡⲉⲕ/DET ⲏⲓ/NOUN /n they took them out of your house
+ⲁ/AUX ⲩ/PRON ⲛⲧ/VERB ⲟⲩ/PRON ⲉⲃⲟⲗ/ADV ϩⲙ/ADP ⲡⲉⲕ/DET ⲏⲓ/NOUN \n they took them out of your house
 
 aux(ⲛⲧ, ⲁ)
 nsubj(ⲛⲧ, ⲩ)
