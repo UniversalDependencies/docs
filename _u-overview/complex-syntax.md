@@ -172,14 +172,15 @@ ccomp(says, like)
 ~~~
 
 Such clausal complements may be finite or nonfinite. However, if the
-subject of the clausal complement is controlled (that is, must be the same
-as the higher subject or object, with no other possible interpretation)
+subject of the clausal complement is controlled (that is, _must_ be the same
+as the higher subject or object, with no other possible interpretation),
 the appropriate relation is [xcomp]().
 
 ~~~ sdparse
 The boss said to start digging
 ccomp(said, start)
 mark(start, to)
+xcomp(start, digging)
 ~~~
 
 ~~~ sdparse
@@ -187,12 +188,26 @@ We started digging
 xcomp(started, digging)
 ~~~
 
-The key difference here is that, while it is possible to interpret the first
-sentence to mean that the boss will not be doing any digging, in the second
-sentence it is clear that the subject of __digging__ can only be __we__. This is
-what distinguishes `ccomp` and `xcomp`.
+The key difference here is that, in the first sentence, who will be starting to do the digging is a question of anaphora (it may be some contextually relevant individual or group, which may or may not include the boss), while in both sentences, the person or persons who are starting to do something are necessarily the same people who are digging (i.e., in the second sentence, the subject of __digging__ can only be __we__).
+This is what distinguishes `ccomp` and `xcomp`.
 
-Additionally, `ccomp` is used with copulas in equational constructions involving full clauses.
+The controlled subject of the [xcomp]() can also be an [obj]() – indeed, it is usually the [obj]() when one is present (Visser's generalization). UD adopts an object with infinitive (or "raising to object") analysis of such constructions (rather than the "small clause" or "exceptional case marking" analyses that are prominent in many recent strands of generative grammar). So UD uses analyses like the following for cases where there is obligatory control between an object and the subject of a subordinate clause:
+
+~~~ sdparse
+Sue persuaded Fred to accept the job.
+obj(persuaded, Fred)
+mark(accept, to)
+xcomp(persuaded, accept)
+~~~
+
+~~~ sdparse
+Please let us know
+discourse(let, Please)
+obj(let, us)
+xcomp(let, know)
+~~~
+
+Finally, `ccomp` is used with copulas in equational constructions involving full clauses.
 
 ~~~ sdparse
 The important thing is to keep calm.
