@@ -43,7 +43,7 @@ If the possessor is indicated in the EXIST construction, the possessed is still 
 ~~~ sdparse
 ⲟⲩⲛⲧⲁ/VERB ⲩ/PRON ⲓⲏⲥⲟⲩⲥ/PROPN \n they have Jesus (literally: “exists to them Jesus”)
 
-iobj(ⲟⲩⲛⲧⲁ, ⲩ))
+iobj(ⲟⲩⲛⲧⲁ, ⲩ)
 nsubj(ⲟⲩⲛⲧⲁ, ⲓⲏⲥⲟⲩⲥ)
 ~~~
 
