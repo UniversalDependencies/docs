@@ -10,9 +10,9 @@ A nominal modifier. This is the label given to prepositional objects and other t
 ⲡ/DET ⲣⲏ/NOUN ϩⲛ/ADP ⲧ/DET ⲡⲉNOUN  \n the sun in the sky
 
 det(ⲣⲏ, ⲡ)
-nmod(ⲣⲏ, ⲡⲉ)
-case(ⲡⲉ, ϩⲛ)
-det(ⲡⲉ, ⲧ)
+nmod(ⲣⲏ, ⲡⲉ-5)
+case(ⲡⲉ-5, ϩⲛ)
+det(ⲡⲉ-5, ⲧ)
 ~~~
 
 Note also that prepositional arguments of verbs are also marked as `nmod`, including prepositional objects of verbs of perception:
