@@ -15,7 +15,7 @@ acl(ⲉⲡⲓⲥⲧⲟⲗⲏ, ⲡⲁϩ-7)
 mark(ⲡⲁϩ-7, ⲉⲛⲧ)
 aux(ⲡⲁϩ-7, ⲁ)
 nsubj(ⲡⲁϩ-7, ⲕ)
-dobj(ⲡⲁϩ-7, ⲟⲩ)
+dobj(ⲡⲁϩ-7, ⲟⲩ-8)
 parataxis(ⲉⲡⲓⲥⲧⲟⲗⲏ, ⲥⲟⲟⲩⲛ)
 cc(ⲥⲟⲟⲩⲛ, ⲏ)
 nsubj(ⲥⲟⲟⲩⲛ, ϯ)
@@ -28,7 +28,7 @@ dobj(ϫⲟⲟⲩ, ⲥⲟⲩ)
 aux(ⲡⲁϩ-21, ⲛⲁ)
 nsubj(ⲡⲁϩ-21, ⲕ)
 mark(ⲡⲁϩ-21, ϫⲉ)
-dobj(ⲡⲁϩ-21, ⲟⲩ)
+dobj(ⲡⲁϩ-21, ⲟⲩ-22)
 ~~~
 
 If both of these clauses are seen as one sentence, there is no other relation to call the connection between the first clause and the second one. Note that this is distinct from two coordinated clauses, e.g. with ⲁⲩⲱ ‘and’, for which `cc` and `conj` should be used.
