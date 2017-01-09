@@ -11,7 +11,7 @@ Mary ate the cake, but John the cookies.
 In this case, the absence of a second ‘ate’ forces us to consider two conflicting subjects and objects for the first ‘ate’. The solution is to connect the second member in each set to the first one, using the remnant relation. Coptic examples work using the same logic:
 
 ~~~ sdparse
-ⲛ/NEG ⲥⲉ/PRON ⲣⲭⲣⲉⲓⲁ/VERB ⲁⲛ/NEG ⲛϭⲓ/PTC ⲛ/ART ⲉⲧ/SCONJ ⲧⲏⲕ/VERB ⲙ/ADP ⲡ/DET ⲥⲁⲓⲛ/NOUN ⲁⲗⲗⲁ/CONJ ⲛ/DET ⲉⲧ/SCONJ ϣⲟⲟⲡ/VERB ⲕⲁⲕⲱⲥ/ADV \n The healthy do not need the doctor, but those who are unwell (need the doctor). 
+ⲛ/ADV ⲥⲉ/PRON ⲣⲭⲣⲉⲓⲁ/VERB ⲁⲛ/ADV ⲛϭⲓ/PTC ⲛ/ART ⲉⲧ/SCONJ ⲧⲏⲕ/VERB ⲙ/ADP ⲡ/DET ⲥⲁⲓⲛ/NOUN ⲁⲗⲗⲁ/CONJ ⲛ/DET ⲉⲧ/SCONJ ϣⲟⲟⲡ/VERB ⲕⲁⲕⲱⲥ/ADV \n The healthy do not need the doctor, but those who are unwell (need the doctor). 
 
 neg(ⲣⲭⲣⲉⲓⲁ, ⲛ-1)
 nsubj(ⲣⲭⲣⲉⲓⲁ, ⲥⲉ)
