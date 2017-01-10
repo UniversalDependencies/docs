@@ -4,7 +4,7 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-In Hebrew, the `Case` feature serves to mark the cliticized forms `et` (`את`) and `šel` (`של`) for accusative and genetive case respectively, as well as their fused appearances in personal [pronouns](he-pos/PRON) and [nouns](he-pos/NOUN).
+In Hebrew, the `Case` feature serves to mark the cliticized forms `et` (`את`) and `šel` (`של`) for accusative and genetive case respectively, as well as their fused appearances in personal [pronouns](he-pos/PRON) and [nouns](he-pos/NOUN). The temporal case is marked on the prefixes `kše` (`כש`) and `mi-še` (`מש-`).
 
 ### `Acc`: accusative
 
