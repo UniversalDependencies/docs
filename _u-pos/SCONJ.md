@@ -18,7 +18,7 @@ We follow [Loos et al. 2003](http://www-01.sil.org/linguistics/GlossaryOfLinguis
 * Adverbial clause introducers, like [en] _when_, _since_, or _before_ (when introducing a clause not a nominal)
 * Relativizers, like [he] _še_. (Note that these words, which simply introduce a relative caluse, and normally don't inflect, need to be distinguished from relative or resumptive pronouns, which have a nominal function within the relative clause and which we analyze as [PRON]().)
 
-For _coordinating conjunctions,_ see [CONJ]().
+For _coordinating conjunctions,_ see [CCONJ]().
 
 ### Examples
 
