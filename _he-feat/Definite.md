@@ -12,5 +12,5 @@ A word "attached" in a construct state to the following [noun](he-pos/NOUN) (or 
 
 #### Examples:
 
-* _שמחת <b>בית</b> השואבה_ (unaltered written form)
-* _<b>אנשי</b> אשכולות_ (altered from original _אנשים_)
+* שמחת <b>בית</b> השואבה _simxat <b>beit</b> ha-šo'eva_ "Simchat Beit Hashoeivah (Jewish festival)" (unaltered written form)
+* <b>אנשי</b> אשכולות _<b>anšei</b> eškolot_ "Renaissance men" (altered from original אנשים)
