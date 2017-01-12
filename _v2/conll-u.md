@@ -20,7 +20,7 @@ The `deps` field holds the *enhanced* representation. Unlike previously thought,
 
 ## Empty nodes in the enhanced representation
 
-A mechanism is needed for empty nodes in the enhanced representation (the base representation will always be empty-node-free). These will be on their separate lines indexed as `E2.1` which means "the first empty node after the syntactic word indexed 2". This line would be placed right after the word 2. Naturally, these empty nodes can be
+A mechanism is needed for empty nodes in the enhanced representation (the base representation will always be empty-node-free). These will be on their separate lines indexed as `2.1` which means "the first empty node after the syntactic word indexed 2". This line would be placed right after the word 2. Naturally, these empty nodes can be
 referred to only from the `DEPS` field.
 
 <!--There doesn't seem to be a clear idea of whether the empty nodes should receive any values in the `FORM, LEMMA, UPOS, FEAT`
@@ -34,7 +34,7 @@ Grepping out all lines which start with E is now sufficient to obtain a CoNLL-U 
 3	silver	_	_	_	_	2	obj	2:obj	_
 4	and	_	_	_	_	5	cc	E5.1:cc	_
 5	Sue	_	_	_	_	2	conj	E5.1:nsubj	_
-E5.1	_	_	_	_	_	2	conj	2:conj	_
+5.1	_	_	_	_	_	2	conj	2:conj	_
 6	bronze	_	_	_	_	5	orphan	E5.1:dobj	_
 </pre>
 
