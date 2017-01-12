@@ -92,7 +92,7 @@ a further extension of the indexing scheme from v2. It is possible to insert one
     3      coffee    coffee
     4      and       and
     5      Bill      a
-    E5.1    likes     like
+    E5.1   likes     like
     6      tea       tea
 
 Empty nodes must have a non-empty DEPS field, because they are part of the enhanced dependency graph, but all other 
