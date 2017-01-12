@@ -4,7 +4,11 @@ title:  'Ellipsis in UD v2'
 udver: '2'
 ---
 
-# Ellipsis in UD v2
+# Archived discussion on Ellipsis in UD v2
+
+> #Notice
+> This is an archive page. The final documentation is here http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis
+
 
 The `remnant` relation turned out to be a non-optimal way for analyzing complex ellipitical constructions. We therefore introduce the following changes in UD v2:
 
@@ -129,7 +133,7 @@ conj(like-2, coffee-6)
 
 We considered two alternative proposals for dealing with such cases in UD basic dependencies, one that make use of composite relations (but do not introduce any new relations) and one that instead adds a new relation named `orphan` to preserve intuitions about constituency. In the end we adopted alternative 2.
 
-### Predicate ellipis 1: composite relations
+### Predicate ellipis 1: composite relations (rejected variant)
 
 The first alternative is to attach orphans to their grandparent with a composite relation of the form `headrel>orphanrel`.
 
@@ -181,7 +185,7 @@ root>nsubj(ROOT, Jenny)
 root>xcomp>obj(ROOT, CD)
 ~~~ 
 
-### Predicate ellipis 2: orphan instead of remnant
+### Predicate ellipis 2: orphan instead of remnant (approved variant)
 
 The second alternative preserves the integrity of the second conjunct as a single subtree by (arbitrarily) promoting one of the orphans to the (subclause) root and attaching the others with a new dummy relation `orphan`. Here are the same examples annotated according to this alternative:
 
@@ -230,7 +234,7 @@ All things considered, alternative 2 was judged to be the best analysis because 
 
 ## Predicate ellipsis in _Enhanced_ UD v2
 
-While we hold on to the principle that _basic_ UD trees have to be strict surface syntax trees, we propose to relax this requirement in the _enhanced_ representation and to allow special null nodes for sentences with elided predicates. These nodes have special word indices of the form _a.b_, where _a_ is the index of the token that would precede the elided word and _b_ is a counter. (See also the description of the [changes](conll-u.html) to the CoNLL-U file format.) Whenever the _basic_ representation contains an instance of the `orphan` relation, the _enhanced_ representation contains additional null nodes so that all orphans can be attached to their real (ellided) parent.
+While we hold on to the principle that _basic_ UD trees have to be strict surface syntax trees, we propose to relax this requirement in the _enhanced_ representation and to allow special null nodes for sentences with elided predicates. These nodes have special word indices of the form _Ea.b_, where _a_ is the index of the token that would precede the elided word and _b_ is a counter. (See also the description of the [changes](conll-u.html) to the CoNLL-U file format.) Whenever the _basic_ representation contains an instance of the `orphan` relation, the _enhanced_ representation contains additional null nodes so that all orphans can be attached to their real (ellided) parent.
 
 For example, the sentences from the previous section are analyzed as following in the _enhanced_ representation. (The special null nodes are labelled with _Ea.b_ .) 
 
