@@ -234,43 +234,43 @@ All things considered, alternative 2 was judged to be the best analysis because 
 
 ## Predicate ellipsis in _Enhanced_ UD v2
 
-While we hold on to the principle that _basic_ UD trees have to be strict surface syntax trees, we propose to relax this requirement in the _enhanced_ representation and to allow special null nodes for sentences with elided predicates. These nodes have special word indices of the form _a.b_, where _a_ is the index of the token that would precede the elided word and _b_ is a counter. (See also the description of the [changes](conll-u.html) to the CoNLL-U file format.) Whenever the _basic_ representation contains an instance of the `orphan` relation, the _enhanced_ representation contains additional null nodes so that all orphans can be attached to their real (ellided) parent.
+While we hold on to the principle that _basic_ UD trees have to be strict surface syntax trees, we propose to relax this requirement in the _enhanced_ representation and to allow special null nodes for sentences with elided predicates. These nodes have special word indices of the form _Ea.b_, where _a_ is the index of the token that would precede the elided word and _b_ is a counter. (See also the description of the [changes](conll-u.html) to the CoNLL-U file format.) Whenever the _basic_ representation contains an instance of the `orphan` relation, the _enhanced_ representation contains additional null nodes so that all orphans can be attached to their real (ellided) parent.
 
-For example, the sentences from the previous section are analyzed as following in the _enhanced_ representation. (The special null nodes are labelled with _a.b_ .) 
+For example, the sentences from the previous section are analyzed as following in the _enhanced_ representation. (The special null nodes are labelled with _Ea.b_ .) 
 
 ~~~ sdparse
-I like tea and you 5.1 coffee .
+I like tea and you E5.1 coffee .
 
 nsubj(like-2, I-1)
 obj(like-2, tea-3)
-nsubj(5.1-6, you-5)
-conj(like-2, 5.1-6)
-obj(5.1-6, coffee-7)
+nsubj(E5.1-6, you-5)
+conj(like-2, E5.1-6)
+obj(E5.1-6, coffee-7)
 ~~~ 
 
 ~~~ sdparse
-Mary wants to buy a book and Jenny 8.1 8.2 a CD .
+Mary wants to buy a book and Jenny E8.1 E8.2 a CD .
 
 nsubj(wants-2, Mary-1)
 xcomp(wants-2, buy-4)
 obj(buy-4, book-6)
-conj(wants-2, 8.1-9)
-nsubj(8.1-9, Jenny-8)
-xcomp(8.1-9, 8.2-10)
-obj(8.2-10, CD-12)
+conj(wants-2, E8.1-9)
+nsubj(E8.1-9, Jenny-8)
+xcomp(8.1-9, E8.2-10)
+obj(E8.2-10, CD-12)
 ~~~ 
 
 ~~~ sdparse
-They had left the company , many 7.1 for good .
+They had left the company , many E7.1 for good .
 
 nsubj(left, They)
 obj(left, company)
-conj(left, 7.1)
-nsubj(7.1, many)
-nmod(7.1, good)
+conj(left, E7.1)
+nsubj(E7.1, many)
+nmod(E7.1, good)
 ~~~
 
-In the first example, the node _5.1_ is added for the elided predicate _like_. In the second example, we add one node for the elided matrix verb _wants_ (_8.1_) and one node for the elided embedded verb _buy_ (_8.2_). As the elided marker _to_ does not have any dependents, we do not add a null node for it. 
+In the first example, the node _E5.1_ is added for the elided predicate _like_. In the second example, we add one node for the elided matrix verb _wants_ (_E8.1_) and one node for the elided embedded verb _buy_ (_E8.2_). As the elided marker _to_ does not have any dependents, we do not add a null node for it. 
 
 
 
