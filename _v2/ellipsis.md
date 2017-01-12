@@ -256,7 +256,7 @@ xcomp(wants-2, buy-4)
 obj(buy-4, book-6)
 conj(wants-2, E8.1-9)
 nsubj(E8.1-9, Jenny-8)
-xcomp(8.1-9, E8.2-10)
+xcomp(E8.1-9, E8.2-10)
 obj(E8.2-10, CD-12)
 ~~~ 
 
