@@ -85,14 +85,14 @@ in contrast to the _word indexing_ scheme used as the offical treebank represent
     3      mar       mar		
 -->
 To accommodate the use of empty nodes for the analysis of ellipsis in the enhanced dependency representation, we adopt
-a further extension of the indexing scheme from v2. It is possible to insert one or more empty nodes indexed _Ei_.1, _Ei_.2, etc. immediately after a word with index _i_ (where _i_ = 0 for sentence-initial empty nodes). Here is an example showing the use of an empty node in the analysis of the sentence _Sue likes coffee and Bill tea_:
+a further extension of the indexing scheme from v2. It is possible to insert one or more empty nodes indexed _i_.1, _i_.2, etc. immediately after a word with index _i_ (where _i_ = 0 for sentence-initial empty nodes). Here is an example showing the use of an empty node in the analysis of the sentence _Sue likes coffee and Bill tea_:
 
     1      Sue       Sue
     2      likes     like
     3      coffee    coffee
     4      and       and
     5      Bill      a
-    E5.1   likes     like
+    5.1   likes     like
     6      tea       tea
 
 Empty nodes must have a non-empty DEPS field, because they are part of the enhanced dependency graph, but all other 
