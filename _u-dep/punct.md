@@ -17,10 +17,10 @@ Tokens with the relation [u-dep/punct]() always attach to content words (except 
 Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
 Instead, we use the following principles:
 
-1. A punctuation mark separating coordinated units is attached to the first conjunct.
+1. A punctuation mark separating coordinated units is attached to the following conjunct.
 2. A punctuation mark preceding or following a subordinated unit is attached to this unit.
 3. Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
-4. Paired punctuation marks (quotes and brackets) should be attached to the same word unless that would create non-projectivity. This word is usually the head of the phrase enclosed in the paired punctuation.
+4. Paired punctuation marks (e.g. quotes and brackets, sometimes also dashes, commas and other) should be attached to the same word unless that would create non-projectivity. This word is usually the head of the phrase enclosed in the paired punctuation.
 
 <div id="punct1" class="sd-parse">
 We have apples , pears , oranges , and bananas .
