@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-13T12:09:46Z">2017-01-13T12:09:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-13T19:08:36Z">2017-01-13T19:08:36 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5426,104 +5426,89 @@ Syntax errors: 19805
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-03T21:05:30Z">2017-01-03T21:05:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-13T19:08:24Z">2017-01-13T19:08:24 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
 
-[Line                   18]: Unknown UD DEPREL: name
-[Line                   23]: Unknown UD DEPREL: dobj
-[Line                   28]: Unknown UD DEPREL: dobj
-[Line                   43]: Unknown UD DEPREL: dobj
-[Line                   49]: Unknown UD DEPREL: name
-[Line                   50]: Unknown UD DEPREL: name
-[Line                   59]: Unknown UD DEPREL: dobj
-[Line                   75]: Unknown UD DEPREL: mwe
-[Line                   76]: Unknown UD DEPREL: mwe
-[Line                   101]: Unknown UPOS tag: CONJ
-[Line                   103]: Unknown UPOS tag: CONJ
-[Line                   109]: Unknown UD DEPREL: dobj
-[Line                   110]: Unknown UD DEPREL: dobj
-[Line                   111]: Unknown UD DEPREL: dobj
-[Line                   121]: Unknown UD DEPREL: dobj
-[Line                   125]: Unknown UPOS tag: CONJ
-[Line                   127]: Unknown UD DEPREL: neg
-[Line                   130]: Unknown UD DEPREL: dobj
-[Line                   186]: Unknown UD DEPREL: auxpass
-[Line                   238]: Unknown UD DEPREL: auxpass
-[Line                   250]: Unknown UD DEPREL: dobj
-[Line                   259]: Unknown UD DEPREL: name
-...suppressing further errors regarding Syntax
-[Line                   348]: Unknown UPOS tag: CONJ
-[Line                   390]: Unknown UPOS tag: CONJ
-[Line                   557]: Unknown UPOS tag: CONJ
-[Line                   676]: Unknown UPOS tag: CONJ
-[Line                   761]: Unknown UPOS tag: CONJ
-[Line                   806]: Unknown UPOS tag: CONJ
-[Line                   811]: Unknown UPOS tag: CONJ
-[Line                   884]: Unknown UPOS tag: CONJ
-[Line                   950]: Unknown UPOS tag: CONJ
-[Line                   971]: Unknown UPOS tag: CONJ
-[Line                   985]: Unknown UPOS tag: CONJ
-[Line                   995]: Unknown UPOS tag: CONJ
-[Line                   1086]: Unknown UPOS tag: CONJ
-[Line                   1115]: Unknown UPOS tag: CONJ
-[Line                   1155]: Unknown UPOS tag: CONJ
-[Line                   1530]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 1959 errors
-Morpho errors: 378
-Syntax errors: 1581
+[Line                   15]: Empty value in column MISC
+[Line                   16]: Empty value in column MISC
+[Line                   17]: Empty value in column MISC
+[Line                   22]: Empty value in column MISC
+[Line                   48]: Empty value in column MISC
+[Line                   51]: Empty value in column MISC
+[Line                   52]: Empty value in column MISC
+[Line                   96]: Empty value in column MISC
+[Line                   133]: Empty value in column MISC
+[Line                   281]: Empty value in column MISC
+[Line                   282]: Empty value in column MISC
+[Line                   329]: Empty value in column MISC
+[Line                   333]: Empty value in column MISC
+[Line                   357]: Empty value in column MISC
+[Line                   383]: Empty value in column MISC
+[Line                   386]: Empty value in column MISC
+[Line                   387]: Empty value in column MISC
+[Line                   416]: Unknown UD DEPREL: remnant
+[Line                   418]: Unknown UD DEPREL: remnant
+[Line                   431]: Empty value in column MISC
+[Line                   435]: Empty value in column MISC
+[Line                   438]: Unknown UD DEPREL: remnant
+[Line                   441]: Unknown UD DEPREL: remnant
+[Line                   443]: Unknown UD DEPREL: remnant
+...suppressing further errors regarding Format
+*** FAILED *** with 400 errors
+Format errors: 395
+Syntax errors: 5
 
 
 ******************
 
 python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
 
-[Line                   15]: Unknown UD DEPREL: neg
-[Line                   16]: Unknown UD DEPREL: auxpass
-[Line                   26]: Unknown UD DEPREL: dobj
-[Line                   27]: Unknown UPOS tag: CONJ
-[Line                   87]: Unknown UD DEPREL: dobj
-[Line                   100]: Unknown UPOS tag: CONJ
-[Line                   104]: Unknown UD DEPREL: dobj
-[Line                   127]: Unknown UD DEPREL: dobj
-[Line                   160]: Unknown UD DEPREL: dobj
-[Line                   176]: Unknown UD DEPREL: dobj
-[Line                   192]: Unknown UD DEPREL: neg
-[Line                   195]: Unknown UD DEPREL: dobj
-[Line                   211]: Unknown UD DEPREL: dobj
-[Line                   215]: Unknown UD DEPREL: name
-[Line                   223]: Unknown UPOS tag: CONJ
-[Line                   248]: Unknown UPOS tag: CONJ
-[Line                   252]: Unknown UD DEPREL: dobj
-[Line                   268]: Unknown UD DEPREL: dobj
-[Line                   311]: Unknown UD DEPREL: dobj
-[Line                   356]: Unknown UD DEPREL: dobj
-[Line                   384]: Unknown UPOS tag: CONJ
-[Line                   399]: Unknown UD DEPREL: dobj
-[Line                   400]: Unknown UPOS tag: CONJ
-[Line                   416]: Unknown UD DEPREL: dobj
-[Line                   417]: Unknown UD DEPREL: name
+[Line                   46]: Empty value in column MISC
+[Line                   55]: Empty value in column MISC
+[Line                   98]: Empty value in column MISC
+[Line                   100]: Empty value in column MISC
+[Line                   102]: Empty value in column MISC
+[Line                   106]: Empty value in column MISC
+[Line                   107]: Empty value in column MISC
+[Line                   130]: Empty value in column MISC
+[Line                   148]: Empty value in column MISC
+[Line                   190]: Empty value in column MISC
+[Line                   195]: Empty value in column MISC
+[Line                   210]: Empty value in column MISC
+[Line                   309]: Empty value in column MISC
+[Line                   330]: Empty value in column MISC
+[Line                   372]: Empty value in column MISC
+[Line                   421]: Empty value in column MISC
+[Line                   444]: Empty value in column MISC
+[Line                   449]: Empty value in column MISC
+[Line                   450]: Empty value in column MISC
+...suppressing further errors regarding Format
+[Line                   6910]: Unknown UD DEPREL: remnant
+[Line                   6918]: Unknown UD DEPREL: remnant
+[Line                   36537]: Unknown UD DEPREL: neg
+[Line                   42372]: Unknown UD DEPREL: remnant
+[Line                   42376]: Unknown UD DEPREL: remnant
+[Line                   43771]: Unknown UD DEPREL: neg
+[Line                   68644]: Unknown UD DEPREL: neg
+[Line                   90131]: Unknown UD DEPREL: neg
+[Line                   91399]: Unknown UD DEPREL: remnant
+[Line                   91400]: Unknown UD DEPREL: remnant
+[Line                   120680]: Unknown UD DEPREL: remnant
+[Line                   120686]: Unknown UD DEPREL: remnant
+[Line                   191127]: Unknown UD DEPREL: remnant
+[Line                   191132]: Unknown UD DEPREL: remnant
+[Line                   207931]: Unknown UD DEPREL: remnant
+[Line                   207933]: Unknown UD DEPREL: remnant
+[Line                   211883]: Unknown UD DEPREL: remnant
+[Line                   211886]: Unknown UD DEPREL: remnant
+[Line                   211891]: Unknown UD DEPREL: remnant
 ...suppressing further errors regarding Syntax
-[Line                   597]: Unknown UPOS tag: CONJ
-[Line                   676]: Unknown UPOS tag: CONJ
-[Line                   810]: Unknown UPOS tag: CONJ
-[Line                   830]: Unknown UPOS tag: CONJ
-[Line                   844]: Unknown UPOS tag: CONJ
-[Line                   862]: Unknown UPOS tag: CONJ
-[Line                   880]: Unknown UPOS tag: CONJ
-[Line                   898]: Unknown UPOS tag: CONJ
-[Line                   946]: Unknown UPOS tag: CONJ
-[Line                   992]: Unknown UPOS tag: CONJ
-[Line                   1053]: Unknown UPOS tag: CONJ
-[Line                   1064]: Unknown UPOS tag: CONJ
-[Line                   1101]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 19154 errors
-Morpho errors: 4317
-Syntax errors: 14837
+*** FAILED *** with 18173 errors
+Format errors: 18150
+Syntax errors: 23
 
 
 ******************
