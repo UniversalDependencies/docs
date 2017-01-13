@@ -44,7 +44,7 @@ punct(kam, .)
 <div id="punct3" class="sd-parse">
 A.K.A. , AKA , or a\/k\/a may refer to : “ Also known as ” , used to introduce pseudonyms , aliases , etc. ( Compare f.k.a. for “ formerly known as ” . )
 punct(AKA, ,-2)
-punct(a\/k\/a, ,-4)
+punct(a/k/a, ,-4)
 punct(refer, :)
 punct(known-13, “-11)
 punct(known-13, ”-15)
