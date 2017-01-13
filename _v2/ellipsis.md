@@ -7,7 +7,7 @@ udver: '2'
 # Archived discussion on Ellipsis in UD v2
 
 > #Notice
-> This is an archive page. The final documentation is here http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis
+> This is an archive page. The final documentation is here: [http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis)
 
 
 The `remnant` relation turned out to be a non-optimal way for analyzing complex ellipitical constructions. We therefore introduce the following changes in UD v2:
