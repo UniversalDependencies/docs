@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-13T19:13:32Z">2017-01-13T19:13:32 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-13T22:48:10Z">2017-01-13T22:48:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5426,39 +5426,18 @@ Syntax errors: 19805
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-13T19:13:19Z">2017-01-13T19:13:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-13T22:47:58Z">2017-01-13T22:47:58 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
 
-[Line                   15]: Empty value in column MISC
-[Line                   16]: Empty value in column MISC
-[Line                   17]: Empty value in column MISC
-[Line                   22]: Empty value in column MISC
-[Line                   48]: Empty value in column MISC
-[Line                   51]: Empty value in column MISC
-[Line                   52]: Empty value in column MISC
-[Line                   96]: Empty value in column MISC
-[Line                   133]: Empty value in column MISC
-[Line                   281]: Empty value in column MISC
-[Line                   282]: Empty value in column MISC
-[Line                   329]: Empty value in column MISC
-[Line                   333]: Empty value in column MISC
-[Line                   357]: Empty value in column MISC
-[Line                   383]: Empty value in column MISC
-[Line                   386]: Empty value in column MISC
-[Line                   387]: Empty value in column MISC
 [Line                   416]: Unknown UD DEPREL: remnant
 [Line                   418]: Unknown UD DEPREL: remnant
-[Line                   431]: Empty value in column MISC
-[Line                   435]: Empty value in column MISC
 [Line                   438]: Unknown UD DEPREL: remnant
 [Line                   441]: Unknown UD DEPREL: remnant
 [Line                   443]: Unknown UD DEPREL: remnant
-...suppressing further errors regarding Format
-*** FAILED *** with 400 errors
-Format errors: 395
+*** FAILED *** with 5 errors
 Syntax errors: 5
 
 
@@ -5466,26 +5445,6 @@ Syntax errors: 5
 
 python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
 
-[Line                   46]: Empty value in column MISC
-[Line                   55]: Empty value in column MISC
-[Line                   98]: Empty value in column MISC
-[Line                   100]: Empty value in column MISC
-[Line                   102]: Empty value in column MISC
-[Line                   106]: Empty value in column MISC
-[Line                   107]: Empty value in column MISC
-[Line                   130]: Empty value in column MISC
-[Line                   148]: Empty value in column MISC
-[Line                   190]: Empty value in column MISC
-[Line                   195]: Empty value in column MISC
-[Line                   210]: Empty value in column MISC
-[Line                   309]: Empty value in column MISC
-[Line                   330]: Empty value in column MISC
-[Line                   372]: Empty value in column MISC
-[Line                   421]: Empty value in column MISC
-[Line                   444]: Empty value in column MISC
-[Line                   449]: Empty value in column MISC
-[Line                   450]: Empty value in column MISC
-...suppressing further errors regarding Format
 [Line                   6910]: Unknown UD DEPREL: remnant
 [Line                   6918]: Unknown UD DEPREL: remnant
 [Line                   36537]: Unknown UD DEPREL: neg
@@ -5506,8 +5465,7 @@ python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/p
 [Line                   211886]: Unknown UD DEPREL: remnant
 [Line                   211891]: Unknown UD DEPREL: remnant
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 18173 errors
-Format errors: 18150
+*** FAILED *** with 23 errors
 Syntax errors: 23
 
 
