@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-12T22:58:38Z">2017-01-12T22:58:38 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-13T12:09:46Z">2017-01-13T12:09:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2534,104 +2534,62 @@ Syntax errors: 16265
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:11:06Z">2016-12-06T13:11:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-13T12:09:37Z">2017-01-13T12:09:37 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
-[Line                   2]: Unknown attribute-value pair Negative=Neg
-[Line                   2]: Unknown UD DEPREL: neg
-[Line                   14]: Unknown attribute-value pair Negative=Neg
-[Line                   14]: Unknown UD DEPREL: neg
-[Line                   25]: Unknown UD DEPREL: dobj
-[Line                   33]: Unknown attribute-value pair Negative=Neg
-[Line                   33]: Unknown UD DEPREL: neg
-[Line                   62]: Unknown UD DEPREL: dobj
-[Line                   74]: Unknown attribute-value pair Negative=Neg
-[Line                   74]: Unknown UD DEPREL: neg
-[Line                   108]: Unknown UD DEPREL: dobj
-[Line                   141]: Unknown UD DEPREL: dobj
-[Line                   144]: Unknown attribute-value pair Negative=Neg
-[Line                   144]: Unknown UD DEPREL: neg
-[Line                   154]: Unknown attribute-value pair Negative=Neg
-[Line                   154]: Unknown UD DEPREL: neg
-[Line                   158]: Unknown attribute-value pair Negative=Neg
-[Line                   158]: Unknown UD DEPREL: neg
-[Line                   163]: Unknown attribute-value pair Negative=Neg
-[Line                   163]: Unknown UD DEPREL: neg
-[Line                   167]: Unknown attribute-value pair Negative=Neg
-[Line                   167]: Unknown UD DEPREL: neg
-[Line                   171]: Unknown attribute-value pair Negative=Neg
-[Line                   171]: Unknown UD DEPREL: neg
-[Line                   175]: Unknown attribute-value pair Negative=Neg
-[Line                   175]: Unknown UD DEPREL: neg
-[Line                   179]: Unknown attribute-value pair Negative=Neg
-[Line                   179]: Unknown UD DEPREL: neg
-[Line                   183]: Unknown attribute-value pair Negative=Neg
-[Line                   183]: Unknown UD DEPREL: neg
-[Line                   187]: Unknown attribute-value pair Negative=Neg
-[Line                   187]: Unknown UD DEPREL: neg
-[Line                   191]: Unknown attribute-value pair Negative=Neg
-[Line                   191]: Unknown UD DEPREL: neg
-[Line                   199]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Syntax
-[Line                   261]: Unknown attribute-value pair Negative=Neg
-[Line                   310]: Unknown attribute-value pair Negative=Neg
-[Line                   319]: Unknown attribute-value pair Negative=Neg
+[Line                   19]: Morphological features must be sorted: 'Case=Ill|NumType=Card|Number=Plur|Style=Coll'
+[Line                   136]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   487]: Morphological features must be sorted: 'Case=Ine|NumType=Ord|Number=Sing'
+[Line                   510]: Morphological features must be sorted: 'Case=Ill|NumType=Card|Number=Sing|Style=Coll'
+[Line                   594]: Morphological features must be sorted: 'Case=Ade|NumType=Ord|Number=Sing'
+[Line                   723]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   836]: Morphological features must be sorted: 'Case=Ess|NumType=Card|Number=Sing'
+[Line                   1125]: Morphological features must be sorted: 'Case=Gen|NumType=Card|Number=Sing'
+[Line                   1143]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   1570]: Morphological features must be sorted: 'Case=Gen|NumType=Card|Number=Sing'
+[Line                   1595]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   1662]: Morphological features must be sorted: 'Case=Par|NumType=Card|Number=Plur'
+[Line                   1663]: Morphological features must be sorted: 'Case=Par|NumType=Card|Number=Plur'
+[Line                   1703]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Plur'
+[Line                   1796]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   2492]: Morphological features must be sorted: 'Case=Ine|NumType=Ord|Number=Sing'
+[Line                   2556]: Morphological features must be sorted: 'Case=Par|NumType=Ord|Number=Sing'
+[Line                   2811]: Morphological features must be sorted: 'Case=Gen|NumType=Card|Number=Sing'
+[Line                   2852]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 2070 errors
-Morpho errors: 797
-Syntax errors: 1273
+*** FAILED *** with 164 errors
+Morpho errors: 164
 
 
 ******************
 
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
-[Line                   23]: Unknown UPOS tag: CONJ
-[Line                   29]: Unknown attribute-value pair Negative=Neg
-[Line                   29]: Unknown UD DEPREL: neg
-[Line                   42]: Unknown attribute-value pair Negative=Neg
-[Line                   42]: Unknown UD DEPREL: neg
-[Line                   51]: Unknown attribute-value pair Negative=Neg
-[Line                   51]: Unknown UD DEPREL: neg
-[Line                   60]: Unknown UD DEPREL: dobj
-[Line                   73]: Unknown UPOS tag: CONJ
-[Line                   75]: Unknown attribute-value pair Negative=Neg
-[Line                   75]: Unknown UD DEPREL: neg
-[Line                   99]: Unknown UPOS tag: CONJ
-[Line                   123]: Unknown attribute-value pair Negative=Neg
-[Line                   123]: Unknown UD DEPREL: neg
-[Line                   124]: Unknown UD DEPREL: dobj
-[Line                   146]: Unknown UD DEPREL: dobj
-[Line                   150]: Unknown attribute-value pair Negative=Neg
-[Line                   150]: Unknown UD DEPREL: neg
-[Line                   160]: Unknown UD DEPREL: dobj
-[Line                   210]: Unknown UD DEPREL: dobj
-[Line                   221]: Unknown UD DEPREL: dobj
-[Line                   227]: Unknown UD DEPREL: dobj
-[Line                   236]: Unknown UD DEPREL: mwe
-[Line                   249]: Unknown attribute-value pair Negative=Neg
-[Line                   249]: Unknown UD DEPREL: neg
-[Line                   267]: Unknown UD DEPREL: dobj
-[Line                   275]: Unknown UD DEPREL: dobj
-[Line                   278]: Unknown attribute-value pair Negative=Neg
-[Line                   278]: Unknown UD DEPREL: neg
-[Line                   304]: Unknown UD DEPREL: dobj
-[Line                   358]: Unknown UPOS tag: CONJ
-[Line                   391]: Unknown attribute-value pair Negative=Neg
-...suppressing further errors regarding Syntax
-[Line                   406]: Unknown UPOS tag: CONJ
-[Line                   431]: Unknown UPOS tag: CONJ
-[Line                   487]: Unknown attribute-value pair Negative=Neg
-[Line                   510]: Unknown UPOS tag: CONJ
-[Line                   514]: Unknown UPOS tag: CONJ
-[Line                   516]: Unknown UPOS tag: CONJ
+[Line                   92]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
+[Line                   127]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
+[Line                   184]: Morphological features must be sorted: 'Case=Par|NumType=Ord|Number=Sing'
+[Line                   246]: Morphological features must be sorted: 'Case=Tra|NumType=Ord|Number=Sing|Style=Coll'
+[Line                   400]: Morphological features must be sorted: 'Case=Ade|NumType=Ord|Number=Sing|Style=Coll'
+[Line                   650]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   762]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   1415]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   1421]: Morphological features must be sorted: 'Case=Ill|NumType=Ord|Number=Sing'
+[Line                   1531]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
+[Line                   1532]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
+[Line                   2118]: Morphological features must be sorted: 'Case=Ade|NumType=Ord|Number=Sing'
+[Line                   2171]: Morphological features must be sorted: 'Case=Gen|Clitic=Kin|NumType=Card|Number=Sing'
+[Line                   2505]: Morphological features must be sorted: 'Case=Par|NumType=Card|Number=Sing'
+[Line                   3317]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3666]: Morphological features must be sorted: 'Case=Par|NumType=Ord|Number=Sing'
+[Line                   3693]: Morphological features must be sorted: 'Case=Par|NumType=Ord|Number=Sing'
+[Line                   3892]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   3921]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 16562 errors
-Morpho errors: 6308
-Syntax errors: 10254
+*** FAILED *** with 1447 errors
+Morpho errors: 1447
 
 
 ******************
