@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-16T20:37:20Z">2017-01-16T20:37:20 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-16T20:43:46Z">2017-01-16T20:43:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1042,30 +1042,30 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T20:34:45Z">2017-01-16T20:34:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T20:41:59Z">2017-01-16T20:41:59 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 [Line                   115]: Unknown UD DEPREL: auxpass
 [Line                   128]: Unknown UD DEPREL: auxpass:reflex
 [Line                   170]: Unknown UD DEPREL: name
 [Line                   203]: Unknown UD DEPREL: auxpass
-[Line                   207]: Unknown UD DEPREL: nsubjpass
+[Line                   207]: Unknown UD DEPREL: nsubj:pass
 [Line                   231]: Unknown UD DEPREL: auxpass:reflex
 [Line                   253]: Unknown UD DEPREL: name
 [Line                   723]: Unknown UD DEPREL: mwe
 [Line                   724]: Unknown UD DEPREL: mwe
 [Line                   773]: Unknown UD DEPREL: auxpass:reflex
-[Line                   784]: Unknown UD DEPREL: nsubjpass
+[Line                   784]: Unknown UD DEPREL: nsubj:pass
 [Line                   844]: Unknown UD DEPREL: foreign
 [Line                   936]: Unknown UD DEPREL: auxpass:reflex
-[Line                   938]: Unknown UD DEPREL: nsubjpass
+[Line                   938]: Unknown UD DEPREL: nsubj:pass
 [Line                   1069]: Unknown UD DEPREL: auxpass
-[Line                   1071]: Unknown UD DEPREL: nsubjpass
+[Line                   1071]: Unknown UD DEPREL: nsubj:pass
 [Line                   1088]: Unknown UD DEPREL: auxpass
-[Line                   1091]: Unknown UD DEPREL: nsubjpass
+[Line                   1091]: Unknown UD DEPREL: nsubj:pass
 [Line                   1138]: Unknown UD DEPREL: auxpass
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 4376 errors
@@ -1074,11 +1074,11 @@ Syntax errors: 4376
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
 [Line                   71]: Unknown UD DEPREL: auxpass:reflex
-[Line                   75]: Unknown UD DEPREL: nsubjpass
-[Line                   250]: Unknown UD DEPREL: nsubjpass
+[Line                   75]: Unknown UD DEPREL: nsubj:pass
+[Line                   250]: Unknown UD DEPREL: nsubj:pass
 [Line                   251]: Unknown UD DEPREL: auxpass:reflex
 [Line                   381]: Unknown UD DEPREL: foreign
 [Line                   382]: Unknown UD DEPREL: foreign
@@ -1089,10 +1089,10 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 [Line                   785]: Unknown UD DEPREL: foreign
 [Line                   819]: Unknown UD DEPREL: foreign
 [Line                   853]: Unknown UD DEPREL: auxpass:reflex
-[Line                   857]: Unknown UD DEPREL: nsubjpass
-[Line                   940]: Unknown UD DEPREL: nsubjpass
+[Line                   857]: Unknown UD DEPREL: nsubj:pass
+[Line                   940]: Unknown UD DEPREL: nsubj:pass
 [Line                   941]: Unknown UD DEPREL: auxpass
-[Line                   978]: Unknown UD DEPREL: nsubjpass
+[Line                   978]: Unknown UD DEPREL: nsubj:pass
 [Line                   981]: Unknown UD DEPREL: auxpass
 [Line                   982]: Unknown UD DEPREL: auxpass
 ...suppressing further errors regarding Syntax
@@ -1102,18 +1102,18 @@ Syntax errors: 2894
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 [Line                   17]: Unknown UD DEPREL: name
 [Line                   35]: Unknown UD DEPREL: name
 [Line                   329]: Unknown UD DEPREL: auxpass
-[Line                   332]: Unknown UD DEPREL: nsubjpass
+[Line                   332]: Unknown UD DEPREL: nsubj:pass
 [Line                   364]: Unknown UD DEPREL: name
-[Line                   368]: Unknown UD DEPREL: nsubjpass
+[Line                   368]: Unknown UD DEPREL: nsubj:pass
 [Line                   371]: Unknown UD DEPREL: auxpass:reflex
 [Line                   413]: Unknown UD DEPREL: name
 [Line                   463]: Unknown UD DEPREL: auxpass:reflex
-[Line                   557]: Unknown UD DEPREL: nsubjpass
+[Line                   557]: Unknown UD DEPREL: nsubj:pass
 [Line                   558]: Unknown UD DEPREL: auxpass
 [Line                   701]: Unknown UD DEPREL: auxpass:reflex
 [Line                   919]: Unknown UD DEPREL: name
@@ -1130,17 +1130,17 @@ Syntax errors: 20196
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
 [Line                   28]: Unknown UD DEPREL: auxpass
-[Line                   31]: Unknown UD DEPREL: nsubjpass
+[Line                   31]: Unknown UD DEPREL: nsubj:pass
 [Line                   97]: Unknown UD DEPREL: name
-[Line                   115]: Unknown UD DEPREL: nsubjpass
+[Line                   115]: Unknown UD DEPREL: nsubj:pass
 [Line                   116]: Unknown UD DEPREL: auxpass
-[Line                   188]: Unknown UD DEPREL: nsubjpass
+[Line                   188]: Unknown UD DEPREL: nsubj:pass
 [Line                   191]: Unknown UD DEPREL: auxpass
 [Line                   247]: Unknown UD DEPREL: auxpass:reflex
-[Line                   255]: Unknown UD DEPREL: csubjpass
+[Line                   255]: Unknown UD DEPREL: csubj:pass
 [Line                   256]: Unknown UD DEPREL: auxpass:reflex
 [Line                   267]: Unknown UD DEPREL: name
 [Line                   326]: Unknown UD DEPREL: mwe
@@ -1158,7 +1158,7 @@ Syntax errors: 4752
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
 [Line                   11]: Unknown UD DEPREL: name
 [Line                   17]: Unknown UD DEPREL: name
@@ -1167,18 +1167,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 [Line                   159]: Unknown UD DEPREL: mwe
 [Line                   410]: Unknown UD DEPREL: name
 [Line                   666]: Unknown UD DEPREL: auxpass:reflex
-[Line                   751]: Unknown UD DEPREL: nsubjpass
+[Line                   751]: Unknown UD DEPREL: nsubj:pass
 [Line                   752]: Unknown UD DEPREL: auxpass:reflex
 [Line                   956]: Unknown UD DEPREL: mwe
 [Line                   1081]: Unknown UD DEPREL: mwe
 [Line                   1082]: Unknown UD DEPREL: mwe
 [Line                   1111]: Unknown UD DEPREL: auxpass:reflex
-[Line                   1114]: Unknown UD DEPREL: csubjpass
+[Line                   1114]: Unknown UD DEPREL: csubj:pass
 [Line                   1281]: Unknown UD DEPREL: mwe
 [Line                   1416]: Unknown UD DEPREL: mwe
 [Line                   1468]: Unknown UD DEPREL: mwe
 [Line                   1469]: Unknown UD DEPREL: auxpass:reflex
-[Line                   1473]: Unknown UD DEPREL: nsubjpass
+[Line                   1473]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 3833 errors
 Syntax errors: 3833
