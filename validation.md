@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-16T20:15:47Z">2017-01-16T20:15:47 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-16T20:29:30Z">2017-01-16T20:29:30 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1042,62 +1042,62 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T19:58:17Z">2017-01-16T19:58:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T20:27:35Z">2017-01-16T20:27:35 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
-[Line                   19]: Unknown UD DEPREL: dobj
-[Line                   29]: Unknown UD DEPREL: dobj
-[Line                   49]: Unknown UD DEPREL: dobj
-[Line                   57]: Unknown UD DEPREL: dobj
-[Line                   67]: Unknown UD DEPREL: dobj
-[Line                   86]: Unknown UD DEPREL: dobj
-[Line                   93]: Unknown UD DEPREL: dobj
 [Line                   115]: Unknown UD DEPREL: auxpass
-[Line                   121]: Unknown UD DEPREL: dobj
 [Line                   128]: Unknown UD DEPREL: auxpass:reflex
-[Line                   146]: Unknown UD DEPREL: dobj
-[Line                   161]: Unknown UD DEPREL: dobj
 [Line                   170]: Unknown UD DEPREL: name
-[Line                   183]: Unknown UD DEPREL: dobj
-[Line                   194]: Unknown UD DEPREL: dobj
-[Line                   198]: Unknown UD DEPREL: dobj
 [Line                   203]: Unknown UD DEPREL: auxpass
 [Line                   207]: Unknown UD DEPREL: nsubjpass
 [Line                   231]: Unknown UD DEPREL: auxpass:reflex
+[Line                   253]: Unknown UD DEPREL: name
+[Line                   723]: Unknown UD DEPREL: mwe
+[Line                   724]: Unknown UD DEPREL: mwe
+[Line                   773]: Unknown UD DEPREL: auxpass:reflex
+[Line                   784]: Unknown UD DEPREL: nsubjpass
+[Line                   844]: Unknown UD DEPREL: foreign
+[Line                   936]: Unknown UD DEPREL: auxpass:reflex
+[Line                   938]: Unknown UD DEPREL: nsubjpass
+[Line                   1069]: Unknown UD DEPREL: auxpass
+[Line                   1071]: Unknown UD DEPREL: nsubjpass
+[Line                   1088]: Unknown UD DEPREL: auxpass
+[Line                   1091]: Unknown UD DEPREL: nsubjpass
+[Line                   1138]: Unknown UD DEPREL: auxpass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 12911 errors
-Syntax errors: 12911
+*** FAILED *** with 4376 errors
+Syntax errors: 4376
 
 
 ******************
 
 python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
-[Line                   10]: Unknown UD DEPREL: dobj
-[Line                   29]: Unknown UD DEPREL: dobj
 [Line                   71]: Unknown UD DEPREL: auxpass:reflex
 [Line                   75]: Unknown UD DEPREL: nsubjpass
-[Line                   103]: Unknown UD DEPREL: dobj
-[Line                   135]: Unknown UD DEPREL: dobj
-[Line                   141]: Unknown UD DEPREL: dobj
-[Line                   163]: Unknown UD DEPREL: dobj
-[Line                   182]: Unknown UD DEPREL: dobj
-[Line                   212]: Unknown UD DEPREL: dobj
-[Line                   244]: Unknown UD DEPREL: dobj
 [Line                   250]: Unknown UD DEPREL: nsubjpass
 [Line                   251]: Unknown UD DEPREL: auxpass:reflex
-[Line                   259]: Unknown UD DEPREL: dobj
-[Line                   294]: Unknown UD DEPREL: dobj
-[Line                   303]: Unknown UD DEPREL: dobj
-[Line                   315]: Unknown UD DEPREL: dobj
-[Line                   326]: Unknown UD DEPREL: dobj
-[Line                   355]: Unknown UD DEPREL: dobj
+[Line                   381]: Unknown UD DEPREL: foreign
+[Line                   382]: Unknown UD DEPREL: foreign
+[Line                   406]: Unknown UD DEPREL: mwe
+[Line                   567]: Unknown UD DEPREL: auxpass:reflex
+[Line                   640]: Unknown UD DEPREL: auxpass
+[Line                   781]: Unknown UD DEPREL: foreign
+[Line                   785]: Unknown UD DEPREL: foreign
+[Line                   819]: Unknown UD DEPREL: foreign
+[Line                   853]: Unknown UD DEPREL: auxpass:reflex
+[Line                   857]: Unknown UD DEPREL: nsubjpass
+[Line                   940]: Unknown UD DEPREL: nsubjpass
+[Line                   941]: Unknown UD DEPREL: auxpass
+[Line                   978]: Unknown UD DEPREL: nsubjpass
+[Line                   981]: Unknown UD DEPREL: auxpass
+[Line                   982]: Unknown UD DEPREL: auxpass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 10049 errors
-Syntax errors: 10049
+*** FAILED *** with 2894 errors
+Syntax errors: 2894
 
 
 ******************
@@ -1106,54 +1106,54 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 [Line                   17]: Unknown UD DEPREL: name
 [Line                   35]: Unknown UD DEPREL: name
-[Line                   40]: Unknown UD DEPREL: dobj
-[Line                   50]: Unknown UD DEPREL: dobj
-[Line                   62]: Unknown UD DEPREL: dobj
-[Line                   84]: Unknown UD DEPREL: dobj
-[Line                   103]: Unknown UD DEPREL: dobj
-[Line                   166]: Unknown UD DEPREL: dobj
-[Line                   182]: Unknown UD DEPREL: dobj
-[Line                   216]: Unknown UD DEPREL: dobj
-[Line                   229]: Unknown UD DEPREL: dobj
-[Line                   246]: Unknown UD DEPREL: dobj
-[Line                   271]: Unknown UD DEPREL: dobj
-[Line                   278]: Unknown UD DEPREL: dobj
-[Line                   323]: Unknown UD DEPREL: dobj
 [Line                   329]: Unknown UD DEPREL: auxpass
 [Line                   332]: Unknown UD DEPREL: nsubjpass
-[Line                   353]: Unknown UD DEPREL: dobj
 [Line                   364]: Unknown UD DEPREL: name
+[Line                   368]: Unknown UD DEPREL: nsubjpass
+[Line                   371]: Unknown UD DEPREL: auxpass:reflex
+[Line                   413]: Unknown UD DEPREL: name
+[Line                   463]: Unknown UD DEPREL: auxpass:reflex
+[Line                   557]: Unknown UD DEPREL: nsubjpass
+[Line                   558]: Unknown UD DEPREL: auxpass
+[Line                   701]: Unknown UD DEPREL: auxpass:reflex
+[Line                   919]: Unknown UD DEPREL: name
+[Line                   926]: Unknown UD DEPREL: name
+[Line                   934]: Unknown UD DEPREL: mwe
+[Line                   988]: Unknown UD DEPREL: name
+[Line                   1108]: Unknown UD DEPREL: neg
+[Line                   1173]: Unknown UD DEPREL: name
+[Line                   1254]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 59106 errors
-Syntax errors: 59106
+*** FAILED *** with 20196 errors
+Syntax errors: 20196
 
 
 ******************
 
 python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
-[Line                   16]: Unknown UD DEPREL: dobj
 [Line                   28]: Unknown UD DEPREL: auxpass
 [Line                   31]: Unknown UD DEPREL: nsubjpass
-[Line                   50]: Unknown UD DEPREL: dobj
-[Line                   61]: Unknown UD DEPREL: dobj
-[Line                   93]: Unknown UD DEPREL: dobj
 [Line                   97]: Unknown UD DEPREL: name
-[Line                   103]: Unknown UD DEPREL: dobj
 [Line                   115]: Unknown UD DEPREL: nsubjpass
 [Line                   116]: Unknown UD DEPREL: auxpass
-[Line                   127]: Unknown UD DEPREL: dobj
-[Line                   138]: Unknown UD DEPREL: dobj
-[Line                   178]: Unknown UD DEPREL: dobj
 [Line                   188]: Unknown UD DEPREL: nsubjpass
 [Line                   191]: Unknown UD DEPREL: auxpass
-[Line                   194]: Unknown UD DEPREL: dobj
-[Line                   209]: Unknown UD DEPREL: dobj
-[Line                   221]: Unknown UD DEPREL: dobj
-[Line                   224]: Unknown UD DEPREL: dobj
+[Line                   247]: Unknown UD DEPREL: auxpass:reflex
+[Line                   255]: Unknown UD DEPREL: csubjpass
+[Line                   256]: Unknown UD DEPREL: auxpass:reflex
+[Line                   267]: Unknown UD DEPREL: name
+[Line                   326]: Unknown UD DEPREL: mwe
+[Line                   327]: Unknown UD DEPREL: mwe
+[Line                   330]: Unknown UD DEPREL: name
+[Line                   445]: Unknown UD DEPREL: name
+[Line                   454]: Unknown UD DEPREL: name
+[Line                   456]: Unknown UD DEPREL: name
+[Line                   507]: Unknown UD DEPREL: name
+[Line                   602]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 14178 errors
-Syntax errors: 14178
+*** FAILED *** with 4752 errors
+Syntax errors: 4752
 
 
 ******************
@@ -1163,25 +1163,25 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 [Line                   11]: Unknown UD DEPREL: name
 [Line                   17]: Unknown UD DEPREL: name
 [Line                   30]: Unknown UD DEPREL: name
-[Line                   39]: Unknown UD DEPREL: dobj
-[Line                   44]: Unknown UD DEPREL: dobj
-[Line                   93]: Unknown UD DEPREL: dobj
-[Line                   103]: Unknown UD DEPREL: dobj
-[Line                   144]: Unknown UD DEPREL: dobj
-[Line                   155]: Unknown UD DEPREL: dobj
 [Line                   158]: Unknown UD DEPREL: mwe
 [Line                   159]: Unknown UD DEPREL: mwe
-[Line                   193]: Unknown UD DEPREL: dobj
-[Line                   199]: Unknown UD DEPREL: dobj
-[Line                   223]: Unknown UD DEPREL: dobj
-[Line                   255]: Unknown UD DEPREL: dobj
-[Line                   284]: Unknown UD DEPREL: dobj
-[Line                   291]: Unknown UD DEPREL: dobj
-[Line                   310]: Unknown UD DEPREL: dobj
-[Line                   316]: Unknown UD DEPREL: dobj
+[Line                   410]: Unknown UD DEPREL: name
+[Line                   666]: Unknown UD DEPREL: auxpass:reflex
+[Line                   751]: Unknown UD DEPREL: nsubjpass
+[Line                   752]: Unknown UD DEPREL: auxpass:reflex
+[Line                   956]: Unknown UD DEPREL: mwe
+[Line                   1081]: Unknown UD DEPREL: mwe
+[Line                   1082]: Unknown UD DEPREL: mwe
+[Line                   1111]: Unknown UD DEPREL: auxpass:reflex
+[Line                   1114]: Unknown UD DEPREL: csubjpass
+[Line                   1281]: Unknown UD DEPREL: mwe
+[Line                   1416]: Unknown UD DEPREL: mwe
+[Line                   1468]: Unknown UD DEPREL: mwe
+[Line                   1469]: Unknown UD DEPREL: auxpass:reflex
+[Line                   1473]: Unknown UD DEPREL: nsubjpass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 10059 errors
-Syntax errors: 10059
+*** FAILED *** with 3833 errors
+Syntax errors: 3833
 
 
 ******************
