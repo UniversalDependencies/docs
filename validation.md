@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-16T20:43:46Z">2017-01-16T20:43:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-16T21:15:01Z">2017-01-16T21:15:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1042,7 +1042,7 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T20:41:59Z">2017-01-16T20:41:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T21:13:23Z">2017-01-16T21:13:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1050,11 +1050,9 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 [Line                   115]: Unknown UD DEPREL: auxpass
 [Line                   128]: Unknown UD DEPREL: auxpass:reflex
-[Line                   170]: Unknown UD DEPREL: name
 [Line                   203]: Unknown UD DEPREL: auxpass
 [Line                   207]: Unknown UD DEPREL: nsubj:pass
 [Line                   231]: Unknown UD DEPREL: auxpass:reflex
-[Line                   253]: Unknown UD DEPREL: name
 [Line                   723]: Unknown UD DEPREL: mwe
 [Line                   724]: Unknown UD DEPREL: mwe
 [Line                   773]: Unknown UD DEPREL: auxpass:reflex
@@ -1067,9 +1065,11 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 [Line                   1088]: Unknown UD DEPREL: auxpass
 [Line                   1091]: Unknown UD DEPREL: nsubj:pass
 [Line                   1138]: Unknown UD DEPREL: auxpass
+[Line                   1350]: Unknown UD DEPREL: mwe
+[Line                   1399]: Unknown UD DEPREL: foreign
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 4376 errors
-Syntax errors: 4376
+*** FAILED *** with 2923 errors
+Syntax errors: 2923
 
 
 ******************
@@ -1096,36 +1096,36 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 [Line                   981]: Unknown UD DEPREL: auxpass
 [Line                   982]: Unknown UD DEPREL: auxpass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 2894 errors
-Syntax errors: 2894
+*** FAILED *** with 2387 errors
+Syntax errors: 2387
 
 
 ******************
 
 python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
-[Line                   17]: Unknown UD DEPREL: name
-[Line                   35]: Unknown UD DEPREL: name
 [Line                   329]: Unknown UD DEPREL: auxpass
 [Line                   332]: Unknown UD DEPREL: nsubj:pass
-[Line                   364]: Unknown UD DEPREL: name
 [Line                   368]: Unknown UD DEPREL: nsubj:pass
 [Line                   371]: Unknown UD DEPREL: auxpass:reflex
-[Line                   413]: Unknown UD DEPREL: name
 [Line                   463]: Unknown UD DEPREL: auxpass:reflex
 [Line                   557]: Unknown UD DEPREL: nsubj:pass
 [Line                   558]: Unknown UD DEPREL: auxpass
 [Line                   701]: Unknown UD DEPREL: auxpass:reflex
-[Line                   919]: Unknown UD DEPREL: name
-[Line                   926]: Unknown UD DEPREL: name
 [Line                   934]: Unknown UD DEPREL: mwe
-[Line                   988]: Unknown UD DEPREL: name
 [Line                   1108]: Unknown UD DEPREL: neg
-[Line                   1173]: Unknown UD DEPREL: name
-[Line                   1254]: Unknown UD DEPREL: name
+[Line                   1418]: Unknown UD DEPREL: mwe
+[Line                   1419]: Unknown UD DEPREL: mwe
+[Line                   1572]: Unknown UD DEPREL: nsubj:pass
+[Line                   1577]: Unknown UD DEPREL: auxpass:reflex
+[Line                   1680]: Unknown UD DEPREL: nsubj:pass
+[Line                   1681]: Unknown UD DEPREL: auxpass:reflex
+[Line                   1879]: Unknown UD DEPREL: foreign
+[Line                   1880]: Unknown UD DEPREL: foreign
+[Line                   1916]: Unknown UD DEPREL: auxpass:reflex
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 20196 errors
-Syntax errors: 20196
+*** FAILED *** with 12621 errors
+Syntax errors: 12621
 
 
 ******************
@@ -1134,7 +1134,6 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
 [Line                   28]: Unknown UD DEPREL: auxpass
 [Line                   31]: Unknown UD DEPREL: nsubj:pass
-[Line                   97]: Unknown UD DEPREL: name
 [Line                   115]: Unknown UD DEPREL: nsubj:pass
 [Line                   116]: Unknown UD DEPREL: auxpass
 [Line                   188]: Unknown UD DEPREL: nsubj:pass
@@ -1142,30 +1141,27 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 [Line                   247]: Unknown UD DEPREL: auxpass:reflex
 [Line                   255]: Unknown UD DEPREL: csubj:pass
 [Line                   256]: Unknown UD DEPREL: auxpass:reflex
-[Line                   267]: Unknown UD DEPREL: name
 [Line                   326]: Unknown UD DEPREL: mwe
 [Line                   327]: Unknown UD DEPREL: mwe
-[Line                   330]: Unknown UD DEPREL: name
-[Line                   445]: Unknown UD DEPREL: name
-[Line                   454]: Unknown UD DEPREL: name
-[Line                   456]: Unknown UD DEPREL: name
-[Line                   507]: Unknown UD DEPREL: name
-[Line                   602]: Unknown UD DEPREL: name
+[Line                   630]: Unknown UD DEPREL: auxpass:reflex
+[Line                   732]: Unknown UD DEPREL: mwe
+[Line                   762]: Unknown UD DEPREL: mwe
+[Line                   956]: Unknown UD DEPREL: nsubj:pass
+[Line                   964]: Unknown UD DEPREL: auxpass:reflex
+[Line                   977]: Unknown UD DEPREL: auxpass
+[Line                   978]: Unknown UD DEPREL: nsubj:pass
+[Line                   986]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 4752 errors
-Syntax errors: 4752
+*** FAILED *** with 3024 errors
+Syntax errors: 3024
 
 
 ******************
 
 python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
-[Line                   11]: Unknown UD DEPREL: name
-[Line                   17]: Unknown UD DEPREL: name
-[Line                   30]: Unknown UD DEPREL: name
 [Line                   158]: Unknown UD DEPREL: mwe
 [Line                   159]: Unknown UD DEPREL: mwe
-[Line                   410]: Unknown UD DEPREL: name
 [Line                   666]: Unknown UD DEPREL: auxpass:reflex
 [Line                   751]: Unknown UD DEPREL: nsubj:pass
 [Line                   752]: Unknown UD DEPREL: auxpass:reflex
@@ -1179,9 +1175,13 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 [Line                   1468]: Unknown UD DEPREL: mwe
 [Line                   1469]: Unknown UD DEPREL: auxpass:reflex
 [Line                   1473]: Unknown UD DEPREL: nsubj:pass
+[Line                   1542]: Unknown UD DEPREL: mwe
+[Line                   1543]: Unknown UD DEPREL: mwe
+[Line                   1620]: Unknown UD DEPREL: mwe
+[Line                   1621]: Unknown UD DEPREL: mwe
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 3833 errors
-Syntax errors: 3833
+*** FAILED *** with 2953 errors
+Syntax errors: 2953
 
 
 ******************
