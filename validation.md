@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-16T21:15:01Z">2017-01-16T21:15:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-16T21:37:20Z">2017-01-16T21:37:20 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1042,11 +1042,11 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T21:13:23Z">2017-01-16T21:13:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T21:35:05Z">2017-01-16T21:35:05 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 [Line                   115]: Unknown UD DEPREL: auxpass
 [Line                   128]: Unknown UD DEPREL: auxpass:reflex
@@ -1074,7 +1074,7 @@ Syntax errors: 2923
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
 [Line                   71]: Unknown UD DEPREL: auxpass:reflex
 [Line                   75]: Unknown UD DEPREL: nsubj:pass
@@ -1102,7 +1102,7 @@ Syntax errors: 2387
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 [Line                   329]: Unknown UD DEPREL: auxpass
 [Line                   332]: Unknown UD DEPREL: nsubj:pass
@@ -1130,7 +1130,7 @@ Syntax errors: 12621
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
 [Line                   28]: Unknown UD DEPREL: auxpass
 [Line                   31]: Unknown UD DEPREL: nsubj:pass
@@ -1158,7 +1158,7 @@ Syntax errors: 3024
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
 [Line                   158]: Unknown UD DEPREL: mwe
 [Line                   159]: Unknown UD DEPREL: mwe
@@ -1193,7 +1193,7 @@ Syntax errors: 2953
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T20:36:35Z">2017-01-16T20:36:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T21:36:42Z">2017-01-16T21:36:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1302,7 +1302,7 @@ Syntax errors: 34898
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T20:37:17Z">2017-01-16T20:37:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T21:37:17Z">2017-01-16T21:37:17 zulu</time></span>
 </div>
 <div>
 <pre>
