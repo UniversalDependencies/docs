@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-16T19:35:39Z">2017-01-16T19:35:39 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-16T20:00:01Z">2017-01-16T20:00:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1042,7 +1042,7 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T15:38:19Z">2017-01-16T15:38:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T19:58:17Z">2017-01-16T19:58:17 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1068,22 +1068,7 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 [Line                   207]: Unknown UD DEPREL: nsubjpass
 [Line                   231]: Unknown UD DEPREL: auxpass:reflex
 ...suppressing further errors regarding Syntax
-[Line                   46835]: Unknown attribute-value pair NumType=Gen
-[Line                   46948]: Unknown attribute-value pair NumType=Gen
-[Line                   77685]: Unknown attribute-value pair NumType=Gen
-[Line                   77688]: Unknown attribute-value pair NumType=Gen
-[Line                   77692]: Unknown attribute-value pair NumType=Gen
-[Line                   82891]: Unknown attribute-value pair NumType=Gen
-[Line                   86233]: Unknown attribute-value pair NumType=Gen
-[Line                   119941]: Unknown attribute-value pair NumType=Gen
-[Line                   130331]: Unknown attribute-value pair NumType=Gen
-[Line                   130384]: Unknown attribute-value pair NumType=Gen
-[Line                   130526]: Unknown attribute-value pair NumType=Gen
-[Line                   131837]: Unknown attribute-value pair NumType=Gen
-[Line                   137954]: Unknown attribute-value pair NumType=Gen
-[Line                   172522]: Unknown attribute-value pair NumType=Gen
-*** FAILED *** with 12925 errors
-Morpho errors: 14
+*** FAILED *** with 12911 errors
 Syntax errors: 12911
 
 
@@ -1111,13 +1096,7 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 [Line                   326]: Unknown UD DEPREL: dobj
 [Line                   355]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-[Line                   3961]: Unknown attribute-value pair NumType=Gen
-[Line                   23828]: Unknown attribute-value pair NumType=Gen
-[Line                   47784]: Unknown attribute-value pair NumType=Gen
-[Line                   100691]: Unknown attribute-value pair NumType=Gen
-[Line                   132917]: Unknown attribute-value pair NumType=Gen
-*** FAILED *** with 10054 errors
-Morpho errors: 5
+*** FAILED *** with 10049 errors
 Syntax errors: 10049
 
 
@@ -1145,28 +1124,7 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 [Line                   353]: Unknown UD DEPREL: dobj
 [Line                   364]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
-[Line                   7989]: Unknown attribute-value pair NumType=Gen
-[Line                   12480]: Unknown attribute-value pair NumType=Gen
-[Line                   67284]: Unknown attribute-value pair NumType=Gen
-[Line                   78584]: Unknown attribute-value pair NumType=Gen
-[Line                   111632]: Unknown attribute-value pair NumType=Gen
-[Line                   131159]: Unknown attribute-value pair NumType=Gen
-[Line                   266888]: Unknown attribute-value pair NumType=Gen
-[Line                   267314]: Unknown attribute-value pair NumType=Gen
-[Line                   282330]: Unknown attribute-value pair NumType=Gen
-[Line                   299353]: Unknown attribute-value pair NumType=Gen
-[Line                   381781]: Unknown attribute-value pair NumType=Gen
-[Line                   402866]: Unknown attribute-value pair NumType=Gen
-[Line                   413044]: Unknown attribute-value pair NumType=Gen
-[Line                   414883]: Unknown attribute-value pair NumType=Gen
-[Line                   417456]: Unknown attribute-value pair NumType=Gen
-[Line                   422230]: Unknown attribute-value pair NumType=Gen
-[Line                   495967]: Unknown attribute-value pair NumType=Gen
-[Line                   502067]: Unknown attribute-value pair NumType=Gen
-[Line                   502083]: Unknown attribute-value pair NumType=Gen
-...suppressing further errors regarding Morpho
-*** FAILED *** with 59137 errors
-Morpho errors: 31
+*** FAILED *** with 59106 errors
 Syntax errors: 59106
 
 
@@ -1222,12 +1180,7 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 [Line                   310]: Unknown UD DEPREL: dobj
 [Line                   316]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-[Line                   21416]: Unknown attribute-value pair NumType=Gen
-[Line                   26133]: Unknown attribute-value pair NumType=Gen
-[Line                   60238]: Unknown attribute-value pair NumType=Gen
-[Line                   92795]: Unknown attribute-value pair NumType=Gen
-*** FAILED *** with 10063 errors
-Morpho errors: 4
+*** FAILED *** with 10059 errors
 Syntax errors: 10059
 
 
