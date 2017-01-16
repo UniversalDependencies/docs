@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-14T12:51:04Z">2017-01-14T12:51:04 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-16T15:40:07Z">2017-01-16T15:40:07 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1042,34 +1042,14 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:50:55Z">2016-12-23T09:50:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-16T15:38:19Z">2017-01-16T15:38:19 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
-[Line                   4]: Unknown attribute-value pair Negative=Pos
-[Line                   6]: Unknown attribute-value pair Negative=Pos
-[Line                   11]: Unknown attribute-value pair Negative=Pos
-[Line                   12]: Unknown attribute-value pair Negative=Pos
-[Line                   13]: Unknown attribute-value pair Negative=Pos
-[Line                   18]: Unknown attribute-value pair Negative=Pos
-[Line                   19]: Unknown attribute-value pair Negative=Pos
 [Line                   19]: Unknown UD DEPREL: dobj
-[Line                   20]: Unknown UPOS tag: CONJ
-[Line                   21]: Unknown attribute-value pair Negative=Pos
-[Line                   27]: Unknown attribute-value pair Negative=Pos
-[Line                   28]: Unknown attribute-value pair Negative=Pos
-[Line                   29]: Unknown attribute-value pair Negative=Pos
 [Line                   29]: Unknown UD DEPREL: dobj
-[Line                   30]: Unknown attribute-value pair Negative=Pos
-[Line                   31]: Unknown attribute-value pair Negative=Pos
-[Line                   32]: Unknown attribute-value pair Negative=Pos
-[Line                   33]: Unknown attribute-value pair Negative=Pos
-[Line                   34]: Unknown attribute-value pair Negative=Pos
-[Line                   40]: Unknown attribute-value pair Negative=Pos
-[Line                   44]: Unknown attribute-value pair Negative=Neg
-...suppressing further errors regarding Morpho
 [Line                   49]: Unknown UD DEPREL: dobj
 [Line                   57]: Unknown UD DEPREL: dobj
 [Line                   67]: Unknown UD DEPREL: dobj
@@ -1088,37 +1068,31 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 [Line                   207]: Unknown UD DEPREL: nsubjpass
 [Line                   231]: Unknown UD DEPREL: auxpass:reflex
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 108186 errors
-Morpho errors: 95275
+[Line                   46835]: Unknown attribute-value pair NumType=Gen
+[Line                   46948]: Unknown attribute-value pair NumType=Gen
+[Line                   77685]: Unknown attribute-value pair NumType=Gen
+[Line                   77688]: Unknown attribute-value pair NumType=Gen
+[Line                   77692]: Unknown attribute-value pair NumType=Gen
+[Line                   82891]: Unknown attribute-value pair NumType=Gen
+[Line                   86233]: Unknown attribute-value pair NumType=Gen
+[Line                   119941]: Unknown attribute-value pair NumType=Gen
+[Line                   130331]: Unknown attribute-value pair NumType=Gen
+[Line                   130384]: Unknown attribute-value pair NumType=Gen
+[Line                   130526]: Unknown attribute-value pair NumType=Gen
+[Line                   131837]: Unknown attribute-value pair NumType=Gen
+[Line                   137954]: Unknown attribute-value pair NumType=Gen
+[Line                   172522]: Unknown attribute-value pair NumType=Gen
+*** FAILED *** with 12925 errors
+Morpho errors: 14
 Syntax errors: 12911
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
-[Line                   4]: Unknown attribute-value pair Negative=Pos
-[Line                   6]: Unknown attribute-value pair Negative=Pos
-[Line                   10]: Unknown attribute-value pair Negative=Pos
 [Line                   10]: Unknown UD DEPREL: dobj
-[Line                   11]: Unknown attribute-value pair Negative=Pos
-[Line                   13]: Unknown attribute-value pair Negative=Pos
-[Line                   14]: Unknown attribute-value pair Negative=Pos
-[Line                   15]: Unknown attribute-value pair Negative=Pos
-[Line                   20]: Unknown attribute-value pair Negative=Pos
-[Line                   21]: Unknown attribute-value pair Negative=Pos
-[Line                   22]: Unknown attribute-value pair Negative=Pos
-[Line                   23]: Unknown attribute-value pair Negative=Pos
-[Line                   24]: Unknown attribute-value pair Foreign=Foreign
-[Line                   24]: Unknown attribute-value pair Negative=Pos
-[Line                   28]: Unknown attribute-value pair Negative=Pos
-[Line                   29]: Unknown attribute-value pair Negative=Pos
 [Line                   29]: Unknown UD DEPREL: dobj
-[Line                   31]: Unknown attribute-value pair Negative=Neg
-[Line                   33]: Unknown attribute-value pair Negative=Pos
-[Line                   38]: Unknown attribute-value pair Negative=Pos
-[Line                   40]: Unknown attribute-value pair Negative=Pos
-...suppressing further errors regarding Morpho
 [Line                   71]: Unknown UD DEPREL: auxpass:reflex
 [Line                   75]: Unknown UD DEPREL: nsubjpass
 [Line                   103]: Unknown UD DEPREL: dobj
@@ -1137,38 +1111,23 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 [Line                   326]: Unknown UD DEPREL: dobj
 [Line                   355]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 89905 errors
-Morpho errors: 79856
+[Line                   3961]: Unknown attribute-value pair NumType=Gen
+[Line                   23828]: Unknown attribute-value pair NumType=Gen
+[Line                   47784]: Unknown attribute-value pair NumType=Gen
+[Line                   100691]: Unknown attribute-value pair NumType=Gen
+[Line                   132917]: Unknown attribute-value pair NumType=Gen
+*** FAILED *** with 10054 errors
+Morpho errors: 5
 Syntax errors: 10049
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
-[Line                   3]: Unknown attribute-value pair Negative=Pos
-[Line                   5]: Unknown attribute-value pair Negative=Pos
-[Line                   7]: Unknown attribute-value pair Negative=Pos
-[Line                   12]: Unknown attribute-value pair Negative=Pos
-[Line                   16]: Unknown attribute-value pair Negative=Pos
-[Line                   17]: Unknown attribute-value pair Negative=Pos
 [Line                   17]: Unknown UD DEPREL: name
-[Line                   25]: Unknown attribute-value pair Negative=Pos
-[Line                   26]: Unknown attribute-value pair Negative=Pos
-[Line                   28]: Unknown attribute-value pair Negative=Pos
-[Line                   29]: Unknown attribute-value pair Negative=Pos
-[Line                   31]: Unknown attribute-value pair Negative=Pos
-[Line                   32]: Unknown attribute-value pair Negative=Pos
-[Line                   33]: Unknown attribute-value pair Negative=Pos
-[Line                   34]: Unknown attribute-value pair Negative=Pos
-[Line                   35]: Unknown attribute-value pair Negative=Pos
 [Line                   35]: Unknown UD DEPREL: name
-[Line                   38]: Unknown attribute-value pair Negative=Pos
-[Line                   39]: Unknown attribute-value pair Negative=Pos
-[Line                   40]: Unknown attribute-value pair Negative=Pos
 [Line                   40]: Unknown UD DEPREL: dobj
-[Line                   42]: Unknown attribute-value pair Negative=Pos
-...suppressing further errors regarding Morpho
 [Line                   50]: Unknown UD DEPREL: dobj
 [Line                   62]: Unknown UD DEPREL: dobj
 [Line                   84]: Unknown UD DEPREL: dobj
@@ -1186,38 +1145,38 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 [Line                   353]: Unknown UD DEPREL: dobj
 [Line                   364]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 493309 errors
-Morpho errors: 434203
+[Line                   7989]: Unknown attribute-value pair NumType=Gen
+[Line                   12480]: Unknown attribute-value pair NumType=Gen
+[Line                   67284]: Unknown attribute-value pair NumType=Gen
+[Line                   78584]: Unknown attribute-value pair NumType=Gen
+[Line                   111632]: Unknown attribute-value pair NumType=Gen
+[Line                   131159]: Unknown attribute-value pair NumType=Gen
+[Line                   266888]: Unknown attribute-value pair NumType=Gen
+[Line                   267314]: Unknown attribute-value pair NumType=Gen
+[Line                   282330]: Unknown attribute-value pair NumType=Gen
+[Line                   299353]: Unknown attribute-value pair NumType=Gen
+[Line                   381781]: Unknown attribute-value pair NumType=Gen
+[Line                   402866]: Unknown attribute-value pair NumType=Gen
+[Line                   413044]: Unknown attribute-value pair NumType=Gen
+[Line                   414883]: Unknown attribute-value pair NumType=Gen
+[Line                   417456]: Unknown attribute-value pair NumType=Gen
+[Line                   422230]: Unknown attribute-value pair NumType=Gen
+[Line                   495967]: Unknown attribute-value pair NumType=Gen
+[Line                   502067]: Unknown attribute-value pair NumType=Gen
+[Line                   502083]: Unknown attribute-value pair NumType=Gen
+...suppressing further errors regarding Morpho
+*** FAILED *** with 59137 errors
+Morpho errors: 31
 Syntax errors: 59106
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
-[Line                   3]: Unknown attribute-value pair Negative=Pos
-[Line                   4]: Unknown attribute-value pair Negative=Pos
-[Line                   7]: Unknown UPOS tag: CONJ
-[Line                   12]: Unknown attribute-value pair Negative=Pos
-[Line                   13]: Unknown attribute-value pair Negative=Pos
-[Line                   14]: Unknown attribute-value pair Negative=Pos
-[Line                   16]: Unknown attribute-value pair Negative=Pos
 [Line                   16]: Unknown UD DEPREL: dobj
-[Line                   17]: Unknown attribute-value pair Negative=Pos
-[Line                   18]: Unknown attribute-value pair Negative=Pos
-[Line                   19]: Unknown UPOS tag: CONJ
-[Line                   20]: Unknown attribute-value pair Negative=Pos
-[Line                   25]: Unknown attribute-value pair Negative=Pos
-[Line                   26]: Unknown attribute-value pair Negative=Pos
-[Line                   27]: Unknown attribute-value pair Negative=Pos
-[Line                   28]: Unknown attribute-value pair Negative=Pos
 [Line                   28]: Unknown UD DEPREL: auxpass
-[Line                   29]: Unknown attribute-value pair Negative=Pos
-[Line                   30]: Unknown attribute-value pair Negative=Pos
-[Line                   31]: Unknown attribute-value pair Negative=Pos
 [Line                   31]: Unknown UD DEPREL: nsubjpass
-[Line                   34]: Unknown attribute-value pair Negative=Pos
-...suppressing further errors regarding Morpho
 [Line                   50]: Unknown UD DEPREL: dobj
 [Line                   61]: Unknown UD DEPREL: dobj
 [Line                   93]: Unknown UD DEPREL: dobj
@@ -1235,38 +1194,17 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 [Line                   221]: Unknown UD DEPREL: dobj
 [Line                   224]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 122783 errors
-Morpho errors: 108605
+*** FAILED *** with 14178 errors
 Syntax errors: 14178
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
-[Line                   4]: Unknown attribute-value pair Negative=Pos
-[Line                   5]: Unknown UPOS tag: CONJ
-[Line                   6]: Unknown attribute-value pair Negative=Pos
-[Line                   10]: Unknown attribute-value pair Negative=Pos
-[Line                   11]: Unknown attribute-value pair Negative=Pos
 [Line                   11]: Unknown UD DEPREL: name
-[Line                   15]: Unknown attribute-value pair Negative=Pos
-[Line                   16]: Unknown attribute-value pair Negative=Pos
-[Line                   17]: Unknown attribute-value pair Negative=Pos
 [Line                   17]: Unknown UD DEPREL: name
-[Line                   19]: Unknown attribute-value pair Negative=Pos
-[Line                   21]: Unknown attribute-value pair Negative=Pos
-[Line                   23]: Unknown attribute-value pair Negative=Pos
-[Line                   25]: Unknown UPOS tag: CONJ
-[Line                   27]: Unknown attribute-value pair Negative=Pos
-[Line                   28]: Unknown attribute-value pair Negative=Pos
-[Line                   29]: Unknown attribute-value pair Negative=Pos
-[Line                   30]: Unknown attribute-value pair Negative=Pos
 [Line                   30]: Unknown UD DEPREL: name
-[Line                   32]: Unknown attribute-value pair Negative=Pos
-[Line                   33]: Unknown attribute-value pair Negative=Pos
-[Line                   35]: Unknown attribute-value pair Negative=Pos
-...suppressing further errors regarding Morpho
 [Line                   39]: Unknown UD DEPREL: dobj
 [Line                   44]: Unknown UD DEPREL: dobj
 [Line                   93]: Unknown UD DEPREL: dobj
@@ -1284,8 +1222,12 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 [Line                   310]: Unknown UD DEPREL: dobj
 [Line                   316]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 88806 errors
-Morpho errors: 78747
+[Line                   21416]: Unknown attribute-value pair NumType=Gen
+[Line                   26133]: Unknown attribute-value pair NumType=Gen
+[Line                   60238]: Unknown attribute-value pair NumType=Gen
+[Line                   92795]: Unknown attribute-value pair NumType=Gen
+*** FAILED *** with 10063 errors
+Morpho errors: 4
 Syntax errors: 10059
 
 
