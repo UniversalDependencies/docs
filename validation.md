@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-17T10:04:46Z">2017-01-17T10:04:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-17T10:07:01Z">2017-01-17T10:07:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5373,104 +5373,104 @@ Syntax errors: 23
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:33:12Z">2016-12-06T13:33:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T10:06:32Z">2017-01-17T10:06:32 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-dev.conllu
 
-[Line                   4]: Unknown UD DEPREL: dobj
 [Line                   6]: Unknown attribute-value pair Negative=Pos
 [Line                   6]: Unknown UPOS tag: CONJ
-[Line                   8]: Unknown UD DEPREL: dobj
-[Line                   11]: Unknown attribute-value pair Negative=Neg
-[Line                   11]: Unknown UD DEPREL: neg
-[Line                   19]: Unknown UD DEPREL: dobj
-[Line                   26]: Unknown UD DEPREL: dobj
-[Line                   29]: Unknown attribute-value pair Negative=Pos
-[Line                   37]: Unknown attribute-value pair Negative=Neg
-[Line                   37]: Unknown UD DEPREL: neg
-[Line                   38]: Unknown UD DEPREL: auxpass
-[Line                   79]: Unknown UD DEPREL: dobj
-[Line                   89]: Unknown UD DEPREL: nsubjpass
-[Line                   91]: Unknown UD DEPREL: name
-[Line                   95]: Unknown UD DEPREL: dobj
-[Line                   96]: Unknown UD DEPREL: auxpass
-[Line                   101]: Unknown UD DEPREL: name
-[Line                   115]: Unknown UD DEPREL: name
-[Line                   125]: Unknown UD DEPREL: name
-[Line                   128]: Unknown attribute-value pair Negative=Pos
-[Line                   128]: Unknown UPOS tag: CONJ
-[Line                   139]: Unknown attribute-value pair Negative=Pos
-[Line                   139]: Unknown UPOS tag: CONJ
-[Line                   141]: Unknown UD DEPREL: mwe
-[Line                   157]: Unknown UD DEPREL: dobj
-[Line                   161]: Unknown UD DEPREL: dobj
-[Line                   163]: Unknown attribute-value pair Negative=Pos
-[Line                   163]: Unknown UPOS tag: CONJ
-[Line                   164]: Unknown UD DEPREL: dobj
-[Line                   166]: Unknown attribute-value pair Negative=Pos
+[Line                   12]: Unknown UD DEPREL: mwe
+[Line                   15]: Unknown UD DEPREL: dobj
+[Line                   19]: Unknown UD DEPREL: name
+[Line                   32]: Unknown UD DEPREL: dobj
+[Line                   48]: Unknown attribute-value pair Negative=Pos
+[Line                   49]: Unknown attribute-value pair Negative=Neg
+[Line                   49]: Unknown UD DEPREL: neg
+[Line                   60]: Unknown attribute-value pair Negative=Pos
+[Line                   60]: Unknown UPOS tag: CONJ
+[Line                   79]: Unknown UD DEPREL: mwe
+[Line                   80]: Unknown UD DEPREL: mwe
+[Line                   93]: Unknown UD DEPREL: mwe
+[Line                   97]: Unknown UD DEPREL: mwe
+[Line                   99]: Unknown attribute-value pair Negative=Pos
+[Line                   99]: Unknown UPOS tag: CONJ
+[Line                   103]: Unknown UD DEPREL: dobj
+[Line                   106]: Unknown UD DEPREL: dobj
+[Line                   119]: Unknown UD DEPREL: mwe
+[Line                   149]: Unknown attribute-value pair Negative=Pos
+[Line                   149]: Unknown UPOS tag: CONJ
+[Line                   155]: Unknown UD DEPREL: mwe
+[Line                   162]: Unknown attribute-value pair Negative=Neg
+[Line                   162]: Unknown UD DEPREL: neg
+[Line                   170]: Unknown UD DEPREL: dobj
+[Line                   172]: Unknown attribute-value pair Negative=Pos
+[Line                   172]: Unknown UPOS tag: CONJ
+[Line                   181]: Unknown attribute-value pair Negative=Pos
+[Line                   181]: Unknown UD DEPREL: mwe
+[Line                   184]: Unknown attribute-value pair Negative=Neg
+[Line                   184]: Unknown UD DEPREL: neg
+[Line                   191]: Unknown UD DEPREL: dobj
+[Line                   208]: Unknown UD DEPREL: dobj
+[Line                   220]: Unknown attribute-value pair Negative=Neg
 ...suppressing further errors regarding Syntax
-[Line                   187]: Unknown attribute-value pair Negative=Neg
-[Line                   189]: Unknown attribute-value pair Negative=Pos
-[Line                   200]: Unknown attribute-value pair Negative=Pos
-[Line                   200]: Unknown UPOS tag: CONJ
-[Line                   220]: Unknown attribute-value pair Negative=Pos
-[Line                   220]: Unknown UPOS tag: CONJ
-[Line                   232]: Unknown attribute-value pair Negative=Pos
+[Line                   222]: Unknown attribute-value pair Negative=Pos
+[Line                   234]: Unknown attribute-value pair Negative=Pos
+[Line                   234]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 4934 errors
-Morpho errors: 2269
-Syntax errors: 2665
+*** FAILED *** with 38334 errors
+Morpho errors: 17481
+Syntax errors: 20853
 
 
 ******************
 
 python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conllu
 
-[Line                   10]: Unknown UD DEPREL: mwe
-[Line                   11]: Unknown UD DEPREL: mwe
-[Line                   24]: Unknown UD DEPREL: mwe
-[Line                   28]: Unknown UD DEPREL: mwe
-[Line                   30]: Unknown attribute-value pair Negative=Pos
-[Line                   30]: Unknown UPOS tag: CONJ
-[Line                   34]: Unknown UD DEPREL: dobj
-[Line                   37]: Unknown UD DEPREL: dobj
-[Line                   65]: Unknown attribute-value pair Negative=Pos
-[Line                   65]: Unknown UPOS tag: CONJ
-[Line                   71]: Unknown UD DEPREL: mwe
-[Line                   78]: Unknown attribute-value pair Negative=Neg
-[Line                   78]: Unknown UD DEPREL: neg
-[Line                   86]: Unknown UD DEPREL: dobj
-[Line                   88]: Unknown attribute-value pair Negative=Pos
-[Line                   88]: Unknown UPOS tag: CONJ
-[Line                   97]: Unknown attribute-value pair Negative=Pos
+[Line                   6]: Unknown attribute-value pair Negative=Pos
+[Line                   6]: Unknown UPOS tag: CONJ
+[Line                   12]: Unknown UD DEPREL: mwe
+[Line                   15]: Unknown UD DEPREL: dobj
+[Line                   19]: Unknown UD DEPREL: name
+[Line                   32]: Unknown UD DEPREL: dobj
+[Line                   48]: Unknown attribute-value pair Negative=Pos
+[Line                   49]: Unknown attribute-value pair Negative=Neg
+[Line                   49]: Unknown UD DEPREL: neg
+[Line                   60]: Unknown attribute-value pair Negative=Pos
+[Line                   60]: Unknown UPOS tag: CONJ
+[Line                   79]: Unknown UD DEPREL: mwe
+[Line                   80]: Unknown UD DEPREL: mwe
+[Line                   93]: Unknown UD DEPREL: mwe
 [Line                   97]: Unknown UD DEPREL: mwe
-[Line                   100]: Unknown attribute-value pair Negative=Neg
-[Line                   100]: Unknown UD DEPREL: neg
-[Line                   106]: Unknown UD DEPREL: mwe
-[Line                   107]: Unknown UD DEPREL: dobj
-[Line                   124]: Unknown UD DEPREL: dobj
-[Line                   136]: Unknown attribute-value pair Negative=Neg
-[Line                   137]: Unknown UD DEPREL: mwe
-[Line                   138]: Unknown attribute-value pair Negative=Pos
-[Line                   138]: Unknown UD DEPREL: mwe
-[Line                   144]: Unknown UD DEPREL: dobj
-[Line                   150]: Unknown attribute-value pair Negative=Pos
-[Line                   150]: Unknown UPOS tag: CONJ
-[Line                   153]: Unknown attribute-value pair Negative=Pos
-[Line                   153]: Unknown UPOS tag: CONJ
-[Line                   154]: Unknown UD DEPREL: dobj
-[Line                   157]: Unknown UD DEPREL: mwe
+[Line                   99]: Unknown attribute-value pair Negative=Pos
+[Line                   99]: Unknown UPOS tag: CONJ
+[Line                   103]: Unknown UD DEPREL: dobj
+[Line                   106]: Unknown UD DEPREL: dobj
+[Line                   119]: Unknown UD DEPREL: mwe
+[Line                   149]: Unknown attribute-value pair Negative=Pos
+[Line                   149]: Unknown UPOS tag: CONJ
+[Line                   155]: Unknown UD DEPREL: mwe
+[Line                   162]: Unknown attribute-value pair Negative=Neg
+[Line                   162]: Unknown UD DEPREL: neg
+[Line                   170]: Unknown UD DEPREL: dobj
+[Line                   172]: Unknown attribute-value pair Negative=Pos
+[Line                   172]: Unknown UPOS tag: CONJ
+[Line                   181]: Unknown attribute-value pair Negative=Pos
+[Line                   181]: Unknown UD DEPREL: mwe
+[Line                   184]: Unknown attribute-value pair Negative=Neg
+[Line                   184]: Unknown UD DEPREL: neg
+[Line                   191]: Unknown UD DEPREL: dobj
+[Line                   208]: Unknown UD DEPREL: dobj
+[Line                   220]: Unknown attribute-value pair Negative=Neg
 ...suppressing further errors regarding Syntax
-[Line                   233]: Unknown attribute-value pair Negative=Neg
-[Line                   240]: Unknown attribute-value pair Negative=Pos
-[Line                   251]: Unknown attribute-value pair Negative=Pos
-[Line                   251]: Unknown UPOS tag: CONJ
+[Line                   222]: Unknown attribute-value pair Negative=Pos
+[Line                   234]: Unknown attribute-value pair Negative=Pos
+[Line                   234]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 28740 errors
-Morpho errors: 13015
-Syntax errors: 15725
+*** FAILED *** with 38334 errors
+Morpho errors: 17481
+Syntax errors: 20853
 
 
 ******************
