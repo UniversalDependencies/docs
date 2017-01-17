@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-17T14:58:19Z">2017-01-17T14:58:19 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-17T15:17:01Z">2017-01-17T15:17:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1394,104 +1394,56 @@ Syntax errors: 8478
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:04:06Z">2016-12-06T13:04:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:16:46Z">2017-01-17T15:16:46 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
-[Line                   13]: Unknown UPOS tag: CONJ
-[Line                   27]: Unknown UD DEPREL: name
-[Line                   34]: Unknown UD DEPREL: neg
-[Line                   44]: Unknown UD DEPREL: dobj
-[Line                   49]: Unknown UD DEPREL: neg
-[Line                   51]: Unknown UD DEPREL: dobj
-[Line                   64]: Unknown UD DEPREL: name
-[Line                   86]: Unknown UD DEPREL: dobj
-[Line                   104]: Unknown UPOS tag: CONJ
-[Line                   112]: Unknown UD DEPREL: dobj
-[Line                   131]: Unknown UD DEPREL: dobj
-[Line                   135]: Unknown UD DEPREL: dobj
-[Line                   136]: Unknown UD DEPREL: name
-[Line                   167]: Unknown UD DEPREL: dobj
-[Line                   184]: Unknown UPOS tag: CONJ
-[Line                   199]: Unknown UD DEPREL: dobj
-[Line                   200]: Unknown UPOS tag: CONJ
-[Line                   207]: Unknown UD DEPREL: name
-[Line                   232]: Unknown UPOS tag: CONJ
-[Line                   242]: Unknown UD DEPREL: dobj
-[Line                   273]: Unknown UPOS tag: CONJ
-[Line                   285]: Unknown UD DEPREL: dobj
-[Line                   290]: Unknown UD DEPREL: name
-[Line                   291]: Unknown UPOS tag: CONJ
-[Line                   304]: Unknown UPOS tag: CONJ
-[Line                   306]: Unknown UD DEPREL: dobj
-[Line                   310]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-[Line                   384]: Unknown UPOS tag: CONJ
-[Line                   428]: Unknown UPOS tag: CONJ
-[Line                   456]: Unknown UPOS tag: CONJ
-[Line                   487]: Unknown UPOS tag: CONJ
-[Line                   522]: Unknown UPOS tag: CONJ
-[Line                   536]: Unknown UPOS tag: CONJ
-[Line                   609]: Unknown UPOS tag: CONJ
-[Line                   704]: Unknown UPOS tag: CONJ
-[Line                   747]: Unknown UPOS tag: CONJ
-[Line                   951]: Unknown UPOS tag: CONJ
-[Line                   990]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 698 errors
-Morpho errors: 141
-Syntax errors: 557
+[Line                   222]: Unknown UD DEPREL: expl:pv
+[Line                   993]: Unknown UD DEPREL: expl:pv
+[Line                   1341]: Unknown UD DEPREL: expl:pv
+[Line                   1483]: Unknown UD DEPREL: expl:pv
+[Line                   1988]: Unknown UD DEPREL: expl:pv
+[Line                   2466]: Unknown UD DEPREL: expl:pv
+[Line                   3366]: Unknown UD DEPREL: expl:pv
+[Line                   4016]: Unknown UD DEPREL: expl:pv
+[Line                   4501]: Unknown UD DEPREL: expl:pv
+[Line                   4817]: Unknown UD DEPREL: expl:pv
+[Line                   4832]: Unknown UD DEPREL: expl:pv
+[Line                   5096]: Unknown UD DEPREL: expl:pv
+[Line                   6068]: Unknown UD DEPREL: expl:pv
+[Line                   6485]: Unknown UD DEPREL: expl:pv
+*** FAILED *** with 14 errors
+Syntax errors: 14
 
 
 ******************
 
 python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
-[Line                   5]: Unknown UD DEPREL: dobj
-[Line                   7]: Unknown UD DEPREL: dobj
-[Line                   22]: Unknown UPOS tag: CONJ
-[Line                   29]: Unknown UD DEPREL: dobj
-[Line                   44]: Unknown UD DEPREL: dobj
-[Line                   72]: Unknown UD DEPREL: dobj
-[Line                   75]: Unknown UPOS tag: CONJ
-[Line                   78]: Unknown UD DEPREL: dobj
-[Line                   98]: Unknown UD DEPREL: name
-[Line                   123]: Unknown UPOS tag: CONJ
-[Line                   140]: Unknown UPOS tag: CONJ
-[Line                   144]: Unknown UD DEPREL: dobj
-[Line                   146]: Unknown UPOS tag: CONJ
-[Line                   149]: Unknown UPOS tag: CONJ
-[Line                   151]: Unknown UD DEPREL: dobj
-[Line                   168]: Unknown UD DEPREL: dobj
-[Line                   177]: Unknown UD DEPREL: dobj
-[Line                   203]: Unknown UD DEPREL: mwe
-[Line                   212]: Unknown UPOS tag: CONJ
-[Line                   217]: Unknown UD DEPREL: dobj
-[Line                   225]: Unknown UD DEPREL: dobj
-[Line                   230]: Unknown UD DEPREL: neg
-[Line                   240]: Unknown UPOS tag: CONJ
-[Line                   249]: Unknown UD DEPREL: dobj
-[Line                   257]: Unknown UD DEPREL: dobj
-[Line                   259]: Unknown UPOS tag: CONJ
-[Line                   275]: Unknown UD DEPREL: neg
-[Line                   281]: Unknown UD DEPREL: dobj
-[Line                   300]: Unknown UPOS tag: CONJ
-[Line                   333]: Unknown UPOS tag: CONJ
+[Line                   261]: Unknown UD DEPREL: expl:pv
+[Line                   282]: Unknown UD DEPREL: expl:pv
+[Line                   660]: Unknown UD DEPREL: expl:pv
+[Line                   775]: Unknown UD DEPREL: expl:pv
+[Line                   782]: Unknown UD DEPREL: expl:pv
+[Line                   828]: Unknown UD DEPREL: expl:pv
+[Line                   867]: Unknown UD DEPREL: expl:pv
+[Line                   1557]: Unknown UD DEPREL: expl:pv
+[Line                   1590]: Unknown UD DEPREL: expl:pv
+[Line                   1641]: Unknown UD DEPREL: expl:pv
+[Line                   1726]: Unknown UD DEPREL: expl:pv
+[Line                   1908]: Unknown UD DEPREL: expl:pv
+[Line                   2016]: Unknown UD DEPREL: expl:pv
+[Line                   2912]: Unknown UD DEPREL: expl:pv
+[Line                   3533]: Unknown UD DEPREL: expl:pv
+[Line                   4395]: Unknown UD DEPREL: expl:pv
+[Line                   4630]: Unknown UD DEPREL: expl:pv
+[Line                   4862]: Unknown UD DEPREL: expl:pv
+[Line                   5896]: Unknown UD DEPREL: expl:pv
 ...suppressing further errors regarding Syntax
-[Line                   1001]: Unknown UPOS tag: CONJ
-[Line                   1077]: Unknown UPOS tag: CONJ
-[Line                   1971]: Unknown UPOS tag: CONJ
-[Line                   2139]: Unknown UPOS tag: CONJ
-[Line                   2146]: Unknown UPOS tag: CONJ
-[Line                   2161]: Unknown UPOS tag: CONJ
-[Line                   2296]: Unknown UPOS tag: CONJ
-[Line                   2752]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 22518 errors
-Morpho errors: 3974
-Syntax errors: 18544
+*** FAILED *** with 444 errors
+Syntax errors: 444
 
 
 ******************
