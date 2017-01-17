@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-17T13:47:55Z">2017-01-17T13:47:55 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-17T13:52:45Z">2017-01-17T13:52:45 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1260,104 +1260,62 @@ Syntax errors: 11856
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T09:53:30Z">2017-01-17T09:53:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T13:52:43Z">2017-01-17T13:52:43 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
+python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
-[Line                   6]: Unknown attribute-value pair Negative=Pos
-[Line                   7]: Unknown attribute-value pair Negative=Neg
-[Line                   10]: Unknown attribute-value pair Negative=Pos
-[Line                   11]: Unknown UPOS tag: CONJ
-[Line                   12]: Unknown attribute-value pair Negative=Pos
-[Line                   13]: Unknown attribute-value pair Negative=Pos
-[Line                   14]: Unknown attribute-value pair Negative=Pos
-[Line                   14]: Unknown UD DEPREL: dobj
-[Line                   15]: Unknown attribute-value pair Negative=Pos
-[Line                   16]: Unknown attribute-value pair Negative=Pos
-[Line                   17]: Unknown attribute-value pair Negative=Pos
-[Line                   18]: Unknown attribute-value pair Negative=Pos
-[Line                   19]: Unknown attribute-value pair Negative=Pos
-[Line                   19]: Unknown UD DEPREL: dobj
-[Line                   21]: Unknown attribute-value pair Negative=Pos
-[Line                   22]: Unknown attribute-value pair Negative=Pos
-[Line                   24]: Unknown attribute-value pair Negative=Pos
-[Line                   25]: Unknown attribute-value pair Negative=Pos
-[Line                   29]: Unknown attribute-value pair Negative=Pos
-[Line                   30]: Unknown attribute-value pair Negative=Pos
-[Line                   31]: Unknown attribute-value pair Negative=Pos
-...suppressing further errors regarding Morpho
-[Line                   37]: Unknown UD DEPREL: auxpass:reflex
-[Line                   39]: Unknown UD DEPREL: nsubjpass
-[Line                   56]: Unknown UD DEPREL: dobj
-[Line                   71]: Unknown UD DEPREL: dobj
-[Line                   73]: Unknown UD DEPREL: auxpass:reflex
-[Line                   79]: Unknown UD DEPREL: nsubjpass
-[Line                   87]: Unknown UD DEPREL: dobj
-[Line                   103]: Unknown UD DEPREL: dobj
-[Line                   106]: Unknown UD DEPREL: auxpass:reflex
-[Line                   112]: Unknown UD DEPREL: nsubjpass
-[Line                   117]: Unknown UD DEPREL: dobj
-[Line                   141]: Unknown UD DEPREL: mwe
-[Line                   152]: Unknown UD DEPREL: mwe
-[Line                   174]: Unknown UD DEPREL: auxpass:reflex
-[Line                   176]: Unknown UD DEPREL: nsubjpass
-[Line                   193]: Unknown UD DEPREL: dobj
-[Line                   207]: Unknown UD DEPREL: mwe
+[Line                   39]: Unknown UD DEPREL: nsubj:pass
+[Line                   79]: Unknown UD DEPREL: nsubj:pass
+[Line                   112]: Unknown UD DEPREL: nsubj:pass
+[Line                   176]: Unknown UD DEPREL: nsubj:pass
+[Line                   217]: Unknown UD DEPREL: nsubj:pass
+[Line                   420]: Unknown UD DEPREL: nsubj:pass
+[Line                   597]: Unknown UD DEPREL: nsubj:pass
+[Line                   740]: Unknown UD DEPREL: nsubj:pass
+[Line                   772]: Unknown UD DEPREL: aux:pass
+[Line                   801]: Unknown UD DEPREL: nsubj:pass
+[Line                   883]: Unknown UD DEPREL: aux:pass
+[Line                   886]: Unknown UD DEPREL: nsubj:pass
+[Line                   911]: Unknown UD DEPREL: nsubj:pass
+[Line                   912]: Unknown UD DEPREL: aux:pass
+[Line                   928]: Unknown UD DEPREL: nsubj:pass
+[Line                   957]: Unknown UD DEPREL: aux:pass
+[Line                   1064]: Unknown UD DEPREL: nsubj:pass
+[Line                   1092]: Unknown UD DEPREL: nsubj:pass
+[Line                   1094]: Unknown UD DEPREL: aux:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 3502 errors
-Morpho errors: 3051
-Syntax errors: 451
+*** FAILED *** with 120 errors
+Syntax errors: 120
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
+python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
-[Line                   3]: Unknown attribute-value pair Negative=Pos
-[Line                   8]: Unknown attribute-value pair Negative=Pos
-[Line                   9]: Unknown attribute-value pair Negative=Pos
-[Line                   10]: Unknown UPOS tag: CONJ
-[Line                   11]: Unknown attribute-value pair Negative=Pos
-[Line                   20]: Unknown attribute-value pair Negative=Pos
-[Line                   22]: Unknown attribute-value pair Negative=Pos
-[Line                   23]: Unknown attribute-value pair Negative=Pos
-[Line                   23]: Unknown UD DEPREL: dobj
-[Line                   24]: Unknown attribute-value pair Negative=Pos
-[Line                   25]: Unknown attribute-value pair Negative=Pos
-[Line                   26]: Unknown UPOS tag: CONJ
-[Line                   27]: Unknown attribute-value pair Negative=Pos
-[Line                   30]: Unknown attribute-value pair Negative=Pos
-[Line                   30]: Unknown UD DEPREL: dobj
-[Line                   31]: Unknown UPOS tag: CONJ
-[Line                   32]: Unknown attribute-value pair Negative=Pos
-[Line                   33]: Unknown attribute-value pair Negative=Pos
-[Line                   34]: Unknown attribute-value pair Negative=Pos
-[Line                   35]: Unknown attribute-value pair Negative=Pos
-[Line                   37]: Unknown attribute-value pair Negative=Pos
-...suppressing further errors regarding Morpho
-[Line                   98]: Unknown UD DEPREL: dobj
-[Line                   174]: Unknown UD DEPREL: dobj
-[Line                   189]: Unknown UD DEPREL: mwe
-[Line                   244]: Unknown UD DEPREL: mwe
-[Line                   282]: Unknown UD DEPREL: dobj
-[Line                   287]: Unknown UD DEPREL: mwe
-[Line                   319]: Unknown UD DEPREL: dobj
-[Line                   336]: Unknown UD DEPREL: dobj
-[Line                   351]: Unknown UD DEPREL: mwe
-[Line                   357]: Unknown UD DEPREL: dobj
-[Line                   370]: Unknown UD DEPREL: dobj
-[Line                   378]: Unknown UD DEPREL: dobj
-[Line                   391]: Unknown UD DEPREL: dobj
-[Line                   396]: Unknown UD DEPREL: dobj
-[Line                   405]: Unknown UD DEPREL: mwe
-[Line                   412]: Unknown UD DEPREL: dobj
-[Line                   424]: Unknown UD DEPREL: dobj
+[Line                   278]: Unknown UD DEPREL: expl:pv
+[Line                   313]: Unknown UD DEPREL: expl:pv
+[Line                   346]: Unknown UD DEPREL: expl:pv
+[Line                   528]: Unknown UD DEPREL: nsubj:pass
+[Line                   567]: Unknown UD DEPREL: nsubj:pass
+[Line                   711]: Unknown UD DEPREL: nsubj:pass
+[Line                   755]: Unknown UD DEPREL: nsubj:pass
+[Line                   792]: Unknown UD DEPREL: nsubj:pass
+[Line                   829]: Unknown UD DEPREL: nsubj:pass
+[Line                   853]: Unknown UD DEPREL: nsubj:pass
+[Line                   854]: Unknown UD DEPREL: aux:pass
+[Line                   861]: Unknown UD DEPREL: aux:pass
+[Line                   902]: Unknown UD DEPREL: nsubj:pass
+[Line                   903]: Unknown UD DEPREL: aux:pass
+[Line                   924]: Unknown UD DEPREL: nsubj:pass
+[Line                   946]: Unknown UD DEPREL: expl:pv
+[Line                   1018]: Unknown UD DEPREL: nsubj:pass
+[Line                   1057]: Unknown UD DEPREL: nsubj:pass
+[Line                   1073]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 18989 errors
-Morpho errors: 17040
-Syntax errors: 1949
+*** FAILED *** with 448 errors
+Syntax errors: 448
 
 
 ******************
