@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-17T10:07:01Z">2017-01-17T10:07:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-17T10:39:21Z">2017-01-17T10:39:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1042,7 +1042,7 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T10:03:08Z">2017-01-17T10:03:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T10:37:43Z">2017-01-17T10:37:43 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1058,7 +1058,7 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 [Line                   514]: Unknown UD DEPREL: expl:pv
 [Line                   606]: Unknown UD DEPREL: expl:pv
 [Line                   784]: Unknown UD DEPREL: nsubj:pass
-[Line                   844]: Unknown UD DEPREL: foreign
+[Line                   844]: Unknown UD DEPREL: flat:foreign
 [Line                   914]: Unknown UD DEPREL: expl:pv
 [Line                   926]: Unknown UD DEPREL: expl:pv
 [Line                   938]: Unknown UD DEPREL: nsubj:pass
@@ -1082,16 +1082,16 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 [Line                   250]: Unknown UD DEPREL: nsubj:pass
 [Line                   340]: Unknown UD DEPREL: expl:pv
 [Line                   364]: Unknown UD DEPREL: expl:pv
-[Line                   381]: Unknown UD DEPREL: foreign
-[Line                   382]: Unknown UD DEPREL: foreign
+[Line                   381]: Unknown UD DEPREL: flat:foreign
+[Line                   382]: Unknown UD DEPREL: flat:foreign
 [Line                   484]: Unknown UD DEPREL: expl:pv
 [Line                   640]: Unknown UD DEPREL: aux:pass
 [Line                   666]: Unknown UD DEPREL: expl:pv
 [Line                   721]: Unknown UD DEPREL: expl:pv
 [Line                   737]: Unknown UD DEPREL: expl:pv
-[Line                   781]: Unknown UD DEPREL: foreign
-[Line                   785]: Unknown UD DEPREL: foreign
-[Line                   819]: Unknown UD DEPREL: foreign
+[Line                   781]: Unknown UD DEPREL: flat:foreign
+[Line                   785]: Unknown UD DEPREL: flat:foreign
+[Line                   819]: Unknown UD DEPREL: flat:foreign
 [Line                   857]: Unknown UD DEPREL: nsubj:pass
 [Line                   877]: Unknown UD DEPREL: expl:pv
 [Line                   940]: Unknown UD DEPREL: nsubj:pass
