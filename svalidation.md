@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- Syntactic validation'
 ---
 
-Regenerated <time class="timeago" datetime="2017-01-17T09:42:41Z">2017-01-17T09:42:41 zulu</time>
+Regenerated <time class="timeago" datetime="2017-01-17T10:01:59Z">2017-01-17T10:01:59 zulu</time>
 
 # Aux chain
 
@@ -19373,7 +19373,7 @@ Search expression: `AUX (<!aux&<!auxpass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_Croatian-dev">2500</a></td>
 </tr>
 <tr><td>UD_Czech</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_Czech-dev">6</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_Czech-dev">5388</a></td>
 </tr>
 <tr><td>UD_Czech-CAC</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_Czech-CAC-dev">22</a></td>
@@ -19526,7 +19526,7 @@ Search expression: `AUX (<!aux&<!auxpass) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech</span>
-<span class="widespan">6 hits</span>
+<span class="widespan">5388 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21auxpass%29+_&db=UD_Czech-dev">Go to search</a><p/>

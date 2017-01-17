@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-17T09:53:32Z">2017-01-17T09:53:32 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-17T10:04:46Z">2017-01-17T10:04:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1042,17 +1042,17 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T09:51:07Z">2017-01-17T09:51:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T10:03:08Z">2017-01-17T10:03:08 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 [Line                   43]: Unknown UD DEPREL: expl:pv
-[Line                   115]: Unknown UD DEPREL: auxpass
+[Line                   115]: Unknown UD DEPREL: aux:pass
 [Line                   144]: Unknown UD DEPREL: expl:pv
 [Line                   196]: Unknown UD DEPREL: expl:pv
-[Line                   203]: Unknown UD DEPREL: auxpass
+[Line                   203]: Unknown UD DEPREL: aux:pass
 [Line                   207]: Unknown UD DEPREL: nsubj:pass
 [Line                   241]: Unknown UD DEPREL: expl:pv
 [Line                   514]: Unknown UD DEPREL: expl:pv
@@ -1063,9 +1063,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 [Line                   926]: Unknown UD DEPREL: expl:pv
 [Line                   938]: Unknown UD DEPREL: nsubj:pass
 [Line                   1006]: Unknown UD DEPREL: expl:pv
-[Line                   1069]: Unknown UD DEPREL: auxpass
+[Line                   1069]: Unknown UD DEPREL: aux:pass
 [Line                   1071]: Unknown UD DEPREL: nsubj:pass
-[Line                   1088]: Unknown UD DEPREL: auxpass
+[Line                   1088]: Unknown UD DEPREL: aux:pass
 [Line                   1091]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 3795 errors
@@ -1074,7 +1074,7 @@ Syntax errors: 3795
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
 [Line                   75]: Unknown UD DEPREL: nsubj:pass
 [Line                   157]: Unknown UD DEPREL: expl:pv
@@ -1085,7 +1085,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 [Line                   381]: Unknown UD DEPREL: foreign
 [Line                   382]: Unknown UD DEPREL: foreign
 [Line                   484]: Unknown UD DEPREL: expl:pv
-[Line                   640]: Unknown UD DEPREL: auxpass
+[Line                   640]: Unknown UD DEPREL: aux:pass
 [Line                   666]: Unknown UD DEPREL: expl:pv
 [Line                   721]: Unknown UD DEPREL: expl:pv
 [Line                   737]: Unknown UD DEPREL: expl:pv
@@ -1102,18 +1102,18 @@ Syntax errors: 2604
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 [Line                   126]: Unknown UD DEPREL: expl:pv
 [Line                   172]: Unknown UD DEPREL: expl:pv
-[Line                   329]: Unknown UD DEPREL: auxpass
+[Line                   329]: Unknown UD DEPREL: aux:pass
 [Line                   332]: Unknown UD DEPREL: nsubj:pass
 [Line                   368]: Unknown UD DEPREL: nsubj:pass
 [Line                   381]: Unknown UD DEPREL: expl:pv
 [Line                   396]: Unknown UD DEPREL: expl:pv
 [Line                   452]: Unknown UD DEPREL: expl:pv
 [Line                   557]: Unknown UD DEPREL: nsubj:pass
-[Line                   558]: Unknown UD DEPREL: auxpass
+[Line                   558]: Unknown UD DEPREL: aux:pass
 [Line                   587]: Unknown UD DEPREL: expl:pv
 [Line                   634]: Unknown UD DEPREL: expl:pv
 [Line                   652]: Unknown UD DEPREL: expl:pv
@@ -1130,14 +1130,14 @@ Syntax errors: 17017
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
-[Line                   28]: Unknown UD DEPREL: auxpass
+[Line                   28]: Unknown UD DEPREL: aux:pass
 [Line                   31]: Unknown UD DEPREL: nsubj:pass
 [Line                   115]: Unknown UD DEPREL: nsubj:pass
-[Line                   116]: Unknown UD DEPREL: auxpass
+[Line                   116]: Unknown UD DEPREL: aux:pass
 [Line                   188]: Unknown UD DEPREL: nsubj:pass
-[Line                   191]: Unknown UD DEPREL: auxpass
+[Line                   191]: Unknown UD DEPREL: aux:pass
 [Line                   219]: Unknown UD DEPREL: expl:pv
 [Line                   255]: Unknown UD DEPREL: csubj:pass
 [Line                   277]: Unknown UD DEPREL: expl:pv
@@ -1149,7 +1149,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 [Line                   771]: Unknown UD DEPREL: expl:pv
 [Line                   914]: Unknown UD DEPREL: expl:pv
 [Line                   956]: Unknown UD DEPREL: nsubj:pass
-[Line                   977]: Unknown UD DEPREL: auxpass
+[Line                   977]: Unknown UD DEPREL: aux:pass
 [Line                   978]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 3936 errors
@@ -1158,7 +1158,7 @@ Syntax errors: 3936
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
 [Line                   143]: Unknown UD DEPREL: expl:pv
 [Line                   308]: Unknown UD DEPREL: expl:pv
