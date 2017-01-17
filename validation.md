@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-17T10:39:21Z">2017-01-17T10:39:21 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-17T11:16:37Z">2017-01-17T11:16:37 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1042,7 +1042,7 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T10:37:43Z">2017-01-17T10:37:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T11:14:59Z">2017-01-17T11:14:59 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1068,8 +1068,8 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 [Line                   1088]: Unknown UD DEPREL: aux:pass
 [Line                   1091]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 3795 errors
-Syntax errors: 3795
+*** FAILED *** with 3761 errors
+Syntax errors: 3761
 
 
 ******************
@@ -1096,8 +1096,8 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 [Line                   877]: Unknown UD DEPREL: expl:pv
 [Line                   940]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 2604 errors
-Syntax errors: 2604
+*** FAILED *** with 2559 errors
+Syntax errors: 2559
 
 
 ******************
@@ -1124,8 +1124,8 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 [Line                   970]: Unknown UD DEPREL: expl:pv
 [Line                   1073]: Unknown UD DEPREL: expl:pv
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 17017 errors
-Syntax errors: 17017
+*** FAILED *** with 16849 errors
+Syntax errors: 16849
 
 
 ******************
@@ -1152,8 +1152,8 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 [Line                   977]: Unknown UD DEPREL: aux:pass
 [Line                   978]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 3936 errors
-Syntax errors: 3936
+*** FAILED *** with 3902 errors
+Syntax errors: 3902
 
 
 ******************
@@ -1180,8 +1180,8 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 [Line                   838]: Unknown UD DEPREL: expl:pv
 [Line                   856]: Unknown UD DEPREL: expl:pv
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 3609 errors
-Syntax errors: 3609
+*** FAILED *** with 3574 errors
+Syntax errors: 3574
 
 
 ******************
