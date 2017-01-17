@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-17T15:17:01Z">2017-01-17T15:17:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-17T15:44:46Z">2017-01-17T15:44:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -241,11 +241,11 @@ Syntax errors: 16651
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T14:41:29Z">2017-01-17T14:41:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:41:00Z">2017-01-17T15:41:00 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
 
 [Line                   102]: Unknown UD DEPREL: flat:foreign
 [Line                   108]: Unknown UD DEPREL: flat:foreign
@@ -273,7 +273,7 @@ Syntax errors: 177
 
 ******************
 
-python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 
 [Line                   15]: Unknown UD DEPREL: flat:foreign
 [Line                   35]: Unknown UD DEPREL: flat:foreign
@@ -1000,11 +1000,11 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T13:29:13Z">2017-01-17T13:29:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:41:21Z">2017-01-17T15:41:21 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 [Line                   43]: Unknown UD DEPREL: expl:pv
 [Line                   115]: Unknown UD DEPREL: aux:pass
@@ -1032,7 +1032,7 @@ Syntax errors: 3761
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
 [Line                   75]: Unknown UD DEPREL: nsubj:pass
 [Line                   157]: Unknown UD DEPREL: expl:pv
@@ -1060,7 +1060,7 @@ Syntax errors: 2559
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 [Line                   126]: Unknown UD DEPREL: expl:pv
 [Line                   172]: Unknown UD DEPREL: expl:pv
@@ -1088,7 +1088,7 @@ Syntax errors: 16849
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
 [Line                   28]: Unknown UD DEPREL: aux:pass
 [Line                   31]: Unknown UD DEPREL: nsubj:pass
@@ -1116,7 +1116,7 @@ Syntax errors: 3902
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
 [Line                   143]: Unknown UD DEPREL: expl:pv
 [Line                   308]: Unknown UD DEPREL: expl:pv
@@ -1151,11 +1151,11 @@ Syntax errors: 3574
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T13:47:14Z">2017-01-17T13:47:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:43:05Z">2017-01-17T15:43:05 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
 [Line                   111]: Unknown UD DEPREL: nsubj:pass
 [Line                   211]: Unknown UD DEPREL: csubj:pass
@@ -1183,7 +1183,7 @@ Syntax errors: 278
 
 ******************
 
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
 [Line                   168]: Unknown UD DEPREL: nsubj:pass
 [Line                   195]: Unknown UD DEPREL: nsubj:pass
@@ -1218,11 +1218,11 @@ Syntax errors: 11856
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T13:52:43Z">2017-01-17T13:52:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:43:41Z">2017-01-17T15:43:41 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
 [Line                   39]: Unknown UD DEPREL: nsubj:pass
 [Line                   79]: Unknown UD DEPREL: nsubj:pass
@@ -1250,7 +1250,7 @@ Syntax errors: 120
 
 ******************
 
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
 [Line                   278]: Unknown UD DEPREL: expl:pv
 [Line                   313]: Unknown UD DEPREL: expl:pv
@@ -1394,11 +1394,11 @@ Syntax errors: 8478
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:16:46Z">2017-01-17T15:16:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:43:43Z">2017-01-17T15:43:43 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
 [Line                   222]: Unknown UD DEPREL: expl:pv
 [Line                   993]: Unknown UD DEPREL: expl:pv
@@ -1420,7 +1420,7 @@ Syntax errors: 14
 
 ******************
 
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
 [Line                   261]: Unknown UD DEPREL: expl:pv
 [Line                   282]: Unknown UD DEPREL: expl:pv
@@ -4056,11 +4056,11 @@ Syntax errors: 4790
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T14:51:46Z">2017-01-17T14:51:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:43:56Z">2017-01-17T15:43:56 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
 
 [Line                   13]: Unknown UD DEPREL: nsubj:pass
 [Line                   17]: Unknown UD DEPREL: nsubj:pass
@@ -4088,7 +4088,7 @@ Syntax errors: 288
 
 ******************
 
-python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
 
 [Line                   7]: Unknown UD DEPREL: nsubj:pass
 [Line                   130]: Unknown UD DEPREL: nsubj:pass
@@ -4778,11 +4778,11 @@ Syntax errors: 7510
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T14:27:37Z">2017-01-17T14:27:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:44:16Z">2017-01-17T15:44:16 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-dev.conllu
 
 [Line                   19]: Unknown UD DEPREL: expl:pv
 [Line                   47]: Unknown UD DEPREL: expl:pv
@@ -4810,7 +4810,7 @@ Syntax errors: 210
 
 ******************
 
-python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-train.conllu
 
 [Line                   59]: Unknown UD DEPREL: expl:pv
 [Line                   237]: Unknown UD DEPREL: expl:pv
@@ -4845,7 +4845,7 @@ Syntax errors: 1830
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:53:24Z">2016-12-23T09:53:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:44:23Z">2017-01-17T15:44:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5539,11 +5539,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T14:12:16Z">2017-01-17T14:12:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:44:38Z">2017-01-17T15:44:38 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
 [Line                   8]: Unknown UD DEPREL: expl:pv
 [Line                   367]: Unknown UD DEPREL: flat:foreign
@@ -5571,7 +5571,7 @@ Syntax errors: 331
 
 ******************
 
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
 [Line                   30]: Unknown UD DEPREL: expl:pv
 [Line                   123]: Unknown UD DEPREL: flat:foreign
@@ -6324,18 +6324,18 @@ Syntax errors: 11
 <span class="doublewidespan" style="padding-left:3em">UD Tamil</span>
 <span class="widespan">ta</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T14:58:18Z">2017-01-17T14:58:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:44:45Z">2017-01-17T15:44:45 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 
 [Line                   7170]: Unknown UD DEPREL: nsubj:pass
 *** FAILED *** with 1 errors
