@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-17T14:27:43Z">2017-01-17T14:27:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-17T14:41:49Z">2017-01-17T14:41:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -241,104 +241,62 @@ Syntax errors: 16651
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:49:22Z">2016-12-06T12:49:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T14:41:29Z">2017-01-17T14:41:29 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
 
-[Line                   11]: Unknown UD DEPREL: dobj
-[Line                   25]: Unknown attribute-value pair Definite=Red
-[Line                   30]: Unknown UD DEPREL: dobj
-[Line                   38]: Unknown attribute-value pair Definite=Red
-[Line                   41]: Unknown attribute-value pair Definite=Red
-[Line                   44]: Unknown attribute-value pair Definite=Red
-[Line                   45]: Unknown attribute-value pair Definite=Red
-[Line                   50]: Unknown attribute-value pair Definite=Red
-[Line                   54]: Unknown attribute-value pair Definite=Red
-[Line                   56]: Unknown UD DEPREL: dobj
-[Line                   63]: Unknown UD DEPREL: dobj
-[Line                   67]: Unknown attribute-value pair Definite=Red
-[Line                   74]: Unknown UPOS tag: CONJ
-[Line                   76]: Unknown attribute-value pair Definite=Red
-[Line                   80]: Unknown UPOS tag: CONJ
-[Line                   81]: Unknown attribute-value pair Definite=Red
-[Line                   82]: Unknown attribute-value pair Definite=Red
-[Line                   89]: Unknown attribute-value pair Definite=Red
-[Line                   89]: Unknown UD DEPREL: dobj
-[Line                   94]: Unknown attribute-value pair Definite=Red
-[Line                   97]: Unknown attribute-value pair Definite=Red
-[Line                   98]: Unknown UPOS tag: CONJ
-[Line                   100]: Unknown attribute-value pair Definite=Red
-[Line                   102]: Unknown attribute-value pair Foreign=Foreign
-[Line                   102]: Unknown UD DEPREL: foreign
-...suppressing further errors regarding Morpho
-[Line                   108]: Unknown UD DEPREL: foreign
-[Line                   121]: Unknown UD DEPREL: dobj
-[Line                   139]: Unknown UD DEPREL: nsubjpass
-[Line                   143]: Unknown UD DEPREL: dobj
-[Line                   144]: Unknown UD DEPREL: dobj
-[Line                   146]: Unknown UD DEPREL: dobj
-[Line                   194]: Unknown UD DEPREL: dobj
-[Line                   198]: Unknown UD DEPREL: dobj
-[Line                   215]: Unknown UD DEPREL: dobj
-[Line                   222]: Unknown UD DEPREL: dobj
-[Line                   245]: Unknown UD DEPREL: dobj
-[Line                   248]: Unknown UD DEPREL: dobj
-[Line                   260]: Unknown UD DEPREL: dobj
+[Line                   102]: Unknown UD DEPREL: flat:foreign
+[Line                   108]: Unknown UD DEPREL: flat:foreign
+[Line                   139]: Unknown UD DEPREL: nsubj:pass
+[Line                   457]: Unknown UD DEPREL: flat:foreign
+[Line                   520]: Unknown UD DEPREL: flat:foreign
+[Line                   546]: Unknown UD DEPREL: nsubj:pass
+[Line                   848]: Unknown UD DEPREL: flat:foreign
+[Line                   896]: Unknown UD DEPREL: flat:foreign
+[Line                   946]: Unknown UD DEPREL: nsubj:pass
+[Line                   1092]: Unknown UD DEPREL: flat:foreign
+[Line                   1303]: Unknown UD DEPREL: flat:foreign
+[Line                   1664]: Unknown UD DEPREL: flat:foreign
+[Line                   1879]: Unknown UD DEPREL: nsubj:pass
+[Line                   1884]: Unknown UD DEPREL: nsubj:pass
+[Line                   1945]: Unknown UD DEPREL: nsubj:pass
+[Line                   2046]: Unknown UD DEPREL: flat:foreign
+[Line                   2135]: Unknown UD DEPREL: flat:foreign
+[Line                   2305]: Unknown UD DEPREL: flat:foreign
+[Line                   2307]: Unknown UD DEPREL: flat:foreign
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 8886 errors
-Morpho errors: 6668
-Syntax errors: 2218
+*** FAILED *** with 177 errors
+Syntax errors: 177
 
 
 ******************
 
 python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 
-[Line                   6]: Unknown attribute-value pair Definite=Red
-[Line                   9]: Unknown attribute-value pair Definite=Red
-[Line                   9]: Unknown UD DEPREL: dobj
-[Line                   15]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15]: Unknown UD DEPREL: foreign
-[Line                   16]: Unknown attribute-value pair Foreign=Foreign
-[Line                   29]: Unknown attribute-value pair Definite=Red
-[Line                   33]: Unknown attribute-value pair Definite=Red
-[Line                   35]: Unknown attribute-value pair Foreign=Foreign
-[Line                   35]: Unknown UD DEPREL: foreign
-[Line                   36]: Unknown attribute-value pair Foreign=Foreign
-[Line                   37]: Unknown UPOS tag: CONJ
-[Line                   41]: Unknown UD DEPREL: dobj
-[Line                   43]: Unknown attribute-value pair Definite=Red
-[Line                   49]: Unknown UPOS tag: CONJ
-[Line                   54]: Unknown UPOS tag: CONJ
-[Line                   57]: Unknown UD DEPREL: dobj
-[Line                   58]: Unknown attribute-value pair Definite=Red
-[Line                   61]: Unknown UPOS tag: CONJ
-[Line                   63]: Unknown UPOS tag: CONJ
-[Line                   68]: Unknown attribute-value pair Definite=Red
-[Line                   68]: Unknown UD DEPREL: dobj
-[Line                   75]: Unknown attribute-value pair Definite=Red
-[Line                   78]: Unknown attribute-value pair Definite=Red
-[Line                   79]: Unknown attribute-value pair Definite=Red
-...suppressing further errors regarding Morpho
-[Line                   80]: Unknown UD DEPREL: foreign
-[Line                   118]: Unknown UD DEPREL: dobj
-[Line                   128]: Unknown UD DEPREL: foreign
-[Line                   142]: Unknown UD DEPREL: dobj
-[Line                   166]: Unknown UD DEPREL: dobj
-[Line                   168]: Unknown UD DEPREL: dobj
-[Line                   185]: Unknown UD DEPREL: dobj
-[Line                   194]: Unknown UD DEPREL: neg
-[Line                   200]: Unknown UD DEPREL: dobj
-[Line                   212]: Unknown UD DEPREL: dobj
-[Line                   225]: Unknown UD DEPREL: neg
-[Line                   231]: Unknown UD DEPREL: dobj
-[Line                   250]: Unknown UD DEPREL: neg
+[Line                   15]: Unknown UD DEPREL: flat:foreign
+[Line                   35]: Unknown UD DEPREL: flat:foreign
+[Line                   80]: Unknown UD DEPREL: flat:foreign
+[Line                   128]: Unknown UD DEPREL: flat:foreign
+[Line                   292]: Unknown UD DEPREL: flat:foreign
+[Line                   300]: Unknown UD DEPREL: flat:foreign
+[Line                   320]: Unknown UD DEPREL: flat:foreign
+[Line                   336]: Unknown UD DEPREL: flat:foreign
+[Line                   397]: Unknown UD DEPREL: flat:foreign
+[Line                   450]: Unknown UD DEPREL: flat:foreign
+[Line                   482]: Unknown UD DEPREL: flat:foreign
+[Line                   528]: Unknown UD DEPREL: flat:foreign
+[Line                   532]: Unknown UD DEPREL: flat:foreign
+[Line                   563]: Unknown UD DEPREL: flat:foreign
+[Line                   783]: Unknown UD DEPREL: flat:foreign
+[Line                   784]: Unknown UD DEPREL: flat:foreign
+[Line                   869]: Unknown UD DEPREL: nsubj:pass
+[Line                   972]: Unknown UD DEPREL: nsubj:pass
+[Line                   988]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 70469 errors
-Morpho errors: 53427
-Syntax errors: 17042
+*** FAILED *** with 1106 errors
+Syntax errors: 1106
 
 
 ******************
