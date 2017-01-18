@@ -75,6 +75,7 @@ det(Japon-2, Le-1)
 ~~~ sdparse
 Ludwig van Beethoven
 case(Beethoven, van)
+nmod(Ludwig, Beethoven)
 ~~~
 
 ~~~ sdparse
@@ -82,6 +83,7 @@ Miguel de Cervantes y Saavedra
 conj(Cervantes, Saavedra)
 cc(Saavedra, y)
 case(Cervantes, de)
+nmod(Miguel, Cervantes)
 ~~~
 
 ~~~ sdparse
