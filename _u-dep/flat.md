@@ -43,6 +43,13 @@ New York
 flat(New, York)
 ~~~
 
+Titles/honorifics are also analyzed using the `flat` relation.
+
+~~~ sdparse
+Mr. Smith
+flat(Mr., Smith)
+~~~
+
 By contrast, names that have a regular syntactic structure, like _The Lord of the Rings_ and _Captured By
 Aliens_, should be annotated with regular syntactic relations.
 
