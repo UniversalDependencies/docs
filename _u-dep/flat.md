@@ -50,6 +50,11 @@ Mr. Smith
 flat(Mr., Smith)
 ~~~
 
+~~~ sdparse
+President Obama
+flat(President, Obama)
+~~~
+
 By contrast, names that have a regular syntactic structure, like _The Lord of the Rings_ and _Captured By
 Aliens_, should be annotated with regular syntactic relations.
 
