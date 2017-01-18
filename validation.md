@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-18T07:30:22Z">2017-01-18T07:30:22 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-18T09:53:53Z">2017-01-18T09:53:53 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5358,81 +5358,24 @@ Syntax errors: 51913
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:37:52Z">2016-12-06T13:37:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-18T09:53:53Z">2017-01-18T09:53:53 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
 
-[Line                   10]: Unknown UD DEPREL: dobj
-[Line                   17]: Unknown UD DEPREL: dobj
-[Line                   57]: Unknown UD DEPREL: dobj
-[Line                   63]: Unknown UD DEPREL: dobj
-[Line                   65]: Unknown UD DEPREL: neg
-[Line                   73]: Unknown UPOS tag: CONJ
-[Line                   78]: Unknown UD DEPREL: dobj
-[Line                   95]: Unknown UD DEPREL: dobj
-[Line                   101]: Unknown UD DEPREL: dobj
-[Line                   113]: Unknown UD DEPREL: dobj
-[Line                   117]: Unknown UD DEPREL: dobj
-[Line                   123]: Unknown UD DEPREL: dobj
-[Line                   129]: Unknown UD DEPREL: dobj
-[Line                   134]: Unknown UD DEPREL: dobj
-[Line                   136]: Unknown UD DEPREL: dobj
-[Line                   158]: Unknown UD DEPREL: dobj
-[Line                   200]: Unknown UD DEPREL: dobj
-[Line                   238]: Unknown UD DEPREL: dobj
-[Line                   266]: Unknown UD DEPREL: neg
-[Line                   293]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-*** FAILED *** with 30 errors
-Morpho errors: 1
-Syntax errors: 29
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
 
-[Line                   5]: Unknown UD DEPREL: dobj
-[Line                   16]: Unknown UD DEPREL: dobj
-[Line                   19]: Unknown UD DEPREL: dobj
-[Line                   50]: Unknown UPOS tag: CONJ
-[Line                   56]: Unknown UD DEPREL: dobj
-[Line                   61]: Unknown UD DEPREL: dobj
-[Line                   67]: Unknown UD DEPREL: dobj
-[Line                   74]: Unknown UD DEPREL: neg
-[Line                   75]: Unknown UD DEPREL: dobj
-[Line                   81]: Unknown UD DEPREL: nsubjpass
-[Line                   85]: Unknown UD DEPREL: nsubjpass
-[Line                   90]: Unknown UD DEPREL: neg
-[Line                   92]: Unknown UD DEPREL: neg
-[Line                   93]: Unknown UD DEPREL: dobj
-[Line                   102]: Unknown UD DEPREL: neg
-[Line                   104]: Unknown UD DEPREL: neg
-[Line                   119]: Unknown UD DEPREL: dobj
-[Line                   155]: Unknown UD DEPREL: dobj
-[Line                   169]: Unknown UPOS tag: CONJ
-[Line                   178]: Unknown UD DEPREL: dobj
-[Line                   185]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-[Line                   278]: Unknown UPOS tag: CONJ
-[Line                   380]: Unknown UPOS tag: CONJ
-[Line                   413]: Unknown UPOS tag: CONJ
-[Line                   623]: Unknown attribute-value pair Polite=Pol
-[Line                   792]: Unknown UPOS tag: CONJ
-[Line                   838]: Unknown attribute-value pair Polite=Pol
-[Line                   847]: Unknown UPOS tag: CONJ
-[Line                   849]: Unknown UPOS tag: CONJ
-[Line                   855]: Unknown UPOS tag: CONJ
-[Line                   872]: Unknown attribute-value pair Polite=Pol
-[Line                   898]: Unknown attribute-value pair Polite=Pol
-[Line                   916]: Unknown attribute-value pair Polite=Pol
-[Line                   949]: Unknown attribute-value pair Polite=Pol
-[Line                   973]: Unknown UPOS tag: CONJ
-*** FAILED *** with 97 errors
-Morpho errors: 16
-Syntax errors: 81
+[Line                   81]: Unknown UD DEPREL: nsubj:pass
+[Line                   85]: Unknown UD DEPREL: nsubj:pass
+[Line                   387]: Unknown UD DEPREL: nsubj:pass
+*** FAILED *** with 3 errors
+Syntax errors: 3
 
 
 ******************
