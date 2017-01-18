@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-18T11:48:13Z">2017-01-18T11:48:13 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-18T13:01:35Z">2017-01-18T13:01:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2649,11 +2649,11 @@ Syntax errors: 1150
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-18T11:47:57Z">2017-01-18T11:47:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-18T13:01:17Z">2017-01-18T13:01:17 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-dev.conllu
 
 [Line                   390]: Unknown UD DEPREL: nsubj:pass
 [Line                   395]: Unknown UD DEPREL: aux:pass
@@ -2681,7 +2681,7 @@ Syntax errors: 181
 
 ******************
 
-python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-train.conllu
 
 [Line                   23]: Unknown UD DEPREL: nsubj:pass
 [Line                   122]: Unknown UD DEPREL: nsubj:pass
@@ -5358,18 +5358,18 @@ Syntax errors: 51913
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-18T09:53:53Z">2017-01-18T09:53:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-18T13:01:35Z">2017-01-18T13:01:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
 
 [Line                   81]: Unknown UD DEPREL: nsubj:pass
 [Line                   85]: Unknown UD DEPREL: nsubj:pass
