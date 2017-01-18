@@ -8,17 +8,17 @@ udver: '2'
 The `flat` relation is one of three relations for multiword expressions multiword expressions (MWEs) in UD 
 (the other two being [fixed]() and [compound]()). It is used for exocentric (headless) semi-fixed MWEs like
 names (_Hillary Rodham Clinton_) and dates (_24 December_). It contrasts with [fixed](), which applies to
-to completely fixed grammaticized MWEs (like _in spite of_), and with [compound](), which applies to
+to completely fixed grammaticized (function word-like) MWEs (like _in spite of_), and with [compound](), which applies to
 endocentric (headed) MWEs (like _apple pie_).
 
-Flat MWEs are annotated in a flat structure, where all subsequent words in the expression are attached to the 
-first one using the fixed label. The assumption is that these expressions do not have any internal syntactic structure 
+Flat MWEs are annotated with a flat structure, where all subsequent words in the expression are attached to the 
+first one using the `flat` label. The assumption is that these expressions do not have any internal syntactic structure 
 and that the structural annotation is in principle arbitrary. In practice, however, it is highly desirable to use 
 a consistent annotation of all flat MWEs in all languages.
 
-Below we describe some of the most common uses of [flat]() across languages. Note, however, that semantically
-equivalent expressions in other languages (or even in the same language) may require a different analysis if it
-has a regular compositional syntactic structure.
+Below we describe some of the most common uses of [flat]() across languages. Note that semantically
+equivalent expressions in different languages (or even in the same language) may require a different analysis if sometimes
+there is and sometimes there is not a regular compositional syntactic structure.
 
 ## Names 
 
@@ -54,6 +54,13 @@ case(Rings, of)
 det(Rings, the)
 ~~~
 
+~~~ sdparse
+The king of Sweden
+det(king-2, The-1)
+nmod(king-2, Sweden-4)
+case(Sweden-4, of-3)
+~~~
+
 For organization names with clear syntactic modification structure, the dependencies should 
 also reflect the syntactic modification structure using regular syntactic relations, as in:
 
@@ -65,7 +72,9 @@ compound(Service-4, Conservation-3)
 ~~~
 
 In addition, regular syntactic relations are used: (i) for a modifying determiner or (ii) to connect 
-together the words of a description or name which involve embedded prepositional phrases, sentences, etc.
+together the words of a description or name which involve embedded prepositional phrases, sentences, etc.,
+when these relations are recognized in the language being annotated (i.e., the analyses below are for
+French, German, and Spanish, not English).
 
 ~~~ sdparse
 Le Japon
@@ -86,7 +95,16 @@ case(Cervantes, de)
 nmod(Miguel, Cervantes)
 ~~~
 
-Note that the above analyses of _Ludwig van Beethoven_ and _Miguel de Cervantes y Saavedra_ assume that _van_ resp. _de_ are prepositions. This is true in the languages of the names' origin but it may change when the name is used in foreign text, e.g. in English. We may thus get the following analysis in an English sentence:
+~~~ sdparse
+Río de la Plata
+case(Plata-4, de-2)
+det(Plata-4, la-3)
+nmod(Río-1, Plata-4)
+~~~
+
+The above analyses of _Ludwig van Beethoven_ and _Miguel de Cervantes y Saavedra_ assume that _van_ resp. _de_ are prepositions.
+This is true in the languages of the names' origin, but it can be expected to change when the name is used in foreign text. For example,
+when names like this are annotated in English, the appropriate analysis is as a `flat` name:
 
 ~~~ sdparse
 Ludwig van Beethoven was a famous German composer .
@@ -101,17 +119,16 @@ punct(composer, .)
 ~~~
 
 ~~~ sdparse
-The king of Sweden
-det(king-2, The-1)
-nmod(king-2, Sweden-4)
-case(Sweden-4, of-3)
+Río de la Plata
+flat(Río-1, de-2)
+flat(Río-1, la-3)
+flat(Río-1, Plata-4)
 ~~~
 
 ~~~ sdparse
-Río de la Plata
-case(Plata-4, de-2)
-det(Plata-4, la-3)
-nmod(Río-1, Plata-4)
+Al Arabiya is a Saudi-owned news organization
+flat(Al-1, Arabiya-2)
+nsubj(organization-7, Al-1)
 ~~~
 
 In the case of proper entities named after people, e.g. _Leland Stanford Jr. University_, the `flat` relation 
