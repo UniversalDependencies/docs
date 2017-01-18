@@ -86,6 +86,8 @@ case(Cervantes, de)
 nmod(Miguel, Cervantes)
 ~~~
 
+Note that the above analyses of _Ludwig van Beethoven_ and _Miguel de Cervantes y Saavedra_ assume that _van_ resp. _de_ are prepositions. This is true in the languages of the names' origin but it may change when the name is used in foreign text, e.g. in English.
+
 ~~~ sdparse
 The king of Sweden
 det(king-2, The-1)
