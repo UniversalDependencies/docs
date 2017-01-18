@@ -104,9 +104,9 @@ normal syntactic relations:
 
 ~~~ sdparse
 Leland Stanford Jr. University
-compound(University-4, Leland-1)
-flat(Stanford-2, Leland-1)
-flat(Jr.-3, Leland-1)
+compound(Leland-1, University-4)
+flat(Leland-1, Stanford-2)
+flat(Leland-1, Jr.-3)
 ~~~
 
 ## Dates and Complex Numerals
