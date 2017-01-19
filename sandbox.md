@@ -295,3 +295,12 @@ Empty node test with full tree in DEPS
 6	tea	tea	NOUN	_	_	5	orphan	5.1:obj	_
 
 ~~~
+
+Simpler
+
+~~~ conllu
+1	This	this	PRON	_	_	2	orphan	2:nsubj	_
+1.1	is	is	VERB	_	_	_	_	2:cop	_
+2	valid	valid	ADJ	_	_	0	root	0:root	_
+
+~~~
