@@ -283,3 +283,14 @@ parataxis(hat-2,hat-9)
 7   .    _ _ _ _ 2 punct   _  _
 ~~~
 
+Empty node test with full tree in DEPS
+
+~~~ conllu
+1	Sue	Sue	PROPN	_	_	2	nsubj	2:nsubj	_
+2	likes	like	VERB	_	_	0	root	0:root	_
+3	coffee	coffee	NOUN	_	_	2	obj	2:obj	_
+4	and	and	CCONJ	_	_	5	cc	5:cc	_
+5	Bill	a	PROPN	_	_	2	conj	5.1:nsubj	_
+5.1	likes	like	VERB	_	_	_	_	2:conj	_
+6	tea	tea	NOUN	_	_	5	orphan	5.1:obj	_
+~~~
