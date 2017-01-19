@@ -95,8 +95,7 @@ a further extension of the indexing scheme from v2. It is possible to insert one
     5.1    likes     like
     6      tea       tea
 
-Empty nodes must have a non-empty DEPS field, because they are part of the enhanced dependency graph, but all other 
-fields (except the ID field) may contain underscores. Optionally, they can have a word form and lemma as in the example above.
+Empty nodes must have non-empty ID and DEPS fields and empty fields (i.e. underscores) for HEAD and DEPREL, because they are only part of the enhanced dependency graph. All other fields may contain either underscores or values: for example, they can optionally have a word form and lemma as in the example above.
 
 # Morphological Annotation
 
