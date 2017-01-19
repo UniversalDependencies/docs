@@ -121,7 +121,7 @@ advmod(is-6, too-8)
 ~~~ sdparse
 They will do it if they want to .
 
-nsubj(will-2, They-1)
+nsubj(do-3, They-1)
 aux(do-3, will-2)
 obj(do-3, it-4)
 advcl(do-3, want-7)
