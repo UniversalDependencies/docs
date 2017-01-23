@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-23T12:54:21Z">2017-01-23T12:54:21 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-23T13:53:02Z">2017-01-23T13:53:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -12,7 +12,7 @@ Regenerated: <time class="timeago" datetime="2017-01-23T12:54:21Z">2017-01-23T12
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:46:08Z">2016-12-06T12:46:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:40:54Z">2017-01-23T13:40:54 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -23,7 +23,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:47:03Z">2016-12-06T12:47:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:40:54Z">2017-01-23T13:40:54 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -132,7 +132,7 @@ Syntax errors: 21730
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:48:03Z">2016-12-06T12:48:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:41:07Z">2017-01-23T13:41:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -240,63 +240,21 @@ Syntax errors: 16651
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:41:00Z">2017-01-17T15:41:00 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:41:20Z">2017-01-23T13:41:20 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
+python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
 
-[Line                   102]: Unknown UD DEPREL: flat:foreign
-[Line                   108]: Unknown UD DEPREL: flat:foreign
-[Line                   139]: Unknown UD DEPREL: nsubj:pass
-[Line                   457]: Unknown UD DEPREL: flat:foreign
-[Line                   520]: Unknown UD DEPREL: flat:foreign
-[Line                   546]: Unknown UD DEPREL: nsubj:pass
-[Line                   848]: Unknown UD DEPREL: flat:foreign
-[Line                   896]: Unknown UD DEPREL: flat:foreign
-[Line                   946]: Unknown UD DEPREL: nsubj:pass
-[Line                   1092]: Unknown UD DEPREL: flat:foreign
-[Line                   1303]: Unknown UD DEPREL: flat:foreign
-[Line                   1664]: Unknown UD DEPREL: flat:foreign
-[Line                   1879]: Unknown UD DEPREL: nsubj:pass
-[Line                   1884]: Unknown UD DEPREL: nsubj:pass
-[Line                   1945]: Unknown UD DEPREL: nsubj:pass
-[Line                   2046]: Unknown UD DEPREL: flat:foreign
-[Line                   2135]: Unknown UD DEPREL: flat:foreign
-[Line                   2305]: Unknown UD DEPREL: flat:foreign
-[Line                   2307]: Unknown UD DEPREL: flat:foreign
-...suppressing further errors regarding Syntax
-*** FAILED *** with 177 errors
-Syntax errors: 177
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-train.conllu
+python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 
-[Line                   15]: Unknown UD DEPREL: flat:foreign
-[Line                   35]: Unknown UD DEPREL: flat:foreign
-[Line                   80]: Unknown UD DEPREL: flat:foreign
-[Line                   128]: Unknown UD DEPREL: flat:foreign
-[Line                   292]: Unknown UD DEPREL: flat:foreign
-[Line                   300]: Unknown UD DEPREL: flat:foreign
-[Line                   320]: Unknown UD DEPREL: flat:foreign
-[Line                   336]: Unknown UD DEPREL: flat:foreign
-[Line                   397]: Unknown UD DEPREL: flat:foreign
-[Line                   450]: Unknown UD DEPREL: flat:foreign
-[Line                   482]: Unknown UD DEPREL: flat:foreign
-[Line                   528]: Unknown UD DEPREL: flat:foreign
-[Line                   532]: Unknown UD DEPREL: flat:foreign
-[Line                   563]: Unknown UD DEPREL: flat:foreign
-[Line                   783]: Unknown UD DEPREL: flat:foreign
-[Line                   784]: Unknown UD DEPREL: flat:foreign
-[Line                   869]: Unknown UD DEPREL: nsubj:pass
-[Line                   972]: Unknown UD DEPREL: nsubj:pass
-[Line                   988]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1106 errors
-Syntax errors: 1106
+*** PASSED ***
 
 
 ******************
@@ -308,7 +266,7 @@ Syntax errors: 1106
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-LDC</span>
 <span class="widespan">ar ldc</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:49:47Z">2016-12-06T12:49:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:41:38Z">2017-01-23T13:41:38 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -319,7 +277,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Basque</span>
 <span class="widespan">eu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:50:20Z">2016-12-06T12:50:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:41:38Z">2017-01-23T13:41:38 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -428,7 +386,7 @@ Syntax errors: 6742
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:51:14Z">2016-12-06T12:51:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:41:44Z">2017-01-23T13:41:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -537,7 +495,7 @@ Syntax errors: 10189
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-12T02:51:21Z">2016-12-12T02:51:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:41:53Z">2017-01-23T13:41:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -548,7 +506,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Cantonese</span>
 <span class="widespan">yue</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-28T12:04:19Z">2016-12-28T12:04:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:41:53Z">2017-01-23T13:41:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -559,11 +517,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:50:33Z">2016-12-23T09:50:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:41:53Z">2017-01-23T13:41:53 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
+python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
 
 [Line                   4]: Unknown UD DEPREL: name
 [Line                   5]: Unknown UD DEPREL: name
@@ -612,7 +570,7 @@ Syntax errors: 7392
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-train.conllu
+python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 
 [Line                   5]: Unknown UD DEPREL: name
 [Line                   7]: Unknown UD DEPREL: name
@@ -668,7 +626,7 @@ Syntax errors: 54098
 <span class="doublewidespan" style="padding-left:3em">UD Chinese</span>
 <span class="widespan">zh</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:54:00Z">2016-12-06T12:54:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:42:22Z">2017-01-23T13:42:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -777,7 +735,7 @@ Syntax errors: 7372
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-28T12:04:15Z">2016-12-28T12:04:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:42:26Z">2017-01-23T13:42:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -788,7 +746,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:54:24Z">2016-12-06T12:54:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:42:26Z">2017-01-23T13:42:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -891,7 +849,7 @@ Syntax errors: 265
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T12:55:02Z">2016-12-06T12:55:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:42:26Z">2017-01-23T13:42:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -999,147 +957,42 @@ Syntax errors: 9791
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:41:21Z">2017-01-17T15:41:21 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:42:35Z">2017-01-23T13:42:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
-[Line                   43]: Unknown UD DEPREL: expl:pv
-[Line                   115]: Unknown UD DEPREL: aux:pass
-[Line                   144]: Unknown UD DEPREL: expl:pv
-[Line                   196]: Unknown UD DEPREL: expl:pv
-[Line                   203]: Unknown UD DEPREL: aux:pass
-[Line                   207]: Unknown UD DEPREL: nsubj:pass
-[Line                   241]: Unknown UD DEPREL: expl:pv
-[Line                   514]: Unknown UD DEPREL: expl:pv
-[Line                   606]: Unknown UD DEPREL: expl:pv
-[Line                   784]: Unknown UD DEPREL: nsubj:pass
-[Line                   844]: Unknown UD DEPREL: flat:foreign
-[Line                   914]: Unknown UD DEPREL: expl:pv
-[Line                   926]: Unknown UD DEPREL: expl:pv
-[Line                   938]: Unknown UD DEPREL: nsubj:pass
-[Line                   1006]: Unknown UD DEPREL: expl:pv
-[Line                   1069]: Unknown UD DEPREL: aux:pass
-[Line                   1071]: Unknown UD DEPREL: nsubj:pass
-[Line                   1088]: Unknown UD DEPREL: aux:pass
-[Line                   1091]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 3761 errors
-Syntax errors: 3761
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
-[Line                   75]: Unknown UD DEPREL: nsubj:pass
-[Line                   157]: Unknown UD DEPREL: expl:pv
-[Line                   193]: Unknown UD DEPREL: expl:pv
-[Line                   250]: Unknown UD DEPREL: nsubj:pass
-[Line                   340]: Unknown UD DEPREL: expl:pv
-[Line                   364]: Unknown UD DEPREL: expl:pv
-[Line                   381]: Unknown UD DEPREL: flat:foreign
-[Line                   382]: Unknown UD DEPREL: flat:foreign
-[Line                   484]: Unknown UD DEPREL: expl:pv
-[Line                   640]: Unknown UD DEPREL: aux:pass
-[Line                   666]: Unknown UD DEPREL: expl:pv
-[Line                   721]: Unknown UD DEPREL: expl:pv
-[Line                   737]: Unknown UD DEPREL: expl:pv
-[Line                   781]: Unknown UD DEPREL: flat:foreign
-[Line                   785]: Unknown UD DEPREL: flat:foreign
-[Line                   819]: Unknown UD DEPREL: flat:foreign
-[Line                   857]: Unknown UD DEPREL: nsubj:pass
-[Line                   877]: Unknown UD DEPREL: expl:pv
-[Line                   940]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 2559 errors
-Syntax errors: 2559
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
-[Line                   126]: Unknown UD DEPREL: expl:pv
-[Line                   172]: Unknown UD DEPREL: expl:pv
-[Line                   329]: Unknown UD DEPREL: aux:pass
-[Line                   332]: Unknown UD DEPREL: nsubj:pass
-[Line                   368]: Unknown UD DEPREL: nsubj:pass
-[Line                   381]: Unknown UD DEPREL: expl:pv
-[Line                   396]: Unknown UD DEPREL: expl:pv
-[Line                   452]: Unknown UD DEPREL: expl:pv
-[Line                   557]: Unknown UD DEPREL: nsubj:pass
-[Line                   558]: Unknown UD DEPREL: aux:pass
-[Line                   587]: Unknown UD DEPREL: expl:pv
-[Line                   634]: Unknown UD DEPREL: expl:pv
-[Line                   652]: Unknown UD DEPREL: expl:pv
-[Line                   718]: Unknown UD DEPREL: expl:pv
-[Line                   790]: Unknown UD DEPREL: expl:pv
-[Line                   862]: Unknown UD DEPREL: expl:pv
-[Line                   871]: Unknown UD DEPREL: expl:pv
-[Line                   970]: Unknown UD DEPREL: expl:pv
-[Line                   1073]: Unknown UD DEPREL: expl:pv
-...suppressing further errors regarding Syntax
-*** FAILED *** with 16849 errors
-Syntax errors: 16849
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
-[Line                   28]: Unknown UD DEPREL: aux:pass
-[Line                   31]: Unknown UD DEPREL: nsubj:pass
-[Line                   115]: Unknown UD DEPREL: nsubj:pass
-[Line                   116]: Unknown UD DEPREL: aux:pass
-[Line                   188]: Unknown UD DEPREL: nsubj:pass
-[Line                   191]: Unknown UD DEPREL: aux:pass
-[Line                   219]: Unknown UD DEPREL: expl:pv
-[Line                   255]: Unknown UD DEPREL: csubj:pass
-[Line                   277]: Unknown UD DEPREL: expl:pv
-[Line                   352]: Unknown UD DEPREL: expl:pv
-[Line                   435]: Unknown UD DEPREL: expl:pv
-[Line                   465]: Unknown UD DEPREL: expl:pv
-[Line                   540]: Unknown UD DEPREL: expl:pv
-[Line                   647]: Unknown UD DEPREL: expl:pv
-[Line                   771]: Unknown UD DEPREL: expl:pv
-[Line                   914]: Unknown UD DEPREL: expl:pv
-[Line                   956]: Unknown UD DEPREL: nsubj:pass
-[Line                   977]: Unknown UD DEPREL: aux:pass
-[Line                   978]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 3902 errors
-Syntax errors: 3902
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
-[Line                   143]: Unknown UD DEPREL: expl:pv
-[Line                   308]: Unknown UD DEPREL: expl:pv
-[Line                   358]: Unknown UD DEPREL: expl:pv
-[Line                   382]: Unknown UD DEPREL: expl:pv
-[Line                   457]: Unknown UD DEPREL: expl:pv
-[Line                   464]: Unknown UD DEPREL: expl:pv
-[Line                   492]: Unknown UD DEPREL: expl:pv
-[Line                   512]: Unknown UD DEPREL: expl:pv
-[Line                   538]: Unknown UD DEPREL: expl:pv
-[Line                   606]: Unknown UD DEPREL: expl:pv
-[Line                   630]: Unknown UD DEPREL: expl:pv
-[Line                   717]: Unknown UD DEPREL: expl:pv
-[Line                   741]: Unknown UD DEPREL: expl:pv
-[Line                   751]: Unknown UD DEPREL: nsubj:pass
-[Line                   768]: Unknown UD DEPREL: expl:pv
-[Line                   807]: Unknown UD DEPREL: expl:pv
-[Line                   819]: Unknown UD DEPREL: expl:pv
-[Line                   838]: Unknown UD DEPREL: expl:pv
-[Line                   856]: Unknown UD DEPREL: expl:pv
-...suppressing further errors regarding Syntax
-*** FAILED *** with 3574 errors
-Syntax errors: 3574
+*** PASSED ***
 
 
 ******************
@@ -1150,63 +1003,21 @@ Syntax errors: 3574
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:43:05Z">2017-01-17T15:43:05 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:44:08Z">2017-01-23T13:44:08 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
+python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
-[Line                   111]: Unknown UD DEPREL: nsubj:pass
-[Line                   211]: Unknown UD DEPREL: csubj:pass
-[Line                   268]: Unknown UD DEPREL: expl:pv
-[Line                   297]: Unknown UD DEPREL: nsubj:pass
-[Line                   335]: Unknown UD DEPREL: expl:pv
-[Line                   409]: Unknown UD DEPREL: expl:pv
-[Line                   762]: Unknown UD DEPREL: expl:pv
-[Line                   1141]: Unknown UD DEPREL: aux:pass
-[Line                   1146]: Unknown UD DEPREL: nsubj:pass
-[Line                   1236]: Unknown UD DEPREL: expl:pv
-[Line                   1321]: Unknown UD DEPREL: nsubj:pass
-[Line                   1429]: Unknown UD DEPREL: expl:pv
-[Line                   1469]: Unknown UD DEPREL: nsubj:pass
-[Line                   1477]: Unknown UD DEPREL: expl:pv
-[Line                   1548]: Unknown UD DEPREL: expl:pv
-[Line                   1808]: Unknown UD DEPREL: nsubj:pass
-[Line                   1819]: Unknown UD DEPREL: aux:pass
-[Line                   2177]: Unknown UD DEPREL: aux:pass
-[Line                   2182]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 278 errors
-Syntax errors: 278
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
+python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
-[Line                   168]: Unknown UD DEPREL: nsubj:pass
-[Line                   195]: Unknown UD DEPREL: nsubj:pass
-[Line                   276]: Unknown UD DEPREL: expl:pv
-[Line                   320]: Unknown UD DEPREL: nsubj:pass
-[Line                   343]: Unknown UD DEPREL: aux:pass
-[Line                   345]: Unknown UD DEPREL: nsubj:pass
-[Line                   371]: Unknown UD DEPREL: aux:pass
-[Line                   373]: Unknown UD DEPREL: nsubj:pass
-[Line                   550]: Unknown UD DEPREL: expl:pv
-[Line                   558]: Unknown UD DEPREL: aux:pass
-[Line                   754]: Unknown UD DEPREL: expl:pv
-[Line                   842]: Unknown UD DEPREL: aux:pass
-[Line                   872]: Unknown UD DEPREL: expl:pv
-[Line                   949]: Unknown UD DEPREL: nsubj:pass
-[Line                   1023]: Unknown UD DEPREL: nsubj:pass
-[Line                   1038]: Unknown UD DEPREL: nsubj:pass
-[Line                   1061]: Unknown UD DEPREL: expl:pv
-[Line                   1128]: Unknown UD DEPREL: nsubj:pass
-[Line                   1177]: Unknown UD DEPREL: expl:pv
-...suppressing further errors regarding Syntax
-*** FAILED *** with 11856 errors
-Syntax errors: 11856
+*** PASSED ***
 
 
 ******************
@@ -1217,63 +1028,21 @@ Syntax errors: 11856
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:43:41Z">2017-01-17T15:43:41 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:44:41Z">2017-01-23T13:44:41 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
+python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
-[Line                   39]: Unknown UD DEPREL: nsubj:pass
-[Line                   79]: Unknown UD DEPREL: nsubj:pass
-[Line                   112]: Unknown UD DEPREL: nsubj:pass
-[Line                   176]: Unknown UD DEPREL: nsubj:pass
-[Line                   217]: Unknown UD DEPREL: nsubj:pass
-[Line                   420]: Unknown UD DEPREL: nsubj:pass
-[Line                   597]: Unknown UD DEPREL: nsubj:pass
-[Line                   740]: Unknown UD DEPREL: nsubj:pass
-[Line                   772]: Unknown UD DEPREL: aux:pass
-[Line                   801]: Unknown UD DEPREL: nsubj:pass
-[Line                   883]: Unknown UD DEPREL: aux:pass
-[Line                   886]: Unknown UD DEPREL: nsubj:pass
-[Line                   911]: Unknown UD DEPREL: nsubj:pass
-[Line                   912]: Unknown UD DEPREL: aux:pass
-[Line                   928]: Unknown UD DEPREL: nsubj:pass
-[Line                   957]: Unknown UD DEPREL: aux:pass
-[Line                   1064]: Unknown UD DEPREL: nsubj:pass
-[Line                   1092]: Unknown UD DEPREL: nsubj:pass
-[Line                   1094]: Unknown UD DEPREL: aux:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 120 errors
-Syntax errors: 120
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
+python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
-[Line                   278]: Unknown UD DEPREL: expl:pv
-[Line                   313]: Unknown UD DEPREL: expl:pv
-[Line                   346]: Unknown UD DEPREL: expl:pv
-[Line                   528]: Unknown UD DEPREL: nsubj:pass
-[Line                   567]: Unknown UD DEPREL: nsubj:pass
-[Line                   711]: Unknown UD DEPREL: nsubj:pass
-[Line                   755]: Unknown UD DEPREL: nsubj:pass
-[Line                   792]: Unknown UD DEPREL: nsubj:pass
-[Line                   829]: Unknown UD DEPREL: nsubj:pass
-[Line                   853]: Unknown UD DEPREL: nsubj:pass
-[Line                   854]: Unknown UD DEPREL: aux:pass
-[Line                   861]: Unknown UD DEPREL: aux:pass
-[Line                   902]: Unknown UD DEPREL: nsubj:pass
-[Line                   903]: Unknown UD DEPREL: aux:pass
-[Line                   924]: Unknown UD DEPREL: nsubj:pass
-[Line                   946]: Unknown UD DEPREL: expl:pv
-[Line                   1018]: Unknown UD DEPREL: nsubj:pass
-[Line                   1057]: Unknown UD DEPREL: nsubj:pass
-[Line                   1073]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 448 errors
-Syntax errors: 448
+*** PASSED ***
 
 
 ******************
@@ -1285,7 +1054,7 @@ Syntax errors: 448
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:03:10Z">2016-12-06T13:03:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:44:43Z">2017-01-23T13:44:43 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1394,56 +1163,22 @@ Syntax errors: 8478
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:43:43Z">2017-01-17T15:43:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:44:49Z">2017-01-23T13:44:49 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
-[Line                   222]: Unknown UD DEPREL: expl:pv
-[Line                   993]: Unknown UD DEPREL: expl:pv
-[Line                   1341]: Unknown UD DEPREL: expl:pv
-[Line                   1483]: Unknown UD DEPREL: expl:pv
-[Line                   1988]: Unknown UD DEPREL: expl:pv
-[Line                   2466]: Unknown UD DEPREL: expl:pv
-[Line                   3366]: Unknown UD DEPREL: expl:pv
-[Line                   4016]: Unknown UD DEPREL: expl:pv
-[Line                   4501]: Unknown UD DEPREL: expl:pv
-[Line                   4817]: Unknown UD DEPREL: expl:pv
-[Line                   4832]: Unknown UD DEPREL: expl:pv
-[Line                   5096]: Unknown UD DEPREL: expl:pv
-[Line                   6068]: Unknown UD DEPREL: expl:pv
-[Line                   6485]: Unknown UD DEPREL: expl:pv
-*** FAILED *** with 14 errors
-Syntax errors: 14
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
-[Line                   261]: Unknown UD DEPREL: expl:pv
-[Line                   282]: Unknown UD DEPREL: expl:pv
-[Line                   660]: Unknown UD DEPREL: expl:pv
-[Line                   775]: Unknown UD DEPREL: expl:pv
-[Line                   782]: Unknown UD DEPREL: expl:pv
-[Line                   828]: Unknown UD DEPREL: expl:pv
-[Line                   867]: Unknown UD DEPREL: expl:pv
-[Line                   1557]: Unknown UD DEPREL: expl:pv
-[Line                   1590]: Unknown UD DEPREL: expl:pv
-[Line                   1641]: Unknown UD DEPREL: expl:pv
-[Line                   1726]: Unknown UD DEPREL: expl:pv
-[Line                   1908]: Unknown UD DEPREL: expl:pv
-[Line                   2016]: Unknown UD DEPREL: expl:pv
-[Line                   2912]: Unknown UD DEPREL: expl:pv
-[Line                   3533]: Unknown UD DEPREL: expl:pv
-[Line                   4395]: Unknown UD DEPREL: expl:pv
-[Line                   4630]: Unknown UD DEPREL: expl:pv
-[Line                   4862]: Unknown UD DEPREL: expl:pv
-[Line                   5896]: Unknown UD DEPREL: expl:pv
-...suppressing further errors regarding Syntax
-*** FAILED *** with 444 errors
-Syntax errors: 444
+[Line                   68516]: Unknown UD DEPREL: coord
+*** FAILED *** with 1 errors
+Syntax errors: 1
 
 
 ******************
@@ -1455,7 +1190,7 @@ Syntax errors: 444
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-30T07:15:28Z">2016-12-30T07:15:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:45:01Z">2017-01-23T13:45:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1566,7 +1301,7 @@ Syntax errors: 11067
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-21T00:20:54Z">2017-01-21T00:20:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:45:06Z">2017-01-23T13:45:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1675,7 +1410,7 @@ Syntax errors: 16527
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:06:50Z">2016-12-06T13:06:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:45:18Z">2017-01-23T13:45:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1784,7 +1519,7 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:07:24Z">2016-12-06T13:07:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:45:21Z">2017-01-23T13:45:21 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1893,11 +1628,11 @@ Syntax errors: 5480
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:52:45Z">2016-12-23T09:52:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:45:24Z">2017-01-23T13:45:24 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-dev.conllu
+python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-dev.conllu
 
 [Line                   19]: Unknown attribute-value pair Negative=Neg
 [Line                   19]: Unknown UD DEPREL: neg
@@ -1946,7 +1681,7 @@ Syntax errors: 1586
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-train.conllu
+python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
 [Line                   18]: Unknown UPOS tag: CONJ
 [Line                   49]: Unknown attribute-value pair Negative=Neg
@@ -2002,20 +1737,21 @@ Syntax errors: 12909
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:09:02Z">2016-12-06T13:09:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:45:37Z">2017-01-23T13:45:37 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-dev.conllu
 
-[Line                   41]: Column FORM is not allowed to contain whitespace: '40 %'
-[Line                   41]: Column LEMMA is not allowed to contain whitespace: '40 %'
+[Line                   41]: '40 %' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   41]: '40 %' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   57]: DEPREL can only be "root" if HEAD is 0
 [Tree number 7 on line 48]: HEAD == ID for 9
 [Tree number 7 on line 48]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9 are not reachable from the root 0.
 *** FAILED *** with 5 errors
 Format errors: 3
 Syntax errors: 2
+The language-specific file %s does not exist.
 
 
 ******************
@@ -2131,10 +1867,11 @@ python tools/validate.py --lang fo UD-dev-branches/UD_Faroese/fo-ud-wiki.conllu
 [Line                   6510]: Unknown attribute-value pair PronType=Ref
 [Line                   6700]: Unknown attribute-value pair PronType=Ref
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 10524 errors
-Format errors: 9071
+*** FAILED *** with 10514 errors
+Format errors: 9061
 Morpho errors: 34
 Syntax errors: 1419
+The language-specific file %s does not exist.
 
 
 ******************
@@ -2146,7 +1883,7 @@ Syntax errors: 1419
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:10:06Z">2016-12-06T13:10:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:45:45Z">2017-01-23T13:45:45 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2255,7 +1992,7 @@ Syntax errors: 16265
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-19T10:28:23Z">2017-01-19T10:28:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:45:56Z">2017-01-23T13:45:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2322,7 +2059,7 @@ Morpho errors: 1447
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:12:51Z">2016-12-06T13:12:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:46:05Z">2017-01-23T13:46:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2431,7 +2168,7 @@ Syntax errors: 30355
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:13:40Z">2016-12-06T13:13:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:46:26Z">2017-01-23T13:46:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2540,7 +2277,7 @@ Syntax errors: 4346
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:14:09Z">2016-12-06T13:14:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:46:31Z">2017-01-23T13:46:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2648,63 +2385,21 @@ Syntax errors: 1150
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-18T13:01:17Z">2017-01-18T13:01:17 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:46:32Z">2017-01-23T13:46:32 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-dev.conllu
+python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-dev.conllu
 
-[Line                   390]: Unknown UD DEPREL: nsubj:pass
-[Line                   395]: Unknown UD DEPREL: aux:pass
-[Line                   656]: Unknown UD DEPREL: nsubj:pass
-[Line                   661]: Unknown UD DEPREL: aux:pass
-[Line                   861]: Unknown UD DEPREL: nsubj:pass
-[Line                   871]: Unknown UD DEPREL: aux:pass
-[Line                   1052]: Unknown UD DEPREL: aux:pass
-[Line                   1053]: Unknown UD DEPREL: nsubj:pass
-[Line                   1092]: Unknown UD DEPREL: aux:pass
-[Line                   1793]: Unknown UD DEPREL: nsubj:pass
-[Line                   1794]: Unknown UD DEPREL: aux:pass
-[Line                   1812]: Unknown UD DEPREL: aux:pass
-[Line                   1814]: Unknown UD DEPREL: nsubj:pass
-[Line                   1959]: Unknown UD DEPREL: nsubj:pass
-[Line                   1960]: Unknown UD DEPREL: aux:pass
-[Line                   2030]: Unknown UD DEPREL: nsubj:pass
-[Line                   2035]: Unknown UD DEPREL: aux:pass
-[Line                   2038]: Unknown UD DEPREL: nsubj:pass
-[Line                   2040]: Unknown UD DEPREL: aux:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 181 errors
-Syntax errors: 181
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-train.conllu
+python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 
-[Line                   23]: Unknown UD DEPREL: nsubj:pass
-[Line                   122]: Unknown UD DEPREL: nsubj:pass
-[Line                   127]: Unknown UD DEPREL: aux:pass
-[Line                   192]: Unknown UD DEPREL: nsubj:pass
-[Line                   198]: Unknown UD DEPREL: aux:pass
-[Line                   413]: Unknown UD DEPREL: nsubj:pass
-[Line                   414]: Unknown UD DEPREL: aux:pass
-[Line                   434]: Unknown UD DEPREL: nsubj:pass
-[Line                   437]: Unknown UD DEPREL: aux:pass
-[Line                   549]: Unknown UD DEPREL: aux:pass
-[Line                   707]: Unknown UD DEPREL: nsubj:pass
-[Line                   708]: Unknown UD DEPREL: aux:pass
-[Line                   727]: Unknown UD DEPREL: nsubj:pass
-[Line                   1189]: Unknown UD DEPREL: nsubj:pass
-[Line                   1190]: Unknown UD DEPREL: aux:pass
-[Line                   1245]: Unknown UD DEPREL: nsubj:pass
-[Line                   1246]: Unknown UD DEPREL: aux:pass
-[Line                   1427]: Unknown UD DEPREL: nsubj:pass
-[Line                   1428]: Unknown UD DEPREL: aux:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 6399 errors
-Syntax errors: 6399
+*** PASSED ***
 
 
 ******************
@@ -2716,7 +2411,7 @@ Syntax errors: 6399
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:15:57Z">2016-12-06T13:15:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:46:48Z">2017-01-23T13:46:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2825,7 +2520,7 @@ Syntax errors: 4648
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:16:32Z">2016-12-06T13:16:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:46:52Z">2017-01-23T13:46:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2934,7 +2629,7 @@ Syntax errors: 2599
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:17:14Z">2016-12-06T13:17:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:46:55Z">2017-01-23T13:46:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3043,7 +2738,7 @@ Syntax errors: 7237
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:18:34Z">2016-12-06T13:18:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:47:04Z">2017-01-23T13:47:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3152,11 +2847,11 @@ Syntax errors: 24718
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:52:55Z">2016-12-23T09:52:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:47:25Z">2017-01-23T13:47:25 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
+python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: dobj
 [Line                   9]: Unknown UD DEPREL: dobj
@@ -3205,7 +2900,7 @@ Syntax errors: 396
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
+python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
 
 [Line                   4]: Unknown UPOS tag: CONJ
 [Line                   14]: Unknown UD DEPREL: dobj
@@ -3261,7 +2956,7 @@ Syntax errors: 2668
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian</span>
 <span class="widespan">id</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:19:49Z">2016-12-06T13:19:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:47:28Z">2017-01-23T13:47:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3370,7 +3065,7 @@ Syntax errors: 17051
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-20T22:18:41Z">2017-01-20T22:18:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:47:33Z">2017-01-23T13:47:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3479,7 +3174,7 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:21:24Z">2016-12-06T13:21:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:47:34Z">2017-01-23T13:47:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3588,7 +3283,7 @@ Syntax errors: 19569
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-14T12:49:16Z">2017-01-14T12:49:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:47:50Z">2017-01-23T13:47:50 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3613,7 +3308,7 @@ python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-KTC</span>
 <span class="widespan">ja ktc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-14T12:50:58Z">2017-01-14T12:50:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:47:58Z">2017-01-23T13:47:58 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3722,11 +3417,11 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:52:57Z">2016-12-23T09:52:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:48:05Z">2017-01-23T13:48:05 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
+python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 
 [Line                   39]: Unknown UD DEPREL: dobj
 [Line                   54]: Unknown UD DEPREL: dobj
@@ -3775,7 +3470,7 @@ Syntax errors: 43
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
+python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
 
 [Line                   32]: Unknown UD DEPREL: dobj
 [Line                   44]: Unknown UPOS tag: CONJ
@@ -3831,11 +3526,11 @@ Syntax errors: 308
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:52:58Z">2016-12-23T09:52:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:48:06Z">2017-01-23T13:48:06 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ko /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Korean/sejong_tuning.conllu
+python tools/validate.py --lang ko UD-dev-branches/UD_Korean/sejong_tuning.conllu
 
 [Line                   8]: Unknown UD DEPREL: dobj
 [Line                   32]: Unknown UD DEPREL: dobj
@@ -3894,7 +3589,7 @@ Syntax errors: 6576
 <span class="doublewidespan" style="padding-left:3em">UD Kurmanji</span>
 <span class="widespan">kmr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-13T17:24:35Z">2016-12-13T17:24:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:48:09Z">2017-01-23T13:48:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3905,7 +3600,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Latin</span>
 <span class="widespan">la</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:23:54Z">2016-12-06T13:23:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:48:09Z">2017-01-23T13:48:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4013,63 +3708,21 @@ Syntax errors: 4790
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:43:56Z">2017-01-17T15:43:56 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:48:12Z">2017-01-23T13:48:12 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
+python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
 
-[Line                   13]: Unknown UD DEPREL: nsubj:pass
-[Line                   17]: Unknown UD DEPREL: nsubj:pass
-[Line                   88]: Unknown UD DEPREL: nsubj:pass
-[Line                   101]: Unknown UD DEPREL: nsubj:pass
-[Line                   160]: Unknown UD DEPREL: nsubj:pass
-[Line                   168]: Unknown UD DEPREL: nsubj:pass
-[Line                   203]: Unknown UD DEPREL: nsubj:pass
-[Line                   221]: Unknown UD DEPREL: nsubj:pass
-[Line                   277]: Unknown UD DEPREL: nsubj:pass
-[Line                   285]: Unknown UD DEPREL: nsubj:pass
-[Line                   319]: Unknown UD DEPREL: nsubj:pass
-[Line                   396]: Unknown UD DEPREL: nsubj:pass
-[Line                   397]: Unknown UD DEPREL: nsubj:pass
-[Line                   413]: Unknown UD DEPREL: nsubj:pass
-[Line                   417]: Unknown UD DEPREL: aux:pass
-[Line                   509]: Unknown UD DEPREL: nsubj:pass
-[Line                   550]: Unknown UD DEPREL: nsubj:pass
-[Line                   578]: Unknown UD DEPREL: nsubj:pass
-[Line                   596]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 288 errors
-Syntax errors: 288
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
+python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
 
-[Line                   7]: Unknown UD DEPREL: nsubj:pass
-[Line                   130]: Unknown UD DEPREL: nsubj:pass
-[Line                   147]: Unknown UD DEPREL: aux:pass
-[Line                   152]: Unknown UD DEPREL: csubj:pass
-[Line                   173]: Unknown UD DEPREL: nsubj:pass
-[Line                   269]: Unknown UD DEPREL: nsubj:pass
-[Line                   435]: Unknown UD DEPREL: aux:pass
-[Line                   442]: Unknown UD DEPREL: nsubj:pass
-[Line                   483]: Unknown UD DEPREL: nsubj:pass
-[Line                   509]: Unknown UD DEPREL: aux:pass
-[Line                   532]: Unknown UD DEPREL: csubj:pass
-[Line                   555]: Unknown UD DEPREL: nsubj:pass
-[Line                   575]: Unknown UD DEPREL: aux:pass
-[Line                   606]: Unknown UD DEPREL: nsubj:pass
-[Line                   609]: Unknown UD DEPREL: aux:pass
-[Line                   631]: Unknown UD DEPREL: aux:pass
-[Line                   635]: Unknown UD DEPREL: csubj:pass
-[Line                   799]: Unknown UD DEPREL: nsubj:pass
-[Line                   881]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 7381 errors
-Syntax errors: 7381
+*** PASSED ***
 
 
 ******************
@@ -4081,11 +3734,11 @@ Syntax errors: 7381
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:53:15Z">2016-12-23T09:53:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:48:30Z">2017-01-23T13:48:30 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
+python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
 
 [Line                   1]: Unknown UD DEPREL: dobj
 [Line                   10]: Unknown UD DEPREL: nsubjpass
@@ -4134,7 +3787,7 @@ Syntax errors: 2348
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
+python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
 
 [Line                   1]: Unknown UD DEPREL: nsubjpass
 [Line                   9]: Unknown UD DEPREL: dobj
@@ -4190,7 +3843,7 @@ Syntax errors: 17359
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:27:15Z">2016-12-06T13:27:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:48:41Z">2017-01-23T13:48:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4299,7 +3952,7 @@ Syntax errors: 1019
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-28T12:05:56Z">2016-12-28T12:05:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:48:42Z">2017-01-23T13:48:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4307,42 +3960,10 @@ No data
 </pre>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD Norwegian</span>
-<span class="widespan">no</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-11-14T22:03:27Z">2016-11-14T22:03:27 zulu</time></span>
-</div>
-<div>
-<pre>
-python tools/validate.py --lang no UD-dev-branches/UD_Norwegian/no-ud-dev.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang no UD-dev-branches/UD_Norwegian/no-ud-test.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang no UD-dev-branches/UD_Norwegian/no-ud-train.conllu
-
-*** PASSED ***
-
-
-******************
-
-
-</pre>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-28T12:03:46Z">2016-12-28T12:03:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:48:42Z">2017-01-23T13:48:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4409,7 +4030,7 @@ Syntax errors: 6834
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-05T13:13:23Z">2017-01-05T13:13:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:48:57Z">2017-01-23T13:48:57 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4518,7 +4139,7 @@ Syntax errors: 20390
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:27:47Z">2016-12-06T13:27:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:49:12Z">2017-01-23T13:49:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4627,7 +4248,7 @@ Syntax errors: 4690
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-27T23:18:43Z">2016-12-27T23:18:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:49:16Z">2017-01-23T13:49:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4735,63 +4356,21 @@ Syntax errors: 7510
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:44:16Z">2017-01-17T15:44:16 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:49:23Z">2017-01-23T13:49:23 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-dev.conllu
+python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-dev.conllu
 
-[Line                   19]: Unknown UD DEPREL: expl:pv
-[Line                   47]: Unknown UD DEPREL: expl:pv
-[Line                   221]: Unknown UD DEPREL: expl:pv
-[Line                   274]: Unknown UD DEPREL: expl:pv
-[Line                   303]: Unknown UD DEPREL: expl:pv
-[Line                   326]: Unknown UD DEPREL: expl:pv
-[Line                   356]: Unknown UD DEPREL: expl:pv
-[Line                   384]: Unknown UD DEPREL: expl:pv
-[Line                   410]: Unknown UD DEPREL: expl:pv
-[Line                   470]: Unknown UD DEPREL: expl:pv
-[Line                   478]: Unknown UD DEPREL: nsubj:pass
-[Line                   479]: Unknown UD DEPREL: aux:pass
-[Line                   492]: Unknown UD DEPREL: expl:pv
-[Line                   575]: Unknown UD DEPREL: nsubj:pass
-[Line                   576]: Unknown UD DEPREL: aux:pass
-[Line                   584]: Unknown UD DEPREL: expl:pv
-[Line                   604]: Unknown UD DEPREL: expl:pv
-[Line                   722]: Unknown UD DEPREL: expl:pv
-[Line                   754]: Unknown UD DEPREL: expl:pv
-...suppressing further errors regarding Syntax
-*** FAILED *** with 210 errors
-Syntax errors: 210
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-train.conllu
+python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 
-[Line                   59]: Unknown UD DEPREL: expl:pv
-[Line                   237]: Unknown UD DEPREL: expl:pv
-[Line                   311]: Unknown UD DEPREL: expl:pv
-[Line                   324]: Unknown UD DEPREL: expl:pv
-[Line                   447]: Unknown UD DEPREL: expl:pv
-[Line                   618]: Unknown UD DEPREL: nsubj:pass
-[Line                   621]: Unknown UD DEPREL: aux:pass
-[Line                   671]: Unknown UD DEPREL: expl:pv
-[Line                   829]: Unknown UD DEPREL: expl:pv
-[Line                   844]: Unknown UD DEPREL: expl:pv
-[Line                   851]: Unknown UD DEPREL: expl:pv
-[Line                   910]: Unknown UD DEPREL: expl:pv
-[Line                   922]: Unknown UD DEPREL: expl:pv
-[Line                   1022]: Unknown UD DEPREL: expl:pv
-[Line                   1067]: Unknown UD DEPREL: expl:pv
-[Line                   1085]: Unknown UD DEPREL: aux:pass
-[Line                   1133]: Unknown UD DEPREL: expl:pv
-[Line                   1142]: Unknown UD DEPREL: expl:pv
-[Line                   1191]: Unknown UD DEPREL: expl:pv
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1830 errors
-Syntax errors: 1830
+*** PASSED ***
 
 
 ******************
@@ -4803,11 +4382,11 @@ Syntax errors: 1830
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:44:23Z">2017-01-17T15:44:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:49:29Z">2017-01-23T13:49:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
 
 [Line                   14]: Unknown UD DEPREL: name
 [Line                   15]: Unknown UD DEPREL: name
@@ -4856,7 +4435,7 @@ Syntax errors: 576
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
 [Line                   11]: Unknown UPOS tag: CONJ
 [Line                   47]: Unknown UD DEPREL: dobj
@@ -4911,63 +4490,21 @@ Syntax errors: 23454
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-BR</span>
 <span class="widespan">pt br</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T16:50:55Z">2017-01-17T16:50:55 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:49:42Z">2017-01-23T13:49:42 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_br /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-BR/pt_br-ud-dev.conllu
+python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-dev.conllu
 
-[Line                   178]: Unknown UD DEPREL: aux:pass
-[Line                   214]: Unknown UD DEPREL: nsubj:pass
-[Line                   218]: Unknown UD DEPREL: aux:pass
-[Line                   360]: Unknown UD DEPREL: nsubj:pass
-[Line                   363]: Unknown UD DEPREL: aux:pass
-[Line                   585]: Unknown UD DEPREL: nsubj:pass
-[Line                   586]: Unknown UD DEPREL: aux:pass
-[Line                   606]: Unknown UD DEPREL: nsubj:pass
-[Line                   607]: Unknown UD DEPREL: aux:pass
-[Line                   692]: Unknown UD DEPREL: nsubj:pass
-[Line                   694]: Unknown UD DEPREL: aux:pass
-[Line                   724]: Unknown UD DEPREL: expl:pv
-[Line                   750]: Unknown UD DEPREL: nsubj:pass
-[Line                   751]: Unknown UD DEPREL: aux:pass
-[Line                   1313]: Unknown UD DEPREL: nsubj:pass
-[Line                   1317]: Unknown UD DEPREL: aux:pass
-[Line                   1356]: Unknown UD DEPREL: nsubj:pass
-[Line                   1358]: Unknown UD DEPREL: aux:pass
-[Line                   1380]: Unknown UD DEPREL: aux:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 512 errors
-Syntax errors: 512
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_br /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-BR/pt_br-ud-train.conllu
+python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-train.conllu
 
-[Line                   61]: Unknown UD DEPREL: nsubj:pass
-[Line                   62]: Unknown UD DEPREL: aux:pass
-[Line                   356]: Unknown UD DEPREL: nsubj:pass
-[Line                   357]: Unknown UD DEPREL: aux:pass
-[Line                   439]: Unknown UD DEPREL: nsubj:pass
-[Line                   440]: Unknown UD DEPREL: aux:pass
-[Line                   625]: Unknown UD DEPREL: aux:pass
-[Line                   668]: Unknown UD DEPREL: nsubj:pass
-[Line                   673]: Unknown UD DEPREL: aux:pass
-[Line                   1005]: Unknown UD DEPREL: nsubj:pass
-[Line                   1006]: Unknown UD DEPREL: aux:pass
-[Line                   1296]: Unknown UD DEPREL: nsubj:pass
-[Line                   1297]: Unknown UD DEPREL: aux:pass
-[Line                   1324]: Unknown UD DEPREL: nsubj:pass
-[Line                   1330]: Unknown UD DEPREL: aux:pass
-[Line                   1445]: Unknown UD DEPREL: nsubj:pass
-[Line                   1450]: Unknown UD DEPREL: aux:pass
-[Line                   1504]: Unknown UD DEPREL: expl:pv
-[Line                   1526]: Unknown UD DEPREL: expl:pv
-...suppressing further errors regarding Syntax
-*** FAILED *** with 4124 errors
-Syntax errors: 4124
+*** PASSED ***
 
 
 ******************
@@ -4979,7 +4516,7 @@ Syntax errors: 4124
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-13T22:50:40Z">2017-01-13T22:50:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:49:52Z">2017-01-23T13:49:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5031,7 +4568,7 @@ Syntax errors: 23
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T10:06:32Z">2017-01-17T10:06:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:50:05Z">2017-01-23T13:50:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5140,11 +4677,11 @@ Syntax errors: 20853
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:53:44Z">2016-12-23T09:53:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:50:33Z">2017-01-23T13:50:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 [Line                   10]: Unknown UPOS tag: CONJ
 [Line                   16]: Unknown UD DEPREL: dobj
@@ -5193,7 +4730,7 @@ Syntax errors: 645
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-train.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 [Line                   7]: Unknown UPOS tag: CONJ
 [Line                   13]: Unknown UD DEPREL: dobj
@@ -5249,11 +4786,11 @@ Syntax errors: 4620
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:53:48Z">2016-12-23T09:53:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:50:39Z">2017-01-23T13:50:39 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
 [Line                   8]: Unknown UD DEPREL: name
 [Line                   16]: Unknown UD DEPREL: dobj
@@ -5302,7 +4839,7 @@ Syntax errors: 6533
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
 
 [Line                   9]: Unknown UD DEPREL: name
 [Line                   25]: Unknown UPOS tag: CONJ
@@ -5357,25 +4894,21 @@ Syntax errors: 51913
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-18T13:01:35Z">2017-01-18T13:01:35 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:51:37Z">2017-01-23T13:51:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
+python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
+python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
 
-[Line                   81]: Unknown UD DEPREL: nsubj:pass
-[Line                   85]: Unknown UD DEPREL: nsubj:pass
-[Line                   387]: Unknown UD DEPREL: nsubj:pass
-*** FAILED *** with 3 errors
-Syntax errors: 3
+*** PASSED ***
 
 
 ******************
@@ -5387,7 +4920,7 @@ Syntax errors: 3
 <span class="doublewidespan" style="padding-left:3em">UD Serbian</span>
 <span class="widespan">sr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:38:02Z">2016-12-06T13:38:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:51:37Z">2017-01-23T13:51:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5397,63 +4930,21 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:44:38Z">2017-01-17T15:44:38 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:51:37Z">2017-01-23T13:51:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
-[Line                   8]: Unknown UD DEPREL: expl:pv
-[Line                   367]: Unknown UD DEPREL: flat:foreign
-[Line                   503]: Unknown UD DEPREL: expl:pv
-[Line                   529]: Unknown UD DEPREL: expl:pv
-[Line                   687]: Unknown UD DEPREL: expl:pv
-[Line                   807]: Unknown UD DEPREL: expl:pv
-[Line                   829]: Unknown UD DEPREL: expl:pv
-[Line                   976]: Unknown UD DEPREL: expl:pv
-[Line                   1067]: Unknown UD DEPREL: expl:pv
-[Line                   1112]: Unknown UD DEPREL: expl:pv
-[Line                   1130]: Unknown UD DEPREL: expl:pv
-[Line                   1338]: Unknown UD DEPREL: expl:pv
-[Line                   1375]: Unknown UD DEPREL: expl:pv
-[Line                   1383]: Unknown UD DEPREL: expl:pv
-[Line                   1416]: Unknown UD DEPREL: expl:pv
-[Line                   1519]: Unknown UD DEPREL: expl:pv
-[Line                   1528]: Unknown UD DEPREL: expl:pv
-[Line                   1576]: Unknown UD DEPREL: expl:pv
-[Line                   1716]: Unknown UD DEPREL: expl:pv
-...suppressing further errors regarding Syntax
-*** FAILED *** with 331 errors
-Syntax errors: 331
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
-[Line                   30]: Unknown UD DEPREL: expl:pv
-[Line                   123]: Unknown UD DEPREL: flat:foreign
-[Line                   203]: Unknown UD DEPREL: expl:pv
-[Line                   313]: Unknown UD DEPREL: expl:pv
-[Line                   438]: Unknown UD DEPREL: expl:pv
-[Line                   446]: Unknown UD DEPREL: expl:pv
-[Line                   499]: Unknown UD DEPREL: expl:pv
-[Line                   580]: Unknown UD DEPREL: expl:pv
-[Line                   600]: Unknown UD DEPREL: aux:pass
-[Line                   602]: Unknown UD DEPREL: nsubj:pass
-[Line                   605]: Unknown UD DEPREL: expl:pv
-[Line                   626]: Unknown UD DEPREL: expl:pv
-[Line                   741]: Unknown UD DEPREL: csubj:pass
-[Line                   755]: Unknown UD DEPREL: expl:pv
-[Line                   769]: Unknown UD DEPREL: expl:pv
-[Line                   823]: Unknown UD DEPREL: expl:pv
-[Line                   830]: Unknown UD DEPREL: expl:pv
-[Line                   902]: Unknown UD DEPREL: nsubj:pass
-[Line                   925]: Unknown UD DEPREL: expl:pv
-...suppressing further errors regarding Syntax
-*** FAILED *** with 2387 errors
-Syntax errors: 2387
+*** PASSED ***
 
 
 ******************
@@ -5465,7 +4956,7 @@ Syntax errors: 2387
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:39:21Z">2016-12-06T13:39:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:51:44Z">2017-01-23T13:51:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5574,11 +5065,11 @@ Syntax errors: 7175
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:54:40Z">2016-12-23T09:54:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:51:52Z">2017-01-23T13:51:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
 [Line                   3]: Unknown UPOS tag: CONJ
 [Line                   11]: Unknown UPOS tag: CONJ
@@ -5627,7 +5118,7 @@ Syntax errors: 216
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
 [Line                   9]: Unknown attribute-value pair Negative=Pos
 [Line                   19]: Unknown UPOS tag: CONJ
@@ -5683,7 +5174,7 @@ Syntax errors: 1729
 <span class="doublewidespan" style="padding-left:3em">UD Somali</span>
 <span class="widespan">so</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:40:14Z">2016-12-06T13:40:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:51:54Z">2017-01-23T13:51:54 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5694,7 +5185,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Sorani</span>
 <span class="widespan">ckb</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:40:25Z">2016-12-06T13:40:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:51:54Z">2017-01-23T13:51:54 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5704,63 +5195,21 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T12:54:03Z">2017-01-23T12:54:03 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:51:54Z">2017-01-23T13:51:54 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-dev.conllu
 
-[Line                   162]: Unknown UD DEPREL: nsubj:pass
-[Line                   167]: Unknown UD DEPREL: aux:pass
-[Line                   631]: Unknown UD DEPREL: aux:pass
-[Line                   1327]: Unknown UD DEPREL: aux:pass
-[Line                   1829]: Unknown UD DEPREL: nsubj:pass
-[Line                   1833]: Unknown UD DEPREL: aux:pass
-[Line                   1895]: Unknown UD DEPREL: aux:pass
-[Line                   1940]: Unknown UD DEPREL: nsubj:pass
-[Line                   1945]: Unknown UD DEPREL: aux:pass
-[Line                   2286]: Unknown UD DEPREL: nsubj:pass
-[Line                   2291]: Unknown UD DEPREL: aux:pass
-[Line                   2300]: Unknown UD DEPREL: nsubj:pass
-[Line                   2302]: Unknown UD DEPREL: aux:pass
-[Line                   2332]: Unknown UD DEPREL: nsubj:pass
-[Line                   2350]: Unknown UD DEPREL: aux:pass
-[Line                   2903]: Unknown UD DEPREL: aux:pass
-[Line                   3956]: Unknown UD DEPREL: aux:pass
-[Line                   3958]: Unknown UD DEPREL: nsubj:pass
-[Line                   3984]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 286 errors
-Syntax errors: 286
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-train.conllu
 
-[Line                   571]: Unknown UD DEPREL: aux:pass
-[Line                   1107]: Unknown UD DEPREL: nsubj:pass
-[Line                   1108]: Unknown UD DEPREL: aux:pass
-[Line                   1777]: Unknown UD DEPREL: nsubj:pass
-[Line                   1781]: Unknown UD DEPREL: aux:pass
-[Line                   1959]: Unknown UD DEPREL: aux:pass
-[Line                   2280]: Unknown UD DEPREL: nsubj:pass
-[Line                   2304]: Unknown UD DEPREL: aux:pass
-[Line                   2407]: Unknown UD DEPREL: nsubj:pass
-[Line                   2417]: Unknown UD DEPREL: aux:pass
-[Line                   2578]: Unknown UD DEPREL: nsubj:pass
-[Line                   2579]: Unknown UD DEPREL: aux:pass
-[Line                   2668]: Unknown UD DEPREL: nsubj:pass
-[Line                   2925]: Unknown UD DEPREL: aux:pass
-[Line                   3269]: Unknown UD DEPREL: nsubj:pass
-[Line                   3270]: Unknown UD DEPREL: aux:pass
-[Line                   3454]: Unknown UD DEPREL: aux:pass
-[Line                   3525]: Unknown UD DEPREL: nsubj:pass
-[Line                   3526]: Unknown UD DEPREL: aux:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 2728 errors
-Syntax errors: 2728
+*** PASSED ***
 
 
 ******************
@@ -5772,11 +5221,11 @@ Syntax errors: 2728
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:54:41Z">2016-12-23T09:54:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:52:17Z">2017-01-23T13:52:17 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
+python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
 
 [Line                   23]: Unknown UD DEPREL: mwe
 [Line                   24]: Unknown UD DEPREL: mwe
@@ -5825,7 +5274,7 @@ Syntax errors: 6164
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
+python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
 
 [Line                   13]: Unknown UD DEPREL: dobj
 [Line                   15]: Unknown UD DEPREL: dobj
@@ -5881,7 +5330,7 @@ Syntax errors: 52483
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T08:21:47Z">2017-01-23T08:21:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:52:47Z">2017-01-23T13:52:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5990,11 +5439,11 @@ Syntax errors: 5737
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:55:09Z">2016-12-23T09:55:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:52:52Z">2017-01-23T13:52:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
+python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: neg
 [Line                   9]: Unknown UD DEPREL: dobj
@@ -6043,7 +5492,7 @@ Syntax errors: 608
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
+python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
 
 [Line                   2]: Unknown UD DEPREL: dobj
 [Line                   10]: Unknown UD DEPREL: mwe
@@ -6099,11 +5548,11 @@ Syntax errors: 5308
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:55:11Z">2016-12-23T09:55:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:52:55Z">2017-01-23T13:52:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: dobj
 [Line                   18]: Unknown UD DEPREL: dobj
@@ -6115,7 +5564,7 @@ Syntax errors: 4
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
 
 [Line                   15]: Unknown UD DEPREL: dobj
 [Line                   68]: Unknown UD DEPREL: dobj
@@ -6140,23 +5589,21 @@ Syntax errors: 11
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Tamil</span>
 <span class="widespan">ta</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-17T15:44:45Z">2017-01-17T15:44:45 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:52:55Z">2017-01-23T13:52:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-dev.conllu
+python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-train.conllu
+python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 
-[Line                   7170]: Unknown UD DEPREL: nsubj:pass
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
@@ -6168,11 +5615,11 @@ Syntax errors: 1
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:55:11Z">2016-12-23T09:55:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:52:56Z">2017-01-23T13:52:56 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
+python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
 
 [Line                   2]: Unknown UD DEPREL: dobj
 [Line                   3]: Unknown attribute-value pair Negative=Pos
@@ -6221,7 +5668,7 @@ Syntax errors: 741
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-train.conllu
+python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 
 [Line                   2]: Unknown attribute-value pair Negative=Pos
 [Line                   5]: Unknown UPOS tag: CONJ
@@ -6277,7 +5724,7 @@ Syntax errors: 3393
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:46:30Z">2016-12-06T13:46:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:52:59Z">2017-01-23T13:52:59 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6358,7 +5805,7 @@ Syntax errors: 139
 <span class="doublewidespan" style="padding-left:3em">UD Urdu</span>
 <span class="widespan">ur</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:46:46Z">2016-12-06T13:46:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:53:00Z">2017-01-23T13:53:00 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6369,11 +5816,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:55:14Z">2016-12-23T09:55:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:53:00Z">2017-01-23T13:53:00 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
+python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
 [Line                   11]: Unknown UD DEPREL: dobj
 [Line                   49]: Unknown UPOS tag: CONJ
@@ -6422,7 +5869,7 @@ Syntax errors: 76
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
+python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
 
 [Line                   8]: Unknown UD DEPREL: dobj
 [Line                   14]: Unknown UD DEPREL: dobj
@@ -6478,7 +5925,7 @@ Syntax errors: 604
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:47:39Z">2016-12-06T13:47:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:53:00Z">2017-01-23T13:53:00 zulu</time></span>
 </div>
 <div>
 <pre>
