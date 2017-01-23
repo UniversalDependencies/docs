@@ -129,9 +129,10 @@ nsubj(want-7, they-6)
 xcomp(want-7, to-8)
 ~~~
 
-In more complicated cases where a predicate is elided but no `aux` or `cop` is present, promotion could lead to very unnatural and confusing relations. For example, in the following sentence, _you_ would be the subject of _coffee_, suggesting that the second clause contains a copular construction rather than an elided predicate.
+In more complicated cases where a predicate is elided but no `aux` or `cop` is present, simple promotion (without `orphan` deprels) could lead to very unnatural and confusing relations. For example, in the following sentence, _you_ would be the subject of _coffee_, suggesting that the second clause contains a copular construction rather than an elided predicate.
 
 ~~~ sdparse
+# visual-style 6 5 nsubj color:red
 I like tea and you coffee .
 
 nsubj(like-2, I-1)
@@ -140,7 +141,8 @@ nsubj(coffee-6, you-5)
 conj(like-2, coffee-6)
 ~~~ 
 
-In such cases, we use the special relation `orphan` to signal a non-standard dependency. 
+In such cases, we promote dependents in the following order: `nsubj` > `obj` > `iobj` > `obl` > `advmod` > `csubj` > `xcomp` > `ccomp` > `advcl`
+and for the non-promoted dependents, we use the special relation `orphan` to signal a non-standard dependency. 
 
 ~~~ sdparse
 I like tea and you coffee .
