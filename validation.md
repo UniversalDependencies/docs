@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-23T08:21:51Z">2017-01-23T08:21:51 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-23T12:31:57Z">2017-01-23T12:31:57 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5705,11 +5705,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-06T13:41:32Z">2016-12-06T13:41:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T12:31:39Z">2017-01-23T12:31:39 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-dev.conllu
 
 [Line                   2]: Unknown UD DEPREL: dobj
 [Line                   7]: Unknown UD DEPREL: dobj
@@ -5758,7 +5758,7 @@ Syntax errors: 2693
 
 ******************
 
-python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-train.conllu
 
 [Line                   13]: Unknown UD DEPREL: dobj
 [Line                   17]: Unknown UD DEPREL: dobj
