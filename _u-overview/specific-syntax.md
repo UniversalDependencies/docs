@@ -131,15 +131,16 @@ xcomp(want-7, to-8)
 
 In more complicated cases where a predicate is elided but no `aux` or `cop` is present, simple promotion (without `orphan` deprels) could lead to very unnatural and confusing relations. For example, in the following sentence, _you_ would be the subject of _coffee_, suggesting that the second clause contains a copular construction rather than an elided predicate.
 
-~~~ sdparse
+<div class="conllu-parse" tabs="yes">
 # visual-style 6 5 nsubj color:red
-I like tea and you coffee .
-
-nsubj(like-2, I-1)
-obj(like-2, tea-3)
-nsubj(coffee-6, you-5)
-conj(like-2, coffee-6)
-~~~ 
+1 I      I      _ PRP _ 2 nsubj _ _
+2 like   like   _ VBP _ 0 root  _ _
+3 tee    tee    _ NN  _ 2 obj   _ _
+4 and    and    _ CC  _ 6 cc    _ _
+5 you    you    _ PRP _ 6 nsubj _ _
+6 coffee coffee _ VBP _ 2 conj  _ SpaceAfter=No
+7 .      .      _ .   _ 2 punct _ _
+</div>
 
 In such cases, we promote dependents in the following order: `nsubj` > `obj` > `iobj` > `obl` > `advmod` > `csubj` > `xcomp` > `ccomp` > `advcl`
 and for the non-promoted dependents, we use the special relation `orphan` to signal a non-standard dependency. 
