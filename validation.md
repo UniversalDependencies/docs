@@ -3,7 +3,7 @@ layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-21T00:21:05Z">2017-01-21T00:21:05 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-23T08:17:59Z">2017-01-23T08:17:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5923,11 +5923,11 @@ Syntax errors: 52483
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2016-12-23T09:55:05Z">2016-12-23T09:55:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T08:17:55Z">2017-01-23T08:17:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
+python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: nsubjpass
 [Line                   13]: Unknown UD DEPREL: nmod:agent
@@ -5976,7 +5976,7 @@ Syntax errors: 972
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-train.conllu
+python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 
 [Line                   10]: Unknown UD DEPREL: nsubjpass
 [Line                   51]: Unknown UPOS tag: CONJ
