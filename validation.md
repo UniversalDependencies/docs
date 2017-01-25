@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-25T16:40:06Z">2017-01-25T16:40:06 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-25T17:46:01Z">2017-01-25T17:46:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1080,20 +1080,20 @@ Syntax errors: 8478
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T15:23:15Z">2017-01-25T15:23:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T17:45:48Z">2017-01-25T17:45:48 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
-[Line                   68516]: Unknown UD DEPREL: coord
+[Line                   73739]: Unknown UD DEPREL: coord
 *** FAILED *** with 1 errors
 Syntax errors: 1
 
