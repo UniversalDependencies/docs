@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-25T12:06:42Z">2017-01-25T12:06:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-25T12:44:10Z">2017-01-25T12:44:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4435,47 +4435,26 @@ python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:49:52Z">2017-01-23T13:49:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T12:43:58Z">2017-01-25T12:43:58 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
 
-[Line                   416]: Unknown UD DEPREL: remnant
-[Line                   418]: Unknown UD DEPREL: remnant
-[Line                   438]: Unknown UD DEPREL: remnant
-[Line                   441]: Unknown UD DEPREL: remnant
-[Line                   443]: Unknown UD DEPREL: remnant
-*** FAILED *** with 5 errors
-Syntax errors: 5
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
 
-[Line                   6910]: Unknown UD DEPREL: remnant
-[Line                   6918]: Unknown UD DEPREL: remnant
 [Line                   36537]: Unknown UD DEPREL: neg
-[Line                   42372]: Unknown UD DEPREL: remnant
-[Line                   42376]: Unknown UD DEPREL: remnant
 [Line                   43771]: Unknown UD DEPREL: neg
 [Line                   68644]: Unknown UD DEPREL: neg
 [Line                   90131]: Unknown UD DEPREL: neg
-[Line                   91399]: Unknown UD DEPREL: remnant
-[Line                   91400]: Unknown UD DEPREL: remnant
-[Line                   120680]: Unknown UD DEPREL: remnant
-[Line                   120686]: Unknown UD DEPREL: remnant
-[Line                   191127]: Unknown UD DEPREL: remnant
-[Line                   191132]: Unknown UD DEPREL: remnant
-[Line                   207931]: Unknown UD DEPREL: remnant
-[Line                   207933]: Unknown UD DEPREL: remnant
-[Line                   211883]: Unknown UD DEPREL: remnant
-[Line                   211886]: Unknown UD DEPREL: remnant
-[Line                   211891]: Unknown UD DEPREL: remnant
-...suppressing further errors regarding Syntax
-*** FAILED *** with 23 errors
-Syntax errors: 23
+[Line                   247227]: Unknown UD DEPREL: neg
+*** FAILED *** with 5 errors
+Syntax errors: 5
 
 
 ******************
