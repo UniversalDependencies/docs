@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-25T10:43:15Z">2017-01-25T10:43:15 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-25T10:46:04Z">2017-01-25T10:46:04 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5331,104 +5331,106 @@ Syntax errors: 52483
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T10:43:10Z">2017-01-25T10:43:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T10:45:56Z">2017-01-25T10:45:56 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
 
-[Line                   7]: Unknown UD DEPREL: nsubjpass
-[Line                   13]: Unknown UD DEPREL: nmod:agent
-[Line                   26]: Unknown UD DEPREL: dobj
-[Line                   49]: Unknown UD DEPREL: nsubjpass
-[Line                   57]: Unknown UD DEPREL: dobj
-[Line                   58]: Unknown UPOS tag: CONJ
-[Line                   61]: Unknown UD DEPREL: dobj
-[Line                   75]: Unknown UD DEPREL: dobj
-[Line                   77]: Unknown UD DEPREL: dobj
-[Line                   81]: Unknown UPOS tag: CONJ
-[Line                   84]: Unknown UPOS tag: CONJ
-[Line                   94]: Unknown UD DEPREL: nsubjpass
-[Line                   107]: Unknown UD DEPREL: dobj
-[Line                   110]: Unknown UPOS tag: CONJ
-[Line                   116]: Unknown UD DEPREL: dobj
-[Line                   122]: Unknown UD DEPREL: neg
-[Line                   128]: Unknown UD DEPREL: dobj
-[Line                   132]: Unknown UD DEPREL: nsubjpass
-[Line                   135]: Unknown UD DEPREL: dobj
-[Line                   136]: Unknown UPOS tag: CONJ
-[Line                   140]: Unknown UD DEPREL: mwe
-[Line                   144]: Unknown UD DEPREL: nsubjpass
-[Line                   147]: Unknown UPOS tag: CONJ
-[Line                   162]: Unknown UPOS tag: CONJ
-[Line                   172]: Unknown UD DEPREL: dobj
-[Line                   173]: Unknown UPOS tag: CONJ
-[Line                   194]: Unknown UD DEPREL: dobj
-[Line                   195]: Unknown UPOS tag: CONJ
-[Line                   199]: Unknown UPOS tag: CONJ
+[Line                   14]: Unknown UD DEPREL: nsubj:pass
+[Line                   68]: Unknown UD DEPREL: nsubj:pass
+[Line                   69]: Unknown UD DEPREL: nsubj:pass
+[Line                   180]: Unknown UD DEPREL: nsubj:pass
+[Line                   204]: Unknown UD DEPREL: nsubj:pass
+[Line                   220]: Unknown UD DEPREL: nsubj:pass
+[Line                   233]: Unknown UD DEPREL: nsubj:pass
+[Line                   246]: Unknown UD DEPREL: nsubj:pass
+[Line                   255]: Unknown UD DEPREL: nsubj:pass
+[Line                   275]: Unknown UD DEPREL: nsubj:pass
+[Line                   283]: Unknown UD DEPREL: nsubj:pass
+[Line                   288]: Unknown UD DEPREL: nsubj:pass
+[Line                   307]: Unknown UD DEPREL: nsubj:pass
+[Line                   320]: Unknown UD DEPREL: nsubj:pass
+[Line                   359]: Unknown UD DEPREL: nsubj:pass
+[Line                   396]: Unknown UD DEPREL: nsubj:pass
+[Line                   421]: Unknown UD DEPREL: nsubj:pass
+[Line                   448]: Unknown UD DEPREL: nsubj:pass
+[Line                   457]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-[Line                   220]: Unknown UPOS tag: CONJ
-[Line                   241]: Unknown UPOS tag: CONJ
-[Line                   253]: Unknown UPOS tag: CONJ
-[Line                   286]: Unknown UPOS tag: CONJ
-[Line                   291]: Unknown UPOS tag: CONJ
-[Line                   304]: Unknown UPOS tag: CONJ
-[Line                   311]: Unknown UPOS tag: CONJ
-[Line                   313]: Unknown UPOS tag: CONJ
-[Line                   330]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 1514 errors
-Morpho errors: 542
-Syntax errors: 972
+[Line                   1112]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1112]: 't ex' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1590]: 'm m' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1590]: 'm m' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1648]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1648]: 't ex' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1772]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1772]: 't ex' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1884]: 'm m' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1884]: 'm m' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2228]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2228]: 't ex' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2272]: 'bl a' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2272]: 'bl a' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2499]: 's k' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2499]: 's k' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   3141]: 's k' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   3141]: 's k' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   3257]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+...suppressing further errors regarding Format
+*** FAILED *** with 1332 errors
+Format errors: 200
+Syntax errors: 1132
+The language-specific file %s does not exist.
 
 
 ******************
 
 python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 
-[Line                   10]: Unknown UD DEPREL: nsubjpass
-[Line                   51]: Unknown UPOS tag: CONJ
-[Line                   56]: Unknown UD DEPREL: nsubjpass
-[Line                   57]: Unknown UD DEPREL: nsubjpass
-[Line                   82]: Unknown UPOS tag: CONJ
-[Line                   91]: Unknown UPOS tag: CONJ
-[Line                   110]: Unknown UD DEPREL: neg
-[Line                   127]: Unknown UD DEPREL: neg
-[Line                   138]: Unknown UPOS tag: CONJ
-[Line                   140]: Unknown UPOS tag: CONJ
-[Line                   160]: Unknown UD DEPREL: nsubjpass
-[Line                   173]: Unknown UPOS tag: CONJ
-[Line                   175]: Unknown UPOS tag: CONJ
-[Line                   182]: Unknown UD DEPREL: nsubjpass
-[Line                   187]: Unknown UD DEPREL: mwe
-[Line                   188]: Unknown UD DEPREL: mwe
-[Line                   196]: Unknown UD DEPREL: nsubjpass
-[Line                   207]: Unknown UD DEPREL: nsubjpass
-[Line                   215]: Unknown UPOS tag: CONJ
-[Line                   218]: Unknown UD DEPREL: nsubjpass
-[Line                   221]: Unknown UD DEPREL: dobj
-[Line                   227]: Unknown UD DEPREL: nsubjpass
-[Line                   242]: Unknown UD DEPREL: dobj
-[Line                   245]: Unknown UD DEPREL: nsubjpass
-[Line                   247]: Unknown UPOS tag: CONJ
-[Line                   251]: Unknown UD DEPREL: nsubjpass
-[Line                   254]: Unknown UD DEPREL: nsubjpass
-[Line                   271]: Unknown UD DEPREL: nsubjpass
+[Line                   14]: Unknown UD DEPREL: nsubj:pass
+[Line                   68]: Unknown UD DEPREL: nsubj:pass
+[Line                   69]: Unknown UD DEPREL: nsubj:pass
+[Line                   180]: Unknown UD DEPREL: nsubj:pass
+[Line                   204]: Unknown UD DEPREL: nsubj:pass
+[Line                   220]: Unknown UD DEPREL: nsubj:pass
+[Line                   233]: Unknown UD DEPREL: nsubj:pass
+[Line                   246]: Unknown UD DEPREL: nsubj:pass
+[Line                   255]: Unknown UD DEPREL: nsubj:pass
+[Line                   275]: Unknown UD DEPREL: nsubj:pass
+[Line                   283]: Unknown UD DEPREL: nsubj:pass
+[Line                   288]: Unknown UD DEPREL: nsubj:pass
+[Line                   307]: Unknown UD DEPREL: nsubj:pass
+[Line                   320]: Unknown UD DEPREL: nsubj:pass
+[Line                   359]: Unknown UD DEPREL: nsubj:pass
+[Line                   396]: Unknown UD DEPREL: nsubj:pass
+[Line                   421]: Unknown UD DEPREL: nsubj:pass
+[Line                   448]: Unknown UD DEPREL: nsubj:pass
+[Line                   457]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-[Line                   332]: Unknown UPOS tag: CONJ
-[Line                   334]: Unknown UPOS tag: CONJ
-[Line                   367]: Unknown UPOS tag: CONJ
-[Line                   414]: Unknown UPOS tag: CONJ
-[Line                   424]: Unknown UPOS tag: CONJ
-[Line                   432]: Unknown UPOS tag: CONJ
-[Line                   437]: Unknown UPOS tag: CONJ
-[Line                   446]: Unknown UPOS tag: CONJ
-[Line                   553]: Unknown UPOS tag: CONJ
-[Line                   556]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 8557 errors
-Morpho errors: 2820
-Syntax errors: 5737
+[Line                   1112]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1112]: 't ex' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1590]: 'm m' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1590]: 'm m' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1648]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1648]: 't ex' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1772]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1772]: 't ex' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1884]: 'm m' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   1884]: 'm m' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2228]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2228]: 't ex' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2272]: 'bl a' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2272]: 'bl a' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2499]: 's k' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   2499]: 's k' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   3141]: 's k' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   3141]: 's k' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   3257]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+...suppressing further errors regarding Format
+*** FAILED *** with 1332 errors
+Format errors: 200
+Syntax errors: 1132
+The language-specific file %s does not exist.
 
 
 ******************
