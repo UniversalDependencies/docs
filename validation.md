@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-25T10:46:04Z">2017-01-25T10:46:04 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-25T10:52:57Z">2017-01-25T10:52:57 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -518,11 +518,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:41:53Z">2017-01-23T13:41:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T10:52:00Z">2017-01-25T10:52:00 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
 
 [Line                   4]: Unknown UD DEPREL: name
 [Line                   5]: Unknown UD DEPREL: name
@@ -571,7 +571,7 @@ Syntax errors: 7392
 
 ******************
 
-python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 
 [Line                   5]: Unknown UD DEPREL: name
 [Line                   7]: Unknown UD DEPREL: name
@@ -5222,11 +5222,11 @@ python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-23T13:52:17Z">2017-01-23T13:52:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T10:52:28Z">2017-01-25T10:52:28 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
 
 [Line                   23]: Unknown UD DEPREL: mwe
 [Line                   24]: Unknown UD DEPREL: mwe
@@ -5275,7 +5275,7 @@ Syntax errors: 6164
 
 ******************
 
-python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
 
 [Line                   13]: Unknown UD DEPREL: dobj
 [Line                   15]: Unknown UD DEPREL: dobj
