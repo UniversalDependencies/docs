@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-25T19:03:50Z">2017-01-25T19:03:50 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-25T21:37:15Z">2017-01-25T21:37:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2980,11 +2980,11 @@ Syntax errors: 17051
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T15:25:57Z">2017-01-25T15:25:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T21:37:14Z">2017-01-25T21:37:14 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-dev.conllu
+python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-dev.conllu
 
 [Line                   11]: Unknown UD DEPREL: dobj
 [Line                   15]: Unknown UPOS tag: CONJ
@@ -3033,7 +3033,7 @@ Syntax errors: 133
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-train.conllu
+python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 
 [Line                   2]: Unknown UD DEPREL: dobj
 [Line                   12]: Unknown UPOS tag: CONJ
