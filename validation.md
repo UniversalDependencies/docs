@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-25T11:07:50Z">2017-01-25T11:07:50 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-25T11:20:35Z">2017-01-25T11:20:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5249,32 +5249,12 @@ Syntax errors: 52483
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T10:54:27Z">2017-01-25T10:54:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T11:20:27Z">2017-01-25T11:20:27 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
 
-[Line                   14]: Unknown UD DEPREL: nsubj:pass
-[Line                   68]: Unknown UD DEPREL: nsubj:pass
-[Line                   69]: Unknown UD DEPREL: nsubj:pass
-[Line                   180]: Unknown UD DEPREL: nsubj:pass
-[Line                   204]: Unknown UD DEPREL: nsubj:pass
-[Line                   220]: Unknown UD DEPREL: nsubj:pass
-[Line                   233]: Unknown UD DEPREL: nsubj:pass
-[Line                   246]: Unknown UD DEPREL: nsubj:pass
-[Line                   255]: Unknown UD DEPREL: nsubj:pass
-[Line                   275]: Unknown UD DEPREL: nsubj:pass
-[Line                   283]: Unknown UD DEPREL: nsubj:pass
-[Line                   288]: Unknown UD DEPREL: nsubj:pass
-[Line                   307]: Unknown UD DEPREL: nsubj:pass
-[Line                   320]: Unknown UD DEPREL: nsubj:pass
-[Line                   359]: Unknown UD DEPREL: nsubj:pass
-[Line                   396]: Unknown UD DEPREL: nsubj:pass
-[Line                   421]: Unknown UD DEPREL: nsubj:pass
-[Line                   448]: Unknown UD DEPREL: nsubj:pass
-[Line                   457]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
 [Line                   1112]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   1112]: 't ex' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   1590]: 'm m' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
@@ -5295,36 +5275,15 @@ python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
 [Line                   3141]: 's k' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   3257]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 ...suppressing further errors regarding Format
-*** FAILED *** with 1332 errors
+*** FAILED *** with 200 errors
 Format errors: 200
-Syntax errors: 1132
 The language-specific file %s does not exist.
 
 
 ******************
 
-python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 
-[Line                   14]: Unknown UD DEPREL: nsubj:pass
-[Line                   68]: Unknown UD DEPREL: nsubj:pass
-[Line                   69]: Unknown UD DEPREL: nsubj:pass
-[Line                   180]: Unknown UD DEPREL: nsubj:pass
-[Line                   204]: Unknown UD DEPREL: nsubj:pass
-[Line                   220]: Unknown UD DEPREL: nsubj:pass
-[Line                   233]: Unknown UD DEPREL: nsubj:pass
-[Line                   246]: Unknown UD DEPREL: nsubj:pass
-[Line                   255]: Unknown UD DEPREL: nsubj:pass
-[Line                   275]: Unknown UD DEPREL: nsubj:pass
-[Line                   283]: Unknown UD DEPREL: nsubj:pass
-[Line                   288]: Unknown UD DEPREL: nsubj:pass
-[Line                   307]: Unknown UD DEPREL: nsubj:pass
-[Line                   320]: Unknown UD DEPREL: nsubj:pass
-[Line                   359]: Unknown UD DEPREL: nsubj:pass
-[Line                   396]: Unknown UD DEPREL: nsubj:pass
-[Line                   421]: Unknown UD DEPREL: nsubj:pass
-[Line                   448]: Unknown UD DEPREL: nsubj:pass
-[Line                   457]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
 [Line                   1112]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   1112]: 't ex' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   1590]: 'm m' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
@@ -5345,9 +5304,8 @@ python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 [Line                   3141]: 's k' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   3257]: 't ex' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 ...suppressing further errors regarding Format
-*** FAILED *** with 1332 errors
+*** FAILED *** with 200 errors
 Format errors: 200
-Syntax errors: 1132
 The language-specific file %s does not exist.
 
 
