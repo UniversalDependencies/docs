@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-25T10:54:35Z">2017-01-25T10:54:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-25T11:07:50Z">2017-01-25T11:07:50 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -518,104 +518,22 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T10:52:00Z">2017-01-25T10:52:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T11:07:23Z">2017-01-25T11:07:23 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
+python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
 
-[Line                   4]: Unknown UD DEPREL: name
-[Line                   5]: Unknown UD DEPREL: name
-[Line                   7]: Unknown UD DEPREL: name
-[Line                   11]: Unknown UD DEPREL: dobj
-[Line                   19]: Unknown UD DEPREL: name
-[Line                   41]: Unknown UD DEPREL: dobj
-[Line                   45]: Unknown UD DEPREL: mwe
-[Line                   47]: Unknown UD DEPREL: mwe
-[Line                   48]: Unknown UD DEPREL: mwe
-[Line                   49]: Unknown UD DEPREL: dobj
-[Line                   59]: Unknown attribute-value pair Negative=Neg
-[Line                   59]: Unknown UD DEPREL: neg
-[Line                   60]: Unknown UD DEPREL: dobj
-[Line                   66]: Unknown UD DEPREL: dobj
-[Line                   74]: Unknown UD DEPREL: dobj
-[Line                   96]: Unknown UD DEPREL: name
-[Line                   130]: Unknown UD DEPREL: dobj
-[Line                   138]: Unknown UD DEPREL: dobj
-[Line                   159]: Unknown UD DEPREL: name
-[Line                   163]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-[Line                   181]: Unknown attribute-value pair Negative=Neg
-[Line                   197]: Unknown UPOS tag: CONJ
-[Line                   209]: Unknown UPOS tag: CONJ
-[Line                   276]: Unknown UPOS tag: CONJ
-[Line                   325]: Unknown UPOS tag: CONJ
-[Line                   359]: Unknown UPOS tag: CONJ
-[Line                   380]: Unknown UPOS tag: CONJ
-[Line                   395]: Unknown UPOS tag: CONJ
-[Line                   397]: Unknown UPOS tag: CONJ
-[Line                   426]: Unknown UPOS tag: CONJ
-[Line                   435]: Unknown UPOS tag: CONJ
-[Line                   439]: Unknown attribute-value pair Negative=Neg
-[Line                   522]: Unknown UPOS tag: CONJ
-[Line                   535]: Unknown UPOS tag: CONJ
-[Line                   564]: Unknown UPOS tag: CONJ
-[Line                   597]: Unknown UPOS tag: CONJ
-[Line                   624]: Unknown UPOS tag: CONJ
-[Line                   677]: Unknown attribute-value pair Negative=Neg
-...suppressing further errors regarding Morpho
-*** FAILED *** with 9361 errors
-Morpho errors: 1969
-Syntax errors: 7392
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-train.conllu
+python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 
-[Line                   5]: Unknown UD DEPREL: name
-[Line                   7]: Unknown UD DEPREL: name
-[Line                   12]: Unknown UD DEPREL: dobj
-[Line                   19]: Unknown UPOS tag: CONJ
-[Line                   36]: Unknown UD DEPREL: dobj
-[Line                   41]: Unknown UD DEPREL: dobj
-[Line                   43]: Unknown UD DEPREL: dobj
-[Line                   45]: Unknown UPOS tag: CONJ
-[Line                   59]: Unknown UD DEPREL: dobj
-[Line                   60]: Unknown UD DEPREL: dobj
-[Line                   71]: Unknown UD DEPREL: dobj
-[Line                   74]: Unknown UD DEPREL: dobj
-[Line                   79]: Unknown UD DEPREL: dobj
-[Line                   84]: Unknown UD DEPREL: dobj
-[Line                   87]: Unknown UD DEPREL: name
-[Line                   95]: Unknown UD DEPREL: name
-[Line                   97]: Unknown UD DEPREL: name
-[Line                   106]: Unknown UPOS tag: CONJ
-[Line                   108]: Unknown UD DEPREL: name
-[Line                   111]: Unknown UD DEPREL: name
-[Line                   112]: Unknown UPOS tag: CONJ
-[Line                   114]: Unknown UD DEPREL: name
-[Line                   119]: Unknown UD DEPREL: mwe
-...suppressing further errors regarding Syntax
-[Line                   126]: Unknown UPOS tag: CONJ
-[Line                   167]: Unknown UPOS tag: CONJ
-[Line                   174]: Unknown UPOS tag: CONJ
-[Line                   197]: Unknown UPOS tag: CONJ
-[Line                   205]: Unknown UPOS tag: CONJ
-[Line                   215]: Unknown UPOS tag: CONJ
-[Line                   244]: Unknown UPOS tag: CONJ
-[Line                   247]: Unknown UPOS tag: CONJ
-[Line                   254]: Unknown UPOS tag: CONJ
-[Line                   303]: Unknown UPOS tag: CONJ
-[Line                   311]: Unknown attribute-value pair Negative=Neg
-[Line                   316]: Unknown attribute-value pair Negative=Neg
-[Line                   340]: Unknown UPOS tag: CONJ
-[Line                   366]: Unknown attribute-value pair Negative=Neg
-[Line                   380]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 68279 errors
-Morpho errors: 14181
-Syntax errors: 54098
+[Line                   195824]: Unknown UD DEPREL: coord
+*** FAILED *** with 1 errors
+Syntax errors: 1
 
 
 ******************
