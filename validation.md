@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-25T15:31:23Z">2017-01-25T15:31:23 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-25T15:55:15Z">2017-01-25T15:55:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -518,18 +518,18 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T15:20:18Z">2017-01-25T15:20:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T15:54:45Z">2017-01-25T15:54:45 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
+python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-train.conllu
+python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 
 *** PASSED ***
 
