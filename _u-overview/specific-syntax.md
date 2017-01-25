@@ -143,7 +143,9 @@ In more complicated cases where a predicate is elided but no `aux` or `cop` is p
 </div>
 
 In such cases, we promote dependents in the following order: `nsubj` > `obj` > `iobj` > `obl` > `advmod` > `csubj` > `xcomp` > `ccomp` > `advcl`
-and for the non-promoted dependents, we use the special relation `orphan` to signal a non-standard dependency. 
+and for the non-promoted dependents, we use the special relation `orphan` to signal a non-standard dependency.
+If it is necessary to select among several orphans of the same type (e.g. there are just two orphans and both are `advmod`),
+the orphan occurring first (closer to the sentence start) is promoted.
 
 ~~~ sdparse
 I like tea and you coffee .
