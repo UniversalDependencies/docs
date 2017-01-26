@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-26T16:27:46Z">2017-01-26T16:27:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-26T18:57:56Z">2017-01-26T18:57:56 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5140,18 +5140,18 @@ python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_a
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T15:31:05Z">2017-01-25T15:31:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-26T18:57:51Z">2017-01-26T18:57:51 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
+python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-train.conllu
+python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 
 *** PASSED ***
 
