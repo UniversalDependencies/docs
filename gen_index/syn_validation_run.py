@@ -244,6 +244,7 @@ if __name__=="__main__":
     print >> out8, u"---"
     print >> out8, u"layout: base"
     print >> out8, u"title:  'Universal Dependencies --- Syntactic validation'"
+    print >> out8, u"udver:  '2'"
     print >> out8, u"---"
     print >> out8
     print >> out8, u'Regenerated <time class="timeago" datetime="%(zulu)sZ">%(zulu)s zulu</time>'%{'zulu':datetime.datetime.utcnow().replace(microsecond=0).isoformat()}
