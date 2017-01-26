@@ -26,25 +26,11 @@
 #  link: http://universaldependencies.org/u/dep/mwe.html
 
 -
-  name: MWE chain
+  name: Fixed chain
   required_empty: true
-  expr: "_ <mwe (_ <mwe _)"
-  desc: MWE dependencies should not be chained. All dependents should be attached directly to the first one.
-  link: http://universaldependencies.org/u/dep/mwe.html
-
-#-
-#  name: Foreign is right-headed
-#  required_empty: true
-#  expr: _ <foreign@R _
-#  desc: Foreign dependencies should be left-headed, not right.
-#  link: http://universaldependencies.org/u/dep/foreign.html
-
--
-  name: Foreign chain
-  required_empty: true
-  expr: "_ <foreign (_ <foreign _)"
-  desc: Foreign dependencies should not be chained. All dependents should be attached directly to the first one. If we wish to annotate real syntactic structure of foreign material, we must not use the foreign relation.
-  link: http://universaldependencies.org/u/dep/foreign.html
+  expr: "_ <fixed (_ <fixed _)"
+  desc: Fixed dependencies should not be chained. All dependents should be attached directly to the first one.
+  link: http://universaldependencies.org/u/dep/fixed.html
 
 -
   name: Conj is right-headed
