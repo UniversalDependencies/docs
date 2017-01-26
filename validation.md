@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-26T18:57:56Z">2017-01-26T18:57:56 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-26T22:09:27Z">2017-01-26T22:09:27 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3624,18 +3624,18 @@ Syntax errors: 4790
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-25T15:26:36Z">2017-01-25T15:26:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-26T22:09:07Z">2017-01-26T22:09:07 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
+python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
+python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
 
 *** PASSED ***
 
