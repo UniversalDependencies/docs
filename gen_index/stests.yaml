@@ -7,23 +7,23 @@
   neg_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(have, will)\naux(left, have)"
   link: http://universaldependencies.org/u/dep/aux_.html
 
-#-
-#  name: Name is right-headed
-#  required_empty: true
-#  expr: _ <name@R _
-#  desc: Name dependencies should be left-headed, not right.
-#  pos_ex: "Carl XVI Gustaf\nname(Carl, XVI)\nname(Carl, Gustaf)"
-#  neg_ex: "Carl XVI Gustaf\nname(Gustaf, XVI)\nname(Gustaf, Carl)"
-#  link: http://universaldependencies.org/u/dep/name.html
+-
+  name: Flat is right-headed
+  required_empty: true
+  expr: _ <flat@R _
+  desc: Flat relations should be left-headed, not right.
+  pos_ex: "Carl XVI Gustaf\nflat(Carl, XVI)\nflat(Carl, Gustaf)"
+  neg_ex: "Carl XVI Gustaf\nflat(Gustaf, XVI)\nflat(Gustaf, Carl)"
+  link: http://universaldependencies.org/u/dep/flat.html
 
-#-
-#  name: MWE is right-headed
-#  required_empty: true
-#  expr: _ <mwe@R _
-#  desc: Multi-word expressions should be left-headed, not right.
-#  pos_ex: "He cried because of you\nmwe(because, of)"
-#  neg_ex: "He cried because of you\nmwe(of, because)"
-#  link: http://universaldependencies.org/u/dep/mwe.html
+-
+  name: Fixed is right-headed
+  required_empty: true
+  expr: _ <fixed@R _
+  desc: Fixed expressions should be left-headed, not right.
+  pos_ex: "He cried because of you\nfixed(because, of)"
+  neg_ex: "He cried because of you\nfixed(of, because)"
+  link: http://universaldependencies.org/u/dep/fixed.html
 
 -
   name: Fixed chain
