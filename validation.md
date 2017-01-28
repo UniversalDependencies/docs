@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-28T11:19:14Z">2017-01-28T11:19:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-28T11:25:08Z">2017-01-28T11:25:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3877,63 +3877,21 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T09:03:59Z">2017-01-28T09:03:59 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T11:24:34Z">2017-01-28T11:24:34 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
 
-[Line                   4]: Unknown UD DEPREL: flat:name
-[Line                   67]: Unknown UD DEPREL: flat:name
-[Line                   108]: Unknown UD DEPREL: flat:name
-[Line                   296]: Unknown UD DEPREL: nsubj:pass
-[Line                   331]: Unknown UD DEPREL: nsubj:pass
-[Line                   353]: Unknown UD DEPREL: nsubj:pass
-[Line                   404]: Unknown UD DEPREL: nsubj:pass
-[Line                   464]: Unknown UD DEPREL: nsubj:pass
-[Line                   588]: Unknown UD DEPREL: flat:name
-[Line                   589]: Unknown UD DEPREL: flat:name
-[Line                   665]: Unknown UD DEPREL: flat:name
-[Line                   728]: Unknown UD DEPREL: nsubj:pass
-[Line                   849]: Unknown UD DEPREL: nsubj:pass
-[Line                   968]: Unknown UD DEPREL: flat:name
-[Line                   995]: Unknown UD DEPREL: nsubj:pass
-[Line                   1000]: Unknown UD DEPREL: aux:pass
-[Line                   1130]: Unknown UD DEPREL: flat:name
-[Line                   1140]: Unknown UD DEPREL: nsubj:pass
-[Line                   1271]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
-*** FAILED *** with 988 errors
-Syntax errors: 988
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
 
-[Line                   29]: Unknown UD DEPREL: flat:name
-[Line                   30]: Unknown UD DEPREL: flat:name
-[Line                   31]: Unknown UD DEPREL: flat:name
-[Line                   40]: Unknown UD DEPREL: flat:name
-[Line                   41]: Unknown UD DEPREL: flat:name
-[Line                   42]: Unknown UD DEPREL: flat:name
-[Line                   43]: Unknown UD DEPREL: flat:name
-[Line                   44]: Unknown UD DEPREL: flat:name
-[Line                   69]: Unknown UD DEPREL: flat:name
-[Line                   70]: Unknown UD DEPREL: flat:name
-[Line                   72]: Unknown UD DEPREL: flat:name
-[Line                   73]: Unknown UD DEPREL: flat:name
-[Line                   74]: Unknown UD DEPREL: flat:name
-[Line                   108]: Unknown UD DEPREL: flat:name
-[Line                   110]: Unknown UD DEPREL: flat:name
-[Line                   111]: Unknown UD DEPREL: flat:name
-[Line                   112]: Unknown UD DEPREL: flat:name
-[Line                   113]: Unknown UD DEPREL: flat:name
-[Line                   145]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
-*** FAILED *** with 6834 errors
-Syntax errors: 6834
+*** PASSED ***
 
 
 ******************
@@ -4760,7 +4718,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T11:19:03Z">2017-01-28T11:19:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T11:24:55Z">2017-01-28T11:24:55 zulu</time></span>
 </div>
 <div>
 <pre>
