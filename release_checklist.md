@@ -63,15 +63,13 @@ Note that the basic statistics can be produced using the script `conllu-stats.py
 
 For previously released corpora, the README file should also include a "[changelog](http://en.wikipedia.org/wiki/Changelog)" section summarizing changes between versions e.g. as follows
 
-```
+<pre>
 Changelog
 
 2015-05-15 v1.1
-
     * Added lemmas
-
     * Corrected tokenization in sentences 123 and 456
-```
+</pre>
 
 ## Language metadata
 
