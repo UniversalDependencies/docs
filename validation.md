@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-28T13:37:11Z">2017-01-28T13:37:11 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-28T13:37:42Z">2017-01-28T13:37:42 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4774,8 +4774,8 @@ Morpho errors: 103
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T13:37:09Z">2017-01-28T13:37:09 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T13:37:40Z">2017-01-28T13:37:40 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4788,70 +4788,7 @@ python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-u
 
 python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
-[Line                   466]: Undefined ID in HEAD: flat:name
-[Tree number 39 on line 459]: Non-integer head for word ID 7
-[Tree number 39 on line 459]: Non-tree structure. Words 7 are not reachable from the root 0.
-[Line                   1145]: Undefined ID in HEAD: flat:name
-[Line                   1145]: Undefined ID in HEAD: flat:name
-[Tree number 100 on line 1135]: Non-integer head for word ID 3
-[Tree number 100 on line 1135]: Non-integer head for word ID 6
-[Tree number 100 on line 1135]: Non-tree structure. Words 3,6 are not reachable from the root 0.
-[Line                   1358]: Undefined ID in HEAD: flat:name
-[Tree number 115 on line 1343]: Non-integer head for word ID 9
-[Tree number 115 on line 1343]: Non-tree structure. Words 9 are not reachable from the root 0.
-[Line                   1570]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1732]: Undefined ID in HEAD: flat:name
-[Tree number 148 on line 1729]: Non-integer head for word ID 3
-[Tree number 148 on line 1729]: Non-tree structure. Words 3 are not reachable from the root 0.
-[Line                   1865]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1866]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1867]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1868]: Unknown attribute-value pair Foreign=Foreign
-[Line                   1955]: Undefined ID in HEAD: flat:name
-[Tree number 162 on line 1942]: Non-integer head for word ID 2
-[Tree number 162 on line 1942]: Non-tree structure. Words 2 are not reachable from the root 0.
-[Line                   2154]: Undefined ID in HEAD: flat:name
-[Tree number 180 on line 2117]: Non-integer head for word ID 5
-[Tree number 180 on line 2117]: Non-tree structure. Words 5 are not reachable from the root 0.
-[Line                   2408]: Undefined ID in HEAD: flat:name
-[Tree number 199 on line 2397]: Non-integer head for word ID 9
-[Tree number 199 on line 2397]: Non-tree structure. Words 9 are not reachable from the root 0.
-[Line                   2866]: Undefined ID in HEAD: flat:name
-[Tree number 234 on line 2864]: Non-integer head for word ID 2
-[Tree number 234 on line 2864]: Non-tree structure. Words 2 are not reachable from the root 0.
-[Line                   3179]: Unknown attribute-value pair Foreign=Foreign
-[Line                   3180]: Unknown attribute-value pair Foreign=Foreign
-[Line                   3552]: Undefined ID in HEAD: flat:name
-...suppressing further errors regarding Format
-[Tree number 301 on line 3547]: Non-tree structure. Words 5 are not reachable from the root 0.
-[Tree number 338 on line 3947]: Non-tree structure. Words 14 are not reachable from the root 0.
-[Line                   4078]: Unknown attribute-value pair Foreign=Foreign
-[Line                   4079]: Unknown attribute-value pair Foreign=Foreign
-[Line                   4080]: Unknown attribute-value pair Foreign=Foreign
-[Line                   4081]: Unknown attribute-value pair Foreign=Foreign
-[Line                   4082]: Unknown attribute-value pair Foreign=Foreign
-[Tree number 347 on line 4161]: Non-tree structure. Words 7 are not reachable from the root 0.
-[Tree number 421 on line 4993]: Non-tree structure. Words 8 are not reachable from the root 0.
-[Tree number 450 on line 5339]: Non-tree structure. Words 2,4,6 are not reachable from the root 0.
-[Tree number 474 on line 5660]: Non-tree structure. Words 8 are not reachable from the root 0.
-[Line                   6135]: Unknown attribute-value pair Foreign=Foreign
-[Line                   6136]: Unknown attribute-value pair Foreign=Foreign
-[Line                   6137]: Unknown attribute-value pair Foreign=Foreign
-[Tree number 540 on line 6428]: Non-tree structure. Words 5 are not reachable from the root 0.
-[Tree number 546 on line 6487]: Non-tree structure. Words 3,4 are not reachable from the root 0.
-[Tree number 590 on line 7008]: Non-tree structure. Words 12 are not reachable from the root 0.
-[Tree number 607 on line 7181]: Non-tree structure. Words 17,30 are not reachable from the root 0.
-[Tree number 641 on line 7600]: Non-tree structure. Words 2 are not reachable from the root 0.
-[Line                   7748]: Unknown attribute-value pair Foreign=Foreign
-[Line                   7749]: Unknown attribute-value pair Foreign=Foreign
-...suppressing further errors regarding Syntax
-[Line                   11619]: Unknown attribute-value pair Foreign=Foreign
-[Line                   12037]: Unknown attribute-value pair Foreign=Foreign
-...suppressing further errors regarding Morpho
-*** FAILED *** with 119 errors
-Format errors: 70
-Morpho errors: 24
-Syntax errors: 25
+*** PASSED ***
 
 
 ******************
