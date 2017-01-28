@@ -39,6 +39,8 @@ Every language repository should contain the following five files (where `xx` is
 
 The first three files contain the treebank data split into a training, development and test set. These should be in `CONLL-U` format and conform to the universal guidelines. They need to be validated as described below.
 
+If the treebank consists of more than 20,000 words, make the test set and dev set at least 10,000 words each, even if it leaves you with training data smaller than development data (that is [necessary for the CoNLL 2017 shared task](http://universaldependencies.org/conll17/inclusion-rules.html)). There is no upper limit on the size of dev/test. If you cannot reach 10,000 words of test data, use a more typical split, e.g. 80-10-10% (but the treebank will not be included in the shared task).
+
 The training-development-test data split should be stable across releases. It should not happen that a sentence that was once part of training data ever appears in the test data, and vice versa (except for sentences that are naturally occurring duplicates in independent texts). We want to prevent accidental misguided results of experiments where people take a parser trained on UD 1.1 and apply it to test data from UD 1.2. **We decided to make an exception to this rule for UD 2.0 where it is needed to achieve 10K test or dev, on the ground that v2 annotation is not backward-compatible anyway.**
 
 The `README.txt` file contains basic documentation of the treebank and machine-readable metadata for the UD main page (see below) and the `LICENSE.txt` specifies under what license the treebank is made available.
