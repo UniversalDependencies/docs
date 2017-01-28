@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-28T11:14:37Z">2017-01-28T11:14:37 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-28T11:19:14Z">2017-01-28T11:19:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4760,32 +4760,12 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T11:14:26Z">2017-01-28T11:14:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T11:19:03Z">2017-01-28T11:19:03 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
 
-[Line                   10]: Unknown UD DEPREL: flat:name
-[Line                   13]: Unknown UD DEPREL: flat:name
-[Line                   121]: Unknown UD DEPREL: flat:name
-[Line                   421]: Unknown UD DEPREL: flat:name
-[Line                   662]: Unknown UD DEPREL: flat:name
-[Line                   1566]: Unknown UD DEPREL: flat:name
-[Line                   2196]: Unknown UD DEPREL: flat:name
-[Line                   2199]: Unknown UD DEPREL: flat:name
-[Line                   2200]: Unknown UD DEPREL: flat:name
-[Line                   2826]: Unknown UD DEPREL: flat:name
-[Line                   3112]: Unknown UD DEPREL: flat:name
-[Line                   3190]: Unknown UD DEPREL: flat:name
-[Line                   3195]: Unknown UD DEPREL: flat:name
-[Line                   3198]: Unknown UD DEPREL: flat:name
-[Line                   3201]: Unknown UD DEPREL: flat:name
-[Line                   3351]: Unknown UD DEPREL: flat:name
-[Line                   3452]: Unknown UD DEPREL: flat:name
-[Line                   3643]: Unknown UD DEPREL: flat:name
-[Line                   3644]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
 [Line                   3788]: Unknown attribute-value pair Foreign=Foreign
 [Line                   6378]: Unknown attribute-value pair Foreign=Foreign
 [Line                   6379]: Unknown attribute-value pair Foreign=Foreign
@@ -4796,37 +4776,16 @@ python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
 [Line                   6387]: Unknown attribute-value pair Foreign=Foreign
 [Line                   6388]: Unknown attribute-value pair Foreign=Foreign
 [Line                   11476]: Unknown attribute-value pair Foreign=Foreign
-*** FAILED *** with 94 errors
+*** FAILED *** with 10 errors
 Morpho errors: 10
-Syntax errors: 84
 
 
 ******************
 
-python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
 
-[Line                   359]: Unknown UD DEPREL: flat:name
-[Line                   432]: Unknown UD DEPREL: flat:name
-[Line                   826]: Unknown UD DEPREL: flat:name
-[Line                   851]: Unknown UD DEPREL: flat:name
-[Line                   852]: Unknown UD DEPREL: flat:name
-[Line                   908]: Unknown UD DEPREL: flat:name
-[Line                   1018]: Unknown UD DEPREL: flat:name
-[Line                   1247]: Unknown UD DEPREL: flat:name
-[Line                   1273]: Unknown UD DEPREL: flat:name
-[Line                   1299]: Unknown UD DEPREL: flat:name
-[Line                   1311]: Unknown UD DEPREL: flat:name
-[Line                   1321]: Unknown UD DEPREL: flat:name
-[Line                   2610]: Unknown UD DEPREL: flat:name
-[Line                   2616]: Unknown UD DEPREL: flat:name
 [Line                   2630]: Unknown attribute-value pair Foreign=Foreign
 [Line                   2632]: Unknown attribute-value pair Foreign=Foreign
-[Line                   3398]: Unknown UD DEPREL: flat:name
-[Line                   3574]: Unknown UD DEPREL: flat:name
-[Line                   3697]: Unknown UD DEPREL: flat:name
-[Line                   3752]: Unknown UD DEPREL: flat:name
-[Line                   4083]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
 [Line                   11799]: Unknown attribute-value pair Foreign=Foreign
 [Line                   11800]: Unknown attribute-value pair Foreign=Foreign
 [Line                   11801]: Unknown attribute-value pair Foreign=Foreign
@@ -4845,9 +4804,8 @@ python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conl
 [Line                   15529]: Unknown attribute-value pair Foreign=Foreign
 [Line                   15538]: Unknown attribute-value pair Foreign=Foreign
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 699 errors
+*** FAILED *** with 103 errors
 Morpho errors: 103
-Syntax errors: 596
 
 
 ******************
