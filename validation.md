@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-28T11:25:08Z">2017-01-28T11:25:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-28T13:06:07Z">2017-01-28T13:06:07 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4775,7 +4775,7 @@ Morpho errors: 103
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T09:08:26Z">2017-01-28T09:08:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T13:06:05Z">2017-01-28T13:06:05 zulu</time></span>
 </div>
 <div>
 <pre>
