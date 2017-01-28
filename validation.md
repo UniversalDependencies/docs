@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-28T13:06:07Z">2017-01-28T13:06:07 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-28T13:08:02Z">2017-01-28T13:08:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4775,104 +4775,146 @@ Morpho errors: 103
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T13:06:05Z">2017-01-28T13:06:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T13:07:59Z">2017-01-28T13:07:59 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
-[Line                   3]: Unknown UPOS tag: CONJ
-[Line                   11]: Unknown UPOS tag: CONJ
-[Line                   20]: Unknown UPOS tag: CONJ
-[Line                   23]: Unknown UPOS tag: CONJ
-[Line                   29]: Unknown UD DEPREL: neg
-[Line                   34]: Unknown attribute-value pair Negative=Pos
-[Line                   36]: Unknown UD DEPREL: dobj
-[Line                   50]: Unknown UD DEPREL: dobj
-[Line                   57]: Unknown UPOS tag: CONJ
-[Line                   58]: Unknown UD DEPREL: mwe
-[Line                   63]: Unknown UD DEPREL: neg
-[Line                   64]: Unknown attribute-value pair Negative=Pos
-[Line                   69]: Unknown UD DEPREL: neg
-[Line                   75]: Unknown attribute-value pair Negative=Pos
-[Line                   78]: Unknown UD DEPREL: dobj
-[Line                   89]: Unknown UPOS tag: CONJ
-[Line                   91]: Unknown UD DEPREL: neg
-[Line                   96]: Unknown UPOS tag: CONJ
-[Line                   97]: Unknown UPOS tag: CONJ
-[Line                   97]: Unknown UD DEPREL: mwe
-[Line                   102]: Unknown UPOS tag: CONJ
-[Line                   103]: Unknown UD DEPREL: neg
-[Line                   110]: Unknown UD DEPREL: neg
-[Line                   120]: Unknown attribute-value pair Negative=Pos
-[Line                   121]: Unknown UD DEPREL: dobj
-[Line                   129]: Unknown attribute-value pair Negative=Pos
-[Line                   132]: Unknown attribute-value pair Negative=Pos
-[Line                   134]: Unknown UPOS tag: CONJ
-[Line                   136]: Unknown UD DEPREL: dobj
-[Line                   152]: Unknown attribute-value pair Negative=Pos
-[Line                   153]: Unknown UPOS tag: CONJ
-[Line                   154]: Unknown attribute-value pair Negative=Pos
+[Line                   59]: Unknown attribute-value pair Foreign=Foreign
+[Line                   60]: Unknown attribute-value pair Foreign=Foreign
+[Line                   61]: Unknown attribute-value pair Foreign=Foreign
+[Line                   62]: Unknown attribute-value pair Foreign=Foreign
+[Line                   63]: Unknown attribute-value pair Foreign=Foreign
+[Line                   65]: Unknown attribute-value pair Foreign=Foreign
+[Line                   66]: Unknown attribute-value pair Foreign=Foreign
+[Line                   67]: Unknown attribute-value pair Foreign=Foreign
+[Line                   202]: Undefined ID in HEAD: flat:name
+[Tree number 17 on line 180]: Non-integer head for word ID 7
+[Tree number 17 on line 180]: Non-tree structure. Words 7 are not reachable from the root 0.
+[Line                   839]: Unknown attribute-value pair Foreign=Foreign
+[Line                   840]: Unknown attribute-value pair Foreign=Foreign
+[Line                   995]: Undefined ID in HEAD: flat:name
+[Tree number 83 on line 971]: Non-integer head for word ID 13
+[Tree number 83 on line 971]: Non-tree structure. Words 13 are not reachable from the root 0.
+[Line                   1769]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1780]: Unknown attribute-value pair Foreign=Foreign
+[Line                   2594]: Undefined ID in HEAD: flat:name
+[Line                   2594]: Undefined ID in HEAD: flat:name
+[Tree number 210 on line 2559]: Non-integer head for word ID 14
+[Tree number 210 on line 2559]: Non-integer head for word ID 34
+[Tree number 210 on line 2559]: Non-tree structure. Words 14,34 are not reachable from the root 0.
+[Line                   3478]: Undefined ID in HEAD: flat:name
+[Line                   3478]: Undefined ID in HEAD: flat:name
+[Tree number 281 on line 3461]: Non-integer head for word ID 5
+[Tree number 281 on line 3461]: Non-integer head for word ID 16
+[Tree number 281 on line 3461]: Non-tree structure. Words 3,5,16 are not reachable from the root 0.
+[Line                   3669]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3678]: Undefined ID in HEAD: flat:name
+[Line                   3678]: Undefined ID in HEAD: flat:name
+[Line                   3678]: Undefined ID in HEAD: flat:name
+[Line                   3678]: Undefined ID in HEAD: flat:name
+[Tree number 293 on line 3665]: Non-integer head for word ID 6
+[Tree number 293 on line 3665]: Non-integer head for word ID 8
+[Tree number 293 on line 3665]: Non-integer head for word ID 9
+...suppressing further errors regarding Format
+[Tree number 293 on line 3665]: Non-tree structure. Words 5,6,8,9,13 are not reachable from the root 0.
+[Tree number 305 on line 3846]: Non-tree structure. Words 8 are not reachable from the root 0.
+[Line                   4237]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4238]: Unknown attribute-value pair Foreign=Foreign
+[Tree number 368 on line 4556]: Non-tree structure. Words 4,5,8 are not reachable from the root 0.
+[Tree number 395 on line 4873]: Non-tree structure. Words 24 are not reachable from the root 0.
+[Tree number 407 on line 5006]: Non-tree structure. Words 13 are not reachable from the root 0.
+[Tree number 413 on line 5092]: Non-tree structure. Words 7 are not reachable from the root 0.
+[Tree number 426 on line 5233]: Non-tree structure. Words 3 are not reachable from the root 0.
+[Line                   5448]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5449]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5450]: Unknown attribute-value pair Foreign=Foreign
+[Line                   5451]: Unknown attribute-value pair Foreign=Foreign
 ...suppressing further errors regarding Morpho
-[Line                   160]: Unknown UD DEPREL: mwe
-[Line                   170]: Unknown UD DEPREL: dobj
-[Line                   180]: Unknown UD DEPREL: dobj
-[Line                   184]: Unknown UD DEPREL: dobj
-[Line                   191]: Unknown UD DEPREL: mwe
-[Line                   227]: Unknown UD DEPREL: dobj
+[Tree number 466 on line 5703]: Non-tree structure. Words 4 are not reachable from the root 0.
+[Tree number 488 on line 6022]: Non-tree structure. Words 2 are not reachable from the root 0.
+[Tree number 523 on line 6489]: Non-tree structure. Words 6,13 are not reachable from the root 0.
+[Tree number 538 on line 6739]: Non-tree structure. Words 15 are not reachable from the root 0.
+[Tree number 569 on line 7094]: Non-tree structure. Words 19,20,21,22 are not reachable from the root 0.
+[Tree number 587 on line 7335]: Non-tree structure. Words 5 are not reachable from the root 0.
+[Tree number 595 on line 7490]: Non-tree structure. Words 2 are not reachable from the root 0.
+[Tree number 611 on line 7621]: Non-tree structure. Words 8 are not reachable from the root 0.
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 700 errors
-Morpho errors: 484
-Syntax errors: 216
+*** FAILED *** with 149 errors
+Format errors: 82
+Morpho errors: 37
+Syntax errors: 30
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
-[Line                   9]: Unknown attribute-value pair Negative=Pos
-[Line                   19]: Unknown UPOS tag: CONJ
-[Line                   23]: Unknown UD DEPREL: mwe
-[Line                   35]: Unknown UD DEPREL: dobj
-[Line                   40]: Unknown UD DEPREL: dobj
-[Line                   41]: Unknown UPOS tag: CONJ
-[Line                   43]: Unknown attribute-value pair Negative=Neg
-[Line                   52]: Unknown attribute-value pair Negative=Pos
-[Line                   55]: Unknown attribute-value pair Negative=Pos
-[Line                   67]: Unknown attribute-value pair Negative=Pos
-[Line                   82]: Unknown attribute-value pair Negative=Pos
-[Line                   91]: Unknown attribute-value pair Negative=Pos
-[Line                   99]: Unknown UD DEPREL: mwe
-[Line                   104]: Unknown attribute-value pair Negative=Pos
-[Line                   107]: Unknown UPOS tag: CONJ
-[Line                   114]: Unknown UD DEPREL: dobj
-[Line                   124]: Unknown UD DEPREL: dobj
-[Line                   141]: Unknown UD DEPREL: dobj
-[Line                   143]: Unknown UPOS tag: CONJ
-[Line                   151]: Unknown UPOS tag: CONJ
-[Line                   153]: Unknown attribute-value pair Negative=Pos
-[Line                   154]: Unknown attribute-value pair Foreign=Foreign
-[Line                   155]: Unknown attribute-value pair Foreign=Foreign
-[Line                   155]: Unknown UD DEPREL: foreign
-[Line                   156]: Unknown attribute-value pair Foreign=Foreign
-[Line                   156]: Unknown UD DEPREL: foreign
-[Line                   169]: Unknown UD DEPREL: dobj
-[Line                   171]: Unknown UD DEPREL: mwe
-[Line                   174]: Unknown UD DEPREL: dobj
-[Line                   187]: Unknown UD DEPREL: mwe
-[Line                   197]: Unknown UPOS tag: CONJ
-[Line                   204]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-[Line                   218]: Unknown UD DEPREL: dobj
-[Line                   247]: Unknown UD DEPREL: dobj
-[Line                   265]: Unknown UD DEPREL: dobj
-[Line                   275]: Unknown UD DEPREL: mwe
-[Line                   303]: Unknown UD DEPREL: mwe
-[Line                   308]: Unknown UD DEPREL: dobj
+[Line                   466]: Undefined ID in HEAD: flat:name
+[Tree number 39 on line 459]: Non-integer head for word ID 7
+[Tree number 39 on line 459]: Non-tree structure. Words 7 are not reachable from the root 0.
+[Line                   1145]: Undefined ID in HEAD: flat:name
+[Line                   1145]: Undefined ID in HEAD: flat:name
+[Tree number 100 on line 1135]: Non-integer head for word ID 3
+[Tree number 100 on line 1135]: Non-integer head for word ID 6
+[Tree number 100 on line 1135]: Non-tree structure. Words 3,6 are not reachable from the root 0.
+[Line                   1358]: Undefined ID in HEAD: flat:name
+[Tree number 115 on line 1343]: Non-integer head for word ID 9
+[Tree number 115 on line 1343]: Non-tree structure. Words 9 are not reachable from the root 0.
+[Line                   1570]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1732]: Undefined ID in HEAD: flat:name
+[Tree number 148 on line 1729]: Non-integer head for word ID 3
+[Tree number 148 on line 1729]: Non-tree structure. Words 3 are not reachable from the root 0.
+[Line                   1865]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1866]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1867]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1868]: Unknown attribute-value pair Foreign=Foreign
+[Line                   1955]: Undefined ID in HEAD: flat:name
+[Tree number 162 on line 1942]: Non-integer head for word ID 2
+[Tree number 162 on line 1942]: Non-tree structure. Words 2 are not reachable from the root 0.
+[Line                   2154]: Undefined ID in HEAD: flat:name
+[Tree number 180 on line 2117]: Non-integer head for word ID 5
+[Tree number 180 on line 2117]: Non-tree structure. Words 5 are not reachable from the root 0.
+[Line                   2408]: Undefined ID in HEAD: flat:name
+[Tree number 199 on line 2397]: Non-integer head for word ID 9
+[Tree number 199 on line 2397]: Non-tree structure. Words 9 are not reachable from the root 0.
+[Line                   2866]: Undefined ID in HEAD: flat:name
+[Tree number 234 on line 2864]: Non-integer head for word ID 2
+[Tree number 234 on line 2864]: Non-tree structure. Words 2 are not reachable from the root 0.
+[Line                   3179]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3180]: Unknown attribute-value pair Foreign=Foreign
+[Line                   3552]: Undefined ID in HEAD: flat:name
+...suppressing further errors regarding Format
+[Tree number 301 on line 3547]: Non-tree structure. Words 5 are not reachable from the root 0.
+[Tree number 338 on line 3947]: Non-tree structure. Words 14 are not reachable from the root 0.
+[Line                   4078]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4079]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4080]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4081]: Unknown attribute-value pair Foreign=Foreign
+[Line                   4082]: Unknown attribute-value pair Foreign=Foreign
+[Tree number 347 on line 4161]: Non-tree structure. Words 7 are not reachable from the root 0.
+[Tree number 421 on line 4993]: Non-tree structure. Words 8 are not reachable from the root 0.
+[Tree number 450 on line 5339]: Non-tree structure. Words 2,4,6 are not reachable from the root 0.
+[Tree number 474 on line 5660]: Non-tree structure. Words 8 are not reachable from the root 0.
+[Line                   6135]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6136]: Unknown attribute-value pair Foreign=Foreign
+[Line                   6137]: Unknown attribute-value pair Foreign=Foreign
+[Tree number 540 on line 6428]: Non-tree structure. Words 5 are not reachable from the root 0.
+[Tree number 546 on line 6487]: Non-tree structure. Words 3,4 are not reachable from the root 0.
+[Tree number 590 on line 7008]: Non-tree structure. Words 12 are not reachable from the root 0.
+[Tree number 607 on line 7181]: Non-tree structure. Words 17,30 are not reachable from the root 0.
+[Tree number 641 on line 7600]: Non-tree structure. Words 2 are not reachable from the root 0.
+[Line                   7748]: Unknown attribute-value pair Foreign=Foreign
+[Line                   7749]: Unknown attribute-value pair Foreign=Foreign
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 4914 errors
-Morpho errors: 3185
-Syntax errors: 1729
+[Line                   11619]: Unknown attribute-value pair Foreign=Foreign
+[Line                   12037]: Unknown attribute-value pair Foreign=Foreign
+...suppressing further errors regarding Morpho
+*** FAILED *** with 119 errors
+Format errors: 70
+Morpho errors: 24
+Syntax errors: 25
 
 
 ******************
