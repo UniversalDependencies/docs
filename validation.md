@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-28T09:50:33Z">2017-01-28T09:50:33 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-28T10:43:14Z">2017-01-28T10:43:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4346,27 +4346,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_br /home/ginter/UD_P
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T09:05:39Z">2017-01-28T09:05:39 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T10:42:57Z">2017-01-28T10:42:57 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
+python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
+python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
 
-[Line                   36537]: Unknown UD DEPREL: neg
-[Line                   43771]: Unknown UD DEPREL: neg
-[Line                   68644]: Unknown UD DEPREL: neg
-[Line                   90131]: Unknown UD DEPREL: neg
-[Line                   247227]: Unknown UD DEPREL: neg
-*** FAILED *** with 5 errors
-Syntax errors: 5
+*** PASSED ***
 
 
 ******************
