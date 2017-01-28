@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-28T13:36:43Z">2017-01-28T13:36:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-28T13:37:11Z">2017-01-28T13:37:11 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4775,18 +4775,11 @@ Morpho errors: 103
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T13:36:40Z">2017-01-28T13:36:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T13:37:09Z">2017-01-28T13:37:09 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-test.conllu
 
 *** PASSED ***
 
