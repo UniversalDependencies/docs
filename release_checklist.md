@@ -55,7 +55,7 @@ The `README` file should minimally contain the following information:
 2. A description of how the data was split into training, development and test sets
 3. Basic statistics about number of sentences, tokens, etc.
 4. Acknowledgments and references that should be cited when using the treebank
-5. A machine-readable section with language metadata. This is described [here](
+5. A machine-readable section with language metadata. This is described below.
 
 Note that the basic statistics can be produced using the script `conllu-stats.py`available from the `tools` repository and run as follows:
 
