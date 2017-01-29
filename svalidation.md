@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-01-29T17:14:08Z">2017-01-29T17:14:08 zulu</time>
+Regenerated <time class="timeago" datetime="2017-01-29T17:58:36Z">2017-01-29T17:58:36 zulu</time>
 
 # Aux chain
 
@@ -4453,7 +4453,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Portuguese-Bosque</span>
-<span class="widespan">7 hits</span>
+<span class="widespan">8 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21PUNCT+%3Cpunct+_&db=UD_Portuguese-Bosque-dev">Go to search</a><p/>
