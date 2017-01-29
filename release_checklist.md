@@ -104,7 +104,7 @@ If you have no previous experience with Git, here is a quick tutorial on how to 
 
 <pre>
 git clone git@github.com:UniversalDependencies/UD_Italian.git
-<span style="color:grey">Cloning into 'UD_Italian'...
+<span style="color:blue">Cloning into 'UD_Italian'...
 remote: Counting objects: 215, done.
 remote: Total 215 (delta 0), reused 0 (delta 0), pack-reused 215
 Receiving objects: 100% (215/215), 6.98 MiB | 4.55 MiB/s, done.
@@ -117,13 +117,13 @@ Then enter the cloned folder and switch to ("checkout") the `dev` branch. Your c
 <pre>
 cd UD_Italian
 git checkout dev
-<span style="color:grey">Branch dev set up to track remote branch dev from origin.
+<span style="color:blue">Branch dev set up to track remote branch dev from origin.
 Switched to a new branch 'dev'</span>
 git branch
-<span style="color:grey">* dev
+<span style="color:blue">* dev
 master</span>
 git pull
-<span style="color:grey">Already up-to-date.</span>
+<span style="color:blue">Already up-to-date.</span>
 </pre>
 
 Once you do this, you are all set. Your copy will stay switched to the dev branch unless you call `git checkout master` (or other `git checkout`) again. You will probably mostly need just `git status`, `git diff`, `git add`, `git commit`, `git push` and `git pull` commands. All pushes and pulls will be done against the remote `dev` branch.
