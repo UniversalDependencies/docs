@@ -226,6 +226,7 @@ The contents of the comments and metadata is basically unrestricted and will var
 * A treebank-wide unique sentence id (`sent_id`), formatted as in the examples below. In sentence ids, the slash character ("/") is reserved for specialized downstream use and should be avoided in UD treebanks.
 * Comments used to specify the unannotated sentence as a single string (`text`) should also be formatted as below. If the original text is not available, the providers of the UD treebanks must approximate the `text` attribute using detokenization heuristics.
 
+Example:
 
     # sent_id = 1
     # text = They buy and sell books. 
