@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-29T19:40:55Z">2017-01-29T19:40:55 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-29T19:58:17Z">2017-01-29T19:58:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3089,11 +3089,11 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T09:02:19Z">2017-01-28T09:02:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-29T19:57:55Z">2017-01-29T19:57:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
 [Line                   4]: Unknown UD DEPREL: name
 [Line                   21]: Unknown UD DEPREL: dobj
@@ -3142,7 +3142,7 @@ Syntax errors: 768
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 
 [Line                   28]: Unknown UD DEPREL: name
 [Line                   34]: Unknown UD DEPREL: nsubjpass
@@ -3184,9 +3184,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJ
 [Line                   667]: Unknown UPOS tag: CONJ
 [Line                   821]: Unknown attribute-value pair PronType=Clit
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 31656 errors
+*** FAILED *** with 31659 errors
 Morpho errors: 12087
-Syntax errors: 19569
+Syntax errors: 19572
 
 
 ******************

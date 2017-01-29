@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-01-29T19:40:17Z">2017-01-29T19:40:17 zulu</time>
+Regenerated <time class="timeago" datetime="2017-01-29T19:57:35Z">2017-01-29T19:57:35 zulu</time>
 
 # Aux chain
 
@@ -19872,7 +19872,7 @@ Search expression: `_ <expl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cexpl+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cexpl+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cexpl+_&db=UD_Italian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cexpl+_&db=UD_Italian-dev">2017</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cexpl+_&db=UD_Italian-dev">2016</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cexpl+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cexpl+_&db=UD_Italian-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cexpl+_&db=UD_Italian-dev">&nbsp;</a></td>
@@ -20114,7 +20114,7 @@ Search expression: `_ <expl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">2018 hits</span>
+<span class="widespan">2017 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cexpl+_&db=UD_Italian-dev">Go to search</a><p/>
@@ -20718,7 +20718,7 @@ Search expression: `_ >expl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Eexpl+_&db=UD_Italian-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Eexpl+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Eexpl+_&db=UD_Italian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Eexpl+_&db=UD_Italian-dev">1983</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Eexpl+_&db=UD_Italian-dev">1982</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Eexpl+_&db=UD_Italian-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Norwegian-Bokmaal</td>
@@ -20994,7 +20994,7 @@ Search expression: `_ >expl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">1995 hits</span>
+<span class="widespan">1994 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Eexpl+_&db=UD_Italian-dev">Go to search</a><p/>
@@ -21739,7 +21739,7 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Excomp+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Excomp+_&db=UD_Italian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Excomp+_&db=UD_Italian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Excomp+_&db=UD_Italian-dev">2026</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Excomp+_&db=UD_Italian-dev">2024</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Excomp+_&db=UD_Italian-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Kazakh</td>
@@ -22523,7 +22523,7 @@ Search expression: `_ >xcomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Italian</span>
-<span class="widespan">2033 hits</span>
+<span class="widespan">2031 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Excomp+_&db=UD_Italian-dev">Go to search</a><p/>
