@@ -14,8 +14,9 @@ may occur in the clause. Verbs are often associated with grammatical
 categories like tense, mood, aspect and voice, which can either be
 expressed inflectionally or using auxilliary verbs or particles.
 
-Note that the `VERB` tag covers main verbs _(content verbs)_ and
-_copulas_ but it does not cover _auxiliary verbs,_ for which there is
+Note that the `VERB` tag covers main verbs _(content verbs)_
+but it does not cover _auxiliary verbs_ and verbal _copulas_
+(in the narrow sense), for which there is
 the [AUX]() tag. _Modal verbs_ may be considered `VERB` or `AUX`,
 depending on their behavior in the given language. Language-specific
 documentation should specify which verbs are tagged `AUX` in which
