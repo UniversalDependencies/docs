@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-29T19:58:17Z">2017-01-29T19:58:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-29T20:59:51Z">2017-01-29T20:59:51 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3089,104 +3089,104 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-29T19:57:55Z">2017-01-29T19:57:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-29T20:59:34Z">2017-01-29T20:59:34 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
-[Line                   4]: Unknown UD DEPREL: name
-[Line                   21]: Unknown UD DEPREL: dobj
-[Line                   22]: Unknown UPOS tag: CONJ
-[Line                   26]: Unknown UD DEPREL: dobj
-[Line                   31]: Unknown attribute-value pair PronType=Predet
-[Line                   57]: Unknown UD DEPREL: dobj
-[Line                   69]: Unknown UD DEPREL: dobj
-[Line                   70]: Unknown UPOS tag: CONJ
-[Line                   77]: Unknown attribute-value pair PronType=Clit
-[Line                   92]: Unknown UD DEPREL: nsubjpass
-[Line                   94]: Unknown UD DEPREL: auxpass
-[Line                   125]: Unknown UD DEPREL: dobj
-[Line                   135]: Unknown UD DEPREL: dobj
-[Line                   138]: Unknown attribute-value pair PronType=Clit
-[Line                   155]: Unknown UD DEPREL: name
-[Line                   181]: Unknown attribute-value pair PronType=Clit
-[Line                   187]: Unknown UPOS tag: CONJ
-[Line                   194]: Unknown UD DEPREL: dobj
-[Line                   198]: Unknown UD DEPREL: dobj
-[Line                   227]: Unknown UPOS tag: CONJ
-[Line                   234]: Unknown UD DEPREL: dobj
-[Line                   267]: Unknown attribute-value pair PronType=Clit
-[Line                   272]: Unknown UD DEPREL: auxpass
-[Line                   275]: Unknown UD DEPREL: nsubjpass
-[Line                   281]: Unknown UD DEPREL: auxpass
-[Line                   285]: Unknown UPOS tag: CONJ
-[Line                   300]: Unknown UD DEPREL: dobj
-[Line                   312]: Unknown UD DEPREL: dobj
-[Line                   322]: Unknown UD DEPREL: name
+[Line                   4]: Unknown UD DEPREL: flat:name
+[Line                   77]: Unknown attribute-value pair Clit=Yes
+[Line                   92]: Unknown UD DEPREL: nsubj:pass
+[Line                   94]: Unknown UD DEPREL: aux:pass
+[Line                   138]: Unknown attribute-value pair Clit=Yes
+[Line                   155]: Unknown UD DEPREL: flat:name
+[Line                   181]: Unknown attribute-value pair Clit=Yes
+[Line                   267]: Unknown attribute-value pair Clit=Yes
+[Line                   272]: Unknown UD DEPREL: aux:pass
+[Line                   275]: Unknown UD DEPREL: nsubj:pass
+[Line                   281]: Unknown UD DEPREL: aux:pass
+[Line                   322]: Unknown UD DEPREL: flat:name
+[Line                   323]: Unknown UD DEPREL: flat:name
+[Line                   329]: Unknown UD DEPREL: aux:pass
+[Line                   335]: Unknown UD DEPREL: nsubj:pass
+[Line                   352]: Unknown UD DEPREL: flat:name
+[Line                   357]: Unknown UD DEPREL: flat:name
+[Line                   359]: Unknown UD DEPREL: nsubj:pass
+[Line                   361]: Unknown UD DEPREL: aux:pass
+[Line                   365]: Unknown UD DEPREL: obl:agent
+[Line                   369]: Unknown attribute-value pair Clit=Yes
+[Line                   388]: Unknown UD DEPREL: flat:name
+[Line                   389]: Unknown UD DEPREL: flat:name
+[Line                   449]: Unknown UD DEPREL: flat:name
+[Line                   505]: Unknown attribute-value pair Clit=Yes
 ...suppressing further errors regarding Syntax
-[Line                   332]: Unknown UPOS tag: CONJ
-[Line                   342]: Unknown UPOS tag: CONJ
-[Line                   369]: Unknown attribute-value pair PronType=Clit
-[Line                   426]: Unknown UPOS tag: CONJ
-[Line                   457]: Unknown attribute-value pair PronType=Predet
-[Line                   472]: Unknown UPOS tag: CONJ
-[Line                   475]: Unknown UPOS tag: CONJ
-[Line                   493]: Unknown UPOS tag: CONJ
-[Line                   505]: Unknown attribute-value pair PronType=Clit
+[Line                   525]: Unknown attribute-value pair Clit=Yes
+[Line                   670]: Unknown attribute-value pair Clit=Yes
+[Line                   728]: Unknown attribute-value pair Clit=Yes
+[Line                   770]: Unknown attribute-value pair Clit=Yes
+[Line                   812]: Unknown attribute-value pair Clit=Yes
+[Line                   823]: Unknown attribute-value pair Clit=Yes
+[Line                   854]: Unknown attribute-value pair Clit=Yes
+[Line                   855]: Unknown attribute-value pair Clit=Yes
+[Line                   885]: Unknown attribute-value pair Clit=Yes
+[Line                   909]: Unknown attribute-value pair Clit=Yes
+[Line                   912]: Unknown attribute-value pair Clit=Yes
+[Line                   915]: Unknown attribute-value pair Clit=Yes
+[Line                   923]: Unknown attribute-value pair Clit=Yes
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1246 errors
-Morpho errors: 478
-Syntax errors: 768
+*** FAILED *** with 418 errors
+Morpho errors: 138
+Syntax errors: 280
 
 
 ******************
 
 python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 
-[Line                   28]: Unknown UD DEPREL: name
-[Line                   34]: Unknown UD DEPREL: nsubjpass
-[Line                   37]: Unknown UD DEPREL: auxpass
-[Line                   55]: Unknown UD DEPREL: dobj
-[Line                   67]: Unknown UD DEPREL: dobj
-[Line                   80]: Unknown UD DEPREL: dobj
-[Line                   89]: Unknown UD DEPREL: dobj
-[Line                   92]: Unknown UPOS tag: CONJ
-[Line                   101]: Unknown UD DEPREL: dobj
-[Line                   114]: Unknown UD DEPREL: name
-[Line                   128]: Unknown UD DEPREL: dobj
-[Line                   132]: Unknown UPOS tag: CONJ
-[Line                   138]: Unknown UD DEPREL: dobj
-[Line                   146]: Unknown attribute-value pair PronType=Clit
-[Line                   156]: Unknown UD DEPREL: name
-[Line                   174]: Unknown UD DEPREL: dobj
-[Line                   191]: Unknown UPOS tag: CONJ
-[Line                   194]: Unknown UD DEPREL: name
-[Line                   219]: Unknown UD DEPREL: name
-[Line                   224]: Unknown UD DEPREL: name
-[Line                   237]: Unknown UD DEPREL: nsubjpass
-[Line                   238]: Unknown UD DEPREL: name
-[Line                   243]: Unknown UD DEPREL: auxpass
+[Line                   28]: Unknown UD DEPREL: flat:name
+[Line                   34]: Unknown UD DEPREL: nsubj:pass
+[Line                   37]: Unknown UD DEPREL: aux:pass
+[Line                   114]: Unknown UD DEPREL: flat:name
+[Line                   145]: Unknown UD DEPREL: obl:agent
+[Line                   146]: Unknown attribute-value pair Clit=Yes
+[Line                   156]: Unknown UD DEPREL: flat:name
+[Line                   194]: Unknown UD DEPREL: flat:name
+[Line                   219]: Unknown UD DEPREL: flat:name
+[Line                   224]: Unknown UD DEPREL: flat:name
+[Line                   237]: Unknown UD DEPREL: nsubj:pass
+[Line                   238]: Unknown UD DEPREL: flat:name
+[Line                   243]: Unknown UD DEPREL: aux:pass
+[Line                   253]: Unknown UD DEPREL: flat:name
+[Line                   268]: Unknown UD DEPREL: flat:name
+[Line                   283]: Unknown UD DEPREL: flat:name
+[Line                   318]: Unknown UD DEPREL: flat:name
+[Line                   326]: Unknown UD DEPREL: flat:name
+[Line                   358]: Unknown attribute-value pair Clit=Yes
+[Line                   384]: Unknown UD DEPREL: obl:agent
+[Line                   392]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-[Line                   358]: Unknown attribute-value pair PronType=Clit
-[Line                   380]: Unknown UPOS tag: CONJ
-[Line                   403]: Unknown UPOS tag: CONJ
-[Line                   437]: Unknown attribute-value pair PronType=Clit
-[Line                   483]: Unknown UPOS tag: CONJ
-[Line                   508]: Unknown attribute-value pair PronType=Predet
-[Line                   577]: Unknown attribute-value pair PronType=Clit
-[Line                   586]: Unknown UPOS tag: CONJ
-[Line                   590]: Unknown attribute-value pair PronType=Clit
-[Line                   606]: Unknown UPOS tag: CONJ
-[Line                   607]: Unknown attribute-value pair PronType=Clit
-[Line                   641]: Unknown UPOS tag: CONJ
-[Line                   657]: Unknown attribute-value pair PronType=Predet
-[Line                   667]: Unknown UPOS tag: CONJ
-[Line                   821]: Unknown attribute-value pair PronType=Clit
+[Line                   437]: Unknown attribute-value pair Clit=Yes
+[Line                   577]: Unknown attribute-value pair Clit=Yes
+[Line                   590]: Unknown attribute-value pair Clit=Yes
+[Line                   607]: Unknown attribute-value pair Clit=Yes
+[Line                   821]: Unknown attribute-value pair Clit=Yes
+[Line                   954]: Unknown attribute-value pair Clit=Yes
+[Line                   1114]: Unknown attribute-value pair Clit=Yes
+[Line                   1198]: Unknown attribute-value pair Clit=Yes
+[Line                   1668]: Unknown attribute-value pair Clit=Yes
+[Line                   1707]: Unknown attribute-value pair Clit=Yes
+[Line                   1779]: Unknown attribute-value pair Clit=Yes
+[Line                   2040]: Unknown attribute-value pair Clit=Yes
+[Line                   2094]: Unknown attribute-value pair Clit=Yes
+[Line                   2158]: Unknown attribute-value pair Clit=Yes
+[Line                   2343]: Unknown attribute-value pair Clit=Yes
+[Line                   2440]: Unknown attribute-value pair Clit=Yes
+[Line                   2445]: Unknown attribute-value pair Clit=Yes
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 31659 errors
-Morpho errors: 12087
-Syntax errors: 19572
+*** FAILED *** with 10077 errors
+Morpho errors: 3376
+Syntax errors: 6701
 
 
 ******************
