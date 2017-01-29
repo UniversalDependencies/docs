@@ -30,7 +30,7 @@ Note that some verb forms such as _gerunds_ and _infinitives_ may
 share properties and usage of nouns and verbs. Depending on language
 and context, they may be classified as either `VERB` or [NOUN]().
 
-Note that there are verb forms such as _transgressives_ or _adverbial
+Note that there are verb forms such as _converbs (transgressives)_ or _adverbial
 participles_ that share properties and usage of adverbs and
 verbs. Depending on language and context, they may be classified as
 either `VERB` or [ADV]().
