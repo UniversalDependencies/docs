@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-29T16:58:47Z">2017-01-29T16:58:47 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-29T17:07:17Z">2017-01-29T17:07:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3878,7 +3878,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T11:24:34Z">2017-01-28T11:24:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-29T17:06:41Z">2017-01-29T17:06:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4718,7 +4718,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T11:24:55Z">2017-01-28T11:24:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-29T17:07:03Z">2017-01-29T17:07:03 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4775,18 +4775,18 @@ Morpho errors: 103
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T19:07:21Z">2017-01-28T19:07:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-29T17:07:15Z">2017-01-29T17:07:15 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
 *** PASSED ***
 
