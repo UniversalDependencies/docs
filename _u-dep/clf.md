@@ -73,12 +73,12 @@ three cups of rolled oats
 nummod(cups, three)
 case(oats, of)
 amod(oats, rolled)
-nmod(cups oats)
+nmod(cups, oats)
 </div>
 
 <div class="sd-parse">
 three cups rolled oats
 nummod(cups, three)
 amod(oats, rolled)
-nmod(cups oats)
+nmod(cups, oats)
 </div>
