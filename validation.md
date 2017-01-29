@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-29T19:07:26Z">2017-01-29T19:07:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-29T19:16:48Z">2017-01-29T19:16:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4254,77 +4254,35 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-29T19:06:50Z">2017-01-29T19:06:50 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-29T19:16:11Z">2017-01-29T19:16:11 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt_bosque-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt_bosque-ud-dev.conllu
 
-[Line                   16]: Unknown UD DEPREL: flat:name
-[Line                   17]: Unknown UD DEPREL: flat:name
-[Line                   18]: Unknown UD DEPREL: flat:name
-[Line                   92]: Unknown UD DEPREL: obl:agent
-[Line                   138]: Unknown UD DEPREL: flat:name
-[Line                   404]: Unknown UD DEPREL: flat:name
-[Line                   407]: Unknown UD DEPREL: flat:name
-[Line                   408]: Unknown UD DEPREL: flat:name
-[Line                   495]: Unknown UD DEPREL: flat:name
-[Line                   513]: Unknown UD DEPREL: aux:pass
-[Line                   522]: Unknown UD DEPREL: flat:name
-[Line                   525]: Unknown UD DEPREL: flat:name
-[Line                   526]: Unknown UD DEPREL: flat:name
-[Line                   532]: Unknown UD DEPREL: flat:name
-[Line                   547]: Unknown UD DEPREL: aux:pass
-[Line                   553]: Unknown UD DEPREL: flat:name
-[Line                   573]: Unknown UD DEPREL: flat:name
-[Line                   605]: Unknown UD DEPREL: flat:name
-[Line                   756]: Unknown UD DEPREL: aux:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 184 errors
-Syntax errors: 184
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt_bosque-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt_bosque-ud-train.conllu
 
-[Line                   15]: Unknown UD DEPREL: flat:name
-[Line                   16]: Unknown UD DEPREL: flat:name
-[Line                   162]: Unknown UD DEPREL: flat:foreign
-[Line                   222]: Unknown UD DEPREL: flat:name
-[Line                   223]: Unknown UD DEPREL: flat:name
-[Line                   362]: Unknown UD DEPREL: aux:pass
-[Line                   392]: Unknown UD DEPREL: aux:pass
-[Line                   396]: Unknown UD DEPREL: obl:agent
-[Line                   456]: Unknown UD DEPREL: flat:name
-[Line                   581]: Unknown UD DEPREL: flat:name
-[Line                   582]: Unknown UD DEPREL: flat:name
-[Line                   632]: Unknown UD DEPREL: aux:pass
-[Line                   678]: Unknown UD DEPREL: flat:name
-[Line                   686]: Unknown UD DEPREL: flat:name
-[Line                   789]: Unknown UD DEPREL: flat:name
-[Line                   790]: Unknown UD DEPREL: flat:name
-[Line                   904]: Unknown UD DEPREL: aux:pass
-[Line                   908]: Unknown UD DEPREL: obl:agent
-[Line                   913]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
-*** FAILED *** with 7356 errors
-Syntax errors: 7356
+*** PASSED ***
 
 
 ******************
