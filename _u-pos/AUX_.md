@@ -19,8 +19,7 @@ also include copulas (in the narrow sense of pure linking words for nonverbal pr
 
 _Modal verbs_ may count as auxiliaries in some languages (English). In
 other languages their behavior is not too different from the [main
-verbs](VERB) and they are thus tagged `VERB`. _Copulas_ also stay with
-main verbs.
+verbs](VERB) and they are thus tagged `VERB`.
 
 Note that not all languages have grammaticalized auxiliaries, and
 even where they exist the dividing line between full verbs and
