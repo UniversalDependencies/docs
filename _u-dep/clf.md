@@ -72,13 +72,13 @@ even when things are being counted in groups (with "massifiers"). For example, i
 three cups of rolled oats
 nummod(cups, three)
 case(oats, of)
-amod(oats, rolled
+amod(oats, rolled)
 nmod(cups oats)
 </div>
 
 <div class="sd-parse">
 three cups rolled oats
 nummod(cups, three)
-amod(oats, rolled
+amod(oats, rolled)
 nmod(cups oats)
 </div>
