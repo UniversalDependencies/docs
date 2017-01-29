@@ -110,7 +110,7 @@ remote: Total 215 (delta 0), reused 0 (delta 0), pack-reused 215
 Receiving objects: 100% (215/215), 6.98 MiB | 4.55 MiB/s, done.
 Resolving deltas: 100% (134/134), done.
 Checking connectivity... done.</span>
-<pre>
+</pre>
 
 Then enter the cloned folder and switch to ("checkout") the `dev` branch. Your copy of the repository knows that such a branch exists on the server but it only creates your local copy of that branch once you ask for it. You may subsequently want to call `git pull` to make sure that you have the latest contents of the dev branch from the server:
 
