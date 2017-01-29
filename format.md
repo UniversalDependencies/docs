@@ -172,7 +172,9 @@ without special escaping. If the MISC field is not used, it should contain an un
 
 ## Untokenized Text
 
-To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field. Note that this feature applies to the token level, not to the word level. Syntactic words that are just part of surface tokens will be ignored during detokenization and thus do not need the feature. In the example below, the line indexed 3 does not contain the `SpaceAfter` feature even though there was no space between _für_ and _das_ in the underlying sentence. However, if there were no space between _fürs_ and the following token, the 3-4 line would have `SpaceAfter=No`.
+To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. If it is not available, UD treebanks since release 2.0 must approximate it using detokenization heuristics (see also the sentence-level attribute `text` below).
+
+Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field. Note that this feature applies to the token level, not to the word level. Syntactic words that are just part of surface tokens will be ignored during detokenization and thus do not need the feature. In the example below, the line indexed 3 does not contain the `SpaceAfter` feature even though there was no space between _für_ and _das_ in the underlying sentence. However, if there were no space between _fürs_ and the following token, the 3-4 line would have `SpaceAfter=No`.
 
 <!--WARNING: The multi-word tokens "he's, haven't" etc. may clash with usual low-level tokenization of English, see issue #322.
 Let's use an example from another language instead.
@@ -217,7 +219,12 @@ Note that columns 5 to 9 are collapsed in the following example.
 There must be exactly one blank line _after_ every sentence, including the last sentence in the file.
 Empty sentences are not allowed.
 
-Lines starting with the `#` character and preceding a sentence are considered as carrying metadata relevant to the following sentence. These lines are an integral part of the format as they give the ability to embed metadata together with the sentences. Consequently, any tools compatible with the CoNLL-U format should carry these lines over into their output (unless specifically designed to process them in some way). The contents of the comments and metadata is basically unrestricted and will vary depending on the application, but from v2 every sentence must have a unique sentence id, formatted as in the examples below. In sentence ids, the slash character ("/") is reserved for specialized downstream use and should be avoided in UD treebanks. Comments used to specify the unannotated sentence as a single string should also be formatted as below. Comment and metadata lines inside sentences (i.e., between the token lines) are disallowed.
+Lines starting with the `#` character and preceding a sentence are considered as carrying metadata relevant to the following sentence. These lines are an integral part of the format as they give the ability to embed metadata together with the sentences. Consequently, any tools compatible with the CoNLL-U format should carry these lines over into their output (unless specifically designed to process them in some way). Comment and metadata lines inside sentences (i.e., between the token lines) are disallowed.
+
+The contents of the comments and metadata is basically unrestricted and will vary depending on the application, but from v2 the following two comments are compulsory for every sentence (and there must be just one comment of each kind per sentence):
+
+* A treebank-wide unique sentence id (`sent_id`), formatted as in the examples below. In sentence ids, the slash character ("/") is reserved for specialized downstream use and should be avoided in UD treebanks.
+* Comments used to specify the unannotated sentence as a single string (`text`) should also be formatted as below. If the original text is not available, the providers of the UD treebanks must approximate the `text` attribute using detokenization heuristics.
 
     # sent_id = 1
     # text = They buy and sell books. 
