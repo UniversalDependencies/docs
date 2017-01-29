@@ -60,7 +60,7 @@ In some languages, including Chinese, a classifier can also appear without a num
 determinative function. We use the relation `det` for such uses of a classifier. For instance, in Cantonese ‘She bought a/the book’:
 
 <div class="sd-parse">
-佢 買 咗 [本 書] \n keoi maai zo [bun syu] \n 3sg buy PERF [CLF book]
+佢 買 咗 本 書 \n keoi maai zo bun syu \n 3sg buy PERF CLF book
 obj(買, 書)
 det(書, 本)
 </div>
