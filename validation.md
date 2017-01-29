@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-28T19:52:58Z">2017-01-28T19:52:58 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-29T02:44:11Z">2017-01-29T02:44:11 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1216,11 +1216,11 @@ Syntax errors: 11067
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-28T08:58:47Z">2017-01-28T08:58:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-29T02:43:54Z">2017-01-29T02:43:54 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-dev.conllu
+python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-dev.conllu
 
 [Line                   17]: Unknown UD DEPREL: dobj
 [Line                   21]: Unknown UD DEPREL: dobj
@@ -1269,7 +1269,7 @@ Syntax errors: 2021
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-train.conllu
+python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 
 [Line                   2]: Unknown UD DEPREL: name
 [Line                   9]: Unknown UD DEPREL: name
