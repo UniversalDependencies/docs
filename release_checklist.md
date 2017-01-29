@@ -100,6 +100,36 @@ This block can be anywhere in the readme file. The properties are as follows:
 While the official UD release is always through Lindat, many users of UD source their data from the GitHub language repositories. Therefore, the `master` branch of every language should contain the last, officially released version of the data for the given language. The development in between releases should happen on the `dev` branch of the repository.
 Although it is currently not locked, treebank maintainers should never touch the `master` branch, they should always push to `dev`. At release time, the release task force will take care of merging the contents of the `dev` branch into `master`.
 
+If you have no previous experience with Git, here is a quick tutorial on how to deal with the branches. Please refer to on-line documentation of Git and Github for more details. The tutorial assumes that you are communicating with Github from a Linux shell. The interface may be different if your OS is Windows. If you are working only with the Github web interface, you are not dependent on your operating system but you must remember to switch the `Branch: master` drop-down menu (left-hand side of the page) to `Branch: dev`; it always starts in `master` by default. In contrast, when you want to clone the repository to your local system, you need the address that is hidden under `Clone or download` in the right-hand side of the page, and that address is common for all branches. Our example is the [Italian repository](https://github.com/UniversalDependencies/UD_Italian/tree/dev). Here is how you clone the repo to your system (`git clone` is the command, the remainder is the address copied from the Github web:
+
+<pre>
+git clone git@github.com:UniversalDependencies/UD_Italian.git
+<span style="color:grey">Cloning into 'UD_Italian'...
+remote: Counting objects: 215, done.
+remote: Total 215 (delta 0), reused 0 (delta 0), pack-reused 215
+Receiving objects: 100% (215/215), 6.98 MiB | 4.55 MiB/s, done.
+Resolving deltas: 100% (134/134), done.
+Checking connectivity... done.</span>
+<pre>
+
+Then enter the cloned folder and switch to ("checkout") the `dev` branch. Your copy of the repository knows that such a branch exists on the server but it only creates your local copy of that branch once you ask for it. You may subsequently want to call `git pull` to make sure that you have the latest contents of the dev branch from the server:
+
+<pre>
+cd UD_Italian
+git checkout dev
+<span style="color:grey">Branch dev set up to track remote branch dev from origin.
+Switched to a new branch 'dev'</span>
+git branch
+<span style="color:grey">* dev
+master</span>
+git pull
+<span style="color:grey">Already up-to-date.</span>
+</pre>
+
+Once you do this, you are all set. Your copy will stay switched to the dev branch unless you call `git checkout master` (or other `git checkout`) again. You will probably mostly need just `git status`, `git diff`, `git add`, `git commit`, `git push` and `git pull` commands. All pushes and pulls will be done against the remote `dev` branch.
+
+
+
 # Validation
 
 ## Data format and repository
