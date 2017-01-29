@@ -32,6 +32,7 @@ language-specific documentation.
 - Tense auxiliaries: _<b>has</b> (done), <b>is</b> (doing), <b>will</b> (do)_
 - Passive auxiliaries: _<b>was</b> (done), <b>got</b> (done)_
 - Modal auxiliaries: _<b>should</b> (do), <b>must</b> (do)_
+- Verbal copulas: _He <b>is</b> a teacher._
 
 ### References
 
