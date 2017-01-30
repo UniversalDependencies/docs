@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-30T12:10:17Z">2017-01-30T12:10:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-30T12:32:31Z">2017-01-30T12:32:31 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -13,7 +13,7 @@ Regenerated: <time class="timeago" datetime="2017-01-30T12:10:17Z">2017-01-30T12
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:52:47Z">2017-01-30T11:52:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:15:07Z">2017-01-30T12:15:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -24,7 +24,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:52:47Z">2017-01-30T11:52:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:15:07Z">2017-01-30T12:15:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -175,7 +175,7 @@ Syntax errors: 21730
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:53:06Z">2017-01-30T11:53:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:15:25Z">2017-01-30T12:15:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -326,7 +326,7 @@ Syntax errors: 16651
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:53:25Z">2017-01-30T11:53:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:15:44Z">2017-01-30T12:15:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -351,7 +351,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-LDC</span>
 <span class="widespan">ar ldc</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:53:52Z">2017-01-30T11:53:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:11Z">2017-01-30T12:16:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -362,7 +362,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Basque</span>
 <span class="widespan">eu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:53:52Z">2017-01-30T11:53:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:11Z">2017-01-30T12:16:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -513,37 +513,37 @@ Syntax errors: 6742
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:01Z">2017-01-30T11:54:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:19Z">2017-01-30T12:16:19 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
 
+[Line                   10]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   10]: Missing the sent_id attribute.
 [Line                   10]: Missing the text attribute.
 [Line                   16]: Unknown UD DEPREL: dobj
+[Line                   19]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   19]: Missing the sent_id attribute.
 [Line                   19]: Missing the text attribute.
+[Line                   30]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   30]: Missing the sent_id attribute.
 [Line                   30]: Missing the text attribute.
+[Line                   39]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   39]: Missing the sent_id attribute.
 [Line                   39]: Missing the text attribute.
+[Line                   53]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   53]: Missing the sent_id attribute.
 [Line                   53]: Missing the text attribute.
+[Line                   63]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   63]: Missing the sent_id attribute.
 [Line                   63]: Missing the text attribute.
 [Line                   69]: Unknown UD DEPREL: dobj
 [Line                   72]: Unknown UD DEPREL: mwe
-[Line                   74]: Missing the sent_id attribute.
-[Line                   74]: Missing the text attribute.
-[Line                   82]: Unknown UPOS tag: CONJ
-[Line                   87]: Missing the sent_id attribute.
-[Line                   87]: Missing the text attribute.
-[Line                   100]: Missing the sent_id attribute.
-[Line                   100]: Missing the text attribute.
-[Line                   105]: Unknown UD DEPREL: dobj
-[Line                   109]: Missing the sent_id attribute.
+[Line                   74]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
+[Line                   82]: Unknown UPOS tag: CONJ
+[Line                   105]: Unknown UD DEPREL: dobj
 [Line                   130]: Unknown UPOS tag: CONJ
 [Line                   151]: Unknown UPOS tag: CONJ
 [Line                   156]: Unknown UD DEPREL: neg
@@ -579,8 +579,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJ
 [Line                   880]: Unknown UPOS tag: CONJ
 [Line                   929]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 3977 errors
-Metadata errors: 2230
+*** FAILED *** with 5092 errors
+Metadata errors: 3345
 Morpho errors: 511
 Syntax errors: 1236
 
@@ -590,36 +590,36 @@ Syntax errors: 1236
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
 
 [Line                   13]: Unknown UD DEPREL: nsubjpass
+[Line                   15]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   15]: Missing the sent_id attribute.
 [Line                   15]: Missing the text attribute.
 [Line                   24]: Unknown UD DEPREL: dobj
+[Line                   28]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   28]: Missing the sent_id attribute.
 [Line                   28]: Missing the text attribute.
 [Line                   36]: Unknown UD DEPREL: neg
 [Line                   38]: Unknown UD DEPREL: dobj
+[Line                   40]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   40]: Missing the sent_id attribute.
 [Line                   40]: Missing the text attribute.
+[Line                   50]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   50]: Missing the sent_id attribute.
 [Line                   50]: Missing the text attribute.
 [Line                   59]: Unknown UD DEPREL: neg
+[Line                   67]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   67]: Missing the sent_id attribute.
 [Line                   67]: Missing the text attribute.
 [Line                   73]: Unknown UD DEPREL: nsubjpass
 [Line                   74]: Unknown UD DEPREL: neg
 [Line                   75]: Unknown UD DEPREL: auxpass
+[Line                   80]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   80]: Missing the sent_id attribute.
 [Line                   80]: Missing the text attribute.
-[Line                   93]: Missing the sent_id attribute.
-[Line                   93]: Missing the text attribute.
+[Line                   93]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+...suppressing further errors regarding Metadata
 [Line                   101]: Unknown UD DEPREL: neg
 [Line                   103]: Unknown UD DEPREL: dobj
-[Line                   105]: Missing the sent_id attribute.
-[Line                   105]: Missing the text attribute.
 [Line                   110]: Unknown UD DEPREL: neg
-[Line                   115]: Missing the sent_id attribute.
-[Line                   115]: Missing the text attribute.
-[Line                   124]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   185]: Unknown UD DEPREL: neg
 [Line                   189]: Unknown UD DEPREL: nsubjpass
 [Line                   202]: Unknown UD DEPREL: neg
@@ -649,8 +649,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJ
 [Line                   1314]: Unknown UPOS tag: CONJ
 [Line                   1346]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 31913 errors
-Metadata errors: 17814
+*** FAILED *** with 40820 errors
+Metadata errors: 26721
 Morpho errors: 3910
 Syntax errors: 10189
 
@@ -664,7 +664,7 @@ Syntax errors: 10189
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:12Z">2017-01-30T11:54:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:31Z">2017-01-30T12:16:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -675,7 +675,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Cantonese</span>
 <span class="widespan">yue</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:12Z">2017-01-30T11:54:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:31Z">2017-01-30T12:16:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -686,7 +686,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:12Z">2017-01-30T11:54:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:31Z">2017-01-30T12:16:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -711,7 +711,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Chinese</span>
 <span class="widespan">zh</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:51Z">2017-01-30T11:54:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:17:12Z">2017-01-30T12:17:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -862,7 +862,7 @@ Syntax errors: 7372
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:57Z">2017-01-30T11:54:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:17:19Z">2017-01-30T12:17:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -873,7 +873,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:57Z">2017-01-30T11:54:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:17:19Z">2017-01-30T12:17:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1018,7 +1018,7 @@ Syntax errors: 265
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:58Z">2017-01-30T11:54:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:17:20Z">2017-01-30T12:17:20 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1169,7 +1169,7 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:55:10Z">2017-01-30T11:55:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:17:31Z">2017-01-30T12:17:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1215,7 +1215,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:57:20Z">2017-01-30T11:57:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:19:46Z">2017-01-30T12:19:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1240,7 +1240,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:06Z">2017-01-30T11:58:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:20:32Z">2017-01-30T12:20:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1307,7 +1307,7 @@ Metadata errors: 9021
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:10Z">2017-01-30T11:58:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:20:35Z">2017-01-30T12:20:35 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1458,7 +1458,7 @@ Syntax errors: 8478
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:18Z">2017-01-30T11:58:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:20:42Z">2017-01-30T12:20:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1483,7 +1483,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:35Z">2017-01-30T11:58:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:00Z">2017-01-30T12:21:00 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1636,7 +1636,7 @@ Syntax errors: 11067
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:41Z">2017-01-30T11:58:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:06Z">2017-01-30T12:21:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1787,7 +1787,7 @@ Syntax errors: 16527
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:58Z">2017-01-30T11:58:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:25Z">2017-01-30T12:21:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1938,7 +1938,7 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:59:04Z">2017-01-30T11:59:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:30Z">2017-01-30T12:21:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2089,7 +2089,7 @@ Syntax errors: 5480
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:59:08Z">2017-01-30T11:59:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:34Z">2017-01-30T12:21:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2097,14 +2097,17 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJ
 
 [Line                   19]: Unknown attribute-value pair Negative=Neg
 [Line                   19]: Unknown UD DEPREL: neg
+[Line                   24]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   24]: Missing the sent_id attribute.
 [Line                   24]: Missing the text attribute.
+[Line                   36]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   36]: Missing the sent_id attribute.
 [Line                   36]: Missing the text attribute.
 [Line                   39]: Unknown UPOS tag: CONJ
 [Line                   40]: Unknown attribute-value pair Negative=Neg
 [Line                   48]: Unknown UD DEPREL: neg
 [Line                   54]: Unknown UPOS tag: CONJ
+[Line                   59]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   59]: Missing the sent_id attribute.
 [Line                   59]: Missing the text attribute.
 [Line                   71]: Unknown UD DEPREL: dobj
@@ -2112,27 +2115,24 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJ
 [Line                   76]: Unknown UD DEPREL: neg
 [Line                   78]: Unknown UD DEPREL: dobj
 [Line                   81]: Unknown UPOS tag: CONJ
+[Line                   84]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   84]: Missing the sent_id attribute.
 [Line                   84]: Missing the text attribute.
 [Line                   88]: Unknown UPOS tag: CONJ
+[Line                   92]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   92]: Missing the sent_id attribute.
 [Line                   92]: Missing the text attribute.
 [Line                   106]: Unknown attribute-value pair Negative=Neg
+[Line                   110]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   110]: Missing the sent_id attribute.
 [Line                   110]: Missing the text attribute.
 [Line                   113]: Unknown UD DEPREL: dobj
-[Line                   124]: Missing the sent_id attribute.
-[Line                   124]: Missing the text attribute.
-[Line                   137]: Missing the sent_id attribute.
-[Line                   137]: Missing the text attribute.
+[Line                   124]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+...suppressing further errors regarding Metadata
 [Line                   152]: Unknown UPOS tag: CONJ
 [Line                   156]: Unknown UPOS tag: CONJ
-[Line                   174]: Missing the sent_id attribute.
-[Line                   174]: Missing the text attribute.
 [Line                   186]: Unknown UPOS tag: CONJ
 [Line                   191]: Unknown UD DEPREL: dobj
-[Line                   197]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   202]: Unknown attribute-value pair Negative=Neg
 [Line                   213]: Unknown UD DEPREL: dobj
 [Line                   224]: Unknown attribute-value pair Negative=Neg
@@ -2155,8 +2155,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJ
 [Line                   402]: Unknown UD DEPREL: dobj
 [Line                   428]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 6374 errors
-Metadata errors: 3586
+*** FAILED *** with 8167 errors
+Metadata errors: 5379
 Morpho errors: 1202
 Syntax errors: 1586
 
@@ -2165,43 +2165,43 @@ Syntax errors: 1586
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
+[Line                   8]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   8]: Missing the sent_id attribute.
 [Line                   8]: Missing the text attribute.
 [Line                   18]: Unknown UPOS tag: CONJ
+[Line                   38]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   38]: Missing the sent_id attribute.
 [Line                   38]: Missing the text attribute.
+[Line                   46]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   46]: Missing the sent_id attribute.
 [Line                   46]: Missing the text attribute.
 [Line                   49]: Unknown attribute-value pair Negative=Neg
 [Line                   54]: Unknown UPOS tag: CONJ
 [Line                   61]: Unknown UPOS tag: CONJ
+[Line                   81]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   81]: Missing the sent_id attribute.
 [Line                   81]: Missing the text attribute.
 [Line                   85]: Unknown UD DEPREL: dobj
+[Line                   92]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   92]: Missing the sent_id attribute.
 [Line                   92]: Missing the text attribute.
+[Line                   114]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   114]: Missing the sent_id attribute.
 [Line                   114]: Missing the text attribute.
 [Line                   121]: Unknown UD DEPREL: dobj
 [Line                   125]: Unknown attribute-value pair Negative=Neg
 [Line                   125]: Unknown UD DEPREL: neg
 [Line                   128]: Unknown attribute-value pair Negative=Neg
-[Line                   131]: Missing the sent_id attribute.
-[Line                   131]: Missing the text attribute.
+[Line                   131]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+...suppressing further errors regarding Metadata
 [Line                   140]: Unknown UD DEPREL: dobj
 [Line                   147]: Unknown attribute-value pair Negative=Neg
 [Line                   147]: Unknown UD DEPREL: neg
 [Line                   152]: Unknown UD DEPREL: dobj
 [Line                   157]: Unknown UPOS tag: CONJ
-[Line                   164]: Missing the sent_id attribute.
-[Line                   164]: Missing the text attribute.
 [Line                   177]: Unknown UD DEPREL: dobj
-[Line                   180]: Missing the sent_id attribute.
-[Line                   180]: Missing the text attribute.
 [Line                   190]: Unknown UPOS tag: CONJ
 [Line                   200]: Unknown UD DEPREL: dobj
-[Line                   212]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   218]: Unknown UD DEPREL: dobj
 [Line                   229]: Unknown UD DEPREL: dobj
 [Line                   239]: Unknown UPOS tag: CONJ
@@ -2225,8 +2225,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJ
 [Line                   451]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 51392 errors
-Metadata errors: 29020
+*** FAILED *** with 65902 errors
+Metadata errors: 43530
 Morpho errors: 9463
 Syntax errors: 12909
 
@@ -2240,7 +2240,7 @@ Syntax errors: 12909
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:59:27Z">2017-01-30T11:59:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:54Z">2017-01-30T12:21:54 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2443,7 +2443,7 @@ The language-specific file %s does not exist.
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:59:38Z">2017-01-30T11:59:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:22:04Z">2017-01-30T12:22:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2594,7 +2594,7 @@ Syntax errors: 16265
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:59:53Z">2017-01-30T11:59:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:22:19Z">2017-01-30T12:22:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2703,7 +2703,7 @@ Morpho errors: 1447
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:00:08Z">2017-01-30T12:00:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:22:31Z">2017-01-30T12:22:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2854,7 +2854,7 @@ Syntax errors: 30355
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:00:38Z">2017-01-30T12:00:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:03Z">2017-01-30T12:23:03 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3005,7 +3005,7 @@ Syntax errors: 4346
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:00:45Z">2017-01-30T12:00:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:10Z">2017-01-30T12:23:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3156,7 +3156,7 @@ Syntax errors: 1150
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:00:47Z">2017-01-30T12:00:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:12Z">2017-01-30T12:23:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3181,7 +3181,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:01:11Z">2017-01-30T12:01:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:34Z">2017-01-30T12:23:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3332,7 +3332,7 @@ Syntax errors: 4648
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:01:16Z">2017-01-30T12:01:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:39Z">2017-01-30T12:23:39 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3483,7 +3483,7 @@ Syntax errors: 2599
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:01:20Z">2017-01-30T12:01:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:45Z">2017-01-30T12:23:45 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3634,37 +3634,37 @@ Syntax errors: 7237
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:01:34Z">2017-01-30T12:01:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:59Z">2017-01-30T12:23:59 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
 
 [Line                   12]: Unknown UD DEPREL: dobj
+[Line                   26]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   26]: Missing the sent_id attribute.
 [Line                   26]: Missing the text attribute.
+[Line                   43]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   43]: Missing the sent_id attribute.
 [Line                   43]: Missing the text attribute.
 [Line                   52]: Unknown UPOS tag: CONJ
+[Line                   64]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   64]: Missing the sent_id attribute.
 [Line                   64]: Missing the text attribute.
 [Line                   77]: Unknown UPOS tag: CONJ
+[Line                   93]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   93]: Missing the sent_id attribute.
 [Line                   93]: Missing the text attribute.
+[Line                   107]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   107]: Missing the sent_id attribute.
 [Line                   107]: Missing the text attribute.
+[Line                   132]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   132]: Missing the sent_id attribute.
 [Line                   132]: Missing the text attribute.
 [Line                   134]: Unknown attribute-value pair Polite=Pol
-[Line                   138]: Missing the sent_id attribute.
-[Line                   138]: Missing the text attribute.
-[Line                   149]: Unknown attribute-value pair Polite=Pol
-[Line                   154]: Missing the sent_id attribute.
-[Line                   154]: Missing the text attribute.
-[Line                   171]: Missing the sent_id attribute.
-[Line                   171]: Missing the text attribute.
-[Line                   181]: Missing the sent_id attribute.
+[Line                   138]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
+[Line                   149]: Unknown attribute-value pair Polite=Pol
 [Line                   212]: Unknown UD DEPREL: nsubjpass
 [Line                   217]: Unknown UD DEPREL: auxpass
 [Line                   218]: Unknown UD DEPREL: auxpass
@@ -3700,8 +3700,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJ
 [Line                   1005]: Unknown UPOS tag: CONJ
 [Line                   1021]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 8033 errors
-Metadata errors: 3318
+*** FAILED *** with 9692 errors
+Metadata errors: 4977
 Morpho errors: 1644
 Syntax errors: 3071
 
@@ -3710,35 +3710,35 @@ Syntax errors: 3071
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 
+[Line                   13]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   13]: Missing the sent_id attribute.
 [Line                   13]: Missing the text attribute.
 [Line                   15]: Unknown UD DEPREL: dobj
+[Line                   22]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   22]: Missing the sent_id attribute.
 [Line                   22]: Missing the text attribute.
+[Line                   31]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   31]: Missing the sent_id attribute.
 [Line                   31]: Missing the text attribute.
 [Line                   37]: Unknown UPOS tag: CONJ
+[Line                   50]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   50]: Missing the sent_id attribute.
 [Line                   50]: Missing the text attribute.
+[Line                   58]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   58]: Missing the sent_id attribute.
 [Line                   58]: Missing the text attribute.
 [Line                   70]: Unknown UD DEPREL: dobj
+[Line                   76]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   76]: Missing the sent_id attribute.
 [Line                   76]: Missing the text attribute.
 [Line                   98]: Unknown attribute-value pair Polite=Pol
 [Line                   98]: Unknown UD DEPREL: dobj
 [Line                   103]: Unknown UD DEPREL: auxpass
 [Line                   104]: Unknown UD DEPREL: auxpass
-[Line                   106]: Missing the sent_id attribute.
-[Line                   106]: Missing the text attribute.
-[Line                   110]: Unknown UPOS tag: CONJ
-[Line                   118]: Missing the sent_id attribute.
-[Line                   118]: Missing the text attribute.
-[Line                   128]: Missing the sent_id attribute.
-[Line                   128]: Missing the text attribute.
-[Line                   136]: Unknown UPOS tag: CONJ
-[Line                   143]: Missing the sent_id attribute.
+[Line                   106]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
+[Line                   110]: Unknown UPOS tag: CONJ
+[Line                   136]: Unknown UPOS tag: CONJ
 [Line                   145]: Unknown UD DEPREL: dobj
 [Line                   168]: Unknown UD DEPREL: dobj
 [Line                   196]: Unknown UPOS tag: CONJ
@@ -3770,8 +3770,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJ
 [Line                   472]: Unknown attribute-value pair Polite=Pol
 [Line                   473]: Unknown attribute-value pair Polite=Pol
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 64195 errors
-Metadata errors: 26608
+*** FAILED *** with 77499 errors
+Metadata errors: 39912
 Morpho errors: 12869
 Syntax errors: 24718
 
@@ -3785,7 +3785,7 @@ Syntax errors: 24718
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:04Z">2017-01-30T12:02:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:24:28Z">2017-01-30T12:24:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3936,7 +3936,7 @@ Syntax errors: 2668
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian</span>
 <span class="widespan">id</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:07Z">2017-01-30T12:02:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:24:31Z">2017-01-30T12:24:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4087,7 +4087,7 @@ Syntax errors: 17051
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:13Z">2017-01-30T12:02:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:24:37Z">2017-01-30T12:24:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4238,7 +4238,7 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:15Z">2017-01-30T12:02:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:24:39Z">2017-01-30T12:24:39 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4375,62 +4375,62 @@ Syntax errors: 6701
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:32Z">2017-01-30T12:02:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:24:56Z">2017-01-30T12:24:56 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese/ja-ud-dev.conllu
 
+[Line                   23]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   23]: Missing the sent_id attribute.
 [Line                   23]: Missing the text attribute.
+[Line                   50]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   50]: Missing the sent_id attribute.
 [Line                   50]: Missing the text attribute.
+[Line                   72]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   72]: Missing the sent_id attribute.
 [Line                   72]: Missing the text attribute.
+[Line                   87]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   87]: Missing the sent_id attribute.
 [Line                   87]: Missing the text attribute.
+[Line                   99]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   99]: Missing the sent_id attribute.
 [Line                   99]: Missing the text attribute.
+[Line                   118]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   118]: Missing the sent_id attribute.
 [Line                   118]: Missing the text attribute.
-[Line                   165]: Missing the sent_id attribute.
-[Line                   165]: Missing the text attribute.
-[Line                   234]: Missing the sent_id attribute.
-[Line                   234]: Missing the text attribute.
-[Line                   249]: Missing the sent_id attribute.
-[Line                   249]: Missing the text attribute.
-[Line                   274]: Missing the sent_id attribute.
+[Line                   165]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 1200 errors
-Metadata errors: 1200
+*** FAILED *** with 1800 errors
+Metadata errors: 1800
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese/ja-ud-train.conllu
 
+[Line                   38]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   38]: Missing the sent_id attribute.
 [Line                   38]: Missing the text attribute.
+[Line                   55]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   55]: Missing the sent_id attribute.
 [Line                   55]: Missing the text attribute.
+[Line                   91]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   91]: Missing the sent_id attribute.
 [Line                   91]: Missing the text attribute.
+[Line                   113]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   113]: Missing the sent_id attribute.
 [Line                   113]: Missing the text attribute.
+[Line                   121]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   121]: Missing the sent_id attribute.
 [Line                   121]: Missing the text attribute.
+[Line                   150]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   150]: Missing the sent_id attribute.
 [Line                   150]: Missing the text attribute.
-[Line                   195]: Missing the sent_id attribute.
-[Line                   195]: Missing the text attribute.
-[Line                   218]: Missing the sent_id attribute.
-[Line                   218]: Missing the text attribute.
-[Line                   232]: Missing the sent_id attribute.
-[Line                   232]: Missing the text attribute.
-[Line                   305]: Missing the sent_id attribute.
+[Line                   195]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 16554 errors
-Metadata errors: 16554
+*** FAILED *** with 24831 errors
+Metadata errors: 24831
 
 
 ******************
@@ -4442,7 +4442,7 @@ Metadata errors: 16554
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-KTC</span>
 <span class="widespan">ja ktc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:44Z">2017-01-30T12:02:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:07Z">2017-01-30T12:25:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4593,7 +4593,7 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:55Z">2017-01-30T12:02:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:18Z">2017-01-30T12:25:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4744,7 +4744,7 @@ Syntax errors: 308
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:56Z">2017-01-30T12:02:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:18Z">2017-01-30T12:25:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4828,7 +4828,7 @@ Syntax errors: 6576
 <span class="doublewidespan" style="padding-left:3em">UD Kurmanji</span>
 <span class="widespan">kmr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:00Z">2017-01-30T12:03:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:23Z">2017-01-30T12:25:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4839,7 +4839,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Latin</span>
 <span class="widespan">la</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:00Z">2017-01-30T12:03:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:23Z">2017-01-30T12:25:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4990,7 +4990,7 @@ Syntax errors: 4790
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:04Z">2017-01-30T12:03:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:27Z">2017-01-30T12:25:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5015,7 +5015,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:29Z">2017-01-30T12:03:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:54Z">2017-01-30T12:25:54 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5166,7 +5166,7 @@ Syntax errors: 17359
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:44Z">2017-01-30T12:03:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:08Z">2017-01-30T12:26:08 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5317,7 +5317,7 @@ Syntax errors: 1019
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:46Z">2017-01-30T12:03:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:10Z">2017-01-30T12:26:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5328,62 +5328,62 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:46Z">2017-01-30T12:03:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:10Z">2017-01-30T12:26:10 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
 
+[Line                   37]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   37]: Missing the sent_id attribute.
 [Line                   37]: Missing the text attribute.
+[Line                   57]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   57]: Missing the sent_id attribute.
 [Line                   57]: Missing the text attribute.
+[Line                   85]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   85]: Missing the sent_id attribute.
 [Line                   85]: Missing the text attribute.
+[Line                   97]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   97]: Missing the sent_id attribute.
 [Line                   97]: Missing the text attribute.
+[Line                   147]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   147]: Missing the sent_id attribute.
 [Line                   147]: Missing the text attribute.
+[Line                   158]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   158]: Missing the sent_id attribute.
 [Line                   158]: Missing the text attribute.
-[Line                   176]: Missing the sent_id attribute.
-[Line                   176]: Missing the text attribute.
-[Line                   183]: Missing the sent_id attribute.
-[Line                   183]: Missing the text attribute.
-[Line                   192]: Missing the sent_id attribute.
-[Line                   192]: Missing the text attribute.
-[Line                   202]: Missing the sent_id attribute.
+[Line                   176]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 4820 errors
-Metadata errors: 4820
+*** FAILED *** with 7230 errors
+Metadata errors: 7230
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
 
+[Line                   7]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   7]: Missing the sent_id attribute.
 [Line                   7]: Missing the text attribute.
+[Line                   22]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   22]: Missing the sent_id attribute.
 [Line                   22]: Missing the text attribute.
+[Line                   33]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   33]: Missing the sent_id attribute.
 [Line                   33]: Missing the text attribute.
+[Line                   63]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   63]: Missing the sent_id attribute.
 [Line                   63]: Missing the text attribute.
+[Line                   77]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   77]: Missing the sent_id attribute.
 [Line                   77]: Missing the text attribute.
+[Line                   102]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   102]: Missing the sent_id attribute.
 [Line                   102]: Missing the text attribute.
-[Line                   116]: Missing the sent_id attribute.
-[Line                   116]: Missing the text attribute.
-[Line                   138]: Missing the sent_id attribute.
-[Line                   138]: Missing the text attribute.
-[Line                   173]: Missing the sent_id attribute.
-[Line                   173]: Missing the text attribute.
-[Line                   178]: Missing the sent_id attribute.
+[Line                   116]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 31392 errors
-Metadata errors: 31392
+*** FAILED *** with 47088 errors
+Metadata errors: 47088
 
 
 ******************
@@ -5395,7 +5395,7 @@ Metadata errors: 31392
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:04:10Z">2017-01-30T12:04:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:31Z">2017-01-30T12:26:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5546,7 +5546,7 @@ Syntax errors: 20390
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:04:32Z">2017-01-30T12:04:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:51Z">2017-01-30T12:26:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5697,7 +5697,7 @@ Syntax errors: 4690
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:04:37Z">2017-01-30T12:04:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:56Z">2017-01-30T12:26:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5848,7 +5848,7 @@ Syntax errors: 7510
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:04:48Z">2017-01-30T12:04:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:27:06Z">2017-01-30T12:27:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5873,7 +5873,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:04:56Z">2017-01-30T12:04:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:27:14Z">2017-01-30T12:27:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5954,62 +5954,62 @@ Metadata errors: 38388
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-BR</span>
 <span class="widespan">pt br</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:05:33Z">2017-01-30T12:05:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:27:51Z">2017-01-30T12:27:51 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_br /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-BR/pt_br-ud-dev.conllu
 
+[Line                   42]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   42]: Missing the sent_id attribute.
 [Line                   42]: Missing the text attribute.
+[Line                   56]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   56]: Missing the sent_id attribute.
 [Line                   56]: Missing the text attribute.
+[Line                   68]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   68]: Missing the sent_id attribute.
 [Line                   68]: Missing the text attribute.
+[Line                   78]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   78]: Missing the sent_id attribute.
 [Line                   78]: Missing the text attribute.
+[Line                   106]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   106]: Missing the sent_id attribute.
 [Line                   106]: Missing the text attribute.
+[Line                   126]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   126]: Missing the sent_id attribute.
 [Line                   126]: Missing the text attribute.
-[Line                   146]: Missing the sent_id attribute.
-[Line                   146]: Missing the text attribute.
-[Line                   158]: Missing the sent_id attribute.
-[Line                   158]: Missing the text attribute.
-[Line                   188]: Missing the sent_id attribute.
-[Line                   188]: Missing the text attribute.
-[Line                   211]: Missing the sent_id attribute.
+[Line                   146]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 2420 errors
-Metadata errors: 2420
+*** FAILED *** with 3630 errors
+Metadata errors: 3630
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_br /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-BR/pt_br-ud-train.conllu
 
+[Line                   26]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   26]: Missing the sent_id attribute.
 [Line                   26]: Missing the text attribute.
+[Line                   85]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   85]: Missing the sent_id attribute.
 [Line                   85]: Missing the text attribute.
+[Line                   154]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   154]: Missing the sent_id attribute.
 [Line                   154]: Missing the text attribute.
+[Line                   178]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   178]: Missing the sent_id attribute.
 [Line                   178]: Missing the text attribute.
+[Line                   207]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   207]: Missing the sent_id attribute.
 [Line                   207]: Missing the text attribute.
+[Line                   224]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   224]: Missing the sent_id attribute.
 [Line                   224]: Missing the text attribute.
-[Line                   241]: Missing the sent_id attribute.
-[Line                   241]: Missing the text attribute.
-[Line                   265]: Missing the sent_id attribute.
-[Line                   265]: Missing the text attribute.
-[Line                   320]: Missing the sent_id attribute.
-[Line                   320]: Missing the text attribute.
-[Line                   352]: Missing the sent_id attribute.
+[Line                   241]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 19328 errors
-Metadata errors: 19328
+*** FAILED *** with 28992 errors
+Metadata errors: 28992
 
 
 ******************
@@ -6021,7 +6021,7 @@ Metadata errors: 19328
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:05:50Z">2017-01-30T12:05:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:28:06Z">2017-01-30T12:28:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6088,7 +6088,7 @@ Metadata errors: 38364
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:06:09Z">2017-01-30T12:06:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:28:24Z">2017-01-30T12:28:24 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6239,7 +6239,7 @@ Syntax errors: 20853
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:06:48Z">2017-01-30T12:06:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:29:03Z">2017-01-30T12:29:03 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6390,7 +6390,7 @@ Syntax errors: 4620
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:06:56Z">2017-01-30T12:06:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:29:12Z">2017-01-30T12:29:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6541,62 +6541,62 @@ Syntax errors: 51913
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:15Z">2017-01-30T12:08:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:32Z">2017-01-30T12:30:32 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
 
+[Line                   5]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   5]: Missing the sent_id attribute.
 [Line                   5]: Missing the text attribute.
+[Line                   12]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   12]: Missing the sent_id attribute.
 [Line                   12]: Missing the text attribute.
+[Line                   19]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   19]: Missing the sent_id attribute.
 [Line                   19]: Missing the text attribute.
+[Line                   26]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   26]: Missing the sent_id attribute.
 [Line                   26]: Missing the text attribute.
+[Line                   33]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   33]: Missing the sent_id attribute.
 [Line                   33]: Missing the text attribute.
+[Line                   39]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   39]: Missing the sent_id attribute.
 [Line                   39]: Missing the text attribute.
-[Line                   43]: Missing the sent_id attribute.
-[Line                   43]: Missing the text attribute.
-[Line                   53]: Missing the sent_id attribute.
-[Line                   53]: Missing the text attribute.
-[Line                   59]: Missing the sent_id attribute.
-[Line                   59]: Missing the text attribute.
-[Line                   67]: Missing the sent_id attribute.
+[Line                   43]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 100 errors
-Metadata errors: 100
+*** FAILED *** with 150 errors
+Metadata errors: 150
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
 
+[Line                   17]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   17]: Missing the sent_id attribute.
 [Line                   17]: Missing the text attribute.
+[Line                   23]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   23]: Missing the sent_id attribute.
 [Line                   23]: Missing the text attribute.
+[Line                   31]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   31]: Missing the sent_id attribute.
 [Line                   31]: Missing the text attribute.
+[Line                   38]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   38]: Missing the sent_id attribute.
 [Line                   38]: Missing the text attribute.
+[Line                   53]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   53]: Missing the sent_id attribute.
 [Line                   53]: Missing the text attribute.
+[Line                   64]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   64]: Missing the sent_id attribute.
 [Line                   64]: Missing the text attribute.
-[Line                   77]: Missing the sent_id attribute.
-[Line                   77]: Missing the text attribute.
-[Line                   83]: Missing the sent_id attribute.
-[Line                   83]: Missing the text attribute.
-[Line                   95]: Missing the sent_id attribute.
-[Line                   95]: Missing the text attribute.
-[Line                   107]: Missing the sent_id attribute.
+[Line                   77]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 200 errors
-Metadata errors: 200
+*** FAILED *** with 300 errors
+Metadata errors: 300
 
 
 ******************
@@ -6608,7 +6608,7 @@ Metadata errors: 200
 <span class="doublewidespan" style="padding-left:3em">UD Serbian</span>
 <span class="widespan">sr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:15Z">2017-01-30T12:08:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:32Z">2017-01-30T12:30:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6619,7 +6619,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:15Z">2017-01-30T12:08:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:32Z">2017-01-30T12:30:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6644,7 +6644,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:24Z">2017-01-30T12:08:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:42Z">2017-01-30T12:30:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6711,7 +6711,7 @@ Metadata errors: 4828
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:36Z">2017-01-30T12:08:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:53Z">2017-01-30T12:30:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6765,8 +6765,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_
 [Line                   202]: The text attribute must not end with a whitespace
 [Line                   225]: The text attribute must not end with a whitespace
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 1055 errors
-Metadata errors: 1055
+*** FAILED *** with 1056 errors
+Metadata errors: 1056
 
 
 ******************
@@ -6778,7 +6778,7 @@ Metadata errors: 1055
 <span class="doublewidespan" style="padding-left:3em">UD Somali</span>
 <span class="widespan">so</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:39Z">2017-01-30T12:08:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:55Z">2017-01-30T12:30:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6789,7 +6789,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Sorani</span>
 <span class="widespan">ckb</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:39Z">2017-01-30T12:08:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:55Z">2017-01-30T12:30:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6800,7 +6800,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:39Z">2017-01-30T12:08:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:55Z">2017-01-30T12:30:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6825,7 +6825,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:09:16Z">2017-01-30T12:09:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:31:30Z">2017-01-30T12:31:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6850,7 +6850,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:09:56Z">2017-01-30T12:09:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:11Z">2017-01-30T12:32:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6875,7 +6875,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:04Z">2017-01-30T12:10:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:18Z">2017-01-30T12:32:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6979,7 +6979,7 @@ Syntax errors: 328
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:08Z">2017-01-30T12:10:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:22Z">2017-01-30T12:32:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7059,7 +7059,7 @@ Syntax errors: 11
 <span class="doublewidespan" style="padding-left:3em">UD Tamil</span>
 <span class="widespan">ta</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:08Z">2017-01-30T12:10:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:23Z">2017-01-30T12:32:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7084,7 +7084,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:09Z">2017-01-30T12:10:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:24Z">2017-01-30T12:32:24 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7235,7 +7235,7 @@ Syntax errors: 3393
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:13Z">2017-01-30T12:10:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:28Z">2017-01-30T12:32:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7243,35 +7243,35 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJ
 
 [Line                   2]: Unknown UD DEPREL: neg
 [Line                   7]: Unknown UD DEPREL: neg
+[Line                   10]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   10]: Missing the sent_id attribute.
 [Line                   10]: Missing the text attribute.
+[Line                   21]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   21]: Missing the sent_id attribute.
 [Line                   21]: Missing the text attribute.
+[Line                   32]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   32]: Missing the sent_id attribute.
 [Line                   32]: Missing the text attribute.
+[Line                   42]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   42]: Missing the sent_id attribute.
 [Line                   42]: Missing the text attribute.
+[Line                   54]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   54]: Missing the sent_id attribute.
 [Line                   54]: Missing the text attribute.
+[Line                   69]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   69]: Missing the sent_id attribute.
 [Line                   69]: Missing the text attribute.
 [Line                   76]: Unknown UPOS tag: CONJ
 [Line                   77]: Unknown UD DEPREL: remnant
 [Line                   79]: Unknown UD DEPREL: remnant
-[Line                   81]: Missing the sent_id attribute.
-[Line                   81]: Missing the text attribute.
+[Line                   81]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+...suppressing further errors regarding Metadata
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   88]: Unknown UD DEPREL: remnant
 [Line                   90]: Unknown UD DEPREL: remnant
 [Line                   92]: Unknown UPOS tag: CONJ
 [Line                   93]: Unknown UD DEPREL: remnant
 [Line                   95]: Unknown UD DEPREL: remnant
-[Line                   97]: Missing the sent_id attribute.
-[Line                   97]: Missing the text attribute.
-[Line                   104]: Missing the sent_id attribute.
-[Line                   104]: Missing the text attribute.
-[Line                   112]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   120]: Unknown UD DEPREL: neg
 [Line                   132]: Unknown UD DEPREL: name
 [Line                   171]: Unknown UPOS tag: CONJ
@@ -7287,8 +7287,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJ
 [Line                   257]: Unknown UD DEPREL: dobj
 [Line                   271]: Unknown UPOS tag: CONJ
 [Line                   280]: Unknown UPOS tag: CONJ
-*** FAILED *** with 86 errors
-Metadata errors: 60
+*** FAILED *** with 116 errors
+Metadata errors: 90
 Morpho errors: 9
 Syntax errors: 17
 
@@ -7297,35 +7297,35 @@ Syntax errors: 17
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
 
+[Line                   8]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   8]: Missing the sent_id attribute.
 [Line                   8]: Missing the text attribute.
+[Line                   14]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   14]: Missing the sent_id attribute.
 [Line                   14]: Missing the text attribute.
+[Line                   21]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   21]: Missing the sent_id attribute.
 [Line                   21]: Missing the text attribute.
 [Line                   23]: Unknown UPOS tag: CONJ
 [Line                   25]: Unknown UD DEPREL: neg
+[Line                   34]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   34]: Missing the sent_id attribute.
 [Line                   34]: Missing the text attribute.
+[Line                   45]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   45]: Missing the sent_id attribute.
 [Line                   45]: Missing the text attribute.
 [Line                   47]: Unknown UD DEPREL: nsubjpass
+[Line                   55]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   55]: Missing the sent_id attribute.
 [Line                   55]: Missing the text attribute.
 [Line                   57]: Unknown UD DEPREL: nsubjpass
 [Line                   58]: Unknown UD DEPREL: neg
 [Line                   59]: Unknown UD DEPREL: auxpass
-[Line                   62]: Missing the sent_id attribute.
-[Line                   62]: Missing the text attribute.
-[Line                   69]: Unknown UD DEPREL: nsubjpass
-[Line                   73]: Missing the sent_id attribute.
-[Line                   73]: Missing the text attribute.
-[Line                   75]: Unknown UD DEPREL: nsubjpass
-[Line                   79]: Missing the sent_id attribute.
-[Line                   79]: Missing the text attribute.
-[Line                   81]: Unknown UD DEPREL: nsubjpass
-[Line                   86]: Missing the sent_id attribute.
+[Line                   62]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
+[Line                   69]: Unknown UD DEPREL: nsubjpass
+[Line                   75]: Unknown UD DEPREL: nsubjpass
+[Line                   81]: Unknown UD DEPREL: nsubjpass
 [Line                   89]: Unknown UD DEPREL: dobj
 [Line                   96]: Unknown UD DEPREL: dobj
 [Line                   100]: Unknown UD DEPREL: neg
@@ -7343,8 +7343,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJ
 [Line                   1280]: Unknown UPOS tag: CONJ
 [Line                   1495]: Unknown UPOS tag: CONJ
 [Line                   1658]: Unknown UPOS tag: CONJ
-*** FAILED *** with 545 errors
-Metadata errors: 400
+*** FAILED *** with 745 errors
+Metadata errors: 600
 Morpho errors: 6
 Syntax errors: 139
 
@@ -7358,7 +7358,7 @@ Syntax errors: 139
 <span class="doublewidespan" style="padding-left:3em">UD Urdu</span>
 <span class="widespan">ur</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:14Z">2017-01-30T12:10:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:28Z">2017-01-30T12:32:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7369,43 +7369,43 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:14Z">2017-01-30T12:10:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:28Z">2017-01-30T12:32:28 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
+[Line                   7]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   7]: Missing the sent_id attribute.
 [Line                   7]: Missing the text attribute.
 [Line                   11]: Unknown UD DEPREL: dobj
+[Line                   15]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   15]: Missing the sent_id attribute.
 [Line                   15]: Missing the text attribute.
+[Line                   30]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   30]: Missing the sent_id attribute.
 [Line                   30]: Missing the text attribute.
+[Line                   47]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   47]: Missing the sent_id attribute.
 [Line                   47]: Missing the text attribute.
 [Line                   49]: Unknown UPOS tag: CONJ
 [Line                   49]: Unknown UD DEPREL: mwe
+[Line                   58]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   58]: Missing the sent_id attribute.
 [Line                   58]: Missing the text attribute.
 [Line                   66]: Unknown UD DEPREL: dobj
+[Line                   71]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   71]: Missing the sent_id attribute.
 [Line                   71]: Missing the text attribute.
 [Line                   75]: Unknown UD DEPREL: dobj
-[Line                   81]: Missing the sent_id attribute.
-[Line                   81]: Missing the text attribute.
+[Line                   81]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+...suppressing further errors regarding Metadata
 [Line                   83]: Unknown UPOS tag: CONJ
 [Line                   86]: Unknown UD DEPREL: dobj
-[Line                   91]: Missing the sent_id attribute.
-[Line                   91]: Missing the text attribute.
 [Line                   103]: Unknown UD DEPREL: dobj
 [Line                   108]: Unknown UD DEPREL: dobj
-[Line                   115]: Missing the sent_id attribute.
-[Line                   115]: Missing the text attribute.
 [Line                   118]: Unknown UPOS tag: CONJ
 [Line                   120]: Unknown UD DEPREL: dobj
-[Line                   133]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   174]: Unknown UD DEPREL: dobj
 [Line                   189]: Unknown UD DEPREL: dobj
 [Line                   217]: Unknown UD DEPREL: dobj
@@ -7435,8 +7435,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 [Line                   798]: Unknown UPOS tag: CONJ
 [Line                   952]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 305 errors
-Metadata errors: 200
+*** FAILED *** with 405 errors
+Metadata errors: 300
 Morpho errors: 29
 Syntax errors: 76
 
@@ -7448,11 +7448,13 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 [Line                   8]: Unknown UD DEPREL: dobj
 [Line                   14]: Unknown UD DEPREL: dobj
 [Line                   20]: Unknown UD DEPREL: dobj
+[Line                   33]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   33]: Missing the sent_id attribute.
 [Line                   33]: Missing the text attribute.
 [Line                   37]: Unknown UD DEPREL: dobj
 [Line                   43]: Unknown UPOS tag: CONJ
 [Line                   51]: Unknown UD DEPREL: dobj
+[Line                   55]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   55]: Missing the sent_id attribute.
 [Line                   55]: Missing the text attribute.
 [Line                   59]: Unknown UD DEPREL: dobj
@@ -7460,23 +7462,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 [Line                   65]: Unknown UPOS tag: CONJ
 [Line                   66]: Unknown UD DEPREL: dobj
 [Line                   67]: Unknown UD DEPREL: dobj
+[Line                   72]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   72]: Missing the sent_id attribute.
 [Line                   72]: Missing the text attribute.
+[Line                   95]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   95]: Missing the sent_id attribute.
 [Line                   95]: Missing the text attribute.
+[Line                   104]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   104]: Missing the sent_id attribute.
 [Line                   104]: Missing the text attribute.
+[Line                   115]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   115]: Missing the sent_id attribute.
 [Line                   115]: Missing the text attribute.
-[Line                   120]: Missing the sent_id attribute.
-[Line                   120]: Missing the text attribute.
-[Line                   135]: Unknown UD DEPREL: dobj
-[Line                   142]: Missing the sent_id attribute.
-[Line                   142]: Missing the text attribute.
-[Line                   149]: Missing the sent_id attribute.
-[Line                   149]: Missing the text attribute.
-[Line                   169]: Missing the sent_id attribute.
+[Line                   120]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
+[Line                   135]: Unknown UD DEPREL: dobj
 [Line                   185]: Unknown UPOS tag: CONJ
 [Line                   186]: Unknown UPOS tag: CONJ
 [Line                   186]: Unknown UD DEPREL: mwe
@@ -7505,8 +7505,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 [Line                   881]: Unknown UPOS tag: CONJ
 [Line                   935]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 2382 errors
-Metadata errors: 1600
+*** FAILED *** with 3182 errors
+Metadata errors: 2400
 Morpho errors: 178
 Syntax errors: 604
 
@@ -7520,7 +7520,7 @@ Syntax errors: 604
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:14Z">2017-01-30T12:10:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:29Z">2017-01-30T12:32:29 zulu</time></span>
 </div>
 <div>
 <pre>
