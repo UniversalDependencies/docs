@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-30T15:07:58Z">2017-01-30T15:07:58 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-30T15:24:08Z">2017-01-30T15:24:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5685,62 +5685,62 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:07:34Z">2017-01-30T15:07:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:23:44Z">2017-01-30T15:23:44 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
 
-[Line                   37]: Spurious sent_id line: '#sent_id =  015697' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   37]: Missing the sent_id attribute.
 [Line                   37]: Missing the text attribute.
-[Line                   57]: Spurious sent_id line: '#sent_id =  015698' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   57]: Missing the sent_id attribute.
 [Line                   57]: Missing the text attribute.
-[Line                   85]: Spurious sent_id line: '#sent_id =  015699' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   85]: Missing the sent_id attribute.
 [Line                   85]: Missing the text attribute.
-[Line                   97]: Spurious sent_id line: '#sent_id =  015700' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   97]: Missing the sent_id attribute.
 [Line                   97]: Missing the text attribute.
-[Line                   147]: Spurious sent_id line: '#sent_id =  015701' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   147]: Missing the sent_id attribute.
 [Line                   147]: Missing the text attribute.
-[Line                   158]: Spurious sent_id line: '#sent_id =  015702' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   158]: Missing the sent_id attribute.
 [Line                   158]: Missing the text attribute.
-[Line                   176]: Spurious sent_id line: '#sent_id =  015703' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   176]: Missing the text attribute.
+[Line                   183]: Missing the text attribute.
+[Line                   192]: Missing the text attribute.
+[Line                   202]: Missing the text attribute.
+[Line                   216]: Missing the text attribute.
+[Line                   274]: Missing the text attribute.
+[Line                   286]: Missing the text attribute.
+[Line                   292]: Missing the text attribute.
+[Line                   315]: Missing the text attribute.
+[Line                   341]: Missing the text attribute.
+[Line                   371]: Missing the text attribute.
+[Line                   380]: Missing the text attribute.
+[Line                   394]: Missing the text attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 7230 errors
-Metadata errors: 7230
+*** FAILED *** with 2410 errors
+Metadata errors: 2410
 
 
 ******************
 
 python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
 
-[Line                   7]: Spurious sent_id line: '#sent_id =  000001' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   7]: Missing the sent_id attribute.
 [Line                   7]: Missing the text attribute.
-[Line                   22]: Spurious sent_id line: '#sent_id =  000002' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   22]: Missing the sent_id attribute.
 [Line                   22]: Missing the text attribute.
-[Line                   33]: Spurious sent_id line: '#sent_id =  000003' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   33]: Missing the sent_id attribute.
 [Line                   33]: Missing the text attribute.
-[Line                   63]: Spurious sent_id line: '#sent_id =  000004' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   63]: Missing the sent_id attribute.
 [Line                   63]: Missing the text attribute.
-[Line                   77]: Spurious sent_id line: '#sent_id =  000005' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   77]: Missing the sent_id attribute.
 [Line                   77]: Missing the text attribute.
-[Line                   102]: Spurious sent_id line: '#sent_id =  000006' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   102]: Missing the sent_id attribute.
 [Line                   102]: Missing the text attribute.
-[Line                   116]: Spurious sent_id line: '#sent_id =  000007' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   116]: Missing the text attribute.
+[Line                   138]: Missing the text attribute.
+[Line                   173]: Missing the text attribute.
+[Line                   178]: Missing the text attribute.
+[Line                   198]: Missing the text attribute.
+[Line                   228]: Missing the text attribute.
+[Line                   247]: Missing the text attribute.
+[Line                   261]: Missing the text attribute.
+[Line                   275]: Missing the text attribute.
+[Line                   290]: Missing the text attribute.
+[Line                   307]: Missing the text attribute.
+[Line                   325]: Missing the text attribute.
+[Line                   344]: Missing the text attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 47088 errors
-Metadata errors: 47088
+*** FAILED *** with 15696 errors
+Metadata errors: 15696
 
 
 ******************
