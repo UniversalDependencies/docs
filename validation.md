@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-30T10:17:10Z">2017-01-30T10:17:10 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-30T11:30:28Z">2017-01-30T11:30:28 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6961,11 +6961,11 @@ Metadata errors: 8483
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:15:25Z">2017-01-30T10:15:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:30:16Z">2017-01-30T11:30:16 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
+python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
 
 [Line                   40]: Missing the sent_id attribute.
 [Line                   52]: Missing the sent_id attribute.
@@ -6987,24 +6987,13 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJ
 [Line                   386]: Missing the sent_id attribute.
 [Line                   409]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-[Line                   3788]: Unknown attribute-value pair Foreign=Foreign
-[Line                   6378]: Unknown attribute-value pair Foreign=Foreign
-[Line                   6379]: Unknown attribute-value pair Foreign=Foreign
-[Line                   6381]: Unknown attribute-value pair Foreign=Foreign
-[Line                   6383]: Unknown attribute-value pair Foreign=Foreign
-[Line                   6384]: Unknown attribute-value pair Foreign=Foreign
-[Line                   6386]: Unknown attribute-value pair Foreign=Foreign
-[Line                   6387]: Unknown attribute-value pair Foreign=Foreign
-[Line                   6388]: Unknown attribute-value pair Foreign=Foreign
-[Line                   11476]: Unknown attribute-value pair Foreign=Foreign
-*** FAILED *** with 744 errors
+*** FAILED *** with 734 errors
 Metadata errors: 734
-Morpho errors: 10
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
+python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
 
 [Line                   27]: Missing the sent_id attribute.
 [Line                   38]: Missing the sent_id attribute.
@@ -7026,29 +7015,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJ
 [Line                   351]: Missing the sent_id attribute.
 [Line                   378]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-[Line                   2630]: Unknown attribute-value pair Foreign=Foreign
-[Line                   2632]: Unknown attribute-value pair Foreign=Foreign
-[Line                   11799]: Unknown attribute-value pair Foreign=Foreign
-[Line                   11800]: Unknown attribute-value pair Foreign=Foreign
-[Line                   11801]: Unknown attribute-value pair Foreign=Foreign
-[Line                   12216]: Unknown attribute-value pair Foreign=Foreign
-[Line                   12221]: Unknown attribute-value pair Foreign=Foreign
-[Line                   13666]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15516]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15517]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15518]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15519]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15520]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15521]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15526]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15527]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15528]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15529]: Unknown attribute-value pair Foreign=Foreign
-[Line                   15538]: Unknown attribute-value pair Foreign=Foreign
-...suppressing further errors regarding Morpho
-*** FAILED *** with 6581 errors
+*** FAILED *** with 6478 errors
 Metadata errors: 6478
-Morpho errors: 103
 
 
 ******************
