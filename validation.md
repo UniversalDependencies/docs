@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-30T11:37:58Z">2017-01-30T11:37:58 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-30T12:10:17Z">2017-01-30T12:10:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -13,7 +13,7 @@ Regenerated: <time class="timeago" datetime="2017-01-30T11:37:58Z">2017-01-30T11
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:00:06Z">2017-01-30T10:00:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:52:47Z">2017-01-30T11:52:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -24,7 +24,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:00:06Z">2017-01-30T10:00:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:52:47Z">2017-01-30T11:52:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -34,51 +34,51 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PRO
 [Line                   13]: Unknown UPOS tag: CONJ
 [Line                   19]: Unknown UD DEPREL: dobj
 [Line                   28]: Missing the sent_id attribute.
+[Line                   28]: Missing the text attribute.
 [Line                   36]: Missing the sent_id attribute.
+[Line                   36]: Missing the text attribute.
 [Line                   37]: Unknown UD DEPREL: dobj
 [Line                   40]: Missing the sent_id attribute.
+[Line                   40]: Missing the text attribute.
 [Line                   50]: Unknown UD DEPREL: dobj
 [Line                   55]: Unknown UD DEPREL: dobj
 [Line                   57]: Missing the sent_id attribute.
+[Line                   57]: Missing the text attribute.
 [Line                   60]: Unknown UD DEPREL: dobj
 [Line                   64]: Missing the sent_id attribute.
+[Line                   64]: Missing the text attribute.
 [Line                   71]: Unknown UD DEPREL: dobj
 [Line                   79]: Unknown UD DEPREL: dobj
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   88]: Missing the sent_id attribute.
+[Line                   88]: Missing the text attribute.
 [Line                   98]: Unknown UD DEPREL: dobj
 [Line                   99]: Unknown UD DEPREL: dobj
 [Line                   106]: Missing the sent_id attribute.
+[Line                   106]: Missing the text attribute.
 [Line                   115]: Missing the sent_id attribute.
+[Line                   115]: Missing the text attribute.
 [Line                   119]: Unknown UD DEPREL: dobj
 [Line                   123]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   124]: Unknown UPOS tag: CONJ
 [Line                   126]: Unknown UD DEPREL: dobj
 [Line                   128]: Unknown UD DEPREL: dobj
 [Line                   136]: Unknown UD DEPREL: dobj
 [Line                   139]: Unknown UD DEPREL: dobj
 [Line                   150]: Unknown UD DEPREL: dobj
-[Line                   153]: Missing the sent_id attribute.
 [Line                   161]: Unknown UD DEPREL: dobj
-[Line                   164]: Missing the sent_id attribute.
 [Line                   166]: Unknown UD DEPREL: neg
 [Line                   168]: Unknown UD DEPREL: dobj
-[Line                   175]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
 [Line                   193]: Unknown UPOS tag: CONJ
 [Line                   196]: Unknown UPOS tag: CONJ
-[Line                   205]: Missing the sent_id attribute.
 [Line                   206]: Unknown UPOS tag: CONJ
-[Line                   236]: Missing the sent_id attribute.
 [Line                   241]: Unknown UPOS tag: CONJ
-[Line                   251]: Missing the sent_id attribute.
-[Line                   259]: Missing the sent_id attribute.
 [Line                   263]: Unknown UPOS tag: CONJ
-[Line                   270]: Missing the sent_id attribute.
 [Line                   274]: Unknown UPOS tag: CONJ
-[Line                   282]: Missing the sent_id attribute.
 [Line                   291]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   301]: Unknown UPOS tag: CONJ
 [Line                   315]: Unknown UPOS tag: CONJ
 [Line                   325]: Unknown UPOS tag: CONJ
@@ -90,8 +90,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PRO
 [Line                   532]: Unknown UPOS tag: CONJ
 [Line                   537]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 5761 errors
-Metadata errors: 2083
+*** FAILED *** with 7844 errors
+Metadata errors: 4166
 Morpho errors: 663
 Syntax errors: 3015
 
@@ -108,16 +108,20 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PRO
 [Line                   28]: Unknown UD DEPREL: neg
 [Line                   36]: Unknown UPOS tag: CONJ
 [Line                   41]: Missing the sent_id attribute.
+[Line                   41]: Missing the text attribute.
 [Line                   52]: Unknown UD DEPREL: dobj
 [Line                   58]: Unknown UPOS tag: CONJ
 [Line                   61]: Unknown UD DEPREL: dobj
 [Line                   65]: Missing the sent_id attribute.
+[Line                   65]: Missing the text attribute.
 [Line                   68]: Unknown UD DEPREL: dobj
 [Line                   84]: Missing the sent_id attribute.
+[Line                   84]: Missing the text attribute.
 [Line                   86]: Unknown UD DEPREL: nsubjpass
 [Line                   90]: Unknown UD DEPREL: neg
 [Line                   99]: Unknown UD DEPREL: neg
 [Line                   103]: Missing the sent_id attribute.
+[Line                   103]: Missing the text attribute.
 [Line                   111]: Unknown UPOS tag: CONJ
 [Line                   123]: Unknown UPOS tag: CONJ
 [Line                   135]: Unknown UD DEPREL: dobj
@@ -125,32 +129,28 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PRO
 [Line                   143]: Unknown UD DEPREL: neg
 [Line                   148]: Unknown UD DEPREL: dobj
 [Line                   151]: Missing the sent_id attribute.
+[Line                   151]: Missing the text attribute.
 [Line                   159]: Unknown UD DEPREL: dobj
 [Line                   160]: Unknown UD DEPREL: neg
 [Line                   163]: Missing the sent_id attribute.
+[Line                   163]: Missing the text attribute.
 [Line                   168]: Unknown UD DEPREL: dobj
 [Line                   176]: Missing the sent_id attribute.
+[Line                   176]: Missing the text attribute.
 [Line                   182]: Missing the sent_id attribute.
+[Line                   182]: Missing the text attribute.
 [Line                   183]: Unknown UD DEPREL: neg
 [Line                   186]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
 [Line                   204]: Missing the sent_id attribute.
+[Line                   204]: Missing the text attribute.
 [Line                   217]: Unknown UPOS tag: CONJ
 [Line                   227]: Unknown UPOS tag: CONJ
 [Line                   233]: Missing the sent_id attribute.
-[Line                   245]: Missing the sent_id attribute.
-[Line                   268]: Missing the sent_id attribute.
-[Line                   276]: Missing the sent_id attribute.
-[Line                   296]: Unknown UPOS tag: CONJ
-[Line                   301]: Missing the sent_id attribute.
-[Line                   314]: Missing the sent_id attribute.
-[Line                   332]: Missing the sent_id attribute.
-[Line                   342]: Unknown UPOS tag: CONJ
-[Line                   351]: Missing the sent_id attribute.
-[Line                   370]: Unknown UPOS tag: CONJ
-[Line                   382]: Missing the sent_id attribute.
-[Line                   399]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
+[Line                   296]: Unknown UPOS tag: CONJ
+[Line                   342]: Unknown UPOS tag: CONJ
+[Line                   370]: Unknown UPOS tag: CONJ
 [Line                   431]: Unknown UPOS tag: CONJ
 [Line                   460]: Unknown UPOS tag: CONJ
 [Line                   478]: Unknown UPOS tag: CONJ
@@ -160,8 +160,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PRO
 [Line                   523]: Unknown UPOS tag: CONJ
 [Line                   546]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 42000 errors
-Metadata errors: 13185
+*** FAILED *** with 55185 errors
+Metadata errors: 26370
 Morpho errors: 7085
 Syntax errors: 21730
 
@@ -175,7 +175,7 @@ Syntax errors: 21730
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:00:25Z">2017-01-30T10:00:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:53:06Z">2017-01-30T11:53:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -183,52 +183,52 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter
 
 [Line                   5]: Unknown UD DEPREL: dobj
 [Line                   6]: Missing the sent_id attribute.
+[Line                   6]: Missing the text attribute.
 [Line                   11]: Unknown UD DEPREL: dobj
 [Line                   12]: Missing the sent_id attribute.
+[Line                   12]: Missing the text attribute.
 [Line                   17]: Unknown UD DEPREL: dobj
 [Line                   18]: Missing the sent_id attribute.
+[Line                   18]: Missing the text attribute.
 [Line                   23]: Unknown UD DEPREL: dobj
 [Line                   24]: Missing the sent_id attribute.
+[Line                   24]: Missing the text attribute.
 [Line                   25]: Unknown UD DEPREL: dobj
 [Line                   27]: Unknown UD DEPREL: nsubjpass
 [Line                   30]: Unknown UD DEPREL: nsubjpass
 [Line                   37]: Missing the sent_id attribute.
+[Line                   37]: Missing the text attribute.
 [Line                   40]: Unknown UD DEPREL: nsubjpass
 [Line                   59]: Missing the sent_id attribute.
+[Line                   59]: Missing the text attribute.
 [Line                   65]: Unknown UD DEPREL: dobj
 [Line                   70]: Unknown UD DEPREL: dobj
 [Line                   74]: Unknown UPOS tag: CONJ
 [Line                   76]: Unknown UD DEPREL: dobj
 [Line                   80]: Missing the sent_id attribute.
+[Line                   80]: Missing the text attribute.
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   89]: Unknown UD DEPREL: dobj
 [Line                   90]: Missing the sent_id attribute.
+[Line                   90]: Missing the text attribute.
 [Line                   96]: Unknown UD DEPREL: dobj
 [Line                   97]: Unknown UPOS tag: CONJ
 [Line                   101]: Unknown UPOS tag: CONJ
 [Line                   106]: Missing the sent_id attribute.
+[Line                   106]: Missing the text attribute.
 [Line                   109]: Unknown UD DEPREL: dobj
 [Line                   111]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   115]: Unknown UD DEPREL: dobj
-[Line                   116]: Missing the sent_id attribute.
-[Line                   134]: Missing the sent_id attribute.
 [Line                   135]: Unknown UPOS tag: CONJ
-[Line                   142]: Missing the sent_id attribute.
 [Line                   145]: Unknown UD DEPREL: dobj
 [Line                   152]: Unknown UPOS tag: CONJ
 [Line                   154]: Unknown UD DEPREL: dobj
 [Line                   160]: Unknown UPOS tag: CONJ
-[Line                   163]: Missing the sent_id attribute.
-[Line                   169]: Missing the sent_id attribute.
-[Line                   171]: Missing the sent_id attribute.
 [Line                   177]: Unknown UD DEPREL: dobj
 [Line                   178]: Unknown UPOS tag: CONJ
-[Line                   184]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   193]: Missing the sent_id attribute.
-[Line                   202]: Missing the sent_id attribute.
 [Line                   206]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   272]: Unknown UPOS tag: CONJ
 [Line                   282]: Unknown UPOS tag: CONJ
 [Line                   310]: Unknown UPOS tag: CONJ
@@ -241,8 +241,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter
 [Line                   414]: Unknown UPOS tag: CONJ
 [Line                   422]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 5555 errors
-Metadata errors: 1848
+*** FAILED *** with 7403 errors
+Metadata errors: 3696
 Morpho errors: 1450
 Syntax errors: 2257
 
@@ -253,46 +253,46 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter
 
 [Line                   4]: Unknown UD DEPREL: name
 [Line                   9]: Missing the sent_id attribute.
+[Line                   9]: Missing the text attribute.
 [Line                   13]: Unknown UD DEPREL: dobj
 [Line                   14]: Missing the sent_id attribute.
+[Line                   14]: Missing the text attribute.
 [Line                   19]: Unknown UD DEPREL: dobj
 [Line                   20]: Missing the sent_id attribute.
+[Line                   20]: Missing the text attribute.
 [Line                   25]: Unknown UD DEPREL: dobj
 [Line                   26]: Unknown UPOS tag: CONJ
 [Line                   30]: Missing the sent_id attribute.
+[Line                   30]: Missing the text attribute.
 [Line                   35]: Unknown UD DEPREL: dobj
 [Line                   36]: Unknown UPOS tag: CONJ
 [Line                   42]: Missing the sent_id attribute.
+[Line                   42]: Missing the text attribute.
 [Line                   47]: Unknown UD DEPREL: dobj
 [Line                   48]: Missing the sent_id attribute.
+[Line                   48]: Missing the text attribute.
 [Line                   53]: Unknown UD DEPREL: dobj
 [Line                   54]: Missing the sent_id attribute.
+[Line                   54]: Missing the text attribute.
 [Line                   59]: Unknown UD DEPREL: dobj
 [Line                   60]: Missing the sent_id attribute.
+[Line                   60]: Missing the text attribute.
 [Line                   65]: Unknown UD DEPREL: dobj
 [Line                   69]: Missing the sent_id attribute.
+[Line                   69]: Missing the text attribute.
 [Line                   74]: Unknown UD DEPREL: dobj
 [Line                   78]: Missing the sent_id attribute.
-[Line                   83]: Unknown UD DEPREL: dobj
-[Line                   84]: Missing the sent_id attribute.
-[Line                   89]: Unknown UD DEPREL: dobj
-[Line                   92]: Missing the sent_id attribute.
-[Line                   97]: Unknown UD DEPREL: dobj
-[Line                   102]: Missing the sent_id attribute.
-[Line                   107]: Unknown UD DEPREL: dobj
-[Line                   108]: Missing the sent_id attribute.
-[Line                   113]: Unknown UD DEPREL: dobj
-[Line                   114]: Missing the sent_id attribute.
-[Line                   119]: Unknown UD DEPREL: dobj
-[Line                   120]: Missing the sent_id attribute.
-[Line                   125]: Unknown UD DEPREL: dobj
-[Line                   126]: Missing the sent_id attribute.
-[Line                   131]: Unknown UD DEPREL: dobj
-[Line                   132]: Missing the sent_id attribute.
-[Line                   137]: Unknown UD DEPREL: dobj
-[Line                   138]: Missing the sent_id attribute.
-...suppressing further errors regarding Syntax
 ...suppressing further errors regarding Metadata
+[Line                   83]: Unknown UD DEPREL: dobj
+[Line                   89]: Unknown UD DEPREL: dobj
+[Line                   97]: Unknown UD DEPREL: dobj
+[Line                   107]: Unknown UD DEPREL: dobj
+[Line                   113]: Unknown UD DEPREL: dobj
+[Line                   119]: Unknown UD DEPREL: dobj
+[Line                   125]: Unknown UD DEPREL: dobj
+[Line                   131]: Unknown UD DEPREL: dobj
+[Line                   137]: Unknown UD DEPREL: dobj
+...suppressing further errors regarding Syntax
 [Line                   162]: Unknown UPOS tag: CONJ
 [Line                   239]: Unknown UPOS tag: CONJ
 [Line                   248]: Unknown UPOS tag: CONJ
@@ -311,8 +311,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter
 [Line                   547]: Unknown UPOS tag: CONJ
 [Line                   551]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 40854 errors
-Metadata errors: 13306
+*** FAILED *** with 54160 errors
+Metadata errors: 26612
 Morpho errors: 10897
 Syntax errors: 16651
 
@@ -325,63 +325,21 @@ Syntax errors: 16651
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:00:43Z">2017-01-30T10:00:43 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:53:25Z">2017-01-30T11:53:25 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
 
-[Line                   13]: Missing the sent_id attribute.
-[Line                   72]: Missing the sent_id attribute.
-[Line                   133]: Missing the sent_id attribute.
-[Line                   169]: Missing the sent_id attribute.
-[Line                   189]: Missing the sent_id attribute.
-[Line                   236]: Missing the sent_id attribute.
-[Line                   284]: Missing the sent_id attribute.
-[Line                   305]: Missing the sent_id attribute.
-[Line                   312]: Missing the sent_id attribute.
-[Line                   373]: Missing the sent_id attribute.
-[Line                   430]: Missing the sent_id attribute.
-[Line                   438]: Missing the sent_id attribute.
-[Line                   477]: Missing the sent_id attribute.
-[Line                   520]: Missing the sent_id attribute.
-[Line                   564]: Missing the sent_id attribute.
-[Line                   613]: Missing the sent_id attribute.
-[Line                   635]: Missing the sent_id attribute.
-[Line                   656]: Missing the sent_id attribute.
-[Line                   688]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 786 errors
-Metadata errors: 786
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 
-[Line                   13]: Missing the sent_id attribute.
-[Line                   88]: Missing the sent_id attribute.
-[Line                   125]: Missing the sent_id attribute.
-[Line                   160]: Missing the sent_id attribute.
-[Line                   194]: Missing the sent_id attribute.
-[Line                   220]: Missing the sent_id attribute.
-[Line                   254]: Missing the sent_id attribute.
-[Line                   265]: Missing the sent_id attribute.
-[Line                   321]: Missing the sent_id attribute.
-[Line                   357]: Missing the sent_id attribute.
-[Line                   399]: Missing the sent_id attribute.
-[Line                   447]: Missing the sent_id attribute.
-[Line                   485]: Missing the sent_id attribute.
-[Line                   522]: Missing the sent_id attribute.
-[Line                   570]: Missing the sent_id attribute.
-[Line                   608]: Missing the sent_id attribute.
-[Line                   643]: Missing the sent_id attribute.
-[Line                   683]: Missing the sent_id attribute.
-[Line                   722]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 6174 errors
-Metadata errors: 6174
+*** PASSED ***
 
 
 ******************
@@ -393,7 +351,7 @@ Metadata errors: 6174
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-LDC</span>
 <span class="widespan">ar ldc</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:01:07Z">2017-01-30T10:01:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:53:52Z">2017-01-30T11:53:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -404,7 +362,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Basque</span>
 <span class="widespan">eu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:01:07Z">2017-01-30T10:01:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:53:52Z">2017-01-30T11:53:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -412,34 +370,42 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang eu /home/ginter/UD_PROJ
 
 [Line                   2]: Unknown UPOS tag: CONJ
 [Line                   11]: Missing the sent_id attribute.
+[Line                   11]: Missing the text attribute.
 [Line                   20]: Missing the sent_id attribute.
+[Line                   20]: Missing the text attribute.
 [Line                   22]: Unknown UD DEPREL: dobj
 [Line                   34]: Missing the sent_id attribute.
+[Line                   34]: Missing the text attribute.
 [Line                   39]: Unknown UD DEPREL: dobj
 [Line                   42]: Missing the sent_id attribute.
+[Line                   42]: Missing the text attribute.
 [Line                   46]: Unknown UD DEPREL: dobj
 [Line                   54]: Missing the sent_id attribute.
+[Line                   54]: Missing the text attribute.
 [Line                   56]: Unknown UD DEPREL: dobj
 [Line                   62]: Missing the sent_id attribute.
+[Line                   62]: Missing the text attribute.
 [Line                   70]: Missing the sent_id attribute.
+[Line                   70]: Missing the text attribute.
 [Line                   71]: Unknown UPOS tag: CONJ
 [Line                   74]: Unknown UPOS tag: CONJ
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   86]: Unknown UPOS tag: CONJ
 [Line                   88]: Unknown UD DEPREL: dobj
 [Line                   89]: Unknown attribute-value pair Aspect=Pro
 [Line                   94]: Unknown UPOS tag: CONJ
 [Line                   96]: Unknown UD DEPREL: dobj
 [Line                   101]: Missing the sent_id attribute.
+[Line                   101]: Missing the text attribute.
 [Line                   106]: Unknown attribute-value pair Negative=Neg
 [Line                   106]: Unknown UD DEPREL: neg
 [Line                   112]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   120]: Unknown UPOS tag: CONJ
-[Line                   125]: Missing the sent_id attribute.
 [Line                   130]: Unknown UPOS tag: CONJ
 [Line                   134]: Unknown UPOS tag: CONJ
 [Line                   136]: Unknown attribute-value pair Aspect=Pro
-[Line                   141]: Missing the sent_id attribute.
 [Line                   144]: Unknown UD DEPREL: dobj
 [Line                   147]: Unknown UPOS tag: CONJ
 [Line                   153]: Unknown UPOS tag: CONJ
@@ -447,31 +413,23 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang eu /home/ginter/UD_PROJ
 [Line                   157]: Unknown UPOS tag: CONJ
 [Line                   160]: Unknown UD DEPREL: dobj
 [Line                   161]: Unknown attribute-value pair Aspect=Pro
-[Line                   165]: Missing the sent_id attribute.
 [Line                   168]: Unknown UPOS tag: CONJ
 [Line                   173]: Unknown UD DEPREL: dobj
 [Line                   176]: Unknown attribute-value pair Aspect=Pro
-[Line                   181]: Missing the sent_id attribute.
 [Line                   182]: Unknown UPOS tag: CONJ
 [Line                   184]: Unknown attribute-value pair Negative=Pos
 [Line                   185]: Unknown UD DEPREL: dobj
-[Line                   187]: Missing the sent_id attribute.
 ...suppressing further errors regarding Morpho
 [Line                   189]: Unknown UD DEPREL: neg
-[Line                   194]: Missing the sent_id attribute.
 [Line                   195]: Unknown UD DEPREL: dobj
-[Line                   206]: Missing the sent_id attribute.
-[Line                   215]: Missing the sent_id attribute.
 [Line                   216]: Unknown UD DEPREL: dobj
-[Line                   223]: Missing the sent_id attribute.
 [Line                   240]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Metadata
 [Line                   276]: Unknown UD DEPREL: dobj
 [Line                   288]: Unknown UD DEPREL: dobj
 [Line                   306]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 5888 errors
-Metadata errors: 1798
+*** FAILED *** with 7686 errors
+Metadata errors: 3596
 Morpho errors: 1864
 Syntax errors: 2226
 
@@ -482,6 +440,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang eu /home/ginter/UD_PROJ
 
 [Line                   4]: Unknown UD DEPREL: dobj
 [Line                   9]: Missing the sent_id attribute.
+[Line                   9]: Missing the text attribute.
 [Line                   10]: Unknown UPOS tag: CONJ
 [Line                   15]: Unknown UD DEPREL: dobj
 [Line                   17]: Unknown UPOS tag: CONJ
@@ -490,58 +449,57 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang eu /home/ginter/UD_PROJ
 [Line                   29]: Unknown UD DEPREL: dobj
 [Line                   34]: Unknown UD DEPREL: dobj
 [Line                   40]: Missing the sent_id attribute.
+[Line                   40]: Missing the text attribute.
 [Line                   51]: Unknown UD DEPREL: dobj
 [Line                   53]: Missing the sent_id attribute.
+[Line                   53]: Missing the text attribute.
 [Line                   55]: Unknown UPOS tag: CONJ
 [Line                   56]: Unknown attribute-value pair Negative=Neg
 [Line                   56]: Unknown UD DEPREL: neg
 [Line                   57]: Unknown UPOS tag: CONJ
 [Line                   62]: Missing the sent_id attribute.
+[Line                   62]: Missing the text attribute.
 [Line                   72]: Unknown UPOS tag: CONJ
 [Line                   75]: Unknown UD DEPREL: dobj
 [Line                   82]: Missing the sent_id attribute.
+[Line                   82]: Missing the text attribute.
 [Line                   91]: Unknown UPOS tag: CONJ
 [Line                   103]: Unknown UD DEPREL: dobj
 [Line                   107]: Missing the sent_id attribute.
+[Line                   107]: Missing the text attribute.
 [Line                   109]: Unknown UD DEPREL: dobj
 [Line                   114]: Unknown UPOS tag: CONJ
 [Line                   117]: Unknown UD DEPREL: dobj
 [Line                   122]: Unknown UD DEPREL: dobj
 [Line                   125]: Missing the sent_id attribute.
+[Line                   125]: Missing the text attribute.
 [Line                   126]: Unknown UPOS tag: CONJ
 [Line                   129]: Unknown UD DEPREL: dobj
 [Line                   131]: Unknown UD DEPREL: dobj
 [Line                   135]: Missing the sent_id attribute.
+[Line                   135]: Missing the text attribute.
 [Line                   136]: Unknown UD DEPREL: dobj
 [Line                   141]: Unknown UD DEPREL: dobj
 [Line                   145]: Unknown UPOS tag: CONJ
 [Line                   152]: Missing the sent_id attribute.
+[Line                   152]: Missing the text attribute.
 [Line                   153]: Unknown UD DEPREL: dobj
 [Line                   156]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   158]: Unknown UD DEPREL: name
 [Line                   161]: Unknown UD DEPREL: dobj
-[Line                   164]: Missing the sent_id attribute.
 [Line                   168]: Unknown UPOS tag: CONJ
 [Line                   170]: Unknown UD DEPREL: dobj
-[Line                   177]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   183]: Missing the sent_id attribute.
 [Line                   189]: Unknown attribute-value pair Negative=Pos
 [Line                   190]: Unknown UPOS tag: CONJ
-[Line                   203]: Missing the sent_id attribute.
 [Line                   207]: Unknown attribute-value pair Negative=Neg
 [Line                   208]: Unknown attribute-value pair Polite[abs]=Inf
 [Line                   218]: Unknown UPOS tag: CONJ
 [Line                   221]: Unknown UPOS tag: CONJ
-[Line                   223]: Missing the sent_id attribute.
 ...suppressing further errors regarding Morpho
-[Line                   234]: Missing the sent_id attribute.
-[Line                   249]: Missing the sent_id attribute.
-[Line                   267]: Missing the sent_id attribute.
-[Line                   275]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 17897 errors
-Metadata errors: 5396
+*** FAILED *** with 23293 errors
+Metadata errors: 10792
 Morpho errors: 5759
 Syntax errors: 6742
 
@@ -555,45 +513,45 @@ Syntax errors: 6742
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:01:15Z">2017-01-30T10:01:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:01Z">2017-01-30T11:54:01 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
 
 [Line                   10]: Missing the sent_id attribute.
+[Line                   10]: Missing the text attribute.
 [Line                   16]: Unknown UD DEPREL: dobj
 [Line                   19]: Missing the sent_id attribute.
+[Line                   19]: Missing the text attribute.
 [Line                   30]: Missing the sent_id attribute.
+[Line                   30]: Missing the text attribute.
 [Line                   39]: Missing the sent_id attribute.
+[Line                   39]: Missing the text attribute.
 [Line                   53]: Missing the sent_id attribute.
+[Line                   53]: Missing the text attribute.
 [Line                   63]: Missing the sent_id attribute.
+[Line                   63]: Missing the text attribute.
 [Line                   69]: Unknown UD DEPREL: dobj
 [Line                   72]: Unknown UD DEPREL: mwe
 [Line                   74]: Missing the sent_id attribute.
+[Line                   74]: Missing the text attribute.
 [Line                   82]: Unknown UPOS tag: CONJ
 [Line                   87]: Missing the sent_id attribute.
+[Line                   87]: Missing the text attribute.
 [Line                   100]: Missing the sent_id attribute.
+[Line                   100]: Missing the text attribute.
 [Line                   105]: Unknown UD DEPREL: dobj
 [Line                   109]: Missing the sent_id attribute.
-[Line                   120]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   130]: Unknown UPOS tag: CONJ
-[Line                   136]: Missing the sent_id attribute.
-[Line                   147]: Missing the sent_id attribute.
 [Line                   151]: Unknown UPOS tag: CONJ
 [Line                   156]: Unknown UD DEPREL: neg
-[Line                   164]: Missing the sent_id attribute.
 [Line                   172]: Unknown UD DEPREL: dobj
-[Line                   175]: Missing the sent_id attribute.
 [Line                   179]: Unknown UPOS tag: CONJ
-[Line                   187]: Missing the sent_id attribute.
 [Line                   191]: Unknown UD DEPREL: nsubjpass
 [Line                   193]: Unknown UD DEPREL: auxpass
-[Line                   200]: Missing the sent_id attribute.
-[Line                   211]: Missing the sent_id attribute.
-[Line                   225]: Missing the sent_id attribute.
 [Line                   229]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Metadata
 [Line                   259]: Unknown UPOS tag: CONJ
 [Line                   261]: Unknown UD DEPREL: dobj
 [Line                   276]: Unknown UPOS tag: CONJ
@@ -621,8 +579,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJ
 [Line                   880]: Unknown UPOS tag: CONJ
 [Line                   929]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 2862 errors
-Metadata errors: 1115
+*** FAILED *** with 3977 errors
+Metadata errors: 2230
 Morpho errors: 511
 Syntax errors: 1236
 
@@ -633,40 +591,40 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJ
 
 [Line                   13]: Unknown UD DEPREL: nsubjpass
 [Line                   15]: Missing the sent_id attribute.
+[Line                   15]: Missing the text attribute.
 [Line                   24]: Unknown UD DEPREL: dobj
 [Line                   28]: Missing the sent_id attribute.
+[Line                   28]: Missing the text attribute.
 [Line                   36]: Unknown UD DEPREL: neg
 [Line                   38]: Unknown UD DEPREL: dobj
 [Line                   40]: Missing the sent_id attribute.
+[Line                   40]: Missing the text attribute.
 [Line                   50]: Missing the sent_id attribute.
+[Line                   50]: Missing the text attribute.
 [Line                   59]: Unknown UD DEPREL: neg
 [Line                   67]: Missing the sent_id attribute.
+[Line                   67]: Missing the text attribute.
 [Line                   73]: Unknown UD DEPREL: nsubjpass
 [Line                   74]: Unknown UD DEPREL: neg
 [Line                   75]: Unknown UD DEPREL: auxpass
 [Line                   80]: Missing the sent_id attribute.
+[Line                   80]: Missing the text attribute.
 [Line                   93]: Missing the sent_id attribute.
+[Line                   93]: Missing the text attribute.
 [Line                   101]: Unknown UD DEPREL: neg
 [Line                   103]: Unknown UD DEPREL: dobj
 [Line                   105]: Missing the sent_id attribute.
+[Line                   105]: Missing the text attribute.
 [Line                   110]: Unknown UD DEPREL: neg
 [Line                   115]: Missing the sent_id attribute.
+[Line                   115]: Missing the text attribute.
 [Line                   124]: Missing the sent_id attribute.
-[Line                   133]: Missing the sent_id attribute.
-[Line                   143]: Missing the sent_id attribute.
-[Line                   153]: Missing the sent_id attribute.
-[Line                   162]: Missing the sent_id attribute.
-[Line                   171]: Missing the sent_id attribute.
-[Line                   180]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   185]: Unknown UD DEPREL: neg
 [Line                   189]: Unknown UD DEPREL: nsubjpass
-[Line                   197]: Missing the sent_id attribute.
 [Line                   202]: Unknown UD DEPREL: neg
 [Line                   206]: Unknown UD DEPREL: nsubjpass
-[Line                   214]: Missing the sent_id attribute.
-[Line                   224]: Missing the sent_id attribute.
 [Line                   228]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   251]: Unknown UPOS tag: CONJ
 [Line                   253]: Unknown UD DEPREL: dobj
 [Line                   262]: Unknown UD DEPREL: name
@@ -691,8 +649,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJ
 [Line                   1314]: Unknown UPOS tag: CONJ
 [Line                   1346]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 23006 errors
-Metadata errors: 8907
+*** FAILED *** with 31913 errors
+Metadata errors: 17814
 Morpho errors: 3910
 Syntax errors: 10189
 
@@ -706,7 +664,7 @@ Syntax errors: 10189
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:01:28Z">2017-01-30T10:01:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:12Z">2017-01-30T11:54:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -717,7 +675,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Cantonese</span>
 <span class="widespan">yue</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:01:28Z">2017-01-30T10:01:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:12Z">2017-01-30T11:54:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -727,63 +685,21 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:01:28Z">2017-01-30T10:01:28 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:12Z">2017-01-30T11:54:12 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
 
-[Line                   28]: Missing the sent_id attribute.
-[Line                   64]: Missing the sent_id attribute.
-[Line                   85]: Missing the sent_id attribute.
-[Line                   107]: Missing the sent_id attribute.
-[Line                   141]: Missing the sent_id attribute.
-[Line                   167]: Missing the sent_id attribute.
-[Line                   183]: Missing the sent_id attribute.
-[Line                   205]: Missing the sent_id attribute.
-[Line                   234]: Missing the sent_id attribute.
-[Line                   295]: Missing the sent_id attribute.
-[Line                   330]: Missing the sent_id attribute.
-[Line                   360]: Missing the sent_id attribute.
-[Line                   394]: Missing the sent_id attribute.
-[Line                   422]: Missing the sent_id attribute.
-[Line                   464]: Missing the sent_id attribute.
-[Line                   488]: Missing the sent_id attribute.
-[Line                   531]: Missing the sent_id attribute.
-[Line                   554]: Missing the sent_id attribute.
-[Line                   585]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1709 errors
-Metadata errors: 1709
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 
-[Line                   60]: Missing the sent_id attribute.
-[Line                   137]: Missing the sent_id attribute.
-[Line                   168]: Missing the sent_id attribute.
-[Line                   214]: Missing the sent_id attribute.
-[Line                   252]: Missing the sent_id attribute.
-[Line                   343]: Missing the sent_id attribute.
-[Line                   378]: Missing the sent_id attribute.
-[Line                   413]: Missing the sent_id attribute.
-[Line                   436]: Missing the sent_id attribute.
-[Line                   471]: Missing the sent_id attribute.
-[Line                   484]: Missing the sent_id attribute.
-[Line                   520]: Missing the sent_id attribute.
-[Line                   568]: Missing the sent_id attribute.
-[Line                   594]: Missing the sent_id attribute.
-[Line                   642]: Missing the sent_id attribute.
-[Line                   684]: Missing the sent_id attribute.
-[Line                   718]: Missing the sent_id attribute.
-[Line                   742]: Missing the sent_id attribute.
-[Line                   777]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 13123 errors
-Metadata errors: 13123
+*** PASSED ***
 
 
 ******************
@@ -795,7 +711,7 @@ Metadata errors: 13123
 <span class="doublewidespan" style="padding-left:3em">UD Chinese</span>
 <span class="widespan">zh</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:02:04Z">2017-01-30T10:02:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:51Z">2017-01-30T11:54:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -803,54 +719,54 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang zh /home/ginter/UD_PROJ
 
 [Line                   18]: Unknown UD DEPREL: neg
 [Line                   31]: Missing the sent_id attribute.
+[Line                   31]: Missing the text attribute.
 [Line                   44]: Missing the sent_id attribute.
+[Line                   44]: Missing the text attribute.
 [Line                   58]: Unknown UD DEPREL: dobj
 [Line                   66]: Unknown UPOS tag: CONJ
 [Line                   68]: Unknown UPOS tag: CONJ
 [Line                   71]: Missing the sent_id attribute.
+[Line                   71]: Missing the text attribute.
 [Line                   92]: Unknown UD DEPREL: dobj
 [Line                   94]: Missing the sent_id attribute.
+[Line                   94]: Missing the text attribute.
 [Line                   101]: Unknown UD DEPREL: dobj
 [Line                   106]: Unknown UPOS tag: CONJ
 [Line                   113]: Unknown UD DEPREL: dobj
 [Line                   122]: Unknown UD DEPREL: dobj
 [Line                   124]: Missing the sent_id attribute.
+[Line                   124]: Missing the text attribute.
 [Line                   128]: Unknown UD DEPREL: nsubjpass
 [Line                   129]: Unknown UD DEPREL: auxpass
 [Line                   131]: Unknown UD DEPREL: dobj
 [Line                   138]: Unknown UD DEPREL: dobj
 [Line                   145]: Unknown UD DEPREL: dobj
 [Line                   147]: Missing the sent_id attribute.
+[Line                   147]: Missing the text attribute.
 [Line                   171]: Unknown UD DEPREL: dobj
 [Line                   172]: Unknown UPOS tag: CONJ
 [Line                   175]: Missing the sent_id attribute.
+[Line                   175]: Missing the text attribute.
 [Line                   179]: Unknown UPOS tag: CONJ
 [Line                   187]: Missing the sent_id attribute.
+[Line                   187]: Missing the text attribute.
 [Line                   197]: Unknown UD DEPREL: dobj
 [Line                   202]: Unknown UD DEPREL: dobj
 [Line                   204]: Missing the sent_id attribute.
+[Line                   204]: Missing the text attribute.
 [Line                   209]: Unknown UD DEPREL: dobj
 [Line                   221]: Unknown UD DEPREL: dobj
 [Line                   223]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   227]: Unknown UD DEPREL: nsubjpass
 [Line                   228]: Unknown UD DEPREL: auxpass
 [Line                   238]: Unknown UD DEPREL: dobj
-[Line                   240]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   258]: Missing the sent_id attribute.
 [Line                   286]: Unknown UPOS tag: CONJ
-[Line                   294]: Missing the sent_id attribute.
 [Line                   302]: Unknown UPOS tag: CONJ
-[Line                   324]: Missing the sent_id attribute.
 [Line                   333]: Unknown UPOS tag: CONJ
-[Line                   349]: Missing the sent_id attribute.
-[Line                   374]: Missing the sent_id attribute.
-[Line                   399]: Missing the sent_id attribute.
-[Line                   414]: Missing the sent_id attribute.
 [Line                   435]: Unknown UPOS tag: CONJ
-[Line                   442]: Missing the sent_id attribute.
 [Line                   454]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   634]: Unknown UPOS tag: CONJ
 [Line                   642]: Unknown UPOS tag: CONJ
 [Line                   741]: Unknown UPOS tag: CONJ
@@ -861,8 +777,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang zh /home/ginter/UD_PROJ
 [Line                   1283]: Unknown UPOS tag: CONJ
 [Line                   1485]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1613 errors
-Metadata errors: 500
+*** FAILED *** with 2113 errors
+Metadata errors: 1000
 Morpho errors: 164
 Syntax errors: 949
 
@@ -875,48 +791,48 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang zh /home/ginter/UD_PROJ
 [Line                   10]: Unknown UD DEPREL: dobj
 [Line                   30]: Unknown UD DEPREL: dobj
 [Line                   41]: Missing the sent_id attribute.
+[Line                   41]: Missing the text attribute.
 [Line                   61]: Unknown UD DEPREL: dobj
 [Line                   68]: Unknown UD DEPREL: dobj
 [Line                   71]: Missing the sent_id attribute.
+[Line                   71]: Missing the text attribute.
 [Line                   95]: Unknown UD DEPREL: dobj
 [Line                   97]: Missing the sent_id attribute.
+[Line                   97]: Missing the text attribute.
 [Line                   102]: Unknown UPOS tag: CONJ
 [Line                   106]: Missing the sent_id attribute.
+[Line                   106]: Missing the text attribute.
 [Line                   123]: Unknown UD DEPREL: neg
 [Line                   126]: Missing the sent_id attribute.
+[Line                   126]: Missing the text attribute.
 [Line                   130]: Unknown UD DEPREL: nsubjpass
 [Line                   131]: Unknown UD DEPREL: auxpass
 [Line                   147]: Unknown UD DEPREL: dobj
 [Line                   149]: Missing the sent_id attribute.
+[Line                   149]: Missing the text attribute.
 [Line                   173]: Unknown UD DEPREL: dobj
 [Line                   184]: Unknown UD DEPREL: dobj
 [Line                   199]: Unknown UD DEPREL: dobj
 [Line                   203]: Unknown UD DEPREL: dobj
 [Line                   205]: Missing the sent_id attribute.
+[Line                   205]: Missing the text attribute.
 [Line                   227]: Missing the sent_id attribute.
+[Line                   227]: Missing the text attribute.
 [Line                   248]: Unknown UD DEPREL: dobj
 [Line                   257]: Unknown UD DEPREL: dobj
 [Line                   264]: Unknown UD DEPREL: dobj
 [Line                   267]: Missing the sent_id attribute.
+[Line                   267]: Missing the text attribute.
 [Line                   291]: Unknown UD DEPREL: dobj
 [Line                   300]: Unknown UD DEPREL: csubjpass
 ...suppressing further errors regarding Syntax
 [Line                   315]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   353]: Unknown UPOS tag: CONJ
-[Line                   381]: Missing the sent_id attribute.
-[Line                   409]: Missing the sent_id attribute.
 [Line                   417]: Unknown UPOS tag: CONJ
 [Line                   429]: Unknown UPOS tag: CONJ
-[Line                   441]: Missing the sent_id attribute.
-[Line                   478]: Missing the sent_id attribute.
 [Line                   490]: Unknown UPOS tag: CONJ
-[Line                   512]: Missing the sent_id attribute.
 [Line                   529]: Unknown UPOS tag: CONJ
-[Line                   581]: Missing the sent_id attribute.
-[Line                   627]: Missing the sent_id attribute.
-[Line                   645]: Missing the sent_id attribute.
-[Line                   664]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   697]: Unknown UPOS tag: CONJ
 [Line                   716]: Unknown UPOS tag: CONJ
 [Line                   896]: Unknown UPOS tag: CONJ
@@ -931,8 +847,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang zh /home/ginter/UD_PROJ
 [Line                   1449]: Unknown UPOS tag: CONJ
 [Line                   1592]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 12754 errors
-Metadata errors: 3997
+*** FAILED *** with 16751 errors
+Metadata errors: 7994
 Morpho errors: 1385
 Syntax errors: 7372
 
@@ -946,7 +862,7 @@ Syntax errors: 7372
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:02:10Z">2017-01-30T10:02:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:57Z">2017-01-30T11:54:57 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -957,7 +873,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:02:10Z">2017-01-30T10:02:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:57Z">2017-01-30T11:54:57 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -965,12 +881,15 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PRO
 
 [Line                   3]: Unknown UD DEPREL: dobj
 [Line                   16]: Missing the sent_id attribute.
+[Line                   16]: Missing the text attribute.
 [Line                   20]: Unknown UD DEPREL: dobj
 [Line                   22]: Unknown UD DEPREL: mwe
 [Line                   30]: Unknown UD DEPREL: dobj
 [Line                   32]: Missing the sent_id attribute.
+[Line                   32]: Missing the text attribute.
 [Line                   50]: Unknown UPOS tag: CONJ
 [Line                   57]: Missing the sent_id attribute.
+[Line                   57]: Missing the text attribute.
 [Line                   58]: Unknown UPOS tag: CONJ
 [Line                   59]: Unknown UD DEPREL: neg
 [Line                   62]: Unknown UD DEPREL: neg
@@ -978,42 +897,44 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PRO
 [Line                   76]: Unknown UD DEPREL: dobj
 [Line                   77]: Unknown UPOS tag: CONJ
 [Line                   85]: Missing the sent_id attribute.
+[Line                   85]: Missing the text attribute.
 [Line                   92]: Missing the sent_id attribute.
+[Line                   92]: Missing the text attribute.
 [Line                   106]: Missing the sent_id attribute.
+[Line                   106]: Missing the text attribute.
 [Line                   108]: Unknown UD DEPREL: mwe
 [Line                   114]: Unknown UD DEPREL: dobj
 [Line                   119]: Unknown UD DEPREL: dobj
 [Line                   135]: Unknown UD DEPREL: dobj
 [Line                   142]: Missing the sent_id attribute.
+[Line                   142]: Missing the text attribute.
 [Line                   148]: Unknown UPOS tag: CONJ
 [Line                   161]: Unknown UPOS tag: CONJ
 [Line                   173]: Unknown UD DEPREL: mwe
 [Line                   177]: Missing the sent_id attribute.
+[Line                   177]: Missing the text attribute.
 [Line                   178]: Unknown UPOS tag: CONJ
 [Line                   193]: Unknown UPOS tag: CONJ
 [Line                   201]: Unknown UD DEPREL: dobj
 [Line                   203]: Missing the sent_id attribute.
+[Line                   203]: Missing the text attribute.
 [Line                   204]: Unknown UPOS tag: CONJ
 [Line                   220]: Unknown UD DEPREL: dobj
 [Line                   225]: Unknown UD DEPREL: dobj
 [Line                   228]: Unknown UPOS tag: CONJ
 [Line                   234]: Unknown UD DEPREL: dobj
 [Line                   235]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   236]: Unknown UPOS tag: CONJ
 [Line                   245]: Unknown UD DEPREL: dobj
 [Line                   248]: Unknown UPOS tag: CONJ
 [Line                   258]: Unknown UD DEPREL: dobj
 [Line                   261]: Unknown UPOS tag: CONJ
-[Line                   266]: Missing the sent_id attribute.
 [Line                   271]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
 [Line                   275]: Unknown UPOS tag: CONJ
-[Line                   300]: Missing the sent_id attribute.
-[Line                   313]: Missing the sent_id attribute.
-[Line                   320]: Missing the sent_id attribute.
-[Line                   326]: Missing the sent_id attribute.
-*** FAILED *** with 53 errors
-Metadata errors: 15
+*** FAILED *** with 68 errors
+Metadata errors: 30
 Morpho errors: 14
 Syntax errors: 24
 
@@ -1024,20 +945,29 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PRO
 
 [Line                   7]: Unknown UD DEPREL: neg
 [Line                   36]: Missing the sent_id attribute.
+[Line                   36]: Missing the text attribute.
 [Line                   39]: Unknown UPOS tag: CONJ
 [Line                   45]: Unknown UD DEPREL: neg
 [Line                   47]: Missing the sent_id attribute.
+[Line                   47]: Missing the text attribute.
 [Line                   48]: Unknown UPOS tag: CONJ
 [Line                   60]: Missing the sent_id attribute.
+[Line                   60]: Missing the text attribute.
 [Line                   82]: Missing the sent_id attribute.
+[Line                   82]: Missing the text attribute.
 [Line                   103]: Missing the sent_id attribute.
+[Line                   103]: Missing the text attribute.
 [Line                   120]: Unknown UD DEPREL: dobj
 [Line                   137]: Unknown UD DEPREL: dobj
 [Line                   139]: Missing the sent_id attribute.
+[Line                   139]: Missing the text attribute.
 [Line                   152]: Missing the sent_id attribute.
+[Line                   152]: Missing the text attribute.
 [Line                   166]: Missing the sent_id attribute.
+[Line                   166]: Missing the text attribute.
 [Line                   170]: Unknown UD DEPREL: dobj
 [Line                   178]: Missing the sent_id attribute.
+[Line                   178]: Missing the text attribute.
 [Line                   202]: Unknown UD DEPREL: dobj
 [Line                   206]: Unknown UPOS tag: CONJ
 [Line                   212]: Unknown UD DEPREL: dobj
@@ -1045,45 +975,36 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PRO
 [Line                   217]: Unknown UPOS tag: CONJ
 [Line                   225]: Unknown UD DEPREL: dobj
 [Line                   243]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   250]: Unknown UD DEPREL: dobj
 [Line                   255]: Unknown UPOS tag: CONJ
 [Line                   264]: Unknown UPOS tag: CONJ
 [Line                   278]: Unknown UD DEPREL: dobj
-[Line                   280]: Missing the sent_id attribute.
-[Line                   312]: Missing the sent_id attribute.
 [Line                   316]: Unknown UPOS tag: CONJ
 [Line                   326]: Unknown UD DEPREL: dobj
 [Line                   334]: Unknown UD DEPREL: neg
 [Line                   335]: Unknown UPOS tag: CONJ
-[Line                   343]: Missing the sent_id attribute.
 [Line                   351]: Unknown UD DEPREL: dobj
 [Line                   353]: Unknown UPOS tag: CONJ
 [Line                   356]: Unknown UD DEPREL: neg
 [Line                   360]: Unknown UD DEPREL: dobj
 [Line                   361]: Unknown UPOS tag: CONJ
 [Line                   365]: Unknown UD DEPREL: dobj
-[Line                   367]: Missing the sent_id attribute.
 [Line                   384]: Unknown UD DEPREL: dobj
 [Line                   396]: Unknown UD DEPREL: dobj
 [Line                   408]: Unknown UD DEPREL: dobj
-[Line                   416]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
 [Line                   426]: Unknown UPOS tag: CONJ
 [Line                   429]: Unknown UPOS tag: CONJ
-[Line                   438]: Missing the sent_id attribute.
 [Line                   444]: Unknown UPOS tag: CONJ
 [Line                   452]: Unknown UPOS tag: CONJ
 [Line                   472]: Unknown UPOS tag: CONJ
-[Line                   487]: Missing the sent_id attribute.
 [Line                   493]: Unknown UPOS tag: CONJ
 [Line                   507]: Unknown UPOS tag: CONJ
 [Line                   513]: Unknown UPOS tag: CONJ
-[Line                   537]: Missing the sent_id attribute.
 ...suppressing further errors regarding Morpho
-[Line                   577]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 655 errors
-Metadata errors: 173
+*** FAILED *** with 828 errors
+Metadata errors: 346
 Morpho errors: 217
 Syntax errors: 265
 
@@ -1097,7 +1018,7 @@ Syntax errors: 265
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:02:11Z">2017-01-30T10:02:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:54:58Z">2017-01-30T11:54:58 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1107,52 +1028,52 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJ
 [Line                   12]: Unknown UD DEPREL: dobj
 [Line                   22]: Unknown UPOS tag: CONJ
 [Line                   30]: Missing the sent_id attribute.
+[Line                   30]: Missing the text attribute.
 [Line                   33]: Unknown UD DEPREL: auxpass
 [Line                   35]: Unknown UD DEPREL: nsubjpass
 [Line                   41]: Missing the sent_id attribute.
+[Line                   41]: Missing the text attribute.
 [Line                   52]: Unknown attribute-value pair Negative=Neg
 [Line                   56]: Unknown UD DEPREL: dobj
 [Line                   60]: Unknown UPOS tag: CONJ
 [Line                   70]: Missing the sent_id attribute.
+[Line                   70]: Missing the text attribute.
 [Line                   79]: Missing the sent_id attribute.
+[Line                   79]: Missing the text attribute.
 [Line                   84]: Unknown UD DEPREL: dobj
 [Line                   93]: Unknown UD DEPREL: dobj
 [Line                   96]: Unknown UPOS tag: CONJ
 [Line                   99]: Missing the sent_id attribute.
+[Line                   99]: Missing the text attribute.
 [Line                   110]: Unknown UD DEPREL: dobj
 [Line                   115]: Unknown UPOS tag: CONJ
 [Line                   124]: Unknown UD DEPREL: dobj
 [Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
 [Line                   130]: Unknown UD DEPREL: auxpass
 [Line                   134]: Unknown UD DEPREL: nsubjpass
 [Line                   156]: Unknown UD DEPREL: name
 [Line                   158]: Unknown UD DEPREL: dobj
 [Line                   164]: Missing the sent_id attribute.
+[Line                   164]: Missing the text attribute.
 [Line                   167]: Unknown UD DEPREL: nsubjpass
 [Line                   176]: Unknown UD DEPREL: auxpass
 [Line                   186]: Missing the sent_id attribute.
+[Line                   186]: Missing the text attribute.
 [Line                   188]: Unknown UD DEPREL: dobj
 [Line                   193]: Unknown UD DEPREL: nsubjpass
 [Line                   197]: Unknown UPOS tag: CONJ
 [Line                   210]: Unknown UD DEPREL: name
 [Line                   212]: Missing the sent_id attribute.
+[Line                   212]: Missing the text attribute.
 [Line                   232]: Unknown UPOS tag: CONJ
 [Line                   240]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   248]: Unknown UD DEPREL: dobj
 [Line                   249]: Unknown UPOS tag: CONJ
-[Line                   256]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   277]: Missing the sent_id attribute.
-[Line                   293]: Missing the sent_id attribute.
-[Line                   313]: Missing the sent_id attribute.
 [Line                   322]: Unknown UPOS tag: CONJ
-[Line                   345]: Missing the sent_id attribute.
 [Line                   370]: Unknown UPOS tag: CONJ
-[Line                   379]: Missing the sent_id attribute.
-[Line                   391]: Missing the sent_id attribute.
-[Line                   404]: Missing the sent_id attribute.
-[Line                   419]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   476]: Unknown UPOS tag: CONJ
 [Line                   513]: Unknown UPOS tag: CONJ
 [Line                   554]: Unknown UPOS tag: CONJ
@@ -1163,8 +1084,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJ
 [Line                   630]: Unknown UPOS tag: CONJ
 [Line                   788]: Unknown attribute-value pair Negative=Neg
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 722 errors
-Metadata errors: 200
+*** FAILED *** with 922 errors
+Metadata errors: 400
 Morpho errors: 178
 Syntax errors: 344
 
@@ -1174,23 +1095,29 @@ Syntax errors: 344
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-train.conllu
 
 [Line                   7]: Missing the sent_id attribute.
+[Line                   7]: Missing the text attribute.
 [Line                   11]: Unknown UD DEPREL: dobj
 [Line                   18]: Missing the sent_id attribute.
+[Line                   18]: Missing the text attribute.
 [Line                   28]: Missing the sent_id attribute.
+[Line                   28]: Missing the text attribute.
 [Line                   31]: Unknown UD DEPREL: dobj
 [Line                   35]: Unknown UD DEPREL: dobj
 [Line                   39]: Unknown UPOS tag: CONJ
 [Line                   44]: Unknown UD DEPREL: dobj
 [Line                   48]: Missing the sent_id attribute.
+[Line                   48]: Missing the text attribute.
 [Line                   65]: Unknown UPOS tag: CONJ
 [Line                   72]: Unknown UD DEPREL: dobj
 [Line                   76]: Missing the sent_id attribute.
+[Line                   76]: Missing the text attribute.
 [Line                   81]: Unknown UPOS tag: CONJ
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   91]: Unknown attribute-value pair Negative=Neg
 [Line                   91]: Unknown UD DEPREL: neg
 [Line                   94]: Unknown UD DEPREL: dobj
 [Line                   96]: Missing the sent_id attribute.
+[Line                   96]: Missing the text attribute.
 [Line                   97]: Unknown UPOS tag: CONJ
 [Line                   104]: Unknown UD DEPREL: mwe
 [Line                   105]: Unknown UD DEPREL: mwe
@@ -1198,15 +1125,19 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJ
 [Line                   117]: Unknown UPOS tag: CONJ
 [Line                   125]: Unknown UD DEPREL: dobj
 [Line                   129]: Missing the sent_id attribute.
+[Line                   129]: Missing the text attribute.
 [Line                   131]: Unknown UD DEPREL: name
 [Line                   137]: Missing the sent_id attribute.
+[Line                   137]: Missing the text attribute.
 [Line                   161]: Unknown UD DEPREL: dobj
 [Line                   165]: Unknown UD DEPREL: dobj
 [Line                   170]: Missing the sent_id attribute.
+[Line                   170]: Missing the text attribute.
 [Line                   181]: Unknown UD DEPREL: dobj
 [Line                   183]: Unknown UPOS tag: CONJ
 [Line                   186]: Unknown attribute-value pair Negative=Neg
 [Line                   190]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   192]: Unknown UD DEPREL: mwe
 [Line                   193]: Unknown UD DEPREL: auxpass
 [Line                   194]: Unknown UD DEPREL: nsubjpass
@@ -1215,26 +1146,16 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJ
 [Line                   205]: Unknown UPOS tag: CONJ
 [Line                   212]: Unknown attribute-value pair Negative=Neg
 ...suppressing further errors regarding Syntax
-[Line                   232]: Missing the sent_id attribute.
-[Line                   252]: Missing the sent_id attribute.
 [Line                   254]: Unknown attribute-value pair Negative=Neg
-[Line                   273]: Missing the sent_id attribute.
 [Line                   287]: Unknown UPOS tag: CONJ
-[Line                   313]: Missing the sent_id attribute.
-[Line                   328]: Missing the sent_id attribute.
-[Line                   340]: Missing the sent_id attribute.
 [Line                   345]: Unknown attribute-value pair Negative=Neg
 [Line                   347]: Unknown UPOS tag: CONJ
 [Line                   366]: Unknown UPOS tag: CONJ
-[Line                   371]: Missing the sent_id attribute.
-[Line                   397]: Missing the sent_id attribute.
 [Line                   409]: Unknown UPOS tag: CONJ
 [Line                   413]: Unknown attribute-value pair Negative=Neg
 ...suppressing further errors regarding Morpho
-[Line                   426]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 21585 errors
-Metadata errors: 5792
+*** FAILED *** with 27377 errors
+Metadata errors: 11584
 Morpho errors: 6002
 Syntax errors: 9791
 
@@ -1247,147 +1168,42 @@ Syntax errors: 9791
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:02:23Z">2017-01-30T10:02:23 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:55:10Z">2017-01-30T11:55:10 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
-[Line                   9]: Missing the sent_id attribute.
-[Line                   17]: Missing the sent_id attribute.
-[Line                   26]: Missing the sent_id attribute.
-[Line                   40]: Missing the sent_id attribute.
-[Line                   68]: Missing the sent_id attribute.
-[Line                   81]: Missing the sent_id attribute.
-[Line                   88]: Missing the sent_id attribute.
-[Line                   103]: Missing the sent_id attribute.
-[Line                   121]: Missing the sent_id attribute.
-[Line                   164]: Missing the sent_id attribute.
-[Line                   176]: Missing the sent_id attribute.
-[Line                   186]: Missing the sent_id attribute.
-[Line                   213]: Missing the sent_id attribute.
-[Line                   259]: Missing the sent_id attribute.
-[Line                   269]: Missing the sent_id attribute.
-[Line                   300]: Missing the sent_id attribute.
-[Line                   307]: Missing the sent_id attribute.
-[Line                   320]: Missing the sent_id attribute.
-[Line                   328]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 9270 errors
-Metadata errors: 9270
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
-[Line                   8]: Missing the sent_id attribute.
-[Line                   19]: Missing the sent_id attribute.
-[Line                   28]: Missing the sent_id attribute.
-[Line                   39]: Missing the sent_id attribute.
-[Line                   49]: Missing the sent_id attribute.
-[Line                   72]: Missing the sent_id attribute.
-[Line                   93]: Missing the sent_id attribute.
-[Line                   132]: Missing the sent_id attribute.
-[Line                   155]: Missing the sent_id attribute.
-[Line                   194]: Missing the sent_id attribute.
-[Line                   235]: Missing the sent_id attribute.
-[Line                   276]: Missing the sent_id attribute.
-[Line                   296]: Missing the sent_id attribute.
-[Line                   313]: Missing the sent_id attribute.
-[Line                   332]: Missing the sent_id attribute.
-[Line                   352]: Missing the sent_id attribute.
-[Line                   377]: Missing the sent_id attribute.
-[Line                   403]: Missing the sent_id attribute.
-[Line                   443]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 8938 errors
-Metadata errors: 8938
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
-[Line                   10]: Missing the sent_id attribute.
-[Line                   15]: Missing the sent_id attribute.
-[Line                   21]: Missing the sent_id attribute.
-[Line                   72]: Missing the sent_id attribute.
-[Line                   83]: Missing the sent_id attribute.
-[Line                   118]: Missing the sent_id attribute.
-[Line                   140]: Missing the sent_id attribute.
-[Line                   193]: Missing the sent_id attribute.
-[Line                   221]: Missing the sent_id attribute.
-[Line                   249]: Missing the sent_id attribute.
-[Line                   279]: Missing the sent_id attribute.
-[Line                   315]: Missing the sent_id attribute.
-[Line                   330]: Missing the sent_id attribute.
-[Line                   355]: Missing the sent_id attribute.
-[Line                   370]: Missing the sent_id attribute.
-[Line                   376]: Missing the sent_id attribute.
-[Line                   382]: Missing the sent_id attribute.
-[Line                   395]: Missing the sent_id attribute.
-[Line                   407]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 41559 errors
-Metadata errors: 41559
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
-[Line                   10]: Missing the sent_id attribute.
-[Line                   23]: Missing the sent_id attribute.
-[Line                   43]: Missing the sent_id attribute.
-[Line                   60]: Missing the sent_id attribute.
-[Line                   80]: Missing the sent_id attribute.
-[Line                   95]: Missing the sent_id attribute.
-[Line                   141]: Missing the sent_id attribute.
-[Line                   162]: Missing the sent_id attribute.
-[Line                   193]: Missing the sent_id attribute.
-[Line                   208]: Missing the sent_id attribute.
-[Line                   225]: Missing the sent_id attribute.
-[Line                   273]: Missing the sent_id attribute.
-[Line                   296]: Missing the sent_id attribute.
-[Line                   336]: Missing the sent_id attribute.
-[Line                   373]: Missing the sent_id attribute.
-[Line                   393]: Missing the sent_id attribute.
-[Line                   404]: Missing the sent_id attribute.
-[Line                   439]: Missing the sent_id attribute.
-[Line                   448]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 11180 errors
-Metadata errors: 11180
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
-[Line                   8]: Missing the sent_id attribute.
-[Line                   14]: Missing the sent_id attribute.
-[Line                   62]: Missing the sent_id attribute.
-[Line                   99]: Missing the sent_id attribute.
-[Line                   131]: Missing the sent_id attribute.
-[Line                   142]: Missing the sent_id attribute.
-[Line                   194]: Missing the sent_id attribute.
-[Line                   209]: Missing the sent_id attribute.
-[Line                   228]: Missing the sent_id attribute.
-[Line                   289]: Missing the sent_id attribute.
-[Line                   308]: Missing the sent_id attribute.
-[Line                   340]: Missing the sent_id attribute.
-[Line                   367]: Missing the sent_id attribute.
-[Line                   403]: Missing the sent_id attribute.
-[Line                   413]: Missing the sent_id attribute.
-[Line                   428]: Missing the sent_id attribute.
-[Line                   457]: Missing the sent_id attribute.
-[Line                   493]: Missing the sent_id attribute.
-[Line                   515]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 6818 errors
-Metadata errors: 6818
+*** PASSED ***
 
 
 ******************
@@ -1398,63 +1214,21 @@ Metadata errors: 6818
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:04:33Z">2017-01-30T10:04:33 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:57:20Z">2017-01-30T11:57:20 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
-[Line                   23]: Missing the sent_id attribute.
-[Line                   50]: Missing the sent_id attribute.
-[Line                   91]: Missing the sent_id attribute.
-[Line                   125]: Missing the sent_id attribute.
-[Line                   143]: Missing the sent_id attribute.
-[Line                   185]: Missing the sent_id attribute.
-[Line                   226]: Missing the sent_id attribute.
-[Line                   266]: Missing the sent_id attribute.
-[Line                   308]: Missing the sent_id attribute.
-[Line                   327]: Missing the sent_id attribute.
-[Line                   359]: Missing the sent_id attribute.
-[Line                   415]: Missing the sent_id attribute.
-[Line                   433]: Missing the sent_id attribute.
-[Line                   454]: Missing the sent_id attribute.
-[Line                   482]: Missing the sent_id attribute.
-[Line                   509]: Missing the sent_id attribute.
-[Line                   523]: Missing the sent_id attribute.
-[Line                   548]: Missing the sent_id attribute.
-[Line                   568]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 603 errors
-Metadata errors: 603
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
-[Line                   29]: Missing the sent_id attribute.
-[Line                   62]: Missing the sent_id attribute.
-[Line                   98]: Missing the sent_id attribute.
-[Line                   133]: Missing the sent_id attribute.
-[Line                   152]: Missing the sent_id attribute.
-[Line                   161]: Missing the sent_id attribute.
-[Line                   168]: Missing the sent_id attribute.
-[Line                   196]: Missing the sent_id attribute.
-[Line                   233]: Missing the sent_id attribute.
-[Line                   276]: Missing the sent_id attribute.
-[Line                   308]: Missing the sent_id attribute.
-[Line                   346]: Missing the sent_id attribute.
-[Line                   378]: Missing the sent_id attribute.
-[Line                   414]: Missing the sent_id attribute.
-[Line                   426]: Missing the sent_id attribute.
-[Line                   471]: Missing the sent_id attribute.
-[Line                   509]: Missing the sent_id attribute.
-[Line                   540]: Missing the sent_id attribute.
-[Line                   592]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 23478 errors
-Metadata errors: 23478
+*** PASSED ***
 
 
 ******************
@@ -1466,62 +1240,62 @@ Metadata errors: 23478
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:05:18Z">2017-01-30T10:05:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:06Z">2017-01-30T11:58:06 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
-[Line                   264]: Missing the sent_id attribute.
-[Line                   374]: Missing the sent_id attribute.
-[Line                   379]: Missing the sent_id attribute.
-[Line                   385]: Missing the sent_id attribute.
-[Line                   421]: Missing the sent_id attribute.
-[Line                   435]: Missing the sent_id attribute.
-[Line                   529]: Missing the sent_id attribute.
-[Line                   628]: Missing the sent_id attribute.
-[Line                   661]: Missing the sent_id attribute.
-[Line                   687]: Missing the sent_id attribute.
-[Line                   712]: Missing the sent_id attribute.
-[Line                   717]: Missing the sent_id attribute.
-[Line                   723]: Missing the sent_id attribute.
-[Line                   772]: Missing the sent_id attribute.
-[Line                   793]: Missing the sent_id attribute.
-[Line                   814]: Missing the sent_id attribute.
-[Line                   834]: Missing the sent_id attribute.
-[Line                   909]: Missing the sent_id attribute.
-[Line                   940]: Missing the sent_id attribute.
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is '§_18_odst._3' but text is '§ 18 odst. 3) ověřuje, a účetníh...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is ')' but text is '§ 18 odst. 3) ověřuje...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'ověřuje' but text is '§ 18 odst. 3) ověřuje, a úč...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is ',' but text is '§ 18 odst. 3) ověřuje...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'a' but text is '§ 18 odst. 3) ověřuje...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'účetního' but text is '§ 18 odst. 3) ověřuje, a úče...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'období' but text is '§ 18 odst. 3) ověřuje, a ú...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'bezprostředně' but text is '§ 18 odst. 3) ověřuje, a účetního...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'předcházejícího' but text is '§ 18 odst. 3) ověřuje, a účetního o...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is ',' but text is '§ 18 odst. 3) ověřuje...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'překročily' but text is '§ 18 odst. 3) ověřuje, a účetn...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'nebo' but text is '§ 18 odst. 3) ověřuje, a...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'již' but text is '§ 18 odst. 3) ověřuje, ...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'dosáhly' but text is '§ 18 odst. 3) ověřuje, a úč...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'alespoň' but text is '§ 18 odst. 3) ověřuje, a úč...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'jedno' but text is '§ 18 odst. 3) ověřuje, a ...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'ze' but text is '§ 18 odst. 3) ověřuje,...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'tří' but text is '§ 18 odst. 3) ověřuje, ...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'uvedených' but text is '§ 18 odst. 3) ověřuje, a účet...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 129 errors
-Metadata errors: 129
+*** FAILED *** with 1237 errors
+Metadata errors: 1237
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
-[Line                   6]: Missing the sent_id attribute.
-[Line                   14]: Missing the sent_id attribute.
-[Line                   19]: Missing the sent_id attribute.
-[Line                   273]: Missing the sent_id attribute.
-[Line                   278]: Missing the sent_id attribute.
-[Line                   308]: Missing the sent_id attribute.
-[Line                   349]: Missing the sent_id attribute.
-[Line                   369]: Missing the sent_id attribute.
-[Line                   448]: Missing the sent_id attribute.
-[Line                   454]: Missing the sent_id attribute.
-[Line                   460]: Missing the sent_id attribute.
-[Line                   466]: Missing the sent_id attribute.
-[Line                   476]: Missing the sent_id attribute.
-[Line                   481]: Missing the sent_id attribute.
-[Line                   518]: Missing the sent_id attribute.
-[Line                   541]: Missing the sent_id attribute.
-[Line                   562]: Missing the sent_id attribute.
-[Line                   582]: Missing the sent_id attribute.
-[Line                   603]: Missing the sent_id attribute.
+[Line                   19]: Mismatch between the text attribute and the FORM field. Form is '§_1' but text is '§ 1...'
+[Line                   19]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '§ 1'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is '"zákon_o_přeměnách"' but text is '"zákon o přeměnách"), včetně úprav prov...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is ')' but text is '"zákon o přeměnách"),...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is ',' but text is '"zákon o přeměnách"),...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'včetně' but text is '"zákon o přeměnách"), včet...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'úprav' but text is '"zákon o přeměnách"), vče...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'prováděných' but text is '"zákon o přeměnách"), včetně úp...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'v' but text is '"zákon o přeměnách"),...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'rámci' but text is '"zákon o přeměnách"), vče...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'přeměn' but text is '"zákon o přeměnách"), včet...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'společnosti' but text is '"zákon o přeměnách"), včetně úp...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'ke' but text is '"zákon o přeměnách"), ...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'dni' but text is '"zákon o přeměnách"), v...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'zápisu' but text is '"zákon o přeměnách"), včet...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'do' but text is '"zákon o přeměnách"), ...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'obchodního' but text is '"zákon o přeměnách"), včetně ú...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'rejstříku' but text is '"zákon o přeměnách"), včetně ...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 's' but text is '"zákon o přeměnách"),...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 860 errors
-Metadata errors: 860
+*** FAILED *** with 9021 errors
+Metadata errors: 9021
 
 
 ******************
@@ -1533,30 +1307,35 @@ Metadata errors: 860
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:05:21Z">2017-01-30T10:05:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:10Z">2017-01-30T11:58:10 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-dev.conllu
 
 [Line                   6]: Missing the sent_id attribute.
+[Line                   6]: Missing the text attribute.
 [Line                   12]: Unknown UPOS tag: CONJ
 [Line                   15]: Unknown UD DEPREL: dobj
 [Line                   18]: Unknown attribute-value pair VerbForm=Trans
 [Line                   28]: Missing the sent_id attribute.
+[Line                   28]: Missing the text attribute.
 [Line                   30]: Unknown UD DEPREL: nsubjpass
 [Line                   31]: Unknown UD DEPREL: auxpass
 [Line                   32]: Unknown attribute-value pair VerbForm=Trans
 [Line                   39]: Unknown UD DEPREL: name
 [Line                   41]: Missing the sent_id attribute.
+[Line                   41]: Missing the text attribute.
 [Line                   46]: Unknown UPOS tag: CONJ
 [Line                   51]: Unknown UD DEPREL: dobj
 [Line                   56]: Unknown UD DEPREL: neg
 [Line                   59]: Unknown UD DEPREL: dobj
 [Line                   63]: Missing the sent_id attribute.
+[Line                   63]: Missing the text attribute.
 [Line                   65]: Unknown UD DEPREL: name
 [Line                   69]: Unknown UPOS tag: CONJ
 [Line                   73]: Missing the sent_id attribute.
+[Line                   73]: Missing the text attribute.
 [Line                   74]: Unknown UPOS tag: CONJ
 [Line                   83]: Unknown attribute-value pair VerbForm=Trans
 [Line                   87]: Unknown UPOS tag: CONJ
@@ -1567,40 +1346,35 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJ
 [Line                   103]: Unknown UPOS tag: CONJ
 [Line                   110]: Unknown UD DEPREL: dobj
 [Line                   112]: Missing the sent_id attribute.
+[Line                   112]: Missing the text attribute.
 [Line                   115]: Unknown UD DEPREL: dobj
 [Line                   124]: Unknown UD DEPREL: dobj
 [Line                   126]: Missing the sent_id attribute.
+[Line                   126]: Missing the text attribute.
 [Line                   133]: Missing the sent_id attribute.
+[Line                   133]: Missing the text attribute.
 [Line                   137]: Unknown UD DEPREL: dobj
 [Line                   141]: Missing the sent_id attribute.
+[Line                   141]: Missing the text attribute.
 [Line                   147]: Unknown UD DEPREL: dobj
 [Line                   151]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   154]: Unknown UD DEPREL: name
 [Line                   155]: Unknown UD DEPREL: name
 [Line                   162]: Unknown UD DEPREL: nsubjpass
 ...suppressing further errors regarding Syntax
 [Line                   164]: Unknown attribute-value pair VerbForm=Trans
 [Line                   165]: Unknown attribute-value pair VerbForm=Trans
-[Line                   170]: Missing the sent_id attribute.
 [Line                   182]: Unknown UPOS tag: CONJ
 [Line                   190]: Unknown attribute-value pair VerbForm=Trans
 [Line                   191]: Unknown attribute-value pair VerbForm=Trans
 [Line                   194]: Unknown UPOS tag: CONJ
-[Line                   200]: Missing the sent_id attribute.
 [Line                   217]: Unknown UPOS tag: CONJ
 [Line                   228]: Unknown UPOS tag: CONJ
-[Line                   232]: Missing the sent_id attribute.
 [Line                   235]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-[Line                   266]: Missing the sent_id attribute.
-[Line                   294]: Missing the sent_id attribute.
-[Line                   300]: Missing the sent_id attribute.
-[Line                   316]: Missing the sent_id attribute.
-[Line                   326]: Missing the sent_id attribute.
-[Line                   335]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1278 errors
-Metadata errors: 322
+*** FAILED *** with 1600 errors
+Metadata errors: 644
 Morpho errors: 354
 Syntax errors: 602
 
@@ -1612,23 +1386,28 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJ
 [Line                   5]: Unknown attribute-value pair VerbForm=Trans
 [Line                   16]: Unknown UD DEPREL: name
 [Line                   24]: Missing the sent_id attribute.
+[Line                   24]: Missing the text attribute.
 [Line                   25]: Unknown UPOS tag: CONJ
 [Line                   27]: Unknown UPOS tag: CONJ
 [Line                   30]: Unknown UPOS tag: CONJ
 [Line                   34]: Unknown UPOS tag: CONJ
 [Line                   42]: Unknown UD DEPREL: dobj
 [Line                   44]: Missing the sent_id attribute.
+[Line                   44]: Missing the text attribute.
 [Line                   47]: Unknown UPOS tag: CONJ
 [Line                   53]: Unknown UPOS tag: CONJ
 [Line                   57]: Missing the sent_id attribute.
+[Line                   57]: Missing the text attribute.
 [Line                   68]: Unknown UD DEPREL: name
 [Line                   71]: Unknown UD DEPREL: dobj
 [Line                   73]: Unknown UPOS tag: CONJ
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   87]: Unknown UPOS tag: CONJ
 [Line                   90]: Missing the sent_id attribute.
+[Line                   90]: Missing the text attribute.
 [Line                   105]: Unknown UD DEPREL: name
 [Line                   107]: Missing the sent_id attribute.
+[Line                   107]: Missing the text attribute.
 [Line                   114]: Unknown UD DEPREL: dobj
 [Line                   118]: Unknown UPOS tag: CONJ
 [Line                   122]: Unknown UD DEPREL: neg
@@ -1636,11 +1415,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJ
 [Line                   126]: Unknown UPOS tag: CONJ
 [Line                   131]: Unknown UPOS tag: CONJ
 [Line                   134]: Missing the sent_id attribute.
+[Line                   134]: Missing the text attribute.
 [Line                   136]: Unknown UD DEPREL: neg
 [Line                   138]: Unknown UD DEPREL: mwe
 [Line                   142]: Missing the sent_id attribute.
+[Line                   142]: Missing the text attribute.
 [Line                   143]: Unknown attribute-value pair VerbForm=Trans
 [Line                   144]: Missing the sent_id attribute.
+[Line                   144]: Missing the text attribute.
 [Line                   159]: Unknown UPOS tag: CONJ
 [Line                   161]: Unknown UD DEPREL: nsubjpass
 [Line                   163]: Unknown attribute-value pair VerbForm=Trans
@@ -1648,29 +1430,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJ
 [Line                   171]: Unknown UD DEPREL: auxpass
 [Line                   172]: Unknown attribute-value pair VerbForm=Trans
 [Line                   177]: Missing the sent_id attribute.
+[Line                   177]: Missing the text attribute.
 [Line                   198]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   200]: Unknown UD DEPREL: name
 [Line                   205]: Unknown UD DEPREL: neg
 [Line                   218]: Unknown UPOS tag: CONJ
-[Line                   225]: Missing the sent_id attribute.
 [Line                   229]: Unknown UD DEPREL: dobj
-[Line                   234]: Missing the sent_id attribute.
 [Line                   238]: Unknown UD DEPREL: name
 [Line                   245]: Unknown UD DEPREL: dobj
 [Line                   247]: Unknown UPOS tag: CONJ
-[Line                   254]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   277]: Missing the sent_id attribute.
-[Line                   288]: Missing the sent_id attribute.
-[Line                   299]: Missing the sent_id attribute.
-[Line                   311]: Missing the sent_id attribute.
 [Line                   312]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-[Line                   346]: Missing the sent_id attribute.
-[Line                   374]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 18045 errors
-Metadata errors: 4868
+*** FAILED *** with 22913 errors
+Metadata errors: 9736
 Morpho errors: 4699
 Syntax errors: 8478
 
@@ -1683,63 +1457,21 @@ Syntax errors: 8478
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:05:29Z">2017-01-30T10:05:29 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:18Z">2017-01-30T11:58:18 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
-[Line                   13]: Missing the sent_id attribute.
-[Line                   32]: Missing the sent_id attribute.
-[Line                   46]: Missing the sent_id attribute.
-[Line                   67]: Missing the sent_id attribute.
-[Line                   79]: Missing the sent_id attribute.
-[Line                   103]: Missing the sent_id attribute.
-[Line                   119]: Missing the sent_id attribute.
-[Line                   143]: Missing the sent_id attribute.
-[Line                   158]: Missing the sent_id attribute.
-[Line                   173]: Missing the sent_id attribute.
-[Line                   187]: Missing the sent_id attribute.
-[Line                   205]: Missing the sent_id attribute.
-[Line                   217]: Missing the sent_id attribute.
-[Line                   228]: Missing the sent_id attribute.
-[Line                   241]: Missing the sent_id attribute.
-[Line                   253]: Missing the sent_id attribute.
-[Line                   263]: Missing the sent_id attribute.
-[Line                   274]: Missing the sent_id attribute.
-[Line                   296]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 720 errors
-Metadata errors: 720
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
-[Line                   10]: Missing the sent_id attribute.
-[Line                   27]: Missing the sent_id attribute.
-[Line                   38]: Missing the sent_id attribute.
-[Line                   55]: Missing the sent_id attribute.
-[Line                   71]: Missing the sent_id attribute.
-[Line                   86]: Missing the sent_id attribute.
-[Line                   107]: Missing the sent_id attribute.
-[Line                   138]: Missing the sent_id attribute.
-[Line                   164]: Missing the sent_id attribute.
-[Line                   180]: Missing the sent_id attribute.
-[Line                   204]: Missing the sent_id attribute.
-[Line                   217]: Missing the sent_id attribute.
-[Line                   232]: Missing the sent_id attribute.
-[Line                   257]: Missing the sent_id attribute.
-[Line                   284]: Missing the sent_id attribute.
-[Line                   306]: Missing the sent_id attribute.
-[Line                   328]: Missing the sent_id attribute.
-[Line                   342]: Missing the sent_id attribute.
-[Line                   349]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 12330 errors
-Metadata errors: 12330
+*** PASSED ***
 
 
 ******************
@@ -1751,7 +1483,7 @@ Metadata errors: 12330
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:05:45Z">2017-01-30T10:05:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:35Z">2017-01-30T11:58:35 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1759,29 +1491,38 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/gin
 
 [Line                   15]: Unknown UD DEPREL: name
 [Line                   17]: Missing the sent_id attribute.
+[Line                   17]: Missing the text attribute.
 [Line                   20]: Unknown UD DEPREL: name
 [Line                   21]: Missing the sent_id attribute.
+[Line                   21]: Missing the text attribute.
 [Line                   27]: Unknown UD DEPREL: name
 [Line                   34]: Unknown UD DEPREL: dobj
 [Line                   42]: Unknown UD DEPREL: dobj
 [Line                   47]: Missing the sent_id attribute.
+[Line                   47]: Missing the text attribute.
 [Line                   53]: Unknown UD DEPREL: mwe
 [Line                   55]: Missing the sent_id attribute.
+[Line                   55]: Missing the text attribute.
 [Line                   63]: Unknown UD DEPREL: dobj
 [Line                   69]: Unknown UD DEPREL: name
 [Line                   71]: Missing the sent_id attribute.
+[Line                   71]: Missing the text attribute.
 [Line                   79]: Unknown UD DEPREL: dobj
 [Line                   80]: Unknown UPOS tag: CONJ
 [Line                   88]: Missing the sent_id attribute.
+[Line                   88]: Missing the text attribute.
 [Line                   96]: Missing the sent_id attribute.
+[Line                   96]: Missing the text attribute.
 [Line                   105]: Unknown UPOS tag: CONJ
 [Line                   108]: Missing the sent_id attribute.
+[Line                   108]: Missing the text attribute.
 [Line                   117]: Missing the sent_id attribute.
+[Line                   117]: Missing the text attribute.
 [Line                   120]: Unknown UD DEPREL: name
 [Line                   121]: Unknown UD DEPREL: name
 [Line                   125]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   130]: Unknown UD DEPREL: dobj
-[Line                   132]: Missing the sent_id attribute.
 [Line                   149]: Unknown UD DEPREL: dobj
 [Line                   153]: Unknown UD DEPREL: mwe
 [Line                   158]: Unknown UD DEPREL: mwe
@@ -1792,17 +1533,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/gin
 [Line                   180]: Unknown UD DEPREL: mwe
 [Line                   181]: Unknown UD DEPREL: mwe
 ...suppressing further errors regarding Syntax
-[Line                   195]: Missing the sent_id attribute.
-[Line                   198]: Missing the sent_id attribute.
-[Line                   202]: Missing the sent_id attribute.
-[Line                   218]: Missing the sent_id attribute.
 [Line                   228]: Unknown UPOS tag: CONJ
-[Line                   234]: Missing the sent_id attribute.
 [Line                   240]: Unknown UPOS tag: CONJ
-[Line                   261]: Missing the sent_id attribute.
-[Line                   286]: Missing the sent_id attribute.
-[Line                   305]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   344]: Unknown UPOS tag: CONJ
 [Line                   431]: Unknown UPOS tag: CONJ
 [Line                   486]: Unknown UPOS tag: CONJ
@@ -1817,8 +1549,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/gin
 [Line                   954]: Unknown UPOS tag: CONJ
 [Line                   973]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1019 errors
-Metadata errors: 350
+*** FAILED *** with 1369 errors
+Metadata errors: 700
 Morpho errors: 127
 Syntax errors: 542
 
@@ -1830,6 +1562,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/gin
 [Line                   5]: Unknown UD DEPREL: name
 [Line                   6]: Unknown UD DEPREL: name
 [Line                   7]: Missing the sent_id attribute.
+[Line                   7]: Missing the text attribute.
 [Line                   10]: Unknown UD DEPREL: name
 [Line                   11]: Unknown UD DEPREL: name
 [Line                   15]: Unknown UD DEPREL: name
@@ -1838,44 +1571,43 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/gin
 [Line                   18]: Unknown UD DEPREL: name
 [Line                   19]: Unknown UD DEPREL: name
 [Line                   31]: Missing the sent_id attribute.
+[Line                   31]: Missing the text attribute.
 [Line                   34]: Missing the sent_id attribute.
+[Line                   34]: Missing the text attribute.
 [Line                   38]: Unknown UD DEPREL: auxpass
 [Line                   41]: Unknown UD DEPREL: nsubjpass
 [Line                   43]: Unknown UPOS tag: CONJ
 [Line                   51]: Missing the sent_id attribute.
+[Line                   51]: Missing the text attribute.
 [Line                   59]: Unknown UPOS tag: CONJ
 [Line                   61]: Unknown UD DEPREL: dobj
 [Line                   62]: Unknown UPOS tag: CONJ
 [Line                   62]: Unknown UD DEPREL: name
 [Line                   63]: Unknown UD DEPREL: name
 [Line                   69]: Missing the sent_id attribute.
+[Line                   69]: Missing the text attribute.
 [Line                   79]: Missing the sent_id attribute.
+[Line                   79]: Missing the text attribute.
 [Line                   97]: Unknown UPOS tag: CONJ
 [Line                   109]: Unknown UD DEPREL: mwe
 [Line                   110]: Unknown UPOS tag: CONJ
 [Line                   113]: Unknown UD DEPREL: mwe
 [Line                   118]: Unknown UD DEPREL: auxpass
 [Line                   122]: Missing the sent_id attribute.
+[Line                   122]: Missing the text attribute.
 [Line                   127]: Unknown UD DEPREL: name
 [Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
 [Line                   137]: Missing the sent_id attribute.
+[Line                   137]: Missing the text attribute.
 [Line                   141]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   161]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
-[Line                   165]: Missing the sent_id attribute.
 [Line                   174]: Unknown UPOS tag: CONJ
-[Line                   197]: Missing the sent_id attribute.
-[Line                   212]: Missing the sent_id attribute.
-[Line                   223]: Missing the sent_id attribute.
 [Line                   230]: Unknown UPOS tag: CONJ
-[Line                   242]: Missing the sent_id attribute.
 [Line                   259]: Unknown UPOS tag: CONJ
-[Line                   270]: Missing the sent_id attribute.
-[Line                   293]: Missing the sent_id attribute.
-[Line                   303]: Missing the sent_id attribute.
 [Line                   318]: Unknown UPOS tag: CONJ
-[Line                   340]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   359]: Unknown UPOS tag: CONJ
 [Line                   368]: Unknown UPOS tag: CONJ
 [Line                   384]: Unknown UPOS tag: CONJ
@@ -1888,9 +1620,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/gin
 [Line                   960]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
 [Tree number 3654 on line 55833]: HEAD == ID for 14
-*** FAILED *** with 20186 errors
+*** FAILED *** with 26827 errors
 Format errors: 1
-Metadata errors: 6641
+Metadata errors: 13282
 Morpho errors: 2477
 Syntax errors: 11067
 
@@ -1904,16 +1636,18 @@ Syntax errors: 11067
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:05:52Z">2017-01-30T10:05:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:41Z">2017-01-30T11:58:41 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-dev.conllu
 
 [Line                   9]: Missing the sent_id attribute.
+[Line                   9]: Missing the text attribute.
 [Line                   17]: Unknown UD DEPREL: dobj
 [Line                   21]: Unknown UD DEPREL: dobj
 [Line                   30]: Missing the sent_id attribute.
+[Line                   30]: Missing the text attribute.
 [Line                   34]: Unknown UD DEPREL: name
 [Line                   35]: Unknown UD DEPREL: name
 [Line                   36]: Unknown UD DEPREL: dobj
@@ -1921,7 +1655,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJ
 [Line                   58]: Unknown UD DEPREL: name
 [Line                   59]: Unknown UD DEPREL: dobj
 [Line                   61]: Missing the sent_id attribute.
+[Line                   61]: Missing the text attribute.
 [Line                   64]: Missing the sent_id attribute.
+[Line                   64]: Missing the text attribute.
 [Line                   69]: Unknown UD DEPREL: name
 [Line                   70]: Unknown UD DEPREL: name
 [Line                   71]: Unknown UD DEPREL: name
@@ -1930,9 +1666,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJ
 [Line                   93]: Unknown UD DEPREL: name
 [Line                   94]: Unknown UD DEPREL: dobj
 [Line                   96]: Missing the sent_id attribute.
+[Line                   96]: Missing the text attribute.
 [Line                   99]: Unknown UD DEPREL: nsubjpass
 [Line                   105]: Unknown UD DEPREL: auxpass
 [Line                   116]: Missing the sent_id attribute.
+[Line                   116]: Missing the text attribute.
 [Line                   118]: Unknown UD DEPREL: nsubjpass
 [Line                   120]: Unknown UD DEPREL: auxpass
 [Line                   124]: Unknown UPOS tag: CONJ
@@ -1940,23 +1678,17 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJ
 [Line                   135]: Unknown UPOS tag: CONJ
 [Line                   144]: Unknown UPOS tag: CONJ
 [Line                   149]: Missing the sent_id attribute.
+[Line                   149]: Missing the text attribute.
 [Line                   161]: Unknown UPOS tag: CONJ
 [Line                   167]: Missing the sent_id attribute.
+[Line                   167]: Missing the text attribute.
 [Line                   187]: Missing the sent_id attribute.
+[Line                   187]: Missing the text attribute.
 [Line                   198]: Missing the sent_id attribute.
-[Line                   221]: Missing the sent_id attribute.
-[Line                   239]: Unknown UPOS tag: CONJ
-[Line                   247]: Missing the sent_id attribute.
-[Line                   269]: Missing the sent_id attribute.
-[Line                   300]: Missing the sent_id attribute.
-[Line                   314]: Missing the sent_id attribute.
-[Line                   337]: Unknown UPOS tag: CONJ
-[Line                   352]: Missing the sent_id attribute.
-[Line                   384]: Missing the sent_id attribute.
-[Line                   400]: Unknown UPOS tag: CONJ
-[Line                   413]: Missing the sent_id attribute.
-[Line                   457]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
+[Line                   239]: Unknown UPOS tag: CONJ
+[Line                   337]: Unknown UPOS tag: CONJ
+[Line                   400]: Unknown UPOS tag: CONJ
 [Line                   567]: Unknown UPOS tag: CONJ
 [Line                   665]: Unknown UPOS tag: CONJ
 [Line                   811]: Unknown UPOS tag: CONJ
@@ -1970,8 +1702,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJ
 [Line                   1193]: Unknown UPOS tag: CONJ
 [Line                   1290]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 4803 errors
-Metadata errors: 2002
+*** FAILED *** with 6805 errors
+Metadata errors: 4004
 Morpho errors: 780
 Syntax errors: 2021
 
@@ -1986,24 +1718,32 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJ
 [Line                   11]: Unknown UD DEPREL: name
 [Line                   13]: Unknown UD DEPREL: dobj
 [Line                   31]: Missing the sent_id attribute.
+[Line                   31]: Missing the text attribute.
 [Line                   44]: Unknown UD DEPREL: dobj
 [Line                   51]: Missing the sent_id attribute.
+[Line                   51]: Missing the text attribute.
 [Line                   65]: Unknown UD DEPREL: dobj
 [Line                   70]: Missing the sent_id attribute.
+[Line                   70]: Missing the text attribute.
 [Line                   72]: Unknown UD DEPREL: nsubjpass
 [Line                   76]: Unknown UD DEPREL: auxpass
 [Line                   88]: Missing the sent_id attribute.
+[Line                   88]: Missing the text attribute.
 [Line                   107]: Unknown UD DEPREL: name
 [Line                   108]: Unknown UD DEPREL: name
 [Line                   116]: Unknown UD DEPREL: dobj
 [Line                   126]: Missing the sent_id attribute.
+[Line                   126]: Missing the text attribute.
 [Line                   129]: Unknown UD DEPREL: nsubjpass
 [Line                   131]: Unknown UD DEPREL: auxpass
 [Line                   141]: Missing the sent_id attribute.
+[Line                   141]: Missing the text attribute.
 [Line                   150]: Unknown UD DEPREL: dobj
 [Line                   156]: Missing the sent_id attribute.
+[Line                   156]: Missing the text attribute.
 [Line                   165]: Unknown UPOS tag: CONJ
 [Line                   174]: Missing the sent_id attribute.
+[Line                   174]: Missing the text attribute.
 [Line                   178]: Unknown UD DEPREL: nsubjpass
 [Line                   179]: Unknown UD DEPREL: auxpass
 [Line                   184]: Unknown UD DEPREL: dobj
@@ -2011,20 +1751,12 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJ
 [Line                   191]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
 [Line                   211]: Missing the sent_id attribute.
+[Line                   211]: Missing the text attribute.
 [Line                   233]: Missing the sent_id attribute.
-[Line                   254]: Missing the sent_id attribute.
-[Line                   285]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   295]: Unknown UPOS tag: CONJ
-[Line                   306]: Missing the sent_id attribute.
-[Line                   325]: Missing the sent_id attribute.
 [Line                   333]: Unknown UPOS tag: CONJ
 [Line                   348]: Unknown UPOS tag: CONJ
-[Line                   354]: Missing the sent_id attribute.
-[Line                   382]: Missing the sent_id attribute.
-[Line                   411]: Missing the sent_id attribute.
-[Line                   424]: Missing the sent_id attribute.
-[Line                   446]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   470]: Unknown UPOS tag: CONJ
 [Line                   502]: Unknown UPOS tag: CONJ
 [Line                   540]: Unknown UPOS tag: CONJ
@@ -2040,8 +1772,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJ
 [Line                   1018]: Unknown UPOS tag: CONJ
 [Line                   1040]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 35777 errors
-Metadata errors: 12543
+*** FAILED *** with 48320 errors
+Metadata errors: 25086
 Morpho errors: 6707
 Syntax errors: 16527
 
@@ -2055,7 +1787,7 @@ Syntax errors: 16527
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:06:10Z">2017-01-30T10:06:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:58:58Z">2017-01-30T11:58:58 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2064,56 +1796,56 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_
 [Line                   15]: Unknown UD DEPREL: neg
 [Line                   17]: Unknown UD DEPREL: dobj
 [Line                   19]: Missing the sent_id attribute.
+[Line                   19]: Missing the text attribute.
 [Line                   30]: Unknown UD DEPREL: dobj
 [Line                   33]: Unknown UPOS tag: CONJ
 [Line                   37]: Unknown UD DEPREL: dobj
 [Line                   41]: Missing the sent_id attribute.
+[Line                   41]: Missing the text attribute.
 [Line                   54]: Unknown UPOS tag: CONJ
 [Line                   69]: Unknown UD DEPREL: dobj
 [Line                   71]: Missing the sent_id attribute.
+[Line                   71]: Missing the text attribute.
 [Line                   77]: Unknown UD DEPREL: neg
 [Line                   83]: Unknown UD DEPREL: dobj
 [Line                   88]: Unknown UPOS tag: CONJ
 [Line                   95]: Missing the sent_id attribute.
+[Line                   95]: Missing the text attribute.
 [Line                   99]: Unknown UD DEPREL: dobj
 [Line                   121]: Unknown UPOS tag: CONJ
 [Line                   124]: Unknown UPOS tag: CONJ
 [Line                   127]: Missing the sent_id attribute.
+[Line                   127]: Missing the text attribute.
 [Line                   133]: Unknown UD DEPREL: neg
 [Line                   142]: Missing the sent_id attribute.
+[Line                   142]: Missing the text attribute.
 [Line                   158]: Unknown UPOS tag: CONJ
 [Line                   164]: Unknown UD DEPREL: neg
 [Line                   167]: Unknown UD DEPREL: dobj
 [Line                   182]: Missing the sent_id attribute.
+[Line                   182]: Missing the text attribute.
 [Line                   191]: Unknown UD DEPREL: dobj
 [Line                   199]: Unknown UD DEPREL: neg
 [Line                   202]: Unknown UD DEPREL: dobj
 [Line                   203]: Unknown UPOS tag: CONJ
 [Line                   207]: Missing the sent_id attribute.
+[Line                   207]: Missing the text attribute.
 [Line                   220]: Unknown UD DEPREL: neg
 [Line                   226]: Missing the sent_id attribute.
+[Line                   226]: Missing the text attribute.
 [Line                   235]: Unknown UD DEPREL: dobj
 [Line                   240]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   243]: Unknown UPOS tag: CONJ
 [Line                   246]: Unknown UD DEPREL: dobj
 [Line                   252]: Unknown UD DEPREL: dobj
 [Line                   256]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-[Line                   265]: Missing the sent_id attribute.
 [Line                   279]: Unknown UPOS tag: CONJ
-[Line                   287]: Missing the sent_id attribute.
-[Line                   302]: Missing the sent_id attribute.
-[Line                   313]: Missing the sent_id attribute.
 [Line                   331]: Unknown UPOS tag: CONJ
-[Line                   341]: Missing the sent_id attribute.
 [Line                   356]: Unknown UPOS tag: CONJ
-[Line                   370]: Missing the sent_id attribute.
 [Line                   377]: Unknown UPOS tag: CONJ
-[Line                   388]: Missing the sent_id attribute.
-[Line                   409]: Missing the sent_id attribute.
-[Line                   421]: Missing the sent_id attribute.
 [Line                   435]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   479]: Unknown UPOS tag: CONJ
 [Line                   517]: Unknown UPOS tag: CONJ
 [Line                   545]: Unknown UPOS tag: CONJ
@@ -2121,8 +1853,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_
 [Line                   638]: Unknown UPOS tag: CONJ
 [Line                   744]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1610 errors
-Metadata errors: 500
+*** FAILED *** with 2110 errors
+Metadata errors: 1000
 Morpho errors: 316
 Syntax errors: 794
 
@@ -2134,65 +1866,65 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_
 [Line                   13]: Unknown UPOS tag: CONJ
 [Line                   18]: Unknown UD DEPREL: dobj
 [Line                   20]: Missing the sent_id attribute.
+[Line                   20]: Missing the text attribute.
 [Line                   32]: Unknown UD DEPREL: neg
 [Line                   38]: Unknown UPOS tag: CONJ
 [Line                   45]: Unknown UD DEPREL: dobj
 [Line                   52]: Unknown UPOS tag: CONJ
 [Line                   57]: Missing the sent_id attribute.
+[Line                   57]: Missing the text attribute.
 [Line                   61]: Unknown UD DEPREL: mwe
 [Line                   76]: Unknown UD DEPREL: dobj
 [Line                   79]: Unknown UPOS tag: CONJ
 [Line                   83]: Missing the sent_id attribute.
+[Line                   83]: Missing the text attribute.
 [Line                   91]: Unknown UD DEPREL: nsubjpass
 [Line                   92]: Unknown UPOS tag: CONJ
 [Line                   95]: Unknown UD DEPREL: auxpass
 [Line                   97]: Unknown UD DEPREL: dobj
 [Line                   99]: Missing the sent_id attribute.
+[Line                   99]: Missing the text attribute.
 [Line                   113]: Unknown UD DEPREL: dobj
 [Line                   116]: Unknown UD DEPREL: dobj
 [Line                   118]: Unknown UD DEPREL: neg
 [Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
 [Line                   135]: Unknown UPOS tag: CONJ
 [Line                   140]: Unknown UD DEPREL: neg
 [Line                   141]: Unknown UD DEPREL: dobj
 [Line                   143]: Missing the sent_id attribute.
+[Line                   143]: Missing the text attribute.
 [Line                   153]: Unknown UPOS tag: CONJ
 [Line                   158]: Unknown UD DEPREL: dobj
 [Line                   160]: Missing the sent_id attribute.
+[Line                   160]: Missing the text attribute.
 [Line                   173]: Unknown UPOS tag: CONJ
 [Line                   176]: Missing the sent_id attribute.
+[Line                   176]: Missing the text attribute.
 [Line                   193]: Unknown UPOS tag: CONJ
 [Line                   195]: Unknown UD DEPREL: mwe
 [Line                   208]: Unknown UPOS tag: CONJ
 [Line                   218]: Missing the sent_id attribute.
+[Line                   218]: Missing the text attribute.
 [Line                   224]: Unknown UPOS tag: CONJ
 [Line                   227]: Unknown UPOS tag: CONJ
 [Line                   233]: Unknown UPOS tag: CONJ
 [Line                   237]: Unknown UD DEPREL: dobj
 [Line                   245]: Unknown UPOS tag: CONJ
 [Line                   254]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   264]: Unknown UD DEPREL: dobj
 [Line                   267]: Unknown UPOS tag: CONJ
 [Line                   268]: Unknown UD DEPREL: neg
 [Line                   275]: Unknown UD DEPREL: dobj
 [Line                   277]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Syntax
-[Line                   286]: Missing the sent_id attribute.
-[Line                   300]: Missing the sent_id attribute.
 [Line                   311]: Unknown UPOS tag: CONJ
-[Line                   317]: Missing the sent_id attribute.
 [Line                   323]: Unknown UPOS tag: CONJ
-[Line                   341]: Missing the sent_id attribute.
 [Line                   352]: Unknown UPOS tag: CONJ
-[Line                   354]: Missing the sent_id attribute.
 ...suppressing further errors regarding Morpho
-[Line                   376]: Missing the sent_id attribute.
-[Line                   398]: Missing the sent_id attribute.
-[Line                   423]: Missing the sent_id attribute.
-[Line                   441]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 13073 errors
-Metadata errors: 4124
+*** FAILED *** with 17197 errors
+Metadata errors: 8248
 Morpho errors: 2549
 Syntax errors: 6400
 
@@ -2206,7 +1938,7 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:06:15Z">2017-01-30T10:06:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:59:04Z">2017-01-30T11:59:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2215,12 +1947,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   2]: Unknown UD DEPREL: name
 [Line                   3]: Unknown UD DEPREL: name
 [Line                   6]: Missing the sent_id attribute.
+[Line                   6]: Missing the text attribute.
 [Line                   9]: Unknown UD DEPREL: neg
 [Line                   13]: Unknown UD DEPREL: name
 [Line                   17]: Unknown UD DEPREL: dobj
 [Line                   26]: Unknown UD DEPREL: nsubjpass
 [Line                   27]: Unknown UD DEPREL: auxpass
 [Line                   30]: Missing the sent_id attribute.
+[Line                   30]: Missing the text attribute.
 [Line                   34]: Unknown UPOS tag: CONJ
 [Line                   38]: Unknown UD DEPREL: dobj
 [Line                   41]: Unknown UD DEPREL: mwe
@@ -2230,8 +1964,10 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   66]: Unknown UD DEPREL: dobj
 [Line                   72]: Unknown UPOS tag: CONJ
 [Line                   75]: Missing the sent_id attribute.
+[Line                   75]: Missing the text attribute.
 [Line                   78]: Unknown UD DEPREL: dobj
 [Line                   83]: Missing the sent_id attribute.
+[Line                   83]: Missing the text attribute.
 [Line                   84]: Unknown UPOS tag: CONJ
 [Line                   87]: Unknown UD DEPREL: dobj
 [Line                   91]: Unknown UPOS tag: CONJ
@@ -2240,30 +1976,26 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   104]: Unknown UD DEPREL: dobj
 [Line                   105]: Unknown UD DEPREL: name
 [Line                   107]: Missing the sent_id attribute.
+[Line                   107]: Missing the text attribute.
 [Line                   110]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
 [Line                   117]: Missing the sent_id attribute.
+[Line                   117]: Missing the text attribute.
 [Line                   132]: Unknown UPOS tag: CONJ
 [Line                   140]: Unknown UPOS tag: CONJ
 [Line                   142]: Unknown UPOS tag: CONJ
 [Line                   149]: Missing the sent_id attribute.
+[Line                   149]: Missing the text attribute.
 [Line                   167]: Missing the sent_id attribute.
+[Line                   167]: Missing the text attribute.
 [Line                   186]: Missing the sent_id attribute.
+[Line                   186]: Missing the text attribute.
 [Line                   192]: Missing the sent_id attribute.
-[Line                   200]: Missing the sent_id attribute.
-[Line                   219]: Missing the sent_id attribute.
-[Line                   246]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   258]: Unknown UPOS tag: CONJ
 [Line                   269]: Unknown UPOS tag: CONJ
-[Line                   272]: Missing the sent_id attribute.
-[Line                   278]: Missing the sent_id attribute.
-[Line                   283]: Missing the sent_id attribute.
-[Line                   304]: Missing the sent_id attribute.
-[Line                   309]: Missing the sent_id attribute.
 [Line                   332]: Unknown UPOS tag: CONJ
 [Line                   337]: Unknown UPOS tag: CONJ
-[Line                   344]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   373]: Unknown UPOS tag: CONJ
 [Line                   377]: Unknown UPOS tag: CONJ
 [Line                   441]: Unknown UPOS tag: CONJ
@@ -2272,8 +2004,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   484]: Unknown UPOS tag: CONJ
 [Line                   492]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1343 errors
-Metadata errors: 457
+*** FAILED *** with 1800 errors
+Metadata errors: 914
 Morpho errors: 261
 Syntax errors: 625
 
@@ -2284,16 +2016,20 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 
 [Line                   2]: Unknown UD DEPREL: dobj
 [Line                   3]: Missing the sent_id attribute.
+[Line                   3]: Missing the text attribute.
 [Line                   12]: Unknown UD DEPREL: neg
 [Line                   19]: Missing the sent_id attribute.
+[Line                   19]: Missing the text attribute.
 [Line                   23]: Unknown UD DEPREL: dobj
 [Line                   24]: Unknown UD DEPREL: name
 [Line                   29]: Unknown UD DEPREL: name
 [Line                   30]: Unknown UD DEPREL: name
 [Line                   34]: Missing the sent_id attribute.
+[Line                   34]: Missing the text attribute.
 [Line                   46]: Unknown UPOS tag: CONJ
 [Line                   48]: Unknown UD DEPREL: neg
 [Line                   54]: Missing the sent_id attribute.
+[Line                   54]: Missing the text attribute.
 [Line                   56]: Unknown UD DEPREL: name
 [Line                   57]: Unknown UD DEPREL: name
 [Line                   58]: Unknown UD DEPREL: nsubjpass
@@ -2302,6 +2038,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   62]: Unknown UPOS tag: CONJ
 [Line                   78]: Unknown UD DEPREL: neg
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   91]: Unknown UPOS tag: CONJ
 [Line                   97]: Unknown UD DEPREL: dobj
@@ -2309,29 +2046,24 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   104]: Unknown UPOS tag: CONJ
 [Line                   106]: Unknown UD DEPREL: name
 [Line                   108]: Missing the sent_id attribute.
+[Line                   108]: Missing the text attribute.
 [Line                   120]: Unknown UPOS tag: CONJ
 [Line                   122]: Unknown UD DEPREL: neg
 [Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
 [Line                   137]: Unknown UD DEPREL: name
 [Line                   139]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Syntax
 [Line                   149]: Missing the sent_id attribute.
+[Line                   149]: Missing the text attribute.
 [Line                   168]: Missing the sent_id attribute.
+[Line                   168]: Missing the text attribute.
 [Line                   196]: Missing the sent_id attribute.
-[Line                   218]: Unknown UPOS tag: CONJ
-[Line                   227]: Missing the sent_id attribute.
-[Line                   233]: Missing the sent_id attribute.
-[Line                   246]: Missing the sent_id attribute.
-[Line                   259]: Unknown UPOS tag: CONJ
-[Line                   277]: Missing the sent_id attribute.
-[Line                   296]: Missing the sent_id attribute.
-[Line                   304]: Unknown UPOS tag: CONJ
-[Line                   308]: Missing the sent_id attribute.
-[Line                   321]: Missing the sent_id attribute.
-[Line                   339]: Missing the sent_id attribute.
-[Line                   353]: Missing the sent_id attribute.
-[Line                   366]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Metadata
+[Line                   218]: Unknown UPOS tag: CONJ
+[Line                   259]: Unknown UPOS tag: CONJ
+[Line                   304]: Unknown UPOS tag: CONJ
+[Line                   366]: Unknown UPOS tag: CONJ
 [Line                   415]: Unknown UPOS tag: CONJ
 [Line                   437]: Unknown UPOS tag: CONJ
 [Line                   473]: Unknown UPOS tag: CONJ
@@ -2342,8 +2074,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   655]: Unknown UPOS tag: CONJ
 [Line                   697]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 11142 errors
-Metadata errors: 3650
+*** FAILED *** with 14792 errors
+Metadata errors: 7300
 Morpho errors: 2012
 Syntax errors: 5480
 
@@ -2357,7 +2089,7 @@ Syntax errors: 5480
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:06:20Z">2017-01-30T10:06:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:59:08Z">2017-01-30T11:59:08 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2366,65 +2098,65 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJ
 [Line                   19]: Unknown attribute-value pair Negative=Neg
 [Line                   19]: Unknown UD DEPREL: neg
 [Line                   24]: Missing the sent_id attribute.
+[Line                   24]: Missing the text attribute.
 [Line                   36]: Missing the sent_id attribute.
+[Line                   36]: Missing the text attribute.
 [Line                   39]: Unknown UPOS tag: CONJ
 [Line                   40]: Unknown attribute-value pair Negative=Neg
 [Line                   48]: Unknown UD DEPREL: neg
 [Line                   54]: Unknown UPOS tag: CONJ
 [Line                   59]: Missing the sent_id attribute.
+[Line                   59]: Missing the text attribute.
 [Line                   71]: Unknown UD DEPREL: dobj
 [Line                   76]: Unknown attribute-value pair Negative=Neg
 [Line                   76]: Unknown UD DEPREL: neg
 [Line                   78]: Unknown UD DEPREL: dobj
 [Line                   81]: Unknown UPOS tag: CONJ
 [Line                   84]: Missing the sent_id attribute.
+[Line                   84]: Missing the text attribute.
 [Line                   88]: Unknown UPOS tag: CONJ
 [Line                   92]: Missing the sent_id attribute.
+[Line                   92]: Missing the text attribute.
 [Line                   106]: Unknown attribute-value pair Negative=Neg
 [Line                   110]: Missing the sent_id attribute.
+[Line                   110]: Missing the text attribute.
 [Line                   113]: Unknown UD DEPREL: dobj
 [Line                   124]: Missing the sent_id attribute.
+[Line                   124]: Missing the text attribute.
 [Line                   137]: Missing the sent_id attribute.
+[Line                   137]: Missing the text attribute.
 [Line                   152]: Unknown UPOS tag: CONJ
 [Line                   156]: Unknown UPOS tag: CONJ
 [Line                   174]: Missing the sent_id attribute.
+[Line                   174]: Missing the text attribute.
 [Line                   186]: Unknown UPOS tag: CONJ
 [Line                   191]: Unknown UD DEPREL: dobj
 [Line                   197]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   202]: Unknown attribute-value pair Negative=Neg
-[Line                   205]: Missing the sent_id attribute.
 [Line                   213]: Unknown UD DEPREL: dobj
 [Line                   224]: Unknown attribute-value pair Negative=Neg
 [Line                   224]: Unknown UD DEPREL: neg
-[Line                   231]: Missing the sent_id attribute.
-[Line                   253]: Missing the sent_id attribute.
 [Line                   260]: Unknown UD DEPREL: dobj
 [Line                   261]: Unknown UPOS tag: CONJ
 [Line                   271]: Unknown UD DEPREL: dobj
-[Line                   273]: Missing the sent_id attribute.
 [Line                   277]: Unknown attribute-value pair Negative=Neg
 [Line                   277]: Unknown UD DEPREL: neg
 [Line                   290]: Unknown UD DEPREL: dobj
-[Line                   294]: Missing the sent_id attribute.
 [Line                   297]: Unknown UPOS tag: CONJ
-[Line                   304]: Missing the sent_id attribute.
 [Line                   312]: Unknown UPOS tag: CONJ
 [Line                   316]: Unknown UD DEPREL: dobj
-[Line                   319]: Missing the sent_id attribute.
-[Line                   339]: Missing the sent_id attribute.
 [Line                   347]: Unknown UD DEPREL: dobj
 [Line                   350]: Unknown UD DEPREL: dobj
 [Line                   353]: Unknown UPOS tag: CONJ
-[Line                   357]: Missing the sent_id attribute.
 [Line                   363]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-...suppressing further errors regarding Metadata
 [Line                   385]: Unknown UD DEPREL: dobj
 [Line                   402]: Unknown UD DEPREL: dobj
 [Line                   428]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 4581 errors
-Metadata errors: 1793
+*** FAILED *** with 6374 errors
+Metadata errors: 3586
 Morpho errors: 1202
 Syntax errors: 1586
 
@@ -2434,56 +2166,56 @@ Syntax errors: 1586
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
 [Line                   8]: Missing the sent_id attribute.
+[Line                   8]: Missing the text attribute.
 [Line                   18]: Unknown UPOS tag: CONJ
 [Line                   38]: Missing the sent_id attribute.
+[Line                   38]: Missing the text attribute.
 [Line                   46]: Missing the sent_id attribute.
+[Line                   46]: Missing the text attribute.
 [Line                   49]: Unknown attribute-value pair Negative=Neg
 [Line                   54]: Unknown UPOS tag: CONJ
 [Line                   61]: Unknown UPOS tag: CONJ
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   85]: Unknown UD DEPREL: dobj
 [Line                   92]: Missing the sent_id attribute.
+[Line                   92]: Missing the text attribute.
 [Line                   114]: Missing the sent_id attribute.
+[Line                   114]: Missing the text attribute.
 [Line                   121]: Unknown UD DEPREL: dobj
 [Line                   125]: Unknown attribute-value pair Negative=Neg
 [Line                   125]: Unknown UD DEPREL: neg
 [Line                   128]: Unknown attribute-value pair Negative=Neg
 [Line                   131]: Missing the sent_id attribute.
+[Line                   131]: Missing the text attribute.
 [Line                   140]: Unknown UD DEPREL: dobj
 [Line                   147]: Unknown attribute-value pair Negative=Neg
 [Line                   147]: Unknown UD DEPREL: neg
 [Line                   152]: Unknown UD DEPREL: dobj
 [Line                   157]: Unknown UPOS tag: CONJ
 [Line                   164]: Missing the sent_id attribute.
+[Line                   164]: Missing the text attribute.
 [Line                   177]: Unknown UD DEPREL: dobj
 [Line                   180]: Missing the sent_id attribute.
+[Line                   180]: Missing the text attribute.
 [Line                   190]: Unknown UPOS tag: CONJ
 [Line                   200]: Unknown UD DEPREL: dobj
 [Line                   212]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   218]: Unknown UD DEPREL: dobj
 [Line                   229]: Unknown UD DEPREL: dobj
-[Line                   231]: Missing the sent_id attribute.
 [Line                   239]: Unknown UPOS tag: CONJ
-[Line                   243]: Missing the sent_id attribute.
 [Line                   248]: Unknown attribute-value pair Negative=Neg
 [Line                   248]: Unknown UD DEPREL: neg
 [Line                   252]: Unknown UPOS tag: CONJ
-[Line                   257]: Missing the sent_id attribute.
 [Line                   268]: Unknown UPOS tag: CONJ
-[Line                   272]: Missing the sent_id attribute.
 [Line                   288]: Unknown UD DEPREL: dobj
 [Line                   289]: Unknown attribute-value pair Negative=Neg
-[Line                   293]: Missing the sent_id attribute.
 [Line                   296]: Unknown UPOS tag: CONJ
 [Line                   308]: Unknown UD DEPREL: dobj
 [Line                   311]: Unknown UD DEPREL: dobj
-[Line                   314]: Missing the sent_id attribute.
 [Line                   319]: Unknown UD DEPREL: dobj
-[Line                   321]: Missing the sent_id attribute.
 [Line                   328]: Unknown UPOS tag: CONJ
-[Line                   334]: Missing the sent_id attribute.
-[Line                   341]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   389]: Unknown UD DEPREL: dobj
 [Line                   395]: Unknown UPOS tag: CONJ
 [Line                   399]: Unknown UD DEPREL: dobj
@@ -2493,8 +2225,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJ
 [Line                   451]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 36882 errors
-Metadata errors: 14510
+*** FAILED *** with 51392 errors
+Metadata errors: 29020
 Morpho errors: 9463
 Syntax errors: 12909
 
@@ -2508,27 +2240,34 @@ Syntax errors: 12909
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:06:37Z">2017-01-30T10:06:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:59:27Z">2017-01-30T11:59:27 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Faroese/fo-ud-dev.conllu
 
 [Line                   7]: Missing the sent_id attribute.
+[Line                   7]: Missing the text attribute.
 [Line                   14]: Missing the sent_id attribute.
+[Line                   14]: Missing the text attribute.
 [Line                   22]: Missing the sent_id attribute.
+[Line                   22]: Missing the text attribute.
 [Line                   32]: Missing the sent_id attribute.
+[Line                   32]: Missing the text attribute.
 [Line                   39]: Missing the sent_id attribute.
+[Line                   39]: Missing the text attribute.
 [Line                   41]: '40 %' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   41]: '40 %' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   47]: Missing the sent_id attribute.
+[Line                   47]: Missing the text attribute.
 [Line                   57]: DEPREL can only be "root" if HEAD is 0
 [Tree number 7 on line 48]: HEAD == ID for 9
 [Tree number 7 on line 48]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9 are not reachable from the root 0.
 [Line                   57]: Missing the sent_id attribute.
-*** FAILED *** with 12 errors
+[Line                   57]: Missing the text attribute.
+*** FAILED *** with 19 errors
 Format errors: 3
-Metadata errors: 7
+Metadata errors: 14
 Syntax errors: 2
 The language-specific file %s does not exist.
 
@@ -2539,21 +2278,26 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 
 [Tree number 1 on line 2]: Multiple root words: [1, 2, 3, 4]
 [Line                   6]: Missing the sent_id attribute.
+[Line                   6]: Missing the text attribute.
 [Tree number 2 on line 7]: Multiple root words: [1, 2]
 [Line                   9]: Missing the sent_id attribute.
+[Line                   9]: Missing the text attribute.
 [Line                   14]: Unknown UPOS tag: CONJ
 [Line                   18]: Unknown UPOS tag: CONJ
 [Line                   29]: Unknown UPOS tag: CONJ
 [Line                   43]: Unknown UPOS tag: CONJ
 [Tree number 3 on line 10]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
 [Line                   64]: Missing the sent_id attribute.
+[Line                   64]: Missing the text attribute.
 [Tree number 4 on line 65]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 [Line                   78]: Missing the sent_id attribute.
+[Line                   78]: Missing the text attribute.
 [Line                   89]: Unknown UPOS tag: CONJ
 [Line                   97]: Unknown UPOS tag: CONJ
 [Line                   102]: Unknown UPOS tag: CONJ
 [Tree number 5 on line 79]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
 [Line                   116]: Missing the sent_id attribute.
+[Line                   116]: Missing the text attribute.
 [Line                   123]: Unknown UPOS tag: CONJ
 [Line                   161]: Unknown UPOS tag: CONJ
 [Line                   164]: Unknown UPOS tag: CONJ
@@ -2561,13 +2305,16 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 [Line                   180]: Unknown UPOS tag: CONJ
 [Tree number 6 on line 117]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]
 [Line                   190]: Missing the sent_id attribute.
+[Line                   190]: Missing the text attribute.
 [Tree number 7 on line 191]: Multiple root words: [1, 2, 3]
 [Line                   194]: Missing the sent_id attribute.
+[Line                   194]: Missing the text attribute.
 [Line                   198]: Unknown UPOS tag: CONJ
 [Line                   217]: Unknown UPOS tag: CONJ
 [Line                   221]: Unknown UPOS tag: CONJ
 [Tree number 8 on line 195]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
 [Line                   227]: Missing the sent_id attribute.
+[Line                   227]: Missing the text attribute.
 [Line                   247]: Unknown UPOS tag: CONJ
 [Line                   264]: Unknown UPOS tag: CONJ
 [Line                   286]: Unknown UPOS tag: CONJ
@@ -2575,30 +2322,22 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 ...suppressing further errors regarding Morpho
 [Tree number 9 on line 228]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97]
 [Line                   325]: Missing the sent_id attribute.
+[Line                   325]: Missing the text attribute.
 [Tree number 10 on line 326]: Multiple root words: [1, 2, 3]
 [Line                   329]: Missing the sent_id attribute.
-[Tree number 11 on line 330]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132]
-[Line                   462]: Missing the sent_id attribute.
-[Tree number 12 on line 463]: Multiple root words: [1, 2]
-[Line                   465]: Missing the sent_id attribute.
-[Tree number 13 on line 466]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86]
-[Line                   552]: Missing the sent_id attribute.
-[Line                   554]: Missing the sent_id attribute.
-[Tree number 15 on line 555]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
-[Line                   591]: Missing the sent_id attribute.
-[Tree number 16 on line 592]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
-[Line                   648]: Missing the sent_id attribute.
-[Tree number 17 on line 649]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]
-[Line                   720]: Missing the sent_id attribute.
-[Tree number 18 on line 722]: Multiple root words: [1, 2, 3]
-[Line                   725]: Missing the sent_id attribute.
-[Tree number 19 on line 726]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53]
-[Line                   779]: Missing the sent_id attribute.
-[Tree number 20 on line 780]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
 ...suppressing further errors regarding Metadata
+[Tree number 11 on line 330]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132]
+[Tree number 12 on line 463]: Multiple root words: [1, 2]
+[Tree number 13 on line 466]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86]
+[Tree number 15 on line 555]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+[Tree number 16 on line 592]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
+[Tree number 17 on line 649]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]
+[Tree number 18 on line 722]: Multiple root words: [1, 2, 3]
+[Tree number 19 on line 726]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53]
+[Tree number 20 on line 780]: Multiple root words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 15811 errors
-Metadata errors: 3603
+*** FAILED *** with 19414 errors
+Metadata errors: 7206
 Morpho errors: 8661
 Syntax errors: 3547
 
@@ -2610,11 +2349,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 [Line                   1]: Unknown UD DEPREL: nsubj:cop
 [Line                   9]: Unknown UD DEPREL: nsubj:cop
 [Line                   12]: Missing the sent_id attribute.
+[Line                   12]: Missing the text attribute.
 [Line                   16]: Missing the sent_id attribute.
+[Line                   16]: Missing the text attribute.
 [Tree number 3 on line 17]: HEAD == ID for 1
 [Tree number 3 on line 17]: HEAD == ID for 7
 [Tree number 3 on line 17]: Non-tree structure. Words 1,7 are not reachable from the root 0.
 [Line                   24]: Missing the sent_id attribute.
+[Line                   24]: Missing the text attribute.
 [Tree number 4 on line 25]: HEAD == ID for 1
 [Tree number 4 on line 25]: HEAD == ID for 2
 [Tree number 4 on line 25]: HEAD == ID for 3
@@ -2629,44 +2371,41 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 [Tree number 4 on line 25]: HEAD == ID for 14
 [Tree number 4 on line 25]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14 are not reachable from the root 0.
 [Line                   39]: Missing the sent_id attribute.
+[Line                   39]: Missing the text attribute.
 [Tree number 5 on line 40]: HEAD == ID for 4
 [Tree number 5 on line 40]: HEAD == ID for 5
 [Tree number 5 on line 40]: HEAD == ID for 7
 [Tree number 5 on line 40]: HEAD == ID for 8
 [Tree number 5 on line 40]: Non-tree structure. Words 3,4,5,6,7,8 are not reachable from the root 0.
 [Line                   48]: Missing the sent_id attribute.
+[Line                   48]: Missing the text attribute.
 [Tree number 6 on line 49]: HEAD == ID for 2
 ...suppressing further errors regarding Format
 [Tree number 6 on line 49]: Non-tree structure. Words 1,2,6,7,8,9,10,11,12,13 are not reachable from the root 0.
 [Line                   62]: Missing the sent_id attribute.
+[Line                   62]: Missing the text attribute.
 [Tree number 7 on line 63]: Non-tree structure. Words 3,6,7,8 are not reachable from the root 0.
 [Line                   71]: Missing the sent_id attribute.
+[Line                   71]: Missing the text attribute.
 [Tree number 8 on line 72]: Non-tree structure. Words 4 are not reachable from the root 0.
 [Line                   76]: Missing the sent_id attribute.
+[Line                   76]: Missing the text attribute.
 [Tree number 9 on line 77]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12 are not reachable from the root 0.
 [Line                   89]: Missing the sent_id attribute.
+[Line                   89]: Missing the text attribute.
 [Tree number 10 on line 90]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
 [Line                   98]: Missing the sent_id attribute.
-[Tree number 11 on line 99]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 are not reachable from the root 0.
-[Line                   114]: Missing the sent_id attribute.
-[Tree number 12 on line 115]: Non-tree structure. Words 1,2,3,4,5,6,7 are not reachable from the root 0.
-[Line                   122]: Missing the sent_id attribute.
-[Tree number 13 on line 123]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10 are not reachable from the root 0.
-[Line                   133]: Missing the sent_id attribute.
-[Tree number 14 on line 134]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11 are not reachable from the root 0.
-[Line                   145]: Missing the sent_id attribute.
-[Tree number 15 on line 146]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9 are not reachable from the root 0.
-[Line                   155]: Missing the sent_id attribute.
-[Tree number 16 on line 156]: Non-tree structure. Words 1,2,5,6,9 are not reachable from the root 0.
-[Line                   165]: Missing the sent_id attribute.
-[Tree number 17 on line 166]: Non-tree structure. Words 1,2,3,4,5,6 are not reachable from the root 0.
-[Line                   172]: Missing the sent_id attribute.
-[Tree number 18 on line 173]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 are not reachable from the root 0.
-[Line                   188]: Missing the sent_id attribute.
-[Tree number 19 on line 189]: Non-tree structure. Words 2,6 are not reachable from the root 0.
-[Line                   195]: Missing the sent_id attribute.
-...suppressing further errors regarding Syntax
 ...suppressing further errors regarding Metadata
+[Tree number 11 on line 99]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 are not reachable from the root 0.
+[Tree number 12 on line 115]: Non-tree structure. Words 1,2,3,4,5,6,7 are not reachable from the root 0.
+[Tree number 13 on line 123]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10 are not reachable from the root 0.
+[Tree number 14 on line 134]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11 are not reachable from the root 0.
+[Tree number 15 on line 146]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9 are not reachable from the root 0.
+[Tree number 16 on line 156]: Non-tree structure. Words 1,2,5,6,9 are not reachable from the root 0.
+[Tree number 17 on line 166]: Non-tree structure. Words 1,2,3,4,5,6 are not reachable from the root 0.
+[Tree number 18 on line 173]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 are not reachable from the root 0.
+[Tree number 19 on line 189]: Non-tree structure. Words 2,6 are not reachable from the root 0.
+...suppressing further errors regarding Syntax
 [Line                   638]: Unknown attribute-value pair PronType=Ref
 [Line                   862]: Unknown attribute-value pair PronType=Itg
 [Line                   1145]: Unknown attribute-value pair PronType=Pos
@@ -2687,9 +2426,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 [Line                   6510]: Unknown attribute-value pair PronType=Ref
 [Line                   6700]: Unknown attribute-value pair PronType=Ref
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 11935 errors
+*** FAILED *** with 13356 errors
 Format errors: 9061
-Metadata errors: 1421
+Metadata errors: 2842
 Morpho errors: 34
 Syntax errors: 1419
 The language-specific file %s does not exist.
@@ -2704,7 +2443,7 @@ The language-specific file %s does not exist.
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:06:49Z">2017-01-30T10:06:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:59:38Z">2017-01-30T11:59:38 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2715,63 +2454,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi /home/ginter/UD_PROJ
 [Line                   6]: Unknown UD DEPREL: name
 [Line                   7]: Unknown UD DEPREL: name
 [Line                   8]: Missing the sent_id attribute.
+[Line                   8]: Missing the text attribute.
 [Line                   18]: Missing the sent_id attribute.
+[Line                   18]: Missing the text attribute.
 [Line                   23]: Unknown UD DEPREL: dobj
 [Line                   24]: Unknown UD DEPREL: name
 [Line                   25]: Unknown UD DEPREL: name
 [Line                   26]: Unknown UPOS tag: CONJ
 [Line                   29]: Unknown UD DEPREL: dobj
 [Line                   33]: Missing the sent_id attribute.
+[Line                   33]: Missing the text attribute.
 [Line                   44]: Missing the sent_id attribute.
+[Line                   44]: Missing the text attribute.
 [Line                   60]: Missing the sent_id attribute.
+[Line                   60]: Missing the text attribute.
 [Line                   64]: Unknown UPOS tag: CONJ
 [Line                   71]: Unknown UPOS tag: CONJ
 [Line                   78]: Missing the sent_id attribute.
+[Line                   78]: Missing the text attribute.
 [Line                   82]: Unknown UPOS tag: CONJ
 [Line                   85]: Unknown UD DEPREL: dobj
 [Line                   87]: Unknown UPOS tag: CONJ
 [Line                   91]: Unknown UD DEPREL: dobj
 [Line                   93]: Missing the sent_id attribute.
+[Line                   93]: Missing the text attribute.
 [Line                   95]: Unknown UD DEPREL: dobj
 [Line                   110]: Missing the sent_id attribute.
+[Line                   110]: Missing the text attribute.
 [Line                   120]: Missing the sent_id attribute.
+[Line                   120]: Missing the text attribute.
 [Line                   124]: Unknown UD DEPREL: dobj
 [Line                   127]: Missing the sent_id attribute.
-[Line                   135]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   140]: Unknown UD DEPREL: name
 [Line                   142]: Unknown UPOS tag: CONJ
 [Line                   146]: Unknown UPOS tag: CONJ
-[Line                   154]: Missing the sent_id attribute.
 [Line                   159]: Unknown attribute-value pair Negative=Neg
 [Line                   159]: Unknown UD DEPREL: neg
-[Line                   164]: Missing the sent_id attribute.
 [Line                   171]: Unknown attribute-value pair Negative=Neg
 [Line                   171]: Unknown UD DEPREL: neg
 [Line                   177]: Unknown UPOS tag: CONJ
-[Line                   182]: Missing the sent_id attribute.
 [Line                   189]: Unknown UD DEPREL: dobj
-[Line                   204]: Missing the sent_id attribute.
-[Line                   211]: Missing the sent_id attribute.
 [Line                   218]: Unknown UPOS tag: CONJ
-[Line                   223]: Missing the sent_id attribute.
 [Line                   227]: Unknown attribute-value pair Negative=Neg
 [Line                   227]: Unknown UD DEPREL: neg
 [Line                   233]: Unknown UPOS tag: CONJ
-[Line                   238]: Missing the sent_id attribute.
 [Line                   240]: Unknown UD DEPREL: dobj
 [Line                   251]: Unknown UD DEPREL: dobj
-[Line                   258]: Missing the sent_id attribute.
 [Line                   261]: Unknown attribute-value pair Negative=Neg
 ...suppressing further errors regarding Syntax
 [Line                   267]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   283]: Unknown UPOS tag: CONJ
 [Line                   299]: Unknown UPOS tag: CONJ
 [Line                   320]: Unknown UPOS tag: CONJ
 [Line                   335]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 2231 errors
-Metadata errors: 716
+*** FAILED *** with 2947 errors
+Metadata errors: 1432
 Morpho errors: 535
 Syntax errors: 980
 
@@ -2781,53 +2520,53 @@ Syntax errors: 980
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 
 [Line                   5]: Missing the sent_id attribute.
+[Line                   5]: Missing the text attribute.
 [Line                   12]: Unknown UPOS tag: CONJ
 [Line                   14]: Unknown UD DEPREL: dobj
 [Line                   17]: Missing the sent_id attribute.
+[Line                   17]: Missing the text attribute.
 [Line                   28]: Unknown UD DEPREL: dobj
 [Line                   34]: Missing the sent_id attribute.
+[Line                   34]: Missing the text attribute.
 [Line                   42]: Missing the sent_id attribute.
+[Line                   42]: Missing the text attribute.
 [Line                   56]: Missing the sent_id attribute.
+[Line                   56]: Missing the text attribute.
 [Line                   60]: Unknown dependency relation 'name' in '2:name'
 [Line                   65]: Unknown UPOS tag: CONJ
 [Line                   67]: Missing the sent_id attribute.
+[Line                   67]: Missing the text attribute.
 [Line                   72]: Missing the sent_id attribute.
+[Line                   72]: Missing the text attribute.
 [Line                   80]: Unknown UD DEPREL: dobj
 [Line                   82]: Missing the sent_id attribute.
+[Line                   82]: Missing the text attribute.
 [Line                   87]: Unknown UPOS tag: CONJ
 [Line                   92]: Missing the sent_id attribute.
+[Line                   92]: Missing the text attribute.
 [Line                   95]: Unknown UD DEPREL: dobj
 [Line                   96]: Unknown attribute-value pair Negative=Neg
 [Line                   96]: Unknown UD DEPREL: neg
 [Line                   104]: Unknown dependency relation 'name' in '10:name'
 [Line                   106]: Missing the sent_id attribute.
-[Line                   110]: Missing the sent_id attribute.
-[Line                   125]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   130]: Unknown UD DEPREL: dobj
 [Line                   132]: Unknown UPOS tag: CONJ
 [Line                   135]: Unknown UD DEPREL: dobj
-[Line                   139]: Missing the sent_id attribute.
-[Line                   145]: Missing the sent_id attribute.
 [Line                   150]: Unknown UD DEPREL: dobj
 [Line                   160]: Unknown UD DEPREL: dobj
 [Line                   161]: Unknown UPOS tag: CONJ
 [Line                   166]: Unknown UD DEPREL: dobj
-[Line                   168]: Missing the sent_id attribute.
-[Line                   172]: Missing the sent_id attribute.
-[Line                   181]: Missing the sent_id attribute.
 [Line                   185]: Unknown attribute-value pair Negative=Neg
 [Line                   185]: Unknown UD DEPREL: neg
 [Line                   187]: Unknown UD DEPREL: mwe
 [Line                   191]: Unknown UPOS tag: CONJ
 [Line                   197]: Unknown UD DEPREL: dobj
-[Line                   201]: Missing the sent_id attribute.
 [Line                   205]: Unknown UD DEPREL: name
-[Line                   215]: Missing the sent_id attribute.
 [Line                   227]: Unknown UD DEPREL: mwe
 [Line                   231]: Unknown UD DEPREL: dobj
 [Line                   234]: Unknown UPOS tag: CONJ
 [Line                   241]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Metadata
 [Line                   261]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Syntax
 [Line                   275]: Unknown UPOS tag: CONJ
@@ -2840,8 +2579,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi /home/ginter/UD_PROJ
 [Line                   434]: Unknown attribute-value pair Negative=Neg
 [Line                   494]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 37291 errors
-Metadata errors: 12217
+*** FAILED *** with 49508 errors
+Metadata errors: 24434
 Morpho errors: 8809
 Syntax errors: 16265
 
@@ -2855,7 +2594,7 @@ Syntax errors: 16265
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:07:03Z">2017-01-30T10:07:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:59:53Z">2017-01-30T11:59:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2863,18 +2602,35 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_
 
 [Line                   19]: Morphological features must be sorted: 'Case=Ill|NumType=Card|Number=Plur|Style=Coll'
 [Line                   136]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   380]: Mismatch between the text attribute and the FORM field. Form is 'Ehkei' but text is 'Ehk ei se tullut ....'
+[Line                   380]: Mismatch between the text attribute and the FORM field. Form is 'se' but text is 'Ehk ei se tullut ....'
+[Line                   380]: Mismatch between the text attribute and the FORM field. Form is 'tullut' but text is 'Ehk ei se tullut ....'
+[Line                   380]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'Ehk ei se tullut ....'
+[Line                   380]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Ehk ei se tullut .'
+[Line                   411]: Mismatch between the text attribute and the FORM field. Form is 'etteivät' but text is 'ett eivät --...'
+[Line                   411]: Mismatch between the text attribute and the FORM field. Form is '--' but text is 'ett eivät --...'
+[Line                   411]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett eivät --'
 [Line                   487]: Morphological features must be sorted: 'Case=Ine|NumType=Ord|Number=Sing'
 [Line                   510]: Morphological features must be sorted: 'Case=Ill|NumType=Card|Number=Sing|Style=Coll'
 [Line                   594]: Morphological features must be sorted: 'Case=Ade|NumType=Ord|Number=Sing'
 [Line                   723]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 [Line                   836]: Morphological features must be sorted: 'Case=Ess|NumType=Card|Number=Sing'
+[Line                   965]: Mismatch between the text attribute and the FORM field. Form is 'etteivät' but text is 'ett eivät housunpuntit töhrä...'
+[Line                   965]: Mismatch between the text attribute and the FORM field. Form is 'housunpuntit' but text is 'ett eivät housunpuntit töhräänny...'
+[Line                   965]: Mismatch between the text attribute and the FORM field. Form is 'töhräänny' but text is 'ett eivät housunpuntit töhrää...'
+[Line                   965]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ett eivät housunpunti...'
+[Line                   965]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett eivät housunpuntit töhräänny .'
 [Line                   1125]: Morphological features must be sorted: 'Case=Gen|NumType=Card|Number=Sing'
 [Line                   1143]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
-[Line                   1369]: Missing the sent_id attribute.
-[Line                   1376]: Missing the sent_id attribute.
-[Line                   1422]: Missing the sent_id attribute.
 [Line                   1570]: Morphological features must be sorted: 'Case=Gen|NumType=Card|Number=Sing'
 [Line                   1595]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'ellei' but text is 'ell ei anna ilmi kavereit...'
+[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'anna' but text is 'ell ei anna ilmi kaverei...'
+[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'ilmi' but text is 'ell ei anna ilmi kaverei...'
+[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'kavereitaan' but text is 'ell ei anna ilmi kavereitaan . ...'
+[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ell ei anna ilmi kave...'
+[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is '"' but text is 'ell ei anna ilmi kave...'
+...suppressing further errors regarding Metadata
 [Line                   1662]: Morphological features must be sorted: 'Case=Par|NumType=Card|Number=Plur'
 [Line                   1663]: Morphological features must be sorted: 'Case=Par|NumType=Card|Number=Plur'
 [Line                   1703]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Plur'
@@ -2884,25 +2640,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_
 [Line                   2811]: Morphological features must be sorted: 'Case=Gen|NumType=Card|Number=Sing'
 [Line                   2852]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 ...suppressing further errors regarding Morpho
-[Line                   3293]: Missing the sent_id attribute.
-[Line                   3513]: Missing the sent_id attribute.
-[Line                   6380]: Missing the sent_id attribute.
-[Line                   6731]: Missing the sent_id attribute.
-[Line                   7090]: Missing the sent_id attribute.
-[Line                   7968]: Missing the sent_id attribute.
-[Line                   8987]: Missing the sent_id attribute.
-[Line                   9416]: Missing the sent_id attribute.
-[Line                   9514]: Missing the sent_id attribute.
-[Line                   11253]: Missing the sent_id attribute.
-[Line                   15250]: Missing the sent_id attribute.
-[Line                   16299]: Missing the sent_id attribute.
-[Line                   18530]: Missing the sent_id attribute.
-[Line                   20135]: Missing the sent_id attribute.
-[Line                   20225]: Missing the sent_id attribute.
-[Line                   20544]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 185 errors
-Metadata errors: 21
+*** FAILED *** with 372 errors
+Metadata errors: 208
 Morpho errors: 164
 
 
@@ -2912,15 +2651,35 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_
 
 [Line                   92]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
 [Line                   127]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
+[Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'ettei' but text is 'ett ei sateevarjo kukkaam...'
+[Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'sateevarjo' but text is 'ett ei sateevarjo kukkaam pitä...'
+[Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'kukkaam' but text is 'ett ei sateevarjo kukkaam p...'
+[Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'pitäis' but text is 'ett ei sateevarjo kukkaam ...'
+[Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'siäl' but text is 'ett ei sateevarjo kukkaa...'
+[Line                   143]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ett ei sateevarjo kuk...'
+[Line                   143]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett ei sateevarjo kukkaam pitäis siäl .'
 [Line                   184]: Morphological features must be sorted: 'Case=Par|NumType=Ord|Number=Sing'
 [Line                   246]: Morphological features must be sorted: 'Case=Tra|NumType=Ord|Number=Sing|Style=Coll'
 [Line                   400]: Morphological features must be sorted: 'Case=Ade|NumType=Ord|Number=Sing|Style=Coll'
 [Line                   650]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 [Line                   762]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
+[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'etten' but text is 'ett en ollut tuntenut hän...'
+[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'ollut' but text is 'ett en ollut tuntenut hän...'
+[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'tuntenut' but text is 'ett en ollut tuntenut häntä ...'
+[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'häntä' but text is 'ett en ollut tuntenut hän...'
+[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'ilman' but text is 'ett en ollut tuntenut hän...'
+[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'silmälaseja' but text is 'ett en ollut tuntenut häntä ilm...'
+[Line                   833]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ett en ollut tuntenut...'
+[Line                   833]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett en ollut tuntenut häntä ilman silmälaseja .'
 [Line                   1415]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 [Line                   1421]: Morphological features must be sorted: 'Case=Ill|NumType=Ord|Number=Sing'
 [Line                   1531]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
 [Line                   1532]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
+[Line                   1542]: Mismatch between the text attribute and the FORM field. Form is 'Miksei' but text is 'Miks ei mentäs naimisiin ?...'
+[Line                   1542]: Mismatch between the text attribute and the FORM field. Form is 'mentäs' but text is 'Miks ei mentäs naimisiin ?...'
+[Line                   1542]: Mismatch between the text attribute and the FORM field. Form is 'naimisiin' but text is 'Miks ei mentäs naimisiin ?...'
+[Line                   1542]: Mismatch between the text attribute and the FORM field. Form is '?' but text is 'Miks ei mentäs naimis...'
+...suppressing further errors regarding Metadata
 [Line                   2118]: Morphological features must be sorted: 'Case=Ade|NumType=Ord|Number=Sing'
 [Line                   2171]: Morphological features must be sorted: 'Case=Gen|Clitic=Kin|NumType=Card|Number=Sing'
 [Line                   2505]: Morphological features must be sorted: 'Case=Par|NumType=Card|Number=Sing'
@@ -2930,28 +2689,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_
 [Line                   3892]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 [Line                   3921]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 ...suppressing further errors regarding Morpho
-[Line                   4751]: Missing the sent_id attribute.
-[Line                   4759]: Missing the sent_id attribute.
-[Line                   7510]: Missing the sent_id attribute.
-[Line                   7518]: Missing the sent_id attribute.
-[Line                   8360]: Missing the sent_id attribute.
-[Line                   8370]: Missing the sent_id attribute.
-[Line                   10038]: Missing the sent_id attribute.
-[Line                   10053]: Missing the sent_id attribute.
-[Line                   10265]: Missing the sent_id attribute.
-[Line                   10271]: Missing the sent_id attribute.
-[Line                   10851]: Missing the sent_id attribute.
-[Line                   11046]: Missing the sent_id attribute.
-[Line                   13848]: Missing the sent_id attribute.
-[Line                   13859]: Missing the sent_id attribute.
-[Line                   18656]: Missing the sent_id attribute.
-[Line                   18701]: Missing the sent_id attribute.
-[Line                   19085]: Missing the sent_id attribute.
-[Line                   19096]: Missing the sent_id attribute.
-[Line                   23478]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1659 errors
-Metadata errors: 212
+*** FAILED *** with 3456 errors
+Metadata errors: 2009
 Morpho errors: 1447
 
 
@@ -2964,74 +2703,74 @@ Morpho errors: 1447
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:07:16Z">2017-01-30T10:07:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:00:08Z">2017-01-30T12:00:08 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-dev.conllu
 
 [Line                   13]: Missing the sent_id attribute.
+[Line                   13]: Missing the text attribute.
 [Line                   20]: Unknown UD DEPREL: dobj
 [Line                   21]: Unknown UPOS tag: CONJ
 [Line                   30]: Missing the sent_id attribute.
+[Line                   30]: Missing the text attribute.
 [Line                   33]: Unknown UPOS tag: CONJ
 [Line                   42]: Missing the sent_id attribute.
+[Line                   42]: Missing the text attribute.
 [Line                   60]: Unknown UPOS tag: CONJ
 [Line                   68]: Unknown UPOS tag: CONJ
 [Line                   77]: Unknown UD DEPREL: dobj
 [Line                   97]: Missing the sent_id attribute.
+[Line                   97]: Missing the text attribute.
 [Line                   112]: Missing the sent_id attribute.
+[Line                   112]: Missing the text attribute.
 [Line                   116]: Unknown UD DEPREL: name
 [Line                   125]: Unknown UPOS tag: CONJ
 [Line                   127]: Unknown UD DEPREL: name
 [Line                   147]: Unknown UPOS tag: CONJ
 [Line                   153]: Missing the sent_id attribute.
+[Line                   153]: Missing the text attribute.
 [Line                   168]: Missing the sent_id attribute.
+[Line                   168]: Missing the text attribute.
 [Line                   177]: Unknown UD DEPREL: neg
 [Line                   179]: Unknown UD DEPREL: neg
 [Line                   181]: Unknown UD DEPREL: dobj
 [Line                   183]: Missing the sent_id attribute.
+[Line                   183]: Missing the text attribute.
 [Line                   198]: Missing the sent_id attribute.
+[Line                   198]: Missing the text attribute.
 [Line                   210]: Unknown UD DEPREL: dobj
 [Line                   215]: Unknown UD DEPREL: mwe
 [Line                   234]: Unknown UD DEPREL: dobj
 [Line                   239]: Unknown UD DEPREL: name
 [Line                   244]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   247]: Unknown UPOS tag: CONJ
 [Line                   251]: Unknown UD DEPREL: neg
 [Line                   253]: Unknown UD DEPREL: neg
-[Line                   259]: Missing the sent_id attribute.
 [Line                   269]: Unknown UD DEPREL: name
-[Line                   281]: Missing the sent_id attribute.
 [Line                   288]: Unknown UD DEPREL: dobj
 [Line                   291]: Unknown UPOS tag: CONJ
 [Line                   300]: Unknown UD DEPREL: dobj
 [Line                   308]: Unknown UD DEPREL: dobj
-[Line                   310]: Missing the sent_id attribute.
 [Line                   314]: Unknown UD DEPREL: name
 [Line                   323]: Unknown UPOS tag: CONJ
 [Line                   336]: Unknown UPOS tag: CONJ
-[Line                   358]: Missing the sent_id attribute.
 [Line                   372]: Unknown UPOS tag: CONJ
 [Line                   379]: Unknown UD DEPREL: dobj
-[Line                   385]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   418]: Missing the sent_id attribute.
 [Line                   431]: Unknown UPOS tag: CONJ
-[Line                   445]: Missing the sent_id attribute.
 [Line                   458]: Unknown UPOS tag: CONJ
 [Line                   481]: Unknown UPOS tag: CONJ
-[Line                   486]: Missing the sent_id attribute.
-[Line                   513]: Missing the sent_id attribute.
 [Line                   523]: Unknown UPOS tag: CONJ
 [Line                   544]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   571]: Unknown UPOS tag: CONJ
 [Line                   590]: Unknown UPOS tag: CONJ
 [Line                   603]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 5815 errors
-Metadata errors: 1596
+*** FAILED *** with 7411 errors
+Metadata errors: 3192
 Morpho errors: 952
 Syntax errors: 3267
 
@@ -3042,19 +2781,25 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJ
 
 [Line                   15]: Unknown UD DEPREL: dobj
 [Line                   22]: Missing the sent_id attribute.
+[Line                   22]: Missing the text attribute.
 [Line                   43]: Missing the sent_id attribute.
+[Line                   43]: Missing the text attribute.
 [Line                   53]: Unknown UD DEPREL: mwe
 [Line                   61]: Unknown UD DEPREL: neg
 [Line                   69]: Unknown UD DEPREL: mwe
 [Line                   76]: Unknown UPOS tag: CONJ
 [Line                   79]: Unknown UD DEPREL: mwe
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   90]: Unknown UD DEPREL: dobj
 [Line                   92]: Missing the sent_id attribute.
+[Line                   92]: Missing the text attribute.
 [Line                   97]: Unknown UPOS tag: CONJ
 [Line                   107]: Unknown UD DEPREL: dobj
 [Line                   113]: Missing the sent_id attribute.
+[Line                   113]: Missing the text attribute.
 [Line                   121]: Missing the sent_id attribute.
+[Line                   121]: Missing the text attribute.
 [Line                   128]: Unknown UD DEPREL: dobj
 [Line                   131]: Unknown UD DEPREL: name
 [Line                   132]: Unknown UD DEPREL: name
@@ -3063,32 +2808,26 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJ
 [Line                   172]: Unknown UD DEPREL: dobj
 [Line                   177]: Unknown UPOS tag: CONJ
 [Line                   183]: Missing the sent_id attribute.
+[Line                   183]: Missing the text attribute.
 [Line                   198]: Unknown UD DEPREL: dobj
 [Line                   202]: Missing the sent_id attribute.
+[Line                   202]: Missing the text attribute.
 [Line                   214]: Missing the sent_id attribute.
+[Line                   214]: Missing the text attribute.
 [Line                   218]: Unknown UD DEPREL: nsubjpass
 [Line                   219]: Unknown UD DEPREL: auxpass
 [Line                   225]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   233]: Unknown UD DEPREL: neg
 [Line                   235]: Unknown UD DEPREL: neg
 [Line                   239]: Unknown UD DEPREL: neg
 [Line                   241]: Unknown UD DEPREL: neg
-[Line                   248]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
 [Line                   273]: Unknown UPOS tag: CONJ
-[Line                   278]: Missing the sent_id attribute.
-[Line                   291]: Missing the sent_id attribute.
 [Line                   324]: Unknown UPOS tag: CONJ
-[Line                   331]: Missing the sent_id attribute.
 [Line                   342]: Unknown UPOS tag: CONJ
-[Line                   355]: Missing the sent_id attribute.
 [Line                   369]: Unknown UPOS tag: CONJ
-[Line                   374]: Missing the sent_id attribute.
 [Line                   392]: Unknown UPOS tag: CONJ
-[Line                   395]: Missing the sent_id attribute.
-[Line                   428]: Missing the sent_id attribute.
-[Line                   465]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   551]: Unknown UPOS tag: CONJ
 [Line                   625]: Unknown UPOS tag: CONJ
 [Line                   646]: Unknown UPOS tag: CONJ
@@ -3100,8 +2839,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJ
 [Line                   1027]: Unknown UPOS tag: CONJ
 [Line                   1096]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 53928 errors
-Metadata errors: 14554
+*** FAILED *** with 68482 errors
+Metadata errors: 29108
 Morpho errors: 9019
 Syntax errors: 30355
 
@@ -3115,7 +2854,7 @@ Syntax errors: 30355
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:07:49Z">2017-01-30T10:07:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:00:38Z">2017-01-30T12:00:38 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3126,26 +2865,33 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJ
 [Line                   33]: Unknown UD DEPREL: dobj
 [Line                   34]: Unknown UPOS tag: CONJ
 [Line                   46]: Missing the sent_id attribute.
+[Line                   46]: Missing the text attribute.
 [Line                   77]: Missing the sent_id attribute.
+[Line                   77]: Missing the text attribute.
 [Line                   81]: Unknown UD DEPREL: dobj
 [Line                   87]: Unknown UPOS tag: CONJ
 [Line                   90]: Unknown UD DEPREL: dobj
 [Line                   94]: Unknown UD DEPREL: dobj
 [Line                   101]: Missing the sent_id attribute.
+[Line                   101]: Missing the text attribute.
 [Line                   129]: Missing the sent_id attribute.
+[Line                   129]: Missing the text attribute.
 [Line                   134]: Unknown UD DEPREL: dobj
 [Line                   136]: Unknown UPOS tag: CONJ
 [Line                   163]: Missing the sent_id attribute.
+[Line                   163]: Missing the text attribute.
 [Line                   176]: Unknown UD DEPREL: dobj
 [Line                   182]: Unknown UPOS tag: CONJ
 [Line                   195]: Unknown UPOS tag: CONJ
 [Line                   202]: Unknown UD DEPREL: dobj
 [Line                   210]: Missing the sent_id attribute.
+[Line                   210]: Missing the text attribute.
 [Line                   219]: Unknown UPOS tag: CONJ
 [Line                   226]: Unknown UD DEPREL: dobj
 [Line                   227]: Unknown UD DEPREL: dobj
 [Line                   232]: Unknown UD DEPREL: dobj
 [Line                   236]: Missing the sent_id attribute.
+[Line                   236]: Missing the text attribute.
 [Line                   242]: Unknown UD DEPREL: dobj
 [Line                   246]: Unknown UD DEPREL: dobj
 [Line                   252]: Unknown UD DEPREL: dobj
@@ -3156,33 +2902,26 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJ
 [Line                   277]: Unknown UD DEPREL: dobj
 [Line                   280]: Unknown UPOS tag: CONJ
 [Line                   284]: Missing the sent_id attribute.
+[Line                   284]: Missing the text attribute.
 [Line                   290]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
 [Line                   302]: Unknown UPOS tag: CONJ
 [Line                   311]: Missing the sent_id attribute.
+[Line                   311]: Missing the text attribute.
 [Line                   322]: Unknown UPOS tag: CONJ
 [Line                   336]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   358]: Unknown UPOS tag: CONJ
-[Line                   370]: Missing the sent_id attribute.
 [Line                   380]: Unknown UPOS tag: CONJ
 [Line                   395]: Unknown UPOS tag: CONJ
 [Line                   412]: Unknown UPOS tag: CONJ
 [Line                   416]: Unknown UPOS tag: CONJ
-[Line                   419]: Missing the sent_id attribute.
 [Line                   420]: Unknown UPOS tag: CONJ
 [Line                   425]: Unknown UPOS tag: CONJ
-[Line                   469]: Missing the sent_id attribute.
 [Line                   487]: Unknown UPOS tag: CONJ
-[Line                   493]: Missing the sent_id attribute.
 ...suppressing further errors regarding Morpho
-[Line                   520]: Missing the sent_id attribute.
-[Line                   547]: Missing the sent_id attribute.
-[Line                   596]: Missing the sent_id attribute.
-[Line                   642]: Missing the sent_id attribute.
-[Line                   669]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 3488 errors
-Metadata errors: 863
+*** FAILED *** with 4351 errors
+Metadata errors: 1726
 Morpho errors: 920
 Syntax errors: 1705
 
@@ -3196,63 +2935,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJ
 [Line                   17]: Unknown UPOS tag: CONJ
 [Line                   31]: Unknown UD DEPREL: dobj
 [Line                   43]: Missing the sent_id attribute.
+[Line                   43]: Missing the text attribute.
 [Line                   54]: Unknown UD DEPREL: dobj
 [Line                   60]: Unknown UD DEPREL: dobj
 [Line                   68]: Unknown UD DEPREL: dobj
 [Line                   70]: Unknown UD DEPREL: dobj
 [Line                   77]: Missing the sent_id attribute.
+[Line                   77]: Missing the text attribute.
 [Line                   88]: Unknown UD DEPREL: dobj
 [Line                   95]: Unknown UPOS tag: CONJ
 [Line                   105]: Missing the sent_id attribute.
+[Line                   105]: Missing the text attribute.
 [Line                   120]: Unknown UD DEPREL: dobj
 [Line                   130]: Unknown UD DEPREL: dobj
 [Line                   134]: Unknown UPOS tag: CONJ
 [Line                   139]: Missing the sent_id attribute.
+[Line                   139]: Missing the text attribute.
 [Line                   144]: Unknown UD DEPREL: dobj
 [Line                   153]: Unknown UD DEPREL: dobj
 [Line                   161]: Unknown UD DEPREL: dobj
 [Line                   169]: Unknown UPOS tag: CONJ
 [Line                   177]: Missing the sent_id attribute.
+[Line                   177]: Missing the text attribute.
 [Line                   181]: Unknown UD DEPREL: dobj
 [Line                   187]: Unknown UD DEPREL: dobj
 [Line                   203]: Unknown UPOS tag: CONJ
 [Line                   206]: Unknown UPOS tag: CONJ
 [Line                   219]: Unknown UD DEPREL: dobj
 [Line                   230]: Missing the sent_id attribute.
+[Line                   230]: Missing the text attribute.
 [Line                   240]: Unknown UD DEPREL: dobj
 [Line                   247]: Unknown UPOS tag: CONJ
 [Line                   250]: Unknown UD DEPREL: dobj
 [Line                   255]: Unknown UPOS tag: CONJ
 [Line                   267]: Unknown UD DEPREL: dobj
 [Line                   272]: Missing the sent_id attribute.
+[Line                   272]: Missing the text attribute.
 ...suppressing further errors regarding Syntax
 [Line                   301]: Missing the sent_id attribute.
+[Line                   301]: Missing the text attribute.
 [Line                   323]: Unknown UPOS tag: CONJ
 [Line                   335]: Unknown UPOS tag: CONJ
 [Line                   341]: Missing the sent_id attribute.
+[Line                   341]: Missing the text attribute.
 [Line                   354]: Unknown UPOS tag: CONJ
 [Line                   382]: Unknown UPOS tag: CONJ
 [Line                   387]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   407]: Unknown UPOS tag: CONJ
-[Line                   412]: Missing the sent_id attribute.
 [Line                   423]: Unknown UPOS tag: CONJ
-[Line                   449]: Missing the sent_id attribute.
 [Line                   459]: Unknown UPOS tag: CONJ
 [Line                   469]: Unknown UPOS tag: CONJ
-[Line                   483]: Missing the sent_id attribute.
 [Line                   494]: Unknown UPOS tag: CONJ
 [Line                   509]: Unknown UPOS tag: CONJ
 [Line                   520]: Unknown UPOS tag: CONJ
-[Line                   526]: Missing the sent_id attribute.
 ...suppressing further errors regarding Morpho
-[Line                   556]: Missing the sent_id attribute.
-[Line                   585]: Missing the sent_id attribute.
-[Line                   612]: Missing the sent_id attribute.
-[Line                   642]: Missing the sent_id attribute.
-[Line                   686]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 9051 errors
-Metadata errors: 2276
+*** FAILED *** with 11327 errors
+Metadata errors: 4552
 Morpho errors: 2429
 Syntax errors: 4346
 
@@ -3266,20 +3005,25 @@ Syntax errors: 4346
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:07:55Z">2017-01-30T10:07:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:00:45Z">2017-01-30T12:00:45 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
 [Line                   7]: Missing the sent_id attribute.
+[Line                   7]: Missing the text attribute.
 [Line                   11]: Missing the sent_id attribute.
+[Line                   11]: Missing the text attribute.
 [Line                   26]: Unknown UD DEPREL: dobj
 [Line                   37]: Missing the sent_id attribute.
+[Line                   37]: Missing the text attribute.
 [Line                   42]: Unknown UD DEPREL: dobj
 [Line                   46]: Missing the sent_id attribute.
+[Line                   46]: Missing the text attribute.
 [Line                   51]: Unknown UD DEPREL: dobj
 [Line                   53]: Missing the sent_id attribute.
+[Line                   53]: Missing the text attribute.
 [Line                   55]: Unknown UPOS tag: CONJ
 [Line                   68]: Unknown UD DEPREL: dobj
 [Line                   73]: Unknown UD DEPREL: dobj
@@ -3287,6 +3031,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 [Line                   76]: Unknown attribute-value pair PronType=Clit
 [Line                   82]: Unknown UD DEPREL: dobj
 [Line                   84]: Missing the sent_id attribute.
+[Line                   84]: Missing the text attribute.
 [Line                   86]: Unknown UPOS tag: CONJ
 [Line                   100]: Unknown UD DEPREL: neg
 [Line                   102]: Unknown UD DEPREL: dobj
@@ -3295,6 +3040,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 [Line                   124]: Unknown UD DEPREL: dobj
 [Line                   128]: Unknown UD DEPREL: dobj
 [Line                   130]: Missing the sent_id attribute.
+[Line                   130]: Missing the text attribute.
 [Line                   136]: Unknown attribute-value pair PronType=Clit
 [Line                   141]: Unknown UPOS tag: CONJ
 [Line                   152]: Unknown UPOS tag: CONJ
@@ -3302,6 +3048,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 [Line                   163]: Unknown UD DEPREL: neg
 [Line                   166]: Unknown UD DEPREL: dobj
 [Line                   168]: Missing the sent_id attribute.
+[Line                   168]: Missing the text attribute.
 [Line                   172]: Unknown UD DEPREL: neg
 [Line                   179]: Unknown UD DEPREL: remnant
 [Line                   181]: Unknown UD DEPREL: dobj
@@ -3310,30 +3057,22 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 [Line                   198]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
 [Line                   206]: Missing the sent_id attribute.
+[Line                   206]: Missing the text attribute.
 [Line                   223]: Unknown UPOS tag: CONJ
 [Line                   225]: Unknown UPOS tag: CONJ
 [Line                   235]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   242]: Unknown UPOS tag: CONJ
 [Line                   250]: Unknown attribute-value pair PronType=Clit
-[Line                   264]: Missing the sent_id attribute.
 [Line                   270]: Unknown attribute-value pair PronType=Clit
-[Line                   318]: Missing the sent_id attribute.
 [Line                   323]: Unknown attribute-value pair PronType=Clit
 [Line                   354]: Unknown UPOS tag: CONJ
-[Line                   376]: Missing the sent_id attribute.
 [Line                   398]: Unknown attribute-value pair PronType=Clit
-[Line                   406]: Missing the sent_id attribute.
-[Line                   412]: Missing the sent_id attribute.
 [Line                   422]: Unknown UPOS tag: CONJ
 [Line                   442]: Unknown attribute-value pair PronType=Clit
-[Line                   446]: Missing the sent_id attribute.
 ...suppressing further errors regarding Morpho
-[Line                   490]: Missing the sent_id attribute.
-[Line                   498]: Missing the sent_id attribute.
-[Line                   517]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 388 errors
-Metadata errors: 100
+*** FAILED *** with 488 errors
+Metadata errors: 200
 Morpho errors: 124
 Syntax errors: 164
 
@@ -3344,14 +3083,19 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 
 [Line                   6]: Unknown UD DEPREL: dobj
 [Line                   10]: Missing the sent_id attribute.
+[Line                   10]: Missing the text attribute.
 [Line                   25]: Unknown UPOS tag: CONJ
 [Line                   29]: Missing the sent_id attribute.
+[Line                   29]: Missing the text attribute.
 [Line                   37]: Unknown UD DEPREL: dobj
 [Line                   47]: Unknown UD DEPREL: dobj
 [Line                   57]: Missing the sent_id attribute.
+[Line                   57]: Missing the text attribute.
 [Line                   63]: Missing the sent_id attribute.
+[Line                   63]: Missing the text attribute.
 [Line                   76]: Unknown UPOS tag: CONJ
 [Line                   79]: Missing the sent_id attribute.
+[Line                   79]: Missing the text attribute.
 [Line                   96]: Unknown UPOS tag: CONJ
 [Line                   104]: Unknown UPOS tag: CONJ
 [Line                   113]: Unknown UPOS tag: CONJ
@@ -3373,6 +3117,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 [Line                   208]: Unknown UD DEPREL: auxpass
 [Line                   218]: Unknown UPOS tag: CONJ
 [Line                   225]: Missing the sent_id attribute.
+[Line                   225]: Missing the text attribute.
 [Line                   240]: Unknown UPOS tag: CONJ
 [Line                   248]: Unknown UD DEPREL: dobj
 [Line                   252]: Unknown UPOS tag: CONJ
@@ -3381,29 +3126,23 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 [Line                   287]: Unknown UPOS tag: CONJ
 [Line                   299]: Unknown UPOS tag: CONJ
 [Line                   310]: Missing the sent_id attribute.
+[Line                   310]: Missing the text attribute.
 [Line                   319]: Unknown attribute-value pair PronType=Clit
 [Line                   326]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Morpho
 [Line                   342]: Unknown UD DEPREL: neg
 [Line                   346]: Unknown UD DEPREL: dobj
 [Line                   374]: Missing the sent_id attribute.
+[Line                   374]: Missing the text attribute.
 [Line                   390]: Unknown UD DEPREL: dobj
 [Line                   395]: Unknown UD DEPREL: dobj
 [Line                   436]: Missing the sent_id attribute.
+[Line                   436]: Missing the text attribute.
 ...suppressing further errors regarding Syntax
 [Line                   512]: Missing the sent_id attribute.
-[Line                   555]: Missing the sent_id attribute.
-[Line                   582]: Missing the sent_id attribute.
-[Line                   608]: Missing the sent_id attribute.
-[Line                   638]: Missing the sent_id attribute.
-[Line                   659]: Missing the sent_id attribute.
-[Line                   684]: Missing the sent_id attribute.
-[Line                   722]: Missing the sent_id attribute.
-[Line                   753]: Missing the sent_id attribute.
-[Line                   779]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 2874 errors
-Metadata errors: 800
+*** FAILED *** with 3674 errors
+Metadata errors: 1600
 Morpho errors: 924
 Syntax errors: 1150
 
@@ -3416,63 +3155,21 @@ Syntax errors: 1150
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:07:57Z">2017-01-30T10:07:57 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:00:47Z">2017-01-30T12:00:47 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-dev.conllu
 
-[Line                   9]: Missing the sent_id attribute.
-[Line                   21]: Missing the sent_id attribute.
-[Line                   33]: Missing the sent_id attribute.
-[Line                   49]: Missing the sent_id attribute.
-[Line                   56]: Missing the sent_id attribute.
-[Line                   75]: Missing the sent_id attribute.
-[Line                   101]: Missing the sent_id attribute.
-[Line                   111]: Missing the sent_id attribute.
-[Line                   129]: Missing the sent_id attribute.
-[Line                   139]: Missing the sent_id attribute.
-[Line                   145]: Missing the sent_id attribute.
-[Line                   151]: Missing the sent_id attribute.
-[Line                   169]: Missing the sent_id attribute.
-[Line                   193]: Missing the sent_id attribute.
-[Line                   211]: Missing the sent_id attribute.
-[Line                   233]: Missing the sent_id attribute.
-[Line                   246]: Missing the sent_id attribute.
-[Line                   255]: Missing the sent_id attribute.
-[Line                   266]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 799 errors
-Metadata errors: 799
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-train.conllu
 
-[Line                   19]: Missing the sent_id attribute.
-[Line                   32]: Missing the sent_id attribute.
-[Line                   40]: Missing the sent_id attribute.
-[Line                   74]: Missing the sent_id attribute.
-[Line                   97]: Missing the sent_id attribute.
-[Line                   129]: Missing the sent_id attribute.
-[Line                   151]: Missing the sent_id attribute.
-[Line                   178]: Missing the sent_id attribute.
-[Line                   200]: Missing the sent_id attribute.
-[Line                   215]: Missing the sent_id attribute.
-[Line                   240]: Missing the sent_id attribute.
-[Line                   255]: Missing the sent_id attribute.
-[Line                   269]: Missing the sent_id attribute.
-[Line                   296]: Missing the sent_id attribute.
-[Line                   324]: Missing the sent_id attribute.
-[Line                   367]: Missing the sent_id attribute.
-[Line                   378]: Missing the sent_id attribute.
-[Line                   410]: Missing the sent_id attribute.
-[Line                   431]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 14118 errors
-Metadata errors: 14118
+*** PASSED ***
 
 
 ******************
@@ -3484,7 +3181,7 @@ Metadata errors: 14118
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:08:19Z">2017-01-30T10:08:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:01:11Z">2017-01-30T12:01:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3493,56 +3190,56 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PRO
 [Line                   13]: Unknown UPOS tag: CONJ
 [Line                   15]: Unknown UD DEPREL: neg
 [Line                   21]: Missing the sent_id attribute.
+[Line                   21]: Missing the text attribute.
 [Line                   25]: Missing the sent_id attribute.
+[Line                   25]: Missing the text attribute.
 [Line                   27]: Unknown UPOS tag: CONJ
 [Line                   34]: Unknown UD DEPREL: dobj
 [Line                   35]: Unknown UD DEPREL: csubjpass
 [Line                   38]: Unknown UD DEPREL: dobj
 [Line                   39]: Missing the sent_id attribute.
+[Line                   39]: Missing the text attribute.
 [Line                   40]: Unknown UD DEPREL: neg
 [Line                   46]: Unknown UD DEPREL: neg
 [Line                   49]: Unknown UD DEPREL: dobj
 [Line                   51]: Unknown UPOS tag: CONJ
 [Line                   54]: Missing the sent_id attribute.
+[Line                   54]: Missing the text attribute.
 [Line                   57]: Unknown UD DEPREL: dobj
 [Line                   59]: Unknown UPOS tag: CONJ
 [Line                   66]: Unknown UD DEPREL: neg
 [Line                   68]: Missing the sent_id attribute.
+[Line                   68]: Missing the text attribute.
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   87]: Unknown UD DEPREL: dobj
 [Line                   89]: Missing the sent_id attribute.
+[Line                   89]: Missing the text attribute.
 [Line                   99]: Missing the sent_id attribute.
+[Line                   99]: Missing the text attribute.
 [Line                   102]: Unknown UD DEPREL: dobj
 [Line                   108]: Missing the sent_id attribute.
+[Line                   108]: Missing the text attribute.
 [Line                   121]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   122]: Unknown UPOS tag: CONJ
 [Line                   131]: Unknown UD DEPREL: dobj
-[Line                   133]: Missing the sent_id attribute.
 [Line                   135]: Unknown UPOS tag: CONJ
-[Line                   144]: Missing the sent_id attribute.
 [Line                   145]: Unknown UD DEPREL: neg
 [Line                   149]: Unknown UD DEPREL: dobj
 [Line                   152]: Unknown UPOS tag: CONJ
 [Line                   153]: Unknown UD DEPREL: remnant
 [Line                   155]: Unknown UD DEPREL: dobj
 [Line                   157]: Unknown UD DEPREL: remnant
-[Line                   158]: Missing the sent_id attribute.
 [Line                   163]: Unknown UD DEPREL: dobj
 [Line                   165]: Unknown UPOS tag: CONJ
 [Line                   167]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-[Line                   178]: Missing the sent_id attribute.
 [Line                   179]: Unknown UPOS tag: CONJ
-[Line                   185]: Missing the sent_id attribute.
-[Line                   190]: Missing the sent_id attribute.
-[Line                   197]: Missing the sent_id attribute.
 [Line                   198]: Unknown UPOS tag: CONJ
 [Line                   200]: Unknown UPOS tag: CONJ
-[Line                   203]: Missing the sent_id attribute.
 [Line                   209]: Unknown UPOS tag: CONJ
-[Line                   213]: Missing the sent_id attribute.
 [Line                   214]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   221]: Unknown UPOS tag: CONJ
 [Line                   230]: Unknown UPOS tag: CONJ
 [Line                   235]: Unknown UPOS tag: CONJ
@@ -3550,8 +3247,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PRO
 [Line                   252]: Unknown UPOS tag: CONJ
 [Line                   263]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1826 errors
-Metadata errors: 605
+*** FAILED *** with 2431 errors
+Metadata errors: 1210
 Morpho errors: 593
 Syntax errors: 628
 
@@ -3563,44 +3260,51 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PRO
 [Line                   1]: Unknown UPOS tag: CONJ
 [Line                   4]: Unknown UPOS tag: CONJ
 [Line                   11]: Missing the sent_id attribute.
+[Line                   11]: Missing the text attribute.
 [Line                   23]: Unknown UD DEPREL: dobj
 [Line                   24]: Unknown UPOS tag: CONJ
 [Line                   26]: Unknown UD DEPREL: dobj
 [Line                   31]: Missing the sent_id attribute.
+[Line                   31]: Missing the text attribute.
 [Line                   32]: Unknown UD DEPREL: neg
 [Line                   37]: Unknown UD DEPREL: dobj
 [Line                   38]: Unknown UPOS tag: CONJ
 [Line                   40]: Missing the sent_id attribute.
+[Line                   40]: Missing the text attribute.
 [Line                   41]: Unknown UD DEPREL: neg
 [Line                   44]: Unknown UPOS tag: CONJ
 [Line                   46]: Missing the sent_id attribute.
+[Line                   46]: Missing the text attribute.
 [Line                   51]: Missing the sent_id attribute.
+[Line                   51]: Missing the text attribute.
 [Line                   56]: Unknown UPOS tag: CONJ
 [Line                   60]: Unknown UPOS tag: CONJ
 [Line                   63]: Unknown UD DEPREL: neg
 [Line                   70]: Missing the sent_id attribute.
+[Line                   70]: Missing the text attribute.
 [Line                   71]: Unknown UPOS tag: CONJ
 [Line                   74]: Unknown UD DEPREL: nsubjpass
 [Line                   75]: Unknown UD DEPREL: dobj
 [Line                   79]: Unknown UPOS tag: CONJ
 [Line                   82]: Unknown UD DEPREL: dobj
 [Line                   88]: Missing the sent_id attribute.
+[Line                   88]: Missing the text attribute.
 [Line                   89]: Unknown UPOS tag: CONJ
 [Line                   92]: Unknown UPOS tag: CONJ
 [Line                   95]: Unknown UD DEPREL: nsubjpass
 [Line                   101]: Missing the sent_id attribute.
+[Line                   101]: Missing the text attribute.
 [Line                   102]: Unknown UD DEPREL: neg
 [Line                   104]: Missing the sent_id attribute.
+[Line                   104]: Missing the text attribute.
 [Line                   105]: Unknown UPOS tag: CONJ
 [Line                   111]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   112]: Unknown UPOS tag: CONJ
-[Line                   125]: Missing the sent_id attribute.
 [Line                   126]: Unknown UPOS tag: CONJ
 [Line                   131]: Unknown UD DEPREL: dobj
-[Line                   135]: Missing the sent_id attribute.
 [Line                   136]: Unknown UPOS tag: CONJ
 [Line                   139]: Unknown UD DEPREL: dobj
-[Line                   145]: Missing the sent_id attribute.
 [Line                   149]: Unknown UD DEPREL: dobj
 [Line                   153]: Unknown UPOS tag: CONJ
 [Line                   160]: Unknown UD DEPREL: dobj
@@ -3608,20 +3312,13 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PRO
 [Line                   171]: Unknown UPOS tag: CONJ
 [Line                   177]: Unknown UPOS tag: CONJ
 [Line                   182]: Unknown UD DEPREL: dobj
-[Line                   184]: Missing the sent_id attribute.
 [Line                   201]: Unknown UD DEPREL: dobj
 [Line                   205]: Unknown UPOS tag: CONJ
 [Line                   208]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Morpho
-[Line                   215]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   224]: Missing the sent_id attribute.
-[Line                   227]: Missing the sent_id attribute.
-[Line                   246]: Missing the sent_id attribute.
-[Line                   261]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 13106 errors
-Metadata errors: 4360
+*** FAILED *** with 17466 errors
+Metadata errors: 8720
 Morpho errors: 4098
 Syntax errors: 4648
 
@@ -3635,7 +3332,7 @@ Syntax errors: 4648
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:08:24Z">2017-01-30T10:08:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:01:16Z">2017-01-30T12:01:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3646,63 +3343,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJ
 [Line                   29]: Unknown UPOS tag: CONJ
 [Line                   30]: Unknown UD DEPREL: neg
 [Line                   37]: Missing the sent_id attribute.
+[Line                   37]: Missing the text attribute.
 [Line                   44]: Unknown UD DEPREL: dobj
 [Line                   49]: Missing the sent_id attribute.
+[Line                   49]: Missing the text attribute.
 [Line                   66]: Unknown UPOS tag: CONJ
 [Line                   81]: Unknown UD DEPREL: dobj
 [Line                   93]: Missing the sent_id attribute.
+[Line                   93]: Missing the text attribute.
 [Line                   99]: Missing the sent_id attribute.
+[Line                   99]: Missing the text attribute.
 [Line                   110]: Missing the sent_id attribute.
+[Line                   110]: Missing the text attribute.
 [Line                   117]: Unknown UD DEPREL: dobj
 [Line                   119]: Unknown UPOS tag: CONJ
 [Line                   130]: Missing the sent_id attribute.
+[Line                   130]: Missing the text attribute.
 [Line                   143]: Unknown UPOS tag: CONJ
 [Line                   153]: Missing the sent_id attribute.
+[Line                   153]: Missing the text attribute.
 [Line                   160]: Unknown UD DEPREL: dobj
 [Line                   170]: Unknown UD DEPREL: dobj
 [Line                   176]: Unknown UPOS tag: CONJ
 [Line                   190]: Unknown UPOS tag: CONJ
 [Line                   200]: Missing the sent_id attribute.
+[Line                   200]: Missing the text attribute.
 [Line                   210]: Unknown UPOS tag: CONJ
 [Line                   217]: Missing the sent_id attribute.
+[Line                   217]: Missing the text attribute.
 [Line                   258]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   263]: Unknown UD DEPREL: dobj
 [Line                   269]: Unknown UPOS tag: CONJ
 [Line                   271]: Unknown UPOS tag: CONJ
 [Line                   275]: Unknown UPOS tag: CONJ
 [Line                   283]: Unknown UPOS tag: CONJ
-[Line                   302]: Missing the sent_id attribute.
 [Line                   312]: Unknown UD DEPREL: dobj
-[Line                   318]: Missing the sent_id attribute.
 [Line                   322]: Unknown UPOS tag: CONJ
 [Line                   326]: Unknown UD DEPREL: neg
 [Line                   331]: Unknown UPOS tag: CONJ
 [Line                   335]: Unknown UPOS tag: CONJ
-[Line                   342]: Missing the sent_id attribute.
 [Line                   344]: Unknown UD DEPREL: remnant
 [Line                   346]: Unknown UPOS tag: CONJ
 [Line                   354]: Unknown UD DEPREL: neg
 [Line                   356]: Unknown UD DEPREL: dobj
 [Line                   369]: Unknown UD DEPREL: dobj
-[Line                   374]: Missing the sent_id attribute.
 [Line                   378]: Unknown UD DEPREL: neg
 [Line                   385]: Unknown UPOS tag: CONJ
 [Line                   392]: Unknown UD DEPREL: neg
 [Line                   395]: Unknown UD DEPREL: dobj
-[Line                   399]: Missing the sent_id attribute.
 [Line                   405]: Unknown UD DEPREL: neg
 ...suppressing further errors regarding Syntax
 [Line                   428]: Unknown UPOS tag: CONJ
 [Line                   435]: Unknown UPOS tag: CONJ
 [Line                   440]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-[Line                   456]: Missing the sent_id attribute.
-[Line                   491]: Missing the sent_id attribute.
-[Line                   522]: Missing the sent_id attribute.
-[Line                   593]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 879 errors
-Metadata errors: 241
+*** FAILED *** with 1120 errors
+Metadata errors: 482
 Morpho errors: 306
 Syntax errors: 332
 
@@ -3715,32 +3412,40 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJ
 [Line                   9]: Unknown UPOS tag: CONJ
 [Line                   13]: Unknown UPOS tag: CONJ
 [Line                   19]: Missing the sent_id attribute.
+[Line                   19]: Missing the text attribute.
 [Line                   32]: Unknown UD DEPREL: dobj
 [Line                   37]: Unknown UPOS tag: CONJ
 [Line                   45]: Unknown UPOS tag: CONJ
 [Line                   48]: Missing the sent_id attribute.
+[Line                   48]: Missing the text attribute.
 [Line                   57]: Unknown UD DEPREL: dobj
 [Line                   67]: Unknown UPOS tag: CONJ
 [Line                   81]: Unknown UPOS tag: CONJ
 [Line                   87]: Missing the sent_id attribute.
+[Line                   87]: Missing the text attribute.
 [Line                   90]: Unknown UPOS tag: CONJ
 [Line                   96]: Unknown UD DEPREL: dobj
 [Line                   97]: Unknown UPOS tag: CONJ
 [Line                   106]: Missing the sent_id attribute.
+[Line                   106]: Missing the text attribute.
 [Line                   111]: Missing the sent_id attribute.
+[Line                   111]: Missing the text attribute.
 [Line                   120]: Unknown UPOS tag: CONJ
 [Line                   125]: Unknown UD DEPREL: dobj
 [Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
 [Line                   145]: Unknown UPOS tag: CONJ
 [Line                   154]: Unknown UPOS tag: CONJ
 [Line                   166]: Unknown UD DEPREL: dobj
 [Line                   168]: Missing the sent_id attribute.
+[Line                   168]: Missing the text attribute.
 [Line                   175]: Unknown UD DEPREL: dobj
 [Line                   176]: Unknown UPOS tag: CONJ
 [Line                   182]: Unknown UD DEPREL: dobj
 [Line                   184]: Unknown UD DEPREL: neg
 [Line                   189]: Unknown UD DEPREL: dobj
 [Line                   193]: Missing the sent_id attribute.
+[Line                   193]: Missing the text attribute.
 [Line                   211]: Unknown UPOS tag: CONJ
 [Line                   246]: Unknown UPOS tag: CONJ
 [Line                   259]: Unknown UD DEPREL: dobj
@@ -3750,29 +3455,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJ
 [Line                   272]: Unknown UD DEPREL: remnant
 [Line                   273]: Unknown UPOS tag: CONJ
 [Line                   278]: Missing the sent_id attribute.
+[Line                   278]: Missing the text attribute.
 [Line                   285]: Unknown UD DEPREL: dobj
 [Line                   302]: Unknown UD DEPREL: remnant
 [Line                   305]: Unknown UD DEPREL: remnant
 [Line                   317]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   335]: Unknown UD DEPREL: dobj
-[Line                   344]: Missing the sent_id attribute.
 [Line                   349]: Unknown UD DEPREL: dobj
 [Line                   354]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
 [Line                   363]: Unknown UD DEPREL: dobj
-[Line                   367]: Missing the sent_id attribute.
 [Line                   382]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-[Line                   415]: Missing the sent_id attribute.
-[Line                   427]: Missing the sent_id attribute.
-[Line                   469]: Missing the sent_id attribute.
-[Line                   506]: Missing the sent_id attribute.
-[Line                   578]: Missing the sent_id attribute.
-[Line                   621]: Missing the sent_id attribute.
-[Line                   632]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 6922 errors
-Metadata errors: 1929
+*** FAILED *** with 8851 errors
+Metadata errors: 3858
 Morpho errors: 2394
 Syntax errors: 2599
 
@@ -3786,7 +3483,7 @@ Syntax errors: 2599
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:08:28Z">2017-01-30T10:08:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:01:20Z">2017-01-30T12:01:20 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3796,11 +3493,13 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJ
 [Line                   18]: Unknown UPOS tag: CONJ
 [Line                   21]: Unknown UD DEPREL: dobj
 [Line                   25]: Missing the sent_id attribute.
+[Line                   25]: Missing the text attribute.
 [Line                   32]: Unknown attribute-value pair Definite=Red
 [Line                   37]: Unknown UPOS tag: CONJ
 [Line                   50]: Unknown attribute-value pair Definite=Red
 [Line                   51]: Unknown attribute-value pair Definite=Red
 [Line                   55]: Missing the sent_id attribute.
+[Line                   55]: Missing the text attribute.
 [Line                   56]: Unknown attribute-value pair Definite=Red
 [Line                   63]: Unknown UD DEPREL: name
 [Line                   72]: Unknown UD DEPREL: dobj
@@ -3809,6 +3508,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJ
 [Line                   92]: Unknown attribute-value pair Definite=Red
 [Line                   92]: Unknown UD DEPREL: dobj
 [Line                   95]: Missing the sent_id attribute.
+[Line                   95]: Missing the text attribute.
 [Line                   106]: Unknown attribute-value pair Definite=Red
 [Line                   106]: Unknown UD DEPREL: dobj
 [Line                   112]: Unknown UPOS tag: CONJ
@@ -3816,6 +3516,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJ
 [Line                   122]: Unknown UPOS tag: CONJ
 [Line                   126]: Unknown UD DEPREL: dobj
 [Line                   137]: Missing the sent_id attribute.
+[Line                   137]: Missing the text attribute.
 [Line                   144]: Unknown attribute-value pair Definite=Red
 [Line                   149]: Unknown UPOS tag: CONJ
 [Line                   153]: Unknown UPOS tag: CONJ
@@ -3824,36 +3525,32 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJ
 [Line                   160]: Unknown attribute-value pair Definite=Red
 [Line                   171]: Unknown UD DEPREL: dobj
 [Line                   185]: Missing the sent_id attribute.
+[Line                   185]: Missing the text attribute.
 ...suppressing further errors regarding Morpho
 [Line                   193]: Unknown UD DEPREL: dobj
 [Line                   208]: Unknown UD DEPREL: dobj
 [Line                   242]: Missing the sent_id attribute.
+[Line                   242]: Missing the text attribute.
 [Line                   251]: Unknown UD DEPREL: dobj
 [Line                   264]: Unknown UD DEPREL: dobj
 [Line                   269]: Missing the sent_id attribute.
+[Line                   269]: Missing the text attribute.
 [Line                   271]: Unknown UD DEPREL: name
 [Line                   297]: Unknown UD DEPREL: dobj
 [Line                   305]: Unknown UD DEPREL: dobj
 [Line                   311]: Missing the sent_id attribute.
+[Line                   311]: Missing the text attribute.
 [Line                   321]: Unknown UD DEPREL: dobj
 [Line                   334]: Missing the sent_id attribute.
+[Line                   334]: Missing the text attribute.
 [Line                   336]: Unknown UD DEPREL: name
 [Line                   360]: Unknown UD DEPREL: name
 [Line                   363]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
 [Line                   385]: Missing the sent_id attribute.
-[Line                   415]: Missing the sent_id attribute.
-[Line                   436]: Missing the sent_id attribute.
-[Line                   489]: Missing the sent_id attribute.
-[Line                   533]: Missing the sent_id attribute.
-[Line                   561]: Missing the sent_id attribute.
-[Line                   584]: Missing the sent_id attribute.
-[Line                   608]: Missing the sent_id attribute.
-[Line                   637]: Missing the sent_id attribute.
-[Line                   678]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 2520 errors
-Metadata errors: 484
+*** FAILED *** with 3004 errors
+Metadata errors: 968
 Morpho errors: 1389
 Syntax errors: 647
 
@@ -3867,63 +3564,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJ
 [Line                   9]: Unknown UPOS tag: CONJ
 [Line                   16]: Unknown attribute-value pair Definite=Red
 [Line                   19]: Missing the sent_id attribute.
+[Line                   19]: Missing the text attribute.
 [Line                   20]: Unknown attribute-value pair Definite=Red
 [Line                   28]: Unknown UPOS tag: CONJ
 [Line                   33]: Unknown UD DEPREL: dobj
 [Line                   36]: Missing the sent_id attribute.
+[Line                   36]: Missing the text attribute.
 [Line                   41]: Unknown UPOS tag: CONJ
 [Line                   42]: Unknown UD DEPREL: mwe
 [Line                   44]: Unknown UPOS tag: CONJ
 [Line                   58]: Unknown UPOS tag: CONJ
 [Line                   63]: Unknown attribute-value pair Definite=Red
 [Line                   68]: Missing the sent_id attribute.
+[Line                   68]: Missing the text attribute.
 [Line                   71]: Unknown UPOS tag: CONJ
 [Line                   76]: Unknown attribute-value pair Definite=Red
 [Line                   100]: Missing the sent_id attribute.
+[Line                   100]: Missing the text attribute.
 [Line                   113]: Unknown attribute-value pair Definite=Red
 [Line                   113]: Unknown UD DEPREL: dobj
 [Line                   120]: Unknown UPOS tag: CONJ
 [Line                   131]: Missing the sent_id attribute.
+[Line                   131]: Missing the text attribute.
 [Line                   136]: Unknown UD DEPREL: dobj
 [Line                   139]: Missing the sent_id attribute.
+[Line                   139]: Missing the text attribute.
 [Line                   144]: Unknown attribute-value pair Negative=Neg
 [Line                   144]: Unknown UD DEPREL: neg
 [Line                   149]: Unknown UD DEPREL: dobj
 [Line                   151]: Missing the sent_id attribute.
+[Line                   151]: Missing the text attribute.
 [Line                   159]: Unknown attribute-value pair Definite=Red
 [Line                   166]: Unknown attribute-value pair Definite=Red
 [Line                   178]: Unknown attribute-value pair Definite=Red
 [Line                   179]: Unknown UD DEPREL: name
 [Line                   181]: Missing the sent_id attribute.
+[Line                   181]: Missing the text attribute.
 [Line                   183]: Unknown UD DEPREL: name
 [Line                   185]: Unknown attribute-value pair Definite=Red
 [Line                   193]: Unknown UD DEPREL: dobj
 [Line                   195]: Unknown UPOS tag: CONJ
 [Line                   208]: Missing the sent_id attribute.
+[Line                   208]: Missing the text attribute.
 [Line                   223]: Unknown attribute-value pair Definite=Red
 [Line                   223]: Unknown UD DEPREL: dobj
 [Line                   228]: Missing the sent_id attribute.
-[Line                   237]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   254]: Unknown UD DEPREL: name
-[Line                   256]: Missing the sent_id attribute.
 [Line                   262]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Morpho
 [Line                   284]: Unknown UD DEPREL: name
-[Line                   290]: Missing the sent_id attribute.
 [Line                   296]: Unknown UD DEPREL: dobj
 [Line                   303]: Unknown UD DEPREL: dobj
-[Line                   305]: Missing the sent_id attribute.
-[Line                   312]: Missing the sent_id attribute.
-[Line                   319]: Missing the sent_id attribute.
-[Line                   327]: Missing the sent_id attribute.
-[Line                   348]: Missing the sent_id attribute.
 [Line                   350]: Unknown UD DEPREL: neg
 [Line                   353]: Unknown UD DEPREL: dobj
-[Line                   355]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-...suppressing further errors regarding Metadata
-*** FAILED *** with 28802 errors
-Metadata errors: 5241
+*** FAILED *** with 34043 errors
+Metadata errors: 10482
 Morpho errors: 16324
 Syntax errors: 7237
 
@@ -3937,7 +3634,7 @@ Syntax errors: 7237
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:08:41Z">2017-01-30T10:08:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:01:34Z">2017-01-30T12:01:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3945,34 +3642,37 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJ
 
 [Line                   12]: Unknown UD DEPREL: dobj
 [Line                   26]: Missing the sent_id attribute.
+[Line                   26]: Missing the text attribute.
 [Line                   43]: Missing the sent_id attribute.
+[Line                   43]: Missing the text attribute.
 [Line                   52]: Unknown UPOS tag: CONJ
 [Line                   64]: Missing the sent_id attribute.
+[Line                   64]: Missing the text attribute.
 [Line                   77]: Unknown UPOS tag: CONJ
 [Line                   93]: Missing the sent_id attribute.
+[Line                   93]: Missing the text attribute.
 [Line                   107]: Missing the sent_id attribute.
+[Line                   107]: Missing the text attribute.
 [Line                   132]: Missing the sent_id attribute.
+[Line                   132]: Missing the text attribute.
 [Line                   134]: Unknown attribute-value pair Polite=Pol
 [Line                   138]: Missing the sent_id attribute.
+[Line                   138]: Missing the text attribute.
 [Line                   149]: Unknown attribute-value pair Polite=Pol
 [Line                   154]: Missing the sent_id attribute.
+[Line                   154]: Missing the text attribute.
 [Line                   171]: Missing the sent_id attribute.
+[Line                   171]: Missing the text attribute.
 [Line                   181]: Missing the sent_id attribute.
-[Line                   194]: Missing the sent_id attribute.
-[Line                   209]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   212]: Unknown UD DEPREL: nsubjpass
 [Line                   217]: Unknown UD DEPREL: auxpass
 [Line                   218]: Unknown UD DEPREL: auxpass
 [Line                   223]: Unknown UD DEPREL: nsubjpass
 [Line                   225]: Unknown UD DEPREL: auxpass
 [Line                   226]: Unknown UD DEPREL: auxpass
-[Line                   228]: Missing the sent_id attribute.
-[Line                   239]: Missing the sent_id attribute.
 [Line                   249]: Unknown UD DEPREL: auxpass
 [Line                   250]: Unknown UD DEPREL: auxpass
-[Line                   252]: Missing the sent_id attribute.
-[Line                   267]: Missing the sent_id attribute.
-[Line                   279]: Missing the sent_id attribute.
 [Line                   293]: Unknown UD DEPREL: auxpass
 [Line                   295]: Unknown UPOS tag: CONJ
 [Line                   303]: Unknown UPOS tag: CONJ
@@ -3980,11 +3680,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJ
 [Line                   313]: Unknown UD DEPREL: nsubjpass
 [Line                   316]: Unknown UD DEPREL: auxpass
 [Line                   317]: Unknown UD DEPREL: auxpass
-[Line                   319]: Missing the sent_id attribute.
 [Line                   322]: Unknown UD DEPREL: dobj
 [Line                   337]: Unknown UD DEPREL: auxpass
-[Line                   339]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   374]: Unknown attribute-value pair Polite=Pol
 [Line                   427]: Unknown UD DEPREL: dobj
 [Line                   444]: Unknown attribute-value pair Polite=Pol
@@ -4003,8 +3700,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJ
 [Line                   1005]: Unknown UPOS tag: CONJ
 [Line                   1021]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 6374 errors
-Metadata errors: 1659
+*** FAILED *** with 8033 errors
+Metadata errors: 3318
 Morpho errors: 1644
 Syntax errors: 3071
 
@@ -4014,55 +3711,55 @@ Syntax errors: 3071
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 
 [Line                   13]: Missing the sent_id attribute.
+[Line                   13]: Missing the text attribute.
 [Line                   15]: Unknown UD DEPREL: dobj
 [Line                   22]: Missing the sent_id attribute.
+[Line                   22]: Missing the text attribute.
 [Line                   31]: Missing the sent_id attribute.
+[Line                   31]: Missing the text attribute.
 [Line                   37]: Unknown UPOS tag: CONJ
 [Line                   50]: Missing the sent_id attribute.
+[Line                   50]: Missing the text attribute.
 [Line                   58]: Missing the sent_id attribute.
+[Line                   58]: Missing the text attribute.
 [Line                   70]: Unknown UD DEPREL: dobj
 [Line                   76]: Missing the sent_id attribute.
+[Line                   76]: Missing the text attribute.
 [Line                   98]: Unknown attribute-value pair Polite=Pol
 [Line                   98]: Unknown UD DEPREL: dobj
 [Line                   103]: Unknown UD DEPREL: auxpass
 [Line                   104]: Unknown UD DEPREL: auxpass
 [Line                   106]: Missing the sent_id attribute.
+[Line                   106]: Missing the text attribute.
 [Line                   110]: Unknown UPOS tag: CONJ
 [Line                   118]: Missing the sent_id attribute.
+[Line                   118]: Missing the text attribute.
 [Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
 [Line                   136]: Unknown UPOS tag: CONJ
 [Line                   143]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   145]: Unknown UD DEPREL: dobj
-[Line                   153]: Missing the sent_id attribute.
 [Line                   168]: Unknown UD DEPREL: dobj
-[Line                   175]: Missing the sent_id attribute.
 [Line                   196]: Unknown UPOS tag: CONJ
 [Line                   209]: Unknown UPOS tag: CONJ
-[Line                   216]: Missing the sent_id attribute.
 [Line                   234]: Unknown UD DEPREL: auxpass
-[Line                   236]: Missing the sent_id attribute.
-[Line                   257]: Missing the sent_id attribute.
 [Line                   265]: Unknown UPOS tag: CONJ
-[Line                   285]: Missing the sent_id attribute.
 [Line                   287]: Unknown UPOS tag: CONJ
 [Line                   293]: Unknown UPOS tag: CONJ
 [Line                   301]: Unknown UD DEPREL: auxpass
-[Line                   303]: Missing the sent_id attribute.
 [Line                   312]: Unknown UPOS tag: CONJ
 [Line                   317]: Unknown UD DEPREL: dobj
 [Line                   320]: Unknown UD DEPREL: auxpass
 [Line                   321]: Unknown UD DEPREL: auxpass
-[Line                   323]: Missing the sent_id attribute.
 [Line                   328]: Unknown UD DEPREL: dobj
 [Line                   337]: Unknown UPOS tag: CONJ
 [Line                   342]: Unknown UD DEPREL: auxpass
 [Line                   343]: Unknown UD DEPREL: auxpass
-[Line                   345]: Missing the sent_id attribute.
 [Line                   357]: Unknown UD DEPREL: dobj
 [Line                   359]: Unknown attribute-value pair VerbForm=Trans
 [Line                   361]: Unknown UD DEPREL: auxpass
 [Line                   362]: Unknown UD DEPREL: auxpass
-...suppressing further errors regarding Metadata
 [Line                   398]: Unknown UPOS tag: CONJ
 [Line                   404]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
@@ -4073,8 +3770,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJ
 [Line                   472]: Unknown attribute-value pair Polite=Pol
 [Line                   473]: Unknown attribute-value pair Polite=Pol
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 50891 errors
-Metadata errors: 13304
+*** FAILED *** with 64195 errors
+Metadata errors: 26608
 Morpho errors: 12869
 Syntax errors: 24718
 
@@ -4088,7 +3785,7 @@ Syntax errors: 24718
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:09:10Z">2017-01-30T10:09:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:04Z">2017-01-30T12:02:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4103,49 +3800,49 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJ
 [Line                   29]: Unknown UD DEPREL: neg
 [Line                   33]: Unknown UD DEPREL: dobj
 [Line                   35]: Missing the sent_id attribute.
+[Line                   35]: Missing the text attribute.
 [Line                   53]: Missing the sent_id attribute.
+[Line                   53]: Missing the text attribute.
 [Line                   70]: Unknown UPOS tag: CONJ
 [Line                   79]: Missing the sent_id attribute.
+[Line                   79]: Missing the text attribute.
 [Line                   87]: Unknown UD DEPREL: dobj
 [Line                   91]: Unknown UD DEPREL: name
 [Line                   92]: Unknown UD DEPREL: name
 [Line                   114]: Unknown UD DEPREL: dobj
 [Line                   122]: Unknown UD DEPREL: dobj
 [Line                   124]: Missing the sent_id attribute.
+[Line                   124]: Missing the text attribute.
 [Line                   136]: Unknown UD DEPREL: dobj
 [Line                   138]: Missing the sent_id attribute.
+[Line                   138]: Missing the text attribute.
 [Line                   144]: Unknown UPOS tag: CONJ
 [Line                   160]: Unknown UD DEPREL: dobj
 [Line                   161]: Unknown UPOS tag: CONJ
 [Line                   166]: Unknown UPOS tag: CONJ
 [Line                   169]: Missing the sent_id attribute.
+[Line                   169]: Missing the text attribute.
 [Line                   178]: Unknown UD DEPREL: dobj
 [Line                   181]: Unknown UPOS tag: CONJ
 [Line                   184]: Unknown UD DEPREL: dobj
 [Line                   186]: Missing the sent_id attribute.
+[Line                   186]: Missing the text attribute.
 [Line                   197]: Unknown UPOS tag: CONJ
 [Line                   203]: Missing the sent_id attribute.
+[Line                   203]: Missing the text attribute.
 [Line                   209]: Unknown UPOS tag: CONJ
 [Line                   215]: Missing the sent_id attribute.
+[Line                   215]: Missing the text attribute.
 [Line                   217]: Unknown UD DEPREL: name
 [Line                   218]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
 [Line                   264]: Missing the sent_id attribute.
-[Line                   279]: Missing the sent_id attribute.
-[Line                   294]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   311]: Unknown UPOS tag: CONJ
-[Line                   318]: Missing the sent_id attribute.
-[Line                   326]: Missing the sent_id attribute.
 [Line                   333]: Unknown UPOS tag: CONJ
 [Line                   341]: Unknown UPOS tag: CONJ
-[Line                   357]: Missing the sent_id attribute.
-[Line                   367]: Missing the sent_id attribute.
 [Line                   376]: Unknown UPOS tag: CONJ
-[Line                   383]: Missing the sent_id attribute.
-[Line                   390]: Missing the sent_id attribute.
 [Line                   404]: Unknown UPOS tag: CONJ
-[Line                   410]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   428]: Unknown UPOS tag: CONJ
 [Line                   525]: Unknown UPOS tag: CONJ
 [Line                   557]: Unknown UPOS tag: CONJ
@@ -4154,8 +3851,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJ
 [Line                   597]: Unknown UPOS tag: CONJ
 [Line                   606]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 742 errors
-Metadata errors: 179
+*** FAILED *** with 921 errors
+Metadata errors: 358
 Morpho errors: 167
 Syntax errors: 396
 
@@ -4168,64 +3865,64 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJ
 [Line                   14]: Unknown UD DEPREL: dobj
 [Line                   21]: Unknown UPOS tag: CONJ
 [Line                   33]: Missing the sent_id attribute.
+[Line                   33]: Missing the text attribute.
 [Line                   35]: Unknown UD DEPREL: dobj
 [Line                   41]: Unknown UPOS tag: CONJ
 [Line                   45]: Unknown UPOS tag: CONJ
 [Line                   59]: Missing the sent_id attribute.
+[Line                   59]: Missing the text attribute.
 [Line                   71]: Unknown UD DEPREL: neg
 [Line                   74]: Unknown UD DEPREL: dobj
 [Line                   86]: Missing the sent_id attribute.
+[Line                   86]: Missing the text attribute.
 [Line                   91]: Unknown UD DEPREL: neg
 [Line                   104]: Missing the sent_id attribute.
+[Line                   104]: Missing the text attribute.
 [Line                   115]: Unknown UPOS tag: CONJ
 [Line                   125]: Unknown UPOS tag: CONJ
 [Line                   131]: Missing the sent_id attribute.
+[Line                   131]: Missing the text attribute.
 [Line                   137]: Unknown UD DEPREL: neg
 [Line                   142]: Unknown UD DEPREL: dobj
 [Line                   145]: Unknown UPOS tag: CONJ
 [Line                   154]: Unknown UD DEPREL: name
 [Line                   158]: Unknown UD DEPREL: name
 [Line                   162]: Missing the sent_id attribute.
+[Line                   162]: Missing the text attribute.
 [Line                   164]: Unknown UD DEPREL: dobj
 [Line                   170]: Unknown UD DEPREL: dobj
 [Line                   178]: Missing the sent_id attribute.
+[Line                   178]: Missing the text attribute.
 [Line                   187]: Unknown UD DEPREL: dobj
 [Line                   202]: Missing the sent_id attribute.
+[Line                   202]: Missing the text attribute.
 [Line                   205]: Unknown UD DEPREL: dobj
 [Line                   212]: Unknown UD DEPREL: name
 [Line                   215]: Missing the sent_id attribute.
+[Line                   215]: Missing the text attribute.
 [Line                   224]: Unknown UD DEPREL: dobj
 [Line                   226]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   237]: Unknown UPOS tag: CONJ
 [Line                   244]: Unknown UPOS tag: CONJ
 [Line                   247]: Unknown UD DEPREL: dobj
-[Line                   250]: Missing the sent_id attribute.
 [Line                   256]: Unknown UD DEPREL: dobj
 [Line                   262]: Unknown UD DEPREL: neg
 [Line                   273]: Unknown UPOS tag: CONJ
 [Line                   274]: Unknown UD DEPREL: remnant
 [Line                   275]: Unknown UPOS tag: CONJ
-[Line                   289]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   302]: Missing the sent_id attribute.
-[Line                   316]: Missing the sent_id attribute.
 [Line                   324]: Unknown UPOS tag: CONJ
 [Line                   342]: Unknown UPOS tag: CONJ
-[Line                   352]: Missing the sent_id attribute.
-[Line                   368]: Missing the sent_id attribute.
 [Line                   373]: Unknown UPOS tag: CONJ
-[Line                   404]: Missing the sent_id attribute.
 [Line                   415]: Unknown UPOS tag: CONJ
 [Line                   444]: Unknown UPOS tag: CONJ
-[Line                   450]: Missing the sent_id attribute.
 [Line                   467]: Unknown UPOS tag: CONJ
-[Line                   470]: Missing the sent_id attribute.
 [Line                   488]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   515]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 5651 errors
-Metadata errors: 1433
+*** FAILED *** with 7084 errors
+Metadata errors: 2866
 Morpho errors: 1550
 Syntax errors: 2668
 
@@ -4239,7 +3936,7 @@ Syntax errors: 2668
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian</span>
 <span class="widespan">id</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:09:14Z">2017-01-30T10:09:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:07Z">2017-01-30T12:02:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4249,6 +3946,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 [Line                   16]: Unknown UPOS tag: CONJ
 [Line                   21]: Unknown UD DEPREL: dobj
 [Line                   24]: Missing the sent_id attribute.
+[Line                   24]: Missing the text attribute.
 [Line                   26]: Unknown UD DEPREL: name
 [Line                   32]: Unknown UD DEPREL: neg
 [Line                   36]: Unknown UD DEPREL: name
@@ -4262,6 +3960,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 [Line                   57]: Unknown UD DEPREL: name
 [Line                   58]: Unknown UD DEPREL: name
 [Line                   60]: Missing the sent_id attribute.
+[Line                   60]: Missing the text attribute.
 [Line                   61]: Unknown UD DEPREL: nsubjpass
 [Line                   74]: Unknown UD DEPREL: name
 [Line                   75]: Unknown UD DEPREL: name
@@ -4275,38 +3974,36 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 [Line                   103]: Unknown UPOS tag: CONJ
 [Line                   107]: Unknown UPOS tag: CONJ
 [Line                   112]: Missing the sent_id attribute.
+[Line                   112]: Missing the text attribute.
 [Line                   123]: Unknown UPOS tag: CONJ
 [Line                   127]: Missing the sent_id attribute.
+[Line                   127]: Missing the text attribute.
 [Line                   136]: Missing the sent_id attribute.
+[Line                   136]: Missing the text attribute.
 [Line                   149]: Unknown UPOS tag: CONJ
 [Line                   155]: Missing the sent_id attribute.
+[Line                   155]: Missing the text attribute.
 [Line                   169]: Unknown UPOS tag: CONJ
 [Line                   177]: Missing the sent_id attribute.
+[Line                   177]: Missing the text attribute.
 [Line                   186]: Unknown UPOS tag: CONJ
 [Line                   193]: Unknown UPOS tag: CONJ
 [Line                   213]: Missing the sent_id attribute.
+[Line                   213]: Missing the text attribute.
 [Line                   228]: Missing the sent_id attribute.
+[Line                   228]: Missing the text attribute.
 [Line                   265]: Unknown UPOS tag: CONJ
 [Line                   268]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   292]: Unknown UPOS tag: CONJ
-[Line                   297]: Missing the sent_id attribute.
-[Line                   320]: Missing the sent_id attribute.
 [Line                   327]: Unknown UPOS tag: CONJ
-[Line                   330]: Missing the sent_id attribute.
-[Line                   353]: Missing the sent_id attribute.
 [Line                   364]: Unknown UPOS tag: CONJ
 [Line                   371]: Unknown UPOS tag: CONJ
-[Line                   378]: Missing the sent_id attribute.
-[Line                   395]: Missing the sent_id attribute.
 [Line                   402]: Unknown UPOS tag: CONJ
-[Line                   410]: Missing the sent_id attribute.
-[Line                   427]: Missing the sent_id attribute.
 [Line                   438]: Unknown UPOS tag: CONJ
-[Line                   445]: Missing the sent_id attribute.
 ...suppressing further errors regarding Morpho
-...suppressing further errors regarding Metadata
-*** FAILED *** with 3060 errors
-Metadata errors: 559
+*** FAILED *** with 3619 errors
+Metadata errors: 1118
 Morpho errors: 371
 Syntax errors: 2130
 
@@ -4319,12 +4016,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 [Line                   9]: Unknown UD DEPREL: name
 [Line                   12]: Unknown UD DEPREL: name
 [Line                   19]: Missing the sent_id attribute.
+[Line                   19]: Missing the text attribute.
 [Line                   27]: Unknown UPOS tag: CONJ
 [Line                   31]: Unknown UD DEPREL: dobj
 [Line                   32]: Unknown UPOS tag: CONJ
 [Line                   35]: Unknown UD DEPREL: dobj
 [Line                   39]: Unknown UD DEPREL: dobj
 [Line                   41]: Missing the sent_id attribute.
+[Line                   41]: Missing the text attribute.
 [Line                   42]: Unknown UD DEPREL: nsubjpass
 [Line                   47]: Unknown UD DEPREL: name
 [Line                   48]: Unknown UD DEPREL: nsubjpass
@@ -4335,6 +4034,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 [Line                   62]: Unknown UD DEPREL: name
 [Line                   66]: Unknown UD DEPREL: nsubjpass
 [Line                   72]: Missing the sent_id attribute.
+[Line                   72]: Missing the text attribute.
 [Line                   82]: Unknown UPOS tag: CONJ
 [Line                   85]: Unknown UD DEPREL: name
 [Line                   89]: Unknown UD DEPREL: dobj
@@ -4345,27 +4045,24 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 [Line                   116]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
 [Line                   122]: Missing the sent_id attribute.
+[Line                   122]: Missing the text attribute.
 [Line                   139]: Missing the sent_id attribute.
+[Line                   139]: Missing the text attribute.
 [Line                   162]: Missing the sent_id attribute.
+[Line                   162]: Missing the text attribute.
 [Line                   174]: Missing the sent_id attribute.
+[Line                   174]: Missing the text attribute.
 [Line                   194]: Unknown UPOS tag: CONJ
 [Line                   202]: Missing the sent_id attribute.
+[Line                   202]: Missing the text attribute.
 [Line                   213]: Missing the sent_id attribute.
+[Line                   213]: Missing the text attribute.
 [Line                   249]: Missing the sent_id attribute.
-[Line                   267]: Missing the sent_id attribute.
-[Line                   291]: Missing the sent_id attribute.
-[Line                   311]: Missing the sent_id attribute.
-[Line                   360]: Missing the sent_id attribute.
-[Line                   371]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   385]: Unknown UPOS tag: CONJ
-[Line                   391]: Missing the sent_id attribute.
-[Line                   409]: Missing the sent_id attribute.
 [Line                   412]: Unknown UPOS tag: CONJ
 [Line                   423]: Unknown UPOS tag: CONJ
-[Line                   428]: Missing the sent_id attribute.
-[Line                   436]: Missing the sent_id attribute.
 [Line                   442]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   463]: Unknown UPOS tag: CONJ
 [Line                   472]: Unknown UPOS tag: CONJ
 [Line                   531]: Unknown UPOS tag: CONJ
@@ -4375,8 +4072,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 [Line                   577]: Unknown UPOS tag: CONJ
 [Line                   608]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 24441 errors
-Metadata errors: 4477
+*** FAILED *** with 28918 errors
+Metadata errors: 8954
 Morpho errors: 2913
 Syntax errors: 17051
 
@@ -4390,7 +4087,7 @@ Syntax errors: 17051
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:09:21Z">2017-01-30T10:09:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:13Z">2017-01-30T12:02:13 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4401,35 +4098,44 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJ
 [Line                   19]: Unknown UPOS tag: CONJ
 [Line                   29]: Unknown UPOS tag: CONJ
 [Line                   33]: Missing the sent_id attribute.
+[Line                   33]: Missing the text attribute.
 [Line                   35]: Unknown UD DEPREL: dobj
 [Line                   51]: Unknown UD DEPREL: dobj
 [Line                   54]: Unknown UPOS tag: CONJ
 [Line                   63]: Missing the sent_id attribute.
+[Line                   63]: Missing the text attribute.
 [Line                   67]: Unknown UD DEPREL: dobj
 [Line                   72]: Missing the sent_id attribute.
+[Line                   72]: Missing the text attribute.
 [Line                   74]: Unknown UD DEPREL: dobj
 [Line                   79]: Missing the sent_id attribute.
+[Line                   79]: Missing the text attribute.
 [Line                   80]: Unknown attribute-value pair Negative=Neg
 [Line                   80]: Unknown UD DEPREL: neg
 [Line                   81]: Unknown attribute-value pair Negative=Neg
 [Line                   86]: Missing the sent_id attribute.
+[Line                   86]: Missing the text attribute.
 [Line                   93]: Unknown UD DEPREL: dobj
 [Line                   103]: Unknown attribute-value pair Negative=Neg
 [Line                   103]: Unknown UD DEPREL: neg
 [Line                   104]: Unknown attribute-value pair Negative=Neg
 [Line                   105]: Unknown UD DEPREL: dobj
 [Line                   114]: Missing the sent_id attribute.
+[Line                   114]: Missing the text attribute.
 [Line                   124]: Unknown UPOS tag: CONJ
 [Line                   129]: Unknown UPOS tag: CONJ
 [Line                   134]: Unknown UD DEPREL: dobj
 [Line                   140]: Missing the sent_id attribute.
+[Line                   140]: Missing the text attribute.
 [Line                   147]: Missing the sent_id attribute.
+[Line                   147]: Missing the text attribute.
 [Line                   156]: Unknown UD DEPREL: dobj
 [Line                   158]: Missing the sent_id attribute.
+[Line                   158]: Missing the text attribute.
 [Line                   171]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   186]: Unknown UPOS tag: CONJ
 [Line                   191]: Unknown UPOS tag: CONJ
-[Line                   194]: Missing the sent_id attribute.
 [Line                   211]: Unknown UPOS tag: CONJ
 [Line                   218]: Unknown UPOS tag: CONJ
 [Line                   220]: Unknown UD DEPREL: dobj
@@ -4438,26 +4144,17 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJ
 [Line                   240]: Unknown UD DEPREL: dobj
 [Line                   245]: Unknown UPOS tag: CONJ
 [Line                   246]: Unknown UD DEPREL: dobj
-[Line                   251]: Missing the sent_id attribute.
 [Line                   255]: Unknown UPOS tag: CONJ
 [Line                   265]: Unknown UPOS tag: CONJ
 [Line                   268]: Unknown UD DEPREL: dobj
-[Line                   279]: Missing the sent_id attribute.
 [Line                   285]: Unknown UPOS tag: CONJ
 [Line                   308]: Unknown UD DEPREL: dobj
-[Line                   311]: Missing the sent_id attribute.
-[Line                   322]: Missing the sent_id attribute.
 ...suppressing further errors regarding Morpho
-[Line                   359]: Missing the sent_id attribute.
 [Line                   364]: Unknown UD DEPREL: dobj
 [Line                   372]: Unknown UD DEPREL: dobj
-[Line                   379]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   397]: Missing the sent_id attribute.
-[Line                   425]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 429 errors
-Metadata errors: 150
+*** FAILED *** with 579 errors
+Metadata errors: 300
 Morpho errors: 146
 Syntax errors: 133
 
@@ -4470,64 +4167,64 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJ
 [Line                   12]: Unknown UPOS tag: CONJ
 [Line                   19]: Unknown UD DEPREL: dobj
 [Line                   31]: Missing the sent_id attribute.
+[Line                   31]: Missing the text attribute.
 [Line                   46]: Missing the sent_id attribute.
+[Line                   46]: Missing the text attribute.
 [Line                   52]: Unknown UPOS tag: CONJ
 [Line                   58]: Unknown UD DEPREL: dobj
 [Line                   59]: Unknown UPOS tag: CONJ
 [Line                   62]: Unknown UD DEPREL: dobj
 [Line                   65]: Missing the sent_id attribute.
+[Line                   65]: Missing the text attribute.
 [Line                   72]: Unknown attribute-value pair Negative=Neg
 [Line                   78]: Unknown UD DEPREL: dobj
 [Line                   80]: Unknown UD DEPREL: name
 [Line                   81]: Unknown UD DEPREL: name
 [Line                   89]: Unknown attribute-value pair Negative=Neg
 [Line                   121]: Missing the sent_id attribute.
+[Line                   121]: Missing the text attribute.
 [Line                   125]: Unknown UD DEPREL: name
 [Line                   126]: Unknown UD DEPREL: name
 [Line                   146]: Missing the sent_id attribute.
+[Line                   146]: Missing the text attribute.
 [Line                   159]: Unknown UD DEPREL: dobj
 [Line                   167]: Unknown UD DEPREL: dobj
 [Line                   172]: Missing the sent_id attribute.
+[Line                   172]: Missing the text attribute.
 [Line                   178]: Missing the sent_id attribute.
+[Line                   178]: Missing the text attribute.
 [Line                   194]: Unknown UD DEPREL: dobj
 [Line                   197]: Unknown UPOS tag: CONJ
 [Line                   201]: Missing the sent_id attribute.
+[Line                   201]: Missing the text attribute.
 [Line                   211]: Unknown UD DEPREL: name
 [Line                   213]: Unknown UPOS tag: CONJ
 [Line                   219]: Missing the sent_id attribute.
+[Line                   219]: Missing the text attribute.
 [Line                   222]: Unknown UD DEPREL: dobj
 [Line                   227]: Unknown UD DEPREL: dobj
 [Line                   243]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   245]: Unknown UD DEPREL: name
-[Line                   247]: Missing the sent_id attribute.
-[Line                   261]: Missing the sent_id attribute.
-[Line                   267]: Missing the sent_id attribute.
 [Line                   271]: Unknown attribute-value pair Negative=Neg
 [Line                   274]: Unknown UD DEPREL: dobj
 [Line                   279]: Unknown UPOS tag: CONJ
-[Line                   291]: Missing the sent_id attribute.
-[Line                   307]: Missing the sent_id attribute.
 [Line                   314]: Unknown UD DEPREL: dobj
 [Line                   333]: Unknown attribute-value pair Negative=Neg
 [Line                   334]: Unknown attribute-value pair Negative=Neg
-[Line                   339]: Missing the sent_id attribute.
 [Line                   346]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
-[Line                   349]: Missing the sent_id attribute.
 [Line                   356]: Unknown UPOS tag: CONJ
 [Line                   359]: Unknown UPOS tag: CONJ
 [Line                   368]: Unknown UPOS tag: CONJ
 [Line                   375]: Unknown attribute-value pair Negative=Neg
 [Line                   376]: Unknown attribute-value pair Negative=Neg
-[Line                   384]: Missing the sent_id attribute.
-[Line                   391]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   409]: Unknown UPOS tag: CONJ
 [Line                   413]: Unknown UPOS tag: CONJ
 [Line                   468]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 2328 errors
-Metadata errors: 720
+*** FAILED *** with 3048 errors
+Metadata errors: 1440
 Morpho errors: 784
 Syntax errors: 824
 
@@ -4541,7 +4238,7 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:09:23Z">2017-01-30T10:09:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:15Z">2017-01-30T12:02:15 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4572,6 +4269,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJ
 [Line                   389]: Unknown UD DEPREL: flat:name
 [Line                   449]: Unknown UD DEPREL: flat:name
 [Line                   505]: Unknown attribute-value pair Clit=Yes
+[Line                   507]: There should not be a SpaceAfter=No entry for words which are a part of a token
 ...suppressing further errors regarding Syntax
 [Line                   525]: Unknown attribute-value pair Clit=Yes
 [Line                   670]: Unknown attribute-value pair Clit=Yes
@@ -4579,6 +4277,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJ
 [Line                   770]: Unknown attribute-value pair Clit=Yes
 [Line                   812]: Unknown attribute-value pair Clit=Yes
 [Line                   823]: Unknown attribute-value pair Clit=Yes
+[Line                   825]: There should not be a SpaceAfter=No entry for words which are a part of a token
 [Line                   854]: Unknown attribute-value pair Clit=Yes
 [Line                   855]: Unknown attribute-value pair Clit=Yes
 [Line                   885]: Unknown attribute-value pair Clit=Yes
@@ -4587,7 +4286,12 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJ
 [Line                   915]: Unknown attribute-value pair Clit=Yes
 [Line                   923]: Unknown attribute-value pair Clit=Yes
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 418 errors
+[Line                   2069]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   3648]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   3732]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   7597]: There should not be a SpaceAfter=No entry for words which are a part of a token
+*** FAILED *** with 424 errors
+Metadata errors: 6
 Morpho errors: 138
 Syntax errors: 280
 
@@ -4635,8 +4339,29 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJ
 [Line                   2343]: Unknown attribute-value pair Clit=Yes
 [Line                   2440]: Unknown attribute-value pair Clit=Yes
 [Line                   2445]: Unknown attribute-value pair Clit=Yes
+[Line                   2448]: There should not be a SpaceAfter=No entry for words which are a part of a token
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 10077 errors
+[Line                   3091]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   4708]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   6100]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   6329]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   6713]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   6865]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   8803]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   10226]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   12133]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   13607]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   13655]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   15892]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   16634]: Mismatch between the text attribute and the FORM field. Form is 'abbattersi' but text is ' abbattersi" per primo su Petr...'
+[Line                   16634]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   16634]: Mismatch between the text attribute and the FORM field. Form is '"' but text is ' abbattersi" per prim...'
+[Line                   16634]: Mismatch between the text attribute and the FORM field. Form is 'per' but text is ' abbattersi" per primo ...'
+[Line                   16634]: Mismatch between the text attribute and the FORM field. Form is 'primo' but text is ' abbattersi" per primo su...'
+[Line                   16634]: Mismatch between the text attribute and the FORM field. Form is 'su' but text is ' abbattersi" per primo...'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 10524 errors
+Metadata errors: 447
 Morpho errors: 3376
 Syntax errors: 6701
 
@@ -4650,34 +4375,34 @@ Syntax errors: 6701
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:09:41Z">2017-01-30T10:09:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:32Z">2017-01-30T12:02:32 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese/ja-ud-dev.conllu
 
 [Line                   23]: Missing the sent_id attribute.
+[Line                   23]: Missing the text attribute.
 [Line                   50]: Missing the sent_id attribute.
+[Line                   50]: Missing the text attribute.
 [Line                   72]: Missing the sent_id attribute.
+[Line                   72]: Missing the text attribute.
 [Line                   87]: Missing the sent_id attribute.
+[Line                   87]: Missing the text attribute.
 [Line                   99]: Missing the sent_id attribute.
+[Line                   99]: Missing the text attribute.
 [Line                   118]: Missing the sent_id attribute.
+[Line                   118]: Missing the text attribute.
 [Line                   165]: Missing the sent_id attribute.
+[Line                   165]: Missing the text attribute.
 [Line                   234]: Missing the sent_id attribute.
+[Line                   234]: Missing the text attribute.
 [Line                   249]: Missing the sent_id attribute.
+[Line                   249]: Missing the text attribute.
 [Line                   274]: Missing the sent_id attribute.
-[Line                   311]: Missing the sent_id attribute.
-[Line                   354]: Missing the sent_id attribute.
-[Line                   369]: Missing the sent_id attribute.
-[Line                   379]: Missing the sent_id attribute.
-[Line                   415]: Missing the sent_id attribute.
-[Line                   428]: Missing the sent_id attribute.
-[Line                   492]: Missing the sent_id attribute.
-[Line                   522]: Missing the sent_id attribute.
-[Line                   537]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 600 errors
-Metadata errors: 600
+*** FAILED *** with 1200 errors
+Metadata errors: 1200
 
 
 ******************
@@ -4685,27 +4410,27 @@ Metadata errors: 600
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese/ja-ud-train.conllu
 
 [Line                   38]: Missing the sent_id attribute.
+[Line                   38]: Missing the text attribute.
 [Line                   55]: Missing the sent_id attribute.
+[Line                   55]: Missing the text attribute.
 [Line                   91]: Missing the sent_id attribute.
+[Line                   91]: Missing the text attribute.
 [Line                   113]: Missing the sent_id attribute.
+[Line                   113]: Missing the text attribute.
 [Line                   121]: Missing the sent_id attribute.
+[Line                   121]: Missing the text attribute.
 [Line                   150]: Missing the sent_id attribute.
+[Line                   150]: Missing the text attribute.
 [Line                   195]: Missing the sent_id attribute.
+[Line                   195]: Missing the text attribute.
 [Line                   218]: Missing the sent_id attribute.
+[Line                   218]: Missing the text attribute.
 [Line                   232]: Missing the sent_id attribute.
+[Line                   232]: Missing the text attribute.
 [Line                   305]: Missing the sent_id attribute.
-[Line                   312]: Missing the sent_id attribute.
-[Line                   321]: Missing the sent_id attribute.
-[Line                   362]: Missing the sent_id attribute.
-[Line                   380]: Missing the sent_id attribute.
-[Line                   412]: Missing the sent_id attribute.
-[Line                   431]: Missing the sent_id attribute.
-[Line                   471]: Missing the sent_id attribute.
-[Line                   493]: Missing the sent_id attribute.
-[Line                   502]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 8277 errors
-Metadata errors: 8277
+*** FAILED *** with 16554 errors
+Metadata errors: 16554
 
 
 ******************
@@ -4717,13 +4442,14 @@ Metadata errors: 8277
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-KTC</span>
 <span class="widespan">ja ktc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:09:52Z">2017-01-30T10:09:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:44Z">2017-01-30T12:02:44 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja_ktc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud-dev.conllu
 
 [Line                   10]: Missing the sent_id attribute.
+[Line                   10]: Missing the text attribute.
 [Line                   14]: Unknown UPOS tag: CONJ
 [Line                   16]: Unknown UD DEPREL: name
 [Line                   23]: Unknown UD DEPREL: dobj
@@ -4731,6 +4457,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja_ktc /home/ginter/UD_
 [Line                   39]: Unknown UD DEPREL: dobj
 [Line                   47]: Unknown UD DEPREL: dobj
 [Line                   54]: Missing the sent_id attribute.
+[Line                   54]: Missing the text attribute.
 [Line                   62]: Unknown UPOS tag: CONJ
 [Line                   67]: Unknown UD DEPREL: dobj
 [Line                   80]: Unknown UD DEPREL: mwe
@@ -4739,41 +4466,39 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja_ktc /home/ginter/UD_
 [Line                   109]: Unknown UD DEPREL: dobj
 [Line                   122]: Unknown UD DEPREL: auxpass
 [Line                   124]: Missing the sent_id attribute.
+[Line                   124]: Missing the text attribute.
 [Line                   151]: Missing the sent_id attribute.
+[Line                   151]: Missing the text attribute.
 [Line                   161]: Unknown UD DEPREL: dobj
 [Line                   167]: Missing the sent_id attribute.
+[Line                   167]: Missing the text attribute.
 [Line                   169]: Unknown UPOS tag: CONJ
 [Line                   191]: Unknown UD DEPREL: dobj
 [Line                   197]: Missing the sent_id attribute.
+[Line                   197]: Missing the text attribute.
 [Line                   237]: Unknown UD DEPREL: dobj
 [Line                   247]: Missing the sent_id attribute.
+[Line                   247]: Missing the text attribute.
 [Line                   263]: Unknown UD DEPREL: dobj
 [Line                   269]: Unknown UD DEPREL: dobj
 [Line                   283]: Unknown UD DEPREL: mwe
 [Line                   290]: Unknown UD DEPREL: dobj
 [Line                   298]: Missing the sent_id attribute.
+[Line                   298]: Missing the text attribute.
 [Line                   300]: Unknown UPOS tag: CONJ
 [Line                   306]: Unknown UD DEPREL: mwe
 ...suppressing further errors regarding Syntax
 [Line                   334]: Missing the sent_id attribute.
+[Line                   334]: Missing the text attribute.
 [Line                   398]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   420]: Unknown UPOS tag: CONJ
-[Line                   437]: Missing the sent_id attribute.
 [Line                   439]: Unknown UPOS tag: CONJ
 [Line                   445]: Unknown UPOS tag: CONJ
-[Line                   455]: Missing the sent_id attribute.
-[Line                   492]: Missing the sent_id attribute.
-[Line                   539]: Missing the sent_id attribute.
 [Line                   541]: Unknown UPOS tag: CONJ
-[Line                   581]: Missing the sent_id attribute.
 [Line                   583]: Unknown UPOS tag: CONJ
 [Line                   589]: Unknown UPOS tag: CONJ
-[Line                   603]: Missing the sent_id attribute.
 [Line                   634]: Unknown UPOS tag: CONJ
-[Line                   657]: Missing the sent_id attribute.
-[Line                   692]: Missing the sent_id attribute.
-[Line                   753]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   896]: Unknown UPOS tag: CONJ
 [Line                   954]: Unknown UPOS tag: CONJ
 [Line                   1058]: Unknown UPOS tag: CONJ
@@ -4783,8 +4508,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja_ktc /home/ginter/UD_
 [Line                   1401]: Unknown UPOS tag: CONJ
 [Line                   1539]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 3355 errors
-Metadata errors: 1119
+*** FAILED *** with 4474 errors
+Metadata errors: 2238
 Morpho errors: 283
 Syntax errors: 1953
 
@@ -4801,44 +4526,44 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja_ktc /home/ginter/UD_
 [Line                   70]: Unknown UD DEPREL: neg
 [Line                   73]: Unknown UD DEPREL: dobj
 [Line                   78]: Missing the sent_id attribute.
+[Line                   78]: Missing the text attribute.
 [Line                   80]: Unknown UPOS tag: CONJ
 [Line                   101]: Unknown UD DEPREL: dobj
 [Line                   116]: Unknown UD DEPREL: dobj
 [Line                   124]: Missing the sent_id attribute.
+[Line                   124]: Missing the text attribute.
 [Line                   146]: Unknown UD DEPREL: dobj
 [Line                   162]: Missing the sent_id attribute.
+[Line                   162]: Missing the text attribute.
 [Line                   179]: Missing the sent_id attribute.
+[Line                   179]: Missing the text attribute.
 [Line                   193]: Unknown UPOS tag: CONJ
 [Line                   194]: Unknown UD DEPREL: dobj
 [Line                   209]: Missing the sent_id attribute.
+[Line                   209]: Missing the text attribute.
 [Line                   222]: Unknown UD DEPREL: dobj
 [Line                   229]: Missing the sent_id attribute.
+[Line                   229]: Missing the text attribute.
 [Line                   231]: Unknown UPOS tag: CONJ
 [Line                   245]: Unknown UD DEPREL: dobj
 [Line                   263]: Unknown UD DEPREL: dobj
 [Line                   271]: Missing the sent_id attribute.
+[Line                   271]: Missing the text attribute.
 [Line                   273]: Unknown UPOS tag: CONJ
 [Line                   300]: Missing the sent_id attribute.
+[Line                   300]: Missing the text attribute.
 [Line                   316]: Unknown UD DEPREL: dobj
 [Line                   326]: Unknown UD DEPREL: dobj
 [Line                   332]: Missing the sent_id attribute.
+[Line                   332]: Missing the text attribute.
 [Line                   335]: Unknown UD DEPREL: name
 [Line                   348]: Missing the sent_id attribute.
-[Line                   372]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   380]: Unknown UD DEPREL: mwe
 [Line                   381]: Unknown UD DEPREL: mwe
 ...suppressing further errors regarding Syntax
-[Line                   395]: Missing the sent_id attribute.
-[Line                   420]: Missing the sent_id attribute.
-[Line                   450]: Missing the sent_id attribute.
 [Line                   455]: Unknown UPOS tag: CONJ
 [Line                   478]: Unknown UPOS tag: CONJ
-[Line                   492]: Missing the sent_id attribute.
-[Line                   509]: Missing the sent_id attribute.
-[Line                   523]: Missing the sent_id attribute.
-[Line                   537]: Missing the sent_id attribute.
-[Line                   554]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   726]: Unknown UPOS tag: CONJ
 [Line                   1056]: Unknown UPOS tag: CONJ
 [Line                   1291]: Unknown UPOS tag: CONJ
@@ -4853,8 +4578,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja_ktc /home/ginter/UD_
 [Line                   1964]: Unknown UPOS tag: CONJ
 [Line                   2022]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 17583 errors
-Metadata errors: 6039
+*** FAILED *** with 23622 errors
+Metadata errors: 12078
 Morpho errors: 1694
 Syntax errors: 9850
 
@@ -4868,42 +4593,46 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:10:03Z">2017-01-30T10:10:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:55Z">2017-01-30T12:02:55 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 
 [Line                   6]: Missing the sent_id attribute.
+[Line                   6]: Missing the text attribute.
 [Line                   15]: Missing the sent_id attribute.
+[Line                   15]: Missing the text attribute.
 [Line                   24]: Missing the sent_id attribute.
+[Line                   24]: Missing the text attribute.
 [Line                   33]: Missing the sent_id attribute.
+[Line                   33]: Missing the text attribute.
 [Line                   39]: Unknown UD DEPREL: dobj
 [Line                   42]: Missing the sent_id attribute.
+[Line                   42]: Missing the text attribute.
 [Line                   52]: Missing the sent_id attribute.
+[Line                   52]: Missing the text attribute.
 [Line                   54]: Unknown UD DEPREL: dobj
 [Line                   58]: Missing the sent_id attribute.
+[Line                   58]: Missing the text attribute.
 [Line                   60]: Unknown UPOS tag: CONJ
 [Line                   67]: Missing the sent_id attribute.
+[Line                   67]: Missing the text attribute.
 [Line                   87]: Missing the sent_id attribute.
+[Line                   87]: Missing the text attribute.
 [Line                   91]: Unknown UD DEPREL: name
 [Line                   92]: Unknown UD DEPREL: name
 [Line                   103]: Missing the sent_id attribute.
-[Line                   124]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   133]: Unknown UPOS tag: CONJ
 [Line                   142]: Unknown UD DEPREL: name
 [Line                   145]: Unknown UD DEPREL: name
 [Line                   148]: Unknown UD DEPREL: name
 [Line                   149]: Unknown UD DEPREL: name
-[Line                   159]: Missing the sent_id attribute.
-[Line                   168]: Missing the sent_id attribute.
-[Line                   177]: Missing the sent_id attribute.
-[Line                   186]: Missing the sent_id attribute.
 [Line                   202]: Unknown UPOS tag: CONJ
 [Line                   210]: Unknown UPOS tag: CONJ
 [Line                   218]: Unknown UPOS tag: CONJ
 [Line                   229]: Unknown UPOS tag: CONJ
-[Line                   240]: Missing the sent_id attribute.
 [Line                   251]: Unknown UPOS tag: CONJ
 [Line                   257]: Unknown UPOS tag: CONJ
 [Line                   264]: Unknown UPOS tag: CONJ
@@ -4911,12 +4640,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJ
 [Line                   274]: Unknown UPOS tag: CONJ
 [Line                   275]: Unknown UD DEPREL: dobj
 [Line                   279]: Unknown UPOS tag: CONJ
-[Line                   296]: Missing the sent_id attribute.
 [Line                   302]: Unknown UPOS tag: CONJ
 [Line                   303]: Unknown UD DEPREL: dobj
-[Line                   311]: Missing the sent_id attribute.
-[Line                   319]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   340]: Unknown UD DEPREL: dobj
 [Line                   371]: Unknown UD DEPREL: dobj
 [Line                   372]: Unknown UD DEPREL: dobj
@@ -4934,8 +4659,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJ
 [Line                   531]: Unknown UPOS tag: CONJ
 [Line                   564]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 145 errors
-Metadata errors: 60
+*** FAILED *** with 205 errors
+Metadata errors: 120
 Morpho errors: 42
 Syntax errors: 43
 
@@ -4945,45 +4670,45 @@ Syntax errors: 43
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-train.conllu
 
 [Line                   11]: Missing the sent_id attribute.
+[Line                   11]: Missing the text attribute.
 [Line                   18]: Missing the sent_id attribute.
+[Line                   18]: Missing the text attribute.
 [Line                   27]: Missing the sent_id attribute.
+[Line                   27]: Missing the text attribute.
 [Line                   32]: Unknown UD DEPREL: dobj
 [Line                   44]: Unknown UPOS tag: CONJ
 [Line                   47]: Unknown UD DEPREL: dobj
 [Line                   49]: Unknown UD DEPREL: dobj
 [Line                   57]: Missing the sent_id attribute.
+[Line                   57]: Missing the text attribute.
 [Line                   64]: Unknown UD DEPREL: name
 [Line                   65]: Unknown UD DEPREL: name
 [Line                   71]: Unknown UPOS tag: CONJ
 [Line                   73]: Unknown UD DEPREL: dobj
 [Line                   76]: Missing the sent_id attribute.
+[Line                   76]: Missing the text attribute.
 [Line                   87]: Unknown UPOS tag: CONJ
 [Line                   93]: Missing the sent_id attribute.
+[Line                   93]: Missing the text attribute.
 [Line                   103]: Missing the sent_id attribute.
+[Line                   103]: Missing the text attribute.
 [Line                   111]: Missing the sent_id attribute.
+[Line                   111]: Missing the text attribute.
 [Line                   125]: Missing the sent_id attribute.
+[Line                   125]: Missing the text attribute.
 [Line                   132]: Unknown UD DEPREL: name
 [Line                   133]: Unknown UD DEPREL: name
 [Line                   136]: Unknown UD DEPREL: dobj
 [Line                   140]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   156]: Unknown UPOS tag: CONJ
 [Line                   158]: Unknown UD DEPREL: dobj
-[Line                   162]: Missing the sent_id attribute.
-[Line                   180]: Missing the sent_id attribute.
 [Line                   200]: Unknown UD DEPREL: dobj
 [Line                   206]: Unknown UD DEPREL: dobj
-[Line                   209]: Missing the sent_id attribute.
 [Line                   216]: Unknown UD DEPREL: name
 [Line                   220]: Unknown UD DEPREL: dobj
-[Line                   227]: Missing the sent_id attribute.
 [Line                   238]: Unknown UD DEPREL: dobj
-[Line                   243]: Missing the sent_id attribute.
-[Line                   257]: Missing the sent_id attribute.
-[Line                   265]: Missing the sent_id attribute.
-[Line                   278]: Missing the sent_id attribute.
 [Line                   282]: Unknown UD DEPREL: name
-[Line                   287]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   330]: Unknown UD DEPREL: dobj
 [Line                   358]: Unknown UD DEPREL: dobj
 [Line                   373]: Unknown UPOS tag: CONJ
@@ -5004,8 +4729,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJ
 [Line                   846]: Unknown UPOS tag: CONJ
 [Line                   850]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1024 errors
-Metadata errors: 480
+*** FAILED *** with 1504 errors
+Metadata errors: 960
 Morpho errors: 236
 Syntax errors: 308
 
@@ -5019,56 +4744,56 @@ Syntax errors: 308
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:10:03Z">2017-01-30T10:10:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:02:56Z">2017-01-30T12:02:56 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ko /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Korean/sejong_tuning.conllu
 
 [Line                   3]: Missing the sent_id attribute.
+[Line                   3]: Missing the text attribute.
 [Line                   8]: Unknown UD DEPREL: dobj
 [Line                   32]: Unknown UD DEPREL: dobj
 [Line                   39]: Missing the sent_id attribute.
+[Line                   39]: Missing the text attribute.
 [Line                   42]: Unknown UD DEPREL: nummmod
 [Line                   53]: Missing the sent_id attribute.
+[Line                   53]: Missing the text attribute.
 [Line                   54]: Unknown UD DEPREL: nummmod
 [Line                   62]: Unknown UD DEPREL: dobj
 [Line                   84]: Unknown UD DEPREL: dobj
 [Line                   89]: Missing the sent_id attribute.
+[Line                   89]: Missing the text attribute.
 [Line                   90]: Unknown UD DEPREL: dobj
 [Line                   127]: Missing the sent_id attribute.
+[Line                   127]: Missing the text attribute.
 [Line                   133]: Unknown UD DEPREL: neg
 [Line                   135]: Unknown UD DEPREL: dobj
 [Line                   139]: Unknown UD DEPREL: dobj
 [Line                   155]: Missing the sent_id attribute.
+[Line                   155]: Missing the text attribute.
 [Line                   166]: Unknown UD DEPREL: dobj
 [Line                   170]: Missing the sent_id attribute.
+[Line                   170]: Missing the text attribute.
 [Line                   172]: Unknown UD DEPREL: dobj
 [Line                   180]: Unknown UD DEPREL: nummmod
 [Line                   189]: Missing the sent_id attribute.
+[Line                   189]: Missing the text attribute.
 [Line                   195]: Unknown UPOS tag: CONJ
 [Line                   204]: Missing the sent_id attribute.
+[Line                   204]: Missing the text attribute.
 [Line                   207]: Unknown UPOS tag: CONJ
 [Line                   231]: Unknown UD DEPREL: neg
 [Line                   238]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   239]: Unknown UD DEPREL: dobj
 [Line                   241]: Unknown UD DEPREL: neg
 [Line                   255]: Unknown UD DEPREL: dobj
-[Line                   268]: Missing the sent_id attribute.
-[Line                   282]: Missing the sent_id attribute.
 [Line                   286]: Unknown UD DEPREL: dobj
 [Line                   307]: Unknown UD DEPREL: dobj
-[Line                   314]: Missing the sent_id attribute.
-[Line                   328]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   355]: Missing the sent_id attribute.
 [Line                   356]: Unknown UPOS tag: CONJ
-[Line                   381]: Missing the sent_id attribute.
-[Line                   395]: Missing the sent_id attribute.
-[Line                   401]: Missing the sent_id attribute.
-[Line                   422]: Missing the sent_id attribute.
 [Line                   424]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   687]: Unknown UPOS tag: CONJ
 [Line                   1033]: Unknown UPOS tag: CONJ
 [Line                   1079]: Unknown UPOS tag: CONJ
@@ -5087,9 +4812,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ko /home/ginter/UD_PROJ
 ...suppressing further errors regarding Morpho
 [Line                   12809]: Empty value in column FORM
 [Line                   12809]: Empty value in column LEMMA
-*** FAILED *** with 11711 errors
+*** FAILED *** with 15840 errors
 Format errors: 2
-Metadata errors: 4129
+Metadata errors: 8258
 Morpho errors: 1004
 Syntax errors: 6576
 
@@ -5103,7 +4828,7 @@ Syntax errors: 6576
 <span class="doublewidespan" style="padding-left:3em">UD Kurmanji</span>
 <span class="widespan">kmr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:10:09Z">2017-01-30T10:10:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:00Z">2017-01-30T12:03:00 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5114,24 +4839,28 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Latin</span>
 <span class="widespan">la</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:10:09Z">2017-01-30T10:10:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:00Z">2017-01-30T12:03:00 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin/la-ud-dev.conllu
 
 [Line                   11]: Missing the sent_id attribute.
+[Line                   11]: Missing the text attribute.
 [Line                   13]: Unknown UPOS tag: CONJ
 [Line                   15]: Unknown UPOS tag: CONJ
 [Line                   16]: Unknown UD DEPREL: dobj
 [Line                   21]: Unknown UD DEPREL: nsubjpass
 [Line                   22]: Unknown UD DEPREL: dobj
 [Line                   25]: Missing the sent_id attribute.
+[Line                   25]: Missing the text attribute.
 [Line                   29]: Unknown UPOS tag: CONJ
 [Line                   30]: Unknown UD DEPREL: dobj
 [Line                   32]: Missing the sent_id attribute.
+[Line                   32]: Missing the text attribute.
 [Line                   37]: Unknown UD DEPREL: dobj
 [Line                   39]: Missing the sent_id attribute.
+[Line                   39]: Missing the text attribute.
 [Line                   41]: Unknown UD DEPREL: dobj
 [Line                   43]: Unknown UPOS tag: CONJ
 [Line                   47]: Unknown UPOS tag: CONJ
@@ -5139,39 +4868,35 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la /home/ginter/UD_PROJ
 [Line                   57]: Unknown UD DEPREL: nsubjpass
 [Line                   59]: Unknown UD DEPREL: auxpass
 [Line                   61]: Missing the sent_id attribute.
+[Line                   61]: Missing the text attribute.
 [Line                   68]: Missing the sent_id attribute.
+[Line                   68]: Missing the text attribute.
 [Line                   72]: Missing the sent_id attribute.
+[Line                   72]: Missing the text attribute.
 [Line                   76]: Missing the sent_id attribute.
+[Line                   76]: Missing the text attribute.
 [Line                   79]: Unknown UD DEPREL: dobj
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   82]: Unknown UPOS tag: CONJ
 [Line                   84]: Unknown UD DEPREL: dobj
 [Line                   85]: Missing the sent_id attribute.
-[Line                   89]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   93]: Unknown UD DEPREL: dobj
 [Line                   101]: Unknown UD DEPREL: dobj
-[Line                   103]: Missing the sent_id attribute.
 [Line                   107]: Unknown UD DEPREL: dobj
 [Line                   109]: Unknown UPOS tag: CONJ
 [Line                   116]: Unknown UD DEPREL: dobj
-[Line                   119]: Missing the sent_id attribute.
-[Line                   127]: Missing the sent_id attribute.
 [Line                   132]: Unknown UD DEPREL: nsubjpass
-[Line                   136]: Missing the sent_id attribute.
 [Line                   137]: Unknown UPOS tag: CONJ
 [Line                   145]: Unknown UPOS tag: CONJ
 [Line                   146]: Unknown UD DEPREL: dobj
-[Line                   149]: Missing the sent_id attribute.
 [Line                   160]: Unknown UPOS tag: CONJ
 [Line                   161]: Unknown UD DEPREL: dobj
-[Line                   163]: Missing the sent_id attribute.
 [Line                   167]: Unknown UPOS tag: CONJ
 [Line                   169]: Unknown UD DEPREL: dobj
-[Line                   171]: Missing the sent_id attribute.
 [Line                   178]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Syntax
-[Line                   195]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   206]: Unknown UPOS tag: CONJ
 [Line                   220]: Unknown UPOS tag: CONJ
 [Line                   235]: Unknown UPOS tag: CONJ
@@ -5180,8 +4905,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la /home/ginter/UD_PROJ
 [Line                   269]: Unknown UPOS tag: CONJ
 [Line                   276]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1363 errors
-Metadata errors: 379
+*** FAILED *** with 1742 errors
+Metadata errors: 758
 Morpho errors: 378
 Syntax errors: 606
 
@@ -5193,29 +4918,38 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la /home/ginter/UD_PROJ
 [Line                   4]: Unknown UD DEPREL: dobj
 [Line                   7]: Unknown UD DEPREL: dobj
 [Line                   13]: Missing the sent_id attribute.
+[Line                   13]: Missing the text attribute.
 [Line                   17]: Unknown UPOS tag: CONJ
 [Line                   21]: Unknown UD DEPREL: nsubjpass
 [Line                   24]: Unknown UD DEPREL: neg
 [Line                   34]: Missing the sent_id attribute.
+[Line                   34]: Missing the text attribute.
 [Line                   43]: Missing the sent_id attribute.
+[Line                   43]: Missing the text attribute.
 [Line                   47]: Missing the sent_id attribute.
+[Line                   47]: Missing the text attribute.
 [Line                   50]: Unknown UD DEPREL: neg
 [Line                   51]: Unknown UD DEPREL: auxpass
 [Line                   53]: Missing the sent_id attribute.
+[Line                   53]: Missing the text attribute.
 [Line                   54]: Unknown UPOS tag: CONJ
 [Line                   56]: Unknown UD DEPREL: dobj
 [Line                   61]: Missing the sent_id attribute.
+[Line                   61]: Missing the text attribute.
 [Line                   66]: Unknown UD DEPREL: auxpass
 [Line                   68]: Unknown UD DEPREL: nsubjpass
 [Line                   73]: Unknown UD DEPREL: dobj
 [Line                   76]: Missing the sent_id attribute.
+[Line                   76]: Missing the text attribute.
 [Line                   85]: Unknown UD DEPREL: dobj
 [Line                   87]: Unknown UD DEPREL: dobj
 [Line                   88]: Unknown UPOS tag: CONJ
 [Line                   93]: Missing the sent_id attribute.
+[Line                   93]: Missing the text attribute.
 [Line                   97]: Unknown UD DEPREL: nsubjpass
 [Line                   98]: Unknown UD DEPREL: dobj
 [Line                   103]: Missing the sent_id attribute.
+[Line                   103]: Missing the text attribute.
 [Line                   106]: Unknown UD DEPREL: dobj
 [Line                   111]: Unknown UD DEPREL: neg
 [Line                   116]: Unknown UPOS tag: CONJ
@@ -5224,24 +4958,15 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la /home/ginter/UD_PROJ
 [Line                   124]: Unknown UPOS tag: CONJ
 [Line                   131]: Unknown UD DEPREL: dobj
 [Line                   134]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 ...suppressing further errors regarding Syntax
-[Line                   152]: Missing the sent_id attribute.
 [Line                   156]: Unknown UPOS tag: CONJ
 [Line                   168]: Unknown UPOS tag: CONJ
-[Line                   173]: Missing the sent_id attribute.
 [Line                   188]: Unknown UPOS tag: CONJ
-[Line                   194]: Missing the sent_id attribute.
 [Line                   201]: Unknown UPOS tag: CONJ
-[Line                   207]: Missing the sent_id attribute.
-[Line                   228]: Missing the sent_id attribute.
-[Line                   241]: Missing the sent_id attribute.
-[Line                   251]: Missing the sent_id attribute.
 [Line                   253]: Unknown UPOS tag: CONJ
-[Line                   264]: Missing the sent_id attribute.
 [Line                   271]: Unknown UPOS tag: CONJ
-[Line                   283]: Missing the sent_id attribute.
 [Line                   295]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   315]: Unknown UPOS tag: CONJ
 [Line                   343]: Unknown UPOS tag: CONJ
 [Line                   350]: Unknown UPOS tag: CONJ
@@ -5250,8 +4975,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la /home/ginter/UD_PROJ
 [Line                   400]: Unknown UPOS tag: CONJ
 [Line                   407]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 9920 errors
-Metadata errors: 2660
+*** FAILED *** with 12580 errors
+Metadata errors: 5320
 Morpho errors: 2470
 Syntax errors: 4790
 
@@ -5264,63 +4989,21 @@ Syntax errors: 4790
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:10:13Z">2017-01-30T10:10:13 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:04Z">2017-01-30T12:03:04 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
 
-[Line                   9]: Missing the sent_id attribute.
-[Line                   24]: Missing the sent_id attribute.
-[Line                   31]: Missing the sent_id attribute.
-[Line                   60]: Missing the sent_id attribute.
-[Line                   81]: Missing the sent_id attribute.
-[Line                   101]: Missing the sent_id attribute.
-[Line                   118]: Missing the sent_id attribute.
-[Line                   128]: Missing the sent_id attribute.
-[Line                   150]: Missing the sent_id attribute.
-[Line                   183]: Missing the sent_id attribute.
-[Line                   196]: Missing the sent_id attribute.
-[Line                   210]: Missing the sent_id attribute.
-[Line                   226]: Missing the sent_id attribute.
-[Line                   244]: Missing the sent_id attribute.
-[Line                   289]: Missing the sent_id attribute.
-[Line                   313]: Missing the sent_id attribute.
-[Line                   327]: Missing the sent_id attribute.
-[Line                   346]: Missing the sent_id attribute.
-[Line                   363]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 700 errors
-Metadata errors: 700
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
 
-[Line                   16]: Missing the sent_id attribute.
-[Line                   30]: Missing the sent_id attribute.
-[Line                   69]: Missing the sent_id attribute.
-[Line                   104]: Missing the sent_id attribute.
-[Line                   121]: Missing the sent_id attribute.
-[Line                   141]: Missing the sent_id attribute.
-[Line                   184]: Missing the sent_id attribute.
-[Line                   200]: Missing the sent_id attribute.
-[Line                   225]: Missing the sent_id attribute.
-[Line                   245]: Missing the sent_id attribute.
-[Line                   256]: Missing the sent_id attribute.
-[Line                   267]: Missing the sent_id attribute.
-[Line                   320]: Missing the sent_id attribute.
-[Line                   352]: Missing the sent_id attribute.
-[Line                   368]: Missing the sent_id attribute.
-[Line                   391]: Missing the sent_id attribute.
-[Line                   414]: Missing the sent_id attribute.
-[Line                   432]: Missing the sent_id attribute.
-[Line                   455]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 15808 errors
-Metadata errors: 15808
+*** PASSED ***
 
 
 ******************
@@ -5332,7 +5015,7 @@ Metadata errors: 15808
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:10:40Z">2017-01-30T10:10:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:29Z">2017-01-30T12:03:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5352,54 +5035,54 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/
 [Line                   41]: Unknown UPOS tag: CONJ
 [Line                   45]: Unknown UD DEPREL: dobj
 [Line                   50]: Missing the sent_id attribute.
+[Line                   50]: Missing the text attribute.
 [Line                   61]: Unknown UD DEPREL: dobj
 [Line                   67]: Unknown UPOS tag: CONJ
 [Line                   74]: Unknown UD DEPREL: auxpass
 [Line                   76]: Unknown UD DEPREL: dobj
 [Line                   81]: Unknown UD DEPREL: dobj
 [Line                   85]: Missing the sent_id attribute.
+[Line                   85]: Missing the text attribute.
 [Line                   89]: Unknown UD DEPREL: dobj
 [Line                   91]: Unknown UD DEPREL: dobj
 [Line                   93]: Missing the sent_id attribute.
+[Line                   93]: Missing the text attribute.
 [Line                   98]: Unknown UPOS tag: CONJ
 [Line                   103]: Unknown UPOS tag: CONJ
 [Line                   109]: Unknown UD DEPREL: nsubjpass
 [Line                   111]: Missing the sent_id attribute.
+[Line                   111]: Missing the text attribute.
 [Line                   118]: Unknown UD DEPREL: dobj
 [Line                   127]: Unknown UD DEPREL: nsubjpass
 [Line                   134]: Missing the sent_id attribute.
+[Line                   134]: Missing the text attribute.
 ...suppressing further errors regarding Syntax
 [Line                   143]: Unknown UPOS tag: CONJ
 [Line                   151]: Unknown UPOS tag: CONJ
 [Line                   161]: Unknown UPOS tag: CONJ
 [Line                   168]: Missing the sent_id attribute.
+[Line                   168]: Missing the text attribute.
 [Line                   176]: Unknown UPOS tag: CONJ
 [Line                   180]: Unknown UPOS tag: CONJ
 [Line                   189]: Unknown UPOS tag: CONJ
 [Line                   205]: Missing the sent_id attribute.
+[Line                   205]: Missing the text attribute.
 [Line                   212]: Unknown UPOS tag: CONJ
 [Line                   228]: Missing the sent_id attribute.
+[Line                   228]: Missing the text attribute.
 [Line                   238]: Missing the sent_id attribute.
+[Line                   238]: Missing the text attribute.
 [Line                   244]: Unknown UPOS tag: CONJ
 [Line                   249]: Unknown UPOS tag: CONJ
 [Line                   253]: Missing the sent_id attribute.
-[Line                   261]: Unknown UPOS tag: CONJ
-[Line                   271]: Missing the sent_id attribute.
-[Line                   287]: Unknown UPOS tag: CONJ
-[Line                   294]: Missing the sent_id attribute.
-[Line                   305]: Missing the sent_id attribute.
-[Line                   308]: Unknown UPOS tag: CONJ
-[Line                   310]: Missing the sent_id attribute.
-[Line                   323]: Missing the sent_id attribute.
-[Line                   338]: Missing the sent_id attribute.
-[Line                   343]: Missing the sent_id attribute.
-[Line                   355]: Unknown UPOS tag: CONJ
-[Line                   366]: Missing the sent_id attribute.
-...suppressing further errors regarding Morpho
-[Line                   394]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 5330 errors
-Metadata errors: 1664
+[Line                   261]: Unknown UPOS tag: CONJ
+[Line                   287]: Unknown UPOS tag: CONJ
+[Line                   308]: Unknown UPOS tag: CONJ
+[Line                   355]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 6994 errors
+Metadata errors: 3328
 Morpho errors: 1318
 Syntax errors: 2348
 
@@ -5418,12 +5101,15 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/
 [Line                   20]: Unknown UD DEPREL: remnant
 [Line                   21]: Unknown UD DEPREL: remnant
 [Line                   22]: Missing the sent_id attribute.
+[Line                   22]: Missing the text attribute.
 [Line                   31]: Missing the sent_id attribute.
+[Line                   31]: Missing the text attribute.
 [Line                   32]: Unknown UD DEPREL: dobj
 [Line                   34]: Unknown UD DEPREL: remnant
 [Line                   35]: Unknown UD DEPREL: remnant
 [Line                   40]: Unknown UPOS tag: CONJ
 [Line                   43]: Missing the sent_id attribute.
+[Line                   43]: Missing the text attribute.
 [Line                   53]: Unknown UPOS tag: CONJ
 [Line                   59]: Unknown UPOS tag: CONJ
 [Line                   65]: Unknown UPOS tag: CONJ
@@ -5431,45 +5117,42 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/
 [Line                   74]: Unknown UPOS tag: CONJ
 [Line                   84]: Unknown UD DEPREL: dobj
 [Line                   86]: Missing the sent_id attribute.
+[Line                   86]: Missing the text attribute.
 [Line                   93]: Unknown UD DEPREL: dobj
 [Line                   104]: Unknown UPOS tag: CONJ
 [Line                   107]: Unknown UD DEPREL: dobj
 [Line                   109]: Unknown UPOS tag: CONJ
 [Line                   114]: Unknown UD DEPREL: dobj
 [Line                   116]: Missing the sent_id attribute.
+[Line                   116]: Missing the text attribute.
 [Line                   122]: Unknown UPOS tag: CONJ
 [Line                   125]: Missing the sent_id attribute.
+[Line                   125]: Missing the text attribute.
 [Line                   128]: Unknown UD DEPREL: name
 [Line                   130]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
 [Line                   138]: Unknown UPOS tag: CONJ
 [Line                   149]: Missing the sent_id attribute.
+[Line                   149]: Missing the text attribute.
 [Line                   160]: Missing the sent_id attribute.
+[Line                   160]: Missing the text attribute.
 [Line                   170]: Missing the sent_id attribute.
+[Line                   170]: Missing the text attribute.
 [Line                   175]: Unknown UPOS tag: CONJ
 [Line                   179]: Unknown UPOS tag: CONJ
 [Line                   196]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   200]: Unknown UPOS tag: CONJ
 [Line                   212]: Unknown UPOS tag: CONJ
 [Line                   232]: Unknown UPOS tag: CONJ
-[Line                   235]: Missing the sent_id attribute.
-[Line                   245]: Missing the sent_id attribute.
-[Line                   252]: Missing the sent_id attribute.
-[Line                   259]: Missing the sent_id attribute.
-[Line                   266]: Missing the sent_id attribute.
 [Line                   268]: Unknown UPOS tag: CONJ
 [Line                   280]: Unknown UPOS tag: CONJ
 [Line                   290]: Unknown UPOS tag: CONJ
-[Line                   296]: Missing the sent_id attribute.
 [Line                   301]: Unknown UPOS tag: CONJ
-[Line                   307]: Missing the sent_id attribute.
 [Line                   314]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-[Line                   333]: Missing the sent_id attribute.
-[Line                   341]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 38867 errors
-Metadata errors: 11986
+*** FAILED *** with 50853 errors
+Metadata errors: 23972
 Morpho errors: 9522
 Syntax errors: 17359
 
@@ -5483,7 +5166,7 @@ Syntax errors: 17359
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:10:54Z">2017-01-30T10:10:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:44Z">2017-01-30T12:03:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5492,7 +5175,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJ
 [Line                   3]: Unknown attribute-value pair Negative=Neg
 [Line                   5]: Unknown UD DEPREL: dobj
 [Line                   12]: Missing the sent_id attribute.
+[Line                   12]: Missing the text attribute.
 [Line                   21]: Missing the sent_id attribute.
+[Line                   21]: Missing the text attribute.
 [Line                   25]: Unknown UPOS tag: CONJ
 [Line                   30]: Unknown UD DEPREL: name
 [Line                   35]: Unknown attribute-value pair Negative=Neg
@@ -5504,16 +5189,20 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJ
 [Line                   60]: Unknown UD DEPREL: dobj
 [Line                   61]: Unknown attribute-value pair Negative=Neg
 [Line                   67]: Missing the sent_id attribute.
+[Line                   67]: Missing the text attribute.
 [Line                   80]: Unknown UD DEPREL: nsubjpass
 [Line                   82]: Unknown UD DEPREL: dobj
 [Line                   90]: Missing the sent_id attribute.
+[Line                   90]: Missing the text attribute.
 [Line                   93]: Unknown UD DEPREL: nsubjpass
 [Line                   108]: Unknown UD DEPREL: nsubjpass
 [Line                   110]: Unknown UPOS tag: CONJ
 [Line                   119]: Missing the sent_id attribute.
+[Line                   119]: Missing the text attribute.
 [Line                   124]: Unknown UPOS tag: CONJ
 [Line                   129]: Unknown attribute-value pair Negative=Neg
 [Line                   132]: Missing the sent_id attribute.
+[Line                   132]: Missing the text attribute.
 [Line                   135]: Unknown attribute-value pair Negative=Neg
 [Line                   139]: Unknown UD DEPREL: dobj
 [Line                   142]: Unknown UPOS tag: CONJ
@@ -5523,10 +5212,12 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJ
 [Line                   156]: Unknown UD DEPREL: dobj
 [Line                   157]: Unknown attribute-value pair Negative=Neg
 [Line                   160]: Missing the sent_id attribute.
+[Line                   160]: Missing the text attribute.
 [Line                   165]: Unknown attribute-value pair Negative=Neg
 [Line                   166]: Unknown attribute-value pair Negative=Neg
 [Line                   167]: Unknown UD DEPREL: dobj
 [Line                   175]: Missing the sent_id attribute.
+[Line                   175]: Missing the text attribute.
 [Line                   178]: Unknown UD DEPREL: dobj
 [Line                   179]: Unknown attribute-value pair Negative=Pos
 [Line                   186]: Unknown UPOS tag: CONJ
@@ -5534,23 +5225,15 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJ
 [Line                   190]: Unknown attribute-value pair Negative=Pos
 [Line                   197]: Unknown UD DEPREL: dobj
 [Line                   205]: Missing the sent_id attribute.
+[Line                   205]: Missing the text attribute.
 ...suppressing further errors regarding Morpho
 [Line                   215]: Unknown UD DEPREL: dobj
 [Line                   227]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   243]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-[Line                   282]: Missing the sent_id attribute.
-[Line                   313]: Missing the sent_id attribute.
-[Line                   354]: Missing the sent_id attribute.
-[Line                   390]: Missing the sent_id attribute.
-[Line                   409]: Missing the sent_id attribute.
-[Line                   419]: Missing the sent_id attribute.
-[Line                   442]: Missing the sent_id attribute.
-[Line                   469]: Missing the sent_id attribute.
-[Line                   486]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1062 errors
-Metadata errors: 196
+*** FAILED *** with 1258 errors
+Metadata errors: 392
 Morpho errors: 562
 Syntax errors: 304
 
@@ -5560,56 +5243,56 @@ Syntax errors: 304
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 
 [Line                   3]: Missing the sent_id attribute.
+[Line                   3]: Missing the text attribute.
 [Line                   19]: Unknown UD DEPREL: name
 [Line                   20]: Unknown UPOS tag: CONJ
 [Line                   22]: Unknown UD DEPREL: name
 [Line                   28]: Missing the sent_id attribute.
+[Line                   28]: Missing the text attribute.
 [Line                   34]: Unknown attribute-value pair Negative=Neg
 [Line                   38]: Unknown UPOS tag: CONJ
 [Line                   42]: Missing the sent_id attribute.
+[Line                   42]: Missing the text attribute.
 [Line                   58]: Missing the sent_id attribute.
+[Line                   58]: Missing the text attribute.
 [Line                   70]: Missing the sent_id attribute.
+[Line                   70]: Missing the text attribute.
 [Line                   76]: Unknown UPOS tag: CONJ
 [Line                   82]: Missing the sent_id attribute.
+[Line                   82]: Missing the text attribute.
 [Line                   88]: Unknown attribute-value pair Negative=Neg
 [Line                   90]: Unknown UD DEPREL: name
 [Line                   97]: Missing the sent_id attribute.
+[Line                   97]: Missing the text attribute.
 [Line                   104]: Missing the sent_id attribute.
+[Line                   104]: Missing the text attribute.
 [Line                   107]: Unknown UPOS tag: CONJ
 [Line                   122]: Missing the sent_id attribute.
+[Line                   122]: Missing the text attribute.
 [Line                   139]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   151]: Unknown UD DEPREL: name
-[Line                   154]: Missing the sent_id attribute.
 [Line                   156]: Unknown attribute-value pair Negative=Neg
 [Line                   158]: Unknown UD DEPREL: name
-[Line                   168]: Missing the sent_id attribute.
 [Line                   182]: Unknown UD DEPREL: name
-[Line                   185]: Missing the sent_id attribute.
 [Line                   199]: Unknown attribute-value pair Negative=Neg
 [Line                   200]: Unknown UD DEPREL: dobj
-[Line                   203]: Missing the sent_id attribute.
 [Line                   217]: Unknown UPOS tag: CONJ
-[Line                   220]: Missing the sent_id attribute.
 [Line                   228]: Unknown UD DEPREL: name
 [Line                   229]: Unknown UD DEPREL: name
 [Line                   230]: Unknown UD DEPREL: name
 [Line                   231]: Unknown UD DEPREL: name
 [Line                   250]: Unknown attribute-value pair Negative=Neg
 [Line                   251]: Unknown UD DEPREL: dobj
-[Line                   254]: Missing the sent_id attribute.
 [Line                   265]: Unknown UPOS tag: CONJ
-[Line                   268]: Missing the sent_id attribute.
 [Line                   270]: Unknown attribute-value pair Negative=Neg
-[Line                   283]: Missing the sent_id attribute.
 [Line                   294]: Unknown UPOS tag: CONJ
-[Line                   298]: Missing the sent_id attribute.
 [Line                   300]: Unknown attribute-value pair Negative=Neg
 [Line                   305]: Unknown UPOS tag: CONJ
 [Line                   309]: Unknown UD DEPREL: name
 [Line                   312]: Unknown UD DEPREL: name
 [Line                   315]: Unknown UD DEPREL: name
 [Line                   318]: Unknown UD DEPREL: name
-...suppressing further errors regarding Metadata
 [Line                   329]: Unknown UPOS tag: CONJ
 [Line                   337]: Unknown UD DEPREL: dobj
 [Line                   338]: Unknown attribute-value pair Negative=Neg
@@ -5619,8 +5302,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJ
 [Line                   361]: Unknown UD DEPREL: dobj
 [Line                   376]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 3428 errors
-Metadata errors: 697
+*** FAILED *** with 4125 errors
+Metadata errors: 1394
 Morpho errors: 1712
 Syntax errors: 1019
 
@@ -5634,7 +5317,7 @@ Syntax errors: 1019
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:10:56Z">2017-01-30T10:10:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:46Z">2017-01-30T12:03:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5645,34 +5328,34 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:10:56Z">2017-01-30T10:10:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:03:46Z">2017-01-30T12:03:46 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
 
 [Line                   37]: Missing the sent_id attribute.
+[Line                   37]: Missing the text attribute.
 [Line                   57]: Missing the sent_id attribute.
+[Line                   57]: Missing the text attribute.
 [Line                   85]: Missing the sent_id attribute.
+[Line                   85]: Missing the text attribute.
 [Line                   97]: Missing the sent_id attribute.
+[Line                   97]: Missing the text attribute.
 [Line                   147]: Missing the sent_id attribute.
+[Line                   147]: Missing the text attribute.
 [Line                   158]: Missing the sent_id attribute.
+[Line                   158]: Missing the text attribute.
 [Line                   176]: Missing the sent_id attribute.
+[Line                   176]: Missing the text attribute.
 [Line                   183]: Missing the sent_id attribute.
+[Line                   183]: Missing the text attribute.
 [Line                   192]: Missing the sent_id attribute.
+[Line                   192]: Missing the text attribute.
 [Line                   202]: Missing the sent_id attribute.
-[Line                   216]: Missing the sent_id attribute.
-[Line                   274]: Missing the sent_id attribute.
-[Line                   286]: Missing the sent_id attribute.
-[Line                   292]: Missing the sent_id attribute.
-[Line                   315]: Missing the sent_id attribute.
-[Line                   341]: Missing the sent_id attribute.
-[Line                   371]: Missing the sent_id attribute.
-[Line                   380]: Missing the sent_id attribute.
-[Line                   394]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 2410 errors
-Metadata errors: 2410
+*** FAILED *** with 4820 errors
+Metadata errors: 4820
 
 
 ******************
@@ -5680,27 +5363,27 @@ Metadata errors: 2410
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
 
 [Line                   7]: Missing the sent_id attribute.
+[Line                   7]: Missing the text attribute.
 [Line                   22]: Missing the sent_id attribute.
+[Line                   22]: Missing the text attribute.
 [Line                   33]: Missing the sent_id attribute.
+[Line                   33]: Missing the text attribute.
 [Line                   63]: Missing the sent_id attribute.
+[Line                   63]: Missing the text attribute.
 [Line                   77]: Missing the sent_id attribute.
+[Line                   77]: Missing the text attribute.
 [Line                   102]: Missing the sent_id attribute.
+[Line                   102]: Missing the text attribute.
 [Line                   116]: Missing the sent_id attribute.
+[Line                   116]: Missing the text attribute.
 [Line                   138]: Missing the sent_id attribute.
+[Line                   138]: Missing the text attribute.
 [Line                   173]: Missing the sent_id attribute.
+[Line                   173]: Missing the text attribute.
 [Line                   178]: Missing the sent_id attribute.
-[Line                   198]: Missing the sent_id attribute.
-[Line                   228]: Missing the sent_id attribute.
-[Line                   247]: Missing the sent_id attribute.
-[Line                   261]: Missing the sent_id attribute.
-[Line                   275]: Missing the sent_id attribute.
-[Line                   290]: Missing the sent_id attribute.
-[Line                   307]: Missing the sent_id attribute.
-[Line                   325]: Missing the sent_id attribute.
-[Line                   344]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 15696 errors
-Metadata errors: 15696
+*** FAILED *** with 31392 errors
+Metadata errors: 31392
 
 
 ******************
@@ -5712,7 +5395,7 @@ Metadata errors: 15696
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:11:18Z">2017-01-30T10:11:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:04:10Z">2017-01-30T12:04:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5721,48 +5404,48 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter
 [Line                   4]: Unknown UD DEPREL: dobj
 [Line                   9]: Unknown UPOS tag: CONJ
 [Line                   18]: Missing the sent_id attribute.
+[Line                   18]: Missing the text attribute.
 [Line                   24]: Unknown UPOS tag: CONJ
 [Line                   28]: Unknown UD DEPREL: dobj
 [Line                   32]: Missing the sent_id attribute.
+[Line                   32]: Missing the text attribute.
 [Line                   38]: Unknown UD DEPREL: dobj
 [Line                   43]: Missing the sent_id attribute.
+[Line                   43]: Missing the text attribute.
 [Line                   50]: Unknown UPOS tag: CONJ
 [Line                   53]: Unknown UPOS tag: CONJ
 [Line                   57]: Missing the sent_id attribute.
+[Line                   57]: Missing the text attribute.
 [Line                   61]: Unknown UPOS tag: CONJ
 [Line                   67]: Unknown UPOS tag: CONJ
 [Line                   71]: Unknown UPOS tag: CONJ
 [Line                   75]: Missing the sent_id attribute.
+[Line                   75]: Missing the text attribute.
 [Line                   79]: Unknown UD DEPREL: dobj
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   87]: Missing the sent_id attribute.
+[Line                   87]: Missing the text attribute.
 [Line                   91]: Missing the sent_id attribute.
+[Line                   91]: Missing the text attribute.
 [Line                   97]: Unknown UD DEPREL: dobj
 [Line                   98]: Missing the sent_id attribute.
+[Line                   98]: Missing the text attribute.
 [Line                   101]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   106]: Unknown UPOS tag: CONJ
-[Line                   108]: Missing the sent_id attribute.
-[Line                   111]: Missing the sent_id attribute.
-[Line                   115]: Missing the sent_id attribute.
-[Line                   120]: Missing the sent_id attribute.
 [Line                   122]: Unknown UPOS tag: CONJ
-[Line                   124]: Missing the sent_id attribute.
-[Line                   128]: Missing the sent_id attribute.
 [Line                   131]: Unknown UD DEPREL: dobj
 [Line                   133]: Unknown UPOS tag: CONJ
 [Line                   136]: Unknown UD DEPREL: dobj
-[Line                   138]: Missing the sent_id attribute.
 [Line                   141]: Unknown UD DEPREL: dobj
 [Line                   143]: Unknown UPOS tag: CONJ
 [Line                   145]: Unknown UD DEPREL: dobj
-[Line                   148]: Missing the sent_id attribute.
 [Line                   154]: Unknown UD DEPREL: dobj
 [Line                   155]: Unknown UPOS tag: CONJ
 [Line                   164]: Unknown UD DEPREL: dobj
-[Line                   172]: Missing the sent_id attribute.
 [Line                   174]: Unknown UD DEPREL: dobj
 [Line                   178]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   184]: Unknown UD DEPREL: dobj
 [Line                   189]: Unknown UPOS tag: CONJ
 [Line                   196]: Unknown UD DEPREL: dobj
@@ -5778,8 +5461,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter
 [Line                   288]: Unknown UPOS tag: CONJ
 [Line                   297]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 5532 errors
-Metadata errors: 1890
+*** FAILED *** with 7422 errors
+Metadata errors: 3780
 Morpho errors: 1065
 Syntax errors: 2577
 
@@ -5790,57 +5473,57 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter
 
 [Line                   8]: Unknown UPOS tag: CONJ
 [Line                   12]: Missing the sent_id attribute.
+[Line                   12]: Missing the text attribute.
 [Line                   23]: Missing the sent_id attribute.
+[Line                   23]: Missing the text attribute.
 [Line                   29]: Unknown UPOS tag: CONJ
 [Line                   34]: Unknown UD DEPREL: dobj
 [Line                   37]: Missing the sent_id attribute.
+[Line                   37]: Missing the text attribute.
 [Line                   42]: Unknown UD DEPREL: name
 [Line                   44]: Unknown UD DEPREL: dobj
 [Line                   48]: Unknown UPOS tag: CONJ
 [Line                   51]: Unknown UPOS tag: CONJ
 [Line                   62]: Missing the sent_id attribute.
+[Line                   62]: Missing the text attribute.
 [Line                   70]: Unknown UD DEPREL: dobj
 [Line                   77]: Unknown UD DEPREL: dobj
 [Line                   78]: Unknown UPOS tag: CONJ
 [Line                   81]: Unknown UD DEPREL: dobj
 [Line                   99]: Missing the sent_id attribute.
+[Line                   99]: Missing the text attribute.
 [Line                   102]: Unknown UD DEPREL: dobj
 [Line                   108]: Missing the sent_id attribute.
+[Line                   108]: Missing the text attribute.
 [Line                   112]: Unknown UPOS tag: CONJ
 [Line                   123]: Missing the sent_id attribute.
+[Line                   123]: Missing the text attribute.
 [Line                   125]: Unknown UD DEPREL: dobj
 [Line                   133]: Missing the sent_id attribute.
+[Line                   133]: Missing the text attribute.
 [Line                   149]: Unknown UD DEPREL: dobj
 [Line                   151]: Missing the sent_id attribute.
+[Line                   151]: Missing the text attribute.
 [Line                   159]: Unknown UD DEPREL: dobj
 [Line                   166]: Unknown UPOS tag: CONJ
 [Line                   170]: Unknown UPOS tag: CONJ
 [Line                   173]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   186]: Unknown UD DEPREL: dobj
-[Line                   199]: Missing the sent_id attribute.
-[Line                   210]: Missing the sent_id attribute.
 [Line                   213]: Unknown UPOS tag: CONJ
 [Line                   216]: Unknown UD DEPREL: dobj
 [Line                   217]: Unknown UD DEPREL: dobj
 [Line                   220]: Unknown UD DEPREL: neg
 [Line                   230]: Unknown UD DEPREL: dobj
-[Line                   233]: Missing the sent_id attribute.
-[Line                   239]: Missing the sent_id attribute.
 [Line                   251]: Unknown UPOS tag: CONJ
-[Line                   274]: Missing the sent_id attribute.
 [Line                   279]: Unknown UPOS tag: CONJ
 [Line                   289]: Unknown UD DEPREL: dobj
-[Line                   294]: Missing the sent_id attribute.
 [Line                   306]: Unknown UD DEPREL: dobj
-[Line                   320]: Missing the sent_id attribute.
 [Line                   324]: Unknown UD DEPREL: dobj
 [Line                   331]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-[Line                   338]: Missing the sent_id attribute.
 [Line                   344]: Unknown UPOS tag: CONJ
-[Line                   355]: Missing the sent_id attribute.
 [Line                   367]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   376]: Unknown UPOS tag: CONJ
 [Line                   442]: Unknown UPOS tag: CONJ
 [Line                   459]: Unknown UPOS tag: CONJ
@@ -5848,8 +5531,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter
 [Line                   533]: Unknown UPOS tag: CONJ
 [Line                   552]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 43699 errors
-Metadata errors: 14174
+*** FAILED *** with 57873 errors
+Metadata errors: 28348
 Morpho errors: 9135
 Syntax errors: 20390
 
@@ -5863,7 +5546,7 @@ Syntax errors: 20390
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:11:38Z">2017-01-30T10:11:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:04:32Z">2017-01-30T12:04:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5872,6 +5555,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJ
 [Line                   10]: Unknown UPOS tag: CONJ
 [Line                   11]: Unknown UD DEPREL: neg
 [Line                   19]: Missing the sent_id attribute.
+[Line                   19]: Missing the text attribute.
 [Line                   24]: Unknown UD DEPREL: neg
 [Line                   28]: Unknown UPOS tag: CONJ
 [Line                   28]: Unknown UD DEPREL: remnant
@@ -5885,52 +5569,51 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJ
 [Line                   42]: Unknown UD DEPREL: remnant
 [Line                   45]: Unknown UD DEPREL: remnant
 [Line                   48]: Missing the sent_id attribute.
+[Line                   48]: Missing the text attribute.
 [Line                   49]: Unknown UPOS tag: CONJ
 [Line                   53]: Unknown UD DEPREL: dobj
 [Line                   56]: Unknown UD DEPREL: remnant
 [Line                   62]: Missing the sent_id attribute.
+[Line                   62]: Missing the text attribute.
 [Line                   66]: Unknown UD DEPREL: dobj
 [Line                   67]: Unknown UD DEPREL: dobj
 [Line                   69]: Unknown UD DEPREL: dobj
 [Line                   71]: Missing the sent_id attribute.
+[Line                   71]: Missing the text attribute.
 [Line                   73]: Unknown UD DEPREL: dobj
 [Line                   75]: Missing the sent_id attribute.
+[Line                   75]: Missing the text attribute.
 [Line                   76]: Unknown UD DEPREL: neg
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   94]: Missing the sent_id attribute.
+[Line                   94]: Missing the text attribute.
 [Line                   104]: Missing the sent_id attribute.
+[Line                   104]: Missing the text attribute.
 [Line                   105]: Unknown UD DEPREL: neg
 ...suppressing further errors regarding Syntax
 [Line                   112]: Unknown UPOS tag: CONJ
 [Line                   115]: Unknown UPOS tag: CONJ
 [Line                   122]: Missing the sent_id attribute.
+[Line                   122]: Missing the text attribute.
 [Line                   129]: Unknown UPOS tag: CONJ
 [Line                   141]: Missing the sent_id attribute.
-[Line                   146]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   148]: Unknown UPOS tag: CONJ
-[Line                   150]: Missing the sent_id attribute.
 [Line                   154]: Unknown UPOS tag: CONJ
-[Line                   160]: Missing the sent_id attribute.
 [Line                   168]: Unknown UPOS tag: CONJ
-[Line                   174]: Missing the sent_id attribute.
 [Line                   182]: Unknown UPOS tag: CONJ
-[Line                   195]: Missing the sent_id attribute.
-[Line                   207]: Missing the sent_id attribute.
 [Line                   211]: Unknown UPOS tag: CONJ
 [Line                   216]: Unknown UPOS tag: CONJ
-[Line                   225]: Missing the sent_id attribute.
 [Line                   226]: Unknown UPOS tag: CONJ
 [Line                   230]: Unknown UPOS tag: CONJ
-[Line                   232]: Missing the sent_id attribute.
 [Line                   233]: Unknown UPOS tag: CONJ
-[Line                   237]: Missing the sent_id attribute.
 [Line                   246]: Unknown UPOS tag: CONJ
 [Line                   250]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1833 errors
-Metadata errors: 705
+*** FAILED *** with 2538 errors
+Metadata errors: 1410
 Morpho errors: 518
 Syntax errors: 610
 
@@ -5944,6 +5627,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJ
 [Line                   15]: Unknown UPOS tag: CONJ
 [Line                   19]: Unknown UD DEPREL: dobj
 [Line                   21]: Missing the sent_id attribute.
+[Line                   21]: Missing the text attribute.
 [Line                   36]: Unknown UD DEPREL: neg
 [Line                   38]: Unknown UD DEPREL: dobj
 [Line                   40]: Unknown UPOS tag: CONJ
@@ -5951,44 +5635,43 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJ
 [Line                   45]: Unknown UPOS tag: CONJ
 [Line                   49]: Unknown UD DEPREL: dobj
 [Line                   50]: Missing the sent_id attribute.
+[Line                   50]: Missing the text attribute.
 [Line                   54]: Missing the sent_id attribute.
+[Line                   54]: Missing the text attribute.
 [Line                   55]: Unknown UD DEPREL: neg
 [Line                   61]: Unknown UD DEPREL: dobj
 [Line                   62]: Missing the sent_id attribute.
+[Line                   62]: Missing the text attribute.
 [Line                   68]: Missing the sent_id attribute.
+[Line                   68]: Missing the text attribute.
 [Line                   69]: Unknown UD DEPREL: neg
 [Line                   70]: Unknown UD DEPREL: dobj
 [Line                   72]: Missing the sent_id attribute.
+[Line                   72]: Missing the text attribute.
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   93]: Missing the sent_id attribute.
+[Line                   93]: Missing the text attribute.
 [Line                   100]: Unknown UD DEPREL: dobj
 [Line                   102]: Unknown UD DEPREL: dobj
 [Line                   103]: Unknown UPOS tag: CONJ
 [Line                   107]: Missing the sent_id attribute.
+[Line                   107]: Missing the text attribute.
 [Line                   117]: Unknown UPOS tag: CONJ
 [Line                   118]: Unknown UD DEPREL: neg
 [Line                   125]: Missing the sent_id attribute.
+[Line                   125]: Missing the text attribute.
 [Line                   129]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   133]: Unknown UD DEPREL: dobj
 [Line                   138]: Unknown UD DEPREL: dobj
-[Line                   140]: Missing the sent_id attribute.
 [Line                   148]: Unknown UD DEPREL: dobj
 [Line                   154]: Unknown UD DEPREL: dobj
 [Line                   155]: Unknown UD DEPREL: dobj
 [Line                   157]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Syntax
-[Line                   163]: Missing the sent_id attribute.
-[Line                   170]: Missing the sent_id attribute.
-[Line                   176]: Missing the sent_id attribute.
-[Line                   182]: Missing the sent_id attribute.
 [Line                   183]: Unknown UPOS tag: CONJ
 [Line                   194]: Unknown UPOS tag: CONJ
-[Line                   197]: Missing the sent_id attribute.
-[Line                   204]: Missing the sent_id attribute.
-[Line                   209]: Missing the sent_id attribute.
 [Line                   213]: Unknown UPOS tag: CONJ
-[Line                   217]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   227]: Unknown UPOS tag: CONJ
 [Line                   240]: Unknown UPOS tag: CONJ
 [Line                   246]: Unknown UPOS tag: CONJ
@@ -5999,8 +5682,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJ
 [Line                   317]: Unknown UPOS tag: CONJ
 [Line                   321]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 13747 errors
-Metadata errors: 5077
+*** FAILED *** with 18824 errors
+Metadata errors: 10154
 Morpho errors: 3980
 Syntax errors: 4690
 
@@ -6014,7 +5697,7 @@ Syntax errors: 4690
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:11:43Z">2017-01-30T10:11:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:04:37Z">2017-01-30T12:04:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6025,29 +5708,35 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fa /home/ginter/UD_PROJ
 [Line                   30]: Unknown UD DEPREL: mwe
 [Line                   32]: Unknown attribute-value pair Negative=Neg
 [Line                   34]: Missing the sent_id attribute.
+[Line                   34]: Missing the text attribute.
 [Line                   36]: Unknown UD DEPREL: dobj
 [Line                   44]: Unknown UD DEPREL: mwe
 [Line                   49]: Unknown UPOS tag: CONJ
 [Line                   54]: Unknown UPOS tag: CONJ
 [Line                   71]: Missing the sent_id attribute.
+[Line                   71]: Missing the text attribute.
 [Line                   85]: Unknown UPOS tag: CONJ
 [Line                   90]: Unknown UPOS tag: CONJ
 [Line                   96]: Unknown UPOS tag: CONJ
 [Line                   102]: Unknown UPOS tag: CONJ
 [Line                   109]: Unknown UPOS tag: CONJ
 [Line                   117]: Missing the sent_id attribute.
+[Line                   117]: Missing the text attribute.
 [Line                   122]: Unknown UPOS tag: CONJ
 [Line                   135]: Unknown UD DEPREL: mwe
 [Line                   139]: Unknown UD DEPREL: name
 [Line                   144]: Missing the sent_id attribute.
+[Line                   144]: Missing the text attribute.
 [Line                   147]: Unknown UPOS tag: CONJ
 [Line                   151]: Unknown UPOS tag: CONJ
 [Line                   153]: Unknown UPOS tag: CONJ
 [Line                   162]: Unknown UD DEPREL: nsubjpass
 [Line                   172]: Unknown UD DEPREL: auxpass
 [Line                   175]: Missing the sent_id attribute.
+[Line                   175]: Missing the text attribute.
 [Line                   191]: Unknown UD DEPREL: dobj
 [Line                   196]: Missing the sent_id attribute.
+[Line                   196]: Missing the text attribute.
 [Line                   198]: Unknown UD DEPREL: name
 [Line                   199]: Unknown UD DEPREL: name
 [Line                   200]: Unknown UD DEPREL: name
@@ -6055,33 +5744,27 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fa /home/ginter/UD_PROJ
 [Line                   225]: Unknown UPOS tag: CONJ
 [Line                   232]: Unknown UPOS tag: CONJ
 [Line                   239]: Missing the sent_id attribute.
+[Line                   239]: Missing the text attribute.
 [Line                   249]: Unknown UPOS tag: CONJ
 [Line                   259]: Unknown UPOS tag: CONJ
 [Line                   272]: Missing the sent_id attribute.
+[Line                   272]: Missing the text attribute.
 [Line                   286]: Unknown UD DEPREL: name
 [Line                   295]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
 [Line                   302]: Unknown UD DEPREL: mwe
 [Line                   306]: Unknown UD DEPREL: name
 [Line                   320]: Missing the sent_id attribute.
+[Line                   320]: Missing the text attribute.
 [Line                   322]: Unknown UD DEPREL: name
 [Line                   323]: Unknown UD DEPREL: name
 [Line                   358]: Missing the sent_id attribute.
-[Line                   370]: Missing the sent_id attribute.
-[Line                   375]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   378]: Unknown UD DEPREL: name
-[Line                   403]: Missing the sent_id attribute.
-[Line                   439]: Missing the sent_id attribute.
-[Line                   471]: Missing the sent_id attribute.
 [Line                   475]: Unknown UD DEPREL: name
 ...suppressing further errors regarding Syntax
-[Line                   516]: Missing the sent_id attribute.
-[Line                   548]: Missing the sent_id attribute.
-[Line                   575]: Missing the sent_id attribute.
-[Line                   624]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 2545 errors
-Metadata errors: 599
+*** FAILED *** with 3144 errors
+Metadata errors: 1198
 Morpho errors: 907
 Syntax errors: 1039
 
@@ -6094,12 +5777,16 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fa /home/ginter/UD_PROJ
 [Line                   4]: Unknown UD DEPREL: mwe
 [Line                   8]: Unknown UD DEPREL: auxpass
 [Line                   10]: Missing the sent_id attribute.
+[Line                   10]: Missing the text attribute.
 [Line                   16]: Missing the sent_id attribute.
+[Line                   16]: Missing the text attribute.
 [Line                   23]: Unknown UD DEPREL: dobj
 [Line                   25]: Unknown UD DEPREL: mwe
 [Line                   32]: Missing the sent_id attribute.
+[Line                   32]: Missing the text attribute.
 [Line                   38]: Unknown UD DEPREL: mwe
 [Line                   49]: Missing the sent_id attribute.
+[Line                   49]: Missing the text attribute.
 [Line                   50]: Unknown UPOS tag: CONJ
 [Line                   52]: Unknown attribute-value pair Negative=Neg
 [Line                   54]: Unknown UD DEPREL: dobj
@@ -6107,38 +5794,34 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fa /home/ginter/UD_PROJ
 [Line                   59]: Unknown UPOS tag: CONJ
 [Line                   66]: Unknown UPOS tag: CONJ
 [Line                   84]: Missing the sent_id attribute.
+[Line                   84]: Missing the text attribute.
 [Line                   100]: Missing the sent_id attribute.
+[Line                   100]: Missing the text attribute.
 [Line                   116]: Unknown attribute-value pair Negative=Neg
 [Line                   118]: Unknown UPOS tag: CONJ
 [Line                   119]: Unknown UD DEPREL: dobj
 [Line                   134]: Missing the sent_id attribute.
+[Line                   134]: Missing the text attribute.
 [Line                   136]: Unknown UD DEPREL: mwe
 [Line                   145]: Unknown UD DEPREL: dobj
 [Line                   151]: Missing the sent_id attribute.
+[Line                   151]: Missing the text attribute.
 [Line                   166]: Unknown UPOS tag: CONJ
 [Line                   176]: Missing the sent_id attribute.
+[Line                   176]: Missing the text attribute.
 [Line                   184]: Unknown UD DEPREL: name
 [Line                   190]: Missing the sent_id attribute.
-[Line                   196]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   205]: Unknown UPOS tag: CONJ
-[Line                   213]: Missing the sent_id attribute.
 [Line                   223]: Unknown UD DEPREL: name
 [Line                   239]: Unknown UD DEPREL: name
 [Line                   240]: Unknown UPOS tag: CONJ
-[Line                   251]: Missing the sent_id attribute.
 [Line                   261]: Unknown UD DEPREL: dobj
 [Line                   270]: Unknown UD DEPREL: dobj
 [Line                   274]: Unknown UPOS tag: CONJ
 [Line                   279]: Unknown UD DEPREL: dobj
-[Line                   290]: Missing the sent_id attribute.
-[Line                   302]: Missing the sent_id attribute.
-[Line                   308]: Missing the sent_id attribute.
-[Line                   328]: Missing the sent_id attribute.
-[Line                   358]: Missing the sent_id attribute.
 [Line                   362]: Unknown UPOS tag: CONJ
 [Line                   372]: Unknown UPOS tag: CONJ
-[Line                   407]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   433]: Unknown UD DEPREL: name
 [Line                   434]: Unknown UD DEPREL: name
 [Line                   438]: Unknown UD DEPREL: name
@@ -6150,8 +5833,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fa /home/ginter/UD_PROJ
 [Line                   500]: Unknown UPOS tag: CONJ
 [Line                   516]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 20099 errors
-Metadata errors: 4798
+*** FAILED *** with 24897 errors
+Metadata errors: 9596
 Morpho errors: 7791
 Syntax errors: 7510
 
@@ -6164,63 +5847,21 @@ Syntax errors: 7510
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:11:53Z">2017-01-30T10:11:53 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:04:48Z">2017-01-30T12:04:48 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-dev.conllu
 
-[Line                   7]: Missing the sent_id attribute.
-[Line                   14]: Missing the sent_id attribute.
-[Line                   23]: Missing the sent_id attribute.
-[Line                   35]: Missing the sent_id attribute.
-[Line                   48]: Missing the sent_id attribute.
-[Line                   62]: Missing the sent_id attribute.
-[Line                   71]: Missing the sent_id attribute.
-[Line                   84]: Missing the sent_id attribute.
-[Line                   94]: Missing the sent_id attribute.
-[Line                   105]: Missing the sent_id attribute.
-[Line                   114]: Missing the sent_id attribute.
-[Line                   123]: Missing the sent_id attribute.
-[Line                   132]: Missing the sent_id attribute.
-[Line                   165]: Missing the sent_id attribute.
-[Line                   177]: Missing the sent_id attribute.
-[Line                   194]: Missing the sent_id attribute.
-[Line                   218]: Missing the sent_id attribute.
-[Line                   237]: Missing the sent_id attribute.
-[Line                   248]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1027 errors
-Metadata errors: 1027
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-train.conllu
 
-[Line                   18]: Missing the sent_id attribute.
-[Line                   31]: Missing the sent_id attribute.
-[Line                   48]: Missing the sent_id attribute.
-[Line                   59]: Missing the sent_id attribute.
-[Line                   74]: Missing the sent_id attribute.
-[Line                   91]: Missing the sent_id attribute.
-[Line                   110]: Missing the sent_id attribute.
-[Line                   143]: Missing the sent_id attribute.
-[Line                   165]: Missing the sent_id attribute.
-[Line                   174]: Missing the sent_id attribute.
-[Line                   186]: Missing the sent_id attribute.
-[Line                   197]: Missing the sent_id attribute.
-[Line                   220]: Missing the sent_id attribute.
-[Line                   229]: Missing the sent_id attribute.
-[Line                   237]: Missing the sent_id attribute.
-[Line                   249]: Missing the sent_id attribute.
-[Line                   264]: Missing the sent_id attribute.
-[Line                   288]: Missing the sent_id attribute.
-[Line                   299]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 6100 errors
-Metadata errors: 6100
+*** PASSED ***
 
 
 ******************
@@ -6231,8 +5872,8 @@ Metadata errors: 6100
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:12:00Z">2017-01-30T10:12:00 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:04:56Z">2017-01-30T12:04:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6252,14 +5893,56 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJ
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt_bosque-ud-dev.conllu
 
-*** PASSED ***
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'dum' but text is 'de um agente secreto à ...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'agente' but text is 'de um agente secreto à des...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'secreto' but text is 'de um agente secreto à desu...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'à' but text is 'de um agente secreto ...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'desumana' but text is 'de um agente secreto à desum...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'cidade' but text is 'de um agente secreto à des...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'futurista' but text is 'de um agente secreto à desuma...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'Alphaville' but text is 'um agente secreto à desumana c...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is ',' but text is 'um agente secreto à d...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'controlada' but text is 'um agente secreto à desumana c...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'por' but text is 'um agente secreto à des...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'cérebro' but text is 'agente secreto à desumana c...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'eletrônico' but text is 'agente secreto à desumana cida...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'que' but text is 'agente secreto à desuma...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'baniu' but text is 'agente secreto à desumana...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'totalmente' but text is 'agente secreto à desumana cida...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'os' but text is 'agente secreto à desum...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'conceitos' but text is 'agente secreto à desumana cid...'
+[Line                   104]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is 'agente secreto à desum...'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 505 errors
+Metadata errors: 505
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt_bosque-ud-train.conllu
 
-*** PASSED ***
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is '» da noite, a meio cam...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'a' but text is '» da noite, a meio ca...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'noite' but text is '» da noite, a meio caminh...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' da noite, a meio cam...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'a' but text is ' da noite, a meio cam...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'meio' but text is ' da noite, a meio caminh...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'caminho' but text is ' da noite, a meio caminho e...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'entre' but text is ' da noite, a meio caminho...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'os' but text is ' da noite, a meio cami...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'devaneios' but text is ' da noite, a meio caminho ent...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is ' da noite, a meio cami...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'uma' but text is ' da noite, a meio camin...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'fauna' but text is ' da noite, a meio caminho...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'periférica' but text is ' da noite, a meio caminho entr...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' da noite, a meio cam...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'seja' but text is ' da noite, a meio caminh...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is ' da noite, a meio cami...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is 'Lisboa' but text is ' da noite, a meio caminho ...'
+[Line                   141]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' da noite, a meio cam...'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 38388 errors
+Metadata errors: 38388
 
 
 ******************
@@ -6271,34 +5954,34 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-BR</span>
 <span class="widespan">pt br</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:12:42Z">2017-01-30T10:12:42 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:05:33Z">2017-01-30T12:05:33 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_br /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-BR/pt_br-ud-dev.conllu
 
 [Line                   42]: Missing the sent_id attribute.
+[Line                   42]: Missing the text attribute.
 [Line                   56]: Missing the sent_id attribute.
+[Line                   56]: Missing the text attribute.
 [Line                   68]: Missing the sent_id attribute.
+[Line                   68]: Missing the text attribute.
 [Line                   78]: Missing the sent_id attribute.
+[Line                   78]: Missing the text attribute.
 [Line                   106]: Missing the sent_id attribute.
+[Line                   106]: Missing the text attribute.
 [Line                   126]: Missing the sent_id attribute.
+[Line                   126]: Missing the text attribute.
 [Line                   146]: Missing the sent_id attribute.
+[Line                   146]: Missing the text attribute.
 [Line                   158]: Missing the sent_id attribute.
+[Line                   158]: Missing the text attribute.
 [Line                   188]: Missing the sent_id attribute.
+[Line                   188]: Missing the text attribute.
 [Line                   211]: Missing the sent_id attribute.
-[Line                   223]: Missing the sent_id attribute.
-[Line                   270]: Missing the sent_id attribute.
-[Line                   292]: Missing the sent_id attribute.
-[Line                   303]: Missing the sent_id attribute.
-[Line                   320]: Missing the sent_id attribute.
-[Line                   357]: Missing the sent_id attribute.
-[Line                   371]: Missing the sent_id attribute.
-[Line                   391]: Missing the sent_id attribute.
-[Line                   404]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 1210 errors
-Metadata errors: 1210
+*** FAILED *** with 2420 errors
+Metadata errors: 2420
 
 
 ******************
@@ -6306,27 +5989,27 @@ Metadata errors: 1210
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_br /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-BR/pt_br-ud-train.conllu
 
 [Line                   26]: Missing the sent_id attribute.
+[Line                   26]: Missing the text attribute.
 [Line                   85]: Missing the sent_id attribute.
+[Line                   85]: Missing the text attribute.
 [Line                   154]: Missing the sent_id attribute.
+[Line                   154]: Missing the text attribute.
 [Line                   178]: Missing the sent_id attribute.
+[Line                   178]: Missing the text attribute.
 [Line                   207]: Missing the sent_id attribute.
+[Line                   207]: Missing the text attribute.
 [Line                   224]: Missing the sent_id attribute.
+[Line                   224]: Missing the text attribute.
 [Line                   241]: Missing the sent_id attribute.
+[Line                   241]: Missing the text attribute.
 [Line                   265]: Missing the sent_id attribute.
+[Line                   265]: Missing the text attribute.
 [Line                   320]: Missing the sent_id attribute.
+[Line                   320]: Missing the text attribute.
 [Line                   352]: Missing the sent_id attribute.
-[Line                   374]: Missing the sent_id attribute.
-[Line                   390]: Missing the sent_id attribute.
-[Line                   408]: Missing the sent_id attribute.
-[Line                   422]: Missing the sent_id attribute.
-[Line                   458]: Missing the sent_id attribute.
-[Line                   476]: Missing the sent_id attribute.
-[Line                   485]: Missing the sent_id attribute.
-[Line                   522]: Missing the sent_id attribute.
-[Line                   553]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 9664 errors
-Metadata errors: 9664
+*** FAILED *** with 19328 errors
+Metadata errors: 19328
 
 
 ******************
@@ -6337,21 +6020,63 @@ Metadata errors: 9664
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:37:39Z">2017-01-30T11:37:39 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:05:50Z">2017-01-30T12:05:50 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
 
-*** PASSED ***
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'dum' but text is 'de um agente secreto à ...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'agente' but text is 'de um agente secreto à des...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'secreto' but text is 'de um agente secreto à desu...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'à' but text is 'de um agente secreto ...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'desumana' but text is 'de um agente secreto à desum...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'cidade' but text is 'de um agente secreto à des...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'futurista' but text is 'de um agente secreto à desuma...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'Alphaville' but text is 'um agente secreto à desumana c...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is ',' but text is 'um agente secreto à d...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'controlada' but text is 'um agente secreto à desumana c...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'por' but text is 'um agente secreto à des...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'cérebro' but text is 'agente secreto à desumana c...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'eletrônico' but text is 'agente secreto à desumana cida...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'que' but text is 'agente secreto à desuma...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'baniu' but text is 'agente secreto à desumana...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'totalmente' but text is 'agente secreto à desumana cida...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'os' but text is 'agente secreto à desum...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'conceitos' but text is 'agente secreto à desumana cid...'
+[Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is 'agente secreto à desum...'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 505 errors
+Metadata errors: 505
 
 
 ******************
 
-python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
 
-*** PASSED ***
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is '» da noite, a meio cam...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'a' but text is '» da noite, a meio ca...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'noite' but text is '» da noite, a meio caminh...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' da noite, a meio cam...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'a' but text is ' da noite, a meio cam...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'meio' but text is ' da noite, a meio caminh...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'caminho' but text is ' da noite, a meio caminho e...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'entre' but text is ' da noite, a meio caminho...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'os' but text is ' da noite, a meio cami...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'devaneios' but text is ' da noite, a meio caminho ent...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is ' da noite, a meio cami...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'uma' but text is ' da noite, a meio camin...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'fauna' but text is ' da noite, a meio caminho...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'periférica' but text is ' da noite, a meio caminho entr...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' da noite, a meio cam...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'seja' but text is ' da noite, a meio caminh...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is ' da noite, a meio cami...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'Lisboa' but text is ' da noite, a meio caminho ...'
+[Line                   134]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' da noite, a meio cam...'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 38364 errors
+Metadata errors: 38364
 
 
 ******************
@@ -6363,7 +6088,7 @@ python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/p
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:13:13Z">2017-01-30T10:13:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:06:09Z">2017-01-30T12:06:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6381,9 +6106,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 [Line                   60]: Unknown attribute-value pair Negative=Pos
 [Line                   60]: Unknown UPOS tag: CONJ
 [Line                   69]: Missing the sent_id attribute.
+[Line                   69]: Missing the text attribute.
 [Line                   79]: Unknown UD DEPREL: mwe
 [Line                   80]: Unknown UD DEPREL: mwe
 [Line                   84]: Missing the sent_id attribute.
+[Line                   84]: Missing the text attribute.
 [Line                   93]: Unknown UD DEPREL: mwe
 [Line                   97]: Unknown UD DEPREL: mwe
 [Line                   99]: Unknown attribute-value pair Negative=Pos
@@ -6391,10 +6118,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 [Line                   103]: Unknown UD DEPREL: dobj
 [Line                   106]: Unknown UD DEPREL: dobj
 [Line                   113]: Missing the sent_id attribute.
+[Line                   113]: Missing the text attribute.
 [Line                   119]: Unknown UD DEPREL: mwe
 [Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
 [Line                   136]: Missing the sent_id attribute.
+[Line                   136]: Missing the text attribute.
 [Line                   144]: Missing the sent_id attribute.
+[Line                   144]: Missing the text attribute.
 [Line                   149]: Unknown attribute-value pair Negative=Pos
 [Line                   149]: Unknown UPOS tag: CONJ
 [Line                   155]: Unknown UD DEPREL: mwe
@@ -6409,9 +6140,12 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 [Line                   184]: Unknown UD DEPREL: neg
 [Line                   191]: Unknown UD DEPREL: dobj
 [Line                   193]: Missing the sent_id attribute.
+[Line                   193]: Missing the text attribute.
 [Line                   203]: Missing the sent_id attribute.
+[Line                   203]: Missing the text attribute.
 [Line                   208]: Unknown UD DEPREL: dobj
 [Line                   213]: Missing the sent_id attribute.
+[Line                   213]: Missing the text attribute.
 [Line                   220]: Unknown attribute-value pair Negative=Neg
 ...suppressing further errors regarding Syntax
 [Line                   222]: Unknown attribute-value pair Negative=Pos
@@ -6419,18 +6153,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 [Line                   234]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
 [Line                   247]: Missing the sent_id attribute.
-[Line                   275]: Missing the sent_id attribute.
-[Line                   284]: Missing the sent_id attribute.
-[Line                   304]: Missing the sent_id attribute.
-[Line                   330]: Missing the sent_id attribute.
-[Line                   347]: Missing the sent_id attribute.
-[Line                   361]: Missing the sent_id attribute.
-[Line                   384]: Missing the sent_id attribute.
-[Line                   391]: Missing the sent_id attribute.
-[Line                   422]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 47857 errors
-Metadata errors: 9523
+*** FAILED *** with 57380 errors
+Metadata errors: 19046
 Morpho errors: 17481
 Syntax errors: 20853
 
@@ -6451,9 +6176,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 [Line                   60]: Unknown attribute-value pair Negative=Pos
 [Line                   60]: Unknown UPOS tag: CONJ
 [Line                   69]: Missing the sent_id attribute.
+[Line                   69]: Missing the text attribute.
 [Line                   79]: Unknown UD DEPREL: mwe
 [Line                   80]: Unknown UD DEPREL: mwe
 [Line                   84]: Missing the sent_id attribute.
+[Line                   84]: Missing the text attribute.
 [Line                   93]: Unknown UD DEPREL: mwe
 [Line                   97]: Unknown UD DEPREL: mwe
 [Line                   99]: Unknown attribute-value pair Negative=Pos
@@ -6461,10 +6188,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 [Line                   103]: Unknown UD DEPREL: dobj
 [Line                   106]: Unknown UD DEPREL: dobj
 [Line                   113]: Missing the sent_id attribute.
+[Line                   113]: Missing the text attribute.
 [Line                   119]: Unknown UD DEPREL: mwe
 [Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
 [Line                   136]: Missing the sent_id attribute.
+[Line                   136]: Missing the text attribute.
 [Line                   144]: Missing the sent_id attribute.
+[Line                   144]: Missing the text attribute.
 [Line                   149]: Unknown attribute-value pair Negative=Pos
 [Line                   149]: Unknown UPOS tag: CONJ
 [Line                   155]: Unknown UD DEPREL: mwe
@@ -6479,9 +6210,12 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 [Line                   184]: Unknown UD DEPREL: neg
 [Line                   191]: Unknown UD DEPREL: dobj
 [Line                   193]: Missing the sent_id attribute.
+[Line                   193]: Missing the text attribute.
 [Line                   203]: Missing the sent_id attribute.
+[Line                   203]: Missing the text attribute.
 [Line                   208]: Unknown UD DEPREL: dobj
 [Line                   213]: Missing the sent_id attribute.
+[Line                   213]: Missing the text attribute.
 [Line                   220]: Unknown attribute-value pair Negative=Neg
 ...suppressing further errors regarding Syntax
 [Line                   222]: Unknown attribute-value pair Negative=Pos
@@ -6489,18 +6223,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 [Line                   234]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
 [Line                   247]: Missing the sent_id attribute.
-[Line                   275]: Missing the sent_id attribute.
-[Line                   284]: Missing the sent_id attribute.
-[Line                   304]: Missing the sent_id attribute.
-[Line                   330]: Missing the sent_id attribute.
-[Line                   347]: Missing the sent_id attribute.
-[Line                   361]: Missing the sent_id attribute.
-[Line                   384]: Missing the sent_id attribute.
-[Line                   391]: Missing the sent_id attribute.
-[Line                   422]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 47857 errors
-Metadata errors: 9523
+*** FAILED *** with 57380 errors
+Metadata errors: 19046
 Morpho errors: 17481
 Syntax errors: 20853
 
@@ -6514,7 +6239,7 @@ Syntax errors: 20853
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:13:52Z">2017-01-30T10:13:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:06:48Z">2017-01-30T12:06:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6522,8 +6247,10 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJ
 
 [Line                   10]: Unknown UPOS tag: CONJ
 [Line                   13]: Missing the sent_id attribute.
+[Line                   13]: Missing the text attribute.
 [Line                   16]: Unknown UD DEPREL: dobj
 [Line                   31]: Missing the sent_id attribute.
+[Line                   31]: Missing the text attribute.
 [Line                   39]: Unknown UD DEPREL: name
 [Line                   40]: Unknown UD DEPREL: name
 [Line                   43]: Unknown UD DEPREL: name
@@ -6532,17 +6259,23 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJ
 [Line                   49]: Unknown UPOS tag: CONJ
 [Line                   49]: Unknown UD DEPREL: mwe
 [Line                   60]: Missing the sent_id attribute.
+[Line                   60]: Missing the text attribute.
 [Line                   89]: Unknown UD DEPREL: name
 [Line                   91]: Missing the sent_id attribute.
+[Line                   91]: Missing the text attribute.
 [Line                   102]: Missing the sent_id attribute.
+[Line                   102]: Missing the text attribute.
 [Line                   106]: Unknown UD DEPREL: nsubjpass
 [Line                   108]: Unknown UD DEPREL: auxpass
 [Line                   115]: Missing the sent_id attribute.
+[Line                   115]: Missing the text attribute.
 [Line                   116]: Unknown attribute-value pair VerbForm=Trans
 [Line                   124]: Unknown UD DEPREL: neg
 [Line                   133]: Missing the sent_id attribute.
+[Line                   133]: Missing the text attribute.
 [Line                   143]: Unknown UD DEPREL: neg
 [Line                   146]: Missing the sent_id attribute.
+[Line                   146]: Missing the text attribute.
 [Line                   156]: Unknown UD DEPREL: name
 [Line                   159]: Unknown UD DEPREL: name
 [Line                   166]: Unknown UPOS tag: CONJ
@@ -6550,24 +6283,16 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJ
 [Line                   171]: Unknown UD DEPREL: name
 [Line                   184]: Unknown UD DEPREL: dobj
 [Line                   217]: Missing the sent_id attribute.
+[Line                   217]: Missing the text attribute.
 [Line                   228]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   237]: Unknown UD DEPREL: dobj
-[Line                   239]: Missing the sent_id attribute.
-[Line                   245]: Missing the sent_id attribute.
 [Line                   250]: Unknown UD DEPREL: dobj
 [Line                   253]: Unknown attribute-value pair VerbForm=Trans
 [Line                   255]: Unknown UD DEPREL: dobj
-[Line                   258]: Missing the sent_id attribute.
 [Line                   260]: Unknown UD DEPREL: nsubjpass
 ...suppressing further errors regarding Syntax
-[Line                   268]: Missing the sent_id attribute.
-[Line                   278]: Missing the sent_id attribute.
 [Line                   281]: Unknown UPOS tag: CONJ
-[Line                   287]: Missing the sent_id attribute.
-[Line                   308]: Missing the sent_id attribute.
-[Line                   317]: Missing the sent_id attribute.
-[Line                   340]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   382]: Unknown UPOS tag: CONJ
 [Line                   391]: Unknown UPOS tag: CONJ
 [Line                   395]: Unknown UPOS tag: CONJ
@@ -6580,8 +6305,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJ
 [Line                   616]: Unknown attribute-value pair VerbForm=Trans
 [Line                   618]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1491 errors
-Metadata errors: 502
+*** FAILED *** with 1993 errors
+Metadata errors: 1004
 Morpho errors: 344
 Syntax errors: 645
 
@@ -6595,29 +6320,38 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJ
 [Line                   17]: Unknown UD DEPREL: name
 [Line                   20]: Unknown UD DEPREL: dobj
 [Line                   26]: Missing the sent_id attribute.
+[Line                   26]: Missing the text attribute.
 [Line                   28]: Unknown UD DEPREL: nsubjpass
 [Line                   29]: Unknown UD DEPREL: auxpass
 [Line                   43]: Unknown UD DEPREL: neg
 [Line                   46]: Unknown UD DEPREL: neg
 [Line                   52]: Missing the sent_id attribute.
+[Line                   52]: Missing the text attribute.
 [Line                   58]: Unknown UPOS tag: CONJ
 [Line                   60]: Unknown UD DEPREL: dobj
 [Line                   72]: Unknown UPOS tag: CONJ
 [Line                   77]: Missing the sent_id attribute.
+[Line                   77]: Missing the text attribute.
 [Line                   83]: Unknown UPOS tag: CONJ
 [Line                   89]: Missing the sent_id attribute.
+[Line                   89]: Missing the text attribute.
 [Line                   93]: Unknown UD DEPREL: dobj
 [Line                   105]: Missing the sent_id attribute.
+[Line                   105]: Missing the text attribute.
 [Line                   106]: Unknown UPOS tag: CONJ
 [Line                   125]: Missing the sent_id attribute.
+[Line                   125]: Missing the text attribute.
 [Line                   134]: Unknown UPOS tag: CONJ
 [Line                   164]: Missing the sent_id attribute.
+[Line                   164]: Missing the text attribute.
 [Line                   168]: Unknown UPOS tag: CONJ
 [Line                   172]: Unknown UD DEPREL: dobj
 [Line                   174]: Missing the sent_id attribute.
+[Line                   174]: Missing the text attribute.
 [Line                   182]: Unknown UPOS tag: CONJ
 [Line                   185]: Unknown UPOS tag: CONJ
 [Line                   188]: Missing the sent_id attribute.
+[Line                   188]: Missing the text attribute.
 [Line                   189]: Unknown UD DEPREL: nsubjpass
 [Line                   190]: Unknown UD DEPREL: auxpass
 [Line                   193]: Unknown UPOS tag: CONJ
@@ -6629,29 +6363,20 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJ
 [Line                   216]: Unknown UD DEPREL: dobj
 [Line                   224]: Unknown UD DEPREL: dobj
 [Line                   228]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   234]: Unknown UD DEPREL: auxpass
 [Line                   236]: Unknown UD DEPREL: nsubjpass
 [Line                   241]: Unknown UPOS tag: CONJ
 [Line                   244]: Unknown UPOS tag: CONJ
 [Line                   249]: Unknown UD DEPREL: nsubjpass
-[Line                   255]: Missing the sent_id attribute.
-[Line                   262]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   272]: Missing the sent_id attribute.
-[Line                   303]: Missing the sent_id attribute.
-[Line                   330]: Missing the sent_id attribute.
-[Line                   338]: Missing the sent_id attribute.
-[Line                   349]: Missing the sent_id attribute.
-[Line                   376]: Missing the sent_id attribute.
-[Line                   414]: Missing the sent_id attribute.
 [Line                   420]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   451]: Unknown UPOS tag: CONJ
 [Line                   458]: Unknown UPOS tag: CONJ
 [Line                   502]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 11484 errors
-Metadata errors: 4029
+*** FAILED *** with 15513 errors
+Metadata errors: 8058
 Morpho errors: 2835
 Syntax errors: 4620
 
@@ -6665,7 +6390,7 @@ Syntax errors: 4620
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:14:00Z">2017-01-30T10:14:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:06:56Z">2017-01-30T12:06:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6674,53 +6399,53 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/gint
 [Line                   8]: Unknown UD DEPREL: name
 [Line                   16]: Unknown UD DEPREL: dobj
 [Line                   28]: Missing the sent_id attribute.
+[Line                   28]: Missing the text attribute.
 [Line                   38]: Unknown UD DEPREL: nsubjpass
 [Line                   43]: Unknown UPOS tag: CONJ
 [Line                   50]: Unknown UD DEPREL: dobj
 [Line                   63]: Missing the sent_id attribute.
+[Line                   63]: Missing the text attribute.
 [Line                   64]: Unknown UD DEPREL: nsubjpass
 [Line                   80]: Unknown UPOS tag: CONJ
 [Line                   85]: Missing the sent_id attribute.
+[Line                   85]: Missing the text attribute.
 [Line                   104]: Missing the sent_id attribute.
+[Line                   104]: Missing the text attribute.
 [Line                   107]: Unknown UPOS tag: CONJ
 [Line                   129]: Unknown UPOS tag: CONJ
 [Line                   133]: Unknown UD DEPREL: dobj
 [Line                   137]: Unknown UPOS tag: CONJ
 [Line                   141]: Missing the sent_id attribute.
+[Line                   141]: Missing the text attribute.
 [Line                   151]: Unknown UD DEPREL: nsubjpass
 [Line                   155]: Unknown UPOS tag: CONJ
 [Line                   169]: Missing the sent_id attribute.
+[Line                   169]: Missing the text attribute.
 [Line                   186]: Unknown UPOS tag: CONJ
 [Line                   215]: Missing the sent_id attribute.
+[Line                   215]: Missing the text attribute.
 [Line                   219]: Missing the sent_id attribute.
+[Line                   219]: Missing the text attribute.
 [Line                   231]: Missing the sent_id attribute.
+[Line                   231]: Missing the text attribute.
 [Line                   242]: Unknown UD DEPREL: dobj
 [Line                   249]: Unknown UPOS tag: CONJ
 [Line                   268]: Unknown UD DEPREL: name
 [Line                   270]: Unknown UD DEPREL: name
 [Line                   273]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   303]: Unknown UD DEPREL: name
-[Line                   306]: Missing the sent_id attribute.
 [Line                   316]: Unknown UD DEPREL: dobj
 [Line                   330]: Unknown UD DEPREL: name
-[Line                   333]: Missing the sent_id attribute.
 [Line                   365]: Unknown UD DEPREL: name
 [Line                   367]: Unknown UD DEPREL: name
-[Line                   370]: Missing the sent_id attribute.
 [Line                   380]: Unknown UD DEPREL: dobj
 [Line                   398]: Unknown UD DEPREL: name
 [Line                   399]: Unknown UD DEPREL: name
 [Line                   404]: Unknown UPOS tag: CONJ
-[Line                   411]: Missing the sent_id attribute.
-[Line                   416]: Missing the sent_id attribute.
 [Line                   422]: Unknown UPOS tag: CONJ
 [Line                   427]: Unknown UD DEPREL: dobj
-[Line                   431]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   448]: Missing the sent_id attribute.
-[Line                   472]: Missing the sent_id attribute.
-[Line                   479]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   499]: Unknown UPOS tag: CONJ
 [Line                   508]: Unknown UPOS tag: CONJ
 [Line                   522]: Unknown UPOS tag: CONJ
@@ -6731,8 +6456,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/gint
 [Line                   859]: Unknown UPOS tag: CONJ
 [Line                   921]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 17414 errors
-Metadata errors: 6250
+*** FAILED *** with 23664 errors
+Metadata errors: 12500
 Morpho errors: 4631
 Syntax errors: 6533
 
@@ -6742,10 +6467,12 @@ Syntax errors: 6533
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
 
 [Line                   3]: Missing the sent_id attribute.
+[Line                   3]: Missing the text attribute.
 [Line                   9]: Unknown UD DEPREL: name
 [Line                   25]: Unknown UPOS tag: CONJ
 [Line                   31]: Unknown UD DEPREL: dobj
 [Line                   38]: Missing the sent_id attribute.
+[Line                   38]: Missing the text attribute.
 [Line                   41]: Unknown UD DEPREL: dobj
 [Line                   53]: Unknown UPOS tag: CONJ
 [Line                   59]: Unknown UD DEPREL: dobj
@@ -6753,56 +6480,54 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/gint
 [Line                   69]: Unknown attribute-value pair VerbForm=Trans
 [Line                   71]: Unknown UD DEPREL: name
 [Line                   73]: Missing the sent_id attribute.
+[Line                   73]: Missing the text attribute.
 [Line                   78]: Unknown UD DEPREL: name
 [Line                   87]: Unknown UPOS tag: CONJ
 [Line                   93]: Missing the sent_id attribute.
+[Line                   93]: Missing the text attribute.
 [Line                   95]: Unknown UD DEPREL: auxpass
 [Line                   99]: Unknown UPOS tag: CONJ
 [Line                   102]: Missing the sent_id attribute.
+[Line                   102]: Missing the text attribute.
 [Line                   118]: Missing the sent_id attribute.
+[Line                   118]: Missing the text attribute.
 [Line                   123]: Unknown UPOS tag: CONJ
 [Line                   129]: Unknown UPOS tag: CONJ
 [Line                   136]: Unknown UD DEPREL: dobj
 [Line                   143]: Unknown UPOS tag: CONJ
 [Line                   155]: Missing the sent_id attribute.
+[Line                   155]: Missing the text attribute.
 [Line                   162]: Unknown UD DEPREL: name
 [Line                   164]: Missing the sent_id attribute.
+[Line                   164]: Missing the text attribute.
 [Line                   174]: Unknown UPOS tag: CONJ
 [Line                   181]: Missing the sent_id attribute.
+[Line                   181]: Missing the text attribute.
 [Line                   193]: Unknown UPOS tag: CONJ
 [Line                   201]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   205]: Unknown UD DEPREL: neg
 [Line                   215]: Unknown UPOS tag: CONJ
 [Line                   219]: Unknown UD DEPREL: dobj
 [Line                   225]: Unknown UD DEPREL: dobj
 [Line                   230]: Unknown UD DEPREL: mwe
 [Line                   235]: Unknown UD DEPREL: dobj
-[Line                   237]: Missing the sent_id attribute.
-[Line                   254]: Missing the sent_id attribute.
 [Line                   258]: Unknown UD DEPREL: dobj
 [Line                   270]: Unknown UD DEPREL: dobj
-[Line                   272]: Missing the sent_id attribute.
-[Line                   281]: Missing the sent_id attribute.
 [Line                   289]: Unknown UPOS tag: CONJ
 [Line                   292]: Unknown attribute-value pair VerbForm=Trans
 [Line                   296]: Unknown UD DEPREL: name
-[Line                   300]: Missing the sent_id attribute.
-[Line                   310]: Missing the sent_id attribute.
 [Line                   317]: Unknown UPOS tag: CONJ
-[Line                   328]: Missing the sent_id attribute.
 [Line                   334]: Unknown attribute-value pair VerbForm=Trans
 [Line                   337]: Unknown UD DEPREL: dobj
-[Line                   340]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
 [Line                   351]: Unknown attribute-value pair VerbForm=Trans
-[Line                   354]: Missing the sent_id attribute.
 [Line                   361]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   381]: Unknown UPOS tag: CONJ
 [Line                   400]: Unknown attribute-value pair VerbForm=Trans
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 133642 errors
-Metadata errors: 48171
+*** FAILED *** with 181813 errors
+Metadata errors: 96342
 Morpho errors: 33558
 Syntax errors: 51913
 
@@ -6816,34 +6541,34 @@ Syntax errors: 51913
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:15:17Z">2017-01-30T10:15:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:15Z">2017-01-30T12:08:15 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
 
 [Line                   5]: Missing the sent_id attribute.
+[Line                   5]: Missing the text attribute.
 [Line                   12]: Missing the sent_id attribute.
+[Line                   12]: Missing the text attribute.
 [Line                   19]: Missing the sent_id attribute.
+[Line                   19]: Missing the text attribute.
 [Line                   26]: Missing the sent_id attribute.
+[Line                   26]: Missing the text attribute.
 [Line                   33]: Missing the sent_id attribute.
+[Line                   33]: Missing the text attribute.
 [Line                   39]: Missing the sent_id attribute.
+[Line                   39]: Missing the text attribute.
 [Line                   43]: Missing the sent_id attribute.
+[Line                   43]: Missing the text attribute.
 [Line                   53]: Missing the sent_id attribute.
+[Line                   53]: Missing the text attribute.
 [Line                   59]: Missing the sent_id attribute.
+[Line                   59]: Missing the text attribute.
 [Line                   67]: Missing the sent_id attribute.
-[Line                   75]: Missing the sent_id attribute.
-[Line                   83]: Missing the sent_id attribute.
-[Line                   93]: Missing the sent_id attribute.
-[Line                   102]: Missing the sent_id attribute.
-[Line                   110]: Missing the sent_id attribute.
-[Line                   118]: Missing the sent_id attribute.
-[Line                   131]: Missing the sent_id attribute.
-[Line                   143]: Missing the sent_id attribute.
-[Line                   153]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 50 errors
-Metadata errors: 50
+*** FAILED *** with 100 errors
+Metadata errors: 100
 
 
 ******************
@@ -6851,27 +6576,27 @@ Metadata errors: 50
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
 
 [Line                   17]: Missing the sent_id attribute.
+[Line                   17]: Missing the text attribute.
 [Line                   23]: Missing the sent_id attribute.
+[Line                   23]: Missing the text attribute.
 [Line                   31]: Missing the sent_id attribute.
+[Line                   31]: Missing the text attribute.
 [Line                   38]: Missing the sent_id attribute.
+[Line                   38]: Missing the text attribute.
 [Line                   53]: Missing the sent_id attribute.
+[Line                   53]: Missing the text attribute.
 [Line                   64]: Missing the sent_id attribute.
+[Line                   64]: Missing the text attribute.
 [Line                   77]: Missing the sent_id attribute.
+[Line                   77]: Missing the text attribute.
 [Line                   83]: Missing the sent_id attribute.
+[Line                   83]: Missing the text attribute.
 [Line                   95]: Missing the sent_id attribute.
+[Line                   95]: Missing the text attribute.
 [Line                   107]: Missing the sent_id attribute.
-[Line                   114]: Missing the sent_id attribute.
-[Line                   121]: Missing the sent_id attribute.
-[Line                   127]: Missing the sent_id attribute.
-[Line                   138]: Missing the sent_id attribute.
-[Line                   147]: Missing the sent_id attribute.
-[Line                   157]: Missing the sent_id attribute.
-[Line                   173]: Missing the sent_id attribute.
-[Line                   179]: Missing the sent_id attribute.
-[Line                   188]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 100 errors
-Metadata errors: 100
+*** FAILED *** with 200 errors
+Metadata errors: 200
 
 
 ******************
@@ -6883,7 +6608,7 @@ Metadata errors: 100
 <span class="doublewidespan" style="padding-left:3em">UD Serbian</span>
 <span class="widespan">sr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:15:17Z">2017-01-30T10:15:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:15Z">2017-01-30T12:08:15 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6893,63 +6618,21 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:15:17Z">2017-01-30T10:15:17 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:15Z">2017-01-30T12:08:15 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
-[Line                   22]: Missing the sent_id attribute.
-[Line                   34]: Missing the sent_id attribute.
-[Line                   41]: Missing the sent_id attribute.
-[Line                   62]: Missing the sent_id attribute.
-[Line                   69]: Missing the sent_id attribute.
-[Line                   87]: Missing the sent_id attribute.
-[Line                   93]: Missing the sent_id attribute.
-[Line                   105]: Missing the sent_id attribute.
-[Line                   125]: Missing the sent_id attribute.
-[Line                   134]: Missing the sent_id attribute.
-[Line                   141]: Missing the sent_id attribute.
-[Line                   155]: Missing the sent_id attribute.
-[Line                   166]: Missing the sent_id attribute.
-[Line                   179]: Missing the sent_id attribute.
-[Line                   187]: Missing the sent_id attribute.
-[Line                   193]: Missing the sent_id attribute.
-[Line                   206]: Missing the sent_id attribute.
-[Line                   213]: Missing the sent_id attribute.
-[Line                   232]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1060 errors
-Metadata errors: 1060
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
-[Line                   10]: Missing the sent_id attribute.
-[Line                   19]: Missing the sent_id attribute.
-[Line                   29]: Missing the sent_id attribute.
-[Line                   39]: Missing the sent_id attribute.
-[Line                   47]: Missing the sent_id attribute.
-[Line                   57]: Missing the sent_id attribute.
-[Line                   65]: Missing the sent_id attribute.
-[Line                   78]: Missing the sent_id attribute.
-[Line                   88]: Missing the sent_id attribute.
-[Line                   98]: Missing the sent_id attribute.
-[Line                   109]: Missing the sent_id attribute.
-[Line                   121]: Missing the sent_id attribute.
-[Line                   128]: Missing the sent_id attribute.
-[Line                   134]: Missing the sent_id attribute.
-[Line                   141]: Missing the sent_id attribute.
-[Line                   157]: Missing the sent_id attribute.
-[Line                   171]: Missing the sent_id attribute.
-[Line                   181]: Missing the sent_id attribute.
-[Line                   190]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 8483 errors
-Metadata errors: 8483
+*** PASSED ***
 
 
 ******************
@@ -6961,62 +6644,62 @@ Metadata errors: 8483
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:30:16Z">2017-01-30T11:30:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:24Z">2017-01-30T12:08:24 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
 
-[Line                   40]: Missing the sent_id attribute.
-[Line                   52]: Missing the sent_id attribute.
-[Line                   99]: Missing the sent_id attribute.
-[Line                   117]: Missing the sent_id attribute.
-[Line                   139]: Missing the sent_id attribute.
-[Line                   154]: Missing the sent_id attribute.
-[Line                   178]: Missing the sent_id attribute.
-[Line                   185]: Missing the sent_id attribute.
-[Line                   209]: Missing the sent_id attribute.
-[Line                   223]: Missing the sent_id attribute.
-[Line                   236]: Missing the sent_id attribute.
-[Line                   265]: Missing the sent_id attribute.
-[Line                   287]: Missing the sent_id attribute.
-[Line                   302]: Missing the sent_id attribute.
-[Line                   316]: Missing the sent_id attribute.
-[Line                   342]: Missing the sent_id attribute.
-[Line                   362]: Missing the sent_id attribute.
-[Line                   386]: Missing the sent_id attribute.
-[Line                   409]: Missing the sent_id attribute.
+[Line                   40]: The text attribute must not end with a whitespace
+[Line                   99]: The text attribute must not end with a whitespace
+[Line                   139]: The text attribute must not end with a whitespace
+[Line                   154]: The text attribute must not end with a whitespace
+[Line                   178]: The text attribute must not end with a whitespace
+[Line                   185]: The text attribute must not end with a whitespace
+[Line                   223]: The text attribute must not end with a whitespace
+[Line                   236]: The text attribute must not end with a whitespace
+[Line                   265]: The text attribute must not end with a whitespace
+[Line                   287]: The text attribute must not end with a whitespace
+[Line                   302]: The text attribute must not end with a whitespace
+[Line                   316]: The text attribute must not end with a whitespace
+[Line                   362]: The text attribute must not end with a whitespace
+[Line                   409]: The text attribute must not end with a whitespace
+[Line                   423]: The text attribute must not end with a whitespace
+[Line                   442]: The text attribute must not end with a whitespace
+[Line                   457]: The text attribute must not end with a whitespace
+[Line                   488]: The text attribute must not end with a whitespace
+[Line                   517]: The text attribute must not end with a whitespace
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 734 errors
-Metadata errors: 734
+*** FAILED *** with 522 errors
+Metadata errors: 522
 
 
 ******************
 
-python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
 
-[Line                   27]: Missing the sent_id attribute.
-[Line                   38]: Missing the sent_id attribute.
-[Line                   58]: Missing the sent_id attribute.
-[Line                   69]: Missing the sent_id attribute.
-[Line                   78]: Missing the sent_id attribute.
-[Line                   105]: Missing the sent_id attribute.
-[Line                   123]: Missing the sent_id attribute.
-[Line                   146]: Missing the sent_id attribute.
-[Line                   170]: Missing the sent_id attribute.
-[Line                   193]: Missing the sent_id attribute.
-[Line                   222]: Missing the sent_id attribute.
-[Line                   243]: Missing the sent_id attribute.
-[Line                   256]: Missing the sent_id attribute.
-[Line                   288]: Missing the sent_id attribute.
-[Line                   303]: Missing the sent_id attribute.
-[Line                   314]: Missing the sent_id attribute.
-[Line                   330]: Missing the sent_id attribute.
-[Line                   351]: Missing the sent_id attribute.
-[Line                   378]: Missing the sent_id attribute.
+[Line                   27]: The text attribute must not end with a whitespace
+[Line                   38]: The text attribute must not end with a whitespace
+[Line                   58]: The text attribute must not end with a whitespace
+[Line                   69]: The text attribute must not end with a whitespace
+[Line                   78]: The text attribute must not end with a whitespace
+[Line                   105]: The text attribute must not end with a whitespace
+[Line                   123]: The text attribute must not end with a whitespace
+[Line                   170]: The text attribute must not end with a whitespace
+[Line                   193]: The text attribute must not end with a whitespace
+[Line                   256]: The text attribute must not end with a whitespace
+[Line                   288]: The text attribute must not end with a whitespace
+[Line                   303]: The text attribute must not end with a whitespace
+[Line                   351]: The text attribute must not end with a whitespace
+[Line                   378]: The text attribute must not end with a whitespace
+[Line                   394]: The text attribute must not end with a whitespace
+[Line                   407]: The text attribute must not end with a whitespace
+[Line                   428]: The text attribute must not end with a whitespace
+[Line                   485]: The text attribute must not end with a whitespace
+[Line                   513]: The text attribute must not end with a whitespace
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 6478 errors
-Metadata errors: 6478
+*** FAILED *** with 4828 errors
+Metadata errors: 4828
 
 
 ******************
@@ -7028,31 +6711,31 @@ Metadata errors: 6478
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:15:37Z">2017-01-30T10:15:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:36Z">2017-01-30T12:08:36 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
-[Line                   7]: Missing the sent_id attribute.
-[Line                   13]: Missing the sent_id attribute.
-[Line                   18]: Missing the sent_id attribute.
-[Line                   24]: Missing the sent_id attribute.
-[Line                   56]: Missing the sent_id attribute.
-[Line                   68]: Missing the sent_id attribute.
-[Line                   72]: Missing the sent_id attribute.
-[Line                   88]: Missing the sent_id attribute.
-[Line                   98]: Missing the sent_id attribute.
-[Line                   107]: Missing the sent_id attribute.
-[Line                   116]: Missing the sent_id attribute.
-[Line                   129]: Missing the sent_id attribute.
-[Line                   160]: Missing the sent_id attribute.
-[Line                   165]: Missing the sent_id attribute.
-[Line                   169]: Missing the sent_id attribute.
-[Line                   177]: Missing the sent_id attribute.
-[Line                   202]: Missing the sent_id attribute.
-[Line                   206]: Missing the sent_id attribute.
-[Line                   223]: Missing the sent_id attribute.
+[Line                   7]: The text attribute must not end with a whitespace
+[Line                   13]: The text attribute must not end with a whitespace
+[Line                   18]: The text attribute must not end with a whitespace
+[Line                   24]: The text attribute must not end with a whitespace
+[Line                   56]: The text attribute must not end with a whitespace
+[Line                   68]: The text attribute must not end with a whitespace
+[Line                   72]: The text attribute must not end with a whitespace
+[Line                   88]: The text attribute must not end with a whitespace
+[Line                   98]: The text attribute must not end with a whitespace
+[Line                   107]: The text attribute must not end with a whitespace
+[Line                   116]: The text attribute must not end with a whitespace
+[Line                   129]: The text attribute must not end with a whitespace
+[Line                   160]: The text attribute must not end with a whitespace
+[Line                   165]: The text attribute must not end with a whitespace
+[Line                   169]: The text attribute must not end with a whitespace
+[Line                   177]: The text attribute must not end with a whitespace
+[Line                   202]: The text attribute must not end with a whitespace
+[Line                   206]: The text attribute must not end with a whitespace
+[Line                   223]: The text attribute must not end with a whitespace
 ...suppressing further errors regarding Metadata
 *** FAILED *** with 1083 errors
 Metadata errors: 1083
@@ -7062,28 +6745,28 @@ Metadata errors: 1083
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
-[Line                   4]: Missing the sent_id attribute.
-[Line                   8]: Missing the sent_id attribute.
-[Line                   31]: Missing the sent_id attribute.
-[Line                   66]: Missing the sent_id attribute.
-[Line                   72]: Missing the sent_id attribute.
-[Line                   85]: Missing the sent_id attribute.
-[Line                   89]: Missing the sent_id attribute.
-[Line                   97]: Missing the sent_id attribute.
-[Line                   108]: Missing the sent_id attribute.
-[Line                   122]: Missing the sent_id attribute.
-[Line                   136]: Missing the sent_id attribute.
-[Line                   140]: Missing the sent_id attribute.
-[Line                   144]: Missing the sent_id attribute.
-[Line                   152]: Missing the sent_id attribute.
-[Line                   159]: Missing the sent_id attribute.
-[Line                   163]: Missing the sent_id attribute.
-[Line                   173]: Missing the sent_id attribute.
-[Line                   202]: Missing the sent_id attribute.
-[Line                   225]: Missing the sent_id attribute.
+[Line                   4]: The text attribute must not end with a whitespace
+[Line                   8]: The text attribute must not end with a whitespace
+[Line                   31]: The text attribute must not end with a whitespace
+[Line                   66]: The text attribute must not end with a whitespace
+[Line                   72]: The text attribute must not end with a whitespace
+[Line                   85]: The text attribute must not end with a whitespace
+[Line                   89]: The text attribute must not end with a whitespace
+[Line                   97]: The text attribute must not end with a whitespace
+[Line                   108]: The text attribute must not end with a whitespace
+[Line                   122]: The text attribute must not end with a whitespace
+[Line                   136]: The text attribute must not end with a whitespace
+[Line                   140]: The text attribute must not end with a whitespace
+[Line                   144]: The text attribute must not end with a whitespace
+[Line                   152]: The text attribute must not end with a whitespace
+[Line                   159]: The text attribute must not end with a whitespace
+[Line                   163]: The text attribute must not end with a whitespace
+[Line                   173]: The text attribute must not end with a whitespace
+[Line                   202]: The text attribute must not end with a whitespace
+[Line                   225]: The text attribute must not end with a whitespace
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 1054 errors
-Metadata errors: 1054
+*** FAILED *** with 1055 errors
+Metadata errors: 1055
 
 
 ******************
@@ -7095,7 +6778,7 @@ Metadata errors: 1054
 <span class="doublewidespan" style="padding-left:3em">UD Somali</span>
 <span class="widespan">so</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:15:39Z">2017-01-30T10:15:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:39Z">2017-01-30T12:08:39 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7106,7 +6789,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Sorani</span>
 <span class="widespan">ckb</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:15:39Z">2017-01-30T10:15:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:39Z">2017-01-30T12:08:39 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7116,63 +6799,21 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:15:39Z">2017-01-30T10:15:39 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:08:39Z">2017-01-30T12:08:39 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-dev.conllu
 
-[Line                   26]: Missing the sent_id attribute.
-[Line                   65]: Missing the sent_id attribute.
-[Line                   85]: Missing the sent_id attribute.
-[Line                   127]: Missing the sent_id attribute.
-[Line                   158]: Missing the sent_id attribute.
-[Line                   180]: Missing the sent_id attribute.
-[Line                   212]: Missing the sent_id attribute.
-[Line                   244]: Missing the sent_id attribute.
-[Line                   268]: Missing the sent_id attribute.
-[Line                   307]: Missing the sent_id attribute.
-[Line                   330]: Missing the sent_id attribute.
-[Line                   364]: Missing the sent_id attribute.
-[Line                   389]: Missing the sent_id attribute.
-[Line                   404]: Missing the sent_id attribute.
-[Line                   428]: Missing the sent_id attribute.
-[Line                   440]: Missing the sent_id attribute.
-[Line                   462]: Missing the sent_id attribute.
-[Line                   482]: Missing the sent_id attribute.
-[Line                   499]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1552 errors
-Metadata errors: 1552
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-train.conllu
 
-[Line                   32]: Missing the sent_id attribute.
-[Line                   97]: Missing the sent_id attribute.
-[Line                   190]: Missing the sent_id attribute.
-[Line                   213]: Missing the sent_id attribute.
-[Line                   229]: Missing the sent_id attribute.
-[Line                   244]: Missing the sent_id attribute.
-[Line                   280]: Missing the sent_id attribute.
-[Line                   306]: Missing the sent_id attribute.
-[Line                   328]: Missing the sent_id attribute.
-[Line                   348]: Missing the sent_id attribute.
-[Line                   421]: Missing the sent_id attribute.
-[Line                   454]: Missing the sent_id attribute.
-[Line                   486]: Missing the sent_id attribute.
-[Line                   508]: Missing the sent_id attribute.
-[Line                   521]: Missing the sent_id attribute.
-[Line                   537]: Missing the sent_id attribute.
-[Line                   568]: Missing the sent_id attribute.
-[Line                   583]: Missing the sent_id attribute.
-[Line                   636]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 14187 errors
-Metadata errors: 14187
+*** PASSED ***
 
 
 ******************
@@ -7183,63 +6824,21 @@ Metadata errors: 14187
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:16:10Z">2017-01-30T10:16:10 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:09:16Z">2017-01-30T12:09:16 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
 
-[Line                   67]: Missing the sent_id attribute.
-[Line                   121]: Missing the sent_id attribute.
-[Line                   132]: Missing the sent_id attribute.
-[Line                   165]: Missing the sent_id attribute.
-[Line                   228]: Missing the sent_id attribute.
-[Line                   295]: Missing the sent_id attribute.
-[Line                   335]: Missing the sent_id attribute.
-[Line                   392]: Missing the sent_id attribute.
-[Line                   456]: Missing the sent_id attribute.
-[Line                   510]: Missing the sent_id attribute.
-[Line                   573]: Missing the sent_id attribute.
-[Line                   627]: Missing the sent_id attribute.
-[Line                   683]: Missing the sent_id attribute.
-[Line                   720]: Missing the sent_id attribute.
-[Line                   780]: Missing the sent_id attribute.
-[Line                   823]: Missing the sent_id attribute.
-[Line                   861]: Missing the sent_id attribute.
-[Line                   909]: Missing the sent_id attribute.
-[Line                   965]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1654 errors
-Metadata errors: 1654
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
 
-[Line                   47]: Missing the sent_id attribute.
-[Line                   102]: Missing the sent_id attribute.
-[Line                   124]: Missing the sent_id attribute.
-[Line                   187]: Missing the sent_id attribute.
-[Line                   248]: Missing the sent_id attribute.
-[Line                   307]: Missing the sent_id attribute.
-[Line                   349]: Missing the sent_id attribute.
-[Line                   400]: Missing the sent_id attribute.
-[Line                   443]: Missing the sent_id attribute.
-[Line                   492]: Missing the sent_id attribute.
-[Line                   525]: Missing the sent_id attribute.
-[Line                   583]: Missing the sent_id attribute.
-[Line                   627]: Missing the sent_id attribute.
-[Line                   676]: Missing the sent_id attribute.
-[Line                   722]: Missing the sent_id attribute.
-[Line                   771]: Missing the sent_id attribute.
-[Line                   829]: Missing the sent_id attribute.
-[Line                   881]: Missing the sent_id attribute.
-[Line                   930]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 14305 errors
-Metadata errors: 14305
+*** PASSED ***
 
 
 ******************
@@ -7251,7 +6850,7 @@ Metadata errors: 14305
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:16:51Z">2017-01-30T10:16:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:09:56Z">2017-01-30T12:09:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7276,7 +6875,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:16:57Z">2017-01-30T10:16:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:04Z">2017-01-30T12:10:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7302,7 +6901,23 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/U
 [Line                   1208]: Unknown UD DEPREL: nsubj:pass
 [Line                   1227]: Unknown UD DEPREL: aux:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 136 errors
+[Line                   3147]: Mismatch between the text attribute and the FORM field. Form is 'Work' but text is 'x Work....'
+[Line                   3147]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x Work....'
+[Line                   3147]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x Work.'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'York' but text is 'york Times och dessutom ...'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Times' but text is 'york Times och dessutom t...'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'och' but text is 'york Times och dessutom...'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'dessutom' but text is 'york Times och dessutom till...'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'till' but text is 'york Times och dessutom ...'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Katherine' but text is 'york Times och dessutom till ...'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Graham' but text is 'york Times och dessutom ti...'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'på' but text is 'york Times och dessuto...'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Washington' but text is 'york Times och dessutom till K...'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Post' but text is 'york Times och dessutom ...'
+[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'york Times och dessut...'
+[Line                   7555]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'york Times och dessutom till Katherine Graham på Washington Post.'
+*** FAILED *** with 151 errors
+Metadata errors: 15
 Syntax errors: 136
 
 
@@ -7330,7 +6945,28 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/U
 [Line                   1578]: Unknown UD DEPREL: nsubj:pass
 [Line                   1600]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 328 errors
+[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'Work' but text is 'x Work skulle ha tänkt o...'
+[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'skulle' but text is 'x Work skulle ha tänkt om ...'
+[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'ha' but text is 'x Work skulle ha tänkt...'
+[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'tänkt' but text is 'x Work skulle ha tänkt om...'
+[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'om' but text is 'x Work skulle ha tänkt...'
+[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'han' but text is 'x Work skulle ha tänkt ...'
+[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'hade' but text is 'x Work skulle ha tänkt o...'
+[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'varit' but text is 'x Work skulle ha tänkt om...'
+[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'där' but text is 'x Work skulle ha tänkt ...'
+[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x Work skulle ha tänk...'
+[Line                   8543]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x Work skulle ha tänkt om han hade varit där.'
+[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'Burkes' but text is 'amp; Burkes? " sade Harry ...'
+[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is '?' but text is 'amp; Burkes? " sade H...'
+[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is '"' but text is 'amp; Burkes? " sade H...'
+[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'sade' but text is 'amp; Burkes? " sade Harr...'
+[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'Harry' but text is 'amp; Burkes? " sade Harry...'
+[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'till' but text is 'amp; Burkes? " sade Harr...'
+[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'Ron' but text is 'amp; Burkes? " sade Har...'
+[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'och' but text is 'amp; Burkes? " sade Har...'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 357 errors
+Metadata errors: 29
 Syntax errors: 328
 
 
@@ -7343,26 +6979,34 @@ Syntax errors: 328
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:17:01Z">2017-01-30T10:17:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:08Z">2017-01-30T12:10:08 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
 
 [Line                   3]: Missing the sent_id attribute.
+[Line                   3]: Missing the text attribute.
 [Line                   7]: Unknown UD DEPREL: dobj
 [Line                   9]: Missing the sent_id attribute.
+[Line                   9]: Missing the text attribute.
 [Line                   13]: Missing the sent_id attribute.
+[Line                   13]: Missing the text attribute.
 [Line                   18]: Unknown UD DEPREL: dobj
 [Line                   20]: Missing the sent_id attribute.
+[Line                   20]: Missing the text attribute.
 [Line                   29]: Missing the sent_id attribute.
+[Line                   29]: Missing the text attribute.
 [Line                   33]: Unknown UD DEPREL: dobj
 [Line                   36]: Missing the sent_id attribute.
+[Line                   36]: Missing the text attribute.
 [Line                   49]: Missing the sent_id attribute.
+[Line                   49]: Missing the text attribute.
 [Line                   54]: Unknown UD DEPREL: dobj
 [Line                   56]: Missing the sent_id attribute.
-*** FAILED *** with 12 errors
-Metadata errors: 8
+[Line                   56]: Missing the text attribute.
+*** FAILED *** with 20 errors
+Metadata errors: 16
 Syntax errors: 4
 
 
@@ -7371,38 +7015,38 @@ Syntax errors: 4
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
 
 [Line                   11]: Missing the sent_id attribute.
+[Line                   11]: Missing the text attribute.
 [Line                   15]: Unknown UD DEPREL: dobj
 [Line                   25]: Missing the sent_id attribute.
+[Line                   25]: Missing the text attribute.
 [Line                   30]: Missing the sent_id attribute.
+[Line                   30]: Missing the text attribute.
 [Line                   38]: Missing the sent_id attribute.
+[Line                   38]: Missing the text attribute.
 [Line                   44]: Missing the sent_id attribute.
+[Line                   44]: Missing the text attribute.
 [Line                   47]: Missing the sent_id attribute.
+[Line                   47]: Missing the text attribute.
 [Line                   52]: Missing the sent_id attribute.
+[Line                   52]: Missing the text attribute.
 [Line                   63]: Missing the sent_id attribute.
+[Line                   63]: Missing the text attribute.
 [Line                   65]: Missing the sent_id attribute.
+[Line                   65]: Missing the text attribute.
 [Line                   68]: Unknown UD DEPREL: dobj
 [Line                   70]: Unknown UD DEPREL: dobj
 [Line                   74]: Missing the sent_id attribute.
-[Line                   79]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   85]: Unknown UD DEPREL: dobj
-[Line                   92]: Missing the sent_id attribute.
-[Line                   94]: Missing the sent_id attribute.
 [Line                   95]: Unknown UD DEPREL: dobj
 [Line                   100]: Unknown UD DEPREL: dobj
-[Line                   101]: Missing the sent_id attribute.
-[Line                   108]: Missing the sent_id attribute.
-[Line                   110]: Missing the sent_id attribute.
-[Line                   115]: Missing the sent_id attribute.
-[Line                   122]: Missing the sent_id attribute.
-[Line                   130]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   198]: Unknown UD DEPREL: dobj
 [Line                   250]: Unknown UD DEPREL: dobj
 [Line                   289]: Unknown UD DEPREL: dobj
 [Line                   322]: Unknown UD DEPREL: dobj
 [Line                   340]: Unknown UD DEPREL: dobj
-*** FAILED *** with 57 errors
-Metadata errors: 46
+*** FAILED *** with 103 errors
+Metadata errors: 92
 Syntax errors: 11
 
 
@@ -7414,63 +7058,21 @@ Syntax errors: 11
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Tamil</span>
 <span class="widespan">ta</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:17:01Z">2017-01-30T10:17:01 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:08Z">2017-01-30T12:10:08 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-dev.conllu
 
-[Line                   18]: Missing the sent_id attribute.
-[Line                   37]: Missing the sent_id attribute.
-[Line                   62]: Missing the sent_id attribute.
-[Line                   95]: Missing the sent_id attribute.
-[Line                   120]: Missing the sent_id attribute.
-[Line                   142]: Missing the sent_id attribute.
-[Line                   153]: Missing the sent_id attribute.
-[Line                   170]: Missing the sent_id attribute.
-[Line                   186]: Missing the sent_id attribute.
-[Line                   212]: Missing the sent_id attribute.
-[Line                   235]: Missing the sent_id attribute.
-[Line                   267]: Missing the sent_id attribute.
-[Line                   284]: Missing the sent_id attribute.
-[Line                   310]: Missing the sent_id attribute.
-[Line                   319]: Missing the sent_id attribute.
-[Line                   357]: Missing the sent_id attribute.
-[Line                   375]: Missing the sent_id attribute.
-[Line                   406]: Missing the sent_id attribute.
-[Line                   426]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 80 errors
-Metadata errors: 80
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 
-[Line                   32]: Missing the sent_id attribute.
-[Line                   46]: Missing the sent_id attribute.
-[Line                   82]: Missing the sent_id attribute.
-[Line                   107]: Missing the sent_id attribute.
-[Line                   129]: Missing the sent_id attribute.
-[Line                   166]: Missing the sent_id attribute.
-[Line                   199]: Missing the sent_id attribute.
-[Line                   212]: Missing the sent_id attribute.
-[Line                   232]: Missing the sent_id attribute.
-[Line                   251]: Missing the sent_id attribute.
-[Line                   289]: Missing the sent_id attribute.
-[Line                   316]: Missing the sent_id attribute.
-[Line                   342]: Missing the sent_id attribute.
-[Line                   359]: Missing the sent_id attribute.
-[Line                   412]: Missing the sent_id attribute.
-[Line                   438]: Missing the sent_id attribute.
-[Line                   454]: Missing the sent_id attribute.
-[Line                   476]: Missing the sent_id attribute.
-[Line                   506]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 400 errors
-Metadata errors: 400
+*** PASSED ***
 
 
 ******************
@@ -7482,7 +7084,7 @@ Metadata errors: 400
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:17:02Z">2017-01-30T10:17:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:09Z">2017-01-30T12:10:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7491,14 +7093,17 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJ
 [Line                   2]: Unknown UD DEPREL: dobj
 [Line                   3]: Unknown attribute-value pair Negative=Pos
 [Line                   5]: Missing the sent_id attribute.
+[Line                   5]: Missing the text attribute.
 [Line                   8]: Unknown attribute-value pair Negative=Pos
 [Line                   10]: Missing the sent_id attribute.
+[Line                   10]: Missing the text attribute.
 [Line                   22]: Unknown attribute-value pair Negative=Pos
 [Line                   22]: Unknown UD DEPREL: dobj
 [Line                   24]: Unknown attribute-value pair Negative=Pos
 [Line                   24]: Unknown UD DEPREL: dobj
 [Line                   25]: Unknown attribute-value pair Negative=Pos
 [Line                   27]: Missing the sent_id attribute.
+[Line                   27]: Missing the text attribute.
 [Line                   31]: Unknown attribute-value pair Negative=Pos
 [Line                   32]: Unknown UD DEPREL: dobj
 [Line                   33]: Unknown attribute-value pair Negative=Pos
@@ -7510,11 +7115,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJ
 [Line                   59]: Unknown attribute-value pair Negative=Pos
 [Line                   60]: Unknown attribute-value pair Negative=Pos
 [Line                   62]: Missing the sent_id attribute.
+[Line                   62]: Missing the text attribute.
 [Line                   65]: Unknown attribute-value pair Negative=Pos
 [Line                   67]: Missing the sent_id attribute.
+[Line                   67]: Missing the text attribute.
 [Line                   76]: Unknown attribute-value pair Evidentiality=Nfh
 [Line                   76]: Unknown attribute-value pair Negative=Pos
 [Line                   78]: Missing the sent_id attribute.
+[Line                   78]: Missing the text attribute.
 [Line                   80]: Unknown UD DEPREL: dobj
 [Line                   81]: Unknown attribute-value pair Negative=Pos
 [Line                   82]: Unknown UPOS tag: CONJ
@@ -7522,25 +7130,19 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJ
 [Line                   93]: Unknown attribute-value pair Negative=Pos
 ...suppressing further errors regarding Morpho
 [Line                   100]: Missing the sent_id attribute.
+[Line                   100]: Missing the text attribute.
 [Line                   101]: Unknown UD DEPREL: dobj
 [Line                   104]: Missing the sent_id attribute.
+[Line                   104]: Missing the text attribute.
 [Line                   107]: Unknown UD DEPREL: dobj
 [Line                   113]: Unknown UD DEPREL: dobj
 [Line                   116]: Missing the sent_id attribute.
+[Line                   116]: Missing the text attribute.
 [Line                   129]: Missing the sent_id attribute.
-[Line                   138]: Missing the sent_id attribute.
-[Line                   146]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   147]: Unknown UD DEPREL: dobj
 [Line                   154]: Unknown UD DEPREL: name
-[Line                   159]: Missing the sent_id attribute.
-[Line                   163]: Missing the sent_id attribute.
-[Line                   170]: Missing the sent_id attribute.
-[Line                   177]: Missing the sent_id attribute.
-[Line                   181]: Missing the sent_id attribute.
-[Line                   194]: Missing the sent_id attribute.
 [Line                   196]: Unknown UD DEPREL: dobj
-[Line                   199]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   206]: Unknown UD DEPREL: dobj
 [Line                   222]: Unknown UD DEPREL: dobj
 [Line                   229]: Unknown UD DEPREL: dobj
@@ -7548,8 +7150,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJ
 [Line                   244]: Unknown UD DEPREL: dobj
 [Line                   259]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 3912 errors
-Metadata errors: 844
+*** FAILED *** with 4756 errors
+Metadata errors: 1688
 Morpho errors: 2327
 Syntax errors: 741
 
@@ -7560,25 +7162,32 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJ
 
 [Line                   2]: Unknown attribute-value pair Negative=Pos
 [Line                   4]: Missing the sent_id attribute.
+[Line                   4]: Missing the text attribute.
 [Line                   5]: Unknown UPOS tag: CONJ
 [Line                   8]: Unknown attribute-value pair Negative=Pos
 [Line                   10]: Missing the sent_id attribute.
+[Line                   10]: Missing the text attribute.
 [Line                   16]: Unknown UD DEPREL: dobj
 [Line                   17]: Unknown attribute-value pair Negative=Neg
 [Line                   19]: Missing the sent_id attribute.
+[Line                   19]: Missing the text attribute.
 [Line                   21]: Unknown UD DEPREL: mwe
 [Line                   22]: Unknown UD DEPREL: dobj
 [Line                   23]: Unknown attribute-value pair Negative=Pos
 [Line                   25]: Missing the sent_id attribute.
+[Line                   25]: Missing the text attribute.
 [Line                   27]: Unknown UD DEPREL: dobj
 [Line                   28]: Unknown attribute-value pair Negative=Pos
 [Line                   30]: Missing the sent_id attribute.
+[Line                   30]: Missing the text attribute.
 [Line                   44]: Unknown attribute-value pair Negative=Pos
 [Line                   46]: Missing the sent_id attribute.
+[Line                   46]: Missing the text attribute.
 [Line                   48]: Unknown attribute-value pair Negative=Pos
 [Line                   59]: Unknown UD DEPREL: dobj
 [Line                   60]: Unknown attribute-value pair Negative=Pos
 [Line                   62]: Missing the sent_id attribute.
+[Line                   62]: Missing the text attribute.
 [Line                   63]: Unknown UD DEPREL: name
 [Line                   73]: Unknown UPOS tag: CONJ
 [Line                   78]: Unknown attribute-value pair Negative=Pos
@@ -7590,36 +7199,29 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJ
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   88]: Unknown attribute-value pair Negative=Pos
 [Line                   90]: Missing the sent_id attribute.
+[Line                   90]: Missing the text attribute.
 [Line                   92]: Unknown attribute-value pair Negative=Pos
 [Line                   94]: Missing the sent_id attribute.
+[Line                   94]: Missing the text attribute.
 [Line                   95]: Unknown attribute-value pair Negative=Pos
 [Line                   95]: Unknown UD DEPREL: dobj
 [Line                   96]: Unknown attribute-value pair Negative=Pos
 [Line                   96]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Morpho
 [Line                   99]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   100]: Unknown UD DEPREL: dobj
-[Line                   104]: Missing the sent_id attribute.
 [Line                   105]: Unknown UD DEPREL: dobj
 [Line                   106]: Unknown UD DEPREL: dobj
-[Line                   109]: Missing the sent_id attribute.
-[Line                   112]: Missing the sent_id attribute.
-[Line                   116]: Missing the sent_id attribute.
 [Line                   120]: Unknown UD DEPREL: dobj
-[Line                   124]: Missing the sent_id attribute.
-[Line                   127]: Missing the sent_id attribute.
 [Line                   128]: Unknown UD DEPREL: name
 [Line                   134]: Unknown UD DEPREL: dobj
-[Line                   139]: Missing the sent_id attribute.
-[Line                   147]: Missing the sent_id attribute.
-[Line                   157]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   171]: Unknown UD DEPREL: dobj
 [Line                   178]: Unknown UD DEPREL: dobj
 [Line                   184]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 17582 errors
-Metadata errors: 3948
+*** FAILED *** with 21530 errors
+Metadata errors: 7896
 Morpho errors: 10241
 Syntax errors: 3393
 
@@ -7633,7 +7235,7 @@ Syntax errors: 3393
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:17:07Z">2017-01-30T10:17:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:13Z">2017-01-30T12:10:13 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7642,15 +7244,22 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJ
 [Line                   2]: Unknown UD DEPREL: neg
 [Line                   7]: Unknown UD DEPREL: neg
 [Line                   10]: Missing the sent_id attribute.
+[Line                   10]: Missing the text attribute.
 [Line                   21]: Missing the sent_id attribute.
+[Line                   21]: Missing the text attribute.
 [Line                   32]: Missing the sent_id attribute.
+[Line                   32]: Missing the text attribute.
 [Line                   42]: Missing the sent_id attribute.
+[Line                   42]: Missing the text attribute.
 [Line                   54]: Missing the sent_id attribute.
+[Line                   54]: Missing the text attribute.
 [Line                   69]: Missing the sent_id attribute.
+[Line                   69]: Missing the text attribute.
 [Line                   76]: Unknown UPOS tag: CONJ
 [Line                   77]: Unknown UD DEPREL: remnant
 [Line                   79]: Unknown UD DEPREL: remnant
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   88]: Unknown UD DEPREL: remnant
 [Line                   90]: Unknown UD DEPREL: remnant
@@ -7658,35 +7267,28 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJ
 [Line                   93]: Unknown UD DEPREL: remnant
 [Line                   95]: Unknown UD DEPREL: remnant
 [Line                   97]: Missing the sent_id attribute.
+[Line                   97]: Missing the text attribute.
 [Line                   104]: Missing the sent_id attribute.
+[Line                   104]: Missing the text attribute.
 [Line                   112]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   120]: Unknown UD DEPREL: neg
-[Line                   129]: Missing the sent_id attribute.
 [Line                   132]: Unknown UD DEPREL: name
-[Line                   139]: Missing the sent_id attribute.
-[Line                   147]: Missing the sent_id attribute.
-[Line                   155]: Missing the sent_id attribute.
-[Line                   163]: Missing the sent_id attribute.
-[Line                   169]: Missing the sent_id attribute.
 [Line                   171]: Unknown UPOS tag: CONJ
 [Line                   174]: Unknown UPOS tag: CONJ
-[Line                   179]: Missing the sent_id attribute.
 [Line                   190]: Unknown UD DEPREL: neg
-[Line                   193]: Missing the sent_id attribute.
 [Line                   198]: Unknown UPOS tag: CONJ
 [Line                   199]: Unknown UD DEPREL: neg
 [Line                   202]: Unknown UPOS tag: CONJ
 [Line                   207]: Unknown UPOS tag: CONJ
-[Line                   211]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   238]: Unknown UD DEPREL: dobj
 [Line                   239]: Unknown UD DEPREL: neg
 [Line                   247]: Unknown UD DEPREL: dobj
 [Line                   257]: Unknown UD DEPREL: dobj
 [Line                   271]: Unknown UPOS tag: CONJ
 [Line                   280]: Unknown UPOS tag: CONJ
-*** FAILED *** with 56 errors
-Metadata errors: 30
+*** FAILED *** with 86 errors
+Metadata errors: 60
 Morpho errors: 9
 Syntax errors: 17
 
@@ -7696,53 +7298,53 @@ Syntax errors: 17
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
 
 [Line                   8]: Missing the sent_id attribute.
+[Line                   8]: Missing the text attribute.
 [Line                   14]: Missing the sent_id attribute.
+[Line                   14]: Missing the text attribute.
 [Line                   21]: Missing the sent_id attribute.
+[Line                   21]: Missing the text attribute.
 [Line                   23]: Unknown UPOS tag: CONJ
 [Line                   25]: Unknown UD DEPREL: neg
 [Line                   34]: Missing the sent_id attribute.
+[Line                   34]: Missing the text attribute.
 [Line                   45]: Missing the sent_id attribute.
+[Line                   45]: Missing the text attribute.
 [Line                   47]: Unknown UD DEPREL: nsubjpass
 [Line                   55]: Missing the sent_id attribute.
+[Line                   55]: Missing the text attribute.
 [Line                   57]: Unknown UD DEPREL: nsubjpass
 [Line                   58]: Unknown UD DEPREL: neg
 [Line                   59]: Unknown UD DEPREL: auxpass
 [Line                   62]: Missing the sent_id attribute.
+[Line                   62]: Missing the text attribute.
 [Line                   69]: Unknown UD DEPREL: nsubjpass
 [Line                   73]: Missing the sent_id attribute.
+[Line                   73]: Missing the text attribute.
 [Line                   75]: Unknown UD DEPREL: nsubjpass
 [Line                   79]: Missing the sent_id attribute.
+[Line                   79]: Missing the text attribute.
 [Line                   81]: Unknown UD DEPREL: nsubjpass
 [Line                   86]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   89]: Unknown UD DEPREL: dobj
-[Line                   92]: Missing the sent_id attribute.
 [Line                   96]: Unknown UD DEPREL: dobj
-[Line                   98]: Missing the sent_id attribute.
 [Line                   100]: Unknown UD DEPREL: neg
 [Line                   103]: Unknown UD DEPREL: dobj
-[Line                   105]: Missing the sent_id attribute.
 [Line                   107]: Unknown UD DEPREL: dobj
-[Line                   111]: Missing the sent_id attribute.
-[Line                   117]: Missing the sent_id attribute.
 [Line                   120]: Unknown UD DEPREL: dobj
-[Line                   122]: Missing the sent_id attribute.
 [Line                   124]: Unknown UD DEPREL: dobj
-[Line                   127]: Missing the sent_id attribute.
 [Line                   130]: Unknown UD DEPREL: neg
 [Line                   133]: Unknown UD DEPREL: dobj
-[Line                   135]: Missing the sent_id attribute.
 [Line                   138]: Unknown UD DEPREL: dobj
-[Line                   140]: Missing the sent_id attribute.
 [Line                   143]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Metadata
 ...suppressing further errors regarding Syntax
 [Line                   787]: Unknown UPOS tag: CONJ
 [Line                   941]: Unknown UPOS tag: CONJ
 [Line                   1280]: Unknown UPOS tag: CONJ
 [Line                   1495]: Unknown UPOS tag: CONJ
 [Line                   1658]: Unknown UPOS tag: CONJ
-*** FAILED *** with 345 errors
-Metadata errors: 200
+*** FAILED *** with 545 errors
+Metadata errors: 400
 Morpho errors: 6
 Syntax errors: 139
 
@@ -7756,7 +7358,7 @@ Syntax errors: 139
 <span class="doublewidespan" style="padding-left:3em">UD Urdu</span>
 <span class="widespan">ur</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:17:07Z">2017-01-30T10:17:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:14Z">2017-01-30T12:10:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7767,48 +7369,48 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:17:07Z">2017-01-30T10:17:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:14Z">2017-01-30T12:10:14 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
 [Line                   7]: Missing the sent_id attribute.
+[Line                   7]: Missing the text attribute.
 [Line                   11]: Unknown UD DEPREL: dobj
 [Line                   15]: Missing the sent_id attribute.
+[Line                   15]: Missing the text attribute.
 [Line                   30]: Missing the sent_id attribute.
+[Line                   30]: Missing the text attribute.
 [Line                   47]: Missing the sent_id attribute.
+[Line                   47]: Missing the text attribute.
 [Line                   49]: Unknown UPOS tag: CONJ
 [Line                   49]: Unknown UD DEPREL: mwe
 [Line                   58]: Missing the sent_id attribute.
+[Line                   58]: Missing the text attribute.
 [Line                   66]: Unknown UD DEPREL: dobj
 [Line                   71]: Missing the sent_id attribute.
+[Line                   71]: Missing the text attribute.
 [Line                   75]: Unknown UD DEPREL: dobj
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   83]: Unknown UPOS tag: CONJ
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   91]: Missing the sent_id attribute.
+[Line                   91]: Missing the text attribute.
 [Line                   103]: Unknown UD DEPREL: dobj
 [Line                   108]: Unknown UD DEPREL: dobj
 [Line                   115]: Missing the sent_id attribute.
+[Line                   115]: Missing the text attribute.
 [Line                   118]: Unknown UPOS tag: CONJ
 [Line                   120]: Unknown UD DEPREL: dobj
 [Line                   133]: Missing the sent_id attribute.
-[Line                   143]: Missing the sent_id attribute.
-[Line                   160]: Missing the sent_id attribute.
-[Line                   171]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   174]: Unknown UD DEPREL: dobj
-[Line                   186]: Missing the sent_id attribute.
 [Line                   189]: Unknown UD DEPREL: dobj
-[Line                   196]: Missing the sent_id attribute.
-[Line                   213]: Missing the sent_id attribute.
 [Line                   217]: Unknown UD DEPREL: dobj
-[Line                   226]: Missing the sent_id attribute.
-[Line                   238]: Missing the sent_id attribute.
-[Line                   256]: Missing the sent_id attribute.
 [Line                   262]: Unknown UPOS tag: CONJ
 [Line                   272]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   285]: Unknown UPOS tag: CONJ
 [Line                   305]: Unknown UPOS tag: CONJ
 [Line                   359]: Unknown UPOS tag: CONJ
@@ -7833,8 +7435,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 [Line                   798]: Unknown UPOS tag: CONJ
 [Line                   952]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 205 errors
-Metadata errors: 100
+*** FAILED *** with 305 errors
+Metadata errors: 200
 Morpho errors: 29
 Syntax errors: 76
 
@@ -7847,51 +7449,51 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 [Line                   14]: Unknown UD DEPREL: dobj
 [Line                   20]: Unknown UD DEPREL: dobj
 [Line                   33]: Missing the sent_id attribute.
+[Line                   33]: Missing the text attribute.
 [Line                   37]: Unknown UD DEPREL: dobj
 [Line                   43]: Unknown UPOS tag: CONJ
 [Line                   51]: Unknown UD DEPREL: dobj
 [Line                   55]: Missing the sent_id attribute.
+[Line                   55]: Missing the text attribute.
 [Line                   59]: Unknown UD DEPREL: dobj
 [Line                   63]: Unknown UD DEPREL: dobj
 [Line                   65]: Unknown UPOS tag: CONJ
 [Line                   66]: Unknown UD DEPREL: dobj
 [Line                   67]: Unknown UD DEPREL: dobj
 [Line                   72]: Missing the sent_id attribute.
+[Line                   72]: Missing the text attribute.
 [Line                   95]: Missing the sent_id attribute.
+[Line                   95]: Missing the text attribute.
 [Line                   104]: Missing the sent_id attribute.
+[Line                   104]: Missing the text attribute.
 [Line                   115]: Missing the sent_id attribute.
+[Line                   115]: Missing the text attribute.
 [Line                   120]: Missing the sent_id attribute.
+[Line                   120]: Missing the text attribute.
 [Line                   135]: Unknown UD DEPREL: dobj
 [Line                   142]: Missing the sent_id attribute.
+[Line                   142]: Missing the text attribute.
 [Line                   149]: Missing the sent_id attribute.
+[Line                   149]: Missing the text attribute.
 [Line                   169]: Missing the sent_id attribute.
-[Line                   183]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   185]: Unknown UPOS tag: CONJ
 [Line                   186]: Unknown UPOS tag: CONJ
 [Line                   186]: Unknown UD DEPREL: mwe
-[Line                   194]: Missing the sent_id attribute.
 [Line                   197]: Unknown UD DEPREL: dobj
 [Line                   206]: Unknown UD DEPREL: dobj
-[Line                   209]: Missing the sent_id attribute.
 [Line                   212]: Unknown UPOS tag: CONJ
 [Line                   216]: Unknown UD DEPREL: dobj:cau
-[Line                   221]: Missing the sent_id attribute.
 [Line                   229]: Unknown UD DEPREL: dobj
 [Line                   235]: Unknown UD DEPREL: dobj
-[Line                   240]: Missing the sent_id attribute.
 [Line                   242]: Unknown UPOS tag: CONJ
 [Line                   247]: Unknown UPOS tag: CONJ
 [Line                   250]: Unknown UD DEPREL: dobj
 [Line                   255]: Unknown UD DEPREL: dobj
-[Line                   264]: Missing the sent_id attribute.
 [Line                   266]: Unknown UD DEPREL: dobj
 [Line                   274]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Syntax
-[Line                   290]: Missing the sent_id attribute.
-[Line                   304]: Missing the sent_id attribute.
 [Line                   311]: Unknown UPOS tag: CONJ
-[Line                   318]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   346]: Unknown UPOS tag: CONJ
 [Line                   561]: Unknown UPOS tag: CONJ
 [Line                   592]: Unknown UPOS tag: CONJ
@@ -7903,8 +7505,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 [Line                   881]: Unknown UPOS tag: CONJ
 [Line                   935]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1582 errors
-Metadata errors: 800
+*** FAILED *** with 2382 errors
+Metadata errors: 1600
 Morpho errors: 178
 Syntax errors: 604
 
@@ -7918,7 +7520,7 @@ Syntax errors: 604
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:17:08Z">2017-01-30T10:17:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:10:14Z">2017-01-30T12:10:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7928,51 +7530,51 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang vi /home/ginter/UD_PROJ
 [Line                   16]: Unknown UPOS tag: CONJ
 [Line                   21]: Unknown UD DEPREL: dobj
 [Line                   25]: Missing the sent_id attribute.
+[Line                   25]: Missing the text attribute.
 [Line                   34]: Missing the sent_id attribute.
+[Line                   34]: Missing the text attribute.
 [Line                   46]: Unknown UPOS tag: CONJ
 [Line                   51]: Missing the sent_id attribute.
+[Line                   51]: Missing the text attribute.
 [Line                   55]: Unknown UD DEPREL: dobj
 [Line                   58]: Unknown UPOS tag: CONJ
 [Line                   66]: Missing the sent_id attribute.
+[Line                   66]: Missing the text attribute.
 [Line                   68]: Unknown UD DEPREL: dobj
 [Line                   70]: Unknown UD DEPREL: dobj
 [Line                   76]: Missing the sent_id attribute.
+[Line                   76]: Missing the text attribute.
 [Line                   81]: Missing the sent_id attribute.
+[Line                   81]: Missing the text attribute.
 [Line                   97]: Missing the sent_id attribute.
+[Line                   97]: Missing the text attribute.
 [Line                   104]: Missing the sent_id attribute.
+[Line                   104]: Missing the text attribute.
 [Line                   110]: Unknown UPOS tag: CONJ
 [Line                   114]: Unknown UD DEPREL: dobj
 [Line                   118]: Missing the sent_id attribute.
+[Line                   118]: Missing the text attribute.
 [Line                   134]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   140]: Unknown UD DEPREL: dobj
 [Line                   142]: Unknown UD DEPREL: dobj
 [Line                   147]: Unknown UD DEPREL: dobj
-[Line                   152]: Missing the sent_id attribute.
 [Line                   162]: Unknown UD DEPREL: dobj
-[Line                   164]: Missing the sent_id attribute.
 [Line                   168]: Unknown UD DEPREL: dobj
 [Line                   169]: Unknown UPOS tag: CONJ
 [Line                   171]: Unknown UD DEPREL: dobj
-[Line                   173]: Missing the sent_id attribute.
 [Line                   175]: Unknown UD DEPREL: auxpass
 [Line                   190]: Unknown UD DEPREL: neg
-[Line                   193]: Missing the sent_id attribute.
 [Line                   198]: Unknown UPOS tag: CONJ
 [Line                   203]: Unknown UD DEPREL: dobj
 [Line                   207]: Unknown UD DEPREL: dobj
 [Line                   210]: Unknown UD DEPREL: dobj
 [Line                   211]: Unknown UPOS tag: CONJ
-[Line                   217]: Missing the sent_id attribute.
 [Line                   221]: Unknown UD DEPREL: dobj
-[Line                   235]: Missing the sent_id attribute.
 [Line                   238]: Unknown UPOS tag: CONJ
-[Line                   242]: Missing the sent_id attribute.
-[Line                   248]: Missing the sent_id attribute.
 [Line                   257]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-[Line                   274]: Missing the sent_id attribute.
 [Line                   280]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Metadata
 [Line                   300]: Unknown UPOS tag: CONJ
 [Line                   305]: Unknown UPOS tag: CONJ
 [Line                   462]: Unknown UPOS tag: CONJ
@@ -7984,8 +7586,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang vi /home/ginter/UD_PROJ
 [Line                   821]: Unknown UPOS tag: CONJ
 [Line                   873]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1218 errors
-Metadata errors: 400
+*** FAILED *** with 1618 errors
+Metadata errors: 800
 Morpho errors: 162
 Syntax errors: 656
 
@@ -7997,47 +7599,47 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang vi /home/ginter/UD_PROJ
 [Line                   6]: Unknown UD DEPREL: neg
 [Line                   8]: Unknown UD DEPREL: dobj
 [Line                   11]: Missing the sent_id attribute.
+[Line                   11]: Missing the text attribute.
 [Line                   17]: Unknown UD DEPREL: dobj
 [Line                   25]: Unknown UD DEPREL: dobj
 [Line                   37]: Missing the sent_id attribute.
+[Line                   37]: Missing the text attribute.
 [Line                   39]: Unknown UD DEPREL: dobj
 [Line                   46]: Unknown UD DEPREL: dobj
 [Line                   50]: Unknown UD DEPREL: dobj
 [Line                   52]: Missing the sent_id attribute.
+[Line                   52]: Missing the text attribute.
 [Line                   53]: Unknown UPOS tag: CONJ
 [Line                   57]: Unknown UD DEPREL: dobj
 [Line                   65]: Unknown UD DEPREL: dobj
 [Line                   67]: Unknown UD DEPREL: neg
 [Line                   70]: Unknown UD DEPREL: dobj
 [Line                   75]: Missing the sent_id attribute.
+[Line                   75]: Missing the text attribute.
 [Line                   78]: Unknown UD DEPREL: dobj
 [Line                   86]: Unknown UD DEPREL: dobj
 [Line                   90]: Missing the sent_id attribute.
+[Line                   90]: Missing the text attribute.
 [Line                   91]: Unknown UPOS tag: CONJ
 [Line                   102]: Unknown UPOS tag: CONJ
 [Line                   105]: Missing the sent_id attribute.
+[Line                   105]: Missing the text attribute.
 [Line                   110]: Missing the sent_id attribute.
+[Line                   110]: Missing the text attribute.
 [Line                   119]: Missing the sent_id attribute.
+[Line                   119]: Missing the text attribute.
 [Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
 [Line                   137]: Unknown UD DEPREL: dobj
 [Line                   144]: Missing the sent_id attribute.
-[Line                   162]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
 [Line                   167]: Unknown UD DEPREL: dobj
 [Line                   172]: Unknown UD DEPREL: dobj
-[Line                   178]: Missing the sent_id attribute.
 [Line                   182]: Unknown UD DEPREL: dobj
 [Line                   187]: Unknown UD DEPREL: dobj
-[Line                   195]: Missing the sent_id attribute.
 [Line                   205]: Unknown UD DEPREL: dobj
-[Line                   207]: Missing the sent_id attribute.
-[Line                   215]: Missing the sent_id attribute.
 ...suppressing further errors regarding Syntax
-[Line                   240]: Missing the sent_id attribute.
-[Line                   251]: Missing the sent_id attribute.
-[Line                   262]: Missing the sent_id attribute.
 [Line                   263]: Unknown UPOS tag: CONJ
-[Line                   280]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
 [Line                   323]: Unknown UPOS tag: CONJ
 [Line                   329]: Unknown UPOS tag: CONJ
 [Line                   353]: Unknown UPOS tag: CONJ
@@ -8054,8 +7656,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang vi /home/ginter/UD_PROJ
 [Line                   911]: Unknown UPOS tag: CONJ
 [Line                   966]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 6776 errors
-Metadata errors: 2200
+*** FAILED *** with 8976 errors
+Metadata errors: 4400
 Morpho errors: 888
 Syntax errors: 3688
 
