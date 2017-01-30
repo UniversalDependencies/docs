@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-30T12:35:17Z">2017-01-30T12:35:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-30T12:53:39Z">2017-01-30T12:53:39 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -13,7 +13,7 @@ Regenerated: <time class="timeago" datetime="2017-01-30T12:35:17Z">2017-01-30T12
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:15:07Z">2017-01-30T12:15:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:36:00Z">2017-01-30T12:36:00 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -24,7 +24,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:15:07Z">2017-01-30T12:15:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:36:00Z">2017-01-30T12:36:00 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -175,7 +175,7 @@ Syntax errors: 21730
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:15:25Z">2017-01-30T12:15:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:36:20Z">2017-01-30T12:36:20 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -325,21 +325,63 @@ Syntax errors: 16651
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:15:44Z">2017-01-30T12:15:44 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:36:38Z">2017-01-30T12:36:38 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
 
-*** PASSED ***
+[Line                   13]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p1u1/ar
+[Line                   72]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p2u1/ar
+[Line                   133]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p3u1/ar
+[Line                   169]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p4u1/ar
+[Line                   189]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p5u1/ar
+[Line                   236]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p6u1/ar
+[Line                   284]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p7u1/ar
+[Line                   305]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p8u1/ar
+[Line                   312]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0020:p1u1/ar
+[Line                   373]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0020:p2u1/ar
+[Line                   430]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0020:p3u1/ar
+[Line                   438]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p1u1/ar
+[Line                   477]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p2u1/ar
+[Line                   520]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p3u1/ar
+[Line                   564]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p4u1/ar
+[Line                   613]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p5u1/ar
+[Line                   635]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p6u1/ar
+[Line                   656]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p7u1/ar
+[Line                   688]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p8u1/ar
+...suppressing further errors regarding Metadata
+*** FAILED *** with 786 errors
+Metadata errors: 786
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 
-*** PASSED ***
+[Line                   13]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p1u1/ar
+[Line                   88]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p2u1/ar
+[Line                   125]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p3u1/ar
+[Line                   160]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p4u1/ar
+[Line                   194]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p4u2/ar
+[Line                   220]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p5u1/ar
+[Line                   254]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p5u2/ar
+[Line                   265]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p5u3/ar
+[Line                   321]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p6u1/ar
+[Line                   357]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p7u1/ar
+[Line                   399]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p7u2/ar
+[Line                   447]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p8u1/ar
+[Line                   485]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p8u2/ar
+[Line                   522]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p9u1/ar
+[Line                   570]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p10u1/ar
+[Line                   608]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p10u2/ar
+[Line                   643]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p11u1/ar
+[Line                   683]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p11u2/ar
+[Line                   722]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p12u1/ar
+...suppressing further errors regarding Metadata
+*** FAILED *** with 6174 errors
+Metadata errors: 6174
 
 
 ******************
@@ -351,7 +393,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-LDC</span>
 <span class="widespan">ar ldc</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:11Z">2017-01-30T12:16:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:37:04Z">2017-01-30T12:37:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -362,7 +404,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Basque</span>
 <span class="widespan">eu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:11Z">2017-01-30T12:16:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:37:04Z">2017-01-30T12:37:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -513,7 +555,7 @@ Syntax errors: 6742
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:19Z">2017-01-30T12:16:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:37:12Z">2017-01-30T12:37:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -664,7 +706,7 @@ Syntax errors: 10189
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:31Z">2017-01-30T12:16:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:37:24Z">2017-01-30T12:37:24 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -675,7 +717,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Cantonese</span>
 <span class="widespan">yue</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:31Z">2017-01-30T12:16:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:37:24Z">2017-01-30T12:37:24 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -685,21 +727,63 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:16:31Z">2017-01-30T12:16:31 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:37:24Z">2017-01-30T12:37:24 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
 
-*** PASSED ***
+[Line                   28]: The forward slash is reserved for special use in parallel treebanks: dev-s1/ca
+[Line                   64]: The forward slash is reserved for special use in parallel treebanks: dev-s2/ca
+[Line                   85]: The forward slash is reserved for special use in parallel treebanks: dev-s3/ca
+[Line                   107]: The forward slash is reserved for special use in parallel treebanks: dev-s4/ca
+[Line                   141]: The forward slash is reserved for special use in parallel treebanks: dev-s5/ca
+[Line                   167]: The forward slash is reserved for special use in parallel treebanks: dev-s6/ca
+[Line                   183]: The forward slash is reserved for special use in parallel treebanks: dev-s7/ca
+[Line                   205]: The forward slash is reserved for special use in parallel treebanks: dev-s8/ca
+[Line                   234]: The forward slash is reserved for special use in parallel treebanks: dev-s9/ca
+[Line                   295]: The forward slash is reserved for special use in parallel treebanks: dev-s10/ca
+[Line                   330]: The forward slash is reserved for special use in parallel treebanks: dev-s11/ca
+[Line                   360]: The forward slash is reserved for special use in parallel treebanks: dev-s12/ca
+[Line                   394]: The forward slash is reserved for special use in parallel treebanks: dev-s13/ca
+[Line                   422]: The forward slash is reserved for special use in parallel treebanks: dev-s14/ca
+[Line                   464]: The forward slash is reserved for special use in parallel treebanks: dev-s15/ca
+[Line                   488]: The forward slash is reserved for special use in parallel treebanks: dev-s16/ca
+[Line                   531]: The forward slash is reserved for special use in parallel treebanks: dev-s17/ca
+[Line                   554]: The forward slash is reserved for special use in parallel treebanks: dev-s18/ca
+[Line                   585]: The forward slash is reserved for special use in parallel treebanks: dev-s19/ca
+...suppressing further errors regarding Metadata
+*** FAILED *** with 1709 errors
+Metadata errors: 1709
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 
-*** PASSED ***
+[Line                   60]: The forward slash is reserved for special use in parallel treebanks: train-s1/ca
+[Line                   137]: The forward slash is reserved for special use in parallel treebanks: train-s2/ca
+[Line                   168]: The forward slash is reserved for special use in parallel treebanks: train-s3/ca
+[Line                   214]: The forward slash is reserved for special use in parallel treebanks: train-s4/ca
+[Line                   252]: The forward slash is reserved for special use in parallel treebanks: train-s5/ca
+[Line                   343]: The forward slash is reserved for special use in parallel treebanks: train-s6/ca
+[Line                   378]: The forward slash is reserved for special use in parallel treebanks: train-s7/ca
+[Line                   413]: The forward slash is reserved for special use in parallel treebanks: train-s8/ca
+[Line                   436]: The forward slash is reserved for special use in parallel treebanks: train-s9/ca
+[Line                   471]: The forward slash is reserved for special use in parallel treebanks: train-s10/ca
+[Line                   484]: The forward slash is reserved for special use in parallel treebanks: train-s11/ca
+[Line                   520]: The forward slash is reserved for special use in parallel treebanks: train-s12/ca
+[Line                   568]: The forward slash is reserved for special use in parallel treebanks: train-s13/ca
+[Line                   594]: The forward slash is reserved for special use in parallel treebanks: train-s14/ca
+[Line                   642]: The forward slash is reserved for special use in parallel treebanks: train-s15/ca
+[Line                   684]: The forward slash is reserved for special use in parallel treebanks: train-s16/ca
+[Line                   718]: The forward slash is reserved for special use in parallel treebanks: train-s17/ca
+[Line                   742]: The forward slash is reserved for special use in parallel treebanks: train-s18/ca
+[Line                   777]: The forward slash is reserved for special use in parallel treebanks: train-s19/ca
+...suppressing further errors regarding Metadata
+*** FAILED *** with 13123 errors
+Metadata errors: 13123
 
 
 ******************
@@ -711,7 +795,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Chinese</span>
 <span class="widespan">zh</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:17:12Z">2017-01-30T12:17:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:38:03Z">2017-01-30T12:38:03 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -862,7 +946,7 @@ Syntax errors: 7372
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:17:19Z">2017-01-30T12:17:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:38:09Z">2017-01-30T12:38:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -873,7 +957,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:17:19Z">2017-01-30T12:17:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:38:09Z">2017-01-30T12:38:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1018,7 +1102,7 @@ Syntax errors: 265
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:17:20Z">2017-01-30T12:17:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:38:09Z">2017-01-30T12:38:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1168,42 +1252,147 @@ Syntax errors: 9791
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:17:31Z">2017-01-30T12:17:31 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:38:20Z">2017-01-30T12:38:20 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
-*** PASSED ***
+[Line                   9]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p3s1/cs
+[Line                   17]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p5s1/cs
+[Line                   26]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p5s2/cs
+[Line                   40]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p5s3/cs
+[Line                   68]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p5s4/cs
+[Line                   81]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p5s5/cs
+[Line                   88]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p6s1/cs
+[Line                   103]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p7s1/cs
+[Line                   121]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p7s2/cs
+[Line                   164]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p7s3/cs
+[Line                   176]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p7s4/cs
+[Line                   186]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p8s1/cs
+[Line                   213]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p9s1/cs
+[Line                   259]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p9s2/cs
+[Line                   269]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p10s1/cs
+[Line                   300]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p11s1/cs
+[Line                   307]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-019-p1s1/cs
+[Line                   320]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-019-p2s1/cs
+[Line                   328]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-019-p3s1/cs
+...suppressing further errors regarding Metadata
+*** FAILED *** with 9270 errors
+Metadata errors: 9270
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
-*** PASSED ***
+[Line                   8]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p2s1/cs
+[Line                   19]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p3s1A/cs
+[Line                   28]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p3s1B/cs
+[Line                   39]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s1/cs
+[Line                   49]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s2/cs
+[Line                   72]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s3/cs
+[Line                   93]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s4/cs
+[Line                   132]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s5/cs
+[Line                   155]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s6/cs
+[Line                   194]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p5s1/cs
+[Line                   235]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p5s2/cs
+[Line                   276]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p6s1/cs
+[Line                   296]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p6s2/cs
+[Line                   313]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p6s3/cs
+[Line                   332]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p6s4/cs
+[Line                   352]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p6s5/cs
+[Line                   377]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p7s1/cs
+[Line                   403]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p7s2/cs
+[Line                   443]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p7s3/cs
+...suppressing further errors regarding Metadata
+*** FAILED *** with 8938 errors
+Metadata errors: 8938
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
-*** PASSED ***
+[Line                   10]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p1s1/cs
+[Line                   15]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s1D/cs
+[Line                   21]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s1E/cs
+[Line                   72]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s1C/cs
+[Line                   83]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s2/cs
+[Line                   118]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s3/cs
+[Line                   140]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s4/cs
+[Line                   193]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s5/cs
+[Line                   221]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s6/cs
+[Line                   249]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s7/cs
+[Line                   279]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s8/cs
+[Line                   315]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s9/cs
+[Line                   330]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s10/cs
+[Line                   355]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s11/cs
+[Line                   370]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s12/cs
+[Line                   376]: The forward slash is reserved for special use in parallel treebanks: ln94200-101-p1s1/cs
+[Line                   382]: The forward slash is reserved for special use in parallel treebanks: ln94200-101-p2s1A/cs
+[Line                   395]: The forward slash is reserved for special use in parallel treebanks: ln94200-101-p2s1B/cs
+[Line                   407]: The forward slash is reserved for special use in parallel treebanks: ln94200-101-p2s2/cs
+...suppressing further errors regarding Metadata
+*** FAILED *** with 41559 errors
+Metadata errors: 41559
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
-*** PASSED ***
+[Line                   10]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p1s1A/cs
+[Line                   23]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p1s1B/cs
+[Line                   43]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p2s1/cs
+[Line                   60]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p2s2/cs
+[Line                   80]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p2s3/cs
+[Line                   95]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p2s4/cs
+[Line                   141]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p3s1/cs
+[Line                   162]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p3s2A/cs
+[Line                   193]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p3s2B/cs
+[Line                   208]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p4s1/cs
+[Line                   225]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p4s2/cs
+[Line                   273]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p4s3A/cs
+[Line                   296]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p4s3B/cs
+[Line                   336]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p4s4/cs
+[Line                   373]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p5s1/cs
+[Line                   393]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p5s2/cs
+[Line                   404]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p5s3A/cs
+[Line                   439]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p5s3B/cs
+[Line                   448]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p6s1/cs
+...suppressing further errors regarding Metadata
+*** FAILED *** with 11180 errors
+Metadata errors: 11180
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
-*** PASSED ***
+[Line                   8]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p1s1/cs
+[Line                   14]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p2s1/cs
+[Line                   62]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p3s1/cs
+[Line                   99]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p4s1/cs
+[Line                   131]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p5s1/cs
+[Line                   142]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p6s1/cs
+[Line                   194]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p6s2/cs
+[Line                   209]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p7s1/cs
+[Line                   228]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p7s2/cs
+[Line                   289]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p7s3/cs
+[Line                   308]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p8s1/cs
+[Line                   340]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p9s1/cs
+[Line                   367]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p10s1/cs
+[Line                   403]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p10s2/cs
+[Line                   413]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p10s3/cs
+[Line                   428]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p10s4/cs
+[Line                   457]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p11s1/cs
+[Line                   493]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p11s2/cs
+[Line                   515]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p11s3/cs
+...suppressing further errors regarding Metadata
+*** FAILED *** with 6818 errors
+Metadata errors: 6818
 
 
 ******************
@@ -1214,21 +1403,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:19:46Z">2017-01-30T12:19:46 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:40:36Z">2017-01-30T12:40:36 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
-*** PASSED ***
+[Line                   23]: The forward slash is reserved for special use in parallel treebanks: a10w-s1/cs
+[Line                   50]: The forward slash is reserved for special use in parallel treebanks: a10w-s2/cs
+[Line                   91]: The forward slash is reserved for special use in parallel treebanks: a10w-s3/cs
+[Line                   125]: The forward slash is reserved for special use in parallel treebanks: a10w-s4/cs
+[Line                   143]: The forward slash is reserved for special use in parallel treebanks: a10w-s5/cs
+[Line                   185]: The forward slash is reserved for special use in parallel treebanks: a10w-s6/cs
+[Line                   226]: The forward slash is reserved for special use in parallel treebanks: a10w-s7/cs
+[Line                   266]: The forward slash is reserved for special use in parallel treebanks: a10w-s8/cs
+[Line                   308]: The forward slash is reserved for special use in parallel treebanks: a10w-s9/cs
+[Line                   327]: The forward slash is reserved for special use in parallel treebanks: a10w-s10/cs
+[Line                   359]: The forward slash is reserved for special use in parallel treebanks: a10w-s11/cs
+[Line                   415]: The forward slash is reserved for special use in parallel treebanks: a10w-s12/cs
+[Line                   433]: The forward slash is reserved for special use in parallel treebanks: a10w-s13/cs
+[Line                   454]: The forward slash is reserved for special use in parallel treebanks: a10w-s14/cs
+[Line                   482]: The forward slash is reserved for special use in parallel treebanks: a10w-s15/cs
+[Line                   509]: The forward slash is reserved for special use in parallel treebanks: a10w-s16/cs
+[Line                   523]: The forward slash is reserved for special use in parallel treebanks: a10w-s17/cs
+[Line                   548]: The forward slash is reserved for special use in parallel treebanks: a10w-s18/cs
+[Line                   568]: The forward slash is reserved for special use in parallel treebanks: a10w-s19/cs
+...suppressing further errors regarding Metadata
+*** FAILED *** with 603 errors
+Metadata errors: 603
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
-*** PASSED ***
+[Line                   29]: The forward slash is reserved for special use in parallel treebanks: a01w-s1/cs
+[Line                   62]: The forward slash is reserved for special use in parallel treebanks: a01w-s2/cs
+[Line                   98]: The forward slash is reserved for special use in parallel treebanks: a01w-s3/cs
+[Line                   133]: The forward slash is reserved for special use in parallel treebanks: a01w-s4/cs
+[Line                   152]: The forward slash is reserved for special use in parallel treebanks: a01w-s5/cs
+[Line                   161]: The forward slash is reserved for special use in parallel treebanks: a01w-s6/cs
+[Line                   168]: The forward slash is reserved for special use in parallel treebanks: a01w-s7/cs
+[Line                   196]: The forward slash is reserved for special use in parallel treebanks: a01w-s8/cs
+[Line                   233]: The forward slash is reserved for special use in parallel treebanks: a01w-s9/cs
+[Line                   276]: The forward slash is reserved for special use in parallel treebanks: a01w-s10/cs
+[Line                   308]: The forward slash is reserved for special use in parallel treebanks: a01w-s11/cs
+[Line                   346]: The forward slash is reserved for special use in parallel treebanks: a01w-s12/cs
+[Line                   378]: The forward slash is reserved for special use in parallel treebanks: a01w-s13/cs
+[Line                   414]: The forward slash is reserved for special use in parallel treebanks: a01w-s14/cs
+[Line                   426]: The forward slash is reserved for special use in parallel treebanks: a01w-s15/cs
+[Line                   471]: The forward slash is reserved for special use in parallel treebanks: a01w-s16/cs
+[Line                   509]: The forward slash is reserved for special use in parallel treebanks: a01w-s17/cs
+[Line                   540]: The forward slash is reserved for special use in parallel treebanks: a01w-s18/cs
+[Line                   592]: The forward slash is reserved for special use in parallel treebanks: a01w-s19/cs
+...suppressing further errors regarding Metadata
+*** FAILED *** with 23478 errors
+Metadata errors: 23478
 
 
 ******************
@@ -1240,12 +1471,13 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:20:32Z">2017-01-30T12:20:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:41:18Z">2017-01-30T12:41:18 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
+[Line                   264]: The forward slash is reserved for special use in parallel treebanks: zakon.iso-003-p23s3/cs
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is '§_18_odst._3' but text is '§ 18 odst. 3) ověřuje, a účetníh...'
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is ')' but text is '§ 18 odst. 3) ověřuje...'
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'ověřuje' but text is '§ 18 odst. 3) ověřuje, a úč...'
@@ -1264,18 +1496,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'jedno' but text is '§ 18 odst. 3) ověřuje, a ...'
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'ze' but text is '§ 18 odst. 3) ověřuje,...'
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'tří' but text is '§ 18 odst. 3) ověřuje, ...'
-[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'uvedených' but text is '§ 18 odst. 3) ověřuje, a účet...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 1237 errors
-Metadata errors: 1237
+*** FAILED *** with 1366 errors
+Metadata errors: 1366
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
+[Line                   6]: The forward slash is reserved for special use in parallel treebanks: vyhlaska.iso-001-p1s1/cs
+[Line                   14]: The forward slash is reserved for special use in parallel treebanks: vyhlaska.iso-001-p1s2/cs
+[Line                   19]: The forward slash is reserved for special use in parallel treebanks: vyhlaska.iso-001-p2s1/cs
 [Line                   19]: Mismatch between the text attribute and the FORM field. Form is '§_1' but text is '§ 1...'
 [Line                   19]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '§ 1'
+[Line                   273]: The forward slash is reserved for special use in parallel treebanks: vyhlaska.iso-001-p2s2/cs
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is '"zákon_o_přeměnách"' but text is '"zákon o přeměnách"), včetně úprav prov...'
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is ')' but text is '"zákon o přeměnách"),...'
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is ',' but text is '"zákon o přeměnách"),...'
@@ -1289,13 +1524,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'ke' but text is '"zákon o přeměnách"), ...'
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'dni' but text is '"zákon o přeměnách"), v...'
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'zápisu' but text is '"zákon o přeměnách"), včet...'
-[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'do' but text is '"zákon o přeměnách"), ...'
-[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'obchodního' but text is '"zákon o přeměnách"), včetně ú...'
-[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'rejstříku' but text is '"zákon o přeměnách"), včetně ...'
-[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 's' but text is '"zákon o přeměnách"),...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 9021 errors
-Metadata errors: 9021
+*** FAILED *** with 9881 errors
+Metadata errors: 9881
 
 
 ******************
@@ -1307,7 +1538,7 @@ Metadata errors: 9021
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:20:35Z">2017-01-30T12:20:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:41:22Z">2017-01-30T12:41:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1457,21 +1688,63 @@ Syntax errors: 8478
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:20:42Z">2017-01-30T12:20:42 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:41:30Z">2017-01-30T12:41:30 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
-*** PASSED ***
+[Line                   13]: The forward slash is reserved for special use in parallel treebanks: dev-s1/nl
+[Line                   32]: The forward slash is reserved for special use in parallel treebanks: dev-s2/nl
+[Line                   46]: The forward slash is reserved for special use in parallel treebanks: dev-s3/nl
+[Line                   67]: The forward slash is reserved for special use in parallel treebanks: dev-s4/nl
+[Line                   79]: The forward slash is reserved for special use in parallel treebanks: dev-s5/nl
+[Line                   103]: The forward slash is reserved for special use in parallel treebanks: dev-s6/nl
+[Line                   119]: The forward slash is reserved for special use in parallel treebanks: dev-s7/nl
+[Line                   143]: The forward slash is reserved for special use in parallel treebanks: dev-s8/nl
+[Line                   158]: The forward slash is reserved for special use in parallel treebanks: dev-s9/nl
+[Line                   173]: The forward slash is reserved for special use in parallel treebanks: dev-s10/nl
+[Line                   187]: The forward slash is reserved for special use in parallel treebanks: dev-s11/nl
+[Line                   205]: The forward slash is reserved for special use in parallel treebanks: dev-s12/nl
+[Line                   217]: The forward slash is reserved for special use in parallel treebanks: dev-s13/nl
+[Line                   228]: The forward slash is reserved for special use in parallel treebanks: dev-s14/nl
+[Line                   241]: The forward slash is reserved for special use in parallel treebanks: dev-s15/nl
+[Line                   253]: The forward slash is reserved for special use in parallel treebanks: dev-s16/nl
+[Line                   263]: The forward slash is reserved for special use in parallel treebanks: dev-s17/nl
+[Line                   274]: The forward slash is reserved for special use in parallel treebanks: dev-s18/nl
+[Line                   296]: The forward slash is reserved for special use in parallel treebanks: dev-s19/nl
+...suppressing further errors regarding Metadata
+*** FAILED *** with 720 errors
+Metadata errors: 720
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
-*** PASSED ***
+[Line                   10]: The forward slash is reserved for special use in parallel treebanks: train-s1/nl
+[Line                   27]: The forward slash is reserved for special use in parallel treebanks: train-s2/nl
+[Line                   38]: The forward slash is reserved for special use in parallel treebanks: train-s3/nl
+[Line                   55]: The forward slash is reserved for special use in parallel treebanks: train-s4/nl
+[Line                   71]: The forward slash is reserved for special use in parallel treebanks: train-s5/nl
+[Line                   86]: The forward slash is reserved for special use in parallel treebanks: train-s6/nl
+[Line                   107]: The forward slash is reserved for special use in parallel treebanks: train-s7/nl
+[Line                   138]: The forward slash is reserved for special use in parallel treebanks: train-s8/nl
+[Line                   164]: The forward slash is reserved for special use in parallel treebanks: train-s9/nl
+[Line                   180]: The forward slash is reserved for special use in parallel treebanks: train-s10/nl
+[Line                   204]: The forward slash is reserved for special use in parallel treebanks: train-s11/nl
+[Line                   217]: The forward slash is reserved for special use in parallel treebanks: train-s12/nl
+[Line                   232]: The forward slash is reserved for special use in parallel treebanks: train-s13/nl
+[Line                   257]: The forward slash is reserved for special use in parallel treebanks: train-s14/nl
+[Line                   284]: The forward slash is reserved for special use in parallel treebanks: train-s15/nl
+[Line                   306]: The forward slash is reserved for special use in parallel treebanks: train-s16/nl
+[Line                   328]: The forward slash is reserved for special use in parallel treebanks: train-s17/nl
+[Line                   342]: The forward slash is reserved for special use in parallel treebanks: train-s18/nl
+[Line                   349]: The forward slash is reserved for special use in parallel treebanks: train-s19/nl
+...suppressing further errors regarding Metadata
+*** FAILED *** with 12330 errors
+Metadata errors: 12330
 
 
 ******************
@@ -1483,7 +1756,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:00Z">2017-01-30T12:21:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:41:47Z">2017-01-30T12:41:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1636,7 +1909,7 @@ Syntax errors: 11067
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:06Z">2017-01-30T12:21:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:41:54Z">2017-01-30T12:41:54 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1787,7 +2060,7 @@ Syntax errors: 16527
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:25Z">2017-01-30T12:21:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:42:10Z">2017-01-30T12:42:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1938,7 +2211,7 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:30Z">2017-01-30T12:21:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:42:15Z">2017-01-30T12:42:15 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2089,7 +2362,7 @@ Syntax errors: 5480
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:34Z">2017-01-30T12:21:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:42:19Z">2017-01-30T12:42:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2240,7 +2513,7 @@ Syntax errors: 12909
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:21:54Z">2017-01-30T12:21:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:42:36Z">2017-01-30T12:42:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2443,7 +2716,7 @@ The language-specific file %s does not exist.
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:22:04Z">2017-01-30T12:22:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:42:46Z">2017-01-30T12:42:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2594,7 +2867,7 @@ Syntax errors: 16265
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:22:19Z">2017-01-30T12:22:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:43:02Z">2017-01-30T12:43:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2703,7 +2976,7 @@ Morpho errors: 1447
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:22:31Z">2017-01-30T12:22:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:43:16Z">2017-01-30T12:43:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2854,7 +3127,7 @@ Syntax errors: 30355
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:03Z">2017-01-30T12:23:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:43:47Z">2017-01-30T12:43:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3005,7 +3278,7 @@ Syntax errors: 4346
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:10Z">2017-01-30T12:23:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:43:53Z">2017-01-30T12:43:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3155,21 +3428,63 @@ Syntax errors: 1150
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:12Z">2017-01-30T12:23:12 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:43:55Z">2017-01-30T12:43:55 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-dev.conllu
 
-*** PASSED ***
+[Line                   9]: The forward slash is reserved for special use in parallel treebanks: dev-s1/de
+[Line                   21]: The forward slash is reserved for special use in parallel treebanks: dev-s2/de
+[Line                   33]: The forward slash is reserved for special use in parallel treebanks: dev-s3/de
+[Line                   49]: The forward slash is reserved for special use in parallel treebanks: dev-s4/de
+[Line                   56]: The forward slash is reserved for special use in parallel treebanks: dev-s5/de
+[Line                   75]: The forward slash is reserved for special use in parallel treebanks: dev-s6/de
+[Line                   101]: The forward slash is reserved for special use in parallel treebanks: dev-s7/de
+[Line                   111]: The forward slash is reserved for special use in parallel treebanks: dev-s8/de
+[Line                   129]: The forward slash is reserved for special use in parallel treebanks: dev-s9/de
+[Line                   139]: The forward slash is reserved for special use in parallel treebanks: dev-s10/de
+[Line                   145]: The forward slash is reserved for special use in parallel treebanks: dev-s11/de
+[Line                   151]: The forward slash is reserved for special use in parallel treebanks: dev-s12/de
+[Line                   169]: The forward slash is reserved for special use in parallel treebanks: dev-s13/de
+[Line                   193]: The forward slash is reserved for special use in parallel treebanks: dev-s14/de
+[Line                   211]: The forward slash is reserved for special use in parallel treebanks: dev-s15/de
+[Line                   233]: The forward slash is reserved for special use in parallel treebanks: dev-s16/de
+[Line                   246]: The forward slash is reserved for special use in parallel treebanks: dev-s17/de
+[Line                   255]: The forward slash is reserved for special use in parallel treebanks: dev-s18/de
+[Line                   266]: The forward slash is reserved for special use in parallel treebanks: dev-s19/de
+...suppressing further errors regarding Metadata
+*** FAILED *** with 799 errors
+Metadata errors: 799
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-train.conllu
 
-*** PASSED ***
+[Line                   19]: The forward slash is reserved for special use in parallel treebanks: train-s1/de
+[Line                   32]: The forward slash is reserved for special use in parallel treebanks: train-s2/de
+[Line                   40]: The forward slash is reserved for special use in parallel treebanks: train-s3/de
+[Line                   74]: The forward slash is reserved for special use in parallel treebanks: train-s4/de
+[Line                   97]: The forward slash is reserved for special use in parallel treebanks: train-s5/de
+[Line                   129]: The forward slash is reserved for special use in parallel treebanks: train-s6/de
+[Line                   151]: The forward slash is reserved for special use in parallel treebanks: train-s7/de
+[Line                   178]: The forward slash is reserved for special use in parallel treebanks: train-s8/de
+[Line                   200]: The forward slash is reserved for special use in parallel treebanks: train-s9/de
+[Line                   215]: The forward slash is reserved for special use in parallel treebanks: train-s10/de
+[Line                   240]: The forward slash is reserved for special use in parallel treebanks: train-s11/de
+[Line                   255]: The forward slash is reserved for special use in parallel treebanks: train-s12/de
+[Line                   269]: The forward slash is reserved for special use in parallel treebanks: train-s13/de
+[Line                   296]: The forward slash is reserved for special use in parallel treebanks: train-s14/de
+[Line                   324]: The forward slash is reserved for special use in parallel treebanks: train-s15/de
+[Line                   367]: The forward slash is reserved for special use in parallel treebanks: train-s16/de
+[Line                   378]: The forward slash is reserved for special use in parallel treebanks: train-s17/de
+[Line                   410]: The forward slash is reserved for special use in parallel treebanks: train-s18/de
+[Line                   431]: The forward slash is reserved for special use in parallel treebanks: train-s19/de
+...suppressing further errors regarding Metadata
+*** FAILED *** with 14118 errors
+Metadata errors: 14118
 
 
 ******************
@@ -3181,7 +3496,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:34Z">2017-01-30T12:23:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:44:19Z">2017-01-30T12:44:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3332,7 +3647,7 @@ Syntax errors: 4648
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:39Z">2017-01-30T12:23:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:44:24Z">2017-01-30T12:44:24 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3483,7 +3798,7 @@ Syntax errors: 2599
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:45Z">2017-01-30T12:23:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:44:29Z">2017-01-30T12:44:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3634,7 +3949,7 @@ Syntax errors: 7237
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:23:59Z">2017-01-30T12:23:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:44:43Z">2017-01-30T12:44:43 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3785,7 +4100,7 @@ Syntax errors: 24718
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:24:28Z">2017-01-30T12:24:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:45:15Z">2017-01-30T12:45:15 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3936,7 +4251,7 @@ Syntax errors: 2668
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian</span>
 <span class="widespan">id</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:24:31Z">2017-01-30T12:24:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:45:19Z">2017-01-30T12:45:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4087,7 +4402,7 @@ Syntax errors: 17051
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:24:37Z">2017-01-30T12:24:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:45:26Z">2017-01-30T12:45:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4238,7 +4553,7 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:24:39Z">2017-01-30T12:24:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:45:28Z">2017-01-30T12:45:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4375,7 +4690,7 @@ Syntax errors: 6701
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:24:56Z">2017-01-30T12:24:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:45:46Z">2017-01-30T12:45:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4442,7 +4757,7 @@ Metadata errors: 24831
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-KTC</span>
 <span class="widespan">ja ktc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:07Z">2017-01-30T12:25:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:45:58Z">2017-01-30T12:45:58 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4593,7 +4908,7 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:18Z">2017-01-30T12:25:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:46:09Z">2017-01-30T12:46:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4744,7 +5059,7 @@ Syntax errors: 308
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:18Z">2017-01-30T12:25:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:46:10Z">2017-01-30T12:46:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4828,7 +5143,7 @@ Syntax errors: 6576
 <span class="doublewidespan" style="padding-left:3em">UD Kurmanji</span>
 <span class="widespan">kmr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:23Z">2017-01-30T12:25:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:46:16Z">2017-01-30T12:46:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4839,7 +5154,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Latin</span>
 <span class="widespan">la</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:23Z">2017-01-30T12:25:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:46:16Z">2017-01-30T12:46:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4989,21 +5304,63 @@ Syntax errors: 4790
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:27Z">2017-01-30T12:25:27 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:46:20Z">2017-01-30T12:46:20 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
 
-*** PASSED ***
+[Line                   9]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1/la
+[Line                   24]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s2/la
+[Line                   31]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s3/la
+[Line                   60]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s4/la
+[Line                   81]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s5/la
+[Line                   101]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s6/la
+[Line                   118]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s7/la
+[Line                   128]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s8/la
+[Line                   150]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s9/la
+[Line                   183]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s10/la
+[Line                   196]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s11/la
+[Line                   210]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s12/la
+[Line                   226]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s13/la
+[Line                   244]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s14/la
+[Line                   289]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s15/la
+[Line                   313]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s16/la
+[Line                   327]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s17/la
+[Line                   346]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s18/la
+[Line                   363]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s19/la
+...suppressing further errors regarding Metadata
+*** FAILED *** with 700 errors
+Metadata errors: 700
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
 
-*** PASSED ***
+[Line                   16]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1451/la
+[Line                   30]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1452/la
+[Line                   69]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1453/la
+[Line                   104]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1454/la
+[Line                   121]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1455/la
+[Line                   141]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1456/la
+[Line                   184]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1457/la
+[Line                   200]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1458/la
+[Line                   225]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1459/la
+[Line                   245]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1460/la
+[Line                   256]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1461/la
+[Line                   267]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1462/la
+[Line                   320]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1463/la
+[Line                   352]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1464/la
+[Line                   368]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1465/la
+[Line                   391]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1466/la
+[Line                   414]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1467/la
+[Line                   432]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1468/la
+[Line                   455]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1469/la
+...suppressing further errors regarding Metadata
+*** FAILED *** with 15808 errors
+Metadata errors: 15808
 
 
 ******************
@@ -5015,7 +5372,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:25:54Z">2017-01-30T12:25:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:46:47Z">2017-01-30T12:46:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5166,7 +5523,7 @@ Syntax errors: 17359
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:08Z">2017-01-30T12:26:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:47:02Z">2017-01-30T12:47:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5317,7 +5674,7 @@ Syntax errors: 1019
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:10Z">2017-01-30T12:26:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:47:04Z">2017-01-30T12:47:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5328,7 +5685,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:10Z">2017-01-30T12:26:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:47:04Z">2017-01-30T12:47:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5395,7 +5752,7 @@ Metadata errors: 47088
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:31Z">2017-01-30T12:26:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:47:26Z">2017-01-30T12:47:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5546,7 +5903,7 @@ Syntax errors: 20390
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:51Z">2017-01-30T12:26:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:47:48Z">2017-01-30T12:47:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5697,7 +6054,7 @@ Syntax errors: 4690
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:26:56Z">2017-01-30T12:26:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:47:53Z">2017-01-30T12:47:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5847,21 +6204,63 @@ Syntax errors: 7510
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:27:06Z">2017-01-30T12:27:06 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:48:04Z">2017-01-30T12:48:04 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-dev.conllu
 
-*** PASSED ***
+[Line                   7]: The forward slash is reserved for special use in parallel treebanks: dev-s1/pl
+[Line                   14]: The forward slash is reserved for special use in parallel treebanks: dev-s2/pl
+[Line                   23]: The forward slash is reserved for special use in parallel treebanks: dev-s3/pl
+[Line                   35]: The forward slash is reserved for special use in parallel treebanks: dev-s4/pl
+[Line                   48]: The forward slash is reserved for special use in parallel treebanks: dev-s5/pl
+[Line                   62]: The forward slash is reserved for special use in parallel treebanks: dev-s6/pl
+[Line                   71]: The forward slash is reserved for special use in parallel treebanks: dev-s7/pl
+[Line                   84]: The forward slash is reserved for special use in parallel treebanks: dev-s8/pl
+[Line                   94]: The forward slash is reserved for special use in parallel treebanks: dev-s9/pl
+[Line                   105]: The forward slash is reserved for special use in parallel treebanks: dev-s10/pl
+[Line                   114]: The forward slash is reserved for special use in parallel treebanks: dev-s11/pl
+[Line                   123]: The forward slash is reserved for special use in parallel treebanks: dev-s12/pl
+[Line                   132]: The forward slash is reserved for special use in parallel treebanks: dev-s13/pl
+[Line                   165]: The forward slash is reserved for special use in parallel treebanks: dev-s14/pl
+[Line                   177]: The forward slash is reserved for special use in parallel treebanks: dev-s15/pl
+[Line                   194]: The forward slash is reserved for special use in parallel treebanks: dev-s16/pl
+[Line                   218]: The forward slash is reserved for special use in parallel treebanks: dev-s17/pl
+[Line                   237]: The forward slash is reserved for special use in parallel treebanks: dev-s18/pl
+[Line                   248]: The forward slash is reserved for special use in parallel treebanks: dev-s19/pl
+...suppressing further errors regarding Metadata
+*** FAILED *** with 1027 errors
+Metadata errors: 1027
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-train.conllu
 
-*** PASSED ***
+[Line                   18]: The forward slash is reserved for special use in parallel treebanks: train-s1/pl
+[Line                   31]: The forward slash is reserved for special use in parallel treebanks: train-s2/pl
+[Line                   48]: The forward slash is reserved for special use in parallel treebanks: train-s3/pl
+[Line                   59]: The forward slash is reserved for special use in parallel treebanks: train-s4/pl
+[Line                   74]: The forward slash is reserved for special use in parallel treebanks: train-s5/pl
+[Line                   91]: The forward slash is reserved for special use in parallel treebanks: train-s6/pl
+[Line                   110]: The forward slash is reserved for special use in parallel treebanks: train-s7/pl
+[Line                   143]: The forward slash is reserved for special use in parallel treebanks: train-s8/pl
+[Line                   165]: The forward slash is reserved for special use in parallel treebanks: train-s9/pl
+[Line                   174]: The forward slash is reserved for special use in parallel treebanks: train-s10/pl
+[Line                   186]: The forward slash is reserved for special use in parallel treebanks: train-s11/pl
+[Line                   197]: The forward slash is reserved for special use in parallel treebanks: train-s12/pl
+[Line                   220]: The forward slash is reserved for special use in parallel treebanks: train-s13/pl
+[Line                   229]: The forward slash is reserved for special use in parallel treebanks: train-s14/pl
+[Line                   237]: The forward slash is reserved for special use in parallel treebanks: train-s15/pl
+[Line                   249]: The forward slash is reserved for special use in parallel treebanks: train-s16/pl
+[Line                   264]: The forward slash is reserved for special use in parallel treebanks: train-s17/pl
+[Line                   288]: The forward slash is reserved for special use in parallel treebanks: train-s18/pl
+[Line                   299]: The forward slash is reserved for special use in parallel treebanks: train-s19/pl
+...suppressing further errors regarding Metadata
+*** FAILED *** with 6100 errors
+Metadata errors: 6100
 
 
 ******************
@@ -5873,7 +6272,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:27:14Z">2017-01-30T12:27:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:48:12Z">2017-01-30T12:48:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5954,7 +6353,7 @@ Metadata errors: 38388
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-BR</span>
 <span class="widespan">pt br</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:27:51Z">2017-01-30T12:27:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:48:53Z">2017-01-30T12:48:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6021,7 +6420,7 @@ Metadata errors: 28992
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:28:06Z">2017-01-30T12:28:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:49:09Z">2017-01-30T12:49:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6088,7 +6487,7 @@ Metadata errors: 38364
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:28:24Z">2017-01-30T12:28:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:49:28Z">2017-01-30T12:49:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6239,7 +6638,7 @@ Syntax errors: 20853
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:29:03Z">2017-01-30T12:29:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:50:07Z">2017-01-30T12:50:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6390,7 +6789,7 @@ Syntax errors: 4620
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:29:12Z">2017-01-30T12:29:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:50:16Z">2017-01-30T12:50:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6541,7 +6940,7 @@ Syntax errors: 51913
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:32Z">2017-01-30T12:30:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:51:37Z">2017-01-30T12:51:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6608,7 +7007,7 @@ Metadata errors: 300
 <span class="doublewidespan" style="padding-left:3em">UD Serbian</span>
 <span class="widespan">sr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:32Z">2017-01-30T12:30:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:51:37Z">2017-01-30T12:51:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6618,21 +7017,63 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:32Z">2017-01-30T12:30:32 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:51:37Z">2017-01-30T12:51:37 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
-*** PASSED ***
+[Line                   22]: The forward slash is reserved for special use in parallel treebanks: dev-s1/sk
+[Line                   34]: The forward slash is reserved for special use in parallel treebanks: dev-s2/sk
+[Line                   41]: The forward slash is reserved for special use in parallel treebanks: dev-s3/sk
+[Line                   62]: The forward slash is reserved for special use in parallel treebanks: dev-s4/sk
+[Line                   69]: The forward slash is reserved for special use in parallel treebanks: dev-s5/sk
+[Line                   87]: The forward slash is reserved for special use in parallel treebanks: dev-s6/sk
+[Line                   93]: The forward slash is reserved for special use in parallel treebanks: dev-s7/sk
+[Line                   105]: The forward slash is reserved for special use in parallel treebanks: dev-s8/sk
+[Line                   125]: The forward slash is reserved for special use in parallel treebanks: dev-s9/sk
+[Line                   134]: The forward slash is reserved for special use in parallel treebanks: dev-s10/sk
+[Line                   141]: The forward slash is reserved for special use in parallel treebanks: dev-s11/sk
+[Line                   155]: The forward slash is reserved for special use in parallel treebanks: dev-s12/sk
+[Line                   166]: The forward slash is reserved for special use in parallel treebanks: dev-s13/sk
+[Line                   179]: The forward slash is reserved for special use in parallel treebanks: dev-s14/sk
+[Line                   187]: The forward slash is reserved for special use in parallel treebanks: dev-s15/sk
+[Line                   193]: The forward slash is reserved for special use in parallel treebanks: dev-s16/sk
+[Line                   206]: The forward slash is reserved for special use in parallel treebanks: dev-s17/sk
+[Line                   213]: The forward slash is reserved for special use in parallel treebanks: dev-s18/sk
+[Line                   232]: The forward slash is reserved for special use in parallel treebanks: dev-s19/sk
+...suppressing further errors regarding Metadata
+*** FAILED *** with 1060 errors
+Metadata errors: 1060
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
-*** PASSED ***
+[Line                   10]: The forward slash is reserved for special use in parallel treebanks: train-s1/sk
+[Line                   19]: The forward slash is reserved for special use in parallel treebanks: train-s2/sk
+[Line                   29]: The forward slash is reserved for special use in parallel treebanks: train-s3/sk
+[Line                   39]: The forward slash is reserved for special use in parallel treebanks: train-s4/sk
+[Line                   47]: The forward slash is reserved for special use in parallel treebanks: train-s5/sk
+[Line                   57]: The forward slash is reserved for special use in parallel treebanks: train-s6/sk
+[Line                   65]: The forward slash is reserved for special use in parallel treebanks: train-s7/sk
+[Line                   78]: The forward slash is reserved for special use in parallel treebanks: train-s8/sk
+[Line                   88]: The forward slash is reserved for special use in parallel treebanks: train-s9/sk
+[Line                   98]: The forward slash is reserved for special use in parallel treebanks: train-s10/sk
+[Line                   109]: The forward slash is reserved for special use in parallel treebanks: train-s11/sk
+[Line                   121]: The forward slash is reserved for special use in parallel treebanks: train-s12/sk
+[Line                   128]: The forward slash is reserved for special use in parallel treebanks: train-s13/sk
+[Line                   134]: The forward slash is reserved for special use in parallel treebanks: train-s14/sk
+[Line                   141]: The forward slash is reserved for special use in parallel treebanks: train-s15/sk
+[Line                   157]: The forward slash is reserved for special use in parallel treebanks: train-s16/sk
+[Line                   171]: The forward slash is reserved for special use in parallel treebanks: train-s17/sk
+[Line                   181]: The forward slash is reserved for special use in parallel treebanks: train-s18/sk
+[Line                   190]: The forward slash is reserved for special use in parallel treebanks: train-s19/sk
+...suppressing further errors regarding Metadata
+*** FAILED *** with 8483 errors
+Metadata errors: 8483
 
 
 ******************
@@ -6644,7 +7085,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:42Z">2017-01-30T12:30:42 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:51:46Z">2017-01-30T12:51:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6711,18 +7152,18 @@ Metadata errors: 4828
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:35:15Z">2017-01-30T12:35:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:51:59Z">2017-01-30T12:51:59 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
 [Line                   2080]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   2080]: Missing the sent_id attribute.
@@ -6739,7 +7180,7 @@ Metadata errors: 2
 <span class="doublewidespan" style="padding-left:3em">UD Somali</span>
 <span class="widespan">so</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:55Z">2017-01-30T12:30:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:52:01Z">2017-01-30T12:52:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6750,7 +7191,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Sorani</span>
 <span class="widespan">ckb</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:55Z">2017-01-30T12:30:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:52:01Z">2017-01-30T12:52:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6760,21 +7201,63 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:55Z">2017-01-30T12:30:55 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:52:01Z">2017-01-30T12:52:01 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-dev.conllu
 
-*** PASSED ***
+[Line                   26]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s1/es
+[Line                   65]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s2/es
+[Line                   85]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s3/es
+[Line                   127]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s4/es
+[Line                   158]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s5/es
+[Line                   180]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s6/es
+[Line                   212]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s8/es
+[Line                   244]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s10/es
+[Line                   268]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s11/es
+[Line                   307]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s12/es
+[Line                   330]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s13/es
+[Line                   364]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s14/es
+[Line                   389]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s15/es
+[Line                   404]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s16/es
+[Line                   428]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s17/es
+[Line                   440]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s18/es
+[Line                   462]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s19/es
+[Line                   482]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s20/es
+[Line                   499]: The forward slash is reserved for special use in parallel treebanks: es-dev-001-s21/es
+...suppressing further errors regarding Metadata
+*** FAILED *** with 1552 errors
+Metadata errors: 1552
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-train.conllu
 
-*** PASSED ***
+[Line                   32]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s1/es
+[Line                   97]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s2/es
+[Line                   190]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s3/es
+[Line                   213]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s4/es
+[Line                   229]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s5/es
+[Line                   244]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s6/es
+[Line                   280]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s7/es
+[Line                   306]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s8/es
+[Line                   328]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s9/es
+[Line                   348]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s10/es
+[Line                   421]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s11/es
+[Line                   454]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s12/es
+[Line                   486]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s13/es
+[Line                   508]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s14/es
+[Line                   521]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s15/es
+[Line                   537]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s16/es
+[Line                   568]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s17/es
+[Line                   583]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s18/es
+[Line                   636]: The forward slash is reserved for special use in parallel treebanks: es-train-001-s19/es
+...suppressing further errors regarding Metadata
+*** FAILED *** with 14187 errors
+Metadata errors: 14187
 
 
 ******************
@@ -6785,21 +7268,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:31:30Z">2017-01-30T12:31:30 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:52:34Z">2017-01-30T12:52:34 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
 
-*** PASSED ***
+[Line                   67]: The forward slash is reserved for special use in parallel treebanks: dev-s1/es
+[Line                   121]: The forward slash is reserved for special use in parallel treebanks: dev-s2/es
+[Line                   132]: The forward slash is reserved for special use in parallel treebanks: dev-s3/es
+[Line                   165]: The forward slash is reserved for special use in parallel treebanks: dev-s4/es
+[Line                   228]: The forward slash is reserved for special use in parallel treebanks: dev-s5/es
+[Line                   295]: The forward slash is reserved for special use in parallel treebanks: dev-s6/es
+[Line                   335]: The forward slash is reserved for special use in parallel treebanks: dev-s7/es
+[Line                   392]: The forward slash is reserved for special use in parallel treebanks: dev-s8/es
+[Line                   456]: The forward slash is reserved for special use in parallel treebanks: dev-s9/es
+[Line                   510]: The forward slash is reserved for special use in parallel treebanks: dev-s10/es
+[Line                   573]: The forward slash is reserved for special use in parallel treebanks: dev-s11/es
+[Line                   627]: The forward slash is reserved for special use in parallel treebanks: dev-s12/es
+[Line                   683]: The forward slash is reserved for special use in parallel treebanks: dev-s13/es
+[Line                   720]: The forward slash is reserved for special use in parallel treebanks: dev-s14/es
+[Line                   780]: The forward slash is reserved for special use in parallel treebanks: dev-s15/es
+[Line                   823]: The forward slash is reserved for special use in parallel treebanks: dev-s16/es
+[Line                   861]: The forward slash is reserved for special use in parallel treebanks: dev-s17/es
+[Line                   909]: The forward slash is reserved for special use in parallel treebanks: dev-s18/es
+[Line                   965]: The forward slash is reserved for special use in parallel treebanks: dev-s19/es
+...suppressing further errors regarding Metadata
+*** FAILED *** with 1654 errors
+Metadata errors: 1654
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
 
-*** PASSED ***
+[Line                   47]: The forward slash is reserved for special use in parallel treebanks: train-s1/es
+[Line                   102]: The forward slash is reserved for special use in parallel treebanks: train-s2/es
+[Line                   124]: The forward slash is reserved for special use in parallel treebanks: train-s3/es
+[Line                   187]: The forward slash is reserved for special use in parallel treebanks: train-s4/es
+[Line                   248]: The forward slash is reserved for special use in parallel treebanks: train-s5/es
+[Line                   307]: The forward slash is reserved for special use in parallel treebanks: train-s6/es
+[Line                   349]: The forward slash is reserved for special use in parallel treebanks: train-s7/es
+[Line                   400]: The forward slash is reserved for special use in parallel treebanks: train-s8/es
+[Line                   443]: The forward slash is reserved for special use in parallel treebanks: train-s9/es
+[Line                   492]: The forward slash is reserved for special use in parallel treebanks: train-s10/es
+[Line                   525]: The forward slash is reserved for special use in parallel treebanks: train-s11/es
+[Line                   583]: The forward slash is reserved for special use in parallel treebanks: train-s12/es
+[Line                   627]: The forward slash is reserved for special use in parallel treebanks: train-s13/es
+[Line                   676]: The forward slash is reserved for special use in parallel treebanks: train-s14/es
+[Line                   722]: The forward slash is reserved for special use in parallel treebanks: train-s15/es
+[Line                   771]: The forward slash is reserved for special use in parallel treebanks: train-s16/es
+[Line                   829]: The forward slash is reserved for special use in parallel treebanks: train-s17/es
+[Line                   881]: The forward slash is reserved for special use in parallel treebanks: train-s18/es
+[Line                   930]: The forward slash is reserved for special use in parallel treebanks: train-s19/es
+...suppressing further errors regarding Metadata
+*** FAILED *** with 14305 errors
+Metadata errors: 14305
 
 
 ******************
@@ -6811,7 +7336,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:11Z">2017-01-30T12:32:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:53:19Z">2017-01-30T12:53:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6836,7 +7361,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:18Z">2017-01-30T12:32:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:53:26Z">2017-01-30T12:53:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6940,7 +7465,7 @@ Syntax errors: 328
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:22Z">2017-01-30T12:32:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:53:30Z">2017-01-30T12:53:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7019,21 +7544,63 @@ Syntax errors: 11
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Tamil</span>
 <span class="widespan">ta</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:23Z">2017-01-30T12:32:23 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:53:30Z">2017-01-30T12:53:30 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-dev.conllu
 
-*** PASSED ***
+[Line                   18]: The forward slash is reserved for special use in parallel treebanks: dev-s1/ta
+[Line                   37]: The forward slash is reserved for special use in parallel treebanks: dev-s2/ta
+[Line                   62]: The forward slash is reserved for special use in parallel treebanks: dev-s3/ta
+[Line                   95]: The forward slash is reserved for special use in parallel treebanks: dev-s4/ta
+[Line                   120]: The forward slash is reserved for special use in parallel treebanks: dev-s5/ta
+[Line                   142]: The forward slash is reserved for special use in parallel treebanks: dev-s6/ta
+[Line                   153]: The forward slash is reserved for special use in parallel treebanks: dev-s7/ta
+[Line                   170]: The forward slash is reserved for special use in parallel treebanks: dev-s8/ta
+[Line                   186]: The forward slash is reserved for special use in parallel treebanks: dev-s9/ta
+[Line                   212]: The forward slash is reserved for special use in parallel treebanks: dev-s10/ta
+[Line                   235]: The forward slash is reserved for special use in parallel treebanks: dev-s11/ta
+[Line                   267]: The forward slash is reserved for special use in parallel treebanks: dev-s12/ta
+[Line                   284]: The forward slash is reserved for special use in parallel treebanks: dev-s13/ta
+[Line                   310]: The forward slash is reserved for special use in parallel treebanks: dev-s14/ta
+[Line                   319]: The forward slash is reserved for special use in parallel treebanks: dev-s15/ta
+[Line                   357]: The forward slash is reserved for special use in parallel treebanks: dev-s16/ta
+[Line                   375]: The forward slash is reserved for special use in parallel treebanks: dev-s17/ta
+[Line                   406]: The forward slash is reserved for special use in parallel treebanks: dev-s18/ta
+[Line                   426]: The forward slash is reserved for special use in parallel treebanks: dev-s19/ta
+...suppressing further errors regarding Metadata
+*** FAILED *** with 80 errors
+Metadata errors: 80
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 
-*** PASSED ***
+[Line                   32]: The forward slash is reserved for special use in parallel treebanks: train-s1/ta
+[Line                   46]: The forward slash is reserved for special use in parallel treebanks: train-s2/ta
+[Line                   82]: The forward slash is reserved for special use in parallel treebanks: train-s3/ta
+[Line                   107]: The forward slash is reserved for special use in parallel treebanks: train-s4/ta
+[Line                   129]: The forward slash is reserved for special use in parallel treebanks: train-s5/ta
+[Line                   166]: The forward slash is reserved for special use in parallel treebanks: train-s6/ta
+[Line                   199]: The forward slash is reserved for special use in parallel treebanks: train-s7/ta
+[Line                   212]: The forward slash is reserved for special use in parallel treebanks: train-s8/ta
+[Line                   232]: The forward slash is reserved for special use in parallel treebanks: train-s9/ta
+[Line                   251]: The forward slash is reserved for special use in parallel treebanks: train-s10/ta
+[Line                   289]: The forward slash is reserved for special use in parallel treebanks: train-s11/ta
+[Line                   316]: The forward slash is reserved for special use in parallel treebanks: train-s12/ta
+[Line                   342]: The forward slash is reserved for special use in parallel treebanks: train-s13/ta
+[Line                   359]: The forward slash is reserved for special use in parallel treebanks: train-s14/ta
+[Line                   412]: The forward slash is reserved for special use in parallel treebanks: train-s15/ta
+[Line                   438]: The forward slash is reserved for special use in parallel treebanks: train-s16/ta
+[Line                   454]: The forward slash is reserved for special use in parallel treebanks: train-s17/ta
+[Line                   476]: The forward slash is reserved for special use in parallel treebanks: train-s18/ta
+[Line                   506]: The forward slash is reserved for special use in parallel treebanks: train-s19/ta
+...suppressing further errors regarding Metadata
+*** FAILED *** with 400 errors
+Metadata errors: 400
 
 
 ******************
@@ -7045,7 +7612,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:24Z">2017-01-30T12:32:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:53:31Z">2017-01-30T12:53:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7196,7 +7763,7 @@ Syntax errors: 3393
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:28Z">2017-01-30T12:32:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:53:36Z">2017-01-30T12:53:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7319,7 +7886,7 @@ Syntax errors: 139
 <span class="doublewidespan" style="padding-left:3em">UD Urdu</span>
 <span class="widespan">ur</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:28Z">2017-01-30T12:32:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:53:36Z">2017-01-30T12:53:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7330,7 +7897,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:28Z">2017-01-30T12:32:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:53:36Z">2017-01-30T12:53:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7481,7 +8048,7 @@ Syntax errors: 604
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:32:29Z">2017-01-30T12:32:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:53:37Z">2017-01-30T12:53:37 zulu</time></span>
 </div>
 <div>
 <pre>
