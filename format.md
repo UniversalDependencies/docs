@@ -219,11 +219,11 @@ Note that columns 5 to 9 are collapsed in the following example.
 There must be exactly one blank line _after_ every sentence, including the last sentence in the file.
 Empty sentences are not allowed.
 
-Lines starting with the `#` character and preceding a sentence are considered as carrying metadata relevant to the following sentence. These lines are an integral part of the format as they give the ability to embed metadata together with the sentences. Consequently, any tools compatible with the CoNLL-U format should carry these lines over into their output (unless specifically designed to process them in some way). Comment and metadata lines inside sentences (i.e., between the token lines) are disallowed.
+Lines starting with the `#` character and preceding a sentence are considered as carrying comments or metadata relevant to the following sentence. These lines are an integral part of the format as they give the ability to embed metadata together with the sentences. Consequently, any tools compatible with the CoNLL-U format should carry these lines over into their output (unless specifically designed to process them in some way). Comment and metadata lines inside sentences (i.e., between the token lines) are disallowed.
 
 The contents of the comments and metadata is basically unrestricted and will vary depending on the application, but from v2 the following two comments are compulsory for every sentence (and there must be just one comment of each kind per sentence):
 
-* A treebank-wide unique sentence id (`sent_id`), formatted as in the examples below. In sentence ids, the slash character ("/") is reserved for specialized downstream use and should be avoided in UD treebanks.
+* A treebank-wide unique sentence id (`sent_id`), formatted as in the examples below. In sentence ids, the slash character ("/") is reserved for specialized downstream use and should be avoided in UD treebanks. (The specialized use deals with multiple annotations of one sentence within one file, or with parallel data within one file. See [Issue 321](https://github.com/UniversalDependencies/docs/issues/321) for more details. UD releases include some parallel treebanks but these are distributed separately by languages, hence sentence ids with slashes are not used.)
 * Comments used to specify the unannotated sentence as a single string (`text`) should also be formatted as below. If the original text is not available, the providers of the UD treebanks must approximate the `text` attribute using detokenization heuristics.
 
 Example:
