@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-30T16:05:42Z">2017-01-30T16:05:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-30T16:28:52Z">2017-01-30T16:28:52 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6272,25 +6272,11 @@ Metadata errors: 6100
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:50:59Z">2017-01-30T15:50:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T16:28:32Z">2017-01-30T16:28:32 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt_bosque-ud-dev.conllu
 
 [Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'dum' but text is 'de um agente secreto à ...'
 [Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'agente' but text is 'de um agente secreto à des...'
@@ -6318,7 +6304,7 @@ Metadata errors: 505
 
 ******************
 
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt_bosque-ud-train.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
 [Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is '» da noite, a meio cam...'
 [Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'a' but text is '» da noite, a meio ca...'
