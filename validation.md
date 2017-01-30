@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-30T11:30:28Z">2017-01-30T11:30:28 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-30T11:37:58Z">2017-01-30T11:37:58 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6338,18 +6338,18 @@ Metadata errors: 9664
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T10:12:55Z">2017-01-30T10:12:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T11:37:39Z">2017-01-30T11:37:39 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
+python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_bosque /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
+python tools/validate.py --lang pt_bosque UD-dev-branches/UD_Portuguese-Bosque/pt_bosque-ud-train.conllu
 
 *** PASSED ***
 
