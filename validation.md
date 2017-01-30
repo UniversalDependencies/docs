@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-30T12:32:31Z">2017-01-30T12:32:31 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-30T12:35:17Z">2017-01-30T12:35:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6711,62 +6711,23 @@ Metadata errors: 4828
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:30:53Z">2017-01-30T12:30:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T12:35:15Z">2017-01-30T12:35:15 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
-[Line                   7]: The text attribute must not end with a whitespace
-[Line                   13]: The text attribute must not end with a whitespace
-[Line                   18]: The text attribute must not end with a whitespace
-[Line                   24]: The text attribute must not end with a whitespace
-[Line                   56]: The text attribute must not end with a whitespace
-[Line                   68]: The text attribute must not end with a whitespace
-[Line                   72]: The text attribute must not end with a whitespace
-[Line                   88]: The text attribute must not end with a whitespace
-[Line                   98]: The text attribute must not end with a whitespace
-[Line                   107]: The text attribute must not end with a whitespace
-[Line                   116]: The text attribute must not end with a whitespace
-[Line                   129]: The text attribute must not end with a whitespace
-[Line                   160]: The text attribute must not end with a whitespace
-[Line                   165]: The text attribute must not end with a whitespace
-[Line                   169]: The text attribute must not end with a whitespace
-[Line                   177]: The text attribute must not end with a whitespace
-[Line                   202]: The text attribute must not end with a whitespace
-[Line                   206]: The text attribute must not end with a whitespace
-[Line                   223]: The text attribute must not end with a whitespace
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1083 errors
-Metadata errors: 1083
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
-[Line                   4]: The text attribute must not end with a whitespace
-[Line                   8]: The text attribute must not end with a whitespace
-[Line                   31]: The text attribute must not end with a whitespace
-[Line                   66]: The text attribute must not end with a whitespace
-[Line                   72]: The text attribute must not end with a whitespace
-[Line                   85]: The text attribute must not end with a whitespace
-[Line                   89]: The text attribute must not end with a whitespace
-[Line                   97]: The text attribute must not end with a whitespace
-[Line                   108]: The text attribute must not end with a whitespace
-[Line                   122]: The text attribute must not end with a whitespace
-[Line                   136]: The text attribute must not end with a whitespace
-[Line                   140]: The text attribute must not end with a whitespace
-[Line                   144]: The text attribute must not end with a whitespace
-[Line                   152]: The text attribute must not end with a whitespace
-[Line                   159]: The text attribute must not end with a whitespace
-[Line                   163]: The text attribute must not end with a whitespace
-[Line                   173]: The text attribute must not end with a whitespace
-[Line                   202]: The text attribute must not end with a whitespace
-[Line                   225]: The text attribute must not end with a whitespace
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1056 errors
-Metadata errors: 1056
+[Line                   2080]: Spurious sent_id line: '%s' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   2080]: Missing the sent_id attribute.
+*** FAILED *** with 2 errors
+Metadata errors: 2
 
 
 ******************
