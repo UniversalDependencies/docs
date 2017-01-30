@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-30T13:36:00Z">2017-01-30T13:36:00 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-30T15:06:28Z">2017-01-30T15:06:28 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -13,7 +13,7 @@ Regenerated: <time class="timeago" datetime="2017-01-30T13:36:00Z">2017-01-30T13
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:18:03Z">2017-01-30T13:18:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:48:51Z">2017-01-30T14:48:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -24,7 +24,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:18:03Z">2017-01-30T13:18:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:48:51Z">2017-01-30T14:48:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -175,7 +175,7 @@ Syntax errors: 21730
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:18:21Z">2017-01-30T13:18:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:49:11Z">2017-01-30T14:49:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -326,7 +326,7 @@ Syntax errors: 16651
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:18:39Z">2017-01-30T13:18:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:49:30Z">2017-01-30T14:49:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -393,7 +393,7 @@ Metadata errors: 6174
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-LDC</span>
 <span class="widespan">ar ldc</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:19:05Z">2017-01-30T13:19:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:49:57Z">2017-01-30T14:49:57 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -404,7 +404,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Basque</span>
 <span class="widespan">eu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:19:05Z">2017-01-30T13:19:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:49:57Z">2017-01-30T14:49:57 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -555,7 +555,7 @@ Syntax errors: 6742
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:19:12Z">2017-01-30T13:19:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:50:05Z">2017-01-30T14:50:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -706,7 +706,7 @@ Syntax errors: 10189
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:19:24Z">2017-01-30T13:19:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:50:18Z">2017-01-30T14:50:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -717,7 +717,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Cantonese</span>
 <span class="widespan">yue</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:19:24Z">2017-01-30T13:19:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:50:18Z">2017-01-30T14:50:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -728,7 +728,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:19:24Z">2017-01-30T13:19:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:50:18Z">2017-01-30T14:50:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -795,7 +795,7 @@ Metadata errors: 13123
 <span class="doublewidespan" style="padding-left:3em">UD Chinese</span>
 <span class="widespan">zh</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:20:02Z">2017-01-30T13:20:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:50:56Z">2017-01-30T14:50:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -946,7 +946,7 @@ Syntax errors: 7372
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:20:09Z">2017-01-30T13:20:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:51:01Z">2017-01-30T14:51:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -957,7 +957,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:20:09Z">2017-01-30T13:20:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:51:01Z">2017-01-30T14:51:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1102,7 +1102,7 @@ Syntax errors: 265
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:20:10Z">2017-01-30T13:20:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:51:02Z">2017-01-30T14:51:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1253,7 +1253,7 @@ Syntax errors: 9791
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:20:22Z">2017-01-30T13:20:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:51:13Z">2017-01-30T14:51:13 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1404,7 +1404,7 @@ Metadata errors: 6818
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:22:32Z">2017-01-30T13:22:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:53:28Z">2017-01-30T14:53:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1471,7 +1471,7 @@ Metadata errors: 23478
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:23:21Z">2017-01-30T13:23:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:54:19Z">2017-01-30T14:54:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1538,7 +1538,7 @@ Metadata errors: 9881
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:23:24Z">2017-01-30T13:23:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:54:22Z">2017-01-30T14:54:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1689,7 +1689,7 @@ Syntax errors: 8478
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:23:32Z">2017-01-30T13:23:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:54:31Z">2017-01-30T14:54:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1756,7 +1756,7 @@ Metadata errors: 12330
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:23:50Z">2017-01-30T13:23:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:54:48Z">2017-01-30T14:54:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1909,7 +1909,7 @@ Syntax errors: 11067
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:23:57Z">2017-01-30T13:23:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:54:55Z">2017-01-30T14:54:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2060,7 +2060,7 @@ Syntax errors: 16527
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:24:14Z">2017-01-30T13:24:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:55:11Z">2017-01-30T14:55:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2211,7 +2211,7 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:24:19Z">2017-01-30T13:24:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:55:17Z">2017-01-30T14:55:17 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2362,7 +2362,7 @@ Syntax errors: 5480
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:24:23Z">2017-01-30T13:24:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:55:21Z">2017-01-30T14:55:21 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2513,7 +2513,7 @@ Syntax errors: 12909
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:24:41Z">2017-01-30T13:24:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:55:40Z">2017-01-30T14:55:40 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2716,7 +2716,7 @@ The language-specific file %s does not exist.
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:24:53Z">2017-01-30T13:24:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:55:51Z">2017-01-30T14:55:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2867,7 +2867,7 @@ Syntax errors: 16265
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:25:09Z">2017-01-30T13:25:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:56:05Z">2017-01-30T14:56:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2976,7 +2976,7 @@ Morpho errors: 1447
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:25:22Z">2017-01-30T13:25:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:56:18Z">2017-01-30T14:56:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3127,7 +3127,7 @@ Syntax errors: 30355
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:25:54Z">2017-01-30T13:25:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:56:49Z">2017-01-30T14:56:49 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3278,7 +3278,7 @@ Syntax errors: 4346
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:26:00Z">2017-01-30T13:26:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:56:56Z">2017-01-30T14:56:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3429,7 +3429,7 @@ Syntax errors: 1150
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:26:02Z">2017-01-30T13:26:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:56:58Z">2017-01-30T14:56:58 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3496,7 +3496,7 @@ Metadata errors: 14118
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:26:24Z">2017-01-30T13:26:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:57:22Z">2017-01-30T14:57:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3647,7 +3647,7 @@ Syntax errors: 4648
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:26:29Z">2017-01-30T13:26:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:57:28Z">2017-01-30T14:57:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3798,7 +3798,7 @@ Syntax errors: 2599
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:26:34Z">2017-01-30T13:26:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:57:33Z">2017-01-30T14:57:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3949,7 +3949,7 @@ Syntax errors: 7237
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:26:47Z">2017-01-30T13:26:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:57:46Z">2017-01-30T14:57:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4100,7 +4100,7 @@ Syntax errors: 24718
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:27:17Z">2017-01-30T13:27:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:58:15Z">2017-01-30T14:58:15 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4251,7 +4251,7 @@ Syntax errors: 2668
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian</span>
 <span class="widespan">id</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:27:21Z">2017-01-30T13:27:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:58:19Z">2017-01-30T14:58:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4402,7 +4402,7 @@ Syntax errors: 17051
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:27:27Z">2017-01-30T13:27:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:58:24Z">2017-01-30T14:58:24 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4553,7 +4553,7 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:27:29Z">2017-01-30T13:27:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:58:26Z">2017-01-30T14:58:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4690,7 +4690,7 @@ Syntax errors: 6701
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:27:47Z">2017-01-30T13:27:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:58:45Z">2017-01-30T14:58:45 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4757,7 +4757,7 @@ Metadata errors: 24831
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-KTC</span>
 <span class="widespan">ja ktc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:27:59Z">2017-01-30T13:27:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:58:56Z">2017-01-30T14:58:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4908,7 +4908,7 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:28:10Z">2017-01-30T13:28:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:59:07Z">2017-01-30T14:59:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5059,7 +5059,7 @@ Syntax errors: 308
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:28:11Z">2017-01-30T13:28:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:59:07Z">2017-01-30T14:59:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5143,7 +5143,7 @@ Syntax errors: 6576
 <span class="doublewidespan" style="padding-left:3em">UD Kurmanji</span>
 <span class="widespan">kmr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:28:15Z">2017-01-30T13:28:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:59:12Z">2017-01-30T14:59:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5154,7 +5154,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Latin</span>
 <span class="widespan">la</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:28:15Z">2017-01-30T13:28:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:59:12Z">2017-01-30T14:59:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5305,7 +5305,7 @@ Syntax errors: 4790
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:28:20Z">2017-01-30T13:28:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:59:16Z">2017-01-30T14:59:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5372,7 +5372,7 @@ Metadata errors: 15808
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:28:46Z">2017-01-30T13:28:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:59:43Z">2017-01-30T14:59:43 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5523,7 +5523,7 @@ Syntax errors: 17359
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:29:01Z">2017-01-30T13:29:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:59:58Z">2017-01-30T14:59:58 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5674,7 +5674,7 @@ Syntax errors: 1019
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:29:02Z">2017-01-30T13:29:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:00:00Z">2017-01-30T15:00:00 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5685,7 +5685,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:29:02Z">2017-01-30T13:29:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:00:00Z">2017-01-30T15:00:00 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5752,7 +5752,7 @@ Metadata errors: 47088
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:29:25Z">2017-01-30T13:29:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:00:22Z">2017-01-30T15:00:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5903,7 +5903,7 @@ Syntax errors: 20390
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:29:47Z">2017-01-30T13:29:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:00:43Z">2017-01-30T15:00:43 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6054,7 +6054,7 @@ Syntax errors: 4690
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:29:52Z">2017-01-30T13:29:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:00:48Z">2017-01-30T15:00:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6205,7 +6205,7 @@ Syntax errors: 7510
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:30:02Z">2017-01-30T13:30:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:00:59Z">2017-01-30T15:00:59 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6272,7 +6272,7 @@ Metadata errors: 6100
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:30:09Z">2017-01-30T13:30:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:01:07Z">2017-01-30T15:01:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6353,7 +6353,7 @@ Metadata errors: 38388
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-BR</span>
 <span class="widespan">pt br</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:30:48Z">2017-01-30T13:30:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:01:50Z">2017-01-30T15:01:50 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6420,7 +6420,7 @@ Metadata errors: 28992
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-Bosque</span>
 <span class="widespan">pt bosque</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:31:03Z">2017-01-30T13:31:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:02:05Z">2017-01-30T15:02:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6487,7 +6487,7 @@ Metadata errors: 38364
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:31:21Z">2017-01-30T13:31:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:02:23Z">2017-01-30T15:02:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6638,7 +6638,7 @@ Syntax errors: 20853
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:32:00Z">2017-01-30T13:32:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:03:01Z">2017-01-30T15:03:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6789,7 +6789,7 @@ Syntax errors: 4620
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:32:08Z">2017-01-30T13:32:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:03:08Z">2017-01-30T15:03:08 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -6940,7 +6940,7 @@ Syntax errors: 51913
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:33:35Z">2017-01-30T13:33:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:32Z">2017-01-30T15:04:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7007,7 +7007,7 @@ Metadata errors: 300
 <span class="doublewidespan" style="padding-left:3em">UD Serbian</span>
 <span class="widespan">sr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:33:35Z">2017-01-30T13:33:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:32Z">2017-01-30T15:04:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7018,7 +7018,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:33:35Z">2017-01-30T13:33:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:32Z">2017-01-30T15:04:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7085,7 +7085,7 @@ Metadata errors: 8483
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:33:45Z">2017-01-30T13:33:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:41Z">2017-01-30T15:04:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7152,18 +7152,18 @@ Metadata errors: 4828
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:35:58Z">2017-01-30T13:35:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:53Z">2017-01-30T15:04:53 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
 *** PASSED ***
 
@@ -7177,7 +7177,7 @@ python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-u
 <span class="doublewidespan" style="padding-left:3em">UD Somali</span>
 <span class="widespan">so</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:33:59Z">2017-01-30T13:33:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:55Z">2017-01-30T15:04:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7188,7 +7188,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Sorani</span>
 <span class="widespan">ckb</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:33:59Z">2017-01-30T13:33:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:55Z">2017-01-30T15:04:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7199,7 +7199,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:33:59Z">2017-01-30T13:33:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:55Z">2017-01-30T15:04:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7266,7 +7266,7 @@ Metadata errors: 14187
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:34:31Z">2017-01-30T13:34:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:05:26Z">2017-01-30T15:05:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7333,7 +7333,7 @@ Metadata errors: 14305
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:35:11Z">2017-01-30T13:35:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:06:08Z">2017-01-30T15:06:08 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7358,7 +7358,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:35:17Z">2017-01-30T13:35:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:06:15Z">2017-01-30T15:06:15 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7462,7 +7462,7 @@ Syntax errors: 328
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:35:21Z">2017-01-30T13:35:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:06:18Z">2017-01-30T15:06:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7542,7 +7542,7 @@ Syntax errors: 11
 <span class="doublewidespan" style="padding-left:3em">UD Tamil</span>
 <span class="widespan">ta</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:35:21Z">2017-01-30T13:35:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:06:18Z">2017-01-30T15:06:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7609,7 +7609,7 @@ Metadata errors: 400
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:35:22Z">2017-01-30T13:35:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:06:19Z">2017-01-30T15:06:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7760,7 +7760,7 @@ Syntax errors: 3393
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:35:27Z">2017-01-30T13:35:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:06:25Z">2017-01-30T15:06:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7883,7 +7883,7 @@ Syntax errors: 139
 <span class="doublewidespan" style="padding-left:3em">UD Urdu</span>
 <span class="widespan">ur</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:35:28Z">2017-01-30T13:35:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:06:25Z">2017-01-30T15:06:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7894,7 +7894,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:35:28Z">2017-01-30T13:35:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:06:25Z">2017-01-30T15:06:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -8045,7 +8045,7 @@ Syntax errors: 604
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T13:35:29Z">2017-01-30T13:35:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:06:26Z">2017-01-30T15:06:26 zulu</time></span>
 </div>
 <div>
 <pre>
