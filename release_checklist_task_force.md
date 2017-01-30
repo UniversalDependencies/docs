@@ -18,6 +18,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Run `tools/check_files.pl` (if there are new languages, you may need to add their codes in the source code first).
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
+* <strong>Specific for release 2.0 and the CoNLL shared task:</strong> There will be no test data, and possibly even no training data, if everything what is left needs to be labeled as dev data. However, the dev data should be released in three different forms: 1. the full annotation that we've been always releasing; 2. the form that the systems participating in the shared task will get on input, i.e. raw text without even sentence boundaries; 3. the intermediate form, which is a CoNLL-U file, but it does not contain syntactic annotation, and everything else (sentence segmentation, tokenization, morphology) is predicted by UDPipe. If there is only dev data and no training data, it will have to be processed in the 10-fold fashion.
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
   Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
   they can be reached at lindat-help@ufal.mff.cuni.cz).
