@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T10:29:28Z">2017-01-31T10:29:28 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T11:00:07Z">2017-01-31T11:00:07 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -325,63 +325,21 @@ Syntax errors: 16651
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:49:30Z">2017-01-30T14:49:30 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T10:59:47Z">2017-01-31T10:59:47 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
+python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
 
-[Line                   13]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p1u1/ar
-[Line                   72]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p2u1/ar
-[Line                   133]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p3u1/ar
-[Line                   169]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p4u1/ar
-[Line                   189]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p5u1/ar
-[Line                   236]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p6u1/ar
-[Line                   284]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p7u1/ar
-[Line                   305]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0011:p8u1/ar
-[Line                   312]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0020:p1u1/ar
-[Line                   373]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0020:p2u1/ar
-[Line                   430]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0020:p3u1/ar
-[Line                   438]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p1u1/ar
-[Line                   477]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p2u1/ar
-[Line                   520]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p3u1/ar
-[Line                   564]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p4u1/ar
-[Line                   613]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p5u1/ar
-[Line                   635]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p6u1/ar
-[Line                   656]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p7u1/ar
-[Line                   688]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0025:p8u1/ar
-...suppressing further errors regarding Metadata
-*** FAILED *** with 786 errors
-Metadata errors: 786
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-train.conllu
+python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 
-[Line                   13]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p1u1/ar
-[Line                   88]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p2u1/ar
-[Line                   125]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p3u1/ar
-[Line                   160]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p4u1/ar
-[Line                   194]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p4u2/ar
-[Line                   220]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p5u1/ar
-[Line                   254]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p5u2/ar
-[Line                   265]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p5u3/ar
-[Line                   321]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p6u1/ar
-[Line                   357]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p7u1/ar
-[Line                   399]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p7u2/ar
-[Line                   447]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p8u1/ar
-[Line                   485]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p8u2/ar
-[Line                   522]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p9u1/ar
-[Line                   570]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p10u1/ar
-[Line                   608]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p10u2/ar
-[Line                   643]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p11u1/ar
-[Line                   683]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p11u2/ar
-[Line                   722]: The forward slash is reserved for special use in parallel treebanks: afp.20000715.0001:p12u1/ar
-...suppressing further errors regarding Metadata
-*** FAILED *** with 6174 errors
-Metadata errors: 6174
+*** PASSED ***
 
 
 ******************
