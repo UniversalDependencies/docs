@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T09:47:20Z">2017-01-31T09:47:20 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T09:48:40Z">2017-01-31T09:48:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -7302,7 +7302,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T09:44:13Z">2017-01-31T09:44:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T09:48:36Z">2017-01-31T09:48:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -7383,17 +7383,8 @@ python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lin
 [Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'där' but text is 'x Work skulle ha tänkt ...'
 [Line                   8543]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x Work skulle ha tänk...'
 [Line                   8543]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x Work skulle ha tänkt om han hade varit där.'
-[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'Burkes' but text is 'amp; Burkes? " sade Harry ...'
-[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is '?' but text is 'amp; Burkes? " sade H...'
-[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is '"' but text is 'amp; Burkes? " sade H...'
-[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'sade' but text is 'amp; Burkes? " sade Harr...'
-[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'Harry' but text is 'amp; Burkes? " sade Harry...'
-[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'till' but text is 'amp; Burkes? " sade Harr...'
-[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'Ron' but text is 'amp; Burkes? " sade Har...'
-[Line                   55864]: Mismatch between the text attribute and the FORM field. Form is 'och' but text is 'amp; Burkes? " sade Har...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 357 errors
-Metadata errors: 29
+*** FAILED *** with 339 errors
+Metadata errors: 11
 Syntax errors: 328
 
 
