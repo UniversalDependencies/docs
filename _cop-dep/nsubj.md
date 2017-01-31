@@ -61,7 +61,7 @@ case(ⲕ, ⲛⲃⲗⲁ)
 The same analysis applies to the presentative particle ⲉⲓⲥ ('behold', 'voila'):
 
 ~~~ sdparse
-ⲉⲓⲥ/PART ⲟⲩ/ART ⲥⲃⲱ/N ⲛ/ADP ⲃⲣⲣⲉ/N \n Behold, a new teaching
+ⲉⲓⲥ/PART ⲟⲩ/DET ⲥⲃⲱ/N ⲛ/ADP ⲃⲣⲣⲉ/N \n Behold, a new teaching
 
 nsubj(ⲉⲓⲥ, ⲥⲃⲱ)
 det(ⲥⲃⲱ, ⲟⲩ)
