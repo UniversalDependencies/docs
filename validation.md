@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T09:44:16Z">2017-01-31T09:44:16 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T09:47:20Z">2017-01-31T09:47:20 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -7070,63 +7070,21 @@ Metadata errors: 8483
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:41Z">2017-01-30T15:04:41 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T09:47:08Z">2017-01-31T09:47:08 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
+python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
 
-[Line                   40]: The text attribute must not end with a whitespace
-[Line                   99]: The text attribute must not end with a whitespace
-[Line                   139]: The text attribute must not end with a whitespace
-[Line                   154]: The text attribute must not end with a whitespace
-[Line                   178]: The text attribute must not end with a whitespace
-[Line                   185]: The text attribute must not end with a whitespace
-[Line                   223]: The text attribute must not end with a whitespace
-[Line                   236]: The text attribute must not end with a whitespace
-[Line                   265]: The text attribute must not end with a whitespace
-[Line                   287]: The text attribute must not end with a whitespace
-[Line                   302]: The text attribute must not end with a whitespace
-[Line                   316]: The text attribute must not end with a whitespace
-[Line                   362]: The text attribute must not end with a whitespace
-[Line                   409]: The text attribute must not end with a whitespace
-[Line                   423]: The text attribute must not end with a whitespace
-[Line                   442]: The text attribute must not end with a whitespace
-[Line                   457]: The text attribute must not end with a whitespace
-[Line                   488]: The text attribute must not end with a whitespace
-[Line                   517]: The text attribute must not end with a whitespace
-...suppressing further errors regarding Metadata
-*** FAILED *** with 522 errors
-Metadata errors: 522
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
+python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
 
-[Line                   27]: The text attribute must not end with a whitespace
-[Line                   38]: The text attribute must not end with a whitespace
-[Line                   58]: The text attribute must not end with a whitespace
-[Line                   69]: The text attribute must not end with a whitespace
-[Line                   78]: The text attribute must not end with a whitespace
-[Line                   105]: The text attribute must not end with a whitespace
-[Line                   123]: The text attribute must not end with a whitespace
-[Line                   170]: The text attribute must not end with a whitespace
-[Line                   193]: The text attribute must not end with a whitespace
-[Line                   256]: The text attribute must not end with a whitespace
-[Line                   288]: The text attribute must not end with a whitespace
-[Line                   303]: The text attribute must not end with a whitespace
-[Line                   351]: The text attribute must not end with a whitespace
-[Line                   378]: The text attribute must not end with a whitespace
-[Line                   394]: The text attribute must not end with a whitespace
-[Line                   407]: The text attribute must not end with a whitespace
-[Line                   428]: The text attribute must not end with a whitespace
-[Line                   485]: The text attribute must not end with a whitespace
-[Line                   513]: The text attribute must not end with a whitespace
-...suppressing further errors regarding Metadata
-*** FAILED *** with 4828 errors
-Metadata errors: 4828
+*** PASSED ***
 
 
 ******************
