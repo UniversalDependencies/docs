@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T17:13:01Z">2017-01-31T17:13:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T17:14:15Z">2017-01-31T17:14:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6386,63 +6386,21 @@ Syntax errors: 51913
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:32Z">2017-01-30T15:04:32 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T17:14:14Z">2017-01-31T17:14:14 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
+python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-dev.conllu
 
-[Line                   5]: Spurious sent_id line: '# sent_id s101/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   5]: Missing the sent_id attribute.
-[Line                   5]: Missing the text attribute.
-[Line                   12]: Spurious sent_id line: '# sent_id s102/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   12]: Missing the sent_id attribute.
-[Line                   12]: Missing the text attribute.
-[Line                   19]: Spurious sent_id line: '# sent_id s103/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   19]: Missing the sent_id attribute.
-[Line                   19]: Missing the text attribute.
-[Line                   26]: Spurious sent_id line: '# sent_id s104/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   26]: Missing the sent_id attribute.
-[Line                   26]: Missing the text attribute.
-[Line                   33]: Spurious sent_id line: '# sent_id s105/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   33]: Missing the sent_id attribute.
-[Line                   33]: Missing the text attribute.
-[Line                   39]: Spurious sent_id line: '# sent_id s106/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   39]: Missing the sent_id attribute.
-[Line                   39]: Missing the text attribute.
-[Line                   43]: Spurious sent_id line: '# sent_id s107/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 150 errors
-Metadata errors: 150
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
+python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-train.conllu
 
-[Line                   17]: Spurious sent_id line: '# sent_id s1/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   17]: Missing the sent_id attribute.
-[Line                   17]: Missing the text attribute.
-[Line                   23]: Spurious sent_id line: '# sent_id s2/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   23]: Missing the sent_id attribute.
-[Line                   23]: Missing the text attribute.
-[Line                   31]: Spurious sent_id line: '# sent_id s3/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   31]: Missing the sent_id attribute.
-[Line                   31]: Missing the text attribute.
-[Line                   38]: Spurious sent_id line: '# sent_id s4/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   38]: Missing the sent_id attribute.
-[Line                   38]: Missing the text attribute.
-[Line                   53]: Spurious sent_id line: '# sent_id s5/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   53]: Missing the sent_id attribute.
-[Line                   53]: Missing the text attribute.
-[Line                   64]: Spurious sent_id line: '# sent_id s6/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   64]: Missing the sent_id attribute.
-[Line                   64]: Missing the text attribute.
-[Line                   77]: Spurious sent_id line: '# sent_id s7/sa' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 300 errors
-Metadata errors: 300
+*** PASSED ***
 
 
 ******************
