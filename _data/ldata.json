@@ -800,6 +800,41 @@
         "full": "Daniel Zeman", 
         "last": "Zeman", 
         "first": "Daniel"
+      }, 
+      {
+        "full": "Masayuki Asahara", 
+        "last": "Asahara", 
+        "first": "Masayuki"
+      }, 
+      {
+        "full": "Hiroshi Kanayama", 
+        "last": "Kanayama", 
+        "first": "Hiroshi"
+      }, 
+      {
+        "full": "Yuji Matsumoto", 
+        "last": "Matsumoto", 
+        "first": "Yuji"
+      }, 
+      {
+        "full": "Yusuke Miyao", 
+        "last": "Miyao", 
+        "first": "Yusuke"
+      }, 
+      {
+        "full": "Shunsuke Mori", 
+        "last": "Mori", 
+        "first": "Shunsuke"
+      }, 
+      {
+        "full": "Takaaki Tanaka", 
+        "last": "Tanaka", 
+        "first": "Takaaki"
+      }, 
+      {
+        "full": "Sumire Uematsu", 
+        "last": "Uematsu", 
+        "first": "Sumire"
       }
     ], 
     "lang_name": "Japanese"
@@ -1056,6 +1091,36 @@
     "lang_code": "pt", 
     "contributors": [
       {
+        "full": "Cl\u00e1udia Freitas", 
+        "last": "Freitas", 
+        "first": "Cl\u00e1udia"
+      }, 
+      {
+        "full": "Eckhard Bick", 
+        "last": "Bick", 
+        "first": "Eckhard"
+      }, 
+      {
+        "full": "Fabricio Chalub", 
+        "last": "Chalub", 
+        "first": "Fabricio"
+      }, 
+      {
+        "full": "Alexandre Rademaker", 
+        "last": "Rademaker", 
+        "first": "Alexandre"
+      }, 
+      {
+        "full": "Livy Real", 
+        "last": "Real", 
+        "first": "Livy"
+      }, 
+      {
+        "full": "Valeria de Paiva", 
+        "last": "de Paiva", 
+        "first": "Valeria"
+      }, 
+      {
         "full": "Daniel Zeman", 
         "last": "Zeman", 
         "first": "Daniel"
@@ -1103,42 +1168,6 @@
       }
     ], 
     "lang_name": "Portuguese-BR"
-  }, 
-  {
-    "lang_code": "pt_bosque", 
-    "contributors": [
-      {
-        "full": "Claudia Freitas", 
-        "last": "Freitas", 
-        "first": "Claudia"
-      }, 
-      {
-        "full": "Eckhard Bick", 
-        "last": "Bick", 
-        "first": "Eckhard"
-      }, 
-      {
-        "full": "Fabricio Chalub", 
-        "last": "Chalub", 
-        "first": "Fabricio"
-      }, 
-      {
-        "full": "Alexandre Rademaker", 
-        "last": "Rademaker", 
-        "first": "Alexandre"
-      }, 
-      {
-        "full": "Livy Real", 
-        "last": "Real", 
-        "first": "Livy"
-      }, 
-      {
-        "full": "Valeria Paiva", 
-        "last": "Paiva", 
-        "first": "Valeria"
-      }
-    ], 
-    "lang_name": "Portuguese-Bosque"
   }, 
   {
     "lang_code": "ro", 
