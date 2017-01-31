@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T11:27:01Z">2017-01-31T11:27:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T11:32:14Z">2017-01-31T11:32:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1256,63 +1256,21 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:53:28Z">2017-01-30T14:53:28 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T11:31:37Z">2017-01-31T11:31:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
+python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
-[Line                   23]: The forward slash is reserved for special use in parallel treebanks: a10w-s1/cs
-[Line                   50]: The forward slash is reserved for special use in parallel treebanks: a10w-s2/cs
-[Line                   91]: The forward slash is reserved for special use in parallel treebanks: a10w-s3/cs
-[Line                   125]: The forward slash is reserved for special use in parallel treebanks: a10w-s4/cs
-[Line                   143]: The forward slash is reserved for special use in parallel treebanks: a10w-s5/cs
-[Line                   185]: The forward slash is reserved for special use in parallel treebanks: a10w-s6/cs
-[Line                   226]: The forward slash is reserved for special use in parallel treebanks: a10w-s7/cs
-[Line                   266]: The forward slash is reserved for special use in parallel treebanks: a10w-s8/cs
-[Line                   308]: The forward slash is reserved for special use in parallel treebanks: a10w-s9/cs
-[Line                   327]: The forward slash is reserved for special use in parallel treebanks: a10w-s10/cs
-[Line                   359]: The forward slash is reserved for special use in parallel treebanks: a10w-s11/cs
-[Line                   415]: The forward slash is reserved for special use in parallel treebanks: a10w-s12/cs
-[Line                   433]: The forward slash is reserved for special use in parallel treebanks: a10w-s13/cs
-[Line                   454]: The forward slash is reserved for special use in parallel treebanks: a10w-s14/cs
-[Line                   482]: The forward slash is reserved for special use in parallel treebanks: a10w-s15/cs
-[Line                   509]: The forward slash is reserved for special use in parallel treebanks: a10w-s16/cs
-[Line                   523]: The forward slash is reserved for special use in parallel treebanks: a10w-s17/cs
-[Line                   548]: The forward slash is reserved for special use in parallel treebanks: a10w-s18/cs
-[Line                   568]: The forward slash is reserved for special use in parallel treebanks: a10w-s19/cs
-...suppressing further errors regarding Metadata
-*** FAILED *** with 603 errors
-Metadata errors: 603
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
+python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
-[Line                   29]: The forward slash is reserved for special use in parallel treebanks: a01w-s1/cs
-[Line                   62]: The forward slash is reserved for special use in parallel treebanks: a01w-s2/cs
-[Line                   98]: The forward slash is reserved for special use in parallel treebanks: a01w-s3/cs
-[Line                   133]: The forward slash is reserved for special use in parallel treebanks: a01w-s4/cs
-[Line                   152]: The forward slash is reserved for special use in parallel treebanks: a01w-s5/cs
-[Line                   161]: The forward slash is reserved for special use in parallel treebanks: a01w-s6/cs
-[Line                   168]: The forward slash is reserved for special use in parallel treebanks: a01w-s7/cs
-[Line                   196]: The forward slash is reserved for special use in parallel treebanks: a01w-s8/cs
-[Line                   233]: The forward slash is reserved for special use in parallel treebanks: a01w-s9/cs
-[Line                   276]: The forward slash is reserved for special use in parallel treebanks: a01w-s10/cs
-[Line                   308]: The forward slash is reserved for special use in parallel treebanks: a01w-s11/cs
-[Line                   346]: The forward slash is reserved for special use in parallel treebanks: a01w-s12/cs
-[Line                   378]: The forward slash is reserved for special use in parallel treebanks: a01w-s13/cs
-[Line                   414]: The forward slash is reserved for special use in parallel treebanks: a01w-s14/cs
-[Line                   426]: The forward slash is reserved for special use in parallel treebanks: a01w-s15/cs
-[Line                   471]: The forward slash is reserved for special use in parallel treebanks: a01w-s16/cs
-[Line                   509]: The forward slash is reserved for special use in parallel treebanks: a01w-s17/cs
-[Line                   540]: The forward slash is reserved for special use in parallel treebanks: a01w-s18/cs
-[Line                   592]: The forward slash is reserved for special use in parallel treebanks: a01w-s19/cs
-...suppressing further errors regarding Metadata
-*** FAILED *** with 23478 errors
-Metadata errors: 23478
+*** PASSED ***
 
 
 ******************
