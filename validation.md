@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T11:32:14Z">2017-01-31T11:32:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T11:38:47Z">2017-01-31T11:38:47 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1282,13 +1282,12 @@ python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-tr
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:54:19Z">2017-01-30T14:54:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T11:38:44Z">2017-01-31T11:38:44 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
+python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
-[Line                   264]: The forward slash is reserved for special use in parallel treebanks: zakon.iso-003-p23s3/cs
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is '§_18_odst._3' but text is '§ 18 odst. 3) ověřuje, a účetníh...'
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is ')' but text is '§ 18 odst. 3) ověřuje...'
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'ověřuje' but text is '§ 18 odst. 3) ověřuje, a úč...'
@@ -1307,21 +1306,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'jedno' but text is '§ 18 odst. 3) ověřuje, a ...'
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'ze' but text is '§ 18 odst. 3) ověřuje,...'
 [Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'tří' but text is '§ 18 odst. 3) ověřuje, ...'
+[Line                   264]: Mismatch between the text attribute and the FORM field. Form is 'uvedených' but text is '§ 18 odst. 3) ověřuje, a účet...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 1366 errors
-Metadata errors: 1366
+*** FAILED *** with 1237 errors
+Metadata errors: 1237
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
+python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
-[Line                   6]: The forward slash is reserved for special use in parallel treebanks: vyhlaska.iso-001-p1s1/cs
-[Line                   14]: The forward slash is reserved for special use in parallel treebanks: vyhlaska.iso-001-p1s2/cs
-[Line                   19]: The forward slash is reserved for special use in parallel treebanks: vyhlaska.iso-001-p2s1/cs
 [Line                   19]: Mismatch between the text attribute and the FORM field. Form is '§_1' but text is '§ 1...'
 [Line                   19]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '§ 1'
-[Line                   273]: The forward slash is reserved for special use in parallel treebanks: vyhlaska.iso-001-p2s2/cs
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is '"zákon_o_přeměnách"' but text is '"zákon o přeměnách"), včetně úprav prov...'
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is ')' but text is '"zákon o přeměnách"),...'
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is ',' but text is '"zákon o přeměnách"),...'
@@ -1335,9 +1331,13 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'ke' but text is '"zákon o přeměnách"), ...'
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'dni' but text is '"zákon o přeměnách"), v...'
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'zápisu' but text is '"zákon o přeměnách"), včet...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'do' but text is '"zákon o přeměnách"), ...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'obchodního' but text is '"zákon o přeměnách"), včetně ú...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'rejstříku' but text is '"zákon o přeměnách"), včetně ...'
+[Line                   273]: Mismatch between the text attribute and the FORM field. Form is 's' but text is '"zákon o přeměnách"),...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 9881 errors
-Metadata errors: 9881
+*** FAILED *** with 9021 errors
+Metadata errors: 9021
 
 
 ******************
