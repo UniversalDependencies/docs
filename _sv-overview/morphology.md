@@ -2,15 +2,16 @@
 layout: base
 title:  'Morphology'
 permalink: sv/overview/morphology.html
+udver: '2'
 ---
 
 # Morphology
 
-The morphological annotation in the Swedish UD treebank follows the general guidelines and does not add any language-specific features. The language-specific tags (including features) follow the guidelines of the Stockholm-Umeå Corpus.
+The morphological annotation in the Swedish UD treebank follows the general guidelines and does not add any language-specific features. The following may be noted:
 
-The mapping from language-specific tags and features to universal tags and features was done automatically. We are not aware of any remaining errors or inconsistences but the mapping has not been validated manually. 
-
-Lemmas were assigned using SALDO (Borin et al., 2008) in combination with the language-specific SUC tags. Cases of remaining ambiguity were resolved heuristically, which may have introduced errors. For words and symbols not covered by SALDO, lemmas were added manually.
+* XPOSTAG: There are two sets of language-specific tags in use for Swedish. While UD Swedish uses the tag set of the Stockholm-Umeå Corpus, UD Swedish-LinES uses a different inventory.
+* FEATS: Features are currently lacking in UD Swedish-LinES.
+* LEMMA: Lemmas in UD Swedish are based on SALDO (Borin et al., 2008). Lemmas are currently lacking in UD Swedish-LinES.
 
 ## References
 
