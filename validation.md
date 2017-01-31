@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T13:08:43Z">2017-01-31T13:08:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T13:11:02Z">2017-01-31T13:11:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5369,63 +5369,21 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T16:05:19Z">2017-01-30T16:05:19 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T13:10:44Z">2017-01-31T13:10:44 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
 
-[Line                   38]: The text attribute must not end with a whitespace
-[Line                   59]: The text attribute must not end with a whitespace
-[Line                   88]: The text attribute must not end with a whitespace
-[Line                   101]: The text attribute must not end with a whitespace
-[Line                   152]: The text attribute must not end with a whitespace
-[Line                   164]: The text attribute must not end with a whitespace
-[Line                   183]: The text attribute must not end with a whitespace
-[Line                   191]: The text attribute must not end with a whitespace
-[Line                   201]: The text attribute must not end with a whitespace
-[Line                   212]: The text attribute must not end with a whitespace
-[Line                   227]: The text attribute must not end with a whitespace
-[Line                   286]: The text attribute must not end with a whitespace
-[Line                   299]: The text attribute must not end with a whitespace
-[Line                   306]: The text attribute must not end with a whitespace
-[Line                   330]: The text attribute must not end with a whitespace
-[Line                   357]: The text attribute must not end with a whitespace
-[Line                   388]: The text attribute must not end with a whitespace
-[Line                   398]: The text attribute must not end with a whitespace
-[Line                   413]: The text attribute must not end with a whitespace
-...suppressing further errors regarding Metadata
-*** FAILED *** with 2403 errors
-Metadata errors: 2403
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
 
-[Line                   8]: The text attribute must not end with a whitespace
-[Line                   24]: The text attribute must not end with a whitespace
-[Line                   36]: The text attribute must not end with a whitespace
-[Line                   67]: The text attribute must not end with a whitespace
-[Line                   82]: The text attribute must not end with a whitespace
-[Line                   108]: The text attribute must not end with a whitespace
-[Line                   123]: The text attribute must not end with a whitespace
-[Line                   146]: The text attribute must not end with a whitespace
-[Line                   182]: The text attribute must not end with a whitespace
-[Line                   188]: The text attribute must not end with a whitespace
-[Line                   209]: The text attribute must not end with a whitespace
-[Line                   240]: The text attribute must not end with a whitespace
-[Line                   260]: The text attribute must not end with a whitespace
-[Line                   275]: The text attribute must not end with a whitespace
-[Line                   290]: The text attribute must not end with a whitespace
-[Line                   306]: The text attribute must not end with a whitespace
-[Line                   324]: The text attribute must not end with a whitespace
-[Line                   343]: The text attribute must not end with a whitespace
-[Line                   363]: The text attribute must not end with a whitespace
-...suppressing further errors regarding Metadata
-*** FAILED *** with 15650 errors
-Metadata errors: 15650
+*** PASSED ***
 
 
 ******************
