@@ -7,9 +7,9 @@ udver: '2'
 
 # Morphology
 
-The morphological annotation in the Swedish UD treebank follows the general guidelines and does not add any language-specific features. The following may be noted:
+The morphological annotation in the Swedish UD treebanks follows the general guidelines and does not add any language-specific features. The following may be noted:
 
-* XPOSTAG: There are two sets of language-specific tags in use for Swedish. While UD Swedish uses the tag set of the Stockholm-Umeå Corpus, UD Swedish-LinES uses a different inventory.
+* XPOSTAG: There are two sets of language-specific tags in use for Swedish. UD Swedish adopts the tagset of the Stockholm-Umeå Corpus, while UD Swedish-LinES uses a different inventory.
 * FEATS: Features are currently lacking in UD Swedish-LinES.
 * LEMMA: Lemmas in UD Swedish are based on SALDO (Borin et al., 2008). Lemmas are currently lacking in UD Swedish-LinES.
 
