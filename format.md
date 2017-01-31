@@ -7,7 +7,7 @@ udver: '2'
 
 # CoNLL-U Format
 
-We use a revised version of [the CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat) called CoNLL-U. 
+We use a revised version of [the CoNLL-X format](http://anthology.aclweb.org/W/W06/W06-2920.pdf) called CoNLL-U. 
 Annotations are encoded in plain text files (UTF-8, using only the LF character as line break) with three types of lines:
 
  1. Word lines containing the annotation of a word/token in 10 fields separated by single tab characters; see below.
