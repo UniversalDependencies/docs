@@ -1,7 +1,8 @@
 ---
 layout: postag
-title: 'CONJ'
+title: 'CCONJ'
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
 ### Definition
