@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T09:59:43Z">2017-01-31T09:59:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T10:15:21Z">2017-01-31T10:15:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6473,81 +6473,23 @@ Metadata errors: 38364
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:02:23Z">2017-01-30T15:02:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T10:15:05Z">2017-01-31T10:15:05 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Romanian/ro-ud-dev.conllu
+python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-dev.conllu
 
-[Line                   6]: Unknown attribute-value pair Negative=Pos
-[Line                   6]: Unknown UPOS tag: CONJ
-[Line                   12]: Unknown UD DEPREL: mwe
-[Line                   15]: Unknown UD DEPREL: dobj
-[Line                   19]: Unknown UD DEPREL: name
-[Line                   32]: Unknown UD DEPREL: dobj
-[Line                   48]: Unknown attribute-value pair Negative=Pos
-[Line                   49]: Unknown attribute-value pair Negative=Neg
-[Line                   49]: Unknown UD DEPREL: neg
-[Line                   60]: Unknown attribute-value pair Negative=Pos
-[Line                   60]: Unknown UPOS tag: CONJ
-[Line                   69]: Missing the sent_id attribute.
-[Line                   69]: Missing the text attribute.
-[Line                   79]: Unknown UD DEPREL: mwe
-[Line                   80]: Unknown UD DEPREL: mwe
-[Line                   84]: Missing the sent_id attribute.
-[Line                   84]: Missing the text attribute.
-[Line                   93]: Unknown UD DEPREL: mwe
-[Line                   97]: Unknown UD DEPREL: mwe
-[Line                   99]: Unknown attribute-value pair Negative=Pos
-[Line                   99]: Unknown UPOS tag: CONJ
-[Line                   103]: Unknown UD DEPREL: dobj
-[Line                   106]: Unknown UD DEPREL: dobj
-[Line                   113]: Missing the sent_id attribute.
-[Line                   113]: Missing the text attribute.
-[Line                   119]: Unknown UD DEPREL: mwe
-[Line                   128]: Missing the sent_id attribute.
-[Line                   128]: Missing the text attribute.
-[Line                   136]: Missing the sent_id attribute.
-[Line                   136]: Missing the text attribute.
-[Line                   144]: Missing the sent_id attribute.
-[Line                   144]: Missing the text attribute.
-[Line                   149]: Unknown attribute-value pair Negative=Pos
-[Line                   149]: Unknown UPOS tag: CONJ
-[Line                   155]: Unknown UD DEPREL: mwe
-[Line                   162]: Unknown attribute-value pair Negative=Neg
-[Line                   162]: Unknown UD DEPREL: neg
-[Line                   170]: Unknown UD DEPREL: dobj
-[Line                   172]: Unknown attribute-value pair Negative=Pos
-[Line                   172]: Unknown UPOS tag: CONJ
-[Line                   181]: Unknown attribute-value pair Negative=Pos
-[Line                   181]: Unknown UD DEPREL: mwe
-[Line                   184]: Unknown attribute-value pair Negative=Neg
-[Line                   184]: Unknown UD DEPREL: neg
-[Line                   191]: Unknown UD DEPREL: dobj
-[Line                   193]: Missing the sent_id attribute.
-[Line                   193]: Missing the text attribute.
-[Line                   203]: Missing the sent_id attribute.
-[Line                   203]: Missing the text attribute.
-[Line                   208]: Unknown UD DEPREL: dobj
-[Line                   213]: Missing the sent_id attribute.
-[Line                   213]: Missing the text attribute.
-[Line                   220]: Unknown attribute-value pair Negative=Neg
-...suppressing further errors regarding Syntax
-[Line                   222]: Unknown attribute-value pair Negative=Pos
-[Line                   234]: Unknown attribute-value pair Negative=Pos
-[Line                   234]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-[Line                   247]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 57380 errors
-Metadata errors: 19046
-Morpho errors: 17481
-Syntax errors: 20853
+[Line                   1]: Missing empty line after the last tree.
+[Line                   1]: Missing the sent_id attribute.
+[Line                   1]: Missing the text attribute.
+*** FAILED *** with 3 errors
+Format errors: 1
+Metadata errors: 2
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Romanian/ro-ud-train.conllu
+python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conllu
 
 [Line                   6]: Unknown attribute-value pair Negative=Pos
 [Line                   6]: Unknown UPOS tag: CONJ
@@ -6609,10 +6551,10 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 ...suppressing further errors regarding Morpho
 [Line                   247]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 57380 errors
+*** FAILED *** with 57446 errors
 Metadata errors: 19046
-Morpho errors: 17481
-Syntax errors: 20853
+Morpho errors: 17483
+Syntax errors: 20917
 
 
 ******************
