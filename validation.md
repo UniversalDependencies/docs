@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T11:00:07Z">2017-01-31T11:00:07 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T11:27:01Z">2017-01-31T11:27:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1210,147 +1210,42 @@ Syntax errors: 9791
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:51:13Z">2017-01-30T14:51:13 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T11:25:20Z">2017-01-31T11:25:20 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
-[Line                   9]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p3s1/cs
-[Line                   17]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p5s1/cs
-[Line                   26]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p5s2/cs
-[Line                   40]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p5s3/cs
-[Line                   68]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p5s4/cs
-[Line                   81]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p5s5/cs
-[Line                   88]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p6s1/cs
-[Line                   103]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p7s1/cs
-[Line                   121]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p7s2/cs
-[Line                   164]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p7s3/cs
-[Line                   176]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p7s4/cs
-[Line                   186]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p8s1/cs
-[Line                   213]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p9s1/cs
-[Line                   259]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p9s2/cs
-[Line                   269]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p10s1/cs
-[Line                   300]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-009-p11s1/cs
-[Line                   307]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-019-p1s1/cs
-[Line                   320]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-019-p2s1/cs
-[Line                   328]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-019-p3s1/cs
-...suppressing further errors regarding Metadata
-*** FAILED *** with 9270 errors
-Metadata errors: 9270
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
-[Line                   8]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p2s1/cs
-[Line                   19]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p3s1A/cs
-[Line                   28]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p3s1B/cs
-[Line                   39]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s1/cs
-[Line                   49]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s2/cs
-[Line                   72]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s3/cs
-[Line                   93]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s4/cs
-[Line                   132]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s5/cs
-[Line                   155]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p4s6/cs
-[Line                   194]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p5s1/cs
-[Line                   235]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p5s2/cs
-[Line                   276]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p6s1/cs
-[Line                   296]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p6s2/cs
-[Line                   313]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p6s3/cs
-[Line                   332]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p6s4/cs
-[Line                   352]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p6s5/cs
-[Line                   377]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p7s1/cs
-[Line                   403]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p7s2/cs
-[Line                   443]: The forward slash is reserved for special use in parallel treebanks: cmpr9406-001-p7s3/cs
-...suppressing further errors regarding Metadata
-*** FAILED *** with 8938 errors
-Metadata errors: 8938
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
-[Line                   10]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p1s1/cs
-[Line                   15]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s1D/cs
-[Line                   21]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s1E/cs
-[Line                   72]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s1C/cs
-[Line                   83]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s2/cs
-[Line                   118]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s3/cs
-[Line                   140]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s4/cs
-[Line                   193]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s5/cs
-[Line                   221]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s6/cs
-[Line                   249]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s7/cs
-[Line                   279]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s8/cs
-[Line                   315]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s9/cs
-[Line                   330]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s10/cs
-[Line                   355]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s11/cs
-[Line                   370]: The forward slash is reserved for special use in parallel treebanks: ln94200-100-p2s12/cs
-[Line                   376]: The forward slash is reserved for special use in parallel treebanks: ln94200-101-p1s1/cs
-[Line                   382]: The forward slash is reserved for special use in parallel treebanks: ln94200-101-p2s1A/cs
-[Line                   395]: The forward slash is reserved for special use in parallel treebanks: ln94200-101-p2s1B/cs
-[Line                   407]: The forward slash is reserved for special use in parallel treebanks: ln94200-101-p2s2/cs
-...suppressing further errors regarding Metadata
-*** FAILED *** with 41559 errors
-Metadata errors: 41559
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
-[Line                   10]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p1s1A/cs
-[Line                   23]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p1s1B/cs
-[Line                   43]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p2s1/cs
-[Line                   60]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p2s2/cs
-[Line                   80]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p2s3/cs
-[Line                   95]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p2s4/cs
-[Line                   141]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p3s1/cs
-[Line                   162]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p3s2A/cs
-[Line                   193]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p3s2B/cs
-[Line                   208]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p4s1/cs
-[Line                   225]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p4s2/cs
-[Line                   273]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p4s3A/cs
-[Line                   296]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p4s3B/cs
-[Line                   336]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p4s4/cs
-[Line                   373]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p5s1/cs
-[Line                   393]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p5s2/cs
-[Line                   404]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p5s3A/cs
-[Line                   439]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p5s3B/cs
-[Line                   448]: The forward slash is reserved for special use in parallel treebanks: mf920901-001-p6s1/cs
-...suppressing further errors regarding Metadata
-*** FAILED *** with 11180 errors
-Metadata errors: 11180
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
-[Line                   8]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p1s1/cs
-[Line                   14]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p2s1/cs
-[Line                   62]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p3s1/cs
-[Line                   99]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p4s1/cs
-[Line                   131]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p5s1/cs
-[Line                   142]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p6s1/cs
-[Line                   194]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p6s2/cs
-[Line                   209]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p7s1/cs
-[Line                   228]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p7s2/cs
-[Line                   289]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p7s3/cs
-[Line                   308]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p8s1/cs
-[Line                   340]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p9s1/cs
-[Line                   367]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p10s1/cs
-[Line                   403]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p10s2/cs
-[Line                   413]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p10s3/cs
-[Line                   428]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p10s4/cs
-[Line                   457]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p11s1/cs
-[Line                   493]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p11s2/cs
-[Line                   515]: The forward slash is reserved for special use in parallel treebanks: vesm9211-001-p11s3/cs
-...suppressing further errors regarding Metadata
-*** FAILED *** with 6818 errors
-Metadata errors: 6818
+*** PASSED ***
 
 
 ******************
