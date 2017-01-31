@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T13:11:02Z">2017-01-31T13:11:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T13:14:27Z">2017-01-31T13:14:27 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4989,63 +4989,21 @@ Syntax errors: 4790
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:59:16Z">2017-01-30T14:59:16 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T13:14:07Z">2017-01-31T13:14:07 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
+python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-dev.conllu
 
-[Line                   9]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1/la
-[Line                   24]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s2/la
-[Line                   31]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s3/la
-[Line                   60]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s4/la
-[Line                   81]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s5/la
-[Line                   101]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s6/la
-[Line                   118]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s7/la
-[Line                   128]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s8/la
-[Line                   150]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s9/la
-[Line                   183]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s10/la
-[Line                   196]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s11/la
-[Line                   210]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s12/la
-[Line                   226]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s13/la
-[Line                   244]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s14/la
-[Line                   289]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s15/la
-[Line                   313]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s16/la
-[Line                   327]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s17/la
-[Line                   346]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s18/la
-[Line                   363]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s19/la
-...suppressing further errors regarding Metadata
-*** FAILED *** with 700 errors
-Metadata errors: 700
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
+python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud-train.conllu
 
-[Line                   16]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1451/la
-[Line                   30]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1452/la
-[Line                   69]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1453/la
-[Line                   104]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1454/la
-[Line                   121]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1455/la
-[Line                   141]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1456/la
-[Line                   184]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1457/la
-[Line                   200]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1458/la
-[Line                   225]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1459/la
-[Line                   245]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1460/la
-[Line                   256]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1461/la
-[Line                   267]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1462/la
-[Line                   320]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1463/la
-[Line                   352]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1464/la
-[Line                   368]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1465/la
-[Line                   391]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1466/la
-[Line                   414]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1467/la
-[Line                   432]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1468/la
-[Line                   455]: The forward slash is reserved for special use in parallel treebanks: ittb-scg-s1469/la
-...suppressing further errors regarding Metadata
-*** FAILED *** with 15808 errors
-Metadata errors: 15808
+*** PASSED ***
 
 
 ******************
