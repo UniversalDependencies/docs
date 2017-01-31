@@ -29,7 +29,7 @@ nsubj(ⲕⲏⲧ, ϥ)
 nsubj(ϩⲟⲗϭ, ϥ)
 ~~~
 
-Note also that the existential predicates (pos=EXIST) take `nsubj` for the existing entity, even when they are used in the possessive construction:
+Note also that the existential predicates (Scriptorium pos=EXIST) take `nsubj` for the existing entity, even when they are used in the possessive construction:
 
 ~~~ sdparse
 ⲙⲛ/VERB ⲙⲛⲧⲗⲏⲥⲧⲏⲥ/NOUN ϣⲟⲟⲡ/VERB \n there is no robbery
@@ -58,3 +58,13 @@ nmod(ⲙⲛ, ⲕ)
 case(ⲕ, ⲛⲃⲗⲁ)
 ~~~
 
+The same analysis applies to the presentative particle ⲉⲓⲥ ('behold', 'voila'):
+
+~~~ sdparse
+ⲉⲓⲥ/PART ⲟⲩ/ART ⲥⲃⲱ/N ⲛ/ADP ⲃⲣⲣⲉ/N \n Behold, a new teaching
+
+nsubj(ⲉⲓⲥ, ⲥⲃⲱ)
+det(ⲥⲃⲱ, ⲟⲩ)
+nmod(ⲃⲣⲣⲉ, ⲥⲃⲱ)
+case(ⲃⲣⲣⲉ, ⲛ)
+~~~
