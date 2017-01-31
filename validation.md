@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T16:15:44Z">2017-01-31T16:15:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T16:34:03Z">2017-01-31T16:34:03 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5897,8 +5897,8 @@ Metadata errors: 38364
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-BR</span>
 <span class="widespan">pt br</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T16:15:30Z">2017-01-31T16:15:30 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T16:33:49Z">2017-01-31T16:33:49 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5911,9 +5911,7 @@ python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-
 
 python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-train.conllu
 
-[Tree number 8893 on line 277386]: Multiple root words: [32, 31]
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
