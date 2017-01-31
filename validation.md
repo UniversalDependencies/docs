@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T16:48:23Z">2017-01-31T16:48:23 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T16:57:49Z">2017-01-31T16:57:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5831,11 +5831,11 @@ python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T16:28:32Z">2017-01-30T16:28:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T16:57:35Z">2017-01-31T16:57:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
 
 [Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'dum' but text is 'de um agente secreto à ...'
 [Line                   100]: Mismatch between the text attribute and the FORM field. Form is 'agente' but text is 'de um agente secreto à des...'
@@ -5863,7 +5863,7 @@ Metadata errors: 505
 
 ******************
 
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
 [Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is '» da noite, a meio cam...'
 [Line                   134]: Mismatch between the text attribute and the FORM field. Form is 'a' but text is '» da noite, a meio ca...'
