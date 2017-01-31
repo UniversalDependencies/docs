@@ -2,6 +2,7 @@
 layout: base
 title:  'Introduction'
 permalink: sv/overview/introduction.html
+udver: '2'
 ---
 
 # Introduction
@@ -32,7 +33,7 @@ This table summarizes the origins and checking of the various columns of the CoN
 | HEAD | Automatic conversion of Talbanken; fairly careful human checking. |
 | DEPREL | Automatic conversion of Talbanken; fairly careful human checking. |
 | DEPS | &mdash; (currently unused) |
-| MISC | &mdash; (currently unused) |
+| MISC | Automatic detokenization encoded as SpaceAfter=No (original text not available). |
 
 
 ### Acknowledgments 
