@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T12:00:17Z">2017-01-31T12:00:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T12:08:57Z">2017-01-31T12:08:57 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6672,63 +6672,21 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:04:32Z">2017-01-30T15:04:32 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T12:08:49Z">2017-01-31T12:08:49 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
-[Line                   22]: The forward slash is reserved for special use in parallel treebanks: dev-s1/sk
-[Line                   34]: The forward slash is reserved for special use in parallel treebanks: dev-s2/sk
-[Line                   41]: The forward slash is reserved for special use in parallel treebanks: dev-s3/sk
-[Line                   62]: The forward slash is reserved for special use in parallel treebanks: dev-s4/sk
-[Line                   69]: The forward slash is reserved for special use in parallel treebanks: dev-s5/sk
-[Line                   87]: The forward slash is reserved for special use in parallel treebanks: dev-s6/sk
-[Line                   93]: The forward slash is reserved for special use in parallel treebanks: dev-s7/sk
-[Line                   105]: The forward slash is reserved for special use in parallel treebanks: dev-s8/sk
-[Line                   125]: The forward slash is reserved for special use in parallel treebanks: dev-s9/sk
-[Line                   134]: The forward slash is reserved for special use in parallel treebanks: dev-s10/sk
-[Line                   141]: The forward slash is reserved for special use in parallel treebanks: dev-s11/sk
-[Line                   155]: The forward slash is reserved for special use in parallel treebanks: dev-s12/sk
-[Line                   166]: The forward slash is reserved for special use in parallel treebanks: dev-s13/sk
-[Line                   179]: The forward slash is reserved for special use in parallel treebanks: dev-s14/sk
-[Line                   187]: The forward slash is reserved for special use in parallel treebanks: dev-s15/sk
-[Line                   193]: The forward slash is reserved for special use in parallel treebanks: dev-s16/sk
-[Line                   206]: The forward slash is reserved for special use in parallel treebanks: dev-s17/sk
-[Line                   213]: The forward slash is reserved for special use in parallel treebanks: dev-s18/sk
-[Line                   232]: The forward slash is reserved for special use in parallel treebanks: dev-s19/sk
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1060 errors
-Metadata errors: 1060
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
-[Line                   10]: The forward slash is reserved for special use in parallel treebanks: train-s1/sk
-[Line                   19]: The forward slash is reserved for special use in parallel treebanks: train-s2/sk
-[Line                   29]: The forward slash is reserved for special use in parallel treebanks: train-s3/sk
-[Line                   39]: The forward slash is reserved for special use in parallel treebanks: train-s4/sk
-[Line                   47]: The forward slash is reserved for special use in parallel treebanks: train-s5/sk
-[Line                   57]: The forward slash is reserved for special use in parallel treebanks: train-s6/sk
-[Line                   65]: The forward slash is reserved for special use in parallel treebanks: train-s7/sk
-[Line                   78]: The forward slash is reserved for special use in parallel treebanks: train-s8/sk
-[Line                   88]: The forward slash is reserved for special use in parallel treebanks: train-s9/sk
-[Line                   98]: The forward slash is reserved for special use in parallel treebanks: train-s10/sk
-[Line                   109]: The forward slash is reserved for special use in parallel treebanks: train-s11/sk
-[Line                   121]: The forward slash is reserved for special use in parallel treebanks: train-s12/sk
-[Line                   128]: The forward slash is reserved for special use in parallel treebanks: train-s13/sk
-[Line                   134]: The forward slash is reserved for special use in parallel treebanks: train-s14/sk
-[Line                   141]: The forward slash is reserved for special use in parallel treebanks: train-s15/sk
-[Line                   157]: The forward slash is reserved for special use in parallel treebanks: train-s16/sk
-[Line                   171]: The forward slash is reserved for special use in parallel treebanks: train-s17/sk
-[Line                   181]: The forward slash is reserved for special use in parallel treebanks: train-s18/sk
-[Line                   190]: The forward slash is reserved for special use in parallel treebanks: train-s19/sk
-...suppressing further errors regarding Metadata
-*** FAILED *** with 8483 errors
-Metadata errors: 8483
+*** PASSED ***
 
 
 ******************
