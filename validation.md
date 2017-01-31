@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T16:47:25Z">2017-01-31T16:47:25 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-01-31T16:48:23Z">2017-01-31T16:48:23 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5897,16 +5897,14 @@ Metadata errors: 38364
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-BR</span>
 <span class="widespan">pt br</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T16:47:11Z">2017-01-31T16:47:11 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T16:48:08Z">2017-01-31T16:48:08 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-dev.conllu
 
-[Line                   49]: Missing the sent_id attribute.
-*** FAILED *** with 1 errors
-Metadata errors: 1
+*** PASSED ***
 
 
 ******************
