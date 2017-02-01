@@ -23,5 +23,3 @@ The syntactic annotation has been automatically converted from the original anno
 * For UD Swedish:
    * Comparative modifiers are sometimes not attached to the comparative element itself but to its head.
    * Absolute constructions are not annotated as clauses but as prepositional phrases with modifiers.
-
-* For UD Swedish-LinES:
