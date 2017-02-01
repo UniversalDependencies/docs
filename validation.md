@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T11:26:49Z">2017-02-01T11:26:49 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T13:48:45Z">2017-02-01T13:48:45 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1483,25 +1483,20 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T08:11:12Z">2017-02-01T08:11:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T13:48:40Z">2017-02-01T13:48:40 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
 
-[Line                   15]: Unknown UD DEPREL: flat:name
 [Line                   17]: Missing the sent_id attribute.
 [Line                   17]: Missing the text attribute.
-[Line                   20]: Unknown UD DEPREL: flat:name
 [Line                   21]: Missing the sent_id attribute.
 [Line                   21]: Missing the text attribute.
-[Line                   27]: Unknown UD DEPREL: flat:name
-[Line                   38]: Unknown UD DEPREL: acl:relcl
 [Line                   47]: Missing the sent_id attribute.
 [Line                   47]: Missing the text attribute.
 [Line                   55]: Missing the sent_id attribute.
 [Line                   55]: Missing the text attribute.
-[Line                   69]: Unknown UD DEPREL: flat:name
 [Line                   71]: Missing the sent_id attribute.
 [Line                   71]: Missing the text attribute.
 [Line                   88]: Missing the sent_id attribute.
@@ -1512,27 +1507,12 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 [Line                   108]: Missing the text attribute.
 [Line                   117]: Missing the sent_id attribute.
 [Line                   117]: Missing the text attribute.
-[Line                   120]: Unknown UD DEPREL: flat:name
-[Line                   121]: Unknown UD DEPREL: flat:name
 [Line                   125]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
 [Line                   163]: Spurious morphological feature: 'Foreign=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   163]: Repeated features are disallowed: Foreign=yes
-[Line                   163]: Unknown UD DEPREL: flat:name
-[Line                   188]: Unknown UD DEPREL: flat:name
-[Line                   189]: Unknown UD DEPREL: flat:name
-[Line                   190]: Unknown UD DEPREL: flat:name
-[Line                   201]: Unknown UD DEPREL: flat:name
-[Line                   239]: Unknown UD DEPREL: flat:name
-[Line                   240]: Unknown UD DEPREL: flat:name
-[Line                   241]: Unknown UD DEPREL: flat:name
-[Line                   242]: Unknown UD DEPREL: flat:name
-[Line                   243]: Unknown UD DEPREL: flat:name
-[Line                   244]: Unknown UD DEPREL: flat:name
 [Line                   260]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   260]: Repeated features are disallowed: Abbr=yes
-[Line                   272]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
 [Line                   503]: Spurious morphological feature: 'Foreign=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   503]: Repeated features are disallowed: Foreign=yes
 [Line                   504]: Spurious morphological feature: 'Foreign=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
@@ -1549,56 +1529,35 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 [Line                   1974]: Repeated features are disallowed: Abbr=yes
 [Line                   2031]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1119 errors
+*** FAILED *** with 766 errors
 Metadata errors: 700
 Morpho errors: 66
-Syntax errors: 353
 
 
 ******************
 
-python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
 
-[Line                   5]: Unknown UD DEPREL: flat:name
-[Line                   6]: Unknown UD DEPREL: flat:name
 [Line                   7]: Missing the sent_id attribute.
 [Line                   7]: Missing the text attribute.
-[Line                   10]: Unknown UD DEPREL: flat:name
-[Line                   11]: Unknown UD DEPREL: flat:name
-[Line                   15]: Unknown UD DEPREL: flat:name
-[Line                   16]: Unknown UD DEPREL: flat:name
-[Line                   17]: Unknown UD DEPREL: flat:name
-[Line                   18]: Unknown UD DEPREL: flat:name
-[Line                   19]: Unknown UD DEPREL: flat:name
 [Line                   31]: Missing the sent_id attribute.
 [Line                   31]: Missing the text attribute.
 [Line                   34]: Missing the sent_id attribute.
 [Line                   34]: Missing the text attribute.
-[Line                   38]: Unknown UD DEPREL: aux:pass
-[Line                   41]: Unknown UD DEPREL: nsubj:pass
 [Line                   51]: Missing the sent_id attribute.
 [Line                   51]: Missing the text attribute.
-[Line                   62]: Unknown UD DEPREL: flat:name
-[Line                   63]: Unknown UD DEPREL: flat:name
 [Line                   69]: Missing the sent_id attribute.
 [Line                   69]: Missing the text attribute.
 [Line                   79]: Missing the sent_id attribute.
 [Line                   79]: Missing the text attribute.
-[Line                   117]: Unknown UD DEPREL: acl:relcl
-[Line                   118]: Unknown UD DEPREL: aux:pass
 [Line                   122]: Missing the sent_id attribute.
 [Line                   122]: Missing the text attribute.
-[Line                   127]: Unknown UD DEPREL: flat:name
 [Line                   128]: Missing the sent_id attribute.
 [Line                   128]: Missing the text attribute.
 [Line                   137]: Missing the sent_id attribute.
 [Line                   137]: Missing the text attribute.
 [Line                   141]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-[Line                   161]: Unknown UD DEPREL: flat:name
-[Line                   162]: Unknown UD DEPREL: flat:name
-[Line                   171]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
 [Line                   834]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   834]: Repeated features are disallowed: Abbr=yes
 [Line                   1057]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
@@ -1620,13 +1579,16 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 [Line                   3833]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 ...suppressing further errors regarding Morpho
 [Tree number 3054 on line 46926]: HEAD == ID for 13
+[Tree number 3054 on line 46926]: Non-tree structure. Words 13,14,15,16,17 are not reachable from the root 0.
 [Tree number 3151 on line 48233]: HEAD == ID for 25
+[Tree number 3151 on line 48233]: Non-tree structure. Words 25,26,27,28,29,30,31,33,34,35,36,37,38,40,41,42,43,45,46,47,48,49,50,51,52,53 are not reachable from the root 0.
 [Tree number 3654 on line 55833]: HEAD == ID for 14
-*** FAILED *** with 21333 errors
+[Tree number 3654 on line 55833]: Non-tree structure. Words 12,13,14,15,16 are not reachable from the root 0.
+*** FAILED *** with 14270 errors
 Format errors: 3
 Metadata errors: 13282
 Morpho errors: 982
-Syntax errors: 7066
+Syntax errors: 3
 
 
 ******************
