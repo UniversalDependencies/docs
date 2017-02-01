@@ -13,7 +13,7 @@ expresses categories such as tense, mood, aspect, voice or evidentiality. It is 
 (which may have non-auxiliary uses as well) but many languages have nonverbal TAME markers and these
 are also treated as instances of `aux`. 
 
-**New from v2:** Auxiliares used to construct the passive voice [voice](u-feat/Voice) are now also labeled `aux`,
+**New from v2:** Auxiliares used to construct the passive [voice](u-feat/Voice) are now also labeled `aux`,
 although we strongly encourage the use of the subtype `aux:pass` in language that have a grammaticalized (periphrastic)
 passive. 
 
