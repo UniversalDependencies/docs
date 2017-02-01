@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T08:11:17Z">2017-02-01T08:11:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T08:49:26Z">2017-02-01T08:49:26 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6513,11 +6513,11 @@ python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T09:59:40Z">2017-01-31T09:59:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T08:49:23Z">2017-02-01T08:49:23 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
 
 [Line                   17]: Unknown UD DEPREL: nsubj:pass
 [Line                   30]: Unknown UD DEPREL: nsubj:pass
@@ -6561,7 +6561,7 @@ Syntax errors: 136
 
 ******************
 
-python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
 
 [Line                   83]: Unknown UD DEPREL: aux:pass
 [Line                   88]: Unknown UD DEPREL: aux:pass
