@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T10:02:31Z">2017-02-01T10:02:31 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T10:03:49Z">2017-02-01T10:03:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4535,63 +4535,21 @@ Syntax errors: 308
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T10:02:11Z">2017-02-01T10:02:11 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T10:03:46Z">2017-02-01T10:03:46 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ko UD-dev-branches/UD_Korean/ko-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ko /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Korean/ko-ud-dev.conllu
 
-[Line                   28]: Unknown UD DEPREL: det:poss
-[Line                   32]: Unknown UD DEPREL: det:poss
-[Line                   84]: Unknown UD DEPREL: det:poss
-[Line                   86]: Unknown UD DEPREL: acl:relcl
-[Line                   92]: Unknown UD DEPREL: det:poss
-[Line                   95]: Unknown UD DEPREL: nsubj:pass
-[Line                   126]: Unknown UD DEPREL: acl:relcl
-[Line                   153]: Unknown UD DEPREL: acl:relcl
-[Line                   158]: Unknown UD DEPREL: acl:relcl
-[Line                   189]: Unknown UD DEPREL: acl:relcl
-[Line                   194]: Unknown UD DEPREL: acl:relcl
-[Line                   197]: Unknown UD DEPREL: det:poss
-[Line                   218]: Unknown UD DEPREL: nsubj:pass
-[Line                   220]: Unknown UD DEPREL: acl:relcl
-[Line                   221]: Unknown UD DEPREL: det:poss
-[Line                   227]: Unknown UD DEPREL: acl:relcl
-[Line                   232]: Unknown UD DEPREL: acl:relcl
-[Line                   241]: Unknown UD DEPREL: det:poss
-[Line                   252]: Unknown UD DEPREL: acl:relcl
-...suppressing further errors regarding Syntax
-*** FAILED *** with 949 errors
-Syntax errors: 949
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ko UD-dev-branches/UD_Korean/ko-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ko /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Korean/ko-ud-train.conllu
 
-[Line                   14]: Unknown UD DEPREL: det:poss
-[Line                   21]: Unknown UD DEPREL: det:poss
-[Line                   23]: Unknown UD DEPREL: acl:relcl
-[Line                   30]: Unknown UD DEPREL: acl:relcl
-[Line                   37]: Unknown UD DEPREL: acl:relcl
-[Line                   59]: Unknown UD DEPREL: acl:relcl
-[Line                   60]: Unknown UD DEPREL: nsubj:pass
-[Line                   65]: Unknown UD DEPREL: acl:relcl
-[Line                   72]: Unknown UD DEPREL: acl:relcl
-[Line                   73]: Unknown UD DEPREL: det:poss
-[Line                   74]: Unknown UD DEPREL: nsubj:pass
-[Line                   87]: Unknown UD DEPREL: det:poss
-[Line                   92]: Unknown UD DEPREL: det:poss
-[Line                   104]: Unknown UD DEPREL: det:poss
-[Line                   108]: Unknown UD DEPREL: nsubj:pass
-[Line                   118]: Unknown UD DEPREL: nsubj:pass
-[Line                   128]: Unknown UD DEPREL: acl:relcl
-[Line                   130]: Unknown UD DEPREL: acl:relcl
-[Line                   146]: Unknown UD DEPREL: acl:relcl
-...suppressing further errors regarding Syntax
-*** FAILED *** with 4535 errors
-Syntax errors: 4535
+*** PASSED ***
 
 
 ******************
