@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T09:17:36Z">2017-02-01T09:17:36 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T09:50:26Z">2017-02-01T09:50:26 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2923,146 +2923,104 @@ Syntax errors: 4346
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:56:56Z">2017-01-30T14:56:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T09:50:25Z">2017-02-01T09:50:25 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
-[Line                   7]: Missing the sent_id attribute.
-[Line                   7]: Missing the text attribute.
-[Line                   11]: Missing the sent_id attribute.
-[Line                   11]: Missing the text attribute.
-[Line                   26]: Unknown UD DEPREL: dobj
-[Line                   37]: Missing the sent_id attribute.
-[Line                   37]: Missing the text attribute.
-[Line                   42]: Unknown UD DEPREL: dobj
-[Line                   46]: Missing the sent_id attribute.
-[Line                   46]: Missing the text attribute.
-[Line                   51]: Unknown UD DEPREL: dobj
-[Line                   53]: Missing the sent_id attribute.
-[Line                   53]: Missing the text attribute.
-[Line                   55]: Unknown UPOS tag: CONJ
-[Line                   68]: Unknown UD DEPREL: dobj
-[Line                   73]: Unknown UD DEPREL: dobj
-[Line                   74]: Unknown UPOS tag: CONJ
-[Line                   76]: Unknown attribute-value pair PronType=Clit
-[Line                   82]: Unknown UD DEPREL: dobj
-[Line                   84]: Missing the sent_id attribute.
-[Line                   84]: Missing the text attribute.
-[Line                   86]: Unknown UPOS tag: CONJ
-[Line                   100]: Unknown UD DEPREL: neg
-[Line                   102]: Unknown UD DEPREL: dobj
-[Line                   108]: Unknown UPOS tag: CONJ
-[Line                   120]: Unknown UD DEPREL: dobj
-[Line                   124]: Unknown UD DEPREL: dobj
-[Line                   128]: Unknown UD DEPREL: dobj
-[Line                   130]: Missing the sent_id attribute.
-[Line                   130]: Missing the text attribute.
-[Line                   136]: Unknown attribute-value pair PronType=Clit
-[Line                   141]: Unknown UPOS tag: CONJ
-[Line                   152]: Unknown UPOS tag: CONJ
-[Line                   161]: Unknown UD DEPREL: dobj
-[Line                   163]: Unknown UD DEPREL: neg
-[Line                   166]: Unknown UD DEPREL: dobj
-[Line                   168]: Missing the sent_id attribute.
-[Line                   168]: Missing the text attribute.
-[Line                   172]: Unknown UD DEPREL: neg
-[Line                   179]: Unknown UD DEPREL: remnant
-[Line                   181]: Unknown UD DEPREL: dobj
-[Line                   188]: Unknown UPOS tag: CONJ
-[Line                   194]: Unknown UD DEPREL: dobj
-[Line                   198]: Unknown UD DEPREL: dobj
+[Line                   6]: Unknown UD DEPREL: flat:name
+[Line                   7]: Unknown UD DEPREL: flat:name
+[Line                   8]: Unknown UD DEPREL: flat:name
+[Line                   9]: Unknown UD DEPREL: flat:name
+[Line                   17]: Spurious empty line.
+[Line                   47]: Spurious empty line.
+[Line                   62]: Unknown UD DEPREL: flat:name
+[Line                   63]: Unknown UD DEPREL: flat:name
+[Line                   67]: Unknown UD DEPREL: flat:name
+[Line                   70]: Spurious empty line.
+[Line                   136]: Spurious empty line.
+[Line                   169]: Unknown UD DEPREL: flat:name
+[Line                   202]: Spurious empty line.
+[Line                   221]: Unknown UD DEPREL: flat:name
+[Line                   252]: Spurious empty line.
+[Line                   280]: Spurious empty line.
+[Line                   307]: Spurious empty line.
+[Line                   333]: Unknown UD DEPREL: flat:name
+[Line                   348]: Unknown UD DEPREL: flat:name
+[Line                   349]: Unknown UD DEPREL: flat:name
+[Line                   352]: Spurious empty line.
+[Line                   380]: Spurious empty line.
+[Line                   427]: Spurious empty line.
+[Line                   436]: Spurious empty line.
+[Line                   445]: Spurious empty line.
+[Line                   458]: Spurious empty line.
+[Line                   472]: Spurious empty line.
+[Line                   485]: Spurious empty line.
+[Line                   490]: Unknown UD DEPREL: flat:name
+[Line                   494]: Spurious empty line.
+[Line                   499]: Unknown UD DEPREL: flat:name
+[Line                   500]: Unknown UD DEPREL: flat:name
+[Line                   508]: Unknown UD DEPREL: flat:name
+[Line                   516]: Unknown UD DEPREL: flat:name
+[Line                   524]: Spurious empty line.
+[Line                   533]: Spurious empty line.
+...suppressing further errors regarding Format
+[Line                   580]: Unknown UD DEPREL: flat:name
+[Line                   601]: Unknown UD DEPREL: flat:name
 ...suppressing further errors regarding Syntax
-[Line                   206]: Missing the sent_id attribute.
-[Line                   206]: Missing the text attribute.
-[Line                   223]: Unknown UPOS tag: CONJ
-[Line                   225]: Unknown UPOS tag: CONJ
-[Line                   235]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   242]: Unknown UPOS tag: CONJ
-[Line                   250]: Unknown attribute-value pair PronType=Clit
-[Line                   270]: Unknown attribute-value pair PronType=Clit
-[Line                   323]: Unknown attribute-value pair PronType=Clit
-[Line                   354]: Unknown UPOS tag: CONJ
-[Line                   398]: Unknown attribute-value pair PronType=Clit
-[Line                   422]: Unknown UPOS tag: CONJ
-[Line                   442]: Unknown attribute-value pair PronType=Clit
-...suppressing further errors regarding Morpho
-*** FAILED *** with 488 errors
-Metadata errors: 200
-Morpho errors: 124
-Syntax errors: 164
+*** FAILED *** with 821 errors
+Format errors: 399
+Syntax errors: 422
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
-[Line                   6]: Unknown UD DEPREL: dobj
-[Line                   10]: Missing the sent_id attribute.
-[Line                   10]: Missing the text attribute.
-[Line                   25]: Unknown UPOS tag: CONJ
-[Line                   29]: Missing the sent_id attribute.
-[Line                   29]: Missing the text attribute.
-[Line                   37]: Unknown UD DEPREL: dobj
-[Line                   47]: Unknown UD DEPREL: dobj
-[Line                   57]: Missing the sent_id attribute.
-[Line                   57]: Missing the text attribute.
-[Line                   63]: Missing the sent_id attribute.
-[Line                   63]: Missing the text attribute.
-[Line                   76]: Unknown UPOS tag: CONJ
-[Line                   79]: Missing the sent_id attribute.
-[Line                   79]: Missing the text attribute.
-[Line                   96]: Unknown UPOS tag: CONJ
-[Line                   104]: Unknown UPOS tag: CONJ
-[Line                   113]: Unknown UPOS tag: CONJ
-[Line                   126]: Unknown UPOS tag: CONJ
-[Line                   129]: Unknown UD DEPREL: neg
-[Line                   131]: Unknown UD DEPREL: auxpass
-[Line                   133]: Unknown UPOS tag: CONJ
-[Line                   147]: Unknown UD DEPREL: dobj
-[Line                   153]: Unknown UPOS tag: CONJ
-[Line                   159]: Unknown UPOS tag: CONJ
-[Line                   161]: Unknown UD DEPREL: dobj
-[Line                   164]: Unknown attribute-value pair PronType=Clit
-[Line                   164]: Unknown UD DEPREL: dobj
-[Line                   176]: Unknown UD DEPREL: dobj
-[Line                   183]: Unknown UPOS tag: CONJ
-[Line                   188]: Unknown attribute-value pair PronType=Clit
-[Line                   188]: Unknown UD DEPREL: dobj
-[Line                   199]: Unknown UD DEPREL: dobj
-[Line                   208]: Unknown UD DEPREL: auxpass
-[Line                   218]: Unknown UPOS tag: CONJ
-[Line                   225]: Missing the sent_id attribute.
-[Line                   225]: Missing the text attribute.
-[Line                   240]: Unknown UPOS tag: CONJ
-[Line                   248]: Unknown UD DEPREL: dobj
-[Line                   252]: Unknown UPOS tag: CONJ
-[Line                   262]: Unknown UPOS tag: CONJ
-[Line                   279]: Unknown UD DEPREL: dobj
-[Line                   287]: Unknown UPOS tag: CONJ
-[Line                   299]: Unknown UPOS tag: CONJ
-[Line                   310]: Missing the sent_id attribute.
-[Line                   310]: Missing the text attribute.
-[Line                   319]: Unknown attribute-value pair PronType=Clit
-[Line                   326]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Morpho
-[Line                   342]: Unknown UD DEPREL: neg
-[Line                   346]: Unknown UD DEPREL: dobj
-[Line                   374]: Missing the sent_id attribute.
-[Line                   374]: Missing the text attribute.
-[Line                   390]: Unknown UD DEPREL: dobj
-[Line                   395]: Unknown UD DEPREL: dobj
-[Line                   436]: Missing the sent_id attribute.
-[Line                   436]: Missing the text attribute.
+[Line                   90]: Spurious empty line.
+[Line                   99]: Spurious empty line.
+[Line                   121]: Unknown UD DEPREL: flat:name
+[Line                   122]: Unknown UD DEPREL: flat:name
+[Line                   123]: Unknown UD DEPREL: flat:name
+[Line                   124]: Unknown UD DEPREL: flat:name
+[Line                   127]: Spurious empty line.
+[Line                   133]: Spurious empty line.
+[Line                   168]: Spurious empty line.
+[Line                   196]: Spurious empty line.
+[Line                   211]: Spurious empty line.
+[Line                   221]: Unknown UD DEPREL: flat:name
+[Line                   222]: Unknown UD DEPREL: flat:name
+[Line                   225]: Spurious empty line.
+[Line                   273]: Unknown UD DEPREL: flat:name
+[Line                   274]: Unknown UD DEPREL: flat:name
+[Line                   278]: Unknown UD DEPREL: flat:name
+[Line                   279]: Unknown UD DEPREL: flat:name
+[Line                   280]: Unknown UD DEPREL: flat:name
+[Line                   281]: Unknown UD DEPREL: flat:name
+[Line                   282]: Unknown UD DEPREL: flat:name
+[Line                   285]: Spurious empty line.
+[Line                   294]: Spurious empty line.
+[Line                   318]: Spurious empty line.
+[Line                   328]: Unknown UD DEPREL: flat:name
+[Line                   353]: Spurious empty line.
+[Line                   387]: Spurious empty line.
+[Line                   439]: Spurious empty line.
+[Line                   454]: Spurious empty line.
+[Line                   494]: Spurious empty line.
+[Line                   548]: Spurious empty line.
+[Line                   588]: Spurious empty line.
+[Line                   604]: Unknown UD DEPREL: flat:name
+[Line                   637]: Spurious empty line.
+...suppressing further errors regarding Format
+[Line                   740]: Unknown UD DEPREL: flat:name
+[Line                   741]: Unknown UD DEPREL: flat:name
+[Line                   750]: Unknown UD DEPREL: flat:name
+[Line                   751]: Unknown UD DEPREL: flat:name
 ...suppressing further errors regarding Syntax
-[Line                   512]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 3674 errors
-Metadata errors: 1600
-Morpho errors: 924
-Syntax errors: 1150
+*** FAILED *** with 357 errors
+Format errors: 199
+Syntax errors: 158
 
 
 ******************
