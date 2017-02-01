@@ -6,15 +6,21 @@ permalink: sv/overview/syntax.html
 
 # Syntax
 
-The syntactic annotation in the Swedish UD treebank follows the general guidelines but adds four language-specific relations:
+The syntactic annotation in the Swedish UD treebanks follows the general guidelines but adds eight language-specific relations:
 
 * _acl:relcl_ for relative clauses
+* _aux:pass_ for passive auxiliaries 
 * _compound:prt_ for verb particles
-* _nmod:agent_ for agents of passive verbs
+* _csubj:pass_ for clausal subjects of passive verbs
+* _flat:name_ for exocentric complex names
 * _nmod:poss_ for possessive/genitive modifiers
+* _nsubj:pass_ for nominal subjects of passive verbs
+* _obl:agent_ for agents of passive verbs
 
-The syntactic annotation has been automatically converted from the original MAMBA annotation scheme in Talbanken. The following phenomena are known to deviate from the general guidelines and will be fixed in future versions:
+The syntactic annotation has been automatically converted from the original annotation schemes (the MAMBA annotation scheme in Talbanken for UD Swedish, and the LinES annotation scheme for UD Swedish-LinES). The conversions have been checked manually and corrected on a systematic basis, but a few minor deviations from the guidelines are known to remain. 
 
-* The _remnant_ analysis of ellipsis has not been fully implemented.
-* Complex names with compositional internal structure are annotated in the same way as non-compositional cases.
-* Comparative modifiers are sometimes not attached to the comparative element itself but to its head.
+* For UD Swedish:
+   * Comparative modifiers are sometimes not attached to the comparative element itself but to its head.
+   * Absolute constructions are not annotated as clauses but as prepositional phrases with modifiers.
+
+* For UD Swedish-LinES:
