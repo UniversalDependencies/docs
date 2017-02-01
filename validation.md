@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T13:51:17Z">2017-02-01T13:51:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T14:33:33Z">2017-02-01T14:33:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6197,49 +6197,21 @@ python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T08:55:36Z">2017-02-01T08:55:36 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T14:33:30Z">2017-02-01T14:33:30 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
+python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
 
-[Line                   3147]: Mismatch between the text attribute and the FORM field. Form is 'Work' but text is 'x Work....'
-[Line                   3147]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x Work....'
-[Line                   3147]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x Work.'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'York' but text is 'york Times och dessutom ...'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Times' but text is 'york Times och dessutom t...'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'och' but text is 'york Times och dessutom...'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'dessutom' but text is 'york Times och dessutom till...'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'till' but text is 'york Times och dessutom ...'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Katherine' but text is 'york Times och dessutom till ...'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Graham' but text is 'york Times och dessutom ti...'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'på' but text is 'york Times och dessuto...'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Washington' but text is 'york Times och dessutom till K...'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Post' but text is 'york Times och dessutom ...'
-[Line                   7555]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'york Times och dessut...'
-[Line                   7555]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'york Times och dessutom till Katherine Graham på Washington Post.'
-*** FAILED *** with 15 errors
-Metadata errors: 15
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
+python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
 
-[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'Work' but text is 'x Work skulle ha tänkt o...'
-[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'skulle' but text is 'x Work skulle ha tänkt om ...'
-[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'ha' but text is 'x Work skulle ha tänkt...'
-[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'tänkt' but text is 'x Work skulle ha tänkt om...'
-[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'om' but text is 'x Work skulle ha tänkt...'
-[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'han' but text is 'x Work skulle ha tänkt ...'
-[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'hade' but text is 'x Work skulle ha tänkt o...'
-[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'varit' but text is 'x Work skulle ha tänkt om...'
-[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'där' but text is 'x Work skulle ha tänkt ...'
-[Line                   8543]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x Work skulle ha tänk...'
-[Line                   8543]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x Work skulle ha tänkt om han hade varit där.'
-*** FAILED *** with 11 errors
-Metadata errors: 11
+*** PASSED ***
 
 
 ******************
