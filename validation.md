@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T09:53:28Z">2017-02-01T09:53:28 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T09:59:38Z">2017-02-01T09:59:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2923,7 +2923,7 @@ Syntax errors: 4346
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T09:53:27Z">2017-02-01T09:53:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T09:59:37Z">2017-02-01T09:59:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2933,44 +2933,23 @@ python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/g
 [Line                   7]: Unknown UD DEPREL: flat:name
 [Line                   8]: Unknown UD DEPREL: flat:name
 [Line                   9]: Unknown UD DEPREL: flat:name
-[Line                   17]: Spurious empty line.
-[Line                   47]: Spurious empty line.
-[Line                   62]: Unknown UD DEPREL: flat:name
-[Line                   63]: Unknown UD DEPREL: flat:name
-[Line                   67]: Unknown UD DEPREL: flat:name
-[Line                   70]: Spurious empty line.
-[Line                   136]: Spurious empty line.
-[Line                   169]: Unknown UD DEPREL: flat:name
-[Line                   202]: Spurious empty line.
-[Line                   221]: Unknown UD DEPREL: flat:name
-[Line                   252]: Spurious empty line.
-[Line                   280]: Spurious empty line.
-[Line                   307]: Spurious empty line.
-[Line                   333]: Unknown UD DEPREL: flat:name
-[Line                   348]: Unknown UD DEPREL: flat:name
-[Line                   349]: Unknown UD DEPREL: flat:name
-[Line                   352]: Spurious empty line.
-[Line                   380]: Spurious empty line.
-[Line                   427]: Spurious empty line.
-[Line                   436]: Spurious empty line.
-[Line                   445]: Spurious empty line.
-[Line                   458]: Spurious empty line.
-[Line                   472]: Spurious empty line.
-[Line                   485]: Spurious empty line.
-[Line                   490]: Unknown UD DEPREL: flat:name
-[Line                   494]: Spurious empty line.
+[Line                   60]: Unknown UD DEPREL: flat:name
+[Line                   61]: Unknown UD DEPREL: flat:name
+[Line                   65]: Unknown UD DEPREL: flat:name
+[Line                   165]: Unknown UD DEPREL: flat:name
+[Line                   216]: Unknown UD DEPREL: flat:name
+[Line                   325]: Unknown UD DEPREL: flat:name
+[Line                   340]: Unknown UD DEPREL: flat:name
+[Line                   341]: Unknown UD DEPREL: flat:name
+[Line                   474]: Unknown UD DEPREL: flat:name
+[Line                   482]: Unknown UD DEPREL: flat:name
+[Line                   483]: Unknown UD DEPREL: flat:name
+[Line                   491]: Unknown UD DEPREL: flat:name
 [Line                   499]: Unknown UD DEPREL: flat:name
-[Line                   500]: Unknown UD DEPREL: flat:name
-[Line                   508]: Unknown UD DEPREL: flat:name
-[Line                   516]: Unknown UD DEPREL: flat:name
-[Line                   524]: Spurious empty line.
-[Line                   533]: Spurious empty line.
-...suppressing further errors regarding Format
-[Line                   580]: Unknown UD DEPREL: flat:name
-[Line                   601]: Unknown UD DEPREL: flat:name
+[Line                   560]: Unknown UD DEPREL: flat:name
+[Line                   581]: Unknown UD DEPREL: flat:name
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 821 errors
-Format errors: 399
+*** FAILED *** with 422 errors
 Syntax errors: 422
 
 
@@ -2978,48 +2957,27 @@ Syntax errors: 422
 
 python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
-[Line                   90]: Spurious empty line.
-[Line                   99]: Spurious empty line.
+[Line                   119]: Unknown UD DEPREL: flat:name
+[Line                   120]: Unknown UD DEPREL: flat:name
 [Line                   121]: Unknown UD DEPREL: flat:name
 [Line                   122]: Unknown UD DEPREL: flat:name
-[Line                   123]: Unknown UD DEPREL: flat:name
-[Line                   124]: Unknown UD DEPREL: flat:name
-[Line                   127]: Spurious empty line.
-[Line                   133]: Spurious empty line.
-[Line                   168]: Spurious empty line.
-[Line                   196]: Spurious empty line.
-[Line                   211]: Spurious empty line.
-[Line                   221]: Unknown UD DEPREL: flat:name
-[Line                   222]: Unknown UD DEPREL: flat:name
-[Line                   225]: Spurious empty line.
+[Line                   214]: Unknown UD DEPREL: flat:name
+[Line                   215]: Unknown UD DEPREL: flat:name
+[Line                   265]: Unknown UD DEPREL: flat:name
+[Line                   266]: Unknown UD DEPREL: flat:name
+[Line                   270]: Unknown UD DEPREL: flat:name
+[Line                   271]: Unknown UD DEPREL: flat:name
+[Line                   272]: Unknown UD DEPREL: flat:name
 [Line                   273]: Unknown UD DEPREL: flat:name
 [Line                   274]: Unknown UD DEPREL: flat:name
-[Line                   278]: Unknown UD DEPREL: flat:name
-[Line                   279]: Unknown UD DEPREL: flat:name
-[Line                   280]: Unknown UD DEPREL: flat:name
-[Line                   281]: Unknown UD DEPREL: flat:name
-[Line                   282]: Unknown UD DEPREL: flat:name
-[Line                   285]: Spurious empty line.
-[Line                   294]: Spurious empty line.
-[Line                   318]: Spurious empty line.
-[Line                   328]: Unknown UD DEPREL: flat:name
-[Line                   353]: Spurious empty line.
-[Line                   387]: Spurious empty line.
-[Line                   439]: Spurious empty line.
-[Line                   454]: Spurious empty line.
-[Line                   494]: Spurious empty line.
-[Line                   548]: Spurious empty line.
-[Line                   588]: Spurious empty line.
-[Line                   604]: Unknown UD DEPREL: flat:name
-[Line                   637]: Spurious empty line.
-...suppressing further errors regarding Format
-[Line                   740]: Unknown UD DEPREL: flat:name
-[Line                   741]: Unknown UD DEPREL: flat:name
-[Line                   750]: Unknown UD DEPREL: flat:name
-[Line                   751]: Unknown UD DEPREL: flat:name
+[Line                   317]: Unknown UD DEPREL: flat:name
+[Line                   586]: Unknown UD DEPREL: flat:name
+[Line                   718]: Unknown UD DEPREL: flat:name
+[Line                   719]: Unknown UD DEPREL: flat:name
+[Line                   728]: Unknown UD DEPREL: flat:name
+[Line                   729]: Unknown UD DEPREL: flat:name
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 357 errors
-Format errors: 199
+*** FAILED *** with 158 errors
 Syntax errors: 158
 
 
