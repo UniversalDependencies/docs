@@ -18,7 +18,7 @@ det(ⲡⲉ, ⲧ)
 Note also that prepositional arguments of verbs are also marked as `nmod`, including prepositional objects of verbs of perception:
 
 ~~~ sdparse
-ⲁⲣ/AUX ⲥⲱⲧⲙ/VERB ⲉⲣⲟ/ADP ⲓ/PRON \n You have heard me
+ⲁⲣ/PRON ⲥⲱⲧⲙ/VERB ⲉⲣⲟ/ADP ⲓ/PRON \n You have heard me
 
 nsubj(ⲥⲱⲧⲙ, ⲁⲣ)
 nmod(ⲥⲱⲧⲙ, ⲓ)
