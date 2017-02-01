@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T05:01:56Z">2017-02-01T05:01:56 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T06:07:09Z">2017-02-01T06:07:09 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2593,63 +2593,21 @@ Syntax errors: 16265
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T05:01:46Z">2017-02-01T05:01:46 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T06:06:59Z">2017-02-01T06:06:59 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
-[Line                   380]: Mismatch between the text attribute and the FORM field. Form is 'Ehkei' but text is 'Ehk ei se tullut ....'
-[Line                   380]: Mismatch between the text attribute and the FORM field. Form is 'se' but text is 'Ehk ei se tullut ....'
-[Line                   380]: Mismatch between the text attribute and the FORM field. Form is 'tullut' but text is 'Ehk ei se tullut ....'
-[Line                   380]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'Ehk ei se tullut ....'
-[Line                   380]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Ehk ei se tullut .'
-[Line                   411]: Mismatch between the text attribute and the FORM field. Form is 'etteivät' but text is 'ett eivät --...'
-[Line                   411]: Mismatch between the text attribute and the FORM field. Form is '--' but text is 'ett eivät --...'
-[Line                   411]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett eivät --'
-[Line                   965]: Mismatch between the text attribute and the FORM field. Form is 'etteivät' but text is 'ett eivät housunpuntit töhrä...'
-[Line                   965]: Mismatch between the text attribute and the FORM field. Form is 'housunpuntit' but text is 'ett eivät housunpuntit töhräänny...'
-[Line                   965]: Mismatch between the text attribute and the FORM field. Form is 'töhräänny' but text is 'ett eivät housunpuntit töhrää...'
-[Line                   965]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ett eivät housunpunti...'
-[Line                   965]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett eivät housunpuntit töhräänny .'
-[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'ellei' but text is 'ell ei anna ilmi kavereit...'
-[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'anna' but text is 'ell ei anna ilmi kaverei...'
-[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'ilmi' but text is 'ell ei anna ilmi kaverei...'
-[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'kavereitaan' but text is 'ell ei anna ilmi kavereitaan . ...'
-[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ell ei anna ilmi kave...'
-[Line                   1606]: Mismatch between the text attribute and the FORM field. Form is '"' but text is 'ell ei anna ilmi kave...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 208 errors
-Metadata errors: 208
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
-[Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'ettei' but text is 'ett ei sateevarjo kukkaam...'
-[Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'sateevarjo' but text is 'ett ei sateevarjo kukkaam pitä...'
-[Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'kukkaam' but text is 'ett ei sateevarjo kukkaam p...'
-[Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'pitäis' but text is 'ett ei sateevarjo kukkaam ...'
-[Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'siäl' but text is 'ett ei sateevarjo kukkaa...'
-[Line                   143]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ett ei sateevarjo kuk...'
-[Line                   143]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett ei sateevarjo kukkaam pitäis siäl .'
-[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'etten' but text is 'ett en ollut tuntenut hän...'
-[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'ollut' but text is 'ett en ollut tuntenut hän...'
-[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'tuntenut' but text is 'ett en ollut tuntenut häntä ...'
-[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'häntä' but text is 'ett en ollut tuntenut hän...'
-[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'ilman' but text is 'ett en ollut tuntenut hän...'
-[Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'silmälaseja' but text is 'ett en ollut tuntenut häntä ilm...'
-[Line                   833]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ett en ollut tuntenut...'
-[Line                   833]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett en ollut tuntenut häntä ilman silmälaseja .'
-[Line                   1542]: Mismatch between the text attribute and the FORM field. Form is 'Miksei' but text is 'Miks ei mentäs naimisiin ?...'
-[Line                   1542]: Mismatch between the text attribute and the FORM field. Form is 'mentäs' but text is 'Miks ei mentäs naimisiin ?...'
-[Line                   1542]: Mismatch between the text attribute and the FORM field. Form is 'naimisiin' but text is 'Miks ei mentäs naimisiin ?...'
-[Line                   1542]: Mismatch between the text attribute and the FORM field. Form is '?' but text is 'Miks ei mentäs naimis...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 2009 errors
-Metadata errors: 2009
+*** PASSED ***
 
 
 ******************
