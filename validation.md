@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T08:49:26Z">2017-02-01T08:49:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T08:55:39Z">2017-02-01T08:55:39 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -6513,32 +6513,12 @@ python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T08:49:23Z">2017-02-01T08:49:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T08:55:36Z">2017-02-01T08:55:36 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
 
-[Line                   17]: Unknown UD DEPREL: nsubj:pass
-[Line                   30]: Unknown UD DEPREL: nsubj:pass
-[Line                   237]: Unknown UD DEPREL: nsubj:pass
-[Line                   245]: Unknown UD DEPREL: aux:pass
-[Line                   270]: Unknown UD DEPREL: nsubj:pass
-[Line                   280]: Unknown UD DEPREL: nsubj:pass
-[Line                   509]: Unknown UD DEPREL: nsubj:pass
-[Line                   547]: Unknown UD DEPREL: nsubj:pass
-[Line                   802]: Unknown UD DEPREL: nsubj:pass
-[Line                   919]: Unknown UD DEPREL: nsubj:pass
-[Line                   925]: Unknown UD DEPREL: nsubj:pass
-[Line                   944]: Unknown UD DEPREL: nsubj:pass
-[Line                   977]: Unknown UD DEPREL: nsubj:pass
-[Line                   1055]: Unknown UD DEPREL: aux:pass
-[Line                   1130]: Unknown UD DEPREL: nsubj:pass
-[Line                   1177]: Unknown UD DEPREL: nsubj:pass
-[Line                   1192]: Unknown UD DEPREL: nsubj:pass
-[Line                   1208]: Unknown UD DEPREL: nsubj:pass
-[Line                   1227]: Unknown UD DEPREL: aux:pass
-...suppressing further errors regarding Syntax
 [Line                   3147]: Mismatch between the text attribute and the FORM field. Form is 'Work' but text is 'x Work....'
 [Line                   3147]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x Work....'
 [Line                   3147]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x Work.'
@@ -6554,35 +6534,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/U
 [Line                   7555]: Mismatch between the text attribute and the FORM field. Form is 'Post' but text is 'york Times och dessutom ...'
 [Line                   7555]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'york Times och dessut...'
 [Line                   7555]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'york Times och dessutom till Katherine Graham på Washington Post.'
-*** FAILED *** with 151 errors
+*** FAILED *** with 15 errors
 Metadata errors: 15
-Syntax errors: 136
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
 
-[Line                   83]: Unknown UD DEPREL: aux:pass
-[Line                   88]: Unknown UD DEPREL: aux:pass
-[Line                   160]: Unknown UD DEPREL: aux:pass
-[Line                   190]: Unknown UD DEPREL: nsubj:pass
-[Line                   417]: Unknown UD DEPREL: aux:pass
-[Line                   453]: Unknown UD DEPREL: nsubj:pass
-[Line                   507]: Unknown UD DEPREL: aux:pass
-[Line                   755]: Unknown UD DEPREL: nsubj:pass
-[Line                   843]: Unknown UD DEPREL: nsubj:pass
-[Line                   889]: Unknown UD DEPREL: nsubj:pass
-[Line                   914]: Unknown UD DEPREL: aux:pass
-[Line                   933]: Unknown UD DEPREL: nsubj:pass
-[Line                   997]: Unknown UD DEPREL: nsubj:pass
-[Line                   1008]: Unknown UD DEPREL: nsubj:pass
-[Line                   1169]: Unknown UD DEPREL: aux:pass
-[Line                   1456]: Unknown UD DEPREL: nsubj:pass
-[Line                   1547]: Unknown UD DEPREL: nsubj:pass
-[Line                   1578]: Unknown UD DEPREL: nsubj:pass
-[Line                   1600]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
 [Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'Work' but text is 'x Work skulle ha tänkt o...'
 [Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'skulle' but text is 'x Work skulle ha tänkt om ...'
 [Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'ha' but text is 'x Work skulle ha tänkt...'
@@ -6594,9 +6553,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/U
 [Line                   8543]: Mismatch between the text attribute and the FORM field. Form is 'där' but text is 'x Work skulle ha tänkt ...'
 [Line                   8543]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x Work skulle ha tänk...'
 [Line                   8543]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x Work skulle ha tänkt om han hade varit där.'
-*** FAILED *** with 339 errors
+*** FAILED *** with 11 errors
 Metadata errors: 11
-Syntax errors: 328
 
 
 ******************
