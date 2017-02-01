@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T10:02:14Z">2017-02-01T10:02:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T10:02:31Z">2017-02-01T10:02:31 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2922,63 +2922,21 @@ Syntax errors: 4346
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T09:59:37Z">2017-02-01T09:59:37 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T10:02:29Z">2017-02-01T10:02:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
-[Line                   6]: Unknown UD DEPREL: flat:name
-[Line                   7]: Unknown UD DEPREL: flat:name
-[Line                   8]: Unknown UD DEPREL: flat:name
-[Line                   9]: Unknown UD DEPREL: flat:name
-[Line                   60]: Unknown UD DEPREL: flat:name
-[Line                   61]: Unknown UD DEPREL: flat:name
-[Line                   65]: Unknown UD DEPREL: flat:name
-[Line                   165]: Unknown UD DEPREL: flat:name
-[Line                   216]: Unknown UD DEPREL: flat:name
-[Line                   325]: Unknown UD DEPREL: flat:name
-[Line                   340]: Unknown UD DEPREL: flat:name
-[Line                   341]: Unknown UD DEPREL: flat:name
-[Line                   474]: Unknown UD DEPREL: flat:name
-[Line                   482]: Unknown UD DEPREL: flat:name
-[Line                   483]: Unknown UD DEPREL: flat:name
-[Line                   491]: Unknown UD DEPREL: flat:name
-[Line                   499]: Unknown UD DEPREL: flat:name
-[Line                   560]: Unknown UD DEPREL: flat:name
-[Line                   581]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
-*** FAILED *** with 422 errors
-Syntax errors: 422
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
-[Line                   119]: Unknown UD DEPREL: flat:name
-[Line                   120]: Unknown UD DEPREL: flat:name
-[Line                   121]: Unknown UD DEPREL: flat:name
-[Line                   122]: Unknown UD DEPREL: flat:name
-[Line                   214]: Unknown UD DEPREL: flat:name
-[Line                   215]: Unknown UD DEPREL: flat:name
-[Line                   265]: Unknown UD DEPREL: flat:name
-[Line                   266]: Unknown UD DEPREL: flat:name
-[Line                   270]: Unknown UD DEPREL: flat:name
-[Line                   271]: Unknown UD DEPREL: flat:name
-[Line                   272]: Unknown UD DEPREL: flat:name
-[Line                   273]: Unknown UD DEPREL: flat:name
-[Line                   274]: Unknown UD DEPREL: flat:name
-[Line                   317]: Unknown UD DEPREL: flat:name
-[Line                   586]: Unknown UD DEPREL: flat:name
-[Line                   718]: Unknown UD DEPREL: flat:name
-[Line                   719]: Unknown UD DEPREL: flat:name
-[Line                   728]: Unknown UD DEPREL: flat:name
-[Line                   729]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
-*** FAILED *** with 158 errors
-Syntax errors: 158
+*** PASSED ***
 
 
 ******************
