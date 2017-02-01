@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T19:06:43Z">2017-02-01T19:06:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T19:18:46Z">2017-02-01T19:18:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4956,54 +4956,54 @@ python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T19:06:26Z">2017-02-01T19:06:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T19:18:30Z">2017-02-01T19:18:30 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conllu
 
-[Line                   18]: Missing the sent_id attribute.
-[Line                   18]: Missing the text attribute.
-[Line                   32]: Missing the sent_id attribute.
-[Line                   32]: Missing the text attribute.
-[Line                   43]: Missing the sent_id attribute.
-[Line                   43]: Missing the text attribute.
-[Line                   57]: Missing the sent_id attribute.
-[Line                   57]: Missing the text attribute.
-[Line                   75]: Missing the sent_id attribute.
-[Line                   75]: Missing the text attribute.
-[Line                   81]: Missing the sent_id attribute.
-[Line                   81]: Missing the text attribute.
-[Line                   87]: Missing the sent_id attribute.
+[Line                   19]: Missing the text attribute.
+[Line                   34]: Missing the text attribute.
+[Line                   46]: Missing the text attribute.
+[Line                   61]: Missing the text attribute.
+[Line                   80]: Missing the text attribute.
 [Line                   87]: Missing the text attribute.
-[Line                   91]: Missing the sent_id attribute.
-[Line                   91]: Missing the text attribute.
-[Line                   98]: Missing the sent_id attribute.
-[Line                   98]: Missing the text attribute.
-[Line                   101]: Missing the sent_id attribute.
+[Line                   94]: Missing the text attribute.
+[Line                   99]: Missing the text attribute.
+[Line                   107]: Missing the text attribute.
+[Line                   111]: Missing the text attribute.
+[Line                   119]: Missing the text attribute.
+[Line                   123]: Missing the text attribute.
+[Line                   128]: Missing the text attribute.
+[Line                   134]: Missing the text attribute.
+[Line                   139]: Missing the text attribute.
+[Line                   144]: Missing the text attribute.
+[Line                   155]: Missing the text attribute.
+[Line                   166]: Missing the text attribute.
+[Line                   191]: Missing the text attribute.
 ...suppressing further errors regarding Metadata
-[Line                   675]: Unknown UD DEPREL: nsubj:pass
-[Line                   676]: Unknown UD DEPREL: aux:pass
-[Line                   1383]: Unknown UD DEPREL: nsubj:pass
-[Line                   1384]: Unknown UD DEPREL: aux:pass
-[Line                   1823]: Unknown UD DEPREL: aux:pass
-[Line                   1824]: Unknown UD DEPREL: nsubj:pass
-[Line                   2070]: Unknown UD DEPREL: aux:pass
-[Line                   2071]: Unknown UD DEPREL: nsubj:pass
-[Line                   2302]: Unknown UD DEPREL: flat:name
-[Line                   2309]: Unknown UD DEPREL: flat:name
-[Line                   2421]: Unknown UD DEPREL: nsubj:pass
-[Line                   2423]: Unknown UD DEPREL: aux:pass
-[Line                   2450]: Unknown UD DEPREL: flat:name
-[Line                   3072]: Unknown UD DEPREL: nsubj:pass
-[Line                   3073]: Unknown UD DEPREL: aux:pass
-[Line                   3526]: Unknown UD DEPREL: flat:name
-[Line                   3581]: Unknown UD DEPREL: flat:name
-[Line                   3582]: Unknown UD DEPREL: flat:name
-[Line                   3630]: Unknown UD DEPREL: flat:name
+[Line                   723]: Unknown UD DEPREL: nsubj:pass
+[Line                   724]: Unknown UD DEPREL: aux:pass
+[Line                   1480]: Unknown UD DEPREL: nsubj:pass
+[Line                   1481]: Unknown UD DEPREL: aux:pass
+[Line                   1949]: Unknown UD DEPREL: aux:pass
+[Line                   1950]: Unknown UD DEPREL: nsubj:pass
+[Line                   2212]: Unknown UD DEPREL: aux:pass
+[Line                   2213]: Unknown UD DEPREL: nsubj:pass
+[Line                   2461]: Unknown UD DEPREL: flat:name
+[Line                   2468]: Unknown UD DEPREL: flat:name
+[Line                   2585]: Unknown UD DEPREL: nsubj:pass
+[Line                   2587]: Unknown UD DEPREL: aux:pass
+[Line                   2615]: Unknown UD DEPREL: flat:name
+[Line                   3273]: Unknown UD DEPREL: nsubj:pass
+[Line                   3274]: Unknown UD DEPREL: aux:pass
+[Line                   3752]: Unknown UD DEPREL: flat:name
+[Line                   3810]: Unknown UD DEPREL: flat:name
+[Line                   3811]: Unknown UD DEPREL: flat:name
+[Line                   3861]: Unknown UD DEPREL: flat:name
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 4581 errors
-Metadata errors: 3780
+*** FAILED *** with 2691 errors
+Metadata errors: 1890
 Syntax errors: 801
 
 
@@ -5011,48 +5011,48 @@ Syntax errors: 801
 
 python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conllu
 
-[Line                   12]: Missing the sent_id attribute.
-[Line                   12]: Missing the text attribute.
-[Line                   23]: Missing the sent_id attribute.
-[Line                   23]: Missing the text attribute.
-[Line                   37]: Missing the sent_id attribute.
-[Line                   37]: Missing the text attribute.
-[Line                   42]: Unknown UD DEPREL: flat:name
-[Line                   62]: Missing the sent_id attribute.
-[Line                   62]: Missing the text attribute.
-[Line                   99]: Missing the sent_id attribute.
-[Line                   99]: Missing the text attribute.
-[Line                   108]: Missing the sent_id attribute.
-[Line                   108]: Missing the text attribute.
-[Line                   123]: Missing the sent_id attribute.
-[Line                   123]: Missing the text attribute.
-[Line                   133]: Missing the sent_id attribute.
-[Line                   133]: Missing the text attribute.
-[Line                   151]: Missing the sent_id attribute.
-[Line                   151]: Missing the text attribute.
-[Line                   173]: Missing the sent_id attribute.
+[Line                   13]: Missing the text attribute.
+[Line                   25]: Missing the text attribute.
+[Line                   40]: Missing the text attribute.
+[Line                   46]: Unknown UD DEPREL: flat:name
+[Line                   66]: Missing the text attribute.
+[Line                   104]: Missing the text attribute.
+[Line                   114]: Missing the text attribute.
+[Line                   130]: Missing the text attribute.
+[Line                   141]: Missing the text attribute.
+[Line                   160]: Missing the text attribute.
+[Line                   183]: Missing the text attribute.
+[Line                   210]: Missing the text attribute.
+[Line                   222]: Missing the text attribute.
+[Line                   246]: Missing the text attribute.
+[Line                   253]: Missing the text attribute.
+[Line                   289]: Missing the text attribute.
+[Line                   310]: Missing the text attribute.
+[Line                   337]: Missing the text attribute.
+[Line                   356]: Missing the text attribute.
+[Line                   374]: Missing the text attribute.
 ...suppressing further errors regarding Metadata
-[Line                   653]: Unknown UD DEPREL: flat:name
-[Line                   777]: Unknown UD DEPREL: flat:name
-[Line                   1011]: Unknown UD DEPREL: flat:name
-[Line                   1211]: Unknown UD DEPREL: flat:foreign
-[Line                   1212]: Unknown UD DEPREL: flat:foreign
-[Line                   1295]: Unknown UD DEPREL: flat:name
-[Line                   1327]: Unknown UD DEPREL: flat:foreign
-[Line                   1328]: Unknown UD DEPREL: flat:foreign
-[Line                   1360]: Unknown UD DEPREL: aux:pass
-[Line                   1361]: Unknown UD DEPREL: nsubj:pass
-[Line                   1373]: Unknown UD DEPREL: flat:name
-[Line                   1436]: Unknown UD DEPREL: nsubj:pass
-[Line                   1438]: Unknown UD DEPREL: aux:pass
-[Line                   1540]: Unknown UD DEPREL: flat:name
-[Line                   1607]: Unknown UD DEPREL: flat:name
-[Line                   1608]: Unknown UD DEPREL: flat:name
-[Line                   1645]: Unknown UD DEPREL: flat:foreign
-[Line                   1734]: Unknown UD DEPREL: nsubj:pass
+[Line                   687]: Unknown UD DEPREL: flat:name
+[Line                   817]: Unknown UD DEPREL: flat:name
+[Line                   1067]: Unknown UD DEPREL: flat:name
+[Line                   1280]: Unknown UD DEPREL: flat:foreign
+[Line                   1281]: Unknown UD DEPREL: flat:foreign
+[Line                   1367]: Unknown UD DEPREL: flat:name
+[Line                   1401]: Unknown UD DEPREL: flat:foreign
+[Line                   1402]: Unknown UD DEPREL: flat:foreign
+[Line                   1436]: Unknown UD DEPREL: aux:pass
+[Line                   1437]: Unknown UD DEPREL: nsubj:pass
+[Line                   1449]: Unknown UD DEPREL: flat:name
+[Line                   1513]: Unknown UD DEPREL: nsubj:pass
+[Line                   1515]: Unknown UD DEPREL: aux:pass
+[Line                   1620]: Unknown UD DEPREL: flat:name
+[Line                   1689]: Unknown UD DEPREL: flat:name
+[Line                   1690]: Unknown UD DEPREL: flat:name
+[Line                   1729]: Unknown UD DEPREL: flat:foreign
+[Line                   1820]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 35656 errors
-Metadata errors: 28348
+*** FAILED *** with 21482 errors
+Metadata errors: 14174
 Syntax errors: 7308
 
 
