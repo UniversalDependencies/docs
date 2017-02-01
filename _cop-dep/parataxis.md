@@ -11,7 +11,7 @@ This label is used to link two main clauses that are listed together as one sent
 
 mark(ⲩⲛⲟⲩ,  ⲛ)
 det(ⲩⲛⲟⲩ, ⲧⲉ)
-advmod(ⲩⲛⲟⲩ, ⲇⲉ) 
+advmod(ⲕⲁ, ⲇⲉ) 
 aux(ⲕⲁ, ⲁ-5)
 nsubj(ⲕⲁ, ⲩ-6)
 dobj(ⲕⲁ, ϣⲛⲏⲩ)
