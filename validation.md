@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-01-31T21:12:26Z">2017-01-31T21:12:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T05:01:56Z">2017-02-01T05:01:56 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2594,14 +2594,12 @@ Syntax errors: 16265
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:56:05Z">2017-01-30T14:56:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T05:01:46Z">2017-02-01T05:01:46 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
-[Line                   19]: Morphological features must be sorted: 'Case=Ill|NumType=Card|Number=Plur|Style=Coll'
-[Line                   136]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 [Line                   380]: Mismatch between the text attribute and the FORM field. Form is 'Ehkei' but text is 'Ehk ei se tullut ....'
 [Line                   380]: Mismatch between the text attribute and the FORM field. Form is 'se' but text is 'Ehk ei se tullut ....'
 [Line                   380]: Mismatch between the text attribute and the FORM field. Form is 'tullut' but text is 'Ehk ei se tullut ....'
@@ -2610,20 +2608,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_
 [Line                   411]: Mismatch between the text attribute and the FORM field. Form is 'etteivät' but text is 'ett eivät --...'
 [Line                   411]: Mismatch between the text attribute and the FORM field. Form is '--' but text is 'ett eivät --...'
 [Line                   411]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett eivät --'
-[Line                   487]: Morphological features must be sorted: 'Case=Ine|NumType=Ord|Number=Sing'
-[Line                   510]: Morphological features must be sorted: 'Case=Ill|NumType=Card|Number=Sing|Style=Coll'
-[Line                   594]: Morphological features must be sorted: 'Case=Ade|NumType=Ord|Number=Sing'
-[Line                   723]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
-[Line                   836]: Morphological features must be sorted: 'Case=Ess|NumType=Card|Number=Sing'
 [Line                   965]: Mismatch between the text attribute and the FORM field. Form is 'etteivät' but text is 'ett eivät housunpuntit töhrä...'
 [Line                   965]: Mismatch between the text attribute and the FORM field. Form is 'housunpuntit' but text is 'ett eivät housunpuntit töhräänny...'
 [Line                   965]: Mismatch between the text attribute and the FORM field. Form is 'töhräänny' but text is 'ett eivät housunpuntit töhrää...'
 [Line                   965]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ett eivät housunpunti...'
 [Line                   965]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett eivät housunpuntit töhräänny .'
-[Line                   1125]: Morphological features must be sorted: 'Case=Gen|NumType=Card|Number=Sing'
-[Line                   1143]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
-[Line                   1570]: Morphological features must be sorted: 'Case=Gen|NumType=Card|Number=Sing'
-[Line                   1595]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 [Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'ellei' but text is 'ell ei anna ilmi kavereit...'
 [Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'anna' but text is 'ell ei anna ilmi kaverei...'
 [Line                   1606]: Mismatch between the text attribute and the FORM field. Form is 'ilmi' but text is 'ell ei anna ilmi kaverei...'
@@ -2631,26 +2620,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_
 [Line                   1606]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ell ei anna ilmi kave...'
 [Line                   1606]: Mismatch between the text attribute and the FORM field. Form is '"' but text is 'ell ei anna ilmi kave...'
 ...suppressing further errors regarding Metadata
-[Line                   1662]: Morphological features must be sorted: 'Case=Par|NumType=Card|Number=Plur'
-[Line                   1663]: Morphological features must be sorted: 'Case=Par|NumType=Card|Number=Plur'
-[Line                   1703]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Plur'
-[Line                   1796]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
-[Line                   2492]: Morphological features must be sorted: 'Case=Ine|NumType=Ord|Number=Sing'
-[Line                   2556]: Morphological features must be sorted: 'Case=Par|NumType=Ord|Number=Sing'
-[Line                   2811]: Morphological features must be sorted: 'Case=Gen|NumType=Card|Number=Sing'
-[Line                   2852]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
-...suppressing further errors regarding Morpho
-*** FAILED *** with 372 errors
+*** FAILED *** with 208 errors
 Metadata errors: 208
-Morpho errors: 164
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
-[Line                   92]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
-[Line                   127]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
 [Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'ettei' but text is 'ett ei sateevarjo kukkaam...'
 [Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'sateevarjo' but text is 'ett ei sateevarjo kukkaam pitä...'
 [Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'kukkaam' but text is 'ett ei sateevarjo kukkaam p...'
@@ -2658,11 +2635,6 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_
 [Line                   143]: Mismatch between the text attribute and the FORM field. Form is 'siäl' but text is 'ett ei sateevarjo kukkaa...'
 [Line                   143]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ett ei sateevarjo kuk...'
 [Line                   143]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett ei sateevarjo kukkaam pitäis siäl .'
-[Line                   184]: Morphological features must be sorted: 'Case=Par|NumType=Ord|Number=Sing'
-[Line                   246]: Morphological features must be sorted: 'Case=Tra|NumType=Ord|Number=Sing|Style=Coll'
-[Line                   400]: Morphological features must be sorted: 'Case=Ade|NumType=Ord|Number=Sing|Style=Coll'
-[Line                   650]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
-[Line                   762]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
 [Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'etten' but text is 'ett en ollut tuntenut hän...'
 [Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'ollut' but text is 'ett en ollut tuntenut hän...'
 [Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'tuntenut' but text is 'ett en ollut tuntenut häntä ...'
@@ -2671,27 +2643,13 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_
 [Line                   833]: Mismatch between the text attribute and the FORM field. Form is 'silmälaseja' but text is 'ett en ollut tuntenut häntä ilm...'
 [Line                   833]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ett en ollut tuntenut...'
 [Line                   833]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ett en ollut tuntenut häntä ilman silmälaseja .'
-[Line                   1415]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
-[Line                   1421]: Morphological features must be sorted: 'Case=Ill|NumType=Ord|Number=Sing'
-[Line                   1531]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
-[Line                   1532]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing|Style=Coll'
 [Line                   1542]: Mismatch between the text attribute and the FORM field. Form is 'Miksei' but text is 'Miks ei mentäs naimisiin ?...'
 [Line                   1542]: Mismatch between the text attribute and the FORM field. Form is 'mentäs' but text is 'Miks ei mentäs naimisiin ?...'
 [Line                   1542]: Mismatch between the text attribute and the FORM field. Form is 'naimisiin' but text is 'Miks ei mentäs naimisiin ?...'
 [Line                   1542]: Mismatch between the text attribute and the FORM field. Form is '?' but text is 'Miks ei mentäs naimis...'
 ...suppressing further errors regarding Metadata
-[Line                   2118]: Morphological features must be sorted: 'Case=Ade|NumType=Ord|Number=Sing'
-[Line                   2171]: Morphological features must be sorted: 'Case=Gen|Clitic=Kin|NumType=Card|Number=Sing'
-[Line                   2505]: Morphological features must be sorted: 'Case=Par|NumType=Card|Number=Sing'
-[Line                   3317]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
-[Line                   3666]: Morphological features must be sorted: 'Case=Par|NumType=Ord|Number=Sing'
-[Line                   3693]: Morphological features must be sorted: 'Case=Par|NumType=Ord|Number=Sing'
-[Line                   3892]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
-[Line                   3921]: Morphological features must be sorted: 'Case=Nom|NumType=Card|Number=Sing'
-...suppressing further errors regarding Morpho
-*** FAILED *** with 3456 errors
+*** FAILED *** with 2009 errors
 Metadata errors: 2009
-Morpho errors: 1447
 
 
 ******************
