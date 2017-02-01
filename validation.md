@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-01T13:48:45Z">2017-02-01T13:48:45 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-01T13:51:17Z">2017-02-01T13:51:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1482,113 +1482,21 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T13:48:40Z">2017-02-01T13:48:40 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T13:51:11Z">2017-02-01T13:51:11 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
 
-[Line                   17]: Missing the sent_id attribute.
-[Line                   17]: Missing the text attribute.
-[Line                   21]: Missing the sent_id attribute.
-[Line                   21]: Missing the text attribute.
-[Line                   47]: Missing the sent_id attribute.
-[Line                   47]: Missing the text attribute.
-[Line                   55]: Missing the sent_id attribute.
-[Line                   55]: Missing the text attribute.
-[Line                   71]: Missing the sent_id attribute.
-[Line                   71]: Missing the text attribute.
-[Line                   88]: Missing the sent_id attribute.
-[Line                   88]: Missing the text attribute.
-[Line                   96]: Missing the sent_id attribute.
-[Line                   96]: Missing the text attribute.
-[Line                   108]: Missing the sent_id attribute.
-[Line                   108]: Missing the text attribute.
-[Line                   117]: Missing the sent_id attribute.
-[Line                   117]: Missing the text attribute.
-[Line                   125]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   163]: Spurious morphological feature: 'Foreign=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   163]: Repeated features are disallowed: Foreign=yes
-[Line                   260]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   260]: Repeated features are disallowed: Abbr=yes
-[Line                   503]: Spurious morphological feature: 'Foreign=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   503]: Repeated features are disallowed: Foreign=yes
-[Line                   504]: Spurious morphological feature: 'Foreign=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   504]: Repeated features are disallowed: Foreign=yes
-[Line                   1243]: Spurious morphological feature: 'Foreign=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1243]: Repeated features are disallowed: Foreign=yes
-[Line                   1244]: Spurious morphological feature: 'Foreign=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1244]: Repeated features are disallowed: Foreign=yes
-[Line                   1523]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1523]: Repeated features are disallowed: Abbr=yes
-[Line                   1638]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1638]: Repeated features are disallowed: Abbr=yes
-[Line                   1974]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1974]: Repeated features are disallowed: Abbr=yes
-[Line                   2031]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-*** FAILED *** with 766 errors
-Metadata errors: 700
-Morpho errors: 66
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
 
-[Line                   7]: Missing the sent_id attribute.
-[Line                   7]: Missing the text attribute.
-[Line                   31]: Missing the sent_id attribute.
-[Line                   31]: Missing the text attribute.
-[Line                   34]: Missing the sent_id attribute.
-[Line                   34]: Missing the text attribute.
-[Line                   51]: Missing the sent_id attribute.
-[Line                   51]: Missing the text attribute.
-[Line                   69]: Missing the sent_id attribute.
-[Line                   69]: Missing the text attribute.
-[Line                   79]: Missing the sent_id attribute.
-[Line                   79]: Missing the text attribute.
-[Line                   122]: Missing the sent_id attribute.
-[Line                   122]: Missing the text attribute.
-[Line                   128]: Missing the sent_id attribute.
-[Line                   128]: Missing the text attribute.
-[Line                   137]: Missing the sent_id attribute.
-[Line                   137]: Missing the text attribute.
-[Line                   141]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   834]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   834]: Repeated features are disallowed: Abbr=yes
-[Line                   1057]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1057]: Repeated features are disallowed: Abbr=yes
-[Line                   1456]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1456]: Repeated features are disallowed: Abbr=yes
-[Line                   1487]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1487]: Repeated features are disallowed: Abbr=yes
-[Line                   1559]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1559]: Repeated features are disallowed: Abbr=yes
-[Line                   1563]: Spurious morphological feature: 'Foreign=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   1563]: Repeated features are disallowed: Foreign=yes
-[Line                   2182]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   2182]: Repeated features are disallowed: Abbr=yes
-[Line                   2973]: Spurious morphological feature: 'Foreign=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   2973]: Repeated features are disallowed: Foreign=yes
-[Line                   3735]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3735]: Repeated features are disallowed: Abbr=yes
-[Line                   3833]: Spurious morphological feature: 'Abbr=yes'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
-[Tree number 3054 on line 46926]: HEAD == ID for 13
-[Tree number 3054 on line 46926]: Non-tree structure. Words 13,14,15,16,17 are not reachable from the root 0.
-[Tree number 3151 on line 48233]: HEAD == ID for 25
-[Tree number 3151 on line 48233]: Non-tree structure. Words 25,26,27,28,29,30,31,33,34,35,36,37,38,40,41,42,43,45,46,47,48,49,50,51,52,53 are not reachable from the root 0.
-[Tree number 3654 on line 55833]: HEAD == ID for 14
-[Tree number 3654 on line 55833]: Non-tree structure. Words 12,13,14,15,16 are not reachable from the root 0.
-*** FAILED *** with 14270 errors
-Format errors: 3
-Metadata errors: 13282
-Morpho errors: 982
-Syntax errors: 3
+*** PASSED ***
 
 
 ******************
