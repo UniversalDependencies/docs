@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-02T19:51:01Z">2017-02-02T19:51:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-02T21:49:48Z">2017-02-02T21:49:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5350,7 +5350,7 @@ python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-02T15:45:13Z">2017-02-02T15:45:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-02T21:49:34Z">2017-02-02T21:49:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5405,9 +5405,9 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.con
 [Line                   140]: Mismatch between the text attribute and the FORM field. Form is 'Londres' but text is ' da noite, a meio caminho e...'
 ...suppressing further errors regarding Metadata
 [Line                   65657]: Range overlaps with others: 13-14
-*** FAILED *** with 3211 errors
+*** FAILED *** with 3194 errors
 Format errors: 1
-Metadata errors: 3210
+Metadata errors: 3193
 
 
 ******************
