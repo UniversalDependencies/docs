@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-02T16:53:47Z">2017-02-02T16:53:47 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-02T17:41:37Z">2017-02-02T17:41:37 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2793,7 +2793,7 @@ Syntax errors: 4346
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-02T16:53:46Z">2017-02-02T16:53:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-02T17:41:36Z">2017-02-02T17:41:36 zulu</time></span>
 </div>
 <div>
 <pre>
