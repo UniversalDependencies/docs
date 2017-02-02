@@ -2,29 +2,30 @@
 layout: base
 title:  'Syntax'
 permalink: sv/overview/specific-syntax.html
+udver: '2'
 ---
 
 # Specific constructions
 
-## Elements of a clause
-
-### Passives
+## Passives
 
 Swedish has two ways of forming passives, a morphological passive (s-passive) and a periphrastic passive (bli-passive).
 
 ~~~ sdparse
 Han jagades av polisen . \n He was-chased by the-police .
-nsubjpass(jagades, Han)
-nmod:agent(jagades, polisen)
+nsubj:pass(jagades, Han)
+obl:agent(jagades, polisen)
 case(polisen, av)
+punct(jagades, .)
 ~~~
 
 ~~~ sdparse
 Han blev jagad av polisen . \n He was chased by the-police .
-nsubjpass(jagad, Han)
-nmod:agent(jagad, polisen)
+nsubj:pass(jagad, Han)
+obl:agent(jagad, polisen)
 case(polisen, av)
-auxpass(jagad, blev)
+aux:pass(jagad, blev)
+punct(jagad, .)
 ~~~
 
 In addition, the morphological passive form (s-form) is sometimes used without a passive meaning (so-called deponens and
@@ -34,9 +35,8 @@ reciprocal verbs). These are distinguished from true passives by having the feat
 Jag hoppas att du kommer . \n I hope that you come
 nsubj(hoppas, Jag)
 ccomp(hoppas, kommer)
+mark(kommer, att)
+nsubj(kommer, du)
+punct(hoppas, .)
 ~~~
 
-## Elements of a nominal
-
-
-## Adjectival and adverbial constructions
