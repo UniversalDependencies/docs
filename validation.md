@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-02T10:17:21Z">2017-02-02T10:17:21 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-02T15:45:27Z">2017-02-02T15:45:27 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5350,15 +5350,12 @@ python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-31T21:12:12Z">2017-01-31T21:12:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-02T15:45:13Z">2017-02-02T15:45:13 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
 
-[Line                   431]: Mismatch between the text attribute and the FORM field. Form is 'mulheres' but text is ' mulheres....'
-[Line                   431]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' mulheres....'
-[Line                   431]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' mulheres.'
 [Line                   528]: Mismatch between the text attribute and the FORM field. Form is '(' but text is ', Leonardo Romanioli ...'
 [Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Leonardo' but text is ', Leonardo Romanioli Filho, ...'
 [Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Romanioli' but text is ', Leonardo Romanioli Filho, e...'
@@ -5374,10 +5371,13 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conll
 [Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Frame' but text is 'Leonardo Romanioli Filho,...'
 [Line                   528]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'Leonardo Romanioli Fi...'
 [Line                   528]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Leonardo Romanioli Filho, e o vendedor Luís Silveira, da concessionária Frame.'
-[Line                   811]: Mismatch between the text attribute and the FORM field. Form is 'enquanto' but text is ' enquanto o custo está em US...'
+[Line                   2694]: Mismatch between the text attribute and the FORM field. Form is 'os' but text is 'Os presidentes da Litu...'
+[Line                   2694]: Mismatch between the text attribute and the FORM field. Form is 'presidentes' but text is 'Os presidentes da Lituânia, Alg...'
+[Line                   2694]: Mismatch between the text attribute and the FORM field. Form is 'da' but text is 'Os presidentes da Litu...'
+[Line                   2694]: Mismatch between the text attribute and the FORM field. Form is 'Lituânia' but text is 'Os presidentes da Lituânia, ...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 194 errors
-Metadata errors: 194
+*** FAILED *** with 102 errors
+Metadata errors: 102
 
 
 ******************
@@ -5404,10 +5404,10 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.con
 [Line                   140]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' da noite, a meio cam...'
 [Line                   140]: Mismatch between the text attribute and the FORM field. Form is 'Londres' but text is ' da noite, a meio caminho e...'
 ...suppressing further errors regarding Metadata
-[Line                   65630]: Range overlaps with others: 13-14
-*** FAILED *** with 10669 errors
+[Line                   65657]: Range overlaps with others: 13-14
+*** FAILED *** with 3211 errors
 Format errors: 1
-Metadata errors: 10668
+Metadata errors: 3210
 
 
 ******************
