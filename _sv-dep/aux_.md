@@ -5,6 +5,7 @@ shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "sv/dep/aux.html"
+udver: '2'
 ---
 
 An auxiliary of a clause is a [non-main verb](sv-pos/AUX) of the
