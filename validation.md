@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-02T08:13:44Z">2017-02-02T08:13:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-02T10:17:21Z">2017-02-02T10:17:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4956,11 +4956,11 @@ python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-01T19:18:30Z">2017-02-01T19:18:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-02T10:17:04Z">2017-02-02T10:17:04 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conllu
 
 [Line                   19]: Missing the text attribute.
 [Line                   34]: Missing the text attribute.
@@ -4982,39 +4982,17 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 [Line                   166]: Missing the text attribute.
 [Line                   191]: Missing the text attribute.
 ...suppressing further errors regarding Metadata
-[Line                   723]: Unknown UD DEPREL: nsubj:pass
-[Line                   724]: Unknown UD DEPREL: aux:pass
-[Line                   1480]: Unknown UD DEPREL: nsubj:pass
-[Line                   1481]: Unknown UD DEPREL: aux:pass
-[Line                   1949]: Unknown UD DEPREL: aux:pass
-[Line                   1950]: Unknown UD DEPREL: nsubj:pass
-[Line                   2212]: Unknown UD DEPREL: aux:pass
-[Line                   2213]: Unknown UD DEPREL: nsubj:pass
-[Line                   2461]: Unknown UD DEPREL: flat:name
-[Line                   2468]: Unknown UD DEPREL: flat:name
-[Line                   2585]: Unknown UD DEPREL: nsubj:pass
-[Line                   2587]: Unknown UD DEPREL: aux:pass
-[Line                   2615]: Unknown UD DEPREL: flat:name
-[Line                   3273]: Unknown UD DEPREL: nsubj:pass
-[Line                   3274]: Unknown UD DEPREL: aux:pass
-[Line                   3752]: Unknown UD DEPREL: flat:name
-[Line                   3810]: Unknown UD DEPREL: flat:name
-[Line                   3811]: Unknown UD DEPREL: flat:name
-[Line                   3861]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
-*** FAILED *** with 2691 errors
+*** FAILED *** with 1890 errors
 Metadata errors: 1890
-Syntax errors: 801
 
 
 ******************
 
-python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conllu
 
 [Line                   13]: Missing the text attribute.
 [Line                   25]: Missing the text attribute.
 [Line                   40]: Missing the text attribute.
-[Line                   46]: Unknown UD DEPREL: flat:name
 [Line                   66]: Missing the text attribute.
 [Line                   104]: Missing the text attribute.
 [Line                   114]: Missing the text attribute.
@@ -5032,28 +5010,8 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 [Line                   356]: Missing the text attribute.
 [Line                   374]: Missing the text attribute.
 ...suppressing further errors regarding Metadata
-[Line                   687]: Unknown UD DEPREL: flat:name
-[Line                   817]: Unknown UD DEPREL: flat:name
-[Line                   1067]: Unknown UD DEPREL: flat:name
-[Line                   1280]: Unknown UD DEPREL: flat:foreign
-[Line                   1281]: Unknown UD DEPREL: flat:foreign
-[Line                   1367]: Unknown UD DEPREL: flat:name
-[Line                   1401]: Unknown UD DEPREL: flat:foreign
-[Line                   1402]: Unknown UD DEPREL: flat:foreign
-[Line                   1436]: Unknown UD DEPREL: aux:pass
-[Line                   1437]: Unknown UD DEPREL: nsubj:pass
-[Line                   1449]: Unknown UD DEPREL: flat:name
-[Line                   1513]: Unknown UD DEPREL: nsubj:pass
-[Line                   1515]: Unknown UD DEPREL: aux:pass
-[Line                   1620]: Unknown UD DEPREL: flat:name
-[Line                   1689]: Unknown UD DEPREL: flat:name
-[Line                   1690]: Unknown UD DEPREL: flat:name
-[Line                   1729]: Unknown UD DEPREL: flat:foreign
-[Line                   1820]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 21482 errors
+*** FAILED *** with 14174 errors
 Metadata errors: 14174
-Syntax errors: 7308
 
 
 ******************
