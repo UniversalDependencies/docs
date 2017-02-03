@@ -19,3 +19,11 @@ case(ⲕ, ⲙⲙⲟ)
 ~~~
 
 Note that this is just like a nominal subject (`nsubj`): what would be fitting? To tolerate you. To tolerate you is fitting.
+
+The small class of mostly Greek origin impersonal verbs also takes subject clauses, such as ⲉⲝⲉⲥⲧⲓ 'it is appropriate', which points from main verb to subordinate verb:
+
+~~~ sdparse
+ⲟⲩⲕ ⲉⲝⲉⲥⲧⲓ/VERB ⲉ ⲁⲁ/VERB ϥ \n it is not appropriate to do it
+
+csubj(ⲉⲝⲉⲥⲧⲓ, ⲁⲁ)
+~~~
