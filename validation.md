@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-03T16:29:14Z">2017-02-03T16:29:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-03T16:34:43Z">2017-02-03T16:34:43 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -852,11 +852,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:51:01Z">2017-01-30T14:51:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-03T16:34:42Z">2017-02-03T16:34:42 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Coptic/cop-ud-dev.conllu
+python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-dev.conllu
 
 [Line                   3]: Unknown UD DEPREL: dobj
 [Line                   16]: Missing the sent_id attribute.
@@ -920,7 +920,7 @@ Syntax errors: 24
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Coptic/cop-ud-train.conllu
+python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-train.conllu
 
 [Line                   7]: Unknown UD DEPREL: neg
 [Line                   36]: Missing the sent_id attribute.
