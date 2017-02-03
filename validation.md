@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-03T11:03:44Z">2017-02-03T11:03:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-03T14:12:08Z">2017-02-03T14:12:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -513,16 +513,15 @@ Syntax errors: 6742
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:50:05Z">2017-01-30T14:50:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-03T14:11:58Z">2017-02-03T14:11:58 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
+python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
 
 [Line                   10]: Spurious sent_id line: '# sent_id 10' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   10]: Missing the sent_id attribute.
 [Line                   10]: Missing the text attribute.
-[Line                   16]: Unknown UD DEPREL: dobj
 [Line                   19]: Spurious sent_id line: '# sent_id 20' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   19]: Missing the sent_id attribute.
 [Line                   19]: Missing the text attribute.
@@ -538,67 +537,44 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJ
 [Line                   63]: Spurious sent_id line: '# sent_id 60' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   63]: Missing the sent_id attribute.
 [Line                   63]: Missing the text attribute.
-[Line                   69]: Unknown UD DEPREL: dobj
-[Line                   72]: Unknown UD DEPREL: mwe
 [Line                   74]: Spurious sent_id line: '# sent_id 70' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
-[Line                   82]: Unknown UPOS tag: CONJ
-[Line                   105]: Unknown UD DEPREL: dobj
-[Line                   130]: Unknown UPOS tag: CONJ
-[Line                   151]: Unknown UPOS tag: CONJ
 [Line                   156]: Unknown UD DEPREL: neg
-[Line                   172]: Unknown UD DEPREL: dobj
-[Line                   179]: Unknown UPOS tag: CONJ
-[Line                   191]: Unknown UD DEPREL: nsubjpass
-[Line                   193]: Unknown UD DEPREL: auxpass
-[Line                   229]: Unknown UD DEPREL: dobj
-[Line                   259]: Unknown UPOS tag: CONJ
-[Line                   261]: Unknown UD DEPREL: dobj
-[Line                   276]: Unknown UPOS tag: CONJ
-[Line                   291]: Unknown UD DEPREL: dobj
 [Line                   299]: Unknown UD DEPREL: neg
 [Line                   307]: Unknown UD DEPREL: neg
-[Line                   325]: Unknown UPOS tag: CONJ
-[Line                   354]: Unknown UD DEPREL: dobj
-[Line                   367]: Unknown UD DEPREL: mwe
-[Line                   390]: Unknown UD DEPREL: dobj
-[Line                   409]: Unknown UD DEPREL: dobj
-[Line                   416]: Unknown UD DEPREL: dobj
-[Line                   419]: Unknown UD DEPREL: mwe
+[Line                   587]: Unknown UD DEPREL: neg
+[Line                   609]: Unknown UD DEPREL: neg
+[Line                   703]: Unknown UD DEPREL: neg
+[Line                   724]: Unknown UD DEPREL: neg
+[Line                   843]: Unknown UD DEPREL: neg
+[Line                   925]: Unknown UD DEPREL: neg
+[Line                   1009]: Unknown UD DEPREL: neg
+[Line                   1240]: Unknown UD DEPREL: neg
+[Line                   1425]: Unknown UD DEPREL: neg
+[Line                   1515]: Unknown UD DEPREL: neg
+[Line                   1571]: Unknown UD DEPREL: neg
+[Line                   1727]: Unknown UD DEPREL: neg
+[Line                   1772]: Unknown UD DEPREL: neg
+[Line                   1818]: Unknown UD DEPREL: neg
+[Line                   1839]: Unknown UD DEPREL: neg
+[Line                   1850]: Unknown UD DEPREL: neg
 ...suppressing further errors regarding Syntax
-[Line                   563]: Unknown UPOS tag: CONJ
-[Line                   583]: Unknown UPOS tag: CONJ
-[Line                   625]: Unknown UPOS tag: CONJ
-[Line                   641]: Unknown UPOS tag: CONJ
-[Line                   686]: Unknown UPOS tag: CONJ
-[Line                   723]: Unknown UPOS tag: CONJ
-[Line                   738]: Unknown UPOS tag: CONJ
-[Line                   748]: Unknown UPOS tag: CONJ
-[Line                   818]: Unknown UPOS tag: CONJ
-[Line                   847]: Unknown UPOS tag: CONJ
-[Line                   880]: Unknown UPOS tag: CONJ
-[Line                   929]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 5092 errors
+*** FAILED *** with 3496 errors
 Metadata errors: 3345
-Morpho errors: 511
-Syntax errors: 1236
+Syntax errors: 151
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
+python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
 
-[Line                   13]: Unknown UD DEPREL: nsubjpass
 [Line                   15]: Spurious sent_id line: '# sent_id 2' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   15]: Missing the sent_id attribute.
 [Line                   15]: Missing the text attribute.
-[Line                   24]: Unknown UD DEPREL: dobj
 [Line                   28]: Spurious sent_id line: '# sent_id 3' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   28]: Missing the sent_id attribute.
 [Line                   28]: Missing the text attribute.
 [Line                   36]: Unknown UD DEPREL: neg
-[Line                   38]: Unknown UD DEPREL: dobj
 [Line                   40]: Spurious sent_id line: '# sent_id 4' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   40]: Missing the sent_id attribute.
 [Line                   40]: Missing the text attribute.
@@ -609,50 +585,53 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJ
 [Line                   67]: Spurious sent_id line: '# sent_id 6' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   67]: Missing the sent_id attribute.
 [Line                   67]: Missing the text attribute.
-[Line                   73]: Unknown UD DEPREL: nsubjpass
 [Line                   74]: Unknown UD DEPREL: neg
-[Line                   75]: Unknown UD DEPREL: auxpass
 [Line                   80]: Spurious sent_id line: '# sent_id 7' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   80]: Missing the sent_id attribute.
 [Line                   80]: Missing the text attribute.
 [Line                   93]: Spurious sent_id line: '# sent_id 8' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
 [Line                   101]: Unknown UD DEPREL: neg
-[Line                   103]: Unknown UD DEPREL: dobj
 [Line                   110]: Unknown UD DEPREL: neg
 [Line                   185]: Unknown UD DEPREL: neg
-[Line                   189]: Unknown UD DEPREL: nsubjpass
 [Line                   202]: Unknown UD DEPREL: neg
-[Line                   206]: Unknown UD DEPREL: nsubjpass
-[Line                   228]: Unknown UPOS tag: CONJ
-[Line                   251]: Unknown UPOS tag: CONJ
-[Line                   253]: Unknown UD DEPREL: dobj
-[Line                   262]: Unknown UD DEPREL: name
 [Line                   263]: Unknown UD DEPREL: neg
-[Line                   276]: Unknown UD DEPREL: dobj
+[Line                   608]: Unknown UD DEPREL: neg
+[Line                   1017]: Unknown UD DEPREL: neg
+[Line                   1101]: Unknown UD DEPREL: neg
+[Line                   1254]: Unknown UD DEPREL: neg
+[Line                   1306]: Unknown UD DEPREL: neg
+[Line                   1319]: Unknown UD DEPREL: neg
+[Line                   1356]: Unknown UD DEPREL: neg
+[Line                   1411]: Unknown UD DEPREL: neg
+[Line                   1427]: Unknown UD DEPREL: neg
+[Line                   1445]: Unknown UD DEPREL: neg
+[Line                   1825]: Unknown UD DEPREL: neg
 ...suppressing further errors regarding Syntax
-[Line                   310]: Unknown UPOS tag: CONJ
-[Line                   551]: Unknown UPOS tag: CONJ
-[Line                   626]: Unknown UPOS tag: CONJ
-[Line                   812]: Unknown UPOS tag: CONJ
-[Line                   814]: Unknown UPOS tag: CONJ
-[Line                   829]: Unknown UPOS tag: CONJ
-[Line                   1021]: Unknown UPOS tag: CONJ
-[Line                   1130]: Unknown UPOS tag: CONJ
-[Line                   1141]: Unknown UPOS tag: CONJ
-[Line                   1178]: Unknown UPOS tag: CONJ
-[Line                   1184]: Unknown UPOS tag: CONJ
-[Line                   1195]: Unknown UPOS tag: CONJ
-[Line                   1209]: Unknown UPOS tag: CONJ
-[Line                   1218]: Unknown UPOS tag: CONJ
-[Line                   1271]: Unknown UPOS tag: CONJ
-[Line                   1314]: Unknown UPOS tag: CONJ
-[Line                   1346]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 40820 errors
+[Line                   32560]: White space not allowed in the DEPREL column: 'nsubj" a09="_" a10="_'
+[Line                   93847]: White space not allowed in the DEPREL column: 'nsubj" a09="_" a10="_'
+[Line                   95860]: White space not allowed in the DEPREL column: 'case" a09="_" a10="_'
+[Line                   95861]: White space not allowed in the DEPREL column: 'nmod" a09="_" a10="_'
+[Line                   95862]: White space not allowed in the DEPREL column: 'cc" a09="_" a10="_'
+[Line                   95863]: White space not allowed in the DEPREL column: 'conj" a09="_" a10="_'
+[Line                   95864]: White space not allowed in the DEPREL column: 'case" a09="_" a10="_'
+[Line                   95865]: White space not allowed in the DEPREL column: 'nmod" a09="_" a10="_'
+[Line                   95866]: White space not allowed in the DEPREL column: 'cc" a09="_" a10="_'
+[Line                   95867]: White space not allowed in the DEPREL column: 'case" a09="_" a10="_'
+[Line                   95868]: White space not allowed in the DEPREL column: 'amod" a09="_" a10="_'
+[Line                   95869]: White space not allowed in the DEPREL column: 'conj" a09="_" a10="_'
+[Line                   95870]: White space not allowed in the DEPREL column: 'case" a09="_" a10="_'
+[Line                   95871]: White space not allowed in the DEPREL column: 'nmod" a09="_" a10="_'
+[Line                   111964]: White space not allowed in the DEPREL column: 'case" a09="_" a10="_'
+[Line                   111965]: White space not allowed in the DEPREL column: 'obl" a09="_" a10="_'
+[Line                   111966]: White space not allowed in the DEPREL column: 'nsubj" a09="_" a10="_'
+[Line                   111967]: White space not allowed in the DEPREL column: 'neg" a09="_" a10="_'
+[Line                   111968]: White space not allowed in the DEPREL column: 'advmod" a09="_" a10="_'
+...suppressing further errors regarding Format
+*** FAILED *** with 28028 errors
+Format errors: 58
 Metadata errors: 26721
-Morpho errors: 3910
-Syntax errors: 10189
+Syntax errors: 1249
 
 
 ******************
