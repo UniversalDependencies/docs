@@ -6,5 +6,12 @@ permalink: cop/overview/specific-syntax.html
 
 # Specific constructions
 
-This document is a placeholder for the language-specific overview of
-guidelines for specific constructions.
+## Impersonal verbs
+
+The small class of mostly Greek origin impersonal verbs takes subject clauses, such as ⲉⲝⲉⲥⲧⲓ 'it is appropriate', which points from main verb to subordinate verb with `csubj`:
+
+~~~ sdparse
+ⲟⲩⲕ ⲉⲝⲉⲥⲧⲓ/VERB ⲉ ⲁⲁ/VERB ϥ \n it is not appropriate to do it
+
+csubj(ⲉⲝⲉⲥⲧⲓ, ⲁⲁ)
+~~~
