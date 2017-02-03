@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-03T19:50:07Z">2017-02-03T19:50:07 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-03T20:33:41Z">2017-02-03T20:33:41 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -690,7 +690,7 @@ python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Chinese</span>
 <span class="widespan">zh</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:50:56Z">2017-01-30T14:50:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-03T20:33:36Z">2017-02-03T20:33:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4114,7 +4114,7 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-03T15:35:44Z">2017-02-03T15:35:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-03T20:33:41Z">2017-02-03T20:33:41 zulu</time></span>
 </div>
 <div>
 <pre>
