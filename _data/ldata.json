@@ -196,6 +196,11 @@
         "full": "Ryan McDonald", 
         "last": "McDonald", 
         "first": "Ryan"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
       }
     ], 
     "lang_name": "Chinese"
@@ -463,6 +468,17 @@
     "lang_name": "English-LinES"
   }, 
   {
+    "lang_code": "en_partut", 
+    "contributors": [
+      {
+        "full": "Manuela Sanguinetti", 
+        "last": "Sanguinetti", 
+        "first": "Manuela"
+      }
+    ], 
+    "lang_name": "English-ParTUT"
+  }, 
+  {
     "lang_code": "et", 
     "contributors": [
       {
@@ -586,6 +602,17 @@
       }
     ], 
     "lang_name": "French"
+  }, 
+  {
+    "lang_code": "fr_partut", 
+    "contributors": [
+      {
+        "full": "Manuela Sanguinetti", 
+        "last": "Sanguinetti", 
+        "first": "Manuela"
+      }
+    ], 
+    "lang_name": "French-ParTUT"
   }, 
   {
     "lang_code": "gl", 
@@ -784,6 +811,17 @@
     "lang_name": "Italian"
   }, 
   {
+    "lang_code": "it_partut", 
+    "contributors": [
+      {
+        "full": "Manuela Sanguinetti", 
+        "last": "Sanguinetti", 
+        "first": "Manuela"
+      }
+    ], 
+    "lang_name": "Italian-ParTUT"
+  }, 
+  {
     "lang_code": "ja", 
     "contributors": [
       {
@@ -918,6 +956,11 @@
         "full": "Daniel Zeman", 
         "last": "Zeman", 
         "first": "Daniel"
+      }, 
+      {
+        "full": "Jinho Choi", 
+        "last": "Choi", 
+        "first": "Jinho"
       }
     ], 
     "lang_name": "Korean"
