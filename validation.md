@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-04T18:34:15Z">2017-02-04T18:34:15 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-04T18:42:34Z">2017-02-04T18:42:34 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -726,11 +726,18 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-03T16:35:35Z">2017-02-03T16:35:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-04T18:42:34Z">2017-02-04T18:42:34 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-test.conllu
 
 *** PASSED ***
 
