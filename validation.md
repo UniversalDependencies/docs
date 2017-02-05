@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-05T11:46:26Z">2017-02-05T11:46:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-05T11:47:10Z">2017-02-05T11:47:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3035,63 +3035,21 @@ Syntax errors: 7237
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T11:45:55Z">2017-02-05T11:45:55 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T11:46:32Z">2017-02-05T11:46:32 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
 
-[Line                   225]: Unknown UD DEPREL: nsubj:pass
-[Line                   230]: Unknown UD DEPREL: aux:pass
-[Line                   231]: Unknown UD DEPREL: aux:pass
-[Line                   236]: Unknown UD DEPREL: nsubj:pass
-[Line                   238]: Unknown UD DEPREL: aux:pass
-[Line                   239]: Unknown UD DEPREL: aux:pass
-[Line                   264]: Unknown UD DEPREL: aux:pass
-[Line                   265]: Unknown UD DEPREL: aux:pass
-[Line                   311]: Unknown UD DEPREL: aux:pass
-[Line                   331]: Unknown UD DEPREL: nsubj:pass
-[Line                   334]: Unknown UD DEPREL: aux:pass
-[Line                   335]: Unknown UD DEPREL: aux:pass
-[Line                   356]: Unknown UD DEPREL: aux:pass
-[Line                   491]: Unknown UD DEPREL: aux:pass
-[Line                   492]: Unknown UD DEPREL: aux:pass
-[Line                   509]: Unknown UD DEPREL: aux:pass
-[Line                   540]: Unknown UD DEPREL: aux:pass
-[Line                   541]: Unknown UD DEPREL: aux:pass
-[Line                   561]: Unknown UD DEPREL: aux:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1136 errors
-Syntax errors: 1136
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 
-[Line                   110]: Unknown UD DEPREL: aux:pass
-[Line                   111]: Unknown UD DEPREL: aux:pass
-[Line                   248]: Unknown UD DEPREL: aux:pass
-[Line                   318]: Unknown UD DEPREL: aux:pass
-[Line                   338]: Unknown UD DEPREL: aux:pass
-[Line                   339]: Unknown UD DEPREL: aux:pass
-[Line                   361]: Unknown UD DEPREL: aux:pass
-[Line                   362]: Unknown UD DEPREL: aux:pass
-[Line                   381]: Unknown UD DEPREL: aux:pass
-[Line                   382]: Unknown UD DEPREL: aux:pass
-[Line                   430]: Unknown UD DEPREL: aux:pass
-[Line                   431]: Unknown UD DEPREL: aux:pass
-[Line                   452]: Unknown UD DEPREL: aux:pass
-[Line                   500]: Unknown UD DEPREL: aux:pass
-[Line                   524]: Unknown UD DEPREL: aux:pass
-[Line                   581]: Unknown UD DEPREL: aux:pass
-[Line                   617]: Unknown UD DEPREL: aux:pass
-[Line                   811]: Unknown UD DEPREL: aux:pass
-[Line                   825]: Unknown UD DEPREL: aux:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 9341 errors
-Syntax errors: 9341
+*** PASSED ***
 
 
 ******************
