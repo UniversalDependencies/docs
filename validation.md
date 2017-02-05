@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-05T19:36:20Z">2017-02-05T19:36:20 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-05T19:55:11Z">2017-02-05T19:55:11 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5786,146 +5786,55 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T19:36:19Z">2017-02-05T19:36:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T19:55:10Z">2017-02-05T19:55:10 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
-[Line                   7]: Spurious sent_id line: '# sent_id s401/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   7]: Missing the sent_id attribute.
-[Line                   7]: Missing the text attribute.
-[Line                   11]: Unknown UD DEPREL: dobj
-[Line                   15]: Spurious sent_id line: '# sent_id s402/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   15]: Missing the sent_id attribute.
-[Line                   15]: Missing the text attribute.
-[Line                   30]: Spurious sent_id line: '# sent_id s403/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   30]: Missing the sent_id attribute.
-[Line                   30]: Missing the text attribute.
-[Line                   47]: Spurious sent_id line: '# sent_id s404/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   47]: Missing the sent_id attribute.
-[Line                   47]: Missing the text attribute.
-[Line                   49]: Unknown UPOS tag: CONJ
-[Line                   49]: Unknown UD DEPREL: mwe
-[Line                   58]: Spurious sent_id line: '# sent_id s405/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   58]: Missing the sent_id attribute.
-[Line                   58]: Missing the text attribute.
+[Line                   9]: Unknown UD DEPREL: dobj
+[Line                   15]: Unknown UD DEPREL: dobj
+[Line                   21]: Unknown UD DEPREL: dobj
+[Line                   34]: The forward slash is reserved for special use in parallel treebanks: s1/ug
+[Line                   39]: Unknown UD DEPREL: dobj
+[Line                   53]: Unknown UD DEPREL: dobj
+[Line                   57]: The forward slash is reserved for special use in parallel treebanks: s2/ug
+[Line                   62]: Unknown UD DEPREL: dobj
 [Line                   66]: Unknown UD DEPREL: dobj
-[Line                   71]: Spurious sent_id line: '# sent_id s406/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   71]: Missing the sent_id attribute.
-[Line                   71]: Missing the text attribute.
-[Line                   75]: Unknown UD DEPREL: dobj
-[Line                   81]: Spurious sent_id line: '# sent_id s407/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   69]: Unknown UD DEPREL: dobj
+[Line                   70]: Unknown UD DEPREL: dobj
+[Line                   75]: The forward slash is reserved for special use in parallel treebanks: s3/ug
+[Line                   99]: The forward slash is reserved for special use in parallel treebanks: s4/ug
+[Line                   109]: The forward slash is reserved for special use in parallel treebanks: s5/ug
+[Line                   121]: The forward slash is reserved for special use in parallel treebanks: s6/ug
+[Line                   127]: The forward slash is reserved for special use in parallel treebanks: s7/ug
+[Line                   143]: Unknown UD DEPREL: dobj
+[Line                   150]: The forward slash is reserved for special use in parallel treebanks: s8/ug
+[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'نىمىشقا' but text is 'نېمىشقا بۇ قارلىغاچلارنى پو...'
+[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'بۇ' but text is 'نېمىشقا بۇ قارلىغاچلار...'
+[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'قارلىغاچلارنى' but text is 'نېمىشقا بۇ قارلىغاچلارنى پويىز بى...'
+[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'پويىز' but text is 'نېمىشقا بۇ قارلىغاچلارنى ...'
+[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'بىلەن' but text is 'نېمىشقا بۇ قارلىغاچلارنى ...'
+[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'ئاپىرىپ' but text is 'نېمىشقا بۇ قارلىغاچلارنى پو...'
+[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'قويماقچى' but text is 'نېمىشقا بۇ قارلىغاچلارنى پوي...'
+[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'بولۇشقاندۇ' but text is 'نېمىشقا بۇ قارلىغاچلارنى پويىز...'
+[Line                   150]: Mismatch between the text attribute and the FORM field. Form is '؟' but text is 'نېمىشقا بۇ قارلىغاچلا...'
+[Line                   150]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'نېمىشقا بۇ قارلىغاچلارنى پويىز بىلەن ئاپىرىپ قويماقچى بولۇشقاندۇ ؟'
+[Line                   158]: The forward slash is reserved for special use in parallel treebanks: s9/ug
 ...suppressing further errors regarding Metadata
-[Line                   83]: Unknown UPOS tag: CONJ
-[Line                   86]: Unknown UD DEPREL: dobj
-[Line                   103]: Unknown UD DEPREL: dobj
-[Line                   108]: Unknown UD DEPREL: dobj
-[Line                   118]: Unknown UPOS tag: CONJ
-[Line                   120]: Unknown UD DEPREL: dobj
-[Line                   174]: Unknown UD DEPREL: dobj
-[Line                   189]: Unknown UD DEPREL: dobj
-[Line                   217]: Unknown UD DEPREL: dobj
-[Line                   262]: Unknown UPOS tag: CONJ
-[Line                   272]: Unknown UPOS tag: CONJ
-[Line                   285]: Unknown UPOS tag: CONJ
-[Line                   305]: Unknown UPOS tag: CONJ
-[Line                   359]: Unknown UPOS tag: CONJ
-[Line                   375]: Unknown UPOS tag: CONJ
-[Line                   376]: Unknown UD DEPREL: dobj
-[Line                   435]: Unknown UD DEPREL: dobj
-[Line                   438]: Unknown UD DEPREL: dobj
-[Line                   453]: Unknown UD DEPREL: dobj
-[Line                   469]: Unknown UPOS tag: CONJ
-[Line                   477]: Unknown UD DEPREL: dobj
-[Line                   485]: Unknown UD DEPREL: dobj
-[Line                   499]: Unknown UD DEPREL: dobj
-[Line                   511]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-[Line                   536]: Unknown UPOS tag: CONJ
-[Line                   642]: Unknown UPOS tag: CONJ
-[Line                   657]: Unknown UPOS tag: CONJ
-[Line                   730]: Unknown UPOS tag: CONJ
-[Line                   737]: Unknown UPOS tag: CONJ
-[Line                   773]: Unknown UPOS tag: CONJ
-[Line                   795]: Unknown UPOS tag: CONJ
-[Line                   798]: Unknown UPOS tag: CONJ
-[Line                   952]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 405 errors
-Metadata errors: 300
-Morpho errors: 29
-Syntax errors: 76
-
-
-******************
-
-python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
-
-[Line                   8]: Unknown UD DEPREL: dobj
-[Line                   14]: Unknown UD DEPREL: dobj
-[Line                   20]: Unknown UD DEPREL: dobj
-[Line                   33]: Spurious sent_id line: '# sent_id s1/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   33]: Missing the sent_id attribute.
-[Line                   33]: Missing the text attribute.
-[Line                   37]: Unknown UD DEPREL: dobj
-[Line                   43]: Unknown UPOS tag: CONJ
-[Line                   51]: Unknown UD DEPREL: dobj
-[Line                   55]: Spurious sent_id line: '# sent_id s2/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   55]: Missing the sent_id attribute.
-[Line                   55]: Missing the text attribute.
-[Line                   59]: Unknown UD DEPREL: dobj
-[Line                   63]: Unknown UD DEPREL: dobj
-[Line                   65]: Unknown UPOS tag: CONJ
-[Line                   66]: Unknown UD DEPREL: dobj
-[Line                   67]: Unknown UD DEPREL: dobj
-[Line                   72]: Spurious sent_id line: '# sent_id s3/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   72]: Missing the sent_id attribute.
-[Line                   72]: Missing the text attribute.
-[Line                   95]: Spurious sent_id line: '# sent_id s4/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   95]: Missing the sent_id attribute.
-[Line                   95]: Missing the text attribute.
-[Line                   104]: Spurious sent_id line: '# sent_id s5/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   104]: Missing the sent_id attribute.
-[Line                   104]: Missing the text attribute.
-[Line                   115]: Spurious sent_id line: '# sent_id s6/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   115]: Missing the sent_id attribute.
-[Line                   115]: Missing the text attribute.
-[Line                   120]: Spurious sent_id line: '# sent_id s7/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-...suppressing further errors regarding Metadata
-[Line                   135]: Unknown UD DEPREL: dobj
-[Line                   185]: Unknown UPOS tag: CONJ
-[Line                   186]: Unknown UPOS tag: CONJ
-[Line                   186]: Unknown UD DEPREL: mwe
-[Line                   197]: Unknown UD DEPREL: dobj
-[Line                   206]: Unknown UD DEPREL: dobj
-[Line                   212]: Unknown UPOS tag: CONJ
-[Line                   216]: Unknown UD DEPREL: dobj:cau
-[Line                   229]: Unknown UD DEPREL: dobj
-[Line                   235]: Unknown UD DEPREL: dobj
-[Line                   242]: Unknown UPOS tag: CONJ
-[Line                   247]: Unknown UPOS tag: CONJ
+[Line                   198]: Unknown UD DEPREL: mwe
+[Line                   210]: Unknown UD DEPREL: dobj
+[Line                   219]: Unknown UD DEPREL: dobj
+[Line                   230]: Unknown UD DEPREL: dobj:cau
+[Line                   244]: Unknown UD DEPREL: dobj
 [Line                   250]: Unknown UD DEPREL: dobj
-[Line                   255]: Unknown UD DEPREL: dobj
 [Line                   266]: Unknown UD DEPREL: dobj
-[Line                   274]: Unknown UPOS tag: CONJ
+[Line                   271]: Unknown UD DEPREL: dobj
+[Line                   283]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
-[Line                   311]: Unknown UPOS tag: CONJ
-[Line                   346]: Unknown UPOS tag: CONJ
-[Line                   561]: Unknown UPOS tag: CONJ
-[Line                   592]: Unknown UPOS tag: CONJ
-[Line                   598]: Unknown UPOS tag: CONJ
-[Line                   618]: Unknown UPOS tag: CONJ
-[Line                   623]: Unknown UPOS tag: CONJ
-[Line                   716]: Unknown UPOS tag: CONJ
-[Line                   789]: Unknown UPOS tag: CONJ
-[Line                   881]: Unknown UPOS tag: CONJ
-[Line                   935]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 3182 errors
-Metadata errors: 2400
-Morpho errors: 178
-Syntax errors: 604
+*** FAILED *** with 1760 errors
+Metadata errors: 1020
+Syntax errors: 740
 
 
 ******************
