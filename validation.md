@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-05T19:06:52Z">2017-02-05T19:06:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-05T19:36:20Z">2017-02-05T19:36:20 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5786,11 +5786,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:06:25Z">2017-01-30T15:06:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T19:36:19Z">2017-02-05T19:36:19 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
+python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
 [Line                   7]: Spurious sent_id line: '# sent_id s401/ug' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   7]: Missing the sent_id attribute.
@@ -5860,7 +5860,7 @@ Syntax errors: 76
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
+python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-train.conllu
 
 [Line                   8]: Unknown UD DEPREL: dobj
 [Line                   14]: Unknown UD DEPREL: dobj
