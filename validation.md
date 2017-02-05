@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-04T22:13:33Z">2017-02-04T22:13:33 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-05T11:43:11Z">2017-02-05T11:43:11 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3036,146 +3036,62 @@ Syntax errors: 7237
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:57:46Z">2017-01-30T14:57:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T11:42:38Z">2017-02-05T11:42:38 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
+python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
 
-[Line                   12]: Unknown UD DEPREL: dobj
-[Line                   26]: Spurious sent_id line: '# sent_id a_tree-hi-s1-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   26]: Missing the sent_id attribute.
-[Line                   26]: Missing the text attribute.
-[Line                   43]: Spurious sent_id line: '# sent_id a_tree-hi-s2-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   43]: Missing the sent_id attribute.
-[Line                   43]: Missing the text attribute.
-[Line                   52]: Unknown UPOS tag: CONJ
-[Line                   64]: Spurious sent_id line: '# sent_id a_tree-hi-s3-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   64]: Missing the sent_id attribute.
-[Line                   64]: Missing the text attribute.
-[Line                   77]: Unknown UPOS tag: CONJ
-[Line                   93]: Spurious sent_id line: '# sent_id a_tree-hi-s4-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   93]: Missing the sent_id attribute.
-[Line                   93]: Missing the text attribute.
-[Line                   107]: Spurious sent_id line: '# sent_id a_tree-hi-s5-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   107]: Missing the sent_id attribute.
-[Line                   107]: Missing the text attribute.
-[Line                   132]: Spurious sent_id line: '# sent_id a_tree-hi-s6-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   132]: Missing the sent_id attribute.
-[Line                   132]: Missing the text attribute.
-[Line                   134]: Unknown attribute-value pair Polite=Pol
-[Line                   138]: Spurious sent_id line: '# sent_id a_tree-hi-s7-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-...suppressing further errors regarding Metadata
-[Line                   149]: Unknown attribute-value pair Polite=Pol
-[Line                   212]: Unknown UD DEPREL: nsubjpass
-[Line                   217]: Unknown UD DEPREL: auxpass
-[Line                   218]: Unknown UD DEPREL: auxpass
-[Line                   223]: Unknown UD DEPREL: nsubjpass
-[Line                   225]: Unknown UD DEPREL: auxpass
-[Line                   226]: Unknown UD DEPREL: auxpass
-[Line                   249]: Unknown UD DEPREL: auxpass
-[Line                   250]: Unknown UD DEPREL: auxpass
-[Line                   293]: Unknown UD DEPREL: auxpass
-[Line                   295]: Unknown UPOS tag: CONJ
-[Line                   303]: Unknown UPOS tag: CONJ
-[Line                   309]: Unknown UPOS tag: CONJ
-[Line                   313]: Unknown UD DEPREL: nsubjpass
-[Line                   316]: Unknown UD DEPREL: auxpass
-[Line                   317]: Unknown UD DEPREL: auxpass
-[Line                   322]: Unknown UD DEPREL: dobj
-[Line                   337]: Unknown UD DEPREL: auxpass
-[Line                   374]: Unknown attribute-value pair Polite=Pol
-[Line                   427]: Unknown UD DEPREL: dobj
-[Line                   444]: Unknown attribute-value pair Polite=Pol
-[Line                   457]: Unknown attribute-value pair Polite=Pol
-[Line                   459]: Unknown UPOS tag: CONJ
-[Line                   463]: Unknown UD DEPREL: auxpass
-[Line                   464]: Unknown UD DEPREL: auxpass
-[Line                   474]: Unknown UPOS tag: CONJ
-[Line                   478]: Unknown UD DEPREL: dobj
+[Line                   225]: Unknown UD DEPREL: nsubj:pass
+[Line                   230]: Unknown UD DEPREL: aux:pass
+[Line                   231]: Unknown UD DEPREL: aux:pass
+[Line                   236]: Unknown UD DEPREL: nsubj:pass
+[Line                   238]: Unknown UD DEPREL: aux:pass
+[Line                   239]: Unknown UD DEPREL: aux:pass
+[Line                   264]: Unknown UD DEPREL: aux:pass
+[Line                   265]: Unknown UD DEPREL: aux:pass
+[Line                   311]: Unknown UD DEPREL: aux:pass
+[Line                   331]: Unknown UD DEPREL: nsubj:pass
+[Line                   334]: Unknown UD DEPREL: aux:pass
+[Line                   335]: Unknown UD DEPREL: aux:pass
+[Line                   356]: Unknown UD DEPREL: aux:pass
+[Line                   491]: Unknown UD DEPREL: aux:pass
+[Line                   492]: Unknown UD DEPREL: aux:pass
+[Line                   509]: Unknown UD DEPREL: aux:pass
+[Line                   540]: Unknown UD DEPREL: aux:pass
+[Line                   541]: Unknown UD DEPREL: aux:pass
+[Line                   561]: Unknown UD DEPREL: aux:pass
 ...suppressing further errors regarding Syntax
-[Line                   658]: Unknown UPOS tag: CONJ
-[Line                   704]: Unknown attribute-value pair Polite=Pol
-[Line                   806]: Unknown attribute-value pair Polite=Pol
-[Line                   944]: Unknown UPOS tag: CONJ
-[Line                   979]: Unknown UPOS tag: CONJ
-[Line                   1005]: Unknown UPOS tag: CONJ
-[Line                   1021]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 9692 errors
-Metadata errors: 4977
-Morpho errors: 1644
-Syntax errors: 3071
+*** FAILED *** with 1136 errors
+Syntax errors: 1136
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-train.conllu
+python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 
-[Line                   13]: Spurious sent_id line: '# sent_id a_tree-hi-s1-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   13]: Missing the sent_id attribute.
-[Line                   13]: Missing the text attribute.
-[Line                   15]: Unknown UD DEPREL: dobj
-[Line                   22]: Spurious sent_id line: '# sent_id a_tree-hi-s2-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   22]: Missing the sent_id attribute.
-[Line                   22]: Missing the text attribute.
-[Line                   31]: Spurious sent_id line: '# sent_id a_tree-hi-s3-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   31]: Missing the sent_id attribute.
-[Line                   31]: Missing the text attribute.
-[Line                   37]: Unknown UPOS tag: CONJ
-[Line                   50]: Spurious sent_id line: '# sent_id a_tree-hi-s4-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   50]: Missing the sent_id attribute.
-[Line                   50]: Missing the text attribute.
-[Line                   58]: Spurious sent_id line: '# sent_id a_tree-hi-s5-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   58]: Missing the sent_id attribute.
-[Line                   58]: Missing the text attribute.
-[Line                   70]: Unknown UD DEPREL: dobj
-[Line                   76]: Spurious sent_id line: '# sent_id a_tree-hi-s6-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   76]: Missing the sent_id attribute.
-[Line                   76]: Missing the text attribute.
-[Line                   98]: Unknown attribute-value pair Polite=Pol
-[Line                   98]: Unknown UD DEPREL: dobj
-[Line                   103]: Unknown UD DEPREL: auxpass
-[Line                   104]: Unknown UD DEPREL: auxpass
-[Line                   106]: Spurious sent_id line: '# sent_id a_tree-hi-s7-root' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-...suppressing further errors regarding Metadata
-[Line                   110]: Unknown UPOS tag: CONJ
-[Line                   136]: Unknown UPOS tag: CONJ
-[Line                   145]: Unknown UD DEPREL: dobj
-[Line                   168]: Unknown UD DEPREL: dobj
-[Line                   196]: Unknown UPOS tag: CONJ
-[Line                   209]: Unknown UPOS tag: CONJ
-[Line                   234]: Unknown UD DEPREL: auxpass
-[Line                   265]: Unknown UPOS tag: CONJ
-[Line                   287]: Unknown UPOS tag: CONJ
-[Line                   293]: Unknown UPOS tag: CONJ
-[Line                   301]: Unknown UD DEPREL: auxpass
-[Line                   312]: Unknown UPOS tag: CONJ
-[Line                   317]: Unknown UD DEPREL: dobj
-[Line                   320]: Unknown UD DEPREL: auxpass
-[Line                   321]: Unknown UD DEPREL: auxpass
-[Line                   328]: Unknown UD DEPREL: dobj
-[Line                   337]: Unknown UPOS tag: CONJ
-[Line                   342]: Unknown UD DEPREL: auxpass
-[Line                   343]: Unknown UD DEPREL: auxpass
-[Line                   357]: Unknown UD DEPREL: dobj
-[Line                   359]: Unknown attribute-value pair VerbForm=Trans
-[Line                   361]: Unknown UD DEPREL: auxpass
-[Line                   362]: Unknown UD DEPREL: auxpass
-[Line                   398]: Unknown UPOS tag: CONJ
-[Line                   404]: Unknown UD DEPREL: dobj
+[Line                   110]: Unknown UD DEPREL: aux:pass
+[Line                   111]: Unknown UD DEPREL: aux:pass
+[Line                   248]: Unknown UD DEPREL: aux:pass
+[Line                   318]: Unknown UD DEPREL: aux:pass
+[Line                   338]: Unknown UD DEPREL: aux:pass
+[Line                   339]: Unknown UD DEPREL: aux:pass
+[Line                   361]: Unknown UD DEPREL: aux:pass
+[Line                   362]: Unknown UD DEPREL: aux:pass
+[Line                   381]: Unknown UD DEPREL: aux:pass
+[Line                   382]: Unknown UD DEPREL: aux:pass
+[Line                   430]: Unknown UD DEPREL: aux:pass
+[Line                   431]: Unknown UD DEPREL: aux:pass
+[Line                   452]: Unknown UD DEPREL: aux:pass
+[Line                   500]: Unknown UD DEPREL: aux:pass
+[Line                   524]: Unknown UD DEPREL: aux:pass
+[Line                   581]: Unknown UD DEPREL: aux:pass
+[Line                   617]: Unknown UD DEPREL: aux:pass
+[Line                   811]: Unknown UD DEPREL: aux:pass
+[Line                   825]: Unknown UD DEPREL: aux:pass
 ...suppressing further errors regarding Syntax
-[Line                   417]: Unknown attribute-value pair VerbForm=Trans
-[Line                   459]: Unknown attribute-value pair Polite=Pol
-[Line                   464]: Unknown UPOS tag: CONJ
-[Line                   471]: Unknown attribute-value pair Polite=Pol
-[Line                   472]: Unknown attribute-value pair Polite=Pol
-[Line                   473]: Unknown attribute-value pair Polite=Pol
-...suppressing further errors regarding Morpho
-*** FAILED *** with 77499 errors
-Metadata errors: 39912
-Morpho errors: 12869
-Syntax errors: 24718
+*** FAILED *** with 9341 errors
+Syntax errors: 9341
 
 
 ******************
