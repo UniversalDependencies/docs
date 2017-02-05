@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-05T19:05:28Z">2017-02-05T19:05:28 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-05T19:06:52Z">2017-02-05T19:06:52 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3325,11 +3325,11 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:58:26Z">2017-01-30T14:58:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T19:06:33Z">2017-02-05T19:06:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
 [Line                   4]: Unknown UD DEPREL: flat:name
 [Line                   77]: Unknown attribute-value pair Clit=Yes
@@ -3346,8 +3346,6 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJ
 [Line                   323]: Unknown UD DEPREL: flat:name
 [Line                   329]: Unknown UD DEPREL: aux:pass
 [Line                   335]: Unknown UD DEPREL: nsubj:pass
-[Line                   352]: Unknown UD DEPREL: flat:name
-[Line                   357]: Unknown UD DEPREL: flat:name
 [Line                   359]: Unknown UD DEPREL: nsubj:pass
 [Line                   361]: Unknown UD DEPREL: aux:pass
 [Line                   365]: Unknown UD DEPREL: obl:agent
@@ -3356,15 +3354,15 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJ
 [Line                   389]: Unknown UD DEPREL: flat:name
 [Line                   449]: Unknown UD DEPREL: flat:name
 [Line                   505]: Unknown attribute-value pair Clit=Yes
-[Line                   507]: There should not be a SpaceAfter=No entry for words which are a part of a token
-...suppressing further errors regarding Syntax
+[Line                   513]: Unknown UD DEPREL: aux:pass
+[Line                   515]: Unknown UD DEPREL: nsubj:pass
 [Line                   525]: Unknown attribute-value pair Clit=Yes
+...suppressing further errors regarding Syntax
 [Line                   670]: Unknown attribute-value pair Clit=Yes
 [Line                   728]: Unknown attribute-value pair Clit=Yes
 [Line                   770]: Unknown attribute-value pair Clit=Yes
 [Line                   812]: Unknown attribute-value pair Clit=Yes
 [Line                   823]: Unknown attribute-value pair Clit=Yes
-[Line                   825]: There should not be a SpaceAfter=No entry for words which are a part of a token
 [Line                   854]: Unknown attribute-value pair Clit=Yes
 [Line                   855]: Unknown attribute-value pair Clit=Yes
 [Line                   885]: Unknown attribute-value pair Clit=Yes
@@ -3373,19 +3371,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJ
 [Line                   915]: Unknown attribute-value pair Clit=Yes
 [Line                   923]: Unknown attribute-value pair Clit=Yes
 ...suppressing further errors regarding Morpho
-[Line                   2069]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   3648]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   3732]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   7597]: There should not be a SpaceAfter=No entry for words which are a part of a token
-*** FAILED *** with 424 errors
-Metadata errors: 6
+*** FAILED *** with 415 errors
 Morpho errors: 138
-Syntax errors: 280
+Syntax errors: 277
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 
 [Line                   28]: Unknown UD DEPREL: flat:name
 [Line                   34]: Unknown UD DEPREL: nsubj:pass
@@ -3426,31 +3419,10 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJ
 [Line                   2343]: Unknown attribute-value pair Clit=Yes
 [Line                   2440]: Unknown attribute-value pair Clit=Yes
 [Line                   2445]: Unknown attribute-value pair Clit=Yes
-[Line                   2448]: There should not be a SpaceAfter=No entry for words which are a part of a token
 ...suppressing further errors regarding Morpho
-[Line                   3091]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   4708]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   6100]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   6329]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   6713]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   6865]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   8803]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   10226]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   12133]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   13607]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   13655]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   15892]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   16634]: Mismatch between the text attribute and the FORM field. Form is 'abbattersi' but text is ' abbattersi" per primo su Petr...'
-[Line                   16634]: There should not be a SpaceAfter=No entry for words which are a part of a token
-[Line                   16634]: Mismatch between the text attribute and the FORM field. Form is '"' but text is ' abbattersi" per prim...'
-[Line                   16634]: Mismatch between the text attribute and the FORM field. Form is 'per' but text is ' abbattersi" per primo ...'
-[Line                   16634]: Mismatch between the text attribute and the FORM field. Form is 'primo' but text is ' abbattersi" per primo su...'
-[Line                   16634]: Mismatch between the text attribute and the FORM field. Form is 'su' but text is ' abbattersi" per primo...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 10524 errors
-Metadata errors: 447
+*** FAILED *** with 9991 errors
 Morpho errors: 3376
-Syntax errors: 6701
+Syntax errors: 6615
 
 
 ******************
