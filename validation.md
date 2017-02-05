@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-05T12:25:11Z">2017-02-05T12:25:11 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-05T13:30:36Z">2017-02-05T13:30:36 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -513,54 +513,33 @@ Syntax errors: 6742
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-03T14:11:58Z">2017-02-03T14:11:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T13:30:22Z">2017-02-05T13:30:22 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
 
-[Line                   10]: Spurious sent_id line: '# sent_id 10' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   10]: Missing the sent_id attribute.
-[Line                   10]: Missing the text attribute.
-[Line                   19]: Spurious sent_id line: '# sent_id 20' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   19]: Missing the sent_id attribute.
-[Line                   19]: Missing the text attribute.
-[Line                   30]: Spurious sent_id line: '# sent_id 30' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   30]: Missing the sent_id attribute.
-[Line                   30]: Missing the text attribute.
-[Line                   39]: Spurious sent_id line: '# sent_id 40' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   39]: Missing the sent_id attribute.
-[Line                   39]: Missing the text attribute.
-[Line                   53]: Spurious sent_id line: '# sent_id 50' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   53]: Missing the sent_id attribute.
-[Line                   53]: Missing the text attribute.
-[Line                   63]: Spurious sent_id line: '# sent_id 60' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   63]: Missing the sent_id attribute.
-[Line                   63]: Missing the text attribute.
-[Line                   74]: Spurious sent_id line: '# sent_id 70' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-...suppressing further errors regarding Metadata
-[Line                   156]: Unknown UD DEPREL: neg
-[Line                   299]: Unknown UD DEPREL: neg
-[Line                   307]: Unknown UD DEPREL: neg
-[Line                   587]: Unknown UD DEPREL: neg
-[Line                   609]: Unknown UD DEPREL: neg
-[Line                   703]: Unknown UD DEPREL: neg
-[Line                   724]: Unknown UD DEPREL: neg
-[Line                   843]: Unknown UD DEPREL: neg
-[Line                   925]: Unknown UD DEPREL: neg
-[Line                   1009]: Unknown UD DEPREL: neg
-[Line                   1240]: Unknown UD DEPREL: neg
-[Line                   1425]: Unknown UD DEPREL: neg
-[Line                   1515]: Unknown UD DEPREL: neg
-[Line                   1571]: Unknown UD DEPREL: neg
-[Line                   1727]: Unknown UD DEPREL: neg
-[Line                   1772]: Unknown UD DEPREL: neg
-[Line                   1818]: Unknown UD DEPREL: neg
-[Line                   1839]: Unknown UD DEPREL: neg
-[Line                   1850]: Unknown UD DEPREL: neg
+[Line                   170]: Unknown UD DEPREL: neg
+[Line                   324]: Unknown UD DEPREL: neg
+[Line                   333]: Unknown UD DEPREL: neg
+[Line                   631]: Unknown UD DEPREL: neg
+[Line                   655]: Unknown UD DEPREL: neg
+[Line                   757]: Unknown UD DEPREL: neg
+[Line                   780]: Unknown UD DEPREL: neg
+[Line                   907]: Unknown UD DEPREL: neg
+[Line                   994]: Unknown UD DEPREL: neg
+[Line                   1084]: Unknown UD DEPREL: neg
+[Line                   1335]: Unknown UD DEPREL: neg
+[Line                   1536]: Unknown UD DEPREL: neg
+[Line                   1635]: Unknown UD DEPREL: neg
+[Line                   1695]: Unknown UD DEPREL: neg
+[Line                   1860]: Unknown UD DEPREL: neg
+[Line                   1907]: Unknown UD DEPREL: neg
+[Line                   1955]: Unknown UD DEPREL: neg
+[Line                   1977]: Unknown UD DEPREL: neg
+[Line                   1988]: Unknown UD DEPREL: neg
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 3496 errors
-Metadata errors: 3345
+*** FAILED *** with 151 errors
 Syntax errors: 151
 
 
@@ -568,70 +547,28 @@ Syntax errors: 151
 
 python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
 
-[Line                   15]: Spurious sent_id line: '# sent_id 2' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   15]: Missing the sent_id attribute.
-[Line                   15]: Missing the text attribute.
-[Line                   28]: Spurious sent_id line: '# sent_id 3' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   28]: Missing the sent_id attribute.
-[Line                   28]: Missing the text attribute.
-[Line                   36]: Unknown UD DEPREL: neg
-[Line                   40]: Spurious sent_id line: '# sent_id 4' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   40]: Missing the sent_id attribute.
-[Line                   40]: Missing the text attribute.
-[Line                   50]: Spurious sent_id line: '# sent_id 5' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   50]: Missing the sent_id attribute.
-[Line                   50]: Missing the text attribute.
-[Line                   59]: Unknown UD DEPREL: neg
-[Line                   67]: Spurious sent_id line: '# sent_id 6' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   67]: Missing the sent_id attribute.
-[Line                   67]: Missing the text attribute.
-[Line                   74]: Unknown UD DEPREL: neg
-[Line                   80]: Spurious sent_id line: '# sent_id 7' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   80]: Missing the sent_id attribute.
-[Line                   80]: Missing the text attribute.
-[Line                   93]: Spurious sent_id line: '# sent_id 8' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-...suppressing further errors regarding Metadata
-[Line                   101]: Unknown UD DEPREL: neg
-[Line                   110]: Unknown UD DEPREL: neg
-[Line                   185]: Unknown UD DEPREL: neg
+[Line                   39]: Unknown UD DEPREL: neg
+[Line                   64]: Unknown UD DEPREL: neg
+[Line                   80]: Unknown UD DEPREL: neg
+[Line                   109]: Unknown UD DEPREL: neg
+[Line                   119]: Unknown UD DEPREL: neg
 [Line                   202]: Unknown UD DEPREL: neg
-[Line                   263]: Unknown UD DEPREL: neg
-[Line                   608]: Unknown UD DEPREL: neg
-[Line                   1017]: Unknown UD DEPREL: neg
-[Line                   1101]: Unknown UD DEPREL: neg
-[Line                   1254]: Unknown UD DEPREL: neg
-[Line                   1306]: Unknown UD DEPREL: neg
-[Line                   1319]: Unknown UD DEPREL: neg
-[Line                   1356]: Unknown UD DEPREL: neg
-[Line                   1411]: Unknown UD DEPREL: neg
-[Line                   1427]: Unknown UD DEPREL: neg
-[Line                   1445]: Unknown UD DEPREL: neg
-[Line                   1825]: Unknown UD DEPREL: neg
+[Line                   220]: Unknown UD DEPREL: neg
+[Line                   286]: Unknown UD DEPREL: neg
+[Line                   658]: Unknown UD DEPREL: neg
+[Line                   1103]: Unknown UD DEPREL: neg
+[Line                   1195]: Unknown UD DEPREL: neg
+[Line                   1361]: Unknown UD DEPREL: neg
+[Line                   1417]: Unknown UD DEPREL: neg
+[Line                   1431]: Unknown UD DEPREL: neg
+[Line                   1472]: Unknown UD DEPREL: neg
+[Line                   1531]: Unknown UD DEPREL: neg
+[Line                   1548]: Unknown UD DEPREL: neg
+[Line                   1568]: Unknown UD DEPREL: neg
+[Line                   1978]: Unknown UD DEPREL: neg
 ...suppressing further errors regarding Syntax
-[Line                   32560]: White space not allowed in the DEPREL column: 'nsubj" a09="_" a10="_'
-[Line                   93847]: White space not allowed in the DEPREL column: 'nsubj" a09="_" a10="_'
-[Line                   95860]: White space not allowed in the DEPREL column: 'case" a09="_" a10="_'
-[Line                   95861]: White space not allowed in the DEPREL column: 'nmod" a09="_" a10="_'
-[Line                   95862]: White space not allowed in the DEPREL column: 'cc" a09="_" a10="_'
-[Line                   95863]: White space not allowed in the DEPREL column: 'conj" a09="_" a10="_'
-[Line                   95864]: White space not allowed in the DEPREL column: 'case" a09="_" a10="_'
-[Line                   95865]: White space not allowed in the DEPREL column: 'nmod" a09="_" a10="_'
-[Line                   95866]: White space not allowed in the DEPREL column: 'cc" a09="_" a10="_'
-[Line                   95867]: White space not allowed in the DEPREL column: 'case" a09="_" a10="_'
-[Line                   95868]: White space not allowed in the DEPREL column: 'amod" a09="_" a10="_'
-[Line                   95869]: White space not allowed in the DEPREL column: 'conj" a09="_" a10="_'
-[Line                   95870]: White space not allowed in the DEPREL column: 'case" a09="_" a10="_'
-[Line                   95871]: White space not allowed in the DEPREL column: 'nmod" a09="_" a10="_'
-[Line                   111964]: White space not allowed in the DEPREL column: 'case" a09="_" a10="_'
-[Line                   111965]: White space not allowed in the DEPREL column: 'obl" a09="_" a10="_'
-[Line                   111966]: White space not allowed in the DEPREL column: 'nsubj" a09="_" a10="_'
-[Line                   111967]: White space not allowed in the DEPREL column: 'neg" a09="_" a10="_'
-[Line                   111968]: White space not allowed in the DEPREL column: 'advmod" a09="_" a10="_'
-...suppressing further errors regarding Format
-*** FAILED *** with 28028 errors
-Format errors: 58
-Metadata errors: 26721
-Syntax errors: 1249
+*** FAILED *** with 1133 errors
+Syntax errors: 1133
 
 
 ******************

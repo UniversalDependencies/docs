@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-02-05T12:24:55Z">2017-02-05T12:24:55 zulu</time>
+Regenerated <time class="timeago" datetime="2017-02-05T13:30:02Z">2017-02-05T13:30:02 zulu</time>
 
 # Aux chain
 
@@ -4379,7 +4379,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
-<span class="widespan">167 hits</span>
+<span class="widespan">159 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%28%3C%21punct%26%3C%21root%29+_&db=UD_Bulgarian-dev">Go to search</a><p/>
@@ -15472,7 +15472,7 @@ Search expression: `AUX (<!aux&<!aux:pass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Basque-dev">57</a></td>
 </tr>
 <tr><td>UD_Bulgarian</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Bulgarian-dev">190</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Bulgarian-dev">189</a></td>
 </tr>
 <tr><td>UD_Catalan</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Catalan-dev">4572</a></td>
@@ -15627,7 +15627,7 @@ Search expression: `AUX (<!aux&<!aux:pass) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
-<span class="widespan">190 hits</span>
+<span class="widespan">189 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Bulgarian-dev">Go to search</a><p/>
@@ -17313,7 +17313,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
-<span class="widespan">4336 hits</span>
+<span class="widespan">4338 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21CCONJ%26%21SYM%26%21ADV+%3Ccc+_&db=UD_Bulgarian-dev">Go to search</a><p/>
