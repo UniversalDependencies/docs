@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-02-05T15:16:34Z">2017-02-05T15:16:34 zulu</time>
+Regenerated <time class="timeago" datetime="2017-02-05T17:19:25Z">2017-02-05T17:19:25 zulu</time>
 
 # Aux chain
 
@@ -3619,13 +3619,6 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cmark+_&db=UD_Czech-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Czech-CAC</span>
-<span class="widespan">5 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cmark+_&db=UD_Czech-CAC-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Danish</span>
@@ -10422,7 +10415,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech-CAC</span>
-<span class="widespan">3196 hits</span>
+<span class="widespan">3213 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Czech-CAC-dev">Go to search</a><p/>
@@ -11004,21 +10997,21 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Czech-CAC</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">14</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">13</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">902</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">807</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">26</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">9</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">35</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">28</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">26</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">27</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">20</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">13</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
@@ -12197,7 +12190,7 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech-CAC</span>
-<span class="widespan">1036 hits</span>
+<span class="widespan">924 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Czech-CAC-dev">Go to search</a><p/>
@@ -12793,7 +12786,7 @@ Search expression: `!PRON&!NOUN&!PROPN >acl _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Eacl+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Eacl+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Eacl+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Eacl+_&db=UD_Czech-CAC-dev">29</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Eacl+_&db=UD_Czech-CAC-dev">938</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Eacl+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Eacl+_&db=UD_Czech-CAC-dev">11</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Eacl+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
@@ -13688,7 +13681,7 @@ Search expression: `!PRON&!NOUN&!PROPN >acl _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Czech-CAC</span>
-<span class="widespan">158 hits</span>
+<span class="widespan">1067 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21PRON%26%21NOUN%26%21PROPN+%3Eacl+_&db=UD_Czech-CAC-dev">Go to search</a><p/>
@@ -16133,12 +16126,12 @@ Search expression: `!AUX (<aux|<aux:pass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">1</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Czech-CAC-dev">1</a></td>
@@ -17930,12 +17923,12 @@ Search expression: `_ < (_ <cc _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">200</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">7</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">16</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">7</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Czech-CAC-dev">4</a></td>
@@ -20945,12 +20938,12 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Excomp+_&db=UD_Czech-CAC-dev">2</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Excomp+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Excomp+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Excomp+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Excomp+_&db=UD_Czech-CAC-dev">114</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Excomp+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Excomp+_&db=UD_Czech-CAC-dev">767</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Excomp+_&db=UD_Czech-CAC-dev">6</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Excomp+_&db=UD_Czech-CAC-dev">11</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Excomp+_&db=UD_Czech-CAC-dev">205</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Excomp+_&db=UD_Czech-CAC-dev">91</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Excomp+_&db=UD_Czech-CAC-dev">63</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Excomp+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Excomp+_&db=UD_Czech-CAC-dev">&nbsp;</a></td>
