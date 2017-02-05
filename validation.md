@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-05T19:55:11Z">2017-02-05T19:55:11 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-05T20:48:57Z">2017-02-05T20:48:57 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5785,56 +5785,14 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T19:55:10Z">2017-02-05T19:55:10 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T20:48:56Z">2017-02-05T20:48:56 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
-[Line                   9]: Unknown UD DEPREL: dobj
-[Line                   15]: Unknown UD DEPREL: dobj
-[Line                   21]: Unknown UD DEPREL: dobj
-[Line                   34]: The forward slash is reserved for special use in parallel treebanks: s1/ug
-[Line                   39]: Unknown UD DEPREL: dobj
-[Line                   53]: Unknown UD DEPREL: dobj
-[Line                   57]: The forward slash is reserved for special use in parallel treebanks: s2/ug
-[Line                   62]: Unknown UD DEPREL: dobj
-[Line                   66]: Unknown UD DEPREL: dobj
-[Line                   69]: Unknown UD DEPREL: dobj
-[Line                   70]: Unknown UD DEPREL: dobj
-[Line                   75]: The forward slash is reserved for special use in parallel treebanks: s3/ug
-[Line                   99]: The forward slash is reserved for special use in parallel treebanks: s4/ug
-[Line                   109]: The forward slash is reserved for special use in parallel treebanks: s5/ug
-[Line                   121]: The forward slash is reserved for special use in parallel treebanks: s6/ug
-[Line                   127]: The forward slash is reserved for special use in parallel treebanks: s7/ug
-[Line                   143]: Unknown UD DEPREL: dobj
-[Line                   150]: The forward slash is reserved for special use in parallel treebanks: s8/ug
-[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'نىمىشقا' but text is 'نېمىشقا بۇ قارلىغاچلارنى پو...'
-[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'بۇ' but text is 'نېمىشقا بۇ قارلىغاچلار...'
-[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'قارلىغاچلارنى' but text is 'نېمىشقا بۇ قارلىغاچلارنى پويىز بى...'
-[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'پويىز' but text is 'نېمىشقا بۇ قارلىغاچلارنى ...'
-[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'بىلەن' but text is 'نېمىشقا بۇ قارلىغاچلارنى ...'
-[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'ئاپىرىپ' but text is 'نېمىشقا بۇ قارلىغاچلارنى پو...'
-[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'قويماقچى' but text is 'نېمىشقا بۇ قارلىغاچلارنى پوي...'
-[Line                   150]: Mismatch between the text attribute and the FORM field. Form is 'بولۇشقاندۇ' but text is 'نېمىشقا بۇ قارلىغاچلارنى پويىز...'
-[Line                   150]: Mismatch between the text attribute and the FORM field. Form is '؟' but text is 'نېمىشقا بۇ قارلىغاچلا...'
-[Line                   150]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'نېمىشقا بۇ قارلىغاچلارنى پويىز بىلەن ئاپىرىپ قويماقچى بولۇشقاندۇ ؟'
-[Line                   158]: The forward slash is reserved for special use in parallel treebanks: s9/ug
-...suppressing further errors regarding Metadata
-[Line                   198]: Unknown UD DEPREL: mwe
-[Line                   210]: Unknown UD DEPREL: dobj
-[Line                   219]: Unknown UD DEPREL: dobj
-[Line                   230]: Unknown UD DEPREL: dobj:cau
-[Line                   244]: Unknown UD DEPREL: dobj
-[Line                   250]: Unknown UD DEPREL: dobj
-[Line                   266]: Unknown UD DEPREL: dobj
-[Line                   271]: Unknown UD DEPREL: dobj
-[Line                   283]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1760 errors
-Metadata errors: 1020
-Syntax errors: 740
+*** PASSED ***
 
 
 ******************
