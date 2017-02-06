@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-06T21:58:08Z">2017-02-06T21:58:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-06T23:35:00Z">2017-02-06T23:35:00 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3325,39 +3325,19 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T19:06:33Z">2017-02-05T19:06:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-06T23:34:46Z">2017-02-06T23:34:46 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
-[Line                   4]: Unknown UD DEPREL: flat:name
 [Line                   77]: Unknown attribute-value pair Clit=Yes
-[Line                   92]: Unknown UD DEPREL: nsubj:pass
-[Line                   94]: Unknown UD DEPREL: aux:pass
 [Line                   138]: Unknown attribute-value pair Clit=Yes
-[Line                   155]: Unknown UD DEPREL: flat:name
 [Line                   181]: Unknown attribute-value pair Clit=Yes
 [Line                   267]: Unknown attribute-value pair Clit=Yes
-[Line                   272]: Unknown UD DEPREL: aux:pass
-[Line                   275]: Unknown UD DEPREL: nsubj:pass
-[Line                   281]: Unknown UD DEPREL: aux:pass
-[Line                   322]: Unknown UD DEPREL: flat:name
-[Line                   323]: Unknown UD DEPREL: flat:name
-[Line                   329]: Unknown UD DEPREL: aux:pass
-[Line                   335]: Unknown UD DEPREL: nsubj:pass
-[Line                   359]: Unknown UD DEPREL: nsubj:pass
-[Line                   361]: Unknown UD DEPREL: aux:pass
-[Line                   365]: Unknown UD DEPREL: obl:agent
 [Line                   369]: Unknown attribute-value pair Clit=Yes
-[Line                   388]: Unknown UD DEPREL: flat:name
-[Line                   389]: Unknown UD DEPREL: flat:name
-[Line                   449]: Unknown UD DEPREL: flat:name
 [Line                   505]: Unknown attribute-value pair Clit=Yes
-[Line                   513]: Unknown UD DEPREL: aux:pass
-[Line                   515]: Unknown UD DEPREL: nsubj:pass
 [Line                   525]: Unknown attribute-value pair Clit=Yes
-...suppressing further errors regarding Syntax
 [Line                   670]: Unknown attribute-value pair Clit=Yes
 [Line                   728]: Unknown attribute-value pair Clit=Yes
 [Line                   770]: Unknown attribute-value pair Clit=Yes
@@ -3371,37 +3351,16 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
 [Line                   915]: Unknown attribute-value pair Clit=Yes
 [Line                   923]: Unknown attribute-value pair Clit=Yes
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 415 errors
+*** FAILED *** with 138 errors
 Morpho errors: 138
-Syntax errors: 277
 
 
 ******************
 
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
 
-[Line                   28]: Unknown UD DEPREL: flat:name
-[Line                   34]: Unknown UD DEPREL: nsubj:pass
-[Line                   37]: Unknown UD DEPREL: aux:pass
-[Line                   114]: Unknown UD DEPREL: flat:name
-[Line                   145]: Unknown UD DEPREL: obl:agent
 [Line                   146]: Unknown attribute-value pair Clit=Yes
-[Line                   156]: Unknown UD DEPREL: flat:name
-[Line                   194]: Unknown UD DEPREL: flat:name
-[Line                   219]: Unknown UD DEPREL: flat:name
-[Line                   224]: Unknown UD DEPREL: flat:name
-[Line                   237]: Unknown UD DEPREL: nsubj:pass
-[Line                   238]: Unknown UD DEPREL: flat:name
-[Line                   243]: Unknown UD DEPREL: aux:pass
-[Line                   253]: Unknown UD DEPREL: flat:name
-[Line                   268]: Unknown UD DEPREL: flat:name
-[Line                   283]: Unknown UD DEPREL: flat:name
-[Line                   318]: Unknown UD DEPREL: flat:name
-[Line                   326]: Unknown UD DEPREL: flat:name
 [Line                   358]: Unknown attribute-value pair Clit=Yes
-[Line                   384]: Unknown UD DEPREL: obl:agent
-[Line                   392]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
 [Line                   437]: Unknown attribute-value pair Clit=Yes
 [Line                   577]: Unknown attribute-value pair Clit=Yes
 [Line                   590]: Unknown attribute-value pair Clit=Yes
@@ -3420,9 +3379,8 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 [Line                   2440]: Unknown attribute-value pair Clit=Yes
 [Line                   2445]: Unknown attribute-value pair Clit=Yes
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 9991 errors
+*** FAILED *** with 3376 errors
 Morpho errors: 3376
-Syntax errors: 6615
 
 
 ******************
