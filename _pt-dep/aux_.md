@@ -27,5 +27,5 @@ aux(dizer, pode)
 
 ~~~ sdparse
 Acabou assinando com o Interscope
-aux(assinando, acabou)
+aux(assinando, Acabou)
 ~~~
